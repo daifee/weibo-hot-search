@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708482833903,
+  "endTime": 1708485467836,
   "band_list": [
     {
       "raw_hot": 4061856,
@@ -9,6 +9,14 @@
       "onboard_time": 1708481196,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2513962,
+      "num": 2513962,
+      "word": "又一自称柳鑫宇账号爆料",
+      "onboard_time": 1708482036,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 2075853,
@@ -107,14 +115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1187669,
-      "num": 1187669,
-      "word": "又一自称柳鑫宇账号爆料",
-      "onboard_time": 1708482036,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1052871,
       "num": 1052871,
       "word": "金晨 不存在白敬亭放鸽子",
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 882058,
+      "num": 882058,
+      "word": "橙皮手镯",
+      "onboard_time": 1708482876,
+      "rank": 6,
+      "category": "时尚,美妆"
+    },
+    {
       "raw_hot": 839627,
       "num": 839627,
       "word": "第二十条票房反超熊出没",
@@ -139,12 +147,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 835431,
+      "num": 835431,
+      "word": "IU玄学",
+      "onboard_time": 1708483834,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 780059,
       "num": 780059,
       "word": "目前票房前6都是跨界导演",
       "onboard_time": 1708445254,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 775810,
+      "num": 775810,
+      "word": "鹿晗关晓彤聚餐会友",
+      "onboard_time": 1708484914,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 740917,
@@ -169,6 +193,14 @@
       "onboard_time": 1708419280,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 616490,
+      "num": 616490,
+      "word": "员工因bug事故被强制要求归还年终奖",
+      "onboard_time": 1708483053,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 615860,
@@ -283,20 +315,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 425111,
+      "num": 425111,
+      "word": "四川省考成绩",
+      "onboard_time": 1708482515,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 407899,
       "num": 366626,
       "word": "毕业工作四年只存了4w块钱",
       "onboard_time": 1708433980,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 407577,
-      "num": 407577,
-      "word": "四川省考成绩",
-      "onboard_time": 1708482515,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 404183,
@@ -339,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368688,
+      "num": 368688,
+      "word": "以后我的C盘永远不会满了",
+      "onboard_time": 1708484435,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 367457,
       "num": 367457,
       "word": "cos赵世子男网红道歉",
@@ -371,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316665,
+      "num": 316665,
+      "word": "易烊千玺ELLE3月刊封面",
+      "onboard_time": 1708482195,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 312819,
       "num": 312819,
       "word": "多部门已介入核查柳鑫宇自曝事件",
@@ -385,6 +433,14 @@
       "onboard_time": 1708475852,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303580,
+      "num": 303580,
+      "word": "看似胡闹 实则大孝",
+      "onboard_time": 1708482515,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 302265,
@@ -451,14 +507,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 265814,
-      "num": 265814,
-      "word": "易烊千玺ELLE3月刊封面",
-      "onboard_time": 1708482195,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 264124,
       "num": 264124,
       "word": "2023个税汇算今起可预约",
@@ -515,14 +563,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 242497,
-      "num": 242497,
-      "word": "看似胡闹 实则大孝",
-      "onboard_time": 1708482515,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 239846,
       "num": 237970,
       "word": "中国女游客泰国搭摩托车险遭司机强暴",
@@ -545,6 +585,14 @@
       "onboard_time": 1708479512,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233030,
+      "num": 233030,
+      "word": "iOS17.4更新电池健康菜单",
+      "onboard_time": 1708485093,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 232728,
@@ -635,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197235,
+      "num": 197235,
+      "word": "种地吧十个勤天成立一周年",
+      "onboard_time": 1708483234,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197180,
       "num": 197180,
       "word": "西安下雪",
@@ -643,12 +699,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195772,
+      "num": 195772,
+      "word": "你给了小时候的自己一耳光",
+      "onboard_time": 1708485035,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 192607,
+      "num": 192607,
+      "word": "非我不可",
+      "onboard_time": 1708484675,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191205,
       "num": 191205,
       "word": "从保安考上央美之后",
       "onboard_time": 1708476695,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 190767,
+      "num": 190767,
+      "word": "时代少年团新歌",
+      "onboard_time": 1708484493,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 188297,
@@ -728,6 +808,22 @@
       "word": "雪天出行的8个提醒",
       "onboard_time": 1708480893,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157955,
+      "num": 157955,
+      "word": "太原的雪震惊到我了",
+      "onboard_time": 1708483471,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 154992,
+      "num": 154992,
+      "word": "上海飞青岛票价只要14元",
+      "onboard_time": 1708485334,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -819,6 +915,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 134811,
+      "num": 211171,
+      "word": "小米龙铠架构",
+      "onboard_time": 1708484974,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 133775,
+      "num": 387752,
+      "word": "父亲的购物记录原来是这样的",
+      "onboard_time": 1708482634,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127234,
       "num": 127234,
       "word": "张佳宁点不掉的痣",
@@ -889,6 +1001,14 @@
       "onboard_time": 1708471345,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115068,
+      "num": 1555036,
+      "word": "雪天出行安全指南",
+      "onboard_time": 1708484077,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114021,
@@ -1057,14 +1177,6 @@
       "onboard_time": 1708471404,
       "rank": 38,
       "category": "军事"
-    },
-    {
-      "raw_hot": 58071,
-      "num": 144340,
-      "word": "父亲的购物记录原来是这样的",
-      "onboard_time": 1708482634,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57469,

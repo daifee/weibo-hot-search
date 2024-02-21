@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708482833903,
+  "endTime": 1708485467836,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -185,6 +185,14 @@
       "onboard_time": 1708338937,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2513962,
+      "num": 2513962,
+      "word": "又一自称柳鑫宇账号爆料",
+      "onboard_time": 1708482036,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 2415461,
@@ -923,14 +931,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1187669,
-      "num": 1187669,
-      "word": "又一自称柳鑫宇账号爆料",
-      "onboard_time": 1708482036,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1173753,
       "num": 1173753,
       "word": "专家说上班第一天少干活儿",
@@ -1283,6 +1283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 882058,
+      "num": 882058,
+      "word": "橙皮手镯",
+      "onboard_time": 1708482876,
+      "rank": 6,
+      "category": "时尚,美妆"
+    },
+    {
       "raw_hot": 881648,
       "num": 658953,
       "word": "傲娇美 殷世航",
@@ -1369,6 +1377,14 @@
       "onboard_time": 1708246476,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 835431,
+      "num": 835431,
+      "word": "IU玄学",
+      "onboard_time": 1708483834,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 826909,
@@ -1505,6 +1521,14 @@
       "onboard_time": 1708314034,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 775810,
+      "num": 775810,
+      "word": "鹿晗关晓彤聚餐会友",
+      "onboard_time": 1708484914,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 775634,
@@ -1985,6 +2009,14 @@
       "onboard_time": 1708227274,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 616490,
+      "num": 616490,
+      "word": "员工因bug事故被强制要求归还年终奖",
+      "onboard_time": 1708483053,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 615860,
@@ -2939,6 +2971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 425111,
+      "num": 425111,
+      "word": "四川省考成绩",
+      "onboard_time": 1708482515,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 420181,
       "num": 420181,
       "word": "专家谈胖东来开除当事员工",
@@ -3049,14 +3089,6 @@
       "onboard_time": 1708299387,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 407577,
-      "num": 407577,
-      "word": "四川省考成绩",
-      "onboard_time": 1708482515,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 405210,
@@ -3385,6 +3417,14 @@
       "onboard_time": 1708430620,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 368688,
+      "num": 368688,
+      "word": "以后我的C盘永远不会满了",
+      "onboard_time": 1708484435,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 368373,
@@ -3843,6 +3883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316665,
+      "num": 316665,
+      "word": "易烊千玺ELLE3月刊封面",
+      "onboard_time": 1708482195,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 315066,
       "num": 315066,
       "word": "老板路过看到我的工位沉默了",
@@ -4009,6 +4057,14 @@
       "onboard_time": 1708243235,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303580,
+      "num": 303580,
+      "word": "看似胡闹 实则大孝",
+      "onboard_time": 1708482515,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 303535,
@@ -4619,14 +4675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265814,
-      "num": 265814,
-      "word": "易烊千玺ELLE3月刊封面",
-      "onboard_time": 1708482195,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 265362,
       "num": 265362,
       "word": "Kpop可汗大点兵",
@@ -5067,14 +5115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 242497,
-      "num": 242497,
-      "word": "看似胡闹 实则大孝",
-      "onboard_time": 1708482515,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 241550,
       "num": 241550,
       "word": "江苏卫视长风渡定档",
@@ -5233,6 +5273,14 @@
       "onboard_time": 1708250614,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 233030,
+      "num": 233030,
+      "word": "iOS17.4更新电池健康菜单",
+      "onboard_time": 1708485093,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 232820,
@@ -6187,6 +6235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197235,
+      "num": 197235,
+      "word": "种地吧十个勤天成立一周年",
+      "onboard_time": 1708483234,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197180,
       "num": 197180,
       "word": "西安下雪",
@@ -6241,6 +6297,14 @@
       "onboard_time": 1708214911,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195772,
+      "num": 195772,
+      "word": "你给了小时候的自己一耳光",
+      "onboard_time": 1708485035,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 195361,
@@ -6331,6 +6395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 192607,
+      "num": 192607,
+      "word": "非我不可",
+      "onboard_time": 1708484675,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 192330,
       "num": 192330,
       "word": "孙千与路人撞衫了",
@@ -6401,6 +6473,14 @@
       "onboard_time": 1708424198,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190767,
+      "num": 190767,
+      "word": "时代少年团新歌",
+      "onboard_time": 1708484493,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 190653,
@@ -7555,6 +7635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157955,
+      "num": 157955,
+      "word": "太原的雪震惊到我了",
+      "onboard_time": 1708483471,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 157600,
       "num": 371025,
       "word": "公路高铁3月1日即将进站",
@@ -7656,6 +7744,14 @@
       "word": "春节假期国内游客花了6326亿",
       "onboard_time": 1708236993,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154992,
+      "num": 154992,
+      "word": "上海飞青岛票价只要14元",
+      "onboard_time": 1708485334,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -8299,6 +8395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134811,
+      "num": 211171,
+      "word": "小米龙铠架构",
+      "onboard_time": 1708484974,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 134792,
       "num": 134792,
       "word": "乳糖不耐受人群如何科学喝奶",
@@ -8313,6 +8417,14 @@
       "onboard_time": 1708265735,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 133775,
+      "num": 387752,
+      "word": "父亲的购物记录原来是这样的",
+      "onboard_time": 1708482634,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133302,
@@ -8593,6 +8705,14 @@
       "onboard_time": 1708257753,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 115068,
+      "num": 1555036,
+      "word": "雪天出行安全指南",
+      "onboard_time": 1708484077,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114207,
@@ -8945,14 +9065,6 @@
       "onboard_time": 1708286896,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 58071,
-      "num": 144340,
-      "word": "父亲的购物记录原来是这样的",
-      "onboard_time": 1708482634,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57857,

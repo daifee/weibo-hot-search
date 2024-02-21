@@ -1,0 +1,410 @@
+{
+  "runTime": 1708485467836,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2513962,
+        "num": 2513962,
+        "word": "又一自称柳鑫宇账号爆料",
+        "onboard_time": 1708482036,
+        "rank": 0,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 2216362,
+        "num": 2216362,
+        "word": "四六级成绩 小牌大耍",
+        "onboard_time": 1708481196,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115068,
+        "num": 1555036,
+        "word": "雪天出行安全指南",
+        "onboard_time": 1708484077,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1526458,
+        "num": 1526458,
+        "word": "朴敏英患抑郁症",
+        "onboard_time": 1708481258,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1097536,
+        "num": 1097536,
+        "word": "台媒曝夏克立家暴黄嘉千细节",
+        "onboard_time": 1708478736,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1074686,
+        "num": 1074686,
+        "word": "李翊云小儿子去世",
+        "onboard_time": 1708480117,
+        "rank": 5,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 882058,
+        "num": 882058,
+        "word": "橙皮手镯",
+        "onboard_time": 1708482876,
+        "rank": 6,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 835431,
+        "num": 835431,
+        "word": "IU玄学",
+        "onboard_time": 1708483834,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 775810,
+        "num": 775810,
+        "word": "鹿晗关晓彤聚餐会友",
+        "onboard_time": 1708484914,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 774156,
+        "num": 774156,
+        "word": "夫妻离婚要求分割2孩子26万压岁钱",
+        "onboard_time": 1708474834,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723941,
+        "num": 723941,
+        "word": "谈恋爱最不受欢迎的星座",
+        "onboard_time": 1708472969,
+        "rank": 10,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 661166,
+        "num": 661166,
+        "word": "节后浙江疾控艾滋病咨询电话增两三倍",
+        "onboard_time": 1708471527,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616490,
+        "num": 616490,
+        "word": "员工因bug事故被强制要求归还年终奖",
+        "onboard_time": 1708483053,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595242,
+        "num": 595242,
+        "word": "制片人评价白敬亭",
+        "onboard_time": 1708475671,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 464202,
+        "num": 464202,
+        "word": "柯基跑丢后被人关鸡棚看了一年鸡",
+        "onboard_time": 1708473571,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 425111,
+        "num": 425111,
+        "word": "四川省考成绩",
+        "onboard_time": 1708482515,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133775,
+        "num": 387752,
+        "word": "父亲的购物记录原来是这样的",
+        "onboard_time": 1708482634,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379754,
+        "num": 379754,
+        "word": "网剧飞驰人生定档",
+        "onboard_time": 1708479695,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 438147,
+        "num": 379344,
+        "word": "金晨 不存在白敬亭放鸽子",
+        "onboard_time": 1708430136,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377746,
+        "num": 377746,
+        "word": "周杰伦霉霉演唱会座位",
+        "onboard_time": 1708473151,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 368688,
+        "num": 368688,
+        "word": "以后我的C盘永远不会满了",
+        "onboard_time": 1708484435,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 345875,
+        "num": 345875,
+        "word": "贾玲健身细节首次曝光",
+        "onboard_time": 1708479695,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328777,
+        "num": 328777,
+        "word": "北京暴雪",
+        "onboard_time": 1708473750,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316665,
+        "num": 316665,
+        "word": "易烊千玺ELLE3月刊封面",
+        "onboard_time": 1708482195,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 303580,
+        "num": 303580,
+        "word": "看似胡闹 实则大孝",
+        "onboard_time": 1708482515,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295335,
+        "num": 295335,
+        "word": "第二十条票房反超熊出没",
+        "onboard_time": 1708475738,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 283109,
+        "num": 283109,
+        "word": "赵世子",
+        "onboard_time": 1708471103,
+        "rank": 26,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 263506,
+        "num": 263506,
+        "word": "西安的雪往下砸",
+        "onboard_time": 1708480837,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253544,
+        "num": 253544,
+        "word": "美媒介绍世界最好吃50种面包中国烧饼上榜",
+        "onboard_time": 1708480533,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 235449,
+        "num": 235449,
+        "word": "原来神仙都有自己的小癖好",
+        "onboard_time": 1708475132,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233030,
+        "num": 233030,
+        "word": "iOS17.4更新电池健康菜单",
+        "onboard_time": 1708485093,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 226015,
+        "num": 226015,
+        "word": "痔疮膏购买力广东全国第1",
+        "onboard_time": 1708481133,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134811,
+        "num": 211171,
+        "word": "小米龙铠架构",
+        "onboard_time": 1708484974,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 197235,
+        "num": 197235,
+        "word": "种地吧十个勤天成立一周年",
+        "onboard_time": 1708483234,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195772,
+        "num": 195772,
+        "word": "你给了小时候的自己一耳光",
+        "onboard_time": 1708485035,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193725,
+        "num": 193725,
+        "word": "故宫雪景",
+        "onboard_time": 1708480233,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 193392,
+        "num": 193392,
+        "word": "肖战 请不要再蹲守了",
+        "onboard_time": 1708441478,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192607,
+        "num": 192607,
+        "word": "非我不可",
+        "onboard_time": 1708484675,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190767,
+        "num": 190767,
+        "word": "时代少年团新歌",
+        "onboard_time": 1708484493,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182056,
+        "num": 182056,
+        "word": "出现这7种表现可能是蛋白质没吃够",
+        "onboard_time": 1708479274,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175636,
+        "num": 175636,
+        "word": "央视网评秦朗丢寒假作业事件",
+        "onboard_time": 1708440879,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157955,
+        "num": 157955,
+        "word": "太原的雪震惊到我了",
+        "onboard_time": 1708483471,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 154992,
+        "num": 154992,
+        "word": "上海飞青岛票价只要14元",
+        "onboard_time": 1708485334,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153387,
+        "num": 153387,
+        "word": "春节寄养一只猫要上万元",
+        "onboard_time": 1708479512,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148599,
+        "num": 148599,
+        "word": "许凯报警",
+        "onboard_time": 1708437219,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148589,
+        "num": 148589,
+        "word": "苹果升级iPhone16麦克风",
+        "onboard_time": 1708478434,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144477,
+        "num": 144477,
+        "word": "中方对美否决加沙停火决议强烈不满和失望",
+        "onboard_time": 1708477594,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141805,
+        "num": 141805,
+        "word": "成都地铁站首位龙宝宝诞生",
+        "onboard_time": 1708482456,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140337,
+        "num": 140337,
+        "word": "目前票房前6都是跨界导演",
+        "onboard_time": 1708445254,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139469,
+        "num": 139469,
+        "word": "一张工位照片看精神状态",
+        "onboard_time": 1708479996,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央全面深化改革委员会第四次会议#"
+    }
+  }
+}

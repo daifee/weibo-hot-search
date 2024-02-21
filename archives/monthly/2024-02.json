@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708482833903,
+  "endTime": 1708485467836,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1000,6 +1000,14 @@
       "word": "医学奇迹",
       "onboard_time": 1707306875,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2513962,
+      "num": 2513962,
+      "word": "又一自称柳鑫宇账号爆料",
+      "onboard_time": 1708482036,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -4395,14 +4403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1187669,
-      "num": 1187669,
-      "word": "又一自称柳鑫宇账号爆料",
-      "onboard_time": 1708482036,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1183592,
       "num": 1183592,
       "word": "一宝妈妈产子",
@@ -6835,6 +6835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 882058,
+      "num": 882058,
+      "word": "橙皮手镯",
+      "onboard_time": 1708482876,
+      "rank": 6,
+      "category": "时尚,美妆"
+    },
+    {
       "raw_hot": 881672,
       "num": 881672,
       "word": "大年初六送穷",
@@ -7481,6 +7489,14 @@
       "onboard_time": 1708246476,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 835431,
+      "num": 835431,
+      "word": "IU玄学",
+      "onboard_time": 1708483834,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 834754,
@@ -8361,6 +8377,14 @@
       "onboard_time": 1708146752,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 775810,
+      "num": 775810,
+      "word": "鹿晗关晓彤聚餐会友",
+      "onboard_time": 1708484914,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 775634,
@@ -11281,6 +11305,14 @@
       "onboard_time": 1708227274,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 616490,
+      "num": 616490,
+      "word": "员工因bug事故被强制要求归还年终奖",
+      "onboard_time": 1708483053,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 616277,
@@ -16611,6 +16643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 425111,
+      "num": 425111,
+      "word": "四川省考成绩",
+      "onboard_time": 1708482515,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 424956,
       "num": 424956,
       "word": "ateez 抄袭",
@@ -17305,14 +17345,6 @@
       "onboard_time": 1707872913,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 407577,
-      "num": 407577,
-      "word": "四川省考成绩",
-      "onboard_time": 1708482515,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 407541,
@@ -19057,6 +19089,14 @@
       "onboard_time": 1707197912,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368688,
+      "num": 368688,
+      "word": "以后我的C盘永远不会满了",
+      "onboard_time": 1708484435,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 368373,
@@ -21499,6 +21539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316665,
+      "num": 316665,
+      "word": "易烊千玺ELLE3月刊封面",
+      "onboard_time": 1708482195,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 316585,
       "num": 316585,
       "word": "借出房车卫生间当事女生发声",
@@ -22337,6 +22385,14 @@
       "onboard_time": 1708243235,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303580,
+      "num": 303580,
+      "word": "看似胡闹 实则大孝",
+      "onboard_time": 1708482515,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 303487,
@@ -25099,14 +25155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265814,
-      "num": 265814,
-      "word": "易烊千玺ELLE3月刊封面",
-      "onboard_time": 1708482195,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 265655,
       "num": 311103,
       "word": "第一次见猫被气得直喘气",
@@ -27171,14 +27219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242497,
-      "num": 242497,
-      "word": "看似胡闹 实则大孝",
-      "onboard_time": 1708482515,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 242391,
       "num": 242391,
       "word": "打雷姐 陪跑",
@@ -28257,6 +28297,14 @@
       "onboard_time": 1708250614,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 233030,
+      "num": 233030,
+      "word": "iOS17.4更新电池健康菜单",
+      "onboard_time": 1708485093,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 232967,
@@ -33763,6 +33811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197235,
+      "num": 197235,
+      "word": "种地吧十个勤天成立一周年",
+      "onboard_time": 1708483234,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197191,
       "num": 200474,
       "word": "龙标一出就不能再对着电影屏幕拍摄了",
@@ -34081,6 +34137,14 @@
       "onboard_time": 1708214911,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195772,
+      "num": 195772,
+      "word": "你给了小时候的自己一耳光",
+      "onboard_time": 1708485035,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 195743,
@@ -34779,6 +34843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192607,
+      "num": 192607,
+      "word": "非我不可",
+      "onboard_time": 1708484675,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 192586,
       "num": 192586,
       "word": "勇士曾尝试交易詹姆斯",
@@ -35201,6 +35273,14 @@
       "onboard_time": 1708424198,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190767,
+      "num": 190767,
+      "word": "时代少年团新歌",
+      "onboard_time": 1708484493,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 190740,
@@ -41555,6 +41635,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 157955,
+      "num": 157955,
+      "word": "太原的雪震惊到我了",
+      "onboard_time": 1708483471,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 157934,
       "num": 157934,
       "word": "中国抗癌协会的logo有螃蟹",
@@ -42121,6 +42209,14 @@
       "onboard_time": 1708094674,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154992,
+      "num": 154992,
+      "word": "上海飞青岛票价只要14元",
+      "onboard_time": 1708485334,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154956,
@@ -46331,6 +46427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134811,
+      "num": 211171,
+      "word": "小米龙铠架构",
+      "onboard_time": 1708484974,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 134792,
       "num": 134792,
       "word": "乳糖不耐受人群如何科学喝奶",
@@ -46505,6 +46609,14 @@
       "onboard_time": 1707632550,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133775,
+      "num": 387752,
+      "word": "父亲的购物记录原来是这样的",
+      "onboard_time": 1708482634,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133704,
@@ -50017,6 +50129,14 @@
       "onboard_time": 1707836440,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 115068,
+      "num": 1555036,
+      "word": "雪天出行安全指南",
+      "onboard_time": 1708484077,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115045,
@@ -53865,14 +53985,6 @@
       "onboard_time": 1708286896,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 58071,
-      "num": 144340,
-      "word": "父亲的购物记录原来是这样的",
-      "onboard_time": 1708482634,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58028,
