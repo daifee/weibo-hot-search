@@ -1,0 +1,410 @@
+{
+  "runTime": 1708519543418,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2220205,
+        "num": 2220205,
+        "word": "贾玲公开瘦身食谱",
+        "onboard_time": 1708517135,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1459513,
+        "num": 1459513,
+        "word": "这个月 头等舱空姐污名化",
+        "onboard_time": 1708515815,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48674,
+        "num": 1301229,
+        "word": "新质生产力成多地新春第一会热词",
+        "onboard_time": 1708518633,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1170277,
+        "num": 1170277,
+        "word": "日媒曝上百海上自卫队员集体拜鬼",
+        "onboard_time": 1708513774,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1012924,
+        "num": 1012924,
+        "word": "我的阿勒泰过审",
+        "onboard_time": 1708515576,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1289745,
+        "num": 972134,
+        "word": "长沙火车站",
+        "onboard_time": 1708498175,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722681,
+        "num": 722681,
+        "word": "孩子校服里掏出来的照片",
+        "onboard_time": 1708511318,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 624629,
+        "num": 624629,
+        "word": "中共中央印发中国共产党巡视工作条例",
+        "onboard_time": 1708516892,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 584563,
+        "num": 584563,
+        "word": "15元一斤的番茄让全村人住上别墅",
+        "onboard_time": 1708514972,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516069,
+        "num": 516069,
+        "word": "专家建议取消中考给孩子减压",
+        "onboard_time": 1708505257,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 481059,
+        "num": 481059,
+        "word": "贵州山火 火点",
+        "onboard_time": 1708507298,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436155,
+        "num": 436155,
+        "word": "马东锡 外卖头像",
+        "onboard_time": 1708515455,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412624,
+        "num": 412624,
+        "word": "存款多少才合适裸辞",
+        "onboard_time": 1708517374,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 371816,
+        "num": 371816,
+        "word": "为啥就中国人看片要字幕",
+        "onboard_time": 1708506455,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 323103,
+        "num": 323103,
+        "word": "贾玲消失一年唯一的活动",
+        "onboard_time": 1708503634,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303023,
+        "num": 303023,
+        "word": "王诗玥柳鑫宇75.43分",
+        "onboard_time": 1708499736,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271796,
+        "num": 271796,
+        "word": "易烊千玺的老派爱情观",
+        "onboard_time": 1708514434,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271226,
+        "num": 271226,
+        "word": "这波病毒为什么难缠",
+        "onboard_time": 1708514250,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 268117,
+        "num": 268117,
+        "word": "钟楚曦泰国plog",
+        "onboard_time": 1708511972,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262843,
+        "num": 262843,
+        "word": "ZOO舞台",
+        "onboard_time": 1708517315,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 880254,
+        "num": 262664,
+        "word": "马云妻子在新加坡购房",
+        "onboard_time": 1708509272,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 341556,
+        "num": 261201,
+        "word": "每顿就炒一个菜的家庭",
+        "onboard_time": 1708510594,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259134,
+        "num": 259134,
+        "word": "道枝骏佑发博",
+        "onboard_time": 1708514554,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237591,
+        "num": 237591,
+        "word": "吴昕皮衣",
+        "onboard_time": 1708517251,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237002,
+        "num": 237002,
+        "word": "林一将头发扒拉成大人模样",
+        "onboard_time": 1708515693,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218373,
+        "num": 218373,
+        "word": "长沙火车站当事女子发文回应",
+        "onboard_time": 1708505257,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207175,
+        "num": 207175,
+        "word": "周杰伦霉霉演唱会待遇",
+        "onboard_time": 1708500454,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204962,
+        "num": 204962,
+        "word": "杨迪晒爆改照",
+        "onboard_time": 1708509576,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202239,
+        "num": 202239,
+        "word": "强哥是忘了老高家的规矩了吗",
+        "onboard_time": 1708512455,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193547,
+        "num": 193547,
+        "word": "长期不吃或少吃主食减肥有啥危害",
+        "onboard_time": 1708508432,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214924,
+        "num": 192827,
+        "word": "小米官宣新发布会主讲人",
+        "onboard_time": 1708519114,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 191128,
+        "num": 191128,
+        "word": "迪丽热巴 折翼天使",
+        "onboard_time": 1708496375,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189219,
+        "num": 189219,
+        "word": "马龙3比0莫维利亚努",
+        "onboard_time": 1708519290,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188942,
+        "num": 188942,
+        "word": "李马克少年感",
+        "onboard_time": 1708519175,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188594,
+        "num": 188594,
+        "word": "春天壁纸",
+        "onboard_time": 1708506036,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183548,
+        "num": 183548,
+        "word": "手机电量需要低于20%再充吗",
+        "onboard_time": 1708510536,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 178053,
+        "num": 178053,
+        "word": "任嘉伦米兰探店路透",
+        "onboard_time": 1708519175,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173523,
+        "num": 173523,
+        "word": "妈妈才是我的知世",
+        "onboard_time": 1708516594,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 173014,
+        "num": 173014,
+        "word": "厉旭Sohee SMTOWN合作舞台",
+        "onboard_time": 1708518273,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171309,
+        "num": 171309,
+        "word": "花2年时间改造豪宅全过程",
+        "onboard_time": 1708517673,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169790,
+        "num": 169790,
+        "word": "RNG对战TES",
+        "onboard_time": 1708518633,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167335,
+        "num": 167335,
+        "word": "猎冰 绝命毒师",
+        "onboard_time": 1708515336,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160009,
+        "num": 160009,
+        "word": "王楚钦11比1",
+        "onboard_time": 1708515870,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156351,
+        "num": 156351,
+        "word": "广东一公司3员工疑因讲粤语被罚5000元",
+        "onboard_time": 1708510957,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150805,
+        "num": 150805,
+        "word": "王楚钦就让对手得了一分",
+        "onboard_time": 1708517198,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150150,
+        "num": 150150,
+        "word": "当小狗滑倒被主人嘲笑时",
+        "onboard_time": 1708519053,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145266,
+        "num": 145266,
+        "word": "上了一天班后我的身体",
+        "onboard_time": 1708518454,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143288,
+        "num": 143288,
+        "word": "猎冰",
+        "onboard_time": 1708510594,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142959,
+        "num": 142959,
+        "word": "贵州山火",
+        "onboard_time": 1708503634,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140880,
+        "num": 140880,
+        "word": "这个椅子对于i人太恐怖了",
+        "onboard_time": 1708517612,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#擘画鹭岛新画卷#"
+    }
+  }
+}
