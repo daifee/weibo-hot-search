@@ -1,0 +1,410 @@
+{
+  "runTime": 1708518657926,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2008817,
+        "num": 2008817,
+        "word": "贾玲公开瘦身食谱",
+        "onboard_time": 1708517135,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1453907,
+        "num": 1453907,
+        "word": "日媒曝上百海上自卫队员集体拜鬼",
+        "onboard_time": 1708513774,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 7349,
+        "num": 1315183,
+        "word": "新质生产力成多地新春第一会热词",
+        "onboard_time": 1708518633,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1192497,
+        "num": 1192497,
+        "word": "这个月 头等舱空姐污名化",
+        "onboard_time": 1708515815,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1035248,
+        "num": 1035248,
+        "word": "我的阿勒泰过审",
+        "onboard_time": 1708515576,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1543094,
+        "num": 1000543,
+        "word": "长沙火车站",
+        "onboard_time": 1708498175,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 885623,
+        "num": 885623,
+        "word": "孩子校服里掏出来的照片",
+        "onboard_time": 1708511318,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 656068,
+        "num": 656068,
+        "word": "15元一斤的番茄让全村人住上别墅",
+        "onboard_time": 1708514972,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630625,
+        "num": 630625,
+        "word": "专家建议取消中考给孩子减压",
+        "onboard_time": 1708505257,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 576563,
+        "num": 576563,
+        "word": "中共中央印发中国共产党巡视工作条例",
+        "onboard_time": 1708516892,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 473262,
+        "num": 473262,
+        "word": "贵州山火 火点",
+        "onboard_time": 1708507298,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420370,
+        "num": 420370,
+        "word": "为啥就中国人看片要字幕",
+        "onboard_time": 1708506455,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 388451,
+        "num": 388451,
+        "word": "存款多少才合适裸辞",
+        "onboard_time": 1708517374,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 370471,
+        "num": 370471,
+        "word": "马东锡 外卖头像",
+        "onboard_time": 1708515455,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364082,
+        "num": 364082,
+        "word": "贾玲消失一年唯一的活动",
+        "onboard_time": 1708503634,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 327458,
+        "num": 327458,
+        "word": "钟楚曦泰国plog",
+        "onboard_time": 1708511972,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309933,
+        "num": 309933,
+        "word": "王诗玥柳鑫宇75.43分",
+        "onboard_time": 1708499736,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304038,
+        "num": 304038,
+        "word": "易烊千玺的老派爱情观",
+        "onboard_time": 1708514434,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300597,
+        "num": 300597,
+        "word": "道枝骏佑发博",
+        "onboard_time": 1708514554,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295624,
+        "num": 295624,
+        "word": "这波病毒为什么难缠",
+        "onboard_time": 1708514250,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 989122,
+        "num": 295270,
+        "word": "马云妻子在新加坡购房",
+        "onboard_time": 1708509272,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 359793,
+        "num": 294882,
+        "word": "每顿就炒一个菜的家庭",
+        "onboard_time": 1708510594,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294089,
+        "num": 294089,
+        "word": "长沙火车站当事女子发文回应",
+        "onboard_time": 1708505257,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266448,
+        "num": 266448,
+        "word": "ZOO舞台",
+        "onboard_time": 1708517315,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 257233,
+        "num": 257233,
+        "word": "林一将头发扒拉成大人模样",
+        "onboard_time": 1708515693,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243792,
+        "num": 243792,
+        "word": "吴昕皮衣",
+        "onboard_time": 1708517251,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241616,
+        "num": 241616,
+        "word": "王楚钦11比1",
+        "onboard_time": 1708515870,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230801,
+        "num": 230801,
+        "word": "周杰伦霉霉演唱会待遇",
+        "onboard_time": 1708500454,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220454,
+        "num": 220454,
+        "word": "杨迪晒爆改照",
+        "onboard_time": 1708509576,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210935,
+        "num": 210935,
+        "word": "强哥是忘了老高家的规矩了吗",
+        "onboard_time": 1708512455,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206673,
+        "num": 206673,
+        "word": "迪丽热巴 折翼天使",
+        "onboard_time": 1708496375,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196948,
+        "num": 196948,
+        "word": "长期不吃或少吃主食减肥有啥危害",
+        "onboard_time": 1708508432,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192318,
+        "num": 192318,
+        "word": "妈妈才是我的知世",
+        "onboard_time": 1708516594,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 187729,
+        "num": 187729,
+        "word": "手机电量需要低于20%再充吗",
+        "onboard_time": 1708510536,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 84524,
+        "num": 185683,
+        "word": "新加坡航展上的中国国产飞机",
+        "onboard_time": 1708502734,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184154,
+        "num": 184154,
+        "word": "花2年时间改造豪宅全过程",
+        "onboard_time": 1708517673,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181763,
+        "num": 181763,
+        "word": "春天壁纸",
+        "onboard_time": 1708506036,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179983,
+        "num": 179983,
+        "word": "王楚钦就让对手得了一分",
+        "onboard_time": 1708517198,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176573,
+        "num": 176573,
+        "word": "广东一公司3员工疑因讲粤语被罚5000元",
+        "onboard_time": 1708510957,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174928,
+        "num": 174928,
+        "word": "猎冰 绝命毒师",
+        "onboard_time": 1708515336,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172205,
+        "num": 172205,
+        "word": "厉旭Sohee SMTOWN合作舞台",
+        "onboard_time": 1708518273,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155568,
+        "num": 155568,
+        "word": "这个椅子对于i人太恐怖了",
+        "onboard_time": 1708517612,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151436,
+        "num": 151436,
+        "word": "上了一天班后我的身体",
+        "onboard_time": 1708518454,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144105,
+        "num": 144105,
+        "word": "易烊千玺谈处理负面情绪",
+        "onboard_time": 1708516957,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144085,
+        "num": 144085,
+        "word": "樊振东3比0爱德华",
+        "onboard_time": 1708517198,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144060,
+        "num": 144060,
+        "word": "猎冰",
+        "onboard_time": 1708510594,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140177,
+        "num": 140177,
+        "word": "王诗玥柳鑫宇第一",
+        "onboard_time": 1708501176,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136687,
+        "num": 136687,
+        "word": "鹿晗关晓彤聚餐会友",
+        "onboard_time": 1708484914,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132739,
+        "num": 132739,
+        "word": "减肥不是减得越快越好",
+        "onboard_time": 1708516716,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132601,
+        "num": 132601,
+        "word": "RNG对战TES",
+        "onboard_time": 1708518633,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#绘就一幅美丽中国的厦门画卷#"
+    }
+  }
+}
