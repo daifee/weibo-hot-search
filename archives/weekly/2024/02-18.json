@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708486498766,
+  "endTime": 1708489220450,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -635,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1474973,
+      "num": 1474973,
+      "word": "上海飞青岛票价只要14元",
+      "onboard_time": 1708485334,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1457304,
       "num": 1457304,
       "word": "徐冬冬尹子维订婚",
@@ -1011,6 +1019,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1098163,
+      "num": 779161,
+      "word": "柳鑫宇收入",
+      "onboard_time": 1708485816,
+      "rank": 16,
+      "category": "体育,网红"
+    },
+    {
+      "raw_hot": 1096930,
+      "num": 1096930,
+      "word": "员工因bug事故被强制要求归还年终奖",
+      "onboard_time": 1708483053,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1088751,
       "num": 1088751,
       "word": "想请假",
@@ -1091,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 997525,
+      "num": 997525,
+      "word": "赵世子 宅男",
+      "onboard_time": 1708486654,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 991147,
       "num": 991147,
       "word": "薛之谦 你们人类有两幅面孔",
@@ -1105,6 +1137,14 @@
       "onboard_time": 1708310857,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 974417,
+      "num": 974417,
+      "word": "肖战 羽绒服",
+      "onboard_time": 1708487195,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 973206,
@@ -1459,14 +1499,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 797930,
-      "num": 797930,
-      "word": "员工因bug事故被强制要求归还年终奖",
-      "onboard_time": 1708483053,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 796756,
       "num": 764490,
       "word": "小夫妻抱婴儿乘高铁站8个多小时",
@@ -1617,6 +1649,14 @@
       "onboard_time": 1708261835,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 743587,
+      "num": 743587,
+      "word": "县城经济",
+      "onboard_time": 1708486414,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 740917,
@@ -1849,6 +1889,14 @@
       "onboard_time": 1708215811,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 662280,
+      "num": 395640,
+      "word": "女大学生3个月暴减60斤",
+      "onboard_time": 1708487437,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 661876,
@@ -2988,7 +3036,7 @@
     },
     {
       "raw_hot": 423907,
-      "num": 368688,
+      "num": 390907,
       "word": "以后我的C盘永远不会满了",
       "onboard_time": 1708484435,
       "rank": 20,
@@ -3081,14 +3129,6 @@
       "onboard_time": 1708407218,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 412111,
-      "num": 412111,
-      "word": "柳鑫宇收入",
-      "onboard_time": 1708485816,
-      "rank": 16,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 411283,
@@ -3491,14 +3531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 361966,
-      "num": 361966,
-      "word": "上海飞青岛票价只要14元",
-      "onboard_time": 1708485334,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 360716,
       "num": 360716,
       "word": "梅西ins",
@@ -3784,6 +3816,14 @@
       "word": "医生建议节后这些症状要就医",
       "onboard_time": 1708223613,
       "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 328308,
+      "num": 328308,
+      "word": "感冒了",
+      "onboard_time": 1708488457,
+      "rank": 25,
       "category": "健康医疗"
     },
     {
@@ -4203,6 +4243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 297593,
+      "num": 297593,
+      "word": "阴阳师助力",
+      "onboard_time": 1708488394,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 297145,
       "num": 297145,
       "word": "恋与深空徽章",
@@ -4516,7 +4564,7 @@
     },
     {
       "raw_hot": 274589,
-      "num": 289577,
+      "num": 295779,
       "word": "美媒介绍世界最好吃50种面包中国烧饼上榜",
       "onboard_time": 1708480533,
       "rank": 40,
@@ -4641,6 +4689,14 @@
       "onboard_time": 1708217731,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 268370,
+      "num": 268370,
+      "word": "福建神明系统",
+      "onboard_time": 1708487915,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 268144,
@@ -5297,6 +5353,14 @@
       "onboard_time": 1708173814,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233076,
+      "num": 233076,
+      "word": "张颂文 我的互联网大朋友",
+      "onboard_time": 1708488638,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 233068,
@@ -5979,6 +6043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206675,
+      "num": 206675,
+      "word": "今年的待播古装剧",
+      "onboard_time": 1708488755,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206340,
       "num": 206340,
       "word": "10斤的猫9斤的气场",
@@ -6259,6 +6331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 197551,
+      "num": 615533,
+      "word": "父亲的购物记录原来是这样的",
+      "onboard_time": 1708482634,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197528,
       "num": 197528,
       "word": "光遇",
@@ -6401,6 +6481,14 @@
       "onboard_time": 1708211662,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193326,
+      "num": 193326,
+      "word": "张颂文镜头下的北京初雪",
+      "onboard_time": 1708488338,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 192871,
@@ -6891,6 +6979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180639,
+      "num": 180639,
+      "word": "游神世子团",
+      "onboard_time": 1708488578,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 180439,
       "num": 180439,
       "word": "于正春节瘦了8斤",
@@ -7001,6 +7097,14 @@
       "onboard_time": 1708411835,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177487,
+      "num": 177487,
+      "word": "动物园里演动物",
+      "onboard_time": 1708488394,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 177326,
@@ -7137,14 +7241,6 @@
       "onboard_time": 1708332280,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 173671,
-      "num": 387752,
-      "word": "父亲的购物记录原来是这样的",
-      "onboard_time": 1708482634,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173394,
@@ -7755,6 +7851,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 156275,
+      "num": 156275,
+      "word": "经期请假怎么这么难",
+      "onboard_time": 1708486892,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156084,
       "num": 156084,
       "word": "小柯基立耳的瞬间",
@@ -7825,6 +7929,14 @@
       "onboard_time": 1708333177,
       "rank": 40,
       "category": "运动健身,健康医疗"
+    },
+    {
+      "raw_hot": 153530,
+      "num": 153530,
+      "word": "警方通报贵阳山火原因",
+      "onboard_time": 1708486477,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153422,
@@ -8395,6 +8507,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 137137,
+      "num": 171077,
+      "word": "什么是酸酶焕肤",
+      "onboard_time": 1708489056,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 136923,
       "num": 136923,
       "word": "专家激辩A股T加0",
@@ -8449,14 +8569,6 @@
       "onboard_time": 1708486414,
       "rank": 45,
       "category": "体育,网红"
-    },
-    {
-      "raw_hot": 134404,
-      "num": 134404,
-      "word": "县城经济",
-      "onboard_time": 1708486414,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 134338,
@@ -8585,14 +8697,6 @@
       "onboard_time": 1708215029,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 125465,
-      "num": 125465,
-      "word": "警方通报贵阳山火原因",
-      "onboard_time": 1708486477,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124787,

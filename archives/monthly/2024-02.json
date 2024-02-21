@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708486498766,
+  "endTime": 1708489220450,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -3115,6 +3115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1474973,
+      "num": 1474973,
+      "word": "上海飞青岛票价只要14元",
+      "onboard_time": 1708485334,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1472370,
       "num": 768923,
       "word": "衡水一中学老师被曝性骚扰女生",
@@ -5083,6 +5091,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1098163,
+      "num": 779161,
+      "word": "柳鑫宇收入",
+      "onboard_time": 1708485816,
+      "rank": 16,
+      "category": "体育,网红"
+    },
+    {
+      "raw_hot": 1096930,
+      "num": 1096930,
+      "word": "员工因bug事故被强制要求归还年终奖",
+      "onboard_time": 1708483053,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1096211,
       "num": 1096211,
       "word": "李诞卖穿戴甲",
@@ -5787,6 +5811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 997525,
+      "num": 997525,
+      "word": "赵世子 宅男",
+      "onboard_time": 1708486654,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 996510,
       "num": 996510,
       "word": "吴清任证监会主席",
@@ -5920,6 +5952,14 @@
       "word": "张婧仪头像",
       "onboard_time": 1706778687,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 974417,
+      "num": 974417,
+      "word": "肖战 羽绒服",
+      "onboard_time": 1708487195,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -8011,14 +8051,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 797930,
-      "num": 797930,
-      "word": "员工因bug事故被强制要求归还年终奖",
-      "onboard_time": 1708483053,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 797652,
       "num": 797652,
       "word": "奚梦瑶说22岁的金莎很漂亮",
@@ -8849,6 +8881,14 @@
       "onboard_time": 1707240923,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 743587,
+      "num": 743587,
+      "word": "县城经济",
+      "onboard_time": 1708486414,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 743407,
@@ -10353,6 +10393,14 @@
       "onboard_time": 1707049954,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 662280,
+      "num": 395640,
+      "word": "女大学生3个月暴减60斤",
+      "onboard_time": 1708487437,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 661876,
@@ -16716,7 +16764,7 @@
     },
     {
       "raw_hot": 423907,
-      "num": 368688,
+      "num": 390907,
       "word": "以后我的C盘永远不会满了",
       "onboard_time": 1708484435,
       "rank": 20,
@@ -17193,14 +17241,6 @@
       "onboard_time": 1708407218,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 412111,
-      "num": 412111,
-      "word": "柳鑫宇收入",
-      "onboard_time": 1708485816,
-      "rank": 16,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 412091,
@@ -19443,14 +19483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 361966,
-      "num": 361966,
-      "word": "上海飞青岛票价只要14元",
-      "onboard_time": 1708485334,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 361936,
       "num": 361936,
       "word": "卜冠今回应造型争议",
@@ -20960,6 +20992,14 @@
       "word": "医生建议节后这些症状要就医",
       "onboard_time": 1708223613,
       "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 328308,
+      "num": 328308,
+      "word": "感冒了",
+      "onboard_time": 1708488457,
+      "rank": 25,
       "category": "健康医疗"
     },
     {
@@ -22779,6 +22819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 297593,
+      "num": 297593,
+      "word": "阴阳师助力",
+      "onboard_time": 1708488394,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 297463,
       "num": 321952,
       "word": "看电影时女子播放视频哄孩子",
@@ -24468,7 +24516,7 @@
     },
     {
       "raw_hot": 274589,
-      "num": 289577,
+      "num": 295779,
       "word": "美媒介绍世界最好吃50种面包中国烧饼上榜",
       "onboard_time": 1708480533,
       "rank": 40,
@@ -24977,6 +25025,14 @@
       "onboard_time": 1706940569,
       "rank": 24,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 268370,
+      "num": 268370,
+      "word": "福建神明系统",
+      "onboard_time": 1708487915,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 268324,
@@ -28321,6 +28377,14 @@
       "onboard_time": 1708131869,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 233076,
+      "num": 233076,
+      "word": "张颂文 我的互联网大朋友",
+      "onboard_time": 1708488638,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 233068,
@@ -31899,6 +31963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206675,
+      "num": 206675,
+      "word": "今年的待播古装剧",
+      "onboard_time": 1708488755,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206602,
       "num": 206602,
       "word": "与凤行情人节MV",
@@ -33787,6 +33859,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 197551,
+      "num": 615533,
+      "word": "父亲的购物记录原来是这样的",
+      "onboard_time": 1708482634,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197528,
       "num": 197528,
       "word": "光遇",
@@ -34649,6 +34729,14 @@
       "onboard_time": 1707742535,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193326,
+      "num": 193326,
+      "word": "张颂文镜头下的北京初雪",
+      "onboard_time": 1708488338,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 193219,
@@ -37099,6 +37187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180639,
+      "num": 180639,
+      "word": "游神世子团",
+      "onboard_time": 1708488578,
+      "rank": 39,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 180632,
       "num": 180632,
       "word": "耐克将裁员约2%",
@@ -37697,6 +37793,14 @@
       "onboard_time": 1707378330,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 177487,
+      "num": 177487,
+      "word": "动物园里演动物",
+      "onboard_time": 1708488394,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 177462,
@@ -38473,14 +38577,6 @@
       "onboard_time": 1708130428,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173671,
-      "num": 387752,
-      "word": "父亲的购物记录原来是这样的",
-      "onboard_time": 1708482634,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173551,
@@ -41995,6 +42091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156275,
+      "num": 156275,
+      "word": "经期请假怎么这么难",
+      "onboard_time": 1708486892,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156229,
       "num": 156229,
       "word": "周深过年安排只有躺吃休",
@@ -42545,6 +42649,14 @@
       "onboard_time": 1708050028,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153530,
+      "num": 153530,
+      "word": "警方通报贵阳山火原因",
+      "onboard_time": 1708486477,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153495,
@@ -46011,6 +46123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137137,
+      "num": 171077,
+      "word": "什么是酸酶焕肤",
+      "onboard_time": 1708489056,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 137134,
       "num": 137134,
       "word": "迈阿密国际曾答应梅西至少上场45分钟",
@@ -46545,14 +46665,6 @@
       "onboard_time": 1707880773,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134404,
-      "num": 134404,
-      "word": "县城经济",
-      "onboard_time": 1708486414,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 134363,
@@ -48353,14 +48465,6 @@
       "onboard_time": 1706755769,
       "rank": 46,
       "category": "汽车,财经"
-    },
-    {
-      "raw_hot": 125465,
-      "num": 125465,
-      "word": "警方通报贵阳山火原因",
-      "onboard_time": 1708486477,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125428,

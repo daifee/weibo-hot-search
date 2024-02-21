@@ -1,0 +1,410 @@
+{
+  "runTime": 1708489220450,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2058602,
+        "num": 2058602,
+        "word": "鹿晗关晓彤聚餐会友",
+        "onboard_time": 1708484914,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1474973,
+        "num": 1474973,
+        "word": "上海飞青岛票价只要14元",
+        "onboard_time": 1708485334,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70443,
+        "num": 1188999,
+        "word": "雪天出行安全指南",
+        "onboard_time": 1708484077,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1182687,
+        "num": 1182687,
+        "word": "朴敏英患抑郁症",
+        "onboard_time": 1708481258,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1136432,
+        "num": 1136432,
+        "word": "四六级成绩 小牌大耍",
+        "onboard_time": 1708481196,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1096930,
+        "num": 1096930,
+        "word": "员工因bug事故被强制要求归还年终奖",
+        "onboard_time": 1708483053,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997525,
+        "num": 997525,
+        "word": "赵世子 宅男",
+        "onboard_time": 1708486654,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 974417,
+        "num": 974417,
+        "word": "肖战 羽绒服",
+        "onboard_time": 1708487195,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 819438,
+        "num": 819438,
+        "word": "台媒曝夏克立家暴黄嘉千细节",
+        "onboard_time": 1708478736,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 783642,
+        "num": 783642,
+        "word": "李翊云小儿子去世",
+        "onboard_time": 1708480117,
+        "rank": 9,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 1665029,
+        "num": 782641,
+        "word": "又一自称柳鑫宇账号爆料",
+        "onboard_time": 1708482036,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 1098163,
+        "num": 779161,
+        "word": "柳鑫宇收入",
+        "onboard_time": 1708485816,
+        "rank": 11,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 743587,
+        "num": 743587,
+        "word": "县城经济",
+        "onboard_time": 1708486414,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 631861,
+        "num": 631861,
+        "word": "IU玄学",
+        "onboard_time": 1708483834,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197551,
+        "num": 615533,
+        "word": "父亲的购物记录原来是这样的",
+        "onboard_time": 1708482634,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602557,
+        "num": 602557,
+        "word": "夫妻离婚要求分割2孩子26万压岁钱",
+        "onboard_time": 1708474834,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557423,
+        "num": 557423,
+        "word": "橙皮手镯",
+        "onboard_time": 1708482876,
+        "rank": 16,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 515895,
+        "num": 515895,
+        "word": "谈恋爱最不受欢迎的星座",
+        "onboard_time": 1708472969,
+        "rank": 17,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 493145,
+        "num": 493145,
+        "word": "制片人评价白敬亭",
+        "onboard_time": 1708475671,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396122,
+        "num": 396122,
+        "word": "周杰伦霉霉演唱会座位",
+        "onboard_time": 1708473151,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 662280,
+        "num": 395640,
+        "word": "女大学生3个月暴减60斤",
+        "onboard_time": 1708487437,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390907,
+        "num": 390907,
+        "word": "以后我的C盘永远不会满了",
+        "onboard_time": 1708484435,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 389474,
+        "num": 389474,
+        "word": "A股",
+        "onboard_time": 1708485634,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 336609,
+        "num": 336609,
+        "word": "柯基跑丢后被人关鸡棚看了一年鸡",
+        "onboard_time": 1708473571,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 335618,
+        "num": 335618,
+        "word": "iOS17.4更新电池健康菜单",
+        "onboard_time": 1708485093,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 328308,
+        "num": 328308,
+        "word": "感冒了",
+        "onboard_time": 1708488457,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 322572,
+        "num": 322572,
+        "word": "小龙糕",
+        "onboard_time": 1708487796,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 306838,
+        "num": 306838,
+        "word": "金智秀个人工作室成立",
+        "onboard_time": 1708485933,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297593,
+        "num": 297593,
+        "word": "阴阳师助力",
+        "onboard_time": 1708488394,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152131,
+        "num": 295779,
+        "word": "美媒介绍世界最好吃50种面包中国烧饼上榜",
+        "onboard_time": 1708480533,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 295267,
+        "num": 295267,
+        "word": "金晨 不存在白敬亭放鸽子",
+        "onboard_time": 1708430136,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268370,
+        "num": 268370,
+        "word": "福建神明系统",
+        "onboard_time": 1708487915,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 233076,
+        "num": 233076,
+        "word": "张颂文 我的互联网大朋友",
+        "onboard_time": 1708488638,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212867,
+        "num": 212867,
+        "word": "网剧飞驰人生定档",
+        "onboard_time": 1708479695,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209624,
+        "num": 209624,
+        "word": "西安的雪往下砸",
+        "onboard_time": 1708480837,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208529,
+        "num": 208529,
+        "word": "赵世子",
+        "onboard_time": 1708471103,
+        "rank": 35,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 206675,
+        "num": 206675,
+        "word": "今年的待播古装剧",
+        "onboard_time": 1708488755,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198777,
+        "num": 198777,
+        "word": "贾玲健身细节首次曝光",
+        "onboard_time": 1708479695,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193326,
+        "num": 193326,
+        "word": "张颂文镜头下的北京初雪",
+        "onboard_time": 1708488338,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180639,
+        "num": 180639,
+        "word": "游神世子团",
+        "onboard_time": 1708488578,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 177487,
+        "num": 177487,
+        "word": "动物园里演动物",
+        "onboard_time": 1708488394,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175499,
+        "num": 175499,
+        "word": "易烊千玺ELLE3月刊封面",
+        "onboard_time": 1708482195,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 171871,
+        "num": 171871,
+        "word": "你给了小时候的自己一耳光",
+        "onboard_time": 1708485035,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137137,
+        "num": 171077,
+        "word": "什么是酸酶焕肤",
+        "onboard_time": 1708489056,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 170851,
+        "num": 170851,
+        "word": "肖战 请不要再蹲守了",
+        "onboard_time": 1708441478,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160816,
+        "num": 160816,
+        "word": "看似胡闹 实则大孝",
+        "onboard_time": 1708482515,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156275,
+        "num": 156275,
+        "word": "经期请假怎么这么难",
+        "onboard_time": 1708486892,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153530,
+        "num": 153530,
+        "word": "警方通报贵阳山火原因",
+        "onboard_time": 1708486477,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152992,
+        "num": 152992,
+        "word": "第二十条票房反超熊出没",
+        "onboard_time": 1708475738,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151869,
+        "num": 151869,
+        "word": "种地吧十个勤天成立一周年",
+        "onboard_time": 1708483234,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#什么是马克思主义中国化时代化#"
+    }
+  }
+}
