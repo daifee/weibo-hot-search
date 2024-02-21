@@ -1,6 +1,6 @@
 {
   "startTime": 1708532526738,
-  "endTime": 1708539729054,
+  "endTime": 1708540464031,
   "band_list": [
     {
       "raw_hot": 1160009,
@@ -59,8 +59,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 662390,
-      "num": 662390,
+      "raw_hot": 667105,
+      "num": 667105,
       "word": "要睡多久觉才能把黑眼圈睡没",
       "onboard_time": 1708529614,
       "rank": 20,
@@ -315,6 +315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105874,
+      "num": 89478,
+      "word": "丽丽婚礼",
+      "onboard_time": 1708538901,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105713,
       "num": 105713,
       "word": "刘聪2024全球巡演",
@@ -419,20 +427,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 74518,
-      "num": 74518,
-      "word": "丽丽婚礼",
-      "onboard_time": 1708538901,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 73866,
       "num": 73866,
       "word": "这个月 头等舱空姐污名化",
       "onboard_time": 1708515815,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 63277,
+      "num": 63277,
+      "word": "航班延误",
+      "onboard_time": 1708539559,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60740,
@@ -443,11 +451,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 51737,
+      "num": 51737,
+      "word": "大侦探9号小孩是何老师",
+      "onboard_time": 1708539739,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49853,
       "num": 49853,
       "word": "贵州山火",
       "onboard_time": 1708503634,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46250,
+      "num": 46250,
+      "word": "贵阳贵安发布森林禁火令",
+      "onboard_time": 1708539678,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -467,11 +491,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 26781,
-      "num": 26781,
-      "word": "航班延误",
-      "onboard_time": 1708539559,
-      "rank": 42,
+      "raw_hot": 24500,
+      "num": 24500,
+      "word": "高铁晚点",
+      "onboard_time": 1708540159,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -481,14 +505,6 @@
       "onboard_time": 1708539379,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 23762,
-      "num": 23762,
-      "word": "贵阳贵安发布森林禁火令",
-      "onboard_time": 1708539678,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19074,
