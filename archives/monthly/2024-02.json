@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708529703183,
+  "endTime": 1708532526738,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -6923,8 +6923,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 902973,
-      "num": 902973,
+      "raw_hot": 905022,
+      "num": 905022,
       "word": "贵阳8场山火10人被处理",
       "onboard_time": 1708527759,
       "rank": 9,
@@ -7825,6 +7825,14 @@
       "onboard_time": 1708483834,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 835123,
+      "num": 835123,
+      "word": "近期高发的嗓子疼可能是这种急症",
+      "onboard_time": 1708526437,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 834754,
@@ -12579,6 +12587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 579417,
+      "num": 175046,
+      "word": "要睡多久觉才能把黑眼圈睡没",
+      "onboard_time": 1708529614,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 579195,
       "num": 579195,
       "word": "李勤勤收养周海媚爱犬",
@@ -16969,14 +16985,6 @@
       "onboard_time": 1706973632,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 432377,
-      "num": 286098,
-      "word": "近期高发的嗓子疼可能是这种急症",
-      "onboard_time": 1708526437,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 432199,
@@ -36243,6 +36251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192511,
+      "num": 165324,
+      "word": "不敢让自己太爽",
+      "onboard_time": 1708529497,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192484,
       "num": 192484,
       "word": "南北方小年为啥不在同一天",
@@ -39603,14 +39619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175046,
-      "num": 175046,
-      "word": "要睡多久觉才能把黑眼圈睡没",
-      "onboard_time": 1708529614,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 175045,
       "num": 175045,
       "word": "证监会官方微博对外展示评论",
@@ -41811,6 +41819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165278,
+      "num": 165278,
+      "word": "苏醒应酬的标准",
+      "onboard_time": 1708530574,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165256,
       "num": 1477706,
       "word": "放炮",
@@ -43593,6 +43609,14 @@
       "onboard_time": 1708221093,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 156551,
+      "num": 156551,
+      "word": "韩网锐评朴振英泡泡",
+      "onboard_time": 1708532369,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 156398,
@@ -47785,14 +47809,6 @@
       "onboard_time": 1707436645,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137153,
-      "num": 137153,
-      "word": "不敢让自己太爽",
-      "onboard_time": 1708529497,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 137149,
@@ -53403,6 +53419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105713,
+      "num": 105713,
+      "word": "刘聪2024全球巡演",
+      "onboard_time": 1708531413,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 105438,
       "num": 105438,
       "word": "反诈牢记8个不",
@@ -54257,6 +54281,14 @@
       "onboard_time": 1707038071,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 93996,
+      "num": 93996,
+      "word": "祝绪丹雪景照",
+      "onboard_time": 1708531649,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 93928,

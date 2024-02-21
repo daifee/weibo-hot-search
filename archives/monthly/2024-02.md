@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/02/01 00:20:11 ~ 2024/02/21 23:35:03
+本榜单时间：2024/02/01 00:20:11 ~ 2024/02/22 00:22:06
 </p>
 </blockquote>
 <p>
@@ -5206,7 +5206,7 @@ iPhone16Pro新配色（热度：905117）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B38%E5%9C%BA%E5%B1%B1%E7%81%AB10%E4%BA%BA%E8%A2%AB%E5%A4%84%E7%90%86%23" target="weibo">
-贵阳8场山火10人被处理（热度：902973）
+贵阳8场山火10人被处理（热度：905022）
 </a>
 </li>
 
@@ -5883,6 +5883,12 @@ IU玄学（热度：835431）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E6%9C%9F%E9%AB%98%E5%8F%91%E7%9A%84%E5%97%93%E5%AD%90%E7%96%BC%E5%8F%AF%E8%83%BD%E6%98%AF%E8%BF%99%E7%A7%8D%E6%80%A5%E7%97%87%23" target="weibo">
+近期高发的嗓子疼可能是这种急症（热度：835123）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%85%E5%AE%A2%E4%B9%B0%E7%9F%AD%E4%B9%98%E9%95%BF%E8%87%B4%E4%B8%A5%E9%87%8D%E8%B6%85%E5%91%98%E5%88%97%E8%BD%A6%E5%91%98%E6%8A%A5%E8%AD%A6%23" target="weibo">
 旅客买短乘长致严重超员列车员报警（热度：834754）
 </a>
@@ -6005,12 +6011,6 @@ IU玄学（热度：835431）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E8%87%AA%E7%BC%96%E8%87%AA%E5%AF%BC%E8%87%AA%E6%BC%94%E6%96%B0%E7%94%B5%E5%BD%B1%23" target="weibo">
 沈腾自编自导自演新电影（热度：819008）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%9B%9E%E5%BA%94%E4%B8%89%E6%96%87%E9%B1%BC%E4%B8%8D%E5%86%8D%E6%A0%87%E6%B3%A8%E5%BC%80%E8%A2%8B%E5%8D%B3%E9%A3%9F%23" target="weibo">
-山姆回应三文鱼不再标注开袋即食（热度：817398）
 </a>
 </li>
 
