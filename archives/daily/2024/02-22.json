@@ -1,6 +1,6 @@
 {
   "startTime": 1708532526738,
-  "endTime": 1708551327893,
+  "endTime": 1708553760874,
   "band_list": [
     {
       "raw_hot": 1160009,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 84940,
-      "num": 49515,
+      "num": 56577,
       "word": "夏克立 我从来没有家暴",
       "onboard_time": 1708542617,
       "rank": 31,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69779,
+      "num": 69779,
+      "word": "河南医生成功分离罕见胎中胎",
+      "onboard_time": 1708543997,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60740,
       "num": 38456,
       "word": "毛宁说台有关方面粗暴对待大陆渔船事件不是外交问题",
@@ -499,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43941,
+      "num": 43941,
+      "word": "官方回应3员工在公司讲粤语被罚5000",
+      "onboard_time": 1708549576,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34783,
       "num": 34783,
       "word": "看得出来她是真的很爱吃饭",
@@ -507,20 +523,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 29880,
-      "num": 21228,
+      "raw_hot": 34338,
+      "num": 27643,
       "word": "经常运动和不运动的人有啥区别",
       "onboard_time": 1708545019,
       "rank": 21,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 27599,
-      "num": 27599,
-      "word": "河南医生成功分离罕见胎中胎",
-      "onboard_time": 1708543997,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24472,
@@ -539,12 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19947,
-      "num": 19947,
-      "word": "官方回应3员工在公司讲粤语被罚5000",
-      "onboard_time": 1708549576,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 19579,
+      "num": 19579,
+      "word": "当代年轻人的隐形自虐",
+      "onboard_time": 1708552516,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 19074,
@@ -563,20 +571,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17588,
+      "num": 17913,
+      "word": "贾玲消失一年唯一的活动",
+      "onboard_time": 1708503634,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 16830,
       "num": 16830,
       "word": "雨花少娘",
       "onboard_time": 1708545197,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15216,
-      "num": 17913,
-      "word": "贾玲消失一年唯一的活动",
-      "onboard_time": 1708503634,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 14237,
@@ -593,6 +601,14 @@
       "onboard_time": 1708544418,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12150,
+      "num": 13193,
+      "word": "陕西和甘肃的社火 格局",
+      "onboard_time": 1708553177,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 10033,
