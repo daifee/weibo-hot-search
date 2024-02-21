@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708481073951,
+  "endTime": 1708482116473,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -73,6 +73,14 @@
       "onboard_time": 1708345178,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 4061856,
+      "num": 4061856,
+      "word": "四六级成绩 小牌大耍",
+      "onboard_time": 1708481196,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 3646082,
@@ -659,6 +667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1376316,
+      "num": 1376316,
+      "word": "朴敏英患抑郁症",
+      "onboard_time": 1708481258,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1373650,
       "num": 1373650,
       "word": "西虹市首富或将按原剧本重拍",
@@ -769,6 +785,14 @@
       "onboard_time": 1708441057,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1276607,
+      "num": 661527,
+      "word": "李翊云小儿子去世",
+      "onboard_time": 1708480117,
+      "rank": 12,
+      "category": "读书作家"
     },
     {
       "raw_hot": 1268746,
@@ -1795,14 +1819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 661527,
-      "num": 661527,
-      "word": "李翊云小儿子去世",
-      "onboard_time": 1708480117,
-      "rank": 12,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 659092,
       "num": 659092,
       "word": "梅西代言的赤水河酒已下架",
@@ -2715,6 +2731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 456107,
+      "num": 456107,
+      "word": "贾玲健身细节首次曝光",
+      "onboard_time": 1708479695,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 451672,
       "num": 451672,
       "word": "你好星期六下期有谭松韵王栎鑫",
@@ -2737,14 +2761,6 @@
       "onboard_time": 1708213406,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 445420,
-      "num": 445420,
-      "word": "贾玲健身细节首次曝光",
-      "onboard_time": 1708479695,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 445261,
@@ -3339,6 +3355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 369362,
+      "num": 369362,
+      "word": "原来神仙都有自己的小癖好",
+      "onboard_time": 1708475132,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368946,
       "num": 368946,
       "word": "iG对战BLG",
@@ -3369,14 +3393,6 @@
       "onboard_time": 1708243953,
       "rank": 38,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 367357,
-      "num": 367357,
-      "word": "原来神仙都有自己的小癖好",
-      "onboard_time": 1708475132,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365694,
@@ -3915,6 +3931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305598,
+      "num": 305598,
+      "word": "痔疮膏购买力广东全国第1",
+      "onboard_time": 1708481133,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 305568,
       "num": 305568,
       "word": "许光汉道枝骏佑新片剧照",
@@ -4379,6 +4403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 274534,
+      "num": 274534,
+      "word": "美媒介绍世界最好吃50种面包中国烧饼上榜",
+      "onboard_time": 1708480533,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 274230,
       "num": 274230,
       "word": "苹果2026年或将销售可折叠iPhone",
@@ -4424,6 +4456,14 @@
       "word": "派出所回应父亲把3岁孩子扔下楼",
       "onboard_time": 1708399957,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272287,
+      "num": 272287,
+      "word": "西安的雪往下砸",
+      "onboard_time": 1708480837,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -4633,6 +4673,14 @@
       "onboard_time": 1708414899,
       "rank": 28,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 258847,
+      "num": 258847,
+      "word": "故宫雪景",
+      "onboard_time": 1708480233,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 258541,
@@ -5411,14 +5459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221605,
-      "num": 221605,
-      "word": "故宫雪景",
-      "onboard_time": 1708480233,
-      "rank": 32,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 221391,
       "num": 221391,
       "word": "EDG对战WE",
@@ -5593,6 +5633,14 @@
       "onboard_time": 1708323519,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216493,
+      "num": 216493,
+      "word": "孙兴慜回应李刚仁道歉",
+      "onboard_time": 1708481556,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 216399,
@@ -5945,14 +5993,6 @@
       "onboard_time": 1708229615,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201817,
-      "num": 201817,
-      "word": "美媒介绍世界最好吃50种面包中国烧饼上榜",
-      "onboard_time": 1708480533,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 201764,
@@ -6547,6 +6587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186284,
+      "num": 186284,
+      "word": "又一自称柳鑫宇账号爆料",
+      "onboard_time": 1708482036,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185310,
       "num": 185310,
       "word": "C口AirPods或年内推出",
@@ -6784,14 +6832,6 @@
       "word": "海口回应被指过海效率低",
       "onboard_time": 1708183893,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178630,
-      "num": 178630,
-      "word": "西安的雪往下砸",
-      "onboard_time": 1708480837,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -7864,6 +7904,14 @@
       "word": "东部明星队半场104分",
       "onboard_time": 1708313073,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145681,
+      "num": 145681,
+      "word": "李刚仁再度道歉",
+      "onboard_time": 1708481795,
+      "rank": 49,
       "category": "体育"
     },
     {

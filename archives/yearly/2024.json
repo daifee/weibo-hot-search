@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1708481073951,
+  "endTime": 1708482116473,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -689,6 +689,14 @@
       "onboard_time": 1707483361,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 4061856,
+      "num": 4061856,
+      "word": "四六级成绩 小牌大耍",
+      "onboard_time": 1708481196,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 4051983,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1707792395,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2182519,
-      "num": 2182519,
-      "word": "林孝埈刘少昂摔出赛道",
-      "onboard_time": 1708245816,
-      "rank": 0,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
