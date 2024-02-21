@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708503763765,
+  "endTime": 1708504485263,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1579,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2081756,
+      "num": 2081756,
+      "word": "王诗玥柳鑫宇75.43分",
+      "onboard_time": 1708499736,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2075853,
       "num": 2075853,
       "word": "节后浙江疾控艾滋病咨询电话增两三倍",
@@ -1593,14 +1601,6 @@
       "onboard_time": 1708128988,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2060590,
-      "num": 2060590,
-      "word": "王诗玥柳鑫宇75.43分",
-      "onboard_time": 1708499736,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 2056374,
@@ -9435,6 +9435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 722731,
+      "num": 722731,
+      "word": "魏大勋明侦拿了孟宴臣剧本",
+      "onboard_time": 1708502616,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 722351,
       "num": 551996,
       "word": "央视文艺回复尼格买提",
@@ -10139,6 +10147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 678699,
+      "num": 678699,
+      "word": "周杰伦霉霉演唱会待遇",
+      "onboard_time": 1708500454,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 678353,
       "num": 678353,
       "word": "现在预制菜都这么齐全了吗",
@@ -10529,14 +10545,6 @@
       "onboard_time": 1707039391,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 663708,
-      "num": 663708,
-      "word": "魏大勋明侦拿了孟宴臣剧本",
-      "onboard_time": 1708502616,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 663695,
@@ -11505,14 +11513,6 @@
       "onboard_time": 1708338101,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 618048,
-      "num": 618048,
-      "word": "周杰伦霉霉演唱会待遇",
-      "onboard_time": 1708500454,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 617469,
@@ -12955,6 +12955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 553729,
+      "num": 553729,
+      "word": "易烊千玺谈主动选择权",
+      "onboard_time": 1708502913,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553063,
       "num": 553063,
       "word": "奇瑞",
@@ -13825,6 +13833,14 @@
       "onboard_time": 1707390453,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 524433,
+      "num": 524433,
+      "word": "贾玲消失一年唯一的活动",
+      "onboard_time": 1708503634,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 524097,
@@ -15547,6 +15563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 469976,
+      "num": 335127,
+      "word": "哪些人是艾滋病高风险人群",
+      "onboard_time": 1708502375,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 469716,
       "num": 469716,
       "word": "微信摇一摇功能下线",
@@ -16369,14 +16393,6 @@
       "onboard_time": 1707051334,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 438731,
-      "num": 334182,
-      "word": "哪些人是艾滋病高风险人群",
-      "onboard_time": 1708502375,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 438648,
@@ -18732,7 +18748,7 @@
     },
     {
       "raw_hot": 382467,
-      "num": 303655,
+      "num": 317008,
       "word": "结婚是找能玩一辈子的朋友",
       "onboard_time": 1708182935,
       "rank": 49,
@@ -19337,14 +19353,6 @@
       "onboard_time": 1707291273,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 370400,
-      "num": 370400,
-      "word": "易烊千玺谈主动选择权",
-      "onboard_time": 1708502913,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 370360,
@@ -24763,6 +24771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276417,
+      "num": 267446,
+      "word": "徐冬冬当自己婚礼真人秀总导演",
+      "onboard_time": 1708504112,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276345,
       "num": 276345,
       "word": "优素福妈妈",
@@ -26515,6 +26531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254801,
+      "num": 254801,
+      "word": "中国女团vs泰国",
+      "onboard_time": 1708503215,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254590,
       "num": 254590,
       "word": "湖南大雪警车里诞下一雪警女婴",
@@ -28171,6 +28195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238117,
+      "num": 238117,
+      "word": "OpenAI员工自曝996作息表",
+      "onboard_time": 1708501054,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 238088,
       "num": 238088,
       "word": "BLG对战EDG",
@@ -28281,14 +28313,6 @@
       "onboard_time": 1706846852,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 236968,
-      "num": 236968,
-      "word": "OpenAI员工自曝996作息表",
-      "onboard_time": 1708501054,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 236964,
@@ -28577,6 +28601,14 @@
       "onboard_time": 1706792674,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235041,
+      "num": 235041,
+      "word": "SMTOWN",
+      "onboard_time": 1708503339,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 234972,
@@ -31251,14 +31283,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 214859,
-      "num": 214859,
-      "word": "SMTOWN",
-      "onboard_time": 1708503339,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214820,
       "num": 214820,
       "word": "哲学家李泽厚冷冻头颅遗嘱已执行",
@@ -31752,14 +31776,6 @@
       "word": "热辣滚烫涨分",
       "onboard_time": 1707623069,
       "rank": 30,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 210784,
-      "num": 210784,
-      "word": "贾玲消失一年唯一的活动",
-      "onboard_time": 1708503634,
-      "rank": 35,
       "category": "电影"
     },
     {
@@ -33825,14 +33841,6 @@
       "onboard_time": 1707389250,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 200447,
-      "num": 200447,
-      "word": "中国女团vs泰国",
-      "onboard_time": 1708503215,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 200411,
@@ -36291,6 +36299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188829,
+      "num": 1126547,
+      "word": "拼出热辣滚烫赢得飞驰人生",
+      "onboard_time": 1708502856,
+      "rank": 2,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188814,
       "num": 169760,
       "word": "慕容紫英结局",
@@ -38393,6 +38409,14 @@
       "onboard_time": 1707576458,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177130,
+      "num": 177130,
+      "word": "心理素质能不能分朱易点",
+      "onboard_time": 1708504292,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 177110,
@@ -43377,6 +43401,14 @@
       "onboard_time": 1706789671,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 152413,
+      "num": 152413,
+      "word": "故宫雪景壁纸再上新",
+      "onboard_time": 1708504413,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 152317,
@@ -50337,14 +50369,6 @@
       "onboard_time": 1707101430,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 118275,
-      "num": 1126547,
-      "word": "拼出热辣滚烫赢得飞驰人生",
-      "onboard_time": 1708502856,
-      "rank": 2,
-      "category": "电影"
     },
     {
       "raw_hot": 118257,
@@ -57457,6 +57481,9 @@
     },
     {
       "word": "#擘画鹭岛新画卷#"
+    },
+    {
+      "word": "#绘就一幅美丽中国的厦门画卷#"
     }
   ]
 }

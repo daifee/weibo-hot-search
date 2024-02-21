@@ -1,0 +1,410 @@
+{
+  "runTime": 1708504485263,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2081756,
+        "num": 2081756,
+        "word": "王诗玥柳鑫宇75.43分",
+        "onboard_time": 1708499736,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1350203,
+        "num": 1350203,
+        "word": "医生称贾玲式减肥要有诊疗团队",
+        "onboard_time": 1708498715,
+        "rank": 1,
+        "category": "健康医疗,艺人"
+      },
+      {
+        "raw_hot": 188829,
+        "num": 969768,
+        "word": "拼出热辣滚烫赢得飞驰人生",
+        "onboard_time": 1708502856,
+        "rank": 2,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 885351,
+        "num": 885351,
+        "word": "王诗玥柳鑫宇第一",
+        "onboard_time": 1708501176,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 851717,
+        "num": 851717,
+        "word": "派出所回应网传父亲出轨儿子女友",
+        "onboard_time": 1708492176,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754433,
+        "num": 754433,
+        "word": "节后办公室7个人里5个咳",
+        "onboard_time": 1708493553,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 748621,
+        "num": 748621,
+        "word": "梧桐妹戴了9个环",
+        "onboard_time": 1708496671,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 722731,
+        "num": 722731,
+        "word": "魏大勋明侦拿了孟宴臣剧本",
+        "onboard_time": 1708502616,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 688656,
+        "num": 688656,
+        "word": "小米汽车价格",
+        "onboard_time": 1708499434,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 678699,
+        "num": 678699,
+        "word": "周杰伦霉霉演唱会待遇",
+        "onboard_time": 1708500454,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1240648,
+        "num": 644222,
+        "word": "长沙火车站",
+        "onboard_time": 1708498175,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553729,
+        "num": 553729,
+        "word": "易烊千玺谈主动选择权",
+        "onboard_time": 1708502913,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524433,
+        "num": 524433,
+        "word": "贾玲消失一年唯一的活动",
+        "onboard_time": 1708503634,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 506403,
+        "num": 506403,
+        "word": "花滑协会回应柳鑫宇事件",
+        "onboard_time": 1708497394,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 486089,
+        "num": 486089,
+        "word": "迪丽热巴 折翼天使",
+        "onboard_time": 1708496375,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 482954,
+        "num": 482954,
+        "word": "柳鑫宇且试天下",
+        "onboard_time": 1708492594,
+        "rank": 15,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 442782,
+        "num": 442782,
+        "word": "有关部门介入调查秦朗丢寒假作业事件",
+        "onboard_time": 1708496612,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390699,
+        "num": 390699,
+        "word": "鹿晗关晓彤聚餐会友",
+        "onboard_time": 1708484914,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352732,
+        "num": 352732,
+        "word": "马思纯后悔该骂回去时选择了逃走",
+        "onboard_time": 1708489959,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 340065,
+        "num": 340065,
+        "word": "贵州山火",
+        "onboard_time": 1708503634,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469976,
+        "num": 335127,
+        "word": "哪些人是艾滋病高风险人群",
+        "onboard_time": 1708502375,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 452849,
+        "num": 333837,
+        "word": "原来看嘴巴也能发现痔疮",
+        "onboard_time": 1708499673,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 426375,
+        "num": 323715,
+        "word": "当爷爷知道我的猫4000一只时",
+        "onboard_time": 1708501714,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 346472,
+        "num": 317008,
+        "word": "结婚是找能玩一辈子的朋友",
+        "onboard_time": 1708503154,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316908,
+        "num": 316908,
+        "word": "又一自称柳鑫宇账号爆料",
+        "onboard_time": 1708482036,
+        "rank": 24,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 289700,
+        "num": 289700,
+        "word": "易烊千玺晒图",
+        "onboard_time": 1708499434,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 282906,
+        "num": 282906,
+        "word": "王诗玥柳鑫宇登场",
+        "onboard_time": 1708497874,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269949,
+        "num": 269949,
+        "word": "养娃到本科毕业平均花费68万元",
+        "onboard_time": 1708491457,
+        "rank": 27,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 207433,
+        "num": 268411,
+        "word": "金门地检承认无大陆渔船翻覆事件录像被批",
+        "onboard_time": 1708494813,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135831,
+        "num": 267590,
+        "word": "油皮护肤新方式",
+        "onboard_time": 1708501355,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 276417,
+        "num": 267446,
+        "word": "徐冬冬当自己婚礼真人秀总导演",
+        "onboard_time": 1708504112,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267070,
+        "num": 267070,
+        "word": "柳鑫宇心理素质",
+        "onboard_time": 1708500636,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264627,
+        "num": 264627,
+        "word": "情侣捡14万定制项链又丢弃赔4.5万",
+        "onboard_time": 1708493074,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264194,
+        "num": 264194,
+        "word": "朴敏英患抑郁症",
+        "onboard_time": 1708481258,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254801,
+        "num": 254801,
+        "word": "中国女团vs泰国",
+        "onboard_time": 1708503215,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238117,
+        "num": 238117,
+        "word": "OpenAI员工自曝996作息表",
+        "onboard_time": 1708501054,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 235041,
+        "num": 235041,
+        "word": "SMTOWN",
+        "onboard_time": 1708503339,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233806,
+        "num": 233806,
+        "word": "女大学生3个月暴减60斤",
+        "onboard_time": 1708487437,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229217,
+        "num": 229217,
+        "word": "马思纯终于把爱情排最后了",
+        "onboard_time": 1708495355,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204664,
+        "num": 204664,
+        "word": "月经提前和推迟都是正常现象",
+        "onboard_time": 1708490017,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193943,
+        "num": 193943,
+        "word": "四六级成绩 小牌大耍",
+        "onboard_time": 1708481196,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192616,
+        "num": 192616,
+        "word": "真假柳鑫宇",
+        "onboard_time": 1708499314,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185277,
+        "num": 185277,
+        "word": "SMTOWN艺人出发",
+        "onboard_time": 1708501836,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180249,
+        "num": 180249,
+        "word": "迪丽热巴 大冰梗",
+        "onboard_time": 1708490495,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177130,
+        "num": 177130,
+        "word": "心理素质能不能分朱易点",
+        "onboard_time": 1708504292,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173234,
+        "num": 173234,
+        "word": "张栋梁介绍新人张栋梁",
+        "onboard_time": 1708500274,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170706,
+        "num": 170706,
+        "word": "10岁男孩患罕见病手脚爬满茧状物",
+        "onboard_time": 1708497333,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164583,
+        "num": 164583,
+        "word": "赵世子 宅男",
+        "onboard_time": 1708486654,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160889,
+        "num": 160889,
+        "word": "刚满月的宝宝发量惊人像真人版蒙奇奇",
+        "onboard_time": 1708500754,
+        "rank": 48,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 152413,
+        "num": 152413,
+        "word": "故宫雪景壁纸再上新",
+        "onboard_time": 1708504413,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#绘就一幅美丽中国的厦门画卷#"
+    }
+  }
+}
