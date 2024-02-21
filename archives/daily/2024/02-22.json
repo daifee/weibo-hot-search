@@ -1,6 +1,6 @@
 {
   "startTime": 1708532526738,
-  "endTime": 1708550096152,
+  "endTime": 1708551327893,
   "band_list": [
     {
       "raw_hot": 1160009,
@@ -515,6 +515,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 27599,
+      "num": 27599,
+      "word": "河南医生成功分离罕见胎中胎",
+      "onboard_time": 1708543997,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24472,
       "num": 24472,
       "word": "才知道这种手提袋是可以锁起来的",
@@ -528,6 +536,14 @@
       "word": "新疆阿图什3.6级地震",
       "onboard_time": 1708540937,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19947,
+      "num": 19947,
+      "word": "官方回应3员工在公司讲粤语被罚5000",
+      "onboard_time": 1708549576,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -545,14 +561,6 @@
       "onboard_time": 1708542376,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18242,
-      "num": 18242,
-      "word": "河南医生成功分离罕见胎中胎",
-      "onboard_time": 1708543997,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16830,
@@ -579,20 +587,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 12945,
-      "num": 12945,
-      "word": "官方回应3员工在公司讲粤语被罚5000",
-      "onboard_time": 1708549576,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 12756,
       "num": 13977,
       "word": "一些可可爱爱的陪嫁",
       "onboard_time": 1708544418,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10033,
+      "num": 12200,
+      "word": "春季穿搭",
+      "onboard_time": 1708548196,
+      "rank": 49,
+      "category": "时尚"
     }
   ],
   "hotgov_list": [
