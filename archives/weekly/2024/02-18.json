@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708554916240,
+  "endTime": 1708557462550,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -1667,6 +1667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 857593,
+      "num": 857593,
+      "word": "要睡多久觉才能把黑眼圈睡没",
+      "onboard_time": 1708529614,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 851645,
       "num": 851645,
       "word": "对傅园慧加价黑车司机被罚3万元",
@@ -2249,14 +2257,6 @@
       "onboard_time": 1708253554,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 667105,
-      "num": 667105,
-      "word": "要睡多久觉才能把黑眼圈睡没",
-      "onboard_time": 1708529614,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 665520,
@@ -5323,6 +5323,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 287018,
+      "num": 287018,
+      "word": "河南医生成功分离罕见胎中胎",
+      "onboard_time": 1708543997,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286821,
       "num": 286821,
       "word": "广东一公司3员工疑因讲粤语被罚5000元",
@@ -5585,6 +5593,14 @@
       "onboard_time": 1708424076,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271763,
+      "num": 182909,
+      "word": "夏克立 我从来没有家暴",
+      "onboard_time": 1708542617,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 271718,
@@ -7073,6 +7089,14 @@
       "onboard_time": 1708319554,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 212223,
+      "num": 79016,
+      "word": "员工抑郁请病假暗中考研还领高薪",
+      "onboard_time": 1708556601,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211839,
@@ -8971,6 +8995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166850,
+      "num": 166850,
+      "word": "甄嬛传又有新发现了",
+      "onboard_time": 1708556601,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166657,
       "num": 166657,
       "word": "大公司垄断下 糊团做出的努力",
@@ -10051,6 +10083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141756,
+      "num": 141756,
+      "word": "航班延误",
+      "onboard_time": 1708539559,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141595,
       "num": 141595,
       "word": "吴磊林亦扬专访",
@@ -10193,14 +10233,6 @@
       "onboard_time": 1708436500,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 137443,
-      "num": 137443,
-      "word": "航班延误",
-      "onboard_time": 1708539559,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137439,
@@ -10659,6 +10691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110735,
+      "num": 110735,
+      "word": "官方回应3员工在公司讲粤语被罚5000",
+      "onboard_time": 1708549576,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110548,
       "num": 110548,
       "word": "陶姝娜张小彦越来越好嗑",
@@ -10721,14 +10761,6 @@
       "onboard_time": 1708322493,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107787,
-      "num": 73802,
-      "word": "夏克立 我从来没有家暴",
-      "onboard_time": 1708542617,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 107449,
@@ -10803,12 +10835,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101417,
-      "num": 101417,
-      "word": "河南医生成功分离罕见胎中胎",
-      "onboard_time": 1708543997,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 101656,
+      "num": 77893,
+      "word": "经常运动和不运动的人有啥区别",
+      "onboard_time": 1708545019,
+      "rank": 21,
+      "category": "运动健身"
     },
     {
       "raw_hot": 99762,
@@ -10963,6 +10995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81116,
+      "num": 77197,
+      "word": "当代年轻人的隐形自虐",
+      "onboard_time": 1708552516,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 78427,
       "num": 78427,
       "word": "以为大家开玩笑的你家是真有",
@@ -11060,19 +11100,11 @@
     },
     {
       "raw_hot": 60740,
-      "num": 38456,
+      "num": 51766,
       "word": "毛宁说台有关方面粗暴对待大陆渔船事件不是外交问题",
       "onboard_time": 1708538298,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 60200,
-      "num": 60200,
-      "word": "官方回应3员工在公司讲粤语被罚5000",
-      "onboard_time": 1708549576,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59751,
@@ -11097,6 +11129,14 @@
       "onboard_time": 1708422637,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57843,
+      "num": 57843,
+      "word": "福建游神穿80斤装扮通宵走22个村",
+      "onboard_time": 1708554859,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 57469,
@@ -11179,6 +11219,30 @@
       "category": "美食"
     },
     {
+      "raw_hot": 48841,
+      "num": 48841,
+      "word": "中国电商席卷日本",
+      "onboard_time": 1708554496,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 48567,
+      "num": 48567,
+      "word": "国乒男团vs日本",
+      "onboard_time": 1708556841,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47049,
+      "num": 47049,
+      "word": "才知道这种手提袋是可以锁起来的",
+      "onboard_time": 1708539379,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 46895,
       "num": 46895,
       "word": "胖东来回应看完电影不满意可退半价",
@@ -11201,6 +11265,14 @@
       "onboard_time": 1708539678,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44843,
+      "num": 44843,
+      "word": "哪些人适合轻断食减肥",
+      "onboard_time": 1708556601,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 44716,
@@ -11233,14 +11305,6 @@
       "onboard_time": 1708212803,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 41718,
-      "num": 38774,
-      "word": "经常运动和不运动的人有啥区别",
-      "onboard_time": 1708545019,
-      "rank": 21,
-      "category": "运动健身"
     },
     {
       "raw_hot": 39474,
@@ -11315,20 +11379,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34366,
-      "num": 34366,
-      "word": "当代年轻人的隐形自虐",
-      "onboard_time": 1708552516,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 34297,
       "num": 36883,
       "word": "狗狗的耳朵一只站岗一只稍息",
       "onboard_time": 1708450283,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 33882,
+      "num": 37889,
+      "word": "hi6 路星河永远守护最好的耿耿",
+      "onboard_time": 1708555160,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 32772,
@@ -11353,6 +11417,14 @@
       "onboard_time": 1708365441,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 30065,
+      "num": 37876,
+      "word": "学起来实现金镯子自由",
+      "onboard_time": 1708556481,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 29823,
@@ -11385,14 +11457,6 @@
       "onboard_time": 1708367180,
       "rank": 48,
       "category": "数码,科学科普"
-    },
-    {
-      "raw_hot": 24472,
-      "num": 24472,
-      "word": "才知道这种手提袋是可以锁起来的",
-      "onboard_time": 1708539379,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 23916,
@@ -11507,14 +11571,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 15015,
-      "num": 16028,
-      "word": "中国电商席卷日本",
-      "onboard_time": 1708554496,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 14761,
       "num": 22072,
       "word": "姚玉玲贾金龙看对眼了",
@@ -11577,14 +11633,6 @@
       "onboard_time": 1708285756,
       "rank": 49,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 11762,
-      "num": 15999,
-      "word": "福建游神穿80斤装扮通宵走22个村",
-      "onboard_time": 1708554859,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 11548,

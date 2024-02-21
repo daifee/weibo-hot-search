@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708554916240,
+  "endTime": 1708557462550,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -7523,6 +7523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 857593,
+      "num": 857593,
+      "word": "要睡多久觉才能把黑眼圈睡没",
+      "onboard_time": 1708529614,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 857097,
       "num": 857097,
       "word": "让侯雯元别蹲着拍了",
@@ -10673,14 +10681,6 @@
       "onboard_time": 1707295054,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 667105,
-      "num": 667105,
-      "word": "要睡多久觉才能把黑眼圈睡没",
-      "onboard_time": 1708529614,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 666412,
@@ -24491,6 +24491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287018,
+      "num": 287018,
+      "word": "河南医生成功分离罕见胎中胎",
+      "onboard_time": 1708543997,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286928,
       "num": 254256,
       "word": "把姐姐爆改成甜妹",
@@ -25673,6 +25681,14 @@
       "onboard_time": 1708424076,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271763,
+      "num": 182909,
+      "word": "夏克立 我从来没有家暴",
+      "onboard_time": 1708542617,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 271740,
@@ -32232,6 +32248,14 @@
       "word": "女孩行李太重民警抄起就走俩人表情亮了",
       "onboard_time": 1707719369,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212223,
+      "num": 79016,
+      "word": "员工抑郁请病假暗中考研还领高薪",
+      "onboard_time": 1708556601,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -41451,6 +41475,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 166850,
+      "num": 166850,
+      "word": "甄嬛传又有新发现了",
+      "onboard_time": 1708556601,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166778,
       "num": 166778,
       "word": "客厅打羽毛球",
@@ -46747,6 +46779,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 141756,
+      "num": 141756,
+      "word": "航班延误",
+      "onboard_time": 1708539559,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141743,
       "num": 203396,
       "word": "余承东祝央视新闻遥遥领先",
@@ -47721,14 +47761,6 @@
       "onboard_time": 1706960851,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137443,
-      "num": 137443,
-      "word": "航班延误",
-      "onboard_time": 1708539559,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137439,
@@ -52771,6 +52803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110735,
+      "num": 110735,
+      "word": "官方回应3员工在公司讲粤语被罚5000",
+      "onboard_time": 1708549576,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110657,
       "num": 110657,
       "word": "老板给员工发小年礼物不忘员工父母",
@@ -53217,14 +53257,6 @@
       "onboard_time": 1708156411,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107787,
-      "num": 73802,
-      "word": "夏克立 我从来没有家暴",
-      "onboard_time": 1708542617,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 107529,
@@ -53811,6 +53843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101656,
+      "num": 77893,
+      "word": "经常运动和不运动的人有啥区别",
+      "onboard_time": 1708545019,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 101617,
       "num": 101617,
       "word": "小猫的嘴巴是o型的耶",
@@ -53849,14 +53889,6 @@
       "onboard_time": 1706877753,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 101417,
-      "num": 101417,
-      "word": "河南医生成功分离罕见胎中胎",
-      "onboard_time": 1708543997,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101229,
@@ -55051,6 +55083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81116,
+      "num": 77197,
+      "word": "当代年轻人的隐形自虐",
+      "onboard_time": 1708552516,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 80992,
       "num": 80992,
       "word": "新能源车主返乡离充电桩5米趴窝了",
@@ -55900,7 +55940,7 @@
     },
     {
       "raw_hot": 60740,
-      "num": 38456,
+      "num": 51766,
       "word": "毛宁说台有关方面粗暴对待大陆渔船事件不是外交问题",
       "onboard_time": 1708538298,
       "rank": 30,
@@ -55913,14 +55953,6 @@
       "onboard_time": 1707512056,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 60200,
-      "num": 60200,
-      "word": "官方回应3员工在公司讲粤语被罚5000",
-      "onboard_time": 1708549576,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59899,
@@ -56009,6 +56041,14 @@
       "onboard_time": 1708422637,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57843,
+      "num": 57843,
+      "word": "福建游神穿80斤装扮通宵走22个村",
+      "onboard_time": 1708554859,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 57469,
@@ -56443,6 +56483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48841,
+      "num": 48841,
+      "word": "中国电商席卷日本",
+      "onboard_time": 1708554496,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 48790,
       "num": 48790,
       "word": "林亦扬殷果一queen还一queen",
@@ -56465,6 +56513,14 @@
       "onboard_time": 1706843012,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 48567,
+      "num": 48567,
+      "word": "国乒男团vs日本",
+      "onboard_time": 1708556841,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 48366,
@@ -56545,6 +56601,14 @@
       "onboard_time": 1706916619,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47049,
+      "num": 47049,
+      "word": "才知道这种手提袋是可以锁起来的",
+      "onboard_time": 1708539379,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 47003,
@@ -56641,6 +56705,14 @@
       "onboard_time": 1708115419,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 44843,
+      "num": 44843,
+      "word": "哪些人适合轻断食减肥",
+      "onboard_time": 1708556601,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 44764,
@@ -56785,14 +56857,6 @@
       "onboard_time": 1708019361,
       "rank": 43,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 41718,
-      "num": 38774,
-      "word": "经常运动和不运动的人有啥区别",
-      "onboard_time": 1708545019,
-      "rank": 21,
-      "category": "运动健身"
     },
     {
       "raw_hot": 41700,
@@ -57203,14 +57267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34366,
-      "num": 34366,
-      "word": "当代年轻人的隐形自虐",
-      "onboard_time": 1708552516,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 34297,
       "num": 36883,
       "word": "狗狗的耳朵一只站岗一只稍息",
@@ -57233,6 +57289,14 @@
       "onboard_time": 1707677239,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 33882,
+      "num": 37889,
+      "word": "hi6 路星河永远守护最好的耿耿",
+      "onboard_time": 1708555160,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 33853,
@@ -57449,6 +57513,14 @@
       "onboard_time": 1707771976,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 30065,
+      "num": 37876,
+      "word": "学起来实现金镯子自由",
+      "onboard_time": 1708556481,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 29929,
@@ -57713,14 +57785,6 @@
       "onboard_time": 1708367180,
       "rank": 48,
       "category": "数码,科学科普"
-    },
-    {
-      "raw_hot": 24472,
-      "num": 24472,
-      "word": "才知道这种手提袋是可以锁起来的",
-      "onboard_time": 1708539379,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 24433,
@@ -58315,14 +58379,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 15015,
-      "num": 16028,
-      "word": "中国电商席卷日本",
-      "onboard_time": 1708554496,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 14832,
       "num": 19456,
       "word": "约旦晋级亚洲杯四强",
@@ -58553,14 +58609,6 @@
       "onboard_time": 1708285756,
       "rank": 49,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 11762,
-      "num": 15999,
-      "word": "福建游神穿80斤装扮通宵走22个村",
-      "onboard_time": 1708554859,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 11724,
