@@ -1,0 +1,410 @@
+{
+  "runTime": 1708492632380,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1346584,
+        "num": 1346584,
+        "word": "月经提前和推迟都是正常现象",
+        "onboard_time": 1708490017,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1346331,
+        "num": 1346331,
+        "word": "鹿晗关晓彤聚餐会友",
+        "onboard_time": 1708484914,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51053,
+        "num": 1209063,
+        "word": "雪天出行安全指南",
+        "onboard_time": 1708484077,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1144708,
+        "num": 1144708,
+        "word": "迪丽热巴 大冰梗",
+        "onboard_time": 1708490495,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1070429,
+        "num": 1070429,
+        "word": "马思纯后悔该骂回去时选择了逃走",
+        "onboard_time": 1708489959,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1061010,
+        "num": 1061010,
+        "word": "上海飞青岛票价只要14元",
+        "onboard_time": 1708485334,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 983597,
+        "num": 983597,
+        "word": "朴敏英患抑郁症",
+        "onboard_time": 1708481258,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 920724,
+        "num": 920724,
+        "word": "赵世子 宅男",
+        "onboard_time": 1708486654,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 875486,
+        "num": 875486,
+        "word": "感冒了",
+        "onboard_time": 1708488457,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 674192,
+        "num": 674192,
+        "word": "中国生育成本报告2024版",
+        "onboard_time": 1708489779,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1025640,
+        "num": 674015,
+        "word": "又一自称柳鑫宇账号爆料",
+        "onboard_time": 1708482036,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 672633,
+        "num": 672633,
+        "word": "肖战 羽绒服",
+        "onboard_time": 1708487195,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 669770,
+        "num": 669770,
+        "word": "四六级成绩 小牌大耍",
+        "onboard_time": 1708481196,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 656519,
+        "num": 656519,
+        "word": "李翊云小儿子去世",
+        "onboard_time": 1708480117,
+        "rank": 13,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 561161,
+        "num": 561161,
+        "word": "员工因bug事故被强制要求归还年终奖",
+        "onboard_time": 1708483053,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561101,
+        "num": 561101,
+        "word": "县城经济",
+        "onboard_time": 1708486414,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 553001,
+        "num": 553001,
+        "word": "柳鑫宇收入",
+        "onboard_time": 1708485816,
+        "rank": 16,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 536265,
+        "num": 536265,
+        "word": "高圆圆台北公园带女儿玩耍",
+        "onboard_time": 1708491099,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532888,
+        "num": 532888,
+        "word": "台媒曝夏克立家暴黄嘉千细节",
+        "onboard_time": 1708478736,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468606,
+        "num": 468606,
+        "word": "王涛否认梅西道歉视频为AI合成",
+        "onboard_time": 1708490916,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 632166,
+        "num": 468344,
+        "word": "女大学生3个月暴减60斤",
+        "onboard_time": 1708487437,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463292,
+        "num": 463292,
+        "word": "养娃到本科毕业平均花费68万元",
+        "onboard_time": 1708491457,
+        "rank": 21,
+        "category": "社会新闻,母婴育儿"
+      },
+      {
+        "raw_hot": 412518,
+        "num": 412518,
+        "word": "制片人评价白敬亭",
+        "onboard_time": 1708475671,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409006,
+        "num": 409006,
+        "word": "谈恋爱最不受欢迎的星座",
+        "onboard_time": 1708472969,
+        "rank": 23,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 400278,
+        "num": 400278,
+        "word": "何运晨第二十条观后感",
+        "onboard_time": 1708490495,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 367281,
+        "num": 367281,
+        "word": "夫妻离婚要求分割2孩子26万压岁钱",
+        "onboard_time": 1708474834,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344655,
+        "num": 344655,
+        "word": "周杰伦霉霉演唱会座位",
+        "onboard_time": 1708473151,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 333369,
+        "num": 333369,
+        "word": "嗓子疼",
+        "onboard_time": 1708489655,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 318320,
+        "num": 318320,
+        "word": "A股超5000只个股上涨",
+        "onboard_time": 1708490437,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 236812,
+        "num": 296467,
+        "word": "贵州普安山火2名救火人员牺牲",
+        "onboard_time": 1708489538,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282437,
+        "num": 282437,
+        "word": "第一次听英语母语者说话",
+        "onboard_time": 1708490201,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277142,
+        "num": 277142,
+        "word": "IU玄学",
+        "onboard_time": 1708483834,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97898,
+        "num": 273469,
+        "word": "什么是酸酶焕肤",
+        "onboard_time": 1708489056,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 273307,
+        "num": 273307,
+        "word": "父亲的购物记录原来是这样的",
+        "onboard_time": 1708482634,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247512,
+        "num": 247512,
+        "word": "大侦探",
+        "onboard_time": 1708490619,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243333,
+        "num": 243333,
+        "word": "以后我的C盘永远不会满了",
+        "onboard_time": 1708484435,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 240377,
+        "num": 240377,
+        "word": "福建神明系统",
+        "onboard_time": 1708487915,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 237340,
+        "num": 237340,
+        "word": "小龙糕",
+        "onboard_time": 1708487796,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229351,
+        "num": 229351,
+        "word": "派出所回应网传父亲出轨儿子女友",
+        "onboard_time": 1708492176,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223482,
+        "num": 223482,
+        "word": "柯基跑丢后被人关鸡棚看了一年鸡",
+        "onboard_time": 1708473571,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208394,
+        "num": 208394,
+        "word": "KPL赛程",
+        "onboard_time": 1708492237,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201001,
+        "num": 201001,
+        "word": "iOS17.4更新电池健康菜单",
+        "onboard_time": 1708485093,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 200081,
+        "num": 200081,
+        "word": "橙皮手镯",
+        "onboard_time": 1708482876,
+        "rank": 42,
+        "category": "时尚,美妆"
+      },
+      {
+        "raw_hot": 194301,
+        "num": 194301,
+        "word": "金晨 不存在白敬亭放鸽子",
+        "onboard_time": 1708430136,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183968,
+        "num": 183968,
+        "word": "檀健次争吵戏爆发力",
+        "onboard_time": 1708491037,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181927,
+        "num": 181927,
+        "word": "今年的待播古装剧",
+        "onboard_time": 1708488755,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170929,
+        "num": 170929,
+        "word": "A股",
+        "onboard_time": 1708485634,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169884,
+        "num": 169884,
+        "word": "柳鑫宇且试天下",
+        "onboard_time": 1708492594,
+        "rank": 47,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 168215,
+        "num": 168215,
+        "word": "张颂文 我的互联网大朋友",
+        "onboard_time": 1708488638,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163735,
+        "num": 163735,
+        "word": "胡先煦一人分饰两角",
+        "onboard_time": 1708490675,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#什么是马克思主义中国化时代化#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708490041933,
+  "endTime": 1708492632380,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -731,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1346584,
+      "num": 1346584,
+      "word": "月经提前和推迟都是正常现象",
+      "onboard_time": 1708490017,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1346556,
       "num": 1346556,
       "word": "这个杀手不太冷 抄袭",
@@ -979,6 +987,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1144708,
+      "num": 1144708,
+      "word": "迪丽热巴 大冰梗",
+      "onboard_time": 1708490495,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1142608,
       "num": 1142608,
       "word": "高合",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1708350280,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1070429,
+      "num": 1070429,
+      "word": "马思纯后悔该骂回去时选择了逃走",
+      "onboard_time": 1708489959,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1067964,
@@ -1379,6 +1403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 875486,
+      "num": 875486,
+      "word": "感冒了",
+      "onboard_time": 1708488457,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 859226,
       "num": 859226,
       "word": "乐莹跳楼戏拍了72遍用了第72条",
@@ -1595,14 +1627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 768761,
-      "num": 768761,
-      "word": "感冒了",
-      "onboard_time": 1708488457,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 767563,
       "num": 513155,
       "word": "女教师出轨事件",
@@ -1756,7 +1780,7 @@
     },
     {
       "raw_hot": 708251,
-      "num": 395640,
+      "num": 468344,
       "word": "女大学生3个月暴减60斤",
       "onboard_time": 1708487437,
       "rank": 20,
@@ -1849,6 +1873,14 @@
       "onboard_time": 1708352442,
       "rank": 22,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 674192,
+      "num": 674192,
+      "word": "中国生育成本报告2024版",
+      "onboard_time": 1708489779,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 673563,
@@ -2451,6 +2483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 536265,
+      "num": 536265,
+      "word": "高圆圆台北公园带女儿玩耍",
+      "onboard_time": 1708491099,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 535685,
       "num": 535685,
       "word": "高合停工6个月",
@@ -2803,6 +2843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 468606,
+      "num": 468606,
+      "word": "王涛否认梅西道歉视频为AI合成",
+      "onboard_time": 1708490916,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 468124,
       "num": 430039,
       "word": "贾玲马丽之间的惺惺相惜",
@@ -2817,6 +2865,14 @@
       "onboard_time": 1708240410,
       "rank": 19,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 463292,
+      "num": 463292,
+      "word": "养娃到本科毕业平均花费68万元",
+      "onboard_time": 1708491457,
+      "rank": 21,
+      "category": "社会新闻,母婴育儿"
     },
     {
       "raw_hot": 460556,
@@ -3241,6 +3297,14 @@
       "onboard_time": 1708433799,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 400278,
+      "num": 400278,
+      "word": "何运晨第二十条观后感",
+      "onboard_time": 1708490495,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 399354,
@@ -3811,20 +3875,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333369,
+      "num": 333369,
+      "word": "嗓子疼",
+      "onboard_time": 1708489655,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 331811,
       "num": 317598,
       "word": "飞驰人生2刘昊然的出场",
       "onboard_time": 1708320755,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 331623,
-      "num": 331623,
-      "word": "马思纯后悔该骂回去时选择了逃走",
-      "onboard_time": 1708489959,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 328388,
@@ -3961,6 +4025,14 @@
       "onboard_time": 1708288636,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318320,
+      "num": 318320,
+      "word": "A股超5000只个股上涨",
+      "onboard_time": 1708490437,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 317463,
@@ -4483,6 +4555,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 282437,
+      "num": 282437,
+      "word": "第一次听英语母语者说话",
+      "onboard_time": 1708490201,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 281225,
       "num": 281225,
       "word": "赵今麦一天告别两个角色",
@@ -4617,6 +4697,14 @@
       "onboard_time": 1708212205,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 273307,
+      "num": 615533,
+      "word": "父亲的购物记录原来是这样的",
+      "onboard_time": 1708482634,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273295,
@@ -5307,6 +5395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236812,
+      "num": 296467,
+      "word": "贵州普安山火2名救火人员牺牲",
+      "onboard_time": 1708489538,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236788,
       "num": 236788,
       "word": "真正能帮助女人稳固家庭地位的是什么",
@@ -5467,6 +5563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 229351,
+      "num": 229351,
+      "word": "派出所回应网传父亲出轨儿子女友",
+      "onboard_time": 1708492176,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228391,
       "num": 228391,
       "word": "张凌赫发文告别裴文宣",
@@ -5481,14 +5585,6 @@
       "onboard_time": 1708249535,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 228135,
-      "num": 615533,
-      "word": "父亲的购物记录原来是这样的",
-      "onboard_time": 1708482634,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227914,
@@ -6035,6 +6131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208394,
+      "num": 208394,
+      "word": "KPL赛程",
+      "onboard_time": 1708492237,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207870,
       "num": 207870,
       "word": "汤唯的自拍技术",
@@ -6065,14 +6169,6 @@
       "onboard_time": 1708449323,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206837,
-      "num": 206837,
-      "word": "嗓子疼",
-      "onboard_time": 1708489655,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 206340,
@@ -6153,14 +6249,6 @@
       "onboard_time": 1708182935,
       "rank": 22,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 204105,
-      "num": 204105,
-      "word": "贵州普安山火2名救火人员牺牲",
-      "onboard_time": 1708489538,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 203617,
@@ -6521,14 +6609,6 @@
       "onboard_time": 1708488338,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192975,
-      "num": 192975,
-      "word": "中国生育成本报告2024版",
-      "onboard_time": 1708489779,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192871,
@@ -6913,6 +6993,14 @@
       "onboard_time": 1708400197,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 183968,
+      "num": 183968,
+      "word": "檀健次争吵戏爆发力",
+      "onboard_time": 1708491037,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 183843,
@@ -7427,6 +7515,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 169884,
+      "num": 169884,
+      "word": "柳鑫宇且试天下",
+      "onboard_time": 1708492594,
+      "rank": 47,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 169709,
       "num": 169709,
       "word": "预判失误工厂集中报废3000箱春联",
@@ -7633,6 +7729,14 @@
       "onboard_time": 1708340859,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 163735,
+      "num": 163735,
+      "word": "胡先煦一人分饰两角",
+      "onboard_time": 1708490675,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 163381,
@@ -7993,14 +8097,6 @@
       "onboard_time": 1708261774,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 152236,
-      "num": 152236,
-      "word": "月经提前和推迟都是正常现象",
-      "onboard_time": 1708490017,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 152167,

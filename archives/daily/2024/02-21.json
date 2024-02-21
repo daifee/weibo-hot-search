@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708490041933,
+  "endTime": 1708492632380,
   "band_list": [
     {
       "raw_hot": 4061856,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1346584,
+      "num": 1346584,
+      "word": "月经提前和推迟都是正常现象",
+      "onboard_time": 1708490017,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1276607,
       "num": 1264022,
       "word": "李翊云小儿子去世",
@@ -139,6 +147,14 @@
       "category": "体育,网红"
     },
     {
+      "raw_hot": 1144708,
+      "num": 1144708,
+      "word": "迪丽热巴 大冰梗",
+      "onboard_time": 1708490495,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1096930,
       "num": 1096930,
       "word": "员工因bug事故被强制要求归还年终奖",
@@ -153,6 +169,14 @@
       "onboard_time": 1708486654,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1070429,
+      "num": 1070429,
+      "word": "马思纯后悔该骂回去时选择了逃走",
+      "onboard_time": 1708489959,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1052871,
@@ -195,6 +219,14 @@
       "category": "时尚,美妆"
     },
     {
+      "raw_hot": 875486,
+      "num": 875486,
+      "word": "感冒了",
+      "onboard_time": 1708488457,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 839627,
       "num": 839627,
       "word": "第二十条票房反超熊出没",
@@ -219,14 +251,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 768761,
-      "num": 768761,
-      "word": "感冒了",
-      "onboard_time": 1708488457,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 740917,
       "num": 740917,
       "word": "网剧飞驰人生定档",
@@ -244,10 +268,18 @@
     },
     {
       "raw_hot": 708251,
-      "num": 395640,
+      "num": 468344,
       "word": "女大学生3个月暴减60斤",
       "onboard_time": 1708487437,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 674192,
+      "num": 674192,
+      "word": "中国生育成本报告2024版",
+      "onboard_time": 1708489779,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -291,6 +323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 536265,
+      "num": 536265,
+      "word": "高圆圆台北公园带女儿玩耍",
+      "onboard_time": 1708491099,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 516169,
       "num": 516169,
       "word": "冻雨",
@@ -329,6 +369,22 @@
       "onboard_time": 1708472908,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468606,
+      "num": 468606,
+      "word": "王涛否认梅西道歉视频为AI合成",
+      "onboard_time": 1708490916,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 463292,
+      "num": 463292,
+      "word": "养娃到本科毕业平均花费68万元",
+      "onboard_time": 1708491457,
+      "rank": 21,
+      "category": "社会新闻,母婴育儿"
     },
     {
       "raw_hot": 460677,
@@ -411,6 +467,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 400278,
+      "num": 400278,
+      "word": "何运晨第二十条观后感",
+      "onboard_time": 1708490495,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 389474,
       "num": 389474,
       "word": "A股",
@@ -483,12 +547,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 331623,
-      "num": 331623,
-      "word": "马思纯后悔该骂回去时选择了逃走",
-      "onboard_time": 1708489959,
-      "rank": 26,
-      "category": "作品衍生"
+      "raw_hot": 333369,
+      "num": 333369,
+      "word": "嗓子疼",
+      "onboard_time": 1708489655,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 323678,
@@ -513,6 +577,14 @@
       "onboard_time": 1708480837,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318320,
+      "num": 318320,
+      "word": "A股超5000只个股上涨",
+      "onboard_time": 1708490437,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 317463,
@@ -603,6 +675,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 282437,
+      "num": 282437,
+      "word": "第一次听英语母语者说话",
+      "onboard_time": 1708490201,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 279541,
       "num": 279541,
       "word": "i人凌迟椅",
@@ -625,6 +705,14 @@
       "onboard_time": 1708480533,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 273307,
+      "num": 615533,
+      "word": "父亲的购物记录原来是这样的",
+      "onboard_time": 1708482634,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264124,
@@ -683,6 +771,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 247512,
+      "num": 247512,
+      "word": "大侦探",
+      "onboard_time": 1708490619,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244399,
       "num": 244399,
       "word": "加沙停火协议遭美一票否决",
@@ -705,6 +801,14 @@
       "onboard_time": 1708432780,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 236812,
+      "num": 296467,
+      "word": "贵州普安山火2名救火人员牺牲",
+      "onboard_time": 1708489538,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234077,
@@ -731,11 +835,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 228135,
-      "num": 615533,
-      "word": "父亲的购物记录原来是这样的",
-      "onboard_time": 1708482634,
-      "rank": 48,
+      "raw_hot": 229351,
+      "num": 229351,
+      "word": "派出所回应网传父亲出轨儿子女友",
+      "onboard_time": 1708492176,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -795,28 +899,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208394,
+      "num": 208394,
+      "word": "KPL赛程",
+      "onboard_time": 1708492237,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206837,
       "num": 206837,
       "word": "曼谷偶遇刘恋庄达菲",
       "onboard_time": 1708449323,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206837,
-      "num": 206837,
-      "word": "嗓子疼",
-      "onboard_time": 1708489655,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 204105,
-      "num": 204105,
-      "word": "贵州普安山火2名救火人员牺牲",
-      "onboard_time": 1708489538,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202354,
@@ -867,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192975,
-      "num": 192975,
-      "word": "中国生育成本报告2024版",
-      "onboard_time": 1708489779,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192607,
       "num": 192607,
       "word": "非我不可",
@@ -905,6 +993,14 @@
       "onboard_time": 1708480355,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183968,
+      "num": 183968,
+      "word": "檀健次争吵戏爆发力",
+      "onboard_time": 1708491037,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 180639,
@@ -955,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169884,
+      "num": 169884,
+      "word": "柳鑫宇且试天下",
+      "onboard_time": 1708492594,
+      "rank": 47,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 169753,
       "num": 169753,
       "word": "原来孙艺洲这么会开车",
@@ -985,6 +1089,14 @@
       "onboard_time": 1708441057,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163735,
+      "num": 163735,
+      "word": "胡先煦一人分饰两角",
+      "onboard_time": 1708490675,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 158450,
@@ -1033,14 +1145,6 @@
       "onboard_time": 1708482456,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152236,
-      "num": 152236,
-      "word": "月经提前和推迟都是正常现象",
-      "onboard_time": 1708490017,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 149346,
