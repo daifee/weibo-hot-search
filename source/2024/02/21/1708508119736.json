@@ -1,0 +1,410 @@
+{
+  "runTime": 1708508119736,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2390125,
+        "num": 2390125,
+        "word": "专家建议取消中考给孩子减压",
+        "onboard_time": 1708505257,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1183704,
+        "num": 1183704,
+        "word": "贾玲消失一年唯一的活动",
+        "onboard_time": 1708503634,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129286,
+        "num": 1074755,
+        "word": "拼出热辣滚烫赢得飞驰人生",
+        "onboard_time": 1708502856,
+        "rank": 2,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1056249,
+        "num": 1056249,
+        "word": "长沙火车站",
+        "onboard_time": 1708498175,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1033818,
+        "num": 1033818,
+        "word": "王诗玥柳鑫宇75.43分",
+        "onboard_time": 1708499736,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 911621,
+        "num": 911621,
+        "word": "长沙火车站当事女子发文回应",
+        "onboard_time": 1708505257,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684378,
+        "num": 684378,
+        "word": "陈梦11比0",
+        "onboard_time": 1708505075,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 559002,
+        "num": 559002,
+        "word": "周杰伦霉霉演唱会待遇",
+        "onboard_time": 1708500454,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 548155,
+        "num": 548155,
+        "word": "医生称贾玲式减肥要有诊疗团队",
+        "onboard_time": 1708498715,
+        "rank": 8,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 533465,
+        "num": 533465,
+        "word": "魏大勋明侦拿了孟宴臣剧本",
+        "onboard_time": 1708502616,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 678851,
+        "num": 523496,
+        "word": "派出所回应网传父亲出轨儿子女友",
+        "onboard_time": 1708492176,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494961,
+        "num": 494961,
+        "word": "张凌赫健身奶茶两不误",
+        "onboard_time": 1708506873,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492598,
+        "num": 492598,
+        "word": "节后办公室7个人里5个咳",
+        "onboard_time": 1708493553,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 478457,
+        "num": 478457,
+        "word": "贵州山火",
+        "onboard_time": 1708503634,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461220,
+        "num": 461220,
+        "word": "易烊千玺谈主动选择权",
+        "onboard_time": 1708502913,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431218,
+        "num": 431218,
+        "word": "迪丽热巴 折翼天使",
+        "onboard_time": 1708496375,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 402197,
+        "num": 402197,
+        "word": "徐冬冬当自己婚礼真人秀总导演",
+        "onboard_time": 1708504112,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371783,
+        "num": 371783,
+        "word": "春天壁纸",
+        "onboard_time": 1708506036,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363341,
+        "num": 363341,
+        "word": "王诗玥柳鑫宇第一",
+        "onboard_time": 1708501176,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344551,
+        "num": 344551,
+        "word": "小米汽车价格",
+        "onboard_time": 1708499434,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 384953,
+        "num": 339566,
+        "word": "哪些人是艾滋病高风险人群",
+        "onboard_time": 1708502375,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 318680,
+        "num": 318680,
+        "word": "爸妈一直管我的微信头像",
+        "onboard_time": 1708507113,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307296,
+        "num": 307296,
+        "word": "生还渔民揭露台粗暴对待大陆渔船真相",
+        "onboard_time": 1708505854,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 300981,
+        "num": 300981,
+        "word": "柳鑫宇且试天下",
+        "onboard_time": 1708492594,
+        "rank": 23,
+        "category": "剧集,体育"
+      },
+      {
+        "raw_hot": 293132,
+        "num": 293132,
+        "word": "梧桐妹戴了9个环",
+        "onboard_time": 1708496671,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286095,
+        "num": 286095,
+        "word": "原来看嘴巴也能发现痔疮",
+        "onboard_time": 1708499673,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 271309,
+        "num": 271309,
+        "word": "王者沈梦溪新皮肤",
+        "onboard_time": 1708505012,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 268790,
+        "num": 268790,
+        "word": "金博洋短节目89.20分",
+        "onboard_time": 1708505676,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268550,
+        "num": 268550,
+        "word": "当爷爷知道我的猫4000一只时",
+        "onboard_time": 1708501714,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267288,
+        "num": 267288,
+        "word": "结婚是找能玩一辈子的朋友",
+        "onboard_time": 1708503154,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 442759,
+        "num": 262569,
+        "word": "为啥就中国人看片要字幕",
+        "onboard_time": 1708506455,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 254963,
+        "num": 254963,
+        "word": "易烊千玺准备进组狂野时代",
+        "onboard_time": 1708506633,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249183,
+        "num": 249183,
+        "word": "鹿晗关晓彤聚餐会友",
+        "onboard_time": 1708484914,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224811,
+        "num": 224811,
+        "word": "花滑协会回应柳鑫宇事件",
+        "onboard_time": 1708497394,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215594,
+        "num": 215594,
+        "word": "贵州山火 火点",
+        "onboard_time": 1708507298,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211646,
+        "num": 211646,
+        "word": "张婧仪哭戏",
+        "onboard_time": 1708505915,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207019,
+        "num": 207019,
+        "word": "SMTOWN",
+        "onboard_time": 1708503339,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206237,
+        "num": 206237,
+        "word": "情侣捡14万定制项链又丢弃赔4.5万",
+        "onboard_time": 1708493074,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200122,
+        "num": 200122,
+        "word": "狗狗认出好朋友后立刻起身抱住",
+        "onboard_time": 1708506575,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197627,
+        "num": 197627,
+        "word": "又一自称柳鑫宇账号爆料",
+        "onboard_time": 1708482036,
+        "rank": 39,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 194411,
+        "num": 194411,
+        "word": "孙颖莎3比0基尼帕",
+        "onboard_time": 1708506993,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194110,
+        "num": 194110,
+        "word": "贾玲新片转念花开已拍完一部分",
+        "onboard_time": 1708507779,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184770,
+        "num": 184770,
+        "word": "我和你天下第一好",
+        "onboard_time": 1708507535,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182099,
+        "num": 182099,
+        "word": "王诗玥柳鑫宇登场",
+        "onboard_time": 1708497874,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174936,
+        "num": 174936,
+        "word": "中国女团vs泰国",
+        "onboard_time": 1708503215,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164067,
+        "num": 164067,
+        "word": "朴敏英患抑郁症",
+        "onboard_time": 1708481258,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163337,
+        "num": 163337,
+        "word": "有关部门介入调查秦朗丢寒假作业事件",
+        "onboard_time": 1708496612,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161926,
+        "num": 161926,
+        "word": "玩石头治好了我的精神内耗",
+        "onboard_time": 1708507894,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160159,
+        "num": 160159,
+        "word": "陈梦3比0素塔西尼",
+        "onboard_time": 1708507713,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154295,
+        "num": 154295,
+        "word": "孙悟空帽子",
+        "onboard_time": 1708505493,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#什么是马克思主义中国化时代化#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1708446118290,
-  "endTime": 1708507185189,
+  "endTime": 1708508119736,
   "band_list": [
     {
       "raw_hot": 4061856,
@@ -17,6 +17,14 @@
       "onboard_time": 1708482036,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2390125,
+      "num": 2390125,
+      "word": "专家建议取消中考给孩子减压",
+      "onboard_time": 1708505257,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 2086430,
@@ -73,14 +81,6 @@
       "onboard_time": 1708481258,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1852385,
-      "num": 1852385,
-      "word": "专家建议取消中考给孩子减压",
-      "onboard_time": 1708505257,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1828727,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 1327300,
-      "num": 855516,
+      "num": 1056249,
       "word": "长沙火车站",
       "onboard_time": 1708498175,
       "rank": 12,
@@ -339,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 911621,
+      "num": 911621,
+      "word": "长沙火车站当事女子发文回应",
+      "onboard_time": 1708505257,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 875486,
       "num": 875486,
       "word": "感冒了",
@@ -403,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 717838,
-      "num": 717838,
-      "word": "长沙火车站当事女子发文回应",
-      "onboard_time": 1708505257,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 715374,
       "num": 715374,
       "word": "四六级成绩倒计时",
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 684378,
+      "num": 684378,
+      "word": "陈梦11比0",
+      "onboard_time": 1708505075,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 678699,
       "num": 678699,
       "word": "周杰伦霉霉演唱会待遇",
@@ -441,14 +449,6 @@
       "onboard_time": 1708489779,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 670071,
-      "num": 670071,
-      "word": "陈梦11比0",
-      "onboard_time": 1708505075,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 660541,
@@ -563,6 +563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 494961,
+      "num": 494961,
+      "word": "张凌赫健身奶茶两不误",
+      "onboard_time": 1708506873,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 494264,
       "num": 422678,
       "word": "钱学森写在香烟纸上的求救信",
@@ -585,6 +593,14 @@
       "onboard_time": 1708495295,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 478457,
+      "num": 478457,
+      "word": "贵州山火",
+      "onboard_time": 1708442259,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 476059,
@@ -643,12 +659,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 440083,
-      "num": 440083,
-      "word": "贵州山火",
-      "onboard_time": 1708442259,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 442759,
+      "num": 264914,
+      "word": "为啥就中国人看片要字幕",
+      "onboard_time": 1708506455,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 430745,
@@ -907,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318680,
+      "num": 318680,
+      "word": "爸妈一直管我的微信头像",
+      "onboard_time": 1708507113,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317463,
       "num": 317463,
       "word": "看似胡闹 实则大孝",
@@ -1067,14 +1091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277472,
-      "num": 277472,
-      "word": "张凌赫健身奶茶两不误",
-      "onboard_time": 1708506873,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 274589,
       "num": 320507,
       "word": "美媒介绍世界最好吃50种面包中国烧饼上榜",
@@ -1113,14 +1129,6 @@
       "onboard_time": 1708505915,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 264914,
-      "num": 264914,
-      "word": "为啥就中国人看片要字幕",
-      "onboard_time": 1708506455,
-      "rank": 33,
-      "category": "科学科普"
     },
     {
       "raw_hot": 264124,
@@ -1355,6 +1363,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 215594,
+      "num": 215594,
+      "word": "贵州山火 火点",
+      "onboard_time": 1708507298,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213593,
       "num": 213593,
       "word": "你给了小时候的自己一耳光",
@@ -1409,6 +1425,14 @@
       "onboard_time": 1708480657,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200122,
+      "num": 200122,
+      "word": "狗狗认出好朋友后立刻起身抱住",
+      "onboard_time": 1708506575,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 199240,
@@ -1467,6 +1491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194110,
+      "num": 194110,
+      "word": "贾玲新片转念花开已拍完一部分",
+      "onboard_time": 1708507779,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193326,
       "num": 193326,
       "word": "张颂文镜头下的北京初雪",
@@ -1515,11 +1547,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184569,
-      "num": 184569,
-      "word": "狗狗认出好朋友后立刻起身抱住",
-      "onboard_time": 1708506575,
-      "rank": 41,
+      "raw_hot": 184770,
+      "num": 184770,
+      "word": "我和你天下第一好",
+      "onboard_time": 1708507535,
+      "rank": 42,
       "category": "幽默"
     },
     {
@@ -1659,20 +1691,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163932,
-      "num": 163932,
-      "word": "爸妈一直管我的微信头像",
-      "onboard_time": 1708507113,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 163735,
       "num": 163735,
       "word": "胡先煦一人分饰两角",
       "onboard_time": 1708490675,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161926,
+      "num": 161926,
+      "word": "玩石头治好了我的精神内耗",
+      "onboard_time": 1708507894,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 160159,
+      "num": 160159,
+      "word": "陈梦3比0素塔西尼",
+      "onboard_time": 1708507713,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 158450,
