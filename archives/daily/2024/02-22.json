@@ -1,6 +1,6 @@
 {
   "startTime": 1708532526738,
-  "endTime": 1708582939916,
+  "endTime": 1708583646869,
   "band_list": [
     {
       "raw_hot": 7943085,
@@ -75,11 +75,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1880972,
+      "num": 1880972,
+      "word": "人民网评网红扮演赵世子",
+      "onboard_time": 1708580973,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1867715,
       "num": 1867715,
       "word": "cos赵世子男网红再道歉",
       "onboard_time": 1708559909,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1714114,
+      "num": 1714114,
+      "word": "中学男教师在办公室猥亵男生",
+      "onboard_time": 1708579053,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -89,14 +105,6 @@
       "onboard_time": 1708576475,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1568876,
-      "num": 1568876,
-      "word": "中学男教师在办公室猥亵男生",
-      "onboard_time": 1708579053,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1503182,
@@ -120,14 +128,6 @@
       "word": "贵州山火",
       "onboard_time": 1708503634,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1310873,
-      "num": 1310873,
-      "word": "人民网评网红扮演赵世子",
-      "onboard_time": 1708580973,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -347,6 +347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 594294,
+      "num": 594294,
+      "word": "45元一杯的酸奶你会买吗",
+      "onboard_time": 1708581574,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 576163,
       "num": 576163,
       "word": "考虫图书品全部下架",
@@ -435,20 +443,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 490288,
+      "num": 490288,
+      "word": "飞机上偶遇邓超陈赫",
+      "onboard_time": 1708581633,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 486933,
       "num": 486933,
       "word": "专家建议给三孩家庭购房打五折",
       "onboard_time": 1708564653,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 477668,
-      "num": 477668,
-      "word": "飞机上偶遇邓超陈赫",
-      "onboard_time": 1708581633,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 472640,
@@ -579,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 364376,
-      "num": 364376,
-      "word": "45元一杯的酸奶你会买吗",
-      "onboard_time": 1708581574,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 359117,
       "num": 359117,
       "word": "车厘子草莓价格回落",
@@ -609,6 +609,14 @@
       "onboard_time": 1708577621,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 348921,
+      "num": 348921,
+      "word": "俄网红美女带货无数实则是乌网红AI换脸",
+      "onboard_time": 1708582414,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338779,
@@ -819,6 +827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 245670,
+      "num": 245670,
+      "word": "武艺也看了花少热巴拿蛋糕",
+      "onboard_time": 1708583074,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 244976,
       "num": 244976,
       "word": "浙江省的省饮料是什么",
@@ -963,14 +979,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 214494,
-      "num": 214494,
-      "word": "俄网红美女带货无数实则是乌网红AI换脸",
-      "onboard_time": 1708582414,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211703,
       "num": 211703,
       "word": "你们山东吃这么硬的吗",
@@ -1067,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195571,
+      "num": 195571,
+      "word": "华为时尚盛典",
+      "onboard_time": 1708583494,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 194780,
       "num": 194780,
       "word": "他们驰援贵州山火后席地而睡",
@@ -1075,12 +1091,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193564,
+      "num": 193564,
+      "word": "这根本难不倒魏大勋",
+      "onboard_time": 1708582895,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191663,
       "num": 191663,
       "word": "胡锡进 中国名义GDP与美国的差距",
       "onboard_time": 1708565494,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 190641,
+      "num": 190641,
+      "word": "鹿晗五哈贵州路透",
+      "onboard_time": 1708581876,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190232,
+      "num": 184760,
+      "word": "武艺说魏大勋腿很长需要慢慢追",
+      "onboard_time": 1708583252,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 189699,
@@ -1107,14 +1147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187830,
-      "num": 187830,
-      "word": "鹿晗五哈贵州路透",
-      "onboard_time": 1708581876,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186787,
       "num": 165301,
       "word": "嗓子疼可能是一种凶险的急症",
@@ -1129,6 +1161,14 @@
       "onboard_time": 1708570114,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185879,
+      "num": 185879,
+      "word": "石雷鹏作文",
+      "onboard_time": 1708583433,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 183032,
@@ -1169,6 +1209,14 @@
       "onboard_time": 1708577800,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177533,
+      "num": 177533,
+      "word": "李一舟下架AI课程",
+      "onboard_time": 1708583314,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 171694,
@@ -1307,6 +1355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146443,
+      "num": 146443,
+      "word": "特战队长和特战队长结婚了",
+      "onboard_time": 1708583136,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145206,
       "num": 130458,
       "word": "马云妻子在新加坡购房",
@@ -1345,14 +1401,6 @@
       "onboard_time": 1708559850,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139538,
-      "num": 139538,
-      "word": "这根本难不倒魏大勋",
-      "onboard_time": 1708582895,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 135142,
