@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708636506240,
+  "endTime": 1708637662220,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -60923,6 +60923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 19226,
+      "num": 19226,
+      "word": "安徽冻雨",
+      "onboard_time": 1708634656,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18945,
       "num": 18945,
       "word": "董宇辉北京台春晚拜年",
@@ -60993,14 +61001,6 @@
       "onboard_time": 1707852798,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 17841,
-      "num": 17841,
-      "word": "安徽冻雨",
-      "onboard_time": 1708634656,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17729,
@@ -61457,6 +61457,14 @@
       "onboard_time": 1707689955,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12384,
+      "num": 12384,
+      "word": "我和马丽只差一个王晶",
+      "onboard_time": 1708637175,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 12243,

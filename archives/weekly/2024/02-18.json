@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708636506240,
+  "endTime": 1708637662220,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -14387,6 +14387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19226,
+      "num": 19226,
+      "word": "安徽冻雨",
+      "onboard_time": 1708634656,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18707,
       "num": 18707,
       "word": "西安中小学开学时间调整",
@@ -14409,14 +14417,6 @@
       "onboard_time": 1708542376,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17841,
-      "num": 17841,
-      "word": "安徽冻雨",
-      "onboard_time": 1708634656,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16830,
@@ -14537,6 +14537,14 @@
       "onboard_time": 1708198036,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12384,
+      "num": 12384,
+      "word": "我和马丽只差一个王晶",
+      "onboard_time": 1708637175,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 11845,
