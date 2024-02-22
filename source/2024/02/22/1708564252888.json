@@ -1,0 +1,410 @@
+{
+  "runTime": 1708564252888,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2268467,
+        "num": 2268467,
+        "word": "员工抑郁请病假暗中考研还领高薪",
+        "onboard_time": 1708556601,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1867715,
+        "num": 1867715,
+        "word": "cos赵世子男网红再道歉",
+        "onboard_time": 1708559909,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93340,
+        "num": 1548222,
+        "word": "瓣瓣同心心相连",
+        "onboard_time": 1708562195,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1503182,
+        "num": 1503182,
+        "word": "国内首例反复感染新冠的Goods综合征患者",
+        "onboard_time": 1708558826,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1235808,
+        "num": 1235808,
+        "word": "白敬亭进组难哄",
+        "onboard_time": 1708563335,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1044938,
+        "num": 1044938,
+        "word": "武汉大雪",
+        "onboard_time": 1708561293,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 840286,
+        "num": 840286,
+        "word": "要睡多久觉才能把黑眼圈睡没",
+        "onboard_time": 1708529614,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 687818,
+        "num": 687818,
+        "word": "上海一杯4颗美式汤圆要38元",
+        "onboard_time": 1708558645,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 633587,
+        "num": 633587,
+        "word": "朱珠泳装",
+        "onboard_time": 1708560513,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 528264,
+        "num": 528264,
+        "word": "近期高发的嗓子疼可能是这种急症",
+        "onboard_time": 1708526437,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 529713,
+        "num": 518050,
+        "word": "曾黎全网找yuzheng",
+        "onboard_time": 1708560271,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497480,
+        "num": 497480,
+        "word": "王诗龄家豪宅内景",
+        "onboard_time": 1708525360,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438841,
+        "num": 438841,
+        "word": "贵州山火",
+        "onboard_time": 1708561349,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436729,
+        "num": 436729,
+        "word": "台湾方面须给一个明确交代",
+        "onboard_time": 1708524458,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 429192,
+        "num": 429192,
+        "word": "狂飙麻子爆改",
+        "onboard_time": 1708521275,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 349962,
+        "num": 349962,
+        "word": "张杰2024年巡演",
+        "onboard_time": 1708562911,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 338779,
+        "num": 338779,
+        "word": "王鹤棣何猷君同框合影",
+        "onboard_time": 1708562013,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 321409,
+        "num": 321409,
+        "word": "柳鑫宇",
+        "onboard_time": 1708563634,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318594,
+        "num": 318594,
+        "word": "刘诗诗春晚服装灵感来自敦煌",
+        "onboard_time": 1708563754,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313421,
+        "num": 313421,
+        "word": "姚安娜演技",
+        "onboard_time": 1708520973,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 698991,
+        "num": 308181,
+        "word": "我爸告诉亲戚我存款十万",
+        "onboard_time": 1708558286,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320672,
+        "num": 307314,
+        "word": "男孩吞下整根牙刷隐瞒了2天",
+        "onboard_time": 1708526137,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295896,
+        "num": 295896,
+        "word": "原神",
+        "onboard_time": 1708562013,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 295746,
+        "num": 295746,
+        "word": "贵阳8场山火10人被处理",
+        "onboard_time": 1708527759,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269752,
+        "num": 269752,
+        "word": "当博士小情侣陷入热恋",
+        "onboard_time": 1708527634,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265990,
+        "num": 265990,
+        "word": "魏晨这么多年了翻译还是这么好",
+        "onboard_time": 1708525596,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244250,
+        "num": 244250,
+        "word": "肖战出发米兰",
+        "onboard_time": 1708557563,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 240295,
+        "num": 240295,
+        "word": "河南医生成功分离罕见胎中胎",
+        "onboard_time": 1708543997,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220820,
+        "num": 220820,
+        "word": "近十年来第一次把胡子刮干净",
+        "onboard_time": 1708558586,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213527,
+        "num": 213527,
+        "word": "贾玲公开瘦身食谱",
+        "onboard_time": 1708517135,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213090,
+        "num": 213090,
+        "word": "你感染了几次新冠",
+        "onboard_time": 1708563813,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217821,
+        "num": 211817,
+        "word": "肖战车厢大片",
+        "onboard_time": 1708559428,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209571,
+        "num": 209571,
+        "word": "甄嬛传又有新发现了",
+        "onboard_time": 1708556601,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207632,
+        "num": 207632,
+        "word": "经常运动和不运动的人有啥区别",
+        "onboard_time": 1708545019,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 189699,
+        "num": 189699,
+        "word": "霉霉又四封了",
+        "onboard_time": 1708563036,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186767,
+        "num": 186767,
+        "word": "米兰时装周",
+        "onboard_time": 1708564054,
+        "rank": 35,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 172904,
+        "num": 172904,
+        "word": "浙江省的省饮料是什么",
+        "onboard_time": 1708563634,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159550,
+        "num": 159550,
+        "word": "夏克立 我从来没有家暴",
+        "onboard_time": 1708542617,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156408,
+        "num": 156408,
+        "word": "英伟达盘后大涨",
+        "onboard_time": 1708562675,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148156,
+        "num": 148156,
+        "word": "杨幂同款新中式",
+        "onboard_time": 1708564054,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146323,
+        "num": 146323,
+        "word": "陈哲远泰国",
+        "onboard_time": 1708564115,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145927,
+        "num": 145927,
+        "word": "天秤座2024会发生的三件好事",
+        "onboard_time": 1708526498,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142246,
+        "num": 142246,
+        "word": "古巨基合照P上宋亚轩",
+        "onboard_time": 1708561232,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141048,
+        "num": 141048,
+        "word": "虞书欣现偶穿搭",
+        "onboard_time": 1708559850,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135142,
+        "num": 135142,
+        "word": "这小说是非写不可吗",
+        "onboard_time": 1708561893,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134908,
+        "num": 134908,
+        "word": "Goods综合征",
+        "onboard_time": 1708564235,
+        "rank": 45,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 130178,
+        "num": 130178,
+        "word": "阿媒称梅西为国家队带来经济损失",
+        "onboard_time": 1708526977,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124258,
+        "num": 124258,
+        "word": "新中式发型",
+        "onboard_time": 1708562195,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 123464,
+        "num": 123464,
+        "word": "当代年轻人的隐形自虐",
+        "onboard_time": 1708552516,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118145,
+        "num": 118145,
+        "word": "偷看主人的萨摩耶宝宝",
+        "onboard_time": 1708563514,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#擘画鹭岛新画卷#"
+    }
+  }
+}

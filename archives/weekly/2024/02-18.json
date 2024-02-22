@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708558522449,
+  "endTime": 1708564252888,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2268467,
+      "num": 2268467,
+      "word": "员工抑郁请病假暗中考研还领高薪",
+      "onboard_time": 1708556601,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2263562,
       "num": 2263562,
       "word": "妈妈一怒之下撤回了一个弟弟",
@@ -499,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1867715,
+      "num": 1867715,
+      "word": "cos赵世子男网红再道歉",
+      "onboard_time": 1708559909,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1858615,
       "num": 1858615,
       "word": "刘雨欣 没绿卡没换国籍",
@@ -697,6 +713,14 @@
       "onboard_time": 1708341035,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1503182,
+      "num": 1503182,
+      "word": "国内首例反复感染新冠的Goods综合征患者",
+      "onboard_time": 1708558826,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1500864,
@@ -1043,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1235808,
+      "num": 1235808,
+      "word": "白敬亭进组难哄",
+      "onboard_time": 1708563335,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1231981,
       "num": 1231981,
       "word": "甘肃超2万名旅客滞留",
@@ -1321,6 +1353,14 @@
       "onboard_time": 1708420898,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1044938,
+      "num": 1044938,
+      "word": "武汉大雪",
+      "onboard_time": 1708561293,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1035248,
@@ -2107,6 +2147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 698991,
+      "num": 308181,
+      "word": "我爸告诉亲戚我存款十万",
+      "onboard_time": 1708558286,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 697088,
       "num": 697088,
       "word": "游客与傅园慧经历相似却维权失败",
@@ -2137,6 +2185,14 @@
       "onboard_time": 1708182215,
       "rank": 6,
       "category": "数码"
+    },
+    {
+      "raw_hot": 687818,
+      "num": 687818,
+      "word": "上海一杯4颗美式汤圆要38元",
+      "onboard_time": 1708558645,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 685014,
@@ -2316,7 +2372,7 @@
     },
     {
       "raw_hot": 653706,
-      "num": 287796,
+      "num": 307314,
       "word": "男孩吞下整根牙刷隐瞒了2天",
       "onboard_time": 1708526137,
       "rank": 20,
@@ -2384,6 +2440,14 @@
       "word": "杨紫热辣红唇妆",
       "onboard_time": 1708431878,
       "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 633587,
+      "num": 633587,
+      "word": "朱珠泳装",
+      "onboard_time": 1708560513,
+      "rank": 8,
       "category": "作品衍生"
     },
     {
@@ -2969,6 +3033,14 @@
       "onboard_time": 1708412561,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 529713,
+      "num": 518050,
+      "word": "曾黎全网找yuzheng",
+      "onboard_time": 1708560271,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 528999,
@@ -3569,14 +3641,6 @@
       "onboard_time": 1708435416,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 429753,
-      "num": 297314,
-      "word": "员工抑郁请病假暗中考研还领高薪",
-      "onboard_time": 1708556601,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 429375,
@@ -4387,6 +4451,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 349962,
+      "num": 349962,
+      "word": "张杰2024年巡演",
+      "onboard_time": 1708562911,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 349916,
       "num": 349916,
       "word": "农村老人看电视越来越难",
@@ -4553,6 +4625,14 @@
       "onboard_time": 1708413875,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338779,
+      "num": 338779,
+      "word": "王鹤棣何猷君同框合影",
+      "onboard_time": 1708562013,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 338655,
@@ -4763,6 +4843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321409,
+      "num": 321409,
+      "word": "柳鑫宇",
+      "onboard_time": 1708563634,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 321261,
       "num": 321261,
       "word": "沙尘暴",
@@ -4785,6 +4873,14 @@
       "onboard_time": 1708507113,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 318594,
+      "num": 318594,
+      "word": "刘诗诗春晚服装灵感来自敦煌",
+      "onboard_time": 1708563754,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 317463,
@@ -6819,6 +6915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 220820,
+      "num": 220820,
+      "word": "近十年来第一次把胡子刮干净",
+      "onboard_time": 1708558586,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220792,
       "num": 220792,
       "word": "任敏男装",
@@ -6945,6 +7049,14 @@
       "onboard_time": 1708266874,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 217821,
+      "num": 211817,
+      "word": "肖战车厢大片",
+      "onboard_time": 1708559428,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 217804,
@@ -7099,6 +7211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213090,
+      "num": 213090,
+      "word": "你感染了几次新冠",
+      "onboard_time": 1708563813,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 212892,
       "num": 212892,
       "word": "关晓彤短发侧颜",
@@ -7241,6 +7361,14 @@
       "onboard_time": 1708412495,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207632,
+      "num": 207632,
+      "word": "经常运动和不运动的人有啥区别",
+      "onboard_time": 1708545019,
+      "rank": 21,
+      "category": "运动健身"
     },
     {
       "raw_hot": 207344,
@@ -7971,6 +8099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189699,
+      "num": 189699,
+      "word": "霉霉又四封了",
+      "onboard_time": 1708563036,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189629,
       "num": 189629,
       "word": "德国传奇球星布雷默去世",
@@ -8161,6 +8297,14 @@
       "onboard_time": 1708352801,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186767,
+      "num": 186767,
+      "word": "米兰时装周",
+      "onboard_time": 1708564054,
+      "rank": 35,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 186566,
@@ -8737,6 +8881,14 @@
       "onboard_time": 1708518273,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172904,
+      "num": 172904,
+      "word": "浙江省的省饮料是什么",
+      "onboard_time": 1708563634,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 172571,
@@ -9467,6 +9619,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 156408,
+      "num": 156408,
+      "word": "英伟达盘后大涨",
+      "onboard_time": 1708562675,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 156275,
       "num": 156275,
       "word": "经期请假怎么这么难",
@@ -9819,6 +9979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148156,
+      "num": 148156,
+      "word": "杨幂同款新中式",
+      "onboard_time": 1708564054,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147941,
       "num": 147941,
       "word": "翻到了父亲高考时的试卷",
@@ -9865,6 +10033,14 @@
       "onboard_time": 1708224813,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146323,
+      "num": 146323,
+      "word": "陈哲远泰国",
+      "onboard_time": 1708564115,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 146172,
@@ -10083,6 +10259,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 142246,
+      "num": 142246,
+      "word": "古巨基合照P上宋亚轩",
+      "onboard_time": 1708561232,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141916,
       "num": 141916,
       "word": "龚琳娜黄子弘凡唱忐忑",
@@ -10129,6 +10313,14 @@
       "onboard_time": 1708467677,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141048,
+      "num": 141048,
+      "word": "虞书欣现偶穿搭",
+      "onboard_time": 1708559850,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 140830,
@@ -10184,14 +10376,6 @@
       "word": "女生觉醒的第一步",
       "onboard_time": 1708345720,
       "rank": 45,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 139217,
-      "num": 129753,
-      "word": "我爸告诉亲戚我存款十万",
-      "onboard_time": 1708558286,
-      "rank": 21,
       "category": "情感"
     },
     {
@@ -10315,6 +10499,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 135142,
+      "num": 135142,
+      "word": "这小说是非写不可吗",
+      "onboard_time": 1708561893,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134975,
       "num": 134975,
       "word": "热辣滚烫票房破29亿",
@@ -10329,6 +10521,14 @@
       "onboard_time": 1708302452,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134908,
+      "num": 134908,
+      "word": "Goods综合征",
+      "onboard_time": 1708564235,
+      "rank": 45,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 134792,
@@ -10531,6 +10731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 124258,
+      "num": 124258,
+      "word": "新中式发型",
+      "onboard_time": 1708562195,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 124146,
       "num": 124146,
       "word": "同事带来的神奇土特产",
@@ -10553,6 +10761,14 @@
       "onboard_time": 1708470142,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123464,
+      "num": 123464,
+      "word": "当代年轻人的隐形自虐",
+      "onboard_time": 1708552516,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 122542,
@@ -10625,6 +10841,14 @@
       "onboard_time": 1708170271,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118145,
+      "num": 118145,
+      "word": "偷看主人的萨摩耶宝宝",
+      "onboard_time": 1708563514,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 117504,
@@ -10713,14 +10937,6 @@
       "onboard_time": 1708308029,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 113794,
-      "num": 113794,
-      "word": "经常运动和不运动的人有啥区别",
-      "onboard_time": 1708545019,
-      "rank": 21,
-      "category": "运动健身"
     },
     {
       "raw_hot": 112757,
@@ -10915,6 +11131,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 93340,
+      "num": 1548222,
+      "word": "瓣瓣同心心相连",
+      "onboard_time": 1708562195,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92335,
       "num": 1934033,
       "word": "何为中国活力这个春节告诉你",
@@ -10993,14 +11217,6 @@
       "onboard_time": 1708404102,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 84757,
-      "num": 84757,
-      "word": "当代年轻人的隐形自虐",
-      "onboard_time": 1708552516,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 84524,
