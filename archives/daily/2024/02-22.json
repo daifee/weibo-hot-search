@@ -1,6 +1,6 @@
 {
   "startTime": 1708532526738,
-  "endTime": 1708598040046,
+  "endTime": 1708600465762,
   "band_list": [
     {
       "raw_hot": 7943085,
@@ -187,6 +187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1269798,
+      "num": 1269798,
+      "word": "周五爆改周四",
+      "onboard_time": 1708598373,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1252859,
       "num": 1252859,
       "word": "沥心沙大桥事故致5人死亡",
@@ -283,12 +291,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 988324,
+      "num": 988324,
+      "word": "柳鑫宇泪洒现场",
+      "onboard_time": 1708596572,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 973714,
       "num": 973714,
       "word": "撒贝宁何炅 元宵晚会同台",
       "onboard_time": 1708576417,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 935706,
+      "num": 935706,
+      "word": "2.2亿中奖者此前多次购买相同号码",
+      "onboard_time": 1708595256,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 918009,
@@ -331,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 863357,
+      "num": 632070,
+      "word": "生理性喜欢",
+      "onboard_time": 1708598853,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 844057,
       "num": 844057,
       "word": "贵州全省共发生森林火情221起",
@@ -352,14 +384,6 @@
       "word": "郑州一海洋馆潜水员在馆内溺亡",
       "onboard_time": 1708567595,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 804547,
-      "num": 804547,
-      "word": "2.2亿中奖者此前多次购买相同号码",
-      "onboard_time": 1708595256,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -395,14 +419,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 750282,
-      "num": 750282,
-      "word": "柳鑫宇泪洒现场",
-      "onboard_time": 1708596572,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 739167,
       "num": 739167,
       "word": "贾玲公开瘦身食谱",
@@ -425,6 +441,14 @@
       "onboard_time": 1708590995,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 716899,
+      "num": 716899,
+      "word": "cos赵世子男网红账号被禁言",
+      "onboard_time": 1708599095,
+      "rank": 6,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 716475,
@@ -531,8 +555,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 598659,
-      "num": 598659,
+      "raw_hot": 622721,
+      "num": 622721,
       "word": "院人是赵昭仪的克星吗",
       "onboard_time": 1708594775,
       "rank": 13,
@@ -755,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 421000,
+      "num": 421000,
+      "word": "南京调休",
+      "onboard_time": 1708599570,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 420060,
       "num": 311372,
       "word": "男孩吞下整根牙刷隐瞒了2天",
@@ -817,6 +849,14 @@
       "onboard_time": 1708585895,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 381248,
+      "num": 381248,
+      "word": "坐拥300万粉丝后还在烙灌饼",
+      "onboard_time": 1708597354,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 378634,
@@ -1059,6 +1099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 278608,
+      "num": 278608,
+      "word": "九尾与LGD成立新公司",
+      "onboard_time": 1708599033,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 278008,
       "num": 705208,
       "word": "外卖小哥雪天送打不到车的女生回家",
@@ -1171,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255862,
+      "num": 229508,
+      "word": "父母是坐在副驾上的人",
+      "onboard_time": 1708599513,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254517,
       "num": 254517,
       "word": "方正证券再爆大瓜",
@@ -1257,6 +1313,14 @@
       "onboard_time": 1708578037,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 242822,
+      "num": 242822,
+      "word": "檀健次方否认网传杂志封面",
+      "onboard_time": 1708600354,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 241413,
@@ -1563,6 +1627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 200917,
+      "num": 193532,
+      "word": "朴灿烈终于想起了他的微博密码",
+      "onboard_time": 1708599753,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199968,
       "num": 199968,
       "word": "潜水员溺亡海洋馆发布情况说明",
@@ -1627,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193883,
+      "num": 193883,
+      "word": "肖战台版GQ封面大片",
+      "onboard_time": 1708600175,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 193564,
       "num": 193564,
       "word": "这根本难不倒魏大勋",
@@ -1665,6 +1745,14 @@
       "onboard_time": 1708581876,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190434,
+      "num": 190434,
+      "word": "aespa开麦舞台",
+      "onboard_time": 1708599394,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 189699,
@@ -1755,11 +1843,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 181669,
-      "num": 181669,
-      "word": "坐拥300万粉丝后还在烙灌饼",
-      "onboard_time": 1708597354,
-      "rank": 37,
+      "raw_hot": 182859,
+      "num": 182859,
+      "word": "宗庆后女儿回应",
+      "onboard_time": 1708600414,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1835,6 +1923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175971,
+      "num": 175971,
+      "word": "天蚕土豆演我写论文",
+      "onboard_time": 1708597894,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 175451,
       "num": 175451,
       "word": "孙颖莎开局连得8分",
@@ -1857,6 +1953,22 @@
       "onboard_time": 1708591534,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 173457,
+      "num": 173457,
+      "word": "吴世勋什么时候发博",
+      "onboard_time": 1708599994,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 173030,
+      "num": 173030,
+      "word": "普通情侣一年的年收入",
+      "onboard_time": 1708600295,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 172512,
@@ -1979,6 +2091,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160587,
+      "num": 714255,
+      "word": "贵州山火救援的感人瞬间",
+      "onboard_time": 1708595434,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157585,
       "num": 157585,
       "word": "工作我有四不做",
@@ -2017,14 +2137,6 @@
       "onboard_time": 1708597833,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151243,
-      "num": 151243,
-      "word": "天蚕土豆演我写论文",
-      "onboard_time": 1708597894,
-      "rank": 49,
-      "category": "读书作家"
     },
     {
       "raw_hot": 150789,
@@ -2091,6 +2203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 143617,
+      "num": 143617,
+      "word": "泰妍To.X舞台",
+      "onboard_time": 1708600414,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142257,
       "num": 142257,
       "word": "霉霉登顶2023IFPI全球畅销艺人榜",
@@ -2121,14 +2241,6 @@
       "onboard_time": 1708559850,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140094,
-      "num": 714255,
-      "word": "贵州山火救援的感人瞬间",
-      "onboard_time": 1708595434,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135142,
@@ -2529,6 +2641,14 @@
       "onboard_time": 1708518633,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44851,
+      "num": 229687,
+      "word": "海底捞等位区全在元梦之星",
+      "onboard_time": 1708598853,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 34783,

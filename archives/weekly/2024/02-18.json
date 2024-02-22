@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708598040046,
+  "endTime": 1708600465762,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -1155,6 +1155,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 1269798,
+      "num": 1269798,
+      "word": "周五爆改周四",
+      "onboard_time": 1708598373,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1268746,
       "num": 1268746,
       "word": "白鹿替身发文",
@@ -1627,6 +1635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 988324,
+      "num": 988324,
+      "word": "柳鑫宇泪洒现场",
+      "onboard_time": 1708596572,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 981734,
       "num": 981734,
       "word": "孩子校服里掏出来的照片",
@@ -1729,6 +1745,14 @@
       "onboard_time": 1708486414,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 935706,
+      "num": 935706,
+      "word": "2.2亿中奖者此前多次购买相同号码",
+      "onboard_time": 1708595256,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 929907,
@@ -1939,6 +1963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 863357,
+      "num": 632070,
+      "word": "生理性喜欢",
+      "onboard_time": 1708598853,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 859226,
       "num": 859226,
       "word": "乐莹跳楼戏拍了72遍用了第72条",
@@ -2073,14 +2105,6 @@
       "onboard_time": 1708352563,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 804547,
-      "num": 804547,
-      "word": "2.2亿中奖者此前多次购买相同号码",
-      "onboard_time": 1708595256,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 801952,
@@ -2283,14 +2307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 750282,
-      "num": 750282,
-      "word": "柳鑫宇泪洒现场",
-      "onboard_time": 1708596572,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 749824,
       "num": 749824,
       "word": "飞驰2破25亿全员呼应上了",
@@ -2393,6 +2409,14 @@
       "onboard_time": 1708590995,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 716899,
+      "num": 716899,
+      "word": "cos赵世子男网红账号被禁言",
+      "onboard_time": 1708599095,
+      "rank": 6,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 716475,
@@ -2907,6 +2931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 622721,
+      "num": 622721,
+      "word": "院人是赵昭仪的克星吗",
+      "onboard_time": 1708594775,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 621967,
       "num": 621967,
       "word": "内娱有自己的纯元皇后",
@@ -3089,14 +3121,6 @@
       "onboard_time": 1708440221,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 598659,
-      "num": 598659,
-      "word": "院人是赵昭仪的克星吗",
-      "onboard_time": 1708594775,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 598120,
@@ -4339,6 +4363,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 421000,
+      "num": 421000,
+      "word": "南京调休",
+      "onboard_time": 1708599570,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 420181,
       "num": 420181,
       "word": "专家谈胖东来开除当事员工",
@@ -4729,6 +4761,14 @@
       "onboard_time": 1708499314,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 381248,
+      "num": 381248,
+      "word": "坐拥300万粉丝后还在烙灌饼",
+      "onboard_time": 1708597354,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381025,
@@ -6379,6 +6419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 278608,
+      "num": 278608,
+      "word": "九尾与LGD成立新公司",
+      "onboard_time": 1708599033,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 278331,
       "num": 278331,
       "word": "华为官宣Pocket2发布会",
@@ -6915,6 +6963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255862,
+      "num": 229508,
+      "word": "父母是坐在副驾上的人",
+      "onboard_time": 1708599513,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254909,
       "num": 254909,
       "word": "张栋梁介绍新人张栋梁",
@@ -7345,6 +7401,14 @@
       "onboard_time": 1708386448,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 242822,
+      "num": 242822,
+      "word": "檀健次方否认网传杂志封面",
+      "onboard_time": 1708600354,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 241616,
@@ -8835,6 +8899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200917,
+      "num": 193532,
+      "word": "朴灿烈终于想起了他的微博密码",
+      "onboard_time": 1708599753,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200904,
       "num": 200904,
       "word": "格林威治领奖台直拍",
@@ -9187,6 +9259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193883,
+      "num": 193883,
+      "word": "肖战台版GQ封面大片",
+      "onboard_time": 1708600175,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 193632,
       "num": 193632,
       "word": "丁程鑫栗子发色",
@@ -9401,6 +9481,14 @@
       "onboard_time": 1708336539,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190434,
+      "num": 190434,
+      "word": "aespa开麦舞台",
+      "onboard_time": 1708599394,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 190366,
@@ -9827,6 +9915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182859,
+      "num": 182859,
+      "word": "宗庆后女儿回应",
+      "onboard_time": 1708600414,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182847,
       "num": 182847,
       "word": "马思纯两年前vs现在",
@@ -9889,14 +9985,6 @@
       "onboard_time": 1708301670,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 181669,
-      "num": 181669,
-      "word": "坐拥300万粉丝后还在烙灌饼",
-      "onboard_time": 1708597354,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181506,
@@ -10211,6 +10299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175971,
+      "num": 175971,
+      "word": "天蚕土豆演我写论文",
+      "onboard_time": 1708597894,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 175800,
       "num": 175800,
       "word": "夫妻俩花5000块从海南回杭州",
@@ -10331,6 +10427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173457,
+      "num": 173457,
+      "word": "吴世勋什么时候发博",
+      "onboard_time": 1708599994,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173394,
       "num": 173394,
       "word": "开工第一天我把工位换新了",
@@ -10345,6 +10449,14 @@
       "onboard_time": 1708319554,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173030,
+      "num": 173030,
+      "word": "普通情侣一年的年收入",
+      "onboard_time": 1708600295,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 173014,
@@ -10979,6 +11091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160587,
+      "num": 714255,
+      "word": "贵州山火救援的感人瞬间",
+      "onboard_time": 1708595434,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160508,
       "num": 160508,
       "word": "小米14Ultra定档",
@@ -11427,14 +11547,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 151243,
-      "num": 151243,
-      "word": "天蚕土豆演我写论文",
-      "onboard_time": 1708597894,
-      "rank": 49,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 151136,
       "num": 151136,
       "word": "时代少年团被电子鞭炮吓到",
@@ -11851,6 +11963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143617,
+      "num": 143617,
+      "word": "泰妍To.X舞台",
+      "onboard_time": 1708600414,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143548,
       "num": 143548,
       "word": "龙行龘龘前程朤朤",
@@ -11961,14 +12081,6 @@
       "onboard_time": 1708409201,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 140094,
-      "num": 714255,
-      "word": "贵州山火救援的感人瞬间",
-      "onboard_time": 1708595434,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140000,
@@ -13201,6 +13313,14 @@
       "onboard_time": 1708539678,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44851,
+      "num": 229687,
+      "word": "海底捞等位区全在元梦之星",
+      "onboard_time": 1708598853,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 44716,
