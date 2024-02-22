@@ -1,0 +1,410 @@
+{
+  "runTime": 1708594462559,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2694180,
+        "num": 2694180,
+        "word": "娃哈哈创始人宗庆后在ICU抢救",
+        "onboard_time": 1708591831,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2326871,
+        "num": 2326871,
+        "word": "民政部通报2.2亿元彩票大奖情况",
+        "onboard_time": 1708593036,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83377,
+        "num": 2026706,
+        "word": "鹊桥二号中继星择机发射",
+        "onboard_time": 1708592135,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1822651,
+        "num": 1822651,
+        "word": "把学历改成高中后终于找到工作",
+        "onboard_time": 1708585294,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1116777,
+        "num": 1116777,
+        "word": "王阳 高斯",
+        "onboard_time": 1708587398,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 939200,
+        "num": 939200,
+        "word": "人民网评网红扮演赵世子",
+        "onboard_time": 1708580973,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844057,
+        "num": 844057,
+        "word": "贵州全省共发生森林火情221起",
+        "onboard_time": 1708592375,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 797572,
+        "num": 797572,
+        "word": "射雕定档",
+        "onboard_time": 1708589257,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 708456,
+        "num": 708456,
+        "word": "热巴拿蛋糕",
+        "onboard_time": 1708588473,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 652093,
+        "num": 652093,
+        "word": "老爸问老妈3万块的茶艺课学了些什么",
+        "onboard_time": 1708586374,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 637019,
+        "num": 637019,
+        "word": "媒体评乙女游戏卷尺度现象",
+        "onboard_time": 1708590995,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 627205,
+        "num": 627205,
+        "word": "郑秀晶签约新公司",
+        "onboard_time": 1708589674,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 560651,
+        "num": 560651,
+        "word": "佟丽娅短发炸毛",
+        "onboard_time": 1708591831,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 537557,
+        "num": 537557,
+        "word": "南海救助局寻获2名罹难者遗体",
+        "onboard_time": 1708591534,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531329,
+        "num": 531329,
+        "word": "永安梦定档",
+        "onboard_time": 1708593036,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 517557,
+        "num": 517557,
+        "word": "外甥正月理发舅舅去世成被告",
+        "onboard_time": 1708572936,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434691,
+        "num": 434691,
+        "word": "杜乐莹 我生下来是你妹妹",
+        "onboard_time": 1708583973,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 426790,
+        "num": 426790,
+        "word": "贵州山火原因",
+        "onboard_time": 1708584395,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366933,
+        "num": 366933,
+        "word": "灿烈 好久不见",
+        "onboard_time": 1708586616,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346491,
+        "num": 346491,
+        "word": "中学男教师在办公室猥亵男生",
+        "onboard_time": 1708579053,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334800,
+        "num": 334800,
+        "word": "拜托这可是欧阳兰",
+        "onboard_time": 1708591473,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 309250,
+        "num": 309250,
+        "word": "医院回应宗庆后病情",
+        "onboard_time": 1708592615,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302781,
+        "num": 302781,
+        "word": "考虫倒闭",
+        "onboard_time": 1708566813,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 300130,
+        "num": 300130,
+        "word": "王逗逗结婚",
+        "onboard_time": 1708585418,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 290978,
+        "num": 290978,
+        "word": "观音桥你是真敢放啊",
+        "onboard_time": 1708592495,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290130,
+        "num": 290130,
+        "word": "迪丽热巴白发异世精灵",
+        "onboard_time": 1708580198,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 287027,
+        "num": 287027,
+        "word": "孙千身上是有磁铁吗",
+        "onboard_time": 1708592976,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273366,
+        "num": 273366,
+        "word": "20集她戴了22副耳环",
+        "onboard_time": 1708576475,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272098,
+        "num": 272098,
+        "word": "孙颖莎就让对手得了7分",
+        "onboard_time": 1708593812,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253277,
+        "num": 253277,
+        "word": "当生活只剩下上班和下班",
+        "onboard_time": 1708590032,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 238820,
+        "num": 238820,
+        "word": "迪丽热巴谈做演员原因",
+        "onboard_time": 1708593516,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228782,
+        "num": 228782,
+        "word": "边伯贤抢票",
+        "onboard_time": 1708593336,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 227675,
+        "num": 227675,
+        "word": "粉丝P的杨紫簪花图",
+        "onboard_time": 1708592792,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220920,
+        "num": 220920,
+        "word": "巴以冲突",
+        "onboard_time": 1708591236,
+        "rank": 33,
+        "category": "军事,国外时政"
+      },
+      {
+        "raw_hot": 218008,
+        "num": 218008,
+        "word": "乐莹乐丹 姐妹",
+        "onboard_time": 1708589856,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202376,
+        "num": 202376,
+        "word": "从怀孕到生娃十一个月的花销",
+        "onboard_time": 1708577740,
+        "rank": 35,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 197421,
+        "num": 197421,
+        "word": "沥心沙大桥居民现状",
+        "onboard_time": 1708593213,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191924,
+        "num": 191924,
+        "word": "男朋友正式来家里和狗装不认识",
+        "onboard_time": 1708587037,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182151,
+        "num": 182151,
+        "word": "魏大勋坦坦荡荡后退一步",
+        "onboard_time": 1708588299,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177599,
+        "num": 177599,
+        "word": "林志玲2岁儿子侧颜",
+        "onboard_time": 1708577022,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175219,
+        "num": 175219,
+        "word": "方正证券回应员工被爆料",
+        "onboard_time": 1708594234,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 172808,
+        "num": 172808,
+        "word": "贵州森林火灾扑救难度有多大",
+        "onboard_time": 1708584336,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172512,
+        "num": 172512,
+        "word": "AG新阵容首战",
+        "onboard_time": 1708594355,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165946,
+        "num": 165946,
+        "word": "潜水员溺亡海洋馆发布情况说明",
+        "onboard_time": 1708594175,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12923,
+        "num": 160970,
+        "word": "金沙江电池",
+        "onboard_time": 1708593036,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 157913,
+        "num": 157913,
+        "word": "孙颖莎3比0李时温",
+        "onboard_time": 1708593036,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156048,
+        "num": 156048,
+        "word": "极氪",
+        "onboard_time": 1708584093,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 154159,
+        "num": 154159,
+        "word": "迪丽热巴时装采访",
+        "onboard_time": 1708590393,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153008,
+        "num": 153008,
+        "word": "王诗玥柳鑫宇自由舞113.04分",
+        "onboard_time": 1708586313,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145794,
+        "num": 145794,
+        "word": "出家12年的北大天才",
+        "onboard_time": 1708590272,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#擘画鹭岛新画卷#"
+    }
+  }
+}

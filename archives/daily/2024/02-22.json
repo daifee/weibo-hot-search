@@ -1,6 +1,6 @@
 {
   "startTime": 1708532526738,
-  "endTime": 1708593491917,
+  "endTime": 1708594462559,
   "band_list": [
     {
       "raw_hot": 7943085,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2326871,
+      "num": 2326871,
+      "word": "民政部通报2.2亿元彩票大奖情况",
+      "onboard_time": 1708593036,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2268467,
       "num": 2268467,
       "word": "员工抑郁请病假暗中考研还领高薪",
@@ -104,6 +112,14 @@
       "word": "cos赵世子男网红再道歉",
       "onboard_time": 1708559909,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1822651,
+      "num": 1822651,
+      "word": "把学历改成高中后终于找到工作",
+      "onboard_time": 1708585294,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -160,14 +176,6 @@
       "word": "贵州山火",
       "onboard_time": 1708503634,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1353900,
-      "num": 1353900,
-      "word": "把学历改成高中后终于找到工作",
-      "onboard_time": 1708585294,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -315,19 +323,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 844057,
+      "num": 844057,
+      "word": "贵州全省共发生森林火情221起",
+      "onboard_time": 1708592375,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 823280,
       "num": 823280,
       "word": "中国人四年存了58.24万亿元",
       "onboard_time": 1708565974,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 815438,
-      "num": 815438,
-      "word": "民政部通报2.2亿元彩票大奖情况",
-      "onboard_time": 1708593036,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -411,14 +419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 695742,
-      "num": 695742,
-      "word": "贵州全省共发生森林火情221起",
-      "onboard_time": 1708592375,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 691597,
       "num": 553201,
       "word": "柳鑫宇",
@@ -473,6 +473,14 @@
       "onboard_time": 1708576475,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 637019,
+      "num": 637019,
+      "word": "媒体评乙女游戏卷尺度现象",
+      "onboard_time": 1708590995,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 633587,
@@ -545,6 +553,14 @@
       "onboard_time": 1708569694,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 531329,
+      "num": 531329,
+      "word": "永安梦定档",
+      "onboard_time": 1708593036,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 530469,
@@ -667,14 +683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 441241,
-      "num": 441241,
-      "word": "媒体评乙女游戏卷尺度现象",
-      "onboard_time": 1708590995,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 438021,
       "num": 415848,
       "word": "旅客坐飞机拍下贵州山火",
@@ -729,14 +737,6 @@
       "onboard_time": 1708569513,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 400167,
-      "num": 400167,
-      "word": "永安梦定档",
-      "onboard_time": 1708593036,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 398133,
@@ -939,6 +939,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 290978,
+      "num": 290978,
+      "word": "观音桥你是真敢放啊",
+      "onboard_time": 1708592495,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288749,
       "num": 288749,
       "word": "涉事船舶公司回应撞断沥心沙大桥",
@@ -953,6 +961,14 @@
       "onboard_time": 1708586256,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287027,
+      "num": 287027,
+      "word": "孙千身上是有磁铁吗",
+      "onboard_time": 1708592976,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 283199,
@@ -1011,19 +1027,19 @@
       "category": "教育"
     },
     {
+      "raw_hot": 272098,
+      "num": 272098,
+      "word": "孙颖莎就让对手得了7分",
+      "onboard_time": 1708593812,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270284,
       "num": 270284,
       "word": "魏大勋坦坦荡荡后退一步",
       "onboard_time": 1708588299,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 268874,
-      "num": 268874,
-      "word": "观音桥你是真敢放啊",
-      "onboard_time": 1708592495,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1171,6 +1187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 238820,
+      "num": 238820,
+      "word": "迪丽热巴谈做演员原因",
+      "onboard_time": 1708593516,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 238074,
       "num": 165380,
       "word": "天秤座2024会发生的三件好事",
@@ -1219,12 +1243,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 228782,
+      "num": 228782,
+      "word": "边伯贤抢票",
+      "onboard_time": 1708593336,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 228532,
       "num": 228532,
       "word": "钟楚曦演的皇后好带感",
       "onboard_time": 1708579657,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227675,
+      "num": 227675,
+      "word": "粉丝P的杨紫簪花图",
+      "onboard_time": 1708592792,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 227252,
@@ -1315,14 +1355,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 214899,
-      "num": 214899,
-      "word": "粉丝P的杨紫簪花图",
-      "onboard_time": 1708592792,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 211703,
       "num": 211703,
       "word": "你们山东吃这么硬的吗",
@@ -1395,14 +1427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 203364,
-      "num": 203364,
-      "word": "孙千身上是有磁铁吗",
-      "onboard_time": 1708592976,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203323,
       "num": 203323,
       "word": "人车家全生态",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1708572813,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197421,
+      "num": 197421,
+      "word": "沥心沙大桥居民现状",
+      "onboard_time": 1708593213,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196203,
@@ -1667,12 +1699,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175219,
+      "num": 175219,
+      "word": "方正证券回应员工被爆料",
+      "onboard_time": 1708594234,
+      "rank": 40,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 174091,
       "num": 174091,
       "word": "孩子呼吸道感染怎么吃好得快",
       "onboard_time": 1708591534,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 172512,
+      "num": 172512,
+      "word": "AG新阵容首战",
+      "onboard_time": 1708594355,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 172343,
@@ -1731,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165946,
+      "num": 165946,
+      "word": "潜水员溺亡海洋馆发布情况说明",
+      "onboard_time": 1708594175,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165451,
       "num": 165451,
       "word": "贵州山火 火点",
@@ -1755,14 +1811,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 163456,
-      "num": 163456,
-      "word": "边伯贤抢票",
-      "onboard_time": 1708593336,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 162787,
       "num": 162787,
       "word": "NCTWISH出道",
@@ -1785,14 +1833,6 @@
       "onboard_time": 1708571313,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 158291,
-      "num": 158291,
-      "word": "沥心沙大桥居民现状",
-      "onboard_time": 1708593213,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157585,
@@ -2163,6 +2203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 83377,
+      "num": 2026706,
+      "word": "鹊桥二号中继星择机发射",
+      "onboard_time": 1708592135,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82825,
       "num": 82825,
       "word": "陈靖可 土木人",
@@ -2185,14 +2233,6 @@
       "onboard_time": 1708513774,
       "rank": 47,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 80601,
-      "num": 1356726,
-      "word": "鹊桥二号中继星择机发射",
-      "onboard_time": 1708592135,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 79106,
