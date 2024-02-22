@@ -1,6 +1,6 @@
 {
   "startTime": 1708532526738,
-  "endTime": 1708601643958,
+  "endTime": 1708605014337,
   "band_list": [
     {
       "raw_hot": 7943085,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2146667,
+      "num": 2146667,
+      "word": "网红杨老二去世",
+      "onboard_time": 1708603776,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 2009179,
       "num": 1619885,
       "word": "女子举报多位大学教师偷窥自己",
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1632761,
+      "num": 1632761,
+      "word": "南京调休",
+      "onboard_time": 1708599570,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1572648,
       "num": 1572648,
       "word": "20集她戴了22副耳环",
@@ -179,14 +195,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 1440062,
-      "num": 1440062,
-      "word": "南京调休",
-      "onboard_time": 1708599570,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1395009,
       "num": 1395009,
       "word": "贵州山火",
@@ -209,6 +217,14 @@
       "onboard_time": 1708595135,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1232815,
+      "num": 1232815,
+      "word": "尔冬升让郑合惠子演女演员",
+      "onboard_time": 1708603115,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1181872,
@@ -371,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 883090,
+      "num": 883090,
+      "word": "娃哈哈声明",
+      "onboard_time": 1708600833,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 878343,
       "num": 878343,
       "word": "热巴拿蛋糕",
@@ -515,6 +539,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 681530,
+      "num": 681530,
+      "word": "郑在玹金泰妍搂肩",
+      "onboard_time": 1708602752,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 671645,
+      "num": 671645,
+      "word": "2.2亿元彩票大奖得主无须缴纳个人所得税",
+      "onboard_time": 1708600715,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 649374,
       "num": 649374,
       "word": "沥心沙大桥",
@@ -579,6 +619,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 596136,
+      "num": 596136,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1708603955,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 594294,
       "num": 594294,
       "word": "45元一杯的酸奶你会买吗",
@@ -635,20 +683,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 543579,
-      "num": 543579,
-      "word": "娃哈哈声明",
-      "onboard_time": 1708600833,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 542865,
       "num": 542865,
       "word": "沥心沙大桥上掉落公交只有1司机",
       "onboard_time": 1708569694,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534948,
+      "num": 297438,
+      "word": "断崖式衰老常发生在3个年龄",
+      "onboard_time": 1708602814,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 531329,
@@ -771,6 +819,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 470192,
+      "num": 470192,
+      "word": "小米14ultra",
+      "onboard_time": 1708600833,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 449098,
       "num": 416331,
       "word": "3个月4个苹果副总裁离职",
@@ -793,6 +849,14 @@
       "onboard_time": 1708568494,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438313,
+      "num": 368934,
+      "word": "普通情侣一年的年收入",
+      "onboard_time": 1708600295,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 438021,
@@ -859,28 +923,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 397830,
-      "num": 368934,
-      "word": "普通情侣一年的年收入",
-      "onboard_time": 1708600295,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 387392,
       "num": 165782,
       "word": "人鱼陷落",
       "onboard_time": 1708585895,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 384017,
-      "num": 384017,
-      "word": "小米14ultra",
-      "onboard_time": 1708600833,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 381248,
@@ -939,14 +987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 360419,
-      "num": 360419,
-      "word": "2.2亿元彩票大奖得主无须缴纳个人所得税",
-      "onboard_time": 1708600715,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 359117,
       "num": 359117,
       "word": "车厘子草莓价格回落",
@@ -979,12 +1019,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 346819,
+      "num": 346819,
+      "word": "迪丽热巴妈妈想再养育一遍她",
+      "onboard_time": 1708604496,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 338779,
       "num": 338779,
       "word": "王鹤棣何猷君同框合影",
       "onboard_time": 1708562013,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 335111,
+      "num": 297218,
+      "word": "柿柿如意汤圆火了",
+      "onboard_time": 1708604135,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 334902,
@@ -1083,6 +1139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 296731,
+      "num": 296731,
+      "word": "05后大学生将宿舍爆改成家",
+      "onboard_time": 1708601074,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295905,
       "num": 295905,
       "word": "陈哲远泰国",
@@ -1153,6 +1217,14 @@
       "onboard_time": 1708601496,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 285456,
+      "num": 285456,
+      "word": "赵世子",
+      "onboard_time": 1708603655,
+      "rank": 24,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 283199,
@@ -1339,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250606,
+      "num": 250606,
+      "word": "您的尾巴可以礼貌一点吗",
+      "onboard_time": 1708601673,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250592,
       "num": 250592,
       "word": "宋雨琦安宥真G社生图",
@@ -1355,14 +1435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 248973,
-      "num": 248973,
-      "word": "05后大学生将宿舍爆改成家",
-      "onboard_time": 1708601074,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247430,
       "num": 247430,
       "word": "你感染了几次新冠",
@@ -1377,6 +1449,14 @@
       "onboard_time": 1708583794,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245740,
+      "num": 245740,
+      "word": "猎冰总导演否认华为投钱",
+      "onboard_time": 1708604676,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 244976,
@@ -1603,6 +1683,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 212840,
+      "num": 212840,
+      "word": "白月梵星剧组合体直播",
+      "onboard_time": 1708602994,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211703,
       "num": 211703,
       "word": "你们山东吃这么硬的吗",
@@ -1737,6 +1825,14 @@
       "onboard_time": 1708593036,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199104,
+      "num": 199104,
+      "word": "伊能静 儿子唤醒了我的青春期",
+      "onboard_time": 1708604254,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 198796,
@@ -2011,6 +2107,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 175783,
+      "num": 175783,
+      "word": "上学时多久给家里打一次电话",
+      "onboard_time": 1708604737,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175451,
       "num": 175451,
       "word": "孙颖莎开局连得8分",
@@ -2115,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166175,
+      "num": 166175,
+      "word": "晒汤圆祝团圆",
+      "onboard_time": 1708603175,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 165451,
       "num": 165451,
       "word": "贵州山火 火点",
@@ -2163,6 +2275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162049,
+      "num": 162049,
+      "word": "浙江一17岁学生确诊肠癌",
+      "onboard_time": 1708604856,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161341,
       "num": 161341,
       "word": "全国各省的省饮料申请出战",
@@ -2171,12 +2291,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160967,
+      "num": 160967,
+      "word": "世乒赛",
+      "onboard_time": 1708602634,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160587,
       "num": 714255,
       "word": "贵州山火救援的感人瞬间",
       "onboard_time": 1708595434,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158873,
+      "num": 158873,
+      "word": "樊振东3比1松岛辉空",
+      "onboard_time": 1708603655,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 157585,
@@ -2225,6 +2361,14 @@
       "onboard_time": 1708581273,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150280,
+      "num": 150280,
+      "word": "南来北往",
+      "onboard_time": 1708604254,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 148830,

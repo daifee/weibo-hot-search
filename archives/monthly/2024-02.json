@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708601643958,
+  "endTime": 1708605014337,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1603,6 +1603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2146667,
+      "num": 2146667,
+      "word": "网红杨老二去世",
+      "onboard_time": 1708603776,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 2143839,
       "num": 2143839,
       "word": "新疆分会场像开了倍速",
@@ -2795,6 +2803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1632761,
+      "num": 1632761,
+      "word": "南京调休",
+      "onboard_time": 1708599570,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1631294,
       "num": 1631294,
       "word": "怎么轮到结婚就开始让我凑合了",
@@ -3505,14 +3521,6 @@
       "onboard_time": 1707375810,
       "rank": 8,
       "category": "体育,游戏"
-    },
-    {
-      "raw_hot": 1440062,
-      "num": 1440062,
-      "word": "南京调休",
-      "onboard_time": 1708599570,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1435699,
@@ -4553,6 +4561,14 @@
       "onboard_time": 1707143012,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1232815,
+      "num": 1232815,
+      "word": "尔冬升让郑合惠子演女演员",
+      "onboard_time": 1708603115,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1231981,
@@ -7465,6 +7481,14 @@
       "onboard_time": 1707569801,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 883090,
+      "num": 883090,
+      "word": "娃哈哈声明",
+      "onboard_time": 1708600833,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 882620,
@@ -10755,6 +10779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 681530,
+      "num": 681530,
+      "word": "郑在玹金泰妍搂肩",
+      "onboard_time": 1708602752,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 681482,
       "num": 879982,
       "word": "俄罗斯4位总统候选人名单",
@@ -10969,6 +11001,14 @@
       "onboard_time": 1707566500,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 671645,
+      "num": 671645,
+      "word": "2.2亿元彩票大奖得主无须缴纳个人所得税",
+      "onboard_time": 1708600715,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 671502,
@@ -12739,6 +12779,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 596136,
+      "num": 596136,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1708603955,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 595646,
       "num": 595646,
       "word": "原子弹爆炸后她架机2次冲向蘑菇云",
@@ -14107,14 +14155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 543579,
-      "num": 543579,
-      "word": "娃哈哈声明",
-      "onboard_time": 1708600833,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 543535,
       "num": 543535,
       "word": "当一个行业开始赚钱女性就被迫离开",
@@ -14401,6 +14441,14 @@
       "onboard_time": 1707811834,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 534948,
+      "num": 297438,
+      "word": "断崖式衰老常发生在3个年龄",
+      "onboard_time": 1708602814,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 534611,
@@ -16563,6 +16611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 470192,
+      "num": 470192,
+      "word": "小米14ultra",
+      "onboard_time": 1708600833,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 469716,
       "num": 469716,
       "word": "微信摇一摇功能下线",
@@ -17449,6 +17505,14 @@
       "onboard_time": 1707721352,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 438313,
+      "num": 368934,
+      "word": "普通情侣一年的年收入",
+      "onboard_time": 1708600295,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 438141,
@@ -19283,14 +19347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 397830,
-      "num": 368934,
-      "word": "普通情侣一年的年收入",
-      "onboard_time": 1708600295,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 397616,
       "num": 397616,
       "word": "陈冠希近照",
@@ -19809,14 +19865,6 @@
       "onboard_time": 1708157131,
       "rank": 30,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 384017,
-      "num": 384017,
-      "word": "小米14ultra",
-      "onboard_time": 1708600833,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 383397,
@@ -21099,14 +21147,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 360419,
-      "num": 360419,
-      "word": "2.2亿元彩票大奖得主无须缴纳个人所得税",
-      "onboard_time": 1708600715,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 360293,
       "num": 360293,
       "word": "鹿晗送粉丝黄金礼物",
@@ -21771,6 +21811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 346819,
+      "num": 346819,
+      "word": "迪丽热巴妈妈想再养育一遍她",
+      "onboard_time": 1708604496,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 346804,
       "num": 324760,
       "word": "车主曝42万奔驰新车开20公里油门失灵",
@@ -22257,6 +22305,14 @@
       "onboard_time": 1708428338,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 335111,
+      "num": 297218,
+      "word": "柿柿如意汤圆火了",
+      "onboard_time": 1708604135,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 334902,
@@ -24729,6 +24785,14 @@
       "onboard_time": 1707967290,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 296731,
+      "num": 296731,
+      "word": "05后大学生将宿舍爆改成家",
+      "onboard_time": 1708601074,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296577,
@@ -28715,6 +28779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250606,
+      "num": 250606,
+      "word": "您的尾巴可以礼貌一点吗",
+      "onboard_time": 1708601673,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250598,
       "num": 250598,
       "word": "江南百景图闪退",
@@ -28873,14 +28945,6 @@
       "onboard_time": 1707753631,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 248973,
-      "num": 248973,
-      "word": "05后大学生将宿舍爆改成家",
-      "onboard_time": 1708601074,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248752,
@@ -29185,6 +29249,14 @@
       "onboard_time": 1708405660,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 245740,
+      "num": 245740,
+      "word": "猎冰总导演否认华为投钱",
+      "onboard_time": 1708604676,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 245703,
@@ -33579,6 +33651,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 212840,
+      "num": 212840,
+      "word": "白月梵星剧组合体直播",
+      "onboard_time": 1708602994,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212802,
       "num": 212802,
       "word": "如果猫不小心被关在门外",
@@ -36401,6 +36481,14 @@
       "onboard_time": 1708049554,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 199104,
+      "num": 199104,
+      "word": "伊能静 儿子唤醒了我的青春期",
+      "onboard_time": 1708604254,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 199099,
@@ -41371,6 +41459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175783,
+      "num": 175783,
+      "word": "上学时多久给家里打一次电话",
+      "onboard_time": 1708604737,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175751,
       "num": 175751,
       "word": "e人的升级版是过年e人",
@@ -43547,6 +43643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166175,
+      "num": 166175,
+      "word": "晒汤圆祝团圆",
+      "onboard_time": 1708603175,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 166116,
       "num": 166116,
       "word": "EVNNE音银一位",
@@ -44355,6 +44459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 162049,
+      "num": 162049,
+      "word": "浙江一17岁学生确诊肠癌",
+      "onboard_time": 1708604856,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162032,
       "num": 162032,
       "word": "库里三分",
@@ -44657,6 +44769,14 @@
       "onboard_time": 1706967214,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 160967,
+      "num": 160967,
+      "word": "世乒赛",
+      "onboard_time": 1708602634,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 160885,
@@ -45017,6 +45137,14 @@
       "onboard_time": 1708253794,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158873,
+      "num": 158873,
+      "word": "樊振东3比1松岛辉空",
+      "onboard_time": 1708603655,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 158813,

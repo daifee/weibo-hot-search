@@ -1,0 +1,410 @@
+{
+  "runTime": 1708605014337,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2146667,
+        "num": 2146667,
+        "word": "网红杨老二去世",
+        "onboard_time": 1708603776,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1670061,
+        "num": 1670061,
+        "word": "周五爆改周四",
+        "onboard_time": 1708598373,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38766,
+        "num": 1632826,
+        "word": "鹊桥二号中继星择机发射",
+        "onboard_time": 1708592135,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1632761,
+        "num": 1632761,
+        "word": "南京调休",
+        "onboard_time": 1708599570,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1232815,
+        "num": 1232815,
+        "word": "尔冬升让郑合惠子演女演员",
+        "onboard_time": 1708603115,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 883090,
+        "num": 883090,
+        "word": "娃哈哈声明",
+        "onboard_time": 1708600833,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681530,
+        "num": 681530,
+        "word": "郑在玹金泰妍搂肩",
+        "onboard_time": 1708602752,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 671645,
+        "num": 671645,
+        "word": "2.2亿元彩票大奖得主无须缴纳个人所得税",
+        "onboard_time": 1708600715,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626766,
+        "num": 626766,
+        "word": "人民网评网红扮演赵世子",
+        "onboard_time": 1708580973,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596136,
+        "num": 596136,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1708603955,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1001574,
+        "num": 593322,
+        "word": "cos赵世子男网红账号被禁言",
+        "onboard_time": 1708599095,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 822081,
+        "num": 590296,
+        "word": "生理性喜欢",
+        "onboard_time": 1708598853,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 575015,
+        "num": 575015,
+        "word": "把学历改成高中后终于找到工作",
+        "onboard_time": 1708585294,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470192,
+        "num": 470192,
+        "word": "小米14ultra",
+        "onboard_time": 1708600833,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 425877,
+        "num": 425877,
+        "word": "娃哈哈创始人宗庆后在ICU抢救",
+        "onboard_time": 1708591831,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401186,
+        "num": 401186,
+        "word": "沥心沙大桥事故致5人死亡",
+        "onboard_time": 1708595135,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388642,
+        "num": 388642,
+        "word": "宗庆后女儿回应",
+        "onboard_time": 1708600414,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370813,
+        "num": 370813,
+        "word": "南来北往 马燕怀孕",
+        "onboard_time": 1708595375,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346819,
+        "num": 346819,
+        "word": "迪丽热巴妈妈想再养育一遍她",
+        "onboard_time": 1708604496,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 297743,
+        "num": 297743,
+        "word": "贵州山火原因",
+        "onboard_time": 1708584395,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534948,
+        "num": 297438,
+        "word": "断崖式衰老常发生在3个年龄",
+        "onboard_time": 1708602814,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 438313,
+        "num": 297428,
+        "word": "普通情侣一年的年收入",
+        "onboard_time": 1708600295,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 335111,
+        "num": 297218,
+        "word": "柿柿如意汤圆火了",
+        "onboard_time": 1708604135,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 296731,
+        "num": 296731,
+        "word": "05后大学生将宿舍爆改成家",
+        "onboard_time": 1708601074,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285456,
+        "num": 285456,
+        "word": "赵世子",
+        "onboard_time": 1708603655,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 282847,
+        "num": 282847,
+        "word": "樊振东vs松岛辉空",
+        "onboard_time": 1708601496,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278498,
+        "num": 278498,
+        "word": "热巴拿蛋糕",
+        "onboard_time": 1708588473,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258835,
+        "num": 258835,
+        "word": "杜乐莹 我生下来是你妹妹",
+        "onboard_time": 1708583973,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250606,
+        "num": 250606,
+        "word": "您的尾巴可以礼貌一点吗",
+        "onboard_time": 1708601673,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248578,
+        "num": 248578,
+        "word": "肖战台版GQ封面大片",
+        "onboard_time": 1708600175,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 245740,
+        "num": 245740,
+        "word": "猎冰总导演否认华为投钱",
+        "onboard_time": 1708604676,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218545,
+        "num": 218545,
+        "word": "民政部通报2.2亿元彩票大奖情况",
+        "onboard_time": 1708593036,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215193,
+        "num": 215193,
+        "word": "郑秀晶签约新公司",
+        "onboard_time": 1708589674,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212840,
+        "num": 212840,
+        "word": "白月梵星剧组合体直播",
+        "onboard_time": 1708602994,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212070,
+        "num": 212070,
+        "word": "粥饼伦称自己和周杰伦长得不像",
+        "onboard_time": 1708601374,
+        "rank": 34,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 211289,
+        "num": 211289,
+        "word": "贵州全省共发生森林火情221起",
+        "onboard_time": 1708592375,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201523,
+        "num": 201523,
+        "word": "柳鑫宇泪洒现场",
+        "onboard_time": 1708596572,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199104,
+        "num": 199104,
+        "word": "伊能静 儿子唤醒了我的青春期",
+        "onboard_time": 1708604254,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175783,
+        "num": 175783,
+        "word": "上学时多久给家里打一次电话",
+        "onboard_time": 1708604737,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172404,
+        "num": 172404,
+        "word": "父母是坐在副驾上的人",
+        "onboard_time": 1708599513,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166175,
+        "num": 166175,
+        "word": "晒汤圆祝团圆",
+        "onboard_time": 1708603175,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162049,
+        "num": 162049,
+        "word": "浙江一17岁学生确诊肠癌",
+        "onboard_time": 1708604856,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161325,
+        "num": 161325,
+        "word": "观音桥你是真敢放啊",
+        "onboard_time": 1708592495,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160967,
+        "num": 160967,
+        "word": "世乒赛",
+        "onboard_time": 1708602634,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158873,
+        "num": 158873,
+        "word": "樊振东3比1松岛辉空",
+        "onboard_time": 1708603655,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157871,
+        "num": 157871,
+        "word": "贵州森林火灾扑救难度有多大",
+        "onboard_time": 1708584336,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155064,
+        "num": 155064,
+        "word": "九尾与LGD成立新公司",
+        "onboard_time": 1708599033,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154958,
+        "num": 154958,
+        "word": "坐拥300万粉丝后还在烙灌饼",
+        "onboard_time": 1708597354,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150761,
+        "num": 150761,
+        "word": "院人是赵昭仪的克星吗",
+        "onboard_time": 1708594775,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150280,
+        "num": 150280,
+        "word": "南来北往",
+        "onboard_time": 1708604254,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#擘画鹭岛新画卷#"
+    }
+  }
+}
