@@ -1,6 +1,6 @@
 {
   "startTime": 1708532526738,
-  "endTime": 1708568521967,
+  "endTime": 1708569244476,
   "band_list": [
     {
       "raw_hot": 3468266,
@@ -11,12 +11,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2654642,
-      "num": 2654642,
+      "raw_hot": 3253903,
+      "num": 3253903,
       "word": "官方通报沥心沙大桥事故情况",
       "onboard_time": 1708567053,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2562521,
+      "num": 2562521,
+      "word": "考虫倒闭",
+      "onboard_time": 1708566813,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 2541750,
@@ -25,14 +33,6 @@
       "onboard_time": 1708564836,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2410081,
-      "num": 2410081,
-      "word": "考虫倒闭",
-      "onboard_time": 1708566813,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 2268467,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 729961,
+      "num": 729961,
+      "word": "中国人四年存了58.24万亿元",
+      "onboard_time": 1708565974,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716475,
       "num": 716475,
       "word": "广州沥心沙大桥被船只撞断有车辆落水",
@@ -179,14 +187,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 659117,
-      "num": 659117,
-      "word": "中国人四年存了58.24万亿元",
-      "onboard_time": 1708565974,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 649374,
       "num": 649374,
       "word": "沥心沙大桥",
@@ -201,6 +201,14 @@
       "onboard_time": 1708560513,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 617645,
+      "num": 548797,
+      "word": "郑州一海洋馆潜水员在馆内溺亡",
+      "onboard_time": 1708567595,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 557458,
@@ -227,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 514855,
+      "num": 360897,
+      "word": "父母有退休金真的挺重要",
+      "onboard_time": 1708567893,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 506127,
       "num": 506127,
       "word": "四六级要出分了",
@@ -243,28 +259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 441096,
-      "num": 441096,
-      "word": "郑州一海洋馆潜水员在馆内溺亡",
-      "onboard_time": 1708567595,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 438841,
       "num": 438841,
       "word": "贵州山火",
       "onboard_time": 1708503634,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 431879,
-      "num": 360897,
-      "word": "父母有退休金真的挺重要",
-      "onboard_time": 1708567893,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 420060,
@@ -307,6 +307,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 378634,
+      "num": 358248,
+      "word": "孙志刚被决定逮捕",
+      "onboard_time": 1708567293,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370763,
       "num": 370763,
       "word": "张杰2024年巡演",
@@ -331,14 +339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 358248,
-      "num": 358248,
-      "word": "孙志刚被决定逮捕",
-      "onboard_time": 1708567293,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 356157,
       "num": 356157,
       "word": "任嘉伦外媒生图",
@@ -353,6 +353,14 @@
       "onboard_time": 1708562013,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 338095,
+      "num": 338095,
+      "word": "瑞幸心理价位9块9",
+      "onboard_time": 1708567833,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 330152,
@@ -419,12 +427,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 264258,
-      "num": 264258,
-      "word": "瑞幸心理价位9块9",
-      "onboard_time": 1708567833,
-      "rank": 27,
-      "category": "美食"
+      "raw_hot": 267267,
+      "num": 267267,
+      "word": "苹果智能戒指再曝光",
+      "onboard_time": 1708567893,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 260858,
@@ -467,6 +475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 246943,
+      "num": 246943,
+      "word": "车厘子草莓价格回落",
+      "onboard_time": 1708567953,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 244976,
       "num": 244976,
       "word": "浙江省的省饮料是什么",
@@ -483,6 +499,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227252,
+      "num": 227252,
+      "word": "世卫多次警告的X疾病是什么",
+      "onboard_time": 1708568074,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 222615,
+      "num": 222615,
+      "word": "退税预约",
+      "onboard_time": 1708568494,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221765,
       "num": 221765,
       "word": "韩网锐评朴振英泡泡",
@@ -497,14 +529,6 @@
       "onboard_time": 1708558586,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 219316,
-      "num": 219316,
-      "word": "苹果智能戒指再曝光",
-      "onboard_time": 1708567893,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 217821,
@@ -555,14 +579,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 193325,
-      "num": 193325,
-      "word": "车厘子草莓价格回落",
-      "onboard_time": 1708567953,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 191663,
       "num": 191663,
       "word": "胡锡进 中国名义GDP与美国的差距",
@@ -577,6 +593,14 @@
       "onboard_time": 1708563036,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 189113,
+      "num": 189113,
+      "word": "沥心沙大桥航段路面临时交通管制",
+      "onboard_time": 1708568734,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186787,
@@ -627,20 +651,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168511,
+      "num": 168511,
+      "word": "别对我动心",
+      "onboard_time": 1708569094,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165451,
       "num": 165451,
       "word": "贵州山火 火点",
       "onboard_time": 1708507298,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165432,
-      "num": 165432,
-      "word": "世卫多次警告的X疾病是什么",
-      "onboard_time": 1708568074,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 165278,
@@ -675,12 +699,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162017,
+      "num": 162017,
+      "word": "学刘姥姥心态去上班再也不会内耗",
+      "onboard_time": 1708568974,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156408,
       "num": 156408,
       "word": "英伟达盘后大涨",
       "onboard_time": 1708562675,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 148802,
+      "num": 148802,
+      "word": "多地公布考研查分时间",
+      "onboard_time": 1708568433,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 148394,
@@ -731,28 +771,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139342,
-      "num": 139342,
-      "word": "多地公布考研查分时间",
-      "onboard_time": 1708568433,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 135142,
       "num": 135142,
       "word": "这小说是非写不可吗",
       "onboard_time": 1708561893,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 133999,
-      "num": 133999,
-      "word": "退税预约",
-      "onboard_time": 1708568494,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133913,
@@ -916,7 +940,7 @@
     },
     {
       "raw_hot": 93340,
-      "num": 2557974,
+      "num": 2661933,
       "word": "瓣瓣同心心相连",
       "onboard_time": 1708562195,
       "rank": 2,
