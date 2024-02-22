@@ -1,0 +1,410 @@
+{
+  "runTime": 1708630436611,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 291795,
+        "num": 291795,
+        "word": "广州遇难公交司机凌晨4点工作到晚7点",
+        "onboard_time": 1708618291,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120164,
+        "num": 120164,
+        "word": "一旦出现这个姿势要立即就医",
+        "onboard_time": 1708605694,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 8421,
+        "num": 98280,
+        "word": "南腔北调见证冰雪运动热力十足",
+        "onboard_time": 1708608457,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93522,
+        "num": 93522,
+        "word": "青簪行 定档",
+        "onboard_time": 1708610197,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83288,
+        "num": 83288,
+        "word": "断崖式衰老常发生在3个年龄",
+        "onboard_time": 1708602814,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80736,
+        "num": 80736,
+        "word": "网红杨老二去世",
+        "onboard_time": 1708603776,
+        "rank": 5,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 72060,
+        "num": 72060,
+        "word": "人民网评网红扮演赵世子",
+        "onboard_time": 1708580973,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71693,
+        "num": 71693,
+        "word": "2.2亿元彩票大奖得主无须缴纳个人所得税",
+        "onboard_time": 1708600715,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62595,
+        "num": 62595,
+        "word": "法国观众说封神比漫威电影好看",
+        "onboard_time": 1708621402,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54108,
+        "num": 54108,
+        "word": "陈都灵早期模特照",
+        "onboard_time": 1708617990,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68381,
+        "num": 53776,
+        "word": "生理性喜欢",
+        "onboard_time": 1708598853,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52930,
+        "num": 52930,
+        "word": "宋小宝凭实力爆改自己",
+        "onboard_time": 1708616612,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44663,
+        "num": 44663,
+        "word": "我的妈妈是大明星",
+        "onboard_time": 1708622663,
+        "rank": 12,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 44621,
+        "num": 44621,
+        "word": "迪丽热巴妈妈想再养育一遍她",
+        "onboard_time": 1708604496,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43222,
+        "num": 43222,
+        "word": "高合创始人承认翻身窗口期仅剩3个月",
+        "onboard_time": 1708611576,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 41036,
+        "num": 41036,
+        "word": "孙千吃醋了",
+        "onboard_time": 1708614335,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38381,
+        "num": 38381,
+        "word": "张继科重回蝴蝶乒乓中国官网",
+        "onboard_time": 1708608033,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37158,
+        "num": 37158,
+        "word": "当一个江浙沪赘婿决定离婚",
+        "onboard_time": 1708605994,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35600,
+        "num": 35600,
+        "word": "心动实验室挂了",
+        "onboard_time": 1708618770,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30245,
+        "num": 30245,
+        "word": "哥哥给妹妹化韩妆",
+        "onboard_time": 1708617391,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 51655,
+        "num": 30179,
+        "word": "我始终戒不掉熬夜的原因",
+        "onboard_time": 1708626859,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40285,
+        "num": 30139,
+        "word": "人生建议 永远别赚太辛苦的钱",
+        "onboard_time": 1708613616,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33591,
+        "num": 30112,
+        "word": "浙江一17岁学生确诊肠癌",
+        "onboard_time": 1708604856,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29965,
+        "num": 29965,
+        "word": "整个三亚都在偶遇明星",
+        "onboard_time": 1708613800,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29640,
+        "num": 29640,
+        "word": "周洁琼许佳琪跳了troublemaker",
+        "onboard_time": 1708628718,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29441,
+        "num": 29441,
+        "word": "庄达菲海边大片竟是王安宇拍的",
+        "onboard_time": 1708617093,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28746,
+        "num": 28746,
+        "word": "什么叫裁员裁到大动脉了",
+        "onboard_time": 1708611338,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25229,
+        "num": 25229,
+        "word": "Gucci和Tods接机肖战",
+        "onboard_time": 1708609474,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22784,
+        "num": 22784,
+        "word": "倪妮钻石背心",
+        "onboard_time": 1708623261,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 21923,
+        "num": 21923,
+        "word": "上海和深圳的区别在哪",
+        "onboard_time": 1708616371,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20773,
+        "num": 20773,
+        "word": "甲沟炎患者不建议养猫",
+        "onboard_time": 1708613495,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 20740,
+        "num": 20740,
+        "word": "青簪行 簪中录",
+        "onboard_time": 1708610735,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20644,
+        "num": 20644,
+        "word": "肖战台版GQ封面大片",
+        "onboard_time": 1708600175,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20617,
+        "num": 20617,
+        "word": "于正要拍仙侠剧",
+        "onboard_time": 1708621105,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20566,
+        "num": 20566,
+        "word": "快30岁还觉得自己像小孩",
+        "onboard_time": 1708613016,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20325,
+        "num": 20325,
+        "word": "阿根廷友谊赛移至美国进行",
+        "onboard_time": 1708616434,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20149,
+        "num": 20149,
+        "word": "把学历改成高中后终于找到工作",
+        "onboard_time": 1708585294,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19693,
+        "num": 19693,
+        "word": "普通情侣一年的年收入",
+        "onboard_time": 1708600295,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18428,
+        "num": 18428,
+        "word": "柿柿如意汤圆火了",
+        "onboard_time": 1708604135,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 18371,
+        "num": 18371,
+        "word": "EDG赛后发文致歉",
+        "onboard_time": 1708611095,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18302,
+        "num": 18302,
+        "word": "郑在玹金泰妍搂肩",
+        "onboard_time": 1708602752,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18184,
+        "num": 18184,
+        "word": "断崖式衰老",
+        "onboard_time": 1708624759,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17394,
+        "num": 17394,
+        "word": "鹿晗张云龙问路路透",
+        "onboard_time": 1708607616,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17169,
+        "num": 17169,
+        "word": "Redmi显示器",
+        "onboard_time": 1708615773,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17106,
+        "num": 17106,
+        "word": "圆肩驼背可能会导致龅牙",
+        "onboard_time": 1708629856,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17097,
+        "num": 17097,
+        "word": "网传浪姐2024名单",
+        "onboard_time": 1708607496,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16113,
+        "num": 17087,
+        "word": "迪丽热巴相信时间会给出答案",
+        "onboard_time": 1708619729,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15879,
+        "num": 17086,
+        "word": "一段关系结束的标志",
+        "onboard_time": 1708607074,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15000,
+        "num": 17077,
+        "word": "白鹿敖瑞鹏回应吻戏",
+        "onboard_time": 1708609175,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14503,
+        "num": 17058,
+        "word": "农民修理工版李宗盛坐拥130万粉丝",
+        "onboard_time": 1708624819,
+        "rank": 49,
+        "category": "社会新闻,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}

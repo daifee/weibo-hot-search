@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708629223864,
+  "endTime": 1708630436611,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -61041,6 +61041,14 @@
       "onboard_time": 1707858737,
       "rank": 49,
       "category": "美妆,综艺"
+    },
+    {
+      "raw_hot": 17106,
+      "num": 17106,
+      "word": "圆肩驼背可能会导致龅牙",
+      "onboard_time": 1708629856,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 17103,
