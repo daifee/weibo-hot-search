@@ -1,6 +1,6 @@
 {
   "startTime": 1708618926218,
-  "endTime": 1708626080799,
+  "endTime": 1708626871816,
   "band_list": [
     {
       "raw_hot": 1064300,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 508742,
-      "num": 185895,
+      "num": 248940,
       "word": "广州遇难公交司机凌晨4点工作到晚7点",
       "onboard_time": 1708618291,
       "rank": 31,
@@ -444,15 +444,15 @@
     },
     {
       "raw_hot": 49992,
-      "num": 49992,
+      "num": 53208,
       "word": "倪妮钻石背心",
       "onboard_time": 1708623261,
       "rank": 25,
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 34205,
-      "num": 34205,
+      "raw_hot": 37847,
+      "num": 37847,
       "word": "断崖式衰老",
       "onboard_time": 1708624759,
       "rank": 38,
@@ -489,6 +489,14 @@
       "onboard_time": 1708624819,
       "rank": 47,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 20960,
+      "num": 23346,
+      "word": "我始终戒不掉熬夜的原因",
+      "onboard_time": 1708626859,
+      "rank": 49,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
