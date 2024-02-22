@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708572867590,
+  "endTime": 1708575567843,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -43,8 +43,8 @@
       "category": "体育,网红"
     },
     {
-      "raw_hot": 5692556,
-      "num": 6942556,
+      "raw_hot": 7943085,
+      "num": 8398289,
       "word": "官方通报沥心沙大桥事故情况",
       "onboard_time": 1708567053,
       "rank": 23,
@@ -65,6 +65,14 @@
       "onboard_time": 1708419280,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4542084,
+      "num": 2014049,
+      "word": "外甥正月理发舅舅去世成被告",
+      "onboard_time": 1708572936,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4476995,
@@ -201,6 +209,14 @@
       "onboard_time": 1708566813,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2746397,
+      "num": 2746397,
+      "word": "沥心沙大桥事故已致2死3失联",
+      "onboard_time": 1708573837,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2670562,
@@ -1195,6 +1211,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1170030,
+      "num": 1170030,
+      "word": "贵州山火",
+      "onboard_time": 1708310857,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1163774,
       "num": 793323,
       "word": "柳鑫宇收入",
@@ -1457,14 +1481,6 @@
       "onboard_time": 1708511318,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 977207,
-      "num": 977207,
-      "word": "贵州山火",
-      "onboard_time": 1708310857,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 974417,
@@ -2145,6 +2161,14 @@
       "onboard_time": 1708502616,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 719412,
+      "num": 719412,
+      "word": "杨国福换logo",
+      "onboard_time": 1708573837,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 717898,
@@ -3371,6 +3395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494179,
+      "num": 494179,
+      "word": "咪蒙出品我在八零年代当后妈",
+      "onboard_time": 1708574319,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 491638,
       "num": 491638,
       "word": "蕉太狼",
@@ -3625,6 +3657,14 @@
       "onboard_time": 1708314034,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 459638,
+      "num": 459638,
+      "word": "17名博硕士研发的方便面里真的有肉",
+      "onboard_time": 1708574438,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 456107,
@@ -5011,6 +5051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322699,
+      "num": 322699,
+      "word": "林一最有cp感女主",
+      "onboard_time": 1708571854,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322428,
       "num": 202740,
       "word": "蔡依林Valentino品牌代言人",
@@ -5491,14 +5539,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 296151,
-      "num": 296151,
-      "word": "林一最有cp感女主",
-      "onboard_time": 1708571854,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 296104,
       "num": 296104,
       "word": "恋与深空 官谷",
@@ -5545,6 +5585,14 @@
       "onboard_time": 1708229554,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 294552,
+      "num": 289594,
+      "word": "为什么强势的人反而更受欢迎",
+      "onboard_time": 1708571433,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 293554,
@@ -5937,14 +5985,6 @@
       "onboard_time": 1708399957,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272296,
-      "num": 272296,
-      "word": "为什么强势的人反而更受欢迎",
-      "onboard_time": 1708571433,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 272174,
@@ -6491,6 +6531,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 247482,
+      "num": 247482,
+      "word": "考虫回应倒闭传闻",
+      "onboard_time": 1708575037,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 247430,
       "num": 247430,
       "word": "你感染了几次新冠",
@@ -6683,6 +6731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241130,
+      "num": 241130,
+      "word": "热辣滚烫中埋的小细节",
+      "onboard_time": 1708574919,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 241102,
       "num": 241102,
       "word": "许昕替老婆追星毛不易",
@@ -6793,6 +6849,14 @@
       "onboard_time": 1708246416,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235365,
+      "num": 235365,
+      "word": "直击广州沥心沙大桥救援现场",
+      "onboard_time": 1708572575,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235187,
@@ -7065,6 +7129,14 @@
       "onboard_time": 1708529554,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225827,
+      "num": 225827,
+      "word": "为什么一件事需要拒绝长辈3次",
+      "onboard_time": 1708572276,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 225821,
@@ -7715,6 +7787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206485,
+      "num": 206485,
+      "word": "为何近日贵州山火频发",
+      "onboard_time": 1708574739,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206340,
       "num": 206340,
       "word": "10斤的猫9斤的气场",
@@ -7921,14 +8001,6 @@
       "onboard_time": 1708564054,
       "rank": 35,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 201600,
-      "num": 201600,
-      "word": "直击广州沥心沙大桥救援现场",
-      "onboard_time": 1708572575,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201419,
@@ -8907,6 +8979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180903,
+      "num": 180903,
+      "word": "张颂文新剧热度",
+      "onboard_time": 1708573779,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180639,
       "num": 180639,
       "word": "游神世子团",
@@ -9419,6 +9499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170175,
+      "num": 170175,
+      "word": "王晶赞马丽演技大爆发",
+      "onboard_time": 1708573658,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 169939,
       "num": 169939,
       "word": "山东下的是霰不是雪",
@@ -9531,6 +9619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167151,
+      "num": 167151,
+      "word": "章若楠凡人歌杀青",
+      "onboard_time": 1708575275,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166967,
       "num": 166967,
       "word": "梅西沙特第一场",
@@ -9617,14 +9713,6 @@
       "onboard_time": 1708166912,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165945,
-      "num": 165945,
-      "word": "为什么一件事需要拒绝长辈3次",
-      "onboard_time": 1708572276,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 165615,
@@ -10145,6 +10233,14 @@
       "onboard_time": 1708342056,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153288,
+      "num": 153288,
+      "word": "沥心沙大桥曾加固维修",
+      "onboard_time": 1708574021,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152900,
@@ -11843,6 +11939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55553,
+      "num": 166832,
+      "word": "9图掌握雪天出行注意啥",
+      "onboard_time": 1708574498,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54737,
       "num": 54737,
       "word": "男子游神现场cos赵世子被马夫鞭打",
@@ -12113,6 +12217,14 @@
       "onboard_time": 1708375576,
       "rank": 24,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 24927,
+      "num": 2181448,
+      "word": "无人机视角看雪后长城多壮美",
+      "onboard_time": 1708528656,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24525,
