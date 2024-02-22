@@ -1,0 +1,411 @@
+{
+  "startTime": 1708618926218,
+  "endTime": 1708618926218,
+  "band_list": [
+    {
+      "raw_hot": 1028272,
+      "num": 1028272,
+      "word": "一旦出现这个姿势要立即就医",
+      "onboard_time": 1708605694,
+      "rank": 0,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 937082,
+      "num": 937082,
+      "word": "青簪行 定档",
+      "onboard_time": 1708610197,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 855786,
+      "num": 855786,
+      "word": "断崖式衰老常发生在3个年龄",
+      "onboard_time": 1708602814,
+      "rank": 3,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 585984,
+      "num": 585984,
+      "word": "网红杨老二去世",
+      "onboard_time": 1708603776,
+      "rank": 4,
+      "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 545820,
+      "num": 545820,
+      "word": "孙千吃醋了",
+      "onboard_time": 1708614335,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 512841,
+      "num": 512841,
+      "word": "宋小宝凭实力爆改自己",
+      "onboard_time": 1708616612,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 482317,
+      "num": 482317,
+      "word": "高合创始人承认翻身窗口期仅剩3个月",
+      "onboard_time": 1708611576,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 475337,
+      "num": 475337,
+      "word": "庄达菲海边大片竟是王安宇拍的",
+      "onboard_time": 1708617093,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 425953,
+      "num": 476345,
+      "word": "2.2亿元彩票大奖得主无须缴纳个人所得税",
+      "onboard_time": 1708600715,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416519,
+      "num": 416519,
+      "word": "马思纯谢谢大家还爱着黎吧啦",
+      "onboard_time": 1708616015,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 401516,
+      "num": 401516,
+      "word": "生理性喜欢",
+      "onboard_time": 1708598853,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 384830,
+      "num": 475385,
+      "word": "张继科重回蝴蝶乒乓中国官网",
+      "onboard_time": 1708608033,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 327170,
+      "num": 195913,
+      "word": "人生建议 永远别赚太辛苦的钱",
+      "onboard_time": 1708613616,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 318456,
+      "num": 318456,
+      "word": "迪丽热巴妈妈想再养育一遍她",
+      "onboard_time": 1708604496,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 317978,
+      "num": 194990,
+      "word": "整个三亚都在偶遇明星",
+      "onboard_time": 1708613800,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 259001,
+      "num": 194623,
+      "word": "甲沟炎患者不建议养猫",
+      "onboard_time": 1708613495,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 246054,
+      "num": 246054,
+      "word": "Gucci和Tods接机肖战",
+      "onboard_time": 1708609474,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 245347,
+      "num": 245347,
+      "word": "当一个江浙沪赘婿决定离婚",
+      "onboard_time": 1708605994,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240253,
+      "num": 240253,
+      "word": "人民网评网红扮演赵世子",
+      "onboard_time": 1708580973,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225511,
+      "num": 194399,
+      "word": "快30岁还觉得自己像小孩",
+      "onboard_time": 1708613016,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 225335,
+      "num": 225335,
+      "word": "柿柿如意汤圆火了",
+      "onboard_time": 1708604135,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 225133,
+      "num": 176242,
+      "word": "哥哥给妹妹化韩妆",
+      "onboard_time": 1708617391,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 214902,
+      "num": 214902,
+      "word": "阿根廷友谊赛移至美国进行",
+      "onboard_time": 1708616434,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200784,
+      "num": 173774,
+      "word": "广州遇难公交司机凌晨4点工作到晚7点",
+      "onboard_time": 1708618291,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195945,
+      "num": 195945,
+      "word": "把学历改成高中后终于找到工作",
+      "onboard_time": 1708585294,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193973,
+      "num": 193973,
+      "word": "什么叫裁员裁到大动脉了",
+      "onboard_time": 1708611338,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 191337,
+      "num": 191337,
+      "word": "Redmi显示器",
+      "onboard_time": 1708615773,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 189920,
+      "num": 189920,
+      "word": "浙江一17岁学生确诊肠癌",
+      "onboard_time": 1708604856,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184239,
+      "num": 184239,
+      "word": "陈都灵早期模特照",
+      "onboard_time": 1708617990,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180394,
+      "num": 180394,
+      "word": "青簪行 簪中录",
+      "onboard_time": 1708610735,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178379,
+      "num": 178379,
+      "word": "周五爆改周四",
+      "onboard_time": 1708598373,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 170857,
+      "num": 170857,
+      "word": "上海和深圳的区别在哪",
+      "onboard_time": 1708616371,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149582,
+      "num": 149582,
+      "word": "南京调休",
+      "onboard_time": 1708599570,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138728,
+      "num": 138728,
+      "word": "普通情侣一年的年收入",
+      "onboard_time": 1708600295,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 131751,
+      "num": 131751,
+      "word": "网传浪姐2024名单",
+      "onboard_time": 1708607496,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 119954,
+      "num": 119954,
+      "word": "白鹿敖瑞鹏回应吻戏",
+      "onboard_time": 1708609175,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116863,
+      "num": 116863,
+      "word": "郑在玹金泰妍搂肩",
+      "onboard_time": 1708602752,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 114218,
+      "num": 114218,
+      "word": "李兰迪黑色丝绒礼裙",
+      "onboard_time": 1708614693,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 111651,
+      "num": 111651,
+      "word": "陈浩民老婆浮潜受伤",
+      "onboard_time": 1708613075,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 106725,
+      "num": 106725,
+      "word": "贵州全省共发生森林火情221起",
+      "onboard_time": 1708592375,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106508,
+      "num": 106508,
+      "word": "张艺谋对话雷军",
+      "onboard_time": 1708612718,
+      "rank": 41,
+      "category": "作品衍生,数码"
+    },
+    {
+      "raw_hot": 106010,
+      "num": 106010,
+      "word": "鹿晗张云龙问路路透",
+      "onboard_time": 1708607616,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 98856,
+      "num": 98856,
+      "word": "娃哈哈声明",
+      "onboard_time": 1708600833,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97826,
+      "num": 97826,
+      "word": "EDG赛后发文致歉",
+      "onboard_time": 1708611095,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 97005,
+      "num": 97005,
+      "word": "心动实验室挂了",
+      "onboard_time": 1708618770,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 92977,
+      "num": 92977,
+      "word": "宋慧乔韩剧同款芝士炸鸡",
+      "onboard_time": 1708606896,
+      "rank": 46,
+      "category": "美食,作品衍生"
+    },
+    {
+      "raw_hot": 90151,
+      "num": 90151,
+      "word": "小米14Ultra起售价6499元",
+      "onboard_time": 1708610017,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 87820,
+      "num": 87820,
+      "word": "戚薇时装周造型",
+      "onboard_time": 1708614455,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86069,
+      "num": 86069,
+      "word": "肖战台版GQ封面大片",
+      "onboard_time": 1708600175,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 29588,
+      "num": 885484,
+      "word": "南腔北调见证冰雪运动热力十足",
+      "onboard_time": 1708608457,
+      "rank": 2,
+      "category": "体育"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#瓣瓣同心心相连#"
+    }
+  ]
+}
