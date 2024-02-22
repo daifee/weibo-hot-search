@@ -1,0 +1,410 @@
+{
+  "runTime": 1708644052563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1224765,
+        "num": 1224765,
+        "word": "广州遇难公交司机凌晨4点工作到晚7点",
+        "onboard_time": 1708618291,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508420,
+        "num": 508420,
+        "word": "一旦出现这个姿势要立即就医",
+        "onboard_time": 1708605694,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26372,
+        "num": 469800,
+        "word": "南腔北调见证冰雪运动热力十足",
+        "onboard_time": 1708608457,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450447,
+        "num": 450447,
+        "word": "断崖式衰老常发生在3个年龄",
+        "onboard_time": 1708602814,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 352320,
+        "num": 352320,
+        "word": "青簪行 定档",
+        "onboard_time": 1708610197,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319986,
+        "num": 319986,
+        "word": "当一个江浙沪赘婿决定离婚",
+        "onboard_time": 1708605994,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281022,
+        "num": 281022,
+        "word": "网红杨老二去世",
+        "onboard_time": 1708603776,
+        "rank": 6,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 266785,
+        "num": 266785,
+        "word": "2.2亿元彩票大奖得主无须缴纳个人所得税",
+        "onboard_time": 1708600715,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196784,
+        "num": 196784,
+        "word": "宋小宝凭实力爆改自己",
+        "onboard_time": 1708616612,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195813,
+        "num": 195813,
+        "word": "法国观众说封神比漫威电影好看",
+        "onboard_time": 1708621402,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 453450,
+        "num": 186266,
+        "word": "身体出现这5个迹象说明你累过头了",
+        "onboard_time": 1708642822,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300076,
+        "num": 173757,
+        "word": "新冠或是首个X疾病",
+        "onboard_time": 1708643784,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147711,
+        "num": 147711,
+        "word": "魏晨 我招谁惹谁了",
+        "onboard_time": 1708643122,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143082,
+        "num": 143082,
+        "word": "高合创始人承认翻身窗口期仅剩3个月",
+        "onboard_time": 1708611576,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125712,
+        "num": 125712,
+        "word": "陈都灵早期模特照",
+        "onboard_time": 1708617990,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122469,
+        "num": 122469,
+        "word": "张继科重回蝴蝶乒乓中国官网",
+        "onboard_time": 1708608033,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113273,
+        "num": 113273,
+        "word": "生理性喜欢",
+        "onboard_time": 1708598853,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101272,
+        "num": 101272,
+        "word": "我的妈妈是大明星",
+        "onboard_time": 1708622663,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 90613,
+        "num": 90613,
+        "word": "Gucci和Tods接机肖战",
+        "onboard_time": 1708609474,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89069,
+        "num": 89069,
+        "word": "孙千吃醋了",
+        "onboard_time": 1708614335,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148839,
+        "num": 87923,
+        "word": "人生建议 永远别赚太辛苦的钱",
+        "onboard_time": 1708613616,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139589,
+        "num": 87831,
+        "word": "浙江一17岁学生确诊肠癌",
+        "onboard_time": 1708604856,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124668,
+        "num": 87784,
+        "word": "什么叫裁员裁到大动脉了",
+        "onboard_time": 1708611338,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85817,
+        "num": 85817,
+        "word": "我和马丽只差一个王晶",
+        "onboard_time": 1708637175,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85760,
+        "num": 85760,
+        "word": "上海地铁",
+        "onboard_time": 1708643784,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85564,
+        "num": 85564,
+        "word": "人民网评网红扮演赵世子",
+        "onboard_time": 1708580973,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81583,
+        "num": 81583,
+        "word": "白鹿情商",
+        "onboard_time": 1708643541,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76029,
+        "num": 76029,
+        "word": "阿根廷友谊赛移至美国进行",
+        "onboard_time": 1708616434,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75092,
+        "num": 75092,
+        "word": "快30岁还觉得自己像小孩",
+        "onboard_time": 1708613016,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74079,
+        "num": 74079,
+        "word": "三岁一定要上幼儿园吗",
+        "onboard_time": 1708643843,
+        "rank": 29,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 87131,
+        "num": 73302,
+        "word": "空腹血糖达到多少算糖尿病",
+        "onboard_time": 1708643122,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 69975,
+        "num": 69975,
+        "word": "普通情侣一年的年收入",
+        "onboard_time": 1708600295,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63630,
+        "num": 63630,
+        "word": "有没有想过肚脐连着哪儿",
+        "onboard_time": 1708643784,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 61370,
+        "num": 61370,
+        "word": "柿柿如意汤圆火了",
+        "onboard_time": 1708604135,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 58693,
+        "num": 58693,
+        "word": "整个三亚都在偶遇明星",
+        "onboard_time": 1708613800,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58645,
+        "num": 58645,
+        "word": "上海财神拿铁标价25.88日售百杯",
+        "onboard_time": 1708643000,
+        "rank": 35,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 56962,
+        "num": 56962,
+        "word": "伊能静 儿子唤醒了我的青春期",
+        "onboard_time": 1708604254,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56239,
+        "num": 56239,
+        "word": "青簪行 簪中录",
+        "onboard_time": 1708610735,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55977,
+        "num": 55977,
+        "word": "悉尼偶遇郑敬淏崔秀英",
+        "onboard_time": 1708642341,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50534,
+        "num": 50534,
+        "word": "倪妮钻石背心",
+        "onboard_time": 1708623261,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 49907,
+        "num": 49907,
+        "word": "IU汤唯合作MV",
+        "onboard_time": 1708643541,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 49493,
+        "num": 49493,
+        "word": "女生说路难开男友父母就铺了水泥路",
+        "onboard_time": 1708644023,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48896,
+        "num": 48896,
+        "word": "把学历改成高中后终于找到工作",
+        "onboard_time": 1708585294,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48878,
+        "num": 48878,
+        "word": "白天和晚上睡觉的区别",
+        "onboard_time": 1708633036,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 45312,
+        "num": 45312,
+        "word": "肖战台版GQ封面大片",
+        "onboard_time": 1708600175,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 44689,
+        "num": 44689,
+        "word": "哥哥给妹妹化韩妆",
+        "onboard_time": 1708617391,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 44195,
+        "num": 44195,
+        "word": "圆肩驼背可能会导致龅牙",
+        "onboard_time": 1708629856,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43603,
+        "num": 43603,
+        "word": "Redmi显示器",
+        "onboard_time": 1708615773,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 42403,
+        "num": 42403,
+        "word": "孙千马甲线",
+        "onboard_time": 1708644023,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41709,
+        "num": 41709,
+        "word": "鹿晗张云龙问路路透",
+        "onboard_time": 1708607616,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}

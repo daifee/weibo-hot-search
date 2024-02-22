@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708641254029,
+  "endTime": 1708644052563,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -1304,6 +1304,14 @@
       "word": "冻雨",
       "onboard_time": 1708439621,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1224765,
+      "num": 1224765,
+      "word": "广州遇难公交司机凌晨4点工作到晚7点",
+      "onboard_time": 1708618291,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -3867,14 +3875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 508742,
-      "num": 477540,
-      "word": "广州遇难公交司机凌晨4点工作到晚7点",
-      "onboard_time": 1708618291,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 506127,
       "num": 506127,
       "word": "四六级要出分了",
@@ -4297,6 +4297,14 @@
       "onboard_time": 1708604856,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453450,
+      "num": 186266,
+      "word": "身体出现这5个迹象说明你累过头了",
+      "onboard_time": 1708642822,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 453371,
@@ -6321,6 +6329,14 @@
       "onboard_time": 1708396295,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 300076,
+      "num": 173757,
+      "word": "新冠或是首个X疾病",
+      "onboard_time": 1708643784,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 299568,
@@ -12451,6 +12467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147711,
+      "num": 147711,
+      "word": "魏晨 我招谁惹谁了",
+      "onboard_time": 1708643122,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147624,
       "num": 528158,
       "word": "张艺谋雷军",
@@ -13532,7 +13556,7 @@
     },
     {
       "raw_hot": 103401,
-      "num": 47011,
+      "num": 101272,
       "word": "我的妈妈是大明星",
       "onboard_time": 1708622663,
       "rank": 45,
@@ -13667,6 +13691,14 @@
       "category": "运动健身,作品衍生"
     },
     {
+      "raw_hot": 87131,
+      "num": 73302,
+      "word": "空腹血糖达到多少算糖尿病",
+      "onboard_time": 1708643122,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 86250,
       "num": 1398198,
       "word": "龙年开工一起振奋龙马精神",
@@ -13691,11 +13723,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85817,
+      "num": 85817,
+      "word": "我和马丽只差一个王晶",
+      "onboard_time": 1708637175,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 85808,
       "num": 193433,
       "word": "准备好拥抱春天了吗",
       "onboard_time": 1708298725,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85760,
+      "num": 85760,
+      "word": "上海地铁",
+      "onboard_time": 1708643784,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -13747,6 +13795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81583,
+      "num": 81583,
+      "word": "白鹿情商",
+      "onboard_time": 1708643541,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81219,
       "num": 81219,
       "word": "中国队4x100自由泳混合接力夺金",
@@ -13777,6 +13833,14 @@
       "onboard_time": 1708292535,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 74079,
+      "num": 74079,
+      "word": "三岁一定要上幼儿园吗",
+      "onboard_time": 1708643843,
+      "rank": 29,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 73785,
@@ -13883,6 +13947,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 63630,
+      "num": 63630,
+      "word": "有没有想过肚脐连着哪儿",
+      "onboard_time": 1708643784,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 63036,
       "num": 63036,
       "word": "金晨穿睡衣拖鞋跳舞",
@@ -13921,6 +13993,14 @@
       "onboard_time": 1708371497,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58645,
+      "num": 58645,
+      "word": "上海财神拿铁标价25.88日售百杯",
+      "onboard_time": 1708643000,
+      "rank": 35,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 58404,
@@ -13979,6 +14059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55977,
+      "num": 55977,
+      "word": "悉尼偶遇郑敬淏崔秀英",
+      "onboard_time": 1708642341,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55553,
       "num": 1653587,
       "word": "9图掌握雪天出行注意啥",
@@ -14027,6 +14115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50534,
+      "num": 53208,
+      "word": "倪妮钻石背心",
+      "onboard_time": 1708623261,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 50041,
       "num": 50041,
       "word": "返程前最后一餐吃什么",
@@ -14035,12 +14131,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 49992,
-      "num": 53208,
-      "word": "倪妮钻石背心",
-      "onboard_time": 1708623261,
-      "rank": 25,
-      "category": "作品衍生,时尚"
+      "raw_hot": 49907,
+      "num": 49907,
+      "word": "IU汤唯合作MV",
+      "onboard_time": 1708643541,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 49639,
@@ -14057,6 +14153,22 @@
       "onboard_time": 1708558346,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49493,
+      "num": 49493,
+      "word": "女生说路难开男友父母就铺了水泥路",
+      "onboard_time": 1708644023,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48878,
+      "num": 48878,
+      "word": "白天和晚上睡觉的区别",
+      "onboard_time": 1708633036,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 48567,
@@ -14115,6 +14227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44195,
+      "num": 44195,
+      "word": "圆肩驼背可能会导致龅牙",
+      "onboard_time": 1708629856,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 43951,
       "num": 43951,
       "word": "在家唯唯诺诺 在外重拳出击",
@@ -14131,20 +14251,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 42403,
+      "num": 42403,
+      "word": "孙千马甲线",
+      "onboard_time": 1708644023,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42107,
       "num": 42107,
       "word": "正月初九拜天公",
       "onboard_time": 1708212803,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 40989,
-      "num": 40989,
-      "word": "我和马丽只差一个王晶",
-      "onboard_time": 1708637175,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 39474,
@@ -14283,14 +14403,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 32271,
-      "num": 29528,
-      "word": "白天和晚上睡觉的区别",
-      "onboard_time": 1708633036,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 31539,
       "num": 31539,
       "word": "巨人新周边 美得不敢认",
@@ -14321,14 +14433,6 @@
       "onboard_time": 1708624819,
       "rank": 47,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 25743,
-      "num": 25743,
-      "word": "圆肩驼背可能会导致龅牙",
-      "onboard_time": 1708629856,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 25428,
