@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708611450586,
+  "endTime": 1708612453141,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2886553,
+      "num": 2886553,
+      "word": "青簪行 定档",
+      "onboard_time": 1708610197,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2885711,
       "num": 2885711,
       "word": "专家建议取消中考给孩子减压",
@@ -273,14 +281,6 @@
       "onboard_time": 1708564836,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2516106,
-      "num": 2516106,
-      "word": "青簪行 定档",
-      "onboard_time": 1708610197,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 2492281,
@@ -1707,6 +1707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 975654,
+      "num": 975654,
+      "word": "断崖式衰老常发生在3个年龄",
+      "onboard_time": 1708602814,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 974417,
       "num": 974417,
       "word": "肖战 羽绒服",
@@ -1907,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 896891,
+      "num": 896891,
+      "word": "当一个江浙沪赘婿决定离婚",
+      "onboard_time": 1708605994,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 896612,
       "num": 896612,
       "word": "柳鑫宇亮相十四冬花滑训练",
@@ -2033,14 +2049,6 @@
       "onboard_time": 1708488457,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 861102,
-      "num": 861102,
-      "word": "当一个江浙沪赘婿决定离婚",
-      "onboard_time": 1708605994,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 859226,
@@ -2603,6 +2611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 697790,
+      "num": 697790,
+      "word": "青簪行 簪中录",
+      "onboard_time": 1708610735,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 697088,
       "num": 697088,
       "word": "游客与傅园慧经历相似却维权失败",
@@ -2657,14 +2673,6 @@
       "onboard_time": 1708558645,
       "rank": 7,
       "category": "美食"
-    },
-    {
-      "raw_hot": 687786,
-      "num": 687786,
-      "word": "断崖式衰老常发生在3个年龄",
-      "onboard_time": 1708602814,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 685014,
@@ -2857,14 +2865,6 @@
       "onboard_time": 1708526137,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 653005,
-      "num": 653005,
-      "word": "青簪行 簪中录",
-      "onboard_time": 1708610735,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 649493,
@@ -3851,6 +3851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 505120,
+      "num": 380839,
+      "word": "一旦出现这个姿势要立即就医",
+      "onboard_time": 1708605694,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 504385,
       "num": 504385,
       "word": "你们以为的甜 都是我们的剧本",
@@ -3883,12 +3891,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 499024,
-      "num": 380839,
-      "word": "一旦出现这个姿势要立即就医",
-      "onboard_time": 1708605694,
-      "rank": 38,
-      "category": "健康医疗"
+      "raw_hot": 498984,
+      "num": 498984,
+      "word": "王诗玥柳鑫宇十四冬夺冠",
+      "onboard_time": 1708608820,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 498853,
@@ -4097,14 +4105,6 @@
       "onboard_time": 1708314813,
       "rank": 21,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 478920,
-      "num": 478920,
-      "word": "王诗玥柳鑫宇十四冬夺冠",
-      "onboard_time": 1708608820,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 476479,
@@ -4633,6 +4633,14 @@
       "onboard_time": 1708253735,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 415294,
+      "num": 415294,
+      "word": "高合创始人承认翻身窗口期仅剩3个月",
+      "onboard_time": 1708611576,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 415277,
@@ -5281,6 +5289,14 @@
       "onboard_time": 1708241374,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 358719,
+      "num": 322735,
+      "word": "什么叫裁员裁到大动脉了",
+      "onboard_time": 1708611338,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 357348,
@@ -6315,6 +6331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296393,
+      "num": 296393,
+      "word": "师生恋为什么很难说是两情相悦",
+      "onboard_time": 1708607796,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 296104,
       "num": 296104,
       "word": "恋与深空 官谷",
@@ -6361,14 +6385,6 @@
       "onboard_time": 1708229554,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 294264,
-      "num": 294264,
-      "word": "师生恋为什么很难说是两情相悦",
-      "onboard_time": 1708607796,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 293554,
@@ -7193,6 +7209,14 @@
       "onboard_time": 1708480233,
       "rank": 32,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 258675,
+      "num": 258675,
+      "word": "EDG赛后发文致歉",
+      "onboard_time": 1708611095,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 258541,
@@ -8305,14 +8329,6 @@
       "onboard_time": 1708250372,
       "rank": 42,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 224188,
-      "num": 224188,
-      "word": "EDG赛后发文致歉",
-      "onboard_time": 1708611095,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 223515,
@@ -9483,14 +9499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197322,
-      "num": 197322,
-      "word": "什么叫裁员裁到大动脉了",
-      "onboard_time": 1708611338,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 197235,
       "num": 197235,
       "word": "种地吧十个勤天成立一周年",
@@ -9825,6 +9833,14 @@
       "onboard_time": 1708320455,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191240,
+      "num": 191240,
+      "word": "TES赛前海报",
+      "onboard_time": 1708611938,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 191205,
@@ -10195,6 +10211,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 185435,
+      "num": 185435,
+      "word": "马龙3比1篠塚大登",
+      "onboard_time": 1708611338,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185310,
       "num": 185310,
       "word": "C口AirPods或年内推出",
@@ -10435,6 +10459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181122,
+      "num": 181122,
+      "word": "宋慧乔韩剧同款芝士炸鸡",
+      "onboard_time": 1708606896,
+      "rank": 40,
+      "category": "美食,作品衍生"
+    },
+    {
       "raw_hot": 180903,
       "num": 180903,
       "word": "张颂文新剧热度",
@@ -10449,14 +10481,6 @@
       "onboard_time": 1708585294,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 180660,
-      "num": 180660,
-      "word": "马龙3比1篠塚大登",
-      "onboard_time": 1708611338,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 180639,
@@ -10555,14 +10579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178978,
-      "num": 178978,
-      "word": "宋慧乔韩剧同款芝士炸鸡",
-      "onboard_time": 1708606896,
-      "rank": 40,
-      "category": "美食,作品衍生"
-    },
-    {
       "raw_hot": 178929,
       "num": 178929,
       "word": "武汉打雷",
@@ -10656,6 +10672,14 @@
       "word": "川崎前锋半场1比2山东泰山",
       "onboard_time": 1708423597,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 177244,
+      "num": 177244,
+      "word": "马龙说三个人顶住了压力",
+      "onboard_time": 1708612240,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -12209,6 +12233,14 @@
       "onboard_time": 1708311573,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148283,
+      "num": 148283,
+      "word": "辛苦了赵礼杰",
+      "onboard_time": 1708611095,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 147941,
@@ -14290,6 +14322,9 @@
     },
     {
       "word": "#瓣瓣同心心相连#"
+    },
+    {
+      "word": "#总书记引领推进粤港澳大湾区建设#"
     }
   ]
 }
