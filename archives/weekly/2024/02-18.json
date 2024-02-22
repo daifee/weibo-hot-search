@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708607998935,
+  "endTime": 1708608876382,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -2691,6 +2691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 675738,
+      "num": 675738,
+      "word": "当一个江浙沪赘婿决定离婚",
+      "onboard_time": 1708605994,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 674760,
       "num": 674760,
       "word": "上海飞大阪机票仅8元",
@@ -2761,6 +2769,14 @@
       "onboard_time": 1708309052,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 665041,
+      "num": 665041,
+      "word": "张继科重回蝴蝶乒乓中国官网",
+      "onboard_time": 1708608033,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 663146,
@@ -2905,6 +2921,14 @@
       "onboard_time": 1708576475,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 637172,
+      "num": 637172,
+      "word": "网传浪姐2024名单",
+      "onboard_time": 1708607496,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 635759,
@@ -3572,7 +3596,7 @@
     },
     {
       "raw_hot": 534948,
-      "num": 312715,
+      "num": 343474,
       "word": "断崖式衰老常发生在3个年龄",
       "onboard_time": 1708602814,
       "rank": 20,
@@ -3593,14 +3617,6 @@
       "onboard_time": 1708412561,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 531867,
-      "num": 531867,
-      "word": "当一个江浙沪赘婿决定离婚",
-      "onboard_time": 1708605994,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 531329,
@@ -3883,6 +3899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492508,
+      "num": 492508,
+      "word": "小米14ultra",
+      "onboard_time": 1708600833,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 491638,
       "num": 491638,
       "word": "蕉太狼",
@@ -3953,6 +3977,14 @@
       "onboard_time": 1708310312,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487347,
+      "num": 362114,
+      "word": "一旦出现这个姿势要立即就医",
+      "onboard_time": 1708605694,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 487144,
@@ -4107,22 +4139,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 470192,
-      "num": 470192,
-      "word": "小米14ultra",
-      "onboard_time": 1708600833,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 469592,
-      "num": 323344,
-      "word": "一旦出现这个姿势要立即就医",
-      "onboard_time": 1708605694,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 468616,
       "num": 468616,
       "word": "优质朋友圈背景图",
@@ -4188,7 +4204,7 @@
     },
     {
       "raw_hot": 455969,
-      "num": 319389,
+      "num": 359200,
       "word": "浙江一17岁学生确诊肠癌",
       "onboard_time": 1708604856,
       "rank": 41,
@@ -4252,7 +4268,7 @@
     },
     {
       "raw_hot": 444818,
-      "num": 316806,
+      "num": 428498,
       "word": "柿柿如意汤圆火了",
       "onboard_time": 1708604135,
       "rank": 22,
@@ -4747,14 +4763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 397658,
-      "num": 397658,
-      "word": "网传浪姐2024名单",
-      "onboard_time": 1708607496,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 396756,
       "num": 396756,
       "word": "我爸的狗和他长得越来越像了",
@@ -4785,6 +4793,14 @@
       "onboard_time": 1708261594,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 394027,
+      "num": 394027,
+      "word": "热辣滚烫票房破31亿",
+      "onboard_time": 1708607496,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 392223,
@@ -5571,14 +5587,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 331350,
-      "num": 331350,
-      "word": "热辣滚烫票房破31亿",
-      "onboard_time": 1708607496,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 330152,
       "num": 330152,
       "word": "夏克立 我从来没有家暴",
@@ -5729,6 +5737,14 @@
       "onboard_time": 1708228174,
       "rank": 24,
       "category": "军事"
+    },
+    {
+      "raw_hot": 322287,
+      "num": 322287,
+      "word": "鹿晗张云龙问路路透",
+      "onboard_time": 1708607616,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 322159,
@@ -6859,6 +6875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270106,
+      "num": 270106,
+      "word": "小米平板",
+      "onboard_time": 1708608397,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 269364,
       "num": 247627,
       "word": "复工后和男朋友说不想上班",
@@ -7315,6 +7339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 250493,
+      "num": 250493,
+      "word": "师生恋为什么很难说是两情相悦",
+      "onboard_time": 1708607796,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 250381,
       "num": 250381,
       "word": "医生称内收肌是否治愈取决于主观感受",
@@ -7369,6 +7401,14 @@
       "onboard_time": 1708252832,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 248658,
+      "num": 248658,
+      "word": "EDG七连败",
+      "onboard_time": 1708607856,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 248606,
@@ -7625,14 +7665,6 @@
       "onboard_time": 1708386448,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 241859,
-      "num": 241859,
-      "word": "鹿晗张云龙问路路透",
-      "onboard_time": 1708607616,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 241616,
@@ -8403,6 +8435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 219629,
+      "num": 219629,
+      "word": "一段关系结束的标志",
+      "onboard_time": 1708607074,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219176,
       "num": 219176,
       "word": "有没有人救救朱正廷",
@@ -8883,14 +8923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206471,
-      "num": 206471,
-      "word": "一段关系结束的标志",
-      "onboard_time": 1708607074,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 206340,
       "num": 206340,
       "word": "10斤的猫9斤的气场",
@@ -9001,6 +9033,14 @@
       "onboard_time": 1708182935,
       "rank": 22,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 204275,
+      "num": 204275,
+      "word": "国乒男团3比0日本",
+      "onboard_time": 1708608576,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 203808,
@@ -9385,6 +9425,14 @@
       "onboard_time": 1708506993,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196643,
+      "num": 196643,
+      "word": "证监会回应禁止机构做空A股",
+      "onboard_time": 1708607796,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 196626,
@@ -10147,6 +10195,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 183873,
+      "num": 183873,
+      "word": "杨瀚森中国男篮首秀",
+      "onboard_time": 1708606115,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183843,
       "num": 183843,
       "word": "OPPO回应暂停折叠屏项目",
@@ -10547,14 +10603,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 176651,
-      "num": 176651,
-      "word": "杨瀚森中国男篮首秀",
-      "onboard_time": 1708606115,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 176535,
       "num": 176535,
       "word": "李月汝加盟洛杉矶火花",
@@ -10705,6 +10753,14 @@
       "onboard_time": 1708332280,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173548,
+      "num": 173548,
+      "word": "宋慧乔韩剧同款芝士炸鸡",
+      "onboard_time": 1708606896,
+      "rank": 40,
+      "category": "美食,作品衍生"
     },
     {
       "raw_hot": 173503,
@@ -10945,14 +11001,6 @@
       "onboard_time": 1708471705,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169569,
-      "num": 169569,
-      "word": "证监会回应禁止机构做空A股",
-      "onboard_time": 1708607796,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 169506,
@@ -11243,14 +11291,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 164176,
-      "num": 164176,
-      "word": "师生恋为什么很难说是两情相悦",
-      "onboard_time": 1708607796,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 164040,
       "num": 164040,
       "word": "英伟达财报",
@@ -11329,14 +11369,6 @@
       "onboard_time": 1708244256,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 162390,
-      "num": 162390,
-      "word": "EDG七连败",
-      "onboard_time": 1708607856,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 162251,
@@ -12387,6 +12419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141515,
+      "num": 141515,
+      "word": "王诗玥柳鑫宇十四冬夺冠",
+      "onboard_time": 1708608820,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141344,
       "num": 141344,
       "word": "陈楚生以为要拿一个不回头奖",
@@ -13283,6 +13323,14 @@
       "category": "运动健身,作品衍生"
     },
     {
+      "raw_hot": 87734,
+      "num": 150129,
+      "word": "张艺谋雷军",
+      "onboard_time": 1708608697,
+      "rank": 44,
+      "category": "作品衍生,数码"
+    },
+    {
       "raw_hot": 86250,
       "num": 1398198,
       "word": "龙年开工一起振奋龙马精神",
@@ -13737,6 +13785,14 @@
       "onboard_time": 1708472009,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 37909,
+      "num": 830474,
+      "word": "南腔北调见证冰雪运动热力十足",
+      "onboard_time": 1708608457,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 36965,
