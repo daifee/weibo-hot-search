@@ -1,7 +1,23 @@
 {
   "startTime": 1708532526738,
-  "endTime": 1708565402918,
+  "endTime": 1708567350652,
   "band_list": [
+    {
+      "raw_hot": 3149271,
+      "num": 3149271,
+      "word": "广州南沙沥心沙大桥被船只撞断",
+      "onboard_time": 1708565254,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2541750,
+      "num": 1296426,
+      "word": "专家建议将女性退休年龄延长到60岁",
+      "onboard_time": 1708564836,
+      "rank": 12,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2268467,
       "num": 2268467,
@@ -107,8 +123,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 735163,
+      "num": 735163,
+      "word": "12306可以买机票了",
+      "onboard_time": 1708564413,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 698991,
-      "num": 340218,
+      "num": 356808,
       "word": "我爸告诉亲戚我存款十万",
       "onboard_time": 1708558286,
       "rank": 21,
@@ -131,20 +155,44 @@
       "category": "美食"
     },
     {
+      "raw_hot": 666716,
+      "num": 666716,
+      "word": "广州沥心沙大桥被船只撞断有车辆落水",
+      "onboard_time": 1708566093,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 659117,
+      "num": 659117,
+      "word": "中国人四年存了58.24万亿元",
+      "onboard_time": 1708565974,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 649374,
+      "num": 649374,
+      "word": "沥心沙大桥",
+      "onboard_time": 1708565194,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 641380,
+      "num": 641380,
+      "word": "考虫倒闭",
+      "onboard_time": 1708566813,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 633587,
       "num": 633587,
       "word": "朱珠泳装",
       "onboard_time": 1708560513,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 597464,
-      "num": 597464,
-      "word": "12306可以买机票了",
-      "onboard_time": 1708564413,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 557458,
@@ -163,20 +211,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 534786,
-      "num": 534786,
-      "word": "专家建议将女性退休年龄延长到60岁",
-      "onboard_time": 1708564836,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 519638,
       "num": 519638,
       "word": "阿媒称梅西为国家队带来经济损失",
       "onboard_time": 1708526977,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 465986,
+      "num": 465986,
+      "word": "专家建议给三孩家庭购房打五折",
+      "onboard_time": 1708564653,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438841,
@@ -243,6 +291,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366646,
+      "num": 366646,
+      "word": "种地吧直播",
+      "onboard_time": 1708566273,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 356157,
+      "num": 356157,
+      "word": "任嘉伦外媒生图",
+      "onboard_time": 1708564356,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 338779,
       "num": 338779,
       "word": "王鹤棣何猷君同框合影",
@@ -257,14 +321,6 @@
       "onboard_time": 1708542617,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 326016,
-      "num": 326016,
-      "word": "任嘉伦外媒生图",
-      "onboard_time": 1708564356,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 315805,
@@ -297,6 +353,14 @@
       "onboard_time": 1708564235,
       "rank": 45,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 280434,
+      "num": 280434,
+      "word": "官方通报沥心沙大桥事故情况",
+      "onboard_time": 1708567053,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273878,
@@ -371,22 +435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 236236,
-      "num": 236236,
-      "word": "广州南沙沥心沙大桥被船只撞断",
-      "onboard_time": 1708565254,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227619,
-      "num": 227619,
-      "word": "专家建议给三孩家庭购房打五折",
-      "onboard_time": 1708564653,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221765,
       "num": 221765,
       "word": "韩网锐评朴振英泡泡",
@@ -401,14 +449,6 @@
       "onboard_time": 1708558586,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 218269,
-      "num": 218269,
-      "word": "沥心沙大桥",
-      "onboard_time": 1708565194,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217821,
@@ -443,12 +483,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203323,
+      "num": 203323,
+      "word": "人车家全生态",
+      "onboard_time": 1708566453,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 201629,
       "num": 201629,
       "word": "米兰时装周",
       "onboard_time": 1708564054,
       "rank": 35,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 191663,
+      "num": 191663,
+      "word": "胡锡进 中国名义GDP与美国的差距",
+      "onboard_time": 1708565494,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 189699,
@@ -481,6 +537,14 @@
       "onboard_time": 1708523073,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171694,
+      "num": 171694,
+      "word": "艾弗森评选NBA历史最佳阵容",
+      "onboard_time": 1708565733,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 170487,
@@ -523,6 +587,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 163057,
+      "num": 163057,
+      "word": "孙志刚被决定逮捕",
+      "onboard_time": 1708567293,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162787,
+      "num": 162787,
+      "word": "NCTWISH出道",
+      "onboard_time": 1708566869,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162606,
       "num": 162606,
       "word": "每顿就炒一个菜的家庭",
@@ -545,6 +625,14 @@
       "onboard_time": 1708565073,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 147994,
+      "num": 147994,
+      "word": "代号鸢打不过",
+      "onboard_time": 1708567293,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 145206,

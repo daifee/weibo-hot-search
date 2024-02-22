@@ -1,0 +1,410 @@
+{
+  "runTime": 1708567350652,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3149271,
+        "num": 3149271,
+        "word": "广州南沙沥心沙大桥被船只撞断",
+        "onboard_time": 1708565254,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1731823,
+        "num": 1731823,
+        "word": "白敬亭进组难哄",
+        "onboard_time": 1708563335,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85648,
+        "num": 1371997,
+        "word": "瓣瓣同心心相连",
+        "onboard_time": 1708562195,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2541750,
+        "num": 1296426,
+        "word": "专家建议将女性退休年龄延长到60岁",
+        "onboard_time": 1708564836,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1211546,
+        "num": 1211546,
+        "word": "员工抑郁请病假暗中考研还领高薪",
+        "onboard_time": 1708556601,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 966827,
+        "num": 966827,
+        "word": "cos赵世子男网红再道歉",
+        "onboard_time": 1708559909,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735163,
+        "num": 735163,
+        "word": "12306可以买机票了",
+        "onboard_time": 1708564413,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731149,
+        "num": 731149,
+        "word": "国内首例反复感染新冠的Goods综合征患者",
+        "onboard_time": 1708558826,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 666716,
+        "num": 666716,
+        "word": "广州沥心沙大桥被船只撞断有车辆落水",
+        "onboard_time": 1708566093,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659117,
+        "num": 659117,
+        "word": "中国人四年存了58.24万亿元",
+        "onboard_time": 1708565974,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649374,
+        "num": 649374,
+        "word": "沥心沙大桥",
+        "onboard_time": 1708565194,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641380,
+        "num": 641380,
+        "word": "考虫倒闭",
+        "onboard_time": 1708566813,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 571077,
+        "num": 571077,
+        "word": "武汉大雪",
+        "onboard_time": 1708561293,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530818,
+        "num": 530818,
+        "word": "要睡多久觉才能把黑眼圈睡没",
+        "onboard_time": 1708529614,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 484471,
+        "num": 484471,
+        "word": "柳鑫宇",
+        "onboard_time": 1708563634,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 465986,
+        "num": 465986,
+        "word": "专家建议给三孩家庭购房打五折",
+        "onboard_time": 1708564653,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441339,
+        "num": 441339,
+        "word": "朱珠泳装",
+        "onboard_time": 1708560513,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 366646,
+        "num": 366646,
+        "word": "种地吧直播",
+        "onboard_time": 1708566273,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361137,
+        "num": 361137,
+        "word": "曾黎全网找yuzheng",
+        "onboard_time": 1708560271,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357347,
+        "num": 357347,
+        "word": "上海一杯4颗美式汤圆要38元",
+        "onboard_time": 1708558645,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 543895,
+        "num": 356808,
+        "word": "我爸告诉亲戚我存款十万",
+        "onboard_time": 1708558286,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 356157,
+        "num": 356157,
+        "word": "任嘉伦外媒生图",
+        "onboard_time": 1708564356,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 311265,
+        "num": 311265,
+        "word": "王诗龄家豪宅内景",
+        "onboard_time": 1708525360,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280434,
+        "num": 280434,
+        "word": "官方通报沥心沙大桥事故情况",
+        "onboard_time": 1708567053,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275212,
+        "num": 275212,
+        "word": "狂飙麻子爆改",
+        "onboard_time": 1708521275,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271123,
+        "num": 271123,
+        "word": "刘诗诗春晚服装灵感来自敦煌",
+        "onboard_time": 1708563754,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269692,
+        "num": 269692,
+        "word": "张杰2024年巡演",
+        "onboard_time": 1708562911,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 268185,
+        "num": 268185,
+        "word": "男孩吞下整根牙刷隐瞒了2天",
+        "onboard_time": 1708526137,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265153,
+        "num": 265153,
+        "word": "杨幂同款新中式",
+        "onboard_time": 1708564054,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237774,
+        "num": 237774,
+        "word": "陈哲远泰国",
+        "onboard_time": 1708564115,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237511,
+        "num": 237511,
+        "word": "王鹤棣何猷君同框合影",
+        "onboard_time": 1708562013,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 236950,
+        "num": 236950,
+        "word": "当博士小情侣陷入热恋",
+        "onboard_time": 1708527634,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211222,
+        "num": 211222,
+        "word": "台湾方面须给一个明确交代",
+        "onboard_time": 1708524458,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210762,
+        "num": 210762,
+        "word": "肖战出发米兰",
+        "onboard_time": 1708557563,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 210716,
+        "num": 210716,
+        "word": "近期高发的嗓子疼可能是这种急症",
+        "onboard_time": 1708526437,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207442,
+        "num": 207442,
+        "word": "贵州山火",
+        "onboard_time": 1708561349,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203323,
+        "num": 203323,
+        "word": "人车家全生态",
+        "onboard_time": 1708566453,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 192741,
+        "num": 192741,
+        "word": "浙江省的省饮料是什么",
+        "onboard_time": 1708563634,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 191663,
+        "num": 191663,
+        "word": "胡锡进 中国名义GDP与美国的差距",
+        "onboard_time": 1708565494,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174877,
+        "num": 174877,
+        "word": "姚安娜演技",
+        "onboard_time": 1708520973,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172595,
+        "num": 172595,
+        "word": "经常运动和不运动的人有啥区别",
+        "onboard_time": 1708545019,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 171694,
+        "num": 171694,
+        "word": "艾弗森评选NBA历史最佳阵容",
+        "onboard_time": 1708565733,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163057,
+        "num": 163057,
+        "word": "孙志刚被决定逮捕",
+        "onboard_time": 1708567293,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162787,
+        "num": 162787,
+        "word": "NCTWISH出道",
+        "onboard_time": 1708566869,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161201,
+        "num": 161201,
+        "word": "Sora视频",
+        "onboard_time": 1708564775,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160895,
+        "num": 160895,
+        "word": "贵阳8场山火10人被处理",
+        "onboard_time": 1708527759,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149753,
+        "num": 149753,
+        "word": "米兰时装周",
+        "onboard_time": 1708564054,
+        "rank": 46,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 147994,
+        "num": 147994,
+        "word": "代号鸢打不过",
+        "onboard_time": 1708567293,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145320,
+        "num": 145320,
+        "word": "你感染了几次新冠",
+        "onboard_time": 1708563813,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144078,
+        "num": 144078,
+        "word": "贾玲公开瘦身食谱",
+        "onboard_time": 1708517135,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#擘画鹭岛新画卷#"
+    }
+  }
+}
