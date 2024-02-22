@@ -1,6 +1,6 @@
 {
   "startTime": 1708532526738,
-  "endTime": 1708586188607,
+  "endTime": 1708587245860,
   "band_list": [
     {
       "raw_hot": 7943085,
@@ -171,6 +171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1098607,
+      "num": 1098607,
+      "word": "灿烈 好久不见",
+      "onboard_time": 1708586616,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1044938,
       "num": 1044938,
       "word": "武汉大雪",
@@ -185,6 +193,14 @@
       "onboard_time": 1708529614,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1009554,
+      "num": 1009554,
+      "word": "王逗逗结婚",
+      "onboard_time": 1708585418,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 1000135,
@@ -347,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 648054,
+      "num": 648054,
+      "word": "极氪",
+      "onboard_time": 1708584093,
+      "rank": 10,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 638018,
       "num": 638018,
       "word": "炸狗盆",
@@ -363,12 +387,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 610128,
-      "num": 610128,
-      "word": "极氪",
-      "onboard_time": 1708584093,
-      "rank": 10,
-      "category": "汽车"
+      "raw_hot": 619207,
+      "num": 423262,
+      "word": "把学历改成高中后终于找到工作",
+      "onboard_time": 1708585294,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 598120,
@@ -515,20 +539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 471141,
+      "num": 471141,
+      "word": "迪丽热巴贵卡增加了",
+      "onboard_time": 1708585355,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 459372,
+      "num": 459372,
+      "word": "王诗玥柳鑫宇自由舞113.04分",
+      "onboard_time": 1708586313,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 449098,
       "num": 416331,
       "word": "3个月4个苹果副总裁离职",
       "onboard_time": 1708570174,
       "rank": 22,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 445721,
-      "num": 445721,
-      "word": "王逗逗结婚",
-      "onboard_time": 1708585418,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 442184,
@@ -611,12 +643,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 391002,
-      "num": 391002,
-      "word": "迪丽热巴贵卡增加了",
-      "onboard_time": 1708585355,
-      "rank": 18,
-      "category": "作品衍生,时尚"
+      "raw_hot": 387392,
+      "num": 165782,
+      "word": "人鱼陷落",
+      "onboard_time": 1708585895,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 378634,
@@ -683,12 +715,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 347066,
+      "num": 347066,
+      "word": "极氪官微发蔚来宣传图",
+      "onboard_time": 1708586674,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 338779,
       "num": 338779,
       "word": "王鹤棣何猷君同框合影",
       "onboard_time": 1708562013,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 332503,
+      "num": 257932,
+      "word": "老爸问老妈3万块的茶艺课学了些什么",
+      "onboard_time": 1708586374,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 330152,
@@ -713,14 +761,6 @@
       "onboard_time": 1708571854,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 320685,
-      "num": 320685,
-      "word": "把学历改成高中后终于找到工作",
-      "onboard_time": 1708585294,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315805,
@@ -787,6 +827,22 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 288749,
+      "num": 288749,
+      "word": "涉事船舶公司回应撞断沥心沙大桥",
+      "onboard_time": 1708585955,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288302,
+      "num": 256368,
+      "word": "江苏女篮主教练去世",
+      "onboard_time": 1708586256,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283199,
       "num": 283199,
       "word": "代号鸢打不过",
@@ -841,6 +897,14 @@
       "onboard_time": 1708528416,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 259093,
+      "num": 259093,
+      "word": "女子举报多位大学教师偷窥自己",
+      "onboard_time": 1708586556,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258964,
@@ -1099,6 +1163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 210679,
+      "num": 210679,
+      "word": "男朋友正式来家里和狗装不认识",
+      "onboard_time": 1708587037,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210208,
       "num": 210208,
       "word": "鹿晗实体专辑",
@@ -1139,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203808,
+      "num": 203808,
+      "word": "春天的第一张壁纸",
+      "onboard_time": 1708586616,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203609,
       "num": 203609,
       "word": "Sora视频",
@@ -1163,6 +1243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 203182,
+      "num": 203182,
+      "word": "马思纯扫楼生图",
+      "onboard_time": 1708586256,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201629,
       "num": 201629,
       "word": "米兰时装周",
@@ -1185,6 +1273,14 @@
       "onboard_time": 1708572813,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196203,
+      "num": 196203,
+      "word": "汤唯把粉丝送的花插上了",
+      "onboard_time": 1708586855,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 194780,
@@ -1273,14 +1369,6 @@
       "onboard_time": 1708581335,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 182195,
-      "num": 182195,
-      "word": "涉事船舶公司回应撞断沥心沙大桥",
-      "onboard_time": 1708585955,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180903,
@@ -1449,14 +1537,6 @@
       "onboard_time": 1708574021,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152585,
-      "num": 152585,
-      "word": "人鱼陷落",
-      "onboard_time": 1708585895,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 150789,
@@ -1684,7 +1764,7 @@
     },
     {
       "raw_hot": 100053,
-      "num": 196658,
+      "num": 660364,
       "word": "华为Pocket2大溪地灰",
       "onboard_time": 1708585717,
       "rank": 34,

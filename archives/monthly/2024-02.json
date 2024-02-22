@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708586188607,
+  "endTime": 1708587245860,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -5459,6 +5459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1098607,
+      "num": 1098607,
+      "word": "灿烈 好久不见",
+      "onboard_time": 1708586616,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1096930,
       "num": 1096930,
       "word": "员工因bug事故被强制要求归还年终奖",
@@ -6145,6 +6153,14 @@
       "onboard_time": 1707202170,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1009554,
+      "num": 1009554,
+      "word": "王逗逗结婚",
+      "onboard_time": 1708585418,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 1006464,
@@ -11315,6 +11331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 648054,
+      "num": 648054,
+      "word": "极氪",
+      "onboard_time": 1708584093,
+      "rank": 10,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 647815,
       "num": 647815,
       "word": "开不了口 春晚",
@@ -12035,6 +12059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 619207,
+      "num": 423262,
+      "word": "把学历改成高中后终于找到工作",
+      "onboard_time": 1708585294,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 619102,
       "num": 619102,
       "word": "焦裕禄次子焦跃进逝世",
@@ -12225,14 +12257,6 @@
       "onboard_time": 1707052230,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 610128,
-      "num": 610128,
-      "word": "极氪",
-      "onboard_time": 1708584093,
-      "rank": 10,
-      "category": "汽车"
     },
     {
       "raw_hot": 609298,
@@ -16291,6 +16315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 471141,
+      "num": 471141,
+      "word": "迪丽热巴贵卡增加了",
+      "onboard_time": 1708585355,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 470473,
       "num": 468964,
       "word": "因几万彩礼谈不拢取消订婚",
@@ -16553,6 +16585,14 @@
       "onboard_time": 1708081471,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 459372,
+      "num": 459372,
+      "word": "王诗玥柳鑫宇自由舞113.04分",
+      "onboard_time": 1708586313,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 459037,
@@ -16929,14 +16969,6 @@
       "onboard_time": 1708046370,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 445721,
-      "num": 445721,
-      "word": "王逗逗结婚",
-      "onboard_time": 1708585418,
-      "rank": 16,
-      "category": "网红"
     },
     {
       "raw_hot": 445659,
@@ -19291,14 +19323,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 391002,
-      "num": 391002,
-      "word": "迪丽热巴贵卡增加了",
-      "onboard_time": 1708585355,
-      "rank": 18,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 390763,
       "num": 390763,
       "word": "时代少年团王者直播预告",
@@ -19441,6 +19465,14 @@
       "onboard_time": 1706694271,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387392,
+      "num": 165782,
+      "word": "人鱼陷落",
+      "onboard_time": 1708585895,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 387242,
@@ -21451,6 +21483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 347066,
+      "num": 347066,
+      "word": "极氪官微发蔚来宣传图",
+      "onboard_time": 1708586674,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 347051,
       "num": 347051,
       "word": "王一博自己骑着摩托上山",
@@ -22057,6 +22097,14 @@
       "onboard_time": 1708063953,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 332503,
+      "num": 257932,
+      "word": "老爸问老妈3万块的茶艺课学了些什么",
+      "onboard_time": 1708586374,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 332469,
@@ -22809,14 +22857,6 @@
       "onboard_time": 1708143212,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 320685,
-      "num": 320685,
-      "word": "把学历改成高中后终于找到工作",
-      "onboard_time": 1708585294,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320167,
@@ -25027,6 +25067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288749,
+      "num": 288749,
+      "word": "涉事船舶公司回应撞断沥心沙大桥",
+      "onboard_time": 1708585955,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288722,
       "num": 270947,
       "word": "当代95后开始整顿虚岁",
@@ -25057,6 +25105,14 @@
       "onboard_time": 1707105393,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288302,
+      "num": 256368,
+      "word": "江苏女篮主教练去世",
+      "onboard_time": 1708586256,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 288292,
@@ -27361,6 +27417,14 @@
       "onboard_time": 1707294331,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259093,
+      "num": 259093,
+      "word": "女子举报多位大学教师偷窥自己",
+      "onboard_time": 1708586556,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259036,
@@ -33371,6 +33435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210679,
+      "num": 210679,
+      "word": "男朋友正式来家里和狗装不认识",
+      "onboard_time": 1708587037,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210674,
       "num": 210674,
       "word": "金庸武侠世界预告片",
@@ -34731,6 +34803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203808,
+      "num": 203808,
+      "word": "春天的第一张壁纸",
+      "onboard_time": 1708586616,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 203800,
       "num": 203800,
       "word": "异地恋是我怕你多了解一点会失望",
@@ -34865,6 +34945,14 @@
       "onboard_time": 1707871289,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203182,
+      "num": 203182,
+      "word": "马思纯扫楼生图",
+      "onboard_time": 1708586256,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 203143,
@@ -36417,6 +36505,14 @@
       "onboard_time": 1707788671,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196203,
+      "num": 196203,
+      "word": "汤唯把粉丝送的花插上了",
+      "onboard_time": 1708586855,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 196168,
@@ -39473,14 +39569,6 @@
       "onboard_time": 1708301670,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 182195,
-      "num": 182195,
-      "word": "涉事船舶公司回应撞断沥心沙大桥",
-      "onboard_time": 1708585955,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182182,
@@ -45600,14 +45688,6 @@
       "word": "仙逆年番海报上线",
       "onboard_time": 1708261774,
       "rank": 43,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 152585,
-      "num": 152585,
-      "word": "人鱼陷落",
-      "onboard_time": 1708585895,
-      "rank": 44,
       "category": "动漫"
     },
     {
@@ -55260,7 +55340,7 @@
     },
     {
       "raw_hot": 100053,
-      "num": 196658,
+      "num": 660364,
       "word": "华为Pocket2大溪地灰",
       "onboard_time": 1708585717,
       "rank": 34,
