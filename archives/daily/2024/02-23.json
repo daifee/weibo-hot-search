@@ -1,6 +1,6 @@
 {
   "startTime": 1708618926218,
-  "endTime": 1708626871816,
+  "endTime": 1708629223864,
   "band_list": [
     {
       "raw_hot": 1064300,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 508742,
-      "num": 248940,
+      "num": 327405,
       "word": "广州遇难公交司机凌晨4点工作到晚7点",
       "onboard_time": 1708618291,
       "rank": 31,
@@ -435,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59882,
+      "num": 40245,
+      "word": "我始终戒不掉熬夜的原因",
+      "onboard_time": 1708626859,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 58404,
       "num": 58404,
       "word": "姚明看到进球瞬间表情亮了",
@@ -467,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32400,
+      "num": 32400,
+      "word": "周洁琼许佳琪跳了troublemaker",
+      "onboard_time": 1708628718,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 31443,
       "num": 31443,
       "word": "素颜小眼睛党的大眼神器",
@@ -489,14 +505,6 @@
       "onboard_time": 1708624819,
       "rank": 47,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 20960,
-      "num": 23346,
-      "word": "我始终戒不掉熬夜的原因",
-      "onboard_time": 1708626859,
-      "rank": 49,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
