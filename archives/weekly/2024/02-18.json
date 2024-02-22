@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708618926218,
+  "endTime": 1708619801557,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -1579,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1064300,
+      "num": 1064300,
+      "word": "一旦出现这个姿势要立即就医",
+      "onboard_time": 1708605694,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1058216,
       "num": 1058216,
       "word": "大理寺少卿游定档",
@@ -1633,14 +1641,6 @@
       "onboard_time": 1708599095,
       "rank": 6,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1028272,
-      "num": 1028272,
-      "word": "一旦出现这个姿势要立即就医",
-      "onboard_time": 1708605694,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1022440,
@@ -3865,6 +3865,14 @@
       "onboard_time": 1708227994,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 508742,
+      "num": 185895,
+      "word": "广州遇难公交司机凌晨4点工作到晚7点",
+      "onboard_time": 1708618291,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 506127,
@@ -6659,6 +6667,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 284832,
+      "num": 284832,
+      "word": "阿根廷友谊赛移至美国进行",
+      "onboard_time": 1708616434,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284696,
       "num": 284696,
       "word": "aespa复古解构风",
@@ -7009,6 +7025,14 @@
       "onboard_time": 1708506633,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 270574,
+      "num": 270574,
+      "word": "哥哥给妹妹化韩妆",
+      "onboard_time": 1708617391,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 270284,
@@ -7497,6 +7521,14 @@
       "onboard_time": 1708355677,
       "rank": 42,
       "category": "体育,健康医疗"
+    },
+    {
+      "raw_hot": 250025,
+      "num": 250025,
+      "word": "陈都灵早期模特照",
+      "onboard_time": 1708617990,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 249727,
@@ -8371,14 +8403,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 225133,
-      "num": 176242,
-      "word": "哥哥给妹妹化韩妆",
-      "onboard_time": 1708617391,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 225088,
       "num": 225088,
       "word": "沈腾杨洋军艺校草合成照",
@@ -8817,14 +8841,6 @@
       "onboard_time": 1708384763,
       "rank": 29,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 214902,
-      "num": 214902,
-      "word": "阿根廷友谊赛移至美国进行",
-      "onboard_time": 1708616434,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 214357,
@@ -9448,14 +9464,6 @@
       "word": "2025春节倒计时346天",
       "onboard_time": 1708213105,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200784,
-      "num": 173774,
-      "word": "广州遇难公交司机凌晨4点工作到晚7点",
-      "onboard_time": 1708618291,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -10441,14 +10449,6 @@
       "onboard_time": 1708400197,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 184239,
-      "num": 184239,
-      "word": "陈都灵早期模特照",
-      "onboard_time": 1708617990,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 184154,
@@ -13163,6 +13163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127478,
+      "num": 127478,
+      "word": "心动实验室挂了",
+      "onboard_time": 1708618770,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126932,
       "num": 126932,
       "word": "eStar对战DYG",
@@ -13555,14 +13563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 97005,
-      "num": 97005,
-      "word": "心动实验室挂了",
-      "onboard_time": 1708618770,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 96534,
       "num": 96534,
       "word": "在暴雪时分有26场吻戏",
@@ -13801,6 +13801,14 @@
       "onboard_time": 1708453640,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67956,
+      "num": 67956,
+      "word": "迪丽热巴相信时间会给出答案",
+      "onboard_time": 1708619729,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 66696,
