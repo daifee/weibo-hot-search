@@ -1,0 +1,410 @@
+{
+  "runTime": 1708572867590,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5692556,
+        "num": 6942556,
+        "word": "官方通报沥心沙大桥事故情况",
+        "onboard_time": 1708567053,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2487636,
+        "num": 2487636,
+        "word": "考虫倒闭",
+        "onboard_time": 1708566813,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 72317,
+        "num": 1501845,
+        "word": "瓣瓣同心心相连",
+        "onboard_time": 1708562195,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1138236,
+        "num": 1138236,
+        "word": "撞断沥心沙大桥船主已被控制",
+        "onboard_time": 1708570534,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789059,
+        "num": 789059,
+        "word": "瑞幸心理价位9块9",
+        "onboard_time": 1708567833,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 782259,
+        "num": 782259,
+        "word": "郑州一海洋馆潜水员在馆内溺亡",
+        "onboard_time": 1708567595,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756932,
+        "num": 756932,
+        "word": "中国人四年存了58.24万亿元",
+        "onboard_time": 1708565974,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563521,
+        "num": 563521,
+        "word": "员工抑郁请病假暗中考研还领高薪",
+        "onboard_time": 1708556601,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472640,
+        "num": 472640,
+        "word": "白鹿爱奇艺国际版代言人官宣",
+        "onboard_time": 1708570835,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418055,
+        "num": 418055,
+        "word": "广州南沙沥心沙大桥被船只撞断",
+        "onboard_time": 1708565254,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1526918,
+        "num": 417843,
+        "word": "专家建议将女性退休年龄延长到60岁",
+        "onboard_time": 1708564836,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1093167,
+        "num": 416903,
+        "word": "白敬亭进组难哄",
+        "onboard_time": 1708563335,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449098,
+        "num": 416331,
+        "word": "3个月4个苹果副总裁离职",
+        "onboard_time": 1708570174,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 438021,
+        "num": 415848,
+        "word": "旅客坐飞机拍下贵州山火",
+        "onboard_time": 1708571073,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415655,
+        "num": 415655,
+        "word": "沥心沙大桥掉落公交有1司机无乘客",
+        "onboard_time": 1708569694,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385221,
+        "num": 385221,
+        "word": "退税预约",
+        "onboard_time": 1708568494,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359117,
+        "num": 359117,
+        "word": "车厘子草莓价格回落",
+        "onboard_time": 1708567953,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 349753,
+        "num": 349753,
+        "word": "12306可以买机票了",
+        "onboard_time": 1708564413,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348117,
+        "num": 348117,
+        "word": "国内首例反复感染新冠的Goods综合征患者",
+        "onboard_time": 1708558826,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 330723,
+        "num": 330723,
+        "word": "刘浩存免除黑粉赔偿",
+        "onboard_time": 1708569513,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471443,
+        "num": 314968,
+        "word": "父母有退休金真的挺重要",
+        "onboard_time": 1708567893,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 414963,
+        "num": 313265,
+        "word": "我爸告诉亲戚我存款十万",
+        "onboard_time": 1708558286,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296151,
+        "num": 296151,
+        "word": "林一最有cp感女主",
+        "onboard_time": 1708571854,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279408,
+        "num": 279408,
+        "word": "孙志刚被决定逮捕",
+        "onboard_time": 1708567293,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276136,
+        "num": 276136,
+        "word": "四六级要出分了",
+        "onboard_time": 1708567595,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 275260,
+        "num": 275260,
+        "word": "专家建议给三孩家庭购房打五折",
+        "onboard_time": 1708564653,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272296,
+        "num": 272296,
+        "word": "为什么强势的人反而更受欢迎",
+        "onboard_time": 1708571433,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272180,
+        "num": 272180,
+        "word": "倪妮微醺感芭莎封面大片",
+        "onboard_time": 1708571673,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 249640,
+        "num": 249640,
+        "word": "陈哲远泰国",
+        "onboard_time": 1708564115,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237910,
+        "num": 237910,
+        "word": "朱珠泳装",
+        "onboard_time": 1708560513,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227822,
+        "num": 227822,
+        "word": "要睡多久觉才能把黑眼圈睡没",
+        "onboard_time": 1708529614,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 222046,
+        "num": 222046,
+        "word": "中金称有必要更大幅度下调存款利率",
+        "onboard_time": 1708571793,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217622,
+        "num": 217622,
+        "word": "HYBE新女团受邀巴黎时装周",
+        "onboard_time": 1708572217,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201600,
+        "num": 201600,
+        "word": "直击广州沥心沙大桥救援现场",
+        "onboard_time": 1708572575,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197444,
+        "num": 197444,
+        "word": "林一周也演暗恋",
+        "onboard_time": 1708572813,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195552,
+        "num": 195552,
+        "word": "王诗龄家豪宅内景",
+        "onboard_time": 1708525360,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188247,
+        "num": 188247,
+        "word": "杨幂同款新中式",
+        "onboard_time": 1708564054,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182553,
+        "num": 182553,
+        "word": "学刘姥姥心态去上班再也不会内耗",
+        "onboard_time": 1708568974,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179548,
+        "num": 179548,
+        "word": "你们山东吃这么硬的吗",
+        "onboard_time": 1708570295,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 175482,
+        "num": 175482,
+        "word": "苹果智能戒指再曝光",
+        "onboard_time": 1708567893,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 642165,
+        "num": 175441,
+        "word": "cos赵世子男网红再道歉",
+        "onboard_time": 1708559909,
+        "rank": 40,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 174485,
+        "num": 174485,
+        "word": "别对我动心",
+        "onboard_time": 1708569094,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174030,
+        "num": 174030,
+        "word": "曾黎全网找yuzheng",
+        "onboard_time": 1708560271,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165945,
+        "num": 165945,
+        "word": "为什么一件事需要拒绝长辈3次",
+        "onboard_time": 1708572276,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165244,
+        "num": 165244,
+        "word": "世卫多次警告的X疾病是什么",
+        "onboard_time": 1708568074,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161842,
+        "num": 161842,
+        "word": "任嘉伦外媒生图",
+        "onboard_time": 1708564356,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158046,
+        "num": 158046,
+        "word": "张杰2024年巡演",
+        "onboard_time": 1708562911,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153007,
+        "num": 153007,
+        "word": "狂飙麻子爆改",
+        "onboard_time": 1708521275,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151722,
+        "num": 151722,
+        "word": "肖战出发米兰",
+        "onboard_time": 1708557563,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149145,
+        "num": 149145,
+        "word": "中国香港女团vs中国台北女团",
+        "onboard_time": 1708570114,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#擘画鹭岛新画卷#"
+    }
+  }
+}
