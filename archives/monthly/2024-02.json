@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708579070117,
+  "endTime": 1708580031683,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2971,6 +2971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1572648,
+      "num": 1572648,
+      "word": "20集她戴了22副耳环",
+      "onboard_time": 1708576475,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1569503,
       "num": 1569503,
       "word": "甜馨 倒霉的一年也结束了",
@@ -4129,14 +4137,6 @@
       "onboard_time": 1707982892,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1277782,
-      "num": 1277782,
-      "word": "20集她戴了22副耳环",
-      "onboard_time": 1708576475,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 1276607,
@@ -6121,6 +6121,14 @@
       "onboard_time": 1708438002,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1004949,
+      "num": 1004949,
+      "word": "从怀孕到生娃十一个月的花销",
+      "onboard_time": 1708577740,
+      "rank": 12,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 1003912,
@@ -9155,14 +9163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 756226,
-      "num": 756226,
-      "word": "从怀孕到生娃十一个月的花销",
-      "onboard_time": 1708577740,
-      "rank": 12,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 756045,
       "num": 756045,
       "word": "为啥手机最后1%的电能用很久",
@@ -11497,6 +11497,14 @@
       "onboard_time": 1707642812,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 638018,
+      "num": 638018,
+      "word": "炸狗盆",
+      "onboard_time": 1708576475,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 637793,
@@ -14331,6 +14339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 527072,
+      "num": 456688,
+      "word": "咪蒙一个寒假靠2部短剧收入过亿",
+      "onboard_time": 1708576417,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 526377,
       "num": 526377,
       "word": "努力凑够400万可怜可怜他",
@@ -14625,14 +14641,6 @@
       "onboard_time": 1707276031,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 517693,
-      "num": 456688,
-      "word": "咪蒙一个寒假靠2部短剧收入过亿",
-      "onboard_time": 1708576417,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 517526,
@@ -15321,6 +15329,14 @@
       "onboard_time": 1707390871,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 494361,
+      "num": 494361,
+      "word": "罗翔曾称老师和学生谈恋爱是在剥削",
+      "onboard_time": 1708578218,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 494333,
@@ -16249,14 +16265,6 @@
       "onboard_time": 1707308131,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 466499,
-      "num": 466499,
-      "word": "炸狗盆",
-      "onboard_time": 1708576475,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 466456,
@@ -17553,6 +17561,14 @@
       "onboard_time": 1707530441,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 427116,
+      "num": 427116,
+      "word": "中学男教师在办公室猥亵男生",
+      "onboard_time": 1708579053,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427094,
@@ -20179,6 +20195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 369909,
+      "num": 369909,
+      "word": "四川游神",
+      "onboard_time": 1708578460,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369808,
       "num": 496358,
       "word": "K4186全车一起救了个人",
@@ -20793,6 +20817,14 @@
       "onboard_time": 1707695483,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 357778,
+      "num": 357778,
+      "word": "方正证券员工被爆料",
+      "onboard_time": 1708578636,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 357772,
@@ -25035,14 +25067,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 286240,
-      "num": 286240,
-      "word": "罗翔曾称老师和学生谈恋爱是在剥削",
-      "onboard_time": 1708578218,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 285836,
       "num": 285836,
       "word": "巨蟹座的付出不是无条件的",
@@ -25753,6 +25777,14 @@
       "onboard_time": 1708412618,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 277202,
+      "num": 277202,
+      "word": "只回复一个ok",
+      "onboard_time": 1708577559,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 277168,
@@ -26947,14 +26979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 262660,
-      "num": 262660,
-      "word": "四川游神",
-      "onboard_time": 1708578460,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262635,
       "num": 196730,
       "word": "00后亲戚都是自己找的",
@@ -27001,6 +27025,14 @@
       "onboard_time": 1708433197,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 262211,
+      "num": 262211,
+      "word": "中国香港女团晋级四强",
+      "onboard_time": 1708578399,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 261926,
@@ -27209,6 +27241,14 @@
       "onboard_time": 1707558996,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 258964,
+      "num": 258964,
+      "word": "半熟恋人3官宣",
+      "onboard_time": 1708579775,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 258847,
@@ -27779,14 +27819,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 253340,
-      "num": 253340,
-      "word": "只回复一个ok",
-      "onboard_time": 1708577559,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 253238,
       "num": 253238,
       "word": "龙年春节前海鲜销量暴涨400%",
@@ -27889,6 +27921,14 @@
       "onboard_time": 1706757089,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252299,
+      "num": 252299,
+      "word": "于正对赵丽颖的评价",
+      "onboard_time": 1708579535,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 252292,
@@ -30851,6 +30891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226498,
+      "num": 226498,
+      "word": "法越馨晒拍的肖战",
+      "onboard_time": 1708578695,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226493,
       "num": 226493,
       "word": "粉丝拿刘德华30年前签名求鉴定",
@@ -31641,6 +31689,14 @@
       "onboard_time": 1707717691,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 220861,
+      "num": 220861,
+      "word": "三民岛居民称桥面断裂后已断水断网",
+      "onboard_time": 1708578878,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220855,
@@ -32713,14 +32769,6 @@
       "onboard_time": 1707369451,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 213890,
-      "num": 213890,
-      "word": "中国香港女团晋级四强",
-      "onboard_time": 1708578399,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 213808,
@@ -34739,14 +34787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202522,
-      "num": 202522,
-      "word": "法越馨晒拍的肖战",
-      "onboard_time": 1708578695,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202475,
       "num": 202475,
       "word": "蔡徐坤PORT开季封面",
@@ -35665,6 +35705,14 @@
       "onboard_time": 1707373531,
       "rank": 31,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 198796,
+      "num": 198796,
+      "word": "沥心沙大桥事故船只刚被处罚",
+      "onboard_time": 1708579473,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198789,
@@ -36979,6 +37027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192669,
+      "num": 192669,
+      "word": "钟楚曦演的皇后好带感",
+      "onboard_time": 1708579657,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192666,
       "num": 150367,
       "word": "村里人对大学生的误解",
@@ -37385,6 +37441,14 @@
       "onboard_time": 1707313957,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191158,
+      "num": 191158,
+      "word": "宋雨琦安宥真G社生图",
+      "onboard_time": 1708579836,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191156,
@@ -43899,14 +43963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159386,
-      "num": 159386,
-      "word": "三民岛居民称桥面断裂后已断水断网",
-      "onboard_time": 1708578878,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159367,
       "num": 159367,
       "word": "李艾 我的父亲和我像是同龄人",
@@ -47353,14 +47409,6 @@
       "onboard_time": 1707976650,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 143674,
-      "num": 143674,
-      "word": "中学男教师在办公室猥亵男生",
-      "onboard_time": 1708579053,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 143562,
@@ -59876,6 +59924,9 @@
     },
     {
       "word": "#绘就一幅美丽中国的厦门画卷#"
+    },
+    {
+      "word": "#瓣瓣同心心相连#"
     }
   ]
 }
