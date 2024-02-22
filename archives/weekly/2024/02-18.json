@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708605014337,
+  "endTime": 1708605934387,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2662399,
+      "num": 2146667,
+      "word": "网红杨老二去世",
+      "onboard_time": 1708603776,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 2613465,
       "num": 2439824,
       "word": "女子称私照被恶意拼接为出轨女教师",
@@ -409,14 +417,6 @@
       "onboard_time": 1708306532,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2146667,
-      "num": 2146667,
-      "word": "网红杨老二去世",
-      "onboard_time": 1708603776,
-      "rank": 0,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2140459,
@@ -2107,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 822527,
+      "num": 822527,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1708603955,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 821188,
       "num": 357005,
       "word": "你吃过鲍师傅吗",
@@ -2435,6 +2443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 720081,
+      "num": 720081,
+      "word": "迪丽热巴妈妈想再养育一遍她",
+      "onboard_time": 1708604496,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 717898,
       "num": 717898,
       "word": "山东泰山晋级亚冠八强",
@@ -2489,6 +2505,14 @@
       "onboard_time": 1708574319,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 710230,
+      "num": 710230,
+      "word": "2.2亿元彩票大奖得主无须缴纳个人所得税",
+      "onboard_time": 1708600715,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 710090,
@@ -2689,14 +2713,6 @@
       "onboard_time": 1708322375,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 671645,
-      "num": 671645,
-      "word": "2.2亿元彩票大奖得主无须缴纳个人所得税",
-      "onboard_time": 1708600715,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 671484,
@@ -3195,14 +3211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 596136,
-      "num": 596136,
-      "word": "王楚钦vs张本智和",
-      "onboard_time": 1708603955,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 595646,
       "num": 595646,
       "word": "原子弹爆炸后她架机2次冲向蘑菇云",
@@ -3564,7 +3572,7 @@
     },
     {
       "raw_hot": 534948,
-      "num": 297438,
+      "num": 305682,
       "word": "断崖式衰老常发生在3个年龄",
       "onboard_time": 1708602814,
       "rank": 20,
@@ -4217,6 +4225,14 @@
       "onboard_time": 1708353283,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 444818,
+      "num": 303533,
+      "word": "柿柿如意汤圆火了",
+      "onboard_time": 1708604135,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 444090,
@@ -5307,14 +5323,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 346819,
-      "num": 346819,
-      "word": "迪丽热巴妈妈想再养育一遍她",
-      "onboard_time": 1708604496,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 346804,
       "num": 324760,
       "word": "车主曝42万奔驰新车开20公里油门失灵",
@@ -5467,14 +5475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 335111,
-      "num": 297218,
-      "word": "柿柿如意汤圆火了",
-      "onboard_time": 1708604135,
-      "rank": 22,
-      "category": "美食"
-    },
-    {
       "raw_hot": 334902,
       "num": 334902,
       "word": "拜托这可是欧阳兰",
@@ -5529,6 +5529,14 @@
       "onboard_time": 1708542617,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 328957,
+      "num": 300776,
+      "word": "浙江一17岁学生确诊肠癌",
+      "onboard_time": 1708604856,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328728,
@@ -6113,6 +6121,14 @@
       "onboard_time": 1708418200,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 299557,
+      "num": 299557,
+      "word": "猎冰总导演否认华为投钱",
+      "onboard_time": 1708604676,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 298952,
@@ -6923,6 +6939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265931,
+      "num": 265931,
+      "word": "伊能静 儿子唤醒了我的青春期",
+      "onboard_time": 1708604254,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265567,
       "num": 265567,
       "word": "大牌化妆品集体涨价",
@@ -7403,14 +7427,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 245740,
-      "num": 245740,
-      "word": "猎冰总导演否认华为投钱",
-      "onboard_time": 1708604676,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 245703,
       "num": 245703,
       "word": "自热火锅为何不火了",
@@ -7665,6 +7681,14 @@
       "onboard_time": 1708436739,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238384,
+      "num": 238384,
+      "word": "方正证券",
+      "onboard_time": 1708605099,
+      "rank": 29,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 238117,
@@ -9187,14 +9211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 199104,
-      "num": 199104,
-      "word": "伊能静 儿子唤醒了我的青春期",
-      "onboard_time": 1708604254,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198796,
       "num": 198796,
       "word": "沥心沙大桥事故船只刚被处罚",
@@ -10531,6 +10547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174873,
+      "num": 174873,
+      "word": "一旦出现这个姿势要立即就医",
+      "onboard_time": 1708605694,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174748,
       "num": 358394,
       "word": "小米龙铠架构",
@@ -11091,6 +11115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164749,
+      "num": 164749,
+      "word": "世乒赛",
+      "onboard_time": 1708602634,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164710,
       "num": 164710,
       "word": "张小彦 打开恋爱任督二脉",
@@ -11211,14 +11243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162049,
-      "num": 162049,
-      "word": "浙江一17岁学生确诊肠癌",
-      "onboard_time": 1708604856,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161998,
       "num": 161998,
       "word": "UFC",
@@ -11273,14 +11297,6 @@
       "onboard_time": 1708171110,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160967,
-      "num": 160967,
-      "word": "世乒赛",
-      "onboard_time": 1708602634,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 160885,
@@ -11523,6 +11539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156089,
+      "num": 156089,
+      "word": "EDG对战NIP",
+      "onboard_time": 1708603233,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156084,
       "num": 156084,
       "word": "小柯基立耳的瞬间",
@@ -11585,6 +11609,14 @@
       "onboard_time": 1708338818,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154352,
+      "num": 154352,
+      "word": "张馨予解析一下拍照角度",
+      "onboard_time": 1708605755,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 154234,
@@ -13249,6 +13281,14 @@
       "onboard_time": 1708483895,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71115,
+      "num": 169191,
+      "word": "华为在三亚开了一场很新的party",
+      "onboard_time": 1708605275,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 70819,

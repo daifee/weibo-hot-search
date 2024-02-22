@@ -1,6 +1,6 @@
 {
   "startTime": 1708532526738,
-  "endTime": 1708605014337,
+  "endTime": 1708605934387,
   "band_list": [
     {
       "raw_hot": 7943085,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2662399,
+      "num": 2146667,
+      "word": "网红杨老二去世",
+      "onboard_time": 1708603776,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 2572613,
       "num": 2572613,
       "word": "人民网评网红扮演赵世子",
@@ -81,14 +89,6 @@
       "onboard_time": 1708556601,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2146667,
-      "num": 2146667,
-      "word": "网红杨老二去世",
-      "onboard_time": 1708603776,
-      "rank": 0,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2009179,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 822527,
+      "num": 822527,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1708603955,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 813270,
       "num": 813270,
       "word": "郑州一海洋馆潜水员在馆内溺亡",
@@ -475,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 720081,
+      "num": 720081,
+      "word": "迪丽热巴妈妈想再养育一遍她",
+      "onboard_time": 1708604496,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 717582,
       "num": 717582,
       "word": "媒体评乙女游戏卷尺度现象",
@@ -497,6 +513,14 @@
       "onboard_time": 1708574319,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 710230,
+      "num": 710230,
+      "word": "2.2亿元彩票大奖得主无须缴纳个人所得税",
+      "onboard_time": 1708600715,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 710090,
@@ -545,14 +569,6 @@
       "onboard_time": 1708602752,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 671645,
-      "num": 671645,
-      "word": "2.2亿元彩票大奖得主无须缴纳个人所得税",
-      "onboard_time": 1708600715,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 649374,
@@ -617,14 +633,6 @@
       "onboard_time": 1708578636,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 596136,
-      "num": 596136,
-      "word": "王楚钦vs张本智和",
-      "onboard_time": 1708603955,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 594294,
@@ -692,7 +700,7 @@
     },
     {
       "raw_hot": 534948,
-      "num": 297438,
+      "num": 305682,
       "word": "断崖式衰老常发生在3个年龄",
       "onboard_time": 1708602814,
       "rank": 20,
@@ -833,6 +841,14 @@
       "onboard_time": 1708570174,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 444818,
+      "num": 303533,
+      "word": "柿柿如意汤圆火了",
+      "onboard_time": 1708604135,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 442184,
@@ -1019,28 +1035,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 346819,
-      "num": 346819,
-      "word": "迪丽热巴妈妈想再养育一遍她",
-      "onboard_time": 1708604496,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 338779,
       "num": 338779,
       "word": "王鹤棣何猷君同框合影",
       "onboard_time": 1708562013,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 335111,
-      "num": 297218,
-      "word": "柿柿如意汤圆火了",
-      "onboard_time": 1708604135,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 334902,
@@ -1057,6 +1057,14 @@
       "onboard_time": 1708542617,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 328957,
+      "num": 300776,
+      "word": "浙江一17岁学生确诊肠癌",
+      "onboard_time": 1708604856,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328728,
@@ -1107,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307094,
+      "num": 307094,
+      "word": "赵世子",
+      "onboard_time": 1708603655,
+      "rank": 24,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 306240,
       "num": 306240,
       "word": "考虫回应倒闭传闻",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1708577559,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 299557,
+      "num": 299557,
+      "word": "猎冰总导演否认华为投钱",
+      "onboard_time": 1708604676,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 298038,
@@ -1217,14 +1241,6 @@
       "onboard_time": 1708601496,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 285456,
-      "num": 285456,
-      "word": "赵世子",
-      "onboard_time": 1708603655,
-      "rank": 24,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 283199,
@@ -1329,6 +1345,14 @@
       "onboard_time": 1708567893,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 265931,
+      "num": 265931,
+      "word": "伊能静 儿子唤醒了我的青春期",
+      "onboard_time": 1708604254,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 264809,
@@ -1451,14 +1475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 245740,
-      "num": 245740,
-      "word": "猎冰总导演否认华为投钱",
-      "onboard_time": 1708604676,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 244976,
       "num": 244976,
       "word": "浙江省的省饮料是什么",
@@ -1505,6 +1521,14 @@
       "onboard_time": 1708593516,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 238384,
+      "num": 238384,
+      "word": "方正证券",
+      "onboard_time": 1708605099,
+      "rank": 29,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 238074,
@@ -1827,14 +1851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199104,
-      "num": 199104,
-      "word": "伊能静 儿子唤醒了我的青春期",
-      "onboard_time": 1708604254,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198796,
       "num": 198796,
       "word": "沥心沙大桥事故船只刚被处罚",
@@ -2131,6 +2147,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 174873,
+      "num": 174873,
+      "word": "一旦出现这个姿势要立即就医",
+      "onboard_time": 1708605694,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174091,
       "num": 174091,
       "word": "孩子呼吸道感染怎么吃好得快",
@@ -2243,6 +2267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 164749,
+      "num": 164749,
+      "word": "世乒赛",
+      "onboard_time": 1708602634,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164040,
       "num": 164040,
       "word": "英伟达财报",
@@ -2275,28 +2307,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 162049,
-      "num": 162049,
-      "word": "浙江一17岁学生确诊肠癌",
-      "onboard_time": 1708604856,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161341,
       "num": 161341,
       "word": "全国各省的省饮料申请出战",
       "onboard_time": 1708571313,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 160967,
-      "num": 160967,
-      "word": "世乒赛",
-      "onboard_time": 1708602634,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 160587,
@@ -2337,6 +2353,22 @@
       "onboard_time": 1708562675,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 156089,
+      "num": 156089,
+      "word": "EDG对战NIP",
+      "onboard_time": 1708603233,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 154352,
+      "num": 154352,
+      "word": "张馨予解析一下拍照角度",
+      "onboard_time": 1708605755,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 153288,
@@ -2745,6 +2777,14 @@
       "onboard_time": 1708521576,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71115,
+      "num": 169191,
+      "word": "华为在三亚开了一场很新的party",
+      "onboard_time": 1708605275,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 70117,
