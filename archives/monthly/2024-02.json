@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708622131055,
+  "endTime": 1708623250101,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -32739,6 +32739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221147,
+      "num": 221147,
+      "word": "法国观众说封神比漫威电影好看",
+      "onboard_time": 1708621402,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 220999,
       "num": 214973,
       "word": "河南春晚特效",
@@ -51731,14 +51739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131224,
-      "num": 131224,
-      "word": "法国观众说封神比漫威电影好看",
-      "onboard_time": 1708621402,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 131174,
       "num": 131174,
       "word": "NCT127 澳门",
@@ -58227,6 +58227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72729,
+      "num": 72729,
+      "word": "于正要拍仙侠剧",
+      "onboard_time": 1708621105,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72526,
       "num": 117727,
       "word": "中国女篮加油",
@@ -58441,14 +58449,6 @@
       "onboard_time": 1707937276,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67166,
-      "num": 67166,
-      "word": "于正要拍仙侠剧",
-      "onboard_time": 1708621105,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 66897,
@@ -59393,6 +59393,14 @@
       "onboard_time": 1706916619,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47011,
+      "num": 47011,
+      "word": "我的妈妈是大明星",
+      "onboard_time": 1708622663,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 47003,
