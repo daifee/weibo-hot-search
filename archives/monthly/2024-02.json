@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708619801557,
+  "endTime": 1708622131055,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -24715,6 +24715,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 301458,
+      "num": 301458,
+      "word": "陈都灵早期模特照",
+      "onboard_time": 1708617990,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 301141,
       "num": 301141,
       "word": "热辣滚烫演唱会",
@@ -25281,6 +25289,14 @@
       "onboard_time": 1707444808,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292958,
+      "num": 270574,
+      "word": "哥哥给妹妹化韩妆",
+      "onboard_time": 1708617391,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 292947,
@@ -27203,14 +27219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270574,
-      "num": 270574,
-      "word": "哥哥给妹妹化韩妆",
-      "onboard_time": 1708617391,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 270326,
       "num": 270326,
       "word": "没有老字号你还在吃400元一斤日本味精",
@@ -28651,6 +28659,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 254211,
+      "num": 254211,
+      "word": "心动实验室挂了",
+      "onboard_time": 1708618770,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 254195,
       "num": 254195,
       "word": "易烊千玺阎青妤合照",
@@ -29129,14 +29145,6 @@
       "onboard_time": 1707574841,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 250025,
-      "num": 250025,
-      "word": "陈都灵早期模特照",
-      "onboard_time": 1708617990,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 249987,
@@ -51723,6 +51731,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131224,
+      "num": 131224,
+      "word": "法国观众说封神比漫威电影好看",
+      "onboard_time": 1708621402,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131174,
       "num": 131174,
       "word": "NCT127 澳门",
@@ -52481,14 +52497,6 @@
       "onboard_time": 1707362672,
       "rank": 29,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 127478,
-      "num": 127478,
-      "word": "心动实验室挂了",
-      "onboard_time": 1708618770,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 127470,
@@ -57731,6 +57739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82578,
+      "num": 82578,
+      "word": "迪丽热巴相信时间会给出答案",
+      "onboard_time": 1708619729,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 82406,
       "num": 123959,
       "word": "故宫的中国龙纹太精美了",
@@ -58419,20 +58435,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 67956,
-      "num": 67956,
-      "word": "迪丽热巴相信时间会给出答案",
-      "onboard_time": 1708619729,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 67447,
       "num": 60574,
       "word": "香港偶遇虞书欣逛街",
       "onboard_time": 1707937276,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67166,
+      "num": 67166,
+      "word": "于正要拍仙侠剧",
+      "onboard_time": 1708621105,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 66897,
@@ -58775,6 +58791,14 @@
       "num": 274583,
       "word": "中国男网出征戴维斯杯",
       "onboard_time": 1706925932,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58404,
+      "num": 58404,
+      "word": "姚明看到进球瞬间表情亮了",
+      "onboard_time": 1708621285,
       "rank": 42,
       "category": "体育"
     },

@@ -1,0 +1,410 @@
+{
+  "runTime": 1708622131055,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 744992,
+        "num": 744992,
+        "word": "一旦出现这个姿势要立即就医",
+        "onboard_time": 1708605694,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 470825,
+        "num": 470825,
+        "word": "青簪行 定档",
+        "onboard_time": 1708610197,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20643,
+        "num": 432302,
+        "word": "南腔北调见证冰雪运动热力十足",
+        "onboard_time": 1708608457,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414903,
+        "num": 414903,
+        "word": "断崖式衰老常发生在3个年龄",
+        "onboard_time": 1708602814,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 385455,
+        "num": 385455,
+        "word": "宋小宝凭实力爆改自己",
+        "onboard_time": 1708616612,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332435,
+        "num": 332435,
+        "word": "网红杨老二去世",
+        "onboard_time": 1708603776,
+        "rank": 5,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 306268,
+        "num": 306268,
+        "word": "2.2亿元彩票大奖得主无须缴纳个人所得税",
+        "onboard_time": 1708600715,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301458,
+        "num": 301458,
+        "word": "陈都灵早期模特照",
+        "onboard_time": 1708617990,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254211,
+        "num": 254211,
+        "word": "心动实验室挂了",
+        "onboard_time": 1708618770,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242672,
+        "num": 242672,
+        "word": "阿根廷友谊赛移至美国进行",
+        "onboard_time": 1708616434,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309638,
+        "num": 241260,
+        "word": "生理性喜欢",
+        "onboard_time": 1708598853,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292958,
+        "num": 240951,
+        "word": "哥哥给妹妹化韩妆",
+        "onboard_time": 1708617391,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 239111,
+        "num": 239111,
+        "word": "孙千吃醋了",
+        "onboard_time": 1708614335,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238886,
+        "num": 238886,
+        "word": "庄达菲海边大片竟是王安宇拍的",
+        "onboard_time": 1708617093,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215637,
+        "num": 215637,
+        "word": "高合创始人承认翻身窗口期仅剩3个月",
+        "onboard_time": 1708611576,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 184220,
+        "num": 184220,
+        "word": "马思纯谢谢大家还爱着黎吧啦",
+        "onboard_time": 1708616015,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169002,
+        "num": 169002,
+        "word": "迪丽热巴妈妈想再养育一遍她",
+        "onboard_time": 1708604496,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155475,
+        "num": 155475,
+        "word": "张继科重回蝴蝶乒乓中国官网",
+        "onboard_time": 1708608033,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154110,
+        "num": 154110,
+        "word": "人民网评网红扮演赵世子",
+        "onboard_time": 1708580973,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135227,
+        "num": 135227,
+        "word": "当一个江浙沪赘婿决定离婚",
+        "onboard_time": 1708605994,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490616,
+        "num": 135202,
+        "word": "广州遇难公交司机凌晨4点工作到晚7点",
+        "onboard_time": 1708618291,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140881,
+        "num": 134809,
+        "word": "人生建议 永远别赚太辛苦的钱",
+        "onboard_time": 1708613616,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131224,
+        "num": 131224,
+        "word": "法国观众说封神比漫威电影好看",
+        "onboard_time": 1708621402,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126578,
+        "num": 126578,
+        "word": "浙江一17岁学生确诊肠癌",
+        "onboard_time": 1708604856,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109735,
+        "num": 109735,
+        "word": "整个三亚都在偶遇明星",
+        "onboard_time": 1708613800,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102013,
+        "num": 102013,
+        "word": "上海和深圳的区别在哪",
+        "onboard_time": 1708616371,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101775,
+        "num": 101775,
+        "word": "什么叫裁员裁到大动脉了",
+        "onboard_time": 1708611338,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95644,
+        "num": 95644,
+        "word": "Gucci和Tods接机肖战",
+        "onboard_time": 1708609474,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95381,
+        "num": 95381,
+        "word": "柿柿如意汤圆火了",
+        "onboard_time": 1708604135,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94372,
+        "num": 94372,
+        "word": "快30岁还觉得自己像小孩",
+        "onboard_time": 1708613016,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93088,
+        "num": 93088,
+        "word": "青簪行 簪中录",
+        "onboard_time": 1708610735,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82578,
+        "num": 82578,
+        "word": "迪丽热巴相信时间会给出答案",
+        "onboard_time": 1708619729,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82062,
+        "num": 82062,
+        "word": "普通情侣一年的年收入",
+        "onboard_time": 1708600295,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77591,
+        "num": 77591,
+        "word": "甲沟炎患者不建议养猫",
+        "onboard_time": 1708613495,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 75461,
+        "num": 75461,
+        "word": "Redmi显示器",
+        "onboard_time": 1708615773,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 73506,
+        "num": 73506,
+        "word": "一段关系结束的标志",
+        "onboard_time": 1708607074,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73307,
+        "num": 73307,
+        "word": "把学历改成高中后终于找到工作",
+        "onboard_time": 1708585294,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67166,
+        "num": 67166,
+        "word": "于正要拍仙侠剧",
+        "onboard_time": 1708621105,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67160,
+        "num": 67160,
+        "word": "郑在玹金泰妍搂肩",
+        "onboard_time": 1708602752,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64247,
+        "num": 64247,
+        "word": "白鹿敖瑞鹏回应吻戏",
+        "onboard_time": 1708609175,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64020,
+        "num": 64020,
+        "word": "鹿晗张云龙问路路透",
+        "onboard_time": 1708607616,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60122,
+        "num": 60122,
+        "word": "网传浪姐2024名单",
+        "onboard_time": 1708607496,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58404,
+        "num": 58404,
+        "word": "姚明看到进球瞬间表情亮了",
+        "onboard_time": 1708621285,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57780,
+        "num": 57780,
+        "word": "肖战台版GQ封面大片",
+        "onboard_time": 1708600175,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 56962,
+        "num": 56962,
+        "word": "EDG赛后发文致歉",
+        "onboard_time": 1708611095,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54323,
+        "num": 54323,
+        "word": "南京调休",
+        "onboard_time": 1708599570,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49980,
+        "num": 49980,
+        "word": "张艺谋对话雷军",
+        "onboard_time": 1708612718,
+        "rank": 46,
+        "category": "作品衍生,数码"
+      },
+      {
+        "raw_hot": 48693,
+        "num": 48693,
+        "word": "李兰迪黑色丝绒礼裙",
+        "onboard_time": 1708614693,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 46508,
+        "num": 46508,
+        "word": "宋慧乔韩剧同款芝士炸鸡",
+        "onboard_time": 1708606896,
+        "rank": 48,
+        "category": "美食,作品衍生"
+      },
+      {
+        "raw_hot": 46334,
+        "num": 46334,
+        "word": "周五爆改周四",
+        "onboard_time": 1708598373,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}
