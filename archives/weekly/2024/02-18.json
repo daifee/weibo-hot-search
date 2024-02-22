@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708615064497,
+  "endTime": 1708616068250,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -3868,7 +3868,7 @@
     },
     {
       "raw_hot": 505120,
-      "num": 380839,
+      "num": 490925,
       "word": "一旦出现这个姿势要立即就医",
       "onboard_time": 1708605694,
       "rank": 38,
@@ -3889,6 +3889,14 @@
       "onboard_time": 1708473151,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 502432,
+      "num": 502432,
+      "word": "孙千吃醋了",
+      "onboard_time": 1708614335,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 499770,
@@ -5155,6 +5163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 370358,
+      "num": 277621,
+      "word": "人生建议 永远别赚太辛苦的钱",
+      "onboard_time": 1708613616,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 370111,
       "num": 370111,
       "word": "因为不想回国被妈妈拉黑了",
@@ -5369,6 +5385,14 @@
       "onboard_time": 1708303414,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 352761,
+      "num": 283688,
+      "word": "快30岁还觉得自己像小孩",
+      "onboard_time": 1708613016,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 352505,
@@ -5651,14 +5675,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 331258,
-      "num": 283688,
-      "word": "快30岁还觉得自己像小孩",
-      "onboard_time": 1708613016,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 330152,
       "num": 330152,
       "word": "夏克立 我从来没有家暴",
@@ -5921,14 +5937,6 @@
       "onboard_time": 1708505012,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 315462,
-      "num": 277621,
-      "word": "人生建议 永远别赚太辛苦的钱",
-      "onboard_time": 1708613616,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 315066,
@@ -8331,6 +8339,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 225180,
+      "num": 225180,
+      "word": "戚薇时装周造型",
+      "onboard_time": 1708614455,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 225088,
       "num": 225088,
       "word": "沈腾杨洋军艺校草合成照",
@@ -8377,14 +8393,6 @@
       "onboard_time": 1708250372,
       "rank": 42,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 224264,
-      "num": 224264,
-      "word": "戚薇时装周造型",
-      "onboard_time": 1708614455,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 223515,
@@ -8753,14 +8761,6 @@
       "onboard_time": 1708478136,
       "rank": 38,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 215481,
-      "num": 215481,
-      "word": "孙千吃醋了",
-      "onboard_time": 1708614335,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 215353,
@@ -9489,6 +9489,14 @@
       "onboard_time": 1708262555,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199506,
+      "num": 199506,
+      "word": "马思纯谢谢大家还爱着黎吧啦",
+      "onboard_time": 1708616015,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 199264,
@@ -11025,6 +11033,14 @@
       "onboard_time": 1708518273,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172698,
+      "num": 172698,
+      "word": "Redmi显示器",
+      "onboard_time": 1708615773,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 172571,
@@ -12809,6 +12825,14 @@
       "onboard_time": 1708436500,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 137466,
+      "num": 137466,
+      "word": "伞兵回归NV首鸡",
+      "onboard_time": 1708615831,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 137439,

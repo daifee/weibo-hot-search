@@ -1,6 +1,6 @@
 {
   "startTime": 1708532526738,
-  "endTime": 1708615064497,
+  "endTime": 1708616068250,
   "band_list": [
     {
       "raw_hot": 7943085,
@@ -852,11 +852,19 @@
     },
     {
       "raw_hot": 505120,
-      "num": 380839,
+      "num": 490925,
       "word": "一旦出现这个姿势要立即就医",
       "onboard_time": 1708605694,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 502432,
+      "num": 502432,
+      "word": "孙千吃醋了",
+      "onboard_time": 1708614335,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 499099,
@@ -1115,6 +1123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 370358,
+      "num": 277621,
+      "word": "人生建议 永远别赚太辛苦的钱",
+      "onboard_time": 1708613616,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 369909,
       "num": 369909,
       "word": "四川游神",
@@ -1155,6 +1171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 352761,
+      "num": 283688,
+      "word": "快30岁还觉得自己像小孩",
+      "onboard_time": 1708613016,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 352505,
       "num": 352505,
       "word": "白鹿说妈妈是自己粉头",
@@ -1185,14 +1209,6 @@
       "onboard_time": 1708591473,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 331258,
-      "num": 283688,
-      "word": "快30岁还觉得自己像小孩",
-      "onboard_time": 1708613016,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 330152,
@@ -1265,14 +1281,6 @@
       "onboard_time": 1708520973,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 315462,
-      "num": 277621,
-      "word": "人生建议 永远别赚太辛苦的钱",
-      "onboard_time": 1708613616,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 309231,
@@ -1851,8 +1859,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 224264,
-      "num": 224264,
+      "raw_hot": 225180,
+      "num": 225180,
       "word": "戚薇时装周造型",
       "onboard_time": 1708614455,
       "rank": 29,
@@ -1953,14 +1961,6 @@
       "onboard_time": 1708584336,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 215481,
-      "num": 215481,
-      "word": "孙千吃醋了",
-      "onboard_time": 1708614335,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 212840,
@@ -2137,6 +2137,14 @@
       "onboard_time": 1708594175,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199506,
+      "num": 199506,
+      "word": "马思纯谢谢大家还爱着黎吧啦",
+      "onboard_time": 1708616015,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 199264,
@@ -2539,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172698,
+      "num": 172698,
+      "word": "Redmi显示器",
+      "onboard_time": 1708615773,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 172512,
       "num": 172512,
       "word": "AG新阵容首战",
@@ -2881,6 +2897,14 @@
       "onboard_time": 1708559850,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137466,
+      "num": 137466,
+      "word": "伞兵回归NV首鸡",
+      "onboard_time": 1708615831,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 135142,
