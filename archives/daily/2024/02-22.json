@@ -1,6 +1,6 @@
 {
   "startTime": 1708532526738,
-  "endTime": 1708590858310,
+  "endTime": 1708593491917,
   "band_list": [
     {
       "raw_hot": 7943085,
@@ -24,6 +24,14 @@
       "word": "广州南沙沥心沙大桥被船只撞断",
       "onboard_time": 1708565254,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2915457,
+      "num": 2915457,
+      "word": "娃哈哈创始人宗庆后在ICU抢救",
+      "onboard_time": 1708591831,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -152,6 +160,14 @@
       "word": "贵州山火",
       "onboard_time": 1708503634,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1353900,
+      "num": 1353900,
+      "word": "把学历改成高中后终于找到工作",
+      "onboard_time": 1708585294,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -291,11 +307,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 878343,
+      "num": 878343,
+      "word": "热巴拿蛋糕",
+      "onboard_time": 1708588473,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 823280,
       "num": 823280,
       "word": "中国人四年存了58.24万亿元",
       "onboard_time": 1708565974,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 815438,
+      "num": 815438,
+      "word": "民政部通报2.2亿元彩票大奖情况",
+      "onboard_time": 1708593036,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -305,14 +337,6 @@
       "onboard_time": 1708567595,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 800950,
-      "num": 800950,
-      "word": "热巴拿蛋糕",
-      "onboard_time": 1708588473,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 789059,
@@ -387,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 695742,
+      "num": 695742,
+      "word": "贵州全省共发生森林火情221起",
+      "onboard_time": 1708592375,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 691597,
       "num": 553201,
       "word": "柳鑫宇",
@@ -411,12 +443,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 648923,
+      "num": 648923,
+      "word": "南海救助局寻获2名罹难者遗体",
+      "onboard_time": 1708591534,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 648054,
       "num": 648054,
       "word": "极氪",
       "onboard_time": 1708584093,
       "rank": 10,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 639310,
+      "num": 639310,
+      "word": "佟丽娅短发炸毛",
+      "onboard_time": 1708591831,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 638018,
@@ -433,14 +481,6 @@
       "onboard_time": 1708560513,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 619207,
-      "num": 423262,
-      "word": "把学历改成高中后终于找到工作",
-      "onboard_time": 1708585294,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 598120,
@@ -627,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441241,
+      "num": 441241,
+      "word": "媒体评乙女游戏卷尺度现象",
+      "onboard_time": 1708590995,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 438021,
       "num": 415848,
       "word": "旅客坐飞机拍下贵州山火",
@@ -683,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400167,
+      "num": 400167,
+      "word": "永安梦定档",
+      "onboard_time": 1708593036,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 398133,
       "num": 398133,
       "word": "为啥就中国人看片要字幕",
@@ -704,6 +760,14 @@
       "word": "孙志刚被决定逮捕",
       "onboard_time": 1708567293,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371573,
+      "num": 371573,
+      "word": "医院回应宗庆后病情",
+      "onboard_time": 1708592615,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -776,6 +840,14 @@
       "word": "王鹤棣何猷君同框合影",
       "onboard_time": 1708562013,
       "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 334902,
+      "num": 334902,
+      "word": "拜托这可是欧阳兰",
+      "onboard_time": 1708591473,
+      "rank": 24,
       "category": "作品衍生"
     },
     {
@@ -891,6 +963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 281896,
+      "num": 281896,
+      "word": "当生活只剩下上班和下班",
+      "onboard_time": 1708590032,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 277859,
       "num": 277859,
       "word": "贵州山火消防员朋友圈家人不可见",
@@ -905,6 +985,14 @@
       "onboard_time": 1708587037,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 273913,
+      "num": 273913,
+      "word": "巴以冲突",
+      "onboard_time": 1708591236,
+      "rank": 27,
+      "category": "军事,国外时政"
     },
     {
       "raw_hot": 273878,
@@ -928,6 +1016,14 @@
       "word": "魏大勋坦坦荡荡后退一步",
       "onboard_time": 1708588299,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 268874,
+      "num": 268874,
+      "word": "观音桥你是真敢放啊",
+      "onboard_time": 1708592495,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -1219,6 +1315,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 214899,
+      "num": 214899,
+      "word": "粉丝P的杨紫簪花图",
+      "onboard_time": 1708592792,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211703,
       "num": 211703,
       "word": "你们山东吃这么硬的吗",
@@ -1291,6 +1395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203364,
+      "num": 203364,
+      "word": "孙千身上是有磁铁吗",
+      "onboard_time": 1708592976,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203323,
       "num": 203323,
       "word": "人车家全生态",
@@ -1321,6 +1433,14 @@
       "onboard_time": 1708587935,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 199264,
+      "num": 199264,
+      "word": "孙颖莎3比0李时温",
+      "onboard_time": 1708593036,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 198796,
@@ -1401,14 +1521,6 @@
       "onboard_time": 1708581876,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190270,
-      "num": 190270,
-      "word": "当生活只剩下上班和下班",
-      "onboard_time": 1708590032,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 189699,
@@ -1523,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179158,
+      "num": 179158,
+      "word": "王诗玥柳鑫宇自由舞第一",
+      "onboard_time": 1708591355,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178087,
       "num": 178087,
       "word": "这是养猫人的梦中情房吧",
@@ -1537,6 +1657,22 @@
       "onboard_time": 1708583314,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 175451,
+      "num": 175451,
+      "word": "孙颖莎开局连得8分",
+      "onboard_time": 1708592076,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 174091,
+      "num": 174091,
+      "word": "孩子呼吸道感染怎么吃好得快",
+      "onboard_time": 1708591534,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 172343,
@@ -1619,6 +1755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 163456,
+      "num": 163456,
+      "word": "边伯贤抢票",
+      "onboard_time": 1708593336,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162787,
       "num": 162787,
       "word": "NCTWISH出道",
@@ -1641,6 +1785,14 @@
       "onboard_time": 1708571313,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 158291,
+      "num": 158291,
+      "word": "沥心沙大桥居民现状",
+      "onboard_time": 1708593213,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157585,
@@ -2035,6 +2187,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 80601,
+      "num": 1356726,
+      "word": "鹊桥二号中继星择机发射",
+      "onboard_time": 1708592135,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 79106,
       "num": 79106,
       "word": "手机每天开关机到底好不好",
@@ -2225,6 +2385,14 @@
       "onboard_time": 1708553177,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 14522,
+      "num": 164591,
+      "word": "金沙江电池",
+      "onboard_time": 1708593036,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 14237,
