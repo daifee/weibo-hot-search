@@ -1,0 +1,410 @@
+{
+  "runTime": 1708586188607,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2572613,
+        "num": 2572613,
+        "word": "人民网评网红扮演赵世子",
+        "onboard_time": 1708580973,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1286390,
+        "num": 1286390,
+        "word": "中学男教师在办公室猥亵男生",
+        "onboard_time": 1708579053,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41895,
+        "num": 1179341,
+        "word": "无人机视角看雪后长城多壮美",
+        "onboard_time": 1708528656,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1117517,
+        "num": 1117517,
+        "word": "迪丽热巴白发异世精灵",
+        "onboard_time": 1708580198,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1104266,
+        "num": 1104266,
+        "word": "杜乐莹 我生下来是你妹妹",
+        "onboard_time": 1708583973,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1076767,
+        "num": 1076767,
+        "word": "外甥正月理发舅舅去世成被告",
+        "onboard_time": 1708572936,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 942668,
+        "num": 942668,
+        "word": "贵州山火原因",
+        "onboard_time": 1708584395,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 906540,
+        "num": 906540,
+        "word": "从怀孕到生娃十一个月的花销",
+        "onboard_time": 1708577740,
+        "rank": 7,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 904097,
+        "num": 904097,
+        "word": "考虫倒闭",
+        "onboard_time": 1708566813,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 710090,
+        "num": 710090,
+        "word": "俄网红美女带货无数实则是乌网红AI换脸",
+        "onboard_time": 1708582414,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610128,
+        "num": 610128,
+        "word": "极氪",
+        "onboard_time": 1708584093,
+        "rank": 10,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 550186,
+        "num": 550186,
+        "word": "45元一杯的酸奶你会买吗",
+        "onboard_time": 1708581574,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 530469,
+        "num": 530469,
+        "word": "武艺也看了花少热巴拿蛋糕",
+        "onboard_time": 1708583074,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 482550,
+        "num": 482550,
+        "word": "贵州森林火灾扑救难度有多大",
+        "onboard_time": 1708584336,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481901,
+        "num": 481901,
+        "word": "林志玲2岁儿子侧颜",
+        "onboard_time": 1708577022,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468368,
+        "num": 468368,
+        "word": "20集她戴了22副耳环",
+        "onboard_time": 1708576475,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445721,
+        "num": 445721,
+        "word": "王逗逗结婚",
+        "onboard_time": 1708585418,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 442184,
+        "num": 442184,
+        "word": "石雷鹏作文",
+        "onboard_time": 1708583433,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 391002,
+        "num": 391002,
+        "word": "迪丽热巴贵卡增加了",
+        "onboard_time": 1708585355,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 371254,
+        "num": 371254,
+        "word": "沥心沙大桥撞击时画面曝光",
+        "onboard_time": 1708580791,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370645,
+        "num": 370645,
+        "word": "咪蒙一个寒假靠2部短剧收入过亿",
+        "onboard_time": 1708576417,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325568,
+        "num": 325568,
+        "word": "华为Pocket2",
+        "onboard_time": 1708576899,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 320685,
+        "num": 320685,
+        "word": "把学历改成高中后终于找到工作",
+        "onboard_time": 1708585294,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304777,
+        "num": 304777,
+        "word": "撒贝宁何炅 元宵晚会同台",
+        "onboard_time": 1708576417,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298686,
+        "num": 298686,
+        "word": "飞机上偶遇邓超陈赫",
+        "onboard_time": 1708581633,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271144,
+        "num": 271144,
+        "word": "方正证券员工被爆料",
+        "onboard_time": 1708578636,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 266170,
+        "num": 266170,
+        "word": "专家建议将女性退休年龄延长到60岁",
+        "onboard_time": 1708564836,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261163,
+        "num": 261163,
+        "word": "我爸告诉亲戚我存款十万",
+        "onboard_time": 1708558286,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246919,
+        "num": 246919,
+        "word": "王梓薇癫婆式表演",
+        "onboard_time": 1708583794,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232718,
+        "num": 232718,
+        "word": "武艺说魏大勋腿很长需要慢慢追",
+        "onboard_time": 1708583252,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234905,
+        "num": 232037,
+        "word": "请把自己的作品P上去为亲朋好友上菜",
+        "onboard_time": 1708585052,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221598,
+        "num": 221598,
+        "word": "华为时尚盛典",
+        "onboard_time": 1708583494,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 216500,
+        "num": 216500,
+        "word": "张朝阳称被卫星砸中与被雷劈概率一样",
+        "onboard_time": 1708584336,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 207770,
+        "num": 207770,
+        "word": "官方通报沥心沙大桥事故情况",
+        "onboard_time": 1708567053,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100053,
+        "num": 196658,
+        "word": "华为Pocket2大溪地灰",
+        "onboard_time": 1708585717,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 191791,
+        "num": 191791,
+        "word": "咪蒙出品我在八零年代当后妈",
+        "onboard_time": 1708574319,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188905,
+        "num": 188905,
+        "word": "17名博硕士研发的方便面里真的有肉",
+        "onboard_time": 1708574438,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186033,
+        "num": 186033,
+        "word": "孕晚期有多辛苦",
+        "onboard_time": 1708584876,
+        "rank": 37,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 182195,
+        "num": 182195,
+        "word": "涉事船舶公司回应撞断沥心沙大桥",
+        "onboard_time": 1708585955,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180728,
+        "num": 180728,
+        "word": "Letme说RNG需要整顿",
+        "onboard_time": 1708585294,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166611,
+        "num": 166611,
+        "word": "男子造谣讲粤语被罚款被刑拘",
+        "onboard_time": 1708585535,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162499,
+        "num": 162499,
+        "word": "炸狗盆",
+        "onboard_time": 1708576475,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158898,
+        "num": 158898,
+        "word": "黄正音再次提出离婚",
+        "onboard_time": 1708576958,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157104,
+        "num": 157104,
+        "word": "一种很新的围炉煮茶",
+        "onboard_time": 1708584395,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152585,
+        "num": 152585,
+        "word": "人鱼陷落",
+        "onboard_time": 1708585895,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 145846,
+        "num": 145846,
+        "word": "XYG对战WE",
+        "onboard_time": 1708584336,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144384,
+        "num": 144384,
+        "word": "宋雨琦安宥真G社生图",
+        "onboard_time": 1708579836,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143229,
+        "num": 143229,
+        "word": "鹿晗五哈贵州路透",
+        "onboard_time": 1708581876,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142516,
+        "num": 142516,
+        "word": "亲密关系的本质",
+        "onboard_time": 1708581335,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135036,
+        "num": 135036,
+        "word": "贵州山火消防员朋友圈家人不可见",
+        "onboard_time": 1708576899,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}
