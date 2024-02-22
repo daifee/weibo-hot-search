@@ -1,6 +1,6 @@
 {
   "startTime": 1708532526738,
-  "endTime": 1708600465762,
+  "endTime": 1708601643958,
   "band_list": [
     {
       "raw_hot": 7943085,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1974704,
+      "num": 1974704,
+      "word": "周五爆改周四",
+      "onboard_time": 1708598373,
+      "rank": 1,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1950773,
       "num": 1950773,
       "word": "迪丽热巴白发异世精灵",
@@ -171,6 +179,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 1440062,
+      "num": 1440062,
+      "word": "南京调休",
+      "onboard_time": 1708599570,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1395009,
       "num": 1395009,
       "word": "贵州山火",
@@ -185,14 +201,6 @@
       "onboard_time": 1708589257,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1269798,
-      "num": 1269798,
-      "word": "周五爆改周四",
-      "onboard_time": 1708598373,
-      "rank": 1,
-      "category": "幽默"
     },
     {
       "raw_hot": 1252859,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1032419,
+      "num": 1032419,
+      "word": "cos赵世子男网红账号被禁言",
+      "onboard_time": 1708599095,
+      "rank": 6,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1018422,
       "num": 1018422,
       "word": "要睡多久觉才能把黑眼圈睡没",
@@ -323,6 +339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 914182,
+      "num": 632070,
+      "word": "生理性喜欢",
+      "onboard_time": 1708598853,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 906576,
       "num": 906576,
       "word": "近期高发的嗓子疼可能是这种急症",
@@ -353,14 +377,6 @@
       "onboard_time": 1708588473,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 863357,
-      "num": 632070,
-      "word": "生理性喜欢",
-      "onboard_time": 1708598853,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 844057,
@@ -441,14 +457,6 @@
       "onboard_time": 1708590995,
       "rank": 16,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 716899,
-      "num": 716899,
-      "word": "cos赵世子男网红账号被禁言",
-      "onboard_time": 1708599095,
-      "rank": 6,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 716475,
@@ -579,6 +587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 590255,
+      "num": 590255,
+      "word": "宗庆后女儿回应",
+      "onboard_time": 1708600414,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 576163,
       "num": 576163,
       "word": "考虫图书品全部下架",
@@ -617,6 +633,14 @@
       "onboard_time": 1708567893,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 543579,
+      "num": 543579,
+      "word": "娃哈哈声明",
+      "onboard_time": 1708600833,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 542865,
@@ -779,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 421000,
-      "num": 421000,
-      "word": "南京调休",
-      "onboard_time": 1708599570,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 420060,
       "num": 311372,
       "word": "男孩吞下整根牙刷隐瞒了2天",
@@ -843,12 +859,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 397830,
+      "num": 368934,
+      "word": "普通情侣一年的年收入",
+      "onboard_time": 1708600295,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 387392,
       "num": 165782,
       "word": "人鱼陷落",
       "onboard_time": 1708585895,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 384017,
+      "num": 384017,
+      "word": "小米14ultra",
+      "onboard_time": 1708600833,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 381248,
@@ -907,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360419,
+      "num": 360419,
+      "word": "2.2亿元彩票大奖得主无须缴纳个人所得税",
+      "onboard_time": 1708600715,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359117,
       "num": 359117,
       "word": "车厘子草莓价格回落",
@@ -963,6 +1003,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328728,
+      "num": 328728,
+      "word": "粥饼伦称自己和周杰伦长得不像",
+      "onboard_time": 1708601374,
+      "rank": 24,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 326053,
+      "num": 326053,
+      "word": "檀健次方否认网传杂志封面",
+      "onboard_time": 1708600354,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 325568,
       "num": 325568,
       "word": "华为Pocket2",
@@ -979,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321175,
+      "num": 321175,
+      "word": "肖战台版GQ封面大片",
+      "onboard_time": 1708600175,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 315805,
       "num": 315805,
       "word": "姚安娜演技",
@@ -993,6 +1057,14 @@
       "onboard_time": 1708575037,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 303611,
+      "num": 303611,
+      "word": "九尾与LGD成立新公司",
+      "onboard_time": 1708599033,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 300980,
@@ -1075,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285909,
+      "num": 285909,
+      "word": "樊振东vs松岛辉空",
+      "onboard_time": 1708601496,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283199,
       "num": 283199,
       "word": "代号鸢打不过",
@@ -1099,12 +1179,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 278608,
-      "num": 278608,
-      "word": "九尾与LGD成立新公司",
-      "onboard_time": 1708599033,
-      "rank": 25,
-      "category": "电竞"
+      "raw_hot": 279457,
+      "num": 279457,
+      "word": "国乒男团vs日本男团",
+      "onboard_time": 1708600954,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 278008,
@@ -1220,7 +1300,7 @@
     },
     {
       "raw_hot": 255862,
-      "num": 229508,
+      "num": 246940,
       "word": "父母是坐在副驾上的人",
       "onboard_time": 1708599513,
       "rank": 30,
@@ -1275,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248973,
+      "num": 248973,
+      "word": "05后大学生将宿舍爆改成家",
+      "onboard_time": 1708601074,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247430,
       "num": 247430,
       "word": "你感染了几次新冠",
@@ -1313,14 +1401,6 @@
       "onboard_time": 1708578037,
       "rank": 31,
       "category": "财经"
-    },
-    {
-      "raw_hot": 242822,
-      "num": 242822,
-      "word": "檀健次方否认网传杂志封面",
-      "onboard_time": 1708600354,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 241413,
@@ -1441,6 +1521,14 @@
       "onboard_time": 1708572276,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 223125,
+      "num": 223125,
+      "word": "ENHYPEN一场酣畅淋漓的汗流浃背",
+      "onboard_time": 1708601013,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 222046,
@@ -1699,14 +1787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193883,
-      "num": 193883,
-      "word": "肖战台版GQ封面大片",
-      "onboard_time": 1708600175,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 193564,
       "num": 193564,
       "word": "这根本难不倒魏大勋",
@@ -1787,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189107,
+      "num": 189107,
+      "word": "NCTDREAM黄色浴袍舞台",
+      "onboard_time": 1708601434,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186787,
       "num": 165301,
       "word": "嗓子疼可能是一种凶险的急症",
@@ -1841,14 +1929,6 @@
       "onboard_time": 1708595854,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 182859,
-      "num": 182859,
-      "word": "宗庆后女儿回应",
-      "onboard_time": 1708600414,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180903,
@@ -1963,14 +2043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173030,
-      "num": 173030,
-      "word": "普通情侣一年的年收入",
-      "onboard_time": 1708600295,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 172512,
       "num": 172512,
       "word": "AG新阵容首战",
@@ -2009,6 +2081,14 @@
       "onboard_time": 1708573658,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169506,
+      "num": 169506,
+      "word": "泰妍To.X舞台",
+      "onboard_time": 1708600414,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 168653,
@@ -2201,14 +2281,6 @@
       "onboard_time": 1708509272,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 143617,
-      "num": 143617,
-      "word": "泰妍To.X舞台",
-      "onboard_time": 1708600414,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 142257,
