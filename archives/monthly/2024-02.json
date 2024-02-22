@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708608876382,
+  "endTime": 1708611450586,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1089,6 +1089,14 @@
       "onboard_time": 1707306875,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2516106,
+      "num": 2516106,
+      "word": "青簪行 定档",
+      "onboard_time": 1708610197,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2501889,
@@ -2857,6 +2865,14 @@
       "onboard_time": 1708224994,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1622537,
+      "num": 1622537,
+      "word": "张继科重回蝴蝶乒乓中国官网",
+      "onboard_time": 1708608033,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1621164,
@@ -7835,6 +7851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 861102,
+      "num": 861102,
+      "word": "当一个江浙沪赘婿决定离婚",
+      "onboard_time": 1708605994,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 860623,
       "num": 860623,
       "word": "佟梦实是五竹叔",
@@ -9201,6 +9225,14 @@
       "onboard_time": 1707918937,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 772131,
+      "num": 772131,
+      "word": "Gucci和Tods接机肖战",
+      "onboard_time": 1708609474,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 769830,
@@ -10651,6 +10683,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 687786,
+      "num": 687786,
+      "word": "断崖式衰老常发生在3个年龄",
+      "onboard_time": 1708602814,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 687062,
       "num": 600028,
       "word": "魔术 分秒不差",
@@ -10929,14 +10969,6 @@
       "onboard_time": 1708413160,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 675738,
-      "num": 675738,
-      "word": "当一个江浙沪赘婿决定离婚",
-      "onboard_time": 1708605994,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 675481,
@@ -11219,14 +11251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 665041,
-      "num": 665041,
-      "word": "张继科重回蝴蝶乒乓中国官网",
-      "onboard_time": 1708608033,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 664376,
       "num": 664376,
       "word": "他的性别生来就是老公",
@@ -11457,6 +11481,14 @@
       "onboard_time": 1708057953,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 653005,
+      "num": 653005,
+      "word": "青簪行 簪中录",
+      "onboard_time": 1708610735,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 651231,
@@ -14475,14 +14507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 534948,
-      "num": 343474,
-      "word": "断崖式衰老常发生在3个年龄",
-      "onboard_time": 1708602814,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 534611,
       "num": 513844,
       "word": "偶遇沈腾一家三口",
@@ -14625,6 +14649,14 @@
       "onboard_time": 1707527981,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 529705,
+      "num": 529705,
+      "word": "柿柿如意汤圆火了",
+      "onboard_time": 1708604135,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 529598,
@@ -15611,6 +15643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499024,
+      "num": 380839,
+      "word": "一旦出现这个姿势要立即就医",
+      "onboard_time": 1708605694,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 499001,
       "num": 499001,
       "word": "意大利国家级电视台将直播央视龙年春晚",
@@ -16051,14 +16091,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 487347,
-      "num": 362114,
-      "word": "一旦出现这个姿势要立即就医",
-      "onboard_time": 1708605694,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 487276,
       "num": 487276,
       "word": "汪苏泷声生不息音源冠军",
@@ -16353,6 +16385,14 @@
       "onboard_time": 1708314813,
       "rank": 21,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 478920,
+      "num": 478920,
+      "word": "王诗玥柳鑫宇十四冬夺冠",
+      "onboard_time": 1708608820,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 478909,
@@ -16996,7 +17036,7 @@
     },
     {
       "raw_hot": 455969,
-      "num": 359200,
+      "num": 372665,
       "word": "浙江一17岁学生确诊肠癌",
       "onboard_time": 1708604856,
       "rank": 41,
@@ -17313,14 +17353,6 @@
       "onboard_time": 1707742654,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 444818,
-      "num": 428498,
-      "word": "柿柿如意汤圆火了",
-      "onboard_time": 1708604135,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 444090,
@@ -22843,6 +22875,14 @@
       "category": "运动健身,体育"
     },
     {
+      "raw_hot": 326816,
+      "num": 326816,
+      "word": "白鹿敖瑞鹏回应吻戏",
+      "onboard_time": 1708609175,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326635,
       "num": 326635,
       "word": "周深去年小兔子今年小龙人",
@@ -25073,6 +25113,14 @@
       "onboard_time": 1708063594,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 294264,
+      "num": 294264,
+      "word": "师生恋为什么很难说是两情相悦",
+      "onboard_time": 1708607796,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 294008,
@@ -28923,14 +28971,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 250493,
-      "num": 250493,
-      "word": "师生恋为什么很难说是两情相悦",
-      "onboard_time": 1708607796,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 250483,
       "num": 250483,
       "word": "喝茶刮油其实刮的大多是水",
@@ -29739,6 +29779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243190,
+      "num": 243190,
+      "word": "克罗斯重返德国国家队",
+      "onboard_time": 1708609835,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243025,
       "num": 243025,
       "word": "当小狗突然意识到自己长了尾巴",
@@ -29753,6 +29801,14 @@
       "onboard_time": 1708145852,
       "rank": 28,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 242756,
+      "num": 242756,
+      "word": "人在坐高铁时能有多不自信",
+      "onboard_time": 1708609777,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 242693,
@@ -30577,6 +30633,14 @@
       "onboard_time": 1707579933,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235548,
+      "num": 235548,
+      "word": "小米14Ultra起售价6499元",
+      "onboard_time": 1708610017,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 235503,
@@ -32075,6 +32139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 224188,
+      "num": 224188,
+      "word": "EDG赛后发文致歉",
+      "onboard_time": 1708611095,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 224182,
       "num": 224182,
       "word": "这样过年省下一两万",
@@ -33297,6 +33369,14 @@
       "onboard_time": 1708323519,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216509,
+      "num": 216509,
+      "word": "中国男篮31分大胜蒙古",
+      "onboard_time": 1708608997,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 216500,
@@ -36259,6 +36339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200656,
+      "num": 200656,
+      "word": "WB零封EDGM",
+      "onboard_time": 1708610797,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200626,
       "num": 215678,
       "word": "乔丹儿子与皮蓬前妻分手",
@@ -36937,6 +37025,14 @@
       "onboard_time": 1707372508,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197322,
+      "num": 197322,
+      "word": "什么叫裁员裁到大动脉了",
+      "onboard_time": 1708611338,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 197270,
@@ -40539,6 +40635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180660,
+      "num": 180660,
+      "word": "马龙3比1篠塚大登",
+      "onboard_time": 1708611338,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180659,
       "num": 180659,
       "word": "摩羯座的张小斐 隐忍又强大",
@@ -40881,6 +40985,14 @@
       "onboard_time": 1707289350,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178978,
+      "num": 178978,
+      "word": "宋慧乔韩剧同款芝士炸鸡",
+      "onboard_time": 1708606896,
+      "rank": 40,
+      "category": "美食,作品衍生"
     },
     {
       "raw_hot": 178947,
@@ -42089,14 +42201,6 @@
       "onboard_time": 1706876609,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 173548,
-      "num": 173548,
-      "word": "宋慧乔韩剧同款芝士炸鸡",
-      "onboard_time": 1708606896,
-      "rank": 40,
-      "category": "美食,作品衍生"
     },
     {
       "raw_hot": 173524,
@@ -47731,6 +47835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147624,
+      "num": 528158,
+      "word": "张艺谋雷军",
+      "onboard_time": 1708608697,
+      "rank": 44,
+      "category": "作品衍生,数码"
+    },
+    {
       "raw_hot": 147552,
       "num": 147552,
       "word": "贾玲雷佳音爸爸客串热辣滚烫",
@@ -49153,14 +49265,6 @@
       "onboard_time": 1707275610,
       "rank": 41,
       "category": "艺人,游戏"
-    },
-    {
-      "raw_hot": 141515,
-      "num": 141515,
-      "word": "王诗玥柳鑫宇十四冬夺冠",
-      "onboard_time": 1708608820,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 141447,
@@ -57163,14 +57267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87734,
-      "num": 150129,
-      "word": "张艺谋雷军",
-      "onboard_time": 1708608697,
-      "rank": 44,
-      "category": "作品衍生,数码"
-    },
-    {
       "raw_hot": 87134,
       "num": 89984,
       "word": "2024LCK",
@@ -57849,6 +57945,14 @@
       "onboard_time": 1706904018,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 73785,
+      "num": 1477281,
+      "word": "南腔北调见证冰雪运动热力十足",
+      "onboard_time": 1708608457,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 73763,
@@ -59505,14 +59609,6 @@
       "onboard_time": 1707688456,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 37909,
-      "num": 830474,
-      "word": "南腔北调见证冰雪运动热力十足",
-      "onboard_time": 1708608457,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 37803,
