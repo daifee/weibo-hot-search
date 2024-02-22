@@ -1,7 +1,15 @@
 {
   "startTime": 1708532526738,
-  "endTime": 1708569244476,
+  "endTime": 1708571884722,
   "band_list": [
+    {
+      "raw_hot": 4141606,
+      "num": 4783213,
+      "word": "官方通报沥心沙大桥事故情况",
+      "onboard_time": 1708567053,
+      "rank": 23,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3468266,
       "num": 3468266,
@@ -11,16 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3253903,
-      "num": 3253903,
-      "word": "官方通报沥心沙大桥事故情况",
-      "onboard_time": 1708567053,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2562521,
-      "num": 2562521,
+      "raw_hot": 2750419,
+      "num": 2750419,
       "word": "考虫倒闭",
       "onboard_time": 1708566813,
       "rank": 11,
@@ -123,6 +123,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 823280,
+      "num": 823280,
+      "word": "中国人四年存了58.24万亿元",
+      "onboard_time": 1708565974,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 813270,
+      "num": 813270,
+      "word": "郑州一海洋馆潜水员在馆内溺亡",
+      "onboard_time": 1708567595,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 762986,
       "num": 762986,
       "word": "狂飙麻子爆改",
@@ -147,11 +163,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 729961,
-      "num": 729961,
-      "word": "中国人四年存了58.24万亿元",
-      "onboard_time": 1708565974,
-      "rank": 9,
+      "raw_hot": 720335,
+      "num": 720335,
+      "word": "撞断沥心沙大桥船主已被控制",
+      "onboard_time": 1708570534,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -203,14 +219,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 617645,
-      "num": 548797,
-      "word": "郑州一海洋馆潜水员在馆内溺亡",
-      "onboard_time": 1708567595,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 557458,
       "num": 557458,
       "word": "曾黎全网找yuzheng",
@@ -227,20 +235,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 549004,
+      "num": 360897,
+      "word": "父母有退休金真的挺重要",
+      "onboard_time": 1708567893,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 542865,
+      "num": 542865,
+      "word": "沥心沙大桥上掉落公交只有1司机",
+      "onboard_time": 1708569694,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537790,
+      "num": 537790,
+      "word": "瑞幸心理价位9块9",
+      "onboard_time": 1708567833,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 519638,
       "num": 519638,
       "word": "阿媒称梅西为国家队带来经济损失",
       "onboard_time": 1708526977,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 514855,
-      "num": 360897,
-      "word": "父母有退休金真的挺重要",
-      "onboard_time": 1708567893,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 506127,
@@ -256,6 +280,14 @@
       "word": "专家建议给三孩家庭购房打五折",
       "onboard_time": 1708564653,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441839,
+      "num": 441839,
+      "word": "退税预约",
+      "onboard_time": 1708568494,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -299,12 +331,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 400883,
+      "num": 400883,
+      "word": "刘浩存免除黑粉赔偿",
+      "onboard_time": 1708569513,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398133,
       "num": 398133,
       "word": "为啥就中国人看片要字幕",
       "onboard_time": 1708506455,
       "rank": 11,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 379945,
+      "num": 379945,
+      "word": "白鹿爱奇艺国际版代言人官宣",
+      "onboard_time": 1708570835,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 378634,
@@ -339,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356486,
+      "num": 356486,
+      "word": "车厘子草莓价格回落",
+      "onboard_time": 1708567953,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 356157,
       "num": 356157,
       "word": "任嘉伦外媒生图",
@@ -347,20 +403,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 339412,
+      "num": 339412,
+      "word": "3个月4个苹果副总裁离职",
+      "onboard_time": 1708570174,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 338779,
       "num": 338779,
       "word": "王鹤棣何猷君同框合影",
       "onboard_time": 1708562013,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 338095,
-      "num": 338095,
-      "word": "瑞幸心理价位9块9",
-      "onboard_time": 1708567833,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 330152,
@@ -393,6 +449,22 @@
       "onboard_time": 1708562013,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 295037,
+      "num": 224539,
+      "word": "旅客坐飞机拍下贵州山火",
+      "onboard_time": 1708571073,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293554,
+      "num": 293554,
+      "word": "倪妮微醺感芭莎封面大片",
+      "onboard_time": 1708571673,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 292408,
@@ -475,14 +547,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 246943,
-      "num": 246943,
-      "word": "车厘子草莓价格回落",
-      "onboard_time": 1708567953,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 244976,
       "num": 244976,
       "word": "浙江省的省饮料是什么",
@@ -507,14 +571,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 222615,
-      "num": 222615,
-      "word": "退税预约",
-      "onboard_time": 1708568494,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221765,
       "num": 221765,
       "word": "韩网锐评朴振英泡泡",
@@ -531,12 +587,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 219962,
+      "num": 219962,
+      "word": "为什么强势的人反而更受欢迎",
+      "onboard_time": 1708571433,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217821,
       "num": 211817,
       "word": "肖战车厢大片",
       "onboard_time": 1708559428,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211703,
+      "num": 211703,
+      "word": "你们山东吃这么硬的吗",
+      "onboard_time": 1708570295,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 209161,
+      "num": 209161,
+      "word": "别对我动心",
+      "onboard_time": 1708569094,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 207632,
@@ -595,6 +675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189401,
+      "num": 189401,
+      "word": "学刘姥姥心态去上班再也不会内耗",
+      "onboard_time": 1708568974,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189113,
       "num": 189113,
       "word": "沥心沙大桥航段路面临时交通管制",
@@ -611,6 +699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 186685,
+      "num": 186685,
+      "word": "中国香港女团vs中国台北女团",
+      "onboard_time": 1708570114,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180488,
       "num": 180488,
       "word": "偷看主人的萨摩耶宝宝",
@@ -625,6 +721,14 @@
       "onboard_time": 1708523073,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173381,
+      "num": 173381,
+      "word": "林一最有cp感女主",
+      "onboard_time": 1708571854,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 171694,
@@ -649,14 +753,6 @@
       "onboard_time": 1708498175,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 168511,
-      "num": 168511,
-      "word": "别对我动心",
-      "onboard_time": 1708569094,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 165451,
@@ -699,12 +795,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 162017,
-      "num": 162017,
-      "word": "学刘姥姥心态去上班再也不会内耗",
-      "onboard_time": 1708568974,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 161341,
+      "num": 161341,
+      "word": "全国各省的省饮料申请出战",
+      "onboard_time": 1708571313,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 160891,
+      "num": 160891,
+      "word": "中金称有必要更大幅度下调存款利率",
+      "onboard_time": 1708571793,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 156408,
