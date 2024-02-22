@@ -1,6 +1,6 @@
 {
   "startTime": 1708532526738,
-  "endTime": 1708575567843,
+  "endTime": 1708576441123,
   "band_list": [
     {
       "raw_hot": 7943085,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4542084,
+      "raw_hot": 4781657,
       "num": 2014049,
       "word": "外甥正月理发舅舅去世成被告",
       "onboard_time": 1708572936,
@@ -83,8 +83,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1170030,
-      "num": 1170030,
+      "raw_hot": 1395009,
+      "num": 1395009,
       "word": "贵州山火",
       "onboard_time": 1708503634,
       "rank": 45,
@@ -129,6 +129,14 @@
       "onboard_time": 1708524458,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 918009,
+      "num": 918009,
+      "word": "杨国福换logo",
+      "onboard_time": 1708573837,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 906576,
@@ -203,19 +211,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 719412,
-      "num": 719412,
-      "word": "杨国福换logo",
-      "onboard_time": 1708573837,
-      "rank": 7,
-      "category": "美食"
-    },
-    {
       "raw_hot": 716475,
       "num": 716475,
       "word": "广州沥心沙大桥被船只撞断有车辆落水",
       "onboard_time": 1708566093,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 711086,
+      "num": 711086,
+      "word": "咪蒙出品我在八零年代当后妈",
+      "onboard_time": 1708574319,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 703676,
+      "num": 703676,
+      "word": "17名博硕士研发的方便面里真的有肉",
+      "onboard_time": 1708574438,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -307,14 +323,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 494179,
-      "num": 494179,
-      "word": "咪蒙出品我在八零年代当后妈",
-      "onboard_time": 1708574319,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 486933,
       "num": 486933,
       "word": "专家建议给三孩家庭购房打五折",
@@ -329,14 +337,6 @@
       "onboard_time": 1708570835,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 459638,
-      "num": 459638,
-      "word": "17名博硕士研发的方便面里真的有肉",
-      "onboard_time": 1708574438,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 449098,
@@ -499,6 +499,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306240,
+      "num": 306240,
+      "word": "考虫回应倒闭传闻",
+      "onboard_time": 1708575037,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 298038,
+      "num": 289594,
+      "word": "为什么强势的人反而更受欢迎",
+      "onboard_time": 1708571433,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 295905,
       "num": 295905,
       "word": "陈哲远泰国",
@@ -513,14 +529,6 @@
       "onboard_time": 1708562013,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 294552,
-      "num": 289594,
-      "word": "为什么强势的人反而更受欢迎",
-      "onboard_time": 1708571433,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 293554,
@@ -603,14 +611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247482,
-      "num": 247482,
-      "word": "考虫回应倒闭传闻",
-      "onboard_time": 1708575037,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 247430,
       "num": 247430,
       "word": "你感染了几次新冠",
@@ -643,12 +643,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 235929,
+      "num": 206702,
+      "word": "小侄女问我辞职后怎么赚钱",
+      "onboard_time": 1708576296,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235365,
       "num": 235365,
       "word": "直击广州沥心沙大桥救援现场",
       "onboard_time": 1708572575,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235140,
+      "num": 235140,
+      "word": "章若楠凡人歌杀青",
+      "onboard_time": 1708575275,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 227252,
@@ -713,6 +729,14 @@
       "onboard_time": 1708570295,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 210208,
+      "num": 210208,
+      "word": "鹿晗实体专辑",
+      "onboard_time": 1708575581,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 209161,
@@ -851,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172277,
+      "num": 172277,
+      "word": "咪蒙一个寒假靠2部短剧收入过亿",
+      "onboard_time": 1708576417,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171694,
       "num": 171694,
       "word": "艾弗森评选NBA历史最佳阵容",
@@ -881,14 +913,6 @@
       "onboard_time": 1708498175,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167151,
-      "num": 167151,
-      "word": "章若楠凡人歌杀青",
-      "onboard_time": 1708575275,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 165451,
@@ -937,6 +961,22 @@
       "onboard_time": 1708571313,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 157585,
+      "num": 157585,
+      "word": "工作我有四不做",
+      "onboard_time": 1708576119,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 156831,
+      "num": 156831,
+      "word": "撒贝宁何炅 元宵晚会同台",
+      "onboard_time": 1708576417,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 156408,
@@ -1259,6 +1299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 71800,
+      "num": 2181448,
+      "word": "无人机视角看雪后长城多壮美",
+      "onboard_time": 1708528656,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70117,
       "num": 70117,
       "word": "高铁晚点",
@@ -1393,14 +1441,6 @@
       "onboard_time": 1708503634,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 24927,
-      "num": 2181448,
-      "word": "无人机视角看雪后长城多壮美",
-      "onboard_time": 1708528656,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21415,

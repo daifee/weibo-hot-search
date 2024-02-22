@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708575567843,
+  "endTime": 1708576441123,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -59,20 +59,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 4781657,
+      "num": 2014049,
+      "word": "外甥正月理发舅舅去世成被告",
+      "onboard_time": 1708572936,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4580625,
       "num": 4580625,
       "word": "乐华为王一博报警",
       "onboard_time": 1708419280,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4542084,
-      "num": 2014049,
-      "word": "外甥正月理发舅舅去世成被告",
-      "onboard_time": 1708572936,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 4476995,
@@ -883,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1395009,
+      "num": 1395009,
+      "word": "贵州山火",
+      "onboard_time": 1708310857,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1391956,
       "num": 1391956,
       "word": "花滑协会回应柳鑫宇事件",
@@ -1209,14 +1217,6 @@
       "onboard_time": 1708314937,
       "rank": 5,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 1170030,
-      "num": 1170030,
-      "word": "贵州山火",
-      "onboard_time": 1708310857,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1163774,
@@ -1601,6 +1601,14 @@
       "onboard_time": 1708414835,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 918009,
+      "num": 918009,
+      "word": "杨国福换logo",
+      "onboard_time": 1708573837,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 916967,
@@ -2163,14 +2171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 719412,
-      "num": 719412,
-      "word": "杨国福换logo",
-      "onboard_time": 1708573837,
-      "rank": 7,
-      "category": "美食"
-    },
-    {
       "raw_hot": 717898,
       "num": 717898,
       "word": "山东泰山晋级亚冠八强",
@@ -2211,6 +2211,14 @@
       "category": "动漫,网红"
     },
     {
+      "raw_hot": 711086,
+      "num": 711086,
+      "word": "咪蒙出品我在八零年代当后妈",
+      "onboard_time": 1708574319,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 708848,
       "num": 708848,
       "word": "亲爱的她确认引进内地",
@@ -2249,6 +2257,14 @@
       "onboard_time": 1708181916,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 703676,
+      "num": 703676,
+      "word": "17名博硕士研发的方便面里真的有肉",
+      "onboard_time": 1708574438,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 698991,
@@ -3395,14 +3411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 494179,
-      "num": 494179,
-      "word": "咪蒙出品我在八零年代当后妈",
-      "onboard_time": 1708574319,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 491638,
       "num": 491638,
       "word": "蕉太狼",
@@ -3657,14 +3665,6 @@
       "onboard_time": 1708314034,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 459638,
-      "num": 459638,
-      "word": "17名博硕士研发的方便面里真的有肉",
-      "onboard_time": 1708574438,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 456107,
@@ -5299,6 +5299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306240,
+      "num": 306240,
+      "word": "考虫回应倒闭传闻",
+      "onboard_time": 1708575037,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 306201,
       "num": 306201,
       "word": "这单外卖我能吹一辈子",
@@ -5499,6 +5507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298038,
+      "num": 289594,
+      "word": "为什么强势的人反而更受欢迎",
+      "onboard_time": 1708571433,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 297867,
       "num": 297867,
       "word": "陈丽君生图",
@@ -5585,14 +5601,6 @@
       "onboard_time": 1708229554,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 294552,
-      "num": 289594,
-      "word": "为什么强势的人反而更受欢迎",
-      "onboard_time": 1708571433,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 293554,
@@ -6531,14 +6539,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 247482,
-      "num": 247482,
-      "word": "考虫回应倒闭传闻",
-      "onboard_time": 1708575037,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 247430,
       "num": 247430,
       "word": "你感染了几次新冠",
@@ -6851,6 +6851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235929,
+      "num": 206702,
+      "word": "小侄女问我辞职后怎么赚钱",
+      "onboard_time": 1708576296,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235365,
       "num": 235365,
       "word": "直击广州沥心沙大桥救援现场",
@@ -6865,6 +6873,14 @@
       "onboard_time": 1708404640,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 235140,
+      "num": 235140,
+      "word": "章若楠凡人歌杀青",
+      "onboard_time": 1708575275,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 235041,
@@ -7665,6 +7681,14 @@
       "onboard_time": 1708249655,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210208,
+      "num": 210208,
+      "word": "鹿晗实体专辑",
+      "onboard_time": 1708575581,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 210178,
@@ -9371,6 +9395,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 172277,
+      "num": 172277,
+      "word": "咪蒙一个寒假靠2部短剧收入过亿",
+      "onboard_time": 1708576417,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172234,
       "num": 172234,
       "word": "车企价格战",
@@ -9617,14 +9649,6 @@
       "onboard_time": 1708329999,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 167151,
-      "num": 167151,
-      "word": "章若楠凡人歌杀青",
-      "onboard_time": 1708575275,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 166967,
@@ -10059,6 +10083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157585,
+      "num": 157585,
+      "word": "工作我有四不做",
+      "onboard_time": 1708576119,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157545,
       "num": 157545,
       "word": "痛经喝煎荷包蛋冲红米酒做法",
@@ -10105,6 +10137,14 @@
       "onboard_time": 1708240294,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156831,
+      "num": 156831,
+      "word": "撒贝宁何炅 元宵晚会同台",
+      "onboard_time": 1708576417,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 156738,
@@ -11779,6 +11819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71800,
+      "num": 2181448,
+      "word": "无人机视角看雪后长城多壮美",
+      "onboard_time": 1708528656,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70819,
       "num": 1382038,
       "word": "新质生产力成多地新春第一会热词",
@@ -12217,14 +12265,6 @@
       "onboard_time": 1708375576,
       "rank": 24,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 24927,
-      "num": 2181448,
-      "word": "无人机视角看雪后长城多壮美",
-      "onboard_time": 1708528656,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24525,
