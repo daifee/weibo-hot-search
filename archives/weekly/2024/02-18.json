@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708644052563,
+  "endTime": 1708644849809,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -2627,6 +2627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 705387,
+      "num": 705387,
+      "word": "身体出现这5个迹象说明你累过头了",
+      "onboard_time": 1708642822,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 698991,
       "num": 362382,
       "word": "我爸告诉亲戚我存款十万",
@@ -2801,6 +2809,14 @@
       "onboard_time": 1708265195,
       "rank": 22,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 670927,
+      "num": 670927,
+      "word": "新冠或是首个X疾病",
+      "onboard_time": 1708643784,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 668991,
@@ -4299,14 +4315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 453450,
-      "num": 186266,
-      "word": "身体出现这5个迹象说明你累过头了",
-      "onboard_time": 1708642822,
-      "rank": 10,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 453371,
       "num": 453371,
       "word": "金智秀个人工作室成立",
@@ -5715,6 +5723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 330431,
+      "num": 274282,
+      "word": "魏晨 我招谁惹谁了",
+      "onboard_time": 1708643122,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330152,
       "num": 330152,
       "word": "夏克立 我从来没有家暴",
@@ -6329,14 +6345,6 @@
       "onboard_time": 1708396295,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 300076,
-      "num": 173757,
-      "word": "新冠或是首个X疾病",
-      "onboard_time": 1708643784,
-      "rank": 11,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 299568,
@@ -7345,6 +7353,14 @@
       "onboard_time": 1708611095,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 258561,
+      "num": 258561,
+      "word": "上海地铁",
+      "onboard_time": 1708643784,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258541,
@@ -8483,6 +8499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223492,
+      "num": 223492,
+      "word": "法国观众说封神比漫威电影好看",
+      "onboard_time": 1708621402,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 223282,
       "num": 223282,
       "word": "不要和别人比命好",
@@ -8577,14 +8601,6 @@
       "onboard_time": 1708596033,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221147,
-      "num": 221147,
-      "word": "法国观众说封神比漫威电影好看",
-      "onboard_time": 1708621402,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 220861,
@@ -11171,6 +11187,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 172145,
+      "num": 172145,
+      "word": "白鹿情商",
+      "onboard_time": 1708643541,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172039,
       "num": 172039,
       "word": "曾黎机场被粉丝催婚",
@@ -12467,14 +12491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 147711,
-      "num": 147711,
-      "word": "魏晨 我招谁惹谁了",
-      "onboard_time": 1708643122,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147624,
       "num": 528158,
       "word": "张艺谋雷军",
@@ -12705,6 +12721,14 @@
       "onboard_time": 1708513954,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 143830,
+      "num": 143830,
+      "word": "三岁一定要上幼儿园吗",
+      "onboard_time": 1708643843,
+      "rank": 29,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 143810,
@@ -13539,6 +13563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104634,
+      "num": 104634,
+      "word": "空腹血糖达到多少算糖尿病",
+      "onboard_time": 1708643122,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 103538,
       "num": 103538,
       "word": "中式盘发发型教程",
@@ -13659,6 +13691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91430,
+      "num": 91430,
+      "word": "我和马丽只差一个王晶",
+      "onboard_time": 1708637175,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 90797,
       "num": 2287513,
       "word": "长三角晒2023年经济发展成绩单",
@@ -13691,12 +13731,12 @@
       "category": "运动健身,作品衍生"
     },
     {
-      "raw_hot": 87131,
-      "num": 73302,
-      "word": "空腹血糖达到多少算糖尿病",
-      "onboard_time": 1708643122,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 88843,
+      "num": 88843,
+      "word": "IU汤唯合作MV",
+      "onboard_time": 1708643541,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 86250,
@@ -13723,27 +13763,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85817,
-      "num": 85817,
-      "word": "我和马丽只差一个王晶",
-      "onboard_time": 1708637175,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 85808,
       "num": 193433,
       "word": "准备好拥抱春天了吗",
       "onboard_time": 1708298725,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85760,
-      "num": 85760,
-      "word": "上海地铁",
-      "onboard_time": 1708643784,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -13763,6 +13787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83902,
+      "num": 83902,
+      "word": "有没有想过肚脐连着哪儿",
+      "onboard_time": 1708643784,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 83587,
       "num": 83587,
       "word": "夜间出现5种情况或是疾病信号",
@@ -13779,6 +13811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82652,
+      "num": 82652,
+      "word": "八岁小女孩向妈妈证明自己能养一只仓鼠",
+      "onboard_time": 1708644265,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82578,
       "num": 82578,
       "word": "迪丽热巴相信时间会给出答案",
@@ -13793,14 +13833,6 @@
       "onboard_time": 1708405361,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81583,
-      "num": 81583,
-      "word": "白鹿情商",
-      "onboard_time": 1708643541,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 81219,
@@ -13835,14 +13867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 74079,
-      "num": 74079,
-      "word": "三岁一定要上幼儿园吗",
-      "onboard_time": 1708643843,
-      "rank": 29,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 73785,
       "num": 1477281,
       "word": "南腔北调见证冰雪运动热力十足",
@@ -13864,6 +13888,14 @@
       "word": "成渝地区双城经济圈GDP破8万亿",
       "onboard_time": 1708483895,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71831,
+      "num": 71831,
+      "word": "女生说路难开男友父母就铺了水泥路",
+      "onboard_time": 1708644023,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -13897,6 +13929,14 @@
       "onboard_time": 1708453640,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67991,
+      "num": 67991,
+      "word": "新海诚合作制片人被逮捕",
+      "onboard_time": 1708644444,
+      "rank": 38,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 66696,
@@ -13947,12 +13987,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 63630,
-      "num": 63630,
-      "word": "有没有想过肚脐连着哪儿",
-      "onboard_time": 1708643784,
-      "rank": 32,
-      "category": "科学科普"
+      "raw_hot": 63378,
+      "num": 63378,
+      "word": "甜品常用的吉利丁到底是啥",
+      "onboard_time": 1708644506,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 63036,
@@ -13961,6 +14001,14 @@
       "onboard_time": 1708276405,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 60928,
+      "num": 60928,
+      "word": "上海财神拿铁标价25.88日售百杯",
+      "onboard_time": 1708643000,
+      "rank": 35,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 60791,
@@ -13995,12 +14043,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58645,
-      "num": 58645,
-      "word": "上海财神拿铁标价25.88日售百杯",
-      "onboard_time": 1708643000,
-      "rank": 35,
-      "category": "美食,社会新闻"
+      "raw_hot": 59635,
+      "num": 59635,
+      "word": "孙千马甲线",
+      "onboard_time": 1708644023,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 58404,
@@ -14035,6 +14083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57379,
+      "num": 57379,
+      "word": "悉尼偶遇郑敬淏崔秀英",
+      "onboard_time": 1708642341,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57318,
       "num": 57318,
       "word": "西村力DANIELLE Challenge",
@@ -14057,14 +14113,6 @@
       "onboard_time": 1708423355,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55977,
-      "num": 55977,
-      "word": "悉尼偶遇郑敬淏崔秀英",
-      "onboard_time": 1708642341,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 55553,
@@ -14099,12 +14147,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 52902,
+      "num": 53208,
+      "word": "倪妮钻石背心",
+      "onboard_time": 1708623261,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 52724,
       "num": 52724,
       "word": "我在橙色巴黎走哪算哪",
       "onboard_time": 1708449024,
       "rank": 41,
       "category": "旅游,网红"
+    },
+    {
+      "raw_hot": 51906,
+      "num": 51906,
+      "word": "马燕快碎了",
+      "onboard_time": 1708644806,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 51501,
@@ -14115,28 +14179,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50534,
-      "num": 53208,
-      "word": "倪妮钻石背心",
-      "onboard_time": 1708623261,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 50041,
       "num": 50041,
       "word": "返程前最后一餐吃什么",
       "onboard_time": 1708210940,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 49907,
-      "num": 49907,
-      "word": "IU汤唯合作MV",
-      "onboard_time": 1708643541,
-      "rank": 40,
-      "category": "音乐"
     },
     {
       "raw_hot": 49639,
@@ -14155,14 +14203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49493,
-      "num": 49493,
-      "word": "女生说路难开男友父母就铺了水泥路",
-      "onboard_time": 1708644023,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48878,
       "num": 48878,
       "word": "白天和晚上睡觉的区别",
@@ -14177,6 +14217,14 @@
       "onboard_time": 1708556841,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48153,
+      "num": 48153,
+      "word": "青簪行男主",
+      "onboard_time": 1708644806,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 46895,
@@ -14249,14 +14297,6 @@
       "onboard_time": 1708420780,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 42403,
-      "num": 42403,
-      "word": "孙千马甲线",
-      "onboard_time": 1708644023,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 42107,
