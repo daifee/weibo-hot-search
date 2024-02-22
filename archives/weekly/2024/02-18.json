@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708594462559,
+  "endTime": 1708597076127,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -627,19 +627,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1845004,
+      "num": 1845004,
+      "word": "把学历改成高中后终于找到工作",
+      "onboard_time": 1708585294,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1828727,
       "num": 1828727,
       "word": "夫妻离婚要求分割2孩子26万压岁钱",
       "onboard_time": 1708474834,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1822651,
-      "num": 1822651,
-      "word": "把学历改成高中后终于找到工作",
-      "onboard_time": 1708585294,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1209,6 +1209,14 @@
       "onboard_time": 1708175555,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1252859,
+      "num": 1252859,
+      "word": "沥心沙大桥事故致5人死亡",
+      "onboard_time": 1708595135,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1242489,
@@ -2355,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 717582,
+      "num": 717582,
+      "word": "媒体评乙女游戏卷尺度现象",
+      "onboard_time": 1708590995,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 716475,
       "num": 716475,
       "word": "广州沥心沙大桥被船只撞断有车辆落水",
@@ -2435,6 +2451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 706231,
+      "num": 706231,
+      "word": "南来北往 马燕怀孕",
+      "onboard_time": 1708595375,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 706045,
       "num": 706045,
       "word": "男版四大甜妹",
@@ -2513,6 +2537,14 @@
       "onboard_time": 1708505075,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 683770,
+      "num": 683770,
+      "word": "2.2亿中奖者此前多次购买相同号码",
+      "onboard_time": 1708595256,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 683380,
@@ -2769,14 +2801,6 @@
       "onboard_time": 1708576475,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 637019,
-      "num": 637019,
-      "word": "媒体评乙女游戏卷尺度现象",
-      "onboard_time": 1708590995,
-      "rank": 16,
-      "category": "游戏"
     },
     {
       "raw_hot": 635759,
@@ -3051,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 598682,
+      "num": 598682,
+      "word": "广州沥心沙大桥事故新闻发布会",
+      "onboard_time": 1708596276,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 598120,
       "num": 598120,
       "word": "方正证券员工被爆料",
@@ -3137,6 +3169,14 @@
       "onboard_time": 1708401278,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 581610,
+      "num": 581610,
+      "word": "院人是赵昭仪的克星吗",
+      "onboard_time": 1708594775,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 580944,
@@ -3611,6 +3651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 506379,
+      "num": 506379,
+      "word": "观音桥你是真敢放啊",
+      "onboard_time": 1708592495,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 506127,
       "num": 506127,
       "word": "四六级要出分了",
@@ -3656,6 +3704,14 @@
       "word": "江西男子举报妻子与副镇长非法同居",
       "onboard_time": 1708330781,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 499099,
+      "num": 499099,
+      "word": "2.2亿元彩票大奖触发限赔",
+      "onboard_time": 1708594716,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -5171,6 +5227,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 343805,
+      "num": 343805,
+      "word": "柳鑫宇泪洒现场",
+      "onboard_time": 1708596572,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 342790,
       "num": 342790,
       "word": "那年我双手插兜",
@@ -6059,14 +6123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 290978,
-      "num": 290978,
-      "word": "观音桥你是真敢放啊",
-      "onboard_time": 1708592495,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 289017,
       "num": 289017,
       "word": "第一次听英语母语者说话",
@@ -6665,6 +6721,14 @@
       "onboard_time": 1708418140,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 264809,
+      "num": 264809,
+      "word": "方正证券被爆料涉事人员已离职",
+      "onboard_time": 1708596155,
+      "rank": 26,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 264399,
@@ -7467,6 +7531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234359,
+      "num": 234359,
+      "word": "咪蒙",
+      "onboard_time": 1708596572,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234077,
       "num": 234077,
       "word": "春节寄养一只猫要上万元",
@@ -7913,6 +7985,14 @@
       "onboard_time": 1708344939,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 221178,
+      "num": 221178,
+      "word": "国乒女团3比0韩国",
+      "onboard_time": 1708596033,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 220861,
@@ -8795,6 +8875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199968,
+      "num": 199968,
+      "word": "潜水员溺亡海洋馆发布情况说明",
+      "onboard_time": 1708594175,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199806,
       "num": 199806,
       "word": "苹果黄芪水",
@@ -9659,6 +9747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183929,
+      "num": 183929,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1708313310,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 183843,
       "num": 183843,
       "word": "OPPO回应暂停折叠屏项目",
@@ -9697,6 +9793,14 @@
       "onboard_time": 1708581335,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182889,
+      "num": 182889,
+      "word": "SMTOWN直播",
+      "onboard_time": 1708595854,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 182847,
@@ -10059,6 +10163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176459,
+      "num": 176459,
+      "word": "现在年轻人为何不愿结婚生娃",
+      "onboard_time": 1708594952,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176100,
       "num": 176100,
       "word": "当小狗滑倒被主人嘲笑时",
@@ -10072,6 +10184,14 @@
       "word": "夫妻俩花5000块从海南回杭州",
       "onboard_time": 1708269755,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175762,
+      "num": 705208,
+      "word": "外卖小哥雪天送打不到车的女生回家",
+      "onboard_time": 1708595434,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -10603,14 +10723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165946,
-      "num": 165946,
-      "word": "潜水员溺亡海洋馆发布情况说明",
-      "onboard_time": 1708594175,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165615,
       "num": 165615,
       "word": "2024龙年开工大吉",
@@ -11017,6 +11129,14 @@
       "onboard_time": 1708240294,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156813,
+      "num": 156813,
+      "word": "Leave被移除一队大名单",
+      "onboard_time": 1708597057,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 156738,
@@ -11713,14 +11833,6 @@
       "onboard_time": 1708406976,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 142689,
-      "num": 142689,
-      "word": "俄乌局势新进展",
-      "onboard_time": 1708313310,
-      "rank": 36,
-      "category": "军事"
     },
     {
       "raw_hot": 142246,
@@ -12512,6 +12624,14 @@
       "word": "这就是春天里的中国",
       "onboard_time": 1708352442,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104050,
+      "num": 705264,
+      "word": "贵州山火救援的感人瞬间",
+      "onboard_time": 1708595434,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
