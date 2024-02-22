@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708634133376,
+  "endTime": 1708636506240,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -14275,6 +14275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 32271,
+      "num": 24389,
+      "word": "白天和晚上睡觉的区别",
+      "onboard_time": 1708633036,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 31539,
       "num": 31539,
       "word": "巨人新周边 美得不敢认",
@@ -14355,14 +14363,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 22997,
-      "num": 22997,
-      "word": "白天和晚上睡觉的区别",
-      "onboard_time": 1708633036,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 21415,
       "num": 21415,
       "word": "新疆阿图什3.6级地震",
@@ -14409,6 +14409,14 @@
       "onboard_time": 1708542376,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17841,
+      "num": 17841,
+      "word": "安徽冻雨",
+      "onboard_time": 1708634656,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16830,

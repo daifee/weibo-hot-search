@@ -1,6 +1,6 @@
 {
   "startTime": 1708618926218,
-  "endTime": 1708634133376,
+  "endTime": 1708636506240,
   "band_list": [
     {
       "raw_hot": 1064300,
@@ -483,6 +483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 32271,
+      "num": 24389,
+      "word": "白天和晚上睡觉的区别",
+      "onboard_time": 1708633036,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 31443,
       "num": 31443,
       "word": "素颜小眼睛党的大眼神器",
@@ -515,12 +523,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 22997,
-      "num": 22997,
-      "word": "白天和晚上睡觉的区别",
-      "onboard_time": 1708633036,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 17841,
+      "num": 17841,
+      "word": "安徽冻雨",
+      "onboard_time": 1708634656,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15827,
