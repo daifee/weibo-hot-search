@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708564252888,
+  "endTime": 1708565402918,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1753,6 +1753,14 @@
       "onboard_time": 1707820477,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1993195,
+      "num": 1993195,
+      "word": "白敬亭进组难哄",
+      "onboard_time": 1708563335,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 1985286,
@@ -4361,14 +4369,6 @@
       "onboard_time": 1708356936,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1235808,
-      "num": 1235808,
-      "word": "白敬亭进组难哄",
-      "onboard_time": 1708563335,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 1235041,
@@ -10020,7 +10020,7 @@
     },
     {
       "raw_hot": 698991,
-      "num": 308181,
+      "num": 340218,
       "word": "我爸告诉亲戚我存款十万",
       "onboard_time": 1708558286,
       "rank": 21,
@@ -10169,6 +10169,14 @@
       "onboard_time": 1706969436,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 691597,
+      "num": 553201,
+      "word": "柳鑫宇",
+      "onboard_time": 1708563634,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 691004,
@@ -10980,7 +10988,7 @@
     },
     {
       "raw_hot": 653706,
-      "num": 307314,
+      "num": 311372,
       "word": "男孩吞下整根牙刷隐瞒了2天",
       "onboard_time": 1708526137,
       "rank": 20,
@@ -12275,6 +12283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597464,
+      "num": 597464,
+      "word": "12306可以买机票了",
+      "onboard_time": 1708564413,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 597225,
       "num": 597225,
       "word": "胖东来仅赚3毛羽绒服为断码降价产品",
@@ -13171,6 +13187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 557458,
+      "num": 557458,
+      "word": "曾黎全网找yuzheng",
+      "onboard_time": 1708560271,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 557359,
       "num": 557359,
       "word": "易烊千玺谈主动选择权",
@@ -13899,6 +13923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 534786,
+      "num": 534786,
+      "word": "专家建议将女性退休年龄延长到60岁",
+      "onboard_time": 1708564836,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534611,
       "num": 513844,
       "word": "偶遇沈腾一家三口",
@@ -14025,14 +14057,6 @@
       "onboard_time": 1707527981,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 529713,
-      "num": 518050,
-      "word": "曾黎全网找yuzheng",
-      "onboard_time": 1708560271,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 529598,
@@ -17819,6 +17843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 415541,
+      "num": 415541,
+      "word": "刘诗诗春晚服装灵感来自敦煌",
+      "onboard_time": 1708563754,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415479,
       "num": 360071,
       "word": "工位越乱的员工稳定性越好",
@@ -19803,6 +19835,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 370763,
+      "num": 370763,
+      "word": "张杰2024年巡演",
+      "onboard_time": 1708562911,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 370577,
       "num": 370577,
       "word": "大年初五初六看大侦探",
@@ -20865,14 +20905,6 @@
       "onboard_time": 1708265258,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 349962,
-      "num": 349962,
-      "word": "张杰2024年巡演",
-      "onboard_time": 1708562911,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 349916,
@@ -21971,6 +22003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326016,
+      "num": 326016,
+      "word": "任嘉伦外媒生图",
+      "onboard_time": 1708564356,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 326010,
       "num": 306335,
       "word": "菏泽牡丹南路派出所所长被停职",
@@ -22275,14 +22315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 321409,
-      "num": 321409,
-      "word": "柳鑫宇",
-      "onboard_time": 1708563634,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 321339,
       "num": 321339,
       "word": "蛋仔派对进不去",
@@ -22441,14 +22473,6 @@
       "onboard_time": 1707127589,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318594,
-      "num": 318594,
-      "word": "刘诗诗春晚服装灵感来自敦煌",
-      "onboard_time": 1708563754,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 318520,
@@ -23931,6 +23955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 295905,
+      "num": 295905,
+      "word": "陈哲远泰国",
+      "onboard_time": 1708564115,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295868,
       "num": 256192,
       "word": "时代少年团王者直播首秀",
@@ -24217,6 +24249,14 @@
       "onboard_time": 1708404164,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 292408,
+      "num": 292408,
+      "word": "Goods综合征",
+      "onboard_time": 1708564235,
+      "rank": 45,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 292228,
@@ -25601,6 +25641,14 @@
       "onboard_time": 1708239692,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273878,
+      "num": 273878,
+      "word": "杨幂同款新中式",
+      "onboard_time": 1708564054,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 273769,
@@ -27947,6 +27995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247430,
+      "num": 247430,
+      "word": "你感染了几次新冠",
+      "onboard_time": 1708563813,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 247404,
       "num": 247404,
       "word": "潘玮柏老婆参加姐妹团聚会",
@@ -28161,6 +28217,14 @@
       "onboard_time": 1707736053,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244976,
+      "num": 244976,
+      "word": "浙江省的省饮料是什么",
+      "onboard_time": 1708563634,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 244930,
@@ -29179,6 +29243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236236,
+      "num": 236236,
+      "word": "广州南沙沥心沙大桥被船只撞断",
+      "onboard_time": 1708565254,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236204,
       "num": 236204,
       "word": "猫猫一拳把蛋黄揍翻",
@@ -30193,6 +30265,14 @@
       "onboard_time": 1708378215,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227619,
+      "num": 227619,
+      "word": "专家建议给三孩家庭购房打五折",
+      "onboard_time": 1708564653,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227546,
@@ -31587,6 +31667,14 @@
       "category": "社会新闻,综艺"
     },
     {
+      "raw_hot": 218269,
+      "num": 218269,
+      "word": "沥心沙大桥",
+      "onboard_time": 1708565194,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218259,
       "num": 218259,
       "word": "香港餐厅偶遇张智霖袁咏仪",
@@ -32289,14 +32377,6 @@
       "onboard_time": 1707123511,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213090,
-      "num": 213090,
-      "word": "你感染了几次新冠",
-      "onboard_time": 1708563813,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 212892,
@@ -33987,6 +34067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203609,
+      "num": 203609,
+      "word": "Sora视频",
+      "onboard_time": 1708564775,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 203589,
       "num": 203589,
       "word": "山东春晚",
@@ -34417,6 +34505,14 @@
       "onboard_time": 1707574542,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201629,
+      "num": 201629,
+      "word": "米兰时装周",
+      "onboard_time": 1708564054,
+      "rank": 35,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 201573,
@@ -37675,14 +37771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186767,
-      "num": 186767,
-      "word": "米兰时装周",
-      "onboard_time": 1708564054,
-      "rank": 35,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 186743,
       "num": 186743,
       "word": "戴金丝眼镜的周深",
@@ -38753,6 +38841,14 @@
       "onboard_time": 1707633692,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180488,
+      "num": 180488,
+      "word": "偷看主人的萨摩耶宝宝",
+      "onboard_time": 1708563514,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 180445,
@@ -40315,14 +40411,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172904,
-      "num": 172904,
-      "word": "浙江省的省饮料是什么",
-      "onboard_time": 1708563634,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 172889,
       "num": 172889,
       "word": "宋亚轩非我不可预告",
@@ -40817,6 +40905,14 @@
       "onboard_time": 1707358590,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170487,
+      "num": 170487,
+      "word": "第五人格联动非人哉",
+      "onboard_time": 1708565376,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 170387,
@@ -45483,6 +45579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148394,
+      "num": 148394,
+      "word": "花楼bp",
+      "onboard_time": 1708565073,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148316,
       "num": 148316,
       "word": "杨鸣分享创造辽篮奇迹的关键",
@@ -45521,14 +45625,6 @@
       "onboard_time": 1707091045,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 148156,
-      "num": 148156,
-      "word": "杨幂同款新中式",
-      "onboard_time": 1708564054,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 148131,
@@ -45953,14 +46049,6 @@
       "onboard_time": 1708164391,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146323,
-      "num": 146323,
-      "word": "陈哲远泰国",
-      "onboard_time": 1708564115,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 146247,
@@ -48529,14 +48617,6 @@
       "onboard_time": 1707309693,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134908,
-      "num": 134908,
-      "word": "Goods综合征",
-      "onboard_time": 1708564235,
-      "rank": 45,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 134853,
@@ -51835,14 +51915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118145,
-      "num": 118145,
-      "word": "偷看主人的萨摩耶宝宝",
-      "onboard_time": 1708563514,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 118093,
       "num": 118093,
       "word": "湖人考虑引进布朗尼",
@@ -54676,7 +54748,7 @@
     },
     {
       "raw_hot": 93340,
-      "num": 1548222,
+      "num": 1748797,
       "word": "瓣瓣同心心相连",
       "onboard_time": 1708562195,
       "rank": 2,
