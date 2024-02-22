@@ -1,0 +1,410 @@
+{
+  "runTime": 1708579070117,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3332673,
+        "num": 3332673,
+        "word": "官方通报沥心沙大桥事故情况",
+        "onboard_time": 1708567053,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1450090,
+        "num": 1450090,
+        "word": "考虫倒闭",
+        "onboard_time": 1708566813,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94415,
+        "num": 1323352,
+        "word": "无人机视角看雪后长城多壮美",
+        "onboard_time": 1708528656,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3342532,
+        "num": 1304881,
+        "word": "外甥正月理发舅舅去世成被告",
+        "onboard_time": 1708572936,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1277782,
+        "num": 1277782,
+        "word": "20集她戴了22副耳环",
+        "onboard_time": 1708576475,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1181872,
+        "num": 1181872,
+        "word": "林志玲2岁儿子侧颜",
+        "onboard_time": 1708577022,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1122447,
+        "num": 1122447,
+        "word": "17名博硕士研发的方便面里真的有肉",
+        "onboard_time": 1708574438,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 973714,
+        "num": 973714,
+        "word": "撒贝宁何炅 元宵晚会同台",
+        "onboard_time": 1708576417,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 887859,
+        "num": 887859,
+        "word": "沥心沙大桥事故已致2死3失联",
+        "onboard_time": 1708573837,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 781800,
+        "num": 781800,
+        "word": "贵州山火",
+        "onboard_time": 1708561349,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875146,
+        "num": 777734,
+        "word": "白敬亭进组难哄",
+        "onboard_time": 1708563335,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 842600,
+        "num": 775742,
+        "word": "专家建议将女性退休年龄延长到60岁",
+        "onboard_time": 1708564836,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756226,
+        "num": 756226,
+        "word": "从怀孕到生娃十一个月的花销",
+        "onboard_time": 1708577740,
+        "rank": 12,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 644550,
+        "num": 644550,
+        "word": "咪蒙出品我在八零年代当后妈",
+        "onboard_time": 1708574319,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 576163,
+        "num": 576163,
+        "word": "考虫图书品全部下架",
+        "onboard_time": 1708577380,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 560068,
+        "num": 560068,
+        "word": "杨国福换logo",
+        "onboard_time": 1708573837,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 527542,
+        "num": 527542,
+        "word": "黄正音再次提出离婚",
+        "onboard_time": 1708576958,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466499,
+        "num": 466499,
+        "word": "炸狗盆",
+        "onboard_time": 1708576475,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 517693,
+        "num": 456688,
+        "word": "咪蒙一个寒假靠2部短剧收入过亿",
+        "onboard_time": 1708576417,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409660,
+        "num": 409660,
+        "word": "撞断沥心沙大桥船主已被控制",
+        "onboard_time": 1708570534,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352505,
+        "num": 352505,
+        "word": "白鹿说妈妈是自己粉头",
+        "onboard_time": 1708577621,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318300,
+        "num": 318300,
+        "word": "瑞幸心理价位9块9",
+        "onboard_time": 1708567833,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 295427,
+        "num": 295427,
+        "word": "我爸告诉亲戚我存款十万",
+        "onboard_time": 1708558286,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286240,
+        "num": 286240,
+        "word": "罗翔曾称老师和学生谈恋爱是在剥削",
+        "onboard_time": 1708578218,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 277859,
+        "num": 277859,
+        "word": "贵州山火消防员朋友圈家人不可见",
+        "onboard_time": 1708576899,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275780,
+        "num": 275780,
+        "word": "中国人四年存了58.24万亿元",
+        "onboard_time": 1708565974,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262660,
+        "num": 262660,
+        "word": "四川游神",
+        "onboard_time": 1708578460,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254517,
+        "num": 254517,
+        "word": "方正证券再爆大瓜",
+        "onboard_time": 1708578636,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 253340,
+        "num": 253340,
+        "word": "只回复一个ok",
+        "onboard_time": 1708577559,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246985,
+        "num": 246985,
+        "word": "郑州一海洋馆潜水员在馆内溺亡",
+        "onboard_time": 1708567595,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244227,
+        "num": 244227,
+        "word": "北京奔驰CEO吐槽有些车企靠堆料竞争",
+        "onboard_time": 1708576721,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 243543,
+        "num": 243543,
+        "word": "贷款利率下降快于存款利率",
+        "onboard_time": 1708578037,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 241413,
+        "num": 241413,
+        "word": "小侄女问我辞职后怎么赚钱",
+        "onboard_time": 1708576296,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221777,
+        "num": 221777,
+        "word": "员工抑郁请病假暗中考研还领高薪",
+        "onboard_time": 1708556601,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216641,
+        "num": 216641,
+        "word": "林一最有cp感女主",
+        "onboard_time": 1708571854,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215581,
+        "num": 215581,
+        "word": "父母有退休金真的挺重要",
+        "onboard_time": 1708567893,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213890,
+        "num": 213890,
+        "word": "中国香港女团晋级四强",
+        "onboard_time": 1708578399,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207622,
+        "num": 207622,
+        "word": "王阳带女儿玩雪",
+        "onboard_time": 1708576780,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202522,
+        "num": 202522,
+        "word": "法越馨晒拍的肖战",
+        "onboard_time": 1708578695,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195311,
+        "num": 195311,
+        "word": "为什么强势的人反而更受欢迎",
+        "onboard_time": 1708571433,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194780,
+        "num": 194780,
+        "word": "他们驰援贵州山火后席地而睡",
+        "onboard_time": 1708577440,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185928,
+        "num": 185928,
+        "word": "鹿晗实体专辑",
+        "onboard_time": 1708575581,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182122,
+        "num": 182122,
+        "word": "12306可以买机票了",
+        "onboard_time": 1708564413,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179377,
+        "num": 179377,
+        "word": "ENHYPEN空降超话",
+        "onboard_time": 1708577800,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178617,
+        "num": 178617,
+        "word": "考虫回应倒闭传闻",
+        "onboard_time": 1708575037,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162165,
+        "num": 162165,
+        "word": "陈哲远泰国",
+        "onboard_time": 1708564115,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159386,
+        "num": 159386,
+        "word": "三民岛居民称桥面断裂后已断水断网",
+        "onboard_time": 1708578878,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148807,
+        "num": 148807,
+        "word": "旅客坐飞机拍下贵州山火",
+        "onboard_time": 1708571073,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147795,
+        "num": 147795,
+        "word": "工作我有四不做",
+        "onboard_time": 1708576119,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143674,
+        "num": 143674,
+        "word": "中学男教师在办公室猥亵男生",
+        "onboard_time": 1708579053,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#擘画鹭岛新画卷#"
+    }
+  }
+}
