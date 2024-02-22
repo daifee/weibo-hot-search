@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708580031683,
+  "endTime": 1708582939916,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1950773,
+      "num": 1950773,
+      "word": "迪丽热巴白发异世精灵",
+      "onboard_time": 1708580198,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1947495,
       "num": 1947495,
       "word": "台媒曝夏克立家暴黄嘉千细节",
@@ -771,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1568876,
+      "num": 1568876,
+      "word": "中学男教师在办公室猥亵男生",
+      "onboard_time": 1708579053,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1551768,
       "num": 661207,
       "word": "梅西",
@@ -809,6 +825,14 @@
       "onboard_time": 1708383681,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1482863,
+      "num": 1482863,
+      "word": "从怀孕到生娃十一个月的花销",
+      "onboard_time": 1708577740,
+      "rank": 12,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 1480016,
@@ -1016,6 +1040,14 @@
       "word": "警方通报女网红在海底捞做不雅行为",
       "onboard_time": 1708324598,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1310873,
+      "num": 1310873,
+      "word": "人民网评网红扮演赵世子",
+      "onboard_time": 1708580973,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -1481,14 +1513,6 @@
       "onboard_time": 1708438002,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1004949,
-      "num": 1004949,
-      "word": "从怀孕到生娃十一个月的花销",
-      "onboard_time": 1708577740,
-      "rank": 12,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 1002018,
@@ -2875,6 +2899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 598120,
+      "num": 598120,
+      "word": "方正证券员工被爆料",
+      "onboard_time": 1708578636,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 597595,
       "num": 597595,
       "word": "成都一家三口共花不到两千离开海南",
@@ -3083,6 +3115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 554228,
+      "num": 554228,
+      "word": "沥心沙大桥撞击时画面曝光",
+      "onboard_time": 1708580791,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 552478,
       "num": 323156,
       "word": "40岁我从体制内辞职2次",
@@ -3260,7 +3300,7 @@
     },
     {
       "raw_hot": 527072,
-      "num": 456688,
+      "num": 511084,
       "word": "咪蒙一个寒假靠2部短剧收入过亿",
       "onboard_time": 1708576417,
       "rank": 33,
@@ -3619,6 +3659,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 477668,
+      "num": 477668,
+      "word": "飞机上偶遇邓超陈赫",
+      "onboard_time": 1708581633,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 476479,
       "num": 476479,
       "word": "开工大吉",
@@ -3937,14 +3985,6 @@
       "onboard_time": 1708421139,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 427116,
-      "num": 427116,
-      "word": "中学男教师在办公室猥亵男生",
-      "onboard_time": 1708579053,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 427094,
@@ -4667,6 +4707,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 364376,
+      "num": 364376,
+      "word": "45元一杯的酸奶你会买吗",
+      "onboard_time": 1708581574,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 363745,
       "num": 298986,
       "word": "开工第一件事换头像",
@@ -4721,14 +4769,6 @@
       "onboard_time": 1708241374,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 357778,
-      "num": 357778,
-      "word": "方正证券员工被爆料",
-      "onboard_time": 1708578636,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 357348,
@@ -5563,6 +5603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 300980,
+      "num": 300980,
+      "word": "只回复一个ok",
+      "onboard_time": 1708577559,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 300718,
       "num": 300718,
       "word": "扣篮大赛",
@@ -6017,14 +6065,6 @@
       "onboard_time": 1708412618,
       "rank": 33,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 277202,
-      "num": 277202,
-      "word": "只回复一个ok",
-      "onboard_time": 1708577559,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 276821,
@@ -6577,6 +6617,14 @@
       "onboard_time": 1708401640,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 250592,
+      "num": 250592,
+      "word": "宋雨琦安宥真G社生图",
+      "onboard_time": 1708579836,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 250381,
@@ -7211,6 +7259,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 228532,
+      "num": 228532,
+      "word": "钟楚曦演的皇后好带感",
+      "onboard_time": 1708579657,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228391,
       "num": 228391,
       "word": "张凌赫发文告别裴文宣",
@@ -7737,6 +7793,14 @@
       "onboard_time": 1708384763,
       "rank": 29,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 214494,
+      "num": 214494,
+      "word": "俄网红美女带货无数实则是乌网红AI换脸",
+      "onboard_time": 1708582414,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214357,
@@ -8611,14 +8675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 192669,
-      "num": 192669,
-      "word": "钟楚曦演的皇后好带感",
-      "onboard_time": 1708579657,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192646,
       "num": 192646,
       "word": "春节假期A股利好不断",
@@ -8705,14 +8761,6 @@
       "onboard_time": 1708476695,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 191158,
-      "num": 191158,
-      "word": "宋雨琦安宥真G社生图",
-      "onboard_time": 1708579836,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 191045,
@@ -8921,6 +8969,14 @@
       "onboard_time": 1708386930,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187830,
+      "num": 187830,
+      "word": "鹿晗五哈贵州路透",
+      "onboard_time": 1708581876,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 187817,
@@ -9144,6 +9200,14 @@
       "word": "上班选哪个工位最好",
       "onboard_time": 1708425635,
       "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 183032,
+      "num": 183032,
+      "word": "亲密关系的本质",
+      "onboard_time": 1708581335,
+      "rank": 36,
       "category": "情感"
     },
     {
@@ -10643,6 +10707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150789,
+      "num": 150789,
+      "word": "湖南卫视元宵喜乐会第二波阵容",
+      "onboard_time": 1708581273,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150670,
       "num": 150670,
       "word": "热辣滚烫 朴素的女性主体性",
@@ -10713,6 +10785,14 @@
       "onboard_time": 1708433859,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148830,
+      "num": 148830,
+      "word": "张馨予旅游博主",
+      "onboard_time": 1708580613,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 148802,
@@ -11145,6 +11225,14 @@
       "onboard_time": 1708345720,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139538,
+      "num": 139538,
+      "word": "这根本难不倒魏大勋",
+      "onboard_time": 1708582895,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 139211,
