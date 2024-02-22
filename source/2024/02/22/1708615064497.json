@@ -1,0 +1,410 @@
+{
+  "runTime": 1708615064497,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2020545,
+        "num": 2020545,
+        "word": "青簪行 定档",
+        "onboard_time": 1708610197,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1348430,
+        "num": 1348430,
+        "word": "断崖式衰老常发生在3个年龄",
+        "onboard_time": 1708602814,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 53372,
+        "num": 1007015,
+        "word": "南腔北调见证冰雪运动热力十足",
+        "onboard_time": 1708608457,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 967284,
+        "num": 967284,
+        "word": "网红杨老二去世",
+        "onboard_time": 1708603776,
+        "rank": 3,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 936720,
+        "num": 936720,
+        "word": "高合创始人承认翻身窗口期仅剩3个月",
+        "onboard_time": 1708611576,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 819087,
+        "num": 819087,
+        "word": "张继科重回蝴蝶乒乓中国官网",
+        "onboard_time": 1708608033,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 581582,
+        "num": 581582,
+        "word": "迪丽热巴妈妈想再养育一遍她",
+        "onboard_time": 1708604496,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 570139,
+        "num": 570139,
+        "word": "Gucci和Tods接机肖战",
+        "onboard_time": 1708609474,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 502494,
+        "num": 502494,
+        "word": "当一个江浙沪赘婿决定离婚",
+        "onboard_time": 1708605994,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436741,
+        "num": 436741,
+        "word": "青簪行 簪中录",
+        "onboard_time": 1708610735,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445924,
+        "num": 432947,
+        "word": "生理性喜欢",
+        "onboard_time": 1708598853,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 426385,
+        "num": 426385,
+        "word": "南京调休",
+        "onboard_time": 1708599570,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398283,
+        "num": 398283,
+        "word": "柿柿如意汤圆火了",
+        "onboard_time": 1708604135,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 394739,
+        "num": 394739,
+        "word": "2.2亿元彩票大奖得主无须缴纳个人所得税",
+        "onboard_time": 1708600715,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354027,
+        "num": 354027,
+        "word": "王诗玥柳鑫宇十四冬夺冠",
+        "onboard_time": 1708608820,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350355,
+        "num": 350355,
+        "word": "人民网评网红扮演赵世子",
+        "onboard_time": 1708580973,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345120,
+        "num": 345120,
+        "word": "周五爆改周四",
+        "onboard_time": 1708598373,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329721,
+        "num": 329721,
+        "word": "网传浪姐2024名单",
+        "onboard_time": 1708607496,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310734,
+        "num": 310734,
+        "word": "把学历改成高中后终于找到工作",
+        "onboard_time": 1708585294,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295316,
+        "num": 295316,
+        "word": "陈浩民老婆浮潜受伤",
+        "onboard_time": 1708613075,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 635080,
+        "num": 293706,
+        "word": "整个三亚都在偶遇明星",
+        "onboard_time": 1708613800,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424602,
+        "num": 290681,
+        "word": "甲沟炎患者不建议养猫",
+        "onboard_time": 1708613495,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 407906,
+        "num": 287486,
+        "word": "一旦出现这个姿势要立即就医",
+        "onboard_time": 1708605694,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 383808,
+        "num": 286264,
+        "word": "什么叫裁员裁到大动脉了",
+        "onboard_time": 1708611338,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 331258,
+        "num": 283688,
+        "word": "快30岁还觉得自己像小孩",
+        "onboard_time": 1708613016,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321105,
+        "num": 280857,
+        "word": "浙江一17岁学生确诊肠癌",
+        "onboard_time": 1708604856,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315462,
+        "num": 277621,
+        "word": "人生建议 永远别赚太辛苦的钱",
+        "onboard_time": 1708613616,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275341,
+        "num": 275341,
+        "word": "李兰迪黑色丝绒礼裙",
+        "onboard_time": 1708614693,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224373,
+        "num": 224373,
+        "word": "普通情侣一年的年收入",
+        "onboard_time": 1708600295,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224264,
+        "num": 224264,
+        "word": "戚薇时装周造型",
+        "onboard_time": 1708614455,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219359,
+        "num": 219359,
+        "word": "白鹿敖瑞鹏回应吻戏",
+        "onboard_time": 1708609175,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215481,
+        "num": 215481,
+        "word": "孙千吃醋了",
+        "onboard_time": 1708614335,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212630,
+        "num": 212630,
+        "word": "娃哈哈声明",
+        "onboard_time": 1708600833,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204833,
+        "num": 204833,
+        "word": "王安宇陈都灵庄达菲合照",
+        "onboard_time": 1708613676,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193995,
+        "num": 193995,
+        "word": "张艺谋对话雷军",
+        "onboard_time": 1708612718,
+        "rank": 34,
+        "category": "作品衍生,数码"
+      },
+      {
+        "raw_hot": 193877,
+        "num": 193877,
+        "word": "钟欣潼兜帽长裙",
+        "onboard_time": 1708612839,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193704,
+        "num": 193704,
+        "word": "郑在玹金泰妍搂肩",
+        "onboard_time": 1708602752,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192092,
+        "num": 192092,
+        "word": "赵世子",
+        "onboard_time": 1708603655,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 186968,
+        "num": 186968,
+        "word": "小米14Ultra起售价6499元",
+        "onboard_time": 1708610017,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 182457,
+        "num": 182457,
+        "word": "EDG赛后发文致歉",
+        "onboard_time": 1708611095,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182189,
+        "num": 182189,
+        "word": "人在坐高铁时能有多不自信",
+        "onboard_time": 1708609777,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182310,
+        "num": 181807,
+        "word": "马龙说三个人顶住了压力",
+        "onboard_time": 1708612240,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178492,
+        "num": 178492,
+        "word": "贵州山火原因",
+        "onboard_time": 1708584395,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170116,
+        "num": 170116,
+        "word": "贵州全省共发生森林火情221起",
+        "onboard_time": 1708592375,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166414,
+        "num": 166414,
+        "word": "师生恋为什么很难说是两情相悦",
+        "onboard_time": 1708607796,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164995,
+        "num": 164995,
+        "word": "尔冬升让郑合惠子演女演员",
+        "onboard_time": 1708603115,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156133,
+        "num": 156133,
+        "word": "鹿晗张云龙问路路透",
+        "onboard_time": 1708607616,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155217,
+        "num": 155217,
+        "word": "热辣滚烫票房破31亿",
+        "onboard_time": 1708607496,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152046,
+        "num": 152046,
+        "word": "小米平板",
+        "onboard_time": 1708608397,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150535,
+        "num": 150535,
+        "word": "三年没修好的灯猫师傅给修好了",
+        "onboard_time": 1708614215,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领推进粤港澳大湾区建设#"
+    }
+  }
+}
