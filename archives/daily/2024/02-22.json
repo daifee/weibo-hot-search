@@ -1,6 +1,6 @@
 {
   "startTime": 1708532526738,
-  "endTime": 1708597076127,
+  "endTime": 1708598040046,
   "band_list": [
     {
       "raw_hot": 7943085,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1982430,
+      "num": 1845004,
+      "word": "把学历改成高中后终于找到工作",
+      "onboard_time": 1708585294,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1950773,
       "num": 1950773,
       "word": "迪丽热巴白发异世精灵",
@@ -112,14 +120,6 @@
       "word": "cos赵世子男网红再道歉",
       "onboard_time": 1708559909,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1845004,
-      "num": 1845004,
-      "word": "把学历改成高中后终于找到工作",
-      "onboard_time": 1708585294,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 804547,
+      "num": 804547,
+      "word": "2.2亿中奖者此前多次购买相同号码",
+      "onboard_time": 1708595256,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 789059,
       "num": 789059,
       "word": "瑞幸心理价位9块9",
@@ -371,12 +379,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 767465,
+      "num": 767465,
+      "word": "南来北往 马燕怀孕",
+      "onboard_time": 1708595375,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 762986,
       "num": 762986,
       "word": "狂飙麻子爆改",
       "onboard_time": 1708521275,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 750282,
+      "num": 750282,
+      "word": "柳鑫宇泪洒现场",
+      "onboard_time": 1708596572,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 739167,
@@ -427,14 +451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 706231,
-      "num": 706231,
-      "word": "南来北往 马燕怀孕",
-      "onboard_time": 1708595375,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 698991,
       "num": 362382,
       "word": "我爸告诉亲戚我存款十万",
@@ -451,20 +467,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 690349,
+      "num": 690349,
+      "word": "广州沥心沙大桥事故新闻发布会",
+      "onboard_time": 1708596276,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 687818,
       "num": 687818,
       "word": "上海一杯4颗美式汤圆要38元",
       "onboard_time": 1708558645,
       "rank": 7,
       "category": "美食"
-    },
-    {
-      "raw_hot": 683770,
-      "num": 683770,
-      "word": "2.2亿中奖者此前多次购买相同号码",
-      "onboard_time": 1708595256,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 649374,
@@ -515,12 +531,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 598682,
-      "num": 598682,
-      "word": "广州沥心沙大桥事故新闻发布会",
-      "onboard_time": 1708596276,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 598659,
+      "num": 598659,
+      "word": "院人是赵昭仪的克星吗",
+      "onboard_time": 1708594775,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 598120,
@@ -537,14 +553,6 @@
       "onboard_time": 1708581574,
       "rank": 18,
       "category": "美食"
-    },
-    {
-      "raw_hot": 581610,
-      "num": 581610,
-      "word": "院人是赵昭仪的克星吗",
-      "onboard_time": 1708594775,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 576163,
@@ -611,6 +619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 527663,
+      "num": 527663,
+      "word": "观音桥你是真敢放啊",
+      "onboard_time": 1708592495,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 527542,
       "num": 527542,
       "word": "黄正音再次提出离婚",
@@ -641,14 +657,6 @@
       "onboard_time": 1708586313,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 506379,
-      "num": 506379,
-      "word": "观音桥你是真敢放啊",
-      "onboard_time": 1708592495,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 506127,
@@ -891,14 +899,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 343805,
-      "num": 343805,
-      "word": "柳鑫宇泪洒现场",
-      "onboard_time": 1708596572,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 338779,
       "num": 338779,
       "word": "王鹤棣何猷君同框合影",
@@ -1011,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288748,
+      "num": 288748,
+      "word": "咪蒙",
+      "onboard_time": 1708596572,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288302,
       "num": 256368,
       "word": "江苏女篮主教练去世",
@@ -1041,6 +1049,22 @@
       "onboard_time": 1708590032,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 280773,
+      "num": 280773,
+      "word": "Leave被移除一队大名单",
+      "onboard_time": 1708597057,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 278008,
+      "num": 705208,
+      "word": "外卖小哥雪天送打不到车的女生回家",
+      "onboard_time": 1708595434,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277859,
@@ -1291,14 +1315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 234359,
-      "num": 234359,
-      "word": "咪蒙",
-      "onboard_time": 1708596572,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 232718,
       "num": 232718,
       "word": "武艺说魏大勋腿很长需要慢慢追",
@@ -1473,6 +1489,14 @@
       "onboard_time": 1708576780,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207051,
+      "num": 207051,
+      "word": "宋亚轩52分钟vlog",
+      "onboard_time": 1708597596,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 206485,
@@ -1731,6 +1755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 181669,
+      "num": 181669,
+      "word": "坐拥300万粉丝后还在烙灌饼",
+      "onboard_time": 1708597354,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180903,
       "num": 180903,
       "word": "张颂文新剧热度",
@@ -1801,14 +1833,6 @@
       "onboard_time": 1708594952,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 175762,
-      "num": 705208,
-      "word": "外卖小哥雪天送打不到车的女生回家",
-      "onboard_time": 1708595434,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175451,
@@ -1923,6 +1947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 163456,
+      "num": 163456,
+      "word": "DRG对战TES",
+      "onboard_time": 1708597174,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162787,
       "num": 162787,
       "word": "NCTWISH出道",
@@ -1963,14 +1995,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 156813,
-      "num": 156813,
-      "word": "Leave被移除一队大名单",
-      "onboard_time": 1708597057,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 156408,
       "num": 156408,
       "word": "英伟达盘后大涨",
@@ -1985,6 +2009,22 @@
       "onboard_time": 1708574021,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151576,
+      "num": 151576,
+      "word": "阿尔维斯被判刑4年半",
+      "onboard_time": 1708597833,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151243,
+      "num": 151243,
+      "word": "天蚕土豆演我写论文",
+      "onboard_time": 1708597894,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 150789,
@@ -2081,6 +2121,14 @@
       "onboard_time": 1708559850,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140094,
+      "num": 714255,
+      "word": "贵州山火救援的感人瞬间",
+      "onboard_time": 1708595434,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135142,
@@ -2225,14 +2273,6 @@
       "onboard_time": 1708531413,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 104050,
-      "num": 705264,
-      "word": "贵州山火救援的感人瞬间",
-      "onboard_time": 1708595434,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 100053,

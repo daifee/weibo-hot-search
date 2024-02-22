@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708597076127,
+  "endTime": 1708598040046,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -483,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1982430,
+      "num": 1845004,
+      "word": "把学历改成高中后终于找到工作",
+      "onboard_time": 1708585294,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1972230,
       "num": 1972230,
       "word": "马丽测评了14条光腿神器",
@@ -625,14 +633,6 @@
       "onboard_time": 1708410760,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1845004,
-      "num": 1845004,
-      "word": "把学历改成高中后终于找到工作",
-      "onboard_time": 1708585294,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1828727,
@@ -2075,6 +2075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 804547,
+      "num": 804547,
+      "word": "2.2亿中奖者此前多次购买相同号码",
+      "onboard_time": 1708595256,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 801952,
       "num": 899628,
       "word": "2万多游客滞留5万人小县倾城接待",
@@ -2211,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 767465,
+      "num": 767465,
+      "word": "南来北往 马燕怀孕",
+      "onboard_time": 1708595375,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 766429,
       "num": 766429,
       "word": "100万房贷30年少还5.2万",
@@ -2265,6 +2281,14 @@
       "onboard_time": 1708433980,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 750282,
+      "num": 750282,
+      "word": "柳鑫宇泪洒现场",
+      "onboard_time": 1708596572,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 749824,
@@ -2451,14 +2475,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 706231,
-      "num": 706231,
-      "word": "南来北往 马燕怀孕",
-      "onboard_time": 1708595375,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 706045,
       "num": 706045,
       "word": "男版四大甜妹",
@@ -2499,6 +2515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 690349,
+      "num": 690349,
+      "word": "广州沥心沙大桥事故新闻发布会",
+      "onboard_time": 1708596276,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 689549,
       "num": 689549,
       "word": "前女友控诉卜凡家暴",
@@ -2537,14 +2561,6 @@
       "onboard_time": 1708505075,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 683770,
-      "num": 683770,
-      "word": "2.2亿中奖者此前多次购买相同号码",
-      "onboard_time": 1708595256,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 683380,
@@ -3075,12 +3091,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 598682,
-      "num": 598682,
-      "word": "广州沥心沙大桥事故新闻发布会",
-      "onboard_time": 1708596276,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 598659,
+      "num": 598659,
+      "word": "院人是赵昭仪的克星吗",
+      "onboard_time": 1708594775,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 598120,
@@ -3169,14 +3185,6 @@
       "onboard_time": 1708401278,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 581610,
-      "num": 581610,
-      "word": "院人是赵昭仪的克星吗",
-      "onboard_time": 1708594775,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 580944,
@@ -3507,6 +3515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 527663,
+      "num": 527663,
+      "word": "观音桥你是真敢放啊",
+      "onboard_time": 1708592495,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 527542,
       "num": 527542,
       "word": "黄正音再次提出离婚",
@@ -3649,14 +3665,6 @@
       "onboard_time": 1708227994,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 506379,
-      "num": 506379,
-      "word": "观音桥你是真敢放啊",
-      "onboard_time": 1708592495,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 506127,
@@ -5227,14 +5235,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 343805,
-      "num": 343805,
-      "word": "柳鑫宇泪洒现场",
-      "onboard_time": 1708596572,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 342790,
       "num": 342790,
       "word": "那年我双手插兜",
@@ -6155,6 +6155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288748,
+      "num": 288748,
+      "word": "咪蒙",
+      "onboard_time": 1708596572,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288302,
       "num": 256368,
       "word": "江苏女篮主教练去世",
@@ -6323,6 +6331,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 280773,
+      "num": 280773,
+      "word": "Leave被移除一队大名单",
+      "onboard_time": 1708597057,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 280708,
       "num": 280708,
       "word": "媒体评女教师出轨事件陷侵权争议",
@@ -6377,6 +6393,14 @@
       "onboard_time": 1708398815,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 278008,
+      "num": 705208,
+      "word": "外卖小哥雪天送打不到车的女生回家",
+      "onboard_time": 1708595434,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277922,
@@ -7531,14 +7555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 234359,
-      "num": 234359,
-      "word": "咪蒙",
-      "onboard_time": 1708596572,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234077,
       "num": 234077,
       "word": "春节寄养一只猫要上万元",
@@ -8513,6 +8529,14 @@
       "onboard_time": 1708523975,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 207051,
+      "num": 207051,
+      "word": "宋亚轩52分钟vlog",
+      "onboard_time": 1708597596,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 206946,
@@ -9867,6 +9891,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181669,
+      "num": 181669,
+      "word": "坐拥300万粉丝后还在烙灌饼",
+      "onboard_time": 1708597354,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181506,
       "num": 181506,
       "word": "EDG春季赛六连败",
@@ -10184,14 +10216,6 @@
       "word": "夫妻俩花5000块从海南回杭州",
       "onboard_time": 1708269755,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175762,
-      "num": 705208,
-      "word": "外卖小哥雪天送打不到车的女生回家",
-      "onboard_time": 1708595434,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -10819,6 +10843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163456,
+      "num": 163456,
+      "word": "DRG对战TES",
+      "onboard_time": 1708597174,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163381,
       "num": 163381,
       "word": "和我的笨蛋小狗分开的时候",
@@ -11131,14 +11163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156813,
-      "num": 156813,
-      "word": "Leave被移除一队大名单",
-      "onboard_time": 1708597057,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 156738,
       "num": 156738,
       "word": "狗自己都觉得好笑",
@@ -11371,6 +11395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151576,
+      "num": 151576,
+      "word": "阿尔维斯被判刑4年半",
+      "onboard_time": 1708597833,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151487,
       "num": 151487,
       "word": "小米北京昌平智能工厂正式落成投产",
@@ -11393,6 +11425,14 @@
       "onboard_time": 1708522296,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 151243,
+      "num": 151243,
+      "word": "天蚕土豆演我写论文",
+      "onboard_time": 1708597894,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 151136,
@@ -11921,6 +11961,14 @@
       "onboard_time": 1708409201,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 140094,
+      "num": 714255,
+      "word": "贵州山火救援的感人瞬间",
+      "onboard_time": 1708595434,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140000,
@@ -12624,14 +12672,6 @@
       "word": "这就是春天里的中国",
       "onboard_time": 1708352442,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104050,
-      "num": 705264,
-      "word": "贵州山火救援的感人瞬间",
-      "onboard_time": 1708595434,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
