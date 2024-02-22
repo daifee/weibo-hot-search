@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708590097627,
+  "endTime": 1708590858310,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1795,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2009179,
+      "num": 1619885,
+      "word": "女子举报多位大学教师偷窥自己",
+      "onboard_time": 1708586556,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2000622,
       "num": 2000622,
       "word": "霍建华李凯馨亲密合照",
@@ -2811,14 +2819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1619885,
-      "num": 1619885,
-      "word": "女子举报多位大学教师偷窥自己",
-      "onboard_time": 1708586556,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1616741,
       "num": 1616741,
       "word": "昨晚失眠",
@@ -3065,6 +3065,14 @@
       "onboard_time": 1706767773,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1548075,
+      "num": 1548075,
+      "word": "王阳 高斯",
+      "onboard_time": 1708587398,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1546180,
@@ -3635,14 +3643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1394924,
-      "num": 1394924,
-      "word": "王阳 高斯",
-      "onboard_time": 1708587398,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1392474,
       "num": 1392474,
       "word": "送你一朵小红花导演回应",
@@ -3945,6 +3945,14 @@
       "onboard_time": 1707372508,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1326703,
+      "num": 1326703,
+      "word": "射雕定档",
+      "onboard_time": 1708589257,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 1326303,
@@ -6315,6 +6323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 993671,
+      "num": 993671,
+      "word": "老爸问老妈3万块的茶艺课学了些什么",
+      "onboard_time": 1708586374,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 992283,
       "num": 922219,
       "word": "周深 唱跳歌手",
@@ -8123,14 +8139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 827100,
-      "num": 679785,
-      "word": "老爸问老妈3万块的茶艺课学了些什么",
-      "onboard_time": 1708586374,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 826909,
       "num": 826909,
       "word": "王俊凯王源 扫鼠岭",
@@ -8761,6 +8769,14 @@
       "onboard_time": 1708567833,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 789046,
+      "num": 789046,
+      "word": "郑秀晶签约新公司",
+      "onboard_time": 1708589674,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 788307,
@@ -10585,14 +10601,6 @@
       "onboard_time": 1707099813,
       "rank": 12,
       "category": "财经"
-    },
-    {
-      "raw_hot": 683678,
-      "num": 683678,
-      "word": "射雕定档",
-      "onboard_time": 1708589257,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 683380,
@@ -20643,14 +20651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365736,
-      "num": 365736,
-      "word": "郑秀晶签约新公司",
-      "onboard_time": 1708589674,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 365694,
       "num": 365694,
       "word": "胖东来要求保洁员工写PPT汇报",
@@ -26003,6 +26003,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 277318,
+      "num": 277318,
+      "word": "男朋友正式来家里和狗装不认识",
+      "onboard_time": 1708587037,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 277217,
       "num": 277217,
       "word": "五条悟 富家公子哥",
@@ -26265,14 +26273,6 @@
       "onboard_time": 1707228572,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 273674,
-      "num": 273674,
-      "word": "男朋友正式来家里和狗装不认识",
-      "onboard_time": 1708587037,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 273626,
@@ -27377,6 +27377,14 @@
       "onboard_time": 1707796596,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 260047,
+      "num": 260047,
+      "word": "迪丽热巴时装采访",
+      "onboard_time": 1708590393,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 260036,
@@ -30609,6 +30617,14 @@
       "onboard_time": 1708072889,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231850,
+      "num": 231850,
+      "word": "乐莹乐丹 姐妹",
+      "onboard_time": 1708589856,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 231554,
@@ -36587,6 +36603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196056,
+      "num": 196056,
+      "word": "刘浩存文淇新片开机",
+      "onboard_time": 1708589975,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196055,
       "num": 196055,
       "word": "粉丝为肖战原创贺岁曲",
@@ -38003,6 +38027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190270,
+      "num": 190270,
+      "word": "当生活只剩下上班和下班",
+      "onboard_time": 1708590032,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190182,
       "num": 190182,
       "word": "谷江山关于成真",
@@ -38168,6 +38200,14 @@
       "word": "学刘姥姥心态去上班再也不会内耗",
       "onboard_time": 1708568974,
       "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 189383,
+      "num": 189383,
+      "word": "出家12年的北大天才",
+      "onboard_time": 1708590272,
+      "rank": 36,
       "category": "情感"
     },
     {
@@ -40611,14 +40651,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 177047,
-      "num": 177047,
-      "word": "乐莹乐丹 姐妹",
-      "onboard_time": 1708589856,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 177044,
       "num": 177044,
       "word": "曹璐直播",
@@ -42681,6 +42713,14 @@
       "onboard_time": 1708081774,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167191,
+      "num": 167191,
+      "word": "华为Pocket2发布玄武水滴铰链",
+      "onboard_time": 1708590093,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 167167,
@@ -48595,14 +48635,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 140082,
-      "num": 140082,
-      "word": "当生活只剩下上班和下班",
-      "onboard_time": 1708590032,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 140081,
       "num": 140081,
       "word": "泰式混血妆",
@@ -48817,14 +48849,6 @@
       "onboard_time": 1707184709,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139280,
-      "num": 139280,
-      "word": "刘浩存文淇新片开机",
-      "onboard_time": 1708589975,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 139275,
@@ -50825,6 +50849,14 @@
       "onboard_time": 1707221611,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 129878,
+      "num": 478754,
+      "word": "这么拍照谁拍谁好看",
+      "onboard_time": 1708589072,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 129811,
@@ -55089,14 +55121,6 @@
       "onboard_time": 1707453329,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 104496,
-      "num": 270633,
-      "word": "这么拍照谁拍谁好看",
-      "onboard_time": 1708589072,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 104468,

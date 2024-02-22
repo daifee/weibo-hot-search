@@ -1,0 +1,410 @@
+{
+  "runTime": 1708590858310,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1548075,
+        "num": 1548075,
+        "word": "王阳 高斯",
+        "onboard_time": 1708587398,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2009179,
+        "num": 1541895,
+        "word": "女子举报多位大学教师偷窥自己",
+        "onboard_time": 1708586556,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44564,
+        "num": 1512657,
+        "word": "9图掌握雪天出行注意啥",
+        "onboard_time": 1708574498,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1502462,
+        "num": 1502462,
+        "word": "人民网评网红扮演赵世子",
+        "onboard_time": 1708580973,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1369469,
+        "num": 1369469,
+        "word": "贵州山火原因",
+        "onboard_time": 1708584395,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1326703,
+        "num": 1326703,
+        "word": "射雕定档",
+        "onboard_time": 1708589257,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 993671,
+        "num": 993671,
+        "word": "老爸问老妈3万块的茶艺课学了些什么",
+        "onboard_time": 1708586374,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 948177,
+        "num": 948177,
+        "word": "外甥正月理发舅舅去世成被告",
+        "onboard_time": 1708572936,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888439,
+        "num": 888439,
+        "word": "灿烈 好久不见",
+        "onboard_time": 1708586616,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 807764,
+        "num": 807764,
+        "word": "迪丽热巴白发异世精灵",
+        "onboard_time": 1708580198,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 789046,
+        "num": 789046,
+        "word": "郑秀晶签约新公司",
+        "onboard_time": 1708589674,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 771077,
+        "num": 771077,
+        "word": "热巴拿蛋糕",
+        "onboard_time": 1708588473,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 627643,
+        "num": 627643,
+        "word": "中学男教师在办公室猥亵男生",
+        "onboard_time": 1708579053,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582359,
+        "num": 582359,
+        "word": "王逗逗结婚",
+        "onboard_time": 1708585418,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 534450,
+        "num": 534450,
+        "word": "杜乐莹 我生下来是你妹妹",
+        "onboard_time": 1708583973,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 507245,
+        "num": 507245,
+        "word": "王诗玥柳鑫宇自由舞113.04分",
+        "onboard_time": 1708586313,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129878,
+        "num": 478754,
+        "word": "这么拍照谁拍谁好看",
+        "onboard_time": 1708589072,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 466274,
+        "num": 466274,
+        "word": "考虫倒闭",
+        "onboard_time": 1708566813,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 411122,
+        "num": 411122,
+        "word": "从怀孕到生娃十一个月的花销",
+        "onboard_time": 1708577740,
+        "rank": 18,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 371421,
+        "num": 371421,
+        "word": "极氪",
+        "onboard_time": 1708584093,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 544858,
+        "num": 337534,
+        "word": "把学历改成高中后终于找到工作",
+        "onboard_time": 1708585294,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284798,
+        "num": 284798,
+        "word": "20集她戴了22副耳环",
+        "onboard_time": 1708576475,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277318,
+        "num": 277318,
+        "word": "男朋友正式来家里和狗装不认识",
+        "onboard_time": 1708587037,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264817,
+        "num": 264817,
+        "word": "魏大勋坦坦荡荡后退一步",
+        "onboard_time": 1708588299,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260341,
+        "num": 260341,
+        "word": "林志玲2岁儿子侧颜",
+        "onboard_time": 1708577022,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260047,
+        "num": 260047,
+        "word": "迪丽热巴时装采访",
+        "onboard_time": 1708590393,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231850,
+        "num": 231850,
+        "word": "乐莹乐丹 姐妹",
+        "onboard_time": 1708589856,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231507,
+        "num": 231507,
+        "word": "华为Pocket2",
+        "onboard_time": 1708576899,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 226413,
+        "num": 226413,
+        "word": "极氪官微发蔚来宣传图",
+        "onboard_time": 1708586674,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 211592,
+        "num": 211592,
+        "word": "贵州森林火灾扑救难度有多大",
+        "onboard_time": 1708584336,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236175,
+        "num": 211361,
+        "word": "迪丽热巴贵卡增加了",
+        "onboard_time": 1708585355,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 209509,
+        "num": 209509,
+        "word": "武艺也看了花少热巴拿蛋糕",
+        "onboard_time": 1708583074,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196056,
+        "num": 196056,
+        "word": "刘浩存文淇新片开机",
+        "onboard_time": 1708589975,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195379,
+        "num": 195379,
+        "word": "华为Pocket2媲美二十万元检测仪",
+        "onboard_time": 1708587935,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 190270,
+        "num": 190270,
+        "word": "当生活只剩下上班和下班",
+        "onboard_time": 1708590032,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190046,
+        "num": 190046,
+        "word": "我爸告诉亲戚我存款十万",
+        "onboard_time": 1708558286,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189383,
+        "num": 189383,
+        "word": "出家12年的北大天才",
+        "onboard_time": 1708590272,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185339,
+        "num": 185339,
+        "word": "涉事船舶公司回应撞断沥心沙大桥",
+        "onboard_time": 1708585955,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167724,
+        "num": 167724,
+        "word": "咪蒙一个寒假靠2部短剧收入过亿",
+        "onboard_time": 1708576417,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167191,
+        "num": 167191,
+        "word": "华为Pocket2发布玄武水滴铰链",
+        "onboard_time": 1708590093,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163648,
+        "num": 163648,
+        "word": "这是养猫人的梦中情房吧",
+        "onboard_time": 1708588594,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162287,
+        "num": 162287,
+        "word": "袁姗姗孙坚友情",
+        "onboard_time": 1708588897,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153665,
+        "num": 153665,
+        "word": "45元一杯的酸奶你会买吗",
+        "onboard_time": 1708581574,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 90692,
+        "num": 153343,
+        "word": "华为折叠屏首次支持2米IPX8抗水",
+        "onboard_time": 1708587456,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153083,
+        "num": 153083,
+        "word": "极氪回应官微发蔚来宣传图",
+        "onboard_time": 1708588416,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 152523,
+        "num": 152523,
+        "word": "咪蒙出品我在八零年代当后妈",
+        "onboard_time": 1708574319,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146835,
+        "num": 146835,
+        "word": "俄网红美女带货无数实则是乌网红AI换脸",
+        "onboard_time": 1708582414,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145699,
+        "num": 145699,
+        "word": "汤唯把粉丝送的花插上了",
+        "onboard_time": 1708586855,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140908,
+        "num": 140908,
+        "word": "南京下雪",
+        "onboard_time": 1708588233,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138536,
+        "num": 138536,
+        "word": "华为折叠屏连续四年市场份额第一",
+        "onboard_time": 1708588833,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#擘画鹭岛新画卷#"
+    }
+  }
+}
