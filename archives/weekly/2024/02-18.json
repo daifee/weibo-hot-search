@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708662920827,
+  "endTime": 1708665444366,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1997449,
+      "num": 727131,
+      "word": "支付宝招聘大量抖音小红书员工",
+      "onboard_time": 1708661251,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1993195,
       "num": 1993195,
       "word": "白敬亭进组难哄",
@@ -641,14 +649,6 @@
       "onboard_time": 1708402718,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1894919,
-      "num": 727131,
-      "word": "支付宝招聘大量抖音小红书员工",
-      "onboard_time": 1708661251,
-      "rank": 11,
-      "category": "互联网"
     },
     {
       "raw_hot": 1893124,
@@ -1249,6 +1249,14 @@
       "onboard_time": 1708401640,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1305546,
+      "num": 1305546,
+      "word": "游本昌曾让医生大呼奇迹",
+      "onboard_time": 1708662577,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 1298738,
@@ -2307,6 +2315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 826056,
+      "num": 826056,
+      "word": "顶流都能被忘",
+      "onboard_time": 1708662875,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 823400,
       "num": 823400,
       "word": "把掰了四年的朋友微博看完了",
@@ -2425,6 +2441,14 @@
       "onboard_time": 1708260154,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 792474,
+      "num": 792474,
+      "word": "33岁女子洗头后骑车成面瘫",
+      "onboard_time": 1708660232,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 791453,
@@ -2793,6 +2817,14 @@
       "onboard_time": 1708243475,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 707697,
+      "num": 707697,
+      "word": "张元英头发被拍卖",
+      "onboard_time": 1708661858,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 707263,
@@ -3571,14 +3603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 590132,
-      "num": 590132,
-      "word": "张元英头发被拍卖",
-      "onboard_time": 1708661858,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 587697,
       "num": 641290,
       "word": "YouTube前CEO之子在校突然身亡",
@@ -3971,6 +3995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 533874,
+      "num": 533874,
+      "word": "王源车窗呐喊",
+      "onboard_time": 1708662519,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531886,
       "num": 531886,
       "word": "下月要还的房贷会立刻减少吗",
@@ -4329,14 +4361,6 @@
       "onboard_time": 1708341398,
       "rank": 30,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 490887,
-      "num": 490887,
-      "word": "33岁女子洗头后骑车成面瘫",
-      "onboard_time": 1708660232,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 490288,
@@ -4955,6 +4979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 422388,
+      "num": 422388,
+      "word": "关晓彤好像手办娃娃",
+      "onboard_time": 1708661554,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 420181,
       "num": 420181,
       "word": "专家谈胖东来开除当事员工",
@@ -5001,14 +5033,6 @@
       "onboard_time": 1708649978,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416805,
-      "num": 416805,
-      "word": "关晓彤好像手办娃娃",
-      "onboard_time": 1708661554,
-      "rank": 29,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 416519,
@@ -5081,6 +5105,14 @@
       "onboard_time": 1708304133,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 415239,
+      "num": 415239,
+      "word": "TWICE回归",
+      "onboard_time": 1708664737,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 413098,
@@ -5536,6 +5568,14 @@
       "word": "贾玲第一次正视自己的才华",
       "onboard_time": 1708453758,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 373936,
+      "num": 373936,
+      "word": "河南元宵晚会上春山",
+      "onboard_time": 1708663660,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -6049,6 +6089,14 @@
       "onboard_time": 1708301012,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 336579,
+      "num": 336579,
+      "word": "iPhone15被曝蓝牙断连问题",
+      "onboard_time": 1708661076,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 335129,
@@ -6819,14 +6867,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 298052,
-      "num": 298052,
-      "word": "游本昌曾让医生大呼奇迹",
-      "onboard_time": 1708662577,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 298038,
       "num": 289594,
       "word": "为什么强势的人反而更受欢迎",
@@ -7203,14 +7243,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 282965,
-      "num": 282965,
-      "word": "iPhone15被曝蓝牙断连问题",
-      "onboard_time": 1708661076,
-      "rank": 35,
-      "category": "数码"
-    },
-    {
       "raw_hot": 282823,
       "num": 282823,
       "word": "厚福游神",
@@ -7355,6 +7387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277715,
+      "num": 277715,
+      "word": "猫妈妈叼着孩子来医院",
+      "onboard_time": 1708662458,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 277318,
       "num": 277318,
       "word": "男朋友正式来家里和狗装不认识",
@@ -7481,6 +7521,14 @@
       "onboard_time": 1708399957,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272658,
+      "num": 272658,
+      "word": "被高铁坐错位置的人骂了",
+      "onboard_time": 1708663660,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 272174,
@@ -8771,6 +8819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230163,
+      "num": 230163,
+      "word": "猎冰 华为二公主追击小米代言人",
+      "onboard_time": 1708665215,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229888,
       "num": 229888,
       "word": "市监局回应老凤祥清洗手镯logo被蹭掉",
@@ -9067,14 +9123,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 222880,
-      "num": 222880,
-      "word": "猫妈妈叼着孩子来医院",
-      "onboard_time": 1708662458,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 222736,
       "num": 222736,
       "word": "章昊泡泡",
@@ -9275,6 +9323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 218497,
+      "num": 218497,
+      "word": "欧阳娜娜古装",
+      "onboard_time": 1708664616,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218454,
       "num": 206098,
       "word": "偷感",
@@ -9457,6 +9513,14 @@
       "onboard_time": 1708304133,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213816,
+      "num": 213816,
+      "word": "虞书欣林一身高差海报",
+      "onboard_time": 1708664797,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 213808,
@@ -9656,14 +9720,6 @@
       "word": "SMTOWN艺人出发",
       "onboard_time": 1708501836,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 208961,
-      "num": 208961,
-      "word": "王源车窗呐喊",
-      "onboard_time": 1708662519,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -11203,6 +11259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182960,
+      "num": 182960,
+      "word": "为什么跟父母说话你会觉得烦躁",
+      "onboard_time": 1708664133,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182889,
       "num": 182889,
       "word": "SMTOWN直播",
@@ -12427,6 +12491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161931,
+      "num": 161931,
+      "word": "半熟恋人3艺人阵容全女性官宣",
+      "onboard_time": 1708664259,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161926,
       "num": 161926,
       "word": "玩石头治好了我的精神内耗",
@@ -12803,12 +12875,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154862,
-      "num": 154862,
-      "word": "顶流都能被忘",
-      "onboard_time": 1708662875,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 155036,
+      "num": 155036,
+      "word": "狗狗只是借过一下而已",
+      "onboard_time": 1708663118,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 154757,
@@ -13233,6 +13305,14 @@
       "onboard_time": 1708608697,
       "rank": 44,
       "category": "作品衍生,数码"
+    },
+    {
+      "raw_hot": 147297,
+      "num": 147297,
+      "word": "孙颖莎vs帕瓦德",
+      "onboard_time": 1708665273,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 146994,
