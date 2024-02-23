@@ -1,6 +1,6 @@
 {
   "startTime": 1708618926218,
-  "endTime": 1708676501569,
+  "endTime": 1708677235560,
   "band_list": [
     {
       "raw_hot": 2980398,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2142284,
+      "num": 2142284,
+      "word": "医生回应打HPV疫苗3年后患宫颈癌",
+      "onboard_time": 1708673434,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 2055877,
       "num": 2055877,
       "word": "新冠或是首个X疾病",
@@ -75,14 +83,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1953873,
-      "num": 1953873,
-      "word": "医生回应打HPV疫苗3年后患宫颈癌",
-      "onboard_time": 1708673434,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 1889524,
       "num": 1889524,
       "word": "闲置太久的鞋子就不要再穿了",
@@ -105,6 +105,14 @@
       "onboard_time": 1708659515,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1505552,
+      "num": 1505552,
+      "word": "南北 229",
+      "onboard_time": 1708672771,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 1468281,
@@ -145,14 +153,6 @@
       "onboard_time": 1708648713,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1232560,
-      "num": 1232560,
-      "word": "南北 229",
-      "onboard_time": 1708672771,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 1224765,
@@ -299,6 +299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 794645,
+      "num": 794645,
+      "word": "肖战看秀look",
+      "onboard_time": 1708675953,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 792474,
       "num": 792474,
       "word": "33岁女子洗头后骑车成面瘫",
@@ -401,6 +409,14 @@
       "onboard_time": 1708671094,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 603214,
+      "num": 603214,
+      "word": "郑爽被冻结百万股权",
+      "onboard_time": 1708675651,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 590995,
@@ -619,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 424111,
-      "num": 237308,
-      "word": "郑爽被冻结百万股权",
-      "onboard_time": 1708675651,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 423316,
       "num": 339224,
       "word": "姚安娜现身华为发布会",
@@ -657,14 +665,6 @@
       "onboard_time": 1708616015,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 413340,
-      "num": 233493,
-      "word": "肖战看秀look",
-      "onboard_time": 1708675953,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 409455,
@@ -705,6 +705,14 @@
       "onboard_time": 1708661858,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 376795,
+      "num": 376795,
+      "word": "无糖汤圆成今年元宵黑马",
+      "onboard_time": 1708676193,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 373936,
@@ -868,7 +876,7 @@
     },
     {
       "raw_hot": 292323,
-      "num": 171167,
+      "num": 180218,
       "word": "猎冰导演选择姚安娜的原因",
       "onboard_time": 1708674872,
       "rank": 30,
@@ -923,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 271194,
+      "num": 194902,
+      "word": "迪丽热巴同人图",
+      "onboard_time": 1708676434,
+      "rank": 46,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 269530,
       "num": 269530,
       "word": "唐艺昕谈长久恋爱关系",
@@ -969,6 +985,14 @@
       "onboard_time": 1708660654,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 255675,
+      "num": 255675,
+      "word": "被贩卖婴儿被洗白身份落户买主家",
+      "onboard_time": 1708676132,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254211,
@@ -1259,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204003,
+      "num": 179865,
+      "word": "种地吧2开播",
+      "onboard_time": 1708676672,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203075,
       "num": 186078,
       "word": "张卫健 人家明明59",
@@ -1403,6 +1435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176042,
+      "num": 180318,
+      "word": "外交部回应美方称中国起重机收集数据",
+      "onboard_time": 1708676492,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 174485,
       "num": 174485,
       "word": "孙颖莎vs帕瓦德",
@@ -1419,12 +1459,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 171835,
-      "num": 171835,
-      "word": "无糖汤圆成今年元宵黑马",
-      "onboard_time": 1708676193,
-      "rank": 28,
-      "category": "美食"
+      "raw_hot": 172056,
+      "num": 172056,
+      "word": "小米汽车送北京牌照失实",
+      "onboard_time": 1708673014,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 170857,
@@ -1435,20 +1475,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170308,
+      "num": 170308,
+      "word": "虞书欣林一雪中互动",
+      "onboard_time": 1708676372,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169827,
       "num": 169827,
       "word": "明尚西苑",
       "onboard_time": 1708657230,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169733,
-      "num": 169733,
-      "word": "小米汽车送北京牌照失实",
-      "onboard_time": 1708673014,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 169461,
@@ -1513,6 +1553,14 @@
       "onboard_time": 1708646429,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160561,
+      "num": 129756,
+      "word": "TWICE公主造型",
+      "onboard_time": 1708676612,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 159651,
@@ -1627,14 +1675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 135398,
-      "num": 135398,
-      "word": "虞书欣林一雪中互动",
-      "onboard_time": 1708676372,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 134880,
       "num": 134880,
       "word": "证监会连开六份罚单",
@@ -1651,12 +1691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129598,
-      "num": 129598,
-      "word": "被贩卖婴儿被洗白身份落户买主家",
-      "onboard_time": 1708676132,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 130724,
+      "num": 130724,
+      "word": "你不用变得外向 但发言时一定要勇敢",
+      "onboard_time": 1708676853,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 129480,
@@ -1667,12 +1707,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123557,
-      "num": 123557,
-      "word": "迪丽热巴同人图",
-      "onboard_time": 1708676434,
-      "rank": 46,
-      "category": "艺人,动漫"
+      "raw_hot": 122839,
+      "num": 122839,
+      "word": "暗杀教室 渚",
+      "onboard_time": 1708675593,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 119954,
@@ -1731,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105915,
+      "num": 117489,
+      "word": "LNG对战TES数据前瞻",
+      "onboard_time": 1708677212,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104747,
       "num": 104747,
       "word": "走快不爱定律",
@@ -1769,14 +1817,6 @@
       "onboard_time": 1708676434,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 98727,
-      "num": 98727,
-      "word": "暗杀教室 渚",
-      "onboard_time": 1708675593,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 97826,
@@ -1980,7 +2020,7 @@
     },
     {
       "raw_hot": 38364,
-      "num": 1270879,
+      "num": 1428598,
       "word": "雨雪天气开工出行宝典",
       "onboard_time": 1708656273,
       "rank": 2,

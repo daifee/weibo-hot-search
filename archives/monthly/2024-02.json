@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708676501569,
+  "endTime": 1708677235560,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1675,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2142284,
+      "num": 2142284,
+      "word": "医生回应打HPV疫苗3年后患宫颈癌",
+      "onboard_time": 1708673434,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 2140459,
       "num": 2140459,
       "word": "王一博",
@@ -2049,14 +2057,6 @@
       "onboard_time": 1707733828,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1953873,
-      "num": 1953873,
-      "word": "医生回应打HPV疫苗3年后患宫颈癌",
-      "onboard_time": 1708673434,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1953632,
@@ -3411,6 +3411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1505552,
+      "num": 1505552,
+      "word": "南北 229",
+      "onboard_time": 1708672771,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1503182,
       "num": 1503182,
       "word": "国内首例反复感染新冠的Goods综合征患者",
@@ -4729,14 +4737,6 @@
       "onboard_time": 1708603115,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1232560,
-      "num": 1232560,
-      "word": "南北 229",
-      "onboard_time": 1708672771,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 1231981,
@@ -9107,6 +9107,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 794645,
+      "num": 794645,
+      "word": "肖战看秀look",
+      "onboard_time": 1708675953,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 794588,
       "num": 794588,
       "word": "我妈是董明珠节目由王自如策划",
@@ -13121,6 +13129,14 @@
       "onboard_time": 1707182852,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 603214,
+      "num": 603214,
+      "word": "郑爽被冻结百万股权",
+      "onboard_time": 1708675651,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 603048,
@@ -18843,14 +18859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 424111,
-      "num": 237308,
-      "word": "郑爽被冻结百万股权",
-      "onboard_time": 1708675651,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 423907,
       "num": 390907,
       "word": "以后我的C盘永远不会满了",
@@ -19369,14 +19377,6 @@
       "onboard_time": 1706847513,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 413340,
-      "num": 233493,
-      "word": "肖战看秀look",
-      "onboard_time": 1708675953,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 413265,
@@ -21025,6 +21025,14 @@
       "onboard_time": 1707800737,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 376795,
+      "num": 376795,
+      "word": "无糖汤圆成今年元宵黑马",
+      "onboard_time": 1708676193,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 376637,
@@ -26084,7 +26092,7 @@
     },
     {
       "raw_hot": 292323,
-      "num": 171167,
+      "num": 180218,
       "word": "猎冰导演选择姚安娜的原因",
       "onboard_time": 1708674872,
       "rank": 30,
@@ -27915,6 +27923,14 @@
       "category": "旅游,综艺"
     },
     {
+      "raw_hot": 271194,
+      "num": 194902,
+      "word": "迪丽热巴同人图",
+      "onboard_time": 1708676434,
+      "rank": 46,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 271182,
       "num": 271182,
       "word": "张碧晨 我们总会遇见懂自己的人",
@@ -29345,6 +29361,14 @@
       "onboard_time": 1706759312,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 255675,
+      "num": 255675,
+      "word": "被贩卖婴儿被洗白身份落户买主家",
+      "onboard_time": 1708676132,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255603,
@@ -36675,6 +36699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204003,
+      "num": 179865,
+      "word": "种地吧2开播",
+      "onboard_time": 1708676672,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203959,
       "num": 203959,
       "word": "杨幂摸自己犄角",
@@ -42947,6 +42979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176042,
+      "num": 180318,
+      "word": "外交部回应美方称中国起重机收集数据",
+      "onboard_time": 1708676492,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 176031,
       "num": 191830,
       "word": "小米或退出印度笔记本市场",
@@ -43779,6 +43819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172056,
+      "num": 172056,
+      "word": "小米汽车送北京牌照失实",
+      "onboard_time": 1708673014,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 172039,
       "num": 172039,
       "word": "曾黎机场被粉丝催婚",
@@ -43817,14 +43865,6 @@
       "onboard_time": 1707242540,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171835,
-      "num": 171835,
-      "word": "无糖汤圆成今年元宵黑马",
-      "onboard_time": 1708676193,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 171784,
@@ -44203,6 +44243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 170308,
+      "num": 170308,
+      "word": "虞书欣林一雪中互动",
+      "onboard_time": 1708676372,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 170291,
       "num": 170291,
       "word": "车厘子加了保鲜剂会吃坏肚子吗",
@@ -44353,14 +44401,6 @@
       "onboard_time": 1707308076,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 169733,
-      "num": 169733,
-      "word": "小米汽车送北京牌照失实",
-      "onboard_time": 1708673014,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 169730,
@@ -46513,6 +46553,14 @@
       "onboard_time": 1708595434,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160561,
+      "num": 129756,
+      "word": "TWICE公主造型",
+      "onboard_time": 1708676612,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 160508,
@@ -52139,14 +52187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135398,
-      "num": 135398,
-      "word": "虞书欣林一雪中互动",
-      "onboard_time": 1708676372,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 135382,
       "num": 135382,
       "word": "杨幂龚俊笑场花絮",
@@ -53139,6 +53179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130724,
+      "num": 130724,
+      "word": "你不用变得外向 但发言时一定要勇敢",
+      "onboard_time": 1708676853,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130546,
       "num": 130546,
       "word": "大年初三宜哈哈哈哈",
@@ -53385,14 +53433,6 @@
       "onboard_time": 1707055474,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 129598,
-      "num": 129598,
-      "word": "被贩卖婴儿被洗白身份落户买主家",
-      "onboard_time": 1708676132,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129575,
@@ -54627,14 +54667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123557,
-      "num": 123557,
-      "word": "迪丽热巴同人图",
-      "onboard_time": 1708676434,
-      "rank": 46,
-      "category": "艺人,动漫"
-    },
-    {
       "raw_hot": 123511,
       "num": 123511,
       "word": "杜兰特一级恶意犯规",
@@ -54745,6 +54777,14 @@
       "onboard_time": 1707050912,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122839,
+      "num": 122839,
+      "word": "暗杀教室 渚",
+      "onboard_time": 1708675593,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 122763,
@@ -57483,6 +57523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105915,
+      "num": 117489,
+      "word": "LNG对战TES数据前瞻",
+      "onboard_time": 1708677212,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105896,
       "num": 105896,
       "word": "只有在自己家才能做自己",
@@ -58097,14 +58145,6 @@
       "onboard_time": 1708676434,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 98727,
-      "num": 98727,
-      "word": "暗杀教室 渚",
-      "onboard_time": 1708675593,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 98523,
@@ -61316,7 +61356,7 @@
     },
     {
       "raw_hot": 38364,
-      "num": 1270879,
+      "num": 1428598,
       "word": "雨雪天气开工出行宝典",
       "onboard_time": 1708656273,
       "rank": 2,
