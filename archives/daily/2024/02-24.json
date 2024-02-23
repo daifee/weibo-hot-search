@@ -1,6 +1,6 @@
 {
   "startTime": 1708705253127,
-  "endTime": 1708722902882,
+  "endTime": 1708724037229,
   "band_list": [
     {
       "raw_hot": 1783817,
@@ -435,6 +435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73527,
+      "num": 73527,
+      "word": "广州断桥事件倒车拦车车主发声",
+      "onboard_time": 1708717757,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71667,
       "num": 123067,
       "word": "三胎妈妈为生龙宝宝足月后缓生",
@@ -448,14 +456,6 @@
       "word": "在二手交易平台买到真二手了",
       "onboard_time": 1708685311,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68160,
-      "num": 68160,
-      "word": "广州断桥事件倒车拦车车主发声",
-      "onboard_time": 1708717757,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -507,20 +507,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 31632,
+      "num": 31632,
+      "word": "93岁姥爷非要帮铲雪外孙女吓跪了",
+      "onboard_time": 1708717817,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30350,
       "num": 33368,
       "word": "猎冰",
       "onboard_time": 1708690712,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28772,
-      "num": 28772,
-      "word": "93岁姥爷非要帮铲雪外孙女吓跪了",
-      "onboard_time": 1708717817,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24303,
@@ -531,20 +531,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 16989,
+      "num": 16989,
+      "word": "新东方发布归巢计划",
+      "onboard_time": 1708722317,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 13682,
       "num": 534713,
       "word": "空间站里都有哪些科学装置",
       "onboard_time": 1708693833,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13089,
-      "num": 13089,
-      "word": "新东方发布归巢计划",
-      "onboard_time": 1708722317,
-      "rank": 43,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
