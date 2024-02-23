@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708659281492,
+  "endTime": 1708661974889,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -931,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1563919,
+      "num": 1563919,
+      "word": "苏州追尾事故3人送医6人轻微擦伤",
+      "onboard_time": 1708659515,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1551768,
       "num": 661207,
       "word": "梅西",
@@ -1523,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1129952,
+      "num": 1129952,
+      "word": "热辣滚烫 宣传与电影热度",
+      "onboard_time": 1708659994,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1127800,
       "num": 1127800,
       "word": "长沙火车站当事女子发文回应",
@@ -1753,6 +1769,14 @@
       "onboard_time": 1708331623,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1021931,
+      "num": 1021931,
+      "word": "papi酱MCN公司涉广告违法被罚",
+      "onboard_time": 1708660473,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1018422,
@@ -2843,6 +2867,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 687043,
+      "num": 687043,
+      "word": "天蝎座2024会发生的三件好事",
+      "onboard_time": 1708656095,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 685014,
       "num": 685014,
       "word": "阿媒称梅西为国家队带来经济损失",
@@ -3083,6 +3115,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 646448,
+      "num": 646448,
+      "word": "支付宝招聘大量抖音小红书员工",
+      "onboard_time": 1708661251,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 644566,
       "num": 561568,
       "word": "当博士小情侣陷入热恋",
@@ -3315,6 +3355,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 613647,
+      "num": 613647,
+      "word": "苏州交警",
+      "onboard_time": 1708657535,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 613260,
       "num": 613260,
       "word": "林允钻石背链",
@@ -3409,14 +3457,6 @@
       "onboard_time": 1708472727,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 603292,
-      "num": 603292,
-      "word": "天蝎座2024会发生的三件好事",
-      "onboard_time": 1708656095,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 603048,
@@ -3753,6 +3793,14 @@
       "onboard_time": 1708567893,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 548892,
+      "num": 548892,
+      "word": "安徽省委书记调研大杨哥公司",
+      "onboard_time": 1708658854,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 548579,
@@ -4155,6 +4203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 500763,
+      "num": 500763,
+      "word": "苏翊鸣首跳失误",
+      "onboard_time": 1708660770,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 499770,
       "num": 499770,
       "word": "江西男子举报妻子与副镇长非法同居",
@@ -4539,6 +4595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 457203,
+      "num": 457203,
+      "word": "肖战粉丝狂喜",
+      "onboard_time": 1708661437,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 456107,
       "num": 456107,
       "word": "贾玲健身细节首次曝光",
@@ -4731,6 +4795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 435322,
+      "num": 435322,
+      "word": "33岁女子洗头后骑车成面瘫",
+      "onboard_time": 1708660232,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431371,
       "num": 431371,
       "word": "白鹿凤冠",
@@ -4913,14 +4985,6 @@
       "onboard_time": 1708418560,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 417325,
-      "num": 417325,
-      "word": "苏州交警",
-      "onboard_time": 1708657535,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 416890,
@@ -5963,14 +6027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 338312,
-      "num": 245282,
-      "word": "安徽省委书记调研大杨哥公司",
-      "onboard_time": 1708658854,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 335129,
       "num": 335129,
       "word": "罗云熙银发出妆",
@@ -6203,6 +6259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 322183,
+      "num": 322183,
+      "word": "给相亲对象拉了个群",
+      "onboard_time": 1708659574,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 322159,
       "num": 322159,
       "word": "陈靖可 土木人",
@@ -6259,12 +6323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318927,
+      "num": 318927,
+      "word": "张元英头发被拍卖",
+      "onboard_time": 1708661858,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318680,
       "num": 318680,
       "word": "爸妈一直管我的微信头像",
       "onboard_time": 1708507113,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 318465,
+      "num": 318465,
+      "word": "南京起火致4死小区亲历者发声",
+      "onboard_time": 1708659875,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317463,
@@ -6345,6 +6425,14 @@
       "onboard_time": 1708412740,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 312982,
+      "num": 312982,
+      "word": "娜扎秀场生图",
+      "onboard_time": 1708658975,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 312434,
@@ -6635,6 +6723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 301211,
+      "num": 1801311,
+      "word": "一张最想炫耀的老家照片",
+      "onboard_time": 1708656695,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301141,
       "num": 301141,
       "word": "热辣滚烫演唱会",
@@ -6787,14 +6883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295656,
-      "num": 1801311,
-      "word": "一张最想炫耀的老家照片",
-      "onboard_time": 1708656695,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295624,
       "num": 295624,
       "word": "这波病毒为什么难缠",
@@ -6881,6 +6969,14 @@
       "onboard_time": 1708404164,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 292437,
+      "num": 332104,
+      "word": "元宵节也是中国情人节",
+      "onboard_time": 1708658313,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292408,
@@ -7321,6 +7417,14 @@
       "onboard_time": 1708212205,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 273466,
+      "num": 273466,
+      "word": "关晓彤好像手办娃娃",
+      "onboard_time": 1708661554,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 273307,
@@ -8499,6 +8603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234090,
+      "num": 234090,
+      "word": "HR喜欢的简历长这样",
+      "onboard_time": 1708660654,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 234077,
       "num": 234077,
       "word": "春节寄养一只猫要上万元",
@@ -9001,6 +9113,14 @@
       "onboard_time": 1708596033,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221143,
+      "num": 221143,
+      "word": "iPhone15被曝蓝牙断连问题",
+      "onboard_time": 1708661076,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 220861,
@@ -9529,6 +9649,14 @@
       "onboard_time": 1708509034,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208450,
+      "num": 208450,
+      "word": "你常喝的奶茶多少钱1杯",
+      "onboard_time": 1708658253,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 208394,
@@ -10515,14 +10643,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 191020,
-      "num": 332104,
-      "word": "元宵节也是中国情人节",
-      "onboard_time": 1708658313,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190950,
       "num": 190950,
       "word": "RNG对战TES",
@@ -11275,14 +11395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178696,
-      "num": 178696,
-      "word": "你常喝的奶茶多少钱1杯",
-      "onboard_time": 1708658253,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 178626,
       "num": 178626,
       "word": "王鹤棣的脚42.5码",
@@ -11321,14 +11433,6 @@
       "onboard_time": 1708519175,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 177740,
-      "num": 177740,
-      "word": "娜扎秀场生图",
-      "onboard_time": 1708658975,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 177619,
@@ -11379,6 +11483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177200,
+      "num": 177200,
+      "word": "陈楚生深圳 抢票",
+      "onboard_time": 1708659994,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 177184,
       "num": 177184,
       "word": "萌兰偶遇不明飞行物",
@@ -11409,6 +11521,14 @@
       "onboard_time": 1708475433,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177000,
+      "num": 177000,
+      "word": "尽量对人有头有尾",
+      "onboard_time": 1708661616,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 176998,
@@ -11601,6 +11721,14 @@
       "onboard_time": 1708332280,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173627,
+      "num": 173627,
+      "word": "苏翊鸣十四冬大跳台夺冠",
+      "onboard_time": 1708661858,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 173503,
@@ -14961,6 +15089,14 @@
       "onboard_time": 1708625357,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32988,
+      "num": 593949,
+      "word": "小米人车家全生态全球首测",
+      "onboard_time": 1708660836,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 32772,

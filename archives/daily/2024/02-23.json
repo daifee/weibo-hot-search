@@ -1,6 +1,6 @@
 {
   "startTime": 1708618926218,
-  "endTime": 1708659281492,
+  "endTime": 1708661974889,
   "band_list": [
     {
       "raw_hot": 2980398,
@@ -59,6 +59,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1563919,
+      "num": 1563919,
+      "word": "苏州追尾事故3人送医6人轻微擦伤",
+      "onboard_time": 1708659515,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1468281,
       "num": 1468281,
       "word": "我国彩礼最低的省份",
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1129952,
+      "num": 1129952,
+      "word": "热辣滚烫 宣传与电影热度",
+      "onboard_time": 1708659994,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1067211,
       "num": 1067211,
       "word": "苏州一高架道路结冰多车相撞",
@@ -113,6 +129,14 @@
       "onboard_time": 1708653096,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1021931,
+      "num": 1021931,
+      "word": "papi酱MCN公司涉广告违法被罚",
+      "onboard_time": 1708660473,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 937082,
@@ -179,12 +203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 687043,
+      "num": 687043,
+      "word": "天蝎座2024会发生的三件好事",
+      "onboard_time": 1708656095,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 679678,
       "num": 679678,
       "word": "浦东支持外籍人才担任事业单位国有企业法人",
       "onboard_time": 1708653393,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 646448,
+      "num": 646448,
+      "word": "支付宝招聘大量抖音小红书员工",
+      "onboard_time": 1708661251,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 637333,
@@ -195,20 +235,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 613647,
+      "num": 613647,
+      "word": "苏州交警",
+      "onboard_time": 1708657535,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 612219,
       "num": 612219,
       "word": "上海地铁5号线9号线触网挂冰故障",
       "onboard_time": 1708646971,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 603292,
-      "num": 603292,
-      "word": "天蝎座2024会发生的三件好事",
-      "onboard_time": 1708656095,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 590995,
@@ -249,6 +289,14 @@
       "onboard_time": 1708656513,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 548892,
+      "num": 548892,
+      "word": "安徽省委书记调研大杨哥公司",
+      "onboard_time": 1708658854,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 545820,
@@ -299,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 500763,
+      "num": 500763,
+      "word": "苏翊鸣首跳失误",
+      "onboard_time": 1708660770,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 499320,
       "num": 499320,
       "word": "存款和被爱才是疲意生活中的解药",
@@ -331,6 +387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 457203,
+      "num": 457203,
+      "word": "肖战粉丝狂喜",
+      "onboard_time": 1708661437,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 453479,
       "num": 453479,
       "word": "王一博黑粉被执行2.4万",
@@ -347,6 +411,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 435322,
+      "num": 435322,
+      "word": "33岁女子洗头后骑车成面瘫",
+      "onboard_time": 1708660232,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429900,
       "num": 429900,
       "word": "英伟达",
@@ -360,14 +432,6 @@
       "word": "2.2亿元彩票大奖得主无须缴纳个人所得税",
       "onboard_time": 1708600715,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 417325,
-      "num": 417325,
-      "word": "苏州交警",
-      "onboard_time": 1708657535,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -435,14 +499,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 338312,
-      "num": 245282,
-      "word": "安徽省委书记调研大杨哥公司",
-      "onboard_time": 1708658854,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 332869,
       "num": 332869,
       "word": "贵州一男子割田坎抽烟引发山火被刑拘",
@@ -457,6 +513,30 @@
       "onboard_time": 1708613616,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 322183,
+      "num": 322183,
+      "word": "给相亲对象拉了个群",
+      "onboard_time": 1708659574,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 318927,
+      "num": 318927,
+      "word": "张元英头发被拍卖",
+      "onboard_time": 1708661858,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 318465,
+      "num": 318465,
+      "word": "南京起火致4死小区亲历者发声",
+      "onboard_time": 1708659875,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318456,
@@ -483,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312982,
+      "num": 312982,
+      "word": "娜扎秀场生图",
+      "onboard_time": 1708658975,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 309934,
       "num": 309934,
       "word": "沥心沙大桥遇难中巴司机家属发声",
@@ -507,7 +595,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 295656,
+      "raw_hot": 301211,
       "num": 1801311,
       "word": "一张最想炫耀的老家照片",
       "onboard_time": 1708656695,
@@ -521,6 +609,14 @@
       "onboard_time": 1708617391,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 292437,
+      "num": 332104,
+      "word": "元宵节也是中国情人节",
+      "onboard_time": 1708658313,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284832,
@@ -537,6 +633,14 @@
       "onboard_time": 1708652313,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 273466,
+      "num": 273466,
+      "word": "关晓彤好像手办娃娃",
+      "onboard_time": 1708661554,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 267804,
@@ -611,6 +715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 234090,
+      "num": 234090,
+      "word": "HR喜欢的简历长这样",
+      "onboard_time": 1708660654,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 232322,
       "num": 232322,
       "word": "丫丫雪后美成1幅画",
@@ -667,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221143,
+      "num": 221143,
+      "word": "iPhone15被曝蓝牙断连问题",
+      "onboard_time": 1708661076,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 220579,
       "num": 220579,
       "word": "冻雨",
@@ -705,6 +825,14 @@
       "onboard_time": 1708643541,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 208450,
+      "num": 208450,
+      "word": "你常喝的奶茶多少钱1杯",
+      "onboard_time": 1708658253,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 208057,
@@ -755,14 +883,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 191020,
-      "num": 332104,
-      "word": "元宵节也是中国情人节",
-      "onboard_time": 1708658313,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189920,
       "num": 189920,
       "word": "浙江一17岁学生确诊肠癌",
@@ -795,28 +915,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178696,
-      "num": 178696,
-      "word": "你常喝的奶茶多少钱1杯",
-      "onboard_time": 1708658253,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 178379,
       "num": 178379,
       "word": "周五爆改周四",
       "onboard_time": 1708598373,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 177740,
-      "num": 177740,
-      "word": "娜扎秀场生图",
-      "onboard_time": 1708658975,
-      "rank": 39,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 177360,
@@ -827,12 +931,36 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 177200,
+      "num": 177200,
+      "word": "陈楚生深圳 抢票",
+      "onboard_time": 1708659994,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 177000,
+      "num": 177000,
+      "word": "尽量对人有头有尾",
+      "onboard_time": 1708661616,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174124,
       "num": 174124,
       "word": "戚薇又瘦了",
       "onboard_time": 1708646189,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173627,
+      "num": 173627,
+      "word": "苏翊鸣十四冬大跳台夺冠",
+      "onboard_time": 1708661858,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 170857,
@@ -1233,6 +1361,14 @@
       "onboard_time": 1708625357,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32988,
+      "num": 593949,
+      "word": "小米人车家全生态全球首测",
+      "onboard_time": 1708660836,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 32400,
