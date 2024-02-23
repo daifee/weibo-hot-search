@@ -1,6 +1,6 @@
 {
   "startTime": 1708705253127,
-  "endTime": 1708715730157,
+  "endTime": 1708716837326,
   "band_list": [
     {
       "raw_hot": 1783817,
@@ -243,20 +243,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176244,
+      "num": 72099,
+      "word": "官方回应女浴室门口图片被吐槽变态",
+      "onboard_time": 1708712958,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173785,
       "num": 173785,
       "word": "肖战第二套看秀造型",
       "onboard_time": 1708698095,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 171454,
-      "num": 72099,
-      "word": "官方回应女浴室门口图片被吐槽变态",
-      "onboard_time": 1708712958,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170170,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41226,
+      "num": 41226,
+      "word": "春楠 热辣滚烫最不值一提的是减重",
+      "onboard_time": 1708714698,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 40936,
       "num": 46083,
       "word": "LNG对战TES",
@@ -483,20 +491,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 34010,
-      "num": 34010,
-      "word": "春楠 热辣滚烫最不值一提的是减重",
-      "onboard_time": 1708714698,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 30350,
       "num": 33368,
       "word": "猎冰",
       "onboard_time": 1708690712,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24303,
+      "num": 24303,
+      "word": "张艺兴全英文新歌",
+      "onboard_time": 1708716556,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 13682,
