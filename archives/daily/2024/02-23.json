@@ -1,6 +1,6 @@
 {
   "startTime": 1708618926218,
-  "endTime": 1708669335664,
+  "endTime": 1708670059834,
   "band_list": [
     {
       "raw_hot": 2980398,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1406132,
+      "num": 1406132,
+      "word": "上春山",
+      "onboard_time": 1708667254,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1343349,
       "num": 1343349,
       "word": "章若楠 温以凡",
@@ -107,8 +115,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1247295,
-      "num": 1247295,
+      "raw_hot": 1271462,
+      "num": 1271462,
       "word": "张卫健过60大寿一根白发都没有",
       "onboard_time": 1708667376,
       "rank": 1,
@@ -129,14 +137,6 @@
       "onboard_time": 1708618291,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1182722,
-      "num": 1182722,
-      "word": "上春山",
-      "onboard_time": 1708667254,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1129952,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 718348,
+      "num": 718348,
+      "word": "宋轶曾有一年多没戏拍",
+      "onboard_time": 1708665517,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 707697,
       "num": 707697,
       "word": "张元英头发被拍卖",
@@ -291,12 +299,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 682318,
+      "num": 682318,
+      "word": "90后退休时间可能要延迟到七八十岁",
+      "onboard_time": 1708668575,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 679678,
       "num": 679678,
       "word": "浦东支持外籍人才担任事业单位国有企业法人",
       "onboard_time": 1708653393,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 637512,
+      "num": 637512,
+      "word": "东部战区发布海报回家",
+      "onboard_time": 1708667196,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 637333,
@@ -369,22 +393,6 @@
       "onboard_time": 1708660770,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 565154,
-      "num": 565154,
-      "word": "宋轶曾有一年多没戏拍",
-      "onboard_time": 1708665517,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 556547,
-      "num": 556547,
-      "word": "东部战区发布海报回家",
-      "onboard_time": 1708667196,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 550725,
@@ -577,14 +585,6 @@
       "onboard_time": 1708598853,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 401222,
-      "num": 316297,
-      "word": "90后退休时间可能要延迟到七八十岁",
-      "onboard_time": 1708668575,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384830,
@@ -811,6 +811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 269530,
+      "num": 269530,
+      "word": "唐艺昕谈长久恋爱关系",
+      "onboard_time": 1708668931,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267804,
       "num": 267804,
       "word": "当00后开始掌握家宴大权",
@@ -1003,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213910,
+      "num": 213910,
+      "word": "全员加速中怎么卷里卷气的",
+      "onboard_time": 1708668455,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213816,
       "num": 213816,
       "word": "虞书欣林一身高差海报",
@@ -1025,14 +1041,6 @@
       "onboard_time": 1708644806,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211653,
-      "num": 211653,
-      "word": "全员加速中怎么卷里卷气的",
-      "onboard_time": 1708668455,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 210656,
@@ -1067,8 +1075,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205103,
-      "num": 205103,
+      "raw_hot": 206334,
+      "num": 206334,
       "word": "十年前父辈犯的错正中眉心",
       "onboard_time": 1708667972,
       "rank": 33,
@@ -1139,12 +1147,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184138,
-      "num": 184138,
-      "word": "唐艺昕谈长久恋爱关系",
-      "onboard_time": 1708668931,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 183135,
+      "num": 183135,
+      "word": "国乒女团3比0法国",
+      "onboard_time": 1708669652,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 180394,
@@ -1161,6 +1169,14 @@
       "onboard_time": 1708650754,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178599,
+      "num": 178599,
+      "word": "肖战米兰应援",
+      "onboard_time": 1708669533,
+      "rank": 37,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 178379,
@@ -1369,6 +1385,14 @@
       "onboard_time": 1708607496,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129480,
+      "num": 129480,
+      "word": "勇士战胜湖人",
+      "onboard_time": 1708669652,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 119954,
