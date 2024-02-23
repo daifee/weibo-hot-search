@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708665444366,
+  "endTime": 1708666437660,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -3147,6 +3147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1570305,
+      "num": 1570305,
+      "word": "游本昌曾让医生大呼奇迹",
+      "onboard_time": 1708662577,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1569503,
       "num": 1569503,
       "word": "甜馨 倒霉的一年也结束了",
@@ -4249,14 +4257,6 @@
       "onboard_time": 1707475472,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1305546,
-      "num": 1305546,
-      "word": "游本昌曾让医生大呼奇迹",
-      "onboard_time": 1708662577,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 1301722,
@@ -6000,6 +6000,14 @@
       "word": "苏州一高架道路结冰多车相撞",
       "onboard_time": 1708652733,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1067101,
+      "num": 1067101,
+      "word": "顶流都能被忘",
+      "onboard_time": 1708662875,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -8497,14 +8505,6 @@
       "onboard_time": 1706935349,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 826056,
-      "num": 826056,
-      "word": "顶流都能被忘",
-      "onboard_time": 1708662875,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 824855,
@@ -13443,6 +13443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 582723,
+      "num": 557361,
+      "word": "jiejie摔倒",
+      "onboard_time": 1708665874,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 582427,
       "num": 582427,
       "word": "十四冬",
@@ -14121,6 +14129,14 @@
       "onboard_time": 1708049492,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 556154,
+      "num": 556154,
+      "word": "猎冰 华为二公主追击小米代言人",
+      "onboard_time": 1708665215,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 555811,
@@ -17763,6 +17779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 445193,
+      "num": 445193,
+      "word": "陈梦 袁嘉楠",
+      "onboard_time": 1708665517,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 445158,
       "num": 445158,
       "word": "县城结婚压力大嫁妆多由男方出",
@@ -18219,6 +18243,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 434297,
+      "num": 434297,
+      "word": "TWICE回归",
+      "onboard_time": 1706852793,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 433922,
       "num": 375336,
       "word": "王栎鑫说0713魏晨也来了",
@@ -18329,6 +18361,14 @@
       "onboard_time": 1708233157,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 430653,
+      "num": 430653,
+      "word": "宋轶曾有一年多没戏拍",
+      "onboard_time": 1708665517,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 430337,
@@ -19131,14 +19171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 415239,
-      "num": 415239,
-      "word": "TWICE回归",
-      "onboard_time": 1706852793,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 415014,
       "num": 415014,
       "word": "官方通报体彩店员撕毁中奖彩票",
@@ -19345,6 +19377,14 @@
       "onboard_time": 1707059133,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 409455,
+      "num": 409455,
+      "word": "EDG",
+      "onboard_time": 1708665815,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 409424,
@@ -26675,6 +26715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281942,
+      "num": 281942,
+      "word": "苏州高架事故进入理赔流程",
+      "onboard_time": 1708665576,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281896,
       "num": 281896,
       "word": "当生活只剩下上班和下班",
@@ -27083,6 +27131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 277875,
+      "num": 277875,
+      "word": "猫妈妈叼着孩子来医院",
+      "onboard_time": 1708662458,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 277859,
       "num": 277859,
       "word": "贵州山火消防员朋友圈家人不可见",
@@ -27105,14 +27161,6 @@
       "onboard_time": 1707400715,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 277715,
-      "num": 277715,
-      "word": "猫妈妈叼着孩子来医院",
-      "onboard_time": 1708662458,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 277624,
@@ -28073,6 +28121,14 @@
       "onboard_time": 1708301670,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 267638,
+      "num": 267638,
+      "word": "小米汽车定价策略曝光",
+      "onboard_time": 1708665937,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 267609,
@@ -32147,14 +32203,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 230163,
-      "num": 230163,
-      "word": "猎冰 华为二公主追击小米代言人",
-      "onboard_time": 1708665215,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 230133,
       "num": 230133,
       "word": "腾讯正开发艾尔登法环手游",
@@ -33040,6 +33088,14 @@
       "word": "不要和别人比命好",
       "onboard_time": 1708524516,
       "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 223278,
+      "num": 223278,
+      "word": "为什么跟父母说话你会觉得烦躁",
+      "onboard_time": 1708664133,
+      "rank": 41,
       "category": "情感"
     },
     {
@@ -34137,6 +34193,14 @@
       "onboard_time": 1706767591,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 216574,
+      "num": 216574,
+      "word": "张艺兴新歌",
+      "onboard_time": 1708665576,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 216570,
@@ -41179,14 +41243,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 182960,
-      "num": 182960,
-      "word": "为什么跟父母说话你会觉得烦躁",
-      "onboard_time": 1708664133,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 182951,
       "num": 182951,
       "word": "邓为年画娃娃",
@@ -42889,6 +42945,14 @@
       "onboard_time": 1707502411,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174485,
+      "num": 174485,
+      "word": "孙颖莎vs帕瓦德",
+      "onboard_time": 1708665273,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 174451,
@@ -46547,6 +46611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158420,
+      "num": 158420,
+      "word": "唐嫣启程巴黎时装周",
+      "onboard_time": 1708666295,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 158414,
       "num": 158414,
       "word": "景区回应男子爬乐山大佛头顶小便",
@@ -48945,14 +49017,6 @@
       "onboard_time": 1706964870,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 147297,
-      "num": 147297,
-      "word": "孙颖莎vs帕瓦德",
-      "onboard_time": 1708665273,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 147215,

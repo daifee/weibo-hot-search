@@ -1,6 +1,6 @@
 {
   "startTime": 1708618926218,
-  "endTime": 1708665444366,
+  "endTime": 1708666437660,
   "band_list": [
     {
       "raw_hot": 2980398,
@@ -67,6 +67,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1570305,
+      "num": 1570305,
+      "word": "游本昌曾让医生大呼奇迹",
+      "onboard_time": 1708662577,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1563919,
       "num": 1563919,
       "word": "苏州追尾事故3人送医6人轻微擦伤",
@@ -89,14 +97,6 @@
       "onboard_time": 1708653573,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1305546,
-      "num": 1305546,
-      "word": "游本昌曾让医生大呼奇迹",
-      "onboard_time": 1708662577,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 1239216,
@@ -128,6 +128,14 @@
       "word": "苏州一高架道路结冰多车相撞",
       "onboard_time": 1708652733,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1067101,
+      "num": 1067101,
+      "word": "顶流都能被忘",
+      "onboard_time": 1708662875,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -192,14 +200,6 @@
       "word": "东莞3人返工时患经济舱综合征身亡",
       "onboard_time": 1708653096,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 826056,
-      "num": 826056,
-      "word": "顶流都能被忘",
-      "onboard_time": 1708662875,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -315,6 +315,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 582723,
+      "num": 557361,
+      "word": "jiejie摔倒",
+      "onboard_time": 1708665874,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 581258,
       "num": 581258,
       "word": "董事长操纵自家股票交易800亿亏2.4亿",
@@ -329,6 +337,14 @@
       "onboard_time": 1708660770,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 556154,
+      "num": 556154,
+      "word": "猎冰 华为二公主追击小米代言人",
+      "onboard_time": 1708665215,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 550725,
@@ -443,12 +459,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445193,
+      "num": 445193,
+      "word": "陈梦 袁嘉楠",
+      "onboard_time": 1708665517,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 441561,
       "num": 388028,
       "word": "手机放枕边睡觉有辐射吗",
       "onboard_time": 1708650453,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 434297,
+      "num": 434297,
+      "word": "TWICE回归",
+      "onboard_time": 1708664737,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 430653,
+      "num": 430653,
+      "word": "宋轶曾有一年多没戏拍",
+      "onboard_time": 1708665517,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 429900,
@@ -491,12 +531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 415239,
-      "num": 415239,
-      "word": "TWICE回归",
-      "onboard_time": 1708664737,
-      "rank": 18,
-      "category": "音乐"
+      "raw_hot": 409455,
+      "num": 409455,
+      "word": "EDG",
+      "onboard_time": 1708665815,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 401697,
@@ -691,8 +731,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277715,
-      "num": 277715,
+      "raw_hot": 281942,
+      "num": 281942,
+      "word": "苏州高架事故进入理赔流程",
+      "onboard_time": 1708665576,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277875,
+      "num": 277875,
       "word": "猫妈妈叼着孩子来医院",
       "onboard_time": 1708662458,
       "rank": 34,
@@ -721,6 +769,14 @@
       "onboard_time": 1708651354,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 267638,
+      "num": 267638,
+      "word": "小米汽车定价策略曝光",
+      "onboard_time": 1708665937,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 266418,
@@ -803,14 +859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230163,
-      "num": 230163,
-      "word": "猎冰 华为二公主追击小米代言人",
-      "onboard_time": 1708665215,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229814,
       "num": 229814,
       "word": "A股",
@@ -851,6 +899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223278,
+      "num": 223278,
+      "word": "为什么跟父母说话你会觉得烦躁",
+      "onboard_time": 1708664133,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223164,
       "num": 223164,
       "word": "女生说路难开男友父母就铺了水泥路",
@@ -873,6 +929,14 @@
       "onboard_time": 1708664616,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216574,
+      "num": 216574,
+      "word": "张艺兴新歌",
+      "onboard_time": 1708665576,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 214942,
@@ -995,14 +1059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182960,
-      "num": 182960,
-      "word": "为什么跟父母说话你会觉得烦躁",
-      "onboard_time": 1708664133,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 180394,
       "num": 180394,
       "word": "青簪行 簪中录",
@@ -1041,6 +1097,14 @@
       "onboard_time": 1708659994,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 174485,
+      "num": 174485,
+      "word": "孙颖莎vs帕瓦德",
+      "onboard_time": 1708665273,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 174124,
@@ -1123,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158420,
+      "num": 158420,
+      "word": "唐嫣启程巴黎时装周",
+      "onboard_time": 1708666295,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 158239,
       "num": 158239,
       "word": "柳鑫宇开心领奖",
@@ -1161,14 +1233,6 @@
       "onboard_time": 1708599570,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147297,
-      "num": 147297,
-      "word": "孙颖莎vs帕瓦德",
-      "onboard_time": 1708665273,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 138728,
