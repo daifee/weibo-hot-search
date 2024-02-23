@@ -1,0 +1,410 @@
+{
+  "runTime": 1708695252267,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2084099,
+        "num": 2084099,
+        "word": "贾玲 你看到什么我就拍了什么",
+        "onboard_time": 1708692151,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1664313,
+        "num": 1664313,
+        "word": "汪东城回应吴尊",
+        "onboard_time": 1708688673,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80170,
+        "num": 848071,
+        "word": "元宵节有哪些民俗",
+        "onboard_time": 1708694013,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714148,
+        "num": 714148,
+        "word": "佛山电翰又开始直播打螺丝了",
+        "onboard_time": 1708687171,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 651688,
+        "num": 651688,
+        "word": "南北 229",
+        "onboard_time": 1708672771,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566830,
+        "num": 566830,
+        "word": "富家千金接班7年累计亏损近32亿",
+        "onboard_time": 1708682435,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 530969,
+        "num": 530969,
+        "word": "郭品超顶上好了",
+        "onboard_time": 1708693350,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529061,
+        "num": 529061,
+        "word": "希望所有爱豆都来学习",
+        "onboard_time": 1708690832,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 455336,
+        "num": 455336,
+        "word": "张继科已经与安踏解约",
+        "onboard_time": 1708679071,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430414,
+        "num": 430414,
+        "word": "三胎妈妈为生龙宝宝足月后缓生",
+        "onboard_time": 1708679314,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1926890,
+        "num": 405308,
+        "word": "凯特王妃疑患绿色癌症",
+        "onboard_time": 1708687654,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 481911,
+        "num": 396064,
+        "word": "汪新马燕结婚了",
+        "onboard_time": 1708692391,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443468,
+        "num": 394095,
+        "word": "李子柒公司工商变更",
+        "onboard_time": 1708693893,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 378816,
+        "num": 378816,
+        "word": "全员加速中",
+        "onboard_time": 1708691073,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356793,
+        "num": 356793,
+        "word": "五条悟又是第一",
+        "onboard_time": 1708692452,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 372649,
+        "num": 355692,
+        "word": "母女是一种有痛感的关系",
+        "onboard_time": 1708694192,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352887,
+        "num": 352887,
+        "word": "每年二月我都会痛哭一场",
+        "onboard_time": 1708684112,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344479,
+        "num": 344479,
+        "word": "28岁网红菲菲公主因癌症去世",
+        "onboard_time": 1708680693,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 330560,
+        "num": 330560,
+        "word": "吃了止痛药以为自己病好了的小猫",
+        "onboard_time": 1708692573,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254093,
+        "num": 325179,
+        "word": "3月1日起快递不得擅自放驿站",
+        "onboard_time": 1708693833,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526863,
+        "num": 324850,
+        "word": "马面裙卖爆了",
+        "onboard_time": 1708691371,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 334930,
+        "num": 324752,
+        "word": "好久没联系的同学一般只有三件事",
+        "onboard_time": 1708694013,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 324442,
+        "num": 324442,
+        "word": "肖战排面",
+        "onboard_time": 1708682073,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245065,
+        "num": 308067,
+        "word": "KPL",
+        "onboard_time": 1708689511,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 293394,
+        "num": 293394,
+        "word": "早上和老板说怀孕下午就被降薪",
+        "onboard_time": 1708685554,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268682,
+        "num": 268682,
+        "word": "李沁拖地大衣",
+        "onboard_time": 1708688073,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254999,
+        "num": 254999,
+        "word": "预示癌症的20个症状",
+        "onboard_time": 1708688494,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252297,
+        "num": 252297,
+        "word": "很多家庭都是一座疯人院",
+        "onboard_time": 1708691610,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224942,
+        "num": 250562,
+        "word": "A股5000家上市公司缴纳全国税收的25%",
+        "onboard_time": 1708688190,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124203,
+        "num": 248954,
+        "word": "中央财经委员会第四次会议",
+        "onboard_time": 1708690052,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 472906,
+        "num": 248948,
+        "word": "贾玲说如果重拍你好李焕英会更有电影感",
+        "onboard_time": 1708694793,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248932,
+        "num": 248932,
+        "word": "李明德再演学生",
+        "onboard_time": 1708692813,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242490,
+        "num": 242490,
+        "word": "肖战看秀look",
+        "onboard_time": 1708675953,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214283,
+        "num": 214283,
+        "word": "张卫健过60大寿一根白发都没有",
+        "onboard_time": 1708667376,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194970,
+        "num": 194970,
+        "word": "不会断句的网友把博物馆逼得改名",
+        "onboard_time": 1708694735,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177623,
+        "num": 177623,
+        "word": "新沙洞老虎去世",
+        "onboard_time": 1708678353,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174827,
+        "num": 174827,
+        "word": "奎八 删照片",
+        "onboard_time": 1708683334,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171794,
+        "num": 171794,
+        "word": "LNG对战TES",
+        "onboard_time": 1708688130,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170667,
+        "num": 170667,
+        "word": "RNG官宣朱开回归",
+        "onboard_time": 1708689932,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160235,
+        "num": 160235,
+        "word": "医生回应打HPV疫苗3年后患宫颈癌",
+        "onboard_time": 1708673434,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160212,
+        "num": 160212,
+        "word": "热辣票房成功说靠营销是站不住脚的",
+        "onboard_time": 1708674575,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158305,
+        "num": 158305,
+        "word": "双鱼座才不会在感情中盲目",
+        "onboard_time": 1708686272,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157216,
+        "num": 157216,
+        "word": "地狱笑话",
+        "onboard_time": 1708694495,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153949,
+        "num": 153949,
+        "word": "上春山",
+        "onboard_time": 1708667254,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152127,
+        "num": 152127,
+        "word": "颜值红利",
+        "onboard_time": 1708694073,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143665,
+        "num": 143665,
+        "word": "李皓晴0比3平野美宇",
+        "onboard_time": 1708694253,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139460,
+        "num": 139460,
+        "word": "狗子在外待一夜浑身结满冰",
+        "onboard_time": 1708691012,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135318,
+        "num": 135318,
+        "word": "南来北往",
+        "onboard_time": 1708690890,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133841,
+        "num": 133841,
+        "word": "柿子汤圆",
+        "onboard_time": 1708681293,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111828,
+        "num": 133769,
+        "word": "在二手交易平台买到真二手了",
+        "onboard_time": 1708685311,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}
