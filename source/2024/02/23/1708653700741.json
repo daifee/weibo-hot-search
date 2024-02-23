@@ -1,0 +1,410 @@
+{
+  "runTime": 1708653700741,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2517884,
+        "num": 2517884,
+        "word": "苏州高架",
+        "onboard_time": 1708648955,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1345332,
+        "num": 1345332,
+        "word": "新冠或是首个X疾病",
+        "onboard_time": 1708643784,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52617,
+        "num": 1244199,
+        "word": "南腔北调见证冰雪运动热力十足",
+        "onboard_time": 1708608457,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2263767,
+        "num": 1205031,
+        "word": "夫妻相约赴死妻子身亡丈夫反悔",
+        "onboard_time": 1708651653,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1150841,
+        "num": 1150841,
+        "word": "闲置太久的鞋子就不要再穿了",
+        "onboard_time": 1708645045,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 895431,
+        "num": 895431,
+        "word": "学校回应网传老师与学生在教室接吻",
+        "onboard_time": 1708648713,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875237,
+        "num": 875237,
+        "word": "苏州一高架道路结冰多车相撞",
+        "onboard_time": 1708652733,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 791371,
+        "num": 791371,
+        "word": "贵州一天通报6起山火原因",
+        "onboard_time": 1708652072,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584861,
+        "num": 584861,
+        "word": "大侦探 内娱不可复刻的推界春晚",
+        "onboard_time": 1708649374,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 570326,
+        "num": 570326,
+        "word": "董事长操纵自家股票交易800亿亏2.4亿",
+        "onboard_time": 1708651471,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 632375,
+        "num": 541632,
+        "word": "青簪行男主",
+        "onboard_time": 1708644806,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 499320,
+        "num": 499320,
+        "word": "存款和被爱才是疲意生活中的解药",
+        "onboard_time": 1708647515,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 468749,
+        "num": 468749,
+        "word": "一旦出现这个姿势要立即就医",
+        "onboard_time": 1708605694,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 455491,
+        "num": 455491,
+        "word": "广州遇难公交司机凌晨4点工作到晚7点",
+        "onboard_time": 1708618291,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447139,
+        "num": 447139,
+        "word": "魏晨 我招谁惹谁了",
+        "onboard_time": 1708643122,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432394,
+        "num": 432394,
+        "word": "儿子玩音乐多年不火54岁妈妈出手了",
+        "onboard_time": 1708650576,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414472,
+        "num": 414472,
+        "word": "青簪行 定档",
+        "onboard_time": 1708610197,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410059,
+        "num": 410059,
+        "word": "南京一小区发生火灾致4人死亡",
+        "onboard_time": 1708652794,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392455,
+        "num": 392455,
+        "word": "身体出现这5个迹象说明你累过头了",
+        "onboard_time": 1708642822,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 375551,
+        "num": 375551,
+        "word": "英伟达",
+        "onboard_time": 1708649013,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 441561,
+        "num": 356678,
+        "word": "手机放枕边睡觉有辐射吗",
+        "onboard_time": 1708650453,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 332869,
+        "num": 332869,
+        "word": "贵州一男子割田坎抽烟引发山火被刑拘",
+        "onboard_time": 1708651054,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294255,
+        "num": 294255,
+        "word": "花花被遗忘在外场饲养被解雇",
+        "onboard_time": 1708653096,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281780,
+        "num": 281780,
+        "word": "肖战米兰",
+        "onboard_time": 1708646189,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 277172,
+        "num": 277172,
+        "word": "热辣滚烫进入中国影史票房TOP17",
+        "onboard_time": 1708652313,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 276954,
+        "num": 276954,
+        "word": "上海地铁5号线9号线触网挂冰故障",
+        "onboard_time": 1708646971,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267804,
+        "num": 267804,
+        "word": "当00后开始掌握家宴大权",
+        "onboard_time": 1708651354,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264366,
+        "num": 264366,
+        "word": "白鹿情商",
+        "onboard_time": 1708643541,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229814,
+        "num": 229814,
+        "word": "A股",
+        "onboard_time": 1708653152,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 224357,
+        "num": 224357,
+        "word": "IU写手写信感谢汤唯",
+        "onboard_time": 1708652673,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 394934,
+        "num": 224036,
+        "word": "东莞3人返工时患经济舱综合征身亡",
+        "onboard_time": 1708653096,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325629,
+        "num": 223881,
+        "word": "我国彩礼最低的省份",
+        "onboard_time": 1708653096,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223671,
+        "num": 223671,
+        "word": "上海地铁",
+        "onboard_time": 1708643784,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212576,
+        "num": 212576,
+        "word": "种地吧",
+        "onboard_time": 1708652794,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203639,
+        "num": 203639,
+        "word": "广佛线",
+        "onboard_time": 1708649978,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203242,
+        "num": 203242,
+        "word": "冻雨",
+        "onboard_time": 1708650994,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202356,
+        "num": 202356,
+        "word": "什么叫裁员裁到大动脉了",
+        "onboard_time": 1708611338,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188545,
+        "num": 188545,
+        "word": "马燕快碎了",
+        "onboard_time": 1708644806,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180972,
+        "num": 180972,
+        "word": "章若楠 温以凡",
+        "onboard_time": 1708653573,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174436,
+        "num": 174436,
+        "word": "烟火人家 渣爹",
+        "onboard_time": 1708647332,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164965,
+        "num": 164965,
+        "word": "加沙医学生称医院沦为了坟场",
+        "onboard_time": 1708652614,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 164550,
+        "num": 164550,
+        "word": "浦东支持外籍人才担任事业单位国有企业法人",
+        "onboard_time": 1708653393,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158344,
+        "num": 158344,
+        "word": "陈都灵早期模特照",
+        "onboard_time": 1708617990,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152208,
+        "num": 152208,
+        "word": "贵州8场山火均是违规用火所致",
+        "onboard_time": 1708652913,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142820,
+        "num": 142820,
+        "word": "当一个江浙沪赘婿决定离婚",
+        "onboard_time": 1708605994,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137434,
+        "num": 137434,
+        "word": "八岁小女孩向妈妈证明自己能养一只仓鼠",
+        "onboard_time": 1708644265,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136027,
+        "num": 136027,
+        "word": "戚薇又瘦了",
+        "onboard_time": 1708646189,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132286,
+        "num": 132286,
+        "word": "女生说路难开男友父母就铺了水泥路",
+        "onboard_time": 1708644023,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130613,
+        "num": 130613,
+        "word": "孙千吃醋了",
+        "onboard_time": 1708614335,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127068,
+        "num": 127068,
+        "word": "为何1点点奶茶不火了",
+        "onboard_time": 1708653634,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}
