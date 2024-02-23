@@ -1,6 +1,6 @@
 {
   "startTime": 1708618926218,
-  "endTime": 1708653700741,
+  "endTime": 1708654955682,
   "band_list": [
     {
       "raw_hot": 2517884,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2263767,
-      "num": 1205031,
+      "raw_hot": 2378979,
+      "num": 1373158,
       "word": "夫妻相约赴死妻子身亡丈夫反悔",
       "onboard_time": 1708651653,
       "rank": 30,
@@ -35,6 +35,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1685041,
+      "num": 1685041,
+      "word": "苏州交警回应高架百车相撞",
+      "onboard_time": 1708653993,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1239216,
       "num": 1239216,
       "word": "学校回应网传老师与学生在教室接吻",
@@ -51,12 +59,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1210392,
+      "num": 1210392,
+      "word": "章若楠 温以凡",
+      "onboard_time": 1708653573,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1067211,
+      "num": 1067211,
+      "word": "苏州一高架道路结冰多车相撞",
+      "onboard_time": 1708652733,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1064300,
       "num": 1064300,
       "word": "一旦出现这个姿势要立即就医",
       "onboard_time": 1708605694,
       "rank": 0,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1025757,
+      "num": 1025757,
+      "word": "花花被遗忘在外场饲养被解雇",
+      "onboard_time": 1708653096,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 937082,
@@ -67,20 +99,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 875237,
-      "num": 875237,
-      "word": "苏州一高架道路结冰多车相撞",
-      "onboard_time": 1708652733,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 855786,
       "num": 855786,
       "word": "断崖式衰老常发生在3个年龄",
       "onboard_time": 1708602814,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 834340,
+      "num": 834340,
+      "word": "东莞3人返工时患经济舱综合征身亡",
+      "onboard_time": 1708653096,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 818299,
@@ -147,8 +179,8 @@
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 570326,
-      "num": 570326,
+      "raw_hot": 578145,
+      "num": 578145,
       "word": "董事长操纵自家股票交易800亿亏2.4亿",
       "onboard_time": 1708651471,
       "rank": 39,
@@ -161,6 +193,14 @@
       "onboard_time": 1708614335,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 525068,
+      "num": 375145,
+      "word": "我国彩礼最低的省份",
+      "onboard_time": 1708653096,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 521104,
@@ -176,6 +216,14 @@
       "word": "儿子玩音乐多年不火54岁妈妈出手了",
       "onboard_time": 1708650576,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513959,
+      "num": 513959,
+      "word": "南京一小区发生火灾致4人死亡",
+      "onboard_time": 1708652794,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -219,6 +267,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 451777,
+      "num": 451777,
+      "word": "为何1点点奶茶不火了",
+      "onboard_time": 1708653634,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 446373,
+      "num": 446373,
+      "word": "浦东支持外籍人才担任事业单位国有企业法人",
+      "onboard_time": 1708653393,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441561,
       "num": 388028,
       "word": "手机放枕边睡觉有辐射吗",
@@ -259,28 +323,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 410059,
-      "num": 410059,
-      "word": "南京一小区发生火灾致4人死亡",
-      "onboard_time": 1708652794,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 401697,
       "num": 401697,
       "word": "生理性喜欢",
       "onboard_time": 1708598853,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 394934,
-      "num": 224036,
-      "word": "东莞3人返工时患经济舱综合征身亡",
-      "onboard_time": 1708653096,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384830,
@@ -331,12 +379,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 325629,
-      "num": 223881,
-      "word": "我国彩礼最低的省份",
-      "onboard_time": 1708653096,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 320089,
+      "num": 320089,
+      "word": "王一博黑粉被执行2.4万",
+      "onboard_time": 1708654113,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 318456,
@@ -355,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315386,
+      "num": 315386,
+      "word": "南京火灾",
+      "onboard_time": 1708654294,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309934,
       "num": 309934,
       "word": "沥心沙大桥遇难中巴司机家属发声",
@@ -369,14 +425,6 @@
       "onboard_time": 1708617990,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 294255,
-      "num": 294255,
-      "word": "花花被遗忘在外场饲养被解雇",
-      "onboard_time": 1708653096,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292958,
@@ -443,12 +491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232216,
+      "num": 232216,
+      "word": "肖战今天看两场秀",
+      "onboard_time": 1708654713,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 229814,
       "num": 229814,
       "word": "A股",
       "onboard_time": 1708653152,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 229040,
+      "num": 229040,
+      "word": "北京警方刑拘93人",
+      "onboard_time": 1708654355,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228006,
@@ -571,12 +635,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180972,
-      "num": 180972,
-      "word": "章若楠 温以凡",
-      "onboard_time": 1708653573,
-      "rank": 38,
+      "raw_hot": 186325,
+      "num": 186325,
+      "word": "猎冰总投资",
+      "onboard_time": 1708653933,
+      "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185329,
+      "num": 185329,
+      "word": "kcon香港",
+      "onboard_time": 1708654713,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 180394,
@@ -651,11 +723,11 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 164550,
-      "num": 164550,
-      "word": "浦东支持外籍人才担任事业单位国有企业法人",
-      "onboard_time": 1708653393,
-      "rank": 41,
+      "raw_hot": 164884,
+      "num": 164884,
+      "word": "高考考得最好的一群人现在在干啥",
+      "onboard_time": 1708654594,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -729,14 +801,6 @@
       "onboard_time": 1708607496,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127068,
-      "num": 127068,
-      "word": "为何1点点奶茶不火了",
-      "onboard_time": 1708653634,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 119954,
