@@ -1,6 +1,6 @@
 {
   "startTime": 1708618926218,
-  "endTime": 1708683552901,
+  "endTime": 1708684472602,
   "band_list": [
     {
       "raw_hot": 2980398,
@@ -41,6 +41,14 @@
       "onboard_time": 1708651653,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2218821,
+      "num": 2218821,
+      "word": "南北 229",
+      "onboard_time": 1708672771,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 2187584,
@@ -99,14 +107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1694113,
-      "num": 1694113,
-      "word": "南北 229",
-      "onboard_time": 1708672771,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1665937,
       "num": 1421478,
       "word": "新沙洞老虎去世",
@@ -147,20 +147,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1391435,
+      "num": 1391435,
+      "word": "28岁网红菲菲公主因癌症去世",
+      "onboard_time": 1708680693,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1343349,
       "num": 1343349,
       "word": "章若楠 温以凡",
       "onboard_time": 1708653573,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1311156,
-      "num": 1311156,
-      "word": "28岁网红菲菲公主因癌症去世",
-      "onboard_time": 1708680693,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 1271462,
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1020525,
+      "num": 1020525,
+      "word": "柿子汤圆",
+      "onboard_time": 1708681293,
+      "rank": 6,
+      "category": "美食"
+    },
+    {
       "raw_hot": 955733,
       "num": 955733,
       "word": "肖战排面",
@@ -273,14 +281,6 @@
       "onboard_time": 1708610197,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 922511,
-      "num": 922511,
-      "word": "柿子汤圆",
-      "onboard_time": 1708681293,
-      "rank": 6,
-      "category": "美食"
     },
     {
       "raw_hot": 918598,
@@ -441,6 +441,14 @@
       "onboard_time": 1708665215,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 617544,
+      "num": 617544,
+      "word": "奎八 删照片",
+      "onboard_time": 1708683334,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 613647,
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 500995,
-      "num": 364142,
+      "num": 368904,
       "word": "三胎妈妈为生龙宝宝足月后缓生",
       "onboard_time": 1708679314,
       "rank": 34,
@@ -625,6 +633,14 @@
       "onboard_time": 1708647515,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 496826,
+      "num": 496826,
+      "word": "肖战米兰看秀登世趋第一",
+      "onboard_time": 1708683397,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 482317,
@@ -716,7 +732,7 @@
     },
     {
       "raw_hot": 423316,
-      "num": 339224,
+      "num": 352853,
       "word": "姚安娜现身华为发布会",
       "onboard_time": 1708671935,
       "rank": 20,
@@ -755,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413422,
+      "num": 361627,
+      "word": "富家千金接班7年累计亏损近32亿",
+      "onboard_time": 1708682435,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 409455,
       "num": 409455,
       "word": "EDG",
@@ -787,14 +811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380915,
-      "num": 294477,
-      "word": "富家千金接班7年累计亏损近32亿",
-      "onboard_time": 1708682435,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
       "raw_hot": 376811,
       "num": 376811,
       "word": "苏翊鸣十四冬大跳台夺冠",
@@ -825,6 +841,14 @@
       "onboard_time": 1708605994,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341713,
+      "num": 904855,
+      "word": "上海人爱吃肉汤圆的事藏不住了",
+      "onboard_time": 1708683093,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 339294,
@@ -899,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317069,
+      "num": 317069,
+      "word": "这个月 为什么职场中女性领导较少",
+      "onboard_time": 1708680635,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 313897,
       "num": 313897,
       "word": "北京警方刑拘93人",
@@ -913,14 +945,6 @@
       "onboard_time": 1708658975,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 311470,
-      "num": 294360,
-      "word": "这个月 为什么职场中女性领导较少",
-      "onboard_time": 1708680635,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 309934,
@@ -953,14 +977,6 @@
       "onboard_time": 1708656695,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294320,
-      "num": 294320,
-      "word": "肖战米兰看秀登世趋第一",
-      "onboard_time": 1708683397,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 293300,
@@ -1012,7 +1028,7 @@
     },
     {
       "raw_hot": 286723,
-      "num": 294869,
+      "num": 374205,
       "word": "林昀儒奥恰洛夫极限攻防",
       "onboard_time": 1708680572,
       "rank": 39,
@@ -1105,14 +1121,6 @@
       "onboard_time": 1708651354,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 266945,
-      "num": 904855,
-      "word": "上海人爱吃肉汤圆的事藏不住了",
-      "onboard_time": 1708683093,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 266418,
@@ -1299,6 +1307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 224376,
+      "num": 220046,
+      "word": "林昀儒让二追三",
+      "onboard_time": 1708683633,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223492,
       "num": 223492,
       "word": "法国观众说封神比漫威电影好看",
@@ -1376,6 +1392,14 @@
       "word": "虞书欣林一身高差海报",
       "onboard_time": 1708664797,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 212722,
+      "num": 212722,
+      "word": "大唐狄公案 背德文学",
+      "onboard_time": 1708684052,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1491,6 +1515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204693,
+      "num": 204693,
+      "word": "朴秀荣回眸",
+      "onboard_time": 1708683694,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204003,
       "num": 179865,
       "word": "种地吧2开播",
@@ -1553,14 +1585,6 @@
       "onboard_time": 1708679794,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 193955,
-      "num": 193955,
-      "word": "奎八 删照片",
-      "onboard_time": 1708683334,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 193777,
@@ -1665,6 +1689,14 @@
       "onboard_time": 1708650754,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178772,
+      "num": 178772,
+      "word": "每年二月我都会痛哭一场",
+      "onboard_time": 1708684112,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 178599,
@@ -2073,6 +2105,14 @@
       "onboard_time": 1708669652,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128928,
+      "num": 128928,
+      "word": "TTG对战RNGM",
+      "onboard_time": 1708684415,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 122839,
@@ -2484,6 +2524,9 @@
     },
     {
       "word": "#习近平曾在厦门打响治理污染的硬仗#"
+    },
+    {
+      "word": "#梁家河的七年岁月对习近平影响深刻#"
     }
   ]
 }
