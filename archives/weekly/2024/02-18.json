@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708698839062,
+  "endTime": 1708701600079,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -2427,6 +2427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 865652,
+      "num": 865652,
+      "word": "多地延迟开学90后父母忙成双面人",
+      "onboard_time": 1708696293,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 859226,
       "num": 859226,
       "word": "乐莹跳楼戏拍了72遍用了第72条",
@@ -3867,6 +3875,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 593341,
+      "num": 331479,
+      "word": "熊出没收到赵丽颖送的剪纸",
+      "onboard_time": 1708699173,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 591325,
       "num": 591325,
       "word": "李沁拖地大衣",
@@ -4121,6 +4137,14 @@
       "onboard_time": 1708420657,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 554307,
+      "num": 327940,
+      "word": "苏醒也知道很不体面",
+      "onboard_time": 1708697856,
+      "rank": 13,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 554228,
@@ -4611,6 +4635,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 503575,
+      "num": 309395,
+      "word": "唐九洲赵昭仪吓跪了",
+      "onboard_time": 1708697856,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 502648,
       "num": 502648,
       "word": "周杰伦霉霉演唱会座位",
@@ -4939,14 +4971,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 473591,
-      "num": 303331,
-      "word": "唐九洲赵昭仪吓跪了",
-      "onboard_time": 1708697856,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 472730,
       "num": 472730,
       "word": "武汉冻雨",
@@ -5179,6 +5203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441780,
+      "num": 230742,
+      "word": "蒲熠星给苏醒开了十年会员",
+      "onboard_time": 1708700136,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441561,
       "num": 388028,
       "word": "手机放枕边睡觉有辐射吗",
@@ -5257,14 +5289,6 @@
       "onboard_time": 1708337378,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 435471,
-      "num": 293200,
-      "word": "苏醒也知道很不体面",
-      "onboard_time": 1708697856,
-      "rank": 13,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 434297,
@@ -6555,6 +6579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342052,
+      "num": 342052,
+      "word": "KPL暂停",
+      "onboard_time": 1708699115,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 341713,
       "num": 904855,
       "word": "上海人爱吃肉汤圆的事藏不住了",
@@ -6641,6 +6673,14 @@
       "onboard_time": 1708301012,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337384,
+      "num": 308017,
+      "word": "金莎想和焉栩嘉合作",
+      "onboard_time": 1708700914,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 336579,
@@ -6971,14 +7011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319786,
-      "num": 261779,
-      "word": "多地延迟开学90后父母忙成双面人",
-      "onboard_time": 1708696293,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318680,
       "num": 318680,
       "word": "爸妈一直管我的微信头像",
@@ -7123,6 +7155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 310319,
+      "num": 310319,
+      "word": "大王具足虫",
+      "onboard_time": 1708695393,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 309934,
       "num": 309934,
       "word": "沥心沙大桥遇难中巴司机家属发声",
@@ -7185,6 +7225,14 @@
       "onboard_time": 1708424917,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 306774,
+      "num": 206285,
+      "word": "吐槽如懿传视频被投诉下架",
+      "onboard_time": 1708700794,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 306371,
@@ -7483,6 +7531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297332,
+      "num": 205162,
+      "word": "容易长胖的人可能蛋白质没吃够",
+      "onboard_time": 1708699234,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 297145,
       "num": 297145,
       "word": "恋与深空徽章",
@@ -7665,6 +7721,14 @@
       "onboard_time": 1708248934,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291473,
+      "num": 203746,
+      "word": "鹿晗村超破门做C罗式庆祝",
+      "onboard_time": 1708699652,
+      "rank": 25,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 291193,
@@ -8283,6 +8347,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 269700,
+      "num": 247395,
+      "word": "书卷一梦开官微",
+      "onboard_time": 1708697013,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269530,
       "num": 269530,
       "word": "唐艺昕谈长久恋爱关系",
@@ -8539,14 +8611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 261621,
-      "num": 247395,
-      "word": "书卷一梦开官微",
-      "onboard_time": 1708697013,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 260775,
       "num": 260775,
       "word": "肖战今天看两场秀",
@@ -8739,6 +8803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 253379,
+      "num": 197815,
+      "word": "贾丹贾玲姐妹情",
+      "onboard_time": 1708699955,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253041,
       "num": 345449,
       "word": "张本智和3比2林昀儒",
@@ -8793,14 +8865,6 @@
       "onboard_time": 1708427974,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251678,
-      "num": 251678,
-      "word": "大王具足虫",
-      "onboard_time": 1708695393,
-      "rank": 29,
-      "category": "科学科普"
     },
     {
       "raw_hot": 251367,
@@ -9305,6 +9369,14 @@
       "onboard_time": 1708685311,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239207,
+      "num": 204215,
+      "word": "经常内耗焦虑可能是你太认真了",
+      "onboard_time": 1708700372,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 238838,
@@ -10323,6 +10395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216438,
+      "num": 196567,
+      "word": "Hanni米兰时装周",
+      "onboard_time": 1708701270,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 216399,
       "num": 216399,
       "word": "博主称梅西澄清视频字幕翻译错了",
@@ -10563,6 +10643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210398,
+      "num": 192996,
+      "word": "贾金龙 大手笔",
+      "onboard_time": 1708700613,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210370,
       "num": 210370,
       "word": "游神",
@@ -10729,6 +10817,14 @@
       "onboard_time": 1708412495,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207814,
+      "num": 207814,
+      "word": "迪士尼现在能带食物的原因",
+      "onboard_time": 1708699598,
+      "rank": 19,
+      "category": "旅游"
     },
     {
       "raw_hot": 207797,
@@ -11105,6 +11201,14 @@
       "onboard_time": 1708431219,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201659,
+      "num": 201659,
+      "word": "杭州98年姑娘自助买二手房省4万多中介费",
+      "onboard_time": 1708700674,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201629,
@@ -13963,6 +14067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159380,
+      "num": 159380,
+      "word": "猫猫确诊为犟种",
+      "onboard_time": 1708700674,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159229,
       "num": 159229,
       "word": "TRIBE取消回归",
@@ -14737,6 +14849,14 @@
       "onboard_time": 1708679794,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146644,
+      "num": 150919,
+      "word": "查出乳腺结节怎么办",
+      "onboard_time": 1708699771,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146612,
@@ -15801,6 +15921,14 @@
       "onboard_time": 1708323036,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116021,
+      "num": 150912,
+      "word": "元宵节手工灯笼教程",
+      "onboard_time": 1708701573,
+      "rank": 48,
+      "category": "休闲"
     },
     {
       "raw_hot": 115931,
