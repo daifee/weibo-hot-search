@@ -1,0 +1,410 @@
+{
+  "runTime": 1708712524722,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 456380,
+        "num": 456380,
+        "word": "3月1日起快递不得擅自放驿站",
+        "onboard_time": 1708693833,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254063,
+        "num": 254063,
+        "word": "肖战领口一年比一年低",
+        "onboard_time": 1708701993,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11976,
+        "num": 222808,
+        "word": "空间站里都有哪些科学装置",
+        "onboard_time": 1708693833,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215641,
+        "num": 215641,
+        "word": "贾玲说如果重拍你好李焕英会更有电影感",
+        "onboard_time": 1708694793,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210062,
+        "num": 210062,
+        "word": "任正非曾公开支持姚安娜搞文艺",
+        "onboard_time": 1708709903,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195121,
+        "num": 195121,
+        "word": "周一围对朱丹不理解但关心",
+        "onboard_time": 1708701871,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177263,
+        "num": 177263,
+        "word": "汪东城回应吴尊",
+        "onboard_time": 1708688673,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168284,
+        "num": 168284,
+        "word": "多地延迟开学90后父母忙成双面人",
+        "onboard_time": 1708696293,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145296,
+        "num": 145296,
+        "word": "迪士尼现在能带食物的原因",
+        "onboard_time": 1708699598,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 118773,
+        "num": 118773,
+        "word": "富家千金接班7年累计亏损近32亿",
+        "onboard_time": 1708682435,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217644,
+        "num": 118735,
+        "word": "网红杨老二家属称劝酒观众无一人道歉",
+        "onboard_time": 1708707445,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 187965,
+        "num": 118657,
+        "word": "凯特王妃疑患绿色癌症",
+        "onboard_time": 1708687654,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 118532,
+        "num": 118532,
+        "word": "曾黎也有撑伞神图了",
+        "onboard_time": 1708710322,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116522,
+        "num": 116522,
+        "word": "杭州98年姑娘自助买二手房省4万多中介费",
+        "onboard_time": 1708700674,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115615,
+        "num": 115615,
+        "word": "沥心沙大桥事故幸存者发声",
+        "onboard_time": 1708703972,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90843,
+        "num": 90843,
+        "word": "大理寺少卿游 竹马天降",
+        "onboard_time": 1708703375,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87192,
+        "num": 87192,
+        "word": "贾玲 你看到什么我就拍了什么",
+        "onboard_time": 1708692151,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82958,
+        "num": 82958,
+        "word": "水哥出题算是踢到铁板了",
+        "onboard_time": 1708701694,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73892,
+        "num": 73892,
+        "word": "徐璐直播",
+        "onboard_time": 1708702953,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59182,
+        "num": 59182,
+        "word": "王者荣耀",
+        "onboard_time": 1708701934,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69544,
+        "num": 58291,
+        "word": "蒲熠星给苏醒开了十年会员",
+        "onboard_time": 1708700136,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67402,
+        "num": 57659,
+        "word": "好久没联系的同学一般只有三件事",
+        "onboard_time": 1708694013,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64835,
+        "num": 56948,
+        "word": "唐九洲赵昭仪吓跪了",
+        "onboard_time": 1708697856,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60447,
+        "num": 55307,
+        "word": "马面裙卖爆了",
+        "onboard_time": 1708691371,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 55235,
+        "num": 55235,
+        "word": "容易长胖的人可能蛋白质没吃够",
+        "onboard_time": 1708699234,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50415,
+        "num": 54753,
+        "word": "Hanni米兰时装周",
+        "onboard_time": 1708701270,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56342,
+        "num": 54474,
+        "word": "28岁网红菲菲公主因癌症去世",
+        "onboard_time": 1708680693,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 53045,
+        "num": 53045,
+        "word": "虞书欣王润泽同框",
+        "onboard_time": 1708711460,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52768,
+        "num": 52768,
+        "word": "早上和老板说怀孕下午就被降薪",
+        "onboard_time": 1708685554,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32665,
+        "num": 50301,
+        "word": "元宵节有哪些民俗",
+        "onboard_time": 1708694013,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52819,
+        "num": 50107,
+        "word": "南北cp",
+        "onboard_time": 1708695812,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49713,
+        "num": 49713,
+        "word": "母女是一种有痛感的关系",
+        "onboard_time": 1708694192,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48542,
+        "num": 48542,
+        "word": "预示癌症的20个症状",
+        "onboard_time": 1708688494,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 47258,
+        "num": 47258,
+        "word": "鹿晗村超破门做C罗式庆祝",
+        "onboard_time": 1708699652,
+        "rank": 33,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 45593,
+        "num": 45593,
+        "word": "吐槽如懿传视频被投诉下架",
+        "onboard_time": 1708700794,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43060,
+        "num": 43060,
+        "word": "南北 229",
+        "onboard_time": 1708672771,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41922,
+        "num": 41922,
+        "word": "佛山电翰又开始直播打螺丝了",
+        "onboard_time": 1708687171,
+        "rank": 36,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 38420,
+        "num": 38420,
+        "word": "不会断句的网友把博物馆逼得改名",
+        "onboard_time": 1708694735,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35404,
+        "num": 35404,
+        "word": "大王具足虫",
+        "onboard_time": 1708695393,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 33973,
+        "num": 33973,
+        "word": "经常内耗焦虑可能是你太认真了",
+        "onboard_time": 1708700372,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39400,
+        "num": 33915,
+        "word": "文韬再次1V3加速成功",
+        "onboard_time": 1708696535,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36713,
+        "num": 33868,
+        "word": "肖战第二套看秀造型",
+        "onboard_time": 1708698095,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33645,
+        "num": 33645,
+        "word": "KPL暂停",
+        "onboard_time": 1708699115,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33399,
+        "num": 33399,
+        "word": "LNG对战TES",
+        "onboard_time": 1708688130,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32632,
+        "num": 33394,
+        "word": "我想和你唱",
+        "onboard_time": 1708703194,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31620,
+        "num": 33381,
+        "word": "熊出没收到赵丽颖送的剪纸",
+        "onboard_time": 1708699173,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30350,
+        "num": 33368,
+        "word": "猎冰",
+        "onboard_time": 1708690712,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28520,
+        "num": 33347,
+        "word": "双鱼座才不会在感情中盲目",
+        "onboard_time": 1708686272,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27715,
+        "num": 33336,
+        "word": "三胎妈妈为生龙宝宝足月后缓生",
+        "onboard_time": 1708679314,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26182,
+        "num": 33329,
+        "word": "RNG官宣朱开回归",
+        "onboard_time": 1708689932,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}
