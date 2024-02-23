@@ -1,6 +1,6 @@
 {
   "startTime": 1708618926218,
-  "endTime": 1708680841538,
+  "endTime": 1708683552901,
   "band_list": [
     {
       "raw_hot": 2980398,
@@ -91,6 +91,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1740538,
+      "num": 1740538,
+      "word": "张继科已经与安踏解约",
+      "onboard_time": 1708679071,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1694113,
+      "num": 1694113,
+      "word": "南北 229",
+      "onboard_time": 1708672771,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1665937,
       "num": 1421478,
       "word": "新沙洞老虎去世",
@@ -115,28 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1561924,
-      "num": 1561924,
-      "word": "南北 229",
-      "onboard_time": 1708672771,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 1468281,
       "num": 1468281,
       "word": "我国彩礼最低的省份",
       "onboard_time": 1708653096,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1411464,
-      "num": 1411464,
-      "word": "张继科已经与安踏解约",
-      "onboard_time": 1708679071,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 1406132,
@@ -153,6 +153,14 @@
       "onboard_time": 1708653573,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1311156,
+      "num": 1311156,
+      "word": "28岁网红菲菲公主因癌症去世",
+      "onboard_time": 1708680693,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 1271462,
@@ -251,12 +259,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 955733,
+      "num": 955733,
+      "word": "肖战排面",
+      "onboard_time": 1708682073,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 937082,
       "num": 937082,
       "word": "青簪行 定档",
       "onboard_time": 1708610197,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 922511,
+      "num": 922511,
+      "word": "柿子汤圆",
+      "onboard_time": 1708681293,
+      "rank": 6,
+      "category": "美食"
     },
     {
       "raw_hot": 918598,
@@ -281,6 +305,14 @@
       "onboard_time": 1708655733,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 903956,
+      "num": 903956,
+      "word": "黄旭熙成立个人工作室",
+      "onboard_time": 1708681475,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 856280,
@@ -492,7 +524,7 @@
     },
     {
       "raw_hot": 559011,
-      "num": 559011,
+      "num": 904196,
       "word": "无糖汤圆成今年元宵黑马",
       "onboard_time": 1708676193,
       "rank": 28,
@@ -579,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 500995,
+      "num": 364142,
+      "word": "三胎妈妈为生龙宝宝足月后缓生",
+      "onboard_time": 1708679314,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499320,
       "num": 499320,
       "word": "存款和被爱才是疲意生活中的解药",
@@ -635,14 +675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 442640,
-      "num": 364142,
-      "word": "三胎妈妈为生龙宝宝足月后缓生",
-      "onboard_time": 1708679314,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441561,
       "num": 388028,
       "word": "手机放枕边睡觉有辐射吗",
@@ -665,14 +697,6 @@
       "onboard_time": 1708678537,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 431959,
-      "num": 431959,
-      "word": "28岁网红菲菲公主因癌症去世",
-      "onboard_time": 1708680693,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 429900,
@@ -761,6 +785,14 @@
       "onboard_time": 1708654594,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380915,
+      "num": 294477,
+      "word": "富家千金接班7年累计亏损近32亿",
+      "onboard_time": 1708682435,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 376811,
@@ -883,6 +915,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 311470,
+      "num": 294360,
+      "word": "这个月 为什么职场中女性领导较少",
+      "onboard_time": 1708680635,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 309934,
       "num": 309934,
       "word": "沥心沙大桥遇难中巴司机家属发声",
@@ -913,6 +953,14 @@
       "onboard_time": 1708656695,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294320,
+      "num": 294320,
+      "word": "肖战米兰看秀登世趋第一",
+      "onboard_time": 1708683397,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 293300,
@@ -961,6 +1009,14 @@
       "onboard_time": 1708678894,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 286723,
+      "num": 294869,
+      "word": "林昀儒奥恰洛夫极限攻防",
+      "onboard_time": 1708680572,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 285930,
@@ -1049,6 +1105,14 @@
       "onboard_time": 1708651354,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 266945,
+      "num": 904855,
+      "word": "上海人爱吃肉汤圆的事藏不住了",
+      "onboard_time": 1708683093,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 266418,
@@ -1251,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222477,
+      "num": 222477,
+      "word": "多方回应张继科重回蝴蝶乒乓官网",
+      "onboard_time": 1708682073,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220579,
       "num": 220579,
       "word": "冻雨",
@@ -1443,6 +1515,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201553,
+      "num": 201553,
+      "word": "证监会发布会",
+      "onboard_time": 1708683154,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 200769,
+      "num": 200769,
+      "word": "开学恐惧症",
+      "onboard_time": 1708682615,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199644,
       "num": 199644,
       "word": "北京交管回应网传小米汽车送车牌",
@@ -1465,6 +1553,14 @@
       "onboard_time": 1708679794,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193955,
+      "num": 193955,
+      "word": "奎八 删照片",
+      "onboard_time": 1708683334,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 193777,
@@ -1539,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182866,
+      "num": 182866,
+      "word": "证监会称目前没有IPO倒查10年的安排",
+      "onboard_time": 1708680754,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 180713,
       "num": 169983,
       "word": "秦海璐的霸总小说有了胡先煦的脸",
@@ -1595,6 +1699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 177005,
+      "num": 177005,
+      "word": "更适合中国宝宝体质的omakase",
+      "onboard_time": 1708682615,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 174485,
       "num": 174485,
       "word": "孙颖莎vs帕瓦德",
@@ -1617,6 +1729,14 @@
       "onboard_time": 1708673014,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 171544,
+      "num": 171544,
+      "word": "原来还有荠菜肉馅的汤圆",
+      "onboard_time": 1708680994,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 170857,
@@ -1667,20 +1787,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165328,
-      "num": 165328,
-      "word": "林昀儒奥恰洛夫极限攻防",
-      "onboard_time": 1708680572,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164965,
       "num": 164965,
       "word": "加沙医学生称医院沦为了坟场",
       "onboard_time": 1708652614,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 163515,
+      "num": 163515,
+      "word": "ENHYPEN首尔演唱会",
+      "onboard_time": 1708682435,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 163459,
@@ -1729,6 +1849,22 @@
       "onboard_time": 1708676612,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 160328,
+      "num": 160328,
+      "word": "猎冰导演称最开始不知道姚安娜是谁",
+      "onboard_time": 1708681355,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159669,
+      "num": 171140,
+      "word": "南京秦淮灯会氛围感满满",
+      "onboard_time": 1708681234,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 159651,
@@ -1811,6 +1947,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 150561,
+      "num": 150561,
+      "word": "夏以昼妹妹都要被人拐跑了",
+      "onboard_time": 1708682195,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 150515,
       "num": 150515,
       "word": "原来种地吧受众这么广",
@@ -1833,14 +1977,6 @@
       "onboard_time": 1708673614,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 147594,
-      "num": 147594,
-      "word": "这个月 为什么职场中女性领导较少",
-      "onboard_time": 1708680635,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 146790,
@@ -1889,14 +2025,6 @@
       "onboard_time": 1708679432,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 135507,
-      "num": 135507,
-      "word": "证监会称目前没有IPO倒查10年的安排",
-      "onboard_time": 1708680754,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 134880,
