@@ -1,0 +1,410 @@
+{
+  "runTime": 1708659281492,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2560164,
+        "num": 2560164,
+        "word": "花花被遗忘在外场饲养员被解雇",
+        "onboard_time": 1708653096,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1991535,
+        "num": 1991535,
+        "word": "为何1点点奶茶不火了",
+        "onboard_time": 1708653634,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 295656,
+        "num": 1730972,
+        "word": "一张最想炫耀的老家照片",
+        "onboard_time": 1708656695,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1693568,
+        "num": 1693568,
+        "word": "夫妻相约赴死妻子身亡丈夫反悔",
+        "onboard_time": 1708651653,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1468281,
+        "num": 1468281,
+        "word": "我国彩礼最低的省份",
+        "onboard_time": 1708653096,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1496196,
+        "num": 1415474,
+        "word": "苏州交警回应高架百车相撞",
+        "onboard_time": 1708653993,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1026579,
+        "num": 1026579,
+        "word": "章若楠 温以凡",
+        "onboard_time": 1708653573,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 918598,
+        "num": 918598,
+        "word": "南京火灾",
+        "onboard_time": 1708654294,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859503,
+        "num": 859503,
+        "word": "白色橄榄树全阵容官宣",
+        "onboard_time": 1708655733,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 711193,
+        "num": 711193,
+        "word": "东莞3人返工时患经济舱综合征身亡",
+        "onboard_time": 1708653096,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650353,
+        "num": 650353,
+        "word": "浦东支持外籍人才担任事业单位国有企业法人",
+        "onboard_time": 1708653393,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603292,
+        "num": 603292,
+        "word": "天蝎座2024会发生的三件好事",
+        "onboard_time": 1708656095,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 544739,
+        "num": 544739,
+        "word": "虞书欣林一雪地靠肩照",
+        "onboard_time": 1708658136,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468415,
+        "num": 468415,
+        "word": "闲置太久的鞋子就不要再穿了",
+        "onboard_time": 1708645045,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 436605,
+        "num": 436605,
+        "word": "青簪行男主",
+        "onboard_time": 1708644806,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417325,
+        "num": 417325,
+        "word": "苏州交警",
+        "onboard_time": 1708657535,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192852,
+        "num": 384272,
+        "word": "雅迪是要造汽车了吗",
+        "onboard_time": 1708655553,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 381079,
+        "num": 381079,
+        "word": "新冠或是首个X疾病",
+        "onboard_time": 1708643784,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 364757,
+        "num": 364757,
+        "word": "学校回应网传老师与学生在教室接吻",
+        "onboard_time": 1708648713,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347857,
+        "num": 347857,
+        "word": "青簪行 定档",
+        "onboard_time": 1708610197,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382337,
+        "num": 340748,
+        "word": "高考考得最好的一群人现在在干啥",
+        "onboard_time": 1708654594,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191020,
+        "num": 332104,
+        "word": "元宵节也是中国情人节",
+        "onboard_time": 1708658313,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327480,
+        "num": 327480,
+        "word": "王一博黑粉被执行2.4万",
+        "onboard_time": 1708654113,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322736,
+        "num": 322736,
+        "word": "手机放枕边睡觉有辐射吗",
+        "onboard_time": 1708650453,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 276460,
+        "num": 276460,
+        "word": "IU写手写信感谢汤唯",
+        "onboard_time": 1708652673,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 271554,
+        "num": 271554,
+        "word": "北京警方刑拘93人",
+        "onboard_time": 1708654355,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264000,
+        "num": 264000,
+        "word": "小米汽车",
+        "onboard_time": 1708656816,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 258341,
+        "num": 258341,
+        "word": "魏晨 我招谁惹谁了",
+        "onboard_time": 1708643122,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246735,
+        "num": 246735,
+        "word": "苏州高架",
+        "onboard_time": 1708648955,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246710,
+        "num": 246710,
+        "word": "董事长操纵自家股票交易800亿亏2.4亿",
+        "onboard_time": 1708651471,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 338312,
+        "num": 245282,
+        "word": "安徽省委书记调研大杨哥公司",
+        "onboard_time": 1708658854,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 239557,
+        "num": 239557,
+        "word": "涵艺爆料朱开加入RNG",
+        "onboard_time": 1708657591,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232020,
+        "num": 232020,
+        "word": "大侦探 内娱不可复刻的推界春晚",
+        "onboard_time": 1708649374,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227789,
+        "num": 227789,
+        "word": "丫丫雪后美成1幅画",
+        "onboard_time": 1708655014,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214942,
+        "num": 214942,
+        "word": "陈哲远梁洁演情侣",
+        "onboard_time": 1708659153,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213668,
+        "num": 213668,
+        "word": "南京一小区发生火灾致4人死亡",
+        "onboard_time": 1708652794,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202452,
+        "num": 202452,
+        "word": "儿子玩音乐多年不火54岁妈妈出手了",
+        "onboard_time": 1708650576,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197717,
+        "num": 197717,
+        "word": "肖战今天看两场秀",
+        "onboard_time": 1708654713,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178696,
+        "num": 178696,
+        "word": "你常喝的奶茶多少钱1杯",
+        "onboard_time": 1708658253,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 177740,
+        "num": 177740,
+        "word": "娜扎秀场生图",
+        "onboard_time": 1708658975,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 175651,
+        "num": 175651,
+        "word": "kcon香港",
+        "onboard_time": 1708654713,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167595,
+        "num": 167595,
+        "word": "一旦出现这个姿势要立即就医",
+        "onboard_time": 1708605694,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167199,
+        "num": 167199,
+        "word": "热辣滚烫进入中国影史票房TOP17",
+        "onboard_time": 1708652313,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161346,
+        "num": 161346,
+        "word": "广州遇难公交司机凌晨4点工作到晚7点",
+        "onboard_time": 1708618291,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159258,
+        "num": 159258,
+        "word": "身体出现这5个迹象说明你累过头了",
+        "onboard_time": 1708642822,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155711,
+        "num": 155711,
+        "word": "妈妈给买的小狗牌声控跳跳鼠",
+        "onboard_time": 1708657230,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148400,
+        "num": 148400,
+        "word": "贵州一天通报6起山火原因",
+        "onboard_time": 1708652072,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148373,
+        "num": 148373,
+        "word": "种地吧",
+        "onboard_time": 1708652794,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138611,
+        "num": 138611,
+        "word": "恋与深空 我真的打不过",
+        "onboard_time": 1708658554,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132120,
+        "num": 132120,
+        "word": "马燕快碎了",
+        "onboard_time": 1708644806,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平曾在厦门打响治理污染的硬仗#"
+    }
+  }
+}

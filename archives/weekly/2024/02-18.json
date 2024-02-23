@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708658257391,
+  "endTime": 1708659281492,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -283,8 +283,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2551344,
-      "num": 2551344,
+      "raw_hot": 2560164,
+      "num": 2560164,
       "word": "花花被遗忘在外场饲养员被解雇",
       "onboard_time": 1708653096,
       "rank": 6,
@@ -539,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1991535,
+      "num": 1991535,
+      "word": "为何1点点奶茶不火了",
+      "onboard_time": 1708653634,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1982430,
       "num": 1845004,
       "word": "把学历改成高中后终于找到工作",
@@ -745,14 +753,6 @@
       "onboard_time": 1708399236,
       "rank": 7,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1740790,
-      "num": 1740790,
-      "word": "为何1点点奶茶不火了",
-      "onboard_time": 1708653634,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 1716207,
@@ -995,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1468281,
+      "num": 1468281,
+      "word": "我国彩礼最低的省份",
+      "onboard_time": 1708653096,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1459513,
       "num": 1459513,
       "word": "这个月 头等舱空姐污名化",
@@ -1089,14 +1097,6 @@
       "onboard_time": 1708388855,
       "rank": 4,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1376437,
-      "num": 1376437,
-      "word": "我国彩礼最低的省份",
-      "onboard_time": 1708653096,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1373650,
@@ -1971,6 +1971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 918598,
+      "num": 918598,
+      "word": "南京火灾",
+      "onboard_time": 1708654294,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 918009,
       "num": 918009,
       "word": "杨国福换logo",
@@ -2755,14 +2763,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 707240,
-      "num": 707240,
-      "word": "南京火灾",
-      "onboard_time": 1708654294,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 706045,
       "num": 706045,
       "word": "男版四大甜妹",
@@ -3411,6 +3411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603292,
+      "num": 603292,
+      "word": "天蝎座2024会发生的三件好事",
+      "onboard_time": 1708656095,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 603048,
       "num": 603048,
       "word": "开工3天痔疮膏销量翻3倍",
@@ -3792,6 +3800,14 @@
       "word": "孙千吃醋了",
       "onboard_time": 1708614335,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 544739,
+      "num": 544739,
+      "word": "虞书欣林一雪地靠肩照",
+      "onboard_time": 1708658136,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -4595,14 +4611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 446170,
-      "num": 446170,
-      "word": "天蝎座2024会发生的三件好事",
-      "onboard_time": 1708656095,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 445261,
       "num": 445261,
       "word": "胡锡进称接受梅西这番解释",
@@ -4905,6 +4913,14 @@
       "onboard_time": 1708418560,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 417325,
+      "num": 417325,
+      "word": "苏州交警",
+      "onboard_time": 1708657535,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 416890,
@@ -5281,6 +5297,14 @@
       "onboard_time": 1708251634,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 382337,
+      "num": 340748,
+      "word": "高考考得最好的一群人现在在干啥",
+      "onboard_time": 1708654594,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382016,
@@ -5763,14 +5787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 349019,
-      "num": 334818,
-      "word": "高考考得最好的一群人现在在干啥",
-      "onboard_time": 1708654594,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 348878,
       "num": 348878,
       "word": "赵露思薛佳凝聚餐吃铁锅炖",
@@ -5945,6 +5961,14 @@
       "onboard_time": 1708301012,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 338312,
+      "num": 245282,
+      "word": "安徽省委书记调研大杨哥公司",
+      "onboard_time": 1708658854,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 335129,
@@ -6761,6 +6785,14 @@
       "onboard_time": 1708564115,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295656,
+      "num": 1801311,
+      "word": "一张最想炫耀的老家照片",
+      "onboard_time": 1708656695,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295624,
@@ -7851,14 +7883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251503,
-      "num": 251503,
-      "word": "虞书欣林一雪地靠肩照",
-      "onboard_time": 1708658136,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 251367,
       "num": 251367,
       "word": "今年的待播古装剧",
@@ -8313,6 +8337,14 @@
       "onboard_time": 1708448065,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239557,
+      "num": 239557,
+      "word": "涵艺爆料朱开加入RNG",
+      "onboard_time": 1708657591,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 238838,
@@ -9251,6 +9283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 214942,
+      "num": 214942,
+      "word": "陈哲远梁洁演情侣",
+      "onboard_time": 1708659153,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214916,
       "num": 214916,
       "word": "突然就学会化妆了",
@@ -9683,14 +9723,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 204612,
-      "num": 204612,
-      "word": "苏州交警",
-      "onboard_time": 1708657535,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204519,
       "num": 204519,
       "word": "无限超越班2阵容官宣",
@@ -9961,14 +9993,6 @@
       "onboard_time": 1708506575,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 200105,
-      "num": 200105,
-      "word": "涵艺爆料朱开加入RNG",
-      "onboard_time": 1708657591,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 200080,
@@ -10300,7 +10324,7 @@
     },
     {
       "raw_hot": 193777,
-      "num": 360910,
+      "num": 384272,
       "word": "雅迪是要造汽车了吗",
       "onboard_time": 1708655553,
       "rank": 46,
@@ -10489,6 +10513,14 @@
       "onboard_time": 1708649913,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 191020,
+      "num": 332104,
+      "word": "元宵节也是中国情人节",
+      "onboard_time": 1708658313,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190950,
@@ -11091,14 +11123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181864,
-      "num": 1801311,
-      "word": "一张最想炫耀的老家照片",
-      "onboard_time": 1708656695,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181506,
       "num": 181506,
       "word": "EDG春季赛六连败",
@@ -11251,6 +11275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178696,
+      "num": 178696,
+      "word": "你常喝的奶茶多少钱1杯",
+      "onboard_time": 1708658253,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 178626,
       "num": 178626,
       "word": "王鹤棣的脚42.5码",
@@ -11289,6 +11321,14 @@
       "onboard_time": 1708519175,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 177740,
+      "num": 177740,
+      "word": "娜扎秀场生图",
+      "onboard_time": 1708658975,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 177619,
@@ -13457,6 +13497,14 @@
       "onboard_time": 1708334439,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138611,
+      "num": 138611,
+      "word": "恋与深空 我真的打不过",
+      "onboard_time": 1708658554,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 137726,
