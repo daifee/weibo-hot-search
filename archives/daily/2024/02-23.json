@@ -1,13 +1,45 @@
 {
   "startTime": 1708618926218,
-  "endTime": 1708644849809,
+  "endTime": 1708650606830,
   "band_list": [
+    {
+      "raw_hot": 2055877,
+      "num": 2055877,
+      "word": "新冠或是首个X疾病",
+      "onboard_time": 1708643784,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1889524,
+      "num": 1889524,
+      "word": "闲置太久的鞋子就不要再穿了",
+      "onboard_time": 1708645045,
+      "rank": 1,
+      "category": "幽默"
+    },
     {
       "raw_hot": 1224765,
       "num": 1224765,
       "word": "广州遇难公交司机凌晨4点工作到晚7点",
       "onboard_time": 1708618291,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1168108,
+      "num": 1168108,
+      "word": "学校回应网传老师与学生在教室接吻",
+      "onboard_time": 1708648713,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1096090,
+      "num": 1096090,
+      "word": "苏州高架",
+      "onboard_time": 1708648955,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -35,20 +67,44 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 705387,
-      "num": 705387,
+      "raw_hot": 818299,
+      "num": 818299,
+      "word": "魏晨 我招谁惹谁了",
+      "onboard_time": 1708643122,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 805881,
+      "num": 805881,
       "word": "身体出现这5个迹象说明你累过头了",
       "onboard_time": 1708642822,
       "rank": 10,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 670927,
-      "num": 670927,
-      "word": "新冠或是首个X疾病",
-      "onboard_time": 1708643784,
-      "rank": 11,
-      "category": "健康医疗"
+      "raw_hot": 613337,
+      "num": 604458,
+      "word": "青簪行男主",
+      "onboard_time": 1708644806,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 612219,
+      "num": 612219,
+      "word": "上海地铁5号线9号线触网挂冰故障",
+      "onboard_time": 1708646971,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 590995,
+      "num": 590995,
+      "word": "八岁小女孩向妈妈证明自己能养一只仓鼠",
+      "onboard_time": 1708644265,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 585984,
@@ -67,6 +123,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 542667,
+      "num": 542667,
+      "word": "大侦探 内娱不可复刻的推界春晚",
+      "onboard_time": 1708649374,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 521104,
+      "num": 521104,
+      "word": "上海地铁",
+      "onboard_time": 1708643784,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512841,
       "num": 512841,
       "word": "宋小宝凭实力爆改自己",
@@ -81,6 +153,14 @@
       "onboard_time": 1708611576,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 480050,
+      "num": 480050,
+      "word": "肖战米兰",
+      "onboard_time": 1708646189,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 475337,
@@ -107,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 413631,
+      "num": 413631,
+      "word": "英伟达",
+      "onboard_time": 1708649013,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 401697,
       "num": 401697,
       "word": "生理性喜欢",
@@ -123,6 +211,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 381512,
+      "num": 381512,
+      "word": "广佛线",
+      "onboard_time": 1708649978,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364569,
+      "num": 364569,
+      "word": "白鹿情商",
+      "onboard_time": 1708643541,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356880,
       "num": 356880,
       "word": "当一个江浙沪赘婿决定离婚",
@@ -131,16 +235,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 330431,
-      "num": 274282,
-      "word": "魏晨 我招谁惹谁了",
-      "onboard_time": 1708643122,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 344347,
+      "num": 344347,
+      "word": "存款和被爱才是疲意生活中的解药",
+      "onboard_time": 1708647515,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 339294,
+      "num": 339294,
+      "word": "什么叫裁员裁到大动脉了",
+      "onboard_time": 1708611338,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 327170,
-      "num": 195913,
+      "num": 223868,
       "word": "人生建议 永远别赚太辛苦的钱",
       "onboard_time": 1708613616,
       "rank": 20,
@@ -161,6 +273,14 @@
       "onboard_time": 1708613800,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309934,
+      "num": 309934,
+      "word": "沥心沙大桥遇难中巴司机家属发声",
+      "onboard_time": 1708646429,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301458,
@@ -195,14 +315,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 258561,
-      "num": 258561,
-      "word": "上海地铁",
-      "onboard_time": 1708643784,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254211,
       "num": 254211,
       "word": "心动实验室挂了",
@@ -225,6 +337,14 @@
       "onboard_time": 1708580973,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228006,
+      "num": 228006,
+      "word": "烟火人家 渣爹",
+      "onboard_time": 1708647332,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 225511,
@@ -251,20 +371,52 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223164,
+      "num": 223164,
+      "word": "女生说路难开男友父母就铺了水泥路",
+      "onboard_time": 1708644023,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212036,
+      "num": 212036,
+      "word": "马燕快碎了",
+      "onboard_time": 1708644806,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 210656,
+      "num": 210656,
+      "word": "IU汤唯合作MV",
+      "onboard_time": 1708643541,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 207296,
+      "num": 207296,
+      "word": "上海地铁设专页向乘客发送致歉信",
+      "onboard_time": 1708649071,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197098,
+      "num": 197098,
+      "word": "儿子玩音乐多年不火54岁妈妈出手了",
+      "onboard_time": 1708650576,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195945,
       "num": 195945,
       "word": "把学历改成高中后终于找到工作",
       "onboard_time": 1708585294,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193973,
-      "num": 193973,
-      "word": "什么叫裁员裁到大动脉了",
-      "onboard_time": 1708611338,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 191337,
@@ -299,12 +451,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 172145,
-      "num": 172145,
-      "word": "白鹿情商",
-      "onboard_time": 1708643541,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 177360,
+      "num": 177360,
+      "word": "三岁一定要上幼儿园吗",
+      "onboard_time": 1708643843,
+      "rank": 29,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 174124,
+      "num": 174124,
+      "word": "戚薇又瘦了",
+      "onboard_time": 1708646189,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170857,
@@ -315,6 +475,62 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167282,
+      "num": 167282,
+      "word": "谁在找辛芷蕾",
+      "onboard_time": 1708647515,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166275,
+      "num": 166275,
+      "word": "南京天气",
+      "onboard_time": 1708645288,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161123,
+      "num": 161123,
+      "word": "专家释疑空船撞桥何以坍塌",
+      "onboard_time": 1708646429,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159272,
+      "num": 159272,
+      "word": "手机放枕边睡觉有辐射吗",
+      "onboard_time": 1708650453,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 158239,
+      "num": 158239,
+      "word": "柳鑫宇开心领奖",
+      "onboard_time": 1708645889,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 157472,
+      "num": 157472,
+      "word": "老师给班上的每个小朋友送了一顶针织帽",
+      "onboard_time": 1708646490,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 153131,
+      "num": 153131,
+      "word": "英伟达市值逼近2万亿美元",
+      "onboard_time": 1708649913,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 149582,
       "num": 149582,
       "word": "南京调休",
@@ -323,20 +539,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143830,
-      "num": 143830,
-      "word": "三岁一定要上幼儿园吗",
-      "onboard_time": 1708643843,
-      "rank": 29,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 138728,
       "num": 138728,
       "word": "普通情侣一年的年收入",
       "onboard_time": 1708600295,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134880,
+      "num": 134880,
+      "word": "证监会连开六份罚单",
+      "onboard_time": 1708646791,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 131751,
@@ -459,14 +675,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 88843,
-      "num": 88843,
-      "word": "IU汤唯合作MV",
-      "onboard_time": 1708643541,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 87820,
       "num": 87820,
       "word": "戚薇时装周造型",
@@ -489,14 +697,6 @@
       "onboard_time": 1708643784,
       "rank": 32,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 82652,
-      "num": 82652,
-      "word": "八岁小女孩向妈妈证明自己能养一只仓鼠",
-      "onboard_time": 1708644265,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 82578,
@@ -523,20 +723,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71831,
-      "num": 71831,
-      "word": "女生说路难开男友父母就铺了水泥路",
-      "onboard_time": 1708644023,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67991,
       "num": 67991,
       "word": "新海诚合作制片人被逮捕",
       "onboard_time": 1708644444,
       "rank": 38,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 64854,
+      "num": 1421400,
+      "word": "南腔北调见证冰雪运动热力十足",
+      "onboard_time": 1708608457,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 63378,
@@ -603,28 +803,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 51906,
-      "num": 51906,
-      "word": "马燕快碎了",
-      "onboard_time": 1708644806,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 48878,
       "num": 48878,
       "word": "白天和晚上睡觉的区别",
       "onboard_time": 1708633036,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 48153,
-      "num": 48153,
-      "word": "青簪行男主",
-      "onboard_time": 1708644806,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 44195,
@@ -665,14 +849,6 @@
       "onboard_time": 1708623799,
       "rank": 43,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 29588,
-      "num": 885484,
-      "word": "南腔北调见证冰雪运动热力十足",
-      "onboard_time": 1708608457,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 27935,
