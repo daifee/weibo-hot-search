@@ -1,6 +1,6 @@
 {
   "startTime": 1708618926218,
-  "endTime": 1708688050210,
+  "endTime": 1708691416475,
   "band_list": [
     {
       "raw_hot": 2980398,
@@ -25,6 +25,14 @@
       "onboard_time": 1708653096,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2536520,
+      "num": 2536520,
+      "word": "凯特王妃疑患绿色癌症",
+      "onboard_time": 1708687654,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 2517884,
@@ -89,6 +97,14 @@
       "onboard_time": 1708653634,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1982045,
+      "num": 1982045,
+      "word": "汪东城回应吴尊",
+      "onboard_time": 1708688673,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1889524,
@@ -283,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 932839,
+      "num": 932839,
+      "word": "佛山电翰又开始直播打螺丝了",
+      "onboard_time": 1708687171,
+      "rank": 12,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 918598,
       "num": 918598,
       "word": "南京火灾",
@@ -451,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 642624,
+      "num": 642624,
+      "word": "RNG官宣朱开回归",
+      "onboard_time": 1708689932,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 637333,
       "num": 604458,
       "word": "青簪行男主",
@@ -507,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 591325,
+      "num": 591325,
+      "word": "李沁拖地大衣",
+      "onboard_time": 1708688073,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 590995,
       "num": 590995,
       "word": "八岁小女孩向妈妈证明自己能养一只仓鼠",
@@ -561,14 +601,6 @@
       "onboard_time": 1708673614,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 560945,
-      "num": 560945,
-      "word": "佛山电翰又开始直播打螺丝了",
-      "onboard_time": 1708687171,
-      "rank": 12,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 559011,
@@ -787,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423524,
+      "num": 423524,
+      "word": "全员加速中",
+      "onboard_time": 1708691073,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 422388,
       "num": 422388,
       "word": "关晓彤好像手办娃娃",
@@ -987,12 +1027,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 312098,
-      "num": 198470,
-      "word": "凯特王妃疑患绿色癌症",
-      "onboard_time": 1708687654,
-      "rank": 30,
-      "category": "国外时政"
+      "raw_hot": 312114,
+      "num": 234857,
+      "word": "预示癌症的20个症状",
+      "onboard_time": 1708688494,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 309934,
@@ -1179,6 +1219,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 261929,
+      "num": 239190,
+      "word": "双鱼座才不会在感情中盲目",
+      "onboard_time": 1708686272,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 261798,
+      "num": 261798,
+      "word": "A股5000家上市公司缴纳全国税收的25%",
+      "onboard_time": 1708688190,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 260775,
       "num": 260775,
       "word": "肖战今天看两场秀",
@@ -1281,14 +1337,6 @@
       "onboard_time": 1708685311,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239190,
-      "num": 239190,
-      "word": "双鱼座才不会在感情中盲目",
-      "onboard_time": 1708686272,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 238804,
@@ -1563,6 +1611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 208218,
+      "num": 208218,
+      "word": "总导演回应河南春晚不设主持人",
+      "onboard_time": 1708690173,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208057,
       "num": 208057,
       "word": "上证指数收复3000点大关",
@@ -1627,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203709,
+      "num": 203709,
+      "word": "宁艺卓到达米兰",
+      "onboard_time": 1708689094,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203075,
       "num": 186078,
       "word": "张卫健 人家明明59",
@@ -1651,6 +1715,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 201450,
+      "num": 201450,
+      "word": "猎冰",
+      "onboard_time": 1708650754,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200972,
+      "num": 200972,
+      "word": "希望所有爱豆都来学习",
+      "onboard_time": 1708690832,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200769,
       "num": 200769,
       "word": "开学恐惧症",
@@ -1665,6 +1745,22 @@
       "onboard_time": 1708671512,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 198462,
+      "num": 198462,
+      "word": "杜凯琹2比3张本美和",
+      "onboard_time": 1708690534,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196675,
+      "num": 196675,
+      "word": "南来北往",
+      "onboard_time": 1708690890,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 195945,
@@ -1755,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185603,
+      "num": 201041,
+      "word": "中央财经委员会第四次会议",
+      "onboard_time": 1708690052,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 183135,
       "num": 183135,
       "word": "国乒女团3比0法国",
@@ -1784,14 +1888,6 @@
       "word": "青簪行 簪中录",
       "onboard_time": 1708610735,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 180116,
-      "num": 180116,
-      "word": "猎冰",
-      "onboard_time": 1708650754,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1833,6 +1929,14 @@
       "onboard_time": 1708682615,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 176603,
+      "num": 200985,
+      "word": "TTG零封RNGM",
+      "onboard_time": 1708689211,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 174485,
@@ -1899,6 +2003,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 168419,
+      "num": 168419,
+      "word": "WE战胜iG",
+      "onboard_time": 1708691192,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 167585,
+      "num": 167585,
+      "word": "久坐的危害竟然这么大",
+      "onboard_time": 1708685613,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 167282,
       "num": 167282,
       "word": "谁在找辛芷蕾",
@@ -1945,6 +2065,14 @@
       "onboard_time": 1708670972,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 163137,
+      "num": 163137,
+      "word": "马面裙卖爆了",
+      "onboard_time": 1708691371,
+      "rank": 41,
+      "category": "时尚"
     },
     {
       "raw_hot": 161931,
@@ -2051,6 +2179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157962,
+      "num": 157962,
+      "word": "狗子在外待一夜浑身结满冰",
+      "onboard_time": 1708691012,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157472,
       "num": 157472,
       "word": "老师给班上的每个小朋友送了一顶针织帽",
@@ -2065,14 +2201,6 @@
       "onboard_time": 1708663118,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 153660,
-      "num": 153660,
-      "word": "久坐的危害竟然这么大",
-      "onboard_time": 1708685613,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 152208,
@@ -2123,6 +2251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147602,
+      "num": 147602,
+      "word": "克罗恩病",
+      "onboard_time": 1708688073,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 147314,
       "num": 147314,
       "word": "周鸿祎评AI课程乱象",
@@ -2139,12 +2275,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144669,
+      "num": 144669,
+      "word": "中国首部文生视频AI动画片发布",
+      "onboard_time": 1708691371,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144062,
       "num": 144062,
       "word": "小孩等五类人不宜吃元宵",
       "onboard_time": 1708678954,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 142112,
+      "num": 142112,
+      "word": "StrayKids燃冬",
+      "onboard_time": 1708688673,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 139216,
+      "num": 139216,
+      "word": "门徒电影评赵丽颖春节档表现",
+      "onboard_time": 1708688319,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 138913,

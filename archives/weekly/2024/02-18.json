@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708688050210,
+  "endTime": 1708691416475,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2536520,
+      "num": 2536520,
+      "word": "凯特王妃疑患绿色癌症",
+      "onboard_time": 1708687654,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 2517884,
       "num": 2517884,
       "word": "苏州高架",
@@ -593,6 +601,14 @@
       "onboard_time": 1708585294,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1982045,
+      "num": 1982045,
+      "word": "汪东城回应吴尊",
+      "onboard_time": 1708688673,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1974704,
@@ -2099,6 +2115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 932839,
+      "num": 932839,
+      "word": "佛山电翰又开始直播打螺丝了",
+      "onboard_time": 1708687171,
+      "rank": 12,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 929907,
       "num": 929907,
       "word": "全智贤汤唯贴贴",
@@ -3355,6 +3379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 642624,
+      "num": 642624,
+      "word": "RNG官宣朱开回归",
+      "onboard_time": 1708689932,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 642349,
       "num": 642349,
       "word": "女子春运换乘5次省4000元",
@@ -3787,6 +3819,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 591325,
+      "num": 591325,
+      "word": "李沁拖地大衣",
+      "onboard_time": 1708688073,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 590995,
       "num": 590995,
       "word": "八岁小女孩向妈妈证明自己能养一只仓鼠",
@@ -3993,14 +4033,6 @@
       "onboard_time": 1708227934,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 560945,
-      "num": 560945,
-      "word": "佛山电翰又开始直播打螺丝了",
-      "onboard_time": 1708687171,
-      "rank": 12,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 560641,
@@ -5297,6 +5329,14 @@
       "onboard_time": 1708484435,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 423524,
+      "num": 423524,
+      "word": "全员加速中",
+      "onboard_time": 1708691073,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 422388,
@@ -6867,12 +6907,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 312098,
-      "num": 198470,
-      "word": "凯特王妃疑患绿色癌症",
-      "onboard_time": 1708687654,
-      "rank": 30,
-      "category": "国外时政"
+      "raw_hot": 312114,
+      "num": 234857,
+      "word": "预示癌症的20个症状",
+      "onboard_time": 1708688494,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 311083,
@@ -8291,6 +8331,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261929,
+      "num": 239190,
+      "word": "双鱼座才不会在感情中盲目",
+      "onboard_time": 1708686272,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 261798,
+      "num": 261798,
+      "word": "A股5000家上市公司缴纳全国税收的25%",
+      "onboard_time": 1708688190,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 260775,
       "num": 260775,
       "word": "肖战今天看两场秀",
@@ -9025,14 +9081,6 @@
       "onboard_time": 1708685311,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 239190,
-      "num": 239190,
-      "word": "双鱼座才不会在感情中盲目",
-      "onboard_time": 1708686272,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 238838,
@@ -10395,6 +10443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 208218,
+      "num": 208218,
+      "word": "总导演回应河南春晚不设主持人",
+      "onboard_time": 1708690173,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208057,
       "num": 208057,
       "word": "上证指数收复3000点大关",
@@ -10667,6 +10723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 203709,
+      "num": 203709,
+      "word": "宁艺卓到达米兰",
+      "onboard_time": 1708689094,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203617,
       "num": 203617,
       "word": "李云霄哭了",
@@ -10851,6 +10915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200972,
+      "num": 200972,
+      "word": "希望所有爱豆都来学习",
+      "onboard_time": 1708690832,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200917,
       "num": 193532,
       "word": "朴灿烈终于想起了他的微博密码",
@@ -11019,6 +11091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198462,
+      "num": 198462,
+      "word": "杜凯琹2比3张本美和",
+      "onboard_time": 1708690534,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198351,
       "num": 198351,
       "word": "伯远这C位烫脚",
@@ -11089,6 +11169,14 @@
       "onboard_time": 1708335158,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196675,
+      "num": 196675,
+      "word": "南来北往",
+      "onboard_time": 1708604254,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 196658,
@@ -11859,6 +11947,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 185603,
+      "num": 201041,
+      "word": "中央财经委员会第四次会议",
+      "onboard_time": 1708690052,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 185435,
       "num": 185435,
       "word": "马龙3比1篠塚大登",
@@ -12451,6 +12547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 176603,
+      "num": 200985,
+      "word": "TTG零封RNGM",
+      "onboard_time": 1708689211,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176535,
       "num": 176535,
       "word": "李月汝加盟洛杉矶火花",
@@ -12939,6 +13043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 168419,
+      "num": 168419,
+      "word": "WE战胜iG",
+      "onboard_time": 1708691192,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168369,
       "num": 168369,
       "word": "凌晨5点你楼上的邻居",
@@ -12993,6 +13105,14 @@
       "onboard_time": 1708389273,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167585,
+      "num": 167585,
+      "word": "久坐的危害竟然这么大",
+      "onboard_time": 1708685613,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 167306,
@@ -13289,6 +13409,14 @@
       "onboard_time": 1708247674,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163137,
+      "num": 163137,
+      "word": "马面裙卖爆了",
+      "onboard_time": 1708691371,
+      "rank": 41,
+      "category": "时尚"
     },
     {
       "raw_hot": 163063,
@@ -13635,6 +13763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157962,
+      "num": 157962,
+      "word": "狗子在外待一夜浑身结满冰",
+      "onboard_time": 1708691012,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157955,
       "num": 157955,
       "word": "太原的雪震惊到我了",
@@ -13849,14 +13985,6 @@
       "onboard_time": 1708333177,
       "rank": 40,
       "category": "运动健身,健康医疗"
-    },
-    {
-      "raw_hot": 153660,
-      "num": 153660,
-      "word": "久坐的危害竟然这么大",
-      "onboard_time": 1708685613,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 153530,
@@ -14107,14 +14235,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 150280,
-      "num": 150280,
-      "word": "南来北往",
-      "onboard_time": 1708604254,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150157,
       "num": 150157,
       "word": "Wendy将3月12日回归",
@@ -14265,6 +14385,14 @@
       "onboard_time": 1708608697,
       "rank": 44,
       "category": "作品衍生,数码"
+    },
+    {
+      "raw_hot": 147602,
+      "num": 147602,
+      "word": "克罗恩病",
+      "onboard_time": 1708688073,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 147314,
@@ -14435,6 +14563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144669,
+      "num": 144669,
+      "word": "中国首部文生视频AI动画片发布",
+      "onboard_time": 1708691371,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144538,
       "num": 144538,
       "word": "刘同 发现联通其他套餐都比我的划算",
@@ -14555,6 +14691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142112,
+      "num": 142112,
+      "word": "StrayKids燃冬",
+      "onboard_time": 1708688673,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141916,
       "num": 141916,
       "word": "龚琳娜黄子弘凡唱忐忑",
@@ -14665,6 +14809,14 @@
       "onboard_time": 1708345720,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139216,
+      "num": 139216,
+      "word": "门徒电影评赵丽颖春节档表现",
+      "onboard_time": 1708688319,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 139211,

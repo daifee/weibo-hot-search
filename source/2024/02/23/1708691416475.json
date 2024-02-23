@@ -1,0 +1,410 @@
+{
+  "runTime": 1708691416475,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2536520,
+        "num": 2536520,
+        "word": "凯特王妃疑患绿色癌症",
+        "onboard_time": 1708687654,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1982045,
+        "num": 1982045,
+        "word": "汪东城回应吴尊",
+        "onboard_time": 1708688673,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170449,
+        "num": 1190098,
+        "word": "元宵节为什么叫元宵节",
+        "onboard_time": 1708677813,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 996226,
+        "num": 996226,
+        "word": "南北 229",
+        "onboard_time": 1708672771,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 932839,
+        "num": 932839,
+        "word": "佛山电翰又开始直播打螺丝了",
+        "onboard_time": 1708687171,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 642624,
+        "num": 642624,
+        "word": "RNG官宣朱开回归",
+        "onboard_time": 1708689932,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 619694,
+        "num": 619694,
+        "word": "张继科已经与安踏解约",
+        "onboard_time": 1708679071,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 611867,
+        "num": 611867,
+        "word": "富家千金接班7年累计亏损近32亿",
+        "onboard_time": 1708682435,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 591325,
+        "num": 591325,
+        "word": "李沁拖地大衣",
+        "onboard_time": 1708688073,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 480174,
+        "num": 480174,
+        "word": "28岁网红菲菲公主因癌症去世",
+        "onboard_time": 1708680693,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 689368,
+        "num": 471391,
+        "word": "每年二月我都会痛哭一场",
+        "onboard_time": 1708684112,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 462120,
+        "num": 462120,
+        "word": "三胎妈妈为生龙宝宝足月后缓生",
+        "onboard_time": 1708679314,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423524,
+        "num": 423524,
+        "word": "全员加速中",
+        "onboard_time": 1708691073,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377614,
+        "num": 377614,
+        "word": "张卫健过60大寿一根白发都没有",
+        "onboard_time": 1708667376,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 377281,
+        "num": 377281,
+        "word": "奎八 删照片",
+        "onboard_time": 1708683334,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367230,
+        "num": 367230,
+        "word": "肖战排面",
+        "onboard_time": 1708682073,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267429,
+        "num": 267429,
+        "word": "新沙洞老虎去世",
+        "onboard_time": 1708678353,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261798,
+        "num": 261798,
+        "word": "A股5000家上市公司缴纳全国税收的25%",
+        "onboard_time": 1708688190,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 254844,
+        "num": 254844,
+        "word": "姚安娜现身华为发布会",
+        "onboard_time": 1708671935,
+        "rank": 18,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 235039,
+        "num": 235039,
+        "word": "柿子汤圆",
+        "onboard_time": 1708681293,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 460103,
+        "num": 234871,
+        "word": "早上和老板说怀孕下午就被降薪",
+        "onboard_time": 1708685554,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312114,
+        "num": 234857,
+        "word": "预示癌症的20个症状",
+        "onboard_time": 1708688494,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 261929,
+        "num": 234703,
+        "word": "双鱼座才不会在感情中盲目",
+        "onboard_time": 1708686272,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232992,
+        "num": 232992,
+        "word": "猎冰 华为二公主追击小米代言人",
+        "onboard_time": 1708665215,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208218,
+        "num": 208218,
+        "word": "总导演回应河南春晚不设主持人",
+        "onboard_time": 1708690173,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203709,
+        "num": 203709,
+        "word": "宁艺卓到达米兰",
+        "onboard_time": 1708689094,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201450,
+        "num": 201450,
+        "word": "猎冰",
+        "onboard_time": 1708690712,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201174,
+        "num": 201174,
+        "word": "上春山",
+        "onboard_time": 1708667254,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185603,
+        "num": 201041,
+        "word": "中央财经委员会第四次会议",
+        "onboard_time": 1708690052,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176603,
+        "num": 200985,
+        "word": "TTG零封RNGM",
+        "onboard_time": 1708689211,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200972,
+        "num": 200972,
+        "word": "希望所有爱豆都来学习",
+        "onboard_time": 1708690832,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198462,
+        "num": 198462,
+        "word": "杜凯琹2比3张本美和",
+        "onboard_time": 1708690534,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196675,
+        "num": 196675,
+        "word": "南来北往",
+        "onboard_time": 1708690890,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187411,
+        "num": 187411,
+        "word": "肖战米兰看秀登世趋第一",
+        "onboard_time": 1708683397,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176062,
+        "num": 176062,
+        "word": "医生回应打HPV疫苗3年后患宫颈癌",
+        "onboard_time": 1708673434,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175114,
+        "num": 175114,
+        "word": "黄旭熙新公式照",
+        "onboard_time": 1708684532,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168430,
+        "num": 168430,
+        "word": "在二手交易平台买到真二手了",
+        "onboard_time": 1708685311,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270344,
+        "num": 168426,
+        "word": "男子把货车横在断桥口避免更多伤亡",
+        "onboard_time": 1708684894,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168419,
+        "num": 168419,
+        "word": "WE战胜iG",
+        "onboard_time": 1708691192,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167585,
+        "num": 167585,
+        "word": "久坐的危害竟然这么大",
+        "onboard_time": 1708685613,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164769,
+        "num": 164769,
+        "word": "侯雯元到底给钟楚曦拍了多少美照",
+        "onboard_time": 1708671214,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163137,
+        "num": 163137,
+        "word": "马面裙卖爆了",
+        "onboard_time": 1708691371,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 157962,
+        "num": 157962,
+        "word": "狗子在外待一夜浑身结满冰",
+        "onboard_time": 1708691012,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156232,
+        "num": 156232,
+        "word": "热辣票房成功说靠营销是站不住脚的",
+        "onboard_time": 1708674575,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150634,
+        "num": 150634,
+        "word": "王一博 聋哑人测试",
+        "onboard_time": 1708671993,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147602,
+        "num": 147602,
+        "word": "克罗恩病",
+        "onboard_time": 1708688073,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144669,
+        "num": 144669,
+        "word": "中国首部文生视频AI动画片发布",
+        "onboard_time": 1708691371,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144042,
+        "num": 144042,
+        "word": "猫咪学长被锁宿舍30天靠学生零食撑过",
+        "onboard_time": 1708684591,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142112,
+        "num": 142112,
+        "word": "StrayKids燃冬",
+        "onboard_time": 1708688673,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139216,
+        "num": 139216,
+        "word": "门徒电影评赵丽颖春节档表现",
+        "onboard_time": 1708688319,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#梁家河的七年岁月对习近平影响深刻#"
+    }
+  }
+}
