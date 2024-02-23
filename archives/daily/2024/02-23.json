@@ -1,6 +1,6 @@
 {
   "startTime": 1708618926218,
-  "endTime": 1708686901125,
+  "endTime": 1708688050210,
   "band_list": [
     {
       "raw_hot": 2980398,
@@ -347,20 +347,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 832363,
+      "num": 832363,
+      "word": "每年二月我都会痛哭一场",
+      "onboard_time": 1708684112,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 818299,
       "num": 818299,
       "word": "魏晨 我招谁惹谁了",
       "onboard_time": 1708643122,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 810061,
-      "num": 810061,
-      "word": "每年二月我都会痛哭一场",
-      "onboard_time": 1708684112,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 805881,
@@ -419,7 +419,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 706569,
+      "raw_hot": 707363,
       "num": 341214,
       "word": "早上和老板说怀孕下午就被降薪",
       "onboard_time": 1708685554,
@@ -457,6 +457,14 @@
       "onboard_time": 1708644806,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 632987,
+      "num": 632987,
+      "word": "富家千金接班7年累计亏损近32亿",
+      "onboard_time": 1708682435,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 620475,
@@ -531,6 +539,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 581016,
+      "num": 581016,
+      "word": "姚安娜现身华为发布会",
+      "onboard_time": 1708671935,
+      "rank": 20,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 577832,
       "num": 577832,
       "word": "苏翊鸣首跳失误",
@@ -545,6 +561,14 @@
       "onboard_time": 1708673614,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 560945,
+      "num": 560945,
+      "word": "佛山电翰又开始直播打螺丝了",
+      "onboard_time": 1708687171,
+      "rank": 12,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 559011,
@@ -603,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 522919,
-      "num": 522919,
-      "word": "姚安娜现身华为发布会",
-      "onboard_time": 1708671935,
-      "rank": 20,
-      "category": "艺人,数码"
-    },
-    {
       "raw_hot": 521104,
       "num": 521104,
       "word": "上海地铁",
@@ -644,7 +660,7 @@
     },
     {
       "raw_hot": 500995,
-      "num": 444930,
+      "num": 474663,
       "word": "三胎妈妈为生龙宝宝足月后缓生",
       "onboard_time": 1708679314,
       "rank": 34,
@@ -699,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 458521,
+      "num": 354667,
+      "word": "猫咪学长被锁宿舍30天靠学生零食撑过",
+      "onboard_time": 1708684591,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453479,
       "num": 453479,
       "word": "王一博黑粉被执行2.4万",
@@ -737,6 +761,14 @@
       "onboard_time": 1708678537,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 430169,
+      "num": 622382,
+      "word": "男子把货车横在断桥口避免更多伤亡",
+      "onboard_time": 1708684894,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429900,
@@ -787,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 413422,
-      "num": 378212,
-      "word": "富家千金接班7年累计亏损近32亿",
-      "onboard_time": 1708682435,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
       "raw_hot": 409455,
       "num": 409455,
       "word": "EDG",
@@ -809,14 +833,6 @@
       "onboard_time": 1708598853,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 392898,
-      "num": 622382,
-      "word": "男子把货车横在断桥口避免更多伤亡",
-      "onboard_time": 1708684894,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 384830,
@@ -864,14 +880,6 @@
       "word": "当一个江浙沪赘婿决定离婚",
       "onboard_time": 1708605994,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354667,
-      "num": 354667,
-      "word": "猫咪学长被锁宿舍30天靠学生零食撑过",
-      "onboard_time": 1708684591,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -977,6 +985,14 @@
       "onboard_time": 1708658975,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 312098,
+      "num": 198470,
+      "word": "凯特王妃疑患绿色癌症",
+      "onboard_time": 1708687654,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 309934,
@@ -1259,6 +1275,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 239335,
+      "num": 239335,
+      "word": "在二手交易平台买到真二手了",
+      "onboard_time": 1708685311,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239190,
+      "num": 239190,
+      "word": "双鱼座才不会在感情中盲目",
+      "onboard_time": 1708686272,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238804,
       "num": 238804,
       "word": "kcon香港",
@@ -1329,6 +1361,14 @@
       "onboard_time": 1708673133,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229588,
+      "num": 229588,
+      "word": "张继科关联奶茶品牌公司涉多起司法纠纷",
+      "onboard_time": 1708686992,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 228006,
@@ -1547,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206869,
+      "num": 206869,
+      "word": "元气森林是纯元的元",
+      "onboard_time": 1708684532,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 206334,
       "num": 206334,
       "word": "十年前父辈犯的错正中眉心",
@@ -1593,14 +1641,6 @@
       "onboard_time": 1708678292,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 202056,
-      "num": 202056,
-      "word": "在二手交易平台买到真二手了",
-      "onboard_time": 1708685311,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201553,
@@ -1713,14 +1753,6 @@
       "onboard_time": 1708653933,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183944,
-      "num": 183944,
-      "word": "元气森林是纯元的元",
-      "onboard_time": 1708684532,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 183135,
@@ -1865,14 +1897,6 @@
       "onboard_time": 1708671752,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 167571,
-      "num": 167571,
-      "word": "双鱼座才不会在感情中盲目",
-      "onboard_time": 1708686272,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 167282,
@@ -2043,20 +2067,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153660,
+      "num": 153660,
+      "word": "久坐的危害竟然这么大",
+      "onboard_time": 1708685613,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 152208,
       "num": 152208,
       "word": "贵州8场山火均是违规用火所致",
       "onboard_time": 1708652913,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152084,
-      "num": 152084,
-      "word": "久坐的危害竟然这么大",
-      "onboard_time": 1708685613,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 151980,
@@ -2099,6 +2123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147314,
+      "num": 147314,
+      "word": "周鸿祎评AI课程乱象",
+      "onboard_time": 1708687772,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 146790,
       "num": 146790,
       "word": "猫咪偷排骨被当场抓获",
@@ -2139,6 +2171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136081,
+      "num": 136081,
+      "word": "换乘恋爱XRoom",
+      "onboard_time": 1708687597,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136045,
       "num": 136045,
       "word": "大厂的年终奖还香吗",
@@ -2161,6 +2201,14 @@
       "onboard_time": 1708680815,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132318,
+      "num": 128013,
+      "word": "换乘恋爱3",
+      "onboard_time": 1708686873,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 132024,
@@ -2249,14 +2297,6 @@
       "onboard_time": 1708614693,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 114193,
-      "num": 114193,
-      "word": "换乘恋爱3",
-      "onboard_time": 1708686873,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 111651,
@@ -2593,6 +2633,14 @@
       "onboard_time": 1708634656,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19328,
+      "num": 198552,
+      "word": "元梦又要上央视啦",
+      "onboard_time": 1708687231,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 18870,
