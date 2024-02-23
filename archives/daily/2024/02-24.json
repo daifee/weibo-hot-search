@@ -1,6 +1,6 @@
 {
   "startTime": 1708705253127,
-  "endTime": 1708716837326,
+  "endTime": 1708719579604,
   "band_list": [
     {
       "raw_hot": 1783817,
@@ -491,6 +491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 34872,
+      "num": 34872,
+      "word": "影视剧只拍上半身的原因",
+      "onboard_time": 1708718419,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30350,
       "num": 33368,
       "word": "猎冰",
@@ -499,12 +507,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24981,
+      "num": 24981,
+      "word": "广州断桥事件倒车拦车车主发声",
+      "onboard_time": 1708717757,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24303,
       "num": 24303,
       "word": "张艺兴全英文新歌",
       "onboard_time": 1708716556,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 18380,
+      "num": 18380,
+      "word": "93岁姥爷非要帮铲雪外孙女吓跪了",
+      "onboard_time": 1708717817,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13682,
