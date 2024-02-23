@@ -1,6 +1,6 @@
 {
   "startTime": 1708618926218,
-  "endTime": 1708655649637,
+  "endTime": 1708658257391,
   "band_list": [
     {
       "raw_hot": 2980398,
@@ -8,6 +8,14 @@
       "word": "苏州交警回应高架百车相撞",
       "onboard_time": 1708653993,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2551344,
+      "num": 2551344,
+      "word": "花花被遗忘在外场饲养员被解雇",
+      "onboard_time": 1708653096,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 2395721,
-      "num": 1373158,
+      "num": 1791576,
       "word": "夫妻相约赴死妻子身亡丈夫反悔",
       "onboard_time": 1708651653,
       "rank": 30,
@@ -41,6 +49,22 @@
       "onboard_time": 1708645045,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1740790,
+      "num": 1740790,
+      "word": "为何1点点奶茶不火了",
+      "onboard_time": 1708653634,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 1376437,
+      "num": 1376437,
+      "word": "我国彩礼最低的省份",
+      "onboard_time": 1708653096,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1343349,
@@ -91,19 +115,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 972260,
-      "num": 972260,
-      "word": "花花被遗忘在外场饲养员被解雇",
-      "onboard_time": 1708653096,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 937082,
       "num": 937082,
       "word": "青簪行 定档",
       "onboard_time": 1708610197,
       "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 908750,
+      "num": 908750,
+      "word": "白色橄榄树全阵容官宣",
+      "onboard_time": 1708655733,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -139,19 +163,27 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 792731,
-      "num": 792731,
-      "word": "为何1点点奶茶不火了",
-      "onboard_time": 1708653634,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
       "raw_hot": 791371,
       "num": 791371,
       "word": "贵州一天通报6起山火原因",
       "onboard_time": 1708652072,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 707240,
+      "num": 707240,
+      "word": "南京火灾",
+      "onboard_time": 1708654294,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 679678,
+      "num": 679678,
+      "word": "浦东支持外籍人才担任事业单位国有企业法人",
+      "onboard_time": 1708653393,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -203,20 +235,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 564005,
-      "num": 564005,
-      "word": "浦东支持外籍人才担任事业单位国有企业法人",
-      "onboard_time": 1708653393,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 563530,
-      "num": 563530,
-      "word": "我国彩礼最低的省份",
-      "onboard_time": 1708653096,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 550725,
+      "num": 291485,
+      "word": "椰树去年在擦边争议中卖了50亿",
+      "onboard_time": 1708656513,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 545820,
@@ -267,14 +291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 484227,
-      "num": 484227,
-      "word": "南京火灾",
-      "onboard_time": 1708654294,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 482317,
       "num": 482317,
       "word": "高合创始人承认翻身窗口期仅剩3个月",
@@ -305,6 +321,14 @@
       "onboard_time": 1708654113,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 446170,
+      "num": 446170,
+      "word": "天蝎座2024会发生的三件好事",
+      "onboard_time": 1708656095,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 441561,
@@ -379,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349019,
+      "num": 334818,
+      "word": "高考考得最好的一群人现在在干啥",
+      "onboard_time": 1708654594,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339294,
       "num": 339294,
       "word": "什么叫裁员裁到大动脉了",
@@ -435,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303019,
+      "num": 303019,
+      "word": "IU写手写信感谢汤唯",
+      "onboard_time": 1708652673,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 301458,
       "num": 301458,
       "word": "陈都灵早期模特照",
@@ -475,6 +515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 266418,
+      "num": 266418,
+      "word": "小米汽车",
+      "onboard_time": 1708656816,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 260775,
       "num": 260775,
       "word": "肖战今天看两场秀",
@@ -499,12 +547,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 252403,
-      "num": 252403,
-      "word": "高考考得最好的一群人现在在干啥",
-      "onboard_time": 1708654594,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 251503,
+      "num": 251503,
+      "word": "虞书欣林一雪地靠肩照",
+      "onboard_time": 1708658136,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 246054,
@@ -529,6 +577,14 @@
       "onboard_time": 1708654713,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 232322,
+      "num": 232322,
+      "word": "丫丫雪后美成1幅画",
+      "onboard_time": 1708655014,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229814,
@@ -561,14 +617,6 @@
       "onboard_time": 1708604135,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 224357,
-      "num": 224357,
-      "word": "IU写手写信感谢汤唯",
-      "onboard_time": 1708652673,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 223492,
@@ -635,6 +683,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204612,
+      "num": 204612,
+      "word": "苏州交警",
+      "onboard_time": 1708657535,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200105,
+      "num": 200105,
+      "word": "涵艺爆料朱开加入RNG",
+      "onboard_time": 1708657591,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195945,
       "num": 195945,
       "word": "把学历改成高中后终于找到工作",
@@ -643,12 +707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195719,
-      "num": 195719,
-      "word": "丫丫雪后美成1幅画",
-      "onboard_time": 1708655014,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 193777,
+      "num": 360910,
+      "word": "雅迪是要造汽车了吗",
+      "onboard_time": 1708655553,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 191337,
@@ -681,6 +745,14 @@
       "onboard_time": 1708653933,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181864,
+      "num": 1801311,
+      "word": "一张最想炫耀的老家照片",
+      "onboard_time": 1708656695,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180394,
@@ -731,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169827,
+      "num": 169827,
+      "word": "明尚西苑",
+      "onboard_time": 1708657230,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167282,
       "num": 167282,
       "word": "谁在找辛芷蕾",
@@ -769,6 +849,14 @@
       "onboard_time": 1708646429,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159464,
+      "num": 159464,
+      "word": "妈妈给买的小狗牌声控跳跳鼠",
+      "onboard_time": 1708657230,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 158239,
@@ -841,14 +929,6 @@
       "onboard_time": 1708602752,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 114831,
-      "num": 142818,
-      "word": "雅迪是要造汽车了吗",
-      "onboard_time": 1708655553,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 114218,
@@ -1169,6 +1249,9 @@
     },
     {
       "word": "#总书记引领推进粤港澳大湾区建设#"
+    },
+    {
+      "word": "#习近平曾在厦门打响治理污染的硬仗#"
     }
   ]
 }
