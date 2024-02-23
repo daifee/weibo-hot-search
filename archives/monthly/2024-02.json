@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708691416475,
+  "endTime": 1708692273533,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1787,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2081362,
+      "num": 2081362,
+      "word": "汪东城回应吴尊",
+      "onboard_time": 1708688673,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2075853,
       "num": 2075853,
       "word": "节后浙江疾控艾滋病咨询电话增两三倍",
@@ -1977,14 +1985,6 @@
       "onboard_time": 1708585294,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1982045,
-      "num": 1982045,
-      "word": "汪东城回应吴尊",
-      "onboard_time": 1708688673,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1974704,
@@ -11483,6 +11483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 673733,
+      "num": 673733,
+      "word": "全员加速中",
+      "onboard_time": 1707802835,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 673563,
       "num": 673563,
       "word": "邓为代言CT",
@@ -13305,14 +13313,6 @@
       "onboard_time": 1708440221,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 600161,
-      "num": 445648,
-      "word": "全员加速中",
-      "onboard_time": 1707802835,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 599131,
@@ -20443,6 +20443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 392723,
+      "num": 231398,
+      "word": "马面裙卖爆了",
+      "onboard_time": 1708691371,
+      "rank": 41,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 392546,
       "num": 204145,
       "word": "疑似患癌者最终7%确诊",
@@ -22731,6 +22739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349067,
+      "num": 349067,
+      "word": "A股5000家上市公司缴纳全国税收的25%",
+      "onboard_time": 1708688190,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 348878,
       "num": 348878,
       "word": "赵露思薛佳凝聚餐吃铁锅炖",
@@ -22897,6 +22913,14 @@
       "onboard_time": 1707971314,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344538,
+      "num": 234857,
+      "word": "预示癌症的20个症状",
+      "onboard_time": 1708688494,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 344433,
@@ -24769,14 +24793,6 @@
       "onboard_time": 1707017011,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312114,
-      "num": 234857,
-      "word": "预示癌症的20个症状",
-      "onboard_time": 1708688494,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 312075,
@@ -28987,14 +29003,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 261798,
-      "num": 261798,
-      "word": "A股5000家上市公司缴纳全国税收的25%",
-      "onboard_time": 1708688190,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 261765,
       "num": 261765,
       "word": "孙千演的陶姝娜是A班袁湘琴",
@@ -32067,6 +32075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234842,
+      "num": 234842,
+      "word": "希望所有爱豆都来学习",
+      "onboard_time": 1708690832,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 234824,
       "num": 221175,
       "word": "会睡懒觉的人心血管更好",
@@ -33843,6 +33859,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 221810,
+      "num": 221810,
+      "word": "LNG对战TES",
+      "onboard_time": 1708688130,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 221784,
       "num": 221784,
       "word": "陈楚生命运的齿轮还在继续转动",
@@ -33881,6 +33905,14 @@
       "onboard_time": 1708147171,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221640,
+      "num": 221640,
+      "word": "通信技术试验卫星十一号成功发射",
+      "onboard_time": 1708691915,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 221617,
@@ -34704,6 +34736,14 @@
       "word": "妈妈救了我很多次",
       "onboard_time": 1707731673,
       "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 216803,
+      "num": 202120,
+      "word": "很多家庭都是一座疯人院",
+      "onboard_time": 1708691610,
+      "rank": 30,
       "category": "情感"
     },
     {
@@ -37811,14 +37851,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 200972,
-      "num": 200972,
-      "word": "希望所有爱豆都来学习",
-      "onboard_time": 1708690832,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 200958,
       "num": 200958,
       "word": "你写的vs人民日报写的",
@@ -38531,6 +38563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198320,
+      "num": 198320,
+      "word": "中国首部文生视频AI动画片发布",
+      "onboard_time": 1708691371,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198308,
       "num": 198308,
       "word": "机构称2024年是A股新一轮的牛市起点",
@@ -39041,6 +39081,14 @@
       "onboard_time": 1708214911,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195800,
+      "num": 195800,
+      "word": "狗子在外待一夜浑身结满冰",
+      "onboard_time": 1708691012,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 195782,
@@ -40723,6 +40771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189106,
+      "num": 203451,
+      "word": "中央财经委员会第四次会议",
+      "onboard_time": 1708690052,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 189066,
       "num": 189066,
       "word": "仙剑四",
@@ -40945,6 +41001,14 @@
       "onboard_time": 1707988952,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188213,
+      "num": 188213,
+      "word": "用七宗罪打开大唐狄公案",
+      "onboard_time": 1708691673,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 188182,
@@ -41457,14 +41521,6 @@
       "onboard_time": 1706799873,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185603,
-      "num": 201041,
-      "word": "中央财经委员会第四次会议",
-      "onboard_time": 1708690052,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 185569,
@@ -46475,6 +46531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163315,
+      "num": 163315,
+      "word": "贾玲 你看到什么我就拍了什么",
+      "onboard_time": 1708692151,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163314,
       "num": 163314,
       "word": "i人变e真的很有自由感",
@@ -46513,14 +46577,6 @@
       "onboard_time": 1707884491,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 163137,
-      "num": 163137,
-      "word": "马面裙卖爆了",
-      "onboard_time": 1708691371,
-      "rank": 41,
-      "category": "时尚"
     },
     {
       "raw_hot": 163063,
@@ -47705,14 +47761,6 @@
       "onboard_time": 1706855491,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 157962,
-      "num": 157962,
-      "word": "狗子在外待一夜浑身结满冰",
-      "onboard_time": 1708691012,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 157955,
@@ -50747,14 +50795,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 144669,
-      "num": 144669,
-      "word": "中国首部文生视频AI动画片发布",
-      "onboard_time": 1708691371,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144652,
       "num": 144652,
       "word": "大多数人一辈子都在追求优越感",
@@ -52017,6 +52057,14 @@
       "onboard_time": 1707782847,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139103,
+      "num": 139103,
+      "word": "KPL",
+      "onboard_time": 1708689511,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 139084,
@@ -63817,6 +63865,14 @@
       "onboard_time": 1707288931,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 8201,
+      "num": 1171858,
+      "word": "小学生的画登上太空",
+      "onboard_time": 1708677515,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6474,

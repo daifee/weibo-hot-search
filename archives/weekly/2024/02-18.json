@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708691416475,
+  "endTime": 1708692273533,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -531,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2081362,
+      "num": 2081362,
+      "word": "汪东城回应吴尊",
+      "onboard_time": 1708688673,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2075853,
       "num": 2075853,
       "word": "节后浙江疾控艾滋病咨询电话增两三倍",
@@ -601,14 +609,6 @@
       "onboard_time": 1708585294,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1982045,
-      "num": 1982045,
-      "word": "汪东城回应吴尊",
-      "onboard_time": 1708688673,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1974704,
@@ -3219,6 +3219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 673733,
+      "num": 673733,
+      "word": "全员加速中",
+      "onboard_time": 1708691073,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 673563,
       "num": 673563,
       "word": "邓为代言CT",
@@ -5331,14 +5339,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 423524,
-      "num": 423524,
-      "word": "全员加速中",
-      "onboard_time": 1708691073,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 422388,
       "num": 422388,
       "word": "关晓彤好像手办娃娃",
@@ -5673,6 +5673,14 @@
       "onboard_time": 1708607496,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 392723,
+      "num": 231398,
+      "word": "马面裙卖爆了",
+      "onboard_time": 1708691371,
+      "rank": 41,
+      "category": "时尚"
     },
     {
       "raw_hot": 392223,
@@ -6283,6 +6291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349067,
+      "num": 349067,
+      "word": "A股5000家上市公司缴纳全国税收的25%",
+      "onboard_time": 1708688190,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 348878,
       "num": 348878,
       "word": "赵露思薛佳凝聚餐吃铁锅炖",
@@ -6345,6 +6361,14 @@
       "onboard_time": 1708234535,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344538,
+      "num": 234857,
+      "word": "预示癌症的20个症状",
+      "onboard_time": 1708688494,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 344156,
@@ -6905,14 +6929,6 @@
       "onboard_time": 1708425518,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 312114,
-      "num": 234857,
-      "word": "预示癌症的20个症状",
-      "onboard_time": 1708688494,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 311083,
@@ -8339,14 +8355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 261798,
-      "num": 261798,
-      "word": "A股5000家上市公司缴纳全国税收的25%",
-      "onboard_time": 1708688190,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 260775,
       "num": 260775,
       "word": "肖战今天看两场秀",
@@ -9259,6 +9267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234842,
+      "num": 234842,
+      "word": "希望所有爱豆都来学习",
+      "onboard_time": 1708690832,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 234077,
       "num": 234077,
       "word": "春节寄养一只猫要上万元",
@@ -9771,6 +9787,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 221810,
+      "num": 221810,
+      "word": "LNG对战TES",
+      "onboard_time": 1708688130,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 221784,
       "num": 221784,
       "word": "陈楚生命运的齿轮还在继续转动",
@@ -9785,6 +9809,14 @@
       "onboard_time": 1708532369,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221640,
+      "num": 221640,
+      "word": "通信技术试验卫星十一号成功发射",
+      "onboard_time": 1708691915,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 221598,
@@ -10017,6 +10049,14 @@
       "onboard_time": 1708216711,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216803,
+      "num": 202120,
+      "word": "很多家庭都是一座疯人院",
+      "onboard_time": 1708691610,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 216754,
@@ -10361,6 +10401,14 @@
       "onboard_time": 1708603233,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 209653,
+      "num": 209653,
+      "word": "南来北往",
+      "onboard_time": 1708604254,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 209161,
@@ -10915,14 +10963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 200972,
-      "num": 200972,
-      "word": "希望所有爱豆都来学习",
-      "onboard_time": 1708690832,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 200917,
       "num": 193532,
       "word": "朴灿烈终于想起了他的微博密码",
@@ -11107,6 +11147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198320,
+      "num": 198320,
+      "word": "中国首部文生视频AI动画片发布",
+      "onboard_time": 1708691371,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198308,
       "num": 198308,
       "word": "机构称2024年是A股新一轮的牛市起点",
@@ -11169,14 +11217,6 @@
       "onboard_time": 1708335158,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 196675,
-      "num": 196675,
-      "word": "南来北往",
-      "onboard_time": 1708604254,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 196658,
@@ -11249,6 +11289,14 @@
       "onboard_time": 1708214911,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195800,
+      "num": 195800,
+      "word": "狗子在外待一夜浑身结满冰",
+      "onboard_time": 1708691012,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 195782,
@@ -11747,6 +11795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189106,
+      "num": 203451,
+      "word": "中央财经委员会第四次会议",
+      "onboard_time": 1708690052,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 188942,
       "num": 188942,
       "word": "李马克少年感",
@@ -11809,6 +11865,14 @@
       "onboard_time": 1708480355,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188213,
+      "num": 188213,
+      "word": "用七宗罪打开大唐狄公案",
+      "onboard_time": 1708691673,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 188157,
@@ -11945,14 +12009,6 @@
       "onboard_time": 1708584876,
       "rank": 37,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 185603,
-      "num": 201041,
-      "word": "中央财经委员会第四次会议",
-      "onboard_time": 1708690052,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 185435,
@@ -13411,12 +13467,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 163137,
-      "num": 163137,
-      "word": "马面裙卖爆了",
-      "onboard_time": 1708691371,
-      "rank": 41,
-      "category": "时尚"
+      "raw_hot": 163315,
+      "num": 163315,
+      "word": "贾玲 你看到什么我就拍了什么",
+      "onboard_time": 1708692151,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 163063,
@@ -13761,14 +13817,6 @@
       "onboard_time": 1708679734,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157962,
-      "num": 157962,
-      "word": "狗子在外待一夜浑身结满冰",
-      "onboard_time": 1708691012,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 157955,
@@ -14563,14 +14611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 144669,
-      "num": 144669,
-      "word": "中国首部文生视频AI动画片发布",
-      "onboard_time": 1708691371,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144538,
       "num": 144538,
       "word": "刘同 发现联通其他套餐都比我的划算",
@@ -14833,6 +14873,14 @@
       "onboard_time": 1708329942,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 139103,
+      "num": 139103,
+      "word": "KPL",
+      "onboard_time": 1708689511,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 138996,
@@ -16825,6 +16873,14 @@
       "onboard_time": 1708548196,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 8201,
+      "num": 1171858,
+      "word": "小学生的画登上太空",
+      "onboard_time": 1708677515,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6785,
