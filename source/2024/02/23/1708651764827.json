@@ -1,0 +1,410 @@
+{
+  "runTime": 1708651764827,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1794719,
+        "num": 1794719,
+        "word": "新冠或是首个X疾病",
+        "onboard_time": 1708643784,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1683160,
+        "num": 1683160,
+        "word": "苏州高架",
+        "onboard_time": 1708648955,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66109,
+        "num": 1650326,
+        "word": "南腔北调见证冰雪运动热力十足",
+        "onboard_time": 1708608457,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1636867,
+        "num": 1636867,
+        "word": "闲置太久的鞋子就不要再穿了",
+        "onboard_time": 1708645045,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1239216,
+        "num": 1239216,
+        "word": "学校回应网传老师与学生在教室接吻",
+        "onboard_time": 1708648713,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792456,
+        "num": 792456,
+        "word": "广州遇难公交司机凌晨4点工作到晚7点",
+        "onboard_time": 1708618291,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684819,
+        "num": 684819,
+        "word": "一旦出现这个姿势要立即就医",
+        "onboard_time": 1708605694,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 647219,
+        "num": 647219,
+        "word": "身体出现这5个迹象说明你累过头了",
+        "onboard_time": 1708642822,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 587356,
+        "num": 587356,
+        "word": "魏晨 我招谁惹谁了",
+        "onboard_time": 1708643122,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 587058,
+        "num": 587058,
+        "word": "大侦探 内娱不可复刻的推界春晚",
+        "onboard_time": 1708649374,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 637333,
+        "num": 570578,
+        "word": "青簪行男主",
+        "onboard_time": 1708644806,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 516757,
+        "num": 516757,
+        "word": "儿子玩音乐多年不火54岁妈妈出手了",
+        "onboard_time": 1708650576,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511239,
+        "num": 511239,
+        "word": "上海地铁5号线9号线触网挂冰故障",
+        "onboard_time": 1708646971,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495051,
+        "num": 495051,
+        "word": "青簪行 定档",
+        "onboard_time": 1708610197,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480075,
+        "num": 480075,
+        "word": "存款和被爱才是疲意生活中的解药",
+        "onboard_time": 1708647515,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 429900,
+        "num": 429900,
+        "word": "英伟达",
+        "onboard_time": 1708649013,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 420294,
+        "num": 420294,
+        "word": "肖战米兰",
+        "onboard_time": 1708646189,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 416890,
+        "num": 416890,
+        "word": "广佛线",
+        "onboard_time": 1708649978,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414260,
+        "num": 414260,
+        "word": "上海地铁",
+        "onboard_time": 1708643784,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397956,
+        "num": 397956,
+        "word": "八岁小女孩向妈妈证明自己能养一只仓鼠",
+        "onboard_time": 1708644265,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 421236,
+        "num": 388028,
+        "word": "手机放枕边睡觉有辐射吗",
+        "onboard_time": 1708650453,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 313991,
+        "num": 313991,
+        "word": "白鹿情商",
+        "onboard_time": 1708643541,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307127,
+        "num": 307127,
+        "word": "什么叫裁员裁到大动脉了",
+        "onboard_time": 1708611338,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248967,
+        "num": 248967,
+        "word": "贵州一男子割田坎抽烟引发山火被刑拘",
+        "onboard_time": 1708651054,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232282,
+        "num": 232282,
+        "word": "2.2亿元彩票大奖得主无须缴纳个人所得税",
+        "onboard_time": 1708600715,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227860,
+        "num": 227860,
+        "word": "当一个江浙沪赘婿决定离婚",
+        "onboard_time": 1708605994,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222356,
+        "num": 222356,
+        "word": "女生说路难开男友父母就铺了水泥路",
+        "onboard_time": 1708644023,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220743,
+        "num": 220743,
+        "word": "烟火人家 渣爹",
+        "onboard_time": 1708647332,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220579,
+        "num": 220579,
+        "word": "冻雨",
+        "onboard_time": 1708650994,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206520,
+        "num": 206520,
+        "word": "断崖式衰老常发生在3个年龄",
+        "onboard_time": 1708602814,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228375,
+        "num": 204763,
+        "word": "夫妻相约赴死妻子身亡丈夫反悔",
+        "onboard_time": 1708651653,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200263,
+        "num": 200263,
+        "word": "沥心沙大桥遇难中巴司机家属发声",
+        "onboard_time": 1708646429,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200134,
+        "num": 200134,
+        "word": "当00后开始掌握家宴大权",
+        "onboard_time": 1708651354,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198142,
+        "num": 198142,
+        "word": "人生建议 永远别赚太辛苦的钱",
+        "onboard_time": 1708613616,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195714,
+        "num": 195714,
+        "word": "陈都灵早期模特照",
+        "onboard_time": 1708617990,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194043,
+        "num": 194043,
+        "word": "马燕快碎了",
+        "onboard_time": 1708644806,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191028,
+        "num": 191028,
+        "word": "英伟达市值逼近2万亿美元",
+        "onboard_time": 1708649913,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 189647,
+        "num": 189647,
+        "word": "网红杨老二去世",
+        "onboard_time": 1708603776,
+        "rank": 37,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 180116,
+        "num": 180116,
+        "word": "猎冰",
+        "onboard_time": 1708650754,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179426,
+        "num": 179426,
+        "word": "董事长操纵自家股票交易800亿亏2.4亿",
+        "onboard_time": 1708651471,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171715,
+        "num": 171715,
+        "word": "上海地铁设专页向乘客发送致歉信",
+        "onboard_time": 1708649071,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167272,
+        "num": 167272,
+        "word": "IU汤唯合作MV",
+        "onboard_time": 1708643541,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161746,
+        "num": 161746,
+        "word": "胡先煦新剧演小霸总",
+        "onboard_time": 1708650816,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157270,
+        "num": 157270,
+        "word": "法国观众说封神比漫威电影好看",
+        "onboard_time": 1708621402,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154700,
+        "num": 154700,
+        "word": "谁在找辛芷蕾",
+        "onboard_time": 1708647515,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150868,
+        "num": 150868,
+        "word": "孙千吃醋了",
+        "onboard_time": 1708614335,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149466,
+        "num": 149466,
+        "word": "老师给班上的每个小朋友送了一顶针织帽",
+        "onboard_time": 1708646490,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149385,
+        "num": 149385,
+        "word": "整个三亚都在偶遇明星",
+        "onboard_time": 1708613800,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146838,
+        "num": 146838,
+        "word": "戚薇又瘦了",
+        "onboard_time": 1708646189,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132879,
+        "num": 132879,
+        "word": "三岁一定要上幼儿园吗",
+        "onboard_time": 1708643843,
+        "rank": 49,
+        "category": "母婴育儿"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708650606830,
+  "endTime": 1708651764827,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -755,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1683160,
+      "num": 1683160,
+      "word": "苏州高架",
+      "onboard_time": 1708648955,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1679449,
       "num": 1679449,
       "word": "柳鑫宇且试天下",
@@ -1299,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1239216,
+      "num": 1239216,
+      "word": "学校回应网传老师与学生在教室接吻",
+      "onboard_time": 1708648713,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1232815,
       "num": 1232815,
       "word": "尔冬升让郑合惠子演女演员",
@@ -1409,14 +1425,6 @@
       "onboard_time": 1708314937,
       "rank": 5,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 1168108,
-      "num": 1168108,
-      "word": "学校回应网传老师与学生在教室接吻",
-      "onboard_time": 1708648713,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1163774,
@@ -1552,14 +1560,6 @@
       "word": "员工因bug事故被强制要求归还年终奖",
       "onboard_time": 1708483053,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1096090,
-      "num": 1096090,
-      "word": "苏州高架",
-      "onboard_time": 1708648955,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -3027,6 +3027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 637333,
+      "num": 604458,
+      "word": "青簪行男主",
+      "onboard_time": 1708644806,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 637172,
       "num": 637172,
       "word": "网传浪姐2024名单",
@@ -3201,14 +3209,6 @@
       "onboard_time": 1708440638,
       "rank": 17,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 613337,
-      "num": 604458,
-      "word": "青簪行男主",
-      "onboard_time": 1708644806,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 613260,
@@ -3417,6 +3417,14 @@
       "onboard_time": 1708235912,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 587058,
+      "num": 587058,
+      "word": "大侦探 内娱不可复刻的推界春晚",
+      "onboard_time": 1708649374,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 586729,
@@ -3707,14 +3715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 542667,
-      "num": 542667,
-      "word": "大侦探 内娱不可复刻的推界春晚",
-      "onboard_time": 1708649374,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 539657,
       "num": 313597,
       "word": "每顿就炒一个菜的家庭",
@@ -3881,6 +3881,14 @@
       "onboard_time": 1708490916,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 516757,
+      "num": 516757,
+      "word": "儿子玩音乐多年不火54岁妈妈出手了",
+      "onboard_time": 1708650576,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 516039,
@@ -4209,6 +4217,14 @@
       "onboard_time": 1708584336,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 480075,
+      "num": 480075,
+      "word": "存款和被爱才是疲意生活中的解药",
+      "onboard_time": 1708647515,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 480050,
@@ -4579,6 +4595,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 429900,
+      "num": 429900,
+      "word": "英伟达",
+      "onboard_time": 1708649013,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 429375,
       "num": 429375,
       "word": "黄景瑜你拿喉结干什么",
@@ -4691,6 +4715,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 421236,
+      "num": 388028,
+      "word": "手机放枕边睡觉有辐射吗",
+      "onboard_time": 1708650453,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 420181,
       "num": 420181,
       "word": "专家谈胖东来开除当事员工",
@@ -4729,6 +4761,14 @@
       "onboard_time": 1708418560,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 416890,
+      "num": 416890,
+      "word": "广佛线",
+      "onboard_time": 1708649978,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 416519,
@@ -4801,14 +4841,6 @@
       "onboard_time": 1708304133,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 413631,
-      "num": 413631,
-      "word": "英伟达",
-      "onboard_time": 1708649013,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 413098,
@@ -5113,14 +5145,6 @@
       "onboard_time": 1708391198,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 381512,
-      "num": 381512,
-      "word": "广佛线",
-      "onboard_time": 1708649978,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 381478,
@@ -5657,14 +5681,6 @@
       "onboard_time": 1708234535,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 344347,
-      "num": 344347,
-      "word": "存款和被爱才是疲意生活中的解药",
-      "onboard_time": 1708647515,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 344156,
@@ -7715,6 +7731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 248967,
+      "num": 248967,
+      "word": "贵州一男子割田坎抽烟引发山火被刑拘",
+      "onboard_time": 1708651054,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248752,
       "num": 248752,
       "word": "工作量多可能是工位的问题",
@@ -8401,6 +8425,14 @@
       "onboard_time": 1708229014,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228375,
+      "num": 204763,
+      "word": "夫妻相约赴死妻子身亡丈夫反悔",
+      "onboard_time": 1708651653,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 228280,
@@ -9691,6 +9723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200134,
+      "num": 200134,
+      "word": "当00后开始掌握家宴大权",
+      "onboard_time": 1708651354,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 200122,
       "num": 200122,
       "word": "狗狗认出好朋友后立刻起身抱住",
@@ -9849,14 +9889,6 @@
       "onboard_time": 1708335158,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 197098,
-      "num": 197098,
-      "word": "儿子玩音乐多年不火54岁妈妈出手了",
-      "onboard_time": 1708650576,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196658,
@@ -10209,6 +10241,14 @@
       "onboard_time": 1708509034,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191028,
+      "num": 191028,
+      "word": "英伟达市值逼近2万亿美元",
+      "onboard_time": 1708649913,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 190950,
@@ -10913,6 +10953,14 @@
       "onboard_time": 1708349804,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179426,
+      "num": 179426,
+      "word": "董事长操纵自家股票交易800亿亏2.4亿",
+      "onboard_time": 1708651471,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 179377,
@@ -11931,6 +11979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161746,
+      "num": 161746,
+      "word": "胡先煦新剧演小霸总",
+      "onboard_time": 1708650816,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161483,
       "num": 161483,
       "word": "DYG战胜eStar",
@@ -12049,14 +12105,6 @@
       "onboard_time": 1708424739,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159272,
-      "num": 159272,
-      "word": "手机放枕边睡觉有辐射吗",
-      "onboard_time": 1708650453,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 158961,
@@ -12361,14 +12409,6 @@
       "onboard_time": 1708574021,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153131,
-      "num": 153131,
-      "word": "英伟达市值逼近2万亿美元",
-      "onboard_time": 1708649913,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 152900,
@@ -14068,7 +14108,7 @@
     },
     {
       "raw_hot": 73785,
-      "num": 1477281,
+      "num": 1650326,
       "word": "南腔北调见证冰雪运动热力十足",
       "onboard_time": 1708608457,
       "rank": 2,

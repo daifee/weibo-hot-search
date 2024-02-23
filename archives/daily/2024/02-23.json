@@ -1,6 +1,6 @@
 {
   "startTime": 1708618926218,
-  "endTime": 1708650606830,
+  "endTime": 1708651764827,
   "band_list": [
     {
       "raw_hot": 2055877,
@@ -19,27 +19,27 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1224765,
-      "num": 1224765,
-      "word": "广州遇难公交司机凌晨4点工作到晚7点",
-      "onboard_time": 1708618291,
-      "rank": 31,
+      "raw_hot": 1683160,
+      "num": 1683160,
+      "word": "苏州高架",
+      "onboard_time": 1708648955,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1168108,
-      "num": 1168108,
+      "raw_hot": 1239216,
+      "num": 1239216,
       "word": "学校回应网传老师与学生在教室接吻",
       "onboard_time": 1708648713,
       "rank": 3,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1096090,
-      "num": 1096090,
-      "word": "苏州高架",
-      "onboard_time": 1708648955,
-      "rank": 4,
+      "raw_hot": 1224765,
+      "num": 1224765,
+      "word": "广州遇难公交司机凌晨4点工作到晚7点",
+      "onboard_time": 1708618291,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -83,7 +83,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 613337,
+      "raw_hot": 637333,
       "num": 604458,
       "word": "青簪行男主",
       "onboard_time": 1708644806,
@@ -107,6 +107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 587058,
+      "num": 587058,
+      "word": "大侦探 内娱不可复刻的推界春晚",
+      "onboard_time": 1708649374,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 585984,
       "num": 585984,
       "word": "网红杨老二去世",
@@ -123,19 +131,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 542667,
-      "num": 542667,
-      "word": "大侦探 内娱不可复刻的推界春晚",
-      "onboard_time": 1708649374,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 521104,
       "num": 521104,
       "word": "上海地铁",
       "onboard_time": 1708643784,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516757,
+      "num": 516757,
+      "word": "儿子玩音乐多年不火54岁妈妈出手了",
+      "onboard_time": 1708650576,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -155,6 +163,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 480075,
+      "num": 480075,
+      "word": "存款和被爱才是疲意生活中的解药",
+      "onboard_time": 1708647515,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 480050,
       "num": 480050,
       "word": "肖战米兰",
@@ -171,11 +187,35 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 429900,
+      "num": 429900,
+      "word": "英伟达",
+      "onboard_time": 1708649013,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 425953,
       "num": 476345,
       "word": "2.2亿元彩票大奖得主无须缴纳个人所得税",
       "onboard_time": 1708600715,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421236,
+      "num": 388028,
+      "word": "手机放枕边睡觉有辐射吗",
+      "onboard_time": 1708650453,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 416890,
+      "num": 416890,
+      "word": "广佛线",
+      "onboard_time": 1708649978,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -185,14 +225,6 @@
       "onboard_time": 1708616015,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 413631,
-      "num": 413631,
-      "word": "英伟达",
-      "onboard_time": 1708649013,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 401697,
@@ -211,14 +243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 381512,
-      "num": 381512,
-      "word": "广佛线",
-      "onboard_time": 1708649978,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 364569,
       "num": 364569,
       "word": "白鹿情商",
@@ -233,14 +257,6 @@
       "onboard_time": 1708605994,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 344347,
-      "num": 344347,
-      "word": "存款和被爱才是疲意生活中的解药",
-      "onboard_time": 1708647515,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 339294,
@@ -323,6 +339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 248967,
+      "num": 248967,
+      "word": "贵州一男子割田坎抽烟引发山火被刑拘",
+      "onboard_time": 1708651054,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246054,
       "num": 246054,
       "word": "Gucci和Tods接机肖战",
@@ -336,6 +360,14 @@
       "word": "人民网评网红扮演赵世子",
       "onboard_time": 1708580973,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228375,
+      "num": 204763,
+      "word": "夫妻相约赴死妻子身亡丈夫反悔",
+      "onboard_time": 1708651653,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -379,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220579,
+      "num": 220579,
+      "word": "冻雨",
+      "onboard_time": 1708650994,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212036,
       "num": 212036,
       "word": "马燕快碎了",
@@ -403,12 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197098,
-      "num": 197098,
-      "word": "儿子玩音乐多年不火54岁妈妈出手了",
-      "onboard_time": 1708650576,
+      "raw_hot": 200134,
+      "num": 200134,
+      "word": "当00后开始掌握家宴大权",
+      "onboard_time": 1708651354,
       "rank": 32,
-      "category": "社会新闻"
+      "category": "幽默"
     },
     {
       "raw_hot": 195945,
@@ -427,6 +467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 191028,
+      "num": 191028,
+      "word": "英伟达市值逼近2万亿美元",
+      "onboard_time": 1708649913,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 189920,
       "num": 189920,
       "word": "浙江一17岁学生确诊肠癌",
@@ -441,6 +489,22 @@
       "onboard_time": 1708610735,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180116,
+      "num": 180116,
+      "word": "猎冰",
+      "onboard_time": 1708650754,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 179426,
+      "num": 179426,
+      "word": "董事长操纵自家股票交易800亿亏2.4亿",
+      "onboard_time": 1708651471,
+      "rank": 39,
+      "category": "财经"
     },
     {
       "raw_hot": 178379,
@@ -491,20 +555,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161746,
+      "num": 161746,
+      "word": "胡先煦新剧演小霸总",
+      "onboard_time": 1708650816,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161123,
       "num": 161123,
       "word": "专家释疑空船撞桥何以坍塌",
       "onboard_time": 1708646429,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159272,
-      "num": 159272,
-      "word": "手机放枕边睡觉有辐射吗",
-      "onboard_time": 1708650453,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 158239,
@@ -521,14 +585,6 @@
       "onboard_time": 1708646490,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 153131,
-      "num": 153131,
-      "word": "英伟达市值逼近2万亿美元",
-      "onboard_time": 1708649913,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 149582,
@@ -731,8 +787,8 @@
       "category": "动漫,艺人"
     },
     {
-      "raw_hot": 64854,
-      "num": 1421400,
+      "raw_hot": 66109,
+      "num": 1650326,
       "word": "南腔北调见证冰雪运动热力十足",
       "onboard_time": 1708608457,
       "rank": 2,
