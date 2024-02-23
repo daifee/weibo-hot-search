@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708670059834,
+  "endTime": 1708672624467,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -449,6 +449,14 @@
       "onboard_time": 1708517135,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2187584,
+      "num": 2187584,
+      "word": "90后退休时间可能要延迟到七八十岁",
+      "onboard_time": 1708668575,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2182519,
@@ -1819,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1023260,
+      "num": 1023260,
+      "word": "宋轶曾有一年多没戏拍",
+      "onboard_time": 1708665517,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1022440,
       "num": 1022440,
       "word": "寒假作业落巴黎事件舅舅账号被禁",
@@ -1897,6 +1913,14 @@
       "onboard_time": 1708511318,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 974722,
+      "num": 974722,
+      "word": "侯雯元到底给钟楚曦拍了多少美照",
+      "onboard_time": 1708671214,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 974417,
@@ -2723,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 726090,
+      "num": 726090,
+      "word": "东部战区发布海报回家",
+      "onboard_time": 1708667196,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 724091,
       "num": 724091,
       "word": "腾讯小米为员工发开工红包",
@@ -2744,14 +2776,6 @@
       "word": "魏大勋明侦拿了孟宴臣剧本",
       "onboard_time": 1708502616,
       "rank": 8,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 718348,
-      "num": 718348,
-      "word": "宋轶曾有一年多没戏拍",
-      "onboard_time": 1708665517,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -2993,14 +3017,6 @@
       "onboard_time": 1708342118,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 682318,
-      "num": 682318,
-      "word": "90后退休时间可能要延迟到七八十岁",
-      "onboard_time": 1708668575,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 681530,
@@ -3257,14 +3273,6 @@
       "onboard_time": 1708576475,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 637512,
-      "num": 637512,
-      "word": "东部战区发布海报回家",
-      "onboard_time": 1708667196,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 637333,
@@ -4401,6 +4409,14 @@
       "onboard_time": 1708441360,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494259,
+      "num": 494259,
+      "word": "胡锡进称淘宝微信应加快开放进度",
+      "onboard_time": 1708671094,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 492508,
@@ -5603,6 +5619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 376036,
+      "num": 290434,
+      "word": "姚安娜现身华为发布会",
+      "onboard_time": 1708671935,
+      "rank": 20,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 375844,
       "num": 321652,
       "word": "相亲遇到美颜过度的男生",
@@ -6289,6 +6313,14 @@
       "onboard_time": 1708609175,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326710,
+      "num": 326710,
+      "word": "A股3000点附近你加仓吗",
+      "onboard_time": 1708667196,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 326053,
@@ -7131,6 +7163,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 292254,
+      "num": 292254,
+      "word": "王力宏和爸爸妈妈去三亚",
+      "onboard_time": 1708672354,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291779,
       "num": 291779,
       "word": "教育局回应陕西一班主任猥亵女生",
@@ -7603,6 +7643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273251,
+      "num": 273251,
+      "word": "王一博 聋哑人测试",
+      "onboard_time": 1708671993,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272829,
       "num": 272829,
       "word": "世锦赛中国队23金8银2铜收官",
@@ -7953,14 +8001,6 @@
       "onboard_time": 1708654713,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 260767,
-      "num": 260767,
-      "word": "A股3000点附近你加仓吗",
-      "onboard_time": 1708667196,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 260532,
@@ -8715,6 +8755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 237242,
+      "num": 237242,
+      "word": "TWICE空降",
+      "onboard_time": 1708670253,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 236812,
       "num": 310852,
       "word": "贵州普安山火2名救火人员牺牲",
@@ -8945,6 +8993,14 @@
       "onboard_time": 1708222291,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230673,
+      "num": 230673,
+      "word": "手机充一夜电影响电池寿命吗",
+      "onboard_time": 1708671152,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 229888,
@@ -9755,6 +9811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 210911,
+      "num": 210911,
+      "word": "周子瑜镜头",
+      "onboard_time": 1708670854,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210656,
       "num": 210656,
       "word": "IU汤唯合作MV",
@@ -9865,6 +9929,14 @@
       "onboard_time": 1708318122,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208546,
+      "num": 208546,
+      "word": "小时代 深圳时代",
+      "onboard_time": 1708670733,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208542,
@@ -10377,6 +10449,14 @@
       "onboard_time": 1708511553,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 199644,
+      "num": 199644,
+      "word": "北京交管回应网传小米汽车送车牌",
+      "onboard_time": 1708671512,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 199550,
@@ -12251,6 +12331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169461,
+      "num": 169461,
+      "word": "EDG官宣Jiejie暂别赛场",
+      "onboard_time": 1708671752,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169438,
       "num": 169438,
       "word": "韦世豪 成都",
@@ -12585,6 +12673,14 @@
       "onboard_time": 1708597174,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163453,
+      "num": 163453,
+      "word": "汤圆咖啡",
+      "onboard_time": 1708670972,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 163381,
@@ -15259,6 +15355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44477,
+      "num": 148478,
+      "word": "魏建军灵魂拷问坦克700",
+      "onboard_time": 1708672532,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 44195,
       "num": 44195,
       "word": "圆肩驼背可能会导致龅牙",
@@ -15345,6 +15449,14 @@
       "onboard_time": 1708591898,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35811,
+      "num": 1270879,
+      "word": "雨雪天气开工出行宝典",
+      "onboard_time": 1708656273,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35674,
@@ -15449,6 +15561,14 @@
       "onboard_time": 1708207396,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 29321,
+      "num": 386199,
+      "word": "元宵用支付宝打车立减10元",
+      "onboard_time": 1708671635,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 27935,

@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708670059834,
+  "endTime": 1708672624467,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1593,6 +1593,14 @@
       "onboard_time": 1707792395,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2187584,
+      "num": 2187584,
+      "word": "90后退休时间可能要延迟到七八十岁",
+      "onboard_time": 1708668575,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2182519,
@@ -6339,6 +6347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1023260,
+      "num": 1023260,
+      "word": "宋轶曾有一年多没戏拍",
+      "onboard_time": 1708665517,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1022440,
       "num": 1022440,
       "word": "寒假作业落巴黎事件舅舅账号被禁",
@@ -6704,6 +6720,14 @@
       "word": "张婧仪头像",
       "onboard_time": 1706778687,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 974722,
+      "num": 974722,
+      "word": "侯雯元到底给钟楚曦拍了多少美照",
+      "onboard_time": 1708671214,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -10235,6 +10259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 726090,
+      "num": 726090,
+      "word": "东部战区发布海报回家",
+      "onboard_time": 1708667196,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 725557,
       "num": 725557,
       "word": "贾玲 阿姨我能抱抱你吗",
@@ -10393,14 +10425,6 @@
       "onboard_time": 1707916778,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 718348,
-      "num": 718348,
-      "word": "宋轶曾有一年多没戏拍",
-      "onboard_time": 1708665517,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 718215,
@@ -11121,14 +11145,6 @@
       "onboard_time": 1707139953,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 682318,
-      "num": 682318,
-      "word": "90后退休时间可能要延迟到七八十岁",
-      "onboard_time": 1708668575,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 681989,
@@ -12169,14 +12185,6 @@
       "onboard_time": 1707132628,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 637512,
-      "num": 637512,
-      "word": "东部战区发布海报回家",
-      "onboard_time": 1708667196,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 637333,
@@ -16273,6 +16281,14 @@
       "onboard_time": 1708441360,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494259,
+      "num": 494259,
+      "word": "胡锡进称淘宝微信应加快开放进度",
+      "onboard_time": 1708671094,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 493989,
@@ -20955,6 +20971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 376036,
+      "num": 290434,
+      "word": "姚安娜现身华为发布会",
+      "onboard_time": 1708671935,
+      "rank": 20,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 375896,
       "num": 375896,
       "word": "咒术回战251",
@@ -23499,6 +23523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326710,
+      "num": 326710,
+      "word": "A股3000点附近你加仓吗",
+      "onboard_time": 1708667196,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 326635,
       "num": 326635,
       "word": "周深去年小兔子今年小龙人",
@@ -25979,6 +26011,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 292254,
+      "num": 292254,
+      "word": "王力宏和爸爸妈妈去三亚",
+      "onboard_time": 1708672354,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292228,
       "num": 292228,
       "word": "王鹤棣抵达印第安纳",
@@ -27611,6 +27651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273251,
+      "num": 273251,
+      "word": "王一博 聋哑人测试",
+      "onboard_time": 1708671993,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273139,
       "num": 273139,
       "word": "小年快乐",
@@ -28657,14 +28705,6 @@
       "onboard_time": 1708654713,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 260767,
-      "num": 260767,
-      "word": "A股3000点附近你加仓吗",
-      "onboard_time": 1708667196,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 260758,
@@ -31267,6 +31307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237242,
+      "num": 237242,
+      "word": "TWICE空降",
+      "onboard_time": 1706855972,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 237236,
       "num": 237236,
       "word": "杨紫6部作品回看率高",
@@ -32217,6 +32265,14 @@
       "onboard_time": 1708086155,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230673,
+      "num": 230673,
+      "word": "手机充一夜电影响电池寿命吗",
+      "onboard_time": 1708671152,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 230587,
@@ -33489,14 +33545,6 @@
       "onboard_time": 1707309634,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220948,
-      "num": 220948,
-      "word": "TWICE空降",
-      "onboard_time": 1706855972,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 220947,
@@ -35075,6 +35123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210911,
+      "num": 210911,
+      "word": "周子瑜镜头",
+      "onboard_time": 1708670854,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210879,
       "num": 210879,
       "word": "热辣滚烫涨分",
@@ -35472,6 +35528,14 @@
       "word": "杨紫马丽同款羽毛衫",
       "onboard_time": 1707632069,
       "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208546,
+      "num": 208546,
+      "word": "小时代 深圳时代",
+      "onboard_time": 1708670733,
+      "rank": 30,
       "category": "作品衍生"
     },
     {
@@ -37569,6 +37633,14 @@
       "onboard_time": 1707993813,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199644,
+      "num": 199644,
+      "word": "北京交管回应网传小米汽车送车牌",
+      "onboard_time": 1708671512,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 199589,
@@ -44227,6 +44299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169461,
+      "num": 169461,
+      "word": "EDG官宣Jiejie暂别赛场",
+      "onboard_time": 1708671752,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169438,
       "num": 169438,
       "word": "韦世豪 成都",
@@ -45665,6 +45745,14 @@
       "onboard_time": 1707149010,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163453,
+      "num": 163453,
+      "word": "汤圆咖啡",
+      "onboard_time": 1708670972,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 163447,
@@ -60699,6 +60787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44477,
+      "num": 148478,
+      "word": "魏建军灵魂拷问坦克700",
+      "onboard_time": 1708672532,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 44373,
       "num": 362162,
       "word": "拍出你眼中的龙年味道",
@@ -61139,6 +61235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35811,
+      "num": 1270879,
+      "word": "雨雪天气开工出行宝典",
+      "onboard_time": 1708656273,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35727,
       "num": 486373,
       "word": "王嘉尔空降派红包",
@@ -61545,6 +61649,14 @@
       "onboard_time": 1707123935,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 29321,
+      "num": 386199,
+      "word": "元宵用支付宝打车立减10元",
+      "onboard_time": 1708671635,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 29242,
