@@ -1,6 +1,6 @@
 {
   "startTime": 1708705253127,
-  "endTime": 1708727646611,
+  "endTime": 1708730175223,
   "band_list": [
     {
       "raw_hot": 1783817,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411638,
+      "num": 411638,
+      "word": "官方回应女浴室门口图片被吐槽变态",
+      "onboard_time": 1708712958,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394343,
       "num": 394343,
       "word": "王者荣耀",
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 264783,
-      "num": 221888,
+      "num": 242926,
       "word": "网红杨老二家属称劝酒观众无一人道歉",
       "onboard_time": 1708707445,
       "rank": 19,
@@ -177,6 +185,14 @@
       "onboard_time": 1708699652,
       "rank": 25,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 227045,
+      "num": 227045,
+      "word": "广州断桥事件倒车拦车车主发声",
+      "onboard_time": 1708717757,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215046,
@@ -201,6 +217,14 @@
       "onboard_time": 1708699234,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 202442,
+      "num": 202442,
+      "word": "南京火灾初查系电动车停放处起火",
+      "onboard_time": 1708729758,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200674,
@@ -241,14 +265,6 @@
       "onboard_time": 1708703194,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176244,
-      "num": 72099,
-      "word": "官方回应女浴室门口图片被吐槽变态",
-      "onboard_time": 1708712958,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173785,
@@ -315,12 +331,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 134932,
+      "num": 134932,
+      "word": "南京一小区火灾15人遇难44人受伤",
+      "onboard_time": 1708730060,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129496,
       "num": 181189,
       "word": "佛山电翰又开始直播打螺丝了",
       "onboard_time": 1708687171,
       "rank": 28,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 129202,
+      "num": 129202,
+      "word": "93岁姥爷非要帮铲雪外孙女吓跪了",
+      "onboard_time": 1708717817,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125344,
@@ -371,20 +403,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 109458,
-      "num": 109458,
-      "word": "广州断桥事件倒车拦车车主发声",
-      "onboard_time": 1708717757,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108583,
       "num": 148149,
       "word": "双鱼座才不会在感情中盲目",
       "onboard_time": 1708686272,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107226,
+      "num": 107226,
+      "word": "元宵节文案",
+      "onboard_time": 1708724237,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106231,
@@ -400,6 +432,14 @@
       "word": "贾金龙 大手笔",
       "onboard_time": 1708700613,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89259,
+      "num": 89259,
+      "word": "影视剧只拍上半身的原因",
+      "onboard_time": 1708718419,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -451,12 +491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69232,
+      "num": 64814,
+      "word": "肖战内场座位",
+      "onboard_time": 1708729579,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 68689,
       "num": 122607,
       "word": "在二手交易平台买到真二手了",
       "onboard_time": 1708685311,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66558,
+      "num": 66558,
+      "word": "新东方发布归巢计划",
+      "onboard_time": 1708722317,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 60235,
@@ -475,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51314,
-      "num": 51314,
-      "word": "93岁姥爷非要帮铲雪外孙女吓跪了",
-      "onboard_time": 1708717817,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 53896,
+      "num": 53896,
+      "word": "春楠 热辣滚烫最不值一提的是减重",
+      "onboard_time": 1708714698,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 49869,
@@ -491,28 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43160,
-      "num": 39766,
-      "word": "影视剧只拍上半身的原因",
-      "onboard_time": 1708718419,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 41967,
-      "num": 41967,
-      "word": "新东方发布归巢计划",
-      "onboard_time": 1708722317,
-      "rank": 43,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 41226,
-      "num": 41226,
-      "word": "春楠 热辣滚烫最不值一提的是减重",
-      "onboard_time": 1708714698,
-      "rank": 25,
-      "category": "电影"
+      "raw_hot": 44789,
+      "num": 44789,
+      "word": "16岁男生半年减重160斤",
+      "onboard_time": 1708729518,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40936,
@@ -523,12 +563,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 30449,
-      "num": 30449,
-      "word": "元宵节文案",
-      "onboard_time": 1708724237,
-      "rank": 25,
+      "raw_hot": 36680,
+      "num": 36680,
+      "word": "有爱自团圆",
+      "onboard_time": 1708729518,
+      "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34092,
+      "num": 34092,
+      "word": "杨丞琳晒健身自拍",
+      "onboard_time": 1708726337,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 33872,
+      "num": 33872,
+      "word": "王栎鑫说石凯像去年的自己",
+      "onboard_time": 1708729518,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 30350,
@@ -545,14 +601,6 @@
       "onboard_time": 1708716556,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 18327,
-      "num": 18327,
-      "word": "杨丞琳晒健身自拍",
-      "onboard_time": 1708726337,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 17319,
