@@ -1,6 +1,6 @@
 {
   "startTime": 1708618926218,
-  "endTime": 1708666437660,
+  "endTime": 1708669335664,
   "band_list": [
     {
       "raw_hot": 2980398,
@@ -9,6 +9,14 @@
       "onboard_time": 1708653993,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2694333,
+      "num": 2694333,
+      "word": "jiejie摔倒",
+      "onboard_time": 1708665874,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 2560164,
@@ -99,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1247295,
+      "num": 1247295,
+      "word": "张卫健过60大寿一根白发都没有",
+      "onboard_time": 1708667376,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1239216,
       "num": 1239216,
       "word": "学校回应网传老师与学生在教室接吻",
@@ -113,6 +129,14 @@
       "onboard_time": 1708618291,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1182722,
+      "num": 1182722,
+      "word": "上春山",
+      "onboard_time": 1708667254,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1129952,
@@ -251,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 705790,
+      "num": 705790,
+      "word": "贵州221起森林火情目前均已扑灭",
+      "onboard_time": 1708667553,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 687043,
       "num": 687043,
       "word": "天蝎座2024会发生的三件好事",
@@ -272,6 +304,14 @@
       "word": "青簪行男主",
       "onboard_time": 1708644806,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 620475,
+      "num": 620475,
+      "word": "猎冰 华为二公主追击小米代言人",
+      "onboard_time": 1708665215,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -315,14 +355,6 @@
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 582723,
-      "num": 557361,
-      "word": "jiejie摔倒",
-      "onboard_time": 1708665874,
-      "rank": 11,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 581258,
       "num": 581258,
       "word": "董事长操纵自家股票交易800亿亏2.4亿",
@@ -339,12 +371,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 556154,
-      "num": 556154,
-      "word": "猎冰 华为二公主追击小米代言人",
-      "onboard_time": 1708665215,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 565154,
+      "num": 565154,
+      "word": "宋轶曾有一年多没戏拍",
+      "onboard_time": 1708665517,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 556547,
+      "num": 556547,
+      "word": "东部战区发布海报回家",
+      "onboard_time": 1708667196,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 550725,
@@ -459,8 +499,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 445193,
-      "num": 445193,
+      "raw_hot": 447365,
+      "num": 447365,
       "word": "陈梦 袁嘉楠",
       "onboard_time": 1708665517,
       "rank": 18,
@@ -481,14 +521,6 @@
       "onboard_time": 1708664737,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 430653,
-      "num": 430653,
-      "word": "宋轶曾有一年多没戏拍",
-      "onboard_time": 1708665517,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 429900,
@@ -545,6 +577,14 @@
       "onboard_time": 1708598853,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 401222,
+      "num": 316297,
+      "word": "90后退休时间可能要延迟到七八十岁",
+      "onboard_time": 1708668575,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384830,
@@ -755,6 +795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 275203,
+      "num": 275203,
+      "word": "小米汽车定价策略曝光",
+      "onboard_time": 1708665937,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 272658,
       "num": 272658,
       "word": "被高铁坐错位置的人骂了",
@@ -771,14 +819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 267638,
-      "num": 267638,
-      "word": "小米汽车定价策略曝光",
-      "onboard_time": 1708665937,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 266418,
       "num": 266418,
       "word": "小米汽车",
@@ -793,6 +833,14 @@
       "onboard_time": 1708654713,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 260767,
+      "num": 260767,
+      "word": "A股3000点附近你加仓吗",
+      "onboard_time": 1708667196,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 259001,
@@ -827,6 +875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 244021,
+      "num": 244021,
+      "word": "为什么跟父母说话你会觉得烦躁",
+      "onboard_time": 1708664133,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240253,
       "num": 240253,
       "word": "人民网评网红扮演赵世子",
@@ -849,6 +905,14 @@
       "onboard_time": 1708654713,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 233224,
+      "num": 233224,
+      "word": "虞书欣蕾丝蓬蓬裙",
+      "onboard_time": 1708667617,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 232322,
@@ -897,14 +961,6 @@
       "onboard_time": 1708621402,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 223278,
-      "num": 223278,
-      "word": "为什么跟父母说话你会觉得烦躁",
-      "onboard_time": 1708664133,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 223164,
@@ -971,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211653,
+      "num": 211653,
+      "word": "全员加速中怎么卷里卷气的",
+      "onboard_time": 1708668455,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210656,
       "num": 210656,
       "word": "IU汤唯合作MV",
@@ -1001,6 +1065,14 @@
       "onboard_time": 1708649071,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205103,
+      "num": 205103,
+      "word": "十年前父辈犯的错正中眉心",
+      "onboard_time": 1708667972,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 195945,
@@ -1051,12 +1123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189123,
+      "num": 189123,
+      "word": "鹿晗实体专辑有小卡",
+      "onboard_time": 1708668092,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186325,
       "num": 186325,
       "word": "猎冰总投资",
       "onboard_time": 1708653933,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184138,
+      "num": 184138,
+      "word": "唐艺昕谈长久恋爱关系",
+      "onboard_time": 1708668931,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 180394,
@@ -1195,6 +1283,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 158247,
+      "num": 158247,
+      "word": "当二次元被公司要求穿正装",
+      "onboard_time": 1708667432,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158239,
       "num": 158239,
       "word": "柳鑫宇开心领奖",
@@ -1225,6 +1321,14 @@
       "onboard_time": 1708652913,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151980,
+      "num": 151980,
+      "word": "高奢给肖战手写邀请函",
+      "onboard_time": 1708666534,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 149582,

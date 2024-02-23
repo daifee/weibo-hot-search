@@ -1,0 +1,410 @@
+{
+  "runTime": 1708669335664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2694333,
+        "num": 2694333,
+        "word": "jiejie摔倒",
+        "onboard_time": 1708665874,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1247295,
+        "num": 1247295,
+        "word": "张卫健过60大寿一根白发都没有",
+        "onboard_time": 1708667376,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143778,
+        "num": 1191490,
+        "word": "一张最想炫耀的老家照片",
+        "onboard_time": 1708656695,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1182722,
+        "num": 1182722,
+        "word": "上春山",
+        "onboard_time": 1708667254,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1081531,
+        "num": 1081531,
+        "word": "游本昌曾让医生大呼奇迹",
+        "onboard_time": 1708662577,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 965078,
+        "num": 965078,
+        "word": "顶流都能被忘",
+        "onboard_time": 1708662875,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705790,
+        "num": 705790,
+        "word": "贵州221起森林火情目前均已扑灭",
+        "onboard_time": 1708667553,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620475,
+        "num": 620475,
+        "word": "猎冰 华为二公主追击小米代言人",
+        "onboard_time": 1708665215,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565154,
+        "num": 565154,
+        "word": "宋轶曾有一年多没戏拍",
+        "onboard_time": 1708665517,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556547,
+        "num": 556547,
+        "word": "东部战区发布海报回家",
+        "onboard_time": 1708667196,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1275194,
+        "num": 549330,
+        "word": "支付宝招聘大量抖音小红书员工",
+        "onboard_time": 1708661251,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 539011,
+        "num": 539011,
+        "word": "花花被遗忘在外场饲养员被解雇",
+        "onboard_time": 1708653096,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534753,
+        "num": 534753,
+        "word": "我国彩礼最低的省份",
+        "onboard_time": 1708653096,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487366,
+        "num": 487366,
+        "word": "夫妻相约赴死妻子身亡丈夫反悔",
+        "onboard_time": 1708651653,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447365,
+        "num": 447365,
+        "word": "陈梦 袁嘉楠",
+        "onboard_time": 1708665517,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390277,
+        "num": 390277,
+        "word": "33岁女子洗头后骑车成面瘫",
+        "onboard_time": 1708660232,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361632,
+        "num": 361632,
+        "word": "为何1点点奶茶不火了",
+        "onboard_time": 1708653634,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 355718,
+        "num": 355718,
+        "word": "肖战粉丝狂喜",
+        "onboard_time": 1708661437,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321088,
+        "num": 321088,
+        "word": "张元英头发被拍卖",
+        "onboard_time": 1708661858,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319382,
+        "num": 319382,
+        "word": "章若楠 温以凡",
+        "onboard_time": 1708653573,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401222,
+        "num": 316297,
+        "word": "90后退休时间可能要延迟到七八十岁",
+        "onboard_time": 1708668575,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312788,
+        "num": 312788,
+        "word": "东莞3人返工时患经济舱综合征身亡",
+        "onboard_time": 1708653096,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309399,
+        "num": 309399,
+        "word": "papi酱MCN公司涉广告违法被罚",
+        "onboard_time": 1708660473,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275203,
+        "num": 275203,
+        "word": "小米汽车定价策略曝光",
+        "onboard_time": 1708665937,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 272789,
+        "num": 272789,
+        "word": "关晓彤好像手办娃娃",
+        "onboard_time": 1708661554,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 260767,
+        "num": 260767,
+        "word": "A股3000点附近你加仓吗",
+        "onboard_time": 1708667196,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 245382,
+        "num": 245382,
+        "word": "王源车窗呐喊",
+        "onboard_time": 1708662519,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244021,
+        "num": 244021,
+        "word": "为什么跟父母说话你会觉得烦躁",
+        "onboard_time": 1708664133,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233224,
+        "num": 233224,
+        "word": "虞书欣蕾丝蓬蓬裙",
+        "onboard_time": 1708667617,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 230691,
+        "num": 230691,
+        "word": "苏州追尾事故3人送医6人轻微擦伤",
+        "onboard_time": 1708659515,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221316,
+        "num": 221316,
+        "word": "TWICE回归",
+        "onboard_time": 1708664737,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211653,
+        "num": 211653,
+        "word": "全员加速中怎么卷里卷气的",
+        "onboard_time": 1708668455,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210996,
+        "num": 210996,
+        "word": "河南元宵晚会上春山",
+        "onboard_time": 1708663660,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205103,
+        "num": 205103,
+        "word": "十年前父辈犯的错正中眉心",
+        "onboard_time": 1708667972,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200879,
+        "num": 200879,
+        "word": "苏州交警回应高架百车相撞",
+        "onboard_time": 1708653993,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200876,
+        "num": 200876,
+        "word": "苏州高架事故进入理赔流程",
+        "onboard_time": 1708665576,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200845,
+        "num": 200845,
+        "word": "热辣滚烫 宣传与电影热度",
+        "onboard_time": 1708659994,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189123,
+        "num": 189123,
+        "word": "鹿晗实体专辑有小卡",
+        "onboard_time": 1708668092,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185571,
+        "num": 185571,
+        "word": "被高铁坐错位置的人骂了",
+        "onboard_time": 1708663660,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184138,
+        "num": 184138,
+        "word": "唐艺昕谈长久恋爱关系",
+        "onboard_time": 1708668931,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179501,
+        "num": 179501,
+        "word": "猫妈妈叼着孩子来医院",
+        "onboard_time": 1708662458,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164185,
+        "num": 164185,
+        "word": "天蝎座2024会发生的三件好事",
+        "onboard_time": 1708656095,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158247,
+        "num": 158247,
+        "word": "当二次元被公司要求穿正装",
+        "onboard_time": 1708667432,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151980,
+        "num": 151980,
+        "word": "高奢给肖战手写邀请函",
+        "onboard_time": 1708666534,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147928,
+        "num": 147928,
+        "word": "青簪行男主",
+        "onboard_time": 1708644806,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143908,
+        "num": 143908,
+        "word": "闲置太久的鞋子就不要再穿了",
+        "onboard_time": 1708645045,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143815,
+        "num": 143815,
+        "word": "iPhone15被曝蓝牙断连问题",
+        "onboard_time": 1708661076,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 141385,
+        "num": 141385,
+        "word": "EDG",
+        "onboard_time": 1708665815,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141334,
+        "num": 141334,
+        "word": "苏翊鸣首跳失误",
+        "onboard_time": 1708660770,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138177,
+        "num": 138177,
+        "word": "张艺兴新歌",
+        "onboard_time": 1708665576,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平曾在厦门打响治理污染的硬仗#"
+    }
+  }
+}
