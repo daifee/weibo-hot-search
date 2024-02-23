@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708697761771,
+  "endTime": 1708698839062,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -227,6 +227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2767941,
+      "num": 2767941,
+      "word": "3月1日起快递不得擅自放驿站",
+      "onboard_time": 1708693833,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2750419,
       "num": 2750419,
       "word": "考虫倒闭",
@@ -331,8 +339,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2436601,
-      "num": 2436601,
+      "raw_hot": 2484385,
+      "num": 2484385,
       "word": "贾玲 你看到什么我就拍了什么",
       "onboard_time": 1708692151,
       "rank": 42,
@@ -384,14 +392,6 @@
       "word": "秦朗舅舅",
       "onboard_time": 1708262796,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2367129,
-      "num": 2367129,
-      "word": "3月1日起快递不得擅自放驿站",
-      "onboard_time": 1708693833,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1259,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1352554,
+      "num": 1352554,
+      "word": "Gucci大秀",
+      "onboard_time": 1708696411,
+      "rank": 3,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1348430,
       "num": 1348430,
       "word": "断崖式衰老常发生在3个年龄",
@@ -1601,14 +1609,6 @@
       "onboard_time": 1708314937,
       "rank": 5,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 1168409,
-      "num": 1168409,
-      "word": "Gucci大秀",
-      "onboard_time": 1708696411,
-      "rank": 3,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1163774,
@@ -2857,6 +2857,14 @@
       "onboard_time": 1708479695,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 737607,
+      "num": 737607,
+      "word": "肖战第二套看秀造型",
+      "onboard_time": 1708698095,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 735262,
@@ -4931,6 +4939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 473591,
+      "num": 303331,
+      "word": "唐九洲赵昭仪吓跪了",
+      "onboard_time": 1708697856,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 472730,
       "num": 472730,
       "word": "武汉冻雨",
@@ -5241,6 +5257,14 @@
       "onboard_time": 1708337378,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435471,
+      "num": 293200,
+      "word": "苏醒也知道很不体面",
+      "onboard_time": 1708697856,
+      "rank": 13,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 434297,
@@ -5601,6 +5625,14 @@
       "onboard_time": 1708299387,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 409100,
+      "num": 279890,
+      "word": "肖战的贴面礼",
+      "onboard_time": 1708697675,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 405210,
@@ -6033,6 +6065,14 @@
       "onboard_time": 1708663660,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 372606,
+      "num": 372606,
+      "word": "KPL",
+      "onboard_time": 1708689511,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 372004,
@@ -6931,6 +6971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319786,
+      "num": 261779,
+      "word": "多地延迟开学90后父母忙成双面人",
+      "onboard_time": 1708696293,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318680,
       "num": 318680,
       "word": "爸妈一直管我的微信头像",
@@ -6945,14 +6993,6 @@
       "onboard_time": 1708659875,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317961,
-      "num": 317961,
-      "word": "KPL",
-      "onboard_time": 1708689511,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 317463,
@@ -7624,14 +7664,6 @@
       "word": "教育局回应陕西一班主任猥亵女生",
       "onboard_time": 1708248934,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291635,
-      "num": 261779,
-      "word": "多地延迟开学90后父母忙成双面人",
-      "onboard_time": 1708696293,
-      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -8507,6 +8539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261621,
+      "num": 247395,
+      "word": "书卷一梦开官微",
+      "onboard_time": 1708697013,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260775,
       "num": 260775,
       "word": "肖战今天看两场秀",
@@ -8585,6 +8625,14 @@
       "onboard_time": 1708509514,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 257620,
+      "num": 257620,
+      "word": "78岁爷爷旧手机存上千张孙子照片",
+      "onboard_time": 1708698215,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257208,
@@ -8745,6 +8793,14 @@
       "onboard_time": 1708427974,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251678,
+      "num": 251678,
+      "word": "大王具足虫",
+      "onboard_time": 1708695393,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 251367,
@@ -8953,14 +9009,6 @@
       "onboard_time": 1708583794,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 246826,
-      "num": 246826,
-      "word": "肖战的贴面礼",
-      "onboard_time": 1708697675,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 245869,
@@ -9603,6 +9651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229864,
+      "num": 229864,
+      "word": "TES赛后整活",
+      "onboard_time": 1708697073,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 229758,
       "num": 229758,
       "word": "李宇春抢票",
@@ -10179,14 +10235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 218048,
-      "num": 187026,
-      "word": "书卷一梦开官微",
-      "onboard_time": 1708697013,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 217821,
       "num": 211817,
       "word": "肖战车厢大片",
@@ -10305,14 +10353,6 @@
       "onboard_time": 1708478136,
       "rank": 38,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 215538,
-      "num": 215538,
-      "word": "TES赛后整活",
-      "onboard_time": 1708697073,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 215353,
@@ -10505,14 +10545,6 @@
       "onboard_time": 1708643541,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 210538,
-      "num": 247908,
-      "word": "大王具足虫",
-      "onboard_time": 1708695393,
-      "rank": 29,
-      "category": "科学科普"
     },
     {
       "raw_hot": 210502,
@@ -11516,7 +11548,7 @@
     },
     {
       "raw_hot": 194970,
-      "num": 194970,
+      "num": 199761,
       "word": "不会断句的网友把博物馆逼得改名",
       "onboard_time": 1708694735,
       "rank": 34,
@@ -12209,6 +12241,14 @@
       "onboard_time": 1708584876,
       "rank": 37,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 185983,
+      "num": 185983,
+      "word": "白月梵星白鹿反差感",
+      "onboard_time": 1708698457,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 185435,
@@ -13193,6 +13233,14 @@
       "onboard_time": 1708266874,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170535,
+      "num": 208254,
+      "word": "一根发簪搞定马面裙发型",
+      "onboard_time": 1708697917,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 170517,
@@ -14835,6 +14883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144817,
+      "num": 247688,
+      "word": "融安通报网民举报不法分子贩卖婴儿",
+      "onboard_time": 1708697675,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144538,
       "num": 144538,
       "word": "刘同 发现联通其他套餐都比我的划算",
@@ -15233,6 +15289,14 @@
       "onboard_time": 1708215270,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136827,
+      "num": 136827,
+      "word": "南昌这个早餐太爽了",
+      "onboard_time": 1708698817,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 136439,
@@ -16201,14 +16265,6 @@
       "onboard_time": 1708459396,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 77449,
-      "num": 177026,
-      "word": "融安通报网民举报不法分子贩卖婴儿",
-      "onboard_time": 1708697675,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76751,
