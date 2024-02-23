@@ -1,6 +1,6 @@
 {
   "startTime": 1708618926218,
-  "endTime": 1708677235560,
+  "endTime": 1708679798712,
   "band_list": [
     {
       "raw_hot": 2980398,
@@ -91,6 +91,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1665937,
+      "num": 1102123,
+      "word": "新沙洞老虎去世",
+      "onboard_time": 1708678353,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1570305,
       "num": 1570305,
       "word": "游本昌曾让医生大呼奇迹",
@@ -107,8 +115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1505552,
-      "num": 1505552,
+      "raw_hot": 1561924,
+      "num": 1561924,
       "word": "南北 229",
       "onboard_time": 1708672771,
       "rank": 8,
@@ -248,6 +256,14 @@
       "word": "南京火灾",
       "onboard_time": 1708654294,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 918494,
+      "num": 918494,
+      "word": "被贩卖婴儿被洗白身份落户买主家",
+      "onboard_time": 1708676132,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -467,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 559011,
+      "num": 559011,
+      "word": "无糖汤圆成今年元宵黑马",
+      "onboard_time": 1708676193,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 550725,
       "num": 291485,
       "word": "椰树去年在擦边争议中卖了50亿",
@@ -635,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424209,
+      "num": 424209,
+      "word": "张继科已经与安踏解约",
+      "onboard_time": 1708679071,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 423316,
       "num": 339224,
       "word": "姚安娜现身华为发布会",
@@ -683,12 +715,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 390677,
+      "num": 390677,
+      "word": "前田敦子 浪姐五",
+      "onboard_time": 1708678537,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384830,
       "num": 475385,
       "word": "张继科重回蝴蝶乒乓中国官网",
       "onboard_time": 1708608033,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 382546,
+      "num": 1175614,
+      "word": "元宵节为什么叫元宵节",
+      "onboard_time": 1708677813,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382337,
@@ -705,14 +753,6 @@
       "onboard_time": 1708661858,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 376795,
-      "num": 376795,
-      "word": "无糖汤圆成今年元宵黑马",
-      "onboard_time": 1708676193,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 373936,
@@ -859,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293300,
+      "num": 392922,
+      "word": "孙颖莎掰手指算冠军数",
+      "onboard_time": 1708677873,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292958,
       "num": 270574,
       "word": "哥哥给妹妹化韩妆",
@@ -881,6 +929,30 @@
       "onboard_time": 1708674872,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 289813,
+      "num": 289813,
+      "word": "外交部回应美方称中国起重机收集数据",
+      "onboard_time": 1708676492,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 287943,
+      "num": 287943,
+      "word": "朱开说Jiejie打了一堆针",
+      "onboard_time": 1708678894,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 285930,
+      "num": 250955,
+      "word": "TODS2024秋冬系列时装秀",
+      "onboard_time": 1708678774,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 284832,
@@ -932,7 +1004,7 @@
     },
     {
       "raw_hot": 271194,
-      "num": 194902,
+      "num": 211037,
       "word": "迪丽热巴同人图",
       "onboard_time": 1708676434,
       "rank": 46,
@@ -987,20 +1059,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 255675,
-      "num": 255675,
-      "word": "被贩卖婴儿被洗白身份落户买主家",
-      "onboard_time": 1708676132,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254211,
       "num": 254211,
       "word": "心动实验室挂了",
       "onboard_time": 1708618770,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 251785,
+      "num": 251785,
+      "word": "你不用变得外向 但发言时一定要勇敢",
+      "onboard_time": 1708676853,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 246054,
@@ -1211,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211057,
+      "num": 211057,
+      "word": "女生6.8元复刻星巴克68元肉脯拿铁",
+      "onboard_time": 1708678113,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 210911,
       "num": 210911,
       "word": "周子瑜镜头",
@@ -1225,6 +1305,14 @@
       "onboard_time": 1708643541,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209106,
+      "num": 209106,
+      "word": "庄智渊连得10分",
+      "onboard_time": 1708679133,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 208655,
@@ -1257,6 +1345,14 @@
       "onboard_time": 1708655251,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 207797,
+      "num": 211555,
+      "word": "中国海警就菲律宾侵闯黄岩岛发声",
+      "onboard_time": 1708678537,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 207296,
@@ -1297,6 +1393,14 @@
       "onboard_time": 1708673493,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202932,
+      "num": 202932,
+      "word": "妈妈是这个世界最执着的氪金玩家",
+      "onboard_time": 1708678292,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 199644,
@@ -1371,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184503,
+      "num": 184503,
+      "word": "三胎妈妈为生龙宝宝足月后缓生",
+      "onboard_time": 1708679314,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183135,
       "num": 183135,
       "word": "国乒女团3比0法国",
@@ -1433,14 +1545,6 @@
       "onboard_time": 1708659994,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 176042,
-      "num": 180318,
-      "word": "外交部回应美方称中国起重机收集数据",
-      "onboard_time": 1708676492,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 174485,
@@ -1523,6 +1627,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 163459,
+      "num": 163459,
+      "word": "我是高情商别让我难堪",
+      "onboard_time": 1708679253,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163453,
       "num": 163453,
       "word": "汤圆咖啡",
@@ -1556,7 +1668,7 @@
     },
     {
       "raw_hot": 160561,
-      "num": 129756,
+      "num": 130807,
       "word": "TWICE公主造型",
       "onboard_time": 1708676612,
       "rank": 40,
@@ -1651,12 +1763,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148758,
+      "num": 148758,
+      "word": "事实证明鸭绒的羽绒服也不暖和",
+      "onboard_time": 1708679496,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148201,
       "num": 148201,
       "word": "傲娇猫猫遇上忠实猫奴",
       "onboard_time": 1708673614,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144062,
+      "num": 144062,
+      "word": "小孩等五类人不宜吃元宵",
+      "onboard_time": 1708678954,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 138728,
@@ -1675,12 +1803,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136045,
+      "num": 136045,
+      "word": "大厂的年终奖还香吗",
+      "onboard_time": 1708679432,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 134880,
       "num": 134880,
       "word": "证监会连开六份罚单",
       "onboard_time": 1708646791,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132024,
+      "num": 132024,
+      "word": "虞书欣开机照",
+      "onboard_time": 1708677274,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 131751,
@@ -1691,12 +1835,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130724,
-      "num": 130724,
-      "word": "你不用变得外向 但发言时一定要勇敢",
-      "onboard_time": 1708676853,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 129638,
+      "num": 129638,
+      "word": "猎冰直播",
+      "onboard_time": 1708677692,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 129480,
@@ -1713,6 +1857,14 @@
       "onboard_time": 1708675593,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 122631,
+      "num": 122631,
+      "word": "尹净汉将参与演唱会安可场",
+      "onboard_time": 1708677995,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 119954,
@@ -1737,6 +1889,14 @@
       "onboard_time": 1708614693,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113767,
+      "num": 113767,
+      "word": "鹿晗贵州村超路透",
+      "onboard_time": 1708679734,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 111651,

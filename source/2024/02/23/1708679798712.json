@@ -1,0 +1,410 @@
+{
+  "runTime": 1708679798712,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1930995,
+        "num": 1930995,
+        "word": "医生回应打HPV疫苗3年后患宫颈癌",
+        "onboard_time": 1708673434,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1561924,
+        "num": 1561924,
+        "word": "南北 229",
+        "onboard_time": 1708672771,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 382546,
+        "num": 1175614,
+        "word": "元宵节为什么叫元宵节",
+        "onboard_time": 1708677813,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1665937,
+        "num": 1102123,
+        "word": "新沙洞老虎去世",
+        "onboard_time": 1708678353,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 994308,
+        "num": 994308,
+        "word": "jiejie摔倒",
+        "onboard_time": 1708665874,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 918494,
+        "num": 918494,
+        "word": "被贩卖婴儿被洗白身份落户买主家",
+        "onboard_time": 1708676132,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 897753,
+        "num": 897753,
+        "word": "人民日报评热辣滚烫出海",
+        "onboard_time": 1708674394,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 789164,
+        "num": 789164,
+        "word": "肖战看秀look",
+        "onboard_time": 1708675953,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 669351,
+        "num": 669351,
+        "word": "侯雯元到底给钟楚曦拍了多少美照",
+        "onboard_time": 1708671214,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382897,
+        "num": 608849,
+        "word": "花花被遗忘在外场饲养员被解雇",
+        "onboard_time": 1708653096,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559011,
+        "num": 559011,
+        "word": "无糖汤圆成今年元宵黑马",
+        "onboard_time": 1708676193,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 499364,
+        "num": 499364,
+        "word": "热辣票房成功说靠营销是站不住脚的",
+        "onboard_time": 1708674575,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 496489,
+        "num": 496489,
+        "word": "郑爽被冻结百万股权",
+        "onboard_time": 1708675651,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494598,
+        "num": 494598,
+        "word": "张卫健过60大寿一根白发都没有",
+        "onboard_time": 1708667376,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 486545,
+        "num": 486545,
+        "word": "上春山",
+        "onboard_time": 1708667254,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454318,
+        "num": 454318,
+        "word": "猎冰 华为二公主追击小米代言人",
+        "onboard_time": 1708665215,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449154,
+        "num": 449154,
+        "word": "宋轶曾有一年多没戏拍",
+        "onboard_time": 1708665517,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424209,
+        "num": 424209,
+        "word": "张继科已经与安踏解约",
+        "onboard_time": 1708679071,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402526,
+        "num": 402526,
+        "word": "支付宝招聘大量抖音小红书员工",
+        "onboard_time": 1708661251,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 293300,
+        "num": 392922,
+        "word": "孙颖莎掰手指算冠军数",
+        "onboard_time": 1708677873,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390677,
+        "num": 390677,
+        "word": "前田敦子 浪姐五",
+        "onboard_time": 1708678537,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334559,
+        "num": 334559,
+        "word": "张艺兴择偶标准变化",
+        "onboard_time": 1708673614,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289813,
+        "num": 289813,
+        "word": "外交部回应美方称中国起重机收集数据",
+        "onboard_time": 1708676492,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287943,
+        "num": 287943,
+        "word": "朱开说Jiejie打了一堆针",
+        "onboard_time": 1708678894,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 251785,
+        "num": 251785,
+        "word": "你不用变得外向 但发言时一定要勇敢",
+        "onboard_time": 1708676853,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312062,
+        "num": 251249,
+        "word": "王一博 聋哑人测试",
+        "onboard_time": 1708671993,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285930,
+        "num": 250955,
+        "word": "TODS2024秋冬系列时装秀",
+        "onboard_time": 1708678774,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249699,
+        "num": 249699,
+        "word": "姚安娜现身华为发布会",
+        "onboard_time": 1708671935,
+        "rank": 27,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 207797,
+        "num": 211555,
+        "word": "中国海警就菲律宾侵闯黄岩岛发声",
+        "onboard_time": 1708678537,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 211057,
+        "num": 211057,
+        "word": "女生6.8元复刻星巴克68元肉脯拿铁",
+        "onboard_time": 1708678113,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 243676,
+        "num": 211037,
+        "word": "迪丽热巴同人图",
+        "onboard_time": 1708676434,
+        "rank": 30,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 209106,
+        "num": 209106,
+        "word": "庄智渊连得10分",
+        "onboard_time": 1708679133,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202932,
+        "num": 202932,
+        "word": "妈妈是这个世界最执着的氪金玩家",
+        "onboard_time": 1708678292,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190165,
+        "num": 190165,
+        "word": "游本昌曾让医生大呼奇迹",
+        "onboard_time": 1708662577,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184503,
+        "num": 184503,
+        "word": "三胎妈妈为生龙宝宝足月后缓生",
+        "onboard_time": 1708679314,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181043,
+        "num": 181043,
+        "word": "王力宏和爸爸妈妈去三亚",
+        "onboard_time": 1708672354,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172144,
+        "num": 172144,
+        "word": "种地吧2开播",
+        "onboard_time": 1708676672,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163459,
+        "num": 163459,
+        "word": "我是高情商别让我难堪",
+        "onboard_time": 1708679253,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155475,
+        "num": 155475,
+        "word": "我国彩礼最低的省份",
+        "onboard_time": 1708653096,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148758,
+        "num": 148758,
+        "word": "事实证明鸭绒的羽绒服也不暖和",
+        "onboard_time": 1708679496,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144062,
+        "num": 144062,
+        "word": "小孩等五类人不宜吃元宵",
+        "onboard_time": 1708678954,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142364,
+        "num": 142364,
+        "word": "夫妻相约赴死妻子身亡丈夫反悔",
+        "onboard_time": 1708651653,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136045,
+        "num": 136045,
+        "word": "大厂的年终奖还香吗",
+        "onboard_time": 1708679432,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135623,
+        "num": 135623,
+        "word": "猎冰导演选择姚安娜的原因",
+        "onboard_time": 1708674872,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132024,
+        "num": 132024,
+        "word": "虞书欣开机照",
+        "onboard_time": 1708677274,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130807,
+        "num": 130807,
+        "word": "TWICE公主造型",
+        "onboard_time": 1708676612,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129638,
+        "num": 129638,
+        "word": "猎冰直播",
+        "onboard_time": 1708677692,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122631,
+        "num": 122631,
+        "word": "尹净汉将参与演唱会安可场",
+        "onboard_time": 1708677995,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113767,
+        "num": 113767,
+        "word": "鹿晗贵州村超路透",
+        "onboard_time": 1708679734,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112733,
+        "num": 112733,
+        "word": "顶流都能被忘",
+        "onboard_time": 1708662875,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平曾在厦门打响治理污染的硬仗#"
+    }
+  }
+}
