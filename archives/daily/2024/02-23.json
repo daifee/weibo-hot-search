@@ -1,6 +1,6 @@
 {
   "startTime": 1708618926218,
-  "endTime": 1708684472602,
+  "endTime": 1708686901125,
   "band_list": [
     {
       "raw_hot": 2980398,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 891281,
+      "num": 891281,
+      "word": "奎八 删照片",
+      "onboard_time": 1708683334,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 856280,
       "num": 856280,
       "word": "热辣票房成功说靠营销是站不住脚的",
@@ -345,6 +353,14 @@
       "onboard_time": 1708643122,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 810061,
+      "num": 810061,
+      "word": "每年二月我都会痛哭一场",
+      "onboard_time": 1708684112,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 805881,
@@ -403,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 706569,
+      "num": 341214,
+      "word": "早上和老板说怀孕下午就被降薪",
+      "onboard_time": 1708685554,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 705790,
       "num": 705790,
       "word": "贵州221起森林火情目前均已扑灭",
@@ -441,14 +465,6 @@
       "onboard_time": 1708665215,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 617544,
-      "num": 617544,
-      "word": "奎八 删照片",
-      "onboard_time": 1708683334,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 613647,
@@ -587,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 522919,
+      "num": 522919,
+      "word": "姚安娜现身华为发布会",
+      "onboard_time": 1708671935,
+      "rank": 20,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 521104,
       "num": 521104,
       "word": "上海地铁",
@@ -620,7 +644,7 @@
     },
     {
       "raw_hot": 500995,
-      "num": 368904,
+      "num": 444930,
       "word": "三胎妈妈为生龙宝宝足月后缓生",
       "onboard_time": 1708679314,
       "rank": 34,
@@ -731,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 423316,
-      "num": 352853,
-      "word": "姚安娜现身华为发布会",
-      "onboard_time": 1708671935,
-      "rank": 20,
-      "category": "艺人,数码"
-    },
-    {
       "raw_hot": 422388,
       "num": 422388,
       "word": "关晓彤好像手办娃娃",
@@ -772,7 +788,7 @@
     },
     {
       "raw_hot": 413422,
-      "num": 361627,
+      "num": 378212,
       "word": "富家千金接班7年累计亏损近32亿",
       "onboard_time": 1708682435,
       "rank": 21,
@@ -793,6 +809,14 @@
       "onboard_time": 1708598853,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 392898,
+      "num": 622382,
+      "word": "男子把货车横在断桥口避免更多伤亡",
+      "onboard_time": 1708684894,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384830,
@@ -843,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354667,
+      "num": 354667,
+      "word": "猫咪学长被锁宿舍30天靠学生零食撑过",
+      "onboard_time": 1708684591,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341713,
       "num": 904855,
       "word": "上海人爱吃肉汤圆的事藏不住了",
@@ -873,6 +905,14 @@
       "onboard_time": 1708651054,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330243,
+      "num": 330243,
+      "word": "这个月 为什么职场中女性领导较少",
+      "onboard_time": 1708680635,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 327170,
@@ -921,14 +961,6 @@
       "onboard_time": 1708613800,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 317069,
-      "num": 317069,
-      "word": "这个月 为什么职场中女性领导较少",
-      "onboard_time": 1708680635,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 313897,
@@ -1155,6 +1187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 256207,
+      "num": 256207,
+      "word": "十四冬短道速滑裁判组解读焦点判罚",
+      "onboard_time": 1708685793,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254211,
       "num": 254211,
       "word": "心动实验室挂了",
@@ -1193,6 +1233,14 @@
       "onboard_time": 1708664133,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 242794,
+      "num": 242794,
+      "word": "黄旭熙新公式照",
+      "onboard_time": 1708684532,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 240253,
@@ -1547,6 +1595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202056,
+      "num": 202056,
+      "word": "在二手交易平台买到真二手了",
+      "onboard_time": 1708685311,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201553,
       "num": 201553,
       "word": "证监会发布会",
@@ -1619,6 +1675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190446,
+      "num": 190446,
+      "word": "德国男团0比3中国台北",
+      "onboard_time": 1708686095,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189920,
       "num": 189920,
       "word": "浙江一17岁学生确诊肠癌",
@@ -1649,6 +1713,14 @@
       "onboard_time": 1708653933,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183944,
+      "num": 183944,
+      "word": "元气森林是纯元的元",
+      "onboard_time": 1708684532,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 183135,
@@ -1689,14 +1761,6 @@
       "onboard_time": 1708650754,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178772,
-      "num": 178772,
-      "word": "每年二月我都会痛哭一场",
-      "onboard_time": 1708684112,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 178599,
@@ -1803,6 +1867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 167571,
+      "num": 167571,
+      "word": "双鱼座才不会在感情中盲目",
+      "onboard_time": 1708686272,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167282,
       "num": 167282,
       "word": "谁在找辛芷蕾",
@@ -1892,7 +1964,7 @@
     },
     {
       "raw_hot": 159669,
-      "num": 171140,
+      "num": 628593,
       "word": "南京秦淮灯会氛围感满满",
       "onboard_time": 1708681234,
       "rank": 41,
@@ -1913,6 +1985,14 @@
       "onboard_time": 1708657230,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159229,
+      "num": 159229,
+      "word": "TRIBE取消回归",
+      "onboard_time": 1708684953,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 158420,
@@ -1969,6 +2049,14 @@
       "onboard_time": 1708652913,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152084,
+      "num": 152084,
+      "word": "久坐的危害竟然这么大",
+      "onboard_time": 1708685613,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 151980,
@@ -2115,6 +2203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127138,
+      "num": 127138,
+      "word": "重回上上周五",
+      "onboard_time": 1708685372,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122839,
       "num": 122839,
       "word": "暗杀教室 渚",
@@ -2153,6 +2249,14 @@
       "onboard_time": 1708614693,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 114193,
+      "num": 114193,
+      "word": "换乘恋爱3",
+      "onboard_time": 1708686873,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 111651,
