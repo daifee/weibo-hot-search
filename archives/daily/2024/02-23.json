@@ -1,6 +1,6 @@
 {
   "startTime": 1708618926218,
-  "endTime": 1708679798712,
+  "endTime": 1708680841538,
   "band_list": [
     {
       "raw_hot": 2980398,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1665937,
-      "num": 1102123,
+      "num": 1421478,
       "word": "新沙洞老虎去世",
       "onboard_time": 1708678353,
       "rank": 3,
@@ -129,6 +129,14 @@
       "onboard_time": 1708653096,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1411464,
+      "num": 1411464,
+      "word": "张继科已经与安踏解约",
+      "onboard_time": 1708679071,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 1406132,
@@ -627,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 442640,
+      "num": 364142,
+      "word": "三胎妈妈为生龙宝宝足月后缓生",
+      "onboard_time": 1708679314,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441561,
       "num": 388028,
       "word": "手机放枕边睡觉有辐射吗",
@@ -643,6 +659,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 432874,
+      "num": 432874,
+      "word": "前田敦子 浪姐五",
+      "onboard_time": 1708678537,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 431959,
+      "num": 431959,
+      "word": "28岁网红菲菲公主因癌症去世",
+      "onboard_time": 1708680693,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 429900,
       "num": 429900,
       "word": "英伟达",
@@ -657,14 +689,6 @@
       "onboard_time": 1708600715,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424209,
-      "num": 424209,
-      "word": "张继科已经与安踏解约",
-      "onboard_time": 1708679071,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 423316,
@@ -699,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 414688,
+      "num": 1430209,
+      "word": "元宵节为什么叫元宵节",
+      "onboard_time": 1708677813,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409455,
       "num": 409455,
       "word": "EDG",
@@ -715,28 +747,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 390677,
-      "num": 390677,
-      "word": "前田敦子 浪姐五",
-      "onboard_time": 1708678537,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 384830,
       "num": 475385,
       "word": "张继科重回蝴蝶乒乓中国官网",
       "onboard_time": 1708608033,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 382546,
-      "num": 1175614,
-      "word": "元宵节为什么叫元宵节",
-      "onboard_time": 1708677813,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 382337,
@@ -995,6 +1011,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 273417,
+      "num": 273417,
+      "word": "你不用变得外向 但发言时一定要勇敢",
+      "onboard_time": 1708676853,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 272658,
       "num": 272658,
       "word": "被高铁坐错位置的人骂了",
@@ -1004,7 +1028,7 @@
     },
     {
       "raw_hot": 271194,
-      "num": 211037,
+      "num": 213225,
       "word": "迪丽热巴同人图",
       "onboard_time": 1708676434,
       "rank": 46,
@@ -1067,12 +1091,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 251785,
-      "num": 251785,
-      "word": "你不用变得外向 但发言时一定要勇敢",
-      "onboard_time": 1708676853,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 247231,
+      "num": 219591,
+      "word": "mlxg说Letme不适合当教练",
+      "onboard_time": 1708680153,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 246054,
@@ -1123,12 +1147,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 237745,
+      "num": 217893,
+      "word": "Cat 是我猫眼看人低了",
+      "onboard_time": 1708680153,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 237242,
       "num": 237242,
       "word": "TWICE空降",
       "onboard_time": 1708670253,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 236019,
+      "num": 236019,
+      "word": "事实证明鸭绒的羽绒服也不暖和",
+      "onboard_time": 1708679496,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 233224,
@@ -1419,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194574,
+      "num": 194574,
+      "word": "VG战胜KSG",
+      "onboard_time": 1708679794,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193777,
       "num": 384272,
       "word": "雅迪是要造汽车了吗",
@@ -1467,20 +1515,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 188083,
+      "num": 188083,
+      "word": "英伟达市值",
+      "onboard_time": 1708680457,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 186325,
       "num": 186325,
       "word": "猎冰总投资",
       "onboard_time": 1708653933,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184503,
-      "num": 184503,
-      "word": "三胎妈妈为生龙宝宝足月后缓生",
-      "onboard_time": 1708679314,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183135,
@@ -1619,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165328,
+      "num": 165328,
+      "word": "林昀儒奥恰洛夫极限攻防",
+      "onboard_time": 1708680572,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164965,
       "num": 164965,
       "word": "加沙医学生称医院沦为了坟场",
@@ -1715,6 +1771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158188,
+      "num": 158188,
+      "word": "鹿晗贵州村超路透",
+      "onboard_time": 1708679734,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157472,
       "num": 157472,
       "word": "老师给班上的每个小朋友送了一顶针织帽",
@@ -1763,19 +1827,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148758,
-      "num": 148758,
-      "word": "事实证明鸭绒的羽绒服也不暖和",
-      "onboard_time": 1708679496,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148201,
       "num": 148201,
       "word": "傲娇猫猫遇上忠实猫奴",
       "onboard_time": 1708673614,
       "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 147594,
+      "num": 147594,
+      "word": "这个月 为什么职场中女性领导较少",
+      "onboard_time": 1708680635,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 146790,
+      "num": 146790,
+      "word": "猫咪偷排骨被当场抓获",
+      "onboard_time": 1708679794,
+      "rank": 44,
       "category": "幽默"
     },
     {
@@ -1785,6 +1857,14 @@
       "onboard_time": 1708678954,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 138913,
+      "num": 138913,
+      "word": "女团名曲制造机",
+      "onboard_time": 1708680635,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 138728,
@@ -1811,12 +1891,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 135507,
+      "num": 135507,
+      "word": "证监会称目前没有IPO倒查10年的安排",
+      "onboard_time": 1708680754,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 134880,
       "num": 134880,
       "word": "证监会连开六份罚单",
       "onboard_time": 1708646791,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 133116,
+      "num": 133116,
+      "word": "肖战抵达TODS",
+      "onboard_time": 1708680815,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 132024,
@@ -1889,14 +1985,6 @@
       "onboard_time": 1708614693,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 113767,
-      "num": 113767,
-      "word": "鹿晗贵州村超路透",
-      "onboard_time": 1708679734,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 111651,

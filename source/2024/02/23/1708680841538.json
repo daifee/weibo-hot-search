@@ -1,0 +1,410 @@
+{
+  "runTime": 1708680841538,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1578747,
+        "num": 1578747,
+        "word": "医生回应打HPV疫苗3年后患宫颈癌",
+        "onboard_time": 1708673434,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1461259,
+        "num": 1461259,
+        "word": "南北 229",
+        "onboard_time": 1708672771,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 414688,
+        "num": 1430209,
+        "word": "元宵节为什么叫元宵节",
+        "onboard_time": 1708677813,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1623181,
+        "num": 1421478,
+        "word": "新沙洞老虎去世",
+        "onboard_time": 1708678353,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1411464,
+        "num": 1411464,
+        "word": "张继科已经与安踏解约",
+        "onboard_time": 1708679071,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 871716,
+        "num": 871716,
+        "word": "人民日报评热辣滚烫出海",
+        "onboard_time": 1708674394,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 863784,
+        "num": 863784,
+        "word": "jiejie摔倒",
+        "onboard_time": 1708665874,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 853220,
+        "num": 853220,
+        "word": "被贩卖婴儿被洗白身份落户买主家",
+        "onboard_time": 1708676132,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714768,
+        "num": 714768,
+        "word": "肖战看秀look",
+        "onboard_time": 1708675953,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 572126,
+        "num": 572126,
+        "word": "侯雯元到底给钟楚曦拍了多少美照",
+        "onboard_time": 1708671214,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496676,
+        "num": 496676,
+        "word": "张卫健过60大寿一根白发都没有",
+        "onboard_time": 1708667376,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 479147,
+        "num": 479147,
+        "word": "无糖汤圆成今年元宵黑马",
+        "onboard_time": 1708676193,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 432874,
+        "num": 432874,
+        "word": "前田敦子 浪姐五",
+        "onboard_time": 1708678537,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431959,
+        "num": 431959,
+        "word": "28岁网红菲菲公主因癌症去世",
+        "onboard_time": 1708680693,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 424561,
+        "num": 424561,
+        "word": "上春山",
+        "onboard_time": 1708667254,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404458,
+        "num": 404458,
+        "word": "猎冰 华为二公主追击小米代言人",
+        "onboard_time": 1708665215,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395841,
+        "num": 395841,
+        "word": "花花被遗忘在外场饲养员被解雇",
+        "onboard_time": 1708653096,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392915,
+        "num": 392915,
+        "word": "郑爽被冻结百万股权",
+        "onboard_time": 1708675651,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388246,
+        "num": 388246,
+        "word": "热辣票房成功说靠营销是站不住脚的",
+        "onboard_time": 1708674575,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269127,
+        "num": 364517,
+        "word": "孙颖莎掰手指算冠军数",
+        "onboard_time": 1708677873,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 442640,
+        "num": 364142,
+        "word": "三胎妈妈为生龙宝宝足月后缓生",
+        "onboard_time": 1708679314,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362828,
+        "num": 362828,
+        "word": "支付宝招聘大量抖音小红书员工",
+        "onboard_time": 1708661251,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 354718,
+        "num": 354718,
+        "word": "宋轶曾有一年多没戏拍",
+        "onboard_time": 1708665517,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273417,
+        "num": 273417,
+        "word": "你不用变得外向 但发言时一定要勇敢",
+        "onboard_time": 1708676853,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265754,
+        "num": 265754,
+        "word": "朱开说Jiejie打了一堆针",
+        "onboard_time": 1708678894,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 284935,
+        "num": 254203,
+        "word": "王一博 聋哑人测试",
+        "onboard_time": 1708671993,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277849,
+        "num": 246414,
+        "word": "姚安娜现身华为发布会",
+        "onboard_time": 1708671935,
+        "rank": 26,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 236019,
+        "num": 236019,
+        "word": "事实证明鸭绒的羽绒服也不暖和",
+        "onboard_time": 1708679496,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228479,
+        "num": 228479,
+        "word": "张艺兴择偶标准变化",
+        "onboard_time": 1708673614,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193794,
+        "num": 219885,
+        "word": "外交部回应美方称中国起重机收集数据",
+        "onboard_time": 1708676492,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 247231,
+        "num": 219591,
+        "word": "mlxg说Letme不适合当教练",
+        "onboard_time": 1708680153,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 237745,
+        "num": 217893,
+        "word": "Cat 是我猫眼看人低了",
+        "onboard_time": 1708680153,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213225,
+        "num": 213225,
+        "word": "迪丽热巴同人图",
+        "onboard_time": 1708676434,
+        "rank": 32,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 210631,
+        "num": 210631,
+        "word": "TODS2024秋冬系列时装秀",
+        "onboard_time": 1708678774,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177638,
+        "num": 196691,
+        "word": "游本昌曾让医生大呼奇迹",
+        "onboard_time": 1708662577,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194574,
+        "num": 194574,
+        "word": "VG战胜KSG",
+        "onboard_time": 1708679794,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189833,
+        "num": 189833,
+        "word": "中国海警就菲律宾侵闯黄岩岛发声",
+        "onboard_time": 1708678537,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 188083,
+        "num": 188083,
+        "word": "英伟达市值",
+        "onboard_time": 1708680457,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172872,
+        "num": 172872,
+        "word": "妈妈是这个世界最执着的氪金玩家",
+        "onboard_time": 1708678292,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165328,
+        "num": 165328,
+        "word": "林昀儒奥恰洛夫极限攻防",
+        "onboard_time": 1708680572,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158188,
+        "num": 158188,
+        "word": "鹿晗贵州村超路透",
+        "onboard_time": 1708679734,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157068,
+        "num": 157068,
+        "word": "我是高情商别让我难堪",
+        "onboard_time": 1708679253,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152832,
+        "num": 152832,
+        "word": "女生6.8元复刻星巴克68元肉脯拿铁",
+        "onboard_time": 1708678113,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147594,
+        "num": 147594,
+        "word": "这个月 为什么职场中女性领导较少",
+        "onboard_time": 1708680635,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146790,
+        "num": 146790,
+        "word": "猫咪偷排骨被当场抓获",
+        "onboard_time": 1708679794,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138913,
+        "num": 138913,
+        "word": "女团名曲制造机",
+        "onboard_time": 1708680635,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135507,
+        "num": 135507,
+        "word": "证监会称目前没有IPO倒查10年的安排",
+        "onboard_time": 1708680754,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134528,
+        "num": 134528,
+        "word": "大厂的年终奖还香吗",
+        "onboard_time": 1708679432,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133116,
+        "num": 133116,
+        "word": "肖战抵达TODS",
+        "onboard_time": 1708680815,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129988,
+        "num": 129988,
+        "word": "种地吧2开播",
+        "onboard_time": 1708676672,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平曾在厦门打响治理污染的硬仗#"
+    }
+  }
+}
