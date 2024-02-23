@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708719579604,
+  "endTime": 1708720527429,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -62411,6 +62411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 43160,
+      "num": 36265,
+      "word": "影视剧只拍上半身的原因",
+      "onboard_time": 1708718419,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43034,
       "num": 43034,
       "word": "薛之谦AI",
@@ -62787,6 +62795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36225,
+      "num": 36225,
+      "word": "广州断桥事件倒车拦车车主发声",
+      "onboard_time": 1708717757,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35889,
       "num": 313765,
       "word": "蛋仔派对又进化了",
@@ -62857,14 +62873,6 @@
       "onboard_time": 1708240115,
       "rank": 34,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 34872,
-      "num": 34872,
-      "word": "影视剧只拍上半身的原因",
-      "onboard_time": 1708718419,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 34860,
@@ -63419,14 +63427,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 24981,
-      "num": 24981,
-      "word": "广州断桥事件倒车拦车车主发声",
-      "onboard_time": 1708717757,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24887,
       "num": 24887,
       "word": "春晚分会场",
@@ -63545,6 +63545,14 @@
       "onboard_time": 1707777377,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 23235,
+      "num": 23235,
+      "word": "93岁姥爷非要帮铲雪外孙女吓跪了",
+      "onboard_time": 1708717817,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22422,
@@ -63809,14 +63817,6 @@
       "onboard_time": 1708542376,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18380,
-      "num": 18380,
-      "word": "93岁姥爷非要帮铲雪外孙女吓跪了",
-      "onboard_time": 1708717817,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18242,
