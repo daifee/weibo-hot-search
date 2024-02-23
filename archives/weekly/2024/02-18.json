@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708705253127,
+  "endTime": 1708706111586,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -5259,6 +5259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 439097,
+      "num": 439097,
+      "word": "徐璐直播",
+      "onboard_time": 1708702953,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 438313,
       "num": 368934,
       "word": "普通情侣一年的年收入",
@@ -6411,14 +6419,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 356646,
-      "num": 356646,
-      "word": "徐璐直播",
-      "onboard_time": 1708702953,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 356157,
       "num": 356157,
       "word": "任嘉伦外媒生图",
@@ -6803,6 +6803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332316,
+      "num": 332316,
+      "word": "大理寺少卿游 竹马天降",
+      "onboard_time": 1708703375,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331811,
       "num": 317598,
       "word": "飞驰人生2刘昊然的出场",
@@ -7113,14 +7121,6 @@
       "onboard_time": 1708387654,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 315034,
-      "num": 315034,
-      "word": "大理寺少卿游 竹马天降",
-      "onboard_time": 1708703375,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 314849,
@@ -12403,6 +12403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185924,
+      "num": 185924,
+      "word": "沥心沙大桥事故幸存者发声",
+      "onboard_time": 1708703972,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185435,
       "num": 185435,
       "word": "马龙3比1篠塚大登",
@@ -15571,14 +15579,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 134186,
-      "num": 182190,
-      "word": "沥心沙大桥事故幸存者发声",
-      "onboard_time": 1708703972,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133818,
       "num": 133818,
       "word": "TES速通LNG",
@@ -16433,6 +16433,14 @@
       "onboard_time": 1708592135,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 83039,
+      "num": 83039,
+      "word": "张卫健曾自述留光头的原因",
+      "onboard_time": 1708706066,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 82578,

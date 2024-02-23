@@ -1,6 +1,6 @@
 {
   "startTime": 1708705253127,
-  "endTime": 1708705253127,
+  "endTime": 1708706111586,
   "band_list": [
     {
       "raw_hot": 1783817,
@@ -83,20 +83,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 439097,
+      "num": 439097,
+      "word": "徐璐直播",
+      "onboard_time": 1708702953,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394343,
       "num": 394343,
       "word": "王者荣耀",
       "onboard_time": 1708701934,
       "rank": 11,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 356646,
-      "num": 356646,
-      "word": "徐璐直播",
-      "onboard_time": 1708702953,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 343318,
@@ -115,8 +115,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 315034,
-      "num": 315034,
+      "raw_hot": 332316,
+      "num": 332316,
       "word": "大理寺少卿游 竹马天降",
       "onboard_time": 1708703375,
       "rank": 15,
@@ -177,6 +177,14 @@
       "onboard_time": 1708691371,
       "rank": 23,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 185924,
+      "num": 185924,
+      "word": "沥心沙大桥事故幸存者发声",
+      "onboard_time": 1708703972,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183836,
@@ -283,14 +291,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 134186,
-      "num": 182190,
-      "word": "沥心沙大桥事故幸存者发声",
-      "onboard_time": 1708703972,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129496,
       "num": 181189,
       "word": "佛山电翰又开始直播打螺丝了",
@@ -363,6 +363,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88439,
+      "num": 122757,
+      "word": "不会断句的网友把博物馆逼得改名",
+      "onboard_time": 1708694735,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 83039,
+      "num": 83039,
+      "word": "张卫健曾自述留光头的原因",
+      "onboard_time": 1708706066,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78581,
       "num": 123398,
       "word": "RNG官宣朱开回归",
@@ -377,14 +393,6 @@
       "onboard_time": 1708679314,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69130,
-      "num": 122757,
-      "word": "不会断句的网友把博物馆逼得改名",
-      "onboard_time": 1708694735,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 68689,
