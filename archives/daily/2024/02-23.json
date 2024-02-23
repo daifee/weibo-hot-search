@@ -1,7 +1,15 @@
 {
   "startTime": 1708618926218,
-  "endTime": 1708654955682,
+  "endTime": 1708655649637,
   "band_list": [
+    {
+      "raw_hot": 2980398,
+      "num": 2980398,
+      "word": "苏州交警回应高架百车相撞",
+      "onboard_time": 1708653993,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2517884,
       "num": 2517884,
@@ -11,7 +19,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2378979,
+      "raw_hot": 2395721,
       "num": 1373158,
       "word": "夫妻相约赴死妻子身亡丈夫反悔",
       "onboard_time": 1708651653,
@@ -35,12 +43,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1685041,
-      "num": 1685041,
-      "word": "苏州交警回应高架百车相撞",
-      "onboard_time": 1708653993,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 1343349,
+      "num": 1343349,
+      "word": "章若楠 温以凡",
+      "onboard_time": 1708653573,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 1239216,
@@ -57,14 +65,6 @@
       "onboard_time": 1708618291,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1210392,
-      "num": 1210392,
-      "word": "章若楠 温以凡",
-      "onboard_time": 1708653573,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 1067211,
@@ -88,6 +88,14 @@
       "word": "花花被遗忘在外场饲养被解雇",
       "onboard_time": 1708653096,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 972260,
+      "num": 972260,
+      "word": "花花被遗忘在外场饲养员被解雇",
+      "onboard_time": 1708653096,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -129,6 +137,14 @@
       "onboard_time": 1708642822,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 792731,
+      "num": 792731,
+      "word": "为何1点点奶茶不火了",
+      "onboard_time": 1708653634,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 791371,
@@ -179,12 +195,28 @@
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 578145,
-      "num": 578145,
+      "raw_hot": 581258,
+      "num": 581258,
       "word": "董事长操纵自家股票交易800亿亏2.4亿",
       "onboard_time": 1708651471,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 564005,
+      "num": 564005,
+      "word": "浦东支持外籍人才担任事业单位国有企业法人",
+      "onboard_time": 1708653393,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 563530,
+      "num": 563530,
+      "word": "我国彩礼最低的省份",
+      "onboard_time": 1708653096,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 545820,
@@ -195,11 +227,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 525068,
-      "num": 375145,
-      "word": "我国彩礼最低的省份",
-      "onboard_time": 1708653096,
-      "rank": 31,
+      "raw_hot": 533936,
+      "num": 533936,
+      "word": "南京一小区发生火灾致4人死亡",
+      "onboard_time": 1708652794,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -219,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 513959,
-      "num": 513959,
-      "word": "南京一小区发生火灾致4人死亡",
-      "onboard_time": 1708652794,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 512841,
       "num": 512841,
       "word": "宋小宝凭实力爆改自己",
@@ -241,6 +265,14 @@
       "onboard_time": 1708647515,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 484227,
+      "num": 484227,
+      "word": "南京火灾",
+      "onboard_time": 1708654294,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 482317,
@@ -267,20 +299,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 451777,
-      "num": 451777,
-      "word": "为何1点点奶茶不火了",
-      "onboard_time": 1708653634,
-      "rank": 49,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 446373,
-      "num": 446373,
-      "word": "浦东支持外籍人才担任事业单位国有企业法人",
-      "onboard_time": 1708653393,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 453479,
+      "num": 453479,
+      "word": "王一博黑粉被执行2.4万",
+      "onboard_time": 1708654113,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 441561,
@@ -379,14 +403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 320089,
-      "num": 320089,
-      "word": "王一博黑粉被执行2.4万",
-      "onboard_time": 1708654113,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 318456,
       "num": 318456,
       "word": "迪丽热巴妈妈想再养育一遍她",
@@ -403,11 +419,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315386,
-      "num": 315386,
-      "word": "南京火灾",
-      "onboard_time": 1708654294,
-      "rank": 25,
+      "raw_hot": 313897,
+      "num": 313897,
+      "word": "北京警方刑拘93人",
+      "onboard_time": 1708654355,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -459,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 260775,
+      "num": 260775,
+      "word": "肖战今天看两场秀",
+      "onboard_time": 1708654713,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 259001,
       "num": 194623,
       "word": "甲沟炎患者不建议养猫",
@@ -473,6 +497,14 @@
       "onboard_time": 1708618770,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 252403,
+      "num": 252403,
+      "word": "高考考得最好的一群人现在在干啥",
+      "onboard_time": 1708654594,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246054,
@@ -491,12 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232216,
-      "num": 232216,
-      "word": "肖战今天看两场秀",
+      "raw_hot": 238804,
+      "num": 238804,
+      "word": "kcon香港",
       "onboard_time": 1708654713,
-      "rank": 30,
-      "category": "作品衍生,时尚"
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 229814,
@@ -505,14 +537,6 @@
       "onboard_time": 1708653152,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 229040,
-      "num": 229040,
-      "word": "北京警方刑拘93人",
-      "onboard_time": 1708654355,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228006,
@@ -595,6 +619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 208057,
+      "num": 208057,
+      "word": "上证指数收复3000点大关",
+      "onboard_time": 1708655251,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 207296,
       "num": 207296,
       "word": "上海地铁设专页向乘客发送致歉信",
@@ -608,6 +640,14 @@
       "word": "把学历改成高中后终于找到工作",
       "onboard_time": 1708585294,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195719,
+      "num": 195719,
+      "word": "丫丫雪后美成1幅画",
+      "onboard_time": 1708655014,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -641,14 +681,6 @@
       "onboard_time": 1708653933,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185329,
-      "num": 185329,
-      "word": "kcon香港",
-      "onboard_time": 1708654713,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 180394,
@@ -721,14 +753,6 @@
       "onboard_time": 1708652614,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 164884,
-      "num": 164884,
-      "word": "高考考得最好的一群人现在在干啥",
-      "onboard_time": 1708654594,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161746,
@@ -817,6 +841,14 @@
       "onboard_time": 1708602752,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 114831,
+      "num": 142818,
+      "word": "雅迪是要造汽车了吗",
+      "onboard_time": 1708655553,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 114218,

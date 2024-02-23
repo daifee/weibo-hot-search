@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708654955682,
+  "endTime": 1708655649637,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -195,6 +195,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 2980398,
+      "num": 2980398,
+      "word": "苏州交警回应高架百车相撞",
+      "onboard_time": 1708653993,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2915457,
       "num": 2915457,
       "word": "娃哈哈创始人宗庆后在ICU抢救",
@@ -323,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2395721,
+      "num": 1373158,
+      "word": "夫妻相约赴死妻子身亡丈夫反悔",
+      "onboard_time": 1708651653,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2385481,
       "num": 694354,
       "word": "白敬亭工作人员说魏大勋掉扇子",
@@ -336,14 +352,6 @@
       "word": "秦朗舅舅",
       "onboard_time": 1708262796,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2378979,
-      "num": 1373158,
-      "word": "夫妻相约赴死妻子身亡丈夫反悔",
-      "onboard_time": 1708651653,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -771,14 +779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1685041,
-      "num": 1685041,
-      "word": "苏州交警回应高架百车相撞",
-      "onboard_time": 1708653993,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1679449,
       "num": 1679449,
       "word": "柳鑫宇且试天下",
@@ -1147,6 +1147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1343349,
+      "num": 1343349,
+      "word": "章若楠 温以凡",
+      "onboard_time": 1708653573,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1335419,
       "num": 1335419,
       "word": "教育局回应女教师被举报出轨学生",
@@ -1376,14 +1384,6 @@
       "word": "制片人评价白敬亭",
       "onboard_time": 1708475671,
       "rank": 5,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1210392,
-      "num": 1210392,
-      "word": "章若楠 温以凡",
-      "onboard_time": 1708653573,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1824,6 +1824,14 @@
       "word": "新疆地震",
       "onboard_time": 1708427379,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 972260,
+      "num": 972260,
+      "word": "花花被遗忘在外场饲养员被解雇",
+      "onboard_time": 1708653096,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -2353,6 +2361,14 @@
       "onboard_time": 1708260154,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 792731,
+      "num": 792731,
+      "word": "为何1点点奶茶不火了",
+      "onboard_time": 1708653634,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 791453,
@@ -3507,6 +3523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 581258,
+      "num": 581258,
+      "word": "董事长操纵自家股票交易800亿亏2.4亿",
+      "onboard_time": 1708651471,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 580944,
       "num": 580944,
       "word": "尹正 五年前钢管舞五年后原地杵",
@@ -3537,14 +3561,6 @@
       "onboard_time": 1708407883,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 578145,
-      "num": 578145,
-      "word": "董事长操纵自家股票交易800亿亏2.4亿",
-      "onboard_time": 1708651471,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 576163,
@@ -3603,12 +3619,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 564005,
+      "num": 564005,
+      "word": "浦东支持外籍人才担任事业单位国有企业法人",
+      "onboard_time": 1708653393,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 563639,
       "num": 563639,
       "word": "枭起青壤 男主",
       "onboard_time": 1708414118,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 563530,
+      "num": 563530,
+      "word": "我国彩礼最低的省份",
+      "onboard_time": 1708653096,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562294,
@@ -3819,6 +3851,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 533936,
+      "num": 533936,
+      "word": "南京一小区发生火灾致4人死亡",
+      "onboard_time": 1708652794,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531886,
       "num": 531886,
       "word": "下月要还的房贷会立刻减少吗",
@@ -3889,14 +3929,6 @@
       "onboard_time": 1708425218,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 525068,
-      "num": 375145,
-      "word": "我国彩礼最低的省份",
-      "onboard_time": 1708653096,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 521104,
@@ -4009,14 +4041,6 @@
       "onboard_time": 1708402718,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 513959,
-      "num": 513959,
-      "word": "南京一小区发生火灾致4人死亡",
-      "onboard_time": 1708652794,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 512841,
@@ -4275,6 +4299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 484227,
+      "num": 484227,
+      "word": "南京火灾",
+      "onboard_time": 1708654294,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484023,
       "num": 484023,
       "word": "女子吐槽高铁上不售卖卫生巾",
@@ -4491,20 +4523,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 453479,
+      "num": 453479,
+      "word": "王一博黑粉被执行2.4万",
+      "onboard_time": 1708654113,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 453371,
       "num": 453371,
       "word": "金智秀个人工作室成立",
       "onboard_time": 1708485933,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 451777,
-      "num": 451777,
-      "word": "为何1点点奶茶不火了",
-      "onboard_time": 1708653634,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 451672,
@@ -4545,14 +4577,6 @@
       "onboard_time": 1708213406,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 446373,
-      "num": 446373,
-      "word": "浦东支持外籍人才担任事业单位国有企业法人",
-      "onboard_time": 1708653393,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 445261,
@@ -6179,14 +6203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320089,
-      "num": 320089,
-      "word": "王一博黑粉被执行2.4万",
-      "onboard_time": 1708654113,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 318680,
       "num": 318680,
       "word": "爸妈一直管我的微信头像",
@@ -6227,14 +6243,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 315386,
-      "num": 315386,
-      "word": "南京火灾",
-      "onboard_time": 1708654294,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315066,
       "num": 315066,
       "word": "老板路过看到我的工位沉默了",
@@ -6257,6 +6265,14 @@
       "onboard_time": 1708505854,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 313897,
+      "num": 313897,
+      "word": "北京警方刑拘93人",
+      "onboard_time": 1708654355,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313700,
@@ -7571,6 +7587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260775,
+      "num": 260775,
+      "word": "肖战今天看两场秀",
+      "onboard_time": 1708654713,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 260532,
       "num": 260532,
       "word": "柳鑫宇王诗玥 CP",
@@ -7745,6 +7769,14 @@
       "onboard_time": 1708250736,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 252403,
+      "num": 252403,
+      "word": "高考考得最好的一群人现在在干啥",
+      "onboard_time": 1708654594,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252299,
@@ -8251,6 +8283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 238804,
+      "num": 238804,
+      "word": "kcon香港",
+      "onboard_time": 1708654713,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 238566,
       "num": 238566,
       "word": "孙千陈靖可模仿朱迪尼克",
@@ -8451,14 +8491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232216,
-      "num": 232216,
-      "word": "肖战今天看两场秀",
-      "onboard_time": 1708654713,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 232083,
       "num": 232083,
       "word": "杨紫方否认演竹书谣",
@@ -8529,14 +8561,6 @@
       "onboard_time": 1708432357,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 229040,
-      "num": 229040,
-      "word": "北京警方刑拘93人",
-      "onboard_time": 1708654355,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228782,
@@ -9427,6 +9451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 208057,
+      "num": 208057,
+      "word": "上证指数收复3000点大关",
+      "onboard_time": 1708655251,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 207870,
       "num": 207870,
       "word": "汤唯的自拍技术",
@@ -10107,6 +10139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195719,
+      "num": 195719,
+      "word": "丫丫雪后美成1幅画",
+      "onboard_time": 1708655014,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195361,
       "num": 195361,
       "word": "幸运女孩综合症",
@@ -10753,14 +10793,6 @@
       "onboard_time": 1708611338,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185329,
-      "num": 185329,
-      "word": "kcon香港",
-      "onboard_time": 1708654713,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 185310,
@@ -11977,14 +12009,6 @@
       "onboard_time": 1708652614,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 164884,
-      "num": 164884,
-      "word": "高考考得最好的一群人现在在干啥",
-      "onboard_time": 1708654594,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164841,
@@ -13857,6 +13881,14 @@
       "onboard_time": 1708484077,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114831,
+      "num": 142818,
+      "word": "雅迪是要造汽车了吗",
+      "onboard_time": 1708655553,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 114207,
