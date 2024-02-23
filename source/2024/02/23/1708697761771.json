@@ -1,0 +1,410 @@
+{
+  "runTime": 1708697761771,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2436601,
+        "num": 2436601,
+        "word": "贾玲 你看到什么我就拍了什么",
+        "onboard_time": 1708692151,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 2367129,
+        "num": 2367129,
+        "word": "3月1日起快递不得擅自放驿站",
+        "onboard_time": 1708693833,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157961,
+        "num": 1710425,
+        "word": "元宵节有哪些民俗",
+        "onboard_time": 1708694013,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1168409,
+        "num": 1168409,
+        "word": "Gucci大秀",
+        "onboard_time": 1708696411,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1160469,
+        "num": 1160469,
+        "word": "贾玲说如果重拍你好李焕英会更有电影感",
+        "onboard_time": 1708694793,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1048528,
+        "num": 1048528,
+        "word": "汪东城回应吴尊",
+        "onboard_time": 1708688673,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639636,
+        "num": 639636,
+        "word": "南北 229",
+        "onboard_time": 1708672771,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453686,
+        "num": 453686,
+        "word": "佛山电翰又开始直播打螺丝了",
+        "onboard_time": 1708687171,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 443668,
+        "num": 443668,
+        "word": "富家千金接班7年累计亏损近32亿",
+        "onboard_time": 1708682435,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 317961,
+        "num": 317961,
+        "word": "KPL",
+        "onboard_time": 1708689511,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1227169,
+        "num": 317436,
+        "word": "凯特王妃疑患绿色癌症",
+        "onboard_time": 1708687654,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 399454,
+        "num": 311162,
+        "word": "李子柒公司工商变更",
+        "onboard_time": 1708693893,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 383755,
+        "num": 306239,
+        "word": "文韬再次1V3加速成功",
+        "onboard_time": 1708696535,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383610,
+        "num": 302730,
+        "word": "母女是一种有痛感的关系",
+        "onboard_time": 1708694192,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301022,
+        "num": 301022,
+        "word": "三胎妈妈为生龙宝宝足月后缓生",
+        "onboard_time": 1708679314,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370571,
+        "num": 300662,
+        "word": "南北cp",
+        "onboard_time": 1708695812,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358473,
+        "num": 300335,
+        "word": "肖战晒米兰明信片",
+        "onboard_time": 1708695633,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299170,
+        "num": 299170,
+        "word": "五条悟又是第一",
+        "onboard_time": 1708692452,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 281822,
+        "num": 281822,
+        "word": "吃了止痛药以为自己病好了的小猫",
+        "onboard_time": 1708692573,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276232,
+        "num": 276232,
+        "word": "张继科已经与安踏解约",
+        "onboard_time": 1708679071,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406318,
+        "num": 275531,
+        "word": "马面裙卖爆了",
+        "onboard_time": 1708691371,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 329239,
+        "num": 273571,
+        "word": "好久没联系的同学一般只有三件事",
+        "onboard_time": 1708694013,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317430,
+        "num": 269769,
+        "word": "汪新马燕结婚了",
+        "onboard_time": 1708692391,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314087,
+        "num": 267989,
+        "word": "李沁拖地大衣",
+        "onboard_time": 1708688073,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299741,
+        "num": 266321,
+        "word": "郭品超顶上好了",
+        "onboard_time": 1708693350,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298854,
+        "num": 262368,
+        "word": "杨幂将去巴黎时装周",
+        "onboard_time": 1708697429,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291635,
+        "num": 261779,
+        "word": "多地延迟开学90后父母忙成双面人",
+        "onboard_time": 1708696293,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260033,
+        "num": 260033,
+        "word": "早上和老板说怀孕下午就被降薪",
+        "onboard_time": 1708685554,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252628,
+        "num": 252628,
+        "word": "全员加速中",
+        "onboard_time": 1708691073,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210538,
+        "num": 247908,
+        "word": "大王具足虫",
+        "onboard_time": 1708695393,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 246826,
+        "num": 246826,
+        "word": "肖战的贴面礼",
+        "onboard_time": 1708697675,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237433,
+        "num": 237433,
+        "word": "28岁网红菲菲公主因癌症去世",
+        "onboard_time": 1708680693,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 231058,
+        "num": 231058,
+        "word": "金晨晒马燕新婚照",
+        "onboard_time": 1708695696,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215538,
+        "num": 215538,
+        "word": "TES赛后整活",
+        "onboard_time": 1708697073,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190965,
+        "num": 190965,
+        "word": "很多家庭都是一座疯人院",
+        "onboard_time": 1708691610,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218048,
+        "num": 187026,
+        "word": "书卷一梦开官微",
+        "onboard_time": 1708697013,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215988,
+        "num": 186892,
+        "word": "希望所有爱豆都来学习",
+        "onboard_time": 1708690832,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179311,
+        "num": 179311,
+        "word": "预示癌症的20个症状",
+        "onboard_time": 1708688494,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116806,
+        "num": 177154,
+        "word": "在二手交易平台买到真二手了",
+        "onboard_time": 1708685311,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77449,
+        "num": 177026,
+        "word": "融安通报网民举报不法分子贩卖婴儿",
+        "onboard_time": 1708697675,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209096,
+        "num": 177020,
+        "word": "肖战看秀look",
+        "onboard_time": 1708675953,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177004,
+        "num": 177004,
+        "word": "每年二月我都会痛哭一场",
+        "onboard_time": 1708684112,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172252,
+        "num": 172252,
+        "word": "双鱼座才不会在感情中盲目",
+        "onboard_time": 1708686272,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162017,
+        "num": 162017,
+        "word": "李明德再演学生",
+        "onboard_time": 1708692813,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161264,
+        "num": 161264,
+        "word": "不会断句的网友把博物馆逼得改名",
+        "onboard_time": 1708694735,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159761,
+        "num": 159761,
+        "word": "南来北往BGM",
+        "onboard_time": 1708696597,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155433,
+        "num": 155433,
+        "word": "热辣票房成功说靠营销是站不住脚的",
+        "onboard_time": 1708674575,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139969,
+        "num": 139969,
+        "word": "极越CEO批评智驾营销脱离事实",
+        "onboard_time": 1708696956,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 133818,
+        "num": 133818,
+        "word": "TES速通LNG",
+        "onboard_time": 1708696717,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102395,
+        "num": 132967,
+        "word": "A股5000家上市公司缴纳全国税收的25%",
+        "onboard_time": 1708688190,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}
