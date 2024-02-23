@@ -1,0 +1,410 @@
+{
+  "runTime": 1708676501569,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1953873,
+        "num": 1953873,
+        "word": "医生回应打HPV疫苗3年后患宫颈癌",
+        "onboard_time": 1708673434,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1232560,
+        "num": 1232560,
+        "word": "南北 229",
+        "onboard_time": 1708672771,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34519,
+        "num": 1150679,
+        "word": "雨雪天气开工出行宝典",
+        "onboard_time": 1708656273,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1559729,
+        "num": 1124827,
+        "word": "90后退休时间可能要延迟到七八十岁",
+        "onboard_time": 1708668575,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1093899,
+        "num": 1093899,
+        "word": "jiejie摔倒",
+        "onboard_time": 1708665874,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1049600,
+        "num": 1049600,
+        "word": "人民日报评热辣滚烫出海",
+        "onboard_time": 1708674394,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 941316,
+        "num": 941316,
+        "word": "侯雯元到底给钟楚曦拍了多少美照",
+        "onboard_time": 1708671214,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 856280,
+        "num": 856280,
+        "word": "热辣票房成功说靠营销是站不住脚的",
+        "onboard_time": 1708674575,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 705351,
+        "num": 705351,
+        "word": "上春山",
+        "onboard_time": 1708667254,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 503838,
+        "num": 681605,
+        "word": "花花被遗忘在外场饲养员被解雇",
+        "onboard_time": 1708653096,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666589,
+        "num": 666589,
+        "word": "宋轶曾有一年多没戏拍",
+        "onboard_time": 1708665517,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 612025,
+        "num": 612025,
+        "word": "张卫健过60大寿一根白发都没有",
+        "onboard_time": 1708667376,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 609151,
+        "num": 609151,
+        "word": "支付宝招聘大量抖音小红书员工",
+        "onboard_time": 1708661251,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 577214,
+        "num": 577214,
+        "word": "张艺兴择偶标准变化",
+        "onboard_time": 1708673614,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517595,
+        "num": 517595,
+        "word": "王一博 聋哑人测试",
+        "onboard_time": 1708671993,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472308,
+        "num": 472308,
+        "word": "猎冰 华为二公主追击小米代言人",
+        "onboard_time": 1708665215,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427204,
+        "num": 427204,
+        "word": "王力宏和爸爸妈妈去三亚",
+        "onboard_time": 1708672354,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384236,
+        "num": 384236,
+        "word": "胡锡进称淘宝微信应加快开放进度",
+        "onboard_time": 1708671094,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 257057,
+        "num": 257057,
+        "word": "夫妻相约赴死妻子身亡丈夫反悔",
+        "onboard_time": 1708651653,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237510,
+        "num": 237510,
+        "word": "东部战区发布海报回家",
+        "onboard_time": 1708667196,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 424111,
+        "num": 237308,
+        "word": "郑爽被冻结百万股权",
+        "onboard_time": 1708675651,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413340,
+        "num": 233493,
+        "word": "肖战看秀look",
+        "onboard_time": 1708675953,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219002,
+        "num": 219002,
+        "word": "超8成家长认为防沉迷新规有效",
+        "onboard_time": 1708675835,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208655,
+        "num": 208655,
+        "word": "西安和青岛可签发往来港澳个人旅游签注",
+        "onboard_time": 1708672896,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 208105,
+        "num": 208105,
+        "word": "我国彩礼最低的省份",
+        "onboard_time": 1708653096,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345005,
+        "num": 200105,
+        "word": "姚安娜现身华为发布会",
+        "onboard_time": 1708671935,
+        "rank": 25,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 273892,
+        "num": 199450,
+        "word": "游本昌曾让医生大呼奇迹",
+        "onboard_time": 1708662577,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185834,
+        "num": 185834,
+        "word": "顶流都能被忘",
+        "onboard_time": 1708662875,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171835,
+        "num": 171835,
+        "word": "无糖汤圆成今年元宵黑马",
+        "onboard_time": 1708676193,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149770,
+        "num": 171550,
+        "word": "A股3000点附近你加仓吗",
+        "onboard_time": 1708667196,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 292323,
+        "num": 171167,
+        "word": "猎冰导演选择姚安娜的原因",
+        "onboard_time": 1708674872,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205309,
+        "num": 171002,
+        "word": "李一桐侠女执剑",
+        "onboard_time": 1708674394,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203075,
+        "num": 170497,
+        "word": "张卫健 人家明明59",
+        "onboard_time": 1708673493,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202256,
+        "num": 170216,
+        "word": "猎冰导演发文回应争议",
+        "onboard_time": 1708673133,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180713,
+        "num": 169983,
+        "word": "秦海璐的霸总小说有了胡先煦的脸",
+        "onboard_time": 1708674692,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169733,
+        "num": 169733,
+        "word": "小米汽车送北京牌照失实",
+        "onboard_time": 1708673014,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 168117,
+        "num": 168117,
+        "word": "手机充一夜电影响电池寿命吗",
+        "onboard_time": 1708671152,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156227,
+        "num": 156227,
+        "word": "烟火人家又名消失的他",
+        "onboard_time": 1708673014,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137659,
+        "num": 155552,
+        "word": "33岁女子洗头后骑车成面瘫",
+        "onboard_time": 1708660232,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133658,
+        "num": 155433,
+        "word": "并不是所有的吧唧嘴都很讨厌",
+        "onboard_time": 1708671694,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155339,
+        "num": 155339,
+        "word": "章若楠 温以凡",
+        "onboard_time": 1708653573,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153567,
+        "num": 153567,
+        "word": "关晓彤好像手办娃娃",
+        "onboard_time": 1708661554,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137137,
+        "num": 137137,
+        "word": "肖战粉丝狂喜",
+        "onboard_time": 1708661437,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135398,
+        "num": 135398,
+        "word": "虞书欣林一雪中互动",
+        "onboard_time": 1708676372,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129598,
+        "num": 129598,
+        "word": "被贩卖婴儿被洗白身份落户买主家",
+        "onboard_time": 1708676132,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126093,
+        "num": 126093,
+        "word": "苏州交警回应高架百车相撞",
+        "onboard_time": 1708653993,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123557,
+        "num": 123557,
+        "word": "迪丽热巴同人图",
+        "onboard_time": 1708676434,
+        "rank": 46,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 104747,
+        "num": 104747,
+        "word": "走快不爱定律",
+        "onboard_time": 1708673671,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98786,
+        "num": 98786,
+        "word": "春节期间手机等流量超60亿GB",
+        "onboard_time": 1708676434,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98727,
+        "num": 98727,
+        "word": "暗杀教室 渚",
+        "onboard_time": 1708675593,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平曾在厦门打响治理污染的硬仗#"
+    }
+  }
+}

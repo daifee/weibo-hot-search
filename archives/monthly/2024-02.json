@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708673650727,
+  "endTime": 1708676501569,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2049,6 +2049,14 @@
       "onboard_time": 1707733828,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1953873,
+      "num": 1953873,
+      "word": "医生回应打HPV疫苗3年后患宫颈癌",
+      "onboard_time": 1708673434,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1953632,
@@ -4723,6 +4731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1232560,
+      "num": 1232560,
+      "word": "南北 229",
+      "onboard_time": 1708672771,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1231981,
       "num": 1231981,
       "word": "甘肃超2万名旅客滞留",
@@ -6169,6 +6185,14 @@
       "onboard_time": 1707203969,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1049600,
+      "num": 1049600,
+      "word": "人民日报评热辣滚烫出海",
+      "onboard_time": 1708674394,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 1049129,
@@ -8145,6 +8169,14 @@
       "onboard_time": 1707956848,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 856280,
+      "num": 856280,
+      "word": "热辣票房成功说靠营销是站不住脚的",
+      "onboard_time": 1708674575,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 856198,
@@ -13659,6 +13691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 577214,
+      "num": 577214,
+      "word": "张艺兴择偶标准变化",
+      "onboard_time": 1708673614,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 577098,
       "num": 577098,
       "word": "宋伊人圈内人缘",
@@ -14699,14 +14739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 542541,
-      "num": 542541,
-      "word": "南北 229",
-      "onboard_time": 1708672771,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 542066,
       "num": 542066,
       "word": "准备和财神谈恋爱",
@@ -15529,6 +15561,14 @@
       "onboard_time": 1707276031,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517595,
+      "num": 517595,
+      "word": "王一博 聋哑人测试",
+      "onboard_time": 1708671993,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 517526,
@@ -16993,14 +17033,6 @@
       "onboard_time": 1708261113,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 474638,
-      "num": 474638,
-      "word": "王一博 聋哑人测试",
-      "onboard_time": 1708671993,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 474538,
@@ -18811,6 +18843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 424111,
+      "num": 237308,
+      "word": "郑爽被冻结百万股权",
+      "onboard_time": 1708675651,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423907,
       "num": 390907,
       "word": "以后我的C盘永远不会满了",
@@ -19329,6 +19369,14 @@
       "onboard_time": 1706847513,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413340,
+      "num": 233493,
+      "word": "肖战看秀look",
+      "onboard_time": 1708675953,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 413265,
@@ -24739,14 +24787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 308670,
-      "num": 308670,
-      "word": "医生回应打HPV疫苗3年后患宫颈癌",
-      "onboard_time": 1708673434,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 308669,
       "num": 308669,
       "word": "贾玲下一部电影有杨紫张小斐",
@@ -26041,6 +26081,14 @@
       "onboard_time": 1708564235,
       "rank": 45,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 292323,
+      "num": 171167,
+      "word": "猎冰导演选择姚安娜的原因",
+      "onboard_time": 1708674872,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 292228,
@@ -33979,6 +34027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219002,
+      "num": 219002,
+      "word": "超8成家长认为防沉迷新规有效",
+      "onboard_time": 1708675835,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218977,
       "num": 218977,
       "word": "派小轩 一场酣畅淋漓的同学聚会",
@@ -35555,6 +35611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 208655,
+      "num": 208655,
+      "word": "西安和青岛可签发往来港澳个人旅游签注",
+      "onboard_time": 1708672896,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 208608,
       "num": 208608,
       "word": "杨紫马丽同款羽毛衫",
@@ -36299,6 +36363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205309,
+      "num": 171002,
+      "word": "李一桐侠女执剑",
+      "onboard_time": 1708674394,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205306,
       "num": 205306,
       "word": "NBA全明星",
@@ -36793,6 +36865,14 @@
       "onboard_time": 1708156590,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203075,
+      "num": 186078,
+      "word": "张卫健 人家明明59",
+      "onboard_time": 1708673493,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 202954,
@@ -37873,14 +37953,6 @@
       "onboard_time": 1707105932,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 198717,
-      "num": 198717,
-      "word": "张艺兴择偶标准变化",
-      "onboard_time": 1708673614,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 198651,
@@ -40851,14 +40923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186078,
-      "num": 186078,
-      "word": "张卫健 人家明明59",
-      "onboard_time": 1708673493,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186033,
       "num": 186033,
       "word": "孕晚期有多辛苦",
@@ -41699,14 +41763,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 181973,
-      "num": 181973,
-      "word": "西安和青岛可签发往来港澳个人旅游签注",
-      "onboard_time": 1708672896,
-      "rank": 37,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 181639,
       "num": 175530,
       "word": "安检一次的辐射到底有多大",
@@ -41825,6 +41881,14 @@
       "onboard_time": 1708585294,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 180713,
+      "num": 169983,
+      "word": "秦海璐的霸总小说有了胡先煦的脸",
+      "onboard_time": 1708674692,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 180703,
@@ -43755,6 +43819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171835,
+      "num": 171835,
+      "word": "无糖汤圆成今年元宵黑马",
+      "onboard_time": 1708676193,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 171784,
       "num": 171784,
       "word": "在暴雪时分集集吻",
@@ -44281,6 +44353,14 @@
       "onboard_time": 1707308076,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 169733,
+      "num": 169733,
+      "word": "小米汽车送北京牌照失实",
+      "onboard_time": 1708673014,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 169730,
@@ -46769,14 +46849,6 @@
       "onboard_time": 1708339000,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 158665,
-      "num": 158665,
-      "word": "小米汽车送北京牌照失实",
-      "onboard_time": 1708673014,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 158634,
@@ -52067,6 +52139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135398,
+      "num": 135398,
+      "word": "虞书欣林一雪中互动",
+      "onboard_time": 1708676372,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 135382,
       "num": 135382,
       "word": "杨幂龚俊笑场花絮",
@@ -53307,6 +53387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129598,
+      "num": 129598,
+      "word": "被贩卖婴儿被洗白身份落户买主家",
+      "onboard_time": 1708676132,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129575,
       "num": 129575,
       "word": "我国脑机接口技术让截瘫患者抓握准确率超90%",
@@ -54537,6 +54625,14 @@
       "onboard_time": 1707680417,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123557,
+      "num": 123557,
+      "word": "迪丽热巴同人图",
+      "onboard_time": 1708676434,
+      "rank": 46,
+      "category": "艺人,动漫"
     },
     {
       "raw_hot": 123511,
@@ -57499,6 +57595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104747,
+      "num": 104747,
+      "word": "走快不爱定律",
+      "onboard_time": 1708673671,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104674,
       "num": 175266,
       "word": "中国队本届游泳世锦赛首金",
@@ -57985,6 +58089,22 @@
       "onboard_time": 1707455731,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98786,
+      "num": 98786,
+      "word": "春节期间手机等流量超60亿GB",
+      "onboard_time": 1708676434,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 98727,
+      "num": 98727,
+      "word": "暗杀教室 渚",
+      "onboard_time": 1708675593,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 98523,
