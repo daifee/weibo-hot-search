@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708756452512,
+  "endTime": 1708759123145,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -416,6 +416,14 @@
       "word": "秦朗舅舅",
       "onboard_time": 1708262796,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2382070,
+      "num": 2382070,
+      "word": "65岁或为延迟退休调整后最终结果",
+      "onboard_time": 1708753472,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -1507,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1265414,
+      "num": 1265414,
+      "word": "樊振东3比0战胜张禹珍",
+      "onboard_time": 1708758570,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1262471,
       "num": 1262471,
       "word": "闹钟没响",
@@ -1803,14 +1819,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1110804,
-      "num": 1110804,
-      "word": "65岁或为延迟退休调整后最终结果",
-      "onboard_time": 1708753472,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1106119,
       "num": 1106119,
       "word": "周杰伦 我只看我想看的",
@@ -1897,6 +1905,14 @@
       "onboard_time": 1708495295,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1072357,
+      "num": 1072357,
+      "word": "樊振东vs张禹珍",
+      "onboard_time": 1708756889,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1068288,
@@ -3203,6 +3219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 711209,
+      "num": 711209,
+      "word": "马龙黄牌",
+      "onboard_time": 1708756051,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 711086,
       "num": 711086,
       "word": "咪蒙出品我在八零年代当后妈",
@@ -3635,6 +3659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 643188,
+      "num": 643188,
+      "word": "樊振东3比0战胜林钟勋",
+      "onboard_time": 1708753054,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 642624,
       "num": 642624,
       "word": "RNG官宣朱开回归",
@@ -3849,6 +3881,14 @@
       "onboard_time": 1708219052,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 619284,
+      "num": 619284,
+      "word": "马龙2比3李尚洙",
+      "onboard_time": 1708756531,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 619099,
@@ -4089,6 +4129,14 @@
       "onboard_time": 1708400438,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 595762,
+      "num": 595762,
+      "word": "成毅公主抱李一桐路透",
+      "onboard_time": 1708756292,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 595646,
@@ -4600,6 +4648,14 @@
       "word": "王源车窗呐喊",
       "onboard_time": 1708662519,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 533559,
+      "num": 533559,
+      "word": "看得出来钟楚曦很满意这次泰国游",
+      "onboard_time": 1708757609,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -5243,6 +5299,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 477718,
+      "num": 477718,
+      "word": "逍遥 谭松韵侯明昊",
+      "onboard_time": 1708756051,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 476943,
       "num": 476943,
       "word": "王楚然古装提灯",
@@ -5305,14 +5369,6 @@
       "onboard_time": 1708749512,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 472945,
-      "num": 472945,
-      "word": "樊振东3比0战胜林钟勋",
-      "onboard_time": 1708753054,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 472730,
@@ -6187,14 +6243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 398556,
-      "num": 398556,
-      "word": "马龙黄牌",
-      "onboard_time": 1708756051,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 396756,
       "num": 396756,
       "word": "我爸的狗和他长得越来越像了",
@@ -6995,6 +7043,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 346865,
+      "num": 346865,
+      "word": "谭松韵逍遥古装",
+      "onboard_time": 1708757973,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 346804,
       "num": 324760,
       "word": "车主曝42万奔驰新车开20公里油门失灵",
@@ -7571,6 +7627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 315164,
+      "num": 315164,
+      "word": "我过年和周深过年的区别",
+      "onboard_time": 1708757909,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315066,
       "num": 315066,
       "word": "老板路过看到我的工位沉默了",
@@ -7897,6 +7961,14 @@
       "onboard_time": 1708495534,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 303393,
+      "num": 303393,
+      "word": "南京火灾小区物业回应架空层停车",
+      "onboard_time": 1708757250,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303140,
@@ -8417,6 +8489,14 @@
       "onboard_time": 1708475433,
       "rank": 24,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 287260,
+      "num": 287260,
+      "word": "樊振东反应太快了",
+      "onboard_time": 1708757490,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 287027,
@@ -10363,14 +10443,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 230426,
-      "num": 230426,
-      "word": "逍遥 谭松韵侯明昊",
-      "onboard_time": 1708756051,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229888,
       "num": 229888,
       "word": "市监局回应老凤祥清洗手镯logo被蹭掉",
@@ -10665,6 +10737,14 @@
       "onboard_time": 1708250372,
       "rank": 42,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 224207,
+      "num": 224207,
+      "word": "为什么讨坏型人格反而更受欢迎",
+      "onboard_time": 1708758271,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 223515,
@@ -11523,14 +11603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208096,
-      "num": 208096,
-      "word": "成毅公主抱李一桐路透",
-      "onboard_time": 1708756292,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208057,
       "num": 208057,
       "word": "上证指数收复3000点大关",
@@ -12313,6 +12385,14 @@
       "onboard_time": 1708335158,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 196810,
+      "num": 196810,
+      "word": "杨紫元宵节照片",
+      "onboard_time": 1708758093,
+      "rank": 29,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 196658,
@@ -13187,6 +13267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185365,
+      "num": 185365,
+      "word": "煲汤炖肉时的漂浮物是精华还是脏东西",
+      "onboard_time": 1708757728,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 185310,
       "num": 185310,
       "word": "C口AirPods或年内推出",
@@ -13249,6 +13337,14 @@
       "onboard_time": 1708347038,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 184485,
+      "num": 184485,
+      "word": "周鸿祎称中美AI差距主要在于确定技术方向",
+      "onboard_time": 1708756773,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 184438,
@@ -13441,6 +13537,14 @@
       "onboard_time": 1708301670,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181857,
+      "num": 181857,
+      "word": "女子连坐20小时车后身亡",
+      "onboard_time": 1708758751,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181506,
@@ -14019,6 +14123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172549,
+      "num": 172549,
+      "word": "数学老师给出每天进步一点变化公式",
+      "onboard_time": 1708758213,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 172512,
       "num": 172512,
       "word": "AG新阵容首战",
@@ -14553,6 +14665,14 @@
       "onboard_time": 1708166912,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165987,
+      "num": 156539,
+      "word": "G社镜头下的肖战",
+      "onboard_time": 1708756712,
+      "rank": 38,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 165890,
@@ -16857,6 +16977,14 @@
       "onboard_time": 1708739551,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126209,
+      "num": 126209,
+      "word": "詹姆斯30分",
+      "onboard_time": 1708758449,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 124787,
