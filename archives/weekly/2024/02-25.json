@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708803237026,
+  "endTime": 1708805786400,
   "band_list": [
     {
       "raw_hot": 2023451,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 67841,
-      "num": 31719,
+      "num": 42027,
       "word": "沙溢修容",
       "onboard_time": 1708800379,
       "rank": 30,
@@ -529,6 +529,22 @@
       "onboard_time": 1708802956,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20920,
+      "num": 20920,
+      "word": "当班主任哭了班里的同学belike",
+      "onboard_time": 1708804397,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 20475,
+      "num": 20475,
+      "word": "为什么理发店里见不到女Tony",
+      "onboard_time": 1708804999,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 16505,
