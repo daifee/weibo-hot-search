@@ -1,6 +1,6 @@
 {
   "startTime": 1708705253127,
-  "endTime": 1708762755036,
+  "endTime": 1708763663602,
   "band_list": [
     {
       "raw_hot": 3207189,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1041167,
+      "num": 1041167,
+      "word": "杨迪金靖情头",
+      "onboard_time": 1708761269,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1039460,
       "num": 1039460,
       "word": "业主开始自己卖房了",
@@ -241,14 +249,6 @@
       "onboard_time": 1708741229,
       "rank": 28,
       "category": "美食"
-    },
-    {
-      "raw_hot": 729124,
-      "num": 729124,
-      "word": "杨迪金靖情头",
-      "onboard_time": 1708761269,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 721142,
@@ -459,6 +459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 483965,
+      "num": 483965,
+      "word": "樊振东连斩韩国一单二单",
+      "onboard_time": 1708761632,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 479638,
       "num": 479638,
       "word": "VOGUE主编章凝离职",
@@ -595,6 +603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 389202,
+      "num": 389202,
+      "word": "高菡解说",
+      "onboard_time": 1708761690,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 379399,
       "num": 379399,
       "word": "主人捡鸡蛋发现鸡被雪埋3天还活着",
@@ -609,6 +625,14 @@
       "onboard_time": 1708750176,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 373407,
+      "num": 373407,
+      "word": "谭松韵首部仙侠剧官宣",
+      "onboard_time": 1708760132,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 369284,
@@ -699,6 +723,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321121,
+      "num": 321121,
+      "word": "刘亦菲将去巴黎时装周",
+      "onboard_time": 1708762588,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 317828,
+      "num": 298961,
+      "word": "专家谈正月剃头死舅舅",
+      "onboard_time": 1708762408,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 314264,
       "num": 314264,
       "word": "警方已控制柳州贩婴事件嫌疑人",
@@ -779,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285929,
+      "num": 285929,
+      "word": "吃汤圆和不吃汤圆的都沉默了",
+      "onboard_time": 1708759648,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 285479,
       "num": 285479,
       "word": "网红杨老二家属称劝酒观众无一人道歉",
@@ -793,14 +841,6 @@
       "onboard_time": 1708697856,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 279153,
-      "num": 279153,
-      "word": "樊振东连斩韩国一单二单",
-      "onboard_time": 1708761632,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 275825,
@@ -819,36 +859,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275467,
-      "num": 275467,
-      "word": "吃汤圆和不吃汤圆的都沉默了",
-      "onboard_time": 1708759648,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 272230,
-      "num": 272230,
-      "word": "高菡解说",
-      "onboard_time": 1708761690,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 266208,
       "num": 207257,
       "word": "苏醒也知道很不体面",
       "onboard_time": 1708697856,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265773,
-      "num": 265773,
-      "word": "谭松韵首部仙侠剧官宣",
-      "onboard_time": 1708760132,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 265174,
@@ -969,6 +985,14 @@
       "onboard_time": 1708709903,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224893,
+      "num": 224893,
+      "word": "暗爽型人格",
+      "onboard_time": 1708761150,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 223029,
@@ -1121,14 +1145,6 @@
       "onboard_time": 1708751612,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197865,
-      "num": 197865,
-      "word": "暗爽型人格",
-      "onboard_time": 1708761150,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 197089,
@@ -1411,14 +1427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160012,
-      "num": 160012,
-      "word": "专家谈正月剃头死舅舅",
-      "onboard_time": 1708762408,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 157375,
       "num": 157375,
       "word": "叛逃至乌的俄飞行员被害细节披露",
@@ -1491,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151832,
+      "num": 1271922,
+      "word": "中国火箭是最硬核的国货",
+      "onboard_time": 1708760730,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 151786,
       "num": 151786,
       "word": "热火鹈鹕冲突",
@@ -1499,12 +1515,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151450,
+      "num": 151450,
+      "word": "杨幂猫猫抬头",
+      "onboard_time": 1708762832,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151258,
       "num": 151258,
       "word": "电影第二十条",
       "onboard_time": 1708740991,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 150399,
+      "num": 150399,
+      "word": "永远记住王楚钦这一球",
+      "onboard_time": 1708763372,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150296,
+      "num": 150296,
+      "word": "王牛 抢票",
+      "onboard_time": 1708763552,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 148125,
@@ -1585,14 +1625,6 @@
       "onboard_time": 1708756231,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135782,
-      "num": 135782,
-      "word": "刘亦菲将去巴黎时装周",
-      "onboard_time": 1708762588,
-      "rank": 44,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 135181,
@@ -1683,14 +1715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 125038,
-      "num": 1271922,
-      "word": "中国火箭是最硬核的国货",
-      "onboard_time": 1708760730,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 123878,
       "num": 123878,
       "word": "南北 229",
@@ -1761,6 +1785,22 @@
       "onboard_time": 1708735469,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119976,
+      "num": 119976,
+      "word": "教授称女性退休年龄延至60岁不能一刀切",
+      "onboard_time": 1708763372,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119711,
+      "num": 119711,
+      "word": "T1对战KT",
+      "onboard_time": 1708763609,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 118116,
