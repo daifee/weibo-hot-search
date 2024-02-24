@@ -1,0 +1,410 @@
+{
+  "runTime": 1708795018898,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1038739,
+        "num": 1038739,
+        "word": "纪凌尘 你喜欢大海我爱过你很浪漫",
+        "onboard_time": 1708785635,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 778067,
+        "num": 778067,
+        "word": "老人偷拍被抓手机有6万张女生照片",
+        "onboard_time": 1708790314,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52551,
+        "num": 673634,
+        "word": "龙年第一轮满月",
+        "onboard_time": 1708779036,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635013,
+        "num": 635013,
+        "word": "孙颖莎陈梦哭了",
+        "onboard_time": 1708787615,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 548749,
+        "num": 548749,
+        "word": "中学生发现微信抢最大红包秘诀",
+        "onboard_time": 1708775013,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521241,
+        "num": 521241,
+        "word": "何炅工作室发了双北",
+        "onboard_time": 1708775013,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 473625,
+        "num": 473625,
+        "word": "央视元宵晚会没有节目单",
+        "onboard_time": 1708792470,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394321,
+        "num": 394321,
+        "word": "国乒女团六连冠",
+        "onboard_time": 1708786004,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377411,
+        "num": 377411,
+        "word": "小品非常满意",
+        "onboard_time": 1708788875,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349872,
+        "num": 349872,
+        "word": "黑龙江佳木斯一高层建筑起火",
+        "onboard_time": 1708789296,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318461,
+        "num": 318461,
+        "word": "戚薇后脑勺被妈妈用书睡平",
+        "onboard_time": 1708787798,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265059,
+        "num": 265059,
+        "word": "詹姆斯看到了王鹤棣",
+        "onboard_time": 1708789713,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264206,
+        "num": 264206,
+        "word": "赵丽颖抽到了沈腾的年货大礼包",
+        "onboard_time": 1708788517,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263798,
+        "num": 263798,
+        "word": "孙颖莎连斩日本第一第二女单",
+        "onboard_time": 1708788757,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241638,
+        "num": 241638,
+        "word": "女团五姐妹抱在了一起",
+        "onboard_time": 1708788398,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238048,
+        "num": 238048,
+        "word": "被迪丽热巴小卡支配的一生",
+        "onboard_time": 1708791153,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208313,
+        "num": 208313,
+        "word": "金风玉露",
+        "onboard_time": 1708785759,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178468,
+        "num": 178468,
+        "word": "河南卫视 上春山",
+        "onboard_time": 1708774958,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169287,
+        "num": 169287,
+        "word": "尼格买提对上了",
+        "onboard_time": 1708777660,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164454,
+        "num": 164454,
+        "word": "第一次见婚纱穿出铠甲的感觉",
+        "onboard_time": 1708793846,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 455366,
+        "num": 163204,
+        "word": "横店悬崖",
+        "onboard_time": 1708785218,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 277359,
+        "num": 161454,
+        "word": "女子假胖20年意外瘦身60斤",
+        "onboard_time": 1708784736,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219275,
+        "num": 160946,
+        "word": "世上最疼的5种病",
+        "onboard_time": 1708790914,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166634,
+        "num": 158463,
+        "word": "何炅给撒贝宁带臭豆腐",
+        "onboard_time": 1708792410,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158381,
+        "num": 158381,
+        "word": "快走操太适合居家减肥了",
+        "onboard_time": 1708789534,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 157250,
+        "num": 157250,
+        "word": "黄旭熙以前是因为太孤单了",
+        "onboard_time": 1708778136,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150099,
+        "num": 150099,
+        "word": "王艺迪0比3平野美宇",
+        "onboard_time": 1708781436,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149228,
+        "num": 149228,
+        "word": "宁采臣澄清粉丝掉下横店悬崖事件",
+        "onboard_time": 1708788339,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 148745,
+        "num": 148745,
+        "word": "热辣滚烫票房",
+        "onboard_time": 1708773393,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145358,
+        "num": 145358,
+        "word": "白敬亭回复弹幕",
+        "onboard_time": 1708769012,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123525,
+        "num": 123525,
+        "word": "原来养活路边摊的还是那批人",
+        "onboard_time": 1708787379,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113804,
+        "num": 113804,
+        "word": "你把长沙的充电桩带回来了",
+        "onboard_time": 1708790555,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112475,
+        "num": 112475,
+        "word": "章凝任期VOGUE中国封面回顾",
+        "onboard_time": 1708792110,
+        "rank": 32,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 110398,
+        "num": 110398,
+        "word": "黄旭熙曾羡慕队友没工作",
+        "onboard_time": 1708781562,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108280,
+        "num": 108280,
+        "word": "马琳",
+        "onboard_time": 1708782218,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108035,
+        "num": 108035,
+        "word": "肖战跨国请客",
+        "onboard_time": 1708776639,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95381,
+        "num": 95381,
+        "word": "贾金龙 坏人",
+        "onboard_time": 1708785336,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94228,
+        "num": 94228,
+        "word": "王曼昱",
+        "onboard_time": 1708771473,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92266,
+        "num": 92266,
+        "word": "孙颖莎定海神针",
+        "onboard_time": 1708789654,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91360,
+        "num": 91360,
+        "word": "papi酱 这个年真的过完了",
+        "onboard_time": 1708771352,
+        "rank": 39,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 86722,
+        "num": 86722,
+        "word": "李健的元宵节限定曲目好应景",
+        "onboard_time": 1708792051,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86177,
+        "num": 86177,
+        "word": "刘国梁给孙颖莎支招",
+        "onboard_time": 1708787078,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85538,
+        "num": 85538,
+        "word": "陈梦vs张本美和",
+        "onboard_time": 1708783476,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83997,
+        "num": 83997,
+        "word": "双北对话梦回明侦",
+        "onboard_time": 1708790134,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81661,
+        "num": 81661,
+        "word": "2024釜山世乒赛团体赛",
+        "onboard_time": 1708789713,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79651,
+        "num": 79651,
+        "word": "合肥地震",
+        "onboard_time": 1708770033,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79504,
+        "num": 79504,
+        "word": "范丞丞给辣条打码",
+        "onboard_time": 1708779817,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70249,
+        "num": 70249,
+        "word": "陈梦1比3早田希娜",
+        "onboard_time": 1708778793,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68229,
+        "num": 68229,
+        "word": "孙颖莎3比0早田希娜",
+        "onboard_time": 1708784979,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65329,
+        "num": 65329,
+        "word": "0713是懂煽情的",
+        "onboard_time": 1708785577,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持召开中央财经委员会第四次会议#"
+    }
+  }
+}
