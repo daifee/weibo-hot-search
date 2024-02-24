@@ -1,6 +1,6 @@
 {
   "startTime": 1708705253127,
-  "endTime": 1708787749571,
+  "endTime": 1708788838941,
   "band_list": [
     {
       "raw_hot": 6165369,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2720564,
+      "num": 2720564,
+      "word": "纪凌尘 你喜欢大海我爱过你很浪漫",
+      "onboard_time": 1708785635,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2631675,
       "num": 2631675,
       "word": "因上班穿的恶心被领导谈话了",
@@ -73,14 +81,6 @@
       "onboard_time": 1708737331,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2573911,
-      "num": 2573911,
-      "word": "纪凌尘 你喜欢大海我爱过你很浪漫",
-      "onboard_time": 1708785635,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 2382070,
@@ -169,6 +169,14 @@
       "onboard_time": 1708777660,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1665157,
+      "num": 1665157,
+      "word": "孙颖莎陈梦哭了",
+      "onboard_time": 1708787615,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 1595304,
@@ -299,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1110222,
+      "num": 590397,
+      "word": "横店悬崖",
+      "onboard_time": 1708785218,
+      "rank": 48,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1108950,
       "num": 1108950,
       "word": "小司藤长大了",
@@ -369,14 +385,6 @@
       "onboard_time": 1708759648,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 967391,
-      "num": 584803,
-      "word": "横店悬崖",
-      "onboard_time": 1708785218,
-      "rank": 48,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 940544,
@@ -747,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 555294,
+      "num": 555294,
+      "word": "戚薇后脑勺被妈妈用书睡平",
+      "onboard_time": 1708787798,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 551662,
       "num": 368367,
       "word": "夫妻得知怀孕后跪谢老中医",
@@ -888,6 +904,14 @@
       "word": "韩国男团心碎一幕",
       "onboard_time": 1708770636,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 480602,
+      "num": 277948,
+      "word": "刘国梁给孙颖莎支招",
+      "onboard_time": 1708787078,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -1195,14 +1219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 363432,
-      "num": 277948,
-      "word": "刘国梁给孙颖莎支招",
-      "onboard_time": 1708787078,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 362827,
       "num": 362827,
       "word": "她的胸怀早已是蓝天大海",
@@ -1379,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307922,
+      "num": 307922,
+      "word": "陈梦扛住了",
+      "onboard_time": 1708787916,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306235,
       "num": 306235,
       "word": "蒲熠星给苏醒开了十年会员",
@@ -1417,6 +1441,14 @@
       "onboard_time": 1708765471,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 296000,
+      "num": 296000,
+      "word": "女团五姐妹抱在了一起",
+      "onboard_time": 1708788398,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 295318,
@@ -1547,6 +1579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270966,
+      "num": 270966,
+      "word": "国乒男团",
+      "onboard_time": 1708787856,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 268909,
       "num": 268909,
       "word": "警方通报广州一地铁口2人打架",
@@ -1576,6 +1616,14 @@
       "word": "为什么讨坏型人格反而更受欢迎",
       "onboard_time": 1708758271,
       "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 264827,
+      "num": 264827,
+      "word": "原来养活路边摊的还是那批人",
+      "onboard_time": 1708787379,
+      "rank": 37,
       "category": "情感"
     },
     {
@@ -1683,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255699,
+      "num": 255699,
+      "word": "宁采臣澄清粉丝掉下横店悬崖事件",
+      "onboard_time": 1708788339,
+      "rank": 34,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 255038,
       "num": 255038,
       "word": "粉丝给迪丽热巴P的女团打歌照",
@@ -1763,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236652,
+      "num": 236652,
+      "word": "王楚钦此球只应天上有",
+      "onboard_time": 1708788577,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232386,
       "num": 232386,
       "word": "朱正廷也被催婚",
@@ -1777,14 +1841,6 @@
       "onboard_time": 1708771352,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231498,
-      "num": 231498,
-      "word": "原来养活路边摊的还是那批人",
-      "onboard_time": 1708787379,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 229226,
@@ -1835,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225514,
+      "num": 225514,
+      "word": "赵丽颖抽到了沈腾的年货大礼包",
+      "onboard_time": 1708788517,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 225254,
       "num": 225254,
       "word": "沙溢是你吗",
@@ -1851,6 +1915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221938,
+      "num": 221938,
+      "word": "BLG战胜JDG",
+      "onboard_time": 1708788339,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 220920,
       "num": 206298,
       "word": "社区回应火灾小区曾被举报有失火隐患",
@@ -1865,6 +1937,14 @@
       "onboard_time": 1708769372,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219886,
+      "num": 219886,
+      "word": "孙颖莎连斩日本第一第二女单",
+      "onboard_time": 1708788757,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 217341,
@@ -2001,14 +2081,6 @@
       "onboard_time": 1708771715,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 206634,
-      "num": 206634,
-      "word": "孙颖莎陈梦哭了",
-      "onboard_time": 1708787615,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 205091,
