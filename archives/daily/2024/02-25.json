@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708801980980,
+  "endTime": 1708803237026,
   "band_list": [
     {
       "raw_hot": 2023451,
@@ -451,20 +451,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67841,
+      "num": 31719,
+      "word": "沙溢修容",
+      "onboard_time": 1708800379,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58685,
       "num": 52375,
       "word": "没想到被撤回了一个行李箱",
       "onboard_time": 1708798040,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 54161,
-      "num": 31719,
-      "word": "沙溢修容",
-      "onboard_time": 1708800379,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 53476,
@@ -499,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27401,
+      "num": 27401,
+      "word": "半分传奇半春秋",
+      "onboard_time": 1708802777,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27095,
       "num": 27095,
       "word": "给老朋友捎上一份家乡的美味",
@@ -507,12 +515,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 18108,
+      "raw_hot": 24616,
       "num": 31719,
       "word": "俄乌冲突两周年",
       "onboard_time": 1708801637,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 22455,
+      "num": 22455,
+      "word": "江苏卫视元宵晚会",
+      "onboard_time": 1708802956,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 16505,
