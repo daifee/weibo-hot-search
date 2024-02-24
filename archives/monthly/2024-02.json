@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708805786400,
+  "endTime": 1708806852069,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -66051,6 +66051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 31620,
+      "num": 31620,
+      "word": "为什么理发店里见不到女Tony",
+      "onboard_time": 1708804999,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 31573,
       "num": 29623,
       "word": "贾玲回眸",
@@ -66507,6 +66515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23895,
+      "num": 23895,
+      "word": "当班主任哭了班里的同学belike",
+      "onboard_time": 1708804397,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 23758,
       "num": 23758,
       "word": "祝绪丹新剧妆造",
@@ -66675,14 +66691,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 20920,
-      "num": 20920,
-      "word": "当班主任哭了班里的同学belike",
-      "onboard_time": 1708804397,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 20860,
       "num": 20860,
       "word": "贾冰韩雪再演夫妻",
@@ -66721,14 +66729,6 @@
       "onboard_time": 1707252616,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 20475,
-      "num": 20475,
-      "word": "为什么理发店里见不到女Tony",
-      "onboard_time": 1708804999,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 20426,
@@ -67057,6 +67057,14 @@
       "onboard_time": 1706727676,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16010,
+      "num": 16010,
+      "word": "牙龈肿痛出血真不是上火",
+      "onboard_time": 1708805896,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 15882,

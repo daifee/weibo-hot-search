@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708805786400,
+  "endTime": 1708806852069,
   "band_list": [
     {
       "raw_hot": 2023451,
@@ -491,6 +491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 31620,
+      "num": 31620,
+      "word": "为什么理发店里见不到女Tony",
+      "onboard_time": 1708804999,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27936,
       "num": 27936,
       "word": "你好星期六",
@@ -523,6 +531,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 23895,
+      "num": 23895,
+      "word": "当班主任哭了班里的同学belike",
+      "onboard_time": 1708804397,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 22455,
       "num": 22455,
       "word": "江苏卫视元宵晚会",
@@ -531,28 +547,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20920,
-      "num": 20920,
-      "word": "当班主任哭了班里的同学belike",
-      "onboard_time": 1708804397,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 20475,
-      "num": 20475,
-      "word": "为什么理发店里见不到女Tony",
-      "onboard_time": 1708804999,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 16505,
       "num": 1379014,
       "word": "元宵节花灯大比拼",
       "onboard_time": 1708743152,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16010,
+      "num": 16010,
+      "word": "牙龈肿痛出血真不是上火",
+      "onboard_time": 1708805896,
+      "rank": 40,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
