@@ -1,0 +1,410 @@
+{
+  "runTime": 1708752838470,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2337490,
+        "num": 2337490,
+        "word": "因上班穿的恶心被领导谈话了",
+        "onboard_time": 1708746690,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1043716,
+        "num": 1043716,
+        "word": "王楚钦1比3张禹珍",
+        "onboard_time": 1708750892,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74239,
+        "num": 1004120,
+        "word": "甲辰龙年闹元宵",
+        "onboard_time": 1708746512,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1068288,
+        "num": 994019,
+        "word": "南京火灾中有一家4人遇难小孩仅4岁",
+        "onboard_time": 1708750413,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 983794,
+        "num": 983794,
+        "word": "苏醒把老婆拉黑了",
+        "onboard_time": 1708739913,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 623053,
+        "num": 623053,
+        "word": "肖战ins",
+        "onboard_time": 1708738713,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589913,
+        "num": 589913,
+        "word": "樊振东vs林钟勋",
+        "onboard_time": 1708752211,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 570930,
+        "num": 570930,
+        "word": "业主开始自己卖房了",
+        "onboard_time": 1708741652,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475068,
+        "num": 475068,
+        "word": "不爱喝茶的年轻人爱上龙井茶汤圆",
+        "onboard_time": 1708750892,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 467914,
+        "num": 467914,
+        "word": "载12人山东籍渔船在东海沉没",
+        "onboard_time": 1708749512,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1673234,
+        "num": 465063,
+        "word": "起火小区30楼孕妇和老公打湿枕套逃生",
+        "onboard_time": 1708746270,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412894,
+        "num": 412894,
+        "word": "安踏正式签约CUBAL",
+        "onboard_time": 1708750111,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407236,
+        "num": 407236,
+        "word": "迪丽热巴Wonderland封面预告",
+        "onboard_time": 1708749572,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 702998,
+        "num": 402721,
+        "word": "南京一小区火灾15人遇难44人受伤",
+        "onboard_time": 1708730060,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380444,
+        "num": 380444,
+        "word": "中公教育4千万元退费缺口急坏学员",
+        "onboard_time": 1708752211,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 352252,
+        "num": 352252,
+        "word": "林俊杰王嘉尔元宵合照",
+        "onboard_time": 1708752031,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340738,
+        "num": 340738,
+        "word": "14岁的施暴者与被伤害者",
+        "onboard_time": 1708744953,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323292,
+        "num": 323292,
+        "word": "榴莲汤圆",
+        "onboard_time": 1708747530,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 320093,
+        "num": 320093,
+        "word": "专家建议应避免早晚食用汤圆",
+        "onboard_time": 1708741229,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 291071,
+        "num": 291071,
+        "word": "王楚然古装提灯",
+        "onboard_time": 1708746872,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416269,
+        "num": 289757,
+        "word": "鸡蛋上最脏的东西你可能吃了",
+        "onboard_time": 1708745669,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 280902,
+        "num": 280902,
+        "word": "00后小伙婚房被爆改后退货需天价",
+        "onboard_time": 1708740392,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252719,
+        "num": 252719,
+        "word": "世乒赛",
+        "onboard_time": 1708750176,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246013,
+        "num": 246013,
+        "word": "南京高楼火灾一家4口裹湿被子成功逃生",
+        "onboard_time": 1708751432,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239839,
+        "num": 239839,
+        "word": "电动车起火后泼水灭火器沙土都无法熄灭",
+        "onboard_time": 1708748909,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236100,
+        "num": 236100,
+        "word": "这是演综不是恋综",
+        "onboard_time": 1708746092,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236026,
+        "num": 236026,
+        "word": "秦岚染发",
+        "onboard_time": 1708735591,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232386,
+        "num": 232386,
+        "word": "朱正廷也被催婚",
+        "onboard_time": 1708751672,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217384,
+        "num": 217384,
+        "word": "杨紫国色芳华花环造型",
+        "onboard_time": 1708748973,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216380,
+        "num": 216380,
+        "word": "肖战超话阅读量破5000亿",
+        "onboard_time": 1708750413,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209345,
+        "num": 209345,
+        "word": "雷军谈底气和信心从何而来",
+        "onboard_time": 1708752211,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 207420,
+        "num": 207420,
+        "word": "南京火灾致15死小区曾被投诉",
+        "onboard_time": 1708751373,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188692,
+        "num": 188692,
+        "word": "元宵节快乐",
+        "onboard_time": 1708732645,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198788,
+        "num": 187922,
+        "word": "杨紫许凯元宵节祝福",
+        "onboard_time": 1708751612,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188845,
+        "num": 186774,
+        "word": "网友拍下南京着火高层住户喊救命",
+        "onboard_time": 1708743873,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180975,
+        "num": 180975,
+        "word": "赵丽颖潘斌龙合照",
+        "onboard_time": 1708747652,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169550,
+        "num": 169550,
+        "word": "王楚钦vs张禹珍",
+        "onboard_time": 1708750111,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168778,
+        "num": 168778,
+        "word": "何家劲承认已婚生女",
+        "onboard_time": 1708743332,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164344,
+        "num": 164344,
+        "word": "当公司来了一只小狗时",
+        "onboard_time": 1708749092,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162299,
+        "num": 162299,
+        "word": "王楚钦连赢8分",
+        "onboard_time": 1708750294,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151169,
+        "num": 151169,
+        "word": "江苏省称要严肃追责问责",
+        "onboard_time": 1708742495,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148742,
+        "num": 148742,
+        "word": "VOGUE主编章凝离职",
+        "onboard_time": 1708737391,
+        "rank": 41,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 142382,
+        "num": 142382,
+        "word": "日本人总结的一些居家小妙招",
+        "onboard_time": 1708747470,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140703,
+        "num": 140703,
+        "word": "想屏蔽老板结果选成了艾特",
+        "onboard_time": 1708751612,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136966,
+        "num": 136966,
+        "word": "南京火灾初查系电动车停放处起火",
+        "onboard_time": 1708729758,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129088,
+        "num": 129088,
+        "word": "杨迪爆改妆跳舞",
+        "onboard_time": 1708749032,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127402,
+        "num": 127402,
+        "word": "安妮海瑟薇宁艺卓黄铉辰同框",
+        "onboard_time": 1708736791,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121736,
+        "num": 121736,
+        "word": "远离青纱帐",
+        "onboard_time": 1708752632,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120164,
+        "num": 120164,
+        "word": "韩国超万名医学生申请休学",
+        "onboard_time": 1708734268,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118277,
+        "num": 118277,
+        "word": "小猫摸摸头 招财不用愁",
+        "onboard_time": 1708749992,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}

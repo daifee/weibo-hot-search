@@ -1,6 +1,6 @@
 {
   "startTime": 1708705253127,
-  "endTime": 1708751815873,
+  "endTime": 1708752838470,
   "band_list": [
     {
       "raw_hot": 3207189,
@@ -83,20 +83,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1068288,
+      "num": 994019,
+      "word": "南京火灾中有一家4人遇难小孩仅4岁",
+      "onboard_time": 1708750413,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1043716,
+      "num": 1043716,
+      "word": "王楚钦1比3张禹珍",
+      "onboard_time": 1708750892,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1039460,
       "num": 1039460,
       "word": "业主开始自己卖房了",
       "onboard_time": 1708741652,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 933198,
-      "num": 933198,
-      "word": "王楚钦1比3张禹珍",
-      "onboard_time": 1708750892,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 908755,
@@ -137,14 +145,6 @@
       "onboard_time": 1708701871,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 804485,
-      "num": 445757,
-      "word": "南京火灾中有一家4人遇难小孩仅4岁",
-      "onboard_time": 1708750413,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 730823,
@@ -217,6 +217,14 @@
       "onboard_time": 1708712958,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 589913,
+      "num": 589913,
+      "word": "樊振东vs林钟勋",
+      "onboard_time": 1708752211,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 524370,
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 475068,
+      "num": 475068,
+      "word": "不爱喝茶的年轻人爱上龙井茶汤圆",
+      "onboard_time": 1708750892,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 473065,
       "num": 473065,
       "word": "载12人山东籍渔船在东海沉没",
@@ -379,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412894,
+      "num": 412894,
+      "word": "安踏正式签约CUBAL",
+      "onboard_time": 1708750111,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 405190,
       "num": 405190,
       "word": "安妮海瑟薇宁艺卓黄铉辰同框",
@@ -393,6 +417,14 @@
       "onboard_time": 1708701934,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 380444,
+      "num": 380444,
+      "word": "中公教育4千万元退费缺口急坏学员",
+      "onboard_time": 1708752211,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 379399,
@@ -419,20 +451,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 352252,
+      "num": 352252,
+      "word": "林俊杰王嘉尔元宵合照",
+      "onboard_time": 1708752031,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 351559,
       "num": 351559,
       "word": "93岁姥爷非要帮铲雪外孙女吓跪了",
       "onboard_time": 1708717817,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 346338,
-      "num": 346338,
-      "word": "安踏正式签约CUBAL",
-      "onboard_time": 1708750111,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 344034,
@@ -505,14 +537,6 @@
       "onboard_time": 1708700136,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 305268,
-      "num": 305268,
-      "word": "不爱喝茶的年轻人爱上龙井茶汤圆",
-      "onboard_time": 1708750892,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 295318,
@@ -619,16 +643,24 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 233518,
-      "num": 233518,
+      "raw_hot": 246013,
+      "num": 246013,
+      "word": "南京高楼火灾一家4口裹湿被子成功逃生",
+      "onboard_time": 1708751432,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239839,
+      "num": 239839,
       "word": "电动车起火后泼水灭火器沙土都无法熄灭",
       "onboard_time": 1708748909,
       "rank": 47,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229759,
-      "num": 229759,
+      "raw_hot": 232386,
+      "num": 232386,
       "word": "朱正廷也被催婚",
       "onboard_time": 1708751672,
       "rank": 27,
@@ -675,6 +707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216380,
+      "num": 216380,
+      "word": "肖战超话阅读量破5000亿",
+      "onboard_time": 1708750413,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215046,
       "num": 215046,
       "word": "水哥出题算是踢到铁板了",
@@ -699,12 +739,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 209345,
+      "num": 209345,
+      "word": "雷军谈底气和信心从何而来",
+      "onboard_time": 1708752211,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 208209,
       "num": 208209,
       "word": "容易长胖的人可能蛋白质没吃够",
       "onboard_time": 1708699234,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 207420,
+      "num": 207420,
+      "word": "南京火灾致15死小区曾被投诉",
+      "onboard_time": 1708751373,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205091,
@@ -739,11 +795,11 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 200328,
-      "num": 200328,
-      "word": "肖战超话阅读量破5000亿",
-      "onboard_time": 1708750413,
-      "rank": 32,
+      "raw_hot": 198788,
+      "num": 187922,
+      "word": "杨紫许凯元宵节祝福",
+      "onboard_time": 1708751612,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -785,14 +841,6 @@
       "onboard_time": 1708701270,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 182045,
-      "num": 182045,
-      "word": "杨紫许凯元宵节祝福",
-      "onboard_time": 1708751612,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 180288,
@@ -915,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164344,
+      "num": 164344,
+      "word": "当公司来了一只小狗时",
+      "onboard_time": 1708749092,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163579,
       "num": 163579,
       "word": "刘耀文张真源严浩翔为丁程鑫庆生",
@@ -987,14 +1043,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 148161,
-      "num": 148161,
-      "word": "当公司来了一只小狗时",
-      "onboard_time": 1708749092,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148125,
       "num": 148125,
       "word": "母女是一种有痛感的关系",
@@ -1035,12 +1083,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141216,
-      "num": 141216,
-      "word": "南京高楼火灾一家4口裹湿被子成功逃生",
-      "onboard_time": 1708751432,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 140703,
+      "num": 140703,
+      "word": "想屏蔽老板结果选成了艾特",
+      "onboard_time": 1708751612,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 138520,
@@ -1099,28 +1147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129974,
-      "num": 129974,
-      "word": "南京火灾致15死小区曾被投诉",
-      "onboard_time": 1708751373,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129496,
       "num": 181189,
       "word": "佛山电翰又开始直播打螺丝了",
       "onboard_time": 1708687171,
       "rank": 28,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 129040,
-      "num": 129040,
-      "word": "想屏蔽老板结果选成了艾特",
-      "onboard_time": 1708751612,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 127516,
@@ -1193,6 +1225,14 @@
       "onboard_time": 1708694013,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121736,
+      "num": 121736,
+      "word": "远离青纱帐",
+      "onboard_time": 1708752632,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 121153,
