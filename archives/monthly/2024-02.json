@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708766108036,
+  "endTime": 1708767252771,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -5803,6 +5803,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1108950,
+      "num": 1108950,
+      "word": "小司藤长大了",
+      "onboard_time": 1708764753,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1108411,
       "num": 1108411,
       "word": "五十度暴雪",
@@ -6537,6 +6545,14 @@
       "onboard_time": 1707387930,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1033601,
+      "num": 1033601,
+      "word": "教授称女性退休年龄延至60岁不能一刀切",
+      "onboard_time": 1708763372,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1032938,
@@ -8051,14 +8067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 886398,
-      "num": 886398,
-      "word": "小司藤长大了",
-      "onboard_time": 1708764753,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 885499,
       "num": 885499,
       "word": "王楚钦粉丝",
@@ -8841,6 +8849,14 @@
       "onboard_time": 1708653096,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 833266,
+      "num": 833266,
+      "word": "王楚钦说庆幸我们还活着",
+      "onboard_time": 1708764632,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 832963,
@@ -10483,14 +10499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 733938,
-      "num": 733938,
-      "word": "教授称女性退休年龄延至60岁不能一刀切",
-      "onboard_time": 1708763372,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 733715,
       "num": 733715,
       "word": "肖战粉丝狂喜",
@@ -10929,14 +10937,6 @@
       "onboard_time": 1708173814,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 715605,
-      "num": 715605,
-      "word": "王楚钦说庆幸我们还活着",
-      "onboard_time": 1708764632,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 715374,
@@ -12628,7 +12628,7 @@
     },
     {
       "raw_hot": 639143,
-      "num": 345376,
+      "num": 359576,
       "word": "女子连坐20小时车后身亡",
       "onboard_time": 1708758751,
       "rank": 34,
@@ -13347,6 +13347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 615323,
+      "num": 615323,
+      "word": "元宵晚会节目单",
+      "onboard_time": 1708763910,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 615180,
       "num": 615180,
       "word": "哇唧唧哇年会",
@@ -13785,14 +13793,6 @@
       "onboard_time": 1707876090,
       "rank": 19,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 595989,
-      "num": 595989,
-      "word": "元宵晚会节目单",
-      "onboard_time": 1708763910,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 595762,
@@ -14577,6 +14577,14 @@
       "onboard_time": 1708054829,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 565178,
+      "num": 565178,
+      "word": "VOGUE新主编",
+      "onboard_time": 1708764452,
+      "rank": 12,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 564754,
@@ -15865,14 +15873,6 @@
       "onboard_time": 1708576958,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 527391,
-      "num": 527391,
-      "word": "VOGUE新主编",
-      "onboard_time": 1708764452,
-      "rank": 12,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 527183,
@@ -17681,6 +17681,14 @@
       "onboard_time": 1707117935,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 478590,
+      "num": 478590,
+      "word": "韩素希随地大小躺",
+      "onboard_time": 1708765531,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 478307,
@@ -20667,6 +20675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 404117,
+      "num": 404117,
+      "word": "朱一龙晒麻将汤圆",
+      "onboard_time": 1708763669,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404034,
       "num": 299160,
       "word": "虞书欣小福娃",
@@ -20808,14 +20824,6 @@
       "word": "惠英红给杨幂画的葫芦",
       "onboard_time": 1706933731,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 401153,
-      "num": 401153,
-      "word": "朱一龙晒麻将汤圆",
-      "onboard_time": 1708763669,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -21140,7 +21148,7 @@
     },
     {
       "raw_hot": 394183,
-      "num": 339314,
+      "num": 355227,
       "word": "专家谈正月剃头死舅舅",
       "onboard_time": 1708762408,
       "rank": 38,
@@ -22467,6 +22475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369394,
+      "num": 369394,
+      "word": "元宵 返校",
+      "onboard_time": 1708766133,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 369284,
       "num": 369284,
       "word": "我过年和周深过年的区别",
@@ -23081,6 +23097,14 @@
       "onboard_time": 1708695633,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 358377,
+      "num": 358377,
+      "word": "王楚钦感谢樊振东",
+      "onboard_time": 1708765953,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 357808,
@@ -24147,6 +24171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338624,
+      "num": 338624,
+      "word": "Hero对战AG",
+      "onboard_time": 1708766731,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 338506,
       "num": 338506,
       "word": "欢乐麻将崩了",
@@ -24321,6 +24353,14 @@
       "onboard_time": 1707473254,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 333174,
+      "num": 556912,
+      "word": "减肥的风潮吹到了元宵",
+      "onboard_time": 1708761330,
+      "rank": 35,
+      "category": "运动健身"
     },
     {
       "raw_hot": 332904,
@@ -24921,14 +24961,6 @@
       "onboard_time": 1708497333,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 323789,
-      "num": 323789,
-      "word": "韩素希随地大小躺",
-      "onboard_time": 1708765531,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 323778,
@@ -26257,14 +26289,6 @@
       "onboard_time": 1708701270,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 305032,
-      "num": 556912,
-      "word": "减肥的风潮吹到了元宵",
-      "onboard_time": 1708761330,
-      "rank": 35,
-      "category": "运动健身"
     },
     {
       "raw_hot": 304981,
@@ -27819,6 +27843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287012,
+      "num": 287012,
+      "word": "72岁老人发现太奶秘密情史",
+      "onboard_time": 1708763969,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 286928,
       "num": 254256,
       "word": "把姐姐爆改成甜妹",
@@ -28963,14 +28995,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 274066,
-      "num": 214433,
-      "word": "72岁老人发现太奶秘密情史",
-      "onboard_time": 1708763969,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 274008,
       "num": 274008,
       "word": "江苏海安一工厂发生爆炸有伤亡",
@@ -29521,6 +29545,14 @@
       "onboard_time": 1707289887,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268909,
+      "num": 268909,
+      "word": "警方通报广州一地铁口2人打架",
+      "onboard_time": 1708765114,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268858,
@@ -31267,6 +31299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 251181,
+      "num": 251181,
+      "word": "特朗普模仿拜登走下舞台",
+      "onboard_time": 1708764571,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 251161,
       "num": 251161,
       "word": "王者荣耀时代少年团直播官宣",
@@ -31849,14 +31889,6 @@
       "onboard_time": 1708405660,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 245793,
-      "num": 245793,
-      "word": "特朗普模仿拜登走下舞台",
-      "onboard_time": 1708764571,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 245703,
@@ -35633,14 +35665,6 @@
       "onboard_time": 1707232653,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219361,
-      "num": 219361,
-      "word": "警方通报广州一地铁口2人打架",
-      "onboard_time": 1708765114,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219322,
@@ -39633,6 +39657,14 @@
       "onboard_time": 1707362250,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199670,
+      "num": 199670,
+      "word": "元宵",
+      "onboard_time": 1708766371,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 199662,
@@ -48331,6 +48363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162325,
+      "num": 162325,
+      "word": "猫毛消失是猫的第二次离开",
+      "onboard_time": 1708766911,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162251,
       "num": 162251,
       "word": "高叶说赵丽颖让她心疼心碎",
@@ -48569,6 +48609,14 @@
       "onboard_time": 1707108994,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 161450,
+      "num": 161450,
+      "word": "王斤斤抽烟镜头",
+      "onboard_time": 1708766371,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 161447,
@@ -51339,6 +51387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149715,
+      "num": 149715,
+      "word": "原来牛肉要横着切才嫩",
+      "onboard_time": 1708766493,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 149647,
       "num": 149647,
       "word": "科比8号雕像单手指天",
@@ -52897,14 +52953,6 @@
       "onboard_time": 1708428634,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143735,
-      "num": 143735,
-      "word": "王楚钦感谢樊振东",
-      "onboard_time": 1708765953,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 143731,
@@ -54489,6 +54537,14 @@
       "onboard_time": 1707187408,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136945,
+      "num": 136945,
+      "word": "樊振东说赢下来对我们非常重要",
+      "onboard_time": 1708766911,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 136923,
@@ -63940,7 +63996,7 @@
     },
     {
       "raw_hot": 45699,
-      "num": 802653,
+      "num": 1047692,
       "word": "龙腾中国 舞动新春",
       "onboard_time": 1708764991,
       "rank": 2,
@@ -66001,6 +66057,14 @@
       "onboard_time": 1707689955,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12251,
+      "num": 347299,
+      "word": "给我一支话筒我能夸辽宁一整天",
+      "onboard_time": 1708767093,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12243,
