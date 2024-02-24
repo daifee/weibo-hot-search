@@ -1,0 +1,410 @@
+{
+  "runTime": 1708792437794,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1733334,
+        "num": 1733334,
+        "word": "纪凌尘 你喜欢大海我爱过你很浪漫",
+        "onboard_time": 1708785635,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1059459,
+        "num": 1059459,
+        "word": "孙颖莎陈梦哭了",
+        "onboard_time": 1708787615,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14209,
+        "num": 998627,
+        "word": "元宵节花灯大比拼",
+        "onboard_time": 1708743152,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965672,
+        "num": 965672,
+        "word": "国乒女团六连冠",
+        "onboard_time": 1708786004,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 861231,
+        "num": 861231,
+        "word": "何炅工作室发了双北",
+        "onboard_time": 1708775013,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 831732,
+        "num": 831732,
+        "word": "中学生发现微信抢最大红包秘诀",
+        "onboard_time": 1708775013,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656758,
+        "num": 656758,
+        "word": "老人偷拍被抓手机有6万张女生照片",
+        "onboard_time": 1708790314,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655306,
+        "num": 655306,
+        "word": "小品非常满意",
+        "onboard_time": 1708788875,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 626682,
+        "num": 626682,
+        "word": "孙颖莎连斩日本第一第二女单",
+        "onboard_time": 1708788757,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 577222,
+        "num": 577222,
+        "word": "戚薇后脑勺被妈妈用书睡平",
+        "onboard_time": 1708787798,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522378,
+        "num": 522378,
+        "word": "赵丽颖抽到了沈腾的年货大礼包",
+        "onboard_time": 1708788517,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 501704,
+        "num": 501704,
+        "word": "黑龙江佳木斯一高层建筑起火",
+        "onboard_time": 1708789296,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497359,
+        "num": 497359,
+        "word": "金风玉露",
+        "onboard_time": 1708785759,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434117,
+        "num": 434117,
+        "word": "女团五姐妹抱在了一起",
+        "onboard_time": 1708788398,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318168,
+        "num": 318168,
+        "word": "河南卫视 上春山",
+        "onboard_time": 1708774958,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317378,
+        "num": 317378,
+        "word": "尼格买提对上了",
+        "onboard_time": 1708777660,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312750,
+        "num": 312750,
+        "word": "詹姆斯看到了王鹤棣",
+        "onboard_time": 1708789713,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302607,
+        "num": 302607,
+        "word": "马琳",
+        "onboard_time": 1708782218,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292554,
+        "num": 292554,
+        "word": "黄旭熙以前是因为太孤单了",
+        "onboard_time": 1708778136,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280654,
+        "num": 280654,
+        "word": "宁采臣澄清粉丝掉下横店悬崖事件",
+        "onboard_time": 1708788339,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 753080,
+        "num": 279567,
+        "word": "横店悬崖",
+        "onboard_time": 1708785218,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 398998,
+        "num": 271933,
+        "word": "女子假胖20年意外瘦身60斤",
+        "onboard_time": 1708784736,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250265,
+        "num": 250265,
+        "word": "被迪丽热巴小卡支配的一生",
+        "onboard_time": 1708791153,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247576,
+        "num": 247576,
+        "word": "世上最疼的5种病",
+        "onboard_time": 1708790914,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241229,
+        "num": 241229,
+        "word": "王艺迪0比3平野美宇",
+        "onboard_time": 1708781436,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237641,
+        "num": 237641,
+        "word": "白敬亭回复弹幕",
+        "onboard_time": 1708769012,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224175,
+        "num": 224175,
+        "word": "热辣滚烫票房",
+        "onboard_time": 1708773393,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217819,
+        "num": 217819,
+        "word": "快走操太适合居家减肥了",
+        "onboard_time": 1708789534,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 213536,
+        "num": 213536,
+        "word": "贾金龙 坏人",
+        "onboard_time": 1708785336,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206066,
+        "num": 206066,
+        "word": "原来养活路边摊的还是那批人",
+        "onboard_time": 1708787379,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190575,
+        "num": 190575,
+        "word": "孙颖莎定海神针",
+        "onboard_time": 1708789654,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185055,
+        "num": 185055,
+        "word": "刘国梁给孙颖莎支招",
+        "onboard_time": 1708787078,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179017,
+        "num": 179017,
+        "word": "肖战跨国请客",
+        "onboard_time": 1708776639,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160548,
+        "num": 160548,
+        "word": "papi酱 这个年真的过完了",
+        "onboard_time": 1708771352,
+        "rank": 33,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 160497,
+        "num": 160497,
+        "word": "孙颖莎采访",
+        "onboard_time": 1708789176,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154279,
+        "num": 154279,
+        "word": "你把长沙的充电桩带回来了",
+        "onboard_time": 1708790555,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154258,
+        "num": 154258,
+        "word": "合肥地震",
+        "onboard_time": 1708770033,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153164,
+        "num": 153164,
+        "word": "双北对话梦回明侦",
+        "onboard_time": 1708790134,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149263,
+        "num": 149263,
+        "word": "黄旭熙曾羡慕队友没工作",
+        "onboard_time": 1708781562,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143696,
+        "num": 143696,
+        "word": "国乒男团",
+        "onboard_time": 1708787856,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140684,
+        "num": 141399,
+        "word": "0713是懂煽情的",
+        "onboard_time": 1708785577,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140844,
+        "num": 140844,
+        "word": "陈梦vs张本美和",
+        "onboard_time": 1708783476,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137906,
+        "num": 137906,
+        "word": "孙颖莎3比0早田希娜",
+        "onboard_time": 1708784979,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136687,
+        "num": 136687,
+        "word": "王曼昱",
+        "onboard_time": 1708771473,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136109,
+        "num": 136109,
+        "word": "李健的元宵节限定曲目好应景",
+        "onboard_time": 1708792051,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135998,
+        "num": 135998,
+        "word": "章凝任期VOGUE中国封面回顾",
+        "onboard_time": 1708792110,
+        "rank": 45,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 128298,
+        "num": 128298,
+        "word": "2024釜山世乒赛团体赛",
+        "onboard_time": 1708789713,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118665,
+        "num": 118665,
+        "word": "王楚钦此球只应天上有",
+        "onboard_time": 1708788577,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113320,
+        "num": 113320,
+        "word": "何炅给撒贝宁带臭豆腐",
+        "onboard_time": 1708792410,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112783,
+        "num": 112783,
+        "word": "范丞丞给辣条打码",
+        "onboard_time": 1708779817,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化是一个国家一个民族的灵魂#"
+    }
+  }
+}
