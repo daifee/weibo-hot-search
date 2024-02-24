@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708736890071,
+  "endTime": 1708738058951,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 2336138,
-      "num": 712265,
+      "num": 864209,
       "word": "父子赌气吃碳酸钡粉儿子身亡",
       "onboard_time": 1708732282,
       "rank": 3,
@@ -1651,6 +1651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1155523,
+      "num": 1155523,
+      "word": "秦岚染发",
+      "onboard_time": 1708735591,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1151275,
       "num": 1151275,
       "word": "车厘子到底是不是大号樱桃",
@@ -2121,14 +2129,6 @@
       "onboard_time": 1708497874,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 950309,
-      "num": 504861,
-      "word": "秦岚染发",
-      "onboard_time": 1708735591,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 948017,
@@ -2793,6 +2793,14 @@
       "onboard_time": 1708314034,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 777154,
+      "num": 777154,
+      "word": "南京市长道歉",
+      "onboard_time": 1708737331,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 775634,
@@ -3795,6 +3803,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 610024,
+      "num": 610024,
+      "word": "韩国超万名医学生申请休学",
+      "onboard_time": 1708734268,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609137,
       "num": 609137,
       "word": "钟楚曦泰国plog",
@@ -4161,14 +4177,6 @@
       "onboard_time": 1708414118,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 562423,
-      "num": 562423,
-      "word": "韩国超万名医学生申请休学",
-      "onboard_time": 1708734268,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 562294,
@@ -4825,6 +4833,14 @@
       "onboard_time": 1708244313,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497707,
+      "num": 497707,
+      "word": "香港自由行率先开放西安青岛",
+      "onboard_time": 1708735230,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 496826,
@@ -6563,6 +6579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 352521,
+      "num": 352521,
+      "word": "VOGUE主编章凝离职",
+      "onboard_time": 1708737391,
+      "rank": 15,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 352505,
       "num": 352505,
       "word": "白鹿说妈妈是自己粉头",
@@ -6835,14 +6859,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 335662,
-      "num": 335662,
-      "word": "香港自由行率先开放西安青岛",
-      "onboard_time": 1708735230,
-      "rank": 14,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 335129,
       "num": 335129,
       "word": "罗云熙银发出妆",
@@ -6921,6 +6937,14 @@
       "onboard_time": 1708320755,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 330702,
+      "num": 330702,
+      "word": "安妮海瑟薇宁艺卓黄铉辰同框",
+      "onboard_time": 1708736791,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 330243,
@@ -7241,6 +7265,14 @@
       "onboard_time": 1708505854,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 314264,
+      "num": 314264,
+      "word": "警方已控制柳州贩婴事件嫌疑人",
+      "onboard_time": 1708734629,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313897,
@@ -7795,6 +7827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 295318,
+      "num": 295318,
+      "word": "元宵节文案",
+      "onboard_time": 1708724237,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295316,
       "num": 295316,
       "word": "陈浩民老婆浮潜受伤",
@@ -7809,14 +7849,6 @@
       "onboard_time": 1708229554,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 293798,
-      "num": 293798,
-      "word": "元宵节文案",
-      "onboard_time": 1708724237,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293554,
@@ -8787,6 +8819,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 262336,
+      "num": 236292,
+      "word": "肖战mai合影",
+      "onboard_time": 1708735952,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 262240,
       "num": 262240,
       "word": "考研成绩2月26日可查",
@@ -8809,14 +8849,6 @@
       "onboard_time": 1708686272,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 261305,
-      "num": 261305,
-      "word": "警方已控制柳州贩婴事件嫌疑人",
-      "onboard_time": 1708734629,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 260775,
@@ -9691,14 +9723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 236292,
-      "num": 236292,
-      "word": "肖战mai合影",
-      "onboard_time": 1708735952,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 236019,
       "num": 236019,
       "word": "事实证明鸭绒的羽绒服也不暖和",
@@ -9971,6 +9995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229263,
+      "num": 229263,
+      "word": "原来元宵节才是古人的情人节",
+      "onboard_time": 1708735890,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228782,
       "num": 228782,
       "word": "边伯贤抢票",
@@ -10083,6 +10115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227078,
+      "num": 227078,
+      "word": "任正非曾公开支持姚安娜搞文艺",
+      "onboard_time": 1708709903,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227037,
       "num": 227037,
       "word": "今夜星光灿烂",
@@ -10121,14 +10161,6 @@
       "onboard_time": 1708529554,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 225893,
-      "num": 225893,
-      "word": "任正非曾公开支持姚安娜搞文艺",
-      "onboard_time": 1708709903,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 225827,
@@ -11539,6 +11571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200762,
+      "num": 200762,
+      "word": "元宵节祝福",
+      "onboard_time": 1708737571,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200656,
       "num": 200656,
       "word": "WB零封EDGM",
@@ -12857,14 +12897,6 @@
       "onboard_time": 1708573779,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180793,
-      "num": 180793,
-      "word": "安妮海瑟薇宁艺卓黄铉辰同框",
-      "onboard_time": 1708736791,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 180728,
@@ -14787,6 +14819,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 151908,
+      "num": 151908,
+      "word": "王鹤棣回应成为追星赢家",
+      "onboard_time": 1708735591,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151876,
       "num": 151876,
       "word": "苏翊鸣训练帅到飞起",
@@ -15203,6 +15243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145494,
+      "num": 145494,
+      "word": "哪种元宵汤圆馅最受欢迎",
+      "onboard_time": 1708732163,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 145380,
       "num": 145380,
       "word": "魏大勋扶额苦笑但夹子音",
@@ -15435,14 +15483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141411,
-      "num": 141411,
-      "word": "原来元宵节才是古人的情人节",
-      "onboard_time": 1708735890,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141344,
       "num": 141344,
       "word": "陈楚生以为要拿一个不回头奖",
@@ -15473,14 +15513,6 @@
       "onboard_time": 1708466057,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140747,
-      "num": 140747,
-      "word": "哪种元宵汤圆馅最受欢迎",
-      "onboard_time": 1708732163,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 140220,
@@ -15715,6 +15747,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 135181,
+      "num": 135181,
+      "word": "如果一个人周五没那么高兴",
+      "onboard_time": 1708733307,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135142,
       "num": 135142,
       "word": "这小说是非写不可吗",
@@ -15875,14 +15915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131375,
-      "num": 131375,
-      "word": "王鹤棣回应成为追星赢家",
-      "onboard_time": 1708735591,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131300,
       "num": 131300,
       "word": "官方回应3员工在公司讲粤语被罚5000",
@@ -16019,6 +16051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127238,
+      "num": 127238,
+      "word": "春楠 热辣滚烫最不值一提的是减重",
+      "onboard_time": 1708714698,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127138,
       "num": 127138,
       "word": "重回上上周五",
@@ -16033,14 +16073,6 @@
       "onboard_time": 1708519833,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 126414,
-      "num": 126414,
-      "word": "如果一个人周五没那么高兴",
-      "onboard_time": 1708733307,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 124787,
@@ -16163,6 +16195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120883,
+      "num": 120883,
+      "word": "找到了兔子帽的正确用法",
+      "onboard_time": 1708735469,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119972,
       "num": 125817,
       "word": "上海市第二中学通报",
@@ -16257,14 +16297,6 @@
       "onboard_time": 1708187607,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115383,
-      "num": 115383,
-      "word": "春楠 热辣滚烫最不值一提的是减重",
-      "onboard_time": 1708714698,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 115379,
@@ -16515,6 +16547,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 99275,
+      "num": 99275,
+      "word": "孙千黑长直",
+      "onboard_time": 1708734748,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 99171,
       "num": 99171,
       "word": "大年初四为了谈结婚请客的事吵架",
@@ -16625,14 +16665,6 @@
       "onboard_time": 1708187305,
       "rank": 45,
       "category": "运动健身,作品衍生"
-    },
-    {
-      "raw_hot": 86565,
-      "num": 86565,
-      "word": "找到了兔子帽的正确用法",
-      "onboard_time": 1708735469,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 86537,
@@ -17443,6 +17475,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 27444,
+      "num": 891529,
+      "word": "空间站里都有哪些科学装置",
+      "onboard_time": 1708693833,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25428,
       "num": 48653,
       "word": "十四冬开幕式今日举行",
@@ -17473,14 +17513,6 @@
       "onboard_time": 1708716556,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 24113,
-      "num": 712310,
-      "word": "空间站里都有哪些科学装置",
-      "onboard_time": 1708693833,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23916,

@@ -1,6 +1,6 @@
 {
   "startTime": 1708705253127,
-  "endTime": 1708736890071,
+  "endTime": 1708738058951,
   "band_list": [
     {
       "raw_hot": 2843900,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2336138,
-      "num": 712265,
+      "num": 864209,
       "word": "父子赌气吃碳酸钡粉儿子身亡",
       "onboard_time": 1708732282,
       "rank": 3,
@@ -35,8 +35,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 950309,
-      "num": 504861,
+      "raw_hot": 1155523,
+      "num": 1155523,
       "word": "秦岚染发",
       "onboard_time": 1708735591,
       "rank": 10,
@@ -57,6 +57,14 @@
       "onboard_time": 1708701871,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 777154,
+      "num": 777154,
+      "word": "南京市长道歉",
+      "onboard_time": 1708737331,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 721142,
@@ -91,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 610024,
+      "num": 610024,
+      "word": "韩国超万名医学生申请休学",
+      "onboard_time": 1708734268,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608168,
       "num": 608168,
       "word": "官方回应女浴室门口图片被吐槽变态",
@@ -104,14 +120,6 @@
       "word": "南京火灾小区曾因电动车停放引发投诉",
       "onboard_time": 1708733787,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 562423,
-      "num": 562423,
-      "word": "韩国超万名医学生申请休学",
-      "onboard_time": 1708734268,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -155,6 +163,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 497707,
+      "num": 497707,
+      "word": "香港自由行率先开放西安青岛",
+      "onboard_time": 1708735230,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 466471,
       "num": 466471,
       "word": "汪东城回应吴尊",
@@ -187,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352521,
+      "num": 352521,
+      "word": "VOGUE主编章凝离职",
+      "onboard_time": 1708737391,
+      "rank": 15,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 351559,
       "num": 351559,
       "word": "93岁姥爷非要帮铲雪外孙女吓跪了",
@@ -201,14 +225,6 @@
       "onboard_time": 1708682435,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 335662,
-      "num": 335662,
-      "word": "香港自由行率先开放西安青岛",
-      "onboard_time": 1708735230,
-      "rank": 14,
-      "category": "旅游"
     },
     {
       "raw_hot": 333959,
@@ -227,6 +243,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330702,
+      "num": 330702,
+      "word": "安妮海瑟薇宁艺卓黄铉辰同框",
+      "onboard_time": 1708736791,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 314264,
+      "num": 314264,
+      "word": "警方已控制柳州贩婴事件嫌疑人",
+      "onboard_time": 1708734629,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 313493,
       "num": 253349,
       "word": "聊天记录真的不能向上翻",
@@ -243,8 +275,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 293798,
-      "num": 293798,
+      "raw_hot": 295318,
+      "num": 295318,
       "word": "元宵节文案",
       "onboard_time": 1708724237,
       "rank": 25,
@@ -291,20 +323,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 261305,
-      "num": 261305,
-      "word": "警方已控制柳州贩婴事件嫌疑人",
-      "onboard_time": 1708734629,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236292,
+      "raw_hot": 262336,
       "num": 236292,
       "word": "肖战mai合影",
       "onboard_time": 1708735952,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229263,
+      "num": 229263,
+      "word": "原来元宵节才是古人的情人节",
+      "onboard_time": 1708735890,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 227612,
@@ -315,8 +347,8 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 225893,
-      "num": 225893,
+      "raw_hot": 227078,
+      "num": 227078,
       "word": "任正非曾公开支持姚安娜搞文艺",
       "onboard_time": 1708709903,
       "rank": 4,
@@ -337,6 +369,14 @@
       "onboard_time": 1708699234,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 200762,
+      "num": 200762,
+      "word": "元宵节祝福",
+      "onboard_time": 1708737571,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 200674,
@@ -360,14 +400,6 @@
       "word": "Hanni米兰时装周",
       "onboard_time": 1708701270,
       "rank": 26,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 180793,
-      "num": 180793,
-      "word": "安妮海瑟薇宁艺卓黄铉辰同框",
-      "onboard_time": 1708736791,
-      "rank": 25,
       "category": "作品衍生"
     },
     {
@@ -443,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151908,
+      "num": 151908,
+      "word": "王鹤棣回应成为追星赢家",
+      "onboard_time": 1708735591,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148125,
       "num": 148125,
       "word": "母女是一种有痛感的关系",
@@ -451,28 +491,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145494,
+      "num": 145494,
+      "word": "哪种元宵汤圆馅最受欢迎",
+      "onboard_time": 1708732163,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 142192,
       "num": 171019,
       "word": "早上和老板说怀孕下午就被降薪",
       "onboard_time": 1708685554,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 141411,
-      "num": 141411,
-      "word": "原来元宵节才是古人的情人节",
-      "onboard_time": 1708735890,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 140747,
-      "num": 140747,
-      "word": "哪种元宵汤圆馅最受欢迎",
-      "onboard_time": 1708732163,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 138520,
@@ -491,12 +523,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 131375,
-      "num": 131375,
-      "word": "王鹤棣回应成为追星赢家",
-      "onboard_time": 1708735591,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 135181,
+      "num": 135181,
+      "word": "如果一个人周五没那么高兴",
+      "onboard_time": 1708733307,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 129496,
@@ -507,12 +539,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 126414,
-      "num": 126414,
-      "word": "如果一个人周五没那么高兴",
-      "onboard_time": 1708733307,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 127238,
+      "num": 127238,
+      "word": "春楠 热辣滚烫最不值一提的是减重",
+      "onboard_time": 1708714698,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 125550,
@@ -555,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120883,
+      "num": 120883,
+      "word": "找到了兔子帽的正确用法",
+      "onboard_time": 1708735469,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117982,
       "num": 148198,
       "word": "预示癌症的20个症状",
@@ -569,14 +609,6 @@
       "onboard_time": 1708735408,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 115383,
-      "num": 115383,
-      "word": "春楠 热辣滚烫最不值一提的是减重",
-      "onboard_time": 1708714698,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 112160,
@@ -627,19 +659,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 99275,
+      "num": 99275,
+      "word": "孙千黑长直",
+      "onboard_time": 1708734748,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 88439,
       "num": 122757,
       "word": "不会断句的网友把博物馆逼得改名",
       "onboard_time": 1708694735,
       "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 86565,
-      "num": 86565,
-      "word": "找到了兔子帽的正确用法",
-      "onboard_time": 1708735469,
-      "rank": 47,
       "category": "幽默"
     },
     {
@@ -779,20 +811,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27444,
+      "num": 891529,
+      "word": "空间站里都有哪些科学装置",
+      "onboard_time": 1708693833,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24303,
       "num": 24303,
       "word": "张艺兴全英文新歌",
       "onboard_time": 1708716556,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 24113,
-      "num": 712310,
-      "word": "空间站里都有哪些科学装置",
-      "onboard_time": 1708693833,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17319,
