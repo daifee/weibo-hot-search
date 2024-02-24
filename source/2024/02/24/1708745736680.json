@@ -1,0 +1,410 @@
+{
+  "runTime": 1708745736680,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2165218,
+        "num": 2165218,
+        "word": "南京一小区火灾15人遇难44人受伤",
+        "onboard_time": 1708730060,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1608224,
+        "num": 1608224,
+        "word": "苏醒把老婆拉黑了",
+        "onboard_time": 1708739913,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96117,
+        "num": 1251790,
+        "word": "元宵节花灯大比拼",
+        "onboard_time": 1708743152,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1031271,
+        "num": 1031271,
+        "word": "业主开始自己卖房了",
+        "onboard_time": 1708741652,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 978224,
+        "num": 978224,
+        "word": "00后小伙婚房被爆改后退货需天价",
+        "onboard_time": 1708740392,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908755,
+        "num": 908755,
+        "word": "何家劲承认已婚生女",
+        "onboard_time": 1708743332,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 900966,
+        "num": 900966,
+        "word": "肖战ins",
+        "onboard_time": 1708738713,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 730823,
+        "num": 730823,
+        "word": "专家建议应避免早晚食用汤圆",
+        "onboard_time": 1708741229,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 500536,
+        "num": 500536,
+        "word": "江苏省称要严肃追责问责",
+        "onboard_time": 1708742495,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474526,
+        "num": 474526,
+        "word": "秦岚染发",
+        "onboard_time": 1708735591,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1849020,
+        "num": 469160,
+        "word": "南京市长道歉",
+        "onboard_time": 1708737331,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874669,
+        "num": 462622,
+        "word": "网友拍下南京着火高层住户喊救命",
+        "onboard_time": 1708743873,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421102,
+        "num": 421102,
+        "word": "元宵节快乐",
+        "onboard_time": 1708732645,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362827,
+        "num": 362827,
+        "word": "她的胸怀早已是蓝天大海",
+        "onboard_time": 1708742553,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 308409,
+        "num": 308409,
+        "word": "烧麦判官火了朱正廷瑟瑟发抖",
+        "onboard_time": 1708744050,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295258,
+        "num": 295258,
+        "word": "主人捡鸡蛋发现鸡被雪埋3天还活着",
+        "onboard_time": 1708737871,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289209,
+        "num": 289209,
+        "word": "VOGUE主编章凝离职",
+        "onboard_time": 1708737391,
+        "rank": 16,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 247370,
+        "num": 247370,
+        "word": "韩国超万名医学生申请休学",
+        "onboard_time": 1708734268,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242437,
+        "num": 242437,
+        "word": "南京起火小区已发生过两次火灾",
+        "onboard_time": 1708738292,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238011,
+        "num": 238011,
+        "word": "伊万科维奇出任国足主帅",
+        "onboard_time": 1708745611,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263805,
+        "num": 233297,
+        "word": "任嘉伦邢菲双人海报",
+        "onboard_time": 1708745132,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217675,
+        "num": 217675,
+        "word": "王一博甩衣摆回眸",
+        "onboard_time": 1708742673,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210655,
+        "num": 210655,
+        "word": "鸡蛋上最脏的东西你可能吃了",
+        "onboard_time": 1708745669,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208289,
+        "num": 208289,
+        "word": "安妮海瑟薇宁艺卓黄铉辰同框",
+        "onboard_time": 1708736791,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204178,
+        "num": 204178,
+        "word": "贾玲说如果重拍你好李焕英会更有电影感",
+        "onboard_time": 1708694793,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196472,
+        "num": 196472,
+        "word": "肖战文淇身高差",
+        "onboard_time": 1708733365,
+        "rank": 25,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 195676,
+        "num": 195676,
+        "word": "热辣滚烫拳赛催泪闪回瞬间",
+        "onboard_time": 1708745011,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193293,
+        "num": 193293,
+        "word": "特朗普被罚4.54亿美元",
+        "onboard_time": 1708739133,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 188559,
+        "num": 188559,
+        "word": "元宵只有黑芝麻和其它",
+        "onboard_time": 1708743029,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 173616,
+        "num": 173616,
+        "word": "炎亚纶捏紧了拳头",
+        "onboard_time": 1708731022,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165759,
+        "num": 165759,
+        "word": "14岁的施暴者与被伤害者",
+        "onboard_time": 1708744953,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162818,
+        "num": 162818,
+        "word": "结婚30周年丈夫单膝跪地送上金手镯",
+        "onboard_time": 1708742191,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161633,
+        "num": 161633,
+        "word": "原来元宵节才是古人的情人节",
+        "onboard_time": 1708735890,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152817,
+        "num": 152817,
+        "word": "勇士续约科尔",
+        "onboard_time": 1708745371,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152696,
+        "num": 152696,
+        "word": "南京火灾初查系电动车停放处起火",
+        "onboard_time": 1708729758,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146315,
+        "num": 146315,
+        "word": "张杰开年新歌是龙上线",
+        "onboard_time": 1708743810,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144003,
+        "num": 144003,
+        "word": "聊天记录真的不能向上翻",
+        "onboard_time": 1708730360,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143758,
+        "num": 143758,
+        "word": "世界讨厌香菜日",
+        "onboard_time": 1708741953,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143242,
+        "num": 143242,
+        "word": "肖战领口一年比一年低",
+        "onboard_time": 1708701993,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142187,
+        "num": 142187,
+        "word": "汤圆",
+        "onboard_time": 1708741652,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139525,
+        "num": 139525,
+        "word": "香港自由行率先开放西安青岛",
+        "onboard_time": 1708735230,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 137384,
+        "num": 137384,
+        "word": "元宵节文案",
+        "onboard_time": 1708724237,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136837,
+        "num": 136837,
+        "word": "南京火灾小区超10层楼外立面焦黑",
+        "onboard_time": 1708739315,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135643,
+        "num": 135643,
+        "word": "任正非曾公开支持姚安娜搞文艺",
+        "onboard_time": 1708709903,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133977,
+        "num": 133977,
+        "word": "病态需求回避型自闭症",
+        "onboard_time": 1708742612,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 133691,
+        "num": 133691,
+        "word": "有个拆台的老婆是什么感觉",
+        "onboard_time": 1708741112,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132319,
+        "num": 132319,
+        "word": "俄军A50预警机被击落",
+        "onboard_time": 1708745492,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 130965,
+        "num": 130965,
+        "word": "网友4年前曾反映起火小区火灾隐患",
+        "onboard_time": 1708744771,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129967,
+        "num": 129967,
+        "word": "电影第二十条",
+        "onboard_time": 1708740991,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129763,
+        "num": 129763,
+        "word": "刘耀文张真源严浩翔为丁程鑫庆生",
+        "onboard_time": 1708742975,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持召开中央财经委员会第四次会议#"
+    }
+  }
+}

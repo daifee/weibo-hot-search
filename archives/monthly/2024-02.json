@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708744779227,
+  "endTime": 1708745736680,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -7667,6 +7667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 908755,
+      "num": 908755,
+      "word": "何家劲承认已婚生女",
+      "onboard_time": 1708743332,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 908750,
       "num": 908750,
       "word": "白色橄榄树全阵容官宣",
@@ -7753,6 +7761,14 @@
       "onboard_time": 1707441988,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 900966,
+      "num": 900966,
+      "word": "肖战ins",
+      "onboard_time": 1708738713,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 899582,
@@ -8112,6 +8128,14 @@
       "word": "哈尔滨10岁女童失踪13年后嫌疑人落网",
       "onboard_time": 1707181110,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 874669,
+      "num": 462622,
+      "word": "网友拍下南京着火高层住户喊救命",
+      "onboard_time": 1708743873,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -9715,14 +9739,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 773078,
-      "num": 368564,
-      "word": "何家劲承认已婚生女",
-      "onboard_time": 1708743332,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 772879,
       "num": 772879,
       "word": "叶舒华因健康原因暂停所有活动",
@@ -10387,6 +10403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 730823,
+      "num": 730823,
+      "word": "专家建议应避免早晚食用汤圆",
+      "onboard_time": 1708741229,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 730807,
       "num": 730807,
       "word": "没有血缘关系也能长得像",
@@ -11025,14 +11049,6 @@
       "onboard_time": 1707397652,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 702505,
-      "num": 702505,
-      "word": "肖战ins",
-      "onboard_time": 1708738713,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 700794,
@@ -13563,14 +13579,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 596254,
-      "num": 368378,
-      "word": "网友拍下南京着火高层住户喊救命",
-      "onboard_time": 1708743873,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 595646,
       "num": 595646,
       "word": "原子弹爆炸后她架机2次冲向蘑菇云",
@@ -13897,14 +13905,6 @@
       "onboard_time": 1707800076,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 582126,
-      "num": 582126,
-      "word": "专家建议应避免早晚食用汤圆",
-      "onboard_time": 1708741229,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 581600,
@@ -16529,6 +16529,14 @@
       "onboard_time": 1707525216,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 500536,
+      "num": 500536,
+      "word": "江苏省称要严肃追责问责",
+      "onboard_time": 1708742495,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 500505,
@@ -22443,6 +22451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 362827,
+      "num": 362827,
+      "word": "她的胸怀早已是蓝天大海",
+      "onboard_time": 1708742553,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 362746,
       "num": 362746,
       "word": "贾玲镜头下都是人而不是符号",
@@ -22745,14 +22761,6 @@
       "onboard_time": 1708692452,
       "rank": 19,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 356692,
-      "num": 356692,
-      "word": "江苏省称要严肃追责问责",
-      "onboard_time": 1708742495,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 356405,
@@ -23553,14 +23561,6 @@
       "onboard_time": 1707107913,
       "rank": 21,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 341732,
-      "num": 341732,
-      "word": "她的胸怀早已是蓝天大海",
-      "onboard_time": 1708742553,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 341713,
@@ -25545,6 +25545,14 @@
       "onboard_time": 1707266852,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 308409,
+      "num": 308409,
+      "word": "烧麦判官火了朱正廷瑟瑟发抖",
+      "onboard_time": 1708744050,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 308257,
@@ -28739,14 +28747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271460,
-      "num": 271460,
-      "word": "烧麦判官火了朱正廷瑟瑟发抖",
-      "onboard_time": 1708744050,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 271384,
       "num": 271384,
       "word": "billkin抢票",
@@ -29441,6 +29441,14 @@
       "onboard_time": 1708048232,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 263805,
+      "num": 233297,
+      "word": "任嘉伦邢菲双人海报",
+      "onboard_time": 1708745132,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 263616,
@@ -32257,6 +32265,14 @@
       "onboard_time": 1708230757,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 238011,
+      "num": 238011,
+      "word": "伊万科维奇出任国足主帅",
+      "onboard_time": 1708745611,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 237988,
@@ -36347,6 +36363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210655,
+      "num": 210655,
+      "word": "鸡蛋上最脏的东西你可能吃了",
+      "onboard_time": 1708745669,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 210606,
       "num": 210606,
       "word": "刘诗诗流苏大衣",
@@ -39843,6 +39867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195676,
+      "num": 195676,
+      "word": "热辣滚烫拳赛催泪闪回瞬间",
+      "onboard_time": 1708745011,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195655,
       "num": 195655,
       "word": "普通人变优秀最直接的方法",
@@ -41681,6 +41713,14 @@
       "onboard_time": 1707564275,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188559,
+      "num": 188559,
+      "word": "元宵只有黑芝麻和其它",
+      "onboard_time": 1708743029,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 188504,
@@ -44819,14 +44859,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 173576,
-      "num": 173576,
-      "word": "元宵只有黑芝麻和其它",
-      "onboard_time": 1708743029,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 173551,
       "num": 173551,
       "word": "闪耀暖暖流麻变色裙子",
@@ -46745,6 +46777,14 @@
       "onboard_time": 1707380849,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165759,
+      "num": 165759,
+      "word": "14岁的施暴者与被伤害者",
+      "onboard_time": 1708744953,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165745,
@@ -49689,6 +49729,14 @@
       "onboard_time": 1707483611,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 152817,
+      "num": 152817,
+      "word": "勇士续约科尔",
+      "onboard_time": 1708745371,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 152785,
@@ -54531,6 +54579,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 132319,
+      "num": 132319,
+      "word": "俄军A50预警机被击落",
+      "onboard_time": 1708745492,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 132318,
       "num": 128013,
       "word": "换乘恋爱3",
@@ -54809,6 +54865,14 @@
       "onboard_time": 1707655472,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130965,
+      "num": 130965,
+      "word": "网友4年前曾反映起火小区火灾隐患",
+      "onboard_time": 1708744771,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130864,
@@ -56969,14 +57033,6 @@
       "onboard_time": 1707235829,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120619,
-      "num": 120619,
-      "word": "网友4年前曾反映起火小区火灾隐患",
-      "onboard_time": 1708744771,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120557,
@@ -60171,6 +60227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96117,
+      "num": 1389743,
+      "word": "元宵节花灯大比拼",
+      "onboard_time": 1708743152,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95831,
       "num": 95831,
       "word": "给宠物正骨会有什么反应",
@@ -60729,14 +60793,6 @@
       "onboard_time": 1707441266,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 87990,
-      "num": 1389743,
-      "word": "元宵节花灯大比拼",
-      "onboard_time": 1708743152,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87977,
