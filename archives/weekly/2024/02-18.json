@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708759123145,
+  "endTime": 1708760051891,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -1179,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1466980,
+      "num": 1466980,
+      "word": "樊振东3比0战胜张禹珍",
+      "onboard_time": 1708758570,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1459513,
       "num": 1459513,
       "word": "这个月 头等舱空姐污名化",
@@ -1513,14 +1521,6 @@
       "onboard_time": 1708250313,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1265414,
-      "num": 1265414,
-      "word": "樊振东3比0战胜张禹珍",
-      "onboard_time": 1708758570,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1262471,
@@ -2275,6 +2275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 940544,
+      "num": 940544,
+      "word": "王楚钦vs林钟勋",
+      "onboard_time": 1708759172,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 936720,
       "num": 936720,
       "word": "高合创始人承认翻身窗口期仅剩3个月",
@@ -2992,6 +3000,14 @@
       "word": "想看BTS退伍结果注册成了士兵",
       "onboard_time": 1708343435,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 761045,
+      "num": 761045,
+      "word": "看得出来钟楚曦很满意这次泰国游",
+      "onboard_time": 1708757609,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -4651,14 +4667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 533559,
-      "num": 533559,
-      "word": "看得出来钟楚曦很满意这次泰国游",
-      "onboard_time": 1708757609,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 531886,
       "num": 531886,
       "word": "下月要还的房贷会立刻减少吗",
@@ -5555,12 +5563,28 @@
       "category": "社会新闻,运动健身"
     },
     {
+      "raw_hot": 450217,
+      "num": 450217,
+      "word": "谭松韵逍遥古装",
+      "onboard_time": 1708757973,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 449098,
       "num": 416331,
       "word": "3个月4个苹果副总裁离职",
       "onboard_time": 1708570174,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 448236,
+      "num": 315155,
+      "word": "女子连坐20小时车后身亡",
+      "onboard_time": 1708758751,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 447365,
@@ -6683,6 +6707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369284,
+      "num": 369284,
+      "word": "我过年和周深过年的区别",
+      "onboard_time": 1708757909,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368946,
       "num": 368946,
       "word": "iG对战BLG",
@@ -7041,14 +7073,6 @@
       "onboard_time": 1708586674,
       "rank": 23,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 346865,
-      "num": 346865,
-      "word": "谭松韵逍遥古装",
-      "onboard_time": 1708757973,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 346804,
@@ -7625,14 +7649,6 @@
       "onboard_time": 1708505012,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 315164,
-      "num": 315164,
-      "word": "我过年和周深过年的区别",
-      "onboard_time": 1708757909,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 315066,
@@ -9203,6 +9219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 265174,
+      "num": 265174,
+      "word": "为什么讨坏型人格反而更受欢迎",
+      "onboard_time": 1708758271,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 264809,
       "num": 264809,
       "word": "方正证券被爆料涉事人员已离职",
@@ -9617,6 +9641,14 @@
       "onboard_time": 1708355677,
       "rank": 42,
       "category": "体育,健康医疗"
+    },
+    {
+      "raw_hot": 249989,
+      "num": 249989,
+      "word": "吃汤圆和不吃汤圆的都沉默了",
+      "onboard_time": 1708759648,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 249727,
@@ -10737,14 +10769,6 @@
       "onboard_time": 1708250372,
       "rank": 42,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 224207,
-      "num": 224207,
-      "word": "为什么讨坏型人格反而更受欢迎",
-      "onboard_time": 1708758271,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 223515,
@@ -11899,6 +11923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204082,
+      "num": 204082,
+      "word": "樊振东夺得两分",
+      "onboard_time": 1708759234,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204003,
       "num": 179865,
       "word": "种地吧2开播",
@@ -12987,6 +13019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189373,
+      "num": 189373,
+      "word": "乒乓球直播",
+      "onboard_time": 1708759411,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189359,
       "num": 189359,
       "word": "珉佑直播",
@@ -13537,14 +13577,6 @@
       "onboard_time": 1708301670,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 181857,
-      "num": 181857,
-      "word": "女子连坐20小时车后身亡",
-      "onboard_time": 1708758751,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 181506,
@@ -14865,6 +14897,14 @@
       "onboard_time": 1708527577,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 162949,
+      "num": 162949,
+      "word": "詹姆斯在王鹤棣面前摔倒了",
+      "onboard_time": 1708759648,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 162810,
@@ -17339,6 +17379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 108331,
+      "num": 108331,
+      "word": "乔杉把熊出没的苹果分给了贾玲",
+      "onboard_time": 1708759953,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108008,
       "num": 125011,
       "word": "民警人工导航解救沙尘暴被困车辆",
@@ -17409,6 +17457,14 @@
       "onboard_time": 1708535004,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105937,
+      "num": 105937,
+      "word": "十大动漫人气男角色",
+      "onboard_time": 1708760010,
+      "rank": 49,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 105915,

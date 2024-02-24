@@ -1,0 +1,410 @@
+{
+  "runTime": 1708760051891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2281806,
+        "num": 2281806,
+        "word": "65岁或为延迟退休调整后最终结果",
+        "onboard_time": 1708753472,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1466980,
+        "num": 1466980,
+        "word": "樊振东3比0战胜张禹珍",
+        "onboard_time": 1708758570,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64558,
+        "num": 1058675,
+        "word": "甲辰龙年闹元宵",
+        "onboard_time": 1708746512,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 940544,
+        "num": 940544,
+        "word": "王楚钦vs林钟勋",
+        "onboard_time": 1708759172,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 790974,
+        "num": 790974,
+        "word": "王小利回应被儿子断绝关系",
+        "onboard_time": 1708752927,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 761045,
+        "num": 761045,
+        "word": "看得出来钟楚曦很满意这次泰国游",
+        "onboard_time": 1708757609,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598509,
+        "num": 598509,
+        "word": "马龙黄牌",
+        "onboard_time": 1708756051,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 589011,
+        "num": 589011,
+        "word": "樊振东vs张禹珍",
+        "onboard_time": 1708756889,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 575633,
+        "num": 575633,
+        "word": "何炅撒贝宁元宵晚会坐一桌",
+        "onboard_time": 1708753352,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 563344,
+        "num": 563344,
+        "word": "苏醒把老婆拉黑了",
+        "onboard_time": 1708739913,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1179585,
+        "num": 548252,
+        "word": "因上班穿的恶心被领导谈话了",
+        "onboard_time": 1708746690,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 520214,
+        "num": 520214,
+        "word": "成毅公主抱李一桐路透",
+        "onboard_time": 1708756292,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 501153,
+        "num": 501153,
+        "word": "马龙2比3李尚洙",
+        "onboard_time": 1708756531,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 472796,
+        "num": 472796,
+        "word": "王楚钦1比3张禹珍",
+        "onboard_time": 1708750892,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 450217,
+        "num": 450217,
+        "word": "谭松韵逍遥古装",
+        "onboard_time": 1708757973,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405133,
+        "num": 405133,
+        "word": "樊振东3比0战胜林钟勋",
+        "onboard_time": 1708753054,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397935,
+        "num": 397935,
+        "word": "业主开始自己卖房了",
+        "onboard_time": 1708741652,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395016,
+        "num": 395016,
+        "word": "逍遥 谭松韵侯明昊",
+        "onboard_time": 1708756051,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369284,
+        "num": 369284,
+        "word": "我过年和周深过年的区别",
+        "onboard_time": 1708757909,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320286,
+        "num": 320286,
+        "word": "马龙vs李尚洙",
+        "onboard_time": 1708753594,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448236,
+        "num": 315155,
+        "word": "女子连坐20小时车后身亡",
+        "onboard_time": 1708758751,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294076,
+        "num": 294076,
+        "word": "南京火灾小区物业回应架空层停车",
+        "onboard_time": 1708757250,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289695,
+        "num": 289695,
+        "word": "世乒赛",
+        "onboard_time": 1708750176,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276806,
+        "num": 276806,
+        "word": "南京一小区火灾15人遇难44人受伤",
+        "onboard_time": 1708730060,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265174,
+        "num": 265174,
+        "word": "为什么讨坏型人格反而更受欢迎",
+        "onboard_time": 1708758271,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251557,
+        "num": 251557,
+        "word": "不爱喝茶的年轻人爱上龙井茶汤圆",
+        "onboard_time": 1708750892,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 249989,
+        "num": 249989,
+        "word": "吃汤圆和不吃汤圆的都沉默了",
+        "onboard_time": 1708759648,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 242822,
+        "num": 242822,
+        "word": "樊振东反应太快了",
+        "onboard_time": 1708757490,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236522,
+        "num": 236522,
+        "word": "Cat杨幂终于当队友了",
+        "onboard_time": 1708755212,
+        "rank": 28,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 204082,
+        "num": 204082,
+        "word": "樊振东夺得两分",
+        "onboard_time": 1708759234,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204076,
+        "num": 204076,
+        "word": "鸡蛋上最脏的东西你可能吃了",
+        "onboard_time": 1708745669,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191806,
+        "num": 191806,
+        "word": "秦岚染发",
+        "onboard_time": 1708735591,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189373,
+        "num": 189373,
+        "word": "乒乓球直播",
+        "onboard_time": 1708759411,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174426,
+        "num": 174426,
+        "word": "杨紫元宵节照片",
+        "onboard_time": 1708758093,
+        "rank": 33,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 174310,
+        "num": 174310,
+        "word": "肖战ins",
+        "onboard_time": 1708738713,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414864,
+        "num": 171291,
+        "word": "中公教育4千万元退费缺口急坏学员",
+        "onboard_time": 1708752211,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162949,
+        "num": 162949,
+        "word": "詹姆斯在王鹤棣面前摔倒了",
+        "onboard_time": 1708759648,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158286,
+        "num": 158286,
+        "word": "煲汤炖肉时的漂浮物是精华还是脏东西",
+        "onboard_time": 1708757728,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 154984,
+        "num": 154984,
+        "word": "周鸿祎称中美AI差距主要在于确定技术方向",
+        "onboard_time": 1708756773,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165765,
+        "num": 154913,
+        "word": "G社镜头下的肖战",
+        "onboard_time": 1708756712,
+        "rank": 39,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 151074,
+        "num": 151074,
+        "word": "乌尔善晒封神海报",
+        "onboard_time": 1708754972,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143372,
+        "num": 143372,
+        "word": "周冬雨素颜回眸",
+        "onboard_time": 1708756412,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142323,
+        "num": 142323,
+        "word": "数学老师给出每天进步一点变化公式",
+        "onboard_time": 1708758213,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140386,
+        "num": 140386,
+        "word": "专家建议应避免早晚食用汤圆",
+        "onboard_time": 1708741229,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135066,
+        "num": 135066,
+        "word": "江西小炒为什么在浙江火了",
+        "onboard_time": 1708754731,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128151,
+        "num": 128151,
+        "word": "南京高楼火灾一家4口裹湿被子成功逃生",
+        "onboard_time": 1708751432,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120939,
+        "num": 120939,
+        "word": "大英博物馆的缅甸展",
+        "onboard_time": 1708754071,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 112601,
+        "num": 112601,
+        "word": "林俊杰王嘉尔元宵合照",
+        "onboard_time": 1708752031,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108331,
+        "num": 108331,
+        "word": "乔杉把熊出没的苹果分给了贾玲",
+        "onboard_time": 1708759953,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105937,
+        "num": 105937,
+        "word": "十大动漫人气男角色",
+        "onboard_time": 1708760010,
+        "rank": 49,
+        "category": "动漫,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持召开中央财经委员会第四次会议#"
+    }
+  }
+}
