@@ -1,0 +1,410 @@
+{
+  "runTime": 1708778577961,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3182398,
+        "num": 3182398,
+        "word": "何炅工作室发了双北",
+        "onboard_time": 1708775013,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2014568,
+        "num": 2014568,
+        "word": "陈梦 早田希娜",
+        "onboard_time": 1708776274,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49512,
+        "num": 1912321,
+        "word": "龙腾中国 舞动新春",
+        "onboard_time": 1708764991,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1855340,
+        "num": 1855340,
+        "word": "河南卫视 上春山",
+        "onboard_time": 1708774958,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1340252,
+        "num": 1340252,
+        "word": "元宵节",
+        "onboard_time": 1708776457,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1231484,
+        "num": 1231484,
+        "word": "央视元宵晚会",
+        "onboard_time": 1708773933,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1115563,
+        "num": 1115563,
+        "word": "湖南卫视相声 尴尬",
+        "onboard_time": 1708776696,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1070982,
+        "num": 1070982,
+        "word": "papi酱 这个年真的过完了",
+        "onboard_time": 1708771352,
+        "rank": 7,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 1035937,
+        "num": 1035937,
+        "word": "尼格买提对上了",
+        "onboard_time": 1708777660,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 918318,
+        "num": 918318,
+        "word": "中学生发现微信抢最大红包秘诀",
+        "onboard_time": 1708775013,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 870517,
+        "num": 870517,
+        "word": "何炅撒贝宁合体",
+        "onboard_time": 1708776938,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 785079,
+        "num": 785079,
+        "word": "合肥地震",
+        "onboard_time": 1708770033,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801333,
+        "num": 741647,
+        "word": "元宵晚会节目单",
+        "onboard_time": 1708763910,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 609232,
+        "num": 609232,
+        "word": "迪丽热巴元宵素颜自拍",
+        "onboard_time": 1708774357,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516855,
+        "num": 516855,
+        "word": "孙颖莎 张本美和",
+        "onboard_time": 1708772793,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20667,
+        "num": 500898,
+        "word": "哪位幸运儿抽中京东元宵节大奖",
+        "onboard_time": 1708776395,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 555870,
+        "num": 500695,
+        "word": "邓男子吐金鱼",
+        "onboard_time": 1708777355,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522762,
+        "num": 500652,
+        "word": "肖战跨国请客",
+        "onboard_time": 1708776639,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500468,
+        "num": 500468,
+        "word": "国际公认的5个强致癌物",
+        "onboard_time": 1708776156,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166585,
+        "num": 462664,
+        "word": "元宵节拍月亮",
+        "onboard_time": 1708778258,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21098,
+        "num": 441109,
+        "word": "元宵灯会惊现山海神兽",
+        "onboard_time": 1708777177,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432767,
+        "num": 432767,
+        "word": "专家谈正月剃头死舅舅",
+        "onboard_time": 1708762408,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 419472,
+        "num": 419472,
+        "word": "黄旭熙以前是因为太孤单了",
+        "onboard_time": 1708778136,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 414505,
+        "num": 414505,
+        "word": "白敬亭回复弹幕",
+        "onboard_time": 1708769012,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311703,
+        "num": 311703,
+        "word": "因上班穿的恶心被领导谈话了",
+        "onboard_time": 1708746690,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 391214,
+        "num": 310828,
+        "word": "唐嫣紫色",
+        "onboard_time": 1708776760,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301666,
+        "num": 301666,
+        "word": "国乒男团3比2韩国",
+        "onboard_time": 1708760432,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300815,
+        "num": 300815,
+        "word": "夫妻得知怀孕后跪谢老中医",
+        "onboard_time": 1708769492,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288256,
+        "num": 288256,
+        "word": "人类分娩的痛苦和危险性是最高的",
+        "onboard_time": 1708776814,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 282780,
+        "num": 282780,
+        "word": "热辣滚烫票房",
+        "onboard_time": 1708773393,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282475,
+        "num": 282475,
+        "word": "ty要当爸爸了",
+        "onboard_time": 1708769012,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276256,
+        "num": 276256,
+        "word": "钟楚曦 不会上恋综",
+        "onboard_time": 1708771893,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264356,
+        "num": 264356,
+        "word": "元宵节满车都是碎掉的大学生",
+        "onboard_time": 1708767990,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255038,
+        "num": 255038,
+        "word": "粉丝给迪丽热巴P的女团打歌照",
+        "onboard_time": 1708776579,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244968,
+        "num": 244968,
+        "word": "韩国男团心碎一幕",
+        "onboard_time": 1708770636,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237619,
+        "num": 237619,
+        "word": "湖南卫视元宵喜乐会",
+        "onboard_time": 1708773393,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225390,
+        "num": 225390,
+        "word": "安妮海瑟薇在秀场社交的视频",
+        "onboard_time": 1708776996,
+        "rank": 36,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 217341,
+        "num": 217341,
+        "word": "只有小狗能让肖战回头",
+        "onboard_time": 1708776156,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105676,
+        "num": 203551,
+        "word": "北京锦芳元宵一天卖出8万斤",
+        "onboard_time": 1708773334,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114066,
+        "num": 202442,
+        "word": "南京下决心化解安置房历史欠账问题",
+        "onboard_time": 1708778018,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201382,
+        "num": 201382,
+        "word": "女版梅长苏",
+        "onboard_time": 1708770513,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200081,
+        "num": 200081,
+        "word": "JDG对战BLG",
+        "onboard_time": 1708778497,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194717,
+        "num": 194717,
+        "word": "小司藤长大了",
+        "onboard_time": 1708764753,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185867,
+        "num": 185867,
+        "word": "热辣滚烫 送你一朵小红花",
+        "onboard_time": 1708773095,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184803,
+        "num": 184803,
+        "word": "王曼昱",
+        "onboard_time": 1708771473,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183077,
+        "num": 183077,
+        "word": "央视元宵晚会直播",
+        "onboard_time": 1708778375,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179296,
+        "num": 179296,
+        "word": "湖南卫视元宵喜乐会直播",
+        "onboard_time": 1708777836,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178320,
+        "num": 178320,
+        "word": "以前的元宵节能放三十天假",
+        "onboard_time": 1708773817,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177495,
+        "num": 177495,
+        "word": "孙颖莎对阵张本美和4连胜",
+        "onboard_time": 1708776395,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161130,
+        "num": 161130,
+        "word": "回老家后花的钱反而更多了",
+        "onboard_time": 1708774715,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持召开中央财经委员会第四次会议#"
+    }
+  }
+}
