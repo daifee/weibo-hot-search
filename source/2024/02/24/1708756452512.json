@@ -1,0 +1,410 @@
+{
+  "runTime": 1708756452512,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2117762,
+        "num": 2117762,
+        "word": "马龙vs李尚洙",
+        "onboard_time": 1708753594,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1295358,
+        "num": 1295358,
+        "word": "王小利回应被儿子断绝关系",
+        "onboard_time": 1708752927,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70310,
+        "num": 1159232,
+        "word": "甲辰龙年闹元宵",
+        "onboard_time": 1708746512,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1110804,
+        "num": 1110804,
+        "word": "65岁或为延迟退休调整后最终结果",
+        "onboard_time": 1708753472,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1008630,
+        "num": 1008630,
+        "word": "何炅撒贝宁元宵晚会坐一桌",
+        "onboard_time": 1708753352,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 813862,
+        "num": 813862,
+        "word": "南京火灾中有一家4人遇难小孩仅4岁",
+        "onboard_time": 1708750413,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743717,
+        "num": 743717,
+        "word": "中公教育4千万元退费缺口急坏学员",
+        "onboard_time": 1708752211,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 707108,
+        "num": 707108,
+        "word": "苏醒把老婆拉黑了",
+        "onboard_time": 1708739913,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 558176,
+        "num": 558176,
+        "word": "王楚钦1比3张禹珍",
+        "onboard_time": 1708750892,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 533962,
+        "num": 533962,
+        "word": "不爱喝茶的年轻人爱上龙井茶汤圆",
+        "onboard_time": 1708750892,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1469540,
+        "num": 516255,
+        "word": "因上班穿的恶心被领导谈话了",
+        "onboard_time": 1708746690,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1109238,
+        "num": 508718,
+        "word": "起火小区30楼孕妇和老公打湿枕套逃生",
+        "onboard_time": 1708746270,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472945,
+        "num": 472945,
+        "word": "樊振东3比0战胜林钟勋",
+        "onboard_time": 1708753054,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443290,
+        "num": 443290,
+        "word": "Cat杨幂终于当队友了",
+        "onboard_time": 1708755212,
+        "rank": 13,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 38219,
+        "num": 410299,
+        "word": "十四冬显眼包",
+        "onboard_time": 1708754433,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398556,
+        "num": 398556,
+        "word": "马龙黄牌",
+        "onboard_time": 1708756051,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386036,
+        "num": 386036,
+        "word": "南京一小区火灾15人遇难44人受伤",
+        "onboard_time": 1708730060,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385735,
+        "num": 385735,
+        "word": "业主开始自己卖房了",
+        "onboard_time": 1708741652,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375592,
+        "num": 375592,
+        "word": "世乒赛",
+        "onboard_time": 1708750176,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339952,
+        "num": 339952,
+        "word": "肖战ins",
+        "onboard_time": 1708738713,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337017,
+        "num": 337017,
+        "word": "乌尔善晒封神海报",
+        "onboard_time": 1708754972,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 330047,
+        "num": 330047,
+        "word": "鸡蛋上最脏的东西你可能吃了",
+        "onboard_time": 1708745669,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 280635,
+        "num": 280635,
+        "word": "恋与深空",
+        "onboard_time": 1708754611,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239661,
+        "num": 239661,
+        "word": "林俊杰王嘉尔元宵合照",
+        "onboard_time": 1708752031,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230426,
+        "num": 230426,
+        "word": "逍遥 谭松韵侯明昊",
+        "onboard_time": 1708756051,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229647,
+        "num": 229647,
+        "word": "秦岚染发",
+        "onboard_time": 1708735591,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208096,
+        "num": 208096,
+        "word": "成毅公主抱李一桐路透",
+        "onboard_time": 1708756292,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201423,
+        "num": 201423,
+        "word": "王楚然古装提灯",
+        "onboard_time": 1708746872,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191981,
+        "num": 191981,
+        "word": "南京高楼火灾一家4口裹湿被子成功逃生",
+        "onboard_time": 1708751432,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191289,
+        "num": 191289,
+        "word": "江西小炒为什么在浙江火了",
+        "onboard_time": 1708754731,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206928,
+        "num": 191129,
+        "word": "大英博物馆的缅甸展",
+        "onboard_time": 1708754071,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 190547,
+        "num": 190547,
+        "word": "湖人战胜马刺",
+        "onboard_time": 1708755510,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190218,
+        "num": 190218,
+        "word": "专家建议应避免早晚食用汤圆",
+        "onboard_time": 1708741229,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184099,
+        "num": 184099,
+        "word": "周冬雨素颜回眸",
+        "onboard_time": 1708756412,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181317,
+        "num": 181317,
+        "word": "迪丽热巴Wonderland封面预告",
+        "onboard_time": 1708749572,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174793,
+        "num": 174793,
+        "word": "载12人山东籍渔船在东海沉没",
+        "onboard_time": 1708749512,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172400,
+        "num": 172400,
+        "word": "孙千白衬衫短裙",
+        "onboard_time": 1708754793,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168138,
+        "num": 168138,
+        "word": "南京火灾致15死小区曾被投诉",
+        "onboard_time": 1708751373,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166090,
+        "num": 166090,
+        "word": "00后小伙婚房被爆改后退货需天价",
+        "onboard_time": 1708740392,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162042,
+        "num": 162042,
+        "word": "妈妈可以为自己而活",
+        "onboard_time": 1708754731,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153719,
+        "num": 153719,
+        "word": "热辣滚烫里乐莹看不见的伤",
+        "onboard_time": 1708755152,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152045,
+        "num": 152045,
+        "word": "年度最受欢迎动漫女角色",
+        "onboard_time": 1708755273,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 144725,
+        "num": 144725,
+        "word": "朱正廷也被催婚",
+        "onboard_time": 1708751672,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144295,
+        "num": 144295,
+        "word": "元宵节快乐",
+        "onboard_time": 1708732645,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137540,
+        "num": 137540,
+        "word": "杨幂元宵营业照",
+        "onboard_time": 1708756231,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136900,
+        "num": 136900,
+        "word": "肖战超话阅读量破5000亿",
+        "onboard_time": 1708750413,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134106,
+        "num": 134106,
+        "word": "这是演综不是恋综",
+        "onboard_time": 1708746092,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122542,
+        "num": 122542,
+        "word": "安踏正式签约CUBAL",
+        "onboard_time": 1708750111,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122089,
+        "num": 122089,
+        "word": "杨紫许凯元宵节祝福",
+        "onboard_time": 1708751612,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118438,
+        "num": 118438,
+        "word": "曝詹娜布克旧情复燃",
+        "onboard_time": 1708754189,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持召开中央财经委员会第四次会议#"
+    }
+  }
+}
