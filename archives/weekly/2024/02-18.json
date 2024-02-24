@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708738058951,
+  "endTime": 1708739929349,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3207189,
+      "num": 3207189,
+      "word": "南京一小区火灾15人遇难44人受伤",
+      "onboard_time": 1708730060,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3206281,
       "num": 1702669,
       "word": "疑似出轨学生女教师丈夫问话笔录流出",
@@ -225,14 +233,6 @@
       "onboard_time": 1708505257,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2843900,
-      "num": 2843900,
-      "word": "南京一小区火灾15人遇难44人受伤",
-      "onboard_time": 1708730060,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2767941,
@@ -335,6 +335,14 @@
       "num": 2517884,
       "word": "苏州高架",
       "onboard_time": 1708648955,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2508791,
+      "num": 2508791,
+      "word": "南京市长道歉",
+      "onboard_time": 1708737331,
       "rank": 4,
       "category": "社会新闻"
     },
@@ -2795,14 +2803,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 777154,
-      "num": 777154,
-      "word": "南京市长道歉",
-      "onboard_time": 1708737331,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 775634,
       "num": 775634,
       "word": "国际金价下跌为何国内金价坚挺",
@@ -3499,6 +3499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 643590,
+      "num": 643590,
+      "word": "韩国超万名医学生申请休学",
+      "onboard_time": 1708734268,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642624,
       "num": 642624,
       "word": "RNG官宣朱开回归",
@@ -3561,6 +3569,14 @@
       "onboard_time": 1708607496,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 636358,
+      "num": 636358,
+      "word": "肖战ins",
+      "onboard_time": 1708738713,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 635759,
@@ -3803,11 +3819,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 610024,
-      "num": 610024,
-      "word": "韩国超万名医学生申请休学",
-      "onboard_time": 1708734268,
-      "rank": 7,
+      "raw_hot": 609777,
+      "num": 588524,
+      "word": "南京火灾小区曾因电动车停放引发投诉",
+      "onboard_time": 1708733787,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -4001,14 +4017,6 @@
       "onboard_time": 1708268018,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 588524,
-      "num": 588524,
-      "word": "南京火灾小区曾因电动车停放引发投诉",
-      "onboard_time": 1708733787,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 587697,
@@ -4747,6 +4755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504551,
+      "num": 504551,
+      "word": "香港自由行率先开放西安青岛",
+      "onboard_time": 1708735230,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 504385,
       "num": 504385,
       "word": "你们以为的甜 都是我们的剧本",
@@ -4833,14 +4849,6 @@
       "onboard_time": 1708244313,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 497707,
-      "num": 497707,
-      "word": "香港自由行率先开放西安青岛",
-      "onboard_time": 1708735230,
-      "rank": 14,
-      "category": "旅游"
     },
     {
       "raw_hot": 496826,
@@ -5041,6 +5049,14 @@
       "onboard_time": 1708495295,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 479223,
+      "num": 479223,
+      "word": "VOGUE主编章凝离职",
+      "onboard_time": 1708737391,
+      "rank": 15,
+      "category": "时尚"
     },
     {
       "raw_hot": 478927,
@@ -5347,6 +5363,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 440809,
+      "num": 440809,
+      "word": "南京起火小区已发生过两次火灾",
+      "onboard_time": 1708738292,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439863,
       "num": 439863,
       "word": "不要学姐姐 你没有开明的爸妈",
@@ -5553,6 +5577,14 @@
       "onboard_time": 1708234296,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 425737,
+      "num": 425737,
+      "word": "特朗普被罚4.54亿美元",
+      "onboard_time": 1708739133,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 425316,
@@ -5809,6 +5841,14 @@
       "onboard_time": 1708243053,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 405190,
+      "num": 405190,
+      "word": "安妮海瑟薇宁艺卓黄铉辰同框",
+      "onboard_time": 1708736791,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 404183,
@@ -6579,14 +6619,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 352521,
-      "num": 352521,
-      "word": "VOGUE主编章凝离职",
-      "onboard_time": 1708737391,
-      "rank": 15,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 352505,
       "num": 352505,
       "word": "白鹿说妈妈是自己粉头",
@@ -6937,14 +6969,6 @@
       "onboard_time": 1708320755,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 330702,
-      "num": 330702,
-      "word": "安妮海瑟薇宁艺卓黄铉辰同框",
-      "onboard_time": 1708736791,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 330243,
@@ -8137,6 +8161,14 @@
       "onboard_time": 1708707445,
       "rank": 19,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 285306,
+      "num": 285306,
+      "word": "原来元宵节才是古人的情人节",
+      "onboard_time": 1708735890,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 284832,
@@ -9907,6 +9939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 231494,
+      "num": 231494,
+      "word": "主人捡鸡蛋发现鸡被雪埋3天还活着",
+      "onboard_time": 1708737871,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231442,
       "num": 231442,
       "word": "FPX战胜LNG",
@@ -9993,14 +10033,6 @@
       "onboard_time": 1708686992,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 229263,
-      "num": 229263,
-      "word": "原来元宵节才是古人的情人节",
-      "onboard_time": 1708735890,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 228782,
@@ -10681,6 +10713,14 @@
       "onboard_time": 1708478136,
       "rank": 38,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 215558,
+      "num": 215558,
+      "word": "苏醒把老婆拉黑了",
+      "onboard_time": 1708739913,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 215353,
@@ -14819,8 +14859,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 151908,
-      "num": 151908,
+      "raw_hot": 151939,
+      "num": 151939,
       "word": "王鹤棣回应成为追星赢家",
       "onboard_time": 1708735591,
       "rank": 33,
@@ -15545,6 +15585,14 @@
       "onboard_time": 1708696956,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 139865,
+      "num": 139865,
+      "word": "南京火灾小区超10层楼外立面焦黑",
+      "onboard_time": 1708739315,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139826,
@@ -16515,6 +16563,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101856,
+      "num": 101856,
+      "word": "苏醒文韬双大脑谈判",
+      "onboard_time": 1708739551,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 101107,
+      "num": 101107,
+      "word": "龙年元宵国风海报",
+      "onboard_time": 1708739252,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100053,
       "num": 660364,
       "word": "华为Pocket2大溪地灰",
@@ -17476,7 +17540,7 @@
     },
     {
       "raw_hot": 27444,
-      "num": 891529,
+      "num": 1481130,
       "word": "空间站里都有哪些科学装置",
       "onboard_time": 1708693833,
       "rank": 32,

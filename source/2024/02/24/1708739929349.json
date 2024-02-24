@@ -1,0 +1,410 @@
+{
+  "runTime": 1708739929349,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3207189,
+        "num": 3207189,
+        "word": "南京一小区火灾15人遇难44人受伤",
+        "onboard_time": 1708730060,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2508791,
+        "num": 2508791,
+        "word": "南京市长道歉",
+        "onboard_time": 1708737331,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24593,
+        "num": 1481130,
+        "word": "空间站里都有哪些科学装置",
+        "onboard_time": 1708693833,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 951237,
+        "num": 951237,
+        "word": "秦岚染发",
+        "onboard_time": 1708735591,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 643590,
+        "num": 643590,
+        "word": "韩国超万名医学生申请休学",
+        "onboard_time": 1708734268,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636358,
+        "num": 636358,
+        "word": "肖战ins",
+        "onboard_time": 1708738713,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622307,
+        "num": 622307,
+        "word": "元宵节快乐",
+        "onboard_time": 1708732645,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579873,
+        "num": 579873,
+        "word": "3月1日起快递不得擅自放驿站",
+        "onboard_time": 1708693833,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504551,
+        "num": 504551,
+        "word": "香港自由行率先开放西安青岛",
+        "onboard_time": 1708735230,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 479223,
+        "num": 479223,
+        "word": "VOGUE主编章凝离职",
+        "onboard_time": 1708737391,
+        "rank": 9,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 609777,
+        "num": 463834,
+        "word": "南京火灾小区曾因电动车停放引发投诉",
+        "onboard_time": 1708733787,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440809,
+        "num": 440809,
+        "word": "南京起火小区已发生过两次火灾",
+        "onboard_time": 1708738292,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425737,
+        "num": 425737,
+        "word": "特朗普被罚4.54亿美元",
+        "onboard_time": 1708739133,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 405190,
+        "num": 405190,
+        "word": "安妮海瑟薇宁艺卓黄铉辰同框",
+        "onboard_time": 1708736791,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 402426,
+        "num": 402426,
+        "word": "官方回应女浴室门口图片被吐槽变态",
+        "onboard_time": 1708712958,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389649,
+        "num": 389649,
+        "word": "周一围对朱丹不理解但关心",
+        "onboard_time": 1708701871,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375909,
+        "num": 375909,
+        "word": "肖战文淇身高差",
+        "onboard_time": 1708733365,
+        "rank": 16,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 369317,
+        "num": 369317,
+        "word": "贾玲说如果重拍你好李焕英会更有电影感",
+        "onboard_time": 1708694793,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336042,
+        "num": 336042,
+        "word": "炎亚纶捏紧了拳头",
+        "onboard_time": 1708731022,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285306,
+        "num": 285306,
+        "word": "原来元宵节才是古人的情人节",
+        "onboard_time": 1708735890,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278323,
+        "num": 278323,
+        "word": "元宵节文案",
+        "onboard_time": 1708724237,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268006,
+        "num": 268006,
+        "word": "93岁姥爷非要帮铲雪外孙女吓跪了",
+        "onboard_time": 1708717817,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251880,
+        "num": 251880,
+        "word": "肖战领口一年比一年低",
+        "onboard_time": 1708701993,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231494,
+        "num": 231494,
+        "word": "主人捡鸡蛋发现鸡被雪埋3天还活着",
+        "onboard_time": 1708737871,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218539,
+        "num": 218539,
+        "word": "任正非曾公开支持姚安娜搞文艺",
+        "onboard_time": 1708709903,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215558,
+        "num": 215558,
+        "word": "苏醒把老婆拉黑了",
+        "onboard_time": 1708739913,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212100,
+        "num": 212100,
+        "word": "聊天记录真的不能向上翻",
+        "onboard_time": 1708730360,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185281,
+        "num": 185281,
+        "word": "大理寺少卿游 竹马天降",
+        "onboard_time": 1708703375,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182921,
+        "num": 182921,
+        "word": "警方已控制柳州贩婴事件嫌疑人",
+        "onboard_time": 1708734629,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162233,
+        "num": 162233,
+        "word": "网红杨老二家属称劝酒观众无一人道歉",
+        "onboard_time": 1708707445,
+        "rank": 29,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 157234,
+        "num": 157234,
+        "word": "南京火灾初查系电动车停放处起火",
+        "onboard_time": 1708729758,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155302,
+        "num": 155302,
+        "word": "广州断桥事件倒车拦车车主发声",
+        "onboard_time": 1708717757,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151939,
+        "num": 151939,
+        "word": "王鹤棣回应成为追星赢家",
+        "onboard_time": 1708735591,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139865,
+        "num": 139865,
+        "word": "南京火灾小区超10层楼外立面焦黑",
+        "onboard_time": 1708739315,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1746218,
+        "num": 137464,
+        "word": "父子赌气吃碳酸钡粉儿子身亡",
+        "onboard_time": 1708732282,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131318,
+        "num": 131318,
+        "word": "哪种元宵汤圆馅最受欢迎",
+        "onboard_time": 1708732163,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 130532,
+        "num": 130532,
+        "word": "16岁男生半年减重160斤",
+        "onboard_time": 1708729518,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123435,
+        "num": 123435,
+        "word": "春楠 热辣滚烫最不值一提的是减重",
+        "onboard_time": 1708714698,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122505,
+        "num": 122505,
+        "word": "如果一个人周五没那么高兴",
+        "onboard_time": 1708733307,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122332,
+        "num": 122332,
+        "word": "丁程鑫发长文谈22岁",
+        "onboard_time": 1708733004,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121188,
+        "num": 121188,
+        "word": "杭州98年姑娘自助买二手房省4万多中介费",
+        "onboard_time": 1708700674,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101856,
+        "num": 101856,
+        "word": "苏醒文韬双大脑谈判",
+        "onboard_time": 1708739551,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101107,
+        "num": 101107,
+        "word": "龙年元宵国风海报",
+        "onboard_time": 1708739252,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97691,
+        "num": 97691,
+        "word": "好久没联系的同学一般只有三件事",
+        "onboard_time": 1708694013,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92524,
+        "num": 92524,
+        "word": "找到了兔子帽的正确用法",
+        "onboard_time": 1708735469,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87885,
+        "num": 87885,
+        "word": "孙千黑长直",
+        "onboard_time": 1708734748,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 81983,
+        "num": 81983,
+        "word": "马面裙卖爆了",
+        "onboard_time": 1708691371,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 81059,
+        "num": 81059,
+        "word": "迪士尼现在能带食物的原因",
+        "onboard_time": 1708699598,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 78901,
+        "num": 78901,
+        "word": "多地延迟开学90后父母忙成双面人",
+        "onboard_time": 1708696293,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77925,
+        "num": 77925,
+        "word": "元宵节有哪些民俗",
+        "onboard_time": 1708694013,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}
