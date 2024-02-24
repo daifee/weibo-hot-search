@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708812941330,
+  "endTime": 1708814106696,
   "band_list": [
     {
       "raw_hot": 2023451,
@@ -443,8 +443,8 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 82005,
-      "num": 82005,
+      "raw_hot": 93466,
+      "num": 93466,
       "word": "为什么理发店里见不到女Tony",
       "onboard_time": 1708804999,
       "rank": 33,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 67841,
-      "num": 42027,
+      "num": 48155,
       "word": "沙溢修容",
       "onboard_time": 1708800379,
       "rank": 30,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51282,
+      "num": 51282,
+      "word": "当班主任哭了班里的同学belike",
+      "onboard_time": 1708804397,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 48122,
       "num": 43816,
       "word": "原来狗狗能闻到伤心的味道",
@@ -499,20 +507,36 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 42516,
-      "num": 42516,
-      "word": "当班主任哭了班里的同学belike",
-      "onboard_time": 1708804397,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 29611,
-      "num": 29611,
+      "raw_hot": 41550,
+      "num": 41550,
       "word": "肖战包先生合照",
       "onboard_time": 1708811777,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 37452,
+      "num": 23322,
+      "word": "亲戚 张雪峰像个侠客",
+      "onboard_time": 1708810455,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 35967,
+      "num": 35967,
+      "word": "田曦薇柿柿如意古装",
+      "onboard_time": 1708809196,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 31146,
+      "num": 29333,
+      "word": "1种不起眼的食物抗衰又抑癌",
+      "onboard_time": 1708808056,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 27936,
@@ -539,20 +563,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 26528,
-      "num": 25376,
-      "word": "1种不起眼的食物抗衰又抑癌",
-      "onboard_time": 1708808056,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 25349,
-      "num": 25349,
-      "word": "田曦薇柿柿如意古装",
-      "onboard_time": 1708809196,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 25644,
+      "num": 25644,
+      "word": "撒贝宁还原小尼春晚表情",
+      "onboard_time": 1708807156,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 24616,
@@ -563,12 +579,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 23984,
-      "num": 23984,
-      "word": "撒贝宁还原小尼春晚表情",
-      "onboard_time": 1708807156,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 23575,
+      "num": 23575,
+      "word": "巴菲特明确接班人",
+      "onboard_time": 1708811777,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 22455,
@@ -579,20 +595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22411,
-      "num": 20080,
-      "word": "亲戚 张雪峰像个侠客",
-      "onboard_time": 1708810455,
-      "rank": 30,
+      "raw_hot": 18718,
+      "num": 18718,
+      "word": "过劳的小学副科老师",
+      "onboard_time": 1708813819,
+      "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 20414,
-      "num": 20414,
-      "word": "巴菲特明确接班人",
-      "onboard_time": 1708811777,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 17922,

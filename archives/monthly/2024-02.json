@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708812941330,
+  "endTime": 1708814106696,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -62675,6 +62675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 93466,
+      "num": 93466,
+      "word": "为什么理发店里见不到女Tony",
+      "onboard_time": 1708804999,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93361,
       "num": 93361,
       "word": "文咏珊做的红糖年糕",
@@ -63345,14 +63353,6 @@
       "onboard_time": 1706705371,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82005,
-      "num": 82005,
-      "word": "为什么理发店里见不到女Tony",
-      "onboard_time": 1708804999,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 81965,
@@ -64044,7 +64044,7 @@
     },
     {
       "raw_hot": 67841,
-      "num": 42027,
+      "num": 48155,
       "word": "沙溢修容",
       "onboard_time": 1708800379,
       "rank": 30,
@@ -64867,6 +64867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51282,
+      "num": 51282,
+      "word": "当班主任哭了班里的同学belike",
+      "onboard_time": 1708804397,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 51253,
       "num": 60256,
       "word": "新年头像",
@@ -65379,14 +65387,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 42516,
-      "num": 42516,
-      "word": "当班主任哭了班里的同学belike",
-      "onboard_time": 1708804397,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 42274,
       "num": 42274,
       "word": "赵丽颖粉丝包场第二十条",
@@ -65433,6 +65433,14 @@
       "onboard_time": 1706988319,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 41550,
+      "num": 41550,
+      "word": "肖战包先生合照",
+      "onboard_time": 1708811777,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 41505,
@@ -65691,6 +65699,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 37452,
+      "num": 23322,
+      "word": "亲戚 张雪峰像个侠客",
+      "onboard_time": 1708810455,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 37357,
       "num": 474187,
       "word": "魏大勋元梦开勋玉米农场开张",
@@ -65769,6 +65785,14 @@
       "onboard_time": 1707203792,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35967,
+      "num": 35967,
+      "word": "田曦薇柿柿如意古装",
+      "onboard_time": 1708809196,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 35889,
@@ -66099,6 +66123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 31146,
+      "num": 29333,
+      "word": "1种不起眼的食物抗衰又抑癌",
+      "onboard_time": 1708808056,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 31001,
       "num": 1238648,
       "word": "在非遗中邂逅龙年氛围感",
@@ -66201,14 +66233,6 @@
       "onboard_time": 1707028828,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29611,
-      "num": 29611,
-      "word": "肖战包先生合照",
-      "onboard_time": 1708811777,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 29361,
@@ -66355,14 +66379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 26528,
-      "num": 25376,
-      "word": "1种不起眼的食物抗衰又抑癌",
-      "onboard_time": 1708808056,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 26485,
       "num": 29711,
       "word": "江西家宴",
@@ -66411,6 +66427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25644,
+      "num": 25644,
+      "word": "撒贝宁还原小尼春晚表情",
+      "onboard_time": 1708807156,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25490,
       "num": 245475,
       "word": "京东春晚送完汽车又送房",
@@ -66425,14 +66449,6 @@
       "onboard_time": 1708190665,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25349,
-      "num": 25349,
-      "word": "田曦薇柿柿如意古装",
-      "onboard_time": 1708809196,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 25060,
@@ -66531,14 +66547,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 23984,
-      "num": 23984,
-      "word": "撒贝宁还原小尼春晚表情",
-      "onboard_time": 1708807156,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 23970,
       "num": 23970,
       "word": "美国驻华大使打卡冰雪大世界",
@@ -66579,6 +66587,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 23575,
+      "num": 23575,
+      "word": "巴菲特明确接班人",
+      "onboard_time": 1708811777,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 23431,
       "num": 263862,
       "word": "蛋仔群星祝福好有排面",
@@ -66609,14 +66625,6 @@
       "onboard_time": 1708032676,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 22411,
-      "num": 20080,
-      "word": "亲戚 张雪峰像个侠客",
-      "onboard_time": 1708810455,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 22346,
@@ -66779,14 +66787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20414,
-      "num": 20414,
-      "word": "巴菲特明确接班人",
-      "onboard_time": 1708811777,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 20355,
       "num": 804103,
       "word": "张大大叫你到元梦领红包",
@@ -66849,6 +66849,14 @@
       "onboard_time": 1707157759,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18718,
+      "num": 18718,
+      "word": "过劳的小学副科老师",
+      "onboard_time": 1708813819,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 18707,
