@@ -1,6 +1,6 @@
 {
   "startTime": 1708705253127,
-  "endTime": 1708745736680,
+  "endTime": 1708748412110,
   "band_list": [
     {
       "raw_hot": 3207189,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1987998,
+      "num": 1987998,
+      "word": "因上班穿的恶心被领导谈话了",
+      "onboard_time": 1708746690,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1828047,
       "num": 1828047,
       "word": "苏醒把老婆拉黑了",
@@ -40,6 +48,14 @@
       "word": "3月1日起快递不得擅自放驿站",
       "onboard_time": 1708693833,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1641529,
+      "num": 1641529,
+      "word": "起火小区30楼孕妇和老公打湿枕套逃生",
+      "onboard_time": 1708746270,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 874669,
-      "num": 462622,
+      "num": 473049,
       "word": "网友拍下南京着火高层住户喊救命",
       "onboard_time": 1708743873,
       "rank": 12,
@@ -179,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 566196,
+      "num": 566196,
+      "word": "14岁的施暴者与被伤害者",
+      "onboard_time": 1708744953,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519889,
       "num": 519889,
       "word": "南京火灾初查系电动车停放处起火",
@@ -243,6 +267,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 476943,
+      "num": 476943,
+      "word": "王楚然古装提灯",
+      "onboard_time": 1708746872,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470586,
       "num": 470586,
       "word": "特朗普被罚4.54亿美元",
@@ -257,6 +289,22 @@
       "onboard_time": 1708688673,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 460765,
+      "num": 460765,
+      "word": "伊万科维奇出任国足主帅",
+      "onboard_time": 1708745611,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 453680,
+      "num": 250167,
+      "word": "鸡蛋上最脏的东西你可能吃了",
+      "onboard_time": 1708745669,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 440809,
@@ -355,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327963,
+      "num": 327963,
+      "word": "这是演综不是恋综",
+      "onboard_time": 1708746092,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314264,
       "num": 314264,
       "word": "警方已控制柳州贩婴事件嫌疑人",
@@ -393,6 +449,14 @@
       "onboard_time": 1708724237,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289770,
+      "num": 249582,
+      "word": "赵丽颖潘斌龙合照",
+      "onboard_time": 1708747652,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 286941,
@@ -459,12 +523,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 238011,
-      "num": 238011,
-      "word": "伊万科维奇出任国足主帅",
-      "onboard_time": 1708745611,
+      "raw_hot": 250471,
+      "num": 250471,
+      "word": "恋与深空 繁灯节",
+      "onboard_time": 1708745855,
       "rank": 19,
-      "category": "体育"
+      "category": "游戏"
     },
     {
       "raw_hot": 229226,
@@ -473,6 +537,14 @@
       "onboard_time": 1708742673,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 228747,
+      "num": 228747,
+      "word": "榴莲汤圆",
+      "onboard_time": 1708747530,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 227612,
@@ -499,6 +571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216963,
+      "num": 216963,
+      "word": "惠英红带刘浩存赶集像我奶",
+      "onboard_time": 1708745911,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 215046,
       "num": 215046,
       "word": "水哥出题算是踢到铁板了",
@@ -515,20 +595,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210655,
-      "num": 210655,
-      "word": "鸡蛋上最脏的东西你可能吃了",
-      "onboard_time": 1708745669,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 208209,
       "num": 208209,
       "word": "容易长胖的人可能蛋白质没吃够",
       "onboard_time": 1708699234,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 205091,
+      "num": 205091,
+      "word": "俄军A50预警机被击落",
+      "onboard_time": 1708745492,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 203093,
@@ -635,6 +715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 171558,
+      "num": 171558,
+      "word": "王鹤棣观战湖人",
+      "onboard_time": 1708746030,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171380,
       "num": 171380,
       "word": "结婚30周年丈夫单膝跪地送上金手镯",
@@ -667,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168402,
+      "num": 168402,
+      "word": "无糖汤圆也不宜过多食用",
+      "onboard_time": 1708747291,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 168247,
       "num": 168247,
       "word": "贾丹贾玲姐妹情",
@@ -681,14 +777,6 @@
       "onboard_time": 1708742612,
       "rank": 34,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 165759,
-      "num": 165759,
-      "word": "14岁的施暴者与被伤害者",
-      "onboard_time": 1708744953,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165621,
@@ -715,12 +803,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157375,
+      "num": 157375,
+      "word": "叛逃至乌的俄飞行员被害细节披露",
+      "onboard_time": 1708746690,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 152817,
       "num": 152817,
       "word": "勇士续约科尔",
       "onboard_time": 1708745371,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152360,
+      "num": 152360,
+      "word": "陆虎春晚vlog",
+      "onboard_time": 1708747113,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 152118,
@@ -737,6 +841,14 @@
       "onboard_time": 1708735591,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151786,
+      "num": 151786,
+      "word": "热火鹈鹕冲突",
+      "onboard_time": 1708747413,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 151258,
@@ -803,20 +915,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135119,
+      "num": 135119,
+      "word": "日本人总结的一些居家小妙招",
+      "onboard_time": 1708747470,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133851,
       "num": 133851,
       "word": "猫咪反馈的情绪价值满分",
       "onboard_time": 1708742673,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 132319,
-      "num": 132319,
-      "word": "俄军A50预警机被击落",
-      "onboard_time": 1708745492,
-      "rank": 46,
-      "category": "国外时政"
     },
     {
       "raw_hot": 130965,
@@ -849,6 +961,14 @@
       "onboard_time": 1708714698,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126856,
+      "num": 126856,
+      "word": "李菲儿夸张睿是个好人",
+      "onboard_time": 1708748071,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 126561,
@@ -947,6 +1067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107719,
+      "num": 107719,
+      "word": "快船战胜灰熊",
+      "onboard_time": 1708748193,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107415,
       "num": 107415,
       "word": "影视剧只拍上半身的原因",
@@ -961,6 +1089,14 @@
       "onboard_time": 1708740272,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 107213,
+      "num": 1472840,
+      "word": "甲辰龙年闹元宵",
+      "onboard_time": 1708746512,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106231,
@@ -1033,6 +1169,14 @@
       "onboard_time": 1708732042,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86119,
+      "num": 464359,
+      "word": "元宵节陪在张颂文身边的人是谁",
+      "onboard_time": 1708745733,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 84056,
