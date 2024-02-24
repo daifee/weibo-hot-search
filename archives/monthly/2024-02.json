@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708769953500,
+  "endTime": 1708770873079,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -297,6 +297,14 @@
       "onboard_time": 1707488019,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 5490188,
+      "num": 5490188,
+      "word": "合肥地震",
+      "onboard_time": 1708770033,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5485734,
@@ -7099,6 +7107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 965405,
+      "num": 965405,
+      "word": "白敬亭回复弹幕",
+      "onboard_time": 1708769012,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 965204,
       "num": 965204,
       "word": "鹅鹅鹅优雅又可爱",
@@ -10459,14 +10475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 736360,
-      "num": 736360,
-      "word": "白敬亭回复弹幕",
-      "onboard_time": 1708769012,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 735262,
       "num": 735262,
       "word": "林孝埈摔出赛道没有回放",
@@ -11009,6 +11017,14 @@
       "onboard_time": 1707088762,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 712242,
+      "num": 712242,
+      "word": "专家谈正月剃头死舅舅",
+      "onboard_time": 1708762408,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 712073,
@@ -13011,6 +13027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 628494,
+      "num": 628494,
+      "word": "ty要当爸爸了",
+      "onboard_time": 1708769012,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 628081,
       "num": 628081,
       "word": "韩国瑜当选台立法机构负责人",
@@ -14289,14 +14313,6 @@
       "onboard_time": 1708660770,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 577426,
-      "num": 634971,
-      "word": "专家谈正月剃头死舅舅",
-      "onboard_time": 1708762408,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 577214,
@@ -15923,14 +15939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 526436,
-      "num": 526436,
-      "word": "ty要当爸爸了",
-      "onboard_time": 1708769012,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 526377,
       "num": 526377,
       "word": "努力凑够400万可怜可怜他",
@@ -17025,6 +17033,14 @@
       "onboard_time": 1707002784,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 496076,
+      "num": 291841,
+      "word": "夫妻得知怀孕后跪谢老中医",
+      "onboard_time": 1708769492,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495977,
@@ -20153,6 +20169,14 @@
       "onboard_time": 1708402062,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415944,
+      "num": 415944,
+      "word": "元宵节满车都是碎掉的大学生",
+      "onboard_time": 1708767990,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 415655,
@@ -23361,14 +23385,6 @@
       "onboard_time": 1706756369,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354171,
-      "num": 354171,
-      "word": "元宵节满车都是碎掉的大学生",
-      "onboard_time": 1708767990,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 354064,
@@ -28419,6 +28435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280443,
+      "num": 280443,
+      "word": "小义 绕后",
+      "onboard_time": 1708769613,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 280435,
       "num": 280435,
       "word": "过完年 失落感",
@@ -28593,6 +28617,14 @@
       "onboard_time": 1707804516,
       "rank": 30,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 278556,
+      "num": 278556,
+      "word": "女版梅长苏",
+      "onboard_time": 1708770513,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 278458,
@@ -35619,6 +35651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219967,
+      "num": 219967,
+      "word": "杨紫营业雨露均沾",
+      "onboard_time": 1708769372,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219950,
       "num": 219950,
       "word": "春楠拍赵丽颖",
@@ -36667,6 +36707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213172,
+      "num": 213172,
+      "word": "种地吧生活直播",
+      "onboard_time": 1708770154,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212892,
       "num": 212892,
       "word": "关晓彤短发侧颜",
@@ -36745,14 +36793,6 @@
       "onboard_time": 1707195753,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 212441,
-      "num": 212441,
-      "word": "夫妻得知怀孕后跪谢老中医",
-      "onboard_time": 1708769492,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212424,
@@ -36993,6 +37033,14 @@
       "onboard_time": 1707006991,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 211071,
+      "num": 211071,
+      "word": "虞书欣杨之楹合照",
+      "onboard_time": 1708769976,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 211057,
@@ -37945,14 +37993,6 @@
       "onboard_time": 1707802718,
       "rank": 32,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 206569,
-      "num": 206569,
-      "word": "小义 绕后",
-      "onboard_time": 1708769613,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 206485,
@@ -39339,14 +39379,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 200965,
-      "num": 200965,
-      "word": "杨紫营业雨露均沾",
-      "onboard_time": 1708769372,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200958,
       "num": 200958,
       "word": "你写的vs人民日报写的",
@@ -40713,6 +40745,14 @@
       "onboard_time": 1708423115,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195353,
+      "num": 195353,
+      "word": "韩国男团心碎一幕",
+      "onboard_time": 1708770636,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 195297,
@@ -47779,6 +47819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165375,
+      "num": 165375,
+      "word": "南京震感",
+      "onboard_time": 1708770695,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165373,
       "num": 165373,
       "word": "婆婆为返程儿媳细心包好每一个鸡蛋",
@@ -50761,6 +50809,14 @@
       "onboard_time": 1708747113,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152339,
+      "num": 152339,
+      "word": "林昀儒3比0A勒布伦",
+      "onboard_time": 1708770573,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 152317,
@@ -63411,6 +63467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57519,
+      "num": 331268,
+      "word": "浮生忆玲珑中式情人节",
+      "onboard_time": 1708767812,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57469,
       "num": 57469,
       "word": "权顺荣机场",
@@ -65097,14 +65161,6 @@
       "onboard_time": 1707546154,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27985,
-      "num": 331268,
-      "word": "浮生忆玲珑中式情人节",
-      "onboard_time": 1708767812,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27935,

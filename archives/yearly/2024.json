@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1708769953500,
+  "endTime": 1708770873079,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -529,6 +529,14 @@
       "onboard_time": 1704802470,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 5490188,
+      "num": 5490188,
+      "word": "合肥地震",
+      "onboard_time": 1708770033,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5485734,
@@ -2392,14 +2400,6 @@
       "word": "上海松江",
       "onboard_time": 1706529090,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2268467,
-      "num": 2268467,
-      "word": "员工抑郁请病假暗中考研还领高薪",
-      "onboard_time": 1708556601,
-      "rank": 20,
       "category": "社会新闻"
     }
   ],

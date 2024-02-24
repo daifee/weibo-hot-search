@@ -1,0 +1,410 @@
+{
+  "runTime": 1708770873079,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5490188,
+        "num": 5490188,
+        "word": "合肥地震",
+        "onboard_time": 1708770033,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1180057,
+        "num": 1180057,
+        "word": "教授称女性退休年龄延至60岁不能一刀切",
+        "onboard_time": 1708763372,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44806,
+        "num": 1022934,
+        "word": "龙腾中国 舞动新春",
+        "onboard_time": 1708764991,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965405,
+        "num": 965405,
+        "word": "白敬亭回复弹幕",
+        "onboard_time": 1708769012,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 712242,
+        "num": 712242,
+        "word": "专家谈正月剃头死舅舅",
+        "onboard_time": 1708762408,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 637292,
+        "num": 637292,
+        "word": "元宵晚会节目单",
+        "onboard_time": 1708763910,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 634257,
+        "num": 634257,
+        "word": "小司藤长大了",
+        "onboard_time": 1708764753,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 628494,
+        "num": 628494,
+        "word": "ty要当爸爸了",
+        "onboard_time": 1708769012,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114316,
+        "num": 546909,
+        "word": "90后厨师临别时与父亲相拥而泣",
+        "onboard_time": 1708768229,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267445,
+        "num": 546252,
+        "word": "骑手春节连续16天为独居老人送饭",
+        "onboard_time": 1708768229,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665767,
+        "num": 546106,
+        "word": "因上班穿的恶心被领导谈话了",
+        "onboard_time": 1708746690,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 545873,
+        "num": 545873,
+        "word": "杨迪金靖情头",
+        "onboard_time": 1708761269,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455052,
+        "num": 455052,
+        "word": "元宵 返校",
+        "onboard_time": 1708766133,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 415944,
+        "num": 415944,
+        "word": "元宵节满车都是碎掉的大学生",
+        "onboard_time": 1708767990,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385417,
+        "num": 385417,
+        "word": "韩素希随地大小躺",
+        "onboard_time": 1708765531,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353493,
+        "num": 353493,
+        "word": "谭松韵首部仙侠剧官宣",
+        "onboard_time": 1708760132,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339404,
+        "num": 339404,
+        "word": "朱一龙晒麻将汤圆",
+        "onboard_time": 1708763669,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314897,
+        "num": 314897,
+        "word": "国乒男团3比2韩国",
+        "onboard_time": 1708760432,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306742,
+        "num": 306742,
+        "word": "王楚钦说庆幸我们还活着",
+        "onboard_time": 1708764632,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302182,
+        "num": 302182,
+        "word": "VOGUE新主编",
+        "onboard_time": 1708764452,
+        "rank": 19,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 496076,
+        "num": 291841,
+        "word": "夫妻得知怀孕后跪谢老中医",
+        "onboard_time": 1708769492,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440741,
+        "num": 288534,
+        "word": "女子连坐20小时车后身亡",
+        "onboard_time": 1708758751,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57519,
+        "num": 284174,
+        "word": "浮生忆玲珑中式情人节",
+        "onboard_time": 1708767812,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280443,
+        "num": 280443,
+        "word": "小义 绕后",
+        "onboard_time": 1708769613,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 278662,
+        "num": 278662,
+        "word": "詹姆斯在王鹤棣面前摔倒了",
+        "onboard_time": 1708759648,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278556,
+        "num": 278556,
+        "word": "女版梅长苏",
+        "onboard_time": 1708770513,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277285,
+        "num": 277285,
+        "word": "王小利回应被儿子断绝关系",
+        "onboard_time": 1708752927,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251311,
+        "num": 251311,
+        "word": "王楚钦感谢樊振东",
+        "onboard_time": 1708765953,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225179,
+        "num": 225179,
+        "word": "吃汤圆和不吃汤圆的都沉默了",
+        "onboard_time": 1708759648,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117112,
+        "num": 222068,
+        "word": "特朗普模仿拜登走下舞台",
+        "onboard_time": 1708764571,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 219967,
+        "num": 219967,
+        "word": "杨紫营业雨露均沾",
+        "onboard_time": 1708769372,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218647,
+        "num": 218647,
+        "word": "狐妖小红娘王权篇",
+        "onboard_time": 1708765412,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213576,
+        "num": 213576,
+        "word": "UP主在B站是怎么赚钱的",
+        "onboard_time": 1708767812,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 213172,
+        "num": 213172,
+        "word": "种地吧生活直播",
+        "onboard_time": 1708770154,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211071,
+        "num": 211071,
+        "word": "虞书欣杨之楹合照",
+        "onboard_time": 1708769976,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205240,
+        "num": 205240,
+        "word": "苏醒把老婆拉黑了",
+        "onboard_time": 1708739913,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200742,
+        "num": 200742,
+        "word": "65岁或为延迟退休调整后最终结果",
+        "onboard_time": 1708753472,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195353,
+        "num": 195353,
+        "word": "韩国男团心碎一幕",
+        "onboard_time": 1708770636,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187026,
+        "num": 187026,
+        "word": "Hero对战AG",
+        "onboard_time": 1708766731,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177131,
+        "num": 177131,
+        "word": "猫毛消失是猫的第二次离开",
+        "onboard_time": 1708766911,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172976,
+        "num": 172976,
+        "word": "赵露思白色拖尾裙",
+        "onboard_time": 1708765471,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170658,
+        "num": 170658,
+        "word": "何炅撒贝宁元宵晚会坐一桌",
+        "onboard_time": 1708753352,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165375,
+        "num": 165375,
+        "word": "南京震感",
+        "onboard_time": 1708770695,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164153,
+        "num": 164153,
+        "word": "警方通报广州一地铁口2人打架",
+        "onboard_time": 1708765114,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156128,
+        "num": 156128,
+        "word": "看得出来钟楚曦很满意这次泰国游",
+        "onboard_time": 1708757609,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152339,
+        "num": 152339,
+        "word": "林昀儒3比0A勒布伦",
+        "onboard_time": 1708770573,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144708,
+        "num": 144708,
+        "word": "72岁老人发现太奶秘密情史",
+        "onboard_time": 1708763969,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126436,
+        "num": 126436,
+        "word": "刘亦菲将去巴黎时装周",
+        "onboard_time": 1708762588,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 126262,
+        "num": 126262,
+        "word": "原来牛肉要横着切才嫩",
+        "onboard_time": 1708766493,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124262,
+        "num": 124262,
+        "word": "社区回应火灾小区曾被举报有失火隐患",
+        "onboard_time": 1708761808,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}
