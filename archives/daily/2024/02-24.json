@@ -1,6 +1,6 @@
 {
   "startTime": 1708705253127,
-  "endTime": 1708770873079,
+  "endTime": 1708773219074,
   "band_list": [
     {
       "raw_hot": 5490188,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1110310,
+      "num": 1110310,
+      "word": "papi酱 这个年真的过完了",
+      "onboard_time": 1708771352,
+      "rank": 1,
+      "category": "幽默,网红"
+    },
+    {
       "raw_hot": 1108950,
       "num": 1108950,
       "word": "小司藤长大了",
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1019267,
+      "num": 1019267,
+      "word": "白敬亭回复弹幕",
+      "onboard_time": 1708769012,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1008630,
       "num": 1008630,
       "word": "何炅撒贝宁元宵晚会坐一桌",
@@ -201,14 +217,6 @@
       "onboard_time": 1708759648,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 965405,
-      "num": 965405,
-      "word": "白敬亭回复弹幕",
-      "onboard_time": 1708769012,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 940544,
@@ -355,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 655887,
+      "num": 655887,
+      "word": "ty要当爸爸了",
+      "onboard_time": 1708769012,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 643590,
       "num": 643590,
       "word": "韩国超万名医学生申请休学",
@@ -387,11 +403,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 628494,
-      "num": 628494,
-      "word": "ty要当爸爸了",
-      "onboard_time": 1708769012,
-      "rank": 11,
+      "raw_hot": 620911,
+      "num": 620911,
+      "word": "钟楚曦 不会上恋综",
+      "onboard_time": 1708771893,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -457,6 +473,14 @@
       "onboard_time": 1708764452,
       "rank": 12,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 551662,
+      "num": 308170,
+      "word": "夫妻得知怀孕后跪谢老中医",
+      "onboard_time": 1708769492,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 533962,
@@ -547,14 +571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 496076,
-      "num": 291841,
-      "word": "夫妻得知怀孕后跪谢老中医",
-      "onboard_time": 1708769492,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 491551,
       "num": 330047,
       "word": "鸡蛋上最脏的东西你可能吃了",
@@ -577,6 +593,14 @@
       "onboard_time": 1708765531,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 478334,
+      "num": 478334,
+      "word": "元宵节满车都是碎掉的大学生",
+      "onboard_time": 1708767990,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 477718,
@@ -691,12 +715,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 415944,
-      "num": 415944,
-      "word": "元宵节满车都是碎掉的大学生",
-      "onboard_time": 1708767990,
-      "rank": 17,
-      "category": "情感"
+      "raw_hot": 426686,
+      "num": 426686,
+      "word": "王曼昱",
+      "onboard_time": 1708771473,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 425126,
+      "num": 425126,
+      "word": "韩国男团心碎一幕",
+      "onboard_time": 1708770636,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 412894,
@@ -705,6 +737,14 @@
       "onboard_time": 1708750111,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 410306,
+      "num": 410306,
+      "word": "南京震感",
+      "onboard_time": 1708770695,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405190,
@@ -737,6 +777,14 @@
       "onboard_time": 1708761690,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 383488,
+      "num": 306746,
+      "word": "女版梅长苏",
+      "onboard_time": 1708770513,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 379399,
@@ -809,6 +857,14 @@
       "onboard_time": 1708717817,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349904,
+      "num": 349904,
+      "word": "第二十条",
+      "onboard_time": 1708772377,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 344034,
@@ -899,6 +955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 309094,
+      "num": 309094,
+      "word": "周深以为花花姓谭",
+      "onboard_time": 1708772552,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308409,
       "num": 308409,
       "word": "烧麦判官火了朱正廷瑟瑟发抖",
@@ -924,7 +988,7 @@
     },
     {
       "raw_hot": 299246,
-      "num": 578887,
+      "num": 596860,
       "word": "骑手春节连续16天为独居老人送饭",
       "onboard_time": 1708768229,
       "rank": 9,
@@ -1019,14 +1083,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 278556,
-      "num": 278556,
-      "word": "女版梅长苏",
-      "onboard_time": 1708770513,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 275825,
       "num": 275825,
       "word": "汤圆",
@@ -1099,12 +1155,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260715,
+      "num": 260715,
+      "word": "迪丽热巴手绘图",
+      "onboard_time": 1708770993,
+      "rank": 25,
+      "category": "动漫,艺人"
+    },
+    {
       "raw_hot": 259071,
       "num": 207091,
       "word": "宋小宝巴比龙舞台",
       "onboard_time": 1708761931,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257439,
+      "num": 257439,
+      "word": "王楚钦说宁愿不要这样的成长",
+      "onboard_time": 1708770875,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 256449,
@@ -1155,6 +1227,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244322,
+      "num": 244322,
+      "word": "孙颖莎 张本美和",
+      "onboard_time": 1708772793,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 240750,
+      "num": 240750,
+      "word": "春节档票房",
+      "onboard_time": 1708772256,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239839,
       "num": 239839,
       "word": "电动车起火后泼水灭火器沙土都无法熄灭",
@@ -1169,6 +1257,14 @@
       "onboard_time": 1708751672,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231528,
+      "num": 231528,
+      "word": "法国男团3比1中国台北",
+      "onboard_time": 1708771352,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 229226,
@@ -1331,6 +1427,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 206873,
+      "num": 206873,
+      "word": "飞驰人生2票房破29亿",
+      "onboard_time": 1708771715,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205091,
       "num": 205091,
       "word": "俄军A50预警机被击落",
@@ -1369,6 +1473,14 @@
       "onboard_time": 1708737571,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200757,
+      "num": 200757,
+      "word": "AG战胜Hero",
+      "onboard_time": 1708772734,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 200674,
@@ -1419,20 +1531,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196344,
+      "num": 196344,
+      "word": "朱开回应加入RNG",
+      "onboard_time": 1708772433,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195676,
       "num": 195676,
       "word": "热辣滚烫拳赛催泪闪回瞬间",
       "onboard_time": 1708745011,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 195353,
-      "num": 195353,
-      "word": "韩国男团心碎一幕",
-      "onboard_time": 1708770636,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 194898,
@@ -1465,6 +1577,14 @@
       "onboard_time": 1708766911,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190794,
+      "num": 190794,
+      "word": "轩染的曹操",
+      "onboard_time": 1708772131,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 190547,
@@ -1561,6 +1681,14 @@
       "onboard_time": 1708703194,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174949,
+      "num": 174949,
+      "word": "乒乓球",
+      "onboard_time": 1708773155,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 173785,
@@ -1667,14 +1795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165375,
-      "num": 165375,
-      "word": "南京震感",
-      "onboard_time": 1708770695,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164825,
       "num": 164825,
       "word": "神舟飞船全面升级为梦舟飞船",
@@ -1699,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162615,
+      "num": 162615,
+      "word": "汤圆图片",
+      "onboard_time": 1708771113,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 161450,
       "num": 161450,
       "word": "王斤斤抽烟镜头",
@@ -1720,6 +1848,14 @@
       "word": "热辣滚烫里乐莹看不见的伤",
       "onboard_time": 1708755152,
       "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 155425,
+      "num": 155425,
+      "word": "热辣滚烫 送你一朵小红花",
+      "onboard_time": 1708773095,
+      "rank": 48,
       "category": "电影"
     },
     {
@@ -1972,7 +2108,7 @@
     },
     {
       "raw_hot": 127653,
-      "num": 581453,
+      "num": 598795,
       "word": "90后厨师临别时与父亲相拥而泣",
       "onboard_time": 1708768229,
       "rank": 8,
@@ -2379,7 +2515,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45699,
+      "raw_hot": 46639,
       "num": 1047692,
       "word": "龙腾中国 舞动新春",
       "onboard_time": 1708764991,
