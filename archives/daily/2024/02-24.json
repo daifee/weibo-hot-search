@@ -1,6 +1,6 @@
 {
   "startTime": 1708705253127,
-  "endTime": 1708784054602,
+  "endTime": 1708785254419,
   "band_list": [
     {
       "raw_hot": 5490188,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3351974,
-      "num": 3351974,
+      "raw_hot": 3436938,
+      "num": 3436938,
       "word": "国乒女团vs日本",
       "onboard_time": 1708779759,
       "rank": 15,
@@ -35,6 +35,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2935144,
+      "num": 2935144,
+      "word": "陈梦vs张本美和",
+      "onboard_time": 1708783476,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2802414,
+      "num": 2802414,
+      "word": "马琳",
+      "onboard_time": 1708782218,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2631675,
       "num": 2631675,
       "word": "因上班穿的恶心被领导谈话了",
@@ -49,14 +65,6 @@
       "onboard_time": 1708737331,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2426979,
-      "num": 2426979,
-      "word": "马琳",
-      "onboard_time": 1708782218,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 2382070,
@@ -89,14 +97,6 @@
       "onboard_time": 1708775013,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2062119,
-      "num": 2062119,
-      "word": "陈梦vs张本美和",
-      "onboard_time": 1708783476,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 2014568,
@@ -531,6 +531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 682753,
+      "num": 682753,
+      "word": "时代少年团新歌首秀",
+      "onboard_time": 1708784378,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 659205,
       "num": 659205,
       "word": "钟楚曦 不会上恋综",
@@ -587,20 +595,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 636366,
+      "num": 636366,
+      "word": "毛不易单依纯声音好搭",
+      "onboard_time": 1708782941,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 630548,
       "num": 588524,
       "word": "南京火灾小区曾因电动车停放引发投诉",
       "onboard_time": 1708733787,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 625653,
-      "num": 625653,
-      "word": "毛不易单依纯声音好搭",
-      "onboard_time": 1708782941,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 623459,
@@ -971,6 +979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 434135,
+      "num": 434135,
+      "word": "孙颖莎3比0早田希娜",
+      "onboard_time": 1708784979,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 432021,
       "num": 432021,
       "word": "永远记住王楚钦这一球",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1708779817,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 398539,
+      "num": 398539,
+      "word": "心疼坦然",
+      "onboard_time": 1708784197,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 394343,
@@ -1603,6 +1627,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 246678,
+      "num": 246678,
+      "word": "JDG对战BLG",
+      "onboard_time": 1708778497,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 246013,
       "num": 246013,
       "word": "南京高楼火灾一家4口裹湿被子成功逃生",
@@ -1699,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225254,
+      "num": 225254,
+      "word": "沙溢是你吗",
+      "onboard_time": 1708783839,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223029,
       "num": 183493,
       "word": "有个拆台的老婆是什么感觉",
@@ -1747,12 +1787,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215054,
+      "num": 215054,
+      "word": "张杰新歌",
+      "onboard_time": 1708784856,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 215046,
       "num": 215046,
       "word": "水哥出题算是踢到铁板了",
       "onboard_time": 1708701694,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214307,
+      "num": 214307,
+      "word": "女子假胖20年意外瘦身60斤",
+      "onboard_time": 1708784736,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213172,
@@ -1785,14 +1841,6 @@
       "onboard_time": 1708769976,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210283,
-      "num": 210283,
-      "word": "JDG对战BLG",
-      "onboard_time": 1708778497,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 209345,
@@ -1851,14 +1899,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 205625,
-      "num": 205625,
-      "word": "沙溢是你吗",
-      "onboard_time": 1708783839,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205091,
       "num": 205091,
       "word": "俄军A50预警机被击落",
@@ -1897,6 +1937,14 @@
       "onboard_time": 1708779456,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200778,
+      "num": 200778,
+      "word": "赖美云好甜",
+      "onboard_time": 1708785037,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 200762,
@@ -1945,6 +1993,14 @@
       "onboard_time": 1708751612,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198626,
+      "num": 198626,
+      "word": "毛不易要在元宵晚会唱爱情",
+      "onboard_time": 1708784080,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 197089,
@@ -2313,6 +2369,14 @@
       "onboard_time": 1708749092,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163918,
+      "num": 187105,
+      "word": "横店悬崖",
+      "onboard_time": 1708785218,
+      "rank": 48,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 163579,
@@ -2916,7 +2980,7 @@
     },
     {
       "raw_hot": 96117,
-      "num": 2488029,
+      "num": 2816055,
       "word": "元宵节花灯大比拼",
       "onboard_time": 1708743152,
       "rank": 2,
@@ -3009,6 +3073,14 @@
       "onboard_time": 1708722317,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 66263,
+      "num": 727728,
+      "word": "央视元宵晚会开到了元梦",
+      "onboard_time": 1708783238,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 60235,
@@ -3137,14 +3209,6 @@
       "onboard_time": 1708716556,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 23286,
-      "num": 727728,
-      "word": "央视元宵晚会开到了元梦",
-      "onboard_time": 1708783238,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 17319,

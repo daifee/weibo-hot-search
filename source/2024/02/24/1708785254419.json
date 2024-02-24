@@ -1,0 +1,410 @@
+{
+  "runTime": 1708785254419,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3436938,
+        "num": 3436938,
+        "word": "国乒女团vs日本",
+        "onboard_time": 1708779759,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2935144,
+        "num": 2935144,
+        "word": "陈梦vs张本美和",
+        "onboard_time": 1708783476,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29115,
+        "num": 2816055,
+        "word": "元宵节花灯大比拼",
+        "onboard_time": 1708743152,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2802414,
+        "num": 2802414,
+        "word": "马琳",
+        "onboard_time": 1708782218,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2226193,
+        "num": 2226193,
+        "word": "何炅工作室发了双北",
+        "onboard_time": 1708775013,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1787466,
+        "num": 1787466,
+        "word": "中学生发现微信抢最大红包秘诀",
+        "onboard_time": 1708775013,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1042349,
+        "num": 1042349,
+        "word": "陈梦1比3早田希娜",
+        "onboard_time": 1708778793,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 912532,
+        "num": 912532,
+        "word": "女团决赛",
+        "onboard_time": 1708780235,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 904447,
+        "num": 904447,
+        "word": "黄旭熙以前是因为太孤单了",
+        "onboard_time": 1708778136,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 861915,
+        "num": 861915,
+        "word": "尼格买提对上了",
+        "onboard_time": 1708777660,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 852639,
+        "num": 852639,
+        "word": "沙溢唱戏",
+        "onboard_time": 1708782036,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 825306,
+        "num": 825306,
+        "word": "河南卫视 上春山",
+        "onboard_time": 1708774958,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 796853,
+        "num": 796853,
+        "word": "陈梦 早田希娜",
+        "onboard_time": 1708776274,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 682753,
+        "num": 682753,
+        "word": "时代少年团新歌首秀",
+        "onboard_time": 1708784378,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66263,
+        "num": 637766,
+        "word": "央视元宵晚会开到了元梦",
+        "onboard_time": 1708783238,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 636366,
+        "num": 636366,
+        "word": "毛不易单依纯声音好搭",
+        "onboard_time": 1708782941,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 633823,
+        "num": 633823,
+        "word": "擦网",
+        "onboard_time": 1708780958,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 536848,
+        "num": 536848,
+        "word": "黄旭熙曾羡慕队友没工作",
+        "onboard_time": 1708781562,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 508457,
+        "num": 508457,
+        "word": "王艺迪0比3平野美宇",
+        "onboard_time": 1708781436,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441451,
+        "num": 441451,
+        "word": "陈楚生唱晚礼服",
+        "onboard_time": 1708781562,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434135,
+        "num": 434135,
+        "word": "孙颖莎3比0早田希娜",
+        "onboard_time": 1708784979,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418649,
+        "num": 418649,
+        "word": "上春山",
+        "onboard_time": 1708778737,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409562,
+        "num": 409562,
+        "word": "孙颖莎太稳了",
+        "onboard_time": 1708782097,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398539,
+        "num": 398539,
+        "word": "心疼坦然",
+        "onboard_time": 1708784197,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 395745,
+        "num": 395745,
+        "word": "元宵节",
+        "onboard_time": 1708776457,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 377907,
+        "num": 377907,
+        "word": "papi酱 这个年真的过完了",
+        "onboard_time": 1708771352,
+        "rank": 25,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 357781,
+        "num": 357781,
+        "word": "湖南节目单换顺序",
+        "onboard_time": 1708779276,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355601,
+        "num": 355601,
+        "word": "孙颖莎3比0张本美和",
+        "onboard_time": 1708781017,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338308,
+        "num": 338308,
+        "word": "成毅就吃两个汤圆",
+        "onboard_time": 1708781318,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294425,
+        "num": 294425,
+        "word": "白敬亭回复弹幕",
+        "onboard_time": 1708769012,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292886,
+        "num": 292886,
+        "word": "合肥地震",
+        "onboard_time": 1708770033,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273651,
+        "num": 273651,
+        "word": "国乒男团3比2韩国",
+        "onboard_time": 1708760432,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262320,
+        "num": 262320,
+        "word": "范丞丞给辣条打码",
+        "onboard_time": 1708779817,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246678,
+        "num": 246678,
+        "word": "JDG对战BLG",
+        "onboard_time": 1708778497,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 243866,
+        "num": 243866,
+        "word": "肖战跨国请客",
+        "onboard_time": 1708776639,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235808,
+        "num": 235808,
+        "word": "夫妻得知怀孕后跪谢老中医",
+        "onboard_time": 1708769492,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225254,
+        "num": 225254,
+        "word": "沙溢是你吗",
+        "onboard_time": 1708783839,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223446,
+        "num": 223446,
+        "word": "王曼昱",
+        "onboard_time": 1708771473,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217082,
+        "num": 217082,
+        "word": "湖南卫视相声 尴尬",
+        "onboard_time": 1708776696,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215054,
+        "num": 215054,
+        "word": "张杰新歌",
+        "onboard_time": 1708784856,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214307,
+        "num": 214307,
+        "word": "女子假胖20年意外瘦身60斤",
+        "onboard_time": 1708784736,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214080,
+        "num": 214080,
+        "word": "谷歌高级副总裁为AI画不出白人道歉",
+        "onboard_time": 1708779156,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 210000,
+        "num": 210000,
+        "word": "何炅撒贝宁合体",
+        "onboard_time": 1708776938,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200778,
+        "num": 200778,
+        "word": "赖美云好甜",
+        "onboard_time": 1708785037,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198626,
+        "num": 198626,
+        "word": "毛不易要在元宵晚会唱爱情",
+        "onboard_time": 1708784080,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190213,
+        "num": 190213,
+        "word": "陈丽君李云霄节目在第几个",
+        "onboard_time": 1708781858,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187870,
+        "num": 187870,
+        "word": "人类分娩的痛苦和危险性是最高的",
+        "onboard_time": 1708776814,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 193621,
+        "num": 187813,
+        "word": "撒贝宁出灯谜谜底是何炅",
+        "onboard_time": 1708782756,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163918,
+        "num": 187105,
+        "word": "横店悬崖",
+        "onboard_time": 1708785218,
+        "rank": 48,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 186766,
+        "num": 186766,
+        "word": "周深毛不易元宵晚会C位开场",
+        "onboard_time": 1708780055,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化是一个国家一个民族的灵魂#"
+    }
+  }
+}
