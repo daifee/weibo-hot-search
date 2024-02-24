@@ -1,7 +1,23 @@
 {
   "startTime": 1708705253127,
-  "endTime": 1708731259329,
+  "endTime": 1708736890071,
   "band_list": [
+    {
+      "raw_hot": 2843900,
+      "num": 2843900,
+      "word": "南京一小区火灾15人遇难44人受伤",
+      "onboard_time": 1708730060,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2336138,
+      "num": 712265,
+      "word": "父子赌气吃碳酸钡粉儿子身亡",
+      "onboard_time": 1708732282,
+      "rank": 3,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1783817,
       "num": 1783817,
@@ -11,20 +27,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1592676,
-      "num": 1592676,
-      "word": "南京一小区火灾15人遇难44人受伤",
-      "onboard_time": 1708730060,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1193130,
       "num": 1193130,
       "word": "肖战领口一年比一年低",
       "onboard_time": 1708701993,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 950309,
+      "num": 504861,
+      "word": "秦岚染发",
+      "onboard_time": 1708735591,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 865730,
@@ -41,6 +57,14 @@
       "onboard_time": 1708701871,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 721142,
+      "num": 721142,
+      "word": "元宵节快乐",
+      "onboard_time": 1708732645,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 712831,
@@ -67,6 +91,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 608168,
+      "num": 608168,
+      "word": "官方回应女浴室门口图片被吐槽变态",
+      "onboard_time": 1708712958,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 588524,
+      "num": 588524,
+      "word": "南京火灾小区曾因电动车停放引发投诉",
+      "onboard_time": 1708733787,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 562423,
+      "num": 562423,
+      "word": "韩国超万名医学生申请休学",
+      "onboard_time": 1708734268,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519889,
       "num": 519889,
       "word": "南京火灾初查系电动车停放处起火",
@@ -91,12 +139,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 473211,
-      "num": 473211,
-      "word": "官方回应女浴室门口图片被吐槽变态",
-      "onboard_time": 1708712958,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 507802,
+      "num": 507802,
+      "word": "炎亚纶捏紧了拳头",
+      "onboard_time": 1708731022,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 507486,
+      "num": 507486,
+      "word": "肖战文淇身高差",
+      "onboard_time": 1708733365,
+      "rank": 9,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 466471,
@@ -131,12 +187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351559,
+      "num": 351559,
+      "word": "93岁姥爷非要帮铲雪外孙女吓跪了",
+      "onboard_time": 1708717817,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343318,
       "num": 343318,
       "word": "富家千金接班7年累计亏损近32亿",
       "onboard_time": 1708682435,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 335662,
+      "num": 335662,
+      "word": "香港自由行率先开放西安青岛",
+      "onboard_time": 1708735230,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 333959,
@@ -155,12 +227,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 313493,
+      "num": 253349,
+      "word": "聊天记录真的不能向上翻",
+      "onboard_time": 1708730360,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 306235,
       "num": 306235,
       "word": "蒲熠星给苏醒开了十年会员",
       "onboard_time": 1708700136,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293798,
+      "num": 293798,
+      "word": "元宵节文案",
+      "onboard_time": 1708724237,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286941,
@@ -171,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285479,
+      "num": 285479,
+      "word": "网红杨老二家属称劝酒观众无一人道歉",
+      "onboard_time": 1708707445,
+      "rank": 19,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 281484,
       "num": 281484,
       "word": "唐九洲赵昭仪吓跪了",
@@ -179,12 +275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 270528,
-      "num": 270528,
-      "word": "网红杨老二家属称劝酒观众无一人道歉",
-      "onboard_time": 1708707445,
-      "rank": 19,
-      "category": "社会新闻,网红"
+      "raw_hot": 275475,
+      "num": 275475,
+      "word": "广州断桥事件倒车拦车车主发声",
+      "onboard_time": 1708717757,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266208,
@@ -195,6 +291,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261305,
+      "num": 261305,
+      "word": "警方已控制柳州贩婴事件嫌疑人",
+      "onboard_time": 1708734629,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236292,
+      "num": 236292,
+      "word": "肖战mai合影",
+      "onboard_time": 1708735952,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 227612,
       "num": 197468,
       "word": "鹿晗村超破门做C罗式庆祝",
@@ -203,12 +315,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 227045,
-      "num": 227045,
-      "word": "广州断桥事件倒车拦车车主发声",
-      "onboard_time": 1708717757,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 225893,
+      "num": 225893,
+      "word": "任正非曾公开支持姚安娜搞文艺",
+      "onboard_time": 1708709903,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 215046,
@@ -217,14 +329,6 @@
       "onboard_time": 1708701694,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210062,
-      "num": 210062,
-      "word": "任正非曾公开支持姚安娜搞文艺",
-      "onboard_time": 1708709903,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 208209,
@@ -243,11 +347,27 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 196616,
+      "num": 196616,
+      "word": "16岁男生半年减重160斤",
+      "onboard_time": 1708729518,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183836,
       "num": 197351,
       "word": "Hanni米兰时装周",
       "onboard_time": 1708701270,
       "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180793,
+      "num": 180793,
+      "word": "安妮海瑟薇宁艺卓黄铉辰同框",
+      "onboard_time": 1708736791,
+      "rank": 25,
       "category": "作品衍生"
     },
     {
@@ -291,20 +411,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 170085,
+      "num": 143580,
+      "word": "李铁案暂未开庭",
+      "onboard_time": 1708736068,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169209,
+      "num": 169209,
+      "word": "丁程鑫发长文谈22岁",
+      "onboard_time": 1708733004,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168247,
       "num": 168247,
       "word": "贾丹贾玲姐妹情",
       "onboard_time": 1708699955,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166906,
-      "num": 166906,
-      "word": "93岁姥爷非要帮铲雪外孙女吓跪了",
-      "onboard_time": 1708717817,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165621,
@@ -323,20 +451,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144654,
-      "num": 144654,
-      "word": "元宵节文案",
-      "onboard_time": 1708724237,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142192,
       "num": 171019,
       "word": "早上和老板说怀孕下午就被降薪",
       "onboard_time": 1708685554,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141411,
+      "num": 141411,
+      "word": "原来元宵节才是古人的情人节",
+      "onboard_time": 1708735890,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 140747,
+      "num": 140747,
+      "word": "哪种元宵汤圆馅最受欢迎",
+      "onboard_time": 1708732163,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 138520,
@@ -355,12 +491,36 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 131375,
+      "num": 131375,
+      "word": "王鹤棣回应成为追星赢家",
+      "onboard_time": 1708735591,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129496,
       "num": 181189,
       "word": "佛山电翰又开始直播打螺丝了",
       "onboard_time": 1708687171,
       "rank": 28,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 126414,
+      "num": 126414,
+      "word": "如果一个人周五没那么高兴",
+      "onboard_time": 1708733307,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 125550,
+      "num": 148739,
+      "word": "好久没联系的同学一般只有三件事",
+      "onboard_time": 1708694013,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 125344,
@@ -377,14 +537,6 @@
       "onboard_time": 1708672771,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123700,
-      "num": 148739,
-      "word": "好久没联系的同学一般只有三件事",
-      "onboard_time": 1708694013,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 122993,
@@ -411,6 +563,30 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 116164,
+      "num": 116164,
+      "word": "肉汤圆",
+      "onboard_time": 1708735408,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 115383,
+      "num": 115383,
+      "word": "春楠 热辣滚烫最不值一提的是减重",
+      "onboard_time": 1708714698,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 112160,
+      "num": 86677,
+      "word": "南京居民楼火灾死亡人数增至15人",
+      "onboard_time": 1708735952,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108583,
       "num": 148149,
       "word": "双鱼座才不会在感情中盲目",
@@ -435,14 +611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 105392,
-      "num": 105392,
-      "word": "16岁男生半年减重160斤",
-      "onboard_time": 1708729518,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103061,
       "num": 123469,
       "word": "贾金龙 大手笔",
@@ -459,28 +627,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 96866,
-      "num": 57915,
-      "word": "炎亚纶捏紧了拳头",
-      "onboard_time": 1708731022,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 90467,
-      "num": 75213,
-      "word": "聊天记录真的不能向上翻",
-      "onboard_time": 1708730360,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 88439,
       "num": 122757,
       "word": "不会断句的网友把博物馆逼得改名",
       "onboard_time": 1708694735,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86565,
+      "num": 86565,
+      "word": "找到了兔子帽的正确用法",
+      "onboard_time": 1708735469,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 86537,
+      "num": 86537,
+      "word": "新疆阿合奇县发生5.3级地震",
+      "onboard_time": 1708732042,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84056,
@@ -555,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55699,
-      "num": 55699,
-      "word": "春楠 热辣滚烫最不值一提的是减重",
-      "onboard_time": 1708714698,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 49869,
       "num": 180436,
       "word": "融安通报网民举报不法分子贩卖婴儿",
@@ -627,20 +787,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 24113,
+      "num": 712310,
+      "word": "空间站里都有哪些科学装置",
+      "onboard_time": 1708693833,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17319,
       "num": 17319,
       "word": "虞书欣 橱窗娃娃",
       "onboard_time": 1708724836,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 15707,
-      "num": 534713,
-      "word": "空间站里都有哪些科学装置",
-      "onboard_time": 1708693833,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
