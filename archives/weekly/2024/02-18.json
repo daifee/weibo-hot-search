@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708774509633,
+  "endTime": 1708777688935,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -249,6 +249,14 @@
       "onboard_time": 1708693833,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2751831,
+      "num": 2751831,
+      "word": "何炅工作室发了双北",
+      "onboard_time": 1708775013,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2750419,
@@ -963,6 +971,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 1669605,
+      "num": 1669605,
+      "word": "河南卫视 上春山",
+      "onboard_time": 1708774958,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1665937,
       "num": 1421478,
       "word": "新沙洞老虎去世",
@@ -1139,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1504443,
+      "num": 1504443,
+      "word": "央视元宵晚会",
+      "onboard_time": 1708773933,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1503182,
       "num": 1503182,
       "word": "国内首例反复感染新冠的Goods综合征患者",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1708513774,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1447369,
+      "num": 1447369,
+      "word": "元宵节",
+      "onboard_time": 1708776457,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 1446420,
@@ -1505,6 +1537,14 @@
       "onboard_time": 1708354362,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1285759,
+      "num": 1285759,
+      "word": "陈梦 早田希娜",
+      "onboard_time": 1708776274,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1280655,
@@ -2499,6 +2539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 902106,
+      "num": 902106,
+      "word": "何炅撒贝宁合体",
+      "onboard_time": 1708776938,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 901929,
       "num": 901929,
       "word": "柳鑫宇自曝事件",
@@ -2825,6 +2873,14 @@
       "onboard_time": 1708333779,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 820379,
+      "num": 820379,
+      "word": "元宵晚会节目单",
+      "onboard_time": 1708763910,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 819513,
@@ -3316,7 +3372,7 @@
     },
     {
       "raw_hot": 712242,
-      "num": 712242,
+      "num": 829976,
       "word": "专家谈正月剃头死舅舅",
       "onboard_time": 1708762408,
       "rank": 38,
@@ -3497,14 +3553,6 @@
       "onboard_time": 1708656095,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 685721,
-      "num": 685721,
-      "word": "元宵晚会节目单",
-      "onboard_time": 1708763910,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 685014,
@@ -4027,6 +4075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 619863,
+      "num": 619863,
+      "word": "湖南卫视相声 尴尬",
+      "onboard_time": 1708776696,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 619284,
       "num": 619284,
       "word": "马龙2比3李尚洙",
@@ -4049,6 +4105,14 @@
       "onboard_time": 1708760488,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 617777,
+      "num": 617777,
+      "word": "中学生发现微信抢最大红包秘诀",
+      "onboard_time": 1708775013,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 617486,
@@ -4283,6 +4347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597324,
+      "num": 597324,
+      "word": "迪丽热巴元宵素颜自拍",
+      "onboard_time": 1708774357,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 596724,
       "num": 481866,
       "word": "全世界都知道妹妹在赶作业了",
@@ -4361,14 +4433,6 @@
       "onboard_time": 1708752211,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 589300,
-      "num": 589300,
-      "word": "央视元宵晚会",
-      "onboard_time": 1708773933,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 587697,
@@ -6115,6 +6179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 426346,
+      "num": 426346,
+      "word": "肖战跨国请客",
+      "onboard_time": 1708776639,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 425968,
       "num": 425968,
       "word": "郑恺牛仔裙",
@@ -7099,6 +7171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 363142,
+      "num": 363142,
+      "word": "唐嫣紫色",
+      "onboard_time": 1708776760,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362827,
       "num": 362827,
       "word": "她的胸怀早已是蓝天大海",
@@ -7424,6 +7504,14 @@
       "word": "痔疮膏购买力广东全国第1",
       "onboard_time": 1708481133,
       "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 343015,
+      "num": 343015,
+      "word": "国际公认的5个强致癌物",
+      "onboard_time": 1708776156,
+      "rank": 24,
       "category": "健康医疗"
     },
     {
@@ -9019,6 +9107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281158,
+      "num": 281158,
+      "word": "邓男子吐金鱼",
+      "onboard_time": 1708777355,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281133,
       "num": 281133,
       "word": "强哥是忘了老高家的规矩了吗",
@@ -9643,14 +9739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 263731,
-      "num": 263731,
-      "word": "迪丽热巴元宵素颜自拍",
-      "onboard_time": 1708774357,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 263616,
       "num": 263616,
       "word": "这个班真就非上不可吗",
@@ -10099,6 +10187,14 @@
       "category": "体育,健康医疗"
     },
     {
+      "raw_hot": 249742,
+      "num": 249742,
+      "word": "粉丝给迪丽热巴P的女团打歌照",
+      "onboard_time": 1708776579,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249727,
       "num": 249727,
       "word": "甄嬛传又有新发现了",
@@ -10467,6 +10563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 242626,
+      "num": 242626,
+      "word": "安妮海瑟薇在秀场社交的视频",
+      "onboard_time": 1708776996,
+      "rank": 32,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 241616,
       "num": 241616,
       "word": "王楚钦11比1",
@@ -10809,6 +10913,14 @@
       "onboard_time": 1708250614,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 233059,
+      "num": 233059,
+      "word": "人类分娩的痛苦和危险性是最高的",
+      "onboard_time": 1708776814,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 232820,
@@ -12027,6 +12139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209989,
+      "num": 209989,
+      "word": "只有小狗能让肖战回头",
+      "onboard_time": 1708776156,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209653,
       "num": 209653,
       "word": "南来北往",
@@ -12739,6 +12859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200464,
+      "num": 200464,
+      "word": "以前的元宵节能放三十天假",
+      "onboard_time": 1708773817,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200193,
       "num": 200193,
       "word": "LESSERAFIM回归新歌MV",
@@ -13123,6 +13251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194833,
+      "num": 194833,
+      "word": "回老家后花的钱反而更多了",
+      "onboard_time": 1708774715,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194801,
       "num": 343333,
       "word": "陈梦3比1张璇",
@@ -13320,6 +13456,14 @@
       "word": "麦克朗卫冕扣篮大赛冠军",
       "onboard_time": 1708230337,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192084,
+      "num": 192084,
+      "word": "孙颖莎对阵张本美和4连胜",
+      "onboard_time": 1708776395,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -14569,14 +14713,6 @@
       "onboard_time": 1708604737,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 175730,
-      "num": 175730,
-      "word": "以前的元宵节能放三十天假",
-      "onboard_time": 1708773817,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175451,
@@ -16171,6 +16307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152928,
+      "num": 152928,
+      "word": "尼格买提对上了",
+      "onboard_time": 1708777660,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152900,
       "num": 152900,
       "word": "成都地铁站首位龙宝宝诞生",
@@ -16785,6 +16929,14 @@
       "onboard_time": 1708275205,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145351,
+      "num": 145351,
+      "word": "男粉偶遇华晨宇",
+      "onboard_time": 1708776097,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 145151,
@@ -18931,6 +19083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50598,
+      "num": 1561467,
+      "word": "龙腾中国 舞动新春",
+      "onboard_time": 1708764991,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50041,
       "num": 50041,
       "word": "返程前最后一餐吃什么",
@@ -18969,14 +19129,6 @@
       "onboard_time": 1708556841,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46911,
-      "num": 1155285,
-      "word": "龙腾中国 舞动新春",
-      "onboard_time": 1708764991,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46895,
@@ -19283,6 +19435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27003,
+      "num": 617925,
+      "word": "哪位幸运儿抽中京东元宵节大奖",
+      "onboard_time": 1708776395,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 25428,
       "num": 48653,
       "word": "十四冬开幕式今日举行",
@@ -19521,6 +19681,14 @@
       "onboard_time": 1708460776,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12760,
+      "num": 204939,
+      "word": "元宵灯会惊现山海神兽",
+      "onboard_time": 1708777177,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12756,
