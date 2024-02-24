@@ -1,6 +1,6 @@
 {
   "startTime": 1708705253127,
-  "endTime": 1708763663602,
+  "endTime": 1708766108036,
   "band_list": [
     {
       "raw_hot": 3207189,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1222142,
+      "num": 1222142,
+      "word": "杨迪金靖情头",
+      "onboard_time": 1708761269,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1193130,
       "num": 1193130,
       "word": "肖战领口一年比一年低",
@@ -145,14 +153,6 @@
       "onboard_time": 1708750892,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1041167,
-      "num": 1041167,
-      "word": "杨迪金靖情头",
-      "onboard_time": 1708761269,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 1039460,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 886398,
+      "num": 886398,
+      "word": "小司藤长大了",
+      "onboard_time": 1708764753,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 874669,
       "num": 497181,
       "word": "网友拍下南京着火高层住户喊救命",
@@ -243,6 +251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 733938,
+      "num": 733938,
+      "word": "教授称女性退休年龄延至60岁不能一刀切",
+      "onboard_time": 1708763372,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 730823,
       "num": 730823,
       "word": "专家建议应避免早晚食用汤圆",
@@ -257,6 +273,14 @@
       "onboard_time": 1708732645,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 715605,
+      "num": 715605,
+      "word": "王楚钦说庆幸我们还活着",
+      "onboard_time": 1708764632,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 712831,
@@ -291,6 +315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 657090,
+      "num": 657090,
+      "word": "谭松韵首部仙侠剧官宣",
+      "onboard_time": 1708760132,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 643590,
       "num": 643590,
       "word": "韩国超万名医学生申请休学",
@@ -308,7 +340,7 @@
     },
     {
       "raw_hot": 639143,
-      "num": 315155,
+      "num": 345376,
       "word": "女子连坐20小时车后身亡",
       "onboard_time": 1708758751,
       "rank": 34,
@@ -355,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 595989,
+      "num": 595989,
+      "word": "元宵晚会节目单",
+      "onboard_time": 1708763910,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 595762,
       "num": 595762,
       "word": "成毅公主抱李一桐路透",
@@ -377,6 +417,14 @@
       "onboard_time": 1708750892,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 527391,
+      "num": 527391,
+      "word": "VOGUE新主编",
+      "onboard_time": 1708764452,
+      "rank": 12,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 524370,
@@ -451,20 +499,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496952,
+      "num": 496952,
+      "word": "樊振东连斩韩国一单二单",
+      "onboard_time": 1708761632,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 491551,
       "num": 330047,
       "word": "鸡蛋上最脏的东西你可能吃了",
       "onboard_time": 1708745669,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 483965,
-      "num": 483965,
-      "word": "樊振东连斩韩国一单二单",
-      "onboard_time": 1708761632,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 479638,
@@ -571,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 432021,
+      "num": 432021,
+      "word": "永远记住王楚钦这一球",
+      "onboard_time": 1708763372,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 429867,
       "num": 429867,
       "word": "樊振东模仿贝林厄姆庆祝动作",
@@ -595,12 +651,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 401153,
+      "num": 401153,
+      "word": "朱一龙晒麻将汤圆",
+      "onboard_time": 1708763669,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394343,
       "num": 394343,
       "word": "王者荣耀",
       "onboard_time": 1708701934,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 394183,
+      "num": 339314,
+      "word": "专家谈正月剃头死舅舅",
+      "onboard_time": 1708762408,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 389202,
@@ -627,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 373407,
-      "num": 373407,
-      "word": "谭松韵首部仙侠剧官宣",
-      "onboard_time": 1708760132,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 369284,
       "num": 369284,
       "word": "我过年和周深过年的区别",
@@ -657,6 +721,14 @@
       "onboard_time": 1708742553,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 357532,
+      "num": 357532,
+      "word": "刘亦菲将去巴黎时装周",
+      "onboard_time": 1708762588,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 352252,
@@ -723,20 +795,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 321121,
-      "num": 321121,
-      "word": "刘亦菲将去巴黎时装周",
-      "onboard_time": 1708762588,
-      "rank": 44,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 317828,
-      "num": 298961,
-      "word": "专家谈正月剃头死舅舅",
-      "onboard_time": 1708762408,
-      "rank": 38,
-      "category": "健康医疗"
+      "raw_hot": 323789,
+      "num": 323789,
+      "word": "韩素希随地大小躺",
+      "onboard_time": 1708765531,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 314264,
@@ -771,12 +835,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305032,
+      "num": 556912,
+      "word": "减肥的风潮吹到了元宵",
+      "onboard_time": 1708761330,
+      "rank": 35,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 303393,
       "num": 303393,
       "word": "南京火灾小区物业回应架空层停车",
       "onboard_time": 1708757250,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297934,
+      "num": 297934,
+      "word": "赵露思白色拖尾裙",
+      "onboard_time": 1708765471,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 295318,
@@ -859,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274066,
+      "num": 214433,
+      "word": "72岁老人发现太奶秘密情史",
+      "onboard_time": 1708763969,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 266208,
       "num": 207257,
       "word": "苏醒也知道很不体面",
@@ -915,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256449,
+      "num": 256449,
+      "word": "暗爽型人格",
+      "onboard_time": 1708761150,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 255980,
       "num": 255980,
       "word": "王珞丹全家福",
@@ -945,6 +1041,14 @@
       "onboard_time": 1708751432,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245793,
+      "num": 245793,
+      "word": "特朗普模仿拜登走下舞台",
+      "onboard_time": 1708764571,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 239839,
@@ -987,14 +1091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224893,
-      "num": 224893,
-      "word": "暗爽型人格",
-      "onboard_time": 1708761150,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 223029,
       "num": 183493,
       "word": "有个拆台的老婆是什么感觉",
@@ -1008,6 +1104,22 @@
       "word": "社区回应火灾小区曾被举报有失火隐患",
       "onboard_time": 1708761808,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219507,
+      "num": 219507,
+      "word": "狐妖小红娘王权篇",
+      "onboard_time": 1708765412,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 219361,
+      "num": 219361,
+      "word": "警方通报广州一地铁口2人打架",
+      "onboard_time": 1708765114,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1073,6 +1185,14 @@
       "onboard_time": 1708751373,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207330,
+      "num": 207330,
+      "word": "拖米说要保护周深",
+      "onboard_time": 1708765289,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 207186,
@@ -1211,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189622,
+      "num": 189622,
+      "word": "不想开学",
+      "onboard_time": 1708765775,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189373,
       "num": 189373,
       "word": "乒乓球直播",
@@ -1225,14 +1353,6 @@
       "onboard_time": 1708743029,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 185921,
-      "num": 185921,
-      "word": "减肥的风潮吹到了元宵",
-      "onboard_time": 1708761330,
-      "rank": 35,
-      "category": "运动健身"
     },
     {
       "raw_hot": 185365,
@@ -1531,14 +1651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 150399,
-      "num": 150399,
-      "word": "永远记住王楚钦这一球",
-      "onboard_time": 1708763372,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 150296,
       "num": 150296,
       "word": "王牛 抢票",
@@ -1561,6 +1673,14 @@
       "onboard_time": 1708740812,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143735,
+      "num": 143735,
+      "word": "王楚钦感谢樊振东",
+      "onboard_time": 1708765953,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 143008,
@@ -1785,14 +1905,6 @@
       "onboard_time": 1708735469,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119976,
-      "num": 119976,
-      "word": "教授称女性退休年龄延至60岁不能一刀切",
-      "onboard_time": 1708763372,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119711,
@@ -2048,6 +2160,14 @@
       "word": "融安通报网民举报不法分子贩卖婴儿",
       "onboard_time": 1708697675,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45699,
+      "num": 802653,
+      "word": "龙腾中国 舞动新春",
+      "onboard_time": 1708764991,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

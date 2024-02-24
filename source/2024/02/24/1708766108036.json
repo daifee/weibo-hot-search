@@ -1,0 +1,410 @@
+{
+  "runTime": 1708766108036,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1222142,
+        "num": 1222142,
+        "word": "杨迪金靖情头",
+        "onboard_time": 1708761269,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 886398,
+        "num": 886398,
+        "word": "小司藤长大了",
+        "onboard_time": 1708764753,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45699,
+        "num": 802653,
+        "word": "龙腾中国 舞动新春",
+        "onboard_time": 1708764991,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733938,
+        "num": 733938,
+        "word": "教授称女性退休年龄延至60岁不能一刀切",
+        "onboard_time": 1708763372,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1214615,
+        "num": 731792,
+        "word": "65岁或为延迟退休调整后最终结果",
+        "onboard_time": 1708753472,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715605,
+        "num": 715605,
+        "word": "王楚钦说庆幸我们还活着",
+        "onboard_time": 1708764632,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 657090,
+        "num": 657090,
+        "word": "谭松韵首部仙侠剧官宣",
+        "onboard_time": 1708760132,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 629526,
+        "num": 629526,
+        "word": "国乒男团3比2韩国",
+        "onboard_time": 1708760432,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 595989,
+        "num": 595989,
+        "word": "元宵晚会节目单",
+        "onboard_time": 1708763910,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305032,
+        "num": 556912,
+        "word": "减肥的风潮吹到了元宵",
+        "onboard_time": 1708761330,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 770528,
+        "num": 552345,
+        "word": "因上班穿的恶心被领导谈话了",
+        "onboard_time": 1708746690,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 543179,
+        "num": 543179,
+        "word": "詹姆斯在王鹤棣面前摔倒了",
+        "onboard_time": 1708759648,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 527391,
+        "num": 527391,
+        "word": "VOGUE新主编",
+        "onboard_time": 1708764452,
+        "rank": 12,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 496952,
+        "num": 496952,
+        "word": "樊振东连斩韩国一单二单",
+        "onboard_time": 1708761632,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 442033,
+        "num": 442033,
+        "word": "看得出来钟楚曦很满意这次泰国游",
+        "onboard_time": 1708757609,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432021,
+        "num": 432021,
+        "word": "永远记住王楚钦这一球",
+        "onboard_time": 1708763372,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403758,
+        "num": 403758,
+        "word": "王小利回应被儿子断绝关系",
+        "onboard_time": 1708752927,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401153,
+        "num": 401153,
+        "word": "朱一龙晒麻将汤圆",
+        "onboard_time": 1708763669,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373133,
+        "num": 373133,
+        "word": "苏醒把老婆拉黑了",
+        "onboard_time": 1708739913,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357532,
+        "num": 357532,
+        "word": "刘亦菲将去巴黎时装周",
+        "onboard_time": 1708762588,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 580255,
+        "num": 345376,
+        "word": "女子连坐20小时车后身亡",
+        "onboard_time": 1708758751,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394183,
+        "num": 339314,
+        "word": "专家谈正月剃头死舅舅",
+        "onboard_time": 1708762408,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 323789,
+        "num": 323789,
+        "word": "韩素希随地大小躺",
+        "onboard_time": 1708765531,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297934,
+        "num": 297934,
+        "word": "赵露思白色拖尾裙",
+        "onboard_time": 1708765471,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271134,
+        "num": 271134,
+        "word": "何炅撒贝宁元宵晚会坐一桌",
+        "onboard_time": 1708753352,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256449,
+        "num": 256449,
+        "word": "暗爽型人格",
+        "onboard_time": 1708761150,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245793,
+        "num": 245793,
+        "word": "特朗普模仿拜登走下舞台",
+        "onboard_time": 1708764571,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 219507,
+        "num": 219507,
+        "word": "狐妖小红娘王权篇",
+        "onboard_time": 1708765412,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219361,
+        "num": 219361,
+        "word": "警方通报广州一地铁口2人打架",
+        "onboard_time": 1708765114,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214967,
+        "num": 214967,
+        "word": "吃汤圆和不吃汤圆的都沉默了",
+        "onboard_time": 1708759648,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 274066,
+        "num": 214433,
+        "word": "72岁老人发现太奶秘密情史",
+        "onboard_time": 1708763969,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213396,
+        "num": 213396,
+        "word": "业主开始自己卖房了",
+        "onboard_time": 1708741652,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211143,
+        "num": 211143,
+        "word": "高菡解说",
+        "onboard_time": 1708761690,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207330,
+        "num": 207330,
+        "word": "拖米说要保护周深",
+        "onboard_time": 1708765289,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189622,
+        "num": 189622,
+        "word": "不想开学",
+        "onboard_time": 1708765775,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184696,
+        "num": 184696,
+        "word": "南京一小区火灾15人遇难44人受伤",
+        "onboard_time": 1708730060,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177205,
+        "num": 177205,
+        "word": "成毅公主抱李一桐路透",
+        "onboard_time": 1708756292,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161338,
+        "num": 161338,
+        "word": "王楚钦超级神仙球",
+        "onboard_time": 1708760488,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162787,
+        "num": 157134,
+        "word": "我过年和周深过年的区别",
+        "onboard_time": 1708757909,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143735,
+        "num": 143735,
+        "word": "王楚钦感谢樊振东",
+        "onboard_time": 1708765953,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141848,
+        "num": 141848,
+        "word": "杨幂猫猫抬头",
+        "onboard_time": 1708762832,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138105,
+        "num": 138105,
+        "word": "樊振东模仿贝林厄姆庆祝动作",
+        "onboard_time": 1708760369,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137165,
+        "num": 137165,
+        "word": "社区回应火灾小区曾被举报有失火隐患",
+        "onboard_time": 1708761808,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134656,
+        "num": 134656,
+        "word": "不爱喝茶的年轻人爱上龙井茶汤圆",
+        "onboard_time": 1708750892,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125611,
+        "num": 125611,
+        "word": "南京火灾小区物业回应架空层停车",
+        "onboard_time": 1708757250,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123383,
+        "num": 123383,
+        "word": "为什么讨坏型人格反而更受欢迎",
+        "onboard_time": 1708758271,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120513,
+        "num": 120513,
+        "word": "起火小区居民回应四年前发帖预警",
+        "onboard_time": 1708760071,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116018,
+        "num": 116018,
+        "word": "马龙黄牌",
+        "onboard_time": 1708756051,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108470,
+        "num": 108470,
+        "word": "王牛 抢票",
+        "onboard_time": 1708763552,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103756,
+        "num": 103756,
+        "word": "中国火箭是最硬核的国货",
+        "onboard_time": 1708760730,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}
