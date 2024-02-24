@@ -1,6 +1,6 @@
 {
   "startTime": 1708705253127,
-  "endTime": 1708749243951,
+  "endTime": 1708751815873,
   "band_list": [
     {
       "raw_hot": 3207189,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2631675,
+      "num": 2631675,
+      "word": "因上班穿的恶心被领导谈话了",
+      "onboard_time": 1708746690,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2577102,
       "num": 2577102,
       "word": "南京市长道歉",
       "onboard_time": 1708737331,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2439344,
-      "num": 2439344,
-      "word": "因上班穿的恶心被领导谈话了",
-      "onboard_time": 1708746690,
-      "rank": 0,
-      "category": "幽默"
     },
     {
       "raw_hot": 2336138,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 933198,
+      "num": 933198,
+      "word": "王楚钦1比3张禹珍",
+      "onboard_time": 1708750892,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 908755,
       "num": 908755,
       "word": "何家劲承认已婚生女",
@@ -129,6 +137,14 @@
       "onboard_time": 1708701871,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 804485,
+      "num": 445757,
+      "word": "南京火灾中有一家4人遇难小孩仅4岁",
+      "onboard_time": 1708750413,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 730823,
@@ -203,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524370,
+      "num": 524370,
+      "word": "王楚钦vs张禹珍",
+      "onboard_time": 1708750111,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 519889,
       "num": 519889,
       "word": "南京火灾初查系电动车停放处起火",
@@ -217,6 +241,14 @@
       "onboard_time": 1708696293,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509783,
+      "num": 509783,
+      "word": "迪丽热巴Wonderland封面预告",
+      "onboard_time": 1708749572,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 508537,
@@ -260,7 +292,7 @@
     },
     {
       "raw_hot": 491551,
-      "num": 250167,
+      "num": 304255,
       "word": "鸡蛋上最脏的东西你可能吃了",
       "onboard_time": 1708745669,
       "rank": 22,
@@ -281,6 +313,14 @@
       "onboard_time": 1708746872,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 473065,
+      "num": 473065,
+      "word": "载12人山东籍渔船在东海沉没",
+      "onboard_time": 1708749512,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470586,
@@ -304,6 +344,22 @@
       "word": "伊万科维奇出任国足主帅",
       "onboard_time": 1708745611,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 459303,
+      "num": 459303,
+      "word": "榴莲汤圆",
+      "onboard_time": 1708747530,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 453350,
+      "num": 453350,
+      "word": "王楚钦连赢8分",
+      "onboard_time": 1708750294,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -347,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 366373,
-      "num": 366373,
-      "word": "榴莲汤圆",
-      "onboard_time": 1708747530,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 364107,
       "num": 364107,
       "word": "沥心沙大桥事故幸存者发声",
@@ -377,6 +425,14 @@
       "onboard_time": 1708717817,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346338,
+      "num": 346338,
+      "word": "安踏正式签约CUBAL",
+      "onboard_time": 1708750111,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 344034,
@@ -451,12 +507,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305268,
+      "num": 305268,
+      "word": "不爱喝茶的年轻人爱上龙井茶汤圆",
+      "onboard_time": 1708750892,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 295318,
       "num": 295318,
       "word": "元宵节文案",
       "onboard_time": 1708724237,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291388,
+      "num": 291388,
+      "word": "世乒赛",
+      "onboard_time": 1708750176,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 289770,
@@ -531,12 +603,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 252342,
+      "num": 252342,
+      "word": "杨紫国色芳华花环造型",
+      "onboard_time": 1708748973,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250471,
       "num": 250471,
       "word": "恋与深空 繁灯节",
       "onboard_time": 1708745855,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 233518,
+      "num": 233518,
+      "word": "电动车起火后泼水灭火器沙土都无法熄灭",
+      "onboard_time": 1708748909,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229759,
+      "num": 229759,
+      "word": "朱正廷也被催婚",
+      "onboard_time": 1708751672,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 229226,
@@ -560,14 +656,6 @@
       "word": "任正非曾公开支持姚安娜搞文艺",
       "onboard_time": 1708709903,
       "rank": 4,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 224087,
-      "num": 224087,
-      "word": "杨紫国色芳华花环造型",
-      "onboard_time": 1708748973,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -651,6 +739,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 200328,
+      "num": 200328,
+      "word": "肖战超话阅读量破5000亿",
+      "onboard_time": 1708750413,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196616,
       "num": 196616,
       "word": "16岁男生半年减重160斤",
@@ -689,6 +785,14 @@
       "onboard_time": 1708701270,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 182045,
+      "num": 182045,
+      "word": "杨紫许凯元宵节祝福",
+      "onboard_time": 1708751612,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 180288,
@@ -827,8 +931,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 152911,
-      "num": 152911,
+      "raw_hot": 155113,
+      "num": 155113,
       "word": "日本人总结的一些居家小妙招",
       "onboard_time": 1708747470,
       "rank": 41,
@@ -883,6 +987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148161,
+      "num": 148161,
+      "word": "当公司来了一只小狗时",
+      "onboard_time": 1708749092,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 148125,
       "num": 148125,
       "word": "母女是一种有痛感的关系",
@@ -899,6 +1011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143008,
+      "num": 143008,
+      "word": "杨迪爆改妆跳舞",
+      "onboard_time": 1708749032,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142192,
       "num": 171019,
       "word": "早上和老板说怀孕下午就被降薪",
@@ -913,6 +1033,14 @@
       "onboard_time": 1708748071,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141216,
+      "num": 141216,
+      "word": "南京高楼火灾一家4口裹湿被子成功逃生",
+      "onboard_time": 1708751432,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138520,
@@ -955,11 +1083,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131710,
+      "num": 131710,
+      "word": "小猫摸摸头 招财不用愁",
+      "onboard_time": 1708749992,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130965,
       "num": 130965,
       "word": "网友4年前曾反映起火小区火灾隐患",
       "onboard_time": 1708744771,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129974,
+      "num": 129974,
+      "word": "南京火灾致15死小区曾被投诉",
+      "onboard_time": 1708751373,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -971,12 +1115,12 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 128826,
-      "num": 128826,
-      "word": "杨迪爆改妆跳舞",
-      "onboard_time": 1708749032,
-      "rank": 44,
-      "category": "综艺"
+      "raw_hot": 129040,
+      "num": 129040,
+      "word": "想屏蔽老板结果选成了艾特",
+      "onboard_time": 1708751612,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 127516,
@@ -1083,14 +1227,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 115771,
-      "num": 115771,
-      "word": "电动车起火后泼水灭火器沙土都无法熄灭",
-      "onboard_time": 1708748909,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112597,
       "num": 112597,
       "word": "汤圆是最能整活的节日美食吗",
@@ -1105,14 +1241,6 @@
       "onboard_time": 1708735952,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110326,
-      "num": 110326,
-      "word": "当公司来了一只小狗时",
-      "onboard_time": 1708749092,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 108583,
