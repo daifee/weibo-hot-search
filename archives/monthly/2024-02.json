@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708739929349,
+  "endTime": 1708741192529,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1067,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2577102,
+      "num": 2577102,
+      "word": "南京市长道歉",
+      "onboard_time": 1708737331,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2575656,
       "num": 2575656,
       "word": "又一自称柳鑫宇账号爆料",
@@ -1153,14 +1161,6 @@
       "onboard_time": 1707306875,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2508791,
-      "num": 2508791,
-      "word": "南京市长道歉",
-      "onboard_time": 1708737331,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2501889,
@@ -2497,6 +2497,14 @@
       "onboard_time": 1708474834,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1828047,
+      "num": 1828047,
+      "word": "苏醒把老婆拉黑了",
+      "onboard_time": 1708739913,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1826163,
@@ -6457,6 +6465,14 @@
       "onboard_time": 1707444450,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1030500,
+      "num": 1030500,
+      "word": "00后小伙婚房被爆改后退货需天价",
+      "onboard_time": 1708740392,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1030248,
@@ -10995,6 +11011,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 702505,
+      "num": 702505,
+      "word": "肖战ins",
+      "onboard_time": 1708738713,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 700794,
       "num": 700794,
       "word": "杨紫文笔",
@@ -12513,14 +12537,6 @@
       "onboard_time": 1708607496,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 636358,
-      "num": 636358,
-      "word": "肖战ins",
-      "onboard_time": 1708738713,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 635810,
@@ -17283,6 +17299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 479638,
+      "num": 479638,
+      "word": "VOGUE主编章凝离职",
+      "onboard_time": 1708737391,
+      "rank": 15,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 479349,
       "num": 393170,
       "word": "票房",
@@ -17313,14 +17337,6 @@
       "onboard_time": 1707272129,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 479223,
-      "num": 479223,
-      "word": "VOGUE主编章凝离职",
-      "onboard_time": 1708737391,
-      "rank": 15,
-      "category": "时尚"
     },
     {
       "raw_hot": 479094,
@@ -17633,6 +17649,14 @@
       "onboard_time": 1708585355,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 470586,
+      "num": 470586,
+      "word": "特朗普被罚4.54亿美元",
+      "onboard_time": 1708739133,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 470473,
@@ -19233,14 +19257,6 @@
       "onboard_time": 1708234296,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 425737,
-      "num": 425737,
-      "word": "特朗普被罚4.54亿美元",
-      "onboard_time": 1708739133,
-      "rank": 12,
-      "category": "国外时政"
     },
     {
       "raw_hot": 425316,
@@ -23971,6 +23987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330562,
+      "num": 330562,
+      "word": "原来元宵节才是古人的情人节",
+      "onboard_time": 1708735890,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 330517,
       "num": 330517,
       "word": "周也觉得林一太帅不好意思说话",
@@ -24193,6 +24217,14 @@
       "onboard_time": 1707093087,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 327703,
+      "num": 327703,
+      "word": "主人捡鸡蛋发现鸡被雪埋3天还活着",
+      "onboard_time": 1708737871,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327119,
@@ -27369,14 +27401,6 @@
       "onboard_time": 1708707445,
       "rank": 19,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 285306,
-      "num": 285306,
-      "word": "原来元宵节才是古人的情人节",
-      "onboard_time": 1708735890,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 285188,
@@ -33115,14 +33139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231494,
-      "num": 231494,
-      "word": "主人捡鸡蛋发现鸡被雪埋3天还活着",
-      "onboard_time": 1708737871,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231442,
       "num": 231442,
       "word": "FPX战胜LNG",
@@ -35523,14 +35539,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 215558,
-      "num": 215558,
-      "word": "苏醒把老婆拉黑了",
-      "onboard_time": 1708739913,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215513,
       "num": 215513,
       "word": "汪苏泷分享关于热辣滚烫的故事",
@@ -36113,6 +36121,14 @@
       "onboard_time": 1708066713,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 211497,
+      "num": 211497,
+      "word": "南京火灾小区超10层楼外立面焦黑",
+      "onboard_time": 1708739315,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211473,
@@ -49667,6 +49683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152118,
+      "num": 152118,
+      "word": "哪种元宵汤圆馅最受欢迎",
+      "onboard_time": 1708732163,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 152067,
       "num": 152067,
       "word": "第二十条 秋菊打官司",
@@ -51299,14 +51323,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145494,
-      "num": 145494,
-      "word": "哪种元宵汤圆馅最受欢迎",
-      "onboard_time": 1708732163,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 145380,
       "num": 145380,
       "word": "魏大勋扶额苦笑但夹子音",
@@ -51449,6 +51465,14 @@
       "onboard_time": 1708326097,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 144908,
+      "num": 144908,
+      "word": "徐娇去看了热辣滚烫",
+      "onboard_time": 1708740812,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 144900,
@@ -52587,14 +52611,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 139865,
-      "num": 139865,
-      "word": "南京火灾小区超10层楼外立面焦黑",
-      "onboard_time": 1708739315,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139852,
       "num": 139852,
       "word": "典韦战鼓燎原新皮肤",
@@ -53027,6 +53043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138178,
+      "num": 138178,
+      "word": "世界之外 和crush的聊天记录",
+      "onboard_time": 1708740392,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138170,
       "num": 138170,
       "word": "甲辰年",
@@ -53081,6 +53105,14 @@
       "onboard_time": 1707281371,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138025,
+      "num": 138025,
+      "word": "猎冰导演称男替身都没跑过姚安娜",
+      "onboard_time": 1708740933,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 137973,
@@ -55163,6 +55195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128252,
+      "num": 128252,
+      "word": "有个拆台的老婆是什么感觉",
+      "onboard_time": 1708741112,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 128228,
       "num": 128228,
       "word": "当时只道是寻常",
@@ -56787,6 +56827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120388,
+      "num": 120388,
+      "word": "苏醒文韬双大脑谈判",
+      "onboard_time": 1708739551,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120334,
       "num": 120334,
       "word": "悬疑小说真正凶手",
@@ -58179,6 +58227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112597,
+      "num": 112597,
+      "word": "汤圆是最能整活的节日美食吗",
+      "onboard_time": 1708740511,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 112590,
       "num": 112590,
       "word": "流星首秀好惊艳",
@@ -58931,6 +58987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107415,
+      "num": 107415,
+      "word": "uni币",
+      "onboard_time": 1708740272,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 107366,
       "num": 107366,
       "word": "决定离家出走的小女孩",
@@ -59041,6 +59105,14 @@
       "onboard_time": 1706958810,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106356,
+      "num": 106356,
+      "word": "神舟飞船全面升级为梦舟飞船",
+      "onboard_time": 1708741171,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106355,
@@ -59507,14 +59579,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 101856,
-      "num": 101856,
-      "word": "苏醒文韬双大脑谈判",
-      "onboard_time": 1708739551,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 101617,
       "num": 101617,
       "word": "小猫的嘴巴是o型的耶",
@@ -59689,6 +59753,14 @@
       "onboard_time": 1706865274,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 99765,
+      "num": 99765,
+      "word": "电影第二十条",
+      "onboard_time": 1708740991,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 99762,
@@ -63676,7 +63748,7 @@
     },
     {
       "raw_hot": 27444,
-      "num": 1481130,
+      "num": 1872968,
       "word": "空间站里都有哪些科学装置",
       "onboard_time": 1708693833,
       "rank": 32,

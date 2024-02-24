@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1708739929349,
+  "endTime": 1708741192529,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1731,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2577102,
+      "num": 2577102,
+      "word": "南京市长道歉",
+      "onboard_time": 1708737331,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2575656,
       "num": 2575656,
       "word": "又一自称柳鑫宇账号爆料",
@@ -1833,14 +1841,6 @@
       "onboard_time": 1707306875,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2508791,
-      "num": 2508791,
-      "word": "南京市长道歉",
-      "onboard_time": 1708737331,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2501889,

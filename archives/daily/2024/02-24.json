@@ -1,6 +1,6 @@
 {
   "startTime": 1708705253127,
-  "endTime": 1708739929349,
+  "endTime": 1708741192529,
   "band_list": [
     {
       "raw_hot": 3207189,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2508791,
-      "num": 2508791,
+      "raw_hot": 2577102,
+      "num": 2577102,
       "word": "南京市长道歉",
       "onboard_time": 1708737331,
       "rank": 4,
@@ -25,6 +25,14 @@
       "onboard_time": 1708732282,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1828047,
+      "num": 1828047,
+      "word": "苏醒把老婆拉黑了",
+      "onboard_time": 1708739913,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 1783817,
@@ -49,6 +57,14 @@
       "onboard_time": 1708735591,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1030500,
+      "num": 1030500,
+      "word": "00后小伙婚房被爆改后退货需天价",
+      "onboard_time": 1708740392,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 865730,
@@ -91,6 +107,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 702505,
+      "num": 702505,
+      "word": "肖战ins",
+      "onboard_time": 1708738713,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 688010,
       "num": 688010,
       "word": "贾玲说如果重拍你好李焕英会更有电影感",
@@ -105,14 +129,6 @@
       "onboard_time": 1708734268,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 636358,
-      "num": 636358,
-      "word": "肖战ins",
-      "onboard_time": 1708738713,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 609777,
@@ -179,12 +195,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 479223,
-      "num": 479223,
+      "raw_hot": 479638,
+      "num": 479638,
       "word": "VOGUE主编章凝离职",
       "onboard_time": 1708737391,
       "rank": 15,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 470586,
+      "num": 470586,
+      "word": "特朗普被罚4.54亿美元",
+      "onboard_time": 1708739133,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 466471,
@@ -209,14 +233,6 @@
       "onboard_time": 1708702953,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 425737,
-      "num": 425737,
-      "word": "特朗普被罚4.54亿美元",
-      "onboard_time": 1708739133,
-      "rank": 12,
-      "category": "国外时政"
     },
     {
       "raw_hot": 405190,
@@ -275,6 +291,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330562,
+      "num": 330562,
+      "word": "原来元宵节才是古人的情人节",
+      "onboard_time": 1708735890,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 327703,
+      "num": 327703,
+      "word": "主人捡鸡蛋发现鸡被雪埋3天还活着",
+      "onboard_time": 1708737871,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314264,
       "num": 314264,
       "word": "警方已控制柳州贩婴事件嫌疑人",
@@ -323,14 +355,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 285306,
-      "num": 285306,
-      "word": "原来元宵节才是古人的情人节",
-      "onboard_time": 1708735890,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 281484,
       "num": 281484,
       "word": "唐九洲赵昭仪吓跪了",
@@ -363,14 +387,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 231494,
-      "num": 231494,
-      "word": "主人捡鸡蛋发现鸡被雪埋3天还活着",
-      "onboard_time": 1708737871,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227612,
       "num": 197468,
       "word": "鹿晗村超破门做C罗式庆祝",
@@ -387,20 +403,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215558,
-      "num": 215558,
-      "word": "苏醒把老婆拉黑了",
-      "onboard_time": 1708739913,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215046,
       "num": 215046,
       "word": "水哥出题算是踢到铁板了",
       "onboard_time": 1708701694,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211497,
+      "num": 211497,
+      "word": "南京火灾小区超10层楼外立面焦黑",
+      "onboard_time": 1708739315,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208209,
@@ -515,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152118,
+      "num": 152118,
+      "word": "哪种元宵汤圆馅最受欢迎",
+      "onboard_time": 1708732163,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 151939,
       "num": 151939,
       "word": "王鹤棣回应成为追星赢家",
@@ -531,12 +555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145494,
-      "num": 145494,
-      "word": "哪种元宵汤圆馅最受欢迎",
-      "onboard_time": 1708732163,
-      "rank": 32,
-      "category": "美食"
+      "raw_hot": 144908,
+      "num": 144908,
+      "word": "徐娇去看了热辣滚烫",
+      "onboard_time": 1708740812,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 142192,
@@ -547,14 +571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 139865,
-      "num": 139865,
-      "word": "南京火灾小区超10层楼外立面焦黑",
-      "onboard_time": 1708739315,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 138520,
       "num": 284139,
       "word": "KPL暂停",
@@ -563,12 +579,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138178,
+      "num": 138178,
+      "word": "世界之外 和crush的聊天记录",
+      "onboard_time": 1708740392,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138098,
       "num": 282378,
       "word": "大王具足虫",
       "onboard_time": 1708695393,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 138025,
+      "num": 138025,
+      "word": "猎冰导演称男替身都没跑过姚安娜",
+      "onboard_time": 1708740933,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 135181,
@@ -585,6 +617,14 @@
       "onboard_time": 1708687171,
       "rank": 28,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 128252,
+      "num": 128252,
+      "word": "有个拆台的老婆是什么感觉",
+      "onboard_time": 1708741112,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 127238,
@@ -643,6 +683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120388,
+      "num": 120388,
+      "word": "苏醒文韬双大脑谈判",
+      "onboard_time": 1708739551,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117982,
       "num": 148198,
       "word": "预示癌症的20个症状",
@@ -656,6 +704,14 @@
       "word": "肉汤圆",
       "onboard_time": 1708735408,
       "rank": 36,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 112597,
+      "num": 112597,
+      "word": "汤圆是最能整活的节日美食吗",
+      "onboard_time": 1708740511,
+      "rank": 41,
       "category": "美食"
     },
     {
@@ -683,6 +739,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107415,
+      "num": 107415,
+      "word": "uni币",
+      "onboard_time": 1708740272,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 106356,
+      "num": 106356,
+      "word": "神舟飞船全面升级为梦舟飞船",
+      "onboard_time": 1708741171,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106231,
       "num": 123817,
       "word": "猫猫确诊为犟种",
@@ -699,14 +771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101856,
-      "num": 101856,
-      "word": "苏醒文韬双大脑谈判",
-      "onboard_time": 1708739551,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 101107,
       "num": 101107,
       "word": "龙年元宵国风海报",
@@ -721,6 +785,14 @@
       "onboard_time": 1708729579,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 99765,
+      "num": 99765,
+      "word": "电影第二十条",
+      "onboard_time": 1708740991,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 99275,
@@ -876,7 +948,7 @@
     },
     {
       "raw_hot": 27444,
-      "num": 1481130,
+      "num": 1872968,
       "word": "空间站里都有哪些科学装置",
       "onboard_time": 1708693833,
       "rank": 2,
