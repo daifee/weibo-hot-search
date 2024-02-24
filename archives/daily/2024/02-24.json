@@ -1,6 +1,6 @@
 {
   "startTime": 1708705253127,
-  "endTime": 1708778577961,
+  "endTime": 1708780673842,
   "band_list": [
     {
       "raw_hot": 5490188,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1821213,
+      "num": 1821213,
+      "word": "中学生发现微信抢最大红包秘诀",
+      "onboard_time": 1708775013,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1783817,
       "num": 1783817,
       "word": "3月1日起快递不得擅自放驿站",
@@ -115,12 +123,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1754728,
+      "num": 1754728,
+      "word": "尼格买提对上了",
+      "onboard_time": 1708777660,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1557630,
       "num": 1557630,
       "word": "00后小伙婚房被爆改后退货需天价",
       "onboard_time": 1708740392,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1546276,
+      "num": 1546276,
+      "word": "黄旭熙以前是因为太孤单了",
+      "onboard_time": 1708778136,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1504443,
@@ -171,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1257195,
+      "num": 1257195,
+      "word": "王艺迪vs平野美宇",
+      "onboard_time": 1708779398,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1222142,
       "num": 1222142,
       "word": "杨迪金靖情头",
@@ -193,6 +225,14 @@
       "onboard_time": 1708735591,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1126576,
+      "num": 1126576,
+      "word": "陈梦1比3早田希娜",
+      "onboard_time": 1708778793,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1115563,
@@ -251,14 +291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1035937,
-      "num": 1035937,
-      "word": "尼格买提对上了",
-      "onboard_time": 1708777660,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1019267,
       "num": 1019267,
       "word": "白敬亭回复弹幕",
@@ -289,14 +321,6 @@
       "onboard_time": 1708759172,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 918318,
-      "num": 918318,
-      "word": "中学生发现微信抢最大红包秘诀",
-      "onboard_time": 1708775013,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 908755,
@@ -371,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 765058,
+      "num": 765058,
+      "word": "国际公认的5个强致癌物",
+      "onboard_time": 1708776156,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 743717,
       "num": 743717,
       "word": "中公教育4千万元退费缺口急坏学员",
@@ -433,6 +465,14 @@
       "onboard_time": 1708694793,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 676480,
+      "num": 676480,
+      "word": "湖南节目单换顺序",
+      "onboard_time": 1708779276,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 659205,
@@ -555,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 565952,
+      "num": 565952,
+      "word": "国乒女团vs日本",
+      "onboard_time": 1708779759,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 565178,
       "num": 565178,
       "word": "VOGUE新主编",
@@ -627,6 +675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 511204,
+      "num": 446346,
+      "word": "上春山",
+      "onboard_time": 1708778737,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 509783,
       "num": 509783,
       "word": "迪丽热巴Wonderland封面预告",
@@ -673,14 +729,6 @@
       "onboard_time": 1708742495,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 500468,
-      "num": 500468,
-      "word": "国际公认的5个强致癌物",
-      "onboard_time": 1708776156,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 496952,
@@ -859,12 +907,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 419472,
-      "num": 419472,
-      "word": "黄旭熙以前是因为太孤单了",
-      "onboard_time": 1708778136,
-      "rank": 22,
-      "category": "作品衍生"
+      "raw_hot": 417570,
+      "num": 417570,
+      "word": "谷歌高级副总裁为AI画不出白人道歉",
+      "onboard_time": 1708779156,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 412894,
@@ -1083,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329068,
+      "num": 305142,
+      "word": "周深毛不易元宵晚会C位开场",
+      "onboard_time": 1708780055,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325568,
       "num": 325568,
       "word": "湖南卫视元宵喜乐会",
@@ -1115,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309060,
+      "num": 288977,
+      "word": "范丞丞给辣条打码",
+      "onboard_time": 1708779817,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 308409,
       "num": 308409,
       "word": "烧麦判官火了朱正廷瑟瑟发抖",
@@ -1128,6 +1192,14 @@
       "word": "蒲熠星给苏醒开了十年会员",
       "onboard_time": 1708700136,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 305031,
+      "num": 288888,
+      "word": "刘惜君粤语版彩云追月",
+      "onboard_time": 1708779759,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -1347,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257050,
+      "num": 251915,
+      "word": "周深唱万物温柔相依好治愈",
+      "onboard_time": 1708780172,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256449,
       "num": 256449,
       "word": "暗爽型人格",
@@ -1361,6 +1441,14 @@
       "onboard_time": 1708761389,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255399,
+      "num": 255399,
+      "word": "成都地铁18号线",
+      "onboard_time": 1708779219,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255038,
@@ -1451,6 +1539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 229009,
+      "num": 213799,
+      "word": "加油撒撒",
+      "onboard_time": 1708778793,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227819,
       "num": 227819,
       "word": "UP主在B站是怎么赚钱的",
@@ -1465,6 +1561,14 @@
       "onboard_time": 1708699652,
       "rank": 25,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 227132,
+      "num": 227132,
+      "word": "女团决赛",
+      "onboard_time": 1708780235,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 227078,
@@ -1563,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210283,
+      "num": 210283,
+      "word": "JDG对战BLG",
+      "onboard_time": 1708778497,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 209345,
       "num": 209345,
       "word": "雷军谈底气和信心从何而来",
@@ -1651,6 +1763,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 201590,
+      "num": 201590,
+      "word": "月亮",
+      "onboard_time": 1708779456,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200762,
       "num": 200762,
       "word": "元宵节祝福",
@@ -1681,14 +1801,6 @@
       "onboard_time": 1708773817,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200081,
-      "num": 200081,
-      "word": "JDG对战BLG",
-      "onboard_time": 1708778497,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 199670,
@@ -1769,6 +1881,14 @@
       "onboard_time": 1708743810,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192374,
+      "num": 192374,
+      "word": "双北过年",
+      "onboard_time": 1708779999,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 192084,
@@ -2652,7 +2772,7 @@
     },
     {
       "raw_hot": 96117,
-      "num": 1389743,
+      "num": 1761662,
       "word": "元宵节花灯大比拼",
       "onboard_time": 1708743152,
       "rank": 2,
@@ -2665,6 +2785,14 @@
       "onboard_time": 1708742012,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95767,
+      "num": 289014,
+      "word": "龙年第一轮满月",
+      "onboard_time": 1708779036,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88439,
@@ -2811,6 +2939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38033,
+      "num": 441109,
+      "word": "元宵灯会惊现山海神兽",
+      "onboard_time": 1708777177,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36680,
       "num": 36680,
       "word": "有爱自团圆",
@@ -2859,14 +2995,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 21098,
-      "num": 441109,
-      "word": "元宵灯会惊现山海神兽",
-      "onboard_time": 1708777177,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17319,
       "num": 17319,
       "word": "虞书欣 橱窗娃娃",
@@ -2889,6 +3017,9 @@
     },
     {
       "word": "#习近平主持召开中央财经委员会第四次会议#"
+    },
+    {
+      "word": "#文化是一个国家一个民族的灵魂#"
     }
   ]
 }

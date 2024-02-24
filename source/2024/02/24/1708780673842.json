@@ -1,0 +1,410 @@
+{
+  "runTime": 1708780673842,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3053289,
+        "num": 3053289,
+        "word": "何炅工作室发了双北",
+        "onboard_time": 1708775013,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1821213,
+        "num": 1821213,
+        "word": "中学生发现微信抢最大红包秘诀",
+        "onboard_time": 1708775013,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26557,
+        "num": 1761662,
+        "word": "元宵节花灯大比拼",
+        "onboard_time": 1708743152,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1754728,
+        "num": 1754728,
+        "word": "尼格买提对上了",
+        "onboard_time": 1708777660,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1546276,
+        "num": 1546276,
+        "word": "黄旭熙以前是因为太孤单了",
+        "onboard_time": 1708778136,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1439525,
+        "num": 1439525,
+        "word": "河南卫视 上春山",
+        "onboard_time": 1708774958,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1257195,
+        "num": 1257195,
+        "word": "王艺迪vs平野美宇",
+        "onboard_time": 1708779398,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1126576,
+        "num": 1126576,
+        "word": "陈梦1比3早田希娜",
+        "onboard_time": 1708778793,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 858170,
+        "num": 858170,
+        "word": "元宵节",
+        "onboard_time": 1708776457,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 765058,
+        "num": 765058,
+        "word": "国际公认的5个强致癌物",
+        "onboard_time": 1708776156,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 676480,
+        "num": 676480,
+        "word": "湖南节目单换顺序",
+        "onboard_time": 1708779276,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 667917,
+        "num": 667917,
+        "word": "何炅撒贝宁合体",
+        "onboard_time": 1708776938,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 653392,
+        "num": 653392,
+        "word": "湖南卫视相声 尴尬",
+        "onboard_time": 1708776696,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 610299,
+        "num": 610299,
+        "word": "陈梦 早田希娜",
+        "onboard_time": 1708776274,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 569353,
+        "num": 569353,
+        "word": "papi酱 这个年真的过完了",
+        "onboard_time": 1708771352,
+        "rank": 14,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 565952,
+        "num": 565952,
+        "word": "国乒女团vs日本",
+        "onboard_time": 1708779759,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 538460,
+        "num": 538460,
+        "word": "央视元宵晚会",
+        "onboard_time": 1708773933,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516163,
+        "num": 516163,
+        "word": "合肥地震",
+        "onboard_time": 1708770033,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465077,
+        "num": 465077,
+        "word": "迪丽热巴元宵素颜自拍",
+        "onboard_time": 1708774357,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455299,
+        "num": 455299,
+        "word": "元宵晚会节目单",
+        "onboard_time": 1708763910,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511204,
+        "num": 446346,
+        "word": "上春山",
+        "onboard_time": 1708778737,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417570,
+        "num": 417570,
+        "word": "谷歌高级副总裁为AI画不出白人道歉",
+        "onboard_time": 1708779156,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 412852,
+        "num": 412852,
+        "word": "邓男子吐金鱼",
+        "onboard_time": 1708777355,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339584,
+        "num": 339584,
+        "word": "国乒男团3比2韩国",
+        "onboard_time": 1708760432,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315512,
+        "num": 315512,
+        "word": "夫妻得知怀孕后跪谢老中医",
+        "onboard_time": 1708769492,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397285,
+        "num": 312604,
+        "word": "白敬亭回复弹幕",
+        "onboard_time": 1708769012,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365311,
+        "num": 309367,
+        "word": "肖战跨国请客",
+        "onboard_time": 1708776639,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329068,
+        "num": 305142,
+        "word": "周深毛不易元宵晚会C位开场",
+        "onboard_time": 1708780055,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292472,
+        "num": 292472,
+        "word": "王曼昱",
+        "onboard_time": 1708771473,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95767,
+        "num": 289014,
+        "word": "龙年第一轮满月",
+        "onboard_time": 1708779036,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309060,
+        "num": 288977,
+        "word": "范丞丞给辣条打码",
+        "onboard_time": 1708779817,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 305031,
+        "num": 288888,
+        "word": "刘惜君粤语版彩云追月",
+        "onboard_time": 1708779759,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288153,
+        "num": 288153,
+        "word": "人类分娩的痛苦和危险性是最高的",
+        "onboard_time": 1708776814,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 269605,
+        "num": 269605,
+        "word": "唐嫣紫色",
+        "onboard_time": 1708776760,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255399,
+        "num": 255399,
+        "word": "成都地铁18号线",
+        "onboard_time": 1708779219,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257050,
+        "num": 251915,
+        "word": "周深唱万物温柔相依好治愈",
+        "onboard_time": 1708780172,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248426,
+        "num": 248426,
+        "word": "粉丝给迪丽热巴P的女团打歌照",
+        "onboard_time": 1708776579,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230858,
+        "num": 230858,
+        "word": "孙颖莎 张本美和",
+        "onboard_time": 1708772793,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227132,
+        "num": 227132,
+        "word": "女团决赛",
+        "onboard_time": 1708780235,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218496,
+        "num": 218496,
+        "word": "专家谈正月剃头死舅舅",
+        "onboard_time": 1708762408,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 237823,
+        "num": 216257,
+        "word": "热辣滚烫票房",
+        "onboard_time": 1708773393,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229009,
+        "num": 213799,
+        "word": "加油撒撒",
+        "onboard_time": 1708778793,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210283,
+        "num": 210283,
+        "word": "JDG对战BLG",
+        "onboard_time": 1708778497,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201590,
+        "num": 201590,
+        "word": "月亮",
+        "onboard_time": 1708779456,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193767,
+        "num": 193767,
+        "word": "因上班穿的恶心被领导谈话了",
+        "onboard_time": 1708746690,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38033,
+        "num": 192613,
+        "word": "元宵灯会惊现山海神兽",
+        "onboard_time": 1708777177,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14618,
+        "num": 192491,
+        "word": "哪位幸运儿抽中京东元宵节大奖",
+        "onboard_time": 1708776395,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192374,
+        "num": 192374,
+        "word": "双北过年",
+        "onboard_time": 1708779999,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170149,
+        "num": 170149,
+        "word": "湖南卫视元宵喜乐会",
+        "onboard_time": 1708773393,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169814,
+        "num": 169814,
+        "word": "安妮海瑟薇在秀场社交的视频",
+        "onboard_time": 1708776996,
+        "rank": 49,
+        "category": "时尚,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化是一个国家一个民族的灵魂#"
+    }
+  }
+}

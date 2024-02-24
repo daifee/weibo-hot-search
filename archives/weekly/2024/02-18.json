@@ -1,6 +1,6 @@
 {
   "startTime": 1708186833615,
-  "endTime": 1708778577961,
+  "endTime": 1708780673842,
   "band_list": [
     {
       "raw_hot": 12343812,
@@ -899,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1821213,
+      "num": 1821213,
+      "word": "中学生发现微信抢最大红包秘诀",
+      "onboard_time": 1708775013,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1818085,
       "num": 1818085,
       "word": "特朗普卖鞋",
@@ -929,6 +937,14 @@
       "onboard_time": 1708399236,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1754728,
+      "num": 1754728,
+      "word": "尼格买提对上了",
+      "onboard_time": 1708777660,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 1740538,
@@ -1161,6 +1177,14 @@
       "onboard_time": 1708587398,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1546276,
+      "num": 1546276,
+      "word": "黄旭熙以前是因为太孤单了",
+      "onboard_time": 1708778136,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1504443,
@@ -1603,6 +1627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1257195,
+      "num": 1257195,
+      "word": "王艺迪vs平野美宇",
+      "onboard_time": 1708779398,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1256925,
       "num": 1256925,
       "word": "再来十次大姨妈就过年了",
@@ -1865,6 +1897,14 @@
       "onboard_time": 1708505257,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1126576,
+      "num": 1126576,
+      "word": "陈梦1比3早田希娜",
+      "onboard_time": 1708778793,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1125308,
@@ -2145,14 +2185,6 @@
       "onboard_time": 1708741652,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1035937,
-      "num": 1035937,
-      "word": "尼格买提对上了",
-      "onboard_time": 1708777660,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 1035248,
@@ -2480,14 +2512,6 @@
       "word": "被贩卖婴儿被洗白身份落户买主家",
       "onboard_time": 1708676132,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 918318,
-      "num": 918318,
-      "word": "中学生发现微信抢最大红包秘诀",
-      "onboard_time": 1708775013,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3171,6 +3195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 765058,
+      "num": 765058,
+      "word": "国际公认的5个强致癌物",
+      "onboard_time": 1708776156,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 757862,
       "num": 757862,
       "word": "自热火锅为什么失宠了",
@@ -3641,6 +3673,14 @@
       "onboard_time": 1708500454,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 676480,
+      "num": 676480,
+      "word": "湖南节目单换顺序",
+      "onboard_time": 1708779276,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 675997,
@@ -4587,6 +4627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 565952,
+      "num": 565952,
+      "word": "国乒女团vs日本",
+      "onboard_time": 1708779759,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 565743,
       "num": 565743,
       "word": "考研成绩倒计时",
@@ -5289,14 +5337,6 @@
       "onboard_time": 1708742495,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 500468,
-      "num": 500468,
-      "word": "国际公认的5个强致癌物",
-      "onboard_time": 1708776156,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 499770,
@@ -6283,14 +6323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419472,
-      "num": 419472,
-      "word": "黄旭熙以前是因为太孤单了",
-      "onboard_time": 1708778136,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 418996,
       "num": 418996,
       "word": "秦海璐炸毛了",
@@ -6321,6 +6353,14 @@
       "onboard_time": 1708418560,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 417570,
+      "num": 417570,
+      "word": "谷歌高级副总裁为AI画不出白人道歉",
+      "onboard_time": 1708779156,
+      "rank": 21,
+      "category": "互联网"
     },
     {
       "raw_hot": 416890,
@@ -7795,6 +7835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329068,
+      "num": 305142,
+      "word": "周深毛不易元宵晚会C位开场",
+      "onboard_time": 1708780055,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 328728,
       "num": 328728,
       "word": "粥饼伦称自己和周杰伦长得不像",
@@ -8251,6 +8299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309060,
+      "num": 288977,
+      "word": "范丞丞给辣条打码",
+      "onboard_time": 1708779817,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 308967,
       "num": 308967,
       "word": "陈靖可早期ins",
@@ -8345,6 +8401,14 @@
       "onboard_time": 1708701270,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 305031,
+      "num": 288888,
+      "word": "刘惜君粤语版彩云追月",
+      "onboard_time": 1708779759,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 304658,
@@ -9971,6 +10035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 257050,
+      "num": 251915,
+      "word": "周深唱万物温柔相依好治愈",
+      "onboard_time": 1708780172,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256930,
       "num": 256930,
       "word": "HR喜欢的简历长这样",
@@ -10025,6 +10097,14 @@
       "onboard_time": 1708599513,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 255399,
+      "num": 255399,
+      "word": "成都地铁18号线",
+      "onboard_time": 1708779219,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255038,
@@ -11115,6 +11195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 229009,
+      "num": 213799,
+      "word": "加油撒撒",
+      "onboard_time": 1708778793,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228782,
       "num": 228782,
       "word": "边伯贤抢票",
@@ -11217,6 +11305,14 @@
       "onboard_time": 1708249835,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227132,
+      "num": 227132,
+      "word": "女团决赛",
+      "onboard_time": 1708780235,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 227125,
@@ -12115,6 +12211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210283,
+      "num": 210283,
+      "word": "JDG对战BLG",
+      "onboard_time": 1708778497,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 210276,
       "num": 210276,
       "word": "汪苏泷给马丽贾玲刘德华送手链",
@@ -12739,6 +12843,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 201590,
+      "num": 201590,
+      "word": "月亮",
+      "onboard_time": 1708779456,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201553,
       "num": 201553,
       "word": "证监会发布会",
@@ -12905,14 +13017,6 @@
       "onboard_time": 1708506575,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 200081,
-      "num": 200081,
-      "word": "JDG对战BLG",
-      "onboard_time": 1708778497,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 200080,
@@ -13457,6 +13561,14 @@
       "onboard_time": 1708588416,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 192374,
+      "num": 192374,
+      "word": "双北过年",
+      "onboard_time": 1708779999,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 192330,
@@ -18548,7 +18660,7 @@
     },
     {
       "raw_hot": 96117,
-      "num": 1389743,
+      "num": 1761662,
       "word": "元宵节花灯大比拼",
       "onboard_time": 1708743152,
       "rank": 2,
@@ -18561,6 +18673,14 @@
       "onboard_time": 1708742012,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95767,
+      "num": 289014,
+      "word": "龙年第一轮满月",
+      "onboard_time": 1708779036,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94415,
@@ -19323,6 +19443,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 38033,
+      "num": 441109,
+      "word": "元宵灯会惊现山海神兽",
+      "onboard_time": 1708777177,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37847,
       "num": 37847,
       "word": "断崖式衰老",
@@ -19551,14 +19679,6 @@
       "num": 21415,
       "word": "新疆阿图什3.6级地震",
       "onboard_time": 1708540937,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21098,
-      "num": 441109,
-      "word": "元宵灯会惊现山海神兽",
-      "onboard_time": 1708777177,
       "rank": 38,
       "category": "社会新闻"
     },
@@ -19878,6 +19998,9 @@
     },
     {
       "word": "#习近平主持召开中央财经委员会第四次会议#"
+    },
+    {
+      "word": "#文化是一个国家一个民族的灵魂#"
     }
   ]
 }
