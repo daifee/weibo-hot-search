@@ -1,0 +1,410 @@
+{
+  "runTime": 1708809244012,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 125234,
+        "num": 125234,
+        "word": "纪凌尘 你喜欢大海我爱过你很浪漫",
+        "onboard_time": 1708785635,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89775,
+        "num": 89775,
+        "word": "老人偷拍被抓手机有6万张女生照片",
+        "onboard_time": 1708790314,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9971,
+        "num": 81538,
+        "word": "龙年第一轮满月",
+        "onboard_time": 1708779036,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79274,
+        "num": 79274,
+        "word": "中学生发现微信抢最大红包秘诀",
+        "onboard_time": 1708775013,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67569,
+        "num": 67569,
+        "word": "孙颖莎陈梦哭了",
+        "onboard_time": 1708787615,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66755,
+        "num": 66755,
+        "word": "为什么理发店里见不到女Tony",
+        "onboard_time": 1708804999,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63913,
+        "num": 63913,
+        "word": "央视元宵晚会没有节目单",
+        "onboard_time": 1708792470,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48376,
+        "num": 48376,
+        "word": "戚薇后脑勺被妈妈用书睡平",
+        "onboard_time": 1708787798,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45924,
+        "num": 45924,
+        "word": "何炅工作室发了双北",
+        "onboard_time": 1708775013,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32438,
+        "num": 32438,
+        "word": "pay姐 身骑白马",
+        "onboard_time": 1708797561,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 37827,
+        "num": 31964,
+        "word": "第一次见婚纱穿出铠甲的感觉",
+        "onboard_time": 1708793846,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35351,
+        "num": 31760,
+        "word": "当班主任哭了班里的同学belike",
+        "onboard_time": 1708804397,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31258,
+        "num": 31258,
+        "word": "赵丽颖抽到了沈腾的年货大礼包",
+        "onboard_time": 1708788517,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30937,
+        "num": 30937,
+        "word": "白敬亭回复弹幕",
+        "onboard_time": 1708769012,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30902,
+        "num": 30902,
+        "word": "沙溢修容",
+        "onboard_time": 1708800379,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28008,
+        "num": 28008,
+        "word": "黑龙江佳木斯一高层建筑起火",
+        "onboard_time": 1708789296,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27155,
+        "num": 27155,
+        "word": "黄旭熙以前是因为太孤单了",
+        "onboard_time": 1708778136,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27147,
+        "num": 27147,
+        "word": "国乒女团六连冠",
+        "onboard_time": 1708786004,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26275,
+        "num": 26275,
+        "word": "原来养活路边摊的还是那批人",
+        "onboard_time": 1708787379,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25990,
+        "num": 25990,
+        "word": "詹姆斯看到了王鹤棣",
+        "onboard_time": 1708789713,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75072,
+        "num": 25958,
+        "word": "横店悬崖",
+        "onboard_time": 1708785218,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 43029,
+        "num": 25916,
+        "word": "女子假胖20年意外瘦身60斤",
+        "onboard_time": 1708784736,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25567,
+        "num": 25567,
+        "word": "世上最疼的5种病",
+        "onboard_time": 1708790914,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25019,
+        "num": 25019,
+        "word": "孙颖莎连斩日本第一第二女单",
+        "onboard_time": 1708788757,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20560,
+        "num": 20560,
+        "word": "合肥地震",
+        "onboard_time": 1708770033,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20496,
+        "num": 20496,
+        "word": "撒贝宁还原小尼春晚表情",
+        "onboard_time": 1708807156,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18626,
+        "num": 18626,
+        "word": "陈梦1比3早田希娜",
+        "onboard_time": 1708778793,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17722,
+        "num": 17722,
+        "word": "牙龈肿痛出血真不是上火",
+        "onboard_time": 1708805896,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17581,
+        "num": 17581,
+        "word": "王艺迪0比3平野美宇",
+        "onboard_time": 1708781436,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17250,
+        "num": 17250,
+        "word": "小品非常满意",
+        "onboard_time": 1708788875,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17229,
+        "num": 17229,
+        "word": "快走操太适合居家减肥了",
+        "onboard_time": 1708789534,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 16406,
+        "num": 16406,
+        "word": "被迪丽热巴小卡支配的一生",
+        "onboard_time": 1708791153,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15897,
+        "num": 15897,
+        "word": "俄乌冲突两周年",
+        "onboard_time": 1708801637,
+        "rank": 32,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 15754,
+        "num": 15754,
+        "word": "马琳",
+        "onboard_time": 1708782218,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15695,
+        "num": 15695,
+        "word": "金风玉露",
+        "onboard_time": 1708785759,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15461,
+        "num": 15461,
+        "word": "宁采臣澄清粉丝掉下横店悬崖事件",
+        "onboard_time": 1708788339,
+        "rank": 35,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 15447,
+        "num": 15447,
+        "word": "1种不起眼的食物抗衰又抑癌",
+        "onboard_time": 1708808056,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15358,
+        "num": 15358,
+        "word": "章凝任期VOGUE中国封面回顾",
+        "onboard_time": 1708792110,
+        "rank": 37,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 15225,
+        "num": 15225,
+        "word": "papi酱 这个年真的过完了",
+        "onboard_time": 1708771352,
+        "rank": 38,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 15101,
+        "num": 15101,
+        "word": "原来狗狗能闻到伤心的味道",
+        "onboard_time": 1708798400,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15096,
+        "num": 15096,
+        "word": "热辣滚烫票房",
+        "onboard_time": 1708773393,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15047,
+        "num": 15047,
+        "word": "女团五姐妹抱在了一起",
+        "onboard_time": 1708788398,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14089,
+        "num": 14089,
+        "word": "黄旭熙曾羡慕队友没工作",
+        "onboard_time": 1708781562,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13823,
+        "num": 13823,
+        "word": "河南卫视 上春山",
+        "onboard_time": 1708774958,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13481,
+        "num": 13481,
+        "word": "没想到被撤回了一个行李箱",
+        "onboard_time": 1708798040,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13259,
+        "num": 13259,
+        "word": "何炅给撒贝宁带臭豆腐",
+        "onboard_time": 1708792410,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12703,
+        "num": 12703,
+        "word": "范丞丞给辣条打码",
+        "onboard_time": 1708779817,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11633,
+        "num": 12703,
+        "word": "玲娜贝儿冬巡杀青啦",
+        "onboard_time": 1708808594,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 11332,
+        "num": 12691,
+        "word": "尼格买提对上了",
+        "onboard_time": 1708777660,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11329,
+        "num": 12677,
+        "word": "田曦薇柿柿如意古装",
+        "onboard_time": 1708809196,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主持召开中央财经委员会第四次会议#"
+    }
+  }
+}

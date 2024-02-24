@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708806852069,
+  "endTime": 1708809244012,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -64067,6 +64067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66755,
+      "num": 66755,
+      "word": "为什么理发店里见不到女Tony",
+      "onboard_time": 1708804999,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66704,
       "num": 66704,
       "word": "胡歌对着谭爷爷唱得好开心",
@@ -65819,6 +65827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 35351,
+      "num": 31760,
+      "word": "当班主任哭了班里的同学belike",
+      "onboard_time": 1708804397,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 35311,
       "num": 330498,
       "word": "带娃和citywalk适配满分",
@@ -66049,14 +66065,6 @@
       "onboard_time": 1707120271,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 31620,
-      "num": 31620,
-      "word": "为什么理发店里见不到女Tony",
-      "onboard_time": 1708804999,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 31573,
@@ -66515,14 +66523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23895,
-      "num": 23895,
-      "word": "当班主任哭了班里的同学belike",
-      "onboard_time": 1708804397,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 23758,
       "num": 23758,
       "word": "祝绪丹新剧妆造",
@@ -66731,6 +66731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 20496,
+      "num": 20496,
+      "word": "撒贝宁还原小尼春晚表情",
+      "onboard_time": 1708807156,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20426,
       "num": 20426,
       "word": "我上春山约你来见",
@@ -66865,6 +66873,14 @@
       "onboard_time": 1707158717,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17722,
+      "num": 17722,
+      "word": "牙龈肿痛出血真不是上火",
+      "onboard_time": 1708805896,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 17707,
@@ -67059,14 +67075,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 16010,
-      "num": 16010,
-      "word": "牙龈肿痛出血真不是上火",
-      "onboard_time": 1708805896,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 15882,
       "num": 18128,
       "word": "水獭被渔网缠住只露个小屁股在外",
@@ -67105,6 +67113,14 @@
       "onboard_time": 1708111696,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15447,
+      "num": 15447,
+      "word": "1种不起眼的食物抗衰又抑癌",
+      "onboard_time": 1708808056,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 15209,
@@ -67411,6 +67427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 11633,
+      "num": 12703,
+      "word": "玲娜贝儿冬巡杀青啦",
+      "onboard_time": 1708808594,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 11548,
       "num": 14168,
       "word": "车开久了总会疯几个",
@@ -67425,6 +67449,14 @@
       "onboard_time": 1706880632,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11329,
+      "num": 12677,
+      "word": "田曦薇柿柿如意古装",
+      "onboard_time": 1708809196,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 11212,
