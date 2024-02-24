@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708795018898,
+  "endTime": 1708796051893,
   "band_list": [
     {
       "raw_hot": 2023451,
@@ -107,20 +107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 501423,
+      "num": 501423,
+      "word": "央视元宵晚会没有节目单",
+      "onboard_time": 1708792470,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 487633,
       "num": 487633,
       "word": "女团五姐妹抱在了一起",
       "onboard_time": 1708788398,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 473625,
-      "num": 473625,
-      "word": "央视元宵晚会没有节目单",
-      "onboard_time": 1708792470,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 438072,
@@ -259,6 +259,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 230138,
+      "num": 230138,
+      "word": "第一次见婚纱穿出铠甲的感觉",
+      "onboard_time": 1708793846,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 219754,
       "num": 219754,
       "word": "肖战跨国请客",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 166634,
-      "num": 158463,
+      "num": 160689,
       "word": "何炅给撒贝宁带臭豆腐",
       "onboard_time": 1708792410,
       "rank": 48,
@@ -337,14 +345,6 @@
       "onboard_time": 1708790555,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164454,
-      "num": 164454,
-      "word": "第一次见婚纱穿出铠甲的感觉",
-      "onboard_time": 1708793846,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 163863,
@@ -443,7 +443,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52551,
+      "raw_hot": 53476,
+      "num": 53476,
+      "word": "王铮亮张远我很好",
+      "onboard_time": 1708796003,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 53300,
       "num": 673634,
       "word": "龙年第一轮满月",
       "onboard_time": 1708779036,
