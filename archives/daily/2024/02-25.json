@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708809244012,
+  "endTime": 1708810442450,
   "band_list": [
     {
       "raw_hot": 2023451,
@@ -443,6 +443,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 73130,
+      "num": 73130,
+      "word": "为什么理发店里见不到女Tony",
+      "onboard_time": 1708804999,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 70249,
       "num": 70249,
       "word": "陈梦1比3早田希娜",
@@ -457,14 +465,6 @@
       "onboard_time": 1708800379,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 66755,
-      "num": 66755,
-      "word": "为什么理发店里见不到女Tony",
-      "onboard_time": 1708804999,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 58685,
@@ -499,8 +499,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 35351,
-      "num": 31760,
+      "raw_hot": 37541,
+      "num": 37541,
       "word": "当班主任哭了班里的同学belike",
       "onboard_time": 1708804397,
       "rank": 31,
@@ -547,20 +547,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20496,
-      "num": 20496,
+      "raw_hot": 22285,
+      "num": 22285,
       "word": "撒贝宁还原小尼春晚表情",
       "onboard_time": 1708807156,
       "rank": 25,
       "category": "综艺"
     },
     {
-      "raw_hot": 17722,
-      "num": 17722,
+      "raw_hot": 20588,
+      "num": 20588,
+      "word": "1种不起眼的食物抗衰又抑癌",
+      "onboard_time": 1708808056,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 17922,
+      "num": 17922,
       "word": "牙龈肿痛出血真不是上火",
       "onboard_time": 1708805896,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 17133,
+      "num": 17133,
+      "word": "田曦薇柿柿如意古装",
+      "onboard_time": 1708809196,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 16505,
@@ -571,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15447,
-      "num": 15447,
-      "word": "1种不起眼的食物抗衰又抑癌",
-      "onboard_time": 1708808056,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 11633,
       "num": 12703,
       "word": "玲娜贝儿冬巡杀青啦",
@@ -587,12 +595,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 11329,
-      "num": 12677,
-      "word": "田曦薇柿柿如意古装",
-      "onboard_time": 1708809196,
+      "raw_hot": 11006,
+      "num": 12948,
+      "word": "养宠物的意义就是无所顾虑的爱",
+      "onboard_time": 1708809077,
       "rank": 49,
-      "category": "剧集"
+      "category": "情感"
     }
   ],
   "hotgov_list": [
