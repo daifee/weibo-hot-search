@@ -1,6 +1,6 @@
 {
   "startTime": 1708705253127,
-  "endTime": 1708741192529,
+  "endTime": 1708742065454,
   "band_list": [
     {
       "raw_hot": 3207189,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1557630,
+      "num": 1557630,
+      "word": "00后小伙婚房被爆改后退货需天价",
+      "onboard_time": 1708740392,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1193130,
       "num": 1193130,
       "word": "肖战领口一年比一年低",
@@ -57,14 +65,6 @@
       "onboard_time": 1708735591,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1030500,
-      "num": 1030500,
-      "word": "00后小伙婚房被爆改后退货需天价",
-      "onboard_time": 1708740392,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 865730,
@@ -131,7 +131,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 609777,
+      "raw_hot": 630548,
       "num": 588524,
       "word": "南京火灾小区曾因电动车停放引发投诉",
       "onboard_time": 1708733787,
@@ -251,6 +251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 377231,
+      "num": 377231,
+      "word": "主人捡鸡蛋发现鸡被雪埋3天还活着",
+      "onboard_time": 1708737871,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364107,
       "num": 364107,
       "word": "沥心沙大桥事故幸存者发声",
@@ -265,6 +273,14 @@
       "onboard_time": 1708717817,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344034,
+      "num": 344034,
+      "word": "原来元宵节才是古人的情人节",
+      "onboard_time": 1708735890,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 343318,
@@ -289,22 +305,6 @@
       "onboard_time": 1708703375,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 330562,
-      "num": 330562,
-      "word": "原来元宵节才是古人的情人节",
-      "onboard_time": 1708735890,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 327703,
-      "num": 327703,
-      "word": "主人捡鸡蛋发现鸡被雪埋3天还活着",
-      "onboard_time": 1708737871,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314264,
@@ -363,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 275825,
+      "num": 275825,
+      "word": "汤圆",
+      "onboard_time": 1708741652,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 275475,
       "num": 275475,
       "word": "广州断桥事件倒车拦车车主发声",
@@ -401,6 +409,14 @@
       "onboard_time": 1708709903,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223029,
+      "num": 183493,
+      "word": "有个拆台的老婆是什么感觉",
+      "onboard_time": 1708741112,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 215046,
@@ -443,12 +459,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 196996,
+      "num": 181763,
+      "word": "业主开始自己卖房了",
+      "onboard_time": 1708741652,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196616,
       "num": 196616,
       "word": "16岁男生半年减重160斤",
       "onboard_time": 1708729518,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188262,
+      "num": 188262,
+      "word": "专家建议应避免早晚食用汤圆",
+      "onboard_time": 1708741229,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 183836,
@@ -473,6 +505,14 @@
       "onboard_time": 1708700372,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 178621,
+      "num": 164727,
+      "word": "猎冰导演称男替身都没跑过姚安娜",
+      "onboard_time": 1708740933,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 177863,
@@ -531,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164825,
+      "num": 164825,
+      "word": "神舟飞船全面升级为梦舟飞船",
+      "onboard_time": 1708741171,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152118,
       "num": 152118,
       "word": "哪种元宵汤圆馅最受欢迎",
@@ -545,6 +593,14 @@
       "onboard_time": 1708735591,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151258,
+      "num": 151258,
+      "word": "电影第二十条",
+      "onboard_time": 1708740991,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 148125,
@@ -595,14 +651,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 138025,
-      "num": 138025,
-      "word": "猎冰导演称男替身都没跑过姚安娜",
-      "onboard_time": 1708740933,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135181,
       "num": 135181,
       "word": "如果一个人周五没那么高兴",
@@ -619,20 +667,20 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 128252,
-      "num": 128252,
-      "word": "有个拆台的老婆是什么感觉",
-      "onboard_time": 1708741112,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 127238,
       "num": 127238,
       "word": "春楠 热辣滚烫最不值一提的是减重",
       "onboard_time": 1708714698,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126561,
+      "num": 126561,
+      "word": "苏醒文韬双大脑谈判",
+      "onboard_time": 1708739551,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 125550,
@@ -681,14 +729,6 @@
       "onboard_time": 1708735469,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 120388,
-      "num": 120388,
-      "word": "苏醒文韬双大脑谈判",
-      "onboard_time": 1708739551,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 117982,
@@ -747,14 +787,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 106356,
-      "num": 106356,
-      "word": "神舟飞船全面升级为梦舟飞船",
-      "onboard_time": 1708741171,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 106231,
       "num": 123817,
       "word": "猫猫确诊为犟种",
@@ -787,20 +819,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 99765,
-      "num": 99765,
-      "word": "电影第二十条",
-      "onboard_time": 1708740991,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 99275,
       "num": 99275,
       "word": "孙千黑长直",
       "onboard_time": 1708734748,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 98663,
+      "num": 98663,
+      "word": "世界讨厌香菜日",
+      "onboard_time": 1708741953,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 95831,
+      "num": 95831,
+      "word": "给宠物正骨会有什么反应",
+      "onboard_time": 1708742012,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 88439,
