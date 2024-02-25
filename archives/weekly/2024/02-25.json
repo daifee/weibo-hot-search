@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708864104432,
+  "endTime": 1708864989479,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -35,20 +35,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3100456,
+      "num": 3100456,
+      "word": "樊振东黄牌",
+      "onboard_time": 1708863454,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 3097561,
       "num": 3097561,
       "word": "比亚迪为劝架车主奖励20万",
       "onboard_time": 1708846292,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2604887,
-      "num": 2604887,
-      "word": "樊振东黄牌",
-      "onboard_time": 1708863454,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 2362388,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 857822,
+      "num": 857822,
+      "word": "草莓价格腰斩了",
+      "onboard_time": 1708859254,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 849399,
       "num": 849399,
       "word": "刘诗诗状态太好了",
@@ -355,12 +363,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 831040,
-      "num": 831040,
-      "word": "草莓价格腰斩了",
-      "onboard_time": 1708859254,
-      "rank": 27,
-      "category": "美食"
+      "raw_hot": 829630,
+      "num": 444267,
+      "word": "妻子四胎准备出院男子跪谢妻子",
+      "onboard_time": 1708861473,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 827735,
@@ -395,20 +403,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 757763,
-      "num": 333243,
-      "word": "妻子四胎准备出院男子跪谢妻子",
-      "onboard_time": 1708861473,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 740630,
       "num": 740630,
       "word": "小尼从来不用尼格买提对不上表情包",
       "onboard_time": 1708856616,
       "rank": 14,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 718157,
+      "num": 718157,
+      "word": "宗庆后逝世三个侧影一个最大悬念",
+      "onboard_time": 1708862855,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 717548,
@@ -603,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 577740,
+      "num": 577740,
+      "word": "马龙vs西蒙高茨",
+      "onboard_time": 1708864775,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 577703,
       "num": 577703,
       "word": "中国男篮88年首负日本",
@@ -771,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490786,
+      "num": 490786,
+      "word": "国家体育总局称联合培养政策将优化",
+      "onboard_time": 1708863998,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 490619,
       "num": 490619,
       "word": "董宇辉称不知自己的影响正面还是负面",
@@ -819,14 +843,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 449662,
-      "num": 449662,
-      "word": "宗庆后逝世三个侧影一个最大悬念",
-      "onboard_time": 1708862855,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441478,
       "num": 441478,
       "word": "全网寻找的劝架大哥是个律师",
@@ -865,6 +881,14 @@
       "onboard_time": 1708852833,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429210,
+      "num": 429210,
+      "word": "为何年轻人上班不愿意精致打扮",
+      "onboard_time": 1708863756,
+      "rank": 33,
+      "category": "社会议题"
     },
     {
       "raw_hot": 424841,
@@ -1057,6 +1081,14 @@
       "onboard_time": 1708804999,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 351201,
+      "num": 351201,
+      "word": "种地吧2被质疑的原因",
+      "onboard_time": 1708864057,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 344991,
@@ -1387,6 +1419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 250569,
+      "num": 250569,
+      "word": "吴宣仪发文谈出道8周年",
+      "onboard_time": 1708864593,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250265,
       "num": 250265,
       "word": "被迪丽热巴小卡支配的一生",
@@ -1449,6 +1489,14 @@
       "onboard_time": 1708861412,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 243288,
+      "num": 243288,
+      "word": "肺癌的9种常见表现",
+      "onboard_time": 1708864178,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 240732,
@@ -1539,14 +1587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224592,
-      "num": 224592,
-      "word": "国家体育总局称联合培养政策将优化",
-      "onboard_time": 1708863998,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 223010,
       "num": 223010,
       "word": "票房",
@@ -1569,14 +1609,6 @@
       "onboard_time": 1708839453,
       "rank": 28,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 221079,
-      "num": 221079,
-      "word": "为何年轻人上班不愿意精致打扮",
-      "onboard_time": 1708863756,
-      "rank": 33,
-      "category": "社会议题"
     },
     {
       "raw_hot": 219776,
@@ -1731,8 +1763,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197808,
-      "num": 197808,
+      "raw_hot": 198121,
+      "num": 198121,
+      "word": "OMG战胜WBG",
+      "onboard_time": 1708863756,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 197839,
+      "num": 197839,
       "word": "四问杭州宾利司机伤人事件",
       "onboard_time": 1708862494,
       "rank": 35,
@@ -1761,6 +1801,14 @@
       "onboard_time": 1708846411,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196441,
+      "num": 196441,
+      "word": "城里买平层还是郊区买别墅",
+      "onboard_time": 1708864534,
+      "rank": 38,
+      "category": "社会议题"
     },
     {
       "raw_hot": 195725,
@@ -1809,6 +1857,14 @@
       "onboard_time": 1708820309,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193272,
+      "num": 193272,
+      "word": "Hero三连败",
+      "onboard_time": 1708863998,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 192288,
@@ -1923,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185801,
+      "num": 185801,
+      "word": "张颂文唱的听海上电视了",
+      "onboard_time": 1708864419,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183858,
       "num": 183858,
       "word": "演员工会奖获奖名单",
@@ -1979,14 +2043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177977,
-      "num": 177977,
-      "word": "OMG战胜WBG",
-      "onboard_time": 1708863756,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 177870,
       "num": 177870,
       "word": "锦鲤本鲤见者运气爆棚",
@@ -2001,6 +2057,14 @@
       "onboard_time": 1708781562,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 176026,
+      "num": 176026,
+      "word": "你的手机杀后台严重吗",
+      "onboard_time": 1708864057,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 174736,
@@ -2203,14 +2267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155413,
-      "num": 155413,
-      "word": "Hero三连败",
-      "onboard_time": 1708863998,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 154793,
       "num": 154793,
       "word": "2024釜山世乒赛团体赛",
@@ -2275,20 +2331,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 147082,
-      "num": 147082,
-      "word": "种地吧2被质疑的原因",
-      "onboard_time": 1708864057,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146450,
       "num": 146450,
       "word": "阿姨这里不能滑雪",
       "onboard_time": 1708820126,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145250,
+      "num": 145250,
+      "word": "陈楚生三亚音乐节",
+      "onboard_time": 1708864895,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 144225,
@@ -2329,14 +2385,6 @@
       "onboard_time": 1708784378,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140631,
-      "num": 140631,
-      "word": "你的手机杀后台严重吗",
-      "onboard_time": 1708864057,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 139673,
@@ -2393,6 +2441,14 @@
       "onboard_time": 1708787916,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138470,
+      "num": 138470,
+      "word": "南来北往",
+      "onboard_time": 1708861412,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 137931,
@@ -2659,7 +2715,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 59377,
+      "raw_hot": 62488,
       "num": 1741736,
       "word": "我国渤海深层油气勘探再获发现",
       "onboard_time": 1708847553,
