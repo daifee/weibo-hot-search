@@ -1,10 +1,10 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708827874933,
+  "endTime": 1708828530109,
   "band_list": [
     {
-      "raw_hot": 9891456,
-      "num": 9891456,
+      "raw_hot": 10409378,
+      "num": 10409378,
       "word": "杭州持械伤人宾利车主已被抓",
       "onboard_time": 1708825835,
       "rank": 0,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 906365,
+      "num": 906365,
+      "word": "曾志伟郝蕾起争执",
+      "onboard_time": 1708826858,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 866104,
       "num": 866104,
       "word": "玩王者花掉外婆一万六自称人生无常",
@@ -115,16 +123,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 695117,
-      "num": 695117,
-      "word": "曾志伟郝蕾起争执",
-      "onboard_time": 1708826858,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 674185,
-      "num": 674185,
+      "raw_hot": 679983,
+      "num": 679983,
       "word": "单身女老师深陷杀猪盘被骗近400万",
       "onboard_time": 1708825115,
       "rank": 8,
@@ -161,6 +161,14 @@
       "onboard_time": 1708818204,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 627423,
+      "num": 627423,
+      "word": "警方回应打人宾利司机已被刑拘",
+      "onboard_time": 1708827638,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 610742,
@@ -339,6 +347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 346979,
+      "num": 346979,
+      "word": "考研 上岸",
+      "onboard_time": 1708827695,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 327363,
       "num": 327363,
       "word": "宁采臣澄清粉丝掉下横店悬崖事件",
@@ -395,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 270272,
+      "num": 270272,
+      "word": "杭州宾利车主",
+      "onboard_time": 1708828177,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261040,
       "num": 261040,
       "word": "黄龄演繁花曾被换角",
@@ -433,14 +457,6 @@
       "onboard_time": 1708787379,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 250563,
-      "num": 250563,
-      "word": "警方回应打人宾利司机已被刑拘",
-      "onboard_time": 1708827638,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250265,
@@ -595,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186523,
+      "num": 186523,
+      "word": "双北",
+      "onboard_time": 1708828417,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186051,
       "num": 186051,
       "word": "国乒男团",
@@ -625,14 +649,6 @@
       "onboard_time": 1708783476,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177182,
-      "num": 177182,
-      "word": "考研 上岸",
-      "onboard_time": 1708827695,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 176148,
@@ -785,6 +801,14 @@
       "onboard_time": 1708784378,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142059,
+      "num": 142059,
+      "word": "春天限量版的绝美配色",
+      "onboard_time": 1708828295,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139673,
