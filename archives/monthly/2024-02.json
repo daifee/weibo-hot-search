@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708903023099,
+  "endTime": 1708904044312,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -7859,6 +7859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 946421,
+      "num": 946421,
+      "word": "考研",
+      "onboard_time": 1708878090,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 946140,
       "num": 946140,
       "word": "贾玲第一个引体向上用了三十天",
@@ -8057,14 +8065,6 @@
       "onboard_time": 1707471392,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 931257,
-      "num": 931257,
-      "word": "考研",
-      "onboard_time": 1708878090,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 929907,
@@ -11907,6 +11907,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 706459,
+      "num": 706459,
+      "word": "赴华韩国游客数量暴增900%",
+      "onboard_time": 1708875574,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 705845,
       "num": 705845,
       "word": "庆余年第二季 谐音梗",
@@ -14859,14 +14867,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 592481,
-      "num": 592481,
-      "word": "赴华韩国游客数量暴增900%",
-      "onboard_time": 1708875574,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 592391,
       "num": 726744,
       "word": "专家称今年买房性价比更高",
@@ -17568,6 +17568,14 @@
       "word": "钟丽缇53岁身材",
       "onboard_time": 1707910959,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 514722,
+      "num": 514722,
+      "word": "刘畊宏称爆火阶段没接任何商业合作",
+      "onboard_time": 1708885099,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -20491,14 +20499,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 437415,
-      "num": 437415,
-      "word": "刘畊宏称爆火阶段没接任何商业合作",
-      "onboard_time": 1708885099,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 437333,
       "num": 250230,
       "word": "家里人把我的兔子杀了",
@@ -23280,6 +23280,14 @@
       "word": "狗剩快跑",
       "onboard_time": 1707050553,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 382630,
+      "num": 382630,
+      "word": "牛大力官配许清雅出场",
+      "onboard_time": 1708877014,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -28043,6 +28051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306701,
+      "num": 149784,
+      "word": "有了这个床上早八再也不怕迟到了",
+      "onboard_time": 1708902744,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 306644,
       "num": 260861,
       "word": "金晨卷发",
@@ -30211,6 +30227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 282462,
+      "num": 322615,
+      "word": "景区演员道具刀没了于是开始真演",
+      "onboard_time": 1708893674,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 282394,
       "num": 282394,
       "word": "请和我的老公结婚 男主未婚妻",
@@ -32329,14 +32353,6 @@
       "onboard_time": 1708831353,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 262029,
-      "num": 262029,
-      "word": "牛大力官配许清雅出场",
-      "onboard_time": 1708877014,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 261929,
@@ -38011,6 +38027,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 220485,
+      "num": 220485,
+      "word": "女企业家讨工程款陷寻衅滋事被批捕",
+      "onboard_time": 1708885459,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220480,
       "num": 220480,
       "word": "逆水寒手游",
@@ -38345,6 +38369,14 @@
       "onboard_time": 1707627931,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 218668,
+      "num": 145397,
+      "word": "男子醉驾致人死亡8年后再次醉驾",
+      "onboard_time": 1708893317,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218592,
@@ -39561,14 +39593,6 @@
       "onboard_time": 1708254934,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211289,
-      "num": 265051,
-      "word": "景区演员道具刀没了于是开始真演",
-      "onboard_time": 1708893674,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211252,
@@ -45763,14 +45787,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 187401,
-      "num": 104115,
-      "word": "男子醉驾致人死亡8年后再次醉驾",
-      "onboard_time": 1708893317,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187368,
       "num": 187368,
       "word": "林更新透露与凤行播出时间",
@@ -47153,6 +47169,14 @@
       "onboard_time": 1708606896,
       "rank": 40,
       "category": "美食,作品衍生"
+    },
+    {
+      "raw_hot": 181009,
+      "num": 181009,
+      "word": "贾跃亭炮轰高合汽车是行业耻辱",
+      "onboard_time": 1708902443,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 180963,
@@ -48913,14 +48937,6 @@
       "onboard_time": 1706783071,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 173673,
-      "num": 173673,
-      "word": "女企业家讨工程款陷寻衅滋事被批捕",
-      "onboard_time": 1708885459,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173551,
@@ -53387,6 +53403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155678,
+      "num": 155678,
+      "word": "考研查分通道汇总",
+      "onboard_time": 1708903347,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 155650,
       "num": 155650,
       "word": "i人春节的至暗时刻belike",
@@ -57249,6 +57273,14 @@
       "onboard_time": 1708409201,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 140111,
+      "num": 140111,
+      "word": "没人发现上班的成本很高吗",
+      "onboard_time": 1708883119,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 140090,
@@ -61331,6 +61363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122706,
+      "num": 122706,
+      "word": "同学攒1000多元钱买鞋挨骂小孩哥帮申诉",
+      "onboard_time": 1708894817,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122637,
       "num": 122637,
       "word": "丁程鑫主播嘴欠大赏",
@@ -62171,6 +62211,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 118931,
+      "num": 118931,
+      "word": "GUCCI拍的肖战",
+      "onboard_time": 1708887856,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 118913,
       "num": 118913,
       "word": "阿斯顿维拉1比3切尔西",
@@ -62529,14 +62577,6 @@
       "onboard_time": 1707265409,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117035,
-      "num": 102721,
-      "word": "有了这个床上早八再也不怕迟到了",
-      "onboard_time": 1708902744,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 117010,
@@ -63995,14 +64035,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 108311,
-      "num": 101656,
-      "word": "同学攒1000多元钱买鞋挨骂小孩哥帮申诉",
-      "onboard_time": 1708894817,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108261,
       "num": 117846,
       "word": "延续80年的初一头碗饺子敬英烈",
@@ -64361,14 +64393,6 @@
       "onboard_time": 1707037889,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105829,
-      "num": 100545,
-      "word": "没人发现上班的成本很高吗",
-      "onboard_time": 1708883119,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 105809,
@@ -64939,14 +64963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99680,
-      "num": 99680,
-      "word": "贾跃亭炮轰高合汽车是行业耻辱",
-      "onboard_time": 1708902443,
-      "rank": 26,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 99629,
       "num": 99629,
       "word": "胡锡进谈梅西香港行主办方改口",
@@ -65009,6 +65025,14 @@
       "onboard_time": 1708676434,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 98635,
+      "num": 98635,
+      "word": "ale谈jiejie病情",
+      "onboard_time": 1708902744,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 98523,
@@ -65105,14 +65129,6 @@
       "onboard_time": 1706983465,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 96904,
-      "num": 96904,
-      "word": "GUCCI拍的肖战",
-      "onboard_time": 1708887856,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 96884,
@@ -65361,6 +65377,14 @@
       "onboard_time": 1706879133,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94195,
+      "num": 94195,
+      "word": "白敬亭哭戏演技",
+      "onboard_time": 1708903527,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 94103,
@@ -66171,6 +66195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81632,
+      "num": 81632,
+      "word": "切尔西0比1利物浦",
+      "onboard_time": 1708903285,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81219,
       "num": 81219,
       "word": "中国队4x100自由泳混合接力夺金",
@@ -66395,6 +66427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77769,
+      "num": 77769,
+      "word": "王楚钦感谢身在强大的团队",
+      "onboard_time": 1708902443,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77467,
       "num": 77467,
       "word": "李亚鹏和妻女同框拍短片",
@@ -66433,6 +66473,14 @@
       "onboard_time": 1706756428,
       "rank": 14,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 76520,
+      "num": 76520,
+      "word": "东北父母式审美",
+      "onboard_time": 1708899858,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 76470,
@@ -66787,14 +66835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 68386,
-      "num": 68386,
-      "word": "东北父母式审美",
-      "onboard_time": 1708899858,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 68339,
       "num": 68339,
       "word": "韩素希腰部纹身含义",
@@ -66817,6 +66857,14 @@
       "onboard_time": 1708644444,
       "rank": 38,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 67947,
+      "num": 67947,
+      "word": "皇马1比0塞维利亚",
+      "onboard_time": 1708902926,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 67447,
@@ -66979,6 +67027,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 64096,
+      "num": 64096,
+      "word": "湖人vs太阳",
+      "onboard_time": 1708903767,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64071,
       "num": 413439,
       "word": "余承东是懂时尚的",
@@ -67137,14 +67193,6 @@
       "onboard_time": 1708643000,
       "rank": 35,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 60896,
-      "num": 60896,
-      "word": "ale谈jiejie病情",
-      "onboard_time": 1708902744,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 60791,
@@ -67497,14 +67545,6 @@
       "onboard_time": 1707257237,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 55061,
-      "num": 55061,
-      "word": "王楚钦感谢身在强大的团队",
-      "onboard_time": 1708902443,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 54840,
@@ -68043,12 +68083,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 45884,
-      "num": 45884,
-      "word": "皇马1比0塞维利亚",
-      "onboard_time": 1708902926,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 45717,
+      "num": 1881699,
+      "word": "中国载人月球探测任务正有序推进",
+      "onboard_time": 1708866758,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 45716,
@@ -68545,14 +68585,6 @@
       "onboard_time": 1707041912,
       "rank": 27,
       "category": "艺人,数码"
-    },
-    {
-      "raw_hot": 37526,
-      "num": 1881699,
-      "word": "中国载人月球探测任务正有序推进",
-      "onboard_time": 1708866758,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 37357,
