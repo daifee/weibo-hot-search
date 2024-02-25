@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708842843699,
+  "endTime": 1708845428759,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1655165,
+      "num": 1655165,
+      "word": "黄子韬公司CEO被调查",
+      "onboard_time": 1708843292,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1631703,
       "num": 1631703,
       "word": "沙溢爆改",
@@ -147,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1030098,
+      "num": 1030098,
+      "word": "比亚迪车主劝架",
+      "onboard_time": 1708842273,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 991988,
       "num": 991988,
       "word": "何炅工作室发了双北",
@@ -201,6 +217,14 @@
       "onboard_time": 1708821869,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 853328,
+      "num": 853328,
+      "word": "中国男篮惜败日本男篮",
+      "onboard_time": 1708844614,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 827735,
@@ -475,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 437905,
+      "num": 437905,
+      "word": "全网寻找的劝架大哥是个律师",
+      "onboard_time": 1708839514,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 436919,
       "num": 436919,
       "word": "新疆地震",
@@ -507,12 +539,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 415722,
-      "num": 415722,
-      "word": "全网寻找的劝架大哥是个律师",
-      "onboard_time": 1708839514,
+      "raw_hot": 423069,
+      "num": 423069,
+      "word": "中国男篮vs日本男篮",
+      "onboard_time": 1708837180,
       "rank": 17,
-      "category": "社会新闻"
+      "category": "体育"
+    },
+    {
+      "raw_hot": 414402,
+      "num": 414402,
+      "word": "胡明轩太行了",
+      "onboard_time": 1708841854,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 410913,
@@ -563,14 +603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 395845,
-      "num": 395845,
-      "word": "中国男篮vs日本男篮",
-      "onboard_time": 1708837180,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 393059,
       "num": 393059,
       "word": "尼格买提对上了",
@@ -585,6 +617,14 @@
       "onboard_time": 1708774958,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 389707,
+      "num": 389707,
+      "word": "赵继伟防守 白给",
+      "onboard_time": 1708844494,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 364658,
@@ -633,14 +673,6 @@
       "onboard_time": 1708804999,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 351989,
-      "num": 351989,
-      "word": "胡明轩太行了",
-      "onboard_time": 1708841854,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 327363,
@@ -763,12 +795,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 274554,
+      "num": 274554,
+      "word": "腿姐 明天的你已经在录取名单里了",
+      "onboard_time": 1708844255,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 273784,
       "num": 273784,
       "word": "世上最残忍的事情之一",
       "onboard_time": 1708838498,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 267347,
+      "num": 267347,
+      "word": "二月查到好成绩 七月拿到录取通知书",
+      "onboard_time": 1708844853,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 262064,
@@ -851,14 +899,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 248886,
-      "num": 232125,
-      "word": "比亚迪车主劝架",
-      "onboard_time": 1708842273,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247576,
       "num": 247576,
       "word": "世上最疼的5种病",
@@ -881,6 +921,14 @@
       "onboard_time": 1708834960,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 241746,
+      "num": 241746,
+      "word": "咖啡为什么最好上午喝",
+      "onboard_time": 1708844734,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 240732,
@@ -971,11 +1019,27 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 219776,
+      "num": 219776,
+      "word": "杨瀚森别失误了",
+      "onboard_time": 1708843652,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219754,
       "num": 219754,
       "word": "肖战跨国请客",
       "onboard_time": 1708776639,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 213683,
+      "num": 213683,
+      "word": "白鹿对粉丝说韩语",
+      "onboard_time": 1708844556,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1011,6 +1075,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 207325,
+      "num": 207325,
+      "word": "中国男篮vs日本男篮直播",
+      "onboard_time": 1708841019,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205295,
       "num": 205295,
       "word": "特朗普在南卡罗来纳州共和党初选中胜出",
@@ -1019,12 +1091,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 203087,
+      "num": 203087,
+      "word": "宗庆后最后一次公开露面",
+      "onboard_time": 1708842573,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202720,
       "num": 202720,
       "word": "高层建筑起火怎么逃生",
       "onboard_time": 1708826974,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 202111,
+      "num": 202111,
+      "word": "金博洋短节目93.60分",
+      "onboard_time": 1708843952,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 200701,
@@ -1049,6 +1137,14 @@
       "onboard_time": 1708828594,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195072,
+      "num": 195072,
+      "word": "娃哈哈创始人宗庆后生前经典发言",
+      "onboard_time": 1708844974,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194543,
@@ -1107,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188113,
+      "num": 188113,
+      "word": "狼队对战BOA",
+      "onboard_time": 1708844734,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186897,
       "num": 186897,
       "word": "魏大勋晚会vlog",
@@ -1137,14 +1241,6 @@
       "onboard_time": 1708827333,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 183813,
-      "num": 183813,
-      "word": "宗庆后最后一次公开露面",
-      "onboard_time": 1708842573,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182625,
@@ -1209,6 +1305,14 @@
       "onboard_time": 1708797561,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 170864,
+      "num": 170864,
+      "word": "王鹤棣出发回国了",
+      "onboard_time": 1708844014,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 170227,
@@ -1331,6 +1435,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157520,
+      "num": 157520,
+      "word": "男篮亚预赛",
+      "onboard_time": 1708845152,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156264,
+      "num": 156264,
+      "word": "军艺校草",
+      "onboard_time": 1708845273,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 154793,
       "num": 154793,
       "word": "2024釜山世乒赛团体赛",
@@ -1363,12 +1483,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149932,
+      "num": 149932,
+      "word": "等成绩的心情只有考研人自己知道",
+      "onboard_time": 1708844375,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 149435,
       "num": 149435,
       "word": "会长是女仆大人作者新作",
       "onboard_time": 1708819164,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 148280,
+      "num": 148280,
+      "word": "朋友圈点赞是一种交易",
+      "onboard_time": 1708845393,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 147702,
@@ -1521,14 +1657,6 @@
       "onboard_time": 1708818564,
       "rank": 37,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 130088,
-      "num": 130088,
-      "word": "中国男篮vs日本男篮直播",
-      "onboard_time": 1708841019,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 126619,
