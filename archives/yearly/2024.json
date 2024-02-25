@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1708860834845,
+  "endTime": 1708864104432,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1811,6 +1811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2604887,
+      "num": 2604887,
+      "word": "樊振东黄牌",
+      "onboard_time": 1708863454,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2602979,
       "num": 2602979,
       "word": "央行降准0.5个百分点",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705550968,
       "rank": 10,
       "category": "财经"
-    },
-    {
-      "raw_hot": 2316396,
-      "num": 1429043,
-      "word": "男子当小三破坏军婚获刑10个月",
-      "onboard_time": 1706681554,
-      "rank": 13,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
