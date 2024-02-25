@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1708832067476,
+  "endTime": 1708834876875,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -249,6 +249,14 @@
       "onboard_time": 1707482890,
       "rank": 3,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 8886717,
+      "num": 8886717,
+      "word": "宗庆后逝世",
+      "onboard_time": 1708833453,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8795205,
@@ -2392,14 +2400,6 @@
       "word": "女子自曝13岁时遭继父强奸",
       "onboard_time": 1704893851,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2305961,
-      "num": 1999851,
-      "word": "女老师被丈夫举报出轨16岁学生",
-      "onboard_time": 1708268617,
-      "rank": 4,
       "category": "社会新闻"
     }
   ],

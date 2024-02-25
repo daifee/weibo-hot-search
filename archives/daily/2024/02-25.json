@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708832067476,
+  "endTime": 1708834876875,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -16,6 +16,14 @@
       "word": "杭州宾利",
       "onboard_time": 1708816820,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8886717,
+      "num": 8886717,
+      "word": "宗庆后逝世",
+      "onboard_time": 1708833453,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -43,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1631703,
+      "num": 1631703,
+      "word": "沙溢爆改",
+      "onboard_time": 1708832972,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1502550,
       "num": 1502550,
       "word": "国乒女团六连冠",
@@ -57,6 +73,14 @@
       "onboard_time": 1708787615,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1181182,
+      "num": 1107358,
+      "word": "茶刀",
+      "onboard_time": 1708830636,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1181134,
@@ -81,6 +105,14 @@
       "onboard_time": 1708826858,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 995062,
+      "num": 995062,
+      "word": "娃哈哈集团讣告",
+      "onboard_time": 1708834596,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 991988,
@@ -123,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 825474,
+      "num": 825474,
+      "word": "欧阳娜娜徐正溪情头",
+      "onboard_time": 1708832854,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 778067,
       "num": 778067,
       "word": "老人偷拍被抓手机有6万张女生照片",
@@ -131,12 +171,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 764699,
-      "num": 764699,
-      "word": "茶刀",
-      "onboard_time": 1708830636,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 772226,
+      "num": 772226,
+      "word": "赵丽娜直播痛哭",
+      "onboard_time": 1708832253,
+      "rank": 10,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 717548,
@@ -148,7 +188,7 @@
     },
     {
       "raw_hot": 694897,
-      "num": 284421,
+      "num": 320842,
       "word": "被催婚10年今年没被催了",
       "onboard_time": 1708829196,
       "rank": 20,
@@ -193,6 +233,14 @@
       "onboard_time": 1708818204,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 629755,
+      "num": 629755,
+      "word": "拒绝汉字污名化",
+      "onboard_time": 1708831831,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 627423,
@@ -315,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 481291,
+      "num": 481291,
+      "word": "迪丽热巴暗黑魔女",
+      "onboard_time": 1708833994,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 438072,
       "num": 300936,
       "word": "女子假胖20年意外瘦身60斤",
@@ -347,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 399936,
+      "num": 319492,
+      "word": "家人把我养了一年的兔子吃了",
+      "onboard_time": 1708831234,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 399487,
       "num": 399487,
       "word": "纪凌尘大海说",
@@ -363,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 395006,
+      "num": 395006,
+      "word": "米老鼠的坟墓叫什么",
+      "onboard_time": 1708832312,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 393059,
       "num": 393059,
       "word": "尼格买提对上了",
@@ -377,14 +449,6 @@
       "onboard_time": 1708774958,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364087,
-      "num": 283978,
-      "word": "家人把我养了一年的兔子吃了",
-      "onboard_time": 1708831234,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 363791,
@@ -417,6 +481,14 @@
       "onboard_time": 1708804999,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 340158,
+      "num": 203840,
+      "word": "G7联合声明竟公开点名中国",
+      "onboard_time": 1708833876,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 327363,
@@ -459,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311602,
+      "num": 311602,
+      "word": "8种体检异常不必太担心",
+      "onboard_time": 1708832792,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 311495,
       "num": 311495,
       "word": "王艺迪",
@@ -483,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286357,
-      "num": 286357,
-      "word": "拒绝汉字污名化",
-      "onboard_time": 1708831831,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 278577,
       "num": 278577,
       "word": "元宵节高铁好像变成了校车",
@@ -505,6 +577,14 @@
       "onboard_time": 1708828537,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275643,
+      "num": 203772,
+      "word": "60岁时第一次工作了",
+      "onboard_time": 1708833636,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 262064,
@@ -763,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179622,
+      "num": 1965905,
+      "word": "春天限量版的绝美配色",
+      "onboard_time": 1708828295,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178495,
       "num": 178495,
       "word": "男团决赛",
@@ -793,6 +881,14 @@
       "onboard_time": 1708781562,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174914,
+      "num": 174914,
+      "word": "南京又一小区深夜突发火灾",
+      "onboard_time": 1708834477,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173206,
@@ -827,6 +923,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169053,
+      "num": 169053,
+      "word": "粉笔模考",
+      "onboard_time": 1708832312,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 166702,
+      "num": 166702,
+      "word": "郭晶晶米兰看秀",
+      "onboard_time": 1708832373,
+      "rank": 38,
+      "category": "体育,时尚"
+    },
+    {
       "raw_hot": 166634,
       "num": 160689,
       "word": "何炅给撒贝宁带臭豆腐",
@@ -841,6 +953,14 @@
       "onboard_time": 1708790555,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165383,
+      "num": 165383,
+      "word": "我拒绝了他们的拒绝",
+      "onboard_time": 1708834055,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 163863,
@@ -873,6 +993,14 @@
       "onboard_time": 1708828716,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157718,
+      "num": 157718,
+      "word": "马燕装病",
+      "onboard_time": 1708834295,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 157703,
@@ -923,6 +1051,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 147013,
+      "num": 147013,
+      "word": "宁静黄龄至今没有互加微信",
+      "onboard_time": 1708834780,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146450,
       "num": 146450,
       "word": "阿姨这里不能滑雪",
@@ -953,14 +1089,6 @@
       "onboard_time": 1708784378,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142059,
-      "num": 1378686,
-      "word": "春天限量版的绝美配色",
-      "onboard_time": 1708828295,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139673,

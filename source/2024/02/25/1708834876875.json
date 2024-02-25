@@ -1,0 +1,410 @@
+{
+  "runTime": 1708834876875,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8886717,
+        "num": 8886717,
+        "word": "宗庆后逝世",
+        "onboard_time": 1708833453,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2509473,
+        "num": 2509473,
+        "word": "杭州持械伤人宾利车主已被抓",
+        "onboard_time": 1708825835,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179622,
+        "num": 1965905,
+        "word": "春天限量版的绝美配色",
+        "onboard_time": 1708828295,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1631703,
+        "num": 1631703,
+        "word": "沙溢爆改",
+        "onboard_time": 1708832972,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1295394,
+        "num": 1295394,
+        "word": "警方通报杭州高架伤人事件",
+        "onboard_time": 1708829795,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1134334,
+        "num": 1134334,
+        "word": "宾利宝马车主系表兄弟",
+        "onboard_time": 1708830216,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1181182,
+        "num": 1107358,
+        "word": "茶刀",
+        "onboard_time": 1708830636,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 995062,
+        "num": 995062,
+        "word": "娃哈哈集团讣告",
+        "onboard_time": 1708834596,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 952707,
+        "num": 952707,
+        "word": "曾志伟郝蕾起争执",
+        "onboard_time": 1708826858,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 825474,
+        "num": 825474,
+        "word": "欧阳娜娜徐正溪情头",
+        "onboard_time": 1708832854,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 772226,
+        "num": 772226,
+        "word": "赵丽娜直播痛哭",
+        "onboard_time": 1708832253,
+        "rank": 10,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 629755,
+        "num": 629755,
+        "word": "拒绝汉字污名化",
+        "onboard_time": 1708831831,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 481291,
+        "num": 481291,
+        "word": "迪丽热巴暗黑魔女",
+        "onboard_time": 1708833994,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 474840,
+        "num": 474840,
+        "word": "纪凌尘 你喜欢大海我爱过你很浪漫",
+        "onboard_time": 1708785635,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420760,
+        "num": 420760,
+        "word": "玩王者花掉外婆一万六自称人生无常",
+        "onboard_time": 1708821869,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395006,
+        "num": 395006,
+        "word": "米老鼠的坟墓叫什么",
+        "onboard_time": 1708832312,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 390474,
+        "num": 390474,
+        "word": "考研 上岸",
+        "onboard_time": 1708827695,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 368082,
+        "num": 368082,
+        "word": "赵昭仪李晋晔在录恋综吗",
+        "onboard_time": 1708823732,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348742,
+        "num": 348742,
+        "word": "单身女老师深陷杀猪盘被骗近400万",
+        "onboard_time": 1708825115,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322086,
+        "num": 322086,
+        "word": "杭州宾利",
+        "onboard_time": 1708816820,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463499,
+        "num": 320842,
+        "word": "被催婚10年今年没被催了",
+        "onboard_time": 1708829196,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 399936,
+        "num": 319492,
+        "word": "家人把我养了一年的兔子吃了",
+        "onboard_time": 1708831234,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317012,
+        "num": 317012,
+        "word": "水谷隼 孙颖莎太强了",
+        "onboard_time": 1708818204,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311602,
+        "num": 311602,
+        "word": "8种体检异常不必太担心",
+        "onboard_time": 1708832792,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 298239,
+        "num": 298239,
+        "word": "穿Prada的女魔头卡司重聚",
+        "onboard_time": 1708826495,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268953,
+        "num": 268953,
+        "word": "郝蕾回应之前怼金莎",
+        "onboard_time": 1708829616,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238540,
+        "num": 238540,
+        "word": "为什么不上王曼昱",
+        "onboard_time": 1708822108,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227448,
+        "num": 227448,
+        "word": "4个汤圆热量相当于一碗米饭",
+        "onboard_time": 1708828537,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 211365,
+        "num": 211365,
+        "word": "南京此次火灾为何伤亡严重",
+        "onboard_time": 1708830514,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204892,
+        "num": 204892,
+        "word": "黄晓明说陈梦你真的很棒",
+        "onboard_time": 1708819045,
+        "rank": 29,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 340158,
+        "num": 203840,
+        "word": "G7联合声明竟公开点名中国",
+        "onboard_time": 1708833876,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 275643,
+        "num": 203772,
+        "word": "60岁时第一次工作了",
+        "onboard_time": 1708833636,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239321,
+        "num": 203565,
+        "word": "吴镇宇问金莎愿意和男友演母子吗",
+        "onboard_time": 1708821089,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202753,
+        "num": 202753,
+        "word": "湿气较重的人这样吃水果更健康",
+        "onboard_time": 1708829495,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200812,
+        "num": 200812,
+        "word": "飞驰人生2票房破30亿",
+        "onboard_time": 1708831353,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190621,
+        "num": 190621,
+        "word": "谈恋爱其实是在谈一种能力",
+        "onboard_time": 1708821869,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174914,
+        "num": 174914,
+        "word": "南京又一小区深夜突发火灾",
+        "onboard_time": 1708834477,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169053,
+        "num": 169053,
+        "word": "粉笔模考",
+        "onboard_time": 1708832312,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166702,
+        "num": 166702,
+        "word": "郭晶晶米兰看秀",
+        "onboard_time": 1708832373,
+        "rank": 38,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 165383,
+        "num": 165383,
+        "word": "我拒绝了他们的拒绝",
+        "onboard_time": 1708834055,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157903,
+        "num": 157903,
+        "word": "网传宾利车主伤人事件现场画面",
+        "onboard_time": 1708829795,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157718,
+        "num": 157718,
+        "word": "马燕装病",
+        "onboard_time": 1708834295,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151021,
+        "num": 151021,
+        "word": "国乒女团六连冠",
+        "onboard_time": 1708786004,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147013,
+        "num": 147013,
+        "word": "宁静黄龄至今没有互加微信",
+        "onboard_time": 1708834780,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141995,
+        "num": 141995,
+        "word": "朱梓骁说直播带货才是后路",
+        "onboard_time": 1708821390,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137278,
+        "num": 137278,
+        "word": "上春山 神龙吐水",
+        "onboard_time": 1708830032,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134905,
+        "num": 134905,
+        "word": "王艺迪",
+        "onboard_time": 1708820367,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134223,
+        "num": 134223,
+        "word": "上海下雪",
+        "onboard_time": 1708821810,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130761,
+        "num": 130761,
+        "word": "这下搞得大家都不高兴了",
+        "onboard_time": 1708831234,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129640,
+        "num": 129640,
+        "word": "老人偷拍被抓手机有6万张女生照片",
+        "onboard_time": 1708790314,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#唱好京津双城记共同打造区域发展高地#"
+    }
+  }
+}
