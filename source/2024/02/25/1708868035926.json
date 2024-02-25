@@ -1,0 +1,410 @@
+{
+  "runTime": 1708868035926,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4505829,
+        "num": 4505829,
+        "word": "国乒男团11连冠",
+        "onboard_time": 1708866577,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1835742,
+        "num": 1835742,
+        "word": "为何年轻人上班不愿意精致打扮",
+        "onboard_time": 1708863756,
+        "rank": 1,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 69441,
+        "num": 1520769,
+        "word": "春节档电影前4名累计票房破100亿",
+        "onboard_time": 1708867534,
+        "rank": 2,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1498000,
+        "num": 1498000,
+        "word": "樊振东黄牌",
+        "onboard_time": 1708863454,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1390293,
+        "num": 1390293,
+        "word": "杭州劝架车主想的是能救两个人",
+        "onboard_time": 1708866820,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1235901,
+        "num": 1235901,
+        "word": "刘诗诗池昌旭坐一起",
+        "onboard_time": 1708862494,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1071174,
+        "num": 1071174,
+        "word": "姚玉玲结局",
+        "onboard_time": 1708860154,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1054846,
+        "num": 1054846,
+        "word": "与女主播发生关系住持已被注销戒牒",
+        "onboard_time": 1708853436,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872436,
+        "num": 872436,
+        "word": "王皓情绪价值拉满",
+        "onboard_time": 1708866096,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 831057,
+        "num": 831057,
+        "word": "女校长称微信群不雅视频非本人发",
+        "onboard_time": 1708865855,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769162,
+        "num": 769162,
+        "word": "种地吧2被质疑的原因",
+        "onboard_time": 1708864057,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 643647,
+        "num": 643647,
+        "word": "演员李影去世",
+        "onboard_time": 1708861893,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 608499,
+        "num": 608499,
+        "word": "为什么要让马魁牺牲",
+        "onboard_time": 1708861955,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 572834,
+        "num": 572834,
+        "word": "看马龙打球是享受",
+        "onboard_time": 1708866697,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 572367,
+        "num": 572367,
+        "word": "国家体育总局称联合培养政策将优化",
+        "onboard_time": 1708863998,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 551885,
+        "num": 551885,
+        "word": "宗庆后逝世三个侧影一个最大悬念",
+        "onboard_time": 1708862855,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531702,
+        "num": 531702,
+        "word": "比亚迪为劝架车主奖励20万",
+        "onboard_time": 1708846292,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89180,
+        "num": 492475,
+        "word": "没想到超跑还能这么玩",
+        "onboard_time": 1708866820,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 491981,
+        "num": 491981,
+        "word": "草莓价格腰斩了",
+        "onboard_time": 1708859254,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 455806,
+        "num": 455806,
+        "word": "国乒男团vs法国男团",
+        "onboard_time": 1708857694,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 604665,
+        "num": 448986,
+        "word": "妻子四胎准备出院男子跪谢妻子",
+        "onboard_time": 1708861473,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432980,
+        "num": 432980,
+        "word": "迪丽热巴紫罗兰公主",
+        "onboard_time": 1708857094,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413304,
+        "num": 413304,
+        "word": "南来北往编剧",
+        "onboard_time": 1708865916,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372290,
+        "num": 372290,
+        "word": "宗庆后逝世",
+        "onboard_time": 1708833453,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386389,
+        "num": 371041,
+        "word": "南来北往大结局",
+        "onboard_time": 1708861051,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368713,
+        "num": 368713,
+        "word": "樊振东 相持的神",
+        "onboard_time": 1708862494,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331010,
+        "num": 331010,
+        "word": "女子发现门上被贴可疑U盘一把扔飞",
+        "onboard_time": 1708857454,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292019,
+        "num": 292019,
+        "word": "肖战戒碳失败",
+        "onboard_time": 1708849232,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284510,
+        "num": 284510,
+        "word": "樊振东主动示意擦边",
+        "onboard_time": 1708866159,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282794,
+        "num": 282794,
+        "word": "刘诗诗状态太好了",
+        "onboard_time": 1708861230,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 270506,
+        "num": 270506,
+        "word": "再见了麻麻今晚我就要远航",
+        "onboard_time": 1708865735,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252894,
+        "num": 252894,
+        "word": "世乒赛",
+        "onboard_time": 1708866995,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274115,
+        "num": 251372,
+        "word": "肖战出发回国",
+        "onboard_time": 1708861710,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 249306,
+        "num": 249306,
+        "word": "吃水果其实是件挺私密的事",
+        "onboard_time": 1708853069,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226772,
+        "num": 226772,
+        "word": "马龙vs西蒙高茨",
+        "onboard_time": 1708864775,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225983,
+        "num": 225983,
+        "word": "吴宣仪发文谈出道8周年",
+        "onboard_time": 1708864593,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222966,
+        "num": 222966,
+        "word": "肺癌的9种常见表现",
+        "onboard_time": 1708864178,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210391,
+        "num": 210391,
+        "word": "NIP对战LNG",
+        "onboard_time": 1708867475,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207872,
+        "num": 207872,
+        "word": "樊振东3比2A勒布伦",
+        "onboard_time": 1708865134,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206367,
+        "num": 206367,
+        "word": "成年人的崩溃从生病开始",
+        "onboard_time": 1708867058,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193543,
+        "num": 193543,
+        "word": "朋友让我辞职回家参加她订婚",
+        "onboard_time": 1708860215,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193271,
+        "num": 193271,
+        "word": "比亚迪公关",
+        "onboard_time": 1708852293,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 192839,
+        "num": 192839,
+        "word": "仰望U9",
+        "onboard_time": 1708865014,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 192748,
+        "num": 192748,
+        "word": "马龙3比1西蒙高茨",
+        "onboard_time": 1708867475,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190727,
+        "num": 190727,
+        "word": "纪凌尘演技",
+        "onboard_time": 1708858473,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187653,
+        "num": 187653,
+        "word": "王力宏 娃哈哈矿泉水",
+        "onboard_time": 1708836762,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171586,
+        "num": 171586,
+        "word": "城里买平层还是郊区买别墅",
+        "onboard_time": 1708864534,
+        "rank": 46,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 168039,
+        "num": 168039,
+        "word": "给奢侈品店画饼",
+        "onboard_time": 1708867954,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165463,
+        "num": 165463,
+        "word": "成毅直播",
+        "onboard_time": 1708868014,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161814,
+        "num": 161814,
+        "word": "文佳煐黑色透视裙",
+        "onboard_time": 1708867177,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#唱好京津双城记共同打造区域发展高地#"
+    }
+  }
+}
