@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708850127756,
+  "endTime": 1708852513632,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1689471,
+      "num": 1689471,
+      "word": "最惨文科专业",
+      "onboard_time": 1708848332,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1655165,
       "num": 1655165,
       "word": "黄子韬公司CEO被调查",
@@ -115,20 +123,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1407319,
+      "num": 1407319,
+      "word": "肖战戒碳失败",
+      "onboard_time": 1708849232,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1268025,
       "num": 1268025,
       "word": "孙颖莎陈梦哭了",
       "onboard_time": 1708787615,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1256162,
-      "num": 1256162,
-      "word": "肖战戒碳失败",
-      "onboard_time": 1708849232,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1181182,
@@ -211,14 +219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 937826,
-      "num": 937826,
-      "word": "最惨文科专业",
-      "onboard_time": 1708848332,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 934886,
       "num": 934886,
       "word": "中学生发现微信抢最大红包秘诀",
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 824922,
+      "num": 824922,
+      "word": "民众自发到娃哈哈总部献花悼念",
+      "onboard_time": 1708850312,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 778067,
       "num": 778067,
       "word": "老人偷拍被抓手机有6万张女生照片",
@@ -287,6 +295,14 @@
       "num": 703766,
       "word": "雷军称宗庆后是一代传奇",
       "onboard_time": 1708841019,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697033,
+      "num": 697033,
+      "word": "白血病女孩长胖40斤笑称蛮可爱",
+      "onboard_time": 1708847072,
       "rank": 14,
       "category": "社会新闻"
     },
@@ -395,6 +411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 589168,
+      "num": 589168,
+      "word": "SM三大神颜同框",
+      "onboard_time": 1708850670,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 588846,
       "num": 588846,
       "word": "全网寻找宾利司机打人事件劝架大哥",
@@ -483,14 +507,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 522610,
-      "num": 522610,
-      "word": "白血病女孩长胖40斤笑称蛮可爱",
-      "onboard_time": 1708847072,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 518566,
       "num": 518566,
       "word": "朱梓骁说直播带货才是后路",
@@ -505,6 +521,14 @@
       "onboard_time": 1708847371,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 514235,
+      "num": 514235,
+      "word": "福建海警在金门附近海域执法巡查",
+      "onboard_time": 1708849953,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 513990,
@@ -545,6 +569,14 @@
       "onboard_time": 1708822108,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 492647,
+      "num": 492647,
+      "word": "宾利司机打人事件劝架律师发声",
+      "onboard_time": 1708847313,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 487633,
@@ -707,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384686,
+      "num": 384686,
+      "word": "EDG赛季首胜",
+      "onboard_time": 1708851931,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 378145,
       "num": 324044,
       "word": "朋友圈点赞是一种交易",
@@ -787,6 +827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 321321,
+      "num": 321321,
+      "word": "熬夜后千万别做2件事",
+      "onboard_time": 1708846891,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 320388,
       "num": 320388,
       "word": "多地结婚人数回升",
@@ -851,14 +899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 301771,
-      "num": 301771,
-      "word": "熬夜后千万别做2件事",
-      "onboard_time": 1708846891,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 296833,
       "num": 296833,
       "word": "南京此次火灾为何伤亡严重",
@@ -881,6 +921,30 @@
       "onboard_time": 1708840895,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295135,
+      "num": 295135,
+      "word": "宗庆后生命最后仍在病床坚持工作",
+      "onboard_time": 1708849413,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288354,
+      "num": 288354,
+      "word": "EDG对战AL",
+      "onboard_time": 1708849171,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 281612,
+      "num": 281612,
+      "word": "黄旭熙担心自己没粉丝了",
+      "onboard_time": 1708850553,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 279613,
@@ -1019,6 +1083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 248605,
+      "num": 248605,
+      "word": "金晨首次尝试老年妆",
+      "onboard_time": 1708851149,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247576,
       "num": 247576,
       "word": "世上最疼的5种病",
@@ -1041,14 +1113,6 @@
       "onboard_time": 1708834960,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 243140,
-      "num": 243140,
-      "word": "宾利司机打人事件劝架律师发声",
-      "onboard_time": 1708847313,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240732,
@@ -1163,14 +1227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 213553,
-      "num": 213553,
-      "word": "福建海警在金门附近海域执法巡查",
-      "onboard_time": 1708849953,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211472,
       "num": 211472,
       "word": "孙颖莎采访",
@@ -1185,6 +1241,14 @@
       "onboard_time": 1708835982,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208959,
+      "num": 208959,
+      "word": "刘诗诗米兰时装周",
+      "onboard_time": 1708851752,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208322,
@@ -1217,6 +1281,14 @@
       "onboard_time": 1708842573,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205782,
+      "num": 205782,
+      "word": "LIA去了ITZY演唱会",
+      "onboard_time": 1708852234,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 205295,
@@ -1283,6 +1355,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196089,
+      "num": 196089,
+      "word": "芭莎拍的肖战",
+      "onboard_time": 1708852293,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 195725,
+      "num": 195725,
+      "word": "当代年轻人扣扣搜搜花了很多钱",
+      "onboard_time": 1708851214,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 195639,
       "num": 195639,
       "word": "何炅说一号厅很亲切很温暖",
@@ -1321,14 +1409,6 @@
       "onboard_time": 1708820309,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193474,
-      "num": 193474,
-      "word": "宗庆后生命最后仍在病床坚持工作",
-      "onboard_time": 1708849413,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189507,
@@ -1401,14 +1481,6 @@
       "onboard_time": 1708845815,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186296,
-      "num": 186296,
-      "word": "EDG对战AL",
-      "onboard_time": 1708849171,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 186051,
@@ -1601,6 +1673,14 @@
       "onboard_time": 1708790134,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160189,
+      "num": 160189,
+      "word": "薛之谦拉斯维加斯演唱会",
+      "onboard_time": 1708851990,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 160154,
@@ -1843,6 +1923,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 130421,
+      "num": 130421,
+      "word": "比亚迪公关",
+      "onboard_time": 1708852293,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 129109,
       "num": 129109,
       "word": "胡明轩关键失误",
@@ -1907,8 +1995,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121939,
+      "num": 121939,
+      "word": "陈梦回顾釜山世乒赛之旅",
+      "onboard_time": 1708850495,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121089,
-      "num": 1260102,
+      "num": 1410083,
       "word": "子弟兵奋战9小时雪中抢通川藏线",
       "onboard_time": 1708847851,
       "rank": 2,
