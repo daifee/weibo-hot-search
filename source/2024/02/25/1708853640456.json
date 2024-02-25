@@ -1,0 +1,410 @@
+{
+  "runTime": 1708853640456,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2009144,
+        "num": 2009144,
+        "word": "比亚迪为劝架车主奖励20万",
+        "onboard_time": 1708846292,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1146537,
+        "num": 1146537,
+        "word": "宗庆后逝世",
+        "onboard_time": 1708833453,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111900,
+        "num": 936667,
+        "word": "子弟兵奋战9小时雪中抢通川藏线",
+        "onboard_time": 1708847851,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1350728,
+        "num": 867996,
+        "word": "最惨文科专业",
+        "onboard_time": 1708848332,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1171446,
+        "num": 864205,
+        "word": "肖战戒碳失败",
+        "onboard_time": 1708849232,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 778135,
+        "num": 778135,
+        "word": "王力宏 娃哈哈矿泉水",
+        "onboard_time": 1708836762,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 702590,
+        "num": 702590,
+        "word": "民众自发到娃哈哈总部献花悼念",
+        "onboard_time": 1708850312,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 664052,
+        "num": 664052,
+        "word": "白血病女孩长胖40斤笑称蛮可爱",
+        "onboard_time": 1708847072,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579492,
+        "num": 579492,
+        "word": "SM三大神颜同框",
+        "onboard_time": 1708850670,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 492764,
+        "num": 492764,
+        "word": "中国男篮88年首负日本",
+        "onboard_time": 1708848453,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 489720,
+        "num": 489720,
+        "word": "EDG赛季首胜",
+        "onboard_time": 1708851931,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 479236,
+        "num": 479236,
+        "word": "沙溢爆改",
+        "onboard_time": 1708832972,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457871,
+        "num": 457871,
+        "word": "宾利司机打人事件劝架律师发声",
+        "onboard_time": 1708847313,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445456,
+        "num": 445456,
+        "word": "比亚迪公关",
+        "onboard_time": 1708852293,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 434024,
+        "num": 434024,
+        "word": "福建海警在金门附近海域执法巡查",
+        "onboard_time": 1708849953,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403311,
+        "num": 403311,
+        "word": "二月查到好成绩 七月拿到录取通知书",
+        "onboard_time": 1708844853,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 398515,
+        "num": 398515,
+        "word": "芭莎拍的肖战",
+        "onboard_time": 1708852293,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 371632,
+        "num": 371632,
+        "word": "黄子韬公司CEO被调查",
+        "onboard_time": 1708843292,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 349452,
+        "num": 349452,
+        "word": "比亚迪车主劝架",
+        "onboard_time": 1708842273,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337872,
+        "num": 337872,
+        "word": "金莎和男友年底见家长",
+        "onboard_time": 1708847371,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548943,
+        "num": 336406,
+        "word": "吃水果其实是件挺私密的事",
+        "onboard_time": 1708853069,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333498,
+        "num": 333498,
+        "word": "迪丽热巴金纺活动",
+        "onboard_time": 1708853194,
+        "rank": 21,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 324327,
+        "num": 324327,
+        "word": "宗馥莉",
+        "onboard_time": 1708835080,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300996,
+        "num": 300996,
+        "word": "飞驰2破30亿全员发三行诗",
+        "onboard_time": 1708848570,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 283542,
+        "num": 283542,
+        "word": "黄旭熙担心自己没粉丝了",
+        "onboard_time": 1708850553,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279357,
+        "num": 279357,
+        "word": "宗庆后生命最后仍在病床坚持工作",
+        "onboard_time": 1708849413,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274661,
+        "num": 274661,
+        "word": "LIA去了ITZY演唱会",
+        "onboard_time": 1708852234,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 263253,
+        "num": 263253,
+        "word": "吴镇宇 这关表演什么事",
+        "onboard_time": 1708852833,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255406,
+        "num": 255406,
+        "word": "娃哈哈是我在这个世界上存在过的证明",
+        "onboard_time": 1708838856,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253934,
+        "num": 253934,
+        "word": "刘诗诗米兰时装周",
+        "onboard_time": 1708851752,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246408,
+        "num": 246408,
+        "word": "迪丽热巴被送玫瑰花",
+        "onboard_time": 1708852952,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241904,
+        "num": 241904,
+        "word": "熬夜后千万别做2件事",
+        "onboard_time": 1708846891,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 222128,
+        "num": 222128,
+        "word": "金晨首次尝试老年妆",
+        "onboard_time": 1708851149,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209120,
+        "num": 209120,
+        "word": "与女主播发生关系住持已被注销戒牒",
+        "onboard_time": 1708853436,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199584,
+        "num": 199584,
+        "word": "娃哈哈集团讣告",
+        "onboard_time": 1708834596,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191928,
+        "num": 191928,
+        "word": "当代年轻人扣扣搜搜花了很多钱",
+        "onboard_time": 1708851214,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 191001,
+        "num": 191001,
+        "word": "EDG对战AL",
+        "onboard_time": 1708849171,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183872,
+        "num": 183872,
+        "word": "军艺校草",
+        "onboard_time": 1708845273,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182704,
+        "num": 182704,
+        "word": "老员工前往娃哈哈老大楼献花悼念宗庆后",
+        "onboard_time": 1708849652,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180004,
+        "num": 180004,
+        "word": "姚安娜演技",
+        "onboard_time": 1708839935,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175971,
+        "num": 175971,
+        "word": "韩雪谈去年沈月情绪失控",
+        "onboard_time": 1708838376,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174079,
+        "num": 174079,
+        "word": "女继承人时代来了",
+        "onboard_time": 1708836821,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168829,
+        "num": 168829,
+        "word": "宗庆后一年花费不到5万",
+        "onboard_time": 1708846891,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162803,
+        "num": 162803,
+        "word": "薛之谦拉斯维加斯演唱会",
+        "onboard_time": 1708851990,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160079,
+        "num": 160079,
+        "word": "迪丽热巴暗黑魔女",
+        "onboard_time": 1708833994,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155598,
+        "num": 155598,
+        "word": "赵丽娜直播痛哭",
+        "onboard_time": 1708832253,
+        "rank": 45,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 151217,
+        "num": 151217,
+        "word": "咖啡为什么最好上午喝",
+        "onboard_time": 1708844734,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137365,
+        "num": 137365,
+        "word": "杨迪爆改后遗症",
+        "onboard_time": 1708838798,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136988,
+        "num": 136988,
+        "word": "朋友圈点赞是一种交易",
+        "onboard_time": 1708845393,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126839,
+        "num": 126839,
+        "word": "娃哈哈官网变为灰色",
+        "onboard_time": 1708840895,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化是一个国家一个民族的灵魂#"
+    }
+  }
+}
