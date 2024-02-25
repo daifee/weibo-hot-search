@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1708828530109,
+  "endTime": 1708831085782,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2227,6 +2227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2362388,
+      "num": 2362388,
+      "word": "警方通报杭州高架伤人事件",
+      "onboard_time": 1708829795,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2357336,
       "num": 1535049,
       "word": "张天爱 神经病",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1708268617,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2304847,
-      "num": 2304847,
-      "word": "朱广权 这三天我们都没笑",
-      "onboard_time": 1707832179,
-      "rank": 0,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708828530109,
+  "endTime": 1708831085782,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1449,6 +1449,14 @@
       "onboard_time": 1708146333,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2362388,
+      "num": 2362388,
+      "word": "警方通报杭州高架伤人事件",
+      "onboard_time": 1708829795,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2357336,
@@ -6371,6 +6379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1077200,
+      "num": 1077200,
+      "word": "曾志伟郝蕾起争执",
+      "onboard_time": 1708826858,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1077012,
       "num": 1077012,
       "word": "迪丽热巴抬眸",
@@ -8075,14 +8091,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 906365,
-      "num": 906365,
-      "word": "曾志伟郝蕾起争执",
-      "onboard_time": 1708826858,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 905117,
       "num": 905117,
       "word": "iPhone16Pro新配色",
@@ -9457,6 +9465,14 @@
       "onboard_time": 1708229496,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 810860,
+      "num": 810860,
+      "word": "宾利宝马车主系表兄弟",
+      "onboard_time": 1708830216,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 810263,
@@ -11657,6 +11673,14 @@
       "onboard_time": 1707308259,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 694897,
+      "num": 270909,
+      "word": "被催婚10年今年没被催了",
+      "onboard_time": 1708829196,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 694408,
@@ -14707,6 +14731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 579357,
+      "num": 410137,
+      "word": "杭州宾利车主",
+      "onboard_time": 1708828177,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579195,
       "num": 579195,
       "word": "李勤勤收养周海媚爱犬",
@@ -14953,6 +14985,14 @@
       "onboard_time": 1708158750,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 571708,
+      "num": 571708,
+      "word": "考研 上岸",
+      "onboard_time": 1708827695,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 571587,
@@ -21715,6 +21755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397475,
+      "num": 397475,
+      "word": "郝蕾回应之前怼金莎",
+      "onboard_time": 1708829616,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 397431,
       "num": 262974,
       "word": "情绪稳定的男生真的很加分",
@@ -24419,14 +24467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 346979,
-      "num": 346979,
-      "word": "考研 上岸",
-      "onboard_time": 1708827695,
-      "rank": 37,
-      "category": "教育"
-    },
-    {
       "raw_hot": 346908,
       "num": 346908,
       "word": "3款手机同时买机票差价3倍",
@@ -26507,6 +26547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 312618,
+      "num": 312618,
+      "word": "网传宾利车主伤人事件现场画面",
+      "onboard_time": 1708829795,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 312566,
       "num": 281226,
       "word": "周传雄 生病的经历改变了我的心态",
@@ -27993,6 +28041,14 @@
       "onboard_time": 1708063594,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 294174,
+      "num": 265499,
+      "word": "4个汤圆热量相当于一碗米饭",
+      "onboard_time": 1708828537,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 294008,
@@ -29603,6 +29659,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 277086,
+      "num": 277086,
+      "word": "路怒症",
+      "onboard_time": 1708828537,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276948,
       "num": 276948,
       "word": "摇太阳退出春节档",
@@ -30249,14 +30313,6 @@
       "onboard_time": 1708588299,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270272,
-      "num": 270272,
-      "word": "杭州宾利车主",
-      "onboard_time": 1708828177,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 270238,
@@ -31369,6 +31425,14 @@
       "onboard_time": 1706922330,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 258605,
+      "num": 258605,
+      "word": "茶刀",
+      "onboard_time": 1708830636,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258541,
@@ -35195,6 +35259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 229034,
+      "num": 229034,
+      "word": "湿气较重的人这样吃水果更健康",
+      "onboard_time": 1708829495,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 229009,
       "num": 213799,
       "word": "加油撒撒",
@@ -36777,6 +36849,14 @@
       "onboard_time": 1707232653,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219397,
+      "num": 219397,
+      "word": "南京此次火灾为何伤亡严重",
+      "onboard_time": 1708830514,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219322,
@@ -41883,6 +41963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195639,
+      "num": 195639,
+      "word": "何炅说一号厅很亲切很温暖",
+      "onboard_time": 1708828594,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195621,
       "num": 195621,
       "word": "没及时回消息被学长挂到朋友圈",
@@ -46403,6 +46491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176389,
+      "num": 176389,
+      "word": "上春山 神龙吐水",
+      "onboard_time": 1708830032,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176383,
       "num": 181824,
       "word": "宝宝不唱儿歌过渡一下吗",
@@ -50371,6 +50467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160154,
+      "num": 150707,
+      "word": "面试判官吴镇宇",
+      "onboard_time": 1708828716,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160092,
       "num": 160092,
       "word": "刘德华说从来没争过番位",
@@ -51945,6 +52049,14 @@
       "onboard_time": 1707318093,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153441,
+      "num": 153441,
+      "word": "2024考研查分倒计时",
+      "onboard_time": 1708829674,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 153422,
@@ -57163,6 +57275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132177,
+      "num": 132177,
+      "word": "正月十六遛百病",
+      "onboard_time": 1708829854,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132166,
       "num": 132166,
       "word": "夏以昼 感觉哥会有晨练的习惯",
@@ -59153,6 +59273,14 @@
       "onboard_time": 1707966391,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 122945,
+      "num": 122945,
+      "word": "无限超越班",
+      "onboard_time": 1708830934,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 122892,

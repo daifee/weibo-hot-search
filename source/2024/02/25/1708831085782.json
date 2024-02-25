@@ -1,0 +1,410 @@
+{
+  "runTime": 1708831085782,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7552234,
+        "num": 7552234,
+        "word": "杭州持械伤人宾利车主已被抓",
+        "onboard_time": 1708825835,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2362388,
+        "num": 2362388,
+        "word": "警方通报杭州高架伤人事件",
+        "onboard_time": 1708829795,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52638,
+        "num": 1540398,
+        "word": "龙年第一轮满月",
+        "onboard_time": 1708779036,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1077200,
+        "num": 1077200,
+        "word": "曾志伟郝蕾起争执",
+        "onboard_time": 1708826858,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 810860,
+        "num": 810860,
+        "word": "宾利宝马车主系表兄弟",
+        "onboard_time": 1708830216,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651819,
+        "num": 651819,
+        "word": "单身女老师深陷杀猪盘被骗近400万",
+        "onboard_time": 1708825115,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571708,
+        "num": 571708,
+        "word": "考研 上岸",
+        "onboard_time": 1708827695,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 570962,
+        "num": 570962,
+        "word": "赵昭仪李晋晔在录恋综吗",
+        "onboard_time": 1708823732,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564393,
+        "num": 564393,
+        "word": "纪凌尘 你喜欢大海我爱过你很浪漫",
+        "onboard_time": 1708785635,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413307,
+        "num": 413307,
+        "word": "玩王者花掉外婆一万六自称人生无常",
+        "onboard_time": 1708821869,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3307500,
+        "num": 411030,
+        "word": "杭州宾利",
+        "onboard_time": 1708816820,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579357,
+        "num": 410137,
+        "word": "杭州宾利车主",
+        "onboard_time": 1708828177,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397475,
+        "num": 397475,
+        "word": "郝蕾回应之前怼金莎",
+        "onboard_time": 1708829616,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373192,
+        "num": 373192,
+        "word": "穿Prada的女魔头卡司重聚",
+        "onboard_time": 1708826495,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 324558,
+        "num": 324558,
+        "word": "警方回应打人宾利司机已被刑拘",
+        "onboard_time": 1708827638,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321381,
+        "num": 321381,
+        "word": "水谷隼 孙颖莎太强了",
+        "onboard_time": 1708818204,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313290,
+        "num": 313290,
+        "word": "为什么不上王曼昱",
+        "onboard_time": 1708822108,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387050,
+        "num": 313134,
+        "word": "吴镇宇问金莎愿意和男友演母子吗",
+        "onboard_time": 1708821089,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312618,
+        "num": 312618,
+        "word": "网传宾利车主伤人事件现场画面",
+        "onboard_time": 1708829795,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277086,
+        "num": 277086,
+        "word": "路怒症",
+        "onboard_time": 1708828537,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694897,
+        "num": 270909,
+        "word": "被催婚10年今年没被催了",
+        "onboard_time": 1708829196,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294174,
+        "num": 265499,
+        "word": "4个汤圆热量相当于一碗米饭",
+        "onboard_time": 1708828537,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 258605,
+        "num": 258605,
+        "word": "茶刀",
+        "onboard_time": 1708830636,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253202,
+        "num": 253202,
+        "word": "黄晓明说陈梦你真的很棒",
+        "onboard_time": 1708819045,
+        "rank": 23,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 229034,
+        "num": 229034,
+        "word": "湿气较重的人这样吃水果更健康",
+        "onboard_time": 1708829495,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219397,
+        "num": 219397,
+        "word": "南京此次火灾为何伤亡严重",
+        "onboard_time": 1708830514,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198238,
+        "num": 198238,
+        "word": "老人偷拍被抓手机有6万张女生照片",
+        "onboard_time": 1708790314,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195639,
+        "num": 195639,
+        "word": "何炅说一号厅很亲切很温暖",
+        "onboard_time": 1708828594,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194762,
+        "num": 194762,
+        "word": "谈恋爱其实是在谈一种能力",
+        "onboard_time": 1708821869,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193320,
+        "num": 193320,
+        "word": "上海下雪",
+        "onboard_time": 1708821810,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176389,
+        "num": 176389,
+        "word": "上春山 神龙吐水",
+        "onboard_time": 1708830032,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174307,
+        "num": 174307,
+        "word": "纪凌尘大海说",
+        "onboard_time": 1708827034,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173650,
+        "num": 173650,
+        "word": "国乒女团六连冠",
+        "onboard_time": 1708786004,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171455,
+        "num": 171455,
+        "word": "小金毛刚睡醒到处找妈妈",
+        "onboard_time": 1708826436,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167789,
+        "num": 167789,
+        "word": "双北",
+        "onboard_time": 1708828417,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166142,
+        "num": 166142,
+        "word": "多地结婚人数回升",
+        "onboard_time": 1708822591,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162457,
+        "num": 162457,
+        "word": "朱梓骁说直播带货才是后路",
+        "onboard_time": 1708821390,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155245,
+        "num": 155245,
+        "word": "孙颖莎陈梦哭了",
+        "onboard_time": 1708787615,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153441,
+        "num": 153441,
+        "word": "2024考研查分倒计时",
+        "onboard_time": 1708829674,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151123,
+        "num": 151123,
+        "word": "女子假胖20年意外瘦身60斤",
+        "onboard_time": 1708784736,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160154,
+        "num": 150707,
+        "word": "面试判官吴镇宇",
+        "onboard_time": 1708828716,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148247,
+        "num": 148247,
+        "word": "王艺迪",
+        "onboard_time": 1708820367,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139225,
+        "num": 139225,
+        "word": "湖南卫视打错童宇名字",
+        "onboard_time": 1708826315,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132177,
+        "num": 132177,
+        "word": "正月十六遛百病",
+        "onboard_time": 1708829854,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128156,
+        "num": 128156,
+        "word": "演员工会奖获奖名单",
+        "onboard_time": 1708827333,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126484,
+        "num": 126484,
+        "word": "赵丽颖抽到了沈腾的年货大礼包",
+        "onboard_time": 1708788517,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122945,
+        "num": 122945,
+        "word": "无限超越班",
+        "onboard_time": 1708830934,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115611,
+        "num": 115611,
+        "word": "男团决赛",
+        "onboard_time": 1708823732,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110526,
+        "num": 110526,
+        "word": "张雪峰称不推荐专业也不打压专业",
+        "onboard_time": 1708818503,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110249,
+        "num": 110249,
+        "word": "戚薇后脑勺被妈妈用书睡平",
+        "onboard_time": 1708787798,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化是一个国家一个民族的灵魂#"
+    }
+  }
+}
