@@ -1,0 +1,410 @@
+{
+  "runTime": 1708856202594,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2241396,
+        "num": 2241396,
+        "word": "与女主播发生关系住持已被注销戒牒",
+        "onboard_time": 1708853436,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1425489,
+        "num": 1425489,
+        "word": "比亚迪为劝架车主奖励20万",
+        "onboard_time": 1708846292,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105913,
+        "num": 1052507,
+        "word": "子弟兵奋战9小时雪中抢通川藏线",
+        "onboard_time": 1708847851,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1040602,
+        "num": 1040602,
+        "word": "肖战戒碳失败",
+        "onboard_time": 1708849232,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 900992,
+        "num": 900992,
+        "word": "宗庆后逝世",
+        "onboard_time": 1708833453,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875529,
+        "num": 875529,
+        "word": "比亚迪公关",
+        "onboard_time": 1708852293,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 758713,
+        "num": 758713,
+        "word": "难哄或将改名万事美好",
+        "onboard_time": 1708853794,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 627292,
+        "num": 627292,
+        "word": "最惨文科专业",
+        "onboard_time": 1708848332,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 593040,
+        "num": 593040,
+        "word": "王力宏 娃哈哈矿泉水",
+        "onboard_time": 1708836762,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378176,
+        "num": 480868,
+        "word": "白血病女孩长胖40斤笑称蛮可爱",
+        "onboard_time": 1708847072,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432983,
+        "num": 432983,
+        "word": "吴镇宇 这关表演什么事",
+        "onboard_time": 1708852833,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428193,
+        "num": 428193,
+        "word": "SM三大神颜同框",
+        "onboard_time": 1708850670,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 424841,
+        "num": 424841,
+        "word": "迪丽热巴昆明",
+        "onboard_time": 1708854215,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400532,
+        "num": 400532,
+        "word": "芭莎拍的肖战",
+        "onboard_time": 1708852293,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 383889,
+        "num": 383889,
+        "word": "民众自发到娃哈哈总部献花悼念",
+        "onboard_time": 1708850312,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349594,
+        "num": 349594,
+        "word": "宾利司机打人事件劝架律师发声",
+        "onboard_time": 1708847313,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334293,
+        "num": 334293,
+        "word": "沙溢爆改",
+        "onboard_time": 1708832972,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371909,
+        "num": 321165,
+        "word": "迪丽热巴金纺活动",
+        "onboard_time": 1708853194,
+        "rank": 17,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 290466,
+        "num": 290466,
+        "word": "二月查到好成绩 七月拿到录取通知书",
+        "onboard_time": 1708844853,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 261002,
+        "num": 261002,
+        "word": "中国男篮88年首负日本",
+        "onboard_time": 1708848453,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515577,
+        "num": 260937,
+        "word": "吃水果其实是件挺私密的事",
+        "onboard_time": 1708853069,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 326734,
+        "num": 260826,
+        "word": "林一周也 豪门情侣感",
+        "onboard_time": 1708855117,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284727,
+        "num": 260624,
+        "word": "迪丽热巴被送玫瑰花",
+        "onboard_time": 1708852952,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282341,
+        "num": 260559,
+        "word": "朴彩英戴了BLACKPINK的帽子",
+        "onboard_time": 1708854454,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260475,
+        "num": 260475,
+        "word": "千金在中国过的第一个元宵节",
+        "onboard_time": 1708855836,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243715,
+        "num": 243715,
+        "word": "EDG赛季首胜",
+        "onboard_time": 1708851931,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 242808,
+        "num": 242808,
+        "word": "宗庆后生命最后仍在病床坚持工作",
+        "onboard_time": 1708849413,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240199,
+        "num": 240199,
+        "word": "宗馥莉",
+        "onboard_time": 1708835080,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222094,
+        "num": 222094,
+        "word": "小猫生气就装晕",
+        "onboard_time": 1708854454,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213829,
+        "num": 221040,
+        "word": "考研查分倒计时",
+        "onboard_time": 1708854816,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 220551,
+        "num": 220551,
+        "word": "黄子韬公司CEO被调查",
+        "onboard_time": 1708843292,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215132,
+        "num": 215132,
+        "word": "比亚迪车主劝架",
+        "onboard_time": 1708842273,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211055,
+        "num": 211055,
+        "word": "反诈老陈喊话全国警方求工作",
+        "onboard_time": 1708855894,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207586,
+        "num": 207586,
+        "word": "男篮主帅乔尔杰维奇赛后现场甩锅",
+        "onboard_time": 1708853913,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207115,
+        "num": 207115,
+        "word": "黄旭熙担心自己没粉丝了",
+        "onboard_time": 1708850553,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186943,
+        "num": 186943,
+        "word": "周鸿祎悼念宗庆后",
+        "onboard_time": 1708854694,
+        "rank": 35,
+        "category": "互联网,母婴育儿"
+      },
+      {
+        "raw_hot": 186286,
+        "num": 186286,
+        "word": "刘诗诗米兰时装周",
+        "onboard_time": 1708851752,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183803,
+        "num": 183803,
+        "word": "LIA去了ITZY演唱会",
+        "onboard_time": 1708852234,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183723,
+        "num": 183723,
+        "word": "娃哈哈集团讣告",
+        "onboard_time": 1708834596,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180746,
+        "num": 180746,
+        "word": "迪丽热巴紫色高定",
+        "onboard_time": 1708856191,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172965,
+        "num": 172965,
+        "word": "原来好的家庭氛围是这样的",
+        "onboard_time": 1708855416,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170240,
+        "num": 170240,
+        "word": "娃哈哈是我在这个世界上存在过的证明",
+        "onboard_time": 1708838856,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169564,
+        "num": 169564,
+        "word": "飞驰2破30亿全员发三行诗",
+        "onboard_time": 1708848570,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167165,
+        "num": 167165,
+        "word": "星痕的姬小满",
+        "onboard_time": 1708855836,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158849,
+        "num": 158849,
+        "word": "金晨首次尝试老年妆",
+        "onboard_time": 1708851149,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157448,
+        "num": 157448,
+        "word": "福建海警在金门附近海域执法巡查",
+        "onboard_time": 1708849953,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156703,
+        "num": 156703,
+        "word": "表演学博士评无限超越班",
+        "onboard_time": 1708855953,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153572,
+        "num": 153572,
+        "word": "Hero对战TTG",
+        "onboard_time": 1708853853,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152450,
+        "num": 152450,
+        "word": "咖啡为什么最好上午喝",
+        "onboard_time": 1708844734,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 148434,
+        "num": 148434,
+        "word": "上海申花夺得超级杯冠军",
+        "onboard_time": 1708856136,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}

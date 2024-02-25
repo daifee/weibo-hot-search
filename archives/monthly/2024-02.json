@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708853640456,
+  "endTime": 1708856202594,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1680,6 +1680,14 @@
       "word": "秦朗丢寒假作业事件大结局",
       "onboard_time": 1708384946,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2241396,
+      "num": 2241396,
+      "word": "与女主播发生关系住持已被注销戒牒",
+      "onboard_time": 1708853436,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -8643,6 +8651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 875529,
+      "num": 875529,
+      "word": "比亚迪公关",
+      "onboard_time": 1708852293,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 875486,
       "num": 875486,
       "word": "感冒了",
@@ -10529,6 +10545,14 @@
       "onboard_time": 1707619769,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 758713,
+      "num": 758713,
+      "word": "难哄或将改名万事美好",
+      "onboard_time": 1708853794,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 757997,
@@ -19683,14 +19707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 445456,
-      "num": 445456,
-      "word": "比亚迪公关",
-      "onboard_time": 1708852293,
-      "rank": 46,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 445261,
       "num": 445261,
       "word": "胡锡进称接受梅西这番解释",
@@ -20283,6 +20299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432983,
+      "num": 432983,
+      "word": "吴镇宇 这关表演什么事",
+      "onboard_time": 1708852833,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 432874,
       "num": 432874,
       "word": "前田敦子 浪姐五",
@@ -20697,6 +20721,14 @@
       "onboard_time": 1708011454,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 424841,
+      "num": 424841,
+      "word": "迪丽热巴昆明",
+      "onboard_time": 1708854215,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 424602,
@@ -21939,6 +21971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 400532,
+      "num": 400532,
+      "word": "芭莎拍的肖战",
+      "onboard_time": 1708852293,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 400489,
       "num": 400489,
       "word": "Xiaohu偷家RNG",
@@ -22105,14 +22145,6 @@
       "onboard_time": 1707545916,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 398515,
-      "num": 398515,
-      "word": "芭莎拍的肖战",
-      "onboard_time": 1708852293,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 398126,
@@ -23409,6 +23441,14 @@
       "onboard_time": 1708230337,
       "rank": 33,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 371909,
+      "num": 333498,
+      "word": "迪丽热巴金纺活动",
+      "onboard_time": 1708853194,
+      "rank": 21,
+      "category": "作品衍生,综艺"
     },
     {
       "raw_hot": 371842,
@@ -25531,14 +25571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 333498,
-      "num": 333498,
-      "word": "迪丽热巴金纺活动",
-      "onboard_time": 1708853194,
-      "rank": 21,
-      "category": "作品衍生,综艺"
-    },
-    {
       "raw_hot": 333463,
       "num": 183907,
       "word": "白敬亭春晚下班直播",
@@ -25984,6 +26016,14 @@
       "word": "白鹿敖瑞鹏回应吻戏",
       "onboard_time": 1708609175,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 326734,
+      "num": 260826,
+      "word": "林一周也 豪门情侣感",
+      "onboard_time": 1708855117,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -29411,6 +29451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284727,
+      "num": 260624,
+      "word": "迪丽热巴被送玫瑰花",
+      "onboard_time": 1708852952,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 284696,
       "num": 284696,
       "word": "aespa复古解构风",
@@ -29585,6 +29633,14 @@
       "onboard_time": 1707182852,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282341,
+      "num": 260559,
+      "word": "朴彩英戴了BLACKPINK的帽子",
+      "onboard_time": 1708854454,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 282169,
@@ -31539,14 +31595,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 263253,
-      "num": 263253,
-      "word": "吴镇宇 这关表演什么事",
-      "onboard_time": 1708852833,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 263065,
       "num": 263065,
       "word": "王阳首登春晚",
@@ -31785,6 +31833,14 @@
       "onboard_time": 1708414899,
       "rank": 28,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 260475,
+      "num": 260475,
+      "word": "千金在中国过的第一个元宵节",
+      "onboard_time": 1708855836,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 260467,
@@ -33457,14 +33513,6 @@
       "onboard_time": 1707309213,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246408,
-      "num": 246408,
-      "word": "迪丽热巴被送玫瑰花",
-      "onboard_time": 1708852952,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 246376,
@@ -36915,6 +36963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 222094,
+      "num": 222094,
+      "word": "小猫生气就装晕",
+      "onboard_time": 1708854454,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222060,
       "num": 222060,
       "word": "章若楠古早校服照",
@@ -38371,6 +38427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 213829,
+      "num": 221040,
+      "word": "考研查分倒计时",
+      "onboard_time": 1708854816,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 213816,
       "num": 213816,
       "word": "虞书欣林一身高差海报",
@@ -38827,6 +38891,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 211055,
+      "num": 211055,
+      "word": "反诈老陈喊话全国警方求工作",
+      "onboard_time": 1708855894,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211035,
       "num": 211035,
       "word": "王鹤棣哈利伯顿球局",
@@ -39177,14 +39249,6 @@
       "onboard_time": 1708569094,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209120,
-      "num": 209120,
-      "word": "与女主播发生关系住持已被注销戒牒",
-      "onboard_time": 1708853436,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209106,
@@ -39568,6 +39632,14 @@
       "word": "C罗伤愈",
       "onboard_time": 1707201991,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 207586,
+      "num": 207586,
+      "word": "男篮主帅乔尔杰维奇赛后现场甩锅",
+      "onboard_time": 1708853913,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -44995,6 +45067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186943,
+      "num": 186943,
+      "word": "周鸿祎悼念宗庆后",
+      "onboard_time": 1708854694,
+      "rank": 35,
+      "category": "互联网,母婴育儿"
+    },
+    {
       "raw_hot": 186924,
       "num": 186924,
       "word": "薛之谦新歌AI每一句结尾都是AI",
@@ -46249,6 +46329,14 @@
       "onboard_time": 1708573779,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180746,
+      "num": 180746,
+      "word": "迪丽热巴紫色高定",
+      "onboard_time": 1708856191,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180728,
@@ -48107,6 +48195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172965,
+      "num": 172965,
+      "word": "原来好的家庭氛围是这样的",
+      "onboard_time": 1708855416,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172889,
       "num": 172889,
       "word": "宋亚轩非我不可预告",
@@ -49561,6 +49657,14 @@
       "onboard_time": 1707916959,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167165,
+      "num": 167165,
+      "word": "星痕的姬小满",
+      "onboard_time": 1708855836,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 167149,
@@ -52211,6 +52315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156703,
+      "num": 156703,
+      "word": "表演学博士评无限超越班",
+      "onboard_time": 1708855953,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156674,
       "num": 156674,
       "word": "发现人类一个可爱的共同点",
@@ -52905,6 +53017,14 @@
       "onboard_time": 1708050028,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153572,
+      "num": 153572,
+      "word": "Hero对战TTG",
+      "onboard_time": 1708853853,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 153530,
@@ -54169,6 +54289,14 @@
       "onboard_time": 1707226533,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 148434,
+      "num": 148434,
+      "word": "上海申花夺得超级杯冠军",
+      "onboard_time": 1708856136,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 148411,
