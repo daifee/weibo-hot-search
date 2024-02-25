@@ -1,6 +1,6 @@
 {
   "startTime": 1708878084354,
-  "endTime": 1708886033607,
+  "endTime": 1708888485279,
   "band_list": [
     {
       "raw_hot": 1097706,
@@ -259,6 +259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153131,
+      "num": 87420,
+      "word": "刘畊宏称爆火阶段没接任何商业合作",
+      "onboard_time": 1708885099,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148233,
       "num": 148233,
       "word": "牛大力官配许清雅出场",
@@ -427,14 +435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 87420,
-      "num": 87420,
-      "word": "刘畊宏称爆火阶段没接任何商业合作",
-      "onboard_time": 1708885099,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 63002,
       "num": 59512,
       "word": "没人发现上班的成本很高吗",
@@ -451,6 +451,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 38924,
+      "num": 33833,
+      "word": "我们是冠军",
+      "onboard_time": 1708885938,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 38006,
+      "num": 38006,
+      "word": "女企业家讨工程款陷寻衅滋事被批捕",
+      "onboard_time": 1708885459,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31659,
       "num": 475571,
       "word": "中国载人月球探测任务正有序推进",
@@ -459,20 +475,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 29210,
-      "num": 29210,
-      "word": "女企业家讨工程款陷寻衅滋事被批捕",
-      "onboard_time": 1708885459,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24000,
-      "num": 25730,
-      "word": "我们是冠军",
-      "onboard_time": 1708885938,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 19341,
+      "num": 19341,
+      "word": "GUCCI拍的肖战",
+      "onboard_time": 1708887856,
+      "rank": 46,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

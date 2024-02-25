@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708886033607,
+  "endTime": 1708888485279,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -2795,6 +2795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 153131,
+      "num": 87420,
+      "word": "刘畊宏称爆火阶段没接任何商业合作",
+      "onboard_time": 1708885099,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152223,
       "num": 152223,
       "word": "刘国梁给孙颖莎做赛前动员",
@@ -3227,14 +3235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 87420,
-      "num": 87420,
-      "word": "刘畊宏称爆火阶段没接任何商业合作",
-      "onboard_time": 1708885099,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 85387,
       "num": 74519,
       "word": "亲戚 张雪峰像个侠客",
@@ -3347,6 +3347,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 38924,
+      "num": 33833,
+      "word": "我们是冠军",
+      "onboard_time": 1708885938,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 38006,
+      "num": 38006,
+      "word": "女企业家讨工程款陷寻衅滋事被批捕",
+      "onboard_time": 1708885459,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35506,
       "num": 35506,
       "word": "曼联1比2富勒姆",
@@ -3361,14 +3377,6 @@
       "onboard_time": 1708866758,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29210,
-      "num": 29210,
-      "word": "女企业家讨工程款陷寻衅滋事被批捕",
-      "onboard_time": 1708885459,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27936,
@@ -3403,20 +3411,20 @@
       "category": "军事"
     },
     {
-      "raw_hot": 24000,
-      "num": 25730,
-      "word": "我们是冠军",
-      "onboard_time": 1708885938,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 22455,
       "num": 22455,
       "word": "江苏卫视元宵晚会",
       "onboard_time": 1708802956,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19341,
+      "num": 19341,
+      "word": "GUCCI拍的肖战",
+      "onboard_time": 1708887856,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 16505,
