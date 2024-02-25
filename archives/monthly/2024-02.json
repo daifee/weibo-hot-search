@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708864989479,
+  "endTime": 1708867077060,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -769,6 +769,14 @@
       "onboard_time": 1706744846,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3132891,
+      "num": 3132891,
+      "word": "国乒男团11连冠",
+      "onboard_time": 1708866577,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 3127417,
@@ -3523,6 +3531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1573044,
+      "num": 1573044,
+      "word": "为何年轻人上班不愿意精致打扮",
+      "onboard_time": 1708863756,
+      "rank": 33,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 1572865,
       "num": 1572865,
       "word": "胖东来未按标准试吃员工已不再开除",
@@ -5281,6 +5297,14 @@
       "onboard_time": 1707122971,
       "rank": 4,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 1223799,
+      "num": 641601,
+      "word": "马龙vs西蒙高茨",
+      "onboard_time": 1708864775,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 1223775,
@@ -9420,7 +9444,7 @@
     },
     {
       "raw_hot": 829630,
-      "num": 444267,
+      "num": 465760,
       "word": "妻子四胎准备出院男子跪谢妻子",
       "onboard_time": 1708861473,
       "rank": 20,
@@ -9729,6 +9753,14 @@
       "onboard_time": 1707972932,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 811433,
+      "num": 811433,
+      "word": "王皓情绪价值拉满",
+      "onboard_time": 1708866096,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 811119,
@@ -10755,6 +10787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 752482,
+      "num": 752482,
+      "word": "种地吧2被质疑的原因",
+      "onboard_time": 1708864057,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 752450,
       "num": 752450,
       "word": "宋亚轩身体不适",
@@ -10769,6 +10809,14 @@
       "onboard_time": 1707543572,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 752142,
+      "num": 752142,
+      "word": "国家体育总局称联合培养政策将优化",
+      "onboard_time": 1708863998,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 751226,
@@ -15147,14 +15195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 577740,
-      "num": 577740,
-      "word": "马龙vs西蒙高茨",
-      "onboard_time": 1708864775,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 577703,
       "num": 577703,
       "word": "中国男篮88年首负日本",
@@ -18275,14 +18315,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 490786,
-      "num": 490786,
-      "word": "国家体育总局称联合培养政策将优化",
-      "onboard_time": 1708863998,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 490619,
       "num": 490619,
       "word": "董宇辉称不知自己的影响正面还是负面",
@@ -18699,6 +18731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 481014,
+      "num": 481014,
+      "word": "看马龙打球是享受",
+      "onboard_time": 1708866697,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 480723,
       "num": 335456,
       "word": "妈妈也算是生儿育女了",
@@ -18992,6 +19032,14 @@
       "word": "女子东北开化后1天被迫干掉4斤大虾",
       "onboard_time": 1707983190,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474113,
+      "num": 474113,
+      "word": "女校长称微信群不雅视频非本人发",
+      "onboard_time": 1708865855,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -20523,6 +20571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432497,
+      "num": 432497,
+      "word": "杭州劝架车主想的是能救两个人",
+      "onboard_time": 1708866820,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432199,
       "num": 314699,
       "word": "游本昌终身成就艺术家",
@@ -20665,14 +20721,6 @@
       "onboard_time": 1708245517,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 429210,
-      "num": 429210,
-      "word": "为何年轻人上班不愿意精致打扮",
-      "onboard_time": 1708863756,
-      "rank": 33,
-      "category": "社会议题"
     },
     {
       "raw_hot": 429196,
@@ -22129,6 +22177,14 @@
       "onboard_time": 1706933731,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401199,
+      "num": 401199,
+      "word": "南来北往编剧",
+      "onboard_time": 1708865916,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 400966,
@@ -24867,6 +24923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 352573,
+      "num": 352573,
+      "word": "樊振东3比2A勒布伦",
+      "onboard_time": 1708865134,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 352515,
       "num": 323336,
       "word": "褪黑素只有2类人适用",
@@ -24961,14 +25025,6 @@
       "onboard_time": 1708303173,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 351201,
-      "num": 351201,
-      "word": "种地吧2被质疑的原因",
-      "onboard_time": 1708864057,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 350994,
@@ -25097,6 +25153,14 @@
       "onboard_time": 1708403384,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 348320,
+      "num": 348320,
+      "word": "樊振东主动示意擦边",
+      "onboard_time": 1708866159,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 348282,
@@ -28315,6 +28379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300713,
+      "num": 300713,
+      "word": "再见了麻麻今晚我就要远航",
+      "onboard_time": 1708865735,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 300597,
       "num": 300597,
       "word": "道枝骏佑发博",
@@ -30145,6 +30217,14 @@
       "onboard_time": 1707034591,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 279774,
+      "num": 279774,
+      "word": "吴宣仪发文谈出道8周年",
+      "onboard_time": 1708864593,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 279757,
@@ -33323,14 +33403,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 250569,
-      "num": 250569,
-      "word": "吴宣仪发文谈出道8周年",
-      "onboard_time": 1708864593,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 250516,
       "num": 208921,
       "word": "果然爷爷奶奶养什么都能养得好",
@@ -34665,6 +34737,14 @@
       "onboard_time": 1708748909,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239797,
+      "num": 239797,
+      "word": "仰望U9",
+      "onboard_time": 1708865014,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 239745,
@@ -47099,6 +47179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178931,
+      "num": 178931,
+      "word": "星痕采访",
+      "onboard_time": 1708866517,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178929,
       "num": 178929,
       "word": "武汉打雷",
@@ -50121,6 +50209,14 @@
       "onboard_time": 1707920860,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 166784,
+      "num": 166784,
+      "word": "成年人的崩溃从生病开始",
+      "onboard_time": 1708867058,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 166778,
@@ -65123,6 +65219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89924,
+      "num": 197153,
+      "word": "没想到超跑还能这么玩",
+      "onboard_time": 1708866820,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 89704,
       "num": 89704,
       "word": "Minji对恶评的态度",
@@ -68977,6 +69081,14 @@
       "onboard_time": 1707944658,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 19096,
+      "num": 1881699,
+      "word": "中国载人月球探测任务正有序推进",
+      "onboard_time": 1708866758,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18945,
