@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708874135482,
+  "endTime": 1708875253124,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -10531,6 +10531,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 775790,
+      "num": 775790,
+      "word": "AD钙奶",
+      "onboard_time": 1708871135,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 775634,
       "num": 775634,
       "word": "国际金价下跌为何国内金价坚挺",
@@ -11065,6 +11073,14 @@
       "onboard_time": 1707894273,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 741419,
+      "num": 741419,
+      "word": "林诗栋",
+      "onboard_time": 1708873716,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 741046,
@@ -13745,14 +13761,6 @@
       "onboard_time": 1708682435,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 632823,
-      "num": 632823,
-      "word": "AD钙奶",
-      "onboard_time": 1708871135,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 632792,
@@ -16555,6 +16563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 539425,
+      "num": 539425,
+      "word": "Lia哭了",
+      "onboard_time": 1708874257,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 539302,
       "num": 324850,
       "word": "马面裙卖爆了",
@@ -17473,6 +17489,14 @@
       "onboard_time": 1706928210,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 515350,
+      "num": 515350,
+      "word": "龙队说可能坚持不到两年以后了",
+      "onboard_time": 1708874136,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 515340,
@@ -18633,6 +18657,14 @@
       "onboard_time": 1708423481,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486943,
+      "num": 486943,
+      "word": "范丞丞这张全家福就差我了",
+      "onboard_time": 1708873774,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 486933,
@@ -29739,14 +29771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 287257,
-      "num": 287257,
-      "word": "林诗栋",
-      "onboard_time": 1708873716,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 287202,
       "num": 287202,
       "word": "0713是懂煽情的",
@@ -30993,6 +31017,14 @@
       "onboard_time": 1708480533,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 274421,
+      "num": 274421,
+      "word": "虞书欣清水妆",
+      "onboard_time": 1708874615,
+      "rank": 28,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 274327,
@@ -33227,14 +33259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253290,
-      "num": 253290,
-      "word": "范丞丞这张全家福就差我了",
-      "onboard_time": 1708873774,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 253238,
       "num": 253238,
       "word": "龙年春节前海鲜销量暴涨400%",
@@ -33313,6 +33337,14 @@
       "onboard_time": 1708250736,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 252577,
+      "num": 231468,
+      "word": "迪丽热巴耳骨钉",
+      "onboard_time": 1708875217,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252506,
@@ -35465,6 +35497,14 @@
       "onboard_time": 1706953890,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 235961,
+      "num": 235961,
+      "word": "原来医者真的不能自医啊",
+      "onboard_time": 1708874136,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 235944,
@@ -41960,6 +42000,14 @@
       "word": "郑钦文医疗暂停",
       "onboard_time": 1708439383,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200848,
+      "num": 200848,
+      "word": "金书贤金牌",
+      "onboard_time": 1708874557,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -51537,6 +51585,14 @@
       "onboard_time": 1706835928,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162855,
+      "num": 162855,
+      "word": "姜妍演技",
+      "onboard_time": 1708875217,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 162819,
