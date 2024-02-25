@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708824849570,
+  "endTime": 1708827874933,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -129,6 +129,22 @@
       "onboard_time": 1707815438,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 9891456,
+      "num": 9891456,
+      "word": "杭州持械伤人宾利车主已被抓",
+      "onboard_time": 1708825835,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9463624,
+      "num": 9463624,
+      "word": "杭州宾利",
+      "onboard_time": 1708816820,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9189322,
@@ -329,14 +345,6 @@
       "onboard_time": 1707890314,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5395734,
-      "num": 5395734,
-      "word": "杭州宾利",
-      "onboard_time": 1708816820,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5149167,
@@ -1529,6 +1537,14 @@
       "onboard_time": 1707480339,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2324630,
+      "num": 2324630,
+      "word": "杭州交警回应网传宾利车主伤人视频",
+      "onboard_time": 1708825115,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2305961,
@@ -5545,6 +5561,14 @@
       "onboard_time": 1707229354,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1159353,
+      "num": 1159353,
+      "word": "警方回应网传宾利车主伤人视频",
+      "onboard_time": 1708826197,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1159124,
@@ -11619,6 +11643,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 695117,
+      "num": 695117,
+      "word": "曾志伟郝蕾起争执",
+      "onboard_time": 1708826858,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 694916,
       "num": 694916,
       "word": "梅西6场季前赛仅缺席香港行比赛",
@@ -12104,6 +12136,14 @@
       "word": "中国生育成本报告2024版",
       "onboard_time": 1708489779,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 674185,
+      "num": 674185,
+      "word": "单身女老师深陷杀猪盘被骗近400万",
+      "onboard_time": 1708825115,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -13873,6 +13913,14 @@
       "onboard_time": 1708511972,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 608803,
+      "num": 608803,
+      "word": "赵昭仪李晋晔在录恋综吗",
+      "onboard_time": 1708823732,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 608378,
@@ -21115,6 +21163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 406853,
+      "num": 406853,
+      "word": "穿Prada的女魔头卡司重聚",
+      "onboard_time": 1708826495,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 406750,
       "num": 406750,
       "word": "春晚小品笑点",
@@ -21499,14 +21555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 400027,
-      "num": 400027,
-      "word": "赵昭仪李晋晔在录恋综吗",
-      "onboard_time": 1708823732,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 399839,
       "num": 399839,
       "word": "男子宴席收到工作信息后醉酒捅死领导",
@@ -21521,6 +21569,14 @@
       "onboard_time": 1708054233,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399487,
+      "num": 399487,
+      "word": "纪凌尘大海说",
+      "onboard_time": 1708827034,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 399454,
@@ -25891,6 +25947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 320388,
+      "num": 320388,
+      "word": "多地结婚人数回升",
+      "onboard_time": 1708822591,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320167,
       "num": 320167,
       "word": "孙兴慜赛后多次道歉",
@@ -27641,14 +27705,6 @@
       "onboard_time": 1707018749,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 297170,
-      "num": 297170,
-      "word": "多地结婚人数回升",
-      "onboard_time": 1708822591,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297145,
@@ -31779,6 +31835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254668,
+      "num": 254668,
+      "word": "山西一焦化厂发生煤气中毒4人遇难",
+      "onboard_time": 1708825595,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254590,
       "num": 254590,
       "word": "湖南大雪警车里诞下一雪警女婴",
@@ -32289,6 +32353,14 @@
       "onboard_time": 1708579836,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250563,
+      "num": 250563,
+      "word": "警方回应打人宾利司机已被刑拘",
+      "onboard_time": 1708827638,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250516,
@@ -34849,6 +34921,14 @@
       "onboard_time": 1708447351,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 231096,
+      "num": 231096,
+      "word": "湖南卫视打错童宇名字",
+      "onboard_time": 1708826315,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 231058,
@@ -38523,6 +38603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 208322,
+      "num": 208322,
+      "word": "小金毛刚睡醒到处找妈妈",
+      "onboard_time": 1708826436,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 208283,
       "num": 208283,
       "word": "今天是2030年前最后一个年三十",
@@ -39889,6 +39977,14 @@
       "onboard_time": 1707472111,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202720,
+      "num": 202720,
+      "word": "高层建筑起火怎么逃生",
+      "onboard_time": 1708826974,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 202692,
@@ -44659,6 +44755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 183858,
+      "num": 183858,
+      "word": "演员工会奖获奖名单",
+      "onboard_time": 1708827333,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183843,
       "num": 183843,
       "word": "OPPO回应暂停折叠屏项目",
@@ -46065,6 +46169,14 @@
       "onboard_time": 1708494094,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177182,
+      "num": 177182,
+      "word": "考研 上岸",
+      "onboard_time": 1708827695,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 177169,
@@ -47689,6 +47801,14 @@
       "onboard_time": 1706775150,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 170227,
+      "num": 170227,
+      "word": "2024美国演员工会奖颁奖典礼",
+      "onboard_time": 1708827096,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 170201,
@@ -50835,6 +50955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157703,
+      "num": 157703,
+      "word": "李健的中式浪漫",
+      "onboard_time": 1708825233,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157665,
       "num": 157665,
       "word": "大年初七庆人日",
@@ -52441,6 +52569,14 @@
       "onboard_time": 1707636393,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150821,
+      "num": 150821,
+      "word": "i人不露脸的拍照姿势",
+      "onboard_time": 1708827695,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 150797,
@@ -55371,6 +55507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139022,
+      "num": 139022,
+      "word": "黄旭熙纪录片",
+      "onboard_time": 1708826015,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139020,
       "num": 139020,
       "word": "彭昱畅光头",
@@ -56673,6 +56817,14 @@
       "onboard_time": 1707092848,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 133266,
+      "num": 133266,
+      "word": "西湖醋鱼原来长这样吗",
+      "onboard_time": 1708824094,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 133253,
@@ -60099,14 +60251,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 117383,
-      "num": 117383,
-      "word": "西湖醋鱼原来长这样吗",
-      "onboard_time": 1708824094,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 117356,
       "num": 412544,
       "word": "什么才是可街可赛可玩的超跑",
@@ -62828,7 +62972,7 @@
     },
     {
       "raw_hot": 95767,
-      "num": 1025189,
+      "num": 5248408,
       "word": "龙年第一轮满月",
       "onboard_time": 1708779036,
       "rank": 29,

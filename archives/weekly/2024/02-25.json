@@ -1,13 +1,29 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708824849570,
+  "endTime": 1708827874933,
   "band_list": [
     {
-      "raw_hot": 5395734,
-      "num": 5395734,
+      "raw_hot": 9891456,
+      "num": 9891456,
+      "word": "杭州持械伤人宾利车主已被抓",
+      "onboard_time": 1708825835,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9463624,
+      "num": 9463624,
       "word": "杭州宾利",
       "onboard_time": 1708816820,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2324630,
+      "num": 2324630,
+      "word": "杭州交警回应网传宾利车主伤人视频",
+      "onboard_time": 1708825115,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -33,6 +49,14 @@
       "onboard_time": 1708787615,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1159353,
+      "num": 1159353,
+      "word": "警方回应网传宾利车主伤人视频",
+      "onboard_time": 1708826197,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 991988,
@@ -91,6 +115,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 695117,
+      "num": 695117,
+      "word": "曾志伟郝蕾起争执",
+      "onboard_time": 1708826858,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 674185,
+      "num": 674185,
+      "word": "单身女老师深陷杀猪盘被骗近400万",
+      "onboard_time": 1708825115,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 667714,
       "num": 667714,
       "word": "戚薇后脑勺被妈妈用书睡平",
@@ -129,6 +169,14 @@
       "onboard_time": 1708820726,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 608803,
+      "num": 608803,
+      "word": "赵昭仪李晋晔在录恋综吗",
+      "onboard_time": 1708823732,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 600338,
@@ -235,11 +283,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 400027,
-      "num": 400027,
-      "word": "赵昭仪李晋晔在录恋综吗",
-      "onboard_time": 1708823732,
+      "raw_hot": 406853,
+      "num": 406853,
+      "word": "穿Prada的女魔头卡司重聚",
+      "onboard_time": 1708826495,
       "rank": 13,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 399487,
+      "num": 399487,
+      "word": "纪凌尘大海说",
+      "onboard_time": 1708827034,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -291,6 +347,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 320388,
+      "num": 320388,
+      "word": "多地结婚人数回升",
+      "onboard_time": 1708822591,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 315925,
       "num": 296377,
       "word": "谈恋爱其实是在谈一种能力",
@@ -323,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 297170,
-      "num": 297170,
-      "word": "多地结婚人数回升",
-      "onboard_time": 1708822591,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278577,
       "num": 278577,
       "word": "元宵节高铁好像变成了校车",
@@ -355,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254668,
+      "num": 254668,
+      "word": "山西一焦化厂发生煤气中毒4人遇难",
+      "onboard_time": 1708825595,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251722,
       "num": 251722,
       "word": "白敬亭回复弹幕",
@@ -369,6 +433,14 @@
       "onboard_time": 1708787379,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 250563,
+      "num": 250563,
+      "word": "警方回应打人宾利司机已被刑拘",
+      "onboard_time": 1708827638,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250265,
@@ -435,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231096,
+      "num": 231096,
+      "word": "湖南卫视打错童宇名字",
+      "onboard_time": 1708826315,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230138,
       "num": 230138,
       "word": "第一次见婚纱穿出铠甲的感觉",
@@ -459,12 +539,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208322,
+      "num": 208322,
+      "word": "小金毛刚睡醒到处找妈妈",
+      "onboard_time": 1708826436,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205295,
       "num": 205295,
       "word": "特朗普在南卡罗来纳州共和党初选中胜出",
       "onboard_time": 1708823311,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 202720,
+      "num": 202720,
+      "word": "高层建筑起火怎么逃生",
+      "onboard_time": 1708826974,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 200701,
@@ -507,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183858,
+      "num": 183858,
+      "word": "演员工会奖获奖名单",
+      "onboard_time": 1708827333,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178495,
       "num": 178495,
       "word": "男团决赛",
@@ -523,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177182,
+      "num": 177182,
+      "word": "考研 上岸",
+      "onboard_time": 1708827695,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 176148,
       "num": 176148,
       "word": "黄旭熙曾羡慕队友没工作",
@@ -537,6 +649,14 @@
       "onboard_time": 1708797561,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 170227,
+      "num": 170227,
+      "word": "2024美国演员工会奖颁奖典礼",
+      "onboard_time": 1708827096,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 169886,
@@ -595,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157703,
+      "num": 157703,
+      "word": "李健的中式浪漫",
+      "onboard_time": 1708825233,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 154793,
       "num": 154793,
       "word": "2024釜山世乒赛团体赛",
@@ -609,6 +737,14 @@
       "onboard_time": 1708785817,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150821,
+      "num": 150821,
+      "word": "i人不露脸的拍照姿势",
+      "onboard_time": 1708827695,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 149435,
@@ -675,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139022,
+      "num": 139022,
+      "word": "黄旭熙纪录片",
+      "onboard_time": 1708826015,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138672,
       "num": 138672,
       "word": "陈梦扛住了",
@@ -707,6 +851,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 133266,
+      "num": 133266,
+      "word": "西湖醋鱼原来长这样吗",
+      "onboard_time": 1708824094,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 130470,
       "num": 130470,
       "word": "网红杨老二已下葬",
@@ -737,14 +889,6 @@
       "onboard_time": 1708820608,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117383,
-      "num": 117383,
-      "word": "西湖醋鱼原来长这样吗",
-      "onboard_time": 1708824094,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 115232,
@@ -803,8 +947,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 77003,
-      "num": 1025189,
+      "raw_hot": 78281,
+      "num": 5248408,
       "word": "龙年第一轮满月",
       "onboard_time": 1708779036,
       "rank": 2,
