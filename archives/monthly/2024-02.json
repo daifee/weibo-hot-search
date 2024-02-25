@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708892183254,
+  "endTime": 1708893233975,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -69891,6 +69891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15379,
+      "num": 15379,
+      "word": "哪种水果吃起来最狼狈",
+      "onboard_time": 1708890435,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 15209,
       "num": 15689,
       "word": "说一个你最近才知道的冷知识",
@@ -69993,14 +70001,6 @@
       "onboard_time": 1708638676,
       "rank": 45,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 13672,
-      "num": 13672,
-      "word": "哪种水果吃起来最狼狈",
-      "onboard_time": 1708890435,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 13615,
