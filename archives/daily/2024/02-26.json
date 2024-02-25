@@ -1,6 +1,6 @@
 {
   "startTime": 1708878084354,
-  "endTime": 1708882446216,
+  "endTime": 1708885216804,
   "band_list": [
     {
       "raw_hot": 1097706,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 486717,
-      "num": 228903,
+      "num": 320933,
       "word": "赴华韩国游客数量暴增900%",
       "onboard_time": 1708875574,
       "rank": 20,
@@ -427,6 +427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 63002,
+      "num": 59512,
+      "word": "没人发现上班的成本很高吗",
+      "onboard_time": 1708883119,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 51985,
       "num": 51985,
       "word": "这衣柜不会是全福建统一吧",
@@ -441,6 +449,14 @@
       "onboard_time": 1708866758,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31001,
+      "num": 31001,
+      "word": "刘畊宏称爆火阶段没接任何商业合作",
+      "onboard_time": 1708885099,
+      "rank": 43,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
