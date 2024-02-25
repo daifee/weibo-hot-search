@@ -1,0 +1,410 @@
+{
+  "runTime": 1708896866575,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 121099,
+        "num": 121099,
+        "word": "考研",
+        "onboard_time": 1708878090,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 90944,
+        "num": 90944,
+        "word": "赴华韩国游客数量暴增900%",
+        "onboard_time": 1708875574,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11695,
+        "num": 70994,
+        "word": "中国载人月球探测任务正有序推进",
+        "onboard_time": 1708866758,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 69290,
+        "num": 69290,
+        "word": "与女主播发生关系住持已被注销戒牒",
+        "onboard_time": 1708853436,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54468,
+        "num": 54468,
+        "word": "张小斐曾陪贾玲考研自己考上了",
+        "onboard_time": 1708869692,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53217,
+        "num": 53217,
+        "word": "女校长称微信群不雅视频非本人发",
+        "onboard_time": 1708865855,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52959,
+        "num": 52959,
+        "word": "姜妍演技",
+        "onboard_time": 1708875217,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52221,
+        "num": 52221,
+        "word": "袁姗姗鼻子",
+        "onboard_time": 1708871918,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47919,
+        "num": 47919,
+        "word": "秦牛正威晒与未婚夫合照",
+        "onboard_time": 1708870776,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27021,
+        "num": 41467,
+        "word": "为何年轻人上班不愿意精致打扮",
+        "onboard_time": 1708863756,
+        "rank": 9,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 55468,
+        "num": 41423,
+        "word": "罗志祥回应什么时候来内地",
+        "onboard_time": 1708871017,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53091,
+        "num": 41144,
+        "word": "刘畊宏称爆火阶段没接任何商业合作",
+        "onboard_time": 1708885099,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40499,
+        "num": 40499,
+        "word": "范丞丞这张全家福就差我了",
+        "onboard_time": 1708873774,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38785,
+        "num": 38785,
+        "word": "Makiyo瘦脱相",
+        "onboard_time": 1708869755,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34746,
+        "num": 34746,
+        "word": "女企业家讨工程款陷寻衅滋事被批捕",
+        "onboard_time": 1708885459,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32107,
+        "num": 32107,
+        "word": "龙队说可能坚持不到两年以后了",
+        "onboard_time": 1708874136,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29186,
+        "num": 29186,
+        "word": "迪丽热巴耳骨钉",
+        "onboard_time": 1708875217,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29163,
+        "num": 29163,
+        "word": "宗庆后逝世三个侧影一个最大悬念",
+        "onboard_time": 1708862855,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26293,
+        "num": 26293,
+        "word": "吴昕金色短发",
+        "onboard_time": 1708876233,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25962,
+        "num": 25962,
+        "word": "AD钙奶",
+        "onboard_time": 1708871135,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46280,
+        "num": 24922,
+        "word": "男子醉驾致人死亡8年后再次醉驾",
+        "onboard_time": 1708893317,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27423,
+        "num": 24199,
+        "word": "妻子四胎准备出院男子跪谢妻子",
+        "onboard_time": 1708861473,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23208,
+        "num": 23208,
+        "word": "景区演员道具刀没了于是开始真演",
+        "onboard_time": 1708893674,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22187,
+        "num": 22187,
+        "word": "李现为杨紫戴面具路透",
+        "onboard_time": 1708875872,
+        "rank": 23,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 20710,
+        "num": 20710,
+        "word": "国乒男团11连冠",
+        "onboard_time": 1708866577,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20670,
+        "num": 20670,
+        "word": "再也不想给室友带土特产了",
+        "onboard_time": 1708872460,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20658,
+        "num": 20658,
+        "word": "这和小宝宝有什么区别",
+        "onboard_time": 1708876772,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19757,
+        "num": 19757,
+        "word": "哪种水果吃起来最狼狈",
+        "onboard_time": 1708890435,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19531,
+        "num": 19531,
+        "word": "没人发现上班的成本很高吗",
+        "onboard_time": 1708883119,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18992,
+        "num": 18992,
+        "word": "Lia哭了",
+        "onboard_time": 1708874257,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35960,
+        "num": 18977,
+        "word": "同学攒1000多元钱买鞋挨骂小孩哥帮申诉",
+        "onboard_time": 1708894817,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21985,
+        "num": 18970,
+        "word": "体检报告单上的高频词是什么意思",
+        "onboard_time": 1708893615,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18956,
+        "num": 18956,
+        "word": "杭州劝架车主想的是能救两个人",
+        "onboard_time": 1708866820,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18580,
+        "num": 18580,
+        "word": "张艺兴跳了咆哮",
+        "onboard_time": 1708871198,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17031,
+        "num": 17031,
+        "word": "牛大力官配许清雅出场",
+        "onboard_time": 1708877014,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16520,
+        "num": 16520,
+        "word": "刘诗诗池昌旭坐一起",
+        "onboard_time": 1708862494,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 16161,
+        "num": 16161,
+        "word": "马龙说这是我最后一届世锦赛",
+        "onboard_time": 1708868193,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15116,
+        "num": 15116,
+        "word": "姚玉玲结局",
+        "onboard_time": 1708860154,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14948,
+        "num": 14948,
+        "word": "这衣柜不会是全福建统一吧",
+        "onboard_time": 1708881862,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14463,
+        "num": 14463,
+        "word": "原来医者真的不能自医啊",
+        "onboard_time": 1708874136,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14367,
+        "num": 14367,
+        "word": "GUCCI拍的肖战",
+        "onboard_time": 1708887856,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14198,
+        "num": 14198,
+        "word": "唐嫣去巴黎吃麻辣烫",
+        "onboard_time": 1708871499,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14102,
+        "num": 14102,
+        "word": "草莓价格腰斩了",
+        "onboard_time": 1708859254,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 14097,
+        "num": 14097,
+        "word": "林诗栋",
+        "onboard_time": 1708873716,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14043,
+        "num": 14043,
+        "word": "樊振东孙颖莎世乒赛MVP",
+        "onboard_time": 1708868193,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13859,
+        "num": 13859,
+        "word": "宗庆后逝世",
+        "onboard_time": 1708833453,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13618,
+        "num": 13618,
+        "word": "刘诗雯给韩国男团颁奖",
+        "onboard_time": 1708868676,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13021,
+        "num": 13021,
+        "word": "虞书欣清水妆",
+        "onboard_time": 1708874615,
+        "rank": 47,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 12758,
+        "num": 12758,
+        "word": "比亚迪为劝架车主奖励20万",
+        "onboard_time": 1708846292,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10804,
+        "num": 12758,
+        "word": "南来北往编剧",
+        "onboard_time": 1708865916,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}
