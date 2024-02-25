@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708831085782,
+  "endTime": 1708832067476,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1181134,
+      "num": 1181134,
+      "word": "宾利宝马车主系表兄弟",
+      "onboard_time": 1708830216,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1159353,
       "num": 1159353,
       "word": "警方回应网传宾利车主伤人视频",
@@ -67,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1077200,
-      "num": 1077200,
+      "raw_hot": 1114617,
+      "num": 1114617,
       "word": "曾志伟郝蕾起争执",
       "onboard_time": 1708826858,
       "rank": 7,
@@ -115,19 +123,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 810860,
-      "num": 810860,
-      "word": "宾利宝马车主系表兄弟",
-      "onboard_time": 1708830216,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 778067,
       "num": 778067,
       "word": "老人偷拍被抓手机有6万张女生照片",
       "onboard_time": 1708790314,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 764699,
+      "num": 764699,
+      "word": "茶刀",
+      "onboard_time": 1708830636,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 694897,
-      "num": 270909,
+      "num": 284421,
       "word": "被催婚10年今年没被催了",
       "onboard_time": 1708829196,
       "rank": 20,
@@ -371,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364087,
+      "num": 283978,
+      "word": "家人把我养了一年的兔子吃了",
+      "onboard_time": 1708831234,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 363791,
       "num": 363791,
       "word": "黄旭熙以前是因为太孤单了",
@@ -385,6 +401,14 @@
       "onboard_time": 1708821209,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360481,
+      "num": 283946,
+      "word": "4个汤圆热量相当于一碗米饭",
+      "onboard_time": 1708828537,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 354764,
@@ -451,12 +475,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 294174,
-      "num": 265499,
-      "word": "4个汤圆热量相当于一碗米饭",
-      "onboard_time": 1708828537,
-      "rank": 21,
-      "category": "美食"
+      "raw_hot": 296833,
+      "num": 296833,
+      "word": "南京此次火灾为何伤亡严重",
+      "onboard_time": 1708830514,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286357,
+      "num": 286357,
+      "word": "拒绝汉字污名化",
+      "onboard_time": 1708831831,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 278577,
@@ -475,20 +507,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262064,
+      "num": 262064,
+      "word": "飞驰人生2票房破30亿",
+      "onboard_time": 1708831353,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 261040,
       "num": 261040,
       "word": "黄龄演繁花曾被换角",
       "onboard_time": 1708821028,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 258605,
-      "num": 258605,
-      "word": "茶刀",
-      "onboard_time": 1708830636,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255449,
@@ -529,6 +561,14 @@
       "onboard_time": 1708791153,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249566,
+      "num": 249566,
+      "word": "湿气较重的人这样吃水果更健康",
+      "onboard_time": 1708829495,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 249247,
@@ -603,28 +643,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 229034,
-      "num": 229034,
-      "word": "湿气较重的人这样吃水果更健康",
-      "onboard_time": 1708829495,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 219754,
       "num": 219754,
       "word": "肖战跨国请客",
       "onboard_time": 1708776639,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219397,
-      "num": 219397,
-      "word": "南京此次火灾为何伤亡严重",
-      "onboard_time": 1708830514,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211472,
@@ -683,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194331,
+      "num": 184182,
+      "word": "这下搞得大家都不高兴了",
+      "onboard_time": 1708831234,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193588,
       "num": 193588,
       "word": "于适煮柿子汤圆",
@@ -723,6 +755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 182625,
+      "num": 182625,
+      "word": "上春山 神龙吐水",
+      "onboard_time": 1708830032,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178495,
       "num": 178495,
       "word": "男团决赛",
@@ -739,12 +779,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176389,
-      "num": 176389,
-      "word": "上春山 神龙吐水",
-      "onboard_time": 1708830032,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 177870,
+      "num": 177870,
+      "word": "锦鲤本鲤见者运气爆棚",
+      "onboard_time": 1708831234,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 176148,
@@ -916,7 +956,7 @@
     },
     {
       "raw_hot": 142059,
-      "num": 142059,
+      "num": 1378686,
       "word": "春天限量版的绝美配色",
       "onboard_time": 1708828295,
       "rank": 42,
@@ -1043,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122240,
+      "num": 122240,
+      "word": "吴镇宇说朱梓骁表演功力不够",
+      "onboard_time": 1708828893,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115232,
       "num": 115232,
       "word": "寒假进度条即将加载完毕",
@@ -1073,6 +1121,14 @@
       "onboard_time": 1708811777,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 111635,
+      "num": 111635,
+      "word": "34岁重庆娃儿节后返工奶奶满眼不舍",
+      "onboard_time": 1708832014,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111370,
@@ -1121,6 +1177,14 @@
       "onboard_time": 1708811777,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 63828,
+      "num": 214816,
+      "word": "梦舟揽月如何带中国人登月",
+      "onboard_time": 1708831174,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 58685,
@@ -1249,6 +1313,9 @@
     },
     {
       "word": "#文化是一个国家一个民族的灵魂#"
+    },
+    {
+      "word": "#唱好京津双城记共同打造区域发展高地#"
     }
   ]
 }
