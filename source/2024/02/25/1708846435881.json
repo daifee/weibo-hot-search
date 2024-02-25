@@ -1,0 +1,410 @@
+{
+  "runTime": 1708846435881,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2080758,
+        "num": 2080758,
+        "word": "宗庆后逝世",
+        "onboard_time": 1708833453,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1491644,
+        "num": 1491644,
+        "word": "黄子韬公司CEO被调查",
+        "onboard_time": 1708843292,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107187,
+        "num": 1491375,
+        "word": "春天限量版的绝美配色",
+        "onboard_time": 1708828295,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1491359,
+        "num": 1491359,
+        "word": "比亚迪车主劝架",
+        "onboard_time": 1708842273,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1226626,
+        "num": 1226626,
+        "word": "王力宏 娃哈哈矿泉水",
+        "onboard_time": 1708836762,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 942421,
+        "num": 942421,
+        "word": "中国男篮惜败日本男篮",
+        "onboard_time": 1708844614,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 820204,
+        "num": 820204,
+        "word": "韩雪谈去年沈月情绪失控",
+        "onboard_time": 1708838376,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 769296,
+        "num": 769296,
+        "word": "沙溢爆改",
+        "onboard_time": 1708832972,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 622804,
+        "num": 622804,
+        "word": "宗馥莉",
+        "onboard_time": 1708835080,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577441,
+        "num": 577441,
+        "word": "娃哈哈是我在这个世界上存在过的证明",
+        "onboard_time": 1708838856,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482924,
+        "num": 482924,
+        "word": "雷军称宗庆后是一代传奇",
+        "onboard_time": 1708841019,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475491,
+        "num": 475491,
+        "word": "赵丽娜直播痛哭",
+        "onboard_time": 1708832253,
+        "rank": 11,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 441478,
+        "num": 441478,
+        "word": "全网寻找的劝架大哥是个律师",
+        "onboard_time": 1708839514,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428533,
+        "num": 428533,
+        "word": "二月查到好成绩 七月拿到录取通知书",
+        "onboard_time": 1708844853,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 384608,
+        "num": 384608,
+        "word": "阚清子赛车",
+        "onboard_time": 1708840233,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357593,
+        "num": 357593,
+        "word": "杨迪爆改后遗症",
+        "onboard_time": 1708838798,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353052,
+        "num": 353052,
+        "word": "女继承人时代来了",
+        "onboard_time": 1708836821,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343450,
+        "num": 343450,
+        "word": "腿姐 明天的你已经在录取名单里了",
+        "onboard_time": 1708844255,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 337552,
+        "num": 337552,
+        "word": "宾利宝马车主系表兄弟",
+        "onboard_time": 1708830216,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324993,
+        "num": 324993,
+        "word": "赵继伟防守 白给",
+        "onboard_time": 1708844494,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403039,
+        "num": 324256,
+        "word": "南京又一小区深夜突发火灾",
+        "onboard_time": 1708834477,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370929,
+        "num": 324044,
+        "word": "朋友圈点赞是一种交易",
+        "onboard_time": 1708845393,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322982,
+        "num": 322982,
+        "word": "军艺校草",
+        "onboard_time": 1708845273,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 315145,
+        "num": 315145,
+        "word": "咖啡为什么最好上午喝",
+        "onboard_time": 1708844734,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 273186,
+        "num": 273186,
+        "word": "迪丽热巴暗黑魔女",
+        "onboard_time": 1708833994,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263293,
+        "num": 263293,
+        "word": "姚安娜演技",
+        "onboard_time": 1708839935,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255385,
+        "num": 255385,
+        "word": "白鹿对粉丝说韩语",
+        "onboard_time": 1708844556,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248645,
+        "num": 248645,
+        "word": "中国男篮vs日本男篮",
+        "onboard_time": 1708837180,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226389,
+        "num": 226389,
+        "word": "胡明轩太行了",
+        "onboard_time": 1708841854,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166311,
+        "num": 214456,
+        "word": "娃哈哈集团讣告",
+        "onboard_time": 1708834596,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207132,
+        "num": 207132,
+        "word": "宗庆后最后一次公开露面",
+        "onboard_time": 1708842573,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199878,
+        "num": 199878,
+        "word": "比亚迪为劝架车主奖励20万",
+        "onboard_time": 1708846292,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199700,
+        "num": 199700,
+        "word": "上海海港vs上海申花",
+        "onboard_time": 1708845994,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194050,
+        "num": 194050,
+        "word": "娃哈哈官网变为灰色",
+        "onboard_time": 1708840895,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190931,
+        "num": 190931,
+        "word": "世上最残忍的事情之一",
+        "onboard_time": 1708838498,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186342,
+        "num": 186342,
+        "word": "胡明轩20分",
+        "onboard_time": 1708845815,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177098,
+        "num": 177098,
+        "word": "宁静黄龄至今没有互加微信",
+        "onboard_time": 1708834780,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169181,
+        "num": 169181,
+        "word": "杨瀚森别失误了",
+        "onboard_time": 1708843652,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165088,
+        "num": 165088,
+        "word": "被催婚10年今年没被催了",
+        "onboard_time": 1708829196,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158885,
+        "num": 158885,
+        "word": "鹿 我要过马路",
+        "onboard_time": 1708840595,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154631,
+        "num": 154631,
+        "word": "金博洋短节目93.60分",
+        "onboard_time": 1708843952,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150609,
+        "num": 150609,
+        "word": "王鹤棣出发回国了",
+        "onboard_time": 1708844014,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150477,
+        "num": 150477,
+        "word": "考研查分上岸让喜极而泣有了具象化",
+        "onboard_time": 1708836040,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150120,
+        "num": 150120,
+        "word": "杭州持械伤人宾利车主已被抓",
+        "onboard_time": 1708825835,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140152,
+        "num": 140152,
+        "word": "宗庆后坚守不上市的信念",
+        "onboard_time": 1708841374,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135501,
+        "num": 135501,
+        "word": "G7联合声明竟公开点名中国",
+        "onboard_time": 1708833876,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 132974,
+        "num": 132974,
+        "word": "等成绩的心情只有考研人自己知道",
+        "onboard_time": 1708844375,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131292,
+        "num": 131292,
+        "word": "徐杰防守短板",
+        "onboard_time": 1708846232,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130232,
+        "num": 130232,
+        "word": "中国男篮最后一攻选择",
+        "onboard_time": 1708846411,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130011,
+        "num": 130011,
+        "word": "全网寻找宾利司机打人事件劝架大哥",
+        "onboard_time": 1708835382,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#唱好京津双城记共同打造区域发展高地#"
+    }
+  }
+}

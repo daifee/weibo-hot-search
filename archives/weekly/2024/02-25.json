@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708845428759,
+  "endTime": 1708846435881,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1491359,
+      "num": 1491359,
+      "word": "比亚迪车主劝架",
+      "onboard_time": 1708842273,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1268025,
       "num": 1268025,
       "word": "孙颖莎陈梦哭了",
@@ -155,14 +163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1030098,
-      "num": 1030098,
-      "word": "比亚迪车主劝架",
-      "onboard_time": 1708842273,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 991988,
       "num": 991988,
       "word": "何炅工作室发了双北",
@@ -185,6 +185,14 @@
       "onboard_time": 1708785218,
       "rank": 20,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 942421,
+      "num": 942421,
+      "word": "中国男篮惜败日本男篮",
+      "onboard_time": 1708844614,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 934886,
@@ -217,14 +225,6 @@
       "onboard_time": 1708821869,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 853328,
-      "num": 853328,
-      "word": "中国男篮惜败日本男篮",
-      "onboard_time": 1708844614,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 827735,
@@ -491,19 +491,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 441478,
+      "num": 441478,
+      "word": "全网寻找的劝架大哥是个律师",
+      "onboard_time": 1708839514,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438072,
       "num": 300936,
       "word": "女子假胖20年意外瘦身60斤",
       "onboard_time": 1708784736,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 437905,
-      "num": 437905,
-      "word": "全网寻找的劝架大哥是个律师",
-      "onboard_time": 1708839514,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -521,6 +521,14 @@
       "onboard_time": 1708782218,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 428533,
+      "num": 428533,
+      "word": "二月查到好成绩 七月拿到录取通知书",
+      "onboard_time": 1708844853,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 424438,
@@ -627,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370929,
+      "num": 324044,
+      "word": "朋友圈点赞是一种交易",
+      "onboard_time": 1708845393,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 364658,
       "num": 364658,
       "word": "宁静黄龄至今没有互加微信",
@@ -675,6 +691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 343450,
+      "num": 343450,
+      "word": "腿姐 明天的你已经在录取名单里了",
+      "onboard_time": 1708844255,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 327363,
       "num": 327363,
       "word": "宁采臣澄清粉丝掉下横店悬崖事件",
@@ -691,6 +715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 322982,
+      "num": 322982,
+      "word": "军艺校草",
+      "onboard_time": 1708845273,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 320388,
       "num": 320388,
       "word": "多地结婚人数回升",
@@ -705,6 +737,14 @@
       "onboard_time": 1708821869,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 315145,
+      "num": 315145,
+      "word": "咖啡为什么最好上午喝",
+      "onboard_time": 1708844734,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 312750,
@@ -795,28 +835,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 274554,
-      "num": 274554,
-      "word": "腿姐 明天的你已经在录取名单里了",
-      "onboard_time": 1708844255,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 273784,
       "num": 273784,
       "word": "世上最残忍的事情之一",
       "onboard_time": 1708838498,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 267347,
-      "num": 267347,
-      "word": "二月查到好成绩 七月拿到录取通知书",
-      "onboard_time": 1708844853,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 262064,
@@ -841,6 +865,14 @@
       "onboard_time": 1708787078,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255385,
+      "num": 255385,
+      "word": "白鹿对粉丝说韩语",
+      "onboard_time": 1708844556,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 254668,
@@ -921,14 +953,6 @@
       "onboard_time": 1708834960,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 241746,
-      "num": 241746,
-      "word": "咖啡为什么最好上午喝",
-      "onboard_time": 1708844734,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 240732,
@@ -1035,14 +1059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213683,
-      "num": 213683,
-      "word": "白鹿对粉丝说韩语",
-      "onboard_time": 1708844556,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211472,
       "num": 211472,
       "word": "孙颖莎采访",
@@ -1083,20 +1099,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207132,
+      "num": 207132,
+      "word": "宗庆后最后一次公开露面",
+      "onboard_time": 1708842573,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205295,
       "num": 205295,
       "word": "特朗普在南卡罗来纳州共和党初选中胜出",
       "onboard_time": 1708823311,
       "rank": 31,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 203087,
-      "num": 203087,
-      "word": "宗庆后最后一次公开露面",
-      "onboard_time": 1708842573,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202720,
@@ -1121,6 +1137,22 @@
       "onboard_time": 1708771352,
       "rank": 32,
       "category": "幽默,网红"
+    },
+    {
+      "raw_hot": 199878,
+      "num": 199878,
+      "word": "比亚迪为劝架车主奖励20万",
+      "onboard_time": 1708846292,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199700,
+      "num": 199700,
+      "word": "上海海港vs上海申花",
+      "onboard_time": 1708845994,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 197255,
@@ -1225,6 +1257,14 @@
       "onboard_time": 1708828417,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186342,
+      "num": 186342,
+      "word": "胡明轩20分",
+      "onboard_time": 1708845815,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 186051,
@@ -1443,14 +1483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156264,
-      "num": 156264,
-      "word": "军艺校草",
-      "onboard_time": 1708845273,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 154793,
       "num": 154793,
       "word": "2024釜山世乒赛团体赛",
@@ -1497,14 +1529,6 @@
       "onboard_time": 1708819164,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 148280,
-      "num": 148280,
-      "word": "朋友圈点赞是一种交易",
-      "onboard_time": 1708845393,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 147702,
@@ -1651,12 +1675,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131292,
+      "num": 131292,
+      "word": "徐杰防守短板",
+      "onboard_time": 1708846232,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130470,
       "num": 130470,
       "word": "网红杨老二已下葬",
       "onboard_time": 1708818564,
       "rank": 37,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 130232,
+      "num": 130232,
+      "word": "中国男篮最后一攻选择",
+      "onboard_time": 1708846411,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 126619,
