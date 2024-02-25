@@ -1,0 +1,410 @@
+{
+  "runTime": 1708860834845,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1806386,
+        "num": 1806386,
+        "word": "与女主播发生关系住持已被注销戒牒",
+        "onboard_time": 1708853436,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874569,
+        "num": 874569,
+        "word": "比亚迪为劝架车主奖励20万",
+        "onboard_time": 1708846292,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101960,
+        "num": 865615,
+        "word": "子弟兵奋战9小时雪中抢通川藏线",
+        "onboard_time": 1708847851,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862854,
+        "num": 862854,
+        "word": "肖战戒碳失败",
+        "onboard_time": 1708849232,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 811574,
+        "num": 811574,
+        "word": "宗庆后逝世",
+        "onboard_time": 1708833453,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766388,
+        "num": 766388,
+        "word": "国乒男团vs法国男团",
+        "onboard_time": 1708857694,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 740630,
+        "num": 740630,
+        "word": "小尼从来不用尼格买提对不上表情包",
+        "onboard_time": 1708856616,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 684928,
+        "num": 684928,
+        "word": "迪丽热巴紫罗兰公主",
+        "onboard_time": 1708857094,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 625857,
+        "num": 625857,
+        "word": "姚玉玲结局",
+        "onboard_time": 1708860154,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311172,
+        "num": 623970,
+        "word": "白血病女孩长胖40斤笑称蛮可爱",
+        "onboard_time": 1708847072,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663999,
+        "num": 623754,
+        "word": "女子发现门上被贴可疑U盘一把扔飞",
+        "onboard_time": 1708857454,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622838,
+        "num": 622838,
+        "word": "纪凌尘演技",
+        "onboard_time": 1708858473,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 578713,
+        "num": 578713,
+        "word": "反诈老陈喊话全国警方求工作",
+        "onboard_time": 1708855894,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490619,
+        "num": 490619,
+        "word": "董宇辉称不知自己的影响正面还是负面",
+        "onboard_time": 1708859615,
+        "rank": 13,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 472262,
+        "num": 472262,
+        "word": "难哄或将改名万事美好",
+        "onboard_time": 1708853794,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471313,
+        "num": 471313,
+        "word": "许昕坐在马龙身边",
+        "onboard_time": 1708857812,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 460578,
+        "num": 460578,
+        "word": "比亚迪车主讲述劝架救人细节",
+        "onboard_time": 1708858114,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441122,
+        "num": 441122,
+        "word": "王力宏 娃哈哈矿泉水",
+        "onboard_time": 1708836762,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424319,
+        "num": 424319,
+        "word": "比亚迪公关",
+        "onboard_time": 1708852293,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 409454,
+        "num": 409454,
+        "word": "千金在中国过的第一个元宵节",
+        "onboard_time": 1708855836,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515116,
+        "num": 409252,
+        "word": "草莓价格腰斩了",
+        "onboard_time": 1708859254,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 359555,
+        "num": 359555,
+        "word": "吃水果其实是件挺私密的事",
+        "onboard_time": 1708853069,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344991,
+        "num": 344991,
+        "word": "网友集体晒AD钙奶悼念宗庆后",
+        "onboard_time": 1708859494,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293095,
+        "num": 293095,
+        "word": "朋友让我辞职回家参加她订婚",
+        "onboard_time": 1708860215,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290168,
+        "num": 290168,
+        "word": "成毅李一桐虐戏路透",
+        "onboard_time": 1708857631,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287056,
+        "num": 287056,
+        "word": "刘诗诗米兰时装周",
+        "onboard_time": 1708851752,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 285638,
+        "num": 285638,
+        "word": "林一周也 豪门情侣感",
+        "onboard_time": 1708855117,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268981,
+        "num": 268981,
+        "word": "原来好的家庭氛围是这样的",
+        "onboard_time": 1708855416,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242750,
+        "num": 242750,
+        "word": "沙溢爆改",
+        "onboard_time": 1708832972,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222080,
+        "num": 222080,
+        "word": "芭莎拍的肖战",
+        "onboard_time": 1708852293,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 214559,
+        "num": 214559,
+        "word": "吴镇宇 这关表演什么事",
+        "onboard_time": 1708852833,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213734,
+        "num": 213734,
+        "word": "最惨文科专业",
+        "onboard_time": 1708848332,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197489,
+        "num": 197489,
+        "word": "傲寒铃铛轮换下场",
+        "onboard_time": 1708860034,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193357,
+        "num": 193357,
+        "word": "SM三大神颜同框",
+        "onboard_time": 1708850670,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180794,
+        "num": 180794,
+        "word": "别对我动心",
+        "onboard_time": 1708858893,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170637,
+        "num": 170637,
+        "word": "管泽元解说",
+        "onboard_time": 1708856433,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168643,
+        "num": 168643,
+        "word": "宾利司机打人事件劝架律师发声",
+        "onboard_time": 1708847313,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167571,
+        "num": 167571,
+        "word": "阿云嘎忘刮胡子了",
+        "onboard_time": 1708858714,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160607,
+        "num": 160607,
+        "word": "宗庆后生命最后仍在病床坚持工作",
+        "onboard_time": 1708849413,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155639,
+        "num": 155639,
+        "word": "恋爱第一眼的感觉超级重要",
+        "onboard_time": 1708860512,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149214,
+        "num": 149214,
+        "word": "考研查分倒计时",
+        "onboard_time": 1708854816,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147433,
+        "num": 147433,
+        "word": "小猫生气就装晕",
+        "onboard_time": 1708854454,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144225,
+        "num": 144225,
+        "word": "大理寺少卿游直播",
+        "onboard_time": 1708860755,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143403,
+        "num": 143403,
+        "word": "猎冰",
+        "onboard_time": 1708858232,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142019,
+        "num": 142019,
+        "word": "二月查到好成绩 七月拿到录取通知书",
+        "onboard_time": 1708844853,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141871,
+        "num": 141871,
+        "word": "民众自发到娃哈哈总部献花悼念",
+        "onboard_time": 1708850312,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138109,
+        "num": 138109,
+        "word": "宗馥莉",
+        "onboard_time": 1708835080,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137512,
+        "num": 137512,
+        "word": "娃哈哈集团讣告",
+        "onboard_time": 1708834596,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135839,
+        "num": 135839,
+        "word": "宗庆后42岁白手起家",
+        "onboard_time": 1708860812,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131318,
+        "num": 131318,
+        "word": "迪丽热巴被送玫瑰花",
+        "onboard_time": 1708852952,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化是一个国家一个民族的灵魂#"
+    }
+  }
+}

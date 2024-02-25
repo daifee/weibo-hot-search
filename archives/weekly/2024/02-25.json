@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708859654230,
+  "endTime": 1708860834845,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -315,6 +315,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 766388,
+      "num": 766388,
+      "word": "国乒男团vs法国男团",
+      "onboard_time": 1708857694,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 740630,
+      "num": 740630,
+      "word": "小尼从来不用尼格买提对不上表情包",
+      "onboard_time": 1708856616,
+      "rank": 14,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 717548,
       "num": 717548,
       "word": "孙颖莎连斩日本第一第二女单",
@@ -395,20 +411,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 663999,
+      "num": 623754,
+      "word": "女子发现门上被贴可疑U盘一把扔飞",
+      "onboard_time": 1708857454,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 655306,
       "num": 655306,
       "word": "小品非常满意",
       "onboard_time": 1708788875,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 635512,
-      "num": 635512,
-      "word": "小尼从来不用尼格买提对不上表情包",
-      "onboard_time": 1708856616,
-      "rank": 14,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 633665,
@@ -425,6 +441,22 @@
       "onboard_time": 1708827638,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 625857,
+      "num": 625857,
+      "word": "姚玉玲结局",
+      "onboard_time": 1708860154,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 622838,
+      "num": 622838,
+      "word": "纪凌尘演技",
+      "onboard_time": 1708858473,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 610742,
@@ -548,7 +580,7 @@
     },
     {
       "raw_hot": 548943,
-      "num": 336406,
+      "num": 359555,
       "word": "吃水果其实是件挺私密的事",
       "onboard_time": 1708853069,
       "rank": 20,
@@ -579,14 +611,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 523323,
-      "num": 523323,
-      "word": "纪凌尘演技",
-      "onboard_time": 1708858473,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 518566,
       "num": 518566,
       "word": "朱梓骁说直播带货才是后路",
@@ -603,12 +627,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 516999,
-      "num": 516999,
-      "word": "国乒男团vs法国男团",
-      "onboard_time": 1708857694,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 515116,
+      "num": 409252,
+      "word": "草莓价格腰斩了",
+      "onboard_time": 1708859254,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 514235,
@@ -675,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490619,
+      "num": 490619,
+      "word": "董宇辉称不知自己的影响正面还是负面",
+      "onboard_time": 1708859615,
+      "rank": 25,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 489720,
       "num": 489720,
       "word": "EDG赛季首胜",
@@ -699,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471313,
+      "num": 471313,
+      "word": "许昕坐在马龙身边",
+      "onboard_time": 1708857812,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 455285,
       "num": 455285,
       "word": "宗馥莉已开始接班",
@@ -721,14 +761,6 @@
       "onboard_time": 1708784736,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 437693,
-      "num": 437693,
-      "word": "许昕坐在马龙身边",
-      "onboard_time": 1708857812,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 436919,
@@ -947,20 +979,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 344991,
+      "num": 344991,
+      "word": "网友集体晒AD钙奶悼念宗庆后",
+      "onboard_time": 1708859494,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342591,
       "num": 342591,
       "word": "成毅李一桐虐戏路透",
       "onboard_time": 1708857631,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 341658,
-      "num": 341658,
-      "word": "女子发现门上被贴可疑U盘一把扔飞",
-      "onboard_time": 1708857454,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 334821,
@@ -1107,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293095,
+      "num": 293095,
+      "word": "朋友让我辞职回家参加她订婚",
+      "onboard_time": 1708860215,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 288354,
       "num": 288354,
       "word": "EDG对战AL",
@@ -1185,22 +1225,6 @@
       "onboard_time": 1708838498,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 270800,
-      "num": 270800,
-      "word": "董宇辉称不知自己的影响正面还是负面",
-      "onboard_time": 1708859615,
-      "rank": 25,
-      "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 269233,
-      "num": 269233,
-      "word": "草莓价格腰斩了",
-      "onboard_time": 1708859254,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 262064,
@@ -1585,6 +1609,14 @@
       "onboard_time": 1708845994,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197489,
+      "num": 197489,
+      "word": "傲寒铃铛轮换下场",
+      "onboard_time": 1708860034,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 197255,
@@ -1979,14 +2011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159449,
-      "num": 159449,
-      "word": "网友集体晒AD钙奶悼念宗庆后",
-      "onboard_time": 1708859494,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157718,
       "num": 157718,
       "word": "马燕装病",
@@ -2009,6 +2033,14 @@
       "onboard_time": 1708845152,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155639,
+      "num": 155639,
+      "word": "恋爱第一眼的感觉超级重要",
+      "onboard_time": 1708860512,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 154793,
@@ -2081,6 +2113,14 @@
       "onboard_time": 1708820126,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144225,
+      "num": 144225,
+      "word": "大理寺少卿游直播",
+      "onboard_time": 1708860755,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 143531,
@@ -2217,6 +2257,14 @@
       "onboard_time": 1708792110,
       "rank": 45,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 135839,
+      "num": 135839,
+      "word": "宗庆后42岁白手起家",
+      "onboard_time": 1708860812,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133266,
