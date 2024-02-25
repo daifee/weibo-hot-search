@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708875253124,
+  "endTime": 1708878084354,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -579,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 704663,
+      "num": 704663,
+      "word": "龙队说可能坚持不到两年以后了",
+      "onboard_time": 1708874136,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 703766,
       "num": 703766,
       "word": "雷军称宗庆后是一代传奇",
@@ -771,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 577391,
+      "num": 577391,
+      "word": "姜妍演技",
+      "onboard_time": 1708875217,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 574706,
       "num": 574706,
       "word": "迪丽热巴暗黑魔女",
@@ -873,14 +889,6 @@
       "onboard_time": 1708847371,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 515350,
-      "num": 515350,
-      "word": "龙队说可能坚持不到两年以后了",
-      "onboard_time": 1708874136,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 514235,
@@ -995,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486717,
+      "num": 203765,
+      "word": "赴华韩国游客数量暴增900%",
+      "onboard_time": 1708875574,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483199,
       "num": 483199,
       "word": "南京又一小区深夜突发火灾",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1708852833,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 433436,
+      "num": 317527,
+      "word": "李现为杨紫戴面具路透",
+      "onboard_time": 1708875872,
+      "rank": 15,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 424841,
@@ -1241,6 +1265,14 @@
       "onboard_time": 1708853194,
       "rank": 21,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 370929,
+      "num": 299377,
+      "word": "迪丽热巴耳骨钉",
+      "onboard_time": 1708875217,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 364658,
@@ -1595,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277059,
+      "num": 198249,
+      "word": "吴昕金色短发",
+      "onboard_time": 1708876233,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 275643,
       "num": 272794,
       "word": "60岁时第一次工作了",
@@ -1713,14 +1753,6 @@
       "onboard_time": 1708866995,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 252577,
-      "num": 231468,
-      "word": "迪丽热巴耳骨钉",
-      "onboard_time": 1708875217,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 251722,
@@ -2667,14 +2699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 162855,
-      "num": 162855,
-      "word": "姜妍演技",
-      "onboard_time": 1708875217,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162803,
       "num": 162803,
       "word": "薛之谦拉斯维加斯演唱会",
@@ -2793,6 +2817,14 @@
       "onboard_time": 1708819164,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 148233,
+      "num": 148233,
+      "word": "牛大力官配许清雅出场",
+      "onboard_time": 1708877014,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 147702,
@@ -3075,12 +3107,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121926,
+      "num": 121926,
+      "word": "木原美悠祝贺陈梦夺冠",
+      "onboard_time": 1708876713,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121089,
       "num": 1410083,
       "word": "子弟兵奋战9小时雪中抢通川藏线",
       "onboard_time": 1708847851,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120850,
+      "num": 120850,
+      "word": "当你养了一只无比粘人的橘猫幼崽",
+      "onboard_time": 1708875759,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 118280,
