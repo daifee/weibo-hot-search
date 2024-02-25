@@ -1,0 +1,410 @@
+{
+  "runTime": 1708871639980,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2222048,
+        "num": 2222048,
+        "word": "张小斐曾陪贾玲考研自己考上了",
+        "onboard_time": 1708869692,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2003532,
+        "num": 2003532,
+        "word": "国乒男团11连冠",
+        "onboard_time": 1708866577,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231816,
+        "num": 1487635,
+        "word": "春节档电影前4名累计票房破100亿",
+        "onboard_time": 1708867534,
+        "rank": 2,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1156820,
+        "num": 1156820,
+        "word": "为何年轻人上班不愿意精致打扮",
+        "onboard_time": 1708863756,
+        "rank": 3,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1072534,
+        "num": 1072534,
+        "word": "马龙说这是我最后一届世锦赛",
+        "onboard_time": 1708868193,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 897874,
+        "num": 897874,
+        "word": "女校长称微信群不雅视频非本人发",
+        "onboard_time": 1708865855,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 894236,
+        "num": 894236,
+        "word": "Makiyo瘦脱相",
+        "onboard_time": 1708869755,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 852494,
+        "num": 852494,
+        "word": "与女主播发生关系住持已被注销戒牒",
+        "onboard_time": 1708853436,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804516,
+        "num": 804516,
+        "word": "姚玉玲结局",
+        "onboard_time": 1708860154,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 785416,
+        "num": 785416,
+        "word": "杭州劝架车主想的是能救两个人",
+        "onboard_time": 1708866820,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801577,
+        "num": 781025,
+        "word": "秦牛正威晒与未婚夫合照",
+        "onboard_time": 1708870776,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 773613,
+        "num": 773613,
+        "word": "刘诗雯给韩国男团颁奖",
+        "onboard_time": 1708868676,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 676898,
+        "num": 676898,
+        "word": "刘诗诗池昌旭坐一起",
+        "onboard_time": 1708862494,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 646968,
+        "num": 646968,
+        "word": "樊振东孙颖莎世乒赛MVP",
+        "onboard_time": 1708868193,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 498723,
+        "num": 498723,
+        "word": "罗志祥回应什么时候来内地",
+        "onboard_time": 1708871017,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496205,
+        "num": 496205,
+        "word": "王楚钦敲了敲金牌",
+        "onboard_time": 1708870118,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448218,
+        "num": 448218,
+        "word": "为什么要让马魁牺牲",
+        "onboard_time": 1708861955,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423973,
+        "num": 423973,
+        "word": "宗庆后逝世",
+        "onboard_time": 1708833453,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383719,
+        "num": 383719,
+        "word": "黄圣依晒儿子近照",
+        "onboard_time": 1708869633,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375141,
+        "num": 375141,
+        "word": "王皓情绪价值拉满",
+        "onboard_time": 1708866096,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 516385,
+        "num": 372277,
+        "word": "妻子四胎准备出院男子跪谢妻子",
+        "onboard_time": 1708861473,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368028,
+        "num": 368028,
+        "word": "种地吧2被质疑的原因",
+        "onboard_time": 1708864057,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367347,
+        "num": 367347,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1708868493,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348217,
+        "num": 348217,
+        "word": "张艺兴跳了咆哮",
+        "onboard_time": 1708871198,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 320771,
+        "num": 320771,
+        "word": "比亚迪为劝架车主奖励20万",
+        "onboard_time": 1708846292,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321853,
+        "num": 320546,
+        "word": "南来北往编剧",
+        "onboard_time": 1708865916,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318741,
+        "num": 318741,
+        "word": "鹿晗穿睡衣背背篓赶集",
+        "onboard_time": 1708869937,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 312563,
+        "num": 312563,
+        "word": "演员李影去世",
+        "onboard_time": 1708861893,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305300,
+        "num": 305300,
+        "word": "草莓价格腰斩了",
+        "onboard_time": 1708859254,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 297221,
+        "num": 297221,
+        "word": "成毅直播",
+        "onboard_time": 1708868014,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295841,
+        "num": 295841,
+        "word": "肖战文淇新合照",
+        "onboard_time": 1708870897,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291408,
+        "num": 291408,
+        "word": "迪丽热巴紫罗兰公主",
+        "onboard_time": 1708857094,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284096,
+        "num": 284096,
+        "word": "AD钙奶",
+        "onboard_time": 1708871135,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259835,
+        "num": 259835,
+        "word": "宗庆后逝世三个侧影一个最大悬念",
+        "onboard_time": 1708862855,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238647,
+        "num": 238647,
+        "word": "LNG春季赛五连败",
+        "onboard_time": 1708870475,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 273286,
+        "num": 235953,
+        "word": "唐嫣去巴黎吃麻辣烫",
+        "onboard_time": 1708871499,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253324,
+        "num": 232707,
+        "word": "成年人的崩溃从生病开始",
+        "onboard_time": 1708867058,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229178,
+        "num": 229178,
+        "word": "25岁的美短猫咪太棒了",
+        "onboard_time": 1708871315,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218230,
+        "num": 218230,
+        "word": "樊振东釜山世乒赛8战全胜",
+        "onboard_time": 1708870417,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216651,
+        "num": 216651,
+        "word": "女子发现门上被贴可疑U盘一把扔飞",
+        "onboard_time": 1708857454,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204585,
+        "num": 204585,
+        "word": "吃水果其实是件挺私密的事",
+        "onboard_time": 1708853069,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192965,
+        "num": 192965,
+        "word": "肖战出发回国",
+        "onboard_time": 1708861710,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187221,
+        "num": 187221,
+        "word": "樊振东黄牌",
+        "onboard_time": 1708863454,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178517,
+        "num": 178517,
+        "word": "南来北往大结局",
+        "onboard_time": 1708861051,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175510,
+        "num": 175510,
+        "word": "国乒男团vs法国男团",
+        "onboard_time": 1708857694,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174510,
+        "num": 174510,
+        "word": "肺癌的9种常见表现",
+        "onboard_time": 1708864178,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174272,
+        "num": 174272,
+        "word": "比亚迪公关",
+        "onboard_time": 1708852293,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 160984,
+        "num": 160984,
+        "word": "纪凌尘演技",
+        "onboard_time": 1708858473,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153007,
+        "num": 153007,
+        "word": "金晨马燕短发",
+        "onboard_time": 1708868314,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150051,
+        "num": 150051,
+        "word": "NIP对战LNG",
+        "onboard_time": 1708867475,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#一封复信续写中美民间友好交流佳话#"
+    }
+  }
+}
