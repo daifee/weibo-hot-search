@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1708823725815,
+  "endTime": 1708824849570,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -563,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5395734,
+      "num": 5395734,
+      "word": "杭州宾利",
+      "onboard_time": 1708816820,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 5335912,
       "num": 5335912,
       "word": "杨紫穿紫",
@@ -665,14 +673,6 @@
       "onboard_time": 1705162961,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 4492071,
-      "num": 632153,
-      "word": "杭州宾利",
-      "onboard_time": 1708816820,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 4476995,

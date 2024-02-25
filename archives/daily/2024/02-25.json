@@ -1,10 +1,10 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708823725815,
+  "endTime": 1708824849570,
   "band_list": [
     {
-      "raw_hot": 4492071,
-      "num": 632153,
+      "raw_hot": 5395734,
+      "num": 5395734,
       "word": "杭州宾利",
       "onboard_time": 1708816820,
       "rank": 10,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 984693,
+      "num": 984693,
+      "word": "吴镇宇问金莎愿意和男友演母子吗",
+      "onboard_time": 1708821089,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 979834,
       "num": 301998,
       "word": "横店悬崖",
@@ -59,12 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 914459,
-      "num": 914459,
-      "word": "吴镇宇问金莎愿意和男友演母子吗",
-      "onboard_time": 1708821089,
-      "rank": 1,
-      "category": "综艺"
+      "raw_hot": 866104,
+      "num": 866104,
+      "word": "玩王者花掉外婆一万六自称人生无常",
+      "onboard_time": 1708821869,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 778067,
@@ -115,11 +123,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 606160,
-      "num": 606160,
-      "word": "玩王者花掉外婆一万六自称人生无常",
-      "onboard_time": 1708821869,
-      "rank": 6,
+      "raw_hot": 610742,
+      "num": 610742,
+      "word": "韩国医疗",
+      "onboard_time": 1708820726,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -129,6 +137,14 @@
       "onboard_time": 1708818503,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 595220,
+      "num": 225148,
+      "word": "张大大再爆改",
+      "onboard_time": 1708823370,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 591390,
@@ -147,12 +163,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 540298,
-      "num": 540298,
-      "word": "韩国医疗",
-      "onboard_time": 1708820726,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 518566,
+      "num": 518566,
+      "word": "朱梓骁说直播带货才是后路",
+      "onboard_time": 1708821390,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 513990,
@@ -179,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 493364,
+      "num": 493364,
+      "word": "为什么不上王曼昱",
+      "onboard_time": 1708822108,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 487633,
       "num": 487633,
       "word": "女团五姐妹抱在了一起",
@@ -203,11 +227,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 423333,
-      "num": 423333,
-      "word": "朱梓骁说直播带货才是后路",
-      "onboard_time": 1708821390,
-      "rank": 11,
+      "raw_hot": 407910,
+      "num": 407910,
+      "word": "上海下雪",
+      "onboard_time": 1708821810,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400027,
+      "num": 400027,
+      "word": "赵昭仪李晋晔在录恋综吗",
+      "onboard_time": 1708823732,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -235,14 +267,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 363552,
-      "num": 363552,
-      "word": "为什么不上王曼昱",
-      "onboard_time": 1708822108,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 363272,
       "num": 363272,
       "word": "许肖博玺",
@@ -259,20 +283,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 341674,
-      "num": 341674,
-      "word": "上海下雪",
-      "onboard_time": 1708821810,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 327363,
       "num": 327363,
       "word": "宁采臣澄清粉丝掉下横店悬崖事件",
       "onboard_time": 1708788339,
       "rank": 18,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 315925,
+      "num": 296377,
+      "word": "谈恋爱其实是在谈一种能力",
+      "onboard_time": 1708821869,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 312750,
@@ -299,12 +323,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 283141,
-      "num": 270452,
-      "word": "谈恋爱其实是在谈一种能力",
-      "onboard_time": 1708821869,
-      "rank": 20,
-      "category": "情感"
+      "raw_hot": 297170,
+      "num": 297170,
+      "word": "多地结婚人数回升",
+      "onboard_time": 1708822591,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278577,
@@ -379,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 245007,
-      "num": 245007,
-      "word": "多地结婚人数回升",
-      "onboard_time": 1708822591,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240732,
       "num": 240732,
       "word": "孙颖莎定海神针",
@@ -443,12 +459,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205295,
+      "num": 205295,
+      "word": "特朗普在南卡罗来纳州共和党初选中胜出",
+      "onboard_time": 1708823311,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 200701,
       "num": 200701,
       "word": "papi酱 这个年真的过完了",
       "onboard_time": 1708771352,
       "rank": 32,
       "category": "幽默,网红"
+    },
+    {
+      "raw_hot": 197255,
+      "num": 197255,
+      "word": "上海大学生的免死金牌",
+      "onboard_time": 1708821990,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 193588,
+      "num": 193588,
+      "word": "于适煮柿子汤圆",
+      "onboard_time": 1708820309,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 188938,
@@ -467,12 +507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180001,
-      "num": 180001,
-      "word": "张大大再爆改",
-      "onboard_time": 1708823370,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 178495,
+      "num": 178495,
+      "word": "男团决赛",
+      "onboard_time": 1708823732,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 178182,
@@ -499,20 +539,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 172289,
-      "num": 172289,
-      "word": "于适煮柿子汤圆",
-      "onboard_time": 1708820309,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169886,
       "num": 169886,
       "word": "0713是懂煽情的",
       "onboard_time": 1708785577,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169868,
+      "num": 169868,
+      "word": "出门又不知道该穿啥了",
+      "onboard_time": 1708823370,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166634,
@@ -547,28 +587,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161561,
-      "num": 161561,
-      "word": "特朗普在南卡罗来纳州共和党初选中胜出",
-      "onboard_time": 1708823311,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 161433,
       "num": 161433,
       "word": "双北对话梦回明侦",
       "onboard_time": 1708790134,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158423,
-      "num": 158423,
-      "word": "出门又不知道该穿啥了",
-      "onboard_time": 1708823370,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154793,
@@ -587,8 +611,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148547,
-      "num": 148547,
+      "raw_hot": 149435,
+      "num": 149435,
       "word": "会长是女仆大人作者新作",
       "onboard_time": 1708819164,
       "rank": 34,
@@ -635,6 +659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139394,
+      "num": 139394,
+      "word": "马嘉祺吟唱",
+      "onboard_time": 1708824574,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139281,
       "num": 139281,
       "word": "王楚钦此球只应天上有",
@@ -649,6 +681,14 @@
       "onboard_time": 1708787916,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137247,
+      "num": 137247,
+      "word": "返校大学生有多安静",
+      "onboard_time": 1708823911,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 136109,
@@ -683,12 +723,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 120726,
-      "num": 120726,
-      "word": "上海大学生的免死金牌",
-      "onboard_time": 1708821990,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 125732,
+      "num": 125732,
+      "word": "严浩翔盯镜头",
+      "onboard_time": 1708824392,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122637,
+      "num": 122637,
+      "word": "丁程鑫主播嘴欠大赏",
+      "onboard_time": 1708820608,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117383,
+      "num": 117383,
+      "word": "西湖醋鱼原来长这样吗",
+      "onboard_time": 1708824094,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 115232,
@@ -697,14 +753,6 @@
       "onboard_time": 1708823552,
       "rank": 41,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 114846,
-      "num": 114846,
-      "word": "丁程鑫主播嘴欠大赏",
-      "onboard_time": 1708820608,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 113950,
@@ -756,7 +804,7 @@
     },
     {
       "raw_hot": 77003,
-      "num": 695111,
+      "num": 1025189,
       "word": "龙年第一轮满月",
       "onboard_time": 1708779036,
       "rank": 2,
