@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708878084354,
+  "endTime": 1708879039891,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -457,6 +457,14 @@
       "onboard_time": 1708861230,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 846566,
+      "num": 846566,
+      "word": "考研",
+      "onboard_time": 1708878090,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 846300,
@@ -1571,6 +1579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 287800,
+      "num": 287800,
+      "word": "吴昕金色短发",
+      "onboard_time": 1708876233,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 284727,
       "num": 260624,
       "word": "迪丽热巴被送玫瑰花",
@@ -1625,14 +1641,6 @@
       "onboard_time": 1708828537,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277059,
-      "num": 198249,
-      "word": "吴昕金色短发",
-      "onboard_time": 1708876233,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 275643,
@@ -3155,6 +3163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 113868,
+      "num": 113868,
+      "word": "李克勤演唱会唱富士山下",
+      "onboard_time": 1708878565,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113660,
       "num": 113660,
       "word": "2024巴黎奥运会中国乒乓球单打选拔",
@@ -3201,6 +3217,14 @@
       "onboard_time": 1708866820,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 94103,
+      "num": 94103,
+      "word": "这和小宝宝有什么区别",
+      "onboard_time": 1708876772,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 85387,

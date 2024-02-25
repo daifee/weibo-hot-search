@@ -1,6 +1,6 @@
 {
   "startTime": 1708878084354,
-  "endTime": 1708878084354,
+  "endTime": 1708879039891,
   "band_list": [
     {
       "raw_hot": 1097706,
@@ -17,6 +17,14 @@
       "onboard_time": 1708869692,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 846566,
+      "num": 846566,
+      "word": "考研",
+      "onboard_time": 1708878090,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 747737,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 472910,
-      "num": 375158,
+      "num": 378613,
       "word": "Lia哭了",
       "onboard_time": 1708874257,
       "rank": 11,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 457256,
-      "num": 365397,
+      "num": 390637,
       "word": "范丞丞这张全家福就差我了",
       "onboard_time": 1708873774,
       "rank": 12,
@@ -147,8 +155,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277059,
-      "num": 198249,
+      "raw_hot": 287800,
+      "num": 287800,
       "word": "吴昕金色短发",
       "onboard_time": 1708876233,
       "rank": 22,
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113868,
+      "num": 113868,
+      "word": "李克勤演唱会唱富士山下",
+      "onboard_time": 1708878565,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 112795,
       "num": 112795,
       "word": "为什么要让马魁牺牲",
@@ -401,11 +417,22 @@
       "onboard_time": 1708857694,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94103,
+      "num": 94103,
+      "word": "这和小宝宝有什么区别",
+      "onboard_time": 1708876772,
+      "rank": 46,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
     {
       "word": "#瓣瓣同心心相连#"
+    },
+    {
+      "word": "#唱好京津双城记共同打造区域发展高地#"
     }
   ]
 }

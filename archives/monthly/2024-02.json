@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708878084354,
+  "endTime": 1708879039891,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -9257,6 +9257,14 @@
       "onboard_time": 1707046411,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 846566,
+      "num": 846566,
+      "word": "考研",
+      "onboard_time": 1708878090,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 846300,
@@ -29755,6 +29763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 287800,
+      "num": 287800,
+      "word": "吴昕金色短发",
+      "onboard_time": 1708876233,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 287586,
       "num": 287586,
       "word": "55岁收到83岁妈妈的压岁钱",
@@ -30801,14 +30817,6 @@
       "onboard_time": 1708828537,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277059,
-      "num": 198249,
-      "word": "吴昕金色短发",
-      "onboard_time": 1708876233,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 276948,
@@ -62947,6 +62955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113868,
+      "num": 113868,
+      "word": "李克勤演唱会唱富士山下",
+      "onboard_time": 1708878565,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113855,
       "num": 113855,
       "word": "2024辽视春晚节目单",
@@ -65272,6 +65288,14 @@
       "word": "奶牛猫舞团新舞蹈",
       "onboard_time": 1706879133,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 94103,
+      "num": 94103,
+      "word": "这和小宝宝有什么区别",
+      "onboard_time": 1708876772,
+      "rank": 46,
       "category": "幽默"
     },
     {
