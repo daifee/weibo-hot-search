@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708846435881,
+  "endTime": 1708849163681,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -32,6 +32,14 @@
       "word": "宗馥莉",
       "onboard_time": 1708835080,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3038201,
+      "num": 3038201,
+      "word": "比亚迪为劝架车主奖励20万",
+      "onboard_time": 1708846292,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -209,6 +217,14 @@
       "onboard_time": 1708836821,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 903558,
+      "num": 903558,
+      "word": "二月查到好成绩 七月拿到录取通知书",
+      "onboard_time": 1708844853,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 889618,
@@ -443,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 508655,
+      "num": 508655,
+      "word": "腿姐 明天的你已经在录取名单里了",
+      "onboard_time": 1708844255,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 501704,
       "num": 501704,
       "word": "黑龙江佳木斯一高层建筑起火",
@@ -483,6 +507,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463463,
+      "num": 463463,
+      "word": "金莎和男友年底见家长",
+      "onboard_time": 1708847371,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 463191,
+      "num": 463191,
+      "word": "军艺校草",
+      "onboard_time": 1708845273,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 455285,
       "num": 455285,
       "word": "宗馥莉已开始接班",
@@ -521,14 +561,6 @@
       "onboard_time": 1708782218,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 428533,
-      "num": 428533,
-      "word": "二月查到好成绩 七月拿到录取通知书",
-      "onboard_time": 1708844853,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 424438,
@@ -627,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391301,
+      "num": 391301,
+      "word": "白血病女孩长胖40斤笑称蛮可爱",
+      "onboard_time": 1708847072,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389707,
       "num": 389707,
       "word": "赵继伟防守 白给",
@@ -635,12 +675,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 370929,
+      "raw_hot": 378145,
       "num": 324044,
       "word": "朋友圈点赞是一种交易",
       "onboard_time": 1708845393,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 366271,
+      "num": 366271,
+      "word": "最惨文科专业",
+      "onboard_time": 1708848332,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 364658,
@@ -691,12 +739,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 343450,
-      "num": 343450,
-      "word": "腿姐 明天的你已经在录取名单里了",
-      "onboard_time": 1708844255,
-      "rank": 23,
-      "category": "教育"
+      "raw_hot": 334821,
+      "num": 294720,
+      "word": "宗庆后一年花费不到5万",
+      "onboard_time": 1708846891,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327363,
@@ -713,14 +761,6 @@
       "onboard_time": 1708832792,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 322982,
-      "num": 322982,
-      "word": "军艺校草",
-      "onboard_time": 1708845273,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 320388,
@@ -745,6 +785,14 @@
       "onboard_time": 1708844734,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 314933,
+      "num": 314933,
+      "word": "中国男篮88年首负日本",
+      "onboard_time": 1708848453,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 312750,
@@ -795,12 +843,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296123,
+      "num": 296123,
+      "word": "胡金秋哭了",
+      "onboard_time": 1708846593,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295470,
       "num": 276789,
       "word": "娃哈哈官网变为灰色",
       "onboard_time": 1708840895,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282851,
+      "num": 282851,
+      "word": "熬夜后千万别做2件事",
+      "onboard_time": 1708846891,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 279613,
@@ -851,6 +915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 261690,
+      "num": 261690,
+      "word": "飞驰2破30亿全员发三行诗",
+      "onboard_time": 1708848570,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 261040,
       "num": 261040,
       "word": "黄龄演繁花曾被换角",
@@ -873,6 +945,14 @@
       "onboard_time": 1708844556,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255377,
+      "num": 255377,
+      "word": "乔尔杰维奇怒斥记者",
+      "onboard_time": 1708847792,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 254668,
@@ -1059,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215884,
+      "num": 215884,
+      "word": "娃哈哈",
+      "onboard_time": 1708847252,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211472,
       "num": 211472,
       "word": "孙颖莎采访",
@@ -1139,12 +1227,12 @@
       "category": "幽默,网红"
     },
     {
-      "raw_hot": 199878,
-      "num": 199878,
-      "word": "比亚迪为劝架车主奖励20万",
-      "onboard_time": 1708846292,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 200119,
+      "num": 200119,
+      "word": "KPL",
+      "onboard_time": 1708847914,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 199700,
@@ -1161,6 +1249,14 @@
       "onboard_time": 1708821990,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196887,
+      "num": 196887,
+      "word": "中国男篮最后一攻选择",
+      "onboard_time": 1708846411,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 195639,
@@ -1291,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180662,
+      "num": 180662,
+      "word": "桃花癫",
+      "onboard_time": 1708847252,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 180517,
       "num": 180517,
       "word": "我拒绝了他们的拒绝",
@@ -1393,6 +1497,14 @@
       "onboard_time": 1708835318,
       "rank": 41,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 168031,
+      "num": 168031,
+      "word": "宾利司机打人事件劝架律师发声",
+      "onboard_time": 1708847313,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166702,
@@ -1691,11 +1803,11 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 130232,
-      "num": 130232,
-      "word": "中国男篮最后一攻选择",
-      "onboard_time": 1708846411,
-      "rank": 48,
+      "raw_hot": 129109,
+      "num": 129109,
+      "word": "胡明轩关键失误",
+      "onboard_time": 1708846593,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -1793,6 +1905,14 @@
       "onboard_time": 1708818746,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103288,
+      "num": 1260102,
+      "word": "子弟兵奋战9小时雪中抢通川藏线",
+      "onboard_time": 1708847851,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85387,
@@ -1964,6 +2084,9 @@
     },
     {
       "word": "#唱好京津双城记共同打造区域发展高地#"
+    },
+    {
+      "word": "#瓣瓣同心心相连#"
     }
   ]
 }
