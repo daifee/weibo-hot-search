@@ -1,0 +1,410 @@
+{
+  "runTime": 1708870482478,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2920399,
+        "num": 2920399,
+        "word": "国乒男团11连冠",
+        "onboard_time": 1708866577,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1569865,
+        "num": 1569865,
+        "word": "为何年轻人上班不愿意精致打扮",
+        "onboard_time": 1708863756,
+        "rank": 1,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 231888,
+        "num": 1528851,
+        "word": "春节档电影前4名累计票房破100亿",
+        "onboard_time": 1708867534,
+        "rank": 2,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1522018,
+        "num": 1522018,
+        "word": "马龙说这是我最后一届世锦赛",
+        "onboard_time": 1708868193,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1240024,
+        "num": 1240024,
+        "word": "张小斐曾陪贾玲考研自己考上了",
+        "onboard_time": 1708869692,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1016246,
+        "num": 1016246,
+        "word": "杭州劝架车主想的是能救两个人",
+        "onboard_time": 1708866820,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 996842,
+        "num": 996842,
+        "word": "女校长称微信群不雅视频非本人发",
+        "onboard_time": 1708865855,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 952600,
+        "num": 952600,
+        "word": "刘诗雯给韩国男团颁奖",
+        "onboard_time": 1708868676,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 900898,
+        "num": 900898,
+        "word": "姚玉玲结局",
+        "onboard_time": 1708860154,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 870126,
+        "num": 870126,
+        "word": "与女主播发生关系住持已被注销戒牒",
+        "onboard_time": 1708853436,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846300,
+        "num": 846300,
+        "word": "樊振东孙颖莎世乒赛MVP",
+        "onboard_time": 1708868193,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 829947,
+        "num": 829947,
+        "word": "刘诗诗池昌旭坐一起",
+        "onboard_time": 1708862494,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 516135,
+        "num": 516135,
+        "word": "Makiyo瘦脱相",
+        "onboard_time": 1708869755,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485721,
+        "num": 485721,
+        "word": "王皓情绪价值拉满",
+        "onboard_time": 1708866096,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454183,
+        "num": 454183,
+        "word": "种地吧2被质疑的原因",
+        "onboard_time": 1708864057,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449614,
+        "num": 449614,
+        "word": "为什么要让马魁牺牲",
+        "onboard_time": 1708861955,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444760,
+        "num": 444760,
+        "word": "宗庆后逝世",
+        "onboard_time": 1708833453,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411929,
+        "num": 411929,
+        "word": "演员李影去世",
+        "onboard_time": 1708861893,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402271,
+        "num": 402271,
+        "word": "鹿晗穿睡衣被背篓赶集",
+        "onboard_time": 1708869937,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 382964,
+        "num": 382964,
+        "word": "比亚迪为劝架车主奖励20万",
+        "onboard_time": 1708846292,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507051,
+        "num": 381487,
+        "word": "妻子四胎准备出院男子跪谢妻子",
+        "onboard_time": 1708861473,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421615,
+        "num": 374495,
+        "word": "蔡徐坤ins",
+        "onboard_time": 1708868493,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367376,
+        "num": 367376,
+        "word": "南来北往编剧",
+        "onboard_time": 1708865916,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355249,
+        "num": 355249,
+        "word": "成毅直播",
+        "onboard_time": 1708868014,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339139,
+        "num": 339139,
+        "word": "草莓价格腰斩了",
+        "onboard_time": 1708859254,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 353526,
+        "num": 338964,
+        "word": "黄圣依晒儿子近照",
+        "onboard_time": 1708869633,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338562,
+        "num": 338562,
+        "word": "樊振东黄牌",
+        "onboard_time": 1708863454,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94688,
+        "num": 334774,
+        "word": "没想到超跑还能这么玩",
+        "onboard_time": 1708866820,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 331759,
+        "num": 331759,
+        "word": "迪丽热巴紫罗兰公主",
+        "onboard_time": 1708857094,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 330722,
+        "num": 330722,
+        "word": "王楚钦敲了敲金牌",
+        "onboard_time": 1708870118,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308913,
+        "num": 308913,
+        "word": "宗庆后逝世三个侧影一个最大悬念",
+        "onboard_time": 1708862855,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244888,
+        "num": 244888,
+        "word": "看马龙打球是享受",
+        "onboard_time": 1708866697,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240885,
+        "num": 240885,
+        "word": "南来北往大结局",
+        "onboard_time": 1708861051,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238748,
+        "num": 238748,
+        "word": "女子发现门上被贴可疑U盘一把扔飞",
+        "onboard_time": 1708857454,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234290,
+        "num": 234290,
+        "word": "成年人的崩溃从生病开始",
+        "onboard_time": 1708867058,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227036,
+        "num": 227036,
+        "word": "肖战出发回国",
+        "onboard_time": 1708861710,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 226984,
+        "num": 226984,
+        "word": "再见了麻麻今晚我就要远航",
+        "onboard_time": 1708865735,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221042,
+        "num": 221042,
+        "word": "NIP对战LNG",
+        "onboard_time": 1708867475,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217134,
+        "num": 217134,
+        "word": "Angel赛后发博",
+        "onboard_time": 1708869033,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216038,
+        "num": 216038,
+        "word": "吃水果其实是件挺私密的事",
+        "onboard_time": 1708853069,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206194,
+        "num": 206194,
+        "word": "国乒男团vs法国男团",
+        "onboard_time": 1708857694,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205673,
+        "num": 205673,
+        "word": "刘诗诗和Cate打招呼",
+        "onboard_time": 1708868734,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203487,
+        "num": 203487,
+        "word": "国家体育总局称联合培养政策将优化",
+        "onboard_time": 1708863998,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199216,
+        "num": 199216,
+        "word": "金晨马燕短发",
+        "onboard_time": 1708868314,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196112,
+        "num": 196112,
+        "word": "比亚迪公关",
+        "onboard_time": 1708852293,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 184873,
+        "num": 184873,
+        "word": "肺癌的9种常见表现",
+        "onboard_time": 1708864178,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180144,
+        "num": 180144,
+        "word": "久哲发博说Hero无敌",
+        "onboard_time": 1708868853,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172340,
+        "num": 172340,
+        "word": "吴宣仪发文谈出道8周年",
+        "onboard_time": 1708864593,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171613,
+        "num": 171613,
+        "word": "刘诗诗状态太好了",
+        "onboard_time": 1708861230,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 165450,
+        "num": 165450,
+        "word": "樊振东釜山世乒赛8战全胜",
+        "onboard_time": 1708870417,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}
