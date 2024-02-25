@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708857237132,
+  "endTime": 1708859654230,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 844970,
+      "num": 844970,
+      "word": "迪丽热巴紫罗兰公主",
+      "onboard_time": 1708857094,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 827735,
       "num": 827735,
       "word": "欧阳娜娜徐正溪情头",
@@ -320,6 +328,14 @@
       "word": "雷军称宗庆后是一代传奇",
       "onboard_time": 1708841019,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699452,
+      "num": 699452,
+      "word": "反诈老陈喊话全国警方求工作",
+      "onboard_time": 1708855894,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -385,6 +401,14 @@
       "onboard_time": 1708788875,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 635512,
+      "num": 635512,
+      "word": "小尼从来不用尼格买提对不上表情包",
+      "onboard_time": 1708856616,
+      "rank": 14,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 633665,
@@ -507,20 +531,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 564608,
+      "num": 564608,
+      "word": "比亚迪车主讲述劝架救人细节",
+      "onboard_time": 1708858114,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 560077,
       "num": 560077,
       "word": "阚清子赛车",
       "onboard_time": 1708840233,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 553075,
-      "num": 553075,
-      "word": "反诈老陈喊话全国警方求工作",
-      "onboard_time": 1708855894,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 548943,
@@ -555,6 +579,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 523323,
+      "num": 523323,
+      "word": "纪凌尘演技",
+      "onboard_time": 1708858473,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 518566,
       "num": 518566,
       "word": "朱梓骁说直播带货才是后路",
@@ -569,6 +601,14 @@
       "onboard_time": 1708847371,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 516999,
+      "num": 516999,
+      "word": "国乒男团vs法国男团",
+      "onboard_time": 1708857694,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 514235,
@@ -609,6 +649,14 @@
       "onboard_time": 1708792470,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 500355,
+      "num": 500355,
+      "word": "千金在中国过的第一个元宵节",
+      "onboard_time": 1708855836,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 493364,
@@ -673,6 +721,14 @@
       "onboard_time": 1708784736,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437693,
+      "num": 437693,
+      "word": "许昕坐在马龙身边",
+      "onboard_time": 1708857812,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 436919,
@@ -787,14 +843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 397968,
-      "num": 397968,
-      "word": "千金在中国过的第一个元宵节",
-      "onboard_time": 1708855836,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 397475,
       "num": 397475,
       "word": "郝蕾回应之前怼金莎",
@@ -809,14 +857,6 @@
       "onboard_time": 1708777660,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 392670,
-      "num": 392670,
-      "word": "小尼从来不用尼格买提对不上表情包",
-      "onboard_time": 1708856616,
-      "rank": 14,
-      "category": "艺人,幽默"
     },
     {
       "raw_hot": 391633,
@@ -905,6 +945,22 @@
       "onboard_time": 1708804999,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 342591,
+      "num": 342591,
+      "word": "成毅李一桐虐戏路透",
+      "onboard_time": 1708857631,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 341658,
+      "num": 341658,
+      "word": "女子发现门上被贴可疑U盘一把扔飞",
+      "onboard_time": 1708857454,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334821,
@@ -1011,6 +1067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 300799,
+      "num": 300799,
+      "word": "刘诗诗米兰时装周",
+      "onboard_time": 1708851752,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 296833,
       "num": 296833,
       "word": "南京此次火灾为何伤亡严重",
@@ -1107,12 +1171,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 274161,
+      "num": 274161,
+      "word": "原来好的家庭氛围是这样的",
+      "onboard_time": 1708855416,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273784,
       "num": 273784,
       "word": "世上最残忍的事情之一",
       "onboard_time": 1708838498,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 270800,
+      "num": 270800,
+      "word": "董宇辉称不知自己的影响正面还是负面",
+      "onboard_time": 1708859615,
+      "rank": 25,
+      "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 269233,
+      "num": 269233,
+      "word": "草莓价格腰斩了",
+      "onboard_time": 1708859254,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 262064,
@@ -1169,14 +1257,6 @@
       "onboard_time": 1708840595,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 253934,
-      "num": 253934,
-      "word": "刘诗诗米兰时装周",
-      "onboard_time": 1708851752,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 251722,
@@ -1331,14 +1411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 224474,
-      "num": 224474,
-      "word": "原来好的家庭氛围是这样的",
-      "onboard_time": 1708855416,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 223010,
       "num": 223010,
       "word": "票房",
@@ -1395,12 +1467,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 211875,
+      "num": 211875,
+      "word": "别对我动心",
+      "onboard_time": 1708858893,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211472,
       "num": 211472,
       "word": "孙颖莎采访",
       "onboard_time": 1708789176,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211379,
+      "num": 211379,
+      "word": "管泽元解说",
+      "onboard_time": 1708856433,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 210486,
@@ -1451,14 +1539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206240,
-      "num": 206240,
-      "word": "管泽元解说",
-      "onboard_time": 1708856433,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 205295,
       "num": 205295,
       "word": "特朗普在南卡罗来纳州共和党初选中胜出",
@@ -1481,14 +1561,6 @@
       "onboard_time": 1708843952,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200767,
-      "num": 194451,
-      "word": "迪丽热巴紫罗兰公主",
-      "onboard_time": 1708857094,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 200701,
@@ -1579,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192288,
+      "num": 192288,
+      "word": "时装周",
+      "onboard_time": 1708858775,
+      "rank": 33,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 189507,
       "num": 189507,
       "word": "娃哈哈将驶向何方",
@@ -1593,6 +1673,14 @@
       "onboard_time": 1708836457,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189025,
+      "num": 189025,
+      "word": "阿云嘎忘刮胡子了",
+      "onboard_time": 1708858714,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188938,
@@ -1803,6 +1891,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 168235,
+      "num": 168235,
+      "word": "猎冰",
+      "onboard_time": 1708858232,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167165,
       "num": 167165,
       "word": "星痕的姬小满",
@@ -1881,6 +1977,14 @@
       "onboard_time": 1708828716,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159449,
+      "num": 159449,
+      "word": "网友集体晒AD钙奶悼念宗庆后",
+      "onboard_time": 1708859494,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157718,
