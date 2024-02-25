@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708835653410,
+  "endTime": 1708838174706,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -649,6 +649,14 @@
       "onboard_time": 1708325438,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3354866,
+      "num": 3354866,
+      "word": "宗馥莉",
+      "onboard_time": 1708835080,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3340955,
@@ -2417,6 +2425,14 @@
       "onboard_time": 1707383550,
       "rank": 7,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1905353,
+      "num": 1905353,
+      "word": "王力宏 娃哈哈矿泉水",
+      "onboard_time": 1708836762,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1901256,
@@ -6139,6 +6155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1105288,
+      "num": 1105288,
+      "word": "赵丽娜直播痛哭",
+      "onboard_time": 1708832253,
+      "rank": 10,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 1104266,
       "num": 1104266,
       "word": "杜乐莹 我生下来是你妹妹",
@@ -7411,14 +7435,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 964760,
-      "num": 964760,
-      "word": "赵丽娜直播痛哭",
-      "onboard_time": 1708832253,
-      "rank": 10,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 964519,
       "num": 745409,
       "word": "郑爽境内外资产单一项就超过2.3亿",
@@ -8539,6 +8555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 876524,
+      "num": 876524,
+      "word": "女继承人时代来了",
+      "onboard_time": 1708836821,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 876304,
       "num": 876304,
       "word": "A股创业板指跌至3%",
@@ -8729,14 +8753,6 @@
       "onboard_time": 1706744783,
       "rank": 4,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 862699,
-      "num": 763295,
-      "word": "宗馥莉",
-      "onboard_time": 1708835080,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 862534,
@@ -16460,7 +16476,7 @@
     },
     {
       "raw_hot": 527784,
-      "num": 266670,
+      "num": 460265,
       "word": "G7联合声明竟公开点名中国",
       "onboard_time": 1708833876,
       "rank": 30,
@@ -17193,6 +17209,14 @@
       "onboard_time": 1707559296,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 508268,
+      "num": 508268,
+      "word": "全网寻找宾利司机打人事件劝架大哥",
+      "onboard_time": 1708835382,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 507988,
@@ -18153,6 +18177,14 @@
       "onboard_time": 1707535839,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 483199,
+      "num": 483199,
+      "word": "南京又一小区深夜突发火灾",
+      "onboard_time": 1708834477,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483163,
@@ -21139,6 +21171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 410913,
+      "num": 410913,
+      "word": "宗庆后曾三度问鼎首富",
+      "onboard_time": 1708836636,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410872,
       "num": 410872,
       "word": "郭德纲否认父子不和",
@@ -21921,6 +21961,14 @@
       "onboard_time": 1707526537,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395845,
+      "num": 395845,
+      "word": "中国男篮vs日本男篮",
+      "onboard_time": 1708837180,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 395781,
@@ -23619,6 +23667,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 364658,
+      "num": 364658,
+      "word": "宁静黄龄至今没有互加微信",
+      "onboard_time": 1708834780,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364569,
       "num": 364569,
       "word": "白鹿情商",
@@ -23705,14 +23761,6 @@
       "onboard_time": 1707177086,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 363070,
-      "num": 363070,
-      "word": "南京又一小区深夜突发火灾",
-      "onboard_time": 1708834477,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 362995,
@@ -24273,6 +24321,14 @@
       "onboard_time": 1707544414,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353369,
+      "num": 353369,
+      "word": "宗馥莉已开始接班",
+      "onboard_time": 1708837359,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 353300,
@@ -25371,6 +25427,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 331193,
+      "num": 331193,
+      "word": "女乒艰难夺冠教练组战术合理吗",
+      "onboard_time": 1708836339,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331189,
       "num": 331189,
       "word": "过年做美甲要注意4点",
@@ -25929,6 +25993,14 @@
       "onboard_time": 1707405214,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323195,
+      "num": 323195,
+      "word": "8种体检异常不必太担心",
+      "onboard_time": 1708832792,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 323187,
@@ -26715,14 +26787,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 311602,
-      "num": 311602,
-      "word": "8种体检异常不必太担心",
-      "onboard_time": 1708832792,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 311495,
       "num": 311495,
       "word": "王艺迪",
@@ -26897,6 +26961,14 @@
       "onboard_time": 1708065993,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 309196,
+      "num": 309196,
+      "word": "马立奥一天吃八顿",
+      "onboard_time": 1708836821,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 309094,
@@ -28041,14 +28113,6 @@
       "onboard_time": 1708322857,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 295572,
-      "num": 295572,
-      "word": "宁静黄龄至今没有互加微信",
-      "onboard_time": 1708834780,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 295523,
@@ -35811,6 +35875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225891,
+      "num": 225891,
+      "word": "星穹铁道花火",
+      "onboard_time": 1708837423,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 225836,
       "num": 225836,
       "word": "上证指数",
@@ -37731,6 +37803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 214983,
+      "num": 214983,
+      "word": "考研查分上岸让喜极而泣有了具象化",
+      "onboard_time": 1708836040,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 214968,
       "num": 214968,
       "word": "蜀锦人家阵容官宣",
@@ -38409,6 +38489,14 @@
       "onboard_time": 1708320332,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210486,
+      "num": 210486,
+      "word": "周也林一 爆头姐心动哥",
+      "onboard_time": 1708835982,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 210425,
@@ -43835,6 +43923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189176,
+      "num": 189176,
+      "word": "宗庆后生平回顾",
+      "onboard_time": 1708836457,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189123,
       "num": 189123,
       "word": "鹿晗实体专辑有小卡",
@@ -44369,6 +44465,14 @@
       "onboard_time": 1707885692,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186897,
+      "num": 186897,
+      "word": "魏大勋晚会vlog",
+      "onboard_time": 1708837718,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 186881,
@@ -45844,7 +45948,7 @@
     },
     {
       "raw_hot": 179622,
-      "num": 1965905,
+      "num": 2491332,
       "word": "春天限量版的绝美配色",
       "onboard_time": 1708828295,
       "rank": 42,
@@ -46264,14 +46368,6 @@
       "word": "川S牌车坚强车主发声",
       "onboard_time": 1707471692,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177932,
-      "num": 177932,
-      "word": "全网寻找宾利司机打人事件劝架大哥",
-      "onboard_time": 1708835382,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -49321,6 +49417,14 @@
       "onboard_time": 1708756712,
       "rank": 38,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 165968,
+      "num": 165968,
+      "word": "娃哈哈 从小喝到大",
+      "onboard_time": 1708836520,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 165890,
@@ -55745,6 +55849,14 @@
       "onboard_time": 1706787091,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139306,
+      "num": 139306,
+      "word": "小金毛 知道安全带的重要性了",
+      "onboard_time": 1708835679,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 139297,

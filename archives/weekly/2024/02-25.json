@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708835653410,
+  "endTime": 1708838174706,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3354866,
+      "num": 3354866,
+      "word": "宗馥莉",
+      "onboard_time": 1708835080,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2362388,
       "num": 2362388,
       "word": "警方通报杭州高架伤人事件",
@@ -49,6 +57,14 @@
       "onboard_time": 1708785635,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1905353,
+      "num": 1905353,
+      "word": "王力宏 娃哈哈矿泉水",
+      "onboard_time": 1708836762,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1783862,
@@ -115,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1105288,
+      "num": 1105288,
+      "word": "赵丽娜直播痛哭",
+      "onboard_time": 1708832253,
+      "rank": 10,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 991988,
       "num": 991988,
       "word": "何炅工作室发了双北",
@@ -139,14 +163,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 964760,
-      "num": 964760,
-      "word": "赵丽娜直播痛哭",
-      "onboard_time": 1708832253,
-      "rank": 10,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 934886,
       "num": 934886,
       "word": "中学生发现微信抢最大红包秘诀",
@@ -155,19 +171,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 876524,
+      "num": 876524,
+      "word": "女继承人时代来了",
+      "onboard_time": 1708836821,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 866104,
       "num": 866104,
       "word": "玩王者花掉外婆一万六自称人生无常",
       "onboard_time": 1708821869,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 862699,
-      "num": 763295,
-      "word": "宗馥莉",
-      "onboard_time": 1708835080,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 527784,
-      "num": 266670,
+      "num": 460265,
       "word": "G7联合声明竟公开点名中国",
       "onboard_time": 1708833876,
       "rank": 30,
@@ -353,6 +369,14 @@
       "onboard_time": 1708818264,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 508268,
+      "num": 508268,
+      "word": "全网寻找宾利司机打人事件劝架大哥",
+      "onboard_time": 1708835382,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 501704,
@@ -387,11 +411,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 483199,
+      "num": 483199,
+      "word": "南京又一小区深夜突发火灾",
+      "onboard_time": 1708834477,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438072,
       "num": 300936,
       "word": "女子假胖20年意外瘦身60斤",
       "onboard_time": 1708784736,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436919,
+      "num": 436919,
+      "word": "新疆地震",
+      "onboard_time": 1708835382,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -409,6 +449,14 @@
       "onboard_time": 1708832312,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 410913,
+      "num": 410913,
+      "word": "宗庆后曾三度问鼎首富",
+      "onboard_time": 1708836636,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407910,
@@ -451,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 395845,
+      "num": 395845,
+      "word": "中国男篮vs日本男篮",
+      "onboard_time": 1708837180,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 393059,
       "num": 393059,
       "word": "尼格买提对上了",
@@ -464,6 +520,14 @@
       "word": "河南卫视 上春山",
       "onboard_time": 1708774958,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 364658,
+      "num": 364658,
+      "word": "宁静黄龄至今没有互加微信",
+      "onboard_time": 1708834780,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -483,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 363070,
-      "num": 363070,
-      "word": "南京又一小区深夜突发火灾",
-      "onboard_time": 1708834477,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 360481,
       "num": 283946,
       "word": "4个汤圆热量相当于一碗米饭",
@@ -507,12 +563,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 352018,
-      "num": 352018,
-      "word": "新疆地震",
-      "onboard_time": 1708835382,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 353369,
+      "num": 353369,
+      "word": "宗馥莉已开始接班",
+      "onboard_time": 1708837359,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 331193,
+      "num": 331193,
+      "word": "女乒艰难夺冠教练组战术合理吗",
+      "onboard_time": 1708836339,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 327363,
@@ -521,6 +585,14 @@
       "onboard_time": 1708788339,
       "rank": 18,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 323195,
+      "num": 323195,
+      "word": "8种体检异常不必太担心",
+      "onboard_time": 1708832792,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 320388,
@@ -555,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 311602,
-      "num": 311602,
-      "word": "8种体检异常不必太担心",
-      "onboard_time": 1708832792,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 311495,
       "num": 311495,
       "word": "王艺迪",
@@ -579,20 +643,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 309196,
+      "num": 309196,
+      "word": "马立奥一天吃八顿",
+      "onboard_time": 1708836821,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296833,
       "num": 296833,
       "word": "南京此次火灾为何伤亡严重",
       "onboard_time": 1708830514,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 295572,
-      "num": 295572,
-      "word": "宁静黄龄至今没有互加微信",
-      "onboard_time": 1708834780,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 278577,
@@ -763,6 +827,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225891,
+      "num": 225891,
+      "word": "星穹铁道花火",
+      "onboard_time": 1708837423,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 223010,
+      "num": 223010,
+      "word": "票房",
+      "onboard_time": 1708836163,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219754,
       "num": 219754,
       "word": "肖战跨国请客",
@@ -771,12 +851,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214983,
+      "num": 214983,
+      "word": "考研查分上岸让喜极而泣有了具象化",
+      "onboard_time": 1708836040,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 211472,
       "num": 211472,
       "word": "孙颖莎采访",
       "onboard_time": 1708789176,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210486,
+      "num": 210486,
+      "word": "周也林一 爆头姐心动哥",
+      "onboard_time": 1708835982,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 208322,
@@ -843,12 +939,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189176,
+      "num": 189176,
+      "word": "宗庆后生平回顾",
+      "onboard_time": 1708836457,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188938,
       "num": 188938,
       "word": "合肥地震",
       "onboard_time": 1708770033,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186897,
+      "num": 186897,
+      "word": "魏大勋晚会vlog",
+      "onboard_time": 1708837718,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 186523,
@@ -892,7 +1004,7 @@
     },
     {
       "raw_hot": 179622,
-      "num": 1965905,
+      "num": 2491332,
       "word": "春天限量版的绝美配色",
       "onboard_time": 1708828295,
       "rank": 42,
@@ -913,14 +1025,6 @@
       "onboard_time": 1708783476,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177932,
-      "num": 177932,
-      "word": "全网寻找宾利司机打人事件劝架大哥",
-      "onboard_time": 1708835382,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177870,
@@ -1009,6 +1113,14 @@
       "onboard_time": 1708790555,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165968,
+      "num": 165968,
+      "word": "娃哈哈 从小喝到大",
+      "onboard_time": 1708836520,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 163863,
@@ -1145,6 +1257,14 @@
       "onboard_time": 1708824574,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139306,
+      "num": 139306,
+      "word": "小金毛 知道安全带的重要性了",
+      "onboard_time": 1708835679,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 139281,
