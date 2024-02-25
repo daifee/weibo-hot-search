@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708871639980,
+  "endTime": 1708874135482,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1773524,
+      "num": 1773524,
+      "word": "袁姗姗鼻子",
+      "onboard_time": 1708871918,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1721784,
       "num": 1721784,
       "word": "刘诗诗池昌旭坐一起",
@@ -169,6 +177,14 @@
       "onboard_time": 1708832972,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1600170,
+      "num": 1600170,
+      "word": "秦牛正威晒与未婚夫合照",
+      "onboard_time": 1708870776,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1522018,
@@ -241,6 +257,14 @@
       "onboard_time": 1708864775,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1207536,
+      "num": 629139,
+      "word": "罗志祥回应什么时候来内地",
+      "onboard_time": 1708871017,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1181182,
@@ -475,12 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 801577,
-      "num": 781025,
-      "word": "秦牛正威晒与未婚夫合照",
-      "onboard_time": 1708870776,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 816722,
+      "num": 816722,
+      "word": "张艺兴跳了咆哮",
+      "onboard_time": 1708871198,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 781445,
@@ -625,6 +649,14 @@
       "onboard_time": 1708818204,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 632823,
+      "num": 632823,
+      "word": "AD钙奶",
+      "onboard_time": 1708871135,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 627423,
@@ -883,14 +915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 498723,
-      "num": 498723,
-      "word": "罗志祥回应什么时候来内地",
-      "onboard_time": 1708871017,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 496205,
       "num": 496205,
       "word": "王楚钦敲了敲金牌",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1708868493,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417579,
+      "num": 417579,
+      "word": "唐嫣去巴黎吃麻辣烫",
+      "onboard_time": 1708871499,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 414402,
@@ -1243,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349841,
+      "num": 348935,
+      "word": "迪丽热巴活动憋笑",
+      "onboard_time": 1708873237,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 348320,
       "num": 348320,
       "word": "樊振东主动示意擦边",
@@ -1251,20 +1291,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 348217,
-      "num": 348217,
-      "word": "张艺兴跳了咆哮",
-      "onboard_time": 1708871198,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 344991,
       "num": 344991,
       "word": "网友集体晒AD钙奶悼念宗庆后",
       "onboard_time": 1708859494,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344209,
+      "num": 344209,
+      "word": "再也不想给室友带土特产了",
+      "onboard_time": 1708872460,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 342591,
@@ -1467,6 +1507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 287257,
+      "num": 287257,
+      "word": "林诗栋",
+      "onboard_time": 1708873716,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284727,
       "num": 260624,
       "word": "迪丽热巴被送玫瑰花",
@@ -1475,20 +1523,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 284096,
-      "num": 284096,
-      "word": "AD钙奶",
-      "onboard_time": 1708871135,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283542,
       "num": 283542,
       "word": "黄旭熙担心自己没粉丝了",
       "onboard_time": 1708850553,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281125,
+      "num": 281125,
+      "word": "世界之外",
+      "onboard_time": 1708872997,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 279774,
@@ -1555,12 +1603,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 273286,
-      "num": 235953,
-      "word": "唐嫣去巴黎吃麻辣烫",
-      "onboard_time": 1708871499,
-      "rank": 35,
-      "category": "作品衍生"
+      "raw_hot": 273387,
+      "num": 273387,
+      "word": "25岁的美短猫咪太棒了",
+      "onboard_time": 1708871315,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 262064,
@@ -1625,6 +1673,14 @@
       "onboard_time": 1708867058,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253290,
+      "num": 253290,
+      "word": "范丞丞这张全家福就差我了",
+      "onboard_time": 1708873774,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 252894,
@@ -1780,7 +1836,7 @@
     },
     {
       "raw_hot": 231888,
-      "num": 1528851,
+      "num": 1610248,
       "word": "春节档电影前4名累计票房破100亿",
       "onboard_time": 1708867534,
       "rank": 2,
@@ -1800,14 +1856,6 @@
       "word": "第一次见婚纱穿出铠甲的感觉",
       "onboard_time": 1708793846,
       "rank": 19,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 229178,
-      "num": 229178,
-      "word": "25岁的美短猫咪太棒了",
-      "onboard_time": 1708871315,
-      "rank": 37,
       "category": "幽默"
     },
     {
@@ -1995,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206154,
+      "num": 196251,
+      "word": "NCT127 上海签售",
+      "onboard_time": 1708873358,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205673,
       "num": 205673,
       "word": "刘诗诗和Cate打招呼",
@@ -2147,6 +2203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193639,
+      "num": 193639,
+      "word": "安香怡自由滑",
+      "onboard_time": 1708873478,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193588,
       "num": 193588,
       "word": "于适煮柿子汤圆",
@@ -2177,6 +2241,14 @@
       "onboard_time": 1708858775,
       "rank": 33,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 189806,
+      "num": 189806,
+      "word": "狗突然秃顶了怎么办",
+      "onboard_time": 1708873596,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 189507,
@@ -2304,6 +2376,14 @@
       "word": "上春山 神龙吐水",
       "onboard_time": 1708830032,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 180757,
+      "num": 180757,
+      "word": "梁家辉叶童 教科书演技",
+      "onboard_time": 1708873657,
+      "rank": 45,
       "category": "综艺"
     },
     {

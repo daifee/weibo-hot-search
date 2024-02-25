@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708871639980,
+  "endTime": 1708874135482,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2851,6 +2851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1773524,
+      "num": 1773524,
+      "word": "袁姗姗鼻子",
+      "onboard_time": 1708871918,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1771254,
       "num": 1771254,
       "word": "占山头",
@@ -3449,6 +3457,14 @@
       "onboard_time": 1707479622,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1600170,
+      "num": 1600170,
+      "word": "秦牛正威晒与未婚夫合照",
+      "onboard_time": 1708870776,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1595724,
@@ -5432,6 +5448,14 @@
       "word": "王灿说嫁给杜淳前已经财富自由",
       "onboard_time": 1707997956,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1207536,
+      "num": 629139,
+      "word": "罗志祥回应什么时候来内地",
+      "onboard_time": 1708871017,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -9715,6 +9739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 816722,
+      "num": 816722,
+      "word": "张艺兴跳了咆哮",
+      "onboard_time": 1708871198,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 816453,
       "num": 816453,
       "word": "巴黎圣母院上春晚",
@@ -9985,14 +10017,6 @@
       "onboard_time": 1707108213,
       "rank": 6,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 801577,
-      "num": 781025,
-      "word": "秦牛正威晒与未婚夫合照",
-      "onboard_time": 1708870776,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 800580,
@@ -13721,6 +13745,14 @@
       "onboard_time": 1708682435,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 632823,
+      "num": 632823,
+      "word": "AD钙奶",
+      "onboard_time": 1708871135,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 632792,
@@ -18091,14 +18123,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 498723,
-      "num": 498723,
-      "word": "罗志祥回应什么时候来内地",
-      "onboard_time": 1708871017,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 498404,
       "num": 498404,
       "word": "长江大学回应大雪压塌学校食堂",
@@ -21441,6 +21465,14 @@
       "onboard_time": 1707282571,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 417579,
+      "num": 417579,
+      "word": "唐嫣去巴黎吃麻辣烫",
+      "onboard_time": 1708871499,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 417570,
@@ -25179,6 +25211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349841,
+      "num": 348935,
+      "word": "迪丽热巴活动憋笑",
+      "onboard_time": 1708873237,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 349739,
       "num": 349739,
       "word": "北京明确不安排一线教师寒假值班",
@@ -25265,14 +25305,6 @@
       "onboard_time": 1708424617,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 348217,
-      "num": 348217,
-      "word": "张艺兴跳了咆哮",
-      "onboard_time": 1708871198,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 348097,
@@ -25457,6 +25489,14 @@
       "onboard_time": 1707896134,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 344209,
+      "num": 344209,
+      "word": "再也不想给室友带土特产了",
+      "onboard_time": 1708872460,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 344156,
@@ -29699,6 +29739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287257,
+      "num": 287257,
+      "word": "林诗栋",
+      "onboard_time": 1708873716,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287202,
       "num": 287202,
       "word": "0713是懂煽情的",
@@ -29971,14 +30019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 284096,
-      "num": 284096,
-      "word": "AD钙奶",
-      "onboard_time": 1708871135,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284038,
       "num": 284038,
       "word": "张天爱公主抱160斤新浪员工",
@@ -30193,6 +30233,14 @@
       "onboard_time": 1708512455,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 281125,
+      "num": 281125,
+      "word": "世界之外",
+      "onboard_time": 1707290132,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 281071,
@@ -31067,6 +31115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273387,
+      "num": 273387,
+      "word": "25岁的美短猫咪太棒了",
+      "onboard_time": 1708871315,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273351,
       "num": 273351,
       "word": "格莱美获奖名单",
@@ -31097,14 +31153,6 @@
       "onboard_time": 1708249771,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273286,
-      "num": 235953,
-      "word": "唐嫣去巴黎吃麻辣烫",
-      "onboard_time": 1708871499,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 273139,
@@ -33177,6 +33225,14 @@
       "onboard_time": 1708867058,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253290,
+      "num": 253290,
+      "word": "范丞丞这张全家福就差我了",
+      "onboard_time": 1708873774,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 253238,
@@ -36084,7 +36140,7 @@
     },
     {
       "raw_hot": 231888,
-      "num": 1528851,
+      "num": 1610248,
       "word": "春节档电影前4名累计票房破100亿",
       "onboard_time": 1708867534,
       "rank": 2,
@@ -36433,14 +36489,6 @@
       "onboard_time": 1708742673,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 229178,
-      "num": 229178,
-      "word": "25岁的美短猫咪太棒了",
-      "onboard_time": 1708871315,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 229009,
@@ -40539,6 +40587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206154,
+      "num": 196251,
+      "word": "NCT127 上海签售",
+      "onboard_time": 1708873358,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206101,
       "num": 206101,
       "word": "春节假期国内游人次达4.74亿",
@@ -43843,6 +43899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193639,
+      "num": 193639,
+      "word": "安香怡自由滑",
+      "onboard_time": 1708873478,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193632,
       "num": 193632,
       "word": "丁程鑫栗子发色",
@@ -44985,6 +45049,14 @@
       "onboard_time": 1707185670,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189806,
+      "num": 189806,
+      "word": "狗突然秃顶了怎么办",
+      "onboard_time": 1708873596,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 189699,
@@ -46977,6 +47049,14 @@
       "onboard_time": 1708573779,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180757,
+      "num": 180757,
+      "word": "梁家辉叶童 教科书演技",
+      "onboard_time": 1708873657,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 180728,
@@ -52105,14 +52185,6 @@
       "onboard_time": 1708245089,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160189,
-      "num": 160189,
-      "word": "世界之外",
-      "onboard_time": 1707290132,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 160188,
