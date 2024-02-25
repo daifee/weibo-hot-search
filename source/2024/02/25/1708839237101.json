@@ -1,0 +1,410 @@
+{
+  "runTime": 1708839237101,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7371596,
+        "num": 7371596,
+        "word": "宗庆后逝世",
+        "onboard_time": 1708833453,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3036283,
+        "num": 3036283,
+        "word": "宗馥莉",
+        "onboard_time": 1708835080,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136059,
+        "num": 2323342,
+        "word": "春天限量版的绝美配色",
+        "onboard_time": 1708828295,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2081823,
+        "num": 2081823,
+        "word": "王力宏 娃哈哈矿泉水",
+        "onboard_time": 1708836762,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 997989,
+        "num": 997989,
+        "word": "沙溢爆改",
+        "onboard_time": 1708832972,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 983740,
+        "num": 983740,
+        "word": "赵丽娜直播痛哭",
+        "onboard_time": 1708832253,
+        "rank": 5,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 925381,
+        "num": 925381,
+        "word": "女继承人时代来了",
+        "onboard_time": 1708836821,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639894,
+        "num": 639894,
+        "word": "杭州持械伤人宾利车主已被抓",
+        "onboard_time": 1708825835,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629250,
+        "num": 629250,
+        "word": "宾利宝马车主系表兄弟",
+        "onboard_time": 1708830216,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 588846,
+        "num": 588846,
+        "word": "全网寻找宾利司机打人事件劝架大哥",
+        "onboard_time": 1708835382,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534044,
+        "num": 534044,
+        "word": "韩雪谈去年沈月情绪失控",
+        "onboard_time": 1708838376,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 463040,
+        "num": 463040,
+        "word": "南京又一小区深夜突发火灾",
+        "onboard_time": 1708834477,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455285,
+        "num": 455285,
+        "word": "宗馥莉已开始接班",
+        "onboard_time": 1708837359,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 445573,
+        "num": 445573,
+        "word": "G7联合声明竟公开点名中国",
+        "onboard_time": 1708833876,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 405572,
+        "num": 405572,
+        "word": "娃哈哈集团讣告",
+        "onboard_time": 1708834596,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395294,
+        "num": 395294,
+        "word": "中国男篮vs日本男篮",
+        "onboard_time": 1708837180,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394915,
+        "num": 394915,
+        "word": "杨迪爆改后遗症",
+        "onboard_time": 1708838798,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388882,
+        "num": 388882,
+        "word": "曾志伟郝蕾起争执",
+        "onboard_time": 1708826858,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363482,
+        "num": 363482,
+        "word": "迪丽热巴暗黑魔女",
+        "onboard_time": 1708833994,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 350408,
+        "num": 350408,
+        "word": "拒绝汉字污名化",
+        "onboard_time": 1708831831,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341684,
+        "num": 341684,
+        "word": "宗庆后曾三度问鼎首富",
+        "onboard_time": 1708836636,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336081,
+        "num": 336081,
+        "word": "女乒艰难夺冠教练组战术合理吗",
+        "onboard_time": 1708836339,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326451,
+        "num": 326451,
+        "word": "新疆地震",
+        "onboard_time": 1708835382,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318354,
+        "num": 318354,
+        "word": "欧阳娜娜徐正溪情头",
+        "onboard_time": 1708832854,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299707,
+        "num": 299707,
+        "word": "宁静黄龄至今没有互加微信",
+        "onboard_time": 1708834780,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283867,
+        "num": 283867,
+        "word": "纪凌尘 你喜欢大海我爱过你很浪漫",
+        "onboard_time": 1708785635,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273855,
+        "num": 273855,
+        "word": "马立奥一天吃八顿",
+        "onboard_time": 1708836821,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249878,
+        "num": 249878,
+        "word": "米老鼠的坟墓叫什么",
+        "onboard_time": 1708832312,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248052,
+        "num": 248052,
+        "word": "8种体检异常不必太担心",
+        "onboard_time": 1708832792,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246535,
+        "num": 246535,
+        "word": "茶刀",
+        "onboard_time": 1708830636,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291579,
+        "num": 246185,
+        "word": "娃哈哈是我在这个世界上存在过的证明",
+        "onboard_time": 1708838856,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245221,
+        "num": 245221,
+        "word": "家人把我养了一年的兔子吃了",
+        "onboard_time": 1708831234,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238627,
+        "num": 238627,
+        "word": "被催婚10年今年没被催了",
+        "onboard_time": 1708829196,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237946,
+        "num": 237946,
+        "word": "杭州宾利",
+        "onboard_time": 1708816820,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223424,
+        "num": 223424,
+        "word": "考研查分上岸让喜极而泣有了具象化",
+        "onboard_time": 1708836040,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214517,
+        "num": 214517,
+        "word": "世上最残忍的事情之一",
+        "onboard_time": 1708838498,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204219,
+        "num": 204219,
+        "word": "沉痛悼念一位挚友",
+        "onboard_time": 1708838376,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198425,
+        "num": 198425,
+        "word": "穿Prada的女魔头卡司重聚",
+        "onboard_time": 1708826495,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190577,
+        "num": 190577,
+        "word": "星穹铁道花火",
+        "onboard_time": 1708837423,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188508,
+        "num": 188508,
+        "word": "单身女老师深陷杀猪盘被骗近400万",
+        "onboard_time": 1708825115,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180584,
+        "num": 180584,
+        "word": "考研 上岸",
+        "onboard_time": 1708827695,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164527,
+        "num": 164527,
+        "word": "水谷隼 孙颖莎太强了",
+        "onboard_time": 1708818204,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161450,
+        "num": 161450,
+        "word": "周也林一 爆头姐心动哥",
+        "onboard_time": 1708835982,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155212,
+        "num": 155212,
+        "word": "票房",
+        "onboard_time": 1708836163,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151955,
+        "num": 151955,
+        "word": "林允儿跳了Flower",
+        "onboard_time": 1708834960,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149941,
+        "num": 149941,
+        "word": "玩王者花掉外婆一万六自称人生无常",
+        "onboard_time": 1708821869,
+        "rank": 45,
+        "category": "社会新闻,游戏"
+      },
+      {
+        "raw_hot": 147784,
+        "num": 147784,
+        "word": "美式汤圆",
+        "onboard_time": 1708839155,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145760,
+        "num": 145760,
+        "word": "魏大勋晚会vlog",
+        "onboard_time": 1708837718,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144323,
+        "num": 144323,
+        "word": "赵昭仪李晋晔在录恋综吗",
+        "onboard_time": 1708823732,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135000,
+        "num": 135000,
+        "word": "60岁时第一次工作了",
+        "onboard_time": 1708833636,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#唱好京津双城记共同打造区域发展高地#"
+    }
+  }
+}

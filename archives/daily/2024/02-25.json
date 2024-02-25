@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708838174706,
+  "endTime": 1708839237101,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2081823,
+      "num": 2081823,
+      "word": "王力宏 娃哈哈矿泉水",
+      "onboard_time": 1708836762,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2023451,
       "num": 2023451,
       "word": "纪凌尘 你喜欢大海我爱过你很浪漫",
       "onboard_time": 1708785635,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1905353,
-      "num": 1905353,
-      "word": "王力宏 娃哈哈矿泉水",
-      "onboard_time": 1708836762,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1783862,
@@ -171,8 +171,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 876524,
-      "num": 876524,
+      "raw_hot": 925381,
+      "num": 925381,
       "word": "女继承人时代来了",
       "onboard_time": 1708836821,
       "rank": 6,
@@ -315,6 +315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 588846,
+      "num": 588846,
+      "word": "全网寻找宾利司机打人事件劝架大哥",
+      "onboard_time": 1708835382,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 587043,
       "num": 587043,
       "word": "金风玉露",
@@ -347,6 +355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 534044,
+      "num": 534044,
+      "word": "韩雪谈去年沈月情绪失控",
+      "onboard_time": 1708838376,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 527784,
       "num": 460265,
       "word": "G7联合声明竟公开点名中国",
@@ -369,14 +385,6 @@
       "onboard_time": 1708818264,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 508268,
-      "num": 508268,
-      "word": "全网寻找宾利司机打人事件劝架大哥",
-      "onboard_time": 1708835382,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 501704,
@@ -417,6 +425,14 @@
       "onboard_time": 1708834477,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 455285,
+      "num": 455285,
+      "word": "宗馥莉已开始接班",
+      "onboard_time": 1708837359,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 438072,
@@ -507,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 394915,
+      "num": 394915,
+      "word": "杨迪爆改后遗症",
+      "onboard_time": 1708838798,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393059,
       "num": 393059,
       "word": "尼格买提对上了",
@@ -563,16 +587,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 353369,
-      "num": 353369,
-      "word": "宗馥莉已开始接班",
-      "onboard_time": 1708837359,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 331193,
-      "num": 331193,
+      "raw_hot": 336081,
+      "num": 336081,
       "word": "女乒艰难夺冠教练组战术合理吗",
       "onboard_time": 1708836339,
       "rank": 22,
@@ -656,6 +672,14 @@
       "word": "南京此次火灾为何伤亡严重",
       "onboard_time": 1708830514,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291579,
+      "num": 246185,
+      "word": "娃哈哈是我在这个世界上存在过的证明",
+      "onboard_time": 1708838856,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -835,6 +859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 223424,
+      "num": 223424,
+      "word": "考研查分上岸让喜极而泣有了具象化",
+      "onboard_time": 1708836040,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 223010,
       "num": 223010,
       "word": "票房",
@@ -851,12 +883,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214983,
-      "num": 214983,
-      "word": "考研查分上岸让喜极而泣有了具象化",
-      "onboard_time": 1708836040,
-      "rank": 34,
-      "category": "教育"
+      "raw_hot": 214517,
+      "num": 214517,
+      "word": "世上最残忍的事情之一",
+      "onboard_time": 1708838498,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 211472,
@@ -889,6 +921,14 @@
       "onboard_time": 1708823311,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 204219,
+      "num": 204219,
+      "word": "沉痛悼念一位挚友",
+      "onboard_time": 1708838376,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 202720,
@@ -1209,6 +1249,14 @@
       "onboard_time": 1708819164,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 147784,
+      "num": 147784,
+      "word": "美式汤圆",
+      "onboard_time": 1708839155,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 146450,
