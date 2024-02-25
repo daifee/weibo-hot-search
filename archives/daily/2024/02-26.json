@@ -1,6 +1,6 @@
 {
   "startTime": 1708878084354,
-  "endTime": 1708879039891,
+  "endTime": 1708881288578,
   "band_list": [
     {
       "raw_hot": 1097706,
@@ -11,20 +11,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 931257,
+      "num": 931257,
+      "word": "考研",
+      "onboard_time": 1708878090,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 918012,
       "num": 918012,
       "word": "张小斐曾陪贾玲考研自己考上了",
       "onboard_time": 1708869692,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 846566,
-      "num": 846566,
-      "word": "考研",
-      "onboard_time": 1708878090,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 747737,
@@ -425,6 +425,14 @@
       "onboard_time": 1708876772,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 21113,
+      "num": 475571,
+      "word": "中国载人月球探测任务正有序推进",
+      "onboard_time": 1708866758,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708879039891,
+  "endTime": 1708881288578,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 931257,
+      "num": 931257,
+      "word": "考研",
+      "onboard_time": 1708878090,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 928401,
       "num": 928401,
       "word": "二月查到好成绩 七月拿到录取通知书",
@@ -457,14 +465,6 @@
       "onboard_time": 1708861230,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 846566,
-      "num": 846566,
-      "word": "考研",
-      "onboard_time": 1708878090,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 846300,
@@ -3371,7 +3371,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19096,
+      "raw_hot": 21113,
       "num": 1881699,
       "word": "中国载人月球探测任务正有序推进",
       "onboard_time": 1708866758,

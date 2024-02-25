@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708879039891,
+  "endTime": 1708881288578,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -8059,6 +8059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 931257,
+      "num": 931257,
+      "word": "考研",
+      "onboard_time": 1708878090,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 929907,
       "num": 929907,
       "word": "全智贤汤唯贴贴",
@@ -9257,14 +9265,6 @@
       "onboard_time": 1707046411,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 846566,
-      "num": 846566,
-      "word": "考研",
-      "onboard_time": 1708878090,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 846300,
@@ -69419,6 +69419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21113,
+      "num": 1881699,
+      "word": "中国载人月球探测任务正有序推进",
+      "onboard_time": 1708866758,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21022,
       "num": 216147,
       "word": "蛋仔喊你回家过年",
@@ -69513,14 +69521,6 @@
       "onboard_time": 1707944658,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 19096,
-      "num": 1881699,
-      "word": "中国载人月球探测任务正有序推进",
-      "onboard_time": 1708866758,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18945,
