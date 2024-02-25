@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708834876875,
+  "endTime": 1708835653410,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -131,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 10131398,
+      "num": 10131398,
+      "word": "宗庆后逝世",
+      "onboard_time": 1708833453,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10002357,
       "num": 10002357,
       "word": "上春山7号彩排视频",
@@ -193,14 +201,6 @@
       "onboard_time": 1707482890,
       "rank": 3,
       "category": "综艺,时尚"
-    },
-    {
-      "raw_hot": 8886717,
-      "num": 8886717,
-      "word": "宗庆后逝世",
-      "onboard_time": 1708833453,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8720278,
@@ -2761,6 +2761,14 @@
       "onboard_time": 1708227934,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1783862,
+      "num": 1783862,
+      "word": "娃哈哈集团讣告",
+      "onboard_time": 1708834596,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1779385,
@@ -7139,14 +7147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 995062,
-      "num": 995062,
-      "word": "娃哈哈集团讣告",
-      "onboard_time": 1708834596,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 994720,
       "num": 994720,
       "word": "贾玲首次线下公开露面",
@@ -7409,6 +7409,14 @@
       "onboard_time": 1707609386,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 964760,
+      "num": 964760,
+      "word": "赵丽娜直播痛哭",
+      "onboard_time": 1708832253,
+      "rank": 10,
+      "category": "体育,网红"
     },
     {
       "raw_hot": 964519,
@@ -8723,6 +8731,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 862699,
+      "num": 763295,
+      "word": "宗馥莉",
+      "onboard_time": 1708835080,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 862534,
       "num": 862534,
       "word": "三大球目前仅中国女篮获奥运资格",
@@ -9235,6 +9251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 827735,
+      "num": 827735,
+      "word": "欧阳娜娜徐正溪情头",
+      "onboard_time": 1708832854,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 826909,
       "num": 826909,
       "word": "王俊凯王源 扫鼠岭",
@@ -9249,14 +9273,6 @@
       "onboard_time": 1706935349,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 825474,
-      "num": 825474,
-      "word": "欧阳娜娜徐正溪情头",
-      "onboard_time": 1708832854,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 824855,
@@ -10249,14 +10265,6 @@
       "onboard_time": 1707098370,
       "rank": 11,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 772226,
-      "num": 772226,
-      "word": "赵丽娜直播痛哭",
-      "onboard_time": 1708832253,
-      "rank": 10,
-      "category": "体育,网红"
     },
     {
       "raw_hot": 772145,
@@ -11724,7 +11732,7 @@
     },
     {
       "raw_hot": 694897,
-      "num": 320842,
+      "num": 347639,
       "word": "被催婚10年今年没被催了",
       "onboard_time": 1708829196,
       "rank": 20,
@@ -12153,6 +12161,14 @@
       "onboard_time": 1708078229,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 676049,
+      "num": 676049,
+      "word": "拒绝汉字污名化",
+      "onboard_time": 1708831831,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 676002,
@@ -13417,14 +13433,6 @@
       "onboard_time": 1707710192,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 629755,
-      "num": 629755,
-      "word": "拒绝汉字污名化",
-      "onboard_time": 1708831831,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 629440,
@@ -14921,6 +14929,14 @@
       "onboard_time": 1707748536,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 574706,
+      "num": 574706,
+      "word": "迪丽热巴暗黑魔女",
+      "onboard_time": 1708833994,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 574289,
@@ -16441,6 +16457,14 @@
       "onboard_time": 1707971734,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 527784,
+      "num": 266670,
+      "word": "G7联合声明竟公开点名中国",
+      "onboard_time": 1708833876,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 527663,
@@ -18225,14 +18249,6 @@
       "onboard_time": 1707199051,
       "rank": 11,
       "category": "财经"
-    },
-    {
-      "raw_hot": 481291,
-      "num": 481291,
-      "word": "迪丽热巴暗黑魔女",
-      "onboard_time": 1708833994,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 481135,
@@ -20491,6 +20507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 424056,
+      "num": 424056,
+      "word": "米老鼠的坟墓叫什么",
+      "onboard_time": 1708832312,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 423907,
       "num": 390907,
       "word": "以后我的C盘永远不会满了",
@@ -21668,7 +21692,7 @@
     },
     {
       "raw_hot": 399936,
-      "num": 319492,
+      "num": 351952,
       "word": "家人把我养了一年的兔子吃了",
       "onboard_time": 1708831234,
       "rank": 21,
@@ -21929,14 +21953,6 @@
       "onboard_time": 1707307655,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 395006,
-      "num": 395006,
-      "word": "米老鼠的坟墓叫什么",
-      "onboard_time": 1708832312,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 394974,
@@ -23691,6 +23707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 363070,
+      "num": 363070,
+      "word": "南京又一小区深夜突发火灾",
+      "onboard_time": 1708834477,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 362995,
       "num": 362995,
       "word": "最难追的星座",
@@ -24945,14 +24969,6 @@
       "onboard_time": 1708189824,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 340158,
-      "num": 203840,
-      "word": "G7联合声明竟公开点名中国",
-      "onboard_time": 1708833876,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 340003,
@@ -28027,6 +28043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 295572,
+      "num": 295572,
+      "word": "宁静黄龄至今没有互加微信",
+      "onboard_time": 1708834780,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295523,
       "num": 295523,
       "word": "贾玲 老公姐",
@@ -29932,7 +29956,7 @@
     },
     {
       "raw_hot": 275643,
-      "num": 203772,
+      "num": 272794,
       "word": "60岁时第一次工作了",
       "onboard_time": 1708833636,
       "rank": 31,
@@ -33057,6 +33081,14 @@
       "onboard_time": 1708405660,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 245757,
+      "num": 245757,
+      "word": "林允儿跳了Flower",
+      "onboard_time": 1708834960,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 245703,
@@ -45635,6 +45667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180517,
+      "num": 180517,
+      "word": "我拒绝了他们的拒绝",
+      "onboard_time": 1708834055,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180488,
       "num": 180488,
       "word": "偷看主人的萨摩耶宝宝",
@@ -46224,6 +46264,14 @@
       "word": "川S牌车坚强车主发声",
       "onboard_time": 1707471692,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177932,
+      "num": 177932,
+      "word": "全网寻找宾利司机打人事件劝架大哥",
+      "onboard_time": 1708835382,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -46905,14 +46953,6 @@
       "onboard_time": 1708515336,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174914,
-      "num": 174914,
-      "word": "南京又一小区深夜突发火灾",
-      "onboard_time": 1708834477,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174884,
@@ -48499,6 +48539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 168826,
+      "num": 168826,
+      "word": "唐嫣紫月光妆",
+      "onboard_time": 1708835318,
+      "rank": 41,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 168805,
       "num": 168805,
       "word": "在姐姐婚礼上掉进水池助兴",
@@ -49369,14 +49417,6 @@
       "onboard_time": 1708425761,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165383,
-      "num": 165383,
-      "word": "我拒绝了他们的拒绝",
-      "onboard_time": 1708834055,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 165373,
@@ -53721,14 +53761,6 @@
       "onboard_time": 1706876609,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 147013,
-      "num": 147013,
-      "word": "宁静黄龄至今没有互加微信",
-      "onboard_time": 1708834780,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 147008,

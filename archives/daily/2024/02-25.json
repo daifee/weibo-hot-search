@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708834876875,
+  "endTime": 1708835653410,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -11,19 +11,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10131398,
+      "num": 10131398,
+      "word": "宗庆后逝世",
+      "onboard_time": 1708833453,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9463624,
       "num": 9463624,
       "word": "杭州宾利",
       "onboard_time": 1708816820,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8886717,
-      "num": 8886717,
-      "word": "宗庆后逝世",
-      "onboard_time": 1708833453,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -49,6 +49,14 @@
       "onboard_time": 1708785635,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1783862,
+      "num": 1783862,
+      "word": "娃哈哈集团讣告",
+      "onboard_time": 1708834596,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1631703,
@@ -107,14 +115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 995062,
-      "num": 995062,
-      "word": "娃哈哈集团讣告",
-      "onboard_time": 1708834596,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 991988,
       "num": 991988,
       "word": "何炅工作室发了双北",
@@ -139,6 +139,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 964760,
+      "num": 964760,
+      "word": "赵丽娜直播痛哭",
+      "onboard_time": 1708832253,
+      "rank": 10,
+      "category": "体育,网红"
+    },
+    {
       "raw_hot": 934886,
       "num": 934886,
       "word": "中学生发现微信抢最大红包秘诀",
@@ -155,8 +163,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 825474,
-      "num": 825474,
+      "raw_hot": 862699,
+      "num": 763295,
+      "word": "宗馥莉",
+      "onboard_time": 1708835080,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 827735,
+      "num": 827735,
       "word": "欧阳娜娜徐正溪情头",
       "onboard_time": 1708832854,
       "rank": 9,
@@ -171,14 +187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 772226,
-      "num": 772226,
-      "word": "赵丽娜直播痛哭",
-      "onboard_time": 1708832253,
-      "rank": 10,
-      "category": "体育,网红"
-    },
-    {
       "raw_hot": 717548,
       "num": 717548,
       "word": "孙颖莎连斩日本第一第二女单",
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 694897,
-      "num": 320842,
+      "num": 347639,
       "word": "被催婚10年今年没被催了",
       "onboard_time": 1708829196,
       "rank": 20,
@@ -201,6 +209,14 @@
       "onboard_time": 1708825115,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 676049,
+      "num": 676049,
+      "word": "拒绝汉字污名化",
+      "onboard_time": 1708831831,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 667714,
@@ -233,14 +249,6 @@
       "onboard_time": 1708818204,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 629755,
-      "num": 629755,
-      "word": "拒绝汉字污名化",
-      "onboard_time": 1708831831,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 627423,
@@ -307,12 +315,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574706,
+      "num": 574706,
+      "word": "迪丽热巴暗黑魔女",
+      "onboard_time": 1708833994,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 571708,
       "num": 571708,
       "word": "考研 上岸",
       "onboard_time": 1708827695,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 527784,
+      "num": 266670,
+      "word": "G7联合声明竟公开点名中国",
+      "onboard_time": 1708833876,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 518566,
@@ -363,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 481291,
-      "num": 481291,
-      "word": "迪丽热巴暗黑魔女",
-      "onboard_time": 1708833994,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 438072,
       "num": 300936,
       "word": "女子假胖20年意外瘦身60斤",
@@ -385,6 +401,14 @@
       "onboard_time": 1708782218,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 424056,
+      "num": 424056,
+      "word": "米老鼠的坟墓叫什么",
+      "onboard_time": 1708832312,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 407910,
@@ -404,7 +428,7 @@
     },
     {
       "raw_hot": 399936,
-      "num": 319492,
+      "num": 351952,
       "word": "家人把我养了一年的兔子吃了",
       "onboard_time": 1708831234,
       "rank": 21,
@@ -425,14 +449,6 @@
       "onboard_time": 1708829616,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 395006,
-      "num": 395006,
-      "word": "米老鼠的坟墓叫什么",
-      "onboard_time": 1708832312,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 393059,
@@ -467,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363070,
+      "num": 363070,
+      "word": "南京又一小区深夜突发火灾",
+      "onboard_time": 1708834477,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360481,
       "num": 283946,
       "word": "4个汤圆热量相当于一碗米饭",
@@ -483,12 +507,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 340158,
-      "num": 203840,
-      "word": "G7联合声明竟公开点名中国",
-      "onboard_time": 1708833876,
-      "rank": 30,
-      "category": "国外时政"
+      "raw_hot": 352018,
+      "num": 352018,
+      "word": "新疆地震",
+      "onboard_time": 1708835382,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327363,
@@ -563,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295572,
+      "num": 295572,
+      "word": "宁静黄龄至今没有互加微信",
+      "onboard_time": 1708834780,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278577,
       "num": 278577,
       "word": "元宵节高铁好像变成了校车",
@@ -580,7 +612,7 @@
     },
     {
       "raw_hot": 275643,
-      "num": 203772,
+      "num": 272794,
       "word": "60岁时第一次工作了",
       "onboard_time": 1708833636,
       "rank": 31,
@@ -673,6 +705,14 @@
       "onboard_time": 1708785336,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245757,
+      "num": 245757,
+      "word": "林允儿跳了Flower",
+      "onboard_time": 1708834960,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 240732,
@@ -843,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180517,
+      "num": 180517,
+      "word": "我拒绝了他们的拒绝",
+      "onboard_time": 1708834055,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179622,
       "num": 1965905,
       "word": "春天限量版的绝美配色",
@@ -867,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177932,
+      "num": 177932,
+      "word": "全网寻找宾利司机打人事件劝架大哥",
+      "onboard_time": 1708835382,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177870,
       "num": 177870,
       "word": "锦鲤本鲤见者运气爆棚",
@@ -881,14 +937,6 @@
       "onboard_time": 1708781562,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 174914,
-      "num": 174914,
-      "word": "南京又一小区深夜突发火灾",
-      "onboard_time": 1708834477,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173206,
@@ -931,6 +979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 168826,
+      "num": 168826,
+      "word": "唐嫣紫月光妆",
+      "onboard_time": 1708835318,
+      "rank": 41,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 166702,
       "num": 166702,
       "word": "郭晶晶米兰看秀",
@@ -953,14 +1009,6 @@
       "onboard_time": 1708790555,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165383,
-      "num": 165383,
-      "word": "我拒绝了他们的拒绝",
-      "onboard_time": 1708834055,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 163863,
@@ -1049,14 +1097,6 @@
       "onboard_time": 1708819164,
       "rank": 34,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 147013,
-      "num": 147013,
-      "word": "宁静黄龄至今没有互加微信",
-      "onboard_time": 1708834780,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 146450,
