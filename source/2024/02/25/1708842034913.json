@@ -1,0 +1,410 @@
+{
+  "runTime": 1708842034913,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4312369,
+        "num": 4312369,
+        "word": "宗庆后逝世",
+        "onboard_time": 1708833453,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1851503,
+        "num": 1851503,
+        "word": "宗馥莉",
+        "onboard_time": 1708835080,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133315,
+        "num": 1662821,
+        "word": "春天限量版的绝美配色",
+        "onboard_time": 1708828295,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1628078,
+        "num": 1628078,
+        "word": "王力宏 娃哈哈矿泉水",
+        "onboard_time": 1708836762,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1062603,
+        "num": 1062603,
+        "word": "韩雪谈去年沈月情绪失控",
+        "onboard_time": 1708838376,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 884531,
+        "num": 884531,
+        "word": "娃哈哈是我在这个世界上存在过的证明",
+        "onboard_time": 1708838856,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808329,
+        "num": 808329,
+        "word": "女继承人时代来了",
+        "onboard_time": 1708836821,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786800,
+        "num": 786800,
+        "word": "沙溢爆改",
+        "onboard_time": 1708832972,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 707665,
+        "num": 707665,
+        "word": "赵丽娜直播痛哭",
+        "onboard_time": 1708832253,
+        "rank": 8,
+        "category": "体育,网红"
+      },
+      {
+        "raw_hot": 588268,
+        "num": 588268,
+        "word": "全网寻找宾利司机打人事件劝架大哥",
+        "onboard_time": 1708835382,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581141,
+        "num": 581141,
+        "word": "杨迪爆改后遗症",
+        "onboard_time": 1708838798,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560077,
+        "num": 560077,
+        "word": "阚清子赛车",
+        "onboard_time": 1708840233,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 490282,
+        "num": 490282,
+        "word": "宾利宝马车主系表兄弟",
+        "onboard_time": 1708830216,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424438,
+        "num": 424438,
+        "word": "女乒艰难夺冠教练组战术合理吗",
+        "onboard_time": 1708836339,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417079,
+        "num": 417079,
+        "word": "雷军称宗庆后是一代传奇",
+        "onboard_time": 1708841019,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413168,
+        "num": 413168,
+        "word": "南京又一小区深夜突发火灾",
+        "onboard_time": 1708834477,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364080,
+        "num": 364080,
+        "word": "姚安娜演技",
+        "onboard_time": 1708839935,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355368,
+        "num": 355368,
+        "word": "全网寻找的劝架大哥是个律师",
+        "onboard_time": 1708839514,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355360,
+        "num": 355360,
+        "word": "迪丽热巴暗黑魔女",
+        "onboard_time": 1708833994,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 339668,
+        "num": 339668,
+        "word": "宗馥莉已开始接班",
+        "onboard_time": 1708837359,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 305351,
+        "num": 305351,
+        "word": "杭州持械伤人宾利车主已被抓",
+        "onboard_time": 1708825835,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286741,
+        "num": 286741,
+        "word": "G7联合声明竟公开点名中国",
+        "onboard_time": 1708833876,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 284640,
+        "num": 284640,
+        "word": "拒绝汉字污名化",
+        "onboard_time": 1708831831,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272637,
+        "num": 272637,
+        "word": "中国男篮vs日本男篮",
+        "onboard_time": 1708837180,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260100,
+        "num": 260100,
+        "word": "世上最残忍的事情之一",
+        "onboard_time": 1708838498,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250500,
+        "num": 250500,
+        "word": "欧阳娜娜徐正溪情头",
+        "onboard_time": 1708832854,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228819,
+        "num": 228819,
+        "word": "沉痛悼念一位挚友",
+        "onboard_time": 1708838376,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226158,
+        "num": 226158,
+        "word": "考研查分上岸让喜极而泣有了具象化",
+        "onboard_time": 1708836040,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 221443,
+        "num": 221443,
+        "word": "VOGUE副主编",
+        "onboard_time": 1708839453,
+        "rank": 28,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 213888,
+        "num": 213888,
+        "word": "娃哈哈集团讣告",
+        "onboard_time": 1708834596,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295470,
+        "num": 213288,
+        "word": "娃哈哈官网变为灰色",
+        "onboard_time": 1708840895,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254351,
+        "num": 211984,
+        "word": "鹿 我要过马路",
+        "onboard_time": 1708840595,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219597,
+        "num": 210598,
+        "word": "曾志伟郝蕾起争执",
+        "onboard_time": 1708826858,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222915,
+        "num": 209192,
+        "word": "宗庆后坚守不上市的信念",
+        "onboard_time": 1708841374,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 208767,
+        "num": 208767,
+        "word": "纪凌尘 你喜欢大海我爱过你很浪漫",
+        "onboard_time": 1708785635,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205404,
+        "num": 205404,
+        "word": "胡明轩太行了",
+        "onboard_time": 1708841854,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204116,
+        "num": 204116,
+        "word": "美式汤圆",
+        "onboard_time": 1708839155,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 194369,
+        "num": 194369,
+        "word": "被催婚10年今年没被催了",
+        "onboard_time": 1708829196,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192279,
+        "num": 192279,
+        "word": "宁静黄龄至今没有互加微信",
+        "onboard_time": 1708834780,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189507,
+        "num": 189507,
+        "word": "娃哈哈将驶向何方",
+        "onboard_time": 1708840954,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 188851,
+        "num": 188851,
+        "word": "日本男篮主场哨",
+        "onboard_time": 1708841076,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185656,
+        "num": 185656,
+        "word": "第二十条票房破20亿",
+        "onboard_time": 1708839514,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176706,
+        "num": 176706,
+        "word": "杭州宾利",
+        "onboard_time": 1708816820,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176429,
+        "num": 176429,
+        "word": "马立奥一天吃八顿",
+        "onboard_time": 1708836821,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174217,
+        "num": 174217,
+        "word": "8种体检异常不必太担心",
+        "onboard_time": 1708832792,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150922,
+        "num": 150922,
+        "word": "新疆地震",
+        "onboard_time": 1708835382,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150642,
+        "num": 150642,
+        "word": "家人把我养了一年的兔子吃了",
+        "onboard_time": 1708831234,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146637,
+        "num": 146637,
+        "word": "茶刀",
+        "onboard_time": 1708830636,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137931,
+        "num": 137931,
+        "word": "中国男篮半场战平日本男篮",
+        "onboard_time": 1708841973,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137071,
+        "num": 137071,
+        "word": "余宇涵纪录片",
+        "onboard_time": 1708839996,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#文化是一个国家一个民族的灵魂#"
+    }
+  }
+}
