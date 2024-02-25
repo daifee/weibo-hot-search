@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708856202594,
+  "endTime": 1708857237132,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2241396,
-      "num": 2241396,
+      "raw_hot": 2312620,
+      "num": 2312620,
       "word": "与女主播发生关系住持已被注销戒牒",
       "onboard_time": 1708853436,
       "rank": 33,
@@ -259,8 +259,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 875529,
-      "num": 875529,
+      "raw_hot": 885161,
+      "num": 885161,
       "word": "比亚迪公关",
       "onboard_time": 1708852293,
       "rank": 46,
@@ -291,20 +291,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 781445,
+      "num": 781445,
+      "word": "难哄或将改名万事美好",
+      "onboard_time": 1708853794,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 778067,
       "num": 778067,
       "word": "老人偷拍被抓手机有6万张女生照片",
       "onboard_time": 1708790314,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 758713,
-      "num": 758713,
-      "word": "难哄或将改名万事美好",
-      "onboard_time": 1708853794,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 717548,
@@ -353,6 +353,14 @@
       "onboard_time": 1708831831,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 674595,
+      "num": 489732,
+      "word": "迪丽热巴紫色高定",
+      "onboard_time": 1708856191,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 667714,
@@ -505,6 +513,14 @@
       "onboard_time": 1708840233,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 553075,
+      "num": 553075,
+      "word": "反诈老陈喊话全国警方求工作",
+      "onboard_time": 1708855894,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 548943,
@@ -675,8 +691,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 432983,
-      "num": 432983,
+      "raw_hot": 433643,
+      "num": 433643,
       "word": "吴镇宇 这关表演什么事",
       "onboard_time": 1708852833,
       "rank": 27,
@@ -771,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 397968,
+      "num": 397968,
+      "word": "千金在中国过的第一个元宵节",
+      "onboard_time": 1708855836,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 397475,
       "num": 397475,
       "word": "郝蕾回应之前怼金莎",
@@ -787,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 392670,
+      "num": 392670,
+      "word": "小尼从来不用尼格买提对不上表情包",
+      "onboard_time": 1708856616,
+      "rank": 14,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 391633,
       "num": 391633,
       "word": "河南卫视 上春山",
@@ -801,6 +833,14 @@
       "onboard_time": 1708844494,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 387720,
+      "num": 387720,
+      "word": "林一周也 豪门情侣感",
+      "onboard_time": 1708855117,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 378145,
@@ -883,14 +923,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 326734,
-      "num": 260826,
-      "word": "林一周也 豪门情侣感",
-      "onboard_time": 1708855117,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 323195,
       "num": 323195,
       "word": "8种体检异常不必太担心",
@@ -971,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301763,
+      "num": 301763,
+      "word": "朴彩英戴了BLACKPINK的帽子",
+      "onboard_time": 1708854454,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 296833,
       "num": 296833,
       "word": "南京此次火灾为何伤亡严重",
@@ -1025,14 +1065,6 @@
       "onboard_time": 1708850553,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 282341,
-      "num": 260559,
-      "word": "朴彩英戴了BLACKPINK的帽子",
-      "onboard_time": 1708854454,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 279613,
@@ -1097,14 +1129,6 @@
       "onboard_time": 1708821028,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260475,
-      "num": 260475,
-      "word": "千金在中国过的第一个元宵节",
-      "onboard_time": 1708855836,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 255449,
@@ -1299,6 +1323,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 225818,
+      "num": 225818,
+      "word": "上海申花夺得超级杯冠军",
+      "onboard_time": 1708856136,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 224474,
+      "num": 224474,
+      "word": "原来好的家庭氛围是这样的",
+      "onboard_time": 1708855416,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 223010,
       "num": 223010,
       "word": "票房",
@@ -1363,14 +1403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211055,
-      "num": 211055,
-      "word": "反诈老陈喊话全国警方求工作",
-      "onboard_time": 1708855894,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210486,
       "num": 210486,
       "word": "周也林一 爆头姐心动哥",
@@ -1419,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206240,
+      "num": 206240,
+      "word": "管泽元解说",
+      "onboard_time": 1708856433,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205295,
       "num": 205295,
       "word": "特朗普在南卡罗来纳州共和党初选中胜出",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1708843952,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200767,
+      "num": 194451,
+      "word": "迪丽热巴紫罗兰公主",
+      "onboard_time": 1708857094,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200701,
@@ -1635,14 +1683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180746,
-      "num": 180746,
-      "word": "迪丽热巴紫色高定",
-      "onboard_time": 1708856191,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 180662,
       "num": 180662,
       "word": "桃花癫",
@@ -1699,20 +1739,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174736,
+      "num": 174736,
+      "word": "表演学博士评无限超越班",
+      "onboard_time": 1708855953,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173206,
       "num": 173206,
       "word": "pay姐 身骑白马",
       "onboard_time": 1708797561,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 172965,
-      "num": 172965,
-      "word": "原来好的家庭氛围是这样的",
-      "onboard_time": 1708855416,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 170864,
@@ -1867,14 +1907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156703,
-      "num": 156703,
-      "word": "表演学博士评无限超越班",
-      "onboard_time": 1708855953,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154793,
       "num": 154793,
       "word": "2024釜山世乒赛团体赛",
@@ -1931,14 +1963,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 148434,
-      "num": 148434,
-      "word": "上海申花夺得超级杯冠军",
-      "onboard_time": 1708856136,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 147702,
       "num": 147702,
       "word": "肖战米兰看秀专访",
@@ -1969,6 +1993,14 @@
       "onboard_time": 1708808056,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 142218,
+      "num": 142218,
+      "word": "EDG就在今天",
+      "onboard_time": 1708854454,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 142158,
@@ -2019,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138676,
+      "num": 138676,
+      "word": "45门课超90直博清华女生分享经验",
+      "onboard_time": 1708857216,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 138672,
       "num": 138672,
       "word": "陈梦扛住了",
@@ -2049,6 +2089,14 @@
       "onboard_time": 1708839996,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136706,
+      "num": 136706,
+      "word": "周处除三害",
+      "onboard_time": 1708857216,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 136109,
