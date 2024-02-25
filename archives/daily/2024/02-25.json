@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708842034913,
+  "endTime": 1708842843699,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -187,8 +187,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 884531,
-      "num": 884531,
+      "raw_hot": 889618,
+      "num": 889618,
       "word": "娃哈哈是我在这个世界上存在过的证明",
       "onboard_time": 1708838856,
       "rank": 30,
@@ -225,6 +225,14 @@
       "onboard_time": 1708788757,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 703766,
+      "num": 703766,
+      "word": "雷军称宗庆后是一代传奇",
+      "onboard_time": 1708841019,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 694897,
@@ -347,8 +355,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 581141,
-      "num": 581141,
+      "raw_hot": 583544,
+      "num": 583544,
       "word": "杨迪爆改后遗症",
       "onboard_time": 1708838798,
       "rank": 16,
@@ -499,11 +507,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 417079,
-      "num": 417079,
-      "word": "雷军称宗庆后是一代传奇",
-      "onboard_time": 1708841019,
-      "rank": 14,
+      "raw_hot": 415722,
+      "num": 415722,
+      "word": "全网寻找的劝架大哥是个律师",
+      "onboard_time": 1708839514,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -619,20 +627,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 355368,
-      "num": 355368,
-      "word": "全网寻找的劝架大哥是个律师",
-      "onboard_time": 1708839514,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 354764,
       "num": 354764,
       "word": "为什么理发店里见不到女Tony",
       "onboard_time": 1708804999,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 351989,
+      "num": 351989,
+      "word": "胡明轩太行了",
+      "onboard_time": 1708841854,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 327363,
@@ -716,11 +724,19 @@
     },
     {
       "raw_hot": 295470,
-      "num": 213288,
+      "num": 276789,
       "word": "娃哈哈官网变为灰色",
       "onboard_time": 1708840895,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279613,
+      "num": 279613,
+      "word": "宗庆后坚守不上市的信念",
+      "onboard_time": 1708841374,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 278577,
@@ -747,6 +763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273784,
+      "num": 273784,
+      "word": "世上最残忍的事情之一",
+      "onboard_time": 1708838498,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 262064,
       "num": 262064,
       "word": "飞驰人生2票房破30亿",
@@ -761,14 +785,6 @@
       "onboard_time": 1708821028,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260100,
-      "num": 260100,
-      "word": "世上最残忍的事情之一",
-      "onboard_time": 1708838498,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 255449,
@@ -788,7 +804,7 @@
     },
     {
       "raw_hot": 254351,
-      "num": 211984,
+      "num": 231639,
       "word": "鹿 我要过马路",
       "onboard_time": 1708840595,
       "rank": 31,
@@ -833,6 +849,14 @@
       "onboard_time": 1708773393,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 248886,
+      "num": 232125,
+      "word": "比亚迪车主劝架",
+      "onboard_time": 1708842273,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247576,
@@ -891,6 +915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 233904,
+      "num": 233904,
+      "word": "考研查分上岸让喜极而泣有了具象化",
+      "onboard_time": 1708836040,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 231096,
       "num": 231096,
       "word": "湖南卫视打错童宇名字",
@@ -915,14 +947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 226158,
-      "num": 226158,
-      "word": "考研查分上岸让喜极而泣有了具象化",
-      "onboard_time": 1708836040,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 225891,
       "num": 225891,
       "word": "星穹铁道花火",
@@ -937,14 +961,6 @@
       "onboard_time": 1708836163,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 222915,
-      "num": 209192,
-      "word": "宗庆后坚守不上市的信念",
-      "onboard_time": 1708841374,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 221443,
@@ -987,12 +1003,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 205404,
-      "num": 205404,
-      "word": "胡明轩太行了",
-      "onboard_time": 1708841854,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 207404,
+      "num": 207404,
+      "word": "美式汤圆",
+      "onboard_time": 1708839155,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 205295,
@@ -1001,14 +1017,6 @@
       "onboard_time": 1708823311,
       "rank": 31,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 204116,
-      "num": 204116,
-      "word": "美式汤圆",
-      "onboard_time": 1708839155,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 202720,
@@ -1041,6 +1049,14 @@
       "onboard_time": 1708828594,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194543,
+      "num": 194543,
+      "word": "第二十条票房破20亿",
+      "onboard_time": 1708839514,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 194331,
@@ -1115,20 +1131,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185656,
-      "num": 185656,
-      "word": "第二十条票房破20亿",
-      "onboard_time": 1708839514,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 183858,
       "num": 183858,
       "word": "演员工会奖获奖名单",
       "onboard_time": 1708827333,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 183813,
+      "num": 183813,
+      "word": "宗庆后最后一次公开露面",
+      "onboard_time": 1708842573,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182625,
@@ -1355,6 +1371,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 147702,
+      "num": 147702,
+      "word": "肖战米兰看秀专访",
+      "onboard_time": 1708842333,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 146450,
       "num": 146450,
       "word": "阿姨这里不能滑雪",
@@ -1497,6 +1521,14 @@
       "onboard_time": 1708818564,
       "rank": 37,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 130088,
+      "num": 130088,
+      "word": "中国男篮vs日本男篮直播",
+      "onboard_time": 1708841019,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 126619,
