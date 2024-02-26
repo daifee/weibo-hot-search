@@ -1,6 +1,6 @@
 {
   "startTime": 1708878084354,
-  "endTime": 1708950662484,
+  "endTime": 1708951531827,
   "band_list": [
     {
       "raw_hot": 3339786,
@@ -25,6 +25,14 @@
       "onboard_time": 1708916432,
       "rank": 6,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2264884,
+      "num": 2264884,
+      "word": "民警被实名举报强暴未成年女孩",
+      "onboard_time": 1708948353,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2226406,
@@ -65,14 +73,6 @@
       "onboard_time": 1708947691,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1902399,
-      "num": 1902399,
-      "word": "民警被实名举报强暴未成年女孩",
-      "onboard_time": 1708948353,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1854928,
@@ -337,6 +337,14 @@
       "onboard_time": 1708910374,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 799627,
+      "num": 799627,
+      "word": "杨幂穿高定打游戏",
+      "onboard_time": 1708950035,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 792450,
@@ -651,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 554120,
+      "num": 554120,
+      "word": "年轻人为啥总穿丑衣服上班",
+      "onboard_time": 1708949372,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 551493,
       "num": 551493,
       "word": "A股超3600只个股上涨",
@@ -683,6 +699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 524956,
+      "num": 524956,
+      "word": "妈妈出家了",
+      "onboard_time": 1708947331,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 515797,
       "num": 487477,
       "word": "向佐郭碧婷约会照",
@@ -697,14 +721,6 @@
       "onboard_time": 1708885099,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 512843,
-      "num": 512843,
-      "word": "妈妈出家了",
-      "onboard_time": 1708947331,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 493900,
@@ -851,12 +867,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 408859,
+      "num": 408859,
+      "word": "魏大勋毛不易郭麒麟新综艺路透",
+      "onboard_time": 1708948714,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400593,
       "num": 400593,
       "word": "TES对战FPX",
       "onboard_time": 1708942534,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 388576,
+      "num": 172306,
+      "word": "六层楼 受精卵的形成过程",
+      "onboard_time": 1708950633,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 386807,
+      "num": 274920,
+      "word": "经常熬夜的人脸有多垮",
+      "onboard_time": 1708950035,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 385643,
@@ -939,14 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350998,
-      "num": 350998,
-      "word": "杨幂穿高定打游戏",
-      "onboard_time": 1708950035,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 348613,
       "num": 348613,
       "word": "国乒男团11连冠",
@@ -961,14 +993,6 @@
       "onboard_time": 1708925974,
       "rank": 21,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 343226,
-      "num": 343226,
-      "word": "年轻人为啥总穿丑衣服上班",
-      "onboard_time": 1708949372,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 342770,
@@ -987,14 +1011,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 327088,
-      "num": 274920,
-      "word": "经常熬夜的人脸有多垮",
-      "onboard_time": 1708950035,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 326910,
       "num": 326910,
       "word": "肖战黑粉被限消",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1708908573,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 324987,
-      "num": 324987,
-      "word": "魏大勋毛不易郭麒麟新综艺路透",
-      "onboard_time": 1708948714,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 322147,
@@ -1217,6 +1225,14 @@
       "onboard_time": 1708872460,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 272218,
+      "num": 272218,
+      "word": "为什么饮料瓶底都是五瓣花的形状",
+      "onboard_time": 1708949674,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 270553,
@@ -1539,6 +1555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 215932,
+      "num": 171820,
+      "word": "国考高分样卷",
+      "onboard_time": 1708949613,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 215024,
       "num": 215024,
       "word": "马龙说这是我最后一届世锦赛",
@@ -1643,20 +1667,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 202047,
-      "num": 167732,
-      "word": "国考高分样卷",
-      "onboard_time": 1708949613,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 201209,
-      "num": 167631,
-      "word": "为什么饮料瓶底都是五瓣花的形状",
-      "onboard_time": 1708949674,
-      "rank": 31,
-      "category": "科学科普"
+      "raw_hot": 201529,
+      "num": 201529,
+      "word": "猫咪总是口臭查出幽门螺杆菌",
+      "onboard_time": 1708950212,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 199110,
@@ -1851,12 +1867,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179426,
+      "num": 179426,
+      "word": "男生坦然面对考研失败为自己买单",
+      "onboard_time": 1708951051,
+      "rank": 26,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 178181,
       "num": 178181,
       "word": "CRAVITY",
       "onboard_time": 1708941394,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 176853,
+      "num": 167328,
+      "word": "想让退休的妈妈去工作",
+      "onboard_time": 1708949975,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 174439,
@@ -1915,12 +1947,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168066,
-      "num": 168066,
-      "word": "猫咪总是口臭查出幽门螺杆菌",
-      "onboard_time": 1708950212,
-      "rank": 29,
-      "category": "幽默"
+      "raw_hot": 171040,
+      "num": 171040,
+      "word": "王者荣耀全明星赛直播",
+      "onboard_time": 1708950571,
+      "rank": 32,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 167925,
@@ -1937,14 +1969,6 @@
       "onboard_time": 1708926816,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 167222,
-      "num": 167222,
-      "word": "想让退休的妈妈去工作",
-      "onboard_time": 1708949975,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 166167,
@@ -2059,12 +2083,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 156797,
+      "num": 156797,
+      "word": "杨幂叫九尾许哥",
+      "onboard_time": 1708951111,
+      "rank": 36,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 156386,
       "num": 156386,
       "word": "朱易比赛",
       "onboard_time": 1708905027,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155425,
+      "num": 155425,
+      "word": "猫 我一下子就下去了",
+      "onboard_time": 1708950275,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 154366,
@@ -2187,6 +2227,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 139948,
+      "num": 139948,
+      "word": "孙颖莎安慰王艺迪",
+      "onboard_time": 1708949552,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139347,
       "num": 139347,
       "word": "覃海洋获劳伦斯奖提名",
@@ -2217,22 +2265,6 @@
       "onboard_time": 1708864057,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136091,
-      "num": 136091,
-      "word": "猫 我一下子就下去了",
-      "onboard_time": 1708950275,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 135924,
-      "num": 135924,
-      "word": "孙颖莎安慰王艺迪",
-      "onboard_time": 1708949552,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 135304,
@@ -2395,14 +2427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 113068,
-      "num": 113068,
-      "word": "六层楼 受精卵的形成过程",
-      "onboard_time": 1708950633,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 112795,
       "num": 112795,
       "word": "为什么要让马魁牺牲",
@@ -2531,6 +2555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70337,
+      "num": 413559,
+      "word": "欧洲车展新宠是中国新能源",
+      "onboard_time": 1708948833,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 67947,
       "num": 67947,
       "word": "皇马1比0塞维利亚",
@@ -2553,14 +2585,6 @@
       "onboard_time": 1708903767,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57442,
-      "num": 344875,
-      "word": "欧洲车展新宠是中国新能源",
-      "onboard_time": 1708948833,
-      "rank": 14,
-      "category": "汽车"
     },
     {
       "raw_hot": 52700,
