@@ -1,6 +1,6 @@
 {
   "startTime": 1708964501350,
-  "endTime": 1708974844326,
+  "endTime": 1708976061294,
   "band_list": [
     {
       "raw_hot": 1314672,
@@ -467,20 +467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17817,
+      "num": 17817,
+      "word": "自从把家里的桌子换成透明的",
+      "onboard_time": 1708974435,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17236,
       "num": 17236,
       "word": "伊能静儿子穿搭",
       "onboard_time": 1708972997,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14084,
-      "num": 14730,
-      "word": "自从把家里的桌子换成透明的",
-      "onboard_time": 1708974435,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 12339,
