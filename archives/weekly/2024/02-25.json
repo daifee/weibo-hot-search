@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708925641700,
+  "endTime": 1708928596073,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1482963,
+      "num": 1482963,
+      "word": "小徐上岸",
+      "onboard_time": 1708927233,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1440752,
       "num": 1440752,
       "word": "我直接把家庭群给掀了",
@@ -435,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1026142,
+      "num": 777714,
+      "word": "娃哈哈纯净水为什么是596ml",
+      "onboard_time": 1708925676,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1000791,
       "num": 812463,
       "word": "马云发挽联悼念宗庆后",
@@ -473,6 +489,14 @@
       "onboard_time": 1708785218,
       "rank": 20,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 973846,
+      "num": 349336,
+      "word": "医生称春节期间肛裂病人增多",
+      "onboard_time": 1708923879,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 965309,
@@ -683,20 +707,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 811438,
-      "num": 268652,
-      "word": "医生称春节期间肛裂病人增多",
-      "onboard_time": 1708923879,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 808074,
       "num": 876063,
       "word": "演唱会门票秒没票务那儿大把",
       "onboard_time": 1708910374,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 782066,
+      "num": 782066,
+      "word": "爸爸每周给29岁女儿备好一周饭菜",
+      "onboard_time": 1708923277,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 781445,
@@ -795,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 706778,
+      "num": 706778,
+      "word": "王安宇登门拜访姐夫了吗",
+      "onboard_time": 1708925738,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 706459,
       "num": 706459,
       "word": "赴华韩国游客数量暴增900%",
@@ -851,14 +883,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 684419,
-      "num": 684419,
-      "word": "爸爸每周给29岁女儿备好一周饭菜",
-      "onboard_time": 1708923277,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 679983,
       "num": 679983,
       "word": "单身女老师深陷杀猪盘被骗近400万",
@@ -889,6 +913,14 @@
       "onboard_time": 1708787798,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 667026,
+      "num": 667026,
+      "word": "何炅长发狼尾",
+      "onboard_time": 1708926275,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 666465,
@@ -1048,6 +1080,14 @@
       "word": "金风玉露",
       "onboard_time": 1708785759,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 585786,
+      "num": 585786,
+      "word": "北斗七行",
+      "onboard_time": 1708924656,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -1299,14 +1339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 495939,
-      "num": 495939,
-      "word": "北斗七行",
-      "onboard_time": 1708924656,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 493900,
       "num": 493900,
       "word": "巴黎奥运会运动员村不安装空调",
@@ -1539,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 414150,
+      "num": 414150,
+      "word": "EXO官宣粉丝见面会",
+      "onboard_time": 1708925196,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 413304,
       "num": 413304,
       "word": "南来北往编剧",
@@ -1617,6 +1657,14 @@
       "onboard_time": 1708829616,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 393892,
+      "num": 393892,
+      "word": "董宇辉称非常多3C厂家愿提供低价",
+      "onboard_time": 1708927414,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 393059,
@@ -1763,6 +1811,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 357360,
+      "num": 357360,
+      "word": "西安平均招聘薪酬9326元每月",
+      "onboard_time": 1708921000,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355249,
       "num": 355249,
       "word": "成毅直播",
@@ -1784,6 +1840,14 @@
       "word": "樊振东3比2A勒布伦",
       "onboard_time": 1708865134,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 352041,
+      "num": 352041,
+      "word": "王曼昱",
+      "onboard_time": 1708771473,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -1809,6 +1873,14 @@
       "onboard_time": 1708859494,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344295,
+      "num": 344295,
+      "word": "泽连斯基公布乌军阵亡人数为3.1万",
+      "onboard_time": 1708925974,
+      "rank": 21,
+      "category": "国外时政"
     },
     {
       "raw_hot": 344209,
@@ -2339,14 +2411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255534,
-      "num": 255534,
-      "word": "EXO官宣粉丝见面会",
-      "onboard_time": 1708925196,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 255449,
       "num": 217366,
       "word": "刘国梁给孙颖莎支招",
@@ -2523,6 +2587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 239934,
+      "num": 239934,
+      "word": "北斗七行衍生综艺开录",
+      "onboard_time": 1708928436,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239797,
       "num": 239797,
       "word": "仰望U9",
@@ -2635,6 +2707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 229289,
+      "num": 229289,
+      "word": "因为汤圆和男朋友哭了一场",
+      "onboard_time": 1708927414,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228819,
       "num": 228819,
       "word": "沉痛悼念一位挚友",
@@ -2657,6 +2737,14 @@
       "onboard_time": 1708924238,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227198,
+      "num": 219915,
+      "word": "原来红包皮还可以这样用",
+      "onboard_time": 1708926935,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 226714,
@@ -2739,6 +2827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 220356,
+      "num": 220356,
+      "word": "正月里剃头为啥死的是舅舅",
+      "onboard_time": 1708927414,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 219958,
       "num": 219958,
       "word": "ENHYPEN上海",
@@ -2761,6 +2857,14 @@
       "onboard_time": 1708776639,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218374,
+      "num": 218374,
+      "word": "易烊千玺世界尽头传来的影像回响",
+      "onboard_time": 1708926696,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 218230,
@@ -2817,6 +2921,14 @@
       "onboard_time": 1708858893,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211831,
+      "num": 211831,
+      "word": "弟弟从没提过他的朋友坐轮椅",
+      "onboard_time": 1708927835,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 211472,
@@ -3267,6 +3379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186960,
+      "num": 186960,
+      "word": "苹果研究AirPods带摄像头",
+      "onboard_time": 1708925918,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 186943,
       "num": 186943,
       "word": "周鸿祎悼念宗庆后",
@@ -3443,6 +3563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172667,
+      "num": 172667,
+      "word": "韩国超一万名实习和住院医生辞职",
+      "onboard_time": 1708928318,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170864,
       "num": 170864,
       "word": "王鹤棣出发回国了",
@@ -3515,6 +3643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167778,
+      "num": 167778,
+      "word": "男学者们这时候突然要去上厕所了",
+      "onboard_time": 1708926816,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167165,
       "num": 167165,
       "word": "星痕的姬小满",
@@ -3569,14 +3705,6 @@
       "onboard_time": 1708862014,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163863,
-      "num": 163863,
-      "word": "王曼昱",
-      "onboard_time": 1708771473,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 163849,
@@ -3835,6 +3963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142146,
+      "num": 142146,
+      "word": "刘诗诗17岁至36岁颜值变化",
+      "onboard_time": 1708925855,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 140579,
       "num": 140579,
       "word": "含这些成分的护肤品才抗衰",
@@ -4001,6 +4137,14 @@
       "onboard_time": 1708818564,
       "rank": 37,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 129490,
+      "num": 129490,
+      "word": "正式被确诊为乌鸦",
+      "onboard_time": 1708928436,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 129109,
@@ -4185,6 +4329,14 @@
       "onboard_time": 1708818746,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 101863,
+      "num": 180712,
+      "word": "小米14Ultra欧洲定价近国内一倍",
+      "onboard_time": 1708927894,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 100200,
