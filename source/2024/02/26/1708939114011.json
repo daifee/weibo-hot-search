@@ -1,0 +1,410 @@
+{
+  "runTime": 1708939114011,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1682532,
+        "num": 1682532,
+        "word": "巴勒斯坦政府宣布辞职",
+        "onboard_time": 1708937016,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1568843,
+        "num": 1568843,
+        "word": "小徐上岸",
+        "onboard_time": 1708927233,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 66343,
+        "num": 1200523,
+        "word": "京津冀交通一体化取得非凡成就",
+        "onboard_time": 1708922322,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1193630,
+        "num": 1193630,
+        "word": "林志玲林志颖是幼儿园同学",
+        "onboard_time": 1708935036,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 880797,
+        "num": 880797,
+        "word": "考研成绩",
+        "onboard_time": 1708910736,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 874273,
+        "num": 874273,
+        "word": "小徐回应考研上岸",
+        "onboard_time": 1708936653,
+        "rank": 5,
+        "category": "教育,网红"
+      },
+      {
+        "raw_hot": 839932,
+        "num": 839932,
+        "word": "考研国家线",
+        "onboard_time": 1708910913,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 742578,
+        "num": 742578,
+        "word": "英语二国家线",
+        "onboard_time": 1708936355,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 703722,
+        "num": 703722,
+        "word": "韩国承诺医生们29日前返岗不追责",
+        "onboard_time": 1708937195,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 584225,
+        "num": 584225,
+        "word": "中方不得不采取必要措施坚定维护权益",
+        "onboard_time": 1708937135,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 623423,
+        "num": 578259,
+        "word": "00后说的扣1是什么意思",
+        "onboard_time": 1708938093,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 571772,
+        "num": 571772,
+        "word": "男子听老婆话挪车成功躲过一劫",
+        "onboard_time": 1708933776,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477932,
+        "num": 477932,
+        "word": "为什么快递名都要写假名字",
+        "onboard_time": 1708930175,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 449287,
+        "num": 449287,
+        "word": "郭涛儿子石头17岁近照",
+        "onboard_time": 1708930478,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434685,
+        "num": 434685,
+        "word": "三个月喝了近一千块的奶茶",
+        "onboard_time": 1708916432,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 433502,
+        "num": 433502,
+        "word": "娃哈哈纯净水为什么是596ml",
+        "onboard_time": 1708925676,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416428,
+        "num": 416428,
+        "word": "爸爸每周给29岁女儿备好一周饭菜",
+        "onboard_time": 1708923277,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388680,
+        "num": 388680,
+        "word": "北大考研",
+        "onboard_time": 1708938156,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 24203,
+        "num": 380031,
+        "word": "国产豪华车在世界有什么竞争力",
+        "onboard_time": 1708937675,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 377393,
+        "num": 377393,
+        "word": "人体不会癌变的器官",
+        "onboard_time": 1708916495,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 523835,
+        "num": 357818,
+        "word": "医生称春节期间肛裂病人增多",
+        "onboard_time": 1708923879,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 309185,
+        "num": 309185,
+        "word": "男子被红包雨砸伤眼睛需上万手术费",
+        "onboard_time": 1708936474,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301409,
+        "num": 301409,
+        "word": "向佐郭碧婷约会照",
+        "onboard_time": 1708933654,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287455,
+        "num": 287455,
+        "word": "杨幂让Cat上强度",
+        "onboard_time": 1708937076,
+        "rank": 23,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 285352,
+        "num": 285352,
+        "word": "A股超3600只个股上涨",
+        "onboard_time": 1708932817,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 280785,
+        "num": 280785,
+        "word": "江西回应低彩礼夫妻子女可优先入学",
+        "onboard_time": 1708936175,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250416,
+        "num": 250416,
+        "word": "韩国超一万名实习和住院医生辞职",
+        "onboard_time": 1708928318,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233499,
+        "num": 233499,
+        "word": "在县城相亲189次我凑合结婚了",
+        "onboard_time": 1708921536,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230974,
+        "num": 230974,
+        "word": "周深把杨幂的英雄池摸透了",
+        "onboard_time": 1708928793,
+        "rank": 28,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 212239,
+        "num": 212239,
+        "word": "电竞小说女主杨幂又来了",
+        "onboard_time": 1708935156,
+        "rank": 29,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 207152,
+        "num": 207152,
+        "word": "鹿晗实体专辑",
+        "onboard_time": 1708925317,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202726,
+        "num": 202726,
+        "word": "邱贻可 球不落地永不放弃",
+        "onboard_time": 1708934318,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168587,
+        "num": 168587,
+        "word": "何炅长发狼尾",
+        "onboard_time": 1708926275,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167788,
+        "num": 167788,
+        "word": "AD钙奶和鲜花中有一双41码布鞋",
+        "onboard_time": 1708938513,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163881,
+        "num": 163881,
+        "word": "这五种癌症更容易遗传",
+        "onboard_time": 1708938093,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155654,
+        "num": 155654,
+        "word": "男生在机场查到考研408分激动大喊",
+        "onboard_time": 1708938753,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152907,
+        "num": 152907,
+        "word": "小猫相亲拘谨到外八",
+        "onboard_time": 1708937495,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143293,
+        "num": 143293,
+        "word": "王诗玥柳鑫宇加冕双冠王",
+        "onboard_time": 1708938633,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187510,
+        "num": 142845,
+        "word": "在位时间最短的皇帝",
+        "onboard_time": 1708937617,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 142326,
+        "num": 142326,
+        "word": "妈妈喜欢把洗碗布放水龙头上",
+        "onboard_time": 1708915414,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142019,
+        "num": 142019,
+        "word": "潘粤明 谁说我退圈了我只是胖了",
+        "onboard_time": 1708922196,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136584,
+        "num": 136584,
+        "word": "王安宇登门拜访姐夫了吗",
+        "onboard_time": 1708925738,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134103,
+        "num": 134103,
+        "word": "考研play中的一环",
+        "onboard_time": 1708938875,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132062,
+        "num": 132062,
+        "word": "会敲门的父母养不出锁门的孩子",
+        "onboard_time": 1708928916,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131767,
+        "num": 131767,
+        "word": "王曼昱",
+        "onboard_time": 1708927355,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124226,
+        "num": 124226,
+        "word": "邓为热血高校风",
+        "onboard_time": 1708935215,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120653,
+        "num": 120653,
+        "word": "数码宝贝 男神太一",
+        "onboard_time": 1708934975,
+        "rank": 46,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 119134,
+        "num": 119134,
+        "word": "弟弟从没提过他的朋友坐轮椅",
+        "onboard_time": 1708927835,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118565,
+        "num": 118565,
+        "word": "伯远努力努力白努力",
+        "onboard_time": 1708934975,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114410,
+        "num": 114410,
+        "word": "北斗七行衍生综艺开录",
+        "onboard_time": 1708928436,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#一封复信续写中美民间友好交流佳话#"
+    }
+  }
+}

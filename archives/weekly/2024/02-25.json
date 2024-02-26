@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708936599168,
+  "endTime": 1708939114011,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -225,6 +225,14 @@
       "onboard_time": 1708848332,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1682532,
+      "num": 1682532,
+      "word": "巴勒斯坦政府宣布辞职",
+      "onboard_time": 1708937016,
+      "rank": 0,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1655165,
@@ -619,6 +627,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 874273,
+      "num": 874273,
+      "word": "小徐回应考研上岸",
+      "onboard_time": 1708936653,
+      "rank": 5,
+      "category": "教育,网红"
+    },
+    {
       "raw_hot": 872436,
       "num": 872436,
       "word": "王皓情绪价值拉满",
@@ -803,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 742578,
+      "num": 742578,
+      "word": "英语二国家线",
+      "onboard_time": 1708936355,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 741419,
       "num": 741419,
       "word": "林诗栋",
@@ -889,6 +913,14 @@
       "onboard_time": 1708841019,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 703722,
+      "num": 703722,
+      "word": "韩国承诺医生们29日前返岗不追责",
+      "onboard_time": 1708937195,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 699452,
@@ -1019,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 623423,
+      "num": 578259,
+      "word": "00后说的扣1是什么意思",
+      "onboard_time": 1708938093,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 622838,
       "num": 622838,
       "word": "纪凌尘演技",
@@ -1147,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 584225,
+      "num": 584225,
+      "word": "中方不得不采取必要措施坚定维护权益",
+      "onboard_time": 1708937135,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 583544,
       "num": 583544,
       "word": "杨迪爆改后遗症",
@@ -1201,6 +1249,14 @@
       "onboard_time": 1708911932,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 571772,
+      "num": 571772,
+      "word": "男子听老婆话挪车成功躲过一劫",
+      "onboard_time": 1708933776,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 571708,
@@ -1771,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 388680,
+      "num": 388680,
+      "word": "北大考研",
+      "onboard_time": 1708938156,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 387720,
       "num": 387720,
       "word": "林一周也 豪门情侣感",
@@ -1979,14 +2043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 342616,
-      "num": 342616,
-      "word": "男子听老婆话挪车成功躲过一劫",
-      "onboard_time": 1708933776,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342591,
       "num": 342591,
       "word": "成毅李一桐虐戏路透",
@@ -2171,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309185,
+      "num": 309185,
+      "word": "男子被红包雨砸伤眼睛需上万手术费",
+      "onboard_time": 1708936474,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309066,
       "num": 309066,
       "word": "上班后最大的执念就是省钱",
@@ -2331,6 +2395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 287455,
+      "num": 287455,
+      "word": "杨幂让Cat上强度",
+      "onboard_time": 1708937076,
+      "rank": 23,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 284727,
       "num": 260624,
       "word": "迪丽热巴被送玫瑰花",
@@ -2369,6 +2441,14 @@
       "onboard_time": 1708872997,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 280785,
+      "num": 280785,
+      "word": "江西回应低彩礼夫妻子女可优先入学",
+      "onboard_time": 1708936175,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280020,
@@ -3531,6 +3611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187510,
+      "num": 142845,
+      "word": "在位时间最短的皇帝",
+      "onboard_time": 1708937617,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 187403,
       "num": 187403,
       "word": "室友是我见过运气最好的人",
@@ -3827,6 +3915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167788,
+      "num": 167788,
+      "word": "AD钙奶和鲜花中有一双41码布鞋",
+      "onboard_time": 1708938513,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167778,
       "num": 167778,
       "word": "男学者们这时候突然要去上厕所了",
@@ -3897,6 +3993,14 @@
       "onboard_time": 1708934975,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163881,
+      "num": 163881,
+      "word": "这五种癌症更容易遗传",
+      "onboard_time": 1708938093,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 163849,
@@ -4043,6 +4147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155654,
+      "num": 155654,
+      "word": "男生在机场查到考研408分激动大喊",
+      "onboard_time": 1708938753,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155514,
       "num": 155514,
       "word": "赵丽娜发文回应质疑",
@@ -4083,20 +4195,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 152907,
+      "num": 152907,
+      "word": "小猫相亲拘谨到外八",
+      "onboard_time": 1708937495,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152223,
       "num": 152223,
       "word": "刘国梁给孙颖莎做赛前动员",
       "onboard_time": 1708785817,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151597,
-      "num": 151597,
-      "word": "英语二国家线",
-      "onboard_time": 1708936355,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 150821,
@@ -4185,6 +4297,14 @@
       "onboard_time": 1708779817,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143293,
+      "num": 143293,
+      "word": "王诗玥柳鑫宇加冕双冠王",
+      "onboard_time": 1708938633,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 143232,
@@ -4339,20 +4459,20 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 135183,
-      "num": 135183,
-      "word": "男子被红包雨砸伤眼睛需上万手术费",
-      "onboard_time": 1708936474,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134559,
       "num": 134559,
       "word": "萨摩耶 全自动果皮处理器",
       "onboard_time": 1708925613,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134103,
+      "num": 134103,
+      "word": "考研play中的一环",
+      "onboard_time": 1708938875,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 133266,
@@ -4521,14 +4641,6 @@
       "onboard_time": 1708934735,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 119924,
-      "num": 119924,
-      "word": "江西回应低彩礼夫妻子女可优先入学",
-      "onboard_time": 1708936175,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119548,
@@ -4731,6 +4843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66343,
+      "num": 1200523,
+      "word": "京津冀交通一体化取得非凡成就",
+      "onboard_time": 1708922322,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65668,
       "num": 65668,
       "word": "巴菲特明确接班人",
@@ -4881,6 +5001,14 @@
       "onboard_time": 1708801637,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 24203,
+      "num": 380031,
+      "word": "国产豪华车在世界有什么竞争力",
+      "onboard_time": 1708937675,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 23010,
