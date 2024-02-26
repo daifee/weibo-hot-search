@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708983284075,
+  "endTime": 1708985847936,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -5731,6 +5731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90256,
+      "num": 70027,
+      "word": "女校长回应百人群发不雅视频",
+      "onboard_time": 1708979055,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85387,
       "num": 74519,
       "word": "亲戚 张雪峰像个侠客",
@@ -5843,6 +5851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66451,
+      "num": 66451,
+      "word": "部分网店靠盗版短剧入账数十万",
+      "onboard_time": 1708980136,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66373,
       "num": 1337130,
       "word": "京津冀十年同心向未来",
@@ -5873,14 +5889,6 @@
       "onboard_time": 1708831174,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 63651,
-      "num": 40928,
-      "word": "女校长回应百人群发不雅视频",
-      "onboard_time": 1708979055,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62635,
@@ -5937,6 +5945,14 @@
       "onboard_time": 1708881862,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 51148,
+      "num": 22888,
+      "word": "大爷闪婚闪离要求对方归还20万彩礼",
+      "onboard_time": 1708983135,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48641,
@@ -6019,11 +6035,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 25323,
-      "num": 25323,
-      "word": "部分网店靠盗版短剧入账数十万",
-      "onboard_time": 1708980136,
-      "rank": 19,
+      "raw_hot": 25595,
+      "num": 25595,
+      "word": "3000年前的美男子长啥样",
+      "onboard_time": 1708979355,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -6033,6 +6049,14 @@
       "onboard_time": 1708801637,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 24300,
+      "num": 22812,
+      "word": "自从把家里的桌子换成透明的",
+      "onboard_time": 1708974435,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 24203,
@@ -6067,6 +6091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21112,
+      "num": 169026,
+      "word": "世界最长海底高铁隧道",
+      "onboard_time": 1708956093,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20605,
       "num": 20605,
       "word": "哪种水果吃起来最狼狈",
@@ -6083,28 +6115,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 19755,
-      "num": 169026,
-      "word": "世界最长海底高铁隧道",
-      "onboard_time": 1708956093,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 18399,
+      "num": 18399,
+      "word": "盗版短剧成香饽饽",
+      "onboard_time": 1708981394,
+      "rank": 42,
+      "category": "剧集"
     },
     {
-      "raw_hot": 19317,
-      "num": 19317,
-      "word": "3000年前的美男子长啥样",
-      "onboard_time": 1708979355,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18878,
-      "num": 17817,
-      "word": "自从把家里的桌子换成透明的",
-      "onboard_time": 1708974435,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 18342,
+      "num": 18342,
+      "word": "美国有没有张雪峰",
+      "onboard_time": 1708982835,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 17236,
@@ -6123,12 +6147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14930,
-      "num": 14930,
-      "word": "盗版短剧成香饽饽",
-      "onboard_time": 1708981394,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 15859,
+      "num": 15859,
+      "word": "不想锻炼是人类进化出的本能",
+      "onboard_time": 1708980915,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 12339,
@@ -6161,30 +6185,6 @@
       "onboard_time": 1708809077,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 10753,
-      "num": 10753,
-      "word": "不想锻炼是人类进化出的本能",
-      "onboard_time": 1708980915,
-      "rank": 47,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 10674,
-      "num": 10674,
-      "word": "美国有没有张雪峰",
-      "onboard_time": 1708982835,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 10028,
-      "num": 10028,
-      "word": "大爷闪婚闪离要求对方归还20万彩礼",
-      "onboard_time": 1708983135,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
