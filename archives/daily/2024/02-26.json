@@ -1,6 +1,6 @@
 {
   "startTime": 1708878084354,
-  "endTime": 1708947246160,
+  "endTime": 1708950662484,
   "band_list": [
     {
       "raw_hot": 3339786,
@@ -55,6 +55,22 @@
       "num": 1974500,
       "word": "娃哈哈 实验室御用水",
       "onboard_time": 1708904907,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1945759,
+      "num": 1945759,
+      "word": "董宇辉三拒讲解内衣内裤",
+      "onboard_time": 1708947691,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1902399,
+      "num": 1902399,
+      "word": "民警被实名举报强暴未成年女孩",
+      "onboard_time": 1708948353,
       "rank": 1,
       "category": "社会新闻"
     },
@@ -355,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 743048,
+      "num": 743048,
+      "word": "带状疱疹是最疼的皮肤病之一",
+      "onboard_time": 1708945113,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 742578,
       "num": 742578,
       "word": "英语二国家线",
@@ -433,6 +457,14 @@
       "onboard_time": 1708915414,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 677180,
+      "num": 677180,
+      "word": "掌心 刘诗诗窦骁",
+      "onboard_time": 1708948412,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 667026,
@@ -547,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 590613,
+      "num": 590613,
+      "word": "刘亦菲晒阿布扎比随拍",
+      "onboard_time": 1708947691,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 585786,
       "num": 585786,
       "word": "北斗七行",
@@ -657,6 +697,14 @@
       "onboard_time": 1708885099,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 512843,
+      "num": 512843,
+      "word": "妈妈出家了",
+      "onboard_time": 1708947331,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 493900,
@@ -835,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 377871,
-      "num": 377871,
-      "word": "带状疱疹是最疼的皮肤病之一",
-      "onboard_time": 1708945113,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 376979,
       "num": 318343,
       "word": "赵丽颖亚洲电影大奖获奖",
@@ -899,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350998,
+      "num": 350998,
+      "word": "杨幂穿高定打游戏",
+      "onboard_time": 1708950035,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348613,
       "num": 348613,
       "word": "国乒男团11连冠",
@@ -913,6 +961,14 @@
       "onboard_time": 1708925974,
       "rank": 21,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 343226,
+      "num": 343226,
+      "word": "年轻人为啥总穿丑衣服上班",
+      "onboard_time": 1708949372,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 342770,
@@ -931,6 +987,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 327088,
+      "num": 274920,
+      "word": "经常熬夜的人脸有多垮",
+      "onboard_time": 1708950035,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 326910,
       "num": 326910,
       "word": "肖战黑粉被限消",
@@ -945,6 +1009,14 @@
       "onboard_time": 1708908573,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 324987,
+      "num": 324987,
+      "word": "魏大勋毛不易郭麒麟新综艺路透",
+      "onboard_time": 1708948714,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 322147,
@@ -1131,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279528,
+      "num": 279528,
+      "word": "FPX战胜TES",
+      "onboard_time": 1708947874,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 275792,
       "num": 195753,
       "word": "再也不想给室友带土特产了",
@@ -1193,6 +1273,14 @@
       "onboard_time": 1708931020,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 259060,
+      "num": 259060,
+      "word": "TES被偷家",
+      "onboard_time": 1708948170,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 258147,
@@ -1459,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214221,
+      "num": 214221,
+      "word": "哪些人容易得美女病",
+      "onboard_time": 1708948714,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 213090,
       "num": 213090,
       "word": "马龙樊振东研究冠军奖杯",
@@ -1547,6 +1643,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 202047,
+      "num": 167732,
+      "word": "国考高分样卷",
+      "onboard_time": 1708949613,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 201209,
+      "num": 167631,
+      "word": "为什么饮料瓶底都是五瓣花的形状",
+      "onboard_time": 1708949674,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 199110,
       "num": 199110,
       "word": "王俊凯黑色深V",
@@ -1601,6 +1713,14 @@
       "onboard_time": 1708915533,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 190811,
+      "num": 190811,
+      "word": "杨幂周深中路切磋",
+      "onboard_time": 1708948890,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 190738,
@@ -1795,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168066,
+      "num": 168066,
+      "word": "猫咪总是口臭查出幽门螺杆菌",
+      "onboard_time": 1708950212,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167925,
       "num": 167925,
       "word": "草莓价格腰斩了",
@@ -1809,6 +1937,14 @@
       "onboard_time": 1708926816,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167222,
+      "num": 167222,
+      "word": "想让退休的妈妈去工作",
+      "onboard_time": 1708949975,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 166167,
@@ -1987,6 +2123,22 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 146045,
+      "num": 146045,
+      "word": "陈自瑶被问与王浩信情人节安排",
+      "onboard_time": 1708947753,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145271,
+      "num": 145271,
+      "word": "全面彻底排查整治各类消防隐患",
+      "onboard_time": 1708948476,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144818,
       "num": 144818,
       "word": "考研play中的一环",
@@ -2035,6 +2187,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 139347,
+      "num": 139347,
+      "word": "覃海洋获劳伦斯奖提名",
+      "onboard_time": 1708948412,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139042,
       "num": 139042,
       "word": "迪丽热巴活动憋笑",
@@ -2057,6 +2217,22 @@
       "onboard_time": 1708864057,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136091,
+      "num": 136091,
+      "word": "猫 我一下子就下去了",
+      "onboard_time": 1708950275,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 135924,
+      "num": 135924,
+      "word": "孙颖莎安慰王艺迪",
+      "onboard_time": 1708949552,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 135304,
@@ -2187,6 +2363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115419,
+      "num": 115419,
+      "word": "什么队伍还要大学生亲自排",
+      "onboard_time": 1708949613,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115012,
       "num": 115012,
       "word": "肖战文淇新合照",
@@ -2195,12 +2379,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114901,
+      "num": 114901,
+      "word": "金博洋十四冬双冠王",
+      "onboard_time": 1708947812,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113868,
       "num": 113868,
       "word": "李克勤演唱会唱富士山下",
       "onboard_time": 1708878565,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113068,
+      "num": 113068,
+      "word": "六层楼 受精卵的形成过程",
+      "onboard_time": 1708950633,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 112795,
@@ -2339,12 +2539,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66373,
+      "num": 1337130,
+      "word": "京津冀十年同心向未来",
+      "onboard_time": 1708948112,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64096,
       "num": 64096,
       "word": "湖人vs太阳",
       "onboard_time": 1708903767,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57442,
+      "num": 344875,
+      "word": "欧洲车展新宠是中国新能源",
+      "onboard_time": 1708948833,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 52700,
