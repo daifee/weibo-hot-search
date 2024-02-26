@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708985847936,
+  "endTime": 1708986835313,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -60963,6 +60963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134464,
+      "num": 99674,
+      "word": "女校长回应百人群发不雅视频",
+      "onboard_time": 1708979055,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134452,
       "num": 134452,
       "word": "女神异闻录3reload上线",
@@ -68107,14 +68115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90256,
-      "num": 70027,
-      "word": "女校长回应百人群发不雅视频",
-      "onboard_time": 1708979055,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90063,
       "num": 1265574,
       "word": "锦绣中国",
@@ -68595,6 +68595,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 80969,
+      "num": 80969,
+      "word": "部分网店靠盗版短剧入账数十万",
+      "onboard_time": 1708980136,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80878,
       "num": 235323,
       "word": "阿云嘎鲁班大师机械臂",
@@ -68865,6 +68873,14 @@
       "onboard_time": 1707491717,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76573,
+      "num": 76573,
+      "word": "大爷闪婚闪离要求对方归还20万彩礼",
+      "onboard_time": 1708983135,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76555,
@@ -69345,14 +69361,6 @@
       "onboard_time": 1708722317,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 66451,
-      "num": 66451,
-      "word": "部分网店靠盗版短剧入账数十万",
-      "onboard_time": 1708980136,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66373,
@@ -70209,14 +70217,6 @@
       "onboard_time": 1706861732,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 51148,
-      "num": 22888,
-      "word": "大爷闪婚闪离要求对方归还20万彩礼",
-      "onboard_time": 1708983135,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51067,
@@ -71411,6 +71411,14 @@
       "category": "游戏,作品衍生"
     },
     {
+      "raw_hot": 32268,
+      "num": 29074,
+      "word": "自从把家里的桌子换成透明的",
+      "onboard_time": 1708974435,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 32110,
       "num": 335589,
       "word": "大年初一来元梦领红包",
@@ -71595,6 +71603,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29198,
+      "num": 29198,
+      "word": "3000年前的美男子长啥样",
+      "onboard_time": 1708979355,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28506,
+      "num": 169026,
+      "word": "世界最长海底高铁隧道",
+      "onboard_time": 1708956093,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28418,
       "num": 28418,
       "word": "谁抢到了贾玲的电影红包",
@@ -71771,14 +71795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25595,
-      "num": 25595,
-      "word": "3000年前的美男子长啥样",
-      "onboard_time": 1708979355,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25490,
       "num": 245475,
       "word": "京东春晚送完汽车又送房",
@@ -71873,14 +71889,6 @@
       "onboard_time": 1708716556,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 24300,
-      "num": 22812,
-      "word": "自从把家里的桌子换成透明的",
-      "onboard_time": 1708974435,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 24203,
@@ -72083,6 +72091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21338,
+      "num": 21338,
+      "word": "美国有没有张雪峰",
+      "onboard_time": 1708982835,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 21298,
       "num": 497252,
       "word": "10000名网友的心愿随火箭上天",
@@ -72099,12 +72115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21112,
-      "num": 169026,
-      "word": "世界最长海底高铁隧道",
-      "onboard_time": 1708956093,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 21027,
+      "num": 21027,
+      "word": "盗版短剧成香饽饽",
+      "onboard_time": 1708981394,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 21022,
@@ -72275,22 +72291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18399,
-      "num": 18399,
-      "word": "盗版短剧成香饽饽",
-      "onboard_time": 1708981394,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 18342,
-      "num": 18342,
-      "word": "美国有没有张雪峰",
-      "onboard_time": 1708982835,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 18242,
       "num": 20630,
       "word": "直击寒潮天气湖北高速春运路况",
@@ -72337,6 +72337,14 @@
       "onboard_time": 1707421757,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17342,
+      "num": 21026,
+      "word": "不想锻炼是人类进化出的本能",
+      "onboard_time": 1708980915,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 17319,
@@ -72529,14 +72537,6 @@
       "onboard_time": 1708119796,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15859,
-      "num": 15859,
-      "word": "不想锻炼是人类进化出的本能",
-      "onboard_time": 1708980915,
-      "rank": 47,
-      "category": "运动健身"
     },
     {
       "raw_hot": 15833,

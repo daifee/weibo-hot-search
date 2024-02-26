@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708985847936,
+  "endTime": 1708986835313,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -5339,6 +5339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134464,
+      "num": 99674,
+      "word": "女校长回应百人群发不雅视频",
+      "onboard_time": 1708979055,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133367,
       "num": 133367,
       "word": "徐冬冬说跑龙套赚的钱够养自己",
@@ -5731,14 +5739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90256,
-      "num": 70027,
-      "word": "女校长回应百人群发不雅视频",
-      "onboard_time": 1708979055,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85387,
       "num": 74519,
       "word": "亲戚 张雪峰像个侠客",
@@ -5753,6 +5753,14 @@
       "onboard_time": 1708903285,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80969,
+      "num": 80969,
+      "word": "部分网店靠盗版短剧入账数十万",
+      "onboard_time": 1708980136,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80586,
@@ -5793,6 +5801,14 @@
       "onboard_time": 1708902443,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76573,
+      "num": 76573,
+      "word": "大爷闪婚闪离要求对方归还20万彩礼",
+      "onboard_time": 1708983135,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76520,
@@ -5849,14 +5865,6 @@
       "onboard_time": 1708902926,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66451,
-      "num": 66451,
-      "word": "部分网店靠盗版短剧入账数十万",
-      "onboard_time": 1708980136,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66373,
@@ -5947,14 +5955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 51148,
-      "num": 22888,
-      "word": "大爷闪婚闪离要求对方归还20万彩礼",
-      "onboard_time": 1708983135,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48641,
       "num": 1426679,
       "word": "龙年一起向更高的目标进发",
@@ -6011,6 +6011,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32268,
+      "num": 29074,
+      "word": "自从把家里的桌子换成透明的",
+      "onboard_time": 1708974435,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 29198,
+      "num": 29198,
+      "word": "3000年前的美男子长啥样",
+      "onboard_time": 1708979355,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28506,
+      "num": 169026,
+      "word": "世界最长海底高铁隧道",
+      "onboard_time": 1708956093,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27936,
       "num": 27936,
       "word": "你好星期六",
@@ -6035,28 +6059,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 25595,
-      "num": 25595,
-      "word": "3000年前的美男子长啥样",
-      "onboard_time": 1708979355,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24616,
       "num": 31719,
       "word": "俄乌冲突两周年",
       "onboard_time": 1708801637,
       "rank": 29,
       "category": "军事"
-    },
-    {
-      "raw_hot": 24300,
-      "num": 22812,
-      "word": "自从把家里的桌子换成透明的",
-      "onboard_time": 1708974435,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 24203,
@@ -6091,12 +6099,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21112,
-      "num": 169026,
-      "word": "世界最长海底高铁隧道",
-      "onboard_time": 1708956093,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 21338,
+      "num": 21338,
+      "word": "美国有没有张雪峰",
+      "onboard_time": 1708982835,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 21027,
+      "num": 21027,
+      "word": "盗版短剧成香饽饽",
+      "onboard_time": 1708981394,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 20605,
@@ -6115,20 +6131,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 18399,
-      "num": 18399,
-      "word": "盗版短剧成香饽饽",
-      "onboard_time": 1708981394,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 18342,
-      "num": 18342,
-      "word": "美国有没有张雪峰",
-      "onboard_time": 1708982835,
-      "rank": 48,
-      "category": "教育"
+      "raw_hot": 17342,
+      "num": 21026,
+      "word": "不想锻炼是人类进化出的本能",
+      "onboard_time": 1708980915,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 17236,
@@ -6145,14 +6153,6 @@
       "onboard_time": 1708743152,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15859,
-      "num": 15859,
-      "word": "不想锻炼是人类进化出的本能",
-      "onboard_time": 1708980915,
-      "rank": 47,
-      "category": "运动健身"
     },
     {
       "raw_hot": 12339,

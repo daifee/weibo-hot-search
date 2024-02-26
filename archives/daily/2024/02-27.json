@@ -1,6 +1,6 @@
 {
   "startTime": 1708964501350,
-  "endTime": 1708985847936,
+  "endTime": 1708986835313,
   "band_list": [
     {
       "raw_hot": 1314672,
@@ -235,6 +235,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 134464,
+      "num": 99674,
+      "word": "女校长回应百人群发不雅视频",
+      "onboard_time": 1708979055,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134212,
       "num": 134212,
       "word": "猎冰张颂文演技",
@@ -379,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90256,
-      "num": 70027,
-      "word": "女校长回应百人群发不雅视频",
-      "onboard_time": 1708979055,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86996,
       "num": 86996,
       "word": "邓为尹涛合照",
@@ -411,12 +411,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 80969,
+      "num": 80969,
+      "word": "部分网店靠盗版短剧入账数十万",
+      "onboard_time": 1708980136,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78602,
       "num": 78602,
       "word": "黄旭熙说现在该向前走了",
       "onboard_time": 1708969699,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76573,
+      "num": 76573,
+      "word": "大爷闪婚闪离要求对方归还20万彩礼",
+      "onboard_time": 1708983135,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76471,
@@ -435,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66451,
-      "num": 66451,
-      "word": "部分网店靠盗版短剧入账数十万",
-      "onboard_time": 1708980136,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57645,
       "num": 57645,
       "word": "李庚希晒高叶送的仙兔灯",
@@ -451,11 +459,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 51148,
-      "num": 22888,
-      "word": "大爷闪婚闪离要求对方归还20万彩礼",
-      "onboard_time": 1708983135,
-      "rank": 49,
+      "raw_hot": 32268,
+      "num": 29074,
+      "word": "自从把家里的桌子换成透明的",
+      "onboard_time": 1708974435,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 29198,
+      "num": 29198,
+      "word": "3000年前的美男子长啥样",
+      "onboard_time": 1708979355,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -467,20 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25595,
-      "num": 25595,
-      "word": "3000年前的美男子长啥样",
-      "onboard_time": 1708979355,
-      "rank": 47,
+      "raw_hot": 28506,
+      "num": 169026,
+      "word": "世界最长海底高铁隧道",
+      "onboard_time": 1708956093,
+      "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24300,
-      "num": 22812,
-      "word": "自从把家里的桌子换成透明的",
-      "onboard_time": 1708974435,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 24098,
@@ -491,12 +499,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 21112,
-      "num": 169026,
-      "word": "世界最长海底高铁隧道",
-      "onboard_time": 1708956093,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 21338,
+      "num": 21338,
+      "word": "美国有没有张雪峰",
+      "onboard_time": 1708982835,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 21027,
+      "num": 21027,
+      "word": "盗版短剧成香饽饽",
+      "onboard_time": 1708981394,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 19846,
@@ -507,20 +523,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 18399,
-      "num": 18399,
-      "word": "盗版短剧成香饽饽",
-      "onboard_time": 1708981394,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 18342,
-      "num": 18342,
-      "word": "美国有没有张雪峰",
-      "onboard_time": 1708982835,
-      "rank": 48,
-      "category": "教育"
+      "raw_hot": 17342,
+      "num": 21026,
+      "word": "不想锻炼是人类进化出的本能",
+      "onboard_time": 1708980915,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 17236,
@@ -529,14 +537,6 @@
       "onboard_time": 1708972997,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15859,
-      "num": 15859,
-      "word": "不想锻炼是人类进化出的本能",
-      "onboard_time": 1708980915,
-      "rank": 47,
-      "category": "运动健身"
     },
     {
       "raw_hot": 12339,
