@@ -1,6 +1,6 @@
 {
   "startTime": 1708878084354,
-  "endTime": 1708958055962,
+  "endTime": 1708960703314,
   "band_list": [
     {
       "raw_hot": 3339786,
@@ -291,6 +291,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 934717,
+      "num": 493477,
+      "word": "10元3副耳钉被仅退款商家千里讨公道",
+      "onboard_time": 1708958374,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 930456,
+      "num": 930456,
+      "word": "董宇辉说不讲内衣就是害羞",
+      "onboard_time": 1708957473,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 918012,
       "num": 918012,
       "word": "张小斐曾陪贾玲考研自己考上了",
@@ -331,6 +347,14 @@
       "category": "教育,网红"
     },
     {
+      "raw_hot": 866939,
+      "num": 866939,
+      "word": "前夫哥过得不好比什么都重要",
+      "onboard_time": 1708958499,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 865277,
       "num": 865277,
       "word": "帮邻居卖芹菜赚14元被罚10万",
@@ -369,6 +393,14 @@
       "onboard_time": 1708908514,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 821802,
+      "num": 492947,
+      "word": "布洛芬 能给卑职一个明示吗",
+      "onboard_time": 1708959878,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 815481,
@@ -523,6 +555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 682870,
+      "num": 682870,
+      "word": "为什么大家不爱买黑色贴身衣物",
+      "onboard_time": 1708958135,
+      "rank": 7,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 677180,
       "num": 677180,
       "word": "掌心 刘诗诗窦骁",
@@ -628,7 +668,7 @@
     },
     {
       "raw_hot": 603898,
-      "num": 288546,
+      "num": 308357,
       "word": "把公司群名改成了穷酸公司迟早倒闭",
       "onboard_time": 1708953815,
       "rank": 30,
@@ -1139,12 +1179,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 315214,
+      "num": 315214,
+      "word": "中方回应乌议员宣称愿协助美与中国等作战",
+      "onboard_time": 1708956997,
+      "rank": 48,
+      "category": "军事,国内时政"
+    },
+    {
       "raw_hot": 314032,
       "num": 314032,
       "word": "人体中最不怕冷的器官",
       "onboard_time": 1708922322,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 311319,
+      "num": 311319,
+      "word": "一夜间AD钙奶销售增长一倍",
+      "onboard_time": 1708959633,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310791,
+      "num": 310791,
+      "word": "藏海传有钟汉良",
+      "onboard_time": 1708959157,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 309847,
@@ -1193,6 +1257,14 @@
       "onboard_time": 1708914330,
       "rank": 35,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 302224,
+      "num": 302224,
+      "word": "上海招聘薪酬13261元每月居全国第一",
+      "onboard_time": 1708959755,
+      "rank": 21,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 301992,
@@ -1257,6 +1329,14 @@
       "onboard_time": 1708876233,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 286866,
+      "num": 286866,
+      "word": "A股纪录刷新",
+      "onboard_time": 1708959755,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 283542,
@@ -1345,14 +1425,6 @@
       "onboard_time": 1708860154,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 266503,
-      "num": 266503,
-      "word": "中方回应乌议员宣称愿协助美与中国等作战",
-      "onboard_time": 1708956997,
-      "rank": 48,
-      "category": "军事,国内时政"
     },
     {
       "raw_hot": 263450,
@@ -1457,14 +1529,6 @@
       "onboard_time": 1708874615,
       "rank": 26,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 243419,
-      "num": 243419,
-      "word": "董宇辉说不讲内衣就是害羞",
-      "onboard_time": 1708957473,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 242493,
@@ -1595,6 +1659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 220428,
+      "num": 220428,
+      "word": "邓为尹涛合照",
+      "onboard_time": 1708960294,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220356,
       "num": 220356,
       "word": "正月里剃头为啥死的是舅舅",
@@ -1683,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210547,
+      "num": 210547,
+      "word": "坐高铁由于好奇选了静音车厢",
+      "onboard_time": 1708959878,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210117,
       "num": 210117,
       "word": "猫咪总是口臭查出幽门螺杆菌",
@@ -1755,6 +1835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203615,
+      "num": 203615,
+      "word": "猎冰张颂文演技",
+      "onboard_time": 1708951654,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203200,
       "num": 203200,
       "word": "迪丽热巴花仙子侧拍花絮",
@@ -1771,6 +1859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 200848,
+      "num": 200848,
+      "word": "九尾狐原型可能是星星",
+      "onboard_time": 1708958915,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 199110,
       "num": 199110,
       "word": "王俊凯黑色深V",
@@ -1785,6 +1881,14 @@
       "onboard_time": 1708942114,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198669,
+      "num": 198669,
+      "word": "李想称五年内不会做20万元以下车型",
+      "onboard_time": 1708958975,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 198433,
@@ -1833,14 +1937,6 @@
       "onboard_time": 1708915533,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 190990,
-      "num": 190990,
-      "word": "猎冰张颂文演技",
-      "onboard_time": 1708951654,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 190811,
@@ -2003,6 +2099,14 @@
       "category": "教育,情感"
     },
     {
+      "raw_hot": 181924,
+      "num": 181924,
+      "word": "VOGUE拍的肖战",
+      "onboard_time": 1708960294,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 180643,
       "num": 180643,
       "word": "樊振东孙颖莎世乒赛MVP",
@@ -2033,6 +2137,14 @@
       "onboard_time": 1708949975,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 175911,
+      "num": 175911,
+      "word": "七海建人 你认错老公了",
+      "onboard_time": 1708958433,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 174439,
@@ -2209,6 +2321,14 @@
       "onboard_time": 1708874136,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159842,
+      "num": 159842,
+      "word": "中传考研",
+      "onboard_time": 1708960177,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 159777,
@@ -2451,12 +2571,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 132835,
+      "num": 132835,
+      "word": "九尾Cat情头",
+      "onboard_time": 1708959214,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131779,
       "num": 131779,
       "word": "参加多人视频会议只有自己是真人",
       "onboard_time": 1708916374,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130640,
+      "num": 130640,
+      "word": "腿姐 无论如何请继续相信自己",
+      "onboard_time": 1708960475,
+      "rank": 45,
+      "category": "教育,社会议题"
     },
     {
       "raw_hot": 130556,
@@ -2601,6 +2737,14 @@
       "onboard_time": 1708878565,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113516,
+      "num": 113516,
+      "word": "从今天起尽量少熬夜",
+      "onboard_time": 1708960654,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 112795,
