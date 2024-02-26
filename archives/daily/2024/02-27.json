@@ -1,6 +1,6 @@
 {
   "startTime": 1708964501350,
-  "endTime": 1708986835313,
+  "endTime": 1708989465843,
   "band_list": [
     {
       "raw_hot": 1314672,
@@ -9,6 +9,14 @@
       "onboard_time": 1708959878,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1058373,
+      "num": 1058373,
+      "word": "四六级分数出了",
+      "onboard_time": 1708989081,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 1044359,
@@ -91,12 +99,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 424933,
+      "num": 424933,
+      "word": "女孩说外公外婆退休后每个月收到娃哈哈补贴",
+      "onboard_time": 1708955254,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363481,
       "num": 363481,
       "word": "上海招聘薪酬13261元每月居全国第一",
       "onboard_time": 1708959755,
       "rank": 11,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 341095,
+      "num": 283524,
+      "word": "大爷闪婚闪离要求对方归还20万彩礼",
+      "onboard_time": 1708983135,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306613,
@@ -107,20 +131,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302145,
+      "num": 283290,
+      "word": "女校长回应百人群发不雅视频",
+      "onboard_time": 1708979055,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288665,
       "num": 288665,
       "word": "A股纪录刷新",
       "onboard_time": 1708959755,
       "rank": 13,
       "category": "财经"
-    },
-    {
-      "raw_hot": 255249,
-      "num": 255249,
-      "word": "女孩说外公外婆退休后每个月收到娃哈哈补贴",
-      "onboard_time": 1708955254,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254639,
@@ -163,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208653,
+      "num": 208653,
+      "word": "徐冬冬说跑龙套赚的钱够养自己",
+      "onboard_time": 1708966702,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189839,
       "num": 189839,
       "word": "中传考研",
@@ -203,12 +235,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 155350,
-      "num": 155350,
+      "raw_hot": 166396,
+      "num": 166396,
       "word": "毛不易穿洞洞鞋爬长白山",
       "onboard_time": 1708965144,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154598,
+      "num": 154598,
+      "word": "部分网店靠盗版短剧入账数十万",
+      "onboard_time": 1708980136,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146564,
@@ -235,14 +275,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 134464,
-      "num": 99674,
-      "word": "女校长回应百人群发不雅视频",
-      "onboard_time": 1708979055,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134212,
       "num": 134212,
       "word": "猎冰张颂文演技",
@@ -259,12 +291,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 133367,
-      "num": 133367,
-      "word": "徐冬冬说跑龙套赚的钱够养自己",
-      "onboard_time": 1708966702,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 124485,
+      "num": 124485,
+      "word": "男子每个月染发致中毒险肝衰竭",
+      "onboard_time": 1708988420,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123728,
@@ -331,6 +363,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 111376,
+      "num": 111376,
+      "word": "中方回应乌议员宣称愿协助美与中国等作战",
+      "onboard_time": 1708956997,
+      "rank": 42,
+      "category": "军事,国内时政"
+    },
+    {
       "raw_hot": 109986,
       "num": 109986,
       "word": "藏海传有钟汉良",
@@ -355,20 +395,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 102185,
-      "num": 102185,
-      "word": "中方回应乌议员宣称愿协助美与中国等作战",
-      "onboard_time": 1708956997,
-      "rank": 42,
-      "category": "军事,国内时政"
-    },
-    {
       "raw_hot": 99015,
       "num": 99015,
       "word": "七海建人 你认错老公了",
       "onboard_time": 1708958433,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 95090,
+      "num": 67664,
+      "word": "四六级查分入口",
+      "onboard_time": 1708989081,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 95008,
@@ -395,12 +435,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84163,
+      "num": 67281,
+      "word": "自从把家里的桌子换成透明的",
+      "onboard_time": 1708974435,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84032,
       "num": 84032,
       "word": "樊振东孙颖莎获国际乒联年度最佳运动员",
       "onboard_time": 1708955554,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82412,
+      "num": 516458,
+      "word": "世界最长海底高铁隧道",
+      "onboard_time": 1708956093,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81607,
@@ -411,28 +467,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 80969,
-      "num": 80969,
-      "word": "部分网店靠盗版短剧入账数十万",
-      "onboard_time": 1708980136,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78602,
       "num": 78602,
       "word": "黄旭熙说现在该向前走了",
       "onboard_time": 1708969699,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76573,
-      "num": 76573,
-      "word": "大爷闪婚闪离要求对方归还20万彩礼",
-      "onboard_time": 1708983135,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76471,
@@ -459,16 +499,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 32268,
-      "num": 29074,
-      "word": "自从把家里的桌子换成透明的",
-      "onboard_time": 1708974435,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 35508,
+      "num": 35508,
+      "word": "盗版短剧成香饽饽",
+      "onboard_time": 1708981394,
+      "rank": 42,
+      "category": "剧集"
     },
     {
-      "raw_hot": 29198,
-      "num": 29198,
+      "raw_hot": 32483,
+      "num": 35502,
       "word": "3000年前的美男子长啥样",
       "onboard_time": 1708979355,
       "rank": 47,
@@ -479,14 +519,6 @@
       "num": 739004,
       "word": "数据看京津冀一核两翼新格局",
       "onboard_time": 1708956276,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28506,
-      "num": 169026,
-      "word": "世界最长海底高铁隧道",
-      "onboard_time": 1708956093,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -505,14 +537,6 @@
       "onboard_time": 1708982835,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 21027,
-      "num": 21027,
-      "word": "盗版短剧成香饽饽",
-      "onboard_time": 1708981394,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 19846,

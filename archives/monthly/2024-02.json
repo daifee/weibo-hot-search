@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708986835313,
+  "endTime": 1708989465843,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -7033,6 +7033,14 @@
       "onboard_time": 1707305914,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1058373,
+      "num": 1058373,
+      "word": "四六级分数出了",
+      "onboard_time": 1708989081,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 1058216,
@@ -26779,6 +26787,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 341095,
+      "num": 283524,
+      "word": "大爷闪婚闪离要求对方归还20万彩礼",
+      "onboard_time": 1708983135,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340757,
       "num": 326818,
       "word": "真正聪明的人都有一种钝感力",
@@ -29593,6 +29609,14 @@
       "onboard_time": 1708475915,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 302145,
+      "num": 283290,
+      "word": "女校长回应百人群发不雅视频",
+      "onboard_time": 1708979055,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301992,
@@ -41595,6 +41619,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 208653,
+      "num": 208653,
+      "word": "徐冬冬说跑龙套赚的钱够养自己",
+      "onboard_time": 1708966702,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208608,
       "num": 208608,
       "word": "杨紫马丽同款羽毛衫",
@@ -52835,6 +52867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166396,
+      "num": 166396,
+      "word": "毛不易穿洞洞鞋爬长白山",
+      "onboard_time": 1708965144,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166390,
       "num": 166390,
       "word": "国乒釜山第一练",
@@ -55603,14 +55643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155350,
-      "num": 155350,
-      "word": "毛不易穿洞洞鞋爬长白山",
-      "onboard_time": 1708965144,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155320,
       "num": 155320,
       "word": "腹股沟拉伤自行愈合有多难",
@@ -55809,6 +55841,14 @@
       "onboard_time": 1706937931,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154598,
+      "num": 154598,
+      "word": "部分网店靠盗版短剧入账数十万",
+      "onboard_time": 1708980136,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154549,
@@ -60963,14 +61003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 134464,
-      "num": 99674,
-      "word": "女校长回应百人群发不雅视频",
-      "onboard_time": 1708979055,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134452,
       "num": 134452,
       "word": "女神异闻录3reload上线",
@@ -61177,14 +61209,6 @@
       "onboard_time": 1707637531,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 133367,
-      "num": 133367,
-      "word": "徐冬冬说跑龙套赚的钱够养自己",
-      "onboard_time": 1708966702,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 133340,
@@ -63305,6 +63329,14 @@
       "onboard_time": 1707664654,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124485,
+      "num": 124485,
+      "word": "男子每个月染发致中毒险肝衰竭",
+      "onboard_time": 1708988420,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124480,
@@ -67715,6 +67747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95090,
+      "num": 67664,
+      "word": "四六级查分入口",
+      "onboard_time": 1708989081,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 95046,
       "num": 1307534,
       "word": "春晚好多年没有见证奇迹的时刻了",
@@ -68379,6 +68419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84163,
+      "num": 67281,
+      "word": "自从把家里的桌子换成透明的",
+      "onboard_time": 1708974435,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84056,
       "num": 67185,
       "word": "胡先煦黑历史再加一",
@@ -68507,6 +68555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 82412,
+      "num": 516458,
+      "word": "世界最长海底高铁隧道",
+      "onboard_time": 1708956093,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82406,
       "num": 123959,
       "word": "故宫的中国龙纹太精美了",
@@ -68593,14 +68649,6 @@
       "onboard_time": 1707342316,
       "rank": 26,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 80969,
-      "num": 80969,
-      "word": "部分网店靠盗版短剧入账数十万",
-      "onboard_time": 1708980136,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80878,
@@ -68873,14 +68921,6 @@
       "onboard_time": 1707491717,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76573,
-      "num": 76573,
-      "word": "大爷闪婚闪离要求对方归还20万彩礼",
-      "onboard_time": 1708983135,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76555,
@@ -71195,6 +71235,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 35508,
+      "num": 35508,
+      "word": "盗版短剧成香饽饽",
+      "onboard_time": 1708981394,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35506,
       "num": 35506,
       "word": "曼联1比2富勒姆",
@@ -71395,6 +71443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32483,
+      "num": 35502,
+      "word": "3000年前的美男子长啥样",
+      "onboard_time": 1708979355,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32400,
       "num": 32400,
       "word": "周洁琼许佳琪跳了troublemaker",
@@ -71409,14 +71465,6 @@
       "onboard_time": 1707307115,
       "rank": 29,
       "category": "游戏,作品衍生"
-    },
-    {
-      "raw_hot": 32268,
-      "num": 29074,
-      "word": "自从把家里的桌子换成透明的",
-      "onboard_time": 1708974435,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 32110,
@@ -71600,22 +71648,6 @@
       "word": "王亚平说回家过年感觉良好",
       "onboard_time": 1706868214,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29198,
-      "num": 29198,
-      "word": "3000年前的美男子长啥样",
-      "onboard_time": 1708979355,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28506,
-      "num": 169026,
-      "word": "世界最长海底高铁隧道",
-      "onboard_time": 1708956093,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -72113,14 +72145,6 @@
       "onboard_time": 1707595157,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21027,
-      "num": 21027,
-      "word": "盗版短剧成香饽饽",
-      "onboard_time": 1708981394,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 21022,
