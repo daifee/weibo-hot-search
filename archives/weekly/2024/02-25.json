@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708940056966,
+  "endTime": 1708942758728,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1144453,
+      "num": 1144453,
+      "word": "韩国承诺医生们29日前返岗不追责",
+      "onboard_time": 1708937195,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1134428,
       "num": 875849,
       "word": "许昕 釜山不推迟的话我也是其中一员",
@@ -577,14 +585,6 @@
       "onboard_time": 1708836821,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 923410,
-      "num": 923410,
-      "word": "韩国承诺医生们29日前返岗不追责",
-      "onboard_time": 1708937195,
-      "rank": 8,
-      "category": "国外时政"
     },
     {
       "raw_hot": 897801,
@@ -771,6 +771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 792450,
+      "num": 792450,
+      "word": "男生在机场查到考研408分激动大喊",
+      "onboard_time": 1708938753,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 782066,
       "num": 782066,
       "word": "爸爸每周给29岁女儿备好一周饭菜",
@@ -851,6 +859,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 729754,
+      "num": 729754,
+      "word": "东电核污染水第四次排放",
+      "onboard_time": 1708940436,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 722217,
       "num": 722217,
       "word": "咖啡超过九块九就不想喝了",
@@ -889,6 +905,14 @@
       "onboard_time": 1708788757,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 714073,
+      "num": 714073,
+      "word": "暨南大学 谁查到了",
+      "onboard_time": 1708941632,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 706778,
@@ -1321,6 +1345,14 @@
       "onboard_time": 1708932817,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 550513,
+      "num": 550513,
+      "word": "苹果公司警告手机进水别插米里",
+      "onboard_time": 1708941094,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 548943,
@@ -2323,6 +2355,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 298597,
+      "num": 298597,
+      "word": "日本今年计划排放5.46万吨核污染水",
+      "onboard_time": 1708939715,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 296833,
       "num": 296833,
       "word": "南京此次火灾为何伤亡严重",
@@ -2505,14 +2545,6 @@
       "onboard_time": 1708833636,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 274785,
-      "num": 274785,
-      "word": "男生在机场查到考研408分激动大喊",
-      "onboard_time": 1708938753,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274661,
@@ -2787,6 +2819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 246226,
+      "num": 246226,
+      "word": "六盘水",
+      "onboard_time": 1708941632,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245757,
       "num": 245757,
       "word": "林允儿跳了Flower",
@@ -2873,6 +2913,14 @@
       "onboard_time": 1708912417,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 238078,
+      "num": 238078,
+      "word": "理想汽车全年营收破千亿",
+      "onboard_time": 1708941334,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 235961,
@@ -2963,6 +3011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 229741,
+      "num": 229741,
+      "word": "Tian芮尔五杀",
+      "onboard_time": 1708942414,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 229289,
       "num": 229289,
       "word": "因为汤圆和男朋友哭了一场",
@@ -2977,14 +3033,6 @@
       "onboard_time": 1708838376,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 228738,
-      "num": 228738,
-      "word": "日本今年计划排放5.46万吨核污染水",
-      "onboard_time": 1708939715,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 228209,
@@ -3395,6 +3443,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 198775,
+      "num": 198775,
+      "word": "武磊获中国金球奖",
+      "onboard_time": 1708942114,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198433,
       "num": 198433,
       "word": "大学生开学的戒断反应有多严重",
@@ -3739,6 +3795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184211,
+      "num": 184211,
+      "word": "日本核污水排放入海已满半年",
+      "onboard_time": 1708941817,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 183858,
       "num": 183858,
       "word": "演员工会奖获奖名单",
@@ -3835,6 +3899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178181,
+      "num": 178181,
+      "word": "CRAVITY",
+      "onboard_time": 1708941394,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 177870,
       "num": 177870,
       "word": "锦鲤本鲤见者运气爆棚",
@@ -3889,6 +3961,14 @@
       "onboard_time": 1708797561,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 172827,
+      "num": 172827,
+      "word": "陆虎在竞综里松弛的像旅综",
+      "onboard_time": 1708940674,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 172459,
@@ -4099,6 +4179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161606,
+      "num": 161606,
+      "word": "耵聍清理",
+      "onboard_time": 1708941154,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 161433,
       "num": 161433,
       "word": "双北对话梦回明侦",
@@ -4145,6 +4233,14 @@
       "onboard_time": 1708935336,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 158173,
+      "num": 158173,
+      "word": "TES对战FPX",
+      "onboard_time": 1708942534,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 157718,
@@ -4235,6 +4331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152336,
+      "num": 152336,
+      "word": "淘特逐步并回淘宝",
+      "onboard_time": 1708940256,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 152223,
       "num": 152223,
       "word": "刘国梁给孙颖莎做赛前动员",
@@ -4289,6 +4393,14 @@
       "onboard_time": 1708842333,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 147177,
+      "num": 147177,
+      "word": "仙逆年番开播",
+      "onboard_time": 1708942054,
+      "rank": 45,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 146450,

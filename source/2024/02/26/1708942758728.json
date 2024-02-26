@@ -1,0 +1,410 @@
+{
+  "runTime": 1708942758728,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1144453,
+        "num": 1144453,
+        "word": "韩国承诺医生们29日前返岗不追责",
+        "onboard_time": 1708937195,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1140750,
+        "num": 1140750,
+        "word": "巴勒斯坦政府宣布辞职",
+        "onboard_time": 1708937016,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 48806,
+        "num": 884307,
+        "word": "京津冀交通一体化取得非凡成就",
+        "onboard_time": 1708922322,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 830648,
+        "num": 830648,
+        "word": "林志玲林志颖是幼儿园同学",
+        "onboard_time": 1708935036,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 792450,
+        "num": 792450,
+        "word": "男生在机场查到考研408分激动大喊",
+        "onboard_time": 1708938753,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729754,
+        "num": 729754,
+        "word": "东电核污染水第四次排放",
+        "onboard_time": 1708940436,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 714073,
+        "num": 714073,
+        "word": "暨南大学 谁查到了",
+        "onboard_time": 1708941632,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 636941,
+        "num": 636941,
+        "word": "考研国家线",
+        "onboard_time": 1708910913,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 603060,
+        "num": 603060,
+        "word": "小徐上岸",
+        "onboard_time": 1708927233,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 553736,
+        "num": 553736,
+        "word": "中方不得不采取必要措施坚定维护权益",
+        "onboard_time": 1708937135,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 550513,
+        "num": 550513,
+        "word": "苹果公司警告手机进水别插米里",
+        "onboard_time": 1708941094,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 489028,
+        "num": 489028,
+        "word": "北大考研",
+        "onboard_time": 1708938156,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 433716,
+        "num": 433716,
+        "word": "小徐回应考研上岸",
+        "onboard_time": 1708936653,
+        "rank": 12,
+        "category": "教育,网红"
+      },
+      {
+        "raw_hot": 405804,
+        "num": 405804,
+        "word": "考研成绩",
+        "onboard_time": 1708910736,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 384492,
+        "num": 384492,
+        "word": "英语二国家线",
+        "onboard_time": 1708936355,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 368333,
+        "num": 368333,
+        "word": "00后说的扣1是什么意思",
+        "onboard_time": 1708938093,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 361366,
+        "num": 361366,
+        "word": "爸爸每周给29岁女儿备好一周饭菜",
+        "onboard_time": 1708923277,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350588,
+        "num": 350588,
+        "word": "男子听老婆话挪车成功躲过一劫",
+        "onboard_time": 1708933776,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334513,
+        "num": 334513,
+        "word": "肖战评价自己看秀穿搭",
+        "onboard_time": 1708939296,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 334129,
+        "num": 334129,
+        "word": "郭涛儿子石头17岁近照",
+        "onboard_time": 1708930478,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318099,
+        "num": 318099,
+        "word": "为什么快递名都要写假名字",
+        "onboard_time": 1708930175,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317223,
+        "num": 317223,
+        "word": "医生称春节期间肛裂病人增多",
+        "onboard_time": 1708923879,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 298597,
+        "num": 298597,
+        "word": "日本今年计划排放5.46万吨核污染水",
+        "onboard_time": 1708939715,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 252741,
+        "num": 252741,
+        "word": "三个月喝了近一千块的奶茶",
+        "onboard_time": 1708916432,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 246226,
+        "num": 246226,
+        "word": "六盘水",
+        "onboard_time": 1708941632,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244466,
+        "num": 244466,
+        "word": "娃哈哈纯净水为什么是596ml",
+        "onboard_time": 1708925676,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238078,
+        "num": 238078,
+        "word": "理想汽车全年营收破千亿",
+        "onboard_time": 1708941334,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 229741,
+        "num": 229741,
+        "word": "Tian芮尔五杀",
+        "onboard_time": 1708942414,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221619,
+        "num": 221619,
+        "word": "杨幂让Cat上强度",
+        "onboard_time": 1708937076,
+        "rank": 28,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 219236,
+        "num": 219236,
+        "word": "弟弟从没提过他的朋友坐轮椅",
+        "onboard_time": 1708927835,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201432,
+        "num": 201432,
+        "word": "男子被红包雨砸伤眼睛需上万手术费",
+        "onboard_time": 1708936474,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198775,
+        "num": 198775,
+        "word": "武磊获中国金球奖",
+        "onboard_time": 1708942114,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184211,
+        "num": 184211,
+        "word": "日本核污水排放入海已满半年",
+        "onboard_time": 1708941817,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 198777,
+        "num": 183494,
+        "word": "周深把杨幂的英雄池摸透了",
+        "onboard_time": 1708928793,
+        "rank": 33,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 178181,
+        "num": 178181,
+        "word": "CRAVITY",
+        "onboard_time": 1708941394,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 177295,
+        "num": 177295,
+        "word": "潘粤明 谁说我退圈了我只是胖了",
+        "onboard_time": 1708922196,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175703,
+        "num": 175703,
+        "word": "王诗玥柳鑫宇加冕双冠王",
+        "onboard_time": 1708938633,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172827,
+        "num": 172827,
+        "word": "陆虎在竞综里松弛的像旅综",
+        "onboard_time": 1708940674,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172696,
+        "num": 172696,
+        "word": "江西回应低彩礼夫妻子女可优先入学",
+        "onboard_time": 1708936175,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161606,
+        "num": 161606,
+        "word": "耵聍清理",
+        "onboard_time": 1708941154,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158173,
+        "num": 158173,
+        "word": "TES对战FPX",
+        "onboard_time": 1708942534,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152906,
+        "num": 152906,
+        "word": "人体不会癌变的器官",
+        "onboard_time": 1708916495,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152336,
+        "num": 152336,
+        "word": "淘特逐步并回淘宝",
+        "onboard_time": 1708940256,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 150484,
+        "num": 150484,
+        "word": "何炅长发狼尾",
+        "onboard_time": 1708926275,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150422,
+        "num": 150422,
+        "word": "这五种癌症更容易遗传",
+        "onboard_time": 1708938093,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147177,
+        "num": 147177,
+        "word": "仙逆年番开播",
+        "onboard_time": 1708942054,
+        "rank": 45,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 139865,
+        "num": 139865,
+        "word": "AD钙奶和鲜花中有一双41码布鞋",
+        "onboard_time": 1708938513,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138965,
+        "num": 138965,
+        "word": "鹿晗实体专辑",
+        "onboard_time": 1708925317,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138332,
+        "num": 138332,
+        "word": "未返校原因",
+        "onboard_time": 1708939118,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137952,
+        "num": 137952,
+        "word": "电竞小说女主杨幂又来了",
+        "onboard_time": 1708935156,
+        "rank": 49,
+        "category": "艺人,电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#一封复信续写中美民间友好交流佳话#"
+    }
+  }
+}
