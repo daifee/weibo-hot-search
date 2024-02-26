@@ -1,7 +1,15 @@
 {
   "startTime": 1708878084354,
-  "endTime": 1708911142347,
+  "endTime": 1708914353188,
   "band_list": [
+    {
+      "raw_hot": 3339786,
+      "num": 3339786,
+      "word": "考研成绩",
+      "onboard_time": 1708910736,
+      "rank": 1,
+      "category": "教育"
+    },
     {
       "raw_hot": 2136805,
       "num": 2136805,
@@ -9,6 +17,14 @@
       "onboard_time": 1708878090,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2094657,
+      "num": 2094657,
+      "word": "失踪4姐弟凌晨被发现在芦苇丛睡觉",
+      "onboard_time": 1708911213,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1974500,
@@ -19,11 +35,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1757600,
-      "num": 1757600,
-      "word": "考研成绩",
-      "onboard_time": 1708910736,
-      "rank": 1,
+      "raw_hot": 1763808,
+      "num": 1763808,
+      "word": "考研国家线",
+      "onboard_time": 1708910913,
+      "rank": 24,
       "category": "教育"
     },
     {
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 1000791,
-      "num": 722971,
+      "num": 808011,
       "word": "马云发挽联悼念宗庆后",
       "onboard_time": 1708909954,
       "rank": 46,
@@ -81,6 +97,14 @@
       "onboard_time": 1708908514,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 793608,
+      "num": 793608,
+      "word": "演唱会门票秒没票务那儿大把",
+      "onboard_time": 1708910374,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 747737,
@@ -131,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 655885,
+      "num": 655885,
+      "word": "医生提醒过早医美抗衰可能适得其反",
+      "onboard_time": 1708908573,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 610268,
       "num": 610268,
       "word": "今天查考研成绩",
@@ -163,20 +195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 578036,
-      "num": 723902,
-      "word": "演唱会门票秒没票务那儿大把",
-      "onboard_time": 1708910374,
-      "rank": 9,
-      "category": "演出"
-    },
-    {
       "raw_hot": 577391,
       "num": 577391,
       "word": "姜妍演技",
       "onboard_time": 1708875217,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 572012,
+      "num": 572012,
+      "word": "管综",
+      "onboard_time": 1708911932,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 566262,
@@ -187,14 +219,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 564583,
-      "num": 564583,
-      "word": "医生提醒过早医美抗衰可能适得其反",
-      "onboard_time": 1708908573,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 558531,
       "num": 558531,
       "word": "牛大力官配许清雅出场",
@@ -203,12 +227,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 515436,
+      "num": 515436,
+      "word": "明白为啥人神相恋不被允许了",
+      "onboard_time": 1708912053,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 514722,
       "num": 514722,
       "word": "刘畊宏称爆火阶段没接任何商业合作",
       "onboard_time": 1708885099,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 506024,
+      "num": 506024,
+      "word": "英语二",
+      "onboard_time": 1708913674,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 486083,
@@ -307,12 +347,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 329690,
-      "num": 329690,
-      "word": "考研国家线",
-      "onboard_time": 1708910913,
-      "rank": 24,
+      "raw_hot": 340408,
+      "num": 340408,
+      "word": "法硕",
+      "onboard_time": 1708911453,
+      "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 329029,
+      "num": 329029,
+      "word": "江西崇义低彩礼夫妻子女可优先入学",
+      "onboard_time": 1708912531,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325407,
@@ -337,6 +385,14 @@
       "onboard_time": 1708902744,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 296617,
+      "num": 296617,
+      "word": "马龙轻击台面告别世锦赛",
+      "onboard_time": 1708911993,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 287943,
@@ -371,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278582,
+      "num": 278582,
+      "word": "肖战发型 龙头",
+      "onboard_time": 1708914034,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275792,
       "num": 195753,
       "word": "再也不想给室友带土特产了",
@@ -385,6 +449,22 @@
       "onboard_time": 1708860154,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 263450,
+      "num": 223801,
+      "word": "猫咪在床上跑酷被主人叫名字",
+      "onboard_time": 1708913434,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 262603,
+      "num": 262603,
+      "word": "新加坡航展A400m禁止中国游客参观",
+      "onboard_time": 1708910613,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258147,
@@ -427,6 +507,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 238081,
+      "num": 238081,
+      "word": "苹果头显制造成本曝光",
+      "onboard_time": 1708912417,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 233978,
       "num": 233978,
       "word": "贾跃亭炮轰高合汽车是行业耻辱",
@@ -443,6 +531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228209,
+      "num": 228209,
+      "word": "为什么洗草莓会掉色",
+      "onboard_time": 1708911092,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 225578,
       "num": 193193,
       "word": "妻子四胎准备出院男子跪谢妻子",
@@ -457,6 +553,14 @@
       "onboard_time": 1708903527,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224552,
+      "num": 224552,
+      "word": "沈梦辰回复杨迪",
+      "onboard_time": 1708913491,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 219925,
@@ -499,12 +603,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 190865,
-      "num": 190865,
-      "word": "新加坡航展A400m禁止中国游客参观",
-      "onboard_time": 1708910613,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 189796,
+      "num": 189796,
+      "word": "岳云鹏说自己一哥算不上",
+      "onboard_time": 1708912834,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 189736,
@@ -529,6 +633,14 @@
       "onboard_time": 1708868193,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173211,
+      "num": 173211,
+      "word": "冷冻食品可别直接下锅",
+      "onboard_time": 1708914330,
+      "rank": 35,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 172354,
@@ -571,6 +683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159777,
+      "num": 159777,
+      "word": "明天四六级出成绩",
+      "onboard_time": 1708913251,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 156971,
       "num": 156971,
       "word": "张真源说岛上的生活挺好的人不太好",
@@ -585,6 +705,14 @@
       "onboard_time": 1708905027,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155534,
+      "num": 155534,
+      "word": "蟠陶盛彦",
+      "onboard_time": 1708914153,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 151082,
@@ -603,12 +731,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 145156,
-      "num": 145156,
-      "word": "为什么洗草莓会掉色",
-      "onboard_time": 1708911092,
-      "rank": 49,
-      "category": "美食"
+      "raw_hot": 140579,
+      "num": 140579,
+      "word": "含这些成分的护肤品才抗衰",
+      "onboard_time": 1708913011,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 139042,
@@ -788,7 +916,7 @@
     },
     {
       "raw_hot": 80586,
-      "num": 1600315,
+      "num": 1834054,
       "word": "中国载人月球探测任务正有序推进",
       "onboard_time": 1708866758,
       "rank": 2,
