@@ -1,0 +1,410 @@
+{
+  "runTime": 1708936599168,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1638368,
+        "num": 1638368,
+        "word": "小徐上岸",
+        "onboard_time": 1708927233,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1328962,
+        "num": 1328962,
+        "word": "林志玲林志颖是幼儿园同学",
+        "onboard_time": 1708935036,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37205,
+        "num": 999032,
+        "word": "龙年一起向更高的目标进发",
+        "onboard_time": 1708922860,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 978967,
+        "num": 978967,
+        "word": "考研成绩",
+        "onboard_time": 1708910736,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 765270,
+        "num": 765270,
+        "word": "为什么快递名都要写假名字",
+        "onboard_time": 1708930175,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 726201,
+        "num": 726201,
+        "word": "郭涛儿子石头17岁近照",
+        "onboard_time": 1708930478,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660767,
+        "num": 660767,
+        "word": "考研国家线",
+        "onboard_time": 1708910913,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 501006,
+        "num": 501006,
+        "word": "娃哈哈纯净水为什么是596ml",
+        "onboard_time": 1708925676,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497718,
+        "num": 497718,
+        "word": "人体不会癌变的器官",
+        "onboard_time": 1708916495,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 472375,
+        "num": 472375,
+        "word": "三个月喝了近一千块的奶茶",
+        "onboard_time": 1708916432,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 461446,
+        "num": 461446,
+        "word": "A股超3600只个股上涨",
+        "onboard_time": 1708932817,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 428943,
+        "num": 428943,
+        "word": "向佐郭碧婷约会照",
+        "onboard_time": 1708933654,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386165,
+        "num": 386165,
+        "word": "爸爸每周给29岁女儿备好一周饭菜",
+        "onboard_time": 1708923277,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382988,
+        "num": 382988,
+        "word": "韩国超一万名实习和住院医生辞职",
+        "onboard_time": 1708928318,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342616,
+        "num": 342616,
+        "word": "男子听老婆话挪车成功躲过一劫",
+        "onboard_time": 1708933776,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328158,
+        "num": 328158,
+        "word": "周深把杨幂的英雄池摸透了",
+        "onboard_time": 1708928793,
+        "rank": 15,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 322000,
+        "num": 322000,
+        "word": "在县城相亲189次我凑合结婚了",
+        "onboard_time": 1708921536,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318691,
+        "num": 318691,
+        "word": "邱贻可 球不落地永不放弃",
+        "onboard_time": 1708934318,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231057,
+        "num": 231057,
+        "word": "汪峰女儿小苹果近照",
+        "onboard_time": 1708931316,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229743,
+        "num": 229743,
+        "word": "鹿晗实体专辑",
+        "onboard_time": 1708925317,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 718088,
+        "num": 227663,
+        "word": "医生称春节期间肛裂病人增多",
+        "onboard_time": 1708923879,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246653,
+        "num": 223909,
+        "word": "电竞小说女主杨幂又来了",
+        "onboard_time": 1708935156,
+        "rank": 21,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 218532,
+        "num": 218532,
+        "word": "王楚钦说有你们没在怕",
+        "onboard_time": 1708930118,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203434,
+        "num": 203434,
+        "word": "弟弟从没提过他的朋友坐轮椅",
+        "onboard_time": 1708927835,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198682,
+        "num": 198682,
+        "word": "考研调剂",
+        "onboard_time": 1708931020,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196653,
+        "num": 196653,
+        "word": "潘粤明 谁说我退圈了我只是胖了",
+        "onboard_time": 1708922196,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192757,
+        "num": 192757,
+        "word": "邓为热血高校风",
+        "onboard_time": 1708935215,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187103,
+        "num": 187103,
+        "word": "何炅长发狼尾",
+        "onboard_time": 1708926275,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186904,
+        "num": 186904,
+        "word": "数码宝贝 男神太一",
+        "onboard_time": 1708934975,
+        "rank": 28,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 181758,
+        "num": 181758,
+        "word": "王安宇登门拜访姐夫了吗",
+        "onboard_time": 1708925738,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174143,
+        "num": 174143,
+        "word": "王曼昱",
+        "onboard_time": 1708927355,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173635,
+        "num": 173635,
+        "word": "山东考研成绩",
+        "onboard_time": 1708933414,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170301,
+        "num": 170301,
+        "word": "妈妈喜欢把洗碗布放水龙头上",
+        "onboard_time": 1708915414,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169713,
+        "num": 169713,
+        "word": "会敲门的父母养不出锁门的孩子",
+        "onboard_time": 1708928916,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165018,
+        "num": 165018,
+        "word": "伯远努力努力白努力",
+        "onboard_time": 1708934975,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158321,
+        "num": 158321,
+        "word": "中国航天有望创造一项新纪录",
+        "onboard_time": 1708935336,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151597,
+        "num": 151597,
+        "word": "英语二国家线",
+        "onboard_time": 1708936355,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147631,
+        "num": 147631,
+        "word": "年轻人开始整顿家庭伦理观",
+        "onboard_time": 1708929875,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145096,
+        "num": 145096,
+        "word": "让你的脸变丑的习惯",
+        "onboard_time": 1708928616,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 143970,
+        "num": 143970,
+        "word": "A股",
+        "onboard_time": 1708935575,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141745,
+        "num": 141745,
+        "word": "赵丽颖露肩了",
+        "onboard_time": 1708919077,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137615,
+        "num": 137615,
+        "word": "高叶收到范丞丞送的海鲜",
+        "onboard_time": 1708931316,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136561,
+        "num": 136561,
+        "word": "北斗七行衍生综艺开录",
+        "onboard_time": 1708928436,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135183,
+        "num": 135183,
+        "word": "男子被红包雨砸伤眼睛需上万手术费",
+        "onboard_time": 1708936474,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129601,
+        "num": 129601,
+        "word": "论收件人名称可以有多离谱",
+        "onboard_time": 1708934376,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119924,
+        "num": 119924,
+        "word": "江西回应低彩礼夫妻子女可优先入学",
+        "onboard_time": 1708936175,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118174,
+        "num": 118174,
+        "word": "王俊凯黑色深V",
+        "onboard_time": 1708931258,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 116081,
+        "num": 116081,
+        "word": "古天乐否认与宣萱结婚生子",
+        "onboard_time": 1708919981,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115567,
+        "num": 115567,
+        "word": "室友是我见过运气最好的人",
+        "onboard_time": 1708928916,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110070,
+        "num": 110070,
+        "word": "英语一",
+        "onboard_time": 1708920338,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一封复信续写中美民间友好交流佳话#"
+    }
+  }
+}
