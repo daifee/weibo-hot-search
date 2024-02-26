@@ -1,0 +1,410 @@
+{
+  "runTime": 1708946005179,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2131797,
+        "num": 2131797,
+        "word": "暨南大学 谁查到了",
+        "onboard_time": 1708941632,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1455407,
+        "num": 1455407,
+        "word": "苹果公司警告手机进水别插米里",
+        "onboard_time": 1708941094,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 33159,
+        "num": 1278845,
+        "word": "京津冀交通一体化取得非凡成就",
+        "onboard_time": 1708922322,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1221054,
+        "num": 1221054,
+        "word": "李湘晒王诗龄送的礼物",
+        "onboard_time": 1708944091,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 828725,
+        "num": 828725,
+        "word": "帮邻居卖芹菜赚14元被罚10万",
+        "onboard_time": 1708943673,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793318,
+        "num": 793318,
+        "word": "怎么劝退我买这件衣服",
+        "onboard_time": 1708943016,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 543327,
+        "num": 543327,
+        "word": "六盘水",
+        "onboard_time": 1708941632,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540445,
+        "num": 540445,
+        "word": "林志玲林志颖是幼儿园同学",
+        "onboard_time": 1708935036,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506217,
+        "num": 506217,
+        "word": "考研国家线",
+        "onboard_time": 1708910913,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 478523,
+        "num": 478523,
+        "word": "男生在机场查到考研408分激动大喊",
+        "onboard_time": 1708938753,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464095,
+        "num": 464095,
+        "word": "巴勒斯坦政府宣布辞职",
+        "onboard_time": 1708937016,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 380466,
+        "num": 380466,
+        "word": "金晨终于又跳舞了",
+        "onboard_time": 1708942774,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348365,
+        "num": 348365,
+        "word": "韩国承诺医生们29日前返岗不追责",
+        "onboard_time": 1708937195,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 281228,
+        "num": 281228,
+        "word": "爸爸每周给29岁女儿备好一周饭菜",
+        "onboard_time": 1708923277,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278512,
+        "num": 278512,
+        "word": "小徐回应考研上岸",
+        "onboard_time": 1708936653,
+        "rank": 14,
+        "category": "教育,网红"
+      },
+      {
+        "raw_hot": 257112,
+        "num": 257112,
+        "word": "考研成绩",
+        "onboard_time": 1708910736,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 256263,
+        "num": 256263,
+        "word": "郭涛儿子石头17岁近照",
+        "onboard_time": 1708930478,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251675,
+        "num": 251675,
+        "word": "东电核污染水第四次排放",
+        "onboard_time": 1708940436,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 228789,
+        "num": 228789,
+        "word": "三个月喝了近一千块的奶茶",
+        "onboard_time": 1708916432,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 195364,
+        "num": 195364,
+        "word": "小徐上岸",
+        "onboard_time": 1708927233,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 287050,
+        "num": 195216,
+        "word": "带状疱疹是最疼的皮肤病之一",
+        "onboard_time": 1708945113,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 267271,
+        "num": 194639,
+        "word": "医生称春节期间肛裂病人增多",
+        "onboard_time": 1708923879,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 247352,
+        "num": 194251,
+        "word": "睡懵了小猫被掰成两半了",
+        "onboard_time": 1708942774,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193812,
+        "num": 193812,
+        "word": "肖战评价自己看秀穿搭",
+        "onboard_time": 1708939296,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187445,
+        "num": 187445,
+        "word": "Tian芮尔五杀",
+        "onboard_time": 1708942414,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183975,
+        "num": 183975,
+        "word": "娃哈哈纯净水为什么是596ml",
+        "onboard_time": 1708925676,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176434,
+        "num": 176434,
+        "word": "北大考研",
+        "onboard_time": 1708938156,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173977,
+        "num": 173977,
+        "word": "英语二国家线",
+        "onboard_time": 1708936355,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173737,
+        "num": 173737,
+        "word": "日本核污水排放入海已满半年",
+        "onboard_time": 1708941817,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 170124,
+        "num": 170124,
+        "word": "原来小狗真的有分离焦虑症",
+        "onboard_time": 1708943912,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216810,
+        "num": 167310,
+        "word": "带爸爸妈妈出来旅游了",
+        "onboard_time": 1708944874,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182468,
+        "num": 165485,
+        "word": "papi酱 工作中的崩溃时刻",
+        "onboard_time": 1708945712,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163247,
+        "num": 163247,
+        "word": "00后说的扣1是什么意思",
+        "onboard_time": 1708938093,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162413,
+        "num": 162413,
+        "word": "周深把杨幂的英雄池摸透了",
+        "onboard_time": 1708928793,
+        "rank": 33,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 160642,
+        "num": 160642,
+        "word": "淘特逐步并回淘宝",
+        "onboard_time": 1708940256,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159310,
+        "num": 159310,
+        "word": "为什么快递名都要写假名字",
+        "onboard_time": 1708930175,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146498,
+        "num": 146498,
+        "word": "中方不得不采取必要措施坚定维护权益",
+        "onboard_time": 1708937135,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141316,
+        "num": 141316,
+        "word": "常喝可乐身体会发生什么",
+        "onboard_time": 1708945354,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134608,
+        "num": 134608,
+        "word": "小米汽车最早二季度交付",
+        "onboard_time": 1708943372,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 134011,
+        "num": 134011,
+        "word": "弟弟从没提过他的朋友坐轮椅",
+        "onboard_time": 1708927835,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133161,
+        "num": 133161,
+        "word": "男子被红包雨砸伤眼睛需上万手术费",
+        "onboard_time": 1708936474,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126892,
+        "num": 126892,
+        "word": "李马克李帝努chaLOVE119",
+        "onboard_time": 1708945414,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125034,
+        "num": 125034,
+        "word": "男子听老婆话挪车成功躲过一劫",
+        "onboard_time": 1708933776,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124478,
+        "num": 124478,
+        "word": "带状疱疹的高危人群有哪些",
+        "onboard_time": 1708945654,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124208,
+        "num": 124208,
+        "word": "潘粤明 谁说我退圈了我只是胖了",
+        "onboard_time": 1708922196,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122949,
+        "num": 122949,
+        "word": "电竞小说女主杨幂又来了",
+        "onboard_time": 1708935156,
+        "rank": 45,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 120963,
+        "num": 120963,
+        "word": "空相面灵气花合战",
+        "onboard_time": 1708943555,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120433,
+        "num": 120433,
+        "word": "江西回应低彩礼夫妻子女可优先入学",
+        "onboard_time": 1708936175,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116145,
+        "num": 116145,
+        "word": "杨幂让Cat上强度",
+        "onboard_time": 1708937076,
+        "rank": 48,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 113339,
+        "num": 113339,
+        "word": "理想汽车全年营收破千亿",
+        "onboard_time": 1708941334,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设雄安新区需要各类企业共同参与#"
+    }
+  }
+}

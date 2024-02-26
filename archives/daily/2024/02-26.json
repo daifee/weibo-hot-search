@@ -1,6 +1,6 @@
 {
   "startTime": 1708878084354,
-  "endTime": 1708943694484,
+  "endTime": 1708946005179,
   "band_list": [
     {
       "raw_hot": 3339786,
@@ -43,6 +43,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2131797,
+      "num": 2131797,
+      "word": "暨南大学 谁查到了",
+      "onboard_time": 1708941632,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1974500,
       "num": 1974500,
       "word": "娃哈哈 实验室御用水",
@@ -56,14 +64,6 @@
       "word": "考研国家线",
       "onboard_time": 1708910913,
       "rank": 24,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 1851522,
-      "num": 1851522,
-      "word": "暨南大学 谁查到了",
-      "onboard_time": 1708941632,
-      "rank": 6,
       "category": "教育"
     },
     {
@@ -81,6 +81,14 @@
       "onboard_time": 1708914934,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1455407,
+      "num": 1455407,
+      "word": "苹果公司警告手机进水别插米里",
+      "onboard_time": 1708941094,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 1440752,
@@ -131,6 +139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1221054,
+      "num": 1221054,
+      "word": "李湘晒王诗龄送的礼物",
+      "onboard_time": 1708944091,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1160706,
       "num": 1160706,
       "word": "房价越降越不敢买",
@@ -169,14 +185,6 @@
       "onboard_time": 1708916495,
       "rank": 8,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1047751,
-      "num": 1047751,
-      "word": "苹果公司警告手机进水别插米里",
-      "onboard_time": 1708941094,
-      "rank": 10,
-      "category": "数码"
     },
     {
       "raw_hot": 1026142,
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 828725,
+      "num": 828725,
+      "word": "帮邻居卖芹菜赚14元被罚10万",
+      "onboard_time": 1708943673,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 815481,
       "num": 815481,
       "word": "在县城相亲189次我凑合结婚了",
@@ -297,6 +313,14 @@
       "onboard_time": 1708910374,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 793318,
+      "num": 793318,
+      "word": "怎么劝退我买这件衣服",
+      "onboard_time": 1708943016,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 792450,
@@ -587,6 +611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 543327,
+      "num": 543327,
+      "word": "六盘水",
+      "onboard_time": 1708941632,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540090,
       "num": 540090,
       "word": "明白为啥人神相恋不被允许了",
@@ -771,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 380466,
+      "num": 380466,
+      "word": "金晨终于又跳舞了",
+      "onboard_time": 1708942774,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 379265,
       "num": 379265,
       "word": "江西崇义低彩礼夫妻子女可优先入学",
@@ -832,14 +872,6 @@
       "word": "西安平均招聘薪酬9326元每月",
       "onboard_time": 1708921000,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 354498,
-      "num": 354498,
-      "word": "六盘水",
-      "onboard_time": 1708941632,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -987,14 +1019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301338,
-      "num": 203364,
-      "word": "怎么劝退我买这件衣服",
-      "onboard_time": 1708943016,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 299383,
       "num": 299383,
       "word": "杨幂让Cat上强度",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1708876233,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 287050,
+      "num": 195216,
+      "word": "带状疱疹是最疼的皮肤病之一",
+      "onboard_time": 1708945113,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 283542,
@@ -1187,6 +1219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 247352,
+      "num": 228763,
+      "word": "睡懵了小猫被掰成两半了",
+      "onboard_time": 1708942774,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 246653,
       "num": 223909,
       "word": "电竞小说女主杨幂又来了",
@@ -1283,26 +1323,10 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229613,
-      "num": 229613,
-      "word": "金晨终于又跳舞了",
-      "onboard_time": 1708942774,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 229289,
       "num": 229289,
       "word": "因为汤圆和男朋友哭了一场",
       "onboard_time": 1708927414,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 228763,
-      "num": 228763,
-      "word": "睡懵了小猫被掰成两半了",
-      "onboard_time": 1708942774,
       "rank": 27,
       "category": "幽默"
     },
@@ -1393,6 +1417,14 @@
       "onboard_time": 1708938633,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216810,
+      "num": 167310,
+      "word": "带爸爸妈妈出来旅游了",
+      "onboard_time": 1708944874,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 216719,
@@ -1643,6 +1675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182468,
+      "num": 165485,
+      "word": "papi酱 工作中的崩溃时刻",
+      "onboard_time": 1708945712,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182354,
       "num": 182354,
       "word": "宗庆后逝世三个侧影一个最大悬念",
@@ -1713,6 +1753,14 @@
       "onboard_time": 1708868676,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170124,
+      "num": 170124,
+      "word": "原来小狗真的有分离焦虑症",
+      "onboard_time": 1708943912,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 167925,
@@ -1939,6 +1987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141316,
+      "num": 141316,
+      "word": "常喝可乐身体会发生什么",
+      "onboard_time": 1708945354,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 140999,
       "num": 140999,
       "word": "再慢一秒就变成流浪猫了",
@@ -1977,14 +2033,6 @@
       "onboard_time": 1708864057,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 136244,
-      "num": 136244,
-      "word": "帮邻居卖芹菜赚14元被罚10万",
-      "onboard_time": 1708943673,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135304,
@@ -2049,6 +2097,22 @@
       "onboard_time": 1708867534,
       "rank": 2,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126892,
+      "num": 126892,
+      "word": "李马克李帝努chaLOVE119",
+      "onboard_time": 1708945414,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 124478,
+      "num": 124478,
+      "word": "带状疱疹的高危人群有哪些",
+      "onboard_time": 1708945654,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 122706,
@@ -2244,7 +2308,7 @@
     },
     {
       "raw_hot": 73500,
-      "num": 1200523,
+      "num": 1278845,
       "word": "京津冀交通一体化取得非凡成就",
       "onboard_time": 1708922322,
       "rank": 2,
