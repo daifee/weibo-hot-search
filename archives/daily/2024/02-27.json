@@ -1,6 +1,6 @@
 {
   "startTime": 1708964501350,
-  "endTime": 1708989465843,
+  "endTime": 1708990449371,
   "band_list": [
     {
       "raw_hot": 1314672,
@@ -11,16 +11,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1058373,
-      "num": 1058373,
+      "raw_hot": 1119226,
+      "num": 1119226,
       "word": "四六级分数出了",
       "onboard_time": 1708989081,
       "rank": 0,
       "category": "教育"
     },
     {
-      "raw_hot": 1044359,
-      "num": 1044359,
+      "raw_hot": 1095477,
+      "num": 1095477,
       "word": "10元3副耳钉被仅退款商家千里讨公道",
       "onboard_time": 1708958374,
       "rank": 1,
@@ -75,12 +75,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 484454,
+      "num": 484454,
+      "word": "坐高铁由于好奇选了静音车厢",
+      "onboard_time": 1708959878,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 455455,
       "num": 455455,
       "word": "为什么大家不爱买黑色贴身衣物",
       "onboard_time": 1708958135,
       "rank": 8,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 445689,
+      "num": 347916,
+      "word": "大爷闪婚闪离要求对方归还20万彩礼",
+      "onboard_time": 1708983135,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437286,
+      "num": 437286,
+      "word": "女孩说外公外婆退休后每个月收到娃哈哈补贴",
+      "onboard_time": 1708955254,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426168,
@@ -91,19 +115,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 425723,
-      "num": 425723,
-      "word": "坐高铁由于好奇选了静音车厢",
-      "onboard_time": 1708959878,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 424933,
-      "num": 424933,
-      "word": "女孩说外公外婆退休后每个月收到娃哈哈补贴",
-      "onboard_time": 1708955254,
-      "rank": 14,
+      "raw_hot": 366637,
+      "num": 347797,
+      "word": "女校长回应百人群发不雅视频",
+      "onboard_time": 1708979055,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -115,28 +131,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 341095,
-      "num": 283524,
-      "word": "大爷闪婚闪离要求对方归还20万彩礼",
-      "onboard_time": 1708983135,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 306613,
       "num": 306613,
       "word": "李湘晒王诗龄送的礼物",
       "onboard_time": 1708944091,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 302145,
-      "num": 283290,
-      "word": "女校长回应百人群发不雅视频",
-      "onboard_time": 1708979055,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 288665,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232325,
+      "num": 232325,
+      "word": "徐冬冬说跑龙套赚的钱够养自己",
+      "onboard_time": 1708966702,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209143,
       "num": 209143,
       "word": "全员加速中",
@@ -187,11 +195,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208653,
-      "num": 208653,
-      "word": "徐冬冬说跑龙套赚的钱够养自己",
-      "onboard_time": 1708966702,
-      "rank": 19,
+      "raw_hot": 198961,
+      "num": 198961,
+      "word": "毛不易穿洞洞鞋爬长白山",
+      "onboard_time": 1708965144,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -201,6 +209,14 @@
       "onboard_time": 1708960177,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 187973,
+      "num": 134562,
+      "word": "男子每个月染发致中毒险肝衰竭",
+      "onboard_time": 1708988420,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183913,
@@ -235,14 +251,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 166396,
-      "num": 166396,
-      "word": "毛不易穿洞洞鞋爬长白山",
-      "onboard_time": 1708965144,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 154598,
       "num": 154598,
       "word": "部分网店靠盗版短剧入账数十万",
@@ -257,6 +265,14 @@
       "onboard_time": 1708947691,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142865,
+      "num": 142865,
+      "word": "四六级查分入口",
+      "onboard_time": 1708989081,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 141848,
@@ -291,14 +307,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 124485,
-      "num": 124485,
-      "word": "男子每个月染发致中毒险肝衰竭",
-      "onboard_time": 1708988420,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123728,
       "num": 123728,
       "word": "苹果公司警告手机进水别插米里",
@@ -329,6 +337,14 @@
       "onboard_time": 1708948412,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119543,
+      "num": 119543,
+      "word": "中方回应乌议员宣称愿协助美与中国等作战",
+      "onboard_time": 1708956997,
+      "rank": 42,
+      "category": "军事,国内时政"
     },
     {
       "raw_hot": 118506,
@@ -363,14 +379,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 111376,
-      "num": 111376,
-      "word": "中方回应乌议员宣称愿协助美与中国等作战",
-      "onboard_time": 1708956997,
-      "rank": 42,
-      "category": "军事,国内时政"
-    },
-    {
       "raw_hot": 109986,
       "num": 109986,
       "word": "藏海传有钟汉良",
@@ -403,12 +411,28 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 95090,
-      "num": 67664,
-      "word": "四六级查分入口",
-      "onboard_time": 1708989081,
-      "rank": 30,
-      "category": "教育"
+      "raw_hot": 98977,
+      "num": 98977,
+      "word": "常喝溶咖啡加速衰老",
+      "onboard_time": 1708989924,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 98098,
+      "num": 786908,
+      "word": "世界最长海底高铁隧道",
+      "onboard_time": 1708956093,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96073,
+      "num": 96073,
+      "word": "自从把家里的桌子换成透明的",
+      "onboard_time": 1708974435,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 95008,
@@ -427,20 +451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90615,
+      "num": 90615,
+      "word": "花少团真去秦岚家了吗",
+      "onboard_time": 1708990106,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86996,
       "num": 86996,
       "word": "邓为尹涛合照",
       "onboard_time": 1708960294,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 84163,
-      "num": 67281,
-      "word": "自从把家里的桌子换成透明的",
-      "onboard_time": 1708974435,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 84032,
@@ -451,20 +475,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82412,
-      "num": 516458,
-      "word": "世界最长海底高铁隧道",
-      "onboard_time": 1708956093,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 81607,
       "num": 81607,
       "word": "为什么饮料瓶底都是五瓣花的形状",
       "onboard_time": 1708949674,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 78764,
+      "num": 78764,
+      "word": "马龙18年间17次参加世乒赛获14个冠军",
+      "onboard_time": 1708989503,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 78602,
@@ -491,12 +515,60 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69540,
+      "num": 69540,
+      "word": "老爸炒9斤虾尾让女儿带学校分享",
+      "onboard_time": 1708989924,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64787,
+      "num": 64787,
+      "word": "清明上河园小乞丐回应被喂胖",
+      "onboard_time": 1708990346,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62535,
+      "num": 62535,
+      "word": "劳伦斯年度最佳女运动员提名",
+      "onboard_time": 1708990228,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61943,
+      "num": 61943,
+      "word": "在去杭州的火车上找到了工作",
+      "onboard_time": 1708990346,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57645,
       "num": 57645,
       "word": "李庚希晒高叶送的仙兔灯",
       "onboard_time": 1708966642,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 57445,
+      "num": 57445,
+      "word": "张雪峰承认到美国也做不起来",
+      "onboard_time": 1708990346,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56614,
+      "num": 56614,
+      "word": "张雪峰说考研有需求就考没有就别考",
+      "onboard_time": 1708990404,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 35508,
