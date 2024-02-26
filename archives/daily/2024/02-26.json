@@ -1,6 +1,6 @@
 {
   "startTime": 1708878084354,
-  "endTime": 1708939114011,
+  "endTime": 1708940056966,
   "band_list": [
     {
       "raw_hot": 3339786,
@@ -59,20 +59,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1756692,
+      "num": 1756692,
+      "word": "巴勒斯坦政府宣布辞职",
+      "onboard_time": 1708937016,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1703737,
       "num": 1703737,
       "word": "333",
       "onboard_time": 1708914934,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1682532,
-      "num": 1682532,
-      "word": "巴勒斯坦政府宣布辞职",
-      "onboard_time": 1708937016,
-      "rank": 0,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1440752,
@@ -193,6 +193,14 @@
       "onboard_time": 1708930478,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 923410,
+      "num": 923410,
+      "word": "韩国承诺医生们29日前返岗不追责",
+      "onboard_time": 1708937195,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 918012,
@@ -363,14 +371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 703722,
-      "num": 703722,
-      "word": "韩国承诺医生们29日前返岗不追责",
-      "onboard_time": 1708937195,
-      "rank": 8,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 685626,
       "num": 685626,
       "word": "一家三口同患上甲状腺癌",
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 623423,
-      "num": 578259,
+      "num": 588029,
       "word": "00后说的扣1是什么意思",
       "onboard_time": 1708938093,
       "rank": 10,
@@ -441,6 +441,14 @@
       "onboard_time": 1708905813,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 608761,
+      "num": 608761,
+      "word": "中方不得不采取必要措施坚定维护权益",
+      "onboard_time": 1708937135,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 606364,
@@ -489,14 +497,6 @@
       "onboard_time": 1708924656,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 584225,
-      "num": 584225,
-      "word": "中方不得不采取必要措施坚定维护权益",
-      "onboard_time": 1708937135,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 577391,
@@ -561,6 +561,14 @@
       "onboard_time": 1708912053,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 538982,
+      "num": 538982,
+      "word": "北大考研",
+      "onboard_time": 1708938156,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 515797,
@@ -643,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 454276,
+      "num": 454276,
+      "word": "肖战评价自己看秀穿搭",
+      "onboard_time": 1708939296,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 433815,
       "num": 433815,
       "word": "2024年研考初试成绩公布",
@@ -713,14 +729,6 @@
       "onboard_time": 1708920098,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 388680,
-      "num": 388680,
-      "word": "北大考研",
-      "onboard_time": 1708938156,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 385643,
@@ -931,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299383,
+      "num": 299383,
+      "word": "杨幂让Cat上强度",
+      "onboard_time": 1708937076,
+      "rank": 23,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 296617,
       "num": 296617,
       "word": "马龙轻击台面告别世锦赛",
@@ -971,14 +987,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 287455,
-      "num": 287455,
-      "word": "杨幂让Cat上强度",
-      "onboard_time": 1708937076,
-      "rank": 23,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 283542,
       "num": 283542,
       "word": "别对我动心定档",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1708872460,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 274785,
+      "num": 274785,
+      "word": "男生在机场查到考研408分激动大喊",
+      "onboard_time": 1708938753,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270553,
@@ -1211,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228738,
+      "num": 228738,
+      "word": "日本今年计划排放5.46万吨核污染水",
+      "onboard_time": 1708939715,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 228209,
       "num": 228209,
       "word": "为什么洗草莓会掉色",
@@ -1291,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217580,
+      "num": 210888,
+      "word": "王诗玥柳鑫宇加冕双冠王",
+      "onboard_time": 1708938633,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216719,
       "num": 216719,
       "word": "老年人吃28种止痛药致严重并发症",
@@ -1353,6 +1385,14 @@
       "onboard_time": 1708918356,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204190,
+      "num": 204190,
+      "word": "AD钙奶和鲜花中有一双41码布鞋",
+      "onboard_time": 1708938513,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203200,
@@ -1507,12 +1547,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174439,
+      "num": 174439,
+      "word": "漫威男星肯内特米歇尔离世",
+      "onboard_time": 1708939475,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173635,
       "num": 173635,
       "word": "山东考研成绩",
       "onboard_time": 1708933414,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 172459,
+      "num": 172459,
+      "word": "这五种癌症更容易遗传",
+      "onboard_time": 1708938093,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 172354,
@@ -1529,14 +1585,6 @@
       "onboard_time": 1708859254,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 167788,
-      "num": 167788,
-      "word": "AD钙奶和鲜花中有一双41码布鞋",
-      "onboard_time": 1708938513,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167778,
@@ -1561,14 +1609,6 @@
       "onboard_time": 1708934975,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163881,
-      "num": 163881,
-      "word": "这五种癌症更容易遗传",
-      "onboard_time": 1708938093,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 163319,
@@ -1659,14 +1699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155654,
-      "num": 155654,
-      "word": "男生在机场查到考研408分激动大喊",
-      "onboard_time": 1708938753,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 154366,
       "num": 154366,
       "word": "柯南2024剧场版IMAX海报",
@@ -1707,6 +1739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144818,
+      "num": 144818,
+      "word": "考研play中的一环",
+      "onboard_time": 1708938875,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 143970,
       "num": 143970,
       "word": "A股",
@@ -1715,12 +1755,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 143293,
-      "num": 143293,
-      "word": "王诗玥柳鑫宇加冕双冠王",
-      "onboard_time": 1708938633,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 142334,
+      "num": 142334,
+      "word": "未返校原因",
+      "onboard_time": 1708939118,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 142146,
@@ -1777,14 +1817,6 @@
       "onboard_time": 1708925613,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 134103,
-      "num": 134103,
-      "word": "考研play中的一环",
-      "onboard_time": 1708938875,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 131779,
@@ -1915,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110738,
+      "num": 110738,
+      "word": "于根伟中国金帅奖",
+      "onboard_time": 1708940015,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109100,
       "num": 109100,
       "word": "金书贤金牌",
@@ -2019,20 +2059,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73500,
+      "num": 1200523,
+      "word": "京津冀交通一体化取得非凡成就",
+      "onboard_time": 1708922322,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67947,
       "num": 67947,
       "word": "皇马1比0塞维利亚",
       "onboard_time": 1708902926,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66343,
-      "num": 1200523,
-      "word": "京津冀交通一体化取得非凡成就",
-      "onboard_time": 1708922322,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64096,
