@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708946005179,
+  "endTime": 1708947246160,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -387,20 +387,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1241048,
+      "num": 1241048,
+      "word": "李湘晒王诗龄送的礼物",
+      "onboard_time": 1708944091,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1223799,
       "num": 641601,
       "word": "马龙vs西蒙高茨",
       "onboard_time": 1708864775,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1221054,
-      "num": 1221054,
-      "word": "李湘晒王诗龄送的礼物",
-      "onboard_time": 1708944091,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1207536,
@@ -563,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 949118,
+      "num": 949118,
+      "word": "怎么劝退我买这件衣服",
+      "onboard_time": 1708943016,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 947004,
       "num": 947004,
       "word": "为什么快递名都要写假名字",
@@ -683,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 865277,
+      "num": 865277,
+      "word": "帮邻居卖芹菜赚14元被罚10万",
+      "onboard_time": 1708943673,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 865192,
       "num": 865192,
       "word": "女子发现门上被贴可疑U盘一把扔飞",
@@ -755,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 828725,
-      "num": 828725,
-      "word": "帮邻居卖芹菜赚14元被罚10万",
-      "onboard_time": 1708943673,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 827735,
       "num": 827735,
       "word": "欧阳娜娜徐正溪情头",
@@ -801,14 +809,6 @@
       "onboard_time": 1708910374,
       "rank": 9,
       "category": "演出"
-    },
-    {
-      "raw_hot": 793318,
-      "num": 793318,
-      "word": "怎么劝退我买这件衣服",
-      "onboard_time": 1708943016,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 792450,
@@ -1331,6 +1331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 568130,
+      "num": 415966,
+      "word": "papi酱 工作中的崩溃时刻",
+      "onboard_time": 1708945712,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 566262,
       "num": 566262,
       "word": "山西考研成绩",
@@ -1851,6 +1859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 400593,
+      "num": 400593,
+      "word": "TES对战FPX",
+      "onboard_time": 1708942534,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 400532,
       "num": 400532,
       "word": "芭莎拍的肖战",
@@ -1953,6 +1969,14 @@
       "onboard_time": 1708845393,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 377871,
+      "num": 377871,
+      "word": "带状疱疹是最疼的皮肤病之一",
+      "onboard_time": 1708945113,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 376979,
@@ -2497,14 +2521,6 @@
       "onboard_time": 1708876233,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 287050,
-      "num": 195216,
-      "word": "带状疱疹是最疼的皮肤病之一",
-      "onboard_time": 1708945113,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 284727,
@@ -3244,7 +3260,7 @@
     },
     {
       "raw_hot": 216810,
-      "num": 167310,
+      "num": 176615,
       "word": "带爸爸妈妈出来旅游了",
       "onboard_time": 1708944874,
       "rank": 30,
@@ -3369,6 +3385,22 @@
       "onboard_time": 1708842573,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206284,
+      "num": 206284,
+      "word": "带状疱疹的高危人群有哪些",
+      "onboard_time": 1708945654,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 206202,
+      "num": 206202,
+      "word": "原来小狗真的有分离焦虑症",
+      "onboard_time": 1708943912,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 206154,
@@ -3891,6 +3923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183282,
+      "num": 183282,
+      "word": "电竞全明星新春赛",
+      "onboard_time": 1708947032,
+      "rank": 25,
+      "category": "电竞,艺人"
+    },
+    {
       "raw_hot": 183237,
       "num": 183237,
       "word": "奶茶自由你实现了吗",
@@ -3913,14 +3953,6 @@
       "onboard_time": 1708830032,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182468,
-      "num": 165485,
-      "word": "papi酱 工作中的崩溃时刻",
-      "onboard_time": 1708945712,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 180757,
@@ -4043,6 +4075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173791,
+      "num": 173791,
+      "word": "常喝可乐身体会发生什么",
+      "onboard_time": 1708945354,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 173635,
       "num": 173635,
       "word": "山东考研成绩",
@@ -4089,14 +4129,6 @@
       "onboard_time": 1708827096,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170124,
-      "num": 170124,
-      "word": "原来小狗真的有分离焦虑症",
-      "onboard_time": 1708943912,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 169886,
@@ -4291,14 +4323,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 161438,
-      "num": 161438,
-      "word": "TES对战FPX",
-      "onboard_time": 1708942534,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 161433,
       "num": 161433,
       "word": "双北对话梦回明侦",
@@ -4459,6 +4483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150795,
+      "num": 150795,
+      "word": "反派死于话多",
+      "onboard_time": 1708946255,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150198,
       "num": 150198,
       "word": "村民抡斧头救人的样子好帅",
@@ -4593,14 +4625,6 @@
       "onboard_time": 1708925855,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 141316,
-      "num": 141316,
-      "word": "常喝可乐身体会发生什么",
-      "onboard_time": 1708945354,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 140999,
@@ -4833,14 +4857,6 @@
       "onboard_time": 1708824392,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124478,
-      "num": 124478,
-      "word": "带状疱疹的高危人群有哪些",
-      "onboard_time": 1708945654,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 122945,
