@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708972438253,
+  "endTime": 1708974844326,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -72131,6 +72131,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 19846,
+      "num": 19882,
+      "word": "金珉奎巴黎时装周",
+      "onboard_time": 1708971618,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 19755,
       "num": 169026,
       "word": "世界最长海底高铁隧道",
@@ -72169,14 +72177,6 @@
       "onboard_time": 1707944658,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 19007,
-      "num": 19882,
-      "word": "金珉奎巴黎时装周",
-      "onboard_time": 1708971618,
-      "rank": 49,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 18945,
@@ -72297,6 +72297,14 @@
       "onboard_time": 1706900359,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 17236,
+      "num": 17236,
+      "word": "伊能静儿子穿搭",
+      "onboard_time": 1708972997,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 17215,
@@ -72587,6 +72595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 14084,
+      "num": 14730,
+      "word": "自从把家里的桌子换成透明的",
+      "onboard_time": 1708974435,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 13876,
       "num": 16236,
       "word": "许凯说胡歌是颜霸",
@@ -72729,6 +72745,14 @@
       "onboard_time": 1707689955,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12339,
+      "num": 14682,
+      "word": "中国建设者用7年让一座城拔地而起",
+      "onboard_time": 1708974796,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12251,
