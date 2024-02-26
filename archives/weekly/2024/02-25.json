@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708964501350,
+  "endTime": 1708965395579,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -1931,6 +1931,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 425723,
+      "num": 425723,
+      "word": "坐高铁由于好奇选了静音车厢",
+      "onboard_time": 1708959878,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 424841,
       "num": 424841,
       "word": "迪丽热巴昆明",
@@ -1985,14 +1993,6 @@
       "onboard_time": 1708959755,
       "rank": 21,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 420186,
-      "num": 420186,
-      "word": "坐高铁由于好奇选了静音车厢",
-      "onboard_time": 1708959878,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 418772,
@@ -3155,6 +3155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 247221,
+      "num": 247221,
+      "word": "大连一工程发生坍塌事故致4死",
+      "onboard_time": 1708963052,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246653,
       "num": 223909,
       "word": "电竞小说女主杨幂又来了",
@@ -3617,14 +3625,6 @@
       "onboard_time": 1708916974,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212989,
-      "num": 212989,
-      "word": "大连一工程发生坍塌事故致4死",
-      "onboard_time": 1708963052,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211875,
@@ -4107,6 +4107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189839,
+      "num": 189839,
+      "word": "中传考研",
+      "onboard_time": 1708960177,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 189819,
       "num": 189819,
       "word": "让你的脸变丑的习惯",
@@ -4193,14 +4201,6 @@
       "onboard_time": 1708841076,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188491,
-      "num": 188491,
-      "word": "中传考研",
-      "onboard_time": 1708960177,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 188474,
@@ -4563,6 +4563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 173420,
+      "num": 173420,
+      "word": "你晚上几点休息",
+      "onboard_time": 1708963590,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173206,
       "num": 173206,
       "word": "pay姐 身骑白马",
@@ -4577,14 +4585,6 @@
       "onboard_time": 1708940674,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172708,
-      "num": 172708,
-      "word": "你晚上几点休息",
-      "onboard_time": 1708963590,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 172459,
@@ -5049,6 +5049,14 @@
       "onboard_time": 1708934376,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148366,
+      "num": 148366,
+      "word": "毛不易穿洞洞鞋爬长白山",
+      "onboard_time": 1708965144,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 147702,

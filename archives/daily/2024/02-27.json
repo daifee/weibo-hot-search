@@ -1,6 +1,6 @@
 {
   "startTime": 1708964501350,
-  "endTime": 1708964501350,
+  "endTime": 1708965395579,
   "band_list": [
     {
       "raw_hot": 1314672,
@@ -75,8 +75,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 420186,
-      "num": 420186,
+      "raw_hot": 425723,
+      "num": 425723,
       "word": "坐高铁由于好奇选了静音车厢",
       "onboard_time": 1708959878,
       "rank": 9,
@@ -139,20 +139,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247221,
+      "num": 247221,
+      "word": "大连一工程发生坍塌事故致4死",
+      "onboard_time": 1708963052,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238615,
       "num": 187706,
       "word": "宋茜搬新家了",
       "onboard_time": 1708962870,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 212989,
-      "num": 212989,
-      "word": "大连一工程发生坍塌事故致4死",
-      "onboard_time": 1708963052,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209143,
@@ -163,8 +163,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188491,
-      "num": 188491,
+      "raw_hot": 189839,
+      "num": 189839,
       "word": "中传考研",
       "onboard_time": 1708960177,
       "rank": 19,
@@ -187,8 +187,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 172708,
-      "num": 172708,
+      "raw_hot": 173420,
+      "num": 173420,
       "word": "你晚上几点休息",
       "onboard_time": 1708963590,
       "rank": 24,
@@ -201,6 +201,14 @@
       "onboard_time": 1708950633,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 148366,
+      "num": 148366,
+      "word": "毛不易穿洞洞鞋爬长白山",
+      "onboard_time": 1708965144,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 146564,
