@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708931915564,
+  "endTime": 1708932933459,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -547,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 922633,
+      "num": 922633,
+      "word": "郭涛儿子石头17岁近照",
+      "onboard_time": 1708930478,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 897801,
       "num": 897801,
       "word": "英语二",
@@ -617,14 +625,6 @@
       "onboard_time": 1708857454,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 861445,
-      "num": 533484,
-      "word": "郭涛儿子石头17岁近照",
-      "onboard_time": 1708930478,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 857822,
@@ -801,6 +801,14 @@
       "onboard_time": 1708856616,
       "rank": 14,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 722217,
+      "num": 722217,
+      "word": "咖啡超过九块九就不想喝了",
+      "onboard_time": 1708930056,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 721273,
@@ -1235,19 +1243,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 549851,
-      "num": 549851,
-      "word": "咖啡超过九块九就不想喝了",
-      "onboard_time": 1708930056,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 548943,
       "num": 359555,
       "word": "吃水果其实是件挺私密的事",
       "onboard_time": 1708853069,
       "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 547988,
+      "num": 547988,
+      "word": "为什么快递名都要写假名字",
+      "onboard_time": 1708930175,
+      "rank": 16,
       "category": "幽默"
     },
     {
@@ -1611,8 +1619,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 414899,
-      "num": 414899,
+      "raw_hot": 415626,
+      "num": 415626,
       "word": "汪峰女儿小苹果近照",
       "onboard_time": 1708931316,
       "rank": 15,
@@ -1673,14 +1681,6 @@
       "onboard_time": 1708826495,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 402347,
-      "num": 402347,
-      "word": "为什么快递名都要写假名字",
-      "onboard_time": 1708930175,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 402271,
@@ -2459,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262581,
+      "num": 262581,
+      "word": "考研调剂",
+      "onboard_time": 1708931020,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 262064,
       "num": 262064,
       "word": "飞驰人生2票房破30亿",
@@ -2731,12 +2739,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 234519,
-      "num": 234519,
-      "word": "考研调剂",
-      "onboard_time": 1708931020,
-      "rank": 29,
-      "category": "教育"
+      "raw_hot": 234555,
+      "num": 234555,
+      "word": "会敲门的父母养不出锁门的孩子",
+      "onboard_time": 1708928916,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 234363,
@@ -2769,14 +2777,6 @@
       "onboard_time": 1708867534,
       "rank": 2,
       "category": "电影"
-    },
-    {
-      "raw_hot": 231399,
-      "num": 231399,
-      "word": "会敲门的父母养不出锁门的孩子",
-      "onboard_time": 1708928916,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 231272,
@@ -3555,6 +3555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183237,
+      "num": 183237,
+      "word": "奶茶自由你实现了吗",
+      "onboard_time": 1708932218,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 183092,
       "num": 183092,
       "word": "王鹤棣状告黑粉侵权",
@@ -3851,6 +3859,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 161893,
+      "num": 161893,
+      "word": "李兰迪新妆造",
+      "onboard_time": 1708931797,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161814,
       "num": 161814,
       "word": "文佳煐黑色透视裙",
@@ -3953,6 +3969,22 @@
       "onboard_time": 1708789713,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154430,
+      "num": 154430,
+      "word": "A股超3600只个股上涨",
+      "onboard_time": 1708932817,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 154366,
+      "num": 154366,
+      "word": "柯南2024剧场版IMAX海报",
+      "onboard_time": 1708932578,
+      "rank": 40,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 153572,
@@ -4211,14 +4243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133820,
-      "num": 133820,
-      "word": "李兰迪新妆造",
-      "onboard_time": 1708931797,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133266,
       "num": 133266,
       "word": "西湖醋鱼原来长这样吗",
@@ -4281,6 +4305,14 @@
       "onboard_time": 1708849892,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128622,
+      "num": 128622,
+      "word": "宇多田光香港演唱会",
+      "onboard_time": 1708932875,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 126619,
