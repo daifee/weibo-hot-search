@@ -1,0 +1,410 @@
+{
+  "runTime": 1708922040819,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2385015,
+        "num": 2385015,
+        "word": "考研成绩",
+        "onboard_time": 1708910736,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2277751,
+        "num": 2277751,
+        "word": "三个月喝了近一千块的奶茶",
+        "onboard_time": 1708916432,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 15709,
+        "num": 1507219,
+        "word": "中国载人月球探测任务正有序推进",
+        "onboard_time": 1708866758,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1041790,
+        "num": 1041790,
+        "word": "考研国家线",
+        "onboard_time": 1708910913,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1038008,
+        "num": 1038008,
+        "word": "妈妈喜欢把洗碗布放水龙头上",
+        "onboard_time": 1708915414,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1034080,
+        "num": 1034080,
+        "word": "人体不会癌变的器官",
+        "onboard_time": 1708916495,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1025170,
+        "num": 1025170,
+        "word": "房价越降越不敢买",
+        "onboard_time": 1708917457,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1012289,
+        "num": 1012289,
+        "word": "失踪4姐弟凌晨被发现在芦苇丛睡觉",
+        "onboard_time": 1708911213,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962084,
+        "num": 962084,
+        "word": "333",
+        "onboard_time": 1708914934,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 388520,
+        "num": 848137,
+        "word": "演唱会门票秒没票务那儿大把",
+        "onboard_time": 1708910374,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1256175,
+        "num": 839903,
+        "word": "古天乐否认与宣萱结婚生子",
+        "onboard_time": 1708919981,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1031404,
+        "num": 834552,
+        "word": "许昕 釜山不推迟的话我也是其中一员",
+        "onboard_time": 1708917277,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 827939,
+        "num": 827939,
+        "word": "C罗做不雅动作回应球迷喊梅西",
+        "onboard_time": 1708914991,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 721273,
+        "num": 721273,
+        "word": "宗馥莉接任娃哈哈电商执行董事",
+        "onboard_time": 1708919133,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612179,
+        "num": 612179,
+        "word": "赵丽颖露肩了",
+        "onboard_time": 1708919077,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 570933,
+        "num": 570933,
+        "word": "车上带了5只鸡 待遇怪好嘞",
+        "onboard_time": 1708917754,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 489057,
+        "num": 489057,
+        "word": "女子买20元锅包肉只见锅包不见肉",
+        "onboard_time": 1708918655,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439541,
+        "num": 439541,
+        "word": "一家三口同患上甲状腺癌",
+        "onboard_time": 1708915414,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 412898,
+        "num": 412898,
+        "word": "大侦探黑钻大劫案",
+        "onboard_time": 1708920098,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381715,
+        "num": 381715,
+        "word": "张小斐曾陪贾玲考研自己考上了",
+        "onboard_time": 1708869692,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370022,
+        "num": 370022,
+        "word": "英语一",
+        "onboard_time": 1708920338,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 368380,
+        "num": 368380,
+        "word": "肖战发型 龙头",
+        "onboard_time": 1708914034,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342770,
+        "num": 342770,
+        "word": "孙颖莎说眼泪是捍卫荣耀的泪",
+        "onboard_time": 1708920578,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334896,
+        "num": 334896,
+        "word": "西安平均招聘薪酬9326元/月",
+        "onboard_time": 1708921000,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309066,
+        "num": 309066,
+        "word": "上班后最大的执念就是省钱",
+        "onboard_time": 1708921060,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306931,
+        "num": 306931,
+        "word": "有必要考双非院校的研究生吗",
+        "onboard_time": 1708919014,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 290847,
+        "num": 290847,
+        "word": "考研国家线通常3月中旬左右出炉",
+        "onboard_time": 1708914815,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 286626,
+        "num": 286626,
+        "word": "袁姗姗鼻子",
+        "onboard_time": 1708871918,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284044,
+        "num": 284044,
+        "word": "马云发挽联悼念宗庆后",
+        "onboard_time": 1708909954,
+        "rank": 28,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 269281,
+        "num": 269281,
+        "word": "猫咪被抱下还知道卡胳肢窝",
+        "onboard_time": 1708919981,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78739,
+        "num": 265497,
+        "word": "比亚迪除了电比油低还有杀手锏",
+        "onboard_time": 1708918955,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311480,
+        "num": 265421,
+        "word": "在县城相亲189次我凑合结婚了",
+        "onboard_time": 1708921536,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264880,
+        "num": 264880,
+        "word": "只上了一天班就离职了",
+        "onboard_time": 1708904488,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253240,
+        "num": 253240,
+        "word": "别对我动心定档",
+        "onboard_time": 1708917997,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239987,
+        "num": 239987,
+        "word": "猫咪为什么叫猫咪",
+        "onboard_time": 1708920217,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235536,
+        "num": 235536,
+        "word": "老外在中国有钱难花",
+        "onboard_time": 1708908692,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230878,
+        "num": 230878,
+        "word": "比亚迪秦PLUS荣耀版首周订单23590辆",
+        "onboard_time": 1708920757,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 223271,
+        "num": 223271,
+        "word": "金秀贤金智媛新剧婚纱剧照",
+        "onboard_time": 1708915174,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220819,
+        "num": 220819,
+        "word": "我从不内耗是因为不装",
+        "onboard_time": 1708919077,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220692,
+        "num": 220692,
+        "word": "C罗因做不道德动作被查",
+        "onboard_time": 1708919736,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212364,
+        "num": 212364,
+        "word": "见义勇为律师称比亚迪20万奖励先还房贷",
+        "onboard_time": 1708906532,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209762,
+        "num": 209762,
+        "word": "于适飞行夹克",
+        "onboard_time": 1708920457,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208335,
+        "num": 208335,
+        "word": "肖战黑粉被限消",
+        "onboard_time": 1708914514,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207520,
+        "num": 207520,
+        "word": "私人小院屡遭游客擅闯拍日照金山",
+        "onboard_time": 1708921603,
+        "rank": 43,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 203200,
+        "num": 203200,
+        "word": "迪丽热巴花仙子侧拍花絮",
+        "onboard_time": 1708921718,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195492,
+        "num": 195492,
+        "word": "大学生开学的戒断反应有多严重",
+        "onboard_time": 1708920757,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186168,
+        "num": 186168,
+        "word": "冷冻食品可别直接下锅",
+        "onboard_time": 1708914330,
+        "rank": 46,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 175262,
+        "num": 175262,
+        "word": "英语二",
+        "onboard_time": 1708913674,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170254,
+        "num": 170254,
+        "word": "种地吧鹭卓 今天忙大事去了",
+        "onboard_time": 1708919915,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162623,
+        "num": 162623,
+        "word": "九尾让周深放心",
+        "onboard_time": 1708922021,
+        "rank": 49,
+        "category": "电竞,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设雄安新区需要各类企业共同参与#"
+    }
+  }
+}

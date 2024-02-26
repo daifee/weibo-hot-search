@@ -1,6 +1,6 @@
 {
   "startTime": 1708878084354,
-  "endTime": 1708921226245,
+  "endTime": 1708922040819,
   "band_list": [
     {
       "raw_hot": 3339786,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1256175,
+      "num": 869288,
+      "word": "古天乐否认与宣萱结婚生子",
+      "onboard_time": 1708919981,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1245435,
       "num": 1245435,
       "word": "妈妈喜欢把洗碗布放水龙头上",
@@ -107,20 +115,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1025170,
+      "num": 1025170,
+      "word": "房价越降越不敢买",
+      "onboard_time": 1708917457,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1000791,
       "num": 812463,
       "word": "马云发挽联悼念宗庆后",
       "onboard_time": 1708909954,
       "rank": 46,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 940420,
-      "num": 869288,
-      "word": "古天乐否认与宣萱结婚生子",
-      "onboard_time": 1708919981,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 918012,
@@ -145,14 +153,6 @@
       "onboard_time": 1708906532,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 855369,
-      "num": 855369,
-      "word": "房价越降越不敢买",
-      "onboard_time": 1708917457,
-      "rank": 21,
-      "category": "财经"
     },
     {
       "raw_hot": 854638,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 721273,
+      "num": 721273,
+      "word": "宗馥莉接任娃哈哈电商执行董事",
+      "onboard_time": 1708919133,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 721032,
       "num": 721032,
       "word": "老外在中国有钱难花",
@@ -227,14 +235,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 681445,
-      "num": 681445,
-      "word": "宗馥莉接任娃哈哈电商执行董事",
-      "onboard_time": 1708919133,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 661655,
       "num": 661655,
       "word": "曼联哀悼宗庆后",
@@ -251,6 +251,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 612179,
+      "num": 612179,
+      "word": "赵丽颖露肩了",
+      "onboard_time": 1708919077,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 610268,
       "num": 610268,
       "word": "今天查考研成绩",
@@ -265,14 +273,6 @@
       "onboard_time": 1708904488,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 605448,
-      "num": 605448,
-      "word": "赵丽颖露肩了",
-      "onboard_time": 1708919077,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 602700,
@@ -315,6 +315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 570933,
+      "num": 570933,
+      "word": "车上带了5只鸡 待遇怪好嘞",
+      "onboard_time": 1708917754,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 566262,
       "num": 566262,
       "word": "山西考研成绩",
@@ -347,20 +355,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 489057,
+      "num": 489057,
+      "word": "女子买20元锅包肉只见锅包不见肉",
+      "onboard_time": 1708918655,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 486083,
       "num": 486083,
       "word": "AD钙奶",
       "onboard_time": 1708871135,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 480696,
-      "num": 480696,
-      "word": "车上带了5只鸡 待遇怪好嘞",
-      "onboard_time": 1708917754,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 472910,
@@ -435,12 +443,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 399561,
-      "num": 399561,
-      "word": "女子买20元锅包肉只见锅包不见肉",
-      "onboard_time": 1708918655,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 412898,
+      "num": 412898,
+      "word": "大侦探黑钻大劫案",
+      "onboard_time": 1708920098,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 379265,
@@ -467,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 370022,
+      "num": 370022,
+      "word": "英语一",
+      "onboard_time": 1708920338,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 362373,
       "num": 362373,
       "word": "章凝宣布离开VOGUE",
@@ -483,14 +499,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 354500,
-      "num": 354500,
-      "word": "英语一",
-      "onboard_time": 1708920338,
-      "rank": 21,
-      "category": "教育"
-    },
-    {
       "raw_hot": 348613,
       "num": 348613,
       "word": "国乒男团11连冠",
@@ -499,8 +507,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 341688,
-      "num": 341688,
+      "raw_hot": 342770,
+      "num": 342770,
       "word": "孙颖莎说眼泪是捍卫荣耀的泪",
       "onboard_time": 1708920578,
       "rank": 23,
@@ -513,6 +521,14 @@
       "onboard_time": 1708911453,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 334896,
+      "num": 334896,
+      "word": "西安平均招聘薪酬9326元/月",
+      "onboard_time": 1708921000,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326910,
@@ -547,20 +563,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 311480,
+      "num": 265421,
+      "word": "在县城相亲189次我凑合结婚了",
+      "onboard_time": 1708921536,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 309066,
+      "num": 309066,
+      "word": "上班后最大的执念就是省钱",
+      "onboard_time": 1708921060,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 306701,
       "num": 288571,
       "word": "有了这个床上早八再也不怕迟到了",
       "onboard_time": 1708902744,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 306080,
-      "num": 306080,
-      "word": "大侦探黑钻大劫案",
-      "onboard_time": 1708920098,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 304044,
@@ -635,6 +659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 269281,
+      "num": 269281,
+      "word": "猫咪被抱下还知道卡胳肢窝",
+      "onboard_time": 1708919981,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 267863,
       "num": 267863,
       "word": "C罗因做不道德动作被查",
@@ -691,14 +723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249267,
-      "num": 249267,
-      "word": "猫咪被抱下还知道卡胳肢窝",
-      "onboard_time": 1708919981,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 247662,
       "num": 247662,
       "word": "研招网进不去",
@@ -721,6 +745,14 @@
       "onboard_time": 1708914872,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 239987,
+      "num": 239987,
+      "word": "猫咪为什么叫猫咪",
+      "onboard_time": 1708920217,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 238081,
@@ -747,20 +779,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230878,
+      "num": 230878,
+      "word": "比亚迪秦PLUS荣耀版首周订单23590辆",
+      "onboard_time": 1708920757,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 228209,
       "num": 228209,
       "word": "为什么洗草莓会掉色",
       "onboard_time": 1708911092,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 227592,
-      "num": 227592,
-      "word": "猫咪为什么叫猫咪",
-      "onboard_time": 1708920217,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 226465,
@@ -827,20 +859,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209762,
+      "num": 209762,
+      "word": "于适飞行夹克",
+      "onboard_time": 1708920457,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207520,
+      "num": 207520,
+      "word": "私人小院屡遭游客擅闯拍日照金山",
+      "onboard_time": 1708921603,
+      "rank": 43,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 207262,
       "num": 207262,
       "word": "赵丽娜回应直播崩溃痛哭",
       "onboard_time": 1708915653,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206608,
-      "num": 206608,
-      "word": "比亚迪秦PLUS荣耀版首周订单23590辆",
-      "onboard_time": 1708920757,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 206343,
@@ -867,6 +907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203200,
+      "num": 203200,
+      "word": "迪丽热巴花仙子侧拍花絮",
+      "onboard_time": 1708921718,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202391,
       "num": 202391,
       "word": "开学第一天",
@@ -889,14 +937,6 @@
       "onboard_time": 1708917694,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196509,
-      "num": 196509,
-      "word": "于适飞行夹克",
-      "onboard_time": 1708920457,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 191303,
@@ -929,14 +969,6 @@
       "onboard_time": 1708919915,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188874,
-      "num": 188874,
-      "word": "上班后最大的执念就是省钱",
-      "onboard_time": 1708921060,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 183092,
@@ -987,20 +1019,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 165125,
-      "num": 165125,
-      "word": "西安平均招聘薪酬9326元/月",
-      "onboard_time": 1708921000,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163319,
       "num": 163319,
       "word": "孟菀青 把爱给出去把痛藏起来",
       "onboard_time": 1708917634,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162623,
+      "num": 162623,
+      "word": "九尾让周深放心",
+      "onboard_time": 1708922021,
+      "rank": 49,
+      "category": "电竞,艺人"
     },
     {
       "raw_hot": 161312,
@@ -1267,6 +1299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 78739,
+      "num": 359364,
+      "word": "比亚迪除了电比油低还有杀手锏",
+      "onboard_time": 1708918955,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77769,
       "num": 77769,
       "word": "王楚钦感谢身在强大的团队",
@@ -1281,14 +1321,6 @@
       "onboard_time": 1708899858,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 75752,
-      "num": 359364,
-      "word": "比亚迪除了电比油低还有杀手锏",
-      "onboard_time": 1708918955,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67947,
@@ -1364,6 +1396,9 @@
     },
     {
       "word": "#一封复信续写中美民间友好交流佳话#"
+    },
+    {
+      "word": "#建设雄安新区需要各类企业共同参与#"
     }
   ]
 }
