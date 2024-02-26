@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708976061294,
+  "endTime": 1708978695713,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -6075,7 +6075,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17817,
+      "raw_hot": 18689,
       "num": 17817,
       "word": "自从把家里的桌子换成透明的",
       "onboard_time": 1708974435,
@@ -6113,6 +6113,14 @@
       "onboard_time": 1708808594,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 11598,
+      "num": 11598,
+      "word": "杨幂队又赢了",
+      "onboard_time": 1708977555,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 11006,
