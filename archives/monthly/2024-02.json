@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708917540698,
+  "endTime": 1708918488179,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1993,6 +1993,14 @@
       "onboard_time": 1707488124,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2092945,
+      "num": 2092945,
+      "word": "三个月喝了近一千块的奶茶",
+      "onboard_time": 1708916432,
+      "rank": 6,
+      "category": "美食"
     },
     {
       "raw_hot": 2092734,
@@ -6699,14 +6707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1075263,
-      "num": 1075263,
-      "word": "三个月喝了近一千块的奶茶",
-      "onboard_time": 1708916432,
-      "rank": 6,
-      "category": "美食"
-    },
-    {
       "raw_hot": 1074101,
       "num": 1074101,
       "word": "杜淳老婆王灿回怼网友恶评",
@@ -6745,6 +6745,14 @@
       "onboard_time": 1708756889,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1072006,
+      "num": 1072006,
+      "word": "人体不会癌变的器官",
+      "onboard_time": 1708916495,
+      "rank": 8,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1071775,
@@ -7499,6 +7507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 990389,
+      "num": 990389,
+      "word": "妈妈喜欢把洗碗布放水龙头上",
+      "onboard_time": 1708915414,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 988324,
       "num": 988324,
       "word": "柳鑫宇泪洒现场",
@@ -7785,14 +7801,6 @@
       "onboard_time": 1706834971,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 958520,
-      "num": 958520,
-      "word": "妈妈喜欢把洗碗布放水龙头上",
-      "onboard_time": 1708915414,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 957512,
@@ -8401,14 +8409,6 @@
       "onboard_time": 1708091375,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 910571,
-      "num": 910571,
-      "word": "人体不会癌变的器官",
-      "onboard_time": 1708916495,
-      "rank": 8,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 909983,
@@ -11923,6 +11923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 711951,
+      "num": 367691,
+      "word": "房价越降越不敢买",
+      "onboard_time": 1708917457,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 711762,
       "num": 711762,
       "word": "看心情吧",
@@ -12491,6 +12499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 685626,
+      "num": 685626,
+      "word": "一家三口同患上甲状腺癌",
+      "onboard_time": 1708915414,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 685462,
       "num": 407889,
       "word": "意媒曝朱婷收到意土豪门邀约",
@@ -12625,14 +12641,6 @@
       "onboard_time": 1708825115,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 679866,
-      "num": 655658,
-      "word": "一家三口同患上甲状腺癌",
-      "onboard_time": 1708915414,
-      "rank": 10,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 679678,
@@ -13505,6 +13513,14 @@
       "onboard_time": 1707215791,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 646922,
+      "num": 225723,
+      "word": "许昕 釜山不推迟的话我也是其中一员",
+      "onboard_time": 1708917277,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 646882,
@@ -21451,6 +21467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 423768,
+      "num": 423768,
+      "word": "考研国家线通常3月中旬左右出炉",
+      "onboard_time": 1708914815,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 423511,
       "num": 423511,
       "word": "杨紫说豆豆有点小绿茶",
@@ -23803,14 +23827,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 378145,
-      "num": 367691,
-      "word": "房价越降越不敢买",
-      "onboard_time": 1708917457,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
       "raw_hot": 377992,
       "num": 377992,
       "word": "谢娜王冰冰搭档主持",
@@ -24497,14 +24513,6 @@
       "onboard_time": 1707873872,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 367554,
-      "num": 367554,
-      "word": "考研国家线通常3月中旬左右出炉",
-      "onboard_time": 1708914815,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 367329,
@@ -32459,6 +32467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264328,
+      "num": 225653,
+      "word": "车上带了5只鸡 待遇怪好嘞",
+      "onboard_time": 1708917754,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 264176,
       "num": 284662,
       "word": "中国女篮vs法国女篮",
@@ -40051,6 +40067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211135,
+      "num": 211135,
+      "word": "别对我动心定档",
+      "onboard_time": 1708917997,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211071,
       "num": 211071,
       "word": "虞书欣杨之楹合照",
@@ -41529,6 +41553,14 @@
       "onboard_time": 1708528475,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204840,
+      "num": 204840,
+      "word": "电影白日之下定档",
+      "onboard_time": 1708918356,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 204833,
@@ -43361,6 +43393,14 @@
       "onboard_time": 1708050752,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 197952,
+      "num": 197952,
+      "word": "杭州市民哽咽缅怀宗庆后",
+      "onboard_time": 1708917694,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197839,
@@ -47979,14 +48019,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 179410,
-      "num": 179410,
-      "word": "许昕 釜山不推迟的话我也是其中一员",
-      "onboard_time": 1708917277,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179377,
       "num": 179377,
       "word": "ENHYPEN空降超话",
@@ -52105,6 +52137,14 @@
       "onboard_time": 1708247674,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163319,
+      "num": 163319,
+      "word": "孟菀青 把爱给出去把痛藏起来",
+      "onboard_time": 1708917634,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 163314,
@@ -65443,6 +65483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100200,
+      "num": 367702,
+      "word": "迪丽热巴白到发光",
+      "onboard_time": 1708916495,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 100117,
       "num": 100117,
       "word": "名侦探柯南 官配小情侣",
@@ -66761,14 +66809,6 @@
       "onboard_time": 1708866758,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 80422,
-      "num": 367702,
-      "word": "迪丽热巴白到发光",
-      "onboard_time": 1708916495,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 80300,
