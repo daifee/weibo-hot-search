@@ -1,6 +1,6 @@
 {
   "startTime": 1708964501350,
-  "endTime": 1708967748124,
+  "endTime": 1708968843980,
   "band_list": [
     {
       "raw_hot": 1314672,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 544707,
+      "num": 544707,
+      "word": "经常熬夜的人脸有多垮",
+      "onboard_time": 1708950035,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 516414,
       "num": 516414,
       "word": "前夫哥过得不好比什么都重要",
@@ -81,14 +89,6 @@
       "onboard_time": 1708959878,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 413317,
-      "num": 413317,
-      "word": "经常熬夜的人脸有多垮",
-      "onboard_time": 1708950035,
-      "rank": 10,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 363481,
@@ -251,6 +251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 133367,
+      "num": 133367,
+      "word": "徐冬冬说跑龙套赚的钱够养自己",
+      "onboard_time": 1708966702,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123728,
       "num": 123728,
       "word": "苹果公司警告手机进水别插米里",
@@ -313,14 +321,6 @@
       "onboard_time": 1708958915,
       "rank": 38,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 110929,
-      "num": 110929,
-      "word": "徐冬冬说跑龙套赚的钱够养自己",
-      "onboard_time": 1708966702,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 109986,
