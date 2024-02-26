@@ -1,0 +1,410 @@
+{
+  "runTime": 1708931915564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2914542,
+        "num": 2914542,
+        "word": "小徐上岸",
+        "onboard_time": 1708927233,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2231237,
+        "num": 2231237,
+        "word": "考研成绩",
+        "onboard_time": 1708910736,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 39588,
+        "num": 1364964,
+        "word": "龙年一起向更高的目标进发",
+        "onboard_time": 1708922860,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 891042,
+        "num": 891042,
+        "word": "韩国超一万名实习和住院医生辞职",
+        "onboard_time": 1708928318,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740994,
+        "num": 740994,
+        "word": "三个月喝了近一千块的奶茶",
+        "onboard_time": 1708916432,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 741075,
+        "num": 712310,
+        "word": "娃哈哈纯净水为什么是596ml",
+        "onboard_time": 1708925676,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643877,
+        "num": 643877,
+        "word": "董宇辉称非常多3C厂家愿提供低价",
+        "onboard_time": 1708927414,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 618233,
+        "num": 618233,
+        "word": "周深把杨幂的英雄池摸透了",
+        "onboard_time": 1708928793,
+        "rank": 7,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 605393,
+        "num": 605393,
+        "word": "考研国家线",
+        "onboard_time": 1708910913,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 549851,
+        "num": 549851,
+        "word": "咖啡超过九块九就不想喝了",
+        "onboard_time": 1708930056,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 861445,
+        "num": 533484,
+        "word": "郭涛儿子石头17岁近照",
+        "onboard_time": 1708930478,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514711,
+        "num": 514711,
+        "word": "人体不会癌变的器官",
+        "onboard_time": 1708916495,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 513630,
+        "num": 513630,
+        "word": "爸爸每周给29岁女儿备好一周饭菜",
+        "onboard_time": 1708923277,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489049,
+        "num": 489049,
+        "word": "王曼昱",
+        "onboard_time": 1708927355,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424978,
+        "num": 424978,
+        "word": "王安宇登门拜访姐夫了吗",
+        "onboard_time": 1708925738,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414899,
+        "num": 414899,
+        "word": "汪峰女儿小苹果近照",
+        "onboard_time": 1708931316,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402347,
+        "num": 402347,
+        "word": "为什么快递名都要写假名字",
+        "onboard_time": 1708930175,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 396345,
+        "num": 396345,
+        "word": "何炅长发狼尾",
+        "onboard_time": 1708926275,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386939,
+        "num": 386939,
+        "word": "在县城相亲189次我凑合结婚了",
+        "onboard_time": 1708921536,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385643,
+        "num": 385643,
+        "word": "王楚钦说有你们没在怕",
+        "onboard_time": 1708930118,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 731775,
+        "num": 375950,
+        "word": "医生称春节期间肛裂病人增多",
+        "onboard_time": 1708923879,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 292201,
+        "num": 292201,
+        "word": "潘粤明 谁说我退圈了我只是胖了",
+        "onboard_time": 1708922196,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291031,
+        "num": 291031,
+        "word": "鹿晗实体专辑",
+        "onboard_time": 1708925317,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 288224,
+        "num": 288224,
+        "word": "成毅代言高姿",
+        "onboard_time": 1708930356,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274372,
+        "num": 274372,
+        "word": "古天乐否认与宣萱结婚生子",
+        "onboard_time": 1708919981,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270553,
+        "num": 270553,
+        "word": "弟弟从没提过他的朋友坐轮椅",
+        "onboard_time": 1708927835,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266107,
+        "num": 266107,
+        "word": "妈妈喜欢把洗碗布放水龙头上",
+        "onboard_time": 1708915414,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247352,
+        "num": 247352,
+        "word": "高叶收到范丞丞送的海鲜",
+        "onboard_time": 1708931316,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242706,
+        "num": 242706,
+        "word": "北斗七行",
+        "onboard_time": 1708924656,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234519,
+        "num": 234519,
+        "word": "考研调剂",
+        "onboard_time": 1708931020,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104030,
+        "num": 231477,
+        "word": "小米14Ultra欧洲定价近国内一倍",
+        "onboard_time": 1708927894,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 231399,
+        "num": 231399,
+        "word": "会敲门的父母养不出锁门的孩子",
+        "onboard_time": 1708928916,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213346,
+        "num": 213346,
+        "word": "北斗七行衍生综艺开录",
+        "onboard_time": 1708928436,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199110,
+        "num": 199110,
+        "word": "王俊凯黑色深V",
+        "onboard_time": 1708931258,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193639,
+        "num": 193639,
+        "word": "原来红包皮还可以这样用",
+        "onboard_time": 1708926935,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180499,
+        "num": 180499,
+        "word": "因为汤圆和男朋友哭了一场",
+        "onboard_time": 1708927414,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178234,
+        "num": 178234,
+        "word": "人体中最不怕冷的器官",
+        "onboard_time": 1708922322,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173966,
+        "num": 173966,
+        "word": "EXO官宣粉丝见面会",
+        "onboard_time": 1708925196,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171466,
+        "num": 171466,
+        "word": "让你的脸变丑的习惯",
+        "onboard_time": 1708928616,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 169072,
+        "num": 169072,
+        "word": "室友是我见过运气最好的人",
+        "onboard_time": 1708928916,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158652,
+        "num": 158652,
+        "word": "年轻人开始整顿家庭伦理观",
+        "onboard_time": 1708929875,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157562,
+        "num": 157562,
+        "word": "泽连斯基公布乌军阵亡人数为3.1万",
+        "onboard_time": 1708925974,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 156197,
+        "num": 156197,
+        "word": "失踪4姐弟凌晨被发现在芦苇丛睡觉",
+        "onboard_time": 1708911213,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155094,
+        "num": 155094,
+        "word": "易烊千玺世界尽头传来的影像回响",
+        "onboard_time": 1708926696,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153934,
+        "num": 153934,
+        "word": "苹果研究AirPods带摄像头",
+        "onboard_time": 1708925918,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151436,
+        "num": 151436,
+        "word": "英语一",
+        "onboard_time": 1708920338,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148714,
+        "num": 148714,
+        "word": "考研国家线通常3月中旬左右出炉",
+        "onboard_time": 1708914815,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146769,
+        "num": 146769,
+        "word": "C罗做不雅动作回应球迷喊梅西",
+        "onboard_time": 1708914991,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143884,
+        "num": 143884,
+        "word": "赵丽颖露肩了",
+        "onboard_time": 1708919077,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133820,
+        "num": 133820,
+        "word": "李兰迪新妆造",
+        "onboard_time": 1708931797,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}

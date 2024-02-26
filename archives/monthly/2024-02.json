@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708929326512,
+  "endTime": 1708931915564,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -907,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2914542,
+      "num": 2914542,
+      "word": "小徐上岸",
+      "onboard_time": 1708927233,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2910834,
       "num": 2910834,
       "word": "杨幂好甜",
@@ -1049,14 +1057,6 @@
       "onboard_time": 1707347060,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2735298,
-      "num": 2735298,
-      "word": "小徐上岸",
-      "onboard_time": 1708927233,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 2727084,
@@ -7668,7 +7668,7 @@
     },
     {
       "raw_hot": 973846,
-      "num": 349336,
+      "num": 375950,
       "word": "医生称春节期间肛裂病人增多",
       "onboard_time": 1708923879,
       "rank": 30,
@@ -8731,6 +8731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 891042,
+      "num": 891042,
+      "word": "韩国超一万名实习和住院医生辞职",
+      "onboard_time": 1708928318,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 889618,
       "num": 889618,
       "word": "娃哈哈是我在这个世界上存在过的证明",
@@ -9201,6 +9209,14 @@
       "onboard_time": 1707564036,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 861445,
+      "num": 533484,
+      "word": "郭涛儿子石头17岁近照",
+      "onboard_time": 1708930478,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 861123,
@@ -13675,6 +13691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 643877,
+      "num": 643877,
+      "word": "董宇辉称非常多3C厂家愿提供低价",
+      "onboard_time": 1708927414,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 643590,
       "num": 643590,
       "word": "韩国超万名医学生申请休学",
@@ -14465,6 +14489,14 @@
       "onboard_time": 1708760488,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 618233,
+      "num": 618233,
+      "word": "周深把杨幂的英雄池摸透了",
+      "onboard_time": 1708928793,
+      "rank": 17,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 617486,
@@ -15345,14 +15377,6 @@
       "onboard_time": 1708835382,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 588306,
-      "num": 523087,
-      "word": "董宇辉称非常多3C厂家愿提供低价",
-      "onboard_time": 1708927414,
-      "rank": 15,
-      "category": "互联网"
     },
     {
       "raw_hot": 587750,
@@ -16537,6 +16561,14 @@
       "onboard_time": 1706884174,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 549851,
+      "num": 549851,
+      "word": "咖啡超过九块九就不想喝了",
+      "onboard_time": 1708930056,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 549835,
@@ -18947,6 +18979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 489049,
+      "num": 489049,
+      "word": "王曼昱",
+      "onboard_time": 1708771473,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 488995,
       "num": 488995,
       "word": "张小斐 最后乐丹望向擂台的眼神",
@@ -21339,14 +21379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 427786,
-      "num": 427786,
-      "word": "王曼昱",
-      "onboard_time": 1708771473,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 427647,
       "num": 427647,
       "word": "十个勤天用的什么散粉",
@@ -22107,6 +22139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414899,
+      "num": 414899,
+      "word": "汪峰女儿小苹果近照",
+      "onboard_time": 1708931316,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 414879,
       "num": 414879,
       "word": "官方通报女子被丈夫泼酒点火烧伤",
@@ -22667,14 +22707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 402994,
-      "num": 402994,
-      "word": "周深把杨幂的英雄池摸透了",
-      "onboard_time": 1708928793,
-      "rank": 17,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 402972,
       "num": 402972,
       "word": "陈芋汐207C",
@@ -22705,6 +22737,14 @@
       "onboard_time": 1707867743,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 402347,
+      "num": 402347,
+      "word": "为什么快递名都要写假名字",
+      "onboard_time": 1708930175,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 402271,
@@ -23595,6 +23635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 385643,
+      "num": 385643,
+      "word": "王楚钦说有你们没在怕",
+      "onboard_time": 1708930118,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 385088,
       "num": 385088,
       "word": "麻辣烫为什么越来越高级了",
@@ -24393,14 +24441,6 @@
       "onboard_time": 1708521395,
       "rank": 43,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 371653,
-      "num": 371653,
-      "word": "韩国超一万名实习和住院医生辞职",
-      "onboard_time": 1708928318,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 371573,
@@ -30363,6 +30403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 288224,
+      "num": 288224,
+      "word": "成毅代言高姿",
+      "onboard_time": 1708930356,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287943,
       "num": 287943,
       "word": "朱开说Jiejie打了一堆针",
@@ -32155,6 +32203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270553,
+      "num": 270553,
+      "word": "弟弟从没提过他的朋友坐轮椅",
+      "onboard_time": 1708927835,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 270326,
       "num": 270326,
       "word": "没有老字号你还在吃400元一斤日本味精",
@@ -32993,14 +33049,6 @@
       "onboard_time": 1707316417,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 262263,
-      "num": 262263,
-      "word": "弟弟从没提过他的朋友坐轮椅",
-      "onboard_time": 1708927835,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 262240,
@@ -34729,6 +34777,14 @@
       "onboard_time": 1706759671,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247352,
+      "num": 247352,
+      "word": "高叶收到范丞丞送的海鲜",
+      "onboard_time": 1708931316,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 247291,
@@ -36515,6 +36571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234519,
+      "num": 234519,
+      "word": "考研调剂",
+      "onboard_time": 1708931020,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 234480,
       "num": 234480,
       "word": "陈靖可考古",
@@ -37049,6 +37113,14 @@
       "onboard_time": 1708431161,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231399,
+      "num": 231399,
+      "word": "会敲门的父母养不出锁门的孩子",
+      "onboard_time": 1708928916,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 231339,
@@ -43497,6 +43569,14 @@
       "onboard_time": 1708049554,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 199110,
+      "num": 199110,
+      "word": "王俊凯黑色深V",
+      "onboard_time": 1708931258,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 199099,
@@ -52051,14 +52131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165481,
-      "num": 165481,
-      "word": "会敲门的父母养不出锁门的孩子",
-      "onboard_time": 1708928916,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 165373,
       "num": 165373,
       "word": "婆婆为返程儿媳细心包好每一个鸡蛋",
@@ -53641,6 +53713,14 @@
       "onboard_time": 1708339000,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158652,
+      "num": 158652,
+      "word": "年轻人开始整顿家庭伦理观",
+      "onboard_time": 1708929875,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 158634,
@@ -59899,6 +59979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133820,
+      "num": 133820,
+      "word": "李兰迪新妆造",
+      "onboard_time": 1708931797,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133818,
       "num": 133818,
       "word": "TES速通LNG",
@@ -65619,6 +65707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104030,
+      "num": 449230,
+      "word": "小米14Ultra欧洲定价近国内一倍",
+      "onboard_time": 1708927894,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 103966,
       "num": 103966,
       "word": "加里纳利加盟雄鹿",
@@ -65833,14 +65929,6 @@
       "onboard_time": 1707913416,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101863,
-      "num": 449230,
-      "word": "小米14Ultra欧洲定价近国内一倍",
-      "onboard_time": 1708927894,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 101617,
