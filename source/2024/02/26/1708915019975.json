@@ -1,0 +1,410 @@
+{
+  "runTime": 1708915019975,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3050676,
+        "num": 3050676,
+        "word": "考研成绩",
+        "onboard_time": 1708910736,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2226406,
+        "num": 2226406,
+        "word": "失踪4姐弟凌晨被发现在芦苇丛睡觉",
+        "onboard_time": 1708911213,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43797,
+        "num": 1900214,
+        "word": "中国载人月球探测任务正有序推进",
+        "onboard_time": 1708866758,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1854928,
+        "num": 1854928,
+        "word": "考研国家线",
+        "onboard_time": 1708910913,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1009660,
+        "num": 1009660,
+        "word": "我直接把家庭群给掀了",
+        "onboard_time": 1708908815,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 897801,
+        "num": 897801,
+        "word": "英语二",
+        "onboard_time": 1708913674,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 812463,
+        "num": 812463,
+        "word": "马云发挽联悼念宗庆后",
+        "onboard_time": 1708909954,
+        "rank": 6,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 808074,
+        "num": 808074,
+        "word": "演唱会门票秒没票务那儿大把",
+        "onboard_time": 1708910374,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 586922,
+        "num": 586922,
+        "word": "宗庆后曾公开怼马云后握手言和",
+        "onboard_time": 1708908514,
+        "rank": 8,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 582333,
+        "num": 582333,
+        "word": "医生提醒过早医美抗衰可能适得其反",
+        "onboard_time": 1708908573,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 540090,
+        "num": 540090,
+        "word": "明白为啥人神相恋不被允许了",
+        "onboard_time": 1708912053,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 527462,
+        "num": 527462,
+        "word": "肖战发型 龙头",
+        "onboard_time": 1708914034,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519348,
+        "num": 519348,
+        "word": "管综",
+        "onboard_time": 1708911932,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 500237,
+        "num": 500237,
+        "word": "张小斐曾陪贾玲考研自己考上了",
+        "onboard_time": 1708869692,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460190,
+        "num": 460190,
+        "word": "袁姗姗鼻子",
+        "onboard_time": 1708871918,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 454285,
+        "num": 454285,
+        "word": "老外在中国有钱难花",
+        "onboard_time": 1708908692,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404437,
+        "num": 404437,
+        "word": "只上了一天班就离职了",
+        "onboard_time": 1708904488,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 386422,
+        "num": 386422,
+        "word": "2024年研考初试成绩公布",
+        "onboard_time": 1708909954,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 379265,
+        "num": 379265,
+        "word": "江西崇义低彩礼夫妻子女可优先入学",
+        "onboard_time": 1708912531,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346580,
+        "num": 346580,
+        "word": "秦牛正威晒与未婚夫合照",
+        "onboard_time": 1708870776,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322076,
+        "num": 322076,
+        "word": "肖战黑粉被限消",
+        "onboard_time": 1708914514,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291087,
+        "num": 291087,
+        "word": "见义勇为律师称比亚迪20万奖励先还房贷",
+        "onboard_time": 1708906532,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282452,
+        "num": 282452,
+        "word": "法硕",
+        "onboard_time": 1708911453,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 269788,
+        "num": 269788,
+        "word": "马龙轻击台面告别世锦赛",
+        "onboard_time": 1708911993,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259112,
+        "num": 259112,
+        "word": "冷冻食品可别直接下锅",
+        "onboard_time": 1708914330,
+        "rank": 24,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 251125,
+        "num": 251125,
+        "word": "新加坡航展A400m禁止中国游客参观",
+        "onboard_time": 1708910613,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248787,
+        "num": 248787,
+        "word": "姜妍演技",
+        "onboard_time": 1708875217,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245105,
+        "num": 245105,
+        "word": "猫咪在床上跑酷被主人叫名字",
+        "onboard_time": 1708913434,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234413,
+        "num": 234413,
+        "word": "章凝宣布离开VOGUE",
+        "onboard_time": 1708914450,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226465,
+        "num": 226465,
+        "word": "沈梦辰回复杨迪",
+        "onboard_time": 1708913491,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219492,
+        "num": 219492,
+        "word": "苹果头显制造成本曝光",
+        "onboard_time": 1708912417,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 205478,
+        "num": 205478,
+        "word": "蟠陶盛彦",
+        "onboard_time": 1708914153,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201718,
+        "num": 201718,
+        "word": "考研",
+        "onboard_time": 1708878090,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200416,
+        "num": 200416,
+        "word": "为什么洗草莓会掉色",
+        "onboard_time": 1708911092,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199423,
+        "num": 199423,
+        "word": "男子醉驾致人死亡8年后再次醉驾",
+        "onboard_time": 1708893317,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190738,
+        "num": 190738,
+        "word": "岳云鹏说自己一哥算不上",
+        "onboard_time": 1708912834,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183627,
+        "num": 183627,
+        "word": "赴华韩国游客数量暴增900%",
+        "onboard_time": 1708875574,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178539,
+        "num": 178539,
+        "word": "考研国家线通常3月中旬左右出炉",
+        "onboard_time": 1708914815,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173778,
+        "num": 173778,
+        "word": "牛大力官配许清雅出场",
+        "onboard_time": 1708877014,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155779,
+        "num": 155779,
+        "word": "老年人吃28种止痛药致严重并发症",
+        "onboard_time": 1708910012,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155399,
+        "num": 155399,
+        "word": "明天四六级出成绩",
+        "onboard_time": 1708913251,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154119,
+        "num": 154119,
+        "word": "C罗做不雅动作回应球迷喊梅西",
+        "onboard_time": 1708914991,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152925,
+        "num": 152925,
+        "word": "国乒男团11连冠",
+        "onboard_time": 1708866577,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147045,
+        "num": 147045,
+        "word": "一男子在以色列驻华盛顿大使馆外自焚",
+        "onboard_time": 1708914872,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 146219,
+        "num": 146219,
+        "word": "333",
+        "onboard_time": 1708914934,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142389,
+        "num": 142389,
+        "word": "有了这个床上早八再也不怕迟到了",
+        "onboard_time": 1708902744,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140583,
+        "num": 140583,
+        "word": "韩企员工生娃奖励1亿韩元",
+        "onboard_time": 1708906473,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140475,
+        "num": 140475,
+        "word": "范丞丞这张全家福就差我了",
+        "onboard_time": 1708873774,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136055,
+        "num": 136055,
+        "word": "路边3块钱烤肠究竟有多少真肉",
+        "onboard_time": 1708908692,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 134696,
+        "num": 134696,
+        "word": "为何年轻人上班不愿意精致打扮",
+        "onboard_time": 1708863756,
+        "rank": 49,
+        "category": "社会议题"
+      }
+    ],
+    "hotgov": {
+      "word": "#一封复信续写中美民间友好交流佳话#"
+    }
+  }
+}

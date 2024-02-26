@@ -1,6 +1,6 @@
 {
   "startTime": 1708878084354,
-  "endTime": 1708914353188,
+  "endTime": 1708915019975,
   "band_list": [
     {
       "raw_hot": 3339786,
@@ -11,20 +11,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2226406,
+      "num": 2226406,
+      "word": "失踪4姐弟凌晨被发现在芦苇丛睡觉",
+      "onboard_time": 1708911213,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2136805,
       "num": 2136805,
       "word": "考研",
       "onboard_time": 1708878090,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2094657,
-      "num": 2094657,
-      "word": "失踪4姐弟凌晨被发现在芦苇丛睡觉",
-      "onboard_time": 1708911213,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1974500,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1763808,
-      "num": 1763808,
+      "raw_hot": 1854928,
+      "num": 1854928,
       "word": "考研国家线",
       "onboard_time": 1708910913,
       "rank": 24,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1000791,
-      "num": 808011,
+      "num": 812463,
       "word": "马云发挽联悼念宗庆后",
       "onboard_time": 1708909954,
       "rank": 46,
@@ -73,6 +73,14 @@
       "onboard_time": 1708869692,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 897801,
+      "num": 897801,
+      "word": "英语二",
+      "onboard_time": 1708913674,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 892776,
@@ -99,8 +107,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 793608,
-      "num": 793608,
+      "raw_hot": 808074,
+      "num": 808074,
       "word": "演唱会门票秒没票务那儿大把",
       "onboard_time": 1708910374,
       "rank": 9,
@@ -227,12 +235,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 515436,
-      "num": 515436,
+      "raw_hot": 540090,
+      "num": 540090,
       "word": "明白为啥人神相恋不被允许了",
       "onboard_time": 1708912053,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 527462,
+      "num": 527462,
+      "word": "肖战发型 龙头",
+      "onboard_time": 1708914034,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 514722,
@@ -241,14 +257,6 @@
       "onboard_time": 1708885099,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 506024,
-      "num": 506024,
-      "word": "英语二",
-      "onboard_time": 1708913674,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 486083,
@@ -323,6 +331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 379265,
+      "num": 379265,
+      "word": "江西崇义低彩礼夫妻子女可优先入学",
+      "onboard_time": 1708912531,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370929,
       "num": 299377,
       "word": "迪丽热巴耳骨钉",
@@ -355,20 +371,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 329029,
-      "num": 329029,
-      "word": "江西崇义低彩礼夫妻子女可优先入学",
-      "onboard_time": 1708912531,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 325407,
       "num": 325407,
       "word": "甘肃麻辣烫",
       "onboard_time": 1708908573,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 322076,
+      "num": 322076,
+      "word": "肖战黑粉被限消",
+      "onboard_time": 1708914514,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 320129,
@@ -427,14 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278582,
-      "num": 278582,
-      "word": "肖战发型 龙头",
-      "onboard_time": 1708914034,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 275792,
       "num": 195753,
       "word": "再也不想给室友带土特产了",
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 263450,
-      "num": 223801,
+      "num": 245105,
       "word": "猫咪在床上跑酷被主人叫名字",
       "onboard_time": 1708913434,
       "rank": 30,
@@ -465,6 +473,14 @@
       "onboard_time": 1708910613,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259112,
+      "num": 259112,
+      "word": "冷冻食品可别直接下锅",
+      "onboard_time": 1708914330,
+      "rank": 35,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 258147,
@@ -515,6 +531,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 234413,
+      "num": 234413,
+      "word": "章凝宣布离开VOGUE",
+      "onboard_time": 1708914450,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233978,
       "num": 233978,
       "word": "贾跃亭炮轰高合汽车是行业耻辱",
@@ -539,6 +563,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 226465,
+      "num": 226465,
+      "word": "沈梦辰回复杨迪",
+      "onboard_time": 1708913491,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225578,
       "num": 193193,
       "word": "妻子四胎准备出院男子跪谢妻子",
@@ -553,14 +585,6 @@
       "onboard_time": 1708903527,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224552,
-      "num": 224552,
-      "word": "沈梦辰回复杨迪",
-      "onboard_time": 1708913491,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 219925,
@@ -595,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205478,
+      "num": 205478,
+      "word": "蟠陶盛彦",
+      "onboard_time": 1708914153,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202391,
       "num": 202391,
       "word": "开学第一天",
@@ -603,8 +635,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 189796,
-      "num": 189796,
+      "raw_hot": 190738,
+      "num": 190738,
       "word": "岳云鹏说自己一哥算不上",
       "onboard_time": 1708912834,
       "rank": 33,
@@ -635,12 +667,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173211,
-      "num": 173211,
-      "word": "冷冻食品可别直接下锅",
-      "onboard_time": 1708914330,
-      "rank": 35,
-      "category": "美食,社会新闻"
+      "raw_hot": 178539,
+      "num": 178539,
+      "word": "考研国家线通常3月中旬左右出炉",
+      "onboard_time": 1708914815,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 172354,
@@ -707,12 +739,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 155534,
-      "num": 155534,
-      "word": "蟠陶盛彦",
-      "onboard_time": 1708914153,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 154119,
+      "num": 154119,
+      "word": "C罗做不雅动作回应球迷喊梅西",
+      "onboard_time": 1708914991,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 151082,
@@ -729,6 +761,22 @@
       "onboard_time": 1708908573,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 147045,
+      "num": 147045,
+      "word": "一男子在以色列驻华盛顿大使馆外自焚",
+      "onboard_time": 1708914872,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 146219,
+      "num": 146219,
+      "word": "333",
+      "onboard_time": 1708914934,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 140579,
@@ -916,7 +964,7 @@
     },
     {
       "raw_hot": 80586,
-      "num": 1834054,
+      "num": 1900214,
       "word": "中国载人月球探测任务正有序推进",
       "onboard_time": 1708866758,
       "rank": 2,
