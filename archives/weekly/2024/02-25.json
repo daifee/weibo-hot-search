@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708928596073,
+  "endTime": 1708929326512,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -65,6 +65,14 @@
       "onboard_time": 1708846292,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2735298,
+      "num": 2735298,
+      "word": "小徐上岸",
+      "onboard_time": 1708927233,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 2515346,
@@ -265,14 +273,6 @@
       "onboard_time": 1708842273,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1482963,
-      "num": 1482963,
-      "word": "小徐上岸",
-      "onboard_time": 1708927233,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 1440752,
@@ -1075,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 588306,
+      "num": 523087,
+      "word": "董宇辉称非常多3C厂家愿提供低价",
+      "onboard_time": 1708927414,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 587043,
       "num": 587043,
       "word": "金风玉露",
@@ -1499,6 +1507,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 427786,
+      "num": 427786,
+      "word": "王曼昱",
+      "onboard_time": 1708771473,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 424841,
       "num": 424841,
       "word": "迪丽热巴昆明",
@@ -1619,6 +1635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 402994,
+      "num": 402994,
+      "word": "周深把杨幂的英雄池摸透了",
+      "onboard_time": 1708928793,
+      "rank": 17,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 402271,
       "num": 402271,
       "word": "鹿晗穿睡衣被背篓赶集",
@@ -1657,14 +1681,6 @@
       "onboard_time": 1708829616,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 393892,
-      "num": 393892,
-      "word": "董宇辉称非常多3C厂家愿提供低价",
-      "onboard_time": 1708927414,
-      "rank": 15,
-      "category": "互联网"
     },
     {
       "raw_hot": 393059,
@@ -1745,6 +1761,14 @@
       "onboard_time": 1708853194,
       "rank": 21,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 371653,
+      "num": 371653,
+      "word": "韩国超一万名实习和住院医生辞职",
+      "onboard_time": 1708928318,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370929,
@@ -1840,14 +1864,6 @@
       "word": "樊振东3比2A勒布伦",
       "onboard_time": 1708865134,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 352041,
-      "num": 352041,
-      "word": "王曼昱",
-      "onboard_time": 1708771473,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -2115,6 +2131,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 301992,
+      "num": 301992,
+      "word": "北斗七行衍生综艺开录",
+      "onboard_time": 1708928436,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301763,
       "num": 301763,
       "word": "朴彩英戴了BLACKPINK的帽子",
@@ -2379,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262263,
+      "num": 262263,
+      "word": "弟弟从没提过他的朋友坐轮椅",
+      "onboard_time": 1708927835,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 262064,
       "num": 262064,
       "word": "飞驰人生2票房破30亿",
@@ -2539,6 +2571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246609,
+      "num": 246609,
+      "word": "原来红包皮还可以这样用",
+      "onboard_time": 1708926935,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245757,
       "num": 245757,
       "word": "林允儿跳了Flower",
@@ -2585,14 +2625,6 @@
       "onboard_time": 1708920217,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 239934,
-      "num": 239934,
-      "word": "北斗七行衍生综艺开录",
-      "onboard_time": 1708928436,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 239797,
@@ -2737,14 +2769,6 @@
       "onboard_time": 1708924238,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 227198,
-      "num": 219915,
-      "word": "原来红包皮还可以这样用",
-      "onboard_time": 1708926935,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 226714,
@@ -2921,14 +2945,6 @@
       "onboard_time": 1708858893,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211831,
-      "num": 211831,
-      "word": "弟弟从没提过他的朋友坐轮椅",
-      "onboard_time": 1708927835,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 211472,
@@ -3291,6 +3307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189819,
+      "num": 189819,
+      "word": "让你的脸变丑的习惯",
+      "onboard_time": 1708928616,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 189806,
       "num": 189806,
       "word": "狗突然秃顶了怎么办",
@@ -3369,6 +3393,14 @@
       "onboard_time": 1708844734,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 187403,
+      "num": 187403,
+      "word": "室友是我见过运气最好的人",
+      "onboard_time": 1708928916,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 187060,
@@ -3563,14 +3595,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 172667,
-      "num": 172667,
-      "word": "韩国超一万名实习和住院医生辞职",
-      "onboard_time": 1708928318,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170864,
       "num": 170864,
       "word": "王鹤棣出发回国了",
@@ -3697,6 +3721,14 @@
       "onboard_time": 1708836520,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 165481,
+      "num": 165481,
+      "word": "会敲门的父母养不出锁门的孩子",
+      "onboard_time": 1708928916,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 165137,
@@ -4332,7 +4364,7 @@
     },
     {
       "raw_hot": 101863,
-      "num": 180712,
+      "num": 449230,
       "word": "小米14Ultra欧洲定价近国内一倍",
       "onboard_time": 1708927894,
       "rank": 38,

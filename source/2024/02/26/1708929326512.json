@@ -1,0 +1,410 @@
+{
+  "runTime": 1708929326512,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2735298,
+        "num": 2735298,
+        "word": "小徐上岸",
+        "onboard_time": 1708927233,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1740182,
+        "num": 1740182,
+        "word": "考研成绩",
+        "onboard_time": 1708910736,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 43899,
+        "num": 1198478,
+        "word": "龙年一起向更高的目标进发",
+        "onboard_time": 1708922860,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932480,
+        "num": 932480,
+        "word": "三个月喝了近一千块的奶茶",
+        "onboard_time": 1708916432,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 720842,
+        "num": 720842,
+        "word": "爸爸每周给29岁女儿备好一周饭菜",
+        "onboard_time": 1708923277,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852062,
+        "num": 709401,
+        "word": "娃哈哈纯净水为什么是596ml",
+        "onboard_time": 1708925676,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677707,
+        "num": 677707,
+        "word": "王安宇登门拜访姐夫了吗",
+        "onboard_time": 1708925738,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 676147,
+        "num": 676147,
+        "word": "考研国家线",
+        "onboard_time": 1708910913,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 613454,
+        "num": 613454,
+        "word": "何炅长发狼尾",
+        "onboard_time": 1708926275,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525384,
+        "num": 525384,
+        "word": "北斗七行",
+        "onboard_time": 1708924656,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 588306,
+        "num": 523087,
+        "word": "董宇辉称非常多3C厂家愿提供低价",
+        "onboard_time": 1708927414,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 570632,
+        "num": 522496,
+        "word": "在县城相亲189次我凑合结婚了",
+        "onboard_time": 1708921536,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 512286,
+        "num": 512286,
+        "word": "人体不会癌变的器官",
+        "onboard_time": 1708916495,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 490272,
+        "num": 490272,
+        "word": "潘粤明 谁说我退圈了我只是胖了",
+        "onboard_time": 1708922196,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 478972,
+        "num": 478972,
+        "word": "古天乐否认与宣萱结婚生子",
+        "onboard_time": 1708919981,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97549,
+        "num": 449230,
+        "word": "小米14Ultra欧洲定价近国内一倍",
+        "onboard_time": 1708927894,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 427786,
+        "num": 427786,
+        "word": "王曼昱",
+        "onboard_time": 1708927355,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402994,
+        "num": 402994,
+        "word": "周深把杨幂的英雄池摸透了",
+        "onboard_time": 1708928793,
+        "rank": 17,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 371653,
+        "num": 371653,
+        "word": "韩国超一万名实习和住院医生辞职",
+        "onboard_time": 1708928318,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362758,
+        "num": 362758,
+        "word": "妈妈喜欢把洗碗布放水龙头上",
+        "onboard_time": 1708915414,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 934675,
+        "num": 349065,
+        "word": "医生称春节期间肛裂病人增多",
+        "onboard_time": 1708923879,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 331128,
+        "num": 331128,
+        "word": "鹿晗实体专辑",
+        "onboard_time": 1708925317,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 328735,
+        "num": 328735,
+        "word": "EXO官宣粉丝见面会",
+        "onboard_time": 1708925196,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 318631,
+        "num": 318631,
+        "word": "泽连斯基公布乌军阵亡人数为3.1万",
+        "onboard_time": 1708925974,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 302290,
+        "num": 302290,
+        "word": "西安平均招聘薪酬9326元每月",
+        "onboard_time": 1708921000,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301992,
+        "num": 301992,
+        "word": "北斗七行衍生综艺开录",
+        "onboard_time": 1708928436,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284773,
+        "num": 284773,
+        "word": "人体中最不怕冷的器官",
+        "onboard_time": 1708922322,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 270587,
+        "num": 270587,
+        "word": "私人小院屡遭游客擅闯拍日照金山",
+        "onboard_time": 1708921603,
+        "rank": 27,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 262263,
+        "num": 262263,
+        "word": "弟弟从没提过他的朋友坐轮椅",
+        "onboard_time": 1708927835,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246609,
+        "num": 246609,
+        "word": "原来红包皮还可以这样用",
+        "onboard_time": 1708926935,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234383,
+        "num": 234383,
+        "word": "C罗做不雅动作回应球迷喊梅西",
+        "onboard_time": 1708914991,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203756,
+        "num": 203756,
+        "word": "正月里剃头为啥死的是舅舅",
+        "onboard_time": 1708927414,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 202077,
+        "num": 202077,
+        "word": "赵丽颖露肩了",
+        "onboard_time": 1708919077,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193159,
+        "num": 193159,
+        "word": "易烊千玺世界尽头传来的影像回响",
+        "onboard_time": 1708926696,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192314,
+        "num": 192314,
+        "word": "因为汤圆和男朋友哭了一场",
+        "onboard_time": 1708927414,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189819,
+        "num": 189819,
+        "word": "让你的脸变丑的习惯",
+        "onboard_time": 1708928616,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 187403,
+        "num": 187403,
+        "word": "室友是我见过运气最好的人",
+        "onboard_time": 1708928916,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184764,
+        "num": 184764,
+        "word": "苹果研究AirPods带摄像头",
+        "onboard_time": 1708925918,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 183390,
+        "num": 183390,
+        "word": "失踪4姐弟凌晨被发现在芦苇丛睡觉",
+        "onboard_time": 1708911213,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180259,
+        "num": 180259,
+        "word": "巴黎奥运会运动员村不安装空调",
+        "onboard_time": 1708922380,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175669,
+        "num": 175669,
+        "word": "许昕 釜山不推迟的话我也是其中一员",
+        "onboard_time": 1708917277,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169749,
+        "num": 169749,
+        "word": "赵丽颖亚洲电影大奖获奖",
+        "onboard_time": 1708923220,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168971,
+        "num": 168971,
+        "word": "肖战发型 龙头",
+        "onboard_time": 1708914034,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165481,
+        "num": 165481,
+        "word": "会敲门的父母养不出锁门的孩子",
+        "onboard_time": 1708928916,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164327,
+        "num": 164327,
+        "word": "333",
+        "onboard_time": 1708914934,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163076,
+        "num": 163076,
+        "word": "英语一",
+        "onboard_time": 1708920338,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148752,
+        "num": 148752,
+        "word": "李雪琴说没有王建国也过得挺好",
+        "onboard_time": 1708923518,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144601,
+        "num": 144601,
+        "word": "王楚钦说自己成为别人的挑战对象",
+        "onboard_time": 1708924238,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136567,
+        "num": 136567,
+        "word": "男学者们这时候突然要去上厕所了",
+        "onboard_time": 1708926816,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136229,
+        "num": 136229,
+        "word": "刘诗诗17岁至36岁颜值变化",
+        "onboard_time": 1708925855,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#一封复信续写中美民间友好交流佳话#"
+    }
+  }
+}
