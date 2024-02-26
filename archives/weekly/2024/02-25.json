@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708979649739,
+  "endTime": 1708982205551,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -5923,6 +5923,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 52661,
+      "num": 40928,
+      "word": "女校长回应百人群发不雅视频",
+      "onboard_time": 1708979055,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51985,
       "num": 51985,
       "word": "这衣柜不会是全福建统一吧",
@@ -6083,6 +6091,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 18614,
+      "num": 18614,
+      "word": "3000年前的美男子长啥样",
+      "onboard_time": 1708979355,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18510,
+      "num": 24355,
+      "word": "部分网店靠盗版短剧入账数十万",
+      "onboard_time": 1708980136,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17236,
       "num": 17236,
       "word": "伊能静儿子穿搭",
@@ -6099,20 +6123,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13071,
-      "num": 13071,
-      "word": "女校长回应百人群发不雅视频",
-      "onboard_time": 1708979055,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 12339,
       "num": 14682,
       "word": "中国建设者用7年让一座城拔地而起",
       "onboard_time": 1708974796,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12033,
+      "num": 12033,
+      "word": "盗版短剧成香饽饽",
+      "onboard_time": 1708981394,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 11633,
@@ -6139,12 +6163,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 10179,
-      "num": 11406,
-      "word": "3000年前的美男子长啥样",
-      "onboard_time": 1708979355,
+      "raw_hot": 10050,
+      "num": 10050,
+      "word": "不想锻炼是人类进化出的本能",
+      "onboard_time": 1708980915,
       "rank": 47,
-      "category": "社会新闻"
+      "category": "运动健身"
     }
   ],
   "hotgov_list": [
