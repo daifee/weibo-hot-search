@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708942758728,
+  "endTime": 1708943694484,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2672,6 +2672,14 @@
       "word": "考研国家线",
       "onboard_time": 1708910913,
       "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1851522,
+      "num": 1851522,
+      "word": "暨南大学 谁查到了",
+      "onboard_time": 1708941632,
+      "rank": 6,
       "category": "教育"
     },
     {
@@ -7057,6 +7065,14 @@
       "onboard_time": 1707985833,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1047751,
+      "num": 1047751,
+      "word": "苹果公司警告手机进水别插米里",
+      "onboard_time": 1708941094,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 1047395,
@@ -12067,14 +12083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 714073,
-      "num": 714073,
-      "word": "暨南大学 谁查到了",
-      "onboard_time": 1708941632,
-      "rank": 6,
-      "category": "教育"
-    },
-    {
       "raw_hot": 713480,
       "num": 713480,
       "word": "卡琳娜和揉西 汉服合照",
@@ -16665,14 +16673,6 @@
       "onboard_time": 1708126942,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 550513,
-      "num": 550513,
-      "word": "苹果公司警告手机进水别插米里",
-      "onboard_time": 1708941094,
-      "rank": 10,
-      "category": "数码"
     },
     {
       "raw_hot": 550317,
@@ -25691,6 +25691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 354498,
+      "num": 354498,
+      "word": "六盘水",
+      "onboard_time": 1708941632,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354462,
       "num": 314562,
       "word": "上学累还是上班累",
@@ -27619,6 +27627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322147,
+      "num": 322147,
+      "word": "Tian芮尔五杀",
+      "onboard_time": 1708942414,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 322092,
       "num": 316192,
       "word": "头一次见3000毫升的点滴",
@@ -29345,6 +29361,14 @@
       "onboard_time": 1708617990,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 301338,
+      "num": 203364,
+      "word": "怎么劝退我买这件衣服",
+      "onboard_time": 1708943016,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 301211,
@@ -35123,14 +35147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 246226,
-      "num": 246226,
-      "word": "六盘水",
-      "onboard_time": 1708941632,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246055,
       "num": 246055,
       "word": "要久久爱收官长文",
@@ -37563,14 +37579,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 229741,
-      "num": 229741,
-      "word": "Tian芮尔五杀",
-      "onboard_time": 1708942414,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 229734,
       "num": 229734,
       "word": "猎冰导演发文回应争议",
@@ -37601,6 +37609,14 @@
       "onboard_time": 1708071992,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 229613,
+      "num": 229613,
+      "word": "金晨终于又跳舞了",
+      "onboard_time": 1708942774,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 229588,
@@ -37689,6 +37705,14 @@
       "onboard_time": 1708495835,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 228763,
+      "num": 228763,
+      "word": "睡懵了小猫被掰成两半了",
+      "onboard_time": 1708942774,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 228600,
@@ -44099,6 +44123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197903,
+      "num": 197903,
+      "word": "淘特逐步并回淘宝",
+      "onboard_time": 1708940256,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 197839,
       "num": 197839,
       "word": "四问杭州宾利司机伤人事件",
@@ -47643,6 +47675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184963,
+      "num": 184963,
+      "word": "PLAVE新歌空降成绩",
+      "onboard_time": 1708943135,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 184957,
       "num": 184957,
       "word": "原来不是没有年味了",
@@ -47849,6 +47889,14 @@
       "onboard_time": 1708313310,
       "rank": 36,
       "category": "军事"
+    },
+    {
+      "raw_hot": 183902,
+      "num": 183902,
+      "word": "李泰容新歌",
+      "onboard_time": 1708943016,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 183874,
@@ -50017,6 +50065,14 @@
       "onboard_time": 1707704729,
       "rank": 29,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 174327,
+      "num": 174327,
+      "word": "空相面灵气花合战",
+      "onboard_time": 1708943555,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 174310,
@@ -53419,6 +53475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161438,
+      "num": 161438,
+      "word": "TES对战FPX",
+      "onboard_time": 1708942534,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161433,
       "num": 161433,
       "word": "双北对话梦回明侦",
@@ -54235,14 +54299,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 158173,
-      "num": 158173,
-      "word": "TES对战FPX",
-      "onboard_time": 1708942534,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 158167,
       "num": 158167,
       "word": "凌晨2点的哈尔滨什么样",
@@ -54513,6 +54569,14 @@
       "onboard_time": 1708398094,
       "rank": 41,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 157309,
+      "num": 157309,
+      "word": "小米汽车最早二季度交付",
+      "onboard_time": 1708943372,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 157229,
@@ -55641,14 +55705,6 @@
       "onboard_time": 1708770573,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152336,
-      "num": 152336,
-      "word": "淘特逐步并回淘宝",
-      "onboard_time": 1708940256,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 152317,
@@ -58595,6 +58651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140999,
+      "num": 140999,
+      "word": "再慢一秒就变成流浪猫了",
+      "onboard_time": 1708943494,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140990,
       "num": 140990,
       "word": "亲戚越来越少",
@@ -59825,6 +59889,14 @@
       "onboard_time": 1707795518,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 136244,
+      "num": 136244,
+      "word": "帮邻居卖芹菜赚14元被罚10万",
+      "onboard_time": 1708943673,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136211,
