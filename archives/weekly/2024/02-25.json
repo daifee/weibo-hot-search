@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708960703314,
+  "endTime": 1708961700783,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1347729,
+      "num": 1347729,
+      "word": "布洛芬 能给卑职一个明示吗",
+      "onboard_time": 1708959878,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1335695,
       "num": 1335695,
       "word": "国乒男团vs法国男团",
@@ -385,6 +393,14 @@
       "onboard_time": 1708922196,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1302666,
+      "num": 1302666,
+      "word": "10元3副耳钉被仅退款商家千里讨公道",
+      "onboard_time": 1708958374,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1271047,
@@ -619,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 949457,
+      "num": 949457,
+      "word": "董宇辉说不讲内衣就是害羞",
+      "onboard_time": 1708957473,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 949118,
       "num": 949118,
       "word": "怎么劝退我买这件衣服",
@@ -657,22 +681,6 @@
       "onboard_time": 1708775013,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 934717,
-      "num": 493477,
-      "word": "10元3副耳钉被仅退款商家千里讨公道",
-      "onboard_time": 1708958374,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 930456,
-      "num": 930456,
-      "word": "董宇辉说不讲内衣就是害羞",
-      "onboard_time": 1708957473,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 928401,
@@ -873,14 +881,6 @@
       "onboard_time": 1708850312,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 821802,
-      "num": 492947,
-      "word": "布洛芬 能给卑职一个明示吗",
-      "onboard_time": 1708959878,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 816722,
@@ -1699,6 +1699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 506439,
+      "num": 506439,
+      "word": "一夜间AD钙奶销售增长一倍",
+      "onboard_time": 1708959633,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501704,
       "num": 501704,
       "word": "黑龙江佳木斯一高层建筑起火",
@@ -1963,6 +1971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421140,
+      "num": 421140,
+      "word": "上海招聘薪酬13261元每月居全国第一",
+      "onboard_time": 1708959755,
+      "rank": 21,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 418772,
       "num": 418772,
       "word": "考研查分通道汇总",
@@ -2217,6 +2233,14 @@
       "onboard_time": 1708920338,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 365043,
+      "num": 365043,
+      "word": "A股纪录刷新",
+      "onboard_time": 1708959755,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 364658,
@@ -2491,6 +2515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 314563,
+      "num": 295517,
+      "word": "从今天起尽量少熬夜",
+      "onboard_time": 1708960654,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 314032,
       "num": 314032,
       "word": "人体中最不怕冷的器官",
@@ -2521,14 +2553,6 @@
       "onboard_time": 1708820367,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 311319,
-      "num": 311319,
-      "word": "一夜间AD钙奶销售增长一倍",
-      "onboard_time": 1708959633,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310791,
@@ -2609,14 +2633,6 @@
       "onboard_time": 1708914330,
       "rank": 35,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 302224,
-      "num": 302224,
-      "word": "上海招聘薪酬13261元每月居全国第一",
-      "onboard_time": 1708959755,
-      "rank": 21,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 301992,
@@ -2753,14 +2769,6 @@
       "onboard_time": 1708876233,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 286866,
-      "num": 286866,
-      "word": "A股纪录刷新",
-      "onboard_time": 1708959755,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 284727,
@@ -3195,6 +3203,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 241475,
+      "num": 241475,
+      "word": "坐高铁由于好奇选了静音车厢",
+      "onboard_time": 1708959878,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240732,
       "num": 240732,
       "word": "孙颖莎定海神针",
@@ -3217,6 +3233,14 @@
       "onboard_time": 1708865014,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 239533,
+      "num": 239533,
+      "word": "雎晓雯产后首封状态",
+      "onboard_time": 1708960832,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 239406,
@@ -3611,14 +3635,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 210547,
-      "num": 210547,
-      "word": "坐高铁由于好奇选了静音车厢",
-      "onboard_time": 1708959878,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 210486,
       "num": 210486,
       "word": "周也林一 爆头姐心动哥",
@@ -3705,6 +3721,14 @@
       "onboard_time": 1708943912,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206177,
+      "num": 206177,
+      "word": "孙颖莎说自己还有无限可能",
+      "onboard_time": 1708960892,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 206154,
@@ -3961,6 +3985,14 @@
       "onboard_time": 1708828594,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195259,
+      "num": 192201,
+      "word": "腿姐 无论如何请继续相信自己",
+      "onboard_time": 1708960475,
+      "rank": 45,
+      "category": "教育,社会议题"
     },
     {
       "raw_hot": 195113,
@@ -4811,6 +4843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158553,
+      "num": 158553,
+      "word": "YOLO长沙站",
+      "onboard_time": 1708961193,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158321,
       "num": 158321,
       "word": "中国航天有望创造一项新纪录",
@@ -5299,14 +5339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130640,
-      "num": 130640,
-      "word": "腿姐 无论如何请继续相信自己",
-      "onboard_time": 1708960475,
-      "rank": 45,
-      "category": "教育,社会议题"
-    },
-    {
       "raw_hot": 130470,
       "num": 130470,
       "word": "网红杨老二已下葬",
@@ -5467,6 +5499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119385,
+      "num": 119385,
+      "word": "九尾耳麦变眼麦",
+      "onboard_time": 1708961316,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118931,
       "num": 118931,
       "word": "GUCCI拍的肖战",
@@ -5529,14 +5569,6 @@
       "onboard_time": 1708818264,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113516,
-      "num": 113516,
-      "word": "从今天起尽量少熬夜",
-      "onboard_time": 1708960654,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 112736,
@@ -5756,7 +5788,7 @@
     },
     {
       "raw_hot": 62635,
-      "num": 1164264,
+      "num": 1317853,
       "word": "数据看京津冀一核两翼新格局",
       "onboard_time": 1708956276,
       "rank": 2,

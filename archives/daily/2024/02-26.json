@@ -1,6 +1,6 @@
 {
   "startTime": 1708878084354,
-  "endTime": 1708960703314,
+  "endTime": 1708961700783,
   "band_list": [
     {
       "raw_hot": 3339786,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1347729,
+      "num": 1347729,
+      "word": "布洛芬 能给卑职一个明示吗",
+      "onboard_time": 1708959878,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1328962,
       "num": 1328962,
       "word": "林志玲林志颖是幼儿园同学",
@@ -153,6 +161,14 @@
       "onboard_time": 1708922196,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1302666,
+      "num": 1302666,
+      "word": "10元3副耳钉被仅退款商家千里讨公道",
+      "onboard_time": 1708958374,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1256175,
@@ -267,6 +283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 949457,
+      "num": 949457,
+      "word": "董宇辉说不讲内衣就是害羞",
+      "onboard_time": 1708957473,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 949118,
       "num": 949118,
       "word": "怎么劝退我买这件衣服",
@@ -289,22 +313,6 @@
       "onboard_time": 1708930478,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 934717,
-      "num": 493477,
-      "word": "10元3副耳钉被仅退款商家千里讨公道",
-      "onboard_time": 1708958374,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 930456,
-      "num": 930456,
-      "word": "董宇辉说不讲内衣就是害羞",
-      "onboard_time": 1708957473,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 918012,
@@ -393,14 +401,6 @@
       "onboard_time": 1708908514,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 821802,
-      "num": 492947,
-      "word": "布洛芬 能给卑职一个明示吗",
-      "onboard_time": 1708959878,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 815481,
@@ -843,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 506439,
+      "num": 506439,
+      "word": "一夜间AD钙奶销售增长一倍",
+      "onboard_time": 1708959633,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493900,
       "num": 493900,
       "word": "巴黎奥运会运动员村不安装空调",
@@ -953,6 +961,14 @@
       "onboard_time": 1708914815,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 421140,
+      "num": 421140,
+      "word": "上海招聘薪酬13261元每月居全国第一",
+      "onboard_time": 1708959755,
+      "rank": 21,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 419771,
@@ -1075,6 +1091,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 365043,
+      "num": 365043,
+      "word": "A股纪录刷新",
+      "onboard_time": 1708959755,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 362373,
       "num": 362373,
       "word": "章凝宣布离开VOGUE",
@@ -1187,20 +1211,20 @@
       "category": "军事,国内时政"
     },
     {
+      "raw_hot": 314563,
+      "num": 295517,
+      "word": "从今天起尽量少熬夜",
+      "onboard_time": 1708960654,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 314032,
       "num": 314032,
       "word": "人体中最不怕冷的器官",
       "onboard_time": 1708922322,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 311319,
-      "num": 311319,
-      "word": "一夜间AD钙奶销售增长一倍",
-      "onboard_time": 1708959633,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 310791,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1708914330,
       "rank": 35,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 302224,
-      "num": 302224,
-      "word": "上海招聘薪酬13261元每月居全国第一",
-      "onboard_time": 1708959755,
-      "rank": 21,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 301992,
@@ -1329,14 +1345,6 @@
       "onboard_time": 1708876233,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 286866,
-      "num": 286866,
-      "word": "A股纪录刷新",
-      "onboard_time": 1708959755,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 283542,
@@ -1539,12 +1547,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 241475,
+      "num": 241475,
+      "word": "坐高铁由于好奇选了静音车厢",
+      "onboard_time": 1708959878,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 239987,
       "num": 239987,
       "word": "猫咪为什么叫猫咪",
       "onboard_time": 1708920217,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 239533,
+      "num": 239533,
+      "word": "雎晓雯产后首封状态",
+      "onboard_time": 1708960832,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 238081,
@@ -1755,14 +1779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210547,
-      "num": 210547,
-      "word": "坐高铁由于好奇选了静音车厢",
-      "onboard_time": 1708959878,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 210117,
       "num": 210117,
       "word": "猫咪总是口臭查出幽门螺杆菌",
@@ -1809,6 +1825,14 @@
       "onboard_time": 1708943912,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206177,
+      "num": 206177,
+      "word": "孙颖莎说自己还有无限可能",
+      "onboard_time": 1708960892,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 205478,
@@ -1921,6 +1945,14 @@
       "onboard_time": 1708923039,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195259,
+      "num": 192201,
+      "word": "腿姐 无论如何请继续相信自己",
+      "onboard_time": 1708960475,
+      "rank": 45,
+      "category": "教育,社会议题"
     },
     {
       "raw_hot": 195113,
@@ -2347,6 +2379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158553,
+      "num": 158553,
+      "word": "YOLO长沙站",
+      "onboard_time": 1708961193,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158321,
       "num": 158321,
       "word": "中国航天有望创造一项新纪录",
@@ -2587,14 +2627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130640,
-      "num": 130640,
-      "word": "腿姐 无论如何请继续相信自己",
-      "onboard_time": 1708960475,
-      "rank": 45,
-      "category": "教育,社会议题"
-    },
-    {
       "raw_hot": 130556,
       "num": 130556,
       "word": "南来北往编剧",
@@ -2691,6 +2723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119385,
+      "num": 119385,
+      "word": "九尾耳麦变眼麦",
+      "onboard_time": 1708961316,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118931,
       "num": 118931,
       "word": "GUCCI拍的肖战",
@@ -2737,14 +2777,6 @@
       "onboard_time": 1708878565,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 113516,
-      "num": 113516,
-      "word": "从今天起尽量少熬夜",
-      "onboard_time": 1708960654,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 112795,
@@ -2924,7 +2956,7 @@
     },
     {
       "raw_hot": 62635,
-      "num": 1164264,
+      "num": 1317853,
       "word": "数据看京津冀一核两翼新格局",
       "onboard_time": 1708956276,
       "rank": 2,
