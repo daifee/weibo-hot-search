@@ -1,0 +1,410 @@
+{
+  "runTime": 1708953531609,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1464007,
+        "num": 1464007,
+        "word": "董宇辉三拒讲解内衣内裤",
+        "onboard_time": 1708947691,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2338086,
+        "num": 1267775,
+        "word": "民警被实名举报强暴未成年女孩",
+        "onboard_time": 1708948353,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42907,
+        "num": 1064468,
+        "word": "京津冀十年同心向未来",
+        "onboard_time": 1708948112,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1048934,
+        "num": 1048934,
+        "word": "杨幂穿高定打游戏",
+        "onboard_time": 1708950035,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 794351,
+        "num": 794351,
+        "word": "年轻人为啥总穿丑衣服上班",
+        "onboard_time": 1708949372,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 727273,
+        "num": 727273,
+        "word": "李湘晒王诗龄送的礼物",
+        "onboard_time": 1708944091,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 519034,
+        "num": 519034,
+        "word": "王鹤棣录制全员加速中",
+        "onboard_time": 1708951831,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512579,
+        "num": 512579,
+        "word": "掌心 刘诗诗窦骁",
+        "onboard_time": 1708948412,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 487192,
+        "num": 487192,
+        "word": "暨南大学 谁查到了",
+        "onboard_time": 1708941632,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187007,
+        "num": 450224,
+        "word": "巴勒斯坦政府宣布辞职",
+        "onboard_time": 1708937016,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 973768,
+        "num": 448706,
+        "word": "六层楼 受精卵的形成过程",
+        "onboard_time": 1708950633,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 805742,
+        "num": 444238,
+        "word": "清华大学澄清停招土木工程专业",
+        "onboard_time": 1708952014,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 438926,
+        "num": 438926,
+        "word": "苹果公司警告手机进水别插米里",
+        "onboard_time": 1708941094,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 434910,
+        "num": 434910,
+        "word": "刘亦菲晒阿布扎比随拍",
+        "onboard_time": 1708947691,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425295,
+        "num": 425295,
+        "word": "为什么饮料瓶底都是五瓣花的形状",
+        "onboard_time": 1708949674,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 387254,
+        "num": 387254,
+        "word": "带状疱疹是最疼的皮肤病之一",
+        "onboard_time": 1708945113,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 362241,
+        "num": 362241,
+        "word": "帮邻居卖芹菜赚14元被罚10万",
+        "onboard_time": 1708943673,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359637,
+        "num": 359637,
+        "word": "妈妈出家了",
+        "onboard_time": 1708947331,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349267,
+        "num": 349267,
+        "word": "魏大勋毛不易郭麒麟新综艺路透",
+        "onboard_time": 1708948714,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341809,
+        "num": 341809,
+        "word": "姚安娜吃鸡式演技",
+        "onboard_time": 1708952856,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425702,
+        "num": 319255,
+        "word": "经常熬夜的人脸有多垮",
+        "onboard_time": 1708950035,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 287786,
+        "num": 287786,
+        "word": "医生称春节期间肛裂病人增多",
+        "onboard_time": 1708923879,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 227338,
+        "num": 227338,
+        "word": "考研国家线",
+        "onboard_time": 1708910913,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216787,
+        "num": 216787,
+        "word": "男生在机场查到考研408分激动大喊",
+        "onboard_time": 1708938753,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210117,
+        "num": 210117,
+        "word": "猫咪总是口臭查出幽门螺杆菌",
+        "onboard_time": 1708950212,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195113,
+        "num": 195113,
+        "word": "杨幂叫九尾许哥",
+        "onboard_time": 1708951111,
+        "rank": 25,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 190990,
+        "num": 190990,
+        "word": "猎冰张颂文演技",
+        "onboard_time": 1708951654,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189056,
+        "num": 189056,
+        "word": "怎么劝退我买这件衣服",
+        "onboard_time": 1708943016,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182222,
+        "num": 182222,
+        "word": "男生坦然面对考研失败为自己买单",
+        "onboard_time": 1708951051,
+        "rank": 28,
+        "category": "教育,情感"
+      },
+      {
+        "raw_hot": 175801,
+        "num": 175801,
+        "word": "哪些人容易得美女病",
+        "onboard_time": 1708948714,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175182,
+        "num": 175182,
+        "word": "国考高分样卷",
+        "onboard_time": 1708949613,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170571,
+        "num": 170571,
+        "word": "考研成绩",
+        "onboard_time": 1708910736,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163650,
+        "num": 163650,
+        "word": "想让退休的妈妈去工作",
+        "onboard_time": 1708949975,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157219,
+        "num": 157219,
+        "word": "林志玲林志颖是幼儿园同学",
+        "onboard_time": 1708935036,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156713,
+        "num": 156713,
+        "word": "三个月喝了近一千块的奶茶",
+        "onboard_time": 1708916432,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149743,
+        "num": 149743,
+        "word": "郭涛儿子石头17岁近照",
+        "onboard_time": 1708930478,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140968,
+        "num": 140968,
+        "word": "杨幂周深中路切磋",
+        "onboard_time": 1708948890,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140253,
+        "num": 140253,
+        "word": "金晨终于又跳舞了",
+        "onboard_time": 1708942774,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136726,
+        "num": 136726,
+        "word": "猫 我一下子就下去了",
+        "onboard_time": 1708950275,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126034,
+        "num": 126034,
+        "word": "黄子弘凡唱张远没有女朋友",
+        "onboard_time": 1708953394,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123906,
+        "num": 123906,
+        "word": "孙颖莎安慰王艺迪",
+        "onboard_time": 1708949552,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122636,
+        "num": 122636,
+        "word": "TES被偷家",
+        "onboard_time": 1708948170,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118983,
+        "num": 118983,
+        "word": "日本核污水排放入海已满半年",
+        "onboard_time": 1708941817,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 118755,
+        "num": 118755,
+        "word": "小徐回应考研上岸",
+        "onboard_time": 1708936653,
+        "rank": 43,
+        "category": "教育,网红"
+      },
+      {
+        "raw_hot": 115706,
+        "num": 115706,
+        "word": "王者荣耀全明星赛直播",
+        "onboard_time": 1708950571,
+        "rank": 44,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 115649,
+        "num": 115649,
+        "word": "六盘水",
+        "onboard_time": 1708941632,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110603,
+        "num": 110603,
+        "word": "小土豆的新年红包",
+        "onboard_time": 1708953156,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 104236,
+        "num": 104236,
+        "word": "肖战评价自己看秀穿搭",
+        "onboard_time": 1708939296,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 104208,
+        "num": 104208,
+        "word": "陈自瑶被问与王浩信情人节安排",
+        "onboard_time": 1708947753,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103490,
+        "num": 103490,
+        "word": "烟火人家亲家变仇家",
+        "onboard_time": 1708953453,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设雄安新区需要各类企业共同参与#"
+    }
+  }
+}

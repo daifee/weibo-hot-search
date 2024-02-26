@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708951531827,
+  "endTime": 1708953531609,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2338086,
+      "num": 2264884,
+      "word": "民警被实名举报强暴未成年女孩",
+      "onboard_time": 1708948353,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2324630,
       "num": 2324630,
       "word": "杭州交警回应网传宾利车主伤人视频",
@@ -104,14 +112,6 @@
       "word": "与女主播发生关系住持已被注销戒牒",
       "onboard_time": 1708853436,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2264884,
-      "num": 2264884,
-      "word": "民警被实名举报强暴未成年女孩",
-      "onboard_time": 1708948353,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -507,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1048934,
+      "num": 1048934,
+      "word": "杨幂穿高定打游戏",
+      "onboard_time": 1708950035,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1026142,
       "num": 777714,
       "word": "娃哈哈纯净水为什么是596ml",
@@ -560,6 +568,14 @@
       "word": "医生称春节期间肛裂病人增多",
       "onboard_time": 1708923879,
       "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 973768,
+      "num": 448706,
+      "word": "六层楼 受精卵的形成过程",
+      "onboard_time": 1708950633,
+      "rank": 47,
       "category": "健康医疗"
     },
     {
@@ -827,12 +843,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 799627,
-      "num": 799627,
-      "word": "杨幂穿高定打游戏",
-      "onboard_time": 1708950035,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 805742,
+      "num": 444238,
+      "word": "清华大学澄清停招土木工程专业",
+      "onboard_time": 1708952014,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 794351,
+      "num": 794351,
+      "word": "年轻人为啥总穿丑衣服上班",
+      "onboard_time": 1708949372,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 792450,
@@ -1427,14 +1451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 554120,
-      "num": 554120,
-      "word": "年轻人为啥总穿丑衣服上班",
-      "onboard_time": 1708949372,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 551493,
       "num": 551493,
       "word": "A股超3600只个股上涨",
@@ -1513,6 +1529,14 @@
       "onboard_time": 1708947331,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 519034,
+      "num": 519034,
+      "word": "王鹤棣录制全员加速中",
+      "onboard_time": 1708951831,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 518566,
@@ -1787,6 +1811,22 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 425702,
+      "num": 319255,
+      "word": "经常熬夜的人脸有多垮",
+      "onboard_time": 1708950035,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 425295,
+      "num": 425295,
+      "word": "为什么饮料瓶底都是五瓣花的形状",
+      "onboard_time": 1708949674,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 424841,
       "num": 424841,
       "word": "迪丽热巴昆明",
@@ -1995,28 +2035,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 388576,
-      "num": 172306,
-      "word": "六层楼 受精卵的形成过程",
-      "onboard_time": 1708950633,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 387720,
       "num": 387720,
       "word": "林一周也 豪门情侣感",
       "onboard_time": 1708855117,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 386807,
-      "num": 274920,
-      "word": "经常熬夜的人脸有多垮",
-      "onboard_time": 1708950035,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 385643,
@@ -2232,6 +2256,14 @@
       "word": "成毅李一桐虐戏路透",
       "onboard_time": 1708857631,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 341809,
+      "num": 341809,
+      "word": "姚安娜吃鸡式演技",
+      "onboard_time": 1708952856,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -2745,14 +2777,6 @@
       "onboard_time": 1708871315,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 272218,
-      "num": 272218,
-      "word": "为什么饮料瓶底都是五瓣花的形状",
-      "onboard_time": 1708949674,
-      "rank": 31,
-      "category": "科学科普"
     },
     {
       "raw_hot": 270553,
@@ -3380,7 +3404,7 @@
     },
     {
       "raw_hot": 215932,
-      "num": 171820,
+      "num": 175182,
       "word": "国考高分样卷",
       "onboard_time": 1708949613,
       "rank": 30,
@@ -3449,6 +3473,14 @@
       "onboard_time": 1708835982,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210117,
+      "num": 210117,
+      "word": "猫咪总是口臭查出幽门螺杆菌",
+      "onboard_time": 1708950212,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 209762,
@@ -3603,14 +3635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201529,
-      "num": 201529,
-      "word": "猫咪总是口臭查出幽门螺杆菌",
-      "onboard_time": 1708950212,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 200848,
       "num": 200848,
       "word": "金书贤金牌",
@@ -3763,6 +3787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195113,
+      "num": 195113,
+      "word": "杨幂叫九尾许哥",
+      "onboard_time": 1708951111,
+      "rank": 36,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 195072,
       "num": 195072,
       "word": "娃哈哈创始人宗庆后生前经典发言",
@@ -3833,6 +3865,14 @@
       "onboard_time": 1708915533,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 190990,
+      "num": 190990,
+      "word": "猎冰张颂文演技",
+      "onboard_time": 1708951654,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 190811,
@@ -4091,6 +4131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182222,
+      "num": 182222,
+      "word": "男生坦然面对考研失败为自己买单",
+      "onboard_time": 1708951051,
+      "rank": 26,
+      "category": "教育,情感"
+    },
+    {
       "raw_hot": 180757,
       "num": 180757,
       "word": "梁家辉叶童 教科书演技",
@@ -4129,14 +4177,6 @@
       "onboard_time": 1708828295,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179426,
-      "num": 179426,
-      "word": "男生坦然面对考研失败为自己买单",
-      "onboard_time": 1708951051,
-      "rank": 26,
-      "category": "教育,情感"
     },
     {
       "raw_hot": 178931,
@@ -4569,14 +4609,6 @@
       "onboard_time": 1708906771,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 156797,
-      "num": 156797,
-      "word": "杨幂叫九尾许哥",
-      "onboard_time": 1708951111,
-      "rank": 36,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 156386,
@@ -5059,6 +5091,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126034,
+      "num": 126034,
+      "word": "黄子弘凡唱张远没有女朋友",
+      "onboard_time": 1708953394,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125732,
       "num": 125732,
       "word": "严浩翔盯镜头",
@@ -5251,6 +5291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110603,
+      "num": 110603,
+      "word": "小土豆的新年红包",
+      "onboard_time": 1708953156,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 106492,
       "num": 106492,
       "word": "等年后再说 现在真到年后了",
@@ -5265,6 +5313,14 @@
       "onboard_time": 1708927894,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 103490,
+      "num": 103490,
+      "word": "烟火人家亲家变仇家",
+      "onboard_time": 1708953453,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 100200,
