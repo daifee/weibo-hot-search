@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708961700783,
+  "endTime": 1708964501350,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -1555,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 552197,
+      "num": 552197,
+      "word": "一夜间AD钙奶销售增长一倍",
+      "onboard_time": 1708959633,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551493,
       "num": 551493,
       "word": "A股超3600只个股上涨",
@@ -1697,14 +1705,6 @@
       "onboard_time": 1708844255,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 506439,
-      "num": 506439,
-      "word": "一夜间AD钙奶销售增长一倍",
-      "onboard_time": 1708959633,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 501704,
@@ -1923,6 +1923,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 426168,
+      "num": 295517,
+      "word": "从今天起尽量少熬夜",
+      "onboard_time": 1708960654,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 424841,
       "num": 424841,
       "word": "迪丽热巴昆明",
@@ -1977,6 +1985,14 @@
       "onboard_time": 1708959755,
       "rank": 21,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 420186,
+      "num": 420186,
+      "word": "坐高铁由于好奇选了静音车厢",
+      "onboard_time": 1708959878,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 418772,
@@ -2513,14 +2529,6 @@
       "onboard_time": 1708844734,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 314563,
-      "num": 295517,
-      "word": "从今天起尽量少熬夜",
-      "onboard_time": 1708960654,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 314032,
@@ -3203,14 +3211,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 241475,
-      "num": 241475,
-      "word": "坐高铁由于好奇选了静音车厢",
-      "onboard_time": 1708959878,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 240732,
       "num": 240732,
       "word": "孙颖莎定海神针",
@@ -3265,6 +3265,14 @@
       "onboard_time": 1708870475,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 238615,
+      "num": 187706,
+      "word": "宋茜搬新家了",
+      "onboard_time": 1708962870,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 238081,
@@ -3609,6 +3617,14 @@
       "onboard_time": 1708916974,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212989,
+      "num": 212989,
+      "word": "大连一工程发生坍塌事故致4死",
+      "onboard_time": 1708963052,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211875,
@@ -4179,6 +4195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188491,
+      "num": 188491,
+      "word": "中传考研",
+      "onboard_time": 1708960177,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 188474,
       "num": 188474,
       "word": "打电竞的周深",
@@ -4491,6 +4515,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 174774,
+      "num": 174774,
+      "word": "腰窝附近疼痛真不能怪腰",
+      "onboard_time": 1708962152,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174736,
       "num": 174736,
       "word": "表演学博士评无限超越班",
@@ -4545,6 +4577,14 @@
       "onboard_time": 1708940674,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172708,
+      "num": 172708,
+      "word": "你晚上几点休息",
+      "onboard_time": 1708963590,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 172459,
@@ -4817,14 +4857,6 @@
       "onboard_time": 1708828716,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159842,
-      "num": 159842,
-      "word": "中传考研",
-      "onboard_time": 1708960177,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 159777,
@@ -5137,6 +5169,14 @@
       "onboard_time": 1708925855,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 141848,
+      "num": 141848,
+      "word": "迪丽热巴滇味应援牌设计师回应",
+      "onboard_time": 1708964248,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 140999,
@@ -5515,6 +5555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118506,
+      "num": 118506,
+      "word": "俄乌局势新进展",
+      "onboard_time": 1708961734,
+      "rank": 35,
+      "category": "军事,国外时政"
+    },
+    {
       "raw_hot": 118280,
       "num": 118280,
       "word": "跟好朋友见面讲坏话",
@@ -5721,6 +5769,14 @@
       "onboard_time": 1708899858,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76471,
+      "num": 76471,
+      "word": "不撞南墙 推翻南墙",
+      "onboard_time": 1708962811,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 73500,
