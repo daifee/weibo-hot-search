@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708932933459,
+  "endTime": 1708935672484,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -515,6 +515,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 947004,
+      "num": 947004,
+      "word": "为什么快递名都要写假名字",
+      "onboard_time": 1708930175,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 945673,
+      "num": 945673,
+      "word": "郭涛儿子石头17岁近照",
+      "onboard_time": 1708930478,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 942421,
       "num": 942421,
       "word": "中国男篮惜败日本男篮",
@@ -545,14 +561,6 @@
       "onboard_time": 1708836821,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 922633,
-      "num": 922633,
-      "word": "郭涛儿子石头17岁近照",
-      "onboard_time": 1708930478,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 897801,
@@ -907,6 +915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 682340,
+      "num": 497091,
+      "word": "林志玲林志颖是幼儿园同学",
+      "onboard_time": 1708935036,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 679983,
       "num": 679983,
       "word": "单身女老师深陷杀猪盘被骗近400万",
@@ -1243,19 +1259,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 551493,
+      "num": 551493,
+      "word": "A股超3600只个股上涨",
+      "onboard_time": 1708932817,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 548943,
       "num": 359555,
       "word": "吃水果其实是件挺私密的事",
       "onboard_time": 1708853069,
       "rank": 20,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 547988,
-      "num": 547988,
-      "word": "为什么快递名都要写假名字",
-      "onboard_time": 1708930175,
-      "rank": 16,
       "category": "幽默"
     },
     {
@@ -1313,6 +1329,14 @@
       "onboard_time": 1708847371,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 515797,
+      "num": 487477,
+      "word": "向佐郭碧婷约会照",
+      "onboard_time": 1708933654,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 514722,
@@ -2443,6 +2467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264308,
+      "num": 172622,
+      "word": "邱贻可 球不落地永不放弃",
+      "onboard_time": 1708934318,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263450,
       "num": 245105,
       "word": "猫咪在床上跑酷被主人叫名字",
@@ -2731,6 +2763,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 237620,
+      "num": 237620,
+      "word": "男子听老婆话挪车成功躲过一劫",
+      "onboard_time": 1708933776,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235961,
       "num": 235961,
       "word": "原来医者真的不能自医啊",
@@ -2801,6 +2841,14 @@
       "onboard_time": 1708920757,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 230639,
+      "num": 230639,
+      "word": "邓为热血高校风",
+      "onboard_time": 1708935215,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 230138,
@@ -3651,6 +3699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177736,
+      "num": 177736,
+      "word": "数码宝贝 男神太一",
+      "onboard_time": 1708934975,
+      "rank": 29,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 176148,
       "num": 176148,
       "word": "黄旭熙曾羡慕队友没工作",
@@ -3891,6 +3947,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 161180,
+      "num": 161180,
+      "word": "山东考研成绩",
+      "onboard_time": 1708933414,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 160154,
       "num": 150707,
       "word": "面试判官吴镇宇",
@@ -3955,6 +4019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156225,
+      "num": 156225,
+      "word": "电竞小说女主杨幂又来了",
+      "onboard_time": 1708935156,
+      "rank": 33,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 155514,
       "num": 155514,
       "word": "赵丽娜发文回应质疑",
@@ -3969,14 +4041,6 @@
       "onboard_time": 1708789713,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154430,
-      "num": 154430,
-      "word": "A股超3600只个股上涨",
-      "onboard_time": 1708932817,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 154366,
@@ -4001,6 +4065,14 @@
       "onboard_time": 1708829674,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 152804,
+      "num": 152804,
+      "word": "伯远努力努力白努力",
+      "onboard_time": 1708934975,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 152223,
@@ -4041,6 +4113,14 @@
       "onboard_time": 1708819164,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 149095,
+      "num": 149095,
+      "word": "论收件人名称可以有多离谱",
+      "onboard_time": 1708934376,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 147702,
@@ -4121,6 +4201,14 @@
       "onboard_time": 1708913011,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 140106,
+      "num": 140106,
+      "word": "中国航天有望创造一项新纪录",
+      "onboard_time": 1708935336,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 139673,
@@ -4403,6 +4491,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120411,
+      "num": 120411,
+      "word": "Tian获得周MVP",
+      "onboard_time": 1708934735,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 119548,
+      "num": 119548,
+      "word": "当代年轻人都是这样省钱的",
+      "onboard_time": 1708934318,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118931,
       "num": 118931,
       "word": "GUCCI拍的肖战",
@@ -4417,6 +4521,14 @@
       "onboard_time": 1708849351,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117932,
+      "num": 117932,
+      "word": "A股",
+      "onboard_time": 1708935575,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 115232,

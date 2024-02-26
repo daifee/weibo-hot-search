@@ -1,0 +1,410 @@
+{
+  "runTime": 1708935672484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1809403,
+        "num": 1809403,
+        "word": "小徐上岸",
+        "onboard_time": 1708927233,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1153255,
+        "num": 1153255,
+        "word": "考研成绩",
+        "onboard_time": 1708910736,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 37204,
+        "num": 973818,
+        "word": "龙年一起向更高的目标进发",
+        "onboard_time": 1708922860,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947004,
+        "num": 947004,
+        "word": "为什么快递名都要写假名字",
+        "onboard_time": 1708930175,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 945673,
+        "num": 945673,
+        "word": "郭涛儿子石头17岁近照",
+        "onboard_time": 1708930478,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628958,
+        "num": 628958,
+        "word": "考研国家线",
+        "onboard_time": 1708910913,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 553478,
+        "num": 553478,
+        "word": "娃哈哈纯净水为什么是596ml",
+        "onboard_time": 1708925676,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551493,
+        "num": 551493,
+        "word": "A股超3600只个股上涨",
+        "onboard_time": 1708932817,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 540252,
+        "num": 540252,
+        "word": "三个月喝了近一千块的奶茶",
+        "onboard_time": 1708916432,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 498295,
+        "num": 498295,
+        "word": "韩国超一万名实习和住院医生辞职",
+        "onboard_time": 1708928318,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682340,
+        "num": 497091,
+        "word": "林志玲林志颖是幼儿园同学",
+        "onboard_time": 1708935036,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515797,
+        "num": 487477,
+        "word": "向佐郭碧婷约会照",
+        "onboard_time": 1708933654,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453541,
+        "num": 453541,
+        "word": "人体不会癌变的器官",
+        "onboard_time": 1708916495,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 381612,
+        "num": 381612,
+        "word": "爸爸每周给29岁女儿备好一周饭菜",
+        "onboard_time": 1708923277,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369425,
+        "num": 369425,
+        "word": "周深把杨幂的英雄池摸透了",
+        "onboard_time": 1708928793,
+        "rank": 14,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 328267,
+        "num": 328267,
+        "word": "在县城相亲189次我凑合结婚了",
+        "onboard_time": 1708921536,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286325,
+        "num": 286325,
+        "word": "王楚钦说有你们没在怕",
+        "onboard_time": 1708930118,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280789,
+        "num": 280789,
+        "word": "汪峰女儿小苹果近照",
+        "onboard_time": 1708931316,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248005,
+        "num": 248005,
+        "word": "鹿晗实体专辑",
+        "onboard_time": 1708925317,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242719,
+        "num": 242719,
+        "word": "潘粤明 谁说我退圈了我只是胖了",
+        "onboard_time": 1708922196,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 748070,
+        "num": 240575,
+        "word": "医生称春节期间肛裂病人增多",
+        "onboard_time": 1708923879,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 237620,
+        "num": 237620,
+        "word": "男子听老婆话挪车成功躲过一劫",
+        "onboard_time": 1708933776,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237517,
+        "num": 237517,
+        "word": "弟弟从没提过他的朋友坐轮椅",
+        "onboard_time": 1708927835,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230639,
+        "num": 230639,
+        "word": "邓为热血高校风",
+        "onboard_time": 1708935215,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224380,
+        "num": 224380,
+        "word": "考研调剂",
+        "onboard_time": 1708931020,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216113,
+        "num": 216113,
+        "word": "王安宇登门拜访姐夫了吗",
+        "onboard_time": 1708925738,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206799,
+        "num": 206799,
+        "word": "何炅长发狼尾",
+        "onboard_time": 1708926275,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198781,
+        "num": 198781,
+        "word": "王曼昱",
+        "onboard_time": 1708927355,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197736,
+        "num": 197736,
+        "word": "妈妈喜欢把洗碗布放水龙头上",
+        "onboard_time": 1708915414,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177736,
+        "num": 177736,
+        "word": "数码宝贝 男神太一",
+        "onboard_time": 1708934975,
+        "rank": 29,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 264308,
+        "num": 172622,
+        "word": "邱贻可 球不落地永不放弃",
+        "onboard_time": 1708934318,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167394,
+        "num": 167394,
+        "word": "会敲门的父母养不出锁门的孩子",
+        "onboard_time": 1708928916,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161180,
+        "num": 161180,
+        "word": "山东考研成绩",
+        "onboard_time": 1708933414,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156225,
+        "num": 156225,
+        "word": "电竞小说女主杨幂又来了",
+        "onboard_time": 1708935156,
+        "rank": 33,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 153189,
+        "num": 153189,
+        "word": "让你的脸变丑的习惯",
+        "onboard_time": 1708928616,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 152804,
+        "num": 152804,
+        "word": "伯远努力努力白努力",
+        "onboard_time": 1708934975,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151972,
+        "num": 151972,
+        "word": "高叶收到范丞丞送的海鲜",
+        "onboard_time": 1708931316,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151177,
+        "num": 151177,
+        "word": "北斗七行衍生综艺开录",
+        "onboard_time": 1708928436,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149857,
+        "num": 149857,
+        "word": "赵丽颖露肩了",
+        "onboard_time": 1708919077,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149095,
+        "num": 149095,
+        "word": "论收件人名称可以有多离谱",
+        "onboard_time": 1708934376,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140106,
+        "num": 140106,
+        "word": "中国航天有望创造一项新纪录",
+        "onboard_time": 1708935336,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137455,
+        "num": 137455,
+        "word": "古天乐否认与宣萱结婚生子",
+        "onboard_time": 1708919981,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137047,
+        "num": 137047,
+        "word": "年轻人开始整顿家庭伦理观",
+        "onboard_time": 1708929875,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127918,
+        "num": 127918,
+        "word": "王俊凯黑色深V",
+        "onboard_time": 1708931258,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 120562,
+        "num": 120562,
+        "word": "室友是我见过运气最好的人",
+        "onboard_time": 1708928916,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120411,
+        "num": 120411,
+        "word": "Tian获得周MVP",
+        "onboard_time": 1708934735,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120081,
+        "num": 120081,
+        "word": "英语一",
+        "onboard_time": 1708920338,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119548,
+        "num": 119548,
+        "word": "当代年轻人都是这样省钱的",
+        "onboard_time": 1708934318,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117932,
+        "num": 117932,
+        "word": "A股",
+        "onboard_time": 1708935575,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112666,
+        "num": 112666,
+        "word": "宇多田光香港演唱会",
+        "onboard_time": 1708932875,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设雄安新区需要各类企业共同参与#"
+    }
+  }
+}
