@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708968843980,
+  "endTime": 1708971669153,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -5811,6 +5811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70403,
+      "num": 70403,
+      "word": "黄旭熙说现在该向前走了",
+      "onboard_time": 1708969699,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70337,
       "num": 413559,
       "word": "欧洲车展新宠是中国新能源",
@@ -6043,10 +6051,34 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 20531,
+      "num": 20531,
+      "word": "巴黎时装周",
+      "onboard_time": 1708971438,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 19007,
+      "num": 19882,
+      "word": "金珉奎巴黎时装周",
+      "onboard_time": 1708971618,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 16505,
       "num": 1379014,
       "word": "元宵节花灯大比拼",
       "onboard_time": 1708743152,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16105,
+      "num": 169026,
+      "word": "世界最长海底高铁隧道",
+      "onboard_time": 1708956093,
       "rank": 2,
       "category": "社会新闻"
     },

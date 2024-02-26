@@ -1,0 +1,410 @@
+{
+  "runTime": 1708971669153,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 486434,
+        "num": 486434,
+        "word": "经常熬夜的人脸有多垮",
+        "onboard_time": 1708950035,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186371,
+        "num": 186371,
+        "word": "布洛芬 能给卑职一个明示吗",
+        "onboard_time": 1708959878,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16105,
+        "num": 169026,
+        "word": "世界最长海底高铁隧道",
+        "onboard_time": 1708956093,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155297,
+        "num": 155297,
+        "word": "10元3副耳钉被仅退款商家千里讨公道",
+        "onboard_time": 1708958374,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118458,
+        "num": 118458,
+        "word": "坐高铁由于好奇选了静音车厢",
+        "onboard_time": 1708959878,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116586,
+        "num": 116586,
+        "word": "董宇辉说不讲内衣就是害羞",
+        "onboard_time": 1708957473,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116354,
+        "num": 116354,
+        "word": "姚安娜吃鸡式演技",
+        "onboard_time": 1708952856,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113472,
+        "num": 113472,
+        "word": "大爷将30万存款忘在银行20年",
+        "onboard_time": 1708953994,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108336,
+        "num": 108336,
+        "word": "为什么大家不爱买黑色贴身衣物",
+        "onboard_time": 1708958135,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 98059,
+        "num": 98059,
+        "word": "前夫哥过得不好比什么都重要",
+        "onboard_time": 1708958499,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105288,
+        "num": 93768,
+        "word": "徐冬冬说跑龙套赚的钱够养自己",
+        "onboard_time": 1708966702,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71674,
+        "num": 71674,
+        "word": "你晚上几点休息",
+        "onboard_time": 1708963590,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70403,
+        "num": 70403,
+        "word": "黄旭熙说现在该向前走了",
+        "onboard_time": 1708969699,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68995,
+        "num": 68995,
+        "word": "上海招聘薪酬13261元每月居全国第一",
+        "onboard_time": 1708959755,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 67547,
+        "num": 67547,
+        "word": "李湘晒王诗龄送的礼物",
+        "onboard_time": 1708944091,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67114,
+        "num": 67114,
+        "word": "女孩说外公外婆退休后每个月收到娃哈哈补贴",
+        "onboard_time": 1708955254,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63629,
+        "num": 63629,
+        "word": "董宇辉三拒讲解内衣内裤",
+        "onboard_time": 1708947691,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 57056,
+        "num": 57056,
+        "word": "全员加速中",
+        "onboard_time": 1708955375,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49247,
+        "num": 49247,
+        "word": "一夜间AD钙奶销售增长一倍",
+        "onboard_time": 1708959633,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48791,
+        "num": 48791,
+        "word": "大连一工程发生坍塌事故致4死",
+        "onboard_time": 1708963052,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79775,
+        "num": 46554,
+        "word": "从今天起尽量少熬夜",
+        "onboard_time": 1708960654,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55987,
+        "num": 46424,
+        "word": "把公司群名改成了穷酸公司迟早倒闭",
+        "onboard_time": 1708953815,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43761,
+        "num": 43761,
+        "word": "腰窝附近疼痛真不能怪腰",
+        "onboard_time": 1708962152,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40182,
+        "num": 40182,
+        "word": "医生称春节期间肛裂病人增多",
+        "onboard_time": 1708923879,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 39094,
+        "num": 39094,
+        "word": "杨幂穿高定打游戏",
+        "onboard_time": 1708950035,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39074,
+        "num": 39074,
+        "word": "毛不易穿洞洞鞋爬长白山",
+        "onboard_time": 1708965144,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37782,
+        "num": 37782,
+        "word": "宋茜搬新家了",
+        "onboard_time": 1708962870,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35760,
+        "num": 35760,
+        "word": "七海建人 你认错老公了",
+        "onboard_time": 1708958433,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 34865,
+        "num": 34865,
+        "word": "A股纪录刷新",
+        "onboard_time": 1708959755,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 34601,
+        "num": 34601,
+        "word": "掌心 刘诗诗窦骁",
+        "onboard_time": 1708948412,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34584,
+        "num": 34584,
+        "word": "猎冰张颂文演技",
+        "onboard_time": 1708951654,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33897,
+        "num": 33897,
+        "word": "杨幂能不能当我老板",
+        "onboard_time": 1708965686,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33269,
+        "num": 33269,
+        "word": "迪丽热巴滇味应援牌设计师回应",
+        "onboard_time": 1708964248,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32665,
+        "num": 32665,
+        "word": "中方回应乌议员宣称愿协助美与中国等作战",
+        "onboard_time": 1708956997,
+        "rank": 33,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 32555,
+        "num": 32555,
+        "word": "苹果公司警告手机进水别插米里",
+        "onboard_time": 1708941094,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29734,
+        "num": 29734,
+        "word": "帮邻居卖芹菜赚14元被罚10万",
+        "onboard_time": 1708943673,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27755,
+        "num": 27755,
+        "word": "暨南大学 谁查到了",
+        "onboard_time": 1708941632,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 27312,
+        "num": 27312,
+        "word": "为什么饮料瓶底都是五瓣花的形状",
+        "onboard_time": 1708949674,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 26119,
+        "num": 26119,
+        "word": "李庚希晒高叶送的仙兔灯",
+        "onboard_time": 1708966642,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25177,
+        "num": 25177,
+        "word": "九尾狐原型可能是星星",
+        "onboard_time": 1708958915,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 23976,
+        "num": 23976,
+        "word": "俄乌局势新进展",
+        "onboard_time": 1708961734,
+        "rank": 40,
+        "category": "军事,国外时政"
+      },
+      {
+        "raw_hot": 23864,
+        "num": 23864,
+        "word": "六层楼 受精卵的形成过程",
+        "onboard_time": 1708950633,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22617,
+        "num": 22617,
+        "word": "清华大学澄清停招土木工程专业",
+        "onboard_time": 1708952014,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 22502,
+        "num": 22502,
+        "word": "刘亦菲晒阿布扎比随拍",
+        "onboard_time": 1708947691,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21410,
+        "num": 21410,
+        "word": "带状疱疹是最疼的皮肤病之一",
+        "onboard_time": 1708945113,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21341,
+        "num": 21341,
+        "word": "中传考研",
+        "onboard_time": 1708960177,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 21077,
+        "num": 21077,
+        "word": "雎晓雯产后首封状态",
+        "onboard_time": 1708960832,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20531,
+        "num": 20531,
+        "word": "巴黎时装周",
+        "onboard_time": 1708971438,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 19882,
+        "num": 19882,
+        "word": "樊振东孙颖莎获国际乒联年度最佳运动员",
+        "onboard_time": 1708955554,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19007,
+        "num": 19882,
+        "word": "金珉奎巴黎时装周",
+        "onboard_time": 1708971618,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}
