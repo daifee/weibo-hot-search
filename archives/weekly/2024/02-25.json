@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708922040819,
+  "endTime": 1708924649921,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -307,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1328831,
+      "num": 1328831,
+      "word": "潘粤明 谁说我退圈了我只是胖了",
+      "onboard_time": 1708922196,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1271047,
       "num": 1271047,
       "word": "演员李影去世",
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1160706,
+      "num": 1160706,
+      "word": "房价越降越不敢买",
+      "onboard_time": 1708917457,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1159353,
       "num": 1159353,
       "word": "警方回应网传宾利车主伤人视频",
@@ -417,14 +433,6 @@
       "onboard_time": 1708838376,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1025170,
-      "num": 1025170,
-      "word": "房价越降越不敢买",
-      "onboard_time": 1708917457,
-      "rank": 21,
-      "category": "财经"
     },
     {
       "raw_hot": 1000791,
@@ -699,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 762141,
+      "num": 762141,
+      "word": "西安平均招聘薪酬9326元/月",
+      "onboard_time": 1708921000,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 752142,
       "num": 752142,
       "word": "国家体育总局称联合培养政策将优化",
@@ -851,6 +867,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 664219,
+      "num": 664219,
+      "word": "在县城相亲189次我凑合结婚了",
+      "onboard_time": 1708921536,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 661655,
       "num": 661655,
       "word": "曼联哀悼宗庆后",
@@ -905,6 +929,14 @@
       "onboard_time": 1708919077,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 612049,
+      "num": 268652,
+      "word": "医生称春节期间肛裂病人增多",
+      "onboard_time": 1708923879,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 610742,
@@ -1041,6 +1073,14 @@
       "onboard_time": 1708866697,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 572799,
+      "num": 572799,
+      "word": "私人小院屡遭游客擅闯拍日照金山",
+      "onboard_time": 1708921603,
+      "rank": 43,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 572012,
@@ -1243,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 493900,
+      "num": 493900,
+      "word": "巴黎奥运会运动员村不安装空调",
+      "onboard_time": 1708922380,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 493364,
       "num": 493364,
       "word": "为什么不上王曼昱",
@@ -1323,12 +1371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462905,
+      "num": 462905,
+      "word": "爸爸每周给29岁女儿备好一周饭菜",
+      "onboard_time": 1708923277,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455285,
       "num": 455285,
       "word": "宗馥莉已开始接班",
       "onboard_time": 1708837359,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 453285,
+      "num": 453285,
+      "word": "李雪琴说没有王建国也过得挺好",
+      "onboard_time": 1708923518,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 441478,
@@ -1595,6 +1659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 376979,
+      "num": 318343,
+      "word": "赵丽颖亚洲电影大奖获奖",
+      "onboard_time": 1708923220,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 372539,
       "num": 372539,
       "word": "金秀贤金智媛新剧婚纱剧照",
@@ -1755,14 +1827,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 334896,
-      "num": 334896,
-      "word": "西安平均招聘薪酬9326元/月",
-      "onboard_time": 1708921000,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 334821,
       "num": 310386,
       "word": "宗庆后一年花费不到5万",
@@ -1891,14 +1955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 311480,
-      "num": 265421,
-      "word": "在县城相亲189次我凑合结婚了",
-      "onboard_time": 1708921536,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 309836,
       "num": 309836,
       "word": "王艺迪0比3平野美宇",
@@ -1936,6 +1992,14 @@
       "word": "王楚钦3比0F勒布伦",
       "onboard_time": 1708860934,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 305303,
+      "num": 305303,
+      "word": "梅西绝平",
+      "onboard_time": 1708922679,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -2171,6 +2235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273455,
+      "num": 267897,
+      "word": "岳云鹏经纪人股权被冻结",
+      "onboard_time": 1708924120,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 273387,
       "num": 273387,
       "word": "25岁的美短猫咪太棒了",
@@ -2193,6 +2265,14 @@
       "onboard_time": 1708919736,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265992,
+      "num": 265992,
+      "word": "人体中最不怕冷的器官",
+      "onboard_time": 1708922322,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 263450,
@@ -2547,6 +2627,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 227458,
+      "num": 227458,
+      "word": "王楚钦说自己成为别人的挑战对象",
+      "onboard_time": 1708924238,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226714,
       "num": 226714,
       "word": "大理寺少卿游",
@@ -2625,6 +2713,14 @@
       "onboard_time": 1708867475,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 219958,
+      "num": 219958,
+      "word": "ENHYPEN上海",
+      "onboard_time": 1708924294,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 219776,
@@ -2745,14 +2841,6 @@
       "onboard_time": 1708853913,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207520,
-      "num": 207520,
-      "word": "私人小院屡遭游客擅闯拍日照金山",
-      "onboard_time": 1708921603,
-      "rank": 43,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 207404,
@@ -2945,6 +3033,14 @@
       "onboard_time": 1708821990,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197216,
+      "num": 193602,
+      "word": "一直娱 ENHYPEN",
+      "onboard_time": 1708923039,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 196887,
@@ -3489,6 +3585,14 @@
       "onboard_time": 1708922021,
       "rank": 49,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 162205,
+      "num": 162205,
+      "word": "谷江山节后上班综合症",
+      "onboard_time": 1708923818,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 161814,
@@ -4265,6 +4369,14 @@
       "onboard_time": 1708817123,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34780,
+      "num": 1426679,
+      "word": "龙年一起向更高的目标进发",
+      "onboard_time": 1708922860,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27936,
