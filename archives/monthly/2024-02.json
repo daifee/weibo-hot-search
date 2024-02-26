@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1708971669153,
+  "endTime": 1708972438253,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -68739,6 +68739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 78602,
+      "num": 78602,
+      "word": "黄旭熙说现在该向前走了",
+      "onboard_time": 1708969699,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78513,
       "num": 1956501,
       "word": "蛋仔派对迪士尼",
@@ -69169,14 +69177,6 @@
       "onboard_time": 1707192510,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 70403,
-      "num": 70403,
-      "word": "黄旭熙说现在该向前走了",
-      "onboard_time": 1708969699,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 70337,
@@ -71859,6 +71859,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 24098,
+      "num": 24098,
+      "word": "巴黎时装周",
+      "onboard_time": 1708971438,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 24021,
       "num": 24021,
       "word": "金道英生日卡",
@@ -72107,14 +72115,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 20531,
-      "num": 20531,
-      "word": "巴黎时装周",
-      "onboard_time": 1708971438,
-      "rank": 47,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 20426,
       "num": 20426,
       "word": "我上春山约你来见",
@@ -72129,6 +72129,14 @@
       "onboard_time": 1707559235,
       "rank": 14,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 19755,
+      "num": 169026,
+      "word": "世界最长海底高铁隧道",
+      "onboard_time": 1708956093,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19659,
@@ -72449,14 +72457,6 @@
       "onboard_time": 1706727676,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 16105,
-      "num": 169026,
-      "word": "世界最长海底高铁隧道",
-      "onboard_time": 1708956093,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15882,

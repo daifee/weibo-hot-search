@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708971669153,
+  "endTime": 1708972438253,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -5763,6 +5763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78602,
+      "num": 78602,
+      "word": "黄旭熙说现在该向前走了",
+      "onboard_time": 1708969699,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78281,
       "num": 5248408,
       "word": "龙年第一轮满月",
@@ -5808,14 +5816,6 @@
       "word": "杨幂能不能当我老板",
       "onboard_time": 1708965686,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 70403,
-      "num": 70403,
-      "word": "黄旭熙说现在该向前走了",
-      "onboard_time": 1708969699,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -6027,6 +6027,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 24098,
+      "num": 24098,
+      "word": "巴黎时装周",
+      "onboard_time": 1708971438,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 23010,
       "num": 23010,
       "word": "假装自己很凶猛的萨摩耶",
@@ -6051,12 +6059,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 20531,
-      "num": 20531,
-      "word": "巴黎时装周",
-      "onboard_time": 1708971438,
-      "rank": 47,
-      "category": "作品衍生,时尚"
+      "raw_hot": 19755,
+      "num": 169026,
+      "word": "世界最长海底高铁隧道",
+      "onboard_time": 1708956093,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19007,
@@ -6071,14 +6079,6 @@
       "num": 1379014,
       "word": "元宵节花灯大比拼",
       "onboard_time": 1708743152,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16105,
-      "num": 169026,
-      "word": "世界最长海底高铁隧道",
-      "onboard_time": 1708956093,
       "rank": 2,
       "category": "社会新闻"
     },
