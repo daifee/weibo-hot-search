@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708924649921,
+  "endTime": 1708925641700,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -619,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 845460,
+      "num": 845460,
+      "word": "鹿晗实体专辑",
+      "onboard_time": 1708925317,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 844970,
       "num": 844970,
       "word": "迪丽热巴紫罗兰公主",
@@ -665,6 +673,22 @@
       "onboard_time": 1708871198,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 815481,
+      "num": 815481,
+      "word": "在县城相亲189次我凑合结婚了",
+      "onboard_time": 1708921536,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 811438,
+      "num": 268652,
+      "word": "医生称春节期间肛裂病人增多",
+      "onboard_time": 1708923879,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 808074,
@@ -827,6 +851,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 684419,
+      "num": 684419,
+      "word": "爸爸每周给29岁女儿备好一周饭菜",
+      "onboard_time": 1708923277,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 679983,
       "num": 679983,
       "word": "单身女老师深陷杀猪盘被骗近400万",
@@ -865,14 +897,6 @@
       "onboard_time": 1708819045,
       "rank": 3,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 664219,
-      "num": 664219,
-      "word": "在县城相亲189次我凑合结婚了",
-      "onboard_time": 1708921536,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 661655,
@@ -931,14 +955,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 612049,
-      "num": 268652,
-      "word": "医生称春节期间肛裂病人增多",
-      "onboard_time": 1708923879,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 610742,
       "num": 610742,
       "word": "韩国医疗",
@@ -993,6 +1009,14 @@
       "onboard_time": 1708823370,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 592486,
+      "num": 592486,
+      "word": "私人小院屡遭游客擅闯拍日照金山",
+      "onboard_time": 1708921603,
+      "rank": 43,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 591390,
@@ -1073,14 +1097,6 @@
       "onboard_time": 1708866697,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 572799,
-      "num": 572799,
-      "word": "私人小院屡遭游客擅闯拍日照金山",
-      "onboard_time": 1708921603,
-      "rank": 43,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 572012,
@@ -1283,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 495939,
+      "num": 495939,
+      "word": "北斗七行",
+      "onboard_time": 1708924656,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 493900,
       "num": 493900,
       "word": "巴黎奥运会运动员村不安装空调",
@@ -1371,12 +1395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462905,
-      "num": 462905,
-      "word": "爸爸每周给29岁女儿备好一周饭菜",
-      "onboard_time": 1708923277,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 465692,
+      "num": 465692,
+      "word": "李雪琴说没有王建国也过得挺好",
+      "onboard_time": 1708923518,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 455285,
@@ -1385,14 +1409,6 @@
       "onboard_time": 1708837359,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 453285,
-      "num": 453285,
-      "word": "李雪琴说没有王建国也过得挺好",
-      "onboard_time": 1708923518,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 441478,
@@ -1931,6 +1947,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 314032,
+      "num": 314032,
+      "word": "人体中最不怕冷的器官",
+      "onboard_time": 1708922322,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 312750,
       "num": 312750,
       "word": "詹姆斯看到了王鹤棣",
@@ -1953,6 +1977,14 @@
       "onboard_time": 1708820367,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 309847,
+      "num": 309847,
+      "word": "岳云鹏经纪人股权被冻结",
+      "onboard_time": 1708924120,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 309836,
@@ -2235,14 +2267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 273455,
-      "num": 267897,
-      "word": "岳云鹏经纪人股权被冻结",
-      "onboard_time": 1708924120,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 273387,
       "num": 273387,
       "word": "25岁的美短猫咪太棒了",
@@ -2265,14 +2289,6 @@
       "onboard_time": 1708919736,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 265992,
-      "num": 265992,
-      "word": "人体中最不怕冷的器官",
-      "onboard_time": 1708922322,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 263450,
@@ -2321,6 +2337,14 @@
       "onboard_time": 1708893317,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255534,
+      "num": 255534,
+      "word": "EXO官宣粉丝见面会",
+      "onboard_time": 1708925196,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 255449,
@@ -3931,6 +3955,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 134559,
+      "num": 134559,
+      "word": "萨摩耶 全自动果皮处理器",
+      "onboard_time": 1708925613,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133266,
       "num": 133266,
       "word": "西湖醋鱼原来长这样吗",
@@ -4323,6 +4355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 48641,
+      "num": 1426679,
+      "word": "龙年一起向更高的目标进发",
+      "onboard_time": 1708922860,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48122,
       "num": 43816,
       "word": "原来狗狗能闻到伤心的味道",
@@ -4369,14 +4409,6 @@
       "onboard_time": 1708817123,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34780,
-      "num": 1426679,
-      "word": "龙年一起向更高的目标进发",
-      "onboard_time": 1708922860,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27936,

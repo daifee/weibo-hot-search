@@ -1,0 +1,410 @@
+{
+  "runTime": 1708925641700,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1774197,
+        "num": 1774197,
+        "word": "考研成绩",
+        "onboard_time": 1708910736,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1423743,
+        "num": 1423743,
+        "word": "三个月喝了近一千块的奶茶",
+        "onboard_time": 1708916432,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 48641,
+        "num": 1318677,
+        "word": "龙年一起向更高的目标进发",
+        "onboard_time": 1708922860,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1221610,
+        "num": 1221610,
+        "word": "潘粤明 谁说我退圈了我只是胖了",
+        "onboard_time": 1708922196,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 845460,
+        "num": 845460,
+        "word": "鹿晗实体专辑",
+        "onboard_time": 1708925317,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 815481,
+        "num": 815481,
+        "word": "在县城相亲189次我凑合结婚了",
+        "onboard_time": 1708921536,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 815447,
+        "num": 815447,
+        "word": "房价越降越不敢买",
+        "onboard_time": 1708917457,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 774385,
+        "num": 774385,
+        "word": "考研国家线",
+        "onboard_time": 1708910913,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 761880,
+        "num": 761880,
+        "word": "人体不会癌变的器官",
+        "onboard_time": 1708916495,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 760445,
+        "num": 760445,
+        "word": "西安平均招聘薪酬9326元/月",
+        "onboard_time": 1708921000,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880901,
+        "num": 734153,
+        "word": "古天乐否认与宣萱结婚生子",
+        "onboard_time": 1708919981,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 684419,
+        "num": 684419,
+        "word": "爸爸每周给29岁女儿备好一周饭菜",
+        "onboard_time": 1708923277,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626522,
+        "num": 626522,
+        "word": "妈妈喜欢把洗碗布放水龙头上",
+        "onboard_time": 1708915414,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 592486,
+        "num": 592486,
+        "word": "私人小院屡遭游客擅闯拍日照金山",
+        "onboard_time": 1708921603,
+        "rank": 13,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 561913,
+        "num": 561913,
+        "word": "C罗做不雅动作回应球迷喊梅西",
+        "onboard_time": 1708914991,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495939,
+        "num": 495939,
+        "word": "北斗七行",
+        "onboard_time": 1708924656,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469473,
+        "num": 469473,
+        "word": "巴黎奥运会运动员村不安装空调",
+        "onboard_time": 1708922380,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 465692,
+        "num": 465692,
+        "word": "李雪琴说没有王建国也过得挺好",
+        "onboard_time": 1708923518,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418920,
+        "num": 418920,
+        "word": "许昕 釜山不推迟的话我也是其中一员",
+        "onboard_time": 1708917277,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416400,
+        "num": 416400,
+        "word": "失踪4姐弟凌晨被发现在芦苇丛睡觉",
+        "onboard_time": 1708911213,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367864,
+        "num": 367864,
+        "word": "宗馥莉接任娃哈哈电商执行董事",
+        "onboard_time": 1708919133,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361390,
+        "num": 361390,
+        "word": "333",
+        "onboard_time": 1708914934,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 324711,
+        "num": 324711,
+        "word": "赵丽颖露肩了",
+        "onboard_time": 1708919077,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 314032,
+        "num": 314032,
+        "word": "人体中最不怕冷的器官",
+        "onboard_time": 1708922322,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 309847,
+        "num": 309847,
+        "word": "岳云鹏经纪人股权被冻结",
+        "onboard_time": 1708924120,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281363,
+        "num": 281363,
+        "word": "英语一",
+        "onboard_time": 1708920338,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 277865,
+        "num": 277865,
+        "word": "肖战发型 龙头",
+        "onboard_time": 1708914034,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310051,
+        "num": 269782,
+        "word": "赵丽颖亚洲电影大奖获奖",
+        "onboard_time": 1708923220,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261146,
+        "num": 261146,
+        "word": "女子买20元锅包肉只见锅包不见肉",
+        "onboard_time": 1708918655,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200555,
+        "num": 258006,
+        "word": "演唱会门票秒没票务那儿大把",
+        "onboard_time": 1708910374,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 811438,
+        "num": 257653,
+        "word": "医生称春节期间肛裂病人增多",
+        "onboard_time": 1708923879,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 255534,
+        "num": 255534,
+        "word": "EXO官宣粉丝见面会",
+        "onboard_time": 1708925196,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 242061,
+        "num": 242061,
+        "word": "大侦探黑钻大劫案",
+        "onboard_time": 1708920098,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237916,
+        "num": 237916,
+        "word": "张小斐曾陪贾玲考研自己考上了",
+        "onboard_time": 1708869692,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220985,
+        "num": 220985,
+        "word": "梅西绝平",
+        "onboard_time": 1708922679,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198480,
+        "num": 198480,
+        "word": "王楚钦说自己成为别人的挑战对象",
+        "onboard_time": 1708924238,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196466,
+        "num": 196466,
+        "word": "车上带了5只鸡 待遇怪好嘞",
+        "onboard_time": 1708917754,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182172,
+        "num": 182172,
+        "word": "猫咪为什么叫猫咪",
+        "onboard_time": 1708920217,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173980,
+        "num": 173980,
+        "word": "袁姗姗鼻子",
+        "onboard_time": 1708871918,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167741,
+        "num": 167741,
+        "word": "ENHYPEN上海",
+        "onboard_time": 1708924294,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165911,
+        "num": 165911,
+        "word": "马云发挽联悼念宗庆后",
+        "onboard_time": 1708909954,
+        "rank": 40,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 165124,
+        "num": 165124,
+        "word": "孙颖莎说眼泪是捍卫荣耀的泪",
+        "onboard_time": 1708920578,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153384,
+        "num": 153384,
+        "word": "猫咪被抱下还知道卡胳肢窝",
+        "onboard_time": 1708919981,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149561,
+        "num": 149561,
+        "word": "一家三口同患上甲状腺癌",
+        "onboard_time": 1708915414,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141579,
+        "num": 141579,
+        "word": "肖战黑粉被限消",
+        "onboard_time": 1708914514,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140000,
+        "num": 140000,
+        "word": "有必要考双非院校的研究生吗",
+        "onboard_time": 1708919014,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138719,
+        "num": 138719,
+        "word": "一直娱 ENHYPEN",
+        "onboard_time": 1708923039,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134559,
+        "num": 134559,
+        "word": "萨摩耶 全自动果皮处理器",
+        "onboard_time": 1708925613,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131398,
+        "num": 131398,
+        "word": "上班后最大的执念就是省钱",
+        "onboard_time": 1708921060,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124811,
+        "num": 124811,
+        "word": "九尾让周深放心",
+        "onboard_time": 1708922021,
+        "rank": 49,
+        "category": "电竞,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设雄安新区需要各类企业共同参与#"
+    }
+  }
+}
