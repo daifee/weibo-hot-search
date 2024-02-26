@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708918488179,
+  "endTime": 1708921226245,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2515346,
+      "num": 2515346,
+      "word": "三个月喝了近一千块的奶茶",
+      "onboard_time": 1708916432,
+      "rank": 6,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2362388,
       "num": 2362388,
       "word": "警方通报杭州高架伤人事件",
@@ -113,14 +121,6 @@
       "onboard_time": 1708878090,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2092945,
-      "num": 2092945,
-      "word": "三个月喝了近一千块的奶茶",
-      "onboard_time": 1708916432,
-      "rank": 6,
-      "category": "美食"
     },
     {
       "raw_hot": 2081823,
@@ -323,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1245435,
+      "num": 1245435,
+      "word": "妈妈喜欢把洗碗布放水龙头上",
+      "onboard_time": 1708915414,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1223799,
       "num": 641601,
       "word": "马龙vs西蒙高茨",
@@ -361,6 +369,14 @@
       "onboard_time": 1708826197,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1134428,
+      "num": 875849,
+      "word": "许昕 釜山不推迟的话我也是其中一员",
+      "onboard_time": 1708917277,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 1114617,
@@ -419,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 990389,
-      "num": 990389,
-      "word": "妈妈喜欢把洗碗布放水龙头上",
-      "onboard_time": 1708915414,
-      "rank": 7,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 984693,
       "num": 984693,
       "word": "吴镇宇问金莎愿意和男友演母子吗",
@@ -465,6 +473,14 @@
       "onboard_time": 1708844614,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 940420,
+      "num": 869288,
+      "word": "古天乐否认与宣萱结婚生子",
+      "onboard_time": 1708919981,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 934886,
@@ -563,6 +579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 855369,
+      "num": 855369,
+      "word": "房价越降越不敢买",
+      "onboard_time": 1708917457,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 854638,
       "num": 854638,
       "word": "韩企员工生娃奖励1亿韩元",
@@ -636,7 +660,7 @@
     },
     {
       "raw_hot": 808074,
-      "num": 808074,
+      "num": 876063,
       "word": "演唱会门票秒没票务那儿大把",
       "onboard_time": 1708910374,
       "rank": 9,
@@ -723,14 +747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 711951,
-      "num": 367691,
-      "word": "房价越降越不敢买",
-      "onboard_time": 1708917457,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
       "raw_hot": 706459,
       "num": 706459,
       "word": "赴华韩国游客数量暴增900%",
@@ -785,6 +801,14 @@
       "onboard_time": 1708915414,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 681445,
+      "num": 681445,
+      "word": "宗馥莉接任娃哈哈电商执行董事",
+      "onboard_time": 1708919133,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 679983,
@@ -851,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 646922,
-      "num": 225723,
-      "word": "许昕 釜山不推迟的话我也是其中一员",
-      "onboard_time": 1708917277,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 633665,
       "num": 633665,
       "word": "水谷隼 孙颖莎太强了",
@@ -913,6 +929,14 @@
       "onboard_time": 1708904488,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 605448,
+      "num": 605448,
+      "word": "赵丽颖露肩了",
+      "onboard_time": 1708919077,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 602700,
@@ -1267,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480696,
+      "num": 480696,
+      "word": "车上带了5只鸡 待遇怪好嘞",
+      "onboard_time": 1708917754,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 471313,
       "num": 471313,
       "word": "许昕坐在马龙身边",
@@ -1475,6 +1507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 399561,
+      "num": 399561,
+      "word": "女子买20元锅包肉只见锅包不见肉",
+      "onboard_time": 1708918655,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399487,
       "num": 399487,
       "word": "纪凌尘大海说",
@@ -1635,6 +1675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 354500,
+      "num": 354500,
+      "word": "英语一",
+      "onboard_time": 1708920338,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 352573,
       "num": 352573,
       "word": "樊振东3比2A勒布伦",
@@ -1681,6 +1729,14 @@
       "onboard_time": 1708857631,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 341688,
+      "num": 341688,
+      "word": "孙颖莎说眼泪是捍卫荣耀的泪",
+      "onboard_time": 1708920578,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 340408,
@@ -1771,6 +1827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 317101,
+      "num": 317101,
+      "word": "有必要考双非院校的研究生吗",
+      "onboard_time": 1708919014,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 315925,
       "num": 296377,
       "word": "谈恋爱其实是在谈一种能力",
@@ -1841,6 +1905,14 @@
       "onboard_time": 1708860934,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306080,
+      "num": 306080,
+      "word": "大侦探黑钻大劫案",
+      "onboard_time": 1708920098,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 304044,
@@ -1971,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283542,
+      "num": 283542,
+      "word": "别对我动心定档",
+      "onboard_time": 1708917997,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282462,
       "num": 322615,
       "word": "景区演员道具刀没了于是开始真演",
@@ -2075,12 +2155,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 264328,
-      "num": 225653,
-      "word": "车上带了5只鸡 待遇怪好嘞",
-      "onboard_time": 1708917754,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 267863,
+      "num": 267863,
+      "word": "C罗因做不道德动作被查",
+      "onboard_time": 1708919736,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 263450,
@@ -2217,6 +2297,14 @@
       "onboard_time": 1708829495,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 249267,
+      "num": 249267,
+      "word": "猫咪被抱下还知道卡胳肢窝",
+      "onboard_time": 1708919981,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 249247,
@@ -2419,6 +2507,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 227592,
+      "num": 227592,
+      "word": "猫咪为什么叫猫咪",
+      "onboard_time": 1708920217,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226714,
       "num": 226714,
       "word": "大理寺少卿游",
@@ -2465,6 +2561,14 @@
       "onboard_time": 1708836163,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 222815,
+      "num": 222815,
+      "word": "我从不内耗是因为不装",
+      "onboard_time": 1708919077,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 222094,
@@ -2579,14 +2683,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 211135,
-      "num": 211135,
-      "word": "别对我动心定档",
-      "onboard_time": 1708917997,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210486,
       "num": 210486,
       "word": "周也林一 爆头姐心动哥",
@@ -2641,6 +2737,14 @@
       "onboard_time": 1708842573,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206608,
+      "num": 206608,
+      "word": "比亚迪秦PLUS荣耀版首周订单23590辆",
+      "onboard_time": 1708920757,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 206154,
@@ -2747,6 +2851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198433,
+      "num": 198433,
+      "word": "大学生开学的戒断反应有多严重",
+      "onboard_time": 1708920757,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 198121,
       "num": 198121,
       "word": "OMG战胜WBG",
@@ -2793,6 +2905,14 @@
       "onboard_time": 1708846411,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196509,
+      "num": 196509,
+      "word": "于适飞行夹克",
+      "onboard_time": 1708920457,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 196441,
@@ -2915,6 +3035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189656,
+      "num": 189656,
+      "word": "种地吧鹭卓 今天忙大事去了",
+      "onboard_time": 1708919915,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189507,
       "num": 189507,
       "word": "娃哈哈将驶向何方",
@@ -2953,6 +3081,14 @@
       "onboard_time": 1708770033,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188874,
+      "num": 188874,
+      "word": "上班后最大的执念就是省钱",
+      "onboard_time": 1708921060,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 188851,
@@ -3033,6 +3169,14 @@
       "onboard_time": 1708827333,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 183092,
+      "num": 183092,
+      "word": "王鹤棣状告黑粉侵权",
+      "onboard_time": 1708920395,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 182625,
@@ -3273,6 +3417,14 @@
       "onboard_time": 1708862014,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165125,
+      "num": 165125,
+      "word": "西安平均招聘薪酬9326元/月",
+      "onboard_time": 1708921000,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163863,
@@ -3945,6 +4097,14 @@
       "onboard_time": 1708899858,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75752,
+      "num": 359364,
+      "word": "比亚迪除了电比油低还有杀手锏",
+      "onboard_time": 1708918955,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70249,
