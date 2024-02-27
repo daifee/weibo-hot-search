@@ -1,6 +1,6 @@
 {
   "startTime": 1708964501350,
-  "endTime": 1709000479498,
+  "endTime": 1709001238223,
   "band_list": [
     {
       "raw_hot": 2317051,
@@ -27,8 +27,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1200975,
-      "num": 1200975,
+      "raw_hot": 1298436,
+      "num": 1298436,
       "word": "韩国宣布辞职医生再不复岗司法处理",
       "onboard_time": 1708997254,
       "rank": 49,
@@ -73,6 +73,14 @@
       "onboard_time": 1708991969,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 921401,
+      "num": 921401,
+      "word": "银行卖起金手镯",
+      "onboard_time": 1708998694,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 815138,
@@ -123,14 +131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 677002,
-      "num": 495658,
-      "word": "银行卖起金手镯",
-      "onboard_time": 1708998694,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 665048,
       "num": 665048,
       "word": "董宇辉说不讲内衣就是害羞",
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 630610,
-      "num": 494499,
+      "num": 550601,
       "word": "剪指甲时去掉的死皮一直在保护你",
       "onboard_time": 1708998512,
       "rank": 12,
@@ -153,6 +153,14 @@
       "onboard_time": 1708959878,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 597914,
+      "num": 597914,
+      "word": "C罗将因不雅动作被停赛两场",
+      "onboard_time": 1708997614,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 572577,
@@ -185,14 +193,6 @@
       "onboard_time": 1708950035,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 526153,
-      "num": 526153,
-      "word": "C罗将因不雅动作被停赛两场",
-      "onboard_time": 1708997614,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 516414,
@@ -283,6 +283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 421915,
+      "num": 421915,
+      "word": "罗斯柴尔德家族掌门人去世",
+      "onboard_time": 1708999230,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 411885,
       "num": 411885,
       "word": "中国人看网文1年花了400多亿",
@@ -313,14 +321,6 @@
       "onboard_time": 1708995455,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 325796,
-      "num": 325796,
-      "word": "罗斯柴尔德家族掌门人去世",
-      "onboard_time": 1708999230,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 306613,
@@ -355,12 +355,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279726,
+      "num": 279726,
+      "word": "电瓶车停满楼道坐垫一夜全被划烂",
+      "onboard_time": 1709000372,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272165,
+      "num": 272165,
+      "word": "加沙多个婴儿挤在一个保温箱",
+      "onboard_time": 1708999712,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 260697,
       "num": 260697,
       "word": "理想汽车狂飙18%",
       "onboard_time": 1708998452,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 255990,
+      "num": 255990,
+      "word": "二婚的朋友催我赶紧结婚",
+      "onboard_time": 1709000675,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 254639,
@@ -427,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215586,
+      "num": 215586,
+      "word": "中国男篮未来9个月没有正式比赛可打",
+      "onboard_time": 1708999835,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214857,
       "num": 214857,
       "word": "夏之光考古",
@@ -457,14 +489,6 @@
       "onboard_time": 1708997072,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 202223,
-      "num": 202223,
-      "word": "中国男篮未来9个月没有正式比赛可打",
-      "onboard_time": 1708999835,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 198961,
@@ -515,28 +539,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 189525,
+      "num": 189525,
+      "word": "陈奕迅24年首场江浙沪演唱会",
+      "onboard_time": 1708999955,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187973,
       "num": 185109,
       "word": "男子每个月染发致中毒险肝衰竭",
       "onboard_time": 1708988420,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181991,
-      "num": 181991,
-      "word": "加沙多个婴儿挤在一个保温箱",
-      "onboard_time": 1708999712,
-      "rank": 34,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 181925,
-      "num": 181925,
-      "word": "陈奕迅24年首场江浙沪演唱会",
-      "onboard_time": 1708999955,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 174774,
@@ -625,6 +641,14 @@
       "onboard_time": 1708990706,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 145820,
+      "num": 145820,
+      "word": "陶姝娜张小彦同床共枕了",
+      "onboard_time": 1709000972,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 145291,
@@ -803,20 +827,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 110196,
-      "num": 110196,
-      "word": "电瓶车停满楼道坐垫一夜全被划烂",
-      "onboard_time": 1709000372,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109986,
       "num": 109986,
       "word": "藏海传有钟汉良",
       "onboard_time": 1708959157,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106988,
+      "num": 106988,
+      "word": "中美往返航班增加",
+      "onboard_time": 1709000553,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106908,
@@ -841,6 +865,14 @@
       "onboard_time": 1708958433,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 97766,
+      "num": 97766,
+      "word": "我爸眼中的好工作",
+      "onboard_time": 1709001211,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 96073,

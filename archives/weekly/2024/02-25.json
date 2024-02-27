@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709000479498,
+  "endTime": 1709001238223,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1298436,
+      "num": 1298436,
+      "word": "韩国宣布辞职医生再不复岗司法处理",
+      "onboard_time": 1708997254,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1271047,
       "num": 1271047,
       "word": "演员李影去世",
@@ -473,14 +481,6 @@
       "onboard_time": 1708871017,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1200975,
-      "num": 1200975,
-      "word": "韩国宣布辞职医生再不复岗司法处理",
-      "onboard_time": 1708997254,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1181182,
@@ -753,6 +753,14 @@
       "onboard_time": 1708836821,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 921401,
+      "num": 921401,
+      "word": "银行卖起金手镯",
+      "onboard_time": 1708998694,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 897801,
@@ -1251,14 +1259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 677002,
-      "num": 495658,
-      "word": "银行卖起金手镯",
-      "onboard_time": 1708998694,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 676049,
       "num": 676049,
       "word": "拒绝汉字污名化",
@@ -1348,7 +1348,7 @@
     },
     {
       "raw_hot": 630610,
-      "num": 494499,
+      "num": 550601,
       "word": "剪指甲时去掉的死皮一直在保护你",
       "onboard_time": 1708998512,
       "rank": 12,
@@ -1481,6 +1481,14 @@
       "onboard_time": 1708818503,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 597914,
+      "num": 597914,
+      "word": "C罗将因不雅动作被停赛两场",
+      "onboard_time": 1708997614,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 595220,
@@ -1761,14 +1769,6 @@
       "onboard_time": 1708833876,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 526153,
-      "num": 526153,
-      "word": "C罗将因不雅动作被停赛两场",
-      "onboard_time": 1708997614,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 524956,
@@ -2161,6 +2161,14 @@
       "onboard_time": 1708837180,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 421915,
+      "num": 421915,
+      "word": "罗斯柴尔德家族掌门人去世",
+      "onboard_time": 1708999230,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 421615,
@@ -2643,14 +2651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 325796,
-      "num": 325796,
-      "word": "罗斯柴尔德家族掌门人去世",
-      "onboard_time": 1708999230,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
       "raw_hot": 325407,
       "num": 325407,
       "word": "甘肃麻辣烫",
@@ -3075,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279726,
+      "num": 279726,
+      "word": "电瓶车停满楼道坐垫一夜全被划烂",
+      "onboard_time": 1709000372,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279613,
       "num": 279613,
       "word": "宗庆后坚守不上市的信念",
@@ -3153,6 +3161,14 @@
       "onboard_time": 1708871315,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 272165,
+      "num": 272165,
+      "word": "加沙多个婴儿挤在一个保温箱",
+      "onboard_time": 1708999712,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 271978,
@@ -3257,6 +3273,14 @@
       "onboard_time": 1708893317,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255990,
+      "num": 255990,
+      "word": "二婚的朋友催我赶紧结婚",
+      "onboard_time": 1709000675,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 255449,
@@ -3867,6 +3891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215586,
+      "num": 215586,
+      "word": "中国男篮未来9个月没有正式比赛可打",
+      "onboard_time": 1708999835,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214857,
       "num": 214857,
       "word": "夏之光考古",
@@ -4113,14 +4145,6 @@
       "onboard_time": 1708909954,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 202223,
-      "num": 202223,
-      "word": "中国男篮未来9个月没有正式比赛可打",
-      "onboard_time": 1708999835,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 202111,
@@ -4483,6 +4507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189525,
+      "num": 189525,
+      "word": "陈奕迅24年首场江浙沪演唱会",
+      "onboard_time": 1708999955,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189507,
       "num": 189507,
       "word": "娃哈哈将驶向何方",
@@ -4729,22 +4761,6 @@
       "onboard_time": 1708951051,
       "rank": 26,
       "category": "教育,情感"
-    },
-    {
-      "raw_hot": 181991,
-      "num": 181991,
-      "word": "加沙多个婴儿挤在一个保温箱",
-      "onboard_time": 1708999712,
-      "rank": 34,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 181925,
-      "num": 181925,
-      "word": "陈奕迅24年首场江浙沪演唱会",
-      "onboard_time": 1708999955,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 181924,
@@ -5499,6 +5515,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 145820,
+      "num": 145820,
+      "word": "陶姝娜张小彦同床共枕了",
+      "onboard_time": 1709000972,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145291,
       "num": 145291,
       "word": "2024国际乒联第9周排名",
@@ -6155,11 +6179,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 110196,
-      "num": 110196,
-      "word": "电瓶车停满楼道坐垫一夜全被划烂",
-      "onboard_time": 1709000372,
-      "rank": 46,
+      "raw_hot": 106988,
+      "num": 106988,
+      "word": "中美往返航班增加",
+      "onboard_time": 1709000553,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -6193,6 +6217,14 @@
       "onboard_time": 1708902744,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97766,
+      "num": 97766,
+      "word": "我爸眼中的好工作",
+      "onboard_time": 1709001211,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 96073,

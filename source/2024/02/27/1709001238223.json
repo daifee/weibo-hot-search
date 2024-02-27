@@ -1,0 +1,410 @@
+{
+  "runTime": 1709001238223,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1607916,
+        "num": 1607916,
+        "word": "人民网评上班比丑",
+        "onboard_time": 1708995091,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1298436,
+        "num": 1298436,
+        "word": "韩国宣布辞职医生再不复岗司法处理",
+        "onboard_time": 1708997254,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116911,
+        "num": 1274125,
+        "word": "世界最长海底高铁隧道",
+        "onboard_time": 1708956093,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1251497,
+        "num": 1251497,
+        "word": "张雪峰承认到美国也做不起来",
+        "onboard_time": 1708990346,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 921401,
+        "num": 921401,
+        "word": "银行卖起金手镯",
+        "onboard_time": 1708998694,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 863237,
+        "num": 863237,
+        "word": "陈乔恩过年胖了快5公斤",
+        "onboard_time": 1708997012,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 748534,
+        "num": 748534,
+        "word": "iPhone16Pro配四重棱镜",
+        "onboard_time": 1708997254,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 688766,
+        "num": 688766,
+        "word": "老人报警称丢了2000元民警找回5万2",
+        "onboard_time": 1708994915,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597914,
+        "num": 597914,
+        "word": "C罗将因不雅动作被停赛两场",
+        "onboard_time": 1708997614,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 563112,
+        "num": 563112,
+        "word": "四六级分数出了",
+        "onboard_time": 1708989081,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 601159,
+        "num": 550601,
+        "word": "剪指甲时去掉的死皮一直在保护你",
+        "onboard_time": 1708998512,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 479630,
+        "num": 479630,
+        "word": "瞎书去世",
+        "onboard_time": 1708996053,
+        "rank": 11,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 451420,
+        "num": 451420,
+        "word": "韩国急救车找不到医院辗转数小时",
+        "onboard_time": 1708997432,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440469,
+        "num": 440469,
+        "word": "王菲谢霆锋一起回国",
+        "onboard_time": 1708991969,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432076,
+        "num": 432076,
+        "word": "文韬受伤",
+        "onboard_time": 1708990525,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427589,
+        "num": 427589,
+        "word": "高群书为姚安娜回怼汪海林",
+        "onboard_time": 1708993415,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421915,
+        "num": 421915,
+        "word": "罗斯柴尔德家族掌门人去世",
+        "onboard_time": 1708999230,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 421405,
+        "num": 421405,
+        "word": "布洛芬 能给卑职一个明示吗",
+        "onboard_time": 1708959878,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 338195,
+        "num": 338195,
+        "word": "中国人看网文1年花了400多亿",
+        "onboard_time": 1708997134,
+        "rank": 18,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 313156,
+        "num": 313156,
+        "word": "10元3副耳钉被仅退款商家千里讨公道",
+        "onboard_time": 1708958374,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324766,
+        "num": 312571,
+        "word": "姚安娜吃鸡式演技",
+        "onboard_time": 1708952856,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279726,
+        "num": 279726,
+        "word": "电瓶车停满楼道坐垫一夜全被划烂",
+        "onboard_time": 1709000372,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272165,
+        "num": 272165,
+        "word": "加沙多个婴儿挤在一个保温箱",
+        "onboard_time": 1708999712,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 255990,
+        "num": 255990,
+        "word": "二婚的朋友催我赶紧结婚",
+        "onboard_time": 1709000675,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246616,
+        "num": 246616,
+        "word": "脚后跟干裂可能是3种病",
+        "onboard_time": 1708995455,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 239590,
+        "num": 239590,
+        "word": "乌克兰",
+        "onboard_time": 1708995455,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 230959,
+        "num": 230959,
+        "word": "倪妮核心朋友圈是读书时的闺蜜",
+        "onboard_time": 1708994614,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229488,
+        "num": 229488,
+        "word": "王鹤棣行程",
+        "onboard_time": 1708995631,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229066,
+        "num": 229066,
+        "word": "花少团真去秦岚家了吗",
+        "onboard_time": 1708990106,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215586,
+        "num": 215586,
+        "word": "中国男篮未来9个月没有正式比赛可打",
+        "onboard_time": 1708999835,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205801,
+        "num": 205801,
+        "word": "理想汽车狂飙18%",
+        "onboard_time": 1708998452,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 203310,
+        "num": 203310,
+        "word": "一喝牛奶就拉肚子是咋了",
+        "onboard_time": 1708993715,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198036,
+        "num": 198036,
+        "word": "为什么大家不爱买黑色贴身衣物",
+        "onboard_time": 1708958135,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 195506,
+        "num": 195506,
+        "word": "前夫哥过得不好比什么都重要",
+        "onboard_time": 1708958499,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189525,
+        "num": 189525,
+        "word": "陈奕迅24年首场江浙沪演唱会",
+        "onboard_time": 1708999955,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172181,
+        "num": 172181,
+        "word": "坐高铁由于好奇选了静音车厢",
+        "onboard_time": 1708959878,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170804,
+        "num": 170804,
+        "word": "董宇辉说不讲内衣就是害羞",
+        "onboard_time": 1708957473,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164547,
+        "num": 164547,
+        "word": "马斯克回应买下迪士尼传闻",
+        "onboard_time": 1708999113,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162738,
+        "num": 162738,
+        "word": "夏之光考古",
+        "onboard_time": 1708995934,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162129,
+        "num": 162129,
+        "word": "老爸炒9斤虾尾让女儿带学校分享",
+        "onboard_time": 1708989924,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145820,
+        "num": 145820,
+        "word": "陶姝娜张小彦同床共枕了",
+        "onboard_time": 1709000972,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137622,
+        "num": 137622,
+        "word": "从今天起尽量少熬夜",
+        "onboard_time": 1708960654,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119968,
+        "num": 119968,
+        "word": "四川自考 进不去",
+        "onboard_time": 1708997733,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 117989,
+        "num": 117989,
+        "word": "种地吧每日打卡直播",
+        "onboard_time": 1708999594,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117323,
+        "num": 117323,
+        "word": "基金称A股市场仍处良性架构之中",
+        "onboard_time": 1708998752,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115534,
+        "num": 115534,
+        "word": "女孩说外公外婆退休后每个月收到娃哈哈补贴",
+        "onboard_time": 1708955254,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111813,
+        "num": 111813,
+        "word": "A股纪录刷新",
+        "onboard_time": 1708959755,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107516,
+        "num": 107516,
+        "word": "美国等最久死囚将被行刑",
+        "onboard_time": 1708992755,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106988,
+        "num": 106988,
+        "word": "中美往返航班增加",
+        "onboard_time": 1709000553,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97766,
+        "num": 97766,
+        "word": "我爸眼中的好工作",
+        "onboard_time": 1709001211,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设雄安新区需要各类企业共同参与#"
+    }
+  }
+}
