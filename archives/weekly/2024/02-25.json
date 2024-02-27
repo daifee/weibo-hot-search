@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709007645619,
+  "endTime": 1709008450912,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 5588587,
+      "num": 712220,
+      "word": "李宰旭承认恋情",
+      "onboard_time": 1709007695,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4505829,
       "num": 4505829,
       "word": "国乒男团11连冠",
@@ -51,6 +59,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 3331937,
+      "num": 3331937,
+      "word": "Prada玄学",
+      "onboard_time": 1709003970,
+      "rank": 3,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 3100456,
       "num": 3100456,
       "word": "樊振东黄牌",
@@ -73,14 +89,6 @@
       "onboard_time": 1708927233,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2779830,
-      "num": 2779830,
-      "word": "Prada玄学",
-      "onboard_time": 1709003970,
-      "rank": 3,
-      "category": "时尚"
     },
     {
       "raw_hot": 2543604,
@@ -307,11 +315,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1612173,
+      "num": 1612173,
+      "word": "低彩礼子女优先入学是否公平",
+      "onboard_time": 1709005535,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1600170,
       "num": 1600170,
       "word": "秦牛正威晒与未婚夫合照",
       "onboard_time": 1708870776,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1579228,
+      "num": 699999,
+      "word": "SM承认柳智敏恋情",
+      "onboard_time": 1709008057,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -401,14 +425,6 @@
       "onboard_time": 1708959878,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1341257,
-      "num": 1341257,
-      "word": "低彩礼子女优先入学是否公平",
-      "onboard_time": 1709005535,
-      "rank": 3,
-      "category": "教育"
     },
     {
       "raw_hot": 1335695,
@@ -507,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1183684,
+      "num": 1183684,
+      "word": "专家称房价越涨大家购买意愿越强",
+      "onboard_time": 1709006316,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1181182,
       "num": 1107358,
       "word": "茶刀",
@@ -540,7 +564,7 @@
     },
     {
       "raw_hot": 1158402,
-      "num": 1000762,
+      "num": 1018934,
       "word": "董宇辉微博",
       "onboard_time": 1709004995,
       "rank": 5,
@@ -972,7 +996,7 @@
     },
     {
       "raw_hot": 828975,
-      "num": 377674,
+      "num": 409892,
       "word": "女子孕期打耳洞1年半后多俩小耳朵",
       "onboard_time": 1709002293,
       "rank": 20,
@@ -1177,6 +1201,14 @@
       "onboard_time": 1708940436,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 729635,
+      "num": 729635,
+      "word": "范志毅认证鹿晗内娱最佳球员",
+      "onboard_time": 1709007033,
+      "rank": 18,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 722217,
@@ -1451,14 +1483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 620952,
-      "num": 620952,
-      "word": "专家称房价越涨大家购买意愿越强",
-      "onboard_time": 1709006316,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 618233,
       "num": 618233,
       "word": "周深把杨幂的英雄池摸透了",
@@ -1561,6 +1585,14 @@
       "onboard_time": 1708818503,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 598067,
+      "num": 598067,
+      "word": "董宇辉谈正月不剪头原因",
+      "onboard_time": 1709005471,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 597914,
@@ -1851,14 +1883,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 532905,
-      "num": 532905,
-      "word": "董宇辉谈正月不剪头原因",
-      "onboard_time": 1709005471,
-      "rank": 12,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 532850,
       "num": 532850,
       "word": "军艺校草",
@@ -1873,6 +1897,14 @@
       "onboard_time": 1708833876,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 526882,
+      "num": 526882,
+      "word": "日本女队全员夸赞孙颖莎",
+      "onboard_time": 1709006197,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 524956,
@@ -2153,6 +2185,14 @@
       "onboard_time": 1708997432,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445765,
+      "num": 445765,
+      "word": "连诗雅怀孕",
+      "onboard_time": 1709007757,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 445689,
@@ -2459,28 +2499,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 391981,
-      "num": 391981,
-      "word": "范志毅认证鹿晗内娱最佳球员",
-      "onboard_time": 1709007033,
-      "rank": 18,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 391633,
       "num": 391633,
       "word": "河南卫视 上春山",
       "onboard_time": 1708774958,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 390100,
-      "num": 390100,
-      "word": "日本女队全员夸赞孙颖莎",
-      "onboard_time": 1709006197,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 389707,
@@ -3779,6 +3803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 233612,
+      "num": 233612,
+      "word": "不给你涨价都不错了",
+      "onboard_time": 1709006736,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232325,
       "num": 232325,
       "word": "徐冬冬说跑龙套赚的钱够养自己",
@@ -4136,14 +4168,6 @@
       "word": "猫咪总是口臭查出幽门螺杆菌",
       "onboard_time": 1708950212,
       "rank": 29,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 209994,
-      "num": 209994,
-      "word": "不给你涨价都不错了",
-      "onboard_time": 1709006736,
-      "rank": 33,
       "category": "幽默"
     },
     {
@@ -4505,6 +4529,14 @@
       "onboard_time": 1708864534,
       "rank": 38,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 195904,
+      "num": 195904,
+      "word": "彩礼不超3.9万子女可优先入学",
+      "onboard_time": 1709008182,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195725,
@@ -5219,6 +5251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170581,
+      "num": 170581,
+      "word": "华为Pocket2评测",
+      "onboard_time": 1709007877,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 170227,
       "num": 170227,
       "word": "2024美国演员工会奖颁奖典礼",
@@ -5531,6 +5571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157588,
+      "num": 157588,
+      "word": "我丢了个包里面全是黄金",
+      "onboard_time": 1709008298,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157520,
       "num": 157520,
       "word": "男篮亚预赛",
@@ -5585,6 +5633,14 @@
       "onboard_time": 1708950275,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155140,
+      "num": 155140,
+      "word": "年轻人猝死可能与熬夜有关",
+      "onboard_time": 1709008363,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 154793,
@@ -5769,6 +5825,14 @@
       "onboard_time": 1708990706,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 145597,
+      "num": 372538,
+      "word": "被杨幂身材秀到了",
+      "onboard_time": 1709005114,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 145291,
@@ -6249,14 +6313,6 @@
       "onboard_time": 1708828893,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122175,
-      "num": 372538,
-      "word": "被杨幂身材秀到了",
-      "onboard_time": 1709005114,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 121939,

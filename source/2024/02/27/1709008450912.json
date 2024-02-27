@@ -1,0 +1,410 @@
+{
+  "runTime": 1709008450912,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3331937,
+        "num": 3331937,
+        "word": "Prada玄学",
+        "onboard_time": 1709003970,
+        "rank": 0,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1612173,
+        "num": 1612173,
+        "word": "低彩礼子女优先入学是否公平",
+        "onboard_time": 1709005535,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 70613,
+        "num": 1356206,
+        "word": "世界最长海底高铁隧道",
+        "onboard_time": 1708956093,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1183684,
+        "num": 1183684,
+        "word": "专家称房价越涨大家购买意愿越强",
+        "onboard_time": 1709006316,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1155760,
+        "num": 1155760,
+        "word": "沈月算命",
+        "onboard_time": 1709003371,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1018934,
+        "num": 1018934,
+        "word": "董宇辉微博",
+        "onboard_time": 1709004995,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 864584,
+        "num": 864584,
+        "word": "越吃越胖的蔬菜刺客",
+        "onboard_time": 1709001814,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 800632,
+        "num": 800632,
+        "word": "人民网评上班比丑",
+        "onboard_time": 1708995091,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768970,
+        "num": 768970,
+        "word": "韩国宣布辞职医生再不复岗司法处理",
+        "onboard_time": 1708997254,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729635,
+        "num": 729635,
+        "word": "范志毅认证鹿晗内娱最佳球员",
+        "onboard_time": 1709007033,
+        "rank": 9,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 5588587,
+        "num": 712220,
+        "word": "李宰旭承认恋情",
+        "onboard_time": 1709007695,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1579228,
+        "num": 699999,
+        "word": "SM承认柳智敏恋情",
+        "onboard_time": 1709008057,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598067,
+        "num": 598067,
+        "word": "董宇辉谈正月不剪头原因",
+        "onboard_time": 1709005471,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 549957,
+        "num": 549957,
+        "word": "吴镇宇预言",
+        "onboard_time": 1709003434,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 546166,
+        "num": 546166,
+        "word": "向佐摆了一桌子全家福",
+        "onboard_time": 1709004514,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533115,
+        "num": 533115,
+        "word": "老人报警称丢了2000元民警找回5万2",
+        "onboard_time": 1708994915,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526882,
+        "num": 526882,
+        "word": "日本女队全员夸赞孙颖莎",
+        "onboard_time": 1709006197,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 449855,
+        "num": 449855,
+        "word": "电瓶车停满楼道坐垫一夜全被划烂",
+        "onboard_time": 1709000372,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445765,
+        "num": 445765,
+        "word": "连诗雅怀孕",
+        "onboard_time": 1709007757,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413954,
+        "num": 413954,
+        "word": "陈乔恩过年胖了快5公斤",
+        "onboard_time": 1708997012,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651154,
+        "num": 409892,
+        "word": "女子孕期打耳洞1年半后多俩小耳朵",
+        "onboard_time": 1709002293,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572725,
+        "num": 408147,
+        "word": "张雪峰承认到美国也做不起来",
+        "onboard_time": 1708990346,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400345,
+        "num": 400345,
+        "word": "比特币",
+        "onboard_time": 1709002654,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 361050,
+        "num": 361050,
+        "word": "工作人员辟谣王鹤棣要求重录",
+        "onboard_time": 1709001872,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356174,
+        "num": 356174,
+        "word": "银行卖起金手镯",
+        "onboard_time": 1708998694,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 336060,
+        "num": 336060,
+        "word": "高群书为姚安娜回怼汪海林",
+        "onboard_time": 1708993415,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297881,
+        "num": 297881,
+        "word": "文韬受伤",
+        "onboard_time": 1708990525,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282976,
+        "num": 282976,
+        "word": "iPhone16Pro配四重棱镜",
+        "onboard_time": 1708997254,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 272888,
+        "num": 272888,
+        "word": "剪指甲时去掉的死皮一直在保护你",
+        "onboard_time": 1708998512,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249863,
+        "num": 249863,
+        "word": "二婚的朋友催我赶紧结婚",
+        "onboard_time": 1709000675,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247197,
+        "num": 247197,
+        "word": "成功的拒绝了猫咪三次",
+        "onboard_time": 1709005535,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233612,
+        "num": 233612,
+        "word": "不给你涨价都不错了",
+        "onboard_time": 1709006736,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232348,
+        "num": 232348,
+        "word": "布洛芬 能给卑职一个明示吗",
+        "onboard_time": 1708959878,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221670,
+        "num": 221670,
+        "word": "四六级分数出了",
+        "onboard_time": 1708989081,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 220069,
+        "num": 220069,
+        "word": "姚安娜镜头",
+        "onboard_time": 1709004754,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207408,
+        "num": 207408,
+        "word": "世界上最疼的病是什么病",
+        "onboard_time": 1709002474,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201708,
+        "num": 201708,
+        "word": "陈梦重回世界第二",
+        "onboard_time": 1709003194,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195904,
+        "num": 195904,
+        "word": "彩礼不超3.9万子女可优先入学",
+        "onboard_time": 1709008182,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182465,
+        "num": 182465,
+        "word": "王菲谢霆锋一起回国",
+        "onboard_time": 1708991969,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172874,
+        "num": 172874,
+        "word": "东方甄选股价跌超5%",
+        "onboard_time": 1709005957,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172727,
+        "num": 172727,
+        "word": "汪海林回应被猎冰导演回怼",
+        "onboard_time": 1709007516,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145597,
+        "num": 170679,
+        "word": "被杨幂身材秀到了",
+        "onboard_time": 1709005114,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170623,
+        "num": 170623,
+        "word": "加沙多个婴儿挤在一个保温箱",
+        "onboard_time": 1708999712,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 170581,
+        "num": 170581,
+        "word": "华为Pocket2评测",
+        "onboard_time": 1709007877,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162455,
+        "num": 162455,
+        "word": "姚安娜吃鸡式演技",
+        "onboard_time": 1708952856,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157588,
+        "num": 157588,
+        "word": "我丢了个包里面全是黄金",
+        "onboard_time": 1709008298,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156663,
+        "num": 156663,
+        "word": "考研调剂",
+        "onboard_time": 1709005957,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155140,
+        "num": 155140,
+        "word": "年轻人猝死可能与熬夜有关",
+        "onboard_time": 1709008363,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153008,
+        "num": 153008,
+        "word": "姆巴佩将与法国总统共进晚餐",
+        "onboard_time": 1709002772,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147003,
+        "num": 147003,
+        "word": "我爸眼中的好工作",
+        "onboard_time": 1709001211,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}
