@@ -1,6 +1,6 @@
 {
   "startTime": 1708964501350,
-  "endTime": 1709030086472,
+  "endTime": 1709032463082,
   "band_list": [
     {
       "raw_hot": 8120231,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1237625,
+      "num": 1237625,
+      "word": "李亚鹏直播哭穷",
+      "onboard_time": 1709029594,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1158402,
       "num": 1018934,
       "word": "董宇辉微博",
@@ -177,6 +185,14 @@
       "onboard_time": 1708958374,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1035551,
+      "num": 1035551,
+      "word": "美国共产主义者宣布成立政党",
+      "onboard_time": 1709027735,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1013189,
@@ -241,14 +257,6 @@
       "onboard_time": 1708998694,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 915139,
-      "num": 915139,
-      "word": "美国共产主义者宣布成立政党",
-      "onboard_time": 1709027735,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 873147,
@@ -451,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 593093,
+      "num": 593093,
+      "word": "父母迷信偏方14岁男孩身高定格在160",
+      "onboard_time": 1709024375,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584930,
       "num": 584930,
       "word": "无限暖暖过审",
@@ -465,14 +481,6 @@
       "onboard_time": 1708952856,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 568676,
-      "num": 568676,
-      "word": "父母迷信偏方14岁男孩身高定格在160",
-      "onboard_time": 1709024375,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 558093,
@@ -563,12 +571,12 @@
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 497399,
-      "num": 497399,
-      "word": "李亚鹏直播哭穷",
-      "onboard_time": 1709029594,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 496515,
+      "num": 496515,
+      "word": "世界杯",
+      "onboard_time": 1709030613,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 495889,
@@ -691,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 432736,
+      "num": 546475,
+      "word": "苏炳添60米6秒66",
+      "onboard_time": 1709029773,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 426168,
       "num": 208550,
       "word": "从今天起尽量少熬夜",
@@ -761,6 +777,14 @@
       "onboard_time": 1709022511,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 396623,
+      "num": 396623,
+      "word": "韩彩英 教授肯定也不认识我",
+      "onboard_time": 1709031214,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 377641,
@@ -931,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291299,
+      "num": 284311,
+      "word": "娃哈哈",
+      "onboard_time": 1709030913,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288665,
       "num": 288665,
       "word": "A股纪录刷新",
@@ -955,6 +987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 285493,
+      "num": 285493,
+      "word": "于正 炒作手段",
+      "onboard_time": 1709029055,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 281183,
       "num": 281183,
       "word": "111款国产游戏获批",
@@ -977,6 +1017,14 @@
       "onboard_time": 1709003194,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 261551,
+      "num": 261551,
+      "word": "起猛了在公司遇到男狐狸了",
+      "onboard_time": 1709030613,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 260697,
@@ -1051,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246729,
+      "num": 246729,
+      "word": "体制内说话原来有这么多门道",
+      "onboard_time": 1709027256,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 245122,
       "num": 245122,
       "word": "谢霆锋体脂",
@@ -1073,14 +1129,6 @@
       "onboard_time": 1709024253,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 241866,
-      "num": 241866,
-      "word": "于正 炒作手段",
-      "onboard_time": 1709029055,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 241111,
@@ -1147,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228363,
+      "num": 228363,
+      "word": "国家队资金净流入A股逾4100亿",
+      "onboard_time": 1709030854,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 224025,
       "num": 224025,
       "word": "人民网三评教师减负",
@@ -1163,14 +1219,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 222655,
-      "num": 222655,
-      "word": "体制内说话原来有这么多门道",
-      "onboard_time": 1709027256,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 220203,
       "num": 220203,
       "word": "吴镇宇会怎么评价姚安娜表演",
@@ -1185,6 +1233,22 @@
       "onboard_time": 1709027735,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 216735,
+      "num": 216735,
+      "word": "烟火人家一人离婚全家上阵",
+      "onboard_time": 1709031272,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216162,
+      "num": 593996,
+      "word": "警察用胸口为老人捂脚取暖",
+      "onboard_time": 1709027435,
+      "rank": 8,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 216114,
@@ -1233,14 +1297,6 @@
       "onboard_time": 1709021614,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 213455,
-      "num": 593996,
-      "word": "警察用胸口为老人捂脚取暖",
-      "onboard_time": 1709027435,
-      "rank": 8,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 211143,
@@ -1299,8 +1355,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205684,
+      "num": 205684,
+      "word": "陈伟霆开健身房的原因",
+      "onboard_time": 1709029956,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204720,
-      "num": 204720,
+      "num": 209940,
       "word": "李杰翔被判无期徒刑",
       "onboard_time": 1709027912,
       "rank": 29,
@@ -1353,6 +1417,14 @@
       "onboard_time": 1708999113,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 191141,
+      "num": 191141,
+      "word": "香水喷法",
+      "onboard_time": 1709032291,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 190662,
@@ -1489,14 +1561,6 @@
       "onboard_time": 1709005957,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 179637,
-      "num": 179637,
-      "word": "苏炳添60米6秒66",
-      "onboard_time": 1709029773,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 177149,
@@ -1899,6 +1963,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132271,
+      "num": 132271,
+      "word": "于正让赵晴下部戏演女一号",
+      "onboard_time": 1709030793,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 131810,
+      "num": 131810,
+      "word": "王鹤棣西瓜梗",
+      "onboard_time": 1709032171,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131772,
       "num": 131772,
       "word": "逆水寒兰亭集序",
@@ -1929,14 +2009,6 @@
       "onboard_time": 1709026592,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130887,
-      "num": 130887,
-      "word": "陈伟霆开健身房的原因",
-      "onboard_time": 1709029956,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 129157,
@@ -1985,6 +2057,14 @@
       "onboard_time": 1709001631,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122698,
+      "num": 122698,
+      "word": "博主评董宇辉清空微博对公司不负责",
+      "onboard_time": 1709032353,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 121344,
@@ -2139,6 +2219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 105180,
+      "num": 105180,
+      "word": "高质量发展看新疆",
+      "onboard_time": 1709031154,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99015,
       "num": 99015,
       "word": "七海建人 你认错老公了",
@@ -2219,6 +2307,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 73493,
+      "num": 1244372,
+      "word": "我的网络成长故事",
+      "onboard_time": 1709028572,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73229,
       "num": 73229,
       "word": "杨幂能不能当我老板",
@@ -2265,14 +2361,6 @@
       "onboard_time": 1708966642,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 57077,
-      "num": 1069811,
-      "word": "我的网络成长故事",
-      "onboard_time": 1709028572,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35508,

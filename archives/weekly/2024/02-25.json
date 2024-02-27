@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709030086472,
+  "endTime": 1709032463082,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -587,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1237625,
+      "num": 1237625,
+      "word": "李亚鹏直播哭穷",
+      "onboard_time": 1709029594,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1223799,
       "num": 641601,
       "word": "马龙vs西蒙高茨",
@@ -721,6 +729,14 @@
       "onboard_time": 1708952014,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1035551,
+      "num": 1035551,
+      "word": "美国共产主义者宣布成立政党",
+      "onboard_time": 1709027735,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1026142,
@@ -921,14 +937,6 @@
       "onboard_time": 1708836821,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 915139,
-      "num": 915139,
-      "word": "美国共产主义者宣布成立政党",
-      "onboard_time": 1709027735,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 897801,
@@ -1787,6 +1795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 593093,
+      "num": 593093,
+      "word": "父母迷信偏方14岁男孩身高定格在160",
+      "onboard_time": 1709024375,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 592486,
       "num": 592486,
       "word": "私人小院屡遭游客擅闯拍日照金山",
@@ -1929,14 +1945,6 @@
       "onboard_time": 1708917754,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 568676,
-      "num": 568676,
-      "word": "父母迷信偏方14岁男孩身高定格在160",
-      "onboard_time": 1709024375,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 568130,
@@ -2227,12 +2235,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 497399,
-      "num": 497399,
-      "word": "李亚鹏直播哭穷",
-      "onboard_time": 1709029594,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 496515,
+      "num": 496515,
+      "word": "世界杯",
+      "onboard_time": 1709030613,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 496205,
@@ -2531,6 +2539,14 @@
       "category": "剧集,艺人"
     },
     {
+      "raw_hot": 432736,
+      "num": 546475,
+      "word": "苏炳添60米6秒66",
+      "onboard_time": 1709029773,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 426168,
       "num": 295517,
       "word": "从今天起尽量少熬夜",
@@ -2801,6 +2817,14 @@
       "onboard_time": 1708829616,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 396623,
+      "num": 396623,
+      "word": "韩彩英 教授肯定也不认识我",
+      "onboard_time": 1709031214,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 393059,
@@ -3555,6 +3579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291299,
+      "num": 284311,
+      "word": "娃哈哈",
+      "onboard_time": 1708847252,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288838,
       "num": 288838,
       "word": "王楚钦说看看金牌是不是真金",
@@ -3609,6 +3641,14 @@
       "onboard_time": 1708995274,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 285493,
+      "num": 285493,
+      "word": "于正 炒作手段",
+      "onboard_time": 1709029055,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 284727,
@@ -3843,6 +3883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 261551,
+      "num": 261551,
+      "word": "起猛了在公司遇到男狐狸了",
+      "onboard_time": 1709030613,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 261040,
       "num": 261040,
       "word": "黄龄演繁花曾被换角",
@@ -4067,6 +4115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246729,
+      "num": 246729,
+      "word": "体制内说话原来有这么多门道",
+      "onboard_time": 1709027256,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 246653,
       "num": 223909,
       "word": "电竞小说女主杨幂又来了",
@@ -4145,14 +4201,6 @@
       "onboard_time": 1708914872,
       "rank": 43,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 241866,
-      "num": 241866,
-      "word": "于正 炒作手段",
-      "onboard_time": 1709029055,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 241111,
@@ -4387,6 +4435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228363,
+      "num": 228363,
+      "word": "国家队资金净流入A股逾4100亿",
+      "onboard_time": 1709030854,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 228209,
       "num": 228209,
       "word": "为什么洗草莓会掉色",
@@ -4472,14 +4528,6 @@
       "word": "我从不内耗是因为不装",
       "onboard_time": 1708919077,
       "rank": 36,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 222655,
-      "num": 222655,
-      "word": "体制内说话原来有这么多门道",
-      "onboard_time": 1709027256,
-      "rank": 26,
       "category": "情感"
     },
     {
@@ -4603,12 +4651,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 216735,
+      "num": 216735,
+      "word": "烟火人家一人离婚全家上阵",
+      "onboard_time": 1709031272,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216719,
       "num": 216719,
       "word": "老年人吃28种止痛药致严重并发症",
       "onboard_time": 1708910012,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 216162,
+      "num": 593996,
+      "word": "警察用胸口为老人捂脚取暖",
+      "onboard_time": 1709027435,
+      "rank": 8,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 216114,
@@ -4625,14 +4689,6 @@
       "onboard_time": 1708949613,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 215884,
-      "num": 215884,
-      "word": "娃哈哈",
-      "onboard_time": 1708847252,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 215586,
@@ -4689,14 +4745,6 @@
       "onboard_time": 1708854816,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 213455,
-      "num": 593996,
-      "word": "警察用胸口为老人捂脚取暖",
-      "onboard_time": 1709027435,
-      "rank": 8,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 213090,
@@ -4883,6 +4931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205684,
+      "num": 205684,
+      "word": "陈伟霆开健身房的原因",
+      "onboard_time": 1709029956,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205673,
       "num": 205673,
       "word": "刘诗诗和Cate打招呼",
@@ -4916,7 +4972,7 @@
     },
     {
       "raw_hot": 204720,
-      "num": 204720,
+      "num": 209940,
       "word": "李杰翔被判无期徒刑",
       "onboard_time": 1709027912,
       "rank": 29,
@@ -5273,6 +5329,14 @@
       "onboard_time": 1708915533,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 191141,
+      "num": 191141,
+      "word": "香水喷法",
+      "onboard_time": 1709032291,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 190811,
@@ -5737,14 +5801,6 @@
       "onboard_time": 1708868853,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 179637,
-      "num": 179637,
-      "word": "苏炳添60米6秒66",
-      "onboard_time": 1709029773,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 179622,
@@ -6987,12 +7043,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132271,
+      "num": 132271,
+      "word": "于正让赵晴下部戏演女一号",
+      "onboard_time": 1709030793,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132177,
       "num": 132177,
       "word": "正月十六遛百病",
       "onboard_time": 1708829854,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131810,
+      "num": 131810,
+      "word": "王鹤棣西瓜梗",
+      "onboard_time": 1709032171,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 131779,
@@ -7041,14 +7113,6 @@
       "onboard_time": 1709026592,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 130887,
-      "num": 130887,
-      "word": "陈伟霆开健身房的原因",
-      "onboard_time": 1709029956,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 130470,
@@ -7185,6 +7249,14 @@
       "onboard_time": 1708894817,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122698,
+      "num": 122698,
+      "word": "博主评董宇辉清空微博对公司不负责",
+      "onboard_time": 1709032353,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 122637,
@@ -7451,6 +7523,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 105180,
+      "num": 105180,
+      "word": "高质量发展看新疆",
+      "onboard_time": 1709031154,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104030,
       "num": 449230,
       "word": "小米14Ultra欧洲定价近国内一倍",
@@ -7587,6 +7667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73493,
+      "num": 1244372,
+      "word": "我的网络成长故事",
+      "onboard_time": 1709028572,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73229,
       "num": 73229,
       "word": "杨幂能不能当我老板",
@@ -7713,14 +7801,6 @@
       "onboard_time": 1708966642,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 57077,
-      "num": 1069811,
-      "word": "我的网络成长故事",
-      "onboard_time": 1709028572,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 53476,

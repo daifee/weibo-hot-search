@@ -1,0 +1,410 @@
+{
+  "runTime": 1709032463082,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1436781,
+        "num": 1436781,
+        "word": "上海到北京仅需2.5小时",
+        "onboard_time": 1709025693,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1276146,
+        "num": 1276146,
+        "word": "全智贤被要求出示就业证明",
+        "onboard_time": 1709027612,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73493,
+        "num": 1244372,
+        "word": "我的网络成长故事",
+        "onboard_time": 1709028572,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1237625,
+        "num": 1237625,
+        "word": "李亚鹏直播哭穷",
+        "onboard_time": 1709029594,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1035551,
+        "num": 1035551,
+        "word": "美国共产主义者宣布成立政党",
+        "onboard_time": 1709027735,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 593093,
+        "num": 593093,
+        "word": "父母迷信偏方14岁男孩身高定格在160",
+        "onboard_time": 1709024375,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552703,
+        "num": 552703,
+        "word": "笑果艺人现状",
+        "onboard_time": 1709023472,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432736,
+        "num": 546475,
+        "word": "苏炳添60米6秒66",
+        "onboard_time": 1709029773,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216162,
+        "num": 545469,
+        "word": "警察用胸口为老人捂脚取暖",
+        "onboard_time": 1709027435,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 494755,
+        "num": 545181,
+        "word": "女生考研失败含泪阅读给自己的一封信",
+        "onboard_time": 1709020776,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 545169,
+        "num": 545169,
+        "word": "双体制意味着什么",
+        "onboard_time": 1709018374,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 541044,
+        "num": 541044,
+        "word": "日本去年新生婴儿75万人",
+        "onboard_time": 1709025994,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533845,
+        "num": 533845,
+        "word": "李宰旭承认恋情",
+        "onboard_time": 1709007695,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496515,
+        "num": 496515,
+        "word": "世界杯",
+        "onboard_time": 1709030613,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429712,
+        "num": 429712,
+        "word": "为什么最好禁止小孩去别人家过夜",
+        "onboard_time": 1709012853,
+        "rank": 14,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 396623,
+        "num": 396623,
+        "word": "韩彩英 教授肯定也不认识我",
+        "onboard_time": 1709031214,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343721,
+        "num": 343721,
+        "word": "彩礼不超3.9万子女可优先入学",
+        "onboard_time": 1709008182,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314528,
+        "num": 314528,
+        "word": "SM承认柳智敏恋情",
+        "onboard_time": 1709008057,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308933,
+        "num": 308933,
+        "word": "脑袋空空的人适合什么工作",
+        "onboard_time": 1709022511,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285493,
+        "num": 285493,
+        "word": "于正 炒作手段",
+        "onboard_time": 1709029055,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291299,
+        "num": 284311,
+        "word": "娃哈哈",
+        "onboard_time": 1709030913,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289853,
+        "num": 281605,
+        "word": "当我拒绝11K薪资后HR破防了",
+        "onboard_time": 1709014895,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261551,
+        "num": 261551,
+        "word": "起猛了在公司遇到男狐狸了",
+        "onboard_time": 1709030613,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256713,
+        "num": 256713,
+        "word": "有刘海的王玉雯",
+        "onboard_time": 1709027435,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246729,
+        "num": 246729,
+        "word": "体制内说话原来有这么多门道",
+        "onboard_time": 1709027256,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228363,
+        "num": 228363,
+        "word": "国家队资金净流入A股逾4100亿",
+        "onboard_time": 1709030854,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 223953,
+        "num": 223953,
+        "word": "吉赛尔ins",
+        "onboard_time": 1709013517,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216735,
+        "num": 216735,
+        "word": "烟火人家一人离婚全家上阵",
+        "onboard_time": 1709031272,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210150,
+        "num": 210150,
+        "word": "女子孕期打耳洞1年半后多俩小耳朵",
+        "onboard_time": 1709002293,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98937,
+        "num": 209940,
+        "word": "李杰翔被判无期徒刑",
+        "onboard_time": 1709027912,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209795,
+        "num": 209795,
+        "word": "阚清子回复王彦霖",
+        "onboard_time": 1709029113,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205684,
+        "num": 205684,
+        "word": "陈伟霆开健身房的原因",
+        "onboard_time": 1709029956,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191141,
+        "num": 191141,
+        "word": "香水喷法",
+        "onboard_time": 1709032291,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 177863,
+        "num": 177863,
+        "word": "怀疑对方AI换脸可以摁鼻子",
+        "onboard_time": 1709015732,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175565,
+        "num": 175565,
+        "word": "苏炳添复出首秀亚军",
+        "onboard_time": 1709029233,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165421,
+        "num": 165421,
+        "word": "以为是休息实则在耗气血的行为",
+        "onboard_time": 1709011596,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153099,
+        "num": 153099,
+        "word": "张娜拉43岁近照",
+        "onboard_time": 1709019153,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142033,
+        "num": 142033,
+        "word": "全员加速中回应",
+        "onboard_time": 1709018254,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140122,
+        "num": 140122,
+        "word": "作者道歉并承认秦岭隧道视频系拼接",
+        "onboard_time": 1709014592,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139594,
+        "num": 139594,
+        "word": "外国婆婆临走提出必须搓澡",
+        "onboard_time": 1709026654,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133591,
+        "num": 133591,
+        "word": "不推荐你吃方便面的原因只有2个",
+        "onboard_time": 1709019934,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132271,
+        "num": 132271,
+        "word": "于正让赵晴下部戏演女一号",
+        "onboard_time": 1709030793,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131810,
+        "num": 131810,
+        "word": "王鹤棣西瓜梗",
+        "onboard_time": 1709032171,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128531,
+        "num": 128531,
+        "word": "气血不足的人什么样",
+        "onboard_time": 1709020953,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127005,
+        "num": 127005,
+        "word": "无限暖暖过审",
+        "onboard_time": 1709022455,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122698,
+        "num": 122698,
+        "word": "博主评董宇辉清空微博对公司不负责",
+        "onboard_time": 1709032353,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120842,
+        "num": 120842,
+        "word": "华为发布全球首个5.5G智能核心网",
+        "onboard_time": 1709027735,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 111104,
+        "num": 111104,
+        "word": "大伯在群里催婚被老爸杀疯了",
+        "onboard_time": 1709017953,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105761,
+        "num": 105761,
+        "word": "钟楚曦换风格了",
+        "onboard_time": 1709021794,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105180,
+        "num": 105180,
+        "word": "高质量发展看新疆",
+        "onboard_time": 1709031154,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联网之光#"
+    }
+  }
+}
