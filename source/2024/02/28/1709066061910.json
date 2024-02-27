@@ -1,0 +1,410 @@
+{
+  "runTime": 1709066061910,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 112326,
+        "num": 112326,
+        "word": "台湾省",
+        "onboard_time": 1709033313,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88886,
+        "num": 88886,
+        "word": "27岁才意识到朋友都是阶段性的",
+        "onboard_time": 1709046395,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 7416,
+        "num": 60584,
+        "word": "中国空间站进入常态化运营模式",
+        "onboard_time": 1709038594,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44220,
+        "num": 44220,
+        "word": "鹿晗工作室已注册足球第一课商标",
+        "onboard_time": 1709054301,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37682,
+        "num": 37682,
+        "word": "母亲将唯一银镯打成首饰送2个女儿",
+        "onboard_time": 1709059576,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37360,
+        "num": 37360,
+        "word": "为何山姆穷鬼套餐让中产疯狂",
+        "onboard_time": 1709036376,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 36524,
+        "num": 36524,
+        "word": "张致恒儿子患自闭症",
+        "onboard_time": 1709043935,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35256,
+        "num": 35256,
+        "word": "喜欢了一个比自己大7岁的姐姐",
+        "onboard_time": 1709035533,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33901,
+        "num": 33901,
+        "word": "洗澡是最好的医美",
+        "onboard_time": 1709050828,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27533,
+        "num": 27533,
+        "word": "容易被癌细胞盯上的7个饮食习惯",
+        "onboard_time": 1709046337,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 66150,
+        "num": 27289,
+        "word": "李湘前夫李厚霖给李亚鹏直播打赏",
+        "onboard_time": 1709057059,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49803,
+        "num": 26964,
+        "word": "董宇辉不能既享受流量红利又逃避舆论",
+        "onboard_time": 1709039614,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 28602,
+        "num": 26814,
+        "word": "男子与智残女子结婚吃绝户卷走450万",
+        "onboard_time": 1709037154,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26490,
+        "num": 26490,
+        "word": "姜思达 中国的Miley",
+        "onboard_time": 1709041952,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 26209,
+        "num": 26209,
+        "word": "来自星星的你时期的全智贤",
+        "onboard_time": 1709065515,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24347,
+        "num": 24347,
+        "word": "唐嫣巴黎时装周",
+        "onboard_time": 1709039316,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 23438,
+        "num": 23438,
+        "word": "莫言被起诉闹剧何时休",
+        "onboard_time": 1709045494,
+        "rank": 16,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 22823,
+        "num": 22823,
+        "word": "韩国今年176所小学没招到新生",
+        "onboard_time": 1709055020,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20710,
+        "num": 22822,
+        "word": "贾跃亭造车已花超200亿元",
+        "onboard_time": 1709050468,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 19437,
+        "num": 22820,
+        "word": "小徐英语六级考了353分",
+        "onboard_time": 1709045255,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39713,
+        "num": 22820,
+        "word": "22岁女生长期熬夜患带状疱疹",
+        "onboard_time": 1709046696,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22820,
+        "num": 22819,
+        "word": "3岁男童喝路边饮料食道烧成针眼大",
+        "onboard_time": 1709045074,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22119,
+        "num": 22119,
+        "word": "为什么晚上睡觉嘴会发干",
+        "onboard_time": 1709053644,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19494,
+        "num": 19494,
+        "word": "阮经天好帅",
+        "onboard_time": 1709044537,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18401,
+        "num": 18401,
+        "word": "为何星巴克没那么火了",
+        "onboard_time": 1709044657,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 17936,
+        "num": 17936,
+        "word": "还以为孙千剪头发了",
+        "onboard_time": 1709049090,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17559,
+        "num": 17559,
+        "word": "降级式分手",
+        "onboard_time": 1709047476,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17525,
+        "num": 17525,
+        "word": "女子用一年完成相亲领证生子三连跳",
+        "onboard_time": 1709034995,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17183,
+        "num": 17183,
+        "word": "徐老太带货丝袜是在雷区蹦迪吗",
+        "onboard_time": 1709054361,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 14182,
+        "num": 16679,
+        "word": "暗中偷走气血那些事",
+        "onboard_time": 1709040936,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28129,
+        "num": 16672,
+        "word": "今日从TikTok平台下架歌曲的艺人",
+        "onboard_time": 1709040273,
+        "rank": 30,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 16605,
+        "num": 16605,
+        "word": "为什么最好禁止小孩去别人家过夜",
+        "onboard_time": 1709012853,
+        "rank": 31,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 15143,
+        "num": 15143,
+        "word": "金智秀世趋",
+        "onboard_time": 1709042853,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14325,
+        "num": 14325,
+        "word": "成毅新剧雪中路透",
+        "onboard_time": 1709059156,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14111,
+        "num": 14111,
+        "word": "极氪001价格",
+        "onboard_time": 1709041174,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 14069,
+        "num": 14069,
+        "word": "贵州全面清理拖欠企业账款",
+        "onboard_time": 1709044117,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13650,
+        "num": 13650,
+        "word": "女生行李箱装满AD钙奶被安检拦下",
+        "onboard_time": 1709032711,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13484,
+        "num": 13484,
+        "word": "上海到北京仅需2.5小时",
+        "onboard_time": 1709025693,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13459,
+        "num": 13459,
+        "word": "卖老房了老邻居给我妈的信",
+        "onboard_time": 1709063656,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13101,
+        "num": 13101,
+        "word": "每个男生都有属于自己的头绳",
+        "onboard_time": 1709060297,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12636,
+        "num": 12636,
+        "word": "夏之光跳舞",
+        "onboard_time": 1709044716,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12522,
+        "num": 12522,
+        "word": "周处除三害尺度",
+        "onboard_time": 1709062456,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12388,
+        "num": 12388,
+        "word": "金智秀双马尾",
+        "onboard_time": 1709043754,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12363,
+        "num": 12363,
+        "word": "这么癫的笔袋可太适合我了",
+        "onboard_time": 1709043456,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11983,
+        "num": 11983,
+        "word": "王一博从前有很多话分享",
+        "onboard_time": 1709044537,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11971,
+        "num": 11971,
+        "word": "网友向王鹤棣道歉",
+        "onboard_time": 1709034572,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11910,
+        "num": 11910,
+        "word": "我占有欲的表现 冷眼旁观",
+        "onboard_time": 1709055979,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11538,
+        "num": 11538,
+        "word": "李宰旭承认恋情",
+        "onboard_time": 1709007695,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11507,
+        "num": 11507,
+        "word": "地铁小姐姐连摔两跤滑跪按下急停按钮",
+        "onboard_time": 1709062155,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 11458,
+        "num": 11458,
+        "word": "韩娱有自己的偷偷藏不住",
+        "onboard_time": 1709037754,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视网络安全工作#"
+    }
+  }
+}
