@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1709050946453,
+  "endTime": 1709051817189,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -66763,6 +66763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119853,
+      "num": 119853,
+      "word": "土豆片炒馒头",
+      "onboard_time": 1709048072,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 119777,
       "num": 119777,
       "word": "中式梦核",
@@ -67241,14 +67249,6 @@
       "onboard_time": 1708471345,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 117468,
-      "num": 117468,
-      "word": "土豆片炒馒头",
-      "onboard_time": 1709048072,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 117457,
@@ -68467,6 +68467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110749,
+      "num": 110749,
+      "word": "贾跃亭造车已花超200亿元",
+      "onboard_time": 1709050468,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 110738,
       "num": 110738,
       "word": "于根伟中国金帅奖",
@@ -69105,6 +69113,14 @@
       "onboard_time": 1707606624,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106837,
+      "num": 106837,
+      "word": "洗澡是最好的医美",
+      "onboard_time": 1709050828,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 106791,
@@ -69961,14 +69977,6 @@
       "onboard_time": 1706882795,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 98242,
-      "num": 98242,
-      "word": "贾跃亭造车已花超200亿元",
-      "onboard_time": 1709050468,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 98071,
@@ -72505,14 +72513,6 @@
       "onboard_time": 1708423355,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56307,
-      "num": 77776,
-      "word": "洗澡是最好的医美",
-      "onboard_time": 1709050828,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 56244,
