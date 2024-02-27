@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709072264384,
+  "endTime": 1709073231848,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -8347,6 +8347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86235,
+      "num": 86235,
+      "word": "母亲将唯一银镯打成首饰送2个女儿",
+      "onboard_time": 1709059576,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85387,
       "num": 74519,
       "word": "亲戚 张雪峰像个侠客",
@@ -8361,6 +8369,14 @@
       "onboard_time": 1708903285,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81507,
+      "num": 51035,
+      "word": "男子将6元凉菜拼盘堆成金字塔",
+      "onboard_time": 1709067376,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80586,
@@ -8507,22 +8523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66832,
-      "num": 66832,
-      "word": "母亲将唯一银镯打成首饰送2个女儿",
-      "onboard_time": 1709059576,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66548,
-      "num": 38793,
-      "word": "男子将6元凉菜拼盘堆成金字塔",
-      "onboard_time": 1709067376,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66373,
       "num": 1337130,
       "word": "京津冀十年同心向未来",
@@ -8659,6 +8659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46440,
+      "num": 46440,
+      "word": "地铁小姐姐连摔两跤滑跪按下急停按钮",
+      "onboard_time": 1709062155,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 45384,
       "num": 45384,
       "word": "田曦薇柿柿如意古装",
@@ -8676,7 +8684,7 @@
     },
     {
       "raw_hot": 41702,
-      "num": 30275,
+      "num": 38072,
       "word": "龙年二月初二夜空有龙抬头",
       "onboard_time": 1709068996,
       "rank": 36,
@@ -8729,14 +8737,6 @@
       "onboard_time": 1708979355,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30007,
-      "num": 30007,
-      "word": "地铁小姐姐连摔两跤滑跪按下急停按钮",
-      "onboard_time": 1709062155,
-      "rank": 48,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 27936,
@@ -8795,6 +8795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 22557,
+      "num": 22557,
+      "word": "成毅新剧雪中路透",
+      "onboard_time": 1709059156,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22455,
       "num": 22455,
       "word": "江苏卫视元宵晚会",
@@ -8827,12 +8835,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 18203,
-      "num": 18203,
-      "word": "成毅新剧雪中路透",
-      "onboard_time": 1709059156,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 19801,
+      "num": 19801,
+      "word": "我迟迟不翻开书的原因",
+      "onboard_time": 1709071097,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 17342,
@@ -8841,6 +8849,14 @@
       "onboard_time": 1708980915,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 17310,
+      "num": 17310,
+      "word": "卖老房了老邻居给我妈的信",
+      "onboard_time": 1709063656,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 17236,
@@ -8859,20 +8875,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15139,
-      "num": 15139,
-      "word": "卖老房了老邻居给我妈的信",
-      "onboard_time": 1709063656,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 14605,
-      "num": 14605,
-      "word": "我迟迟不翻开书的原因",
-      "onboard_time": 1709071097,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 16420,
+      "num": 17306,
+      "word": "周处除三害尺度",
+      "onboard_time": 1709062456,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 14599,
@@ -8881,14 +8889,6 @@
       "onboard_time": 1709060297,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 14092,
-      "num": 14092,
-      "word": "周处除三害尺度",
-      "onboard_time": 1709062456,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 12339,
