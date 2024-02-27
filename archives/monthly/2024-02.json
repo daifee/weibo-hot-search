@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1709066061910,
+  "endTime": 1709068485549,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -74131,6 +74131,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 31401,
+      "num": 28621,
+      "word": "来自星星的你时期的全智贤",
+      "onboard_time": 1709065515,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31158,
       "num": 40557,
       "word": "张艺兴lauv官宣合作",
@@ -74393,14 +74401,6 @@
       "onboard_time": 1706904137,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 26209,
-      "num": 26209,
-      "word": "来自星星的你时期的全智贤",
-      "onboard_time": 1709065515,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 26136,
@@ -74955,6 +74955,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 17893,
+      "num": 17893,
+      "word": "地铁小姐姐连摔两跤滑跪按下急停按钮",
+      "onboard_time": 1709062155,
+      "rank": 48,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 17802,
+      "num": 17802,
+      "word": "男子将6元凉菜拼盘堆成金字塔",
+      "onboard_time": 1709067376,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17729,
       "num": 17729,
       "word": "湖北高速暴雪互助",
@@ -75243,6 +75259,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 15139,
+      "num": 15139,
+      "word": "卖老房了老邻居给我妈的信",
+      "onboard_time": 1709063656,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 14832,
       "num": 19456,
       "word": "约旦晋级亚洲杯四强",
@@ -75369,14 +75393,6 @@
       "onboard_time": 1707855255,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 13459,
-      "num": 13459,
-      "word": "卖老房了老邻居给我妈的信",
-      "onboard_time": 1709063656,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 13439,
@@ -75577,14 +75593,6 @@
       "onboard_time": 1708286236,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 11507,
-      "num": 11507,
-      "word": "地铁小姐姐连摔两跤滑跪按下急停按钮",
-      "onboard_time": 1709062155,
-      "rank": 48,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 11410,
