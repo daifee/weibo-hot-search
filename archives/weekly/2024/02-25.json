@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709019236699,
+  "endTime": 1709022047072,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -233,6 +233,14 @@
       "onboard_time": 1708904907,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1972811,
+      "num": 1972811,
+      "word": "双体制意味着什么",
+      "onboard_time": 1709018374,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 1945759,
@@ -1323,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 716593,
+      "num": 716593,
+      "word": "女生考研失败含泪阅读给自己的一封信",
+      "onboard_time": 1709020776,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 706778,
       "num": 706778,
       "word": "王安宇登门拜访姐夫了吗",
@@ -1385,6 +1401,14 @@
       "onboard_time": 1708990525,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 692455,
+      "num": 692455,
+      "word": "张娜拉43岁近照",
+      "onboard_time": 1709019153,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 685626,
@@ -2243,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474496,
+      "num": 474496,
+      "word": "全员加速中回应",
+      "onboard_time": 1709018254,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471650,
       "num": 471650,
       "word": "Aespa回归时间",
@@ -2596,7 +2628,7 @@
     },
     {
       "raw_hot": 404720,
-      "num": 204215,
+      "num": 298246,
       "word": "大伯在群里催婚被老爸杀疯了",
       "onboard_time": 1709017953,
       "rank": 32,
@@ -2617,6 +2649,14 @@
       "onboard_time": 1708869937,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 400994,
+      "num": 400994,
+      "word": "钟楚曦换风格了",
+      "onboard_time": 1709021794,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 400593,
@@ -2689,14 +2729,6 @@
       "onboard_time": 1708855117,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 387451,
-      "num": 387451,
-      "word": "全员加速中回应",
-      "onboard_time": 1709018254,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 385643,
@@ -2931,14 +2963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350117,
-      "num": 350117,
-      "word": "双体制意味着什么",
-      "onboard_time": 1709018374,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 349841,
       "num": 348935,
       "word": "迪丽热巴活动憋笑",
@@ -3003,14 +3027,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 335834,
-      "num": 335834,
-      "word": "张娜拉43岁近照",
-      "onboard_time": 1709019153,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 334821,
       "num": 310386,
       "word": "宗庆后一年花费不到5万",
@@ -3025,6 +3041,14 @@
       "onboard_time": 1709011596,
       "rank": 18,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 329517,
+      "num": 298225,
+      "word": "不推荐你吃方便面的原因只有2个",
+      "onboard_time": 1709019934,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 329148,
@@ -3331,6 +3355,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 297619,
+      "num": 297619,
+      "word": "于正给赵晴P图",
+      "onboard_time": 1709021974,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296833,
       "num": 296833,
       "word": "南京此次火灾为何伤亡严重",
@@ -3472,6 +3504,14 @@
       "word": "景区演员道具刀没了于是开始真演",
       "onboard_time": 1708893674,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281868,
+      "num": 281868,
+      "word": "许家印前妻向许腾鹤追讨逾10亿港元",
+      "onboard_time": 1709021494,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -4187,6 +4227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228579,
+      "num": 228579,
+      "word": "气血不足的人什么样",
+      "onboard_time": 1709020953,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 228209,
       "num": 228209,
       "word": "为什么洗草莓会掉色",
@@ -4201,6 +4249,14 @@
       "onboard_time": 1708924238,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226727,
+      "num": 226727,
+      "word": "博主回应穿搭恶心被领导谈话",
+      "onboard_time": 1709021375,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226714,
@@ -4417,6 +4473,14 @@
       "onboard_time": 1708999835,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215265,
+      "num": 215265,
+      "word": "美英联手8国发表声明支持6G原则",
+      "onboard_time": 1709019695,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 214857,
@@ -5299,6 +5363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184333,
+      "num": 184333,
+      "word": "瞎书妈妈发声",
+      "onboard_time": 1709020895,
+      "rank": 36,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 184211,
       "num": 184211,
       "word": "日本核污水排放入海已满半年",
@@ -5491,6 +5563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177773,
+      "num": 177773,
+      "word": "111款国产游戏获批",
+      "onboard_time": 1709021852,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177149,
       "num": 177149,
       "word": "头发梳对了有助于改善发量",
@@ -5625,6 +5705,14 @@
       "onboard_time": 1709017173,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171950,
+      "num": 171950,
+      "word": "当你花十块向佛求100w",
+      "onboard_time": 1709021614,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 171040,
@@ -5841,6 +5929,14 @@
       "onboard_time": 1708996834,
       "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 162860,
+      "num": 162860,
+      "word": "大学生抢不到车票报旅游团返校",
+      "onboard_time": 1709018193,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162803,
@@ -6283,14 +6379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144174,
-      "num": 144174,
-      "word": "大学生抢不到车票报旅游团返校",
-      "onboard_time": 1709018193,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143970,
       "num": 143970,
       "word": "A股",
@@ -6595,6 +6683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132464,
+      "num": 132464,
+      "word": "大学生是懂如何做简历的",
+      "onboard_time": 1709021252,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132177,
       "num": 132177,
       "word": "正月十六遛百病",
@@ -6697,6 +6793,14 @@
       "onboard_time": 1708815980,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 126177,
+      "num": 126177,
+      "word": "欧文一代丑评如潮",
+      "onboard_time": 1709019752,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 126034,
@@ -6977,6 +7081,14 @@
       "onboard_time": 1709010640,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105199,
+      "num": 192453,
+      "word": "巴展成中国硬核科技主场",
+      "onboard_time": 1709021074,
+      "rank": 34,
+      "category": "互联网"
     },
     {
       "raw_hot": 104030,

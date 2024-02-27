@@ -1,0 +1,410 @@
+{
+  "runTime": 1709022047072,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1972811,
+        "num": 1972811,
+        "word": "双体制意味着什么",
+        "onboard_time": 1709018374,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1277374,
+        "num": 1277374,
+        "word": "作者道歉并承认秦岭隧道视频系拼接",
+        "onboard_time": 1709014592,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69697,
+        "num": 1064029,
+        "word": "中国航天今年预计完成100次发射任务",
+        "onboard_time": 1709010640,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924778,
+        "num": 924778,
+        "word": "彩礼不超3.9万子女可优先入学",
+        "onboard_time": 1709008182,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818295,
+        "num": 818295,
+        "word": "为什么最好禁止小孩去别人家过夜",
+        "onboard_time": 1709012853,
+        "rank": 4,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 716593,
+        "num": 716593,
+        "word": "女生考研失败含泪阅读给自己的一封信",
+        "onboard_time": 1709020776,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 707049,
+        "num": 707049,
+        "word": "唐艺昕说恋爱中先道歉的人赢了",
+        "onboard_time": 1709015732,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 706721,
+        "num": 706721,
+        "word": "吉赛尔ins",
+        "onboard_time": 1709013517,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 692455,
+        "num": 692455,
+        "word": "张娜拉43岁近照",
+        "onboard_time": 1709019153,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576075,
+        "num": 576075,
+        "word": "怀疑对方AI换脸可以摁鼻子",
+        "onboard_time": 1709015732,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1115339,
+        "num": 531307,
+        "word": "李宰旭承认恋情",
+        "onboard_time": 1709007695,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586030,
+        "num": 530757,
+        "word": "SM承认柳智敏恋情",
+        "onboard_time": 1709008057,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480204,
+        "num": 480204,
+        "word": "为什么中国人存钱越来越多",
+        "onboard_time": 1709013455,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 474496,
+        "num": 474496,
+        "word": "全员加速中回应",
+        "onboard_time": 1709018254,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402209,
+        "num": 402209,
+        "word": "以为是休息实则在耗气血的行为",
+        "onboard_time": 1709011596,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 400994,
+        "num": 400994,
+        "word": "钟楚曦换风格了",
+        "onboard_time": 1709021794,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365638,
+        "num": 365638,
+        "word": "石家庄巨响",
+        "onboard_time": 1709017173,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353779,
+        "num": 353779,
+        "word": "Prada玄学",
+        "onboard_time": 1709003970,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 322064,
+        "num": 322064,
+        "word": "韩国总统称绝不就医疗改革问题谈判和妥协",
+        "onboard_time": 1709015496,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298653,
+        "num": 298653,
+        "word": "夏克立称黄嘉千设计抹黑自己",
+        "onboard_time": 1709017832,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438027,
+        "num": 298368,
+        "word": "当我拒绝11K薪资后HR破防了",
+        "onboard_time": 1709014895,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 341107,
+        "num": 298246,
+        "word": "大伯在群里催婚被老爸杀疯了",
+        "onboard_time": 1709017953,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329517,
+        "num": 298225,
+        "word": "不推荐你吃方便面的原因只有2个",
+        "onboard_time": 1709019934,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 297619,
+        "num": 297619,
+        "word": "于正给赵晴P图",
+        "onboard_time": 1709021974,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281868,
+        "num": 281868,
+        "word": "许家印前妻向许腾鹤追讨逾10亿港元",
+        "onboard_time": 1709021494,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270639,
+        "num": 270639,
+        "word": "自焚美国军人临终遗言公开",
+        "onboard_time": 1709013874,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267430,
+        "num": 267430,
+        "word": "女子孕期打耳洞1年半后多俩小耳朵",
+        "onboard_time": 1709002293,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228579,
+        "num": 228579,
+        "word": "气血不足的人什么样",
+        "onboard_time": 1709020953,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226727,
+        "num": 226727,
+        "word": "博主回应穿搭恶心被领导谈话",
+        "onboard_time": 1709021375,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141227,
+        "num": 218819,
+        "word": "孙颖莎樊振东再度领跑世界排名",
+        "onboard_time": 1709017173,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215265,
+        "num": 215265,
+        "word": "美英联手8国发表声明支持6G原则",
+        "onboard_time": 1709019695,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 210634,
+        "num": 210634,
+        "word": "英语四六级424是什么含金量",
+        "onboard_time": 1709010582,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193577,
+        "num": 193577,
+        "word": "突然懂了YG公关的好",
+        "onboard_time": 1709009022,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192545,
+        "num": 192545,
+        "word": "南波万229预告",
+        "onboard_time": 1709017355,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105199,
+        "num": 192453,
+        "word": "巴展成中国硬核科技主场",
+        "onboard_time": 1709021074,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192453,
+        "num": 192452,
+        "word": "韩国护士将填补辞职医生的空白",
+        "onboard_time": 1709015074,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184333,
+        "num": 184333,
+        "word": "瞎书妈妈发声",
+        "onboard_time": 1709020895,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 177773,
+        "num": 177773,
+        "word": "111款国产游戏获批",
+        "onboard_time": 1709021852,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173973,
+        "num": 173973,
+        "word": "王自如被强制执行3383万",
+        "onboard_time": 1709012738,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 171950,
+        "num": 171950,
+        "word": "当你花十块向佛求100w",
+        "onboard_time": 1709021614,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162860,
+        "num": 162860,
+        "word": "大学生抢不到车票报旅游团返校",
+        "onboard_time": 1709018193,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145566,
+        "num": 145566,
+        "word": "范志毅认证鹿晗内娱最佳球员",
+        "onboard_time": 1709007033,
+        "rank": 41,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 140465,
+        "num": 140465,
+        "word": "别对我动心",
+        "onboard_time": 1709020593,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138371,
+        "num": 138371,
+        "word": "利率一低再低存款却越来越多",
+        "onboard_time": 1709017052,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132464,
+        "num": 132464,
+        "word": "大学生是懂如何做简历的",
+        "onboard_time": 1709021252,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128110,
+        "num": 128110,
+        "word": "买沙发嫌贵被路人阿姨点醒了",
+        "onboard_time": 1709015854,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126177,
+        "num": 126177,
+        "word": "欧文一代丑评如潮",
+        "onboard_time": 1709019752,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 125812,
+        "num": 125812,
+        "word": "李衣锦爸妈离婚",
+        "onboard_time": 1709017593,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120988,
+        "num": 120988,
+        "word": "我丢了个包里面全是黄金",
+        "onboard_time": 1709008298,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114939,
+        "num": 114939,
+        "word": "男子1个月发烧3次感染两种要命寄生虫",
+        "onboard_time": 1709014236,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联网之光#"
+    }
+  }
+}
