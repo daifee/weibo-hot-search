@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709068485549,
+  "endTime": 1709069640871,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -8715,6 +8715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28267,
+      "num": 28267,
+      "word": "男子将6元凉菜拼盘堆成金字塔",
+      "onboard_time": 1709067376,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27936,
       "num": 27936,
       "word": "你好星期六",
@@ -8803,20 +8811,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 17893,
-      "num": 17893,
+      "raw_hot": 19652,
+      "num": 19652,
       "word": "地铁小姐姐连摔两跤滑跪按下急停按钮",
       "onboard_time": 1709062155,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 17802,
-      "num": 17802,
-      "word": "男子将6元凉菜拼盘堆成金字塔",
-      "onboard_time": 1709067376,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17342,
@@ -8873,6 +8873,14 @@
       "onboard_time": 1709062456,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 14061,
+      "num": 14061,
+      "word": "龙年二月初二夜空有龙抬头",
+      "onboard_time": 1709068996,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12339,
