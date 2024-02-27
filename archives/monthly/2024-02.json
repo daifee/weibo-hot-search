@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1709036988650,
+  "endTime": 1709037899637,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -6699,6 +6699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1106185,
+      "num": 1106185,
+      "word": "因为出圈被骂到永久停办",
+      "onboard_time": 1709032590,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1106119,
       "num": 1106119,
       "word": "周杰伦 我只看我想看的",
@@ -7497,6 +7505,14 @@
       "onboard_time": 1707126454,
       "rank": 10,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1029686,
+      "num": 461572,
+      "word": "为何山姆穷鬼套餐让中产疯狂",
+      "onboard_time": 1709036376,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 1027948,
@@ -9001,14 +9017,6 @@
       "onboard_time": 1708424141,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 898197,
-      "num": 898197,
-      "word": "因为出圈被骂到永久停办",
-      "onboard_time": 1709032590,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 897801,
@@ -16723,6 +16731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 570546,
+      "num": 570546,
+      "word": "女子买无座票坐卧铺袭警被刑拘",
+      "onboard_time": 1709033492,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 569443,
       "num": 569443,
       "word": "王家卫连胡歌宣传期穿什么衣服都管",
@@ -16889,6 +16905,14 @@
       "onboard_time": 1708414118,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 563111,
+      "num": 451869,
+      "word": "男子与智残女子结婚吃绝户卷走450万",
+      "onboard_time": 1709037154,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562939,
@@ -18579,6 +18603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 519834,
+      "num": 454701,
+      "word": "李宰旭说愿意和柳智敏旅行",
+      "onboard_time": 1709035955,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 519723,
       "num": 485738,
       "word": "夏之光 看哪位要我这只狗",
@@ -19001,14 +19033,6 @@
       "onboard_time": 1708336306,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 509511,
-      "num": 509511,
-      "word": "女子买无座票坐卧铺袭警被刑拘",
-      "onboard_time": 1709033492,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 509315,
@@ -21187,14 +21211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 456113,
-      "num": 456113,
-      "word": "为何山姆穷鬼套餐让中产疯狂",
-      "onboard_time": 1709036376,
-      "rank": 11,
-      "category": "美食"
-    },
-    {
       "raw_hot": 456107,
       "num": 456107,
       "word": "贾玲健身细节首次曝光",
@@ -21256,14 +21272,6 @@
       "word": "泰国偶遇钟楚曦侯雯元逛街",
       "onboard_time": 1707886472,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 454701,
-      "num": 454701,
-      "word": "李宰旭说愿意和柳智敏旅行",
-      "onboard_time": 1709035955,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -21905,6 +21913,14 @@
       "onboard_time": 1707051334,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 438786,
+      "num": 438786,
+      "word": "时代峰峻否认严浩翔打赏女主播",
+      "onboard_time": 1709036494,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 438648,
@@ -23683,6 +23699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406376,
+      "num": 406376,
+      "word": "紫川",
+      "onboard_time": 1709033191,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 406227,
       "num": 406227,
       "word": "杨丽萍 真孔雀",
@@ -23841,14 +23865,6 @@
       "onboard_time": 1707569319,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 403961,
-      "num": 403961,
-      "word": "紫川",
-      "onboard_time": 1709033191,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 403745,
@@ -25379,6 +25395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375641,
+      "num": 375641,
+      "word": "泉州两车相撞致一女子身亡",
+      "onboard_time": 1709033673,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375631,
       "num": 351517,
       "word": "詹姆斯点赞女主播辣照",
@@ -25512,6 +25536,14 @@
       "word": "初四",
       "onboard_time": 1707783750,
       "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 373589,
+      "num": 373589,
+      "word": "喜欢了一个比自己大7岁的姐姐",
+      "onboard_time": 1709035533,
+      "rank": 21,
       "category": "情感"
     },
     {
@@ -25697,6 +25729,14 @@
       "onboard_time": 1708562911,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 370738,
+      "num": 370738,
+      "word": "极氪001",
+      "onboard_time": 1709034756,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 370577,
@@ -26459,14 +26499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 359654,
-      "num": 359654,
-      "word": "极氪001",
-      "onboard_time": 1709034756,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 359347,
       "num": 359347,
       "word": "唐嫣新发色",
@@ -26505,14 +26537,6 @@
       "onboard_time": 1708241374,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 358926,
-      "num": 307523,
-      "word": "喜欢了一个比自己大7岁的姐姐",
-      "onboard_time": 1709035533,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 358560,
@@ -27843,14 +27867,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 336328,
-      "num": 336328,
-      "word": "时代峰峻否认严浩翔打赏女主播",
-      "onboard_time": 1709036494,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 335827,
       "num": 188299,
       "word": "肖战声线感染力",
@@ -28449,6 +28465,14 @@
       "onboard_time": 1708077868,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 326344,
+      "num": 346313,
+      "word": "张雪峰谈2024热门专业",
+      "onboard_time": 1709036077,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 326098,
@@ -29555,14 +29579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 312342,
-      "num": 312342,
-      "word": "泉州两车相撞致一女子身亡",
-      "onboard_time": 1709033673,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312208,
       "num": 312208,
       "word": "库里60分",
@@ -30193,6 +30209,14 @@
       "onboard_time": 1708779759,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 304982,
+      "num": 304982,
+      "word": "女子用一年完成相亲领证生子三连跳",
+      "onboard_time": 1709034995,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304981,
@@ -32363,6 +32387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282174,
+      "num": 282174,
+      "word": "韩娱有自己的偷偷藏不住",
+      "onboard_time": 1709037754,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282169,
       "num": 282169,
       "word": "LNG战胜WBG",
@@ -33241,6 +33273,14 @@
       "onboard_time": 1707732154,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 274723,
+      "num": 274723,
+      "word": "紫川空降",
+      "onboard_time": 1709037339,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 274661,
@@ -35619,14 +35659,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 253400,
-      "num": 253400,
-      "word": "女子用一年完成相亲领证生子三连跳",
-      "onboard_time": 1709034995,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253379,
       "num": 226428,
       "word": "贾丹贾玲姐妹情",
@@ -37123,6 +37155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 242371,
+      "num": 242371,
+      "word": "欧洲人疯狂追捧中国汽车",
+      "onboard_time": 1709035533,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 242318,
       "num": 242318,
       "word": "春节社交潜规则",
@@ -37361,14 +37401,6 @@
       "onboard_time": 1707196894,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240902,
-      "num": 240902,
-      "word": "欧洲人疯狂追捧中国汽车",
-      "onboard_time": 1709035533,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 240845,
@@ -56755,14 +56787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157481,
-      "num": 307878,
-      "word": "张雪峰谈2024热门专业",
-      "onboard_time": 1709036077,
-      "rank": 20,
-      "category": "教育"
-    },
-    {
       "raw_hot": 157473,
       "num": 157473,
       "word": "苹果AppStore再现假冒钱包应用",
@@ -65961,6 +65985,14 @@
       "onboard_time": 1708075952,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121357,
+      "num": 121357,
+      "word": "玲娜酱首次出来营业",
+      "onboard_time": 1709037576,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 121316,
