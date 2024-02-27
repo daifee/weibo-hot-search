@@ -1,0 +1,410 @@
+{
+  "runTime": 1709025473498,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4392282,
+        "num": 4392282,
+        "word": "秦刚辞去全国人大代表职务",
+        "onboard_time": 1709024670,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1423441,
+        "num": 1423441,
+        "word": "双体制意味着什么",
+        "onboard_time": 1709018374,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29719,
+        "num": 1036947,
+        "word": "中华文化学习笔记",
+        "onboard_time": 1709010161,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 967923,
+        "num": 967923,
+        "word": "笑果艺人现状",
+        "onboard_time": 1709023472,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 921073,
+        "num": 921073,
+        "word": "女生考研失败含泪阅读给自己的一封信",
+        "onboard_time": 1709020776,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 665265,
+        "num": 665265,
+        "word": "作者道歉并承认秦岭隧道视频系拼接",
+        "onboard_time": 1709014592,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624310,
+        "num": 624310,
+        "word": "钟楚曦换风格了",
+        "onboard_time": 1709021794,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 586657,
+        "num": 586657,
+        "word": "为什么最好禁止小孩去别人家过夜",
+        "onboard_time": 1709012853,
+        "rank": 7,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 584930,
+        "num": 584930,
+        "word": "无限暖暖过审",
+        "onboard_time": 1709022455,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 523404,
+        "num": 523404,
+        "word": "彩礼不超3.9万子女可优先入学",
+        "onboard_time": 1709008182,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866311,
+        "num": 523354,
+        "word": "李宰旭承认恋情",
+        "onboard_time": 1709007695,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503613,
+        "num": 503613,
+        "word": "许家印前妻向许腾鹤追讨逾10亿港元",
+        "onboard_time": 1709021494,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484263,
+        "num": 484263,
+        "word": "张娜拉43岁近照",
+        "onboard_time": 1709019153,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465675,
+        "num": 465675,
+        "word": "SM承认柳智敏恋情",
+        "onboard_time": 1709008057,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386000,
+        "num": 386000,
+        "word": "吉赛尔ins",
+        "onboard_time": 1709013517,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370978,
+        "num": 370978,
+        "word": "以为是休息实则在耗气血的行为",
+        "onboard_time": 1709011596,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 367881,
+        "num": 367881,
+        "word": "周也可0可1是林一",
+        "onboard_time": 1709023536,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329947,
+        "num": 329947,
+        "word": "黑神话悟空获批",
+        "onboard_time": 1709023294,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 328706,
+        "num": 328706,
+        "word": "于正给赵晴P图",
+        "onboard_time": 1709021974,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299305,
+        "num": 299305,
+        "word": "为什么中国人存钱越来越多",
+        "onboard_time": 1709013455,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 348095,
+        "num": 295688,
+        "word": "当我拒绝11K薪资后HR破防了",
+        "onboard_time": 1709014895,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344863,
+        "num": 294007,
+        "word": "父母迷信偏方14岁男孩身高定格在160",
+        "onboard_time": 1709024375,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288892,
+        "num": 288892,
+        "word": "怀疑对方AI换脸可以摁鼻子",
+        "onboard_time": 1709015732,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282261,
+        "num": 282261,
+        "word": "不推荐你吃方便面的原因只有2个",
+        "onboard_time": 1709019934,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 277056,
+        "num": 277056,
+        "word": "脑袋空空的人适合什么工作",
+        "onboard_time": 1709022511,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255926,
+        "num": 255926,
+        "word": "唐艺昕说恋爱中先道歉的人赢了",
+        "onboard_time": 1709015732,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255068,
+        "num": 255068,
+        "word": "Prada玄学",
+        "onboard_time": 1709003970,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 253067,
+        "num": 253067,
+        "word": "气血不足的人什么样",
+        "onboard_time": 1709020953,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246411,
+        "num": 246411,
+        "word": "考研结果重要还是经历重要",
+        "onboard_time": 1709024974,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135241,
+        "num": 244122,
+        "word": "慰安妇制度受害者刘年珍离世",
+        "onboard_time": 1709023055,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242943,
+        "num": 242943,
+        "word": "韩国总统称医生罢工以人命为要挟",
+        "onboard_time": 1709024253,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 229115,
+        "num": 229115,
+        "word": "全员加速中回应",
+        "onboard_time": 1709018254,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194266,
+        "num": 194266,
+        "word": "女子孕期打耳洞1年半后多俩小耳朵",
+        "onboard_time": 1709002293,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186089,
+        "num": 186089,
+        "word": "中方回应英伟达将华为列为竞争对手",
+        "onboard_time": 1709023174,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185994,
+        "num": 185994,
+        "word": "大伯在群里催婚被老爸杀疯了",
+        "onboard_time": 1709017953,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177573,
+        "num": 177573,
+        "word": "博主回应穿搭恶心被领导谈话",
+        "onboard_time": 1709021375,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154848,
+        "num": 154848,
+        "word": "当你花十块向佛求100w",
+        "onboard_time": 1709021614,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154689,
+        "num": 154689,
+        "word": "这就是我上班不敢请假的原因",
+        "onboard_time": 1709023414,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135060,
+        "num": 135060,
+        "word": "英语四六级424是什么含金量",
+        "onboard_time": 1709010582,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132541,
+        "num": 132541,
+        "word": "美英联手8国发表声明支持6G原则",
+        "onboard_time": 1709019695,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125610,
+        "num": 125610,
+        "word": "不小心变成法院贫困户并被全院资助",
+        "onboard_time": 1709025214,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125055,
+        "num": 125055,
+        "word": "张小彦吵架吵出心机了",
+        "onboard_time": 1709022752,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122178,
+        "num": 122178,
+        "word": "瞎书妈妈发声",
+        "onboard_time": 1709020895,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 118141,
+        "num": 118141,
+        "word": "当我看到公司新来的毕业生",
+        "onboard_time": 1709024852,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117415,
+        "num": 117415,
+        "word": "Ale说Tarzan不可能回LNG",
+        "onboard_time": 1709022393,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113843,
+        "num": 113843,
+        "word": "突然懂了YG公关的好",
+        "onboard_time": 1709009022,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112830,
+        "num": 112830,
+        "word": "游戏版号",
+        "onboard_time": 1709022632,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108483,
+        "num": 108483,
+        "word": "范志毅认证鹿晗内娱最佳球员",
+        "onboard_time": 1709007033,
+        "rank": 47,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 107760,
+        "num": 107760,
+        "word": "自焚美国军人临终遗言公开",
+        "onboard_time": 1709013874,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101902,
+        "num": 101902,
+        "word": "实际上行程很忙不影响谈恋爱",
+        "onboard_time": 1709025457,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}

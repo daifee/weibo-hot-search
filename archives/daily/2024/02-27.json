@@ -1,6 +1,6 @@
 {
   "startTime": 1708964501350,
-  "endTime": 1709022863593,
+  "endTime": 1709025473498,
   "band_list": [
     {
       "raw_hot": 8120231,
@@ -9,6 +9,14 @@
       "onboard_time": 1709007695,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 4392282,
+      "num": 4392282,
+      "word": "秦刚辞去全国人大代表职务",
+      "onboard_time": 1709024670,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 4051630,
@@ -176,6 +184,14 @@
       "word": "陈乔恩过年胖了快5公斤",
       "onboard_time": 1708997012,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 967923,
+      "num": 967923,
+      "word": "笑果艺人现状",
+      "onboard_time": 1709023472,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -401,6 +417,14 @@
       "onboard_time": 1709010582,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 584930,
+      "num": 584930,
+      "word": "无限暖暖过审",
+      "onboard_time": 1709022455,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 572577,
@@ -691,6 +715,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 367881,
+      "num": 367881,
+      "word": "周也可0可1是林一",
+      "onboard_time": 1709023536,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366637,
       "num": 347797,
       "word": "女校长回应百人群发不雅视频",
@@ -747,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344863,
+      "num": 294007,
+      "word": "父母迷信偏方14岁男孩身高定格在160",
+      "onboard_time": 1709024375,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338165,
       "num": 322809,
       "word": "不推荐你吃方便面的原因只有2个",
@@ -761,6 +801,14 @@
       "onboard_time": 1709011596,
       "rank": 18,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 329947,
+      "num": 329947,
+      "word": "黑神话悟空获批",
+      "onboard_time": 1709023294,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 316012,
@@ -841,6 +889,14 @@
       "onboard_time": 1709021852,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 277056,
+      "num": 277056,
+      "word": "脑袋空空的人适合什么工作",
+      "onboard_time": 1709022511,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 272675,
@@ -931,12 +987,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 246098,
-      "num": 246098,
-      "word": "无限暖暖过审",
-      "onboard_time": 1709022455,
-      "rank": 30,
-      "category": "游戏"
+      "raw_hot": 246411,
+      "num": 246411,
+      "word": "考研结果重要还是经历重要",
+      "onboard_time": 1709024974,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 245122,
@@ -953,6 +1009,14 @@
       "onboard_time": 1709015854,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 242943,
+      "num": 242943,
+      "word": "韩国总统称医生罢工以人命为要挟",
+      "onboard_time": 1709024253,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 241111,
@@ -1251,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186089,
+      "num": 186089,
+      "word": "中方回应英伟达将华为列为竞争对手",
+      "onboard_time": 1709023174,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 185556,
       "num": 185556,
       "word": "小孩 和茶树菇拼了",
@@ -1427,20 +1499,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154689,
+      "num": 154689,
+      "word": "这就是我上班不敢请假的原因",
+      "onboard_time": 1709023414,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154598,
       "num": 154598,
       "word": "部分网店靠盗版短剧入账数十万",
       "onboard_time": 1708980136,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154315,
-      "num": 154315,
-      "word": "脑袋空空的人适合什么工作",
-      "onboard_time": 1709022511,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 153168,
@@ -1595,6 +1667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135241,
+      "num": 244122,
+      "word": "慰安妇制度受害者刘年珍离世",
+      "onboard_time": 1709023055,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134212,
       "num": 134212,
       "word": "猎冰张颂文演技",
@@ -1675,6 +1755,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 125610,
+      "num": 125610,
+      "word": "不小心变成法院贫困户并被全院资助",
+      "onboard_time": 1709025214,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123728,
       "num": 123728,
       "word": "苹果公司警告手机进水别插米里",
@@ -1729,6 +1817,14 @@
       "onboard_time": 1708961734,
       "rank": 35,
       "category": "军事,国外时政"
+    },
+    {
+      "raw_hot": 118141,
+      "num": 118141,
+      "word": "当我看到公司新来的毕业生",
+      "onboard_time": 1709024852,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 116321,
@@ -1817,6 +1913,14 @@
       "onboard_time": 1709021074,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 101902,
+      "num": 101902,
+      "word": "实际上行程很忙不影响谈恋爱",
+      "onboard_time": 1709025457,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 99015,
@@ -1932,7 +2036,7 @@
     },
     {
       "raw_hot": 59335,
-      "num": 195305,
+      "num": 1036947,
       "word": "中华文化学习笔记",
       "onboard_time": 1709010161,
       "rank": 39,
