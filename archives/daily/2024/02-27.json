@@ -1,6 +1,6 @@
 {
   "startTime": 1708964501350,
-  "endTime": 1709022047072,
+  "endTime": 1709022863593,
   "band_list": [
     {
       "raw_hot": 8120231,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2142585,
+      "num": 2142585,
+      "word": "双体制意味着什么",
+      "onboard_time": 1709018374,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1994800,
       "num": 1994800,
       "word": "吉赛尔ins",
       "onboard_time": 1709013517,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1972811,
-      "num": 1972811,
-      "word": "双体制意味着什么",
-      "onboard_time": 1709018374,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 1785117,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 934848,
+      "num": 934848,
+      "word": "女生考研失败含泪阅读给自己的一封信",
+      "onboard_time": 1709020776,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 929140,
       "num": 929140,
       "word": "银行卖起金手镯",
@@ -283,12 +291,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 716593,
-      "num": 716593,
-      "word": "女生考研失败含泪阅读给自己的一封信",
-      "onboard_time": 1709020776,
-      "rank": 5,
-      "category": "教育"
+      "raw_hot": 715719,
+      "num": 715719,
+      "word": "张娜拉43岁近照",
+      "onboard_time": 1709019153,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 701958,
@@ -307,20 +315,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 692455,
-      "num": 692455,
-      "word": "张娜拉43岁近照",
-      "onboard_time": 1709019153,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 665048,
       "num": 665048,
       "word": "董宇辉说不讲内衣就是害羞",
       "onboard_time": 1708957473,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 653166,
+      "num": 653166,
+      "word": "钟楚曦换风格了",
+      "onboard_time": 1709021794,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 647173,
@@ -475,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506094,
+      "num": 506094,
+      "word": "许家印前妻向许腾鹤追讨逾10亿港元",
+      "onboard_time": 1709021494,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501078,
       "num": 501078,
       "word": "瞎书去世",
@@ -529,6 +545,14 @@
       "onboard_time": 1709014115,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471473,
+      "num": 471473,
+      "word": "于正给赵晴P图",
+      "onboard_time": 1709021974,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 465600,
@@ -636,7 +660,7 @@
     },
     {
       "raw_hot": 404720,
-      "num": 298246,
+      "num": 299071,
       "word": "大伯在群里催婚被老爸杀疯了",
       "onboard_time": 1709017953,
       "rank": 32,
@@ -649,14 +673,6 @@
       "onboard_time": 1709017173,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400994,
-      "num": 400994,
-      "word": "钟楚曦换风格了",
-      "onboard_time": 1709021794,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 377641,
@@ -731,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338165,
+      "num": 322809,
+      "word": "不推荐你吃方便面的原因只有2个",
+      "onboard_time": 1709019934,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 331014,
       "num": 331014,
       "word": "怪盗基德 哥的脸没错过",
@@ -739,12 +763,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 329517,
-      "num": 298225,
-      "word": "不推荐你吃方便面的原因只有2个",
-      "onboard_time": 1709019934,
-      "rank": 22,
-      "category": "美食"
+      "raw_hot": 316012,
+      "num": 316012,
+      "word": "博主回应穿搭恶心被领导谈话",
+      "onboard_time": 1709021375,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 313705,
@@ -779,14 +803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297619,
-      "num": 297619,
-      "word": "于正给赵晴P图",
-      "onboard_time": 1709021974,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 296263,
       "num": 296263,
       "word": "姆巴佩将与法国总统共进晚餐",
@@ -819,12 +835,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 281868,
-      "num": 281868,
-      "word": "许家印前妻向许腾鹤追讨逾10亿港元",
-      "onboard_time": 1709021494,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 281183,
+      "num": 281183,
+      "word": "111款国产游戏获批",
+      "onboard_time": 1709021852,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 272675,
@@ -857,6 +873,14 @@
       "onboard_time": 1709005535,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 256072,
+      "num": 256072,
+      "word": "气血不足的人什么样",
+      "onboard_time": 1709020953,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 254639,
@@ -905,6 +929,14 @@
       "onboard_time": 1708963052,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246098,
+      "num": 246098,
+      "word": "无限暖暖过审",
+      "onboard_time": 1709022455,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 245122,
@@ -987,22 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228579,
-      "num": 228579,
-      "word": "气血不足的人什么样",
-      "onboard_time": 1709020953,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 226727,
-      "num": 226727,
-      "word": "博主回应穿搭恶心被领导谈话",
-      "onboard_time": 1709021375,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224025,
       "num": 224025,
       "word": "人民网三评教师减负",
@@ -1027,20 +1043,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216114,
+      "num": 216114,
+      "word": "美英联手8国发表声明支持6G原则",
+      "onboard_time": 1709019695,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 215586,
       "num": 215586,
       "word": "中国男篮未来9个月没有正式比赛可打",
       "onboard_time": 1708999835,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215265,
-      "num": 215265,
-      "word": "美英联手8国发表声明支持6G原则",
-      "onboard_time": 1709019695,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 214857,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1708990827,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213964,
+      "num": 213964,
+      "word": "当你花十块向佛求100w",
+      "onboard_time": 1709021614,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 211143,
@@ -1097,6 +1121,14 @@
       "onboard_time": 1709009681,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 206637,
+      "num": 206637,
+      "word": "Ale说Tarzan不可能回LNG",
+      "onboard_time": 1709022393,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 203025,
@@ -1267,14 +1299,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 177773,
-      "num": 177773,
-      "word": "111款国产游戏获批",
-      "onboard_time": 1709021852,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 177149,
       "num": 177149,
       "word": "头发梳对了有助于改善发量",
@@ -1299,6 +1323,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 174455,
+      "num": 174455,
+      "word": "游戏版号",
+      "onboard_time": 1709022632,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173420,
       "num": 173420,
       "word": "你晚上几点休息",
@@ -1308,19 +1340,11 @@
     },
     {
       "raw_hot": 172428,
-      "num": 220221,
+      "num": 246344,
       "word": "孙颖莎樊振东再度领跑世界排名",
       "onboard_time": 1709017173,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171950,
-      "num": 171950,
-      "word": "当你花十块向佛求100w",
-      "onboard_time": 1709021614,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 170909,
@@ -1409,6 +1433,14 @@
       "onboard_time": 1708980136,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154315,
+      "num": 154315,
+      "word": "脑袋空空的人适合什么工作",
+      "onboard_time": 1709022511,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 153168,
@@ -1627,6 +1659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 126631,
+      "num": 126631,
+      "word": "张小彦吵架吵出心机了",
+      "onboard_time": 1709022752,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126177,
       "num": 126177,
       "word": "欧文一代丑评如潮",
@@ -1772,7 +1812,7 @@
     },
     {
       "raw_hot": 105199,
-      "num": 192453,
+      "num": 417344,
       "word": "巴展成中国硬核科技主场",
       "onboard_time": 1709021074,
       "rank": 34,
