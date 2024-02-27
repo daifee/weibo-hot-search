@@ -1,6 +1,6 @@
 {
   "startTime": 1708964501350,
-  "endTime": 1709044450323,
+  "endTime": 1709047084807,
   "band_list": [
     {
       "raw_hot": 8120231,
@@ -179,11 +179,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1277471,
+      "num": 1277471,
+      "word": "小徐英语六级考了353分",
+      "onboard_time": 1709045255,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1237625,
       "num": 1237625,
       "word": "李亚鹏直播哭穷",
       "onboard_time": 1709029594,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1166738,
+      "num": 1166738,
+      "word": "张致恒儿子患自闭症",
+      "onboard_time": 1709043935,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -411,6 +427,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 734919,
+      "num": 734919,
+      "word": "DIOR全球公关总监接待刘雨昕",
+      "onboard_time": 1709043698,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 734653,
       "num": 734653,
       "word": "日本去年新生婴儿75万人",
@@ -603,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 558610,
-      "num": 558610,
-      "word": "张致恒儿子患自闭症",
-      "onboard_time": 1709043935,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 558093,
       "num": 558093,
       "word": "大唐不夜城丢刀侍卫",
@@ -699,12 +715,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508045,
-      "num": 508045,
-      "word": "DIOR全球公关总监接待刘雨昕",
-      "onboard_time": 1709043698,
-      "rank": 13,
-      "category": "作品衍生,时尚"
+      "raw_hot": 507378,
+      "num": 507378,
+      "word": "阮经天好帅",
+      "onboard_time": 1709044537,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 506094,
@@ -787,6 +803,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476459,
+      "num": 476459,
+      "word": "贵州全面清理拖欠企业账款",
+      "onboard_time": 1709044117,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475274,
+      "num": 475274,
+      "word": "王一博从前有很多话分享",
+      "onboard_time": 1709044537,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474496,
       "num": 474496,
       "word": "全员加速中回应",
@@ -867,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 442329,
+      "num": 330726,
+      "word": "3岁男童喝路边饮料食道烧成针眼大",
+      "onboard_time": 1709045074,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439861,
       "num": 439861,
       "word": "加沙多个婴儿挤在一个保温箱",
@@ -897,6 +937,14 @@
       "onboard_time": 1709029773,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 429656,
+      "num": 429656,
+      "word": "27岁才意识到朋友都是阶段性的",
+      "onboard_time": 1709046395,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 426168,
@@ -1139,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314748,
+      "num": 314748,
+      "word": "一下子没有年龄焦虑了",
+      "onboard_time": 1709043576,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 314020,
       "num": 380574,
       "word": "女子用一年完成相亲领证生子三连跳",
@@ -1227,6 +1283,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 287094,
+      "num": 287094,
+      "word": "容易被癌细胞盯上的7个饮食习惯",
+      "onboard_time": 1709046337,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 286734,
       "num": 286734,
       "word": "南波万229预告",
@@ -1281,6 +1345,14 @@
       "onboard_time": 1709032353,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 275833,
+      "num": 275833,
+      "word": "为何星巴克没那么火了",
+      "onboard_time": 1709044657,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 272675,
@@ -1491,14 +1563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235957,
-      "num": 235957,
-      "word": "一下子没有年龄焦虑了",
-      "onboard_time": 1709043576,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 234726,
       "num": 234726,
       "word": "把公司群名改成了穷酸公司迟早倒闭",
@@ -1561,6 +1625,22 @@
       "onboard_time": 1709010880,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 222978,
+      "num": 222978,
+      "word": "柳鑫宇亲吻冰面",
+      "onboard_time": 1709046154,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 222742,
+      "num": 222742,
+      "word": "莫言被起诉闹剧何时休",
+      "onboard_time": 1709045494,
+      "rank": 32,
+      "category": "读书作家"
     },
     {
       "raw_hot": 220203,
@@ -1675,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209807,
+      "num": 209807,
+      "word": "夏之光跳舞",
+      "onboard_time": 1709044716,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 209501,
       "num": 209501,
       "word": "苏炳添复出首秀亚军",
@@ -1731,20 +1819,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203293,
-      "num": 203293,
-      "word": "贵州全面清理拖欠企业账款",
-      "onboard_time": 1709044117,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203025,
       "num": 203025,
       "word": "四川自考",
       "onboard_time": 1708997072,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 202981,
+      "num": 202981,
+      "word": "22岁女生长期熬夜患带状疱疹",
+      "onboard_time": 1709046696,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201907,
@@ -1777,6 +1865,14 @@
       "onboard_time": 1708965144,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197570,
+      "num": 197570,
+      "word": "有肚腩不是你的错",
+      "onboard_time": 1709045916,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 195242,
@@ -1987,6 +2083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177241,
+      "num": 177241,
+      "word": "宝可梦传说ZA公开",
+      "onboard_time": 1709044236,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177149,
       "num": 177149,
       "word": "头发梳对了有助于改善发量",
@@ -2001,14 +2105,6 @@
       "onboard_time": 1709041595,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 176943,
-      "num": 176943,
-      "word": "宝可梦传说ZA公开",
-      "onboard_time": 1709044236,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 176291,
@@ -2048,6 +2144,14 @@
       "word": "游戏版号",
       "onboard_time": 1709022632,
       "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 173970,
+      "num": 173970,
+      "word": "宝可梦发布会",
+      "onboard_time": 1709046875,
+      "rank": 40,
       "category": "游戏"
     },
     {
@@ -2203,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154379,
+      "num": 154379,
+      "word": "阮经天演技",
+      "onboard_time": 1709045795,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153691,
       "num": 153691,
       "word": "王鹤棣西瓜梗",
@@ -2273,6 +2385,14 @@
       "onboard_time": 1708947691,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146314,
+      "num": 146314,
+      "word": "原来鸟能感受到水的温度",
+      "onboard_time": 1709045976,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 146302,
@@ -2699,6 +2819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109751,
+      "num": 475333,
+      "word": "全新极氪001真香",
+      "onboard_time": 1709042853,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 109092,
       "num": 370831,
       "word": "开工返校万事先人一步",
@@ -2785,14 +2913,6 @@
       "onboard_time": 1708960294,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 92224,
-      "num": 443942,
-      "word": "全新极氪001真香",
-      "onboard_time": 1709042853,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 92001,
