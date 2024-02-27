@@ -1,6 +1,6 @@
 {
   "startTime": 1708964501350,
-  "endTime": 1708996225332,
+  "endTime": 1708997372839,
   "band_list": [
     {
       "raw_hot": 2260553,
@@ -8,6 +8,14 @@
       "word": "张雪峰承认到美国也做不起来",
       "onboard_time": 1708990346,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2110755,
+      "num": 2110755,
+      "word": "人民网评上班比丑",
+      "onboard_time": 1708995091,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -35,11 +43,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1031890,
-      "num": 1031890,
-      "word": "人民网评上班比丑",
-      "onboard_time": 1708995091,
-      "rank": 1,
+      "raw_hot": 948058,
+      "num": 948058,
+      "word": "老人报警称丢了2000元民警找回5万2",
+      "onboard_time": 1708994915,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -60,11 +68,19 @@
     },
     {
       "raw_hot": 787531,
-      "num": 593208,
+      "num": 595363,
       "word": "美国等最久死囚将被行刑",
       "onboard_time": 1708992755,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 752087,
+      "num": 752087,
+      "word": "乌克兰",
+      "onboard_time": 1708995455,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 701958,
@@ -99,8 +115,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 560327,
-      "num": 560327,
+      "raw_hot": 572577,
+      "num": 572577,
       "word": "姚安娜吃鸡式演技",
       "onboard_time": 1708952856,
       "rank": 7,
@@ -112,14 +128,6 @@
       "word": "大唐不夜城丢刀侍卫",
       "onboard_time": 1708991489,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 553816,
-      "num": 553816,
-      "word": "老人报警称丢了2000元民警找回5万2",
-      "onboard_time": 1708994915,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -147,6 +155,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 495889,
+      "num": 495889,
+      "word": "倪妮核心朋友圈是读书时的闺蜜",
+      "onboard_time": 1708994614,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 488103,
+      "num": 488103,
+      "word": "王鹤棣行程",
+      "onboard_time": 1708995631,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 483266,
       "num": 483266,
       "word": "花少团真去秦岚家了吗",
@@ -164,11 +188,19 @@
     },
     {
       "raw_hot": 457806,
-      "num": 333313,
+      "num": 369658,
       "word": "一喝牛奶就拉肚子是咋了",
       "onboard_time": 1708993715,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 454631,
+      "num": 454631,
+      "word": "陈乔恩过年胖了快5公斤",
+      "onboard_time": 1708997012,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 445689,
@@ -195,12 +227,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 425928,
-      "num": 425928,
-      "word": "倪妮核心朋友圈是读书时的闺蜜",
-      "onboard_time": 1708994614,
-      "rank": 16,
-      "category": "作品衍生"
+      "raw_hot": 367304,
+      "num": 367304,
+      "word": "瞎书去世",
+      "onboard_time": 1708996053,
+      "rank": 42,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 366637,
@@ -219,12 +251,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 324425,
-      "num": 324425,
-      "word": "王鹤棣行程",
-      "onboard_time": 1708995631,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 357056,
+      "num": 357056,
+      "word": "脚后跟干裂可能是3种病",
+      "onboard_time": 1708995455,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 306613,
@@ -235,12 +267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 290382,
-      "num": 290382,
-      "word": "乌克兰",
-      "onboard_time": 1708995455,
-      "rank": 23,
-      "category": "国外时政"
+      "raw_hot": 302640,
+      "num": 302640,
+      "word": "老爸炒9斤虾尾让女儿带学校分享",
+      "onboard_time": 1708989924,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288665,
@@ -251,12 +283,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 273765,
-      "num": 273765,
-      "word": "老爸炒9斤虾尾让女儿带学校分享",
-      "onboard_time": 1708989924,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 285850,
+      "num": 285850,
+      "word": "情头",
+      "onboard_time": 1708995274,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 254639,
@@ -299,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 236945,
-      "num": 201944,
-      "word": "脚后跟干裂可能是3种病",
-      "onboard_time": 1708995455,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 234726,
       "num": 234726,
       "word": "把公司群名改成了穷酸公司迟早倒闭",
@@ -321,6 +345,14 @@
       "onboard_time": 1708966702,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214857,
+      "num": 214857,
+      "word": "夏之光考古",
+      "onboard_time": 1708995934,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 214528,
@@ -339,12 +371,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203025,
+      "num": 203025,
+      "word": "四川自考",
+      "onboard_time": 1708997072,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 198961,
       "num": 198961,
       "word": "毛不易穿洞洞鞋爬长白山",
       "onboard_time": 1708965144,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195242,
+      "num": 195242,
+      "word": "中国人看网文1年花了400多亿",
+      "onboard_time": 1708997134,
+      "rank": 34,
+      "category": "读书作家"
     },
     {
       "raw_hot": 190254,
@@ -355,8 +403,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 190254,
+      "num": 190254,
+      "word": "詹姆斯力挺布朗尼",
+      "onboard_time": 1708996594,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190052,
-      "num": 983886,
+      "num": 1374277,
       "word": "世界最长海底高铁隧道",
       "onboard_time": 1708956093,
       "rank": 2,
@@ -377,14 +433,6 @@
       "onboard_time": 1708988420,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176775,
-      "num": 176775,
-      "word": "情头",
-      "onboard_time": 1708995274,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 174774,
@@ -411,12 +459,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 164465,
-      "num": 164465,
-      "word": "夏之光考古",
-      "onboard_time": 1708995934,
-      "rank": 39,
-      "category": "作品衍生"
+      "raw_hot": 163240,
+      "num": 163240,
+      "word": "网红大雪人开启年假模式",
+      "onboard_time": 1708996834,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 154598,
@@ -425,6 +473,14 @@
       "onboard_time": 1708980136,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153168,
+      "num": 153168,
+      "word": "蟠陶盛彦婚后生活",
+      "onboard_time": 1708996834,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 147658,
@@ -443,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146216,
-      "num": 146216,
-      "word": "瞎书去世",
-      "onboard_time": 1708996053,
-      "rank": 42,
-      "category": "读书作家,作品衍生"
-    },
-    {
       "raw_hot": 146021,
       "num": 146021,
       "word": "文旅局回应游客在雪乡被要求自费上千元",
@@ -459,12 +507,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 144886,
+      "num": 144886,
+      "word": "iPhone16Pro配四重棱镜",
+      "onboard_time": 1708997254,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 142865,
       "num": 142865,
       "word": "四六级查分入口",
       "onboard_time": 1708989081,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 142848,
+      "num": 142848,
+      "word": "韩国宣布辞职医生再不复岗司法处理",
+      "onboard_time": 1708997254,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142660,
@@ -731,8 +795,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70155,
-      "num": 178215,
+      "raw_hot": 71264,
+      "num": 373156,
       "word": "2024年开启5G Advanced商用元年",
       "onboard_time": 1708995755,
       "rank": 36,

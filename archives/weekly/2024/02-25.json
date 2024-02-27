@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708996225332,
+  "endTime": 1708997372839,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -161,6 +161,14 @@
       "onboard_time": 1708941632,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2110755,
+      "num": 2110755,
+      "word": "人民网评上班比丑",
+      "onboard_time": 1708995091,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2081823,
@@ -579,14 +587,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1031890,
-      "num": 1031890,
-      "word": "人民网评上班比丑",
-      "onboard_time": 1708995091,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1026142,
       "num": 777714,
       "word": "娃哈哈纯净水为什么是596ml",
@@ -673,6 +673,14 @@
       "onboard_time": 1708943016,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 948058,
+      "num": 948058,
+      "word": "老人报警称丢了2000元民警找回5万2",
+      "onboard_time": 1708994915,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 947004,
@@ -964,7 +972,7 @@
     },
     {
       "raw_hot": 787531,
-      "num": 593208,
+      "num": 595363,
       "word": "美国等最久死囚将被行刑",
       "onboard_time": 1708992755,
       "rank": 10,
@@ -1033,6 +1041,14 @@
       "onboard_time": 1708863998,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 752087,
+      "num": 752087,
+      "word": "乌克兰",
+      "onboard_time": 1708995455,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 743048,
@@ -1627,14 +1643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 553816,
-      "num": 553816,
-      "word": "老人报警称丢了2000元民警找回5万2",
-      "onboard_time": 1708994915,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 552197,
       "num": 552197,
       "word": "一夜间AD钙奶销售增长一倍",
@@ -1819,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 495889,
+      "num": 495889,
+      "word": "倪妮核心朋友圈是读书时的闺蜜",
+      "onboard_time": 1708994614,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 493900,
       "num": 493900,
       "word": "巴黎奥运会运动员村不安装空调",
@@ -1873,6 +1889,14 @@
       "onboard_time": 1708771473,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 488103,
+      "num": 488103,
+      "word": "王鹤棣行程",
+      "onboard_time": 1708995631,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 487633,
@@ -1940,7 +1964,7 @@
     },
     {
       "raw_hot": 457806,
-      "num": 333313,
+      "num": 369658,
       "word": "一喝牛奶就拉肚子是咋了",
       "onboard_time": 1708993715,
       "rank": 20,
@@ -1953,6 +1977,14 @@
       "onboard_time": 1708837359,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 454631,
+      "num": 454631,
+      "word": "陈乔恩过年胖了快5公斤",
+      "onboard_time": 1708997012,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 454276,
@@ -2033,14 +2065,6 @@
       "onboard_time": 1708960654,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 425928,
-      "num": 425928,
-      "word": "倪妮核心朋友圈是读书时的闺蜜",
-      "onboard_time": 1708994614,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 424841,
@@ -2355,6 +2379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 367304,
+      "num": 367304,
+      "word": "瞎书去世",
+      "onboard_time": 1708996053,
+      "rank": 42,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 366637,
       "num": 347797,
       "word": "女校长回应百人群发不雅视频",
@@ -2425,6 +2457,14 @@
       "onboard_time": 1708921000,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357056,
+      "num": 357056,
+      "word": "脚后跟干裂可能是3种病",
+      "onboard_time": 1708995455,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 355249,
@@ -2553,14 +2593,6 @@
       "onboard_time": 1708908573,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 324425,
-      "num": 324425,
-      "word": "王鹤棣行程",
-      "onboard_time": 1708995631,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 323195,
@@ -2763,6 +2795,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 302640,
+      "num": 302640,
+      "word": "老爸炒9斤虾尾让女儿带学校分享",
+      "onboard_time": 1708989924,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301992,
       "num": 301992,
       "word": "北斗七行衍生综艺开录",
@@ -2859,14 +2899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290382,
-      "num": 290382,
-      "word": "乌克兰",
-      "onboard_time": 1708995455,
-      "rank": 23,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 288838,
       "num": 288838,
       "word": "王楚钦说看看金牌是不是真金",
@@ -2905,6 +2937,14 @@
       "onboard_time": 1708876233,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 285850,
+      "num": 285850,
+      "word": "情头",
+      "onboard_time": 1708995274,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 284727,
@@ -3041,14 +3081,6 @@
       "onboard_time": 1708838498,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 273765,
-      "num": 273765,
-      "word": "老爸炒9斤虾尾让女儿带学校分享",
-      "onboard_time": 1708989924,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273387,
@@ -3443,14 +3475,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 236945,
-      "num": 201944,
-      "word": "脚后跟干裂可能是3种病",
-      "onboard_time": 1708995455,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 235961,
       "num": 235961,
       "word": "原来医者真的不能自医啊",
@@ -3763,6 +3787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214857,
+      "num": 214857,
+      "word": "夏之光考古",
+      "onboard_time": 1708995934,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 214528,
       "num": 214528,
       "word": "张艺兴金希澈同框",
@@ -3979,6 +4011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203025,
+      "num": 203025,
+      "word": "四川自考",
+      "onboard_time": 1708997072,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 202720,
       "num": 202720,
       "word": "高层建筑起火怎么逃生",
@@ -4187,6 +4227,14 @@
       "category": "教育,社会议题"
     },
     {
+      "raw_hot": 195242,
+      "num": 195242,
+      "word": "中国人看网文1年花了400多亿",
+      "onboard_time": 1708997134,
+      "rank": 34,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 195113,
       "num": 195113,
       "word": "杨幂叫九尾许哥",
@@ -4291,8 +4339,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 190254,
+      "num": 190254,
+      "word": "詹姆斯力挺布朗尼",
+      "onboard_time": 1708996594,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190052,
-      "num": 983886,
+      "num": 1374277,
       "word": "世界最长海底高铁隧道",
       "onboard_time": 1708956093,
       "rank": 2,
@@ -4691,14 +4747,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 176775,
-      "num": 176775,
-      "word": "情头",
-      "onboard_time": 1708995274,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 176148,
       "num": 176148,
       "word": "黄旭熙曾羡慕队友没工作",
@@ -4979,14 +5027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164465,
-      "num": 164465,
-      "word": "夏之光考古",
-      "onboard_time": 1708995934,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 163849,
       "num": 163849,
       "word": "孙颖莎3比0早田希娜",
@@ -5001,6 +5041,14 @@
       "onboard_time": 1708917634,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163240,
+      "num": 163240,
+      "word": "网红大雪人开启年假模式",
+      "onboard_time": 1708996834,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 162803,
@@ -5211,6 +5259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 153168,
+      "num": 153168,
+      "word": "蟠陶盛彦婚后生活",
+      "onboard_time": 1708996834,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152907,
       "num": 152907,
       "word": "小猫相亲拘谨到外八",
@@ -5307,14 +5363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 146216,
-      "num": 146216,
-      "word": "瞎书去世",
-      "onboard_time": 1708996053,
-      "rank": 42,
-      "category": "读书作家,作品衍生"
-    },
-    {
       "raw_hot": 146045,
       "num": 146045,
       "word": "陈自瑶被问与王浩信情人节安排",
@@ -5345,6 +5393,14 @@
       "onboard_time": 1708864895,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144886,
+      "num": 144886,
+      "word": "iPhone16Pro配四重棱镜",
+      "onboard_time": 1708997254,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 144818,
@@ -5393,6 +5449,14 @@
       "onboard_time": 1708989081,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 142848,
+      "num": 142848,
+      "word": "韩国宣布辞职医生再不复岗司法处理",
+      "onboard_time": 1708997254,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142660,
@@ -6123,6 +6187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71264,
+      "num": 373156,
+      "word": "2024年开启5G Advanced商用元年",
+      "onboard_time": 1708995755,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 70337,
       "num": 413559,
       "word": "欧洲车展新宠是中国新能源",
@@ -6137,14 +6209,6 @@
       "onboard_time": 1708778793,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70155,
-      "num": 178215,
-      "word": "2024年开启5G Advanced商用元年",
-      "onboard_time": 1708995755,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 67947,

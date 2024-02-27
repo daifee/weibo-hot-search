@@ -1,0 +1,410 @@
+{
+  "runTime": 1708997372839,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2110755,
+        "num": 2110755,
+        "word": "人民网评上班比丑",
+        "onboard_time": 1708995091,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1895897,
+        "num": 1895897,
+        "word": "张雪峰承认到美国也做不起来",
+        "onboard_time": 1708990346,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176483,
+        "num": 1374277,
+        "word": "世界最长海底高铁隧道",
+        "onboard_time": 1708956093,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948058,
+        "num": 948058,
+        "word": "老人报警称丢了2000元民警找回5万2",
+        "onboard_time": 1708994915,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789664,
+        "num": 789664,
+        "word": "四六级分数出了",
+        "onboard_time": 1708989081,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 785679,
+        "num": 785679,
+        "word": "高群书为姚安娜回怼汪海林",
+        "onboard_time": 1708993415,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 760045,
+        "num": 760045,
+        "word": "王菲谢霆锋一起回国",
+        "onboard_time": 1708991969,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 752087,
+        "num": 752087,
+        "word": "乌克兰",
+        "onboard_time": 1708995455,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 650434,
+        "num": 650434,
+        "word": "布洛芬 能给卑职一个明示吗",
+        "onboard_time": 1708959878,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 623269,
+        "num": 623269,
+        "word": "10元3副耳钉被仅退款商家千里讨公道",
+        "onboard_time": 1708958374,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595363,
+        "num": 595363,
+        "word": "美国等最久死囚将被行刑",
+        "onboard_time": 1708992755,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572577,
+        "num": 572577,
+        "word": "姚安娜吃鸡式演技",
+        "onboard_time": 1708952856,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 559343,
+        "num": 559343,
+        "word": "文韬受伤",
+        "onboard_time": 1708990525,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495889,
+        "num": 495889,
+        "word": "倪妮核心朋友圈是读书时的闺蜜",
+        "onboard_time": 1708994614,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 488103,
+        "num": 488103,
+        "word": "王鹤棣行程",
+        "onboard_time": 1708995631,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484552,
+        "num": 484552,
+        "word": "坐高铁由于好奇选了静音车厢",
+        "onboard_time": 1708959878,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 454631,
+        "num": 454631,
+        "word": "陈乔恩过年胖了快5公斤",
+        "onboard_time": 1708997012,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385644,
+        "num": 385644,
+        "word": "花少团真去秦岚家了吗",
+        "onboard_time": 1708990106,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71264,
+        "num": 373156,
+        "word": "2024年开启5G Advanced商用元年",
+        "onboard_time": 1708995755,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 369808,
+        "num": 369808,
+        "word": "为什么大家不爱买黑色贴身衣物",
+        "onboard_time": 1708958135,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 389339,
+        "num": 369658,
+        "word": "一喝牛奶就拉肚子是咋了",
+        "onboard_time": 1708993715,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 367304,
+        "num": 367304,
+        "word": "瞎书去世",
+        "onboard_time": 1708996053,
+        "rank": 21,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 357056,
+        "num": 357056,
+        "word": "脚后跟干裂可能是3种病",
+        "onboard_time": 1708995455,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 345845,
+        "num": 345845,
+        "word": "大唐不夜城丢刀侍卫",
+        "onboard_time": 1708991489,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302640,
+        "num": 302640,
+        "word": "老爸炒9斤虾尾让女儿带学校分享",
+        "onboard_time": 1708989924,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296495,
+        "num": 296495,
+        "word": "女孩说外公外婆退休后每个月收到娃哈哈补贴",
+        "onboard_time": 1708955254,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285850,
+        "num": 285850,
+        "word": "情头",
+        "onboard_time": 1708995274,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273526,
+        "num": 273526,
+        "word": "前夫哥过得不好比什么都重要",
+        "onboard_time": 1708958499,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263743,
+        "num": 263743,
+        "word": "大爷将30万存款忘在银行20年",
+        "onboard_time": 1708953994,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250212,
+        "num": 250212,
+        "word": "董宇辉说不讲内衣就是害羞",
+        "onboard_time": 1708957473,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 214857,
+        "num": 214857,
+        "word": "夏之光考古",
+        "onboard_time": 1708995934,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203025,
+        "num": 203025,
+        "word": "四川自考",
+        "onboard_time": 1708997072,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201310,
+        "num": 201310,
+        "word": "把公司群名改成了穷酸公司迟早倒闭",
+        "onboard_time": 1708953815,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196861,
+        "num": 196861,
+        "word": "从今天起尽量少熬夜",
+        "onboard_time": 1708960654,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195242,
+        "num": 195242,
+        "word": "中国人看网文1年花了400多亿",
+        "onboard_time": 1708997134,
+        "rank": 34,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 190254,
+        "num": 190254,
+        "word": "詹姆斯力挺布朗尼",
+        "onboard_time": 1708996594,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188205,
+        "num": 188205,
+        "word": "谢霆锋体脂",
+        "onboard_time": 1708994856,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165622,
+        "num": 165622,
+        "word": "男子每个月染发致中毒险肝衰竭",
+        "onboard_time": 1708988420,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163240,
+        "num": 163240,
+        "word": "网红大雪人开启年假模式",
+        "onboard_time": 1708996834,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 162310,
+        "num": 162310,
+        "word": "张艺兴金希澈同框",
+        "onboard_time": 1708990827,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159567,
+        "num": 159567,
+        "word": "A股纪录刷新",
+        "onboard_time": 1708959755,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153168,
+        "num": 153168,
+        "word": "蟠陶盛彦婚后生活",
+        "onboard_time": 1708996834,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151363,
+        "num": 151363,
+        "word": "大爷闪婚闪离要求对方归还20万彩礼",
+        "onboard_time": 1708983135,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149850,
+        "num": 149850,
+        "word": "女校长回应百人群发不雅视频",
+        "onboard_time": 1708979055,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149445,
+        "num": 149445,
+        "word": "徐冬冬说跑龙套赚的钱够养自己",
+        "onboard_time": 1708966702,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148650,
+        "num": 148650,
+        "word": "上海招聘薪酬13261元每月居全国第一",
+        "onboard_time": 1708959755,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 148386,
+        "num": 148386,
+        "word": "经常熬夜的人脸有多垮",
+        "onboard_time": 1708950035,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148278,
+        "num": 148278,
+        "word": "常喝溶咖啡加速衰老",
+        "onboard_time": 1708989924,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144886,
+        "num": 144886,
+        "word": "iPhone16Pro配四重棱镜",
+        "onboard_time": 1708997254,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142848,
+        "num": 142848,
+        "word": "韩国宣布辞职医生再不复岗司法处理",
+        "onboard_time": 1708997254,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}
