@@ -1,6 +1,6 @@
 {
   "startTime": 1709050946453,
-  "endTime": 1709062459756,
+  "endTime": 1709065057187,
   "band_list": [
     {
       "raw_hot": 1329925,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40753,
+      "num": 40753,
+      "word": "母亲将唯一银镯打成首饰送2个女儿",
+      "onboard_time": 1709059576,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39577,
       "num": 793194,
       "word": "中国空间站进入常态化运营模式",
@@ -459,14 +467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 27767,
-      "num": 27767,
-      "word": "母亲将唯一银镯打成首饰送2个女儿",
-      "onboard_time": 1709059576,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17151,
       "num": 17151,
       "word": "成毅新剧雪中路透",
@@ -481,6 +481,22 @@
       "onboard_time": 1709060297,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 14092,
+      "num": 14092,
+      "word": "周处除三害尺度",
+      "onboard_time": 1709062456,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 12862,
+      "num": 12862,
+      "word": "卖老房了老邻居给我妈的信",
+      "onboard_time": 1709063656,
+      "rank": 42,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
