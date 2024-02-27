@@ -1,0 +1,410 @@
+{
+  "runTime": 1709015642892,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2524223,
+        "num": 2524223,
+        "word": "彩礼不超3.9万子女可优先入学",
+        "onboard_time": 1709008182,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1994800,
+        "num": 1994800,
+        "word": "吉赛尔ins",
+        "onboard_time": 1709013517,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106247,
+        "num": 1361919,
+        "word": "中国航天今年预计完成100次发射任务",
+        "onboard_time": 1709010640,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807711,
+        "num": 807711,
+        "word": "以为是休息实则在耗气血的行为",
+        "onboard_time": 1709011596,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 758033,
+        "num": 758033,
+        "word": "Prada玄学",
+        "onboard_time": 1709003970,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 516243,
+        "num": 516243,
+        "word": "稳定同居可认定刑法上的家庭成员",
+        "onboard_time": 1709011178,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487939,
+        "num": 487939,
+        "word": "王自如被强制执行3383万",
+        "onboard_time": 1709012738,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 471650,
+        "num": 471650,
+        "word": "Aespa回归时间",
+        "onboard_time": 1709014115,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450684,
+        "num": 450684,
+        "word": "作者道歉并承认秦岭隧道视频系拼接",
+        "onboard_time": 1709014592,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437089,
+        "num": 437089,
+        "word": "专家称房价越涨大家购买意愿越强",
+        "onboard_time": 1709006316,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3797324,
+        "num": 436667,
+        "word": "李宰旭承认恋情",
+        "onboard_time": 1709007695,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1085937,
+        "num": 422334,
+        "word": "SM承认柳智敏恋情",
+        "onboard_time": 1709008057,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 884164,
+        "num": 413762,
+        "word": "为什么最好禁止小孩去别人家过夜",
+        "onboard_time": 1709012853,
+        "rank": 12,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 689825,
+        "num": 391469,
+        "word": "突然懂了YG公关的好",
+        "onboard_time": 1709009022,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390472,
+        "num": 390472,
+        "word": "为什么中国人存钱越来越多",
+        "onboard_time": 1709013455,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 384426,
+        "num": 384426,
+        "word": "西安领结婚证送10元刮刮乐",
+        "onboard_time": 1709010041,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371671,
+        "num": 371671,
+        "word": "范志毅认证鹿晗内娱最佳球员",
+        "onboard_time": 1709007033,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 306446,
+        "num": 306446,
+        "word": "怪盗基德 哥的脸没错过",
+        "onboard_time": 1709011596,
+        "rank": 17,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 281337,
+        "num": 281337,
+        "word": "我丢了个包里面全是黄金",
+        "onboard_time": 1709008298,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269720,
+        "num": 269720,
+        "word": "自焚美国军人临终遗言公开",
+        "onboard_time": 1709013874,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641437,
+        "num": 268688,
+        "word": "当我拒绝11K薪资后HR破防了",
+        "onboard_time": 1709014895,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 477505,
+        "num": 265282,
+        "word": "女子孕期打耳洞1年半后多俩小耳朵",
+        "onboard_time": 1709002293,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397477,
+        "num": 260171,
+        "word": "英语四六级424是什么含金量",
+        "onboard_time": 1709010582,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252826,
+        "num": 256867,
+        "word": "Aespa Drama",
+        "onboard_time": 1709009322,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255794,
+        "num": 255794,
+        "word": "韩国护士将填补辞职医生的空白",
+        "onboard_time": 1709015074,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252579,
+        "num": 252579,
+        "word": "董宇辉微博",
+        "onboard_time": 1709004995,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 250903,
+        "num": 250903,
+        "word": "多方回应开封一中学宿舍蹲便器在床底",
+        "onboard_time": 1709012915,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238030,
+        "num": 238030,
+        "word": "男子1个月发烧3次感染两种要命寄生虫",
+        "onboard_time": 1709014236,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214541,
+        "num": 214541,
+        "word": "王源自驾游",
+        "onboard_time": 1709008724,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195216,
+        "num": 195216,
+        "word": "人民网三评教师减负",
+        "onboard_time": 1709012492,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197400,
+        "num": 193066,
+        "word": "沈月算命",
+        "onboard_time": 1709003371,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190662,
+        "num": 190662,
+        "word": "百分百歌手艺人群像官宣",
+        "onboard_time": 1709015254,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180865,
+        "num": 180865,
+        "word": "越吃越胖的蔬菜刺客",
+        "onboard_time": 1709001814,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 177391,
+        "num": 177391,
+        "word": "陈乔恩过年胖了快5公斤",
+        "onboard_time": 1708997012,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174463,
+        "num": 174463,
+        "word": "服用布洛芬后会经历以下过程",
+        "onboard_time": 1709009681,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159955,
+        "num": 159955,
+        "word": "半熟恋人",
+        "onboard_time": 1709011536,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157497,
+        "num": 157497,
+        "word": "年轻人猝死可能与熬夜有关",
+        "onboard_time": 1709008363,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152840,
+        "num": 152840,
+        "word": "人民网评上班比丑",
+        "onboard_time": 1708995091,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152535,
+        "num": 152535,
+        "word": "当你的上班搭子离职后",
+        "onboard_time": 1709010582,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151254,
+        "num": 151254,
+        "word": "韩国总统称绝不就医疗改革问题谈判和妥协",
+        "onboard_time": 1709015496,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142788,
+        "num": 142788,
+        "word": "剪指甲时去掉的死皮一直在保护你",
+        "onboard_time": 1708998512,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141114,
+        "num": 141114,
+        "word": "我们仨路透",
+        "onboard_time": 1709010460,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141006,
+        "num": 141006,
+        "word": "江秋莲诉谭斌诽谤将开庭",
+        "onboard_time": 1709012976,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135602,
+        "num": 135602,
+        "word": "苏炳添复出首秀6秒70",
+        "onboard_time": 1709008900,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131591,
+        "num": 131591,
+        "word": "周震南父亲公司房产被拍卖",
+        "onboard_time": 1709010400,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128334,
+        "num": 128334,
+        "word": "老人报警称丢了2000元民警找回5万2",
+        "onboard_time": 1708994915,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126770,
+        "num": 126770,
+        "word": "李宰旭新剧明天播",
+        "onboard_time": 1709015552,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125423,
+        "num": 125423,
+        "word": "减肥壁纸",
+        "onboard_time": 1709010880,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 113819,
+        "num": 113819,
+        "word": "李宰旭经纪公司已读乱回",
+        "onboard_time": 1709013993,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111298,
+        "num": 111298,
+        "word": "韩国宣布辞职医生再不复岗司法处理",
+        "onboard_time": 1708997254,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联网之光#"
+    }
+  }
+}

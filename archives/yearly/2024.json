@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1709014888352,
+  "endTime": 1709015642892,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1987,6 +1987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2524223,
+      "num": 2524223,
+      "word": "彩礼不超3.9万子女可优先入学",
+      "onboard_time": 1709008182,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2517884,
       "num": 2517884,
       "word": "苏州高架",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1706160031,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2341366,
-      "num": 2341366,
-      "word": "尼格买提说自己三天没笑过了",
-      "onboard_time": 1707740614,
-      "rank": 35,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

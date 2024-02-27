@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/02/27 14:21:28
+本榜单时间：2024/01/01 00:21:05 ~ 2024/02/27 14:34:02
 </p>
 </blockquote>
 <p>
@@ -1503,6 +1503,12 @@ A股（热度：2618527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A4%BC%E4%B8%8D%E8%B6%853.9%E4%B8%87%E5%AD%90%E5%A5%B3%E5%8F%AF%E4%BC%98%E5%85%88%E5%85%A5%E5%AD%A6%23" target="weibo">
+彩礼不超3.9万子女可优先入学（热度：2524223）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E9%AB%98%E6%9E%B6%23" target="weibo">
 苏州高架（热度：2517884）
 </a>
@@ -1805,12 +1811,6 @@ C罗向中国球迷道歉（热度：2416354）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E6%96%B0%E4%BD%99%E7%81%AB%E7%81%BE%E6%9C%89%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%B9%B8%E9%81%87%E9%9A%BE%23" target="weibo">
 江西新余火灾有学生不幸遇难（热度：2342836）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%B8%89%E5%A4%A9%E6%B2%A1%E7%AC%91%E8%BF%87%E4%BA%86%23" target="weibo">
-尼格买提说自己三天没笑过了（热度：2341366）
 </a>
 </li>
 
