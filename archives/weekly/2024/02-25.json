@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709003927244,
+  "endTime": 1709004931818,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -387,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1343721,
+      "num": 1343721,
+      "word": "沈月算命",
+      "onboard_time": 1709003371,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1335695,
       "num": 1335695,
       "word": "国乒男团vs法国男团",
@@ -603,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1017673,
+      "num": 1017673,
+      "word": "Prada玄学",
+      "onboard_time": 1709003970,
+      "rank": 3,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 1000791,
       "num": 812463,
       "word": "马云发挽联悼念宗庆后",
@@ -787,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 891110,
+      "num": 891110,
+      "word": "越吃越胖的蔬菜刺客",
+      "onboard_time": 1709001814,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 891042,
       "num": 891042,
       "word": "韩国超一万名实习和住院医生辞职",
@@ -931,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 828975,
+      "num": 377674,
+      "word": "女子孕期打耳洞1年半后多俩小耳朵",
+      "onboard_time": 1709002293,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 827735,
       "num": 827735,
       "word": "欧阳娜娜徐正溪情头",
@@ -993,14 +1025,6 @@
       "onboard_time": 1708949372,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 793998,
-      "num": 377674,
-      "word": "女子孕期打耳洞1年半后多俩小耳朵",
-      "onboard_time": 1709002293,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 792450,
@@ -1233,14 +1257,6 @@
       "onboard_time": 1708829196,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 694612,
-      "num": 694612,
-      "word": "越吃越胖的蔬菜刺客",
-      "onboard_time": 1709001814,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 693570,
@@ -1675,14 +1691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 566820,
-      "num": 566820,
-      "word": "沈月算命",
-      "onboard_time": 1709003371,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 566262,
       "num": 566262,
       "word": "山西考研成绩",
@@ -1785,6 +1793,14 @@
       "onboard_time": 1708938156,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 536762,
+      "num": 536762,
+      "word": "比特币",
+      "onboard_time": 1709002654,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 535444,
@@ -1913,6 +1929,14 @@
       "onboard_time": 1708855836,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 497449,
+      "num": 497449,
+      "word": "吴镇宇预言",
+      "onboard_time": 1709003434,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 496205,
@@ -2411,14 +2435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 388091,
-      "num": 388091,
-      "word": "比特币",
-      "onboard_time": 1709002654,
-      "rank": 18,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 387720,
       "num": 387720,
       "word": "林一周也 豪门情侣感",
@@ -2683,14 +2699,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 335996,
-      "num": 335996,
-      "word": "吴镇宇预言",
-      "onboard_time": 1709003434,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 334821,
       "num": 310386,
       "word": "宗庆后一年花费不到5万",
@@ -2844,7 +2852,7 @@
     },
     {
       "raw_hot": 311514,
-      "num": 262736,
+      "num": 264189,
       "word": "宇哥考研 我不会晒高分",
       "onboard_time": 1709001933,
       "rank": 30,
@@ -3259,6 +3267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 269582,
+      "num": 269582,
+      "word": "陈梦重回世界第二",
+      "onboard_time": 1709003194,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269281,
       "num": 269281,
       "word": "猫咪被抱下还知道卡胳肢窝",
@@ -3272,14 +3288,6 @@
       "word": "C罗因做不道德动作被查",
       "onboard_time": 1708919736,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 263667,
-      "num": 263667,
-      "word": "陈梦重回世界第二",
-      "onboard_time": 1709003194,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -3435,6 +3443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250057,
+      "num": 250057,
+      "word": "向佐摆了一桌子全家福",
+      "onboard_time": 1709004514,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249566,
       "num": 249566,
       "word": "湿气较重的人这样吃水果更健康",
@@ -3457,6 +3473,14 @@
       "onboard_time": 1708851149,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248133,
+      "num": 248133,
+      "word": "世界上最疼的病是什么病",
+      "onboard_time": 1709002474,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 247662,
@@ -3947,14 +3971,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 216564,
-      "num": 216564,
-      "word": "世界上最疼的病是什么病",
-      "onboard_time": 1709002474,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 215932,
       "num": 179327,
       "word": "国考高分样卷",
@@ -4065,6 +4081,14 @@
       "onboard_time": 1708920457,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209301,
+      "num": 209301,
+      "word": "人民法院案例库今起对社会开放",
+      "onboard_time": 1709003135,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208322,
@@ -4233,6 +4257,14 @@
       "onboard_time": 1708843952,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201907,
+      "num": 201907,
+      "word": "天涯社区被申请破产审查",
+      "onboard_time": 1709003915,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 200848,
@@ -4523,6 +4555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190527,
+      "num": 190527,
+      "word": "我爸眼中的好工作",
+      "onboard_time": 1709001211,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190254,
       "num": 190254,
       "word": "常喝溶咖啡加速衰老",
@@ -4545,14 +4585,6 @@
       "onboard_time": 1708956093,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 190033,
-      "num": 190033,
-      "word": "我爸眼中的好工作",
-      "onboard_time": 1709001211,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 189839,
@@ -4635,14 +4667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189065,
-      "num": 189065,
-      "word": "人民法院案例库今起对社会开放",
-      "onboard_time": 1709003135,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189025,
       "num": 189025,
       "word": "阿云嘎忘刮胡子了",
@@ -4657,6 +4681,14 @@
       "onboard_time": 1708770033,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188922,
+      "num": 188922,
+      "word": "姚安娜镜头",
+      "onboard_time": 1709004754,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 188851,
@@ -4689,6 +4721,14 @@
       "onboard_time": 1708988420,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187656,
+      "num": 187656,
+      "word": "沈月待播角色生日海报",
+      "onboard_time": 1709004633,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 187510,
@@ -4955,12 +4995,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177149,
+      "num": 177149,
+      "word": "头发梳对了有助于改善发量",
+      "onboard_time": 1709004452,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 176853,
       "num": 167328,
       "word": "想让退休的妈妈去工作",
       "onboard_time": 1708949975,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 176291,
+      "num": 176291,
+      "word": "看到四六级分数的反应",
+      "onboard_time": 1709004274,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 176148,
@@ -5401,6 +5457,14 @@
       "onboard_time": 1708845152,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157392,
+      "num": 157392,
+      "word": "妈妈眼里的一家三口不包括我",
+      "onboard_time": 1709004395,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 157309,
@@ -6121,14 +6185,6 @@
       "onboard_time": 1708876713,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121519,
-      "num": 121519,
-      "word": "天涯社区被申请破产审查",
-      "onboard_time": 1709003915,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 121089,
