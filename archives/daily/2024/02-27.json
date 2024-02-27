@@ -1,6 +1,6 @@
 {
   "startTime": 1708964501350,
-  "endTime": 1709040855557,
+  "endTime": 1709043344400,
   "band_list": [
     {
       "raw_hot": 8120231,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1450813,
+      "num": 1450813,
+      "word": "董宇辉不能既享受流量红利又逃避舆论",
+      "onboard_time": 1709039614,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1441486,
       "num": 1441486,
       "word": "为什么最好禁止小孩去别人家过夜",
@@ -243,20 +251,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1011927,
+      "num": 1011927,
+      "word": "喜欢了一个比自己大7岁的姐姐",
+      "onboard_time": 1709035533,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1009100,
       "num": 1009100,
       "word": "唐艺昕说恋爱中先道歉的人赢了",
       "onboard_time": 1709015732,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1005494,
-      "num": 1005494,
-      "word": "喜欢了一个比自己大7岁的姐姐",
-      "onboard_time": 1709035533,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 971862,
@@ -355,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 786871,
+      "num": 786871,
+      "word": "董宇辉回应删博",
+      "onboard_time": 1709041295,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 775456,
       "num": 775456,
       "word": "网友向王鹤棣道歉",
@@ -377,6 +393,14 @@
       "onboard_time": 1708995455,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 740285,
+      "num": 740285,
+      "word": "极氪001价格",
+      "onboard_time": 1709041174,
+      "rank": 7,
+      "category": "汽车"
     },
     {
       "raw_hot": 734653,
@@ -484,7 +508,7 @@
     },
     {
       "raw_hot": 621253,
-      "num": 458210,
+      "num": 605621,
       "word": "韩娱有自己的偷偷藏不住",
       "onboard_time": 1709037754,
       "rank": 25,
@@ -747,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 470519,
+      "num": 470519,
+      "word": "DIOR大秀",
+      "onboard_time": 1709040153,
+      "rank": 22,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 465600,
       "num": 465600,
       "word": "为什么大家不爱买黑色贴身衣物",
@@ -771,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451613,
+      "num": 451613,
+      "word": "姜思达 中国的Miley",
+      "onboard_time": 1709041952,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 445765,
       "num": 445765,
       "word": "连诗雅怀孕",
@@ -785,6 +825,14 @@
       "onboard_time": 1708983135,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441597,
+      "num": 441597,
+      "word": "谁给张凌赫画的卧蚕",
+      "onboard_time": 1709042196,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 439861,
@@ -860,7 +908,7 @@
     },
     {
       "raw_hot": 412948,
-      "num": 231619,
+      "num": 241034,
       "word": "今日从TikTok平台下架歌曲的艺人",
       "onboard_time": 1709040273,
       "rank": 30,
@@ -915,6 +963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 381842,
+      "num": 381842,
+      "word": "金智秀世趋",
+      "onboard_time": 1709042853,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 377641,
       "num": 377641,
       "word": "我丢了个包里面全是黄金",
@@ -955,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365670,
+      "num": 365670,
+      "word": "肖战看秀待遇",
+      "onboard_time": 1709039076,
+      "rank": 23,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 363481,
       "num": 363481,
       "word": "上海招聘薪酬13261元每月居全国第一",
@@ -969,14 +1033,6 @@
       "onboard_time": 1709000675,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 359459,
-      "num": 359459,
-      "word": "董宇辉不能既享受流量红利又逃避舆论",
-      "onboard_time": 1709039614,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 357056,
@@ -1003,14 +1059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 351557,
-      "num": 351557,
-      "word": "肖战看秀待遇",
-      "onboard_time": 1709039076,
-      "rank": 23,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 351386,
       "num": 351386,
       "word": "自焚美国军人临终遗言公开",
@@ -1033,6 +1081,14 @@
       "onboard_time": 1709019934,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 332242,
+      "num": 642555,
+      "word": "暗中偷走气血那些事",
+      "onboard_time": 1709040936,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 331014,
@@ -1068,7 +1124,7 @@
     },
     {
       "raw_hot": 314020,
-      "num": 314020,
+      "num": 360222,
       "word": "女子用一年完成相亲领证生子三连跳",
       "onboard_time": 1709034995,
       "rank": 28,
@@ -1089,14 +1145,6 @@
       "onboard_time": 1709001933,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 310875,
-      "num": 310875,
-      "word": "DIOR大秀",
-      "onboard_time": 1709040153,
-      "rank": 22,
-      "category": "时尚"
     },
     {
       "raw_hot": 306613,
@@ -1187,6 +1235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 283930,
+      "num": 283930,
+      "word": "瘦小肚腩最高效的方法",
+      "onboard_time": 1709041174,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 282604,
       "num": 282604,
       "word": "枭起青壤",
@@ -1227,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265150,
+      "num": 265150,
+      "word": "肖战胸肌见客",
+      "onboard_time": 1709040753,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261551,
       "num": 261551,
       "word": "起猛了在公司遇到男狐狸了",
@@ -1265,6 +1329,14 @@
       "onboard_time": 1709032653,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 257609,
+      "num": 257609,
+      "word": "找婚鞋",
+      "onboard_time": 1709039432,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 256072,
@@ -1387,6 +1459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 236459,
+      "num": 236459,
+      "word": "赵今麦刚杀青就进组",
+      "onboard_time": 1709039735,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234726,
       "num": 234726,
       "word": "把公司群名改成了穷酸公司迟早倒闭",
@@ -1424,14 +1504,6 @@
       "word": "李衣锦爸妈离婚",
       "onboard_time": 1709017593,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 229002,
-      "num": 229002,
-      "word": "赵今麦刚杀青就进组",
-      "onboard_time": 1709039735,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1603,14 +1675,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 206344,
-      "num": 206344,
-      "word": "找婚鞋",
-      "onboard_time": 1709039432,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 205684,
       "num": 205684,
       "word": "陈伟霆开健身房的原因",
@@ -1747,6 +1811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 189775,
+      "num": 189775,
+      "word": "金珉奎巴黎饭拍",
+      "onboard_time": 1709041952,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 189525,
       "num": 189525,
       "word": "陈奕迅24年首场江浙沪演唱会",
@@ -1843,12 +1915,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 178657,
+      "num": 178657,
+      "word": "飞驰人生2票房破31亿",
+      "onboard_time": 1709040692,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177149,
       "num": 177149,
       "word": "头发梳对了有助于改善发量",
       "onboard_time": 1709004452,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 176953,
+      "num": 246945,
+      "word": "怎么给猫猫狗狗买火车票",
+      "onboard_time": 1709041595,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 176291,
@@ -1977,6 +2065,14 @@
       "onboard_time": 1709018193,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162787,
+      "num": 162787,
+      "word": "周处除三害",
+      "onboard_time": 1709041414,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 162215,
@@ -2195,6 +2291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141108,
+      "num": 141108,
+      "word": "JDG战胜WE",
+      "onboard_time": 1709043274,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140701,
       "num": 140701,
       "word": "雎晓雯产后首封状态",
@@ -2217,14 +2321,6 @@
       "onboard_time": 1709035118,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139518,
-      "num": 139518,
-      "word": "飞驰人生2票房破31亿",
-      "onboard_time": 1709040692,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 139312,
@@ -2619,6 +2715,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 92224,
+      "num": 137968,
+      "word": "全新极氪001真香",
+      "onboard_time": 1709042853,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 92001,
       "num": 92001,
       "word": "帮邻居卖芹菜赚14元被罚10万",
@@ -2673,6 +2777,14 @@
       "onboard_time": 1708969699,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77620,
+      "num": 1507273,
+      "word": "十四冬闭幕式亮点抢先看",
+      "onboard_time": 1709040215,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76471,
@@ -2745,14 +2857,6 @@
       "onboard_time": 1708966642,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 53690,
-      "num": 1374417,
-      "word": "十四冬闭幕式亮点抢先看",
-      "onboard_time": 1709040215,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35508,
