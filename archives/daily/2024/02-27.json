@@ -1,7 +1,15 @@
 {
   "startTime": 1708964501350,
-  "endTime": 1708990449371,
+  "endTime": 1708996225332,
   "band_list": [
+    {
+      "raw_hot": 2260553,
+      "num": 2260553,
+      "word": "张雪峰承认到美国也做不起来",
+      "onboard_time": 1708990346,
+      "rank": 48,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1314672,
       "num": 1314672,
@@ -27,6 +35,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1031890,
+      "num": 1031890,
+      "word": "人民网评上班比丑",
+      "onboard_time": 1708995091,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 938492,
+      "num": 938492,
+      "word": "王菲谢霆锋一起回国",
+      "onboard_time": 1708991969,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 815138,
+      "num": 815138,
+      "word": "高群书为姚安娜回怼汪海林",
+      "onboard_time": 1708993415,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 787531,
+      "num": 593208,
+      "word": "美国等最久死囚将被行刑",
+      "onboard_time": 1708992755,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 701958,
       "num": 701958,
       "word": "大爷将30万存款忘在银行20年",
@@ -35,12 +75,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 693570,
+      "num": 693570,
+      "word": "文韬受伤",
+      "onboard_time": 1708990525,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 665048,
       "num": 665048,
       "word": "董宇辉说不讲内衣就是害羞",
       "onboard_time": 1708957473,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 609343,
+      "num": 609343,
+      "word": "坐高铁由于好奇选了静音车厢",
+      "onboard_time": 1708959878,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 560327,
+      "num": 560327,
+      "word": "姚安娜吃鸡式演技",
+      "onboard_time": 1708952856,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 558093,
+      "num": 558093,
+      "word": "大唐不夜城丢刀侍卫",
+      "onboard_time": 1708991489,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553816,
+      "num": 553816,
+      "word": "老人报警称丢了2000元民警找回5万2",
+      "onboard_time": 1708994915,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 552197,
@@ -67,28 +147,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 502158,
-      "num": 502158,
-      "word": "姚安娜吃鸡式演技",
-      "onboard_time": 1708952856,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 483266,
+      "num": 483266,
+      "word": "花少团真去秦岚家了吗",
+      "onboard_time": 1708990106,
+      "rank": 32,
+      "category": "综艺"
     },
     {
-      "raw_hot": 484454,
-      "num": 484454,
-      "word": "坐高铁由于好奇选了静音车厢",
-      "onboard_time": 1708959878,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 455455,
-      "num": 455455,
+      "raw_hot": 465600,
+      "num": 465600,
       "word": "为什么大家不爱买黑色贴身衣物",
       "onboard_time": 1708958135,
       "rank": 8,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 457806,
+      "num": 333313,
+      "word": "一喝牛奶就拉肚子是咋了",
+      "onboard_time": 1708993715,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 445689,
@@ -108,11 +188,19 @@
     },
     {
       "raw_hot": 426168,
-      "num": 187872,
+      "num": 208550,
       "word": "从今天起尽量少熬夜",
       "onboard_time": 1708960654,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 425928,
+      "num": 425928,
+      "word": "倪妮核心朋友圈是读书时的闺蜜",
+      "onboard_time": 1708994614,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 366637,
@@ -131,6 +219,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 324425,
+      "num": 324425,
+      "word": "王鹤棣行程",
+      "onboard_time": 1708995631,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306613,
       "num": 306613,
       "word": "李湘晒王诗龄送的礼物",
@@ -139,12 +235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290382,
+      "num": 290382,
+      "word": "乌克兰",
+      "onboard_time": 1708995455,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 288665,
       "num": 288665,
       "word": "A股纪录刷新",
       "onboard_time": 1708959755,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 273765,
+      "num": 273765,
+      "word": "老爸炒9斤虾尾让女儿带学校分享",
+      "onboard_time": 1708989924,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254639,
@@ -171,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245122,
+      "num": 245122,
+      "word": "谢霆锋体脂",
+      "onboard_time": 1708994856,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 238615,
       "num": 187706,
       "word": "宋茜搬新家了",
@@ -179,11 +299,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236945,
+      "num": 201944,
+      "word": "脚后跟干裂可能是3种病",
+      "onboard_time": 1708995455,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 234726,
+      "num": 234726,
+      "word": "把公司群名改成了穷酸公司迟早倒闭",
+      "onboard_time": 1708953815,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232325,
       "num": 232325,
       "word": "徐冬冬说跑龙套赚的钱够养自己",
       "onboard_time": 1708966702,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 214528,
+      "num": 214528,
+      "word": "张艺兴金希澈同框",
+      "onboard_time": 1708990827,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -203,6 +347,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190254,
+      "num": 190254,
+      "word": "常喝溶咖啡加速衰老",
+      "onboard_time": 1708989924,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 190052,
+      "num": 983886,
+      "word": "世界最长海底高铁隧道",
+      "onboard_time": 1708956093,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189839,
       "num": 189839,
       "word": "中传考研",
@@ -212,19 +372,19 @@
     },
     {
       "raw_hot": 187973,
-      "num": 134562,
+      "num": 185109,
       "word": "男子每个月染发致中毒险肝衰竭",
       "onboard_time": 1708988420,
       "rank": 21,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183913,
-      "num": 183913,
-      "word": "把公司群名改成了穷酸公司迟早倒闭",
-      "onboard_time": 1708953815,
-      "rank": 22,
-      "category": "幽默"
+      "raw_hot": 176775,
+      "num": 176775,
+      "word": "情头",
+      "onboard_time": 1708995274,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 174774,
@@ -251,12 +411,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 164465,
+      "num": 164465,
+      "word": "夏之光考古",
+      "onboard_time": 1708995934,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 154598,
       "num": 154598,
       "word": "部分网店靠盗版短剧入账数十万",
       "onboard_time": 1708980136,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147658,
+      "num": 147658,
+      "word": "四六级考试一次就过",
+      "onboard_time": 1708991672,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 146564,
@@ -267,11 +443,43 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146216,
+      "num": 146216,
+      "word": "瞎书去世",
+      "onboard_time": 1708996053,
+      "rank": 42,
+      "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 146021,
+      "num": 146021,
+      "word": "文旅局回应游客在雪乡被要求自费上千元",
+      "onboard_time": 1708990706,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 142865,
       "num": 142865,
       "word": "四六级查分入口",
       "onboard_time": 1708989081,
       "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 142660,
+      "num": 142660,
+      "word": "清明上河园小乞丐回应被喂胖",
+      "onboard_time": 1708990346,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142540,
+      "num": 142540,
+      "word": "张雪峰说考研有需求就考没有就别考",
+      "onboard_time": 1708990404,
+      "rank": 49,
       "category": "教育"
     },
     {
@@ -291,6 +499,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 139288,
+      "num": 139288,
+      "word": "年轻人为何词穷",
+      "onboard_time": 1708994557,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 138132,
+      "num": 138132,
+      "word": "来自星尘",
+      "onboard_time": 1708995154,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134212,
       "num": 134212,
       "word": "猎冰张颂文演技",
@@ -305,6 +529,22 @@
       "onboard_time": 1708952014,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 133394,
+      "num": 133394,
+      "word": "iPhone精织斜纹保护套收广泛差评",
+      "onboard_time": 1708993234,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 129157,
+      "num": 129157,
+      "word": "吴磊顺毛自拍",
+      "onboard_time": 1708993534,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 123728,
@@ -411,22 +651,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 98977,
-      "num": 98977,
-      "word": "常喝溶咖啡加速衰老",
-      "onboard_time": 1708989924,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 98098,
-      "num": 786908,
-      "word": "世界最长海底高铁隧道",
-      "onboard_time": 1708956093,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96073,
       "num": 96073,
       "word": "自从把家里的桌子换成透明的",
@@ -449,14 +673,6 @@
       "onboard_time": 1708943673,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90615,
-      "num": 90615,
-      "word": "花少团真去秦岚家了吗",
-      "onboard_time": 1708990106,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 86996,
@@ -515,20 +731,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69540,
-      "num": 69540,
-      "word": "老爸炒9斤虾尾让女儿带学校分享",
-      "onboard_time": 1708989924,
+      "raw_hot": 70155,
+      "num": 178215,
+      "word": "2024年开启5G Advanced商用元年",
+      "onboard_time": 1708995755,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64787,
-      "num": 64787,
-      "word": "清明上河园小乞丐回应被喂胖",
-      "onboard_time": 1708990346,
-      "rank": 41,
-      "category": "社会新闻"
+      "category": "互联网"
     },
     {
       "raw_hot": 62535,
@@ -553,22 +761,6 @@
       "onboard_time": 1708966642,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 57445,
-      "num": 57445,
-      "word": "张雪峰承认到美国也做不起来",
-      "onboard_time": 1708990346,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56614,
-      "num": 56614,
-      "word": "张雪峰说考研有需求就考没有就别考",
-      "onboard_time": 1708990404,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 35508,
