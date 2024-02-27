@@ -1,6 +1,6 @@
 {
   "startTime": 1709050946453,
-  "endTime": 1709075770940,
+  "endTime": 1709076853520,
   "band_list": [
     {
       "raw_hot": 1329925,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 590424,
+      "num": 590424,
+      "word": "李湘前夫李厚霖给李亚鹏直播打赏",
+      "onboard_time": 1709057059,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543315,
       "num": 164778,
       "word": "22岁女生长期熬夜患带状疱疹",
@@ -51,12 +59,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 432088,
-      "num": 432088,
-      "word": "李湘前夫李厚霖给李亚鹏直播打赏",
-      "onboard_time": 1709057059,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 493072,
+      "num": 493072,
+      "word": "地铁小姐姐连摔两跤滑跪按下急停按钮",
+      "onboard_time": 1709062155,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 413706,
@@ -99,20 +107,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310291,
-      "num": 310291,
-      "word": "地铁小姐姐连摔两跤滑跪按下急停按钮",
-      "onboard_time": 1709062155,
-      "rank": 48,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 291593,
       "num": 291593,
       "word": "阮经天好帅",
       "onboard_time": 1709044537,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 279528,
+      "num": 279528,
+      "word": "母亲将唯一银镯打成首饰送2个女儿",
+      "onboard_time": 1709059576,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278064,
@@ -131,12 +139,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 257147,
-      "num": 257147,
-      "word": "母亲将唯一银镯打成首饰送2个女儿",
-      "onboard_time": 1709059576,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 247291,
+      "num": 247291,
+      "word": "鹿晗工作室已注册足球第一课商标",
+      "onboard_time": 1709054301,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 245841,
@@ -171,12 +179,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225916,
+      "num": 225916,
+      "word": "第5例被治愈的艾滋病患者",
+      "onboard_time": 1709075123,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218667,
       "num": 218667,
       "word": "金智秀世趋",
       "onboard_time": 1709042853,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216263,
+      "num": 118716,
+      "word": "为什么晚上睡觉嘴会发干",
+      "onboard_time": 1709053644,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 215147,
+      "num": 215147,
+      "word": "男子将6元凉菜拼盘堆成金字塔",
+      "onboard_time": 1709067376,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213936,
@@ -195,36 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181380,
-      "num": 98872,
-      "word": "为什么晚上睡觉嘴会发干",
-      "onboard_time": 1709053644,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 179017,
-      "num": 179017,
-      "word": "鹿晗工作室已注册足球第一课商标",
-      "onboard_time": 1709054301,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168224,
       "num": 168224,
       "word": "为何星巴克没那么火了",
       "onboard_time": 1709044657,
       "rank": 18,
       "category": "美食"
-    },
-    {
-      "raw_hot": 167848,
-      "num": 167848,
-      "word": "男子将6元凉菜拼盘堆成金字塔",
-      "onboard_time": 1709067376,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165560,
@@ -259,12 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130012,
+      "num": 130012,
+      "word": "唐嫣巴黎时装周",
+      "onboard_time": 1709039316,
+      "rank": 47,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 129830,
       "num": 129830,
       "word": "谁给张凌赫画的卧蚕",
       "onboard_time": 1709042196,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129104,
+      "num": 129104,
+      "word": "女子用一年完成相亲领证生子三连跳",
+      "onboard_time": 1709034995,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127278,
@@ -291,6 +315,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122786,
+      "num": 116897,
+      "word": "龙年二月初二夜空有龙抬头",
+      "onboard_time": 1709068996,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120083,
+      "num": 92154,
+      "word": "男子骗00后女生裸聊后威胁发生性关系被判3年",
+      "onboard_time": 1709076446,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120074,
       "num": 120074,
       "word": "韩国今年176所小学没招到新生",
@@ -307,12 +347,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 116713,
+      "num": 116713,
+      "word": "徐老太带货丝袜是在雷区蹦迪吗",
+      "onboard_time": 1709054361,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 116511,
       "num": 116511,
       "word": "李宰旭承认恋情",
       "onboard_time": 1709007695,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115411,
+      "num": 115411,
+      "word": "医院筹建7年未开业却已聘515人",
+      "onboard_time": 1709076208,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113040,
@@ -323,12 +379,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 112065,
-      "num": 90495,
-      "word": "龙年二月初二夜空有龙抬头",
-      "onboard_time": 1709068996,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 111246,
+      "num": 111246,
+      "word": "眼睛里没揉出来的脏东西都去哪了",
+      "onboard_time": 1709075123,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 111158,
@@ -347,14 +403,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 108579,
-      "num": 108579,
-      "word": "女子用一年完成相亲领证生子三连跳",
-      "onboard_time": 1709034995,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103537,
       "num": 103537,
       "word": "为什么最好禁止小孩去别人家过夜",
@@ -371,20 +419,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101416,
+      "num": 91901,
+      "word": "今日从TikTok平台下架歌曲的艺人",
+      "onboard_time": 1709040273,
+      "rank": 44,
+      "category": "音乐,互联网"
+    },
+    {
       "raw_hot": 101179,
       "num": 101179,
       "word": "女生行李箱装满AD钙奶被安检拦下",
       "onboard_time": 1709032711,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99763,
-      "num": 99763,
-      "word": "唐嫣巴黎时装周",
-      "onboard_time": 1709039316,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 97139,
@@ -419,28 +467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90495,
-      "num": 90494,
-      "word": "徐老太带货丝袜是在雷区蹦迪吗",
-      "onboard_time": 1709054361,
-      "rank": 26,
-      "category": "网红"
-    },
-    {
       "raw_hot": 84811,
       "num": 84811,
       "word": "这么癫的笔袋可太适合我了",
       "onboard_time": 1709043456,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 84131,
-      "num": 84131,
-      "word": "今日从TikTok平台下架歌曲的艺人",
-      "onboard_time": 1709040273,
-      "rank": 44,
-      "category": "音乐,互联网"
     },
     {
       "raw_hot": 83305,
@@ -467,39 +499,39 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68043,
-      "num": 68043,
-      "word": "眼睛里没揉出来的脏东西都去哪了",
-      "onboard_time": 1709075123,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 62520,
+      "num": 62520,
+      "word": "终于轮到尔滨人出来玩了",
+      "onboard_time": 1709076326,
+      "rank": 37,
+      "category": "幽默"
     },
     {
-      "raw_hot": 63399,
-      "num": 63399,
-      "word": "第5例被治愈的艾滋病患者",
-      "onboard_time": 1709075123,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54867,
-      "num": 54867,
+      "raw_hot": 59993,
+      "num": 59993,
       "word": "肖战胸肌见客",
       "onboard_time": 1709040753,
       "rank": 47,
       "category": "艺人"
     },
     {
-      "raw_hot": 45261,
-      "num": 45261,
+      "raw_hot": 50832,
+      "num": 50832,
       "word": "成毅新剧雪中路透",
       "onboard_time": 1709059156,
       "rank": 43,
       "category": "剧集"
     },
     {
-      "raw_hot": 39577,
+      "raw_hot": 44094,
+      "num": 44094,
+      "word": "卖老房了老邻居给我妈的信",
+      "onboard_time": 1709063656,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 43596,
       "num": 793194,
       "word": "中国空间站进入常态化运营模式",
       "onboard_time": 1709038594,
@@ -513,14 +545,6 @@
       "onboard_time": 1709065515,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 36851,
-      "num": 36851,
-      "word": "卖老房了老邻居给我妈的信",
-      "onboard_time": 1709063656,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 34607,
