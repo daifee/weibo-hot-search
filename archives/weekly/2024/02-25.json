@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709025473498,
+  "endTime": 1709026516739,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5365064,
+      "num": 5365064,
+      "word": "秦刚辞去全国人大代表职务",
+      "onboard_time": 1709024670,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 4505829,
       "num": 4505829,
       "word": "国乒男团11连冠",
       "onboard_time": 1708866577,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 4392282,
-      "num": 4392282,
-      "word": "秦刚辞去全国人大代表职务",
-      "onboard_time": 1709024670,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 4051630,
@@ -723,6 +723,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1012351,
+      "num": 1012351,
+      "word": "笑果艺人现状",
+      "onboard_time": 1709023472,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1009100,
       "num": 1009100,
       "word": "唐艺昕说恋爱中先道歉的人赢了",
@@ -784,14 +792,6 @@
       "word": "陈乔恩过年胖了快5公斤",
       "onboard_time": 1708997012,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 967923,
-      "num": 967923,
-      "word": "笑果艺人现状",
-      "onboard_time": 1709023472,
-      "rank": 3,
       "category": "艺人"
     },
     {
@@ -2307,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474957,
+      "num": 294007,
+      "word": "父母迷信偏方14岁男孩身高定格在160",
+      "onboard_time": 1709024375,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474496,
       "num": 474496,
       "word": "全员加速中回应",
@@ -3035,14 +3043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 344863,
-      "num": 294007,
-      "word": "父母迷信偏方14岁男孩身高定格在160",
-      "onboard_time": 1709024375,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 344295,
       "num": 344295,
       "word": "泽连斯基公布乌军阵亡人数为3.1万",
@@ -3097,6 +3097,14 @@
       "onboard_time": 1708846891,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332881,
+      "num": 332881,
+      "word": "脑袋空空的人适合什么工作",
+      "onboard_time": 1709022511,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 331014,
@@ -3419,6 +3427,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 298685,
+      "num": 298685,
+      "word": "考研结果重要还是经历重要",
+      "onboard_time": 1709024974,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 298597,
       "num": 298597,
       "word": "日本今年计划排放5.46万吨核污染水",
@@ -3595,6 +3611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280394,
+      "num": 280394,
+      "word": "上海到北京仅需2.5小时",
+      "onboard_time": 1709025693,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280020,
       "num": 280020,
       "word": "网友把武艺认成小鬼的助理",
@@ -3641,14 +3665,6 @@
       "onboard_time": 1708828537,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277056,
-      "num": 277056,
-      "word": "脑袋空空的人适合什么工作",
-      "onboard_time": 1709022511,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 275643,
@@ -4025,14 +4041,6 @@
       "onboard_time": 1708926935,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 246411,
-      "num": 246411,
-      "word": "考研结果重要还是经历重要",
-      "onboard_time": 1709024974,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 245757,
@@ -5531,6 +5539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182654,
+      "num": 182654,
+      "word": "实际上行程很忙不影响谈恋爱",
+      "onboard_time": 1709025457,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182625,
       "num": 182625,
       "word": "上春山 神龙吐水",
@@ -5617,6 +5633,14 @@
       "onboard_time": 1708868853,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 180062,
+      "num": 180062,
+      "word": "日本去年新生婴儿75万人",
+      "onboard_time": 1709025994,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179622,
@@ -5809,6 +5833,14 @@
       "onboard_time": 1709017173,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171291,
+      "num": 171291,
+      "word": "蔡卓宜哥哥结婚",
+      "onboard_time": 1709026412,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 171040,
@@ -6209,6 +6241,14 @@
       "onboard_time": 1708906771,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156499,
+      "num": 156499,
+      "word": "肥牛最快秒光的做法",
+      "onboard_time": 1709026412,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 156386,
@@ -6747,12 +6787,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135010,
+      "num": 135010,
+      "word": "不小心变成法院贫困户并被全院资助",
+      "onboard_time": 1709025214,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134559,
       "num": 134559,
       "word": "萨摩耶 全自动果皮处理器",
       "onboard_time": 1708925613,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134295,
+      "num": 189573,
+      "word": "十四届全国人大实有代表2956人",
+      "onboard_time": 1709026113,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 133394,
@@ -6825,6 +6881,22 @@
       "onboard_time": 1709016277,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131573,
+      "num": 131573,
+      "word": "中兴通讯股价涨停",
+      "onboard_time": 1709025574,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 131479,
+      "num": 131479,
+      "word": "李宰旭岳母为何这样名场面",
+      "onboard_time": 1709026295,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 131292,
@@ -6939,14 +7011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125610,
-      "num": 125610,
-      "word": "不小心变成法院贫困户并被全院资助",
-      "onboard_time": 1709025214,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 123205,
       "num": 123205,
       "word": "韩国超万名医生递交辞呈",
@@ -7041,6 +7105,14 @@
       "onboard_time": 1708934318,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119395,
+      "num": 119395,
+      "word": "人走好运的前提",
+      "onboard_time": 1709025872,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 119385,
@@ -7233,14 +7305,6 @@
       "onboard_time": 1708927894,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 101902,
-      "num": 101902,
-      "word": "实际上行程很忙不影响谈恋爱",
-      "onboard_time": 1709025457,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 100200,
@@ -7476,7 +7540,7 @@
     },
     {
       "raw_hot": 59335,
-      "num": 1036947,
+      "num": 1056536,
       "word": "中华文化学习笔记",
       "onboard_time": 1709010161,
       "rank": 39,

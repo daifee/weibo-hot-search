@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1709025473498,
+  "endTime": 1709026516739,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -595,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 5365064,
+      "num": 5365064,
+      "word": "秦刚辞去全国人大代表职务",
+      "onboard_time": 1709024670,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 5335912,
       "num": 5335912,
       "word": "杨紫穿紫",
@@ -713,14 +721,6 @@
       "onboard_time": 1708408239,
       "rank": 1,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 4392282,
-      "num": 4392282,
-      "word": "秦刚辞去全国人大代表职务",
-      "onboard_time": 1709024670,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 4385432,
