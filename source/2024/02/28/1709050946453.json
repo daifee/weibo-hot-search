@@ -1,0 +1,410 @@
+{
+  "runTime": 1709050946453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1329925,
+        "num": 1329925,
+        "word": "27岁才意识到朋友都是阶段性的",
+        "onboard_time": 1709046395,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1281187,
+        "num": 1281187,
+        "word": "台湾省",
+        "onboard_time": 1709033313,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39577,
+        "num": 793194,
+        "word": "中国空间站进入常态化运营模式",
+        "onboard_time": 1709038594,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635392,
+        "num": 635392,
+        "word": "容易被癌细胞盯上的7个饮食习惯",
+        "onboard_time": 1709046337,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 594009,
+        "num": 594009,
+        "word": "小徐英语六级考了353分",
+        "onboard_time": 1709045255,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413706,
+        "num": 413706,
+        "word": "为何山姆穷鬼套餐让中产疯狂",
+        "onboard_time": 1709036376,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 392326,
+        "num": 392326,
+        "word": "张致恒儿子患自闭症",
+        "onboard_time": 1709043935,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364193,
+        "num": 364193,
+        "word": "喜欢了一个比自己大7岁的姐姐",
+        "onboard_time": 1709035533,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291593,
+        "num": 291593,
+        "word": "阮经天好帅",
+        "onboard_time": 1709044537,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262993,
+        "num": 262993,
+        "word": "DIOR全球公关总监接待刘雨昕",
+        "onboard_time": 1709043698,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 515952,
+        "num": 257040,
+        "word": "董宇辉不能既享受流量红利又逃避舆论",
+        "onboard_time": 1709039614,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 316916,
+        "num": 256315,
+        "word": "还以为孙千剪头发了",
+        "onboard_time": 1709049090,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245841,
+        "num": 245841,
+        "word": "姜思达 中国的Miley",
+        "onboard_time": 1709041952,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 234992,
+        "num": 234992,
+        "word": "王一博从前有很多话分享",
+        "onboard_time": 1709044537,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232123,
+        "num": 232123,
+        "word": "一下子没有年龄焦虑了",
+        "onboard_time": 1709043576,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228619,
+        "num": 228619,
+        "word": "男子与智残女子结婚吃绝户卷走450万",
+        "onboard_time": 1709037154,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218667,
+        "num": 218667,
+        "word": "金智秀世趋",
+        "onboard_time": 1709042853,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211578,
+        "num": 211578,
+        "word": "贵州全面清理拖欠企业账款",
+        "onboard_time": 1709044117,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168224,
+        "num": 168224,
+        "word": "为何星巴克没那么火了",
+        "onboard_time": 1709044657,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165560,
+        "num": 165560,
+        "word": "网友向王鹤棣道歉",
+        "onboard_time": 1709034572,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543315,
+        "num": 164778,
+        "word": "22岁女生长期熬夜患带状疱疹",
+        "onboard_time": 1709046696,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318479,
+        "num": 158675,
+        "word": "降级式分手",
+        "onboard_time": 1709047476,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213936,
+        "num": 157139,
+        "word": "3岁男童喝路边饮料食道烧成针眼大",
+        "onboard_time": 1709045074,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152121,
+        "num": 152121,
+        "word": "莫言被起诉闹剧何时休",
+        "onboard_time": 1709045494,
+        "rank": 23,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 143879,
+        "num": 143879,
+        "word": "暗中偷走气血那些事",
+        "onboard_time": 1709040936,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133197,
+        "num": 133197,
+        "word": "上海到北京仅需2.5小时",
+        "onboard_time": 1709025693,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129830,
+        "num": 129830,
+        "word": "谁给张凌赫画的卧蚕",
+        "onboard_time": 1709042196,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127278,
+        "num": 127278,
+        "word": "极氪001价格",
+        "onboard_time": 1709041174,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 125932,
+        "num": 125932,
+        "word": "董宇辉在东方甄选有多大自由度",
+        "onboard_time": 1709047114,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124850,
+        "num": 124850,
+        "word": "金智秀双马尾",
+        "onboard_time": 1709043754,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117468,
+        "num": 117468,
+        "word": "土豆片炒馒头",
+        "onboard_time": 1709048072,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116511,
+        "num": 116511,
+        "word": "李宰旭承认恋情",
+        "onboard_time": 1709007695,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113040,
+        "num": 113040,
+        "word": "夏之光跳舞",
+        "onboard_time": 1709044716,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111158,
+        "num": 111158,
+        "word": "闵塔鲨赵露思友情",
+        "onboard_time": 1709048911,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108579,
+        "num": 108579,
+        "word": "女子用一年完成相亲领证生子三连跳",
+        "onboard_time": 1709034995,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103537,
+        "num": 103537,
+        "word": "为什么最好禁止小孩去别人家过夜",
+        "onboard_time": 1709012853,
+        "rank": 35,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 101985,
+        "num": 101985,
+        "word": "韩娱有自己的偷偷藏不住",
+        "onboard_time": 1709037754,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101179,
+        "num": 101179,
+        "word": "女生行李箱装满AD钙奶被安检拦下",
+        "onboard_time": 1709032711,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98242,
+        "num": 98242,
+        "word": "贾跃亭造车已花超200亿元",
+        "onboard_time": 1709050468,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 97139,
+        "num": 97139,
+        "word": "紫川空降",
+        "onboard_time": 1709037339,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96544,
+        "num": 96544,
+        "word": "柳鑫宇亲吻冰面",
+        "onboard_time": 1709046154,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96399,
+        "num": 96399,
+        "word": "宝可梦发布会",
+        "onboard_time": 1709046875,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91148,
+        "num": 91148,
+        "word": "seventeen成员将于第四季度开始入伍",
+        "onboard_time": 1709037936,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84811,
+        "num": 84811,
+        "word": "这么癫的笔袋可太适合我了",
+        "onboard_time": 1709043456,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84131,
+        "num": 84131,
+        "word": "今日从TikTok平台下架歌曲的艺人",
+        "onboard_time": 1709040273,
+        "rank": 44,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 83305,
+        "num": 83305,
+        "word": "肖战看秀待遇",
+        "onboard_time": 1709039076,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 79201,
+        "num": 79201,
+        "word": "女生考研失败含泪阅读给自己的一封信",
+        "onboard_time": 1709020776,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 76331,
+        "num": 78970,
+        "word": "唐嫣巴黎时装周",
+        "onboard_time": 1709039316,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 72256,
+        "num": 78577,
+        "word": "全智贤被要求出示就业证明",
+        "onboard_time": 1709027612,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56307,
+        "num": 77776,
+        "word": "洗澡是最好的医美",
+        "onboard_time": 1709050828,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视网络安全工作#"
+    }
+  }
+}
