@@ -1,6 +1,6 @@
 {
   "startTime": 1709050946453,
-  "endTime": 1709069640871,
+  "endTime": 1709072264384,
   "band_list": [
     {
       "raw_hot": 1329925,
@@ -435,6 +435,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 66832,
+      "num": 66832,
+      "word": "母亲将唯一银镯打成首饰送2个女儿",
+      "onboard_time": 1709059576,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66548,
+      "num": 38793,
+      "word": "男子将6元凉菜拼盘堆成金字塔",
+      "onboard_time": 1709067376,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42082,
       "num": 45759,
       "word": "肖战胸肌见客",
@@ -443,11 +459,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 40753,
-      "num": 40753,
-      "word": "母亲将唯一银镯打成首饰送2个女儿",
-      "onboard_time": 1709059576,
-      "rank": 37,
+      "raw_hot": 41702,
+      "num": 30275,
+      "word": "龙年二月初二夜空有龙抬头",
+      "onboard_time": 1709068996,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -467,32 +483,24 @@
       "category": "情感"
     },
     {
-      "raw_hot": 31401,
-      "num": 28621,
+      "raw_hot": 34157,
+      "num": 34157,
       "word": "来自星星的你时期的全智贤",
       "onboard_time": 1709065515,
       "rank": 14,
       "category": "剧集"
     },
     {
-      "raw_hot": 28267,
-      "num": 28267,
-      "word": "男子将6元凉菜拼盘堆成金字塔",
-      "onboard_time": 1709067376,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19652,
-      "num": 19652,
+      "raw_hot": 30007,
+      "num": 30007,
       "word": "地铁小姐姐连摔两跤滑跪按下急停按钮",
       "onboard_time": 1709062155,
       "rank": 48,
       "category": "社会正能量"
     },
     {
-      "raw_hot": 17151,
-      "num": 17151,
+      "raw_hot": 18203,
+      "num": 18203,
       "word": "成毅新剧雪中路透",
       "onboard_time": 1709059156,
       "rank": 43,
@@ -505,6 +513,14 @@
       "onboard_time": 1709063656,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 14605,
+      "num": 14605,
+      "word": "我迟迟不翻开书的原因",
+      "onboard_time": 1709071097,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 14599,
@@ -521,14 +537,6 @@
       "onboard_time": 1709062456,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 14061,
-      "num": 14061,
-      "word": "龙年二月初二夜空有龙抬头",
-      "onboard_time": 1709068996,
-      "rank": 36,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
