@@ -1,7 +1,15 @@
 {
   "startTime": 1708964501350,
-  "endTime": 1709004931818,
+  "endTime": 1709007645619,
   "band_list": [
+    {
+      "raw_hot": 2779830,
+      "num": 2779830,
+      "word": "Prada玄学",
+      "onboard_time": 1709003970,
+      "rank": 3,
+      "category": "时尚"
+    },
     {
       "raw_hot": 2317051,
       "num": 2317051,
@@ -19,12 +27,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1343721,
-      "num": 1343721,
+      "raw_hot": 1407087,
+      "num": 1407087,
       "word": "沈月算命",
       "onboard_time": 1709003371,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1341257,
+      "num": 1341257,
+      "word": "低彩礼子女优先入学是否公平",
+      "onboard_time": 1709005535,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 1314672,
@@ -43,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1158402,
+      "num": 1000762,
+      "word": "董宇辉微博",
+      "onboard_time": 1709004995,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1119226,
       "num": 1119226,
       "word": "四六级分数出了",
@@ -59,12 +83,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1017673,
-      "num": 1017673,
-      "word": "Prada玄学",
-      "onboard_time": 1709003970,
-      "rank": 3,
-      "category": "时尚"
+      "raw_hot": 1013189,
+      "num": 1013189,
+      "word": "越吃越胖的蔬菜刺客",
+      "onboard_time": 1709001814,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 971862,
@@ -97,14 +121,6 @@
       "onboard_time": 1708998694,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 891110,
-      "num": 891110,
-      "word": "越吃越胖的蔬菜刺客",
-      "onboard_time": 1709001814,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 828975,
@@ -195,6 +211,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 622047,
+      "num": 622047,
+      "word": "向佐摆了一桌子全家福",
+      "onboard_time": 1709004514,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 620952,
+      "num": 620952,
+      "word": "专家称房价越涨大家购买意愿越强",
+      "onboard_time": 1709006316,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609343,
       "num": 609343,
       "word": "坐高铁由于好奇选了静音车厢",
@@ -227,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554872,
+      "num": 554872,
+      "word": "吴镇宇预言",
+      "onboard_time": 1709003434,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 552197,
       "num": 552197,
       "word": "一夜间AD钙奶销售增长一倍",
@@ -251,6 +291,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 532905,
+      "num": 532905,
+      "word": "董宇辉谈正月不剪头原因",
+      "onboard_time": 1709005471,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 516414,
       "num": 516414,
       "word": "前夫哥过得不好比什么都重要",
@@ -265,14 +313,6 @@
       "onboard_time": 1708996053,
       "rank": 42,
       "category": "读书作家,作品衍生"
-    },
-    {
-      "raw_hot": 497449,
-      "num": 497449,
-      "word": "吴镇宇预言",
-      "onboard_time": 1709003434,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 495889,
@@ -371,6 +411,22 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 391981,
+      "num": 391981,
+      "word": "范志毅认证鹿晗内娱最佳球员",
+      "onboard_time": 1709007033,
+      "rank": 18,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 390100,
+      "num": 390100,
+      "word": "日本女队全员夸赞孙颖莎",
+      "onboard_time": 1709006197,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366637,
       "num": 347797,
       "word": "女校长回应百人群发不雅视频",
@@ -467,6 +523,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 260549,
+      "num": 260549,
+      "word": "成功的拒绝了猫咪三次",
+      "onboard_time": 1709005535,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254639,
       "num": 254639,
       "word": "董宇辉三拒讲解内衣内裤",
@@ -483,12 +547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250057,
-      "num": 250057,
-      "word": "向佐摆了一桌子全家福",
-      "onboard_time": 1709004514,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 249488,
+      "num": 249488,
+      "word": "姚安娜镜头",
+      "onboard_time": 1709004754,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 248133,
@@ -571,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209994,
+      "num": 209994,
+      "word": "不给你涨价都不错了",
+      "onboard_time": 1709006736,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209301,
       "num": 209301,
       "word": "人民法院案例库今起对社会开放",
@@ -601,6 +673,14 @@
       "onboard_time": 1709003915,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 199913,
+      "num": 199913,
+      "word": "东方甄选股价跌超5%",
+      "onboard_time": 1709005957,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 198961,
@@ -667,14 +747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 188922,
-      "num": 188922,
-      "word": "姚安娜镜头",
-      "onboard_time": 1709004754,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187973,
       "num": 185109,
       "word": "男子每个月染发致中毒险肝衰竭",
@@ -689,6 +761,22 @@
       "onboard_time": 1709004633,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182250,
+      "num": 182250,
+      "word": "汪海林回应被猎冰导演回怼",
+      "onboard_time": 1709007516,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 181929,
+      "num": 181929,
+      "word": "考研调剂",
+      "onboard_time": 1709005957,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 177149,
@@ -929,6 +1017,14 @@
       "onboard_time": 1709001631,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122175,
+      "num": 372538,
+      "word": "被杨幂身材秀到了",
+      "onboard_time": 1709005114,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121344,

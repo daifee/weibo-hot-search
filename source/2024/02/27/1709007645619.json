@@ -1,0 +1,410 @@
+{
+  "runTime": 1709007645619,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2779830,
+        "num": 2779830,
+        "word": "Prada玄学",
+        "onboard_time": 1709003970,
+        "rank": 0,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1407087,
+        "num": 1407087,
+        "word": "沈月算命",
+        "onboard_time": 1709003371,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88089,
+        "num": 1362039,
+        "word": "世界最长海底高铁隧道",
+        "onboard_time": 1708956093,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1341257,
+        "num": 1341257,
+        "word": "低彩礼子女优先入学是否公平",
+        "onboard_time": 1709005535,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1013189,
+        "num": 1013189,
+        "word": "越吃越胖的蔬菜刺客",
+        "onboard_time": 1709001814,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1158402,
+        "num": 1000762,
+        "word": "董宇辉微博",
+        "onboard_time": 1709004995,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 902265,
+        "num": 902265,
+        "word": "人民网评上班比丑",
+        "onboard_time": 1708995091,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 864032,
+        "num": 864032,
+        "word": "韩国宣布辞职医生再不复岗司法处理",
+        "onboard_time": 1708997254,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622047,
+        "num": 622047,
+        "word": "向佐摆了一桌子全家福",
+        "onboard_time": 1709004514,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 620952,
+        "num": 620952,
+        "word": "专家称房价越涨大家购买意愿越强",
+        "onboard_time": 1709006316,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590111,
+        "num": 590111,
+        "word": "老人报警称丢了2000元民警找回5万2",
+        "onboard_time": 1708994915,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554872,
+        "num": 554872,
+        "word": "吴镇宇预言",
+        "onboard_time": 1709003434,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 532905,
+        "num": 532905,
+        "word": "董宇辉谈正月不剪头原因",
+        "onboard_time": 1709005471,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 522158,
+        "num": 522158,
+        "word": "电瓶车停满楼道坐垫一夜全被划烂",
+        "onboard_time": 1709000372,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471769,
+        "num": 471769,
+        "word": "工作人员辟谣王鹤棣要求重录",
+        "onboard_time": 1709001872,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 462405,
+        "num": 462405,
+        "word": "比特币",
+        "onboard_time": 1709002654,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 408605,
+        "num": 408605,
+        "word": "陈乔恩过年胖了快5公斤",
+        "onboard_time": 1708997012,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403186,
+        "num": 403186,
+        "word": "银行卖起金手镯",
+        "onboard_time": 1708998694,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 391981,
+        "num": 391981,
+        "word": "范志毅认证鹿晗内娱最佳球员",
+        "onboard_time": 1709007033,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 390100,
+        "num": 390100,
+        "word": "日本女队全员夸赞孙颖莎",
+        "onboard_time": 1709006197,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122175,
+        "num": 372538,
+        "word": "被杨幂身材秀到了",
+        "onboard_time": 1709005114,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 675115,
+        "num": 371280,
+        "word": "张雪峰承认到美国也做不起来",
+        "onboard_time": 1708990346,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671390,
+        "num": 370033,
+        "word": "女子孕期打耳洞1年半后多俩小耳朵",
+        "onboard_time": 1709002293,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360437,
+        "num": 360437,
+        "word": "高群书为姚安娜回怼汪海林",
+        "onboard_time": 1708993415,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312054,
+        "num": 312054,
+        "word": "文韬受伤",
+        "onboard_time": 1708990525,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299650,
+        "num": 299650,
+        "word": "iPhone16Pro配四重棱镜",
+        "onboard_time": 1708997254,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 292290,
+        "num": 292290,
+        "word": "剪指甲时去掉的死皮一直在保护你",
+        "onboard_time": 1708998512,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 260549,
+        "num": 260549,
+        "word": "成功的拒绝了猫咪三次",
+        "onboard_time": 1709005535,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249488,
+        "num": 249488,
+        "word": "姚安娜镜头",
+        "onboard_time": 1709004754,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243111,
+        "num": 243111,
+        "word": "四六级分数出了",
+        "onboard_time": 1708989081,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 242800,
+        "num": 242800,
+        "word": "二婚的朋友催我赶紧结婚",
+        "onboard_time": 1709000675,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228026,
+        "num": 228026,
+        "word": "布洛芬 能给卑职一个明示吗",
+        "onboard_time": 1708959878,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222697,
+        "num": 222697,
+        "word": "世界上最疼的病是什么病",
+        "onboard_time": 1709002474,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209994,
+        "num": 209994,
+        "word": "不给你涨价都不错了",
+        "onboard_time": 1709006736,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206178,
+        "num": 206178,
+        "word": "陈梦重回世界第二",
+        "onboard_time": 1709003194,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199913,
+        "num": 199913,
+        "word": "东方甄选股价跌超5%",
+        "onboard_time": 1709005957,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192591,
+        "num": 192591,
+        "word": "姆巴佩将与法国总统共进晚餐",
+        "onboard_time": 1709002772,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192026,
+        "num": 192026,
+        "word": "王菲谢霆锋一起回国",
+        "onboard_time": 1708991969,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191188,
+        "num": 191188,
+        "word": "加沙多个婴儿挤在一个保温箱",
+        "onboard_time": 1708999712,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 183075,
+        "num": 183075,
+        "word": "宇哥考研 我不会晒高分",
+        "onboard_time": 1709001933,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182250,
+        "num": 182250,
+        "word": "汪海林回应被猎冰导演回怼",
+        "onboard_time": 1709007516,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181929,
+        "num": 181929,
+        "word": "考研调剂",
+        "onboard_time": 1709005957,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170387,
+        "num": 170387,
+        "word": "姚安娜吃鸡式演技",
+        "onboard_time": 1708952856,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164864,
+        "num": 164864,
+        "word": "天涯社区被申请破产审查",
+        "onboard_time": 1709003915,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162486,
+        "num": 162486,
+        "word": "C罗将因不雅动作被停赛两场",
+        "onboard_time": 1708997614,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146825,
+        "num": 146825,
+        "word": "我爸眼中的好工作",
+        "onboard_time": 1709001211,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145066,
+        "num": 145066,
+        "word": "瞎书去世",
+        "onboard_time": 1708996053,
+        "rank": 46,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 143305,
+        "num": 143305,
+        "word": "看到四六级分数的反应",
+        "onboard_time": 1709004274,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141495,
+        "num": 141495,
+        "word": "头发梳对了有助于改善发量",
+        "onboard_time": 1709004452,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128969,
+        "num": 128969,
+        "word": "罗斯柴尔德家族掌门人去世",
+        "onboard_time": 1708999230,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设雄安新区需要各类企业共同参与#"
+    }
+  }
+}

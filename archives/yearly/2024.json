@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1709004931818,
+  "endTime": 1709007645619,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1499,6 +1499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 2779830,
+      "num": 2779830,
+      "word": "Prada玄学",
+      "onboard_time": 1709003970,
+      "rank": 3,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 2775213,
       "num": 2775213,
       "word": "吃完头孢7天内不能喝酒",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1708732282,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2334630,
-      "num": 1307515,
-      "word": "刘谦耍大牌",
-      "onboard_time": 1707485913,
-      "rank": 15,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

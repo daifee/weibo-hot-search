@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709004931818,
+  "endTime": 1709007645619,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -73,6 +73,14 @@
       "onboard_time": 1708927233,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2779830,
+      "num": 2779830,
+      "word": "Prada玄学",
+      "onboard_time": 1709003970,
+      "rank": 3,
+      "category": "时尚"
     },
     {
       "raw_hot": 2543604,
@@ -371,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1407087,
+      "num": 1407087,
+      "word": "沈月算命",
+      "onboard_time": 1709003371,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1390293,
       "num": 1390293,
       "word": "杭州劝架车主想的是能救两个人",
@@ -387,12 +403,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1343721,
-      "num": 1343721,
-      "word": "沈月算命",
-      "onboard_time": 1709003371,
-      "rank": 9,
-      "category": "艺人"
+      "raw_hot": 1341257,
+      "num": 1341257,
+      "word": "低彩礼子女优先入学是否公平",
+      "onboard_time": 1709005535,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 1335695,
@@ -523,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1158402,
+      "num": 1000762,
+      "word": "董宇辉微博",
+      "onboard_time": 1709004995,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1144453,
       "num": 1144453,
       "word": "韩国承诺医生们29日前返岗不追责",
@@ -611,12 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1017673,
-      "num": 1017673,
-      "word": "Prada玄学",
-      "onboard_time": 1709003970,
-      "rank": 3,
-      "category": "时尚"
+      "raw_hot": 1013189,
+      "num": 1013189,
+      "word": "越吃越胖的蔬菜刺客",
+      "onboard_time": 1709001814,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 1000791,
@@ -801,14 +825,6 @@
       "onboard_time": 1708906532,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 891110,
-      "num": 891110,
-      "word": "越吃越胖的蔬菜刺客",
-      "onboard_time": 1709001814,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 891042,
@@ -1427,6 +1443,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 622047,
+      "num": 622047,
+      "word": "向佐摆了一桌子全家福",
+      "onboard_time": 1709004514,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 620952,
+      "num": 620952,
+      "word": "专家称房价越涨大家购买意愿越强",
+      "onboard_time": 1709006316,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 618233,
       "num": 618233,
       "word": "周深把杨幂的英雄池摸透了",
@@ -1739,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554872,
+      "num": 554872,
+      "word": "吴镇宇预言",
+      "onboard_time": 1709003434,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 552197,
       "num": 552197,
       "word": "一夜间AD钙奶销售增长一倍",
@@ -1809,6 +1849,14 @@
       "onboard_time": 1708848570,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 532905,
+      "num": 532905,
+      "word": "董宇辉谈正月不剪头原因",
+      "onboard_time": 1709005471,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 532850,
@@ -1929,14 +1977,6 @@
       "onboard_time": 1708855836,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 497449,
-      "num": 497449,
-      "word": "吴镇宇预言",
-      "onboard_time": 1709003434,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 496205,
@@ -2419,12 +2459,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391981,
+      "num": 391981,
+      "word": "范志毅认证鹿晗内娱最佳球员",
+      "onboard_time": 1709007033,
+      "rank": 18,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 391633,
       "num": 391633,
       "word": "河南卫视 上春山",
       "onboard_time": 1708774958,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 390100,
+      "num": 390100,
+      "word": "日本女队全员夸赞孙颖莎",
+      "onboard_time": 1709006197,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 389707,
@@ -3339,6 +3395,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 260549,
+      "num": 260549,
+      "word": "成功的拒绝了猫咪三次",
+      "onboard_time": 1709005535,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 259060,
       "num": 259060,
       "word": "TES被偷家",
@@ -3443,20 +3507,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250057,
-      "num": 250057,
-      "word": "向佐摆了一桌子全家福",
-      "onboard_time": 1709004514,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 249566,
       "num": 249566,
       "word": "湿气较重的人这样吃水果更健康",
       "onboard_time": 1708829495,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 249488,
+      "num": 249488,
+      "word": "姚安娜镜头",
+      "onboard_time": 1709004754,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 249247,
@@ -4075,6 +4139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209994,
+      "num": 209994,
+      "word": "不给你涨价都不错了",
+      "onboard_time": 1709006736,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209762,
       "num": 209762,
       "word": "于适飞行夹克",
@@ -4297,6 +4369,14 @@
       "onboard_time": 1708847914,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199913,
+      "num": 199913,
+      "word": "东方甄选股价跌超5%",
+      "onboard_time": 1709005957,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 199700,
@@ -4683,14 +4763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188922,
-      "num": 188922,
-      "word": "姚安娜镜头",
-      "onboard_time": 1709004754,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188851,
       "num": 188851,
       "word": "日本男篮主场哨",
@@ -4888,6 +4960,14 @@
       "word": "烟火人家亲家变仇家",
       "onboard_time": 1708953453,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182250,
+      "num": 182250,
+      "word": "汪海林回应被猎冰导演回怼",
+      "onboard_time": 1709007516,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -6169,6 +6249,14 @@
       "onboard_time": 1708828893,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122175,
+      "num": 372538,
+      "word": "被杨幂身材秀到了",
+      "onboard_time": 1709005114,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 121939,
