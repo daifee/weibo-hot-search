@@ -1,0 +1,410 @@
+{
+  "runTime": 1709014888352,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2332772,
+        "num": 2332772,
+        "word": "彩礼不超3.9万子女可优先入学",
+        "onboard_time": 1709008182,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1611204,
+        "num": 1611204,
+        "word": "吉赛尔ins",
+        "onboard_time": 1709013517,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101549,
+        "num": 1154913,
+        "word": "中国航天今年预计完成100次发射任务",
+        "onboard_time": 1709010640,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1137522,
+        "num": 1137522,
+        "word": "Prada玄学",
+        "onboard_time": 1709003970,
+        "rank": 3,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 613651,
+        "num": 613651,
+        "word": "以为是休息实则在耗气血的行为",
+        "onboard_time": 1709011596,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 587995,
+        "num": 587995,
+        "word": "专家称房价越涨大家购买意愿越强",
+        "onboard_time": 1709006316,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460574,
+        "num": 460574,
+        "word": "王自如被强制执行3383万",
+        "onboard_time": 1709012738,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 458765,
+        "num": 458765,
+        "word": "范志毅认证鹿晗内娱最佳球员",
+        "onboard_time": 1709007033,
+        "rank": 7,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 439894,
+        "num": 439894,
+        "word": "稳定同居可认定刑法上的家庭成员",
+        "onboard_time": 1709011178,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415015,
+        "num": 415015,
+        "word": "西安领结婚证送10元刮刮乐",
+        "onboard_time": 1709010041,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4689978,
+        "num": 412567,
+        "word": "李宰旭承认恋情",
+        "onboard_time": 1709007695,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1189141,
+        "num": 392190,
+        "word": "SM承认柳智敏恋情",
+        "onboard_time": 1709008057,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 815404,
+        "num": 372925,
+        "word": "突然懂了YG公关的好",
+        "onboard_time": 1709009022,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621355,
+        "num": 367200,
+        "word": "为什么最好禁止小孩去别人家过夜",
+        "onboard_time": 1709012853,
+        "rank": 13,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 357699,
+        "num": 357699,
+        "word": "我丢了个包里面全是黄金",
+        "onboard_time": 1709008298,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347954,
+        "num": 347954,
+        "word": "Aespa回归时间",
+        "onboard_time": 1709014115,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344092,
+        "num": 344092,
+        "word": "为什么中国人存钱越来越多",
+        "onboard_time": 1709013455,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 311921,
+        "num": 311921,
+        "word": "董宇辉微博",
+        "onboard_time": 1709004995,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 300789,
+        "num": 300789,
+        "word": "怪盗基德 哥的脸没错过",
+        "onboard_time": 1709011596,
+        "rank": 18,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 335139,
+        "num": 295100,
+        "word": "Aespa Drama",
+        "onboard_time": 1709009322,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 470879,
+        "num": 286142,
+        "word": "女子孕期打耳洞1年半后多俩小耳朵",
+        "onboard_time": 1709002293,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418718,
+        "num": 282051,
+        "word": "英语四六级424是什么含金量",
+        "onboard_time": 1709010582,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 274101,
+        "num": 274101,
+        "word": "越吃越胖的蔬菜刺客",
+        "onboard_time": 1709001814,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 272675,
+        "num": 272675,
+        "word": "多方回应开封一中学宿舍蹲便器在床底",
+        "onboard_time": 1709012915,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264599,
+        "num": 264599,
+        "word": "王源自驾游",
+        "onboard_time": 1709008724,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249605,
+        "num": 249605,
+        "word": "沈月算命",
+        "onboard_time": 1709003371,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224025,
+        "num": 224025,
+        "word": "人民网三评教师减负",
+        "onboard_time": 1709012492,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206996,
+        "num": 206996,
+        "word": "服用布洛芬后会经历以下过程",
+        "onboard_time": 1709009681,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205693,
+        "num": 205693,
+        "word": "自焚美国军人临终遗言公开",
+        "onboard_time": 1709013874,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196065,
+        "num": 196065,
+        "word": "陈乔恩过年胖了快5公斤",
+        "onboard_time": 1708997012,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194949,
+        "num": 194949,
+        "word": "年轻人猝死可能与熬夜有关",
+        "onboard_time": 1709008363,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194783,
+        "num": 194783,
+        "word": "男子1个月发烧3次感染两种要命寄生虫",
+        "onboard_time": 1709014236,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177060,
+        "num": 177060,
+        "word": "人民网评上班比丑",
+        "onboard_time": 1708995091,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176009,
+        "num": 176009,
+        "word": "苏炳添复出首秀6秒70",
+        "onboard_time": 1709008900,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166140,
+        "num": 166140,
+        "word": "当你的上班搭子离职后",
+        "onboard_time": 1709010582,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165293,
+        "num": 165293,
+        "word": "我们仨路透",
+        "onboard_time": 1709010460,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163324,
+        "num": 163324,
+        "word": "周震南父亲公司房产被拍卖",
+        "onboard_time": 1709010400,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161661,
+        "num": 161661,
+        "word": "江秋莲诉谭斌诽谤将开庭",
+        "onboard_time": 1709012976,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160341,
+        "num": 160341,
+        "word": "剪指甲时去掉的死皮一直在保护你",
+        "onboard_time": 1708998512,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157478,
+        "num": 157478,
+        "word": "老人报警称丢了2000元民警找回5万2",
+        "onboard_time": 1708994915,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139312,
+        "num": 139312,
+        "word": "李宰旭经纪公司已读乱回",
+        "onboard_time": 1709013993,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138975,
+        "num": 138975,
+        "word": "减肥壁纸",
+        "onboard_time": 1709010880,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 135250,
+        "num": 135250,
+        "word": "半熟恋人",
+        "onboard_time": 1709011536,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133400,
+        "num": 133400,
+        "word": "韩国宣布辞职医生再不复岗司法处理",
+        "onboard_time": 1708997254,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124491,
+        "num": 124491,
+        "word": "文韬受伤",
+        "onboard_time": 1708990525,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123786,
+        "num": 123786,
+        "word": "董宇辉谈正月不剪头原因",
+        "onboard_time": 1709005471,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123332,
+        "num": 123332,
+        "word": "日本女队全员夸赞孙颖莎",
+        "onboard_time": 1709006197,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121657,
+        "num": 121657,
+        "word": "作者道歉并承认秦岭隧道视频系拼接",
+        "onboard_time": 1709014592,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119235,
+        "num": 119235,
+        "word": "连诗雅怀孕",
+        "onboard_time": 1709007757,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118788,
+        "num": 118788,
+        "word": "品牌方帮杨紫辟谣",
+        "onboard_time": 1709008900,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}
