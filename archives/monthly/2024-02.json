@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1709033631772,
+  "endTime": 1709036988650,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -481,6 +481,14 @@
       "onboard_time": 1707574359,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 4155368,
+      "num": 4155368,
+      "word": "台湾省",
+      "onboard_time": 1709033313,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 4109804,
@@ -8995,6 +9003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 898197,
+      "num": 898197,
+      "word": "因为出圈被骂到永久停办",
+      "onboard_time": 1709032590,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 897801,
       "num": 897801,
       "word": "英语二",
@@ -11257,6 +11273,14 @@
       "onboard_time": 1708230816,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 775456,
+      "num": 775456,
+      "word": "网友向王鹤棣道歉",
+      "onboard_time": 1709034572,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 774713,
@@ -18979,6 +19003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 509511,
+      "num": 509511,
+      "word": "女子买无座票坐卧铺袭警被刑拘",
+      "onboard_time": 1709033492,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509315,
       "num": 564087,
       "word": "农村大龄男开始迎娶二婚女",
@@ -20403,6 +20435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 477442,
+      "num": 477442,
+      "word": "女生行李箱装满AD钙奶被安检拦下",
+      "onboard_time": 1709032711,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477103,
       "num": 300790,
       "word": "谁在消费3000元的美甲",
@@ -21147,6 +21187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 456113,
+      "num": 456113,
+      "word": "为何山姆穷鬼套餐让中产疯狂",
+      "onboard_time": 1709036376,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 456107,
       "num": 456107,
       "word": "贾玲健身细节首次曝光",
@@ -21208,6 +21256,14 @@
       "word": "泰国偶遇钟楚曦侯雯元逛街",
       "onboard_time": 1707886472,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 454701,
+      "num": 454701,
+      "word": "李宰旭说愿意和柳智敏旅行",
+      "onboard_time": 1709035955,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -23787,6 +23843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403961,
+      "num": 403961,
+      "word": "紫川",
+      "onboard_time": 1709033191,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403745,
       "num": 373428,
       "word": "杨紫演长相思沟通半年才定下来",
@@ -25451,14 +25515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 373574,
-      "num": 196304,
-      "word": "因为出圈被骂到永久停办",
-      "onboard_time": 1709032590,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 373548,
       "num": 373548,
       "word": "混合接力黑龙江队被取消成绩",
@@ -26403,6 +26459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 359654,
+      "num": 359654,
+      "word": "极氪001",
+      "onboard_time": 1709034756,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 359347,
       "num": 359347,
       "word": "唐嫣新发色",
@@ -26441,6 +26505,14 @@
       "onboard_time": 1708241374,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 358926,
+      "num": 307523,
+      "word": "喜欢了一个比自己大7岁的姐姐",
+      "onboard_time": 1709035533,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 358560,
@@ -27769,6 +27841,14 @@
       "onboard_time": 1708661076,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 336328,
+      "num": 336328,
+      "word": "时代峰峻否认严浩翔打赏女主播",
+      "onboard_time": 1709036494,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 335827,
@@ -29473,6 +29553,14 @@
       "onboard_time": 1708425518,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 312342,
+      "num": 312342,
+      "word": "泉州两车相撞致一女子身亡",
+      "onboard_time": 1709033673,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312208,
@@ -34627,6 +34715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 260579,
+      "num": 260579,
+      "word": "王鹤棣工作室发声明维权",
+      "onboard_time": 1709035713,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260549,
       "num": 260549,
       "word": "成功的拒绝了猫咪三次",
@@ -34724,7 +34820,7 @@
     },
     {
       "raw_hot": 259833,
-      "num": 192782,
+      "num": 192817,
       "word": "Champion正被挂牌出售",
       "onboard_time": 1709032653,
       "rank": 31,
@@ -35521,6 +35617,14 @@
       "onboard_time": 1707647912,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 253400,
+      "num": 253400,
+      "word": "女子用一年完成相亲领证生子三连跳",
+      "onboard_time": 1709034995,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253379,
@@ -36635,14 +36739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 244724,
-      "num": 244724,
-      "word": "紫川",
-      "onboard_time": 1709033191,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 244692,
       "num": 244692,
       "word": "烟火人家又名消失的他",
@@ -37267,6 +37363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240902,
+      "num": 240902,
+      "word": "欧洲人疯狂追捧中国汽车",
+      "onboard_time": 1709035533,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 240845,
       "num": 240845,
       "word": "唐嫣大波浪梦回汪小姐",
@@ -37505,14 +37609,6 @@
       "onboard_time": 1707131191,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 238851,
-      "num": 238851,
-      "word": "女生行李箱装满AD钙奶被安检拦下",
-      "onboard_time": 1709032711,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238838,
@@ -39665,14 +39761,6 @@
       "onboard_time": 1707624450,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225182,
-      "num": 225182,
-      "word": "台湾省",
-      "onboard_time": 1709033313,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 225180,
@@ -47043,6 +47131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193495,
+      "num": 193495,
+      "word": "杨威说可以接受孩子的平凡",
+      "onboard_time": 1709033734,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193490,
       "num": 193490,
       "word": "朱一龙芭比粉外套",
@@ -47089,6 +47185,14 @@
       "onboard_time": 1708863998,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193238,
+      "num": 193238,
+      "word": "天秤座情商高是有原因的",
+      "onboard_time": 1709033073,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 193219,
@@ -48729,6 +48833,14 @@
       "onboard_time": 1708691673,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188186,
+      "num": 188186,
+      "word": "翁小雯拍的沈月",
+      "onboard_time": 1709034153,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 188182,
@@ -52193,6 +52305,14 @@
       "onboard_time": 1707124592,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173951,
+      "num": 173951,
+      "word": "乒乓球世界杯",
+      "onboard_time": 1709034272,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 173910,
@@ -56043,14 +56163,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159480,
-      "num": 159480,
-      "word": "天秤座情商高是有原因的",
-      "onboard_time": 1709033073,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 159464,
       "num": 159464,
       "word": "妈妈给买的小狗牌声控跳跳鼠",
@@ -56641,6 +56753,14 @@
       "onboard_time": 1708845152,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157481,
+      "num": 307878,
+      "word": "张雪峰谈2024热门专业",
+      "onboard_time": 1709036077,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 157473,
@@ -57915,6 +58035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152203,
+      "num": 152203,
+      "word": "猫咪可以胆小到什么程度",
+      "onboard_time": 1709033254,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152197,
       "num": 152197,
       "word": "国乒男团3比0比利时",
@@ -58545,14 +58673,6 @@
       "onboard_time": 1707459449,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149997,
-      "num": 149997,
-      "word": "猫咪可以胆小到什么程度",
-      "onboard_time": 1709033254,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 149983,
@@ -59537,6 +59657,14 @@
       "onboard_time": 1708164391,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146302,
+      "num": 146302,
+      "word": "公众网红在热度面前该如何与大众沟通",
+      "onboard_time": 1709034694,
+      "rank": 43,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 146247,
@@ -61129,6 +61257,14 @@
       "onboard_time": 1707642572,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140364,
+      "num": 140364,
+      "word": "赵今麦再演悬疑剧",
+      "onboard_time": 1709035118,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 140352,
@@ -62784,14 +62920,6 @@
       "word": "加塞捶车事件背后的隐秘身影",
       "onboard_time": 1707095550,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134206,
-      "num": 134206,
-      "word": "女子买无座票坐卧铺袭警被刑拘",
-      "onboard_time": 1709033492,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -69979,6 +70107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90784,
+      "num": 199346,
+      "word": "没想到中国AI狂飙到海外了",
+      "onboard_time": 1709032954,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 90601,
       "num": 90601,
       "word": "穆里尼奥说执教梅西是荣耀",
@@ -70987,6 +71123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72601,
+      "num": 244364,
+      "word": "被山西非遗转花灯惊艳到了",
+      "onboard_time": 1709035357,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 72526,
       "num": 117727,
       "word": "中国女篮加油",
@@ -71233,14 +71377,6 @@
       "onboard_time": 1707937276,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67025,
-      "num": 199346,
-      "word": "没想到中国AI狂飙到海外了",
-      "onboard_time": 1709032954,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 66897,

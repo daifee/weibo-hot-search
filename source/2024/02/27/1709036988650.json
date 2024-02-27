@@ -1,0 +1,410 @@
+{
+  "runTime": 1709036988650,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4155368,
+        "num": 4155368,
+        "word": "台湾省",
+        "onboard_time": 1709033313,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 910161,
+        "num": 910161,
+        "word": "李亚鹏直播哭穷",
+        "onboard_time": 1709029594,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49349,
+        "num": 902725,
+        "word": "我的网络成长故事",
+        "onboard_time": 1709028572,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 898197,
+        "num": 898197,
+        "word": "因为出圈被骂到永久停办",
+        "onboard_time": 1709032590,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 775456,
+        "num": 775456,
+        "word": "网友向王鹤棣道歉",
+        "onboard_time": 1709034572,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602108,
+        "num": 602108,
+        "word": "上海到北京仅需2.5小时",
+        "onboard_time": 1709025693,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598067,
+        "num": 598067,
+        "word": "全智贤被要求出示就业证明",
+        "onboard_time": 1709027612,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518865,
+        "num": 518865,
+        "word": "为什么最好禁止小孩去别人家过夜",
+        "onboard_time": 1709012853,
+        "rank": 7,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 509511,
+        "num": 509511,
+        "word": "女子买无座票坐卧铺袭警被刑拘",
+        "onboard_time": 1709033492,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197961,
+        "num": 484695,
+        "word": "苏炳添60米6秒66",
+        "onboard_time": 1709029773,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 477442,
+        "num": 477442,
+        "word": "女生行李箱装满AD钙奶被安检拦下",
+        "onboard_time": 1709032711,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456113,
+        "num": 456113,
+        "word": "为何山姆穷鬼套餐让中产疯狂",
+        "onboard_time": 1709036376,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 454701,
+        "num": 454701,
+        "word": "李宰旭说愿意和柳智敏旅行",
+        "onboard_time": 1709035955,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403961,
+        "num": 403961,
+        "word": "紫川",
+        "onboard_time": 1709033191,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402628,
+        "num": 402628,
+        "word": "李宰旭承认恋情",
+        "onboard_time": 1709007695,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396342,
+        "num": 396342,
+        "word": "父母迷信偏方14岁男孩身高定格在160",
+        "onboard_time": 1709024375,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383525,
+        "num": 383525,
+        "word": "美国共产主义者宣布成立政党",
+        "onboard_time": 1709027735,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 359654,
+        "num": 359654,
+        "word": "极氪001",
+        "onboard_time": 1709034756,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 336328,
+        "num": 336328,
+        "word": "时代峰峻否认严浩翔打赏女主播",
+        "onboard_time": 1709036494,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312342,
+        "num": 312342,
+        "word": "泉州两车相撞致一女子身亡",
+        "onboard_time": 1709033673,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157481,
+        "num": 307878,
+        "word": "张雪峰谈2024热门专业",
+        "onboard_time": 1709036077,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 358926,
+        "num": 307523,
+        "word": "喜欢了一个比自己大7岁的姐姐",
+        "onboard_time": 1709035533,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306337,
+        "num": 306337,
+        "word": "女生考研失败含泪阅读给自己的一封信",
+        "onboard_time": 1709020776,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 274566,
+        "num": 274566,
+        "word": "笑果艺人现状",
+        "onboard_time": 1709023472,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272462,
+        "num": 272462,
+        "word": "双体制意味着什么",
+        "onboard_time": 1709018374,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267365,
+        "num": 267365,
+        "word": "韩彩英 教授肯定也不认识我",
+        "onboard_time": 1709031214,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266322,
+        "num": 266322,
+        "word": "枭起青壤",
+        "onboard_time": 1709035835,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260579,
+        "num": 260579,
+        "word": "王鹤棣工作室发声明维权",
+        "onboard_time": 1709035713,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253400,
+        "num": 253400,
+        "word": "女子用一年完成相亲领证生子三连跳",
+        "onboard_time": 1709034995,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72601,
+        "num": 244364,
+        "word": "被山西非遗转花灯惊艳到了",
+        "onboard_time": 1709035357,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 240902,
+        "num": 240902,
+        "word": "欧洲人疯狂追捧中国汽车",
+        "onboard_time": 1709035533,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 239057,
+        "num": 239057,
+        "word": "博主评董宇辉清空微博对公司不负责",
+        "onboard_time": 1709032353,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 227245,
+        "num": 227245,
+        "word": "彩礼不超3.9万子女可优先入学",
+        "onboard_time": 1709008182,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197096,
+        "num": 197096,
+        "word": "世界杯",
+        "onboard_time": 1709030613,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193495,
+        "num": 193495,
+        "word": "杨威说可以接受孩子的平凡",
+        "onboard_time": 1709033734,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193238,
+        "num": 193238,
+        "word": "天秤座情商高是有原因的",
+        "onboard_time": 1709033073,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192817,
+        "num": 192817,
+        "word": "Champion正被挂牌出售",
+        "onboard_time": 1709032653,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 189439,
+        "num": 189439,
+        "word": "日本去年新生婴儿75万人",
+        "onboard_time": 1709025994,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188186,
+        "num": 188186,
+        "word": "翁小雯拍的沈月",
+        "onboard_time": 1709034153,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177333,
+        "num": 177333,
+        "word": "SM承认柳智敏恋情",
+        "onboard_time": 1709008057,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173951,
+        "num": 173951,
+        "word": "乒乓球世界杯",
+        "onboard_time": 1709034272,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90784,
+        "num": 157349,
+        "word": "没想到中国AI狂飙到海外了",
+        "onboard_time": 1709032954,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 152203,
+        "num": 152203,
+        "word": "猫咪可以胆小到什么程度",
+        "onboard_time": 1709033254,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146302,
+        "num": 146302,
+        "word": "公众网红在热度面前该如何与大众沟通",
+        "onboard_time": 1709034694,
+        "rank": 43,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 142492,
+        "num": 142492,
+        "word": "当我拒绝11K薪资后HR破防了",
+        "onboard_time": 1709014895,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140364,
+        "num": 140364,
+        "word": "赵今麦再演悬疑剧",
+        "onboard_time": 1709035118,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135575,
+        "num": 135575,
+        "word": "吉赛尔ins",
+        "onboard_time": 1709013517,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134920,
+        "num": 134920,
+        "word": "娃哈哈",
+        "onboard_time": 1709030913,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130215,
+        "num": 130215,
+        "word": "张娜拉43岁近照",
+        "onboard_time": 1709019153,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129807,
+        "num": 129807,
+        "word": "脑袋空空的人适合什么工作",
+        "onboard_time": 1709022511,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#瓣瓣同心心相连#"
+    }
+  }
+}

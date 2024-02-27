@@ -1,6 +1,6 @@
 {
   "startTime": 1708964501350,
-  "endTime": 1709033631772,
+  "endTime": 1709036988650,
   "band_list": [
     {
       "raw_hot": 8120231,
@@ -16,6 +16,14 @@
       "word": "秦刚辞去全国人大代表职务",
       "onboard_time": 1709024670,
       "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 4155368,
+      "num": 4155368,
+      "word": "台湾省",
+      "onboard_time": 1709033313,
+      "rank": 26,
       "category": "国内时政"
     },
     {
@@ -259,6 +267,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 898197,
+      "num": 898197,
+      "word": "因为出圈被骂到永久停办",
+      "onboard_time": 1709032590,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 873147,
       "num": 873147,
       "word": "范志毅认证鹿晗内娱最佳球员",
@@ -313,6 +329,14 @@
       "onboard_time": 1708992755,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 775456,
+      "num": 775456,
+      "word": "网友向王鹤棣道歉",
+      "onboard_time": 1709034572,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 752093,
@@ -563,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 509511,
+      "num": 509511,
+      "word": "女子买无座票坐卧铺袭警被刑拘",
+      "onboard_time": 1709033492,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506094,
       "num": 506094,
       "word": "许家印前妻向许腾鹤追讨逾10亿港元",
@@ -627,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 477442,
+      "num": 477442,
+      "word": "女生行李箱装满AD钙奶被安检拦下",
+      "onboard_time": 1709032711,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474496,
       "num": 474496,
       "word": "全员加速中回应",
@@ -665,6 +705,22 @@
       "onboard_time": 1708993715,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 456113,
+      "num": 456113,
+      "word": "为何山姆穷鬼套餐让中产疯狂",
+      "onboard_time": 1709036376,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 454701,
+      "num": 454701,
+      "word": "李宰旭说愿意和柳智敏旅行",
+      "onboard_time": 1709035955,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 453030,
@@ -779,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403961,
+      "num": 403961,
+      "word": "紫川",
+      "onboard_time": 1709033191,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 401704,
       "num": 401704,
       "word": "脑袋空空的人适合什么工作",
@@ -801,14 +865,6 @@
       "onboard_time": 1709008363,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 373574,
-      "num": 196304,
-      "word": "因为出圈被骂到永久停办",
-      "onboard_time": 1709032590,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 367881,
@@ -840,6 +896,22 @@
       "word": "二婚的朋友催我赶紧结婚",
       "onboard_time": 1709000675,
       "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 359654,
+      "num": 359654,
+      "word": "极氪001",
+      "onboard_time": 1709034756,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 358926,
+      "num": 307523,
+      "word": "喜欢了一个比自己大7岁的姐姐",
+      "onboard_time": 1709035533,
+      "rank": 21,
       "category": "情感"
     },
     {
@@ -891,6 +963,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 336328,
+      "num": 336328,
+      "word": "时代峰峻否认严浩翔打赏女主播",
+      "onboard_time": 1709036494,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331014,
       "num": 331014,
       "word": "怪盗基德 哥的脸没错过",
@@ -921,6 +1001,14 @@
       "onboard_time": 1709010400,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312342,
+      "num": 312342,
+      "word": "泉州两车相撞致一女子身亡",
+      "onboard_time": 1709033673,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311514,
@@ -1035,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266322,
+      "num": 266322,
+      "word": "枭起青壤",
+      "onboard_time": 1709035835,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261551,
       "num": 261551,
       "word": "起猛了在公司遇到男狐狸了",
@@ -1051,6 +1147,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 260579,
+      "num": 260579,
+      "word": "王鹤棣工作室发声明维权",
+      "onboard_time": 1709035713,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 260549,
       "num": 260549,
       "word": "成功的拒绝了猫咪三次",
@@ -1060,7 +1164,7 @@
     },
     {
       "raw_hot": 259833,
-      "num": 192782,
+      "num": 192817,
       "word": "Champion正被挂牌出售",
       "onboard_time": 1709032653,
       "rank": 31,
@@ -1081,6 +1185,14 @@
       "onboard_time": 1708947691,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 253400,
+      "num": 253400,
+      "word": "女子用一年完成相亲领证生子三连跳",
+      "onboard_time": 1709034995,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250292,
@@ -1139,14 +1251,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 244724,
-      "num": 244724,
-      "word": "紫川",
-      "onboard_time": 1709033191,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 244313,
       "num": 244313,
       "word": "买沙发嫌贵被路人阿姨点醒了",
@@ -1171,12 +1275,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 238851,
-      "num": 238851,
-      "word": "女生行李箱装满AD钙奶被安检拦下",
-      "onboard_time": 1709032711,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 240902,
+      "num": 240902,
+      "word": "欧洲人疯狂追捧中国汽车",
+      "onboard_time": 1709035533,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 238615,
@@ -1241,14 +1345,6 @@
       "onboard_time": 1709030854,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 225182,
-      "num": 225182,
-      "word": "台湾省",
-      "onboard_time": 1709033313,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 224025,
@@ -1467,6 +1563,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 193495,
+      "num": 193495,
+      "word": "杨威说可以接受孩子的平凡",
+      "onboard_time": 1709033734,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193238,
+      "num": 193238,
+      "word": "天秤座情商高是有原因的",
+      "onboard_time": 1709033073,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191141,
       "num": 191141,
       "word": "香水喷法",
@@ -1529,6 +1641,14 @@
       "onboard_time": 1708999955,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188186,
+      "num": 188186,
+      "word": "翁小雯拍的沈月",
+      "onboard_time": 1709034153,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 187973,
@@ -1659,6 +1779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 173951,
+      "num": 173951,
+      "word": "乒乓球世界杯",
+      "onboard_time": 1709034272,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173420,
       "num": 173420,
       "word": "你晚上几点休息",
@@ -1747,20 +1875,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159480,
-      "num": 159480,
-      "word": "天秤座情商高是有原因的",
-      "onboard_time": 1709033073,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 157926,
       "num": 157926,
       "word": "猫在好吃和好痛之间徘徊",
       "onboard_time": 1709008657,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157481,
+      "num": 307878,
+      "word": "张雪峰谈2024热门专业",
+      "onboard_time": 1709036077,
+      "rank": 20,
+      "category": "教育"
     },
     {
       "raw_hot": 157392,
@@ -1819,8 +1947,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 149997,
-      "num": 149997,
+      "raw_hot": 152203,
+      "num": 152203,
       "word": "猫咪可以胆小到什么程度",
       "onboard_time": 1709033254,
       "rank": 44,
@@ -1865,6 +1993,14 @@
       "onboard_time": 1708947691,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146302,
+      "num": 146302,
+      "word": "公众网红在热度面前该如何与大众沟通",
+      "onboard_time": 1709034694,
+      "rank": 43,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 146021,
@@ -1955,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140364,
+      "num": 140364,
+      "word": "赵今麦再演悬疑剧",
+      "onboard_time": 1709035118,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139312,
       "num": 139312,
       "word": "李宰旭经纪公司已读乱回",
@@ -2017,14 +2161,6 @@
       "onboard_time": 1708951654,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134206,
-      "num": 134206,
-      "word": "女子买无座票坐卧铺袭警被刑拘",
-      "onboard_time": 1709033492,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133772,
@@ -2339,6 +2475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90784,
+      "num": 199346,
+      "word": "没想到中国AI狂飙到海外了",
+      "onboard_time": 1709032954,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 86996,
       "num": 86996,
       "word": "邓为尹涛合照",
@@ -2403,19 +2547,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72601,
+      "num": 244364,
+      "word": "被山西非遗转花灯惊艳到了",
+      "onboard_time": 1709035357,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 71264,
       "num": 373156,
       "word": "2024年开启5G Advanced商用元年",
       "onboard_time": 1708995755,
       "rank": 36,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 67025,
-      "num": 199346,
-      "word": "没想到中国AI狂飙到海外了",
-      "onboard_time": 1709032954,
-      "rank": 29,
       "category": "互联网"
     },
     {
