@@ -1,6 +1,6 @@
 {
   "startTime": 1708964501350,
-  "endTime": 1709015642892,
+  "endTime": 1709018295103,
   "band_list": [
     {
       "raw_hot": 8120231,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1749191,
+      "num": 1749191,
+      "word": "作者道歉并承认秦岭隧道视频系拼接",
+      "onboard_time": 1709014592,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1711093,
       "num": 466836,
       "word": "突然懂了YG公关的好",
@@ -73,6 +81,14 @@
       "onboard_time": 1709005535,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1441486,
+      "num": 1441486,
+      "word": "为什么最好禁止小孩去别人家过夜",
+      "onboard_time": 1709012853,
+      "rank": 13,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 1407087,
@@ -155,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 943709,
+      "num": 943709,
+      "word": "唐艺昕说恋爱中先道歉的人赢了",
+      "onboard_time": 1709015732,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 938492,
       "num": 938492,
       "word": "王菲谢霆锋一起回国",
@@ -169,14 +193,6 @@
       "onboard_time": 1708998694,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 884164,
-      "num": 413762,
-      "word": "为什么最好禁止小孩去别人家过夜",
-      "onboard_time": 1709012853,
-      "rank": 13,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 873147,
@@ -251,6 +267,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 712176,
+      "num": 712176,
+      "word": "为什么中国人存钱越来越多",
+      "onboard_time": 1709013455,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 701958,
       "num": 701958,
       "word": "大爷将30万存款忘在银行20年",
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 641437,
-      "num": 268688,
+      "num": 270722,
       "word": "当我拒绝11K薪资后HR破防了",
       "onboard_time": 1709014895,
       "rank": 20,
@@ -371,12 +395,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 550542,
+      "num": 550542,
+      "word": "怀疑对方AI换脸可以摁鼻子",
+      "onboard_time": 1709015732,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 544707,
       "num": 544707,
       "word": "经常熬夜的人脸有多垮",
       "onboard_time": 1708950035,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 539469,
+      "num": 539469,
+      "word": "韩国总统称绝不就医疗改革问题谈判和妥协",
+      "onboard_time": 1709015496,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 536762,
@@ -483,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 450684,
-      "num": 450684,
-      "word": "作者道歉并承认秦岭隧道视频系拼接",
-      "onboard_time": 1709014592,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 445765,
       "num": 445765,
       "word": "连诗雅怀孕",
@@ -547,6 +579,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 418640,
+      "num": 418640,
+      "word": "韩国护士将填补辞职医生的空白",
+      "onboard_time": 1709015074,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 415015,
       "num": 415015,
       "word": "西安领结婚证送10元刮刮乐",
@@ -561,14 +601,6 @@
       "onboard_time": 1708997134,
       "rank": 34,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 390472,
-      "num": 390472,
-      "word": "为什么中国人存钱越来越多",
-      "onboard_time": 1709013455,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 377641,
@@ -683,6 +715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 288503,
+      "num": 288503,
+      "word": "石家庄巨响",
+      "onboard_time": 1709017173,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285850,
       "num": 285850,
       "word": "情头",
@@ -691,19 +731,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 283232,
+      "num": 283232,
+      "word": "自焚美国军人临终遗言公开",
+      "onboard_time": 1709013874,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272675,
       "num": 272675,
       "word": "多方回应开封一中学宿舍蹲便器在床底",
       "onboard_time": 1709012915,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269720,
-      "num": 269720,
-      "word": "自焚美国军人临终遗言公开",
-      "onboard_time": 1709013874,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -729,14 +769,6 @@
       "onboard_time": 1709005535,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 255794,
-      "num": 255794,
-      "word": "韩国护士将填补辞职医生的空白",
-      "onboard_time": 1709015074,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254639,
@@ -795,6 +827,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 244313,
+      "num": 244313,
+      "word": "买沙发嫌贵被路人阿姨点醒了",
+      "onboard_time": 1709015854,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 241984,
+      "num": 241984,
+      "word": "夏克立称黄嘉千设计抹黑自己",
+      "onboard_time": 1709017832,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241111,
       "num": 241111,
       "word": "四川自考 进不去",
@@ -851,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227510,
+      "num": 227510,
+      "word": "李衣锦爸妈离婚",
+      "onboard_time": 1709017593,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224025,
       "num": 224025,
       "word": "人民网三评教师减负",
@@ -865,6 +921,22 @@
       "onboard_time": 1709010880,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 221592,
+      "num": 221592,
+      "word": "南波万229预告",
+      "onboard_time": 1709017355,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220203,
+      "num": 220203,
+      "word": "吴镇宇会怎么评价姚安娜表演",
+      "onboard_time": 1709016574,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 215586,
@@ -889,6 +961,14 @@
       "onboard_time": 1708990827,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211143,
+      "num": 211143,
+      "word": "利率一低再低存款却越来越多",
+      "onboard_time": 1709017052,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 210734,
@@ -961,6 +1041,14 @@
       "onboard_time": 1708965144,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196612,
+      "num": 196612,
+      "word": "大伯在群里催婚被老爸杀疯了",
+      "onboard_time": 1709017953,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 195242,
@@ -1043,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185556,
+      "num": 185556,
+      "word": "小孩 和茶树菇拼了",
+      "onboard_time": 1709016696,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183253,
       "num": 183253,
       "word": "半熟恋人",
@@ -1107,6 +1203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171541,
+      "num": 220221,
+      "word": "孙颖莎樊振东再度领跑世界排名",
+      "onboard_time": 1709017173,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170909,
       "num": 170909,
       "word": "六层楼 受精卵的形成过程",
@@ -1137,6 +1241,14 @@
       "onboard_time": 1708996834,
       "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 162215,
+      "num": 162215,
+      "word": "李宰旭新剧明天播",
+      "onboard_time": 1709015552,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 161661,
@@ -1179,14 +1291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151254,
-      "num": 151254,
-      "word": "韩国总统称绝不就医疗改革问题谈判和妥协",
-      "onboard_time": 1709015496,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149530,
       "num": 149530,
       "word": "种地吧每日打卡直播",
@@ -1219,6 +1323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 147626,
+      "num": 147626,
+      "word": "瞎书",
+      "onboard_time": 1709017893,
+      "rank": 41,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 146564,
       "num": 146564,
       "word": "刘亦菲晒阿布扎比随拍",
@@ -1249,6 +1361,14 @@
       "onboard_time": 1708998991,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144348,
+      "num": 144348,
+      "word": "周也辣妹妆",
+      "onboard_time": 1709016574,
+      "rank": 43,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 142865,
@@ -1339,20 +1459,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 131772,
+      "num": 131772,
+      "word": "逆水寒兰亭集序",
+      "onboard_time": 1709016277,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129157,
       "num": 129157,
       "word": "吴磊顺毛自拍",
       "onboard_time": 1708993534,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 126770,
-      "num": 126770,
-      "word": "李宰旭新剧明天播",
-      "onboard_time": 1709015552,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 123728,
@@ -1475,8 +1595,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 106724,
+      "num": 106724,
+      "word": "全员加速中回应",
+      "onboard_time": 1709018254,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106247,
-      "num": 1361919,
+      "num": 1534697,
       "word": "中国航天今年预计完成100次发射任务",
       "onboard_time": 1709010640,
       "rank": 2,
