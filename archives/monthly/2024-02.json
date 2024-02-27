@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1709018295103,
+  "endTime": 1709019236699,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2979,6 +2979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1785117,
+      "num": 1785117,
+      "word": "作者道歉并承认秦岭隧道视频系拼接",
+      "onboard_time": 1709014592,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1783862,
       "num": 1783862,
       "word": "娃哈哈集团讣告",
@@ -3081,14 +3089,6 @@
       "onboard_time": 1708139731,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1749191,
-      "num": 1749191,
-      "word": "作者道歉并承认秦岭隧道视频系拼接",
-      "onboard_time": 1709014592,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1748274,
@@ -7635,6 +7635,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1009100,
+      "num": 1009100,
+      "word": "唐艺昕说恋爱中先道歉的人赢了",
+      "onboard_time": 1709015732,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1008630,
       "num": 1008630,
       "word": "何炅撒贝宁元宵晚会坐一桌",
@@ -8369,14 +8377,6 @@
       "onboard_time": 1707208773,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 943709,
-      "num": 943709,
-      "word": "唐艺昕说恋爱中先道歉的人赢了",
-      "onboard_time": 1709015732,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 942705,
@@ -11979,6 +11979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 732687,
+      "num": 732687,
+      "word": "为什么中国人存钱越来越多",
+      "onboard_time": 1709013455,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 732301,
       "num": 732301,
       "word": "天下足球删除梅西镜头",
@@ -12505,14 +12513,6 @@
       "onboard_time": 1708762408,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 712176,
-      "num": 712176,
-      "word": "为什么中国人存钱越来越多",
-      "onboard_time": 1709013455,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 712073,
@@ -14284,7 +14284,7 @@
     },
     {
       "raw_hot": 641437,
-      "num": 270722,
+      "num": 348356,
       "word": "当我拒绝11K薪资后HR破防了",
       "onboard_time": 1709014895,
       "rank": 20,
@@ -14705,6 +14705,14 @@
       "onboard_time": 1707710192,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 629548,
+      "num": 629548,
+      "word": "怀疑对方AI换脸可以摁鼻子",
+      "onboard_time": 1709015732,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 629440,
@@ -17233,14 +17241,6 @@
       "onboard_time": 1708126942,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 550542,
-      "num": 550542,
-      "word": "怀疑对方AI换脸可以摁鼻子",
-      "onboard_time": 1709015732,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 550317,
@@ -23563,6 +23563,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404720,
+      "num": 204215,
+      "word": "大伯在群里催婚被老爸杀疯了",
+      "onboard_time": 1709017953,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 404714,
+      "num": 404714,
+      "word": "石家庄巨响",
+      "onboard_time": 1709017173,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404360,
       "num": 889132,
       "word": "小龙糕",
@@ -24457,6 +24473,14 @@
       "onboard_time": 1706694271,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387451,
+      "num": 387451,
+      "word": "全员加速中回应",
+      "onboard_time": 1709018254,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 387392,
@@ -26555,6 +26579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354164,
+      "num": 354164,
+      "word": "夏克立称黄嘉千设计抹黑自己",
+      "onboard_time": 1709017832,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354064,
       "num": 354064,
       "word": "飞驰人生",
@@ -26731,6 +26763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351386,
+      "num": 351386,
+      "word": "自焚美国军人临终遗言公开",
+      "onboard_time": 1709013874,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351249,
       "num": 351249,
       "word": "武汉高铁",
@@ -26785,6 +26825,14 @@
       "onboard_time": 1707477393,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350117,
+      "num": 350117,
+      "word": "双体制意味着什么",
+      "onboard_time": 1709018374,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 350026,
@@ -27537,6 +27585,14 @@
       "onboard_time": 1708661076,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 335834,
+      "num": 335834,
+      "word": "张娜拉43岁近照",
+      "onboard_time": 1709019153,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 335827,
@@ -31403,14 +31459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 288503,
-      "num": 288503,
-      "word": "石家庄巨响",
-      "onboard_time": 1709017173,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288448,
       "num": 288448,
       "word": "赵今麦哈尔滨拍戏",
@@ -31633,6 +31681,14 @@
       "onboard_time": 1708510957,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286734,
+      "num": 286734,
+      "word": "南波万229预告",
+      "onboard_time": 1709017355,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 286723,
@@ -31929,14 +31985,6 @@
       "onboard_time": 1707815856,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 283232,
-      "num": 283232,
-      "word": "自焚美国军人临终遗言公开",
-      "onboard_time": 1709013874,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 283199,
@@ -36739,14 +36787,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 241984,
-      "num": 241984,
-      "word": "夏克立称黄嘉千设计抹黑自己",
-      "onboard_time": 1709017832,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 241944,
       "num": 241944,
       "word": "孙阳微博评论区",
@@ -38371,6 +38411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231679,
+      "num": 231679,
+      "word": "李衣锦爸妈离婚",
+      "onboard_time": 1709017593,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231554,
       "num": 135584,
       "word": "大醉之后喝白开水可解酒",
@@ -38937,14 +38985,6 @@
       "onboard_time": 1707278490,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 227510,
-      "num": 227510,
-      "word": "李衣锦爸妈离婚",
-      "onboard_time": 1709017593,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 227458,
@@ -39977,14 +40017,6 @@
       "onboard_time": 1708583494,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 221592,
-      "num": 221592,
-      "word": "南波万229预告",
-      "onboard_time": 1709017355,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 221570,
@@ -45777,14 +45809,6 @@
       "onboard_time": 1708729518,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196612,
-      "num": 196612,
-      "word": "大伯在群里催婚被老爸杀疯了",
-      "onboard_time": 1709017953,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 196578,
@@ -52107,6 +52131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172428,
+      "num": 220221,
+      "word": "孙颖莎樊振东再度领跑世界排名",
+      "onboard_time": 1709017173,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172370,
       "num": 172370,
       "word": "联播主播怎么做到扫一眼急稿就播",
@@ -52289,14 +52321,6 @@
       "onboard_time": 1708680994,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 171541,
-      "num": 220221,
-      "word": "孙颖莎樊振东再度领跑世界排名",
-      "onboard_time": 1709017173,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 171518,
@@ -53297,6 +53321,14 @@
       "onboard_time": 1707657690,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 168232,
+      "num": 168232,
+      "word": "瞎书",
+      "onboard_time": 1709017893,
+      "rank": 41,
+      "category": "读书作家"
     },
     {
       "raw_hot": 168211,
@@ -58619,14 +58651,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 147626,
-      "num": 147626,
-      "word": "瞎书",
-      "onboard_time": 1709017893,
-      "rank": 41,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 147624,
       "num": 528158,
       "word": "张艺谋雷军",
@@ -59657,6 +59681,14 @@
       "onboard_time": 1707265770,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144174,
+      "num": 144174,
+      "word": "大学生抢不到车票报旅游团返校",
+      "onboard_time": 1709018193,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144105,
@@ -62515,6 +62547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132793,
+      "num": 132793,
+      "word": "小猫一点一点向你靠近",
+      "onboard_time": 1709018733,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132774,
       "num": 132774,
       "word": "不要把压岁钱交给他们",
@@ -63505,6 +63545,14 @@
       "onboard_time": 1707628413,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128668,
+      "num": 128668,
+      "word": "新修订的保守国家秘密法",
+      "onboard_time": 1709018976,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 128622,
@@ -67841,14 +67889,6 @@
       "onboard_time": 1707971613,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106724,
-      "num": 106724,
-      "word": "全员加速中回应",
-      "onboard_time": 1709018254,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 106605,

@@ -1,6 +1,6 @@
 {
   "startTime": 1708964501350,
-  "endTime": 1709018295103,
+  "endTime": 1709019236699,
   "band_list": [
     {
       "raw_hot": 8120231,
@@ -59,8 +59,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1749191,
-      "num": 1749191,
+      "raw_hot": 1785117,
+      "num": 1785117,
       "word": "作者道歉并承认秦岭隧道视频系拼接",
       "onboard_time": 1709014592,
       "rank": 47,
@@ -155,6 +155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1009100,
+      "num": 1009100,
+      "word": "唐艺昕说恋爱中先道歉的人赢了",
+      "onboard_time": 1709015732,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 971862,
       "num": 971862,
       "word": "陈乔恩过年胖了快5公斤",
@@ -169,14 +177,6 @@
       "onboard_time": 1708994915,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 943709,
-      "num": 943709,
-      "word": "唐艺昕说恋爱中先道歉的人赢了",
-      "onboard_time": 1709015732,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 938492,
@@ -267,8 +267,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 712176,
-      "num": 712176,
+      "raw_hot": 732687,
+      "num": 732687,
       "word": "为什么中国人存钱越来越多",
       "onboard_time": 1709013455,
       "rank": 16,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 641437,
-      "num": 270722,
+      "num": 348356,
       "word": "当我拒绝11K薪资后HR破防了",
       "onboard_time": 1709014895,
       "rank": 20,
@@ -321,6 +321,14 @@
       "onboard_time": 1708998512,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 629548,
+      "num": 629548,
+      "word": "怀疑对方AI换脸可以摁鼻子",
+      "onboard_time": 1709015732,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 622047,
@@ -393,14 +401,6 @@
       "onboard_time": 1708959633,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 550542,
-      "num": 550542,
-      "word": "怀疑对方AI换脸可以摁鼻子",
-      "onboard_time": 1709015732,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 544707,
@@ -603,6 +603,30 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 404720,
+      "num": 204215,
+      "word": "大伯在群里催婚被老爸杀疯了",
+      "onboard_time": 1709017953,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 404714,
+      "num": 404714,
+      "word": "石家庄巨响",
+      "onboard_time": 1709017173,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387451,
+      "num": 387451,
+      "word": "全员加速中回应",
+      "onboard_time": 1709018254,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377641,
       "num": 377641,
       "word": "我丢了个包里面全是黄金",
@@ -651,12 +675,44 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 354164,
+      "num": 354164,
+      "word": "夏克立称黄嘉千设计抹黑自己",
+      "onboard_time": 1709017832,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352581,
       "num": 352581,
       "word": "苏炳添复出首秀6秒70",
       "onboard_time": 1709008900,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 351386,
+      "num": 351386,
+      "word": "自焚美国军人临终遗言公开",
+      "onboard_time": 1709013874,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350117,
+      "num": 350117,
+      "word": "双体制意味着什么",
+      "onboard_time": 1709018374,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 335834,
+      "num": 335834,
+      "word": "张娜拉43岁近照",
+      "onboard_time": 1709019153,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 331014,
@@ -715,12 +771,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 288503,
-      "num": 288503,
-      "word": "石家庄巨响",
-      "onboard_time": 1709017173,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 286734,
+      "num": 286734,
+      "word": "南波万229预告",
+      "onboard_time": 1709017355,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 285850,
@@ -729,14 +785,6 @@
       "onboard_time": 1708995274,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 283232,
-      "num": 283232,
-      "word": "自焚美国军人临终遗言公开",
-      "onboard_time": 1709013874,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272675,
@@ -835,14 +883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 241984,
-      "num": 241984,
-      "word": "夏克立称黄嘉千设计抹黑自己",
-      "onboard_time": 1709017832,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 241111,
       "num": 241111,
       "word": "四川自考 进不去",
@@ -899,8 +939,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227510,
-      "num": 227510,
+      "raw_hot": 231679,
+      "num": 231679,
       "word": "李衣锦爸妈离婚",
       "onboard_time": 1709017593,
       "rank": 27,
@@ -921,14 +961,6 @@
       "onboard_time": 1709010880,
       "rank": 45,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 221592,
-      "num": 221592,
-      "word": "南波万229预告",
-      "onboard_time": 1709017355,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 220203,
@@ -1041,14 +1073,6 @@
       "onboard_time": 1708965144,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196612,
-      "num": 196612,
-      "word": "大伯在群里催婚被老爸杀疯了",
-      "onboard_time": 1709017953,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 195242,
@@ -1203,7 +1227,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 171541,
+      "raw_hot": 172428,
       "num": 220221,
       "word": "孙颖莎樊振东再度领跑世界排名",
       "onboard_time": 1709017173,
@@ -1225,6 +1249,14 @@
       "onboard_time": 1709007877,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 168232,
+      "num": 168232,
+      "word": "瞎书",
+      "onboard_time": 1709017893,
+      "rank": 41,
+      "category": "读书作家"
     },
     {
       "raw_hot": 166873,
@@ -1323,14 +1355,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 147626,
-      "num": 147626,
-      "word": "瞎书",
-      "onboard_time": 1709017893,
-      "rank": 41,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 146564,
       "num": 146564,
       "word": "刘亦菲晒阿布扎比随拍",
@@ -1369,6 +1393,14 @@
       "onboard_time": 1709016574,
       "rank": 43,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 144174,
+      "num": 144174,
+      "word": "大学生抢不到车票报旅游团返校",
+      "onboard_time": 1709018193,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142865,
@@ -1459,6 +1491,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 132793,
+      "num": 132793,
+      "word": "小猫一点一点向你靠近",
+      "onboard_time": 1709018733,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131772,
       "num": 131772,
       "word": "逆水寒兰亭集序",
@@ -1473,6 +1513,14 @@
       "onboard_time": 1708993534,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128668,
+      "num": 128668,
+      "word": "新修订的保守国家秘密法",
+      "onboard_time": 1709018976,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 123728,
@@ -1593,14 +1641,6 @@
       "onboard_time": 1708945113,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 106724,
-      "num": 106724,
-      "word": "全员加速中回应",
-      "onboard_time": 1709018254,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 106247,
