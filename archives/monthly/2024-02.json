@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1709051817189,
+  "endTime": 1709054256069,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -33113,6 +33113,14 @@
       "onboard_time": 1707826297,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 278064,
+      "num": 278064,
+      "word": "洗澡是最好的医美",
+      "onboard_time": 1709050828,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 278008,
@@ -69115,14 +69123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106837,
-      "num": 106837,
-      "word": "洗澡是最好的医美",
-      "onboard_time": 1709050828,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 106791,
       "num": 106791,
       "word": "NBA新秀榜文班亚马稳居第一",
@@ -71833,6 +71833,14 @@
       "onboard_time": 1707673101,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 68703,
+      "num": 68703,
+      "word": "为什么晚上睡觉嘴会发干",
+      "onboard_time": 1709053644,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 68695,
