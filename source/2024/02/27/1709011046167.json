@@ -1,0 +1,410 @@
+{
+  "runTime": 1709011046167,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2839811,
+        "num": 2839811,
+        "word": "Prada玄学",
+        "onboard_time": 1709003970,
+        "rank": 0,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1392347,
+        "num": 1392347,
+        "word": "专家称房价越涨大家购买意愿越强",
+        "onboard_time": 1709006316,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37727,
+        "num": 1128892,
+        "word": "中国航天今年预计完成100次发射任务",
+        "onboard_time": 1709010640,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 952353,
+        "num": 952353,
+        "word": "彩礼不超3.9万子女可优先入学",
+        "onboard_time": 1709008182,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873147,
+        "num": 873147,
+        "word": "范志毅认证鹿晗内娱最佳球员",
+        "onboard_time": 1709007033,
+        "rank": 4,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 837516,
+        "num": 837516,
+        "word": "低彩礼子女优先入学是否公平",
+        "onboard_time": 1709005535,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 796892,
+        "num": 796892,
+        "word": "Aespa Drama",
+        "onboard_time": 1709009322,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 599766,
+        "num": 599766,
+        "word": "董宇辉微博",
+        "onboard_time": 1709004995,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 585393,
+        "num": 585393,
+        "word": "沈月算命",
+        "onboard_time": 1709003371,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489549,
+        "num": 489549,
+        "word": "越吃越胖的蔬菜刺客",
+        "onboard_time": 1709001814,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 8120231,
+        "num": 481295,
+        "word": "李宰旭承认恋情",
+        "onboard_time": 1709007695,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4051630,
+        "num": 473477,
+        "word": "SM承认柳智敏恋情",
+        "onboard_time": 1709008057,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1711093,
+        "num": 466836,
+        "word": "突然懂了YG公关的好",
+        "onboard_time": 1709009022,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449994,
+        "num": 449994,
+        "word": "人民网评上班比丑",
+        "onboard_time": 1708995091,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424154,
+        "num": 424154,
+        "word": "王源自驾游",
+        "onboard_time": 1709008724,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413422,
+        "num": 413422,
+        "word": "连诗雅怀孕",
+        "onboard_time": 1709007757,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369353,
+        "num": 369353,
+        "word": "年轻人猝死可能与熬夜有关",
+        "onboard_time": 1709008363,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 361946,
+        "num": 361946,
+        "word": "董宇辉谈正月不剪头原因",
+        "onboard_time": 1709005471,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 352581,
+        "num": 352581,
+        "word": "苏炳添复出首秀6秒70",
+        "onboard_time": 1709008900,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339428,
+        "num": 339428,
+        "word": "我丢了个包里面全是黄金",
+        "onboard_time": 1709008298,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723931,
+        "num": 335639,
+        "word": "女子孕期打耳洞1年半后多俩小耳朵",
+        "onboard_time": 1709002293,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441190,
+        "num": 333645,
+        "word": "英语四六级424是什么含金量",
+        "onboard_time": 1709010582,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 330714,
+        "num": 330714,
+        "word": "陈乔恩过年胖了快5公斤",
+        "onboard_time": 1708997012,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323486,
+        "num": 323486,
+        "word": "老人报警称丢了2000元民警找回5万2",
+        "onboard_time": 1708994915,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312412,
+        "num": 312412,
+        "word": "周震南父亲公司房产被拍卖",
+        "onboard_time": 1709010400,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281712,
+        "num": 281712,
+        "word": "西安领结婚证送10元刮刮乐",
+        "onboard_time": 1709010041,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279096,
+        "num": 279096,
+        "word": "日本女队全员夸赞孙颖莎",
+        "onboard_time": 1709006197,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276300,
+        "num": 276300,
+        "word": "韩国宣布辞职医生再不复岗司法处理",
+        "onboard_time": 1708997254,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254018,
+        "num": 254018,
+        "word": "剪指甲时去掉的死皮一直在保护你",
+        "onboard_time": 1708998512,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252249,
+        "num": 252249,
+        "word": "吴镇宇预言",
+        "onboard_time": 1709003434,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250325,
+        "num": 250325,
+        "word": "向佐摆了一桌子全家福",
+        "onboard_time": 1709004514,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247876,
+        "num": 247876,
+        "word": "当你的上班搭子离职后",
+        "onboard_time": 1709010582,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245460,
+        "num": 245460,
+        "word": "电瓶车停满楼道坐垫一夜全被划烂",
+        "onboard_time": 1709000372,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231847,
+        "num": 231847,
+        "word": "我们仨路透",
+        "onboard_time": 1709010460,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215601,
+        "num": 215601,
+        "word": "银行卖起金手镯",
+        "onboard_time": 1708998694,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 210734,
+        "num": 210734,
+        "word": "品牌方帮杨紫辟谣",
+        "onboard_time": 1709008900,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207893,
+        "num": 207893,
+        "word": "文韬受伤",
+        "onboard_time": 1708990525,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203533,
+        "num": 203533,
+        "word": "高群书为姚安娜回怼汪海林",
+        "onboard_time": 1708993415,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199511,
+        "num": 199511,
+        "word": "寄给小草的明信片",
+        "onboard_time": 1709010582,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59335,
+        "num": 195305,
+        "word": "中华文化学习笔记",
+        "onboard_time": 1709010161,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193610,
+        "num": 193610,
+        "word": "二婚的朋友催我赶紧结婚",
+        "onboard_time": 1709000675,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181724,
+        "num": 181724,
+        "word": "布洛芬 能给卑职一个明示吗",
+        "onboard_time": 1708959878,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172243,
+        "num": 172243,
+        "word": "成功的拒绝了猫咪三次",
+        "onboard_time": 1709005535,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168648,
+        "num": 168648,
+        "word": "陈梦重回世界第二",
+        "onboard_time": 1709003194,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167514,
+        "num": 167514,
+        "word": "服用布洛芬后会经历以下过程",
+        "onboard_time": 1709009681,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160404,
+        "num": 160404,
+        "word": "减肥壁纸",
+        "onboard_time": 1709010880,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 157926,
+        "num": 157926,
+        "word": "猫在好吃和好痛之间徘徊",
+        "onboard_time": 1709008657,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156250,
+        "num": 156250,
+        "word": "王菲谢霆锋一起回国",
+        "onboard_time": 1708991969,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155963,
+        "num": 155963,
+        "word": "四六级分数出了",
+        "onboard_time": 1708989081,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146610,
+        "num": 146610,
+        "word": "不给你涨价都不错了",
+        "onboard_time": 1709006736,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#互联网之光#"
+    }
+  }
+}
