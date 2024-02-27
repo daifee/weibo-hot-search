@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1708997372839,
+  "endTime": 1708999315601,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2317051,
+      "num": 2317051,
+      "word": "人民网评上班比丑",
+      "onboard_time": 1708995091,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2312620,
       "num": 2312620,
       "word": "与女主播发生关系住持已被注销戒牒",
@@ -161,14 +169,6 @@
       "onboard_time": 1708941632,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2110755,
-      "num": 2110755,
-      "word": "人民网评上班比丑",
-      "onboard_time": 1708995091,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2081823,
@@ -579,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1044773,
+      "num": 1044773,
+      "word": "韩国宣布辞职医生再不复岗司法处理",
+      "onboard_time": 1708997254,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1036067,
       "num": 1036067,
       "word": "清华大学澄清停招土木工程专业",
@@ -641,6 +649,14 @@
       "onboard_time": 1708923879,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 971862,
+      "num": 971862,
+      "word": "陈乔恩过年胖了快5公斤",
+      "onboard_time": 1708997012,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 965309,
@@ -953,6 +969,14 @@
       "onboard_time": 1708910374,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 797761,
+      "num": 797761,
+      "word": "iPhone16Pro配四重棱镜",
+      "onboard_time": 1708997254,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 794351,
@@ -1787,6 +1811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 509242,
+      "num": 509242,
+      "word": "C罗将因不雅动作被停赛两场",
+      "onboard_time": 1708997614,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 508655,
       "num": 508655,
       "word": "腿姐 明天的你已经在录取名单里了",
@@ -1875,6 +1907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 489476,
+      "num": 489476,
+      "word": "剪指甲时去掉的死皮一直在保护你",
+      "onboard_time": 1708998512,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 489057,
       "num": 489057,
       "word": "女子买20元锅包肉只见锅包不见肉",
@@ -1931,6 +1971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482478,
+      "num": 482478,
+      "word": "瞎书去世",
+      "onboard_time": 1708996053,
+      "rank": 42,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 471313,
       "num": 471313,
       "word": "许昕坐在马龙身边",
@@ -1977,14 +2025,6 @@
       "onboard_time": 1708837359,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 454631,
-      "num": 454631,
-      "word": "陈乔恩过年胖了快5公斤",
-      "onboard_time": 1708997012,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 454276,
@@ -2187,6 +2227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 411885,
+      "num": 411885,
+      "word": "中国人看网文1年花了400多亿",
+      "onboard_time": 1708997134,
+      "rank": 34,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 410913,
       "num": 410913,
       "word": "宗庆后曾三度问鼎首富",
@@ -2208,6 +2256,14 @@
       "word": "上海下雪",
       "onboard_time": 1708821810,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407553,
+      "num": 407553,
+      "word": "韩国急救车找不到医院辗转数小时",
+      "onboard_time": 1708997432,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2377,14 +2433,6 @@
       "onboard_time": 1708920338,
       "rank": 21,
       "category": "教育"
-    },
-    {
-      "raw_hot": 367304,
-      "num": 367304,
-      "word": "瞎书去世",
-      "onboard_time": 1708996053,
-      "rank": 42,
-      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 366637,
@@ -2795,6 +2843,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 303318,
+      "num": 303318,
+      "word": "银行卖起金手镯",
+      "onboard_time": 1708998694,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 302640,
       "num": 302640,
       "word": "老爸炒9斤虾尾让女儿带学校分享",
@@ -3163,6 +3219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260697,
+      "num": 260697,
+      "word": "理想汽车狂飙18%",
+      "onboard_time": 1708998452,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 259060,
       "num": 259060,
       "word": "TES被偷家",
@@ -3393,6 +3457,14 @@
       "onboard_time": 1708914872,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 241111,
+      "num": 241111,
+      "word": "四川自考 进不去",
+      "onboard_time": 1708997733,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 240732,
@@ -4227,14 +4299,6 @@
       "category": "教育,社会议题"
     },
     {
-      "raw_hot": 195242,
-      "num": 195242,
-      "word": "中国人看网文1年花了400多亿",
-      "onboard_time": 1708997134,
-      "rank": 34,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 195113,
       "num": 195113,
       "word": "杨幂叫九尾许哥",
@@ -4963,6 +5027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166873,
+      "num": 166873,
+      "word": "基金称A股市场仍处良性架构之中",
+      "onboard_time": 1708998752,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 166702,
       "num": 166702,
       "word": "郭晶晶米兰看秀",
@@ -5379,6 +5451,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 145291,
+      "num": 145291,
+      "word": "2024国际乒联第9周排名",
+      "onboard_time": 1708998991,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145271,
       "num": 145271,
       "word": "全面彻底排查整治各类消防隐患",
@@ -5393,14 +5473,6 @@
       "onboard_time": 1708864895,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 144886,
-      "num": 144886,
-      "word": "iPhone16Pro配四重棱镜",
-      "onboard_time": 1708997254,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 144818,
@@ -5449,14 +5521,6 @@
       "onboard_time": 1708989081,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 142848,
-      "num": 142848,
-      "word": "韩国宣布辞职医生再不复岗司法处理",
-      "onboard_time": 1708997254,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142660,
@@ -5619,6 +5683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138294,
+      "num": 138294,
+      "word": "马斯克回应买下迪士尼传闻",
+      "onboard_time": 1708999113,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 138132,
       "num": 138132,
       "word": "来自星尘",
@@ -5737,6 +5809,14 @@
       "onboard_time": 1708846232,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130963,
+      "num": 130963,
+      "word": "罗斯柴尔德家族掌门人去世",
+      "onboard_time": 1708999230,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 130470,
@@ -5985,6 +6065,14 @@
       "onboard_time": 1708818264,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113603,
+      "num": 113603,
+      "word": "节后如何快速掉秤",
+      "onboard_time": 1708996711,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 112736,
