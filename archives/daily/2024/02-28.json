@@ -1,6 +1,6 @@
 {
   "startTime": 1709050946453,
-  "endTime": 1709054256069,
+  "endTime": 1709055237461,
   "band_list": [
     {
       "raw_hot": 1329925,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115974,
+      "num": 115974,
+      "word": "鹿晗工作室已注册足球第一课商标",
+      "onboard_time": 1709054301,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113040,
       "num": 113040,
       "word": "夏之光跳舞",
@@ -339,6 +347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95247,
+      "num": 70478,
+      "word": "为什么晚上睡觉嘴会发干",
+      "onboard_time": 1709053644,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 91148,
       "num": 91148,
       "word": "seventeen成员将于第四季度开始入伍",
@@ -395,12 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68703,
-      "num": 68703,
-      "word": "为什么晚上睡觉嘴会发干",
-      "onboard_time": 1709053644,
-      "rank": 28,
-      "category": "健康医疗"
+      "raw_hot": 68913,
+      "num": 68913,
+      "word": "徐老太带货丝袜是在雷区蹦迪吗",
+      "onboard_time": 1709054361,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 42082,
@@ -416,6 +432,14 @@
       "word": "中国空间站进入常态化运营模式",
       "onboard_time": 1709038594,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36422,
+      "num": 36422,
+      "word": "韩国今年176所小学没招到新生",
+      "onboard_time": 1709055020,
+      "rank": 45,
       "category": "社会新闻"
     }
   ],
