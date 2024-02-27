@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709032463082,
+  "endTime": 1709033631772,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -1667,6 +1667,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 616998,
+      "num": 616998,
+      "word": "世界杯",
+      "onboard_time": 1709030613,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 612179,
       "num": 612179,
       "word": "赵丽颖露肩了",
@@ -2235,14 +2243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 496515,
-      "num": 496515,
-      "word": "世界杯",
-      "onboard_time": 1709030613,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 496205,
       "num": 496205,
       "word": "王楚钦敲了敲金牌",
@@ -2257,6 +2257,14 @@
       "onboard_time": 1708994614,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 495350,
+      "num": 495350,
+      "word": "韩彩英 教授肯定也不认识我",
+      "onboard_time": 1709031214,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 493900,
@@ -2540,7 +2548,7 @@
     },
     {
       "raw_hot": 432736,
-      "num": 546475,
+      "num": 567740,
       "word": "苏炳添60米6秒66",
       "onboard_time": 1709029773,
       "rank": 33,
@@ -2819,14 +2827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 396623,
-      "num": 396623,
-      "word": "韩彩英 教授肯定也不认识我",
-      "onboard_time": 1709031214,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 393059,
       "num": 393059,
       "word": "尼格买提对上了",
@@ -2921,6 +2921,14 @@
       "onboard_time": 1709008363,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 373574,
+      "num": 196304,
+      "word": "因为出圈被骂到永久停办",
+      "onboard_time": 1709032590,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 372539,
@@ -3755,6 +3763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275868,
+      "num": 275868,
+      "word": "博主评董宇辉清空微博对公司不负责",
+      "onboard_time": 1709032353,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 275643,
       "num": 272794,
       "word": "60岁时第一次工作了",
@@ -3913,6 +3929,14 @@
       "onboard_time": 1709005535,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 259833,
+      "num": 192782,
+      "word": "Champion正被挂牌出售",
+      "onboard_time": 1709032653,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 259060,
@@ -4163,6 +4187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 244724,
+      "num": 244724,
+      "word": "紫川",
+      "onboard_time": 1709033191,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244313,
       "num": 244313,
       "word": "买沙发嫌贵被路人阿姨点醒了",
@@ -4257,6 +4289,14 @@
       "onboard_time": 1708820367,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238851,
+      "num": 238851,
+      "word": "女生行李箱装满AD钙奶被安检拦下",
+      "onboard_time": 1709032711,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238647,
@@ -4489,6 +4529,14 @@
       "onboard_time": 1708856136,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225182,
+      "num": 225182,
+      "word": "台湾省",
+      "onboard_time": 1709033313,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 224607,
@@ -5891,6 +5939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 175999,
+      "num": 175999,
+      "word": "理想市值一天涨了1个小鹏",
+      "onboard_time": 1709032772,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 175911,
       "num": 175911,
       "word": "七海建人 你认错老公了",
@@ -6331,6 +6387,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 159480,
+      "num": 159480,
+      "word": "天秤座情商高是有原因的",
+      "onboard_time": 1709033073,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158652,
       "num": 158652,
       "word": "年轻人开始整顿家庭伦理观",
@@ -6475,6 +6539,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 153691,
+      "num": 153691,
+      "word": "王鹤棣西瓜梗",
+      "onboard_time": 1709032171,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153572,
       "num": 153572,
       "word": "Hero对战TTG",
@@ -6545,6 +6617,14 @@
       "onboard_time": 1708908573,
       "rank": 47,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 149997,
+      "num": 149997,
+      "word": "猫咪可以胆小到什么程度",
+      "onboard_time": 1709033254,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 149932,
@@ -6697,6 +6777,14 @@
       "onboard_time": 1708860755,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144075,
+      "num": 144075,
+      "word": "春季赛第二周最佳阵容",
+      "onboard_time": 1709032653,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 143970,
@@ -6995,6 +7083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 134206,
+      "num": 134206,
+      "word": "女子买无座票坐卧铺袭警被刑拘",
+      "onboard_time": 1709033492,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133394,
       "num": 133394,
       "word": "iPhone精织斜纹保护套收广泛差评",
@@ -7057,14 +7153,6 @@
       "onboard_time": 1708829854,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 131810,
-      "num": 131810,
-      "word": "王鹤棣西瓜梗",
-      "onboard_time": 1709032171,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 131779,
@@ -7249,14 +7337,6 @@
       "onboard_time": 1708894817,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122698,
-      "num": 122698,
-      "word": "博主评董宇辉清空微博对公司不负责",
-      "onboard_time": 1709032353,
-      "rank": 45,
-      "category": "互联网"
     },
     {
       "raw_hot": 122637,
@@ -7715,6 +7795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67025,
+      "num": 199346,
+      "word": "没想到中国AI狂飙到海外了",
+      "onboard_time": 1709032954,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 66373,
       "num": 1337130,
       "word": "京津冀十年同心向未来",
@@ -8064,6 +8152,9 @@
     },
     {
       "word": "#互联网之光#"
+    },
+    {
+      "word": "#习近平总书记高度重视网络安全工作#"
     }
   ]
 }

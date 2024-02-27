@@ -1,0 +1,410 @@
+{
+  "runTime": 1709033631772,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1228571,
+        "num": 1228571,
+        "word": "上海到北京仅需2.5小时",
+        "onboard_time": 1709025693,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1191594,
+        "num": 1191594,
+        "word": "李亚鹏直播哭穷",
+        "onboard_time": 1709029594,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65379,
+        "num": 1139291,
+        "word": "我的网络成长故事",
+        "onboard_time": 1709028572,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1094806,
+        "num": 1094806,
+        "word": "全智贤被要求出示就业证明",
+        "onboard_time": 1709027612,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 873896,
+        "num": 873896,
+        "word": "美国共产主义者宣布成立政党",
+        "onboard_time": 1709027735,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 616998,
+        "num": 616998,
+        "word": "世界杯",
+        "onboard_time": 1709030613,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 586846,
+        "num": 586846,
+        "word": "父母迷信偏方14岁男孩身高定格在160",
+        "onboard_time": 1709024375,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417212,
+        "num": 567740,
+        "word": "苏炳添60米6秒66",
+        "onboard_time": 1709029773,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211699,
+        "num": 560677,
+        "word": "警察用胸口为老人捂脚取暖",
+        "onboard_time": 1709027435,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 482435,
+        "num": 557809,
+        "word": "女生考研失败含泪阅读给自己的一封信",
+        "onboard_time": 1709020776,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 556820,
+        "num": 556820,
+        "word": "李宰旭承认恋情",
+        "onboard_time": 1709007695,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520102,
+        "num": 520102,
+        "word": "笑果艺人现状",
+        "onboard_time": 1709023472,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495350,
+        "num": 495350,
+        "word": "韩彩英 教授肯定也不认识我",
+        "onboard_time": 1709031214,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479540,
+        "num": 479540,
+        "word": "为什么最好禁止小孩去别人家过夜",
+        "onboard_time": 1709012853,
+        "rank": 13,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 454846,
+        "num": 454846,
+        "word": "双体制意味着什么",
+        "onboard_time": 1709018374,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 398949,
+        "num": 398949,
+        "word": "日本去年新生婴儿75万人",
+        "onboard_time": 1709025994,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334701,
+        "num": 334701,
+        "word": "彩礼不超3.9万子女可优先入学",
+        "onboard_time": 1709008182,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309465,
+        "num": 309465,
+        "word": "脑袋空空的人适合什么工作",
+        "onboard_time": 1709022511,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292217,
+        "num": 292217,
+        "word": "有刘海的王玉雯",
+        "onboard_time": 1709027435,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276739,
+        "num": 276739,
+        "word": "SM承认柳智敏恋情",
+        "onboard_time": 1709008057,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275868,
+        "num": 275868,
+        "word": "博主评董宇辉清空微博对公司不负责",
+        "onboard_time": 1709032353,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 269793,
+        "num": 269793,
+        "word": "当我拒绝11K薪资后HR破防了",
+        "onboard_time": 1709014895,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253072,
+        "num": 253072,
+        "word": "于正 炒作手段",
+        "onboard_time": 1709029055,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244724,
+        "num": 244724,
+        "word": "紫川",
+        "onboard_time": 1709033191,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238851,
+        "num": 238851,
+        "word": "女生行李箱装满AD钙奶被安检拦下",
+        "onboard_time": 1709032711,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226162,
+        "num": 226162,
+        "word": "娃哈哈",
+        "onboard_time": 1709030913,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225182,
+        "num": 225182,
+        "word": "台湾省",
+        "onboard_time": 1709033313,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204923,
+        "num": 204923,
+        "word": "烟火人家一人离婚全家上阵",
+        "onboard_time": 1709031272,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77863,
+        "num": 203513,
+        "word": "李杰翔被判无期徒刑",
+        "onboard_time": 1709027912,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67025,
+        "num": 199346,
+        "word": "没想到中国AI狂飙到海外了",
+        "onboard_time": 1709032954,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 373574,
+        "num": 196304,
+        "word": "因为出圈被骂到永久停办",
+        "onboard_time": 1709032590,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259833,
+        "num": 192782,
+        "word": "Champion正被挂牌出售",
+        "onboard_time": 1709032653,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 192692,
+        "num": 192692,
+        "word": "起猛了在公司遇到男狐狸了",
+        "onboard_time": 1709030613,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185764,
+        "num": 185764,
+        "word": "吉赛尔ins",
+        "onboard_time": 1709013517,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183897,
+        "num": 183897,
+        "word": "香水喷法",
+        "onboard_time": 1709032291,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 180612,
+        "num": 180612,
+        "word": "体制内说话原来有这么多门道",
+        "onboard_time": 1709027256,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175999,
+        "num": 175999,
+        "word": "理想市值一天涨了1个小鹏",
+        "onboard_time": 1709032772,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 171483,
+        "num": 171483,
+        "word": "怀疑对方AI换脸可以摁鼻子",
+        "onboard_time": 1709015732,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169557,
+        "num": 169557,
+        "word": "陈伟霆开健身房的原因",
+        "onboard_time": 1709029956,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169409,
+        "num": 169409,
+        "word": "国家队资金净流入A股逾4100亿",
+        "onboard_time": 1709030854,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165536,
+        "num": 165536,
+        "word": "女子孕期打耳洞1年半后多俩小耳朵",
+        "onboard_time": 1709002293,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159480,
+        "num": 159480,
+        "word": "天秤座情商高是有原因的",
+        "onboard_time": 1709033073,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153691,
+        "num": 153691,
+        "word": "王鹤棣西瓜梗",
+        "onboard_time": 1709032171,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152831,
+        "num": 152831,
+        "word": "以为是休息实则在耗气血的行为",
+        "onboard_time": 1709011596,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149997,
+        "num": 149997,
+        "word": "猫咪可以胆小到什么程度",
+        "onboard_time": 1709033254,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144075,
+        "num": 144075,
+        "word": "春季赛第二周最佳阵容",
+        "onboard_time": 1709032653,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134206,
+        "num": 134206,
+        "word": "女子买无座票坐卧铺袭警被刑拘",
+        "onboard_time": 1709033492,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126696,
+        "num": 126696,
+        "word": "气血不足的人什么样",
+        "onboard_time": 1709020953,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125163,
+        "num": 125163,
+        "word": "不推荐你吃方便面的原因只有2个",
+        "onboard_time": 1709019934,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122466,
+        "num": 122466,
+        "word": "张娜拉43岁近照",
+        "onboard_time": 1709019153,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视网络安全工作#"
+    }
+  }
+}
