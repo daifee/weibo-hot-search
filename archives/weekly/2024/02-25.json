@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709039908767,
+  "endTime": 1709040855557,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -283,6 +283,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1808834,
+      "num": 1808834,
+      "word": "为何山姆穷鬼套餐让中产疯狂",
+      "onboard_time": 1709036376,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1786453,
       "num": 1786453,
       "word": "樊振东 相持的神",
@@ -321,14 +329,6 @@
       "onboard_time": 1708937016,
       "rank": 0,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1724355,
-      "num": 1724355,
-      "word": "为何山姆穷鬼套餐让中产疯狂",
-      "onboard_time": 1709036376,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 1721784,
@@ -675,6 +675,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1143321,
+      "num": 1143321,
+      "word": "男子与智残女子结婚吃绝户卷走450万",
+      "onboard_time": 1709037154,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1134428,
       "num": 875849,
       "word": "许昕 釜山不推迟的话我也是其中一员",
@@ -795,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1005494,
+      "num": 1005494,
+      "word": "喜欢了一个比自己大7岁的姐姐",
+      "onboard_time": 1709035533,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1000791,
       "num": 812463,
       "word": "马云发挽联悼念宗庆后",
@@ -808,14 +824,6 @@
       "word": "女校长称微信群不雅视频非本人发",
       "onboard_time": 1708865855,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 993313,
-      "num": 993313,
-      "word": "男子与智残女子结婚吃绝户卷走450万",
-      "onboard_time": 1709037154,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1203,14 +1211,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 808050,
-      "num": 808050,
-      "word": "喜欢了一个比自己大7岁的姐姐",
-      "onboard_time": 1709035533,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 807711,
       "num": 807711,
       "word": "以为是休息实则在耗气血的行为",
@@ -1515,20 +1515,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 685765,
+      "num": 685765,
+      "word": "紫川空降",
+      "onboard_time": 1709037339,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 685626,
       "num": 685626,
       "word": "一家三口同患上甲状腺癌",
       "onboard_time": 1708915414,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 684378,
-      "num": 684378,
-      "word": "紫川空降",
-      "onboard_time": 1709037339,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 682870,
@@ -1712,6 +1712,14 @@
       "word": "向佐摆了一桌子全家福",
       "onboard_time": 1709004514,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 621253,
+      "num": 458210,
+      "word": "韩娱有自己的偷偷藏不住",
+      "onboard_time": 1709037754,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -2651,14 +2659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 427613,
-      "num": 427613,
-      "word": "韩娱有自己的偷偷藏不住",
-      "onboard_time": 1709037754,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 426168,
       "num": 295517,
       "word": "从今天起尽量少熬夜",
@@ -2809,6 +2809,14 @@
       "onboard_time": 1708865916,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 412948,
+      "num": 231619,
+      "word": "今日从TikTok平台下架歌曲的艺人",
+      "onboard_time": 1709040273,
+      "rank": 30,
+      "category": "互联网,艺人"
     },
     {
       "raw_hot": 412898,
@@ -3163,6 +3171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 359459,
+      "num": 359459,
+      "word": "董宇辉不能既享受流量红利又逃避舆论",
+      "onboard_time": 1709039614,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 357360,
       "num": 357360,
       "word": "西安平均招聘薪酬9326元每月",
@@ -3217,6 +3233,14 @@
       "onboard_time": 1708865134,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 351557,
+      "num": 351557,
+      "word": "肖战看秀待遇",
+      "onboard_time": 1709039076,
+      "rank": 23,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 351386,
@@ -3523,6 +3547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 310875,
+      "num": 310875,
+      "word": "DIOR大秀",
+      "onboard_time": 1709040153,
+      "rank": 22,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 310791,
       "num": 310791,
       "word": "藏海传有钟汉良",
@@ -3747,6 +3779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 288515,
+      "num": 288515,
+      "word": "唐嫣巴黎时装周",
+      "onboard_time": 1709039316,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 288354,
       "num": 288354,
       "word": "EDG对战AL",
@@ -3937,14 +3977,6 @@
       "onboard_time": 1708852234,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 274486,
-      "num": 274486,
-      "word": "肖战看秀待遇",
-      "onboard_time": 1709039076,
-      "rank": 23,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 274421,
@@ -4499,14 +4531,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 236704,
-      "num": 236704,
-      "word": "唐嫣巴黎时装周",
-      "onboard_time": 1709039316,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 235961,
       "num": 235961,
       "word": "原来医者真的不能自医啊",
@@ -4633,6 +4657,14 @@
       "onboard_time": 1708927414,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 229002,
+      "num": 229002,
+      "word": "赵今麦刚杀青就进组",
+      "onboard_time": 1709039735,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 228819,
@@ -5113,6 +5145,14 @@
       "onboard_time": 1709022393,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 206344,
+      "num": 206344,
+      "word": "找婚鞋",
+      "onboard_time": 1709039432,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 206284,
@@ -6235,6 +6275,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 172965,
+      "num": 172965,
+      "word": "JDG对战WE",
+      "onboard_time": 1709040153,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172827,
       "num": 172827,
       "word": "陆虎在竞综里松弛的像旅综",
@@ -6257,14 +6305,6 @@
       "onboard_time": 1709017173,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171554,
-      "num": 171554,
-      "word": "董宇辉不能既享受流量红利又逃避舆论",
-      "onboard_time": 1709039614,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 171291,
@@ -6819,14 +6859,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 150695,
-      "num": 150695,
-      "word": "赵今麦刚杀青就进组",
-      "onboard_time": 1709039735,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150198,
       "num": 150198,
       "word": "村民抡斧头救人的样子好帅",
@@ -7019,14 +7051,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 143920,
-      "num": 143920,
-      "word": "找婚鞋",
-      "onboard_time": 1709039432,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 143531,
       "num": 143531,
       "word": "范丞丞给辣条打码",
@@ -7145,6 +7169,14 @@
       "onboard_time": 1708804397,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139518,
+      "num": 139518,
+      "word": "飞驰人生2票房破31亿",
+      "onboard_time": 1709040692,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 139394,
@@ -7427,6 +7459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131237,
+      "num": 1228374,
+      "word": "中国空间站进入常态化运营模式",
+      "onboard_time": 1709038594,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130912,
       "num": 130912,
       "word": "建议适时探索单身女性社会性冻卵可行性",
@@ -7489,14 +7529,6 @@
       "onboard_time": 1708932875,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 127658,
-      "num": 1228374,
-      "word": "中国空间站进入常态化运营模式",
-      "onboard_time": 1709038594,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126892,
@@ -7612,7 +7644,7 @@
     },
     {
       "raw_hot": 121691,
-      "num": 246374,
+      "num": 391339,
       "word": "30万级纯电全能王",
       "onboard_time": 1709039196,
       "rank": 25,
@@ -8153,6 +8185,14 @@
       "onboard_time": 1708966642,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 53690,
+      "num": 1374417,
+      "word": "十四冬闭幕式亮点抢先看",
+      "onboard_time": 1709040215,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53476,

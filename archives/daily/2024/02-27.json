@@ -1,6 +1,6 @@
 {
   "startTime": 1708964501350,
-  "endTime": 1709039908767,
+  "endTime": 1709040855557,
   "band_list": [
     {
       "raw_hot": 8120231,
@@ -83,20 +83,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1808834,
+      "num": 1808834,
+      "word": "为何山姆穷鬼套餐让中产疯狂",
+      "onboard_time": 1709036376,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1785117,
       "num": 1785117,
       "word": "作者道歉并承认秦岭隧道视频系拼接",
       "onboard_time": 1709014592,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1724355,
-      "num": 1724355,
-      "word": "为何山姆穷鬼套餐让中产疯狂",
-      "onboard_time": 1709036376,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 1711093,
@@ -187,6 +187,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1143321,
+      "num": 1143321,
+      "word": "男子与智残女子结婚吃绝户卷走450万",
+      "onboard_time": 1709037154,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1119226,
       "num": 1119226,
       "word": "四六级分数出了",
@@ -243,12 +251,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 993313,
-      "num": 993313,
-      "word": "男子与智残女子结婚吃绝户卷走450万",
-      "onboard_time": 1709037154,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 1005494,
+      "num": 1005494,
+      "word": "喜欢了一个比自己大7岁的姐姐",
+      "onboard_time": 1709035533,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 971862,
@@ -313,14 +321,6 @@
       "onboard_time": 1708993415,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 808050,
-      "num": 808050,
-      "word": "喜欢了一个比自己大7岁的姐姐",
-      "onboard_time": 1709035533,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 807711,
@@ -419,8 +419,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 684378,
-      "num": 684378,
+      "raw_hot": 685765,
+      "num": 685765,
       "word": "紫川空降",
       "onboard_time": 1709037339,
       "rank": 26,
@@ -480,6 +480,14 @@
       "word": "向佐摆了一桌子全家福",
       "onboard_time": 1709004514,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 621253,
+      "num": 458210,
+      "word": "韩娱有自己的偷偷藏不住",
+      "onboard_time": 1709037754,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -811,14 +819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 427613,
-      "num": 427613,
-      "word": "韩娱有自己的偷偷藏不住",
-      "onboard_time": 1709037754,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 426168,
       "num": 208550,
       "word": "从今天起尽量少熬夜",
@@ -857,6 +857,14 @@
       "onboard_time": 1709010041,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 412948,
+      "num": 231619,
+      "word": "今日从TikTok平台下架歌曲的艺人",
+      "onboard_time": 1709040273,
+      "rank": 30,
+      "category": "互联网,艺人"
     },
     {
       "raw_hot": 411885,
@@ -963,6 +971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 359459,
+      "num": 359459,
+      "word": "董宇辉不能既享受流量红利又逃避舆论",
+      "onboard_time": 1709039614,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 357056,
       "num": 357056,
       "word": "脚后跟干裂可能是3种病",
@@ -985,6 +1001,14 @@
       "onboard_time": 1709008900,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 351557,
+      "num": 351557,
+      "word": "肖战看秀待遇",
+      "onboard_time": 1709039076,
+      "rank": 23,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 351386,
@@ -1067,6 +1091,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 310875,
+      "num": 310875,
+      "word": "DIOR大秀",
+      "onboard_time": 1709040153,
+      "rank": 22,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 306613,
       "num": 306613,
       "word": "李湘晒王诗龄送的礼物",
@@ -1123,6 +1155,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 288515,
+      "num": 288515,
+      "word": "唐嫣巴黎时装周",
+      "onboard_time": 1709039316,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 286734,
       "num": 286734,
       "word": "南波万229预告",
@@ -1169,14 +1209,6 @@
       "onboard_time": 1709032353,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 274486,
-      "num": 274486,
-      "word": "肖战看秀待遇",
-      "onboard_time": 1709039076,
-      "rank": 23,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 272675,
@@ -1355,14 +1387,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 236704,
-      "num": 236704,
-      "word": "唐嫣巴黎时装周",
-      "onboard_time": 1709039316,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 234726,
       "num": 234726,
       "word": "把公司群名改成了穷酸公司迟早倒闭",
@@ -1400,6 +1424,14 @@
       "word": "李衣锦爸妈离婚",
       "onboard_time": 1709017593,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 229002,
+      "num": 229002,
+      "word": "赵今麦刚杀青就进组",
+      "onboard_time": 1709039735,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1569,6 +1601,14 @@
       "onboard_time": 1709022393,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 206344,
+      "num": 206344,
+      "word": "找婚鞋",
+      "onboard_time": 1709039432,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 205684,
@@ -1867,20 +1907,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172965,
+      "num": 172965,
+      "word": "JDG对战WE",
+      "onboard_time": 1709040153,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172428,
       "num": 246344,
       "word": "孙颖莎樊振东再度领跑世界排名",
       "onboard_time": 1709017173,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171554,
-      "num": 171554,
-      "word": "董宇辉不能既享受流量红利又逃避舆论",
-      "onboard_time": 1709039614,
-      "rank": 37,
-      "category": "互联网"
     },
     {
       "raw_hot": 171291,
@@ -2027,14 +2067,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 150695,
-      "num": 150695,
-      "word": "赵今麦刚杀青就进组",
-      "onboard_time": 1709039735,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149530,
       "num": 149530,
       "word": "种地吧每日打卡直播",
@@ -2131,14 +2163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 143920,
-      "num": 143920,
-      "word": "找婚鞋",
-      "onboard_time": 1709039432,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 142865,
       "num": 142865,
       "word": "四六级查分入口",
@@ -2193,6 +2217,14 @@
       "onboard_time": 1709035118,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139518,
+      "num": 139518,
+      "word": "飞驰人生2票房破31亿",
+      "onboard_time": 1709040692,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 139312,
@@ -2323,6 +2355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131237,
+      "num": 1228374,
+      "word": "中国空间站进入常态化运营模式",
+      "onboard_time": 1709038594,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130912,
       "num": 130912,
       "word": "建议适时探索单身女性社会性冻卵可行性",
@@ -2345,14 +2385,6 @@
       "onboard_time": 1709018976,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 127658,
-      "num": 1228374,
-      "word": "中国空间站进入常态化运营模式",
-      "onboard_time": 1709038594,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126631,
@@ -2388,7 +2420,7 @@
     },
     {
       "raw_hot": 121691,
-      "num": 246374,
+      "num": 391339,
       "word": "30万级纯电全能王",
       "onboard_time": 1709039196,
       "rank": 25,
@@ -2713,6 +2745,14 @@
       "onboard_time": 1708966642,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 53690,
+      "num": 1374417,
+      "word": "十四冬闭幕式亮点抢先看",
+      "onboard_time": 1709040215,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35508,
