@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709102131151,
+  "endTime": 1709104577191,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -675,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1250441,
+      "num": 1250441,
+      "word": "黄嘉千称夏天被夏克立家暴",
+      "onboard_time": 1709101171,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1245435,
       "num": 1245435,
       "word": "妈妈喜欢把洗碗布放水龙头上",
@@ -849,6 +857,14 @@
       "onboard_time": 1708832253,
       "rank": 10,
       "category": "体育,网红"
+    },
+    {
+      "raw_hot": 1090639,
+      "num": 1090639,
+      "word": "泰国版张雨绮",
+      "onboard_time": 1709101952,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1072006,
@@ -1120,6 +1136,14 @@
       "word": "女继承人时代来了",
       "onboard_time": 1708836821,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 923816,
+      "num": 923816,
+      "word": "云南失联两兄弟遗体被找到",
+      "onboard_time": 1709100151,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1401,6 +1425,14 @@
       "onboard_time": 1708993415,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 808637,
+      "num": 808637,
+      "word": "女子欲买小体比熊不料狗狗飙长变熊大",
+      "onboard_time": 1709099790,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 808074,
@@ -1947,6 +1979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 653294,
+      "num": 653294,
+      "word": "2岁宝宝已穿1年小腿假肢",
+      "onboard_time": 1709099549,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653166,
       "num": 653166,
       "word": "钟楚曦换风格了",
@@ -2057,14 +2097,6 @@
       "onboard_time": 1709037754,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 619979,
-      "num": 619979,
-      "word": "2岁宝宝已穿1年小腿假肢",
-      "onboard_time": 1709099549,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 618233,
@@ -2267,14 +2299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 586016,
-      "num": 552939,
-      "word": "云南失联两兄弟遗体被找到",
-      "onboard_time": 1709100151,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 585786,
       "num": 585786,
       "word": "北斗七行",
@@ -2307,20 +2331,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 582761,
-      "num": 582761,
-      "word": "女子欲买小体比熊不料狗狗飙长变熊大",
-      "onboard_time": 1709099790,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 579357,
       "num": 410137,
       "word": "杭州宾利车主",
       "onboard_time": 1708828177,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 578162,
+      "num": 578162,
+      "word": "国产剧洗澡戏越来越见外了",
+      "onboard_time": 1709102972,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 577703,
@@ -2345,14 +2369,6 @@
       "onboard_time": 1708833994,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 574500,
-      "num": 574500,
-      "word": "黄嘉千称夏天被夏克立家暴",
-      "onboard_time": 1709101171,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 572834,
@@ -2595,6 +2611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 530388,
+      "num": 530388,
+      "word": "HIV预防性疫苗研发全军覆没",
+      "onboard_time": 1709098833,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 527784,
       "num": 460265,
       "word": "G7联合声明竟公开点名中国",
@@ -2697,14 +2721,6 @@
       "onboard_time": 1708861710,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 512283,
-      "num": 512283,
-      "word": "HIV预防性疫苗研发全军覆没",
-      "onboard_time": 1709098833,
-      "rank": 11,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 508655,
@@ -3081,6 +3097,14 @@
       "onboard_time": 1708923518,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 461972,
+      "num": 461972,
+      "word": "A股",
+      "onboard_time": 1708935575,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 461425,
@@ -3739,6 +3763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 370550,
+      "num": 370550,
+      "word": "上海一饭堂发生情杀案致2人死亡",
+      "onboard_time": 1709103211,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 370022,
       "num": 370022,
       "word": "英语一",
@@ -3915,11 +3947,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 346948,
-      "num": 346948,
-      "word": "泰国版张雨绮",
-      "onboard_time": 1709101952,
-      "rank": 20,
+      "raw_hot": 348281,
+      "num": 348281,
+      "word": "甜馨cos初音未来",
+      "onboard_time": 1709103932,
+      "rank": 17,
       "category": "作品衍生"
     },
     {
@@ -3985,14 +4017,6 @@
       "onboard_time": 1709029113,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 338613,
-      "num": 338613,
-      "word": "A股",
-      "onboard_time": 1708935575,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 338165,
@@ -4139,6 +4163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 319267,
+      "num": 319267,
+      "word": "G社拍的金珉奎像在接亲",
+      "onboard_time": 1709103154,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 318741,
       "num": 318741,
       "word": "鹿晗穿睡衣背背篓赶集",
@@ -4273,6 +4305,14 @@
       "onboard_time": 1708820367,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 310890,
+      "num": 310890,
+      "word": "陈浩民举家回香港定居",
+      "onboard_time": 1709104114,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 310791,
@@ -4481,6 +4521,14 @@
       "onboard_time": 1708849413,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292430,
+      "num": 292430,
+      "word": "魏大勋演我吃瓜",
+      "onboard_time": 1709104293,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 292387,
@@ -5051,6 +5099,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 256267,
+      "num": 256267,
+      "word": "00后姑娘做TikTok主播月入2万",
+      "onboard_time": 1709103093,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 256191,
       "num": 256191,
       "word": "鹿晗工作室已注册足球第一课商标",
@@ -5112,6 +5168,14 @@
       "word": "鹿 我要过马路",
       "onboard_time": 1708840595,
       "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 253872,
+      "num": 218026,
+      "word": "结婚选花童一定要谨慎",
+      "onboard_time": 1709102553,
+      "rank": 30,
       "category": "幽默"
     },
     {
@@ -5347,6 +5411,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 241718,
+      "num": 241718,
+      "word": "长相思腾讯年榜第二",
+      "onboard_time": 1709103691,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241111,
       "num": 241111,
       "word": "四川自考 进不去",
@@ -5473,6 +5545,14 @@
       "onboard_time": 1708874136,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234993,
+      "num": 234993,
+      "word": "股市",
+      "onboard_time": 1709104172,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 234555,
@@ -7315,6 +7395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179090,
+      "num": 179090,
+      "word": "A股成交半日放量3611亿",
+      "onboard_time": 1709098713,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 178931,
       "num": 178931,
       "word": "星痕采访",
@@ -7601,14 +7689,6 @@
       "onboard_time": 1709017173,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172141,
-      "num": 172141,
-      "word": "A股成交半日放量3611亿",
-      "onboard_time": 1709098713,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 171291,
@@ -8123,6 +8203,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 157073,
+      "num": 157073,
+      "word": "六月租房贵的原因",
+      "onboard_time": 1709103033,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156971,
       "num": 156971,
       "word": "张真源说岛上的生活挺好的人不太好",
@@ -8257,6 +8345,14 @@
       "onboard_time": 1709083532,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 152382,
+      "num": 152382,
+      "word": "夏克立否认家暴小孩",
+      "onboard_time": 1709102672,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 152260,
@@ -8563,6 +8659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 142729,
+      "num": 142729,
+      "word": "监管方面称量化交易恢复传闻不实",
+      "onboard_time": 1709104474,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 142660,
       "num": 142660,
       "word": "清明上河园小乞丐回应被喂胖",
@@ -8577,6 +8681,14 @@
       "onboard_time": 1708990404,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 142421,
+      "num": 142421,
+      "word": "1分钟了解艾滋病",
+      "onboard_time": 1709103630,
+      "rank": 46,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 142334,
@@ -9539,6 +9651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 82413,
+      "num": 136044,
+      "word": "牡丹鹦鹉叼纸条插尾巴上准备筑巢",
+      "onboard_time": 1709104533,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 81632,
       "num": 81632,
       "word": "切尔西0比1利物浦",
@@ -9673,6 +9793,14 @@
       "onboard_time": 1708778793,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68050,
+      "num": 143238,
+      "word": "每个孩子都该掌握的安全指南",
+      "onboard_time": 1709102732,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 67947,
