@@ -1,6 +1,6 @@
 {
   "startTime": 1709050946453,
-  "endTime": 1709111826763,
+  "endTime": 1709112849657,
   "band_list": [
     {
       "raw_hot": 2515665,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1706636,
-      "num": 999986,
+      "num": 1232292,
       "word": "上海一饭堂发生情杀案致2人死亡",
       "onboard_time": 1709103211,
       "rank": 16,
@@ -89,6 +89,14 @@
       "onboard_time": 1709075123,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1344297,
+      "num": 1344297,
+      "word": "老公姐 人夫哥",
+      "onboard_time": 1709110294,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 1329925,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1113891,
-      "num": 787296,
+      "num": 932706,
       "word": "海关查获人体组织制品玩具",
       "onboard_time": 1709105314,
       "rank": 40,
@@ -185,6 +193,14 @@
       "onboard_time": 1709087373,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 890896,
+      "num": 890896,
+      "word": "比亚迪价格",
+      "onboard_time": 1709109991,
+      "rank": 5,
+      "category": "汽车"
     },
     {
       "raw_hot": 882238,
@@ -267,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 764596,
-      "num": 764596,
-      "word": "比亚迪价格",
-      "onboard_time": 1709109991,
-      "rank": 5,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 763575,
       "num": 763575,
       "word": "D社放弃跟拍的女爱豆",
@@ -305,6 +313,14 @@
       "onboard_time": 1709077951,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 725538,
+      "num": 725538,
+      "word": "娃哈哈感谢信",
+      "onboard_time": 1709110831,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 715884,
@@ -379,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 642612,
-      "num": 642612,
-      "word": "老公姐 人夫哥",
-      "onboard_time": 1709110294,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 635392,
       "num": 635392,
       "word": "容易被癌细胞盯上的7个饮食习惯",
@@ -401,14 +409,6 @@
       "onboard_time": 1709104114,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 608254,
-      "num": 608254,
-      "word": "娃哈哈感谢信",
-      "onboard_time": 1709110831,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 601005,
@@ -595,6 +595,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 468012,
+      "num": 468012,
+      "word": "王菲hobo包",
+      "onboard_time": 1709110352,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 461972,
       "num": 461972,
       "word": "A股",
@@ -633,6 +641,14 @@
       "onboard_time": 1709077529,
       "rank": 15,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 421491,
+      "num": 421491,
+      "word": "被时代淘汰的水果",
+      "onboard_time": 1709110471,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 413706,
@@ -715,14 +731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365143,
-      "num": 365143,
-      "word": "王菲hobo包",
-      "onboard_time": 1709110352,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 364193,
       "num": 364193,
       "word": "喜欢了一个比自己大7岁的姐姐",
@@ -737,6 +745,14 @@
       "onboard_time": 1709104172,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 343147,
+      "num": 343147,
+      "word": "巴黎奥运会安保方案被偷",
+      "onboard_time": 1709111311,
+      "rank": 31,
+      "category": "国外时政,体育"
     },
     {
       "raw_hot": 341617,
@@ -923,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273155,
+      "num": 273155,
+      "word": "余华本人比照片帅",
+      "onboard_time": 1709110594,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 271661,
       "num": 271661,
       "word": "一人不爬山 不近青纱帐",
@@ -979,14 +1003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 259583,
-      "num": 188039,
-      "word": "余华本人比照片帅",
-      "onboard_time": 1709110594,
-      "rank": 30,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 257310,
       "num": 257310,
       "word": "早期的papi酱",
@@ -1033,14 +1049,6 @@
       "onboard_time": 1709102553,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 252870,
-      "num": 252870,
-      "word": "被时代淘汰的水果",
-      "onboard_time": 1709110471,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 252355,
@@ -1099,6 +1107,22 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 239077,
+      "num": 239077,
+      "word": "亚洲首富之子18个月减重超200斤",
+      "onboard_time": 1709112214,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236865,
+      "num": 236865,
+      "word": "张杰武汉演唱会又取消了",
+      "onboard_time": 1709112214,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 235870,
       "num": 235870,
       "word": "白鹿白月梵星杀青照",
@@ -1139,6 +1163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 230394,
+      "num": 230394,
+      "word": "热心市民魏大勋",
+      "onboard_time": 1709112814,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230153,
       "num": 230153,
       "word": "娃哈哈总部门口摆满娃哈哈",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1709037154,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223021,
+      "num": 223021,
+      "word": "演员谭凯喝娃哈哈AD钙奶缅怀宗庆后",
+      "onboard_time": 1709111434,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 222599,
@@ -1193,6 +1233,14 @@
       "onboard_time": 1709042853,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218376,
+      "num": 218376,
+      "word": "EDG官宣Xiamu加入",
+      "onboard_time": 1709112214,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 216263,
@@ -1299,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201761,
+      "num": 201761,
+      "word": "迪丽热巴金色眼妆",
+      "onboard_time": 1709112335,
+      "rank": 32,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 198950,
       "num": 198950,
       "word": "模仿暮光之城",
@@ -1387,28 +1443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190728,
-      "num": 190728,
-      "word": "演员谭凯喝娃哈哈AD钙奶缅怀宗庆后",
-      "onboard_time": 1709111434,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190035,
       "num": 190035,
       "word": "日本启动第四轮核污染水排放",
       "onboard_time": 1709090431,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187967,
-      "num": 187967,
-      "word": "巴黎奥运会安保方案被偷",
-      "onboard_time": 1709111311,
-      "rank": 31,
-      "category": "国外时政,体育"
     },
     {
       "raw_hot": 184843,
@@ -1473,6 +1513,14 @@
       "onboard_time": 1709098713,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 178273,
+      "num": 162204,
+      "word": "金智秀秀场状态",
+      "onboard_time": 1709112153,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178046,
@@ -1619,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164961,
+      "num": 153364,
+      "word": "杨幂配音功夫熊猫4",
+      "onboard_time": 1709112693,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164651,
       "num": 164651,
       "word": "女生问男友新裙子好看吗",
@@ -1649,6 +1705,14 @@
       "onboard_time": 1709106634,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162731,
+      "num": 162731,
+      "word": "杨幂这样的老板",
+      "onboard_time": 1709112395,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 161867,
@@ -1691,8 +1755,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154160,
-      "num": 154160,
+      "raw_hot": 156751,
+      "num": 156751,
       "word": "假扮文件传输助手账号被平台封禁",
       "onboard_time": 1709111434,
       "rank": 40,
@@ -1753,6 +1817,14 @@
       "onboard_time": 1709090672,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145498,
+      "num": 145498,
+      "word": "为什么汉堡王没火起来",
+      "onboard_time": 1709112575,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 145465,
@@ -1897,6 +1969,14 @@
       "onboard_time": 1709068996,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122044,
+      "num": 122044,
+      "word": "王者分路段位上线体验服",
+      "onboard_time": 1709112512,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 120074,
@@ -2097,6 +2177,14 @@
       "onboard_time": 1709102732,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 65431,
+      "num": 1258902,
+      "word": "中国建成航天领域首个大科学装置",
+      "onboard_time": 1709111973,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62520,

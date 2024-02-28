@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1709111826763,
+  "endTime": 1709112849657,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -3284,7 +3284,7 @@
     },
     {
       "raw_hot": 1706636,
-      "num": 999986,
+      "num": 1232292,
       "word": "上海一饭堂发生情杀案致2人死亡",
       "onboard_time": 1709103211,
       "rank": 16,
@@ -4993,6 +4993,14 @@
       "onboard_time": 1709027612,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1344297,
+      "num": 1344297,
+      "word": "老公姐 人夫哥",
+      "onboard_time": 1709110294,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 1343349,
@@ -6780,7 +6788,7 @@
     },
     {
       "raw_hot": 1113891,
-      "num": 787296,
+      "num": 932706,
       "word": "海关查获人体组织制品玩具",
       "onboard_time": 1709105314,
       "rank": 40,
@@ -9379,6 +9387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 890896,
+      "num": 890896,
+      "word": "比亚迪价格",
+      "onboard_time": 1708333660,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 889618,
       "num": 889618,
       "word": "娃哈哈是我在这个世界上存在过的证明",
@@ -11779,14 +11795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 764596,
-      "num": 764596,
-      "word": "比亚迪价格",
-      "onboard_time": 1708333660,
-      "rank": 12,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 764202,
       "num": 764202,
       "word": "iPhone进水的官方推荐处理方法",
@@ -12641,6 +12649,14 @@
       "onboard_time": 1707815560,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 725538,
+      "num": 725538,
+      "word": "娃哈哈感谢信",
+      "onboard_time": 1709110831,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 724506,
@@ -14835,14 +14851,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 642612,
-      "num": 642612,
-      "word": "老公姐 人夫哥",
-      "onboard_time": 1709110294,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 642349,
       "num": 642349,
       "word": "女子春运换乘5次省4000元",
@@ -15993,14 +16001,6 @@
       "onboard_time": 1708951831,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 608254,
-      "num": 608254,
-      "word": "娃哈哈感谢信",
-      "onboard_time": 1709110831,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 608168,
@@ -21571,6 +21571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 468012,
+      "num": 468012,
+      "word": "王菲hobo包",
+      "onboard_time": 1709110352,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 467127,
       "num": 467127,
       "word": "智能腹股沟",
@@ -23649,6 +23657,14 @@
       "onboard_time": 1708868493,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421491,
+      "num": 421491,
+      "word": "被时代淘汰的水果",
+      "onboard_time": 1709110471,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 421329,
@@ -26979,14 +26995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 365143,
-      "num": 365143,
-      "word": "王菲hobo包",
-      "onboard_time": 1709110352,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 365043,
       "num": 365043,
       "word": "A股纪录刷新",
@@ -28313,6 +28321,14 @@
       "onboard_time": 1707645391,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 343147,
+      "num": 343147,
+      "word": "巴黎奥运会安保方案被偷",
+      "onboard_time": 1709111311,
+      "rank": 31,
+      "category": "国外时政,体育"
     },
     {
       "raw_hot": 342790,
@@ -34475,6 +34491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273155,
+      "num": 273155,
+      "word": "余华本人比照片帅",
+      "onboard_time": 1709110594,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 273139,
       "num": 273139,
       "word": "小年快乐",
@@ -35939,14 +35963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259583,
-      "num": 188039,
-      "word": "余华本人比照片帅",
-      "onboard_time": 1709110594,
-      "rank": 30,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 259579,
       "num": 259579,
       "word": "谷爱凌U池世界杯夺冠",
@@ -36833,14 +36849,6 @@
       "onboard_time": 1707445767,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252870,
-      "num": 252870,
-      "word": "被时代淘汰的水果",
-      "onboard_time": 1709110471,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 252822,
@@ -38811,6 +38819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 239077,
+      "num": 239077,
+      "word": "亚洲首富之子18个月减重超200斤",
+      "onboard_time": 1709112214,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239064,
       "num": 239064,
       "word": "港府或因梅西缺赛扣减赞助款项",
@@ -39137,6 +39153,14 @@
       "onboard_time": 1707879212,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236865,
+      "num": 236865,
+      "word": "张杰武汉演唱会又取消了",
+      "onboard_time": 1709112214,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 236812,
@@ -40264,6 +40288,14 @@
       "word": "大侦探9首案概念海报",
       "onboard_time": 1707629071,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 230394,
+      "num": 230394,
+      "word": "热心市民魏大勋",
+      "onboard_time": 1709112814,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -41427,6 +41459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223021,
+      "num": 223021,
+      "word": "演员谭凯喝娃哈哈AD钙奶缅怀宗庆后",
+      "onboard_time": 1709111434,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222999,
       "num": 222999,
       "word": "一人之下剧场版开播",
@@ -42377,6 +42417,14 @@
       "onboard_time": 1708479996,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 218376,
+      "num": 218376,
+      "word": "EDG官宣Xiamu加入",
+      "onboard_time": 1709112214,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 218375,
@@ -46211,6 +46259,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201761,
+      "num": 201761,
+      "word": "迪丽热巴金色眼妆",
+      "onboard_time": 1709112335,
+      "rank": 32,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 201721,
       "num": 201721,
       "word": "过年回村上厕所的安全感",
@@ -49571,14 +49627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190728,
-      "num": 190728,
-      "word": "演员谭凯喝娃哈哈AD钙奶缅怀宗庆后",
-      "onboard_time": 1709111434,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190727,
       "num": 190727,
       "word": "杨瀚森隔扣蒙古两人",
@@ -50449,14 +50497,6 @@
       "onboard_time": 1707476250,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 187967,
-      "num": 187967,
-      "word": "巴黎奥运会安保方案被偷",
-      "onboard_time": 1709111311,
-      "rank": 31,
-      "category": "国外时政,体育"
     },
     {
       "raw_hot": 187954,
@@ -52825,6 +52865,14 @@
       "onboard_time": 1706951431,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178273,
+      "num": 162204,
+      "word": "金智秀秀场状态",
+      "onboard_time": 1709112153,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 178244,
@@ -56635,6 +56683,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 164961,
+      "num": 153364,
+      "word": "杨幂配音功夫熊猫4",
+      "onboard_time": 1709112693,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164926,
       "num": 164926,
       "word": "拒绝长辈的红包会有什么下场",
@@ -57161,6 +57217,14 @@
       "onboard_time": 1707916959,
       "rank": 43,
       "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 162731,
+      "num": 162731,
+      "word": "杨幂这样的老板",
+      "onboard_time": 1709112395,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 162708,
@@ -58819,6 +58883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156751,
+      "num": 156751,
+      "word": "假扮文件传输助手账号被平台封禁",
+      "onboard_time": 1709111434,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 156738,
       "num": 156738,
       "word": "狗自己都觉得好笑",
@@ -59433,14 +59505,6 @@
       "onboard_time": 1708762408,
       "rank": 40,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 154160,
-      "num": 154160,
-      "word": "假扮文件传输助手账号被平台封禁",
-      "onboard_time": 1709111434,
-      "rank": 40,
-      "category": "互联网"
     },
     {
       "raw_hot": 154154,
@@ -61841,6 +61905,14 @@
       "onboard_time": 1707465810,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 145498,
+      "num": 145498,
+      "word": "为什么汉堡王没火起来",
+      "onboard_time": 1709112575,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 145465,
@@ -67851,6 +67923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122044,
+      "num": 122044,
+      "word": "王者分路段位上线体验服",
+      "onboard_time": 1709112512,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122018,
       "num": 173870,
       "word": "3岁萌娃坐6小时动车一路上不哭闹",
@@ -73609,6 +73689,14 @@
       "onboard_time": 1708811777,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 65431,
+      "num": 1258902,
+      "word": "中国建成航天领域首个大科学装置",
+      "onboard_time": 1709111973,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65085,
