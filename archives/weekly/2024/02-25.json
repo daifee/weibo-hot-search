@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709162391182,
+  "endTime": 1709163249127,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -2259,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 649992,
+      "num": 649992,
+      "word": "面包店的浪费现象有多严重",
+      "onboard_time": 1709140822,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 647173,
       "num": 647173,
       "word": "工作人员辟谣王鹤棣要求重录",
@@ -3121,14 +3129,6 @@
       "onboard_time": 1708855836,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 499866,
-      "num": 499866,
-      "word": "面包店的浪费现象有多严重",
-      "onboard_time": 1709140822,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 499220,
@@ -4307,6 +4307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 359512,
+      "num": 359512,
+      "word": "专家建议给部分70后80后养老金补偿",
+      "onboard_time": 1709157495,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358889,
       "num": 301419,
       "word": "睡前吃夜宵和饿肚子睡觉哪个危害大",
@@ -4329,6 +4337,14 @@
       "onboard_time": 1708995455,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 355463,
+      "num": 355463,
+      "word": "专家预测未来三年国内车价或降30%",
+      "onboard_time": 1709152935,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 355249,
@@ -4987,14 +5003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302205,
-      "num": 302205,
-      "word": "专家建议给部分70后80后养老金补偿",
-      "onboard_time": 1709157495,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301992,
       "num": 301992,
       "word": "北斗七行衍生综艺开录",
@@ -5057,14 +5065,6 @@
       "onboard_time": 1708939715,
       "rank": 26,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 298088,
-      "num": 298088,
-      "word": "专家预测未来三年国内车价或降30%",
-      "onboard_time": 1709152935,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 296833,
@@ -5539,6 +5539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272507,
+      "num": 234958,
+      "word": "好友改名文件传输助手当事人回应",
+      "onboard_time": 1709154018,
+      "rank": 28,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 271978,
       "num": 271978,
       "word": "郭晶晶周雨彤合照",
@@ -5723,6 +5731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260096,
+      "num": 260096,
+      "word": "抖音火花bug",
+      "onboard_time": 1709162064,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 259833,
       "num": 192817,
       "word": "Champion正被挂牌出售",
@@ -5769,14 +5785,6 @@
       "onboard_time": 1709089350,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 257091,
-      "num": 181697,
-      "word": "好友改名文件传输助手当事人回应",
-      "onboard_time": 1709154018,
-      "rank": 28,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 256267,
@@ -6555,6 +6563,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 223605,
+      "num": 223605,
+      "word": "曝朱婷与科内利亚诺达成协议",
+      "onboard_time": 1709152996,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223021,
       "num": 223021,
       "word": "演员谭凯喝娃哈哈AD钙奶缅怀宗庆后",
@@ -7281,6 +7297,14 @@
       "onboard_time": 1709003915,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 201139,
+      "num": 114962,
+      "word": "小伙撸铁2小时横纹肌溶解了",
+      "onboard_time": 1709146457,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200848,
@@ -8723,14 +8747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169671,
-      "num": 102705,
-      "word": "小伙撸铁2小时横纹肌溶解了",
-      "onboard_time": 1709146457,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169610,
       "num": 169610,
       "word": "宗庆后42岁白手起家",
@@ -8753,14 +8769,6 @@
       "onboard_time": 1709090733,
       "rank": 40,
       "category": "数码,汽车"
-    },
-    {
-      "raw_hot": 169211,
-      "num": 169211,
-      "word": "曝朱婷与科内利亚诺达成协议",
-      "onboard_time": 1709152996,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 169128,
@@ -9324,7 +9332,7 @@
     },
     {
       "raw_hot": 155560,
-      "num": 100536,
+      "num": 114730,
       "word": "舅舅让我帮他女儿付学费",
       "onboard_time": 1709138067,
       "rank": 46,
@@ -10491,14 +10499,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 125046,
-      "num": 125046,
-      "word": "抖音火花bug",
-      "onboard_time": 1709162064,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 124602,
       "num": 124602,
       "word": "何炅吴昕信念感",
@@ -10632,6 +10632,14 @@
       "word": "当你养了一只无比粘人的橘猫幼崽",
       "onboard_time": 1708875759,
       "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 120444,
+      "num": 113715,
+      "word": "摆烂太久天赋会被收走的",
+      "onboard_time": 1709162305,
+      "rank": 36,
       "category": "幽默"
     },
     {
@@ -10971,6 +10979,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 104620,
+      "num": 104620,
+      "word": "网球王子 不二周助",
+      "onboard_time": 1709162305,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 104030,
       "num": 449230,
       "word": "小米14Ultra欧洲定价近国内一倍",
@@ -11020,7 +11036,7 @@
     },
     {
       "raw_hot": 97055,
-      "num": 76409,
+      "num": 85108,
       "word": "男朋友寄来的一周年纪念礼物",
       "onboard_time": 1709140041,
       "rank": 31,
@@ -11051,6 +11067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91793,
+      "num": 91793,
+      "word": "维生素真的不要随便补",
+      "onboard_time": 1709162305,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 90784,
       "num": 416809,
       "word": "没想到中国AI狂飙到海外了",
@@ -11065,6 +11089,14 @@
       "onboard_time": 1709122834,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 85991,
+      "num": 85991,
+      "word": "杨天真偶遇宋佳马思纯",
+      "onboard_time": 1709160322,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 85387,
@@ -11089,14 +11121,6 @@
       "onboard_time": 1709123373,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 81671,
-      "num": 81671,
-      "word": "杨天真偶遇宋佳马思纯",
-      "onboard_time": 1709160322,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 81632,
@@ -11185,6 +11209,22 @@
       "onboard_time": 1708962811,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 76436,
+      "num": 76436,
+      "word": "李兰迪沙滩照",
+      "onboard_time": 1709162847,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 75294,
+      "num": 75294,
+      "word": "魔卡少女樱 桃矢哥哥",
+      "onboard_time": 1709162364,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 73500,
@@ -11299,14 +11339,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 65033,
-      "num": 65033,
-      "word": "网球王子 不二周助",
-      "onboard_time": 1709162305,
-      "rank": 33,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 64591,
       "num": 47396,
       "word": "赵昭仪与素人合照",
@@ -11379,14 +11411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59055,
-      "num": 59055,
-      "word": "摆烂太久天赋会被收走的",
-      "onboard_time": 1709162305,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 58685,
       "num": 52375,
       "word": "没想到被撤回了一个行李箱",
@@ -11403,12 +11427,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 54999,
-      "num": 54999,
-      "word": "维生素真的不要随便补",
-      "onboard_time": 1709162305,
-      "rank": 39,
-      "category": "健康医疗"
+      "raw_hot": 56611,
+      "num": 56611,
+      "word": "豆瓣崩了",
+      "onboard_time": 1709162185,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 54251,
@@ -11419,12 +11443,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 53898,
+      "num": 53898,
+      "word": "开始推理吧2路透",
+      "onboard_time": 1709163086,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53476,
       "num": 53476,
       "word": "王铮亮张远我很好",
       "onboard_time": 1708796003,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 52869,
+      "num": 52869,
+      "word": "诺丁汉森林0比1曼联",
+      "onboard_time": 1709161703,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 52700,
@@ -11475,14 +11515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 47988,
-      "num": 47988,
-      "word": "诺丁汉森林0比1曼联",
-      "onboard_time": 1709161703,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 47318,
       "num": 375157,
       "word": "王安宇李昀锐中式清檀大片",
@@ -11499,14 +11531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 45758,
-      "num": 45758,
-      "word": "豆瓣崩了",
-      "onboard_time": 1709162185,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 45384,
       "num": 45384,
       "word": "田曦薇柿柿如意古装",
@@ -11521,14 +11545,6 @@
       "onboard_time": 1709063656,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 43180,
-      "num": 43180,
-      "word": "魔卡少女樱 桃矢哥哥",
-      "onboard_time": 1709162364,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 42773,
@@ -11619,6 +11635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31339,
+      "num": 889324,
+      "word": "我国载人航天工程取得4000多项发明专利",
+      "onboard_time": 1709126974,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27936,
       "num": 27936,
       "word": "你好星期六",
@@ -11673,14 +11697,6 @@
       "onboard_time": 1708971438,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 23146,
-      "num": 889324,
-      "word": "我国载人航天工程取得4000多项发明专利",
-      "onboard_time": 1709126974,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 23010,
