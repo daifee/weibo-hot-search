@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709116526469,
+  "endTime": 1709118953511,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -225,6 +225,14 @@
       "onboard_time": 1709082573,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2181041,
+      "num": 2181041,
+      "word": "重庆姐弟坠亡案生母宣布将直播带货",
+      "onboard_time": 1709115872,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2142585,
@@ -1219,6 +1227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 907577,
+      "num": 907577,
+      "word": "贵州夫妻17年间生下9女1男",
+      "onboard_time": 1709115211,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897801,
       "num": 897801,
       "word": "英语二",
@@ -1465,6 +1481,14 @@
       "onboard_time": 1708832854,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 826202,
+      "num": 826202,
+      "word": "为什么汉堡王没火起来",
+      "onboard_time": 1709112575,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 824922,
@@ -1803,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 723508,
+      "num": 597468,
+      "word": "陈赫晒妻子女儿背影照",
+      "onboard_time": 1709116776,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 722217,
       "num": 722217,
       "word": "咖啡超过九块九就不想喝了",
@@ -1993,14 +2025,6 @@
       "onboard_time": 1708948412,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 676534,
-      "num": 676534,
-      "word": "为什么汉堡王没火起来",
-      "onboard_time": 1709112575,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 676049,
@@ -2499,6 +2523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 576218,
+      "num": 576218,
+      "word": "找工作",
+      "onboard_time": 1709114852,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 574706,
       "num": 574706,
       "word": "迪丽热巴暗黑魔女",
@@ -2561,6 +2593,14 @@
       "onboard_time": 1708945712,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 566381,
+      "num": 566381,
+      "word": "雷军称苹果用户买小米汽车是最好选择",
+      "onboard_time": 1709113653,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 566262,
@@ -2641,14 +2681,6 @@
       "onboard_time": 1708853069,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 546645,
-      "num": 546645,
-      "word": "雷军称苹果用户买小米汽车是最好选择",
-      "onboard_time": 1709113653,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 543410,
@@ -3155,14 +3187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 476678,
-      "num": 476678,
-      "word": "贵州夫妻17年间生下9女1男",
-      "onboard_time": 1709115211,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 476459,
       "num": 476459,
       "word": "贵州全面清理拖欠企业账款",
@@ -3651,14 +3675,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 411584,
-      "num": 411584,
-      "word": "重庆姐弟坠亡案生母宣布将直播带货",
-      "onboard_time": 1709115872,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 410913,
       "num": 410913,
       "word": "宗庆后曾三度问鼎首富",
@@ -3779,14 +3795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 392286,
-      "num": 392286,
-      "word": "找工作",
-      "onboard_time": 1709114852,
-      "rank": 32,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 391633,
       "num": 391633,
       "word": "河南卫视 上春山",
@@ -3801,6 +3809,14 @@
       "onboard_time": 1709076446,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390395,
+      "num": 390395,
+      "word": "LVG进击major",
+      "onboard_time": 1709117071,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 389707,
@@ -4771,6 +4787,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 292351,
+      "num": 292351,
+      "word": "艾滋病病毒无法在唾液中存活",
+      "onboard_time": 1709118273,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 292105,
+      "num": 209501,
+      "word": "猫 我基本没差评的啊",
+      "onboard_time": 1709118212,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 291781,
       "num": 274576,
       "word": "RA管理层怒喷教练",
@@ -4929,6 +4961,14 @@
       "onboard_time": 1708917997,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282967,
+      "num": 282967,
+      "word": "鲁班元芳战令新皮肤",
+      "onboard_time": 1709118394,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 282604,
@@ -5137,6 +5177,14 @@
       "onboard_time": 1709012915,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272649,
+      "num": 272649,
+      "word": "没发过朋友圈的都叫新衣服",
+      "onboard_time": 1709117614,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 271978,
@@ -6003,6 +6051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228516,
+      "num": 228516,
+      "word": "凤凰传奇演唱会预约人数",
+      "onboard_time": 1709118451,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 228363,
       "num": 228363,
       "word": "国家队资金净流入A股逾4100亿",
@@ -6747,6 +6803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203823,
+      "num": 203823,
+      "word": "韩素希露腰毛衣",
+      "onboard_time": 1709116892,
+      "rank": 32,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 203615,
       "num": 203615,
       "word": "猎冰张颂文演技",
@@ -7040,6 +7104,14 @@
       "word": "网剧飞驰人生今日开播",
       "onboard_time": 1709090553,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195939,
+      "num": 195939,
+      "word": "烟火人家 离婚像出狱",
+      "onboard_time": 1709117012,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -8115,6 +8187,14 @@
       "category": "电竞,艺人"
     },
     {
+      "raw_hot": 170998,
+      "num": 170998,
+      "word": "奶奶听到我没有买电脑哭了",
+      "onboard_time": 1709117915,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170864,
       "num": 170864,
       "word": "王鹤棣出发回国了",
@@ -8473,6 +8553,14 @@
       "onboard_time": 1708857216,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162772,
+      "num": 162772,
+      "word": "日本队发布会成了孙颖莎表彰大会",
+      "onboard_time": 1709118571,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 162731,
@@ -8867,6 +8955,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 151179,
+      "num": 151179,
+      "word": "世界冠军黄雅琼教练公开讨薪",
+      "onboard_time": 1709116173,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150821,
       "num": 150821,
       "word": "i人不露脸的拍照姿势",
@@ -8969,14 +9065,6 @@
       "onboard_time": 1708942054,
       "rank": 45,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 146836,
-      "num": 146836,
-      "word": "世界冠军黄雅琼教练公开讨薪",
-      "onboard_time": 1709116173,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 146775,
@@ -9707,6 +9795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124602,
+      "num": 124602,
+      "word": "何炅吴昕信念感",
+      "onboard_time": 1709117491,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123452,
       "num": 123452,
       "word": "微信将规范公众号标题夸大营销",
@@ -9979,6 +10075,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 112878,
+      "num": 209507,
+      "word": "外交部回应日本启动第四批核污染水排海",
+      "onboard_time": 1709118212,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 112736,
       "num": 112736,
       "word": "肖战包先生合照",
@@ -10145,6 +10249,14 @@
       "onboard_time": 1708916495,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 99882,
+      "num": 597579,
+      "word": "男子赤膊跳4米深冰水救出落水母女",
+      "onboard_time": 1709117133,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 99572,
