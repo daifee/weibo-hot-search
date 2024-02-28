@@ -1,6 +1,6 @@
 {
   "startTime": 1709050946453,
-  "endTime": 1709097463907,
+  "endTime": 1709098441783,
   "band_list": [
     {
       "raw_hot": 2515665,
@@ -91,6 +91,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1188687,
+      "num": 1188687,
+      "word": "凤凰传奇官宣演唱会",
+      "onboard_time": 1709095656,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1108678,
+      "num": 1108678,
+      "word": "很多岗位都可以先混进去再学",
+      "onboard_time": 1709093373,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 950591,
       "num": 950591,
       "word": "花少团支持胡先煦新剧",
@@ -99,28 +115,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 921146,
-      "num": 921146,
-      "word": "很多岗位都可以先混进去再学",
-      "onboard_time": 1709093373,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 913218,
       "num": 913218,
       "word": "研究生招生人数6年翻倍",
       "onboard_time": 1709087373,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 903002,
-      "num": 903002,
-      "word": "凤凰传奇官宣演唱会",
-      "onboard_time": 1709095656,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 882238,
@@ -137,6 +137,14 @@
       "onboard_time": 1709088394,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 858841,
+      "num": 858841,
+      "word": "艾滋病阻断药最佳服用时间",
+      "onboard_time": 1709094513,
+      "rank": 39,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 856696,
@@ -187,14 +195,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 745208,
-      "num": 745208,
-      "word": "艾滋病阻断药最佳服用时间",
-      "onboard_time": 1709094513,
-      "rank": 39,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 744994,
       "num": 744994,
       "word": "全员加速中直播",
@@ -241,6 +241,14 @@
       "onboard_time": 1709059576,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 685433,
+      "num": 685433,
+      "word": "碧桂园",
+      "onboard_time": 1709096554,
+      "rank": 21,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 667160,
@@ -371,8 +379,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 468761,
-      "num": 468761,
+      "raw_hot": 473108,
+      "num": 473108,
       "word": "魔法集市破产",
       "onboard_time": 1709094998,
       "rank": 14,
@@ -395,6 +403,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 443349,
+      "num": 443349,
+      "word": "雷军评苹果取消造车",
+      "onboard_time": 1709096793,
+      "rank": 25,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 440075,
       "num": 440075,
       "word": "BABYMONSTER四月出道",
@@ -409,6 +425,14 @@
       "onboard_time": 1709077529,
       "rank": 15,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 426649,
+      "num": 426649,
+      "word": "沈月头像",
+      "onboard_time": 1709097096,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 413706,
@@ -467,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373434,
+      "num": 373434,
+      "word": "我与顾少的百亿婚约",
+      "onboard_time": 1709094513,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 371486,
       "num": 371486,
       "word": "韩国医生为什么罢工",
@@ -483,20 +515,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 360859,
+      "num": 360859,
+      "word": "微信不能改名文件传输助手",
+      "onboard_time": 1709097693,
+      "rank": 20,
+      "category": "互联网,科学科普"
+    },
+    {
+      "raw_hot": 343343,
+      "num": 343343,
+      "word": "孙千曾被问与陈靖可真的在一起了吗",
+      "onboard_time": 1709097633,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 341617,
       "num": 341617,
       "word": "极氪高管怼小米汽车",
       "onboard_time": 1709092173,
       "rank": 23,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 339526,
-      "num": 339526,
-      "word": "我与顾少的百亿婚约",
-      "onboard_time": 1709094513,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 338613,
@@ -529,14 +569,6 @@
       "onboard_time": 1709094035,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 319119,
-      "num": 319119,
-      "word": "碧桂园",
-      "onboard_time": 1709096554,
-      "rank": 21,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 318479,
@@ -585,6 +617,14 @@
       "onboard_time": 1709094095,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 286616,
+      "num": 286616,
+      "word": "保姆级底妆教程",
+      "onboard_time": 1709096554,
+      "rank": 27,
+      "category": "美妆"
     },
     {
       "raw_hot": 286271,
@@ -641,14 +681,6 @@
       "onboard_time": 1709082155,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272334,
-      "num": 272334,
-      "word": "雷军评苹果取消造车",
-      "onboard_time": 1709096793,
-      "rank": 25,
-      "category": "财经,汽车"
     },
     {
       "raw_hot": 271661,
@@ -755,14 +787,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 231563,
-      "num": 271825,
-      "word": "保姆级底妆教程",
-      "onboard_time": 1709096554,
-      "rank": 27,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 230585,
       "num": 230585,
       "word": "春天排毒减肚子",
@@ -777,6 +801,14 @@
       "onboard_time": 1709037154,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223989,
+      "num": 223989,
+      "word": "艾滋病已是可防可控可治的慢性病",
+      "onboard_time": 1709097811,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 222599,
@@ -801,14 +833,6 @@
       "onboard_time": 1709084431,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 220257,
-      "num": 220257,
-      "word": "沈月头像",
-      "onboard_time": 1709097096,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 218667,
@@ -883,6 +907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209538,
+      "num": 209538,
+      "word": "十个勤天行李牌",
+      "onboard_time": 1709097096,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208543,
       "num": 208543,
       "word": "高校专硕招生人数九年涨超45万",
@@ -897,6 +929,14 @@
       "onboard_time": 1709081074,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200959,
+      "num": 200959,
+      "word": "库迪咖啡全场9.9不限量",
+      "onboard_time": 1709097993,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 198950,
@@ -984,14 +1024,6 @@
       "word": "种地吧直播",
       "onboard_time": 1709085512,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 180024,
-      "num": 180024,
-      "word": "十个勤天行李牌",
-      "onboard_time": 1709097096,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1203,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136374,
+      "num": 136374,
+      "word": "小洋睡不着",
+      "onboard_time": 1709098293,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 135169,
       "num": 135169,
       "word": "iOS18适配机型曝光",
@@ -1371,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99572,
+      "num": 173595,
+      "word": "一条plog告别二月",
+      "onboard_time": 1709097873,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97139,
       "num": 97139,
       "word": "紫川空降",
@@ -1491,6 +1539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 41477,
+      "num": 1170418,
+      "word": "e法同行京津冀",
+      "onboard_time": 1709097213,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37694,
       "num": 37694,
       "word": "来自星星的你时期的全智贤",
@@ -1523,14 +1579,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15932,
-      "num": 1170418,
-      "word": "e法同行京津冀",
-      "onboard_time": 1709097213,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14599,
       "num": 16204,
       "word": "每个男生都有属于自己的头绳",
@@ -1545,6 +1593,9 @@
     },
     {
       "word": "#习近平签署第二十号主席令#"
+    },
+    {
+      "word": "#提高公共服务可及性和均等化水平#"
     }
   ]
 }

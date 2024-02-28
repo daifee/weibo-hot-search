@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709097463907,
+  "endTime": 1709098441783,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -723,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1188687,
+      "num": 1188687,
+      "word": "凤凰传奇官宣演唱会",
+      "onboard_time": 1709095656,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1181182,
       "num": 1107358,
       "word": "茶刀",
@@ -809,6 +817,14 @@
       "onboard_time": 1708826858,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1108678,
+      "num": 1108678,
+      "word": "很多岗位都可以先混进去再学",
+      "onboard_time": 1709093373,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 1106185,
@@ -1099,28 +1115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 921146,
-      "num": 921146,
-      "word": "很多岗位都可以先混进去再学",
-      "onboard_time": 1709093373,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 913218,
       "num": 913218,
       "word": "研究生招生人数6年翻倍",
       "onboard_time": 1709087373,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 903002,
-      "num": 903002,
-      "word": "凤凰传奇官宣演唱会",
-      "onboard_time": 1709095656,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 897801,
@@ -1241,6 +1241,14 @@
       "onboard_time": 1708857454,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 858841,
+      "num": 858841,
+      "word": "艾滋病阻断药最佳服用时间",
+      "onboard_time": 1709094513,
+      "rank": 39,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 857822,
@@ -1563,14 +1571,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 745208,
-      "num": 745208,
-      "word": "艾滋病阻断药最佳服用时间",
-      "onboard_time": 1709094513,
-      "rank": 39,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 744994,
       "num": 744994,
       "word": "全员加速中直播",
@@ -1817,6 +1817,14 @@
       "onboard_time": 1708915414,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 685433,
+      "num": 685433,
+      "word": "碧桂园",
+      "onboard_time": 1709096554,
+      "rank": 21,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 682870,
@@ -2923,6 +2931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 473108,
+      "num": 473108,
+      "word": "魔法集市破产",
+      "onboard_time": 1709094998,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 471650,
       "num": 471650,
       "word": "Aespa回归时间",
@@ -2953,14 +2969,6 @@
       "onboard_time": 1709040153,
       "rank": 22,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 468761,
-      "num": 468761,
-      "word": "魔法集市破产",
-      "onboard_time": 1709094998,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 468486,
@@ -3057,6 +3065,14 @@
       "onboard_time": 1709042196,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 443349,
+      "num": 443349,
+      "word": "雷军评苹果取消造车",
+      "onboard_time": 1709096793,
+      "rank": 25,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 442329,
@@ -3161,6 +3177,14 @@
       "onboard_time": 1709077529,
       "rank": 15,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 426649,
+      "num": 426649,
+      "word": "沈月头像",
+      "onboard_time": 1709097096,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 426168,
@@ -3603,6 +3627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373434,
+      "num": 373434,
+      "word": "我与顾少的百亿婚约",
+      "onboard_time": 1709094513,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 372539,
       "num": 372539,
       "word": "金秀贤金智媛新剧婚纱剧照",
@@ -3713,6 +3745,14 @@
       "onboard_time": 1708914450,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 360859,
+      "num": 360859,
+      "word": "微信不能改名文件传输助手",
+      "onboard_time": 1709097693,
+      "rank": 20,
+      "category": "互联网,科学科普"
     },
     {
       "raw_hot": 360481,
@@ -3835,6 +3875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 343343,
+      "num": 343343,
+      "word": "孙千曾被问与陈靖可真的在一起了吗",
+      "onboard_time": 1709097633,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 342770,
       "num": 342770,
       "word": "孙颖莎说眼泪是捍卫荣耀的泪",
@@ -3865,14 +3913,6 @@
       "onboard_time": 1708911453,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 339526,
-      "num": 339526,
-      "word": "我与顾少的百亿婚约",
-      "onboard_time": 1709094513,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 339181,
@@ -4025,14 +4065,6 @@
       "onboard_time": 1708908692,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 319119,
-      "num": 319119,
-      "word": "碧桂园",
-      "onboard_time": 1709096554,
-      "rank": 21,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 318741,
@@ -4467,6 +4499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286616,
+      "num": 286616,
+      "word": "保姆级底妆教程",
+      "onboard_time": 1709096554,
+      "rank": 27,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 286271,
       "num": 286271,
       "word": "第一次尝试自己睡觉的小朋友",
@@ -4729,14 +4769,6 @@
       "onboard_time": 1709012915,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272334,
-      "num": 272334,
-      "word": "雷军评苹果取消造车",
-      "onboard_time": 1709096793,
-      "rank": 25,
-      "category": "财经,汽车"
     },
     {
       "raw_hot": 271978,
@@ -5435,14 +5467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 231563,
-      "num": 271825,
-      "word": "保姆级底妆教程",
-      "onboard_time": 1709096554,
-      "rank": 27,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 231272,
       "num": 231272,
       "word": "没人发现上班的成本很高吗",
@@ -5579,6 +5603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 223989,
+      "num": 223989,
+      "word": "艾滋病已是可防可控可治的慢性病",
+      "onboard_time": 1709097811,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 223740,
       "num": 223740,
       "word": "董宇辉在东方甄选有多大自由度",
@@ -5689,14 +5721,6 @@
       "onboard_time": 1708927414,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 220257,
-      "num": 220257,
-      "word": "沈月头像",
-      "onboard_time": 1709097096,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 220203,
@@ -6019,6 +6043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209538,
+      "num": 209538,
+      "word": "十个勤天行李牌",
+      "onboard_time": 1709097096,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209501,
       "num": 209501,
       "word": "苏炳添复出首秀亚军",
@@ -6257,6 +6289,14 @@
       "onboard_time": 1709003915,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 200959,
+      "num": 200959,
+      "word": "库迪咖啡全场9.9不限量",
+      "onboard_time": 1709097993,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 200848,
@@ -7153,14 +7193,6 @@
       "onboard_time": 1708868853,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 180024,
-      "num": 180024,
-      "word": "十个勤天行李牌",
-      "onboard_time": 1709097096,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 179622,
@@ -8611,6 +8643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136374,
+      "num": 136374,
+      "word": "小洋睡不着",
+      "onboard_time": 1709098293,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 136109,
       "num": 136109,
       "word": "李健的元宵节限定曲目好应景",
@@ -9307,6 +9347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 99572,
+      "num": 173595,
+      "word": "一条plog告别二月",
+      "onboard_time": 1709097873,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98635,
       "num": 98635,
       "word": "ale谈jiejie病情",
@@ -9691,6 +9739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 41477,
+      "num": 1170418,
+      "word": "e法同行京津冀",
+      "onboard_time": 1709097213,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38924,
       "num": 33833,
       "word": "我们是冠军",
@@ -9867,14 +9923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15932,
-      "num": 1170418,
-      "word": "e法同行京津冀",
-      "onboard_time": 1709097213,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14599,
       "num": 16204,
       "word": "每个男生都有属于自己的头绳",
@@ -9942,6 +9990,9 @@
     },
     {
       "word": "#习近平签署第二十号主席令#"
+    },
+    {
+      "word": "#提高公共服务可及性和均等化水平#"
     }
   ]
 }
