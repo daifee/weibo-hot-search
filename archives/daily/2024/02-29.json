@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709158555854,
+  "endTime": 1709159639598,
   "band_list": [
     {
       "raw_hot": 1215724,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110254,
+      "num": 65258,
+      "word": "专家预测未来三年国内车价或降30%",
+      "onboard_time": 1709152935,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 108804,
       "num": 108804,
       "word": "亚洲首富之子18个月减重超200斤",
@@ -371,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91861,
+      "num": 65241,
+      "word": "好友改名文件传输助手当事人回应",
+      "onboard_time": 1709154018,
+      "rank": 28,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 91651,
       "num": 91651,
       "word": "HYBE追加收购SM股份",
@@ -419,14 +435,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 81382,
-      "num": 45465,
-      "word": "专家预测未来三年国内车价或降30%",
-      "onboard_time": 1709152935,
-      "rank": 25,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 81213,
       "num": 543650,
       "word": "我国海上巨无霸已安装就位",
@@ -435,20 +443,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 72037,
-      "num": 72037,
+      "raw_hot": 77650,
+      "num": 77650,
       "word": "曝朱婷与科内利亚诺达成协议",
       "onboard_time": 1709152996,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 65687,
-      "num": 44182,
-      "word": "好友改名文件传输助手当事人回应",
-      "onboard_time": 1709154018,
-      "rank": 28,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 65439,
@@ -457,6 +457,14 @@
       "onboard_time": 1709139503,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 64887,
+      "num": 64887,
+      "word": "专家建议给部分70后80后养老金补偿",
+      "onboard_time": 1709157495,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64591,
@@ -475,20 +483,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 55685,
+      "num": 42471,
+      "word": "小伙撸铁2小时横纹肌溶解了",
+      "onboard_time": 1709146457,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54251,
       "num": 54251,
       "word": "祁煜 奇遇",
       "onboard_time": 1709143579,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 40122,
-      "num": 29841,
-      "word": "小伙撸铁2小时横纹肌溶解了",
-      "onboard_time": 1709146457,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32272,
@@ -507,16 +515,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 27813,
-      "num": 27813,
-      "word": "专家建议给部分70后80后养老金补偿",
-      "onboard_time": 1709157495,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21437,
-      "num": 21437,
+      "raw_hot": 25242,
+      "num": 25242,
       "word": "谁懂这种住酒店式的短途旅行",
       "onboard_time": 1709154615,
       "rank": 48,
