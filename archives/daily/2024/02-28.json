@@ -1,6 +1,6 @@
 {
   "startTime": 1709050946453,
-  "endTime": 1709104577191,
+  "endTime": 1709105636399,
   "band_list": [
     {
       "raw_hot": 2515665,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1362595,
-      "num": 639673,
+      "num": 655295,
       "word": "肠癌来临时上厕所会出现4个异常",
       "onboard_time": 1709092831,
       "rank": 10,
@@ -75,20 +75,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1313122,
+      "num": 1313122,
+      "word": "黄嘉千称夏天被夏克立家暴",
+      "onboard_time": 1709101171,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1281187,
       "num": 1281187,
       "word": "台湾省",
       "onboard_time": 1709033313,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1250441,
-      "num": 1250441,
-      "word": "黄嘉千称夏天被夏克立家暴",
-      "onboard_time": 1709101171,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 1233982,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 807374,
+      "num": 807374,
+      "word": "上海一饭堂发生情杀案致2人死亡",
+      "onboard_time": 1709103211,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 793924,
       "num": 793924,
       "word": "反诈老陈哭了",
@@ -291,6 +299,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 675243,
+      "num": 675243,
+      "word": "国产剧洗澡戏越来越见外了",
+      "onboard_time": 1709102972,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 669761,
+      "num": 669761,
+      "word": "甜馨cos初音未来",
+      "onboard_time": 1709103932,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 667160,
       "num": 667160,
       "word": "蔡徐坤录音室",
@@ -323,20 +347,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 633097,
+      "num": 633097,
+      "word": "陈浩民举家回香港定居",
+      "onboard_time": 1709104114,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 594009,
       "num": 594009,
       "word": "小徐英语六级考了353分",
       "onboard_time": 1709045255,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 578162,
-      "num": 578162,
-      "word": "国产剧洗澡戏越来越见外了",
-      "onboard_time": 1709102972,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 575081,
@@ -587,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 381984,
+      "num": 381984,
+      "word": "G社拍的金珉奎像在接亲",
+      "onboard_time": 1709103154,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 373434,
       "num": 373434,
       "word": "我与顾少的百亿婚约",
@@ -603,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 370550,
-      "num": 370550,
-      "word": "上海一饭堂发生情杀案致2人死亡",
-      "onboard_time": 1709103211,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 364193,
       "num": 364193,
       "word": "喜欢了一个比自己大7岁的姐姐",
@@ -619,12 +643,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 348281,
-      "num": 348281,
-      "word": "甜馨cos初音未来",
-      "onboard_time": 1709103932,
-      "rank": 17,
-      "category": "作品衍生"
+      "raw_hot": 363311,
+      "num": 363311,
+      "word": "股市",
+      "onboard_time": 1709104172,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 341617,
@@ -667,14 +691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 319267,
-      "num": 319267,
-      "word": "G社拍的金珉奎像在接亲",
-      "onboard_time": 1709103154,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 318479,
       "num": 158675,
       "word": "降级式分手",
@@ -688,14 +704,6 @@
       "word": "还以为孙千剪头发了",
       "onboard_time": 1709049090,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 310890,
-      "num": 310890,
-      "word": "陈浩民举家回香港定居",
-      "onboard_time": 1709104114,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -827,6 +835,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 266324,
+      "num": 266324,
+      "word": "猫 帮忙啊",
+      "onboard_time": 1709104114,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 264626,
       "num": 264626,
       "word": "朴彩英巴黎时装周路透",
@@ -843,12 +859,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 261290,
+      "num": 261290,
+      "word": "农村出现严重空心化现象",
+      "onboard_time": 1709104955,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260729,
       "num": 260729,
       "word": "库迪咖啡全场9.9不限量",
       "onboard_time": 1709097993,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 260498,
+      "num": 260498,
+      "word": "长相思腾讯年榜第二",
+      "onboard_time": 1709103691,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 257310,
@@ -884,11 +916,27 @@
     },
     {
       "raw_hot": 253872,
-      "num": 218026,
+      "num": 227314,
       "word": "结婚选花童一定要谨慎",
       "onboard_time": 1709102553,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 251740,
+      "num": 251740,
+      "word": "量化",
+      "onboard_time": 1709104651,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 246732,
+      "num": 246732,
+      "word": "SK儿子出生了",
+      "onboard_time": 1709105075,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 245841,
@@ -897,14 +945,6 @@
       "onboard_time": 1709041952,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 241718,
-      "num": 241718,
-      "word": "长相思腾讯年榜第二",
-      "onboard_time": 1709103691,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 240456,
@@ -921,14 +961,6 @@
       "onboard_time": 1709100213,
       "rank": 25,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 234993,
-      "num": 234993,
-      "word": "股市",
-      "onboard_time": 1709104172,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 234992,
@@ -1123,6 +1155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 197854,
+      "num": 197854,
+      "word": "监管方面称量化交易恢复传闻不实",
+      "onboard_time": 1709104474,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 197247,
       "num": 197247,
       "word": "小洋睡不着",
@@ -1177,6 +1217,14 @@
       "onboard_time": 1709094636,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192082,
+      "num": 192082,
+      "word": "化妆的尽头是素妆",
+      "onboard_time": 1709105314,
+      "rank": 36,
+      "category": "美妆"
     },
     {
       "raw_hot": 190035,
@@ -1339,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166189,
+      "num": 166189,
+      "word": "海关查获人体组织制品玩具",
+      "onboard_time": 1709105314,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165560,
       "num": 165560,
       "word": "网友向王鹤棣道歉",
@@ -1377,6 +1433,14 @@
       "onboard_time": 1709097213,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159149,
+      "num": 159149,
+      "word": "XYG对战TES",
+      "onboard_time": 1709102433,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 157073,
@@ -1427,6 +1491,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 151148,
+      "num": 151148,
+      "word": "比亚迪发布会",
+      "onboard_time": 1709105374,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 150222,
       "num": 150222,
       "word": "金晨海边玩加特林",
@@ -1475,20 +1547,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 142729,
-      "num": 142729,
-      "word": "监管方面称量化交易恢复传闻不实",
-      "onboard_time": 1709104474,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 142421,
       "num": 142421,
       "word": "1分钟了解艾滋病",
       "onboard_time": 1709103630,
       "rank": 46,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 138416,
+      "num": 138416,
+      "word": "美国援乌成大生意",
+      "onboard_time": 1709105492,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 135169,
@@ -1521,6 +1593,14 @@
       "onboard_time": 1709039316,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 131894,
+      "num": 131894,
+      "word": "百年孤独作者遗作问世",
+      "onboard_time": 1709105553,
+      "rank": 47,
+      "category": "读书作家"
     },
     {
       "raw_hot": 129830,
@@ -1656,6 +1736,14 @@
       "word": "女生行李箱装满AD钙奶被安检拦下",
       "onboard_time": 1709032711,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100823,
+      "num": 246849,
+      "word": "车辆着火男子又扶又拽救下2人",
+      "onboard_time": 1709105314,
+      "rank": 29,
       "category": "社会新闻"
     },
     {

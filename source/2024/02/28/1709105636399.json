@@ -1,0 +1,410 @@
+{
+  "runTime": 1709105636399,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1570031,
+        "num": 1570031,
+        "word": "微信不能改名文件传输助手",
+        "onboard_time": 1709097693,
+        "rank": 0,
+        "category": "互联网,科学科普"
+      },
+      {
+        "raw_hot": 1313122,
+        "num": 1313122,
+        "word": "黄嘉千称夏天被夏克立家暴",
+        "onboard_time": 1709101171,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36705,
+        "num": 1104081,
+        "word": "e法同行京津冀",
+        "onboard_time": 1709097213,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1081569,
+        "num": 1081569,
+        "word": "泰国版张雨绮",
+        "onboard_time": 1709101952,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 817111,
+        "num": 817111,
+        "word": "云南失联两兄弟遗体被找到",
+        "onboard_time": 1709100151,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807374,
+        "num": 807374,
+        "word": "上海一饭堂发生情杀案致2人死亡",
+        "onboard_time": 1709103211,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726713,
+        "num": 726713,
+        "word": "女子被好友改名文件传输助手骗5年",
+        "onboard_time": 1709091935,
+        "rank": 6,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 675243,
+        "num": 675243,
+        "word": "国产剧洗澡戏越来越见外了",
+        "onboard_time": 1709102972,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 669761,
+        "num": 669761,
+        "word": "甜馨cos初音未来",
+        "onboard_time": 1709103932,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 658364,
+        "num": 658364,
+        "word": "女子欲买小体比熊不料狗狗飙长变熊大",
+        "onboard_time": 1709099790,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694866,
+        "num": 655295,
+        "word": "肠癌来临时上厕所会出现4个异常",
+        "onboard_time": 1709092831,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 633097,
+        "num": 633097,
+        "word": "陈浩民举家回香港定居",
+        "onboard_time": 1709104114,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494484,
+        "num": 494484,
+        "word": "迪丽热巴新高定",
+        "onboard_time": 1709093914,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 467104,
+        "num": 467104,
+        "word": "凤凰传奇官宣演唱会",
+        "onboard_time": 1709095656,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 439368,
+        "num": 439368,
+        "word": "2岁宝宝已穿1年小腿假肢",
+        "onboard_time": 1709099549,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429808,
+        "num": 429808,
+        "word": "HIV预防性疫苗研发全军覆没",
+        "onboard_time": 1709098833,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 381984,
+        "num": 381984,
+        "word": "G社拍的金珉奎像在接亲",
+        "onboard_time": 1709103154,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 375965,
+        "num": 375965,
+        "word": "A股",
+        "onboard_time": 1709089534,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 363311,
+        "num": 363311,
+        "word": "股市",
+        "onboard_time": 1709104172,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 324909,
+        "num": 324909,
+        "word": "很多岗位都可以先混进去再学",
+        "onboard_time": 1709093373,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 297149,
+        "num": 297149,
+        "word": "比亚迪新车",
+        "onboard_time": 1709090191,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 269966,
+        "num": 269966,
+        "word": "魏大勋演我吃瓜",
+        "onboard_time": 1709104293,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266324,
+        "num": 266324,
+        "word": "猫 帮忙啊",
+        "onboard_time": 1709104114,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265123,
+        "num": 265123,
+        "word": "同事称挖呀挖黄老师已离职",
+        "onboard_time": 1709084552,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261290,
+        "num": 261290,
+        "word": "农村出现严重空心化现象",
+        "onboard_time": 1709104955,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260498,
+        "num": 260498,
+        "word": "长相思腾讯年榜第二",
+        "onboard_time": 1709103691,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251740,
+        "num": 251740,
+        "word": "量化",
+        "onboard_time": 1709104651,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 248174,
+        "num": 248174,
+        "word": "00后姑娘做TikTok主播月入2万",
+        "onboard_time": 1709103093,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 247556,
+        "num": 247556,
+        "word": "赵继伟朋友圈",
+        "onboard_time": 1709098949,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100823,
+        "num": 246849,
+        "word": "车辆着火男子又扶又拽救下2人",
+        "onboard_time": 1709105314,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246732,
+        "num": 246732,
+        "word": "SK儿子出生了",
+        "onboard_time": 1709105075,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 235326,
+        "num": 235326,
+        "word": "一个县城妈妈不相信天生坏种",
+        "onboard_time": 1709089893,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227314,
+        "num": 227314,
+        "word": "结婚选花童一定要谨慎",
+        "onboard_time": 1709102553,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224053,
+        "num": 224053,
+        "word": "艾滋病已是可防可控可治的慢性病",
+        "onboard_time": 1709097811,
+        "rank": 33,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 197854,
+        "num": 197854,
+        "word": "监管方面称量化交易恢复传闻不实",
+        "onboard_time": 1709104474,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193052,
+        "num": 193052,
+        "word": "我与顾少的百亿婚约",
+        "onboard_time": 1709094513,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192082,
+        "num": 192082,
+        "word": "化妆的尽头是素妆",
+        "onboard_time": 1709105314,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 178295,
+        "num": 178295,
+        "word": "雷军评苹果取消造车",
+        "onboard_time": 1709096793,
+        "rank": 37,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 169163,
+        "num": 169163,
+        "word": "孙千曾被问与陈靖可真的在一起了吗",
+        "onboard_time": 1709097633,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169155,
+        "num": 169155,
+        "word": "研究生多到无宿舍可住",
+        "onboard_time": 1709082573,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166189,
+        "num": 166189,
+        "word": "海关查获人体组织制品玩具",
+        "onboard_time": 1709105314,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163187,
+        "num": 163187,
+        "word": "减肥神药司美格鲁肽滥用者",
+        "onboard_time": 1709100574,
+        "rank": 41,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 159998,
+        "num": 159998,
+        "word": "给热巴选选衣服吧",
+        "onboard_time": 1709095952,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159149,
+        "num": 159149,
+        "word": "XYG对战TES",
+        "onboard_time": 1709102433,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154090,
+        "num": 154090,
+        "word": "六月租房贵的原因",
+        "onboard_time": 1709103033,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151148,
+        "num": 151148,
+        "word": "比亚迪发布会",
+        "onboard_time": 1709105374,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 138416,
+        "num": 138416,
+        "word": "美国援乌成大生意",
+        "onboard_time": 1709105492,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 131894,
+        "num": 131894,
+        "word": "百年孤独作者遗作问世",
+        "onboard_time": 1709105553,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 131203,
+        "num": 131203,
+        "word": "陈乔恩6天减六斤",
+        "onboard_time": 1709088394,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130201,
+        "num": 130201,
+        "word": "娃哈哈总部门口摆满娃哈哈",
+        "onboard_time": 1709100330,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#提高公共服务可及性和均等化水平#"
+    }
+  }
+}

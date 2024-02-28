@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709104577191,
+  "endTime": 1709105636399,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 1362595,
-      "num": 639673,
+      "num": 655295,
       "word": "肠癌来临时上厕所会出现4个异常",
       "onboard_time": 1709092831,
       "rank": 10,
@@ -627,6 +627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1313122,
+      "num": 1313122,
+      "word": "黄嘉千称夏天被夏克立家暴",
+      "onboard_time": 1709101171,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1302666,
       "num": 1302666,
       "word": "10元3副耳钉被仅退款商家千里讨公道",
@@ -672,14 +680,6 @@
       "word": "古天乐否认与宣萱结婚生子",
       "onboard_time": 1708919981,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1250441,
-      "num": 1250441,
-      "word": "黄嘉千称夏天被夏克立家暴",
-      "onboard_time": 1709101171,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1451,6 +1451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 807374,
+      "num": 807374,
+      "word": "上海一饭堂发生情杀案致2人死亡",
+      "onboard_time": 1709103211,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 797761,
       "num": 797761,
       "word": "iPhone16Pro配四重棱镜",
@@ -1899,11 +1907,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 675243,
+      "num": 675243,
+      "word": "国产剧洗澡戏越来越见外了",
+      "onboard_time": 1709102972,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 674595,
       "num": 489732,
       "word": "迪丽热巴紫色高定",
       "onboard_time": 1708856191,
       "rank": 39,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 669761,
+      "num": 669761,
+      "word": "甜馨cos初音未来",
+      "onboard_time": 1709103932,
+      "rank": 17,
       "category": "作品衍生"
     },
     {
@@ -2033,6 +2057,14 @@
       "onboard_time": 1708818204,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 633097,
+      "num": 633097,
+      "word": "陈浩民举家回香港定居",
+      "onboard_time": 1709104114,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 631820,
@@ -2337,14 +2369,6 @@
       "onboard_time": 1708828177,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 578162,
-      "num": 578162,
-      "word": "国产剧洗澡戏越来越见外了",
-      "onboard_time": 1709102972,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 577703,
@@ -3667,6 +3691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381984,
+      "num": 381984,
+      "word": "G社拍的金珉奎像在接亲",
+      "onboard_time": 1709103154,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 380466,
       "num": 380466,
       "word": "金晨终于又跳舞了",
@@ -3763,14 +3795,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 370550,
-      "num": 370550,
-      "word": "上海一饭堂发生情杀案致2人死亡",
-      "onboard_time": 1709103211,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 370022,
       "num": 370022,
       "word": "英语一",
@@ -3833,6 +3857,14 @@
       "onboard_time": 1708778136,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 363311,
+      "num": 363311,
+      "word": "股市",
+      "onboard_time": 1709104172,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 363272,
@@ -3945,14 +3977,6 @@
       "onboard_time": 1708866159,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 348281,
-      "num": 348281,
-      "word": "甜馨cos初音未来",
-      "onboard_time": 1709103932,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 344991,
@@ -4163,14 +4187,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 319267,
-      "num": 319267,
-      "word": "G社拍的金珉奎像在接亲",
-      "onboard_time": 1709103154,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 318741,
       "num": 318741,
       "word": "鹿晗穿睡衣背背篓赶集",
@@ -4305,14 +4321,6 @@
       "onboard_time": 1708820367,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 310890,
-      "num": 310890,
-      "word": "陈浩民举家回香港定居",
-      "onboard_time": 1709104114,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 310791,
@@ -4955,6 +4963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 266324,
+      "num": 266324,
+      "word": "猫 帮忙啊",
+      "onboard_time": 1709104114,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 265150,
       "num": 265150,
       "word": "肖战胸肌见客",
@@ -5011,6 +5027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 261290,
+      "num": 261290,
+      "word": "农村出现严重空心化现象",
+      "onboard_time": 1709104955,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261040,
       "num": 261040,
       "word": "黄龄演繁花曾被换角",
@@ -5049,6 +5073,14 @@
       "onboard_time": 1709005535,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 260498,
+      "num": 260498,
+      "word": "长相思腾讯年榜第二",
+      "onboard_time": 1709103691,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 259833,
@@ -5172,7 +5204,7 @@
     },
     {
       "raw_hot": 253872,
-      "num": 218026,
+      "num": 227314,
       "word": "结婚选花童一定要谨慎",
       "onboard_time": 1709102553,
       "rank": 30,
@@ -5193,6 +5225,14 @@
       "onboard_time": 1708866995,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251740,
+      "num": 251740,
+      "word": "量化",
+      "onboard_time": 1709104651,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 251722,
@@ -5315,6 +5355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246732,
+      "num": 246732,
+      "word": "SK儿子出生了",
+      "onboard_time": 1709105075,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 246729,
       "num": 246729,
       "word": "体制内说话原来有这么多门道",
@@ -5409,14 +5457,6 @@
       "onboard_time": 1709035533,
       "rank": 30,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 241718,
-      "num": 241718,
-      "word": "长相思腾讯年榜第二",
-      "onboard_time": 1709103691,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 241111,
@@ -5545,14 +5585,6 @@
       "onboard_time": 1708874136,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 234993,
-      "num": 234993,
-      "word": "股市",
-      "onboard_time": 1709104172,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 234555,
@@ -6611,6 +6643,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 197854,
+      "num": 197854,
+      "word": "监管方面称量化交易恢复传闻不实",
+      "onboard_time": 1709104474,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 197839,
       "num": 197839,
       "word": "四问杭州宾利司机伤人事件",
@@ -6849,6 +6889,14 @@
       "onboard_time": 1708858775,
       "rank": 33,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 192082,
+      "num": 192082,
+      "word": "化妆的尽头是素妆",
+      "onboard_time": 1709105314,
+      "rank": 36,
+      "category": "美妆"
     },
     {
       "raw_hot": 191303,
@@ -7923,6 +7971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166189,
+      "num": 166189,
+      "word": "海关查获人体组织制品玩具",
+      "onboard_time": 1709105314,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166167,
       "num": 166167,
       "word": "查分刺激版",
@@ -8129,6 +8185,14 @@
       "onboard_time": 1709097213,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 159149,
+      "num": 159149,
+      "word": "XYG对战TES",
+      "onboard_time": 1709102433,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 158652,
@@ -8385,6 +8449,14 @@
       "onboard_time": 1709083650,
       "rank": 47,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 151148,
+      "num": 151148,
+      "word": "比亚迪发布会",
+      "onboard_time": 1709105374,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 150821,
@@ -8659,14 +8731,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 142729,
-      "num": 142729,
-      "word": "监管方面称量化交易恢复传闻不实",
-      "onboard_time": 1709104474,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 142660,
       "num": 142660,
       "word": "清明上河园小乞丐回应被喂胖",
@@ -8859,6 +8923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138416,
+      "num": 138416,
+      "word": "美国援乌成大生意",
+      "onboard_time": 1709105492,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 138404,
       "num": 138404,
       "word": "安宥真真的是六边形爱豆",
@@ -9025,6 +9097,14 @@
       "onboard_time": 1708829854,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131894,
+      "num": 131894,
+      "word": "百年孤独作者遗作问世",
+      "onboard_time": 1709105553,
+      "rank": 47,
+      "category": "读书作家"
     },
     {
       "raw_hot": 131779,
@@ -9585,6 +9665,14 @@
       "onboard_time": 1708927894,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 100823,
+      "num": 246849,
+      "word": "车辆着火男子又扶又拽救下2人",
+      "onboard_time": 1709105314,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100200,
