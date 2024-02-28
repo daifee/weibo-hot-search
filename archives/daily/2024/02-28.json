@@ -1,6 +1,6 @@
 {
   "startTime": 1709050946453,
-  "endTime": 1709118953511,
+  "endTime": 1709120073438,
   "band_list": [
     {
       "raw_hot": 2515665,
@@ -27,8 +27,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 2181041,
-      "num": 2181041,
+      "raw_hot": 2187957,
+      "num": 2187957,
       "word": "重庆姐弟坠亡案生母宣布将直播带货",
       "onboard_time": 1709115872,
       "rank": 16,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 989152,
+      "num": 907577,
+      "word": "贵州夫妻17年间生下9女1男",
+      "onboard_time": 1709115211,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 950591,
       "num": 950591,
       "word": "花少团支持胡先煦新剧",
@@ -227,12 +235,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 907577,
-      "num": 907577,
-      "word": "贵州夫妻17年间生下9女1男",
-      "onboard_time": 1709115211,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 897007,
+      "num": 685486,
+      "word": "艾滋病病毒无法在唾液中存活",
+      "onboard_time": 1709118273,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 890896,
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 775490,
+      "num": 775490,
+      "word": "陈赫晒妻子女儿背影照",
+      "onboard_time": 1709116776,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 763575,
       "num": 763575,
       "word": "D社放弃跟拍的女爱豆",
@@ -363,6 +379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 732818,
+      "num": 732818,
+      "word": "找工作",
+      "onboard_time": 1709114852,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 732388,
       "num": 732388,
       "word": "智联招聘崩了",
@@ -377,14 +401,6 @@
       "onboard_time": 1709110831,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 723508,
-      "num": 597468,
-      "word": "陈赫晒妻子女儿背影照",
-      "onboard_time": 1709116776,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 715884,
@@ -497,14 +513,6 @@
       "onboard_time": 1709045255,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 576218,
-      "num": 576218,
-      "word": "找工作",
-      "onboard_time": 1709114852,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 575081,
@@ -731,6 +739,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 424447,
+      "num": 424447,
+      "word": "凤凰传奇演唱会预约人数",
+      "onboard_time": 1709118451,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 413706,
       "num": 413706,
       "word": "为何山姆穷鬼套餐让中产疯狂",
@@ -833,6 +849,14 @@
       "onboard_time": 1709104172,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 346932,
+      "num": 293606,
+      "word": "猫 我基本没差评的啊",
+      "onboard_time": 1709118212,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 343147,
@@ -947,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310470,
+      "num": 288383,
+      "word": "没发过朋友圈的都叫新衣服",
+      "onboard_time": 1709117614,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 299638,
       "num": 299638,
       "word": "恋与深空",
@@ -968,22 +1000,6 @@
       "word": "他到底在ok个什么",
       "onboard_time": 1709079695,
       "rank": 24,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 292351,
-      "num": 292351,
-      "word": "艾滋病病毒无法在唾液中存活",
-      "onboard_time": 1709118273,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 292105,
-      "num": 209501,
-      "word": "猫 我基本没差评的啊",
-      "onboard_time": 1709118212,
-      "rank": 30,
       "category": "幽默"
     },
     {
@@ -1089,14 +1105,6 @@
       "onboard_time": 1709110594,
       "rank": 30,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 272649,
-      "num": 272649,
-      "word": "没发过朋友圈的都叫新衣服",
-      "onboard_time": 1709117614,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 271661,
@@ -1243,6 +1251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 242170,
+      "num": 242170,
+      "word": "日本队发布会成了孙颖莎表彰大会",
+      "onboard_time": 1709118571,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240456,
       "num": 240456,
       "word": "拜登回应美国歌手霉霉会为其竞选背书",
@@ -1321,14 +1337,6 @@
       "onboard_time": 1709037154,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228516,
-      "num": 228516,
-      "word": "凤凰传奇演唱会预约人数",
-      "onboard_time": 1709118451,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 223973,
@@ -1499,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205588,
+      "num": 200819,
+      "word": "爷爷 他甚至边玩手机边下",
+      "onboard_time": 1709119413,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203823,
       "num": 203823,
       "word": "韩素希露腰毛衣",
@@ -1513,6 +1529,14 @@
       "onboard_time": 1709086172,
       "rank": 34,
       "category": "幽默,作品衍生"
+    },
+    {
+      "raw_hot": 198854,
+      "num": 708035,
+      "word": "外交部回应日本启动第四批核污染水排海",
+      "onboard_time": 1709118212,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 198826,
@@ -1691,6 +1715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 178644,
+      "num": 178644,
+      "word": "哥本哈根Major",
+      "onboard_time": 1709119112,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178273,
       "num": 162204,
       "word": "金智秀秀场状态",
@@ -1753,6 +1785,14 @@
       "onboard_time": 1709117915,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170852,
+      "num": 201428,
+      "word": "建议启动中小学教师在职学历提升计划",
+      "onboard_time": 1709119590,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 170753,
@@ -1899,20 +1939,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162772,
-      "num": 162772,
-      "word": "日本队发布会成了孙颖莎表彰大会",
-      "onboard_time": 1709118571,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162731,
       "num": 162731,
       "word": "杨幂这样的老板",
       "onboard_time": 1709112395,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162050,
+      "num": 162050,
+      "word": "WB锁定第二轮S组",
+      "onboard_time": 1709119831,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 161867,
@@ -2009,6 +2049,14 @@
       "onboard_time": 1709116173,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150488,
+      "num": 150488,
+      "word": "陈靖可回应面试封神",
+      "onboard_time": 1709119772,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 150222,
@@ -2115,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132953,
+      "num": 692579,
+      "word": "杭州下沙花圈材料已卖断货",
+      "onboard_time": 1709119590,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132761,
       "num": 132761,
       "word": "唐嫣巴黎时装周",
@@ -2161,6 +2217,14 @@
       "onboard_time": 1709047114,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 125264,
+      "num": 125264,
+      "word": "大学生真的好整齐",
+      "onboard_time": 1709119713,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 124850,
@@ -2243,12 +2307,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 112878,
-      "num": 209507,
-      "word": "外交部回应日本启动第四批核污染水排海",
-      "onboard_time": 1709118212,
-      "rank": 29,
-      "category": "国外时政"
+      "raw_hot": 111829,
+      "num": 693022,
+      "word": "男子赤膊跳4米深冰水救出落水母女",
+      "onboard_time": 1709117133,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 111158,
@@ -2321,14 +2385,6 @@
       "onboard_time": 1709105314,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99882,
-      "num": 597579,
-      "word": "男子赤膊跳4米深冰水救出落水母女",
-      "onboard_time": 1709117133,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 99572,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1709120073438,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2187957,
+        "num": 2187957,
+        "word": "重庆姐弟坠亡案生母宣布将直播带货",
+        "onboard_time": 1709115872,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914994,
+        "num": 914994,
+        "word": "亚洲首富之子18个月减重超200斤",
+        "onboard_time": 1709112214,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17565,
+        "num": 818190,
+        "word": "e法e同行 京彩新征程",
+        "onboard_time": 1709114434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 989152,
+        "num": 811203,
+        "word": "贵州夫妻17年间生下9女1男",
+        "onboard_time": 1709115211,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775490,
+        "num": 775490,
+        "word": "陈赫晒妻子女儿背影照",
+        "onboard_time": 1709116776,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 763546,
+        "num": 763546,
+        "word": "热心市民魏大勋",
+        "onboard_time": 1709112814,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 732818,
+        "num": 732818,
+        "word": "找工作",
+        "onboard_time": 1709114852,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 198854,
+        "num": 708035,
+        "word": "外交部回应日本启动第四批核污染水排海",
+        "onboard_time": 1709118212,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 111829,
+        "num": 693022,
+        "word": "男子赤膊跳4米深冰水救出落水母女",
+        "onboard_time": 1709117133,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 132953,
+        "num": 692579,
+        "word": "杭州下沙花圈材料已卖断货",
+        "onboard_time": 1709119590,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692503,
+        "num": 692503,
+        "word": "泰国版张雨绮",
+        "onboard_time": 1709101952,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 897007,
+        "num": 685486,
+        "word": "艾滋病病毒无法在唾液中存活",
+        "onboard_time": 1709118273,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 626584,
+        "num": 626584,
+        "word": "为什么汉堡王没火起来",
+        "onboard_time": 1709112575,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 571491,
+        "num": 571491,
+        "word": "被时代淘汰的水果",
+        "onboard_time": 1709110471,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 501556,
+        "num": 501556,
+        "word": "老公姐 人夫哥",
+        "onboard_time": 1709110294,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449344,
+        "num": 449344,
+        "word": "上海一饭堂发生情杀案致2人死亡",
+        "onboard_time": 1709103211,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434199,
+        "num": 434199,
+        "word": "雷军称苹果用户买小米汽车是最好选择",
+        "onboard_time": 1709113653,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 424447,
+        "num": 424447,
+        "word": "凤凰传奇演唱会预约人数",
+        "onboard_time": 1709118451,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 334404,
+        "num": 334404,
+        "word": "黄嘉千称夏天被夏克立家暴",
+        "onboard_time": 1709101171,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298203,
+        "num": 298203,
+        "word": "智联招聘崩了",
+        "onboard_time": 1709113711,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 346932,
+        "num": 293606,
+        "word": "猫 我基本没差评的啊",
+        "onboard_time": 1709118212,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 310470,
+        "num": 288383,
+        "word": "没发过朋友圈的都叫新衣服",
+        "onboard_time": 1709117614,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280785,
+        "num": 280785,
+        "word": "张杰武汉演唱会又取消了",
+        "onboard_time": 1709112214,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 274702,
+        "num": 274702,
+        "word": "贡菜就是晒干的莴笋",
+        "onboard_time": 1709105795,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 272730,
+        "num": 272730,
+        "word": "肠癌来临时上厕所会出现4个异常",
+        "onboard_time": 1709092831,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 272648,
+        "num": 272648,
+        "word": "鲁班元芳战令新皮肤",
+        "onboard_time": 1709118394,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252276,
+        "num": 252276,
+        "word": "长期吃这些东西可缓解肥胖",
+        "onboard_time": 1709115153,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242170,
+        "num": 242170,
+        "word": "日本队发布会成了孙颖莎表彰大会",
+        "onboard_time": 1709118571,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205239,
+        "num": 205239,
+        "word": "林一周也 北体北电颜值高山",
+        "onboard_time": 1709114073,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170852,
+        "num": 201428,
+        "word": "建议启动中小学教师在职学历提升计划",
+        "onboard_time": 1709119590,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 205588,
+        "num": 200819,
+        "word": "爷爷 他甚至边玩手机边下",
+        "onboard_time": 1709119413,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199434,
+        "num": 199434,
+        "word": "韩素希露腰毛衣",
+        "onboard_time": 1709116892,
+        "rank": 31,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 196002,
+        "num": 196002,
+        "word": "LVG进击major",
+        "onboard_time": 1709117071,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193823,
+        "num": 193823,
+        "word": "甜馨cos初音未来",
+        "onboard_time": 1709103932,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188013,
+        "num": 188013,
+        "word": "相亲第三天就领证了",
+        "onboard_time": 1709108196,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185329,
+        "num": 185329,
+        "word": "国产剧洗澡戏越来越见外了",
+        "onboard_time": 1709102972,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184987,
+        "num": 184987,
+        "word": "娃哈哈感谢信",
+        "onboard_time": 1709110831,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178644,
+        "num": 178644,
+        "word": "哥本哈根Major",
+        "onboard_time": 1709119112,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165969,
+        "num": 165969,
+        "word": "烟火人家 离婚像出狱",
+        "onboard_time": 1709117012,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162050,
+        "num": 162050,
+        "word": "WB锁定第二轮S组",
+        "onboard_time": 1709119831,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160244,
+        "num": 160244,
+        "word": "奶奶听到我没有买电脑哭了",
+        "onboard_time": 1709117915,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150488,
+        "num": 150488,
+        "word": "陈靖可回应面试封神",
+        "onboard_time": 1709119772,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149328,
+        "num": 149328,
+        "word": "这完全是大侦探的经典味道",
+        "onboard_time": 1709115454,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148226,
+        "num": 148226,
+        "word": "微信不能改名文件传输助手",
+        "onboard_time": 1709097693,
+        "rank": 43,
+        "category": "互联网,科学科普"
+      },
+      {
+        "raw_hot": 133209,
+        "num": 133209,
+        "word": "比亚迪价格",
+        "onboard_time": 1709109991,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 131841,
+        "num": 131841,
+        "word": "海关查获人体组织制品玩具",
+        "onboard_time": 1709105314,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127795,
+        "num": 127795,
+        "word": "HIV预防性疫苗研发全军覆没",
+        "onboard_time": 1709098833,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127769,
+        "num": 127769,
+        "word": "钟楚曦的中国胃",
+        "onboard_time": 1709115993,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74080,
+        "num": 125839,
+        "word": "退役搜救犬跳车狂奔扑向训导员",
+        "onboard_time": 1709113835,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125264,
+        "num": 125264,
+        "word": "大学生真的好整齐",
+        "onboard_time": 1709119713,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#提高公共服务可及性和均等化水平#"
+    }
+  }
+}
