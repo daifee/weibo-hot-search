@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709140550055,
+  "endTime": 1709141665271,
   "band_list": [
     {
       "raw_hot": 1215724,
@@ -347,6 +347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 97055,
+      "num": 76409,
+      "word": "男朋友寄来的一周年纪念礼物",
+      "onboard_time": 1709140041,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95610,
       "num": 95610,
       "word": "王俊凯新加坡登上全球发音",
@@ -395,20 +403,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82342,
+      "num": 82342,
+      "word": "BTC",
+      "onboard_time": 1709130395,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81213,
       "num": 543650,
       "word": "我国海上巨无霸已安装就位",
       "onboard_time": 1709127395,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76409,
-      "num": 76409,
-      "word": "男朋友寄来的一周年纪念礼物",
-      "onboard_time": 1709140041,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 65439,
@@ -419,12 +427,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 64801,
-      "num": 64801,
-      "word": "BTC",
-      "onboard_time": 1709130395,
-      "rank": 38,
-      "category": "财经"
+      "raw_hot": 61060,
+      "num": 61060,
+      "word": "面包店的浪费现象有多严重",
+      "onboard_time": 1709140822,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60987,
@@ -441,6 +449,9 @@
     },
     {
       "word": "#总体国家安全观的5个基本要求#"
+    },
+    {
+      "word": "#习近平同塞拉利昂总统会谈#"
     }
   ]
 }

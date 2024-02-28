@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1709140550055,
+  "endTime": 1709141665271,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -72643,6 +72643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97055,
+      "num": 76409,
+      "word": "男朋友寄来的一周年纪念礼物",
+      "onboard_time": 1709140041,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96946,
       "num": 68538,
       "word": "金希澈泡泡头像变成了seventeen",
@@ -74107,14 +74115,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 76409,
-      "num": 76409,
-      "word": "男朋友寄来的一周年纪念礼物",
-      "onboard_time": 1709140041,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 75954,
       "num": 1024772,
       "word": "春节氛围从回家开始",
@@ -74913,6 +74913,14 @@
       "onboard_time": 1708029435,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61060,
+      "num": 61060,
+      "word": "面包店的浪费现象有多严重",
+      "onboard_time": 1709140822,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60939,
