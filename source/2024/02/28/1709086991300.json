@@ -1,0 +1,410 @@
+{
+  "runTime": 1709086991300,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2290790,
+        "num": 2290790,
+        "word": "同事称挖呀挖黄老师已离职",
+        "onboard_time": 1709084552,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2203934,
+        "num": 2203934,
+        "word": "研究生多到无宿舍可住",
+        "onboard_time": 1709082573,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 43799,
+        "num": 1360218,
+        "word": "中国空间站进入常态化运营模式",
+        "onboard_time": 1709038594,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715402,
+        "num": 715402,
+        "word": "反诈老陈哭了",
+        "onboard_time": 1709083590,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 702103,
+        "num": 702103,
+        "word": "台湾省",
+        "onboard_time": 1709033313,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 639071,
+        "num": 639071,
+        "word": "黄嘉千称曾被家暴五六次以上",
+        "onboard_time": 1709081376,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 614405,
+        "num": 614405,
+        "word": "张颂文谈猎冰争议",
+        "onboard_time": 1709083113,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 608689,
+        "num": 608689,
+        "word": "400名大学生回曹县小镇卖马面裙",
+        "onboard_time": 1709083832,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600073,
+        "num": 600073,
+        "word": "全员加速中直播",
+        "onboard_time": 1709081613,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466093,
+        "num": 466093,
+        "word": "第5例被治愈的艾滋病患者",
+        "onboard_time": 1709075123,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679864,
+        "num": 450784,
+        "word": "吃霸王餐的消防队长已被开除",
+        "onboard_time": 1709076926,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416845,
+        "num": 416845,
+        "word": "地铁小姐姐连摔两跤滑跪按下急停按钮",
+        "onboard_time": 1709062155,
+        "rank": 11,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 404654,
+        "num": 404654,
+        "word": "碧桂园在香港被提出清盘呈请",
+        "onboard_time": 1709083290,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 378903,
+        "num": 378903,
+        "word": "五十五岁那年妈妈终于开始断亲",
+        "onboard_time": 1709085393,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375057,
+        "num": 375057,
+        "word": "母亲将唯一银镯打成首饰送2个女儿",
+        "onboard_time": 1709059576,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365273,
+        "num": 365273,
+        "word": "豆豆反转 乐莹最后一击",
+        "onboard_time": 1709081137,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 302920,
+        "num": 302920,
+        "word": "李湘前夫李厚霖给李亚鹏直播打赏",
+        "onboard_time": 1709057059,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280095,
+        "num": 280095,
+        "word": "洗澡是最好的医美",
+        "onboard_time": 1709050828,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327515,
+        "num": 272950,
+        "word": "宗庆后追思会",
+        "onboard_time": 1709082212,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264626,
+        "num": 264626,
+        "word": "朴彩英巴黎时装周路透",
+        "onboard_time": 1709082935,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 478538,
+        "num": 262242,
+        "word": "离职了公司让我把自己的微信留下",
+        "onboard_time": 1709085631,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245243,
+        "num": 245243,
+        "word": "唐嫣G社生图",
+        "onboard_time": 1709080834,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 240456,
+        "num": 240456,
+        "word": "拜登回应美国歌手霉霉会为其竞选背书",
+        "onboard_time": 1709085151,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 237692,
+        "num": 237692,
+        "word": "蔡徐坤录音室",
+        "onboard_time": 1709078553,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235861,
+        "num": 235861,
+        "word": "容易被癌细胞盯上的7个饮食习惯",
+        "onboard_time": 1709046337,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231148,
+        "num": 231148,
+        "word": "男子骗00后女生裸聊后威胁发生性关系被判3年",
+        "onboard_time": 1709076446,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225263,
+        "num": 225263,
+        "word": "姚安娜表情包",
+        "onboard_time": 1709086592,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222599,
+        "num": 222599,
+        "word": "任天堂起诉Switch模拟器Yuzu制造商",
+        "onboard_time": 1709085872,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222288,
+        "num": 222288,
+        "word": "22岁女生长期熬夜患带状疱疹",
+        "onboard_time": 1709046696,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190992,
+        "num": 219571,
+        "word": "她翻垃圾找线索揪出潜伏10年的间谍",
+        "onboard_time": 1709082155,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368348,
+        "num": 219424,
+        "word": "D社放弃跟拍的女爱豆",
+        "onboard_time": 1709086411,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 218957,
+        "num": 218957,
+        "word": "来自星星的你照进现实",
+        "onboard_time": 1709083590,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208543,
+        "num": 208543,
+        "word": "高校专硕招生人数九年涨超45万",
+        "onboard_time": 1709086052,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 203395,
+        "num": 203395,
+        "word": "可算把五险一金弄透了",
+        "onboard_time": 1709079992,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 198950,
+        "num": 198950,
+        "word": "模仿暮光之城",
+        "onboard_time": 1709086172,
+        "rank": 34,
+        "category": "幽默,作品衍生"
+      },
+      {
+        "raw_hot": 194546,
+        "num": 194546,
+        "word": "朋友聘礼三只狗",
+        "onboard_time": 1709084431,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187281,
+        "num": 187281,
+        "word": "苹果为造车从特斯拉挖走超300人",
+        "onboard_time": 1709086472,
+        "rank": 36,
+        "category": "数码,汽车"
+      },
+      {
+        "raw_hot": 184478,
+        "num": 184478,
+        "word": "眼睛里没揉出来的脏东西都去哪了",
+        "onboard_time": 1709075123,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176119,
+        "num": 176119,
+        "word": "她到最后都没说出想爷爷了",
+        "onboard_time": 1709085213,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169932,
+        "num": 169932,
+        "word": "27岁才意识到朋友都是阶段性的",
+        "onboard_time": 1709046395,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169498,
+        "num": 169498,
+        "word": "曹云金临沂拍戏100天吃100只鸡",
+        "onboard_time": 1709079391,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165678,
+        "num": 165678,
+        "word": "马斯克回应苹果取消造车",
+        "onboard_time": 1709083290,
+        "rank": 41,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 159404,
+        "num": 159404,
+        "word": "被有钱的i人狠狠震撼了",
+        "onboard_time": 1709080115,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158525,
+        "num": 158525,
+        "word": "种地吧直播",
+        "onboard_time": 1709085512,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155946,
+        "num": 155946,
+        "word": "新疆小女孩跳热巴春晚同款舞",
+        "onboard_time": 1709077529,
+        "rank": 44,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 153685,
+        "num": 153685,
+        "word": "中国资产再次大爆发",
+        "onboard_time": 1709086829,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137030,
+        "num": 137030,
+        "word": "他到底在ok个什么",
+        "onboard_time": 1709079695,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131303,
+        "num": 131303,
+        "word": "董宇辉不能既享受流量红利又逃避舆论",
+        "onboard_time": 1709039614,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130476,
+        "num": 130476,
+        "word": "苹果取消造车",
+        "onboard_time": 1709077951,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124974,
+        "num": 124974,
+        "word": "韩国医生为什么罢工",
+        "onboard_time": 1709081313,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署第二十号主席令#"
+    }
+  }
+}

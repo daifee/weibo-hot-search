@@ -1,10 +1,18 @@
 {
   "startTime": 1709050946453,
-  "endTime": 1709085863441,
+  "endTime": 1709086991300,
   "band_list": [
     {
-      "raw_hot": 2169549,
-      "num": 2169549,
+      "raw_hot": 2290790,
+      "num": 2290790,
+      "word": "同事称挖呀挖黄老师已离职",
+      "onboard_time": 1709084552,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2203934,
+      "num": 2203934,
       "word": "研究生多到无宿舍可住",
       "onboard_time": 1709082573,
       "rank": 49,
@@ -33,14 +41,6 @@
       "onboard_time": 1709033313,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1262638,
-      "num": 511925,
-      "word": "同事称挖呀挖黄老师已离职",
-      "onboard_time": 1709084552,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1211387,
@@ -81,6 +81,14 @@
       "onboard_time": 1709077951,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 715402,
+      "num": 715402,
+      "word": "反诈老陈哭了",
+      "onboard_time": 1709083590,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 712826,
@@ -147,14 +155,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 567535,
-      "num": 567535,
-      "word": "反诈老陈哭了",
-      "onboard_time": 1709083590,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 543315,
       "num": 324408,
       "word": "22岁女生长期熬夜患带状疱疹",
@@ -193,6 +193,14 @@
       "onboard_time": 1709081137,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 478538,
+      "num": 262242,
+      "word": "离职了公司让我把自己的微信留下",
+      "onboard_time": 1709085631,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 468486,
@@ -243,12 +251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378903,
+      "num": 378903,
+      "word": "五十五岁那年妈妈终于开始断亲",
+      "onboard_time": 1709085393,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371486,
       "num": 371486,
       "word": "韩国医生为什么罢工",
       "onboard_time": 1709081313,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 368348,
+      "num": 219424,
+      "word": "D社放弃跟拍的女爱豆",
+      "onboard_time": 1709086411,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 364193,
@@ -331,19 +355,19 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 264626,
+      "num": 264626,
+      "word": "朴彩英巴黎时装周路透",
+      "onboard_time": 1709082935,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 262993,
       "num": 262993,
       "word": "DIOR全球公关总监接待刘雨昕",
       "onboard_time": 1709043698,
       "rank": 9,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 257199,
-      "num": 257199,
-      "word": "朴彩英巴黎时装周路透",
-      "onboard_time": 1709082935,
-      "rank": 32,
       "category": "作品衍生,时尚"
     },
     {
@@ -371,12 +395,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 244212,
-      "num": 244212,
-      "word": "五十五岁那年妈妈终于开始断亲",
-      "onboard_time": 1709085393,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 240456,
+      "num": 240456,
+      "word": "拜登回应美国歌手霉霉会为其竞选背书",
+      "onboard_time": 1709085151,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 234992,
@@ -409,6 +433,22 @@
       "onboard_time": 1709037154,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225263,
+      "num": 225263,
+      "word": "姚安娜表情包",
+      "onboard_time": 1709086592,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 222599,
+      "num": 222599,
+      "word": "任天堂起诉Switch模拟器Yuzu制造商",
+      "onboard_time": 1709085872,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 222034,
@@ -483,12 +523,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208543,
+      "num": 208543,
+      "word": "高校专硕招生人数九年涨超45万",
+      "onboard_time": 1709086052,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 206363,
       "num": 206363,
       "word": "大熊猫拍着jiojio把自己哄睡着了",
       "onboard_time": 1709081074,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198950,
+      "num": 198950,
+      "word": "模仿暮光之城",
+      "onboard_time": 1709086172,
+      "rank": 34,
+      "category": "幽默,作品衍生"
+    },
+    {
+      "raw_hot": 187281,
+      "num": 187281,
+      "word": "苹果为造车从特斯拉挖走超300人",
+      "onboard_time": 1709086472,
+      "rank": 36,
+      "category": "数码,汽车"
+    },
+    {
+      "raw_hot": 184478,
+      "num": 184478,
+      "word": "眼睛里没揉出来的脏东西都去哪了",
+      "onboard_time": 1709075123,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 183438,
@@ -499,12 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175657,
-      "num": 175657,
-      "word": "离职了公司让我把自己的微信留下",
-      "onboard_time": 1709085631,
-      "rank": 38,
-      "category": "幽默"
+      "raw_hot": 176119,
+      "num": 176119,
+      "word": "她到最后都没说出想爷爷了",
+      "onboard_time": 1709085213,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 174579,
@@ -513,14 +585,6 @@
       "onboard_time": 1709079152,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174204,
-      "num": 174204,
-      "word": "眼睛里没揉出来的脏东西都去哪了",
-      "onboard_time": 1709075123,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 169128,
@@ -547,12 +611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159754,
-      "num": 159754,
-      "word": "她到最后都没说出想爷爷了",
-      "onboard_time": 1709085213,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 153685,
+      "num": 153685,
+      "word": "中国资产再次大爆发",
+      "onboard_time": 1709086829,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 152397,
@@ -585,14 +649,6 @@
       "onboard_time": 1709080537,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148165,
-      "num": 148165,
-      "word": "拜登回应美国歌手霉霉会为其竞选背书",
-      "onboard_time": 1709085151,
-      "rank": 45,
-      "category": "国外时政"
     },
     {
       "raw_hot": 143879,
@@ -796,7 +852,7 @@
     },
     {
       "raw_hot": 85269,
-      "num": 914127,
+      "num": 1360218,
       "word": "中国空间站进入常态化运营模式",
       "onboard_time": 1709038594,
       "rank": 2,
