@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709115598465,
+  "endTime": 1709116526469,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -331,6 +331,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1809159,
+      "num": 1809159,
+      "word": "亚洲首富之子18个月减重超200斤",
+      "onboard_time": 1709112214,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1808834,
       "num": 1808834,
       "word": "为何山姆穷鬼套餐让中产疯狂",
@@ -441,14 +449,6 @@
       "onboard_time": 1708848332,
       "rank": 16,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1667987,
-      "num": 1667987,
-      "word": "亚洲首富之子18个月减重超200斤",
-      "onboard_time": 1709112214,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1655165,
@@ -859,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1119403,
+      "num": 1119403,
+      "word": "被时代淘汰的水果",
+      "onboard_time": 1709110471,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1119226,
       "num": 1119226,
       "word": "四六级分数出了",
@@ -947,14 +955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1037575,
-      "num": 1037575,
-      "word": "被时代淘汰的水果",
-      "onboard_time": 1709110471,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1036067,
       "num": 1036067,
       "word": "清华大学澄清停招土木工程专业",
@@ -977,6 +977,14 @@
       "onboard_time": 1708925676,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1014373,
+      "num": 1014373,
+      "word": "热心市民魏大勋",
+      "onboard_time": 1709112814,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 1013189,
@@ -1579,14 +1587,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 782249,
-      "num": 782249,
-      "word": "热心市民魏大勋",
-      "onboard_time": 1709112814,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 782066,
       "num": 782066,
       "word": "爸爸每周给29岁女儿备好一周饭菜",
@@ -1993,6 +1993,14 @@
       "onboard_time": 1708948412,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 676534,
+      "num": 676534,
+      "word": "为什么汉堡王没火起来",
+      "onboard_time": 1709112575,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 676049,
@@ -2635,6 +2643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 546645,
+      "num": 546645,
+      "word": "雷军称苹果用户买小米汽车是最好选择",
+      "onboard_time": 1709113653,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 543410,
       "num": 543410,
       "word": "张杰武汉演唱会又取消了",
@@ -3139,6 +3155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476678,
+      "num": 476678,
+      "word": "贵州夫妻17年间生下9女1男",
+      "onboard_time": 1709115211,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476459,
       "num": 476459,
       "word": "贵州全面清理拖欠企业账款",
@@ -3209,14 +3233,6 @@
       "onboard_time": 1709040153,
       "rank": 22,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 469377,
-      "num": 469377,
-      "word": "为什么汉堡王没火起来",
-      "onboard_time": 1709112575,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 468486,
@@ -3304,14 +3320,6 @@
       "word": "比亚迪发布会",
       "onboard_time": 1709105374,
       "rank": 45,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 446178,
-      "num": 446178,
-      "word": "雷军称苹果用户买小米汽车是最好选择",
-      "onboard_time": 1709113653,
-      "rank": 17,
       "category": "汽车"
     },
     {
@@ -3643,6 +3651,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 411584,
+      "num": 411584,
+      "word": "重庆姐弟坠亡案生母宣布将直播带货",
+      "onboard_time": 1709115872,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410913,
       "num": 410913,
       "word": "宗庆后曾三度问鼎首富",
@@ -3761,6 +3777,14 @@
       "onboard_time": 1708777660,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 392286,
+      "num": 392286,
+      "word": "找工作",
+      "onboard_time": 1709114852,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 391633,
@@ -4195,6 +4219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338482,
+      "num": 338482,
+      "word": "林一周也 北体北电颜值高山",
+      "onboard_time": 1709114073,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 338165,
       "num": 322809,
       "word": "不推荐你吃方便面的原因只有2个",
@@ -4204,7 +4236,7 @@
     },
     {
       "raw_hot": 338011,
-      "num": 259058,
+      "num": 336537,
       "word": "长期吃这些东西可缓解肥胖",
       "onboard_time": 1709115153,
       "rank": 30,
@@ -4321,14 +4353,6 @@
       "onboard_time": 1708832792,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 323160,
-      "num": 323160,
-      "word": "林一周也 北体北电颜值高山",
-      "onboard_time": 1709114073,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 322870,
@@ -4481,6 +4505,14 @@
       "onboard_time": 1709010400,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313516,
+      "num": 731676,
+      "word": "女子晒出婆婆20年前织的费尔岛毛衣",
+      "onboard_time": 1709113835,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312750,
@@ -5035,14 +5067,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 275353,
-      "num": 731676,
-      "word": "女子晒出婆婆20年前织的费尔岛毛衣",
-      "onboard_time": 1709113835,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 274661,
       "num": 274661,
       "word": "LIA去了ITZY演唱会",
@@ -5321,14 +5345,6 @@
       "onboard_time": 1709039432,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 257552,
-      "num": 257552,
-      "word": "贵州夫妻17年间生下9女1男",
-      "onboard_time": 1709115211,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 257310,
@@ -5689,14 +5705,6 @@
       "onboard_time": 1709035533,
       "rank": 30,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 242081,
-      "num": 242081,
-      "word": "找工作",
-      "onboard_time": 1709114852,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 241111,
@@ -6065,6 +6073,14 @@
       "onboard_time": 1709012492,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 223973,
+      "num": 223973,
+      "word": "钟楚曦的中国胃",
+      "onboard_time": 1709115993,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 223740,
@@ -7177,6 +7193,14 @@
       "onboard_time": 1708867475,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192330,
+      "num": 192330,
+      "word": "NCTWISH出道",
+      "onboard_time": 1709115935,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 192288,
@@ -8419,6 +8443,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 162942,
+      "num": 153174,
+      "word": "这完全是大侦探的经典味道",
+      "onboard_time": 1709115454,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162860,
       "num": 162860,
       "word": "大学生抢不到车票报旅游团返校",
@@ -8939,6 +8971,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 146836,
+      "num": 146836,
+      "word": "世界冠军黄雅琼教练公开讨薪",
+      "onboard_time": 1709116173,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146775,
       "num": 146775,
       "word": "一碗水端不平就偏向老大",
@@ -9321,14 +9361,6 @@
       "onboard_time": 1709105492,
       "rank": 46,
       "category": "军事"
-    },
-    {
-      "raw_hot": 138406,
-      "num": 138406,
-      "word": "这完全是大侦探的经典味道",
-      "onboard_time": 1709115454,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 138404,
@@ -10075,12 +10107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104727,
+      "num": 352618,
+      "word": "电比油低汉唐杀疯了",
+      "onboard_time": 1709113051,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 104030,
       "num": 449230,
       "word": "小米14Ultra欧洲定价近国内一倍",
       "onboard_time": 1708927894,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 103043,
+      "num": 731746,
+      "word": "退役搜救犬跳车狂奔扑向训导员",
+      "onboard_time": 1709113835,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100823,
@@ -10153,14 +10201,6 @@
       "onboard_time": 1708810455,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 83411,
-      "num": 731746,
-      "word": "退役搜救犬跳车狂奔扑向训导员",
-      "onboard_time": 1709113835,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82413,
@@ -10259,14 +10299,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 74964,
-      "num": 352618,
-      "word": "电比油低汉唐杀疯了",
-      "onboard_time": 1709113051,
-      "rank": 19,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 73500,
       "num": 1278845,
       "word": "京津冀交通一体化取得非凡成就",
@@ -10300,7 +10332,7 @@
     },
     {
       "raw_hot": 71956,
-      "num": 231613,
+      "num": 241940,
       "word": "欧洲街头的中国面孔",
       "onboard_time": 1709114974,
       "rank": 33,

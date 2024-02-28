@@ -1,0 +1,410 @@
+{
+  "runTime": 1709116526469,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1809159,
+        "num": 1809159,
+        "word": "亚洲首富之子18个月减重超200斤",
+        "onboard_time": 1709112214,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1119403,
+        "num": 1119403,
+        "word": "被时代淘汰的水果",
+        "onboard_time": 1709110471,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20242,
+        "num": 1048953,
+        "word": "e法e同行 京彩新征程",
+        "onboard_time": 1709114434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014373,
+        "num": 1014373,
+        "word": "热心市民魏大勋",
+        "onboard_time": 1709112814,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 907359,
+        "num": 907359,
+        "word": "老公姐 人夫哥",
+        "onboard_time": 1709110294,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 865078,
+        "num": 865078,
+        "word": "上海一饭堂发生情杀案致2人死亡",
+        "onboard_time": 1709103211,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837198,
+        "num": 837198,
+        "word": "泰国版张雨绮",
+        "onboard_time": 1709101952,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 676534,
+        "num": 676534,
+        "word": "为什么汉堡王没火起来",
+        "onboard_time": 1709112575,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 103043,
+        "num": 666874,
+        "word": "退役搜救犬跳车狂奔扑向训导员",
+        "onboard_time": 1709113835,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313516,
+        "num": 661639,
+        "word": "女子晒出婆婆20年前织的费尔岛毛衣",
+        "onboard_time": 1709113835,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659490,
+        "num": 659490,
+        "word": "贡菜就是晒干的莴笋",
+        "onboard_time": 1709105795,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 633645,
+        "num": 633645,
+        "word": "智联招聘崩了",
+        "onboard_time": 1709113711,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 546645,
+        "num": 546645,
+        "word": "雷军称苹果用户买小米汽车是最好选择",
+        "onboard_time": 1709113653,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 501424,
+        "num": 501424,
+        "word": "黄嘉千称夏天被夏克立家暴",
+        "onboard_time": 1709101171,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476678,
+        "num": 476678,
+        "word": "贵州夫妻17年间生下9女1男",
+        "onboard_time": 1709115211,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436898,
+        "num": 436898,
+        "word": "张杰武汉演唱会又取消了",
+        "onboard_time": 1709112214,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 411584,
+        "num": 411584,
+        "word": "重庆姐弟坠亡案生母宣布将直播带货",
+        "onboard_time": 1709115872,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399861,
+        "num": 399861,
+        "word": "比亚迪价格",
+        "onboard_time": 1709109991,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 392286,
+        "num": 392286,
+        "word": "找工作",
+        "onboard_time": 1709114852,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 380246,
+        "num": 380246,
+        "word": "娃哈哈感谢信",
+        "onboard_time": 1709110831,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365945,
+        "num": 365945,
+        "word": "微信不能改名文件传输助手",
+        "onboard_time": 1709097693,
+        "rank": 20,
+        "category": "互联网,科学科普"
+      },
+      {
+        "raw_hot": 338482,
+        "num": 338482,
+        "word": "林一周也 北体北电颜值高山",
+        "onboard_time": 1709114073,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336537,
+        "num": 336537,
+        "word": "长期吃这些东西可缓解肥胖",
+        "onboard_time": 1709115153,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104727,
+        "num": 318635,
+        "word": "电比油低汉唐杀疯了",
+        "onboard_time": 1709113051,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 304707,
+        "num": 304707,
+        "word": "肠癌来临时上厕所会出现4个异常",
+        "onboard_time": 1709092831,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 284575,
+        "num": 284575,
+        "word": "海关查获人体组织制品玩具",
+        "onboard_time": 1709105314,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260885,
+        "num": 260885,
+        "word": "贵州通报女企业家被批捕事件",
+        "onboard_time": 1709113596,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258026,
+        "num": 258026,
+        "word": "王菲hobo包",
+        "onboard_time": 1709110352,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 247854,
+        "num": 247854,
+        "word": "甜馨cos初音未来",
+        "onboard_time": 1709103932,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57758,
+        "num": 245969,
+        "word": "中国建成航天领域首个大科学装置",
+        "onboard_time": 1709111973,
+        "rank": 29,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 245820,
+        "num": 245820,
+        "word": "国产剧洗澡戏越来越见外了",
+        "onboard_time": 1709102972,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47926,
+        "num": 241940,
+        "word": "欧洲街头的中国面孔",
+        "onboard_time": 1709114974,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 239185,
+        "num": 239185,
+        "word": "相亲第三天就领证了",
+        "onboard_time": 1709108196,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223973,
+        "num": 223973,
+        "word": "钟楚曦的中国胃",
+        "onboard_time": 1709115993,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212099,
+        "num": 212099,
+        "word": "张家界 韩国孝道",
+        "onboard_time": 1709109511,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 206725,
+        "num": 206725,
+        "word": "迪丽热巴金色眼妆",
+        "onboard_time": 1709112335,
+        "rank": 35,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 192330,
+        "num": 192330,
+        "word": "NCTWISH出道",
+        "onboard_time": 1709115935,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190153,
+        "num": 190153,
+        "word": "巴黎奥运会安保方案被偷",
+        "onboard_time": 1709111311,
+        "rank": 37,
+        "category": "国外时政,体育"
+      },
+      {
+        "raw_hot": 187855,
+        "num": 187855,
+        "word": "HIV预防性疫苗研发全军覆没",
+        "onboard_time": 1709098833,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168388,
+        "num": 168388,
+        "word": "张若昀你怎么什么都往外说",
+        "onboard_time": 1709114073,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155845,
+        "num": 155845,
+        "word": "EDG官宣Xiamu加入",
+        "onboard_time": 1709112214,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162942,
+        "num": 153174,
+        "word": "这完全是大侦探的经典味道",
+        "onboard_time": 1709115454,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150171,
+        "num": 150171,
+        "word": "女子被好友改名文件传输助手骗5年",
+        "onboard_time": 1709091935,
+        "rank": 42,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 146836,
+        "num": 146836,
+        "word": "世界冠军黄雅琼教练公开讨薪",
+        "onboard_time": 1709116173,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140607,
+        "num": 140607,
+        "word": "迪丽热巴新高定",
+        "onboard_time": 1709093914,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133470,
+        "num": 133470,
+        "word": "演员谭凯喝娃哈哈AD钙奶缅怀宗庆后",
+        "onboard_time": 1709111434,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131420,
+        "num": 131420,
+        "word": "金智秀秀场状态",
+        "onboard_time": 1709112153,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130462,
+        "num": 130462,
+        "word": "女子欲买小体比熊不料狗狗飙长变熊大",
+        "onboard_time": 1709099790,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123000,
+        "num": 123000,
+        "word": "GAI 我的颜还不够美么",
+        "onboard_time": 1709114373,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119068,
+        "num": 119068,
+        "word": "凤凰传奇官宣演唱会",
+        "onboard_time": 1709095656,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#提高公共服务可及性和均等化水平#"
+    }
+  }
+}
