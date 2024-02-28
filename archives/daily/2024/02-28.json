@@ -1,6 +1,6 @@
 {
   "startTime": 1709050946453,
-  "endTime": 1709133447331,
+  "endTime": 1709134500777,
   "band_list": [
     {
       "raw_hot": 3351481,
@@ -193,6 +193,14 @@
       "onboard_time": 1709076926,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1190893,
+      "num": 523533,
+      "word": "我的性教育来自郭敬明的小说",
+      "onboard_time": 1709132376,
+      "rank": 10,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 1188687,
@@ -449,14 +457,6 @@
       "onboard_time": 1709077951,
       "rank": 5,
       "category": "数码"
-    },
-    {
-      "raw_hot": 738251,
-      "num": 523533,
-      "word": "我的性教育来自郭敬明的小说",
-      "onboard_time": 1709132376,
-      "rank": 10,
-      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 737834,
@@ -971,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387244,
+      "num": 387244,
+      "word": "官方通报广东一初中生跳楼自杀",
+      "onboard_time": 1709132974,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386225,
       "num": 386225,
       "word": "宗庆后追思会",
@@ -1032,6 +1040,22 @@
       "word": "股市",
       "onboard_time": 1709104172,
       "rank": 27,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 358889,
+      "num": 301419,
+      "word": "睡前吃夜宵和饿肚子睡觉哪个危害大",
+      "onboard_time": 1709130878,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 354398,
+      "num": 354398,
+      "word": "比特币每枚突破6万美元",
+      "onboard_time": 1709132074,
+      "rank": 20,
       "category": "财经"
     },
     {
@@ -1124,7 +1148,7 @@
     },
     {
       "raw_hot": 325342,
-      "num": 198221,
+      "num": 269788,
       "word": "原来狗不嫌家贫是因为没富过",
       "onboard_time": 1709132195,
       "rank": 30,
@@ -1161,14 +1185,6 @@
       "onboard_time": 1709094035,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 321781,
-      "num": 321781,
-      "word": "比特币每枚突破6万美元",
-      "onboard_time": 1709132074,
-      "rank": 20,
-      "category": "财经"
     },
     {
       "raw_hot": 319356,
@@ -1235,12 +1251,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 301419,
-      "num": 301419,
-      "word": "睡前吃夜宵和饿肚子睡觉哪个危害大",
-      "onboard_time": 1709130878,
-      "rank": 23,
-      "category": "健康医疗"
+      "raw_hot": 306827,
+      "num": 306827,
+      "word": "李洙赫 男狐狸",
+      "onboard_time": 1709132554,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 299638,
@@ -1281,14 +1297,6 @@
       "onboard_time": 1709044537,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 290586,
-      "num": 290586,
-      "word": "李洙赫 男狐狸",
-      "onboard_time": 1709132554,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 286622,
@@ -1409,6 +1417,14 @@
       "onboard_time": 1709089115,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 271304,
+      "num": 271304,
+      "word": "爱奇艺去年总营收319亿元",
+      "onboard_time": 1709133334,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 271268,
@@ -1649,6 +1665,14 @@
       "onboard_time": 1709037154,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227549,
+      "num": 227549,
+      "word": "恋爱冷淡期",
+      "onboard_time": 1709133093,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 223973,
@@ -1963,14 +1987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189672,
-      "num": 189672,
-      "word": "官方通报广东一初中生跳楼自杀",
-      "onboard_time": 1709132974,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184843,
       "num": 184843,
       "word": "全员加速中弹幕",
@@ -2059,14 +2075,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 177647,
-      "num": 177647,
-      "word": "恋爱冷淡期",
-      "onboard_time": 1709133093,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 176659,
       "num": 176659,
       "word": "沟通类的工作不要轻易做",
@@ -2105,6 +2113,14 @@
       "onboard_time": 1709079152,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172963,
+      "num": 172963,
+      "word": "蒲熠星 吃饭是我的人类学调查方式",
+      "onboard_time": 1709134234,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 172850,
@@ -2371,6 +2387,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 155995,
+      "num": 155995,
+      "word": "父母不扫兴且情绪价值给到满了",
+      "onboard_time": 1709133213,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155962,
       "num": 155962,
       "word": "新型婚姻模式你能接受吗",
@@ -2467,6 +2491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149062,
+      "num": 149062,
+      "word": "檀健次演技",
+      "onboard_time": 1709134234,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147896,
       "num": 147896,
       "word": "姆巴佩否认与皇马签约",
@@ -2488,14 +2520,6 @@
       "word": "一碗水端不平就偏向老大",
       "onboard_time": 1709090672,
       "rank": 45,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 146002,
-      "num": 146002,
-      "word": "父母不扫兴且情绪价值给到满了",
-      "onboard_time": 1709133213,
-      "rank": 46,
       "category": "情感"
     },
     {
@@ -2595,6 +2619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138738,
+      "num": 138738,
+      "word": "不要为轻松的日子感到愧疚",
+      "onboard_time": 1709133814,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138416,
       "num": 138416,
       "word": "美国援乌成大生意",
@@ -2689,14 +2721,6 @@
       "onboard_time": 1709123794,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 131366,
-      "num": 131366,
-      "word": "爱奇艺去年总营收319亿元",
-      "onboard_time": 1709133334,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 129830,
