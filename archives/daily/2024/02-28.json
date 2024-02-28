@@ -1,6 +1,6 @@
 {
   "startTime": 1709050946453,
-  "endTime": 1709101320448,
+  "endTime": 1709102131151,
   "band_list": [
     {
       "raw_hot": 2515665,
@@ -27,8 +27,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1783091,
-      "num": 1783091,
+      "raw_hot": 1981479,
+      "num": 1981479,
       "word": "微信不能改名文件传输助手",
       "onboard_time": 1709097693,
       "rank": 20,
@@ -171,6 +171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 827963,
+      "num": 685433,
+      "word": "碧桂园",
+      "onboard_time": 1709096554,
+      "rank": 21,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 793924,
       "num": 793924,
       "word": "反诈老陈哭了",
@@ -243,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 702227,
-      "num": 685433,
-      "word": "碧桂园",
-      "onboard_time": 1709096554,
-      "rank": 21,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 699657,
       "num": 699657,
       "word": "母亲将唯一银镯打成首饰送2个女儿",
@@ -283,11 +283,35 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 619979,
+      "num": 619979,
+      "word": "2岁宝宝已穿1年小腿假肢",
+      "onboard_time": 1709099549,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 594009,
       "num": 594009,
       "word": "小徐英语六级考了353分",
       "onboard_time": 1709045255,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 586016,
+      "num": 552939,
+      "word": "云南失联两兄弟遗体被找到",
+      "onboard_time": 1709100151,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582761,
+      "num": 582761,
+      "word": "女子欲买小体比熊不料狗狗飙长变熊大",
+      "onboard_time": 1709099790,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -297,6 +321,14 @@
       "onboard_time": 1709039614,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 574500,
+      "num": 574500,
+      "word": "黄嘉千称夏天被夏克立家暴",
+      "onboard_time": 1709101171,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 543315,
@@ -347,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512283,
+      "num": 512283,
+      "word": "HIV预防性疫苗研发全军覆没",
+      "onboard_time": 1709098833,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 501141,
       "num": 501141,
       "word": "洗澡是最好的医美",
@@ -363,12 +403,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 494322,
-      "num": 472640,
-      "word": "HIV预防性疫苗研发全军覆没",
-      "onboard_time": 1709098833,
-      "rank": 11,
-      "category": "健康医疗"
+      "raw_hot": 494774,
+      "num": 494774,
+      "word": "赵继伟朋友圈",
+      "onboard_time": 1709098949,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 494287,
@@ -411,6 +451,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 474725,
+      "num": 474725,
+      "word": "艾滋病已是可防可控可治的慢性病",
+      "onboard_time": 1709097811,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 473108,
       "num": 473108,
       "word": "魔法集市破产",
@@ -433,14 +481,6 @@
       "onboard_time": 1709090191,
       "rank": 24,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 465680,
-      "num": 465680,
-      "word": "艾滋病已是可防可控可治的慢性病",
-      "onboard_time": 1709097811,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 444158,
@@ -467,14 +507,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 414634,
-      "num": 414634,
-      "word": "赵继伟朋友圈",
-      "onboard_time": 1709098949,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 413706,
       "num": 413706,
       "word": "为何山姆穷鬼套餐让中产疯狂",
@@ -488,14 +520,6 @@
       "word": "国家对贵州近期森林火灾多发进行督办",
       "onboard_time": 1709088633,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 404020,
-      "num": 404020,
-      "word": "2岁宝宝已穿1年小腿假肢",
-      "onboard_time": 1709099549,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -539,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 379913,
-      "num": 379913,
-      "word": "女子欲买小体比熊不料狗狗飙长变熊大",
-      "onboard_time": 1709099790,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 373434,
       "num": 373434,
       "word": "我与顾少的百亿婚约",
@@ -571,12 +587,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 359640,
-      "num": 359640,
-      "word": "云南失联两兄弟遗体被找到",
-      "onboard_time": 1709100151,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 346948,
+      "num": 346948,
+      "word": "泰国版张雨绮",
+      "onboard_time": 1709101952,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 341617,
@@ -779,6 +795,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 260729,
+      "num": 260729,
+      "word": "库迪咖啡全场9.9不限量",
+      "onboard_time": 1709097993,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 257310,
       "num": 257310,
       "word": "早期的papi酱",
@@ -801,14 +825,6 @@
       "onboard_time": 1709083590,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 250624,
-      "num": 250624,
-      "word": "库迪咖啡全场9.9不限量",
-      "onboard_time": 1709097993,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 245841,
@@ -867,6 +883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 230153,
+      "num": 230153,
+      "word": "娃哈哈总部门口摆满娃哈哈",
+      "onboard_time": 1709100330,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228619,
       "num": 228619,
       "word": "男子与智残女子结婚吃绝户卷走450万",
@@ -905,14 +929,6 @@
       "onboard_time": 1709042853,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216923,
-      "num": 216923,
-      "word": "娃哈哈总部门口摆满娃哈哈",
-      "onboard_time": 1709100330,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 216263,
@@ -1155,12 +1171,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172141,
+      "num": 172141,
+      "word": "A股成交半日放量3611亿",
+      "onboard_time": 1709098713,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 170753,
       "num": 170753,
       "word": "韦德将出席CBA全明星",
       "onboard_time": 1709094813,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169811,
+      "num": 169811,
+      "word": "女子带宠物看病被高压氧舱砸伤头部",
+      "onboard_time": 1709100632,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169749,
@@ -1184,22 +1216,6 @@
       "word": "徐冬冬回应面相",
       "onboard_time": 1709079574,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 169107,
-      "num": 169107,
-      "word": "A股成交半日放量3611亿",
-      "onboard_time": 1709098713,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 168677,
-      "num": 168677,
-      "word": "黄嘉千称夏天被夏克立家暴",
-      "onboard_time": 1709101171,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1283,14 +1299,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158594,
-      "num": 158594,
-      "word": "女子带宠物看病被高压氧舱砸伤头部",
-      "onboard_time": 1709100632,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152881,
       "num": 152881,
       "word": "你能接受租房读研吗",
@@ -1353,6 +1361,14 @@
       "onboard_time": 1709040936,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 143250,
+      "num": 143250,
+      "word": "北京房山大熊猫基地计划引入大熊猫50只",
+      "onboard_time": 1709100992,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143022,
@@ -1473,14 +1489,6 @@
       "onboard_time": 1709007695,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114179,
-      "num": 114179,
-      "word": "北京房山大熊猫基地计划引入大熊猫50只",
-      "onboard_time": 1709100992,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113040,
@@ -1667,7 +1675,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 41477,
+      "raw_hot": 42184,
       "num": 1170418,
       "word": "e法同行京津冀",
       "onboard_time": 1709097213,
