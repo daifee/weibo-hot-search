@@ -1,7 +1,15 @@
 {
   "startTime": 1709050946453,
-  "endTime": 1709124308342,
+  "endTime": 1709126307018,
   "band_list": [
+    {
+      "raw_hot": 3237722,
+      "num": 510915,
+      "word": "女教师办公室殴打学生",
+      "onboard_time": 1709122294,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2515665,
       "num": 2515665,
@@ -64,14 +72,6 @@
       "word": "亚洲首富之子18个月减重超200斤",
       "onboard_time": 1709112214,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1735843,
-      "num": 510915,
-      "word": "女教师办公室殴打学生",
-      "onboard_time": 1709122294,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -179,6 +179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1145560,
+      "num": 1145560,
+      "word": "孙千陈靖可朋友圈签名",
+      "onboard_time": 1709121274,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1119403,
       "num": 1119403,
       "word": "被时代淘汰的水果",
@@ -209,14 +217,6 @@
       "onboard_time": 1709101952,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1090491,
-      "num": 1090491,
-      "word": "孙千陈靖可朋友圈签名",
-      "onboard_time": 1709121274,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1014373,
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593361,
+      "num": 465531,
+      "word": "人流后支离破碎的子宫",
+      "onboard_time": 1709124510,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 575081,
       "num": 498052,
       "word": "董宇辉不能既享受流量红利又逃避舆论",
@@ -635,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 496235,
+      "num": 496235,
+      "word": "将进酒广播剧播放量破两亿",
+      "onboard_time": 1709123192,
+      "rank": 22,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 494774,
       "num": 494774,
       "word": "赵继伟朋友圈",
@@ -673,6 +689,14 @@
       "onboard_time": 1709081137,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 479978,
+      "num": 479978,
+      "word": "烟火人家 乳腺通了泪腺崩了",
+      "onboard_time": 1709121274,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 478612,
@@ -715,6 +739,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 464310,
+      "num": 464310,
+      "word": "王俊凯新加坡登上全球发音",
+      "onboard_time": 1709124932,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461972,
       "num": 461972,
       "word": "A股",
@@ -737,6 +769,14 @@
       "onboard_time": 1709097096,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 442339,
+      "num": 342055,
+      "word": "雷军",
+      "onboard_time": 1709122655,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 440075,
@@ -779,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412865,
+      "num": 412865,
+      "word": "杨幂8年前就配过功夫熊猫",
+      "onboard_time": 1709124152,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 392326,
       "num": 392326,
       "word": "张致恒儿子患自闭症",
@@ -811,12 +859,12 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 387083,
-      "num": 387083,
-      "word": "烟火人家 乳腺通了泪腺崩了",
-      "onboard_time": 1709121274,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 387495,
+      "num": 387495,
+      "word": "魏大勋 看熟人演戏的尴尬",
+      "onboard_time": 1709121811,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 386225,
@@ -843,14 +891,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 373863,
-      "num": 373863,
-      "word": "将进酒广播剧播放量破两亿",
-      "onboard_time": 1709123192,
-      "rank": 22,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 373434,
       "num": 373434,
       "word": "我与顾少的百亿婚约",
@@ -865,6 +905,14 @@
       "onboard_time": 1709081313,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367109,
+      "num": 367109,
+      "word": "演员王迅游荆州怒批古城墙刻字行为",
+      "onboard_time": 1709125473,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 364193,
@@ -905,14 +953,6 @@
       "onboard_time": 1709111311,
       "rank": 31,
       "category": "国外时政,体育"
-    },
-    {
-      "raw_hot": 342055,
-      "num": 342055,
-      "word": "雷军",
-      "onboard_time": 1709122655,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 341795,
@@ -979,6 +1019,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 324436,
+      "num": 207223,
+      "word": "见男朋友父母是需要考察一下的",
+      "onboard_time": 1709124510,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 323943,
       "num": 323943,
       "word": "贵州通报女企业家被批捕事件",
@@ -1043,20 +1091,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 300082,
-      "num": 300082,
-      "word": "魏大勋 看熟人演戏的尴尬",
-      "onboard_time": 1709121811,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 299638,
       "num": 299638,
       "word": "恋与深空",
       "onboard_time": 1709091754,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 293323,
+      "num": 293323,
+      "word": "姜广涛直播",
+      "onboard_time": 1709125053,
+      "rank": 21,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 292430,
@@ -1089,6 +1137,14 @@
       "onboard_time": 1709044537,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 290095,
+      "num": 465903,
+      "word": "建议启动中小学教师在职学历提升计划",
+      "onboard_time": 1709119590,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 286622,
@@ -1145,6 +1201,14 @@
       "onboard_time": 1709080115,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 278392,
+      "num": 278392,
+      "word": "王者荣耀",
+      "onboard_time": 1709124932,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 277222,
@@ -1307,6 +1371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 247147,
+      "num": 204145,
+      "word": "LCK比赛延期",
+      "onboard_time": 1709125711,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 246732,
       "num": 246732,
       "word": "SK儿子出生了",
@@ -1451,6 +1523,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 221677,
+      "num": 199658,
+      "word": "眼镜爆膜就别再戴了",
+      "onboard_time": 1709125053,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 221023,
       "num": 210659,
       "word": "阴阳师初音未来建模",
@@ -1467,6 +1547,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 220242,
+      "num": 220242,
+      "word": "宗馥莉哽咽追忆父亲宗庆后",
+      "onboard_time": 1709125592,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219619,
+      "num": 219619,
+      "word": "张予曦cos杨玉环",
+      "onboard_time": 1709125953,
+      "rank": 27,
+      "category": "作品衍生,游戏"
+    },
+    {
       "raw_hot": 218667,
       "num": 218667,
       "word": "金智秀世趋",
@@ -1481,14 +1577,6 @@
       "onboard_time": 1709112214,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 218090,
-      "num": 218090,
-      "word": "建议启动中小学教师在职学历提升计划",
-      "onboard_time": 1709119590,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 216263,
@@ -1593,6 +1681,14 @@
       "onboard_time": 1709081074,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203977,
+      "num": 191207,
+      "word": "当我得知弟弟考研成绩那一刻",
+      "onboard_time": 1709125592,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 203823,
@@ -2027,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162324,
+      "num": 162324,
+      "word": "亲戚脸都绿了",
+      "onboard_time": 1709124873,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162050,
       "num": 162050,
       "word": "WB锁定第二轮S组",
@@ -2049,6 +2153,14 @@
       "onboard_time": 1709107050,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160587,
+      "num": 160587,
+      "word": "林俊杰成都二开",
+      "onboard_time": 1709125412,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 159594,
@@ -2081,6 +2193,22 @@
       "onboard_time": 1709111434,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 155176,
+      "num": 155176,
+      "word": "邪剑仙 人生导师",
+      "onboard_time": 1709124271,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154259,
+      "num": 154259,
+      "word": "新型婚姻模式你能接受吗",
+      "onboard_time": 1709125353,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 152881,
@@ -2144,6 +2272,14 @@
       "word": "金晨海边玩加特林",
       "onboard_time": 1709080537,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147636,
+      "num": 147636,
+      "word": "霍建华 要拍现在拍别跟着我",
+      "onboard_time": 1709126251,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -2227,14 +2363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139662,
-      "num": 139662,
-      "word": "杨幂8年前就配过功夫熊猫",
-      "onboard_time": 1709124152,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 138416,
       "num": 138416,
       "word": "美国援乌成大生意",
@@ -2249,6 +2377,22 @@
       "onboard_time": 1709120129,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136880,
+      "num": 136880,
+      "word": "DYG对战RW",
+      "onboard_time": 1709124873,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 135174,
+      "num": 135174,
+      "word": "内娱现偶编剧请来恋综取材",
+      "onboard_time": 1709124993,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 135169,
@@ -2483,14 +2627,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 107679,
-      "num": 107679,
-      "word": "邪剑仙 人生导师",
-      "onboard_time": 1709124271,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 104727,
       "num": 352618,
       "word": "电比油低汉唐杀疯了",
@@ -2587,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90171,
+      "num": 293090,
+      "word": "年轻人的方盒子火了",
+      "onboard_time": 1709122834,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 85269,
       "num": 1569283,
       "word": "中国空间站进入常态化运营模式",
@@ -2617,6 +2761,14 @@
       "onboard_time": 1709104533,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 82370,
+      "num": 300278,
+      "word": "张予曦杨玉环银翎春语",
+      "onboard_time": 1709123373,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 79201,
@@ -2673,22 +2825,6 @@
       "onboard_time": 1709076326,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 61151,
-      "num": 236561,
-      "word": "张予曦杨玉环银翎春语",
-      "onboard_time": 1709123373,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 60666,
-      "num": 293090,
-      "word": "年轻人的方盒子火了",
-      "onboard_time": 1709122834,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 59993,
