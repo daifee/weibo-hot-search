@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709094875289,
+  "endTime": 1709097463907,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -128,6 +128,14 @@
       "word": "彩礼不超3.9万子女可优先入学",
       "onboard_time": 1709008182,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2515665,
+      "num": 2515665,
+      "word": "女子被好友改名文件传输助手骗5年",
+      "onboard_time": 1709091935,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -305,14 +313,6 @@
       "onboard_time": 1709036376,
       "rank": 11,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1799695,
-      "num": 1799695,
-      "word": "女子被好友改名文件传输助手骗5年",
-      "onboard_time": 1709091935,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1786453,
@@ -1099,12 +1099,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 921146,
+      "num": 921146,
+      "word": "很多岗位都可以先混进去再学",
+      "onboard_time": 1709093373,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 913218,
       "num": 913218,
       "word": "研究生招生人数6年翻倍",
       "onboard_time": 1709087373,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 903002,
+      "num": 903002,
+      "word": "凤凰传奇官宣演唱会",
+      "onboard_time": 1709095656,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 897801,
@@ -1545,6 +1561,14 @@
       "onboard_time": 1708995455,
       "rank": 23,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 745208,
+      "num": 745208,
+      "word": "艾滋病阻断药最佳服用时间",
+      "onboard_time": 1709094513,
+      "rank": 39,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 744994,
@@ -2435,6 +2459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540997,
+      "num": 540997,
+      "word": "给热巴选选衣服吧",
+      "onboard_time": 1709095952,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 540090,
       "num": 540090,
       "word": "明白为啥人神相恋不被允许了",
@@ -2923,6 +2955,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 468761,
+      "num": 468761,
+      "word": "魔法集市破产",
+      "onboard_time": 1709094998,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 468486,
       "num": 468486,
       "word": "碧桂园在香港被提出清盘呈请",
@@ -2985,14 +3025,6 @@
       "onboard_time": 1708939296,
       "rank": 13,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 453456,
-      "num": 453456,
-      "word": "很多岗位都可以先混进去再学",
-      "onboard_time": 1709093373,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 453030,
@@ -3467,6 +3499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 389396,
+      "num": 389396,
+      "word": "调查显示母亲学历越高对子女教育投入越高",
+      "onboard_time": 1709090431,
+      "rank": 34,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 387720,
       "num": 387720,
       "word": "林一周也 豪门情侣感",
@@ -3481,6 +3521,14 @@
       "onboard_time": 1709082212,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385773,
+      "num": 385773,
+      "word": "开始推理吧2官宣",
+      "onboard_time": 1709094340,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 385643,
@@ -3499,14 +3547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 382500,
-      "num": 382500,
-      "word": "调查显示母亲学历越高对子女教育投入越高",
-      "onboard_time": 1709090431,
-      "rank": 34,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 380466,
       "num": 380466,
       "word": "金晨终于又跳舞了",
@@ -3521,14 +3561,6 @@
       "onboard_time": 1708912531,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378795,
-      "num": 378795,
-      "word": "开始推理吧2官宣",
-      "onboard_time": 1709094340,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 378145,
@@ -3835,6 +3867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 339526,
+      "num": 339526,
+      "word": "我与顾少的百亿婚约",
+      "onboard_time": 1709094513,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 339181,
       "num": 246348,
       "word": "阚清子回复王彦霖",
@@ -3985,6 +4025,14 @@
       "onboard_time": 1708908692,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 319119,
+      "num": 319119,
+      "word": "碧桂园",
+      "onboard_time": 1709096554,
+      "rank": 21,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 318741,
@@ -4627,6 +4675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 274633,
+      "num": 274633,
+      "word": "外媒发布自焚美军遗言",
+      "onboard_time": 1709094636,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
       "raw_hot": 274573,
       "num": 274573,
       "word": "她翻垃圾找线索揪出潜伏10年的间谍",
@@ -4675,12 +4731,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272334,
+      "num": 272334,
+      "word": "雷军评苹果取消造车",
+      "onboard_time": 1709096793,
+      "rank": 25,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 271978,
       "num": 271978,
       "word": "郭晶晶周雨彤合照",
       "onboard_time": 1708954536,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 271661,
+      "num": 271661,
+      "word": "一人不爬山 不近青纱帐",
+      "onboard_time": 1709096018,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 271615,
@@ -5363,6 +5435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231563,
+      "num": 271825,
+      "word": "保姆级底妆教程",
+      "onboard_time": 1709096554,
+      "rank": 27,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 231272,
       "num": 231272,
       "word": "没人发现上班的成本很高吗",
@@ -5609,6 +5689,14 @@
       "onboard_time": 1708927414,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 220257,
+      "num": 220257,
+      "word": "沈月头像",
+      "onboard_time": 1709097096,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 220203,
@@ -6193,14 +6281,6 @@
       "onboard_time": 1708771352,
       "rank": 32,
       "category": "幽默,网红"
-    },
-    {
-      "raw_hot": 200596,
-      "num": 200596,
-      "word": "艾滋病阻断药最佳服用时间",
-      "onboard_time": 1709094513,
-      "rank": 39,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 200119,
@@ -6939,14 +7019,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 183815,
-      "num": 240249,
-      "word": "外媒发布自焚美军遗言",
-      "onboard_time": 1709094636,
-      "rank": 29,
-      "category": "军事"
-    },
-    {
       "raw_hot": 183438,
       "num": 183438,
       "word": "种地吧直播",
@@ -6977,14 +7049,6 @@
       "onboard_time": 1708932218,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 183190,
-      "num": 183190,
-      "word": "我与顾少的百亿婚约",
-      "onboard_time": 1709094513,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 183092,
@@ -7089,6 +7153,14 @@
       "onboard_time": 1708868853,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 180024,
+      "num": 180024,
+      "word": "十个勤天行李牌",
+      "onboard_time": 1709097096,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 179622,
@@ -7411,6 +7483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170753,
+      "num": 170753,
+      "word": "韦德将出席CBA全明星",
+      "onboard_time": 1709094813,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170581,
       "num": 170581,
       "word": "华为Pocket2评测",
@@ -7497,6 +7577,14 @@
       "onboard_time": 1708835318,
       "rank": 41,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 168589,
+      "num": 168589,
+      "word": "90后彩民灵机一改中双色球830万",
+      "onboard_time": 1709095179,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168232,
@@ -7643,6 +7731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163424,
+      "num": 163424,
+      "word": "大侦探",
+      "onboard_time": 1709095776,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163319,
       "num": 163319,
       "word": "孟菀青 把爱给出去把痛藏起来",
@@ -7777,6 +7873,14 @@
       "onboard_time": 1708913251,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 159594,
+      "num": 159594,
+      "word": "星穹铁道花火PV",
+      "onboard_time": 1709097213,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 158652,
@@ -8297,14 +8401,6 @@
       "onboard_time": 1708990404,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 142461,
-      "num": 142461,
-      "word": "韦德将出席CBA全明星",
-      "onboard_time": 1709094813,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 142334,
@@ -9769,6 +9865,14 @@
       "onboard_time": 1709062456,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 15932,
+      "num": 1170418,
+      "word": "e法同行京津冀",
+      "onboard_time": 1709097213,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14599,

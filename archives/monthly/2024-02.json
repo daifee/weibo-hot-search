@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1709094875289,
+  "endTime": 1709097463907,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1353,6 +1353,14 @@
       "onboard_time": 1707306875,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2515665,
+      "num": 2515665,
+      "word": "女子被好友改名文件传输助手骗5年",
+      "onboard_time": 1709091935,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2515346,
@@ -2977,14 +2985,6 @@
       "onboard_time": 1706779412,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1799695,
-      "num": 1799695,
-      "word": "女子被好友改名文件传输助手骗5年",
-      "onboard_time": 1709091935,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1798747,
@@ -8883,6 +8883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 921146,
+      "num": 921146,
+      "word": "很多岗位都可以先混进去再学",
+      "onboard_time": 1709093373,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 921037,
       "num": 921037,
       "word": "初二开始走亲戚的你",
@@ -9113,6 +9121,14 @@
       "onboard_time": 1708681475,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 903002,
+      "num": 903002,
+      "word": "凤凰传奇官宣演唱会",
+      "onboard_time": 1709095656,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 902129,
@@ -12025,6 +12041,14 @@
       "onboard_time": 1707652593,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 745208,
+      "num": 745208,
+      "word": "艾滋病阻断药最佳服用时间",
+      "onboard_time": 1709094513,
+      "rank": 39,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 744994,
@@ -18099,6 +18123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 540997,
+      "num": 540997,
+      "word": "给热巴选选衣服吧",
+      "onboard_time": 1709095952,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 540974,
       "num": 540974,
       "word": "香港入境处处长回应是否拒绝梅西入境",
@@ -21307,6 +21339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 468761,
+      "num": 468761,
+      "word": "魔法集市破产",
+      "onboard_time": 1709094998,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 468486,
       "num": 468486,
       "word": "碧桂园在香港被提出清盘呈请",
@@ -21777,14 +21817,6 @@
       "onboard_time": 1708654113,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 453456,
-      "num": 453456,
-      "word": "很多岗位都可以先混进去再学",
-      "onboard_time": 1709093373,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 453371,
@@ -25155,6 +25187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 389396,
+      "num": 389396,
+      "word": "调查显示母亲学历越高对子女教育投入越高",
+      "onboard_time": 1709090431,
+      "rank": 34,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 389339,
       "num": 389339,
       "word": "孙艺洲 演傻子怎么还有统治区",
@@ -25355,6 +25395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 385773,
+      "num": 385773,
+      "word": "开始推理吧2官宣",
+      "onboard_time": 1709094340,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385643,
       "num": 385643,
       "word": "王楚钦说有你们没在怕",
@@ -25497,14 +25545,6 @@
       "onboard_time": 1707789330,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382500,
-      "num": 382500,
-      "word": "调查显示母亲学历越高对子女教育投入越高",
-      "onboard_time": 1709090431,
-      "rank": 34,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 382499,
@@ -25737,14 +25777,6 @@
       "onboard_time": 1706756490,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 378795,
-      "num": 378795,
-      "word": "开始推理吧2官宣",
-      "onboard_time": 1709094340,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 378716,
@@ -28283,6 +28315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 339526,
+      "num": 339526,
+      "word": "我与顾少的百亿婚约",
+      "onboard_time": 1709094513,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 339500,
       "num": 625950,
       "word": "西安要被南京小孩哥夸脸红了",
@@ -29625,6 +29665,14 @@
       "onboard_time": 1707617548,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 319119,
+      "num": 319119,
+      "word": "碧桂园",
+      "onboard_time": 1709096554,
+      "rank": 21,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 318954,
@@ -33971,6 +34019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 274633,
+      "num": 274633,
+      "word": "外媒发布自焚美军遗言",
+      "onboard_time": 1709094636,
+      "rank": 29,
+      "category": "军事"
+    },
+    {
       "raw_hot": 274589,
       "num": 320507,
       "word": "美媒介绍世界最好吃50种面包中国烧饼上榜",
@@ -34259,6 +34315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272334,
+      "num": 272334,
+      "word": "雷军评苹果取消造车",
+      "onboard_time": 1709096793,
+      "rank": 25,
+      "category": "财经,汽车"
+    },
+    {
       "raw_hot": 272174,
       "num": 272174,
       "word": "朱正廷烧麦判官",
@@ -34313,6 +34377,14 @@
       "onboard_time": 1708494813,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 271661,
+      "num": 271661,
+      "word": "一人不爬山 不近青纱帐",
+      "onboard_time": 1709096018,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 271615,
@@ -39619,6 +39691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231563,
+      "num": 271825,
+      "word": "保姆级底妆教程",
+      "onboard_time": 1709096554,
+      "rank": 27,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 231554,
       "num": 135584,
       "word": "大醉之后喝白开水可解酒",
@@ -41577,6 +41657,14 @@
       "onboard_time": 1708433980,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 220257,
+      "num": 220257,
+      "word": "沈月头像",
+      "onboard_time": 1709097096,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 220205,
@@ -46145,14 +46233,6 @@
       "onboard_time": 1708053930,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 200596,
-      "num": 200596,
-      "word": "艾滋病阻断药最佳服用时间",
-      "onboard_time": 1709094513,
-      "rank": 39,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 200588,
@@ -50995,14 +51075,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 183815,
-      "num": 240249,
-      "word": "外媒发布自焚美军遗言",
-      "onboard_time": 1709094636,
-      "rank": 29,
-      "category": "军事"
-    },
-    {
       "raw_hot": 183803,
       "num": 183803,
       "word": "三代今天就是来揍你的",
@@ -51145,14 +51217,6 @@
       "onboard_time": 1708932218,
       "rank": 32,
       "category": "美食"
-    },
-    {
-      "raw_hot": 183190,
-      "num": 183190,
-      "word": "我与顾少的百亿婚约",
-      "onboard_time": 1709094513,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 183176,
@@ -51801,6 +51865,14 @@
       "onboard_time": 1706876676,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180024,
+      "num": 180024,
+      "word": "十个勤天行李牌",
+      "onboard_time": 1709097096,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 179983,
@@ -54267,6 +54339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170753,
+      "num": 170753,
+      "word": "韦德将出席CBA全明星",
+      "onboard_time": 1709094813,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170716,
       "num": 170716,
       "word": "各位不要在我身体里谈恋爱",
@@ -54969,6 +55049,14 @@
       "onboard_time": 1708522296,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 168589,
+      "num": 168589,
+      "word": "90后彩民灵机一改中双色球830万",
+      "onboard_time": 1709095179,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168468,
@@ -57377,6 +57465,14 @@
       "onboard_time": 1708671694,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159594,
+      "num": 159594,
+      "word": "星穹铁道花火PV",
+      "onboard_time": 1709097213,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 159574,
@@ -62064,14 +62160,6 @@
       "word": "怀特塞德退役",
       "onboard_time": 1707875793,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 142461,
-      "num": 142461,
-      "word": "韦德将出席CBA全明星",
-      "onboard_time": 1709094813,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -76089,6 +76177,14 @@
       "onboard_time": 1706727676,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 15932,
+      "num": 1170418,
+      "word": "e法同行京津冀",
+      "onboard_time": 1709097213,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15882,

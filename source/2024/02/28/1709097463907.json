@@ -1,0 +1,410 @@
+{
+  "runTime": 1709097463907,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2515665,
+        "num": 2515665,
+        "word": "女子被好友改名文件传输助手骗5年",
+        "onboard_time": 1709091935,
+        "rank": 0,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 1218179,
+        "num": 1218179,
+        "word": "同事称挖呀挖黄老师已离职",
+        "onboard_time": 1709084552,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15932,
+        "num": 1170418,
+        "word": "e法同行京津冀",
+        "onboard_time": 1709097213,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1167418,
+        "num": 1167418,
+        "word": "迪丽热巴新高定",
+        "onboard_time": 1709093914,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 921146,
+        "num": 921146,
+        "word": "很多岗位都可以先混进去再学",
+        "onboard_time": 1709093373,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 903002,
+        "num": 903002,
+        "word": "凤凰传奇官宣演唱会",
+        "onboard_time": 1709095656,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 820405,
+        "num": 820405,
+        "word": "老凤祥回应",
+        "onboard_time": 1709089590,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762659,
+        "num": 762659,
+        "word": "一个县城妈妈不相信天生坏种",
+        "onboard_time": 1709089893,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745208,
+        "num": 745208,
+        "word": "艾滋病阻断药最佳服用时间",
+        "onboard_time": 1709094513,
+        "rank": 8,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 592960,
+        "num": 592960,
+        "word": "花少团支持胡先煦新剧",
+        "onboard_time": 1709092233,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1299410,
+        "num": 591968,
+        "word": "肠癌来临时上厕所会出现4个异常",
+        "onboard_time": 1709092831,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 590079,
+        "num": 590079,
+        "word": "研究生多到无宿舍可住",
+        "onboard_time": 1709082573,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 540997,
+        "num": 540997,
+        "word": "给热巴选选衣服吧",
+        "onboard_time": 1709095952,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 488421,
+        "num": 488421,
+        "word": "陈乔恩6天减六斤",
+        "onboard_time": 1709088394,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468761,
+        "num": 468761,
+        "word": "魔法集市破产",
+        "onboard_time": 1709094998,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 452138,
+        "num": 452138,
+        "word": "全员加速中主持人快碎了",
+        "onboard_time": 1709091393,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389396,
+        "num": 389396,
+        "word": "调查显示母亲学历越高对子女教育投入越高",
+        "onboard_time": 1709090431,
+        "rank": 16,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 385773,
+        "num": 385773,
+        "word": "开始推理吧2官宣",
+        "onboard_time": 1709094340,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369498,
+        "num": 369498,
+        "word": "姚安娜芭蕾水平",
+        "onboard_time": 1709087551,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 339526,
+        "num": 339526,
+        "word": "我与顾少的百亿婚约",
+        "onboard_time": 1709094513,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320622,
+        "num": 320622,
+        "word": "研究生招生人数6年翻倍",
+        "onboard_time": 1709087373,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 319119,
+        "num": 319119,
+        "word": "碧桂园",
+        "onboard_time": 1709096554,
+        "rank": 21,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 292331,
+        "num": 292331,
+        "word": "D社放弃跟拍的女爱豆",
+        "onboard_time": 1709086411,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 274633,
+        "num": 274633,
+        "word": "外媒发布自焚美军遗言",
+        "onboard_time": 1709094636,
+        "rank": 23,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 273250,
+        "num": 273250,
+        "word": "比亚迪新车",
+        "onboard_time": 1709090191,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 272334,
+        "num": 272334,
+        "word": "雷军评苹果取消造车",
+        "onboard_time": 1709096793,
+        "rank": 25,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 271994,
+        "num": 271994,
+        "word": "台湾省",
+        "onboard_time": 1709033313,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 231563,
+        "num": 271825,
+        "word": "保姆级底妆教程",
+        "onboard_time": 1709096554,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 271661,
+        "num": 271661,
+        "word": "一人不爬山 不近青纱帐",
+        "onboard_time": 1709096018,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 7473,
+        "num": 251302,
+        "word": "中国空间站进入常态化运营模式",
+        "onboard_time": 1709038594,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240204,
+        "num": 240204,
+        "word": "林一说喜欢周也这样的女生",
+        "onboard_time": 1709094035,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232523,
+        "num": 232523,
+        "word": "吃霸王餐的消防队长已被开除",
+        "onboard_time": 1709076926,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220257,
+        "num": 220257,
+        "word": "沈月头像",
+        "onboard_time": 1709097096,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215756,
+        "num": 215756,
+        "word": "极氪高管怼小米汽车",
+        "onboard_time": 1709092173,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 211349,
+        "num": 211349,
+        "word": "夏之光光头",
+        "onboard_time": 1709092233,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210652,
+        "num": 210652,
+        "word": "张颂文谈猎冰争议",
+        "onboard_time": 1709083113,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200316,
+        "num": 200316,
+        "word": "豪杰春香男主借钱不还",
+        "onboard_time": 1709088331,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193827,
+        "num": 193827,
+        "word": "离职了公司让我把自己的微信留下",
+        "onboard_time": 1709085631,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185416,
+        "num": 185416,
+        "word": "刘雯走秀",
+        "onboard_time": 1709093737,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180556,
+        "num": 180556,
+        "word": "BABYMONSTER四月出道",
+        "onboard_time": 1709090254,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180024,
+        "num": 180024,
+        "word": "十个勤天行李牌",
+        "onboard_time": 1709097096,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170753,
+        "num": 170753,
+        "word": "韦德将出席CBA全明星",
+        "onboard_time": 1709094813,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168589,
+        "num": 168589,
+        "word": "90后彩民灵机一改中双色球830万",
+        "onboard_time": 1709095179,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168090,
+        "num": 168090,
+        "word": "第一次尝试自己睡觉的小朋友",
+        "onboard_time": 1709088033,
+        "rank": 43,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 163424,
+        "num": 163424,
+        "word": "大侦探",
+        "onboard_time": 1709095776,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159594,
+        "num": 159594,
+        "word": "星穹铁道花火PV",
+        "onboard_time": 1709097213,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143608,
+        "num": 143608,
+        "word": "豆豆反转 乐莹最后一击",
+        "onboard_time": 1709081137,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143490,
+        "num": 143490,
+        "word": "檀健次张婧仪台词爆发力",
+        "onboard_time": 1709093796,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142416,
+        "num": 142416,
+        "word": "赵又廷高圆圆陪女儿骑车",
+        "onboard_time": 1709088871,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141529,
+        "num": 141529,
+        "word": "姚安娜表情包",
+        "onboard_time": 1709086592,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署第二十号主席令#"
+    }
+  }
+}
