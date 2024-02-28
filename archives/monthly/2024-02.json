@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1709144496333,
+  "endTime": 1709145241818,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -38843,6 +38843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 242268,
+      "num": 242268,
+      "word": "面包店的浪费现象有多严重",
+      "onboard_time": 1709140822,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242170,
       "num": 242170,
       "word": "日本队发布会成了孙颖莎表彰大会",
@@ -39081,14 +39089,6 @@
       "onboard_time": 1707196894,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240949,
-      "num": 240949,
-      "word": "面包店的浪费现象有多严重",
-      "onboard_time": 1709140822,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240845,
@@ -75347,6 +75347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54251,
+      "num": 54251,
+      "word": "祁煜 奇遇",
+      "onboard_time": 1709143579,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 53874,
       "num": 101601,
       "word": "好运2024",
@@ -75915,14 +75923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45106,
-      "num": 45106,
-      "word": "祁煜 奇遇",
-      "onboard_time": 1709143579,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 44884,
       "num": 44884,
       "word": "一百多年前的猫奴",
@@ -76321,6 +76321,14 @@
       "onboard_time": 1708282337,
       "rank": 40,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 38717,
+      "num": 38717,
+      "word": "赵昭仪与素人合照",
+      "onboard_time": 1709144238,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 38424,
@@ -77001,14 +77009,6 @@
       "onboard_time": 1707546154,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27978,
-      "num": 27978,
-      "word": "赵昭仪与素人合照",
-      "onboard_time": 1709144238,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 27935,

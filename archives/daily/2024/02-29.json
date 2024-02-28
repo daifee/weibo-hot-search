@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709144496333,
+  "endTime": 1709145241818,
   "band_list": [
     {
       "raw_hot": 1215724,
@@ -131,8 +131,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 240949,
-      "num": 240949,
+      "raw_hot": 242268,
+      "num": 242268,
       "word": "面包店的浪费现象有多严重",
       "onboard_time": 1709140822,
       "rank": 28,
@@ -443,12 +443,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 45106,
-      "num": 45106,
+      "raw_hot": 54251,
+      "num": 54251,
       "word": "祁煜 奇遇",
       "onboard_time": 1709143579,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 38717,
+      "num": 38717,
+      "word": "赵昭仪与素人合照",
+      "onboard_time": 1709144238,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 32272,
@@ -459,15 +467,7 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 27978,
-      "num": 27978,
-      "word": "赵昭仪与素人合照",
-      "onboard_time": 1709144238,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 10464,
+      "raw_hot": 11527,
       "num": 187654,
       "word": "我国载人航天工程取得4000多项发明专利",
       "onboard_time": 1709126974,
