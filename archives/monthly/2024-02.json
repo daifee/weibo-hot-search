@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1709134500777,
+  "endTime": 1709137309596,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -5987,6 +5987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1215724,
+      "num": 523533,
+      "word": "我的性教育来自郭敬明的小说",
+      "onboard_time": 1709132376,
+      "rank": 10,
+      "category": "读书作家,艺人"
+    },
+    {
       "raw_hot": 1211387,
       "num": 1211387,
       "word": "吃霸王餐的消防队长已被开除",
@@ -6097,14 +6105,6 @@
       "onboard_time": 1708473571,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1190893,
-      "num": 523533,
-      "word": "我的性教育来自郭敬明的小说",
-      "onboard_time": 1709132376,
-      "rank": 10,
-      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 1189275,
@@ -19971,6 +19971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 505588,
+      "num": 505588,
+      "word": "官方通报广东一初中生跳楼自杀",
+      "onboard_time": 1709132974,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505225,
       "num": 505225,
       "word": "于正赞卢昱晓娱乐圈独一份",
@@ -23171,6 +23179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 434109,
+      "num": 434109,
+      "word": "爱奇艺去年总营收319亿元",
+      "onboard_time": 1709133334,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 433922,
       "num": 375336,
       "word": "王栎鑫说0713魏晨也来了",
@@ -25801,14 +25817,6 @@
       "onboard_time": 1708585895,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 387244,
-      "num": 387244,
-      "word": "官方通报广东一初中生跳楼自杀",
-      "onboard_time": 1709132974,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 387242,
@@ -34579,6 +34587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275944,
+      "num": 275944,
+      "word": "蒲熠星 吃饭是我的人类学调查方式",
+      "onboard_time": 1709134234,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275868,
       "num": 275868,
       "word": "博主评董宇辉清空微博对公司不负责",
@@ -35153,14 +35169,6 @@
       "onboard_time": 1707722671,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 271304,
-      "num": 271304,
-      "word": "爱奇艺去年总营收319亿元",
-      "onboard_time": 1709133334,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 271268,
@@ -39667,6 +39675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236637,
+      "num": 236637,
+      "word": "舒畅红色马面裙",
+      "onboard_time": 1709134893,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 236551,
       "num": 236551,
       "word": "狗 这个班是非上不可吗",
@@ -40523,6 +40539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231804,
+      "num": 227549,
+      "word": "恋爱冷淡期",
+      "onboard_time": 1709133093,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 231764,
       "num": 231764,
       "word": "刘雯走秀",
@@ -41121,14 +41145,6 @@
       "onboard_time": 1708378215,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 227549,
-      "num": 227549,
-      "word": "恋爱冷淡期",
-      "onboard_time": 1709133093,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 227546,
@@ -52019,6 +52035,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 183863,
+      "num": 183863,
+      "word": "檀健次演技",
+      "onboard_time": 1709134234,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183858,
       "num": 183858,
       "word": "演员工会奖获奖名单",
@@ -52441,6 +52465,14 @@
       "onboard_time": 1706867793,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 182490,
+      "num": 182490,
+      "word": "柳智敏李宰旭一见钟情瞬间",
+      "onboard_time": 1709137107,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 182483,
@@ -54857,14 +54889,6 @@
       "onboard_time": 1709040153,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 172963,
-      "num": 172963,
-      "word": "蒲熠星 吃饭是我的人类学调查方式",
-      "onboard_time": 1709134234,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 172889,
@@ -59147,6 +59171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157919,
+      "num": 157919,
+      "word": "任嘉伦四年之约",
+      "onboard_time": 1709135730,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157855,
       "num": 157855,
       "word": "梅西缺战",
@@ -61545,14 +61577,6 @@
       "onboard_time": 1708934376,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 149062,
-      "num": 149062,
-      "word": "檀健次演技",
-      "onboard_time": 1709134234,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 149051,
@@ -70043,6 +70067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115773,
+      "num": 115773,
+      "word": "挖呀挖黄老师回应被造黄谣称已报警",
+      "onboard_time": 1709135792,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115685,
       "num": 115685,
       "word": "光启男人都是铁打的",
@@ -70233,6 +70265,14 @@
       "onboard_time": 1707715170,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114526,
+      "num": 114526,
+      "word": "半熟恋人男嘉宾细致程度",
+      "onboard_time": 1709134653,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 114504,
@@ -71577,6 +71617,14 @@
       "onboard_time": 1707447387,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107337,
+      "num": 107337,
+      "word": "古希腊掌管teenager的神",
+      "onboard_time": 1709136930,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 107333,

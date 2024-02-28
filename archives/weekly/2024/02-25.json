@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709134500777,
+  "endTime": 1709137309596,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -811,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1215724,
+      "num": 523533,
+      "word": "我的性教育来自郭敬明的小说",
+      "onboard_time": 1709132376,
+      "rank": 10,
+      "category": "读书作家,艺人"
+    },
+    {
       "raw_hot": 1211387,
       "num": 1211387,
       "word": "吃霸王餐的消防队长已被开除",
@@ -825,14 +833,6 @@
       "onboard_time": 1708871017,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1190893,
-      "num": 523533,
-      "word": "我的性教育来自郭敬明的小说",
-      "onboard_time": 1709132376,
-      "rank": 10,
-      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 1188687,
@@ -3075,6 +3075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505588,
+      "num": 505588,
+      "word": "官方通报广东一初中生跳楼自杀",
+      "onboard_time": 1709132974,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501704,
       "num": 501704,
       "word": "黑龙江佳木斯一高层建筑起火",
@@ -3627,6 +3635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 434109,
+      "num": 434109,
+      "word": "爱奇艺去年总营收319亿元",
+      "onboard_time": 1709133334,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 433815,
       "num": 433815,
       "word": "2024年研考初试成绩公布",
@@ -4033,14 +4049,6 @@
       "onboard_time": 1709121811,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 387244,
-      "num": 387244,
-      "word": "官方通报广东一初中生跳楼自杀",
-      "onboard_time": 1709132974,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 386225,
@@ -5387,6 +5395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275944,
+      "num": 275944,
+      "word": "蒲熠星 吃饭是我的人类学调查方式",
+      "onboard_time": 1709134234,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275868,
       "num": 275868,
       "word": "博主评董宇辉清空微博对公司不负责",
@@ -5513,14 +5529,6 @@
       "onboard_time": 1709089115,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 271304,
-      "num": 271304,
-      "word": "爱奇艺去年总营收319亿元",
-      "onboard_time": 1709133334,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 271268,
@@ -6211,6 +6219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 236637,
+      "num": 236637,
+      "word": "舒畅红色马面裙",
+      "onboard_time": 1709134893,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 236459,
       "num": 236459,
       "word": "赵今麦刚杀青就进组",
@@ -6297,6 +6313,14 @@
       "onboard_time": 1709010460,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231804,
+      "num": 227549,
+      "word": "恋爱冷淡期",
+      "onboard_time": 1709133093,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 231764,
@@ -6409,14 +6433,6 @@
       "onboard_time": 1708911092,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 227549,
-      "num": 227549,
-      "word": "恋爱冷淡期",
-      "onboard_time": 1709133093,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 227458,
@@ -8027,6 +8043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 183863,
+      "num": 183863,
+      "word": "檀健次演技",
+      "onboard_time": 1709134234,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183858,
       "num": 183858,
       "word": "演员工会奖获奖名单",
@@ -8097,6 +8121,14 @@
       "onboard_time": 1709100574,
       "rank": 35,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 182490,
+      "num": 182490,
+      "word": "柳智敏李宰旭一见钟情瞬间",
+      "onboard_time": 1709137107,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 182320,
@@ -8513,14 +8545,6 @@
       "onboard_time": 1709040153,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 172963,
-      "num": 172963,
-      "word": "蒲熠星 吃饭是我的人类学调查方式",
-      "onboard_time": 1709134234,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 172850,
@@ -9147,6 +9171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157919,
+      "num": 157919,
+      "word": "任嘉伦四年之约",
+      "onboard_time": 1709135730,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157718,
       "num": 157718,
       "word": "马燕装病",
@@ -9497,14 +9529,6 @@
       "onboard_time": 1708934376,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 149062,
-      "num": 149062,
-      "word": "檀健次演技",
-      "onboard_time": 1709134234,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 148626,
@@ -10643,6 +10667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115773,
+      "num": 115773,
+      "word": "挖呀挖黄老师回应被造黄谣称已报警",
+      "onboard_time": 1709135792,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115419,
       "num": 115419,
       "word": "什么队伍还要大学生亲自排",
@@ -10665,6 +10697,14 @@
       "onboard_time": 1708947812,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114526,
+      "num": 114526,
+      "word": "半熟恋人男嘉宾细致程度",
+      "onboard_time": 1709134653,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 113950,
@@ -10809,6 +10849,14 @@
       "onboard_time": 1709028933,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 107337,
+      "num": 107337,
+      "word": "古希腊掌管teenager的神",
+      "onboard_time": 1709136930,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 106988,
