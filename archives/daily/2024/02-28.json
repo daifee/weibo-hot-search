@@ -1,6 +1,6 @@
 {
   "startTime": 1709050946453,
-  "endTime": 1709087646981,
+  "endTime": 1709090274124,
   "band_list": [
     {
       "raw_hot": 2512627,
@@ -51,11 +51,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1030909,
+      "num": 1030909,
+      "word": "董宇辉再回应不理解女生做美甲",
+      "onboard_time": 1709088871,
+      "rank": 3,
+      "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 892056,
+      "num": 892056,
+      "word": "研究生招生人数6年翻倍",
+      "onboard_time": 1709087373,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 882238,
       "num": 882238,
       "word": "黄嘉千称曾被家暴五六次以上",
       "onboard_time": 1709081376,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 880539,
+      "num": 880539,
+      "word": "陈乔恩6天减六斤",
+      "onboard_time": 1709088394,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -75,6 +99,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785800,
+      "num": 785800,
+      "word": "姚安娜芭蕾水平",
+      "onboard_time": 1709087551,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 763575,
+      "num": 763575,
+      "word": "D社放弃跟拍的女爱豆",
+      "onboard_time": 1709086411,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 744994,
       "num": 744994,
       "word": "全员加速中直播",
@@ -89,6 +129,14 @@
       "onboard_time": 1709077951,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 739885,
+      "num": 739885,
+      "word": "国台办再回应台撞击大陆渔船恶性事件",
+      "onboard_time": 1709088809,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 712826,
@@ -131,14 +179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 651337,
-      "num": 420760,
-      "word": "D社放弃跟拍的女爱豆",
-      "onboard_time": 1709086411,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 635392,
       "num": 635392,
       "word": "容易被癌细胞盯上的7个饮食习惯",
@@ -171,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541341,
+      "num": 541341,
+      "word": "豪杰春香男主借钱不还",
+      "onboard_time": 1709088331,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 536950,
       "num": 536950,
       "word": "曹云金临沂拍戏100天吃100只鸡",
@@ -180,7 +228,7 @@
     },
     {
       "raw_hot": 535855,
-      "num": 269668,
+      "num": 295971,
       "word": "离职了公司让我把自己的微信留下",
       "onboard_time": 1709085631,
       "rank": 38,
@@ -188,7 +236,7 @@
     },
     {
       "raw_hot": 513761,
-      "num": 394477,
+      "num": 420426,
       "word": "五十五岁那年妈妈终于开始断亲",
       "onboard_time": 1709085393,
       "rank": 26,
@@ -227,6 +275,22 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 460034,
+      "num": 460034,
+      "word": "中国资产再次大爆发",
+      "onboard_time": 1709086829,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 430929,
+      "num": 430929,
+      "word": "赵又廷高圆圆陪女儿骑车",
+      "onboard_time": 1709088871,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 430495,
       "num": 430495,
       "word": "新疆小女孩跳热巴春晚同款舞",
@@ -241,6 +305,14 @@
       "onboard_time": 1709036376,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 413555,
+      "num": 413555,
+      "word": "国家对贵州近期森林火灾多发进行督办",
+      "onboard_time": 1709088633,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392326,
@@ -323,12 +395,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 286271,
+      "num": 286271,
+      "word": "第一次尝试自己睡觉的小朋友",
+      "onboard_time": 1709088033,
+      "rank": 21,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 283781,
       "num": 279332,
       "word": "唐嫣G社生图",
       "onboard_time": 1709080834,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 280444,
+      "num": 280444,
+      "word": "葡萄柚减肥法",
+      "onboard_time": 1709088752,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 279273,
@@ -347,20 +435,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 276519,
-      "num": 276519,
-      "word": "研究生招生人数6年翻倍",
-      "onboard_time": 1709087373,
-      "rank": 18,
-      "category": "教育"
-    },
-    {
       "raw_hot": 274573,
       "num": 274573,
       "word": "她翻垃圾找线索揪出潜伏10年的间谍",
       "onboard_time": 1709082155,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271615,
+      "num": 271615,
+      "word": "大陆方面保留采取一切措施的权利",
+      "onboard_time": 1709089115,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 271268,
@@ -371,12 +459,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 270606,
-      "num": 270606,
-      "word": "中国资产再次大爆发",
-      "onboard_time": 1709086829,
-      "rank": 45,
-      "category": "财经"
+      "raw_hot": 267899,
+      "num": 267899,
+      "word": "BABYMONSTER四月出道",
+      "onboard_time": 1709090254,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 264626,
@@ -393,6 +481,14 @@
       "onboard_time": 1709043698,
       "rank": 9,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 257310,
+      "num": 257310,
+      "word": "早期的papi酱",
+      "onboard_time": 1709089350,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 256191,
@@ -417,6 +513,14 @@
       "onboard_time": 1709041952,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 244111,
+      "num": 244111,
+      "word": "A股",
+      "onboard_time": 1709089534,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 240456,
@@ -555,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201511,
+      "num": 201511,
+      "word": "老凤祥回应",
+      "onboard_time": 1709089590,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198950,
       "num": 198950,
       "word": "模仿暮光之城",
@@ -577,6 +689,14 @@
       "onboard_time": 1709086472,
       "rank": 36,
       "category": "数码,汽车"
+    },
+    {
+      "raw_hot": 184843,
+      "num": 184843,
+      "word": "全员加速中弹幕",
+      "onboard_time": 1709087732,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 184478,
@@ -611,6 +731,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172322,
+      "num": 172322,
+      "word": "春花厌坦白局",
+      "onboard_time": 1709090014,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169749,
+      "num": 169749,
+      "word": "斯特鲁斯致命绝杀",
+      "onboard_time": 1709087850,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169128,
       "num": 169128,
       "word": "徐冬冬回应面相",
@@ -635,12 +771,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154335,
-      "num": 154335,
-      "word": "姚安娜芭蕾水平",
-      "onboard_time": 1709087551,
-      "rank": 41,
-      "category": "作品衍生"
+      "raw_hot": 164651,
+      "num": 164651,
+      "word": "女生问男友新裙子好看吗",
+      "onboard_time": 1709089235,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 159857,
+      "num": 159857,
+      "word": "一个县城妈妈不相信天生坏种",
+      "onboard_time": 1709089893,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152397,
@@ -667,12 +811,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 151380,
+      "num": 151380,
+      "word": "建议与教育教学无关的活动一律不能进校园",
+      "onboard_time": 1709090129,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 150222,
       "num": 150222,
       "word": "金晨海边玩加特林",
       "onboard_time": 1709080537,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145465,
+      "num": 145465,
+      "word": "长相很凶的狗狗没人和它玩",
+      "onboard_time": 1709088690,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 143879,
@@ -697,6 +857,14 @@
       "onboard_time": 1709078795,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 135047,
+      "num": 135047,
+      "word": "斯特鲁斯三分",
+      "onboard_time": 1709089414,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 133197,
