@@ -1,6 +1,6 @@
 {
   "startTime": 1709050946453,
-  "endTime": 1709108470185,
+  "endTime": 1709109250304,
   "band_list": [
     {
       "raw_hot": 2515665,
@@ -145,6 +145,14 @@
       "onboard_time": 1709101952,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 968751,
+      "num": 968751,
+      "word": "贡菜就是晒干的莴笋",
+      "onboard_time": 1709105795,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 950591,
@@ -323,14 +331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 672493,
-      "num": 672493,
-      "word": "贡菜就是晒干的莴笋",
-      "onboard_time": 1709105795,
-      "rank": 7,
-      "category": "美食"
-    },
-    {
       "raw_hot": 667160,
       "num": 667160,
       "word": "蔡徐坤录音室",
@@ -393,6 +393,14 @@
       "onboard_time": 1709039614,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 559084,
+      "num": 559084,
+      "word": "海关查获人体组织制品玩具",
+      "onboard_time": 1709105314,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543315,
@@ -459,6 +467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 499220,
+      "num": 499220,
+      "word": "化妆的尽头是素妆",
+      "onboard_time": 1709105314,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 496723,
       "num": 496723,
       "word": "赵又廷高圆圆陪女儿骑车",
@@ -497,6 +513,14 @@
       "onboard_time": 1709096793,
       "rank": 25,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 482449,
+      "num": 482449,
+      "word": "相亲第三天就领证了",
+      "onboard_time": 1709108196,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 481320,
@@ -545,14 +569,6 @@
       "onboard_time": 1709089534,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 459525,
-      "num": 459525,
-      "word": "化妆的尽头是素妆",
-      "onboard_time": 1709105314,
-      "rank": 36,
-      "category": "美妆"
     },
     {
       "raw_hot": 447378,
@@ -683,14 +699,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 360135,
-      "num": 360135,
-      "word": "海关查获人体组织制品玩具",
-      "onboard_time": 1709105314,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 341617,
       "num": 341617,
       "word": "极氪高管怼小米汽车",
@@ -788,7 +796,7 @@
     },
     {
       "raw_hot": 291781,
-      "num": 209085,
+      "num": 274576,
       "word": "RA管理层怒喷教练",
       "onboard_time": 1709107356,
       "rank": 30,
@@ -963,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254180,
+      "num": 254180,
+      "word": "超50地发文提醒爆款游戏诈骗陷阱",
+      "onboard_time": 1709108374,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 253872,
       "num": 227314,
       "word": "结婚选花童一定要谨慎",
@@ -1059,14 +1075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228970,
-      "num": 205195,
-      "word": "相亲第三天就领证了",
-      "onboard_time": 1709108196,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 228619,
       "num": 228619,
       "word": "男子与智残女子结婚吃绝户卷走450万",
@@ -1092,7 +1100,7 @@
     },
     {
       "raw_hot": 221023,
-      "num": 203792,
+      "num": 210659,
       "word": "阴阳师初音未来建模",
       "onboard_time": 1709108374,
       "rank": 32,
@@ -1179,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211367,
+      "num": 211367,
+      "word": "蛋仔派对低龄用户成诈骗特定目标",
+      "onboard_time": 1709108434,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209603,
       "num": 209603,
       "word": "姜思达穿搭",
@@ -1211,14 +1227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199428,
-      "num": 199428,
-      "word": "超50地发文提醒爆款游戏诈骗陷阱",
-      "onboard_time": 1709108374,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 198950,
       "num": 198950,
       "word": "模仿暮光之城",
@@ -1233,6 +1241,14 @@
       "onboard_time": 1709087012,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 198673,
+      "num": 198673,
+      "word": "KPL",
+      "onboard_time": 1709108673,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 197854,
@@ -1483,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165666,
+      "num": 165666,
+      "word": "TES连续三大场零封",
+      "onboard_time": 1709107954,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165560,
       "num": 165560,
       "word": "网友向王鹤棣道歉",
@@ -1555,28 +1579,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 157538,
-      "num": 157538,
-      "word": "蛋仔派对低龄用户成诈骗特定目标",
-      "onboard_time": 1709108434,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 157073,
       "num": 157073,
       "word": "六月租房贵的原因",
       "onboard_time": 1709103033,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 153520,
-      "num": 153520,
-      "word": "TES连续三大场零封",
-      "onboard_time": 1709107954,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 152881,
@@ -1995,6 +2003,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 48922,
+      "num": 280627,
+      "word": "谁说比亚迪汉唐不懂燃油车",
+      "onboard_time": 1709108011,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 47318,
       "num": 375157,
       "word": "王安宇李昀锐中式清檀大片",
@@ -2033,14 +2049,6 @@
       "onboard_time": 1709055979,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 24019,
-      "num": 181736,
-      "word": "谁说比亚迪汉唐不懂燃油车",
-      "onboard_time": 1709108011,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 19801,
