@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709145241818,
+  "endTime": 1709147729602,
   "band_list": [
     {
       "raw_hot": 1215724,
@@ -435,6 +435,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 64591,
+      "num": 47396,
+      "word": "赵昭仪与素人合照",
+      "onboard_time": 1709144238,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60987,
       "num": 158524,
       "word": "日本已擅自排海超2.3万吨核污染水",
@@ -451,20 +459,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 38717,
-      "num": 38717,
-      "word": "赵昭仪与素人合照",
-      "onboard_time": 1709144238,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 32272,
       "num": 32272,
       "word": "全球发音",
       "onboard_time": 1709142979,
       "rank": 32,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 29838,
+      "num": 29838,
+      "word": "小伙撸铁2小时横纹肌溶解了",
+      "onboard_time": 1709146457,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11527,

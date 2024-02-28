@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709145241818,
+  "endTime": 1709147729602,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -11243,6 +11243,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 64591,
+      "num": 47396,
+      "word": "赵昭仪与素人合照",
+      "onboard_time": 1709144238,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64096,
       "num": 64096,
       "word": "湖人vs太阳",
@@ -11443,14 +11451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38717,
-      "num": 38717,
-      "word": "赵昭仪与素人合照",
-      "onboard_time": 1709144238,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 37694,
       "num": 37694,
       "word": "来自星星的你时期的全智贤",
@@ -11505,6 +11505,14 @@
       "onboard_time": 1709142979,
       "rank": 32,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 29838,
+      "num": 29838,
+      "word": "小伙撸铁2小时横纹肌溶解了",
+      "onboard_time": 1709146457,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27936,
