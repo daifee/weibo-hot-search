@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709083873444,
+  "endTime": 1709085863441,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -201,6 +201,14 @@
       "onboard_time": 1708869692,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2169549,
+      "num": 2169549,
+      "word": "研究生多到无宿舍可住",
+      "onboard_time": 1709082573,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 2142585,
@@ -611,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1262638,
+      "num": 511925,
+      "word": "同事称挖呀挖黄老师已离职",
+      "onboard_time": 1709084552,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1256175,
       "num": 869288,
       "word": "古天乐否认与宣萱结婚生子",
@@ -665,14 +681,6 @@
       "onboard_time": 1708871017,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1202752,
-      "num": 527853,
-      "word": "研究生多到无宿舍可住",
-      "onboard_time": 1709082573,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 1181182,
@@ -1571,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 712826,
+      "num": 712826,
+      "word": "400名大学生回曹县小镇卖马面裙",
+      "onboard_time": 1709083832,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 708830,
       "num": 708830,
       "word": "李湘前夫李厚霖给李亚鹏直播打赏",
@@ -1737,6 +1753,14 @@
       "onboard_time": 1708819045,
       "rank": 3,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 664188,
+      "num": 664188,
+      "word": "张颂文谈猎冰争议",
+      "onboard_time": 1709083113,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 661655,
@@ -2201,6 +2225,14 @@
       "onboard_time": 1708945712,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 567535,
+      "num": 567535,
+      "word": "反诈老陈哭了",
+      "onboard_time": 1709083590,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 566262,
@@ -2747,6 +2779,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 468486,
+      "num": 468486,
+      "word": "碧桂园在香港被提出清盘呈请",
+      "onboard_time": 1709083290,
+      "rank": 28,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 466720,
       "num": 466720,
       "word": "宾利司机打人事件劝架大哥是名律师",
@@ -2761,14 +2801,6 @@
       "onboard_time": 1708923518,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 464076,
-      "num": 464076,
-      "word": "张颂文谈猎冰争议",
-      "onboard_time": 1709083113,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 461425,
@@ -4179,6 +4211,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 283781,
+      "num": 279332,
+      "word": "唐嫣G社生图",
+      "onboard_time": 1709080834,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 283542,
       "num": 283542,
       "word": "黄旭熙担心自己没粉丝了",
@@ -4265,14 +4305,6 @@
       "onboard_time": 1708947874,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 279332,
-      "num": 279332,
-      "word": "唐嫣G社生图",
-      "onboard_time": 1709080834,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 279273,
@@ -4547,6 +4579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 257199,
+      "num": 257199,
+      "word": "朴彩英巴黎时装周路透",
+      "onboard_time": 1709082935,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 256191,
       "num": 256191,
       "word": "鹿晗工作室已注册足球第一课商标",
@@ -4595,6 +4635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254554,
+      "num": 254554,
+      "word": "来自星星的你照进现实",
+      "onboard_time": 1709083590,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254351,
       "num": 231639,
       "word": "鹿 我要过马路",
@@ -4617,14 +4665,6 @@
       "onboard_time": 1708866995,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 252840,
-      "num": 252840,
-      "word": "碧桂园在香港被提出清盘呈请",
-      "onboard_time": 1709083290,
-      "rank": 28,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 251722,
@@ -4801,6 +4841,14 @@
       "onboard_time": 1709015854,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 244212,
+      "num": 244212,
+      "word": "五十五岁那年妈妈终于开始断亲",
+      "onboard_time": 1709085393,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243304,
@@ -5091,14 +5139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 228776,
-      "num": 228776,
-      "word": "朴彩英巴黎时装周路透",
-      "onboard_time": 1709082935,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 228363,
       "num": 228363,
       "word": "国家队资金净流入A股逾4100亿",
@@ -5249,6 +5289,14 @@
       "onboard_time": 1708867475,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 220754,
+      "num": 220754,
+      "word": "朋友聘礼三只狗",
+      "onboard_time": 1709084431,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 220428,
@@ -6483,6 +6531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183438,
+      "num": 183438,
+      "word": "种地吧直播",
+      "onboard_time": 1709085512,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183282,
       "num": 183282,
       "word": "电竞全明星新春赛",
@@ -6739,20 +6795,20 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 175971,
-      "num": 175971,
-      "word": "反诈老陈哭了",
-      "onboard_time": 1709083590,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175911,
       "num": 175911,
       "word": "七海建人 你认错老公了",
       "onboard_time": 1708958433,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 175657,
+      "num": 175657,
+      "word": "离职了公司让我把自己的微信留下",
+      "onboard_time": 1709085631,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 175638,
@@ -6809,6 +6865,14 @@
       "onboard_time": 1708943555,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174204,
+      "num": 174204,
+      "word": "眼睛里没揉出来的脏东西都去哪了",
+      "onboard_time": 1709075123,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 173970,
@@ -7219,14 +7283,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 160770,
-      "num": 160770,
-      "word": "眼睛里没揉出来的脏东西都去哪了",
-      "onboard_time": 1709075123,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 160154,
       "num": 150707,
       "word": "面试判官吴镇宇",
@@ -7243,12 +7299,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 159528,
-      "num": 159528,
-      "word": "来自星星的你照进现实",
-      "onboard_time": 1709083590,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 159754,
+      "num": 159754,
+      "word": "她到最后都没说出想爷爷了",
+      "onboard_time": 1709085213,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 158652,
@@ -7561,6 +7617,14 @@
       "onboard_time": 1709000972,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148165,
+      "num": 148165,
+      "word": "拜登回应美国歌手霉霉会为其竞选背书",
+      "onboard_time": 1709085151,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 147702,
@@ -7953,14 +8017,6 @@
       "onboard_time": 1708839996,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136684,
-      "num": 136684,
-      "word": "400名大学生回曹县小镇卖马面裙",
-      "onboard_time": 1709083832,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136109,

@@ -1,7 +1,15 @@
 {
   "startTime": 1709050946453,
-  "endTime": 1709083873444,
+  "endTime": 1709085863441,
   "band_list": [
+    {
+      "raw_hot": 2169549,
+      "num": 2169549,
+      "word": "研究生多到无宿舍可住",
+      "onboard_time": 1709082573,
+      "rank": 49,
+      "category": "教育"
+    },
     {
       "raw_hot": 1349625,
       "num": 1349625,
@@ -27,20 +35,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1262638,
+      "num": 511925,
+      "word": "同事称挖呀挖黄老师已离职",
+      "onboard_time": 1709084552,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1211387,
       "num": 1211387,
       "word": "吃霸王餐的消防队长已被开除",
       "onboard_time": 1709076926,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1202752,
-      "num": 527853,
-      "word": "研究生多到无宿舍可住",
-      "onboard_time": 1709082573,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 882238,
@@ -75,6 +83,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 712826,
+      "num": 712826,
+      "word": "400名大学生回曹县小镇卖马面裙",
+      "onboard_time": 1709083832,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 708830,
       "num": 708830,
       "word": "李湘前夫李厚霖给李亚鹏直播打赏",
@@ -99,6 +115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 664188,
+      "num": 664188,
+      "word": "张颂文谈猎冰争议",
+      "onboard_time": 1709083113,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 635392,
       "num": 635392,
       "word": "容易被癌细胞盯上的7个饮食习惯",
@@ -121,6 +145,14 @@
       "onboard_time": 1709039614,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 567535,
+      "num": 567535,
+      "word": "反诈老陈哭了",
+      "onboard_time": 1709083590,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543315,
@@ -163,12 +195,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 464076,
-      "num": 464076,
-      "word": "张颂文谈猎冰争议",
-      "onboard_time": 1709083113,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 468486,
+      "num": 468486,
+      "word": "碧桂园在香港被提出清盘呈请",
+      "onboard_time": 1709083290,
+      "rank": 28,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 430495,
@@ -267,7 +299,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 279332,
+      "raw_hot": 283781,
       "num": 279332,
       "word": "唐嫣G社生图",
       "onboard_time": 1709080834,
@@ -307,6 +339,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 257199,
+      "num": 257199,
+      "word": "朴彩英巴黎时装周路透",
+      "onboard_time": 1709082935,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 256191,
       "num": 256191,
       "word": "鹿晗工作室已注册足球第一课商标",
@@ -315,12 +355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252840,
-      "num": 252840,
-      "word": "碧桂园在香港被提出清盘呈请",
-      "onboard_time": 1709083290,
-      "rank": 28,
-      "category": "财经,社会新闻"
+      "raw_hot": 254554,
+      "num": 254554,
+      "word": "来自星星的你照进现实",
+      "onboard_time": 1709083590,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 245841,
@@ -329,6 +369,14 @@
       "onboard_time": 1709041952,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 244212,
+      "num": 244212,
+      "word": "五十五岁那年妈妈终于开始断亲",
+      "onboard_time": 1709085393,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234992,
@@ -355,14 +403,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 228776,
-      "num": 228776,
-      "word": "朴彩英巴黎时装周路透",
-      "onboard_time": 1709082935,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 228619,
       "num": 228619,
       "word": "男子与智残女子结婚吃绝户卷走450万",
@@ -377,6 +417,14 @@
       "onboard_time": 1709081974,
       "rank": 32,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 220754,
+      "num": 220754,
+      "word": "朋友聘礼三只狗",
+      "onboard_time": 1709084431,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 218667,
@@ -443,12 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175971,
-      "num": 175971,
-      "word": "反诈老陈哭了",
-      "onboard_time": 1709083590,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 183438,
+      "num": 183438,
+      "word": "种地吧直播",
+      "onboard_time": 1709085512,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175657,
+      "num": 175657,
+      "word": "离职了公司让我把自己的微信留下",
+      "onboard_time": 1709085631,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 174579,
@@ -457,6 +513,14 @@
       "onboard_time": 1709079152,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174204,
+      "num": 174204,
+      "word": "眼睛里没揉出来的脏东西都去哪了",
+      "onboard_time": 1709075123,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 169128,
@@ -483,20 +547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160770,
-      "num": 160770,
-      "word": "眼睛里没揉出来的脏东西都去哪了",
-      "onboard_time": 1709075123,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 159528,
-      "num": 159528,
-      "word": "来自星星的你照进现实",
-      "onboard_time": 1709083590,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 159754,
+      "num": 159754,
+      "word": "她到最后都没说出想爷爷了",
+      "onboard_time": 1709085213,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 152397,
@@ -531,20 +587,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148165,
+      "num": 148165,
+      "word": "拜登回应美国歌手霉霉会为其竞选背书",
+      "onboard_time": 1709085151,
+      "rank": 45,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 143879,
       "num": 143879,
       "word": "暗中偷走气血那些事",
       "onboard_time": 1709040936,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 136684,
-      "num": 136684,
-      "word": "400名大学生回曹县小镇卖马面裙",
-      "onboard_time": 1709083832,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135169,
