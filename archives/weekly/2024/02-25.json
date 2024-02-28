@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709147729602,
+  "endTime": 1709148851995,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -11459,6 +11459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37113,
+      "num": 29838,
+      "word": "小伙撸铁2小时横纹肌溶解了",
+      "onboard_time": 1709146457,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35508,
       "num": 35508,
       "word": "盗版短剧成香饽饽",
@@ -11507,12 +11515,12 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 29838,
-      "num": 29838,
-      "word": "小伙撸铁2小时横纹肌溶解了",
-      "onboard_time": 1709146457,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 31402,
+      "num": 31402,
+      "word": "薛凯琪被张碧晨吵醒",
+      "onboard_time": 1709148257,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 27936,

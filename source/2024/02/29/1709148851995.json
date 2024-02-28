@@ -1,0 +1,410 @@
+{
+  "runTime": 1709148851995,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 115539,
+        "num": 115539,
+        "word": "面包店的浪费现象有多严重",
+        "onboard_time": 1709140822,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112109,
+        "num": 112109,
+        "word": "教育局回应女老师打骂学生",
+        "onboard_time": 1709128295,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7308,
+        "num": 88849,
+        "word": "我国载人航天工程取得4000多项发明专利",
+        "onboard_time": 1709126974,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79006,
+        "num": 79006,
+        "word": "厅长退休后买13套房给子孙",
+        "onboard_time": 1709128474,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58813,
+        "num": 58813,
+        "word": "被指吃绝户男子发声",
+        "onboard_time": 1709126673,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56711,
+        "num": 56711,
+        "word": "艾滋病病毒无法在唾液中存活",
+        "onboard_time": 1709118273,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51835,
+        "num": 51835,
+        "word": "官方通报广东一初中生跳楼自杀",
+        "onboard_time": 1709132974,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50248,
+        "num": 50248,
+        "word": "柳智敏李宰旭一见钟情瞬间",
+        "onboard_time": 1709137107,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43757,
+        "num": 43757,
+        "word": "重庆姐弟坠亡案生母宣布将直播带货",
+        "onboard_time": 1709115872,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43349,
+        "num": 43349,
+        "word": "我国有近1亿人是慢阻肺人群",
+        "onboard_time": 1709129074,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 82839,
+        "num": 42457,
+        "word": "我的性教育来自郭敬明的小说",
+        "onboard_time": 1709132376,
+        "rank": 10,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 48585,
+        "num": 42394,
+        "word": "比特币每枚突破6万美元",
+        "onboard_time": 1709132074,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 46936,
+        "num": 42189,
+        "word": "赵昭仪与素人合照",
+        "onboard_time": 1709144238,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41435,
+        "num": 41435,
+        "word": "人流后支离破碎的子宫",
+        "onboard_time": 1709124510,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 39534,
+        "num": 39534,
+        "word": "迪丽热巴的天使蹲为什么劝你别学",
+        "onboard_time": 1709127395,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36314,
+        "num": 36314,
+        "word": "霍建华 要拍现在拍别跟着我",
+        "onboard_time": 1709126251,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31402,
+        "num": 31402,
+        "word": "薛凯琪被张碧晨吵醒",
+        "onboard_time": 1709148257,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30502,
+        "num": 30502,
+        "word": "孙千陈靖可朋友圈签名",
+        "onboard_time": 1709121274,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29760,
+        "num": 29760,
+        "word": "祁煜 奇遇",
+        "onboard_time": 1709143579,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27010,
+        "num": 27010,
+        "word": "女教师办公室殴打学生",
+        "onboard_time": 1709122294,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37113,
+        "num": 26879,
+        "word": "小伙撸铁2小时横纹肌溶解了",
+        "onboard_time": 1709146457,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31971,
+        "num": 26767,
+        "word": "睡前吃夜宵和饿肚子睡觉哪个危害大",
+        "onboard_time": 1709130878,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28834,
+        "num": 26660,
+        "word": "舅舅让我帮他女儿付学费",
+        "onboard_time": 1709138067,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 26395,
+        "num": 26395,
+        "word": "BTC",
+        "onboard_time": 1709130395,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25692,
+        "num": 25692,
+        "word": "挖呀挖黄老师家人回应被造黄谣",
+        "onboard_time": 1709129013,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23798,
+        "num": 23798,
+        "word": "舒畅红色马面裙",
+        "onboard_time": 1709134893,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22617,
+        "num": 22617,
+        "word": "男朋友寄来的一周年纪念礼物",
+        "onboard_time": 1709140041,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21136,
+        "num": 21136,
+        "word": "亚洲首富之子18个月减重超200斤",
+        "onboard_time": 1709112214,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20261,
+        "num": 20261,
+        "word": "贵州夫妻17年间生下9女1男",
+        "onboard_time": 1709115211,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10803,
+        "num": 20097,
+        "word": "建议启动中小学教师在职学历提升计划",
+        "onboard_time": 1709119590,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 19974,
+        "num": 19974,
+        "word": "原来狗不嫌家贫是因为没富过",
+        "onboard_time": 1709132195,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19511,
+        "num": 19511,
+        "word": "殴打学生女老师被停职",
+        "onboard_time": 1709131715,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19390,
+        "num": 19390,
+        "word": "古希腊掌管teenager的神",
+        "onboard_time": 1709136930,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18929,
+        "num": 18929,
+        "word": "上海一饭堂发生情杀案致2人死亡",
+        "onboard_time": 1709103211,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18611,
+        "num": 18611,
+        "word": "恋爱冷淡期",
+        "onboard_time": 1709133093,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18038,
+        "num": 18038,
+        "word": "挖呀挖黄老师回应被造黄谣称已报警",
+        "onboard_time": 1709135792,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17957,
+        "num": 17957,
+        "word": "宗馥莉哽咽追忆父亲宗庆后",
+        "onboard_time": 1709125592,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16928,
+        "num": 16928,
+        "word": "任嘉伦四年之约",
+        "onboard_time": 1709135730,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16750,
+        "num": 16750,
+        "word": "慢动作鲨鱼夹教程",
+        "onboard_time": 1709139503,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 16484,
+        "num": 16484,
+        "word": "全球发音",
+        "onboard_time": 1709142979,
+        "rank": 39,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 16130,
+        "num": 16130,
+        "word": "陈赫晒妻子女儿背影照",
+        "onboard_time": 1709116776,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15981,
+        "num": 15981,
+        "word": "演员王迅游荆州怒批古城墙刻字行为",
+        "onboard_time": 1709125473,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15635,
+        "num": 15635,
+        "word": "张予曦cos杨玉环",
+        "onboard_time": 1709125953,
+        "rank": 42,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 15553,
+        "num": 15553,
+        "word": "檀健次演技",
+        "onboard_time": 1709134234,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15389,
+        "num": 15389,
+        "word": "爱奇艺去年总营收319亿元",
+        "onboard_time": 1709133334,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 15104,
+        "num": 15104,
+        "word": "烟火人家 乳腺通了泪腺崩了",
+        "onboard_time": 1709121274,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15015,
+        "num": 15015,
+        "word": "蒲熠星 吃饭是我的人类学调查方式",
+        "onboard_time": 1709134234,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14980,
+        "num": 14980,
+        "word": "杨幂8年前就配过功夫熊猫",
+        "onboard_time": 1709124152,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14885,
+        "num": 14885,
+        "word": "网剧唐人街探案2定档",
+        "onboard_time": 1709126612,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13287,
+        "num": 14879,
+        "word": "李洙赫 男狐狸",
+        "onboard_time": 1709132554,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#提高公共服务可及性和均等化水平#"
+    }
+  }
+}
