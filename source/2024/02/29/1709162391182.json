@@ -1,0 +1,410 @@
+{
+  "runTime": 1709162391182,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 693357,
+        "num": 693357,
+        "word": "厅长退休后买13套房给子孙",
+        "onboard_time": 1709128474,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499866,
+        "num": 499866,
+        "word": "面包店的浪费现象有多严重",
+        "onboard_time": 1709140822,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23146,
+        "num": 474781,
+        "word": "我国载人航天工程取得4000多项发明专利",
+        "onboard_time": 1709126974,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472092,
+        "num": 472092,
+        "word": "教育局回应女老师打骂学生",
+        "onboard_time": 1709128295,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302205,
+        "num": 302205,
+        "word": "专家建议给部分70后80后养老金补偿",
+        "onboard_time": 1709157495,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298088,
+        "num": 298088,
+        "word": "专家预测未来三年国内车价或降30%",
+        "onboard_time": 1709152935,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 287997,
+        "num": 287997,
+        "word": "官方通报广东一初中生跳楼自杀",
+        "onboard_time": 1709132974,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275546,
+        "num": 275546,
+        "word": "被指吃绝户男子发声",
+        "onboard_time": 1709126673,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204263,
+        "num": 204263,
+        "word": "迪丽热巴的天使蹲为什么劝你别学",
+        "onboard_time": 1709127395,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182311,
+        "num": 182311,
+        "word": "亚洲首富之子18个月减重超200斤",
+        "onboard_time": 1709112214,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320705,
+        "num": 182076,
+        "word": "我的性教育来自郭敬明的小说",
+        "onboard_time": 1709132376,
+        "rank": 10,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 257091,
+        "num": 181697,
+        "word": "好友改名文件传输助手当事人回应",
+        "onboard_time": 1709154018,
+        "rank": 11,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 180488,
+        "num": 180488,
+        "word": "霍建华 要拍现在拍别跟着我",
+        "onboard_time": 1709126251,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169211,
+        "num": 169211,
+        "word": "曝朱婷与科内利亚诺达成协议",
+        "onboard_time": 1709152996,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162064,
+        "num": 162064,
+        "word": "人流后支离破碎的子宫",
+        "onboard_time": 1709124510,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130904,
+        "num": 130904,
+        "word": "挖呀挖黄老师家人回应被造黄谣",
+        "onboard_time": 1709129013,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125046,
+        "num": 125046,
+        "word": "抖音火花bug",
+        "onboard_time": 1709162064,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113824,
+        "num": 113824,
+        "word": "我国有近1亿人是慢阻肺人群",
+        "onboard_time": 1709129074,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110196,
+        "num": 110196,
+        "word": "重庆姐弟坠亡案生母宣布将直播带货",
+        "onboard_time": 1709115872,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105114,
+        "num": 105114,
+        "word": "柳智敏李宰旭一见钟情瞬间",
+        "onboard_time": 1709137107,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169671,
+        "num": 102705,
+        "word": "小伙撸铁2小时横纹肌溶解了",
+        "onboard_time": 1709146457,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140676,
+        "num": 100536,
+        "word": "舅舅让我帮他女儿付学费",
+        "onboard_time": 1709138067,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 115197,
+        "num": 99838,
+        "word": "睡前吃夜宵和饿肚子睡觉哪个危害大",
+        "onboard_time": 1709130878,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97953,
+        "num": 97953,
+        "word": "演员王迅游荆州怒批古城墙刻字行为",
+        "onboard_time": 1709125473,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93828,
+        "num": 93828,
+        "word": "原来狗不嫌家贫是因为没富过",
+        "onboard_time": 1709132195,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92637,
+        "num": 92637,
+        "word": "艾滋病病毒无法在唾液中存活",
+        "onboard_time": 1709118273,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84760,
+        "num": 84760,
+        "word": "任嘉伦四年之约",
+        "onboard_time": 1709135730,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83350,
+        "num": 83350,
+        "word": "孙千陈靖可朋友圈签名",
+        "onboard_time": 1709121274,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81671,
+        "num": 81671,
+        "word": "杨天真偶遇宋佳马思纯",
+        "onboard_time": 1709160322,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79026,
+        "num": 79026,
+        "word": "一条plog告别二月",
+        "onboard_time": 1709161884,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72283,
+        "num": 72283,
+        "word": "女教师办公室殴打学生",
+        "onboard_time": 1709122294,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69546,
+        "num": 69546,
+        "word": "男朋友寄来的一周年纪念礼物",
+        "onboard_time": 1709140041,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69461,
+        "num": 69461,
+        "word": "贵州夫妻17年间生下9女1男",
+        "onboard_time": 1709115211,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65033,
+        "num": 65033,
+        "word": "网球王子 不二周助",
+        "onboard_time": 1709162305,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 63547,
+        "num": 63547,
+        "word": "烟火人家 乳腺通了泪腺崩了",
+        "onboard_time": 1709121274,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59378,
+        "num": 59378,
+        "word": "比特币每枚突破6万美元",
+        "onboard_time": 1709132074,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 59055,
+        "num": 59055,
+        "word": "摆烂太久天赋会被收走的",
+        "onboard_time": 1709162305,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58364,
+        "num": 58364,
+        "word": "陈赫晒妻子女儿背影照",
+        "onboard_time": 1709116776,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56741,
+        "num": 56741,
+        "word": "上海一饭堂发生情杀案致2人死亡",
+        "onboard_time": 1709103211,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54999,
+        "num": 54999,
+        "word": "维生素真的不要随便补",
+        "onboard_time": 1709162305,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 53857,
+        "num": 53857,
+        "word": "宗馥莉哽咽追忆父亲宗庆后",
+        "onboard_time": 1709125592,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49876,
+        "num": 49876,
+        "word": "建议启动中小学教师在职学历提升计划",
+        "onboard_time": 1709119590,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 48407,
+        "num": 48407,
+        "word": "杨幂8年前就配过功夫熊猫",
+        "onboard_time": 1709124152,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47988,
+        "num": 47988,
+        "word": "诺丁汉森林0比1曼联",
+        "onboard_time": 1709161703,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47980,
+        "num": 47980,
+        "word": "檀健次演技",
+        "onboard_time": 1709134234,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47162,
+        "num": 47162,
+        "word": "李洙赫 男狐狸",
+        "onboard_time": 1709132554,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45758,
+        "num": 45758,
+        "word": "豆瓣崩了",
+        "onboard_time": 1709162185,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 44574,
+        "num": 44574,
+        "word": "舒畅红色马面裙",
+        "onboard_time": 1709134893,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43180,
+        "num": 43180,
+        "word": "魔卡少女樱 桃矢哥哥",
+        "onboard_time": 1709162364,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 43163,
+        "num": 43163,
+        "word": "蒲熠星 吃饭是我的人类学调查方式",
+        "onboard_time": 1709134234,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同塞拉利昂总统会谈#"
+    }
+  }
+}
