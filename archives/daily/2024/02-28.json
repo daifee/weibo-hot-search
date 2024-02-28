@@ -1,6 +1,6 @@
 {
   "startTime": 1709050946453,
-  "endTime": 1709112849657,
+  "endTime": 1709115598465,
   "band_list": [
     {
       "raw_hot": 2515665,
@@ -65,6 +65,14 @@
       "onboard_time": 1709088871,
       "rank": 3,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 1667987,
+      "num": 1667987,
+      "word": "亚洲首富之子18个月减重超200斤",
+      "onboard_time": 1709112214,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1534253,
@@ -171,6 +179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1037575,
+      "num": 1037575,
+      "word": "被时代淘汰的水果",
+      "onboard_time": 1709110471,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 950591,
       "num": 950591,
       "word": "花少团支持胡先煦新剧",
@@ -275,6 +291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 782249,
+      "num": 782249,
+      "word": "热心市民魏大勋",
+      "onboard_time": 1709112814,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 778358,
       "num": 778358,
       "word": "一个县城妈妈不相信天生坏种",
@@ -313,6 +337,14 @@
       "onboard_time": 1709077951,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 732388,
+      "num": 732388,
+      "word": "智联招聘崩了",
+      "onboard_time": 1709113711,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 725538,
@@ -441,6 +473,14 @@
       "onboard_time": 1709039614,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 543410,
+      "num": 543410,
+      "word": "张杰武汉演唱会又取消了",
+      "onboard_time": 1709112214,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 543315,
@@ -587,6 +627,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 469377,
+      "num": 469377,
+      "word": "为什么汉堡王没火起来",
+      "onboard_time": 1709112575,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 468486,
       "num": 468486,
       "word": "碧桂园在香港被提出清盘呈请",
@@ -619,6 +667,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 446178,
+      "num": 446178,
+      "word": "雷军称苹果用户买小米汽车是最好选择",
+      "onboard_time": 1709113653,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 444158,
       "num": 444158,
       "word": "沈月头像",
@@ -641,14 +697,6 @@
       "onboard_time": 1709077529,
       "rank": 15,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 421491,
-      "num": 421491,
-      "word": "被时代淘汰的水果",
-      "onboard_time": 1709110471,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 413706,
@@ -763,6 +811,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 338011,
+      "num": 259058,
+      "word": "长期吃这些东西可缓解肥胖",
+      "onboard_time": 1709115153,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 331497,
       "num": 331497,
       "word": "夏之光光头",
@@ -793,6 +849,22 @@
       "onboard_time": 1709079992,
       "rank": 23,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 323943,
+      "num": 323943,
+      "word": "贵州通报女企业家被批捕事件",
+      "onboard_time": 1709113596,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323160,
+      "num": 323160,
+      "word": "林一周也 北体北电颜值高山",
+      "onboard_time": 1709114073,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 322870,
@@ -923,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275353,
+      "num": 731676,
+      "word": "女子晒出婆婆20年前织的费尔岛毛衣",
+      "onboard_time": 1709113835,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274633,
       "num": 274633,
       "word": "外媒发布自焚美军遗言",
@@ -1001,6 +1081,14 @@
       "onboard_time": 1709103691,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257552,
+      "num": 257552,
+      "word": "贵州夫妻17年间生下9女1男",
+      "onboard_time": 1709115211,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257310,
@@ -1091,6 +1179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 242081,
+      "num": 242081,
+      "word": "找工作",
+      "onboard_time": 1709114852,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 240456,
       "num": 240456,
       "word": "拜登回应美国歌手霉霉会为其竞选背书",
@@ -1105,22 +1201,6 @@
       "onboard_time": 1709100213,
       "rank": 25,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 239077,
-      "num": 239077,
-      "word": "亚洲首富之子18个月减重超200斤",
-      "onboard_time": 1709112214,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236865,
-      "num": 236865,
-      "word": "张杰武汉演唱会又取消了",
-      "onboard_time": 1709112214,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 235870,
@@ -1155,20 +1235,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 231499,
+      "num": 231499,
+      "word": "迪丽热巴金色眼妆",
+      "onboard_time": 1709112335,
+      "rank": 32,
+      "category": "综艺,作品衍生"
+    },
+    {
       "raw_hot": 230585,
       "num": 230585,
       "word": "春天排毒减肚子",
       "onboard_time": 1709080230,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 230394,
-      "num": 230394,
-      "word": "热心市民魏大勋",
-      "onboard_time": 1709112814,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 230153,
@@ -1347,20 +1427,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 201761,
-      "num": 201761,
-      "word": "迪丽热巴金色眼妆",
-      "onboard_time": 1709112335,
-      "rank": 32,
-      "category": "综艺,作品衍生"
-    },
-    {
       "raw_hot": 198950,
       "num": 198950,
       "word": "模仿暮光之城",
       "onboard_time": 1709086172,
       "rank": 34,
       "category": "幽默,作品衍生"
+    },
+    {
+      "raw_hot": 198826,
+      "num": 198826,
+      "word": "张若昀你怎么什么都往外说",
+      "onboard_time": 1709114073,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 198734,
@@ -1819,14 +1899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145498,
-      "num": 145498,
-      "word": "为什么汉堡王没火起来",
-      "onboard_time": 1709112575,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 145465,
       "num": 145465,
       "word": "长相很凶的狗狗没人和它玩",
@@ -1859,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142440,
+      "num": 142440,
+      "word": "GAI 我的颜还不够美么",
+      "onboard_time": 1709114373,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 142421,
       "num": 142421,
       "word": "1分钟了解艾滋病",
@@ -1881,6 +1961,14 @@
       "onboard_time": 1709105492,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 138406,
+      "num": 138406,
+      "word": "这完全是大侦探的经典味道",
+      "onboard_time": 1709115454,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 135169,
@@ -1929,6 +2017,14 @@
       "onboard_time": 1709034995,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128620,
+      "num": 128620,
+      "word": "榜上无名不是脚下无路",
+      "onboard_time": 1709115511,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 127278,
@@ -2131,6 +2227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83411,
+      "num": 731746,
+      "word": "退役搜救犬跳车狂奔扑向训导员",
+      "onboard_time": 1709113835,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83305,
       "num": 83305,
       "word": "肖战看秀待遇",
@@ -2163,6 +2267,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 74964,
+      "num": 352618,
+      "word": "电比油低汉唐杀疯了",
+      "onboard_time": 1709113051,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 72256,
       "num": 78577,
       "word": "全智贤被要求出示就业证明",
@@ -2171,20 +2283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71956,
+      "num": 231613,
+      "word": "欧洲街头的中国面孔",
+      "onboard_time": 1709114974,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 69910,
+      "num": 1258902,
+      "word": "中国建成航天领域首个大科学装置",
+      "onboard_time": 1709111973,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68050,
       "num": 143238,
       "word": "每个孩子都该掌握的安全指南",
       "onboard_time": 1709102732,
       "rank": 44,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 65431,
-      "num": 1258902,
-      "word": "中国建成航天领域首个大科学装置",
-      "onboard_time": 1709111973,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62520,
@@ -2259,6 +2379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 22224,
+      "num": 1052519,
+      "word": "e法e同行 京彩新征程",
+      "onboard_time": 1709114434,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19801,
       "num": 19801,
       "word": "我迟迟不翻开书的原因",
@@ -2292,6 +2420,9 @@
     },
     {
       "word": "#提高公共服务可及性和均等化水平#"
+    },
+    {
+      "word": "#总体国家安全观的5个基本要求#"
     }
   ]
 }
