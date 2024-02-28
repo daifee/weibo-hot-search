@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1709105636399,
+  "endTime": 1709108470185,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2643,6 +2643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1921292,
+      "num": 1921292,
+      "word": "农村出现严重空心化现象",
+      "onboard_time": 1709104955,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1919367,
       "num": 1919367,
       "word": "盗摄元年",
@@ -3264,6 +3272,14 @@
       "word": "男婴出生第2天脑梗死父亲一夜白头",
       "onboard_time": 1706782532,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1706636,
+      "num": 999986,
+      "word": "上海一饭堂发生情杀案致2人死亡",
+      "onboard_time": 1709103211,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -10843,14 +10859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 807374,
-      "num": 807374,
-      "word": "上海一饭堂发生情杀案致2人死亡",
-      "onboard_time": 1709103211,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 806894,
       "num": 630935,
       "word": "字节红包 减半",
@@ -13011,6 +13019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 710800,
+      "num": 710800,
+      "word": "甜馨cos初音未来",
+      "onboard_time": 1709103932,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 710230,
       "num": 710230,
       "word": "2.2亿元彩票大奖得主无须缴纳个人所得税",
@@ -13979,6 +13995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 672493,
+      "num": 672493,
+      "word": "贡菜就是晒干的莴笋",
+      "onboard_time": 1709105795,
+      "rank": 7,
+      "category": "美食"
+    },
+    {
       "raw_hot": 671703,
       "num": 600705,
       "word": "春晚还得是冯巩",
@@ -14081,14 +14105,6 @@
       "onboard_time": 1707014370,
       "rank": 6,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 669761,
-      "num": 669761,
-      "word": "甜馨cos初音未来",
-      "onboard_time": 1709103932,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 668991,
@@ -16193,6 +16209,14 @@
       "onboard_time": 1706977709,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 601005,
+      "num": 601005,
+      "word": "比亚迪新车",
+      "onboard_time": 1709090191,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 600352,
@@ -21523,14 +21547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 466485,
-      "num": 466485,
-      "word": "比亚迪新车",
-      "onboard_time": 1709090191,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 466456,
       "num": 576952,
       "word": "韩国与古巴建立外交关系",
@@ -21729,6 +21745,14 @@
       "onboard_time": 1707015450,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 459525,
+      "num": 459525,
+      "word": "化妆的尽头是素妆",
+      "onboard_time": 1709105314,
+      "rank": 36,
+      "category": "美妆"
     },
     {
       "raw_hot": 459372,
@@ -22121,6 +22145,14 @@
       "onboard_time": 1707365371,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 447378,
+      "num": 447378,
+      "word": "比亚迪发布会",
+      "onboard_time": 1709105374,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 447365,
@@ -27195,6 +27227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 360135,
+      "num": 360135,
+      "word": "海关查获人体组织制品玩具",
+      "onboard_time": 1709105314,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360019,
       "num": 360019,
       "word": "魅族转型AI停止传统手机项目",
@@ -29171,6 +29211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 327541,
+      "num": 327541,
+      "word": "猫 帮忙啊",
+      "onboard_time": 1709104114,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 327363,
       "num": 327363,
       "word": "宁采臣澄清粉丝掉下横店悬崖事件",
@@ -29905,6 +29953,14 @@
       "onboard_time": 1707913237,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317483,
+      "num": 317483,
+      "word": "瘦不下来可能是代谢受损了",
+      "onboard_time": 1709105913,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 317463,
@@ -32321,6 +32377,14 @@
       "onboard_time": 1707719014,
       "rank": 22,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 291781,
+      "num": 209085,
+      "word": "RA管理层怒喷教练",
+      "onboard_time": 1709107356,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 291779,
@@ -35155,14 +35219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266324,
-      "num": 266324,
-      "word": "猫 帮忙啊",
-      "onboard_time": 1709104114,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 266177,
       "num": 266177,
       "word": "成都地铁18号线",
@@ -35633,14 +35689,6 @@
       "onboard_time": 1706858791,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 261290,
-      "num": 261290,
-      "word": "农村出现严重空心化现象",
-      "onboard_time": 1709104955,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261082,
@@ -38043,6 +38091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243585,
+      "num": 243585,
+      "word": "中方就乌克兰危机开展第二轮穿梭外交",
+      "onboard_time": 1709106813,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 243556,
       "num": 243556,
       "word": "官方通报贵州山火",
@@ -40299,6 +40355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228970,
+      "num": 205195,
+      "word": "相亲第三天就领证了",
+      "onboard_time": 1709108196,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228919,
       "num": 252987,
       "word": "染发烫发直发哪个更伤身",
@@ -41665,6 +41729,14 @@
       "onboard_time": 1708867475,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 221023,
+      "num": 203792,
+      "word": "阴阳师初音未来建模",
+      "onboard_time": 1709108374,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 220999,
@@ -46787,6 +46859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199428,
+      "num": 199428,
+      "word": "超50地发文提醒爆款游戏诈骗陷阱",
+      "onboard_time": 1709108374,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199383,
       "num": 279393,
       "word": "张雪峰 我怎么那么格格不入",
@@ -48985,14 +49065,6 @@
       "onboard_time": 1708776395,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192082,
-      "num": 192082,
-      "word": "化妆的尽头是素妆",
-      "onboard_time": 1709105314,
-      "rank": 36,
-      "category": "美妆"
     },
     {
       "raw_hot": 192066,
@@ -51955,6 +52027,14 @@
       "category": "美食,作品衍生"
     },
     {
+      "raw_hot": 181003,
+      "num": 181003,
+      "word": "A股单日成交额超1.3万亿",
+      "onboard_time": 1709105971,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 180963,
       "num": 180963,
       "word": "中国香港队退出电竞版足球亚洲杯",
@@ -51969,6 +52049,14 @@
       "onboard_time": 1708573779,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180885,
+      "num": 180885,
+      "word": "XYG全是猝死团",
+      "onboard_time": 1709107652,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 180757,
@@ -53337,6 +53425,14 @@
       "onboard_time": 1708604737,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175759,
+      "num": 175759,
+      "word": "XYG被零封",
+      "onboard_time": 1709107773,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 175751,
@@ -56067,14 +56163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166189,
-      "num": 166189,
-      "word": "海关查获人体组织制品玩具",
-      "onboard_time": 1709105314,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166175,
       "num": 166175,
       "word": "晒汤圆祝团圆",
@@ -56635,6 +56723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164072,
+      "num": 164072,
+      "word": "百年孤独作者遗作问世",
+      "onboard_time": 1709105553,
+      "rank": 47,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 164040,
       "num": 164040,
       "word": "英伟达财报",
@@ -56825,6 +56921,14 @@
       "onboard_time": 1706745207,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163305,
+      "num": 163305,
+      "word": "王震是唐艺昕的笑点开关",
+      "onboard_time": 1709106634,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 163267,
@@ -57353,6 +57457,14 @@
       "onboard_time": 1708571313,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 161313,
+      "num": 161313,
+      "word": "RA官宣Shine离队",
+      "onboard_time": 1709107050,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 161312,
@@ -58379,6 +58491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157538,
+      "num": 157538,
+      "word": "蛋仔派对低龄用户成诈骗特定目标",
+      "onboard_time": 1709108434,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157520,
       "num": 157520,
       "word": "男篮亚预赛",
@@ -59387,6 +59507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153520,
+      "num": 153520,
+      "word": "TES连续三大场零封",
+      "onboard_time": 1709107954,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153495,
       "num": 153495,
       "word": "刘谦春晚 华丽的数学秀",
@@ -60049,14 +60177,6 @@
       "onboard_time": 1707040227,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151148,
-      "num": 151148,
-      "word": "比亚迪发布会",
-      "onboard_time": 1709105374,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 151136,
@@ -63075,6 +63195,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 140060,
+      "num": 140060,
+      "word": "广州一工地塌方2名施工人员遇难",
+      "onboard_time": 1709105913,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139974,
       "num": 139974,
       "word": "林亦扬殷果新人上门",
@@ -65265,14 +65393,6 @@
       "onboard_time": 1706787511,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 131894,
-      "num": 131894,
-      "word": "百年孤独作者遗作问世",
-      "onboard_time": 1709105553,
-      "rank": 47,
-      "category": "读书作家"
     },
     {
       "raw_hot": 131779,
@@ -75961,6 +76081,14 @@
       "onboard_time": 1706812097,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 24019,
+      "num": 181736,
+      "word": "谁说比亚迪汉唐不懂燃油车",
+      "onboard_time": 1709108011,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 23970,
