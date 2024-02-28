@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709098441783,
+  "endTime": 1709101320448,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -337,6 +337,14 @@
       "onboard_time": 1708834596,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1783091,
+      "num": 1783091,
+      "word": "微信不能改名文件传输助手",
+      "onboard_time": 1709097693,
+      "rank": 20,
+      "category": "互联网,科学科普"
     },
     {
       "raw_hot": 1775278,
@@ -1763,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 702227,
+      "num": 685433,
+      "word": "碧桂园",
+      "onboard_time": 1709096554,
+      "rank": 21,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 699657,
       "num": 699657,
       "word": "母亲将唯一银镯打成首饰送2个女儿",
@@ -1817,14 +1833,6 @@
       "onboard_time": 1708915414,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 685433,
-      "num": 685433,
-      "word": "碧桂园",
-      "onboard_time": 1709096554,
-      "rank": 21,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 682870,
@@ -2755,6 +2763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 494322,
+      "num": 472640,
+      "word": "HIV预防性疫苗研发全军覆没",
+      "onboard_time": 1709098833,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 494287,
       "num": 494287,
       "word": "医院筹建7年未开业却已聘515人",
@@ -2795,12 +2811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492105,
+      "num": 492105,
+      "word": "孙千曾被问与陈靖可真的在一起了吗",
+      "onboard_time": 1709097633,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 491700,
       "num": 642555,
       "word": "暗中偷走气血那些事",
       "onboard_time": 1709040936,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 490733,
+      "num": 490733,
+      "word": "雷军评苹果取消造车",
+      "onboard_time": 1709096793,
+      "rank": 25,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 490619,
@@ -3003,6 +3035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 465680,
+      "num": 465680,
+      "word": "艾滋病已是可防可控可治的慢性病",
+      "onboard_time": 1709097811,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 461425,
       "num": 461425,
       "word": "为什么饮料瓶底都是五瓣花的形状",
@@ -3067,12 +3107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 443349,
-      "num": 443349,
-      "word": "雷军评苹果取消造车",
-      "onboard_time": 1709096793,
-      "rank": 25,
-      "category": "财经,汽车"
+      "raw_hot": 444158,
+      "num": 444158,
+      "word": "沈月头像",
+      "onboard_time": 1709097096,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 442329,
@@ -3177,14 +3217,6 @@
       "onboard_time": 1709077529,
       "rank": 15,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 426649,
-      "num": 426649,
-      "word": "沈月头像",
-      "onboard_time": 1709097096,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 426168,
@@ -3315,6 +3347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414634,
+      "num": 414634,
+      "word": "赵继伟朋友圈",
+      "onboard_time": 1709098949,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 414402,
       "num": 414402,
       "word": "胡明轩太行了",
@@ -3432,6 +3472,14 @@
       "word": "石家庄巨响",
       "onboard_time": 1709017173,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404020,
+      "num": 404020,
+      "word": "2岁宝宝已穿1年小腿假肢",
+      "onboard_time": 1709099549,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -3577,6 +3625,14 @@
       "onboard_time": 1708942774,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 379913,
+      "num": 379913,
+      "word": "女子欲买小体比熊不料狗狗飙长变熊大",
+      "onboard_time": 1709099790,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379265,
@@ -3747,14 +3803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 360859,
-      "num": 360859,
-      "word": "微信不能改名文件传输助手",
-      "onboard_time": 1709097693,
-      "rank": 20,
-      "category": "互联网,科学科普"
-    },
-    {
       "raw_hot": 360481,
       "num": 283946,
       "word": "4个汤圆热量相当于一碗米饭",
@@ -3769,6 +3817,14 @@
       "onboard_time": 1709000675,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 359640,
+      "num": 359640,
+      "word": "云南失联两兄弟遗体被找到",
+      "onboard_time": 1709100151,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357360,
@@ -3875,14 +3931,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 343343,
-      "num": 343343,
-      "word": "孙千曾被问与陈靖可真的在一起了吗",
-      "onboard_time": 1709097633,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 342770,
       "num": 342770,
       "word": "孙颖莎说眼泪是捍卫荣耀的泪",
@@ -3977,6 +4025,14 @@
       "onboard_time": 1708860215,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 328901,
+      "num": 328901,
+      "word": "上海回应发生一起情杀案致2人死亡",
+      "onboard_time": 1709099853,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327363,
@@ -5075,6 +5131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 250624,
+      "num": 250624,
+      "word": "库迪咖啡全场9.9不限量",
+      "onboard_time": 1709097993,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 250265,
       "num": 250265,
       "word": "被迪丽热巴小卡支配的一生",
@@ -5329,6 +5393,14 @@
       "onboard_time": 1708820367,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 239220,
+      "num": 239220,
+      "word": "孙怡千金妆",
+      "onboard_time": 1709100213,
+      "rank": 25,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 238647,
@@ -5603,14 +5675,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 223989,
-      "num": 223989,
-      "word": "艾滋病已是可防可控可治的慢性病",
-      "onboard_time": 1709097811,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 223740,
       "num": 223740,
       "word": "董宇辉在东方甄选有多大自由度",
@@ -5795,6 +5859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 216923,
+      "num": 216923,
+      "word": "娃哈哈总部门口摆满娃哈哈",
+      "onboard_time": 1709100330,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216846,
       "num": 216846,
       "word": "华为发布全球首个5.5G智能核心网",
@@ -5913,6 +5985,14 @@
       "onboard_time": 1708990827,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214250,
+      "num": 214250,
+      "word": "考研就是逃避就业吗",
+      "onboard_time": 1709098833,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 214221,
@@ -6291,14 +6371,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 200959,
-      "num": 200959,
-      "word": "库迪咖啡全场9.9不限量",
-      "onboard_time": 1709097993,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 200848,
       "num": 200848,
       "word": "金书贤金牌",
@@ -6475,6 +6547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197247,
+      "num": 197247,
+      "word": "小洋睡不着",
+      "onboard_time": 1709098293,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 197216,
       "num": 193602,
       "word": "一直娱 ENHYPEN",
@@ -6489,6 +6569,14 @@
       "onboard_time": 1708846411,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196867,
+      "num": 196867,
+      "word": "陈奕迅南京",
+      "onboard_time": 1709098473,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 196441,
@@ -7115,6 +7203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182575,
+      "num": 182575,
+      "word": "减肥神药司美格鲁肽滥用者",
+      "onboard_time": 1709100574,
+      "rank": 35,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 182320,
       "num": 182320,
       "word": "烟火人家亲家变仇家",
@@ -7595,6 +7691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169107,
+      "num": 169107,
+      "word": "A股成交半日放量3611亿",
+      "onboard_time": 1709098713,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 169053,
       "num": 169053,
       "word": "粉笔模考",
@@ -7609,6 +7713,14 @@
       "onboard_time": 1708835318,
       "rank": 41,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 168677,
+      "num": 168677,
+      "word": "黄嘉千称夏天被夏克立家暴",
+      "onboard_time": 1709101171,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 168589,
@@ -7665,6 +7777,14 @@
       "onboard_time": 1708855836,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166917,
+      "num": 166917,
+      "word": "开始推理吧",
+      "onboard_time": 1709099074,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 166873,
@@ -7921,6 +8041,14 @@
       "onboard_time": 1708929875,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158594,
+      "num": 158594,
+      "word": "女子带宠物看病被高压氧舱砸伤头部",
+      "onboard_time": 1709100632,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158553,
@@ -8643,14 +8771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136374,
-      "num": 136374,
-      "word": "小洋睡不着",
-      "onboard_time": 1709098293,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 136109,
       "num": 136109,
       "word": "李健的元宵节限定曲目好应景",
@@ -9169,6 +9289,14 @@
       "onboard_time": 1708947812,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114179,
+      "num": 114179,
+      "word": "北京房山大熊猫基地计划引入大熊猫50只",
+      "onboard_time": 1709100992,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113950,
