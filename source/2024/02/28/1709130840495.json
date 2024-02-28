@@ -1,0 +1,410 @@
+{
+  "runTime": 1709130840495,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2011589,
+        "num": 2011589,
+        "word": "厅长退休后买13套房给子孙",
+        "onboard_time": 1709128474,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1538728,
+        "num": 1538728,
+        "word": "霍建华 要拍现在拍别跟着我",
+        "onboard_time": 1709126251,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237447,
+        "num": 1325951,
+        "word": "我国海上巨无霸已安装就位",
+        "onboard_time": 1709127395,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1253816,
+        "num": 1253816,
+        "word": "教育局回应女老师打骂学生",
+        "onboard_time": 1709128295,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999093,
+        "num": 999093,
+        "word": "演员王迅游荆州怒批古城墙刻字行为",
+        "onboard_time": 1709125473,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 796996,
+        "num": 796996,
+        "word": "被指吃绝户男子发声",
+        "onboard_time": 1709126673,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742851,
+        "num": 742851,
+        "word": "艾滋病病毒无法在唾液中存活",
+        "onboard_time": 1709118273,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 703246,
+        "num": 703246,
+        "word": "挖呀挖黄老师家人回应被造黄谣",
+        "onboard_time": 1709129013,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642684,
+        "num": 642684,
+        "word": "孙千陈靖可朋友圈签名",
+        "onboard_time": 1709121274,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236310,
+        "num": 641528,
+        "word": "建议启动中小学教师在职学历提升计划",
+        "onboard_time": 1709119590,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1402994,
+        "num": 624319,
+        "word": "女教师办公室殴打学生",
+        "onboard_time": 1709122294,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35202,
+        "num": 616028,
+        "word": "雅迪方舟智控的安全感",
+        "onboard_time": 1709127815,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 702680,
+        "num": 604690,
+        "word": "人流后支离破碎的子宫",
+        "onboard_time": 1709124510,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 602719,
+        "num": 602719,
+        "word": "网剧唐人街探案2定档",
+        "onboard_time": 1709126612,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 569142,
+        "num": 569142,
+        "word": "宗馥莉哽咽追忆父亲宗庆后",
+        "onboard_time": 1709125592,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 532109,
+        "num": 532109,
+        "word": "张予曦cos杨玉环",
+        "onboard_time": 1709125953,
+        "rank": 15,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 523392,
+        "num": 523392,
+        "word": "迪丽热巴的天使蹲为什么劝你别学",
+        "onboard_time": 1709127395,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511901,
+        "num": 511901,
+        "word": "见男朋友父母是需要考察一下的",
+        "onboard_time": 1709124510,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 478711,
+        "num": 478711,
+        "word": "重庆姐弟坠亡案生母宣布将直播带货",
+        "onboard_time": 1709115872,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366936,
+        "num": 366936,
+        "word": "HYBE追加收购SM股份",
+        "onboard_time": 1709130216,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365294,
+        "num": 365294,
+        "word": "贵州夫妻17年间生下9女1男",
+        "onboard_time": 1709115211,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329144,
+        "num": 329144,
+        "word": "王俊凯新加坡登上全球发音",
+        "onboard_time": 1709124932,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290007,
+        "num": 290007,
+        "word": "我国有近1亿人是慢阻肺人群",
+        "onboard_time": 1709129074,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 278925,
+        "num": 278925,
+        "word": "开始推理吧2",
+        "onboard_time": 1709129798,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276480,
+        "num": 276480,
+        "word": "杨幂8年前就配过功夫熊猫",
+        "onboard_time": 1709124152,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261837,
+        "num": 261837,
+        "word": "眼镜爆膜就别再戴了",
+        "onboard_time": 1709125053,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 260427,
+        "num": 260427,
+        "word": "烟火人家 乳腺通了泪腺崩了",
+        "onboard_time": 1709121274,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248992,
+        "num": 248992,
+        "word": "亚洲首富之子18个月减重超200斤",
+        "onboard_time": 1709112214,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227093,
+        "num": 227093,
+        "word": "姜广涛直播",
+        "onboard_time": 1709125053,
+        "rank": 28,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 130840,
+        "num": 224593,
+        "word": "日本已擅自排海超2.3万吨核污染水",
+        "onboard_time": 1709126493,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 222940,
+        "num": 222940,
+        "word": "被时代淘汰的水果",
+        "onboard_time": 1709110471,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222478,
+        "num": 222478,
+        "word": "魏大勋 看熟人演戏的尴尬",
+        "onboard_time": 1709121811,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220727,
+        "num": 220727,
+        "word": "上海一饭堂发生情杀案致2人死亡",
+        "onboard_time": 1709103211,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204340,
+        "num": 204340,
+        "word": "长期吃这些东西可缓解肥胖",
+        "onboard_time": 1709115153,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192294,
+        "num": 192294,
+        "word": "肠癌来临时上厕所会出现4个异常",
+        "onboard_time": 1709092831,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181948,
+        "num": 181948,
+        "word": "陈赫晒妻子女儿背影照",
+        "onboard_time": 1709116776,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172850,
+        "num": 172850,
+        "word": "永安梦",
+        "onboard_time": 1709130575,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168098,
+        "num": 168098,
+        "word": "凤凰传奇演唱会预约人数",
+        "onboard_time": 1709118451,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168067,
+        "num": 168067,
+        "word": "为什么汉堡王没火起来",
+        "onboard_time": 1709112575,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164419,
+        "num": 164419,
+        "word": "当我得知弟弟考研成绩那一刻",
+        "onboard_time": 1709125592,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149509,
+        "num": 149509,
+        "word": "新型婚姻模式你能接受吗",
+        "onboard_time": 1709125353,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147092,
+        "num": 147092,
+        "word": "王者荣耀",
+        "onboard_time": 1709124932,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141687,
+        "num": 141687,
+        "word": "老公姐 人夫哥",
+        "onboard_time": 1709110294,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133017,
+        "num": 133017,
+        "word": "黄嘉千称夏天被夏克立家暴",
+        "onboard_time": 1709101171,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124060,
+        "num": 124060,
+        "word": "11岁小女孩当战地记者报道现场",
+        "onboard_time": 1709127574,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 119907,
+        "num": 119907,
+        "word": "BTC",
+        "onboard_time": 1709130395,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 132973,
+        "num": 119375,
+        "word": "眼影盘也没想到自己能这么用",
+        "onboard_time": 1709127157,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 114612,
+        "num": 114612,
+        "word": "亲戚脸都绿了",
+        "onboard_time": 1709124873,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113283,
+        "num": 113283,
+        "word": "林俊杰成都二开",
+        "onboard_time": 1709125412,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110594,
+        "num": 110594,
+        "word": "上海一养护院起火致1死3伤",
+        "onboard_time": 1709127272,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总体国家安全观的5个基本要求#"
+    }
+  }
+}

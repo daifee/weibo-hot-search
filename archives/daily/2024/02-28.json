@@ -1,10 +1,10 @@
 {
   "startTime": 1709050946453,
-  "endTime": 1709129729801,
+  "endTime": 1709130840495,
   "band_list": [
     {
       "raw_hot": 3351481,
-      "num": 601038,
+      "num": 624319,
       "word": "女教师办公室殴打学生",
       "onboard_time": 1709122294,
       "rank": 10,
@@ -40,6 +40,14 @@
       "word": "重庆姐弟坠亡案生母宣布将直播带货",
       "onboard_time": 1709115872,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2011589,
+      "num": 2011589,
+      "word": "厅长退休后买13套房给子孙",
+      "onboard_time": 1709128474,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -163,6 +171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1253816,
+      "num": 1253816,
+      "word": "教育局回应女老师打骂学生",
+      "onboard_time": 1709128295,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1233982,
       "num": 1233982,
       "word": "迪丽热巴新高定",
@@ -257,14 +273,6 @@
       "onboard_time": 1709092233,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 941281,
-      "num": 596369,
-      "word": "厅长退休后买13套房给子孙",
-      "onboard_time": 1709128474,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 923816,
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 737834,
-      "num": 593683,
+      "num": 604690,
       "word": "人流后支离破碎的子宫",
       "onboard_time": 1709124510,
       "rank": 10,
@@ -489,6 +497,14 @@
       "onboard_time": 1709057059,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 703246,
+      "num": 703246,
+      "word": "挖呀挖黄老师家人回应被造黄谣",
+      "onboard_time": 1709129013,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 699657,
@@ -561,14 +577,6 @@
       "onboard_time": 1709104114,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 609441,
-      "num": 609441,
-      "word": "教育局回应女老师打骂学生",
-      "onboard_time": 1709128295,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 601847,
@@ -675,6 +683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 532109,
+      "num": 532109,
+      "word": "张予曦cos杨玉环",
+      "onboard_time": 1709125953,
+      "rank": 27,
+      "category": "作品衍生,游戏"
+    },
+    {
       "raw_hot": 530388,
       "num": 530388,
       "word": "HIV预防性疫苗研发全军覆没",
@@ -683,12 +699,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 529171,
-      "num": 529171,
-      "word": "张予曦cos杨玉环",
-      "onboard_time": 1709125953,
-      "rank": 27,
-      "category": "作品衍生,游戏"
+      "raw_hot": 523392,
+      "num": 523392,
+      "word": "迪丽热巴的天使蹲为什么劝你别学",
+      "onboard_time": 1709127395,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 513761,
@@ -979,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366936,
+      "num": 366936,
+      "word": "HYBE追加收购SM股份",
+      "onboard_time": 1709130216,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 364193,
       "num": 364193,
       "word": "喜欢了一个比自己大7岁的姐姐",
@@ -1083,14 +1107,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 324760,
-      "num": 324760,
-      "word": "迪丽热巴的天使蹲为什么劝你别学",
-      "onboard_time": 1709127395,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 323943,
       "num": 323943,
       "word": "贵州通报女企业家被批捕事件",
@@ -1156,7 +1172,7 @@
     },
     {
       "raw_hot": 311587,
-      "num": 606164,
+      "num": 641528,
       "word": "建议启动中小学教师在职学历提升计划",
       "onboard_time": 1709119590,
       "rank": 29,
@@ -1219,6 +1235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 290007,
+      "num": 290007,
+      "word": "我国有近1亿人是慢阻肺人群",
+      "onboard_time": 1709129074,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 286622,
       "num": 286622,
       "word": "祁煜生日卡",
@@ -1275,12 +1299,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 277391,
-      "num": 277391,
-      "word": "挖呀挖黄老师家人回应被造黄谣",
-      "onboard_time": 1709129013,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 278925,
+      "num": 278925,
+      "word": "开始推理吧2",
+      "onboard_time": 1709129798,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 277222,
@@ -1372,7 +1396,7 @@
     },
     {
       "raw_hot": 261935,
-      "num": 963089,
+      "num": 1325951,
       "word": "我国海上巨无霸已安装就位",
       "onboard_time": 1709127395,
       "rank": 2,
@@ -1553,14 +1577,6 @@
       "onboard_time": 1709112335,
       "rank": 32,
       "category": "综艺,作品衍生"
-    },
-    {
-      "raw_hot": 231213,
-      "num": 231213,
-      "word": "我国有近1亿人是慢阻肺人群",
-      "onboard_time": 1709129074,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 230585,
@@ -2025,6 +2041,14 @@
       "onboard_time": 1709079152,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172850,
+      "num": 172850,
+      "word": "永安梦",
+      "onboard_time": 1709130575,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 171987,
@@ -2667,6 +2691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119907,
+      "num": 119907,
+      "word": "BTC",
+      "onboard_time": 1709130395,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 119853,
       "num": 119853,
       "word": "土豆片炒馒头",
@@ -3003,20 +3035,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35202,
+      "num": 616028,
+      "word": "雅迪方舟智控的安全感",
+      "onboard_time": 1709127815,
+      "rank": 10,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 34607,
       "num": 34607,
       "word": "我占有欲的表现 冷眼旁观",
       "onboard_time": 1709055979,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 23780,
-      "num": 605215,
-      "word": "雅迪方舟智控的安全感",
-      "onboard_time": 1709127815,
-      "rank": 10,
-      "category": "汽车"
     },
     {
       "raw_hot": 22224,
