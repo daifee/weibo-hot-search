@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709082611805,
+  "endTime": 1709083873444,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -667,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1202752,
+      "num": 527853,
+      "word": "研究生多到无宿舍可住",
+      "onboard_time": 1709082573,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1181182,
       "num": 1107358,
       "word": "茶刀",
@@ -1083,6 +1091,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 882238,
+      "num": 882238,
+      "word": "黄嘉千称曾被家暴五六次以上",
+      "onboard_time": 1709081376,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 874273,
       "num": 874273,
       "word": "小徐回应考研上岸",
@@ -1419,6 +1435,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 744994,
+      "num": 744994,
+      "word": "全员加速中直播",
+      "onboard_time": 1709081613,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 743048,
       "num": 743048,
       "word": "带状疱疹是最疼的皮肤病之一",
@@ -1552,14 +1576,6 @@
       "word": "李湘前夫李厚霖给李亚鹏直播打赏",
       "onboard_time": 1709057059,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 706785,
-      "num": 706785,
-      "word": "黄嘉千称曾被家暴五六次以上",
-      "onboard_time": 1709081376,
-      "rank": 7,
       "category": "艺人"
     },
     {
@@ -2187,14 +2203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 567693,
-      "num": 567693,
-      "word": "全员加速中直播",
-      "onboard_time": 1709081613,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 566262,
       "num": 566262,
       "word": "山西考研成绩",
@@ -2667,6 +2675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 481320,
+      "num": 481320,
+      "word": "豆豆反转 乐莹最后一击",
+      "onboard_time": 1709081137,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 477442,
       "num": 477442,
       "word": "女生行李箱装满AD钙奶被安检拦下",
@@ -2745,6 +2761,14 @@
       "onboard_time": 1708923518,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 464076,
+      "num": 464076,
+      "word": "张颂文谈猎冰争议",
+      "onboard_time": 1709083113,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 461425,
@@ -3243,6 +3267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 386225,
+      "num": 386225,
+      "word": "宗庆后追思会",
+      "onboard_time": 1709082212,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385643,
       "num": 385643,
       "word": "王楚钦说有你们没在怕",
@@ -3299,14 +3331,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 376623,
-      "num": 376623,
-      "word": "豆豆反转 乐莹最后一击",
-      "onboard_time": 1709081137,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 376560,
       "num": 376560,
       "word": "年轻人猝死可能与熬夜有关",
@@ -3337,6 +3361,14 @@
       "onboard_time": 1708853194,
       "rank": 21,
       "category": "作品衍生,综艺"
+    },
+    {
+      "raw_hot": 371486,
+      "num": 371486,
+      "word": "韩国医生为什么罢工",
+      "onboard_time": 1709081313,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370929,
@@ -3481,14 +3513,6 @@
       "onboard_time": 1709017832,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 353123,
-      "num": 353123,
-      "word": "韩国医生为什么罢工",
-      "onboard_time": 1709081313,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 352581,
@@ -3659,6 +3683,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 325302,
+      "num": 314676,
+      "word": "可算把五险一金弄透了",
+      "onboard_time": 1709079992,
+      "rank": 23,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 323195,
       "num": 323195,
       "word": "8种体检异常不必太担心",
@@ -3801,14 +3833,6 @@
       "onboard_time": 1709010400,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 312826,
-      "num": 312826,
-      "word": "可算把五险一金弄透了",
-      "onboard_time": 1709079992,
-      "rank": 23,
-      "category": "科学科普"
     },
     {
       "raw_hot": 312750,
@@ -4252,7 +4276,7 @@
     },
     {
       "raw_hot": 279273,
-      "num": 232271,
+      "num": 242721,
       "word": "被有钱的i人狠狠震撼了",
       "onboard_time": 1709080115,
       "rank": 30,
@@ -4305,6 +4329,14 @@
       "onboard_time": 1708852234,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 274573,
+      "num": 274573,
+      "word": "她翻垃圾找线索揪出潜伏10年的间谍",
+      "onboard_time": 1709082155,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274421,
@@ -4585,6 +4617,14 @@
       "onboard_time": 1708866995,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252840,
+      "num": 252840,
+      "word": "碧桂园在香港被提出清盘呈请",
+      "onboard_time": 1709083290,
+      "rank": 28,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 251722,
@@ -5051,6 +5091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 228776,
+      "num": 228776,
+      "word": "朴彩英巴黎时装周路透",
+      "onboard_time": 1709082935,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 228363,
       "num": 228363,
       "word": "国家队资金净流入A股逾4100亿",
@@ -5177,6 +5225,14 @@
       "onboard_time": 1708854454,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222034,
+      "num": 216124,
+      "word": "YSL秀场",
+      "onboard_time": 1709081974,
+      "rank": 32,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 221443,
@@ -5331,14 +5387,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 216124,
-      "num": 216124,
-      "word": "YSL秀场",
-      "onboard_time": 1709081974,
-      "rank": 32,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 216114,
       "num": 216114,
       "word": "美英联手8国发表声明支持6G原则",
@@ -5377,6 +5425,14 @@
       "onboard_time": 1709067376,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215059,
+      "num": 215059,
+      "word": "马斯克回应苹果取消造车",
+      "onboard_time": 1709083290,
+      "rank": 33,
+      "category": "互联网,汽车"
     },
     {
       "raw_hot": 214857,
@@ -5745,14 +5801,6 @@
       "onboard_time": 1709003915,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 201230,
-      "num": 201230,
-      "word": "宗庆后追思会",
-      "onboard_time": 1709082212,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200848,
@@ -6691,6 +6739,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 175971,
+      "num": 175971,
+      "word": "反诈老陈哭了",
+      "onboard_time": 1709083590,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175911,
       "num": 175911,
       "word": "七海建人 你认错老公了",
@@ -6705,14 +6761,6 @@
       "onboard_time": 1709029294,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174792,
-      "num": 174792,
-      "word": "她翻垃圾找线索揪出潜伏10年的间谍",
-      "onboard_time": 1709082155,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174774,
@@ -7171,6 +7219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 160770,
+      "num": 160770,
+      "word": "眼睛里没揉出来的脏东西都去哪了",
+      "onboard_time": 1709075123,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 160154,
       "num": 150707,
       "word": "面试判官吴镇宇",
@@ -7185,6 +7241,14 @@
       "onboard_time": 1708913251,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 159528,
+      "num": 159528,
+      "word": "来自星星的你照进现实",
+      "onboard_time": 1709083590,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 158652,
@@ -7379,6 +7443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152397,
+      "num": 152397,
+      "word": "这些食材不建议生吃",
+      "onboard_time": 1709083532,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 152260,
       "num": 152260,
       "word": "全球AI五巨头与这家中国企业达成合作",
@@ -7401,6 +7473,14 @@
       "onboard_time": 1709033254,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152032,
+      "num": 152032,
+      "word": "碧桂园回应清盘呈请",
+      "onboard_time": 1709083650,
+      "rank": 47,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 150821,
@@ -7441,14 +7521,6 @@
       "onboard_time": 1708844375,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 149602,
-      "num": 149602,
-      "word": "眼睛里没揉出来的脏东西都去哪了",
-      "onboard_time": 1709075123,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 149530,
@@ -7881,6 +7953,14 @@
       "onboard_time": 1708839996,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136684,
+      "num": 136684,
+      "word": "400名大学生回曹县小镇卖马面裙",
+      "onboard_time": 1709083832,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136109,
@@ -8409,14 +8489,6 @@
       "onboard_time": 1708878565,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 113821,
-      "num": 128813,
-      "word": "研究生多到无宿舍可住",
-      "onboard_time": 1709082573,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 113660,

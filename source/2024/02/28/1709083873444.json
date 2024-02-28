@@ -1,0 +1,410 @@
+{
+  "runTime": 1709083873444,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1202674,
+        "num": 1202674,
+        "word": "第5例被治愈的艾滋病患者",
+        "onboard_time": 1709075123,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1045402,
+        "num": 1045402,
+        "word": "吃霸王餐的消防队长已被开除",
+        "onboard_time": 1709076926,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72085,
+        "num": 914127,
+        "word": "中国空间站进入常态化运营模式",
+        "onboard_time": 1709038594,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901028,
+        "num": 901028,
+        "word": "台湾省",
+        "onboard_time": 1709033313,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 882238,
+        "num": 882238,
+        "word": "黄嘉千称曾被家暴五六次以上",
+        "onboard_time": 1709081376,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 744994,
+        "num": 744994,
+        "word": "全员加速中直播",
+        "onboard_time": 1709081613,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 721594,
+        "num": 721594,
+        "word": "地铁小姐姐连摔两跤滑跪按下急停按钮",
+        "onboard_time": 1709062155,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 580624,
+        "num": 580624,
+        "word": "母亲将唯一银镯打成首饰送2个女儿",
+        "onboard_time": 1709059576,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554139,
+        "num": 554139,
+        "word": "李湘前夫李厚霖给李亚鹏直播打赏",
+        "onboard_time": 1709057059,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544753,
+        "num": 544753,
+        "word": "苹果取消造车",
+        "onboard_time": 1709077951,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1202752,
+        "num": 527853,
+        "word": "研究生多到无宿舍可住",
+        "onboard_time": 1709082573,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 491360,
+        "num": 491360,
+        "word": "蔡徐坤录音室",
+        "onboard_time": 1709078553,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 481320,
+        "num": 481320,
+        "word": "豆豆反转 乐莹最后一击",
+        "onboard_time": 1709081137,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 464076,
+        "num": 464076,
+        "word": "张颂文谈猎冰争议",
+        "onboard_time": 1709083113,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442643,
+        "num": 442643,
+        "word": "曹云金临沂拍戏100天吃100只鸡",
+        "onboard_time": 1709079391,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429054,
+        "num": 429054,
+        "word": "洗澡是最好的医美",
+        "onboard_time": 1709050828,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 386225,
+        "num": 386225,
+        "word": "宗庆后追思会",
+        "onboard_time": 1709082212,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371486,
+        "num": 371486,
+        "word": "韩国医生为什么罢工",
+        "onboard_time": 1709081313,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360373,
+        "num": 360373,
+        "word": "容易被癌细胞盯上的7个饮食习惯",
+        "onboard_time": 1709046337,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 319438,
+        "num": 319438,
+        "word": "新疆小女孩跳热巴春晚同款舞",
+        "onboard_time": 1709077529,
+        "rank": 19,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 346520,
+        "num": 317250,
+        "word": "董宇辉不能既享受流量红利又逃避舆论",
+        "onboard_time": 1709039614,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 325302,
+        "num": 314676,
+        "word": "可算把五险一金弄透了",
+        "onboard_time": 1709079992,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 324985,
+        "num": 313376,
+        "word": "男子骗00后女生裸聊后威胁发生性关系被判3年",
+        "onboard_time": 1709076446,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311442,
+        "num": 311442,
+        "word": "27岁才意识到朋友都是阶段性的",
+        "onboard_time": 1709046395,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305610,
+        "num": 305610,
+        "word": "医院筹建7年未开业却已聘515人",
+        "onboard_time": 1709076208,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282017,
+        "num": 282017,
+        "word": "22岁女生长期熬夜患带状疱疹",
+        "onboard_time": 1709046696,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274573,
+        "num": 274573,
+        "word": "她翻垃圾找线索揪出潜伏10年的间谍",
+        "onboard_time": 1709082155,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270967,
+        "num": 270967,
+        "word": "唐嫣G社生图",
+        "onboard_time": 1709080834,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 252840,
+        "num": 252840,
+        "word": "碧桂园在香港被提出清盘呈请",
+        "onboard_time": 1709083290,
+        "rank": 28,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 247097,
+        "num": 247097,
+        "word": "为何山姆穷鬼套餐让中产疯狂",
+        "onboard_time": 1709036376,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 242721,
+        "num": 242721,
+        "word": "被有钱的i人狠狠震撼了",
+        "onboard_time": 1709080115,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234167,
+        "num": 234167,
+        "word": "以军要求世卫医护脱光搜查",
+        "onboard_time": 1709080773,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 228776,
+        "num": 228776,
+        "word": "朴彩英巴黎时装周路透",
+        "onboard_time": 1709082935,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 215059,
+        "num": 215059,
+        "word": "马斯克回应苹果取消造车",
+        "onboard_time": 1709083290,
+        "rank": 33,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 222034,
+        "num": 214467,
+        "word": "YSL秀场",
+        "onboard_time": 1709081974,
+        "rank": 34,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 206757,
+        "num": 206757,
+        "word": "他到底在ok个什么",
+        "onboard_time": 1709079695,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200228,
+        "num": 200228,
+        "word": "春天排毒减肚子",
+        "onboard_time": 1709080230,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194517,
+        "num": 194517,
+        "word": "鹿晗工作室已注册足球第一课商标",
+        "onboard_time": 1709054301,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185087,
+        "num": 185087,
+        "word": "姜思达穿搭",
+        "onboard_time": 1709077227,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184863,
+        "num": 184863,
+        "word": "小徐英语六级考了353分",
+        "onboard_time": 1709045255,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181142,
+        "num": 181142,
+        "word": "大熊猫拍着jiojio把自己哄睡着了",
+        "onboard_time": 1709081074,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175971,
+        "num": 175971,
+        "word": "反诈老陈哭了",
+        "onboard_time": 1709083590,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175881,
+        "num": 175881,
+        "word": "张致恒儿子患自闭症",
+        "onboard_time": 1709043935,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160770,
+        "num": 160770,
+        "word": "眼睛里没揉出来的脏东西都去哪了",
+        "onboard_time": 1709075123,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159934,
+        "num": 159934,
+        "word": "3岁男童喝路边饮料食道烧成针眼大",
+        "onboard_time": 1709045074,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159528,
+        "num": 159528,
+        "word": "来自星星的你照进现实",
+        "onboard_time": 1709083590,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152397,
+        "num": 152397,
+        "word": "这些食材不建议生吃",
+        "onboard_time": 1709083532,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152032,
+        "num": 152032,
+        "word": "碧桂园回应清盘呈请",
+        "onboard_time": 1709083650,
+        "rank": 47,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 147770,
+        "num": 147770,
+        "word": "为什么晚上睡觉嘴会发干",
+        "onboard_time": 1709053644,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136684,
+        "num": 136684,
+        "word": "400名大学生回曹县小镇卖马面裙",
+        "onboard_time": 1709083832,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视网络安全工作#"
+    }
+  }
+}
