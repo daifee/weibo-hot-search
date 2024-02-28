@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709120073438,
+  "endTime": 1709123402091,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -529,6 +529,14 @@
       "onboard_time": 1708786004,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1499300,
+      "num": 1499300,
+      "word": "艾滋病病毒无法在唾液中存活",
+      "onboard_time": 1709118273,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1491359,
@@ -1107,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 955977,
+      "num": 955977,
+      "word": "孙千陈靖可朋友圈签名",
+      "onboard_time": 1709121274,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 952600,
       "num": 952600,
       "word": "刘诗雯给韩国男团颁奖",
@@ -1241,14 +1257,6 @@
       "onboard_time": 1708913674,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 897007,
-      "num": 685486,
-      "word": "艾滋病病毒无法在唾液中存活",
-      "onboard_time": 1709118273,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 894236,
@@ -2515,6 +2523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 583104,
+      "num": 425975,
+      "word": "女教师办公室殴打学生",
+      "onboard_time": 1709122294,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579357,
       "num": 410137,
       "word": "杭州宾利车主",
@@ -3435,6 +3451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438029,
+      "num": 438029,
+      "word": "凤凰传奇演唱会预约人数",
+      "onboard_time": 1709118451,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 436919,
       "num": 436919,
       "word": "新疆地震",
@@ -3505,14 +3529,6 @@
       "onboard_time": 1708854215,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 424447,
-      "num": 424447,
-      "word": "凤凰传奇演唱会预约人数",
-      "onboard_time": 1709118451,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 424438,
@@ -3859,6 +3875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 387083,
+      "num": 387083,
+      "word": "烟火人家 乳腺通了泪腺崩了",
+      "onboard_time": 1709121274,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 386225,
       "num": 386225,
       "word": "宗庆后追思会",
@@ -4180,7 +4204,7 @@
     },
     {
       "raw_hot": 346932,
-      "num": 293606,
+      "num": 301330,
       "word": "猫 我基本没差评的啊",
       "onboard_time": 1709118212,
       "rank": 30,
@@ -4211,6 +4235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 343435,
+      "num": 343435,
+      "word": "RNG中单",
+      "onboard_time": 1709121570,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 343147,
       "num": 343147,
       "word": "巴黎奥运会安保方案被偷",
@@ -4233,6 +4265,14 @@
       "onboard_time": 1708857631,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 341795,
+      "num": 341795,
+      "word": "钟睒睒向宗庆后敬送花圈",
+      "onboard_time": 1709120372,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341617,
@@ -4433,6 +4473,14 @@
       "onboard_time": 1708908692,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 319356,
+      "num": 708035,
+      "word": "外交部回应日本启动第四批核污染水排海",
+      "onboard_time": 1709118212,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 318741,
@@ -5259,6 +5307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267360,
+      "num": 267360,
+      "word": "爷爷 他甚至边玩手机边下",
+      "onboard_time": 1709119413,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 265150,
       "num": 265150,
       "word": "肖战胸肌见客",
@@ -5561,6 +5617,14 @@
       "onboard_time": 1708791153,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250149,
+      "num": 250149,
+      "word": "将进酒广播剧播放量破两亿",
+      "onboard_time": 1709123192,
+      "rank": 22,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 249566,
@@ -6123,6 +6187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225726,
+      "num": 225726,
+      "word": "雷军",
+      "onboard_time": 1709122655,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 224607,
       "num": 224607,
       "word": "白敬亭哭戏演技",
@@ -6161,6 +6233,14 @@
       "onboard_time": 1709010880,
       "rank": 45,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 223060,
+      "num": 223060,
+      "word": "魏大勋 看熟人演戏的尴尬",
+      "onboard_time": 1709121811,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 223021,
@@ -6337,6 +6417,14 @@
       "onboard_time": 1708870417,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218090,
+      "num": 218090,
+      "word": "建议启动中小学教师在职学历提升计划",
+      "onboard_time": 1709119590,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 217580,
@@ -6771,14 +6859,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 205588,
-      "num": 200819,
-      "word": "爷爷 他甚至边玩手机边下",
-      "onboard_time": 1709119413,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 205478,
       "num": 205478,
       "word": "蟠陶盛彦",
@@ -6969,14 +7049,6 @@
       "onboard_time": 1709086172,
       "rank": 34,
       "category": "幽默,作品衍生"
-    },
-    {
-      "raw_hot": 198854,
-      "num": 708035,
-      "word": "外交部回应日本启动第四批核污染水排海",
-      "onboard_time": 1709118212,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 198826,
@@ -8203,12 +8275,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171987,
+      "num": 692579,
+      "word": "杭州下沙花圈材料已卖断货",
+      "onboard_time": 1709119590,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171291,
       "num": 171291,
       "word": "蔡卓宜哥哥结婚",
       "onboard_time": 1709026412,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171258,
+      "num": 171258,
+      "word": "妈妈人生就一次别委屈自己",
+      "onboard_time": 1709123069,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 171040,
@@ -8233,14 +8321,6 @@
       "onboard_time": 1708844014,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170852,
-      "num": 201428,
-      "word": "建议启动中小学教师在职学历提升计划",
-      "onboard_time": 1709119590,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 170753,
@@ -9347,12 +9427,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141994,
+      "num": 141994,
+      "word": "常华森杀青照",
+      "onboard_time": 1709120252,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141848,
       "num": 141848,
       "word": "迪丽热巴滇味应援牌设计师回应",
       "onboard_time": 1708964248,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141392,
+      "num": 141392,
+      "word": "猫 妈妈那么做肯定有她的道理",
+      "onboard_time": 1709121393,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 141108,
@@ -9523,6 +9619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137350,
+      "num": 137350,
+      "word": "阚清子长发羊毛卷",
+      "onboard_time": 1709120129,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137247,
       "num": 137247,
       "word": "返校大学生有多安静",
@@ -9603,6 +9707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 134019,
+      "num": 134019,
+      "word": "周芯竹巴黎看秀造型",
+      "onboard_time": 1709122352,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 133394,
       "num": 133394,
       "word": "iPhone精织斜纹保护套收广泛差评",
@@ -9617,14 +9729,6 @@
       "onboard_time": 1708824094,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 132953,
-      "num": 692579,
-      "word": "杭州下沙花圈材料已卖断货",
-      "onboard_time": 1709119590,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132919,
@@ -9737,6 +9841,14 @@
       "onboard_time": 1708818564,
       "rank": 37,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 129766,
+      "num": 129766,
+      "word": "李耕耘 幸福是什么",
+      "onboard_time": 1709120791,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 129490,
@@ -10083,6 +10195,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 116128,
+      "num": 116128,
+      "word": "冷暴力中长大的孩子",
+      "onboard_time": 1709120613,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115419,
       "num": 115419,
       "word": "什么队伍还要大学生亲自排",
@@ -10217,6 +10337,14 @@
       "onboard_time": 1708954294,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109158,
+      "num": 109158,
+      "word": "明明春款很好看为什么是淡季呢",
+      "onboard_time": 1709120312,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 109092,
@@ -10627,6 +10755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61151,
+      "num": 106858,
+      "word": "张予曦杨玉环银翎春语",
+      "onboard_time": 1709123373,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 59335,
       "num": 1056536,
       "word": "中华文化学习笔记",
@@ -10689,6 +10825,14 @@
       "onboard_time": 1709091334,
       "rank": 19,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 49686,
+      "num": 158842,
+      "word": "年轻人的方盒子火了",
+      "onboard_time": 1709122834,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 48641,

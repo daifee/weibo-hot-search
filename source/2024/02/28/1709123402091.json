@@ -1,0 +1,410 @@
+{
+  "runTime": 1709123402091,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1499300,
+        "num": 1499300,
+        "word": "艾滋病病毒无法在唾液中存活",
+        "onboard_time": 1709118273,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 955977,
+        "num": 955977,
+        "word": "孙千陈靖可朋友圈签名",
+        "onboard_time": 1709121274,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15474,
+        "num": 864629,
+        "word": "e法e同行 京彩新征程",
+        "onboard_time": 1709114434,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861634,
+        "num": 861634,
+        "word": "贵州夫妻17年间生下9女1男",
+        "onboard_time": 1709115211,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592617,
+        "num": 592617,
+        "word": "亚洲首富之子18个月减重超200斤",
+        "onboard_time": 1709112214,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1052380,
+        "num": 591853,
+        "word": "重庆姐弟坠亡案生母宣布将直播带货",
+        "onboard_time": 1709115872,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514492,
+        "num": 514492,
+        "word": "陈赫晒妻子女儿背影照",
+        "onboard_time": 1709116776,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459115,
+        "num": 459115,
+        "word": "为什么汉堡王没火起来",
+        "onboard_time": 1709112575,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 438029,
+        "num": 438029,
+        "word": "凤凰传奇演唱会预约人数",
+        "onboard_time": 1709118451,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 319356,
+        "num": 427662,
+        "word": "外交部回应日本启动第四批核污染水排海",
+        "onboard_time": 1709118212,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 583104,
+        "num": 425975,
+        "word": "女教师办公室殴打学生",
+        "onboard_time": 1709122294,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423105,
+        "num": 423105,
+        "word": "被时代淘汰的水果",
+        "onboard_time": 1709110471,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387083,
+        "num": 387083,
+        "word": "烟火人家 乳腺通了泪腺崩了",
+        "onboard_time": 1709121274,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379600,
+        "num": 379600,
+        "word": "热心市民魏大勋",
+        "onboard_time": 1709112814,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370218,
+        "num": 370218,
+        "word": "上海一饭堂发生情杀案致2人死亡",
+        "onboard_time": 1709103211,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343435,
+        "num": 343435,
+        "word": "RNG中单",
+        "onboard_time": 1709121570,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 341795,
+        "num": 341795,
+        "word": "钟睒睒向宗庆后敬送花圈",
+        "onboard_time": 1709120372,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330416,
+        "num": 330416,
+        "word": "老公姐 人夫哥",
+        "onboard_time": 1709110294,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320655,
+        "num": 320655,
+        "word": "肠癌来临时上厕所会出现4个异常",
+        "onboard_time": 1709092831,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 312372,
+        "num": 312372,
+        "word": "黄嘉千称夏天被夏克立家暴",
+        "onboard_time": 1709101171,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301330,
+        "num": 301330,
+        "word": "猫 我基本没差评的啊",
+        "onboard_time": 1709118212,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267360,
+        "num": 267360,
+        "word": "爷爷 他甚至边玩手机边下",
+        "onboard_time": 1709119413,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250149,
+        "num": 250149,
+        "word": "将进酒广播剧播放量破两亿",
+        "onboard_time": 1709123192,
+        "rank": 22,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 240783,
+        "num": 240783,
+        "word": "找工作",
+        "onboard_time": 1709114852,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 225726,
+        "num": 225726,
+        "word": "雷军",
+        "onboard_time": 1709122655,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 223060,
+        "num": 223060,
+        "word": "魏大勋 看熟人演戏的尴尬",
+        "onboard_time": 1709121811,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218090,
+        "num": 218090,
+        "word": "建议启动中小学教师在职学历提升计划",
+        "onboard_time": 1709119590,
+        "rank": 26,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 213883,
+        "num": 213883,
+        "word": "贡菜就是晒干的莴笋",
+        "onboard_time": 1709105795,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 205638,
+        "num": 205638,
+        "word": "张杰武汉演唱会又取消了",
+        "onboard_time": 1709112214,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191649,
+        "num": 191649,
+        "word": "雷军称苹果用户买小米汽车是最好选择",
+        "onboard_time": 1709113653,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 183928,
+        "num": 183928,
+        "word": "日本队发布会成了孙颖莎表彰大会",
+        "onboard_time": 1709118571,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179573,
+        "num": 179573,
+        "word": "长期吃这些东西可缓解肥胖",
+        "onboard_time": 1709115153,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171987,
+        "num": 171987,
+        "word": "杭州下沙花圈材料已卖断货",
+        "onboard_time": 1709119590,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171258,
+        "num": 171258,
+        "word": "妈妈人生就一次别委屈自己",
+        "onboard_time": 1709123069,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160802,
+        "num": 160802,
+        "word": "韩素希露腰毛衣",
+        "onboard_time": 1709116892,
+        "rank": 34,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 49686,
+        "num": 158842,
+        "word": "年轻人的方盒子火了",
+        "onboard_time": 1709122834,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 157542,
+        "num": 157542,
+        "word": "娃哈哈感谢信",
+        "onboard_time": 1709110831,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141994,
+        "num": 141994,
+        "word": "常华森杀青照",
+        "onboard_time": 1709120252,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141392,
+        "num": 141392,
+        "word": "猫 妈妈那么做肯定有她的道理",
+        "onboard_time": 1709121393,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139913,
+        "num": 139913,
+        "word": "相亲第三天就领证了",
+        "onboard_time": 1709108196,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137350,
+        "num": 137350,
+        "word": "阚清子长发羊毛卷",
+        "onboard_time": 1709120129,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134019,
+        "num": 134019,
+        "word": "周芯竹巴黎看秀造型",
+        "onboard_time": 1709122352,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133346,
+        "num": 133346,
+        "word": "林一周也 北体北电颜值高山",
+        "onboard_time": 1709114073,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129766,
+        "num": 129766,
+        "word": "李耕耘 幸福是什么",
+        "onboard_time": 1709120791,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129276,
+        "num": 129276,
+        "word": "国产剧洗澡戏越来越见外了",
+        "onboard_time": 1709102972,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124882,
+        "num": 124882,
+        "word": "陈靖可回应面试封神",
+        "onboard_time": 1709119772,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117557,
+        "num": 117557,
+        "word": "鲁班元芳战令新皮肤",
+        "onboard_time": 1709118394,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116128,
+        "num": 116128,
+        "word": "冷暴力中长大的孩子",
+        "onboard_time": 1709120613,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109158,
+        "num": 109158,
+        "word": "明明春款很好看为什么是淡季呢",
+        "onboard_time": 1709120312,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 61151,
+        "num": 106858,
+        "word": "张予曦杨玉环银翎春语",
+        "onboard_time": 1709123373,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署第二十号主席令#"
+    }
+  }
+}
