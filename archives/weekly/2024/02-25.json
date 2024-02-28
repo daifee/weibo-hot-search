@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709123402091,
+  "endTime": 1709124308342,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -401,6 +401,14 @@
       "onboard_time": 1708937016,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1735843,
+      "num": 510915,
+      "word": "女教师办公室殴打学生",
+      "onboard_time": 1709122294,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1721784,
@@ -939,6 +947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1090491,
+      "num": 1090491,
+      "word": "孙千陈靖可朋友圈签名",
+      "onboard_time": 1709121274,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1072006,
       "num": 1072006,
       "word": "人体不会癌变的器官",
@@ -1113,14 +1129,6 @@
       "onboard_time": 1708861955,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 955977,
-      "num": 955977,
-      "word": "孙千陈靖可朋友圈签名",
-      "onboard_time": 1709121274,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 952600,
@@ -2523,14 +2531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 583104,
-      "num": 425975,
-      "word": "女教师办公室殴打学生",
-      "onboard_time": 1709122294,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 579357,
       "num": 410137,
       "word": "杭州宾利车主",
@@ -3427,6 +3427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 439924,
+      "num": 439924,
+      "word": "凤凰传奇演唱会预约人数",
+      "onboard_time": 1709118451,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 439861,
       "num": 439861,
       "word": "加沙多个婴儿挤在一个保温箱",
@@ -3449,14 +3457,6 @@
       "onboard_time": 1708784736,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 438029,
-      "num": 438029,
-      "word": "凤凰传奇演唱会预约人数",
-      "onboard_time": 1709118451,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 436919,
@@ -3979,6 +3979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373863,
+      "num": 373863,
+      "word": "将进酒广播剧播放量破两亿",
+      "onboard_time": 1709123192,
+      "rank": 22,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 373434,
       "num": 373434,
       "word": "我与顾少的百亿婚约",
@@ -4265,6 +4273,14 @@
       "onboard_time": 1708857631,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342055,
+      "num": 342055,
+      "word": "雷军",
+      "onboard_time": 1709122655,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 341795,
@@ -4761,6 +4777,14 @@
       "onboard_time": 1708865735,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 300082,
+      "num": 300082,
+      "word": "魏大勋 看熟人演戏的尴尬",
+      "onboard_time": 1709121811,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 299638,
@@ -5619,14 +5643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250149,
-      "num": 250149,
-      "word": "将进酒广播剧播放量破两亿",
-      "onboard_time": 1709123192,
-      "rank": 22,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 249566,
       "num": 249566,
       "word": "湿气较重的人这样吃水果更健康",
@@ -6187,14 +6203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225726,
-      "num": 225726,
-      "word": "雷军",
-      "onboard_time": 1709122655,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 224607,
       "num": 224607,
       "word": "白敬亭哭戏演技",
@@ -6233,14 +6241,6 @@
       "onboard_time": 1709010880,
       "rank": 45,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 223060,
-      "num": 223060,
-      "word": "魏大勋 看熟人演戏的尴尬",
-      "onboard_time": 1709121811,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 223021,
@@ -6905,6 +6905,14 @@
       "onboard_time": 1709116892,
       "rank": 32,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 203794,
+      "num": 203794,
+      "word": "妈妈人生就一次别委屈自己",
+      "onboard_time": 1709123069,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 203615,
@@ -8291,14 +8299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171258,
-      "num": 171258,
-      "word": "妈妈人生就一次别委屈自己",
-      "onboard_time": 1709123069,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171040,
       "num": 171040,
       "word": "王者荣耀全明星赛直播",
@@ -9507,6 +9507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139662,
+      "num": 139662,
+      "word": "杨幂8年前就配过功夫熊猫",
+      "onboard_time": 1709124152,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139394,
       "num": 139394,
       "word": "马嘉祺吟唱",
@@ -9777,6 +9785,14 @@
       "onboard_time": 1708829854,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132007,
+      "num": 132007,
+      "word": "尹正 希望大家新年都有劲儿",
+      "onboard_time": 1709123794,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 131779,
@@ -10275,6 +10291,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 112147,
+      "num": 112147,
+      "word": "T1对战FOX",
+      "onboard_time": 1709122772,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111829,
       "num": 693022,
       "word": "男子赤膊跳4米深冰水救出落水母女",
@@ -10361,6 +10385,14 @@
       "onboard_time": 1709028933,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 107679,
+      "num": 107679,
+      "word": "邪剑仙 人生导师",
+      "onboard_time": 1709124271,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 106988,
@@ -10756,11 +10788,19 @@
     },
     {
       "raw_hot": 61151,
-      "num": 106858,
+      "num": 236561,
       "word": "张予曦杨玉环银翎春语",
       "onboard_time": 1709123373,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 60666,
+      "num": 293090,
+      "word": "年轻人的方盒子火了",
+      "onboard_time": 1709122834,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 59335,
@@ -10825,14 +10865,6 @@
       "onboard_time": 1709091334,
       "rank": 19,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 49686,
-      "num": 158842,
-      "word": "年轻人的方盒子火了",
-      "onboard_time": 1709122834,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 48641,

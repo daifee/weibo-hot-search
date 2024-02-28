@@ -1,6 +1,6 @@
 {
   "startTime": 1709050946453,
-  "endTime": 1709123402091,
+  "endTime": 1709124308342,
   "band_list": [
     {
       "raw_hot": 2515665,
@@ -64,6 +64,14 @@
       "word": "亚洲首富之子18个月减重超200斤",
       "onboard_time": 1709112214,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1735843,
+      "num": 510915,
+      "word": "女教师办公室殴打学生",
+      "onboard_time": 1709122294,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -203,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1090491,
+      "num": 1090491,
+      "word": "孙千陈靖可朋友圈签名",
+      "onboard_time": 1709121274,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1014373,
       "num": 1014373,
       "word": "热心市民魏大勋",
@@ -217,14 +233,6 @@
       "onboard_time": 1709115211,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 955977,
-      "num": 955977,
-      "word": "孙千陈靖可朋友圈签名",
-      "onboard_time": 1709121274,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 950591,
@@ -523,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 583104,
-      "num": 425975,
-      "word": "女教师办公室殴打学生",
-      "onboard_time": 1709122294,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 575081,
       "num": 498052,
       "word": "董宇辉不能既享受流量红利又逃避舆论",
@@ -747,8 +747,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 438029,
-      "num": 438029,
+      "raw_hot": 439924,
+      "num": 439924,
       "word": "凤凰传奇演唱会预约人数",
       "onboard_time": 1709118451,
       "rank": 26,
@@ -843,6 +843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 373863,
+      "num": 373863,
+      "word": "将进酒广播剧播放量破两亿",
+      "onboard_time": 1709123192,
+      "rank": 22,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 373434,
       "num": 373434,
       "word": "我与顾少的百亿婚约",
@@ -897,6 +905,14 @@
       "onboard_time": 1709111311,
       "rank": 31,
       "category": "国外时政,体育"
+    },
+    {
+      "raw_hot": 342055,
+      "num": 342055,
+      "word": "雷军",
+      "onboard_time": 1709122655,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 341795,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1709117614,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 300082,
+      "num": 300082,
+      "word": "魏大勋 看熟人演戏的尴尬",
+      "onboard_time": 1709121811,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 299638,
@@ -1283,14 +1307,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 250149,
-      "num": 250149,
-      "word": "将进酒广播剧播放量破两亿",
-      "onboard_time": 1709123192,
-      "rank": 22,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 246732,
       "num": 246732,
       "word": "SK儿子出生了",
@@ -1403,28 +1419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225726,
-      "num": 225726,
-      "word": "雷军",
-      "onboard_time": 1709122655,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 223973,
       "num": 223973,
       "word": "钟楚曦的中国胃",
       "onboard_time": 1709115993,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223060,
-      "num": 223060,
-      "word": "魏大勋 看熟人演戏的尴尬",
-      "onboard_time": 1709121811,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 223021,
@@ -1601,6 +1601,14 @@
       "onboard_time": 1709116892,
       "rank": 32,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 203794,
+      "num": 203794,
+      "word": "妈妈人生就一次别委屈自己",
+      "onboard_time": 1709123069,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 198950,
@@ -1857,14 +1865,6 @@
       "onboard_time": 1709119590,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171258,
-      "num": 171258,
-      "word": "妈妈人生就一次别委屈自己",
-      "onboard_time": 1709123069,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 170998,
@@ -2227,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139662,
+      "num": 139662,
+      "word": "杨幂8年前就配过功夫熊猫",
+      "onboard_time": 1709124152,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 138416,
       "num": 138416,
       "word": "美国援乌成大生意",
@@ -2281,6 +2289,14 @@
       "onboard_time": 1709039316,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 132007,
+      "num": 132007,
+      "word": "尹正 希望大家新年都有劲儿",
+      "onboard_time": 1709123794,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 129830,
@@ -2427,6 +2443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112147,
+      "num": 112147,
+      "word": "T1对战FOX",
+      "onboard_time": 1709122772,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111829,
       "num": 693022,
       "word": "男子赤膊跳4米深冰水救出落水母女",
@@ -2457,6 +2481,14 @@
       "onboard_time": 1709120312,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 107679,
+      "num": 107679,
+      "word": "邪剑仙 人生导师",
+      "onboard_time": 1709124271,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 104727,
@@ -2644,11 +2676,19 @@
     },
     {
       "raw_hot": 61151,
-      "num": 106858,
+      "num": 236561,
       "word": "张予曦杨玉环银翎春语",
       "onboard_time": 1709123373,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 60666,
+      "num": 293090,
+      "word": "年轻人的方盒子火了",
+      "onboard_time": 1709122834,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 59993,
@@ -2673,14 +2713,6 @@
       "onboard_time": 1709091334,
       "rank": 19,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 49686,
-      "num": 158842,
-      "word": "年轻人的方盒子火了",
-      "onboard_time": 1709122834,
-      "rank": 35,
-      "category": "汽车"
     },
     {
       "raw_hot": 47318,
