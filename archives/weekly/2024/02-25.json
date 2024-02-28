@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709086991300,
+  "endTime": 1709087646981,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -139,6 +139,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2512627,
+      "num": 2512627,
+      "word": "同事称挖呀挖黄老师已离职",
+      "onboard_time": 1709084552,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2362388,
       "num": 2362388,
       "word": "警方通报杭州高架伤人事件",
@@ -176,14 +184,6 @@
       "word": "与女主播发生关系住持已被注销戒牒",
       "onboard_time": 1708853436,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2290790,
-      "num": 2290790,
-      "word": "同事称挖呀挖黄老师已离职",
-      "onboard_time": 1709084552,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1331,6 +1331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 793924,
+      "num": 793924,
+      "word": "反诈老陈哭了",
+      "onboard_time": 1709083590,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 792450,
       "num": 792450,
       "word": "男生在机场查到考研408分激动大喊",
@@ -1579,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 715402,
-      "num": 715402,
-      "word": "反诈老陈哭了",
-      "onboard_time": 1709083590,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 712826,
       "num": 712826,
       "word": "400名大学生回曹县小镇卖马面裙",
@@ -1809,6 +1809,14 @@
       "onboard_time": 1709021794,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 651337,
+      "num": 420760,
+      "word": "D社放弃跟拍的女爱豆",
+      "onboard_time": 1709086411,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 647173,
@@ -2371,6 +2379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 535855,
+      "num": 269668,
+      "word": "离职了公司让我把自己的微信留下",
+      "onboard_time": 1709085631,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 535444,
       "num": 535444,
       "word": "飞驰2破30亿全员发三行诗",
@@ -2481,6 +2497,14 @@
       "onboard_time": 1708818264,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 513761,
+      "num": 394477,
+      "word": "五十五岁那年妈妈终于开始断亲",
+      "onboard_time": 1709085393,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 512728,
@@ -2713,14 +2737,6 @@
       "onboard_time": 1709081137,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 478538,
-      "num": 262242,
-      "word": "离职了公司让我把自己的微信留下",
-      "onboard_time": 1709085631,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 477442,
@@ -3347,14 +3363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 378903,
-      "num": 378903,
-      "word": "五十五岁那年妈妈终于开始断亲",
-      "onboard_time": 1709085393,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 378145,
       "num": 324044,
       "word": "朋友圈点赞是一种交易",
@@ -3433,14 +3441,6 @@
       "onboard_time": 1708920338,
       "rank": 21,
       "category": "教育"
-    },
-    {
-      "raw_hot": 368348,
-      "num": 219424,
-      "word": "D社放弃跟拍的女爱豆",
-      "onboard_time": 1709086411,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 367881,
@@ -4347,12 +4347,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277222,
+      "num": 277222,
+      "word": "姚安娜表情包",
+      "onboard_time": 1709086592,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277086,
       "num": 277086,
       "word": "路怒症",
       "onboard_time": 1708828537,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276519,
+      "num": 276519,
+      "word": "研究生招生人数6年翻倍",
+      "onboard_time": 1709087373,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 275868,
@@ -4449,6 +4465,14 @@
       "onboard_time": 1709080773,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 270606,
+      "num": 270606,
+      "word": "中国资产再次大爆发",
+      "onboard_time": 1709086829,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 270553,
@@ -5219,14 +5243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225263,
-      "num": 225263,
-      "word": "姚安娜表情包",
-      "onboard_time": 1709086592,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 224607,
       "num": 224607,
       "word": "白敬亭哭戏演技",
@@ -5995,6 +6011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198734,
+      "num": 198734,
+      "word": "患有厌食症女生成功增重30kg",
+      "onboard_time": 1709087012,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 198669,
       "num": 198669,
       "word": "李想称五年内不会做20万元以下车型",
@@ -6169,6 +6193,14 @@
       "onboard_time": 1708820309,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193578,
+      "num": 193578,
+      "word": "苹果为造车从特斯拉挖走超300人",
+      "onboard_time": 1709086472,
+      "rank": 36,
+      "category": "数码,汽车"
     },
     {
       "raw_hot": 193495,
@@ -6457,14 +6489,6 @@
       "onboard_time": 1708928916,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 187281,
-      "num": 187281,
-      "word": "苹果为造车从特斯拉挖走超300人",
-      "onboard_time": 1709086472,
-      "rank": 36,
-      "category": "数码,汽车"
     },
     {
       "raw_hot": 187060,
@@ -7515,20 +7539,20 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 154335,
+      "num": 154335,
+      "word": "姚安娜芭蕾水平",
+      "onboard_time": 1709087551,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153691,
       "num": 153691,
       "word": "王鹤棣西瓜梗",
       "onboard_time": 1709032171,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153685,
-      "num": 153685,
-      "word": "中国资产再次大爆发",
-      "onboard_time": 1709086829,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 153572,
@@ -7841,6 +7865,14 @@
       "onboard_time": 1708808056,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 143022,
+      "num": 143022,
+      "word": "95后开的火锅店成00后大学生食堂",
+      "onboard_time": 1709087615,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142865,
