@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709141665271,
+  "endTime": 1709144496333,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -6123,6 +6123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 240949,
+      "num": 240949,
+      "word": "面包店的浪费现象有多严重",
+      "onboard_time": 1709140822,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240732,
       "num": 240732,
       "word": "孙颖莎定海神针",
@@ -11291,14 +11299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 61060,
-      "num": 61060,
-      "word": "面包店的浪费现象有多严重",
-      "onboard_time": 1709140822,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59335,
       "num": 1056536,
       "word": "中华文化学习笔记",
@@ -11403,6 +11403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45106,
+      "num": 45106,
+      "word": "祁煜 奇遇",
+      "onboard_time": 1709143579,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 44094,
       "num": 44094,
       "word": "卖老房了老邻居给我妈的信",
@@ -11481,6 +11489,22 @@
       "onboard_time": 1708979355,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32272,
+      "num": 32272,
+      "word": "全球发音",
+      "onboard_time": 1709142979,
+      "rank": 32,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 27978,
+      "num": 27978,
+      "word": "赵昭仪与素人合照",
+      "onboard_time": 1709144238,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 27936,

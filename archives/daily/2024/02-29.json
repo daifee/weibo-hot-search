@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709141665271,
+  "endTime": 1709144496333,
   "band_list": [
     {
       "raw_hot": 1215724,
@@ -129,6 +129,14 @@
       "onboard_time": 1709130878,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 240949,
+      "num": 240949,
+      "word": "面包店的浪费现象有多严重",
+      "onboard_time": 1709140822,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236637,
@@ -427,20 +435,44 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 61060,
-      "num": 61060,
-      "word": "面包店的浪费现象有多严重",
-      "onboard_time": 1709140822,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60987,
       "num": 158524,
       "word": "日本已擅自排海超2.3万吨核污染水",
       "onboard_time": 1709126493,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 45106,
+      "num": 45106,
+      "word": "祁煜 奇遇",
+      "onboard_time": 1709143579,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 32272,
+      "num": 32272,
+      "word": "全球发音",
+      "onboard_time": 1709142979,
+      "rank": 32,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 27978,
+      "num": 27978,
+      "word": "赵昭仪与素人合照",
+      "onboard_time": 1709144238,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 10464,
+      "num": 187654,
+      "word": "我国载人航天工程取得4000多项发明专利",
+      "onboard_time": 1709126974,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
