@@ -1,0 +1,410 @@
+{
+  "runTime": 1709091264227,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2009564,
+        "num": 2009564,
+        "word": "同事称挖呀挖黄老师已离职",
+        "onboard_time": 1709084552,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1706158,
+        "num": 1706158,
+        "word": "董宇辉再回应不理解女生做美甲",
+        "onboard_time": 1709088871,
+        "rank": 1,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 26500,
+        "num": 1102933,
+        "word": "中国空间站进入常态化运营模式",
+        "onboard_time": 1709038594,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1049796,
+        "num": 1049796,
+        "word": "研究生多到无宿舍可住",
+        "onboard_time": 1709082573,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 913218,
+        "num": 913218,
+        "word": "研究生招生人数6年翻倍",
+        "onboard_time": 1709087373,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 833114,
+        "num": 833114,
+        "word": "国台办再回应台撞击大陆渔船恶性事件",
+        "onboard_time": 1709088809,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 831743,
+        "num": 831743,
+        "word": "陈乔恩6天减六斤",
+        "onboard_time": 1709088394,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 724421,
+        "num": 724421,
+        "word": "姚安娜芭蕾水平",
+        "onboard_time": 1709087551,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 681406,
+        "num": 681406,
+        "word": "D社放弃跟拍的女爱豆",
+        "onboard_time": 1709086411,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 666835,
+        "num": 666835,
+        "word": "台湾省",
+        "onboard_time": 1709033313,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 515447,
+        "num": 515447,
+        "word": "豪杰春香男主借钱不还",
+        "onboard_time": 1709088331,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510660,
+        "num": 510660,
+        "word": "反诈老陈哭了",
+        "onboard_time": 1709083590,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 496723,
+        "num": 496723,
+        "word": "赵又廷高圆圆陪女儿骑车",
+        "onboard_time": 1709088871,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478612,
+        "num": 478612,
+        "word": "中国资产再次大爆发",
+        "onboard_time": 1709086829,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 440075,
+        "num": 440075,
+        "word": "BABYMONSTER四月出道",
+        "onboard_time": 1709090254,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 431949,
+        "num": 431949,
+        "word": "五十五岁那年妈妈终于开始断亲",
+        "onboard_time": 1709085393,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404679,
+        "num": 404679,
+        "word": "国家对贵州近期森林火灾多发进行督办",
+        "onboard_time": 1709088633,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392549,
+        "num": 392549,
+        "word": "老凤祥回应",
+        "onboard_time": 1709089590,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378045,
+        "num": 378045,
+        "word": "吃霸王餐的消防队长已被开除",
+        "onboard_time": 1709076926,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359435,
+        "num": 359435,
+        "word": "张颂文谈猎冰争议",
+        "onboard_time": 1709083113,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389759,
+        "num": 352194,
+        "word": "离职了公司让我把自己的微信留下",
+        "onboard_time": 1709085631,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 338613,
+        "num": 338613,
+        "word": "A股",
+        "onboard_time": 1709089534,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 289150,
+        "num": 289150,
+        "word": "一个县城妈妈不相信天生坏种",
+        "onboard_time": 1709089893,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285526,
+        "num": 285526,
+        "word": "第一次尝试自己睡觉的小朋友",
+        "onboard_time": 1709088033,
+        "rank": 23,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 277641,
+        "num": 277641,
+        "word": "比亚迪新车",
+        "onboard_time": 1709090191,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 262626,
+        "num": 262626,
+        "word": "大陆方面保留采取一切措施的权利",
+        "onboard_time": 1709089115,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 246045,
+        "num": 246045,
+        "word": "400名大学生回曹县小镇卖马面裙",
+        "onboard_time": 1709083832,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236952,
+        "num": 236952,
+        "word": "葡萄柚减肥法",
+        "onboard_time": 1709088752,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 236083,
+        "num": 236083,
+        "word": "早期的papi酱",
+        "onboard_time": 1709089350,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 227828,
+        "num": 227828,
+        "word": "全员加速中直播",
+        "onboard_time": 1709081613,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214599,
+        "num": 214599,
+        "word": "春花厌坦白局",
+        "onboard_time": 1709090014,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196337,
+        "num": 196337,
+        "word": "黄嘉千称曾被家暴五六次以上",
+        "onboard_time": 1709081376,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196259,
+        "num": 196259,
+        "word": "网剧飞驰人生今日开播",
+        "onboard_time": 1709090553,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194186,
+        "num": 194186,
+        "word": "268名跨境电诈嫌犯从老挝移交我方",
+        "onboard_time": 1709090911,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 193035,
+        "num": 193035,
+        "word": "调查显示母亲学历越高对子女教育投入越高",
+        "onboard_time": 1709090431,
+        "rank": 34,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 190035,
+        "num": 190035,
+        "word": "日本启动第四轮核污染水排放",
+        "onboard_time": 1709090431,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184996,
+        "num": 184996,
+        "word": "姚安娜表情包",
+        "onboard_time": 1709086592,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178046,
+        "num": 178046,
+        "word": "建议与教育教学无关的活动一律不能进校园",
+        "onboard_time": 1709090129,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175088,
+        "num": 175088,
+        "word": "李想称苹果放弃造车是正确选择",
+        "onboard_time": 1709090733,
+        "rank": 38,
+        "category": "数码,汽车"
+      },
+      {
+        "raw_hot": 173743,
+        "num": 173743,
+        "word": "第5例被治愈的艾滋病患者",
+        "onboard_time": 1709075123,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169358,
+        "num": 169358,
+        "word": "苹果终止造车项目原因",
+        "onboard_time": 1709090733,
+        "rank": 40,
+        "category": "数码,汽车"
+      },
+      {
+        "raw_hot": 166349,
+        "num": 166349,
+        "word": "女大学生独游峨眉山失联已20天",
+        "onboard_time": 1709090973,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163209,
+        "num": 163209,
+        "word": "地铁小姐姐连摔两跤滑跪按下急停按钮",
+        "onboard_time": 1709062155,
+        "rank": 42,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 157119,
+        "num": 157119,
+        "word": "母亲将唯一银镯打成首饰送2个女儿",
+        "onboard_time": 1709059576,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152881,
+        "num": 152881,
+        "word": "你能接受租房读研吗",
+        "onboard_time": 1709091091,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146775,
+        "num": 146775,
+        "word": "一碗水端不平就偏向老大",
+        "onboard_time": 1709090672,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140801,
+        "num": 140801,
+        "word": "22岁女生长期熬夜患带状疱疹",
+        "onboard_time": 1709046696,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138801,
+        "num": 138801,
+        "word": "洗澡是最好的医美",
+        "onboard_time": 1709050828,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136395,
+        "num": 136395,
+        "word": "全员加速中弹幕",
+        "onboard_time": 1709087732,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136310,
+        "num": 136310,
+        "word": "女生问男友新裙子好看吗",
+        "onboard_time": 1709089235,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署第二十号主席令#"
+    }
+  }
+}

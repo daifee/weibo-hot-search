@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709090274124,
+  "endTime": 1709091264227,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -369,6 +369,14 @@
       "onboard_time": 1709009022,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1706158,
+      "num": 1706158,
+      "word": "董宇辉再回应不理解女生做美甲",
+      "onboard_time": 1709088871,
+      "rank": 3,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 1703737,
@@ -835,14 +843,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1030909,
-      "num": 1030909,
-      "word": "董宇辉再回应不理解女生做美甲",
-      "onboard_time": 1709088871,
-      "rank": 3,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 1026142,
       "num": 777714,
       "word": "娃哈哈纯净水为什么是596ml",
@@ -1059,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 913218,
+      "num": 913218,
+      "word": "研究生招生人数6年翻倍",
+      "onboard_time": 1709087373,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 897801,
       "num": 897801,
       "word": "英语二",
@@ -1081,14 +1089,6 @@
       "onboard_time": 1708906532,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 892056,
-      "num": 892056,
-      "word": "研究生招生人数6年翻倍",
-      "onboard_time": 1709087373,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 891042,
@@ -1257,6 +1257,14 @@
       "onboard_time": 1708908514,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 833114,
+      "num": 833114,
+      "word": "国台办再回应台撞击大陆渔船恶性事件",
+      "onboard_time": 1709088809,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 829630,
@@ -1545,14 +1553,6 @@
       "onboard_time": 1709041174,
       "rank": 7,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 739885,
-      "num": 739885,
-      "word": "国台办再回应台撞击大陆渔船恶性事件",
-      "onboard_time": 1709088809,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 734919,
@@ -2428,7 +2428,7 @@
     },
     {
       "raw_hot": 535855,
-      "num": 295971,
+      "num": 352194,
       "word": "离职了公司让我把自己的微信留下",
       "onboard_time": 1709085631,
       "rank": 38,
@@ -2548,7 +2548,7 @@
     },
     {
       "raw_hot": 513761,
-      "num": 420426,
+      "num": 431949,
       "word": "五十五岁那年妈妈终于开始断亲",
       "onboard_time": 1709085393,
       "rank": 26,
@@ -2625,6 +2625,14 @@
       "onboard_time": 1708855836,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 496723,
+      "num": 496723,
+      "word": "赵又廷高圆圆陪女儿骑车",
+      "onboard_time": 1709088871,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 496205,
@@ -2787,6 +2795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 478612,
+      "num": 478612,
+      "word": "中国资产再次大爆发",
+      "onboard_time": 1709086829,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 477442,
       "num": 477442,
       "word": "女生行李箱装满AD钙奶被安检拦下",
@@ -2883,14 +2899,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 460034,
-      "num": 460034,
-      "word": "中国资产再次大爆发",
-      "onboard_time": 1709086829,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 457806,
       "num": 369658,
       "word": "一喝牛奶就拉肚子是咋了",
@@ -2963,6 +2971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440075,
+      "num": 440075,
+      "word": "BABYMONSTER四月出道",
+      "onboard_time": 1709090254,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 439861,
       "num": 439861,
       "word": "加沙多个婴儿挤在一个保温箱",
@@ -3033,14 +3049,6 @@
       "onboard_time": 1709029773,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 430929,
-      "num": 430929,
-      "word": "赵又廷高圆圆陪女儿骑车",
-      "onboard_time": 1709088871,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 430495,
@@ -3361,6 +3369,14 @@
       "onboard_time": 1708777660,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 392549,
+      "num": 392549,
+      "word": "老凤祥回应",
+      "onboard_time": 1709089590,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391633,
@@ -3737,6 +3753,14 @@
       "onboard_time": 1709029113,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 338613,
+      "num": 338613,
+      "word": "A股",
+      "onboard_time": 1708935575,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 338165,
@@ -4219,6 +4243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 289150,
+      "num": 289150,
+      "word": "一个县城妈妈不相信天生坏种",
+      "onboard_time": 1709089893,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288838,
       "num": 288838,
       "word": "王楚钦说看看金牌是不是真金",
@@ -4435,6 +4467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277641,
+      "num": 277641,
+      "word": "比亚迪新车",
+      "onboard_time": 1709090191,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 277222,
       "num": 277222,
       "word": "姚安娜表情包",
@@ -4577,14 +4617,6 @@
       "onboard_time": 1708919981,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 267899,
-      "num": 267899,
-      "word": "BABYMONSTER四月出道",
-      "onboard_time": 1709090254,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 267863,
@@ -4985,14 +5017,6 @@
       "onboard_time": 1709015854,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 244111,
-      "num": 244111,
-      "word": "A股",
-      "onboard_time": 1708935575,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 243304,
@@ -5651,6 +5675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 214599,
+      "num": 214599,
+      "word": "春花厌坦白局",
+      "onboard_time": 1709090014,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214528,
       "num": 214528,
       "word": "张艺兴金希澈同框",
@@ -6019,14 +6051,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 201511,
-      "num": 201511,
-      "word": "老凤祥回应",
-      "onboard_time": 1709089590,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200848,
       "num": 200848,
       "word": "金书贤金牌",
@@ -6227,6 +6251,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 196259,
+      "num": 196259,
+      "word": "网剧飞驰人生今日开播",
+      "onboard_time": 1709090553,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195725,
       "num": 195725,
       "word": "当代年轻人扣扣搜搜花了很多钱",
@@ -6291,6 +6323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 194186,
+      "num": 194186,
+      "word": "268名跨境电诈嫌犯从老挝移交我方",
+      "onboard_time": 1709090911,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 193639,
       "num": 193639,
       "word": "安香怡自由滑",
@@ -6337,6 +6377,14 @@
       "onboard_time": 1709033073,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193035,
+      "num": 193035,
+      "word": "调查显示母亲学历越高对子女教育投入越高",
+      "onboard_time": 1709090431,
+      "rank": 34,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 192802,
@@ -6432,6 +6480,14 @@
       "word": "世界最长海底高铁隧道",
       "onboard_time": 1708956093,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190035,
+      "num": 190035,
+      "word": "日本启动第四轮核污染水排放",
+      "onboard_time": 1709090431,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -6931,6 +6987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178046,
+      "num": 178046,
+      "word": "建议与教育教学无关的活动一律不能进校园",
+      "onboard_time": 1709090129,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 177909,
       "num": 177909,
       "word": "这么癫的笔袋可太适合我了",
@@ -7033,6 +7097,14 @@
       "onboard_time": 1709029294,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175088,
+      "num": 175088,
+      "word": "李想称苹果放弃造车是正确选择",
+      "onboard_time": 1709090733,
+      "rank": 38,
+      "category": "数码,汽车"
     },
     {
       "raw_hot": 174774,
@@ -7163,14 +7235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172322,
-      "num": 172322,
-      "word": "春花厌坦白局",
-      "onboard_time": 1709090014,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171291,
       "num": 171291,
       "word": "蔡卓宜哥哥结婚",
@@ -7249,6 +7313,14 @@
       "onboard_time": 1708953873,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169358,
+      "num": 169358,
+      "word": "苹果终止造车项目原因",
+      "onboard_time": 1709090733,
+      "rank": 40,
+      "category": "数码,汽车"
     },
     {
       "raw_hot": 169128,
@@ -7345,6 +7417,14 @@
       "onboard_time": 1708790555,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166349,
+      "num": 166349,
+      "word": "女大学生独游峨眉山失联已20天",
+      "onboard_time": 1709090973,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166167,
@@ -7521,14 +7601,6 @@
       "onboard_time": 1708828716,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159857,
-      "num": 159857,
-      "word": "一个县城妈妈不相信天生坏种",
-      "onboard_time": 1709089893,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159777,
@@ -7731,6 +7803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152881,
+      "num": 152881,
+      "word": "你能接受租房读研吗",
+      "onboard_time": 1709091091,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 152397,
       "num": 152397,
       "word": "这些食材不建议生吃",
@@ -7769,14 +7849,6 @@
       "onboard_time": 1709083650,
       "rank": 47,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 151380,
-      "num": 151380,
-      "word": "建议与教育教学无关的活动一律不能进校园",
-      "onboard_time": 1709090129,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 150821,
@@ -7881,6 +7953,14 @@
       "onboard_time": 1708942054,
       "rank": 45,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 146775,
+      "num": 146775,
+      "word": "一碗水端不平就偏向老大",
+      "onboard_time": 1709090672,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 146450,
