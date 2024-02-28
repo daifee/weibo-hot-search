@@ -1,0 +1,410 @@
+{
+  "runTime": 1709094061893,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1824806,
+        "num": 1824806,
+        "word": "同事称挖呀挖黄老师已离职",
+        "onboard_time": 1709084552,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1534253,
+        "num": 1534253,
+        "word": "老凤祥回应",
+        "onboard_time": 1709089590,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16704,
+        "num": 1483120,
+        "word": "中国空间站进入常态化运营模式",
+        "onboard_time": 1709038594,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1466342,
+        "num": 1466342,
+        "word": "女子被好友改名文件传输助手骗5年",
+        "onboard_time": 1709091935,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 950591,
+        "num": 950591,
+        "word": "花少团支持胡先煦新剧",
+        "onboard_time": 1709092233,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 808124,
+        "num": 808124,
+        "word": "研究生多到无宿舍可住",
+        "onboard_time": 1709082573,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 701527,
+        "num": 701527,
+        "word": "陈乔恩6天减六斤",
+        "onboard_time": 1709088394,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 671364,
+        "num": 671364,
+        "word": "全员加速中主持人快碎了",
+        "onboard_time": 1709091393,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 649691,
+        "num": 649691,
+        "word": "研究生招生人数6年翻倍",
+        "onboard_time": 1709087373,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 552818,
+        "num": 552818,
+        "word": "姚安娜芭蕾水平",
+        "onboard_time": 1709087551,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1291367,
+        "num": 533614,
+        "word": "肠癌来临时上厕所会出现4个异常",
+        "onboard_time": 1709092831,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 487733,
+        "num": 487733,
+        "word": "一个县城妈妈不相信天生坏种",
+        "onboard_time": 1709089893,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473518,
+        "num": 473518,
+        "word": "D社放弃跟拍的女爱豆",
+        "onboard_time": 1709086411,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 431972,
+        "num": 431972,
+        "word": "国台办再回应台撞击大陆渔船恶性事件",
+        "onboard_time": 1709088809,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 430320,
+        "num": 430320,
+        "word": "台湾省",
+        "onboard_time": 1709033313,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 414383,
+        "num": 414383,
+        "word": "豪杰春香男主借钱不还",
+        "onboard_time": 1709088331,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405261,
+        "num": 405261,
+        "word": "BABYMONSTER四月出道",
+        "onboard_time": 1709090254,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 388687,
+        "num": 388687,
+        "word": "比亚迪新车",
+        "onboard_time": 1709090191,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 376205,
+        "num": 376205,
+        "word": "迪丽热巴新高定",
+        "onboard_time": 1709093914,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49891,
+        "num": 375464,
+        "word": "2024大溪地灰风潮",
+        "onboard_time": 1709091334,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 31897,
+        "num": 375157,
+        "word": "王安宇李昀锐中式清檀大片",
+        "onboard_time": 1709091871,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 374855,
+        "num": 374855,
+        "word": "吃霸王餐的消防队长已被开除",
+        "onboard_time": 1709076926,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349550,
+        "num": 349550,
+        "word": "调查显示母亲学历越高对子女教育投入越高",
+        "onboard_time": 1709090431,
+        "rank": 22,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 341617,
+        "num": 341617,
+        "word": "极氪高管怼小米汽车",
+        "onboard_time": 1709092173,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 331382,
+        "num": 331382,
+        "word": "夏之光光头",
+        "onboard_time": 1709092233,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302112,
+        "num": 302112,
+        "word": "中国资产再次大爆发",
+        "onboard_time": 1709086829,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 299638,
+        "num": 299638,
+        "word": "恋与深空",
+        "onboard_time": 1709091754,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 299014,
+        "num": 299014,
+        "word": "反诈老陈哭了",
+        "onboard_time": 1709083590,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 292992,
+        "num": 292992,
+        "word": "离职了公司让我把自己的微信留下",
+        "onboard_time": 1709085631,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280225,
+        "num": 280225,
+        "word": "张颂文谈猎冰争议",
+        "onboard_time": 1709083113,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323438,
+        "num": 277272,
+        "word": "很多岗位都可以先混进去再学",
+        "onboard_time": 1709093373,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 261559,
+        "num": 261559,
+        "word": "第一次尝试自己睡觉的小朋友",
+        "onboard_time": 1709088033,
+        "rank": 31,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 255525,
+        "num": 255525,
+        "word": "林一说喜欢周也这样的女生",
+        "onboard_time": 1709094035,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242901,
+        "num": 242901,
+        "word": "A股",
+        "onboard_time": 1709089534,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 242003,
+        "num": 242003,
+        "word": "豆豆反转 乐莹最后一击",
+        "onboard_time": 1709081137,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240784,
+        "num": 240784,
+        "word": "赵又廷高圆圆陪女儿骑车",
+        "onboard_time": 1709088871,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212183,
+        "num": 212183,
+        "word": "檀健次张婧仪台词爆发力",
+        "onboard_time": 1709093796,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168090,
+        "num": 201804,
+        "word": "关晓彤代言的天然呆再被执行35万",
+        "onboard_time": 1709093016,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193385,
+        "num": 193385,
+        "word": "爆改的风为啥越吹越盛了",
+        "onboard_time": 1709092892,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191405,
+        "num": 191405,
+        "word": "葡萄柚减肥法",
+        "onboard_time": 1709088752,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 184594,
+        "num": 184594,
+        "word": "早期的papi酱",
+        "onboard_time": 1709089350,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 174456,
+        "num": 174456,
+        "word": "刘雯走秀",
+        "onboard_time": 1709093737,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166786,
+        "num": 166786,
+        "word": "女大学生独游峨眉山失联已20天",
+        "onboard_time": 1709090973,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161867,
+        "num": 161867,
+        "word": "中国父母到底为孩子教育花了多少钱",
+        "onboard_time": 1709093494,
+        "rank": 43,
+        "category": "母婴育儿,教育"
+      },
+      {
+        "raw_hot": 155268,
+        "num": 155268,
+        "word": "李想称苹果放弃造车是正确选择",
+        "onboard_time": 1709090733,
+        "rank": 44,
+        "category": "数码,汽车"
+      },
+      {
+        "raw_hot": 154138,
+        "num": 154138,
+        "word": "网剧飞驰人生今日开播",
+        "onboard_time": 1709090553,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146382,
+        "num": 146382,
+        "word": "姚安娜表情包",
+        "onboard_time": 1709086592,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145418,
+        "num": 145418,
+        "word": "大陆方面保留采取一切措施的权利",
+        "onboard_time": 1709089115,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141703,
+        "num": 141703,
+        "word": "建议与教育教学无关的活动一律不能进校园",
+        "onboard_time": 1709090129,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140001,
+        "num": 140001,
+        "word": "地铁小姐姐连摔两跤滑跪按下急停按钮",
+        "onboard_time": 1709062155,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署第二十号主席令#"
+    }
+  }
+}

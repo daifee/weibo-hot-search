@@ -1,6 +1,6 @@
 {
   "startTime": 1709050946453,
-  "endTime": 1709091264227,
+  "endTime": 1709094061893,
   "band_list": [
     {
       "raw_hot": 2512627,
@@ -27,6 +27,22 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 1534253,
+      "num": 1534253,
+      "word": "老凤祥回应",
+      "onboard_time": 1709089590,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1466342,
+      "num": 1466342,
+      "word": "女子被好友改名文件传输助手骗5年",
+      "onboard_time": 1709091935,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1349625,
       "num": 1349625,
       "word": "第5例被治愈的艾滋病患者",
@@ -43,6 +59,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1291367,
+      "num": 533614,
+      "word": "肠癌来临时上厕所会出现4个异常",
+      "onboard_time": 1709092831,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1281187,
       "num": 1281187,
       "word": "台湾省",
@@ -57,6 +81,14 @@
       "onboard_time": 1709076926,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 950591,
+      "num": 950591,
+      "word": "花少团支持胡先煦新剧",
+      "onboard_time": 1709092233,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 913218,
@@ -163,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 671364,
+      "num": 671364,
+      "word": "全员加速中主持人快碎了",
+      "onboard_time": 1709091393,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 667160,
       "num": 667160,
       "word": "蔡徐坤录音室",
@@ -267,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487733,
+      "num": 487733,
+      "word": "一个县城妈妈不相信天生坏种",
+      "onboard_time": 1709089893,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481320,
       "num": 481320,
       "word": "豆豆反转 乐莹最后一击",
@@ -323,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 392549,
-      "num": 392549,
-      "word": "老凤祥回应",
-      "onboard_time": 1709089590,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 392326,
       "num": 392326,
       "word": "张致恒儿子患自闭症",
@@ -347,12 +387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388687,
+      "num": 388687,
+      "word": "比亚迪新车",
+      "onboard_time": 1709090191,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 386225,
       "num": 386225,
       "word": "宗庆后追思会",
       "onboard_time": 1709082212,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376205,
+      "num": 376205,
+      "word": "迪丽热巴新高定",
+      "onboard_time": 1709093914,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 371486,
@@ -371,6 +427,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 349550,
+      "num": 349550,
+      "word": "调查显示母亲学历越高对子女教育投入越高",
+      "onboard_time": 1709090431,
+      "rank": 34,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 341617,
+      "num": 341617,
+      "word": "极氪高管怼小米汽车",
+      "onboard_time": 1709092173,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 338613,
       "num": 338613,
       "word": "A股",
@@ -379,12 +451,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 331382,
+      "num": 331382,
+      "word": "夏之光光头",
+      "onboard_time": 1709092233,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 325302,
       "num": 314676,
       "word": "可算把五险一金弄透了",
       "onboard_time": 1709079992,
       "rank": 23,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 323438,
+      "num": 277272,
+      "word": "很多岗位都可以先混进去再学",
+      "onboard_time": 1709093373,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 318479,
@@ -403,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299638,
+      "num": 299638,
+      "word": "恋与深空",
+      "onboard_time": 1709091754,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 292387,
       "num": 292387,
       "word": "他到底在ok个什么",
@@ -417,14 +513,6 @@
       "onboard_time": 1709044537,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 289150,
-      "num": 289150,
-      "word": "一个县城妈妈不相信天生坏种",
-      "onboard_time": 1709089893,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286271,
@@ -457,14 +545,6 @@
       "onboard_time": 1709080115,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 277641,
-      "num": 277641,
-      "word": "比亚迪新车",
-      "onboard_time": 1709090191,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 277222,
@@ -529,6 +609,14 @@
       "onboard_time": 1709054301,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255525,
+      "num": 255525,
+      "word": "林一说喜欢周也这样的女生",
+      "onboard_time": 1709094035,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 254554,
@@ -659,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212183,
+      "num": 212183,
+      "word": "檀健次张婧仪台词爆发力",
+      "onboard_time": 1709093796,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 211578,
       "num": 211578,
       "word": "贵州全面清理拖欠企业账款",
@@ -731,12 +827,12 @@
       "category": "数码,汽车"
     },
     {
-      "raw_hot": 193035,
-      "num": 193035,
-      "word": "调查显示母亲学历越高对子女教育投入越高",
-      "onboard_time": 1709090431,
-      "rank": 34,
-      "category": "母婴育儿"
+      "raw_hot": 193385,
+      "num": 193385,
+      "word": "爆改的风为啥越吹越盛了",
+      "onboard_time": 1709092892,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190035,
@@ -803,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174456,
+      "num": 174456,
+      "word": "刘雯走秀",
+      "onboard_time": 1709093737,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169749,
       "num": 169749,
       "word": "斯特鲁斯致命绝杀",
@@ -835,8 +939,16 @@
       "category": "美食"
     },
     {
-      "raw_hot": 166349,
-      "num": 166349,
+      "raw_hot": 168090,
+      "num": 201804,
+      "word": "关晓彤代言的天然呆再被执行35万",
+      "onboard_time": 1709093016,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166786,
+      "num": 166786,
       "word": "女大学生独游峨眉山失联已20天",
       "onboard_time": 1709090973,
       "rank": 41,
@@ -857,6 +969,14 @@
       "onboard_time": 1709089235,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161867,
+      "num": 161867,
+      "word": "中国父母到底为孩子教育花了多少钱",
+      "onboard_time": 1709093494,
+      "rank": 43,
+      "category": "母婴育儿,教育"
     },
     {
       "raw_hot": 152881,
@@ -1132,7 +1252,7 @@
     },
     {
       "raw_hot": 85269,
-      "num": 1360218,
+      "num": 1483120,
       "word": "中国空间站进入常态化运营模式",
       "onboard_time": 1709038594,
       "rank": 2,
@@ -1195,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49891,
+      "num": 375464,
+      "word": "2024大溪地灰风潮",
+      "onboard_time": 1709091334,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 44094,
       "num": 44094,
       "word": "卖老房了老邻居给我妈的信",
@@ -1217,6 +1345,14 @@
       "onboard_time": 1709055979,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31897,
+      "num": 375157,
+      "word": "王安宇李昀锐中式清檀大片",
+      "onboard_time": 1709091871,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 19801,
