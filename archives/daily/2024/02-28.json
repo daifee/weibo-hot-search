@@ -1,10 +1,10 @@
 {
   "startTime": 1709050946453,
-  "endTime": 1709127247729,
+  "endTime": 1709129729801,
   "band_list": [
     {
       "raw_hot": 3351481,
-      "num": 553528,
+      "num": 601038,
       "word": "女教师办公室殴打学生",
       "onboard_time": 1709122294,
       "rank": 10,
@@ -89,6 +89,14 @@
       "onboard_time": 1709088871,
       "rank": 3,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 1655253,
+      "num": 1655253,
+      "word": "霍建华 要拍现在拍别跟着我",
+      "onboard_time": 1709126251,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 1534253,
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1125922,
+      "num": 1125922,
+      "word": "演员王迅游荆州怒批古城墙刻字行为",
+      "onboard_time": 1709125473,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1119403,
       "num": 1119403,
       "word": "被时代淘汰的水果",
@@ -243,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 941281,
+      "num": 596369,
+      "word": "厅长退休后买13套房给子孙",
+      "onboard_time": 1709128474,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 923816,
       "num": 923816,
       "word": "云南失联两兄弟遗体被找到",
@@ -267,6 +291,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 888751,
+      "num": 888751,
+      "word": "被指吃绝户男子发声",
+      "onboard_time": 1709126673,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 882238,
       "num": 882238,
       "word": "黄嘉千称曾被家暴五六次以上",
@@ -280,14 +312,6 @@
       "word": "陈乔恩6天减六斤",
       "onboard_time": 1709088394,
       "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 862254,
-      "num": 862254,
-      "word": "霍建华 要拍现在拍别跟着我",
-      "onboard_time": 1709126251,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -403,6 +427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 737834,
+      "num": 593683,
+      "word": "人流后支离破碎的子宫",
+      "onboard_time": 1709124510,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 732818,
       "num": 732818,
       "word": "找工作",
@@ -467,20 +499,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 690854,
+      "num": 690854,
+      "word": "宗馥莉哽咽追忆父亲宗庆后",
+      "onboard_time": 1709125592,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690609,
+      "num": 690609,
+      "word": "网剧唐人街探案2定档",
+      "onboard_time": 1709126612,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 675243,
       "num": 675243,
       "word": "国产剧洗澡戏越来越见外了",
       "onboard_time": 1709102972,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 671434,
-      "num": 484710,
-      "word": "演员王迅游荆州怒批古城墙刻字行为",
-      "onboard_time": 1709125473,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 667160,
@@ -507,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 643241,
-      "num": 483879,
-      "word": "人流后支离破碎的子宫",
-      "onboard_time": 1709124510,
-      "rank": 10,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 635392,
       "num": 635392,
       "word": "容易被癌细胞盯上的7个饮食习惯",
@@ -529,6 +561,14 @@
       "onboard_time": 1709104114,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 609441,
+      "num": 609441,
+      "word": "教育局回应女老师打骂学生",
+      "onboard_time": 1709128295,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 601847,
@@ -577,6 +617,14 @@
       "onboard_time": 1709113653,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 553059,
+      "num": 553059,
+      "word": "见男朋友父母是需要考察一下的",
+      "onboard_time": 1709124510,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 543410,
@@ -635,20 +683,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 529171,
+      "num": 529171,
+      "word": "张予曦cos杨玉环",
+      "onboard_time": 1709125953,
+      "rank": 27,
+      "category": "作品衍生,游戏"
+    },
+    {
       "raw_hot": 513761,
       "num": 431949,
       "word": "五十五岁那年妈妈终于开始断亲",
       "onboard_time": 1709085393,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 501974,
-      "num": 501974,
-      "word": "网剧唐人街探案2定档",
-      "onboard_time": 1709126612,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 501141,
@@ -835,14 +883,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 415717,
-      "num": 415717,
-      "word": "宗馥莉哽咽追忆父亲宗庆后",
-      "onboard_time": 1709125592,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 413706,
       "num": 413706,
       "word": "为何山姆穷鬼套餐让中产疯狂",
@@ -857,14 +897,6 @@
       "onboard_time": 1709088633,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397047,
-      "num": 397047,
-      "word": "张予曦cos杨玉环",
-      "onboard_time": 1709125953,
-      "rank": 27,
-      "category": "作品衍生,游戏"
     },
     {
       "raw_hot": 392326,
@@ -1051,12 +1083,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 324436,
-      "num": 294077,
-      "word": "见男朋友父母是需要考察一下的",
-      "onboard_time": 1709124510,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 324760,
+      "num": 324760,
+      "word": "迪丽热巴的天使蹲为什么劝你别学",
+      "onboard_time": 1709127395,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 323943,
@@ -1124,7 +1156,7 @@
     },
     {
       "raw_hot": 311587,
-      "num": 465903,
+      "num": 606164,
       "word": "建议启动中小学教师在职学历提升计划",
       "onboard_time": 1709119590,
       "rank": 29,
@@ -1243,12 +1275,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277391,
+      "num": 277391,
+      "word": "挖呀挖黄老师家人回应被造黄谣",
+      "onboard_time": 1709129013,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277222,
       "num": 277222,
       "word": "姚安娜表情包",
       "onboard_time": 1709086592,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274714,
+      "num": 274714,
+      "word": "眼镜爆膜就别再戴了",
+      "onboard_time": 1709125053,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 274633,
@@ -1321,6 +1369,14 @@
       "onboard_time": 1709043698,
       "rank": 9,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 261935,
+      "num": 963089,
+      "word": "我国海上巨无霸已安装就位",
+      "onboard_time": 1709127395,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260729,
@@ -1443,14 +1499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 240528,
-      "num": 240528,
-      "word": "被指吃绝户男子发声",
-      "onboard_time": 1709126673,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240456,
       "num": 240456,
       "word": "拜登回应美国歌手霉霉会为其竞选背书",
@@ -1507,6 +1555,14 @@
       "category": "综艺,作品衍生"
     },
     {
+      "raw_hot": 231213,
+      "num": 231213,
+      "word": "我国有近1亿人是慢阻肺人群",
+      "onboard_time": 1709129074,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 230585,
       "num": 230585,
       "word": "春天排毒减肚子",
@@ -1529,14 +1585,6 @@
       "onboard_time": 1709037154,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228024,
-      "num": 215331,
-      "word": "眼镜爆膜就别再戴了",
-      "onboard_time": 1709125053,
-      "rank": 32,
-      "category": "科学科普"
     },
     {
       "raw_hot": 223973,
@@ -2116,7 +2164,7 @@
     },
     {
       "raw_hot": 164351,
-      "num": 164351,
+      "num": 231654,
       "word": "日本已擅自排海超2.3万吨核污染水",
       "onboard_time": 1709126493,
       "rank": 39,
@@ -2339,12 +2387,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144712,
+      "num": 144712,
+      "word": "上海一养护院起火致1死3伤",
+      "onboard_time": 1709127272,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143879,
       "num": 143879,
       "word": "暗中偷走气血那些事",
       "onboard_time": 1709040936,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 143506,
+      "num": 143506,
+      "word": "四川汉源3.0级地震",
+      "onboard_time": 1709127874,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143250,
@@ -2408,6 +2472,14 @@
       "word": "美国援乌成大生意",
       "onboard_time": 1709105492,
       "rank": 46,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 137408,
+      "num": 137408,
+      "word": "11岁小女孩当战地记者报道现场",
+      "onboard_time": 1709127574,
+      "rank": 44,
       "category": "军事"
     },
     {
@@ -2937,6 +3009,14 @@
       "onboard_time": 1709055979,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 23780,
+      "num": 605215,
+      "word": "雅迪方舟智控的安全感",
+      "onboard_time": 1709127815,
+      "rank": 10,
+      "category": "汽车"
     },
     {
       "raw_hot": 22224,
