@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709213641721,
+  "endTime": 1709216354442,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -120,6 +120,14 @@
       "word": "比亚迪为劝架车主奖励20万",
       "onboard_time": 1708846292,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3028627,
+      "num": 3028627,
+      "word": "福建泉州发生命案",
+      "onboard_time": 1709212413,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -288,6 +296,14 @@
       "word": "厅长退休后买13套房给子孙",
       "onboard_time": 1709128474,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2145856,
+      "num": 2145856,
+      "word": "点读机女孩自称患罕见脑瘤",
+      "onboard_time": 1709214034,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -632,6 +648,14 @@
       "word": "侃爷妻子或因穿着暴露坐牢",
       "onboard_time": 1709185773,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1539331,
+      "num": 1539331,
+      "word": "郭麒麟胖了",
+      "onboard_time": 1709213196,
+      "rank": 7,
       "category": "艺人"
     },
     {
@@ -1547,6 +1571,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 895581,
+      "num": 365927,
+      "word": "永远别去碰谈了三四年恋爱的人",
+      "onboard_time": 1709215296,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 894236,
       "num": 894236,
       "word": "Makiyo瘦脱相",
@@ -1601,6 +1633,14 @@
       "onboard_time": 1709126673,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 887756,
+      "num": 887756,
+      "word": "苗苗最新状态",
+      "onboard_time": 1709213554,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 885161,
@@ -2075,6 +2115,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 762591,
+      "num": 762591,
+      "word": "曹璐回应落选浪姐",
+      "onboard_time": 1709215296,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 762141,
       "num": 762141,
       "word": "西安平均招聘薪酬9326元/月",
@@ -2339,14 +2387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 708139,
-      "num": 653903,
-      "word": "福建泉州发生命案",
-      "onboard_time": 1709212413,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 706778,
       "num": 706778,
       "word": "王安宇登门拜访姐夫了吗",
@@ -2529,14 +2569,6 @@
       "onboard_time": 1708856191,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 673788,
-      "num": 673788,
-      "word": "郭麒麟胖了",
-      "onboard_time": 1709213196,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 671814,
@@ -2833,6 +2865,14 @@
       "onboard_time": 1709210915,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 613838,
+      "num": 613838,
+      "word": "朱丹也来浪姐了",
+      "onboard_time": 1709214336,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 612179,
@@ -3731,6 +3771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 495410,
+      "num": 495410,
+      "word": "苏醒 这么多年还是想先淘汰我",
+      "onboard_time": 1709214578,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 495350,
       "num": 495350,
       "word": "韩彩英 教授肯定也不认识我",
@@ -3881,6 +3929,14 @@
       "onboard_time": 1708873774,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 486816,
+      "num": 486816,
+      "word": "3月十二星座注意事项",
+      "onboard_time": 1709214218,
+      "rank": 12,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 483777,
@@ -4491,6 +4547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 418052,
+      "num": 418052,
+      "word": "花少团真的去了秦岚家",
+      "onboard_time": 1709215898,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 417579,
       "num": 417579,
       "word": "唐嫣去巴黎吃麻辣烫",
@@ -4593,6 +4657,14 @@
       "onboard_time": 1708948714,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 408529,
+      "num": 356389,
+      "word": "唐嫣耳环好大",
+      "onboard_time": 1709214936,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 407910,
@@ -4849,6 +4921,14 @@
       "onboard_time": 1709103154,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 380707,
+      "num": 380707,
+      "word": "县城一中到底有多重要",
+      "onboard_time": 1709214998,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 380466,
@@ -6667,6 +6747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 267043,
+      "num": 267043,
+      "word": "小团团前公会已成被执行人",
+      "onboard_time": 1709215235,
+      "rank": 27,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 266331,
       "num": 266331,
       "word": "阿里云全线降价20%",
@@ -6713,6 +6801,14 @@
       "onboard_time": 1708913434,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 263233,
+      "num": 263233,
+      "word": "林高远 四年后的你会怎样",
+      "onboard_time": 1709215296,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 262603,
@@ -7787,6 +7883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226583,
+      "num": 226583,
+      "word": "周处除三害看得好爽",
+      "onboard_time": 1709215115,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 226465,
       "num": 226465,
       "word": "沈梦辰回复杨迪",
@@ -7961,6 +8065,14 @@
       "onboard_time": 1708839453,
       "rank": 28,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 221110,
+      "num": 221110,
+      "word": "湖南天门山景区有人跳崖",
+      "onboard_time": 1709213797,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221042,
@@ -10171,14 +10283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 177497,
-      "num": 177497,
-      "word": "苗苗最新状态",
-      "onboard_time": 1709213554,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177241,
       "num": 177241,
       "word": "宝可梦传说ZA公开",
@@ -10763,6 +10867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166633,
+      "num": 166633,
+      "word": "伞兵2000淘汰",
+      "onboard_time": 1709216318,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166581,
       "num": 166581,
       "word": "贵州乡村教师用爱缝合球场地面",
@@ -10793,6 +10905,14 @@
       "onboard_time": 1708910793,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 165984,
+      "num": 165984,
+      "word": "阮经天演技",
+      "onboard_time": 1709045795,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 165968,
@@ -11219,6 +11339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157332,
+      "num": 157332,
+      "word": "富家千金妆",
+      "onboard_time": 1709216018,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 157309,
       "num": 157309,
       "word": "小米汽车最早二季度交付",
@@ -11361,14 +11489,6 @@
       "onboard_time": 1708980136,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154379,
-      "num": 154379,
-      "word": "阮经天演技",
-      "onboard_time": 1709045795,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 154366,
@@ -13507,6 +13627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 103530,
+      "num": 204183,
+      "word": "钱塘江退潮露出龙形潮汐树",
+      "onboard_time": 1709216075,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103043,
       "num": 731746,
       "word": "退役搜救犬跳车狂奔扑向训导员",
@@ -14172,7 +14300,7 @@
     },
     {
       "raw_hot": 27061,
-      "num": 1320966,
+      "num": 1570584,
       "word": "微观两会",
       "onboard_time": 1709194052,
       "rank": 28,
