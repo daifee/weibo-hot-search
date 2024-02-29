@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709192039529,
+  "endTime": 1709194839301,
   "band_list": [
     {
       "raw_hot": 2782869,
@@ -33,6 +33,14 @@
       "onboard_time": 1709175633,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2069693,
+      "num": 2069693,
+      "word": "武汉大学 莞莞类卿",
+      "onboard_time": 1709190751,
+      "rank": 11,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 1888132,
@@ -99,14 +107,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1207914,
-      "num": 1207914,
-      "word": "武汉大学 莞莞类卿",
-      "onboard_time": 1709190751,
-      "rank": 11,
-      "category": "教育,幽默"
-    },
-    {
       "raw_hot": 1155864,
       "num": 1155864,
       "word": "小洋睡不着道歉",
@@ -121,6 +121,14 @@
       "onboard_time": 1709180796,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 992392,
+      "num": 992392,
+      "word": "手机电池不喜欢100%的饱和状态",
+      "onboard_time": 1709192971,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 979065,
@@ -171,6 +179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 802519,
+      "num": 802519,
+      "word": "李溪芮自荐报名浪姐",
+      "onboard_time": 1709190689,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 800280,
       "num": 800280,
       "word": "短剧爆款编剧月入可超10万",
@@ -209,14 +225,6 @@
       "onboard_time": 1709180736,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 672202,
-      "num": 338242,
-      "word": "李溪芮自荐报名浪姐",
-      "onboard_time": 1709190689,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 659350,
@@ -289,6 +297,22 @@
       "onboard_time": 1709168553,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 534465,
+      "num": 534465,
+      "word": "大谷翔平结婚",
+      "onboard_time": 1709193633,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 507999,
+      "num": 507999,
+      "word": "港剧是懂女性痛经的",
+      "onboard_time": 1709190151,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 507263,
@@ -377,14 +401,6 @@
       "onboard_time": 1709164892,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 461533,
-      "num": 332012,
-      "word": "港剧是懂女性痛经的",
-      "onboard_time": 1709190151,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 457319,
@@ -483,12 +499,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397399,
+      "num": 397399,
+      "word": "4种食物是升糖大户尽量少吃",
+      "onboard_time": 1709186372,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 396642,
       "num": 396642,
       "word": "霍建华 要拍现在拍别跟着我",
       "onboard_time": 1709126251,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 396560,
+      "num": 396560,
+      "word": "京东物流被曝将招聘上万人",
+      "onboard_time": 1709193870,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 391303,
+      "num": 391303,
+      "word": "小鹏P7",
+      "onboard_time": 1709192791,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 389083,
@@ -547,6 +587,14 @@
       "category": "母婴育儿,健康医疗"
     },
     {
+      "raw_hot": 367094,
+      "num": 367094,
+      "word": "王者 菜狗天幕",
+      "onboard_time": 1709191354,
+      "rank": 27,
+      "category": "电竞,游戏"
+    },
+    {
       "raw_hot": 359512,
       "num": 359512,
       "word": "专家建议给部分70后80后养老金补偿",
@@ -577,14 +625,6 @@
       "onboard_time": 1709173472,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 345703,
-      "num": 289836,
-      "word": "4种食物是升糖大户尽量少吃",
-      "onboard_time": 1709186372,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 342269,
@@ -641,6 +681,14 @@
       "onboard_time": 1709126673,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327937,
+      "num": 327937,
+      "word": "任泉回应街头拥抱陌生人",
+      "onboard_time": 1709193690,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 320934,
@@ -859,6 +907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243490,
+      "num": 243490,
+      "word": "对一块钱的概念越来越模糊了",
+      "onboard_time": 1709193813,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 238760,
       "num": 238760,
       "word": "睡觉翻个身房子塌了",
@@ -923,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227490,
+      "num": 227490,
+      "word": "花花运动量vs和叶运动量",
+      "onboard_time": 1709191774,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224569,
       "num": 224569,
       "word": "马面裙原来与马无关",
@@ -977,6 +1041,14 @@
       "onboard_time": 1709184036,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213131,
+      "num": 213131,
+      "word": "周鸿祎称PPT是忽悠人的最好工具",
+      "onboard_time": 1709193452,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 211533,
@@ -1067,14 +1139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 197887,
-      "num": 197887,
-      "word": "王者 菜狗天幕",
-      "onboard_time": 1709191354,
-      "rank": 27,
-      "category": "电竞,游戏"
-    },
-    {
       "raw_hot": 196116,
       "num": 196116,
       "word": "迪丽热巴开始推理吧路透",
@@ -1153,6 +1217,14 @@
       "onboard_time": 1709186134,
       "rank": 32,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 190246,
+      "num": 190246,
+      "word": "夫妻的性格真的会越来越像吗",
+      "onboard_time": 1709192193,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 189670,
@@ -1275,6 +1347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176097,
+      "num": 176097,
+      "word": "Hero零封RNGM",
+      "onboard_time": 1709194171,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174141,
       "num": 174141,
       "word": "原来狗不嫌家贫是因为没富过",
@@ -1329,6 +1409,22 @@
       "onboard_time": 1709180917,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167726,
+      "num": 167726,
+      "word": "高叶白背心",
+      "onboard_time": 1709194110,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167541,
+      "num": 167541,
+      "word": "小芦丁鸡具体有多小",
+      "onboard_time": 1709192613,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 166581,
@@ -1539,6 +1635,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145671,
+      "num": 145671,
+      "word": "柯哀同人图",
+      "onboard_time": 1709192310,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 143920,
+      "num": 143920,
+      "word": "日本留学生分享中文学习经历",
+      "onboard_time": 1709193030,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143901,
       "num": 143901,
       "word": "NBA",
@@ -1739,6 +1851,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 118428,
+      "num": 118428,
+      "word": "阚清子晒飞驰人生片场照",
+      "onboard_time": 1709192252,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118339,
       "num": 118339,
       "word": "见男朋友父母是需要考察一下的",
@@ -1787,20 +1907,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113346,
-      "num": 113346,
-      "word": "花花运动量vs和叶运动量",
-      "onboard_time": 1709191774,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110469,
       "num": 110469,
       "word": "让我自觉词汇量匮乏的景色",
       "onboard_time": 1709171852,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 108731,
+      "num": 108731,
+      "word": "贾跃亭点评苹果放弃造车",
+      "onboard_time": 1709193992,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 108379,
@@ -1833,6 +1953,14 @@
       "onboard_time": 1709191171,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105362,
+      "num": 105362,
+      "word": "iOS版地震预警APP添加预警功能订阅",
+      "onboard_time": 1709194714,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 104616,
@@ -2019,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44066,
+      "num": 1036938,
+      "word": "2023中国科学十大进展公布",
+      "onboard_time": 1709194533,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32272,
       "num": 32272,
       "word": "全球发音",
@@ -2035,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27061,
+      "num": 177153,
+      "word": "微观两会",
+      "onboard_time": 1709194052,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25242,
       "num": 25242,
       "word": "谁懂这种住酒店式的短途旅行",
@@ -2049,6 +2193,14 @@
       "onboard_time": 1709182234,
       "rank": 20,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 20676,
+      "num": 398729,
+      "word": "智能首饰穿搭风",
+      "onboard_time": 1709192310,
+      "rank": 11,
+      "category": "时尚,数码"
     },
     {
       "raw_hot": 10393,

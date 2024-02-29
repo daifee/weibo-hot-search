@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1709192039529,
+  "endTime": 1709194839301,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2241,6 +2241,14 @@
       "onboard_time": 1708471527,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2069693,
+      "num": 2069693,
+      "word": "武汉大学 莞莞类卿",
+      "onboard_time": 1709190751,
+      "rank": 11,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 2066829,
@@ -6107,14 +6115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1207914,
-      "num": 1207914,
-      "word": "武汉大学 莞莞类卿",
-      "onboard_time": 1709190751,
-      "rank": 11,
-      "category": "教育,幽默"
-    },
-    {
       "raw_hot": 1207536,
       "num": 629139,
       "word": "罗志祥回应什么时候来内地",
@@ -8297,6 +8297,14 @@
       "onboard_time": 1708586374,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 992392,
+      "num": 992392,
+      "word": "手机电池不喜欢100%的饱和状态",
+      "onboard_time": 1709192971,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 992283,
@@ -11256,6 +11264,14 @@
       "word": "山花",
       "onboard_time": 1707491236,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 802519,
+      "num": 802519,
+      "word": "李溪芮自荐报名浪姐",
+      "onboard_time": 1709190689,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -14409,14 +14425,6 @@
       "onboard_time": 1708010378,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 672202,
-      "num": 338242,
-      "word": "李溪芮自荐报名浪姐",
-      "onboard_time": 1709190689,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 671703,
@@ -19035,6 +19043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 534465,
+      "num": 534465,
+      "word": "大谷翔平结婚",
+      "onboard_time": 1709193633,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 534367,
       "num": 525909,
       "word": "官方回应与傅园慧经历相似却维权失败",
@@ -20137,6 +20153,14 @@
       "onboard_time": 1707559296,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 507999,
+      "num": 507999,
+      "word": "港剧是懂女性痛经的",
+      "onboard_time": 1709190151,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 507988,
@@ -22297,14 +22321,6 @@
       "onboard_time": 1706854293,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 461533,
-      "num": 332012,
-      "word": "港剧是懂女性痛经的",
-      "onboard_time": 1709190151,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 461497,
@@ -25771,6 +25787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 397399,
+      "num": 397399,
+      "word": "4种食物是升糖大户尽量少吃",
+      "onboard_time": 1709186372,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 397220,
       "num": 397220,
       "word": "潘长江林一身高差",
@@ -25801,6 +25825,14 @@
       "onboard_time": 1708526498,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 396560,
+      "num": 396560,
+      "word": "京东物流被曝将招聘上万人",
+      "onboard_time": 1709193870,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 396448,
@@ -26001,6 +26033,14 @@
       "onboard_time": 1708147594,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 391303,
+      "num": 391303,
+      "word": "小鹏P7",
+      "onboard_time": 1709192791,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 391214,
@@ -27627,6 +27667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367094,
+      "num": 367094,
+      "word": "王者 菜狗天幕",
+      "onboard_time": 1709191354,
+      "rank": 27,
+      "category": "电竞,游戏"
+    },
+    {
       "raw_hot": 366948,
       "num": 360450,
       "word": "你们合不合适断联一下就知道了",
@@ -28963,14 +29011,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 345703,
-      "num": 289836,
-      "word": "4种食物是升糖大户尽量少吃",
-      "onboard_time": 1709186372,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 345592,
       "num": 345592,
       "word": "你懂远嫁女儿的愧疚吗",
@@ -30153,6 +30193,14 @@
       "onboard_time": 1707399816,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 327937,
+      "num": 327937,
+      "word": "任泉回应街头拥抱陌生人",
+      "onboard_time": 1709193690,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 327900,
@@ -39403,6 +39451,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 243490,
+      "num": 243490,
+      "word": "对一块钱的概念越来越模糊了",
+      "onboard_time": 1709193813,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243478,
       "num": 243478,
       "word": "苹果首个银行木马被曝光",
@@ -41937,6 +41993,14 @@
       "onboard_time": 1707278490,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 227490,
+      "num": 227490,
+      "word": "花花运动量vs和叶运动量",
+      "onboard_time": 1709191774,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227458,
@@ -44761,6 +44825,14 @@
       "onboard_time": 1708770154,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213131,
+      "num": 213131,
+      "word": "周鸿祎称PPT是忽悠人的最好工具",
+      "onboard_time": 1709193452,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 213090,
@@ -48835,14 +48907,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 197887,
-      "num": 197887,
-      "word": "王者 菜狗天幕",
-      "onboard_time": 1709191354,
-      "rank": 27,
-      "category": "电竞,游戏"
-    },
-    {
       "raw_hot": 197854,
       "num": 197854,
       "word": "监管方面称量化交易恢复传闻不实",
@@ -51321,6 +51385,14 @@
       "onboard_time": 1708996594,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190246,
+      "num": 190246,
+      "word": "夫妻的性格真的会越来越像吗",
+      "onboard_time": 1709192193,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 190182,
@@ -55099,6 +55171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176097,
+      "num": 176097,
+      "word": "Hero零封RNGM",
+      "onboard_time": 1709194171,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176081,
       "num": 176081,
       "word": "春节档电影票价有多离谱",
@@ -57507,6 +57587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167726,
+      "num": 167726,
+      "word": "高叶白背心",
+      "onboard_time": 1709194110,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167697,
       "num": 167697,
       "word": "沈月拯救我自拍技术",
@@ -57561,6 +57649,14 @@
       "onboard_time": 1708685613,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 167541,
+      "num": 167541,
+      "word": "小芦丁鸡具体有多小",
+      "onboard_time": 1709192613,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 167516,
@@ -63843,6 +63939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145671,
+      "num": 145671,
+      "word": "柯哀同人图",
+      "onboard_time": 1709192310,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 145660,
       "num": 145660,
       "word": "奶奶这不是你的梦中情孙吗",
@@ -64415,6 +64519,14 @@
       "num": 143920,
       "word": "回南天起床看到克系现象",
       "onboard_time": 1706780490,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 143920,
+      "num": 143920,
+      "word": "日本留学生分享中文学习经历",
+      "onboard_time": 1709193030,
       "rank": 39,
       "category": "幽默"
     },
@@ -71019,6 +71131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118428,
+      "num": 118428,
+      "word": "阚清子晒飞驰人生片场照",
+      "onboard_time": 1709192252,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118314,
       "num": 118314,
       "word": "瑶真我赫兹第二张海报",
@@ -71963,14 +72083,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 113346,
-      "num": 113346,
-      "word": "花花运动量vs和叶运动量",
-      "onboard_time": 1709191774,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113273,
       "num": 113273,
       "word": "封闭十几年西安鼓楼门洞为游客开放",
@@ -72899,6 +73011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108731,
+      "num": 108731,
+      "word": "贾跃亭点评苹果放弃造车",
+      "onboard_time": 1709193992,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 108709,
       "num": 108709,
       "word": "草木皆冰",
@@ -73385,6 +73505,14 @@
       "onboard_time": 1707134550,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105362,
+      "num": 105362,
+      "word": "iOS版地震预警APP添加预警功能订阅",
+      "onboard_time": 1709194714,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 105249,
@@ -77523,6 +77651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 44066,
+      "num": 1036938,
+      "word": "2023中国科学十大进展公布",
+      "onboard_time": 1709194533,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44064,
       "num": 36847,
       "word": "Belle上春晚",
@@ -78619,6 +78755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 27061,
+      "num": 177153,
+      "word": "微观两会",
+      "onboard_time": 1709194052,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27003,
       "num": 617925,
       "word": "哪位幸运儿抽中京东元宵节大奖",
@@ -79049,6 +79193,14 @@
       "onboard_time": 1708171652,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20676,
+      "num": 398729,
+      "word": "智能首饰穿搭风",
+      "onboard_time": 1709192310,
+      "rank": 11,
+      "category": "时尚,数码"
     },
     {
       "raw_hot": 20626,
