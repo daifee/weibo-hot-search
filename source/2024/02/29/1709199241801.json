@@ -1,0 +1,410 @@
+{
+  "runTime": 1709199241801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1661342,
+        "num": 1661342,
+        "word": "手机电池不喜欢100%的饱和状态",
+        "onboard_time": 1709192971,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1379356,
+        "num": 1379356,
+        "word": "京东物流被曝将招聘上万人",
+        "onboard_time": 1709193870,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 218731,
+        "num": 1204746,
+        "word": "2023中国科学十大进展公布",
+        "onboard_time": 1709194533,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1058967,
+        "num": 1058967,
+        "word": "汪峰女儿小苹果晒留学照",
+        "onboard_time": 1709196631,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 923422,
+        "num": 923422,
+        "word": "武汉大学 莞莞类卿",
+        "onboard_time": 1709190751,
+        "rank": 4,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 762934,
+        "num": 762934,
+        "word": "浪姐路透",
+        "onboard_time": 1709198012,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555762,
+        "num": 555762,
+        "word": "港剧是懂女性痛经的",
+        "onboard_time": 1709190151,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 529963,
+        "num": 529963,
+        "word": "任泉回应街头拥抱陌生人",
+        "onboard_time": 1709193690,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426121,
+        "num": 426121,
+        "word": "4种食物是升糖大户尽量少吃",
+        "onboard_time": 1709186372,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 364395,
+        "num": 425774,
+        "word": "公安介入调查女教师殴打学生",
+        "onboard_time": 1709198492,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 923328,
+        "num": 425333,
+        "word": "侃爷妻子或因穿着暴露坐牢",
+        "onboard_time": 1709185773,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543142,
+        "num": 425045,
+        "word": "日食记 锅塌茄子",
+        "onboard_time": 1709196210,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 534122,
+        "num": 424403,
+        "word": "中共中央政治局召开会议",
+        "onboard_time": 1709196871,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 424294,
+        "num": 424294,
+        "word": "刘忻 浪姐",
+        "onboard_time": 1709186553,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450070,
+        "num": 420662,
+        "word": "iPhone15官旗全系降至历史最低价",
+        "onboard_time": 1709186012,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 416900,
+        "num": 416900,
+        "word": "小鹏汽车撞到交通标志翻转起火",
+        "onboard_time": 1709198191,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370185,
+        "num": 370185,
+        "word": "马航失联乘客家属再次赴马参会",
+        "onboard_time": 1709188292,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365112,
+        "num": 365112,
+        "word": "IU汤唯贴贴",
+        "onboard_time": 1709197351,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 58353,
+        "num": 361131,
+        "word": "首例厂商担责的无人驾驶功能",
+        "onboard_time": 1709197651,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 358100,
+        "num": 358100,
+        "word": "被我弄丢的你",
+        "onboard_time": 1709195374,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 326073,
+        "num": 326073,
+        "word": "李溪芮自荐报名浪姐",
+        "onboard_time": 1709190689,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307981,
+        "num": 307981,
+        "word": "小鹏P7",
+        "onboard_time": 1709192791,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 307442,
+        "num": 307442,
+        "word": "花10万把老家房子改造了",
+        "onboard_time": 1709197651,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293128,
+        "num": 293128,
+        "word": "何洁录制浪姐",
+        "onboard_time": 1709198793,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275133,
+        "num": 275133,
+        "word": "3月8日妇女放假半天",
+        "onboard_time": 1709175633,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269542,
+        "num": 269542,
+        "word": "大谷翔平结婚",
+        "onboard_time": 1709193633,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267906,
+        "num": 267906,
+        "word": "与凤行过审下证",
+        "onboard_time": 1709198492,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221413,
+        "num": 221413,
+        "word": "邓为上海活动人气",
+        "onboard_time": 1709198433,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209553,
+        "num": 209553,
+        "word": "陈都灵线下活动",
+        "onboard_time": 1709197052,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209351,
+        "num": 209351,
+        "word": "王牛 抢票",
+        "onboard_time": 1709195253,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197074,
+        "num": 197074,
+        "word": "对一块钱的概念越来越模糊了",
+        "onboard_time": 1709193813,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196130,
+        "num": 196130,
+        "word": "杨紫票房总成绩破80亿",
+        "onboard_time": 1709183913,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170006,
+        "num": 170006,
+        "word": "檀健次首映现场鼓励粉丝",
+        "onboard_time": 1709197952,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163139,
+        "num": 163139,
+        "word": "警方回应医院未发现肿瘤仍切除器官",
+        "onboard_time": 1709189613,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157051,
+        "num": 157051,
+        "word": "王者 菜狗天幕",
+        "onboard_time": 1709191354,
+        "rank": 34,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 151148,
+        "num": 151148,
+        "word": "刘诗雯全英文演讲",
+        "onboard_time": 1709198972,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150437,
+        "num": 150437,
+        "word": "被我弄丢的你校园首映",
+        "onboard_time": 1709195074,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145892,
+        "num": 145892,
+        "word": "iOS版地震预警APP添加预警功能订阅",
+        "onboard_time": 1709194714,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143455,
+        "num": 143455,
+        "word": "侵权杨颖商家被执行10万",
+        "onboard_time": 1709195730,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137709,
+        "num": 137709,
+        "word": "四年一日的特殊在哪里",
+        "onboard_time": 1709198911,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129080,
+        "num": 129080,
+        "word": "李一桐素颜营业图",
+        "onboard_time": 1709195012,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128265,
+        "num": 128265,
+        "word": "挖呀挖黄老师已向警方提供证据",
+        "onboard_time": 1709179470,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120775,
+        "num": 120775,
+        "word": "杨幂巴黎饭拍",
+        "onboard_time": 1709188648,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116607,
+        "num": 116607,
+        "word": "张杰官宣演唱会",
+        "onboard_time": 1709180736,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115878,
+        "num": 115878,
+        "word": "夫妻的性格真的会越来越像吗",
+        "onboard_time": 1709192193,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114764,
+        "num": 114764,
+        "word": "建议减轻中小学教师行政压力",
+        "onboard_time": 1709186792,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113156,
+        "num": 113156,
+        "word": "花花运动量vs和叶运动量",
+        "onboard_time": 1709191774,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112178,
+        "num": 112178,
+        "word": "代号鸢 警惕狐狸男",
+        "onboard_time": 1709199211,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111468,
+        "num": 111468,
+        "word": "林俊杰演唱会四城官宣",
+        "onboard_time": 1709184572,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110748,
+        "num": 110748,
+        "word": "Milkyway春季赛MVP数第一",
+        "onboard_time": 1709199211,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中塞关系堪称中非团结合作的典范#"
+    }
+  }
+}

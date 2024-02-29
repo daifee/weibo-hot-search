@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709198284054,
+  "endTime": 1709199241801,
   "band_list": [
     {
       "raw_hot": 2782869,
@@ -139,8 +139,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1025274,
-      "num": 1025274,
+      "raw_hot": 1058967,
+      "num": 1058967,
       "word": "汪峰女儿小苹果晒留学照",
       "onboard_time": 1709196631,
       "rank": 4,
@@ -217,6 +217,14 @@
       "onboard_time": 1709128295,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 762934,
+      "num": 762934,
+      "word": "浪姐路透",
+      "onboard_time": 1709198012,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 725754,
@@ -337,6 +345,22 @@
       "onboard_time": 1709190151,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 543142,
+      "num": 425045,
+      "word": "日食记 锅塌茄子",
+      "onboard_time": 1709196210,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 534122,
+      "num": 424403,
+      "word": "中共中央政治局召开会议",
+      "onboard_time": 1709196871,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 507263,
@@ -491,14 +515,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 434725,
-      "num": 178174,
-      "word": "日食记 锅塌茄子",
-      "onboard_time": 1709196210,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 434109,
       "num": 434109,
       "word": "爱奇艺去年总营收319亿元",
@@ -531,12 +547,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 407992,
-      "num": 177345,
-      "word": "中共中央政治局召开会议",
-      "onboard_time": 1709196871,
-      "rank": 31,
-      "category": "国内时政"
+      "raw_hot": 416900,
+      "num": 416900,
+      "word": "小鹏汽车撞到交通标志翻转起火",
+      "onboard_time": 1709198191,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405823,
@@ -627,12 +643,36 @@
       "category": "电竞,游戏"
     },
     {
+      "raw_hot": 365112,
+      "num": 365112,
+      "word": "IU汤唯贴贴",
+      "onboard_time": 1709197351,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 364395,
+      "num": 425774,
+      "word": "公安介入调查女教师殴打学生",
+      "onboard_time": 1709198492,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359512,
       "num": 359512,
       "word": "专家建议给部分70后80后养老金补偿",
       "onboard_time": 1709157495,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358100,
+      "num": 358100,
+      "word": "被我弄丢的你",
+      "onboard_time": 1709195374,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 355463,
@@ -707,14 +747,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 332802,
-      "num": 332802,
-      "word": "被我弄丢的你",
-      "onboard_time": 1709195374,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 332562,
       "num": 332562,
       "word": "被指吃绝户男子发声",
@@ -724,7 +756,7 @@
     },
     {
       "raw_hot": 328006,
-      "num": 234087,
+      "num": 307442,
       "word": "花10万把老家房子改造了",
       "onboard_time": 1709197651,
       "rank": 20,
@@ -763,12 +795,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 301240,
-      "num": 301240,
-      "word": "IU汤唯贴贴",
-      "onboard_time": 1709197351,
-      "rank": 16,
-      "category": "音乐"
+      "raw_hot": 293128,
+      "num": 293128,
+      "word": "何洁录制浪姐",
+      "onboard_time": 1709198793,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 291032,
@@ -833,6 +865,14 @@
       "onboard_time": 1709176834,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 267906,
+      "num": 267906,
+      "word": "与凤行过审下证",
+      "onboard_time": 1709198492,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 266331,
@@ -1091,12 +1131,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220678,
-      "num": 220678,
-      "word": "浪姐路透",
-      "onboard_time": 1709198012,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 221413,
+      "num": 221413,
+      "word": "邓为上海活动人气",
+      "onboard_time": 1709198433,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218731,
+      "num": 1237996,
+      "word": "2023中国科学十大进展公布",
+      "onboard_time": 1709194533,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 218125,
@@ -1105,14 +1153,6 @@
       "onboard_time": 1709132554,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216200,
-      "num": 1237996,
-      "word": "2023中国科学十大进展公布",
-      "onboard_time": 1709194533,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 213966,
@@ -1387,14 +1427,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 184436,
-      "num": 173635,
-      "word": "小鹏汽车撞到交通标志翻转起火",
-      "onboard_time": 1709198191,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184280,
       "num": 184280,
       "word": "湖人vs快船",
@@ -1529,6 +1561,14 @@
       "onboard_time": 1709170172,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170006,
+      "num": 170006,
+      "word": "檀健次首映现场鼓励粉丝",
+      "onboard_time": 1709197952,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 169433,
@@ -1715,6 +1755,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 151148,
+      "num": 151148,
+      "word": "刘诗雯全英文演讲",
+      "onboard_time": 1709198972,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151062,
       "num": 151062,
       "word": "保罗炮轰莫雷",
@@ -1851,20 +1899,20 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 137709,
+      "num": 137709,
+      "word": "四年一日的特殊在哪里",
+      "onboard_time": 1709198911,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136921,
       "num": 136921,
       "word": "kara郑妮可长沙机场路透",
       "onboard_time": 1709185053,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135700,
-      "num": 135700,
-      "word": "檀健次首映现场鼓励粉丝",
-      "onboard_time": 1709197952,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 134995,
@@ -2067,6 +2115,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112178,
+      "num": 112178,
+      "word": "代号鸢 警惕狐狸男",
+      "onboard_time": 1709199211,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 110748,
+      "num": 110748,
+      "word": "Milkyway春季赛MVP数第一",
+      "onboard_time": 1709199211,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110469,
       "num": 110469,
       "word": "让我自觉词汇量匮乏的景色",
@@ -2244,7 +2308,7 @@
     },
     {
       "raw_hot": 69702,
-      "num": 175366,
+      "num": 361131,
       "word": "首例厂商担责的无人驾驶功能",
       "onboard_time": 1709197651,
       "rank": 32,
