@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1709202018488,
+  "endTime": 1709202987062,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -851,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3110421,
+      "num": 3110421,
+      "word": "小团团",
+      "onboard_time": 1709200170,
+      "rank": 0,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 3100456,
       "num": 3100456,
       "word": "樊振东黄牌",
@@ -1089,14 +1097,6 @@
       "onboard_time": 1707989973,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2746525,
-      "num": 2746525,
-      "word": "小团团",
-      "onboard_time": 1709200170,
-      "rank": 0,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 2746397,
@@ -3763,6 +3763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1618343,
+      "num": 1618343,
+      "word": "马天宇为女教师殴打学生事件发声",
+      "onboard_time": 1709199691,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1616741,
       "num": 1616741,
       "word": "昨晚失眠",
@@ -5473,6 +5481,14 @@
       "onboard_time": 1708239935,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1290063,
+      "num": 1290063,
+      "word": "泰国男子寺庙闹事意外被佛像刺死",
+      "onboard_time": 1709200290,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1289818,
@@ -8443,14 +8459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 976695,
-      "num": 976695,
-      "word": "泰国男子寺庙闹事意外被佛像刺死",
-      "onboard_time": 1709200290,
-      "rank": 3,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 976345,
       "num": 976345,
       "word": "2024中央一号文件公布",
@@ -9209,14 +9217,6 @@
       "onboard_time": 1707047794,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 925550,
-      "num": 925550,
-      "word": "马天宇为女教师殴打学生事件发声",
-      "onboard_time": 1709199691,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 925472,
@@ -16515,6 +16515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 608564,
+      "num": 608564,
+      "word": "老师粗暴对学生涉事学校校长被免职",
+      "onboard_time": 1709201133,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608378,
       "num": 404318,
       "word": "池昌旭方为室内吸烟道歉",
@@ -18169,6 +18177,14 @@
       "onboard_time": 1708991489,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557595,
+      "num": 557595,
+      "word": "曹璐 没来浪姐",
+      "onboard_time": 1709201853,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 557576,
@@ -23441,14 +23457,6 @@
       "onboard_time": 1708999712,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 439625,
-      "num": 439625,
-      "word": "老师粗暴对学生涉事学校校长被免职",
-      "onboard_time": 1709201133,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 439351,
@@ -30483,6 +30491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 325457,
+      "num": 325457,
+      "word": "原来四年过一次生日也是一种幸福",
+      "onboard_time": 1709201613,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 325407,
       "num": 325407,
       "word": "甘肃麻辣烫",
@@ -31969,6 +31985,14 @@
       "onboard_time": 1707303933,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 308735,
+      "num": 308735,
+      "word": "杨谨华真的来了",
+      "onboard_time": 1709200713,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 308669,
@@ -34099,14 +34123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 287247,
-      "num": 287247,
-      "word": "杨谨华真的来了",
-      "onboard_time": 1709200713,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 287202,
       "num": 287202,
       "word": "0713是懂煽情的",
@@ -35745,6 +35761,14 @@
       "onboard_time": 1706832688,
       "rank": 17,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 272972,
+      "num": 272972,
+      "word": "最新居民收入五档划分",
+      "onboard_time": 1709201613,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272941,
@@ -38185,6 +38209,14 @@
       "onboard_time": 1707372991,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 253081,
+      "num": 777025,
+      "word": "女子为母亲销户泪崩民警帮其找出旧照",
+      "onboard_time": 1709200231,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253041,
@@ -42403,14 +42435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 225960,
-      "num": 777025,
-      "word": "女子为母亲销户泪崩民警帮其找出旧照",
-      "onboard_time": 1709200231,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225891,
       "num": 225891,
       "word": "星穹铁道花火",
@@ -43940,7 +43964,7 @@
     },
     {
       "raw_hot": 218731,
-      "num": 1237996,
+      "num": 1437332,
       "word": "2023中国科学十大进展公布",
       "onboard_time": 1709194533,
       "rank": 2,
@@ -46025,14 +46049,6 @@
       "onboard_time": 1708492237,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 208383,
-      "num": 208383,
-      "word": "原来四年过一次生日也是一种幸福",
-      "onboard_time": 1709201613,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 208346,
@@ -59291,14 +59307,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 162868,
-      "num": 162868,
-      "word": "曹璐 没来浪姐",
-      "onboard_time": 1709201853,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 162860,
       "num": 162860,
       "word": "大学生抢不到车票报旅游团返校",
@@ -61088,6 +61096,14 @@
       "word": "狗自己都觉得好笑",
       "onboard_time": 1708432898,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 156711,
+      "num": 156711,
+      "word": "这俩猫能有什么病",
+      "onboard_time": 1709202575,
+      "rank": 39,
       "category": "幽默"
     },
     {
@@ -63177,14 +63193,6 @@
       "onboard_time": 1709185954,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149259,
-      "num": 149259,
-      "word": "最新居民收入五档划分",
-      "onboard_time": 1709201613,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149233,
@@ -65955,6 +65963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139778,
+      "num": 139778,
+      "word": "四川省考排名",
+      "onboard_time": 1709202214,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 139718,
       "num": 139718,
       "word": "华晨宇人生手书",
@@ -66521,6 +66537,14 @@
       "onboard_time": 1707120870,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 137959,
+      "num": 137959,
+      "word": "原来老人也喜欢收到惊喜",
+      "onboard_time": 1709202273,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 137931,
@@ -71467,6 +71491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 118328,
+      "num": 118328,
+      "word": "当家长听到孩子的意见时",
+      "onboard_time": 1709202392,
+      "rank": 47,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 118314,
       "num": 118314,
       "word": "瑶真我赫兹第二张海报",
@@ -72075,12 +72107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115298,
+      "num": 115298,
+      "word": "花海的曹操",
+      "onboard_time": 1709202871,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115280,
       "num": 211196,
       "word": "美国1月CPI报告",
       "onboard_time": 1707836440,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 115275,
+      "num": 173595,
+      "word": "一条plog告别二月",
+      "onboard_time": 1709097873,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 115232,
@@ -74441,14 +74489,6 @@
       "onboard_time": 1708125562,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99572,
-      "num": 173595,
-      "word": "一条plog告别二月",
-      "onboard_time": 1709097873,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 99344,
@@ -80035,6 +80075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14709,
+      "num": 666739,
+      "word": "在天猫集全明星卡抽8888元红包",
+      "onboard_time": 1709200832,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 14698,
       "num": 1361551,
       "word": "文化中国团圆年",
@@ -80433,14 +80481,6 @@
       "onboard_time": 1707288931,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 8694,
-      "num": 666739,
-      "word": "在天猫集全明星卡抽8888元红包",
-      "onboard_time": 1709200832,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 8201,
