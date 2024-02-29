@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1709180408465,
+  "endTime": 1709181299428,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2131,6 +2131,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 2119661,
+      "num": 2119661,
+      "word": "3月8日妇女放假半天",
+      "onboard_time": 1709175633,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2117762,
       "num": 2117762,
       "word": "马龙vs李尚洙",
@@ -2345,14 +2353,6 @@
       "onboard_time": 1707712832,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2023950,
-      "num": 2023950,
-      "word": "3月8日妇女放假半天",
-      "onboard_time": 1709175633,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2014568,
@@ -13163,6 +13163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 716921,
+      "num": 716921,
+      "word": "挖呀挖黄老师已向警方提供证据",
+      "onboard_time": 1709179470,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716655,
       "num": 687566,
       "word": "魏大勋上春山表情包",
@@ -13609,6 +13617,14 @@
       "onboard_time": 1708558286,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 698745,
+      "num": 698745,
+      "word": "女生二战考研成绩提高102分",
+      "onboard_time": 1709179235,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 698325,
@@ -16299,6 +16315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 609028,
+      "num": 609028,
+      "word": "教育局为被殴打学生安排心理辅导",
+      "onboard_time": 1709177613,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608803,
       "num": 608803,
       "word": "赵昭仪李晋晔在录恋综吗",
@@ -16523,14 +16547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 603101,
-      "num": 603101,
-      "word": "教育局为被殴打学生安排心理辅导",
-      "onboard_time": 1709177613,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 603048,
       "num": 603048,
       "word": "开工3天痔疮膏销量翻3倍",
@@ -16561,6 +16577,14 @@
       "onboard_time": 1708394974,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 602258,
+      "num": 602258,
+      "word": "张杰官宣演唱会",
+      "onboard_time": 1709180736,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 602153,
@@ -21899,6 +21923,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 471092,
+      "num": 471092,
+      "word": "自焚士兵称美军直接参与屠杀巴勒斯坦人",
+      "onboard_time": 1709177314,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 470586,
       "num": 470586,
       "word": "特朗普被罚4.54亿美元",
@@ -22363,6 +22395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 456260,
+      "num": 227175,
+      "word": "iPhone6S包装盒上是什么鱼",
+      "onboard_time": 1709179714,
+      "rank": 30,
+      "category": "数码,科学科普"
+    },
+    {
       "raw_hot": 456107,
       "num": 456107,
       "word": "贾玲健身细节首次曝光",
@@ -22609,14 +22649,6 @@
       "onboard_time": 1707610288,
       "rank": 13,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 449453,
-      "num": 449453,
-      "word": "女生二战考研成绩提高102分",
-      "onboard_time": 1709179235,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 449098,
@@ -22937,6 +22969,14 @@
       "onboard_time": 1708583433,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 441954,
+      "num": 441954,
+      "word": "央广网评女教师殴打学生",
+      "onboard_time": 1709178814,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441948,
@@ -23289,6 +23329,14 @@
       "onboard_time": 1707816282,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 436461,
+      "num": 436461,
+      "word": "官方回应女老师打骂学生拍摄者疑遭威胁",
+      "onboard_time": 1709180194,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 436454,
@@ -23771,14 +23819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 427250,
-      "num": 427250,
-      "word": "挖呀挖黄老师已向警方提供证据",
-      "onboard_time": 1709179470,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 427180,
       "num": 427180,
       "word": "终于体现到苏醒的重重重要性了",
@@ -24001,14 +24041,6 @@
       "onboard_time": 1707730773,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 424082,
-      "num": 424082,
-      "word": "央广网评女教师殴打学生",
-      "onboard_time": 1709178814,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 424056,
@@ -25179,14 +25211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 403078,
-      "num": 403078,
-      "word": "自焚士兵称美军直接参与屠杀巴勒斯坦人",
-      "onboard_time": 1709177314,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 402972,
       "num": 402972,
       "word": "陈芋汐207C",
@@ -25993,6 +26017,22 @@
       "onboard_time": 1706872111,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388747,
+      "num": 388747,
+      "word": "Jennie工作室公开",
+      "onboard_time": 1709180854,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 388548,
+      "num": 388548,
+      "word": "宋江确定入伍时间",
+      "onboard_time": 1709180314,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 388375,
@@ -29169,14 +29209,6 @@
       "onboard_time": 1708508734,
       "rank": 24,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 340551,
-      "num": 219531,
-      "word": "iPhone6S包装盒上是什么鱼",
-      "onboard_time": 1709179714,
-      "rank": 30,
-      "category": "数码,科学科普"
     },
     {
       "raw_hot": 340433,
@@ -32707,6 +32739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 296355,
+      "num": 296355,
+      "word": "吴镇宇唯一害怕的女人",
+      "onboard_time": 1709180796,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296263,
       "num": 296263,
       "word": "姆巴佩将与法国总统共进晚餐",
@@ -35473,14 +35513,6 @@
       "onboard_time": 1708494813,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 271686,
-      "num": 271686,
-      "word": "宋江确定入伍时间",
-      "onboard_time": 1709180314,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 271661,
@@ -39187,6 +39219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 243229,
+      "num": 243229,
+      "word": "连孙悟空上班都不爱打扮",
+      "onboard_time": 1709180134,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243190,
       "num": 243190,
       "word": "克罗斯重返德国国家队",
@@ -39809,6 +39849,14 @@
       "onboard_time": 1708654713,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 238760,
+      "num": 238760,
+      "word": "睡觉翻个身房子塌了",
+      "onboard_time": 1709180013,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 238675,
@@ -42137,6 +42185,14 @@
       "onboard_time": 1708903527,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224569,
+      "num": 224569,
+      "word": "马面裙原来与马无关",
+      "onboard_time": 1709179954,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 224437,
@@ -46843,6 +46899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203575,
+      "num": 203575,
+      "word": "白鹿白月梵星原声台词",
+      "onboard_time": 1709181098,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203546,
       "num": 203546,
       "word": "河南一公司给员工发1亿多年终奖",
@@ -50547,14 +50611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 191219,
-      "num": 191219,
-      "word": "官方回应女老师打骂学生拍摄者疑遭威胁",
-      "onboard_time": 1709180194,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191205,
       "num": 191205,
       "word": "从保安考上央美之后",
@@ -51065,6 +51121,14 @@
       "onboard_time": 1708563036,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 189670,
+      "num": 189670,
+      "word": "乔治祖巴茨缺战湖人",
+      "onboard_time": 1709180435,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 189656,
@@ -53571,6 +53635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179854,
+      "num": 179854,
+      "word": "春楠拍了唐嫣",
+      "onboard_time": 1709179174,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179841,
       "num": 179841,
       "word": "白宇锐评陕西美食vlog",
@@ -53795,14 +53867,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 179088,
-      "num": 179088,
-      "word": "春楠拍了唐嫣",
-      "onboard_time": 1709179174,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179048,
       "num": 179048,
       "word": "孙千松弛美学",
@@ -53889,14 +53953,6 @@
       "onboard_time": 1707234871,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178737,
-      "num": 178737,
-      "word": "马面裙原来与马无关",
-      "onboard_time": 1709179954,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 178678,
@@ -56593,6 +56649,14 @@
       "onboard_time": 1706867732,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169401,
+      "num": 169401,
+      "word": "任嘉伦感谢粉丝",
+      "onboard_time": 1709180917,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 169390,
@@ -59451,6 +59515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159355,
+      "num": 159355,
+      "word": "陈乔恩分享今年最好的女性意识电影",
+      "onboard_time": 1709181032,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159229,
       "num": 159229,
       "word": "TRIBE取消回归",
@@ -61505,6 +61577,14 @@
       "onboard_time": 1708735591,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151908,
+      "num": 1220181,
+      "word": "3月这批新规将施行",
+      "onboard_time": 1709179413,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151876,
@@ -63777,14 +63857,6 @@
       "onboard_time": 1708309229,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 144229,
-      "num": 144229,
-      "word": "睡觉翻个身房子塌了",
-      "onboard_time": 1709180013,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 144225,
@@ -68595,6 +68667,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 126558,
+      "num": 126558,
+      "word": "一个普通上班族的不租房计划",
+      "onboard_time": 1709180674,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126554,
       "num": 126554,
       "word": "尽量少喝含糖饮料",
@@ -69713,14 +69793,6 @@
       "onboard_time": 1707033270,
       "rank": 44,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 121724,
-      "num": 1220181,
-      "word": "3月这批新规将施行",
-      "onboard_time": 1709179413,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121691,

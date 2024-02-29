@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709180408465,
+  "endTime": 1709181299428,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -299,20 +299,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2119661,
+      "num": 2119661,
+      "word": "3月8日妇女放假半天",
+      "onboard_time": 1709175633,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2081823,
       "num": 2081823,
       "word": "王力宏 娃哈哈矿泉水",
       "onboard_time": 1708836762,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2023950,
-      "num": 2023950,
-      "word": "3月8日妇女放假半天",
-      "onboard_time": 1709175633,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2023451,
@@ -2083,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 716921,
+      "num": 716921,
+      "word": "挖呀挖黄老师已向警方提供证据",
+      "onboard_time": 1709179470,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 715884,
       "num": 715884,
       "word": "全员加速中主持人快碎了",
@@ -2169,6 +2177,14 @@
       "onboard_time": 1708855894,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 698745,
+      "num": 698745,
+      "word": "女生二战考研成绩提高102分",
+      "onboard_time": 1709179235,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 697033,
@@ -2563,6 +2579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 609028,
+      "num": 609028,
+      "word": "教育局为被殴打学生安排心理辅导",
+      "onboard_time": 1709177613,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608803,
       "num": 608803,
       "word": "赵昭仪李晋晔在录恋综吗",
@@ -2603,20 +2627,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 603101,
-      "num": 603101,
-      "word": "教育局为被殴打学生安排心理辅导",
-      "onboard_time": 1709177613,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 602700,
       "num": 602700,
       "word": "肖战发型 龙头",
       "onboard_time": 1708914034,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 602258,
+      "num": 602258,
+      "word": "张杰官宣演唱会",
+      "onboard_time": 1709180736,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 601847,
@@ -3595,6 +3619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 471092,
+      "num": 471092,
+      "word": "自焚士兵称美军直接参与屠杀巴勒斯坦人",
+      "onboard_time": 1709177314,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 470519,
       "num": 470519,
       "word": "DIOR大秀",
@@ -3683,6 +3715,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 456260,
+      "num": 227175,
+      "word": "iPhone6S包装盒上是什么鱼",
+      "onboard_time": 1709179714,
+      "rank": 30,
+      "category": "数码,科学科普"
+    },
+    {
       "raw_hot": 455285,
       "num": 455285,
       "word": "宗馥莉已开始接班",
@@ -3729,14 +3769,6 @@
       "onboard_time": 1709173652,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 449453,
-      "num": 449453,
-      "word": "女生二战考研成绩提高102分",
-      "onboard_time": 1709179235,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 447378,
@@ -3792,6 +3824,14 @@
       "word": "3岁男童喝路边饮料食道烧成针眼大",
       "onboard_time": 1709045074,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441954,
+      "num": 441954,
+      "word": "央广网评女教师殴打学生",
+      "onboard_time": 1709178814,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -3851,6 +3891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436461,
+      "num": 436461,
+      "word": "官方回应女老师打骂学生拍摄者疑遭威胁",
+      "onboard_time": 1709180194,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434192,
       "num": 434192,
       "word": "马琳",
@@ -3907,14 +3955,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 427250,
-      "num": 427250,
-      "word": "挖呀挖黄老师已向警方提供证据",
-      "onboard_time": 1709179470,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 426168,
       "num": 295517,
       "word": "从今天起尽量少熬夜",
@@ -3945,14 +3985,6 @@
       "onboard_time": 1709008724,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 424082,
-      "num": 424082,
-      "word": "央广网评女教师殴打学生",
-      "onboard_time": 1709178814,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 424056,
@@ -4179,14 +4211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 403078,
-      "num": 403078,
-      "word": "自焚士兵称美军直接参与屠杀巴勒斯坦人",
-      "onboard_time": 1709177314,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 402271,
       "num": 402271,
       "word": "鹿晗穿睡衣被背篓赶集",
@@ -4296,6 +4320,22 @@
       "word": "马思纯7岁至36岁颜值变化",
       "onboard_time": 1709175689,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 388747,
+      "num": 388747,
+      "word": "Jennie工作室公开",
+      "onboard_time": 1709180854,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 388548,
+      "num": 388548,
+      "word": "宋江确定入伍时间",
+      "onboard_time": 1709180314,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -4793,14 +4833,6 @@
       "onboard_time": 1709092173,
       "rank": 23,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 340551,
-      "num": 219531,
-      "word": "iPhone6S包装盒上是什么鱼",
-      "onboard_time": 1709179714,
-      "rank": 30,
-      "category": "数码,科学科普"
     },
     {
       "raw_hot": 340408,
@@ -5395,6 +5427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 296355,
+      "num": 296355,
+      "word": "吴镇宇唯一害怕的女人",
+      "onboard_time": 1709180796,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296263,
       "num": 296263,
       "word": "姆巴佩将与法国总统共进晚餐",
@@ -5873,14 +5913,6 @@
       "onboard_time": 1708954536,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 271686,
-      "num": 271686,
-      "word": "宋江确定入伍时间",
-      "onboard_time": 1709180314,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 271661,
@@ -6531,6 +6563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 243229,
+      "num": 243229,
+      "word": "连孙悟空上班都不爱打扮",
+      "onboard_time": 1709180134,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242943,
       "num": 242943,
       "word": "韩国总统称医生罢工以人命为要挟",
@@ -6633,6 +6673,14 @@
       "onboard_time": 1709100213,
       "rank": 25,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 238760,
+      "num": 238760,
+      "word": "睡觉翻个身房子塌了",
+      "onboard_time": 1709180013,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 238647,
@@ -6961,6 +7009,14 @@
       "onboard_time": 1708903527,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224569,
+      "num": 224569,
+      "word": "马面裙原来与马无关",
+      "onboard_time": 1709179954,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 224238,
@@ -7723,6 +7779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203575,
+      "num": 203575,
+      "word": "白鹿白月梵星原声台词",
+      "onboard_time": 1709181098,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203200,
       "num": 203200,
       "word": "迪丽热巴花仙子侧拍花絮",
@@ -8243,14 +8307,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 191219,
-      "num": 191219,
-      "word": "官方回应女老师打骂学生拍摄者疑遭威胁",
-      "onboard_time": 1709180194,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191141,
       "num": 191141,
       "word": "香水喷法",
@@ -8361,6 +8417,14 @@
       "onboard_time": 1708908692,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189670,
+      "num": 189670,
+      "word": "乔治祖巴茨缺战湖人",
+      "onboard_time": 1709180435,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 189656,
@@ -8867,6 +8931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179854,
+      "num": 179854,
+      "word": "春楠拍了唐嫣",
+      "onboard_time": 1709179174,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179622,
       "num": 2491332,
       "word": "春天限量版的绝美配色",
@@ -8883,28 +8955,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 179088,
-      "num": 179088,
-      "word": "春楠拍了唐嫣",
-      "onboard_time": 1709179174,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178931,
       "num": 178931,
       "word": "星痕采访",
       "onboard_time": 1708866517,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 178737,
-      "num": 178737,
-      "word": "马面裙原来与马无关",
-      "onboard_time": 1709179954,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 178657,
@@ -9387,6 +9443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169401,
+      "num": 169401,
+      "word": "任嘉伦感谢粉丝",
+      "onboard_time": 1709180917,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169358,
       "num": 169358,
       "word": "苹果终止造车项目原因",
@@ -9843,6 +9907,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 159355,
+      "num": 159355,
+      "word": "陈乔恩分享今年最好的女性意识电影",
+      "onboard_time": 1709181032,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159149,
       "num": 159149,
       "word": "XYG对战TES",
@@ -10179,6 +10251,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 151908,
+      "num": 1220181,
+      "word": "3月这批新规将施行",
+      "onboard_time": 1709179413,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151179,
       "num": 151179,
       "word": "世界冠军黄雅琼教练公开讨薪",
@@ -10481,14 +10561,6 @@
       "onboard_time": 1709016574,
       "rank": 43,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 144229,
-      "num": 144229,
-      "word": "睡觉翻个身房子塌了",
-      "onboard_time": 1709180013,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 144225,
@@ -11251,6 +11323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126558,
+      "num": 126558,
+      "word": "一个普通上班族的不租房计划",
+      "onboard_time": 1709180674,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126466,
       "num": 126466,
       "word": "一烤火就搂搂抱抱的猫咪和狗狗",
@@ -11401,14 +11481,6 @@
       "onboard_time": 1708876713,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121724,
-      "num": 1220181,
-      "word": "3月这批新规将施行",
-      "onboard_time": 1709179413,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121691,

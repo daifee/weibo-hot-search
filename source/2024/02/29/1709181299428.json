@@ -1,0 +1,410 @@
+{
+  "runTime": 1709181299428,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2119661,
+        "num": 2119661,
+        "word": "3月8日妇女放假半天",
+        "onboard_time": 1709175633,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1268583,
+        "num": 1268583,
+        "word": "韩国允许对胎儿进行性别鉴定",
+        "onboard_time": 1709170231,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151908,
+        "num": 1084805,
+        "word": "3月这批新规将施行",
+        "onboard_time": 1709179413,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1008325,
+        "num": 1008325,
+        "word": "2月29日出生怎么过生日",
+        "onboard_time": 1709175152,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845358,
+        "num": 845358,
+        "word": "比亚迪宋",
+        "onboard_time": 1709171252,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 800991,
+        "num": 800991,
+        "word": "三只羊法务离职",
+        "onboard_time": 1709164107,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 753512,
+        "num": 753512,
+        "word": "李现的文案是网易云热评",
+        "onboard_time": 1709175451,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 716921,
+        "num": 716921,
+        "word": "挖呀挖黄老师已向警方提供证据",
+        "onboard_time": 1709179470,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698745,
+        "num": 698745,
+        "word": "女生二战考研成绩提高102分",
+        "onboard_time": 1709179235,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 633506,
+        "num": 633506,
+        "word": "短剧爆款编剧月入可超10万",
+        "onboard_time": 1709175152,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 609028,
+        "num": 609028,
+        "word": "教育局为被殴打学生安排心理辅导",
+        "onboard_time": 1709177613,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608732,
+        "num": 608732,
+        "word": "娱乐圈30帅",
+        "onboard_time": 1709177613,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602258,
+        "num": 602258,
+        "word": "张杰官宣演唱会",
+        "onboard_time": 1709180736,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 471092,
+        "num": 471092,
+        "word": "自焚士兵称美军直接参与屠杀巴勒斯坦人",
+        "onboard_time": 1709177314,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 449357,
+        "num": 449357,
+        "word": "行程图",
+        "onboard_time": 1709177552,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443737,
+        "num": 443737,
+        "word": "回县城体制内工作的女硕士怎么样了",
+        "onboard_time": 1709178092,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441954,
+        "num": 441954,
+        "word": "央广网评女教师殴打学生",
+        "onboard_time": 1709178814,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436461,
+        "num": 436461,
+        "word": "官方回应女老师打骂学生拍摄者疑遭威胁",
+        "onboard_time": 1709180194,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388747,
+        "num": 388747,
+        "word": "Jennie工作室公开",
+        "onboard_time": 1709180854,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388548,
+        "num": 388548,
+        "word": "宋江确定入伍时间",
+        "onboard_time": 1709180314,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385356,
+        "num": 385356,
+        "word": "马思纯7岁至36岁颜值变化",
+        "onboard_time": 1709175689,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370917,
+        "num": 370917,
+        "word": "厅长退休后买13套房给子孙",
+        "onboard_time": 1709128474,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361851,
+        "num": 361851,
+        "word": "周处除三害 删减",
+        "onboard_time": 1709174732,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298850,
+        "num": 298850,
+        "word": "小洋睡不着道歉",
+        "onboard_time": 1709163508,
+        "rank": 23,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 296355,
+        "num": 296355,
+        "word": "吴镇宇唯一害怕的女人",
+        "onboard_time": 1709180796,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255644,
+        "num": 255644,
+        "word": "女生兼职没回家过年一分工资没拿到",
+        "onboard_time": 1709176472,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243229,
+        "num": 243229,
+        "word": "连孙悟空上班都不爱打扮",
+        "onboard_time": 1709180134,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238760,
+        "num": 238760,
+        "word": "睡觉翻个身房子塌了",
+        "onboard_time": 1709180013,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227961,
+        "num": 227961,
+        "word": "研究生毕业后靠本科专业找到工作",
+        "onboard_time": 1709169933,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 227206,
+        "num": 227206,
+        "word": "比亚迪海豹",
+        "onboard_time": 1709176834,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 456260,
+        "num": 227175,
+        "word": "iPhone6S包装盒上是什么鱼",
+        "onboard_time": 1709179714,
+        "rank": 30,
+        "category": "数码,科学科普"
+      },
+      {
+        "raw_hot": 224569,
+        "num": 224569,
+        "word": "马面裙原来与马无关",
+        "onboard_time": 1709179954,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 216884,
+        "num": 216884,
+        "word": "跟拍月收入2万网约车司机",
+        "onboard_time": 1709178273,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214105,
+        "num": 214105,
+        "word": "阿里云全线降价20%",
+        "onboard_time": 1709178332,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205546,
+        "num": 205546,
+        "word": "崩坏星穹铁道 花火",
+        "onboard_time": 1709179596,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203575,
+        "num": 203575,
+        "word": "白鹿白月梵星原声台词",
+        "onboard_time": 1709181098,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196391,
+        "num": 196391,
+        "word": "宗庆后女儿致悼词泣不成声",
+        "onboard_time": 1709173472,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190143,
+        "num": 190143,
+        "word": "魏大勋长白山滑雪",
+        "onboard_time": 1709177011,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189670,
+        "num": 189670,
+        "word": "乔治祖巴茨缺战湖人",
+        "onboard_time": 1709180435,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179854,
+        "num": 179854,
+        "word": "春楠拍了唐嫣",
+        "onboard_time": 1709179174,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177860,
+        "num": 177860,
+        "word": "白月梵星首支预告",
+        "onboard_time": 1709177070,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171967,
+        "num": 171967,
+        "word": "健身教练评热巴踮脚动作",
+        "onboard_time": 1709163327,
+        "rank": 41,
+        "category": "运动健身,艺人"
+      },
+      {
+        "raw_hot": 169401,
+        "num": 169401,
+        "word": "任嘉伦感谢粉丝",
+        "onboard_time": 1709180917,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165517,
+        "num": 165517,
+        "word": "今天是四年一遇的日子",
+        "onboard_time": 1709163448,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162087,
+        "num": 162087,
+        "word": "偷偷藏不住网飞破3000万",
+        "onboard_time": 1709168553,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162053,
+        "num": 162053,
+        "word": "俞敏洪说现在的创业机会一点也不少",
+        "onboard_time": 1709179174,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159355,
+        "num": 159355,
+        "word": "陈乔恩分享今年最好的女性意识电影",
+        "onboard_time": 1709181032,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153270,
+        "num": 153270,
+        "word": "明日方舟",
+        "onboard_time": 1709179413,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126558,
+        "num": 126558,
+        "word": "一个普通上班族的不租房计划",
+        "onboard_time": 1709180674,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124772,
+        "num": 124772,
+        "word": "Giselle出国机场图",
+        "onboard_time": 1709176892,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同塞拉利昂总统会谈#"
+    }
+  }
+}
