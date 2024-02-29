@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709163249127,
+  "endTime": 1709169023157,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -121,6 +121,22 @@
       "onboard_time": 1708927233,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2782869,
+      "num": 2782869,
+      "word": "三只羊法务离职",
+      "onboard_time": 1709164107,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2618819,
+      "num": 2618819,
+      "word": "今天是四年一遇的日子",
+      "onboard_time": 1709163448,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2543604,
@@ -812,7 +828,7 @@
     },
     {
       "raw_hot": 1215724,
-      "num": 523533,
+      "num": 575329,
       "word": "我的性教育来自郭敬明的小说",
       "onboard_time": 1709132376,
       "rank": 10,
@@ -889,6 +905,14 @@
       "onboard_time": 1709004995,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1155864,
+      "num": 1155864,
+      "word": "小洋睡不着道歉",
+      "onboard_time": 1709163508,
+      "rank": 3,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1145560,
@@ -1691,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785986,
+      "num": 785986,
+      "word": "体检结果称拜登是健康强健的老人",
+      "onboard_time": 1709167414,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 785800,
       "num": 785800,
       "word": "姚安娜芭蕾水平",
@@ -1929,6 +1961,14 @@
       "onboard_time": 1708940436,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 725754,
+      "num": 725754,
+      "word": "健身教练评热巴踮脚动作",
+      "onboard_time": 1709163327,
+      "rank": 7,
+      "category": "运动健身,艺人"
     },
     {
       "raw_hot": 725538,
@@ -2283,6 +2323,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 641661,
+      "num": 641661,
+      "word": "挖呀挖黄老师直播",
+      "onboard_time": 1709163386,
+      "rank": 8,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 641437,
       "num": 348356,
       "word": "当我拒绝11K薪资后HR破防了",
@@ -2363,6 +2411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 622144,
+      "num": 582516,
+      "word": "小伙撸铁2小时横纹肌溶解了",
+      "onboard_time": 1709146457,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 622047,
       "num": 622047,
       "word": "向佐摆了一桌子全家福",
@@ -2401,6 +2457,14 @@
       "onboard_time": 1708919077,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 611590,
+      "num": 611590,
+      "word": "祁厅长的情商属实太高",
+      "onboard_time": 1709163808,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 610742,
@@ -3467,6 +3531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 462944,
+      "num": 462944,
+      "word": "北京将举办2027世界田径锦标赛",
+      "onboard_time": 1709164892,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 461972,
       "num": 461972,
       "word": "A股",
@@ -4179,6 +4251,14 @@
       "category": "作品衍生,综艺"
     },
     {
+      "raw_hot": 371587,
+      "num": 371587,
+      "word": "抖音火花bug",
+      "onboard_time": 1709162064,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 371486,
       "num": 371486,
       "word": "韩国医生为什么罢工",
@@ -4393,6 +4473,14 @@
       "onboard_time": 1708865134,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 352221,
+      "num": 352221,
+      "word": "AppleID或升级为AppleAccount",
+      "onboard_time": 1709168015,
+      "rank": 15,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 351386,
@@ -4731,12 +4819,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 318830,
+      "num": 318830,
+      "word": "偷偷藏不住网飞破3000万",
+      "onboard_time": 1709168553,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318741,
       "num": 318741,
       "word": "鹿晗穿睡衣背背篓赶集",
       "onboard_time": 1708869937,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 318726,
+      "num": 318726,
+      "word": "小洋睡不着",
+      "onboard_time": 1709098293,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 318691,
@@ -5643,6 +5747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 263433,
+      "num": 263433,
+      "word": "上海月薪2000能租什么房子",
+      "onboard_time": 1709167712,
+      "rank": 21,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 262603,
       "num": 262603,
       "word": "新加坡航展A400m禁止中国游客参观",
@@ -5657,6 +5769,14 @@
       "onboard_time": 1708931020,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 262411,
+      "num": 262411,
+      "word": "人民日报评大数据杀熟",
+      "onboard_time": 1709168314,
+      "rank": 22,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 262064,
@@ -5731,14 +5851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 260096,
-      "num": 260096,
-      "word": "抖音火花bug",
-      "onboard_time": 1709162064,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 259833,
       "num": 192817,
       "word": "Champion正被挂牌出售",
@@ -5785,6 +5897,14 @@
       "onboard_time": 1709089350,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 256885,
+      "num": 256885,
+      "word": "陈慧琳广州粥铺被偶遇",
+      "onboard_time": 1709166756,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 256267,
@@ -5947,6 +6067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 249490,
+      "num": 249490,
+      "word": "舅舅让我帮他女儿付学费",
+      "onboard_time": 1709138067,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 249488,
       "num": 249488,
       "word": "姚安娜镜头",
@@ -6072,6 +6200,14 @@
       "word": "原来红包皮还可以这样用",
       "onboard_time": 1708926935,
       "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 246596,
+      "num": 246596,
+      "word": "摆烂太久天赋会被收走的",
+      "onboard_time": 1709162305,
+      "rank": 36,
       "category": "幽默"
     },
     {
@@ -7195,12 +7331,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205346,
+      "num": 205346,
+      "word": "Mai和妈妈都是肖战粉丝",
+      "onboard_time": 1709165252,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205295,
       "num": 205295,
       "word": "特朗普在南卡罗来纳州共和党初选中胜出",
       "onboard_time": 1708823311,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 204883,
+      "num": 204883,
+      "word": "双鱼座2024会发生的三件好事",
+      "onboard_time": 1709163928,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 204840,
@@ -7297,14 +7449,6 @@
       "onboard_time": 1709003915,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 201139,
-      "num": 114962,
-      "word": "小伙撸铁2小时横纹肌溶解了",
-      "onboard_time": 1709146457,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200848,
@@ -7499,14 +7643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 197247,
-      "num": 197247,
-      "word": "小洋睡不着",
-      "onboard_time": 1709098293,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 197216,
       "num": 193602,
       "word": "一直娱 ENHYPEN",
@@ -7545,6 +7681,14 @@
       "onboard_time": 1709090553,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196116,
+      "num": 196116,
+      "word": "迪丽热巴开始推理吧路透",
+      "onboard_time": 1709165853,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 195939,
@@ -7721,6 +7865,14 @@
       "onboard_time": 1708858775,
       "rank": 33,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 192189,
+      "num": 192189,
+      "word": "维生素真的不要随便补",
+      "onboard_time": 1709162305,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 191303,
@@ -8067,6 +8219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 184932,
+      "num": 184932,
+      "word": "7个建议远离高尿酸和痛风",
+      "onboard_time": 1709168254,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 184843,
       "num": 184843,
       "word": "全员加速中弹幕",
@@ -8201,6 +8361,14 @@
       "onboard_time": 1709007516,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182232,
+      "num": 182232,
+      "word": "苹果头显退货率为1%",
+      "onboard_time": 1709165195,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 182222,
@@ -8763,6 +8931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169433,
+      "num": 169433,
+      "word": "庄达菲李庚希友情",
+      "onboard_time": 1709165793,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169358,
       "num": 169358,
       "word": "苹果终止造车项目原因",
@@ -9235,6 +9411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157818,
+      "num": 157818,
+      "word": "挖呀挖黄老师回应离职",
+      "onboard_time": 1709166513,
+      "rank": 41,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 157718,
       "num": 157718,
       "word": "马燕装病",
@@ -9329,14 +9513,6 @@
       "onboard_time": 1709125353,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 155560,
-      "num": 114730,
-      "word": "舅舅让我帮他女儿付学费",
-      "onboard_time": 1709138067,
-      "rank": 46,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 155514,
@@ -9595,6 +9771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149010,
+      "num": 149010,
+      "word": "男朋友寄来的一周年纪念礼物",
+      "onboard_time": 1709140041,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148626,
       "num": 148626,
       "word": "Netflix要求用户绕过苹果付款",
@@ -9609,6 +9793,14 @@
       "onboard_time": 1709000972,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148342,
+      "num": 148342,
+      "word": "建议减轻教师非教学负担",
+      "onboard_time": 1709163386,
+      "rank": 43,
+      "category": "运动健身"
     },
     {
       "raw_hot": 147896,
@@ -9761,6 +9953,14 @@
       "onboard_time": 1709127272,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144615,
+      "num": 144615,
+      "word": "不得不说原唱就是原唱",
+      "onboard_time": 1709168797,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 144348,
@@ -10347,6 +10547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131271,
+      "num": 131271,
+      "word": "网球王子 不二周助",
+      "onboard_time": 1709162305,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 131237,
       "num": 1569283,
       "word": "中国空间站进入常态化运营模式",
@@ -10419,6 +10627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128649,
+      "num": 128649,
+      "word": "汽车女兵驾考现场又稳又飒",
+      "onboard_time": 1709167954,
+      "rank": 46,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 128622,
       "num": 128622,
       "word": "宇多田光香港演唱会",
@@ -10441,6 +10657,14 @@
       "onboard_time": 1708945414,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126882,
+      "num": 126882,
+      "word": "C罗称争议动作是表达力量和胜利",
+      "onboard_time": 1709164592,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 126631,
@@ -10497,6 +10721,14 @@
       "onboard_time": 1709119713,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124876,
+      "num": 124876,
+      "word": "万能做菜公式",
+      "onboard_time": 1709166934,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 124602,
@@ -10632,14 +10864,6 @@
       "word": "当你养了一只无比粘人的橘猫幼崽",
       "onboard_time": 1708875759,
       "rank": 42,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 120444,
-      "num": 113715,
-      "word": "摆烂太久天赋会被收走的",
-      "onboard_time": 1709162305,
-      "rank": 36,
       "category": "幽默"
     },
     {
@@ -10979,14 +11203,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 104620,
-      "num": 104620,
-      "word": "网球王子 不二周助",
-      "onboard_time": 1709162305,
-      "rank": 33,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 104030,
       "num": 449230,
       "word": "小米14Ultra欧洲定价近国内一倍",
@@ -11035,14 +11251,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 97055,
-      "num": 85108,
-      "word": "男朋友寄来的一周年纪念礼物",
-      "onboard_time": 1709140041,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 96073,
       "num": 96073,
       "word": "自从把家里的桌子换成透明的",
@@ -11065,14 +11273,6 @@
       "onboard_time": 1708876772,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 91793,
-      "num": 91793,
-      "word": "维生素真的不要随便补",
-      "onboard_time": 1709162305,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 90784,
@@ -11459,6 +11659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52884,
+      "num": 1272451,
+      "word": "我国载人航天工程取得4000多项发明专利",
+      "onboard_time": 1709126974,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52869,
       "num": 52869,
       "word": "诺丁汉森林0比1曼联",
@@ -11633,14 +11841,6 @@
       "onboard_time": 1709148257,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31339,
-      "num": 889324,
-      "word": "我国载人航天工程取得4000多项发明专利",
-      "onboard_time": 1709126974,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 27936,

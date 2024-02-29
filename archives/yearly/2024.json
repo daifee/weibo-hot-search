@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1709163249127,
+  "endTime": 1709169023157,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1547,6 +1547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 2782869,
+      "num": 2782869,
+      "word": "三只羊法务离职",
+      "onboard_time": 1709164107,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 2775213,
       "num": 2775213,
       "word": "吃完头孢7天内不能喝酒",
@@ -1849,6 +1857,14 @@
       "onboard_time": 1707901356,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2618819,
+      "num": 2618819,
+      "word": "今天是四年一遇的日子",
+      "onboard_time": 1709163448,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2618527,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1707103171,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2356867,
-      "num": 2356867,
-      "word": "一个月不换的床单有多脏",
-      "onboard_time": 1704100598,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 2356119,
-      "num": 2356119,
-      "word": "网友模仿上春山",
-      "onboard_time": 1707881728,
-      "rank": 30,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

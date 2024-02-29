@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1709163249127,
+  "endTime": 1709169023157,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1035,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2782869,
+      "num": 2782869,
+      "word": "三只羊法务离职",
+      "onboard_time": 1709164107,
+      "rank": 0,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 2775213,
       "num": 2775213,
       "word": "吃完头孢7天内不能喝酒",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1707901356,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2618819,
+      "num": 2618819,
+      "word": "今天是四年一遇的日子",
+      "onboard_time": 1709163448,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2618527,
@@ -5988,7 +6004,7 @@
     },
     {
       "raw_hot": 1215724,
-      "num": 523533,
+      "num": 575329,
       "word": "我的性教育来自郭敬明的小说",
       "onboard_time": 1709132376,
       "rank": 10,
@@ -6417,6 +6433,14 @@
       "onboard_time": 1707143373,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1155864,
+      "num": 1155864,
+      "word": "小洋睡不着道歉",
+      "onboard_time": 1709163508,
+      "rank": 3,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1155523,
@@ -11515,6 +11539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 785986,
+      "num": 785986,
+      "word": "体检结果称拜登是健康强健的老人",
+      "onboard_time": 1709167414,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 785800,
       "num": 785800,
       "word": "姚安娜芭蕾水平",
@@ -12809,6 +12841,14 @@
       "onboard_time": 1708667196,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 725754,
+      "num": 725754,
+      "word": "健身教练评热巴踮脚动作",
+      "onboard_time": 1709163327,
+      "rank": 7,
+      "category": "运动健身,艺人"
     },
     {
       "raw_hot": 725557,
@@ -15051,6 +15091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 641661,
+      "num": 641661,
+      "word": "挖呀挖黄老师直播",
+      "onboard_time": 1709163386,
+      "rank": 8,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 641529,
       "num": 641529,
       "word": "刀片嗓喉咙肿一查全阴性",
@@ -15723,6 +15771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 622144,
+      "num": 582516,
+      "word": "小伙撸铁2小时横纹肌溶解了",
+      "onboard_time": 1709146457,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 622047,
       "num": 622047,
       "word": "向佐摆了一桌子全家福",
@@ -16073,6 +16129,14 @@
       "onboard_time": 1707120573,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 611590,
+      "num": 611590,
+      "word": "祁厅长的情商属实太高",
+      "onboard_time": 1709163808,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 611223,
@@ -21931,6 +21995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 462944,
+      "num": 462944,
+      "word": "北京将举办2027世界田径锦标赛",
+      "onboard_time": 1709164892,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 462630,
       "num": 345669,
       "word": "当爷爷知道我的猫4000一只时",
@@ -26779,6 +26851,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 371587,
+      "num": 371587,
+      "word": "抖音火花bug",
+      "onboard_time": 1709162064,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 371573,
       "num": 371573,
       "word": "医院回应宗庆后病情",
@@ -28161,6 +28241,14 @@
       "onboard_time": 1707976052,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 352221,
+      "num": 352221,
+      "word": "AppleID或升级为AppleAccount",
+      "onboard_time": 1709168015,
+      "rank": 15,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 352047,
@@ -30355,12 +30443,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 318830,
+      "num": 318830,
+      "word": "偷偷藏不住网飞破3000万",
+      "onboard_time": 1709168553,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318741,
       "num": 318741,
       "word": "鹿晗穿睡衣背背篓赶集",
       "onboard_time": 1708869937,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 318726,
+      "num": 318726,
+      "word": "小洋睡不着",
+      "onboard_time": 1709098293,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 318691,
@@ -36043,6 +36147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 263433,
+      "num": 263433,
+      "word": "上海月薪2000能租什么房子",
+      "onboard_time": 1709167712,
+      "rank": 21,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 263360,
       "num": 263360,
       "word": "WE战胜EDG",
@@ -36137,6 +36249,14 @@
       "onboard_time": 1707451110,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262411,
+      "num": 262411,
+      "word": "人民日报评大数据杀熟",
+      "onboard_time": 1709168314,
+      "rank": 22,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 262379,
@@ -36401,14 +36521,6 @@
       "onboard_time": 1707796596,
       "rank": 28,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 260096,
-      "num": 260096,
-      "word": "抖音火花bug",
-      "onboard_time": 1709162064,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 260047,
@@ -36881,6 +36993,14 @@
       "onboard_time": 1707116612,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 256885,
+      "num": 256885,
+      "word": "陈慧琳广州粥铺被偶遇",
+      "onboard_time": 1709166756,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 256859,
@@ -37851,6 +37971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 249490,
+      "num": 249490,
+      "word": "舅舅让我帮他女儿付学费",
+      "onboard_time": 1709138067,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 249488,
       "num": 249488,
       "word": "姚安娜镜头",
@@ -38240,6 +38368,14 @@
       "word": "原来红包皮还可以这样用",
       "onboard_time": 1708926935,
       "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 246596,
+      "num": 246596,
+      "word": "摆烂太久天赋会被收走的",
+      "onboard_time": 1709162305,
+      "rank": 36,
       "category": "幽默"
     },
     {
@@ -45843,6 +45979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205346,
+      "num": 205346,
+      "word": "Mai和妈妈都是肖战粉丝",
+      "onboard_time": 1709165252,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205325,
       "num": 408404,
       "word": "财神红包秒空月老红包无人领",
@@ -45985,6 +46129,14 @@
       "onboard_time": 1708528475,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204883,
+      "num": 204883,
+      "word": "双鱼座2024会发生的三件好事",
+      "onboard_time": 1709163928,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 204840,
@@ -46985,14 +47137,6 @@
       "onboard_time": 1708391315,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 201139,
-      "num": 114962,
-      "word": "小伙撸铁2小时横纹肌溶解了",
-      "onboard_time": 1709146457,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201057,
@@ -48155,14 +48299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 197247,
-      "num": 197247,
-      "word": "小洋睡不着",
-      "onboard_time": 1709098293,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 197235,
       "num": 197235,
       "word": "种地吧十个勤天成立一周年",
@@ -48529,6 +48665,14 @@
       "onboard_time": 1707356071,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196116,
+      "num": 196116,
+      "word": "迪丽热巴开始推理吧路透",
+      "onboard_time": 1709165853,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 196115,
@@ -49777,6 +49921,14 @@
       "onboard_time": 1707276689,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192189,
+      "num": 192189,
+      "word": "维生素真的不要随便补",
+      "onboard_time": 1709162305,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 192119,
@@ -51843,6 +51995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184932,
+      "num": 184932,
+      "word": "7个建议远离高尿酸和痛风",
+      "onboard_time": 1709168254,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 184884,
       "num": 184884,
       "word": "梅西未出场的主要责任在哪方",
@@ -52609,6 +52769,14 @@
       "onboard_time": 1709007516,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182232,
+      "num": 182232,
+      "word": "苹果头显退货率为1%",
+      "onboard_time": 1709165195,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 182222,
@@ -55971,6 +56139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169433,
+      "num": 169433,
+      "word": "庄达菲李庚希友情",
+      "onboard_time": 1709165793,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169403,
       "num": 169403,
       "word": "恋与深空 黎医生",
@@ -59267,6 +59443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157818,
+      "num": 157818,
+      "word": "挖呀挖黄老师回应离职",
+      "onboard_time": 1709166513,
+      "rank": 41,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 157793,
       "num": 157793,
       "word": "里夫斯微信",
@@ -59817,14 +60001,6 @@
       "onboard_time": 1708517612,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 155560,
-      "num": 114730,
-      "word": "舅舅让我帮他女儿付学费",
-      "onboard_time": 1709138067,
-      "rank": 46,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 155539,
@@ -61667,6 +61843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149010,
+      "num": 149010,
+      "word": "男朋友寄来的一周年纪念礼物",
+      "onboard_time": 1709140041,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148890,
       "num": 148890,
       "word": "泰妍在玹合唱Starlight",
@@ -61825,6 +62009,14 @@
       "onboard_time": 1708565073,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 148342,
+      "num": 148342,
+      "word": "建议减轻教师非教学负担",
+      "onboard_time": 1709163386,
+      "rank": 43,
+      "category": "运动健身"
     },
     {
       "raw_hot": 148316,
@@ -62977,6 +63169,14 @@
       "onboard_time": 1707230251,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144615,
+      "num": 144615,
+      "word": "不得不说原唱就是原唱",
+      "onboard_time": 1709168797,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 144569,
@@ -66611,6 +66811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131271,
+      "num": 131271,
+      "word": "网球王子 不二周助",
+      "onboard_time": 1709162305,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 131237,
       "num": 1569283,
       "word": "中国空间站进入常态化运营模式",
@@ -67211,6 +67419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128649,
+      "num": 128649,
+      "word": "汽车女兵驾考现场又稳又飒",
+      "onboard_time": 1709167954,
+      "rank": 46,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 128622,
       "num": 128622,
       "word": "宇多田光香港演唱会",
@@ -67691,6 +67907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126882,
+      "num": 126882,
+      "word": "C罗称争议动作是表达力量和胜利",
+      "onboard_time": 1709164592,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126869,
       "num": 126869,
       "word": "i人过年必有一e",
@@ -68153,6 +68377,14 @@
       "onboard_time": 1706768071,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124876,
+      "num": 124876,
+      "word": "万能做菜公式",
+      "onboard_time": 1709166934,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 124874,
@@ -69201,14 +69433,6 @@
       "onboard_time": 1707359428,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120444,
-      "num": 113715,
-      "word": "摆烂太久天赋会被收走的",
-      "onboard_time": 1709162305,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 120411,
@@ -72075,14 +72299,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 104620,
-      "num": 104620,
-      "word": "网球王子 不二周助",
-      "onboard_time": 1709162305,
-      "rank": 33,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 104551,
       "num": 104551,
       "word": "被拒绝也没关系",
@@ -72715,14 +72931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97055,
-      "num": 85108,
-      "word": "男朋友寄来的一周年纪念礼物",
-      "onboard_time": 1709140041,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 96946,
       "num": 68538,
       "word": "金希澈泡泡头像变成了seventeen",
@@ -73225,14 +73433,6 @@
       "onboard_time": 1707575979,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91793,
-      "num": 91793,
-      "word": "维生素真的不要随便补",
-      "onboard_time": 1709162305,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 91750,
@@ -75507,6 +75707,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 52884,
+      "num": 1272451,
+      "word": "我国载人航天工程取得4000多项发明专利",
+      "onboard_time": 1709126974,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52869,
       "num": 52869,
       "word": "诺丁汉森林0比1曼联",
@@ -76977,14 +77185,6 @@
       "onboard_time": 1709148257,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31339,
-      "num": 889324,
-      "word": "我国载人航天工程取得4000多项发明专利",
-      "onboard_time": 1709126974,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 31158,
