@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709184838699,
+  "endTime": 1709187740772,
   "band_list": [
     {
       "raw_hot": 2782869,
@@ -51,6 +51,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1631446,
+      "num": 1631446,
+      "word": "李亚鹏全网悬赏直播哭穷视频",
+      "onboard_time": 1709183553,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1553495,
+      "num": 449954,
+      "word": "侃爷妻子或因穿着暴露坐牢",
+      "onboard_time": 1709185773,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1215724,
       "num": 575329,
       "word": "我的性教育来自郭敬明的小说",
@@ -99,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 909712,
+      "num": 909712,
+      "word": "iPhone15官旗全系降至历史最低价",
+      "onboard_time": 1709186012,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 891322,
       "num": 891322,
       "word": "李现的文案是网易云热评",
@@ -123,14 +147,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 824821,
-      "num": 482907,
-      "word": "李亚鹏全网悬赏直播哭穷视频",
-      "onboard_time": 1709183553,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 800280,
       "num": 800280,
       "word": "短剧爆款编剧月入可超10万",
@@ -145,6 +161,14 @@
       "onboard_time": 1709128295,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 750972,
+      "num": 750972,
+      "word": "刘忻 浪姐",
+      "onboard_time": 1709186553,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 725754,
@@ -227,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 581852,
+      "num": 581852,
+      "word": "杨紫票房总成绩破80亿",
+      "onboard_time": 1709183913,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 580649,
       "num": 580649,
       "word": "偷偷藏不住网飞破3000万",
@@ -257,14 +289,6 @@
       "onboard_time": 1709181457,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 500837,
-      "num": 500837,
-      "word": "杨紫票房总成绩破80亿",
-      "onboard_time": 1709183913,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 499785,
@@ -323,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450938,
+      "num": 450938,
+      "word": "林俊杰演唱会四城官宣",
+      "onboard_time": 1709184572,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 450454,
       "num": 450454,
       "word": "宗馥莉称将完成父亲遗志",
@@ -361,6 +393,14 @@
       "onboard_time": 1709168314,
       "rank": 22,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 419743,
+      "num": 419743,
+      "word": "灿烂的她 酒鬼奶奶",
+      "onboard_time": 1709184875,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 417482,
@@ -403,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 386379,
+      "num": 386379,
+      "word": "詹姆斯离4万分越来越近",
+      "onboard_time": 1709184995,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 376544,
       "num": 376544,
       "word": "不得不说原唱就是原唱",
@@ -417,6 +465,14 @@
       "onboard_time": 1709162064,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 367516,
+      "num": 367516,
+      "word": "柠檬宝宝0岁到100岁都可能发病",
+      "onboard_time": 1709183855,
+      "rank": 34,
+      "category": "母婴育儿,健康医疗"
     },
     {
       "raw_hot": 359512,
@@ -467,12 +523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338574,
+      "num": 285749,
+      "word": "4种食物是升糖大户尽量少吃",
+      "onboard_time": 1709186372,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 337821,
       "num": 337821,
       "word": "咒术回战",
       "onboard_time": 1709182774,
       "rank": 21,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 336734,
+      "num": 336734,
+      "word": "1块巧克力60块昆虫碎片",
+      "onboard_time": 1709185894,
+      "rank": 17,
+      "category": "科学科普"
     },
     {
       "raw_hot": 336044,
@@ -513,14 +585,6 @@
       "onboard_time": 1709129074,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 309313,
-      "num": 309313,
-      "word": "柠檬宝宝0岁到100岁都可能发病",
-      "onboard_time": 1709183855,
-      "rank": 34,
-      "category": "母婴育儿,健康医疗"
     },
     {
       "raw_hot": 305174,
@@ -731,6 +795,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233717,
+      "num": 233717,
+      "word": "建议减轻中小学教师行政压力",
+      "onboard_time": 1709186792,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 233159,
+      "num": 233159,
+      "word": "王一博撞墙变装",
+      "onboard_time": 1709184330,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232979,
+      "num": 201092,
+      "word": "虎杖悠仁吐血",
+      "onboard_time": 1709187271,
+      "rank": 30,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 231804,
       "num": 186886,
       "word": "恋爱冷淡期",
@@ -819,12 +907,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207303,
-      "num": 207303,
-      "word": "林俊杰演唱会四城官宣",
-      "onboard_time": 1709184572,
-      "rank": 33,
-      "category": "演出"
+      "raw_hot": 210661,
+      "num": 210661,
+      "word": "詹姆斯末节得分超快船全队",
+      "onboard_time": 1709186613,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 205582,
@@ -857,6 +945,14 @@
       "onboard_time": 1709181098,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203318,
+      "num": 203318,
+      "word": "詹姆斯倒立庆祝",
+      "onboard_time": 1709186912,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 202358,
@@ -915,12 +1011,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 193322,
-      "num": 193322,
-      "word": "王一博撞墙变装",
-      "onboard_time": 1709184330,
-      "rank": 35,
-      "category": "作品衍生"
+      "raw_hot": 192929,
+      "num": 192929,
+      "word": "台湾嘉义县发生4.3级地震",
+      "onboard_time": 1709186553,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192690,
@@ -937,6 +1033,14 @@
       "onboard_time": 1709162305,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 190776,
+      "num": 190776,
+      "word": "小洋睡不着回应校园霸凌传言",
+      "onboard_time": 1709186134,
+      "rank": 32,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 189670,
@@ -1041,6 +1145,14 @@
       "onboard_time": 1709179174,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176883,
+      "num": 176883,
+      "word": "DNF手游开测瞬间挤爆服务器",
+      "onboard_time": 1709184933,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 174141,
@@ -1179,6 +1291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159183,
+      "num": 159183,
+      "word": "这真的不是陈建斌吗",
+      "onboard_time": 1709187094,
+      "rank": 38,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 157919,
       "num": 157919,
       "word": "任嘉伦四年之约",
@@ -1235,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151617,
+      "num": 151617,
+      "word": "巅峰盛典全阵容官宣",
+      "onboard_time": 1709186312,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151062,
       "num": 151062,
       "word": "保罗炮轰莫雷",
@@ -1249,6 +1377,14 @@
       "onboard_time": 1709173652,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149269,
+      "num": 149269,
+      "word": "湖人21分逆转快船",
+      "onboard_time": 1709185954,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 149219,
@@ -1283,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141902,
+      "num": 141902,
+      "word": "在吃上质疑理解成为我妈",
+      "onboard_time": 1709186731,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141706,
       "num": 141706,
       "word": "天涯社区明起恢复业务",
@@ -1305,6 +1449,14 @@
       "onboard_time": 1709177793,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136921,
+      "num": 136921,
+      "word": "kara郑妮可长沙机场路透",
+      "onboard_time": 1709185053,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 134995,
@@ -1411,12 +1563,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118504,
+      "num": 118504,
+      "word": "5个动作改善富贵包",
+      "onboard_time": 1709185354,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 118339,
       "num": 118339,
       "word": "见男朋友父母是需要考察一下的",
       "onboard_time": 1709124510,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118030,
+      "num": 118030,
+      "word": "狗也会患上社交恐惧症",
+      "onboard_time": 1709187568,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 117983,
