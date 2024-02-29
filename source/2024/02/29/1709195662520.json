@@ -1,0 +1,410 @@
+{
+  "runTime": 1709195662520,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1874867,
+        "num": 1874867,
+        "word": "武汉大学 莞莞类卿",
+        "onboard_time": 1709190751,
+        "rank": 0,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 1641310,
+        "num": 1641310,
+        "word": "手机电池不喜欢100%的饱和状态",
+        "onboard_time": 1709192971,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 132016,
+        "num": 1159999,
+        "word": "2023中国科学十大进展公布",
+        "onboard_time": 1709194533,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 878978,
+        "num": 878978,
+        "word": "马航失联乘客家属再次赴马参会",
+        "onboard_time": 1709188292,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710089,
+        "num": 710089,
+        "word": "京东物流被曝将招聘上万人",
+        "onboard_time": 1709193870,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 681753,
+        "num": 681753,
+        "word": "李溪芮自荐报名浪姐",
+        "onboard_time": 1709190689,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 598430,
+        "num": 598430,
+        "word": "大谷翔平结婚",
+        "onboard_time": 1709193633,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 577962,
+        "num": 577962,
+        "word": "港剧是懂女性痛经的",
+        "onboard_time": 1709190151,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 524551,
+        "num": 524551,
+        "word": "任泉回应街头拥抱陌生人",
+        "onboard_time": 1709193690,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506848,
+        "num": 506848,
+        "word": "刘忻 浪姐",
+        "onboard_time": 1709186553,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1055614,
+        "num": 481722,
+        "word": "侃爷妻子或因穿着暴露坐牢",
+        "onboard_time": 1709185773,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14304,
+        "num": 416188,
+        "word": "智能首饰穿搭风",
+        "onboard_time": 1709192310,
+        "rank": 11,
+        "category": "时尚,数码"
+      },
+      {
+        "raw_hot": 693798,
+        "num": 412687,
+        "word": "iPhone15官旗全系降至历史最低价",
+        "onboard_time": 1709186012,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 405118,
+        "num": 405118,
+        "word": "4种食物是升糖大户尽量少吃",
+        "onboard_time": 1709186372,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 340750,
+        "num": 340750,
+        "word": "王者 菜狗天幕",
+        "onboard_time": 1709191354,
+        "rank": 14,
+        "category": "电竞,游戏"
+      },
+      {
+        "raw_hot": 340041,
+        "num": 340041,
+        "word": "小鹏P7",
+        "onboard_time": 1709192791,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 308101,
+        "num": 308101,
+        "word": "警方回应医院未发现肿瘤仍切除器官",
+        "onboard_time": 1709189613,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255516,
+        "num": 255516,
+        "word": "杨紫票房总成绩破80亿",
+        "onboard_time": 1709183913,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249754,
+        "num": 249754,
+        "word": "建议减轻中小学教师行政压力",
+        "onboard_time": 1709186792,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 244985,
+        "num": 244985,
+        "word": "3月8日妇女放假半天",
+        "onboard_time": 1709175633,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249945,
+        "num": 244354,
+        "word": "对一块钱的概念越来越模糊了",
+        "onboard_time": 1709193813,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240563,
+        "num": 240563,
+        "word": "花花运动量vs和叶运动量",
+        "onboard_time": 1709191774,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204712,
+        "num": 204712,
+        "word": "被我弄丢的你校园首映",
+        "onboard_time": 1709195074,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203544,
+        "num": 203544,
+        "word": "王牛 抢票",
+        "onboard_time": 1709195253,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200106,
+        "num": 200106,
+        "word": "iOS版地震预警APP添加预警功能订阅",
+        "onboard_time": 1709194714,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193742,
+        "num": 193742,
+        "word": "杨幂巴黎饭拍",
+        "onboard_time": 1709188648,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191173,
+        "num": 191173,
+        "word": "小芦丁鸡具体有多小",
+        "onboard_time": 1709192613,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 184727,
+        "num": 184727,
+        "word": "被我弄丢的你",
+        "onboard_time": 1709195374,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180268,
+        "num": 180268,
+        "word": "外国人试用中国古代的口红纸",
+        "onboard_time": 1709190632,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 172764,
+        "num": 172764,
+        "word": "周鸿祎称PPT是忽悠人的最好工具",
+        "onboard_time": 1709193452,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194423,
+        "num": 172535,
+        "word": "网剧飞驰人生 胡先煦腾化",
+        "onboard_time": 1709195134,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172143,
+        "num": 172143,
+        "word": "挖呀挖黄老师已向警方提供证据",
+        "onboard_time": 1709179470,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171506,
+        "num": 171506,
+        "word": "夫妻的性格真的会越来越像吗",
+        "onboard_time": 1709192193,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170244,
+        "num": 170244,
+        "word": "李一桐素颜营业图",
+        "onboard_time": 1709195012,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162627,
+        "num": 162627,
+        "word": "韩国允许对胎儿进行性别鉴定",
+        "onboard_time": 1709170231,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152289,
+        "num": 152289,
+        "word": "高叶白背心",
+        "onboard_time": 1709194110,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151411,
+        "num": 151411,
+        "word": "恋与制作人白起 英雄终归",
+        "onboard_time": 1709195074,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149910,
+        "num": 149910,
+        "word": "林俊杰演唱会四城官宣",
+        "onboard_time": 1709184572,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149018,
+        "num": 149018,
+        "word": "虎杖悠仁吐血",
+        "onboard_time": 1709187271,
+        "rank": 38,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 136050,
+        "num": 136050,
+        "word": "2月29日出生怎么过生日",
+        "onboard_time": 1709175152,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131614,
+        "num": 131614,
+        "word": "女生二战考研成绩提高102分",
+        "onboard_time": 1709179235,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129485,
+        "num": 129485,
+        "word": "柯哀同人图",
+        "onboard_time": 1709192310,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 128241,
+        "num": 128241,
+        "word": "吴镇宇唯一害怕的女人",
+        "onboard_time": 1709180796,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125290,
+        "num": 125290,
+        "word": "徐梦洁四年前后对比",
+        "onboard_time": 1709190751,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119093,
+        "num": 119093,
+        "word": "张杰官宣演唱会",
+        "onboard_time": 1709180736,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117979,
+        "num": 117979,
+        "word": "日本留学生分享中文学习经历",
+        "onboard_time": 1709193030,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117950,
+        "num": 117950,
+        "word": "1块巧克力60块昆虫碎片",
+        "onboard_time": 1709185894,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 116974,
+        "num": 116974,
+        "word": "Hero零封RNGM",
+        "onboard_time": 1709194171,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116508,
+        "num": 116508,
+        "word": "马立奥吃螺蛳粉",
+        "onboard_time": 1709187992,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106301,
+        "num": 106301,
+        "word": "Hero首胜",
+        "onboard_time": 1709191594,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#当好中国式现代化建设坚定行动派实干家#"
+    }
+  }
+}

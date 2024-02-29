@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709194839301,
+  "endTime": 1709195662520,
   "band_list": [
     {
       "raw_hot": 2782869,
@@ -51,6 +51,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1641310,
+      "num": 1641310,
+      "word": "手机电池不喜欢100%的饱和状态",
+      "onboard_time": 1709192971,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1638263,
       "num": 1638263,
       "word": "老员工称娃哈哈经常莫名其妙发钱",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1591654,
-      "num": 449954,
+      "num": 481722,
       "word": "侃爷妻子或因穿着暴露坐牢",
       "onboard_time": 1709185773,
       "rank": 10,
@@ -121,14 +129,6 @@
       "onboard_time": 1709180796,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 992392,
-      "num": 992392,
-      "word": "手机电池不喜欢100%的饱和状态",
-      "onboard_time": 1709192971,
-      "rank": 3,
-      "category": "数码"
     },
     {
       "raw_hot": 979065,
@@ -211,6 +211,14 @@
       "category": "运动健身,艺人"
     },
     {
+      "raw_hot": 710089,
+      "num": 710089,
+      "word": "京东物流被曝将招聘上万人",
+      "onboard_time": 1709193870,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 698745,
       "num": 698745,
       "word": "女生二战考研成绩提高102分",
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598430,
+      "num": 598430,
+      "word": "大谷翔平结婚",
+      "onboard_time": 1709193633,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 581852,
       "num": 581852,
       "word": "杨紫票房总成绩破80亿",
@@ -299,20 +315,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 534465,
-      "num": 534465,
-      "word": "大谷翔平结婚",
-      "onboard_time": 1709193633,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 507999,
-      "num": 507999,
+      "raw_hot": 577962,
+      "num": 577962,
       "word": "港剧是懂女性痛经的",
       "onboard_time": 1709190151,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 524551,
+      "num": 524551,
+      "word": "任泉回应街头拥抱陌生人",
+      "onboard_time": 1709193690,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 507263,
@@ -499,8 +515,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 397399,
-      "num": 397399,
+      "raw_hot": 405118,
+      "num": 405118,
       "word": "4种食物是升糖大户尽量少吃",
       "onboard_time": 1709186372,
       "rank": 20,
@@ -513,14 +529,6 @@
       "onboard_time": 1709126251,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 396560,
-      "num": 396560,
-      "word": "京东物流被曝将招聘上万人",
-      "onboard_time": 1709193870,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 391303,
@@ -681,14 +689,6 @@
       "onboard_time": 1709126673,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 327937,
-      "num": 327937,
-      "word": "任泉回应街头拥抱陌生人",
-      "onboard_time": 1709193690,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 320934,
@@ -875,6 +875,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 249945,
+      "num": 244354,
+      "word": "对一块钱的概念越来越模糊了",
+      "onboard_time": 1709193813,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249490,
       "num": 249490,
       "word": "舅舅让我帮他女儿付学费",
@@ -907,12 +915,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 243490,
-      "num": 243490,
-      "word": "对一块钱的概念越来越模糊了",
-      "onboard_time": 1709193813,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 240563,
+      "num": 240563,
+      "word": "花花运动量vs和叶运动量",
+      "onboard_time": 1709191774,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238760,
@@ -977,14 +985,6 @@
       "onboard_time": 1709176892,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227490,
-      "num": 227490,
-      "word": "花花运动量vs和叶运动量",
-      "onboard_time": 1709191774,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224569,
@@ -1099,12 +1099,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 204712,
+      "num": 204712,
+      "word": "被我弄丢的你校园首映",
+      "onboard_time": 1709195074,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203575,
       "num": 203575,
       "word": "白鹿白月梵星原声台词",
       "onboard_time": 1709181098,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203544,
+      "num": 203544,
+      "word": "王牛 抢票",
+      "onboard_time": 1709195253,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 203318,
@@ -1137,6 +1153,14 @@
       "onboard_time": 1709179413,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200106,
+      "num": 200106,
+      "word": "iOS版地震预警APP添加预警功能订阅",
+      "onboard_time": 1709194714,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 196116,
@@ -1179,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194423,
+      "num": 172535,
+      "word": "网剧飞驰人生 胡先煦腾化",
+      "onboard_time": 1709195134,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194202,
       "num": 194202,
       "word": "第一次看见这么离谱的新衣服",
@@ -1209,6 +1241,14 @@
       "onboard_time": 1709162305,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 191173,
+      "num": 191173,
+      "word": "小芦丁鸡具体有多小",
+      "onboard_time": 1709192613,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 190776,
@@ -1265,6 +1305,14 @@
       "onboard_time": 1709180013,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 184727,
+      "num": 184727,
+      "word": "被我弄丢的你",
+      "onboard_time": 1709195374,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 184280,
@@ -1387,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170244,
+      "num": 170244,
+      "word": "李一桐素颜营业图",
+      "onboard_time": 1709195012,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170216,
       "num": 170216,
       "word": "网剧飞驰人生",
@@ -1417,14 +1473,6 @@
       "onboard_time": 1709194110,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167541,
-      "num": 167541,
-      "word": "小芦丁鸡具体有多小",
-      "onboard_time": 1709192613,
-      "rank": 33,
-      "category": "科学科普"
     },
     {
       "raw_hot": 166581,
@@ -1569,6 +1617,14 @@
       "onboard_time": 1709186312,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151411,
+      "num": 151411,
+      "word": "恋与制作人白起 英雄终归",
+      "onboard_time": 1709195074,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 151062,
@@ -1737,6 +1793,14 @@
       "onboard_time": 1709125473,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132016,
+      "num": 1159999,
+      "word": "2023中国科学十大进展公布",
+      "onboard_time": 1709194533,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 131271,
@@ -1955,14 +2019,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 105362,
-      "num": 105362,
-      "word": "iOS版地震预警APP添加预警功能订阅",
-      "onboard_time": 1709194714,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 104616,
       "num": 104616,
       "word": "上海一饭堂发生情杀案致2人死亡",
@@ -2147,14 +2203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44066,
-      "num": 1036938,
-      "word": "2023中国科学十大进展公布",
-      "onboard_time": 1709194533,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 32272,
       "num": 32272,
       "word": "全球发音",
@@ -2196,7 +2244,7 @@
     },
     {
       "raw_hot": 20676,
-      "num": 398729,
+      "num": 416188,
       "word": "智能首饰穿搭风",
       "onboard_time": 1709192310,
       "rank": 11,
@@ -2223,6 +2271,9 @@
     },
     {
       "word": "#中塞关系堪称中非团结合作的典范#"
+    },
+    {
+      "word": "#当好中国式现代化建设坚定行动派实干家#"
     }
   ]
 }
