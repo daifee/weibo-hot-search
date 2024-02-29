@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709237949287,
+  "endTime": 1709238855456,
   "band_list": [
     {
       "raw_hot": 773694,
@@ -451,7 +451,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 36878,
+      "raw_hot": 49373,
       "num": 15709,
       "word": "网红自导自演被砸鸡蛋",
       "onboard_time": 1709235916,
@@ -483,20 +483,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21345,
+      "num": 21345,
+      "word": "女生路边捡猫归还主人获6万回报",
+      "onboard_time": 1709230278,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21321,
       "num": 21321,
       "word": "乘风2024你最期待谁",
       "onboard_time": 1709232797,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20206,
-      "num": 20206,
-      "word": "女生路边捡猫归还主人获6万回报",
-      "onboard_time": 1709230278,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19316,
@@ -531,20 +531,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 15817,
+      "num": 15817,
+      "word": "女子给晾的每1块腊肉都穿上纸尿裤",
+      "onboard_time": 1709237535,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13146,
       "num": 13146,
       "word": "韩雪浪姐路透",
       "onboard_time": 1709235555,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11982,
-      "num": 13003,
-      "word": "女子给晾的每1块腊肉都穿上纸尿裤",
-      "onboard_time": 1709237535,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8656,
@@ -561,6 +561,14 @@
       "onboard_time": 1709194052,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 6836,
+      "num": 12760,
+      "word": "老人硬核投喂一整头羊民警果断付钱",
+      "onboard_time": 1709238436,
+      "rank": 42,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
