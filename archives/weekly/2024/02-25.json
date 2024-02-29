@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709210677497,
+  "endTime": 1709212699470,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -817,6 +817,14 @@
       "onboard_time": 1709110294,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1338196,
+      "num": 1338196,
+      "word": "韩国人吃玉米芯",
+      "onboard_time": 1709209115,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1335695,
@@ -2875,6 +2883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 604264,
+      "num": 604264,
+      "word": "女子吐槽花1588元请跟拍成片太草率",
+      "onboard_time": 1709209953,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 603898,
       "num": 308357,
       "word": "把公司群名改成了穷酸公司迟早倒闭",
@@ -3179,6 +3195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569551,
+      "num": 569551,
+      "word": "文韬嗑瓜子",
+      "onboard_time": 1709211453,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568130,
       "num": 415966,
       "word": "papi酱 工作中的崩溃时刻",
@@ -3225,14 +3249,6 @@
       "onboard_time": 1708840233,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 558942,
-      "num": 558942,
-      "word": "韩国人吃玉米芯",
-      "onboard_time": 1709209115,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 558531,
@@ -4075,6 +4091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 455195,
+      "num": 455195,
+      "word": "唐人街探案",
+      "onboard_time": 1709208936,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 454276,
       "num": 454276,
       "word": "肖战评价自己看秀穿搭",
@@ -4619,6 +4643,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 400415,
+      "num": 400415,
+      "word": "朴炯植最喜欢任时完",
+      "onboard_time": 1709210193,
+      "rank": 21,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 399936,
       "num": 351952,
       "word": "家人把我养了一年的兔子吃了",
@@ -4828,7 +4860,7 @@
     },
     {
       "raw_hot": 376878,
-      "num": 293585,
+      "num": 295291,
       "word": "好朋友忘了我的亲人去世了",
       "onboard_time": 1709204855,
       "rank": 30,
@@ -4881,6 +4913,14 @@
       "onboard_time": 1708915174,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 372336,
+      "num": 372336,
+      "word": "杨幂下车神图",
+      "onboard_time": 1709210915,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 371909,
@@ -5185,14 +5225,6 @@
       "onboard_time": 1709013874,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 350385,
-      "num": 350385,
-      "word": "唐人街探案",
-      "onboard_time": 1709208936,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 349841,
@@ -5707,6 +5739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313041,
+      "num": 274409,
+      "word": "南北走位",
+      "onboard_time": 1709212413,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312750,
       "num": 312750,
       "word": "詹姆斯看到了王鹤棣",
@@ -5819,12 +5859,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 307117,
-      "num": 293585,
-      "word": "朴炯植最喜欢任时完",
-      "onboard_time": 1709210193,
-      "rank": 21,
-      "category": "综艺,艺人"
+      "raw_hot": 307691,
+      "num": 307691,
+      "word": "工作一年半我是如何攒下一千九的",
+      "onboard_time": 1709211513,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 306827,
@@ -6019,6 +6059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295082,
+      "num": 295082,
+      "word": "烟火人家大结局",
+      "onboard_time": 1709211814,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292430,
       "num": 292430,
       "word": "魏大勋演我吃瓜",
@@ -6065,6 +6113,14 @@
       "onboard_time": 1709038656,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 289687,
+      "num": 289687,
+      "word": "名侦探学院",
+      "onboard_time": 1709211755,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 288838,
@@ -6553,6 +6609,14 @@
       "onboard_time": 1709176834,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 268789,
+      "num": 325521,
+      "word": "博格巴将被禁赛4年",
+      "onboard_time": 1709211215,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 267906,
@@ -7547,6 +7611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231061,
+      "num": 231061,
+      "word": "Prada繁花之夜",
+      "onboard_time": 1709211335,
+      "rank": 33,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 230878,
       "num": 230878,
       "word": "比亚迪秦PLUS荣耀版首周订单23590辆",
@@ -7947,6 +8019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 218648,
+      "num": 287799,
+      "word": "这是买的房还是车库",
+      "onboard_time": 1709211632,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218376,
       "num": 218376,
       "word": "EDG官宣Xiamu加入",
@@ -8195,6 +8275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211796,
+      "num": 211796,
+      "word": "烟火人家",
+      "onboard_time": 1709211096,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211533,
       "num": 162845,
       "word": "种地吧沉浸式干活",
@@ -8329,6 +8417,14 @@
       "onboard_time": 1709029233,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209465,
+      "num": 209465,
+      "word": "全圆佑直播",
+      "onboard_time": 1709212236,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 209301,
@@ -9633,14 +9729,6 @@
       "onboard_time": 1709087732,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184610,
-      "num": 184610,
-      "word": "女子吐槽花1588元请跟拍成片太草率",
-      "onboard_time": 1709209953,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184478,
@@ -11291,6 +11379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 152881,
+      "num": 152881,
+      "word": "范思哲活动",
+      "onboard_time": 1709211933,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 152870,
       "num": 152870,
       "word": "这是侍郎还是舞娘",
@@ -12193,6 +12289,14 @@
       "onboard_time": 1709120129,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137256,
+      "num": 137256,
+      "word": "福建泉州发生命案",
+      "onboard_time": 1709212413,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137247,
@@ -14009,6 +14113,14 @@
       "onboard_time": 1708802777,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27268,
+      "num": 1061823,
+      "word": "2024中国航天两大任务剧透来了",
+      "onboard_time": 1709212413,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27095,

@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709210677497,
+  "endTime": 1709212699470,
   "band_list": [
     {
       "raw_hot": 3110421,
@@ -145,6 +145,14 @@
       "onboard_time": 1709206895,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1338196,
+      "num": 1338196,
+      "word": "韩国人吃玉米芯",
+      "onboard_time": 1709209115,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1290063,
@@ -451,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 604264,
+      "num": 604264,
+      "word": "女子吐槽花1588元请跟拍成片太草率",
+      "onboard_time": 1709209953,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 598430,
       "num": 598430,
       "word": "大谷翔平结婚",
@@ -499,12 +515,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 558942,
-      "num": 558942,
-      "word": "韩国人吃玉米芯",
-      "onboard_time": 1709209115,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 569551,
+      "num": 569551,
+      "word": "文韬嗑瓜子",
+      "onboard_time": 1709211453,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 534122,
@@ -619,6 +635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 455195,
+      "num": 455195,
+      "word": "唐人街探案",
+      "onboard_time": 1709208936,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 454070,
       "num": 454070,
       "word": "回县城体制内工作的女硕士怎么样了",
@@ -715,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400415,
+      "num": 400415,
+      "word": "朴炯植最喜欢任时完",
+      "onboard_time": 1709210193,
+      "rank": 21,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 396642,
       "num": 396642,
       "word": "霍建华 要拍现在拍别跟着我",
@@ -764,7 +796,7 @@
     },
     {
       "raw_hot": 376878,
-      "num": 293585,
+      "num": 295291,
       "word": "好朋友忘了我的亲人去世了",
       "onboard_time": 1709204855,
       "rank": 30,
@@ -785,6 +817,14 @@
       "onboard_time": 1709168797,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 372336,
+      "num": 372336,
+      "word": "杨幂下车神图",
+      "onboard_time": 1709210915,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 371587,
@@ -873,14 +913,6 @@
       "onboard_time": 1709208936,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 350385,
-      "num": 350385,
-      "word": "唐人街探案",
-      "onboard_time": 1709208936,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 346577,
@@ -987,6 +1019,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 313041,
+      "num": 274409,
+      "word": "南北走位",
+      "onboard_time": 1709212413,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308735,
       "num": 308735,
       "word": "杨谨华真的来了",
@@ -995,12 +1035,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307117,
-      "num": 293585,
-      "word": "朴炯植最喜欢任时完",
-      "onboard_time": 1709210193,
-      "rank": 21,
-      "category": "综艺,艺人"
+      "raw_hot": 307691,
+      "num": 307691,
+      "word": "工作一年半我是如何攒下一千九的",
+      "onboard_time": 1709211513,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 306154,
@@ -1027,12 +1067,28 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 295082,
+      "num": 295082,
+      "word": "烟火人家大结局",
+      "onboard_time": 1709211814,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291032,
       "num": 291032,
       "word": "四年一次的生日",
       "onboard_time": 1709170231,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 289687,
+      "num": 289687,
+      "word": "名侦探学院",
+      "onboard_time": 1709211755,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 285947,
@@ -1113,6 +1169,14 @@
       "onboard_time": 1709176834,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 268789,
+      "num": 325521,
+      "word": "博格巴将被禁赛4年",
+      "onboard_time": 1709211215,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 267906,
@@ -1331,6 +1395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 231061,
+      "num": 231061,
+      "word": "Prada繁花之夜",
+      "onboard_time": 1709211335,
+      "rank": 33,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 230691,
       "num": 230691,
       "word": "7个建议远离高尿酸和痛风",
@@ -1435,6 +1507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 218648,
+      "num": 287799,
+      "word": "这是买的房还是车库",
+      "onboard_time": 1709211632,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218364,
       "num": 218364,
       "word": "朱一龙直播",
@@ -1467,6 +1547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 211796,
+      "num": 211796,
+      "word": "烟火人家",
+      "onboard_time": 1709211096,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211533,
       "num": 162845,
       "word": "种地吧沉浸式干活",
@@ -1497,6 +1585,14 @@
       "onboard_time": 1709200113,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 209465,
+      "num": 209465,
+      "word": "全圆佑直播",
+      "onboard_time": 1709212236,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 205582,
@@ -1801,14 +1897,6 @@
       "onboard_time": 1709207733,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184610,
-      "num": 184610,
-      "word": "女子吐槽花1588元请跟拍成片太草率",
-      "onboard_time": 1709209953,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184280,
@@ -2155,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152881,
+      "num": 152881,
+      "word": "范思哲活动",
+      "onboard_time": 1709211933,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 152870,
       "num": 152870,
       "word": "这是侍郎还是舞娘",
@@ -2393,6 +2489,14 @@
       "onboard_time": 1709201553,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137256,
+      "num": 137256,
+      "word": "福建泉州发生命案",
+      "onboard_time": 1709212413,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136921,
@@ -2969,6 +3073,14 @@
       "onboard_time": 1709148257,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27268,
+      "num": 1061823,
+      "word": "2024中国航天两大任务剧透来了",
+      "onboard_time": 1709212413,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27061,
