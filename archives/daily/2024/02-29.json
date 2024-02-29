@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709199241801,
+  "endTime": 1709202018488,
   "band_list": [
     {
       "raw_hot": 2782869,
@@ -9,6 +9,14 @@
       "onboard_time": 1709164107,
       "rank": 0,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2746525,
+      "num": 2746525,
+      "word": "小团团",
+      "onboard_time": 1709200170,
+      "rank": 0,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 2618819,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1591654,
-      "num": 481722,
+      "num": 720400,
       "word": "侃爷妻子或因穿着暴露坐牢",
       "onboard_time": 1709185773,
       "rank": 10,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 976695,
+      "num": 976695,
+      "word": "泰国男子寺庙闹事意外被佛像刺死",
+      "onboard_time": 1709200290,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 965537,
       "num": 965537,
       "word": "厅长退休后买13套房给子孙",
@@ -169,6 +185,14 @@
       "onboard_time": 1709186553,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 925550,
+      "num": 925550,
+      "word": "马天宇为女教师殴打学生事件发声",
+      "onboard_time": 1709199691,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 891322,
@@ -195,6 +219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 824938,
+      "num": 824938,
+      "word": "浪姐路透",
+      "onboard_time": 1709198012,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 802519,
       "num": 802519,
       "word": "李溪芮自荐报名浪姐",
@@ -219,12 +251,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 762934,
-      "num": 762934,
-      "word": "浪姐路透",
-      "onboard_time": 1709198012,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 776009,
+      "num": 776009,
+      "word": "景天爆改邪剑仙",
+      "onboard_time": 1709199573,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 764603,
+      "num": 764603,
+      "word": "日食记 锅塌茄子",
+      "onboard_time": 1709196210,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 725754,
@@ -236,7 +276,7 @@
     },
     {
       "raw_hot": 698745,
-      "num": 698745,
+      "num": 781112,
       "word": "女生二战考研成绩提高102分",
       "onboard_time": 1709179235,
       "rank": 12,
@@ -249,6 +289,14 @@
       "onboard_time": 1709180736,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 685099,
+      "num": 685099,
+      "word": "公安介入调查女教师殴打学生",
+      "onboard_time": 1709198492,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 659350,
@@ -315,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608931,
+      "num": 608931,
+      "word": "宁艺卓北京",
+      "onboard_time": 1709200413,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 598430,
       "num": 598430,
       "word": "大谷翔平结婚",
@@ -339,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 578638,
+      "num": 578638,
+      "word": "小鹏汽车撞到交通标志翻转起火",
+      "onboard_time": 1709198191,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577962,
       "num": 577962,
       "word": "港剧是懂女性痛经的",
@@ -347,16 +411,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 543142,
-      "num": 425045,
-      "word": "日食记 锅塌茄子",
-      "onboard_time": 1709196210,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 534122,
-      "num": 424403,
+      "num": 455043,
       "word": "中共中央政治局召开会议",
       "onboard_time": 1709196871,
       "rank": 31,
@@ -435,6 +491,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 467224,
+      "num": 467224,
+      "word": "何洁录制浪姐",
+      "onboard_time": 1709198793,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 463340,
       "num": 463340,
       "word": "AppleID或升级为AppleAccount",
@@ -507,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439625,
+      "num": 439625,
+      "word": "老师粗暴对学生涉事学校校长被免职",
+      "onboard_time": 1709201133,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 437549,
       "num": 320132,
       "word": "人流后支离破碎的子宫",
@@ -545,14 +617,6 @@
       "onboard_time": 1709127395,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 416900,
-      "num": 416900,
-      "word": "小鹏汽车撞到交通标志翻转起火",
-      "onboard_time": 1709198191,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 405823,
@@ -649,14 +713,6 @@
       "onboard_time": 1709197351,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 364395,
-      "num": 425774,
-      "word": "公安介入调查女教师殴打学生",
-      "onboard_time": 1709198492,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 359512,
@@ -795,20 +851,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 293128,
-      "num": 293128,
-      "word": "何洁录制浪姐",
-      "onboard_time": 1709198793,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 291032,
       "num": 291032,
       "word": "四年一次的生日",
       "onboard_time": 1709170231,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 287247,
+      "num": 287247,
+      "word": "杨谨华真的来了",
+      "onboard_time": 1709200713,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 285947,
@@ -1091,6 +1147,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227884,
+      "num": 225425,
+      "word": "浪姐5网传名单",
+      "onboard_time": 1709201252,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 227841,
+      "num": 227841,
+      "word": "邓为上海活动人气",
+      "onboard_time": 1709198433,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 225960,
+      "num": 777025,
+      "word": "女子为母亲销户泪崩民警帮其找出旧照",
+      "onboard_time": 1709200231,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224569,
       "num": 224569,
       "word": "马面裙原来与马无关",
@@ -1129,14 +1209,6 @@
       "onboard_time": 1709131715,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221413,
-      "num": 221413,
-      "word": "邓为上海活动人气",
-      "onboard_time": 1709198433,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 218731,
@@ -1193,6 +1265,22 @@
       "onboard_time": 1709190751,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209703,
+      "num": 209703,
+      "word": "檀健次张婧仪直播",
+      "onboard_time": 1709200113,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 208383,
+      "num": 208383,
+      "word": "原来四年过一次生日也是一种幸福",
+      "onboard_time": 1709201613,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 205582,
@@ -1273,6 +1361,14 @@
       "onboard_time": 1709194714,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 197485,
+      "num": 197485,
+      "word": "知情人士回应小鹏汽车起火",
+      "onboard_time": 1709199750,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196116,
@@ -1419,6 +1515,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187170,
+      "num": 187170,
+      "word": "仍有鲜花不断送往娃哈哈大楼",
+      "onboard_time": 1709200113,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187141,
+      "num": 187141,
+      "word": "吃面偶遇王安宇",
+      "onboard_time": 1709201735,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187096,
       "num": 183633,
       "word": "小米14Ultra龙晶陶瓷硬度只有6级",
@@ -1496,6 +1608,14 @@
       "word": "春楠拍了唐嫣",
       "onboard_time": 1709179174,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 179765,
+      "num": 179765,
+      "word": "侵权杨颖商家被执行10万",
+      "onboard_time": 1709195730,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1627,6 +1747,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 162868,
+      "num": 162868,
+      "word": "曹璐 没来浪姐",
+      "onboard_time": 1709201853,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161705,
       "num": 161705,
       "word": "钟无艳大蒜喵联动皮肤",
@@ -1673,14 +1801,6 @@
       "onboard_time": 1709181032,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 158582,
-      "num": 158582,
-      "word": "侵权杨颖商家被执行10万",
-      "onboard_time": 1709195730,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 157919,
@@ -1785,6 +1905,14 @@
       "onboard_time": 1709185954,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149259,
+      "num": 149259,
+      "word": "最新居民收入五档划分",
+      "onboard_time": 1709201613,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149219,
@@ -1905,6 +2033,14 @@
       "onboard_time": 1709198911,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137381,
+      "num": 137381,
+      "word": "星穹铁道2.0",
+      "onboard_time": 1709201553,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 136921,
@@ -2097,6 +2233,14 @@
       "onboard_time": 1709135792,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114590,
+      "num": 114590,
+      "word": "EDG对战OMG",
+      "onboard_time": 1709200413,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 114526,
@@ -2433,6 +2577,14 @@
       "onboard_time": 1709155576,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 8694,
+      "num": 666739,
+      "word": "在天猫集全明星卡抽8888元红包",
+      "onboard_time": 1709200832,
+      "rank": 14,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [

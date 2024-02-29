@@ -1,0 +1,410 @@
+{
+  "runTime": 1709202018488,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2746525,
+        "num": 2746525,
+        "word": "小团团",
+        "onboard_time": 1709200170,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1041034,
+        "num": 1041034,
+        "word": "手机电池不喜欢100%的饱和状态",
+        "onboard_time": 1709192971,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103167,
+        "num": 1007439,
+        "word": "2023中国科学十大进展公布",
+        "onboard_time": 1709194533,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 976695,
+        "num": 976695,
+        "word": "泰国男子寺庙闹事意外被佛像刺死",
+        "onboard_time": 1709200290,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 925550,
+        "num": 925550,
+        "word": "马天宇为女教师殴打学生事件发声",
+        "onboard_time": 1709199691,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 870963,
+        "num": 870963,
+        "word": "汪峰女儿小苹果晒留学照",
+        "onboard_time": 1709196631,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 824938,
+        "num": 824938,
+        "word": "浪姐路透",
+        "onboard_time": 1709198012,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 816883,
+        "num": 816883,
+        "word": "京东物流被曝将招聘上万人",
+        "onboard_time": 1709193870,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 104955,
+        "num": 781112,
+        "word": "女生二战考研成绩提高102分",
+        "onboard_time": 1709179235,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 225960,
+        "num": 777025,
+        "word": "女子为母亲销户泪崩民警帮其找出旧照",
+        "onboard_time": 1709200231,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776009,
+        "num": 776009,
+        "word": "景天爆改邪剑仙",
+        "onboard_time": 1709199573,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 764603,
+        "num": 764603,
+        "word": "日食记 锅塌茄子",
+        "onboard_time": 1709196210,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 720400,
+        "num": 720400,
+        "word": "侃爷妻子或因穿着暴露坐牢",
+        "onboard_time": 1709185773,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 685099,
+        "num": 685099,
+        "word": "公安介入调查女教师殴打学生",
+        "onboard_time": 1709198492,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8694,
+        "num": 666739,
+        "word": "在天猫集全明星卡抽8888元红包",
+        "onboard_time": 1709200832,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 654573,
+        "num": 654573,
+        "word": "武汉大学 莞莞类卿",
+        "onboard_time": 1709190751,
+        "rank": 15,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 608931,
+        "num": 608931,
+        "word": "宁艺卓北京",
+        "onboard_time": 1709200413,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 578638,
+        "num": 578638,
+        "word": "小鹏汽车撞到交通标志翻转起火",
+        "onboard_time": 1709198191,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467224,
+        "num": 467224,
+        "word": "何洁录制浪姐",
+        "onboard_time": 1709198793,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455043,
+        "num": 455043,
+        "word": "中共中央政治局召开会议",
+        "onboard_time": 1709196871,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 439625,
+        "num": 439625,
+        "word": "老师粗暴对学生涉事学校校长被免职",
+        "onboard_time": 1709201133,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367827,
+        "num": 367827,
+        "word": "港剧是懂女性痛经的",
+        "onboard_time": 1709190151,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324899,
+        "num": 324899,
+        "word": "iPhone15官旗全系降至历史最低价",
+        "onboard_time": 1709186012,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 287247,
+        "num": 287247,
+        "word": "杨谨华真的来了",
+        "onboard_time": 1709200713,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284777,
+        "num": 284777,
+        "word": "马航失联乘客家属再次赴马参会",
+        "onboard_time": 1709188292,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282980,
+        "num": 282980,
+        "word": "李溪芮自荐报名浪姐",
+        "onboard_time": 1709190689,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267530,
+        "num": 267530,
+        "word": "任泉回应街头拥抱陌生人",
+        "onboard_time": 1709193690,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241922,
+        "num": 241922,
+        "word": "4种食物是升糖大户尽量少吃",
+        "onboard_time": 1709186372,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 233745,
+        "num": 233745,
+        "word": "刘忻 浪姐",
+        "onboard_time": 1709186553,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227841,
+        "num": 227841,
+        "word": "邓为上海活动人气",
+        "onboard_time": 1709198433,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227884,
+        "num": 225425,
+        "word": "浪姐5网传名单",
+        "onboard_time": 1709201252,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221235,
+        "num": 221235,
+        "word": "IU汤唯贴贴",
+        "onboard_time": 1709197351,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 209703,
+        "num": 209703,
+        "word": "檀健次张婧仪直播",
+        "onboard_time": 1709200113,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208383,
+        "num": 208383,
+        "word": "原来四年过一次生日也是一种幸福",
+        "onboard_time": 1709201613,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197485,
+        "num": 197485,
+        "word": "知情人士回应小鹏汽车起火",
+        "onboard_time": 1709199750,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188886,
+        "num": 188886,
+        "word": "花10万把老家房子改造了",
+        "onboard_time": 1709197651,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187170,
+        "num": 187170,
+        "word": "仍有鲜花不断送往娃哈哈大楼",
+        "onboard_time": 1709200113,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187141,
+        "num": 187141,
+        "word": "吃面偶遇王安宇",
+        "onboard_time": 1709201735,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179765,
+        "num": 179765,
+        "word": "侵权杨颖商家被执行10万",
+        "onboard_time": 1709195730,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162868,
+        "num": 162868,
+        "word": "曹璐 没来浪姐",
+        "onboard_time": 1709201853,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155331,
+        "num": 155331,
+        "word": "与凤行过审下证",
+        "onboard_time": 1709198492,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151497,
+        "num": 151497,
+        "word": "对一块钱的概念越来越模糊了",
+        "onboard_time": 1709193813,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149259,
+        "num": 149259,
+        "word": "最新居民收入五档划分",
+        "onboard_time": 1709201613,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142418,
+        "num": 142418,
+        "word": "刘诗雯全英文演讲",
+        "onboard_time": 1709198972,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137381,
+        "num": 137381,
+        "word": "星穹铁道2.0",
+        "onboard_time": 1709201553,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131313,
+        "num": 131313,
+        "word": "被我弄丢的你",
+        "onboard_time": 1709195374,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121355,
+        "num": 121355,
+        "word": "陈都灵线下活动",
+        "onboard_time": 1709197052,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119761,
+        "num": 119761,
+        "word": "小鹏P7",
+        "onboard_time": 1709192791,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 119029,
+        "num": 119029,
+        "word": "杨紫票房总成绩破80亿",
+        "onboard_time": 1709183913,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114590,
+        "num": 114590,
+        "word": "EDG对战OMG",
+        "onboard_time": 1709200413,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#当好中国式现代化建设坚定行动派实干家#"
+    }
+  }
+}
