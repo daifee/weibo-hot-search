@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709231636765,
+  "endTime": 1709234006888,
   "band_list": [
     {
       "raw_hot": 773694,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85435,
+      "num": 49519,
+      "word": "周星驰将为新片女足海选素人",
+      "onboard_time": 1709231238,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 84489,
       "num": 84489,
       "word": "烟火人家太好哭了",
@@ -435,12 +443,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 52748,
-      "num": 34035,
-      "word": "周星驰将为新片女足海选素人",
-      "onboard_time": 1709231238,
-      "rank": 30,
-      "category": "电影"
+      "raw_hot": 43235,
+      "num": 26717,
+      "word": "上班恶心穿搭引发年轻人共鸣",
+      "onboard_time": 1709230938,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33860,
@@ -467,12 +475,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22673,
-      "num": 26717,
-      "word": "上班恶心穿搭引发年轻人共鸣",
-      "onboard_time": 1709230938,
-      "rank": 39,
+      "raw_hot": 21321,
+      "num": 21321,
+      "word": "乘风2024你最期待谁",
+      "onboard_time": 1709232797,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 17273,
+      "num": 17273,
+      "word": "苏新皓手势舞",
+      "onboard_time": 1709232676,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16738,
+      "num": 16738,
+      "word": "女生路边捡猫归还主人获6万回报",
+      "onboard_time": 1709230278,
+      "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16308,
+      "num": 16308,
+      "word": "周处除三害预售票房",
+      "onboard_time": 1709232558,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 8183,

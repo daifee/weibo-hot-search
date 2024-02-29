@@ -1,0 +1,410 @@
+{
+  "runTime": 1709234006888,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 124794,
+        "num": 124794,
+        "word": "终于知道魏大勋好人缘是怎么来的",
+        "onboard_time": 1709223507,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76344,
+        "num": 76344,
+        "word": "韩国医生若辞职须立刻入伍",
+        "onboard_time": 1709219257,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1861,
+        "num": 73172,
+        "word": "微观两会",
+        "onboard_time": 1709194052,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135507,
+        "num": 72346,
+        "word": "PDD",
+        "onboard_time": 1709204553,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 93377,
+        "num": 68297,
+        "word": "泰国男子寺庙闹事意外被佛像刺死",
+        "onboard_time": 1709200290,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 100659,
+        "num": 64354,
+        "word": "小团团",
+        "onboard_time": 1709200170,
+        "rank": 5,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 62278,
+        "num": 62278,
+        "word": "赵露思女友感",
+        "onboard_time": 1709224946,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60418,
+        "num": 60418,
+        "word": "花少团真的去了秦岚家",
+        "onboard_time": 1709215898,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54708,
+        "num": 54708,
+        "word": "王力宏点赞十几年前和宗庆后合照微博",
+        "onboard_time": 1709206592,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52241,
+        "num": 52241,
+        "word": "郭麒麟胖了",
+        "onboard_time": 1709213196,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99835,
+        "num": 51628,
+        "word": "小团团前公会已成被执行人",
+        "onboard_time": 1709215235,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 85435,
+        "num": 49519,
+        "word": "周星驰将为新片女足海选素人",
+        "onboard_time": 1709231238,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46625,
+        "num": 46625,
+        "word": "县城一中到底有多重要",
+        "onboard_time": 1709214998,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 45697,
+        "num": 45697,
+        "word": "曹璐回应落选浪姐",
+        "onboard_time": 1709215296,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42613,
+        "num": 42613,
+        "word": "涵艺爆料Doinb停播原因",
+        "onboard_time": 1709218657,
+        "rank": 14,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 36739,
+        "num": 36739,
+        "word": "陈靖可曾因外貌遭校园暴力",
+        "onboard_time": 1709222071,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35893,
+        "num": 35893,
+        "word": "苗苗最新状态",
+        "onboard_time": 1709213554,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35804,
+        "num": 35804,
+        "word": "点读机女孩自称患罕见脑瘤",
+        "onboard_time": 1709214034,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34671,
+        "num": 34671,
+        "word": "朱珠女儿近照",
+        "onboard_time": 1709217576,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26499,
+        "num": 26499,
+        "word": "瘦腿突然就不难了",
+        "onboard_time": 1709220872,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 30975,
+        "num": 26424,
+        "word": "永远别去碰谈了三四年恋爱的人",
+        "onboard_time": 1709215296,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30867,
+        "num": 26363,
+        "word": "教育局回应50岁班主任和学生谈恋爱",
+        "onboard_time": 1709207014,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29860,
+        "num": 26276,
+        "word": "阿莫西林仅适用于5种病症",
+        "onboard_time": 1709220036,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27324,
+        "num": 26218,
+        "word": "声入人心团综",
+        "onboard_time": 1709219616,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26189,
+        "num": 26189,
+        "word": "杨幂下车神图",
+        "onboard_time": 1709210915,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25649,
+        "num": 25649,
+        "word": "米店日",
+        "onboard_time": 1709218836,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24699,
+        "num": 24699,
+        "word": "浪姐官博回复李溪芮",
+        "onboard_time": 1709202992,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23846,
+        "num": 23846,
+        "word": "接下来一个月河南的餐桌",
+        "onboard_time": 1709229259,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 20579,
+        "num": 23520,
+        "word": "女子吐槽花1588元请跟拍成片太草率",
+        "onboard_time": 1709209953,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17199,
+        "num": 23498,
+        "word": "点读机女孩剃发",
+        "onboard_time": 1709216978,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43235,
+        "num": 23493,
+        "word": "上班恶心穿搭引发年轻人共鸣",
+        "onboard_time": 1709230938,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23488,
+        "num": 23488,
+        "word": "戚薇不去浪姐",
+        "onboard_time": 1709224350,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23337,
+        "num": 23337,
+        "word": "小狗耳朵都放下来了",
+        "onboard_time": 1709226925,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21552,
+        "num": 21552,
+        "word": "宁艺卓的鞋大了",
+        "onboard_time": 1709224166,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21546,
+        "num": 21546,
+        "word": "3月十二星座注意事项",
+        "onboard_time": 1709214218,
+        "rank": 34,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 21321,
+        "num": 21321,
+        "word": "乘风2024你最期待谁",
+        "onboard_time": 1709232797,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21197,
+        "num": 21197,
+        "word": "韩国人吃玉米芯",
+        "onboard_time": 1709209115,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20843,
+        "num": 20843,
+        "word": "今天不发朋友圈又得等四年",
+        "onboard_time": 1709218178,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20701,
+        "num": 20701,
+        "word": "朱丹也来浪姐了",
+        "onboard_time": 1709214336,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19714,
+        "num": 19714,
+        "word": "马天宇为女教师殴打学生事件发声",
+        "onboard_time": 1709199691,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19041,
+        "num": 19041,
+        "word": "苏醒 这么多年还是想先淘汰我",
+        "onboard_time": 1709214578,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18799,
+        "num": 18799,
+        "word": "烟火人家大结局",
+        "onboard_time": 1709211814,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17724,
+        "num": 17724,
+        "word": "成都春熙路天桥上长满了浪漫",
+        "onboard_time": 1709223868,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 17273,
+        "num": 17273,
+        "word": "苏新皓手势舞",
+        "onboard_time": 1709232676,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17100,
+        "num": 17100,
+        "word": "南北走位",
+        "onboard_time": 1709212413,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16738,
+        "num": 16738,
+        "word": "女生路边捡猫归还主人获6万回报",
+        "onboard_time": 1709230278,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16358,
+        "num": 16358,
+        "word": "李溪芮出发参加浪姐",
+        "onboard_time": 1709228959,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16308,
+        "num": 16308,
+        "word": "周处除三害预售票房",
+        "onboard_time": 1709232558,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16048,
+        "num": 16299,
+        "word": "NEWJEANS官宣北京签售",
+        "onboard_time": 1709206472,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15659,
+        "num": 16282,
+        "word": "三菱铅笔收购德国LAMY钢笔",
+        "onboard_time": 1709221770,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#中塞关系堪称中非团结合作的典范#"
+    }
+  }
+}
