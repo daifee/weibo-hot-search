@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709177728186,
+  "endTime": 1709180408465,
   "band_list": [
     {
       "raw_hot": 2782869,
@@ -24,6 +24,14 @@
       "word": "韩国允许对胎儿进行性别鉴定",
       "onboard_time": 1709170231,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2023950,
+      "num": 2023950,
+      "word": "3月8日妇女放假半天",
+      "onboard_time": 1709175633,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -51,6 +59,14 @@
       "category": "读书作家,艺人"
     },
     {
+      "raw_hot": 1208603,
+      "num": 1208603,
+      "word": "2月29日出生怎么过生日",
+      "onboard_time": 1709175152,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1155864,
       "num": 1155864,
       "word": "小洋睡不着道歉",
@@ -67,12 +83,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 920049,
-      "num": 920049,
-      "word": "3月8日妇女放假半天",
-      "onboard_time": 1709175633,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 891322,
+      "num": 891322,
+      "word": "李现的文案是网易云热评",
+      "onboard_time": 1709175451,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 865596,
@@ -91,12 +107,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 827989,
-      "num": 827989,
-      "word": "2月29日出生怎么过生日",
+      "raw_hot": 800280,
+      "num": 800280,
+      "word": "短剧爆款编剧月入可超10万",
       "onboard_time": 1709175152,
-      "rank": 8,
-      "category": "社会新闻"
+      "rank": 17,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 784983,
@@ -107,20 +123,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 740963,
-      "num": 740963,
-      "word": "李现的文案是网易云热评",
-      "onboard_time": 1709175451,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 725754,
       "num": 725754,
       "word": "健身教练评热巴踮脚动作",
       "onboard_time": 1709163327,
       "rank": 7,
       "category": "运动健身,艺人"
+    },
+    {
+      "raw_hot": 659350,
+      "num": 659350,
+      "word": "娱乐圈30帅",
+      "onboard_time": 1709177613,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 649992,
@@ -155,20 +171,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 603101,
+      "num": 603101,
+      "word": "教育局为被殴打学生安排心理辅导",
+      "onboard_time": 1709177613,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 580649,
       "num": 580649,
       "word": "偷偷藏不住网飞破3000万",
       "onboard_time": 1709168553,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 526682,
-      "num": 526682,
-      "word": "短剧爆款编剧月入可超10万",
-      "onboard_time": 1709175152,
-      "rank": 17,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 505588,
@@ -185,6 +201,14 @@
       "onboard_time": 1709174732,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 489297,
+      "num": 489297,
+      "word": "行程图",
+      "onboard_time": 1709177552,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 463340,
@@ -211,12 +235,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 454070,
+      "num": 454070,
+      "word": "回县城体制内工作的女硕士怎么样了",
+      "onboard_time": 1709178092,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 450454,
       "num": 450454,
       "word": "宗馥莉称将完成父亲遗志",
       "onboard_time": 1709173652,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449453,
+      "num": 449453,
+      "word": "女生二战考研成绩提高102分",
+      "onboard_time": 1709179235,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 437549,
@@ -235,6 +275,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 427250,
+      "num": 427250,
+      "word": "挖呀挖黄老师已向警方提供证据",
+      "onboard_time": 1709179470,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424082,
+      "num": 424082,
+      "word": "央广网评女教师殴打学生",
+      "onboard_time": 1709178814,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 423628,
       "num": 423628,
       "word": "人民日报评大数据杀熟",
@@ -249,6 +305,14 @@
       "onboard_time": 1709127395,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 403078,
+      "num": 403078,
+      "word": "自焚士兵称美军直接参与屠杀巴勒斯坦人",
+      "onboard_time": 1709177314,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 396642,
@@ -331,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340551,
+      "num": 219531,
+      "word": "iPhone6S包装盒上是什么鱼",
+      "onboard_time": 1709179714,
+      "rank": 30,
+      "category": "数码,科学科普"
+    },
+    {
       "raw_hot": 336044,
       "num": 336044,
       "word": "艾滋病病毒无法在唾液中存活",
@@ -403,12 +475,44 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 271686,
+      "num": 271686,
+      "word": "宋江确定入伍时间",
+      "onboard_time": 1709180314,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271650,
       "num": 271650,
       "word": "孙千陈靖可朋友圈签名",
       "onboard_time": 1709121274,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268793,
+      "num": 268793,
+      "word": "比亚迪海豹",
+      "onboard_time": 1709176834,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 266331,
+      "num": 266331,
+      "word": "阿里云全线降价20%",
+      "onboard_time": 1709178332,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 266044,
+      "num": 266044,
+      "word": "女生兼职没回家过年一分工资没拿到",
+      "onboard_time": 1709176472,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265003,
@@ -451,22 +555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 253660,
-      "num": 253660,
-      "word": "比亚迪海豹",
-      "onboard_time": 1709176834,
-      "rank": 23,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 249985,
-      "num": 249985,
-      "word": "娱乐圈30帅",
-      "onboard_time": 1709177613,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 249490,
       "num": 249490,
       "word": "舅舅让我帮他女儿付学费",
@@ -483,12 +571,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 247472,
+      "num": 247472,
+      "word": "崩坏星穹铁道 花火",
+      "onboard_time": 1709179596,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 246596,
       "num": 246596,
       "word": "摆烂太久天赋会被收走的",
       "onboard_time": 1709162305,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 238302,
+      "num": 218216,
+      "word": "跟拍月收入2万网约车司机",
+      "onboard_time": 1709178273,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 236637,
@@ -529,14 +633,6 @@
       "onboard_time": 1709175511,
       "rank": 25,
       "category": "时尚,科学科普"
-    },
-    {
-      "raw_hot": 223921,
-      "num": 223921,
-      "word": "女生兼职没回家过年一分工资没拿到",
-      "onboard_time": 1709176472,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223640,
@@ -603,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201815,
+      "num": 201815,
+      "word": "明日方舟",
+      "onboard_time": 1709179413,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 196116,
       "num": 196116,
       "word": "迪丽热巴开始推理吧路透",
@@ -643,6 +747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 191219,
+      "num": 191219,
+      "word": "官方回应女老师打骂学生拍摄者疑遭威胁",
+      "onboard_time": 1709180194,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188770,
       "num": 188770,
       "word": "丁程鑫新歌寓意",
@@ -657,6 +769,14 @@
       "onboard_time": 1709126612,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187096,
+      "num": 183633,
+      "word": "小米14Ultra龙晶陶瓷硬度只有6级",
+      "onboard_time": 1709180013,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 183863,
@@ -715,6 +835,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179088,
+      "num": 179088,
+      "word": "春楠拍了唐嫣",
+      "onboard_time": 1709179174,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178737,
+      "num": 178737,
+      "word": "马面裙原来与马无关",
+      "onboard_time": 1709179954,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 174141,
       "num": 174141,
       "word": "原来狗不嫌家贫是因为没富过",
@@ -763,14 +899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166989,
-      "num": 166989,
-      "word": "行程图",
-      "onboard_time": 1709177552,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166570,
       "num": 166570,
       "word": "小鹏与大众签订联合开发协议",
@@ -785,6 +913,14 @@
       "onboard_time": 1709115872,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165140,
+      "num": 165140,
+      "word": "俞敏洪说现在的创业机会一点也不少",
+      "onboard_time": 1709179174,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 161705,
@@ -812,7 +948,7 @@
     },
     {
       "raw_hot": 159373,
-      "num": 298566,
+      "num": 404101,
       "word": "你相信人类智能还是人工智能",
       "onboard_time": 1709176651,
       "rank": 48,
@@ -849,14 +985,6 @@
       "onboard_time": 1709125592,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151318,
-      "num": 151318,
-      "word": "自焚士兵称美军直接参与屠杀巴勒斯坦人",
-      "onboard_time": 1709177314,
-      "rank": 36,
-      "category": "国外时政"
     },
     {
       "raw_hot": 151062,
@@ -907,12 +1035,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 144229,
+      "num": 144229,
+      "word": "睡觉翻个身房子塌了",
+      "onboard_time": 1709180013,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141264,
       "num": 141264,
       "word": "LCK比赛转为录播",
       "onboard_time": 1709175749,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139445,
+      "num": 139445,
+      "word": "别着急把羽绒服收起来",
+      "onboard_time": 1709177793,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 134995,
@@ -987,11 +1131,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 121406,
-      "num": 121406,
-      "word": "教育局为被殴打学生安排心理辅导",
-      "onboard_time": 1709177613,
-      "rank": 46,
+      "raw_hot": 121724,
+      "num": 1220181,
+      "word": "3月这批新规将施行",
+      "onboard_time": 1709179413,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1316,6 +1460,9 @@
     },
     {
       "word": "#习近平同塞拉利昂总统会谈#"
+    },
+    {
+      "word": "#中塞关系堪称中非团结合作的典范#"
     }
   ]
 }
