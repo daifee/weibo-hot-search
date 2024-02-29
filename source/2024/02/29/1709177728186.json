@@ -1,0 +1,410 @@
+{
+  "runTime": 1709177728186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1644226,
+        "num": 1644226,
+        "word": "韩国允许对胎儿进行性别鉴定",
+        "onboard_time": 1709170231,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1274042,
+        "num": 1274042,
+        "word": "比亚迪宋",
+        "onboard_time": 1709171252,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 26365,
+        "num": 1035556,
+        "word": "我国载人航天工程取得4000多项发明专利",
+        "onboard_time": 1709126974,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 920049,
+        "num": 920049,
+        "word": "3月8日妇女放假半天",
+        "onboard_time": 1709175633,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 895159,
+        "num": 895159,
+        "word": "三只羊法务离职",
+        "onboard_time": 1709164107,
+        "rank": 4,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1552535,
+        "num": 882185,
+        "word": "老员工称娃哈哈经常莫名其妙发钱",
+        "onboard_time": 1709172511,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 827989,
+        "num": 827989,
+        "word": "2月29日出生怎么过生日",
+        "onboard_time": 1709175152,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740963,
+        "num": 740963,
+        "word": "李现的文案是网易云热评",
+        "onboard_time": 1709175451,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 588271,
+        "num": 588271,
+        "word": "今天是四年一遇的日子",
+        "onboard_time": 1709163448,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526682,
+        "num": 526682,
+        "word": "短剧爆款编剧月入可超10万",
+        "onboard_time": 1709175152,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 471815,
+        "num": 471815,
+        "word": "周处除三害 删减",
+        "onboard_time": 1709174732,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 456625,
+        "num": 456625,
+        "word": "教育局回应女老师打骂学生",
+        "onboard_time": 1709128295,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389388,
+        "num": 389388,
+        "word": "小洋睡不着道歉",
+        "onboard_time": 1709163508,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 389083,
+        "num": 389083,
+        "word": "马思纯7岁至36岁颜值变化",
+        "onboard_time": 1709175689,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382006,
+        "num": 382006,
+        "word": "宗馥莉称将完成父亲遗志",
+        "onboard_time": 1709173652,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376831,
+        "num": 376831,
+        "word": "厅长退休后买13套房给子孙",
+        "onboard_time": 1709128474,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337702,
+        "num": 337702,
+        "word": "宗庆后女儿致悼词泣不成声",
+        "onboard_time": 1709173472,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310124,
+        "num": 310124,
+        "word": "研究生毕业后靠本科专业找到工作",
+        "onboard_time": 1709169933,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159373,
+        "num": 298566,
+        "word": "你相信人类智能还是人工智能",
+        "onboard_time": 1709176651,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 290843,
+        "num": 290843,
+        "word": "我的性教育来自郭敬明的小说",
+        "onboard_time": 1709132376,
+        "rank": 19,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 286087,
+        "num": 286087,
+        "word": "罕见病救命药将退市百余家庭如何自救",
+        "onboard_time": 1709173472,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 257195,
+        "num": 257195,
+        "word": "健身教练评热巴踮脚动作",
+        "onboard_time": 1709163327,
+        "rank": 21,
+        "category": "运动健身,艺人"
+      },
+      {
+        "raw_hot": 255289,
+        "num": 255289,
+        "word": "魏大勋长白山滑雪",
+        "onboard_time": 1709177011,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253660,
+        "num": 253660,
+        "word": "比亚迪海豹",
+        "onboard_time": 1709176834,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 250792,
+        "num": 250792,
+        "word": "偷偷藏不住网飞破3000万",
+        "onboard_time": 1709168553,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249985,
+        "num": 249985,
+        "word": "娱乐圈30帅",
+        "onboard_time": 1709177613,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228340,
+        "num": 228340,
+        "word": "Giselle出国机场图",
+        "onboard_time": 1709176892,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224539,
+        "num": 224539,
+        "word": "腾讯客服回应假文件传输助手事件",
+        "onboard_time": 1709174852,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 223921,
+        "num": 223921,
+        "word": "女生兼职没回家过年一分工资没拿到",
+        "onboard_time": 1709176472,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223640,
+        "num": 223640,
+        "word": "白月梵星首支预告",
+        "onboard_time": 1709177070,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223360,
+        "num": 223360,
+        "word": "辞职的时候发",
+        "onboard_time": 1709172690,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213610,
+        "num": 213610,
+        "word": "韩国必吃榜",
+        "onboard_time": 1709171193,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 202358,
+        "num": 202358,
+        "word": "周震南黄子弘凡直播",
+        "onboard_time": 1709176892,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170948,
+        "num": 170948,
+        "word": "别人朝我扔泥巴 我用泥巴种荷花",
+        "onboard_time": 1709172572,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166989,
+        "num": 166989,
+        "word": "行程图",
+        "onboard_time": 1709177552,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157568,
+        "num": 157568,
+        "word": "鸭嘴兽小时候",
+        "onboard_time": 1709175092,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151318,
+        "num": 151318,
+        "word": "自焚士兵称美军直接参与屠杀巴勒斯坦人",
+        "onboard_time": 1709177314,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 139324,
+        "num": 139324,
+        "word": "保罗炮轰莫雷",
+        "onboard_time": 1709175451,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133850,
+        "num": 133850,
+        "word": "挖呀挖黄老师直播",
+        "onboard_time": 1709163386,
+        "rank": 38,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 133146,
+        "num": 133146,
+        "word": "孙颖莎独一档的存在",
+        "onboard_time": 1709173051,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131915,
+        "num": 131915,
+        "word": "小伙撸铁2小时横纹肌溶解了",
+        "onboard_time": 1709146457,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131495,
+        "num": 131495,
+        "word": "80%的罕见病与基因有关",
+        "onboard_time": 1709175813,
+        "rank": 41,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 128225,
+        "num": 128225,
+        "word": "种地吧沉浸式干活",
+        "onboard_time": 1709172572,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126005,
+        "num": 126005,
+        "word": "人一旦沾染了班味儿",
+        "onboard_time": 1709172271,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124898,
+        "num": 124898,
+        "word": "丁程鑫新歌寓意",
+        "onboard_time": 1709176173,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125924,
+        "num": 124865,
+        "word": "上海月薪2000能租什么房子",
+        "onboard_time": 1709167712,
+        "rank": 45,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 121406,
+        "num": 121406,
+        "word": "教育局为被殴打学生安排心理辅导",
+        "onboard_time": 1709177613,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120102,
+        "num": 120102,
+        "word": "不得不说原唱就是原唱",
+        "onboard_time": 1709168797,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118052,
+        "num": 118052,
+        "word": "羽绒服要怎么清洗",
+        "onboard_time": 1709175511,
+        "rank": 48,
+        "category": "时尚,科学科普"
+      },
+      {
+        "raw_hot": 116676,
+        "num": 116676,
+        "word": "大侦探还得是熟人局",
+        "onboard_time": 1709174911,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#提高公共服务可及性和均等化水平#"
+    }
+  }
+}
