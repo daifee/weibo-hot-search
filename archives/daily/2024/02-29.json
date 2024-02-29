@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709209855628,
+  "endTime": 1709210677497,
   "band_list": [
     {
       "raw_hot": 3110421,
@@ -83,20 +83,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1851023,
+      "num": 1851023,
+      "word": "教育局回应50岁班主任和学生谈恋爱",
+      "onboard_time": 1709207014,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1759421,
       "num": 1759421,
       "word": "马天宇为女教师殴打学生事件发声",
       "onboard_time": 1709199691,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1668636,
-      "num": 1668636,
-      "word": "教育局回应50岁班主任和学生谈恋爱",
-      "onboard_time": 1709207014,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1638263,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1083411,
+      "num": 1083411,
+      "word": "王力宏点赞十几年前和宗庆后合照微博",
+      "onboard_time": 1709206592,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1064185,
       "num": 1064185,
       "word": "浪姐官博回复李溪芮",
@@ -208,14 +216,6 @@
       "word": "汪峰女儿小苹果晒留学照",
       "onboard_time": 1709196631,
       "rank": 4,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1046657,
-      "num": 1046657,
-      "word": "王力宏点赞十几年前和宗庆后合照微博",
-      "onboard_time": 1709206592,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -499,6 +499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 558942,
+      "num": 558942,
+      "word": "韩国人吃玉米芯",
+      "onboard_time": 1709209115,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 534122,
       "num": 455043,
       "word": "中共中央政治局召开会议",
@@ -756,7 +764,7 @@
     },
     {
       "raw_hot": 376878,
-      "num": 284306,
+      "num": 293585,
       "word": "好朋友忘了我的亲人去世了",
       "onboard_time": 1709204855,
       "rank": 30,
@@ -857,6 +865,22 @@
       "onboard_time": 1709173472,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353022,
+      "num": 351171,
+      "word": "鞠婧祎微醺车厘子妆",
+      "onboard_time": 1709208936,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 350385,
+      "num": 350385,
+      "word": "唐人街探案",
+      "onboard_time": 1709208936,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 346577,
@@ -963,20 +987,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 308854,
-      "num": 308854,
-      "word": "鞠婧祎微醺车厘子妆",
-      "onboard_time": 1709208936,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 308735,
       "num": 308735,
       "word": "杨谨华真的来了",
       "onboard_time": 1709200713,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307117,
+      "num": 293585,
+      "word": "朴炯植最喜欢任时完",
+      "onboard_time": 1709210193,
+      "rank": 21,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 306154,
@@ -995,6 +1019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 295923,
+      "num": 518803,
+      "word": "7名高中生合力救火太帅了",
+      "onboard_time": 1709205815,
+      "rank": 8,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 291032,
       "num": 291032,
       "word": "四年一次的生日",
@@ -1003,36 +1035,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 290773,
-      "num": 214005,
-      "word": "韩国人吃玉米芯",
-      "onboard_time": 1709209115,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 286735,
-      "num": 284110,
-      "word": "唐人街探案",
-      "onboard_time": 1709208936,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 285947,
       "num": 285947,
       "word": "连孙悟空上班都不爱打扮",
       "onboard_time": 1709180134,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 284770,
-      "num": 518803,
-      "word": "7名高中生合力救火太帅了",
-      "onboard_time": 1709205815,
-      "rank": 8,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 284510,
@@ -1587,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197160,
+      "num": 197160,
+      "word": "徐明浩直播",
+      "onboard_time": 1709210372,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196116,
       "num": 196116,
       "word": "迪丽热巴开始推理吧路透",
@@ -1787,12 +1803,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184610,
+      "num": 184610,
+      "word": "女子吐槽花1588元请跟拍成片太草率",
+      "onboard_time": 1709209953,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184280,
       "num": 184280,
       "word": "湖人vs快船",
       "onboard_time": 1709184272,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184218,
+      "num": 184218,
+      "word": "福建女子鱼刺卡喉意外揪出胃内肿瘤",
+      "onboard_time": 1709207192,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183863,
@@ -1809,6 +1841,14 @@
       "onboard_time": 1709173051,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183179,
+      "num": 183179,
+      "word": "没有血缘关系也可以成为家人",
+      "onboard_time": 1709209656,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 182311,
@@ -1891,14 +1931,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 175738,
-      "num": 175738,
-      "word": "福建女子鱼刺卡喉意外揪出胃内肿瘤",
-      "onboard_time": 1709207192,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174141,
       "num": 174141,
       "word": "原来狗不嫌家贫是因为没富过",
@@ -1969,6 +2001,14 @@
       "onboard_time": 1709180917,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168350,
+      "num": 133633,
+      "word": "九明坐一起",
+      "onboard_time": 1709210252,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 167726,
@@ -2235,14 +2275,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 144198,
-      "num": 140098,
-      "word": "没有血缘关系也可以成为家人",
-      "onboard_time": 1709209656,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143920,
       "num": 143920,
       "word": "日本留学生分享中文学习经历",
@@ -2315,6 +2347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138623,
+      "num": 133802,
+      "word": "祺贵人告发甄嬛 单人演绎",
+      "onboard_time": 1709206954,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138071,
       "num": 138071,
       "word": "比特币最近有多疯狂",
@@ -2329,6 +2369,14 @@
       "onboard_time": 1709202273,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137774,
+      "num": 132344,
+      "word": "3月电影",
+      "onboard_time": 1709209656,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 137709,
@@ -2369,14 +2417,6 @@
       "onboard_time": 1709176112,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 133802,
-      "num": 133802,
-      "word": "祺贵人告发甄嬛 单人演绎",
-      "onboard_time": 1709206954,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 132475,
@@ -2427,14 +2467,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 130466,
-      "num": 130466,
-      "word": "3月电影",
-      "onboard_time": 1709209656,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 130299,
       "num": 130299,
       "word": "妈妈做的最后一块猪脚",
@@ -2449,6 +2481,14 @@
       "onboard_time": 1709197113,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128962,
+      "num": 128962,
+      "word": "给4年后的自己递个话",
+      "onboard_time": 1709207310,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 128649,

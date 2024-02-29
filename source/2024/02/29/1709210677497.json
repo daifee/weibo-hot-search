@@ -1,0 +1,410 @@
+{
+  "runTime": 1709210677497,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1851023,
+        "num": 1851023,
+        "word": "教育局回应50岁班主任和学生谈恋爱",
+        "onboard_time": 1709207014,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1879914,
+        "num": 1826750,
+        "word": "PDD",
+        "onboard_time": 1709204553,
+        "rank": 1,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 72306,
+        "num": 1510513,
+        "word": "2023中国科学十大进展公布",
+        "onboard_time": 1709194533,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1200030,
+        "num": 1200030,
+        "word": "南波万好吵",
+        "onboard_time": 1709206895,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1083411,
+        "num": 1083411,
+        "word": "王力宏点赞十几年前和宗庆后合照微博",
+        "onboard_time": 1709206592,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 828975,
+        "num": 828975,
+        "word": "小团团",
+        "onboard_time": 1709200170,
+        "rank": 5,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 806280,
+        "num": 806280,
+        "word": "泰国男子寺庙闹事意外被佛像刺死",
+        "onboard_time": 1709200290,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 558942,
+        "num": 558942,
+        "word": "韩国人吃玉米芯",
+        "onboard_time": 1709209115,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 548216,
+        "num": 548216,
+        "word": "蒲熠星好帅",
+        "onboard_time": 1709207255,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538793,
+        "num": 538793,
+        "word": "NEWJEANS官宣北京签售",
+        "onboard_time": 1709206472,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 815603,
+        "num": 538416,
+        "word": "马天宇为女教师殴打学生事件发声",
+        "onboard_time": 1709199691,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512734,
+        "num": 512734,
+        "word": "浪姐官博回复李溪芮",
+        "onboard_time": 1709202992,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373729,
+        "num": 373729,
+        "word": "赵昭仪剧透花少衍生节目",
+        "onboard_time": 1709207914,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355196,
+        "num": 355196,
+        "word": "侃爷妻子或因穿着暴露坐牢",
+        "onboard_time": 1709185773,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351196,
+        "num": 351196,
+        "word": "老师粗暴对学生涉事学校校长被免职",
+        "onboard_time": 1709201133,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353022,
+        "num": 351171,
+        "word": "鞠婧祎微醺车厘子妆",
+        "onboard_time": 1709208936,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 350385,
+        "num": 350385,
+        "word": "唐人街探案",
+        "onboard_time": 1709208936,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343144,
+        "num": 343144,
+        "word": "手机电池不喜欢100%的饱和状态",
+        "onboard_time": 1709192971,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 296062,
+        "num": 296062,
+        "word": "武汉大学 莞莞类卿",
+        "onboard_time": 1709190751,
+        "rank": 18,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 295923,
+        "num": 295923,
+        "word": "7名高中生合力救火太帅了",
+        "onboard_time": 1709205815,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 351822,
+        "num": 293585,
+        "word": "好朋友忘了我的亲人去世了",
+        "onboard_time": 1709204855,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307117,
+        "num": 293585,
+        "word": "朴炯植最喜欢任时完",
+        "onboard_time": 1709210193,
+        "rank": 21,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 300895,
+        "num": 290029,
+        "word": "曹璐 没来浪姐",
+        "onboard_time": 1709201853,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260280,
+        "num": 260280,
+        "word": "斗鱼主播",
+        "onboard_time": 1709203655,
+        "rank": 23,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 231860,
+        "num": 231860,
+        "word": "为什么HR老问是否是独生子女",
+        "onboard_time": 1709204553,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230154,
+        "num": 230154,
+        "word": "李楠回归",
+        "onboard_time": 1709208575,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 226639,
+        "num": 226639,
+        "word": "景天爆改邪剑仙",
+        "onboard_time": 1709199573,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201062,
+        "num": 201062,
+        "word": "杨舒予 财神不渡怨妇怨公",
+        "onboard_time": 1709208754,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197472,
+        "num": 197472,
+        "word": "朱一龙直播",
+        "onboard_time": 1709207432,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192500,
+        "num": 197262,
+        "word": "女子网购金戒指一称克重还多了0.4",
+        "onboard_time": 1709204493,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197160,
+        "num": 197160,
+        "word": "徐明浩直播",
+        "onboard_time": 1709210372,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195116,
+        "num": 195116,
+        "word": "齐思钧看超话",
+        "onboard_time": 1709206532,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196965,
+        "num": 193470,
+        "word": "汪峰女儿小苹果晒留学照",
+        "onboard_time": 1709196631,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188655,
+        "num": 188655,
+        "word": "前田敦子 浪姐",
+        "onboard_time": 1709206713,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184610,
+        "num": 184610,
+        "word": "女子吐槽花1588元请跟拍成片太草率",
+        "onboard_time": 1709209953,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184218,
+        "num": 184218,
+        "word": "福建女子鱼刺卡喉意外揪出胃内肿瘤",
+        "onboard_time": 1709207192,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183179,
+        "num": 183179,
+        "word": "没有血缘关系也可以成为家人",
+        "onboard_time": 1709209656,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172739,
+        "num": 172739,
+        "word": "浪姐路透",
+        "onboard_time": 1709198012,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166828,
+        "num": 166828,
+        "word": "魅族21PRO",
+        "onboard_time": 1709208691,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133812,
+        "num": 133812,
+        "word": "林高远限定祝福",
+        "onboard_time": 1709207733,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168350,
+        "num": 133633,
+        "word": "九明坐一起",
+        "onboard_time": 1709210252,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165083,
+        "num": 133264,
+        "word": "曾沛慈到底来不来",
+        "onboard_time": 1709206773,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141709,
+        "num": 132999,
+        "word": "浪姐全民举荐",
+        "onboard_time": 1709208875,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138623,
+        "num": 132698,
+        "word": "祺贵人告发甄嬛 单人演绎",
+        "onboard_time": 1709206954,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137774,
+        "num": 132344,
+        "word": "3月电影",
+        "onboard_time": 1709209656,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132327,
+        "num": 132327,
+        "word": "日食记 锅塌茄子",
+        "onboard_time": 1709196210,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131714,
+        "num": 131714,
+        "word": "低丸子头发型",
+        "onboard_time": 1709202992,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 128962,
+        "num": 128962,
+        "word": "给4年后的自己递个话",
+        "onboard_time": 1709207310,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106127,
+        "num": 106127,
+        "word": "甄嬛版上春山",
+        "onboard_time": 1709205214,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101838,
+        "num": 101838,
+        "word": "福建人的神明崇拜有多疯狂",
+        "onboard_time": 1709207310,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#中塞关系堪称中非团结合作的典范#"
+    }
+  }
+}
