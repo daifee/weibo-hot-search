@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709188460542,
+  "endTime": 1709191099583,
   "band_list": [
     {
       "raw_hot": 2782869,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1328315,
+      "num": 1328315,
+      "word": "马航失联乘客家属再次赴马参会",
+      "onboard_time": 1709188292,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1215724,
       "num": 575329,
       "word": "我的性教育来自郭敬明的小说",
@@ -75,20 +83,20 @@
       "category": "读书作家,艺人"
     },
     {
+      "raw_hot": 1215674,
+      "num": 1215674,
+      "word": "iPhone15官旗全系降至历史最低价",
+      "onboard_time": 1709186012,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1208603,
       "num": 1208603,
       "word": "2月29日出生怎么过生日",
       "onboard_time": 1709175152,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1189002,
-      "num": 1189002,
-      "word": "iPhone15官旗全系降至历史最低价",
-      "onboard_time": 1709186012,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 1155864,
@@ -299,6 +307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 498659,
+      "num": 498659,
+      "word": "杨幂巴黎饭拍",
+      "onboard_time": 1709188648,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 489297,
       "num": 489297,
       "word": "行程图",
@@ -363,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449829,
+      "num": 449829,
+      "word": "虎杖悠仁吐血",
+      "onboard_time": 1709187271,
+      "rank": 30,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 441954,
       "num": 441954,
       "word": "央广网评女教师殴打学生",
@@ -387,6 +411,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 429727,
+      "num": 429727,
+      "word": "建议减轻中小学教师行政压力",
+      "onboard_time": 1709186792,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 423628,
       "num": 423628,
       "word": "人民日报评大数据杀熟",
@@ -409,6 +441,14 @@
       "onboard_time": 1709127395,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 416574,
+      "num": 393556,
+      "word": "武汉大学 莞莞类卿",
+      "onboard_time": 1709190751,
+      "rank": 11,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 405823,
@@ -459,20 +499,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 373391,
-      "num": 373391,
-      "word": "虎杖悠仁吐血",
-      "onboard_time": 1709187271,
-      "rank": 30,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 371587,
       "num": 371587,
       "word": "抖音火花bug",
       "onboard_time": 1709162064,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 371496,
+      "num": 371496,
+      "word": "警方回应医院未发现肿瘤仍切除器官",
+      "onboard_time": 1709189613,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367516,
@@ -531,6 +571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 341169,
+      "num": 341169,
+      "word": "马立奥吃螺蛳粉",
+      "onboard_time": 1709187992,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341163,
       "num": 341163,
       "word": "挖呀挖黄老师家人回应被造黄谣",
@@ -571,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 322127,
-      "num": 322127,
-      "word": "马立奥吃螺蛳粉",
-      "onboard_time": 1709187992,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 320934,
       "num": 320934,
       "word": "柳智敏李宰旭一见钟情瞬间",
@@ -601,6 +641,14 @@
       "onboard_time": 1709129074,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 308479,
+      "num": 308479,
+      "word": "港剧是懂女性痛经的",
+      "onboard_time": 1709190151,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 305174,
@@ -633,6 +681,14 @@
       "onboard_time": 1709132074,
       "rank": 13,
       "category": "财经"
+    },
+    {
+      "raw_hot": 283601,
+      "num": 283601,
+      "word": "曾舜晞侧脸",
+      "onboard_time": 1709189432,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 275944,
@@ -715,14 +771,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 258681,
-      "num": 258681,
-      "word": "建议减轻中小学教师行政压力",
-      "onboard_time": 1709186792,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 256885,
       "num": 256885,
       "word": "陈慧琳广州粥铺被偶遇",
@@ -761,6 +809,14 @@
       "onboard_time": 1709138067,
       "rank": 46,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 248504,
+      "num": 248504,
+      "word": "李溪芮自荐报名浪姐",
+      "onboard_time": 1709190689,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 247799,
@@ -995,12 +1051,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196024,
+      "num": 196024,
+      "word": "这真的不是陈建斌吗",
+      "onboard_time": 1709187094,
+      "rank": 38,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 195392,
       "num": 195392,
       "word": "陈楚生武汉抢票",
       "onboard_time": 1709184631,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194885,
+      "num": 194885,
+      "word": "徐梦洁四年前后对比",
+      "onboard_time": 1709190751,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 194434,
@@ -1091,6 +1163,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 186762,
+      "num": 186762,
+      "word": "外国人试用中国古代的口红纸",
+      "onboard_time": 1709190632,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 184280,
       "num": 184280,
       "word": "湖人vs快船",
@@ -1169,14 +1249,6 @@
       "onboard_time": 1709184933,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 174592,
-      "num": 174592,
-      "word": "这真的不是陈建斌吗",
-      "onboard_time": 1709187094,
-      "rank": 38,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 174141,
@@ -1395,14 +1467,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 150676,
-      "num": 150676,
-      "word": "马航失联乘客家属再次赴马参会",
-      "onboard_time": 1709188292,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149269,
       "num": 149269,
       "word": "湖人21分逆转快船",
@@ -1433,6 +1497,14 @@
       "onboard_time": 1709188111,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148421,
+      "num": 148421,
+      "word": "邓为修丽可活动",
+      "onboard_time": 1709190811,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 148342,
@@ -1539,6 +1611,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 131241,
+      "num": 131241,
+      "word": "谁不想被景元猫咪抱抱呢",
+      "onboard_time": 1709190151,
+      "rank": 40,
+      "category": "动漫,游戏"
+    },
+    {
       "raw_hot": 130924,
       "num": 130924,
       "word": "特斯拉首席内饰设计师跳槽",
@@ -1585,6 +1665,14 @@
       "onboard_time": 1709166934,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 120498,
+      "num": 120498,
+      "word": "白鹿朱锐斌二搭",
+      "onboard_time": 1709190034,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 120029,
@@ -1649,6 +1737,14 @@
       "onboard_time": 1709173291,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 116614,
+      "num": 116614,
+      "word": "音乐人包小柏用AI复活女儿",
+      "onboard_time": 1709190932,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 115773,
