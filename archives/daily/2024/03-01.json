@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709238855456,
+  "endTime": 1709241518313,
   "band_list": [
     {
       "raw_hot": 773694,
@@ -451,7 +451,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 49373,
+      "raw_hot": 53320,
       "num": 15709,
       "word": "网红自导自演被砸鸡蛋",
       "onboard_time": 1709235916,
@@ -483,8 +483,24 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21345,
-      "num": 21345,
+      "raw_hot": 25464,
+      "num": 15072,
+      "word": "理查德刘易斯去世",
+      "onboard_time": 1709241135,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 25273,
+      "num": 25273,
+      "word": "刘忻曾经是JYP的签约艺人",
+      "onboard_time": 1709238916,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 25074,
+      "num": 25074,
       "word": "女生路边捡猫归还主人获6万回报",
       "onboard_time": 1709230278,
       "rank": 45,
@@ -497,6 +513,14 @@
       "onboard_time": 1709232797,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19501,
+      "num": 16463,
+      "word": "女子给晾的每1块腊肉都穿上纸尿裤",
+      "onboard_time": 1709237535,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19316,
@@ -531,12 +555,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15817,
-      "num": 15817,
-      "word": "女子给晾的每1块腊肉都穿上纸尿裤",
-      "onboard_time": 1709237535,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 14873,
+      "num": 15041,
+      "word": "iOS版地震预警APP收费",
+      "onboard_time": 1709239636,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 13146,
@@ -560,6 +584,14 @@
       "word": "微观两会",
       "onboard_time": 1709194052,
       "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 7922,
+      "num": 15072,
+      "word": "周刊君带你看两会",
+      "onboard_time": 1709238976,
+      "rank": 29,
       "category": "国内时政"
     },
     {
