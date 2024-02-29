@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709234006888,
+  "endTime": 1709235241629,
   "band_list": [
     {
       "raw_hot": 773694,
@@ -435,20 +435,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 55645,
+      "num": 40475,
+      "word": "上班恶心穿搭引发年轻人共鸣",
+      "onboard_time": 1709230938,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54331,
       "num": 54331,
       "word": "小狗耳朵都放下来了",
       "onboard_time": 1709226925,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 43235,
-      "num": 26717,
-      "word": "上班恶心穿搭引发年轻人共鸣",
-      "onboard_time": 1709230938,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33860,
@@ -483,6 +483,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20000,
+      "num": 20000,
+      "word": "女生路边捡猫归还主人获6万回报",
+      "onboard_time": 1709230278,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18521,
+      "num": 18521,
+      "word": "孙千回应麦姬判官",
+      "onboard_time": 1709234057,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 17273,
       "num": 17273,
       "word": "苏新皓手势舞",
@@ -491,20 +507,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16738,
-      "num": 16738,
-      "word": "女生路边捡猫归还主人获6万回报",
-      "onboard_time": 1709230278,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16308,
       "num": 16308,
       "word": "周处除三害预售票房",
       "onboard_time": 1709232558,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 12437,
+      "num": 15255,
+      "word": "怀疑对方AI换脸可以摁鼻子",
+      "onboard_time": 1709235136,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 8183,
