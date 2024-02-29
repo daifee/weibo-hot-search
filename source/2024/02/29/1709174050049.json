@@ -1,0 +1,410 @@
+{
+  "runTime": 1709174050049,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2219464,
+        "num": 2219464,
+        "word": "韩国允许对胎儿进行性别鉴定",
+        "onboard_time": 1709170231,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1753966,
+        "num": 1753966,
+        "word": "比亚迪宋",
+        "onboard_time": 1709171252,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 34320,
+        "num": 1457653,
+        "word": "我国载人航天工程取得4000多项发明专利",
+        "onboard_time": 1709126974,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1184185,
+        "num": 1184185,
+        "word": "三只羊法务离职",
+        "onboard_time": 1709164107,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1006928,
+        "num": 1006928,
+        "word": "今天是四年一遇的日子",
+        "onboard_time": 1709163448,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953737,
+        "num": 953737,
+        "word": "老员工称娃哈哈经常莫名其妙发钱",
+        "onboard_time": 1709172511,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573893,
+        "num": 573893,
+        "word": "教育局回应女老师打骂学生",
+        "onboard_time": 1709128295,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565339,
+        "num": 565339,
+        "word": "小洋睡不着道歉",
+        "onboard_time": 1709163508,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 484429,
+        "num": 484429,
+        "word": "厅长退休后买13套房给子孙",
+        "onboard_time": 1709128474,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425611,
+        "num": 425611,
+        "word": "偷偷藏不住网飞破3000万",
+        "onboard_time": 1709168553,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565781,
+        "num": 384465,
+        "word": "研究生毕业后靠本科专业找到工作",
+        "onboard_time": 1709169933,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 477030,
+        "num": 373309,
+        "word": "我的性教育来自郭敬明的小说",
+        "onboard_time": 1709132376,
+        "rank": 11,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 450933,
+        "num": 358271,
+        "word": "韩国必吃榜",
+        "onboard_time": 1709171193,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 341727,
+        "num": 341727,
+        "word": "体检结果称拜登是健康强健的老人",
+        "onboard_time": 1709167414,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 316139,
+        "num": 316139,
+        "word": "健身教练评热巴踮脚动作",
+        "onboard_time": 1709163327,
+        "rank": 14,
+        "category": "运动健身,艺人"
+      },
+      {
+        "raw_hot": 294150,
+        "num": 294150,
+        "word": "宗馥莉称将完成父亲遗志",
+        "onboard_time": 1709173652,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275596,
+        "num": 275596,
+        "word": "AppleID或升级为AppleAccount",
+        "onboard_time": 1709168015,
+        "rank": 16,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 266426,
+        "num": 266426,
+        "word": "人民日报评大数据杀熟",
+        "onboard_time": 1709168314,
+        "rank": 17,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 250237,
+        "num": 250237,
+        "word": "四年一次的生日",
+        "onboard_time": 1709170231,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218625,
+        "num": 218625,
+        "word": "小伙撸铁2小时横纹肌溶解了",
+        "onboard_time": 1709146457,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261859,
+        "num": 216946,
+        "word": "别人朝我扔泥巴 我用泥巴种荷花",
+        "onboard_time": 1709172572,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254172,
+        "num": 215916,
+        "word": "辞职的时候发",
+        "onboard_time": 1709172690,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208126,
+        "num": 208126,
+        "word": "上海月薪2000能租什么房子",
+        "onboard_time": 1709167712,
+        "rank": 22,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 203329,
+        "num": 203329,
+        "word": "挖呀挖黄老师直播",
+        "onboard_time": 1709163386,
+        "rank": 23,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 198620,
+        "num": 198620,
+        "word": "不得不说原唱就是原唱",
+        "onboard_time": 1709168797,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196108,
+        "num": 196108,
+        "word": "打卡2月29日",
+        "onboard_time": 1709172993,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185646,
+        "num": 185646,
+        "word": "舅舅让我帮他女儿付学费",
+        "onboard_time": 1709138067,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 183424,
+        "num": 183424,
+        "word": "孙颖莎独一档的存在",
+        "onboard_time": 1709173051,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182621,
+        "num": 182621,
+        "word": "罕见病救命药将退市百余家庭如何自救",
+        "onboard_time": 1709173472,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164778,
+        "num": 164778,
+        "word": "面包店的浪费现象有多严重",
+        "onboard_time": 1709140822,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211533,
+        "num": 162845,
+        "word": "种地吧沉浸式干活",
+        "onboard_time": 1709172572,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195389,
+        "num": 158800,
+        "word": "宗庆后女儿致悼词泣不成声",
+        "onboard_time": 1709173472,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150676,
+        "num": 150676,
+        "word": "沙丘2中国行",
+        "onboard_time": 1709173652,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149543,
+        "num": 149543,
+        "word": "祁厅长的情商属实太高",
+        "onboard_time": 1709163808,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138033,
+        "num": 138033,
+        "word": "霍建华 要拍现在拍别跟着我",
+        "onboard_time": 1709126251,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137879,
+        "num": 137879,
+        "word": "人一旦沾染了班味儿",
+        "onboard_time": 1709172271,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135037,
+        "num": 135037,
+        "word": "7个建议远离高尿酸和痛风",
+        "onboard_time": 1709168254,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131660,
+        "num": 131660,
+        "word": "快递不得擅自放快递柜",
+        "onboard_time": 1709169933,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130924,
+        "num": 130924,
+        "word": "特斯拉首席内饰设计师跳槽",
+        "onboard_time": 1709173774,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129780,
+        "num": 129780,
+        "word": "钟无艳大蒜喵联动皮肤",
+        "onboard_time": 1709171193,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129020,
+        "num": 129020,
+        "word": "Mai和妈妈都是肖战粉丝",
+        "onboard_time": 1709165252,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126921,
+        "num": 126921,
+        "word": "第一次看见这么离谱的新衣服",
+        "onboard_time": 1709169633,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126032,
+        "num": 126032,
+        "word": "网剧飞驰人生",
+        "onboard_time": 1709170172,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125900,
+        "num": 125900,
+        "word": "EA将裁员5%",
+        "onboard_time": 1709169693,
+        "rank": 43,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 125105,
+        "num": 125105,
+        "word": "黄旼炫将入伍",
+        "onboard_time": 1709171252,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124649,
+        "num": 124649,
+        "word": "迪丽热巴开始推理吧路透",
+        "onboard_time": 1709165853,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124385,
+        "num": 124385,
+        "word": "抖音火花bug",
+        "onboard_time": 1709162064,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117983,
+        "num": 117983,
+        "word": "苹果汽车项目投资或超100亿美元",
+        "onboard_time": 1709173291,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114633,
+        "num": 114633,
+        "word": "舒畅红色马面裙",
+        "onboard_time": 1709134893,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107303,
+        "num": 107303,
+        "word": "懂生活的人果然不一样",
+        "onboard_time": 1709173234,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#提高公共服务可及性和均等化水平#"
+    }
+  }
+}
