@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709170179428,
+  "endTime": 1709172076426,
   "band_list": [
     {
       "raw_hot": 2782869,
@@ -16,6 +16,14 @@
       "word": "今天是四年一遇的日子",
       "onboard_time": 1709163448,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2000268,
+      "num": 2000268,
+      "word": "韩国允许对胎儿进行性别鉴定",
+      "onboard_time": 1709170231,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -49,6 +57,22 @@
       "onboard_time": 1709167414,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 861100,
+      "num": 861100,
+      "word": "比亚迪宋",
+      "onboard_time": 1709171252,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 844566,
+      "num": 565120,
+      "word": "研究生毕业后靠本科专业找到工作",
+      "onboard_time": 1709169933,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 784983,
@@ -99,8 +123,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 571506,
-      "num": 571506,
+      "raw_hot": 580649,
+      "num": 580649,
       "word": "偷偷藏不住网飞破3000万",
       "onboard_time": 1709168553,
       "rank": 17,
@@ -171,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376544,
+      "num": 376544,
+      "word": "不得不说原唱就是原唱",
+      "onboard_time": 1709168797,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 371587,
       "num": 371587,
       "word": "抖音火花bug",
@@ -196,7 +228,7 @@
     },
     {
       "raw_hot": 354893,
-      "num": 266384,
+      "num": 270229,
       "word": "上海月薪2000能租什么房子",
       "onboard_time": 1709167712,
       "rank": 21,
@@ -251,6 +283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 291032,
+      "num": 291032,
+      "word": "四年一次的生日",
+      "onboard_time": 1709170231,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 284510,
       "num": 284510,
       "word": "比特币每枚突破6万美元",
@@ -275,6 +315,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 271913,
+      "num": 271913,
+      "word": "韩国必吃榜",
+      "onboard_time": 1709171193,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 271650,
       "num": 271650,
       "word": "孙千陈靖可朋友圈签名",
@@ -283,28 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 268302,
-      "num": 268302,
-      "word": "研究生毕业后靠本科专业找到工作",
-      "onboard_time": 1709169933,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
       "raw_hot": 265003,
       "num": 187337,
       "word": "睡前吃夜宵和饿肚子睡觉哪个危害大",
       "onboard_time": 1709130878,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 263451,
-      "num": 263451,
-      "word": "不得不说原唱就是原唱",
-      "onboard_time": 1709168797,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 256885,
@@ -403,6 +435,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194434,
+      "num": 194434,
+      "word": "快递不得擅自放快递柜",
+      "onboard_time": 1709169933,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194202,
+      "num": 194202,
+      "word": "第一次看见这么离谱的新衣服",
+      "onboard_time": 1709169633,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192189,
       "num": 192189,
       "word": "维生素真的不要随便补",
@@ -443,12 +491,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 178261,
-      "num": 178261,
+      "raw_hot": 180603,
+      "num": 180603,
       "word": "EA将裁员5%",
       "onboard_time": 1709169693,
       "rank": 31,
       "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 180358,
+      "num": 180358,
+      "word": "黄旼炫将入伍",
+      "onboard_time": 1709171252,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 174141,
@@ -475,12 +531,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171014,
-      "num": 171014,
-      "word": "第一次看见这么离谱的新衣服",
-      "onboard_time": 1709169633,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 170216,
+      "num": 170216,
+      "word": "网剧飞驰人生",
+      "onboard_time": 1709170172,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 169433,
@@ -523,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160210,
+      "num": 160210,
+      "word": "钟无艳大蒜喵联动皮肤",
+      "onboard_time": 1709171193,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157919,
       "num": 157919,
       "word": "任嘉伦四年之约",
@@ -561,14 +625,6 @@
       "onboard_time": 1709163386,
       "rank": 43,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 137107,
-      "num": 137107,
-      "word": "快递不得擅自放快递柜",
-      "onboard_time": 1709169933,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132475,
@@ -611,20 +667,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 120029,
+      "num": 120029,
+      "word": "如何预防罕见病",
+      "onboard_time": 1709170655,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 119316,
       "num": 119316,
       "word": "贵州夫妻17年间生下9女1男",
       "onboard_time": 1709115211,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118502,
-      "num": 118502,
-      "word": "网剧飞驰人生",
-      "onboard_time": 1709170172,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 118339,
@@ -657,6 +713,14 @@
       "onboard_time": 1709129798,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110469,
+      "num": 110469,
+      "word": "让我自觉词汇量匮乏的景色",
+      "onboard_time": 1709171852,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 107337,
@@ -844,7 +908,7 @@
     },
     {
       "raw_hot": 52884,
-      "num": 1272451,
+      "num": 1530173,
       "word": "我国载人航天工程取得4000多项发明专利",
       "onboard_time": 1709126974,
       "rank": 2,

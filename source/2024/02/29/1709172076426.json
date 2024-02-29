@@ -1,0 +1,410 @@
+{
+  "runTime": 1709172076426,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2000268,
+        "num": 2000268,
+        "word": "韩国允许对胎儿进行性别鉴定",
+        "onboard_time": 1709170231,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1703081,
+        "num": 1703081,
+        "word": "三只羊法务离职",
+        "onboard_time": 1709164107,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 38544,
+        "num": 1530173,
+        "word": "我国载人航天工程取得4000多项发明专利",
+        "onboard_time": 1709126974,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1518865,
+        "num": 1518865,
+        "word": "今天是四年一遇的日子",
+        "onboard_time": 1709163448,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861100,
+        "num": 861100,
+        "word": "比亚迪宋",
+        "onboard_time": 1709171252,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 791753,
+        "num": 791753,
+        "word": "小洋睡不着道歉",
+        "onboard_time": 1709163508,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 676620,
+        "num": 676620,
+        "word": "体检结果称拜登是健康强健的老人",
+        "onboard_time": 1709167414,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 652621,
+        "num": 652621,
+        "word": "教育局回应女老师打骂学生",
+        "onboard_time": 1709128295,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616221,
+        "num": 616221,
+        "word": "厅长退休后买13套房给子孙",
+        "onboard_time": 1709128474,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580649,
+        "num": 580649,
+        "word": "偷偷藏不住网飞破3000万",
+        "onboard_time": 1709168553,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 844566,
+        "num": 565120,
+        "word": "研究生毕业后靠本科专业找到工作",
+        "onboard_time": 1709169933,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 542922,
+        "num": 542922,
+        "word": "我的性教育来自郭敬明的小说",
+        "onboard_time": 1709132376,
+        "rank": 11,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 431723,
+        "num": 431723,
+        "word": "健身教练评热巴踮脚动作",
+        "onboard_time": 1709163327,
+        "rank": 12,
+        "category": "运动健身,艺人"
+      },
+      {
+        "raw_hot": 412603,
+        "num": 412603,
+        "word": "AppleID或升级为AppleAccount",
+        "onboard_time": 1709168015,
+        "rank": 13,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 376544,
+        "num": 376544,
+        "word": "不得不说原唱就是原唱",
+        "onboard_time": 1709168797,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 359991,
+        "num": 359991,
+        "word": "人民日报评大数据杀熟",
+        "onboard_time": 1709168314,
+        "rank": 15,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 291032,
+        "num": 291032,
+        "word": "四年一次的生日",
+        "onboard_time": 1709170231,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276624,
+        "num": 276624,
+        "word": "挖呀挖黄老师直播",
+        "onboard_time": 1709163386,
+        "rank": 17,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 272737,
+        "num": 272737,
+        "word": "小伙撸铁2小时横纹肌溶解了",
+        "onboard_time": 1709146457,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271913,
+        "num": 271913,
+        "word": "韩国必吃榜",
+        "onboard_time": 1709171193,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 322804,
+        "num": 270229,
+        "word": "上海月薪2000能租什么房子",
+        "onboard_time": 1709167712,
+        "rank": 20,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 261028,
+        "num": 261028,
+        "word": "祁厅长的情商属实太高",
+        "onboard_time": 1709163808,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227562,
+        "num": 227562,
+        "word": "面包店的浪费现象有多严重",
+        "onboard_time": 1709140822,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220163,
+        "num": 220163,
+        "word": "舅舅让我帮他女儿付学费",
+        "onboard_time": 1709138067,
+        "rank": 23,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 195739,
+        "num": 195739,
+        "word": "7个建议远离高尿酸和痛风",
+        "onboard_time": 1709168254,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194434,
+        "num": 194434,
+        "word": "快递不得擅自放快递柜",
+        "onboard_time": 1709169933,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194202,
+        "num": 194202,
+        "word": "第一次看见这么离谱的新衣服",
+        "onboard_time": 1709169633,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182937,
+        "num": 182937,
+        "word": "霍建华 要拍现在拍别跟着我",
+        "onboard_time": 1709126251,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180603,
+        "num": 180603,
+        "word": "EA将裁员5%",
+        "onboard_time": 1709169693,
+        "rank": 28,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 180358,
+        "num": 180358,
+        "word": "黄旼炫将入伍",
+        "onboard_time": 1709171252,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175109,
+        "num": 175109,
+        "word": "北京将举办2027世界田径锦标赛",
+        "onboard_time": 1709164892,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171016,
+        "num": 171016,
+        "word": "抖音火花bug",
+        "onboard_time": 1709162064,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 170216,
+        "num": 170216,
+        "word": "网剧飞驰人生",
+        "onboard_time": 1709170172,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160210,
+        "num": 160210,
+        "word": "钟无艳大蒜喵联动皮肤",
+        "onboard_time": 1709171193,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155821,
+        "num": 155821,
+        "word": "迪丽热巴的天使蹲为什么劝你别学",
+        "onboard_time": 1709127395,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149605,
+        "num": 149605,
+        "word": "人流后支离破碎的子宫",
+        "onboard_time": 1709124510,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148434,
+        "num": 148434,
+        "word": "Mai和妈妈都是肖战粉丝",
+        "onboard_time": 1709165252,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145955,
+        "num": 145955,
+        "word": "摆烂太久天赋会被收走的",
+        "onboard_time": 1709162305,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144400,
+        "num": 144400,
+        "word": "小洋睡不着",
+        "onboard_time": 1709167656,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133855,
+        "num": 133855,
+        "word": "迪丽热巴开始推理吧路透",
+        "onboard_time": 1709165853,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126224,
+        "num": 126224,
+        "word": "双鱼座2024会发生的三件好事",
+        "onboard_time": 1709163928,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121370,
+        "num": 121370,
+        "word": "小鹏与大众签订联合开发协议",
+        "onboard_time": 1709169633,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 120029,
+        "num": 120029,
+        "word": "如何预防罕见病",
+        "onboard_time": 1709170655,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119820,
+        "num": 119820,
+        "word": "庄达菲李庚希友情",
+        "onboard_time": 1709165793,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118891,
+        "num": 118891,
+        "word": "官方通报广东一初中生跳楼自杀",
+        "onboard_time": 1709132974,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118401,
+        "num": 118401,
+        "word": "维生素真的不要随便补",
+        "onboard_time": 1709162305,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117760,
+        "num": 117760,
+        "word": "陈慧琳广州粥铺被偶遇",
+        "onboard_time": 1709166756,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112634,
+        "num": 112634,
+        "word": "舒畅红色马面裙",
+        "onboard_time": 1709134893,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110469,
+        "num": 110469,
+        "word": "让我自觉词汇量匮乏的景色",
+        "onboard_time": 1709171852,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 109291,
+        "num": 109291,
+        "word": "专家预测未来三年国内车价或降30%",
+        "onboard_time": 1709152935,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#提高公共服务可及性和均等化水平#"
+    }
+  }
+}
