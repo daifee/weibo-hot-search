@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709206855766,
+  "endTime": 1709209855628,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -339,20 +339,20 @@
       "category": "教育,幽默"
     },
     {
+      "raw_hot": 2066478,
+      "num": 2066478,
+      "word": "PDD",
+      "onboard_time": 1709204553,
+      "rank": 7,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 2023451,
       "num": 2023451,
       "word": "纪凌尘 你喜欢大海我爱过你很浪漫",
       "onboard_time": 1708785635,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1999454,
-      "num": 1999454,
-      "word": "PDD",
-      "onboard_time": 1709204553,
-      "rank": 7,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 1994800,
@@ -563,6 +563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1668636,
+      "num": 1668636,
+      "word": "教育局回应50岁班主任和学生谈恋爱",
+      "onboard_time": 1709207014,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1655253,
       "num": 1655253,
       "word": "霍建华 要拍现在拍别跟着我",
@@ -753,6 +761,14 @@
       "onboard_time": 1709006316,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1391308,
+      "num": 1391308,
+      "word": "南波万好吵",
+      "onboard_time": 1709206895,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1390293,
@@ -1208,6 +1224,14 @@
       "word": "杨幂穿高定打游戏",
       "onboard_time": 1708950035,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1046657,
+      "num": 1046657,
+      "word": "王力宏点赞十几年前和宗庆后合照微博",
+      "onboard_time": 1709206592,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -2691,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 623549,
+      "num": 623549,
+      "word": "蒲熠星好帅",
+      "onboard_time": 1709207255,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 623423,
       "num": 588029,
       "word": "00后说的扣1是什么意思",
@@ -3121,6 +3153,14 @@
       "onboard_time": 1708827695,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 571292,
+      "num": 571292,
+      "word": "NEWJEANS官宣北京签售",
+      "onboard_time": 1709206472,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 570933,
@@ -4699,6 +4739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385881,
+      "num": 385881,
+      "word": "赵昭仪剧透花少衍生节目",
+      "onboard_time": 1709207914,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385773,
       "num": 385773,
       "word": "开始推理吧2官宣",
@@ -4772,7 +4820,7 @@
     },
     {
       "raw_hot": 376878,
-      "num": 232614,
+      "num": 284306,
       "word": "好朋友忘了我的亲人去世了",
       "onboard_time": 1709204855,
       "rank": 30,
@@ -5691,14 +5739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 310132,
-      "num": 310132,
-      "word": "王力宏点赞十几年前和宗庆后合照微博",
-      "onboard_time": 1709206592,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 309847,
       "num": 309847,
       "word": "岳云鹏经纪人股权被冻结",
@@ -5737,6 +5777,14 @@
       "onboard_time": 1708921060,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 308854,
+      "num": 308854,
+      "word": "鞠婧祎微醺车厘子妆",
+      "onboard_time": 1709208936,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 308735,
@@ -5979,6 +6027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 290773,
+      "num": 214005,
+      "word": "韩国人吃玉米芯",
+      "onboard_time": 1709209115,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 290084,
       "num": 290084,
       "word": "阴阳师",
@@ -6035,6 +6091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 286735,
+      "num": 284110,
+      "word": "唐人街探案",
+      "onboard_time": 1709208936,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286734,
       "num": 286734,
       "word": "南波万229预告",
@@ -6089,6 +6153,14 @@
       "onboard_time": 1709029055,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 284770,
+      "num": 518803,
+      "word": "7名高中生合力救火太帅了",
+      "onboard_time": 1709205815,
+      "rank": 8,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 284727,
@@ -6252,7 +6324,7 @@
     },
     {
       "raw_hot": 277672,
-      "num": 228180,
+      "num": 235951,
       "word": "女子网购金戒指一称克重还多了0.4",
       "onboard_time": 1709204493,
       "rank": 31,
@@ -6955,6 +7027,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 248032,
+      "num": 248032,
+      "word": "李楠回归",
+      "onboard_time": 1709208575,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 247876,
       "num": 247876,
       "word": "当你的上班搭子离职后",
@@ -7547,6 +7627,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 228081,
+      "num": 213808,
+      "word": "杨舒予 财神不渡怨妇怨公",
+      "onboard_time": 1709208754,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227884,
       "num": 225425,
       "word": "浪姐5网传名单",
@@ -7569,6 +7657,14 @@
       "onboard_time": 1708924238,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227083,
+      "num": 227083,
+      "word": "魅族21PRO",
+      "onboard_time": 1709208691,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 226714,
@@ -7601,6 +7697,14 @@
       "onboard_time": 1708856136,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224764,
+      "num": 224764,
+      "word": "齐思钧看超话",
+      "onboard_time": 1709206532,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 224607,
@@ -7849,6 +7953,14 @@
       "onboard_time": 1708926696,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218364,
+      "num": 218364,
+      "word": "朱一龙直播",
+      "onboard_time": 1709207432,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 218230,
@@ -8195,14 +8307,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 209603,
-      "num": 209603,
-      "word": "齐思钧看超话",
-      "onboard_time": 1709206532,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 209538,
       "num": 209538,
       "word": "十个勤天行李牌",
@@ -8369,6 +8473,14 @@
       "onboard_time": 1708914153,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205387,
+      "num": 205387,
+      "word": "前田敦子 浪姐",
+      "onboard_time": 1709206713,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 205346,
@@ -9259,14 +9371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 189337,
-      "num": 189337,
-      "word": "NEWJEANS官宣北京签售",
-      "onboard_time": 1709206472,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 189233,
       "num": 189233,
       "word": "恋爱第一眼的感觉超级重要",
@@ -9441,6 +9545,14 @@
       "onboard_time": 1708837718,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186543,
+      "num": 214188,
+      "word": "林高远限定祝福",
+      "onboard_time": 1709207733,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 186523,
@@ -9699,14 +9811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181516,
-      "num": 518803,
-      "word": "7名高中生合力救火太帅了",
-      "onboard_time": 1709205815,
-      "rank": 8,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 181003,
       "num": 181003,
       "word": "A股单日成交额超1.3万亿",
@@ -9801,6 +9905,14 @@
       "onboard_time": 1708828295,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179134,
+      "num": 179134,
+      "word": "曾沛慈到底来不来",
+      "onboard_time": 1709206773,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 179090,
@@ -10001,6 +10113,14 @@
       "onboard_time": 1709107773,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 175738,
+      "num": 175738,
+      "word": "福建女子鱼刺卡喉意外揪出胃内肿瘤",
+      "onboard_time": 1709207192,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175638,
@@ -10835,6 +10955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158919,
+      "num": 158919,
+      "word": "浪姐全民举荐",
+      "onboard_time": 1709208875,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158652,
       "num": 158652,
       "word": "年轻人开始整顿家庭伦理观",
@@ -11563,6 +11691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144198,
+      "num": 140098,
+      "word": "没有血缘关系也可以成为家人",
+      "onboard_time": 1709209656,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144075,
       "num": 144075,
       "word": "春季赛第二周最佳阵容",
@@ -11833,14 +11969,6 @@
       "onboard_time": 1708804397,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 139616,
-      "num": 139616,
-      "word": "前田敦子 浪姐",
-      "onboard_time": 1709206713,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 139445,
@@ -12155,6 +12283,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 133802,
+      "num": 133802,
+      "word": "祺贵人告发甄嬛 单人演绎",
+      "onboard_time": 1709206954,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133394,
       "num": 133394,
       "word": "iPhone精织斜纹保护套收广泛差评",
@@ -12329,6 +12465,14 @@
       "onboard_time": 1708818564,
       "rank": 37,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 130466,
+      "num": 130466,
+      "word": "3月电影",
+      "onboard_time": 1709209656,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 130299,
@@ -12537,6 +12681,14 @@
       "onboard_time": 1709111673,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 123354,
+      "num": 123354,
+      "word": "福建人的神明崇拜有多疯狂",
+      "onboard_time": 1709207310,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 123205,
@@ -12937,14 +13089,6 @@
       "onboard_time": 1708996711,
       "rank": 49,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 113290,
-      "num": 113290,
-      "word": "曾沛慈到底来不来",
-      "onboard_time": 1709206773,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 112736,

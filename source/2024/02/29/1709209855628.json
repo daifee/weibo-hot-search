@@ -1,0 +1,410 @@
+{
+  "runTime": 1709209855628,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2066478,
+        "num": 2066478,
+        "word": "PDD",
+        "onboard_time": 1709204553,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1668636,
+        "num": 1668636,
+        "word": "教育局回应50岁班主任和学生谈恋爱",
+        "onboard_time": 1709207014,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80610,
+        "num": 1396818,
+        "word": "2023中国科学十大进展公布",
+        "onboard_time": 1709194533,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1391308,
+        "num": 1391308,
+        "word": "南波万好吵",
+        "onboard_time": 1709206895,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1046657,
+        "num": 1046657,
+        "word": "王力宏点赞十几年前和宗庆后合照微博",
+        "onboard_time": 1709206592,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 905175,
+        "num": 905175,
+        "word": "小团团",
+        "onboard_time": 1709200170,
+        "rank": 5,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 871436,
+        "num": 871436,
+        "word": "泰国男子寺庙闹事意外被佛像刺死",
+        "onboard_time": 1709200290,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 623549,
+        "num": 623549,
+        "word": "蒲熠星好帅",
+        "onboard_time": 1709207255,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621396,
+        "num": 621396,
+        "word": "浪姐官博回复李溪芮",
+        "onboard_time": 1709202992,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571292,
+        "num": 571292,
+        "word": "NEWJEANS官宣北京签售",
+        "onboard_time": 1709206472,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 921644,
+        "num": 519055,
+        "word": "马天宇为女教师殴打学生事件发声",
+        "onboard_time": 1709199691,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393638,
+        "num": 393638,
+        "word": "老师粗暴对学生涉事学校校长被免职",
+        "onboard_time": 1709201133,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385881,
+        "num": 385881,
+        "word": "赵昭仪剧透花少衍生节目",
+        "onboard_time": 1709207914,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377419,
+        "num": 377419,
+        "word": "侃爷妻子或因穿着暴露坐牢",
+        "onboard_time": 1709185773,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339507,
+        "num": 339507,
+        "word": "手机电池不喜欢100%的饱和状态",
+        "onboard_time": 1709192971,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 339989,
+        "num": 332449,
+        "word": "曹璐 没来浪姐",
+        "onboard_time": 1709201853,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323185,
+        "num": 323185,
+        "word": "斗鱼主播",
+        "onboard_time": 1709203655,
+        "rank": 16,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 322942,
+        "num": 322942,
+        "word": "武汉大学 莞莞类卿",
+        "onboard_time": 1709190751,
+        "rank": 17,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 308854,
+        "num": 308854,
+        "word": "鞠婧祎微醺车厘子妆",
+        "onboard_time": 1709208936,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284770,
+        "num": 284770,
+        "word": "7名高中生合力救火太帅了",
+        "onboard_time": 1709205815,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 369775,
+        "num": 284306,
+        "word": "好朋友忘了我的亲人去世了",
+        "onboard_time": 1709204855,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286735,
+        "num": 284110,
+        "word": "唐人街探案",
+        "onboard_time": 1709208936,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282943,
+        "num": 282943,
+        "word": "为什么HR老问是否是独生子女",
+        "onboard_time": 1709204553,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254034,
+        "num": 254034,
+        "word": "景天爆改邪剑仙",
+        "onboard_time": 1709199573,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248032,
+        "num": 248032,
+        "word": "李楠回归",
+        "onboard_time": 1709208575,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 235951,
+        "num": 235951,
+        "word": "女子网购金戒指一称克重还多了0.4",
+        "onboard_time": 1709204493,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227083,
+        "num": 227083,
+        "word": "魅族21PRO",
+        "onboard_time": 1709208691,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 224764,
+        "num": 224764,
+        "word": "齐思钧看超话",
+        "onboard_time": 1709206532,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218364,
+        "num": 218364,
+        "word": "朱一龙直播",
+        "onboard_time": 1709207432,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186543,
+        "num": 214188,
+        "word": "林高远限定祝福",
+        "onboard_time": 1709207733,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290773,
+        "num": 214005,
+        "word": "韩国人吃玉米芯",
+        "onboard_time": 1709209115,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228081,
+        "num": 213808,
+        "word": "杨舒予 财神不渡怨妇怨公",
+        "onboard_time": 1709208754,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213579,
+        "num": 213579,
+        "word": "汪峰女儿小苹果晒留学照",
+        "onboard_time": 1709196631,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205387,
+        "num": 205387,
+        "word": "前田敦子 浪姐",
+        "onboard_time": 1709206713,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179134,
+        "num": 179134,
+        "word": "曾沛慈到底来不来",
+        "onboard_time": 1709206773,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175738,
+        "num": 175738,
+        "word": "福建女子鱼刺卡喉意外揪出胃内肿瘤",
+        "onboard_time": 1709207192,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179076,
+        "num": 175181,
+        "word": "浪姐路透",
+        "onboard_time": 1709198012,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158919,
+        "num": 158919,
+        "word": "浪姐全民举荐",
+        "onboard_time": 1709208875,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146723,
+        "num": 146723,
+        "word": "何洁录制浪姐",
+        "onboard_time": 1709198793,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140388,
+        "num": 140388,
+        "word": "低丸子头发型",
+        "onboard_time": 1709202992,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 144198,
+        "num": 140098,
+        "word": "没有血缘关系也可以成为家人",
+        "onboard_time": 1709209656,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137743,
+        "num": 137743,
+        "word": "陈昊宇浪姐路透",
+        "onboard_time": 1709203712,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133802,
+        "num": 133802,
+        "word": "祺贵人告发甄嬛 单人演绎",
+        "onboard_time": 1709206954,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131261,
+        "num": 131261,
+        "word": "日食记 锅塌茄子",
+        "onboard_time": 1709196210,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 130466,
+        "num": 130466,
+        "word": "3月电影",
+        "onboard_time": 1709209656,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127564,
+        "num": 127564,
+        "word": "甄嬛版上春山",
+        "onboard_time": 1709205214,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126347,
+        "num": 126347,
+        "word": "eStar战胜BOA",
+        "onboard_time": 1709206592,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125983,
+        "num": 125983,
+        "word": "宁艺卓北京",
+        "onboard_time": 1709200413,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123815,
+        "num": 123815,
+        "word": "女子为母亲销户泪崩民警帮其找出旧照",
+        "onboard_time": 1709200231,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123354,
+        "num": 123354,
+        "word": "福建人的神明崇拜有多疯狂",
+        "onboard_time": 1709207310,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#当好中国式现代化建设坚定行动派实干家#"
+    }
+  }
+}
