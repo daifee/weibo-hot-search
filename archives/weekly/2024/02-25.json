@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709242463594,
+  "endTime": 1709244978069,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -13891,6 +13891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93776,
+      "num": 93776,
+      "word": "上班恶心穿搭引发年轻人共鸣",
+      "onboard_time": 1709230938,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90784,
       "num": 416809,
       "word": "没想到中国AI狂飙到海外了",
@@ -14067,14 +14075,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 75130,
-      "num": 46840,
-      "word": "上班恶心穿搭引发年轻人共鸣",
-      "onboard_time": 1709230938,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73500,
       "num": 1278845,
       "word": "京津冀交通一体化取得非凡成就",
@@ -14153,6 +14153,14 @@
       "onboard_time": 1709197651,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 69116,
+      "num": 53474,
+      "word": "网红自导自演被砸鸡蛋",
+      "onboard_time": 1709235916,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68050,
@@ -14331,14 +14339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53320,
-      "num": 15831,
-      "word": "网红自导自演被砸鸡蛋",
-      "onboard_time": 1709235916,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 52884,
       "num": 1583753,
       "word": "我国载人航天工程取得4000多项发明专利",
@@ -14419,6 +14419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45845,
+      "num": 22217,
+      "word": "理查德刘易斯去世",
+      "onboard_time": 1709241135,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45384,
       "num": 45384,
       "word": "田曦薇柿柿如意古装",
@@ -14451,20 +14459,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40672,
+      "num": 40672,
+      "word": "女生路边捡猫归还主人获6万回报",
+      "onboard_time": 1709230278,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38924,
       "num": 33833,
       "word": "我们是冠军",
       "onboard_time": 1708885938,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38416,
-      "num": 15826,
-      "word": "理查德刘易斯去世",
-      "onboard_time": 1709241135,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 37694,
@@ -14547,11 +14555,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28974,
-      "num": 28974,
+      "raw_hot": 29474,
+      "num": 29474,
       "word": "刘忻曾经是JYP的签约艺人",
       "onboard_time": 1709238916,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 28191,
+      "num": 22199,
+      "word": "许栋元离婚",
+      "onboard_time": 1709244736,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -14579,14 +14595,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27171,
-      "num": 27171,
-      "word": "女生路边捡猫归还主人获6万回报",
-      "onboard_time": 1709230278,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27095,
       "num": 27095,
       "word": "给老朋友捎上一份家乡的美味",
@@ -14609,6 +14617,14 @@
       "onboard_time": 1709154615,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 25060,
+      "num": 25060,
+      "word": "女子给晾的每1块腊肉都穿上纸尿裤",
+      "onboard_time": 1709237535,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24848,
@@ -14715,14 +14731,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 19501,
-      "num": 19051,
-      "word": "女子给晾的每1块腊肉都穿上纸尿裤",
-      "onboard_time": 1709237535,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18521,
       "num": 18521,
       "word": "孙千回应麦姬判官",
@@ -14763,20 +14771,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16433,
+      "num": 16433,
+      "word": "iOS版地震预警APP收费",
+      "onboard_time": 1709239636,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 16308,
       "num": 16308,
       "word": "周处除三害预售票房",
       "onboard_time": 1709232558,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 14873,
-      "num": 15041,
-      "word": "iOS版地震预警APP收费",
-      "onboard_time": 1709239636,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 14709,
@@ -14851,8 +14859,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7922,
-      "num": 15833,
+      "raw_hot": 7951,
+      "num": 22223,
       "word": "周刊君带你看两会",
       "onboard_time": 1709238976,
       "rank": 29,
