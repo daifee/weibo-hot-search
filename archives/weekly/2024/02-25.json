@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709183901187,
+  "endTime": 1709184838699,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -1003,6 +1003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1119256,
+      "num": 1119256,
+      "word": "吴镇宇唯一害怕的女人",
+      "onboard_time": 1709180796,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1119226,
       "num": 1119226,
       "word": "四六级分数出了",
@@ -1152,14 +1160,6 @@
       "word": "唐艺昕说恋爱中先道歉的人赢了",
       "onboard_time": 1709015732,
       "rank": 5,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1008610,
-      "num": 1008610,
-      "word": "吴镇宇唯一害怕的女人",
-      "onboard_time": 1709180796,
-      "rank": 24,
       "category": "综艺"
     },
     {
@@ -1689,6 +1689,14 @@
       "onboard_time": 1708850312,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 824821,
+      "num": 482907,
+      "word": "李亚鹏全网悬赏直播哭穷视频",
+      "onboard_time": 1709183553,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 816722,
@@ -2459,6 +2467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 633190,
+      "num": 494661,
+      "word": "iPhone6S包装盒上是什么鱼",
+      "onboard_time": 1709179714,
+      "rank": 30,
+      "category": "数码,科学科普"
+    },
+    {
       "raw_hot": 633097,
       "num": 633097,
       "word": "陈浩民举家回香港定居",
@@ -3139,14 +3155,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 528740,
-      "num": 494661,
-      "word": "iPhone6S包装盒上是什么鱼",
-      "onboard_time": 1709179714,
-      "rank": 30,
-      "category": "数码,科学科普"
-    },
-    {
       "raw_hot": 527784,
       "num": 460265,
       "word": "G7联合声明竟公开点名中国",
@@ -3291,6 +3299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503255,
+      "num": 503255,
+      "word": "院士说科学不可能靠上班8小时搞出来",
+      "onboard_time": 1709181457,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501704,
       "num": 501704,
       "word": "黑龙江佳木斯一高层建筑起火",
@@ -3321,6 +3337,14 @@
       "onboard_time": 1708996053,
       "rank": 42,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 500837,
+      "num": 500837,
+      "word": "杨紫票房总成绩破80亿",
+      "onboard_time": 1709183913,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 500355,
@@ -4243,14 +4267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 400741,
-      "num": 400741,
-      "word": "院士说科学不可能靠上班8小时搞出来",
-      "onboard_time": 1709181457,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 400593,
       "num": 400593,
       "word": "TES对战FPX",
@@ -4649,14 +4665,6 @@
       "onboard_time": 1709130878,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 357626,
-      "num": 357626,
-      "word": "李亚鹏全网悬赏直播哭穷视频",
-      "onboard_time": 1709183553,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 357360,
@@ -5297,6 +5305,14 @@
       "onboard_time": 1708781436,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 309313,
+      "num": 309313,
+      "word": "柠檬宝宝0岁到100岁都可能发病",
+      "onboard_time": 1709183855,
+      "rank": 34,
+      "category": "母婴育儿,健康医疗"
     },
     {
       "raw_hot": 309196,
@@ -6083,6 +6099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 262408,
+      "num": 262408,
+      "word": "长期负债的人现在怎么样了",
+      "onboard_time": 1709183971,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 262064,
       "num": 262064,
       "word": "飞驰人生2票房破30亿",
@@ -6393,6 +6417,14 @@
       "onboard_time": 1708791153,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250254,
+      "num": 250254,
+      "word": "当老师是县城女孩最好的出路吗",
+      "onboard_time": 1709183793,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 249566,
@@ -7451,6 +7483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 213966,
+      "num": 213966,
+      "word": "沈载伦给恩静买Prada香水",
+      "onboard_time": 1709184036,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213964,
       "num": 213964,
       "word": "当你花十块向佛求100w",
@@ -7657,6 +7697,14 @@
       "onboard_time": 1708841019,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207303,
+      "num": 207303,
+      "word": "林俊杰演唱会四城官宣",
+      "onboard_time": 1709184572,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 207262,
@@ -8027,14 +8075,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 198606,
-      "num": 198606,
-      "word": "柠檬宝宝0岁到100岁都可能发病",
-      "onboard_time": 1709183855,
-      "rank": 34,
-      "category": "母婴育儿,健康医疗"
-    },
-    {
       "raw_hot": 198433,
       "num": 198433,
       "word": "大学生开学的戒断反应有多严重",
@@ -8187,6 +8227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195392,
+      "num": 195392,
+      "word": "陈楚生武汉抢票",
+      "onboard_time": 1709184631,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195259,
       "num": 192201,
       "word": "腿姐 无论如何请继续相信自己",
@@ -8297,6 +8345,14 @@
       "onboard_time": 1709092892,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193322,
+      "num": 193322,
+      "word": "王一博撞墙变装",
+      "onboard_time": 1709184330,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 193272,
@@ -8761,6 +8817,14 @@
       "onboard_time": 1709020895,
       "rank": 36,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 184280,
+      "num": 184280,
+      "word": "湖人vs快船",
+      "onboard_time": 1709184272,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 184211,
@@ -9923,6 +9987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161616,
+      "num": 161616,
+      "word": "中国短剧迷倒大批国际观众",
+      "onboard_time": 1709184513,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161606,
       "num": 161606,
       "word": "耵聍清理",
@@ -10571,14 +10643,6 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 146198,
-      "num": 146198,
-      "word": "当老师是县城女孩最好的出路吗",
-      "onboard_time": 1709183793,
-      "rank": 46,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 146045,
       "num": 146045,
       "word": "陈自瑶被问与王浩信情人节安排",
@@ -10817,6 +10881,14 @@
       "onboard_time": 1708964248,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141706,
+      "num": 141706,
+      "word": "天涯社区明起恢复业务",
+      "onboard_time": 1709184693,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 141392,
@@ -12667,6 +12739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 24848,
+      "num": 346073,
+      "word": "十多万买电动小卫士选iCAR03",
+      "onboard_time": 1709182234,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 24616,
       "num": 31719,
       "word": "俄乌冲突两周年",
@@ -12689,14 +12769,6 @@
       "onboard_time": 1708971438,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 23617,
-      "num": 346073,
-      "word": "十多万买电动小卫士选iCAR03",
-      "onboard_time": 1709182234,
-      "rank": 20,
-      "category": "汽车"
     },
     {
       "raw_hot": 23010,

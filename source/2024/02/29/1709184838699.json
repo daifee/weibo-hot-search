@@ -1,0 +1,410 @@
+{
+  "runTime": 1709184838699,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1421531,
+        "num": 1421531,
+        "word": "3月8日妇女放假半天",
+        "onboard_time": 1709175633,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1119256,
+        "num": 1119256,
+        "word": "吴镇宇唯一害怕的女人",
+        "onboard_time": 1709180796,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145907,
+        "num": 987574,
+        "word": "3月这批新规将施行",
+        "onboard_time": 1709179413,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924388,
+        "num": 924388,
+        "word": "挖呀挖黄老师已向警方提供证据",
+        "onboard_time": 1709179470,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774171,
+        "num": 774171,
+        "word": "韩国允许对胎儿进行性别鉴定",
+        "onboard_time": 1709170231,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563509,
+        "num": 563509,
+        "word": "张杰官宣演唱会",
+        "onboard_time": 1709180736,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 503255,
+        "num": 503255,
+        "word": "院士说科学不可能靠上班8小时搞出来",
+        "onboard_time": 1709181457,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500837,
+        "num": 500837,
+        "word": "杨紫票房总成绩破80亿",
+        "onboard_time": 1709183913,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 495735,
+        "num": 495735,
+        "word": "2月29日出生怎么过生日",
+        "onboard_time": 1709175152,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492560,
+        "num": 492560,
+        "word": "女生二战考研成绩提高102分",
+        "onboard_time": 1709179235,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 824821,
+        "num": 482907,
+        "word": "李亚鹏全网悬赏直播哭穷视频",
+        "onboard_time": 1709183553,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633190,
+        "num": 478395,
+        "word": "iPhone6S包装盒上是什么鱼",
+        "onboard_time": 1709179714,
+        "rank": 11,
+        "category": "数码,科学科普"
+      },
+      {
+        "raw_hot": 467814,
+        "num": 467814,
+        "word": "官方回应女老师打骂学生拍摄者疑遭威胁",
+        "onboard_time": 1709180194,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381484,
+        "num": 381484,
+        "word": "比亚迪宋",
+        "onboard_time": 1709171252,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 375150,
+        "num": 375150,
+        "word": "李现的文案是网易云热评",
+        "onboard_time": 1709175451,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356185,
+        "num": 356185,
+        "word": "Jennie工作室公开",
+        "onboard_time": 1709180854,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309313,
+        "num": 309313,
+        "word": "柠檬宝宝0岁到100岁都可能发病",
+        "onboard_time": 1709183855,
+        "rank": 16,
+        "category": "母婴育儿,健康医疗"
+      },
+      {
+        "raw_hot": 308604,
+        "num": 308604,
+        "word": "咒术回战",
+        "onboard_time": 1709182774,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 300090,
+        "num": 300090,
+        "word": "短剧爆款编剧月入可超10万",
+        "onboard_time": 1709175152,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 290201,
+        "num": 290201,
+        "word": "回县城体制内工作的女硕士怎么样了",
+        "onboard_time": 1709178092,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24848,
+        "num": 278086,
+        "word": "十多万买电动小卫士选iCAR03",
+        "onboard_time": 1709182234,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 270183,
+        "num": 270183,
+        "word": "自焚士兵称美军直接参与屠杀巴勒斯坦人",
+        "onboard_time": 1709177314,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 269060,
+        "num": 269060,
+        "word": "教育局为被殴打学生安排心理辅导",
+        "onboard_time": 1709177613,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262408,
+        "num": 262408,
+        "word": "长期负债的人现在怎么样了",
+        "onboard_time": 1709183971,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253319,
+        "num": 253319,
+        "word": "央广网评女教师殴打学生",
+        "onboard_time": 1709178814,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250254,
+        "num": 250254,
+        "word": "当老师是县城女孩最好的出路吗",
+        "onboard_time": 1709183793,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 249406,
+        "num": 249406,
+        "word": "连孙悟空上班都不爱打扮",
+        "onboard_time": 1709180134,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236054,
+        "num": 236054,
+        "word": "娱乐圈30帅",
+        "onboard_time": 1709177613,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231689,
+        "num": 231689,
+        "word": "胡先煦一句话激怒一群人",
+        "onboard_time": 1709183134,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221223,
+        "num": 221223,
+        "word": "猫爸怕踩到小猫后的反应",
+        "onboard_time": 1709181574,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220462,
+        "num": 220462,
+        "word": "厅长退休后买13套房给子孙",
+        "onboard_time": 1709128474,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213966,
+        "num": 213966,
+        "word": "沈载伦给恩静买Prada香水",
+        "onboard_time": 1709184036,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209076,
+        "num": 209076,
+        "word": "周处除三害 删减",
+        "onboard_time": 1709174732,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207303,
+        "num": 207303,
+        "word": "林俊杰演唱会四城官宣",
+        "onboard_time": 1709184572,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195392,
+        "num": 195392,
+        "word": "陈楚生武汉抢票",
+        "onboard_time": 1709184631,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193322,
+        "num": 193322,
+        "word": "王一博撞墙变装",
+        "onboard_time": 1709184330,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184280,
+        "num": 184280,
+        "word": "湖人vs快船",
+        "onboard_time": 1709184272,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183659,
+        "num": 183659,
+        "word": "朴彩英水原希子合照",
+        "onboard_time": 1709181396,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170872,
+        "num": 170872,
+        "word": "研究生毕业后靠本科专业找到工作",
+        "onboard_time": 1709169933,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161686,
+        "num": 161686,
+        "word": "睡觉翻个身房子塌了",
+        "onboard_time": 1709180013,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161616,
+        "num": 161616,
+        "word": "中国短剧迷倒大批国际观众",
+        "onboard_time": 1709184513,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157240,
+        "num": 157240,
+        "word": "宋江确定入伍时间",
+        "onboard_time": 1709180314,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153443,
+        "num": 153443,
+        "word": "马思纯7岁至36岁颜值变化",
+        "onboard_time": 1709175689,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149084,
+        "num": 149084,
+        "word": "不得不说原唱就是原唱",
+        "onboard_time": 1709168797,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148617,
+        "num": 148617,
+        "word": "三只羊法务离职",
+        "onboard_time": 1709164107,
+        "rank": 44,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 142709,
+        "num": 142709,
+        "word": "朴彩英麻辣女教师",
+        "onboard_time": 1709183613,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141706,
+        "num": 141706,
+        "word": "天涯社区明起恢复业务",
+        "onboard_time": 1709184693,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138664,
+        "num": 138664,
+        "word": "杨幂功夫熊猫4定妆照",
+        "onboard_time": 1709181340,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138463,
+        "num": 138463,
+        "word": "第五人格",
+        "onboard_time": 1709181756,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133252,
+        "num": 133252,
+        "word": "巅峰盛典阵容",
+        "onboard_time": 1709182952,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#总体国家安全观的5个基本要求#"
+    }
+  }
+}
