@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709181299428,
+  "endTime": 1709183901187,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -1155,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1008610,
+      "num": 1008610,
+      "word": "吴镇宇唯一害怕的女人",
+      "onboard_time": 1709180796,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1000791,
       "num": 812463,
       "word": "马云发挽联悼念宗庆后",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1708785218,
       "rank": 20,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 979065,
+      "num": 979065,
+      "word": "挖呀挖黄老师已向警方提供证据",
+      "onboard_time": 1709179470,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 974749,
@@ -2083,14 +2099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 716921,
-      "num": 716921,
-      "word": "挖呀挖黄老师已向警方提供证据",
-      "onboard_time": 1709179470,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 715884,
       "num": 715884,
       "word": "全员加速中主持人快碎了",
@@ -2225,6 +2233,14 @@
       "onboard_time": 1709126612,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 689679,
+      "num": 689679,
+      "word": "张杰官宣演唱会",
+      "onboard_time": 1709180736,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 685765,
@@ -2633,14 +2649,6 @@
       "onboard_time": 1708914034,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 602258,
-      "num": 602258,
-      "word": "张杰官宣演唱会",
-      "onboard_time": 1709180736,
-      "rank": 12,
-      "category": "演出"
     },
     {
       "raw_hot": 601847,
@@ -3131,6 +3139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 528740,
+      "num": 494661,
+      "word": "iPhone6S包装盒上是什么鱼",
+      "onboard_time": 1709179714,
+      "rank": 30,
+      "category": "数码,科学科普"
+    },
+    {
       "raw_hot": 527784,
       "num": 460265,
       "word": "G7联合声明竟公开点名中国",
@@ -3249,6 +3265,14 @@
       "onboard_time": 1709044537,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 507263,
+      "num": 507263,
+      "word": "官方回应女老师打骂学生拍摄者疑遭威胁",
+      "onboard_time": 1709180194,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 506094,
@@ -3715,14 +3739,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 456260,
-      "num": 227175,
-      "word": "iPhone6S包装盒上是什么鱼",
-      "onboard_time": 1709179714,
-      "rank": 30,
-      "category": "数码,科学科普"
-    },
-    {
       "raw_hot": 455285,
       "num": 455285,
       "word": "宗馥莉已开始接班",
@@ -3888,14 +3904,6 @@
       "word": "新疆地震",
       "onboard_time": 1708835382,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 436461,
-      "num": 436461,
-      "word": "官方回应女老师打骂学生拍摄者疑遭威胁",
-      "onboard_time": 1709180194,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -4195,6 +4203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 405823,
+      "num": 405823,
+      "word": "Jennie工作室公开",
+      "onboard_time": 1709180854,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404720,
       "num": 299071,
       "word": "大伯在群里催婚被老爸杀疯了",
@@ -4225,6 +4241,14 @@
       "onboard_time": 1709022511,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 400741,
+      "num": 400741,
+      "word": "院士说科学不可能靠上班8小时搞出来",
+      "onboard_time": 1709181457,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400593,
@@ -4320,14 +4344,6 @@
       "word": "马思纯7岁至36岁颜值变化",
       "onboard_time": 1709175689,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 388747,
-      "num": 388747,
-      "word": "Jennie工作室公开",
-      "onboard_time": 1709180854,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -4635,6 +4651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 357626,
+      "num": 357626,
+      "word": "李亚鹏全网悬赏直播哭穷视频",
+      "onboard_time": 1709183553,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357360,
       "num": 357360,
       "word": "西安平均招聘薪酬9326元每月",
@@ -4873,6 +4897,14 @@
       "onboard_time": 1709115153,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 337821,
+      "num": 337821,
+      "word": "咒术回战",
+      "onboard_time": 1709182774,
+      "rank": 21,
+      "category": "动漫"
     },
     {
       "raw_hot": 334821,
@@ -5331,6 +5363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305174,
+      "num": 305174,
+      "word": "第五人格",
+      "onboard_time": 1709181756,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 304044,
       "num": 304044,
       "word": "冷冻食品可别直接下锅",
@@ -5425,14 +5465,6 @@
       "onboard_time": 1708911993,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 296355,
-      "num": 296355,
-      "word": "吴镇宇唯一害怕的女人",
-      "onboard_time": 1709180796,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 296263,
@@ -5601,6 +5633,14 @@
       "onboard_time": 1709088033,
       "rank": 21,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 285947,
+      "num": 285947,
+      "word": "连孙悟空上班都不爱打扮",
+      "onboard_time": 1709180134,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 285850,
@@ -6123,6 +6163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260188,
+      "num": 260188,
+      "word": "猫爸怕踩到小猫后的反应",
+      "onboard_time": 1709181574,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 259833,
       "num": 192817,
       "word": "Champion正被挂牌出售",
@@ -6563,14 +6611,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 243229,
-      "num": 243229,
-      "word": "连孙悟空上班都不爱打扮",
-      "onboard_time": 1709180134,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 242943,
       "num": 242943,
       "word": "韩国总统称医生罢工以人命为要挟",
@@ -6760,6 +6800,14 @@
       "word": "白鹿白月梵星杀青照",
       "onboard_time": 1709109692,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 234661,
+      "num": 234661,
+      "word": "胡先煦一句话激怒一群人",
+      "onboard_time": 1709183134,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -7699,6 +7747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205582,
+      "num": 205582,
+      "word": "朴彩英水原希子合照",
+      "onboard_time": 1709181396,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205478,
       "num": 205478,
       "word": "蟠陶盛彦",
@@ -7969,6 +8025,14 @@
       "onboard_time": 1708958975,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 198606,
+      "num": 198606,
+      "word": "柠檬宝宝0岁到100岁都可能发病",
+      "onboard_time": 1709183855,
+      "rank": 34,
+      "category": "母婴育儿,健康医疗"
     },
     {
       "raw_hot": 198433,
@@ -8273,6 +8337,14 @@
       "onboard_time": 1708867475,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192690,
+      "num": 192690,
+      "word": "巅峰盛典阵容",
+      "onboard_time": 1709182952,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 192330,
@@ -9579,6 +9651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166581,
+      "num": 166581,
+      "word": "贵州乡村教师用爱缝合球场地面",
+      "onboard_time": 1709182716,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166570,
       "num": 166570,
       "word": "小鹏与大众签订联合开发协议",
@@ -10035,6 +10115,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 156697,
+      "num": 156697,
+      "word": "朴彩英麻辣女教师",
+      "onboard_time": 1709183613,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 156499,
       "num": 156499,
       "word": "肥牛最快秒光的做法",
@@ -10225,6 +10313,14 @@
       "onboard_time": 1709028333,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 152227,
+      "num": 152227,
+      "word": "杨幂功夫熊猫4定妆照",
+      "onboard_time": 1709181340,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 152223,
@@ -10473,6 +10569,14 @@
       "onboard_time": 1709034694,
       "rank": 43,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 146198,
+      "num": 146198,
+      "word": "当老师是县城女孩最好的出路吗",
+      "onboard_time": 1709183793,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 146045,
@@ -12585,6 +12689,14 @@
       "onboard_time": 1708971438,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 23617,
+      "num": 346073,
+      "word": "十多万买电动小卫士选iCAR03",
+      "onboard_time": 1709182234,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 23010,
