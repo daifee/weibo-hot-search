@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709235241629,
+  "endTime": 1709237949287,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -14067,6 +14067,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 75130,
+      "num": 40475,
+      "word": "上班恶心穿搭引发年轻人共鸣",
+      "onboard_time": 1709230938,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73500,
       "num": 1278845,
       "word": "京津冀交通一体化取得非凡成就",
@@ -14291,14 +14299,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 55645,
-      "num": 40475,
-      "word": "上班恶心穿搭引发年轻人共鸣",
-      "onboard_time": 1709230938,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 54331,
       "num": 54331,
       "word": "小狗耳朵都放下来了",
@@ -14457,6 +14457,14 @@
       "onboard_time": 1709065515,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 36878,
+      "num": 15709,
+      "word": "网红自导自演被砸鸡蛋",
+      "onboard_time": 1709235916,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35508,
@@ -14667,8 +14675,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 20000,
-      "num": 20000,
+      "raw_hot": 20206,
+      "num": 20206,
       "word": "女生路边捡猫归还主人获6万回报",
       "onboard_time": 1709230278,
       "rank": 45,
@@ -14755,12 +14763,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 13146,
+      "num": 13146,
+      "word": "韩雪浪姐路透",
+      "onboard_time": 1709235555,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 12339,
       "num": 14682,
       "word": "中国建设者用7年让一座城拔地而起",
       "onboard_time": 1708974796,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11982,
+      "num": 13003,
+      "word": "女子给晾的每1块腊肉都穿上纸尿裤",
+      "onboard_time": 1709237535,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11633,
@@ -14793,6 +14817,14 @@
       "onboard_time": 1709155576,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 8656,
+      "num": 12991,
+      "word": "山东双胞胎姐妹同一天结婚",
+      "onboard_time": 1709237894,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
