@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709169023157,
+  "endTime": 1709170179428,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -1451,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 865596,
+      "num": 865596,
+      "word": "体检结果称拜登是健康强健的老人",
+      "onboard_time": 1709167414,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 865277,
       "num": 865277,
       "word": "帮邻居卖芹菜赚14元被罚10万",
@@ -1713,14 +1721,6 @@
       "onboard_time": 1708992755,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 785986,
-      "num": 785986,
-      "word": "体检结果称拜登是健康强健的老人",
-      "onboard_time": 1709167414,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 785800,
@@ -2763,6 +2763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 571506,
+      "num": 571506,
+      "word": "偷偷藏不住网飞破3000万",
+      "onboard_time": 1709168553,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 570933,
       "num": 570933,
       "word": "车上带了5只鸡 待遇怪好嘞",
@@ -3531,6 +3539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 463340,
+      "num": 463340,
+      "word": "AppleID或升级为AppleAccount",
+      "onboard_time": 1709168015,
+      "rank": 15,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 462944,
       "num": 462944,
       "word": "北京将举办2027世界田径锦标赛",
@@ -3809,6 +3825,14 @@
       "onboard_time": 1708914815,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 423628,
+      "num": 423628,
+      "word": "人民日报评大数据杀熟",
+      "onboard_time": 1709168314,
+      "rank": 22,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 423069,
@@ -4435,6 +4459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354893,
+      "num": 266384,
+      "word": "上海月薪2000能租什么房子",
+      "onboard_time": 1709167712,
+      "rank": 21,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 354764,
       "num": 354764,
       "word": "为什么理发店里见不到女Tony",
@@ -4473,14 +4505,6 @@
       "onboard_time": 1708865134,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 352221,
-      "num": 352221,
-      "word": "AppleID或升级为AppleAccount",
-      "onboard_time": 1709168015,
-      "rank": 15,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 351386,
@@ -4817,14 +4841,6 @@
       "onboard_time": 1709118212,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 318830,
-      "num": 318830,
-      "word": "偷偷藏不住网飞破3000万",
-      "onboard_time": 1709168553,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 318741,
@@ -5707,6 +5723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 268302,
+      "num": 268302,
+      "word": "研究生毕业后靠本科专业找到工作",
+      "onboard_time": 1709169933,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 267863,
       "num": 267863,
       "word": "C罗因做不道德动作被查",
@@ -5739,20 +5763,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 263451,
+      "num": 263451,
+      "word": "不得不说原唱就是原唱",
+      "onboard_time": 1709168797,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 263450,
       "num": 245105,
       "word": "猫咪在床上跑酷被主人叫名字",
       "onboard_time": 1708913434,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 263433,
-      "num": 263433,
-      "word": "上海月薪2000能租什么房子",
-      "onboard_time": 1709167712,
-      "rank": 21,
-      "category": "社会议题"
     },
     {
       "raw_hot": 262603,
@@ -5769,14 +5793,6 @@
       "onboard_time": 1708931020,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 262411,
-      "num": 262411,
-      "word": "人民日报评大数据杀熟",
-      "onboard_time": 1709168314,
-      "rank": 22,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 262064,
@@ -6553,6 +6569,14 @@
       "onboard_time": 1708920757,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 230691,
+      "num": 230691,
+      "word": "7个建议远离高尿酸和痛风",
+      "onboard_time": 1709168254,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 230639,
@@ -8219,14 +8243,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 184932,
-      "num": 184932,
-      "word": "7个建议远离高尿酸和痛风",
-      "onboard_time": 1709168254,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 184843,
       "num": 184843,
       "word": "全员加速中弹幕",
@@ -8515,6 +8531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 178261,
+      "num": 178261,
+      "word": "EA将裁员5%",
+      "onboard_time": 1709169693,
+      "rank": 31,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 178182,
       "num": 178182,
       "word": "陈梦vs张本美和",
@@ -8795,6 +8819,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 172453,
+      "num": 172453,
+      "word": "巴黎奥运会詹杜库合体",
+      "onboard_time": 1709169215,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172428,
       "num": 246344,
       "word": "孙颖莎樊振东再度领跑世界排名",
@@ -8825,6 +8857,14 @@
       "onboard_time": 1708950571,
       "rank": 32,
       "category": "电竞,艺人"
+    },
+    {
+      "raw_hot": 171014,
+      "num": 171014,
+      "word": "第一次看见这么离谱的新衣服",
+      "onboard_time": 1709169633,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 170998,
@@ -9065,6 +9105,14 @@
       "onboard_time": 1708792410,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166570,
+      "num": 166570,
+      "word": "小鹏与大众签订联合开发协议",
+      "onboard_time": 1709169633,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 166524,
@@ -9955,14 +10003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144615,
-      "num": 144615,
-      "word": "不得不说原唱就是原唱",
-      "onboard_time": 1709168797,
-      "rank": 44,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 144348,
       "num": 144348,
       "word": "周也辣妹妆",
@@ -10329,6 +10369,14 @@
       "onboard_time": 1708823911,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137107,
+      "num": 137107,
+      "word": "快递不得擅自放快递柜",
+      "onboard_time": 1709169933,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137102,
@@ -10929,6 +10977,14 @@
       "onboard_time": 1708961734,
       "rank": 35,
       "category": "军事,国外时政"
+    },
+    {
+      "raw_hot": 118502,
+      "num": 118502,
+      "word": "网剧飞驰人生",
+      "onboard_time": 1709170172,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 118280,

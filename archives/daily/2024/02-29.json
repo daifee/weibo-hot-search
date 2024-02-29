@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709169023157,
+  "endTime": 1709170179428,
   "band_list": [
     {
       "raw_hot": 2782869,
@@ -43,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 785986,
-      "num": 785986,
+      "raw_hot": 865596,
+      "num": 865596,
       "word": "体检结果称拜登是健康强健的老人",
       "onboard_time": 1709167414,
       "rank": 5,
@@ -99,12 +99,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 571506,
+      "num": 571506,
+      "word": "偷偷藏不住网飞破3000万",
+      "onboard_time": 1709168553,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 505588,
       "num": 505588,
       "word": "官方通报广东一初中生跳楼自杀",
       "onboard_time": 1709132974,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463340,
+      "num": 463340,
+      "word": "AppleID或升级为AppleAccount",
+      "onboard_time": 1709168015,
+      "rank": 15,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 462944,
@@ -129,6 +145,14 @@
       "onboard_time": 1709133334,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 423628,
+      "num": 423628,
+      "word": "人民日报评大数据杀熟",
+      "onboard_time": 1709168314,
+      "rank": 22,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 417482,
@@ -171,12 +195,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 352221,
-      "num": 352221,
-      "word": "AppleID或升级为AppleAccount",
-      "onboard_time": 1709168015,
-      "rank": 15,
-      "category": "数码,互联网"
+      "raw_hot": 354893,
+      "num": 266384,
+      "word": "上海月薪2000能租什么房子",
+      "onboard_time": 1709167712,
+      "rank": 21,
+      "category": "社会议题"
     },
     {
       "raw_hot": 341163,
@@ -209,14 +233,6 @@
       "onboard_time": 1709137107,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 318830,
-      "num": 318830,
-      "word": "偷偷藏不住网飞破3000万",
-      "onboard_time": 1709168553,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 318726,
@@ -267,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268302,
+      "num": 268302,
+      "word": "研究生毕业后靠本科专业找到工作",
+      "onboard_time": 1709169933,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 265003,
       "num": 187337,
       "word": "睡前吃夜宵和饿肚子睡觉哪个危害大",
@@ -275,20 +299,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 263433,
-      "num": 263433,
-      "word": "上海月薪2000能租什么房子",
-      "onboard_time": 1709167712,
-      "rank": 21,
-      "category": "社会议题"
-    },
-    {
-      "raw_hot": 262411,
-      "num": 262411,
-      "word": "人民日报评大数据杀熟",
-      "onboard_time": 1709168314,
-      "rank": 22,
-      "category": "社会新闻,互联网"
+      "raw_hot": 263451,
+      "num": 263451,
+      "word": "不得不说原唱就是原唱",
+      "onboard_time": 1709168797,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 256885,
@@ -329,6 +345,14 @@
       "onboard_time": 1709133093,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 230691,
+      "num": 230691,
+      "word": "7个建议远离高尿酸和痛风",
+      "onboard_time": 1709168254,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 223605,
@@ -395,14 +419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184932,
-      "num": 184932,
-      "word": "7个建议远离高尿酸和痛风",
-      "onboard_time": 1709168254,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 183863,
       "num": 183863,
       "word": "檀健次演技",
@@ -427,6 +443,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 178261,
+      "num": 178261,
+      "word": "EA将裁员5%",
+      "onboard_time": 1709169693,
+      "rank": 31,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 174141,
       "num": 174141,
       "word": "原来狗不嫌家贫是因为没富过",
@@ -443,12 +467,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172453,
+      "num": 172453,
+      "word": "巴黎奥运会詹杜库合体",
+      "onboard_time": 1709169215,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171014,
+      "num": 171014,
+      "word": "第一次看见这么离谱的新衣服",
+      "onboard_time": 1709169633,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 169433,
       "num": 169433,
       "word": "庄达菲李庚希友情",
       "onboard_time": 1709165793,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166570,
+      "num": 166570,
+      "word": "小鹏与大众签订联合开发协议",
+      "onboard_time": 1709169633,
+      "rank": 36,
+      "category": "汽车"
     },
     {
       "raw_hot": 165361,
@@ -515,12 +563,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 144615,
-      "num": 144615,
-      "word": "不得不说原唱就是原唱",
-      "onboard_time": 1709168797,
+      "raw_hot": 137107,
+      "num": 137107,
+      "word": "快递不得擅自放快递柜",
+      "onboard_time": 1709169933,
       "rank": 44,
-      "category": "音乐"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132475,
@@ -569,6 +617,14 @@
       "onboard_time": 1709115211,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118502,
+      "num": 118502,
+      "word": "网剧飞驰人生",
+      "onboard_time": 1709170172,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 118339,
