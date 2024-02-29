@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709187740772,
+  "endTime": 1709188460542,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -571,7 +571,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1553495,
+      "raw_hot": 1591654,
       "num": 449954,
       "word": "侃爷妻子或因穿着暴露坐牢",
       "onboard_time": 1709185773,
@@ -905,6 +905,14 @@
       "onboard_time": 1708871017,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1189002,
+      "num": 1189002,
+      "word": "iPhone15官旗全系降至历史最低价",
+      "onboard_time": 1709186012,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 1188687,
@@ -1275,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 959156,
+      "num": 959156,
+      "word": "刘忻 浪姐",
+      "onboard_time": 1709186553,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 952600,
       "num": 952600,
       "word": "刘诗雯给韩国男团颁奖",
@@ -1401,14 +1417,6 @@
       "onboard_time": 1709087373,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 909712,
-      "num": 909712,
-      "word": "iPhone15官旗全系降至历史最低价",
-      "onboard_time": 1709186012,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 897801,
@@ -1945,14 +1953,6 @@
       "onboard_time": 1708995455,
       "rank": 23,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 750972,
-      "num": 750972,
-      "word": "刘忻 浪姐",
-      "onboard_time": 1709186553,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 748953,
@@ -4547,6 +4547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 373391,
+      "num": 373391,
+      "word": "虎杖悠仁吐血",
+      "onboard_time": 1709187271,
+      "rank": 30,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 372539,
       "num": 372539,
       "word": "金秀贤金智媛新剧婚纱剧照",
@@ -4843,6 +4851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 345703,
+      "num": 289836,
+      "word": "4种食物是升糖大户尽量少吃",
+      "onboard_time": 1709186372,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 344991,
       "num": 344991,
       "word": "网友集体晒AD钙奶悼念宗庆后",
@@ -4937,14 +4953,6 @@
       "onboard_time": 1709029113,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 338574,
-      "num": 285749,
-      "word": "4种食物是升糖大户尽量少吃",
-      "onboard_time": 1709186372,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 338482,
@@ -5137,6 +5145,14 @@
       "onboard_time": 1708942414,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 322127,
+      "num": 322127,
+      "word": "马立奥吃螺蛳粉",
+      "onboard_time": 1709187992,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 321321,
@@ -6275,6 +6291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 258681,
+      "num": 258681,
+      "word": "建议减轻中小学教师行政压力",
+      "onboard_time": 1709186792,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 258147,
       "num": 258147,
       "word": "女企业家讨工程款陷寻衅滋事被批捕",
@@ -6939,14 +6963,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 233717,
-      "num": 233717,
-      "word": "建议减轻中小学教师行政压力",
-      "onboard_time": 1709186792,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 233612,
       "num": 233612,
       "word": "不给你涨价都不错了",
@@ -6961,14 +6977,6 @@
       "onboard_time": 1709184330,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 232979,
-      "num": 201092,
-      "word": "虎杖悠仁吐血",
-      "onboard_time": 1709187271,
-      "rank": 30,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 232325,
@@ -8747,6 +8755,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 188375,
+      "num": 188375,
+      "word": "四年一次的打卡",
+      "onboard_time": 1709188050,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188186,
       "num": 188186,
       "word": "翁小雯拍的沈月",
@@ -9219,6 +9235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178560,
+      "num": 178560,
+      "word": "DNF手游开测瞬间挤爆服务器",
+      "onboard_time": 1709184933,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 178495,
       "num": 178495,
       "word": "男团决赛",
@@ -9297,14 +9321,6 @@
       "onboard_time": 1709041595,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 176883,
-      "num": 176883,
-      "word": "DNF手游开测瞬间挤爆服务器",
-      "onboard_time": 1709184933,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 176853,
@@ -9409,6 +9425,14 @@
       "onboard_time": 1708855953,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174592,
+      "num": 174592,
+      "word": "这真的不是陈建斌吗",
+      "onboard_time": 1709187094,
+      "rank": 38,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 174579,
@@ -10179,14 +10203,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159183,
-      "num": 159183,
-      "word": "这真的不是陈建斌吗",
-      "onboard_time": 1709187094,
-      "rank": 38,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 159149,
       "num": 159149,
       "word": "XYG对战TES",
@@ -10595,6 +10611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150676,
+      "num": 150676,
+      "word": "马航失联乘客家属再次赴马参会",
+      "onboard_time": 1709188292,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150488,
       "num": 150488,
       "word": "陈靖可回应面试封神",
@@ -10689,6 +10713,14 @@
       "onboard_time": 1709000972,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148464,
+      "num": 148464,
+      "word": "詹姆斯距离4万分还差40分",
+      "onboard_time": 1709188111,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 148342,
@@ -10891,6 +10923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143901,
+      "num": 143901,
+      "word": "NBA",
+      "onboard_time": 1709187931,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143531,
       "num": 143531,
       "word": "范丞丞给辣条打码",
@@ -11011,8 +11051,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141902,
-      "num": 141902,
+      "raw_hot": 141910,
+      "num": 141910,
       "word": "在吃上质疑理解成为我妈",
       "onboard_time": 1709186731,
       "rank": 42,
@@ -11225,6 +11265,14 @@
       "onboard_time": 1708995154,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138071,
+      "num": 138071,
+      "word": "比特币最近有多疯狂",
+      "onboard_time": 1709187811,
+      "rank": 44,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 137931,
@@ -11873,6 +11921,14 @@
       "onboard_time": 1709048072,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 119742,
+      "num": 119742,
+      "word": "周震南黄子弘凡 你画我猜",
+      "onboard_time": 1709188412,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 119548,
