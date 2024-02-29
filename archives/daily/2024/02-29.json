@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709212699470,
+  "endTime": 1709213641721,
   "band_list": [
     {
       "raw_hot": 3110421,
@@ -147,8 +147,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1338196,
-      "num": 1338196,
+      "raw_hot": 1360072,
+      "num": 1360072,
       "word": "韩国人吃玉米芯",
       "onboard_time": 1709209115,
       "rank": 30,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 824470,
+      "num": 824470,
+      "word": "女子吐槽花1588元请跟拍成片太草率",
+      "onboard_time": 1709209953,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 802519,
       "num": 802519,
       "word": "李溪芮自荐报名浪姐",
@@ -339,6 +347,14 @@
       "category": "运动健身,艺人"
     },
     {
+      "raw_hot": 708139,
+      "num": 653903,
+      "word": "福建泉州发生命案",
+      "onboard_time": 1709212413,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 703964,
       "num": 703964,
       "word": "老师粗暴对学生涉事学校校长被免职",
@@ -369,6 +385,22 @@
       "onboard_time": 1709198492,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673788,
+      "num": 673788,
+      "word": "郭麒麟胖了",
+      "onboard_time": 1709213196,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 671814,
+      "num": 671814,
+      "word": "南北走位",
+      "onboard_time": 1709212413,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 659350,
@@ -435,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 616361,
+      "num": 616361,
+      "word": "杨幂下车神图",
+      "onboard_time": 1709210915,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 611590,
       "num": 611590,
       "word": "祁厅长的情商属实太高",
@@ -457,14 +497,6 @@
       "onboard_time": 1709200413,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 604264,
-      "num": 604264,
-      "word": "女子吐槽花1588元请跟拍成片太草率",
-      "onboard_time": 1709209953,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 598430,
@@ -796,7 +828,7 @@
     },
     {
       "raw_hot": 376878,
-      "num": 295291,
+      "num": 315455,
       "word": "好朋友忘了我的亲人去世了",
       "onboard_time": 1709204855,
       "rank": 30,
@@ -817,14 +849,6 @@
       "onboard_time": 1709168797,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 372336,
-      "num": 372336,
-      "word": "杨幂下车神图",
-      "onboard_time": 1709210915,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 371587,
@@ -971,6 +995,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 333880,
+      "num": 333880,
+      "word": "张雨绮四年还没找到排队的人",
+      "onboard_time": 1709212836,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 332562,
       "num": 332562,
       "word": "被指吃绝户男子发声",
@@ -1017,14 +1049,6 @@
       "onboard_time": 1709129074,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 313041,
-      "num": 274409,
-      "word": "南北走位",
-      "onboard_time": 1709212413,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 308735,
@@ -1369,6 +1393,14 @@
       "onboard_time": 1709183134,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233832,
+      "num": 233832,
+      "word": "AG对战KSG",
+      "onboard_time": 1709212836,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 233159,
@@ -2011,6 +2043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177497,
+      "num": 177497,
+      "word": "苗苗最新状态",
+      "onboard_time": 1709213554,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176097,
       "num": 176097,
       "word": "Hero零封RNGM",
@@ -2187,6 +2227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159254,
+      "num": 159254,
+      "word": "范思哲活动",
+      "onboard_time": 1709211933,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 158919,
       "num": 158919,
       "word": "浪姐全民举荐",
@@ -2241,14 +2289,6 @@
       "onboard_time": 1709125592,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152881,
-      "num": 152881,
-      "word": "范思哲活动",
-      "onboard_time": 1709211933,
-      "rank": 45,
-      "category": "时尚"
     },
     {
       "raw_hot": 152870,
@@ -2489,14 +2529,6 @@
       "onboard_time": 1709201553,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 137256,
-      "num": 137256,
-      "word": "福建泉州发生命案",
-      "onboard_time": 1709212413,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136921,
@@ -2843,6 +2875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107414,
+      "num": 135605,
+      "word": "不要回头看 迅速买单离场",
+      "onboard_time": 1709213496,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107337,
       "num": 107337,
       "word": "古希腊掌管teenager的神",
@@ -3084,7 +3124,7 @@
     },
     {
       "raw_hot": 27061,
-      "num": 177153,
+      "num": 1320966,
       "word": "微观两会",
       "onboard_time": 1709194052,
       "rank": 28,

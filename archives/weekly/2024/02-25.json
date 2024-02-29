@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709212699470,
+  "endTime": 1709213641721,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -787,6 +787,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1360072,
+      "num": 1360072,
+      "word": "韩国人吃玉米芯",
+      "onboard_time": 1709209115,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1349625,
       "num": 1349625,
       "word": "第5例被治愈的艾滋病患者",
@@ -817,14 +825,6 @@
       "onboard_time": 1709110294,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1338196,
-      "num": 1338196,
-      "word": "韩国人吃玉米芯",
-      "onboard_time": 1709209115,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 1335695,
@@ -1851,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824470,
+      "num": 824470,
+      "word": "女子吐槽花1588元请跟拍成片太草率",
+      "onboard_time": 1709209953,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 816722,
       "num": 816722,
       "word": "张艺兴跳了咆哮",
@@ -2331,6 +2339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 708139,
+      "num": 653903,
+      "word": "福建泉州发生命案",
+      "onboard_time": 1709212413,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 706778,
       "num": 706778,
       "word": "王安宇登门拜访姐夫了吗",
@@ -2513,6 +2529,22 @@
       "onboard_time": 1708856191,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 673788,
+      "num": 673788,
+      "word": "郭麒麟胖了",
+      "onboard_time": 1709213196,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 671814,
+      "num": 671814,
+      "word": "南北走位",
+      "onboard_time": 1709212413,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 667714,
@@ -2795,6 +2827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 616361,
+      "num": 616361,
+      "word": "杨幂下车神图",
+      "onboard_time": 1709210915,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 612179,
       "num": 612179,
       "word": "赵丽颖露肩了",
@@ -2881,14 +2921,6 @@
       "onboard_time": 1708904488,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 604264,
-      "num": 604264,
-      "word": "女子吐槽花1588元请跟拍成片太草率",
-      "onboard_time": 1709209953,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 603898,
@@ -4860,7 +4892,7 @@
     },
     {
       "raw_hot": 376878,
-      "num": 295291,
+      "num": 315455,
       "word": "好朋友忘了我的亲人去世了",
       "onboard_time": 1709204855,
       "rank": 30,
@@ -4913,14 +4945,6 @@
       "onboard_time": 1708915174,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 372336,
-      "num": 372336,
-      "word": "杨幂下车神图",
-      "onboard_time": 1709210915,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 371909,
@@ -5411,6 +5435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333880,
+      "num": 333880,
+      "word": "张雨绮四年还没找到排队的人",
+      "onboard_time": 1709212836,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 333062,
       "num": 333062,
       "word": "殴打学生女老师被停职",
@@ -5737,14 +5769,6 @@
       "onboard_time": 1709113835,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 313041,
-      "num": 274409,
-      "word": "南北走位",
-      "onboard_time": 1709212413,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 312750,
@@ -7513,6 +7537,14 @@
       "onboard_time": 1708836040,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 233832,
+      "num": 233832,
+      "word": "AG对战KSG",
+      "onboard_time": 1709212836,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 233612,
@@ -10139,6 +10171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177497,
+      "num": 177497,
+      "word": "苗苗最新状态",
+      "onboard_time": 1709213554,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177241,
       "num": 177241,
       "word": "宝可梦传说ZA公开",
@@ -11075,6 +11115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159254,
+      "num": 159254,
+      "word": "范思哲活动",
+      "onboard_time": 1709211933,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 159149,
       "num": 159149,
       "word": "XYG对战TES",
@@ -11377,14 +11425,6 @@
       "onboard_time": 1709091091,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 152881,
-      "num": 152881,
-      "word": "范思哲活动",
-      "onboard_time": 1709211933,
-      "rank": 45,
-      "category": "时尚"
     },
     {
       "raw_hot": 152870,
@@ -12289,14 +12329,6 @@
       "onboard_time": 1709120129,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137256,
-      "num": 137256,
-      "word": "福建泉州发生命案",
-      "onboard_time": 1709212413,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137247,
@@ -13387,6 +13419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107414,
+      "num": 135605,
+      "word": "不要回头看 迅速买单离场",
+      "onboard_time": 1709213496,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107337,
       "num": 107337,
       "word": "古希腊掌管teenager的神",
@@ -14132,7 +14172,7 @@
     },
     {
       "raw_hot": 27061,
-      "num": 177153,
+      "num": 1320966,
       "word": "微观两会",
       "onboard_time": 1709194052,
       "rank": 28,

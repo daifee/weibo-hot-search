@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1709212699470,
+  "endTime": 1709213641721,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -5083,6 +5083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1360072,
+      "num": 1360072,
+      "word": "韩国人吃玉米芯",
+      "onboard_time": 1709209115,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1359200,
       "num": 1359200,
       "word": "C罗拜年",
@@ -5225,14 +5233,6 @@
       "onboard_time": 1707192270,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1338196,
-      "num": 1338196,
-      "word": "韩国人吃玉米芯",
-      "onboard_time": 1709209115,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 1335695,
@@ -10947,6 +10947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 824470,
+      "num": 824470,
+      "word": "女子吐槽花1588元请跟拍成片太草率",
+      "onboard_time": 1709209953,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 824016,
       "num": 824016,
       "word": "朱雨玲朱霖峰官宣恋情",
@@ -13595,6 +13603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 708139,
+      "num": 653903,
+      "word": "福建泉州发生命案",
+      "onboard_time": 1709212413,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 708084,
       "num": 708084,
       "word": "开工首日iPhone15降至4588元",
@@ -14523,6 +14539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 673788,
+      "num": 673788,
+      "word": "郭麒麟胖了",
+      "onboard_time": 1709213196,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 673733,
       "num": 673733,
       "word": "全员加速中",
@@ -14569,6 +14593,14 @@
       "onboard_time": 1708010378,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 671814,
+      "num": 671814,
+      "word": "南北走位",
+      "onboard_time": 1709212413,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 671703,
@@ -16323,6 +16355,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 616361,
+      "num": 616361,
+      "word": "杨幂下车神图",
+      "onboard_time": 1709210915,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 616277,
       "num": 616277,
       "word": "谢晖婚礼",
@@ -16745,14 +16785,6 @@
       "onboard_time": 1706877872,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 604264,
-      "num": 604264,
-      "word": "女子吐槽花1588元请跟拍成片太草率",
-      "onboard_time": 1709209953,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 604170,
@@ -27164,7 +27196,7 @@
     },
     {
       "raw_hot": 376878,
-      "num": 295291,
+      "num": 315455,
       "word": "好朋友忘了我的亲人去世了",
       "onboard_time": 1709204855,
       "rank": 30,
@@ -27473,14 +27505,6 @@
       "onboard_time": 1707714571,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 372336,
-      "num": 372336,
-      "word": "杨幂下车神图",
-      "onboard_time": 1709210915,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 372200,
@@ -30011,6 +30035,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 333880,
+      "num": 333880,
+      "word": "张雨绮四年还没找到排队的人",
+      "onboard_time": 1709212836,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 333745,
       "num": 333745,
       "word": "男子500米孙龙夺冠",
@@ -31753,14 +31785,6 @@
       "onboard_time": 1706933789,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313041,
-      "num": 274409,
-      "word": "南北走位",
-      "onboard_time": 1709212413,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 313006,
@@ -41377,6 +41401,14 @@
       "onboard_time": 1706868214,
       "rank": 1,
       "category": "美食"
+    },
+    {
+      "raw_hot": 233832,
+      "num": 233832,
+      "word": "AG对战KSG",
+      "onboard_time": 1709212836,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 233780,
@@ -55395,6 +55427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177497,
+      "num": 177497,
+      "word": "苗苗最新状态",
+      "onboard_time": 1709213554,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177492,
       "num": 177492,
       "word": "A股兔年红盘收官",
@@ -60667,6 +60707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159254,
+      "num": 159254,
+      "word": "范思哲活动",
+      "onboard_time": 1709211933,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 159229,
       "num": 159229,
       "word": "TRIBE取消回归",
@@ -62465,14 +62513,6 @@
       "onboard_time": 1709091091,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 152881,
-      "num": 152881,
-      "word": "范思哲活动",
-      "onboard_time": 1709211933,
-      "rank": 45,
-      "category": "时尚"
     },
     {
       "raw_hot": 152870,
@@ -67129,14 +67169,6 @@
       "onboard_time": 1708326097,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 137256,
-      "num": 137256,
-      "word": "福建泉州发生命案",
-      "onboard_time": 1709212413,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137247,
@@ -74091,6 +74123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107414,
+      "num": 135605,
+      "word": "不要回头看 迅速买单离场",
+      "onboard_time": 1709213496,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107366,
       "num": 107366,
       "word": "决定离家出走的小女孩",
@@ -79636,7 +79676,7 @@
     },
     {
       "raw_hot": 27061,
-      "num": 177153,
+      "num": 1320966,
       "word": "微观两会",
       "onboard_time": 1709194052,
       "rank": 28,
