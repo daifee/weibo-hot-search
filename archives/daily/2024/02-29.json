@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709216354442,
+  "endTime": 1709217275811,
   "band_list": [
     {
       "raw_hot": 3110421,
@@ -187,6 +187,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1270034,
+      "num": 1270034,
+      "word": "曹璐回应落选浪姐",
+      "onboard_time": 1709215296,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1215724,
       "num": 575329,
       "word": "我的性教育来自郭敬明的小说",
@@ -275,12 +283,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 895581,
+      "raw_hot": 953339,
       "num": 365927,
       "word": "永远别去碰谈了三四年恋爱的人",
       "onboard_time": 1709215296,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 948775,
+      "num": 948775,
+      "word": "花少团真的去了秦岚家",
+      "onboard_time": 1709215898,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 891322,
@@ -369,14 +385,6 @@
       "onboard_time": 1709196210,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 762591,
-      "num": 762591,
-      "word": "曹璐回应落选浪姐",
-      "onboard_time": 1709215296,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 736026,
@@ -515,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 612136,
+      "num": 552006,
+      "word": "县城一中到底有多重要",
+      "onboard_time": 1709214998,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 611590,
       "num": 611590,
       "word": "祁厅长的情商属实太高",
@@ -603,6 +619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 531600,
+      "num": 531600,
+      "word": "3月十二星座注意事项",
+      "onboard_time": 1709214218,
+      "rank": 12,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 507263,
       "num": 507263,
       "word": "官方回应女老师打骂学生拍摄者疑遭威胁",
@@ -657,14 +681,6 @@
       "onboard_time": 1709177552,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 486816,
-      "num": 486816,
-      "word": "3月十二星座注意事项",
-      "onboard_time": 1709214218,
-      "rank": 12,
-      "category": "情感,网红"
     },
     {
       "raw_hot": 483777,
@@ -811,14 +827,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 418052,
-      "num": 418052,
-      "word": "花少团真的去了秦岚家",
-      "onboard_time": 1709215898,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 417482,
       "num": 417482,
       "word": "迪丽热巴的天使蹲为什么劝你别学",
@@ -897,14 +905,6 @@
       "onboard_time": 1709207914,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 380707,
-      "num": 380707,
-      "word": "县城一中到底有多重要",
-      "onboard_time": 1709214998,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 376878,
@@ -1451,6 +1451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 241049,
+      "num": 241049,
+      "word": "周处除三害看得好爽",
+      "onboard_time": 1709215115,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 240563,
       "num": 240563,
       "word": "花花运动量vs和叶运动量",
@@ -1539,6 +1547,30 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 229963,
+      "num": 229963,
+      "word": "WBG对战AL",
+      "onboard_time": 1709216919,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 229392,
+      "num": 228507,
+      "word": "湖南天门山景区有人跳崖",
+      "onboard_time": 1709213797,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228751,
+      "num": 228751,
+      "word": "KSG战胜AG",
+      "onboard_time": 1709216561,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 228340,
       "num": 228340,
       "word": "Giselle出国机场图",
@@ -1577,14 +1609,6 @@
       "onboard_time": 1709208691,
       "rank": 26,
       "category": "数码"
-    },
-    {
-      "raw_hot": 226583,
-      "num": 226583,
-      "word": "周处除三害看得好爽",
-      "onboard_time": 1709215115,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 224764,
@@ -1632,14 +1656,6 @@
       "word": "殴打学生女老师被停职",
       "onboard_time": 1709131715,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221110,
-      "num": 221110,
-      "word": "湖南天门山景区有人跳崖",
-      "onboard_time": 1709213797,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1843,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196736,
+      "num": 196736,
+      "word": "伞兵2000淘汰",
+      "onboard_time": 1709216318,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196116,
       "num": 196116,
       "word": "迪丽热巴开始推理吧路透",
@@ -1888,6 +1912,14 @@
       "word": "快递不得擅自放快递柜",
       "onboard_time": 1709169933,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194424,
+      "num": 194424,
+      "word": "点读机女孩剃发",
+      "onboard_time": 1709216978,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -2251,12 +2283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166633,
-      "num": 166633,
-      "word": "伞兵2000淘汰",
-      "onboard_time": 1709216318,
-      "rank": 44,
-      "category": "电竞"
+      "raw_hot": 167343,
+      "num": 167343,
+      "word": "周鸿祎演示产品时服务器被挤爆",
+      "onboard_time": 1709216620,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 166581,
@@ -2763,6 +2795,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 127375,
+      "num": 241425,
+      "word": "钱塘江退潮露出龙形潮汐树",
+      "onboard_time": 1709216075,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127007,
       "num": 127007,
       "word": "TWICE舞台",
@@ -3048,14 +3088,6 @@
       "word": "上海一饭堂发生情杀案致2人死亡",
       "onboard_time": 1709103211,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103530,
-      "num": 204183,
-      "word": "钱塘江退潮露出龙形潮汐树",
-      "onboard_time": 1709216075,
-      "rank": 39,
       "category": "社会新闻"
     },
     {

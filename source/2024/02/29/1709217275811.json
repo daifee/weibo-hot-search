@@ -1,0 +1,410 @@
+{
+  "runTime": 1709217275811,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2119869,
+        "num": 2119869,
+        "word": "点读机女孩自称患罕见脑瘤",
+        "onboard_time": 1709214034,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1450384,
+        "num": 1450384,
+        "word": "郭麒麟胖了",
+        "onboard_time": 1709213196,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24258,
+        "num": 1290680,
+        "word": "微观两会",
+        "onboard_time": 1709194052,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1270034,
+        "num": 1270034,
+        "word": "曹璐回应落选浪姐",
+        "onboard_time": 1709215296,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 948775,
+        "num": 948775,
+        "word": "花少团真的去了秦岚家",
+        "onboard_time": 1709215898,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2918460,
+        "num": 940352,
+        "word": "福建泉州发生命案",
+        "onboard_time": 1709212413,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880183,
+        "num": 880183,
+        "word": "PDD",
+        "onboard_time": 1709204553,
+        "rank": 6,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 864682,
+        "num": 864682,
+        "word": "苗苗最新状态",
+        "onboard_time": 1709213554,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 707181,
+        "num": 707181,
+        "word": "泰国男子寺庙闹事意外被佛像刺死",
+        "onboard_time": 1709200290,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 562926,
+        "num": 562926,
+        "word": "王力宏点赞十几年前和宗庆后合照微博",
+        "onboard_time": 1709206592,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612136,
+        "num": 552006,
+        "word": "县城一中到底有多重要",
+        "onboard_time": 1709214998,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 531600,
+        "num": 531600,
+        "word": "3月十二星座注意事项",
+        "onboard_time": 1709214218,
+        "rank": 11,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 517506,
+        "num": 517506,
+        "word": "朱丹也来浪姐了",
+        "onboard_time": 1709214336,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491074,
+        "num": 491074,
+        "word": "苏醒 这么多年还是想先淘汰我",
+        "onboard_time": 1709214578,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477875,
+        "num": 477875,
+        "word": "韩国人吃玉米芯",
+        "onboard_time": 1709209115,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 409102,
+        "num": 409102,
+        "word": "南北走位",
+        "onboard_time": 1709212413,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392499,
+        "num": 392499,
+        "word": "小团团",
+        "onboard_time": 1709200170,
+        "rank": 16,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 390651,
+        "num": 390651,
+        "word": "马天宇为女教师殴打学生事件发声",
+        "onboard_time": 1709199691,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371741,
+        "num": 371741,
+        "word": "南波万好吵",
+        "onboard_time": 1709206895,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340855,
+        "num": 340855,
+        "word": "女子吐槽花1588元请跟拍成片太草率",
+        "onboard_time": 1709209953,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953339,
+        "num": 336623,
+        "word": "永远别去碰谈了三四年恋爱的人",
+        "onboard_time": 1709215296,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 655890,
+        "num": 334228,
+        "word": "教育局回应50岁班主任和学生谈恋爱",
+        "onboard_time": 1709207014,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349491,
+        "num": 332814,
+        "word": "唐嫣耳环好大",
+        "onboard_time": 1709214936,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331161,
+        "num": 331161,
+        "word": "唐人街探案",
+        "onboard_time": 1709208936,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306546,
+        "num": 306546,
+        "word": "好朋友忘了我的亲人去世了",
+        "onboard_time": 1709204855,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268655,
+        "num": 268655,
+        "word": "杨幂下车神图",
+        "onboard_time": 1709210915,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254154,
+        "num": 254154,
+        "word": "浪姐官博回复李溪芮",
+        "onboard_time": 1709202992,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246195,
+        "num": 246195,
+        "word": "林高远 四年后的你会怎样",
+        "onboard_time": 1709215296,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242359,
+        "num": 242359,
+        "word": "小团团前公会已成被执行人",
+        "onboard_time": 1709215235,
+        "rank": 28,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 127375,
+        "num": 241425,
+        "word": "钱塘江退潮露出龙形潮汐树",
+        "onboard_time": 1709216075,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241049,
+        "num": 241049,
+        "word": "周处除三害看得好爽",
+        "onboard_time": 1709215115,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229963,
+        "num": 229963,
+        "word": "WBG对战AL",
+        "onboard_time": 1709216919,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 228751,
+        "num": 228751,
+        "word": "KSG战胜AG",
+        "onboard_time": 1709216561,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 229392,
+        "num": 228507,
+        "word": "湖南天门山景区有人跳崖",
+        "onboard_time": 1709213797,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225633,
+        "num": 225633,
+        "word": "手机电池不喜欢100%的饱和状态",
+        "onboard_time": 1709192971,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212304,
+        "num": 212304,
+        "word": "侃爷妻子或因穿着暴露坐牢",
+        "onboard_time": 1709185773,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206223,
+        "num": 206223,
+        "word": "文韬嗑瓜子",
+        "onboard_time": 1709211453,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205242,
+        "num": 205242,
+        "word": "老师粗暴对学生涉事学校校长被免职",
+        "onboard_time": 1709201133,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198194,
+        "num": 198194,
+        "word": "工作一年半我是如何攒下一千九的",
+        "onboard_time": 1709211513,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196736,
+        "num": 196736,
+        "word": "伞兵2000淘汰",
+        "onboard_time": 1709216318,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194424,
+        "num": 194424,
+        "word": "点读机女孩剃发",
+        "onboard_time": 1709216978,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192862,
+        "num": 192862,
+        "word": "烟火人家大结局",
+        "onboard_time": 1709211814,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180350,
+        "num": 180350,
+        "word": "曹璐 没来浪姐",
+        "onboard_time": 1709201853,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171081,
+        "num": 171081,
+        "word": "朴炯植最喜欢任时完",
+        "onboard_time": 1709210193,
+        "rank": 43,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 170909,
+        "num": 170909,
+        "word": "张雨绮四年还没找到排队的人",
+        "onboard_time": 1709212836,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167343,
+        "num": 167343,
+        "word": "周鸿祎演示产品时服务器被挤爆",
+        "onboard_time": 1709216620,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160421,
+        "num": 160421,
+        "word": "浪姐路透",
+        "onboard_time": 1709198012,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157366,
+        "num": 157366,
+        "word": "AG对战KSG",
+        "onboard_time": 1709212836,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151739,
+        "num": 151739,
+        "word": "NEWJEANS官宣北京签售",
+        "onboard_time": 1709206472,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151258,
+        "num": 151258,
+        "word": "蒲熠星好帅",
+        "onboard_time": 1709207255,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#当好中国式现代化建设坚定行动派实干家#"
+    }
+  }
+}
