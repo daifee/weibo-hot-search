@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1709195662520,
+  "endTime": 1709198284054,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2467,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1975391,
+      "num": 1975391,
+      "word": "手机电池不喜欢100%的饱和状态",
+      "onboard_time": 1709192971,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1974704,
       "num": 1974704,
       "word": "周五爆改周四",
@@ -3611,14 +3619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1641310,
-      "num": 1641310,
-      "word": "手机电池不喜欢100%的饱和状态",
-      "onboard_time": 1709192971,
-      "rank": 3,
-      "category": "数码"
-    },
-    {
       "raw_hot": 1639551,
       "num": 1075496,
       "word": "郑爽绝密者服务费1.2亿",
@@ -4625,6 +4625,14 @@
       "onboard_time": 1707979830,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1430588,
+      "num": 1430588,
+      "word": "京东物流被曝将招聘上万人",
+      "onboard_time": 1709193870,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 1429822,
@@ -7937,6 +7945,14 @@
       "onboard_time": 1708653096,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1025274,
+      "num": 1025274,
+      "word": "汪峰女儿小苹果晒留学照",
+      "onboard_time": 1709196631,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1024253,
@@ -13443,14 +13459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 710089,
-      "num": 710089,
-      "word": "京东物流被曝将招聘上万人",
-      "onboard_time": 1709193870,
-      "rank": 13,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 708848,
       "num": 708848,
       "word": "亲爱的她确认引进内地",
@@ -15321,6 +15329,14 @@
       "onboard_time": 1707107012,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 639497,
+      "num": 639497,
+      "word": "任泉回应街头拥抱陌生人",
+      "onboard_time": 1709193690,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 639405,
@@ -19507,14 +19523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 524551,
-      "num": 524551,
-      "word": "任泉回应街头拥抱陌生人",
-      "onboard_time": 1709193690,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 524370,
       "num": 524370,
       "word": "王楚钦vs张禹珍",
@@ -22851,6 +22859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 448287,
+      "num": 448287,
+      "word": "4种食物是升糖大户尽量少吃",
+      "onboard_time": 1709186372,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 448056,
       "num": 355602,
       "word": "老板不在 全部乱卖",
@@ -23569,6 +23585,14 @@
       "onboard_time": 1707473673,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434725,
+      "num": 178174,
+      "word": "日食记 锅塌茄子",
+      "onboard_time": 1709196210,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 434696,
@@ -25139,6 +25163,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 407992,
+      "num": 177345,
+      "word": "中共中央政治局召开会议",
+      "onboard_time": 1709196871,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 407883,
       "num": 407883,
       "word": "想缴偶然所得税",
@@ -25289,14 +25321,6 @@
       "onboard_time": 1707019468,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 405118,
-      "num": 405118,
-      "word": "4种食物是升糖大户尽量少吃",
-      "onboard_time": 1709186372,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 405082,
@@ -29811,6 +29835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332802,
+      "num": 332802,
+      "word": "被我弄丢的你",
+      "onboard_time": 1709195374,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 332745,
       "num": 228154,
       "word": "妈妈的对方正在输入",
@@ -30193,6 +30225,14 @@
       "onboard_time": 1708145912,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328006,
+      "num": 234087,
+      "word": "花10万把老家房子改造了",
+      "onboard_time": 1709197651,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 327965,
@@ -32577,6 +32617,14 @@
       "onboard_time": 1708617990,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 301240,
+      "num": 301240,
+      "word": "IU汤唯贴贴",
+      "onboard_time": 1709197351,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 301211,
@@ -36457,6 +36505,14 @@
       "onboard_time": 1708140271,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265936,
+      "num": 265936,
+      "word": "王牛 抢票",
+      "onboard_time": 1708763552,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 265883,
@@ -41099,6 +41155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 232973,
+      "num": 232973,
+      "word": "陈都灵线下活动",
+      "onboard_time": 1709197052,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232967,
       "num": 232967,
       "word": "贾玲张小斐CP名",
@@ -43331,6 +43395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 220678,
+      "num": 220678,
+      "word": "浪姐路透",
+      "onboard_time": 1709198012,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220655,
       "num": 181587,
       "word": "马龙晒国乒除夕合影",
@@ -44265,6 +44337,14 @@
       "onboard_time": 1709053644,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 216200,
+      "num": 1237996,
+      "word": "2023中国科学十大进展公布",
+      "onboard_time": 1709194533,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 216162,
@@ -47275,14 +47355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203544,
-      "num": 203544,
-      "word": "王牛 抢票",
-      "onboard_time": 1708763552,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 203512,
       "num": 165324,
       "word": "不敢让自己太爽",
@@ -49972,7 +50044,7 @@
     },
     {
       "raw_hot": 194423,
-      "num": 172535,
+      "num": 173418,
       "word": "网剧飞驰人生 胡先煦腾化",
       "onboard_time": 1709195134,
       "rank": 30,
@@ -51137,6 +51209,14 @@
       "onboard_time": 1708056390,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191003,
+      "num": 191003,
+      "word": "当国产手机走出国门",
+      "onboard_time": 1709197651,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 190997,
@@ -52939,14 +53019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 184727,
-      "num": 184727,
-      "word": "被我弄丢的你",
-      "onboard_time": 1709195374,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 184718,
       "num": 184718,
       "word": "鱼 没想到还能用上智能家居",
@@ -53009,6 +53081,14 @@
       "onboard_time": 1708439081,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184436,
+      "num": 173635,
+      "word": "小鹏汽车撞到交通标志翻转起火",
+      "onboard_time": 1709198191,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184399,
@@ -60187,6 +60267,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 158582,
+      "num": 158582,
+      "word": "侵权杨颖商家被执行10万",
+      "onboard_time": 1709195730,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158554,
       "num": 158554,
       "word": "张敏55岁状态",
@@ -66851,6 +66939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135700,
+      "num": 135700,
+      "word": "檀健次首映现场鼓励粉丝",
+      "onboard_time": 1709197952,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135612,
       "num": 135612,
       "word": "多家地方卫视春晚已上演科目三",
@@ -67835,14 +67931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132016,
-      "num": 1159999,
-      "word": "2023中国科学十大进展公布",
-      "onboard_time": 1709194533,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 132007,
       "num": 132007,
       "word": "尹正 希望大家新年都有劲儿",
@@ -68337,6 +68425,14 @@
       "onboard_time": 1707281312,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130100,
+      "num": 130100,
+      "word": "许诺回归TTG",
+      "onboard_time": 1709197113,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 130074,
@@ -73323,6 +73419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107030,
+      "num": 107030,
+      "word": "FPX对战NIP",
+      "onboard_time": 1709196333,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107006,
       "num": 107006,
       "word": "林亦扬殷果终于亲了",
@@ -76113,6 +76217,14 @@
       "onboard_time": 1709111973,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69702,
+      "num": 175366,
+      "word": "首例厂商担责的无人驾驶功能",
+      "onboard_time": 1709197651,
+      "rank": 32,
+      "category": "汽车"
     },
     {
       "raw_hot": 69460,
