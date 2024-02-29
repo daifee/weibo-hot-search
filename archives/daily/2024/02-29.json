@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709205322550,
+  "endTime": 1709206855766,
   "band_list": [
     {
       "raw_hot": 3110421,
@@ -57,6 +57,14 @@
       "onboard_time": 1709190751,
       "rank": 11,
       "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 1999454,
+      "num": 1999454,
+      "word": "PDD",
+      "onboard_time": 1709204553,
+      "rank": 7,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1975391,
@@ -171,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1064185,
+      "num": 1064185,
+      "word": "浪姐官博回复李溪芮",
+      "onboard_time": 1709202992,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1058967,
       "num": 1058967,
       "word": "汪峰女儿小苹果晒留学照",
@@ -200,14 +216,6 @@
       "word": "刘忻 浪姐",
       "onboard_time": 1709186553,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 912068,
-      "num": 912068,
-      "word": "浪姐官博回复李溪芮",
-      "onboard_time": 1709202992,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -297,14 +305,6 @@
       "onboard_time": 1709163327,
       "rank": 7,
       "category": "运动健身,艺人"
-    },
-    {
-      "raw_hot": 712023,
-      "num": 712023,
-      "word": "PDD",
-      "onboard_time": 1709204553,
-      "rank": 7,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 703964,
@@ -708,7 +708,7 @@
     },
     {
       "raw_hot": 376878,
-      "num": 186096,
+      "num": 232614,
       "word": "好朋友忘了我的亲人去世了",
       "onboard_time": 1709204855,
       "rank": 30,
@@ -763,6 +763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 363915,
+      "num": 149987,
+      "word": "魅族发布会",
+      "onboard_time": 1709205513,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 359512,
       "num": 359512,
       "word": "专家建议给部分70后80后养老金补偿",
@@ -801,6 +809,14 @@
       "onboard_time": 1709173472,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346577,
+      "num": 296546,
+      "word": "为什么HR老问是否是独生子女",
+      "onboard_time": 1709204553,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 342269,
@@ -899,6 +915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 310132,
+      "num": 310132,
+      "word": "王力宏点赞十几年前和宗庆后合照微博",
+      "onboard_time": 1709206592,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308735,
       "num": 308735,
       "word": "杨谨华真的来了",
@@ -921,14 +945,6 @@
       "onboard_time": 1709181756,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 296546,
-      "num": 296546,
-      "word": "为什么HR老问是否是独生子女",
-      "onboard_time": 1709204553,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 291032,
@@ -963,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277672,
+      "num": 228180,
+      "word": "女子网购金戒指一称克重还多了0.4",
+      "onboard_time": 1709204493,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275944,
       "num": 275944,
       "word": "蒲熠星 吃饭是我的人类学调查方式",
@@ -993,6 +1017,14 @@
       "onboard_time": 1709121274,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269932,
+      "num": 777025,
+      "word": "女子为母亲销户泪崩民警帮其找出旧照",
+      "onboard_time": 1709200231,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268793,
@@ -1097,14 +1129,6 @@
       "onboard_time": 1709172690,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 253081,
-      "num": 777025,
-      "word": "女子为母亲销户泪崩民警帮其找出旧照",
-      "onboard_time": 1709200231,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250254,
@@ -1355,6 +1379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209603,
+      "num": 209603,
+      "word": "齐思钧看超话",
+      "onboard_time": 1709206532,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205582,
       "num": 205582,
       "word": "朴彩英水原希子合照",
@@ -1467,6 +1499,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 196007,
+      "num": 196007,
+      "word": "低丸子头发型",
+      "onboard_time": 1709202992,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 195392,
       "num": 195392,
       "word": "陈楚生武汉抢票",
@@ -1515,12 +1555,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 192270,
+      "num": 192270,
+      "word": "eStar战胜BOA",
+      "onboard_time": 1709206592,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192189,
       "num": 192189,
       "word": "维生素真的不要随便补",
       "onboard_time": 1709162305,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 191179,
+      "num": 191179,
+      "word": "甄嬛版上春山",
+      "onboard_time": 1709205214,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 191173,
@@ -1561,6 +1617,14 @@
       "onboard_time": 1709180435,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189337,
+      "num": 189337,
+      "word": "NEWJEANS官宣北京签售",
+      "onboard_time": 1709206472,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 188770,
@@ -1611,14 +1675,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 185523,
-      "num": 185523,
-      "word": "女子网购金戒指一称克重还多了0.4",
-      "onboard_time": 1709204493,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184280,
       "num": 184280,
       "word": "湖人vs快船",
@@ -1667,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181516,
+      "num": 518803,
+      "word": "7名高中生合力救火太帅了",
+      "onboard_time": 1709205815,
+      "rank": 8,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 180603,
       "num": 180603,
       "word": "EA将裁员5%",
@@ -1697,14 +1761,6 @@
       "onboard_time": 1709195730,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179532,
-      "num": 179532,
-      "word": "低丸子头发型",
-      "onboard_time": 1709202992,
-      "rank": 33,
-      "category": "美妆"
     },
     {
       "raw_hot": 178560,
@@ -2075,6 +2131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142012,
+      "num": 142012,
+      "word": "夏之光横店煮茶vlog",
+      "onboard_time": 1709205992,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141910,
       "num": 141910,
       "word": "在吃上质疑理解成为我妈",
@@ -2105,6 +2169,14 @@
       "onboard_time": 1709202214,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 139616,
+      "num": 139616,
+      "word": "前田敦子 浪姐",
+      "onboard_time": 1709206713,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 139445,
@@ -2187,6 +2259,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 131855,
+      "num": 131855,
+      "word": "小熊猫啃同伴",
+      "onboard_time": 1709205992,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131271,
       "num": 131271,
       "word": "网球王子 不二周助",
@@ -2211,6 +2291,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 130299,
+      "num": 130299,
+      "word": "妈妈做的最后一块猪脚",
+      "onboard_time": 1709205633,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130100,
       "num": 130100,
       "word": "许诺回归TTG",
@@ -2225,6 +2313,14 @@
       "onboard_time": 1709167954,
       "rank": 46,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 127007,
+      "num": 127007,
+      "word": "TWICE舞台",
+      "onboard_time": 1709206773,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 126882,
@@ -2307,14 +2403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119042,
-      "num": 119042,
-      "word": "甄嬛版上春山",
-      "onboard_time": 1709205214,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 118504,
       "num": 118504,
       "word": "5个动作改善富贵包",
@@ -2363,6 +2451,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 116734,
+      "num": 116734,
+      "word": "半导体大涨还能上车吗",
+      "onboard_time": 1709206173,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 115773,
       "num": 115773,
       "word": "挖呀挖黄老师回应被造黄谣称已报警",
@@ -2408,6 +2504,14 @@
       "word": "开始推理吧2",
       "onboard_time": 1709129798,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 113290,
+      "num": 113290,
+      "word": "曾沛慈到底来不来",
+      "onboard_time": 1709206773,
+      "rank": 49,
       "category": "综艺"
     },
     {

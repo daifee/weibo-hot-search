@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1709205322550,
+  "endTime": 1709206855766,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -2409,6 +2409,14 @@
       "onboard_time": 1707820477,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1999454,
+      "num": 1999454,
+      "word": "PDD",
+      "onboard_time": 1709204553,
+      "rank": 7,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 1997449,
@@ -7627,6 +7635,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1064185,
+      "num": 1064185,
+      "word": "浪姐官博回复李溪芮",
+      "onboard_time": 1709202992,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1063811,
       "num": 1063811,
       "word": "门票260元的山姆成南通最热景区",
@@ -9392,14 +9408,6 @@
       "word": "苏醒瘦了好多",
       "onboard_time": 1707487283,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 912068,
-      "num": 912068,
-      "word": "浪姐官博回复李溪芮",
-      "onboard_time": 1709202992,
-      "rank": 5,
       "category": "综艺"
     },
     {
@@ -13473,14 +13481,6 @@
       "onboard_time": 1708063053,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 712023,
-      "num": 712023,
-      "word": "PDD",
-      "onboard_time": 1709204553,
-      "rank": 7,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 711762,
@@ -27076,7 +27076,7 @@
     },
     {
       "raw_hot": 376878,
-      "num": 186096,
+      "num": 232614,
       "word": "好朋友忘了我的亲人去世了",
       "onboard_time": 1709204855,
       "rank": 30,
@@ -28065,6 +28065,14 @@
       "onboard_time": 1707586462,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 363915,
+      "num": 149987,
+      "word": "魅族发布会",
+      "onboard_time": 1709205513,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 363745,
@@ -29177,6 +29185,14 @@
       "onboard_time": 1707267688,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 346577,
+      "num": 296546,
+      "word": "为什么HR老问是否是独生子女",
+      "onboard_time": 1709204553,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 346514,
@@ -31867,6 +31883,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 310132,
+      "num": 310132,
+      "word": "王力宏点赞十几年前和宗庆后合照微博",
+      "onboard_time": 1709206592,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310085,
       "num": 310085,
       "word": "男子嫌老婆花钱多看到购物袋后破防",
@@ -33177,14 +33201,6 @@
       "onboard_time": 1707462449,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 296546,
-      "num": 296546,
-      "word": "为什么HR老问是否是独生子女",
-      "onboard_time": 1709204553,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 296393,
@@ -35243,6 +35259,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 277672,
+      "num": 228180,
+      "word": "女子网购金戒指一称克重还多了0.4",
+      "onboard_time": 1709204493,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277624,
       "num": 277624,
       "word": "叶子咬住了花花的大脸",
@@ -36192,6 +36216,14 @@
       "word": "警方回应男子跨省遗弃亲生父亲",
       "onboard_time": 1707696988,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269932,
+      "num": 777025,
+      "word": "女子为母亲销户泪崩民警帮其找出旧照",
+      "onboard_time": 1709200231,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -38265,14 +38297,6 @@
       "onboard_time": 1707372991,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 253081,
-      "num": 777025,
-      "word": "女子为母亲销户泪崩民警帮其找出旧照",
-      "onboard_time": 1709200231,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253041,
@@ -45843,6 +45867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209603,
+      "num": 209603,
+      "word": "齐思钧看超话",
+      "onboard_time": 1709206532,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209554,
       "num": 209554,
       "word": "哈尔的移动城堡定档",
@@ -49779,6 +49811,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 196007,
+      "num": 196007,
+      "word": "低丸子头发型",
+      "onboard_time": 1709202992,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 195993,
       "num": 195993,
       "word": "约旦2比0韩国",
@@ -51027,6 +51067,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 192270,
+      "num": 192270,
+      "word": "eStar战胜BOA",
+      "onboard_time": 1709206592,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192259,
       "num": 192259,
       "word": "杰伦布朗是懂人情世故的",
@@ -51329,6 +51377,14 @@
       "onboard_time": 1708476695,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 191179,
+      "num": 191179,
+      "word": "甄嬛版上春山",
+      "onboard_time": 1709205214,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 191176,
@@ -52017,6 +52073,14 @@
       "onboard_time": 1708262616,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189337,
+      "num": 189337,
+      "word": "NEWJEANS官宣北京签售",
+      "onboard_time": 1709206472,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 189233,
@@ -53051,14 +53115,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 185523,
-      "num": 185523,
-      "word": "女子网购金戒指一称克重还多了0.4",
-      "onboard_time": 1709204493,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185487,
       "num": 185487,
       "word": "中国队时隔9年再夺100自金牌",
@@ -54091,6 +54147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181516,
+      "num": 518803,
+      "word": "7名高中生合力救火太帅了",
+      "onboard_time": 1709205815,
+      "rank": 8,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 181506,
       "num": 181506,
       "word": "EDG春季赛六连败",
@@ -54537,14 +54601,6 @@
       "onboard_time": 1708349804,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179532,
-      "num": 179532,
-      "word": "低丸子头发型",
-      "onboard_time": 1709202992,
-      "rank": 33,
-      "category": "美妆"
     },
     {
       "raw_hot": 179505,
@@ -65403,6 +65459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142012,
+      "num": 142012,
+      "word": "夏之光横店煮茶vlog",
+      "onboard_time": 1709205992,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141997,
       "num": 141997,
       "word": "为什么嗑瓜子会越嗑越多",
@@ -66081,6 +66145,14 @@
       "onboard_time": 1707975690,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139616,
+      "num": 139616,
+      "word": "前田敦子 浪姐",
+      "onboard_time": 1709206713,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 139547,
@@ -68259,6 +68331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 131855,
+      "num": 131855,
+      "word": "小熊猫啃同伴",
+      "onboard_time": 1709205992,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131779,
       "num": 131779,
       "word": "参加多人视频会议只有自己是真人",
@@ -68657,6 +68737,14 @@
       "onboard_time": 1707369213,
       "rank": 47,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 130299,
+      "num": 130299,
+      "word": "妈妈做的最后一块猪脚",
+      "onboard_time": 1709205633,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 130292,
@@ -69513,6 +69601,14 @@
       "onboard_time": 1708177896,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127007,
+      "num": 127007,
+      "word": "TWICE舞台",
+      "onboard_time": 1709206773,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 126991,
@@ -71475,14 +71571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119042,
-      "num": 119042,
-      "word": "甄嬛版上春山",
-      "onboard_time": 1709205214,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 118970,
       "num": 118970,
       "word": "萧敬腾林有慧大露背预告",
@@ -71937,6 +72025,14 @@
       "onboard_time": 1706775628,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116734,
+      "num": 116734,
+      "word": "半导体大涨还能上车吗",
+      "onboard_time": 1709206173,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 116713,
@@ -72569,6 +72665,14 @@
       "onboard_time": 1707812316,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 113290,
+      "num": 113290,
+      "word": "曾沛慈到底来不来",
+      "onboard_time": 1709206773,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 113273,

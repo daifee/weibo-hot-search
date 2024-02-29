@@ -1,0 +1,410 @@
+{
+  "runTime": 1709206855766,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2078492,
+        "num": 2078492,
+        "word": "小团团",
+        "onboard_time": 1709200170,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 1999454,
+        "num": 1999454,
+        "word": "PDD",
+        "onboard_time": 1709204553,
+        "rank": 1,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 95025,
+        "num": 1414200,
+        "word": "2023中国科学十大进展公布",
+        "onboard_time": 1709194533,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1064185,
+        "num": 1064185,
+        "word": "浪姐官博回复李溪芮",
+        "onboard_time": 1709202992,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1396239,
+        "num": 1006496,
+        "word": "马天宇为女教师殴打学生事件发声",
+        "onboard_time": 1709199691,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 924708,
+        "num": 924708,
+        "word": "泰国男子寺庙闹事意外被佛像刺死",
+        "onboard_time": 1709200290,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 520000,
+        "num": 520000,
+        "word": "曹璐 没来浪姐",
+        "onboard_time": 1709201853,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 703595,
+        "num": 519748,
+        "word": "老师粗暴对学生涉事学校校长被免职",
+        "onboard_time": 1709201133,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181516,
+        "num": 518803,
+        "word": "7名高中生合力救火太帅了",
+        "onboard_time": 1709205815,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 269932,
+        "num": 518779,
+        "word": "女子为母亲销户泪崩民警帮其找出旧照",
+        "onboard_time": 1709200231,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518777,
+        "num": 518777,
+        "word": "斗鱼主播",
+        "onboard_time": 1709203655,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 390976,
+        "num": 390976,
+        "word": "侃爷妻子或因穿着暴露坐牢",
+        "onboard_time": 1709185773,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388005,
+        "num": 388005,
+        "word": "手机电池不喜欢100%的饱和状态",
+        "onboard_time": 1709192971,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 382920,
+        "num": 382920,
+        "word": "武汉大学 莞莞类卿",
+        "onboard_time": 1709190751,
+        "rank": 13,
+        "category": "教育,幽默"
+      },
+      {
+        "raw_hot": 326328,
+        "num": 326328,
+        "word": "汪峰女儿小苹果晒留学照",
+        "onboard_time": 1709196631,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310132,
+        "num": 310132,
+        "word": "王力宏点赞十几年前和宗庆后合照微博",
+        "onboard_time": 1709206592,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300700,
+        "num": 300700,
+        "word": "景天爆改邪剑仙",
+        "onboard_time": 1709199573,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299776,
+        "num": 299776,
+        "word": "陈昊宇浪姐路透",
+        "onboard_time": 1709203712,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245114,
+        "num": 245114,
+        "word": "京东物流被曝将招聘上万人",
+        "onboard_time": 1709193870,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 238756,
+        "num": 238756,
+        "word": "宁艺卓北京",
+        "onboard_time": 1709200413,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346577,
+        "num": 237147,
+        "word": "为什么HR老问是否是独生子女",
+        "onboard_time": 1709204553,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 336328,
+        "num": 232614,
+        "word": "好朋友忘了我的亲人去世了",
+        "onboard_time": 1709204855,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277672,
+        "num": 228180,
+        "word": "女子网购金戒指一称克重还多了0.4",
+        "onboard_time": 1709204493,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222591,
+        "num": 222591,
+        "word": "浪姐路透",
+        "onboard_time": 1709198012,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219403,
+        "num": 219403,
+        "word": "原来四年过一次生日也是一种幸福",
+        "onboard_time": 1709201613,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209603,
+        "num": 209603,
+        "word": "齐思钧看超话",
+        "onboard_time": 1709206532,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196007,
+        "num": 196007,
+        "word": "低丸子头发型",
+        "onboard_time": 1709202992,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 192781,
+        "num": 192781,
+        "word": "日食记 锅塌茄子",
+        "onboard_time": 1709196210,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192270,
+        "num": 192270,
+        "word": "eStar战胜BOA",
+        "onboard_time": 1709206592,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167177,
+        "num": 191408,
+        "word": "小鹏汽车撞到交通标志翻转起火",
+        "onboard_time": 1709198191,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191179,
+        "num": 191179,
+        "word": "甄嬛版上春山",
+        "onboard_time": 1709205214,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189337,
+        "num": 189337,
+        "word": "NEWJEANS官宣北京签售",
+        "onboard_time": 1709206472,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184693,
+        "num": 184693,
+        "word": "何洁录制浪姐",
+        "onboard_time": 1709198793,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176691,
+        "num": 176691,
+        "word": "iPhone15官旗全系降至历史最低价",
+        "onboard_time": 1709186012,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169195,
+        "num": 169195,
+        "word": "刘忻 浪姐",
+        "onboard_time": 1709186553,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163662,
+        "num": 163662,
+        "word": "港剧是懂女性痛经的",
+        "onboard_time": 1709190151,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152428,
+        "num": 152428,
+        "word": "杨谨华真的来了",
+        "onboard_time": 1709200713,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363915,
+        "num": 149987,
+        "word": "魅族发布会",
+        "onboard_time": 1709205513,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142169,
+        "num": 142169,
+        "word": "这是侍郎还是舞娘",
+        "onboard_time": 1709204792,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138867,
+        "num": 142051,
+        "word": "最新居民收入五档划分",
+        "onboard_time": 1709201613,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142012,
+        "num": 142012,
+        "word": "夏之光横店煮茶vlog",
+        "onboard_time": 1709205992,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139616,
+        "num": 139616,
+        "word": "前田敦子 浪姐",
+        "onboard_time": 1709206713,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131861,
+        "num": 131861,
+        "word": "公安介入调查女教师殴打学生",
+        "onboard_time": 1709198492,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131855,
+        "num": 131855,
+        "word": "小熊猫啃同伴",
+        "onboard_time": 1709205992,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130299,
+        "num": 130299,
+        "word": "妈妈做的最后一块猪脚",
+        "onboard_time": 1709205633,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127007,
+        "num": 127007,
+        "word": "TWICE舞台",
+        "onboard_time": 1709206773,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125197,
+        "num": 125197,
+        "word": "邓为上海活动人气",
+        "onboard_time": 1709198433,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116734,
+        "num": 116734,
+        "word": "半导体大涨还能上车吗",
+        "onboard_time": 1709206173,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114128,
+        "num": 114128,
+        "word": "咒术回战 宿傩还没动真格",
+        "onboard_time": 1709204253,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 113290,
+        "num": 113290,
+        "word": "曾沛慈到底来不来",
+        "onboard_time": 1709206773,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中塞关系堪称中非团结合作的典范#"
+    }
+  }
+}
