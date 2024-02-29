@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709224511243,
+  "endTime": 1709226935792,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -3513,6 +3513,14 @@
       "onboard_time": 1708848570,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 534875,
+      "num": 534875,
+      "word": "终于知道魏大勋好人缘是怎么来的",
+      "onboard_time": 1709223507,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 534702,
@@ -7995,14 +8003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226675,
-      "num": 226675,
-      "word": "终于知道魏大勋好人缘是怎么来的",
-      "onboard_time": 1709223507,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 226465,
       "num": 226465,
       "word": "沈梦辰回复杨迪",
@@ -8697,6 +8697,14 @@
       "onboard_time": 1708826436,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208252,
+      "num": 208252,
+      "word": "赵露思女友感",
+      "onboard_time": 1709224946,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 207586,
@@ -13267,6 +13275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120911,
+      "num": 120911,
+      "word": "宁艺卓的鞋大了",
+      "onboard_time": 1709224166,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120850,
       "num": 120850,
       "word": "当你养了一只无比粘人的橘猫幼崽",
@@ -13555,6 +13571,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 112918,
+      "num": 95589,
+      "word": "戚薇不去浪姐",
+      "onboard_time": 1709224350,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112736,
       "num": 112736,
       "word": "肖战包先生合照",
@@ -13569,14 +13593,6 @@
       "onboard_time": 1709042853,
       "rank": 46,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 112275,
-      "num": 112275,
-      "word": "宁艺卓的鞋大了",
-      "onboard_time": 1709224166,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 112178,
@@ -13875,14 +13891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 91161,
-      "num": 91161,
-      "word": "戚薇不去浪姐",
-      "onboard_time": 1709224350,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 90784,
       "num": 416809,
       "word": "没想到中国AI狂飙到海外了",
@@ -13953,6 +13961,14 @@
       "onboard_time": 1708866758,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 79547,
+      "num": 79547,
+      "word": "成都春熙路天桥上长满了浪漫",
+      "onboard_time": 1709223868,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 78764,
@@ -14081,14 +14097,6 @@
       "onboard_time": 1709114974,
       "rank": 33,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 71593,
-      "num": 73804,
-      "word": "成都春熙路天桥上长满了浪漫",
-      "onboard_time": 1709223868,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 71264,
@@ -14409,6 +14417,14 @@
       "onboard_time": 1709097213,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40101,
+      "num": 48055,
+      "word": "小狗耳朵都放下来了",
+      "onboard_time": 1709226925,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 38924,

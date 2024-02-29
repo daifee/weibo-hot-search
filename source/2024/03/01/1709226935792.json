@@ -1,0 +1,410 @@
+{
+  "runTime": 1709226935792,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 534875,
+        "num": 534875,
+        "word": "终于知道魏大勋好人缘是怎么来的",
+        "onboard_time": 1709223507,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 358526,
+        "num": 358526,
+        "word": "韩国医生若辞职须立刻入伍",
+        "onboard_time": 1709219257,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4204,
+        "num": 331639,
+        "word": "微观两会",
+        "onboard_time": 1709194052,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 448124,
+        "num": 325912,
+        "word": "PDD",
+        "onboard_time": 1709204553,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 314252,
+        "num": 314252,
+        "word": "花少团真的去了秦岚家",
+        "onboard_time": 1709215898,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286003,
+        "num": 286003,
+        "word": "泰国男子寺庙闹事意外被佛像刺死",
+        "onboard_time": 1709200290,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 253668,
+        "num": 253668,
+        "word": "陈靖可曾因外貌遭校园暴力",
+        "onboard_time": 1709222071,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222628,
+        "num": 222628,
+        "word": "瘦腿突然就不难了",
+        "onboard_time": 1709220872,
+        "rank": 7,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 212933,
+        "num": 212933,
+        "word": "郭麒麟胖了",
+        "onboard_time": 1709213196,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208252,
+        "num": 208252,
+        "word": "赵露思女友感",
+        "onboard_time": 1709224946,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208236,
+        "num": 208236,
+        "word": "曹璐回应落选浪姐",
+        "onboard_time": 1709215296,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202194,
+        "num": 202194,
+        "word": "县城一中到底有多重要",
+        "onboard_time": 1709214998,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 193627,
+        "num": 193627,
+        "word": "小团团",
+        "onboard_time": 1709200170,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 168042,
+        "num": 168042,
+        "word": "王力宏点赞十几年前和宗庆后合照微博",
+        "onboard_time": 1709206592,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156128,
+        "num": 156128,
+        "word": "朱珠女儿近照",
+        "onboard_time": 1709217576,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151172,
+        "num": 151172,
+        "word": "涵艺爆料Doinb停播原因",
+        "onboard_time": 1709218657,
+        "rank": 15,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 150294,
+        "num": 150294,
+        "word": "点读机女孩自称患罕见脑瘤",
+        "onboard_time": 1709214034,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139284,
+        "num": 139284,
+        "word": "苗苗最新状态",
+        "onboard_time": 1709213554,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120911,
+        "num": 120911,
+        "word": "宁艺卓的鞋大了",
+        "onboard_time": 1709224166,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102688,
+        "num": 102688,
+        "word": "米店日",
+        "onboard_time": 1709218836,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145157,
+        "num": 99427,
+        "word": "阿莫西林仅适用于5种病症",
+        "onboard_time": 1709220036,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142804,
+        "num": 96747,
+        "word": "永远别去碰谈了三四年恋爱的人",
+        "onboard_time": 1709215296,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112918,
+        "num": 95589,
+        "word": "戚薇不去浪姐",
+        "onboard_time": 1709224350,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107852,
+        "num": 90918,
+        "word": "声入人心团综",
+        "onboard_time": 1709219616,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106932,
+        "num": 86836,
+        "word": "教育局回应50岁班主任和学生谈恋爱",
+        "onboard_time": 1709207014,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85469,
+        "num": 85469,
+        "word": "浪姐官博回复李溪芮",
+        "onboard_time": 1709202992,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83795,
+        "num": 83795,
+        "word": "今天不发朋友圈又得等四年",
+        "onboard_time": 1709218178,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83532,
+        "num": 83532,
+        "word": "马天宇为女教师殴打学生事件发声",
+        "onboard_time": 1709199691,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62658,
+        "num": 83277,
+        "word": "三菱铅笔收购德国LAMY钢笔",
+        "onboard_time": 1709221770,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 62061,
+        "num": 83135,
+        "word": "女子吐槽花1588元请跟拍成片太草率",
+        "onboard_time": 1709209953,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83073,
+        "num": 83073,
+        "word": "小团团前公会已成被执行人",
+        "onboard_time": 1709215235,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 79547,
+        "num": 79547,
+        "word": "成都春熙路天桥上长满了浪漫",
+        "onboard_time": 1709223868,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 75047,
+        "num": 75047,
+        "word": "3月十二星座注意事项",
+        "onboard_time": 1709214218,
+        "rank": 32,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 74198,
+        "num": 74198,
+        "word": "朱丹也来浪姐了",
+        "onboard_time": 1709214336,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62192,
+        "num": 62192,
+        "word": "韩国人吃玉米芯",
+        "onboard_time": 1709209115,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56907,
+        "num": 56907,
+        "word": "文韬嗑瓜子",
+        "onboard_time": 1709211453,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54948,
+        "num": 54948,
+        "word": "侃爷妻子或因穿着暴露坐牢",
+        "onboard_time": 1709185773,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52403,
+        "num": 52403,
+        "word": "南北走位",
+        "onboard_time": 1709212413,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50772,
+        "num": 50772,
+        "word": "点读机女孩剃发",
+        "onboard_time": 1709216978,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50322,
+        "num": 50634,
+        "word": "王俊凯献唱云端之上",
+        "onboard_time": 1709220633,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52069,
+        "num": 50581,
+        "word": "南波万好吵",
+        "onboard_time": 1709206895,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50511,
+        "num": 50511,
+        "word": "手机电池不喜欢100%的饱和状态",
+        "onboard_time": 1709192971,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 50284,
+        "num": 50284,
+        "word": "苏醒 这么多年还是想先淘汰我",
+        "onboard_time": 1709214578,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48811,
+        "num": 48811,
+        "word": "NEWJEANS官宣北京签售",
+        "onboard_time": 1709206472,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 45898,
+        "num": 48803,
+        "word": "唐人街探案",
+        "onboard_time": 1709208936,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43259,
+        "num": 48558,
+        "word": "老师粗暴对学生涉事学校校长被免职",
+        "onboard_time": 1709201133,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41992,
+        "num": 48421,
+        "word": "烟火人家大结局",
+        "onboard_time": 1709211814,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41488,
+        "num": 48120,
+        "word": "小鹏汽车回应P7起火事故",
+        "onboard_time": 1709218178,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40101,
+        "num": 48055,
+        "word": "小狗耳朵都放下来了",
+        "onboard_time": 1709226925,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39635,
+        "num": 47722,
+        "word": "樊振东主动示意对手擦边得分",
+        "onboard_time": 1709219257,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#当好中国式现代化建设坚定行动派实干家#"
+    }
+  }
+}

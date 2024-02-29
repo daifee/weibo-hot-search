@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709224511243,
+  "endTime": 1709226935792,
   "band_list": [
     {
       "raw_hot": 773694,
@@ -33,6 +33,14 @@
       "onboard_time": 1709218178,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 534875,
+      "num": 534875,
+      "word": "终于知道魏大勋好人缘是怎么来的",
+      "onboard_time": 1709223507,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 534702,
@@ -155,14 +163,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 226675,
-      "num": 226675,
-      "word": "终于知道魏大勋好人缘是怎么来的",
-      "onboard_time": 1709223507,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 223229,
       "num": 223229,
       "word": "马天宇为女教师殴打学生事件发声",
@@ -177,6 +177,14 @@
       "onboard_time": 1709215296,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208252,
+      "num": 208252,
+      "word": "赵露思女友感",
+      "onboard_time": 1709224946,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 207441,
@@ -267,6 +275,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 120911,
+      "num": 120911,
+      "word": "宁艺卓的鞋大了",
+      "onboard_time": 1709224166,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120240,
       "num": 120240,
       "word": "苏醒 这么多年还是想先淘汰我",
@@ -275,12 +291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112275,
-      "num": 112275,
-      "word": "宁艺卓的鞋大了",
-      "onboard_time": 1709224166,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 112918,
+      "num": 95589,
+      "word": "戚薇不去浪姐",
+      "onboard_time": 1709224350,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 111831,
@@ -355,14 +371,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 91161,
-      "num": 91161,
-      "word": "戚薇不去浪姐",
-      "onboard_time": 1709224350,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 90981,
       "num": 90981,
       "word": "文韬嗑瓜子",
@@ -395,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79547,
+      "num": 79547,
+      "word": "成都春熙路天桥上长满了浪漫",
+      "onboard_time": 1709223868,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 76846,
       "num": 80327,
       "word": "老师粗暴对学生涉事学校校长被免职",
@@ -403,20 +419,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71593,
-      "num": 73804,
-      "word": "成都春熙路天桥上长满了浪漫",
-      "onboard_time": 1709223868,
-      "rank": 49,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 65129,
       "num": 79307,
       "word": "久哲场外BUFF",
       "onboard_time": 1709222492,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 40101,
+      "num": 48055,
+      "word": "小狗耳朵都放下来了",
+      "onboard_time": 1709226925,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 8183,
