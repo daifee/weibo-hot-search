@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709219852729,
+  "endTime": 1709220878300,
   "band_list": [
     {
       "raw_hot": 3110421,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1004057,
+      "num": 275962,
+      "word": "今天不发朋友圈又得等四年",
+      "onboard_time": 1709218178,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 979065,
       "num": 979065,
       "word": "挖呀挖黄老师已向警方提供证据",
@@ -295,14 +303,6 @@
       "num": 365927,
       "word": "永远别去碰谈了三四年恋爱的人",
       "onboard_time": 1709215296,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 950477,
-      "num": 274372,
-      "word": "今天不发朋友圈又得等四年",
-      "onboard_time": 1709218178,
       "rank": 20,
       "category": "情感"
     },
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 791438,
-      "num": 457661,
+      "num": 748593,
       "word": "朱珠女儿近照",
       "onboard_time": 1709217576,
       "rank": 10,
@@ -755,12 +755,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 456779,
+      "num": 451667,
+      "word": "涵艺爆料Doinb停播原因",
+      "onboard_time": 1709218657,
+      "rank": 12,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 455195,
       "num": 455195,
       "word": "唐人街探案",
       "onboard_time": 1709208936,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 454634,
+      "num": 454634,
+      "word": "声入人心团综",
+      "onboard_time": 1709219616,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 454070,
@@ -825,14 +841,6 @@
       "onboard_time": 1709133334,
       "rank": 4,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 428274,
-      "num": 428274,
-      "word": "涵艺爆料Doinb停播原因",
-      "onboard_time": 1709218657,
-      "rank": 12,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 423628,
@@ -953,6 +961,14 @@
       "onboard_time": 1709168797,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 371792,
+      "num": 371792,
+      "word": "米店日",
+      "onboard_time": 1709218836,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 371587,
@@ -1187,20 +1203,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305839,
+      "num": 305839,
+      "word": "韩国医生若辞职须立刻入伍",
+      "onboard_time": 1709219257,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305174,
       "num": 305174,
       "word": "第五人格",
       "onboard_time": 1709181756,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 305016,
-      "num": 305016,
-      "word": "米店日",
-      "onboard_time": 1709218836,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 295923,
@@ -1481,6 +1497,14 @@
       "onboard_time": 1709179596,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 247071,
+      "num": 247071,
+      "word": "阿莫西林仅适用于5种病症",
+      "onboard_time": 1709220036,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 246596,
@@ -1995,6 +2019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 193697,
+      "num": 231467,
+      "word": "樊振东主动示意对手擦边得分",
+      "onboard_time": 1709219257,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192929,
       "num": 192929,
       "word": "台湾嘉义县发生4.3级地震",
@@ -2243,28 +2275,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 177058,
-      "num": 231467,
-      "word": "樊振东主动示意对手擦边得分",
-      "onboard_time": 1709219257,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 176097,
       "num": 176097,
       "word": "Hero零封RNGM",
       "onboard_time": 1709194171,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 176096,
-      "num": 176096,
-      "word": "声入人心团综",
-      "onboard_time": 1709219616,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 174141,
@@ -2377,6 +2393,14 @@
       "onboard_time": 1709169633,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 166136,
+      "num": 166136,
+      "word": "王俊凯献唱云端之上",
+      "onboard_time": 1709220633,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 165984,
@@ -2883,14 +2907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127084,
-      "num": 127084,
-      "word": "韩国医生若辞职须立刻入伍",
-      "onboard_time": 1709219257,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 127007,
       "num": 127007,
       "word": "TWICE舞台",
@@ -3113,6 +3129,14 @@
       "onboard_time": 1709171852,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 109100,
+      "num": 109100,
+      "word": "建议药品说明书全面启用大字版",
+      "onboard_time": 1709220575,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 108731,
