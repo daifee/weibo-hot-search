@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709191099583,
+  "endTime": 1709192039529,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -635,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1467423,
+      "num": 1467423,
+      "word": "马航失联乘客家属再次赴马参会",
+      "onboard_time": 1709188292,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1455407,
       "num": 1455407,
       "word": "苹果公司警告手机进水别插米里",
@@ -771,14 +779,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1328315,
-      "num": 1328315,
-      "word": "马航失联乘客家属再次赴马参会",
-      "onboard_time": 1709188292,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1313122,
       "num": 1313122,
       "word": "黄嘉千称夏天被夏克立家暴",
@@ -913,6 +913,14 @@
       "onboard_time": 1709175152,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1207914,
+      "num": 1207914,
+      "word": "武汉大学 莞莞类卿",
+      "onboard_time": 1709190751,
+      "rank": 11,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 1207536,
@@ -2347,6 +2355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 672202,
+      "num": 338242,
+      "word": "李溪芮自荐报名浪姐",
+      "onboard_time": 1709190689,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 667714,
       "num": 667714,
       "word": "戚薇后脑勺被妈妈用书睡平",
@@ -3595,6 +3611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483777,
+      "num": 483777,
+      "word": "警方回应医院未发现肿瘤仍切除器官",
+      "onboard_time": 1709189613,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483266,
       "num": 483266,
       "word": "花少团真去秦岚家了吗",
@@ -3617,6 +3641,14 @@
       "onboard_time": 1709121274,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 481356,
+      "num": 481356,
+      "word": "建议减轻中小学教师行政压力",
+      "onboard_time": 1709186792,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 481320,
@@ -3777,6 +3809,14 @@
       "onboard_time": 1708935575,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 461533,
+      "num": 332012,
+      "word": "港剧是懂女性痛经的",
+      "onboard_time": 1709190151,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 461425,
@@ -4043,14 +4083,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 429727,
-      "num": 429727,
-      "word": "建议减轻中小学教师行政压力",
-      "onboard_time": 1709186792,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 426168,
       "num": 295517,
       "word": "从今天起尽量少熬夜",
@@ -4177,14 +4209,6 @@
       "onboard_time": 1708871499,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 416574,
-      "num": 393556,
-      "word": "武汉大学 莞莞类卿",
-      "onboard_time": 1709190751,
-      "rank": 11,
-      "category": "教育,幽默"
     },
     {
       "raw_hot": 415626,
@@ -4555,6 +4579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 376824,
+      "num": 148421,
+      "word": "邓为修丽可活动",
+      "onboard_time": 1709190811,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376560,
       "num": 376560,
       "word": "年轻人猝死可能与熬夜有关",
@@ -4609,14 +4641,6 @@
       "onboard_time": 1709162064,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 371496,
-      "num": 371496,
-      "word": "警方回应医院未发现肿瘤仍切除器官",
-      "onboard_time": 1709189613,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 371486,
@@ -5459,14 +5483,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 308479,
-      "num": 308479,
-      "word": "港剧是懂女性痛经的",
-      "onboard_time": 1709190151,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 308306,
       "num": 308306,
       "word": "王者荣耀",
@@ -6283,6 +6299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260802,
+      "num": 188957,
+      "word": "外国人试用中国古代的口红纸",
+      "onboard_time": 1709190632,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 260729,
       "num": 260729,
       "word": "库迪咖啡全场9.9不限量",
@@ -6601,14 +6625,6 @@
       "onboard_time": 1708851149,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248504,
-      "num": 248504,
-      "word": "李溪芮自荐报名浪姐",
-      "onboard_time": 1709190689,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 248133,
@@ -7787,6 +7803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209733,
+      "num": 209733,
+      "word": "徐梦洁四年前后对比",
+      "onboard_time": 1709190751,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209603,
       "num": 209603,
       "word": "姜思达穿搭",
@@ -8099,6 +8123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202087,
+      "num": 202087,
+      "word": "Hero首胜",
+      "onboard_time": 1709191594,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201907,
       "num": 201907,
       "word": "天涯社区被申请破产审查",
@@ -8267,6 +8299,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 197887,
+      "num": 197887,
+      "word": "王者 菜狗天幕",
+      "onboard_time": 1709191354,
+      "rank": 27,
+      "category": "电竞,游戏"
+    },
+    {
       "raw_hot": 197854,
       "num": 197854,
       "word": "监管方面称量化交易恢复传闻不实",
@@ -8433,14 +8473,6 @@
       "onboard_time": 1708844974,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194885,
-      "num": 194885,
-      "word": "徐梦洁四年前后对比",
-      "onboard_time": 1709190751,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 194543,
@@ -8929,14 +8961,6 @@
       "onboard_time": 1708837718,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186762,
-      "num": 186762,
-      "word": "外国人试用中国古代的口红纸",
-      "onboard_time": 1709190632,
-      "rank": 31,
-      "category": "美妆"
     },
     {
       "raw_hot": 186523,
@@ -10787,14 +10811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148421,
-      "num": 148421,
-      "word": "邓为修丽可活动",
-      "onboard_time": 1709190811,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148342,
       "num": 148342,
       "word": "建议减轻教师非教学负担",
@@ -11049,6 +11065,14 @@
       "onboard_time": 1708989081,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 142831,
+      "num": 142831,
+      "word": "音乐人包小柏用AI复活女儿",
+      "onboard_time": 1709190932,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 142660,
@@ -12115,14 +12139,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 116614,
-      "num": 116614,
-      "word": "音乐人包小柏用AI复活女儿",
-      "onboard_time": 1709190932,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116128,
       "num": 116128,
       "word": "冷暴力中长大的孩子",
@@ -12201,6 +12217,14 @@
       "onboard_time": 1708996711,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 113346,
+      "num": 113346,
+      "word": "花花运动量vs和叶运动量",
+      "onboard_time": 1709191774,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112736,
@@ -12361,6 +12385,14 @@
       "onboard_time": 1709010640,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105842,
+      "num": 105842,
+      "word": "COA7大名单",
+      "onboard_time": 1709191171,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 105199,

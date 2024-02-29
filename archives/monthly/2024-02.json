@@ -1,6 +1,6 @@
 {
   "startTime": 1706718011545,
-  "endTime": 1709191099583,
+  "endTime": 1709192039529,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -4419,6 +4419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1467423,
+      "num": 1467423,
+      "word": "马航失联乘客家属再次赴马参会",
+      "onboard_time": 1709188292,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1466980,
       "num": 1466980,
       "word": "樊振东3比0战胜张禹珍",
@@ -5201,14 +5209,6 @@
       "onboard_time": 1708922196,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1328315,
-      "num": 1328315,
-      "word": "马航失联乘客家属再次赴马参会",
-      "onboard_time": 1709188292,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1326703,
@@ -6105,6 +6105,14 @@
       "onboard_time": 1709175152,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1207914,
+      "num": 1207914,
+      "word": "武汉大学 莞莞类卿",
+      "onboard_time": 1709190751,
+      "rank": 11,
+      "category": "教育,幽默"
     },
     {
       "raw_hot": 1207536,
@@ -14403,6 +14411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 672202,
+      "num": 338242,
+      "word": "李溪芮自荐报名浪姐",
+      "onboard_time": 1709190689,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 671703,
       "num": 600705,
       "word": "春晚还得是冯巩",
@@ -21323,6 +21339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483777,
+      "num": 483777,
+      "word": "警方回应医院未发现肿瘤仍切除器官",
+      "onboard_time": 1709189613,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483449,
       "num": 483449,
       "word": "警方通报多人拿棍棒皮带抽打一男孩",
@@ -21449,6 +21473,14 @@
       "onboard_time": 1707012210,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 481356,
+      "num": 481356,
+      "word": "建议减轻中小学教师行政压力",
+      "onboard_time": 1709186792,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 481350,
@@ -22265,6 +22297,14 @@
       "onboard_time": 1706854293,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 461533,
+      "num": 332012,
+      "word": "港剧是懂女性痛经的",
+      "onboard_time": 1709190151,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 461497,
@@ -23771,14 +23811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 429727,
-      "num": 429727,
-      "word": "建议减轻中小学教师行政压力",
-      "onboard_time": 1709186792,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 429716,
       "num": 429716,
       "word": "奔驰车加塞事件",
@@ -24553,14 +24585,6 @@
       "onboard_time": 1708649978,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416574,
-      "num": 393556,
-      "word": "武汉大学 莞莞类卿",
-      "onboard_time": 1709190751,
-      "rank": 11,
-      "category": "教育,幽默"
     },
     {
       "raw_hot": 416519,
@@ -26859,6 +26883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 376824,
+      "num": 148421,
+      "word": "邓为修丽可活动",
+      "onboard_time": 1709190811,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376811,
       "num": 376811,
       "word": "苏翊鸣十四冬大跳台夺冠",
@@ -27225,14 +27257,6 @@
       "onboard_time": 1708176094,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 371496,
-      "num": 371496,
-      "word": "警方回应医院未发现肿瘤仍切除器官",
-      "onboard_time": 1709189613,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 371486,
@@ -31793,14 +31817,6 @@
       "onboard_time": 1707266852,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 308479,
-      "num": 308479,
-      "word": "港剧是懂女性痛经的",
-      "onboard_time": 1709190151,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 308409,
@@ -36891,6 +36907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260802,
+      "num": 188957,
+      "word": "外国人试用中国古代的口红纸",
+      "onboard_time": 1709190632,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 260775,
       "num": 260775,
       "word": "肖战今天看两场秀",
@@ -38585,14 +38609,6 @@
       "onboard_time": 1708476995,
       "rank": 31,
       "category": "时尚,体育"
-    },
-    {
-      "raw_hot": 248504,
-      "num": 248504,
-      "word": "李溪芮自荐报名浪姐",
-      "onboard_time": 1709190689,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 248483,
@@ -45451,6 +45467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209733,
+      "num": 209733,
+      "word": "徐梦洁四年前后对比",
+      "onboard_time": 1709190751,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209674,
       "num": 209674,
       "word": "TF家族新年音乐会",
@@ -47531,6 +47555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202087,
+      "num": 202087,
+      "word": "Hero首胜",
+      "onboard_time": 1709191594,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202083,
       "num": 202083,
       "word": "原来真的有月老在忙着牵线",
@@ -48803,6 +48835,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 197887,
+      "num": 197887,
+      "word": "王者 菜狗天幕",
+      "onboard_time": 1709191354,
+      "rank": 27,
+      "category": "电竞,游戏"
+    },
+    {
       "raw_hot": 197854,
       "num": 197854,
       "word": "监管方面称量化交易恢复传闻不实",
@@ -49673,14 +49713,6 @@
       "onboard_time": 1708760851,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194885,
-      "num": 194885,
-      "word": "徐梦洁四年前后对比",
-      "onboard_time": 1709190751,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 194870,
@@ -52321,14 +52353,6 @@
       "onboard_time": 1707049533,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186762,
-      "num": 186762,
-      "word": "外国人试用中国古代的口红纸",
-      "onboard_time": 1709190632,
-      "rank": 31,
-      "category": "美妆"
     },
     {
       "raw_hot": 186743,
@@ -62979,14 +63003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148421,
-      "num": 148421,
-      "word": "邓为修丽可活动",
-      "onboard_time": 1709190811,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148411,
       "num": 148411,
       "word": "龙年开始后气温回升",
@@ -64689,6 +64705,14 @@
       "onboard_time": 1706746466,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 142831,
+      "num": 142831,
+      "word": "音乐人包小柏用AI复活女儿",
+      "onboard_time": 1709190932,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 142807,
@@ -71355,14 +71379,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 116614,
-      "num": 116614,
-      "word": "音乐人包小柏用AI复活女儿",
-      "onboard_time": 1709190932,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116613,
       "num": 116613,
       "word": "沈月vlog",
@@ -71945,6 +71961,14 @@
       "onboard_time": 1707812316,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 113346,
+      "num": 113346,
+      "word": "花花运动量vs和叶运动量",
+      "onboard_time": 1709191774,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113273,
@@ -73305,6 +73329,14 @@
       "onboard_time": 1707037889,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105842,
+      "num": 105842,
+      "word": "COA7大名单",
+      "onboard_time": 1709191171,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 105809,
