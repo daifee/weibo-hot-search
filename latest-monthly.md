@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/03/01 00:20:40 ~ 2024/03/01 05:18:38
+本榜单时间：2024/03/01 00:20:40 ~ 2024/03/01 05:34:23
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ NEWJEANS官宣北京签售（热度：94085）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E6%9F%A5%E5%BE%B7%E5%88%98%E6%98%93%E6%96%AF%E5%8E%BB%E4%B8%96%23" target="weibo">
+理查德刘易斯去世（热度：38416）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%B8%8B%E6%9D%A5%E4%B8%80%E4%B8%AA%E6%9C%88%E6%B2%B3%E5%8D%97%E7%9A%84%E9%A4%90%E6%A1%8C%23" target="weibo">
 接下来一个月河南的餐桌（热度：33860）
 </a>
@@ -375,20 +381,14 @@ NEWJEANS官宣北京签售（热度：94085）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E6%9F%A5%E5%BE%B7%E5%88%98%E6%98%93%E6%96%AF%E5%8E%BB%E4%B8%96%23" target="weibo">
-理查德刘易斯去世（热度：25464）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BF%BB%E6%9B%BE%E7%BB%8F%E6%98%AFJYP%E7%9A%84%E7%AD%BE%E7%BA%A6%E8%89%BA%E4%BA%BA%23" target="weibo">
-刘忻曾经是JYP的签约艺人（热度：25273）
+刘忻曾经是JYP的签约艺人（热度：28974）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%B7%AF%E8%BE%B9%E6%8D%A1%E7%8C%AB%E5%BD%92%E8%BF%98%E4%B8%BB%E4%BA%BA%E8%8E%B76%E4%B8%87%E5%9B%9E%E6%8A%A5%23" target="weibo">
-女生路边捡猫归还主人获6万回报（热度：25074）
+女生路边捡猫归还主人获6万回报（热度：27171）
 </a>
 </li>
 

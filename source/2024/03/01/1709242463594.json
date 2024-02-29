@@ -1,0 +1,410 @@
+{
+  "runTime": 1709242463594,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 55508,
+        "num": 55508,
+        "word": "韩国医生若辞职须立刻入伍",
+        "onboard_time": 1709219257,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49780,
+        "num": 49780,
+        "word": "终于知道魏大勋好人缘是怎么来的",
+        "onboard_time": 1709223507,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1840,
+        "num": 48917,
+        "word": "微观两会",
+        "onboard_time": 1709194052,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60078,
+        "num": 47831,
+        "word": "PDD",
+        "onboard_time": 1709204553,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 58639,
+        "num": 46840,
+        "word": "上班恶心穿搭引发年轻人共鸣",
+        "onboard_time": 1709230938,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52158,
+        "num": 45545,
+        "word": "泰国男子寺庙闹事意外被佛像刺死",
+        "onboard_time": 1709200290,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 52090,
+        "num": 44878,
+        "word": "小团团",
+        "onboard_time": 1709200170,
+        "rank": 6,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 44192,
+        "num": 44192,
+        "word": "郭麒麟胖了",
+        "onboard_time": 1709213196,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35880,
+        "num": 35880,
+        "word": "小团团前公会已成被执行人",
+        "onboard_time": 1709215235,
+        "rank": 8,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 34382,
+        "num": 34382,
+        "word": "花少团真的去了秦岚家",
+        "onboard_time": 1709215898,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33136,
+        "num": 33136,
+        "word": "朱珠女儿近照",
+        "onboard_time": 1709217576,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30975,
+        "num": 30975,
+        "word": "周星驰将为新片女足海选素人",
+        "onboard_time": 1709231238,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28974,
+        "num": 28974,
+        "word": "刘忻曾经是JYP的签约艺人",
+        "onboard_time": 1709238916,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28432,
+        "num": 28432,
+        "word": "曹璐回应落选浪姐",
+        "onboard_time": 1709215296,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27171,
+        "num": 27171,
+        "word": "女生路边捡猫归还主人获6万回报",
+        "onboard_time": 1709230278,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26165,
+        "num": 26165,
+        "word": "陈靖可曾因外貌遭校园暴力",
+        "onboard_time": 1709222071,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23402,
+        "num": 23402,
+        "word": "点读机女孩自称患罕见脑瘤",
+        "onboard_time": 1709214034,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22764,
+        "num": 22764,
+        "word": "王力宏点赞十几年前和宗庆后合照微博",
+        "onboard_time": 1709206592,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22429,
+        "num": 22429,
+        "word": "赵露思女友感",
+        "onboard_time": 1709224946,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21866,
+        "num": 21866,
+        "word": "涵艺爆料Doinb停播原因",
+        "onboard_time": 1709218657,
+        "rank": 19,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 42276,
+        "num": 21540,
+        "word": "永远别去碰谈了三四年恋爱的人",
+        "onboard_time": 1709215296,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26718,
+        "num": 21359,
+        "word": "阿莫西林仅适用于5种病症",
+        "onboard_time": 1709220036,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24727,
+        "num": 20788,
+        "word": "教育局回应50岁班主任和学生谈恋爱",
+        "onboard_time": 1709207014,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19051,
+        "num": 19051,
+        "word": "女子给晾的每1块腊肉都穿上纸尿裤",
+        "onboard_time": 1709237535,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16945,
+        "num": 16945,
+        "word": "韩国人吃玉米芯",
+        "onboard_time": 1709209115,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16360,
+        "num": 16360,
+        "word": "小鹏汽车回应P7起火事故",
+        "onboard_time": 1709218178,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16259,
+        "num": 16259,
+        "word": "苗苗最新状态",
+        "onboard_time": 1709213554,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15968,
+        "num": 15968,
+        "word": "成都春熙路天桥上长满了浪漫",
+        "onboard_time": 1709223868,
+        "rank": 27,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 15914,
+        "num": 15914,
+        "word": "米店日",
+        "onboard_time": 1709218836,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 7887,
+        "num": 15833,
+        "word": "周刊君带你看两会",
+        "onboard_time": 1709238976,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 47977,
+        "num": 15831,
+        "word": "网红自导自演被砸鸡蛋",
+        "onboard_time": 1709235916,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38416,
+        "num": 15826,
+        "word": "理查德刘易斯去世",
+        "onboard_time": 1709241135,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15815,
+        "num": 15815,
+        "word": "怀疑对方AI换脸可以摁鼻子",
+        "onboard_time": 1709235136,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15576,
+        "num": 15576,
+        "word": "浪姐官博回复李溪芮",
+        "onboard_time": 1709202992,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15177,
+        "num": 15177,
+        "word": "3月十二星座注意事项",
+        "onboard_time": 1709214218,
+        "rank": 34,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 14759,
+        "num": 14759,
+        "word": "女子吐槽花1588元请跟拍成片太草率",
+        "onboard_time": 1709209953,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14361,
+        "num": 14361,
+        "word": "声入人心团综",
+        "onboard_time": 1709219616,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14231,
+        "num": 14231,
+        "word": "马天宇为女教师殴打学生事件发声",
+        "onboard_time": 1709199691,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14163,
+        "num": 14163,
+        "word": "县城一中到底有多重要",
+        "onboard_time": 1709214998,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 13999,
+        "num": 13999,
+        "word": "iOS版地震预警APP收费",
+        "onboard_time": 1709239636,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 13901,
+        "num": 13901,
+        "word": "小狗耳朵都放下来了",
+        "onboard_time": 1709226925,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13495,
+        "num": 13495,
+        "word": "今天不发朋友圈又得等四年",
+        "onboard_time": 1709218178,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13319,
+        "num": 13319,
+        "word": "苏醒 这么多年还是想先淘汰我",
+        "onboard_time": 1709214578,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12897,
+        "num": 12897,
+        "word": "瘦腿突然就不难了",
+        "onboard_time": 1709220872,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 12783,
+        "num": 12783,
+        "word": "接下来一个月河南的餐桌",
+        "onboard_time": 1709229259,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 12689,
+        "num": 12689,
+        "word": "戚薇不去浪姐",
+        "onboard_time": 1709224350,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11740,
+        "num": 11740,
+        "word": "宁艺卓的鞋大了",
+        "onboard_time": 1709224166,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11980,
+        "num": 11701,
+        "word": "朱丹也来浪姐了",
+        "onboard_time": 1709214336,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11648,
+        "num": 11648,
+        "word": "杨幂下车神图",
+        "onboard_time": 1709210915,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11503,
+        "num": 11503,
+        "word": "点读机女孩剃发",
+        "onboard_time": 1709216978,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中塞关系堪称中非团结合作的典范#"
+    }
+  }
+}
