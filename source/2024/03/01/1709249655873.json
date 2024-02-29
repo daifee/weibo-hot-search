@@ -1,0 +1,410 @@
+{
+  "runTime": 1709249655873,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 574506,
+        "num": 574506,
+        "word": "韩国医生若辞职须立刻入伍",
+        "onboard_time": 1709219257,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393811,
+        "num": 393811,
+        "word": "终于知道魏大勋好人缘是怎么来的",
+        "onboard_time": 1709223507,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 7412,
+        "num": 347386,
+        "word": "微观两会",
+        "onboard_time": 1709194052,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 461909,
+        "num": 346957,
+        "word": "上班恶心穿搭引发年轻人共鸣",
+        "onboard_time": 1709230938,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403841,
+        "num": 345035,
+        "word": "泰国男子寺庙闹事意外被佛像刺死",
+        "onboard_time": 1709200290,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 340859,
+        "num": 340859,
+        "word": "郭麒麟胖了",
+        "onboard_time": 1709213196,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286590,
+        "num": 286590,
+        "word": "退税",
+        "onboard_time": 1709249065,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253058,
+        "num": 253058,
+        "word": "花少团真的去了秦岚家",
+        "onboard_time": 1709215898,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240731,
+        "num": 240731,
+        "word": "曹璐回应落选浪姐",
+        "onboard_time": 1709215296,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224103,
+        "num": 224103,
+        "word": "陈靖可曾因外貌遭校园暴力",
+        "onboard_time": 1709222071,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432425,
+        "num": 214545,
+        "word": "网红自导自演被砸鸡蛋",
+        "onboard_time": 1709235916,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255931,
+        "num": 208766,
+        "word": "周星驰将为新片女足海选素人",
+        "onboard_time": 1709231238,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181515,
+        "num": 181515,
+        "word": "小团团前公会已成被执行人",
+        "onboard_time": 1709215235,
+        "rank": 12,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 180277,
+        "num": 180277,
+        "word": "女生路边捡猫归还主人获6万回报",
+        "onboard_time": 1709230278,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160230,
+        "num": 160230,
+        "word": "点读机女孩自称患罕见脑瘤",
+        "onboard_time": 1709214034,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153742,
+        "num": 153742,
+        "word": "县城一中到底有多重要",
+        "onboard_time": 1709214998,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146322,
+        "num": 146322,
+        "word": "家长吐槽被学校要求下午到校值班",
+        "onboard_time": 1709248464,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145223,
+        "num": 145223,
+        "word": "朱珠女儿近照",
+        "onboard_time": 1709217576,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142802,
+        "num": 142802,
+        "word": "许栋元离婚",
+        "onboard_time": 1709244736,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136556,
+        "num": 136556,
+        "word": "三月你好",
+        "onboard_time": 1709248162,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 453073,
+        "num": 136077,
+        "word": "教育局回应50岁班主任和学生谈恋爱",
+        "onboard_time": 1709207014,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205312,
+        "num": 135593,
+        "word": "打针时针芯里那块肉去哪了",
+        "onboard_time": 1709249305,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144069,
+        "num": 135398,
+        "word": "阿莫西林仅适用于5种病症",
+        "onboard_time": 1709220036,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134981,
+        "num": 134981,
+        "word": "3月第一天的打开方式",
+        "onboard_time": 1709248464,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128446,
+        "num": 128446,
+        "word": "西村力就不当言论道歉",
+        "onboard_time": 1709248764,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111836,
+        "num": 111836,
+        "word": "涵艺爆料Doinb停播原因",
+        "onboard_time": 1709218657,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 111762,
+        "num": 111762,
+        "word": "少吃饭能延缓衰老",
+        "onboard_time": 1709247862,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104965,
+        "num": 104965,
+        "word": "女子给晾的每1块腊肉都穿上纸尿裤",
+        "onboard_time": 1709237535,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92631,
+        "num": 92631,
+        "word": "赵露思女友感",
+        "onboard_time": 1709224946,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89957,
+        "num": 89957,
+        "word": "苗苗最新状态",
+        "onboard_time": 1709213554,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172879,
+        "num": 87844,
+        "word": "邵明明 我们都无可替代",
+        "onboard_time": 1709248824,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85400,
+        "num": 85400,
+        "word": "3月十二星座注意事项",
+        "onboard_time": 1709214218,
+        "rank": 31,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 84257,
+        "num": 84257,
+        "word": "易胖体质",
+        "onboard_time": 1709245638,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80589,
+        "num": 80589,
+        "word": "声入人心团综",
+        "onboard_time": 1709219616,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74367,
+        "num": 74367,
+        "word": "车里的雷达已经把眼睛都闭上了",
+        "onboard_time": 1709247320,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68781,
+        "num": 68781,
+        "word": "永远别去碰谈了三四年恋爱的人",
+        "onboard_time": 1709215296,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67774,
+        "num": 67774,
+        "word": "浪姐官博回复李溪芮",
+        "onboard_time": 1709202992,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65243,
+        "num": 65243,
+        "word": "小鹏汽车回应P7起火事故",
+        "onboard_time": 1709218178,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65153,
+        "num": 65153,
+        "word": "杨幂下车神图",
+        "onboard_time": 1709210915,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 63144,
+        "num": 63144,
+        "word": "于文文你快别说话了",
+        "onboard_time": 1709247924,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62403,
+        "num": 62403,
+        "word": "韩国人吃玉米芯",
+        "onboard_time": 1709209115,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61787,
+        "num": 61787,
+        "word": "怀疑对方AI换脸可以摁鼻子",
+        "onboard_time": 1709235136,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61667,
+        "num": 61667,
+        "word": "这4种口腔变化或为口腔癌前兆",
+        "onboard_time": 1709247862,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 59191,
+        "num": 59191,
+        "word": "接下来一个月河南的餐桌",
+        "onboard_time": 1709229259,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 59188,
+        "num": 59188,
+        "word": "理查德刘易斯去世",
+        "onboard_time": 1709241135,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58599,
+        "num": 58599,
+        "word": "女子吐槽花1588元请跟拍成片太草率",
+        "onboard_time": 1709209953,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54405,
+        "num": 54405,
+        "word": "真的建议大家在大学里多蹭课",
+        "onboard_time": 1709249545,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52528,
+        "num": 52528,
+        "word": "王力宏点赞十几年前和宗庆后合照微博",
+        "onboard_time": 1709206592,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52300,
+        "num": 52300,
+        "word": "鼓励式教学",
+        "onboard_time": 1709249364,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50450,
+        "num": 50450,
+        "word": "李莎旻子回应四年前脱单愿望",
+        "onboard_time": 1709249608,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
