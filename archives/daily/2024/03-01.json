@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709244978069,
+  "endTime": 1709246048418,
   "band_list": [
     {
       "raw_hot": 773694,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134309,
+      "num": 134309,
+      "word": "上班恶心穿搭引发年轻人共鸣",
+      "onboard_time": 1709230938,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132871,
       "num": 132871,
       "word": "韩国人吃玉米芯",
@@ -273,6 +281,14 @@
       "onboard_time": 1709215235,
       "rank": 32,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 122278,
+      "num": 68993,
+      "word": "网红自导自演被砸鸡蛋",
+      "onboard_time": 1709235916,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120911,
@@ -371,14 +387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 93776,
-      "num": 93776,
-      "word": "上班恶心穿搭引发年轻人共鸣",
-      "onboard_time": 1709230938,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90981,
       "num": 90981,
       "word": "文韬嗑瓜子",
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 85435,
-      "num": 49519,
+      "num": 68686,
       "word": "周星驰将为新片女足海选素人",
       "onboard_time": 1709231238,
       "rank": 30,
@@ -435,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 69116,
-      "num": 53474,
-      "word": "网红自导自演被砸鸡蛋",
-      "onboard_time": 1709235916,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65129,
       "num": 79307,
       "word": "久哲场外BUFF",
@@ -459,20 +459,36 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 45845,
-      "num": 22217,
+      "raw_hot": 54206,
+      "num": 54206,
+      "word": "女生路边捡猫归还主人获6万回报",
+      "onboard_time": 1709230278,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49702,
+      "num": 29107,
+      "word": "许栋元离婚",
+      "onboard_time": 1709244736,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 48925,
+      "num": 29002,
       "word": "理查德刘易斯去世",
       "onboard_time": 1709241135,
       "rank": 31,
       "category": "艺人"
     },
     {
-      "raw_hot": 40672,
-      "num": 40672,
-      "word": "女生路边捡猫归还主人获6万回报",
-      "onboard_time": 1709230278,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 33891,
+      "num": 33891,
+      "word": "刘忻曾经是JYP的签约艺人",
+      "onboard_time": 1709238916,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 33860,
@@ -499,28 +515,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29474,
-      "num": 29474,
-      "word": "刘忻曾经是JYP的签约艺人",
-      "onboard_time": 1709238916,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 28191,
-      "num": 22199,
-      "word": "许栋元离婚",
-      "onboard_time": 1709244736,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 25060,
-      "num": 25060,
+      "raw_hot": 31420,
+      "num": 31420,
       "word": "女子给晾的每1块腊肉都穿上纸尿裤",
       "onboard_time": 1709237535,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23613,
+      "num": 23613,
+      "word": "易胖体质",
+      "onboard_time": 1709245638,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 21321,
@@ -531,8 +539,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19316,
-      "num": 19316,
+      "raw_hot": 20846,
+      "num": 20846,
       "word": "怀疑对方AI换脸可以摁鼻子",
       "onboard_time": 1709235136,
       "rank": 49,
@@ -587,19 +595,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 8624,
+      "num": 27432,
+      "word": "周刊君带你看两会",
+      "onboard_time": 1709238976,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 8183,
       "num": 549767,
       "word": "微观两会",
       "onboard_time": 1709194052,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 7951,
-      "num": 22223,
-      "word": "周刊君带你看两会",
-      "onboard_time": 1709238976,
-      "rank": 29,
       "category": "国内时政"
     },
     {
