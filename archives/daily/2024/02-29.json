@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709202987062,
+  "endTime": 1709205322550,
   "band_list": [
     {
       "raw_hot": 3110421,
@@ -9,6 +9,14 @@
       "onboard_time": 1709200170,
       "rank": 0,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 2935651,
+      "num": 2935651,
+      "word": "肯德基爆单",
+      "onboard_time": 1709203834,
+      "rank": 0,
+      "category": "美食"
     },
     {
       "raw_hot": 2782869,
@@ -67,6 +75,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1759421,
+      "num": 1759421,
+      "word": "马天宇为女教师殴打学生事件发声",
+      "onboard_time": 1709199691,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1638263,
       "num": 1638263,
       "word": "老员工称娃哈哈经常莫名其妙发钱",
@@ -80,14 +96,6 @@
       "word": "李亚鹏全网悬赏直播哭穷视频",
       "onboard_time": 1709183553,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1618343,
-      "num": 1618343,
-      "word": "马天宇为女教师殴打学生事件发声",
-      "onboard_time": 1709199691,
-      "rank": 4,
       "category": "艺人"
     },
     {
@@ -195,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 912068,
+      "num": 912068,
+      "word": "浪姐官博回复李溪芮",
+      "onboard_time": 1709202992,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 891322,
       "num": 891322,
       "word": "李现的文案是网易云热评",
@@ -267,12 +283,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 736026,
+      "num": 736026,
+      "word": "斗鱼主播",
+      "onboard_time": 1709203655,
+      "rank": 6,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 725754,
       "num": 725754,
       "word": "健身教练评热巴踮脚动作",
       "onboard_time": 1709163327,
       "rank": 7,
       "category": "运动健身,艺人"
+    },
+    {
+      "raw_hot": 712023,
+      "num": 712023,
+      "word": "PDD",
+      "onboard_time": 1709204553,
+      "rank": 7,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 703964,
+      "num": 703964,
+      "word": "老师粗暴对学生涉事学校校长被免职",
+      "onboard_time": 1709201133,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 698745,
@@ -347,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 621478,
+      "num": 621478,
+      "word": "曹璐 没来浪姐",
+      "onboard_time": 1709201853,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 611590,
       "num": 611590,
       "word": "祁厅长的情商属实太高",
@@ -369,14 +417,6 @@
       "onboard_time": 1709200413,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 608564,
-      "num": 608564,
-      "word": "老师粗暴对学生涉事学校校长被免职",
-      "onboard_time": 1709201133,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 598430,
@@ -417,14 +457,6 @@
       "onboard_time": 1709190151,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 557595,
-      "num": 557595,
-      "word": "曹璐 没来浪姐",
-      "onboard_time": 1709201853,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 534122,
@@ -675,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 376878,
+      "num": 186096,
+      "word": "好朋友忘了我的亲人去世了",
+      "onboard_time": 1709204855,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 376824,
       "num": 148421,
       "word": "邓为修丽可活动",
@@ -867,12 +907,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306154,
+      "num": 306154,
+      "word": "陈昊宇浪姐路透",
+      "onboard_time": 1709203712,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305174,
       "num": 305174,
       "word": "第五人格",
       "onboard_time": 1709181756,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 296546,
+      "num": 296546,
+      "word": "为什么HR老问是否是独生子女",
+      "onboard_time": 1709204553,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 291032,
@@ -1236,7 +1292,7 @@
     },
     {
       "raw_hot": 218731,
-      "num": 1437332,
+      "num": 1826004,
       "word": "2023中国科学十大进展公布",
       "onboard_time": 1709194533,
       "rank": 2,
@@ -1555,6 +1611,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 185523,
+      "num": 185523,
+      "word": "女子网购金戒指一称克重还多了0.4",
+      "onboard_time": 1709204493,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184280,
       "num": 184280,
       "word": "湖人vs快船",
@@ -1633,6 +1697,14 @@
       "onboard_time": 1709195730,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179532,
+      "num": 179532,
+      "word": "低丸子头发型",
+      "onboard_time": 1709202992,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 178560,
@@ -1857,6 +1929,14 @@
       "onboard_time": 1709125592,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152870,
+      "num": 152870,
+      "word": "这是侍郎还是舞娘",
+      "onboard_time": 1709204792,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 152227,
@@ -2099,6 +2179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132462,
+      "num": 132462,
+      "word": "巨人 艾伦立于万千尸骨之上",
+      "onboard_time": 1709203953,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 131271,
       "num": 131271,
       "word": "网球王子 不二周助",
@@ -2179,6 +2267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120493,
+      "num": 120493,
+      "word": "咒术回战 宿傩还没动真格",
+      "onboard_time": 1709204253,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 120029,
       "num": 120029,
       "word": "如何预防罕见病",
@@ -2209,6 +2305,14 @@
       "onboard_time": 1709174972,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119042,
+      "num": 119042,
+      "word": "甄嬛版上春山",
+      "onboard_time": 1709205214,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 118504,
@@ -2276,7 +2380,7 @@
     },
     {
       "raw_hot": 115275,
-      "num": 115275,
+      "num": 705060,
       "word": "一条plog告别二月",
       "onboard_time": 1709161884,
       "rank": 29,
