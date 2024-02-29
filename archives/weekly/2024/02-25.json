@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709223640991,
+  "endTime": 1709224511243,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -3515,6 +3515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 534702,
+      "num": 534702,
+      "word": "瘦腿突然就不难了",
+      "onboard_time": 1709220872,
+      "rank": 10,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 534122,
       "num": 455043,
       "word": "中共中央政治局召开会议",
@@ -3945,14 +3953,6 @@
       "onboard_time": 1708771473,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 489030,
-      "num": 358229,
-      "word": "瘦腿突然就不难了",
-      "onboard_time": 1709220872,
-      "rank": 10,
-      "category": "运动健身"
     },
     {
       "raw_hot": 488103,
@@ -5001,6 +5001,14 @@
       "onboard_time": 1708845393,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 377799,
+      "num": 377799,
+      "word": "陈靖可曾因外貌遭校园暴力",
+      "onboard_time": 1709222071,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 377641,
@@ -6659,14 +6667,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 274255,
-      "num": 274255,
-      "word": "陈靖可曾因外貌遭校园暴力",
-      "onboard_time": 1709222071,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 274161,
       "num": 274161,
       "word": "原来好的家庭氛围是这样的",
@@ -7993,6 +7993,14 @@
       "onboard_time": 1708862913,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226675,
+      "num": 226675,
+      "word": "终于知道魏大勋好人缘是怎么来的",
+      "onboard_time": 1709223507,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 226465,
@@ -13563,6 +13571,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 112275,
+      "num": 112275,
+      "word": "宁艺卓的鞋大了",
+      "onboard_time": 1709224166,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112178,
       "num": 112178,
       "word": "代号鸢 警惕狐狸男",
@@ -13803,14 +13819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102108,
-      "num": 102108,
-      "word": "终于知道魏大勋好人缘是怎么来的",
-      "onboard_time": 1709223507,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 100823,
       "num": 246849,
       "word": "车辆着火男子又扶又拽救下2人",
@@ -13835,8 +13843,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 97274,
-      "num": 97274,
+      "raw_hot": 97951,
+      "num": 113290,
       "word": "三菱铅笔收购德国LAMY钢笔",
       "onboard_time": 1709221770,
       "rank": 41,
@@ -13865,6 +13873,14 @@
       "onboard_time": 1708876772,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91161,
+      "num": 91161,
+      "word": "戚薇不去浪姐",
+      "onboard_time": 1709224350,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 90784,
@@ -14065,6 +14081,14 @@
       "onboard_time": 1709114974,
       "rank": 33,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 71593,
+      "num": 73804,
+      "word": "成都春熙路天桥上长满了浪漫",
+      "onboard_time": 1709223868,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 71264,
