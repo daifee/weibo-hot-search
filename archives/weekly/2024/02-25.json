@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709217275811,
+  "endTime": 1709219852729,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -859,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1335492,
+      "num": 1335492,
+      "word": "花少团真的去了秦岚家",
+      "onboard_time": 1709215898,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1329925,
       "num": 1329925,
       "word": "27岁才意识到朋友都是阶段性的",
@@ -1467,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 950477,
+      "num": 274372,
+      "word": "今天不发朋友圈又得等四年",
+      "onboard_time": 1709218178,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 949457,
       "num": 949457,
       "word": "董宇辉说不讲内衣就是害羞",
@@ -1481,14 +1497,6 @@
       "onboard_time": 1708943016,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 948775,
-      "num": 948775,
-      "word": "花少团真的去了秦岚家",
-      "onboard_time": 1709215898,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 948058,
@@ -2019,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 791438,
+      "num": 457661,
+      "word": "朱珠女儿近照",
+      "onboard_time": 1709217576,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 789017,
       "num": 789017,
       "word": "董宇辉回应删博",
@@ -2337,6 +2353,14 @@
       "onboard_time": 1708908692,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 720644,
+      "num": 720644,
+      "word": "县城一中到底有多重要",
+      "onboard_time": 1709214998,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 718157,
@@ -2889,14 +2913,6 @@
       "onboard_time": 1708919077,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 612136,
-      "num": 552006,
-      "word": "县城一中到底有多重要",
-      "onboard_time": 1709214998,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 611590,
@@ -4443,6 +4459,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 428274,
+      "num": 428274,
+      "word": "涵艺爆料Doinb停播原因",
+      "onboard_time": 1709218657,
+      "rank": 12,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 426168,
       "num": 295517,
       "word": "从今天起尽量少熬夜",
@@ -5467,6 +5491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339091,
+      "num": 339091,
+      "word": "点读机女孩剃发",
+      "onboard_time": 1709216978,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338482,
       "num": 338482,
       "word": "林一周也 北体北电颜值高山",
@@ -6017,6 +6049,14 @@
       "onboard_time": 1709181756,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 305016,
+      "num": 305016,
+      "word": "米店日",
+      "onboard_time": 1709218836,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 304044,
@@ -8939,6 +8979,14 @@
       "category": "幽默,网红"
     },
     {
+      "raw_hot": 200178,
+      "num": 200178,
+      "word": "张极四年前视频",
+      "onboard_time": 1709219017,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200119,
       "num": 200119,
       "word": "KPL",
@@ -9227,6 +9275,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 195691,
+      "num": 231473,
+      "word": "小鹏汽车回应P7起火事故",
+      "onboard_time": 1709218178,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195639,
       "num": 195639,
       "word": "何炅说一号厅很亲切很温暖",
@@ -9275,6 +9331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194753,
+      "num": 194753,
+      "word": "烟火人家番外",
+      "onboard_time": 1709217815,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194543,
       "num": 194543,
       "word": "第二十条票房破20亿",
@@ -9288,14 +9352,6 @@
       "word": "快递不得擅自放快递柜",
       "onboard_time": 1709169933,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194424,
-      "num": 194424,
-      "word": "点读机女孩剃发",
-      "onboard_time": 1709216978,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -10331,6 +10387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 177058,
+      "num": 231467,
+      "word": "樊振东主动示意对手擦边得分",
+      "onboard_time": 1709219257,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176953,
       "num": 246945,
       "word": "怎么给猫猫狗狗买火车票",
@@ -10385,6 +10449,14 @@
       "onboard_time": 1709194171,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 176096,
+      "num": 176096,
+      "word": "声入人心团综",
+      "onboard_time": 1709219616,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 176026,
@@ -11041,6 +11113,14 @@
       "onboard_time": 1709095776,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163375,
+      "num": 163375,
+      "word": "周处除三害尺度",
+      "onboard_time": 1709062456,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 163319,
@@ -12899,6 +12979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127084,
+      "num": 127084,
+      "word": "韩国医生若辞职须立刻入伍",
+      "onboard_time": 1709219257,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127007,
       "num": 127007,
       "word": "TWICE舞台",
@@ -14465,14 +14553,6 @@
       "onboard_time": 1708743152,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16420,
-      "num": 17306,
-      "word": "周处除三害尺度",
-      "onboard_time": 1709062456,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 14709,

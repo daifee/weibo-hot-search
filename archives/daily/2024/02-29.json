@@ -1,6 +1,6 @@
 {
   "startTime": 1709137309596,
-  "endTime": 1709217275811,
+  "endTime": 1709219852729,
   "band_list": [
     {
       "raw_hot": 3110421,
@@ -179,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1335492,
+      "num": 1335492,
+      "word": "花少团真的去了秦岚家",
+      "onboard_time": 1709215898,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1290063,
       "num": 1290063,
       "word": "泰国男子寺庙闹事意外被佛像刺死",
@@ -291,12 +299,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 948775,
-      "num": 948775,
-      "word": "花少团真的去了秦岚家",
-      "onboard_time": 1709215898,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 950477,
+      "num": 274372,
+      "word": "今天不发朋友圈又得等四年",
+      "onboard_time": 1709218178,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 891322,
@@ -363,6 +371,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 791438,
+      "num": 457661,
+      "word": "朱珠女儿近照",
+      "onboard_time": 1709217576,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 784983,
       "num": 784983,
       "word": "教育局回应女老师打骂学生",
@@ -401,6 +417,14 @@
       "onboard_time": 1709163327,
       "rank": 7,
       "category": "运动健身,艺人"
+    },
+    {
+      "raw_hot": 720644,
+      "num": 720644,
+      "word": "县城一中到底有多重要",
+      "onboard_time": 1709214998,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 703964,
@@ -521,14 +545,6 @@
       "onboard_time": 1709214336,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 612136,
-      "num": 552006,
-      "word": "县城一中到底有多重要",
-      "onboard_time": 1709214998,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 611590,
@@ -811,6 +827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 428274,
+      "num": 428274,
+      "word": "涵艺爆料Doinb停播原因",
+      "onboard_time": 1709218657,
+      "rank": 12,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 423628,
       "num": 423628,
       "word": "人民日报评大数据杀熟",
@@ -1051,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 339091,
+      "num": 339091,
+      "word": "点读机女孩剃发",
+      "onboard_time": 1709216978,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 337821,
       "num": 337821,
       "word": "咒术回战",
@@ -1161,6 +1193,14 @@
       "onboard_time": 1709181756,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 305016,
+      "num": 305016,
+      "word": "米店日",
+      "onboard_time": 1709218836,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 295923,
@@ -1835,6 +1875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200178,
+      "num": 200178,
+      "word": "张极四年前视频",
+      "onboard_time": 1709219017,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200106,
       "num": 200106,
       "word": "iOS版地震预警APP添加预警功能订阅",
@@ -1899,6 +1947,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 195691,
+      "num": 231473,
+      "word": "小鹏汽车回应P7起火事故",
+      "onboard_time": 1709218178,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195392,
       "num": 195392,
       "word": "陈楚生武汉抢票",
@@ -1907,19 +1963,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194753,
+      "num": 194753,
+      "word": "烟火人家番外",
+      "onboard_time": 1709217815,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194434,
       "num": 194434,
       "word": "快递不得擅自放快递柜",
       "onboard_time": 1709169933,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194424,
-      "num": 194424,
-      "word": "点读机女孩剃发",
-      "onboard_time": 1709216978,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -2187,12 +2243,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 177058,
+      "num": 231467,
+      "word": "樊振东主动示意对手擦边得分",
+      "onboard_time": 1709219257,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176097,
       "num": 176097,
       "word": "Hero零封RNGM",
       "onboard_time": 1709194171,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 176096,
+      "num": 176096,
+      "word": "声入人心团综",
+      "onboard_time": 1709219616,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 174141,
@@ -2329,6 +2401,14 @@
       "onboard_time": 1709179174,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 163375,
+      "num": 163375,
+      "word": "周处除三害尺度",
+      "onboard_time": 1709218598,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 161705,
@@ -2800,6 +2880,14 @@
       "word": "钱塘江退潮露出龙形潮汐树",
       "onboard_time": 1709216075,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127084,
+      "num": 127084,
+      "word": "韩国医生若辞职须立刻入伍",
+      "onboard_time": 1709219257,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
