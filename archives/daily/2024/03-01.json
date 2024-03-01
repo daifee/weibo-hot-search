@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709277369617,
+  "endTime": 1709278500285,
   "band_list": [
     {
       "raw_hot": 2786251,
@@ -43,6 +43,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1487774,
+      "num": 1487774,
+      "word": "前女团成员解散后在工厂做女工",
+      "onboard_time": 1709275413,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1364110,
       "num": 1364110,
       "word": "崔胜澈免除兵役",
@@ -57,14 +65,6 @@
       "onboard_time": 1709270071,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1321098,
-      "num": 1321098,
-      "word": "前女团成员解散后在工厂做女工",
-      "onboard_time": 1709275413,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1309362,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 916137,
+      "num": 446902,
+      "word": "我是为了救我哥哥才出生的",
+      "onboard_time": 1709275352,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 913814,
       "num": 913814,
       "word": "11届快女 最癫的选秀",
@@ -121,6 +129,14 @@
       "onboard_time": 1709264311,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 863760,
+      "num": 710885,
+      "word": "春天是精神病的高发时期",
+      "onboard_time": 1709274573,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 838603,
@@ -163,6 +179,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 715715,
+      "num": 715715,
+      "word": "33岁白发妈妈亲吻去世宝宝墓碑",
+      "onboard_time": 1709274750,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 713003,
       "num": 713003,
       "word": "反诈老陈回应济宁消防喊话",
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 680605,
-      "num": 233877,
+      "num": 239704,
       "word": "双休6千单休8千",
       "onboard_time": 1709272713,
       "rank": 21,
@@ -217,14 +241,6 @@
       "onboard_time": 1709266957,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 637764,
-      "num": 637764,
-      "word": "春天是精神病的高发时期",
-      "onboard_time": 1709274573,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 635945,
@@ -323,14 +339,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 530641,
-      "num": 530641,
-      "word": "33岁白发妈妈亲吻去世宝宝墓碑",
-      "onboard_time": 1709274750,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 525671,
       "num": 525671,
       "word": "点读机女孩自称患罕见脑瘤",
@@ -339,20 +347,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524866,
+      "num": 524866,
+      "word": "奔驰放弃全电动车计划",
+      "onboard_time": 1709273131,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 523395,
       "num": 523395,
       "word": "周柯宇父亲被执行151万",
       "onboard_time": 1709271874,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 520962,
-      "num": 437605,
-      "word": "我是为了救我哥哥才出生的",
-      "onboard_time": 1709275352,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 497662,
@@ -401,14 +409,6 @@
       "onboard_time": 1709254056,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 453336,
-      "num": 453336,
-      "word": "奔驰放弃全电动车计划",
-      "onboard_time": 1709273131,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 453073,
@@ -505,6 +505,14 @@
       "onboard_time": 1709215296,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400519,
+      "num": 400519,
+      "word": "王俊凯或客串无名之辈2",
+      "onboard_time": 1709277453,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 399078,
@@ -628,7 +636,7 @@
     },
     {
       "raw_hot": 320387,
-      "num": 222252,
+      "num": 237812,
       "word": "春节结束妈妈手洗20多件羽绒服",
       "onboard_time": 1709275773,
       "rank": 21,
@@ -745,6 +753,14 @@
       "onboard_time": 1709264009,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 283471,
+      "num": 283471,
+      "word": "读研时被导师坚定地选择是什么体验",
+      "onboard_time": 1709276673,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 272317,
@@ -867,6 +883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214654,
+      "num": 214654,
+      "word": "你只是钱少而已",
+      "onboard_time": 1709277392,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214436,
       "num": 206990,
       "word": "永远别去碰谈了三四年恋爱的人",
@@ -889,6 +913,14 @@
       "onboard_time": 1709267435,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 210586,
+      "num": 210586,
+      "word": "与凤行排播",
+      "onboard_time": 1709278174,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 209383,
@@ -1035,6 +1067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187114,
+      "num": 187114,
+      "word": "邓紫棋天津 抢票",
+      "onboard_time": 1709278112,
+      "rank": 33,
+      "category": "演出,艺人"
+    },
+    {
       "raw_hot": 185227,
       "num": 185227,
       "word": "分手留多久空窗期才是尊重",
@@ -1163,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169755,
+      "num": 169755,
+      "word": "EDGM对战XYG",
+      "onboard_time": 1709277691,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167893,
       "num": 167893,
       "word": "檀健次张婧仪玩你画我猜",
@@ -1185,14 +1233,6 @@
       "onboard_time": 1709268457,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 165448,
-      "num": 165448,
-      "word": "读研时被导师坚定地选择是什么体验",
-      "onboard_time": 1709276673,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 164441,
@@ -1275,6 +1315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157437,
+      "num": 240190,
+      "word": "理想汽车春季发布会",
+      "onboard_time": 1709276912,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 156162,
       "num": 150214,
       "word": "返校的时候行李箱吐了",
@@ -1313,6 +1361,14 @@
       "onboard_time": 1709274992,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152382,
+      "num": 152382,
+      "word": "理想MEGA",
+      "onboard_time": 1709278413,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 151435,
@@ -1483,14 +1539,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 131840,
-      "num": 139591,
-      "word": "理想汽车春季发布会",
-      "onboard_time": 1709276912,
-      "rank": 39,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 129806,
       "num": 129806,
       "word": "王俊凯献唱云端之上",
@@ -1593,6 +1641,14 @@
       "onboard_time": 1709273072,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116373,
+      "num": 116373,
+      "word": "老一辈和当代年轻人社会性是倒置的",
+      "onboard_time": 1709277633,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 115716,
@@ -1851,6 +1907,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 42701,
+      "num": 324948,
+      "word": "TVB港星保姆车揭秘",
+      "onboard_time": 1709276432,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39893,
       "num": 49522,
       "word": "刘忻曾经是JYP的签约艺人",
@@ -1889,14 +1953,6 @@
       "onboard_time": 1709270913,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 22863,
-      "num": 324948,
-      "word": "TVB港星保姆车揭秘",
-      "onboard_time": 1709276432,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 21321,
