@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709328831868,
+  "endTime": 1709331367421,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -3067,6 +3067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95086,
+      "num": 95086,
+      "word": "张翰工作室起诉昕影影业",
+      "onboard_time": 1709320336,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 94484,
       "num": 102140,
       "word": "上海海港3比1武汉三镇",
@@ -3097,14 +3105,6 @@
       "onboard_time": 1709284531,
       "rank": 45,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 91741,
-      "num": 67431,
-      "word": "张翰工作室起诉昕影影业",
-      "onboard_time": 1709320336,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 90981,
@@ -3161,6 +3161,14 @@
       "onboard_time": 1709221233,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80740,
+      "num": 80740,
+      "word": "酒店回应只能外国人穿拖鞋用餐",
+      "onboard_time": 1709324237,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79547,
@@ -3244,7 +3252,7 @@
     },
     {
       "raw_hot": 63918,
-      "num": 41463,
+      "num": 54236,
       "word": "詹青云 我穿高跟鞋无法辩论",
       "onboard_time": 1709316800,
       "rank": 30,
@@ -3339,14 +3347,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 50632,
-      "num": 50632,
-      "word": "酒店回应只能外国人穿拖鞋用餐",
-      "onboard_time": 1709324237,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42701,
       "num": 324948,
       "word": "TVB港星保姆车揭秘",
@@ -3388,7 +3388,7 @@
     },
     {
       "raw_hot": 33271,
-      "num": 24900,
+      "num": 26139,
       "word": "蹭麻辣烫三个月流浪狗的变化",
       "onboard_time": 1709323457,
       "rank": 31,
@@ -3427,6 +3427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26799,
+      "num": 26799,
+      "word": "高楼失火卧室和厕所哪个更安全",
+      "onboard_time": 1709325136,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 26138,
       "num": 26138,
       "word": "慢冷式恋爱",
@@ -3459,20 +3467,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18597,
+      "num": 18597,
+      "word": "猎冰导演称评分4.7比预估高",
+      "onboard_time": 1709329396,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18521,
       "num": 18521,
       "word": "孙千回应麦姬判官",
       "onboard_time": 1709234057,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 18415,
-      "num": 18415,
-      "word": "高楼失火卧室和厕所哪个更安全",
-      "onboard_time": 1709325136,
-      "rank": 25,
-      "category": "科学科普"
     },
     {
       "raw_hot": 17273,
@@ -3499,6 +3507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 15980,
+      "num": 15980,
+      "word": "颖儿再演夏冬春",
+      "onboard_time": 1709323036,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15579,
       "num": 19414,
       "word": "张真源的晚安小屋",
@@ -3507,12 +3523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14536,
-      "num": 14536,
-      "word": "颖儿再演夏冬春",
-      "onboard_time": 1709323036,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 13642,
+      "num": 14399,
+      "word": "造型指导解读赵丽颖第二十条妆造",
+      "onboard_time": 1709327475,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 13146,
@@ -3531,12 +3547,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11389,
-      "num": 12443,
-      "word": "造型指导解读赵丽颖第二十条妆造",
-      "onboard_time": 1709327475,
-      "rank": 49,
-      "category": "电影"
+      "raw_hot": 11540,
+      "num": 14379,
+      "word": "iQOO五周年",
+      "onboard_time": 1709330295,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 10114,
