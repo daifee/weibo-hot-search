@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709306314734,
+  "endTime": 1709307254381,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -867,6 +867,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1414321,
+      "num": 1414321,
+      "word": "姚安娜回应演技争议",
+      "onboard_time": 1709305231,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1407319,
       "num": 1407319,
       "word": "肖战戒碳失败",
@@ -1115,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1238653,
+      "num": 1238653,
+      "word": "彩票店回应女生花4元中500万",
+      "onboard_time": 1709302713,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1237625,
       "num": 1237625,
       "word": "李亚鹏直播哭穷",
@@ -1297,14 +1313,6 @@
       "onboard_time": 1709125473,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1119914,
-      "num": 1119914,
-      "word": "彩票店回应女生花4元中500万",
-      "onboard_time": 1709302713,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1119403,
@@ -1561,14 +1569,6 @@
       "onboard_time": 1709297971,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 999417,
-      "num": 999417,
-      "word": "姚安娜回应演技争议",
-      "onboard_time": 1709305231,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 997379,
@@ -3539,6 +3539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 593901,
+      "num": 593901,
+      "word": "家长称自家孩子不上早课睡到自然醒",
+      "onboard_time": 1709304036,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593498,
       "num": 333645,
       "word": "英语四六级424是什么含金量",
@@ -5347,14 +5355,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 419154,
-      "num": 419154,
-      "word": "家长称自家孩子不上早课睡到自然醒",
-      "onboard_time": 1709304036,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 418772,
       "num": 418772,
       "word": "考研查分通道汇总",
@@ -5800,6 +5800,14 @@
       "word": "黄圣依晒儿子近照",
       "onboard_time": 1708869633,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 383054,
+      "num": 383054,
+      "word": "苏有朋回应小虎队不和传闻",
+      "onboard_time": 1709304754,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -6459,6 +6467,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 339320,
+      "num": 339320,
+      "word": "娜扎露腰上衣",
+      "onboard_time": 1709304635,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 339188,
       "num": 339188,
       "word": "章若楠cos大乔",
@@ -6713,14 +6729,6 @@
       "onboard_time": 1708942414,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 321778,
-      "num": 321778,
-      "word": "苏有朋回应小虎队不和传闻",
-      "onboard_time": 1709304754,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 321416,
@@ -8379,14 +8387,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 254027,
-      "num": 254027,
-      "word": "娜扎露腰上衣",
-      "onboard_time": 1709304635,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 253872,
       "num": 227314,
       "word": "结婚选花童一定要谨慎",
@@ -8859,6 +8859,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 238953,
+      "num": 238953,
+      "word": "蔡英文办公室一卫兵中枪",
+      "onboard_time": 1709307210,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 238760,
       "num": 238760,
       "word": "睡觉翻个身房子塌了",
@@ -8961,6 +8969,14 @@
       "onboard_time": 1709273131,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235374,
+      "num": 235374,
+      "word": "青海洪水",
+      "onboard_time": 1709306733,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234661,
@@ -10465,6 +10481,14 @@
       "onboard_time": 1709179413,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201261,
+      "num": 201261,
+      "word": "百词斩崩了",
+      "onboard_time": 1709307210,
+      "rank": 26,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 200848,
@@ -13523,6 +13547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 157093,
+      "num": 157093,
+      "word": "郑恺你管这叫随便吃点",
+      "onboard_time": 1709307154,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157073,
       "num": 157073,
       "word": "六月租房贵的原因",
@@ -14273,6 +14305,14 @@
       "onboard_time": 1709016574,
       "rank": 43,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 144270,
+      "num": 144270,
+      "word": "第二十条",
+      "onboard_time": 1709306791,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 144225,
@@ -16227,6 +16267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107639,
+      "num": 107639,
+      "word": "顾寻 活该追妻火葬场",
+      "onboard_time": 1709306913,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107414,
       "num": 135605,
       "word": "不要回头看 迅速买单离场",
@@ -16449,6 +16497,14 @@
       "onboard_time": 1709122834,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 89632,
+      "num": 1010924,
+      "word": "一组数据看青山定不负人",
+      "onboard_time": 1709306071,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86372,
@@ -17425,14 +17481,6 @@
       "onboard_time": 1709235555,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12397,
-      "num": 1010924,
-      "word": "一组数据看青山定不负人",
-      "onboard_time": 1709306071,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12339,

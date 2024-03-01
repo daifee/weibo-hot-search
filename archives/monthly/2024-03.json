@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709306314734,
+  "endTime": 1709307254381,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1414321,
+      "num": 1414321,
+      "word": "姚安娜回应演技争议",
+      "onboard_time": 1709305231,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1364110,
       "num": 1364110,
       "word": "崔胜澈免除兵役",
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1238653,
+      "num": 1238653,
+      "word": "彩票店回应女生花4元中500万",
+      "onboard_time": 1709302713,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1236264,
       "num": 1236264,
       "word": "拜登宣称将对中国进口汽车采取前所未有行动",
@@ -145,14 +161,6 @@
       "onboard_time": 1709272411,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1119914,
-      "num": 1119914,
-      "word": "彩票店回应女生花4元中500万",
-      "onboard_time": 1709302713,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1093995,
@@ -201,14 +209,6 @@
       "onboard_time": 1709297971,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 999417,
-      "num": 999417,
-      "word": "姚安娜回应演技争议",
-      "onboard_time": 1709305231,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 916839,
@@ -472,6 +472,14 @@
       "word": "你需退税还是补税",
       "onboard_time": 1709253272,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 593901,
+      "num": 593901,
+      "word": "家长称自家孩子不上早课睡到自然醒",
+      "onboard_time": 1709304036,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -843,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419154,
-      "num": 419154,
-      "word": "家长称自家孩子不上早课睡到自然醒",
-      "onboard_time": 1709304036,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 418223,
       "num": 418223,
       "word": "苏州小鹏P7事故碰撞前存在高速驾驶",
@@ -929,6 +929,14 @@
       "onboard_time": 1709294912,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 383054,
+      "num": 383054,
+      "word": "苏有朋回应小虎队不和传闻",
+      "onboard_time": 1709304754,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 380728,
@@ -1059,6 +1067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 339320,
+      "num": 339320,
+      "word": "娜扎露腰上衣",
+      "onboard_time": 1709304635,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 339188,
       "num": 339188,
       "word": "章若楠cos大乔",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1709289455,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 321778,
-      "num": 321778,
-      "word": "苏有朋回应小虎队不和传闻",
-      "onboard_time": 1709304754,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 321416,
@@ -1387,14 +1395,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 254027,
-      "num": 254027,
-      "word": "娜扎露腰上衣",
-      "onboard_time": 1709304635,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 251848,
       "num": 251848,
       "word": "DQ联名 排队",
@@ -1435,6 +1435,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 238953,
+      "num": 238953,
+      "word": "蔡英文办公室一卫兵中枪",
+      "onboard_time": 1709307210,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 238636,
       "num": 238636,
       "word": "斗鱼持股公司曾申请一条小团团商标",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1709273131,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235374,
+      "num": 235374,
+      "word": "青海洪水",
+      "onboard_time": 1709306733,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227153,
@@ -1681,6 +1697,14 @@
       "onboard_time": 1709254595,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201261,
+      "num": 201261,
+      "word": "百词斩崩了",
+      "onboard_time": 1709307210,
+      "rank": 26,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 200324,
@@ -2259,6 +2283,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 157093,
+      "num": 157093,
+      "word": "郑恺你管这叫随便吃点",
+      "onboard_time": 1709307154,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156162,
       "num": 150214,
       "word": "返校的时候行李箱吐了",
@@ -2393,6 +2425,14 @@
       "onboard_time": 1709290836,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144270,
+      "num": 144270,
+      "word": "第二十条",
+      "onboard_time": 1709306791,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 144106,
@@ -2843,6 +2883,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 107639,
+      "num": 107639,
+      "word": "顾寻 活该追妻火葬场",
+      "onboard_time": 1709306913,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107462,
       "num": 107462,
       "word": "杨幂下车神图",
@@ -2985,6 +3033,14 @@
       "onboard_time": 1709211814,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89632,
+      "num": 1010924,
+      "word": "一组数据看青山定不负人",
+      "onboard_time": 1709306071,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86986,
@@ -3265,14 +3321,6 @@
       "onboard_time": 1709235555,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12397,
-      "num": 1010924,
-      "word": "一组数据看青山定不负人",
-      "onboard_time": 1709306071,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12177,
