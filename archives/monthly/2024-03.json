@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709281253375,
+  "endTime": 1709282060317,
   "band_list": [
     {
       "raw_hot": 2786251,
@@ -99,8 +99,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1024259,
-      "num": 1024259,
+      "raw_hot": 1090781,
+      "num": 1090781,
       "word": "我是为了救我哥哥才出生的",
       "onboard_time": 1709275352,
       "rank": 11,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 680605,
-      "num": 239704,
+      "num": 277538,
       "word": "双休6千单休8千",
       "onboard_time": 1709272713,
       "rank": 21,
@@ -265,6 +265,14 @@
       "onboard_time": 1709230938,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 619589,
+      "num": 619589,
+      "word": "建议取消强制自动续费",
+      "onboard_time": 1709280390,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 608108,
@@ -411,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 472877,
+      "num": 472877,
+      "word": "周柯宇哥哥",
+      "onboard_time": 1709279913,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 469642,
       "num": 469642,
       "word": "泰国男子寺庙闹事意外被佛像刺死",
@@ -531,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 406201,
-      "num": 406201,
-      "word": "周柯宇哥哥",
-      "onboard_time": 1709279913,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 403213,
       "num": 403213,
       "word": "与凤行排播",
@@ -601,6 +609,14 @@
       "onboard_time": 1709222071,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375651,
+      "num": 375651,
+      "word": "农夫山泉 娃哈哈",
+      "onboard_time": 1709280870,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 358392,
@@ -699,6 +715,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 312877,
+      "num": 272509,
+      "word": "特斯拉3个月降价3次",
+      "onboard_time": 1709280634,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 312677,
       "num": 311811,
       "word": "有一种晕叫耳石症",
@@ -793,6 +817,14 @@
       "onboard_time": 1709264009,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 280807,
+      "num": 280807,
+      "word": "武契奇这次用两秒说清台湾问题",
+      "onboard_time": 1709280810,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 272317,
@@ -899,22 +931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219024,
-      "num": 219024,
-      "word": "建议取消强制自动续费",
-      "onboard_time": 1709280390,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 218501,
-      "num": 218501,
-      "word": "特斯拉3个月降价3次",
-      "onboard_time": 1709280634,
-      "rank": 21,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 216175,
       "num": 216175,
       "word": "郑秀妍泳装照",
@@ -995,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206550,
+      "num": 206550,
+      "word": "郭艾伦近十年首次缺席全明星",
+      "onboard_time": 1709281653,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205361,
       "num": 205361,
       "word": "少吃饭能延缓衰老",
@@ -1067,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195574,
+      "num": 195574,
+      "word": "大理寺少卿游 家人的控制欲",
+      "onboard_time": 1709281233,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195117,
       "num": 195117,
       "word": "3月1日个税汇算已约满",
@@ -1129,6 +1161,14 @@
       "onboard_time": 1709262211,
       "rank": 34,
       "category": "财经,科学科普"
+    },
+    {
+      "raw_hot": 181949,
+      "num": 181949,
+      "word": "睡姿不对越睡越累",
+      "onboard_time": 1709280571,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 181805,
@@ -1243,14 +1283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169898,
-      "num": 169898,
-      "word": "农夫山泉 娃哈哈",
-      "onboard_time": 1709280870,
-      "rank": 27,
-      "category": "美食"
-    },
-    {
       "raw_hot": 169755,
       "num": 169755,
       "word": "EDGM对战XYG",
@@ -1273,6 +1305,14 @@
       "onboard_time": 1709260473,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165704,
+      "num": 165704,
+      "word": "龚俊玩手机好像我上课忘带笔",
+      "onboard_time": 1709281590,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 165680,
@@ -1411,12 +1451,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 152051,
-      "num": 152051,
-      "word": "武契奇这次用两秒说清台湾问题",
-      "onboard_time": 1709280810,
-      "rank": 36,
-      "category": "国内时政"
+      "raw_hot": 152125,
+      "num": 152125,
+      "word": "檀健次打字速度",
+      "onboard_time": 1709281773,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 151435,
@@ -1473,6 +1513,14 @@
       "onboard_time": 1709256450,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 147890,
+      "num": 168188,
+      "word": "语文课本和祖国大好河山的适配度",
+      "onboard_time": 1709281050,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 144106,
@@ -1545,14 +1593,6 @@
       "onboard_time": 1709280993,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 138482,
-      "num": 138482,
-      "word": "睡姿不对越睡越累",
-      "onboard_time": 1709280571,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 137626,
@@ -1675,14 +1715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122351,
-      "num": 167238,
-      "word": "语文课本和祖国大好河山的适配度",
-      "onboard_time": 1709281050,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 120911,
       "num": 120911,
       "word": "宁艺卓的鞋大了",
@@ -1763,14 +1795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111280,
-      "num": 111280,
-      "word": "大理寺少卿游 家人的控制欲",
-      "onboard_time": 1709281233,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108425,
       "num": 108425,
       "word": "死亡笔记画风永不过时",
@@ -1785,6 +1809,22 @@
       "onboard_time": 1709210915,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 106621,
+      "num": 152002,
+      "word": "章若楠大乔白鹤梁神女",
+      "onboard_time": 1709281233,
+      "rank": 49,
+      "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 105815,
+      "num": 105815,
+      "word": "化妆品一盘多用",
+      "onboard_time": 1709281953,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 105192,
@@ -1865,14 +1905,6 @@
       "onboard_time": 1709211814,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88219,
-      "num": 103588,
-      "word": "章若楠大乔白鹤梁神女",
-      "onboard_time": 1709281233,
-      "rank": 49,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 86986,
@@ -2004,7 +2036,7 @@
     },
     {
       "raw_hot": 50821,
-      "num": 459229,
+      "num": 460407,
       "word": "公路高铁理想MEGA",
       "onboard_time": 1709279552,
       "rank": 11,
