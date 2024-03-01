@@ -1,0 +1,410 @@
+{
+  "runTime": 1709297118434,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2862720,
+        "num": 2862720,
+        "word": "德州车祸致2死6重伤",
+        "onboard_time": 1709291435,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1981177,
+        "num": 1981177,
+        "word": "德州驾车撞人男子已被当场抓获",
+        "onboard_time": 1709293531,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103650,
+        "num": 1589737,
+        "word": "横琴全岛正式封关运行",
+        "onboard_time": 1709283753,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1426034,
+        "num": 1426034,
+        "word": "山东一轿车撞伤10余名儿童",
+        "onboard_time": 1709288612,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1016351,
+        "num": 1016351,
+        "word": "原神 混池",
+        "onboard_time": 1709295813,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 933031,
+        "num": 933031,
+        "word": "杨幂张小斐袁姗姗是一个宿舍的",
+        "onboard_time": 1709288254,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 927306,
+        "num": 927306,
+        "word": "大学生花4块钱中了500万",
+        "onboard_time": 1709286572,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 774437,
+        "num": 774437,
+        "word": "终于知道娃哈哈为啥用纸箱包装了",
+        "onboard_time": 1709292990,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 685505,
+        "num": 685505,
+        "word": "宋昕冉晒迪丽热巴to签",
+        "onboard_time": 1709294912,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418130,
+        "num": 418130,
+        "word": "全员加速中",
+        "onboard_time": 1709295872,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 682521,
+        "num": 417778,
+        "word": "张小斐荡领吊带",
+        "onboard_time": 1709291854,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 603215,
+        "num": 410626,
+        "word": "杨幂总裁出街",
+        "onboard_time": 1709293531,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 398720,
+        "num": 398720,
+        "word": "德州献血",
+        "onboard_time": 1709291972,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373650,
+        "num": 373650,
+        "word": "张雪峰建议英语口语占120分",
+        "onboard_time": 1709289632,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 367046,
+        "num": 367046,
+        "word": "小红书 连不上网",
+        "onboard_time": 1709294128,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 355488,
+        "num": 355488,
+        "word": "赵丽颖出道前的工作",
+        "onboard_time": 1709285072,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331933,
+        "num": 331933,
+        "word": "章若楠cos大乔",
+        "onboard_time": 1709291491,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311469,
+        "num": 311469,
+        "word": "原神前瞻",
+        "onboard_time": 1709296774,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298912,
+        "num": 298912,
+        "word": "前女团成员解散后在工厂做女工",
+        "onboard_time": 1709275413,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278610,
+        "num": 278610,
+        "word": "红楼梦 抢票",
+        "onboard_time": 1709285852,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 452555,
+        "num": 272353,
+        "word": "以为很卫生其实很脏的行为",
+        "onboard_time": 1709295093,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 319644,
+        "num": 272333,
+        "word": "建议不要等到睡前才刷牙",
+        "onboard_time": 1709295272,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 281159,
+        "num": 265877,
+        "word": "章若楠的假发有四斤多重",
+        "onboard_time": 1709294375,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249688,
+        "num": 249688,
+        "word": "市民排队为德州受伤学生献血",
+        "onboard_time": 1709291253,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249489,
+        "num": 249489,
+        "word": "上财校长称很多大学拿理工科的钱搞文科",
+        "onboard_time": 1709294912,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 245536,
+        "num": 245536,
+        "word": "小S大女儿Elly近照",
+        "onboard_time": 1709296233,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222503,
+        "num": 222503,
+        "word": "中国官网最低3499元就能买iPhone",
+        "onboard_time": 1709295272,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 208964,
+        "num": 208964,
+        "word": "爱情公寓里的胡歌",
+        "onboard_time": 1709282791,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5738,
+        "num": 201323,
+        "word": "更大的幸福全给你",
+        "onboard_time": 1709293592,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46927,
+        "num": 201094,
+        "word": "497名在缅跨境电诈嫌犯移交我方",
+        "onboard_time": 1709290836,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201060,
+        "num": 201060,
+        "word": "阮经天好帅",
+        "onboard_time": 1709294194,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199409,
+        "num": 199409,
+        "word": "水哥 只要我上的项目就押满分",
+        "onboard_time": 1709296471,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188622,
+        "num": 188622,
+        "word": "林俊杰福州",
+        "onboard_time": 1709295872,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185826,
+        "num": 185826,
+        "word": "TES战胜iG",
+        "onboard_time": 1709295872,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183713,
+        "num": 183713,
+        "word": "春天是精神病的高发时期",
+        "onboard_time": 1709274573,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178628,
+        "num": 178628,
+        "word": "德州市民回应自发献血",
+        "onboard_time": 1709293953,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165201,
+        "num": 165201,
+        "word": "孙千裤子",
+        "onboard_time": 1709288133,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150995,
+        "num": 150995,
+        "word": "TES时隔736天重回S组",
+        "onboard_time": 1709289573,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148625,
+        "num": 148625,
+        "word": "卓沅 十个勤天卖菜啦",
+        "onboard_time": 1709293353,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140762,
+        "num": 140762,
+        "word": "疯狂星期五",
+        "onboard_time": 1709290295,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139655,
+        "num": 139655,
+        "word": "奥本海默日本广岛长崎试映会",
+        "onboard_time": 1709294312,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134326,
+        "num": 134326,
+        "word": "当我路过抽烟的人想让他们内疚时",
+        "onboard_time": 1709295153,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134082,
+        "num": 134082,
+        "word": "种地吧",
+        "onboard_time": 1709295513,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132610,
+        "num": 132610,
+        "word": "阿姨 下次不要发截图了",
+        "onboard_time": 1709291435,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131266,
+        "num": 131266,
+        "word": "小米向国家自然科学基金委员会捐赠1亿元",
+        "onboard_time": 1709292212,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130160,
+        "num": 130160,
+        "word": "田柾国 炊事兵",
+        "onboard_time": 1709283033,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129728,
+        "num": 129728,
+        "word": "山东泰山四外援齐破门",
+        "onboard_time": 1709296052,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124435,
+        "num": 124435,
+        "word": "面试的领导认识我爸",
+        "onboard_time": 1709289455,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145946,
+        "num": 124280,
+        "word": "Boss直聘 打工人的加油站",
+        "onboard_time": 1709286451,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123220,
+        "num": 123220,
+        "word": "天气冷得仿佛还没过完年",
+        "onboard_time": 1709296233,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力推动我国新能源高质量发展#"
+    }
+  }
+}

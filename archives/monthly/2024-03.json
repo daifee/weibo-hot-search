@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709296259228,
+  "endTime": 1709297118434,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1016351,
+      "num": 1016351,
+      "word": "原神 混池",
+      "onboard_time": 1709295813,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 916839,
       "num": 916839,
       "word": "小S二女儿Lily16岁身材",
@@ -219,6 +227,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 774437,
+      "num": 774437,
+      "word": "终于知道娃哈哈为啥用纸箱包装了",
+      "onboard_time": 1709292990,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 773694,
       "num": 773694,
       "word": "韩国医生若辞职须立刻入伍",
@@ -241,14 +257,6 @@
       "onboard_time": 1709278590,
       "rank": 3,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 737014,
-      "num": 737014,
-      "word": "原神 混池",
-      "onboard_time": 1709295813,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 736431,
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 682521,
+      "num": 632054,
+      "word": "张小斐荡领吊带",
+      "onboard_time": 1709291854,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 680605,
       "num": 277538,
       "word": "双休6千单休8千",
@@ -363,22 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 635837,
-      "num": 635837,
-      "word": "终于知道娃哈哈为啥用纸箱包装了",
-      "onboard_time": 1709292990,
-      "rank": 8,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 632054,
-      "num": 632054,
-      "word": "张小斐荡领吊带",
-      "onboard_time": 1709291854,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 620226,
       "num": 620226,
       "word": "上班恶心穿搭引发年轻人共鸣",
@@ -401,6 +401,14 @@
       "onboard_time": 1709268816,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 603215,
+      "num": 540322,
+      "word": "杨幂总裁出街",
+      "onboard_time": 1709293531,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 598304,
@@ -465,14 +473,6 @@
       "onboard_time": 1709258011,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 540322,
-      "num": 540322,
-      "word": "杨幂总裁出街",
-      "onboard_time": 1709293531,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 538721,
@@ -619,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452555,
+      "num": 320142,
+      "word": "以为很卫生其实很脏的行为",
+      "onboard_time": 1709295093,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 450778,
       "num": 301324,
       "word": "香港大学深圳医院声明",
@@ -665,14 +673,6 @@
       "onboard_time": 1709249726,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 439527,
-      "num": 320142,
-      "word": "以为很卫生其实很脏的行为",
-      "onboard_time": 1709295093,
-      "rank": 20,
-      "category": "科学科普"
     },
     {
       "raw_hot": 435121,
@@ -737,6 +737,14 @@
       "onboard_time": 1709259812,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418130,
+      "num": 418130,
+      "word": "全员加速中",
+      "onboard_time": 1709295872,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 415734,
@@ -811,20 +819,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 377892,
-      "num": 377892,
-      "word": "全员加速中",
-      "onboard_time": 1709295872,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 377799,
       "num": 377799,
       "word": "陈靖可曾因外貌遭校园暴力",
       "onboard_time": 1709222071,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373650,
+      "num": 373650,
+      "word": "张雪峰建议英语口语占120分",
+      "onboard_time": 1709289632,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 371560,
@@ -865,14 +873,6 @@
       "onboard_time": 1709290295,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 345523,
-      "num": 345523,
-      "word": "张雪峰建议英语口语占120分",
-      "onboard_time": 1709289632,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 345329,
@@ -963,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319644,
+      "num": 293529,
+      "word": "建议不要等到睡前才刷牙",
+      "onboard_time": 1709295272,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 318162,
       "num": 318162,
       "word": "章若楠的假发有四斤多重",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1709256751,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 311469,
+      "num": 311469,
+      "word": "原神前瞻",
+      "onboard_time": 1709296774,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 311294,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1709262992,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 293529,
-      "num": 293529,
-      "word": "建议不要等到睡前才刷牙",
-      "onboard_time": 1709295272,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 293229,
@@ -1219,6 +1227,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 249489,
+      "num": 249489,
+      "word": "上财校长称很多大学拿理工科的钱搞文科",
+      "onboard_time": 1709294912,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 245536,
+      "num": 245536,
+      "word": "小S大女儿Elly近照",
+      "onboard_time": 1709296233,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242555,
       "num": 242555,
       "word": "守护甜心 几斗太甜了",
@@ -1273,6 +1297,14 @@
       "onboard_time": 1709199691,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222503,
+      "num": 222503,
+      "word": "中国官网最低3499元就能买iPhone",
+      "onboard_time": 1709295272,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 220716,
@@ -1483,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199409,
+      "num": 199409,
+      "word": "水哥 只要我上的项目就押满分",
+      "onboard_time": 1709296471,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198875,
       "num": 198875,
       "word": "詹姆斯31分",
@@ -1563,14 +1603,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192055,
-      "num": 192055,
-      "word": "中国官网最低3499元就能买iPhone",
-      "onboard_time": 1709295272,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 189739,
       "num": 189739,
       "word": "三月你好",
@@ -1601,6 +1633,14 @@
       "onboard_time": 1709295153,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188622,
+      "num": 188622,
+      "word": "林俊杰福州",
+      "onboard_time": 1709295872,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 187114,
@@ -1691,14 +1731,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 181271,
-      "num": 181271,
-      "word": "上财校长称很多大学拿理工科的钱搞文科",
-      "onboard_time": 1709294912,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 181223,
       "num": 181223,
       "word": "阿姨 下次不要发截图了",
@@ -1753,14 +1785,6 @@
       "onboard_time": 1709266594,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 176632,
-      "num": 176632,
-      "word": "林俊杰福州",
-      "onboard_time": 1709295872,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 176266,
@@ -2116,7 +2140,7 @@
     },
     {
       "raw_hot": 145701,
-      "num": 192092,
+      "num": 201094,
       "word": "497名在缅跨境电诈嫌犯移交我方",
       "onboard_time": 1709290836,
       "rank": 38,
@@ -2257,14 +2281,6 @@
       "onboard_time": 1709248464,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 134717,
-      "num": 134717,
-      "word": "小S大女儿Elly近照",
-      "onboard_time": 1709296233,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 134393,
