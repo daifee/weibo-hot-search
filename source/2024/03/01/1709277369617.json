@@ -1,0 +1,410 @@
+{
+  "runTime": 1709277369617,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1321098,
+        "num": 1321098,
+        "word": "前女团成员解散后在工厂做女工",
+        "onboard_time": 1709275413,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1314465,
+        "num": 1314465,
+        "word": "曾经很火但消失了的童年零食",
+        "onboard_time": 1709269654,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25949,
+        "num": 822689,
+        "word": "一组图了解两会知识",
+        "onboard_time": 1709252432,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 790728,
+        "num": 790728,
+        "word": "小团团已停播34天",
+        "onboard_time": 1709273553,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 705724,
+        "num": 705724,
+        "word": "妍珍呐 你认得出自己吗",
+        "onboard_time": 1709272411,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652464,
+        "num": 652464,
+        "word": "退税",
+        "onboard_time": 1709249065,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 637764,
+        "num": 637764,
+        "word": "春天是精神病的高发时期",
+        "onboard_time": 1709274573,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 530641,
+        "num": 530641,
+        "word": "33岁白发妈妈亲吻去世宝宝墓碑",
+        "onboard_time": 1709274750,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485182,
+        "num": 485182,
+        "word": "微信删除后加回来对方知道吗",
+        "onboard_time": 1709257051,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 453336,
+        "num": 453336,
+        "word": "奔驰放弃全电动车计划",
+        "onboard_time": 1709273131,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 887724,
+        "num": 443868,
+        "word": "美国女教师和16岁男生发生关系或被判25年",
+        "onboard_time": 1709271392,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520962,
+        "num": 437605,
+        "word": "我是为了救我哥哥才出生的",
+        "onboard_time": 1709275352,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 412813,
+        "num": 412813,
+        "word": "周柯宇父亲被执行151万",
+        "onboard_time": 1709271874,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382893,
+        "num": 382893,
+        "word": "赵丽颖银白挑染",
+        "onboard_time": 1709270014,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22863,
+        "num": 324948,
+        "word": "TVB港星保姆车揭秘",
+        "onboard_time": 1709276432,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294680,
+        "num": 294680,
+        "word": "迪丽热巴三月录制综艺",
+        "onboard_time": 1709266414,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260730,
+        "num": 260730,
+        "word": "张译银发造型",
+        "onboard_time": 1709274452,
+        "rank": 16,
+        "category": "作品衍生,作品衍生"
+      },
+      {
+        "raw_hot": 254584,
+        "num": 254584,
+        "word": "小S二女儿Lily16岁身材",
+        "onboard_time": 1709262450,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227135,
+        "num": 227135,
+        "word": "女子回应怀孕8个月考研获专业第一",
+        "onboard_time": 1709257411,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170870,
+        "num": 226352,
+        "word": "江苏南通5死13伤爆炸事故原因公布",
+        "onboard_time": 1709264311,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628073,
+        "num": 224950,
+        "word": "双休6千单休8千",
+        "onboard_time": 1709272713,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320387,
+        "num": 222252,
+        "word": "春节结束妈妈手洗20多件羽绒服",
+        "onboard_time": 1709275773,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227153,
+        "num": 220749,
+        "word": "在卫生间感受到了职场的爱",
+        "onboard_time": 1709276673,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220433,
+        "num": 220433,
+        "word": "易烊千玺帽子",
+        "onboard_time": 1709266957,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212329,
+        "num": 212329,
+        "word": "有一种晕叫耳石症",
+        "onboard_time": 1709256751,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209383,
+        "num": 209383,
+        "word": "严浩翔最新机场状态",
+        "onboard_time": 1709275890,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205556,
+        "num": 205556,
+        "word": "兴高采烈退税结果要补1万8",
+        "onboard_time": 1709264191,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203484,
+        "num": 203484,
+        "word": "高君雨",
+        "onboard_time": 1709273131,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199448,
+        "num": 199448,
+        "word": "全智贤新证件照",
+        "onboard_time": 1709275531,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127344,
+        "num": 189176,
+        "word": "中共中央政治局集体学习",
+        "onboard_time": 1709265874,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187621,
+        "num": 187621,
+        "word": "海底捞试点螺蛳粉火锅",
+        "onboard_time": 1709268816,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 186513,
+        "num": 186513,
+        "word": "白敬亭范思哲全球香水代言人",
+        "onboard_time": 1709261251,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172437,
+        "num": 172437,
+        "word": "关闭朋友圈十年后的变化",
+        "onboard_time": 1709266055,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165448,
+        "num": 165448,
+        "word": "读研时被导师坚定地选择是什么体验",
+        "onboard_time": 1709276673,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152390,
+        "num": 152390,
+        "word": "徐佳莹抢票",
+        "onboard_time": 1709274992,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146921,
+        "num": 146921,
+        "word": "张婧仪生图",
+        "onboard_time": 1709272591,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145038,
+        "num": 145038,
+        "word": "为何瑞幸不跟库迪打价格战了",
+        "onboard_time": 1709265394,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140938,
+        "num": 140938,
+        "word": "小猫才是违背了天性爱你",
+        "onboard_time": 1709265934,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140187,
+        "num": 140187,
+        "word": "小团团前公会被执行44.57万",
+        "onboard_time": 1709265336,
+        "rank": 38,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 131840,
+        "num": 139591,
+        "word": "理想汽车春季发布会",
+        "onboard_time": 1709276912,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139037,
+        "num": 139037,
+        "word": "詹姆斯距离4万分还差9分",
+        "onboard_time": 1709275352,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138860,
+        "num": 138860,
+        "word": "掌心官宣",
+        "onboard_time": 1709264191,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125811,
+        "num": 125811,
+        "word": "00后同事因为失恋请假了",
+        "onboard_time": 1709270195,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125417,
+        "num": 125417,
+        "word": "凌晨蹲点退税退到了3万多",
+        "onboard_time": 1709256869,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 116621,
+        "num": 116621,
+        "word": "斗鱼持股公司曾申请一条小团团商标",
+        "onboard_time": 1709258674,
+        "rank": 44,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 116544,
+        "num": 116544,
+        "word": "刘诗诗首部古装悬疑剧",
+        "onboard_time": 1709270555,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115716,
+        "num": 115716,
+        "word": "人生找不到方向时如何缓解焦虑",
+        "onboard_time": 1709277212,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48869,
+        "num": 115629,
+        "word": "王者荣耀最佳天菜舞蹈挑战",
+        "onboard_time": 1709273072,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115604,
+        "num": 115604,
+        "word": "赵丽颖在人间或将开机",
+        "onboard_time": 1709269538,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110376,
+        "num": 110376,
+        "word": "詹姆斯31分",
+        "onboard_time": 1709274214,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#当好中国式现代化建设坚定行动派实干家#"
+    }
+  }
+}
