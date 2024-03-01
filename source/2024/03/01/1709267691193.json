@@ -1,0 +1,410 @@
+{
+  "runTime": 1709267691193,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1665833,
+        "num": 1665833,
+        "word": "退税",
+        "onboard_time": 1709249065,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1380650,
+        "num": 1380650,
+        "word": "掌心官宣",
+        "onboard_time": 1709264191,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64517,
+        "num": 1072681,
+        "word": "一组图了解两会知识",
+        "onboard_time": 1709252432,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1036173,
+        "num": 1036173,
+        "word": "拜登宣称将对中国进口汽车采取前所未有行动",
+        "onboard_time": 1709261612,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 998737,
+        "num": 998737,
+        "word": "女子回应怀孕8个月考研获专业第一",
+        "onboard_time": 1709257411,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867045,
+        "num": 867045,
+        "word": "江苏南通5死13伤爆炸事故原因公布",
+        "onboard_time": 1709264311,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857193,
+        "num": 857193,
+        "word": "迪丽热巴三月录制综艺",
+        "onboard_time": 1709266414,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 807045,
+        "num": 807045,
+        "word": "白敬亭范思哲全球香水代言人",
+        "onboard_time": 1709261251,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 798765,
+        "num": 798765,
+        "word": "小S二女儿Lily16岁身材",
+        "onboard_time": 1709262450,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 658271,
+        "num": 658271,
+        "word": "退税还是补税一个公式教你计算",
+        "onboard_time": 1709262211,
+        "rank": 9,
+        "category": "财经,科学科普"
+      },
+      {
+        "raw_hot": 562933,
+        "num": 562933,
+        "word": "快递新规",
+        "onboard_time": 1709262392,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 492771,
+        "num": 492771,
+        "word": "凌晨蹲点退税退到了3万多",
+        "onboard_time": 1709256869,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 387998,
+        "num": 387998,
+        "word": "易烊千玺帽子",
+        "onboard_time": 1709266957,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 387035,
+        "num": 387035,
+        "word": "贵州住宅火灾事件死者儿子公布3个新进展",
+        "onboard_time": 1709264734,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361132,
+        "num": 361132,
+        "word": "快递小哥称新规或致收入大缩水",
+        "onboard_time": 1709263232,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345910,
+        "num": 345910,
+        "word": "成龙金泰亨合作",
+        "onboard_time": 1709259991,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 326059,
+        "num": 326059,
+        "word": "人民网评面包店浪费现象",
+        "onboard_time": 1709258011,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315289,
+        "num": 315289,
+        "word": "小团团前公会被执行44.57万",
+        "onboard_time": 1709265336,
+        "rank": 17,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 314442,
+        "num": 314442,
+        "word": "11届快女 最癫的选秀",
+        "onboard_time": 1709250689,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312701,
+        "num": 312701,
+        "word": "垂耳兔双马尾",
+        "onboard_time": 1709260473,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 475684,
+        "num": 310271,
+        "word": "关闭朋友圈十年后的变化",
+        "onboard_time": 1709266055,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432998,
+        "num": 309060,
+        "word": "兴高采烈退税结果要补1万8",
+        "onboard_time": 1709264191,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397373,
+        "num": 305556,
+        "word": "微信删除后加回来对方知道吗",
+        "onboard_time": 1709257051,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355228,
+        "num": 301065,
+        "word": "小猫才是违背了天性爱你",
+        "onboard_time": 1709265934,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 299122,
+        "num": 299122,
+        "word": "因为一个玩笑闹到分手",
+        "onboard_time": 1709261732,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295561,
+        "num": 295561,
+        "word": "中共中央政治局集体学习",
+        "onboard_time": 1709265874,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 294501,
+        "num": 294501,
+        "word": "孙俪谈肠胃健康重要性",
+        "onboard_time": 1709262992,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277508,
+        "num": 277508,
+        "word": "为何瑞幸不跟库迪打价格战了",
+        "onboard_time": 1709265394,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 270548,
+        "num": 270548,
+        "word": "补税",
+        "onboard_time": 1709266656,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249025,
+        "num": 249025,
+        "word": "何洁别笑了肖顺尧要碎了",
+        "onboard_time": 1709265814,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120037,
+        "num": 236619,
+        "word": "蛋仔拜师张伟丽学格斗",
+        "onboard_time": 1709267075,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233228,
+        "num": 233228,
+        "word": "有一种晕叫耳石症",
+        "onboard_time": 1709256751,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 229666,
+        "num": 229666,
+        "word": "崔胜澈免除兵役",
+        "onboard_time": 1709251531,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211670,
+        "num": 211670,
+        "word": "杨超越出发巴黎时装周",
+        "onboard_time": 1709267435,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202044,
+        "num": 202044,
+        "word": "檀健次张婧仪新浪扫楼",
+        "onboard_time": 1709264009,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181776,
+        "num": 181776,
+        "word": "反诈老陈回应济宁消防喊话",
+        "onboard_time": 1709259211,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181388,
+        "num": 181388,
+        "word": "看到真正的猫条了",
+        "onboard_time": 1709266775,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179452,
+        "num": 179452,
+        "word": "分手留多久空窗期才是尊重",
+        "onboard_time": 1709267196,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179044,
+        "num": 179044,
+        "word": "建议大家不要成天说想死",
+        "onboard_time": 1709256211,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178282,
+        "num": 178282,
+        "word": "阳光姐姐和阴暗弟弟",
+        "onboard_time": 1709266957,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177987,
+        "num": 177987,
+        "word": "40米大刀突然具象化了",
+        "onboard_time": 1709266594,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174947,
+        "num": 174947,
+        "word": "蔡文静出发浪姐",
+        "onboard_time": 1709264972,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174906,
+        "num": 174906,
+        "word": "大学恋爱和社会恋爱",
+        "onboard_time": 1709263891,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171889,
+        "num": 171889,
+        "word": "海鸥 还是高铁快啊",
+        "onboard_time": 1709264610,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163568,
+        "num": 163568,
+        "word": "DQ联名 排队",
+        "onboard_time": 1709261791,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158557,
+        "num": 158557,
+        "word": "斗鱼持股公司曾申请一条小团团商标",
+        "onboard_time": 1709258674,
+        "rank": 45,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 156556,
+        "num": 156556,
+        "word": "花少团真的去了秦岚家",
+        "onboard_time": 1709215898,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147424,
+        "num": 147424,
+        "word": "这样洗菜当心越洗越脏",
+        "onboard_time": 1709266175,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 142653,
+        "num": 142653,
+        "word": "老人救人被撞成植物人申见义勇为被驳回",
+        "onboard_time": 1709254056,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142519,
+        "num": 142519,
+        "word": "飞驰人生有自己的柯兰",
+        "onboard_time": 1709267618,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

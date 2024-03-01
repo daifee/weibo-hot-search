@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709266883952,
+  "endTime": 1709267691193,
   "band_list": [
     {
       "raw_hot": 2786251,
@@ -67,6 +67,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 867045,
+      "num": 867045,
+      "word": "江苏南通5死13伤爆炸事故原因公布",
+      "onboard_time": 1709264311,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 857193,
+      "num": 857193,
+      "word": "迪丽热巴三月录制综艺",
+      "onboard_time": 1709266414,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 823009,
       "num": 823009,
       "word": "iPhone在中国大幅打折",
@@ -97,14 +113,6 @@
       "onboard_time": 1709204553,
       "rank": 3,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 728857,
-      "num": 728857,
-      "word": "江苏南通5死13伤爆炸事故原因公布",
-      "onboard_time": 1709264311,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 713003,
@@ -187,6 +195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 562933,
+      "num": 562933,
+      "word": "快递新规",
+      "onboard_time": 1709262392,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 549148,
       "num": 549148,
       "word": "垂耳兔双马尾",
@@ -200,14 +216,6 @@
       "word": "人民网评面包店浪费现象",
       "onboard_time": 1709258011,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 536556,
-      "num": 536556,
-      "word": "快递新规",
-      "onboard_time": 1709262392,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -259,6 +267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 475684,
+      "num": 310271,
+      "word": "关闭朋友圈十年后的变化",
+      "onboard_time": 1709266055,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 469642,
       "num": 469642,
       "word": "泰国男子寺庙闹事意外被佛像刺死",
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 448377,
-      "num": 307847,
+      "num": 309060,
       "word": "兴高采烈退税结果要补1万8",
       "onboard_time": 1709264191,
       "rank": 20,
@@ -363,6 +379,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387998,
+      "num": 387998,
+      "word": "易烊千玺帽子",
+      "onboard_time": 1709266957,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 387035,
+      "num": 387035,
+      "word": "贵州住宅火灾事件死者儿子公布3个新进展",
+      "onboard_time": 1709264734,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 380728,
       "num": 270111,
       "word": "研究生无宿舍可住花4200元租房",
@@ -377,14 +409,6 @@
       "onboard_time": 1709222071,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 362795,
-      "num": 362795,
-      "word": "贵州住宅火灾事件死者儿子公布3个新进展",
-      "onboard_time": 1709264734,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 358392,
@@ -403,20 +427,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 355228,
+      "num": 301065,
+      "word": "小猫才是违背了天性爱你",
+      "onboard_time": 1709265934,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 351002,
       "num": 351002,
       "word": "县城一中到底有多重要",
       "onboard_time": 1709214998,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 346219,
-      "num": 346219,
-      "word": "迪丽热巴三月录制综艺",
-      "onboard_time": 1709266414,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 345329,
@@ -465,6 +489,14 @@
       "onboard_time": 1709206592,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315289,
+      "num": 315289,
+      "word": "小团团前公会被执行44.57万",
+      "onboard_time": 1709265336,
+      "rank": 25,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 314995,
@@ -531,23 +563,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 296617,
-      "num": 296617,
-      "word": "小猫才是违背了天性爱你",
-      "onboard_time": 1709265934,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 295561,
+      "num": 295561,
+      "word": "中共中央政治局集体学习",
+      "onboard_time": 1709265874,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
-      "raw_hot": 296452,
-      "num": 296452,
-      "word": "关闭朋友圈十年后的变化",
-      "onboard_time": 1709266055,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 293861,
+      "raw_hot": 294501,
       "num": 313514,
       "word": "孙俪谈肠胃健康重要性",
       "onboard_time": 1709262992,
@@ -571,12 +595,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 277558,
-      "num": 277558,
-      "word": "小团团前公会被执行44.57万",
-      "onboard_time": 1709265336,
-      "rank": 25,
-      "category": "游戏,网红"
+      "raw_hot": 277508,
+      "num": 277508,
+      "word": "为何瑞幸不跟库迪打价格战了",
+      "onboard_time": 1709265394,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 270548,
+      "num": 270548,
+      "word": "补税",
+      "onboard_time": 1709266656,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268718,
@@ -601,14 +633,6 @@
       "onboard_time": 1709231238,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 255396,
-      "num": 255396,
-      "word": "为何瑞幸不跟库迪打价格战了",
-      "onboard_time": 1709265394,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 251848,
@@ -659,12 +683,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211516,
-      "num": 211516,
-      "word": "中共中央政治局集体学习",
-      "onboard_time": 1709265874,
-      "rank": 31,
-      "category": "国内时政"
+      "raw_hot": 211670,
+      "num": 211670,
+      "word": "杨超越出发巴黎时装周",
+      "onboard_time": 1709267435,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 208580,
@@ -779,12 +803,28 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 181388,
+      "num": 181388,
+      "word": "看到真正的猫条了",
+      "onboard_time": 1709266775,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180277,
       "num": 180277,
       "word": "女生路边捡猫归还主人获6万回报",
       "onboard_time": 1709230278,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179452,
+      "num": 179452,
+      "word": "分手留多久空窗期才是尊重",
+      "onboard_time": 1709267196,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 179398,
@@ -795,12 +835,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 177486,
-      "num": 177486,
-      "word": "补税",
-      "onboard_time": 1709266656,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 178282,
+      "num": 178282,
+      "word": "阳光姐姐和阴暗弟弟",
+      "onboard_time": 1709266957,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 177987,
+      "num": 177987,
+      "word": "40米大刀突然具象化了",
+      "onboard_time": 1709266594,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 175136,
@@ -1011,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142519,
+      "num": 142519,
+      "word": "飞驰人生有自己的柯兰",
+      "onboard_time": 1709267618,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141045,
       "num": 141045,
       "word": "助教邵明明回来了",
@@ -1067,14 +1123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134292,
-      "num": 134292,
-      "word": "40米大刀突然具象化了",
-      "onboard_time": 1709266594,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 132871,
       "num": 132871,
       "word": "韩国人吃玉米芯",
@@ -1115,14 +1163,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126863,
-      "num": 126863,
-      "word": "看到真正的猫条了",
-      "onboard_time": 1709266775,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125885,
       "num": 125885,
       "word": "南波万好吵",
@@ -1161,6 +1201,14 @@
       "onboard_time": 1709214578,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120037,
+      "num": 236619,
+      "word": "蛋仔拜师张伟丽学格斗",
+      "onboard_time": 1709267075,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 112918,
@@ -1323,6 +1371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 64517,
+      "num": 1266200,
+      "word": "一组图了解两会知识",
+      "onboard_time": 1709252432,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63144,
       "num": 63144,
       "word": "于文文你快别说话了",
@@ -1377,14 +1433,6 @@
       "onboard_time": 1709249364,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 51761,
-      "num": 1266200,
-      "word": "一组图了解两会知识",
-      "onboard_time": 1709252432,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 50843,
