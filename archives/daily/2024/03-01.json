@@ -1,13 +1,21 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709288289340,
+  "endTime": 1709289258060,
   "band_list": [
     {
-      "raw_hot": 3250606,
-      "num": 446737,
+      "raw_hot": 3894986,
+      "num": 451187,
       "word": "德州车祸",
       "onboard_time": 1709286750,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3613266,
+      "num": 3613266,
+      "word": "山东一轿车撞伤10余名儿童",
+      "onboard_time": 1709288612,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -35,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1715136,
-      "num": 1715136,
+      "raw_hot": 1747208,
+      "num": 1747208,
       "word": "大学生花4块钱中了500万",
       "onboard_time": 1709286572,
       "rank": 0,
@@ -265,6 +273,14 @@
       "onboard_time": 1709215898,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 688764,
+      "num": 688764,
+      "word": "杨幂张小斐袁姗姗是一个宿舍的",
+      "onboard_time": 1709288254,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 686728,
@@ -531,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450498,
+      "num": 450498,
+      "word": "知情人士称小团团疑涉案金额太大",
+      "onboard_time": 1709286272,
+      "rank": 13,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 448863,
       "num": 448863,
       "word": "理想MEGA",
@@ -545,6 +569,22 @@
       "onboard_time": 1709264191,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441401,
+      "num": 441401,
+      "word": "孙千裤子",
+      "onboard_time": 1709288133,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 440223,
+      "num": 440223,
+      "word": "Boss直聘 打工人的加油站",
+      "onboard_time": 1709286451,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 439616,
@@ -659,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391442,
+      "num": 391442,
+      "word": "赵丽颖出道前的工作",
+      "onboard_time": 1709285072,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387035,
       "num": 387035,
       "word": "贵州住宅火灾事件死者儿子公布3个新进展",
@@ -689,14 +737,6 @@
       "onboard_time": 1709222071,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376644,
-      "num": 376644,
-      "word": "知情人士称小团团疑涉案金额太大",
-      "onboard_time": 1709286272,
-      "rank": 13,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 358392,
@@ -763,28 +803,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 338774,
-      "num": 338774,
-      "word": "赵丽颖出道前的工作",
-      "onboard_time": 1709285072,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 335234,
       "num": 335234,
       "word": "王力宏点赞十几年前和宗庆后合照微博",
       "onboard_time": 1709206592,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 323766,
-      "num": 323766,
-      "word": "Boss直聘 打工人的加油站",
-      "onboard_time": 1709286451,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 321416,
@@ -876,7 +900,7 @@
     },
     {
       "raw_hot": 295587,
-      "num": 256423,
+      "num": 264726,
       "word": "同事跟我买了一模一样的衣服",
       "onboard_time": 1709283992,
       "rank": 22,
@@ -940,7 +964,7 @@
     },
     {
       "raw_hot": 275395,
-      "num": 803618,
+      "num": 1185596,
       "word": "横琴全岛正式封关运行",
       "onboard_time": 1709283753,
       "rank": 2,
@@ -1027,6 +1051,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 250264,
+      "num": 250264,
+      "word": "评论区比考公还激烈",
+      "onboard_time": 1709286750,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242555,
       "num": 242555,
       "word": "守护甜心 几斗太甜了",
@@ -1075,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220779,
-      "num": 220779,
-      "word": "评论区比考公还激烈",
-      "onboard_time": 1709286750,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 220716,
       "num": 220716,
       "word": "刘诗诗叶平安人设",
@@ -1129,6 +1153,14 @@
       "onboard_time": 1709215296,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 212829,
+      "num": 212829,
+      "word": "娃哈哈官方店铺销量2天涨超500%",
+      "onboard_time": 1709287770,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 212315,
@@ -1411,6 +1443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181013,
+      "num": 451419,
+      "word": "本浙江人告诉你这些都是真的",
+      "onboard_time": 1709286691,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180277,
       "num": 180277,
       "word": "女生路边捡猫归还主人获6万回报",
@@ -1691,14 +1731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153572,
-      "num": 153572,
-      "word": "孙千裤子",
-      "onboard_time": 1709288133,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153229,
       "num": 153229,
       "word": "KTV9年倒闭7万家",
@@ -1827,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140793,
+      "num": 140793,
+      "word": "小洋睡不着律师函",
+      "onboard_time": 1709288796,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 139138,
       "num": 139138,
       "word": "哪些时刻需要自我支撑",
@@ -1857,6 +1897,14 @@
       "onboard_time": 1709259393,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136965,
+      "num": 136965,
+      "word": "周迅渐变金色短发",
+      "onboard_time": 1709288434,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 136850,
@@ -1899,28 +1947,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133314,
-      "num": 133314,
-      "word": "娃哈哈官方店铺销量2天涨超500%",
-      "onboard_time": 1709287770,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 132871,
       "num": 132871,
       "word": "韩国人吃玉米芯",
       "onboard_time": 1709209115,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131019,
-      "num": 446898,
-      "word": "本浙江人告诉你这些都是真的",
-      "onboard_time": 1709286691,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129806,
@@ -2043,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120180,
+      "num": 120180,
+      "word": "KPL",
+      "onboard_time": 1709285911,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120037,
       "num": 254642,
       "word": "蛋仔拜师张伟丽学格斗",
@@ -2105,14 +2145,6 @@
       "onboard_time": 1709224350,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111909,
-      "num": 111909,
-      "word": "杨幂张小斐袁姗姗是一个宿舍的",
-      "onboard_time": 1709288254,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 111831,
@@ -2275,6 +2307,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 78955,
+      "num": 454330,
+      "word": "中国空间站与新华社新闻大楼同框",
+      "onboard_time": 1709286634,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76846,
       "num": 80327,
       "word": "老师粗暴对学生涉事学校校长被免职",
@@ -2289,14 +2329,6 @@
       "onboard_time": 1709247320,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 69942,
-      "num": 453948,
-      "word": "中国空间站与新华社新闻大楼同框",
-      "onboard_time": 1709286634,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65129,
