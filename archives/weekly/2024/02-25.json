@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709260006753,
+  "endTime": 1709260629808,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -467,6 +467,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 1833902,
+      "num": 1833902,
+      "word": "女子回应怀孕8个月考研获专业第一",
+      "onboard_time": 1709257411,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1809159,
       "num": 1809159,
       "word": "亚洲首富之子18个月减重超200斤",
@@ -593,14 +601,6 @@
       "onboard_time": 1708848332,
       "rank": 16,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1679483,
-      "num": 1679483,
-      "word": "女子回应怀孕8个月考研获专业第一",
-      "onboard_time": 1709257411,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1655253,
@@ -2203,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 755615,
+      "num": 276921,
+      "word": "微信删除后加回来对方知道吗",
+      "onboard_time": 1709257051,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 752365,
       "num": 752365,
       "word": "樊振东孙颖莎获国际乒联年度最佳运动员",
@@ -2507,14 +2515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 703275,
-      "num": 276921,
-      "word": "微信删除后加回来对方知道吗",
-      "onboard_time": 1709257051,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 699657,
       "num": 699657,
       "word": "母亲将唯一银镯打成首饰送2个女儿",
@@ -2532,7 +2532,7 @@
     },
     {
       "raw_hot": 699432,
-      "num": 358233,
+      "num": 395396,
       "word": "凌晨蹲点退税退到了3万多",
       "onboard_time": 1709256869,
       "rank": 40,
@@ -3483,6 +3483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 552964,
+      "num": 552964,
+      "word": "反诈老陈回应济宁消防喊话",
+      "onboard_time": 1709259211,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 552197,
       "num": 552197,
       "word": "一夜间AD钙奶销售增长一倍",
@@ -3505,6 +3513,14 @@
       "onboard_time": 1708853069,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 546697,
+      "num": 546697,
+      "word": "成龙金泰亨合作",
+      "onboard_time": 1709259991,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 543410,
@@ -4635,6 +4651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426965,
+      "num": 272790,
+      "word": "建议大家不要成天说想死",
+      "onboard_time": 1709256211,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 426168,
       "num": 295517,
       "word": "从今天起尽量少熬夜",
@@ -4928,14 +4952,6 @@
       "word": "脑袋空空的人适合什么工作",
       "onboard_time": 1709022511,
       "rank": 41,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 401526,
-      "num": 272790,
-      "word": "建议大家不要成天说想死",
-      "onboard_time": 1709256211,
-      "rank": 46,
       "category": "情感"
     },
     {
@@ -5699,6 +5715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340649,
+      "num": 340649,
+      "word": "陈浚铭晒TFBOYS签名照",
+      "onboard_time": 1709258429,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340408,
       "num": 340408,
       "word": "法硕",
@@ -5873,14 +5897,6 @@
       "onboard_time": 1709036077,
       "rank": 20,
       "category": "教育"
-    },
-    {
-      "raw_hot": 325958,
-      "num": 325958,
-      "word": "陈浚铭晒TFBOYS签名照",
-      "onboard_time": 1709258429,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 325457,
@@ -6132,7 +6148,7 @@
     },
     {
       "raw_hot": 312677,
-      "num": 259459,
+      "num": 264601,
       "word": "有一种晕叫耳石症",
       "onboard_time": 1709256751,
       "rank": 35,
@@ -6169,6 +6185,14 @@
       "onboard_time": 1708820367,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 311294,
+      "num": 311294,
+      "word": "你一手拿着苹果",
+      "onboard_time": 1709255670,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 310791,
@@ -6329,14 +6353,6 @@
       "onboard_time": 1708854454,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 300856,
-      "num": 300856,
-      "word": "你一手拿着苹果",
-      "onboard_time": 1709255670,
-      "rank": 42,
-      "category": "音乐"
     },
     {
       "raw_hot": 300799,
@@ -6827,19 +6843,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 277213,
-      "num": 277213,
-      "word": "反诈老陈回应济宁消防喊话",
-      "onboard_time": 1709259211,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277086,
       "num": 277086,
       "word": "路怒症",
       "onboard_time": 1708828537,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277029,
+      "num": 277029,
+      "word": "蔡磊身体情况持续下滑",
+      "onboard_time": 1709259812,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -7867,6 +7883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 238636,
+      "num": 238636,
+      "word": "斗鱼持股公司曾申请一条小团团商标",
+      "onboard_time": 1709258674,
+      "rank": 23,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 238615,
       "num": 187706,
       "word": "宋茜搬新家了",
@@ -7937,6 +7961,14 @@
       "onboard_time": 1709109692,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235605,
+      "num": 235605,
+      "word": "人民网评面包店浪费现象",
+      "onboard_time": 1709258011,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234661,
@@ -8587,14 +8619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 216799,
-      "num": 216799,
-      "word": "斗鱼持股公司曾申请一条小团团商标",
-      "onboard_time": 1709258674,
-      "rank": 23,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 216735,
       "num": 216735,
       "word": "烟火人家一人离婚全家上阵",
@@ -8745,14 +8769,6 @@
       "onboard_time": 1708854816,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 213520,
-      "num": 213520,
-      "word": "人民网评面包店浪费现象",
-      "onboard_time": 1709258011,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213131,
@@ -9137,14 +9153,6 @@
       "onboard_time": 1708823311,
       "rank": 31,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 205162,
-      "num": 205162,
-      "word": "成龙金泰亨合作",
-      "onboard_time": 1709259991,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 204883,
@@ -11731,6 +11739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161347,
+      "num": 161347,
+      "word": "原来挑食是大脑在保护你",
+      "onboard_time": 1709259991,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 161313,
       "num": 161313,
       "word": "RA官宣Shine离队",
@@ -12795,6 +12811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141383,
+      "num": 141383,
+      "word": "3月直飞泰国机票降幅明显",
+      "onboard_time": 1709260473,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141264,
       "num": 141264,
       "word": "LCK比赛转为录播",
@@ -12931,6 +12955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139138,
+      "num": 139138,
+      "word": "哪些时刻需要自我支撑",
+      "onboard_time": 1709260290,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139022,
       "num": 139022,
       "word": "黄旭熙纪录片",
@@ -13003,6 +13035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138079,
+      "num": 138079,
+      "word": "随时退学风",
+      "onboard_time": 1709260351,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138071,
       "num": 138071,
       "word": "比特币最近有多疯狂",
@@ -13041,6 +13081,14 @@
       "onboard_time": 1709198911,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137626,
+      "num": 192967,
+      "word": "短腿小象跨树干有多萌",
+      "onboard_time": 1709259393,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 137408,
@@ -13121,6 +13169,14 @@
       "onboard_time": 1709250569,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136177,
+      "num": 136177,
+      "word": "西村力 韩国三一节",
+      "onboard_time": 1709259750,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 136109,
@@ -13219,14 +13275,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 134138,
-      "num": 134138,
-      "word": "蔡磊身体情况持续下滑",
-      "onboard_time": 1709259812,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134019,
       "num": 134019,
       "word": "周芯竹巴黎看秀造型",
@@ -13313,14 +13361,6 @@
       "onboard_time": 1709123794,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 131973,
-      "num": 131973,
-      "word": "西村力 韩国三一节",
-      "onboard_time": 1709259750,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 131855,
@@ -13561,14 +13601,6 @@
       "onboard_time": 1709164592,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126835,
-      "num": 192967,
-      "word": "短腿小象跨树干有多萌",
-      "onboard_time": 1709259393,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 126631,
@@ -13883,14 +13915,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 119073,
-      "num": 119073,
-      "word": "原来挑食是大脑在保护你",
-      "onboard_time": 1709259991,
-      "rank": 49,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 119055,
       "num": 119055,
       "word": "2023年国民总收入超125万亿元",
@@ -13905,6 +13929,14 @@
       "onboard_time": 1708887856,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 118868,
+      "num": 118868,
+      "word": "垂耳兔双马尾",
+      "onboard_time": 1709260473,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 118506,

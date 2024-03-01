@@ -1,0 +1,410 @@
+{
+  "runTime": 1709260629808,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2140790,
+        "num": 2140790,
+        "word": "退税",
+        "onboard_time": 1709249065,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1833902,
+        "num": 1833902,
+        "word": "女子回应怀孕8个月考研获专业第一",
+        "onboard_time": 1709257411,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15379,
+        "num": 700994,
+        "word": "微观两会",
+        "onboard_time": 1709194052,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 604648,
+        "num": 604648,
+        "word": "11届快女 最癫的选秀",
+        "onboard_time": 1709250689,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582361,
+        "num": 582361,
+        "word": "崔胜澈免除兵役",
+        "onboard_time": 1709251531,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552964,
+        "num": 552964,
+        "word": "反诈老陈回应济宁消防喊话",
+        "onboard_time": 1709259211,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546697,
+        "num": 546697,
+        "word": "成龙金泰亨合作",
+        "onboard_time": 1709259991,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 489512,
+        "num": 489512,
+        "word": "中泰免签正式生效",
+        "onboard_time": 1709256511,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 445449,
+        "num": 445449,
+        "word": "老人救人被撞成植物人申见义勇为被驳回",
+        "onboard_time": 1709254056,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395565,
+        "num": 395565,
+        "word": "你需退税还是补税",
+        "onboard_time": 1709253272,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696283,
+        "num": 395396,
+        "word": "凌晨蹲点退税退到了3万多",
+        "onboard_time": 1709256869,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394485,
+        "num": 394485,
+        "word": "Kpop县",
+        "onboard_time": 1709255192,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340649,
+        "num": 340649,
+        "word": "陈浚铭晒TFBOYS签名照",
+        "onboard_time": 1709258429,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332788,
+        "num": 332788,
+        "word": "花少团真的去了秦岚家",
+        "onboard_time": 1709215898,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311300,
+        "num": 311300,
+        "word": "iPhone在中国大幅打折",
+        "onboard_time": 1709252610,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 311294,
+        "num": 311294,
+        "word": "你一手拿着苹果",
+        "onboard_time": 1709255670,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 305230,
+        "num": 305230,
+        "word": "英伟达市值一夜涨超2600亿元",
+        "onboard_time": 1709255491,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 296514,
+        "num": 296514,
+        "word": "终于知道魏大勋好人缘是怎么来的",
+        "onboard_time": 1709223507,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 295657,
+        "num": 295657,
+        "word": "上班恶心穿搭引发年轻人共鸣",
+        "onboard_time": 1709230938,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277029,
+        "num": 277029,
+        "word": "蔡磊身体情况持续下滑",
+        "onboard_time": 1709259812,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755615,
+        "num": 270605,
+        "word": "微信删除后加回来对方知道吗",
+        "onboard_time": 1709257051,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 426965,
+        "num": 266101,
+        "word": "建议大家不要成天说想死",
+        "onboard_time": 1709256211,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300346,
+        "num": 264601,
+        "word": "有一种晕叫耳石症",
+        "onboard_time": 1709256751,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 260513,
+        "num": 260513,
+        "word": "腿上出现红血丝或是疾病信号",
+        "onboard_time": 1709250085,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246844,
+        "num": 246844,
+        "word": "杨紫小夭入选年度人气角色",
+        "onboard_time": 1709254174,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238636,
+        "num": 238636,
+        "word": "斗鱼持股公司曾申请一条小团团商标",
+        "onboard_time": 1709258674,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 235605,
+        "num": 235605,
+        "word": "人民网评面包店浪费现象",
+        "onboard_time": 1709258011,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209085,
+        "num": 209085,
+        "word": "为什么很多人谈恋爱不公开了",
+        "onboard_time": 1709255131,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195926,
+        "num": 195926,
+        "word": "种地吧直播",
+        "onboard_time": 1709259452,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137626,
+        "num": 181582,
+        "word": "短腿小象跨树干有多萌",
+        "onboard_time": 1709259393,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175850,
+        "num": 175850,
+        "word": "这届年轻人开始野性消费健身用品",
+        "onboard_time": 1709257772,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 161347,
+        "num": 161347,
+        "word": "原来挑食是大脑在保护你",
+        "onboard_time": 1709259991,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 158363,
+        "num": 158363,
+        "word": "HAHA想要的爱豆公开恋爱的方式",
+        "onboard_time": 1709259632,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152388,
+        "num": 152388,
+        "word": "蒲熠星手机壁纸是自己的小说",
+        "onboard_time": 1709258909,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148292,
+        "num": 148292,
+        "word": "家长吐槽被学校要求下午到校值班",
+        "onboard_time": 1709248464,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147415,
+        "num": 147415,
+        "word": "网易去年游戏业务净收入816亿",
+        "onboard_time": 1709258609,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146964,
+        "num": 146964,
+        "word": "李莎旻子回应四年前脱单愿望",
+        "onboard_time": 1709249608,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146619,
+        "num": 146619,
+        "word": "打针时针芯里那块肉去哪了",
+        "onboard_time": 1709249305,
+        "rank": 37,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 142121,
+        "num": 142121,
+        "word": "韩国医生若辞职须立刻入伍",
+        "onboard_time": 1709219257,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141526,
+        "num": 141526,
+        "word": "韩娱文盲",
+        "onboard_time": 1709249726,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141383,
+        "num": 141383,
+        "word": "3月直飞泰国机票降幅明显",
+        "onboard_time": 1709260473,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139138,
+        "num": 139138,
+        "word": "哪些时刻需要自我支撑",
+        "onboard_time": 1709260290,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138079,
+        "num": 138079,
+        "word": "随时退学风",
+        "onboard_time": 1709260351,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136177,
+        "num": 136177,
+        "word": "西村力 韩国三一节",
+        "onboard_time": 1709259750,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134822,
+        "num": 134822,
+        "word": "山东消防向反诈老陈抛橄榄枝",
+        "onboard_time": 1709257350,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129681,
+        "num": 129681,
+        "word": "小团团前公会已成被执行人",
+        "onboard_time": 1709215235,
+        "rank": 45,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 126132,
+        "num": 126132,
+        "word": "陈靖可曾因外貌遭校园暴力",
+        "onboard_time": 1709222071,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118868,
+        "num": 118868,
+        "word": "垂耳兔双马尾",
+        "onboard_time": 1709260473,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 118029,
+        "num": 118029,
+        "word": "钟楚曦巴黎时装周造型",
+        "onboard_time": 1709254595,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 117743,
+        "num": 117743,
+        "word": "熬夜也要看完的纪录片",
+        "onboard_time": 1709258071,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#当好中国式现代化建设坚定行动派实干家#"
+    }
+  }
+}

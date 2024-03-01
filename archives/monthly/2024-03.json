@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709260006753,
+  "endTime": 1709260629808,
   "band_list": [
     {
       "raw_hot": 2786251,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1679483,
-      "num": 1679483,
+      "raw_hot": 1833902,
+      "num": 1833902,
       "word": "女子回应怀孕8个月考研获专业第一",
       "onboard_time": 1709257411,
       "rank": 1,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 755615,
+      "num": 276921,
+      "word": "微信删除后加回来对方知道吗",
+      "onboard_time": 1709257051,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 736431,
       "num": 548240,
       "word": "PDD",
@@ -59,16 +67,8 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 703275,
-      "num": 276921,
-      "word": "微信删除后加回来对方知道吗",
-      "onboard_time": 1709257051,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 699432,
-      "num": 358233,
+      "num": 395396,
       "word": "凌晨蹲点退税退到了3万多",
       "onboard_time": 1709256869,
       "rank": 40,
@@ -121,6 +121,22 @@
       "onboard_time": 1709256511,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 552964,
+      "num": 552964,
+      "word": "反诈老陈回应济宁消防喊话",
+      "onboard_time": 1709259211,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 546697,
+      "num": 546697,
+      "word": "成龙金泰亨合作",
+      "onboard_time": 1709259991,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 534875,
@@ -227,20 +243,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426965,
+      "num": 272790,
+      "word": "建议大家不要成天说想死",
+      "onboard_time": 1709256211,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 409825,
       "num": 409825,
       "word": "曹璐回应落选浪姐",
       "onboard_time": 1709215296,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 401526,
-      "num": 272790,
-      "word": "建议大家不要成天说想死",
-      "onboard_time": 1709256211,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 380728,
@@ -299,6 +315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 340649,
+      "num": 340649,
+      "word": "陈浚铭晒TFBOYS签名照",
+      "onboard_time": 1709258429,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 338882,
       "num": 338882,
       "word": "英伟达市值一夜涨超2600亿元",
@@ -312,14 +336,6 @@
       "word": "王力宏点赞十几年前和宗庆后合照微博",
       "onboard_time": 1709206592,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 325958,
-      "num": 325958,
-      "word": "陈浚铭晒TFBOYS签名照",
-      "onboard_time": 1709258429,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -340,15 +356,15 @@
     },
     {
       "raw_hot": 312677,
-      "num": 259459,
+      "num": 264601,
       "word": "有一种晕叫耳石症",
       "onboard_time": 1709256751,
       "rank": 35,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 300856,
-      "num": 300856,
+      "raw_hot": 311294,
+      "num": 311294,
       "word": "你一手拿着苹果",
       "onboard_time": 1709255670,
       "rank": 42,
@@ -395,11 +411,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 277213,
-      "num": 277213,
-      "word": "反诈老陈回应济宁消防喊话",
-      "onboard_time": 1709259211,
-      "rank": 19,
+      "raw_hot": 277029,
+      "num": 277029,
+      "word": "蔡磊身体情况持续下滑",
+      "onboard_time": 1709259812,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -419,6 +435,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 238636,
+      "num": 238636,
+      "word": "斗鱼持股公司曾申请一条小团团商标",
+      "onboard_time": 1709258674,
+      "rank": 23,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 235605,
+      "num": 235605,
+      "word": "人民网评面包店浪费现象",
+      "onboard_time": 1709258011,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223229,
       "num": 223229,
       "word": "马天宇为女教师殴打学生事件发声",
@@ -427,28 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216799,
-      "num": 216799,
-      "word": "斗鱼持股公司曾申请一条小团团商标",
-      "onboard_time": 1709258674,
-      "rank": 23,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 214436,
       "num": 206990,
       "word": "永远别去碰谈了三四年恋爱的人",
       "onboard_time": 1709215296,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 213520,
-      "num": 213520,
-      "word": "人民网评面包店浪费现象",
-      "onboard_time": 1709258011,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212315,
@@ -489,14 +505,6 @@
       "onboard_time": 1709247862,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 205162,
-      "num": 205162,
-      "word": "成龙金泰亨合作",
-      "onboard_time": 1709259991,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 202630,
@@ -619,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161347,
+      "num": 161347,
+      "word": "原来挑食是大脑在保护你",
+      "onboard_time": 1709259991,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 160560,
       "num": 160560,
       "word": "为啥穿汉服的大多是女生",
@@ -683,12 +699,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141383,
+      "num": 141383,
+      "word": "3月直飞泰国机票降幅明显",
+      "onboard_time": 1709260473,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141045,
       "num": 141045,
       "word": "助教邵明明回来了",
       "onboard_time": 1709252610,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139138,
+      "num": 139138,
+      "word": "哪些时刻需要自我支撑",
+      "onboard_time": 1709260290,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 138079,
+      "num": 138079,
+      "word": "随时退学风",
+      "onboard_time": 1709260351,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 137626,
+      "num": 192967,
+      "word": "短腿小象跨树干有多萌",
+      "onboard_time": 1709259393,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 136850,
@@ -707,6 +755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136177,
+      "num": 136177,
+      "word": "西村力 韩国三一节",
+      "onboard_time": 1709259750,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134981,
       "num": 134981,
       "word": "3月第一天的打开方式",
@@ -715,28 +771,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134138,
-      "num": 134138,
-      "word": "蔡磊身体情况持续下滑",
-      "onboard_time": 1709259812,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132871,
       "num": 132871,
       "word": "韩国人吃玉米芯",
       "onboard_time": 1709209115,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131973,
-      "num": 131973,
-      "word": "西村力 韩国三一节",
-      "onboard_time": 1709259750,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 129806,
@@ -771,14 +811,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126835,
-      "num": 192967,
-      "word": "短腿小象跨树干有多萌",
-      "onboard_time": 1709259393,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125885,
       "num": 125885,
       "word": "南波万好吵",
@@ -811,12 +843,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119073,
-      "num": 119073,
-      "word": "原来挑食是大脑在保护你",
-      "onboard_time": 1709259991,
-      "rank": 49,
-      "category": "科学科普"
+      "raw_hot": 118868,
+      "num": 118868,
+      "word": "垂耳兔双马尾",
+      "onboard_time": 1709260473,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 112918,
