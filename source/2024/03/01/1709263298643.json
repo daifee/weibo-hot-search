@@ -1,0 +1,410 @@
+{
+  "runTime": 1709263298643,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1988071,
+        "num": 1988071,
+        "word": "退税",
+        "onboard_time": 1709249065,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1733038,
+        "num": 1733038,
+        "word": "白敬亭范思哲全球香水代言人",
+        "onboard_time": 1709261251,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13125,
+        "num": 1623102,
+        "word": "微观两会",
+        "onboard_time": 1709194052,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1601469,
+        "num": 1601469,
+        "word": "女子回应怀孕8个月考研获专业第一",
+        "onboard_time": 1709257411,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1047370,
+        "num": 1047370,
+        "word": "拜登宣称将对中国进口汽车采取前所未有行动",
+        "onboard_time": 1709261612,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 713003,
+        "num": 713003,
+        "word": "反诈老陈回应济宁消防喊话",
+        "onboard_time": 1709259211,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 686728,
+        "num": 686728,
+        "word": "成龙金泰亨合作",
+        "onboard_time": 1709259991,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 658400,
+        "num": 658400,
+        "word": "小S二女儿Lily16岁身材",
+        "onboard_time": 1709262450,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544355,
+        "num": 544355,
+        "word": "人民网评面包店浪费现象",
+        "onboard_time": 1709258011,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460573,
+        "num": 460573,
+        "word": "垂耳兔双马尾",
+        "onboard_time": 1709260473,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 648839,
+        "num": 459846,
+        "word": "凌晨蹲点退税退到了3万多",
+        "onboard_time": 1709256869,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 448070,
+        "num": 448070,
+        "word": "11届快女 最癫的选秀",
+        "onboard_time": 1709250689,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422756,
+        "num": 422756,
+        "word": "蔡磊身体情况持续下滑",
+        "onboard_time": 1709259812,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415734,
+        "num": 415734,
+        "word": "政协会议议程",
+        "onboard_time": 1709260951,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50843,
+        "num": 342442,
+        "word": "洞门时尚名场面",
+        "onboard_time": 1709257229,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 341206,
+        "num": 341206,
+        "word": "老人救人被撞成植物人申见义勇为被驳回",
+        "onboard_time": 1709254056,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331351,
+        "num": 331351,
+        "word": "崔胜澈免除兵役",
+        "onboard_time": 1709251531,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311305,
+        "num": 311305,
+        "word": "退税还是补税一个公式教你计算",
+        "onboard_time": 1709262211,
+        "rank": 17,
+        "category": "财经,科学科普"
+      },
+      {
+        "raw_hot": 299848,
+        "num": 299848,
+        "word": "花少团真的去了秦岚家",
+        "onboard_time": 1709215898,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290349,
+        "num": 290349,
+        "word": "你需退税还是补税",
+        "onboard_time": 1709253272,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 551059,
+        "num": 289434,
+        "word": "微信删除后加回来对方知道吗",
+        "onboard_time": 1709257051,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340647,
+        "num": 279569,
+        "word": "因为一个玩笑闹到分手",
+        "onboard_time": 1709261732,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267830,
+        "num": 267830,
+        "word": "建议大家不要成天说想死",
+        "onboard_time": 1709256211,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251848,
+        "num": 251848,
+        "word": "DQ联名 排队",
+        "onboard_time": 1709261791,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 235119,
+        "num": 235119,
+        "word": "陈浚铭晒TFBOYS签名照",
+        "onboard_time": 1709258429,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232822,
+        "num": 232822,
+        "word": "有一种晕叫耳石症",
+        "onboard_time": 1709256751,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215110,
+        "num": 215110,
+        "word": "朋友圈有个能量很强的女孩子",
+        "onboard_time": 1709261251,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204681,
+        "num": 204681,
+        "word": "上班恶心穿搭引发年轻人共鸣",
+        "onboard_time": 1709230938,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203454,
+        "num": 203454,
+        "word": "快递新规",
+        "onboard_time": 1709262392,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136658,
+        "num": 198839,
+        "word": "杨紫天山白亮片鱼尾裙",
+        "onboard_time": 1709262512,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197459,
+        "num": 197459,
+        "word": "孙俪谈肠胃健康重要性",
+        "onboard_time": 1709262992,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193996,
+        "num": 193996,
+        "word": "他这么小就知道爱妈妈了",
+        "onboard_time": 1709260650,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193568,
+        "num": 193568,
+        "word": "斗鱼持股公司曾申请一条小团团商标",
+        "onboard_time": 1709258674,
+        "rank": 32,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 185047,
+        "num": 185047,
+        "word": "Kpop县",
+        "onboard_time": 1709255192,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183952,
+        "num": 183952,
+        "word": "退税需要满足哪些条件",
+        "onboard_time": 1709262211,
+        "rank": 34,
+        "category": "财经,科学科普"
+      },
+      {
+        "raw_hot": 174332,
+        "num": 174332,
+        "word": "随时退学风",
+        "onboard_time": 1709260351,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171843,
+        "num": 171843,
+        "word": "iPhone在中国大幅打折",
+        "onboard_time": 1709252610,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166313,
+        "num": 166313,
+        "word": "3月直飞泰国机票降幅明显",
+        "onboard_time": 1709260473,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154416,
+        "num": 154416,
+        "word": "为什么蜂蜜勺子是这个样子",
+        "onboard_time": 1709261012,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149517,
+        "num": 149517,
+        "word": "伊戈达拉最后一投选欧文",
+        "onboard_time": 1709262151,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149467,
+        "num": 149467,
+        "word": "原来挑食是大脑在保护你",
+        "onboard_time": 1709259991,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 147673,
+        "num": 147673,
+        "word": "你一手拿着苹果",
+        "onboard_time": 1709255670,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 146623,
+        "num": 146623,
+        "word": "终于知道魏大勋好人缘是怎么来的",
+        "onboard_time": 1709223507,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122662,
+        "num": 122662,
+        "word": "绑架落难富家公子银渐层",
+        "onboard_time": 1709263170,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122596,
+        "num": 122596,
+        "word": "杨紫小夭入选年度人气角色",
+        "onboard_time": 1709254174,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118986,
+        "num": 118986,
+        "word": "种地吧直播",
+        "onboard_time": 1709259452,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116573,
+        "num": 116573,
+        "word": "3月做什么都能成功的人",
+        "onboard_time": 1709263108,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114685,
+        "num": 114685,
+        "word": "中泰免签正式生效",
+        "onboard_time": 1709256511,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113993,
+        "num": 113993,
+        "word": "快递小哥称新规或致收入大缩水",
+        "onboard_time": 1709263232,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108792,
+        "num": 108792,
+        "word": "这届年轻人开始野性消费健身用品",
+        "onboard_time": 1709257772,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#当好中国式现代化建设坚定行动派实干家#"
+    }
+  }
+}
