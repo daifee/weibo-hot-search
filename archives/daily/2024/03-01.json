@@ -1,10 +1,10 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709255812384,
+  "endTime": 1709256996018,
   "band_list": [
     {
-      "raw_hot": 2669205,
-      "num": 2669205,
+      "raw_hot": 2786251,
+      "num": 2786251,
       "word": "退税",
       "onboard_time": 1709249065,
       "rank": 6,
@@ -19,16 +19,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 892599,
-      "num": 892599,
+      "raw_hot": 913814,
+      "num": 913814,
       "word": "11届快女 最癫的选秀",
       "onboard_time": 1709250689,
       "rank": 3,
       "category": "综艺"
     },
     {
-      "raw_hot": 822646,
-      "num": 822646,
+      "raw_hot": 823009,
+      "num": 823009,
       "word": "iPhone在中国大幅打折",
       "onboard_time": 1709252610,
       "rank": 4,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 380728,
-      "num": 263956,
+      "num": 270111,
       "word": "研究生无宿舍可住花4200元租房",
       "onboard_time": 1709251769,
       "rank": 20,
@@ -203,12 +203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374345,
+      "num": 374345,
+      "word": "Kpop县",
+      "onboard_time": 1709255192,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358392,
       "num": 358392,
       "word": "小团团",
       "onboard_time": 1709200170,
       "rank": 9,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 356964,
+      "num": 356964,
+      "word": "腿上出现红血丝或是疾病信号",
+      "onboard_time": 1709250085,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 351002,
@@ -219,12 +235,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 345329,
+      "num": 272023,
+      "word": "为什么很多人谈恋爱不公开了",
+      "onboard_time": 1709255131,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 343925,
       "num": 207083,
       "word": "阿莫西林仅适用于5种病症",
       "onboard_time": 1709220036,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 337512,
+      "num": 337512,
+      "word": "英伟达市值一夜涨超2600亿元",
+      "onboard_time": 1709255491,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 335234,
@@ -268,35 +300,27 @@
     },
     {
       "raw_hot": 298248,
-      "num": 258373,
+      "num": 264400,
       "word": "打针时针芯里那块肉去哪了",
       "onboard_time": 1709249305,
       "rank": 21,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 277941,
-      "num": 255305,
-      "word": "为什么很多人谈恋爱不公开了",
-      "onboard_time": 1709255131,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 271213,
-      "num": 271213,
-      "word": "腿上出现红血丝或是疾病信号",
-      "onboard_time": 1709250085,
-      "rank": 17,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 265938,
-      "num": 265938,
+      "raw_hot": 293229,
+      "num": 293229,
       "word": "张佳宁王凯合照",
       "onboard_time": 1709252912,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275017,
+      "num": 275017,
+      "word": "杨紫小夭入选年度人气角色",
+      "onboard_time": 1709254174,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 261201,
@@ -315,20 +339,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 246057,
-      "num": 246057,
-      "word": "Kpop县",
-      "onboard_time": 1709255192,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 230287,
-      "num": 230287,
+      "raw_hot": 234742,
+      "num": 234742,
       "word": "老人救人被撞成植物人申见义勇为被驳回",
       "onboard_time": 1709254056,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231608,
+      "num": 231608,
+      "word": "你一手拿着苹果",
+      "onboard_time": 1709255670,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 223229,
@@ -345,14 +369,6 @@
       "onboard_time": 1709215296,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 212738,
-      "num": 212738,
-      "word": "杨紫小夭入选年度人气角色",
-      "onboard_time": 1709254174,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 212315,
@@ -411,14 +427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 188524,
-      "num": 188524,
-      "word": "英伟达市值一夜涨超2600亿元",
-      "onboard_time": 1709255491,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 181690,
       "num": 181690,
       "word": "情绪稳定的人 倒霉惯了",
@@ -451,20 +459,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 174617,
+      "num": 174617,
+      "word": "中泰免签正式生效",
+      "onboard_time": 1709256511,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 174164,
+      "num": 174164,
+      "word": "魔卡少女樱 狼樱HE",
+      "onboard_time": 1709251830,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 172379,
       "num": 172379,
       "word": "爷爷这是宠了奶奶一辈子吧",
       "onboard_time": 1709253572,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 169705,
-      "num": 169705,
-      "word": "魔卡少女樱 狼樱HE",
-      "onboard_time": 1709251830,
-      "rank": 35,
-      "category": "动漫"
     },
     {
       "raw_hot": 164441,
@@ -499,12 +515,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 154715,
-      "num": 154715,
-      "word": "你一手拿着苹果",
-      "onboard_time": 1709255670,
-      "rank": 42,
-      "category": "音乐"
+      "raw_hot": 152767,
+      "num": 152767,
+      "word": "有一种晕叫耳石症",
+      "onboard_time": 1709256751,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 149646,
@@ -515,11 +531,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148011,
+      "num": 148011,
+      "word": "如何找到最适合自己的发型",
+      "onboard_time": 1709256450,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 144842,
+      "num": 144842,
+      "word": "凌晨蹲点退税退到了3万多",
+      "onboard_time": 1709256869,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142802,
       "num": 142802,
       "word": "许栋元离婚",
       "onboard_time": 1709244736,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 141045,
+      "num": 141045,
+      "word": "助教邵明明回来了",
+      "onboard_time": 1709252610,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -553,6 +593,14 @@
       "onboard_time": 1709209115,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131131,
+      "num": 131131,
+      "word": "建议大家不要成天说想死",
+      "onboard_time": 1709256211,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 129806,
@@ -899,7 +947,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 14099,
+      "raw_hot": 14614,
       "num": 993470,
       "word": "微观两会",
       "onboard_time": 1709194052,

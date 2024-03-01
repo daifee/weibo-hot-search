@@ -1,0 +1,410 @@
+{
+  "runTime": 1709256996018,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2786251,
+        "num": 2786251,
+        "word": "退税",
+        "onboard_time": 1709249065,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1132354,
+        "num": 1132354,
+        "word": "崔胜澈免除兵役",
+        "onboard_time": 1709251531,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14614,
+        "num": 938859,
+        "word": "微观两会",
+        "onboard_time": 1709194052,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 913814,
+        "num": 913814,
+        "word": "11届快女 最癫的选秀",
+        "onboard_time": 1709250689,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 823009,
+        "num": 823009,
+        "word": "iPhone在中国大幅打折",
+        "onboard_time": 1709252610,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 569311,
+        "num": 569311,
+        "word": "上班恶心穿搭引发年轻人共鸣",
+        "onboard_time": 1709230938,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562685,
+        "num": 562685,
+        "word": "你需退税还是补税",
+        "onboard_time": 1709253272,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495001,
+        "num": 495001,
+        "word": "家长吐槽被学校要求下午到校值班",
+        "onboard_time": 1709248464,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468259,
+        "num": 468259,
+        "word": "终于知道魏大勋好人缘是怎么来的",
+        "onboard_time": 1709223507,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 438730,
+        "num": 438730,
+        "word": "花少团真的去了秦岚家",
+        "onboard_time": 1709215898,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390884,
+        "num": 390884,
+        "word": "李莎旻子回应四年前脱单愿望",
+        "onboard_time": 1709249608,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374345,
+        "num": 374345,
+        "word": "Kpop县",
+        "onboard_time": 1709255192,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366356,
+        "num": 366356,
+        "word": "加沙领物资民众遭袭112死760伤",
+        "onboard_time": 1709251588,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 356964,
+        "num": 356964,
+        "word": "腿上出现红血丝或是疾病信号",
+        "onboard_time": 1709250085,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 344663,
+        "num": 344663,
+        "word": "韩娱文盲",
+        "onboard_time": 1709249726,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 337512,
+        "num": 337512,
+        "word": "英伟达市值一夜涨超2600亿元",
+        "onboard_time": 1709255491,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 321495,
+        "num": 321495,
+        "word": "网红自导自演被砸鸡蛋",
+        "onboard_time": 1709235916,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297263,
+        "num": 297263,
+        "word": "韩国医生若辞职须立刻入伍",
+        "onboard_time": 1709219257,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293229,
+        "num": 293229,
+        "word": "张佳宁王凯合照",
+        "onboard_time": 1709252912,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275017,
+        "num": 275017,
+        "word": "杨紫小夭入选年度人气角色",
+        "onboard_time": 1709254174,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345329,
+        "num": 272023,
+        "word": "为什么很多人谈恋爱不公开了",
+        "onboard_time": 1709255131,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279047,
+        "num": 270111,
+        "word": "研究生无宿舍可住花4200元租房",
+        "onboard_time": 1709251769,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264400,
+        "num": 264400,
+        "word": "打针时针芯里那块肉去哪了",
+        "onboard_time": 1709249305,
+        "rank": 22,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 234742,
+        "num": 234742,
+        "word": "老人救人被撞成植物人申见义勇为被驳回",
+        "onboard_time": 1709254056,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231608,
+        "num": 231608,
+        "word": "你一手拿着苹果",
+        "onboard_time": 1709255670,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210935,
+        "num": 210935,
+        "word": "郭麒麟胖了",
+        "onboard_time": 1709213196,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208798,
+        "num": 208798,
+        "word": "邵明明 我们都无可替代",
+        "onboard_time": 1709248824,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188196,
+        "num": 188196,
+        "word": "泰国男子寺庙闹事意外被佛像刺死",
+        "onboard_time": 1709200290,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 184583,
+        "num": 184583,
+        "word": "少吃饭能延缓衰老",
+        "onboard_time": 1709247862,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180296,
+        "num": 180296,
+        "word": "钟楚曦巴黎时装周造型",
+        "onboard_time": 1709254595,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174617,
+        "num": 174617,
+        "word": "中泰免签正式生效",
+        "onboard_time": 1709256511,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174164,
+        "num": 174164,
+        "word": "魔卡少女樱 狼樱HE",
+        "onboard_time": 1709251830,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 162581,
+        "num": 162581,
+        "word": "教育局回应50岁班主任和学生谈恋爱",
+        "onboard_time": 1709207014,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161224,
+        "num": 161224,
+        "word": "爷爷这是宠了奶奶一辈子吧",
+        "onboard_time": 1709253572,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154987,
+        "num": 154987,
+        "word": "情绪稳定的人 倒霉惯了",
+        "onboard_time": 1709250809,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152767,
+        "num": 152767,
+        "word": "有一种晕叫耳石症",
+        "onboard_time": 1709256751,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151109,
+        "num": 151109,
+        "word": "陈靖可曾因外貌遭校园暴力",
+        "onboard_time": 1709222071,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150343,
+        "num": 150343,
+        "word": "出现这些症状可能是脑瘤前兆",
+        "onboard_time": 1709253991,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148011,
+        "num": 148011,
+        "word": "如何找到最适合自己的发型",
+        "onboard_time": 1709256450,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 146503,
+        "num": 146503,
+        "word": "阿莫西林仅适用于5种病症",
+        "onboard_time": 1709220036,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144842,
+        "num": 144842,
+        "word": "凌晨蹲点退税退到了3万多",
+        "onboard_time": 1709256869,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141682,
+        "num": 141682,
+        "word": "女生路边捡猫归还主人获6万回报",
+        "onboard_time": 1709230278,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141174,
+        "num": 141174,
+        "word": "乘风2024 网传名单",
+        "onboard_time": 1709252850,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141045,
+        "num": 141045,
+        "word": "助教邵明明回来了",
+        "onboard_time": 1709252610,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138507,
+        "num": 138507,
+        "word": "曹璐回应落选浪姐",
+        "onboard_time": 1709215296,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135996,
+        "num": 135996,
+        "word": "朱珠女儿近照",
+        "onboard_time": 1709217576,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131131,
+        "num": 131131,
+        "word": "建议大家不要成天说想死",
+        "onboard_time": 1709256211,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130966,
+        "num": 130966,
+        "word": "真的建议大家在大学里多蹭课",
+        "onboard_time": 1709249545,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126525,
+        "num": 126525,
+        "word": "为啥穿汉服的大多是女生",
+        "onboard_time": 1709250448,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124472,
+        "num": 124472,
+        "word": "三月你好",
+        "onboard_time": 1709248162,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#当好中国式现代化建设坚定行动派实干家#"
+    }
+  }
+}
