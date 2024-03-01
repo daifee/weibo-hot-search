@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1709291674519,
+  "endTime": 1709292857317,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -657,6 +657,14 @@
       "onboard_time": 1707536076,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 4791031,
+      "num": 4791031,
+      "word": "德州车祸致2死6重伤",
+      "onboard_time": 1709291435,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4781657,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705752390,
       "rank": 0,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 2382070,
-      "num": 2382070,
-      "word": "65岁或为延迟退休调整后最终结果",
-      "onboard_time": 1708753472,
-      "rank": 5,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
