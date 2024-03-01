@@ -1,6 +1,6 @@
 {
   "startTime": 1709310056019,
-  "endTime": 1709332526182,
+  "endTime": 1709335019617,
   "band_list": [
     {
       "raw_hot": 2650152,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431718,
+      "num": 431718,
+      "word": "倒春寒真的要来了",
+      "onboard_time": 1709298514,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 391087,
       "num": 391087,
       "word": "车厘子榴莲山竹都便宜了",
@@ -131,6 +139,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 273060,
+      "num": 273060,
+      "word": "张翰工作室起诉昕影影业",
+      "onboard_time": 1709320336,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 260950,
       "num": 260950,
       "word": "大学生花4块钱中了500万",
@@ -145,6 +161,14 @@
       "onboard_time": 1709295272,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 229576,
+      "num": 229576,
+      "word": "终于知道娃哈哈为啥用纸箱包装了",
+      "onboard_time": 1709292990,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 226923,
@@ -179,11 +203,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197293,
-      "num": 197293,
-      "word": "倒春寒真的要来了",
-      "onboard_time": 1709298514,
-      "rank": 17,
+      "raw_hot": 198896,
+      "num": 198896,
+      "word": "酒店回应只能外国人穿拖鞋用餐",
+      "onboard_time": 1709324237,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -219,12 +243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167397,
-      "num": 167397,
-      "word": "终于知道娃哈哈为啥用纸箱包装了",
-      "onboard_time": 1709292990,
-      "rank": 24,
-      "category": "美食"
+      "raw_hot": 159907,
+      "num": 159907,
+      "word": "前女团成员称做女工并不羞耻",
+      "onboard_time": 1709318118,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 157979,
@@ -291,14 +315,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 129619,
-      "num": 129619,
-      "word": "张翰工作室起诉昕影影业",
-      "onboard_time": 1709320336,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 127812,
       "num": 127812,
       "word": "希望你结婚的唯一原因是你想",
@@ -337,6 +353,14 @@
       "onboard_time": 1709309130,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108564,
+      "num": 108564,
+      "word": "新规严打快递柜签收背后",
+      "onboard_time": 1709331496,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 104343,
@@ -379,14 +403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92764,
-      "num": 92764,
-      "word": "酒店回应只能外国人穿拖鞋用餐",
-      "onboard_time": 1709324237,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89231,
       "num": 93329,
       "word": "顾寻 活该追妻火葬场",
@@ -403,11 +419,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 87912,
-      "num": 68972,
-      "word": "前女团成员称做女工并不羞耻",
-      "onboard_time": 1709318118,
-      "rank": 10,
+      "raw_hot": 87609,
+      "num": 87609,
+      "word": "侯雯元 被自己迷得神魂颠倒的气质",
+      "onboard_time": 1709321537,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -499,6 +515,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56571,
+      "num": 57509,
+      "word": "坐高铁被塞了20块钱小费",
+      "onboard_time": 1709297251,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 52111,
+      "num": 52111,
+      "word": "猎冰导演称评分4.7比预估高",
+      "onboard_time": 1709329396,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46148,
       "num": 93271,
       "word": "孙千裤子",
@@ -507,12 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43530,
-      "num": 57509,
-      "word": "坐高铁被塞了20块钱小费",
-      "onboard_time": 1709297251,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 40252,
+      "num": 40252,
+      "word": "颖儿再演夏冬春",
+      "onboard_time": 1709323036,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 39535,
@@ -523,12 +555,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38836,
-      "num": 38836,
-      "word": "侯雯元 被自己迷得神魂颠倒的气质",
-      "onboard_time": 1709321537,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 37749,
+      "num": 36165,
+      "word": "三月星运排行榜",
+      "onboard_time": 1709333780,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 36762,
@@ -540,11 +572,19 @@
     },
     {
       "raw_hot": 33271,
-      "num": 26139,
+      "num": 31548,
       "word": "蹭麻辣烫三个月流浪狗的变化",
       "onboard_time": 1709323457,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 33060,
+      "num": 33060,
+      "word": "河南一小学拖欠教师工资无人上课",
+      "onboard_time": 1709334983,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31347,
@@ -556,35 +596,27 @@
     },
     {
       "raw_hot": 26138,
-      "num": 26138,
+      "num": 31324,
       "word": "慢冷式恋爱",
       "onboard_time": 1709320219,
       "rank": 45,
       "category": "情感"
     },
     {
-      "raw_hot": 25647,
-      "num": 25647,
-      "word": "猎冰导演称评分4.7比预估高",
-      "onboard_time": 1709329396,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 25443,
+      "num": 31338,
+      "word": "造型指导解读赵丽颖第二十条妆造",
+      "onboard_time": 1709327475,
+      "rank": 49,
+      "category": "电影"
     },
     {
-      "raw_hot": 23799,
-      "num": 23799,
-      "word": "新规严打快递柜签收背后",
-      "onboard_time": 1709331496,
-      "rank": 34,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 18608,
-      "num": 18608,
-      "word": "颖儿再演夏冬春",
-      "onboard_time": 1709323036,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 15784,
+      "num": 345952,
+      "word": "聚焦2024年全国两会",
+      "onboard_time": 1709305832,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15579,
@@ -593,14 +625,6 @@
       "onboard_time": 1709318718,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15525,
-      "num": 18566,
-      "word": "造型指导解读赵丽颖第二十条妆造",
-      "onboard_time": 1709327475,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 11540,
@@ -617,14 +641,6 @@
       "onboard_time": 1709325196,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 9366,
-      "num": 141425,
-      "word": "聚焦2024年全国两会",
-      "onboard_time": 1709305832,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
