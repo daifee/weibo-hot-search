@@ -1,6 +1,6 @@
 {
   "startTime": 1709310056019,
-  "endTime": 1709327799021,
+  "endTime": 1709328831868,
   "band_list": [
     {
       "raw_hot": 2650152,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 91741,
-      "num": 64330,
+      "num": 67431,
       "word": "张翰工作室起诉昕影影业",
       "onboard_time": 1709320336,
       "rank": 37,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 63918,
-      "num": 37223,
+      "num": 41463,
       "word": "詹青云 我穿高跟鞋无法辩论",
       "onboard_time": 1709316800,
       "rank": 30,
@@ -489,6 +489,14 @@
       "onboard_time": 1709308470,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 50632,
+      "num": 50632,
+      "word": "酒店回应只能外国人穿拖鞋用餐",
+      "onboard_time": 1709324237,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46148,
@@ -515,20 +523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37870,
-      "num": 35961,
+      "raw_hot": 38836,
+      "num": 38836,
       "word": "侯雯元 被自己迷得神魂颠倒的气质",
       "onboard_time": 1709321537,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34217,
-      "num": 34217,
-      "word": "酒店回应只能外国人穿拖鞋用餐",
-      "onboard_time": 1709324237,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33271,
@@ -555,8 +555,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 18172,
-      "num": 18172,
+      "raw_hot": 18415,
+      "num": 18415,
       "word": "高楼失火卧室和厕所哪个更安全",
       "onboard_time": 1709325136,
       "rank": 25,
@@ -571,15 +571,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14516,
-      "num": 14516,
+      "raw_hot": 14536,
+      "num": 14536,
       "word": "颖儿再演夏冬春",
       "onboard_time": 1709323036,
       "rank": 40,
       "category": "剧集"
     },
     {
-      "raw_hot": 10222,
+      "raw_hot": 11389,
       "num": 12443,
       "word": "造型指导解读赵丽颖第二十条妆造",
       "onboard_time": 1709327475,
