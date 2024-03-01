@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709271390095,
+  "endTime": 1709274154865,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -947,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1311014,
+      "num": 1311014,
+      "word": "曾经很火但消失了的童年零食",
+      "onboard_time": 1709269654,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1302666,
       "num": 1302666,
       "word": "10元3副耳钉被仅退款商家千里讨公道",
@@ -969,6 +977,14 @@
       "onboard_time": 1709200290,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1289826,
+      "num": 1289826,
+      "word": "美国女教师和16岁男生发生关系或被判25年",
+      "onboard_time": 1709271392,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1277471,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1708989081,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1118016,
+      "num": 1118016,
+      "word": "妍珍呐 你认得出自己吗",
+      "onboard_time": 1709272411,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1114617,
@@ -2699,6 +2723,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 680605,
+      "num": 224996,
+      "word": "双休6千单休8千",
+      "onboard_time": 1709272713,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 679983,
       "num": 679983,
       "word": "单身女老师深陷杀猪盘被骗近400万",
@@ -3153,6 +3185,14 @@
       "onboard_time": 1708951831,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 608108,
+      "num": 608108,
+      "word": "海底捞试点螺蛳粉火锅",
+      "onboard_time": 1709268816,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 606364,
@@ -3843,6 +3883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 517094,
+      "num": 517094,
+      "word": "周柯宇父亲被执行151万",
+      "onboard_time": 1709271874,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 516243,
       "num": 516243,
       "word": "稳定同居可认定刑法上的家庭成员",
@@ -4203,6 +4251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 487114,
+      "num": 487114,
+      "word": "赵丽颖银白挑染",
+      "onboard_time": 1709270014,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 486943,
       "num": 486943,
       "word": "范丞丞这张全家福就差我了",
@@ -4265,14 +4321,6 @@
       "onboard_time": 1709081137,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 479503,
-      "num": 479503,
-      "word": "赵丽颖银白挑染",
-      "onboard_time": 1709270014,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 478612,
@@ -4499,14 +4547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 454301,
-      "num": 454301,
-      "word": "海底捞试点螺蛳粉火锅",
-      "onboard_time": 1709268816,
-      "rank": 16,
-      "category": "美食"
-    },
-    {
       "raw_hot": 454276,
       "num": 454276,
       "word": "肖战评价自己看秀穿搭",
@@ -4545,6 +4585,14 @@
       "onboard_time": 1709184572,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 450778,
+      "num": 301324,
+      "word": "香港大学深圳医院声明",
+      "onboard_time": 1709270734,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450454,
@@ -5977,6 +6025,14 @@
       "onboard_time": 1709182774,
       "rank": 21,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 337590,
+      "num": 337590,
+      "word": "小团团已停播34天",
+      "onboard_time": 1709273553,
+      "rank": 12,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 336734,
@@ -7531,14 +7587,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 259859,
-      "num": 259859,
-      "word": "曾经很火但消失了的童年零食",
-      "onboard_time": 1709269654,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 259833,
       "num": 192817,
       "word": "Champion正被挂牌出售",
@@ -8419,14 +8467,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 230264,
-      "num": 230264,
-      "word": "香港大学深圳医院声明",
-      "onboard_time": 1709270734,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230153,
       "num": 230153,
       "word": "娃哈哈总部门口摆满娃哈哈",
@@ -9299,6 +9339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 207869,
+      "num": 207869,
+      "word": "奔驰放弃全电动车计划",
+      "onboard_time": 1709273131,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 207586,
       "num": 207586,
       "word": "男篮主帅乔尔杰维奇赛后现场甩锅",
@@ -9491,12 +9539,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204483,
+      "num": 204483,
+      "word": "周处除三害上映",
+      "onboard_time": 1709272171,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204190,
       "num": 204190,
       "word": "AD钙奶和鲜花中有一双41码布鞋",
       "onboard_time": 1708938513,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204111,
+      "num": 204111,
+      "word": "张婧仪生图",
+      "onboard_time": 1709272591,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 203823,
@@ -10961,6 +11025,14 @@
       "onboard_time": 1708847252,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 180607,
+      "num": 180607,
+      "word": "高君雨",
+      "onboard_time": 1709273131,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 180603,
@@ -14155,6 +14227,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 126167,
+      "num": 126167,
+      "word": "王俊凯新歌合作单位",
+      "onboard_time": 1709271932,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 126034,
       "num": 126034,
       "word": "黄子弘凡唱张远没有女朋友",
@@ -14483,6 +14563,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 118304,
+      "num": 225498,
+      "word": "王者荣耀最佳天菜舞蹈挑战",
+      "onboard_time": 1709273072,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118280,
       "num": 118280,
       "word": "跟好朋友见面讲坏话",
@@ -14633,6 +14721,14 @@
       "onboard_time": 1708996711,
       "rank": 49,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 113362,
+      "num": 113362,
+      "word": "武藏发型奇怪的原因",
+      "onboard_time": 1709273912,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 112918,
@@ -15627,6 +15723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 33468,
+      "num": 204129,
+      "word": "大家庭需要一台什么样的车",
+      "onboard_time": 1709272591,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 32483,
       "num": 35502,
       "word": "3000年前的美男子长啥样",
@@ -15657,6 +15761,14 @@
       "onboard_time": 1709148257,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 30540,
+      "num": 204115,
+      "word": "张婧仪被新浪员工问口红色号",
+      "onboard_time": 1709270913,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 27936,
@@ -15777,14 +15889,6 @@
       "onboard_time": 1709232797,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21177,
-      "num": 161895,
-      "word": "张婧仪被新浪员工问口红色号",
-      "onboard_time": 1709270913,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 20676,
