@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709314836485,
+  "endTime": 1709317404999,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -2731,6 +2731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125896,
+      "num": 107849,
+      "word": "猎冰导演称富二代标签掩盖了姚安娜的努力",
+      "onboard_time": 1709316020,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125885,
       "num": 125885,
       "word": "南波万好吵",
@@ -3307,6 +3315,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 45376,
+      "num": 37223,
+      "word": "詹青云 我穿高跟鞋无法辩论",
+      "onboard_time": 1709316800,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 42701,
       "num": 324948,
       "word": "TVB港星保姆车揭秘",
@@ -3353,6 +3369,14 @@
       "onboard_time": 1709228959,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30544,
+      "num": 30544,
+      "word": "虞书欣牛奶肌",
+      "onboard_time": 1709316559,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 30540,
