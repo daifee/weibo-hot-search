@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1709285643983,
+  "endTime": 1709288289340,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1185,6 +1185,14 @@
       "onboard_time": 1708003236,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 3250606,
+      "num": 446737,
+      "word": "德州车祸",
+      "onboard_time": 1709286750,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3232200,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705135424,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2374677,
-      "num": 2374677,
-      "word": "龙年纪念币",
-      "onboard_time": 1704291034,
-      "rank": 1,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

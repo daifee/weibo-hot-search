@@ -1,0 +1,410 @@
+{
+  "runTime": 1709288289340,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1715136,
+        "num": 1715136,
+        "word": "大学生花4块钱中了500万",
+        "onboard_time": 1709286572,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 900621,
+        "num": 900621,
+        "word": "建议取消强制自动续费",
+        "onboard_time": 1709280390,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 230285,
+        "num": 680229,
+        "word": "横琴全岛正式封关运行",
+        "onboard_time": 1709283753,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656500,
+        "num": 656500,
+        "word": "爱情公寓里的胡歌",
+        "onboard_time": 1709282791,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 573331,
+        "num": 573331,
+        "word": "田柾国 炊事兵",
+        "onboard_time": 1709283033,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551851,
+        "num": 551851,
+        "word": "红楼梦 抢票",
+        "onboard_time": 1709285852,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 537140,
+        "num": 537140,
+        "word": "利率10%银行存款产品火爆",
+        "onboard_time": 1709282973,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 500971,
+        "num": 500971,
+        "word": "前女团成员解散后在工厂做女工",
+        "onboard_time": 1709275413,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69942,
+        "num": 453948,
+        "word": "中国空间站与新华社新闻大楼同框",
+        "onboard_time": 1709286634,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131019,
+        "num": 446898,
+        "word": "本浙江人告诉你这些都是真的",
+        "onboard_time": 1709286691,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3250606,
+        "num": 446737,
+        "word": "德州车祸",
+        "onboard_time": 1709286750,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446029,
+        "num": 446029,
+        "word": "农夫山泉 娃哈哈",
+        "onboard_time": 1709280870,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 402935,
+        "num": 402935,
+        "word": "五条悟爆改JYP",
+        "onboard_time": 1709283033,
+        "rank": 12,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 376644,
+        "num": 376644,
+        "word": "知情人士称小团团疑涉案金额太大",
+        "onboard_time": 1709286272,
+        "rank": 13,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 341938,
+        "num": 341938,
+        "word": "我是为了救我哥哥才出生的",
+        "onboard_time": 1709275352,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338774,
+        "num": 338774,
+        "word": "赵丽颖出道前的工作",
+        "onboard_time": 1709285072,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335081,
+        "num": 335081,
+        "word": "关于北部湾北部领海基线的声明",
+        "onboard_time": 1709283875,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 323766,
+        "num": 323766,
+        "word": "Boss直聘 打工人的加油站",
+        "onboard_time": 1709286451,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301151,
+        "num": 301151,
+        "word": "春天是精神病的高发时期",
+        "onboard_time": 1709274573,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300165,
+        "num": 300165,
+        "word": "小团团已停播34天",
+        "onboard_time": 1709273553,
+        "rank": 19,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 254716,
+        "num": 254716,
+        "word": "同事跟我买了一模一样的衣服",
+        "onboard_time": 1709283992,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242555,
+        "num": 242555,
+        "word": "守护甜心 几斗太甜了",
+        "onboard_time": 1709285671,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 231712,
+        "num": 231712,
+        "word": "双休6千单休8千",
+        "onboard_time": 1709272713,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220779,
+        "num": 220779,
+        "word": "评论区比考公还激烈",
+        "onboard_time": 1709286750,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216280,
+        "num": 216280,
+        "word": "杨幂同款新中式侧马尾",
+        "onboard_time": 1709285254,
+        "rank": 24,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 215571,
+        "num": 215571,
+        "word": "张钧甯玉米龅牙",
+        "onboard_time": 1709284232,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211319,
+        "num": 211319,
+        "word": "肖战方律师告黑声明",
+        "onboard_time": 1709288012,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208351,
+        "num": 208351,
+        "word": "斗鱼曾经的头部主播都去哪了",
+        "onboard_time": 1709278590,
+        "rank": 27,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 13961,
+        "num": 184789,
+        "word": "24款理想L系列超有料",
+        "onboard_time": 1709284531,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 176266,
+        "num": 176266,
+        "word": "黑猫投诉上自动续费投诉超10万",
+        "onboard_time": 1709287113,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 175942,
+        "num": 175942,
+        "word": "娃哈哈建议理性消费",
+        "onboard_time": 1709287172,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174698,
+        "num": 174698,
+        "word": "微信删除后加回来对方知道吗",
+        "onboard_time": 1709257051,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174311,
+        "num": 174311,
+        "word": "特斯拉3个月降价3次",
+        "onboard_time": 1709280634,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 172675,
+        "num": 172675,
+        "word": "美国女教师和16岁男生发生关系或被判25年",
+        "onboard_time": 1709271392,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172488,
+        "num": 172488,
+        "word": "33岁白发妈妈亲吻去世宝宝墓碑",
+        "onboard_time": 1709274750,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169757,
+        "num": 169757,
+        "word": "MEGA售价",
+        "onboard_time": 1709282973,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 169132,
+        "num": 169132,
+        "word": "妈妈永远都不会离开我们的证明",
+        "onboard_time": 1709286572,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164298,
+        "num": 164298,
+        "word": "孩子为免费领蛋仔派对皮肤家长被骗7.8万元",
+        "onboard_time": 1709283875,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161572,
+        "num": 161572,
+        "word": "妍珍呐 你认得出自己吗",
+        "onboard_time": 1709272411,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153572,
+        "num": 153572,
+        "word": "孙千裤子",
+        "onboard_time": 1709288133,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147575,
+        "num": 147575,
+        "word": "马斯克起诉奥特曼",
+        "onboard_time": 1709282913,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144529,
+        "num": 144529,
+        "word": "退税",
+        "onboard_time": 1709249065,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142287,
+        "num": 142287,
+        "word": "曾经很火但消失了的童年零食",
+        "onboard_time": 1709269654,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133314,
+        "num": 133314,
+        "word": "娃哈哈官方店铺销量2天涨超500%",
+        "onboard_time": 1709287770,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125947,
+        "num": 125947,
+        "word": "东莞烧鹅濑",
+        "onboard_time": 1709285792,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124554,
+        "num": 124554,
+        "word": "kpop士兵突击",
+        "onboard_time": 1709284593,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118799,
+        "num": 118799,
+        "word": "今天起快递不可擅自放驿站",
+        "onboard_time": 1709284112,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116237,
+        "num": 116237,
+        "word": "与凤行排播",
+        "onboard_time": 1709278174,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111909,
+        "num": 111909,
+        "word": "杨幂张小斐袁姗姗是一个宿舍的",
+        "onboard_time": 1709288254,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111131,
+        "num": 111131,
+        "word": "刘亦菲纪念金庸诞辰100周年",
+        "onboard_time": 1709285732,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
