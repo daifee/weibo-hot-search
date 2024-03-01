@@ -1,0 +1,410 @@
+{
+  "runTime": 1709299280754,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2224162,
+        "num": 2224162,
+        "word": "德州车祸致2死6重伤",
+        "onboard_time": 1709291435,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1284738,
+        "num": 1284738,
+        "word": "男孩一天喝9升水被查出肿瘤",
+        "onboard_time": 1709297193,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41379,
+        "num": 1280910,
+        "word": "全国两会怎样影响我们的生活",
+        "onboard_time": 1709283513,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1279605,
+        "num": 1279605,
+        "word": "德州驾车撞人男子已被当场抓获",
+        "onboard_time": 1709293531,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1167144,
+        "num": 1167144,
+        "word": "山东一轿车撞伤10余名儿童",
+        "onboard_time": 1709288612,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1000768,
+        "num": 1000768,
+        "word": "终于知道娃哈哈为啥用纸箱包装了",
+        "onboard_time": 1709292990,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 813824,
+        "num": 813824,
+        "word": "大学生花4块钱中了500万",
+        "onboard_time": 1709286572,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 792624,
+        "num": 792624,
+        "word": "杨幂张小斐袁姗姗是一个宿舍的",
+        "onboard_time": 1709288254,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551790,
+        "num": 551790,
+        "word": "原神 混池",
+        "onboard_time": 1709295813,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 478007,
+        "num": 478007,
+        "word": "宋昕冉晒迪丽热巴to签",
+        "onboard_time": 1709294912,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 576152,
+        "num": 464195,
+        "word": "修杰楷回应梧桐妹迷恋穿环",
+        "onboard_time": 1709297971,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369478,
+        "num": 369478,
+        "word": "章若楠的假发有四斤多重",
+        "onboard_time": 1709294375,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 620533,
+        "num": 367182,
+        "word": "杨幂总裁出街",
+        "onboard_time": 1709293531,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 411670,
+        "num": 365077,
+        "word": "张小斐荡领吊带",
+        "onboard_time": 1709291854,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 357089,
+        "num": 357089,
+        "word": "小红书 连不上网",
+        "onboard_time": 1709294128,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 334522,
+        "num": 334522,
+        "word": "IU看亲弟弟的眼神",
+        "onboard_time": 1709298874,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322257,
+        "num": 322257,
+        "word": "上财校长称很多大学拿理工科的钱搞文科",
+        "onboard_time": 1709294912,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 314345,
+        "num": 314345,
+        "word": "林心如方否认参加浪姐",
+        "onboard_time": 1709298631,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286854,
+        "num": 286854,
+        "word": "赵丽颖出道前的工作",
+        "onboard_time": 1709285072,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266966,
+        "num": 266966,
+        "word": "中国官网最低3499元就能买iPhone",
+        "onboard_time": 1709295272,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 483776,
+        "num": 265744,
+        "word": "以为很卫生其实很脏的行为",
+        "onboard_time": 1709295093,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 444146,
+        "num": 262051,
+        "word": "建议不要等到睡前才刷牙",
+        "onboard_time": 1709295272,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 320331,
+        "num": 260707,
+        "word": "坐高铁被塞了20块钱小费",
+        "onboard_time": 1709297251,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251822,
+        "num": 251822,
+        "word": "红楼梦 抢票",
+        "onboard_time": 1709285852,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 230011,
+        "num": 230011,
+        "word": "前女团成员解散后在工厂做女工",
+        "onboard_time": 1709275413,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224501,
+        "num": 224501,
+        "word": "德州献血",
+        "onboard_time": 1709291972,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211533,
+        "num": 211533,
+        "word": "全员加速中",
+        "onboard_time": 1709295872,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206015,
+        "num": 206015,
+        "word": "豆瓣崩了",
+        "onboard_time": 1709298931,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 203316,
+        "num": 203316,
+        "word": "章若楠cos大乔",
+        "onboard_time": 1709291491,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198291,
+        "num": 198291,
+        "word": "DYG状态",
+        "onboard_time": 1709298813,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194606,
+        "num": 194606,
+        "word": "原神前瞻",
+        "onboard_time": 1709296774,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172081,
+        "num": 172081,
+        "word": "小S大女儿Elly近照",
+        "onboard_time": 1709296233,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162613,
+        "num": 162613,
+        "word": "德州市民回应自发献血",
+        "onboard_time": 1709293953,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58367,
+        "num": 159610,
+        "word": "横琴全岛正式封关运行",
+        "onboard_time": 1709283753,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165409,
+        "num": 159536,
+        "word": "倒春寒真的要来了",
+        "onboard_time": 1709298514,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171755,
+        "num": 159356,
+        "word": "爱情公寓里的胡歌",
+        "onboard_time": 1709282791,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158826,
+        "num": 158826,
+        "word": "最高法详解核准劳荣枝死刑原因",
+        "onboard_time": 1709297610,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151568,
+        "num": 151568,
+        "word": "阮经天好帅",
+        "onboard_time": 1709294194,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144023,
+        "num": 144023,
+        "word": "水哥 只要我上的项目就押满分",
+        "onboard_time": 1709296471,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134630,
+        "num": 134630,
+        "word": "尚雯婕晒浪姐5工作餐",
+        "onboard_time": 1709298755,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125443,
+        "num": 125443,
+        "word": "春天是精神病的高发时期",
+        "onboard_time": 1709274573,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119492,
+        "num": 119492,
+        "word": "原神兑换码",
+        "onboard_time": 1709297971,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117186,
+        "num": 117186,
+        "word": "TES战胜iG",
+        "onboard_time": 1709295872,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112076,
+        "num": 112076,
+        "word": "亚克力枪枪美物开箱",
+        "onboard_time": 1709297792,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 111323,
+        "num": 111323,
+        "word": "XYG泽泽转战决胜巅峰",
+        "onboard_time": 1709299053,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110177,
+        "num": 110177,
+        "word": "杨幂巴黎撑伞",
+        "onboard_time": 1709299232,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109615,
+        "num": 109615,
+        "word": "奥本海默日本广岛长崎试映会",
+        "onboard_time": 1709294312,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109611,
+        "num": 109611,
+        "word": "市民排队为德州受伤学生献血",
+        "onboard_time": 1709291253,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109360,
+        "num": 109360,
+        "word": "林俊杰福州",
+        "onboard_time": 1709295872,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96997,
+        "num": 108017,
+        "word": "2024CBA全明星周末",
+        "onboard_time": 1709297916,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力推动我国新能源高质量发展#"
+    }
+  }
+}
