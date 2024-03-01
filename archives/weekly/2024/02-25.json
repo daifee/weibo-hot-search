@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709282060317,
+  "endTime": 1709284764524,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -609,6 +609,14 @@
       "onboard_time": 1708848332,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1683101,
+      "num": 1683101,
+      "word": "建议取消强制自动续费",
+      "onboard_time": 1709280390,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 1655253,
@@ -2291,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 770321,
+      "num": 770321,
+      "word": "爱情公寓里的胡歌",
+      "onboard_time": 1709282791,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 769586,
       "num": 769586,
       "word": "斗鱼曾经的头部主播都去哪了",
@@ -2505,6 +2521,14 @@
       "onboard_time": 1709110831,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 723108,
+      "num": 723108,
+      "word": "田柾国 炊事兵",
+      "onboard_time": 1709283033,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 722217,
@@ -2979,6 +3003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 641198,
+      "num": 641198,
+      "word": "农夫山泉 娃哈哈",
+      "onboard_time": 1709280870,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 639497,
       "num": 639497,
       "word": "任泉回应街头拥抱陌生人",
@@ -3123,14 +3155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 619589,
-      "num": 619589,
-      "word": "建议取消强制自动续费",
-      "onboard_time": 1709280390,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 618233,
       "num": 618233,
       "word": "周深把杨幂的英雄池摸透了",
@@ -3257,6 +3281,14 @@
       "onboard_time": 1708904488,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 604983,
+      "num": 449445,
+      "word": "利率10%银行存款产品火爆",
+      "onboard_time": 1709282973,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 603898,
@@ -3633,6 +3665,14 @@
       "onboard_time": 1709262392,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560592,
+      "num": 560592,
+      "word": "五条悟爆改JYP",
+      "onboard_time": 1709283033,
+      "rank": 7,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 560077,
@@ -5571,14 +5611,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 375651,
-      "num": 375651,
-      "word": "农夫山泉 娃哈哈",
-      "onboard_time": 1709280870,
-      "rank": 27,
-      "category": "美食"
-    },
-    {
       "raw_hot": 375641,
       "num": 375641,
       "word": "泉州两车相撞致一女子身亡",
@@ -5689,6 +5721,14 @@
       "onboard_time": 1708979055,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 365823,
+      "num": 365823,
+      "word": "关于北部湾北部领海基线的声明",
+      "onboard_time": 1709283875,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 365670,
@@ -6323,6 +6363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 321416,
+      "num": 321416,
+      "word": "特斯拉3个月降价3次",
+      "onboard_time": 1709280634,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 321321,
       "num": 321321,
       "word": "熬夜后千万别做2件事",
@@ -6427,6 +6475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316285,
+      "num": 316285,
+      "word": "MEGA售价",
+      "onboard_time": 1709282973,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 316012,
       "num": 316012,
       "word": "博主回应穿搭恶心被领导谈话",
@@ -6497,14 +6553,6 @@
       "onboard_time": 1709113835,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312877,
-      "num": 272509,
-      "word": "特斯拉3个月降价3次",
-      "onboard_time": 1709280634,
-      "rank": 21,
-      "category": "汽车"
     },
     {
       "raw_hot": 312750,
@@ -7435,6 +7483,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 270629,
+      "num": 270629,
+      "word": "马斯克起诉奥特曼",
+      "onboard_time": 1709282913,
+      "rank": 21,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 270553,
       "num": 270553,
       "word": "弟弟从没提过他的朋友坐轮椅",
@@ -7779,6 +7835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256423,
+      "num": 256423,
+      "word": "同事跟我买了一模一样的衣服",
+      "onboard_time": 1709283992,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 256267,
       "num": 256267,
       "word": "00后姑娘做TikTok主播月入2万",
@@ -7865,6 +7929,14 @@
       "onboard_time": 1708840595,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 254245,
+      "num": 254245,
+      "word": "理想发布会",
+      "onboard_time": 1709282913,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 254180,
@@ -8401,6 +8473,14 @@
       "onboard_time": 1709039735,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236075,
+      "num": 236075,
+      "word": "张钧甯玉米龅牙",
+      "onboard_time": 1709284232,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 235961,
@@ -9721,6 +9801,14 @@
       "onboard_time": 1708938513,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204117,
+      "num": 204117,
+      "word": "檀健次打字速度",
+      "onboard_time": 1709281773,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 204111,
@@ -11779,6 +11867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171043,
+      "num": 171043,
+      "word": "龚俊玩手机好像我上课忘带笔",
+      "onboard_time": 1709281590,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 171040,
       "num": 171040,
       "word": "王者荣耀全明星赛直播",
@@ -11963,6 +12059,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 168881,
+      "num": 168881,
+      "word": "孩子为免费领蛋仔派对皮肤家长被骗7.8万元",
+      "onboard_time": 1709283875,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168826,
       "num": 168826,
       "word": "唐嫣紫月光妆",
@@ -12041,6 +12145,22 @@
       "onboard_time": 1708956517,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167474,
+      "num": 167474,
+      "word": "春天美甲",
+      "onboard_time": 1709282555,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 167346,
+      "num": 167346,
+      "word": "刘谦看了都得研究半天",
+      "onboard_time": 1709283932,
+      "rank": 37,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 167343,
@@ -12161,14 +12281,6 @@
       "onboard_time": 1708836520,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 165704,
-      "num": 165704,
-      "word": "龚俊玩手机好像我上课忘带笔",
-      "onboard_time": 1709281590,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 165680,
@@ -12899,6 +13011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152945,
+      "num": 152945,
+      "word": "今天起快递不可擅自放驿站",
+      "onboard_time": 1709284112,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152907,
       "num": 152907,
       "word": "小猫相亲拘谨到外八",
@@ -12929,6 +13049,14 @@
       "onboard_time": 1709130395,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 152458,
+      "num": 152458,
+      "word": "飞驰人生 林臻东破碎感",
+      "onboard_time": 1709284414,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 152397,
@@ -12985,14 +13113,6 @@
       "onboard_time": 1709033254,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 152125,
-      "num": 152125,
-      "word": "檀健次打字速度",
-      "onboard_time": 1709281773,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 152032,
@@ -13297,6 +13417,14 @@
       "onboard_time": 1709090672,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146549,
+      "num": 803618,
+      "word": "横琴全岛正式封关运行",
+      "onboard_time": 1709283753,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146450,
@@ -14475,6 +14603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126702,
+      "num": 126702,
+      "word": "林一这个赛季强的有点可怕",
+      "onboard_time": 1709282372,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126699,
       "num": 126699,
       "word": "王俊凯新歌合作单位",
@@ -14683,6 +14819,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 121621,
+      "num": 206033,
+      "word": "章若楠大乔白鹤梁神女",
+      "onboard_time": 1709281233,
+      "rank": 49,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 121357,
       "num": 121357,
       "word": "玲娜酱首次出来营业",
@@ -14713,6 +14857,14 @@
       "onboard_time": 1708875759,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120621,
+      "num": 120621,
+      "word": "kpop士兵突击",
+      "onboard_time": 1709284593,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 120498,
@@ -14897,6 +15049,14 @@
       "onboard_time": 1709173291,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 117607,
+      "num": 117607,
+      "word": "Doinb已停播99天",
+      "onboard_time": 1709282134,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 116734,
@@ -15251,14 +15411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106621,
-      "num": 152002,
-      "word": "章若楠大乔白鹤梁神女",
-      "onboard_time": 1709281233,
-      "rank": 49,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 106492,
       "num": 106492,
       "word": "等年后再说 现在真到年后了",
@@ -15393,6 +15545,14 @@
       "onboard_time": 1708876772,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92883,
+      "num": 121230,
+      "word": "24款理想L系列超有料",
+      "onboard_time": 1709284531,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 90784,

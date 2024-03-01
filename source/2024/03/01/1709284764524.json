@@ -1,0 +1,410 @@
+{
+  "runTime": 1709284764524,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1683101,
+        "num": 1683101,
+        "word": "建议取消强制自动续费",
+        "onboard_time": 1709280390,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 848456,
+        "num": 848456,
+        "word": "前女团成员解散后在工厂做女工",
+        "onboard_time": 1709275413,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146549,
+        "num": 803618,
+        "word": "横琴全岛正式封关运行",
+        "onboard_time": 1709283753,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 770321,
+        "num": 770321,
+        "word": "爱情公寓里的胡歌",
+        "onboard_time": 1709282791,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 723108,
+        "num": 723108,
+        "word": "田柾国 炊事兵",
+        "onboard_time": 1709283033,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646605,
+        "num": 646605,
+        "word": "我是为了救我哥哥才出生的",
+        "onboard_time": 1709275352,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 641198,
+        "num": 641198,
+        "word": "农夫山泉 娃哈哈",
+        "onboard_time": 1709280870,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 560592,
+        "num": 560592,
+        "word": "五条悟爆改JYP",
+        "onboard_time": 1709283033,
+        "rank": 7,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 481668,
+        "num": 481668,
+        "word": "斗鱼曾经的头部主播都去哪了",
+        "onboard_time": 1709278590,
+        "rank": 8,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 422291,
+        "num": 453494,
+        "word": "退税",
+        "onboard_time": 1709249065,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 604983,
+        "num": 449445,
+        "word": "利率10%银行存款产品火爆",
+        "onboard_time": 1709282973,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 439317,
+        "num": 439317,
+        "word": "小团团已停播34天",
+        "onboard_time": 1709273553,
+        "rank": 11,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 387885,
+        "num": 387885,
+        "word": "美国女教师和16岁男生发生关系或被判25年",
+        "onboard_time": 1709271392,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365823,
+        "num": 365823,
+        "word": "关于北部湾北部领海基线的声明",
+        "onboard_time": 1709283875,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 321416,
+        "num": 321416,
+        "word": "特斯拉3个月降价3次",
+        "onboard_time": 1709280634,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 316285,
+        "num": 316285,
+        "word": "MEGA售价",
+        "onboard_time": 1709282973,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 312176,
+        "num": 312176,
+        "word": "33岁白发妈妈亲吻去世宝宝墓碑",
+        "onboard_time": 1709274750,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305567,
+        "num": 305567,
+        "word": "周柯宇哥哥",
+        "onboard_time": 1709279913,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283567,
+        "num": 283567,
+        "word": "春天是精神病的高发时期",
+        "onboard_time": 1709274573,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 278934,
+        "num": 278934,
+        "word": "曾经很火但消失了的童年零食",
+        "onboard_time": 1709269654,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286091,
+        "num": 277408,
+        "word": "双休6千单休8千",
+        "onboard_time": 1709272713,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270629,
+        "num": 270629,
+        "word": "马斯克起诉奥特曼",
+        "onboard_time": 1709282913,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 256423,
+        "num": 256423,
+        "word": "同事跟我买了一模一样的衣服",
+        "onboard_time": 1709283992,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255743,
+        "num": 255743,
+        "word": "微信删除后加回来对方知道吗",
+        "onboard_time": 1709257051,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254245,
+        "num": 254245,
+        "word": "理想发布会",
+        "onboard_time": 1709282913,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 237056,
+        "num": 237056,
+        "word": "武契奇这次用两秒说清台湾问题",
+        "onboard_time": 1709280810,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 236075,
+        "num": 236075,
+        "word": "张钧甯玉米龅牙",
+        "onboard_time": 1709284232,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231742,
+        "num": 231742,
+        "word": "与凤行排播",
+        "onboard_time": 1709278174,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121621,
+        "num": 206033,
+        "word": "章若楠大乔白鹤梁神女",
+        "onboard_time": 1709281233,
+        "rank": 28,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 204117,
+        "num": 204117,
+        "word": "檀健次打字速度",
+        "onboard_time": 1709281773,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191689,
+        "num": 191689,
+        "word": "妍珍呐 你认得出自己吗",
+        "onboard_time": 1709272411,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188498,
+        "num": 188498,
+        "word": "理想MEGA",
+        "onboard_time": 1709278413,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 174495,
+        "num": 174495,
+        "word": "读研时被导师坚定地选择是什么体验",
+        "onboard_time": 1709276673,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171470,
+        "num": 171470,
+        "word": "赵丽颖银白挑染",
+        "onboard_time": 1709270014,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171043,
+        "num": 171043,
+        "word": "龚俊玩手机好像我上课忘带笔",
+        "onboard_time": 1709281590,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168881,
+        "num": 168881,
+        "word": "孩子为免费领蛋仔派对皮肤家长被骗7.8万元",
+        "onboard_time": 1709283875,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167474,
+        "num": 167474,
+        "word": "春天美甲",
+        "onboard_time": 1709282555,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 167346,
+        "num": 167346,
+        "word": "刘谦看了都得研究半天",
+        "onboard_time": 1709283932,
+        "rank": 37,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 152945,
+        "num": 152945,
+        "word": "今天起快递不可擅自放驿站",
+        "onboard_time": 1709284112,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152458,
+        "num": 152458,
+        "word": "飞驰人生 林臻东破碎感",
+        "onboard_time": 1709284414,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135586,
+        "num": 135586,
+        "word": "大理寺少卿游 家人的控制欲",
+        "onboard_time": 1709281233,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134190,
+        "num": 134190,
+        "word": "郭艾伦近十年首次缺席全明星",
+        "onboard_time": 1709281653,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133665,
+        "num": 133665,
+        "word": "小S二女儿Lily16岁身材",
+        "onboard_time": 1709262450,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126702,
+        "num": 126702,
+        "word": "林一这个赛季强的有点可怕",
+        "onboard_time": 1709282372,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122421,
+        "num": 122421,
+        "word": "睡姿不对越睡越累",
+        "onboard_time": 1709280571,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92883,
+        "num": 121230,
+        "word": "24款理想L系列超有料",
+        "onboard_time": 1709284531,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 120621,
+        "num": 120621,
+        "word": "kpop士兵突击",
+        "onboard_time": 1709284593,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118155,
+        "num": 118155,
+        "word": "易烊千玺帽子",
+        "onboard_time": 1709266957,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117607,
+        "num": 117607,
+        "word": "Doinb已停播99天",
+        "onboard_time": 1709282134,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106987,
+        "num": 106987,
+        "word": "你只是钱少而已",
+        "onboard_time": 1709277392,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
