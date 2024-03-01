@@ -1,0 +1,410 @@
+{
+  "runTime": 1709302561982,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1663454,
+        "num": 1663454,
+        "word": "德州车祸致2死6重伤",
+        "onboard_time": 1709291435,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1063478,
+        "num": 1063478,
+        "word": "山东一轿车撞伤10余名儿童",
+        "onboard_time": 1709288612,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60564,
+        "num": 947282,
+        "word": "全国两会怎样影响我们的生活",
+        "onboard_time": 1709283513,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 940390,
+        "num": 940390,
+        "word": "修杰楷回应梧桐妹迷恋穿环",
+        "onboard_time": 1709297971,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 750752,
+        "num": 750752,
+        "word": "大学生花4块钱中了500万",
+        "onboard_time": 1709286572,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 649017,
+        "num": 649017,
+        "word": "教育部将增加专硕招生规模",
+        "onboard_time": 1709299652,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 648343,
+        "num": 648343,
+        "word": "德州驾车撞人男子已被当场抓获",
+        "onboard_time": 1709293531,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642879,
+        "num": 642879,
+        "word": "杨幂张小斐袁姗姗是一个宿舍的",
+        "onboard_time": 1709288254,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552467,
+        "num": 552467,
+        "word": "IU看亲弟弟的眼神",
+        "onboard_time": 1709298874,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 533081,
+        "num": 533081,
+        "word": "终于知道娃哈哈为啥用纸箱包装了",
+        "onboard_time": 1709292990,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 554023,
+        "num": 530799,
+        "word": "松子狂炫中国火锅",
+        "onboard_time": 1709299953,
+        "rank": 10,
+        "category": "美食,综艺"
+      },
+      {
+        "raw_hot": 495220,
+        "num": 495220,
+        "word": "车厘子榴莲山竹都便宜了",
+        "onboard_time": 1709300854,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 492778,
+        "num": 492778,
+        "word": "中国官网最低3499元就能买iPhone",
+        "onboard_time": 1709295272,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 477929,
+        "num": 477929,
+        "word": "林心如方否认参加浪姐",
+        "onboard_time": 1709298631,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412204,
+        "num": 412204,
+        "word": "结婚是为了幸福离婚也是",
+        "onboard_time": 1709300912,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371310,
+        "num": 371310,
+        "word": "杨幂工作室的审美",
+        "onboard_time": 1709299475,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334663,
+        "num": 334663,
+        "word": "苏州小鹏P7事故碰撞前存在高速驾驶",
+        "onboard_time": 1709301095,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314833,
+        "num": 314833,
+        "word": "原神 混池",
+        "onboard_time": 1709295813,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275697,
+        "num": 275697,
+        "word": "奶奶不懂抑郁却懂得如何爱你",
+        "onboard_time": 1709299412,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269300,
+        "num": 269300,
+        "word": "章若楠的假发有四斤多重",
+        "onboard_time": 1709294375,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 928413,
+        "num": 267678,
+        "word": "男孩一天喝9升水被查出肿瘤",
+        "onboard_time": 1709297193,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 473189,
+        "num": 264834,
+        "word": "以为很卫生其实很脏的行为",
+        "onboard_time": 1709295093,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 354381,
+        "num": 262959,
+        "word": "杨幂看秀座位",
+        "onboard_time": 1709301632,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 314005,
+        "num": 258854,
+        "word": "建议不要等到睡前才刷牙",
+        "onboard_time": 1709295272,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67652,
+        "num": 254040,
+        "word": "原神千织双刀",
+        "onboard_time": 1709300314,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253816,
+        "num": 253816,
+        "word": "倒春寒真的要来了",
+        "onboard_time": 1709298514,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251727,
+        "num": 251727,
+        "word": "当你单身多年后突然谈了个恋爱",
+        "onboard_time": 1709299775,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298506,
+        "num": 247925,
+        "word": "杨幂总裁出街",
+        "onboard_time": 1709293531,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240710,
+        "num": 240710,
+        "word": "红楼梦 抢票",
+        "onboard_time": 1709285852,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98763,
+        "num": 240487,
+        "word": "头发梳对了有助于改善发量",
+        "onboard_time": 1709299352,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240435,
+        "num": 240435,
+        "word": "坐高铁被塞了20块钱小费",
+        "onboard_time": 1709297251,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223477,
+        "num": 223477,
+        "word": "张小斐荡领吊带",
+        "onboard_time": 1709291854,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208011,
+        "num": 208011,
+        "word": "宋昕冉晒迪丽热巴to签",
+        "onboard_time": 1709294912,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203886,
+        "num": 203886,
+        "word": "上财校长称很多大学拿理工科的钱搞文科",
+        "onboard_time": 1709294912,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 184680,
+        "num": 184680,
+        "word": "赵丽颖出道前的工作",
+        "onboard_time": 1709285072,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181621,
+        "num": 181621,
+        "word": "全员加速中",
+        "onboard_time": 1709295872,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174202,
+        "num": 174202,
+        "word": "门票战EDG对阵TE",
+        "onboard_time": 1709301333,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164240,
+        "num": 164240,
+        "word": "毛不易话少但淬毒",
+        "onboard_time": 1709301814,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157246,
+        "num": 157246,
+        "word": "阮经天好帅",
+        "onboard_time": 1709294194,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150778,
+        "num": 150778,
+        "word": "前女团成员解散后在工厂做女工",
+        "onboard_time": 1709275413,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128879,
+        "num": 128879,
+        "word": "德州市民回应自发献血",
+        "onboard_time": 1709293953,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123011,
+        "num": 123011,
+        "word": "德州献血",
+        "onboard_time": 1709291972,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120899,
+        "num": 120899,
+        "word": "夏鸣星 不要再逃跑了",
+        "onboard_time": 1709302294,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120686,
+        "num": 120686,
+        "word": "知情人士称小团团疑涉案金额太大",
+        "onboard_time": 1709286272,
+        "rank": 43,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 120225,
+        "num": 120225,
+        "word": "小团团已停播34天",
+        "onboard_time": 1709273553,
+        "rank": 44,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 115583,
+        "num": 115583,
+        "word": "杨幂巴黎撑伞",
+        "onboard_time": 1709299232,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108667,
+        "num": 108667,
+        "word": "小红书 连不上网",
+        "onboard_time": 1709294128,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 107489,
+        "num": 107489,
+        "word": "豆瓣崩了",
+        "onboard_time": 1709298931,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 106343,
+        "num": 106343,
+        "word": "叶一茜晒全家福",
+        "onboard_time": 1709302474,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102718,
+        "num": 102718,
+        "word": "全嘻嘻访谈武志红",
+        "onboard_time": 1709302053,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力推动我国新能源高质量发展#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709300041034,
+  "endTime": 1709302561982,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -185,6 +185,14 @@
       "onboard_time": 1709292990,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 940390,
+      "num": 940390,
+      "word": "修杰楷回应梧桐妹迷恋穿环",
+      "onboard_time": 1709297971,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 916839,
@@ -379,12 +387,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 642056,
-      "num": 464195,
-      "word": "修杰楷回应梧桐妹迷恋穿环",
-      "onboard_time": 1709297971,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 649017,
+      "num": 649017,
+      "word": "教育部将增加专硕招生规模",
+      "onboard_time": 1709299652,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 635945,
@@ -467,6 +475,22 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 554023,
+      "num": 530799,
+      "word": "松子狂炫中国火锅",
+      "onboard_time": 1709299953,
+      "rank": 41,
+      "category": "美食,综艺"
+    },
+    {
+      "raw_hot": 552467,
+      "num": 552467,
+      "word": "IU看亲弟弟的眼神",
+      "onboard_time": 1709298874,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 551851,
       "num": 551851,
       "word": "红楼梦 抢票",
@@ -521,14 +545,6 @@
       "onboard_time": 1709283875,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 525829,
-      "num": 445628,
-      "word": "IU看亲弟弟的眼神",
-      "onboard_time": 1709298874,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 525671,
@@ -593,6 +609,22 @@
       "onboard_time": 1709249608,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 495220,
+      "num": 495220,
+      "word": "车厘子榴莲山竹都便宜了",
+      "onboard_time": 1709300854,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 492778,
+      "num": 492778,
+      "word": "中国官网最低3499元就能买iPhone",
+      "onboard_time": 1709295272,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 489582,
@@ -803,6 +835,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 412204,
+      "num": 412204,
+      "word": "结婚是为了幸福离婚也是",
+      "onboard_time": 1709300912,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 409825,
       "num": 409825,
       "word": "曹璐回应落选浪姐",
@@ -899,6 +939,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 371310,
+      "num": 371310,
+      "word": "杨幂工作室的审美",
+      "onboard_time": 1709299475,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 358392,
       "num": 358392,
       "word": "小团团",
@@ -913,6 +961,14 @@
       "onboard_time": 1709250085,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 354381,
+      "num": 262959,
+      "word": "杨幂看秀座位",
+      "onboard_time": 1709301632,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 351002,
@@ -987,12 +1043,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 333492,
-      "num": 333492,
-      "word": "杨幂工作室的审美",
-      "onboard_time": 1709299475,
-      "rank": 17,
-      "category": "作品衍生"
+      "raw_hot": 334663,
+      "num": 334663,
+      "word": "苏州小鹏P7事故碰撞前存在高速驾驶",
+      "onboard_time": 1709301095,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328294,
@@ -1049,14 +1105,6 @@
       "onboard_time": 1709218836,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 314822,
-      "num": 314822,
-      "word": "中国官网最低3499元就能买iPhone",
-      "onboard_time": 1709295272,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 314572,
@@ -1187,6 +1235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 275697,
+      "num": 275697,
+      "word": "奶奶不懂抑郁却懂得如何爱你",
+      "onboard_time": 1709299412,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 275395,
       "num": 2519376,
       "word": "横琴全岛正式封关运行",
@@ -1275,12 +1331,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 253816,
+      "num": 253816,
+      "word": "倒春寒真的要来了",
+      "onboard_time": 1709298514,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251848,
       "num": 251848,
       "word": "DQ联名 排队",
       "onboard_time": 1709261791,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 251727,
+      "num": 251727,
+      "word": "当你单身多年后突然谈了个恋爱",
+      "onboard_time": 1709299775,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 250264,
@@ -1331,14 +1403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 235491,
-      "num": 235491,
-      "word": "倒春寒真的要来了",
-      "onboard_time": 1709298514,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227153,
       "num": 220749,
       "word": "在卫生间感受到了职场的爱",
@@ -1353,14 +1417,6 @@
       "onboard_time": 1709283875,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225696,
-      "num": 197453,
-      "word": "奶奶不懂抑郁却懂得如何爱你",
-      "onboard_time": 1709299412,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 223229,
@@ -1907,6 +1963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174202,
+      "num": 174202,
+      "word": "门票战EDG对阵TE",
+      "onboard_time": 1709301333,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174164,
       "num": 174164,
       "word": "魔卡少女樱 狼樱HE",
@@ -2019,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164240,
+      "num": 164240,
+      "word": "毛不易话少但淬毒",
+      "onboard_time": 1709301814,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162879,
       "num": 162879,
       "word": "浪姐官博回复李溪芮",
@@ -2105,14 +2177,6 @@
       "onboard_time": 1709263170,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 158398,
-      "num": 158398,
-      "word": "教育部将增加专硕招生规模",
-      "onboard_time": 1709299652,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 157437,
@@ -2241,14 +2305,6 @@
       "onboard_time": 1709281050,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 147852,
-      "num": 147852,
-      "word": "松子狂炫中国火锅",
-      "onboard_time": 1709299953,
-      "rank": 41,
-      "category": "美食,综艺"
     },
     {
       "raw_hot": 145701,
@@ -2435,14 +2491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130908,
-      "num": 130908,
-      "word": "当你单身多年后突然谈了个恋爱",
-      "onboard_time": 1709299775,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 129806,
       "num": 129806,
       "word": "王俊凯献唱云端之上",
@@ -2561,6 +2609,14 @@
       "onboard_time": 1709224166,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120899,
+      "num": 120899,
+      "word": "夏鸣星 不要再逃跑了",
+      "onboard_time": 1709302294,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 120370,
@@ -2715,6 +2771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 106343,
+      "num": 106343,
+      "word": "叶一茜晒全家福",
+      "onboard_time": 1709302474,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105815,
       "num": 105815,
       "word": "化妆品一盘多用",
@@ -2755,8 +2819,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102718,
+      "num": 102718,
+      "word": "全嘻嘻访谈武志红",
+      "onboard_time": 1709302053,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99813,
-      "num": 200459,
+      "num": 240487,
       "word": "头发梳对了有助于改善发量",
       "onboard_time": 1709299352,
       "rank": 29,
@@ -2883,6 +2955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67652,
+      "num": 254040,
+      "word": "原神千织双刀",
+      "onboard_time": 1709300314,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 65129,
       "num": 79307,
       "word": "久哲场外BUFF",
@@ -2931,6 +3011,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 60564,
+      "num": 1365312,
+      "word": "全国两会怎样影响我们的生活",
+      "onboard_time": 1709283513,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59188,
       "num": 59188,
       "word": "理查德刘易斯去世",
@@ -2969,14 +3057,6 @@
       "onboard_time": 1709279552,
       "rank": 11,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 50298,
-      "num": 1365312,
-      "word": "全国两会怎样影响我们的生活",
-      "onboard_time": 1709283513,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42701,
