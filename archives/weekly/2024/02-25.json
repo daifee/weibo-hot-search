@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709263298643,
+  "endTime": 1709264106554,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -547,8 +547,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1733038,
-      "num": 1733038,
+      "raw_hot": 1750177,
+      "num": 1750177,
       "word": "白敬亭范思哲全球香水代言人",
       "onboard_time": 1709261251,
       "rank": 1,
@@ -1027,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1236264,
+      "num": 1236264,
+      "word": "拜登宣称将对中国进口汽车采取前所未有行动",
+      "onboard_time": 1709261612,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1233982,
       "num": 1233982,
       "word": "迪丽热巴新高定",
@@ -1313,14 +1321,6 @@
       "onboard_time": 1708950035,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1047370,
-      "num": 1047370,
-      "word": "拜登宣称将对中国进口汽车采取前所未有行动",
-      "onboard_time": 1709261612,
-      "rank": 4,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1036067,
@@ -1625,6 +1625,14 @@
       "onboard_time": 1709100151,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 916839,
+      "num": 916839,
+      "word": "小S二女儿Lily16岁身材",
+      "onboard_time": 1709262450,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 913814,
@@ -2556,7 +2564,7 @@
     },
     {
       "raw_hot": 699432,
-      "num": 459846,
+      "num": 547974,
       "word": "凌晨蹲点退税退到了3万多",
       "onboard_time": 1709256869,
       "rank": 40,
@@ -2760,14 +2768,6 @@
       "word": "娱乐圈30帅",
       "onboard_time": 1709177613,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 658400,
-      "num": 658400,
-      "word": "小S二女儿Lily16岁身材",
-      "onboard_time": 1709262450,
-      "rank": 7,
       "category": "艺人"
     },
     {
@@ -3121,6 +3121,14 @@
       "onboard_time": 1708953815,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 602811,
+      "num": 602811,
+      "word": "退税还是补税一个公式教你计算",
+      "onboard_time": 1709262211,
+      "rank": 17,
+      "category": "财经,科学科普"
     },
     {
       "raw_hot": 602700,
@@ -3537,6 +3545,14 @@
       "onboard_time": 1708932817,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 549148,
+      "num": 549148,
+      "word": "垂耳兔双马尾",
+      "onboard_time": 1709260473,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 548943,
@@ -4369,14 +4385,6 @@
       "onboard_time": 1708949674,
       "rank": 31,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 460573,
-      "num": 460573,
-      "word": "垂耳兔双马尾",
-      "onboard_time": 1709260473,
-      "rank": 47,
-      "category": "美妆"
     },
     {
       "raw_hot": 457806,
@@ -6251,14 +6259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 311305,
-      "num": 311305,
-      "word": "退税还是补税一个公式教你计算",
-      "onboard_time": 1709262211,
-      "rank": 17,
-      "category": "财经,科学科普"
-    },
-    {
       "raw_hot": 311294,
       "num": 311294,
       "word": "你一手拿着苹果",
@@ -6649,6 +6649,14 @@
       "onboard_time": 1709039316,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 288374,
+      "num": 288374,
+      "word": "孙俪谈肠胃健康重要性",
+      "onboard_time": 1709262992,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 288354,
@@ -7849,6 +7857,14 @@
       "onboard_time": 1709118571,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241425,
+      "num": 241425,
+      "word": "快递小哥称新规或致收入大缩水",
+      "onboard_time": 1709263232,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241111,
@@ -9609,14 +9625,6 @@
       "onboard_time": 1709199750,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197459,
-      "num": 197459,
-      "word": "孙俪谈肠胃健康重要性",
-      "onboard_time": 1709262992,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 197255,
@@ -11987,6 +11995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158421,
+      "num": 158421,
+      "word": "绑架落难富家公子银渐层",
+      "onboard_time": 1709263170,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158321,
       "num": 158321,
       "word": "中国航天有望创造一项新纪录",
@@ -12251,6 +12267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 153229,
+      "num": 153229,
+      "word": "KTV9年倒闭7万家",
+      "onboard_time": 1709263473,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153168,
       "num": 153168,
       "word": "蟠陶盛彦婚后生活",
@@ -12449,6 +12473,14 @@
       "onboard_time": 1708844375,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 149833,
+      "num": 149833,
+      "word": "巴黎奥运村交付",
+      "onboard_time": 1709263353,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 149530,
@@ -13284,7 +13316,7 @@
     },
     {
       "raw_hot": 136658,
-      "num": 198839,
+      "num": 548402,
       "word": "杨紫天山白亮片鱼尾裙",
       "onboard_time": 1709262512,
       "rank": 29,
@@ -13425,6 +13457,14 @@
       "onboard_time": 1708824094,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 133146,
+      "num": 133146,
+      "word": "大学恋爱和社会恋爱",
+      "onboard_time": 1709263891,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 132919,
@@ -13883,14 +13923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122662,
-      "num": 122662,
-      "word": "绑架落难富家公子银渐层",
-      "onboard_time": 1709263170,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 122637,
       "num": 122637,
       "word": "丁程鑫主播嘴欠大赏",
@@ -13995,6 +14027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120370,
+      "num": 120370,
+      "word": "3月做什么都能成功的人",
+      "onboard_time": 1709263108,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120074,
       "num": 120074,
       "word": "韩国今年176所小学没招到新生",
@@ -14049,6 +14089,14 @@
       "onboard_time": 1708961316,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119092,
+      "num": 119092,
+      "word": "檀健次张婧仪新浪扫楼",
+      "onboard_time": 1709264009,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 119055,
@@ -14147,14 +14195,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 116573,
-      "num": 116573,
-      "word": "3月做什么都能成功的人",
-      "onboard_time": 1709263108,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 116128,
       "num": 116128,
       "word": "冷暴力中长大的孩子",
@@ -14225,14 +14265,6 @@
       "onboard_time": 1709134653,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113993,
-      "num": 113993,
-      "word": "快递小哥称新规或致收入大缩水",
-      "onboard_time": 1709263232,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113950,
@@ -15108,7 +15140,7 @@
     },
     {
       "raw_hot": 50843,
-      "num": 342442,
+      "num": 349494,
       "word": "洞门时尚名场面",
       "onboard_time": 1709257229,
       "rank": 14,
