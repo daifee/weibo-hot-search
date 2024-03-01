@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709324320899,
+  "endTime": 1709325252267,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -3355,7 +3355,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35961,
+      "raw_hot": 37870,
       "num": 35961,
       "word": "侯雯元 被自己迷得神魂颠倒的气质",
       "onboard_time": 1709321537,
@@ -3419,6 +3419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 24900,
+      "num": 24900,
+      "word": "蹭麻辣烫三个月流浪狗的变化",
+      "onboard_time": 1709323457,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 24022,
       "num": 147208,
       "word": "理想首款MPV为什么是MEGA",
@@ -3449,14 +3457,6 @@
       "onboard_time": 1709234057,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 18356,
-      "num": 18356,
-      "word": "蹭麻辣烫三个月流浪狗的变化",
-      "onboard_time": 1709323457,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 17273,
@@ -3491,8 +3491,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14036,
-      "num": 14036,
+      "raw_hot": 14801,
+      "num": 14801,
+      "word": "酒店回应只能外国人穿拖鞋用餐",
+      "onboard_time": 1709324237,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14516,
+      "num": 14516,
       "word": "颖儿再演夏冬春",
       "onboard_time": 1709323036,
       "rank": 40,
@@ -3515,12 +3523,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 10822,
-      "num": 13930,
-      "word": "酒店回应只能外国人穿拖鞋用餐",
-      "onboard_time": 1709324237,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 10114,
+      "num": 13426,
+      "word": "3月前4天退税预约已满",
+      "onboard_time": 1709325196,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 9473,
