@@ -1,6 +1,6 @@
 {
   "startTime": 1709310056019,
-  "endTime": 1709313750766,
+  "endTime": 1709314836485,
   "band_list": [
     {
       "raw_hot": 2650152,
@@ -115,6 +115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 275091,
+      "num": 275091,
+      "word": "小英穿搭",
+      "onboard_time": 1709311528,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
       "raw_hot": 260950,
       "num": 260950,
       "word": "大学生花4块钱中了500万",
@@ -153,14 +161,6 @@
       "onboard_time": 1709306791,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 211027,
-      "num": 211027,
-      "word": "小英穿搭",
-      "onboard_time": 1709311528,
-      "rank": 9,
-      "category": "网红"
     },
     {
       "raw_hot": 209918,
@@ -243,12 +243,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147307,
+      "num": 147307,
+      "word": "知情人士称小团团疑涉案金额太大",
+      "onboard_time": 1709286272,
+      "rank": 35,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 143561,
       "num": 143561,
       "word": "当你单身多年后突然谈了个恋爱",
       "onboard_time": 1709299775,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 142006,
+      "num": 142006,
+      "word": "毛不易比十个勤天还愁",
+      "onboard_time": 1709311945,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 141239,
@@ -273,14 +289,6 @@
       "onboard_time": 1709304513,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 126367,
-      "num": 126367,
-      "word": "毛不易比十个勤天还愁",
-      "onboard_time": 1709311945,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 123619,
@@ -313,14 +321,6 @@
       "onboard_time": 1709309130,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 109187,
-      "num": 109187,
-      "word": "知情人士称小团团疑涉案金额太大",
-      "onboard_time": 1709286272,
-      "rank": 35,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 104343,
@@ -395,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 77502,
+      "num": 77502,
+      "word": "广东人再冷也要每天洗澡",
+      "onboard_time": 1709312604,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75821,
       "num": 75821,
       "word": "石凯摸猎人腹肌",
@@ -443,14 +451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 57827,
-      "num": 57827,
-      "word": "广东人再冷也要每天洗澡",
-      "onboard_time": 1709312604,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 57604,
       "num": 89121,
       "word": "唐凯vs丹勒二番战",
@@ -467,25 +467,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42711,
+      "num": 57509,
+      "word": "坐高铁被塞了20块钱小费",
+      "onboard_time": 1709297251,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 39535,
       "num": 57509,
       "word": "尚雯婕晒浪姐5工作餐",
       "onboard_time": 1709298755,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39156,
-      "num": 57509,
-      "word": "坐高铁被塞了20块钱小费",
-      "onboard_time": 1709297251,
-      "rank": 49,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
     {
       "word": "#大力推动我国新能源高质量发展#"
+    },
+    {
+      "word": "#牢记初心使命顽强拼搏进取#"
     }
   ]
 }
