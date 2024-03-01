@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709302561982,
+  "endTime": 1709303659372,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -187,8 +187,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 940390,
-      "num": 940390,
+      "raw_hot": 1000599,
+      "num": 1000599,
       "word": "修杰楷回应梧桐妹迷恋穿环",
       "onboard_time": 1709297971,
       "rank": 10,
@@ -283,6 +283,22 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 728598,
+      "num": 728598,
+      "word": "车厘子榴莲山竹都便宜了",
+      "onboard_time": 1709300854,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 726490,
+      "num": 726490,
+      "word": "教育部将增加专硕招生规模",
+      "onboard_time": 1709299652,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 723108,
       "num": 723108,
       "word": "田柾国 炊事兵",
@@ -347,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 682934,
+      "num": 682934,
+      "word": "松子狂炫中国火锅",
+      "onboard_time": 1709299953,
+      "rank": 41,
+      "category": "美食,综艺"
+    },
+    {
       "raw_hot": 682521,
       "num": 632054,
       "word": "张小斐荡领吊带",
@@ -385,14 +409,6 @@
       "onboard_time": 1709266957,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 649017,
-      "num": 649017,
-      "word": "教育部将增加专硕招生规模",
-      "onboard_time": 1709299652,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 635945,
@@ -451,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 566255,
+      "num": 566255,
+      "word": "IU看亲弟弟的眼神",
+      "onboard_time": 1709298874,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 563871,
       "num": 563871,
       "word": "中泰免签正式生效",
@@ -473,22 +497,6 @@
       "onboard_time": 1709283033,
       "rank": 7,
       "category": "动漫,艺人"
-    },
-    {
-      "raw_hot": 554023,
-      "num": 530799,
-      "word": "松子狂炫中国火锅",
-      "onboard_time": 1709299953,
-      "rank": 41,
-      "category": "美食,综艺"
-    },
-    {
-      "raw_hot": 552467,
-      "num": 552467,
-      "word": "IU看亲弟弟的眼神",
-      "onboard_time": 1709298874,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 551851,
@@ -611,14 +619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 495220,
-      "num": 495220,
-      "word": "车厘子榴莲山竹都便宜了",
-      "onboard_time": 1709300854,
-      "rank": 11,
-      "category": "美食"
-    },
-    {
       "raw_hot": 492778,
       "num": 492778,
       "word": "中国官网最低3499元就能买iPhone",
@@ -681,6 +681,14 @@
       "onboard_time": 1709254056,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457282,
+      "num": 457282,
+      "word": "结婚是为了幸福离婚也是",
+      "onboard_time": 1709300912,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 456247,
@@ -819,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418223,
+      "num": 418223,
+      "word": "苏州小鹏P7事故碰撞前存在高速驾驶",
+      "onboard_time": 1709301095,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418130,
       "num": 418130,
       "word": "全员加速中",
@@ -833,14 +849,6 @@
       "onboard_time": 1709260951,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 412204,
-      "num": 412204,
-      "word": "结婚是为了幸福离婚也是",
-      "onboard_time": 1709300912,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 409825,
@@ -923,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376527,
+      "num": 376527,
+      "word": "杨幂工作室的审美",
+      "onboard_time": 1709299475,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 373650,
       "num": 373650,
       "word": "张雪峰建议英语口语占120分",
@@ -937,14 +953,6 @@
       "onboard_time": 1709294128,
       "rank": 13,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 371310,
-      "num": 371310,
-      "word": "杨幂工作室的审美",
-      "onboard_time": 1709299475,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 358392,
@@ -964,7 +972,7 @@
     },
     {
       "raw_hot": 354381,
-      "num": 262959,
+      "num": 268946,
       "word": "杨幂看秀座位",
       "onboard_time": 1709301632,
       "rank": 22,
@@ -1041,14 +1049,6 @@
       "onboard_time": 1709206592,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 334663,
-      "num": 334663,
-      "word": "苏州小鹏P7事故碰撞前存在高速驾驶",
-      "onboard_time": 1709301095,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 328294,
@@ -1203,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293633,
+      "num": 293633,
+      "word": "倒春寒真的要来了",
+      "onboard_time": 1709298514,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293229,
       "num": 293229,
       "word": "张佳宁王凯合照",
@@ -1283,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270083,
+      "num": 270083,
+      "word": "彩票店回应女生花4元中500万",
+      "onboard_time": 1709302713,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269031,
       "num": 269031,
       "word": "马丽票房女王的格局",
@@ -1315,6 +1331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 261065,
+      "num": 261065,
+      "word": "当你单身多年后突然谈了个恋爱",
+      "onboard_time": 1709299775,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255931,
       "num": 208766,
       "word": "周星驰将为新片女足海选素人",
@@ -1331,28 +1355,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 253816,
-      "num": 253816,
-      "word": "倒春寒真的要来了",
-      "onboard_time": 1709298514,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251848,
       "num": 251848,
       "word": "DQ联名 排队",
       "onboard_time": 1709261791,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 251727,
-      "num": 251727,
-      "word": "当你单身多年后突然谈了个恋爱",
-      "onboard_time": 1709299775,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 250264,
@@ -2195,6 +2203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155592,
+      "num": 155592,
+      "word": "叶一茜晒全家福",
+      "onboard_time": 1709302474,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154416,
       "num": 154416,
       "word": "为什么蜂蜜勺子是这个样子",
@@ -2771,14 +2787,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 106343,
-      "num": 106343,
-      "word": "叶一茜晒全家福",
-      "onboard_time": 1709302474,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105815,
       "num": 105815,
       "word": "化妆品一盘多用",
@@ -2801,6 +2809,14 @@
       "onboard_time": 1709237535,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103804,
+      "num": 103804,
+      "word": "别对我动心开播",
+      "onboard_time": 1709303377,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 103199,
@@ -2855,6 +2871,14 @@
       "num": 108017,
       "word": "2024CBA全明星周末",
       "onboard_time": 1709297916,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94484,
+      "num": 94484,
+      "word": "上海海港3比1武汉三镇",
+      "onboard_time": 1709303615,
       "rank": 49,
       "category": "体育"
     },
