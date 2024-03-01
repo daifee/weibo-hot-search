@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709299280754,
+  "endTime": 1709300041034,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -635,6 +635,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1699639,
+      "num": 1699639,
+      "word": "男孩一天喝9升水被查出肿瘤",
+      "onboard_time": 1709297193,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1697101,
       "num": 1697101,
       "word": "姚玉玲结局",
@@ -1041,14 +1049,6 @@
       "onboard_time": 1709200290,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1284738,
-      "num": 1284738,
-      "word": "男孩一天喝9升水被查出肿瘤",
-      "onboard_time": 1709297193,
-      "rank": 1,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1277471,
@@ -3091,6 +3091,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 642056,
+      "num": 464195,
+      "word": "修杰楷回应梧桐妹迷恋穿环",
+      "onboard_time": 1709297971,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 641661,
       "num": 641661,
       "word": "挖呀挖黄老师直播",
@@ -3643,14 +3651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 576152,
-      "num": 464195,
-      "word": "修杰楷回应梧桐妹迷恋穿环",
-      "onboard_time": 1709297971,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 574706,
       "num": 574706,
       "word": "迪丽热巴暗黑魔女",
@@ -4075,6 +4075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 525829,
+      "num": 445628,
+      "word": "IU看亲弟弟的眼神",
+      "onboard_time": 1709298874,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 524956,
       "num": 524956,
       "word": "妈妈出家了",
@@ -4195,6 +4203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 512352,
+      "num": 320142,
+      "word": "以为很卫生其实很脏的行为",
+      "onboard_time": 1709295093,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 508655,
       "num": 508655,
       "word": "腿姐 明天的你已经在录取名单里了",
@@ -4297,6 +4313,14 @@
       "onboard_time": 1709105314,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 498682,
+      "num": 498682,
+      "word": "林心如方否认参加浪姐",
+      "onboard_time": 1709298631,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 498659,
@@ -4531,14 +4555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 483776,
-      "num": 320142,
-      "word": "以为很卫生其实很脏的行为",
-      "onboard_time": 1709295093,
-      "rank": 20,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 483266,
       "num": 483266,
       "word": "花少团真去秦岚家了吗",
@@ -4681,6 +4697,14 @@
       "onboard_time": 1709040153,
       "rank": 22,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 469139,
+      "num": 293529,
+      "word": "建议不要等到睡前才刷牙",
+      "onboard_time": 1709295272,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 468486,
@@ -4955,14 +4979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 444146,
-      "num": 293529,
-      "word": "建议不要等到睡前才刷牙",
-      "onboard_time": 1709295272,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 442339,
       "num": 342055,
       "word": "雷军",
@@ -5041,6 +5057,14 @@
       "onboard_time": 1709036494,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 438719,
+      "num": 438719,
+      "word": "章若楠的假发有四斤多重",
+      "onboard_time": 1709294375,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 438072,
@@ -5651,6 +5675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387012,
+      "num": 387012,
+      "word": "上财校长称很多大学拿理工科的钱搞文科",
+      "onboard_time": 1709294912,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 386379,
       "num": 386379,
       "word": "詹姆斯离4万分越来越近",
@@ -5889,14 +5921,6 @@
       "onboard_time": 1708920338,
       "rank": 21,
       "category": "教育"
-    },
-    {
-      "raw_hot": 369478,
-      "num": 369478,
-      "word": "章若楠的假发有四斤多重",
-      "onboard_time": 1709294375,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 367881,
@@ -6419,19 +6443,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 334522,
-      "num": 334522,
-      "word": "IU看亲弟弟的眼神",
-      "onboard_time": 1709298874,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 333880,
       "num": 333880,
       "word": "张雨绮四年还没找到排队的人",
       "onboard_time": 1709212836,
       "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 333492,
+      "num": 333492,
+      "word": "杨幂工作室的审美",
+      "onboard_time": 1709299475,
+      "rank": 17,
       "category": "作品衍生"
     },
     {
@@ -6595,14 +6619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 322257,
-      "num": 322257,
-      "word": "上财校长称很多大学拿理工科的钱搞文科",
-      "onboard_time": 1709294912,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 322147,
       "num": 322147,
       "word": "Tian芮尔五杀",
@@ -6660,7 +6676,7 @@
     },
     {
       "raw_hot": 320331,
-      "num": 260707,
+      "num": 282283,
       "word": "坐高铁被塞了20块钱小费",
       "onboard_time": 1709297251,
       "rank": 22,
@@ -6779,20 +6795,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 314822,
+      "num": 314822,
+      "word": "中国官网最低3499元就能买iPhone",
+      "onboard_time": 1709295272,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 314748,
       "num": 314748,
       "word": "一下子没有年龄焦虑了",
       "onboard_time": 1709043576,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 314345,
-      "num": 314345,
-      "word": "林心如方否认参加浪姐",
-      "onboard_time": 1709298631,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 314032,
@@ -7907,14 +7923,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 266966,
-      "num": 266966,
-      "word": "中国官网最低3499元就能买iPhone",
-      "onboard_time": 1709295272,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 266331,
       "num": 266331,
       "word": "阿里云全线降价20%",
@@ -8835,6 +8843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235491,
+      "num": 235491,
+      "word": "倒春寒真的要来了",
+      "onboard_time": 1709298514,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234661,
       "num": 234661,
       "word": "胡先煦一句话激怒一群人",
@@ -9187,6 +9203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225696,
+      "num": 197453,
+      "word": "奶奶不懂抑郁却懂得如何爱你",
+      "onboard_time": 1709299412,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224764,
       "num": 224764,
       "word": "齐思钧看超话",
@@ -9369,6 +9393,14 @@
       "onboard_time": 1709270672,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220530,
+      "num": 220530,
+      "word": "豆瓣崩了",
+      "onboard_time": 1709162185,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 220428,
@@ -10057,14 +10089,6 @@
       "onboard_time": 1708873358,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 206015,
-      "num": 206015,
-      "word": "豆瓣崩了",
-      "onboard_time": 1709162185,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 205684,
@@ -12044,7 +12068,7 @@
     },
     {
       "raw_hot": 177149,
-      "num": 177149,
+      "num": 200459,
       "word": "头发梳对了有助于改善发量",
       "onboard_time": 1709004452,
       "rank": 40,
@@ -12819,14 +12843,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 165409,
-      "num": 159536,
-      "word": "倒春寒真的要来了",
-      "onboard_time": 1709298514,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165246,
       "num": 165246,
       "word": "杨幂发现Cat是卧底",
@@ -13273,6 +13289,14 @@
       "onboard_time": 1709263170,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158398,
+      "num": 158398,
+      "word": "教育部将增加专硕招生规模",
+      "onboard_time": 1709299652,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 158321,
@@ -13867,6 +13891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148798,
+      "num": 148798,
+      "word": "杨幂巴黎撑伞",
+      "onboard_time": 1709299232,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148626,
       "num": 148626,
       "word": "Netflix要求用户绕过苹果付款",
@@ -13921,6 +13953,14 @@
       "onboard_time": 1709281050,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 147852,
+      "num": 147852,
+      "word": "松子狂炫中国火锅",
+      "onboard_time": 1709299953,
+      "rank": 41,
+      "category": "美食,综艺"
     },
     {
       "raw_hot": 147702,
@@ -15043,6 +15083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130908,
+      "num": 130908,
+      "word": "当你单身多年后突然谈了个恋爱",
+      "onboard_time": 1709299775,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130470,
       "num": 130470,
       "word": "网红杨老二已下葬",
@@ -15595,6 +15643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119172,
+      "num": 119172,
+      "word": "XYG泽泽转战决胜巅峰",
+      "onboard_time": 1709299053,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119055,
       "num": 119055,
       "word": "2023年国民总收入超125万亿元",
@@ -15915,14 +15971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111323,
-      "num": 111323,
-      "word": "XYG泽泽转战决胜巅峰",
-      "onboard_time": 1709299053,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 111158,
       "num": 111158,
       "word": "闵塔鲨赵露思友情",
@@ -15985,14 +16033,6 @@
       "onboard_time": 1709171852,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 110177,
-      "num": 110177,
-      "word": "杨幂巴黎撑伞",
-      "onboard_time": 1709299232,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 109158,
@@ -16779,6 +16819,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 50298,
+      "num": 1365312,
+      "word": "全国两会怎样影响我们的生活",
+      "onboard_time": 1709283513,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50045,
       "num": 375464,
       "word": "2024大溪地灰风潮",
@@ -16855,14 +16903,6 @@
       "num": 1170418,
       "word": "e法同行京津冀",
       "onboard_time": 1709097213,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41379,
-      "num": 1280910,
-      "word": "全国两会怎样影响我们的生活",
-      "onboard_time": 1709283513,
       "rank": 2,
       "category": "社会新闻"
     },

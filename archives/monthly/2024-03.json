@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709299280754,
+  "endTime": 1709300041034,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -67,6 +67,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1699639,
+      "num": 1699639,
+      "word": "男孩一天喝9升水被查出肿瘤",
+      "onboard_time": 1709297193,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1683101,
       "num": 1683101,
       "word": "建议取消强制自动续费",
@@ -121,14 +129,6 @@
       "onboard_time": 1709271392,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1284738,
-      "num": 1284738,
-      "word": "男孩一天喝9升水被查出肿瘤",
-      "onboard_time": 1709297193,
-      "rank": 1,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1236264,
@@ -379,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 642056,
+      "num": 464195,
+      "word": "修杰楷回应梧桐妹迷恋穿环",
+      "onboard_time": 1709297971,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 635945,
       "num": 635945,
       "word": "家长吐槽被学校要求下午到校值班",
@@ -433,14 +441,6 @@
       "onboard_time": 1709218178,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 576152,
-      "num": 464195,
-      "word": "修杰楷回应梧桐妹迷恋穿环",
-      "onboard_time": 1709297971,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 563871,
@@ -523,6 +523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 525829,
+      "num": 445628,
+      "word": "IU看亲弟弟的眼神",
+      "onboard_time": 1709298874,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 525671,
       "num": 525671,
       "word": "点读机女孩自称患罕见脑瘤",
@@ -563,6 +571,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 512352,
+      "num": 320142,
+      "word": "以为很卫生其实很脏的行为",
+      "onboard_time": 1709295093,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 498682,
+      "num": 498682,
+      "word": "林心如方否认参加浪姐",
+      "onboard_time": 1709298631,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 497662,
       "num": 474495,
       "word": "李莎旻子回应四年前脱单愿望",
@@ -587,14 +611,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 483776,
-      "num": 320142,
-      "word": "以为很卫生其实很脏的行为",
-      "onboard_time": 1709295093,
-      "rank": 20,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 482110,
       "num": 482110,
       "word": "郭麒麟胖了",
@@ -617,6 +633,14 @@
       "onboard_time": 1709200290,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 469139,
+      "num": 293529,
+      "word": "建议不要等到睡前才刷牙",
+      "onboard_time": 1709295272,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 465644,
@@ -675,14 +699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 444146,
-      "num": 293529,
-      "word": "建议不要等到睡前才刷牙",
-      "onboard_time": 1709295272,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 440223,
       "num": 440223,
       "word": "Boss直聘 打工人的加油站",
@@ -696,6 +712,14 @@
       "word": "韩娱文盲",
       "onboard_time": 1709249726,
       "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 438719,
+      "num": 438719,
+      "word": "章若楠的假发有四斤多重",
+      "onboard_time": 1709294375,
+      "rank": 21,
       "category": "作品衍生"
     },
     {
@@ -827,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387012,
+      "num": 387012,
+      "word": "上财校长称很多大学拿理工科的钱搞文科",
+      "onboard_time": 1709294912,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 380728,
       "num": 270111,
       "word": "研究生无宿舍可住花4200元租房",
@@ -865,14 +897,6 @@
       "onboard_time": 1709294128,
       "rank": 13,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 369478,
-      "num": 369478,
-      "word": "章若楠的假发有四斤多重",
-      "onboard_time": 1709294375,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 358392,
@@ -963,11 +987,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 334522,
-      "num": 334522,
-      "word": "IU看亲弟弟的眼神",
-      "onboard_time": 1709298874,
-      "rank": 15,
+      "raw_hot": 333492,
+      "num": 333492,
+      "word": "杨幂工作室的审美",
+      "onboard_time": 1709299475,
+      "rank": 17,
       "category": "作品衍生"
     },
     {
@@ -977,14 +1001,6 @@
       "onboard_time": 1709289455,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 322257,
-      "num": 322257,
-      "word": "上财校长称很多大学拿理工科的钱搞文科",
-      "onboard_time": 1709294912,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 321416,
@@ -1012,7 +1028,7 @@
     },
     {
       "raw_hot": 320331,
-      "num": 260707,
+      "num": 282283,
       "word": "坐高铁被塞了20块钱小费",
       "onboard_time": 1709297251,
       "rank": 22,
@@ -1035,20 +1051,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 314822,
+      "num": 314822,
+      "word": "中国官网最低3499元就能买iPhone",
+      "onboard_time": 1709295272,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 314572,
       "num": 314572,
       "word": "涵艺爆料Doinb停播原因",
       "onboard_time": 1709218657,
       "rank": 14,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 314345,
-      "num": 314345,
-      "word": "林心如方否认参加浪姐",
-      "onboard_time": 1709298631,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 312677,
@@ -1235,14 +1251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 266966,
-      "num": 266966,
-      "word": "中国官网最低3499元就能买iPhone",
-      "onboard_time": 1709295272,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 261201,
       "num": 261201,
       "word": "苗苗最新状态",
@@ -1323,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235491,
+      "num": 235491,
+      "word": "倒春寒真的要来了",
+      "onboard_time": 1709298514,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227153,
       "num": 220749,
       "word": "在卫生间感受到了职场的爱",
@@ -1339,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225696,
+      "num": 197453,
+      "word": "奶奶不懂抑郁却懂得如何爱你",
+      "onboard_time": 1709299412,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 223229,
       "num": 223229,
       "word": "马天宇为女教师殴打学生事件发声",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1709270672,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220530,
+      "num": 220530,
+      "word": "豆瓣崩了",
+      "onboard_time": 1709298931,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 216280,
@@ -1481,14 +1513,6 @@
       "onboard_time": 1709281653,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206015,
-      "num": 206015,
-      "word": "豆瓣崩了",
-      "onboard_time": 1709298931,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 205556,
@@ -1971,14 +1995,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165409,
-      "num": 159536,
-      "word": "倒春寒真的要来了",
-      "onboard_time": 1709298514,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164931,
       "num": 164931,
       "word": "卓沅 十个勤天卖菜啦",
@@ -2091,6 +2107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158398,
+      "num": 158398,
+      "word": "教育部将增加专硕招生规模",
+      "onboard_time": 1709299652,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 157437,
       "num": 240190,
       "word": "理想汽车春季发布会",
@@ -2195,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148798,
+      "num": 148798,
+      "word": "杨幂巴黎撑伞",
+      "onboard_time": 1709299232,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148011,
       "num": 148011,
       "word": "如何找到最适合自己的发型",
@@ -2209,6 +2241,14 @@
       "onboard_time": 1709281050,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 147852,
+      "num": 147852,
+      "word": "松子狂炫中国火锅",
+      "onboard_time": 1709299953,
+      "rank": 41,
+      "category": "美食,综艺"
     },
     {
       "raw_hot": 145701,
@@ -2395,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130908,
+      "num": 130908,
+      "word": "当你单身多年后突然谈了个恋爱",
+      "onboard_time": 1709299775,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129806,
       "num": 129806,
       "word": "王俊凯献唱云端之上",
@@ -2555,6 +2603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119172,
+      "num": 119172,
+      "word": "XYG泽泽转战决胜巅峰",
+      "onboard_time": 1709299053,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118304,
       "num": 282304,
       "word": "王者荣耀最佳天菜舞蹈挑战",
@@ -2635,28 +2691,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111323,
-      "num": 111323,
-      "word": "XYG泽泽转战决胜巅峰",
-      "onboard_time": 1709299053,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 111131,
       "num": 111131,
       "word": "刘亦菲纪念金庸诞辰100周年",
       "onboard_time": 1709285732,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110177,
-      "num": 110177,
-      "word": "杨幂巴黎撑伞",
-      "onboard_time": 1709299232,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 108425,
@@ -2713,6 +2753,14 @@
       "onboard_time": 1709217815,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99813,
+      "num": 200459,
+      "word": "头发梳对了有助于改善发量",
+      "onboard_time": 1709299352,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 98552,
@@ -2923,20 +2971,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 50298,
+      "num": 1365312,
+      "word": "全国两会怎样影响我们的生活",
+      "onboard_time": 1709283513,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42701,
       "num": 324948,
       "word": "TVB港星保姆车揭秘",
       "onboard_time": 1709276432,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 41379,
-      "num": 1280910,
-      "word": "全国两会怎样影响我们的生活",
-      "onboard_time": 1709283513,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39893,
