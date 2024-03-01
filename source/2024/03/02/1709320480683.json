@@ -1,0 +1,410 @@
+{
+  "runTime": 1709320480683,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 184740,
+        "num": 184740,
+        "word": "知情人士称小团团疑涉案金额太大",
+        "onboard_time": 1709286272,
+        "rank": 0,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 154354,
+        "num": 154354,
+        "word": "蔡英文办公室一卫兵中枪",
+        "onboard_time": 1709307210,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6349,
+        "num": 126598,
+        "word": "聚焦2024年全国两会",
+        "onboard_time": 1709305832,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113120,
+        "num": 113120,
+        "word": "家长称自家孩子不上早课睡到自然醒",
+        "onboard_time": 1709304036,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105009,
+        "num": 105009,
+        "word": "姚安娜回应演技争议",
+        "onboard_time": 1709305231,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93263,
+        "num": 93263,
+        "word": "彩票店回应女生花4元中500万",
+        "onboard_time": 1709302713,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84103,
+        "num": 84103,
+        "word": "终于知道娃哈哈为啥用纸箱包装了",
+        "onboard_time": 1709292990,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 80264,
+        "num": 80264,
+        "word": "小英穿搭",
+        "onboard_time": 1709311528,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 62818,
+        "num": 62818,
+        "word": "车厘子榴莲山竹都便宜了",
+        "onboard_time": 1709300854,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99220,
+        "num": 62047,
+        "word": "猎冰导演称富二代标签掩盖了姚安娜的努力",
+        "onboard_time": 1709316020,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73094,
+        "num": 61219,
+        "word": "前女团成员称做女工并不羞耻",
+        "onboard_time": 1709318118,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67592,
+        "num": 61086,
+        "word": "中国官网最低3499元就能买iPhone",
+        "onboard_time": 1709295272,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 60004,
+        "num": 60004,
+        "word": "杨幂张小斐袁姗姗是一个宿舍的",
+        "onboard_time": 1709288254,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51180,
+        "num": 51180,
+        "word": "德州市民回应自发献血",
+        "onboard_time": 1709293953,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42311,
+        "num": 42311,
+        "word": "周也否认恶女",
+        "onboard_time": 1709310209,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42109,
+        "num": 42109,
+        "word": "修杰楷回应梧桐妹迷恋穿环",
+        "onboard_time": 1709297971,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40294,
+        "num": 40294,
+        "word": "阮经天好帅",
+        "onboard_time": 1709294194,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39657,
+        "num": 39657,
+        "word": "原神 混池",
+        "onboard_time": 1709295813,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 30681,
+        "num": 30681,
+        "word": "毛不易比十个勤天还愁",
+        "onboard_time": 1709311945,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30498,
+        "num": 30498,
+        "word": "青海洪水",
+        "onboard_time": 1709306733,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12783,
+        "num": 30256,
+        "word": "一组数据看青山定不负人",
+        "onboard_time": 1709306071,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53233,
+        "num": 29935,
+        "word": "以为很卫生其实很脏的行为",
+        "onboard_time": 1709295093,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 42451,
+        "num": 29710,
+        "word": "男孩一天喝9升水被查出肿瘤",
+        "onboard_time": 1709297193,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31866,
+        "num": 29235,
+        "word": "广东人再冷也要每天洗澡",
+        "onboard_time": 1709312604,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31517,
+        "num": 28899,
+        "word": "建议不要等到睡前才刷牙",
+        "onboard_time": 1709295272,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28614,
+        "num": 28614,
+        "word": "IU看亲弟弟的眼神",
+        "onboard_time": 1709298874,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28461,
+        "num": 28461,
+        "word": "当你单身多年后突然谈了个恋爱",
+        "onboard_time": 1709299775,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28217,
+        "num": 28217,
+        "word": "娜扎露腰上衣",
+        "onboard_time": 1709304635,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27975,
+        "num": 27975,
+        "word": "坐高铁被塞了20块钱小费",
+        "onboard_time": 1709297251,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26996,
+        "num": 26996,
+        "word": "F1",
+        "onboard_time": 1709312486,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 47855,
+        "num": 25744,
+        "word": "詹青云 我穿高跟鞋无法辩论",
+        "onboard_time": 1709316800,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23707,
+        "num": 23707,
+        "word": "倒春寒真的要来了",
+        "onboard_time": 1709298514,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23061,
+        "num": 23061,
+        "word": "虞书欣牛奶肌",
+        "onboard_time": 1709316559,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22404,
+        "num": 22404,
+        "word": "大学生花4块钱中了500万",
+        "onboard_time": 1709286572,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21443,
+        "num": 21443,
+        "word": "郑恺你管这叫随便吃点",
+        "onboard_time": 1709307154,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20870,
+        "num": 20870,
+        "word": "章若楠的假发有四斤多重",
+        "onboard_time": 1709294375,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20492,
+        "num": 20492,
+        "word": "结婚是为了幸福离婚也是",
+        "onboard_time": 1709300912,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20364,
+        "num": 20364,
+        "word": "张翰工作室起诉昕影影业",
+        "onboard_time": 1709320336,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20243,
+        "num": 20243,
+        "word": "杨幂看秀座位",
+        "onboard_time": 1709301632,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19712,
+        "num": 19712,
+        "word": "周处除三害好猛",
+        "onboard_time": 1709309671,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19455,
+        "num": 19455,
+        "word": "松子狂炫中国火锅",
+        "onboard_time": 1709299953,
+        "rank": 40,
+        "category": "美食,综艺"
+      },
+      {
+        "raw_hot": 18652,
+        "num": 19450,
+        "word": "肖战米兰vlog",
+        "onboard_time": 1709304394,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17888,
+        "num": 19441,
+        "word": "教育部将增加专硕招生规模",
+        "onboard_time": 1709299652,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17254,
+        "num": 19436,
+        "word": "希望你结婚的唯一原因是你想",
+        "onboard_time": 1709304513,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16682,
+        "num": 19429,
+        "word": "别对我动心 crush文学",
+        "onboard_time": 1709309130,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15806,
+        "num": 19422,
+        "word": "慢冷式恋爱",
+        "onboard_time": 1709320219,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15579,
+        "num": 19414,
+        "word": "张真源的晚安小屋",
+        "onboard_time": 1709318718,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15501,
+        "num": 19407,
+        "word": "石凯摸猎人腹肌",
+        "onboard_time": 1709313624,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15169,
+        "num": 19401,
+        "word": "上班搭子离职了比分手还难受",
+        "onboard_time": 1709304394,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14522,
+        "num": 19389,
+        "word": "刘诗诗窦骁首次合作",
+        "onboard_time": 1709311766,
+        "rank": 49,
+        "category": "剧集,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力推动我国新能源高质量发展#"
+    }
+  }
+}
