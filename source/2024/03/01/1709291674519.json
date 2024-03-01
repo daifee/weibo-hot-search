@@ -1,0 +1,410 @@
+{
+  "runTime": 1709291674519,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4468143,
+        "num": 4468143,
+        "word": "山东一轿车撞伤10余名儿童",
+        "onboard_time": 1709288612,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1455264,
+        "num": 1455264,
+        "word": "大学生花4块钱中了500万",
+        "onboard_time": 1709286572,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125976,
+        "num": 1251187,
+        "word": "横琴全岛正式封关运行",
+        "onboard_time": 1709283753,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064108,
+        "num": 1064108,
+        "word": "杨幂张小斐袁姗姗是一个宿舍的",
+        "onboard_time": 1709288254,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521173,
+        "num": 521173,
+        "word": "孙千裤子",
+        "onboard_time": 1709288133,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433810,
+        "num": 433810,
+        "word": "Boss直聘 打工人的加油站",
+        "onboard_time": 1709286451,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432995,
+        "num": 432995,
+        "word": "赵丽颖出道前的工作",
+        "onboard_time": 1709285072,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408976,
+        "num": 408976,
+        "word": "红楼梦 抢票",
+        "onboard_time": 1709285852,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 66627,
+        "num": 383805,
+        "word": "中国空间站与新华社新闻大楼同框",
+        "onboard_time": 1709286634,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145627,
+        "num": 373411,
+        "word": "本浙江人告诉你这些都是真的",
+        "onboard_time": 1709286691,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371658,
+        "num": 371658,
+        "word": "知情人士称小团团疑涉案金额太大",
+        "onboard_time": 1709286272,
+        "rank": 10,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 343212,
+        "num": 343212,
+        "word": "前女团成员解散后在工厂做女工",
+        "onboard_time": 1709275413,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341149,
+        "num": 341149,
+        "word": "张雪峰建议英语口语占120分",
+        "onboard_time": 1709289632,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 337400,
+        "num": 337400,
+        "word": "爱情公寓里的胡歌",
+        "onboard_time": 1709282791,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321335,
+        "num": 321335,
+        "word": "TES时隔736天重回S组",
+        "onboard_time": 1709289573,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 308994,
+        "num": 308994,
+        "word": "建议取消强制自动续费",
+        "onboard_time": 1709280390,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 280768,
+        "num": 280768,
+        "word": "田柾国 炊事兵",
+        "onboard_time": 1709283033,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240041,
+        "num": 240041,
+        "word": "评论区比考公还激烈",
+        "onboard_time": 1709286750,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239682,
+        "num": 239682,
+        "word": "娃哈哈官方店铺销量2天涨超500%",
+        "onboard_time": 1709287770,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 233414,
+        "num": 233414,
+        "word": "市民排队为德州受伤学生献血",
+        "onboard_time": 1709291253,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347870,
+        "num": 226145,
+        "word": "疯狂星期五",
+        "onboard_time": 1709290295,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328294,
+        "num": 220056,
+        "word": "面试的领导认识我爸",
+        "onboard_time": 1709289455,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212685,
+        "num": 212685,
+        "word": "守护甜心 几斗太甜了",
+        "onboard_time": 1709285671,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 210485,
+        "num": 210485,
+        "word": "向佐第一次吃冻梨",
+        "onboard_time": 1709291312,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210417,
+        "num": 210417,
+        "word": "春天是精神病的高发时期",
+        "onboard_time": 1709274573,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206998,
+        "num": 206998,
+        "word": "利率10%银行存款产品火爆",
+        "onboard_time": 1709282973,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203378,
+        "num": 203378,
+        "word": "年轻人熬夜排行榜",
+        "onboard_time": 1709290473,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195652,
+        "num": 195652,
+        "word": "双休6千单休8千",
+        "onboard_time": 1709272713,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188012,
+        "num": 188012,
+        "word": "同事跟我买了一模一样的衣服",
+        "onboard_time": 1709283992,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186982,
+        "num": 186982,
+        "word": "杨幂同款新中式侧马尾",
+        "onboard_time": 1709285254,
+        "rank": 29,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 176331,
+        "num": 176331,
+        "word": "小团团已停播34天",
+        "onboard_time": 1709273553,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 175544,
+        "num": 175544,
+        "word": "德州车祸致2死6重伤",
+        "onboard_time": 1709291435,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170456,
+        "num": 170456,
+        "word": "五条悟爆改JYP",
+        "onboard_time": 1709283033,
+        "rank": 32,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 165366,
+        "num": 165366,
+        "word": "天秤座的爱是坚定的",
+        "onboard_time": 1709290473,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164344,
+        "num": 164344,
+        "word": "中超",
+        "onboard_time": 1709290836,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164263,
+        "num": 164263,
+        "word": "我是为了救我哥哥才出生的",
+        "onboard_time": 1709275352,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151118,
+        "num": 151118,
+        "word": "妈妈永远都不会离开我们的证明",
+        "onboard_time": 1709286572,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150861,
+        "num": 150861,
+        "word": "微信删除后加回来对方知道吗",
+        "onboard_time": 1709257051,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145701,
+        "num": 145701,
+        "word": "497名在缅跨境电诈嫌犯移交我方",
+        "onboard_time": 1709290836,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139865,
+        "num": 139865,
+        "word": "周迅渐变金色短发",
+        "onboard_time": 1709288434,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123923,
+        "num": 123923,
+        "word": "斗鱼曾经的头部主播都去哪了",
+        "onboard_time": 1709278590,
+        "rank": 40,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 123842,
+        "num": 123842,
+        "word": "HYBE5到6代男团安可live现场",
+        "onboard_time": 1709291073,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118616,
+        "num": 118616,
+        "word": "退税",
+        "onboard_time": 1709249065,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117884,
+        "num": 117884,
+        "word": "孩子为免费领蛋仔派对皮肤家长被骗7.8万元",
+        "onboard_time": 1709283875,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116111,
+        "num": 116111,
+        "word": "章若楠cos大乔",
+        "onboard_time": 1709291491,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111992,
+        "num": 111992,
+        "word": "娃哈哈建议理性消费",
+        "onboard_time": 1709287172,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111122,
+        "num": 111122,
+        "word": "33岁白发妈妈亲吻去世宝宝墓碑",
+        "onboard_time": 1709274750,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110494,
+        "num": 110494,
+        "word": "TES对战iG",
+        "onboard_time": 1709291611,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110004,
+        "num": 110004,
+        "word": "猎冰",
+        "onboard_time": 1709290173,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109525,
+        "num": 109525,
+        "word": "阿姨 下次不要发截图了",
+        "onboard_time": 1709291435,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力推动我国新能源高质量发展#"
+    }
+  }
+}
