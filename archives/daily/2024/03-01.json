@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709256996018,
+  "endTime": 1709260006753,
   "band_list": [
     {
       "raw_hot": 2786251,
@@ -8,6 +8,14 @@
       "word": "退税",
       "onboard_time": 1709249065,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1679483,
+      "num": 1679483,
+      "word": "女子回应怀孕8个月考研获专业第一",
+      "onboard_time": 1709257411,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -51,6 +59,22 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 703275,
+      "num": 276921,
+      "word": "微信删除后加回来对方知道吗",
+      "onboard_time": 1709257051,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 699432,
+      "num": 358233,
+      "word": "凌晨蹲点退税退到了3万多",
+      "onboard_time": 1709256869,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 694364,
       "num": 694364,
       "word": "花少团真的去了秦岚家",
@@ -89,6 +113,14 @@
       "onboard_time": 1709218178,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 563871,
+      "num": 563871,
+      "word": "中泰免签正式生效",
+      "onboard_time": 1709256511,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 534875,
@@ -147,6 +179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 465644,
+      "num": 465644,
+      "word": "老人救人被撞成植物人申见义勇为被驳回",
+      "onboard_time": 1709254056,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453073,
       "num": 215482,
       "word": "教育局回应50岁班主任和学生谈恋爱",
@@ -179,12 +219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428239,
+      "num": 428239,
+      "word": "Kpop县",
+      "onboard_time": 1709255192,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 409825,
       "num": 409825,
       "word": "曹璐回应落选浪姐",
       "onboard_time": 1709215296,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401526,
+      "num": 272790,
+      "word": "建议大家不要成天说想死",
+      "onboard_time": 1709256211,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 380728,
@@ -200,14 +256,6 @@
       "word": "陈靖可曾因外貌遭校园暴力",
       "onboard_time": 1709222071,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 374345,
-      "num": 374345,
-      "word": "Kpop县",
-      "onboard_time": 1709255192,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -251,8 +299,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 337512,
-      "num": 337512,
+      "raw_hot": 338882,
+      "num": 338882,
       "word": "英伟达市值一夜涨超2600亿元",
       "onboard_time": 1709255491,
       "rank": 30,
@@ -264,6 +312,14 @@
       "word": "王力宏点赞十几年前和宗庆后合照微博",
       "onboard_time": 1709206592,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 325958,
+      "num": 325958,
+      "word": "陈浚铭晒TFBOYS签名照",
+      "onboard_time": 1709258429,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -281,6 +337,22 @@
       "onboard_time": 1709218657,
       "rank": 14,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 312677,
+      "num": 259459,
+      "word": "有一种晕叫耳石症",
+      "onboard_time": 1709256751,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 300856,
+      "num": 300856,
+      "word": "你一手拿着苹果",
+      "onboard_time": 1709255670,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 298929,
@@ -307,6 +379,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 297422,
+      "num": 297422,
+      "word": "杨紫小夭入选年度人气角色",
+      "onboard_time": 1709254174,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293229,
       "num": 293229,
       "word": "张佳宁王凯合照",
@@ -315,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 275017,
-      "num": 275017,
-      "word": "杨紫小夭入选年度人气角色",
-      "onboard_time": 1709254174,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 277213,
+      "num": 277213,
+      "word": "反诈老陈回应济宁消防喊话",
+      "onboard_time": 1709259211,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261201,
@@ -339,28 +419,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 234742,
-      "num": 234742,
-      "word": "老人救人被撞成植物人申见义勇为被驳回",
-      "onboard_time": 1709254056,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231608,
-      "num": 231608,
-      "word": "你一手拿着苹果",
-      "onboard_time": 1709255670,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 223229,
       "num": 223229,
       "word": "马天宇为女教师殴打学生事件发声",
       "onboard_time": 1709199691,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216799,
+      "num": 216799,
+      "word": "斗鱼持股公司曾申请一条小团团商标",
+      "onboard_time": 1709258674,
+      "rank": 23,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 214436,
@@ -371,12 +443,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213520,
+      "num": 213520,
+      "word": "人民网评面包店浪费现象",
+      "onboard_time": 1709258011,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212315,
       "num": 212315,
       "word": "赵露思女友感",
       "onboard_time": 1709224946,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208580,
+      "num": 208580,
+      "word": "种地吧直播",
+      "onboard_time": 1709259452,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 207441,
@@ -403,12 +491,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 205162,
+      "num": 205162,
+      "word": "成龙金泰亨合作",
+      "onboard_time": 1709259991,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202630,
       "num": 202630,
       "word": "钟楚曦巴黎时装周造型",
       "onboard_time": 1709254595,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197904,
+      "num": 197904,
+      "word": "今春被00后追捧的格林系是什么",
+      "onboard_time": 1709258852,
+      "rank": 28,
+      "category": "时尚"
     },
     {
       "raw_hot": 195117,
@@ -451,20 +555,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179398,
+      "num": 179398,
+      "word": "这届年轻人开始野性消费健身用品",
+      "onboard_time": 1709257772,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 174892,
       "num": 174892,
       "word": "出现这些症状可能是脑瘤前兆",
       "onboard_time": 1709253991,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 174617,
-      "num": 174617,
-      "word": "中泰免签正式生效",
-      "onboard_time": 1709256511,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 174164,
@@ -507,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162026,
+      "num": 162026,
+      "word": "蒲熠星手机壁纸是自己的小说",
+      "onboard_time": 1709258909,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160560,
       "num": 160560,
       "word": "为啥穿汉服的大多是女生",
@@ -515,12 +627,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152767,
-      "num": 152767,
-      "word": "有一种晕叫耳石症",
-      "onboard_time": 1709256751,
+      "raw_hot": 159230,
+      "num": 159230,
+      "word": "HAHA想要的爱豆公开恋爱的方式",
+      "onboard_time": 1709259632,
       "rank": 35,
-      "category": "健康医疗"
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 158754,
+      "num": 158754,
+      "word": "网易去年游戏业务净收入816亿",
+      "onboard_time": 1709258609,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 154375,
+      "num": 154375,
+      "word": "山东消防向反诈老陈抛橄榄枝",
+      "onboard_time": 1709257350,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149646,
@@ -539,12 +667,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 144842,
-      "num": 144842,
-      "word": "凌晨蹲点退税退到了3万多",
-      "onboard_time": 1709256869,
+      "raw_hot": 143067,
+      "num": 143067,
+      "word": "熬夜也要看完的纪录片",
+      "onboard_time": 1709258071,
       "rank": 40,
-      "category": "社会新闻"
+      "category": "科学科普"
     },
     {
       "raw_hot": 142802,
@@ -587,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134138,
+      "num": 134138,
+      "word": "蔡磊身体情况持续下滑",
+      "onboard_time": 1709259812,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132871,
       "num": 132871,
       "word": "韩国人吃玉米芯",
@@ -595,12 +731,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 131131,
-      "num": 131131,
-      "word": "建议大家不要成天说想死",
-      "onboard_time": 1709256211,
-      "rank": 46,
-      "category": "情感"
+      "raw_hot": 131973,
+      "num": 131973,
+      "word": "西村力 韩国三一节",
+      "onboard_time": 1709259750,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 129806,
@@ -635,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126835,
+      "num": 192967,
+      "word": "短腿小象跨树干有多萌",
+      "onboard_time": 1709259393,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125885,
       "num": 125885,
       "word": "南波万好吵",
@@ -665,6 +809,14 @@
       "onboard_time": 1709214578,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119073,
+      "num": 119073,
+      "word": "原来挑食是大脑在保护你",
+      "onboard_time": 1709259991,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 112918,
@@ -915,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19262,
+      "num": 1007309,
+      "word": "微观两会",
+      "onboard_time": 1709194052,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18521,
       "num": 18521,
       "word": "孙千回应麦姬判官",
@@ -945,14 +1105,6 @@
       "onboard_time": 1709232558,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 14614,
-      "num": 993470,
-      "word": "微观两会",
-      "onboard_time": 1709194052,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13146,
