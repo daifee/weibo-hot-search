@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709284764524,
+  "endTime": 1709285643983,
   "band_list": [
     {
       "raw_hot": 2786251,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 709201,
+      "num": 699795,
+      "word": "农夫山泉 娃哈哈",
+      "onboard_time": 1709280870,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 699432,
       "num": 547974,
       "word": "凌晨蹲点退税退到了3万多",
@@ -267,20 +275,20 @@
       "category": "财经,科学科普"
     },
     {
+      "raw_hot": 657914,
+      "num": 657914,
+      "word": "利率10%银行存款产品火爆",
+      "onboard_time": 1709282973,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 657102,
       "num": 657102,
       "word": "易烊千玺帽子",
       "onboard_time": 1709266957,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 641198,
-      "num": 641198,
-      "word": "农夫山泉 娃哈哈",
-      "onboard_time": 1709280870,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 635945,
@@ -305,14 +313,6 @@
       "onboard_time": 1709268816,
       "rank": 16,
       "category": "美食"
-    },
-    {
-      "raw_hot": 604983,
-      "num": 449445,
-      "word": "利率10%银行存款产品火爆",
-      "onboard_time": 1709282973,
-      "rank": 10,
-      "category": "财经"
     },
     {
       "raw_hot": 598304,
@@ -393,6 +393,14 @@
       "onboard_time": 1709220872,
       "rank": 10,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 530860,
+      "num": 530860,
+      "word": "关于北部湾北部领海基线的声明",
+      "onboard_time": 1709283875,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 525671,
@@ -539,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431234,
+      "num": 431234,
+      "word": "张钧甯玉米龅牙",
+      "onboard_time": 1709284232,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 428239,
       "num": 428239,
       "word": "Kpop县",
@@ -649,14 +665,6 @@
       "onboard_time": 1709222071,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 365823,
-      "num": 365823,
-      "word": "关于北部湾北部领海基线的声明",
-      "onboard_time": 1709283875,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 358392,
@@ -819,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295587,
+      "num": 256423,
+      "word": "同事跟我买了一模一样的衣服",
+      "onboard_time": 1709283992,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 295561,
       "num": 295561,
       "word": "中共中央政治局集体学习",
@@ -873,6 +889,14 @@
       "onboard_time": 1709280810,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 275395,
+      "num": 803618,
+      "word": "横琴全岛正式封关运行",
+      "onboard_time": 1709283753,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272317,
@@ -931,14 +955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 256423,
-      "num": 256423,
-      "word": "同事跟我买了一模一样的衣服",
-      "onboard_time": 1709283992,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 255931,
       "num": 208766,
       "word": "周星驰将为新片女足海选素人",
@@ -971,14 +987,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 236075,
-      "num": 236075,
-      "word": "张钧甯玉米龅牙",
-      "onboard_time": 1709284232,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 235661,
       "num": 235661,
       "word": "高君雨",
@@ -993,6 +1001,14 @@
       "onboard_time": 1709276673,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226359,
+      "num": 226359,
+      "word": "孩子为免费领蛋仔派对皮肤家长被骗7.8万元",
+      "onboard_time": 1709283875,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223229,
@@ -1067,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208619,
+      "num": 208619,
+      "word": "赵丽颖出道前的工作",
+      "onboard_time": 1709285072,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208580,
       "num": 208580,
       "word": "种地吧直播",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1709281653,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205556,
+      "num": 205556,
+      "word": "狼队锁定第二轮S组",
+      "onboard_time": 1709285014,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 205361,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1709254595,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200324,
+      "num": 200324,
+      "word": "今天起快递不可擅自放驿站",
+      "onboard_time": 1709284112,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199448,
@@ -1249,6 +1289,14 @@
       "onboard_time": 1709262211,
       "rank": 34,
       "category": "财经,科学科普"
+    },
+    {
+      "raw_hot": 182050,
+      "num": 182050,
+      "word": "飞驰人生 林臻东破碎感",
+      "onboard_time": 1709284414,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 181949,
@@ -1387,14 +1435,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 168881,
-      "num": 168881,
-      "word": "孩子为免费领蛋仔派对皮肤家长被骗7.8万元",
-      "onboard_time": 1709283875,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167893,
       "num": 167893,
       "word": "檀健次张婧仪玩你画我猜",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1709254474,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163327,
+      "num": 163327,
+      "word": "杨幂同款新中式侧马尾",
+      "onboard_time": 1709285254,
+      "rank": 35,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 162879,
@@ -1499,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158928,
+      "num": 158928,
+      "word": "kpop士兵突击",
+      "onboard_time": 1709284593,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158754,
       "num": 158754,
       "word": "网易去年游戏业务净收入816亿",
@@ -1553,22 +1609,6 @@
       "onboard_time": 1709263473,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152945,
-      "num": 152945,
-      "word": "今天起快递不可擅自放驿站",
-      "onboard_time": 1709284112,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152458,
-      "num": 152458,
-      "word": "飞驰人生 林臻东破碎感",
-      "onboard_time": 1709284414,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 152390,
@@ -1641,14 +1681,6 @@
       "onboard_time": 1709281050,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 146549,
-      "num": 803618,
-      "word": "横琴全岛正式封关运行",
-      "onboard_time": 1709283753,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144106,
@@ -1787,6 +1819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129690,
+      "num": 129690,
+      "word": "周迅 小精灵飞到人间",
+      "onboard_time": 1709285375,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 128873,
       "num": 128873,
       "word": "宋茜烟熏妆短发",
@@ -1867,14 +1907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120621,
-      "num": 120621,
-      "word": "kpop士兵突击",
-      "onboard_time": 1709284593,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120370,
       "num": 120370,
       "word": "3月做什么都能成功的人",
@@ -1921,6 +1953,14 @@
       "onboard_time": 1709277633,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115819,
+      "num": 115819,
+      "word": "问界2月蝉联新势力月销量冠军",
+      "onboard_time": 1709285431,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 115716,
@@ -2044,7 +2084,7 @@
     },
     {
       "raw_hot": 92883,
-      "num": 121230,
+      "num": 206711,
       "word": "24款理想L系列超有料",
       "onboard_time": 1709284531,
       "rank": 45,
@@ -2372,6 +2412,9 @@
     },
     {
       "word": "#中塞关系堪称中非团结合作的典范#"
+    },
+    {
+      "word": "#大力推动我国新能源高质量发展#"
     }
   ]
 }
