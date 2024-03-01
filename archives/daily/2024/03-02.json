@@ -1,6 +1,6 @@
 {
   "startTime": 1709310056019,
-  "endTime": 1709325252267,
+  "endTime": 1709327799021,
   "band_list": [
     {
       "raw_hot": 2650152,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 91741,
-      "num": 52503,
+      "num": 64330,
       "word": "张翰工作室起诉昕影影业",
       "onboard_time": 1709320336,
       "rank": 37,
@@ -523,6 +523,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34217,
+      "num": 34217,
+      "word": "酒店回应只能外国人穿拖鞋用餐",
+      "onboard_time": 1709324237,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33271,
+      "num": 24900,
+      "word": "蹭麻辣烫三个月流浪狗的变化",
+      "onboard_time": 1709323457,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 31347,
       "num": 31347,
       "word": "虞书欣牛奶肌",
@@ -539,12 +555,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 24900,
-      "num": 24900,
-      "word": "蹭麻辣烫三个月流浪狗的变化",
-      "onboard_time": 1709323457,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 18172,
+      "num": 18172,
+      "word": "高楼失火卧室和厕所哪个更安全",
+      "onboard_time": 1709325136,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 15579,
@@ -555,20 +571,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14801,
-      "num": 14801,
-      "word": "酒店回应只能外国人穿拖鞋用餐",
-      "onboard_time": 1709324237,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14516,
       "num": 14516,
       "word": "颖儿再演夏冬春",
       "onboard_time": 1709323036,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 10222,
+      "num": 12443,
+      "word": "造型指导解读赵丽颖第二十条妆造",
+      "onboard_time": 1709327475,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 10114,
