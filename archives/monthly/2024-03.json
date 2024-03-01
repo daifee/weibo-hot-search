@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709307254381,
+  "endTime": 1709310056019,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -91,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1570943,
+      "num": 1570943,
+      "word": "蔡英文办公室一卫兵中枪",
+      "onboard_time": 1709307210,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1546279,
       "num": 1546279,
       "word": "曾经很火但消失了的童年零食",
@@ -153,6 +161,14 @@
       "onboard_time": 1709261612,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1213704,
+      "num": 1213704,
+      "word": "蔡英文办公室中枪卫兵死亡",
+      "onboard_time": 1709309312,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1142438,
@@ -251,6 +267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 839884,
+      "num": 839884,
+      "word": "家长称自家孩子不上早课睡到自然醒",
+      "onboard_time": 1709304036,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 838603,
       "num": 838603,
       "word": "微信删除后加回来对方知道吗",
@@ -305,6 +329,14 @@
       "onboard_time": 1709204553,
       "rank": 3,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 727024,
+      "num": 727024,
+      "word": "青海洪水",
+      "onboard_time": 1709306733,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 726490,
@@ -475,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 593901,
-      "num": 593901,
-      "word": "家长称自家孩子不上早课睡到自然醒",
-      "onboard_time": 1709304036,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 587845,
       "num": 207181,
       "word": "今天不发朋友圈又得等四年",
@@ -553,6 +577,14 @@
       "onboard_time": 1709266055,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 534929,
+      "num": 534929,
+      "word": "百词斩崩了",
+      "onboard_time": 1709307210,
+      "rank": 26,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 534875,
@@ -1435,14 +1467,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 238953,
-      "num": 238953,
-      "word": "蔡英文办公室一卫兵中枪",
-      "onboard_time": 1709307210,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 238636,
       "num": 238636,
       "word": "斗鱼持股公司曾申请一条小团团商标",
@@ -1457,14 +1481,6 @@
       "onboard_time": 1709273131,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235374,
-      "num": 235374,
-      "word": "青海洪水",
-      "onboard_time": 1709306733,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227153,
@@ -1553,6 +1569,14 @@
       "onboard_time": 1709261251,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214874,
+      "num": 214874,
+      "word": "第二十条",
+      "onboard_time": 1709306791,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 214654,
@@ -1697,14 +1721,6 @@
       "onboard_time": 1709254595,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 201261,
-      "num": 201261,
-      "word": "百词斩崩了",
-      "onboard_time": 1709307210,
-      "rank": 26,
-      "category": "教育,互联网"
     },
     {
       "raw_hot": 200324,
@@ -2011,6 +2027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176692,
+      "num": 176692,
+      "word": "郑恺你管这叫随便吃点",
+      "onboard_time": 1709307154,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176266,
       "num": 176266,
       "word": "黑猫投诉上自动续费投诉超10万",
@@ -2283,14 +2307,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 157093,
-      "num": 157093,
-      "word": "郑恺你管这叫随便吃点",
-      "onboard_time": 1709307154,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156162,
       "num": 150214,
       "word": "返校的时候行李箱吐了",
@@ -2425,14 +2441,6 @@
       "onboard_time": 1709290836,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144270,
-      "num": 144270,
-      "word": "第二十条",
-      "onboard_time": 1709306791,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 144106,
@@ -2835,6 +2843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113855,
+      "num": 113855,
+      "word": "别对我动心 crush文学",
+      "onboard_time": 1709309130,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113362,
       "num": 113362,
       "word": "武藏发型奇怪的原因",
@@ -2899,6 +2915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 107033,
+      "num": 107033,
+      "word": "淡人",
+      "onboard_time": 1709308770,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105815,
       "num": 105815,
       "word": "化妆品一盘多用",
@@ -2921,6 +2945,14 @@
       "onboard_time": 1709237535,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104343,
+      "num": 104343,
+      "word": "陆时砚 惧内的男人最好命",
+      "onboard_time": 1709307571,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 103804,
@@ -2987,6 +3019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96677,
+      "num": 1093153,
+      "word": "一组数据看青山定不负人",
+      "onboard_time": 1709306071,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94484,
       "num": 102140,
       "word": "上海海港3比1武汉三镇",
@@ -3033,14 +3073,6 @@
       "onboard_time": 1709211814,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89632,
-      "num": 1010924,
-      "word": "一组数据看青山定不负人",
-      "onboard_time": 1709306071,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86986,
@@ -3097,6 +3129,14 @@
       "onboard_time": 1709247320,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67833,
+      "num": 89165,
+      "word": "周处除三害好猛",
+      "onboard_time": 1709309671,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 67652,
@@ -3169,6 +3209,14 @@
       "onboard_time": 1709241135,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 57604,
+      "num": 89121,
+      "word": "唐凯vs丹勒二番战",
+      "onboard_time": 1709308470,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 54331,

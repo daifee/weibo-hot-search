@@ -1,0 +1,411 @@
+{
+  "startTime": 1709310056019,
+  "endTime": 1709310056019,
+  "band_list": [
+    {
+      "raw_hot": 1570943,
+      "num": 1570943,
+      "word": "蔡英文办公室一卫兵中枪",
+      "onboard_time": 1709307210,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1213704,
+      "num": 1213704,
+      "word": "蔡英文办公室中枪卫兵死亡",
+      "onboard_time": 1709309312,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1016991,
+      "num": 1016991,
+      "word": "姚安娜回应演技争议",
+      "onboard_time": 1709305231,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 839884,
+      "num": 839884,
+      "word": "家长称自家孩子不上早课睡到自然醒",
+      "onboard_time": 1709304036,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 727793,
+      "num": 727793,
+      "word": "彩票店回应女生花4元中500万",
+      "onboard_time": 1709302713,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 727024,
+      "num": 727024,
+      "word": "青海洪水",
+      "onboard_time": 1709306733,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534929,
+      "num": 534929,
+      "word": "百词斩崩了",
+      "onboard_time": 1709307210,
+      "rank": 7,
+      "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 440512,
+      "num": 440512,
+      "word": "修杰楷回应梧桐妹迷恋穿环",
+      "onboard_time": 1709297971,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 391087,
+      "num": 391087,
+      "word": "车厘子榴莲山竹都便宜了",
+      "onboard_time": 1709300854,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 387207,
+      "num": 387207,
+      "word": "中国官网最低3499元就能买iPhone",
+      "onboard_time": 1709295272,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 380124,
+      "num": 188865,
+      "word": "以为很卫生其实很脏的行为",
+      "onboard_time": 1709295093,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 323406,
+      "num": 323406,
+      "word": "杨幂张小斐袁姗姗是一个宿舍的",
+      "onboard_time": 1709288254,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 307636,
+      "num": 307636,
+      "word": "娜扎露腰上衣",
+      "onboard_time": 1709304635,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 260950,
+      "num": 260950,
+      "word": "大学生花4块钱中了500万",
+      "onboard_time": 1709286572,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 226923,
+      "num": 226923,
+      "word": "松子狂炫中国火锅",
+      "onboard_time": 1709299953,
+      "rank": 14,
+      "category": "美食,综艺"
+    },
+    {
+      "raw_hot": 214874,
+      "num": 214874,
+      "word": "第二十条",
+      "onboard_time": 1709306791,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 212066,
+      "num": 184124,
+      "word": "建议不要等到睡前才刷牙",
+      "onboard_time": 1709295272,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 209918,
+      "num": 209918,
+      "word": "结婚是为了幸福离婚也是",
+      "onboard_time": 1709300912,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197293,
+      "num": 197293,
+      "word": "倒春寒真的要来了",
+      "onboard_time": 1709298514,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195392,
+      "num": 195392,
+      "word": "教育部将增加专硕招生规模",
+      "onboard_time": 1709299652,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 194692,
+      "num": 182600,
+      "word": "男孩一天喝9升水被查出肿瘤",
+      "onboard_time": 1709297193,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 189038,
+      "num": 189038,
+      "word": "上班搭子离职了比分手还难受",
+      "onboard_time": 1709304394,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 176692,
+      "num": 176692,
+      "word": "郑恺你管这叫随便吃点",
+      "onboard_time": 1709307154,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167397,
+      "num": 167397,
+      "word": "终于知道娃哈哈为啥用纸箱包装了",
+      "onboard_time": 1709292990,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 157979,
+      "num": 157979,
+      "word": "肖战米兰vlog",
+      "onboard_time": 1709304394,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 154994,
+      "num": 154994,
+      "word": "阮经天好帅",
+      "onboard_time": 1709294194,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 143561,
+      "num": 143561,
+      "word": "当你单身多年后突然谈了个恋爱",
+      "onboard_time": 1709299775,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 141239,
+      "num": 141239,
+      "word": "杨幂看秀座位",
+      "onboard_time": 1709301632,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 135477,
+      "num": 135477,
+      "word": "原神 混池",
+      "onboard_time": 1709295813,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 133054,
+      "num": 133054,
+      "word": "德州市民回应自发献血",
+      "onboard_time": 1709293953,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127812,
+      "num": 127812,
+      "word": "希望你结婚的唯一原因是你想",
+      "onboard_time": 1709304513,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 123619,
+      "num": 123619,
+      "word": "张小斐荡领吊带",
+      "onboard_time": 1709291854,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 118264,
+      "num": 118264,
+      "word": "章若楠的假发有四斤多重",
+      "onboard_time": 1709294375,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113855,
+      "num": 113855,
+      "word": "别对我动心 crush文学",
+      "onboard_time": 1709309130,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 109187,
+      "num": 109187,
+      "word": "知情人士称小团团疑涉案金额太大",
+      "onboard_time": 1709286272,
+      "rank": 35,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 107033,
+      "num": 107033,
+      "word": "淡人",
+      "onboard_time": 1709308770,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 104343,
+      "num": 104343,
+      "word": "陆时砚 惧内的男人最好命",
+      "onboard_time": 1709307571,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102318,
+      "num": 102318,
+      "word": "全员加速中",
+      "onboard_time": 1709295872,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99744,
+      "num": 99744,
+      "word": "IU看亲弟弟的眼神",
+      "onboard_time": 1709298874,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 96677,
+      "num": 1093153,
+      "word": "一组数据看青山定不负人",
+      "onboard_time": 1709306071,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93410,
+      "num": 93410,
+      "word": "外婆让我不要恋爱结婚",
+      "onboard_time": 1709304394,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 89231,
+      "num": 89231,
+      "word": "顾寻 活该追妻火葬场",
+      "onboard_time": 1709306913,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84751,
+      "num": 89231,
+      "word": "宋昕冉晒迪丽热巴to签",
+      "onboard_time": 1709294912,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 83312,
+      "num": 89212,
+      "word": "杨幂总裁出街",
+      "onboard_time": 1709293531,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 73087,
+      "num": 89194,
+      "word": "红楼梦 抢票",
+      "onboard_time": 1709285852,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 71660,
+      "num": 89140,
+      "word": "杨幂工作室的审美",
+      "onboard_time": 1709299475,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 71641,
+      "num": 89184,
+      "word": "赵丽颖出道前的工作",
+      "onboard_time": 1709285072,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 67833,
+      "num": 89165,
+      "word": "周处除三害好猛",
+      "onboard_time": 1709309671,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 60654,
+      "num": 89161,
+      "word": "奶奶不懂抑郁却懂得如何爱你",
+      "onboard_time": 1709299412,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 57604,
+      "num": 89121,
+      "word": "唐凯vs丹勒二番战",
+      "onboard_time": 1709308470,
+      "rank": 49,
+      "category": "体育"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#大力推动我国新能源高质量发展#"
+    }
+  ]
+}
