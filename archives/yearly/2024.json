@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1709249655873,
+  "endTime": 1709255812384,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1819,6 +1819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2669205,
+      "num": 2669205,
+      "word": "退税",
+      "onboard_time": 1709249065,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2662399,
       "num": 2146667,
       "word": "网红杨老二去世",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704291034,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2365521,
-      "num": 2365521,
-      "word": "日本第一男公关晒与梅西合影",
-      "onboard_time": 1707275071,
-      "rank": 12,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

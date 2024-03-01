@@ -1,7 +1,39 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709249655873,
+  "endTime": 1709255812384,
   "band_list": [
+    {
+      "raw_hot": 2669205,
+      "num": 2669205,
+      "word": "退税",
+      "onboard_time": 1709249065,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1364110,
+      "num": 1364110,
+      "word": "崔胜澈免除兵役",
+      "onboard_time": 1709251531,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 892599,
+      "num": 892599,
+      "word": "11届快女 最癫的选秀",
+      "onboard_time": 1709250689,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 822646,
+      "num": 822646,
+      "word": "iPhone在中国大幅打折",
+      "onboard_time": 1709252610,
+      "rank": 4,
+      "category": "数码"
+    },
     {
       "raw_hot": 773694,
       "num": 773694,
@@ -25,6 +57,30 @@
       "onboard_time": 1709215898,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 635945,
+      "num": 635945,
+      "word": "家长吐槽被学校要求下午到校值班",
+      "onboard_time": 1709248464,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 620226,
+      "num": 620226,
+      "word": "上班恶心穿搭引发年轻人共鸣",
+      "onboard_time": 1709230938,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 598304,
+      "num": 598304,
+      "word": "你需退税还是补税",
+      "onboard_time": 1709253272,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 587845,
@@ -59,6 +115,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 497662,
+      "num": 474495,
+      "word": "李莎旻子回应四年前脱单愿望",
+      "onboard_time": 1709249608,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 483968,
+      "num": 483968,
+      "word": "加沙领物资民众遭袭112死760伤",
+      "onboard_time": 1709251588,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 482110,
       "num": 482110,
       "word": "郭麒麟胖了",
@@ -75,20 +147,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 461909,
-      "num": 346957,
-      "word": "上班恶心穿搭引发年轻人共鸣",
-      "onboard_time": 1709230938,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 453073,
-      "num": 200159,
+      "num": 215482,
       "word": "教育局回应50岁班主任和学生谈恋爱",
       "onboard_time": 1709207014,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439616,
+      "num": 439616,
+      "word": "韩娱文盲",
+      "onboard_time": 1709249726,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 435121,
@@ -100,7 +172,7 @@
     },
     {
       "raw_hot": 432425,
-      "num": 214545,
+      "num": 391057,
       "word": "网红自导自演被砸鸡蛋",
       "onboard_time": 1709235916,
       "rank": 30,
@@ -113,6 +185,14 @@
       "onboard_time": 1709215296,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 380728,
+      "num": 263956,
+      "word": "研究生无宿舍可住花4200元租房",
+      "onboard_time": 1709251769,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377799,
@@ -171,6 +251,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 298929,
+      "num": 298929,
+      "word": "邵明明 我们都无可替代",
+      "onboard_time": 1709248824,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298525,
       "num": 298525,
       "word": "声入人心团综",
@@ -179,12 +267,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286590,
-      "num": 286590,
-      "word": "退税",
-      "onboard_time": 1709249065,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 298248,
+      "num": 258373,
+      "word": "打针时针芯里那块肉去哪了",
+      "onboard_time": 1709249305,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 277941,
+      "num": 255305,
+      "word": "为什么很多人谈恋爱不公开了",
+      "onboard_time": 1709255131,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 271213,
+      "num": 271213,
+      "word": "腿上出现红血丝或是疾病信号",
+      "onboard_time": 1709250085,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 265938,
+      "num": 265938,
+      "word": "张佳宁王凯合照",
+      "onboard_time": 1709252912,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 261201,
@@ -203,6 +315,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 246057,
+      "num": 246057,
+      "word": "Kpop县",
+      "onboard_time": 1709255192,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 230287,
+      "num": 230287,
+      "word": "老人救人被撞成植物人申见义勇为被驳回",
+      "onboard_time": 1709254056,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223229,
       "num": 223229,
       "word": "马天宇为女教师殴打学生事件发声",
@@ -217,6 +345,14 @@
       "onboard_time": 1709215296,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 212738,
+      "num": 212738,
+      "word": "杨紫小夭入选年度人气角色",
+      "onboard_time": 1709254174,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 212315,
@@ -243,12 +379,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205312,
-      "num": 135593,
-      "word": "打针时针芯里那块肉去哪了",
-      "onboard_time": 1709249305,
-      "rank": 21,
+      "raw_hot": 205361,
+      "num": 205361,
+      "word": "少吃饭能延缓衰老",
+      "onboard_time": 1709247862,
+      "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 202630,
+      "num": 202630,
+      "word": "钟楚曦巴黎时装周造型",
+      "onboard_time": 1709254595,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195117,
+      "num": 195117,
+      "word": "3月1日个税汇算已约满",
+      "onboard_time": 1709253093,
+      "rank": 29,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 189739,
@@ -256,6 +408,22 @@
       "word": "三月你好",
       "onboard_time": 1709248162,
       "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 188524,
+      "num": 188524,
+      "word": "英伟达市值一夜涨超2600亿元",
+      "onboard_time": 1709255491,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 181690,
+      "num": 181690,
+      "word": "情绪稳定的人 倒霉惯了",
+      "onboard_time": 1709250809,
+      "rank": 31,
       "category": "情感"
     },
     {
@@ -275,11 +443,35 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172879,
-      "num": 87844,
-      "word": "邵明明 我们都无可替代",
-      "onboard_time": 1709248824,
-      "rank": 30,
+      "raw_hot": 174892,
+      "num": 174892,
+      "word": "出现这些症状可能是脑瘤前兆",
+      "onboard_time": 1709253991,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 172379,
+      "num": 172379,
+      "word": "爷爷这是宠了奶奶一辈子吧",
+      "onboard_time": 1709253572,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 169705,
+      "num": 169705,
+      "word": "魔卡少女樱 狼樱HE",
+      "onboard_time": 1709251830,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 164441,
+      "num": 164441,
+      "word": "崔胜澈 十字韧带断裂",
+      "onboard_time": 1709254474,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -291,6 +483,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162616,
+      "num": 162616,
+      "word": "乘风2024 网传名单",
+      "onboard_time": 1709252850,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 160560,
+      "num": 160560,
+      "word": "为啥穿汉服的大多是女生",
+      "onboard_time": 1709250448,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 154715,
+      "num": 154715,
+      "word": "你一手拿着苹果",
+      "onboard_time": 1709255670,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 149646,
       "num": 149646,
       "word": "朱丹也来浪姐了",
@@ -299,20 +515,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146322,
-      "num": 146322,
-      "word": "家长吐槽被学校要求下午到校值班",
-      "onboard_time": 1709248464,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142802,
       "num": 142802,
       "word": "许栋元离婚",
       "onboard_time": 1709244736,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136850,
+      "num": 136850,
+      "word": "真的建议大家在大学里多蹭课",
+      "onboard_time": 1709249545,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 136491,
+      "num": 136491,
+      "word": "当你谈了一段无趣的恋爱",
+      "onboard_time": 1709250569,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 134981,
@@ -353,6 +577,14 @@
       "onboard_time": 1709219257,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127900,
+      "num": 127900,
+      "word": "三月文案",
+      "onboard_time": 1709252733,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 125885,
@@ -401,14 +633,6 @@
       "onboard_time": 1709218178,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111762,
-      "num": 111762,
-      "word": "少吃饭能延缓衰老",
-      "onboard_time": 1709247862,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 107462,
@@ -595,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54405,
-      "num": 54405,
-      "word": "真的建议大家在大学里多蹭课",
-      "onboard_time": 1709249545,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 54331,
       "num": 54331,
       "word": "小狗耳朵都放下来了",
@@ -617,14 +833,6 @@
       "onboard_time": 1709249364,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 50450,
-      "num": 50450,
-      "word": "李莎旻子回应四年前脱单愿望",
-      "onboard_time": 1709249608,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 39893,
@@ -691,6 +899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 14099,
+      "num": 993470,
+      "word": "微观两会",
+      "onboard_time": 1709194052,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13146,
       "num": 13146,
       "word": "韩雪浪姐路透",
@@ -720,14 +936,6 @@
       "word": "周刊君带你看两会",
       "onboard_time": 1709238976,
       "rank": 29,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 8183,
-      "num": 549767,
-      "word": "微观两会",
-      "onboard_time": 1709194052,
-      "rank": 2,
       "category": "国内时政"
     },
     {
