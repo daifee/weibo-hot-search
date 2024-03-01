@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709292857317,
+  "endTime": 1709296259228,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -32,6 +32,14 @@
       "word": "退税",
       "onboard_time": 1709249065,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2204750,
+      "num": 2204750,
+      "word": "德州驾车撞人男子已被当场抓获",
+      "onboard_time": 1709293531,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -235,6 +243,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 737014,
+      "num": 737014,
+      "word": "原神 混池",
+      "onboard_time": 1709295813,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 736431,
       "num": 548240,
       "word": "PDD",
@@ -299,6 +315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 686709,
+      "num": 686709,
+      "word": "宋昕冉晒迪丽热巴to签",
+      "onboard_time": 1709294912,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 680605,
       "num": 277538,
       "word": "双休6千单休8千",
@@ -337,6 +361,22 @@
       "onboard_time": 1709248464,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 635837,
+      "num": 635837,
+      "word": "终于知道娃哈哈为啥用纸箱包装了",
+      "onboard_time": 1709292990,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 632054,
+      "num": 632054,
+      "word": "张小斐荡领吊带",
+      "onboard_time": 1709291854,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 620226,
@@ -425,6 +465,14 @@
       "onboard_time": 1709258011,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 540322,
+      "num": 540322,
+      "word": "杨幂总裁出街",
+      "onboard_time": 1709293531,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 538721,
@@ -603,14 +651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445725,
-      "num": 445725,
-      "word": "张小斐荡领吊带",
-      "onboard_time": 1709291854,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 440223,
       "num": 440223,
       "word": "Boss直聘 打工人的加油站",
@@ -625,6 +665,14 @@
       "onboard_time": 1709249726,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 439527,
+      "num": 320142,
+      "word": "以为很卫生其实很脏的行为",
+      "onboard_time": 1709295093,
+      "rank": 20,
+      "category": "科学科普"
     },
     {
       "raw_hot": 435121,
@@ -763,12 +811,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 377892,
+      "num": 377892,
+      "word": "全员加速中",
+      "onboard_time": 1709295872,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 377799,
       "num": 377799,
       "word": "陈靖可曾因外貌遭校园暴力",
       "onboard_time": 1709222071,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371560,
+      "num": 371560,
+      "word": "小红书 连不上网",
+      "onboard_time": 1709294128,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 358392,
@@ -843,6 +907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 339188,
+      "num": 339188,
+      "word": "章若楠cos大乔",
+      "onboard_time": 1709291491,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 338882,
       "num": 338882,
       "word": "英伟达市值一夜涨超2600亿元",
@@ -889,6 +961,14 @@
       "onboard_time": 1709275773,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318162,
+      "num": 318162,
+      "word": "章若楠的假发有四斤多重",
+      "onboard_time": 1709294375,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 316285,
@@ -995,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293529,
+      "num": 293529,
+      "word": "建议不要等到睡前才刷牙",
+      "onboard_time": 1709295272,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 293229,
       "num": 293229,
       "word": "张佳宁王凯合照",
@@ -1089,14 +1177,6 @@
       "onboard_time": 1709270555,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 264946,
-      "num": 264946,
-      "word": "章若楠cos大乔",
-      "onboard_time": 1709291491,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 261201,
@@ -1217,6 +1297,22 @@
       "onboard_time": 1709268756,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215610,
+      "num": 215610,
+      "word": "阮经天好帅",
+      "onboard_time": 1709294194,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 215536,
+      "num": 215536,
+      "word": "德州市民回应自发献血",
+      "onboard_time": 1709293953,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215110,
@@ -1459,6 +1555,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192650,
+      "num": 192650,
+      "word": "TES战胜iG",
+      "onboard_time": 1709295872,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 192055,
+      "num": 192055,
+      "word": "中国官网最低3499元就能买iPhone",
+      "onboard_time": 1709295272,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 189739,
       "num": 189739,
       "word": "三月你好",
@@ -1481,6 +1593,14 @@
       "onboard_time": 1709290473,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 188928,
+      "num": 188928,
+      "word": "当我路过抽烟的人想让他们内疚时",
+      "onboard_time": 1709295153,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 187114,
@@ -1513,6 +1633,14 @@
       "onboard_time": 1709292212,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 182956,
+      "num": 182956,
+      "word": "种地吧",
+      "onboard_time": 1709295513,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 182050,
@@ -1563,6 +1691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181271,
+      "num": 181271,
+      "word": "上财校长称很多大学拿理工科的钱搞文科",
+      "onboard_time": 1709294912,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 181223,
       "num": 181223,
       "word": "阿姨 下次不要发截图了",
@@ -1587,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179742,
+      "num": 179742,
+      "word": "奥本海默日本广岛长崎试映会",
+      "onboard_time": 1709294312,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179398,
       "num": 179398,
       "word": "这届年轻人开始野性消费健身用品",
@@ -1609,6 +1753,14 @@
       "onboard_time": 1709266594,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 176632,
+      "num": 176632,
+      "word": "林俊杰福州",
+      "onboard_time": 1709295872,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 176266,
@@ -1737,6 +1889,14 @@
       "onboard_time": 1709268457,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164931,
+      "num": 164931,
+      "word": "卓沅 十个勤天卖菜啦",
+      "onboard_time": 1709293353,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 164441,
@@ -1956,7 +2116,7 @@
     },
     {
       "raw_hot": 145701,
-      "num": 145701,
+      "num": 192092,
       "word": "497名在缅跨境电诈嫌犯移交我方",
       "onboard_time": 1709290836,
       "rank": 38,
@@ -2099,6 +2259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134717,
+      "num": 134717,
+      "word": "小S大女儿Elly近照",
+      "onboard_time": 1709296233,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134393,
       "num": 134393,
       "word": "被父母拆散的爱情后来怎么样了",
@@ -2107,12 +2275,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132896,
+      "num": 132896,
+      "word": "天气冷得仿佛还没过完年",
+      "onboard_time": 1709296233,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132871,
       "num": 132871,
       "word": "韩国人吃玉米芯",
       "onboard_time": 1709209115,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132783,
+      "num": 132783,
+      "word": "山东泰山四外援齐破门",
+      "onboard_time": 1709296052,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 129806,
@@ -2753,6 +2937,14 @@
       "onboard_time": 1709238976,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 8606,
+      "num": 325445,
+      "word": "更大的幸福全给你",
+      "onboard_time": 1709293592,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 6836,
