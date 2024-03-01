@@ -1,6 +1,6 @@
 {
   "startTime": 1709310056019,
-  "endTime": 1709331367421,
+  "endTime": 1709332526182,
   "band_list": [
     {
       "raw_hot": 2650152,
@@ -291,6 +291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 129619,
+      "num": 129619,
+      "word": "张翰工作室起诉昕影影业",
+      "onboard_time": 1709320336,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 127812,
       "num": 127812,
       "word": "希望你结婚的唯一原因是你想",
@@ -363,20 +371,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95086,
-      "num": 95086,
-      "word": "张翰工作室起诉昕影影业",
-      "onboard_time": 1709320336,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 93410,
       "num": 93410,
       "word": "外婆让我不要恋爱结婚",
       "onboard_time": 1709304394,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92764,
+      "num": 92764,
+      "word": "酒店回应只能外国人穿拖鞋用餐",
+      "onboard_time": 1709324237,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89231,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 87912,
-      "num": 61219,
+      "num": 68972,
       "word": "前女团成员称做女工并不羞耻",
       "onboard_time": 1709318118,
       "rank": 10,
@@ -419,20 +427,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 80740,
-      "num": 80740,
-      "word": "酒店回应只能外国人穿拖鞋用餐",
-      "onboard_time": 1709324237,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77502,
       "num": 77502,
       "word": "广东人再冷也要每天洗澡",
       "onboard_time": 1709312604,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77102,
+      "num": 77102,
+      "word": "詹青云 我穿高跟鞋无法辩论",
+      "onboard_time": 1709316800,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 75821,
@@ -473,14 +481,6 @@
       "onboard_time": 1709311766,
       "rank": 35,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 63918,
-      "num": 54236,
-      "word": "詹青云 我穿高跟鞋无法辩论",
-      "onboard_time": 1709316800,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 60654,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 36762,
+      "num": 36762,
+      "word": "高楼失火卧室和厕所哪个更安全",
+      "onboard_time": 1709325136,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 33271,
       "num": 26139,
       "word": "蹭麻辣烫三个月流浪狗的变化",
@@ -547,14 +555,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 26799,
-      "num": 26799,
-      "word": "高楼失火卧室和厕所哪个更安全",
-      "onboard_time": 1709325136,
-      "rank": 25,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 26138,
       "num": 26138,
       "word": "慢冷式恋爱",
@@ -563,16 +563,24 @@
       "category": "情感"
     },
     {
-      "raw_hot": 18597,
-      "num": 18597,
+      "raw_hot": 25647,
+      "num": 25647,
       "word": "猎冰导演称评分4.7比预估高",
       "onboard_time": 1709329396,
       "rank": 34,
       "category": "剧集"
     },
     {
-      "raw_hot": 15980,
-      "num": 15980,
+      "raw_hot": 23799,
+      "num": 23799,
+      "word": "新规严打快递柜签收背后",
+      "onboard_time": 1709331496,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 18608,
+      "num": 18608,
       "word": "颖儿再演夏冬春",
       "onboard_time": 1709323036,
       "rank": 40,
@@ -587,8 +595,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13642,
-      "num": 14399,
+      "raw_hot": 15525,
+      "num": 18566,
       "word": "造型指导解读赵丽颖第二十条妆造",
       "onboard_time": 1709327475,
       "rank": 49,
@@ -611,8 +619,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 8204,
-      "num": 126598,
+      "raw_hot": 9366,
+      "num": 141425,
       "word": "聚焦2024年全国两会",
       "onboard_time": 1709305832,
       "rank": 2,
