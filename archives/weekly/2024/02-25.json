@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709310056019,
+  "endTime": 1709310930553,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -185,6 +185,14 @@
       "onboard_time": 1709164107,
       "rank": 0,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 2650152,
+      "num": 2650152,
+      "word": "蔡英文办公室中枪卫兵死亡",
+      "onboard_time": 1709309312,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2618819,
@@ -1185,14 +1193,6 @@
       "onboard_time": 1709186012,
       "rank": 1,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1213704,
-      "num": 1213704,
-      "word": "蔡英文办公室中枪卫兵死亡",
-      "onboard_time": 1709309312,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1211387,
@@ -15531,6 +15531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125545,
+      "num": 125545,
+      "word": "周也否认恶女",
+      "onboard_time": 1709310209,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125264,
       "num": 125264,
       "word": "大学生真的好整齐",
@@ -15955,6 +15963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116167,
+      "num": 116167,
+      "word": "淡人",
+      "onboard_time": 1709308770,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116128,
       "num": 116128,
       "word": "冷暴力中长大的孩子",
@@ -16035,6 +16051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114579,
+      "num": 114579,
+      "word": "别对我动心 crush文学",
+      "onboard_time": 1709309130,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114526,
       "num": 114526,
       "word": "半熟恋人男嘉宾细致程度",
@@ -16057,14 +16081,6 @@
       "onboard_time": 1708878565,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 113855,
-      "num": 113855,
-      "word": "别对我动心 crush文学",
-      "onboard_time": 1709309130,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 113660,
@@ -16305,14 +16321,6 @@
       "onboard_time": 1709136930,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107033,
-      "num": 107033,
-      "word": "淡人",
-      "onboard_time": 1709308770,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 107030,
@@ -16571,6 +16579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82453,
+      "num": 93337,
+      "word": "周处除三害好猛",
+      "onboard_time": 1709309671,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 82413,
       "num": 136044,
       "word": "牡丹鹦鹉叼纸条插尾巴上准备筑巢",
@@ -16809,14 +16825,6 @@
       "onboard_time": 1708902926,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67833,
-      "num": 89165,
-      "word": "周处除三害好猛",
-      "onboard_time": 1709309671,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 67652,

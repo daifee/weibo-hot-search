@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709310056019,
+  "endTime": 1709310930553,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -33,6 +33,14 @@
       "onboard_time": 1709249065,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2650152,
+      "num": 2650152,
+      "word": "蔡英文办公室中枪卫兵死亡",
+      "onboard_time": 1709309312,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2204750,
@@ -161,14 +169,6 @@
       "onboard_time": 1709261612,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1213704,
-      "num": 1213704,
-      "word": "蔡英文办公室中枪卫兵死亡",
-      "onboard_time": 1709309312,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1142438,
@@ -2707,6 +2707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125545,
+      "num": 125545,
+      "word": "周也否认恶女",
+      "onboard_time": 1709310209,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125061,
       "num": 125061,
       "word": "唐人街探案",
@@ -2819,6 +2827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116167,
+      "num": 116167,
+      "word": "淡人",
+      "onboard_time": 1709308770,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115819,
       "num": 115819,
       "word": "问界2月蝉联新势力月销量冠军",
@@ -2835,19 +2851,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114579,
+      "num": 114579,
+      "word": "别对我动心 crush文学",
+      "onboard_time": 1709309130,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113893,
       "num": 113893,
       "word": "猎冰",
       "onboard_time": 1709290173,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 113855,
-      "num": 113855,
-      "word": "别对我动心 crush文学",
-      "onboard_time": 1709309130,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -2913,14 +2929,6 @@
       "onboard_time": 1709210915,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 107033,
-      "num": 107033,
-      "word": "淡人",
-      "onboard_time": 1709308770,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 105815,
@@ -3099,6 +3107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82453,
+      "num": 93337,
+      "word": "周处除三害好猛",
+      "onboard_time": 1709309671,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 79547,
       "num": 79547,
       "word": "成都春熙路天桥上长满了浪漫",
@@ -3129,14 +3145,6 @@
       "onboard_time": 1709247320,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 67833,
-      "num": 89165,
-      "word": "周处除三害好猛",
-      "onboard_time": 1709309671,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 67652,
