@@ -1,0 +1,410 @@
+{
+  "runTime": 1709281253375,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1287819,
+        "num": 1287819,
+        "word": "前女团成员解散后在工厂做女工",
+        "onboard_time": 1709275413,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1024259,
+        "num": 1024259,
+        "word": "我是为了救我哥哥才出生的",
+        "onboard_time": 1709275352,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33025,
+        "num": 893023,
+        "word": "为何全国两会大多在3月开",
+        "onboard_time": 1709251350,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 769586,
+        "num": 769586,
+        "word": "斗鱼曾经的头部主播都去哪了",
+        "onboard_time": 1709278590,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 604684,
+        "num": 604684,
+        "word": "小团团已停播34天",
+        "onboard_time": 1709273553,
+        "rank": 4,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 581122,
+        "num": 581122,
+        "word": "33岁白发妈妈亲吻去世宝宝墓碑",
+        "onboard_time": 1709274750,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577076,
+        "num": 577076,
+        "word": "退税",
+        "onboard_time": 1709249065,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 563852,
+        "num": 563852,
+        "word": "曾经很火但消失了的童年零食",
+        "onboard_time": 1709269654,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 559994,
+        "num": 559994,
+        "word": "春天是精神病的高发时期",
+        "onboard_time": 1709274573,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 519476,
+        "num": 519476,
+        "word": "读研时被导师坚定地选择是什么体验",
+        "onboard_time": 1709276673,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 530553,
+        "num": 485054,
+        "word": "美国女教师和16岁男生发生关系或被判25年",
+        "onboard_time": 1709271392,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50821,
+        "num": 459229,
+        "word": "公路高铁理想MEGA",
+        "onboard_time": 1709279552,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 448863,
+        "num": 448863,
+        "word": "理想MEGA",
+        "onboard_time": 1709278413,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 406201,
+        "num": 406201,
+        "word": "周柯宇哥哥",
+        "onboard_time": 1709279913,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403213,
+        "num": 403213,
+        "word": "与凤行排播",
+        "onboard_time": 1709278174,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395715,
+        "num": 395715,
+        "word": "微信删除后加回来对方知道吗",
+        "onboard_time": 1709257051,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 379561,
+        "num": 379561,
+        "word": "妍珍呐 你认得出自己吗",
+        "onboard_time": 1709272411,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294670,
+        "num": 294670,
+        "word": "赵丽颖银白挑染",
+        "onboard_time": 1709270014,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235748,
+        "num": 235748,
+        "word": "女子回应怀孕8个月考研获专业第一",
+        "onboard_time": 1709257411,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219024,
+        "num": 219024,
+        "word": "建议取消强制自动续费",
+        "onboard_time": 1709280390,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 405634,
+        "num": 218767,
+        "word": "双休6千单休8千",
+        "onboard_time": 1709272713,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218501,
+        "num": 218501,
+        "word": "特斯拉3个月降价3次",
+        "onboard_time": 1709280634,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 211423,
+        "num": 211423,
+        "word": "你只是钱少而已",
+        "onboard_time": 1709277392,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196433,
+        "num": 196433,
+        "word": "王俊凯或客串无名之辈2",
+        "onboard_time": 1709277453,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194282,
+        "num": 194282,
+        "word": "周柯宇父亲被执行151万",
+        "onboard_time": 1709271874,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179833,
+        "num": 179833,
+        "word": "江苏南通5死13伤爆炸事故原因公布",
+        "onboard_time": 1709264311,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171684,
+        "num": 171684,
+        "word": "春节结束妈妈手洗20多件羽绒服",
+        "onboard_time": 1709275773,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169898,
+        "num": 169898,
+        "word": "农夫山泉 娃哈哈",
+        "onboard_time": 1709280870,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168468,
+        "num": 168468,
+        "word": "易烊千玺帽子",
+        "onboard_time": 1709266957,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122351,
+        "num": 167238,
+        "word": "语文课本和祖国大好河山的适配度",
+        "onboard_time": 1709281050,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166990,
+        "num": 166990,
+        "word": "关闭朋友圈十年后的变化",
+        "onboard_time": 1709266055,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165110,
+        "num": 165110,
+        "word": "小S二女儿Lily16岁身材",
+        "onboard_time": 1709262450,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161512,
+        "num": 161512,
+        "word": "奔驰放弃全电动车计划",
+        "onboard_time": 1709273131,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164763,
+        "num": 160834,
+        "word": "兴高采烈退税结果要补1万8",
+        "onboard_time": 1709264191,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155432,
+        "num": 155432,
+        "word": "小猫才是违背了天性爱你",
+        "onboard_time": 1709265934,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152403,
+        "num": 152403,
+        "word": "白敬亭范思哲全球香水代言人",
+        "onboard_time": 1709261251,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152051,
+        "num": 152051,
+        "word": "武契奇这次用两秒说清台湾问题",
+        "onboard_time": 1709280810,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151660,
+        "num": 151660,
+        "word": "迪丽热巴三月录制综艺",
+        "onboard_time": 1709266414,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24022,
+        "num": 147208,
+        "word": "理想首款MPV为什么是MEGA",
+        "onboard_time": 1709279552,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 144106,
+        "num": 144106,
+        "word": "张婧仪檀健次电梯大片",
+        "onboard_time": 1709278890,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143598,
+        "num": 143598,
+        "word": "严浩翔最新机场状态",
+        "onboard_time": 1709275890,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138941,
+        "num": 138941,
+        "word": "LGD对战BLG",
+        "onboard_time": 1709280993,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138482,
+        "num": 138482,
+        "word": "睡姿不对越睡越累",
+        "onboard_time": 1709280571,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131049,
+        "num": 131049,
+        "word": "掌心官宣",
+        "onboard_time": 1709264191,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126543,
+        "num": 126543,
+        "word": "全智贤新证件照",
+        "onboard_time": 1709275531,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119746,
+        "num": 119746,
+        "word": "在卫生间感受到了职场的爱",
+        "onboard_time": 1709276673,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115777,
+        "num": 115777,
+        "word": "周处除三害上映",
+        "onboard_time": 1709272171,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112028,
+        "num": 112028,
+        "word": "小团团前公会被执行44.57万",
+        "onboard_time": 1709265336,
+        "rank": 47,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 111280,
+        "num": 111280,
+        "word": "大理寺少卿游 家人的控制欲",
+        "onboard_time": 1709281233,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88219,
+        "num": 103588,
+        "word": "章若楠大乔白鹤梁神女",
+        "onboard_time": 1709281233,
+        "rank": 49,
+        "category": "艺人,游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

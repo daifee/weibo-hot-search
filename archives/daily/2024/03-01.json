@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709278500285,
+  "endTime": 1709281253375,
   "band_list": [
     {
       "raw_hot": 2786251,
@@ -99,20 +99,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1024259,
+      "num": 1024259,
+      "word": "我是为了救我哥哥才出生的",
+      "onboard_time": 1709275352,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 916839,
       "num": 916839,
       "word": "小S二女儿Lily16岁身材",
       "onboard_time": 1709262450,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 916137,
-      "num": 446902,
-      "word": "我是为了救我哥哥才出生的",
-      "onboard_time": 1709275352,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 913814,
@@ -169,6 +169,14 @@
       "onboard_time": 1709219257,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 769586,
+      "num": 769586,
+      "word": "斗鱼曾经的头部主播都去哪了",
+      "onboard_time": 1709278590,
+      "rank": 3,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 736431,
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 519476,
+      "num": 519476,
+      "word": "读研时被导师坚定地选择是什么体验",
+      "onboard_time": 1709276673,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 497662,
       "num": 474495,
       "word": "李莎旻子回应四年前脱单愿望",
@@ -425,6 +441,14 @@
       "onboard_time": 1709270734,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448863,
+      "num": 448863,
+      "word": "理想MEGA",
+      "onboard_time": 1709278413,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 448377,
@@ -505,6 +529,22 @@
       "onboard_time": 1709215296,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406201,
+      "num": 406201,
+      "word": "周柯宇哥哥",
+      "onboard_time": 1709279913,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 403213,
+      "num": 403213,
+      "word": "与凤行排播",
+      "onboard_time": 1709278174,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 400519,
@@ -755,14 +795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 283471,
-      "num": 283471,
-      "word": "读研时被导师坚定地选择是什么体验",
-      "onboard_time": 1709276673,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 272317,
       "num": 272317,
       "word": "张译银发造型",
@@ -867,6 +899,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219024,
+      "num": 219024,
+      "word": "建议取消强制自动续费",
+      "onboard_time": 1709280390,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 218501,
+      "num": 218501,
+      "word": "特斯拉3个月降价3次",
+      "onboard_time": 1709280634,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 216175,
       "num": 216175,
       "word": "郑秀妍泳装照",
@@ -913,14 +961,6 @@
       "onboard_time": 1709267435,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 210586,
-      "num": 210586,
-      "word": "与凤行排播",
-      "onboard_time": 1709278174,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 209383,
@@ -1203,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169898,
+      "num": 169898,
+      "word": "农夫山泉 娃哈哈",
+      "onboard_time": 1709280870,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 169755,
       "num": 169755,
       "word": "EDGM对战XYG",
@@ -1363,12 +1411,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 152382,
-      "num": 152382,
-      "word": "理想MEGA",
-      "onboard_time": 1709278413,
-      "rank": 40,
-      "category": "汽车"
+      "raw_hot": 152051,
+      "num": 152051,
+      "word": "武契奇这次用两秒说清台湾问题",
+      "onboard_time": 1709280810,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 151435,
@@ -1427,6 +1475,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 144106,
+      "num": 144106,
+      "word": "张婧仪檀健次电梯大片",
+      "onboard_time": 1709278890,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143067,
       "num": 143067,
       "word": "熬夜也要看完的纪录片",
@@ -1481,6 +1537,22 @@
       "onboard_time": 1709275352,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138941,
+      "num": 138941,
+      "word": "LGD对战BLG",
+      "onboard_time": 1709280993,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 138482,
+      "num": 138482,
+      "word": "睡姿不对越睡越累",
+      "onboard_time": 1709280571,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 137626,
@@ -1603,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122351,
+      "num": 167238,
+      "word": "语文课本和祖国大好河山的适配度",
+      "onboard_time": 1709281050,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 120911,
       "num": 120911,
       "word": "宁艺卓的鞋大了",
@@ -1681,6 +1761,14 @@
       "onboard_time": 1709218178,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111280,
+      "num": 111280,
+      "word": "大理寺少卿游 家人的控制欲",
+      "onboard_time": 1709281233,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 108425,
@@ -1777,6 +1865,14 @@
       "onboard_time": 1709211814,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88219,
+      "num": 103588,
+      "word": "章若楠大乔白鹤梁神女",
+      "onboard_time": 1709281233,
+      "rank": 49,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 86986,
@@ -1907,6 +2003,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 50821,
+      "num": 459229,
+      "word": "公路高铁理想MEGA",
+      "onboard_time": 1709279552,
+      "rank": 11,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 42701,
       "num": 324948,
       "word": "TVB港星保姆车揭秘",
@@ -1939,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33025,
+      "num": 893023,
+      "word": "为何全国两会大多在3月开",
+      "onboard_time": 1709251350,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32305,
       "num": 32305,
       "word": "李溪芮出发参加浪姐",
@@ -1953,6 +2065,14 @@
       "onboard_time": 1709270913,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24022,
+      "num": 147208,
+      "word": "理想首款MPV为什么是MEGA",
+      "onboard_time": 1709279552,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 21321,
