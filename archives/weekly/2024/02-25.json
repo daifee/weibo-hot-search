@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709375638567,
+  "endTime": 1709378124475,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 2973604,
-      "num": 301109,
+      "num": 448027,
       "word": "满舒克",
       "onboard_time": 1709366072,
       "rank": 10,
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 2000692,
-      "num": 296985,
+      "num": 422221,
       "word": "满舒克前女友发文",
       "onboard_time": 1709368829,
       "rank": 15,
@@ -1385,6 +1385,14 @@
       "onboard_time": 1709163508,
       "rank": 3,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1148592,
+      "num": 1148592,
+      "word": "韩国民众排队4个小时告别福宝",
+      "onboard_time": 1709373032,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1145560,
@@ -2643,14 +2651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 766120,
-      "num": 766120,
-      "word": "韩国民众排队4个小时告别福宝",
-      "onboard_time": 1709373032,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 764867,
       "num": 764867,
       "word": "点读机女孩为学业放弃进娱乐圈",
@@ -2681,6 +2681,14 @@
       "onboard_time": 1708921000,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 759992,
+      "num": 759992,
+      "word": "间谍过家家 次瓜亲吻",
+      "onboard_time": 1709373329,
+      "rank": 21,
+      "category": "动漫"
     },
     {
       "raw_hot": 752365,
@@ -3332,7 +3340,7 @@
     },
     {
       "raw_hot": 660776,
-      "num": 298738,
+      "num": 431897,
       "word": "男朋友把我的隐私问题往外说",
       "onboard_time": 1709370628,
       "rank": 32,
@@ -3481,6 +3489,14 @@
       "onboard_time": 1709046337,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 634049,
+      "num": 306923,
+      "word": "女硕士怀二胎辞职带娃4年再求职碰壁大哭",
+      "onboard_time": 1709374652,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 633665,
@@ -5323,6 +5339,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 461204,
+      "num": 461204,
+      "word": "爱上阮经天",
+      "onboard_time": 1709376572,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 457806,
       "num": 369658,
       "word": "一喝牛奶就拉肚子是咋了",
@@ -5369,6 +5393,14 @@
       "onboard_time": 1709291972,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456236,
+      "num": 291654,
+      "word": "满舒克前女友因其感染高危HPV",
+      "onboard_time": 1709377593,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 455285,
@@ -5811,14 +5843,6 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 423194,
-      "num": 292921,
-      "word": "女硕士怀二胎辞职带娃4年再求职碰壁大哭",
-      "onboard_time": 1709374652,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 423069,
       "num": 423069,
       "word": "中国男篮vs日本男篮",
@@ -5868,7 +5892,7 @@
     },
     {
       "raw_hot": 419166,
-      "num": 295690,
+      "num": 418610,
       "word": "迪丽热巴裹毛毯上班",
       "onboard_time": 1709374230,
       "rank": 27,
@@ -6371,14 +6395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 384133,
-      "num": 294946,
-      "word": "间谍过家家 次瓜亲吻",
-      "onboard_time": 1709373329,
-      "rank": 21,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 383719,
       "num": 383719,
       "word": "黄圣依晒儿子近照",
@@ -6595,6 +6611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371396,
+      "num": 275846,
+      "word": "侃爷惹怒老丈人",
+      "onboard_time": 1709377169,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370929,
       "num": 299377,
       "word": "迪丽热巴耳骨钉",
@@ -6700,7 +6724,7 @@
     },
     {
       "raw_hot": 365010,
-      "num": 365010,
+      "num": 454006,
       "word": "河南一村靠种番茄大龄剩男全脱单",
       "onboard_time": 1709373692,
       "rank": 8,
@@ -7297,6 +7321,14 @@
       "onboard_time": 1708860215,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 329024,
+      "num": 329024,
+      "word": "原来南北方洗澡的差异这么大",
+      "onboard_time": 1709376332,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328901,
@@ -9019,6 +9051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259934,
+      "num": 259934,
+      "word": "娃哈哈一箱6板24瓶全是干货",
+      "onboard_time": 1709377169,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259833,
       "num": 192817,
       "word": "Champion正被挂牌出售",
@@ -9771,6 +9811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 237004,
+      "num": 237004,
+      "word": "无畏契约 物理意义上的火",
+      "onboard_time": 1709376811,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 236637,
       "num": 236637,
       "word": "舒畅红色马面裙",
@@ -9808,6 +9856,14 @@
       "word": "高君雨",
       "onboard_time": 1709273131,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 234668,
+      "num": 234668,
+      "word": "杨幂爸爸独家照片",
+      "onboard_time": 1709377712,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -10851,6 +10907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211480,
+      "num": 211480,
+      "word": "电影第二十条",
+      "onboard_time": 1709377169,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 211472,
       "num": 211472,
       "word": "孙颖莎采访",
@@ -11009,6 +11073,14 @@
       "onboard_time": 1709275890,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209348,
+      "num": 209348,
+      "word": "王琳浪姐路透",
+      "onboard_time": 1709375253,
+      "rank": 34,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 209301,
@@ -11249,6 +11321,14 @@
       "onboard_time": 1709195074,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204564,
+      "num": 204564,
+      "word": "教嘴笨的人一个万能方法",
+      "onboard_time": 1709376811,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 204483,
@@ -12195,6 +12275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192372,
+      "num": 192372,
+      "word": "种地吧生活直播",
+      "onboard_time": 1709378070,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192330,
       "num": 192330,
       "word": "NCTWISH出道",
@@ -12337,6 +12425,14 @@
       "onboard_time": 1709192193,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190176,
+      "num": 178780,
+      "word": "为何麻辣烫越来越贵了",
+      "onboard_time": 1709377293,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 190052,
@@ -12745,6 +12841,14 @@
       "onboard_time": 1709016696,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 185327,
+      "num": 185327,
+      "word": "当成年人突然下定决心要改变生活",
+      "onboard_time": 1709375371,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 185227,
@@ -14547,14 +14651,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 161485,
-      "num": 161485,
-      "word": "王琳浪姐路透",
-      "onboard_time": 1709375253,
-      "rank": 34,
-      "category": "综艺,综艺"
-    },
-    {
       "raw_hot": 161433,
       "num": 161433,
       "word": "双北对话梦回明侦",
@@ -14883,6 +14979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 156959,
+      "num": 156959,
+      "word": "LNG bsyy",
+      "onboard_time": 1709377831,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156751,
       "num": 156751,
       "word": "假扮文件传输助手账号被平台封禁",
@@ -15105,14 +15209,6 @@
       "onboard_time": 1709263473,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153198,
-      "num": 153198,
-      "word": "当成年人突然下定决心要改变生活",
-      "onboard_time": 1709375371,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 153168,
@@ -15691,6 +15787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144351,
+      "num": 144351,
+      "word": "周处除三害票房破5000万",
+      "onboard_time": 1709376633,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144348,
       "num": 144348,
       "word": "周也辣妹妆",
@@ -16049,6 +16153,14 @@
       "onboard_time": 1708949552,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139908,
+      "num": 139908,
+      "word": "杨幂巴黎对镜自拍",
+      "onboard_time": 1709375730,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139865,
@@ -16411,6 +16523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135790,
+      "num": 135790,
+      "word": "男朋友非要展示他的反应速度",
+      "onboard_time": 1709376515,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135585,
       "num": 135585,
       "word": "刘忻出发",
@@ -16425,6 +16545,14 @@
       "onboard_time": 1709338108,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135246,
+      "num": 135246,
+      "word": "Scout4500助攻",
+      "onboard_time": 1709378070,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 135241,
@@ -17403,6 +17531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119089,
+      "num": 119089,
+      "word": "古人对绿色的雅称有多美",
+      "onboard_time": 1709377050,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 119055,
       "num": 119055,
       "word": "2023年国民总收入超125万亿元",
@@ -17641,6 +17777,14 @@
       "onboard_time": 1708823552,
       "rank": 41,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 115216,
+      "num": 115216,
+      "word": "AG零封RNGM",
+      "onboard_time": 1709378070,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 114901,
@@ -19161,6 +19305,14 @@
       "onboard_time": 1709142979,
       "rank": 32,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 31764,
+      "num": 422290,
+      "word": "倒春寒来袭天猫增发千万保暖补贴",
+      "onboard_time": 1709377230,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31402,
