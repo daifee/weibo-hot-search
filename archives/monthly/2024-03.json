@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709336056491,
+  "endTime": 1709341764067,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -171,6 +171,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1142466,
+      "num": 1142466,
+      "word": "家长称自家孩子不上早课睡到自然醒",
+      "onboard_time": 1709304036,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1142438,
       "num": 1142438,
       "word": "妍珍呐 你认得出自己吗",
@@ -267,12 +275,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 839884,
-      "num": 839884,
-      "word": "家长称自家孩子不上早课睡到自然醒",
-      "onboard_time": 1709304036,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 857954,
+      "num": 340632,
+      "word": "曼谷夜市现烤小臂一样长的大虾",
+      "onboard_time": 1709338949,
+      "rank": 10,
+      "category": "美食"
     },
     {
       "raw_hot": 838603,
@@ -321,6 +329,14 @@
       "onboard_time": 1709278590,
       "rank": 3,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 768152,
+      "num": 768152,
+      "word": "河南一小学拖欠教师工资无人上课",
+      "onboard_time": 1709334983,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 736431,
@@ -459,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 640339,
+      "num": 640339,
+      "word": "杨幂好柿发生手机壳",
+      "onboard_time": 1709339429,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 635945,
       "num": 635945,
       "word": "家长吐槽被学校要求下午到校值班",
@@ -569,6 +593,14 @@
       "onboard_time": 1709258011,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 542896,
+      "num": 542896,
+      "word": "张翰工作室起诉昕影影业",
+      "onboard_time": 1709320336,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 538721,
@@ -691,6 +723,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 490562,
+      "num": 490562,
+      "word": "小团团",
+      "onboard_time": 1709200170,
+      "rank": 9,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 489582,
       "num": 489582,
       "word": "赵丽颖银白挑染",
@@ -785,6 +825,14 @@
       "onboard_time": 1709286272,
       "rank": 13,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 449609,
+      "num": 449609,
+      "word": "官方通报哈尔滨一烤羊腿店用八两秤",
+      "onboard_time": 1709335101,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 448863,
@@ -1027,6 +1075,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 370945,
+      "num": 195162,
+      "word": "5个最耗气血的行为",
+      "onboard_time": 1709339368,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 369210,
       "num": 369210,
       "word": "肖战米兰vlog",
@@ -1035,12 +1091,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 358392,
-      "num": 358392,
-      "word": "小团团",
-      "onboard_time": 1709200170,
-      "rank": 9,
-      "category": "游戏,网红"
+      "raw_hot": 366169,
+      "num": 338461,
+      "word": "郝爽CP",
+      "onboard_time": 1709339485,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 356964,
@@ -1059,12 +1115,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 354127,
+      "num": 354127,
+      "word": "博主称因称呼雷军为军儿遭小米投诉",
+      "onboard_time": 1709340812,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 351002,
       "num": 351002,
       "word": "县城一中到底有多重要",
       "onboard_time": 1709214998,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 349054,
+      "num": 158791,
+      "word": "王毅破门",
+      "onboard_time": 1709337146,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 347870,
@@ -1137,22 +1209,6 @@
       "onboard_time": 1709206592,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 329445,
-      "num": 329445,
-      "word": "河南一小学拖欠教师工资无人上课",
-      "onboard_time": 1709334983,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 328348,
-      "num": 328348,
-      "word": "张翰工作室起诉昕影影业",
-      "onboard_time": 1709320336,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 328294,
@@ -1339,6 +1395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 282999,
+      "num": 282999,
+      "word": "前女团成员称做女工并不羞耻",
+      "onboard_time": 1709318118,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280807,
       "num": 280807,
       "word": "武契奇这次用两秒说清台湾问题",
@@ -1441,6 +1505,14 @@
       "onboard_time": 1709299775,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 260155,
+      "num": 260155,
+      "word": "侯雯元 被自己迷得神魂颠倒的气质",
+      "onboard_time": 1709321537,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 255931,
@@ -1619,6 +1691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214962,
+      "num": 214962,
+      "word": "国产剧中有自己的中年大女主",
+      "onboard_time": 1709335584,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214874,
       "num": 214874,
       "word": "第二十条",
@@ -1633,6 +1713,14 @@
       "onboard_time": 1709277392,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214559,
+      "num": 156909,
+      "word": "孩子聪不聪明看手上几个动作",
+      "onboard_time": 1709340870,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 214436,
@@ -1763,6 +1851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203069,
+      "num": 203069,
+      "word": "刘德华公司严正声明",
+      "onboard_time": 1709335944,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202630,
       "num": 202630,
       "word": "钟楚曦巴黎时装周造型",
@@ -1835,12 +1931,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196990,
+      "num": 196990,
+      "word": "王者荣耀被梦泪踢出直播间",
+      "onboard_time": 1709339368,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196677,
       "num": 196677,
       "word": "蔡文静出发浪姐",
       "onboard_time": 1709264972,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195790,
+      "num": 195790,
+      "word": "康康亲吻Smoggy",
+      "onboard_time": 1709335884,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 195574,
@@ -2019,6 +2131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 181355,
+      "num": 181355,
+      "word": "春捂要捂到啥时候",
+      "onboard_time": 1709340628,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181223,
       "num": 181223,
       "word": "阿姨 下次不要发截图了",
@@ -2041,14 +2161,6 @@
       "onboard_time": 1709230278,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 179950,
-      "num": 179950,
-      "word": "前女团成员称做女工并不羞耻",
-      "onboard_time": 1709318118,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 179742,
@@ -2105,6 +2217,14 @@
       "onboard_time": 1709287172,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 175268,
+      "num": 156805,
+      "word": "属于自己的奖金被别人平分了",
+      "onboard_time": 1709339429,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 175136,
@@ -2219,6 +2339,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 166482,
+      "num": 166482,
+      "word": "胡先煦演技",
+      "onboard_time": 1709341110,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166313,
       "num": 166313,
       "word": "3月直飞泰国机票降幅明显",
@@ -2264,6 +2392,14 @@
       "word": "毛不易话少但淬毒",
       "onboard_time": 1709301814,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 163425,
+      "num": 163425,
+      "word": "前田敦子 浪姐",
+      "onboard_time": 1709338830,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -2411,6 +2547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154063,
+      "num": 154063,
+      "word": "猎冰导演称富二代标签掩盖了姚安娜的努力",
+      "onboard_time": 1709316020,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153229,
       "num": 153229,
       "word": "KTV9年倒闭7万家",
@@ -2425,6 +2569,14 @@
       "onboard_time": 1709274992,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152075,
+      "num": 152075,
+      "word": "台宪兵指挥部回应卫兵自戕",
+      "onboard_time": 1709335763,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151435,
@@ -2603,6 +2755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138046,
+      "num": 138046,
+      "word": "巴菲特靠日本五大商社狂赚575亿",
+      "onboard_time": 1709340928,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 137626,
       "num": 192967,
       "word": "短腿小象跨树干有多萌",
@@ -2611,20 +2771,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137374,
+      "num": 137374,
+      "word": "中国跳水队混团夺冠",
+      "onboard_time": 1709340991,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136850,
       "num": 136850,
       "word": "真的建议大家在大学里多蹭课",
       "onboard_time": 1709249545,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 136513,
-      "num": 107849,
-      "word": "猎冰导演称富二代标签掩盖了姚安娜的努力",
-      "onboard_time": 1709316020,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 136491,
@@ -2651,6 +2811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135496,
+      "num": 135496,
+      "word": "为什么现在年轻人喜欢养宠物",
+      "onboard_time": 1709338108,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134981,
       "num": 134981,
       "word": "3月第一天的打开方式",
@@ -2673,6 +2841,14 @@
       "onboard_time": 1709274392,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133552,
+      "num": 133552,
+      "word": "广东妆协强烈反对补水是智商税",
+      "onboard_time": 1709338286,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 132896,
@@ -2803,12 +2979,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 123171,
-      "num": 123171,
-      "word": "官方通报哈尔滨一烤羊腿店用八两秤",
-      "onboard_time": 1709335101,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 123703,
+      "num": 123703,
+      "word": "猎冰大结局",
+      "onboard_time": 1709335521,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 121621,
@@ -2907,6 +3083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116188,
+      "num": 116188,
+      "word": "买干燥剂送坚果",
+      "onboard_time": 1709338227,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 116167,
       "num": 116167,
       "word": "淡人",
@@ -2945,6 +3129,22 @@
       "onboard_time": 1709290173,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113863,
+      "num": 113863,
+      "word": "你的衣柜里有这些衣服吗",
+      "onboard_time": 1709341472,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 113580,
+      "num": 113580,
+      "word": "维金斯正在处理严重的家庭问题",
+      "onboard_time": 1709335461,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 113362,
@@ -3011,20 +3211,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 107001,
+      "num": 107001,
+      "word": "小团团语音导航暂未下架",
+      "onboard_time": 1709341652,
+      "rank": 46,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 105815,
       "num": 105815,
       "word": "化妆品一盘多用",
       "onboard_time": 1709281953,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 105260,
-      "num": 105260,
-      "word": "猎冰大结局",
-      "onboard_time": 1709335521,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 105192,
@@ -3081,6 +3281,14 @@
       "onboard_time": 1709302053,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102193,
+      "num": 102193,
+      "word": "家长吐槽社会实践作业毫无意义",
+      "onboard_time": 1709335282,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 99813,
@@ -3147,14 +3355,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 93280,
-      "num": 93280,
-      "word": "侯雯元 被自己迷得神魂颠倒的气质",
-      "onboard_time": 1709321537,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 92883,
       "num": 206711,
       "word": "24款理想L系列超有料",
@@ -3211,14 +3411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84087,
-      "num": 63560,
-      "word": "维金斯正在处理严重的家庭问题",
-      "onboard_time": 1709335461,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 79547,
       "num": 79547,
       "word": "成都春熙路天桥上长满了浪漫",
@@ -3265,14 +3457,6 @@
       "onboard_time": 1709313624,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 75355,
-      "num": 75355,
-      "word": "家长吐槽社会实践作业毫无意义",
-      "onboard_time": 1709335282,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 74367,
@@ -3339,14 +3523,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 61938,
-      "num": 61938,
-      "word": "台宪兵指挥部回应卫兵自戕",
-      "onboard_time": 1709335763,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61787,
       "num": 61787,
       "word": "怀疑对方AI换脸可以摁鼻子",
@@ -3387,14 +3563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54915,
-      "num": 54915,
-      "word": "康康亲吻Smoggy",
-      "onboard_time": 1709335884,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 54331,
       "num": 54331,
       "word": "小狗耳朵都放下来了",
@@ -3424,14 +3592,6 @@
       "word": "猎冰导演称评分4.7比预估高",
       "onboard_time": 1709329396,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 51962,
-      "num": 51962,
-      "word": "国产剧中有自己的中年大女主",
-      "onboard_time": 1709335584,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -3467,20 +3627,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 44642,
-      "num": 44642,
-      "word": "刘德华公司严正声明",
-      "onboard_time": 1709335944,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 42701,
       "num": 324948,
       "word": "TVB港星保姆车揭秘",
       "onboard_time": 1709276432,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41573,
+      "num": 681758,
+      "word": "聚焦2024年全国两会",
+      "onboard_time": 1709305832,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40252,
@@ -3601,14 +3761,6 @@
       "onboard_time": 1709194052,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18813,
-      "num": 402313,
-      "word": "聚焦2024年全国两会",
-      "onboard_time": 1709305832,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18521,
