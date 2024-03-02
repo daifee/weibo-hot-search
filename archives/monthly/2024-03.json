@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709367564255,
+  "endTime": 1709368470729,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2882331,
+      "num": 267134,
+      "word": "满舒克",
+      "onboard_time": 1709366072,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2786251,
       "num": 2786251,
       "word": "退税",
       "onboard_time": 1709249065,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2714452,
-      "num": 244834,
-      "word": "满舒克",
-      "onboard_time": 1709366072,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2650152,
@@ -217,6 +217,14 @@
       "onboard_time": 1709271392,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1280909,
+      "num": 1280909,
+      "word": "高危HPV",
+      "onboard_time": 1709367333,
+      "rank": 26,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 1238653,
@@ -772,7 +780,7 @@
     },
     {
       "raw_hot": 576168,
-      "num": 243697,
+      "num": 259538,
       "word": "小S老公回应父亲去世",
       "onboard_time": 1709364991,
       "rank": 12,
@@ -1355,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388916,
+      "num": 388916,
+      "word": "给男朋友灌输了一点男德思想",
+      "onboard_time": 1709365112,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 388878,
       "num": 357389,
       "word": "郝爽CP",
@@ -1393,6 +1409,14 @@
       "onboard_time": 1709345431,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 383114,
+      "num": 254244,
+      "word": "全红婵给英国闺蜜按摩放松",
+      "onboard_time": 1709367271,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 383054,
@@ -1449,14 +1473,6 @@
       "onboard_time": 1709289632,
       "rank": 12,
       "category": "教育"
-    },
-    {
-      "raw_hot": 372574,
-      "num": 242816,
-      "word": "给男朋友灌输了一点男德思想",
-      "onboard_time": 1709365112,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 371560,
@@ -2060,7 +2076,7 @@
     },
     {
       "raw_hot": 246654,
-      "num": 239380,
+      "num": 242010,
       "word": "邓超你自己心里没数吗",
       "onboard_time": 1709365894,
       "rank": 22,
@@ -2267,14 +2283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216014,
-      "num": 190502,
-      "word": "全红婵给英国闺蜜按摩放松",
-      "onboard_time": 1709367271,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215610,
       "num": 215610,
       "word": "阮经天好帅",
@@ -2459,6 +2467,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203967,
+      "num": 203967,
+      "word": "WE对战RNG",
+      "onboard_time": 1709367512,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 203534,
+      "num": 203534,
+      "word": "VG首次进入S组",
+      "onboard_time": 1709367271,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 203388,
+      "num": 203388,
+      "word": "零跑c10",
+      "onboard_time": 1709368052,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 203378,
       "num": 203378,
       "word": "年轻人熬夜排行榜",
@@ -2481,14 +2513,6 @@
       "onboard_time": 1709254595,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 201266,
-      "num": 201266,
-      "word": "高危HPV",
-      "onboard_time": 1709367333,
-      "rank": 26,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 200848,
@@ -2587,6 +2611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196813,
+      "num": 196813,
+      "word": "汪峰接小女儿放学",
+      "onboard_time": 1709367570,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196677,
       "num": 196677,
       "word": "蔡文静出发浪姐",
@@ -2644,7 +2676,7 @@
     },
     {
       "raw_hot": 194021,
-      "num": 690293,
+      "num": 714662,
       "word": "神十七乘组圆满完成第2次出舱",
       "onboard_time": 1709360671,
       "rank": 25,
@@ -2707,6 +2739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188735,
+      "num": 188735,
+      "word": "VG战胜TTG",
+      "onboard_time": 1709367452,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188622,
       "num": 188622,
       "word": "林俊杰福州",
@@ -2721,14 +2761,6 @@
       "onboard_time": 1709278112,
       "rank": 33,
       "category": "演出,艺人"
-    },
-    {
-      "raw_hot": 185984,
-      "num": 185984,
-      "word": "VG首次进入S组",
-      "onboard_time": 1709367271,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 185227,
@@ -2929,14 +2961,6 @@
       "onboard_time": 1709287113,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 176231,
-      "num": 176231,
-      "word": "VG战胜TTG",
-      "onboard_time": 1709367452,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 175942,
@@ -3259,6 +3283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158268,
+      "num": 158268,
+      "word": "高危型HPV持续感染可能引发宫颈癌",
+      "onboard_time": 1709368173,
+      "rank": 35,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 158144,
       "num": 158144,
       "word": "适时休息能让身体恢复和滋养",
@@ -3489,6 +3521,14 @@
       "onboard_time": 1709281050,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 146490,
+      "num": 146490,
+      "word": "张栋梁台词",
+      "onboard_time": 1709367691,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 145701,
@@ -3771,6 +3811,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 129951,
+      "num": 129951,
+      "word": "沈梦辰在巴黎被冻到过敏",
+      "onboard_time": 1709368352,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129806,
       "num": 129806,
       "word": "王俊凯献唱云端之上",
@@ -3841,6 +3889,14 @@
       "onboard_time": 1709271932,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126341,
+      "num": 126341,
+      "word": "给奶奶染了个绿色",
+      "onboard_time": 1709367752,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 126064,
@@ -4091,14 +4147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115431,
-      "num": 115431,
-      "word": "WE对战RNG",
-      "onboard_time": 1709367512,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 114579,
       "num": 114579,
       "word": "别对我动心 crush文学",
@@ -4160,6 +4208,14 @@
       "word": "金龟子升级做姥姥了",
       "onboard_time": 1709362470,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112172,
+      "num": 112172,
+      "word": "权顺荣wvs",
+      "onboard_time": 1709368413,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -4401,6 +4457,14 @@
       "onboard_time": 1709206472,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 93236,
+      "num": 121126,
+      "word": "零跑C10上市价格",
+      "onboard_time": 1709368352,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 92883,

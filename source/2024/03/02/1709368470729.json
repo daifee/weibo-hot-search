@@ -1,0 +1,410 @@
+{
+  "runTime": 1709368470729,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1290074,
+        "num": 1290074,
+        "word": "贾玲半披发",
+        "onboard_time": 1709361930,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1280909,
+        "num": 1280909,
+        "word": "高危HPV",
+        "onboard_time": 1709367333,
+        "rank": 1,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 100898,
+        "num": 714662,
+        "word": "神十七乘组圆满完成第2次出舱",
+        "onboard_time": 1709360671,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 684351,
+        "num": 684351,
+        "word": "网曝村干部坐拥60亩地用40亩盖别墅高楼",
+        "onboard_time": 1709363011,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515678,
+        "num": 515678,
+        "word": "地铁上偶遇吴磊",
+        "onboard_time": 1709363431,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472415,
+        "num": 472415,
+        "word": "吴镇宇打断向佐表演",
+        "onboard_time": 1709364451,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437189,
+        "num": 437189,
+        "word": "陈乔恩回应去豪宅后对艾伦转变态度",
+        "onboard_time": 1709360969,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388916,
+        "num": 388916,
+        "word": "给男朋友灌输了一点男德思想",
+        "onboard_time": 1709365112,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 370560,
+        "num": 370560,
+        "word": "快递新规",
+        "onboard_time": 1709366912,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269554,
+        "num": 269554,
+        "word": "娃哈哈",
+        "onboard_time": 1709361629,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2882331,
+        "num": 267134,
+        "word": "满舒克",
+        "onboard_time": 1709366072,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1986106,
+        "num": 264885,
+        "word": "娟子 怀孕",
+        "onboard_time": 1709364571,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 663467,
+        "num": 262448,
+        "word": "不要错把艾滋病当皮肤病",
+        "onboard_time": 1709356891,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 528794,
+        "num": 259538,
+        "word": "小S老公回应父亲去世",
+        "onboard_time": 1709364991,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385762,
+        "num": 255548,
+        "word": "找到了4000工资花不完的方法",
+        "onboard_time": 1709349154,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 383114,
+        "num": 254244,
+        "word": "全红婵给英国闺蜜按摩放松",
+        "onboard_time": 1709367271,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328132,
+        "num": 251200,
+        "word": "肝癌多半是作出来的",
+        "onboard_time": 1709354131,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 277526,
+        "num": 249118,
+        "word": "UNIQ",
+        "onboard_time": 1709361270,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246412,
+        "num": 246412,
+        "word": "胡先煦又偷着做背德饭",
+        "onboard_time": 1709362231,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242010,
+        "num": 242010,
+        "word": "邓超你自己心里没数吗",
+        "onboard_time": 1709365894,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246032,
+        "num": 240562,
+        "word": "我妈把亲戚的工作搞丢了",
+        "onboard_time": 1709364331,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237486,
+        "num": 237486,
+        "word": "青云台",
+        "onboard_time": 1709363370,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233855,
+        "num": 233855,
+        "word": "女子自述遭遇职场霸凌办公桌贴满钟馗",
+        "onboard_time": 1709357370,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207230,
+        "num": 207230,
+        "word": "季节露娜百分百胜率",
+        "onboard_time": 1709366134,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203967,
+        "num": 203967,
+        "word": "WE对战RNG",
+        "onboard_time": 1709367512,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203534,
+        "num": 203534,
+        "word": "VG首次进入S组",
+        "onboard_time": 1709367271,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203388,
+        "num": 203388,
+        "word": "零跑c10",
+        "onboard_time": 1709368052,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 197857,
+        "num": 197857,
+        "word": "女子误将六角恐龙烫伤又用碘伏消毒",
+        "onboard_time": 1709362109,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196813,
+        "num": 196813,
+        "word": "汪峰接小女儿放学",
+        "onboard_time": 1709367570,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184673,
+        "num": 196703,
+        "word": "蔡英文办公室卫兵自戕现场画面",
+        "onboard_time": 1709357731,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196684,
+        "num": 196684,
+        "word": "杨幂看秀照",
+        "onboard_time": 1709366670,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193984,
+        "num": 193984,
+        "word": "无效刷牙好多年",
+        "onboard_time": 1709366670,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188735,
+        "num": 188735,
+        "word": "VG战胜TTG",
+        "onboard_time": 1709367452,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187989,
+        "num": 187989,
+        "word": "零跑发布会",
+        "onboard_time": 1709364750,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 159150,
+        "num": 159150,
+        "word": "范丞丞或将当中国新说唱导师",
+        "onboard_time": 1709357370,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158268,
+        "num": 158268,
+        "word": "高危型HPV持续感染可能引发宫颈癌",
+        "onboard_time": 1709368173,
+        "rank": 35,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 149728,
+        "num": 149728,
+        "word": "谭松韵许凯牵手转圈搂",
+        "onboard_time": 1709363192,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146571,
+        "num": 146571,
+        "word": "工藤新一卫衣",
+        "onboard_time": 1709354790,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 146490,
+        "num": 146490,
+        "word": "张栋梁台词",
+        "onboard_time": 1709367691,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136633,
+        "num": 136633,
+        "word": "建议减轻中小学教师行政压力",
+        "onboard_time": 1709365714,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 139587,
+        "num": 134184,
+        "word": "庆余年2海外先导预告",
+        "onboard_time": 1709357489,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130699,
+        "num": 130699,
+        "word": "女子推理社第二季",
+        "onboard_time": 1709364150,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130314,
+        "num": 130314,
+        "word": "月入4000女子谈为何不想生",
+        "onboard_time": 1709359713,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129951,
+        "num": 129951,
+        "word": "沈梦辰在巴黎被冻到过敏",
+        "onboard_time": 1709368352,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129260,
+        "num": 129260,
+        "word": "网红主播小马哥夫妇偷税被罚317万",
+        "onboard_time": 1709351852,
+        "rank": 44,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 126341,
+        "num": 126341,
+        "word": "给奶奶染了个绿色",
+        "onboard_time": 1709367752,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121366,
+        "num": 121366,
+        "word": "医生巧用砒霜挽救血癌女子生命",
+        "onboard_time": 1709355992,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93236,
+        "num": 121126,
+        "word": "零跑C10上市价格",
+        "onboard_time": 1709368352,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 121024,
+        "num": 121024,
+        "word": "狗 这下该我了",
+        "onboard_time": 1709357911,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112172,
+        "num": 112172,
+        "word": "权顺荣wvs",
+        "onboard_time": 1709368413,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力推动我国新能源高质量发展#"
+    }
+  }
+}
