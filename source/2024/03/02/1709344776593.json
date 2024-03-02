@@ -1,0 +1,410 @@
+{
+  "runTime": 1709344776593,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1533142,
+        "num": 1533142,
+        "word": "曼谷夜市现烤小臂一样长的大虾",
+        "onboard_time": 1709338949,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 927009,
+        "num": 927009,
+        "word": "家长称自家孩子不上早课睡到自然醒",
+        "onboard_time": 1709304036,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44665,
+        "num": 846442,
+        "word": "聚焦2024年全国两会",
+        "onboard_time": 1709305832,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 781626,
+        "num": 781626,
+        "word": "博主称因称呼雷军为军儿遭小米投诉",
+        "onboard_time": 1709340812,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 709613,
+        "num": 709613,
+        "word": "小团团",
+        "onboard_time": 1709339969,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 480074,
+        "num": 480074,
+        "word": "杨幂好柿发生手机壳",
+        "onboard_time": 1709339429,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 478002,
+        "num": 478002,
+        "word": "张翰工作室起诉昕影影业",
+        "onboard_time": 1709320336,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 433041,
+        "num": 433041,
+        "word": "河南一小学拖欠教师工资无人上课",
+        "onboard_time": 1709334983,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384953,
+        "num": 384953,
+        "word": "姚安娜回应演技争议",
+        "onboard_time": 1709305231,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349450,
+        "num": 349450,
+        "word": "浪姐",
+        "onboard_time": 1709342849,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 586332,
+        "num": 348144,
+        "word": "接下来两个月是养乳腺的好时机",
+        "onboard_time": 1709342731,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 459727,
+        "num": 348140,
+        "word": "点读机女孩为学业放弃进娱乐圈",
+        "onboard_time": 1709343688,
+        "rank": 11,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 439332,
+        "num": 347902,
+        "word": "千人或有一例艾滋患者",
+        "onboard_time": 1709343267,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 346716,
+        "num": 346716,
+        "word": "你的衣柜里有这些衣服吗",
+        "onboard_time": 1709341472,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 388878,
+        "num": 329715,
+        "word": "郝爽CP",
+        "onboard_time": 1709339485,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 266304,
+        "num": 266304,
+        "word": "王者荣耀被梦泪踢出直播间",
+        "onboard_time": 1709339368,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 260399,
+        "num": 260399,
+        "word": "小团团语音导航暂未下架",
+        "onboard_time": 1709341652,
+        "rank": 16,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 259832,
+        "num": 259832,
+        "word": "倒春寒真的要来了",
+        "onboard_time": 1709298514,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237128,
+        "num": 237128,
+        "word": "杨幂问芭莎总监热吗",
+        "onboard_time": 1709342188,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235908,
+        "num": 235908,
+        "word": "彩票店回应女生花4元中500万",
+        "onboard_time": 1709302713,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358579,
+        "num": 233433,
+        "word": "5个最耗气血的行为",
+        "onboard_time": 1709339368,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 229693,
+        "num": 229693,
+        "word": "吃赛百味被价格背刺了",
+        "onboard_time": 1709343331,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 215363,
+        "num": 215363,
+        "word": "孩子聪不聪明看手上几个动作",
+        "onboard_time": 1709340870,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207726,
+        "num": 207726,
+        "word": "加沙10名儿童被官方登记为饿死",
+        "onboard_time": 1709343390,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 207460,
+        "num": 207460,
+        "word": "车厘子榴莲山竹都便宜了",
+        "onboard_time": 1709300854,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 201047,
+        "num": 201047,
+        "word": "王毅破门",
+        "onboard_time": 1709337146,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179832,
+        "num": 179832,
+        "word": "胡先煦演技",
+        "onboard_time": 1709341110,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174622,
+        "num": 174622,
+        "word": "属于自己的奖金被别人平分了",
+        "onboard_time": 1709339429,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160847,
+        "num": 160847,
+        "word": "没想到都三月份还在穿羽绒服",
+        "onboard_time": 1709344168,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140719,
+        "num": 159934,
+        "word": "蔡英文办公室一卫兵中枪",
+        "onboard_time": 1709307210,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159459,
+        "num": 159459,
+        "word": "侯雯元 被自己迷得神魂颠倒的气质",
+        "onboard_time": 1709321537,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157647,
+        "num": 157647,
+        "word": "建议探索生育数量与住房挂钩补偿机制",
+        "onboard_time": 1709342910,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156642,
+        "num": 156642,
+        "word": "前女团成员称做女工并不羞耻",
+        "onboard_time": 1709318118,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152598,
+        "num": 152598,
+        "word": "猎冰导演称富二代标签掩盖了姚安娜的努力",
+        "onboard_time": 1709316020,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135793,
+        "num": 135793,
+        "word": "头部有这4个特征或为肺癌信号",
+        "onboard_time": 1709344472,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134149,
+        "num": 134149,
+        "word": "前田敦子 浪姐",
+        "onboard_time": 1709338830,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133408,
+        "num": 133408,
+        "word": "终于知道娃哈哈为啥用纸箱包装了",
+        "onboard_time": 1709292990,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132204,
+        "num": 132204,
+        "word": "官方通报哈尔滨一烤羊腿店用八两秤",
+        "onboard_time": 1709335101,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129730,
+        "num": 129730,
+        "word": "男孩一天喝9升水被查出肿瘤",
+        "onboard_time": 1709297193,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129300,
+        "num": 129300,
+        "word": "巧克力张张包",
+        "onboard_time": 1709342011,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127743,
+        "num": 127743,
+        "word": "装哭的萨摩耶",
+        "onboard_time": 1709344108,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127361,
+        "num": 127361,
+        "word": "巴菲特靠日本五大商社狂赚575亿",
+        "onboard_time": 1709340928,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122186,
+        "num": 122186,
+        "word": "以为很卫生其实很脏的行为",
+        "onboard_time": 1709295093,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 122183,
+        "num": 122183,
+        "word": "春捂要捂到啥时候",
+        "onboard_time": 1709340628,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115943,
+        "num": 115943,
+        "word": "建议不要等到睡前才刷牙",
+        "onboard_time": 1709295272,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114473,
+        "num": 114473,
+        "word": "SHAKESHACK人均客单价85元",
+        "onboard_time": 1709343267,
+        "rank": 45,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 113994,
+        "num": 113994,
+        "word": "中国跳水队混团夺冠",
+        "onboard_time": 1709340991,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104420,
+        "num": 104420,
+        "word": "国产剧中有自己的中年大女主",
+        "onboard_time": 1709335584,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103110,
+        "num": 103110,
+        "word": "为什么现在年轻人喜欢养宠物",
+        "onboard_time": 1709338108,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102608,
+        "num": 102608,
+        "word": "Giselle罗意威",
+        "onboard_time": 1709344651,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力推动我国新能源高质量发展#"
+    }
+  }
+}

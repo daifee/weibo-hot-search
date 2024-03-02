@@ -1,6 +1,6 @@
 {
   "startTime": 1709310056019,
-  "endTime": 1709342908233,
+  "endTime": 1709344776593,
   "band_list": [
     {
       "raw_hot": 2650152,
@@ -19,6 +19,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1533142,
+      "num": 1533142,
+      "word": "曼谷夜市现烤小臂一样长的大虾",
+      "onboard_time": 1709338949,
+      "rank": 10,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1142466,
       "num": 1142466,
       "word": "家长称自家孩子不上早课睡到自然醒",
@@ -35,12 +43,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 861661,
-      "num": 861661,
-      "word": "曼谷夜市现烤小臂一样长的大虾",
-      "onboard_time": 1709338949,
-      "rank": 10,
-      "category": "美食"
+      "raw_hot": 781626,
+      "num": 781626,
+      "word": "博主称因称呼雷军为军儿遭小米投诉",
+      "onboard_time": 1709340812,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 768152,
@@ -67,12 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 699273,
-      "num": 699273,
-      "word": "博主称因称呼雷军为军儿遭小米投诉",
-      "onboard_time": 1709340812,
-      "rank": 9,
-      "category": "互联网"
+      "raw_hot": 709613,
+      "num": 709613,
+      "word": "小团团",
+      "onboard_time": 1709339969,
+      "rank": 6,
+      "category": "网红"
     },
     {
       "raw_hot": 691658,
@@ -83,12 +91,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 597965,
-      "num": 597965,
-      "word": "小团团",
-      "onboard_time": 1709339969,
-      "rank": 6,
-      "category": "网红"
+      "raw_hot": 586332,
+      "num": 348144,
+      "word": "接下来两个月是养乳腺的好时机",
+      "onboard_time": 1709342731,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 542896,
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459727,
+      "num": 348140,
+      "word": "点读机女孩为学业放弃进娱乐圈",
+      "onboard_time": 1709343688,
+      "rank": 11,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 449609,
       "num": 449609,
       "word": "官方通报哈尔滨一烤羊腿店用八两秤",
@@ -131,8 +147,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 439332,
+      "num": 347902,
+      "word": "千人或有一例艾滋患者",
+      "onboard_time": 1709343267,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 403924,
-      "num": 205113,
+      "num": 233433,
       "word": "5个最耗气血的行为",
       "onboard_time": 1709339368,
       "rank": 20,
@@ -155,6 +179,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 388878,
+      "num": 357389,
+      "word": "郝爽CP",
+      "onboard_time": 1709339485,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 380124,
       "num": 188865,
       "word": "以为很卫生其实很脏的行为",
@@ -163,12 +195,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 366169,
-      "num": 357389,
-      "word": "郝爽CP",
-      "onboard_time": 1709339485,
-      "rank": 11,
-      "category": "演出"
+      "raw_hot": 349450,
+      "num": 349450,
+      "word": "浪姐",
+      "onboard_time": 1709342849,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 349054,
@@ -177,6 +209,14 @@
       "onboard_time": 1709337146,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 346716,
+      "num": 346716,
+      "word": "你的衣柜里有这些衣服吗",
+      "onboard_time": 1709341472,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 327053,
@@ -235,6 +275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 266304,
+      "num": 266304,
+      "word": "王者荣耀被梦泪踢出直播间",
+      "onboard_time": 1709339368,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 260950,
       "num": 260950,
       "word": "大学生花4块钱中了500万",
@@ -243,20 +291,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 260399,
+      "num": 260399,
+      "word": "小团团语音导航暂未下架",
+      "onboard_time": 1709341652,
+      "rank": 46,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 260155,
       "num": 260155,
       "word": "侯雯元 被自己迷得神魂颠倒的气质",
       "onboard_time": 1709321537,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 259603,
-      "num": 259603,
-      "word": "王者荣耀被梦泪踢出直播间",
-      "onboard_time": 1709339368,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 248479,
@@ -275,20 +323,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 237128,
+      "num": 237128,
+      "word": "杨幂问芭莎总监热吗",
+      "onboard_time": 1709342188,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229693,
+      "num": 229693,
+      "word": "吃赛百味被价格背刺了",
+      "onboard_time": 1709343331,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 226923,
       "num": 226923,
       "word": "松子狂炫中国火锅",
       "onboard_time": 1709299953,
       "rank": 14,
       "category": "美食,综艺"
-    },
-    {
-      "raw_hot": 226801,
-      "num": 150957,
-      "word": "你的衣柜里有这些衣服吗",
-      "onboard_time": 1709341472,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 223867,
@@ -329,6 +385,14 @@
       "onboard_time": 1709300912,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207726,
+      "num": 207726,
+      "word": "加沙10名儿童被官方登记为饿死",
+      "onboard_time": 1709343390,
+      "rank": 23,
+      "category": "国外时政"
     },
     {
       "raw_hot": 203069,
@@ -379,20 +443,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 190990,
-      "num": 190990,
-      "word": "小团团语音导航暂未下架",
-      "onboard_time": 1709341652,
-      "rank": 46,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 181355,
       "num": 181355,
       "word": "春捂要捂到啥时候",
       "onboard_time": 1709340628,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179832,
+      "num": 179832,
+      "word": "胡先煦演技",
+      "onboard_time": 1709341110,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 176692,
@@ -403,20 +467,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171722,
-      "num": 171722,
-      "word": "胡先煦演技",
-      "onboard_time": 1709341110,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163425,
       "num": 163425,
       "word": "前田敦子 浪姐",
       "onboard_time": 1709338830,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160847,
+      "num": 160847,
+      "word": "没想到都三月份还在穿羽绒服",
+      "onboard_time": 1709344168,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 157979,
@@ -433,6 +497,14 @@
       "onboard_time": 1709331496,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 157647,
+      "num": 157647,
+      "word": "建议探索生育数量与住房挂钩补偿机制",
+      "onboard_time": 1709342910,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154994,
@@ -465,14 +537,6 @@
       "onboard_time": 1709335763,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151176,
-      "num": 151176,
-      "word": "杨幂问芭莎总监热吗",
-      "onboard_time": 1709342188,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 145534,
@@ -515,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135793,
+      "num": 135793,
+      "word": "头部有这4个特征或为肺癌信号",
+      "onboard_time": 1709344472,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 135496,
       "num": 135496,
       "word": "为什么现在年轻人喜欢养宠物",
@@ -539,12 +611,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 129300,
+      "num": 129300,
+      "word": "巧克力张张包",
+      "onboard_time": 1709342011,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 127812,
       "num": 127812,
       "word": "希望你结婚的唯一原因是你想",
       "onboard_time": 1709304513,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127743,
+      "num": 127743,
+      "word": "装哭的萨摩耶",
+      "onboard_time": 1709344108,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 123703,
@@ -561,22 +649,6 @@
       "onboard_time": 1709291854,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 122781,
-      "num": 122781,
-      "word": "浪姐",
-      "onboard_time": 1709342849,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 119726,
-      "num": 119726,
-      "word": "接下来两个月是养乳腺的好时机",
-      "onboard_time": 1709342731,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 118264,
@@ -603,20 +675,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115565,
-      "num": 115565,
-      "word": "巧克力张张包",
-      "onboard_time": 1709342011,
-      "rank": 44,
-      "category": "网红"
-    },
-    {
       "raw_hot": 114579,
       "num": 114579,
       "word": "别对我动心 crush文学",
       "onboard_time": 1709309130,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114473,
+      "num": 114473,
+      "word": "SHAKESHACK人均客单价85元",
+      "onboard_time": 1709343267,
+      "rank": 45,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 113580,
@@ -633,6 +705,14 @@
       "onboard_time": 1709307571,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102608,
+      "num": 102608,
+      "word": "Giselle罗意威",
+      "onboard_time": 1709344651,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 102318,
@@ -820,7 +900,7 @@
     },
     {
       "raw_hot": 49359,
-      "num": 747563,
+      "num": 846442,
       "word": "聚焦2024年全国两会",
       "onboard_time": 1709305832,
       "rank": 2,
