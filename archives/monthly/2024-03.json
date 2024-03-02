@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709392570123,
+  "endTime": 1709393644447,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1051951,
+      "num": 1051951,
+      "word": "迪丽热巴唇色",
+      "onboard_time": 1709386475,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1044248,
       "num": 1044248,
       "word": "林俊杰去了霉霉演唱会",
@@ -459,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 902228,
+      "num": 902228,
+      "word": "刘昊然男大味",
+      "onboard_time": 1709389953,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 879220,
       "num": 879220,
       "word": "车厘子榴莲山竹都便宜了",
@@ -491,20 +507,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 839920,
+      "num": 839920,
+      "word": "郑合惠子谈咖位不匹配",
+      "onboard_time": 1709391632,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 838603,
       "num": 838603,
       "word": "微信删除后加回来对方知道吗",
       "onboard_time": 1709257051,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 824273,
-      "num": 824273,
-      "word": "刘昊然男大味",
-      "onboard_time": 1709389953,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 823009,
@@ -923,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 617366,
+      "num": 274286,
+      "word": "和男朋友结不了婚又舍不得分手",
+      "onboard_time": 1709392355,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 616051,
       "num": 616051,
       "word": "市民排队为德州受伤学生献血",
@@ -1227,6 +1251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 513567,
+      "num": 513567,
+      "word": "快递员得知新规两天后离职",
+      "onboard_time": 1709392413,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512352,
       "num": 320142,
       "word": "以为很卫生其实很脏的行为",
@@ -1353,14 +1385,6 @@
       "onboard_time": 1709279913,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 470303,
-      "num": 275746,
-      "word": "郑合惠子谈咖位不匹配",
-      "onboard_time": 1709391632,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 469642,
@@ -1675,14 +1699,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 400090,
-      "num": 260191,
-      "word": "和男朋友结不了婚又舍不得分手",
-      "onboard_time": 1709392355,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 399078,
       "num": 399078,
       "word": "小团团前公会被执行44.57万",
@@ -1972,7 +1988,7 @@
     },
     {
       "raw_hot": 340666,
-      "num": 256142,
+      "num": 259612,
       "word": "14岁不舍得给自己花钱",
       "onboard_time": 1709390433,
       "rank": 24,
@@ -2227,12 +2243,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 297867,
+      "num": 225910,
+      "word": "迪丽热巴与发型师贴贴",
+      "onboard_time": 1709390735,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297422,
       "num": 297422,
       "word": "杨紫小夭入选年度人气角色",
       "onboard_time": 1709254174,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 295621,
+      "num": 295621,
+      "word": "一诺 不当团队拖后腿的",
+      "onboard_time": 1709392355,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 295587,
@@ -2297,14 +2329,6 @@
       "onboard_time": 1709362231,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 290935,
-      "num": 225910,
-      "word": "迪丽热巴与发型师贴贴",
-      "onboard_time": 1709390735,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 290600,
@@ -3235,14 +3259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198528,
-      "num": 252582,
-      "word": "一诺 不当团队拖后腿的",
-      "onboard_time": 1709392355,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 198291,
       "num": 198291,
       "word": "DYG状态",
@@ -3883,6 +3899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170154,
+      "num": 170154,
+      "word": "爱的另一个名字叫聊得来",
+      "onboard_time": 1709392232,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169785,
       "num": 169785,
       "word": "鞠婧祎姜黎非",
@@ -4259,6 +4283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155748,
+      "num": 155748,
+      "word": "朋友好像不知道我送的是黄金",
+      "onboard_time": 1709393195,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155592,
       "num": 155592,
       "word": "叶一茜晒全家福",
@@ -4483,6 +4515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143382,
+      "num": 143382,
+      "word": "周处除三害 女主线",
+      "onboard_time": 1709393493,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143226,
       "num": 143226,
       "word": "库里将迎来第4个孩子",
@@ -4659,14 +4699,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 136458,
-      "num": 136458,
-      "word": "爱的另一个名字叫聊得来",
-      "onboard_time": 1709392232,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 136287,
       "num": 136287,
       "word": "TES对战iG",
@@ -4809,14 +4841,6 @@
       "onboard_time": 1709359592,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 130749,
-      "num": 130749,
-      "word": "快递员得知新规两天后离职",
-      "onboard_time": 1709392413,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129806,

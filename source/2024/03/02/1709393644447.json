@@ -1,0 +1,410 @@
+{
+  "runTime": 1709393644447,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1172474,
+        "num": 1172474,
+        "word": "焉栩嘉承认谈过恋爱",
+        "onboard_time": 1709385692,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1051951,
+        "num": 1051951,
+        "word": "迪丽热巴唇色",
+        "onboard_time": 1709386475,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71049,
+        "num": 939784,
+        "word": "神十七乘组默契配合度满分",
+        "onboard_time": 1709385394,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 902228,
+        "num": 902228,
+        "word": "刘昊然男大味",
+        "onboard_time": 1709389953,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 839920,
+        "num": 839920,
+        "word": "郑合惠子谈咖位不匹配",
+        "onboard_time": 1709391632,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 624865,
+        "num": 624865,
+        "word": "娃哈哈一箱6板24瓶全是干货",
+        "onboard_time": 1709377169,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575624,
+        "num": 575624,
+        "word": "吴镇宇夸徐若晗是天才型演员",
+        "onboard_time": 1709390795,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513567,
+        "num": 513567,
+        "word": "快递员得知新规两天后离职",
+        "onboard_time": 1709392413,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363111,
+        "num": 363111,
+        "word": "女子造谣男同学是强奸犯致其被停学",
+        "onboard_time": 1709381193,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327207,
+        "num": 327207,
+        "word": "路飞最佳主角",
+        "onboard_time": 1709387974,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 718843,
+        "num": 321875,
+        "word": "满舒克",
+        "onboard_time": 1709366072,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601581,
+        "num": 317792,
+        "word": "娟子 怀孕",
+        "onboard_time": 1709364571,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 504221,
+        "num": 303952,
+        "word": "张睿曾以五阿哥自荐结果对方请了苏有朋",
+        "onboard_time": 1709382514,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369427,
+        "num": 297312,
+        "word": "高危HPV",
+        "onboard_time": 1709367333,
+        "rank": 13,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 295621,
+        "num": 295621,
+        "word": "一诺 不当团队拖后腿的",
+        "onboard_time": 1709392355,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 499759,
+        "num": 295278,
+        "word": "韩美娟模仿姚安娜",
+        "onboard_time": 1709387495,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 422678,
+        "num": 294312,
+        "word": "林俊杰去了霉霉演唱会",
+        "onboard_time": 1709385154,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 376660,
+        "num": 294208,
+        "word": "戚薇去浪姐了",
+        "onboard_time": 1709387974,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293315,
+        "num": 293315,
+        "word": "刘暖曦代理律师被认定违规炒作案件",
+        "onboard_time": 1709385874,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275295,
+        "num": 275295,
+        "word": "韩国民众排队4个小时告别福宝",
+        "onboard_time": 1709373032,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617366,
+        "num": 274286,
+        "word": "和男朋友结不了婚又舍不得分手",
+        "onboard_time": 1709392355,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 563825,
+        "num": 267860,
+        "word": "卵巢癌早就有信号可能被你忽略了",
+        "onboard_time": 1709386053,
+        "rank": 21,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 374246,
+        "num": 267186,
+        "word": "满舒克前女友发文",
+        "onboard_time": 1709368829,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342293,
+        "num": 259872,
+        "word": "姥姥去世一周后妈妈发的信息",
+        "onboard_time": 1709384195,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259612,
+        "num": 259612,
+        "word": "14岁不舍得给自己花钱",
+        "onboard_time": 1709390433,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235293,
+        "num": 235293,
+        "word": "昆明地震",
+        "onboard_time": 1709383175,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331490,
+        "num": 231580,
+        "word": "爱上阮经天",
+        "onboard_time": 1709376572,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 322875,
+        "num": 228436,
+        "word": "种地吧 洁柔",
+        "onboard_time": 1709390675,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309461,
+        "num": 226244,
+        "word": "严浩翔打赏事件女主播报警",
+        "onboard_time": 1709378556,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163888,
+        "num": 223507,
+        "word": "陈国豪太生猛了",
+        "onboard_time": 1709389538,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297867,
+        "num": 218822,
+        "word": "迪丽热巴与发型师贴贴",
+        "onboard_time": 1709390735,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259650,
+        "num": 215067,
+        "word": "你好星期六下期有张杰",
+        "onboard_time": 1709389774,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258725,
+        "num": 210167,
+        "word": "周处除三害 典故",
+        "onboard_time": 1709389892,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208108,
+        "num": 208108,
+        "word": "让人一周胖一斤的食物别敞开吃了",
+        "onboard_time": 1709378131,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189009,
+        "num": 189009,
+        "word": "你身上的班味其实是慢性疲劳",
+        "onboard_time": 1709388995,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 188820,
+        "num": 188820,
+        "word": "阮经天演技",
+        "onboard_time": 1709373751,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185610,
+        "num": 185610,
+        "word": "恋爱兄妹",
+        "onboard_time": 1709389174,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181715,
+        "num": 181715,
+        "word": "同事的午餐让我怀疑他有异食癖",
+        "onboard_time": 1709390194,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170154,
+        "num": 170154,
+        "word": "爱的另一个名字叫聊得来",
+        "onboard_time": 1709392232,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140641,
+        "num": 162371,
+        "word": "浙江90后女孩嫁给70后大叔",
+        "onboard_time": 1709386292,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175187,
+        "num": 161634,
+        "word": "姚安娜进组",
+        "onboard_time": 1709372972,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160766,
+        "num": 160766,
+        "word": "周处除三害封神镜头",
+        "onboard_time": 1709379989,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155748,
+        "num": 155748,
+        "word": "朋友好像不知道我送的是黄金",
+        "onboard_time": 1709393195,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153482,
+        "num": 153482,
+        "word": "张根硕近期状态",
+        "onboard_time": 1709384373,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143382,
+        "num": 143382,
+        "word": "周处除三害 女主线",
+        "onboard_time": 1709393493,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142229,
+        "num": 142229,
+        "word": "贡菜是不是晒干的莴笋",
+        "onboard_time": 1709391035,
+        "rank": 45,
+        "category": "美食,科学科普"
+      },
+      {
+        "raw_hot": 142112,
+        "num": 142112,
+        "word": "爸妈让我负责妹妹生活费",
+        "onboard_time": 1709387013,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141630,
+        "num": 141630,
+        "word": "伊能静56岁生图",
+        "onboard_time": 1709379513,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137890,
+        "num": 137890,
+        "word": "CBA",
+        "onboard_time": 1709391273,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78133,
+        "num": 137469,
+        "word": "原来南北方洗澡的差异这么大",
+        "onboard_time": 1709376332,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以更大力度推动我国新能源高质量发展#"
+    }
+  }
+}
