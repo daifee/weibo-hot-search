@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709356571632,
+  "endTime": 1709357640540,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -675,6 +675,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1686014,
+      "num": 1686014,
+      "word": "肝癌多半是作出来的",
+      "onboard_time": 1709354131,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1683101,
       "num": 1683101,
       "word": "建议取消强制自动续费",
@@ -849,14 +857,6 @@
       "onboard_time": 1708842273,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1488108,
-      "num": 1488108,
-      "word": "肝癌多半是作出来的",
-      "onboard_time": 1709354131,
-      "rank": 1,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1487774,
@@ -2193,6 +2193,14 @@
       "onboard_time": 1708955254,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 833804,
+      "num": 357392,
+      "word": "不要错把艾滋病当皮肤病",
+      "onboard_time": 1709356891,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 833780,
@@ -3811,6 +3819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 583501,
+      "num": 583501,
+      "word": "G社拍的杨幂出场",
+      "onboard_time": 1709355152,
+      "rank": 5,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 581852,
       "num": 581852,
       "word": "杨紫票房总成绩破80亿",
@@ -4065,14 +4081,6 @@
       "onboard_time": 1709003434,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 553666,
-      "num": 553666,
-      "word": "G社拍的杨幂出场",
-      "onboard_time": 1709355152,
-      "rank": 5,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 553059,
@@ -5811,6 +5819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 404806,
+      "num": 404806,
+      "word": "Jennie机场",
+      "onboard_time": 1709355572,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404720,
       "num": 299071,
       "word": "大伯在群里催婚被老爸杀疯了",
@@ -6331,14 +6347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 367793,
-      "num": 367793,
-      "word": "Jennie机场",
-      "onboard_time": 1709355572,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 367516,
       "num": 367516,
       "word": "柠檬宝宝0岁到100岁都可能发病",
@@ -6609,6 +6617,14 @@
       "onboard_time": 1708865134,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 352386,
+      "num": 352386,
+      "word": "小哥称武汉一中学区别对待师生外卖",
+      "onboard_time": 1709354910,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351386,
@@ -7249,6 +7265,14 @@
       "onboard_time": 1708956997,
       "rank": 48,
       "category": "军事,国内时政"
+    },
+    {
+      "raw_hot": 315190,
+      "num": 315190,
+      "word": "医生巧用砒霜挽救血癌女子生命",
+      "onboard_time": 1709355992,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315145,
@@ -7968,14 +7992,6 @@
       "word": "景区演员道具刀没了于是开始真演",
       "onboard_time": 1708893674,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281663,
-      "num": 281663,
-      "word": "小哥称武汉一中学区别对待师生外卖",
-      "onboard_time": 1709354910,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -9491,6 +9507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232622,
+      "num": 232622,
+      "word": "范丞丞或将当中国新说唱导师",
+      "onboard_time": 1709357370,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232325,
       "num": 232325,
       "word": "徐冬冬说跑龙套赚的钱够养自己",
@@ -10041,6 +10065,14 @@
       "onboard_time": 1708776639,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219438,
+      "num": 219438,
+      "word": "威少左手骨折",
+      "onboard_time": 1709356949,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 219343,
@@ -11337,6 +11369,14 @@
       "onboard_time": 1708864534,
       "rank": 38,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 196441,
+      "num": 196441,
+      "word": "人变丑可能是因为情绪性敏感",
+      "onboard_time": 1709356711,
+      "rank": 26,
+      "category": "情感,健康医疗"
     },
     {
       "raw_hot": 196259,
@@ -13619,6 +13659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165129,
+      "num": 165129,
+      "word": "成毅浪凡",
+      "onboard_time": 1709356109,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165018,
       "num": 165018,
       "word": "伯远努力努力白努力",
@@ -14225,14 +14273,6 @@
       "onboard_time": 1709026412,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 156484,
-      "num": 156484,
-      "word": "成毅浪凡",
-      "onboard_time": 1709356109,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 156386,
@@ -15251,12 +15291,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 141673,
+      "num": 141053,
+      "word": "女子自述遭遇职场霸凌办公桌贴满钟馗",
+      "onboard_time": 1709357370,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141392,
       "num": 141392,
       "word": "猫 妈妈那么做肯定有她的道理",
       "onboard_time": 1709121393,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141358,
+      "num": 141358,
+      "word": "农夫山泉",
+      "onboard_time": 1709357252,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141264,
@@ -15707,6 +15763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135310,
+      "num": 135310,
+      "word": "庆余年2海外先导预告",
+      "onboard_time": 1709357489,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135241,
       "num": 244122,
       "word": "慰安妇制度受害者刘年珍离世",
@@ -15833,6 +15897,14 @@
       "onboard_time": 1708824094,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 133002,
+      "num": 176737,
+      "word": "退伍兵哥哥戴着大红花冲去救人",
+      "onboard_time": 1709355810,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132919,
@@ -16883,6 +16955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113551,
+      "num": 113551,
+      "word": "一句话给2024的自己加油",
+      "onboard_time": 1709357252,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113362,
       "num": 113362,
       "word": "武藏发型奇怪的原因",
@@ -17243,14 +17323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 102545,
-      "num": 166929,
-      "word": "退伍兵哥哥戴着大红花冲去救人",
-      "onboard_time": 1709355810,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102193,
       "num": 102193,
       "word": "家长吐槽社会实践作业毫无意义",
@@ -17264,14 +17336,6 @@
       "word": "车辆着火男子又扶又拽救下2人",
       "onboard_time": 1709105314,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100427,
-      "num": 100427,
-      "word": "医生巧用砒霜挽救血癌女子生命",
-      "onboard_time": 1709355992,
-      "rank": 49,
       "category": "社会新闻"
     },
     {

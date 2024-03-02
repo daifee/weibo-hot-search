@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709356571632,
+  "endTime": 1709357640540,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -91,6 +91,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1686014,
+      "num": 1686014,
+      "word": "肝癌多半是作出来的",
+      "onboard_time": 1709354131,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1683101,
       "num": 1683101,
       "word": "建议取消强制自动续费",
@@ -137,14 +145,6 @@
       "onboard_time": 1709338949,
       "rank": 10,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1488108,
-      "num": 1488108,
-      "word": "肝癌多半是作出来的",
-      "onboard_time": 1709354131,
-      "rank": 1,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1487774,
@@ -353,6 +353,14 @@
       "onboard_time": 1709257051,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 833804,
+      "num": 357392,
+      "word": "不要错把艾滋病当皮肤病",
+      "onboard_time": 1709356891,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 823009,
@@ -667,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 583501,
+      "num": 583501,
+      "word": "G社拍的杨幂出场",
+      "onboard_time": 1709355152,
+      "rank": 5,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 580111,
       "num": 580111,
       "word": "没想到都三月份还在穿羽绒服",
@@ -721,14 +737,6 @@
       "onboard_time": 1709283033,
       "rank": 7,
       "category": "动漫,艺人"
-    },
-    {
-      "raw_hot": 553666,
-      "num": 553666,
-      "word": "G社拍的杨幂出场",
-      "onboard_time": 1709355152,
-      "rank": 5,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 551851,
@@ -1163,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404806,
+      "num": 404806,
+      "word": "Jennie机场",
+      "onboard_time": 1709355572,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403924,
       "num": 235855,
       "word": "5个最耗气血的行为",
@@ -1307,14 +1323,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 367793,
-      "num": 367793,
-      "word": "Jennie机场",
-      "onboard_time": 1709355572,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 365834,
       "num": 365834,
       "word": "梅西发视频庆祝粉丝破5亿",
@@ -1337,6 +1345,14 @@
       "onboard_time": 1709301632,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 352386,
+      "num": 352386,
+      "word": "小哥称武汉一中学区别对待师生外卖",
+      "onboard_time": 1709354910,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351002,
@@ -1507,6 +1523,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 315190,
+      "num": 315190,
+      "word": "医生巧用砒霜挽救血癌女子生命",
+      "onboard_time": 1709355992,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314995,
       "num": 314995,
       "word": "米店日",
@@ -1649,14 +1673,6 @@
       "onboard_time": 1709318118,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281663,
-      "num": 281663,
-      "word": "小哥称武汉一中学区别对待师生外卖",
-      "onboard_time": 1709354910,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280807,
@@ -1907,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232622,
+      "num": 232622,
+      "word": "范丞丞或将当中国新说唱导师",
+      "onboard_time": 1709357370,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229693,
       "num": 229693,
       "word": "吃赛百味被价格背刺了",
@@ -1977,6 +2001,14 @@
       "onboard_time": 1709298931,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 219438,
+      "num": 219438,
+      "word": "威少左手骨折",
+      "onboard_time": 1709356949,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 219343,
@@ -2297,6 +2329,14 @@
       "onboard_time": 1709264972,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196441,
+      "num": 196441,
+      "word": "人变丑可能是因为情绪性敏感",
+      "onboard_time": 1709356711,
+      "rank": 26,
+      "category": "情感,健康医疗"
     },
     {
       "raw_hot": 195790,
@@ -2755,6 +2795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165129,
+      "num": 165129,
+      "word": "成毅浪凡",
+      "onboard_time": 1709356109,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 164931,
       "num": 164931,
       "word": "卓沅 十个勤天卖菜啦",
@@ -2937,14 +2985,6 @@
       "onboard_time": 1709347830,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 156484,
-      "num": 156484,
-      "word": "成毅浪凡",
-      "onboard_time": 1709356109,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 156162,
@@ -3195,6 +3235,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 141673,
+      "num": 141053,
+      "word": "女子自述遭遇职场霸凌办公桌贴满钟馗",
+      "onboard_time": 1709357370,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 141358,
+      "num": 141358,
+      "word": "农夫山泉",
+      "onboard_time": 1709357252,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141045,
       "num": 141045,
       "word": "助教邵明明回来了",
@@ -3323,6 +3379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135310,
+      "num": 135310,
+      "word": "庆余年2海外先导预告",
+      "onboard_time": 1709357489,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134981,
       "num": 134981,
       "word": "3月第一天的打开方式",
@@ -3353,6 +3417,14 @@
       "onboard_time": 1709338286,
       "rank": 41,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 133002,
+      "num": 176737,
+      "word": "退伍兵哥哥戴着大红花冲去救人",
+      "onboard_time": 1709355810,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132896,
@@ -3675,6 +3747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113551,
+      "num": 113551,
+      "word": "一句话给2024的自己加油",
+      "onboard_time": 1709357252,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113362,
       "num": 113362,
       "word": "武藏发型奇怪的原因",
@@ -3819,28 +3899,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 102545,
-      "num": 166929,
-      "word": "退伍兵哥哥戴着大红花冲去救人",
-      "onboard_time": 1709355810,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102193,
       "num": 102193,
       "word": "家长吐槽社会实践作业毫无意义",
       "onboard_time": 1709335282,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 100427,
-      "num": 100427,
-      "word": "医生巧用砒霜挽救血癌女子生命",
-      "onboard_time": 1709355992,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99813,
