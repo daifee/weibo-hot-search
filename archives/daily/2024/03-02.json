@@ -1,6 +1,6 @@
 {
   "startTime": 1709310056019,
-  "endTime": 1709360562278,
+  "endTime": 1709361265850,
   "band_list": [
     {
       "raw_hot": 2650152,
@@ -75,7 +75,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1181044,
+      "raw_hot": 1186359,
       "num": 367173,
       "word": "不要错把艾滋病当皮肤病",
       "onboard_time": 1709356891,
@@ -115,6 +115,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 857471,
+      "num": 857471,
+      "word": "范丞丞或将当中国新说唱导师",
+      "onboard_time": 1709357370,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 808066,
       "num": 808066,
       "word": "中传回应点读机女孩休学",
@@ -137,14 +145,6 @@
       "onboard_time": 1709340812,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 774379,
-      "num": 774379,
-      "word": "范丞丞或将当中国新说唱导师",
-      "onboard_time": 1709357370,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 768152,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644370,
+      "num": 644370,
+      "word": "农夫山泉",
+      "onboard_time": 1709357252,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 605505,
       "num": 605505,
       "word": "王栎鑫比许凯了解谭松韵",
@@ -251,11 +259,11 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 556568,
-      "num": 556568,
-      "word": "农夫山泉",
-      "onboard_time": 1709357252,
-      "rank": 34,
+      "raw_hot": 575498,
+      "num": 575498,
+      "word": "吴谢宇案死刑复核裁定书",
+      "onboard_time": 1709358990,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -273,6 +281,14 @@
       "onboard_time": 1709307210,
       "rank": 7,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 530885,
+      "num": 530885,
+      "word": "女子自述遭遇职场霸凌办公桌贴满钟馗",
+      "onboard_time": 1709357370,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 526821,
@@ -313,22 +329,6 @@
       "onboard_time": 1709347111,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 475952,
-      "num": 475952,
-      "word": "吴谢宇案死刑复核裁定书",
-      "onboard_time": 1709358990,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 471502,
-      "num": 299156,
-      "word": "女子自述遭遇职场霸凌办公桌贴满钟馗",
-      "onboard_time": 1709357370,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 462297,
@@ -451,20 +451,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 369314,
+      "num": 244758,
+      "word": "狗 这下该我了",
+      "onboard_time": 1709357911,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 365834,
       "num": 365834,
       "word": "梅西发视频庆祝粉丝破5亿",
       "onboard_time": 1709348011,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 356118,
-      "num": 244758,
-      "word": "狗 这下该我了",
-      "onboard_time": 1709357911,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 352386,
@@ -513,6 +513,14 @@
       "onboard_time": 1709354553,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 333217,
+      "num": 158368,
+      "word": "陈乔恩回应去豪宅后对艾伦转变态度",
+      "onboard_time": 1709360969,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 327053,
@@ -617,6 +625,14 @@
       "onboard_time": 1709321537,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253442,
+      "num": 213782,
+      "word": "月入4000女子谈为何不想生",
+      "onboard_time": 1709359713,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248479,
@@ -819,20 +835,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 194021,
+      "num": 194021,
+      "word": "神十七乘组圆满完成第2次出舱",
+      "onboard_time": 1709360671,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 191544,
       "num": 191544,
       "word": "上班搭子离职了比分手还难受",
       "onboard_time": 1709304394,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 188781,
-      "num": 153364,
-      "word": "月入4000女子谈为何不想生",
-      "onboard_time": 1709359713,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 184838,
@@ -888,6 +904,14 @@
       "word": "鞠婧祎姜黎非",
       "onboard_time": 1709351129,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167429,
+      "num": 167429,
+      "word": "张云龙狐妖竹业篇生日海报",
+      "onboard_time": 1709360790,
+      "rank": 27,
       "category": "剧集"
     },
     {
