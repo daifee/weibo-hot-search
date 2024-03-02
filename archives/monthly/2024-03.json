@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709418833255,
+  "endTime": 1709421415805,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -1948,7 +1948,7 @@
     },
     {
       "raw_hot": 355926,
-      "num": 204901,
+      "num": 266733,
       "word": "董明珠回应玫瑰空调遭吐槽",
       "onboard_time": 1709396488,
       "rank": 39,
@@ -4843,6 +4843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134566,
+      "num": 108672,
+      "word": "瓦伦西亚2比2皇马",
+      "onboard_time": 1709420899,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134393,
       "num": 134393,
       "word": "被父母拆散的爱情后来怎么样了",
@@ -4896,6 +4904,14 @@
       "word": "陈丽君到达长沙",
       "onboard_time": 1709382991,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131762,
+      "num": 131762,
+      "word": "王锵因长相被古装剧组拒绝",
+      "onboard_time": 1709408117,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -5531,6 +5547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104659,
+      "num": 57822,
+      "word": "全红婵陈芋汐世界杯五连冠",
+      "onboard_time": 1709420780,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104343,
       "num": 104343,
       "word": "陆时砚 惧内的男人最好命",
@@ -5593,6 +5617,14 @@
       "onboard_time": 1709335282,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 101119,
+      "num": 101119,
+      "word": "五美组合将重组",
+      "onboard_time": 1709407277,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 99815,
@@ -5788,7 +5820,7 @@
     },
     {
       "raw_hot": 85888,
-      "num": 48963,
+      "num": 83900,
       "word": "杨超越到巴黎倒头就睡",
       "onboard_time": 1709415735,
       "rank": 11,
@@ -5851,12 +5883,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76017,
-      "num": 76017,
-      "word": "王锵因长相被古装剧组拒绝",
-      "onboard_time": 1709408117,
+      "raw_hot": 75907,
+      "num": 68736,
+      "word": "喝过的饮料放1天还能喝吗",
+      "onboard_time": 1709420539,
       "rank": 24,
-      "category": "综艺"
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 75821,
@@ -5947,14 +5979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 63135,
-      "num": 41109,
-      "word": "五美组合将重组",
-      "onboard_time": 1709407277,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 62865,
       "num": 62865,
       "word": "接下来一个月河南的餐桌",
@@ -5987,12 +6011,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60171,
+      "num": 60171,
+      "word": "有一种演技叫眼技",
+      "onboard_time": 1709418796,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 59641,
+      "num": 59641,
+      "word": "气血不足的10个典型表现",
+      "onboard_time": 1709414416,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 59188,
       "num": 59188,
       "word": "理查德刘易斯去世",
       "onboard_time": 1709241135,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58002,
+      "num": 65255,
+      "word": "清明上河园小乞丐反被游客要吃的",
+      "onboard_time": 1709399425,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57604,
@@ -6003,12 +6051,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55140,
-      "num": 65255,
-      "word": "清明上河园小乞丐反被游客要吃的",
-      "onboard_time": 1709399425,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 55053,
+      "num": 55053,
+      "word": "身高体重填反了",
+      "onboard_time": 1709421379,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 54331,
@@ -6091,6 +6139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48081,
+      "num": 48081,
+      "word": "身体5个表现可能是肝病了",
+      "onboard_time": 1709419997,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 47230,
       "num": 47230,
       "word": "3岁前到底有没有记忆",
@@ -6155,6 +6211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39534,
+      "num": 39534,
+      "word": "身体这两个地方千万别冻着",
+      "onboard_time": 1709421379,
+      "rank": 44,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 36037,
       "num": 36037,
       "word": "蹭麻辣烫三个月流浪狗的变化",
@@ -6203,6 +6267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32031,
+      "num": 32031,
+      "word": "为何逛大润发的人越来越少了",
+      "onboard_time": 1709421320,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31347,
       "num": 31347,
       "word": "虞书欣牛奶肌",
@@ -6225,14 +6297,6 @@
       "onboard_time": 1709397568,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27398,
-      "num": 27398,
-      "word": "气血不足的10个典型表现",
-      "onboard_time": 1709414416,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 26138,
@@ -6345,14 +6409,6 @@
       "onboard_time": 1709235555,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12403,
-      "num": 17445,
-      "word": "有一种演技叫眼技",
-      "onboard_time": 1709418796,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 12247,
