@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709393644447,
+  "endTime": 1709396411859,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -105,6 +105,14 @@
       "onboard_time": 1709349154,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1919191,
+      "num": 1919191,
+      "word": "快递员得知新规两天后离职",
+      "onboard_time": 1709392413,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1906470,
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 733036,
-      "num": 277817,
+      "num": 616557,
       "word": "卵巢癌早就有信号可能被你忽略了",
       "onboard_time": 1709386053,
       "rank": 23,
@@ -1187,6 +1195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 527691,
+      "num": 340895,
+      "word": "欲买桂花同载酒 终不似少年游",
+      "onboard_time": 1709393971,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 526821,
       "num": 526821,
       "word": "倒春寒真的要来了",
@@ -1209,6 +1225,14 @@
       "onboard_time": 1709273131,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 524473,
+      "num": 524473,
+      "word": "花楼",
+      "onboard_time": 1709393850,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 523806,
@@ -1249,14 +1273,6 @@
       "onboard_time": 1709373751,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 513567,
-      "num": 513567,
-      "word": "快递员得知新规两天后离职",
-      "onboard_time": 1709392413,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 512352,
@@ -1345,6 +1361,14 @@
       "onboard_time": 1709270014,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 487780,
+      "num": 487780,
+      "word": "大侦探9有王鸥",
+      "onboard_time": 1709393669,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 485796,
@@ -2131,6 +2155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 317350,
+      "num": 317350,
+      "word": "在新加坡做外卖生意收入过亿",
+      "onboard_time": 1709393669,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316439,
       "num": 400066,
       "word": "加沙10名儿童被官方登记为饿死",
@@ -2603,6 +2635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 248459,
+      "num": 192489,
+      "word": "朋友好像不知道我送的是黄金",
+      "onboard_time": 1709393195,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 246909,
       "num": 204406,
       "word": "种地吧生活直播",
@@ -2705,6 +2745,14 @@
       "onboard_time": 1709376811,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 235671,
+      "num": 189415,
+      "word": "枭起青壤要开机了",
+      "onboard_time": 1709394694,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 235661,
@@ -4115,6 +4163,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 161593,
+      "num": 143984,
+      "word": "周杰伦王力宏林俊杰给陶喆送花篮",
+      "onboard_time": 1709396127,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 161347,
       "num": 161347,
       "word": "原来挑食是大脑在保护你",
@@ -4280,14 +4336,6 @@
       "word": "返校的时候行李箱吐了",
       "onboard_time": 1709269954,
       "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 155748,
-      "num": 155748,
-      "word": "朋友好像不知道我送的是黄金",
-      "onboard_time": 1709393195,
-      "rank": 42,
       "category": "幽默"
     },
     {
@@ -5147,6 +5195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 118664,
+      "num": 118664,
+      "word": "王净戏份",
+      "onboard_time": 1709395829,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118304,
       "num": 282304,
       "word": "王者荣耀最佳天菜舞蹈挑战",
@@ -5785,6 +5841,14 @@
       "onboard_time": 1709345250,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 68401,
+      "num": 139992,
+      "word": "万磊满分扣篮",
+      "onboard_time": 1709394933,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 67652,
