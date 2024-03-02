@@ -1,0 +1,410 @@
+{
+  "runTime": 1709364856054,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1587878,
+        "num": 1587878,
+        "word": "贾玲半披发",
+        "onboard_time": 1709361930,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 721384,
+        "num": 721384,
+        "word": "陈乔恩回应去豪宅后对艾伦转变态度",
+        "onboard_time": 1709360969,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47089,
+        "num": 690293,
+        "word": "神十七乘组圆满完成第2次出舱",
+        "onboard_time": 1709360671,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 678137,
+        "num": 678137,
+        "word": "地铁上偶遇吴磊",
+        "onboard_time": 1709363431,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509886,
+        "num": 509886,
+        "word": "范丞丞或将当中国新说唱导师",
+        "onboard_time": 1709357370,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411125,
+        "num": 411125,
+        "word": "女子自述遭遇职场霸凌办公桌贴满钟馗",
+        "onboard_time": 1709357370,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401913,
+        "num": 401913,
+        "word": "娃哈哈",
+        "onboard_time": 1709361629,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377652,
+        "num": 377652,
+        "word": "吴谢宇案死刑复核裁定书",
+        "onboard_time": 1709358990,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326398,
+        "num": 326398,
+        "word": "蔡英文办公室卫兵自戕现场画面",
+        "onboard_time": 1709357731,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326134,
+        "num": 326134,
+        "word": "娟子 怀孕",
+        "onboard_time": 1709364571,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 768121,
+        "num": 322633,
+        "word": "不要错把艾滋病当皮肤病",
+        "onboard_time": 1709356891,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 610397,
+        "num": 318809,
+        "word": "UNIQ",
+        "onboard_time": 1709361270,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549412,
+        "num": 312401,
+        "word": "找到了4000工资花不完的方法",
+        "onboard_time": 1709349154,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 492201,
+        "num": 308558,
+        "word": "肝癌多半是作出来的",
+        "onboard_time": 1709354131,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 307486,
+        "num": 307486,
+        "word": "脂肪肝严重可能发展为肝癌",
+        "onboard_time": 1709358813,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 472404,
+        "num": 305349,
+        "word": "网曝村干部坐拥60亩地用40亩盖别墅高楼",
+        "onboard_time": 1709363011,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291153,
+        "num": 291153,
+        "word": "胡先煦又偷着做背德饭",
+        "onboard_time": 1709362231,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36594,
+        "num": 287766,
+        "word": "2024全国两会这些看点值得关注",
+        "onboard_time": 1709364571,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 285113,
+        "num": 285113,
+        "word": "网红主播小马哥夫妇偷税被罚317万",
+        "onboard_time": 1709351852,
+        "rank": 18,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 282334,
+        "num": 282334,
+        "word": "小S公公",
+        "onboard_time": 1709348492,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277281,
+        "num": 277281,
+        "word": "工藤新一卫衣",
+        "onboard_time": 1709354790,
+        "rank": 20,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 270241,
+        "num": 270241,
+        "word": "青云台",
+        "onboard_time": 1709363370,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265804,
+        "num": 265804,
+        "word": "女子误将六角恐龙烫伤又用碘伏消毒",
+        "onboard_time": 1709362109,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263759,
+        "num": 263759,
+        "word": "庆余年2海外先导预告",
+        "onboard_time": 1709357489,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91458,
+        "num": 259372,
+        "word": "中国航天员首次完成舱外维修任务",
+        "onboard_time": 1709363792,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 258490,
+        "num": 258490,
+        "word": "月入4000女子谈为何不想生",
+        "onboard_time": 1709359713,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257696,
+        "num": 257696,
+        "word": "我妈把亲戚的工作搞丢了",
+        "onboard_time": 1709364331,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15800,
+        "num": 252253,
+        "word": "全国两会常用表述辨析",
+        "onboard_time": 1709337506,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 249484,
+        "num": 249484,
+        "word": "医生巧用砒霜挽救血癌女子生命",
+        "onboard_time": 1709355992,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211784,
+        "num": 211784,
+        "word": "女子推理社第二季",
+        "onboard_time": 1709364150,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205595,
+        "num": 205595,
+        "word": "赵今麦系带粉裙",
+        "onboard_time": 1709359109,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193591,
+        "num": 193591,
+        "word": "狗 这下该我了",
+        "onboard_time": 1709357911,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183363,
+        "num": 183363,
+        "word": "谭松韵许凯牵手转圈搂",
+        "onboard_time": 1709363192,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168536,
+        "num": 168536,
+        "word": "无效式恋爱",
+        "onboard_time": 1709362289,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167381,
+        "num": 167381,
+        "word": "G社拍的杨幂出场",
+        "onboard_time": 1709355152,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158144,
+        "num": 158144,
+        "word": "适时休息能让身体恢复和滋养",
+        "onboard_time": 1709363731,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 155068,
+        "num": 155068,
+        "word": "吴镇宇打断向佐表演",
+        "onboard_time": 1709364451,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139346,
+        "num": 139346,
+        "word": "陈丽君 浪姐",
+        "onboard_time": 1709345013,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130754,
+        "num": 130754,
+        "word": "零跑发布会",
+        "onboard_time": 1709364750,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129695,
+        "num": 129695,
+        "word": "周处除三害",
+        "onboard_time": 1709352329,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128975,
+        "num": 128975,
+        "word": "爆蛋炒饭",
+        "onboard_time": 1709362710,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127243,
+        "num": 127243,
+        "word": "王栎鑫是谭松韵影迷会的会长",
+        "onboard_time": 1709349990,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124391,
+        "num": 124391,
+        "word": "巴黎奥运会虚拟奖牌榜预测",
+        "onboard_time": 1709361629,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122820,
+        "num": 122820,
+        "word": "Jennie机场",
+        "onboard_time": 1709355572,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120715,
+        "num": 120715,
+        "word": "人变丑可能是因为情绪性敏感",
+        "onboard_time": 1709356711,
+        "rank": 44,
+        "category": "情感,健康医疗"
+      },
+      {
+        "raw_hot": 118149,
+        "num": 118149,
+        "word": "VG对战TTG",
+        "onboard_time": 1709361452,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117424,
+        "num": 117424,
+        "word": "倒春寒",
+        "onboard_time": 1709364815,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116914,
+        "num": 116914,
+        "word": "沧州雄狮vs北京国安",
+        "onboard_time": 1709364451,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116810,
+        "num": 116810,
+        "word": "暗恋是一个人的地动山摇",
+        "onboard_time": 1709363611,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110586,
+        "num": 110586,
+        "word": "章泽天给新手妈妈送关爱礼包",
+        "onboard_time": 1709348731,
+        "rank": 49,
+        "category": "互联网,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢记初心使命顽强拼搏进取#"
+    }
+  }
+}
