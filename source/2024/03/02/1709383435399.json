@@ -1,0 +1,410 @@
+{
+  "runTime": 1709383435399,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1699140,
+        "num": 1699140,
+        "word": "娃哈哈一箱6板24瓶全是干货",
+        "onboard_time": 1709377169,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1100600,
+        "num": 1100600,
+        "word": "严浩翔打赏事件女主播报警",
+        "onboard_time": 1709378556,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38217,
+        "num": 696097,
+        "word": "2024全国两会这些看点值得关注",
+        "onboard_time": 1709364571,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1364146,
+        "num": 679634,
+        "word": "HPV感染就像生殖道经历一场感冒",
+        "onboard_time": 1709379874,
+        "rank": 3,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 644596,
+        "num": 644596,
+        "word": "向琴琴入学新乡医学院",
+        "onboard_time": 1709379692,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 626093,
+        "num": 626093,
+        "word": "女硕士怀二胎辞职带娃4年再求职碰壁大哭",
+        "onboard_time": 1709374652,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562227,
+        "num": 562227,
+        "word": "杨幂爸爸独家照片",
+        "onboard_time": 1709377712,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559710,
+        "num": 559710,
+        "word": "爱上阮经天",
+        "onboard_time": 1709376572,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 499898,
+        "num": 499898,
+        "word": "伊能静56岁生图",
+        "onboard_time": 1709379513,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479338,
+        "num": 479338,
+        "word": "女子造谣男同学是强奸犯致其被停学",
+        "onboard_time": 1709381193,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1465868,
+        "num": 475918,
+        "word": "满舒克",
+        "onboard_time": 1709366072,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 789939,
+        "num": 458964,
+        "word": "娟子 怀孕",
+        "onboard_time": 1709364571,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 628005,
+        "num": 444452,
+        "word": "高危HPV",
+        "onboard_time": 1709367333,
+        "rank": 12,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 412371,
+        "num": 412371,
+        "word": "昆明地震",
+        "onboard_time": 1709383175,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44955,
+        "num": 350727,
+        "word": "上天猫抢你好星期六明星同款",
+        "onboard_time": 1709380832,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 706735,
+        "num": 350128,
+        "word": "满舒克前女友发文",
+        "onboard_time": 1709368829,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 620193,
+        "num": 349848,
+        "word": "张睿曾以五阿哥自荐结果对方请了苏有朋",
+        "onboard_time": 1709382514,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349237,
+        "num": 349237,
+        "word": "韩国民众排队4个小时告别福宝",
+        "onboard_time": 1709373032,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301387,
+        "num": 301387,
+        "word": "男朋友把我的隐私问题往外说",
+        "onboard_time": 1709370628,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219083,
+        "num": 219083,
+        "word": "间谍过家家 次瓜亲吻",
+        "onboard_time": 1709373329,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 404276,
+        "num": 218748,
+        "word": "让人一周胖一斤的食物别敞开吃了",
+        "onboard_time": 1709378131,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 392755,
+        "num": 218353,
+        "word": "Rihanna印度富豪婚礼演唱",
+        "onboard_time": 1709381433,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327592,
+        "num": 215590,
+        "word": "张小斐主演电影票房破100亿",
+        "onboard_time": 1709381974,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210166,
+        "num": 210166,
+        "word": "为何麻辣烫越来越贵了",
+        "onboard_time": 1709377293,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168883,
+        "num": 168883,
+        "word": "打了唇钉后喝水真的会漏水",
+        "onboard_time": 1709382032,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 322259,
+        "num": 167693,
+        "word": "姚安娜进组",
+        "onboard_time": 1709372972,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316812,
+        "num": 166128,
+        "word": "侃爷惹怒老丈人",
+        "onboard_time": 1709377169,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296266,
+        "num": 162355,
+        "word": "文韬济南",
+        "onboard_time": 1709381132,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156620,
+        "num": 156620,
+        "word": "原来南北方洗澡的差异这么大",
+        "onboard_time": 1709376332,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150096,
+        "num": 150096,
+        "word": "日本长野县发生雪崩或有10人被困",
+        "onboard_time": 1709380832,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286766,
+        "num": 149974,
+        "word": "你好星期六",
+        "onboard_time": 1709380355,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237831,
+        "num": 147664,
+        "word": "周处除三害封神镜头",
+        "onboard_time": 1709379989,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206474,
+        "num": 146988,
+        "word": "贾玲半披发",
+        "onboard_time": 1709361930,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159436,
+        "num": 145874,
+        "word": "LNG bsyy",
+        "onboard_time": 1709377831,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145167,
+        "num": 145167,
+        "word": "女子误将六角恐龙烫伤又用碘伏消毒",
+        "onboard_time": 1709362109,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183520,
+        "num": 143932,
+        "word": "迪丽热巴裹毛毯上班",
+        "onboard_time": 1709374230,
+        "rank": 35,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 180940,
+        "num": 142655,
+        "word": "金晨的皮肤状态",
+        "onboard_time": 1709378795,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139978,
+        "num": 139978,
+        "word": "张凯 bp有问题会反省",
+        "onboard_time": 1709382575,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132764,
+        "num": 132764,
+        "word": "确诊淡人",
+        "onboard_time": 1709378672,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132739,
+        "num": 132739,
+        "word": "肝癌多半是作出来的",
+        "onboard_time": 1709354131,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169186,
+        "num": 132572,
+        "word": "阮经天演技",
+        "onboard_time": 1709373751,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162183,
+        "num": 132495,
+        "word": "石凯深圳",
+        "onboard_time": 1709380653,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161636,
+        "num": 132463,
+        "word": "沈梦辰在巴黎被冻到过敏",
+        "onboard_time": 1709368352,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132336,
+        "num": 132336,
+        "word": "陈丽君到达长沙",
+        "onboard_time": 1709382991,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126070,
+        "num": 126070,
+        "word": "崔杋圭solo舞台",
+        "onboard_time": 1709381974,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219207,
+        "num": 125332,
+        "word": "吞海 档案袋",
+        "onboard_time": 1709379272,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 127580,
+        "num": 125154,
+        "word": "阮经天好懂",
+        "onboard_time": 1709383232,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123451,
+        "num": 123451,
+        "word": "成都蓉城主场上座率",
+        "onboard_time": 1709382751,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117580,
+        "num": 117580,
+        "word": "易建联观战全明星星锐赛",
+        "onboard_time": 1709383232,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116792,
+        "num": 116792,
+        "word": "教嘴笨的人一个万能方法",
+        "onboard_time": 1709376811,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与代表委员议国是#"
+    }
+  }
+}
