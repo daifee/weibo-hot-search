@@ -1,10 +1,10 @@
 {
   "startTime": 1709310056019,
-  "endTime": 1709372044156,
+  "endTime": 1709374594494,
   "band_list": [
     {
       "raw_hot": 2973604,
-      "num": 295581,
+      "num": 300874,
       "word": "满舒克",
       "onboard_time": 1709366072,
       "rank": 10,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 950770,
+      "num": 950770,
+      "word": "沈梦辰在巴黎被冻到过敏",
+      "onboard_time": 1709368352,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 942306,
       "num": 942306,
       "word": "工藤新一卫衣",
@@ -169,14 +177,6 @@
       "onboard_time": 1709357370,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 856287,
-      "num": 856287,
-      "word": "沈梦辰在巴黎被冻到过敏",
-      "onboard_time": 1709368352,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 808066,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 660776,
+      "num": 294944,
+      "word": "男朋友把我的隐私问题往外说",
+      "onboard_time": 1709370628,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 644370,
       "num": 644370,
       "word": "农夫山泉",
@@ -307,12 +315,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644356,
+      "num": 644356,
+      "word": "姚安娜进组",
+      "onboard_time": 1709372972,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 605505,
       "num": 605505,
       "word": "王栎鑫比许凯了解谭松韵",
       "onboard_time": 1709349751,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 590083,
+      "num": 287347,
+      "word": "爱情公寓是懂大学生就业的",
+      "onboard_time": 1709372549,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 583501,
@@ -363,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 560735,
-      "num": 282863,
-      "word": "男朋友把我的隐私问题往外说",
-      "onboard_time": 1709370628,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 542896,
       "num": 542896,
       "word": "张翰工作室起诉昕影影业",
@@ -385,6 +401,14 @@
       "onboard_time": 1709307210,
       "rank": 7,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 531736,
+      "num": 531736,
+      "word": "韩国民众排队4个小时告别福宝",
+      "onboard_time": 1709373032,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 530885,
@@ -425,6 +449,14 @@
       "onboard_time": 1709355992,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495552,
+      "num": 495552,
+      "word": "IU演唱会",
+      "onboard_time": 1709372613,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 494429,
@@ -497,6 +529,14 @@
       "onboard_time": 1709357731,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424927,
+      "num": 424927,
+      "word": "英雄联盟官方回应霸哥事件",
+      "onboard_time": 1709373392,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 418536,
@@ -739,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300929,
+      "num": 300929,
+      "word": "阮经天演技",
+      "onboard_time": 1709373751,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 291384,
       "num": 291384,
       "word": "知情人士称小团团疑涉案金额太大",
@@ -809,6 +857,14 @@
       "onboard_time": 1709362109,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265739,
+      "num": 265739,
+      "word": "间谍过家家 次瓜亲吻",
+      "onboard_time": 1709373329,
+      "rank": 21,
+      "category": "动漫"
     },
     {
       "raw_hot": 264034,
@@ -1051,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202769,
+      "num": 177840,
+      "word": "周处除三害 辩证看待恶",
+      "onboard_time": 1709373870,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200848,
       "num": 200848,
       "word": "属于自己的奖金被别人平分了",
@@ -1163,6 +1227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190110,
+      "num": 351314,
+      "word": "河南一村靠种番茄大龄剩男全脱单",
+      "onboard_time": 1709373692,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189982,
       "num": 189982,
       "word": "谭松韵许凯牵手转圈搂",
@@ -1187,12 +1259,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187451,
+      "num": 187451,
+      "word": "辛芷蕾穿豹纹",
+      "onboard_time": 1709373512,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184838,
       "num": 167998,
       "word": "爸爸托梦帮我打赢了官司",
       "onboard_time": 1709345486,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 184687,
+      "num": 184687,
+      "word": "迪丽热巴裹毛毯上班",
+      "onboard_time": 1709374230,
+      "rank": 27,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 183449,
@@ -1275,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173246,
+      "num": 173246,
+      "word": "张凌赫无框镜",
+      "onboard_time": 1709369614,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172302,
       "num": 172302,
       "word": "VG对战TTG",
@@ -1291,11 +1387,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168833,
-      "num": 168833,
-      "word": "张凌赫无框镜",
-      "onboard_time": 1709369614,
-      "rank": 40,
+      "raw_hot": 168458,
+      "num": 168458,
+      "word": "全员加速中 抓鸡",
+      "onboard_time": 1709371891,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -1347,12 +1443,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159811,
+      "num": 159811,
+      "word": "赵露思方否认演青云台",
+      "onboard_time": 1709374350,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159517,
       "num": 159517,
       "word": "约等于把宿傩封印在阳间",
       "onboard_time": 1709352871,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 158436,
+      "num": 158436,
+      "word": "看起来热量很高实际热量很低的食物",
+      "onboard_time": 1709372011,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 158144,
@@ -1475,11 +1587,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146800,
+      "num": 146800,
+      "word": "AG对战RNGM",
+      "onboard_time": 1709372613,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146490,
       "num": 146490,
       "word": "张栋梁台词",
       "onboard_time": 1709367691,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145912,
+      "num": 145912,
+      "word": "TXT FANLIVE",
+      "onboard_time": 1709374412,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1611,6 +1739,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 129724,
+      "num": 177979,
+      "word": "沧州雄狮0比2北京国安",
+      "onboard_time": 1709373211,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128975,
       "num": 128975,
       "word": "爆蛋炒饭",
@@ -1641,14 +1777,6 @@
       "onboard_time": 1709304513,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 126638,
-      "num": 126638,
-      "word": "全员加速中 抓鸡",
-      "onboard_time": 1709371891,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 126341,
@@ -1721,14 +1849,6 @@
       "onboard_time": 1709358150,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119642,
-      "num": 119642,
-      "word": "看起来热量很高实际热量很低的食物",
-      "onboard_time": 1709372011,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 118721,
@@ -1835,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112138,
+      "num": 112138,
+      "word": "明明是同龄人为什么有的人老得快",
+      "onboard_time": 1709374531,
+      "rank": 47,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 110676,
       "num": 110676,
       "word": "原来棉服洗完后不能拧干",
@@ -1873,6 +2001,14 @@
       "onboard_time": 1709307571,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103252,
+      "num": 103252,
+      "word": "卡隆进球",
+      "onboard_time": 1709373574,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 102318,
