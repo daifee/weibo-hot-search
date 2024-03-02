@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709346038463,
+  "endTime": 1709346916492,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -179,6 +179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1210756,
+      "num": 1210756,
+      "word": "接下来两个月是养乳腺的好时机",
+      "onboard_time": 1709342731,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1142466,
       "num": 1142466,
       "word": "家长称自家孩子不上早课睡到自然醒",
@@ -243,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 937184,
-      "num": 937184,
-      "word": "接下来两个月是养乳腺的好时机",
-      "onboard_time": 1709342731,
-      "rank": 41,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 916839,
       "num": 916839,
       "word": "小S二女儿Lily16岁身材",
@@ -264,6 +264,14 @@
       "word": "11届快女 最癫的选秀",
       "onboard_time": 1709250689,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 881998,
+      "num": 881998,
+      "word": "陈丽君 浪姐",
+      "onboard_time": 1709345013,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -387,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 722189,
+      "num": 722189,
+      "word": "千人或有一例艾滋患者",
+      "onboard_time": 1709343267,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 715715,
       "num": 715715,
       "word": "33岁白发妈妈亲吻去世宝宝墓碑",
@@ -467,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 685379,
-      "num": 685379,
-      "word": "千人或有一例艾滋患者",
-      "onboard_time": 1709343267,
-      "rank": 12,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 682521,
       "num": 632054,
       "word": "张小斐荡领吊带",
@@ -521,6 +529,14 @@
       "onboard_time": 1709248464,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 623486,
+      "num": 623486,
+      "word": "点读机女孩为学业放弃进娱乐圈",
+      "onboard_time": 1709343688,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 620533,
@@ -627,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 544267,
-      "num": 544267,
-      "word": "陈丽君 浪姐",
-      "onboard_time": 1709345013,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 542896,
       "num": 542896,
       "word": "张翰工作室起诉昕影影业",
@@ -689,14 +697,6 @@
       "onboard_time": 1709298514,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 526011,
-      "num": 385068,
-      "word": "点读机女孩为学业放弃进娱乐圈",
-      "onboard_time": 1709343688,
-      "rank": 11,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 525671,
@@ -1075,12 +1075,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 384599,
+      "num": 384599,
+      "word": "你的衣柜里有这些衣服吗",
+      "onboard_time": 1709341472,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 383625,
+      "num": 235968,
+      "word": "工作三年的同事存款十万",
+      "onboard_time": 1709345431,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 383054,
       "num": 383054,
       "word": "苏有朋回应小虎队不和传闻",
       "onboard_time": 1709304754,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 381348,
+      "num": 381348,
+      "word": "没想到都三月份还在穿羽绒服",
+      "onboard_time": 1709344168,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 380728,
@@ -1121,14 +1145,6 @@
       "onboard_time": 1709289632,
       "rank": 12,
       "category": "教育"
-    },
-    {
-      "raw_hot": 371657,
-      "num": 371657,
-      "word": "你的衣柜里有这些衣服吗",
-      "onboard_time": 1709341472,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 371560,
@@ -1209,6 +1225,14 @@
       "onboard_time": 1709220036,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 342668,
+      "num": 342668,
+      "word": "Giselle罗意威",
+      "onboard_time": 1709344651,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 340649,
@@ -1299,6 +1323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 316439,
+      "num": 400066,
+      "word": "加沙10名儿童被官方登记为饿死",
+      "onboard_time": 1709343390,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 316285,
       "num": 316285,
       "word": "MEGA售价",
@@ -1355,14 +1387,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 311245,
-      "num": 235968,
-      "word": "工作三年的同事存款十万",
-      "onboard_time": 1709345431,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 298929,
       "num": 298929,
       "word": "邵明明 我们都无可替代",
@@ -1385,14 +1409,6 @@
       "onboard_time": 1709249305,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 297705,
-      "num": 297705,
-      "word": "Giselle罗意威",
-      "onboard_time": 1709344651,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 297422,
@@ -1467,14 +1483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 282809,
-      "num": 390071,
-      "word": "加沙10名儿童被官方登记为饿死",
-      "onboard_time": 1709343390,
-      "rank": 23,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 280807,
       "num": 280807,
       "word": "武契奇这次用两秒说清台湾问题",
@@ -1505,14 +1513,6 @@
       "onboard_time": 1709311528,
       "rank": 9,
       "category": "网红"
-    },
-    {
-      "raw_hot": 274928,
-      "num": 274928,
-      "word": "没想到都三月份还在穿羽绒服",
-      "onboard_time": 1709344168,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 273911,
@@ -1764,7 +1764,7 @@
     },
     {
       "raw_hot": 219343,
-      "num": 185043,
+      "num": 193493,
       "word": "头部有这4个特征或为肺癌信号",
       "onboard_time": 1709344472,
       "rank": 34,
@@ -1995,6 +1995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200431,
+      "num": 200431,
+      "word": "巧克力张张包",
+      "onboard_time": 1709342011,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 200324,
       "num": 200324,
       "word": "今天起快递不可擅自放驿站",
@@ -2179,6 +2187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184838,
+      "num": 162303,
+      "word": "爸爸托梦帮我打赢了官司",
+      "onboard_time": 1709345486,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 183952,
       "num": 183952,
       "word": "退税需要满足哪些条件",
@@ -2299,6 +2315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179558,
+      "num": 179558,
+      "word": "G社拍的Giselle",
+      "onboard_time": 1709346390,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179398,
       "num": 179398,
       "word": "这届年轻人开始野性消费健身用品",
@@ -2321,14 +2345,6 @@
       "onboard_time": 1709266594,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 177274,
-      "num": 177274,
-      "word": "巧克力张张包",
-      "onboard_time": 1709342011,
-      "rank": 44,
-      "category": "网红"
     },
     {
       "raw_hot": 176692,
@@ -2659,6 +2675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155075,
+      "num": 155075,
+      "word": "小胖被队友教育",
+      "onboard_time": 1709345909,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154416,
       "num": 154416,
       "word": "为什么蜂蜜勺子是这个样子",
@@ -2785,14 +2809,6 @@
       "onboard_time": 1709281050,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 147750,
-      "num": 147750,
-      "word": "爸爸托梦帮我打赢了官司",
-      "onboard_time": 1709345486,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 145701,
@@ -2953,6 +2969,14 @@
       "onboard_time": 1709259750,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135858,
+      "num": 135858,
+      "word": "唐探2邱泽演技",
+      "onboard_time": 1709346451,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 135496,
@@ -3427,14 +3451,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 100344,
-      "num": 100344,
-      "word": "小胖被队友教育",
-      "onboard_time": 1709345909,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 99813,
       "num": 240487,
       "word": "头发梳对了有助于改善发量",
@@ -3553,6 +3569,14 @@
       "onboard_time": 1709209953,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86639,
+      "num": 91067,
+      "word": "库里将迎来第4个孩子",
+      "onboard_time": 1709346808,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 86372,
@@ -3723,6 +3747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54441,
+      "num": 351364,
+      "word": "大溪地灰时尚收割机",
+      "onboard_time": 1709345250,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 54331,
       "num": 54331,
       "word": "小狗耳朵都放下来了",
@@ -3780,7 +3812,7 @@
     },
     {
       "raw_hot": 49359,
-      "num": 846442,
+      "num": 983317,
       "word": "聚焦2024年全国两会",
       "onboard_time": 1709305832,
       "rank": 2,
@@ -3825,14 +3857,6 @@
       "onboard_time": 1709238916,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 37890,
-      "num": 179719,
-      "word": "大溪地灰时尚收割机",
-      "onboard_time": 1709345250,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 36037,
