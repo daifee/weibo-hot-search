@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709357640540,
+  "endTime": 1709360562278,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -227,6 +227,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1181044,
+      "num": 367173,
+      "word": "不要错把艾滋病当皮肤病",
+      "onboard_time": 1709356891,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1142466,
       "num": 1142466,
       "word": "家长称自家孩子不上早课睡到自然醒",
@@ -355,14 +363,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 833804,
-      "num": 357392,
-      "word": "不要错把艾滋病当皮肤病",
-      "onboard_time": 1709356891,
-      "rank": 12,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 823009,
       "num": 823009,
       "word": "iPhone在中国大幅打折",
@@ -401,6 +401,14 @@
       "onboard_time": 1709340812,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 774379,
+      "num": 774379,
+      "word": "范丞丞或将当中国新说唱导师",
+      "onboard_time": 1709357370,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 773694,
@@ -739,6 +747,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 556568,
+      "num": 556568,
+      "word": "农夫山泉",
+      "onboard_time": 1709357252,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551851,
       "num": 551851,
       "word": "红楼梦 抢票",
@@ -899,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 496930,
+      "num": 496930,
+      "word": "医生巧用砒霜挽救血癌女子生命",
+      "onboard_time": 1709355992,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494429,
       "num": 494429,
       "word": "母亲回应儿子留学打搏击赛成植物人",
@@ -939,12 +963,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 475952,
+      "num": 475952,
+      "word": "吴谢宇案死刑复核裁定书",
+      "onboard_time": 1709358990,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472877,
       "num": 472877,
       "word": "周柯宇哥哥",
       "onboard_time": 1709279913,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471502,
+      "num": 299156,
+      "word": "女子自述遭遇职场霸凌办公桌贴满钟馗",
+      "onboard_time": 1709357370,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 469642,
@@ -1131,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 425470,
+      "num": 425470,
+      "word": "蔡英文办公室卫兵自戕现场画面",
+      "onboard_time": 1709357731,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422756,
       "num": 422756,
       "word": "蔡磊身体情况持续下滑",
@@ -1211,6 +1259,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 393987,
+      "num": 393987,
+      "word": "庆余年2海外先导预告",
+      "onboard_time": 1709357489,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 392328,
       "num": 392328,
       "word": "快递小哥称新规或致收入大缩水",
@@ -1273,6 +1329,14 @@
       "onboard_time": 1709251769,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379879,
+      "num": 379879,
+      "word": "赵今麦系带粉裙",
+      "onboard_time": 1709359109,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 379601,
@@ -1339,6 +1403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 356118,
+      "num": 244758,
+      "word": "狗 这下该我了",
+      "onboard_time": 1709357911,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 354381,
       "num": 310260,
       "word": "杨幂看秀座位",
@@ -1377,6 +1449,14 @@
       "onboard_time": 1709337146,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 348526,
+      "num": 242214,
+      "word": "人变丑可能是因为情绪性敏感",
+      "onboard_time": 1709356711,
+      "rank": 26,
+      "category": "情感,健康医疗"
     },
     {
       "raw_hot": 347870,
@@ -1521,14 +1601,6 @@
       "onboard_time": 1709282973,
       "rank": 15,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 315190,
-      "num": 315190,
-      "word": "医生巧用砒霜挽救血癌女子生命",
-      "onboard_time": 1709355992,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314995,
@@ -1891,6 +1963,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 237432,
+      "num": 237432,
+      "word": "脂肪肝严重可能发展为肝癌",
+      "onboard_time": 1709358813,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 237128,
       "num": 237128,
       "word": "杨幂问芭莎总监热吗",
@@ -1919,14 +1999,6 @@
       "num": 232908,
       "word": "张雨绮理想的婚姻状态是分房睡",
       "onboard_time": 1709350649,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 232622,
-      "num": 232622,
-      "word": "范丞丞或将当中国新说唱导师",
-      "onboard_time": 1709357370,
       "rank": 20,
       "category": "综艺"
     },
@@ -2331,14 +2403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196441,
-      "num": 196441,
-      "word": "人变丑可能是因为情绪性敏感",
-      "onboard_time": 1709356711,
-      "rank": 26,
-      "category": "情感,健康医疗"
-    },
-    {
       "raw_hot": 195790,
       "num": 195790,
       "word": "康康亲吻Smoggy",
@@ -2433,6 +2497,14 @@
       "onboard_time": 1709295153,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188781,
+      "num": 153364,
+      "word": "月入4000女子谈为何不想生",
+      "onboard_time": 1709359713,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188622,
@@ -3235,22 +3307,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 141673,
-      "num": 141053,
-      "word": "女子自述遭遇职场霸凌办公桌贴满钟馗",
-      "onboard_time": 1709357370,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 141358,
-      "num": 141358,
-      "word": "农夫山泉",
-      "onboard_time": 1709357252,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141045,
       "num": 141045,
       "word": "助教邵明明回来了",
@@ -3379,14 +3435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 135310,
-      "num": 135310,
-      "word": "庆余年2海外先导预告",
-      "onboard_time": 1709357489,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134981,
       "num": 134981,
       "word": "3月第一天的打开方式",
@@ -3451,6 +3499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131150,
+      "num": 131150,
+      "word": "特斯拉跑车将装火箭推进器",
+      "onboard_time": 1709359592,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 129806,
       "num": 129806,
       "word": "王俊凯献唱云端之上",
@@ -3513,6 +3569,14 @@
       "onboard_time": 1709271932,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126064,
+      "num": 126064,
+      "word": "许允真中村一叶权顺荣cha了easy",
+      "onboard_time": 1709357971,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125947,
@@ -3593,6 +3657,14 @@
       "onboard_time": 1709302294,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 120430,
+      "num": 120430,
+      "word": "种地吧十个勤天有玻璃大棚了",
+      "onboard_time": 1709358150,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 120370,
@@ -3803,6 +3875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109229,
+      "num": 109229,
+      "word": "每种颜色有每种颜色的寓意",
+      "onboard_time": 1709358572,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108425,
       "num": 108425,
       "word": "死亡笔记画风永不过时",
@@ -3907,6 +3987,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 99815,
+      "num": 99815,
+      "word": "CBA全明星",
+      "onboard_time": 1709359410,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99813,
       "num": 240487,
       "word": "头发梳对了有助于改善发量",
@@ -3993,6 +4081,14 @@
       "onboard_time": 1709284531,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 92726,
+      "num": 92726,
+      "word": "狗狗只是在满怀期待中睡着了",
+      "onboard_time": 1709359109,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 90981,
