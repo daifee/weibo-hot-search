@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709404439341,
+  "endTime": 1709406784212,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -6273,6 +6273,14 @@
       "onboard_time": 1709318718,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14218,
+      "num": 20085,
+      "word": "剪5分钟头陪演戏1小时",
+      "onboard_time": 1709406378,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13146,
