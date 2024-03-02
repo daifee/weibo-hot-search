@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709341764067,
+  "endTime": 1709342908233,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -275,8 +275,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 857954,
-      "num": 340632,
+      "raw_hot": 861661,
+      "num": 861661,
       "word": "曼谷夜市现烤小臂一样长的大虾",
       "onboard_time": 1709338949,
       "rank": 10,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 699273,
+      "num": 699273,
+      "word": "博主称因称呼雷军为军儿遭小米投诉",
+      "onboard_time": 1709340812,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 694364,
       "num": 694364,
       "word": "花少团真的去了秦岚家",
@@ -417,6 +425,14 @@
       "onboard_time": 1709299953,
       "rank": 41,
       "category": "美食,综艺"
+    },
+    {
+      "raw_hot": 691658,
+      "num": 691658,
+      "word": "杨幂好柿发生手机壳",
+      "onboard_time": 1709339429,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 686728,
@@ -475,14 +491,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 640339,
-      "num": 640339,
-      "word": "杨幂好柿发生手机壳",
-      "onboard_time": 1709339429,
-      "rank": 3,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 635945,
       "num": 635945,
       "word": "家长吐槽被学校要求下午到校值班",
@@ -529,6 +537,14 @@
       "onboard_time": 1709253272,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597965,
+      "num": 597965,
+      "word": "小团团",
+      "onboard_time": 1709200170,
+      "rank": 9,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 587845,
@@ -721,14 +737,6 @@
       "onboard_time": 1709295272,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 490562,
-      "num": 490562,
-      "word": "小团团",
-      "onboard_time": 1709200170,
-      "rank": 9,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 489582,
@@ -971,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403924,
+      "num": 205113,
+      "word": "5个最耗气血的行为",
+      "onboard_time": 1709339368,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 403213,
       "num": 403213,
       "word": "与凤行排播",
@@ -1075,14 +1091,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 370945,
-      "num": 195162,
-      "word": "5个最耗气血的行为",
-      "onboard_time": 1709339368,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 369210,
       "num": 369210,
       "word": "肖战米兰vlog",
@@ -1092,7 +1100,7 @@
     },
     {
       "raw_hot": 366169,
-      "num": 338461,
+      "num": 357389,
       "word": "郝爽CP",
       "onboard_time": 1709339485,
       "rank": 11,
@@ -1115,14 +1123,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 354127,
-      "num": 354127,
-      "word": "博主称因称呼雷军为军儿遭小米投诉",
-      "onboard_time": 1709340812,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 351002,
       "num": 351002,
       "word": "县城一中到底有多重要",
@@ -1132,7 +1132,7 @@
     },
     {
       "raw_hot": 349054,
-      "num": 158791,
+      "num": 348220,
       "word": "王毅破门",
       "onboard_time": 1709337146,
       "rank": 30,
@@ -1515,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259603,
+      "num": 259603,
+      "word": "王者荣耀被梦泪踢出直播间",
+      "onboard_time": 1709339368,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 255931,
       "num": 208766,
       "word": "周星驰将为新片女足海选素人",
@@ -1555,6 +1563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244457,
+      "num": 244457,
+      "word": "孩子聪不聪明看手上几个动作",
+      "onboard_time": 1709340870,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 242555,
       "num": 242555,
       "word": "守护甜心 几斗太甜了",
@@ -1592,6 +1608,14 @@
       "word": "在卫生间感受到了职场的爱",
       "onboard_time": 1709276673,
       "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 226801,
+      "num": 150957,
+      "word": "你的衣柜里有这些衣服吗",
+      "onboard_time": 1709341472,
+      "rank": 44,
       "category": "幽默"
     },
     {
@@ -1713,14 +1737,6 @@
       "onboard_time": 1709277392,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 214559,
-      "num": 156909,
-      "word": "孩子聪不聪明看手上几个动作",
-      "onboard_time": 1709340870,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 214436,
@@ -1867,6 +1883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 200848,
+      "num": 200848,
+      "word": "属于自己的奖金被别人平分了",
+      "onboard_time": 1709339429,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200324,
       "num": 200324,
       "word": "今天起快递不可擅自放驿站",
@@ -1931,14 +1955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 196990,
-      "num": 196990,
-      "word": "王者荣耀被梦泪踢出直播间",
-      "onboard_time": 1709339368,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 196677,
       "num": 196677,
       "word": "蔡文静出发浪姐",
@@ -2001,6 +2017,14 @@
       "onboard_time": 1709295872,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190990,
+      "num": 190990,
+      "word": "小团团语音导航暂未下架",
+      "onboard_time": 1709341652,
+      "rank": 46,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 189739,
@@ -2219,14 +2243,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 175268,
-      "num": 156805,
-      "word": "属于自己的奖金被别人平分了",
-      "onboard_time": 1709339429,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 175136,
       "num": 175136,
       "word": "大学恋爱和社会恋爱",
@@ -2273,6 +2289,14 @@
       "onboard_time": 1709253572,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171722,
+      "num": 171722,
+      "word": "胡先煦演技",
+      "onboard_time": 1709341110,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 171684,
@@ -2337,14 +2361,6 @@
       "onboard_time": 1709283932,
       "rank": 37,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 166482,
-      "num": 166482,
-      "word": "胡先煦演技",
-      "onboard_time": 1709341110,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 166313,
@@ -2595,6 +2611,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 151176,
+      "num": 151176,
+      "word": "杨幂问芭莎总监热吗",
+      "onboard_time": 1709342188,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 150307,
       "num": 150307,
       "word": "邓紫棋佛山抢票",
@@ -2657,6 +2681,14 @@
       "onboard_time": 1709290836,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145534,
+      "num": 145534,
+      "word": "巴菲特靠日本五大商社狂赚575亿",
+      "onboard_time": 1709340928,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 144106,
@@ -2755,12 +2787,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 138046,
-      "num": 138046,
-      "word": "巴菲特靠日本五大商社狂赚575亿",
-      "onboard_time": 1709340928,
-      "rank": 37,
-      "category": "财经"
+      "raw_hot": 138754,
+      "num": 138754,
+      "word": "中国跳水队混团夺冠",
+      "onboard_time": 1709340991,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 137626,
@@ -2769,14 +2801,6 @@
       "onboard_time": 1709259393,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 137374,
-      "num": 137374,
-      "word": "中国跳水队混团夺冠",
-      "onboard_time": 1709340991,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 136850,
@@ -2987,6 +3011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122781,
+      "num": 122781,
+      "word": "浪姐",
+      "onboard_time": 1709342849,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121621,
       "num": 206033,
       "word": "章若楠大乔白鹤梁神女",
@@ -3041,6 +3073,14 @@
       "onboard_time": 1709267075,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119726,
+      "num": 119726,
+      "word": "接下来两个月是养乳腺的好时机",
+      "onboard_time": 1709342731,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 119492,
@@ -3115,6 +3155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115565,
+      "num": 115565,
+      "word": "巧克力张张包",
+      "onboard_time": 1709342011,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 114579,
       "num": 114579,
       "word": "别对我动心 crush文学",
@@ -3129,14 +3177,6 @@
       "onboard_time": 1709290173,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113863,
-      "num": 113863,
-      "word": "你的衣柜里有这些衣服吗",
-      "onboard_time": 1709341472,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 113580,
@@ -3209,14 +3249,6 @@
       "onboard_time": 1709210915,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 107001,
-      "num": 107001,
-      "word": "小团团语音导航暂未下架",
-      "onboard_time": 1709341652,
-      "rank": 46,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 105815,
@@ -3619,6 +3651,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 49359,
+      "num": 747563,
+      "word": "聚焦2024年全国两会",
+      "onboard_time": 1709305832,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47230,
       "num": 47230,
       "word": "3岁前到底有没有记忆",
@@ -3633,14 +3673,6 @@
       "onboard_time": 1709276432,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 41573,
-      "num": 681758,
-      "word": "聚焦2024年全国两会",
-      "onboard_time": 1709305832,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40252,

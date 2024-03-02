@@ -1,0 +1,410 @@
+{
+  "runTime": 1709342908233,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1093200,
+        "num": 1093200,
+        "word": "家长称自家孩子不上早课睡到自然醒",
+        "onboard_time": 1709304036,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861661,
+        "num": 861661,
+        "word": "曼谷夜市现烤小臂一样长的大虾",
+        "onboard_time": 1709338949,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 49359,
+        "num": 747563,
+        "word": "聚焦2024年全国两会",
+        "onboard_time": 1709305832,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699273,
+        "num": 699273,
+        "word": "博主称因称呼雷军为军儿遭小米投诉",
+        "onboard_time": 1709340812,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 691658,
+        "num": 691658,
+        "word": "杨幂好柿发生手机壳",
+        "onboard_time": 1709339429,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 597965,
+        "num": 597965,
+        "word": "小团团",
+        "onboard_time": 1709339969,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 577844,
+        "num": 577844,
+        "word": "河南一小学拖欠教师工资无人上课",
+        "onboard_time": 1709334983,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529431,
+        "num": 529431,
+        "word": "张翰工作室起诉昕影影业",
+        "onboard_time": 1709320336,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 464605,
+        "num": 464605,
+        "word": "姚安娜回应演技争议",
+        "onboard_time": 1709305231,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381341,
+        "num": 381341,
+        "word": "倒春寒真的要来了",
+        "onboard_time": 1709298514,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357389,
+        "num": 357389,
+        "word": "郝爽CP",
+        "onboard_time": 1709339485,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 348220,
+        "num": 348220,
+        "word": "王毅破门",
+        "onboard_time": 1709337146,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282882,
+        "num": 282882,
+        "word": "官方通报哈尔滨一烤羊腿店用八两秤",
+        "onboard_time": 1709335101,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267292,
+        "num": 267292,
+        "word": "彩票店回应女生花4元中500万",
+        "onboard_time": 1709302713,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259603,
+        "num": 259603,
+        "word": "王者荣耀被梦泪踢出直播间",
+        "onboard_time": 1709339368,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 246195,
+        "num": 246195,
+        "word": "终于知道娃哈哈为啥用纸箱包装了",
+        "onboard_time": 1709292990,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 244457,
+        "num": 244457,
+        "word": "孩子聪不聪明看手上几个动作",
+        "onboard_time": 1709340870,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 230232,
+        "num": 230232,
+        "word": "前女团成员称做女工并不羞耻",
+        "onboard_time": 1709318118,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222195,
+        "num": 222195,
+        "word": "车厘子榴莲山竹都便宜了",
+        "onboard_time": 1709300854,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 207591,
+        "num": 207591,
+        "word": "侯雯元 被自己迷得神魂颠倒的气质",
+        "onboard_time": 1709321537,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403924,
+        "num": 205113,
+        "word": "5个最耗气血的行为",
+        "onboard_time": 1709339368,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200848,
+        "num": 200848,
+        "word": "属于自己的奖金被别人平分了",
+        "onboard_time": 1709339429,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192616,
+        "num": 192616,
+        "word": "国产剧中有自己的中年大女主",
+        "onboard_time": 1709335584,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190990,
+        "num": 190990,
+        "word": "小团团语音导航暂未下架",
+        "onboard_time": 1709341652,
+        "rank": 23,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 172257,
+        "num": 172257,
+        "word": "以为很卫生其实很脏的行为",
+        "onboard_time": 1709295093,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 171722,
+        "num": 171722,
+        "word": "胡先煦演技",
+        "onboard_time": 1709341110,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164933,
+        "num": 164933,
+        "word": "春捂要捂到啥时候",
+        "onboard_time": 1709340628,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161868,
+        "num": 161868,
+        "word": "男孩一天喝9升水被查出肿瘤",
+        "onboard_time": 1709297193,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153731,
+        "num": 153731,
+        "word": "前田敦子 浪姐",
+        "onboard_time": 1709338830,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151176,
+        "num": 151176,
+        "word": "杨幂问芭莎总监热吗",
+        "onboard_time": 1709342188,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226801,
+        "num": 150957,
+        "word": "你的衣柜里有这些衣服吗",
+        "onboard_time": 1709341472,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150394,
+        "num": 150394,
+        "word": "康康亲吻Smoggy",
+        "onboard_time": 1709335884,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146569,
+        "num": 146569,
+        "word": "蔡英文办公室一卫兵中枪",
+        "onboard_time": 1709307210,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145534,
+        "num": 145534,
+        "word": "巴菲特靠日本五大商社狂赚575亿",
+        "onboard_time": 1709340928,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144906,
+        "num": 144906,
+        "word": "猎冰导演称富二代标签掩盖了姚安娜的努力",
+        "onboard_time": 1709316020,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138754,
+        "num": 138754,
+        "word": "中国跳水队混团夺冠",
+        "onboard_time": 1709340991,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137892,
+        "num": 137892,
+        "word": "刘德华公司严正声明",
+        "onboard_time": 1709335944,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134760,
+        "num": 134760,
+        "word": "建议不要等到睡前才刷牙",
+        "onboard_time": 1709295272,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129432,
+        "num": 129432,
+        "word": "德州市民回应自发献血",
+        "onboard_time": 1709293953,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128663,
+        "num": 128663,
+        "word": "为什么现在年轻人喜欢养宠物",
+        "onboard_time": 1709338108,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122781,
+        "num": 122781,
+        "word": "浪姐",
+        "onboard_time": 1709342849,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119726,
+        "num": 119726,
+        "word": "接下来两个月是养乳腺的好时机",
+        "onboard_time": 1709342731,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116985,
+        "num": 116985,
+        "word": "广东妆协强烈反对补水是智商税",
+        "onboard_time": 1709338286,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 115947,
+        "num": 115947,
+        "word": "修杰楷回应梧桐妹迷恋穿环",
+        "onboard_time": 1709297971,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115565,
+        "num": 115565,
+        "word": "巧克力张张包",
+        "onboard_time": 1709342011,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 112610,
+        "num": 112610,
+        "word": "买干燥剂送坚果",
+        "onboard_time": 1709338227,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108202,
+        "num": 108202,
+        "word": "知情人士称小团团疑涉案金额太大",
+        "onboard_time": 1709286272,
+        "rank": 46,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 105935,
+        "num": 105935,
+        "word": "酒店回应只能外国人穿拖鞋用餐",
+        "onboard_time": 1709324237,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102076,
+        "num": 102076,
+        "word": "维金斯正在处理严重的家庭问题",
+        "onboard_time": 1709335461,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100215,
+        "num": 100215,
+        "word": "猎冰大结局",
+        "onboard_time": 1709335521,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢记初心使命顽强拼搏进取#"
+    }
+  }
+}
