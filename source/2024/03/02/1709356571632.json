@@ -1,0 +1,410 @@
+{
+  "runTime": 1709356571632,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1655089,
+        "num": 1655089,
+        "word": "网红主播小马哥夫妇偷税被罚317万",
+        "onboard_time": 1709351852,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1488108,
+        "num": 1488108,
+        "word": "肝癌多半是作出来的",
+        "onboard_time": 1709354131,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 53502,
+        "num": 1101031,
+        "word": "全国两会常用表述辨析",
+        "onboard_time": 1709337506,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 942306,
+        "num": 942306,
+        "word": "工藤新一卫衣",
+        "onboard_time": 1709354790,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 579300,
+        "num": 579300,
+        "word": "张予曦体态",
+        "onboard_time": 1709351969,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553666,
+        "num": 553666,
+        "word": "G社拍的杨幂出场",
+        "onboard_time": 1709355152,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 523806,
+        "num": 523806,
+        "word": "王栎鑫是谭松韵影迷会的会长",
+        "onboard_time": 1709349990,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 468747,
+        "num": 468747,
+        "word": "新加坡旅游5天人均1.8万",
+        "onboard_time": 1709350410,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 462297,
+        "num": 462297,
+        "word": "高德地图回应小团团语音包是否下架",
+        "onboard_time": 1709351248,
+        "rank": 8,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 450859,
+        "num": 450859,
+        "word": "女子买牛肉发现是牛油上贴瘦肉",
+        "onboard_time": 1709347711,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1265510,
+        "num": 424132,
+        "word": "找到了4000工资花不完的方法",
+        "onboard_time": 1709349154,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 720259,
+        "num": 414304,
+        "word": "小S公公",
+        "onboard_time": 1709348492,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367793,
+        "num": 367793,
+        "word": "Jennie机场",
+        "onboard_time": 1709355572,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364882,
+        "num": 364882,
+        "word": "陈丽君 浪姐",
+        "onboard_time": 1709345013,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334937,
+        "num": 334937,
+        "word": "偶然翻到妈妈八年前的朋友圈",
+        "onboard_time": 1709354553,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320567,
+        "num": 320567,
+        "word": "接下来两个月是养乳腺的好时机",
+        "onboard_time": 1709342731,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 282457,
+        "num": 282457,
+        "word": "王栎鑫比许凯了解谭松韵",
+        "onboard_time": 1709349751,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281663,
+        "num": 281663,
+        "word": "小哥称武汉一中学区别对待师生外卖",
+        "onboard_time": 1709354910,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274731,
+        "num": 274731,
+        "word": "中传回应点读机女孩休学",
+        "onboard_time": 1709347471,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270088,
+        "num": 270088,
+        "word": "没想到都三月份还在穿羽绒服",
+        "onboard_time": 1709344168,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257748,
+        "num": 257748,
+        "word": "小团团",
+        "onboard_time": 1709339969,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 242294,
+        "num": 242294,
+        "word": "周处除三害",
+        "onboard_time": 1709352329,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237742,
+        "num": 237742,
+        "word": "章泽天给新手妈妈送关爱礼包",
+        "onboard_time": 1709348731,
+        "rank": 22,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 217167,
+        "num": 217167,
+        "word": "孩子抑郁是家病了",
+        "onboard_time": 1709350952,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210304,
+        "num": 210304,
+        "word": "曼谷夜市现烤小臂一样长的大虾",
+        "onboard_time": 1709338949,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184166,
+        "num": 184166,
+        "word": "工作三年的同事存款十万",
+        "onboard_time": 1709345431,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172609,
+        "num": 172609,
+        "word": "张杰发起演唱会歌单投票",
+        "onboard_time": 1709351733,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133361,
+        "num": 167122,
+        "word": "官方回应网传青海发洪水",
+        "onboard_time": 1709348970,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122073,
+        "num": 166981,
+        "word": "母亲回应儿子留学打搏击赛成植物人",
+        "onboard_time": 1709347111,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102545,
+        "num": 166929,
+        "word": "退伍兵哥哥戴着大红花冲去救人",
+        "onboard_time": 1709355810,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166886,
+        "num": 166886,
+        "word": "肖战蓝白外套",
+        "onboard_time": 1709352813,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162628,
+        "num": 162628,
+        "word": "杨幂好柿发生手机壳",
+        "onboard_time": 1709339429,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157287,
+        "num": 157287,
+        "word": "杨紫潮酷风",
+        "onboard_time": 1709354430,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156484,
+        "num": 156484,
+        "word": "成毅浪凡",
+        "onboard_time": 1709356109,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148602,
+        "num": 148602,
+        "word": "为什么上班不爱化妆了",
+        "onboard_time": 1709351550,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 138811,
+        "num": 138811,
+        "word": "G社拍的Giselle",
+        "onboard_time": 1709346390,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137938,
+        "num": 137938,
+        "word": "苏尔父亲去世",
+        "onboard_time": 1709349751,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134563,
+        "num": 134563,
+        "word": "上班后对一切都失去了兴趣",
+        "onboard_time": 1709351852,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134427,
+        "num": 134427,
+        "word": "鞠婧祎姜黎非",
+        "onboard_time": 1709351129,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123832,
+        "num": 123832,
+        "word": "张雨绮理想的婚姻状态是分房睡",
+        "onboard_time": 1709350649,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122957,
+        "num": 122957,
+        "word": "姚安娜回应演技争议",
+        "onboard_time": 1709305231,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118187,
+        "num": 118187,
+        "word": "5个最耗气血的行为",
+        "onboard_time": 1709339368,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116855,
+        "num": 116855,
+        "word": "约等于把宿傩封印在阳间",
+        "onboard_time": 1709352871,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 115083,
+        "num": 115083,
+        "word": "点读机女孩为学业放弃进娱乐圈",
+        "onboard_time": 1709343688,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 113011,
+        "num": 113011,
+        "word": "原来当年我在早读课这么滑稽",
+        "onboard_time": 1709349933,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112206,
+        "num": 112206,
+        "word": "王一博巴黎时装周去看两场秀",
+        "onboard_time": 1709346989,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110536,
+        "num": 110536,
+        "word": "Giselle罗意威",
+        "onboard_time": 1709344651,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105980,
+        "num": 105980,
+        "word": "王者荣耀",
+        "onboard_time": 1709352269,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102515,
+        "num": 102515,
+        "word": "点读机女孩发视频称手术很成功",
+        "onboard_time": 1709347471,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100427,
+        "num": 100427,
+        "word": "医生巧用砒霜挽救血癌女子生命",
+        "onboard_time": 1709355992,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#2013年以来总书记已56次下团组#"
+    }
+  }
+}

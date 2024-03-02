@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709354053121,
+  "endTime": 1709356571632,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -99,6 +99,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1655089,
+      "num": 1655089,
+      "word": "网红主播小马哥夫妇偷税被罚317万",
+      "onboard_time": 1709351852,
+      "rank": 11,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1643492,
       "num": 1643492,
       "word": "掌心官宣",
@@ -129,6 +137,14 @@
       "onboard_time": 1709338949,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1488108,
+      "num": 1488108,
+      "word": "肝癌多半是作出来的",
+      "onboard_time": 1709354131,
+      "rank": 1,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1487774,
@@ -177,14 +193,6 @@
       "onboard_time": 1709271392,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1299443,
-      "num": 1299443,
-      "word": "网红主播小马哥夫妇偷税被罚317万",
-      "onboard_time": 1709351852,
-      "rank": 11,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1238653,
@@ -289,6 +297,14 @@
       "onboard_time": 1709345013,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 942306,
+      "num": 942306,
+      "word": "工藤新一卫衣",
+      "onboard_time": 1709354790,
+      "rank": 3,
+      "category": "动漫"
     },
     {
       "raw_hot": 916839,
@@ -659,20 +675,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 579300,
+      "num": 579300,
+      "word": "张予曦体态",
+      "onboard_time": 1709351969,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 575884,
       "num": 575884,
       "word": "新加坡旅游5天人均1.8万",
       "onboard_time": 1709350410,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 569164,
-      "num": 569164,
-      "word": "张予曦体态",
-      "onboard_time": 1709351969,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 566255,
@@ -705,6 +721,14 @@
       "onboard_time": 1709283033,
       "rank": 7,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 553666,
+      "num": 553666,
+      "word": "G社拍的杨幂出场",
+      "onboard_time": 1709355152,
+      "rank": 5,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 551851,
@@ -803,6 +827,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 523806,
+      "num": 523806,
+      "word": "王栎鑫是谭松韵影迷会的会长",
+      "onboard_time": 1709349990,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 523395,
       "num": 523395,
       "word": "周柯宇父亲被执行151万",
@@ -833,14 +865,6 @@
       "onboard_time": 1709295093,
       "rank": 20,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 510932,
-      "num": 417491,
-      "word": "王栎鑫是谭松韵影迷会的会长",
-      "onboard_time": 1709349990,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 499774,
@@ -937,6 +961,14 @@
       "onboard_time": 1709254056,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462297,
+      "num": 462297,
+      "word": "高德地图回应小团团语音包是否下架",
+      "onboard_time": 1709351248,
+      "rank": 13,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 457768,
@@ -1049,14 +1081,6 @@
       "onboard_time": 1709285072,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 432685,
-      "num": 432685,
-      "word": "高德地图回应小团团语音包是否下架",
-      "onboard_time": 1709351248,
-      "rank": 13,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 432425,
@@ -1283,6 +1307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 367793,
+      "num": 367793,
+      "word": "Jennie机场",
+      "onboard_time": 1709355572,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365834,
       "num": 365834,
       "word": "梅西发视频庆祝粉丝破5亿",
@@ -1409,6 +1441,14 @@
       "onboard_time": 1709206592,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334937,
+      "num": 334937,
+      "word": "偶然翻到妈妈八年前的朋友圈",
+      "onboard_time": 1709354553,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 328294,
@@ -1611,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281663,
+      "num": 281663,
+      "word": "小哥称武汉一中学区别对待师生外卖",
+      "onboard_time": 1709354910,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280807,
       "num": 280807,
       "word": "武契奇这次用两秒说清台湾问题",
@@ -1803,8 +1851,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 241701,
-      "num": 241701,
+      "raw_hot": 242294,
+      "num": 242294,
       "word": "周处除三害",
       "onboard_time": 1709352329,
       "rank": 26,
@@ -2875,12 +2923,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 157287,
+      "num": 157287,
+      "word": "杨紫潮酷风",
+      "onboard_time": 1709354430,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 157202,
       "num": 157202,
       "word": "我为啥不想谈恋爱",
       "onboard_time": 1709347830,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156484,
+      "num": 156484,
+      "word": "成毅浪凡",
+      "onboard_time": 1709356109,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156162,
@@ -3755,12 +3819,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102545,
+      "num": 166929,
+      "word": "退伍兵哥哥戴着大红花冲去救人",
+      "onboard_time": 1709355810,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102193,
       "num": 102193,
       "word": "家长吐槽社会实践作业毫无意义",
       "onboard_time": 1709335282,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 100427,
+      "num": 100427,
+      "word": "医生巧用砒霜挽救血癌女子生命",
+      "onboard_time": 1709355992,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99813,
@@ -4083,6 +4163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 53502,
+      "num": 1101031,
+      "word": "全国两会常用表述辨析",
+      "onboard_time": 1709337506,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52300,
       "num": 52300,
       "word": "鼓励式教学",
@@ -4105,14 +4193,6 @@
       "onboard_time": 1709335282,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 51515,
-      "num": 661014,
-      "word": "全国两会常用表述辨析",
-      "onboard_time": 1709337506,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 50843,
@@ -4402,6 +4482,9 @@
     },
     {
       "word": "#牢记初心使命顽强拼搏进取#"
+    },
+    {
+      "word": "#2013年以来总书记已56次下团组#"
     }
   ]
 }
