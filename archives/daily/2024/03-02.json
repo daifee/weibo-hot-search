@@ -1,6 +1,6 @@
 {
   "startTime": 1709310056019,
-  "endTime": 1709388910264,
+  "endTime": 1709390044815,
   "band_list": [
     {
       "raw_hot": 2973604,
@@ -315,6 +315,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 733036,
+      "num": 277817,
+      "word": "卵巢癌早就有信号可能被你忽略了",
+      "onboard_time": 1709386053,
+      "rank": 23,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 727793,
       "num": 727793,
       "word": "彩票店回应女生花4元中500万",
@@ -377,14 +385,6 @@
       "onboard_time": 1709363431,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 678075,
-      "num": 277817,
-      "word": "卵巢癌早就有信号可能被你忽略了",
-      "onboard_time": 1709386053,
-      "rank": 23,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 670436,
@@ -547,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 566481,
+      "num": 566481,
+      "word": "戚薇去浪姐了",
+      "onboard_time": 1709387974,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 566218,
       "num": 299545,
       "word": "张根硕近期状态",
@@ -657,14 +665,6 @@
       "onboard_time": 1709361629,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 479549,
-      "num": 231714,
-      "word": "戚薇去浪姐了",
-      "onboard_time": 1709387974,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 476716,
@@ -867,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 366239,
+      "num": 184098,
+      "word": "韩美娟模仿姚安娜",
+      "onboard_time": 1709387495,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365834,
       "num": 365834,
       "word": "梅西发视频庆祝粉丝破5亿",
@@ -1035,6 +1043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 304093,
+      "num": 174096,
+      "word": "你好星期六下期有张杰",
+      "onboard_time": 1709389774,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298931,
       "num": 291591,
       "word": "房东的猫直播",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1709374350,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 292367,
+      "num": 173016,
+      "word": "恋爱兄妹",
+      "onboard_time": 1709389174,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 291384,
@@ -1073,14 +1097,6 @@
       "onboard_time": 1709383832,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 285953,
-      "num": 184098,
-      "word": "韩美娟模仿姚安娜",
-      "onboard_time": 1709387495,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 282999,
@@ -1251,6 +1267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 240611,
+      "num": 166337,
+      "word": "丁程鑫一句话让张杰心痛",
+      "onboard_time": 1709388815,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240139,
       "num": 240139,
       "word": "EDG启点赛夺冠",
@@ -1297,6 +1321,22 @@
       "onboard_time": 1709350649,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231609,
+      "num": 231609,
+      "word": "路飞最佳主角",
+      "onboard_time": 1709387974,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 231378,
+      "num": 167208,
+      "word": "刘昊然男大味",
+      "onboard_time": 1709389953,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 229693,
@@ -1369,6 +1409,14 @@
       "onboard_time": 1709306791,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 213716,
+      "num": 181868,
+      "word": "浙江90后女孩嫁给70后大叔",
+      "onboard_time": 1709386292,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211819,
@@ -1473,14 +1521,6 @@
       "onboard_time": 1709335944,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203002,
-      "num": 181868,
-      "word": "浙江90后女孩嫁给70后大叔",
-      "onboard_time": 1709386292,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202769,
@@ -1707,6 +1747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184655,
+      "num": 156938,
+      "word": "安溥唱无与伦比的美丽",
+      "onboard_time": 1709389417,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 183449,
       "num": 183449,
       "word": "WE战胜RNG",
@@ -1827,6 +1875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170469,
+      "num": 134657,
+      "word": "周处除三害 典故",
+      "onboard_time": 1709389892,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 170304,
       "num": 278658,
       "word": "RW对战eStar",
@@ -1883,14 +1939,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 165755,
-      "num": 165755,
-      "word": "路飞最佳主角",
-      "onboard_time": 1709387974,
-      "rank": 35,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 165129,
       "num": 165129,
       "word": "成毅浪凡",
@@ -1937,6 +1985,22 @@
       "onboard_time": 1709374770,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161140,
+      "num": 161140,
+      "word": "拍照眼睛无神的原因",
+      "onboard_time": 1709384852,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 160090,
+      "num": 134511,
+      "word": "林一偶像剧存货",
+      "onboard_time": 1709389116,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 159517,
@@ -2067,14 +2131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149336,
-      "num": 149336,
-      "word": "丁程鑫一句话让张杰心痛",
-      "onboard_time": 1709388815,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148175,
       "num": 148175,
       "word": "从18楼窗台救了一只猫",
@@ -2105,14 +2161,6 @@
       "onboard_time": 1709340928,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 144916,
-      "num": 151791,
-      "word": "拍照眼睛无神的原因",
-      "onboard_time": 1709384852,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 144351,
@@ -2153,6 +2201,14 @@
       "onboard_time": 1709368651,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 142297,
+      "num": 142297,
+      "word": "陈国豪太生猛了",
+      "onboard_time": 1709389538,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 142006,
@@ -2257,6 +2313,14 @@
       "onboard_time": 1709378070,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135008,
+      "num": 135008,
+      "word": "你身上的班味其实是慢性疲劳",
+      "onboard_time": 1709388995,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 133552,
@@ -2529,6 +2593,22 @@
       "onboard_time": 1709343267,
       "rank": 45,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 113875,
+      "num": 134206,
+      "word": "成为航母航行值更官有多难",
+      "onboard_time": 1709389116,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 113837,
+      "num": 134058,
+      "word": "出门在外的身份是朋友给的",
+      "onboard_time": 1709389595,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 113580,
@@ -3063,6 +3143,9 @@
     },
     {
       "word": "#总书记与代表委员议国是#"
+    },
+    {
+      "word": "#以更大力度推动我国新能源高质量发展#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709388910264,
+  "endTime": 1709390044815,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -2883,6 +2883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 733036,
+      "num": 277817,
+      "word": "卵巢癌早就有信号可能被你忽略了",
+      "onboard_time": 1709386053,
+      "rank": 23,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 732818,
       "num": 732818,
       "word": "找工作",
@@ -3313,14 +3321,6 @@
       "onboard_time": 1709363431,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 678075,
-      "num": 277817,
-      "word": "卵巢癌早就有信号可能被你忽略了",
-      "onboard_time": 1709386053,
-      "rank": 23,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 677180,
@@ -4289,6 +4289,14 @@
       "onboard_time": 1708945712,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 566481,
+      "num": 566481,
+      "word": "戚薇去浪姐了",
+      "onboard_time": 1709387974,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 566381,
@@ -5273,14 +5281,6 @@
       "onboard_time": 1709081137,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 479549,
-      "num": 231714,
-      "word": "戚薇去浪姐了",
-      "onboard_time": 1709387974,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 478612,
@@ -6851,6 +6851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366239,
+      "num": 184098,
+      "word": "韩美娟模仿姚安娜",
+      "onboard_time": 1709387495,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365834,
       "num": 365834,
       "word": "梅西发视频庆祝粉丝破5亿",
@@ -8067,6 +8075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 304093,
+      "num": 174096,
+      "word": "你好星期六下期有张杰",
+      "onboard_time": 1709389774,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304044,
       "num": 304044,
       "word": "冷冻食品可别直接下锅",
@@ -8315,6 +8331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 292367,
+      "num": 173016,
+      "word": "恋爱兄妹",
+      "onboard_time": 1709389174,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291781,
       "num": 274576,
       "word": "RA管理层怒喷教练",
@@ -8441,14 +8465,6 @@
       "onboard_time": 1709088033,
       "rank": 21,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 285953,
-      "num": 184098,
-      "word": "韩美娟模仿姚安娜",
-      "onboard_time": 1709387495,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 285947,
@@ -9899,6 +9915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240611,
+      "num": 166337,
+      "word": "丁程鑫一句话让张杰心痛",
+      "onboard_time": 1709388815,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240563,
       "num": 240563,
       "word": "花花运动量vs和叶运动量",
@@ -10243,12 +10267,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231609,
+      "num": 231609,
+      "word": "路飞最佳主角",
+      "onboard_time": 1709387974,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 231499,
       "num": 231499,
       "word": "迪丽热巴金色眼妆",
       "onboard_time": 1709112335,
       "rank": 32,
       "category": "综艺,作品衍生"
+    },
+    {
+      "raw_hot": 231378,
+      "num": 167208,
+      "word": "刘昊然男大味",
+      "onboard_time": 1709389953,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 231272,
@@ -11067,6 +11107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 213716,
+      "num": 181868,
+      "word": "浙江90后女孩嫁给70后大叔",
+      "onboard_time": 1709386292,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213131,
       "num": 213131,
       "word": "周鸿祎称PPT是忽悠人的最好工具",
@@ -11713,14 +11761,6 @@
       "onboard_time": 1708997072,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 203002,
-      "num": 181868,
-      "word": "浙江90后女孩嫁给70后大叔",
-      "onboard_time": 1709386292,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202769,
@@ -13179,6 +13219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184655,
+      "num": 156938,
+      "word": "安溥唱无与伦比的美丽",
+      "onboard_time": 1709389417,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184478,
       "num": 184478,
       "word": "眼睛里没揉出来的脏东西都去哪了",
@@ -14235,6 +14283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 170469,
+      "num": 134657,
+      "word": "周处除三害 典故",
+      "onboard_time": 1709389892,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 170304,
       "num": 278658,
       "word": "RW对战eStar",
@@ -14651,14 +14707,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 165755,
-      "num": 165755,
-      "word": "路飞最佳主角",
-      "onboard_time": 1709387974,
-      "rank": 35,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 165680,
       "num": 165680,
       "word": "故宫的猫都谈上恋爱了",
@@ -15035,6 +15083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161140,
+      "num": 161140,
+      "word": "拍照眼睛无神的原因",
+      "onboard_time": 1709384852,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160560,
       "num": 160560,
       "word": "为啥穿汉服的大多是女生",
@@ -15049,6 +15105,14 @@
       "onboard_time": 1708828716,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160090,
+      "num": 134511,
+      "word": "林一偶像剧存货",
+      "onboard_time": 1709389116,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 159777,
@@ -15827,14 +15891,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 149336,
-      "num": 149336,
-      "word": "丁程鑫一句话让张杰心痛",
-      "onboard_time": 1709388815,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149269,
       "num": 149269,
       "word": "湖人21分逆转快船",
@@ -16115,14 +16171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 144916,
-      "num": 151791,
-      "word": "拍照眼睛无神的原因",
-      "onboard_time": 1709384852,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 144818,
       "num": 144818,
       "word": "考研play中的一环",
@@ -16345,6 +16393,14 @@
       "onboard_time": 1708939118,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142297,
+      "num": 142297,
+      "word": "陈国豪太生猛了",
+      "onboard_time": 1709389538,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 142218,
@@ -16961,6 +17017,14 @@
       "onboard_time": 1709025214,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135008,
+      "num": 135008,
+      "word": "你身上的班味其实是慢性疲劳",
+      "onboard_time": 1709388995,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 134995,
@@ -18243,12 +18307,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 113875,
+      "num": 134206,
+      "word": "成为航母航行值更官有多难",
+      "onboard_time": 1709389116,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
       "raw_hot": 113868,
       "num": 113868,
       "word": "李克勤演唱会唱富士山下",
       "onboard_time": 1708878565,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113837,
+      "num": 134058,
+      "word": "出门在外的身份是朋友给的",
+      "onboard_time": 1709389595,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 113660,
@@ -20228,6 +20308,9 @@
     },
     {
       "word": "#总书记与代表委员议国是#"
+    },
+    {
+      "word": "#以更大力度推动我国新能源高质量发展#"
     }
   ]
 }
