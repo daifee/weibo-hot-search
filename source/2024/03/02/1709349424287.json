@@ -1,0 +1,410 @@
+{
+  "runTime": 1709349424287,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1224544,
+        "num": 1224544,
+        "word": "点读机女孩发视频称手术很成功",
+        "onboard_time": 1709347471,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984133,
+        "num": 984133,
+        "word": "陈丽君 浪姐",
+        "onboard_time": 1709345013,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26168,
+        "num": 812934,
+        "word": "聚焦2024年全国两会",
+        "onboard_time": 1709305832,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810278,
+        "num": 810278,
+        "word": "曼谷夜市现烤小臂一样长的大虾",
+        "onboard_time": 1709338949,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 808066,
+        "num": 808066,
+        "word": "中传回应点读机女孩休学",
+        "onboard_time": 1709347471,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788177,
+        "num": 788177,
+        "word": "女子买牛肉发现是牛油上贴瘦肉",
+        "onboard_time": 1709347711,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 764867,
+        "num": 764867,
+        "word": "点读机女孩为学业放弃进娱乐圈",
+        "onboard_time": 1709343688,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 580111,
+        "num": 580111,
+        "word": "没想到都三月份还在穿羽绒服",
+        "onboard_time": 1709344168,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 499774,
+        "num": 499774,
+        "word": "大卫波德维尔去世",
+        "onboard_time": 1709346931,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494429,
+        "num": 494429,
+        "word": "母亲回应儿子留学打搏击赛成植物人",
+        "onboard_time": 1709347111,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1145405,
+        "num": 468310,
+        "word": "接下来两个月是养乳腺的好时机",
+        "onboard_time": 1709342731,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1002448,
+        "num": 467262,
+        "word": "小S公公",
+        "onboard_time": 1709348492,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441634,
+        "num": 441634,
+        "word": "千人或有一例艾滋患者",
+        "onboard_time": 1709343267,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 369842,
+        "num": 369842,
+        "word": "博主称因称呼雷军为军儿遭小米投诉",
+        "onboard_time": 1709340812,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 335773,
+        "num": 335773,
+        "word": "杨幂好柿发生手机壳",
+        "onboard_time": 1709339429,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306658,
+        "num": 306658,
+        "word": "官方回应网传青海发洪水",
+        "onboard_time": 1709348970,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291363,
+        "num": 291363,
+        "word": "小团团",
+        "onboard_time": 1709339969,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 68414,
+        "num": 287706,
+        "word": "大溪地灰时尚收割机",
+        "onboard_time": 1709345250,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 287571,
+        "num": 287571,
+        "word": "姚安娜回应演技争议",
+        "onboard_time": 1709305231,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270525,
+        "num": 270525,
+        "word": "找到了4000工资花不完的方法",
+        "onboard_time": 1709349154,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291502,
+        "num": 268339,
+        "word": "工作三年的同事存款十万",
+        "onboard_time": 1709345431,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290464,
+        "num": 268285,
+        "word": "章泽天给新手妈妈送关爱礼包",
+        "onboard_time": 1709348731,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264148,
+        "num": 264148,
+        "word": "家长称自家孩子不上早课睡到自然醒",
+        "onboard_time": 1709304036,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260767,
+        "num": 260767,
+        "word": "Giselle罗意威",
+        "onboard_time": 1709344651,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248220,
+        "num": 248220,
+        "word": "梅西发视频庆祝粉丝破5亿",
+        "onboard_time": 1709348011,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227488,
+        "num": 227488,
+        "word": "王一博巴黎时装周去看两场秀",
+        "onboard_time": 1709346989,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211812,
+        "num": 211812,
+        "word": "加沙10名儿童被官方登记为饿死",
+        "onboard_time": 1709343390,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 207465,
+        "num": 207465,
+        "word": "你的衣柜里有这些衣服吗",
+        "onboard_time": 1709341472,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203324,
+        "num": 203324,
+        "word": "5个最耗气血的行为",
+        "onboard_time": 1709339368,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105115,
+        "num": 202274,
+        "word": "蔡英文办公室一卫兵中枪",
+        "onboard_time": 1709307210,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201880,
+        "num": 201880,
+        "word": "河南一小学拖欠教师工资无人上课",
+        "onboard_time": 1709334983,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177896,
+        "num": 177896,
+        "word": "吃赛百味被价格背刺了",
+        "onboard_time": 1709343331,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 167998,
+        "num": 167998,
+        "word": "爸爸托梦帮我打赢了官司",
+        "onboard_time": 1709345486,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163689,
+        "num": 163689,
+        "word": "头部有这4个特征或为肺癌信号",
+        "onboard_time": 1709344472,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157202,
+        "num": 157202,
+        "word": "我为啥不想谈恋爱",
+        "onboard_time": 1709347830,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149057,
+        "num": 149057,
+        "word": "装哭的萨摩耶",
+        "onboard_time": 1709344108,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143226,
+        "num": 143226,
+        "word": "库里将迎来第4个孩子",
+        "onboard_time": 1709346808,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135414,
+        "num": 135414,
+        "word": "浪姐",
+        "onboard_time": 1709342849,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130965,
+        "num": 130965,
+        "word": "唐探2邱泽演技",
+        "onboard_time": 1709346451,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129049,
+        "num": 129049,
+        "word": "彩票店回应女生花4元中500万",
+        "onboard_time": 1709302713,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128988,
+        "num": 128988,
+        "word": "从18楼窗台救了一只猫",
+        "onboard_time": 1709349210,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126560,
+        "num": 126560,
+        "word": "王者荣耀被梦泪踢出直播间",
+        "onboard_time": 1709339368,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121878,
+        "num": 121878,
+        "word": "全红婵陈芋汐携手出战",
+        "onboard_time": 1709347830,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117132,
+        "num": 117132,
+        "word": "韩国担忧3月医疗大乱",
+        "onboard_time": 1709348671,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 115364,
+        "num": 115364,
+        "word": "巧克力张张包",
+        "onboard_time": 1709342011,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 108998,
+        "num": 108998,
+        "word": "G社拍的Giselle",
+        "onboard_time": 1709346390,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108224,
+        "num": 108224,
+        "word": "用雪堆了一只小伯恩山",
+        "onboard_time": 1709349210,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107904,
+        "num": 107904,
+        "word": "小胖被队友教育",
+        "onboard_time": 1709345909,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100391,
+        "num": 100391,
+        "word": "杨幂问芭莎总监热吗",
+        "onboard_time": 1709342188,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99136,
+        "num": 99136,
+        "word": "猎冰导演称富二代标签掩盖了姚安娜的努力",
+        "onboard_time": 1709316020,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力推动我国新能源高质量发展#"
+    }
+  }
+}

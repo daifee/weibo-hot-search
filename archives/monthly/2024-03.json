@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709346916492,
+  "endTime": 1709349424287,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -179,6 +179,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1224544,
+      "num": 1224544,
+      "word": "点读机女孩发视频称手术很成功",
+      "onboard_time": 1709347471,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1210756,
       "num": 1210756,
       "word": "接下来两个月是养乳腺的好时机",
@@ -235,6 +243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1002448,
+      "num": 467262,
+      "word": "小S公公",
+      "onboard_time": 1709348492,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1000768,
       "num": 1000768,
       "word": "终于知道娃哈哈为啥用纸箱包装了",
@@ -251,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 984133,
+      "num": 984133,
+      "word": "陈丽君 浪姐",
+      "onboard_time": 1709345013,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 916839,
       "num": 916839,
       "word": "小S二女儿Lily16岁身材",
@@ -264,14 +288,6 @@
       "word": "11届快女 最癫的选秀",
       "onboard_time": 1709250689,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 881998,
-      "num": 881998,
-      "word": "陈丽君 浪姐",
-      "onboard_time": 1709345013,
-      "rank": 7,
       "category": "综艺"
     },
     {
@@ -315,12 +331,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 808066,
+      "num": 808066,
+      "word": "中传回应点读机女孩休学",
+      "onboard_time": 1709347471,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 790728,
       "num": 790728,
       "word": "小团团已停播34天",
       "onboard_time": 1709273553,
       "rank": 12,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 788177,
+      "num": 788177,
+      "word": "女子买牛肉发现是牛油上贴瘦肉",
+      "onboard_time": 1709347711,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 781626,
@@ -361,6 +393,14 @@
       "onboard_time": 1709334983,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 764867,
+      "num": 764867,
+      "word": "点读机女孩为学业放弃进娱乐圈",
+      "onboard_time": 1709343688,
+      "rank": 11,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 736431,
@@ -531,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 623486,
-      "num": 623486,
-      "word": "点读机女孩为学业放弃进娱乐圈",
-      "onboard_time": 1709343688,
-      "rank": 11,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 620533,
       "num": 540322,
       "word": "杨幂总裁出街",
@@ -585,6 +617,14 @@
       "onboard_time": 1709218178,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 580111,
+      "num": 580111,
+      "word": "没想到都三月份还在穿羽绒服",
+      "onboard_time": 1709344168,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 566255,
@@ -747,6 +787,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 499774,
+      "num": 499774,
+      "word": "大卫波德维尔去世",
+      "onboard_time": 1709346931,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498682,
       "num": 498682,
       "word": "林心如方否认参加浪姐",
@@ -761,6 +809,14 @@
       "onboard_time": 1709249608,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 494429,
+      "num": 494429,
+      "word": "母亲回应儿子留学打搏击赛成植物人",
+      "onboard_time": 1709347111,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 492778,
@@ -1084,7 +1140,7 @@
     },
     {
       "raw_hot": 383625,
-      "num": 235968,
+      "num": 268339,
       "word": "工作三年的同事存款十万",
       "onboard_time": 1709345431,
       "rank": 20,
@@ -1097,14 +1153,6 @@
       "onboard_time": 1709304754,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 381348,
-      "num": 381348,
-      "word": "没想到都三月份还在穿羽绒服",
-      "onboard_time": 1709344168,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 380728,
@@ -1387,6 +1435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 306658,
+      "num": 306658,
+      "word": "官方回应网传青海发洪水",
+      "onboard_time": 1709348970,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298929,
       "num": 298929,
       "word": "邵明明 我们都无可替代",
@@ -1457,6 +1513,14 @@
       "onboard_time": 1709252912,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 290464,
+      "num": 268285,
+      "word": "章泽天给新手妈妈送关爱礼包",
+      "onboard_time": 1709348731,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285445,
@@ -1545,6 +1609,14 @@
       "onboard_time": 1709266656,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270525,
+      "num": 270525,
+      "word": "找到了4000工资花不完的方法",
+      "onboard_time": 1709349154,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 269031,
@@ -1643,6 +1715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 248220,
+      "num": 248220,
+      "word": "梅西发视频庆祝粉丝破5亿",
+      "onboard_time": 1709348011,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245536,
       "num": 245536,
       "word": "小S大女儿Elly近照",
@@ -1705,6 +1785,14 @@
       "onboard_time": 1709343331,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 227488,
+      "num": 227488,
+      "word": "王一博巴黎时装周去看两场秀",
+      "onboard_time": 1709346989,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 227153,
@@ -2188,7 +2276,7 @@
     },
     {
       "raw_hot": 184838,
-      "num": 162303,
+      "num": 167998,
       "word": "爸爸托梦帮我打赢了官司",
       "onboard_time": 1709345486,
       "rank": 35,
@@ -2659,6 +2747,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 157202,
+      "num": 157202,
+      "word": "我为啥不想谈恋爱",
+      "onboard_time": 1709347830,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156162,
       "num": 150214,
       "word": "返校的时候行李箱吐了",
@@ -2833,6 +2929,14 @@
       "onboard_time": 1709278890,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143226,
+      "num": 143226,
+      "word": "库里将迎来第4个孩子",
+      "onboard_time": 1709346808,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 143067,
@@ -3059,6 +3163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128988,
+      "num": 128988,
+      "word": "从18楼窗台救了一只猫",
+      "onboard_time": 1709349210,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128873,
       "num": 128873,
       "word": "宋茜烟熏妆短发",
@@ -3155,6 +3267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121878,
+      "num": 121878,
+      "word": "全红婵陈芋汐携手出战",
+      "onboard_time": 1709347830,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121621,
       "num": 206033,
       "word": "章若楠大乔白鹤梁神女",
@@ -3241,6 +3361,14 @@
       "onboard_time": 1709282134,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117132,
+      "num": 117132,
+      "word": "韩国担忧3月医疗大乱",
+      "onboard_time": 1709348671,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 116373,
@@ -3361,6 +3489,14 @@
       "onboard_time": 1709274813,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 108224,
+      "num": 108224,
+      "word": "用雪堆了一只小伯恩山",
+      "onboard_time": 1709349210,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 107639,
@@ -3571,14 +3707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86639,
-      "num": 91067,
-      "word": "库里将迎来第4个孩子",
-      "onboard_time": 1709346808,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 86372,
       "num": 86372,
       "word": "易胖体质",
@@ -3649,6 +3777,14 @@
       "onboard_time": 1709247320,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 68414,
+      "num": 351364,
+      "word": "大溪地灰时尚收割机",
+      "onboard_time": 1709345250,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 67652,
@@ -3745,14 +3881,6 @@
       "onboard_time": 1709308470,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54441,
-      "num": 351364,
-      "word": "大溪地灰时尚收割机",
-      "onboard_time": 1709345250,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 54331,
