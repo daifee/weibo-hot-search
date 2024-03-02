@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709385422279,
+  "endTime": 1709386486489,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -1147,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1311752,
+      "num": 1311752,
+      "word": "张睿曾以五阿哥自荐结果对方请了苏有朋",
+      "onboard_time": 1709382514,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1309362,
       "num": 1289826,
       "word": "美国女教师和16岁男生发生关系或被判25年",
@@ -1185,14 +1193,6 @@
       "onboard_time": 1709045255,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1273326,
-      "num": 1273326,
-      "word": "张睿曾以五阿哥自荐结果对方请了苏有朋",
-      "onboard_time": 1709382514,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 1271047,
@@ -1635,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1044248,
+      "num": 1044248,
+      "word": "林俊杰去了霉霉演唱会",
+      "onboard_time": 1709385154,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1036067,
       "num": 1036067,
       "word": "清华大学澄清停招土木工程专业",
@@ -1712,6 +1720,14 @@
       "word": "唐艺昕说恋爱中先道歉的人赢了",
       "onboard_time": 1709015732,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1004990,
+      "num": 1004990,
+      "word": "焉栩嘉承认谈过恋爱",
+      "onboard_time": 1709385692,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -3379,6 +3395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 662710,
+      "num": 662710,
+      "word": "女子造谣男同学是强奸犯致其被停学",
+      "onboard_time": 1709381193,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 662058,
       "num": 662058,
       "word": "官方回应网传青海发洪水",
@@ -3593,14 +3617,6 @@
       "onboard_time": 1709104114,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 632442,
-      "num": 632442,
-      "word": "女子造谣男同学是强奸犯致其被停学",
-      "onboard_time": 1709381193,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 631820,
@@ -3865,6 +3881,14 @@
       "onboard_time": 1708953815,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 603633,
+      "num": 603633,
+      "word": "爱上阮经天",
+      "onboard_time": 1709376572,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 602700,
@@ -4267,6 +4291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 566218,
+      "num": 299545,
+      "word": "张根硕近期状态",
+      "onboard_time": 1709384373,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 565191,
       "num": 565191,
       "word": "南来北往大结局",
@@ -4297,14 +4329,6 @@
       "onboard_time": 1709262392,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 561982,
-      "num": 561982,
-      "word": "爱上阮经天",
-      "onboard_time": 1709376572,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 560592,
@@ -6241,14 +6265,6 @@
       "onboard_time": 1709278174,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 402985,
-      "num": 299545,
-      "word": "张根硕近期状态",
-      "onboard_time": 1709384373,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 402271,
@@ -8587,6 +8603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279060,
+      "num": 279060,
+      "word": "刘暖曦代理律师被认定违规炒作案件",
+      "onboard_time": 1709385874,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278925,
       "num": 278925,
       "word": "开始推理吧2",
@@ -8601,6 +8625,14 @@
       "onboard_time": 1708815739,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 277817,
+      "num": 277817,
+      "word": "卵巢癌早就有信号可能被你忽略了",
+      "onboard_time": 1709386053,
+      "rank": 23,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 277672,
@@ -9067,6 +9099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263213,
+      "num": 271927,
+      "word": "被妈妈阻止舔卤蛋的小狗",
+      "onboard_time": 1709384491,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 262603,
       "num": 262603,
       "word": "新加坡航展A400m禁止中国游客参观",
@@ -9281,14 +9321,6 @@
       "onboard_time": 1709054301,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 256152,
-      "num": 256152,
-      "word": "被妈妈阻止舔卤蛋的小狗",
-      "onboard_time": 1709384491,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 256072,
@@ -9939,14 +9971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238478,
-      "num": 238478,
-      "word": "林俊杰去了霉霉演唱会",
-      "onboard_time": 1709385154,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 238302,
       "num": 218216,
       "word": "跟拍月收入2万网约车司机",
@@ -10593,6 +10617,14 @@
       "onboard_time": 1708839453,
       "rank": 28,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 221176,
+      "num": 221176,
+      "word": "迪丽热巴口紫",
+      "onboard_time": 1709386475,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 221042,
@@ -14161,6 +14193,14 @@
       "onboard_time": 1709125412,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 170304,
+      "num": 278658,
+      "word": "RW对战eStar",
+      "onboard_time": 1709385935,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 170244,
@@ -18915,6 +18955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 77100,
+      "num": 134912,
+      "word": "浙江90后女孩嫁给70后大叔",
+      "onboard_time": 1709386292,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76520,
       "num": 76520,
       "word": "东北父母式审美",
@@ -19017,6 +19065,14 @@
       "onboard_time": 1708995755,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 70546,
+      "num": 1088032,
+      "word": "神十七乘组默契配合度满分",
+      "onboard_time": 1709385394,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 70337,
@@ -19921,14 +19977,6 @@
       "onboard_time": 1709060297,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 14339,
-      "num": 924845,
-      "word": "神十七乘组默契配合度满分",
-      "onboard_time": 1709385394,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13146,
