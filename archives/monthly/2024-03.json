@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709410580097,
+  "endTime": 1709411652662,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -6147,6 +6147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 34256,
+      "num": 24003,
+      "word": "港星李焯宁44岁状态",
+      "onboard_time": 1709410217,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33468,
       "num": 204129,
       "word": "大家庭需要一台什么样的车",
@@ -6201,14 +6209,6 @@
       "onboard_time": 1709397568,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29040,
-      "num": 24003,
-      "word": "港星李焯宁44岁状态",
-      "onboard_time": 1709410217,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 26138,
@@ -6312,6 +6312,14 @@
       "word": "张真源的晚安小屋",
       "onboard_time": 1709318718,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 14611,
+      "num": 14611,
+      "word": "蔡文静晒手机壳",
+      "onboard_time": 1709410936,
+      "rank": 41,
       "category": "艺人"
     },
     {
