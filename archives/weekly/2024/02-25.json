@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709368470729,
+  "endTime": 1709370912310,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2973604,
+      "num": 295581,
+      "word": "满舒克",
+      "onboard_time": 1709366072,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2935651,
       "num": 2935651,
       "word": "肯德基爆单",
@@ -169,14 +177,6 @@
       "onboard_time": 1708927233,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2882331,
-      "num": 267134,
-      "word": "满舒克",
-      "onboard_time": 1709366072,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 2786251,
@@ -427,6 +427,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 2053629,
+      "num": 1280909,
+      "word": "高危HPV",
+      "onboard_time": 1709367333,
+      "rank": 26,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 2023451,
       "num": 2023451,
       "word": "纪凌尘 你喜欢大海我爱过你很浪漫",
@@ -465,6 +473,14 @@
       "onboard_time": 1708904907,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1968134,
+      "num": 292705,
+      "word": "满舒克前女友发文",
+      "onboard_time": 1709368829,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1952282,
@@ -1137,14 +1153,6 @@
       "onboard_time": 1709200290,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1280909,
-      "num": 1280909,
-      "word": "高危HPV",
-      "onboard_time": 1709367333,
-      "rank": 26,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 1277471,
@@ -2475,6 +2483,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 790186,
+      "num": 790186,
+      "word": "沈梦辰在巴黎被冻到过敏",
+      "onboard_time": 1709368352,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 789017,
       "num": 789017,
       "word": "董宇辉回应删博",
@@ -2521,6 +2537,14 @@
       "onboard_time": 1708853794,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 780299,
+      "num": 294189,
+      "word": "全红婵给英国闺蜜按摩放松",
+      "onboard_time": 1709367271,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 778358,
@@ -5619,6 +5643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431594,
+      "num": 431594,
+      "word": "官方通报村支书坐拥60亩地",
+      "onboard_time": 1709369133,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431234,
       "num": 431234,
       "word": "张钧甯玉米龅牙",
@@ -5785,6 +5817,14 @@
       "onboard_time": 1709015074,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418536,
+      "num": 418536,
+      "word": "给男朋友灌输了一点男德思想",
+      "onboard_time": 1709365112,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 418224,
@@ -6155,14 +6195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 388916,
-      "num": 388916,
-      "word": "给男朋友灌输了一点男德思想",
-      "onboard_time": 1709365112,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 388878,
       "num": 357389,
       "word": "郝爽CP",
@@ -6273,14 +6305,6 @@
       "onboard_time": 1709345431,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 383114,
-      "num": 254244,
-      "word": "全红婵给英国闺蜜按摩放松",
-      "onboard_time": 1709367271,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 383054,
@@ -7089,6 +7113,14 @@
       "onboard_time": 1709182774,
       "rank": 21,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 337263,
+      "num": 337263,
+      "word": "权顺荣wvs",
+      "onboard_time": 1709368413,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 336734,
@@ -7955,6 +7987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 291566,
+      "num": 291566,
+      "word": "哈圈",
+      "onboard_time": 1709369492,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291153,
       "num": 291153,
       "word": "胡先煦又偷着做背德饭",
@@ -8025,6 +8065,14 @@
       "onboard_time": 1708908634,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287889,
+      "num": 287889,
+      "word": "专家建议洋葱式穿衣法防春寒",
+      "onboard_time": 1709368651,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287800,
@@ -9859,6 +9907,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 230294,
+      "num": 230294,
+      "word": "为什么年轻人喜欢晒各种东西",
+      "onboard_time": 1709369614,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230153,
       "num": 230153,
       "word": "娃哈哈总部门口摆满娃哈哈",
@@ -11483,6 +11539,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 198629,
+      "num": 198629,
+      "word": "辛芷蕾白客开机照",
+      "onboard_time": 1709370752,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198433,
       "num": 198433,
       "word": "大学生开学的戒断反应有多严重",
@@ -12083,6 +12147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190778,
+      "num": 190778,
+      "word": "灿烂的她",
+      "onboard_time": 1709369789,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190776,
       "num": 190776,
       "word": "小洋睡不着回应校园霸凌传言",
@@ -12291,6 +12363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188964,
+      "num": 188964,
+      "word": "英专生看了都沉默的翻译机",
+      "onboard_time": 1709368711,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188938,
       "num": 188938,
       "word": "合肥地震",
@@ -12353,6 +12433,14 @@
       "onboard_time": 1709188050,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188282,
+      "num": 188282,
+      "word": "村委会主任侵占集体土地被逮捕",
+      "onboard_time": 1709370032,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188186,
@@ -12643,6 +12731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183449,
+      "num": 183449,
+      "word": "WE战胜RNG",
+      "onboard_time": 1709370212,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183424,
       "num": 183424,
       "word": "孙颖莎独一档的存在",
@@ -12705,6 +12801,14 @@
       "onboard_time": 1709025457,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182630,
+      "num": 182630,
+      "word": "现在的理发店太尴尬了",
+      "onboard_time": 1709368893,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 182625,
@@ -12939,6 +13043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180213,
+      "num": 180213,
+      "word": "男朋友把我的隐私问题往外说",
+      "onboard_time": 1709370628,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180144,
       "num": 180144,
       "word": "久哲发博说Hero无敌",
@@ -13049,6 +13161,14 @@
       "onboard_time": 1709184933,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178531,
+      "num": 178531,
+      "word": "RNG六连败",
+      "onboard_time": 1709369916,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 178495,
@@ -13619,6 +13739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169809,
+      "num": 169809,
+      "word": "这3种瓜子再馋也别买",
+      "onboard_time": 1709370811,
+      "rank": 37,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 169785,
       "num": 169785,
       "word": "鞠婧祎姜黎非",
@@ -13809,6 +13937,14 @@
       "onboard_time": 1709360790,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167369,
+      "num": 167369,
+      "word": "高危型HPV持续感染可能引发宫颈癌",
+      "onboard_time": 1709368173,
+      "rank": 35,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 167346,
@@ -14443,14 +14579,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 158268,
-      "num": 158268,
-      "word": "高危型HPV持续感染可能引发宫颈癌",
-      "onboard_time": 1709368173,
-      "rank": 35,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 158144,
       "num": 158144,
       "word": "适时休息能让身体恢复和滋养",
@@ -14609,6 +14737,14 @@
       "onboard_time": 1709183613,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156569,
+      "num": 156569,
+      "word": "张凌赫无框镜",
+      "onboard_time": 1709369614,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 156499,
@@ -15521,6 +15657,14 @@
       "onboard_time": 1709244736,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142663,
+      "num": 128293,
+      "word": "杨幂晒撑伞神图",
+      "onboard_time": 1709368651,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 142660,
@@ -16443,14 +16587,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 129951,
-      "num": 129951,
-      "word": "沈梦辰在巴黎被冻到过敏",
-      "onboard_time": 1709368352,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129766,
       "num": 129766,
       "word": "李耕耘 幸福是什么",
@@ -16521,6 +16657,14 @@
       "onboard_time": 1709274573,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128803,
+      "num": 128803,
+      "word": "倒春寒时你一般穿几层",
+      "onboard_time": 1709370628,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128668,
@@ -17427,14 +17571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 112172,
-      "num": 112172,
-      "word": "权顺荣wvs",
-      "onboard_time": 1709368413,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 112147,
       "num": 112147,
       "word": "T1对战FOX",
@@ -17884,7 +18020,7 @@
     },
     {
       "raw_hot": 93236,
-      "num": 121126,
+      "num": 280361,
       "word": "零跑C10上市价格",
       "onboard_time": 1709368352,
       "rank": 47,

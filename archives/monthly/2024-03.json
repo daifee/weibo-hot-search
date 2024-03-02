@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709368470729,
+  "endTime": 1709370912310,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2882331,
-      "num": 267134,
+      "raw_hot": 2973604,
+      "num": 295581,
       "word": "满舒克",
       "onboard_time": 1709366072,
       "rank": 10,
@@ -65,6 +65,22 @@
       "onboard_time": 1709364571,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2053629,
+      "num": 1280909,
+      "word": "高危HPV",
+      "onboard_time": 1709367333,
+      "rank": 26,
+      "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 1968134,
+      "num": 292705,
+      "word": "满舒克前女友发文",
+      "onboard_time": 1709368829,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1952282,
@@ -217,14 +233,6 @@
       "onboard_time": 1709271392,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1280909,
-      "num": 1280909,
-      "word": "高危HPV",
-      "onboard_time": 1709367333,
-      "rank": 26,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 1238653,
@@ -443,12 +451,28 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 790186,
+      "num": 790186,
+      "word": "沈梦辰在巴黎被冻到过敏",
+      "onboard_time": 1709368352,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 781626,
       "num": 781626,
       "word": "博主称因称呼雷军为军儿遭小米投诉",
       "onboard_time": 1709340812,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 780299,
+      "num": 294189,
+      "word": "全红婵给英国闺蜜按摩放松",
+      "onboard_time": 1709367271,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 778027,
@@ -1227,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431594,
+      "num": 431594,
+      "word": "官方通报村支书坐拥60亩地",
+      "onboard_time": 1709369133,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431234,
       "num": 431234,
       "word": "张钧甯玉米龅牙",
@@ -1273,6 +1305,14 @@
       "onboard_time": 1709259812,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418536,
+      "num": 418536,
+      "word": "给男朋友灌输了一点男德思想",
+      "onboard_time": 1709365112,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 418223,
@@ -1363,14 +1403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 388916,
-      "num": 388916,
-      "word": "给男朋友灌输了一点男德思想",
-      "onboard_time": 1709365112,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 388878,
       "num": 357389,
       "word": "郝爽CP",
@@ -1409,14 +1441,6 @@
       "onboard_time": 1709345431,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 383114,
-      "num": 254244,
-      "word": "全红婵给英国闺蜜按摩放松",
-      "onboard_time": 1709367271,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 383054,
@@ -1643,6 +1667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 337263,
+      "num": 337263,
+      "word": "权顺荣wvs",
+      "onboard_time": 1709368413,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335234,
       "num": 335234,
       "word": "王力宏点赞十几年前和宗庆后合照微博",
@@ -1843,12 +1875,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291566,
+      "num": 291566,
+      "word": "哈圈",
+      "onboard_time": 1709369492,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291153,
       "num": 291153,
       "word": "胡先煦又偷着做背德饭",
       "onboard_time": 1709362231,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287889,
+      "num": 287889,
+      "word": "专家建议洋葱式穿衣法防春寒",
+      "onboard_time": 1709368651,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 285445,
@@ -2169,6 +2217,14 @@
       "onboard_time": 1709350649,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230294,
+      "num": 230294,
+      "word": "为什么年轻人喜欢晒各种东西",
+      "onboard_time": 1709369614,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 229693,
@@ -2579,6 +2635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198629,
+      "num": 198629,
+      "word": "辛芷蕾白客开机照",
+      "onboard_time": 1709370752,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198291,
       "num": 198291,
       "word": "DYG状态",
@@ -2699,6 +2763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190778,
+      "num": 190778,
+      "word": "灿烂的她",
+      "onboard_time": 1709369789,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189982,
       "num": 189982,
       "word": "谭松韵许凯牵手转圈搂",
@@ -2731,6 +2803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188964,
+      "num": 188964,
+      "word": "英专生看了都沉默的翻译机",
+      "onboard_time": 1709368711,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188928,
       "num": 188928,
       "word": "当我路过抽烟的人想让他们内疚时",
@@ -2753,6 +2833,14 @@
       "onboard_time": 1709295872,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188282,
+      "num": 188282,
+      "word": "村委会主任侵占集体土地被逮捕",
+      "onboard_time": 1709370032,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187114,
@@ -2795,12 +2883,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 183449,
+      "num": 183449,
+      "word": "WE战胜RNG",
+      "onboard_time": 1709370212,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182956,
       "num": 182956,
       "word": "种地吧",
       "onboard_time": 1709295513,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182630,
+      "num": 182630,
+      "word": "现在的理发店太尴尬了",
+      "onboard_time": 1709368893,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 182118,
@@ -2899,6 +3003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180213,
+      "num": 180213,
+      "word": "男朋友把我的隐私问题往外说",
+      "onboard_time": 1709370628,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179832,
       "num": 179832,
       "word": "胡先煦演技",
@@ -2929,6 +3041,14 @@
       "onboard_time": 1709257772,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 178531,
+      "num": 178531,
+      "word": "RNG六连败",
+      "onboard_time": 1709369916,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 178282,
@@ -3043,6 +3163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169809,
+      "num": 169809,
+      "word": "这3种瓜子再馋也别买",
+      "onboard_time": 1709370811,
+      "rank": 37,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 169785,
       "num": 169785,
       "word": "鞠婧祎姜黎非",
@@ -3097,6 +3225,14 @@
       "onboard_time": 1709360790,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167369,
+      "num": 167369,
+      "word": "高危型HPV持续感染可能引发宫颈癌",
+      "onboard_time": 1709368173,
+      "rank": 35,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 167346,
@@ -3283,14 +3419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 158268,
-      "num": 158268,
-      "word": "高危型HPV持续感染可能引发宫颈癌",
-      "onboard_time": 1709368173,
-      "rank": 35,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 158144,
       "num": 158144,
       "word": "适时休息能让身体恢复和滋养",
@@ -3345,6 +3473,14 @@
       "onboard_time": 1709347830,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156569,
+      "num": 156569,
+      "word": "张凌赫无框镜",
+      "onboard_time": 1709369614,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 156162,
@@ -3587,6 +3723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142663,
+      "num": 128293,
+      "word": "杨幂晒撑伞神图",
+      "onboard_time": 1709368651,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 142519,
       "num": 142519,
       "word": "飞驰人生有自己的柯兰",
@@ -3811,14 +3955,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 129951,
-      "num": 129951,
-      "word": "沈梦辰在巴黎被冻到过敏",
-      "onboard_time": 1709368352,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129806,
       "num": 129806,
       "word": "王俊凯献唱云端之上",
@@ -3849,6 +3985,14 @@
       "onboard_time": 1709274573,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 128803,
+      "num": 128803,
+      "word": "倒春寒时你一般穿几层",
+      "onboard_time": 1709370628,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128446,
@@ -4211,14 +4355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112172,
-      "num": 112172,
-      "word": "权顺荣wvs",
-      "onboard_time": 1709368413,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 112076,
       "num": 112076,
       "word": "亚克力枪枪美物开箱",
@@ -4460,7 +4596,7 @@
     },
     {
       "raw_hot": 93236,
-      "num": 121126,
+      "num": 280361,
       "word": "零跑C10上市价格",
       "onboard_time": 1709368352,
       "rank": 47,
