@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709379236073,
+  "endTime": 1709382526684,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -504,6 +504,14 @@
       "word": "农村出现严重空心化现象",
       "onboard_time": 1709104955,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1906470,
+      "num": 1906470,
+      "word": "娃哈哈一箱6板24瓶全是干货",
+      "onboard_time": 1709377169,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1011,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1366226,
+      "num": 1366226,
+      "word": "严浩翔打赏事件女主播报警",
+      "onboard_time": 1709378556,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1364110,
       "num": 1364110,
       "word": "崔胜澈免除兵役",
@@ -1265,6 +1281,14 @@
       "onboard_time": 1708864775,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1220577,
+      "num": 1220577,
+      "word": "HPV感染就像生殖道经历一场感冒",
+      "onboard_time": 1709379874,
+      "rank": 3,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 1215724,
@@ -2024,14 +2048,6 @@
       "word": "韩国超一万名实习和住院医生辞职",
       "onboard_time": 1708928318,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 890921,
-      "num": 890921,
-      "word": "娃哈哈一箱6板24瓶全是干货",
-      "onboard_time": 1709377169,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -3291,6 +3307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 670436,
+      "num": 291654,
+      "word": "满舒克前女友因其感染高危HPV",
+      "onboard_time": 1709377593,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 667714,
       "num": 667714,
       "word": "戚薇后脑勺被妈妈用书睡平",
@@ -3508,7 +3532,7 @@
     },
     {
       "raw_hot": 634049,
-      "num": 306923,
+      "num": 631111,
       "word": "女硕士怀二胎辞职带娃4年再求职碰壁大哭",
       "onboard_time": 1709374652,
       "rank": 20,
@@ -3561,6 +3585,14 @@
       "onboard_time": 1709015732,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 627722,
+      "num": 627722,
+      "word": "杨幂爸爸独家照片",
+      "onboard_time": 1709377712,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 627423,
@@ -3680,6 +3712,14 @@
       "word": "朱丹也来浪姐了",
       "onboard_time": 1709214336,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 613714,
+      "num": 613714,
+      "word": "向琴琴入学新乡医学院",
+      "onboard_time": 1709379692,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -3995,14 +4035,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 583027,
-      "num": 583027,
-      "word": "杨幂爸爸独家照片",
-      "onboard_time": 1709377712,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 581852,
       "num": 581852,
       "word": "杨紫票房总成绩破80亿",
@@ -4275,6 +4307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 554089,
+      "num": 554089,
+      "word": "爱上阮经天",
+      "onboard_time": 1709376572,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 553059,
       "num": 553059,
       "word": "见男朋友父母是需要考察一下的",
@@ -4369,14 +4409,6 @@
       "onboard_time": 1709095952,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 540283,
-      "num": 540283,
-      "word": "严浩翔打赏事件女主播报警",
-      "onboard_time": 1709378556,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 540090,
@@ -4763,14 +4795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 502834,
-      "num": 502834,
-      "word": "爱上阮经天",
-      "onboard_time": 1709376572,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 501704,
       "num": 501704,
       "word": "黑龙江佳木斯一高层建筑起火",
@@ -4977,14 +5001,6 @@
       "onboard_time": 1708822108,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 492849,
-      "num": 291654,
-      "word": "满舒克前女友因其感染高危HPV",
-      "onboard_time": 1709377593,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 492778,
@@ -6059,6 +6075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412104,
+      "num": 200999,
+      "word": "伊能静56岁生图",
+      "onboard_time": 1709379513,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 411885,
       "num": 411885,
       "word": "中国人看网文1年花了400多亿",
@@ -6675,6 +6699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 368408,
+      "num": 235287,
+      "word": "让人一周胖一斤的食物别敞开吃了",
+      "onboard_time": 1709378131,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 367881,
       "num": 367881,
       "word": "周也可0可1是林一",
@@ -7283,6 +7315,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 335016,
+      "num": 192624,
+      "word": "Rihanna印度富豪婚礼演唱",
+      "onboard_time": 1709381433,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334937,
       "num": 334937,
       "word": "偶然翻到妈妈八年前的朋友圈",
@@ -7587,6 +7627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 318373,
+      "num": 186956,
+      "word": "你好星期六",
+      "onboard_time": 1708799599,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317483,
       "num": 317483,
       "word": "瘦不下来可能是代谢受损了",
@@ -7889,6 +7937,14 @@
       "onboard_time": 1708860934,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305397,
+      "num": 178647,
+      "word": "文韬济南",
+      "onboard_time": 1709381132,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 305303,
@@ -8819,6 +8875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267880,
+      "num": 246017,
+      "word": "为何麻辣烫越来越贵了",
+      "onboard_time": 1709377293,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 267863,
       "num": 267863,
       "word": "C罗因做不道德动作被查",
@@ -8833,6 +8897,14 @@
       "onboard_time": 1709119413,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 267282,
+      "num": 162339,
+      "word": "周处除三害封神镜头",
+      "onboard_time": 1709379989,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 267043,
@@ -9547,14 +9619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 246017,
-      "num": 246017,
-      "word": "为何麻辣烫越来越贵了",
-      "onboard_time": 1709377293,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 245757,
       "num": 245757,
       "word": "林允儿跳了Flower",
@@ -9705,6 +9769,14 @@
       "onboard_time": 1709191774,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240472,
+      "num": 161038,
+      "word": "张小斐主演电影票房破100亿",
+      "onboard_time": 1709381974,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 240456,
@@ -9891,12 +9963,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 235287,
-      "num": 235287,
-      "word": "让人一周胖一斤的食物别敞开吃了",
-      "onboard_time": 1709378131,
-      "rank": 28,
-      "category": "健康医疗"
+      "raw_hot": 234920,
+      "num": 234920,
+      "word": "吞海 档案袋",
+      "onboard_time": 1709379272,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 234661,
@@ -11331,6 +11403,22 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 205264,
+      "num": 205264,
+      "word": "女子造谣男同学是强奸犯致其被停学",
+      "onboard_time": 1709381193,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205145,
+      "num": 156885,
+      "word": "石凯深圳",
+      "onboard_time": 1709380653,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204883,
       "num": 204883,
       "word": "双鱼座2024会发生的三件好事",
@@ -12393,6 +12481,14 @@
       "onboard_time": 1709197651,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 190861,
+      "num": 120582,
+      "word": "崔杋圭solo舞台",
+      "onboard_time": 1709381974,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 190811,
@@ -13659,6 +13755,14 @@
       "category": "数码,汽车"
     },
     {
+      "raw_hot": 175048,
+      "num": 166403,
+      "word": "金晨的皮肤状态",
+      "onboard_time": 1709378795,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174892,
       "num": 174892,
       "word": "出现这些症状可能是脑瘤前兆",
@@ -14331,14 +14435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166403,
-      "num": 166403,
-      "word": "金晨的皮肤状态",
-      "onboard_time": 1709378795,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166313,
       "num": 166313,
       "word": "3月直飞泰国机票降幅明显",
@@ -14513,6 +14609,14 @@
       "onboard_time": 1709062456,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 163322,
+      "num": 163322,
+      "word": "日本长野县发生雪崩或有10人被困",
+      "onboard_time": 1709380832,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163319,
@@ -16059,6 +16163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142073,
+      "num": 119889,
+      "word": "张睿曾以五阿哥自荐结果对方请了苏有朋",
+      "onboard_time": 1709382514,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142012,
       "num": 142012,
       "word": "夏之光横店煮茶vlog",
@@ -16851,6 +16963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131468,
+      "num": 119748,
+      "word": "黄冠亨自拍反面教材",
+      "onboard_time": 1709382392,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131292,
       "num": 131292,
       "word": "徐杰防守短板",
@@ -17529,6 +17649,14 @@
       "onboard_time": 1709188412,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119622,
+      "num": 119622,
+      "word": "打了唇钉后喝水真的会漏水",
+      "onboard_time": 1709382032,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 119548,
@@ -19235,6 +19363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40860,
+      "num": 1254819,
+      "word": "2024全国两会这些看点值得关注",
+      "onboard_time": 1709364571,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40252,
       "num": 40252,
       "word": "颖儿再演夏冬春",
@@ -19275,12 +19411,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36594,
-      "num": 826447,
-      "word": "2024全国两会这些看点值得关注",
-      "onboard_time": 1709364571,
-      "rank": 17,
-      "category": "国内时政"
+      "raw_hot": 36659,
+      "num": 271387,
+      "word": "上天猫抢你好星期六明星同款",
+      "onboard_time": 1709380832,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 36037,
@@ -19385,14 +19521,6 @@
       "onboard_time": 1709270913,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 27936,
-      "num": 27936,
-      "word": "你好星期六",
-      "onboard_time": 1708799599,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 27401,

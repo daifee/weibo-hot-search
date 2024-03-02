@@ -1,6 +1,6 @@
 {
   "startTime": 1709310056019,
-  "endTime": 1709379236073,
+  "endTime": 1709382526684,
   "band_list": [
     {
       "raw_hot": 2973604,
@@ -51,6 +51,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1906470,
+      "num": 1906470,
+      "word": "娃哈哈一箱6板24瓶全是干货",
+      "onboard_time": 1709377169,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1686014,
       "num": 1686014,
       "word": "肝癌多半是作出来的",
@@ -99,12 +107,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1366226,
+      "num": 1366226,
+      "word": "严浩翔打赏事件女主播报警",
+      "onboard_time": 1709378556,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1224544,
       "num": 1224544,
       "word": "点读机女孩发视频称手术很成功",
       "onboard_time": 1709347471,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1220577,
+      "num": 1220577,
+      "word": "HPV感染就像生殖道经历一场感冒",
+      "onboard_time": 1709379874,
+      "rank": 3,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 1210756,
@@ -177,14 +201,6 @@
       "onboard_time": 1709354790,
       "rank": 3,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 890921,
-      "num": 890921,
-      "word": "娃哈哈一箱6板24瓶全是干货",
-      "onboard_time": 1709377169,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 857471,
@@ -315,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 670436,
+      "num": 291654,
+      "word": "满舒克前女友因其感染高危HPV",
+      "onboard_time": 1709377593,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 662058,
       "num": 662058,
       "word": "官方回应网传青海发洪水",
@@ -356,11 +380,27 @@
     },
     {
       "raw_hot": 634049,
-      "num": 306923,
+      "num": 631111,
       "word": "女硕士怀二胎辞职带娃4年再求职碰壁大哭",
       "onboard_time": 1709374652,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 627722,
+      "num": 627722,
+      "word": "杨幂爸爸独家照片",
+      "onboard_time": 1709377712,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 613714,
+      "num": 613714,
+      "word": "向琴琴入学新乡医学院",
+      "onboard_time": 1709379692,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 605505,
@@ -385,14 +425,6 @@
       "onboard_time": 1709355152,
       "rank": 5,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 583027,
-      "num": 583027,
-      "word": "杨幂爸爸独家照片",
-      "onboard_time": 1709377712,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 580111,
@@ -435,20 +467,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554089,
+      "num": 554089,
+      "word": "爱上阮经天",
+      "onboard_time": 1709376572,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 542896,
       "num": 542896,
       "word": "张翰工作室起诉昕影影业",
       "onboard_time": 1709320336,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 540283,
-      "num": 540283,
-      "word": "严浩翔打赏事件女主播报警",
-      "onboard_time": 1709378556,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 534929,
@@ -491,14 +523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 502834,
-      "num": 502834,
-      "word": "爱上阮经天",
-      "onboard_time": 1709376572,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 499774,
       "num": 499774,
       "word": "大卫波德维尔去世",
@@ -537,14 +561,6 @@
       "onboard_time": 1709373392,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 492849,
-      "num": 291654,
-      "word": "满舒克前女友因其感染高危HPV",
-      "onboard_time": 1709377593,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 485796,
@@ -632,6 +648,14 @@
       "word": "哈圈",
       "onboard_time": 1709369492,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 412104,
+      "num": 200999,
+      "word": "伊能静56岁生图",
+      "onboard_time": 1709379513,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -731,6 +755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 368408,
+      "num": 235287,
+      "word": "让人一周胖一斤的食物别敞开吃了",
+      "onboard_time": 1709378131,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 365834,
       "num": 365834,
       "word": "梅西发视频庆祝粉丝破5亿",
@@ -811,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335016,
+      "num": 192624,
+      "word": "Rihanna印度富豪婚礼演唱",
+      "onboard_time": 1709381433,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334937,
       "num": 334937,
       "word": "偶然翻到妈妈八年前的朋友圈",
@@ -843,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318373,
+      "num": 186956,
+      "word": "你好星期六",
+      "onboard_time": 1709380355,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316439,
       "num": 400066,
       "word": "加沙10名儿童被官方登记为饿死",
@@ -873,6 +921,14 @@
       "onboard_time": 1709359713,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305397,
+      "num": 178647,
+      "word": "文韬济南",
+      "onboard_time": 1709381132,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 292880,
@@ -929,6 +985,22 @@
       "onboard_time": 1709363370,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267880,
+      "num": 246017,
+      "word": "为何麻辣烫越来越贵了",
+      "onboard_time": 1709377293,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 267282,
+      "num": 162339,
+      "word": "周处除三害封神镜头",
+      "onboard_time": 1709379989,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 266304,
@@ -1019,14 +1091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246017,
-      "num": 246017,
-      "word": "为何麻辣烫越来越贵了",
-      "onboard_time": 1709377293,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 244974,
       "num": 244974,
       "word": "零跑发布会",
@@ -1051,6 +1115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 240472,
+      "num": 161038,
+      "word": "张小斐主演电影票房破100亿",
+      "onboard_time": 1709381974,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 237128,
       "num": 237128,
       "word": "杨幂问芭莎总监热吗",
@@ -1067,12 +1139,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 235287,
-      "num": 235287,
-      "word": "让人一周胖一斤的食物别敞开吃了",
-      "onboard_time": 1709378131,
-      "rank": 28,
-      "category": "健康医疗"
+      "raw_hot": 234920,
+      "num": 234920,
+      "word": "吞海 档案袋",
+      "onboard_time": 1709379272,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 234077,
@@ -1217,6 +1289,22 @@
       "onboard_time": 1709377831,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205264,
+      "num": 205264,
+      "word": "女子造谣男同学是强奸犯致其被停学",
+      "onboard_time": 1709381193,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205145,
+      "num": 156885,
+      "word": "石凯深圳",
+      "onboard_time": 1709380653,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 204564,
@@ -1387,6 +1475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190861,
+      "num": 120582,
+      "word": "崔杋圭solo舞台",
+      "onboard_time": 1709381974,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190778,
       "num": 190778,
       "word": "灿烂的她",
@@ -1523,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175048,
+      "num": 166403,
+      "word": "金晨的皮肤状态",
+      "onboard_time": 1709378795,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173246,
       "num": 173246,
       "word": "张凌赫无框镜",
@@ -1595,14 +1699,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 166403,
-      "num": 166403,
-      "word": "金晨的皮肤状态",
-      "onboard_time": 1709378795,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 165129,
       "num": 165129,
       "word": "成毅浪凡",
@@ -1617,6 +1713,14 @@
       "onboard_time": 1709338830,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163322,
+      "num": 163322,
+      "word": "日本长野县发生雪崩或有10人被困",
+      "onboard_time": 1709380832,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162290,
@@ -1843,6 +1947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142073,
+      "num": 119889,
+      "word": "张睿曾以五阿哥自荐结果对方请了苏有朋",
+      "onboard_time": 1709382514,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142006,
       "num": 142006,
       "word": "毛不易比十个勤天还愁",
@@ -1945,6 +2057,14 @@
       "onboard_time": 1709355810,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131468,
+      "num": 119748,
+      "word": "黄冠亨自拍反面教材",
+      "onboard_time": 1709382392,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 131150,
@@ -2065,6 +2185,14 @@
       "onboard_time": 1709358150,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119622,
+      "num": 119622,
+      "word": "打了唇钉后喝水真的会漏水",
+      "onboard_time": 1709382032,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 119089,
@@ -2539,6 +2667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40860,
+      "num": 1254819,
+      "word": "2024全国两会这些看点值得关注",
+      "onboard_time": 1709364571,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40252,
       "num": 40252,
       "word": "颖儿再演夏冬春",
@@ -2563,12 +2699,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36594,
-      "num": 826447,
-      "word": "2024全国两会这些看点值得关注",
-      "onboard_time": 1709364571,
-      "rank": 17,
-      "category": "国内时政"
+      "raw_hot": 36659,
+      "num": 271387,
+      "word": "上天猫抢你好星期六明星同款",
+      "onboard_time": 1709380832,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 36037,
