@@ -1,0 +1,410 @@
+{
+  "runTime": 1709379236073,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1000863,
+        "num": 1000863,
+        "word": "韩国民众排队4个小时告别福宝",
+        "onboard_time": 1709373032,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890921,
+        "num": 890921,
+        "word": "娃哈哈一箱6板24瓶全是干货",
+        "onboard_time": 1709377169,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19367,
+        "num": 826447,
+        "word": "2024全国两会这些看点值得关注",
+        "onboard_time": 1709364571,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 802681,
+        "num": 802681,
+        "word": "间谍过家家 次瓜亲吻",
+        "onboard_time": 1709373329,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 639818,
+        "num": 639818,
+        "word": "侃爷惹怒老丈人",
+        "onboard_time": 1709377169,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583027,
+        "num": 583027,
+        "word": "杨幂爸爸独家照片",
+        "onboard_time": 1709377712,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540283,
+        "num": 540283,
+        "word": "严浩翔打赏事件女主播报警",
+        "onboard_time": 1709378556,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502834,
+        "num": 502834,
+        "word": "爱上阮经天",
+        "onboard_time": 1709376572,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 499406,
+        "num": 499406,
+        "word": "沈梦辰在巴黎被冻到过敏",
+        "onboard_time": 1709368352,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367209,
+        "num": 367209,
+        "word": "英雄联盟官方回应霸哥事件",
+        "onboard_time": 1709373392,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 2109256,
+        "num": 359700,
+        "word": "满舒克",
+        "onboard_time": 1709366072,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1284072,
+        "num": 357417,
+        "word": "高危HPV",
+        "onboard_time": 1709367333,
+        "rank": 11,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 1117061,
+        "num": 355533,
+        "word": "娟子 怀孕",
+        "onboard_time": 1709364571,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 349606,
+        "num": 349606,
+        "word": "男朋友把我的隐私问题往外说",
+        "onboard_time": 1709370628,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52174,
+        "num": 343593,
+        "word": "倒春寒来袭天猫增发千万保暖补贴",
+        "onboard_time": 1709377230,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1230188,
+        "num": 335578,
+        "word": "满舒克前女友发文",
+        "onboard_time": 1709368829,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420454,
+        "num": 329014,
+        "word": "贾玲半披发",
+        "onboard_time": 1709361930,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 415920,
+        "num": 327579,
+        "word": "姚安娜进组",
+        "onboard_time": 1709372972,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367019,
+        "num": 316120,
+        "word": "迪丽热巴裹毛毯上班",
+        "onboard_time": 1709374230,
+        "rank": 18,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 314472,
+        "num": 314472,
+        "word": "原来南北方洗澡的差异这么大",
+        "onboard_time": 1709376332,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612482,
+        "num": 294076,
+        "word": "女硕士怀二胎辞职带娃4年再求职碰壁大哭",
+        "onboard_time": 1709374652,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492849,
+        "num": 280727,
+        "word": "满舒克前女友因其感染高危HPV",
+        "onboard_time": 1709377593,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266737,
+        "num": 266737,
+        "word": "河南一村靠种番茄大龄剩男全脱单",
+        "onboard_time": 1709373692,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248229,
+        "num": 248229,
+        "word": "不要错把艾滋病当皮肤病",
+        "onboard_time": 1709356891,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 246017,
+        "num": 246017,
+        "word": "为何麻辣烫越来越贵了",
+        "onboard_time": 1709377293,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 353384,
+        "num": 243218,
+        "word": "爱情公寓是懂大学生就业的",
+        "onboard_time": 1709372549,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291360,
+        "num": 239373,
+        "word": "赵露思方否认演青云台",
+        "onboard_time": 1709374350,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281895,
+        "num": 239235,
+        "word": "阮经天演技",
+        "onboard_time": 1709373751,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235287,
+        "num": 235287,
+        "word": "让人一周胖一斤的食物别敞开吃了",
+        "onboard_time": 1709378131,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205378,
+        "num": 205378,
+        "word": "LNG bsyy",
+        "onboard_time": 1709377831,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 246909,
+        "num": 204406,
+        "word": "种地吧生活直播",
+        "onboard_time": 1709378070,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202720,
+        "num": 202720,
+        "word": "一诺达成2600杀",
+        "onboard_time": 1709378969,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199274,
+        "num": 199274,
+        "word": "电影第二十条",
+        "onboard_time": 1709377169,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192283,
+        "num": 192283,
+        "word": "肝癌多半是作出来的",
+        "onboard_time": 1709354131,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177669,
+        "num": 177669,
+        "word": "IU演唱会",
+        "onboard_time": 1709372613,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171925,
+        "num": 171925,
+        "word": "确诊淡人",
+        "onboard_time": 1709378672,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166403,
+        "num": 166403,
+        "word": "金晨的皮肤状态",
+        "onboard_time": 1709378795,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154420,
+        "num": 154420,
+        "word": "当成年人突然下定决心要改变生活",
+        "onboard_time": 1709375371,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51709,
+        "num": 145605,
+        "word": "神十七乘组圆满完成第2次出舱",
+        "onboard_time": 1709360671,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145150,
+        "num": 145150,
+        "word": "女子误将六角恐龙烫伤又用碘伏消毒",
+        "onboard_time": 1709362109,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149095,
+        "num": 145140,
+        "word": "王琳浪姐路透",
+        "onboard_time": 1709375253,
+        "rank": 40,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 144593,
+        "num": 144593,
+        "word": "无畏契约 物理意义上的火",
+        "onboard_time": 1709376811,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144314,
+        "num": 144314,
+        "word": "地铁上偶遇吴磊",
+        "onboard_time": 1709363431,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141293,
+        "num": 141293,
+        "word": "教嘴笨的人一个万能方法",
+        "onboard_time": 1709376811,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138414,
+        "num": 138414,
+        "word": "周处除三害 辩证看待恶",
+        "onboard_time": 1709373870,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137801,
+        "num": 137801,
+        "word": "给男朋友灌输了一点男德思想",
+        "onboard_time": 1709365112,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128086,
+        "num": 128086,
+        "word": "男朋友非要展示他的反应速度",
+        "onboard_time": 1709376515,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126404,
+        "num": 126404,
+        "word": "周处除三害票房破5000万",
+        "onboard_time": 1709376633,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104426,
+        "num": 124893,
+        "word": "全红婵给英国闺蜜按摩放松",
+        "onboard_time": 1709367271,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71307,
+        "num": 124459,
+        "word": "成都蓉城vs青岛海牛",
+        "onboard_time": 1709378853,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢记初心使命顽强拼搏进取#"
+    }
+  }
+}

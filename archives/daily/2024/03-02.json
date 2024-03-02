@@ -1,6 +1,6 @@
 {
   "startTime": 1709310056019,
-  "endTime": 1709378124475,
+  "endTime": 1709379236073,
   "band_list": [
     {
       "raw_hot": 2973604,
@@ -179,6 +179,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 890921,
+      "num": 890921,
+      "word": "娃哈哈一箱6板24瓶全是干货",
+      "onboard_time": 1709377169,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 857471,
       "num": 857471,
       "word": "范丞丞或将当中国新说唱导师",
@@ -193,6 +201,14 @@
       "onboard_time": 1709347471,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 802681,
+      "num": 802681,
+      "word": "间谍过家家 次瓜亲吻",
+      "onboard_time": 1709373329,
+      "rank": 21,
+      "category": "动漫"
     },
     {
       "raw_hot": 792502,
@@ -241,14 +257,6 @@
       "onboard_time": 1709343688,
       "rank": 11,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 759992,
-      "num": 759992,
-      "word": "间谍过家家 次瓜亲吻",
-      "onboard_time": 1709373329,
-      "rank": 21,
-      "category": "动漫"
     },
     {
       "raw_hot": 727793,
@@ -339,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 639818,
+      "num": 639818,
+      "word": "侃爷惹怒老丈人",
+      "onboard_time": 1709377169,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 634049,
       "num": 306923,
       "word": "女硕士怀二胎辞职带娃4年再求职碰壁大哭",
@@ -369,6 +385,14 @@
       "onboard_time": 1709355152,
       "rank": 5,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 583027,
+      "num": 583027,
+      "word": "杨幂爸爸独家照片",
+      "onboard_time": 1709377712,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 580111,
@@ -419,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 540283,
+      "num": 540283,
+      "word": "严浩翔打赏事件女主播报警",
+      "onboard_time": 1709378556,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 534929,
       "num": 534929,
       "word": "百词斩崩了",
@@ -456,6 +488,14 @@
       "word": "阮经天演技",
       "onboard_time": 1709373751,
       "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 502834,
+      "num": 502834,
+      "word": "爱上阮经天",
+      "onboard_time": 1709376572,
+      "rank": 7,
       "category": "电影"
     },
     {
@@ -499,6 +539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 492849,
+      "num": 291654,
+      "word": "满舒克前女友因其感染高危HPV",
+      "onboard_time": 1709377593,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485796,
       "num": 485796,
       "word": "娃哈哈",
@@ -531,28 +579,12 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 461204,
-      "num": 461204,
-      "word": "爱上阮经天",
-      "onboard_time": 1709376572,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 457336,
       "num": 268285,
       "word": "章泽天给新手妈妈送关爱礼包",
       "onboard_time": 1709348731,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 456236,
-      "num": 291654,
-      "word": "满舒克前女友因其感染高危HPV",
-      "onboard_time": 1709377593,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 449609,
@@ -689,14 +721,6 @@
       "onboard_time": 1709359109,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 371396,
-      "num": 275846,
-      "word": "侃爷惹怒老丈人",
-      "onboard_time": 1709377169,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 369314,
@@ -963,14 +987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259934,
-      "num": 259934,
-      "word": "娃哈哈一箱6板24瓶全是干货",
-      "onboard_time": 1709377169,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255355,
       "num": 255355,
       "word": "为什么年轻人喜欢晒各种东西",
@@ -987,12 +1003,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 246909,
+      "num": 204406,
+      "word": "种地吧生活直播",
+      "onboard_time": 1709378070,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246654,
       "num": 242010,
       "word": "邓超你自己心里没数吗",
       "onboard_time": 1709365894,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246017,
+      "num": 246017,
+      "word": "为何麻辣烫越来越贵了",
+      "onboard_time": 1709377293,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 244974,
@@ -1035,12 +1067,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 234668,
-      "num": 234668,
-      "word": "杨幂爸爸独家照片",
-      "onboard_time": 1709377712,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 235287,
+      "num": 235287,
+      "word": "让人一周胖一斤的食物别敞开吃了",
+      "onboard_time": 1709378131,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 234077,
@@ -1179,6 +1211,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 205378,
+      "num": 205378,
+      "word": "LNG bsyy",
+      "onboard_time": 1709377831,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204564,
       "num": 204564,
       "word": "教嘴笨的人一个万能方法",
@@ -1225,6 +1265,14 @@
       "onboard_time": 1709373870,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202720,
+      "num": 202720,
+      "word": "一诺达成2600杀",
+      "onboard_time": 1709378969,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 200848,
@@ -1331,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192372,
-      "num": 192372,
-      "word": "种地吧生活直播",
-      "onboard_time": 1709378070,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191544,
       "num": 191544,
       "word": "上班搭子离职了比分手还难受",
@@ -1353,14 +1393,6 @@
       "onboard_time": 1709369789,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 190176,
-      "num": 178780,
-      "word": "为何麻辣烫越来越贵了",
-      "onboard_time": 1709377293,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 189982,
@@ -1507,6 +1539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171925,
+      "num": 171925,
+      "word": "确诊淡人",
+      "onboard_time": 1709378672,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169785,
       "num": 169785,
       "word": "鞠婧祎姜黎非",
@@ -1553,6 +1593,14 @@
       "onboard_time": 1709351550,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 166403,
+      "num": 166403,
+      "word": "金晨的皮肤状态",
+      "onboard_time": 1709378795,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 165129,
@@ -1665,14 +1713,6 @@
       "onboard_time": 1709347830,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 156959,
-      "num": 156959,
-      "word": "LNG bsyy",
-      "onboard_time": 1709377831,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 155075,
@@ -2387,6 +2427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71307,
+      "num": 124459,
+      "word": "成都蓉城vs青岛海牛",
+      "onboard_time": 1709378853,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68414,
       "num": 351364,
       "word": "大溪地灰时尚收割机",
@@ -2441,6 +2489,14 @@
       "onboard_time": 1709337506,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52174,
+      "num": 422290,
+      "word": "倒春寒来袭天猫增发千万保暖补贴",
+      "onboard_time": 1709377230,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52111,
@@ -2508,7 +2564,7 @@
     },
     {
       "raw_hot": 36594,
-      "num": 287766,
+      "num": 826447,
       "word": "2024全国两会这些看点值得关注",
       "onboard_time": 1709364571,
       "rank": 17,
@@ -2521,14 +2577,6 @@
       "onboard_time": 1709323457,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 31764,
-      "num": 422290,
-      "word": "倒春寒来袭天猫增发千万保暖补贴",
-      "onboard_time": 1709377230,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31347,
