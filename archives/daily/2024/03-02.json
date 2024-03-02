@@ -1,6 +1,6 @@
 {
   "startTime": 1709310056019,
-  "endTime": 1709361265850,
+  "endTime": 1709363721761,
   "band_list": [
     {
       "raw_hot": 2650152,
@@ -75,6 +75,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1189245,
+      "num": 1189245,
+      "word": "贾玲半披发",
+      "onboard_time": 1709361930,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1186359,
       "num": 367173,
       "word": "不要错把艾滋病当皮肤病",
@@ -97,6 +105,14 @@
       "onboard_time": 1709305231,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1015332,
+      "num": 1015332,
+      "word": "陈乔恩回应去豪宅后对艾伦转变态度",
+      "onboard_time": 1709360969,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 984133,
@@ -201,6 +217,14 @@
       "onboard_time": 1709339429,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 683730,
+      "num": 351045,
+      "word": "UNIQ",
+      "onboard_time": 1709361270,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 662058,
@@ -331,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485796,
+      "num": 485796,
+      "word": "娃哈哈",
+      "onboard_time": 1709361629,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462297,
       "num": 462297,
       "word": "高德地图回应小团团语音包是否下架",
@@ -452,7 +484,7 @@
     },
     {
       "raw_hot": 369314,
-      "num": 244758,
+      "num": 271100,
       "word": "狗 这下该我了",
       "onboard_time": 1709357911,
       "rank": 20,
@@ -465,6 +497,14 @@
       "onboard_time": 1709348011,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 359694,
+      "num": 359694,
+      "word": "脂肪肝严重可能发展为肝癌",
+      "onboard_time": 1709358813,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 352386,
@@ -515,14 +555,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 333217,
-      "num": 158368,
-      "word": "陈乔恩回应去豪宅后对艾伦转变态度",
-      "onboard_time": 1709360969,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 327053,
       "num": 327053,
       "word": "终于知道娃哈哈为啥用纸箱包装了",
@@ -561,6 +593,14 @@
       "onboard_time": 1709304635,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 306322,
+      "num": 306322,
+      "word": "月入4000女子谈为何不想生",
+      "onboard_time": 1709359713,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291384,
@@ -627,12 +667,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 253442,
-      "num": 213782,
-      "word": "月入4000女子谈为何不想生",
-      "onboard_time": 1709359713,
-      "rank": 30,
+      "raw_hot": 255066,
+      "num": 255066,
+      "word": "女子误将六角恐龙烫伤又用碘伏消毒",
+      "onboard_time": 1709362109,
+      "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253816,
+      "num": 307022,
+      "word": "地铁上偶遇吴磊",
+      "onboard_time": 1709363431,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 248479,
@@ -657,14 +705,6 @@
       "onboard_time": 1709352329,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 237432,
-      "num": 237432,
-      "word": "脂肪肝严重可能发展为肝癌",
-      "onboard_time": 1709358813,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 237128,
@@ -843,6 +883,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 191925,
+      "num": 191925,
+      "word": "胡先煦又偷着做背德饭",
+      "onboard_time": 1709362231,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191544,
       "num": 191544,
       "word": "上班搭子离职了比分手还难受",
@@ -865,6 +913,14 @@
       "onboard_time": 1709352813,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181436,
+      "num": 181436,
+      "word": "无效式恋爱",
+      "onboard_time": 1709362289,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 181355,
@@ -1059,12 +1115,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147066,
+      "num": 147066,
+      "word": "网曝村干部坐拥60亩地用40亩盖别墅高楼",
+      "onboard_time": 1709363011,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145534,
       "num": 145534,
       "word": "巴菲特靠日本五大商社狂赚575亿",
       "onboard_time": 1709340928,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 145495,
+      "num": 145495,
+      "word": "青云台",
+      "onboard_time": 1709363370,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 143561,
@@ -1112,6 +1184,14 @@
       "word": "中国跳水队混团夺冠",
       "onboard_time": 1709340991,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137782,
+      "num": 137782,
+      "word": "巴黎奥运会虚拟奖牌榜预测",
+      "onboard_time": 1709361629,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1179,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126180,
+      "num": 126180,
+      "word": "谭松韵许凯牵手转圈搂",
+      "onboard_time": 1709363192,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126064,
       "num": 126064,
       "word": "许允真中村一叶权顺荣cha了easy",
@@ -1225,6 +1313,14 @@
       "onboard_time": 1709350171,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 118290,
+      "num": 118290,
+      "word": "爆蛋炒饭",
+      "onboard_time": 1709362710,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 118264,
@@ -1289,6 +1385,14 @@
       "onboard_time": 1709357252,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112593,
+      "num": 112593,
+      "word": "金龟子升级做姥姥了",
+      "onboard_time": 1709362470,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 110393,
@@ -1401,6 +1505,14 @@
       "onboard_time": 1709359109,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91021,
+      "num": 91021,
+      "word": "暗恋是一个人的地动山摇",
+      "onboard_time": 1709363611,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 89231,
