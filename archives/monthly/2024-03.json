@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709364856054,
+  "endTime": 1709367564255,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2714452,
+      "num": 244834,
+      "word": "满舒克",
+      "onboard_time": 1709366072,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2650152,
       "num": 2650152,
       "word": "蔡英文办公室中枪卫兵死亡",
@@ -49,6 +57,14 @@
       "onboard_time": 1709293531,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2161275,
+      "num": 574322,
+      "word": "娟子 怀孕",
+      "onboard_time": 1709364571,
+      "rank": 9,
+      "category": "网红"
     },
     {
       "raw_hot": 1952282,
@@ -427,6 +443,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 778027,
+      "num": 778027,
+      "word": "网曝村干部坐拥60亩地用40亩盖别墅高楼",
+      "onboard_time": 1709363011,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 773694,
       "num": 773694,
       "word": "韩国医生若辞职须立刻入伍",
@@ -747,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 576168,
+      "num": 243697,
+      "word": "小S老公回应父亲去世",
+      "onboard_time": 1709364991,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 575884,
       "num": 575884,
       "word": "新加坡旅游5天人均1.8万",
@@ -1019,20 +1051,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 476716,
+      "num": 476716,
+      "word": "吴镇宇打断向佐表演",
+      "onboard_time": 1709364451,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 472877,
       "num": 472877,
       "word": "周柯宇哥哥",
       "onboard_time": 1709279913,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 472404,
-      "num": 305349,
-      "word": "网曝村干部坐拥60亩地用40亩盖别墅高楼",
-      "onboard_time": 1709363011,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 469642,
@@ -1419,6 +1451,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 372574,
+      "num": 242816,
+      "word": "给男朋友灌输了一点男德思想",
+      "onboard_time": 1709365112,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 371560,
       "num": 371560,
       "word": "小红书 连不上网",
@@ -1609,14 +1649,6 @@
       "onboard_time": 1709289455,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 326134,
-      "num": 326134,
-      "word": "娟子 怀孕",
-      "onboard_time": 1709364571,
-      "rank": 9,
-      "category": "网红"
     },
     {
       "raw_hot": 321416,
@@ -1939,12 +1971,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 265818,
+      "num": 257696,
+      "word": "我妈把亲戚的工作搞丢了",
+      "onboard_time": 1709364331,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 265804,
       "num": 265804,
       "word": "女子误将六角恐龙烫伤又用碘伏消毒",
       "onboard_time": 1709362109,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264034,
+      "num": 239824,
+      "word": "季节露娜百分百胜率",
+      "onboard_time": 1709366134,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 261201,
@@ -1979,14 +2027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 257696,
-      "num": 257696,
-      "word": "我妈把亲戚的工作搞丢了",
-      "onboard_time": 1709364331,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 255931,
       "num": 208766,
       "word": "周星驰将为新片女足海选素人",
@@ -2019,12 +2059,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 246654,
+      "num": 239380,
+      "word": "邓超你自己心里没数吗",
+      "onboard_time": 1709365894,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245536,
       "num": 245536,
       "word": "小S大女儿Elly近照",
       "onboard_time": 1709296233,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244974,
+      "num": 244974,
+      "word": "零跑发布会",
+      "onboard_time": 1709364750,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 244457,
@@ -2209,6 +2265,14 @@
       "onboard_time": 1709268756,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 216014,
+      "num": 190502,
+      "word": "全红婵给英国闺蜜按摩放松",
+      "onboard_time": 1709367271,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 215610,
@@ -2419,6 +2483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201266,
+      "num": 201266,
+      "word": "高危HPV",
+      "onboard_time": 1709367333,
+      "rank": 26,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 200848,
       "num": 200848,
       "word": "属于自己的奖金被别人平分了",
@@ -2443,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199763,
+      "num": 199763,
+      "word": "无效刷牙好多年",
+      "onboard_time": 1709366670,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 199448,
       "num": 199448,
       "word": "全智贤新证件照",
@@ -2457,6 +2537,14 @@
       "onboard_time": 1709296471,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199218,
+      "num": 199218,
+      "word": "杨幂看秀照",
+      "onboard_time": 1709366670,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198875,
@@ -2579,6 +2667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189982,
+      "num": 189982,
+      "word": "谭松韵许凯牵手转圈搂",
+      "onboard_time": 1709363192,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189739,
       "num": 189739,
       "word": "三月你好",
@@ -2627,6 +2723,14 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 185984,
+      "num": 185984,
+      "word": "VG首次进入S组",
+      "onboard_time": 1709367271,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185227,
       "num": 185227,
       "word": "分手留多久空窗期才是尊重",
@@ -2657,14 +2761,6 @@
       "onboard_time": 1709292212,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 183363,
-      "num": 183363,
-      "word": "谭松韵许凯牵手转圈搂",
-      "onboard_time": 1709363192,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 182956,
@@ -2835,6 +2931,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 176231,
+      "num": 176231,
+      "word": "VG战胜TTG",
+      "onboard_time": 1709367452,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 175942,
       "num": 175942,
       "word": "娃哈哈建议理性消费",
@@ -2889,6 +2993,14 @@
       "onboard_time": 1709253572,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172302,
+      "num": 172302,
+      "word": "VG对战TTG",
+      "onboard_time": 1709361452,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 171684,
@@ -3163,6 +3275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 157678,
+      "num": 190722,
+      "word": "建议减轻中小学教师行政压力",
+      "onboard_time": 1709365714,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 157647,
       "num": 157647,
       "word": "建议探索生育数量与住房挂钩补偿机制",
@@ -3217,14 +3337,6 @@
       "onboard_time": 1709345909,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 155068,
-      "num": 155068,
-      "word": "吴镇宇打断向佐表演",
-      "onboard_time": 1709364451,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 154416,
@@ -3659,14 +3771,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 130754,
-      "num": 130754,
-      "word": "零跑发布会",
-      "onboard_time": 1709364750,
-      "rank": 38,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 129806,
       "num": 129806,
       "word": "王俊凯献唱云端之上",
@@ -3779,6 +3883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123955,
+      "num": 123955,
+      "word": "背影夏洛特杀疯了",
+      "onboard_time": 1709366791,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123842,
       "num": 123842,
       "word": "HYBE5到6代男团安可live现场",
@@ -3809,6 +3921,14 @@
       "onboard_time": 1709281233,
       "rank": 49,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 121385,
+      "num": 121385,
+      "word": "倒春寒",
+      "onboard_time": 1709364815,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120911,
@@ -3899,28 +4019,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 118149,
-      "num": 118149,
-      "word": "VG对战TTG",
-      "onboard_time": 1709361452,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 117607,
       "num": 117607,
       "word": "Doinb已停播99天",
       "onboard_time": 1709282134,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117424,
-      "num": 117424,
-      "word": "倒春寒",
-      "onboard_time": 1709364815,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117132,
@@ -3985,6 +4089,14 @@
       "onboard_time": 1709277212,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115431,
+      "num": 115431,
+      "word": "WE对战RNG",
+      "onboard_time": 1709367512,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 114579,
@@ -4073,6 +4185,14 @@
       "onboard_time": 1709285732,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110676,
+      "num": 110676,
+      "word": "原来棉服洗完后不能拧干",
+      "onboard_time": 1709366670,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 110393,
@@ -4869,6 +4989,9 @@
     },
     {
       "word": "#2013年以来总书记已56次下团组#"
+    },
+    {
+      "word": "#总书记与代表委员议国是#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1709367564255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1443669,
+        "num": 1443669,
+        "word": "贾玲半披发",
+        "onboard_time": 1709361930,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 778027,
+        "num": 778027,
+        "word": "网曝村干部坐拥60亩地用40亩盖别墅高楼",
+        "onboard_time": 1709363011,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105040,
+        "num": 621923,
+        "word": "神十七乘组圆满完成第2次出舱",
+        "onboard_time": 1709360671,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 614455,
+        "num": 614455,
+        "word": "地铁上偶遇吴磊",
+        "onboard_time": 1709363431,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2161275,
+        "num": 574322,
+        "word": "娟子 怀孕",
+        "onboard_time": 1709364571,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 515420,
+        "num": 515420,
+        "word": "陈乔恩回应去豪宅后对艾伦转变态度",
+        "onboard_time": 1709360969,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476716,
+        "num": 476716,
+        "word": "吴镇宇打断向佐表演",
+        "onboard_time": 1709364451,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335057,
+        "num": 335057,
+        "word": "娃哈哈",
+        "onboard_time": 1709361629,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308523,
+        "num": 308523,
+        "word": "女子自述遭遇职场霸凌办公桌贴满钟馗",
+        "onboard_time": 1709357370,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244974,
+        "num": 244974,
+        "word": "零跑发布会",
+        "onboard_time": 1709364750,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 2714452,
+        "num": 244834,
+        "word": "满舒克",
+        "onboard_time": 1709366072,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663470,
+        "num": 244146,
+        "word": "不要错把艾滋病当皮肤病",
+        "onboard_time": 1709356891,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 576168,
+        "num": 243697,
+        "word": "小S老公回应父亲去世",
+        "onboard_time": 1709364991,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419380,
+        "num": 243418,
+        "word": "找到了4000工资花不完的方法",
+        "onboard_time": 1709349154,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 372574,
+        "num": 242816,
+        "word": "给男朋友灌输了一点男德思想",
+        "onboard_time": 1709365112,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354508,
+        "num": 242338,
+        "word": "肝癌多半是作出来的",
+        "onboard_time": 1709354131,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 351040,
+        "num": 242139,
+        "word": "UNIQ",
+        "onboard_time": 1709361270,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270107,
+        "num": 241421,
+        "word": "胡先煦又偷着做背德饭",
+        "onboard_time": 1709362231,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215814,
+        "num": 240916,
+        "word": "蔡英文办公室卫兵自戕现场画面",
+        "onboard_time": 1709357731,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211686,
+        "num": 240603,
+        "word": "快递新规",
+        "onboard_time": 1709366912,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265818,
+        "num": 240437,
+        "word": "我妈把亲戚的工作搞丢了",
+        "onboard_time": 1709364331,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264034,
+        "num": 239824,
+        "word": "季节露娜百分百胜率",
+        "onboard_time": 1709366134,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 246654,
+        "num": 239380,
+        "word": "邓超你自己心里没数吗",
+        "onboard_time": 1709365894,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239101,
+        "num": 239101,
+        "word": "女子误将六角恐龙烫伤又用碘伏消毒",
+        "onboard_time": 1709362109,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232195,
+        "num": 232195,
+        "word": "青云台",
+        "onboard_time": 1709363370,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219401,
+        "num": 219401,
+        "word": "范丞丞或将当中国新说唱导师",
+        "onboard_time": 1709357370,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201266,
+        "num": 201266,
+        "word": "高危HPV",
+        "onboard_time": 1709367333,
+        "rank": 26,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 199763,
+        "num": 199763,
+        "word": "无效刷牙好多年",
+        "onboard_time": 1709366670,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199218,
+        "num": 199218,
+        "word": "杨幂看秀照",
+        "onboard_time": 1709366670,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157678,
+        "num": 190722,
+        "word": "建议减轻中小学教师行政压力",
+        "onboard_time": 1709365714,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 216014,
+        "num": 190502,
+        "word": "全红婵给英国闺蜜按摩放松",
+        "onboard_time": 1709367271,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189982,
+        "num": 189982,
+        "word": "谭松韵许凯牵手转圈搂",
+        "onboard_time": 1709363192,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185984,
+        "num": 185984,
+        "word": "VG首次进入S组",
+        "onboard_time": 1709367271,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176231,
+        "num": 176231,
+        "word": "VG战胜TTG",
+        "onboard_time": 1709367452,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172302,
+        "num": 172302,
+        "word": "VG对战TTG",
+        "onboard_time": 1709361452,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170754,
+        "num": 170754,
+        "word": "工藤新一卫衣",
+        "onboard_time": 1709354790,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 157610,
+        "num": 157610,
+        "word": "庆余年2海外先导预告",
+        "onboard_time": 1709357489,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153092,
+        "num": 153092,
+        "word": "网红主播小马哥夫妇偷税被罚317万",
+        "onboard_time": 1709351852,
+        "rank": 37,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 148767,
+        "num": 148767,
+        "word": "狗 这下该我了",
+        "onboard_time": 1709357911,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145854,
+        "num": 145854,
+        "word": "月入4000女子谈为何不想生",
+        "onboard_time": 1709359713,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142975,
+        "num": 142975,
+        "word": "女子推理社第二季",
+        "onboard_time": 1709364150,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139830,
+        "num": 139830,
+        "word": "小S公公",
+        "onboard_time": 1709348492,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139236,
+        "num": 139236,
+        "word": "无效式恋爱",
+        "onboard_time": 1709362289,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134489,
+        "num": 134489,
+        "word": "吴谢宇案死刑复核裁定书",
+        "onboard_time": 1709358990,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123955,
+        "num": 123955,
+        "word": "背影夏洛特杀疯了",
+        "onboard_time": 1709366791,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121385,
+        "num": 121385,
+        "word": "倒春寒",
+        "onboard_time": 1709364815,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115431,
+        "num": 115431,
+        "word": "WE对战RNG",
+        "onboard_time": 1709367512,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111800,
+        "num": 111800,
+        "word": "医生巧用砒霜挽救血癌女子生命",
+        "onboard_time": 1709355992,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110676,
+        "num": 110676,
+        "word": "原来棉服洗完后不能拧干",
+        "onboard_time": 1709366670,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 107895,
+        "num": 107895,
+        "word": "赵今麦系带粉裙",
+        "onboard_time": 1709359109,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与代表委员议国是#"
+    }
+  }
+}
