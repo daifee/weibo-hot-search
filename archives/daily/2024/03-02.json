@@ -1,6 +1,6 @@
 {
   "startTime": 1709310056019,
-  "endTime": 1709349424287,
+  "endTime": 1709350460246,
   "band_list": [
     {
       "raw_hot": 2650152,
@@ -27,6 +27,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1479495,
+      "num": 467262,
+      "word": "小S公公",
+      "onboard_time": 1709348492,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1224544,
       "num": 1224544,
       "word": "点读机女孩发视频称手术很成功",
@@ -51,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1118070,
+      "num": 1118070,
+      "word": "找到了4000工资花不完的方法",
+      "onboard_time": 1709349154,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1016991,
       "num": 1016991,
       "word": "姚安娜回应演技争议",
       "onboard_time": 1709305231,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1002448,
-      "num": 467262,
-      "word": "小S公公",
-      "onboard_time": 1709348492,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 984133,
@@ -83,8 +91,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 788177,
-      "num": 788177,
+      "raw_hot": 792502,
+      "num": 792502,
       "word": "女子买牛肉发现是牛油上贴瘦肉",
       "onboard_time": 1709347711,
       "rank": 5,
@@ -155,6 +163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 662058,
+      "num": 662058,
+      "word": "官方回应网传青海发洪水",
+      "onboard_time": 1709348970,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 580111,
       "num": 580111,
       "word": "没想到都三月份还在穿羽绒服",
@@ -200,6 +216,14 @@
       "word": "母亲回应儿子留学打搏击赛成植物人",
       "onboard_time": 1709347111,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457336,
+      "num": 268285,
+      "word": "章泽天给新手妈妈送关爱礼包",
+      "onboard_time": 1709348731,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -275,6 +299,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 365834,
+      "num": 365834,
+      "word": "梅西发视频庆祝粉丝破5亿",
+      "onboard_time": 1709348011,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 349450,
       "num": 349450,
       "word": "浪姐",
@@ -331,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 313886,
+      "num": 225775,
+      "word": "王栎鑫是谭松韵影迷会的会长",
+      "onboard_time": 1709349990,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 307636,
       "num": 307636,
       "word": "娜扎露腰上衣",
@@ -339,28 +379,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 306658,
-      "num": 306658,
-      "word": "官方回应网传青海发洪水",
-      "onboard_time": 1709348970,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291384,
       "num": 291384,
       "word": "知情人士称小团团疑涉案金额太大",
       "onboard_time": 1709286272,
       "rank": 35,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 290464,
-      "num": 268285,
-      "word": "章泽天给新手妈妈送关爱礼包",
-      "onboard_time": 1709348731,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282999,
@@ -377,14 +401,6 @@
       "onboard_time": 1709311528,
       "rank": 9,
       "category": "网红"
-    },
-    {
-      "raw_hot": 270525,
-      "num": 270525,
-      "word": "找到了4000工资花不完的方法",
-      "onboard_time": 1709349154,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 266304,
@@ -425,14 +441,6 @@
       "onboard_time": 1709295272,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 248220,
-      "num": 248220,
-      "word": "梅西发视频庆祝粉丝破5亿",
-      "onboard_time": 1709348011,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 244457,
@@ -499,6 +507,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 215288,
+      "num": 196688,
+      "word": "王栎鑫比许凯了解谭松韵",
+      "onboard_time": 1709349751,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214962,
       "num": 214962,
       "word": "国产剧中有自己的中年大女主",
@@ -545,6 +561,14 @@
       "onboard_time": 1709342011,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 197100,
+      "num": 197100,
+      "word": "苏尔父亲去世",
+      "onboard_time": 1709349751,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 195790,
@@ -691,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153763,
+      "num": 153763,
+      "word": "青海大坝溃堤未造成人员伤亡",
+      "onboard_time": 1709350050,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153707,
       "num": 153707,
       "word": "德州市民回应自发献血",
@@ -707,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148175,
+      "num": 148175,
+      "word": "从18楼窗台救了一只猫",
+      "onboard_time": 1709349210,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145534,
       "num": 145534,
       "word": "巴菲特靠日本五大商社狂赚575亿",
@@ -721,6 +761,14 @@
       "onboard_time": 1709299775,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143442,
+      "num": 143442,
+      "word": "原来当年我在早读课这么滑稽",
+      "onboard_time": 1709349933,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 143226,
@@ -763,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135585,
+      "num": 135585,
+      "word": "刘忻出发",
+      "onboard_time": 1709349570,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135496,
       "num": 135496,
       "word": "为什么现在年轻人喜欢养宠物",
@@ -785,14 +841,6 @@
       "onboard_time": 1709338286,
       "rank": 41,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 128988,
-      "num": 128988,
-      "word": "从18楼窗台救了一只猫",
-      "onboard_time": 1709349210,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 127812,
@@ -827,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118721,
+      "num": 118721,
+      "word": "原神",
+      "onboard_time": 1709350171,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 118264,
       "num": 118264,
       "word": "章若楠的假发有四斤多重",
@@ -836,7 +892,7 @@
     },
     {
       "raw_hot": 117132,
-      "num": 117132,
+      "num": 131617,
       "word": "韩国担忧3月医疗大乱",
       "onboard_time": 1709348671,
       "rank": 43,
@@ -883,12 +939,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110393,
+      "num": 110393,
+      "word": "勇士三连胜",
+      "onboard_time": 1709350231,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108224,
       "num": 108224,
       "word": "用雪堆了一只小伯恩山",
       "onboard_time": 1709349210,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104928,
+      "num": 104928,
+      "word": "新加坡旅游5天人均1.8万",
+      "onboard_time": 1709350410,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 104343,

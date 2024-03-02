@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709349424287,
+  "endTime": 1709350460246,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1479495,
+      "num": 467262,
+      "word": "小S公公",
+      "onboard_time": 1709348492,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1414321,
       "num": 1414321,
       "word": "姚安娜回应演技争议",
@@ -211,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1118070,
+      "num": 1118070,
+      "word": "找到了4000工资花不完的方法",
+      "onboard_time": 1709349154,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1093995,
       "num": 1093995,
       "word": "迪丽热巴三月录制综艺",
@@ -241,14 +257,6 @@
       "onboard_time": 1709295813,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1002448,
-      "num": 467262,
-      "word": "小S公公",
-      "onboard_time": 1709348492,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1000768,
@@ -339,20 +347,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 792502,
+      "num": 792502,
+      "word": "女子买牛肉发现是牛油上贴瘦肉",
+      "onboard_time": 1709347711,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 790728,
       "num": 790728,
       "word": "小团团已停播34天",
       "onboard_time": 1709273553,
       "rank": 12,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 788177,
-      "num": 788177,
-      "word": "女子买牛肉发现是牛油上贴瘦肉",
-      "onboard_time": 1709347711,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 781626,
@@ -545,6 +553,14 @@
       "onboard_time": 1709262211,
       "rank": 17,
       "category": "财经,科学科普"
+    },
+    {
+      "raw_hot": 662058,
+      "num": 662058,
+      "word": "官方回应网传青海发洪水",
+      "onboard_time": 1709348970,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 657914,
@@ -891,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 457336,
+      "num": 268285,
+      "word": "章泽天给新手妈妈送关爱礼包",
+      "onboard_time": 1709348731,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456247,
       "num": 456247,
       "word": "德州献血",
@@ -1211,6 +1235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 365834,
+      "num": 365834,
+      "word": "梅西发视频庆祝粉丝破5亿",
+      "onboard_time": 1709348011,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356964,
       "num": 356964,
       "word": "腿上出现红血丝或是疾病信号",
@@ -1411,6 +1443,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 313886,
+      "num": 225775,
+      "word": "王栎鑫是谭松韵影迷会的会长",
+      "onboard_time": 1709349990,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 312677,
       "num": 311811,
       "word": "有一种晕叫耳石症",
@@ -1433,14 +1473,6 @@
       "onboard_time": 1709255670,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 306658,
-      "num": 306658,
-      "word": "官方回应网传青海发洪水",
-      "onboard_time": 1709348970,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298929,
@@ -1513,14 +1545,6 @@
       "onboard_time": 1709252912,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 290464,
-      "num": 268285,
-      "word": "章泽天给新手妈妈送关爱礼包",
-      "onboard_time": 1709348731,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285445,
@@ -1609,14 +1633,6 @@
       "onboard_time": 1709266656,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 270525,
-      "num": 270525,
-      "word": "找到了4000工资花不完的方法",
-      "onboard_time": 1709349154,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 269031,
@@ -1713,14 +1729,6 @@
       "onboard_time": 1709286750,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 248220,
-      "num": 248220,
-      "word": "梅西发视频庆祝粉丝破5亿",
-      "onboard_time": 1709348011,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 245536,
@@ -1897,6 +1905,14 @@
       "onboard_time": 1709293953,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215288,
+      "num": 196688,
+      "word": "王栎鑫比许凯了解谭松韵",
+      "onboard_time": 1709349751,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 215110,
@@ -2153,6 +2169,14 @@
       "onboard_time": 1709304513,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197100,
+      "num": 197100,
+      "word": "苏尔父亲去世",
+      "onboard_time": 1709349751,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 196677,
@@ -2811,6 +2835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153763,
+      "num": 153763,
+      "word": "青海大坝溃堤未造成人员伤亡",
+      "onboard_time": 1709350050,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153229,
       "num": 153229,
       "word": "KTV9年倒闭7万家",
@@ -2891,6 +2923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 148175,
+      "num": 148175,
+      "word": "从18楼窗台救了一只猫",
+      "onboard_time": 1709349210,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148011,
       "num": 148011,
       "word": "如何找到最适合自己的发型",
@@ -2929,6 +2969,14 @@
       "onboard_time": 1709278890,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143442,
+      "num": 143442,
+      "word": "原来当年我在早读课这么滑稽",
+      "onboard_time": 1709349933,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 143226,
@@ -3083,6 +3131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135585,
+      "num": 135585,
+      "word": "刘忻出发",
+      "onboard_time": 1709349570,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135496,
       "num": 135496,
       "word": "为什么现在年轻人喜欢养宠物",
@@ -3161,14 +3217,6 @@
       "onboard_time": 1709285375,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 128988,
-      "num": 128988,
-      "word": "从18楼窗台救了一只猫",
-      "onboard_time": 1709349210,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 128873,
@@ -3347,6 +3395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118721,
+      "num": 118721,
+      "word": "原神",
+      "onboard_time": 1709350171,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 118304,
       "num": 282304,
       "word": "王者荣耀最佳天菜舞蹈挑战",
@@ -3364,7 +3420,7 @@
     },
     {
       "raw_hot": 117132,
-      "num": 117132,
+      "num": 131617,
       "word": "韩国担忧3月医疗大乱",
       "onboard_time": 1709348671,
       "rank": 43,
@@ -3483,6 +3539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110393,
+      "num": 110393,
+      "word": "勇士三连胜",
+      "onboard_time": 1709350231,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108425,
       "num": 108425,
       "word": "死亡笔记画风永不过时",
@@ -3537,6 +3601,14 @@
       "onboard_time": 1709237535,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104928,
+      "num": 104928,
+      "word": "新加坡旅游5天人均1.8万",
+      "onboard_time": 1709350410,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 104343,
