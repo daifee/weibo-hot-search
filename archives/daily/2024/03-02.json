@@ -1,10 +1,10 @@
 {
   "startTime": 1709310056019,
-  "endTime": 1709374594494,
+  "endTime": 1709375638567,
   "band_list": [
     {
       "raw_hot": 2973604,
-      "num": 300874,
+      "num": 301109,
       "word": "满舒克",
       "onboard_time": 1709366072,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2000692,
-      "num": 292705,
+      "num": 296985,
       "word": "满舒克前女友发文",
       "onboard_time": 1709368829,
       "rank": 15,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 766120,
+      "num": 766120,
+      "word": "韩国民众排队4个小时告别福宝",
+      "onboard_time": 1709373032,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 764867,
       "num": 764867,
       "word": "点读机女孩为学业放弃进娱乐圈",
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 660776,
-      "num": 294944,
+      "num": 298738,
       "word": "男朋友把我的隐私问题往外说",
       "onboard_time": 1709370628,
       "rank": 32,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 590083,
-      "num": 287347,
+      "num": 552591,
       "word": "爱情公寓是懂大学生就业的",
       "onboard_time": 1709372549,
       "rank": 16,
@@ -403,14 +411,6 @@
       "category": "教育,互联网"
     },
     {
-      "raw_hot": 531736,
-      "num": 531736,
-      "word": "韩国民众排队4个小时告别福宝",
-      "onboard_time": 1709373032,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 530885,
       "num": 530885,
       "word": "女子自述遭遇职场霸凌办公桌贴满钟馗",
@@ -433,6 +433,14 @@
       "onboard_time": 1709349990,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 518928,
+      "num": 518928,
+      "word": "阮经天演技",
+      "onboard_time": 1709373751,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 499774,
@@ -465,6 +473,14 @@
       "onboard_time": 1709347111,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494193,
+      "num": 494193,
+      "word": "英雄联盟官方回应霸哥事件",
+      "onboard_time": 1709373392,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 485796,
@@ -531,12 +547,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 424927,
-      "num": 424927,
-      "word": "英雄联盟官方回应霸哥事件",
-      "onboard_time": 1709373392,
-      "rank": 6,
-      "category": "游戏"
+      "raw_hot": 423194,
+      "num": 292921,
+      "word": "女硕士怀二胎辞职带娃4年再求职碰壁大哭",
+      "onboard_time": 1709374652,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419166,
+      "num": 295690,
+      "word": "迪丽热巴裹毛毯上班",
+      "onboard_time": 1709374230,
+      "rank": 27,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 418536,
@@ -619,6 +643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 384133,
+      "num": 294946,
+      "word": "间谍过家家 次瓜亲吻",
+      "onboard_time": 1709373329,
+      "rank": 21,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 383625,
       "num": 268339,
       "word": "工作三年的同事存款十万",
@@ -657,6 +689,14 @@
       "onboard_time": 1709348011,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 365010,
+      "num": 365010,
+      "word": "河南一村靠种番茄大龄剩男全脱单",
+      "onboard_time": 1709373692,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359694,
@@ -779,12 +819,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 300929,
-      "num": 300929,
-      "word": "阮经天演技",
-      "onboard_time": 1709373751,
-      "rank": 9,
-      "category": "电影"
+      "raw_hot": 292880,
+      "num": 292880,
+      "word": "赵露思方否认演青云台",
+      "onboard_time": 1709374350,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 291384,
@@ -857,14 +897,6 @@
       "onboard_time": 1709362109,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265739,
-      "num": 265739,
-      "word": "间谍过家家 次瓜亲吻",
-      "onboard_time": 1709373329,
-      "rank": 21,
-      "category": "动漫"
     },
     {
       "raw_hot": 264034,
@@ -1204,11 +1236,19 @@
     },
     {
       "raw_hot": 194021,
-      "num": 714662,
+      "num": 719281,
       "word": "神十七乘组圆满完成第2次出舱",
       "onboard_time": 1709360671,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 193534,
+      "num": 193534,
+      "word": "TXT FANLIVE",
+      "onboard_time": 1709374412,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 191544,
@@ -1225,14 +1265,6 @@
       "onboard_time": 1709369789,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 190110,
-      "num": 351314,
-      "word": "河南一村靠种番茄大龄剩男全脱单",
-      "onboard_time": 1709373692,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189982,
@@ -1273,14 +1305,6 @@
       "onboard_time": 1709345486,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 184687,
-      "num": 184687,
-      "word": "迪丽热巴裹毛毯上班",
-      "onboard_time": 1709374230,
-      "rank": 27,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 183449,
@@ -1395,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168232,
+      "num": 168232,
+      "word": "信任一个人的眼神藏不住",
+      "onboard_time": 1709374712,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167429,
       "num": 167429,
       "word": "张云龙狐妖竹业篇生日海报",
@@ -1443,12 +1475,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159811,
-      "num": 159811,
-      "word": "赵露思方否认演青云台",
-      "onboard_time": 1709374350,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 161849,
+      "num": 161849,
+      "word": "明明是同龄人为什么有的人老得快",
+      "onboard_time": 1709374531,
+      "rank": 47,
+      "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 161485,
+      "num": 161485,
+      "word": "王琳浪姐路透",
+      "onboard_time": 1709375253,
+      "rank": 34,
+      "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 161227,
+      "num": 170342,
+      "word": "快递新规首日调查",
+      "onboard_time": 1709374770,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159517,
@@ -1563,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153198,
+      "num": 153198,
+      "word": "当成年人突然下定决心要改变生活",
+      "onboard_time": 1709375371,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152625,
       "num": 152625,
       "word": "上班后对一切都失去了兴趣",
@@ -1600,14 +1656,6 @@
       "word": "张栋梁台词",
       "onboard_time": 1709367691,
       "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 145912,
-      "num": 145912,
-      "word": "TXT FANLIVE",
-      "onboard_time": 1709374412,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1955,14 +2003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112138,
-      "num": 112138,
-      "word": "明明是同龄人为什么有的人老得快",
-      "onboard_time": 1709374531,
-      "rank": 47,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 110676,
       "num": 110676,
       "word": "原来棉服洗完后不能拧干",
@@ -1985,6 +2025,14 @@
       "onboard_time": 1709358572,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108639,
+      "num": 108639,
+      "word": "脂肪肝患者的正确运动选择",
+      "onboard_time": 1709375132,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 108224,
