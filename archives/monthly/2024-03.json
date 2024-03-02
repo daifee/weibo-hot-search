@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709406784212,
+  "endTime": 1709408113826,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -6179,6 +6179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 30649,
+      "num": 30649,
+      "word": "五美组合将重组",
+      "onboard_time": 1709407277,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30540,
       "num": 204115,
       "word": "张婧仪被新浪员工问口红色号",
@@ -6217,6 +6225,14 @@
       "onboard_time": 1709279552,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 23327,
+      "num": 23327,
+      "word": "剪5分钟头陪演戏1小时",
+      "onboard_time": 1709406378,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21321,
@@ -6273,14 +6289,6 @@
       "onboard_time": 1709318718,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14218,
-      "num": 20085,
-      "word": "剪5分钟头陪演戏1小时",
-      "onboard_time": 1709406378,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13146,

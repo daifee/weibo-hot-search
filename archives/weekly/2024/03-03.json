@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709406784212,
+  "endTime": 1709408113826,
   "band_list": [
     {
       "raw_hot": 1919191,
@@ -451,6 +451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30649,
+      "num": 30649,
+      "word": "五美组合将重组",
+      "onboard_time": 1709407277,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29063,
       "num": 58917,
       "word": "2024F1巴林大奖赛",
@@ -459,8 +467,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14218,
-      "num": 20085,
+      "raw_hot": 23327,
+      "num": 23327,
       "word": "剪5分钟头陪演戏1小时",
       "onboard_time": 1709406378,
       "rank": 49,
