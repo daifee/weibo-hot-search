@@ -1,0 +1,410 @@
+{
+  "runTime": 1709385422279,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1376534,
+        "num": 1376534,
+        "word": "娃哈哈一箱6板24瓶全是干货",
+        "onboard_time": 1709377169,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1273326,
+        "num": 1273326,
+        "word": "张睿曾以五阿哥自荐结果对方请了苏有朋",
+        "onboard_time": 1709382514,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14339,
+        "num": 924845,
+        "word": "神十七乘组默契配合度满分",
+        "onboard_time": 1709385394,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 832379,
+        "num": 832379,
+        "word": "严浩翔打赏事件女主播报警",
+        "onboard_time": 1709378556,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 632442,
+        "num": 632442,
+        "word": "女子造谣男同学是强奸犯致其被停学",
+        "onboard_time": 1709381193,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561982,
+        "num": 561982,
+        "word": "爱上阮经天",
+        "onboard_time": 1709376572,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 474681,
+        "num": 474681,
+        "word": "伊能静56岁生图",
+        "onboard_time": 1709379513,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473979,
+        "num": 473979,
+        "word": "向琴琴入学新乡医学院",
+        "onboard_time": 1709379692,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312149,
+        "num": 312149,
+        "word": "韩国民众排队4个小时告别福宝",
+        "onboard_time": 1709373032,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208989,
+        "num": 310922,
+        "word": "间谍过家家 次瓜亲吻",
+        "onboard_time": 1709373329,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1087093,
+        "num": 310092,
+        "word": "满舒克",
+        "onboard_time": 1709366072,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 990522,
+        "num": 309015,
+        "word": "昆明地震",
+        "onboard_time": 1709383175,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711947,
+        "num": 308010,
+        "word": "娟子 怀孕",
+        "onboard_time": 1709364571,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 553737,
+        "num": 305809,
+        "word": "女硕士怀二胎辞职带娃4年再求职碰壁大哭",
+        "onboard_time": 1709374652,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381017,
+        "num": 304427,
+        "word": "高危HPV",
+        "onboard_time": 1709367333,
+        "rank": 14,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 192099,
+        "num": 303158,
+        "word": "原来南北方洗澡的差异这么大",
+        "onboard_time": 1709376332,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602529,
+        "num": 302423,
+        "word": "满舒克前女友发文",
+        "onboard_time": 1709368829,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460030,
+        "num": 301450,
+        "word": "Rihanna印度富豪婚礼演唱",
+        "onboard_time": 1709381433,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402985,
+        "num": 299545,
+        "word": "张根硕近期状态",
+        "onboard_time": 1709384373,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260078,
+        "num": 298043,
+        "word": "男朋友把我的隐私问题往外说",
+        "onboard_time": 1709370628,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 721010,
+        "num": 297093,
+        "word": "姥姥去世一周后妈妈发的信息",
+        "onboard_time": 1709384195,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328999,
+        "num": 296392,
+        "word": "杨幂爸爸独家照片",
+        "onboard_time": 1709377712,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327128,
+        "num": 294071,
+        "word": "张小斐主演电影票房破100亿",
+        "onboard_time": 1709381974,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 293890,
+        "num": 293890,
+        "word": "让人一周胖一斤的食物别敞开吃了",
+        "onboard_time": 1709378131,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 47229,
+        "num": 292564,
+        "word": "两会知识微动漫",
+        "onboard_time": 1709384852,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126442,
+        "num": 291747,
+        "word": "女子误将六角恐龙烫伤又用碘伏消毒",
+        "onboard_time": 1709362109,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298931,
+        "num": 291591,
+        "word": "房东的猫直播",
+        "onboard_time": 1709384074,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 291294,
+        "num": 291294,
+        "word": "姚安娜进组",
+        "onboard_time": 1709372972,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290600,
+        "num": 290600,
+        "word": "这么吃真的会长头发",
+        "onboard_time": 1709383832,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101432,
+        "num": 270644,
+        "word": "易建联观战全明星星锐赛",
+        "onboard_time": 1709383232,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256152,
+        "num": 256152,
+        "word": "被妈妈阻止舔卤蛋的小狗",
+        "onboard_time": 1709384491,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255023,
+        "num": 255023,
+        "word": "文韬济南",
+        "onboard_time": 1709381132,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238478,
+        "num": 238478,
+        "word": "林俊杰去了霉霉演唱会",
+        "onboard_time": 1709385154,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237598,
+        "num": 237598,
+        "word": "你好星期六",
+        "onboard_time": 1709380355,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92212,
+        "num": 228545,
+        "word": "韦世豪成都蓉城首秀",
+        "onboard_time": 1709384852,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226767,
+        "num": 226767,
+        "word": "周处除三害封神镜头",
+        "onboard_time": 1709379989,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197920,
+        "num": 197920,
+        "word": "身体出现这些征兆警惕卵巢癌",
+        "onboard_time": 1709383473,
+        "rank": 36,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 195975,
+        "num": 195975,
+        "word": "男朋友能把你交代的事干得多离谱",
+        "onboard_time": 1709383473,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195652,
+        "num": 195652,
+        "word": "侃爷惹怒老丈人",
+        "onboard_time": 1709377169,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195058,
+        "num": 195058,
+        "word": "周杰伦悉尼演唱会",
+        "onboard_time": 1709384792,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194746,
+        "num": 194746,
+        "word": "伊能静儿子晒看秀照",
+        "onboard_time": 1709384555,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187200,
+        "num": 187200,
+        "word": "阮经天演技",
+        "onboard_time": 1709373751,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187041,
+        "num": 187041,
+        "word": "迪丽热巴裹毛毯上班",
+        "onboard_time": 1709374230,
+        "rank": 42,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 175447,
+        "num": 175447,
+        "word": "打了唇钉后喝水真的会漏水",
+        "onboard_time": 1709382032,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145705,
+        "num": 145705,
+        "word": "石凯深圳",
+        "onboard_time": 1709380653,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144916,
+        "num": 144916,
+        "word": "拍照眼睛无神的原因",
+        "onboard_time": 1709384852,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140790,
+        "num": 140790,
+        "word": "为何麻辣烫越来越贵了",
+        "onboard_time": 1709377293,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125864,
+        "num": 125864,
+        "word": "阮经天好懂",
+        "onboard_time": 1709383232,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89381,
+        "num": 123675,
+        "word": "日本长野县发生雪崩或有10人被困",
+        "onboard_time": 1709380832,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80008,
+        "num": 123539,
+        "word": "成都蓉城主场上座率",
+        "onboard_time": 1709382751,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与代表委员议国是#"
+    }
+  }
+}
