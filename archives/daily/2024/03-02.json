@@ -1,6 +1,6 @@
 {
   "startTime": 1709310056019,
-  "endTime": 1709350460246,
+  "endTime": 1709353198910,
   "band_list": [
     {
       "raw_hot": 2650152,
@@ -9,6 +9,14 @@
       "onboard_time": 1709309312,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1952282,
+      "num": 1952282,
+      "word": "找到了4000工资花不完的方法",
+      "onboard_time": 1709349154,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 1570943,
@@ -59,14 +67,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1118070,
-      "num": 1118070,
-      "word": "找到了4000工资花不完的方法",
-      "onboard_time": 1709349154,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1016991,
       "num": 1016991,
       "word": "姚安娜回应演技争议",
@@ -81,6 +81,14 @@
       "onboard_time": 1709345013,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 886721,
+      "num": 415820,
+      "word": "网红主播小马哥夫妇偷税被罚317万",
+      "onboard_time": 1709351852,
+      "rank": 11,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 808066,
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 605505,
+      "num": 605505,
+      "word": "王栎鑫比许凯了解谭松韵",
+      "onboard_time": 1709349751,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 580111,
       "num": 580111,
       "word": "没想到都三月份还在穿羽绒服",
@@ -201,6 +217,22 @@
       "onboard_time": 1709298514,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 510932,
+      "num": 417491,
+      "word": "王栎鑫是谭松韵影迷会的会长",
+      "onboard_time": 1709349990,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 510539,
+      "num": 510539,
+      "word": "新加坡旅游5天人均1.8万",
+      "onboard_time": 1709350410,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 499774,
@@ -241,6 +273,22 @@
       "onboard_time": 1709297971,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434018,
+      "num": 417295,
+      "word": "张予曦体态",
+      "onboard_time": 1709351969,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 414371,
+      "num": 414371,
+      "word": "高德地图回应小团团语音包是否下架",
+      "onboard_time": 1709351248,
+      "rank": 13,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 403924,
@@ -363,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 313886,
-      "num": 225775,
-      "word": "王栎鑫是谭松韵影迷会的会长",
-      "onboard_time": 1709349990,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 307636,
       "num": 307636,
       "word": "娜扎露腰上衣",
@@ -401,6 +441,14 @@
       "onboard_time": 1709311528,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 274695,
+      "num": 274695,
+      "word": "苏尔父亲去世",
+      "onboard_time": 1709349751,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 266304,
@@ -459,6 +507,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232908,
+      "num": 232908,
+      "word": "张雨绮理想的婚姻状态是分房睡",
+      "onboard_time": 1709350649,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 231166,
+      "num": 231166,
+      "word": "孩子抑郁是家病了",
+      "onboard_time": 1709350952,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 229693,
       "num": 229693,
       "word": "吃赛百味被价格背刺了",
@@ -507,14 +571,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 215288,
-      "num": 196688,
-      "word": "王栎鑫比许凯了解谭松韵",
-      "onboard_time": 1709349751,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214962,
       "num": 214962,
       "word": "国产剧中有自己的中年大女主",
@@ -537,6 +593,22 @@
       "onboard_time": 1709300912,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204254,
+      "num": 204254,
+      "word": "周处除三害",
+      "onboard_time": 1709352329,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 203697,
+      "num": 203697,
+      "word": "王者荣耀",
+      "onboard_time": 1709352269,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 203069,
@@ -563,14 +635,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 197100,
-      "num": 197100,
-      "word": "苏尔父亲去世",
-      "onboard_time": 1709349751,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195790,
       "num": 195790,
       "word": "康康亲吻Smoggy",
@@ -585,6 +649,14 @@
       "onboard_time": 1709299652,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 195258,
+      "num": 195258,
+      "word": "张杰发起演唱会歌单投票",
+      "onboard_time": 1709351733,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 194692,
@@ -641,6 +713,22 @@
       "onboard_time": 1709307154,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169785,
+      "num": 169785,
+      "word": "鞠婧祎姜黎非",
+      "onboard_time": 1709351129,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166746,
+      "num": 166746,
+      "word": "为什么上班不爱化妆了",
+      "onboard_time": 1709351550,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 163425,
@@ -731,12 +819,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152625,
+      "num": 152625,
+      "word": "上班后对一切都失去了兴趣",
+      "onboard_time": 1709351852,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152075,
       "num": 152075,
       "word": "台宪兵指挥部回应卫兵自戕",
       "onboard_time": 1709335763,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150932,
+      "num": 150932,
+      "word": "肖战蓝白外套",
+      "onboard_time": 1709352813,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148175,
@@ -793,6 +897,14 @@
       "onboard_time": 1709301632,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139013,
+      "num": 139013,
+      "word": "约等于把宿傩封印在阳间",
+      "onboard_time": 1709352871,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 138754,
@@ -892,7 +1004,7 @@
     },
     {
       "raw_hot": 117132,
-      "num": 131617,
+      "num": 191907,
       "word": "韩国担忧3月医疗大乱",
       "onboard_time": 1709348671,
       "rank": 43,
@@ -953,14 +1065,6 @@
       "onboard_time": 1709349210,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 104928,
-      "num": 104928,
-      "word": "新加坡旅游5天人均1.8万",
-      "onboard_time": 1709350410,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 104343,
@@ -1201,6 +1305,14 @@
       "onboard_time": 1709288133,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 42348,
+      "num": 661014,
+      "word": "全国两会常用表述辨析",
+      "onboard_time": 1709337506,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 40252,

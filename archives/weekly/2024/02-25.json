@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709350460246,
+  "endTime": 1709353198910,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -449,6 +449,14 @@
       "onboard_time": 1708904907,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1952282,
+      "num": 1952282,
+      "word": "找到了4000工资花不完的方法",
+      "onboard_time": 1709349154,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 1945759,
@@ -1395,14 +1403,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1118070,
-      "num": 1118070,
-      "word": "找到了4000工资花不完的方法",
-      "onboard_time": 1709349154,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 1114617,
       "num": 1114617,
       "word": "曾志伟郝蕾起争执",
@@ -1961,6 +1961,14 @@
       "onboard_time": 1709213554,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 886721,
+      "num": 415820,
+      "word": "网红主播小马哥夫妇偷税被罚317万",
+      "onboard_time": 1709351852,
+      "rank": 11,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 885161,
@@ -3587,6 +3595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 605505,
+      "num": 605505,
+      "word": "王栎鑫比许凯了解谭松韵",
+      "onboard_time": 1709349751,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 603898,
       "num": 308357,
       "word": "把公司群名改成了穷酸公司迟早倒闭",
@@ -4425,6 +4441,22 @@
       "onboard_time": 1709295093,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 510932,
+      "num": 417491,
+      "word": "王栎鑫是谭松韵影迷会的会长",
+      "onboard_time": 1709349990,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 510539,
+      "num": 510539,
+      "word": "新加坡旅游5天人均1.8万",
+      "onboard_time": 1709350410,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 508655,
@@ -5363,6 +5395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 434018,
+      "num": 417295,
+      "word": "张予曦体态",
+      "onboard_time": 1709351969,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 433815,
       "num": 433815,
       "word": "2024年研考初试成绩公布",
@@ -5625,6 +5665,14 @@
       "onboard_time": 1708841854,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 414371,
+      "num": 414371,
+      "word": "高德地图回应小团团语音包是否下架",
+      "onboard_time": 1709351248,
+      "rank": 13,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 414150,
@@ -7203,14 +7251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 313886,
-      "num": 225775,
-      "word": "王栎鑫是谭松韵影迷会的会长",
-      "onboard_time": 1709349990,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 313705,
       "num": 313705,
       "word": "周震南父亲公司房产被拍卖",
@@ -8073,6 +8113,14 @@
       "onboard_time": 1709125053,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 274695,
+      "num": 274695,
+      "word": "苏尔父亲去世",
+      "onboard_time": 1709349751,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 274661,
@@ -9371,6 +9419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232908,
+      "num": 232908,
+      "word": "张雨绮理想的婚姻状态是分房睡",
+      "onboard_time": 1709350649,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232325,
       "num": 232325,
       "word": "徐冬冬说跑龙套赚的钱够养自己",
@@ -9433,6 +9489,14 @@
       "onboard_time": 1708883119,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 231166,
+      "num": 231166,
+      "word": "孩子抑郁是家病了",
+      "onboard_time": 1709350952,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 231096,
@@ -10107,14 +10171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215288,
-      "num": 196688,
-      "word": "王栎鑫比许凯了解谭松韵",
-      "onboard_time": 1709349751,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215150,
       "num": 204667,
       "word": "外国婆婆临走提出必须搓澡",
@@ -10715,6 +10771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204254,
+      "num": 204254,
+      "word": "周处除三害",
+      "onboard_time": 1708857216,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204190,
       "num": 204190,
       "word": "AD钙奶和鲜花中有一双41码布鞋",
@@ -11187,14 +11251,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 197100,
-      "num": 197100,
-      "word": "苏尔父亲去世",
-      "onboard_time": 1709349751,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196887,
       "num": 196887,
       "word": "中国男篮最后一攻选择",
@@ -11337,6 +11393,14 @@
       "onboard_time": 1708960475,
       "rank": 45,
       "category": "教育,社会议题"
+    },
+    {
+      "raw_hot": 195258,
+      "num": 195258,
+      "word": "张杰发起演唱会歌单投票",
+      "onboard_time": 1709351733,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 195242,
@@ -13139,6 +13203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169785,
+      "num": 169785,
+      "word": "鞠婧祎姜黎非",
+      "onboard_time": 1709351129,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169755,
       "num": 169755,
       "word": "EDGM对战XYG",
@@ -13361,6 +13433,14 @@
       "onboard_time": 1709090973,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166746,
+      "num": 166746,
+      "word": "为什么上班不爱化妆了",
+      "onboard_time": 1709351550,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 166702,
@@ -13625,14 +13705,6 @@
       "onboard_time": 1708851990,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 162787,
-      "num": 162787,
-      "word": "周处除三害",
-      "onboard_time": 1708857216,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 162731,
@@ -14315,6 +14387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 152625,
+      "num": 152625,
+      "word": "上班后对一切都失去了兴趣",
+      "onboard_time": 1709351852,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152397,
       "num": 152397,
       "word": "这些食材不建议生吃",
@@ -14449,6 +14529,14 @@
       "onboard_time": 1709175451,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150932,
+      "num": 150932,
+      "word": "肖战蓝白外套",
+      "onboard_time": 1709352813,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 150821,
@@ -15281,6 +15369,14 @@
       "onboard_time": 1708826015,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139013,
+      "num": 139013,
+      "word": "约等于把宿傩封印在阳间",
+      "onboard_time": 1709352871,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 138941,
@@ -16532,7 +16628,7 @@
     },
     {
       "raw_hot": 117132,
-      "num": 131617,
+      "num": 191907,
       "word": "韩国担忧3月医疗大乱",
       "onboard_time": 1709348671,
       "rank": 43,
@@ -17033,14 +17129,6 @@
       "onboard_time": 1709237535,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104928,
-      "num": 104928,
-      "word": "新加坡旅游5天人均1.8万",
-      "onboard_time": 1709350410,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 104727,
@@ -17937,6 +18025,14 @@
       "onboard_time": 1709276432,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42348,
+      "num": 661014,
+      "word": "全国两会常用表述辨析",
+      "onboard_time": 1709337506,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 42184,
