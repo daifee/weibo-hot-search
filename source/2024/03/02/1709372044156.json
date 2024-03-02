@@ -1,0 +1,410 @@
+{
+  "runTime": 1709372044156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 942116,
+        "num": 942116,
+        "word": "贾玲半披发",
+        "onboard_time": 1709361930,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 856287,
+        "num": 856287,
+        "word": "沈梦辰在巴黎被冻到过敏",
+        "onboard_time": 1709368352,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73378,
+        "num": 618625,
+        "word": "神十七乘组圆满完成第2次出舱",
+        "onboard_time": 1709360671,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 471121,
+        "num": 471121,
+        "word": "全红婵给英国闺蜜按摩放松",
+        "onboard_time": 1709367271,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 464389,
+        "num": 464389,
+        "word": "官方通报村支书坐拥60亩地",
+        "onboard_time": 1709369133,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397040,
+        "num": 397040,
+        "word": "给男朋友灌输了一点男德思想",
+        "onboard_time": 1709365112,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373594,
+        "num": 373594,
+        "word": "快递新规",
+        "onboard_time": 1709366912,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352000,
+        "num": 352000,
+        "word": "专家建议洋葱式穿衣法防春寒",
+        "onboard_time": 1709368651,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327694,
+        "num": 327694,
+        "word": "地铁上偶遇吴磊",
+        "onboard_time": 1709363431,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295428,
+        "num": 295428,
+        "word": "权顺荣wvs",
+        "onboard_time": 1709368413,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2761784,
+        "num": 292197,
+        "word": "满舒克",
+        "onboard_time": 1709366072,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1801271,
+        "num": 289975,
+        "word": "高危HPV",
+        "onboard_time": 1709367333,
+        "rank": 11,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 1536924,
+        "num": 284298,
+        "word": "娟子 怀孕",
+        "onboard_time": 1709364571,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 560735,
+        "num": 282863,
+        "word": "男朋友把我的隐私问题往外说",
+        "onboard_time": 1709370628,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 528808,
+        "num": 276505,
+        "word": "不要错把艾滋病当皮肤病",
+        "onboard_time": 1709356891,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 2000692,
+        "num": 274122,
+        "word": "满舒克前女友发文",
+        "onboard_time": 1709368829,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414243,
+        "num": 270548,
+        "word": "哈圈",
+        "onboard_time": 1709369492,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369137,
+        "num": 266224,
+        "word": "肝癌多半是作出来的",
+        "onboard_time": 1709354131,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 324257,
+        "num": 262735,
+        "word": "网曝村干部坐拥60亩地用40亩盖别墅高楼",
+        "onboard_time": 1709363011,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260152,
+        "num": 260152,
+        "word": "找到了4000工资花不完的方法",
+        "onboard_time": 1709349154,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255355,
+        "num": 255355,
+        "word": "为什么年轻人喜欢晒各种东西",
+        "onboard_time": 1709369614,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240493,
+        "num": 240493,
+        "word": "陈乔恩回应去豪宅后对艾伦转变态度",
+        "onboard_time": 1709360969,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225679,
+        "num": 225679,
+        "word": "胡先煦又偷着做背德饭",
+        "onboard_time": 1709362231,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211862,
+        "num": 211862,
+        "word": "吴镇宇打断向佐表演",
+        "onboard_time": 1709364451,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211819,
+        "num": 211819,
+        "word": "这3种瓜子再馋也别买",
+        "onboard_time": 1709370811,
+        "rank": 24,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 197884,
+        "num": 197884,
+        "word": "村委会主任侵占集体土地被逮捕",
+        "onboard_time": 1709370032,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196657,
+        "num": 196657,
+        "word": "辛芷蕾白客开机照",
+        "onboard_time": 1709370752,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180376,
+        "num": 180376,
+        "word": "15分钟为啥又叫一刻钟",
+        "onboard_time": 1709371534,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 168833,
+        "num": 168833,
+        "word": "张凌赫无框镜",
+        "onboard_time": 1709369614,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156257,
+        "num": 167516,
+        "word": "女子误将六角恐龙烫伤又用碘伏消毒",
+        "onboard_time": 1709362109,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166815,
+        "num": 166815,
+        "word": "现在的理发店太尴尬了",
+        "onboard_time": 1709368893,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162596,
+        "num": 162596,
+        "word": "我妈把亲戚的工作搞丢了",
+        "onboard_time": 1709364331,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157008,
+        "num": 157008,
+        "word": "无效刷牙好多年",
+        "onboard_time": 1709366670,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152321,
+        "num": 152321,
+        "word": "UNIQ",
+        "onboard_time": 1709361270,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148510,
+        "num": 148510,
+        "word": "RNG六连败",
+        "onboard_time": 1709369916,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147578,
+        "num": 147578,
+        "word": "邓超你自己心里没数吗",
+        "onboard_time": 1709365894,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58582,
+        "num": 146557,
+        "word": "零跑C10上市价格",
+        "onboard_time": 1709368352,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 146006,
+        "num": 146006,
+        "word": "灿烂的她",
+        "onboard_time": 1709369789,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143634,
+        "num": 143634,
+        "word": "小S老公回应父亲去世",
+        "onboard_time": 1709364991,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105431,
+        "num": 141929,
+        "word": "倒春寒时你一般穿几层",
+        "onboard_time": 1709370628,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140350,
+        "num": 140350,
+        "word": "高危型HPV持续感染可能引发宫颈癌",
+        "onboard_time": 1709368173,
+        "rank": 40,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 137877,
+        "num": 137877,
+        "word": "英专生看了都沉默的翻译机",
+        "onboard_time": 1709368711,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128475,
+        "num": 128475,
+        "word": "春天是VG的季节",
+        "onboard_time": 1709371592,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127781,
+        "num": 127781,
+        "word": "女子自述遭遇职场霸凌办公桌贴满钟馗",
+        "onboard_time": 1709357370,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126638,
+        "num": 126638,
+        "word": "全员加速中 抓鸡",
+        "onboard_time": 1709371891,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120913,
+        "num": 120913,
+        "word": "原来我的审美一直都没变",
+        "onboard_time": 1709371411,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119642,
+        "num": 119642,
+        "word": "看起来热量很高实际热量很低的食物",
+        "onboard_time": 1709372011,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116947,
+        "num": 116947,
+        "word": "课本封面",
+        "onboard_time": 1709371831,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 97682,
+        "num": 116494,
+        "word": "蔡英文办公室卫兵自戕现场画面",
+        "onboard_time": 1709357731,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83413,
+        "num": 115944,
+        "word": "娃哈哈",
+        "onboard_time": 1709361629,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记与代表委员议国是#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1709310056019,
-  "endTime": 1709370912310,
+  "endTime": 1709372044156,
   "band_list": [
     {
       "raw_hot": 2973604,
@@ -35,7 +35,7 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 1968134,
+      "raw_hot": 2000692,
       "num": 292705,
       "word": "满舒克前女友发文",
       "onboard_time": 1709368829,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 856287,
+      "num": 856287,
+      "word": "沈梦辰在巴黎被冻到过敏",
+      "onboard_time": 1709368352,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 808066,
       "num": 808066,
       "word": "中传回应点读机女孩休学",
@@ -187,14 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 790186,
-      "num": 790186,
-      "word": "沈梦辰在巴黎被冻到过敏",
-      "onboard_time": 1709368352,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 781626,
       "num": 781626,
       "word": "博主称因称呼雷军为军儿遭小米投诉",
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 780299,
-      "num": 294189,
+      "num": 471121,
       "word": "全红婵给英国闺蜜按摩放松",
       "onboard_time": 1709367271,
       "rank": 30,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 560735,
+      "num": 282863,
+      "word": "男朋友把我的隐私问题往外说",
+      "onboard_time": 1709370628,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 542896,
       "num": 542896,
       "word": "张翰工作室起诉昕影影业",
@@ -443,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 464389,
+      "num": 464389,
+      "word": "官方通报村支书坐拥60亩地",
+      "onboard_time": 1709369133,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462297,
       "num": 462297,
       "word": "高德地图回应小团团语音包是否下架",
@@ -475,14 +491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 431594,
-      "num": 431594,
-      "word": "官方通报村支书坐拥60亩地",
-      "onboard_time": 1709369133,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 425470,
       "num": 425470,
       "word": "蔡英文办公室卫兵自戕现场画面",
@@ -497,6 +505,14 @@
       "onboard_time": 1709365112,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 414243,
+      "num": 291566,
+      "word": "哈圈",
+      "onboard_time": 1709369492,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 404806,
@@ -619,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352000,
+      "num": 352000,
+      "word": "专家建议洋葱式穿衣法防春寒",
+      "onboard_time": 1709368651,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349450,
       "num": 349450,
       "word": "浪姐",
@@ -715,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 291566,
-      "num": 291566,
-      "word": "哈圈",
-      "onboard_time": 1709369492,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 291384,
       "num": 291384,
       "word": "知情人士称小团团疑涉案金额太大",
@@ -737,14 +753,6 @@
       "onboard_time": 1709362231,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 287889,
-      "num": 287889,
-      "word": "专家建议洋葱式穿衣法防春寒",
-      "onboard_time": 1709368651,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282999,
@@ -835,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255355,
+      "num": 255355,
+      "word": "为什么年轻人喜欢晒各种东西",
+      "onboard_time": 1709369614,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 248479,
       "num": 184124,
       "word": "建议不要等到睡前才刷牙",
@@ -897,14 +913,6 @@
       "onboard_time": 1709350649,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230294,
-      "num": 230294,
-      "word": "为什么年轻人喜欢晒各种东西",
-      "onboard_time": 1709369614,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 229693,
@@ -977,6 +985,14 @@
       "onboard_time": 1709306791,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 211819,
+      "num": 211819,
+      "word": "这3种瓜子再馋也别买",
+      "onboard_time": 1709370811,
+      "rank": 37,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 211784,
@@ -1075,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197884,
+      "num": 197884,
+      "word": "村委会主任侵占集体土地被逮捕",
+      "onboard_time": 1709370032,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196813,
       "num": 196813,
       "word": "汪峰接小女儿放学",
@@ -1163,14 +1187,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 188282,
-      "num": 188282,
-      "word": "村委会主任侵占集体土地被逮捕",
-      "onboard_time": 1709370032,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184838,
       "num": 167998,
       "word": "爸爸托梦帮我打赢了官司",
@@ -1219,12 +1235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180213,
-      "num": 180213,
-      "word": "男朋友把我的隐私问题往外说",
-      "onboard_time": 1709370628,
-      "rank": 32,
-      "category": "情感"
+      "raw_hot": 180376,
+      "num": 180376,
+      "word": "15分钟为啥又叫一刻钟",
+      "onboard_time": 1709371534,
+      "rank": 27,
+      "category": "科学科普"
     },
     {
       "raw_hot": 179832,
@@ -1267,20 +1283,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 169809,
-      "num": 169809,
-      "word": "这3种瓜子再馋也别买",
-      "onboard_time": 1709370811,
-      "rank": 37,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 169785,
       "num": 169785,
       "word": "鞠婧祎姜黎非",
       "onboard_time": 1709351129,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168833,
+      "num": 168833,
+      "word": "张凌赫无框镜",
+      "onboard_time": 1709369614,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 167429,
@@ -1393,14 +1409,6 @@
       "onboard_time": 1709347830,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 156569,
-      "num": 156569,
-      "word": "张凌赫无框镜",
-      "onboard_time": 1709369614,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 155075,
@@ -1612,11 +1620,19 @@
     },
     {
       "raw_hot": 128803,
-      "num": 128803,
+      "num": 141929,
       "word": "倒春寒时你一般穿几层",
       "onboard_time": 1709370628,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128475,
+      "num": 128475,
+      "word": "春天是VG的季节",
+      "onboard_time": 1709371592,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 127812,
@@ -1625,6 +1641,14 @@
       "onboard_time": 1709304513,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126638,
+      "num": 126638,
+      "word": "全员加速中 抓鸡",
+      "onboard_time": 1709371891,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 126341,
@@ -1683,12 +1707,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120913,
+      "num": 120913,
+      "word": "原来我的审美一直都没变",
+      "onboard_time": 1709371411,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120430,
       "num": 120430,
       "word": "种地吧十个勤天有玻璃大棚了",
       "onboard_time": 1709358150,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119642,
+      "num": 119642,
+      "word": "看起来热量很高实际热量很低的食物",
+      "onboard_time": 1709372011,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 118721,
@@ -1713,6 +1753,14 @@
       "onboard_time": 1709348671,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 116947,
+      "num": 116947,
+      "word": "课本封面",
+      "onboard_time": 1709371831,
+      "rank": 47,
+      "category": "旅游"
     },
     {
       "raw_hot": 116914,
