@@ -1,6 +1,6 @@
 {
   "startTime": 1709310056019,
-  "endTime": 1709344776593,
+  "endTime": 1709346038463,
   "band_list": [
     {
       "raw_hot": 2650152,
@@ -41,6 +41,14 @@
       "onboard_time": 1709305231,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 937184,
+      "num": 937184,
+      "word": "接下来两个月是养乳腺的好时机",
+      "onboard_time": 1709342731,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 781626,
@@ -91,12 +99,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 586332,
-      "num": 348144,
-      "word": "接下来两个月是养乳腺的好时机",
-      "onboard_time": 1709342731,
-      "rank": 41,
+      "raw_hot": 685379,
+      "num": 685379,
+      "word": "千人或有一例艾滋患者",
+      "onboard_time": 1709343267,
+      "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 544267,
+      "num": 544267,
+      "word": "陈丽君 浪姐",
+      "onboard_time": 1709345013,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 542896,
@@ -123,8 +139,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 459727,
-      "num": 348140,
+      "raw_hot": 526011,
+      "num": 385068,
       "word": "点读机女孩为学业放弃进娱乐圈",
       "onboard_time": 1709343688,
       "rank": 11,
@@ -147,16 +163,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 439332,
-      "num": 347902,
-      "word": "千人或有一例艾滋患者",
-      "onboard_time": 1709343267,
-      "rank": 12,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 403924,
-      "num": 233433,
+      "num": 235855,
       "word": "5个最耗气血的行为",
       "onboard_time": 1709339368,
       "rank": 20,
@@ -195,6 +203,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 371657,
+      "num": 371657,
+      "word": "你的衣柜里有这些衣服吗",
+      "onboard_time": 1709341472,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 349450,
       "num": 349450,
       "word": "浪姐",
@@ -209,14 +225,6 @@
       "onboard_time": 1709337146,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 346716,
-      "num": 346716,
-      "word": "你的衣柜里有这些衣服吗",
-      "onboard_time": 1709341472,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 327053,
@@ -243,11 +251,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311245,
+      "num": 235968,
+      "word": "工作三年的同事存款十万",
+      "onboard_time": 1709345431,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 307636,
       "num": 307636,
       "word": "娜扎露腰上衣",
       "onboard_time": 1709304635,
       "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 297705,
+      "num": 297705,
+      "word": "Giselle罗意威",
+      "onboard_time": 1709344651,
+      "rank": 49,
       "category": "作品衍生"
     },
     {
@@ -267,12 +291,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282809,
+      "num": 390071,
+      "word": "加沙10名儿童被官方登记为饿死",
+      "onboard_time": 1709343390,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 275091,
       "num": 275091,
       "word": "小英穿搭",
       "onboard_time": 1709311528,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 274928,
+      "num": 274928,
+      "word": "没想到都三月份还在穿羽绒服",
+      "onboard_time": 1709344168,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 266304,
@@ -355,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219343,
+      "num": 185043,
+      "word": "头部有这4个特征或为肺癌信号",
+      "onboard_time": 1709344472,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 217392,
       "num": 217392,
       "word": "F1",
@@ -385,14 +433,6 @@
       "onboard_time": 1709300912,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207726,
-      "num": 207726,
-      "word": "加沙10名儿童被官方登记为饿死",
-      "onboard_time": 1709343390,
-      "rank": 23,
-      "category": "国外时政"
     },
     {
       "raw_hot": 203069,
@@ -459,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177274,
+      "num": 177274,
+      "word": "巧克力张张包",
+      "onboard_time": 1709342011,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 176692,
       "num": 176692,
       "word": "郑恺你管这叫随便吃点",
@@ -475,11 +523,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160847,
-      "num": 160847,
-      "word": "没想到都三月份还在穿羽绒服",
-      "onboard_time": 1709344168,
-      "rank": 28,
+      "raw_hot": 162290,
+      "num": 162290,
+      "word": "装哭的萨摩耶",
+      "onboard_time": 1709344108,
+      "rank": 40,
       "category": "幽默"
     },
     {
@@ -539,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147750,
+      "num": 147750,
+      "word": "爸爸托梦帮我打赢了官司",
+      "onboard_time": 1709345486,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145534,
       "num": 145534,
       "word": "巴菲特靠日本五大商社狂赚575亿",
@@ -579,14 +635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135793,
-      "num": 135793,
-      "word": "头部有这4个特征或为肺癌信号",
-      "onboard_time": 1709344472,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 135496,
       "num": 135496,
       "word": "为什么现在年轻人喜欢养宠物",
@@ -611,28 +659,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 129300,
-      "num": 129300,
-      "word": "巧克力张张包",
-      "onboard_time": 1709342011,
-      "rank": 44,
-      "category": "网红"
-    },
-    {
       "raw_hot": 127812,
       "num": 127812,
       "word": "希望你结婚的唯一原因是你想",
       "onboard_time": 1709304513,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 127743,
-      "num": 127743,
-      "word": "装哭的萨摩耶",
-      "onboard_time": 1709344108,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 123703,
@@ -707,14 +739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102608,
-      "num": 102608,
-      "word": "Giselle罗意威",
-      "onboard_time": 1709344651,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 102318,
       "num": 102318,
       "word": "全员加速中",
@@ -729,6 +753,14 @@
       "onboard_time": 1709335282,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 100344,
+      "num": 100344,
+      "word": "小胖被队友教育",
+      "onboard_time": 1709345909,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 99744,
@@ -755,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94629,
+      "num": 94629,
+      "word": "那些被姓拯救的名字",
+      "onboard_time": 1709345849,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93410,
       "num": 93410,
       "word": "外婆让我不要恋爱结婚",
@@ -769,6 +809,14 @@
       "onboard_time": 1709306913,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89020,
+      "num": 89020,
+      "word": "茶叶能泡多少泡",
+      "onboard_time": 1709345674,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 88708,
@@ -945,6 +993,14 @@
       "onboard_time": 1709298755,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37890,
+      "num": 179719,
+      "word": "大溪地灰时尚收割机",
+      "onboard_time": 1709345250,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 36037,
