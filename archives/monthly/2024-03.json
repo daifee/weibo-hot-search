@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709411652662,
+  "endTime": 1709414047764,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -6147,7 +6147,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 34256,
+      "raw_hot": 34322,
       "num": 24003,
       "word": "港星李焯宁44岁状态",
       "onboard_time": 1709410217,
@@ -6211,20 +6211,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26537,
+      "num": 25995,
+      "word": "王锵因长相被古装剧组拒绝",
+      "onboard_time": 1709408117,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26138,
       "num": 31324,
       "word": "慢冷式恋爱",
       "onboard_time": 1709320219,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 25995,
-      "num": 25995,
-      "word": "王锵因长相被古装剧组拒绝",
-      "onboard_time": 1709408117,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 25443,
@@ -6316,7 +6316,7 @@
     },
     {
       "raw_hot": 14611,
-      "num": 14611,
+      "num": 15644,
       "word": "蔡文静晒手机壳",
       "onboard_time": 1709410936,
       "rank": 41,
