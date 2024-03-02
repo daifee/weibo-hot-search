@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709386486489,
+  "endTime": 1709388910264,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -67,6 +67,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2099966,
+      "num": 2099966,
+      "word": "迪丽热巴口紫",
+      "onboard_time": 1709386475,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2053629,
       "num": 1280909,
       "word": "高危HPV",
@@ -81,6 +89,14 @@
       "onboard_time": 1709368829,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1987714,
+      "num": 1987714,
+      "word": "焉栩嘉承认谈过恋爱",
+      "onboard_time": 1709385692,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1952282,
@@ -379,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1004990,
-      "num": 1004990,
-      "word": "焉栩嘉承认谈过恋爱",
-      "onboard_time": 1709385692,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1000768,
       "num": 1000768,
       "word": "终于知道娃哈哈为啥用纸箱包装了",
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 990522,
-      "num": 412371,
+      "num": 590678,
       "word": "昆明地震",
       "onboard_time": 1709383175,
       "rank": 13,
@@ -763,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 678075,
+      "num": 277817,
+      "word": "卵巢癌早就有信号可能被你忽略了",
+      "onboard_time": 1709386053,
+      "rank": 23,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 670436,
       "num": 291654,
       "word": "满舒克前女友因其感染高危HPV",
@@ -856,6 +872,14 @@
       "word": "女硕士怀二胎辞职带娃4年再求职碰壁大哭",
       "onboard_time": 1709374652,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 632332,
+      "num": 632332,
+      "word": "刘暖曦代理律师被认定违规炒作案件",
+      "onboard_time": 1709385874,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1283,6 +1307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 479549,
+      "num": 231714,
+      "word": "戚薇去浪姐了",
+      "onboard_time": 1709387974,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 476716,
       "num": 476716,
       "word": "吴镇宇打断向佐表演",
@@ -1697,6 +1729,14 @@
       "onboard_time": 1709359109,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 379666,
+      "num": 184784,
+      "word": "爸妈让我负责妹妹生活费",
+      "onboard_time": 1709387013,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 379601,
@@ -2187,6 +2227,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 285953,
+      "num": 184098,
+      "word": "韩美娟模仿姚安娜",
+      "onboard_time": 1709387495,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285445,
       "num": 233292,
       "word": "00后同事因为失恋请假了",
@@ -2217,22 +2265,6 @@
       "onboard_time": 1709280810,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 279060,
-      "num": 279060,
-      "word": "刘暖曦代理律师被认定违规炒作案件",
-      "onboard_time": 1709385874,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277817,
-      "num": 277817,
-      "word": "卵巢癌早就有信号可能被你忽略了",
-      "onboard_time": 1709386053,
-      "rank": 23,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 275697,
@@ -2515,6 +2547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 240139,
+      "num": 240139,
+      "word": "EDG启点赛夺冠",
+      "onboard_time": 1709387974,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 239682,
       "num": 239682,
       "word": "娃哈哈官方店铺销量2天涨超500%",
@@ -2633,14 +2673,6 @@
       "onboard_time": 1709304394,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 221176,
-      "num": 221176,
-      "word": "迪丽热巴口紫",
-      "onboard_time": 1709386475,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 220716,
@@ -2969,6 +3001,14 @@
       "onboard_time": 1709335944,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203002,
+      "num": 181868,
+      "word": "浙江90后女孩嫁给70后大叔",
+      "onboard_time": 1709386292,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202769,
@@ -3795,6 +3835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165755,
+      "num": 165755,
+      "word": "路飞最佳主角",
+      "onboard_time": 1709387974,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 165680,
       "num": 165680,
       "word": "故宫的猫都谈上恋爱了",
@@ -4187,6 +4235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149336,
+      "num": 149336,
+      "word": "丁程鑫一句话让张杰心痛",
+      "onboard_time": 1709388815,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148798,
       "num": 148798,
       "word": "杨幂巴黎撑伞",
@@ -4252,7 +4308,7 @@
     },
     {
       "raw_hot": 144916,
-      "num": 144916,
+      "num": 151791,
       "word": "拍照眼睛无神的原因",
       "onboard_time": 1709384852,
       "rank": 45,
@@ -4409,6 +4465,14 @@
       "onboard_time": 1709340991,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137859,
+      "num": 137859,
+      "word": "热辣滚烫",
+      "onboard_time": 1709387195,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 137782,
@@ -5147,6 +5211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 107381,
+      "num": 1345323,
+      "word": "神十七乘组默契配合度满分",
+      "onboard_time": 1709385394,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 105815,
       "num": 105815,
       "word": "化妆品一盘多用",
@@ -5185,6 +5257,14 @@
       "onboard_time": 1709303377,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103265,
+      "num": 129805,
+      "word": "五条悟 最佳男配角",
+      "onboard_time": 1709386770,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 103252,
@@ -5363,6 +5443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89766,
+      "num": 128750,
+      "word": "XYG战队首胜",
+      "onboard_time": 1709388514,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89654,
       "num": 89654,
       "word": "烟火人家大结局",
@@ -5385,6 +5473,14 @@
       "onboard_time": 1709309671,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 88086,
+      "num": 128414,
+      "word": "成都蓉城2比0青岛海牛",
+      "onboard_time": 1709387855,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 86986,
@@ -5443,14 +5539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 77100,
-      "num": 134912,
-      "word": "浙江90后女孩嫁给70后大叔",
-      "onboard_time": 1709386292,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76846,
       "num": 80327,
       "word": "老师粗暴对学生涉事学校校长被免职",
@@ -5481,14 +5569,6 @@
       "onboard_time": 1709378853,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70546,
-      "num": 1088032,
-      "word": "神十七乘组默契配合度满分",
-      "onboard_time": 1709385394,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 68414,
