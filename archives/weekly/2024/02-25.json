@@ -1,6 +1,6 @@
 {
   "startTime": 1708791588781,
-  "endTime": 1709390044815,
+  "endTime": 1709392570123,
   "band_list": [
     {
       "raw_hot": 10409378,
@@ -2419,6 +2419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824273,
+      "num": 824273,
+      "word": "刘昊然男大味",
+      "onboard_time": 1709389953,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 823009,
       "num": 823009,
       "word": "iPhone在中国大幅打折",
@@ -3563,6 +3571,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 641450,
+      "num": 641450,
+      "word": "吴镇宇夸徐若晗是天才型演员",
+      "onboard_time": 1709390795,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 641437,
       "num": 348356,
       "word": "当我拒绝11K薪资后HR破防了",
@@ -4184,6 +4200,14 @@
       "word": "姜妍演技",
       "onboard_time": 1708875217,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 577370,
+      "num": 577370,
+      "word": "韩美娟模仿姚安娜",
+      "onboard_time": 1709387495,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -5395,6 +5419,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 470303,
+      "num": 275746,
+      "word": "郑合惠子谈咖位不匹配",
+      "onboard_time": 1709391632,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 469139,
       "num": 293529,
       "word": "建议不要等到睡前才刷牙",
@@ -6347,6 +6379,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 400090,
+      "num": 260191,
+      "word": "和男朋友结不了婚又舍不得分手",
+      "onboard_time": 1709392355,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 399936,
       "num": 351952,
       "word": "家人把我养了一年的兔子吃了",
@@ -6612,7 +6652,7 @@
     },
     {
       "raw_hot": 379666,
-      "num": 184784,
+      "num": 191755,
       "word": "爸妈让我负责妹妹生活费",
       "onboard_time": 1709387013,
       "rank": 23,
@@ -6705,6 +6745,14 @@
       "onboard_time": 1709299475,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 376311,
+      "num": 376311,
+      "word": "路飞最佳主角",
+      "onboard_time": 1709387974,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 375641,
@@ -6849,14 +6897,6 @@
       "onboard_time": 1708979055,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 366239,
-      "num": 184098,
-      "word": "韩美娟模仿姚安娜",
-      "onboard_time": 1709387495,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 365834,
@@ -7267,6 +7307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342677,
+      "num": 249080,
+      "word": "种地吧 洁柔",
+      "onboard_time": 1709390675,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 342668,
       "num": 342668,
       "word": "Giselle罗意威",
@@ -7313,6 +7361,14 @@
       "onboard_time": 1709187992,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 340666,
+      "num": 256142,
+      "word": "14岁不舍得给自己花钱",
+      "onboard_time": 1709390433,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 340649,
@@ -7489,6 +7545,14 @@
       "onboard_time": 1708860215,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 329099,
+      "num": 235921,
+      "word": "你好星期六下期有张杰",
+      "onboard_time": 1709389774,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 329024,
@@ -8075,14 +8139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 304093,
-      "num": 174096,
-      "word": "你好星期六下期有张杰",
-      "onboard_time": 1709389774,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 304044,
       "num": 304044,
       "word": "冷冻食品可别直接下锅",
@@ -8332,7 +8388,7 @@
     },
     {
       "raw_hot": 292367,
-      "num": 173016,
+      "num": 217637,
       "word": "恋爱兄妹",
       "onboard_time": 1709389174,
       "rank": 27,
@@ -8361,6 +8417,14 @@
       "onboard_time": 1709170231,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 290935,
+      "num": 225910,
+      "word": "迪丽热巴与发型师贴贴",
+      "onboard_time": 1709390735,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 290600,
@@ -8977,6 +9041,14 @@
       "onboard_time": 1709267797,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 268840,
+      "num": 222012,
+      "word": "周处除三害 典故",
+      "onboard_time": 1709389892,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 268793,
@@ -9916,7 +9988,7 @@
     },
     {
       "raw_hot": 240611,
-      "num": 166337,
+      "num": 173161,
       "word": "丁程鑫一句话让张杰心痛",
       "onboard_time": 1709388815,
       "rank": 42,
@@ -10267,28 +10339,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 231609,
-      "num": 231609,
-      "word": "路飞最佳主角",
-      "onboard_time": 1709387974,
-      "rank": 35,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 231499,
       "num": 231499,
       "word": "迪丽热巴金色眼妆",
       "onboard_time": 1709112335,
       "rank": 32,
       "category": "综艺,作品衍生"
-    },
-    {
-      "raw_hot": 231378,
-      "num": 167208,
-      "word": "刘昊然男大味",
-      "onboard_time": 1709389953,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 231272,
@@ -10979,6 +11035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215205,
+      "num": 215205,
+      "word": "同事的午餐让我怀疑他有异食癖",
+      "onboard_time": 1709390194,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215150,
       "num": 204667,
       "word": "外国婆婆临走提出必须搓澡",
@@ -11377,6 +11441,22 @@
       "onboard_time": 1709003135,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209219,
+      "num": 209219,
+      "word": "你身上的班味其实是慢性疲劳",
+      "onboard_time": 1709388995,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 208985,
+      "num": 268336,
+      "word": "陈国豪太生猛了",
+      "onboard_time": 1709389538,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 208580,
@@ -11843,6 +11923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201121,
+      "num": 243278,
+      "word": "CBA",
+      "onboard_time": 1709391273,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200848,
       "num": 200848,
       "word": "金书贤金牌",
@@ -12049,6 +12137,14 @@
       "onboard_time": 1709370752,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198528,
+      "num": 252582,
+      "word": "一诺 不当团队拖后腿的",
+      "onboard_time": 1709392355,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 198433,
@@ -14131,6 +14227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 173094,
+      "num": 189006,
+      "word": "贡菜是不是晒干的莴笋",
+      "onboard_time": 1709391035,
+      "rank": 39,
+      "category": "美食,科学科普"
+    },
+    {
       "raw_hot": 172965,
       "num": 172965,
       "word": "JDG对战WE",
@@ -14281,14 +14385,6 @@
       "onboard_time": 1709125412,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 170469,
-      "num": 134657,
-      "word": "周处除三害 典故",
-      "onboard_time": 1709389892,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 170304,
@@ -16395,14 +16491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142297,
-      "num": 142297,
-      "word": "陈国豪太生猛了",
-      "onboard_time": 1709389538,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142218,
       "num": 142218,
       "word": "EDG就在今天",
@@ -16465,6 +16553,14 @@
       "onboard_time": 1708964248,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141820,
+      "num": 141820,
+      "word": "Fly的孙策",
+      "onboard_time": 1709390374,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 141706,
@@ -16907,6 +17003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136458,
+      "num": 136458,
+      "word": "爱的另一个名字叫聊得来",
+      "onboard_time": 1709392232,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 136287,
       "num": 136287,
       "word": "TES对战iG",
@@ -17017,14 +17121,6 @@
       "onboard_time": 1709025214,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135008,
-      "num": 135008,
-      "word": "你身上的班味其实是慢性疲劳",
-      "onboard_time": 1709388995,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 134995,
@@ -17312,6 +17408,14 @@
       "word": "建议适时探索单身女性社会性冻卵可行性",
       "onboard_time": 1709026592,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130749,
+      "num": 130749,
+      "word": "快递员得知新规两天后离职",
+      "onboard_time": 1709392413,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
