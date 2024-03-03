@@ -1,6 +1,6 @@
 {
   "startTime": 1709482797196,
-  "endTime": 1709483625484,
+  "endTime": 1709486073348,
   "band_list": [
     {
       "raw_hot": 953676,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 494719,
-      "num": 304932,
+      "num": 350329,
       "word": "怪不得没见过云南籍清冷学霸",
       "onboard_time": 1709479173,
       "rank": 12,
@@ -107,7 +107,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 324856,
+      "raw_hot": 392650,
       "num": 216358,
       "word": "怀疑对方AI换脸可以让对方摁鼻子",
       "onboard_time": 1709481571,
@@ -203,20 +203,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139858,
+      "num": 137598,
+      "word": "胡先煦背影",
+      "onboard_time": 1709481450,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 134993,
       "num": 134993,
       "word": "尹子维新片尺度",
       "onboard_time": 1709475812,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 132731,
-      "num": 132731,
-      "word": "胡先煦背影",
-      "onboard_time": 1709481450,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 130936,
@@ -265,6 +265,14 @@
       "onboard_time": 1709467893,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107233,
+      "num": 107233,
+      "word": "王鹤棣勇闯说唱圈",
+      "onboard_time": 1709484805,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 106092,
@@ -393,6 +401,14 @@
       "onboard_time": 1709468249,
       "rank": 29,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 40033,
+      "num": 40033,
+      "word": "00后新警认出嫌疑人后嘴角上扬",
+      "onboard_time": 1709485523,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25255,
