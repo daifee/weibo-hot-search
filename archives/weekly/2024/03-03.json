@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709471845887,
+  "endTime": 1709472846577,
   "band_list": [
     {
       "raw_hot": 2344886,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1029181,
+      "num": 1029181,
+      "word": "吴艳妮2024首秀8秒12",
+      "onboard_time": 1709467893,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1021799,
       "num": 1021799,
       "word": "我大使回应中国或成为第二个日本",
@@ -137,14 +145,6 @@
       "onboard_time": 1709425587,
       "rank": 1,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 999024,
-      "num": 999024,
-      "word": "吴艳妮2024首秀8秒12",
-      "onboard_time": 1709467893,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 970275,
@@ -251,12 +251,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 693072,
+      "num": 693072,
+      "word": "安全屋",
+      "onboard_time": 1709467590,
+      "rank": 9,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 685090,
       "num": 685090,
       "word": "花楼",
       "onboard_time": 1709393850,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 674320,
+      "num": 674320,
+      "word": "钟睒睒否认第一桶金来自娃哈哈",
+      "onboard_time": 1709468490,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 673689,
@@ -379,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 606784,
-      "num": 606784,
-      "word": "安全屋",
-      "onboard_time": 1709467590,
-      "rank": 9,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 605667,
       "num": 605667,
       "word": "严浩翔声纹对比",
@@ -425,14 +433,6 @@
       "onboard_time": 1709366072,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 578458,
-      "num": 578458,
-      "word": "钟睒睒否认第一桶金来自娃哈哈",
-      "onboard_time": 1709468490,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 574080,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 482985,
-      "num": 336143,
+      "num": 352673,
       "word": "许凯把丁程鑫的手揽在怀里",
       "onboard_time": 1709470053,
       "rank": 9,
@@ -843,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 353130,
+      "num": 353130,
+      "word": "成毅白发造型",
+      "onboard_time": 1709468912,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 352493,
       "num": 352493,
       "word": "建议对部分年龄段实行免费医疗",
@@ -945,6 +953,14 @@
       "onboard_time": 1709450610,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 327854,
+      "num": 327854,
+      "word": "大理寺少卿游",
+      "onboard_time": 1709470289,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 326027,
@@ -1067,12 +1083,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 285268,
+      "num": 285268,
+      "word": "台湾海巡艇被目击与大陆海警船并行",
+      "onboard_time": 1709472092,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 281106,
       "num": 281106,
       "word": "夏之光 谢谢施主",
       "onboard_time": 1709468131,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 279703,
+      "num": 275602,
+      "word": "丧偶式的婚姻还有必要继续吗",
+      "onboard_time": 1709469810,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 278861,
+      "num": 278861,
+      "word": "王鹤棣出发录桃花坞4",
+      "onboard_time": 1709472211,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 277970,
@@ -1091,14 +1131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 277308,
-      "num": 231223,
-      "word": "丧偶式的婚姻还有必要继续吗",
-      "onboard_time": 1709469810,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 270731,
       "num": 270731,
       "word": "满舒克前女友发文",
@@ -1112,6 +1144,14 @@
       "word": "种地吧 洁柔",
       "onboard_time": 1709390675,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 266593,
+      "num": 266593,
+      "word": "吴镇宇手动闭麦",
+      "onboard_time": 1709467351,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -1145,6 +1185,14 @@
       "onboard_time": 1709367333,
       "rank": 17,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 263020,
+      "num": 263020,
+      "word": "毛不易护士DNA动了",
+      "onboard_time": 1709472271,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 261900,
@@ -1201,14 +1249,6 @@
       "onboard_time": 1709452172,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 250163,
-      "num": 250163,
-      "word": "成毅白发造型",
-      "onboard_time": 1709468912,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 249381,
@@ -1363,14 +1403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225127,
-      "num": 225127,
-      "word": "大理寺少卿游",
-      "onboard_time": 1709470289,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 224386,
       "num": 224386,
       "word": "杨超越巴黎时装周穿搭",
@@ -1459,14 +1491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208138,
-      "num": 208138,
-      "word": "吴镇宇手动闭麦",
-      "onboard_time": 1709467351,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207761,
       "num": 180444,
       "word": "WBG春季赛三连败",
@@ -1491,6 +1515,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205997,
+      "num": 205997,
+      "word": "鞠婧祎伤妆改造",
+      "onboard_time": 1709471130,
+      "rank": 29,
+      "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 205478,
+      "num": 205478,
+      "word": "代表呼吁医院检查结果共享互认",
+      "onboard_time": 1709471913,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 204984,
       "num": 194862,
       "word": "周处除三害 典故",
@@ -1513,6 +1553,14 @@
       "onboard_time": 1709460391,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204421,
+      "num": 204421,
+      "word": "韦德担任CBA全明星扣篮大赛评委",
+      "onboard_time": 1709471729,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 203600,
@@ -1563,6 +1611,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200506,
+      "num": 200506,
+      "word": "钟睒睒称与宗庆后亦师亦友",
+      "onboard_time": 1709470891,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200401,
+      "num": 200401,
+      "word": "韦德在中国向詹姆斯致敬",
+      "onboard_time": 1709471550,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200271,
       "num": 200271,
       "word": "海王蛋糕",
@@ -1577,22 +1641,6 @@
       "onboard_time": 1709436092,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198576,
-      "num": 198576,
-      "word": "钟睒睒称与宗庆后亦师亦友",
-      "onboard_time": 1709470891,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198534,
-      "num": 198534,
-      "word": "鞠婧祎伤妆改造",
-      "onboard_time": 1709471130,
-      "rank": 29,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 198178,
@@ -1683,6 +1731,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186260,
+      "num": 186260,
+      "word": "原帅三分的神",
+      "onboard_time": 1709471070,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184493,
       "num": 184493,
       "word": "IU金泰亨MV未公开片段",
@@ -1731,6 +1787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182444,
+      "num": 182444,
+      "word": "钱塘江退潮 大地之树震撼景观",
+      "onboard_time": 1709472692,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 181927,
       "num": 181927,
       "word": "湖人不敌掘金",
@@ -1755,28 +1819,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 178282,
-      "num": 178282,
-      "word": "韦德在中国向詹姆斯致敬",
-      "onboard_time": 1709471550,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177167,
       "num": 177167,
       "word": "方可留下吧",
       "onboard_time": 1709458046,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175894,
-      "num": 175894,
-      "word": "原帅三分的神",
-      "onboard_time": 1709471070,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 173854,
@@ -1875,6 +1923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156909,
+      "num": 156909,
+      "word": "唐嫣晒巴黎街拍",
+      "onboard_time": 1709472331,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 156504,
       "num": 148084,
       "word": "阮经天演技",
@@ -1931,12 +1987,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151060,
+      "num": 151060,
+      "word": "吴磊直播",
+      "onboard_time": 1709472572,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150613,
       "num": 150613,
       "word": "NMIXX上海签售",
       "onboard_time": 1709454330,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149611,
+      "num": 149611,
+      "word": "发现耳朵边上有个小孔",
+      "onboard_time": 1709472692,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 149071,
@@ -2019,14 +2091,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 144230,
-      "num": 144230,
-      "word": "韦德担任CBA全明星扣篮大赛评委",
-      "onboard_time": 1709471729,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 144216,
       "num": 144216,
       "word": "刘暖曦代理律师被认定违规炒作案件",
@@ -2088,6 +2152,14 @@
       "word": "接下来的广东人会变得爽口弹牙",
       "onboard_time": 1709463031,
       "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 140401,
+      "num": 140401,
+      "word": "好朋友不会在彼此身上找优越感",
+      "onboard_time": 1709470711,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -2355,6 +2427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125405,
+      "num": 125405,
+      "word": "亚洲首富之子减肥108公斤后又胖回来了",
+      "onboard_time": 1709472814,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124531,
       "num": 124531,
       "word": "同行的青春也只有他了",
@@ -2537,14 +2617,6 @@
       "onboard_time": 1709392232,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 110524,
-      "num": 110524,
-      "word": "好朋友不会在彼此身上找优越感",
-      "onboard_time": 1709470711,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 109789,
