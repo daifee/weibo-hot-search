@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709454831996,
+  "endTime": 1709457408874,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -1091,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 640599,
+      "num": 640599,
+      "word": "反季羽绒服是不是智商税",
+      "onboard_time": 1709453009,
+      "rank": 20,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 639818,
       "num": 639818,
       "word": "侃爷惹怒老丈人",
@@ -1104,6 +1112,14 @@
       "word": "福宝在韩展出最后一天",
       "onboard_time": 1709430449,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636924,
+      "num": 636924,
+      "word": "部分女性及其父母认为彩礼不是卖价钱而是换尊重",
+      "onboard_time": 1709453908,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1739,6 +1755,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 465908,
+      "num": 465908,
+      "word": "姜宝代替福宝和大家说了谢谢",
+      "onboard_time": 1709453489,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465644,
       "num": 465644,
       "word": "老人救人被撞成植物人申见义勇为被驳回",
@@ -1881,14 +1905,6 @@
       "onboard_time": 1709264191,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 446719,
-      "num": 269065,
-      "word": "反季羽绒服是不是智商税",
-      "onboard_time": 1709453009,
-      "rank": 20,
-      "category": "时尚"
     },
     {
       "raw_hot": 440354,
@@ -2067,6 +2083,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 411467,
+      "num": 411467,
+      "word": "窃贼偷U盘内有巴黎奥运文件获刑7个月",
+      "onboard_time": 1709455289,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 410059,
+      "num": 410059,
+      "word": "马来西亚交通部长称尽快恢复搜索MH370航班",
+      "onboard_time": 1709456429,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409825,
       "num": 409825,
       "word": "曹璐回应落选浪姐",
@@ -2156,7 +2188,7 @@
     },
     {
       "raw_hot": 391195,
-      "num": 310404,
+      "num": 328191,
       "word": "IU和NewJeans舞蹈联动",
       "onboard_time": 1709453071,
       "rank": 18,
@@ -2371,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360879,
+      "num": 264037,
+      "word": "你的工资刚够花还是能照顾到家人",
+      "onboard_time": 1709455590,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 359694,
       "num": 359694,
       "word": "脂肪肝严重可能发展为肝癌",
@@ -2385,6 +2425,14 @@
       "onboard_time": 1709396127,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 356985,
+      "num": 356985,
+      "word": "杨幂唐嫣刘诗诗G社生图",
+      "onboard_time": 1709456790,
+      "rank": 9,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 356964,
@@ -2443,12 +2491,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 350436,
+      "num": 350436,
+      "word": "韦世豪保送华中科技大学",
+      "onboard_time": 1709456488,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350216,
       "num": 350216,
       "word": "粉笔模考",
       "onboard_time": 1709435613,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 349662,
+      "num": 349662,
+      "word": "FPX太猛了",
+      "onboard_time": 1709456612,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 349450,
@@ -2497,6 +2561,14 @@
       "onboard_time": 1709255131,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 345105,
+      "num": 345105,
+      "word": "男子带走多件悼念用的AD钙奶",
+      "onboard_time": 1709455828,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 343925,
@@ -2625,6 +2697,14 @@
       "onboard_time": 1709440230,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 329296,
+      "num": 329296,
+      "word": "对网友 宝宝怎么了",
+      "onboard_time": 1709454929,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 329099,
@@ -3051,14 +3131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 277116,
-      "num": 199897,
-      "word": "姜宝代替福宝和大家说了谢谢",
-      "onboard_time": 1709453489,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275697,
       "num": 275697,
       "word": "奶奶不懂抑郁却懂得如何爱你",
@@ -3219,6 +3291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264679,
+      "num": 264679,
+      "word": "Mai浪姐补位",
+      "onboard_time": 1709457091,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264034,
       "num": 239824,
       "word": "季节露娜百分百胜率",
@@ -3363,6 +3443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246093,
+      "num": 246093,
+      "word": "王鸥大侦探路透",
+      "onboard_time": 1709456310,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245791,
       "num": 245791,
       "word": "411工程竣工",
@@ -3409,6 +3497,14 @@
       "onboard_time": 1709443290,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243196,
+      "num": 243196,
+      "word": "感觉朋友圈没有以前热闹了",
+      "onboard_time": 1709455110,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 242555,
@@ -3569,6 +3665,14 @@
       "onboard_time": 1709283875,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225684,
+      "num": 225684,
+      "word": "阴阳师新皮肤",
+      "onboard_time": 1709456131,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 225378,
@@ -3755,14 +3859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 212182,
-      "num": 212182,
-      "word": "部分女性及其父母认为彩礼不是卖价钱而是换尊重",
-      "onboard_time": 1709453908,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 211926,
       "num": 252873,
       "word": "欧豪叫詹姆斯老头儿",
@@ -3825,6 +3921,14 @@
       "onboard_time": 1709352269,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209838,
+      "num": 209838,
+      "word": "milkyway100击杀",
+      "onboard_time": 1709456969,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 209813,
@@ -4187,6 +4291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198178,
+      "num": 198178,
+      "word": "绘世花鸟卷典藏皮肤",
+      "onboard_time": 1709455707,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197920,
       "num": 197920,
       "word": "身体出现这些征兆警惕卵巢癌",
@@ -4387,6 +4499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189948,
+      "num": 189948,
+      "word": "猫咪 物理学不存在了",
+      "onboard_time": 1709456370,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189739,
       "num": 189739,
       "word": "三月你好",
@@ -4441,6 +4561,14 @@
       "onboard_time": 1709295872,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188451,
+      "num": 188451,
+      "word": "张馨予碎钻拖尾裙",
+      "onboard_time": 1709455649,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 187765,
@@ -4713,6 +4841,14 @@
       "onboard_time": 1709294312,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179717,
+      "num": 179717,
+      "word": "久酷 指挥权",
+      "onboard_time": 1709455773,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 179558,
@@ -5419,6 +5555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152618,
+      "num": 152618,
+      "word": "你买过反季衣服吗",
+      "onboard_time": 1709456429,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 152390,
       "num": 152390,
       "word": "徐佳莹抢票",
@@ -5505,6 +5649,14 @@
       "onboard_time": 1709299232,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 148416,
+      "num": 148416,
+      "word": "久哲 没工作",
+      "onboard_time": 1709457332,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 148175,
@@ -5841,6 +5993,14 @@
       "onboard_time": 1709259393,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137361,
+      "num": 137361,
+      "word": "化妆品一盘多用",
+      "onboard_time": 1709281953,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 136850,
@@ -6875,14 +7035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105815,
-      "num": 105815,
-      "word": "化妆品一盘多用",
-      "onboard_time": 1709281953,
-      "rank": 49,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 105668,
       "num": 105668,
       "word": "不露脸万能拍照姿势",
@@ -7483,6 +7635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 54153,
+      "num": 273536,
+      "word": "京东给艺术团舞者送护肤品",
+      "onboard_time": 1709453248,
+      "rank": 31,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 54001,
       "num": 54001,
       "word": "三月星运排行榜",
@@ -7521,6 +7681,14 @@
       "onboard_time": 1709329396,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51861,
+      "num": 690911,
+      "word": "话说两会知识点",
+      "onboard_time": 1709455289,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 51742,
@@ -7617,14 +7785,6 @@
       "onboard_time": 1709238916,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 38287,
-      "num": 273536,
-      "word": "京东给艺术团舞者送护肤品",
-      "onboard_time": 1709453248,
-      "rank": 31,
-      "category": "互联网,艺人"
     },
     {
       "raw_hot": 36037,
