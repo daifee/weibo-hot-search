@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709462148971,
+  "endTime": 1709464386654,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -1403,6 +1403,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 573516,
+      "num": 573516,
+      "word": "周也嘴巴哭成typec",
+      "onboard_time": 1709462976,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 566481,
       "num": 566481,
       "word": "戚薇去浪姐了",
@@ -1561,6 +1569,14 @@
       "onboard_time": 1709283875,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 529616,
+      "num": 529616,
+      "word": "日媒曝国乒教练可能调整",
+      "onboard_time": 1709463511,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 526821,
@@ -1907,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457050,
+      "num": 379352,
+      "word": "小沈阳发文为老婆庆生",
+      "onboard_time": 1709462432,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 456247,
       "num": 456247,
       "word": "德州献血",
@@ -2075,6 +2099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427663,
+      "num": 376110,
+      "word": "巴黎世家大秀",
+      "onboard_time": 1709463210,
+      "rank": 14,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 426965,
       "num": 272790,
       "word": "建议大家不要成天说想死",
@@ -2233,6 +2265,14 @@
       "onboard_time": 1709339368,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 403814,
+      "num": 207290,
+      "word": "硕士学历二胎宝妈投84份简历面试为0",
+      "onboard_time": 1709463331,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403213,
@@ -3163,6 +3203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291640,
+      "num": 291640,
+      "word": "久坐不动的人有福了",
+      "onboard_time": 1709459069,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 291153,
       "num": 291153,
       "word": "胡先煦又偷着做背德饭",
@@ -3523,6 +3571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 249381,
+      "num": 249381,
+      "word": "热辣滚烫票房破34亿",
+      "onboard_time": 1709461113,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 248459,
       "num": 238952,
       "word": "朋友好像不知道我送的是黄金",
@@ -3691,14 +3747,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 236353,
-      "num": 236353,
-      "word": "久坐不动的人有福了",
-      "onboard_time": 1709459069,
-      "rank": 27,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 235661,
       "num": 235661,
       "word": "高君雨",
@@ -3745,14 +3793,6 @@
       "onboard_time": 1709343331,
       "rank": 21,
       "category": "美食"
-    },
-    {
-      "raw_hot": 228718,
-      "num": 228718,
-      "word": "热辣滚烫票房破34亿",
-      "onboard_time": 1709461113,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 228339,
@@ -4123,6 +4163,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 207290,
+      "num": 207289,
+      "word": "光与夜之恋",
+      "onboard_time": 1709463987,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 206855,
       "num": 206855,
       "word": "点读机女孩剃发",
@@ -4451,6 +4499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198174,
+      "num": 198174,
+      "word": "方可给迪丽热巴做过的发型",
+      "onboard_time": 1709464350,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 197920,
       "num": 197920,
       "word": "身体出现这些征兆警惕卵巢癌",
@@ -4625,6 +4681,14 @@
       "onboard_time": 1709374412,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193370,
+      "num": 193370,
+      "word": "WB战胜TES",
+      "onboard_time": 1709463691,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 192650,
@@ -4857,6 +4921,14 @@
       "onboard_time": 1709295513,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182950,
+      "num": 182950,
+      "word": "WB五连胜",
+      "onboard_time": 1709463571,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 182630,
@@ -5411,6 +5483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164211,
+      "num": 164211,
+      "word": "汤唯晒IU签名专辑",
+      "onboard_time": 1709463871,
+      "rank": 36,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 163425,
       "num": 163425,
       "word": "前田敦子 浪姐",
@@ -5625,6 +5705,14 @@
       "onboard_time": 1709342910,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157478,
+      "num": 157478,
+      "word": "FPX老板回应战胜WBG",
+      "onboard_time": 1709462191,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 157437,
@@ -6089,6 +6177,14 @@
       "onboard_time": 1709271153,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140844,
+      "num": 140844,
+      "word": "接下来的广东人会变得爽口弹牙",
+      "onboard_time": 1709463031,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 140793,
@@ -6601,6 +6697,14 @@
       "onboard_time": 1709252733,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127640,
+      "num": 127640,
+      "word": "人的眼皮为什么会跳",
+      "onboard_time": 1709463631,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 127580,
@@ -7539,6 +7643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89159,
+      "num": 617405,
+      "word": "成都蓉城凤凰山首秀球迷自发清理垃圾",
+      "onboard_time": 1709459430,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89020,
       "num": 89020,
       "word": "茶叶能泡多少泡",
@@ -7859,14 +7971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55103,
-      "num": 617405,
-      "word": "成都蓉城凤凰山首秀球迷自发清理垃圾",
-      "onboard_time": 1709459430,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 54915,
       "num": 975099,
       "word": "话说两会知识点",
@@ -8036,7 +8140,7 @@
     },
     {
       "raw_hot": 37391,
-      "num": 171657,
+      "num": 296434,
       "word": "唐嫣漫游巴黎日记",
       "onboard_time": 1709461591,
       "rank": 32,
