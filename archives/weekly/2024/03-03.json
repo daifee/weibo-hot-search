@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709454130474,
+  "endTime": 1709454831996,
   "band_list": [
     {
       "raw_hot": 2344886,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1676603,
+      "num": 1400963,
+      "word": "多少好友用过HIV预防阻断2小时达",
+      "onboard_time": 1709450432,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1672073,
       "num": 1672073,
       "word": "何炅在北外任教时的照片",
       "onboard_time": 1709448090,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1589997,
-      "num": 1400963,
-      "word": "多少好友用过HIV预防阻断2小时达",
-      "onboard_time": 1709450432,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1525158,
@@ -67,20 +67,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1284977,
+      "num": 1099698,
+      "word": "女子买茅台验真伪被死亡威胁",
+      "onboard_time": 1709451450,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1110621,
       "num": 1110621,
       "word": "张致恒晒收款码求捐款",
       "onboard_time": 1709449589,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1099698,
-      "num": 1099698,
-      "word": "女子买茅台验真伪被死亡威胁",
-      "onboard_time": 1709451450,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1059709,
@@ -427,6 +427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 446719,
+      "num": 269065,
+      "word": "反季羽绒服是不是智商税",
+      "onboard_time": 1709453009,
+      "rank": 20,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 440354,
       "num": 440354,
       "word": "光与夜之恋复刻",
@@ -489,6 +497,14 @@
       "onboard_time": 1709427688,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 391195,
+      "num": 310404,
+      "word": "IU和NewJeans舞蹈联动",
+      "onboard_time": 1709453071,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 383457,
@@ -587,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 350351,
-      "num": 246223,
-      "word": "反季羽绒服是不是智商税",
-      "onboard_time": 1709453009,
-      "rank": 20,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 350216,
       "num": 350216,
       "word": "粉笔模考",
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 305722,
-      "num": 243080,
+      "num": 264429,
       "word": "一人上班老板给全家发工资",
       "onboard_time": 1709452890,
       "rank": 21,
@@ -705,6 +713,14 @@
       "onboard_time": 1709434228,
       "rank": 22,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 297816,
+      "num": 297816,
+      "word": "王一博抵达巴黎机场",
+      "onboard_time": 1709453971,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 295828,
@@ -740,7 +756,7 @@
     },
     {
       "raw_hot": 290975,
-      "num": 242607,
+      "num": 265285,
       "word": "棉签掏耳朵或会产生更严重问题",
       "onboard_time": 1709451450,
       "rank": 22,
@@ -763,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277116,
+      "num": 199897,
+      "word": "姜宝代替福宝和大家说了谢谢",
+      "onboard_time": 1709453489,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270731,
       "num": 270731,
       "word": "满舒克前女友发文",
@@ -777,14 +801,6 @@
       "onboard_time": 1709390675,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266996,
-      "num": 266996,
-      "word": "IU和NewJeans舞蹈联动",
-      "onboard_time": 1709453071,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 265480,
@@ -899,12 +915,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 239023,
-      "num": 239023,
-      "word": "王一博抵达巴黎机场",
-      "onboard_time": 1709453971,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 240220,
+      "num": 240220,
+      "word": "女子称喝酸奶喝出整袋清水",
+      "onboard_time": 1709452290,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235481,
@@ -971,20 +987,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217437,
-      "num": 217437,
-      "word": "女子称喝酸奶喝出整袋清水",
-      "onboard_time": 1709452290,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213238,
       "num": 213238,
       "word": "IU演唱会嘉宾RIIZE",
       "onboard_time": 1709446647,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 212182,
+      "num": 212182,
+      "word": "部分女性及其父母认为彩礼不是卖价钱而是换尊重",
+      "onboard_time": 1709453908,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211926,
@@ -1067,6 +1083,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 201090,
+      "num": 199208,
+      "word": "无限超越班 演技错题集",
+      "onboard_time": 1709453851,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200271,
+      "num": 200271,
+      "word": "海王蛋糕",
+      "onboard_time": 1709451931,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199826,
       "num": 199826,
       "word": "宋亚轩20岁生日企划",
@@ -1075,20 +1107,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199178,
-      "num": 199178,
-      "word": "姜宝代替福宝和大家说了谢谢",
-      "onboard_time": 1709453489,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197632,
       "num": 197632,
       "word": "负责人称不排除关闭快递代收点",
       "onboard_time": 1709427987,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193645,
+      "num": 214531,
+      "word": "樊振东孙颖莎将出席抽签仪式",
+      "onboard_time": 1709452890,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 187765,
@@ -1155,14 +1187,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 173975,
-      "num": 173975,
-      "word": "无限超越班 演技错题集",
-      "onboard_time": 1709453851,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173854,
       "num": 173854,
       "word": "女子深夜拨110称停电民警秒懂出警",
@@ -1177,14 +1201,6 @@
       "onboard_time": 1709439210,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 169646,
-      "num": 169646,
-      "word": "海王蛋糕",
-      "onboard_time": 1709451931,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 168353,
@@ -1217,14 +1233,6 @@
       "onboard_time": 1709387974,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161434,
-      "num": 214531,
-      "word": "樊振东孙颖莎将出席抽签仪式",
-      "onboard_time": 1709452890,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 160747,
@@ -1273,6 +1281,14 @@
       "onboard_time": 1709378131,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 150613,
+      "num": 150613,
+      "word": "NMIXX上海签售",
+      "onboard_time": 1709454330,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 149071,
@@ -1627,20 +1643,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121718,
+      "num": 121718,
+      "word": "这哪里是化妆是易容吧",
+      "onboard_time": 1709454509,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 121675,
       "num": 121675,
       "word": "糙汉阮经天",
       "onboard_time": 1709429370,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 119659,
-      "num": 119659,
-      "word": "部分女性及其父母认为彩礼不是卖价钱而是换尊重",
-      "onboard_time": 1709453908,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118664,
@@ -1665,6 +1681,14 @@
       "onboard_time": 1709373032,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115517,
+      "num": 115517,
+      "word": "国产剧女性角色不再cos王宝钏",
+      "onboard_time": 1709454630,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 114477,
@@ -1915,6 +1939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 38287,
+      "num": 273536,
+      "word": "京东给艺术团舞者送护肤品",
+      "onboard_time": 1709453248,
+      "rank": 31,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 37884,
       "num": 1148337,
       "word": "神十七乘组默契配合度满分",
@@ -1929,14 +1961,6 @@
       "onboard_time": 1709410217,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 31135,
-      "num": 212157,
-      "word": "京东给艺术团舞者送护肤品",
-      "onboard_time": 1709453248,
-      "rank": 31,
-      "category": "互联网,艺人"
     },
     {
       "raw_hot": 29063,
