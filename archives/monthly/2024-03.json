@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709432647331,
+  "endTime": 1709433266908,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -99,8 +99,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1953646,
-      "num": 1953646,
+      "raw_hot": 1980010,
+      "num": 1980010,
       "word": "郭敬明训斥程潇",
       "onboard_time": 1709429727,
       "rank": 0,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1011459,
+      "num": 1011459,
+      "word": "新确认一位慰安妇制度受害幸存者",
+      "onboard_time": 1709425887,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1009185,
       "num": 1009185,
       "word": "戚薇疑似救场浪姐",
@@ -464,14 +472,6 @@
       "word": "昆明地震",
       "onboard_time": 1709383175,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 988197,
-      "num": 988197,
-      "word": "新确认一位慰安妇制度受害幸存者",
-      "onboard_time": 1709425887,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -585,6 +585,14 @@
       "onboard_time": 1709252610,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 813881,
+      "num": 813881,
+      "word": "焉栩嘉在郝蕾面前提到邓超",
+      "onboard_time": 1709430990,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 808066,
@@ -779,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 698628,
-      "num": 453658,
-      "word": "焉栩嘉在郝蕾面前提到邓超",
-      "onboard_time": 1709430990,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 694364,
       "num": 694364,
       "word": "花少团真的去了秦岚家",
@@ -963,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 638478,
+      "num": 638478,
+      "word": "福宝在韩展出最后一天",
+      "onboard_time": 1709430449,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 635945,
       "num": 635945,
       "word": "家长吐槽被学校要求下午到校值班",
@@ -1049,14 +1057,6 @@
       "onboard_time": 1709376572,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 598652,
-      "num": 598652,
-      "word": "福宝在韩展出最后一天",
-      "onboard_time": 1709430449,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 598304,
@@ -2251,6 +2251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 332769,
+      "num": 332769,
+      "word": "王鹤棣一张机场照被4个cp嗑",
+      "onboard_time": 1709427809,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329099,
       "num": 235921,
       "word": "你好星期六下期有张杰",
@@ -2281,14 +2289,6 @@
       "onboard_time": 1709381974,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 326767,
-      "num": 326767,
-      "word": "王鹤棣一张机场照被4个cp嗑",
-      "onboard_time": 1709427809,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 326027,
@@ -2337,6 +2337,14 @@
       "onboard_time": 1709424805,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 319192,
+      "num": 319192,
+      "word": "超6成理发师有听力损失",
+      "onboard_time": 1709432552,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318373,
@@ -2699,6 +2707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268681,
+      "num": 268681,
+      "word": "人群中迪丽热巴看了我一眼",
+      "onboard_time": 1709432190,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 268680,
       "num": 268680,
       "word": "刘诗诗首部古装悬疑剧",
@@ -2796,7 +2812,7 @@
     },
     {
       "raw_hot": 258805,
-      "num": 210166,
+      "num": 219576,
       "word": "二十多岁选择人生 恐怖",
       "onboard_time": 1709427450,
       "rank": 21,
@@ -2841,6 +2857,14 @@
       "onboard_time": 1709261791,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 251310,
+      "num": 251310,
+      "word": "句句不提人句句不离人",
+      "onboard_time": 1709432010,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 250264,
@@ -3089,6 +3113,14 @@
       "onboard_time": 1709344472,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 218463,
+      "num": 218463,
+      "word": "向佐说跟爸爸很难做朋友",
+      "onboard_time": 1709432131,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 217392,
@@ -3385,6 +3417,14 @@
       "onboard_time": 1709281773,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204114,
+      "num": 204114,
+      "word": "411工程竣工",
+      "onboard_time": 1709432850,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 204111,
@@ -3731,14 +3771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 190242,
-      "num": 190242,
-      "word": "向佐说跟爸爸很难做朋友",
-      "onboard_time": 1709432131,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189982,
       "num": 189982,
       "word": "谭松韵许凯牵手转圈搂",
@@ -3803,14 +3835,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 188032,
-      "num": 188032,
-      "word": "人群中迪丽热巴看了我一眼",
-      "onboard_time": 1709432190,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 187451,
       "num": 187451,
       "word": "辛芷蕾穿豹纹",
@@ -3859,6 +3883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184493,
+      "num": 184493,
+      "word": "IU金泰亨MV未公开片段",
+      "onboard_time": 1709429129,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 183952,
       "num": 183952,
       "word": "退税需要满足哪些条件",
@@ -3897,14 +3929,6 @@
       "onboard_time": 1709295513,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182798,
-      "num": 182798,
-      "word": "IU金泰亨MV未公开片段",
-      "onboard_time": 1709429129,
-      "rank": 29,
-      "category": "音乐"
     },
     {
       "raw_hot": 182630,
@@ -4057,6 +4081,14 @@
       "onboard_time": 1709257772,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 179105,
+      "num": 179105,
+      "word": "打了HPV疫苗为何还会得宫颈癌",
+      "onboard_time": 1709432010,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 178531,
@@ -4401,14 +4433,6 @@
       "onboard_time": 1709380832,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163269,
-      "num": 163269,
-      "word": "句句不提人句句不离人",
-      "onboard_time": 1709432010,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 162879,
@@ -4867,6 +4891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144166,
+      "num": 144166,
+      "word": "7个关键州特朗普支持率均领先拜登",
+      "onboard_time": 1709431827,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 144106,
       "num": 144106,
       "word": "张婧仪檀健次电梯大片",
@@ -5067,14 +5099,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 137552,
-      "num": 137552,
-      "word": "超6成理发师有听力损失",
-      "onboard_time": 1709432552,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136850,
       "num": 136850,
       "word": "真的建议大家在大学里多蹭课",
@@ -5227,22 +5251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132211,
-      "num": 132211,
-      "word": "7个关键州特朗普支持率均领先拜登",
-      "onboard_time": 1709431827,
-      "rank": 42,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 131838,
-      "num": 131838,
-      "word": "打了HPV疫苗为何还会得宫颈癌",
-      "onboard_time": 1709432010,
-      "rank": 44,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 131468,
       "num": 119748,
       "word": "黄冠亨自拍反面教材",
@@ -5273,6 +5281,14 @@
       "onboard_time": 1709220633,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129728,
+      "num": 129728,
+      "word": "一觉醒来跳水梦之队拿了3个冠军",
+      "onboard_time": 1709432789,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 129724,
@@ -5753,6 +5769,14 @@
       "onboard_time": 1709343267,
       "rank": 45,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 113956,
+      "num": 113956,
+      "word": "女程序员下班后为自己造了一座植物园",
+      "onboard_time": 1709433210,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113893,
