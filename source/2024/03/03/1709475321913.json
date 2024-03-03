@@ -1,0 +1,410 @@
+{
+  "runTime": 1709475321913,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1548865,
+        "num": 1548865,
+        "word": "亚洲首富之子减肥108公斤后又胖回来了",
+        "onboard_time": 1709472814,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856406,
+        "num": 856406,
+        "word": "吴艳妮2024首秀8秒12",
+        "onboard_time": 1709467893,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30274,
+        "num": 832860,
+        "word": "话说两会知识点",
+        "onboard_time": 1709455289,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 810924,
+        "num": 810924,
+        "word": "周处除三害",
+        "onboard_time": 1709467650,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 716469,
+        "num": 716469,
+        "word": "钟睒睒澄清",
+        "onboard_time": 1709473052,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623332,
+        "num": 623332,
+        "word": "台湾海巡艇被目击与大陆海警船并行",
+        "onboard_time": 1709472092,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 524181,
+        "num": 524181,
+        "word": "唐嫣HelloKitty手机壳",
+        "onboard_time": 1709473775,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509324,
+        "num": 509324,
+        "word": "王鹤棣出发录桃花坞4",
+        "onboard_time": 1709472211,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439099,
+        "num": 439099,
+        "word": "DYG教练 跑路",
+        "onboard_time": 1709474492,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 415114,
+        "num": 415114,
+        "word": "安全屋",
+        "onboard_time": 1709467590,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1123749,
+        "num": 414094,
+        "word": "硕士学历二胎宝妈投84份简历面试为0",
+        "onboard_time": 1709463331,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 760002,
+        "num": 412750,
+        "word": "农夫山泉副总回应捧娃哈哈踩农夫山泉",
+        "onboard_time": 1709465610,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411332,
+        "num": 411332,
+        "word": "大理寺少卿游",
+        "onboard_time": 1709470289,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406200,
+        "num": 406200,
+        "word": "周也嘴巴哭成typec",
+        "onboard_time": 1709462976,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382014,
+        "num": 382014,
+        "word": "钟睒睒否认第一桶金来自娃哈哈",
+        "onboard_time": 1709468490,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377948,
+        "num": 377948,
+        "word": "多少好友用过HIV预防阻断2小时达",
+        "onboard_time": 1709450432,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 374474,
+        "num": 374474,
+        "word": "女子买茅台验真伪被死亡威胁",
+        "onboard_time": 1709451450,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358528,
+        "num": 358528,
+        "word": "许凯把丁程鑫的手揽在怀里",
+        "onboard_time": 1709470053,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336598,
+        "num": 336598,
+        "word": "女儿第一次来例假妈妈哭了",
+        "onboard_time": 1709459789,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 325035,
+        "num": 325035,
+        "word": "阮经天40岁状态",
+        "onboard_time": 1709459012,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 316520,
+        "num": 316520,
+        "word": "发现耳朵边上有个小孔",
+        "onboard_time": 1709472692,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275405,
+        "num": 275405,
+        "word": "成毅白发造型",
+        "onboard_time": 1709468912,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255598,
+        "num": 255598,
+        "word": "丧偶式的婚姻还有必要继续吗",
+        "onboard_time": 1709469810,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250058,
+        "num": 250058,
+        "word": "何炅在北外任教时的照片",
+        "onboard_time": 1709448090,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234118,
+        "num": 234118,
+        "word": "绿色穿搭真的让人眼前一亮",
+        "onboard_time": 1709473472,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 213701,
+        "num": 213701,
+        "word": "掌心明天开机",
+        "onboard_time": 1709473174,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207929,
+        "num": 207929,
+        "word": "代表呼吁医院检查结果共享互认",
+        "onboard_time": 1709471913,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204266,
+        "num": 204266,
+        "word": "吴磊直播",
+        "onboard_time": 1709472572,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193315,
+        "num": 201304,
+        "word": "没钱买房租房的英国人开始分手不分房",
+        "onboard_time": 1709466691,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124510,
+        "num": 200170,
+        "word": "117名中学教师考出救护员证",
+        "onboard_time": 1709468249,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 319919,
+        "num": 200080,
+        "word": "包包被外国友人扔出地铁全车人欢呼",
+        "onboard_time": 1709473291,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199935,
+        "num": 199935,
+        "word": "迪丽热巴眼里有活",
+        "onboard_time": 1709460090,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197849,
+        "num": 197849,
+        "word": "毛不易护士DNA动了",
+        "onboard_time": 1709472271,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190967,
+        "num": 190967,
+        "word": "夏之光 谢谢施主",
+        "onboard_time": 1709468131,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188237,
+        "num": 188237,
+        "word": "成都AG获胜",
+        "onboard_time": 1709474614,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185712,
+        "num": 185712,
+        "word": "吴镇宇手动闭麦",
+        "onboard_time": 1709467351,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198273,
+        "num": 182297,
+        "word": "方可给迪丽热巴做过的发型",
+        "onboard_time": 1709464350,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176232,
+        "num": 176232,
+        "word": "胡明轩全明星MVP",
+        "onboard_time": 1709475215,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175485,
+        "num": 175485,
+        "word": "汤唯去看了IU演唱会",
+        "onboard_time": 1709474794,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164454,
+        "num": 164454,
+        "word": "老奶奶给所有年轻女孩的建议",
+        "onboard_time": 1709474133,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161640,
+        "num": 161640,
+        "word": "韦德在中国向詹姆斯致敬",
+        "onboard_time": 1709471550,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168966,
+        "num": 161616,
+        "word": "迪丽热巴元气桃桃妆",
+        "onboard_time": 1709461169,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159757,
+        "num": 159757,
+        "word": "鞠婧祎伤妆改造",
+        "onboard_time": 1709471130,
+        "rank": 42,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 155202,
+        "num": 155202,
+        "word": "Mai浪姐补位",
+        "onboard_time": 1709457091,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147391,
+        "num": 147391,
+        "word": "橙C冰美式",
+        "onboard_time": 1709458230,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142118,
+        "num": 142118,
+        "word": "二十岁后人生就像按了快进键",
+        "onboard_time": 1709468373,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131523,
+        "num": 131523,
+        "word": "方可留下吧",
+        "onboard_time": 1709458046,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129700,
+        "num": 129700,
+        "word": "韦德担任CBA全明星扣篮大赛评委",
+        "onboard_time": 1709471729,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122534,
+        "num": 122534,
+        "word": "杨超越巴黎时装周穿搭",
+        "onboard_time": 1709465850,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 112770,
+        "num": 112770,
+        "word": "春火破晓燃蜀魂",
+        "onboard_time": 1709475272,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709472846577,
+  "endTime": 1709475321913,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -241,6 +241,14 @@
       "onboard_time": 1709307210,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1548865,
+      "num": 1548865,
+      "word": "亚洲首富之子减肥108公斤后又胖回来了",
+      "onboard_time": 1709472814,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1546279,
@@ -723,6 +731,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 810924,
+      "num": 810924,
+      "word": "周处除三害",
+      "onboard_time": 1709352329,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 808066,
       "num": 808066,
       "word": "中传回应点读机女孩休学",
@@ -913,6 +929,14 @@
       "onboard_time": 1709384195,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 716469,
+      "num": 716469,
+      "word": "钟睒睒澄清",
+      "onboard_time": 1709473052,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 715715,
@@ -1283,12 +1307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 626905,
-      "num": 626905,
-      "word": "周处除三害",
-      "onboard_time": 1709352329,
-      "rank": 26,
-      "category": "电影"
+      "raw_hot": 623332,
+      "num": 623332,
+      "word": "台湾海巡艇被目击与大陆海警船并行",
+      "onboard_time": 1709472092,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 620533,
@@ -1675,6 +1699,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 524181,
+      "num": 524181,
+      "word": "唐嫣HelloKitty手机壳",
+      "onboard_time": 1709473775,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 523806,
       "num": 523806,
       "word": "王栎鑫是谭松韵影迷会的会长",
@@ -1737,6 +1769,14 @@
       "onboard_time": 1709295093,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 509324,
+      "num": 509324,
+      "word": "王鹤棣出发录桃花坞4",
+      "onboard_time": 1709472211,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 508948,
@@ -1860,7 +1900,7 @@
     },
     {
       "raw_hot": 482985,
-      "num": 352673,
+      "num": 358528,
       "word": "许凯把丁程鑫的手揽在怀里",
       "onboard_time": 1709470053,
       "rank": 9,
@@ -2115,6 +2155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 439099,
+      "num": 439099,
+      "word": "DYG教练 跑路",
+      "onboard_time": 1709474492,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 438719,
       "num": 438719,
       "word": "章若楠的假发有四斤多重",
@@ -2281,6 +2329,14 @@
       "onboard_time": 1709455289,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 411332,
+      "num": 411332,
+      "word": "大理寺少卿游",
+      "onboard_time": 1709470289,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 409825,
@@ -2947,14 +3003,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 327854,
-      "num": 327854,
-      "word": "大理寺少卿游",
-      "onboard_time": 1709470289,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 327592,
       "num": 294071,
       "word": "张小斐主演电影票房破100亿",
@@ -3003,6 +3051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 319919,
+      "num": 200080,
+      "word": "包包被外国友人扔出地铁全车人欢呼",
+      "onboard_time": 1709473291,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 319582,
       "num": 319582,
       "word": "梅西梅开二度",
@@ -3025,6 +3081,14 @@
       "onboard_time": 1709380355,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 316520,
+      "num": 316520,
+      "word": "发现耳朵边上有个小孔",
+      "onboard_time": 1709472692,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 316439,
@@ -3331,14 +3395,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 285268,
-      "num": 285268,
-      "word": "台湾海巡艇被目击与大陆海警船并行",
-      "onboard_time": 1709472092,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 285018,
       "num": 310274,
       "word": "檀健次张婧仪新浪扫楼",
@@ -3377,14 +3433,6 @@
       "onboard_time": 1709469810,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 278861,
-      "num": 278861,
-      "word": "王鹤棣出发录桃花坞4",
-      "onboard_time": 1709472211,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 277970,
@@ -3923,6 +3971,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 234118,
+      "num": 234118,
+      "word": "绿色穿搭真的让人眼前一亮",
+      "onboard_time": 1709473472,
+      "rank": 24,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 234077,
       "num": 234077,
       "word": "孩子抑郁是家病了",
@@ -4171,6 +4227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213701,
+      "num": 213701,
+      "word": "掌心明天开机",
+      "onboard_time": 1709473174,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213238,
       "num": 213238,
       "word": "IU演唱会嘉宾RIIZE",
@@ -4339,6 +4403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207929,
+      "num": 207929,
+      "word": "代表呼吁医院检查结果共享互认",
+      "onboard_time": 1709471913,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 207761,
       "num": 180444,
       "word": "WBG春季赛三连败",
@@ -4403,14 +4475,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 205478,
-      "num": 205478,
-      "word": "代表呼吁医院检查结果共享互认",
-      "onboard_time": 1709471913,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 205378,
       "num": 205378,
       "word": "LNG bsyy",
@@ -4473,6 +4537,14 @@
       "onboard_time": 1709471729,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204266,
+      "num": 204266,
+      "word": "吴磊直播",
+      "onboard_time": 1709472572,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 204117,
@@ -5019,6 +5091,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 188237,
+      "num": 188237,
+      "word": "成都AG获胜",
+      "onboard_time": 1709474614,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187765,
       "num": 187765,
       "word": "文咏珊晒泰国团建照",
@@ -5395,12 +5475,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 176232,
+      "num": 176232,
+      "word": "胡明轩全明星MVP",
+      "onboard_time": 1709475215,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175942,
       "num": 175942,
       "word": "娃哈哈建议理性消费",
       "onboard_time": 1709287172,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 175485,
+      "num": 175485,
+      "word": "汤唯去看了IU演唱会",
+      "onboard_time": 1709474794,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 175447,
@@ -5697,6 +5793,14 @@
       "onboard_time": 1709465551,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164454,
+      "num": 164454,
+      "word": "老奶奶给所有年轻女孩的建议",
+      "onboard_time": 1709474133,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 164441,
@@ -6139,14 +6243,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 151060,
-      "num": 151060,
-      "word": "吴磊直播",
-      "onboard_time": 1709472572,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150613,
       "num": 150613,
       "word": "NMIXX上海签售",
@@ -6177,14 +6273,6 @@
       "onboard_time": 1709214336,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149611,
-      "num": 149611,
-      "word": "发现耳朵边上有个小孔",
-      "onboard_time": 1709472692,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 149517,
@@ -7123,14 +7211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125405,
-      "num": 125405,
-      "word": "亚洲首富之子减肥108公斤后又胖回来了",
-      "onboard_time": 1709472814,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125061,
       "num": 125061,
       "word": "唐人街探案",
@@ -7601,6 +7681,14 @@
       "onboard_time": 1709224350,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112770,
+      "num": 112770,
+      "word": "春火破晓燃蜀魂",
+      "onboard_time": 1709475272,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 112593,
