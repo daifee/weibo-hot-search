@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709444050866,
+  "endTime": 1709446884691,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1476218,
+      "num": 1476218,
+      "word": "接收反诈老陈的单位遭大量举报投诉",
+      "onboard_time": 1709441610,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1414321,
       "num": 1414321,
       "word": "姚安娜回应演技争议",
@@ -344,14 +352,6 @@
       "word": "点读机女孩发视频称手术很成功",
       "onboard_time": 1709347471,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1215347,
-      "num": 1215347,
-      "word": "接收反诈老陈的单位遭大量举报投诉",
-      "onboard_time": 1709441610,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1315,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 552572,
+      "num": 552572,
+      "word": "桃花坞嘉宾",
+      "onboard_time": 1709444550,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 551851,
       "num": 551851,
       "word": "红楼梦 抢票",
@@ -1409,6 +1417,14 @@
       "onboard_time": 1709298514,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 526763,
+      "num": 526763,
+      "word": "张拿铁安慰失恋中的女人",
+      "onboard_time": 1709441371,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 525671,
@@ -1787,14 +1803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 445156,
-      "num": 402518,
-      "word": "张拿铁安慰失恋中的女人",
-      "onboard_time": 1709441371,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 440354,
       "num": 440354,
       "word": "光与夜之恋复刻",
@@ -1833,6 +1841,14 @@
       "onboard_time": 1709217576,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434011,
+      "num": 434011,
+      "word": "台退役中将称战机1分钟就到台湾",
+      "onboard_time": 1709444189,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 432995,
@@ -1937,6 +1953,14 @@
       "onboard_time": 1709295872,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417423,
+      "num": 417423,
+      "word": "假如玉娆有朋友圈",
+      "onboard_time": 1709442990,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 415734,
@@ -2233,6 +2257,14 @@
       "onboard_time": 1709358813,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 359340,
+      "num": 359340,
+      "word": "王鹤棣GAI布瑞吉录制新综艺",
+      "onboard_time": 1709443949,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 357276,
@@ -3203,6 +3235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 240814,
+      "num": 240814,
+      "word": "陆沉半梦半醒",
+      "onboard_time": 1709444671,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240611,
       "num": 173161,
       "word": "丁程鑫一句话让张杰心痛",
@@ -3281,14 +3321,6 @@
       "onboard_time": 1709350649,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231358,
-      "num": 161447,
-      "word": "假如玉娆有朋友圈",
-      "onboard_time": 1709442990,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 229693,
@@ -3649,6 +3681,14 @@
       "onboard_time": 1709281653,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206398,
+      "num": 206398,
+      "word": "IU演唱会嘉宾RIIZE",
+      "onboard_time": 1709446647,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 205997,
@@ -4091,14 +4131,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 190070,
-      "num": 190070,
-      "word": "王鹤棣GAI布瑞吉录制新综艺",
-      "onboard_time": 1709443949,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189982,
       "num": 189982,
       "word": "谭松韵许凯牵手转圈搂",
@@ -4425,6 +4457,14 @@
       "onboard_time": 1709257772,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 178550,
+      "num": 178550,
+      "word": "年年体检正常为何突然查出癌症",
+      "onboard_time": 1709446410,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 178531,
@@ -5043,6 +5083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154649,
+      "num": 154649,
+      "word": "老天爷对一个男人最大的奖励和惩罚",
+      "onboard_time": 1709444490,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154416,
       "num": 154416,
       "word": "为什么蜂蜜勺子是这个样子",
@@ -5571,6 +5619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135856,
+      "num": 135856,
+      "word": "当中国商船在太平洋遇到祖国航母",
+      "onboard_time": 1709444850,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 135790,
       "num": 135790,
       "word": "男朋友非要展示他的反应速度",
@@ -5833,6 +5889,14 @@
       "onboard_time": 1709383232,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127472,
+      "num": 127472,
+      "word": "加藤成亮结婚",
+      "onboard_time": 1709445687,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 126702,
@@ -6331,6 +6395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112220,
+      "num": 112220,
+      "word": "沈月出发录制桃花坞4",
+      "onboard_time": 1709446286,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112076,
       "num": 112076,
       "word": "亚克力枪枪美物开箱",
@@ -6369,6 +6441,14 @@
       "onboard_time": 1709350231,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109789,
+      "num": 109789,
+      "word": "创造营亚洲",
+      "onboard_time": 1709444130,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 109229,
@@ -6571,6 +6651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 97031,
+      "num": 97031,
+      "word": "李克勤演唱会 万人灯海",
+      "onboard_time": 1709445328,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 96997,
       "num": 108017,
       "word": "2024CBA全明星周末",
@@ -6740,7 +6828,7 @@
     },
     {
       "raw_hot": 84570,
-      "num": 150308,
+      "num": 264265,
       "word": "这车忒好看忍不住为TA喊个麦",
       "onboard_time": 1709443290,
       "rank": 33,
