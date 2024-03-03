@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709494525746,
+  "endTime": 1709497034899,
   "band_list": [
     {
       "raw_hot": 2344886,
@@ -3435,6 +3435,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13693,
+      "num": 13693,
+      "word": "代表建议将个税起征点提至1万元",
+      "onboard_time": 1709495956,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 13123,
+      "num": 13123,
+      "word": "当上菜的速度赶不上吃饭的速度时",
+      "onboard_time": 1709494996,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 12247,
       "num": 15071,
       "word": "身体扫描法 快速入眠",
@@ -3451,10 +3467,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9832,
+      "num": 11536,
+      "word": "当地产大亨的土耳其外公有了中国小外孙",
+      "onboard_time": 1709496075,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 8947,
       "num": 15242,
       "word": "夫妇深夜潜入医院留几十箱苹果感谢",
       "onboard_time": 1709415197,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8636,
+      "num": 11516,
+      "word": "女子遇电诈正欲转账被民警及时劝阻",
+      "onboard_time": 1709496976,
       "rank": 49,
       "category": "社会新闻"
     }

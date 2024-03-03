@@ -1,6 +1,6 @@
 {
   "startTime": 1709482797196,
-  "endTime": 1709494525746,
+  "endTime": 1709497034899,
   "band_list": [
     {
       "raw_hot": 953676,
@@ -483,6 +483,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 13693,
+      "num": 13693,
+      "word": "代表建议将个税起征点提至1万元",
+      "onboard_time": 1709495956,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 13123,
+      "num": 13123,
+      "word": "当上菜的速度赶不上吃饭的速度时",
+      "onboard_time": 1709494996,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 10668,
       "num": 12657,
       "word": "430斤高一男生半年减重150斤",
@@ -497,6 +513,22 @@
       "onboard_time": 1709475632,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9832,
+      "num": 11536,
+      "word": "当地产大亨的土耳其外公有了中国小外孙",
+      "onboard_time": 1709496075,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 8636,
+      "num": 11516,
+      "word": "女子遇电诈正欲转账被民警及时劝阻",
+      "onboard_time": 1709496976,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

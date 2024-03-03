@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709494525746,
+  "endTime": 1709497034899,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -9211,12 +9211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13693,
+      "num": 13693,
+      "word": "代表建议将个税起征点提至1万元",
+      "onboard_time": 1709495956,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 13146,
       "num": 13146,
       "word": "韩雪浪姐路透",
       "onboard_time": 1709235555,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13123,
+      "num": 13123,
+      "word": "当上菜的速度赶不上吃饭的速度时",
+      "onboard_time": 1709494996,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 12247,
@@ -9259,6 +9275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 9832,
+      "num": 11536,
+      "word": "当地产大亨的土耳其外公有了中国小外孙",
+      "onboard_time": 1709496075,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 9473,
       "num": 174221,
       "word": "杨紫琼先锋夫人",
@@ -9279,6 +9303,14 @@
       "num": 12991,
       "word": "山东双胞胎姐妹同一天结婚",
       "onboard_time": 1709237894,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8636,
+      "num": 11516,
+      "word": "女子遇电诈正欲转账被民警及时劝阻",
+      "onboard_time": 1709496976,
       "rank": 49,
       "category": "社会新闻"
     },
