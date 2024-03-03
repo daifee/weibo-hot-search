@@ -1,6 +1,6 @@
 {
   "startTime": 1709482797196,
-  "endTime": 1709497034899,
+  "endTime": 1709498113043,
   "band_list": [
     {
       "raw_hot": 953676,
@@ -483,7 +483,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 13693,
+      "raw_hot": 15807,
       "num": 13693,
       "word": "代表建议将个税起征点提至1万元",
       "onboard_time": 1709495956,
@@ -491,11 +491,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13123,
-      "num": 13123,
+      "raw_hot": 13307,
+      "num": 13307,
       "word": "当上菜的速度赶不上吃饭的速度时",
       "onboard_time": 1709494996,
       "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 11807,
+      "num": 11807,
+      "word": "当地产大亨的土耳其外公有了中国小外孙",
+      "onboard_time": 1709496075,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -515,12 +523,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 9832,
-      "num": 11536,
-      "word": "当地产大亨的土耳其外公有了中国小外孙",
-      "onboard_time": 1709496075,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 10362,
+      "num": 11129,
+      "word": "秦昊帮伊能静拿到了霉霉演唱会门票",
+      "onboard_time": 1709497995,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 8636,
@@ -528,6 +536,14 @@
       "word": "女子遇电诈正欲转账被民警及时劝阻",
       "onboard_time": 1709496976,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7855,
+      "num": 12432,
+      "word": "航拍广西海底第一眼以为是龙鳞",
+      "onboard_time": 1709497935,
+      "rank": 34,
       "category": "社会新闻"
     }
   ],
