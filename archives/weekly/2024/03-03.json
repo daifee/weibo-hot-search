@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709450070075,
+  "endTime": 1709451235109,
   "band_list": [
     {
       "raw_hot": 2344886,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1651590,
-      "num": 1651590,
+      "raw_hot": 1672073,
+      "num": 1672073,
       "word": "何炅在北外任教时的照片",
       "onboard_time": 1709448090,
       "rank": 0,
@@ -65,6 +65,14 @@
       "onboard_time": 1709433751,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1044262,
+      "num": 1044262,
+      "word": "张致恒晒收款码求捐款",
+      "onboard_time": 1709449589,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1021799,
@@ -187,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 654138,
+      "num": 654138,
+      "word": "年年体检正常为何突然查出癌症",
+      "onboard_time": 1709446410,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 638478,
       "num": 638478,
       "word": "福宝在韩展出最后一天",
@@ -201,6 +217,14 @@
       "onboard_time": 1709447249,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 631379,
+      "num": 631379,
+      "word": "拿行李的手 是不太好拿花的",
+      "onboard_time": 1709447729,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 626696,
@@ -257,14 +281,6 @@
       "onboard_time": 1709444550,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 539439,
-      "num": 539439,
-      "word": "拿行李的手 是不太好拿花的",
-      "onboard_time": 1709447729,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 536210,
@@ -347,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 472039,
-      "num": 472039,
-      "word": "年年体检正常为何突然查出癌症",
-      "onboard_time": 1709446410,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 470341,
       "num": 370586,
       "word": "耳朵里出现结痂该怎么办",
@@ -395,12 +403,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 449592,
+      "num": 449592,
+      "word": "全国各省艾梅淋发病率",
+      "onboard_time": 1709448930,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 440354,
       "num": 440354,
       "word": "光与夜之恋复刻",
       "onboard_time": 1709440352,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 437804,
+      "num": 362406,
+      "word": "站姐拍的魏大勋",
+      "onboard_time": 1709447789,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 428244,
@@ -451,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 383457,
+      "num": 383457,
+      "word": "沈梦辰巴黎走秀",
+      "onboard_time": 1709449169,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 382570,
       "num": 382570,
       "word": "庆余年2什么时候播",
@@ -497,14 +529,6 @@
       "onboard_time": 1709390795,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 362406,
-      "num": 362406,
-      "word": "站姐拍的魏大勋",
-      "onboard_time": 1709447789,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 362404,
@@ -595,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328274,
+      "num": 328274,
+      "word": "全国政协十四届二次会议发布会",
+      "onboard_time": 1709450610,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 326027,
       "num": 326027,
       "word": "王锵回怼导师",
@@ -643,14 +675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 295737,
-      "num": 177158,
-      "word": "全国各省艾梅淋发病率",
-      "onboard_time": 1709448930,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 294128,
       "num": 252772,
       "word": "何老师擦脸vs谭松韵擦脸",
@@ -683,12 +707,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275100,
-      "num": 275100,
-      "word": "张致恒晒收款码求捐款",
-      "onboard_time": 1709449589,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 277618,
+      "num": 277618,
+      "word": "多少好友用过HIV预防阻断2小时达",
+      "onboard_time": 1709450432,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 270731,
@@ -763,12 +787,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252656,
-      "num": 252656,
-      "word": "沈梦辰巴黎走秀",
-      "onboard_time": 1709449169,
-      "rank": 21,
-      "category": "作品衍生"
+      "raw_hot": 252265,
+      "num": 252265,
+      "word": "Hero俯冲B组",
+      "onboard_time": 1709449829,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 248459,
@@ -809,6 +833,14 @@
       "onboard_time": 1709444671,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 235481,
+      "num": 235481,
+      "word": "化妆真是太牛了",
+      "onboard_time": 1709450610,
+      "rank": 21,
+      "category": "美妆"
     },
     {
       "raw_hot": 233565,
@@ -1027,14 +1059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175140,
-      "num": 175140,
-      "word": "Hero俯冲B组",
-      "onboard_time": 1709449829,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 173854,
       "num": 173854,
       "word": "女子深夜拨110称停电民警秒懂出警",
@@ -1129,6 +1153,14 @@
       "onboard_time": 1709378131,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 149071,
+      "num": 149071,
+      "word": "无限超越班2演员演技锐评",
+      "onboard_time": 1709450550,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 148105,
@@ -1315,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129470,
+      "num": 129470,
+      "word": "全国政协十四届二次会议会期6天",
+      "onboard_time": 1709450672,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129354,
       "num": 129354,
       "word": "全国爱耳日",
@@ -1329,6 +1369,14 @@
       "onboard_time": 1709436571,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 129258,
+      "num": 129258,
+      "word": "我在外面明明是个情绪稳定的人",
+      "onboard_time": 1709448149,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 129063,
@@ -1467,14 +1515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114744,
-      "num": 114744,
-      "word": "我在外面明明是个情绪稳定的人",
-      "onboard_time": 1709448149,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 114477,
       "num": 114477,
       "word": "白头叶猴妈妈紧紧搂着2只金色宝宝",
@@ -1555,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105668,
+      "num": 105668,
+      "word": "不露脸万能拍照姿势",
+      "onboard_time": 1709450247,
+      "rank": 45,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 103289,
       "num": 103289,
       "word": "老板要理解现在的年轻人",
@@ -1569,6 +1617,14 @@
       "onboard_time": 1709407277,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97168,
+      "num": 97168,
+      "word": "猴哥 人间理想",
+      "onboard_time": 1709451213,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 97031,
@@ -1745,6 +1801,14 @@
       "onboard_time": 1709406378,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20380,
+      "num": 133039,
+      "word": "脑洞大开的服装设计",
+      "onboard_time": 1709450852,
+      "rank": 36,
+      "category": "时尚"
     },
     {
       "raw_hot": 15597,
