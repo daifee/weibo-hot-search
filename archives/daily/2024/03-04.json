@@ -1,6 +1,6 @@
 {
   "startTime": 1709482797196,
-  "endTime": 1709507794456,
+  "endTime": 1709508851749,
   "band_list": [
     {
       "raw_hot": 953676,
@@ -8,6 +8,14 @@
       "word": "姜爷爷宋爷爷哭成泪人",
       "onboard_time": 1709475632,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 929311,
+      "num": 929311,
+      "word": "00后新警认出嫌疑人后嘴角上扬",
+      "onboard_time": 1709485523,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -24,14 +32,6 @@
       "word": "亚洲首富之子减肥108公斤后又胖回来了",
       "onboard_time": 1709472814,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 679880,
-      "num": 679880,
-      "word": "00后新警认出嫌疑人后嘴角上扬",
-      "onboard_time": 1709485523,
-      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -115,20 +115,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 392650,
-      "num": 216358,
-      "word": "怀疑对方AI换脸可以让对方摁鼻子",
-      "onboard_time": 1709481571,
-      "rank": 17,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 324833,
-      "num": 102143,
+      "raw_hot": 392935,
+      "num": 392935,
       "word": "睡得好要看这4个指标",
       "onboard_time": 1709501174,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 392650,
+      "num": 233813,
+      "word": "怀疑对方AI换脸可以让对方摁鼻子",
+      "onboard_time": 1709481571,
+      "rank": 17,
+      "category": "科学科普"
     },
     {
       "raw_hot": 314837,
@@ -147,12 +147,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273332,
-      "num": 273332,
+      "raw_hot": 291544,
+      "num": 291544,
       "word": "十年前种下的种子真的能开出花",
       "onboard_time": 1709481869,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270406,
+      "num": 149903,
+      "word": "秦昊帮伊能静拿到了霉霉演唱会门票",
+      "onboard_time": 1709497995,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 259938,
@@ -163,16 +171,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 207767,
-      "num": 90110,
-      "word": "秦昊帮伊能静拿到了霉霉演唱会门票",
-      "onboard_time": 1709497995,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 192218,
-      "num": 73067,
+      "num": 125191,
       "word": "刘耀文卡点发博给宋亚轩庆生",
       "onboard_time": 1709507300,
       "rank": 21,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177824,
+      "num": 177824,
+      "word": "农夫山泉",
+      "onboard_time": 1709508205,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175581,
       "num": 175581,
       "word": "多少好友用过HIV预防阻断2小时达",
@@ -195,7 +203,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 165592,
+      "raw_hot": 171215,
       "num": 152741,
       "word": "包包被外国友人扔出地铁全车人欢呼",
       "onboard_time": 1709473291,
@@ -227,6 +235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144660,
+      "num": 144660,
+      "word": "台湾海巡艇被目击与大陆海警船并行",
+      "onboard_time": 1709472092,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 143930,
       "num": 143930,
       "word": "迪丽热巴捧泡泡",
@@ -235,20 +251,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140374,
-      "num": 140374,
-      "word": "台湾海巡艇被目击与大陆海警船并行",
-      "onboard_time": 1709472092,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 139858,
       "num": 137598,
       "word": "胡先煦背影",
       "onboard_time": 1709481450,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139435,
+      "num": 139435,
+      "word": "勇士vs凯尔特人",
+      "onboard_time": 1709508384,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137570,
+      "num": 137570,
+      "word": "顾寻 我是校草",
+      "onboard_time": 1709486241,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 134993,
@@ -273,6 +297,14 @@
       "onboard_time": 1709476596,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122569,
+      "num": 122569,
+      "word": "两会时间开启",
+      "onboard_time": 1709508324,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 121847,
@@ -315,12 +347,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103196,
-      "num": 103196,
-      "word": "顾寻 我是校草",
-      "onboard_time": 1709486241,
+      "raw_hot": 104213,
+      "num": 104213,
+      "word": "曼城3比1曼联",
+      "onboard_time": 1709507665,
       "rank": 26,
-      "category": "剧集"
+      "category": "体育"
     },
     {
       "raw_hot": 101975,
@@ -427,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66301,
+      "num": 66301,
+      "word": "哈兰德空门不进",
+      "onboard_time": 1709508505,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62844,
       "num": 71915,
       "word": "张镇麟大风车扣篮",
@@ -435,12 +475,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58229,
-      "num": 58229,
-      "word": "曼城3比1曼联",
-      "onboard_time": 1709507665,
-      "rank": 26,
+      "raw_hot": 59760,
+      "num": 59760,
+      "word": "福登世界波",
+      "onboard_time": 1709507543,
+      "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51119,
+      "num": 51119,
+      "word": "被小孩姐的舞蹈震惊了",
+      "onboard_time": 1709508144,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 49629,
@@ -467,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47976,
+      "num": 47976,
+      "word": "你平时多久掏一次耳朵",
+      "onboard_time": 1709508685,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 46986,
       "num": 123145,
       "word": "117名中学教师考出救护员证",
@@ -475,27 +531,27 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 42951,
-      "num": 42951,
-      "word": "福登世界波",
-      "onboard_time": 1709507543,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 42876,
-      "num": 42876,
+      "raw_hot": 45484,
+      "num": 45484,
       "word": "提笔忘字开口忘词其实是一种脑病",
       "onboard_time": 1709499736,
       "rank": 43,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 41545,
-      "num": 41545,
+      "raw_hot": 44976,
+      "num": 44976,
       "word": "代表建议将个税起征点提至1万元",
       "onboard_time": 1709495956,
       "rank": 32,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 32676,
+      "num": 523976,
+      "word": "两会你我他",
+      "onboard_time": 1709475632,
+      "rank": 2,
       "category": "国内时政"
     },
     {
@@ -513,14 +569,6 @@
       "onboard_time": 1709487859,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28317,
-      "num": 430962,
-      "word": "两会你我他",
-      "onboard_time": 1709475632,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 27084,
