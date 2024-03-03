@@ -1,0 +1,410 @@
+{
+  "runTime": 1709482797196,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 953676,
+        "num": 953676,
+        "word": "姜爷爷宋爷爷哭成泪人",
+        "onboard_time": 1709475632,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718508,
+        "num": 718508,
+        "word": "亚洲首富之子减肥108公斤后又胖回来了",
+        "onboard_time": 1709472814,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25255,
+        "num": 645204,
+        "word": "聚焦2024全国两会基层代表",
+        "onboard_time": 1709476833,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 627582,
+        "num": 627582,
+        "word": "西班牙女演员在印度遭7人施暴",
+        "onboard_time": 1709479231,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627281,
+        "num": 627281,
+        "word": "向佐曾闭关练功七年不看手机",
+        "onboard_time": 1709476891,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 618008,
+        "num": 618008,
+        "word": "孙千和PP合照",
+        "onboard_time": 1709479231,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 568985,
+        "num": 568985,
+        "word": "不背单词 我还没打卡",
+        "onboard_time": 1709475932,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 527956,
+        "num": 527956,
+        "word": "当年爱情公寓第二季的官方设定",
+        "onboard_time": 1709477616,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 515791,
+        "num": 515791,
+        "word": "南京鸡鸣寺的樱花消息树开了",
+        "onboard_time": 1709479051,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 314837,
+        "num": 314837,
+        "word": "和不内耗的朋友出去玩",
+        "onboard_time": 1709475333,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 750812,
+        "num": 310702,
+        "word": "王楚钦橱窗",
+        "onboard_time": 1709476116,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 508499,
+        "num": 310212,
+        "word": "硕士学历二胎宝妈投84份简历面试为0",
+        "onboard_time": 1709463331,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447974,
+        "num": 304932,
+        "word": "怪不得没见过云南籍清冷学霸",
+        "onboard_time": 1709479173,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 395337,
+        "num": 298498,
+        "word": "DYG教练 跑路",
+        "onboard_time": 1709474492,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 296893,
+        "num": 296893,
+        "word": "唐探2 那可是杨谨华诶",
+        "onboard_time": 1709477252,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259938,
+        "num": 259938,
+        "word": "周处除三害",
+        "onboard_time": 1709467650,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192093,
+        "num": 192093,
+        "word": "女子买茅台验真伪被死亡威胁",
+        "onboard_time": 1709451450,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184400,
+        "num": 184400,
+        "word": "怀疑对方AI换脸可以让对方摁鼻子",
+        "onboard_time": 1709481571,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 175581,
+        "num": 175581,
+        "word": "多少好友用过HIV预防阻断2小时达",
+        "onboard_time": 1709450432,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156742,
+        "num": 156742,
+        "word": "汤唯去看了IU演唱会",
+        "onboard_time": 1709474794,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 447881,
+        "num": 154345,
+        "word": "经常午睡比从来不午睡更健康吗",
+        "onboard_time": 1709478456,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165592,
+        "num": 152741,
+        "word": "包包被外国友人扔出地铁全车人欢呼",
+        "onboard_time": 1709473291,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150854,
+        "num": 150854,
+        "word": "阮经天40岁状态",
+        "onboard_time": 1709459012,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143930,
+        "num": 143930,
+        "word": "迪丽热巴捧泡泡",
+        "onboard_time": 1709476292,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140374,
+        "num": 140374,
+        "word": "台湾海巡艇被目击与大陆海警船并行",
+        "onboard_time": 1709472092,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140125,
+        "num": 140125,
+        "word": "曼城vs曼联",
+        "onboard_time": 1709480430,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134993,
+        "num": 134993,
+        "word": "尹子维新片尺度",
+        "onboard_time": 1709475812,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130936,
+        "num": 130936,
+        "word": "陶喆演唱会大合唱的魅力",
+        "onboard_time": 1709479830,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108507,
+        "num": 123979,
+        "word": "吴艳妮2024首秀8秒12",
+        "onboard_time": 1709467893,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46986,
+        "num": 123145,
+        "word": "117名中学教师考出救护员证",
+        "onboard_time": 1709468249,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 122799,
+        "num": 122799,
+        "word": "这一抱硬控我10秒",
+        "onboard_time": 1709476596,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121847,
+        "num": 121847,
+        "word": "女儿第一次来例假妈妈哭了",
+        "onboard_time": 1709459789,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121028,
+        "num": 121028,
+        "word": "周也嘴巴哭成typec",
+        "onboard_time": 1709462976,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118815,
+        "num": 118815,
+        "word": "胡先煦背影",
+        "onboard_time": 1709481450,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106092,
+        "num": 106092,
+        "word": "王鹤棣出发录桃花坞4",
+        "onboard_time": 1709472211,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101975,
+        "num": 101975,
+        "word": "台湾著名的回春汤",
+        "onboard_time": 1709475632,
+        "rank": 35,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 100817,
+        "num": 100817,
+        "word": "绿色穿搭真的让人眼前一亮",
+        "onboard_time": 1709473472,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 100455,
+        "num": 100455,
+        "word": "蔡依林酷飒羽毛裙",
+        "onboard_time": 1709476172,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 96036,
+        "num": 96036,
+        "word": "十年前种下的种子真的能开出花",
+        "onboard_time": 1709481869,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95186,
+        "num": 95186,
+        "word": "发现耳朵边上有个小孔",
+        "onboard_time": 1709472692,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94731,
+        "num": 94731,
+        "word": "唐嫣HelloKitty手机壳",
+        "onboard_time": 1709473775,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94595,
+        "num": 94595,
+        "word": "欧阳娜娜古装拉大提琴",
+        "onboard_time": 1709476531,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92799,
+        "num": 92799,
+        "word": "一觉醒来又要上班了",
+        "onboard_time": 1709475875,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91184,
+        "num": 91184,
+        "word": "成毅白发造型",
+        "onboard_time": 1709468912,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89054,
+        "num": 89054,
+        "word": "迪丽热巴眼里有活",
+        "onboard_time": 1709460090,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82819,
+        "num": 82819,
+        "word": "杨幂时装周的待遇",
+        "onboard_time": 1709478032,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 76504,
+        "num": 76504,
+        "word": "大理寺少卿游",
+        "onboard_time": 1709470289,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76235,
+        "num": 76235,
+        "word": "别人放垃圾话林臻东放老实话",
+        "onboard_time": 1709481210,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74306,
+        "num": 74306,
+        "word": "夏之光 谢谢施主",
+        "onboard_time": 1709468131,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62844,
+        "num": 71915,
+        "word": "张镇麟大风车扣篮",
+        "onboard_time": 1709479949,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#悠悠万事民生为大#"
+    }
+  }
+}
