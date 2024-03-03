@@ -1,6 +1,6 @@
 {
   "startTime": 1709482797196,
-  "endTime": 1709490007927,
+  "endTime": 1709490908005,
   "band_list": [
     {
       "raw_hot": 953676,
@@ -435,6 +435,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24550,
+      "num": 24550,
+      "word": "周笔畅巴黎时装周造型",
+      "onboard_time": 1709490497,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 21985,
+      "num": 21985,
+      "word": "女大学生逛街现状",
+      "onboard_time": 1709489718,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21684,
       "num": 21684,
       "word": "马森拍的范丞丞",
@@ -443,16 +459,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20519,
-      "num": 20519,
-      "word": "女大学生逛街现状",
-      "onboard_time": 1709489718,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 20369,
-      "num": 20369,
+      "num": 20663,
       "word": "诺丁汉森林0比1利物浦",
       "onboard_time": 1709489119,
       "rank": 49,
