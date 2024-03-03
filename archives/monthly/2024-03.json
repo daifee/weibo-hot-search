@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709482797196,
+  "endTime": 1709483625484,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -1923,6 +1923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 494719,
+      "num": 304932,
+      "word": "怪不得没见过云南籍清冷学霸",
+      "onboard_time": 1709479173,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 494429,
       "num": 494429,
       "word": "母亲回应儿子留学打搏击赛成植物人",
@@ -2217,14 +2225,6 @@
       "onboard_time": 1709264191,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 447974,
-      "num": 304932,
-      "word": "怪不得没见过云南籍清冷学霸",
-      "onboard_time": 1709479173,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 440633,
@@ -3121,6 +3121,14 @@
       "onboard_time": 1709422882,
       "rank": 7,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 324856,
+      "num": 216358,
+      "word": "怀疑对方AI换脸可以让对方摁鼻子",
+      "onboard_time": 1709481571,
+      "rank": 17,
+      "category": "科学科普"
     },
     {
       "raw_hot": 321416,
@@ -5339,14 +5347,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 184400,
-      "num": 184400,
-      "word": "怀疑对方AI换脸可以让对方摁鼻子",
-      "onboard_time": 1709481571,
-      "rank": 17,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 183952,
       "num": 183952,
       "word": "退税需要满足哪些条件",
@@ -5977,6 +5977,14 @@
       "onboard_time": 1709465551,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164671,
+      "num": 164671,
+      "word": "曼城vs曼联",
+      "onboard_time": 1709480430,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 164454,
@@ -6835,14 +6843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 140125,
-      "num": 140125,
-      "word": "曼城vs曼联",
-      "onboard_time": 1709480430,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139978,
       "num": 139978,
       "word": "张凯 bp有问题会反省",
@@ -7185,6 +7185,14 @@
       "onboard_time": 1709296052,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132731,
+      "num": 132731,
+      "word": "胡先煦背影",
+      "onboard_time": 1709481450,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 132658,
@@ -7699,6 +7707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119278,
+      "num": 119278,
+      "word": "十年前种下的种子真的能开出花",
+      "onboard_time": 1709481869,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119172,
       "num": 119172,
       "word": "XYG泽泽转战决胜巅峰",
@@ -7713,14 +7729,6 @@
       "onboard_time": 1709377050,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 118815,
-      "num": 118815,
-      "word": "胡先煦背影",
-      "onboard_time": 1709481450,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 118721,
@@ -8288,14 +8296,6 @@
       "word": "一组数据看青山定不负人",
       "onboard_time": 1709306071,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 96036,
-      "num": 96036,
-      "word": "十年前种下的种子真的能开出花",
-      "onboard_time": 1709481869,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
