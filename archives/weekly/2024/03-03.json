@@ -1,7 +1,15 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709429598359,
+  "endTime": 1709432647331,
   "band_list": [
+    {
+      "raw_hot": 1953646,
+      "num": 1953646,
+      "word": "郭敬明训斥程潇",
+      "onboard_time": 1709429727,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 1919191,
       "num": 1919191,
@@ -19,6 +27,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1398834,
+      "num": 1398834,
+      "word": "詹姆斯4万先生",
+      "onboard_time": 1709432250,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1009185,
       "num": 1009185,
       "word": "戚薇疑似救场浪姐",
@@ -27,20 +43,28 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 872437,
-      "num": 872437,
+      "raw_hot": 988197,
+      "num": 988197,
       "word": "新确认一位慰安妇制度受害幸存者",
       "onboard_time": 1709425887,
       "rank": 3,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 695625,
-      "num": 695625,
+      "raw_hot": 970275,
+      "num": 970275,
       "word": "为什么面包店宁可扔掉也不打折",
       "onboard_time": 1709427206,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 698628,
+      "num": 453658,
+      "word": "焉栩嘉在郝蕾面前提到邓超",
+      "onboard_time": 1709430990,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 685090,
@@ -65,6 +89,22 @@
       "onboard_time": 1709386053,
       "rank": 3,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 598652,
+      "num": 598652,
+      "word": "福宝在韩展出最后一天",
+      "onboard_time": 1709430449,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 587295,
+      "num": 587295,
+      "word": "经常用耳机的3个60原则",
+      "onboard_time": 1709428169,
+      "rank": 26,
+      "category": "科学科普"
     },
     {
       "raw_hot": 581580,
@@ -187,12 +227,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 383986,
-      "num": 383986,
-      "word": "经常用耳机的3个60原则",
-      "onboard_time": 1709428169,
-      "rank": 26,
-      "category": "科学科普"
+      "raw_hot": 399736,
+      "num": 357923,
+      "word": "詹姆斯40000分倒计时",
+      "onboard_time": 1709427688,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 366322,
@@ -211,14 +251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 357923,
-      "num": 357923,
-      "word": "詹姆斯40000分倒计时",
-      "onboard_time": 1709427688,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 357276,
       "num": 357276,
       "word": "周杰伦王力宏林俊杰给陶喆送花篮",
@@ -232,6 +264,14 @@
       "word": "董明珠回应玫瑰空调遭吐槽",
       "onboard_time": 1709396488,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352493,
+      "num": 352493,
+      "word": "建议对部分年龄段实行免费医疗",
+      "onboard_time": 1709428709,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -324,7 +364,7 @@
     },
     {
       "raw_hot": 258805,
-      "num": 205888,
+      "num": 210166,
       "word": "二十多岁选择人生 恐怖",
       "onboard_time": 1709427450,
       "rank": 21,
@@ -355,12 +395,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 234057,
-      "num": 234057,
-      "word": "建议对部分年龄段实行免费医疗",
-      "onboard_time": 1709428709,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 243639,
+      "num": 243639,
+      "word": "NBA",
+      "onboard_time": 1709431771,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 233565,
@@ -411,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204815,
+      "num": 204815,
+      "word": "建议将个税起征点提升至8000元",
+      "onboard_time": 1709431049,
+      "rank": 23,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 203600,
       "num": 267088,
       "word": "一诺 不当团队拖后腿的",
@@ -425,6 +473,22 @@
       "onboard_time": 1709427987,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190242,
+      "num": 190242,
+      "word": "向佐说跟爸爸很难做朋友",
+      "onboard_time": 1709432131,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 188032,
+      "num": 188032,
+      "word": "人群中迪丽热巴看了我一眼",
+      "onboard_time": 1709432190,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183768,
@@ -459,11 +523,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163269,
+      "num": 163269,
+      "word": "句句不提人句句不离人",
+      "onboard_time": 1709432010,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162180,
       "num": 162180,
       "word": "戚薇去浪姐了",
       "onboard_time": 1709387974,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 160747,
+      "num": 160747,
+      "word": "TREASURE恋综",
+      "onboard_time": 1709429552,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -539,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138879,
+      "num": 138879,
+      "word": "徐若晗手绘",
+      "onboard_time": 1709430692,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138639,
       "num": 126240,
       "word": "周处除三害 女主线",
@@ -547,12 +635,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137552,
+      "num": 137552,
+      "word": "超6成理发师有听力损失",
+      "onboard_time": 1709432552,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134566,
       "num": 108672,
       "word": "瓦伦西亚2比2皇马",
       "onboard_time": 1709420899,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132211,
+      "num": 132211,
+      "word": "7个关键州特朗普支持率均领先拜登",
+      "onboard_time": 1709431827,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 131838,
+      "num": 131838,
+      "word": "打了HPV疫苗为何还会得宫颈癌",
+      "onboard_time": 1709432010,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 130212,
@@ -569,6 +681,14 @@
       "onboard_time": 1709420539,
       "rank": 24,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 127973,
+      "num": 127973,
+      "word": "大家意外落水如何自救",
+      "onboard_time": 1709432070,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 127601,
@@ -633,14 +753,6 @@
       "onboard_time": 1709429370,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 120678,
-      "num": 120678,
-      "word": "TREASURE恋综",
-      "onboard_time": 1709429552,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 118664,
@@ -836,7 +948,7 @@
     },
     {
       "raw_hot": 37884,
-      "num": 907803,
+      "num": 1148337,
       "word": "神十七乘组默契配合度满分",
       "onboard_time": 1709385394,
       "rank": 2,

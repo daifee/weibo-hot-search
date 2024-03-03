@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709429598359,
+  "endTime": 1709432647331,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -97,6 +97,14 @@
       "onboard_time": 1709385692,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1953646,
+      "num": 1953646,
+      "word": "郭敬明训斥程潇",
+      "onboard_time": 1709429727,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1952282,
@@ -249,6 +257,14 @@
       "onboard_time": 1709305231,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1398834,
+      "num": 1398834,
+      "word": "詹姆斯4万先生",
+      "onboard_time": 1709432250,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1366226,
@@ -451,12 +467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 988197,
+      "num": 988197,
+      "word": "新确认一位慰安妇制度受害幸存者",
+      "onboard_time": 1709425887,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 984133,
       "num": 984133,
       "word": "陈丽君 浪姐",
       "onboard_time": 1709345013,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 970275,
+      "num": 970275,
+      "word": "为什么面包店宁可扔掉也不打折",
+      "onboard_time": 1709427206,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 950770,
@@ -505,14 +537,6 @@
       "onboard_time": 1709300854,
       "rank": 11,
       "category": "美食"
-    },
-    {
-      "raw_hot": 872437,
-      "num": 872437,
-      "word": "新确认一位慰安妇制度受害幸存者",
-      "onboard_time": 1709425887,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 867045,
@@ -755,12 +779,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 695625,
-      "num": 695625,
-      "word": "为什么面包店宁可扔掉也不打折",
-      "onboard_time": 1709427206,
-      "rank": 12,
-      "category": "美食"
+      "raw_hot": 698628,
+      "num": 453658,
+      "word": "焉栩嘉在郝蕾面前提到邓超",
+      "onboard_time": 1709430990,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 694364,
@@ -1027,6 +1051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 598652,
+      "num": 598652,
+      "word": "福宝在韩展出最后一天",
+      "onboard_time": 1709430449,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 598304,
       "num": 598304,
       "word": "你需退税还是补税",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1709218178,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 587295,
+      "num": 587295,
+      "word": "经常用耳机的3个60原则",
+      "onboard_time": 1709428169,
+      "rank": 26,
+      "category": "科学科普"
     },
     {
       "raw_hot": 583501,
@@ -1819,6 +1859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 399736,
+      "num": 357923,
+      "word": "詹姆斯40000分倒计时",
+      "onboard_time": 1709427688,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 399078,
       "num": 399078,
       "word": "小团团前公会被执行44.57万",
@@ -1873,14 +1921,6 @@
       "onboard_time": 1709341472,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 383986,
-      "num": 383986,
-      "word": "经常用耳机的3个60原则",
-      "onboard_time": 1709428169,
-      "rank": 26,
-      "category": "科学科普"
     },
     {
       "raw_hot": 383625,
@@ -2011,14 +2051,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 357923,
-      "num": 357923,
-      "word": "詹姆斯40000分倒计时",
-      "onboard_time": 1709427688,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 357276,
       "num": 357276,
       "word": "周杰伦王力宏林俊杰给陶喆送花篮",
@@ -2049,6 +2081,14 @@
       "onboard_time": 1709301632,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 352493,
+      "num": 352493,
+      "word": "建议对部分年龄段实行免费医疗",
+      "onboard_time": 1709428709,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352386,
@@ -2756,7 +2796,7 @@
     },
     {
       "raw_hot": 258805,
-      "num": 205888,
+      "num": 210166,
       "word": "二十多岁选择人生 恐怖",
       "onboard_time": 1709427450,
       "rank": 21,
@@ -2859,6 +2899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 243639,
+      "num": 243639,
+      "word": "NBA",
+      "onboard_time": 1709431771,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242555,
       "num": 242555,
       "word": "守护甜心 几斗太甜了",
@@ -2945,14 +2993,6 @@
       "onboard_time": 1709350952,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 234057,
-      "num": 234057,
-      "word": "建议对部分年龄段实行免费医疗",
-      "onboard_time": 1709428709,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232908,
@@ -3313,6 +3353,14 @@
       "onboard_time": 1709380653,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 204815,
+      "num": 204815,
+      "word": "建议将个税起征点提升至8000元",
+      "onboard_time": 1709431049,
+      "rank": 23,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 204564,
@@ -3683,6 +3731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190242,
+      "num": 190242,
+      "word": "向佐说跟爸爸很难做朋友",
+      "onboard_time": 1709432131,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189982,
       "num": 189982,
       "word": "谭松韵许凯牵手转圈搂",
@@ -3745,6 +3801,14 @@
       "onboard_time": 1709295872,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188032,
+      "num": 188032,
+      "word": "人群中迪丽热巴看了我一眼",
+      "onboard_time": 1709432190,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187451,
@@ -4339,6 +4403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163269,
+      "num": 163269,
+      "word": "句句不提人句句不离人",
+      "onboard_time": 1709432010,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162879,
       "num": 162879,
       "word": "浪姐官博回复李溪芮",
@@ -4401,6 +4473,14 @@
       "onboard_time": 1709384852,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160747,
+      "num": 160747,
+      "word": "TREASURE恋综",
+      "onboard_time": 1709429552,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 160560,
@@ -4947,6 +5027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138879,
+      "num": 138879,
+      "word": "徐若晗手绘",
+      "onboard_time": 1709430692,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138754,
       "num": 138754,
       "word": "中国跳水队混团夺冠",
@@ -4977,6 +5065,14 @@
       "onboard_time": 1709259393,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 137552,
+      "num": 137552,
+      "word": "超6成理发师有听力损失",
+      "onboard_time": 1709432552,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136850,
@@ -5131,6 +5227,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132211,
+      "num": 132211,
+      "word": "7个关键州特朗普支持率均领先拜登",
+      "onboard_time": 1709431827,
+      "rank": 42,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 131838,
+      "num": 131838,
+      "word": "打了HPV疫苗为何还会得宫颈癌",
+      "onboard_time": 1709432010,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 131468,
       "num": 119748,
       "word": "黄冠亨自拍反面教材",
@@ -5225,6 +5337,14 @@
       "onboard_time": 1709219257,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127973,
+      "num": 127973,
+      "word": "大家意外落水如何自救",
+      "onboard_time": 1709432070,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 127900,
@@ -5425,14 +5545,6 @@
       "onboard_time": 1709302294,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 120678,
-      "num": 120678,
-      "word": "TREASURE恋综",
-      "onboard_time": 1709429552,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 120430,

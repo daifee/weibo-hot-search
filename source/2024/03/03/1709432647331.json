@@ -1,0 +1,410 @@
+{
+  "runTime": 1709432647331,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1953646,
+        "num": 1953646,
+        "word": "郭敬明训斥程潇",
+        "onboard_time": 1709429727,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1398834,
+        "num": 1398834,
+        "word": "詹姆斯4万先生",
+        "onboard_time": 1709432250,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29223,
+        "num": 1148337,
+        "word": "神十七乘组默契配合度满分",
+        "onboard_time": 1709385394,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 988197,
+        "num": 988197,
+        "word": "新确认一位慰安妇制度受害幸存者",
+        "onboard_time": 1709425887,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970275,
+        "num": 970275,
+        "word": "为什么面包店宁可扔掉也不打折",
+        "onboard_time": 1709427206,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 893466,
+        "num": 893466,
+        "word": "董明珠再建议将个税起征点提高至1万元",
+        "onboard_time": 1709424024,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 704205,
+        "num": 704205,
+        "word": "戚薇疑似救场浪姐",
+        "onboard_time": 1709425587,
+        "rank": 6,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 598652,
+        "num": 598652,
+        "word": "福宝在韩展出最后一天",
+        "onboard_time": 1709430449,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587295,
+        "num": 587295,
+        "word": "经常用耳机的3个60原则",
+        "onboard_time": 1709428169,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 485963,
+        "num": 485963,
+        "word": "两会",
+        "onboard_time": 1709428225,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 828960,
+        "num": 472459,
+        "word": "快递员得知新规两天后离职",
+        "onboard_time": 1709392413,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698628,
+        "num": 453658,
+        "word": "焉栩嘉在郝蕾面前提到邓超",
+        "onboard_time": 1709430990,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363574,
+        "num": 363574,
+        "word": "偶遇侯雯元给钟楚曦打视频",
+        "onboard_time": 1709426007,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352493,
+        "num": 352493,
+        "word": "建议对部分年龄段实行免费医疗",
+        "onboard_time": 1709428709,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324866,
+        "num": 324866,
+        "word": "王鹤棣一张机场照被4个cp嗑",
+        "onboard_time": 1709427809,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243639,
+        "num": 243639,
+        "word": "NBA",
+        "onboard_time": 1709431771,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226189,
+        "num": 226189,
+        "word": "车市迎来降价潮",
+        "onboard_time": 1709424262,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 221725,
+        "num": 221725,
+        "word": "陈思诚公司泰国团建",
+        "onboard_time": 1709424805,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220605,
+        "num": 220605,
+        "word": "耳朵里出现结痂该怎么办",
+        "onboard_time": 1709424144,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199773,
+        "num": 210821,
+        "word": "满舒克",
+        "onboard_time": 1709366072,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289437,
+        "num": 210426,
+        "word": "和男朋友结不了婚又舍不得分手",
+        "onboard_time": 1709392355,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230766,
+        "num": 210166,
+        "word": "二十多岁选择人生 恐怖",
+        "onboard_time": 1709427450,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209508,
+        "num": 209508,
+        "word": "父母谈恋爱被女儿撞见瞬间害羞",
+        "onboard_time": 1709424565,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204815,
+        "num": 204815,
+        "word": "建议将个税起征点提升至8000元",
+        "onboard_time": 1709431049,
+        "rank": 23,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 195104,
+        "num": 195104,
+        "word": "王一博机场",
+        "onboard_time": 1709423242,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190242,
+        "num": 190242,
+        "word": "向佐说跟爸爸很难做朋友",
+        "onboard_time": 1709432131,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188985,
+        "num": 188985,
+        "word": "韩国摄影师镜头下的杨幂",
+        "onboard_time": 1709396910,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188032,
+        "num": 188032,
+        "word": "人群中迪丽热巴看了我一眼",
+        "onboard_time": 1709432190,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185158,
+        "num": 185158,
+        "word": "负责人称不排除关闭快递代收点",
+        "onboard_time": 1709427987,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181398,
+        "num": 181398,
+        "word": "IU金泰亨MV未公开片段",
+        "onboard_time": 1709429129,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172829,
+        "num": 172829,
+        "word": "朋友好像不知道我送的是黄金",
+        "onboard_time": 1709393195,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169785,
+        "num": 169785,
+        "word": "周杰伦王力宏林俊杰给陶喆送花篮",
+        "onboard_time": 1709396127,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163269,
+        "num": 163269,
+        "word": "句句不提人句句不离人",
+        "onboard_time": 1709432010,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160747,
+        "num": 160747,
+        "word": "TREASURE恋综",
+        "onboard_time": 1709429552,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150837,
+        "num": 150837,
+        "word": "卵巢癌早就有信号可能被你忽略了",
+        "onboard_time": 1709386053,
+        "rank": 34,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 149989,
+        "num": 149989,
+        "word": "陈丽君 豌豆射手",
+        "onboard_time": 1709425165,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399736,
+        "num": 149751,
+        "word": "詹姆斯40000分倒计时",
+        "onboard_time": 1709427688,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148879,
+        "num": 148879,
+        "word": "梅西梅开二度",
+        "onboard_time": 1709424805,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143856,
+        "num": 143856,
+        "word": "郑合惠子谈咖位不匹配",
+        "onboard_time": 1709391632,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138879,
+        "num": 138879,
+        "word": "徐若晗手绘",
+        "onboard_time": 1709430692,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137552,
+        "num": 137552,
+        "word": "超6成理发师有听力损失",
+        "onboard_time": 1709432552,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134914,
+        "num": 134914,
+        "word": "身高体重填反了",
+        "onboard_time": 1709421379,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132211,
+        "num": 132211,
+        "word": "7个关键州特朗普支持率均领先拜登",
+        "onboard_time": 1709431827,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 131844,
+        "num": 131844,
+        "word": "熬夜后吃辅酶Q10真的有用吗",
+        "onboard_time": 1709397508,
+        "rank": 43,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 131838,
+        "num": 131838,
+        "word": "打了HPV疫苗为何还会得宫颈癌",
+        "onboard_time": 1709432010,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 130981,
+        "num": 130981,
+        "word": "周处除三害 删减",
+        "onboard_time": 1709427328,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127973,
+        "num": 127973,
+        "word": "大家意外落水如何自救",
+        "onboard_time": 1709432070,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 121484,
+        "num": 121484,
+        "word": "Ning质疑霸哥开挂",
+        "onboard_time": 1709424326,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117225,
+        "num": 117225,
+        "word": "花楼",
+        "onboard_time": 1709393850,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109055,
+        "num": 109055,
+        "word": "当金毛听说猫妈妈生下小宝宝以后",
+        "onboard_time": 1709428289,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#以更大力度推动我国新能源高质量发展#"
+    }
+  }
+}
