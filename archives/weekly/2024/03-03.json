@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709457408874,
+  "endTime": 1709458586775,
   "band_list": [
     {
       "raw_hot": 2344886,
@@ -171,6 +171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 720192,
+      "num": 720192,
+      "word": "Mai浪姐补位",
+      "onboard_time": 1709457091,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 685090,
       "num": 685090,
       "word": "花楼",
@@ -267,12 +275,28 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 616541,
+      "num": 616541,
+      "word": "马来西亚交通部长称尽快恢复搜索MH370航班",
+      "onboard_time": 1709456429,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 598618,
       "num": 285449,
       "word": "爷爷要求我爸出钱给我表弟买房",
       "onboard_time": 1709441371,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 594764,
+      "num": 457767,
+      "word": "久哲 没工作",
+      "onboard_time": 1709457332,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 587295,
@@ -297,6 +321,14 @@
       "onboard_time": 1709366072,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 574080,
+      "num": 574080,
+      "word": "杨幂唐嫣刘诗诗G社生图",
+      "onboard_time": 1709456790,
+      "rank": 9,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 556127,
@@ -427,6 +459,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 454930,
+      "num": 454930,
+      "word": "男子带走多件悼念用的AD钙奶",
+      "onboard_time": 1709455828,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453018,
       "num": 317350,
       "word": "在新加坡做外卖生意收入过亿",
@@ -507,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 410059,
-      "num": 410059,
-      "word": "马来西亚交通部长称尽快恢复搜索MH370航班",
-      "onboard_time": 1709456429,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 409306,
       "num": 409306,
       "word": "车市迎来降价潮",
@@ -537,6 +569,14 @@
       "onboard_time": 1709453071,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 390344,
+      "num": 390344,
+      "word": "韦世豪保送华中科技大学",
+      "onboard_time": 1709456488,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 383457,
@@ -611,8 +651,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 360879,
-      "num": 264037,
+      "raw_hot": 362274,
+      "num": 267046,
       "word": "你的工资刚够花还是能照顾到家人",
       "onboard_time": 1709455590,
       "rank": 20,
@@ -625,14 +665,6 @@
       "onboard_time": 1709396127,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 356985,
-      "num": 356985,
-      "word": "杨幂唐嫣刘诗诗G社生图",
-      "onboard_time": 1709456790,
-      "rank": 9,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 355926,
@@ -649,14 +681,6 @@
       "onboard_time": 1709428709,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 350436,
-      "num": 350436,
-      "word": "韦世豪保送华中科技大学",
-      "onboard_time": 1709456488,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 350216,
@@ -683,20 +707,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 345105,
-      "num": 345105,
-      "word": "男子带走多件悼念用的AD钙奶",
-      "onboard_time": 1709455828,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339295,
       "num": 339295,
       "word": "一直以为这是王一博英文名",
       "onboard_time": 1709433930,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335867,
+      "num": 335867,
+      "word": "GAI喊话王鹤棣",
+      "onboard_time": 1709457811,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 334629,
@@ -891,14 +915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264679,
-      "num": 264679,
-      "word": "Mai浪姐补位",
-      "onboard_time": 1709457091,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 264483,
       "num": 264483,
       "word": "高危HPV",
@@ -920,6 +936,14 @@
       "word": "二十多岁选择人生 恐怖",
       "onboard_time": 1709427450,
       "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 254515,
+      "num": 254515,
+      "word": "感觉朋友圈没有以前热闹了",
+      "onboard_time": 1709455110,
+      "rank": 23,
       "category": "情感"
     },
     {
@@ -993,14 +1017,6 @@
       "onboard_time": 1709443290,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 243196,
-      "num": 243196,
-      "word": "感觉朋友圈没有以前热闹了",
-      "onboard_time": 1709455110,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 240814,
@@ -1131,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207761,
+      "num": 180444,
+      "word": "WBG春季赛三连败",
+      "onboard_time": 1709458046,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206771,
       "num": 206771,
       "word": "全红婵陈芋汐301B七个10分",
@@ -1235,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191980,
+      "num": 191980,
+      "word": "FPX战胜WBG",
+      "onboard_time": 1709457630,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 189948,
       "num": 189948,
       "word": "猫咪 物理学不存在了",
@@ -1299,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181955,
+      "num": 181955,
+      "word": "王鹤棣 我不开腔",
+      "onboard_time": 1709458410,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181927,
       "num": 181927,
       "word": "湖人不敌掘金",
@@ -1331,12 +1371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173127,
+      "num": 173127,
+      "word": "方可留下吧",
+      "onboard_time": 1709458046,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171614,
       "num": 171614,
       "word": "重庆妇女节策划上大分",
       "onboard_time": 1709439210,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170148,
+      "num": 170148,
+      "word": "橙C冰美式",
+      "onboard_time": 1709458230,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 168353,
@@ -1427,6 +1483,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 152331,
+      "num": 152331,
+      "word": "拖米剃头",
+      "onboard_time": 1709457871,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150613,
       "num": 150613,
       "word": "NMIXX上海签售",
@@ -1441,14 +1505,6 @@
       "onboard_time": 1709450550,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148416,
-      "num": 148416,
-      "word": "久哲 没工作",
-      "onboard_time": 1709457332,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 148105,
@@ -1617,6 +1673,14 @@
       "onboard_time": 1709446286,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130747,
+      "num": 130747,
+      "word": "FPX春季赛六连胜",
+      "onboard_time": 1709458531,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 130212,
@@ -2108,7 +2172,7 @@
     },
     {
       "raw_hot": 51861,
-      "num": 690911,
+      "num": 726829,
       "word": "话说两会知识点",
       "onboard_time": 1709455289,
       "rank": 2,
@@ -2193,6 +2257,9 @@
     },
     {
       "word": "#中华文明接力棒递到我们这一代手里了#"
+    },
+    {
+      "word": "#习近平的两会时间#"
     }
   ]
 }

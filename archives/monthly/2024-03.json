@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709457408874,
+  "endTime": 1709458586775,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -851,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 720192,
+      "num": 720192,
+      "word": "Mai浪姐补位",
+      "onboard_time": 1709457091,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 715715,
       "num": 715715,
       "word": "33岁白发妈妈亲吻去世宝宝墓碑",
@@ -1195,6 +1203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 616541,
+      "num": 616541,
+      "word": "马来西亚交通部长称尽快恢复搜索MH370航班",
+      "onboard_time": 1709456429,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616051,
       "num": 616051,
       "word": "市民排队为德州受伤学生献血",
@@ -1241,6 +1257,14 @@
       "onboard_time": 1709253272,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 594764,
+      "num": 457767,
+      "word": "久哲 没工作",
+      "onboard_time": 1709457332,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 590083,
@@ -1329,6 +1353,14 @@
       "onboard_time": 1709358990,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 574080,
+      "num": 574080,
+      "word": "杨幂唐嫣刘诗诗G社生图",
+      "onboard_time": 1709456790,
+      "rank": 9,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 566481,
@@ -1835,6 +1867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 454930,
+      "num": 454930,
+      "word": "男子带走多件悼念用的AD钙奶",
+      "onboard_time": 1709455828,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453073,
       "num": 215482,
       "word": "教育局回应50岁班主任和学生谈恋爱",
@@ -2091,14 +2131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 410059,
-      "num": 410059,
-      "word": "马来西亚交通部长称尽快恢复搜索MH370航班",
-      "onboard_time": 1709456429,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 409825,
       "num": 409825,
       "word": "曹璐回应落选浪姐",
@@ -2193,6 +2225,14 @@
       "onboard_time": 1709453071,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 390344,
+      "num": 390344,
+      "word": "韦世豪保送华中科技大学",
+      "onboard_time": 1709456488,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 388878,
@@ -2403,8 +2443,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 360879,
-      "num": 264037,
+      "raw_hot": 362274,
+      "num": 267046,
       "word": "你的工资刚够花还是能照顾到家人",
       "onboard_time": 1709455590,
       "rank": 20,
@@ -2425,14 +2465,6 @@
       "onboard_time": 1709396127,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 356985,
-      "num": 356985,
-      "word": "杨幂唐嫣刘诗诗G社生图",
-      "onboard_time": 1709456790,
-      "rank": 9,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 356964,
@@ -2489,14 +2521,6 @@
       "onboard_time": 1709214998,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 350436,
-      "num": 350436,
-      "word": "韦世豪保送华中科技大学",
-      "onboard_time": 1709456488,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 350216,
@@ -2561,14 +2585,6 @@
       "onboard_time": 1709255131,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 345105,
-      "num": 345105,
-      "word": "男子带走多件悼念用的AD钙奶",
-      "onboard_time": 1709455828,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 343925,
@@ -2657,6 +2673,14 @@
       "onboard_time": 1709368413,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335867,
+      "num": 335867,
+      "word": "GAI喊话王鹤棣",
+      "onboard_time": 1709457811,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 335234,
@@ -3291,14 +3315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264679,
-      "num": 264679,
-      "word": "Mai浪姐补位",
-      "onboard_time": 1709457091,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 264034,
       "num": 239824,
       "word": "季节露娜百分百胜率",
@@ -3367,6 +3383,14 @@
       "num": 255355,
       "word": "为什么年轻人喜欢晒各种东西",
       "onboard_time": 1709369614,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 254515,
+      "num": 254515,
+      "word": "感觉朋友圈没有以前热闹了",
+      "onboard_time": 1709455110,
       "rank": 23,
       "category": "情感"
     },
@@ -3497,14 +3521,6 @@
       "onboard_time": 1709443290,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 243196,
-      "num": 243196,
-      "word": "感觉朋友圈没有以前热闹了",
-      "onboard_time": 1709455110,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 242555,
@@ -3985,6 +4001,14 @@
       "onboard_time": 1709259452,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207761,
+      "num": 180444,
+      "word": "WBG春季赛三连败",
+      "onboard_time": 1709458046,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 207441,
@@ -4475,6 +4499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191980,
+      "num": 191980,
+      "word": "FPX战胜WBG",
+      "onboard_time": 1709457630,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190861,
       "num": 126070,
       "word": "崔杋圭solo舞台",
@@ -4713,6 +4745,14 @@
       "onboard_time": 1709284414,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181955,
+      "num": 181955,
+      "word": "王鹤棣 我不开腔",
+      "onboard_time": 1709458410,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 181949,
@@ -4979,6 +5019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173127,
+      "num": 173127,
+      "word": "方可留下吧",
+      "onboard_time": 1709458046,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173094,
       "num": 189006,
       "word": "贡菜是不是晒干的莴笋",
@@ -5049,6 +5097,14 @@
       "onboard_time": 1709392232,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170148,
+      "num": 170148,
+      "word": "橙C冰美式",
+      "onboard_time": 1709458230,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 169785,
@@ -5571,6 +5627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 152331,
+      "num": 152331,
+      "word": "拖米剃头",
+      "onboard_time": 1709457871,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152075,
       "num": 152075,
       "word": "台宪兵指挥部回应卫兵自戕",
@@ -5649,14 +5713,6 @@
       "onboard_time": 1709299232,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 148416,
-      "num": 148416,
-      "word": "久哲 没工作",
-      "onboard_time": 1709457332,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 148175,
@@ -6209,6 +6265,14 @@
       "onboard_time": 1709359592,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 130747,
+      "num": 130747,
+      "word": "FPX春季赛六连胜",
+      "onboard_time": 1709458531,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 130011,
@@ -7684,7 +7748,7 @@
     },
     {
       "raw_hot": 51861,
-      "num": 690911,
+      "num": 726829,
       "word": "话说两会知识点",
       "onboard_time": 1709455289,
       "rank": 2,
@@ -8086,6 +8150,9 @@
     },
     {
       "word": "#中华文明接力棒递到我们这一代手里了#"
+    },
+    {
+      "word": "#习近平的两会时间#"
     }
   ]
 }
