@@ -1,0 +1,410 @@
+{
+  "runTime": 1709471845887,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1350203,
+        "num": 1350203,
+        "word": "农夫山泉副总回应捧娃哈哈踩农夫山泉",
+        "onboard_time": 1709465610,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999024,
+        "num": 999024,
+        "word": "吴艳妮2024首秀8秒12",
+        "onboard_time": 1709467893,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44216,
+        "num": 747612,
+        "word": "话说两会知识点",
+        "onboard_time": 1709455289,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 654148,
+        "num": 654148,
+        "word": "没钱买房租房的英国人开始分手不分房",
+        "onboard_time": 1709466691,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606784,
+        "num": 606784,
+        "word": "安全屋",
+        "onboard_time": 1709467590,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 602831,
+        "num": 602831,
+        "word": "周处除三害",
+        "onboard_time": 1709467650,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 578458,
+        "num": 578458,
+        "word": "钟睒睒否认第一桶金来自娃哈哈",
+        "onboard_time": 1709468490,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469390,
+        "num": 469390,
+        "word": "周也嘴巴哭成typec",
+        "onboard_time": 1709462976,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336764,
+        "num": 336764,
+        "word": "阮经天40岁状态",
+        "onboard_time": 1709459012,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 482985,
+        "num": 336143,
+        "word": "许凯把丁程鑫的手揽在怀里",
+        "onboard_time": 1709470053,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1387781,
+        "num": 336068,
+        "word": "硕士学历二胎宝妈投84份简历面试为0",
+        "onboard_time": 1709463331,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359727,
+        "num": 335854,
+        "word": "女子买茅台验真伪被死亡威胁",
+        "onboard_time": 1709451450,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334978,
+        "num": 334978,
+        "word": "橙C冰美式",
+        "onboard_time": 1709458230,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 343465,
+        "num": 334966,
+        "word": "女儿第一次来例假妈妈哭了",
+        "onboard_time": 1709459789,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334918,
+        "num": 334918,
+        "word": "多少好友用过HIV预防阻断2小时达",
+        "onboard_time": 1709450432,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 309528,
+        "num": 309528,
+        "word": "何炅在北外任教时的照片",
+        "onboard_time": 1709448090,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281106,
+        "num": 281106,
+        "word": "夏之光 谢谢施主",
+        "onboard_time": 1709468131,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262555,
+        "num": 262555,
+        "word": "方可给迪丽热巴做过的发型",
+        "onboard_time": 1709464350,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250163,
+        "num": 250163,
+        "word": "成毅白发造型",
+        "onboard_time": 1709468912,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232154,
+        "num": 232154,
+        "word": "日媒曝国乒教练可能调整",
+        "onboard_time": 1709463511,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277308,
+        "num": 231223,
+        "word": "丧偶式的婚姻还有必要继续吗",
+        "onboard_time": 1709469810,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226231,
+        "num": 226231,
+        "word": "韦德来CBA全明星了",
+        "onboard_time": 1709470711,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225127,
+        "num": 225127,
+        "word": "大理寺少卿游",
+        "onboard_time": 1709470289,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220568,
+        "num": 220568,
+        "word": "刘美含橘粉渐变发色",
+        "onboard_time": 1709465072,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211812,
+        "num": 211812,
+        "word": "117名中学教师考出救护员证",
+        "onboard_time": 1709468249,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 210857,
+        "num": 210857,
+        "word": "迪丽热巴眼里有活",
+        "onboard_time": 1709460090,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209347,
+        "num": 209347,
+        "word": "二十岁后人生就像按了快进键",
+        "onboard_time": 1709468373,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208138,
+        "num": 208138,
+        "word": "吴镇宇手动闭麦",
+        "onboard_time": 1709467351,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198576,
+        "num": 198576,
+        "word": "钟睒睒称与宗庆后亦师亦友",
+        "onboard_time": 1709470891,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198534,
+        "num": 198534,
+        "word": "鞠婧祎伤妆改造",
+        "onboard_time": 1709471130,
+        "rank": 29,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 187800,
+        "num": 187800,
+        "word": "迪丽热巴元气桃桃妆",
+        "onboard_time": 1709461169,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178946,
+        "num": 178946,
+        "word": "杨超越巴黎时装周穿搭",
+        "onboard_time": 1709465850,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178282,
+        "num": 178282,
+        "word": "韦德在中国向詹姆斯致敬",
+        "onboard_time": 1709471550,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175894,
+        "num": 175894,
+        "word": "原帅三分的神",
+        "onboard_time": 1709471070,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167187,
+        "num": 167187,
+        "word": "男子带走多件悼念用的AD钙奶",
+        "onboard_time": 1709455828,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161208,
+        "num": 161208,
+        "word": "Mai浪姐补位",
+        "onboard_time": 1709457091,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156465,
+        "num": 156465,
+        "word": "法国缺火药欧盟官员甩锅中国棉花",
+        "onboard_time": 1709469152,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 149700,
+        "num": 149700,
+        "word": "点读机女孩术后进ICU观察",
+        "onboard_time": 1709465912,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146433,
+        "num": 146433,
+        "word": "方可留下吧",
+        "onboard_time": 1709458046,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144230,
+        "num": 144230,
+        "word": "韦德担任CBA全明星扣篮大赛评委",
+        "onboard_time": 1709471729,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143132,
+        "num": 143132,
+        "word": "原帅三分大赛冠军",
+        "onboard_time": 1709470591,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141934,
+        "num": 141934,
+        "word": "赵奕欢浪姐出妆路透",
+        "onboard_time": 1709465551,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125736,
+        "num": 125736,
+        "word": "范丞丞白色挑染",
+        "onboard_time": 1709459850,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124338,
+        "num": 124338,
+        "word": "久哲 没工作",
+        "onboard_time": 1709457332,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122242,
+        "num": 122242,
+        "word": "很新的取群名方法",
+        "onboard_time": 1709468612,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119153,
+        "num": 119153,
+        "word": "马思纯心疼双鱼座的理由",
+        "onboard_time": 1709467291,
+        "rank": 45,
+        "category": "作品衍生,情感"
+      },
+      {
+        "raw_hot": 118066,
+        "num": 118066,
+        "word": "小镇美妆店受众",
+        "onboard_time": 1709471610,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110848,
+        "num": 110848,
+        "word": "和朋友旅行闹掰了",
+        "onboard_time": 1709468790,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110524,
+        "num": 110524,
+        "word": "好朋友不会在彼此身上找优越感",
+        "onboard_time": 1709470711,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108894,
+        "num": 108894,
+        "word": "严浩翔声纹对比",
+        "onboard_time": 1709459192,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}

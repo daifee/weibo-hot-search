@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709469789120,
+  "endTime": 1709471845887,
   "band_list": [
     {
       "raw_hot": 2344886,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1387781,
+      "num": 937720,
+      "word": "硕士学历二胎宝妈投84份简历面试为0",
+      "onboard_time": 1709463331,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1284977,
       "num": 1099698,
       "word": "女子买茅台验真伪被死亡威胁",
@@ -131,6 +139,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 999024,
+      "num": 999024,
+      "word": "吴艳妮2024首秀8秒12",
+      "onboard_time": 1709467893,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 970275,
       "num": 970275,
       "word": "为什么面包店宁可扔掉也不打折",
@@ -153,14 +169,6 @@
       "onboard_time": 1709437352,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 937720,
-      "num": 937720,
-      "word": "硕士学历二胎宝妈投84份简历面试为0",
-      "onboard_time": 1709463331,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 854341,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 730255,
-      "num": 392622,
+      "num": 654148,
       "word": "没钱买房租房的英国人开始分手不分房",
       "onboard_time": 1709466691,
       "rank": 10,
@@ -241,14 +249,6 @@
       "onboard_time": 1709462976,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 688514,
-      "num": 688514,
-      "word": "吴艳妮2024首秀8秒12",
-      "onboard_time": 1709467893,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 685090,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 606784,
+      "num": 606784,
+      "word": "安全屋",
+      "onboard_time": 1709467590,
+      "rank": 9,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 605667,
       "num": 605667,
       "word": "严浩翔声纹对比",
@@ -419,20 +427,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 578458,
+      "num": 578458,
+      "word": "钟睒睒否认第一桶金来自娃哈哈",
+      "onboard_time": 1709468490,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 574080,
       "num": 574080,
       "word": "杨幂唐嫣刘诗诗G社生图",
       "onboard_time": 1709456790,
       "rank": 9,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 569949,
-      "num": 569949,
-      "word": "安全屋",
-      "onboard_time": 1709467590,
-      "rank": 9,
-      "category": "科学科普"
     },
     {
       "raw_hot": 556127,
@@ -531,19 +539,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 490217,
-      "num": 490217,
-      "word": "钟睒睒否认第一桶金来自娃哈哈",
-      "onboard_time": 1709468490,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 487780,
       "num": 487780,
       "word": "大侦探9有王鸥",
       "onboard_time": 1709393669,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 482985,
+      "num": 336143,
+      "word": "许凯把丁程鑫的手揽在怀里",
+      "onboard_time": 1709470053,
+      "rank": 9,
       "category": "综艺"
     },
     {
@@ -1059,6 +1067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 281106,
+      "num": 281106,
+      "word": "夏之光 谢谢施主",
+      "onboard_time": 1709468131,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 277970,
       "num": 277970,
       "word": "枭起青壤要开机了",
@@ -1073,6 +1089,14 @@
       "onboard_time": 1709452228,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277308,
+      "num": 231223,
+      "word": "丧偶式的婚姻还有必要继续吗",
+      "onboard_time": 1709469810,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 270731,
@@ -1179,12 +1203,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 250522,
-      "num": 250522,
-      "word": "夏之光 谢谢施主",
-      "onboard_time": 1709468131,
-      "rank": 28,
-      "category": "作品衍生"
+      "raw_hot": 250163,
+      "num": 250163,
+      "word": "成毅白发造型",
+      "onboard_time": 1709468912,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 249381,
@@ -1315,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226231,
+      "num": 226231,
+      "word": "韦德来CBA全明星了",
+      "onboard_time": 1709470711,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225684,
       "num": 225684,
       "word": "阴阳师新皮肤",
@@ -1329,6 +1361,14 @@
       "onboard_time": 1709438670,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225127,
+      "num": 225127,
+      "word": "大理寺少卿游",
+      "onboard_time": 1709470289,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 224386,
@@ -1371,8 +1411,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211306,
-      "num": 211306,
+      "raw_hot": 211812,
+      "num": 211812,
       "word": "117名中学教师考出救护员证",
       "onboard_time": 1709468249,
       "rank": 29,
@@ -1395,6 +1435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209347,
+      "num": 209347,
+      "word": "二十岁后人生就像按了快进键",
+      "onboard_time": 1709468373,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208847,
       "num": 208847,
       "word": "TXT官宣回归",
@@ -1409,6 +1457,14 @@
       "onboard_time": 1709420780,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208138,
+      "num": 208138,
+      "word": "吴镇宇手动闭麦",
+      "onboard_time": 1709467351,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 207761,
@@ -1499,14 +1555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 201450,
-      "num": 201450,
-      "word": "成毅白发造型",
-      "onboard_time": 1709468912,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201090,
       "num": 199208,
       "word": "无限超越班 演技错题集",
@@ -1523,20 +1571,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 199859,
-      "num": 199859,
-      "word": "吴镇宇手动闭麦",
-      "onboard_time": 1709467351,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199826,
       "num": 199826,
       "word": "宋亚轩20岁生日企划",
       "onboard_time": 1709436092,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198576,
+      "num": 198576,
+      "word": "钟睒睒称与宗庆后亦师亦友",
+      "onboard_time": 1709470891,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198534,
+      "num": 198534,
+      "word": "鞠婧祎伤妆改造",
+      "onboard_time": 1709471130,
+      "rank": 29,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 198178,
@@ -1577,14 +1633,6 @@
       "onboard_time": 1709463691,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 192230,
-      "num": 192230,
-      "word": "二十岁后人生就像按了快进键",
-      "onboard_time": 1709468373,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 191980,
@@ -1707,12 +1755,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178282,
+      "num": 178282,
+      "word": "韦德在中国向詹姆斯致敬",
+      "onboard_time": 1709471550,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177167,
       "num": 177167,
       "word": "方可留下吧",
       "onboard_time": 1709458046,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175894,
+      "num": 175894,
+      "word": "原帅三分的神",
+      "onboard_time": 1709471070,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 173854,
@@ -1817,6 +1881,14 @@
       "onboard_time": 1709373751,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 156465,
+      "num": 156465,
+      "word": "法国缺火药欧盟官员甩锅中国棉花",
+      "onboard_time": 1709469152,
+      "rank": 40,
+      "category": "国外时政"
     },
     {
       "raw_hot": 155369,
@@ -1947,6 +2019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144230,
+      "num": 144230,
+      "word": "韦德担任CBA全明星扣篮大赛评委",
+      "onboard_time": 1709471729,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144216,
       "num": 144216,
       "word": "刘暖曦代理律师被认定违规炒作案件",
@@ -1977,6 +2057,14 @@
       "onboard_time": 1709467770,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 143132,
+      "num": 143132,
+      "word": "原帅三分大赛冠军",
+      "onboard_time": 1709470591,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 142904,
@@ -2105,14 +2193,6 @@
       "onboard_time": 1709435188,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 134708,
-      "num": 134708,
-      "word": "法国缺火药欧盟官员甩锅中国棉花",
-      "onboard_time": 1709469152,
-      "rank": 40,
-      "category": "国外时政"
     },
     {
       "raw_hot": 134566,
@@ -2371,6 +2451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 118066,
+      "num": 118066,
+      "word": "小镇美妆店受众",
+      "onboard_time": 1709471610,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116863,
       "num": 116863,
       "word": "狗狗为人类幼崽盖被子",
@@ -2449,6 +2537,14 @@
       "onboard_time": 1709392232,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110524,
+      "num": 110524,
+      "word": "好朋友不会在彼此身上找优越感",
+      "onboard_time": 1709470711,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 109789,
