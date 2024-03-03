@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709493173077,
+  "endTime": 1709494525746,
   "band_list": [
     {
       "raw_hot": 2344886,
@@ -3441,6 +3441,14 @@
       "onboard_time": 1709410217,
       "rank": 48,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 10668,
+      "num": 12657,
+      "word": "430斤高一男生半年减重150斤",
+      "onboard_time": 1709494517,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 8947,
