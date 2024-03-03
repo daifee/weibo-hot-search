@@ -1,6 +1,6 @@
 {
   "startTime": 1709482797196,
-  "endTime": 1709486073348,
+  "endTime": 1709487248520,
   "band_list": [
     {
       "raw_hot": 953676,
@@ -169,6 +169,14 @@
       "onboard_time": 1709480430,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162381,
+      "num": 162381,
+      "word": "00后新警认出嫌疑人后嘴角上扬",
+      "onboard_time": 1709485523,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156742,
@@ -395,20 +403,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56952,
+      "num": 56952,
+      "word": "顾寻 我是校草",
+      "onboard_time": 1709486241,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46986,
       "num": 123145,
       "word": "117名中学教师考出救护员证",
       "onboard_time": 1709468249,
       "rank": 29,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 40033,
-      "num": 40033,
-      "word": "00后新警认出嫌疑人后嘴角上扬",
-      "onboard_time": 1709485523,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25255,
