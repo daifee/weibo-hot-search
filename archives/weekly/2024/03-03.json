@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709479057603,
+  "endTime": 1709480036173,
   "band_list": [
     {
       "raw_hot": 2344886,
@@ -131,20 +131,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1107377,
+      "num": 1107377,
+      "word": "不背单词 我还没打卡",
+      "onboard_time": 1709475932,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1089788,
       "num": 1089788,
       "word": "向佐曾闭关练功七年不看手机",
       "onboard_time": 1709476891,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1089340,
-      "num": 1089340,
-      "word": "不背单词 我还没打卡",
-      "onboard_time": 1709475932,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 1059709,
@@ -331,6 +331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 677854,
+      "num": 677854,
+      "word": "当年爱情公寓第二季的官方设定",
+      "onboard_time": 1709477616,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 674320,
       "num": 674320,
       "word": "钟睒睒否认第一桶金来自娃哈哈",
@@ -467,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 600518,
+      "num": 245968,
+      "word": "经常午睡比从来不午睡更健康吗",
+      "onboard_time": 1709478456,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 598618,
       "num": 285449,
       "word": "爷爷要求我爸出钱给我表弟买房",
@@ -496,6 +512,14 @@
       "word": "满舒克",
       "onboard_time": 1709366072,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 579985,
+      "num": 485901,
+      "word": "西班牙女演员在印度遭7人施暴",
+      "onboard_time": 1709479231,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -537,14 +561,6 @@
       "onboard_time": 1709444550,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 549237,
-      "num": 430405,
-      "word": "当年爱情公寓第二季的官方设定",
-      "onboard_time": 1709477616,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 536210,
@@ -619,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503720,
+      "num": 503720,
+      "word": "孙千和PP合照",
+      "onboard_time": 1709479231,
+      "rank": 9,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 499752,
       "num": 499752,
       "word": "台退役中将称战机1分钟就到台湾",
@@ -651,19 +675,19 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 477435,
+      "num": 477435,
+      "word": "和不内耗的朋友出去玩",
+      "onboard_time": 1709475333,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 470341,
       "num": 370586,
       "word": "耳朵里出现结痂该怎么办",
       "onboard_time": 1709424144,
       "rank": 11,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 468396,
-      "num": 245968,
-      "word": "经常午睡比从来不午睡更健康吗",
-      "onboard_time": 1709478456,
-      "rank": 20,
       "category": "健康医疗"
     },
     {
@@ -737,14 +761,6 @@
       "onboard_time": 1709477252,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 440498,
-      "num": 440498,
-      "word": "和不内耗的朋友出去玩",
-      "onboard_time": 1709475333,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 440354,
@@ -1483,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 236757,
+      "num": 236757,
+      "word": "南京鸡鸣寺的樱花消息树开了",
+      "onboard_time": 1709479051,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 235481,
       "num": 235481,
       "word": "化妆真是太牛了",
@@ -2019,6 +2043,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 180988,
+      "num": 171557,
+      "word": "怪不得没见过云南籍清冷学霸",
+      "onboard_time": 1709479173,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179717,
       "num": 179717,
       "word": "久酷 指挥权",
@@ -2097,6 +2129,14 @@
       "onboard_time": 1709437953,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165495,
+      "num": 165495,
+      "word": "伞兵周决MVP",
+      "onboard_time": 1709479173,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 164913,
@@ -2595,6 +2635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130445,
+      "num": 130445,
+      "word": "陶喆演唱会大合唱的魅力",
+      "onboard_time": 1709479830,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130212,
       "num": 130212,
       "word": "你好星期六下期有张杰",
@@ -2713,6 +2761,14 @@
       "onboard_time": 1709383175,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124679,
+      "num": 124679,
+      "word": "暖阳 一步一步来",
+      "onboard_time": 1709479413,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 124531,
@@ -3025,6 +3081,14 @@
       "onboard_time": 1709418796,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86001,
+      "num": 116310,
+      "word": "张镇麟大风车扣篮",
+      "onboard_time": 1709479949,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 85888,
