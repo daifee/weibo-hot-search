@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709436854297,
+  "endTime": 1709439662569,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -49,6 +49,14 @@
       "onboard_time": 1709309312,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2344886,
+      "num": 2344886,
+      "word": "快递员称30分钟送完的货现在12小时",
+      "onboard_time": 1709434172,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2204750,
@@ -299,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1312406,
-      "num": 1312406,
-      "word": "快递员称30分钟送完的货现在12小时",
-      "onboard_time": 1709434172,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1311752,
       "num": 1311752,
       "word": "张睿曾以五阿哥自荐结果对方请了苏有朋",
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 988526,
+      "num": 755300,
+      "word": "53岁妈妈给25岁女儿生了个弟弟",
+      "onboard_time": 1709433751,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 984133,
       "num": 984133,
       "word": "陈丽君 浪姐",
@@ -609,6 +617,14 @@
       "onboard_time": 1709252610,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 810365,
+      "num": 810365,
+      "word": "欧阳娜娜最初不支持欧阳娣娣参加泰创",
+      "onboard_time": 1709437352,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 808066,
@@ -924,7 +940,7 @@
     },
     {
       "raw_hot": 669334,
-      "num": 575515,
+      "num": 578722,
       "word": "李钟硕现身IU演唱会",
       "onboard_time": 1709435311,
       "rank": 19,
@@ -969,14 +985,6 @@
       "onboard_time": 1709266957,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 650476,
-      "num": 650476,
-      "word": "53岁妈妈给25岁女儿生了个弟弟",
-      "onboard_time": 1709433751,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 644596,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1709376572,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 600640,
+      "num": 600640,
+      "word": "羽绒服尽量不要干洗",
+      "onboard_time": 1709437590,
+      "rank": 6,
+      "category": "科学科普"
     },
     {
       "raw_hot": 598304,
@@ -1619,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463663,
+      "num": 463663,
+      "word": "六公主评周处除三害",
+      "onboard_time": 1709436571,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 462297,
       "num": 462297,
       "word": "高德地图回应小团团语音包是否下架",
@@ -1939,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399314,
+      "num": 399314,
+      "word": "年轻人不愿进工厂该如何破解",
+      "onboard_time": 1709436629,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399078,
       "num": 399078,
       "word": "小团团前公会被执行44.57万",
@@ -2099,6 +2131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 366936,
+      "num": 181922,
+      "word": "我大使回应中国或成为第二个日本",
+      "onboard_time": 1709438311,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 365834,
       "num": 365834,
       "word": "梅西发视频庆祝粉丝破5亿",
@@ -2153,6 +2193,14 @@
       "onboard_time": 1709301632,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 354381,
+      "num": 354381,
+      "word": "詹姆斯里程悲",
+      "onboard_time": 1709438429,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 352493,
@@ -2384,6 +2432,14 @@
       "word": "张小斐主演电影票房破100亿",
       "onboard_time": 1709381974,
       "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 326660,
+      "num": 326660,
+      "word": "张小斐首个85后票房破百亿女演员",
+      "onboard_time": 1709436992,
+      "rank": 17,
       "category": "电影"
     },
     {
@@ -2963,6 +3019,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 251388,
+      "num": 251388,
+      "word": "陆雨婷第二",
+      "onboard_time": 1709439269,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250264,
       "num": 250264,
       "word": "评论区比考公还激烈",
@@ -3171,6 +3235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225378,
+      "num": 225378,
+      "word": "多家快递公司回应新规",
+      "onboard_time": 1709438670,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223867,
       "num": 223867,
       "word": "酒店回应只能外国人穿拖鞋用餐",
@@ -3249,14 +3321,6 @@
       "onboard_time": 1709268756,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 215957,
-      "num": 215957,
-      "word": "六公主评周处除三害",
-      "onboard_time": 1709436571,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 215610,
@@ -4107,6 +4171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 181927,
+      "num": 181927,
+      "word": "湖人不敌掘金",
+      "onboard_time": 1709438371,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181805,
       "num": 181805,
       "word": "海鸥 还是高铁快啊",
@@ -4505,6 +4577,14 @@
       "onboard_time": 1709260473,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166134,
+      "num": 166134,
+      "word": "简体中文成为Steam最常用语言",
+      "onboard_time": 1709437953,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 165680,
@@ -5003,6 +5083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146220,
+      "num": 146220,
+      "word": "短道世锦赛名单",
+      "onboard_time": 1709437173,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145710,
       "num": 145710,
       "word": "詹姆斯不强求与儿子共同效力湖人",
@@ -5483,12 +5571,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129354,
+      "num": 129354,
+      "word": "全国爱耳日",
+      "onboard_time": 1709438972,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129341,
       "num": 129341,
       "word": "最近你考虑买车吗",
       "onboard_time": 1709436571,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 129204,
+      "num": 129204,
+      "word": "重庆妇女节策划上大分",
+      "onboard_time": 1709439210,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 128975,
@@ -5625,6 +5729,14 @@
       "onboard_time": 1709208936,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124531,
+      "num": 124531,
+      "word": "同行的青春也只有他了",
+      "onboard_time": 1709438787,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 123955,
@@ -5787,6 +5899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119931,
+      "num": 119931,
+      "word": "女子深夜拨110称停电民警秒懂出警",
+      "onboard_time": 1709439091,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119492,
       "num": 119492,
       "word": "原神兑换码",
@@ -5929,14 +6049,6 @@
       "onboard_time": 1709277212,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 115485,
-      "num": 115485,
-      "word": "年轻人不愿进工厂该如何破解",
-      "onboard_time": 1709436629,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115216,
@@ -6697,6 +6809,14 @@
       "onboard_time": 1709422161,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56354,
+      "num": 761321,
+      "word": "9图了解政协知识点",
+      "onboard_time": 1709424084,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54438,
