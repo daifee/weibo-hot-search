@@ -1,0 +1,410 @@
+{
+  "runTime": 1709447644103,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1339161,
+        "num": 1339161,
+        "word": "接收反诈老陈的单位遭大量举报投诉",
+        "onboard_time": 1709441610,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844855,
+        "num": 844855,
+        "word": "我大使回应中国或成为第二个日本",
+        "onboard_time": 1709438311,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19321,
+        "num": 699840,
+        "word": "9图了解政协知识点",
+        "onboard_time": 1709424084,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 619016,
+        "num": 619016,
+        "word": "53岁妈妈给25岁女儿生了个弟弟",
+        "onboard_time": 1709433751,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542238,
+        "num": 542238,
+        "word": "桃花坞嘉宾",
+        "onboard_time": 1709444550,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 508548,
+        "num": 508548,
+        "word": "徐若晗 导师团全票通过",
+        "onboard_time": 1709439808,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499752,
+        "num": 499752,
+        "word": "台退役中将称战机1分钟就到台湾",
+        "onboard_time": 1709444189,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 450093,
+        "num": 450093,
+        "word": "假如玉娆有朋友圈",
+        "onboard_time": 1709442990,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413631,
+        "num": 413631,
+        "word": "张拿铁安慰失恋中的女人",
+        "onboard_time": 1709441371,
+        "rank": 8,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 369198,
+        "num": 369198,
+        "word": "王鹤棣GAI布瑞吉录制新综艺",
+        "onboard_time": 1709443949,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 682335,
+        "num": 369100,
+        "word": "快递员称30分钟送完的货现在12小时",
+        "onboard_time": 1709434172,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359654,
+        "num": 359654,
+        "word": "羽绒服尽量不要干洗",
+        "onboard_time": 1709437590,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 358767,
+        "num": 358767,
+        "word": "HPV",
+        "onboard_time": 1709442330,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 327121,
+        "num": 327121,
+        "word": "欧阳娜娜最初不支持欧阳娣娣参加泰创",
+        "onboard_time": 1709437352,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288454,
+        "num": 288454,
+        "word": "杜华定价10元招聘个人助理",
+        "onboard_time": 1709435369,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260000,
+        "num": 260000,
+        "word": "六公主评周处除三害",
+        "onboard_time": 1709436571,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 251216,
+        "num": 251216,
+        "word": "戚薇疑似救场浪姐",
+        "onboard_time": 1709425587,
+        "rank": 16,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 244614,
+        "num": 244614,
+        "word": "房东的猫刘恋第三次合作",
+        "onboard_time": 1709447249,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 242413,
+        "num": 242413,
+        "word": "李钟硕现身IU演唱会",
+        "onboard_time": 1709435311,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222707,
+        "num": 222707,
+        "word": "光与夜之恋复刻",
+        "onboard_time": 1709440352,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 349131,
+        "num": 222652,
+        "word": "火锅味上身可能是你衣服没穿对",
+        "onboard_time": 1709442689,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 306533,
+        "num": 222464,
+        "word": "年年体检正常为何突然查出癌症",
+        "onboard_time": 1709446410,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 293528,
+        "num": 221379,
+        "word": "爷爷要求我爸出钱给我表弟买房",
+        "onboard_time": 1709441371,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219047,
+        "num": 219047,
+        "word": "新确认一位慰安妇制度受害幸存者",
+        "onboard_time": 1709425887,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213238,
+        "num": 213238,
+        "word": "IU演唱会嘉宾RIIZE",
+        "onboard_time": 1709446647,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202034,
+        "num": 202034,
+        "word": "庆余年2什么时候播",
+        "onboard_time": 1709441069,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189109,
+        "num": 189109,
+        "word": "张小斐首个85后票房破百亿女演员",
+        "onboard_time": 1709436992,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187765,
+        "num": 187765,
+        "word": "文咏珊晒泰国团建照",
+        "onboard_time": 1709447249,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182888,
+        "num": 182888,
+        "word": "陈哲远大侦探路透",
+        "onboard_time": 1709447249,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148105,
+        "num": 169974,
+        "word": "当中国商船在太平洋遇到祖国航母",
+        "onboard_time": 1709444850,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164364,
+        "num": 164364,
+        "word": "为什么面包店宁可扔掉也不打折",
+        "onboard_time": 1709427206,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146076,
+        "num": 146076,
+        "word": "老天爷对一个男人最大的奖励和惩罚",
+        "onboard_time": 1709444490,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141824,
+        "num": 141824,
+        "word": "成毅王权路透",
+        "onboard_time": 1709440230,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137187,
+        "num": 137187,
+        "word": "钟楚曦侯雯元聚餐",
+        "onboard_time": 1709443110,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136218,
+        "num": 136218,
+        "word": "焉栩嘉在郝蕾面前提到邓超",
+        "onboard_time": 1709430990,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134288,
+        "num": 134288,
+        "word": "沈月出发录制桃花坞4",
+        "onboard_time": 1709446286,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129063,
+        "num": 129063,
+        "word": "KSG对战Hero",
+        "onboard_time": 1709447130,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25990,
+        "num": 124248,
+        "word": "这车忒好看忍不住为TA喊个麦",
+        "onboard_time": 1709443290,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 124234,
+        "num": 124234,
+        "word": "林一周也新剧 今晚掉马",
+        "onboard_time": 1709441851,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123388,
+        "num": 123388,
+        "word": "年轻人不愿进工厂该如何破解",
+        "onboard_time": 1709436629,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122000,
+        "num": 122000,
+        "word": "王珂梦想依旧是出道",
+        "onboard_time": 1709447070,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120404,
+        "num": 120404,
+        "word": "萧逸粉色发圈",
+        "onboard_time": 1709443290,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120283,
+        "num": 120283,
+        "word": "加藤成亮结婚",
+        "onboard_time": 1709445687,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118899,
+        "num": 118899,
+        "word": "福宝在韩展出最后一天",
+        "onboard_time": 1709430449,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111820,
+        "num": 111820,
+        "word": "郑合惠子清醒发言",
+        "onboard_time": 1709447188,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109381,
+        "num": 109381,
+        "word": "詹姆斯里程悲",
+        "onboard_time": 1709438429,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108723,
+        "num": 108723,
+        "word": "陆沉半梦半醒",
+        "onboard_time": 1709444671,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106346,
+        "num": 106346,
+        "word": "水仙花开瞬间好治愈",
+        "onboard_time": 1709447011,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98303,
+        "num": 106249,
+        "word": "欧阳娣娣第四",
+        "onboard_time": 1709440771,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97515,
+        "num": 105468,
+        "word": "人群中迪丽热巴看了我一眼",
+        "onboard_time": 1709432190,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#以更大力度推动我国新能源高质量发展#"
+    }
+  }
+}

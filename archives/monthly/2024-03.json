@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709446884691,
+  "endTime": 1709447644103,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -1539,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 499752,
+      "num": 499752,
+      "word": "台退役中将称战机1分钟就到台湾",
+      "onboard_time": 1709444189,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 498682,
       "num": 498682,
       "word": "林心如方否认参加浪姐",
@@ -1779,6 +1787,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 450093,
+      "num": 450093,
+      "word": "假如玉娆有朋友圈",
+      "onboard_time": 1709442990,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 449609,
       "num": 449609,
       "word": "官方通报哈尔滨一烤羊腿店用八两秤",
@@ -1841,14 +1857,6 @@
       "onboard_time": 1709217576,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 434011,
-      "num": 434011,
-      "word": "台退役中将称战机1分钟就到台湾",
-      "onboard_time": 1709444189,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 432995,
@@ -1953,14 +1961,6 @@
       "onboard_time": 1709295872,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 417423,
-      "num": 417423,
-      "word": "假如玉娆有朋友圈",
-      "onboard_time": 1709442990,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 415734,
@@ -2235,6 +2235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 369198,
+      "num": 369198,
+      "word": "王鹤棣GAI布瑞吉录制新综艺",
+      "onboard_time": 1709443949,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365834,
       "num": 365834,
       "word": "梅西发视频庆祝粉丝破5亿",
@@ -2257,14 +2265,6 @@
       "onboard_time": 1709358813,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 359340,
-      "num": 359340,
-      "word": "王鹤棣GAI布瑞吉录制新综艺",
-      "onboard_time": 1709443949,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 357276,
@@ -2673,6 +2673,14 @@
       "onboard_time": 1709255670,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 306533,
+      "num": 222464,
+      "word": "年年体检正常为何突然查出癌症",
+      "onboard_time": 1709446410,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 306322,
@@ -3195,6 +3203,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 244614,
+      "num": 244614,
+      "word": "房东的猫刘恋第三次合作",
+      "onboard_time": 1709447249,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 244457,
       "num": 244457,
       "word": "孩子聪不聪明看手上几个动作",
@@ -3531,6 +3547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213238,
+      "num": 213238,
+      "word": "IU演唱会嘉宾RIIZE",
+      "onboard_time": 1709446647,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 212315,
       "num": 212315,
       "word": "赵露思女友感",
@@ -3681,14 +3705,6 @@
       "onboard_time": 1709281653,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206398,
-      "num": 206398,
-      "word": "IU演唱会嘉宾RIIZE",
-      "onboard_time": 1709446647,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 205997,
@@ -4195,6 +4211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187765,
+      "num": 187765,
+      "word": "文咏珊晒泰国团建照",
+      "onboard_time": 1709447249,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187451,
       "num": 187451,
       "word": "辛芷蕾穿豹纹",
@@ -4296,6 +4320,14 @@
       "word": "种地吧",
       "onboard_time": 1709295513,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 182888,
+      "num": 182888,
+      "word": "陈哲远大侦探路透",
+      "onboard_time": 1709447249,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -4457,14 +4489,6 @@
       "onboard_time": 1709257772,
       "rank": 31,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 178550,
-      "num": 178550,
-      "word": "年年体检正常为何突然查出癌症",
-      "onboard_time": 1709446410,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 178531,
@@ -5235,6 +5259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148105,
+      "num": 169974,
+      "word": "当中国商船在太平洋遇到祖国航母",
+      "onboard_time": 1709444850,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 148011,
       "num": 148011,
       "word": "如何找到最适合自己的发型",
@@ -5619,14 +5651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135856,
-      "num": 135856,
-      "word": "当中国商船在太平洋遇到祖国航母",
-      "onboard_time": 1709444850,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 135790,
       "num": 135790,
       "word": "男朋友非要展示他的反应速度",
@@ -5697,6 +5721,14 @@
       "onboard_time": 1709274392,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134288,
+      "num": 134288,
+      "word": "沈月出发录制桃花坞4",
+      "onboard_time": 1709446286,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 133552,
@@ -5817,6 +5849,14 @@
       "onboard_time": 1709436571,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 129063,
+      "num": 129063,
+      "word": "KSG对战Hero",
+      "onboard_time": 1709447130,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 128975,
@@ -6024,6 +6064,14 @@
       "word": "吴镇宇锐评",
       "onboard_time": 1709428949,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122000,
+      "num": 122000,
+      "word": "王珂梦想依旧是出道",
+      "onboard_time": 1709447070,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -6395,14 +6443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112220,
-      "num": 112220,
-      "word": "沈月出发录制桃花坞4",
-      "onboard_time": 1709446286,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112076,
       "num": 112076,
       "word": "亚克力枪枪美物开箱",
@@ -6417,6 +6457,14 @@
       "onboard_time": 1709218178,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111820,
+      "num": 111820,
+      "word": "郑合惠子清醒发言",
+      "onboard_time": 1709447188,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 111131,
@@ -6505,6 +6553,14 @@
       "onboard_time": 1709385394,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106346,
+      "num": 106346,
+      "word": "水仙花开瞬间好治愈",
+      "onboard_time": 1709447011,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105815,
