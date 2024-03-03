@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709476434354,
+  "endTime": 1709479057603,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -123,6 +123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1935150,
+      "num": 1935150,
+      "word": "姜爷爷宋爷爷哭成泪人",
+      "onboard_time": 1709475632,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1919191,
       "num": 1919191,
       "word": "快递员得知新规两天后离职",
@@ -233,6 +241,14 @@
       "onboard_time": 1709361930,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1577469,
+      "num": 1120145,
+      "word": "王楚钦橱窗",
+      "onboard_time": 1709476116,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1574528,
@@ -473,6 +489,22 @@
       "onboard_time": 1709275352,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1089788,
+      "num": 1089788,
+      "word": "向佐曾闭关练功七年不看手机",
+      "onboard_time": 1709476891,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1089340,
+      "num": 1089340,
+      "word": "不背单词 我还没打卡",
+      "onboard_time": 1709475932,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 1065140,
@@ -960,14 +992,6 @@
       "word": "反诈老陈回应济宁消防喊话",
       "onboard_time": 1709259211,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 712364,
-      "num": 339438,
-      "word": "姜爷爷宋爷爷哭成泪人",
-      "onboard_time": 1709475632,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1603,6 +1627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 549237,
+      "num": 430405,
+      "word": "当年爱情公寓第二季的官方设定",
+      "onboard_time": 1709477616,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 549148,
       "num": 549148,
       "word": "垂耳兔双马尾",
@@ -1979,6 +2011,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 468396,
+      "num": 245968,
+      "word": "经常午睡比从来不午睡更健康吗",
+      "onboard_time": 1709478456,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 468189,
       "num": 468189,
       "word": "小沈阳发文为老婆庆生",
@@ -2145,6 +2185,22 @@
       "onboard_time": 1709264191,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440633,
+      "num": 440633,
+      "word": "唐探2 那可是杨谨华诶",
+      "onboard_time": 1709477252,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 440498,
+      "num": 440498,
+      "word": "和不内耗的朋友出去玩",
+      "onboard_time": 1709475333,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 440354,
@@ -2363,14 +2419,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 408185,
-      "num": 318961,
-      "word": "不背单词 我还没打卡",
-      "onboard_time": 1709475932,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 404806,
       "num": 404806,
       "word": "Jennie机场",
@@ -2412,7 +2460,7 @@
     },
     {
       "raw_hot": 402185,
-      "num": 314266,
+      "num": 334852,
       "word": "汤唯去看了IU演唱会",
       "onboard_time": 1709474794,
       "rank": 38,
@@ -3259,14 +3307,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 298094,
-      "num": 298094,
-      "word": "和不内耗的朋友出去玩",
-      "onboard_time": 1709475333,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 297867,
       "num": 225910,
       "word": "迪丽热巴与发型师贴贴",
@@ -3529,14 +3569,6 @@
       "onboard_time": 1709473472,
       "rank": 24,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 272518,
-      "num": 218524,
-      "word": "王楚钦橱窗",
-      "onboard_time": 1709476116,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 272317,
@@ -3905,6 +3937,14 @@
       "onboard_time": 1709340870,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 244295,
+      "num": 244295,
+      "word": "尹子维新片尺度",
+      "onboard_time": 1709475812,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 243970,
@@ -4281,6 +4321,14 @@
       "onboard_time": 1709215296,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214272,
+      "num": 214272,
+      "word": "欧阳娜娜古装拉大提琴",
+      "onboard_time": 1709476531,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 213716,
@@ -4939,14 +4987,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 196252,
-      "num": 196252,
-      "word": "尹子维新片尺度",
-      "onboard_time": 1709475812,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 195975,
       "num": 195975,
       "word": "男朋友能把你交代的事干得多离谱",
@@ -5107,6 +5147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189934,
+      "num": 189934,
+      "word": "台湾著名的回春汤",
+      "onboard_time": 1709475632,
+      "rank": 40,
+      "category": "美食,健康医疗"
+    },
+    {
       "raw_hot": 189739,
       "num": 189739,
       "word": "三月你好",
@@ -5249,14 +5297,6 @@
       "onboard_time": 1709389417,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 184603,
-      "num": 184603,
-      "word": "台湾著名的回春汤",
-      "onboard_time": 1709475632,
-      "rank": 40,
-      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 184493,
@@ -5731,12 +5771,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 169234,
+      "num": 169234,
+      "word": "LGD战胜狼队",
+      "onboard_time": 1709477735,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169132,
       "num": 169132,
       "word": "妈妈永远都不会离开我们的证明",
       "onboard_time": 1709286572,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169033,
+      "num": 169033,
+      "word": "钟楚曦纯净白月光",
+      "onboard_time": 1709476953,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 168652,
@@ -5913,6 +5969,14 @@
       "onboard_time": 1709463871,
       "rank": 36,
       "category": "音乐,艺人"
+    },
+    {
+      "raw_hot": 164092,
+      "num": 164092,
+      "word": "三八节送妈妈什么礼物比较合适",
+      "onboard_time": 1709476953,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 163425,
@@ -6243,6 +6307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154007,
+      "num": 154007,
+      "word": "原来大家的青春都被工作吸走了",
+      "onboard_time": 1709478153,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153763,
       "num": 153763,
       "word": "青海大坝溃堤未造成人员伤亡",
@@ -6265,6 +6337,14 @@
       "onboard_time": 1709263473,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152687,
+      "num": 152687,
+      "word": "这一抱硬控我10秒",
+      "onboard_time": 1709476596,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 152625,
@@ -6321,6 +6401,14 @@
       "onboard_time": 1709266175,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 150827,
+      "num": 150827,
+      "word": "杨幂时装周的待遇",
+      "onboard_time": 1709478032,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 150613,
@@ -6419,6 +6507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 147737,
+      "num": 147737,
+      "word": "王海打假金龙鱼",
+      "onboard_time": 1709478751,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 147491,
       "num": 147491,
       "word": "王锵因长相被古装剧组拒绝",
@@ -6441,6 +6537,14 @@
       "onboard_time": 1709372613,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146708,
+      "num": 146708,
+      "word": "曼市德比",
+      "onboard_time": 1709478456,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 146490,
@@ -6803,6 +6907,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 136961,
+      "num": 136961,
+      "word": "法官到底是怎么忍住不笑的",
+      "onboard_time": 1709477433,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136850,
       "num": 136850,
       "word": "真的建议大家在大学里多蹭课",
@@ -7017,6 +7129,14 @@
       "onboard_time": 1709296052,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132658,
+      "num": 132658,
+      "word": "TEC周冠军",
+      "onboard_time": 1709478932,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 132336,
@@ -8667,6 +8787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46128,
+      "num": 1138145,
+      "word": "聚焦2024全国两会基层代表",
+      "onboard_time": 1709476833,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44955,
       "num": 350727,
       "word": "上天猫抢你好星期六明星同款",
@@ -9025,6 +9153,9 @@
     },
     {
       "word": "#习近平的两会时间#"
+    },
+    {
+      "word": "#悠悠万事民生为大#"
     }
   ]
 }
