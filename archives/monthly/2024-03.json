@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709447644103,
+  "endTime": 1709450070075,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -193,6 +193,14 @@
       "onboard_time": 1709351852,
       "rank": 11,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1651590,
+      "num": 1651590,
+      "word": "何炅在北外任教时的照片",
+      "onboard_time": 1709448090,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1643492,
@@ -1091,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 631463,
+      "num": 631463,
+      "word": "房东的猫刘恋第三次合作",
+      "onboard_time": 1709447249,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 627722,
       "num": 627722,
       "word": "杨幂爸爸独家照片",
@@ -1353,6 +1369,14 @@
       "onboard_time": 1709320336,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 539439,
+      "num": 539439,
+      "word": "拿行李的手 是不太好拿花的",
+      "onboard_time": 1709447729,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 538721,
@@ -1657,6 +1681,14 @@
       "onboard_time": 1709279913,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 472039,
+      "num": 472039,
+      "word": "年年体检正常为何突然查出癌症",
+      "onboard_time": 1709446410,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 470341,
@@ -2163,6 +2195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 378494,
+      "num": 378494,
+      "word": "王栎鑫为晕倒观众组织让道",
+      "onboard_time": 1709448510,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 377799,
       "num": 377799,
       "word": "陈靖可曾因外貌遭校园暴力",
@@ -2257,6 +2297,14 @@
       "onboard_time": 1709373692,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362406,
+      "num": 362406,
+      "word": "站姐拍的魏大勋",
+      "onboard_time": 1709447789,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 359694,
@@ -2675,14 +2723,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 306533,
-      "num": 222464,
-      "word": "年年体检正常为何突然查出癌症",
-      "onboard_time": 1709446410,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 306322,
       "num": 306322,
       "word": "月入4000女子谈为何不想生",
@@ -2771,6 +2811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 295737,
+      "num": 177158,
+      "word": "全国各省艾梅淋发病率",
+      "onboard_time": 1709448930,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 295621,
       "num": 295621,
       "word": "一诺 不当团队拖后腿的",
@@ -2809,6 +2857,14 @@
       "onboard_time": 1709262992,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294128,
+      "num": 252772,
+      "word": "何老师擦脸vs谭松韵擦脸",
+      "onboard_time": 1709448330,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 293229,
@@ -2913,6 +2969,14 @@
       "onboard_time": 1709283753,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275100,
+      "num": 275100,
+      "word": "张致恒晒收款码求捐款",
+      "onboard_time": 1709449589,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 275091,
@@ -3043,6 +3107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265480,
+      "num": 265480,
+      "word": "陈哲远大侦探路透",
+      "onboard_time": 1709447249,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264907,
       "num": 264907,
       "word": "钟楚曦侯雯元聚餐",
@@ -3139,6 +3211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252656,
+      "num": 252656,
+      "word": "沈梦辰巴黎走秀",
+      "onboard_time": 1709449169,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 251848,
       "num": 251848,
       "word": "DQ联名 排队",
@@ -3201,14 +3281,6 @@
       "onboard_time": 1709364750,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 244614,
-      "num": 244614,
-      "word": "房东的猫刘恋第三次合作",
-      "onboard_time": 1709447249,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 244457,
@@ -3561,6 +3633,14 @@
       "onboard_time": 1709224946,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211926,
+      "num": 252873,
+      "word": "欧豪叫詹姆斯老头儿",
+      "onboard_time": 1709448930,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 211819,
@@ -4299,6 +4379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183693,
+      "num": 183693,
+      "word": "韩国民众早晨6点排队送别福宝",
+      "onboard_time": 1709447910,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183567,
       "num": 179979,
       "word": "马思纯刮刮刮乐",
@@ -4320,14 +4408,6 @@
       "word": "种地吧",
       "onboard_time": 1709295513,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 182888,
-      "num": 182888,
-      "word": "陈哲远大侦探路透",
-      "onboard_time": 1709447249,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -4547,6 +4627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175140,
+      "num": 175140,
+      "word": "Hero俯冲B组",
+      "onboard_time": 1709449829,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 175136,
       "num": 175136,
       "word": "大学恋爱和社会恋爱",
@@ -4721,6 +4809,14 @@
       "onboard_time": 1709427328,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168285,
+      "num": 168285,
+      "word": "老天爷对一个男人最大的奖励和惩罚",
+      "onboard_time": 1709444490,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 168232,
@@ -5107,14 +5203,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 154649,
-      "num": 154649,
-      "word": "老天爷对一个男人最大的奖励和惩罚",
-      "onboard_time": 1709444490,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 154416,
       "num": 154416,
       "word": "为什么蜂蜜勺子是这个样子",
@@ -5260,7 +5348,7 @@
     },
     {
       "raw_hot": 148105,
-      "num": 169974,
+      "num": 178266,
       "word": "当中国商船在太平洋遇到祖国航母",
       "onboard_time": 1709444850,
       "rank": 36,
@@ -6337,6 +6425,14 @@
       "onboard_time": 1709378070,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114744,
+      "num": 114744,
+      "word": "我在外面明明是个情绪稳定的人",
+      "onboard_time": 1709448149,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 114579,
