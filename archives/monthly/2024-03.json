@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709439662569,
+  "endTime": 1709440447529,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1059709,
+      "num": 755300,
+      "word": "53岁妈妈给25岁女儿生了个弟弟",
+      "onboard_time": 1709433751,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1051951,
       "num": 1051951,
       "word": "迪丽热巴唇色",
@@ -483,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 988526,
-      "num": 755300,
-      "word": "53岁妈妈给25岁女儿生了个弟弟",
-      "onboard_time": 1709433751,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 984133,
       "num": 984133,
       "word": "陈丽君 浪姐",
@@ -529,6 +529,14 @@
       "onboard_time": 1709354790,
       "rank": 3,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 935410,
+      "num": 935410,
+      "word": "欧阳娜娜最初不支持欧阳娣娣参加泰创",
+      "onboard_time": 1709437352,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 916839,
@@ -617,14 +625,6 @@
       "onboard_time": 1709252610,
       "rank": 4,
       "category": "数码"
-    },
-    {
-      "raw_hot": 810365,
-      "num": 810365,
-      "word": "欧阳娜娜最初不支持欧阳娣娣参加泰创",
-      "onboard_time": 1709437352,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 808066,
@@ -1099,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613253,
+      "num": 613253,
+      "word": "羽绒服尽量不要干洗",
+      "onboard_time": 1709437590,
+      "rank": 6,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 608108,
       "num": 608108,
       "word": "海底捞试点螺蛳粉火锅",
@@ -1121,14 +1129,6 @@
       "onboard_time": 1709376572,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 600640,
-      "num": 600640,
-      "word": "羽绒服尽量不要干洗",
-      "onboard_time": 1709437590,
-      "rank": 6,
-      "category": "科学科普"
     },
     {
       "raw_hot": 598304,
@@ -1273,6 +1273,14 @@
       "onboard_time": 1709283033,
       "rank": 7,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 559137,
+      "num": 449930,
+      "word": "我大使回应中国或成为第二个日本",
+      "onboard_time": 1709438311,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 556127,
@@ -1465,6 +1473,14 @@
       "onboard_time": 1709295093,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 508948,
+      "num": 508948,
+      "word": "年轻人不愿进工厂该如何破解",
+      "onboard_time": 1709436629,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 499898,
@@ -1963,14 +1979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 399314,
-      "num": 399314,
-      "word": "年轻人不愿进工厂该如何破解",
-      "onboard_time": 1709436629,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 399078,
       "num": 399078,
       "word": "小团团前公会被执行44.57万",
@@ -2107,6 +2115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 372473,
+      "num": 372473,
+      "word": "詹姆斯里程悲",
+      "onboard_time": 1709438429,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 371560,
       "num": 371560,
       "word": "小红书 连不上网",
@@ -2129,14 +2145,6 @@
       "onboard_time": 1709304394,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 366936,
-      "num": 181922,
-      "word": "我大使回应中国或成为第二个日本",
-      "onboard_time": 1709438311,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 365834,
@@ -2193,14 +2201,6 @@
       "onboard_time": 1709301632,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 354381,
-      "num": 354381,
-      "word": "詹姆斯里程悲",
-      "onboard_time": 1709438429,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 352493,
@@ -2395,6 +2395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 334629,
+      "num": 334629,
+      "word": "张小斐首个85后票房破百亿女演员",
+      "onboard_time": 1709436992,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 332769,
       "num": 332769,
       "word": "王鹤棣一张机场照被4个cp嗑",
@@ -2427,19 +2435,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 327788,
+      "num": 327788,
+      "word": "徐若晗 导师团全票通过",
+      "onboard_time": 1709439808,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327592,
       "num": 294071,
       "word": "张小斐主演电影票房破100亿",
       "onboard_time": 1709381974,
       "rank": 31,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 326660,
-      "num": 326660,
-      "word": "张小斐首个85后票房破百亿女演员",
-      "onboard_time": 1709436992,
-      "rank": 17,
       "category": "电影"
     },
     {
@@ -2585,6 +2593,14 @@
       "onboard_time": 1709381132,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 304592,
+      "num": 304592,
+      "word": "陆雨婷第二",
+      "onboard_time": 1709439269,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 298931,
@@ -3017,14 +3033,6 @@
       "onboard_time": 1709261791,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 251388,
-      "num": 251388,
-      "word": "陆雨婷第二",
-      "onboard_time": 1709439269,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 250264,
@@ -4123,6 +4131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183567,
+      "num": 179979,
+      "word": "马思纯刮刮刮乐",
+      "onboard_time": 1709439690,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183449,
       "num": 183449,
       "word": "WE战胜RNG",
@@ -4331,6 +4347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176325,
+      "num": 176325,
+      "word": "成毅王权路透",
+      "onboard_time": 1709440230,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176266,
       "num": 176266,
       "word": "黑猫投诉上自动续费投诉超10万",
@@ -4441,6 +4465,14 @@
       "onboard_time": 1709269835,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171614,
+      "num": 171614,
+      "word": "重庆妇女节策划上大分",
+      "onboard_time": 1709439210,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 171043,
@@ -4633,6 +4665,22 @@
       "onboard_time": 1709301814,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164209,
+      "num": 164209,
+      "word": "女子深夜拨110称停电民警秒懂出警",
+      "onboard_time": 1709439091,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163442,
+      "num": 163442,
+      "word": "光与夜之恋复刻",
+      "onboard_time": 1709440352,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 163425,
@@ -5147,6 +5195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143693,
+      "num": 143693,
+      "word": "共享充电宝为什么成了刺客",
+      "onboard_time": 1709439992,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143442,
       "num": 143442,
       "word": "原来当年我在早读课这么滑稽",
@@ -5587,14 +5643,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 129204,
-      "num": 129204,
-      "word": "重庆妇女节策划上大分",
-      "onboard_time": 1709439210,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 128975,
       "num": 128975,
       "word": "爆蛋炒饭",
@@ -5795,6 +5843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121884,
+      "num": 121884,
+      "word": "王者蔬菜精灵皮肤",
+      "onboard_time": 1709439870,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121878,
       "num": 121878,
       "word": "全红婵陈芋汐携手出战",
@@ -5897,14 +5953,6 @@
       "onboard_time": 1709267075,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119931,
-      "num": 119931,
-      "word": "女子深夜拨110称停电民警秒懂出警",
-      "onboard_time": 1709439091,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119492,
@@ -6795,6 +6843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57513,
+      "num": 761321,
+      "word": "9图了解政协知识点",
+      "onboard_time": 1709424084,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57315,
       "num": 57315,
       "word": "迈阿密国际vs奥兰多城",
@@ -6809,14 +6865,6 @@
       "onboard_time": 1709422161,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56354,
-      "num": 761321,
-      "word": "9图了解政协知识点",
-      "onboard_time": 1709424084,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 54438,
