@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709468933310,
+  "endTime": 1709469789120,
   "band_list": [
     {
       "raw_hot": 2344886,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 937720,
+      "num": 937720,
+      "word": "硕士学历二胎宝妈投84份简历面试为0",
+      "onboard_time": 1709463331,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 854341,
       "num": 854341,
       "word": "日媒曝国乒教练可能调整",
@@ -211,8 +219,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 727391,
-      "num": 311200,
+      "raw_hot": 730255,
+      "num": 392622,
       "word": "没钱买房租房的英国人开始分手不分房",
       "onboard_time": 1709466691,
       "rank": 10,
@@ -233,6 +241,14 @@
       "onboard_time": 1709462976,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 688514,
+      "num": 688514,
+      "word": "吴艳妮2024首秀8秒12",
+      "onboard_time": 1709467893,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 685090,
@@ -339,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 626905,
+      "num": 626905,
+      "word": "周处除三害",
+      "onboard_time": 1709467650,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 626696,
       "num": 616557,
       "word": "卵巢癌早就有信号可能被你忽略了",
@@ -369,14 +393,6 @@
       "onboard_time": 1709441371,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 592104,
-      "num": 310668,
-      "word": "硕士学历二胎宝妈投84份简历面试为0",
-      "onboard_time": 1709463331,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 587295,
@@ -411,12 +427,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 558948,
-      "num": 558948,
-      "word": "周处除三害",
-      "onboard_time": 1709467650,
-      "rank": 4,
-      "category": "电影"
+      "raw_hot": 569949,
+      "num": 569949,
+      "word": "安全屋",
+      "onboard_time": 1709467590,
+      "rank": 9,
+      "category": "科学科普"
     },
     {
       "raw_hot": 556127,
@@ -513,6 +529,14 @@
       "onboard_time": 1709444189,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 490217,
+      "num": 490217,
+      "word": "钟睒睒否认第一桶金来自娃哈哈",
+      "onboard_time": 1709468490,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 487780,
@@ -673,14 +697,6 @@
       "onboard_time": 1709424262,
       "rank": 6,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 406320,
-      "num": 406320,
-      "word": "吴艳妮2024首秀8秒12",
-      "onboard_time": 1709467893,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 404147,
@@ -947,14 +963,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 311488,
-      "num": 311488,
-      "word": "安全屋",
-      "onboard_time": 1709467590,
-      "rank": 9,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 305722,
       "num": 264429,
       "word": "一人上班老板给全家发工资",
@@ -1171,6 +1179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 250522,
+      "num": 250522,
+      "word": "夏之光 谢谢施主",
+      "onboard_time": 1709468131,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249381,
       "num": 249381,
       "word": "热辣滚烫票房破34亿",
@@ -1315,20 +1331,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224386,
+      "num": 224386,
+      "word": "杨超越巴黎时装周穿搭",
+      "onboard_time": 1709465850,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 222639,
       "num": 222639,
       "word": "林一周也新剧 今晚掉马",
       "onboard_time": 1709441851,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220924,
-      "num": 220924,
-      "word": "杨超越巴黎时装周穿搭",
-      "onboard_time": 1709465850,
-      "rank": 22,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 218387,
@@ -1355,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211306,
+      "num": 211306,
+      "word": "117名中学教师考出救护员证",
+      "onboard_time": 1709468249,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 209838,
       "num": 209838,
       "word": "milkyway100击杀",
@@ -1369,14 +1393,6 @@
       "onboard_time": 1709433751,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 209022,
-      "num": 209022,
-      "word": "钟睒睒否认第一桶金来自娃哈哈",
-      "onboard_time": 1709468490,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208847,
@@ -1483,6 +1499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201450,
+      "num": 201450,
+      "word": "成毅白发造型",
+      "onboard_time": 1709468912,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201090,
       "num": 199208,
       "word": "无限超越班 演技错题集",
@@ -1555,6 +1579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192230,
+      "num": 192230,
+      "word": "二十岁后人生就像按了快进键",
+      "onboard_time": 1709468373,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191980,
       "num": 191980,
       "word": "FPX战胜WBG",
@@ -1593,6 +1625,14 @@
       "onboard_time": 1709465131,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186587,
+      "num": 186587,
+      "word": "丁程鑫舞蹈版Monster",
+      "onboard_time": 1709469152,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 184493,
@@ -1675,14 +1715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174190,
-      "num": 174190,
-      "word": "夏之光 谢谢施主",
-      "onboard_time": 1709468131,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 173854,
       "num": 173854,
       "word": "女子深夜拨110称停电民警秒懂出警",
@@ -1697,14 +1729,6 @@
       "onboard_time": 1709439210,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 168709,
-      "num": 168709,
-      "word": "117名中学教师考出救护员证",
-      "onboard_time": 1709468249,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 168353,
@@ -1737,14 +1761,6 @@
       "onboard_time": 1709465551,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164232,
-      "num": 164232,
-      "word": "二十岁后人生就像按了快进键",
-      "onboard_time": 1709468373,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 164211,
@@ -1899,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145850,
+      "num": 145850,
+      "word": "和朋友旅行闹掰了",
+      "onboard_time": 1709468790,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145710,
       "num": 145710,
       "word": "詹姆斯不强求与儿子共同效力湖人",
@@ -1963,6 +1987,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 142181,
+      "num": 142181,
+      "word": "当狗狗终于学会了使用专属小门",
+      "onboard_time": 1709469211,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140844,
       "num": 140844,
       "word": "接下来的广东人会变得爽口弹牙",
@@ -2009,6 +2041,14 @@
       "onboard_time": 1709393493,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138565,
+      "num": 138565,
+      "word": "很新的取群名方法",
+      "onboard_time": 1709468612,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 137361,
@@ -2067,6 +2107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134708,
+      "num": 134708,
+      "word": "法国缺火药欧盟官员甩锅中国棉花",
+      "onboard_time": 1709469152,
+      "rank": 40,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 134566,
       "num": 108672,
       "word": "瓦伦西亚2比2皇马",
@@ -2089,6 +2137,14 @@
       "onboard_time": 1709460990,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133016,
+      "num": 133016,
+      "word": "头一次见过这么离谱的化妆手法",
+      "onboard_time": 1709468729,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 130747,
@@ -2315,14 +2371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 118086,
-      "num": 118086,
-      "word": "成毅白发造型",
-      "onboard_time": 1709468912,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 116863,
       "num": 116863,
       "word": "狗狗为人类幼崽盖被子",
@@ -2371,14 +2419,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112566,
-      "num": 112566,
-      "word": "头一次见过这么离谱的化妆手法",
-      "onboard_time": 1709468729,
-      "rank": 45,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 112209,
       "num": 196114,
       "word": "浙江90后女孩嫁给70后大叔",
@@ -2419,14 +2459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109301,
-      "num": 109301,
-      "word": "和朋友旅行闹掰了",
-      "onboard_time": 1709468790,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 106856,
       "num": 106856,
       "word": "恋爱兄妹",
@@ -2457,6 +2489,14 @@
       "onboard_time": 1709450247,
       "rank": 45,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 104963,
+      "num": 104963,
+      "word": "和水豚一起放空一分钟",
+      "onboard_time": 1709469512,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 103289,
@@ -2505,6 +2545,14 @@
       "onboard_time": 1709464713,
       "rank": 19,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 94627,
+      "num": 94627,
+      "word": "为什么一到春季就失眠",
+      "onboard_time": 1709469751,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 89159,
