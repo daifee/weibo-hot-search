@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709428474511,
+  "endTime": 1709429598359,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1009185,
+      "num": 1009185,
+      "word": "戚薇疑似救场浪姐",
+      "onboard_time": 1709425587,
+      "rank": 1,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 1000768,
       "num": 1000768,
       "word": "终于知道娃哈哈为啥用纸箱包装了",
@@ -433,14 +441,6 @@
       "onboard_time": 1709297971,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 999169,
-      "num": 999169,
-      "word": "戚薇疑似救场浪姐",
-      "onboard_time": 1709425587,
-      "rank": 1,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 990522,
@@ -505,6 +505,14 @@
       "onboard_time": 1709300854,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 872437,
+      "num": 872437,
+      "word": "新确认一位慰安妇制度受害幸存者",
+      "onboard_time": 1709425887,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 867045,
@@ -747,6 +755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 695625,
+      "num": 695625,
+      "word": "为什么面包店宁可扔掉也不打折",
+      "onboard_time": 1709427206,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 694364,
       "num": 694364,
       "word": "花少团真的去了秦岚家",
@@ -987,14 +1003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 608576,
-      "num": 608576,
-      "word": "新确认一位慰安妇制度受害幸存者",
-      "onboard_time": 1709425887,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 608108,
       "num": 608108,
       "word": "海底捞试点螺蛳粉火锅",
@@ -1147,6 +1155,14 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 556127,
+      "num": 556127,
+      "word": "偶遇侯雯元给钟楚曦打视频",
+      "onboard_time": 1709426007,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 551851,
       "num": 551851,
       "word": "红楼梦 抢票",
@@ -1217,14 +1233,6 @@
       "onboard_time": 1709220872,
       "rank": 10,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 531042,
-      "num": 531042,
-      "word": "偶遇侯雯元给钟楚曦打视频",
-      "onboard_time": 1709426007,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 530885,
@@ -1313,6 +1321,14 @@
       "onboard_time": 1709424805,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 512936,
+      "num": 512936,
+      "word": "两会",
+      "onboard_time": 1709428225,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 512352,
@@ -1452,7 +1468,7 @@
     },
     {
       "raw_hot": 470341,
-      "num": 287431,
+      "num": 370586,
       "word": "耳朵里出现结痂该怎么办",
       "onboard_time": 1709424144,
       "rank": 11,
@@ -1755,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409306,
+      "num": 409306,
+      "word": "车市迎来降价潮",
+      "onboard_time": 1709424262,
+      "rank": 6,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 404806,
       "num": 404806,
       "word": "Jennie机场",
@@ -1851,6 +1875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 383986,
+      "num": 383986,
+      "word": "经常用耳机的3个60原则",
+      "onboard_time": 1709428169,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 383625,
       "num": 268339,
       "word": "工作三年的同事存款十万",
@@ -1873,14 +1905,6 @@
       "onboard_time": 1709251769,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380152,
-      "num": 282592,
-      "word": "为什么面包店宁可扔掉也不打折",
-      "onboard_time": 1709427206,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 379879,
@@ -1939,14 +1963,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 373387,
-      "num": 373387,
-      "word": "车市迎来降价潮",
-      "onboard_time": 1709424262,
-      "rank": 6,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 371560,
       "num": 371560,
       "word": "小红书 连不上网",
@@ -1993,6 +2009,14 @@
       "onboard_time": 1709358813,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 357923,
+      "num": 357923,
+      "word": "詹姆斯40000分倒计时",
+      "onboard_time": 1709427688,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 357276,
@@ -2219,6 +2243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 326767,
+      "num": 326767,
+      "word": "王鹤棣一张机场照被4个cp嗑",
+      "onboard_time": 1709427809,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326027,
       "num": 326027,
       "word": "王锵回怼导师",
@@ -2259,20 +2291,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 319582,
+      "num": 319582,
+      "word": "梅西梅开二度",
+      "onboard_time": 1709424805,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 318373,
       "num": 237598,
       "word": "你好星期六",
       "onboard_time": 1709380355,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 318219,
-      "num": 318219,
-      "word": "梅西梅开二度",
-      "onboard_time": 1709424805,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 316439,
@@ -2756,7 +2788,7 @@
     },
     {
       "raw_hot": 253668,
-      "num": 205834,
+      "num": 211387,
       "word": "父母谈恋爱被女儿撞见瞬间害羞",
       "onboard_time": 1709424565,
       "rank": 22,
@@ -2915,6 +2947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 234057,
+      "num": 234057,
+      "word": "建议对部分年龄段实行免费医疗",
+      "onboard_time": 1709428709,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232908,
       "num": 232908,
       "word": "张雨绮理想的婚姻状态是分房睡",
@@ -2929,14 +2969,6 @@
       "onboard_time": 1709343331,
       "rank": 21,
       "category": "美食"
-    },
-    {
-      "raw_hot": 227504,
-      "num": 227504,
-      "word": "王鹤棣一张机场照被4个cp嗑",
-      "onboard_time": 1709427809,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 227488,
@@ -2985,14 +3017,6 @@
       "onboard_time": 1709304394,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 220950,
-      "num": 220950,
-      "word": "詹姆斯40000分倒计时",
-      "onboard_time": 1709427688,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 220716,
@@ -3499,20 +3523,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197632,
+      "num": 197632,
+      "word": "负责人称不排除关闭快递代收点",
+      "onboard_time": 1709427987,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197580,
       "num": 197580,
       "word": "湖人加时战胜奇才",
       "onboard_time": 1709274152,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197541,
-      "num": 197541,
-      "word": "经常用耳机的3个60原则",
-      "onboard_time": 1709428169,
-      "rank": 26,
-      "category": "科学科普"
     },
     {
       "raw_hot": 197117,
@@ -3739,14 +3763,6 @@
       "category": "演出,艺人"
     },
     {
-      "raw_hot": 185975,
-      "num": 185975,
-      "word": "两会",
-      "onboard_time": 1709428225,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 185327,
       "num": 185327,
       "word": "当成年人突然下定决心要改变生活",
@@ -3795,6 +3811,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 183768,
+      "num": 183768,
+      "word": "陈丽君 豌豆射手",
+      "onboard_time": 1709425165,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183449,
       "num": 183449,
       "word": "WE战胜RNG",
@@ -3809,6 +3833,14 @@
       "onboard_time": 1709295513,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182798,
+      "num": 182798,
+      "word": "IU金泰亨MV未公开片段",
+      "onboard_time": 1709429129,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 182630,
@@ -3961,14 +3993,6 @@
       "onboard_time": 1709257772,
       "rank": 31,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 179217,
-      "num": 179217,
-      "word": "陈丽君 豌豆射手",
-      "onboard_time": 1709425165,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 178531,
@@ -4539,6 +4563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155369,
+      "num": 155369,
+      "word": "Ning质疑霸哥开挂",
+      "onboard_time": 1709424326,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155075,
       "num": 155075,
       "word": "小胖被队友教育",
@@ -4707,6 +4739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146983,
+      "num": 146983,
+      "word": "当金毛听说猫妈妈生下小宝宝以后",
+      "onboard_time": 1709428289,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146800,
       "num": 146800,
       "word": "AG对战RNGM",
@@ -4721,14 +4761,6 @@
       "onboard_time": 1709367691,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146243,
-      "num": 146243,
-      "word": "负责人称不排除关闭快递代收点",
-      "onboard_time": 1709427987,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145701,
@@ -4761,14 +4793,6 @@
       "onboard_time": 1709278890,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 144031,
-      "num": 144031,
-      "word": "Ning质疑霸哥开挂",
-      "onboard_time": 1709424326,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 143442,
@@ -5307,6 +5331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123602,
+      "num": 123602,
+      "word": "别对我动心 爱人错过",
+      "onboard_time": 1709428469,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123451,
       "num": 123539,
       "word": "成都蓉城主场上座率",
@@ -5315,12 +5347,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122234,
-      "num": 122234,
+      "raw_hot": 122548,
+      "num": 122548,
       "word": "清明上河园小乞丐反被游客要吃的",
       "onboard_time": 1709399425,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122053,
+      "num": 122053,
+      "word": "吴镇宇锐评",
+      "onboard_time": 1709428949,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 121878,
@@ -5329,6 +5369,22 @@
       "onboard_time": 1709347830,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121808,
+      "num": 121808,
+      "word": "两个犟种好强的一生",
+      "onboard_time": 1709425046,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 121675,
+      "num": 121675,
+      "word": "糙汉阮经天",
+      "onboard_time": 1709429370,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 121621,
@@ -5369,6 +5425,14 @@
       "onboard_time": 1709302294,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 120678,
+      "num": 120678,
+      "word": "TREASURE恋综",
+      "onboard_time": 1709429552,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 120430,
@@ -5587,6 +5651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113890,
+      "num": 113890,
+      "word": "HPV科普",
+      "onboard_time": 1709428529,
+      "rank": 49,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 113875,
       "num": 134206,
       "word": "成为航母航行值更官有多难",
@@ -5625,14 +5697,6 @@
       "onboard_time": 1709273912,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 113306,
-      "num": 113306,
-      "word": "两个犟种好强的一生",
-      "onboard_time": 1709425046,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 113038,
@@ -5697,14 +5761,6 @@
       "onboard_time": 1709350231,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109671,
-      "num": 109671,
-      "word": "当金毛听说猫妈妈生下小宝宝以后",
-      "onboard_time": 1709428289,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 109229,
