@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709458586775,
+  "endTime": 1709461222898,
   "band_list": [
     {
       "raw_hot": 2344886,
@@ -115,6 +115,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 993018,
+      "num": 993018,
+      "word": "橙C冰美式",
+      "onboard_time": 1709458230,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 970275,
       "num": 970275,
       "word": "为什么面包店宁可扔掉也不打折",
@@ -137,6 +145,14 @@
       "onboard_time": 1709437352,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 830947,
+      "num": 830947,
+      "word": "久哲 没工作",
+      "onboard_time": 1709457332,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 823890,
@@ -163,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 745492,
+      "num": 745492,
+      "word": "Mai浪姐补位",
+      "onboard_time": 1709457091,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 741792,
       "num": 741792,
       "word": "句句不提人句句不离人",
@@ -171,11 +195,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 720192,
-      "num": 720192,
-      "word": "Mai浪姐补位",
-      "onboard_time": 1709457091,
-      "rank": 19,
+      "raw_hot": 709118,
+      "num": 709118,
+      "word": "迪丽热巴眼里有活",
+      "onboard_time": 1709460090,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -225,6 +249,22 @@
       "onboard_time": 1709446410,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 646107,
+      "num": 613044,
+      "word": "女儿第一次来例假妈妈哭了",
+      "onboard_time": 1709459789,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 643993,
+      "num": 643993,
+      "word": "阮经天40岁状态",
+      "onboard_time": 1709459012,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 640599,
@@ -283,20 +323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 605667,
+      "num": 605667,
+      "word": "严浩翔声纹对比",
+      "onboard_time": 1709459192,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 598618,
       "num": 285449,
       "word": "爷爷要求我爸出钱给我表弟买房",
       "onboard_time": 1709441371,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 594764,
-      "num": 457767,
-      "word": "久哲 没工作",
-      "onboard_time": 1709457332,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 587295,
@@ -337,6 +377,14 @@
       "onboard_time": 1709426007,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 555565,
+      "num": 641188,
+      "word": "男子带走多件悼念用的AD钙奶",
+      "onboard_time": 1709455828,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 552572,
@@ -459,14 +507,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 454930,
-      "num": 454930,
-      "word": "男子带走多件悼念用的AD钙奶",
-      "onboard_time": 1709455828,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 453018,
       "num": 317350,
       "word": "在新加坡做外卖生意收入过亿",
@@ -555,6 +595,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 404147,
+      "num": 404147,
+      "word": "王鹤棣 我不开腔",
+      "onboard_time": 1709458410,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399736,
       "num": 357923,
       "word": "詹姆斯40000分倒计时",
@@ -635,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367858,
+      "num": 367858,
+      "word": "范丞丞白色挑染",
+      "onboard_time": 1709459850,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366322,
       "num": 366322,
       "word": "吴镇宇夸徐若晗是天才型演员",
@@ -652,7 +708,7 @@
     },
     {
       "raw_hot": 362274,
-      "num": 267046,
+      "num": 300486,
       "word": "你的工资刚够花还是能照顾到家人",
       "onboard_time": 1709455590,
       "rank": 20,
@@ -779,6 +835,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 322256,
+      "num": 322256,
+      "word": "决定断亲后妈妈好像有点慌了",
+      "onboard_time": 1709459371,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 319582,
       "num": 319582,
       "word": "梅西梅开二度",
@@ -809,6 +873,14 @@
       "onboard_time": 1709439269,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299362,
+      "num": 299362,
+      "word": "韩国民众告别福宝",
+      "onboard_time": 1709459371,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 298376,
@@ -1003,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245791,
+      "num": 245791,
+      "word": "女子接退伍男友花递到面前没被认出",
+      "onboard_time": 1709459430,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243639,
       "num": 243639,
       "word": "NBA",
@@ -1049,6 +1129,14 @@
       "onboard_time": 1709390735,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232126,
+      "num": 232126,
+      "word": "迪丽热巴元气桃桃妆",
+      "onboard_time": 1709461169,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 230715,
@@ -1155,6 +1243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 206978,
+      "num": 206978,
+      "word": "久坐不动的人有福了",
+      "onboard_time": 1709459069,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 206771,
       "num": 206771,
       "word": "全红婵陈芋汐301B七个10分",
@@ -1187,6 +1283,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 204797,
+      "num": 204797,
+      "word": "白鹿发白烁背影照告别",
+      "onboard_time": 1709460391,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203600,
       "num": 267088,
       "word": "一诺 不当团队拖后腿的",
@@ -1209,6 +1313,14 @@
       "onboard_time": 1709435850,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 201597,
+      "num": 201597,
+      "word": "理发店现状",
+      "onboard_time": 1709459250,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 201090,
@@ -1331,14 +1443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181955,
-      "num": 181955,
-      "word": "王鹤棣 我不开腔",
-      "onboard_time": 1709458410,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181927,
       "num": 181927,
       "word": "湖人不敌掘金",
@@ -1385,14 +1489,6 @@
       "onboard_time": 1709439210,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 170148,
-      "num": 170148,
-      "word": "橙C冰美式",
-      "onboard_time": 1709458230,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 168353,
@@ -1555,6 +1651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 144989,
+      "num": 144989,
+      "word": "milkyway把把C",
+      "onboard_time": 1709459132,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144216,
       "num": 144216,
       "word": "刘暖曦代理律师被认定违规炒作案件",
@@ -1675,6 +1779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133734,
+      "num": 133734,
+      "word": "岳千灵悬着的心终于死了",
+      "onboard_time": 1709460990,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130747,
       "num": 130747,
       "word": "FPX春季赛六连胜",
@@ -1761,6 +1873,14 @@
       "onboard_time": 1709447130,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129055,
+      "num": 129055,
+      "word": "热辣滚烫票房破34亿",
+      "onboard_time": 1709461113,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 128231,
@@ -2027,6 +2147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95062,
+      "num": 635220,
+      "word": "教科书级别的西安美景受热捧",
+      "onboard_time": 1709459551,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 87683,
       "num": 87683,
       "word": "有一种演技叫眼技",
@@ -2171,8 +2299,8 @@
       "category": "互联网,艺人"
     },
     {
-      "raw_hot": 51861,
-      "num": 726829,
+      "raw_hot": 53666,
+      "num": 975099,
       "word": "话说两会知识点",
       "onboard_time": 1709455289,
       "rank": 2,
@@ -2200,6 +2328,14 @@
       "word": "2024F1巴林大奖赛",
       "onboard_time": 1709397568,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28904,
+      "num": 617405,
+      "word": "成都蓉城凤凰山首秀球迷自发清理垃圾",
+      "onboard_time": 1709459430,
+      "rank": 11,
       "category": "体育"
     },
     {
