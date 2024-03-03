@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709435842003,
+  "endTime": 1709436854297,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1312406,
+      "num": 1312406,
+      "word": "快递员称30分钟送完的货现在12小时",
+      "onboard_time": 1709434172,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1311752,
       "num": 1311752,
       "word": "张睿曾以五阿哥自荐结果对方请了苏有朋",
@@ -491,6 +499,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 968460,
+      "num": 968460,
+      "word": "张雨绮相亲",
+      "onboard_time": 1709434411,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 950770,
       "num": 950770,
       "word": "沈梦辰在巴黎被冻到过敏",
@@ -659,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 771786,
+      "num": 771786,
+      "word": "杜华定价10元招聘个人助理",
+      "onboard_time": 1709435369,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 770321,
       "num": 770321,
       "word": "爱情公寓里的胡歌",
@@ -689,14 +713,6 @@
       "onboard_time": 1709343688,
       "rank": 11,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 753798,
-      "num": 753798,
-      "word": "张雨绮相亲",
-      "onboard_time": 1709434411,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 741792,
@@ -803,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 695501,
-      "num": 695501,
-      "word": "快递员称30分钟送完的货现在12小时",
-      "onboard_time": 1709434172,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 694364,
       "num": 694364,
       "word": "花少团真的去了秦岚家",
@@ -899,12 +907,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 673689,
+      "num": 673689,
+      "word": "庆余年2破1200万海报",
+      "onboard_time": 1709434411,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 670436,
       "num": 291654,
       "word": "满舒克前女友因其感染高危HPV",
       "onboard_time": 1709377593,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 669334,
+      "num": 575515,
+      "word": "李钟硕现身IU演唱会",
+      "onboard_time": 1709435311,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 662710,
@@ -931,14 +955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 658998,
-      "num": 658998,
-      "word": "庆余年2破1200万海报",
-      "onboard_time": 1709434411,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 657914,
       "num": 657914,
       "word": "利率10%银行存款产品火爆",
@@ -953,6 +969,14 @@
       "onboard_time": 1709266957,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 650476,
+      "num": 650476,
+      "word": "53岁妈妈给25岁女儿生了个弟弟",
+      "onboard_time": 1709433751,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 644596,
@@ -1331,14 +1355,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 529105,
-      "num": 319442,
-      "word": "53岁妈妈给25岁女儿生了个弟弟",
-      "onboard_time": 1709433751,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 526821,
       "num": 526821,
       "word": "倒春寒真的要来了",
@@ -1353,6 +1369,14 @@
       "onboard_time": 1709214034,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525520,
+      "num": 525520,
+      "word": "王鹤棣说詹姆斯是GOAT",
+      "onboard_time": 1709434830,
+      "rank": 12,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 524866,
@@ -1513,14 +1537,6 @@
       "onboard_time": 1709393669,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 486092,
-      "num": 486092,
-      "word": "王鹤棣说詹姆斯是GOAT",
-      "onboard_time": 1709434830,
-      "rank": 12,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 485796,
@@ -1859,14 +1875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413814,
-      "num": 413814,
-      "word": "杜华定价10元招聘个人助理",
-      "onboard_time": 1709435369,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 409825,
       "num": 409825,
       "word": "曹璐回应落选浪姐",
@@ -2179,6 +2187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 350216,
+      "num": 350216,
+      "word": "粉笔模考",
+      "onboard_time": 1709435613,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 349450,
       "num": 349450,
       "word": "浪姐",
@@ -2411,14 +2427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 319718,
-      "num": 319718,
-      "word": "李钟硕现身IU演唱会",
-      "onboard_time": 1709435311,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
       "raw_hot": 319582,
       "num": 319582,
       "word": "梅西梅开二度",
@@ -2643,6 +2651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292649,
+      "num": 292649,
+      "word": "向佐说跟爸爸很难做朋友",
+      "onboard_time": 1709432131,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292367,
       "num": 217637,
       "word": "恋爱兄妹",
@@ -2697,14 +2713,6 @@
       "onboard_time": 1709280810,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 278828,
-      "num": 278828,
-      "word": "向佐说跟爸爸很难做朋友",
-      "onboard_time": 1709432131,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 277970,
@@ -3243,6 +3251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215957,
+      "num": 215957,
+      "word": "六公主评周处除三害",
+      "onboard_time": 1709436571,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 215610,
       "num": 215610,
       "word": "阮经天好帅",
@@ -3379,6 +3395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 209813,
+      "num": 209813,
+      "word": "独居女孩真的要注意安全",
+      "onboard_time": 1709433751,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 209383,
       "num": 209383,
       "word": "严浩翔最新机场状态",
@@ -3441,6 +3465,14 @@
       "onboard_time": 1709216978,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206771,
+      "num": 206771,
+      "word": "全红婵陈芋汐301B七个10分",
+      "onboard_time": 1709435850,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 206550,
@@ -3531,14 +3563,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 203618,
-      "num": 203618,
-      "word": "独居女孩真的要注意安全",
-      "onboard_time": 1709433751,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 203534,
       "num": 203534,
       "word": "VG首次进入S组",
@@ -3595,6 +3619,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202379,
+      "num": 202379,
+      "word": "湖人vs掘金",
+      "onboard_time": 1709436331,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201984,
+      "num": 201984,
+      "word": "脸上这几种痘痘并非痤疮",
+      "onboard_time": 1709435850,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 201121,
       "num": 243278,
       "word": "CBA",
@@ -3625,6 +3665,14 @@
       "onboard_time": 1709284112,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199826,
+      "num": 199826,
+      "word": "宋亚轩20岁生日企划",
+      "onboard_time": 1709436092,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 199763,
@@ -4057,14 +4105,6 @@
       "onboard_time": 1709280571,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 181947,
-      "num": 181947,
-      "word": "粉笔模考",
-      "onboard_time": 1709435613,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 181805,
@@ -5227,6 +5267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136625,
+      "num": 136625,
+      "word": "Jennie新歌片段",
+      "onboard_time": 1709436689,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 136491,
       "num": 136491,
       "word": "当你谈了一段无趣的恋爱",
@@ -5289,6 +5337,14 @@
       "onboard_time": 1709378070,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135125,
+      "num": 135125,
+      "word": "养了只早C晚A的猫",
+      "onboard_time": 1709435188,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 134981,
@@ -5427,6 +5483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129341,
+      "num": 129341,
+      "word": "最近你考虑买车吗",
+      "onboard_time": 1709436571,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 128975,
       "num": 128975,
       "word": "爆蛋炒饭",
@@ -5497,14 +5561,6 @@
       "onboard_time": 1709383232,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 127285,
-      "num": 127285,
-      "word": "养了只早C晚A的猫",
-      "onboard_time": 1709435188,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 126702,
@@ -5873,6 +5929,14 @@
       "onboard_time": 1709277212,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115485,
+      "num": 115485,
+      "word": "年轻人不愿进工厂该如何破解",
+      "onboard_time": 1709436629,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115216,
@@ -7075,6 +7139,9 @@
     },
     {
       "word": "#以更大力度推动我国新能源高质量发展#"
+    },
+    {
+      "word": "#中华文明接力棒递到我们这一代手里了#"
     }
   ]
 }
