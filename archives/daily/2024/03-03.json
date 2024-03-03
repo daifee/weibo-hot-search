@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709440447529,
+  "endTime": 1709443037873,
   "band_list": [
     {
       "raw_hot": 2344886,
@@ -75,6 +75,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 969738,
+      "num": 449930,
+      "word": "我大使回应中国或成为第二个日本",
+      "onboard_time": 1709438311,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 968460,
       "num": 968460,
       "word": "张雨绮相亲",
@@ -83,8 +91,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 935410,
-      "num": 935410,
+      "raw_hot": 954570,
+      "num": 954570,
       "word": "欧阳娜娜最初不支持欧阳娣娣参加泰创",
       "onboard_time": 1709437352,
       "rank": 1,
@@ -99,12 +107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 798998,
+      "num": 798998,
+      "word": "徐若晗 导师团全票通过",
+      "onboard_time": 1709439808,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 771786,
       "num": 771786,
       "word": "杜华定价10元招聘个人助理",
       "onboard_time": 1709435369,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 743409,
+      "num": 743409,
+      "word": "接收反诈老陈的单位遭大量举报投诉",
+      "onboard_time": 1709441610,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 741792,
@@ -139,6 +163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 667812,
+      "num": 667812,
+      "word": "羽绒服尽量不要干洗",
+      "onboard_time": 1709437590,
+      "rank": 6,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 666279,
       "num": 666279,
       "word": "郑合惠子谈咖位不匹配",
@@ -163,12 +195,12 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 613253,
-      "num": 613253,
-      "word": "羽绒服尽量不要干洗",
-      "onboard_time": 1709437590,
-      "rank": 6,
-      "category": "科学科普"
+      "raw_hot": 598618,
+      "num": 285449,
+      "word": "爷爷要求我爸出钱给我表弟买房",
+      "onboard_time": 1709441371,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 587295,
@@ -193,14 +225,6 @@
       "onboard_time": 1709366072,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 559137,
-      "num": 449930,
-      "word": "我大使回应中国或成为第二个日本",
-      "onboard_time": 1709438311,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 556127,
@@ -307,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440354,
+      "num": 440354,
+      "word": "光与夜之恋复刻",
+      "onboard_time": 1709440352,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 428244,
       "num": 339111,
       "word": "娟子 怀孕",
@@ -345,6 +377,14 @@
       "onboard_time": 1709427688,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 382570,
+      "num": 382570,
+      "word": "庆余年2什么时候播",
+      "onboard_time": 1709441069,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 372473,
@@ -443,12 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 327788,
-      "num": 327788,
-      "word": "徐若晗 导师团全票通过",
-      "onboard_time": 1709439808,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 329999,
+      "num": 329999,
+      "word": "成毅王权路透",
+      "onboard_time": 1709440230,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 326027,
@@ -473,6 +513,14 @@
       "onboard_time": 1709432190,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 310568,
+      "num": 310568,
+      "word": "张拿铁安慰失恋中的女人",
+      "onboard_time": 1709441371,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 304592,
@@ -537,6 +585,14 @@
       "onboard_time": 1709390675,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269391,
+      "num": 269391,
+      "word": "HPV",
+      "onboard_time": 1709442330,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 264483,
@@ -651,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214561,
+      "num": 214561,
+      "word": "林一周也新剧 今晚掉马",
+      "onboard_time": 1709441851,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209813,
       "num": 209813,
       "word": "独居女孩真的要注意安全",
@@ -673,6 +737,14 @@
       "onboard_time": 1709435850,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205997,
+      "num": 205997,
+      "word": "欧阳娣娣第四",
+      "onboard_time": 1709440771,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 204984,
@@ -771,12 +843,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176325,
-      "num": 176325,
-      "word": "成毅王权路透",
-      "onboard_time": 1709440230,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 173854,
+      "num": 173854,
+      "word": "女子深夜拨110称停电民警秒懂出警",
+      "onboard_time": 1709439091,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171614,
@@ -795,27 +867,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166869,
+      "num": 166869,
+      "word": "火锅味上身可能是你衣服没穿对",
+      "onboard_time": 1709442689,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 166134,
       "num": 166134,
       "word": "简体中文成为Steam最常用语言",
       "onboard_time": 1709437953,
       "rank": 33,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 164209,
-      "num": 164209,
-      "word": "女子深夜拨110称停电民警秒懂出警",
-      "onboard_time": 1709439091,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163442,
-      "num": 163442,
-      "word": "光与夜之恋复刻",
-      "onboard_time": 1709440352,
-      "rank": 34,
       "category": "游戏"
     },
     {
@@ -857,6 +921,14 @@
       "onboard_time": 1709424326,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153465,
+      "num": 153465,
+      "word": "创造营亚洲首次淘汰",
+      "onboard_time": 1709442390,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 153416,
@@ -977,6 +1049,14 @@
       "onboard_time": 1709436689,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 135877,
+      "num": 135877,
+      "word": "咒术回战赢麻了",
+      "onboard_time": 1709441013,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 135125,
@@ -1147,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115620,
+      "num": 115620,
+      "word": "有些人是无意识的供养者心态",
+      "onboard_time": 1709442572,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114477,
       "num": 114477,
       "word": "白头叶猴妈妈紧紧搂着2只金色宝宝",
@@ -1195,12 +1283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106822,
+      "num": 106822,
+      "word": "KPL",
+      "onboard_time": 1709440828,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101119,
       "num": 101119,
       "word": "五美组合将重组",
       "onboard_time": 1709407277,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90211,
+      "num": 90211,
+      "word": "假如玉娆有朋友圈",
+      "onboard_time": 1709442990,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 87683,
