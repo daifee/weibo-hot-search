@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709443037873,
+  "endTime": 1709444050866,
   "band_list": [
     {
       "raw_hot": 2344886,
@@ -43,12 +43,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1215347,
+      "num": 1215347,
+      "word": "接收反诈老陈的单位遭大量举报投诉",
+      "onboard_time": 1709441610,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1059709,
       "num": 755300,
       "word": "53岁妈妈给25岁女儿生了个弟弟",
       "onboard_time": 1709433751,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1021799,
+      "num": 1021799,
+      "word": "我大使回应中国或成为第二个日本",
+      "onboard_time": 1709438311,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1011459,
@@ -73,14 +89,6 @@
       "onboard_time": 1709427206,
       "rank": 12,
       "category": "美食"
-    },
-    {
-      "raw_hot": 969738,
-      "num": 449930,
-      "word": "我大使回应中国或成为第二个日本",
-      "onboard_time": 1709438311,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 968460,
@@ -121,14 +129,6 @@
       "onboard_time": 1709435369,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 743409,
-      "num": 743409,
-      "word": "接收反诈老陈的单位遭大量举报投诉",
-      "onboard_time": 1709441610,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 741792,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445156,
+      "num": 402518,
+      "word": "张拿铁安慰失恋中的女人",
+      "onboard_time": 1709441371,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 440354,
       "num": 440354,
       "word": "光与夜之恋复刻",
@@ -363,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 413857,
+      "num": 413857,
+      "word": "HPV",
+      "onboard_time": 1709442330,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 409306,
       "num": 409306,
       "word": "车市迎来降价潮",
@@ -393,6 +409,14 @@
       "onboard_time": 1709438429,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 371250,
+      "num": 271067,
+      "word": "火锅味上身可能是你衣服没穿对",
+      "onboard_time": 1709442689,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 366322,
@@ -515,14 +539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 310568,
-      "num": 310568,
-      "word": "张拿铁安慰失恋中的女人",
-      "onboard_time": 1709441371,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 304592,
       "num": 304592,
       "word": "陆雨婷第二",
@@ -587,12 +603,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269391,
-      "num": 269391,
-      "word": "HPV",
-      "onboard_time": 1709442330,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 264907,
+      "num": 264907,
+      "word": "钟楚曦侯雯元聚餐",
+      "onboard_time": 1709443110,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 264483,
@@ -659,12 +675,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243563,
+      "num": 243563,
+      "word": "萧逸粉色发圈",
+      "onboard_time": 1709443290,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233565,
       "num": 194905,
       "word": "迪丽热巴与发型师贴贴",
       "onboard_time": 1709390735,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231358,
+      "num": 161447,
+      "word": "假如玉娆有朋友圈",
+      "onboard_time": 1709442990,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 230715,
@@ -699,20 +731,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222639,
+      "num": 222639,
+      "word": "林一周也新剧 今晚掉马",
+      "onboard_time": 1709441851,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218387,
       "num": 218387,
       "word": "女子造谣男同学是强奸犯致其被停学",
       "onboard_time": 1709381193,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 214561,
-      "num": 214561,
-      "word": "林一周也新剧 今晚掉马",
-      "onboard_time": 1709441851,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 209813,
@@ -803,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 190070,
+      "num": 190070,
+      "word": "王鹤棣GAI布瑞吉录制新综艺",
+      "onboard_time": 1709443949,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184493,
       "num": 184493,
       "word": "IU金泰亨MV未公开片段",
@@ -865,14 +905,6 @@
       "onboard_time": 1709427328,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 166869,
-      "num": 166869,
-      "word": "火锅味上身可能是你衣服没穿对",
-      "onboard_time": 1709442689,
-      "rank": 32,
-      "category": "科学科普"
     },
     {
       "raw_hot": 166134,
@@ -1051,6 +1083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 135995,
+      "num": 135995,
+      "word": "有些人是无意识的供养者心态",
+      "onboard_time": 1709442572,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135877,
       "num": 135877,
       "word": "咒术回战赢麻了",
@@ -1227,14 +1267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 115620,
-      "num": 115620,
-      "word": "有些人是无意识的供养者心态",
-      "onboard_time": 1709442572,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 114477,
       "num": 114477,
       "word": "白头叶猴妈妈紧紧搂着2只金色宝宝",
@@ -1291,20 +1323,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103289,
+      "num": 103289,
+      "word": "老板要理解现在的年轻人",
+      "onboard_time": 1709443169,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101119,
       "num": 101119,
       "word": "五美组合将重组",
       "onboard_time": 1709407277,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90211,
-      "num": 90211,
-      "word": "假如玉娆有朋友圈",
-      "onboard_time": 1709442990,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 87683,
@@ -1321,6 +1353,14 @@
       "onboard_time": 1709415735,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 84570,
+      "num": 150308,
+      "word": "这车忒好看忍不住为TA喊个麦",
+      "onboard_time": 1709443290,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 80232,
@@ -1388,7 +1428,7 @@
     },
     {
       "raw_hot": 57513,
-      "num": 761321,
+      "num": 910418,
       "word": "9图了解政协知识点",
       "onboard_time": 1709424084,
       "rank": 2,

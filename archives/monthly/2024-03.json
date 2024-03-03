@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709443037873,
+  "endTime": 1709444050866,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1215347,
+      "num": 1215347,
+      "word": "接收反诈老陈的单位遭大量举报投诉",
+      "onboard_time": 1709441610,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1210756,
       "num": 1210756,
       "word": "接下来两个月是养乳腺的好时机",
@@ -435,6 +443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1021799,
+      "num": 1021799,
+      "word": "我大使回应中国或成为第二个日本",
+      "onboard_time": 1709438311,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1016351,
       "num": 1016351,
       "word": "原神 混池",
@@ -505,14 +521,6 @@
       "onboard_time": 1709427206,
       "rank": 12,
       "category": "美食"
-    },
-    {
-      "raw_hot": 969738,
-      "num": 449930,
-      "word": "我大使回应中国或成为第二个日本",
-      "onboard_time": 1709438311,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 968460,
@@ -745,14 +753,6 @@
       "onboard_time": 1709343688,
       "rank": 11,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 743409,
-      "num": 743409,
-      "word": "接收反诈老陈的单位遭大量举报投诉",
-      "onboard_time": 1709441610,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 741792,
@@ -1787,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445156,
+      "num": 402518,
+      "word": "张拿铁安慰失恋中的女人",
+      "onboard_time": 1709441371,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 440354,
       "num": 440354,
       "word": "光与夜之恋复刻",
@@ -1945,6 +1953,14 @@
       "onboard_time": 1709369492,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413857,
+      "num": 413857,
+      "word": "HPV",
+      "onboard_time": 1709442330,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 409825,
@@ -2169,6 +2185,14 @@
       "onboard_time": 1709294128,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 371250,
+      "num": 271067,
+      "word": "火锅味上身可能是你衣服没穿对",
+      "onboard_time": 1709442689,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 369314,
@@ -2619,14 +2643,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 310568,
-      "num": 310568,
-      "word": "张拿铁安慰失恋中的女人",
-      "onboard_time": 1709441371,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 306322,
       "num": 306322,
       "word": "月入4000女子谈为何不想生",
@@ -2915,14 +2931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 269391,
-      "num": 269391,
-      "word": "HPV",
-      "onboard_time": 1709442330,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 269031,
       "num": 269031,
       "word": "马丽票房女王的格局",
@@ -2993,6 +3001,14 @@
       "onboard_time": 1709362109,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264907,
+      "num": 264907,
+      "word": "钟楚曦侯雯元聚餐",
+      "onboard_time": 1709443110,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 264034,
@@ -3163,6 +3179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243563,
+      "num": 243563,
+      "word": "萧逸粉色发圈",
+      "onboard_time": 1709443290,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 242555,
       "num": 242555,
       "word": "守护甜心 几斗太甜了",
@@ -3259,6 +3283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231358,
+      "num": 161447,
+      "word": "假如玉娆有朋友圈",
+      "onboard_time": 1709442990,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 229693,
       "num": 229693,
       "word": "吃赛百味被价格背刺了",
@@ -3321,6 +3353,14 @@
       "onboard_time": 1709199691,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222639,
+      "num": 222639,
+      "word": "林一周也新剧 今晚掉马",
+      "onboard_time": 1709441851,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 222029,
@@ -3441,14 +3481,6 @@
       "onboard_time": 1709277392,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 214561,
-      "num": 214561,
-      "word": "林一周也新剧 今晚掉马",
-      "onboard_time": 1709441851,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 214436,
@@ -4059,6 +4091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190070,
+      "num": 190070,
+      "word": "王鹤棣GAI布瑞吉录制新综艺",
+      "onboard_time": 1709443949,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189982,
       "num": 189982,
       "word": "谭松韵许凯牵手转圈搂",
@@ -4665,14 +4705,6 @@
       "onboard_time": 1709283932,
       "rank": 37,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 166869,
-      "num": 166869,
-      "word": "火锅味上身可能是你衣服没穿对",
-      "onboard_time": 1709442689,
-      "rank": 32,
-      "category": "科学科普"
     },
     {
       "raw_hot": 166746,
@@ -5515,6 +5547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135995,
+      "num": 135995,
+      "word": "有些人是无意识的供养者心态",
+      "onboard_time": 1709442572,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135877,
       "num": 135877,
       "word": "咒术回战赢麻了",
@@ -6179,14 +6219,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115620,
-      "num": 115620,
-      "word": "有些人是无意识的供养者心态",
-      "onboard_time": 1709442572,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 115216,
       "num": 115216,
       "word": "AG零封RNGM",
@@ -6435,6 +6467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103289,
+      "num": 103289,
+      "word": "老板要理解现在的年轻人",
+      "onboard_time": 1709443169,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103265,
       "num": 129805,
       "word": "五条悟 最佳男配角",
@@ -6627,14 +6667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90211,
-      "num": 90211,
-      "word": "假如玉娆有朋友圈",
-      "onboard_time": 1709442990,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 89766,
       "num": 128750,
       "word": "XYG战队首胜",
@@ -6705,6 +6737,14 @@
       "onboard_time": 1709415735,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 84570,
+      "num": 150308,
+      "word": "这车忒好看忍不住为TA喊个麦",
+      "onboard_time": 1709443290,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 84489,
@@ -6940,7 +6980,7 @@
     },
     {
       "raw_hot": 57513,
-      "num": 761321,
+      "num": 910418,
       "word": "9图了解政协知识点",
       "onboard_time": 1709424084,
       "rank": 2,
