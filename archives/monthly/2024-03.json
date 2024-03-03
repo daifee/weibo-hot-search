@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709465638762,
+  "endTime": 1709468933310,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -144,6 +144,14 @@
       "word": "女子回应怀孕8个月考研获专业第一",
       "onboard_time": 1709257411,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1761302,
+      "num": 1761302,
+      "word": "农夫山泉副总回应捧娃哈哈踩农夫山泉",
+      "onboard_time": 1709465610,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -843,6 +851,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 727391,
+      "num": 311200,
+      "word": "没钱买房租房的英国人开始分手不分房",
+      "onboard_time": 1709466691,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 727024,
       "num": 727024,
       "word": "青海洪水",
@@ -1323,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592104,
+      "num": 310668,
+      "word": "硕士学历二胎宝妈投84份简历面试为0",
+      "onboard_time": 1709463331,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590083,
       "num": 552591,
       "word": "爱情公寓是懂大学生就业的",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1709283033,
       "rank": 7,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 558948,
+      "num": 558948,
+      "word": "周处除三害",
+      "onboard_time": 1709352329,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 556127,
@@ -1736,14 +1768,6 @@
       "word": "医生巧用砒霜挽救血癌女子生命",
       "onboard_time": 1709355992,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 495556,
-      "num": 289869,
-      "word": "硕士学历二胎宝妈投84份简历面试为0",
-      "onboard_time": 1709463331,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2243,6 +2267,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 406320,
+      "num": 406320,
+      "word": "吴艳妮2024首秀8秒12",
+      "onboard_time": 1709467893,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 404806,
       "num": 404806,
       "word": "Jennie机场",
@@ -2417,6 +2449,14 @@
       "onboard_time": 1709251769,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380653,
+      "num": 380653,
+      "word": "方可给迪丽热巴做过的发型",
+      "onboard_time": 1709464350,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 379879,
@@ -2987,20 +3027,20 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 312746,
-      "num": 300509,
-      "word": "方可给迪丽热巴做过的发型",
-      "onboard_time": 1709464350,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 312677,
       "num": 311811,
       "word": "有一种晕叫耳石症",
       "onboard_time": 1709256751,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 311488,
+      "num": 311488,
+      "word": "安全屋",
+      "onboard_time": 1709467590,
+      "rank": 9,
+      "category": "科学科普"
     },
     {
       "raw_hot": 311469,
@@ -3177,6 +3217,14 @@
       "onboard_time": 1709448330,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293409,
+      "num": 293409,
+      "word": "点读机女孩术后进ICU观察",
+      "onboard_time": 1709465912,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 293229,
@@ -3425,6 +3473,14 @@
       "onboard_time": 1709364331,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 265809,
+      "num": 265809,
+      "word": "刘美含橘粉渐变发色",
+      "onboard_time": 1709465072,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 265804,
@@ -3699,14 +3755,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 242294,
-      "num": 242294,
-      "word": "周处除三害",
-      "onboard_time": 1709352329,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 240814,
       "num": 240814,
       "word": "陆沉半梦半醒",
@@ -3785,14 +3833,6 @@
       "onboard_time": 1709450610,
       "rank": 21,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 234965,
-      "num": 234965,
-      "word": "刘美含橘粉渐变发色",
-      "onboard_time": 1709465072,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 234920,
@@ -3905,6 +3945,14 @@
       "onboard_time": 1709304394,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 220924,
+      "num": 220924,
+      "word": "杨超越巴黎时装周穿搭",
+      "onboard_time": 1709465850,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 220716,
@@ -4153,6 +4201,14 @@
       "onboard_time": 1709388995,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 209022,
+      "num": 209022,
+      "word": "钟睒睒否认第一桶金来自娃哈哈",
+      "onboard_time": 1709468490,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208985,
@@ -4457,6 +4513,14 @@
       "onboard_time": 1709451931,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199859,
+      "num": 199859,
+      "word": "吴镇宇手动闭麦",
+      "onboard_time": 1709467351,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 199826,
@@ -5155,6 +5219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177167,
+      "num": 177167,
+      "word": "方可留下吧",
+      "onboard_time": 1709458046,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176692,
       "num": 176692,
       "word": "郑恺你管这叫随便吃点",
@@ -5219,6 +5291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174190,
+      "num": 174190,
+      "word": "夏之光 谢谢施主",
+      "onboard_time": 1709468131,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174164,
       "num": 174164,
       "word": "魔卡少女樱 狼樱HE",
@@ -5241,14 +5321,6 @@
       "onboard_time": 1709369614,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173127,
-      "num": 173127,
-      "word": "方可留下吧",
-      "onboard_time": 1709458046,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 173094,
@@ -5345,6 +5417,14 @@
       "onboard_time": 1709286572,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168709,
+      "num": 168709,
+      "word": "117名中学教师考出救护员证",
+      "onboard_time": 1709468249,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 168652,
@@ -5505,6 +5585,14 @@
       "onboard_time": 1709301814,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164232,
+      "num": 164232,
+      "word": "二十岁后人生就像按了快进键",
+      "onboard_time": 1709468373,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 164211,
@@ -6115,6 +6203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143648,
+      "num": 143648,
+      "word": "kenken编舞",
+      "onboard_time": 1709467770,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 143442,
       "num": 143442,
       "word": "原来当年我在早读课这么滑稽",
@@ -6257,6 +6353,14 @@
       "onboard_time": 1709288434,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139341,
+      "num": 139341,
+      "word": "马思纯心疼双鱼座的理由",
+      "onboard_time": 1709467291,
+      "rank": 37,
+      "category": "作品衍生,情感"
     },
     {
       "raw_hot": 139138,
@@ -6923,6 +7027,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 121710,
+      "num": 121710,
+      "word": "南区全明星vs北区全明星",
+      "onboard_time": 1709465491,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121675,
       "num": 121675,
       "word": "糙汉阮经天",
@@ -7035,14 +7147,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 119029,
-      "num": 119029,
-      "word": "农夫山泉副总回应捧娃哈哈踩农夫山泉",
-      "onboard_time": 1709465610,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118721,
       "num": 118721,
       "word": "原神",
@@ -7065,6 +7169,14 @@
       "onboard_time": 1709273072,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118086,
+      "num": 118086,
+      "word": "成毅白发造型",
+      "onboard_time": 1709468912,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 117607,
@@ -7259,14 +7371,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 113341,
-      "num": 112857,
-      "word": "南区全明星vs北区全明星",
-      "onboard_time": 1709465491,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113038,
       "num": 113038,
       "word": "eStar掉落B组",
@@ -7289,6 +7393,14 @@
       "onboard_time": 1709362470,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112566,
+      "num": 112566,
+      "word": "头一次见过这么离谱的化妆手法",
+      "onboard_time": 1709468729,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 112076,
@@ -7353,6 +7465,14 @@
       "onboard_time": 1709444130,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109301,
+      "num": 109301,
+      "word": "和朋友旅行闹掰了",
+      "onboard_time": 1709468790,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 109229,
@@ -7507,6 +7627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102265,
+      "num": 102265,
+      "word": "第五人格",
+      "onboard_time": 1709466872,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102193,
       "num": 102193,
       "word": "家长吐槽社会实践作业毫无意义",
@@ -7585,6 +7713,14 @@
       "onboard_time": 1709306071,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96003,
+      "num": 96003,
+      "word": "AL战胜NIP",
+      "onboard_time": 1709467770,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 94866,
