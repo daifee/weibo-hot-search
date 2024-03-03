@@ -1,0 +1,410 @@
+{
+  "runTime": 1709507794456,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 679880,
+        "num": 679880,
+        "word": "00后新警认出嫌疑人后嘴角上扬",
+        "onboard_time": 1709485523,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546081,
+        "num": 546081,
+        "word": "亚洲首富之子减肥108公斤后又胖回来了",
+        "onboard_time": 1709472814,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28317,
+        "num": 430962,
+        "word": "两会你我他",
+        "onboard_time": 1709475632,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 423335,
+        "num": 423335,
+        "word": "姜爷爷宋爷爷哭成泪人",
+        "onboard_time": 1709475632,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331080,
+        "num": 331080,
+        "word": "向佐曾闭关练功七年不看手机",
+        "onboard_time": 1709476891,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273332,
+        "num": 273332,
+        "word": "十年前种下的种子真的能开出花",
+        "onboard_time": 1709481869,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181088,
+        "num": 181088,
+        "word": "怀疑对方AI换脸可以让对方摁鼻子",
+        "onboard_time": 1709481571,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 177131,
+        "num": 177131,
+        "word": "当年爱情公寓第二季的官方设定",
+        "onboard_time": 1709477616,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115103,
+        "num": 115103,
+        "word": "台湾海巡艇被目击与大陆海警船并行",
+        "onboard_time": 1709472092,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103196,
+        "num": 103196,
+        "word": "顾寻 我是校草",
+        "onboard_time": 1709486241,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 467760,
+        "num": 102623,
+        "word": "西班牙女演员在印度遭7人施暴",
+        "onboard_time": 1709479231,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324833,
+        "num": 102143,
+        "word": "睡得好要看这4个指标",
+        "onboard_time": 1709501174,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 289453,
+        "num": 101406,
+        "word": "硕士学历二胎宝妈投84份简历面试为0",
+        "onboard_time": 1709463331,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96473,
+        "num": 96473,
+        "word": "怪不得没见过云南籍清冷学霸",
+        "onboard_time": 1709479173,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277257,
+        "num": 93891,
+        "word": "王楚钦橱窗",
+        "onboard_time": 1709476116,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207767,
+        "num": 90110,
+        "word": "秦昊帮伊能静拿到了霉霉演唱会门票",
+        "onboard_time": 1709497995,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108176,
+        "num": 87573,
+        "word": "DYG教练 跑路",
+        "onboard_time": 1709474492,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104947,
+        "num": 83796,
+        "word": "女子买茅台验真伪被死亡威胁",
+        "onboard_time": 1709451450,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82056,
+        "num": 82056,
+        "word": "唐探2 那可是杨谨华诶",
+        "onboard_time": 1709477252,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74551,
+        "num": 74551,
+        "word": "孙千和PP合照",
+        "onboard_time": 1709479231,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 337043,
+        "num": 73329,
+        "word": "经常午睡比从来不午睡更健康吗",
+        "onboard_time": 1709478456,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192218,
+        "num": 73067,
+        "word": "刘耀文卡点发博给宋亚轩庆生",
+        "onboard_time": 1709507300,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143604,
+        "num": 72873,
+        "word": "包包被外国友人扔出地铁全车人欢呼",
+        "onboard_time": 1709473291,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71960,
+        "num": 71960,
+        "word": "发现耳朵边上有个小孔",
+        "onboard_time": 1709472692,
+        "rank": 23,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 65886,
+        "num": 65886,
+        "word": "南京鸡鸣寺的樱花消息树开了",
+        "onboard_time": 1709479051,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 61538,
+        "num": 61538,
+        "word": "曼城vs曼联",
+        "onboard_time": 1709480430,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58229,
+        "num": 58229,
+        "word": "曼城3比1曼联",
+        "onboard_time": 1709507665,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57337,
+        "num": 57337,
+        "word": "王鹤棣出发录桃花坞4",
+        "onboard_time": 1709472211,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56564,
+        "num": 56564,
+        "word": "台湾著名的回春汤",
+        "onboard_time": 1709475632,
+        "rank": 28,
+        "category": "美食,健康医疗"
+      },
+      {
+        "raw_hot": 48154,
+        "num": 55778,
+        "word": "航拍广西海底第一眼以为是龙鳞",
+        "onboard_time": 1709497935,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55200,
+        "num": 55200,
+        "word": "尹子维新片尺度",
+        "onboard_time": 1709475812,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51745,
+        "num": 51745,
+        "word": "吴艳妮2024首秀8秒12",
+        "onboard_time": 1709467893,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50794,
+        "num": 50794,
+        "word": "多少好友用过HIV预防阻断2小时达",
+        "onboard_time": 1709450432,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 49629,
+        "num": 49629,
+        "word": "陈卓璇的古装",
+        "onboard_time": 1709491218,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48495,
+        "num": 48495,
+        "word": "当地产大亨的土耳其外公有了中国小外孙",
+        "onboard_time": 1709496075,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47591,
+        "num": 47591,
+        "word": "周处除三害",
+        "onboard_time": 1709467650,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44733,
+        "num": 44733,
+        "word": "成毅白发造型",
+        "onboard_time": 1709468912,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42951,
+        "num": 42951,
+        "word": "福登世界波",
+        "onboard_time": 1709507543,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42876,
+        "num": 42876,
+        "word": "提笔忘字开口忘词其实是一种脑病",
+        "onboard_time": 1709499736,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41545,
+        "num": 41545,
+        "word": "代表建议将个税起征点提至1万元",
+        "onboard_time": 1709495956,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38022,
+        "num": 38022,
+        "word": "和不内耗的朋友出去玩",
+        "onboard_time": 1709475333,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34877,
+        "num": 34877,
+        "word": "阮经天40岁状态",
+        "onboard_time": 1709459012,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34405,
+        "num": 34405,
+        "word": "周也嘴巴哭成typec",
+        "onboard_time": 1709462976,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33751,
+        "num": 33751,
+        "word": "这一抱硬控我10秒",
+        "onboard_time": 1709476596,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32388,
+        "num": 33750,
+        "word": "汤唯去看了IU演唱会",
+        "onboard_time": 1709474794,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31673,
+        "num": 33698,
+        "word": "女儿第一次来例假妈妈哭了",
+        "onboard_time": 1709459789,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31062,
+        "num": 33686,
+        "word": "蔡依林酷飒羽毛裙",
+        "onboard_time": 1709476172,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 30720,
+        "num": 33645,
+        "word": "当上菜的速度赶不上吃饭的速度时",
+        "onboard_time": 1709494996,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27084,
+        "num": 33592,
+        "word": "有一种叫云南的生活",
+        "onboard_time": 1709502134,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 26991,
+        "num": 33567,
+        "word": "绿色穿搭真的让人眼前一亮",
+        "onboard_time": 1709473472,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#悠悠万事民生为大#"
+    }
+  }
+}
