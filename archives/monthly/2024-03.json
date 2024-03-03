@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709504125357,
+  "endTime": 1709505234636,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -7827,6 +7827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116522,
+      "num": 52568,
+      "word": "睡得好要看这4个指标",
+      "onboard_time": 1709501174,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116373,
       "num": 116373,
       "word": "老一辈和当代年轻人社会性是倒置的",
@@ -8169,6 +8177,14 @@
       "onboard_time": 1709307571,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104059,
+      "num": 50531,
+      "word": "秦昊帮伊能静拿到了霉霉演唱会门票",
+      "onboard_time": 1709497995,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 103804,
@@ -8539,14 +8555,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 79038,
-      "num": 43812,
-      "word": "秦昊帮伊能静拿到了霉霉演唱会门票",
-      "onboard_time": 1709497995,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 78955,
       "num": 454330,
       "word": "中国空间站与新华社新闻大楼同框",
@@ -8745,14 +8753,6 @@
       "onboard_time": 1709283513,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59351,
-      "num": 43215,
-      "word": "睡得好要看这4个指标",
-      "onboard_time": 1709501174,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 59188,
@@ -9091,6 +9091,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 25539,
+      "num": 25539,
+      "word": "提笔忘字开口忘词其实是一种脑病",
+      "onboard_time": 1709499736,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 25443,
       "num": 31338,
       "word": "造型指导解读赵丽颖第二十条妆造",
@@ -9121,6 +9129,22 @@
       "onboard_time": 1709279552,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 23091,
+      "num": 23091,
+      "word": "当地产大亨的土耳其外公有了中国小外孙",
+      "onboard_time": 1709496075,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 22196,
+      "num": 25811,
+      "word": "航拍广西海底第一眼以为是龙鳞",
+      "onboard_time": 1709497935,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21985,
@@ -9163,20 +9187,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19033,
-      "num": 17941,
-      "word": "当地产大亨的土耳其外公有了中国小外孙",
-      "onboard_time": 1709496075,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 18521,
       "num": 18521,
       "word": "孙千回应麦姬判官",
       "onboard_time": 1709234057,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 18074,
+      "num": 18074,
+      "word": "代表建议将个税起征点提至1万元",
+      "onboard_time": 1709495956,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18066,
@@ -9187,28 +9211,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 17942,
-      "num": 17942,
-      "word": "航拍广西海底第一眼以为是龙鳞",
-      "onboard_time": 1709497935,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17273,
       "num": 17273,
       "word": "苏新皓手势舞",
       "onboard_time": 1709232676,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17093,
-      "num": 17093,
-      "word": "提笔忘字开口忘词其实是一种脑病",
-      "onboard_time": 1709499736,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 16433,
@@ -9227,12 +9235,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15807,
-      "num": 14296,
-      "word": "代表建议将个税起征点提至1万元",
-      "onboard_time": 1709495956,
-      "rank": 32,
-      "category": "国内时政"
+      "raw_hot": 16182,
+      "num": 17498,
+      "word": "当上菜的速度赶不上吃饭的速度时",
+      "onboard_time": 1709494996,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 15597,
@@ -9259,12 +9267,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13307,
-      "num": 14159,
-      "word": "当上菜的速度赶不上吃饭的速度时",
-      "onboard_time": 1709494996,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 13474,
+      "num": 17298,
+      "word": "有一种叫云南的生活",
+      "onboard_time": 1709502134,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 13146,
@@ -9289,14 +9297,6 @@
       "onboard_time": 1709246180,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11780,
-      "num": 14145,
-      "word": "有一种叫云南的生活",
-      "onboard_time": 1709502134,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 11540,
