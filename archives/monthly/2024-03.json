@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709490908005,
+  "endTime": 1709493173077,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -8987,6 +8987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 35109,
+      "num": 27161,
+      "word": "陈卓璇的古装",
+      "onboard_time": 1709491218,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34322,
       "num": 27425,
       "word": "港星李焯宁44岁状态",
@@ -9145,6 +9153,14 @@
       "onboard_time": 1709234057,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 18066,
+      "num": 18066,
+      "word": "沈星回 你教教我",
+      "onboard_time": 1709491218,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 17273,
