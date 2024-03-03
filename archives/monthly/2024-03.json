@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709422438941,
+  "endTime": 1709428474511,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -219,6 +219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1525158,
+      "num": 1525158,
+      "word": "董明珠再建议将个税起征点提高至1万元",
+      "onboard_time": 1709424024,
+      "rank": 0,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1487774,
       "num": 1487774,
       "word": "前女团成员解散后在工厂做女工",
@@ -425,6 +433,14 @@
       "onboard_time": 1709297971,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 999169,
+      "num": 999169,
+      "word": "戚薇疑似救场浪姐",
+      "onboard_time": 1709425587,
+      "rank": 1,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 990522,
@@ -971,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608576,
+      "num": 608576,
+      "word": "新确认一位慰安妇制度受害幸存者",
+      "onboard_time": 1709425887,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608108,
       "num": 608108,
       "word": "海底捞试点螺蛳粉火锅",
@@ -1195,6 +1219,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 531042,
+      "num": 531042,
+      "word": "偶遇侯雯元给钟楚曦打视频",
+      "onboard_time": 1709426007,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 530885,
       "num": 530885,
       "word": "女子自述遭遇职场霸凌办公桌贴满钟馗",
@@ -1273,6 +1305,14 @@
       "onboard_time": 1709373751,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 516318,
+      "num": 516318,
+      "word": "陈思诚公司泰国团建",
+      "onboard_time": 1709424805,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 512352,
@@ -1409,6 +1449,14 @@
       "onboard_time": 1709279913,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 470341,
+      "num": 287431,
+      "word": "耳朵里出现结痂该怎么办",
+      "onboard_time": 1709424144,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 469642,
@@ -1827,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380152,
+      "num": 282592,
+      "word": "为什么面包店宁可扔掉也不打折",
+      "onboard_time": 1709427206,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 379879,
       "num": 379879,
       "word": "赵今麦系带粉裙",
@@ -1881,6 +1937,14 @@
       "onboard_time": 1709289632,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 373387,
+      "num": 373387,
+      "word": "车市迎来降价潮",
+      "onboard_time": 1709424262,
+      "rank": 6,
+      "category": "汽车"
     },
     {
       "raw_hot": 371560,
@@ -2155,6 +2219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 326027,
+      "num": 326027,
+      "word": "王锵回怼导师",
+      "onboard_time": 1709422882,
+      "rank": 7,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 321416,
       "num": 321416,
       "word": "特斯拉3个月降价3次",
@@ -2193,6 +2265,14 @@
       "onboard_time": 1709380355,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 318219,
+      "num": 318219,
+      "word": "梅西梅开二度",
+      "onboard_time": 1709424805,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 316439,
@@ -2321,6 +2401,14 @@
       "onboard_time": 1709254174,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 295828,
+      "num": 295828,
+      "word": "王一博机场",
+      "onboard_time": 1709423242,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 295621,
@@ -2635,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258805,
+      "num": 205888,
+      "word": "二十多岁选择人生 恐怖",
+      "onboard_time": 1709427450,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255931,
       "num": 208766,
       "word": "周星驰将为新片女足海选素人",
@@ -2657,6 +2753,14 @@
       "onboard_time": 1709282913,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 253668,
+      "num": 205834,
+      "word": "父母谈恋爱被女儿撞见瞬间害羞",
+      "onboard_time": 1709424565,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251848,
@@ -2827,6 +2931,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 227504,
+      "num": 227504,
+      "word": "王鹤棣一张机场照被4个cp嗑",
+      "onboard_time": 1709427809,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227488,
       "num": 227488,
       "word": "王一博巴黎时装周去看两场秀",
@@ -2873,6 +2985,14 @@
       "onboard_time": 1709304394,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 220950,
+      "num": 220950,
+      "word": "詹姆斯40000分倒计时",
+      "onboard_time": 1709427688,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 220716,
@@ -3100,7 +3220,7 @@
     },
     {
       "raw_hot": 208611,
-      "num": 136605,
+      "num": 175027,
       "word": "全红婵陈芋汐世界杯五连冠",
       "onboard_time": 1709420780,
       "rank": 30,
@@ -3387,6 +3507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197541,
+      "num": 197541,
+      "word": "经常用耳机的3个60原则",
+      "onboard_time": 1709428169,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 197117,
       "num": 197117,
       "word": "希望你结婚的唯一原因是你想",
@@ -3611,6 +3739,14 @@
       "category": "演出,艺人"
     },
     {
+      "raw_hot": 185975,
+      "num": 185975,
+      "word": "两会",
+      "onboard_time": 1709428225,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 185327,
       "num": 185327,
       "word": "当成年人突然下定决心要改变生活",
@@ -3827,6 +3963,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 179217,
+      "num": 179217,
+      "word": "陈丽君 豌豆射手",
+      "onboard_time": 1709425165,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178531,
       "num": 178531,
       "word": "RNG六连败",
@@ -4033,6 +4177,14 @@
       "onboard_time": 1709371891,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168353,
+      "num": 168353,
+      "word": "周处除三害 删减",
+      "onboard_time": 1709427328,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 168232,
@@ -4323,6 +4475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 157684,
+      "num": 157684,
+      "word": "身高体重填反了",
+      "onboard_time": 1709421379,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157678,
       "num": 190722,
       "word": "建议减轻中小学教师行政压力",
@@ -4563,6 +4723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146243,
+      "num": 146243,
+      "word": "负责人称不排除关闭快递代收点",
+      "onboard_time": 1709427987,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145701,
       "num": 201094,
       "word": "497名在缅跨境电诈嫌犯移交我方",
@@ -4593,6 +4761,14 @@
       "onboard_time": 1709278890,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144031,
+      "num": 144031,
+      "word": "Ning质疑霸哥开挂",
+      "onboard_time": 1709424326,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 143442,
@@ -4697,6 +4873,14 @@
       "onboard_time": 1709382575,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139929,
+      "num": 139929,
+      "word": "陶喆演唱会",
+      "onboard_time": 1709428048,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 139908,
@@ -4940,7 +5124,7 @@
     },
     {
       "raw_hot": 130011,
-      "num": 78875,
+      "num": 122119,
       "word": "喝过的饮料放1天还能喝吗",
       "onboard_time": 1709420539,
       "rank": 24,
@@ -5131,6 +5315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122234,
+      "num": 122234,
+      "word": "清明上河园小乞丐反被游客要吃的",
+      "onboard_time": 1709399425,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121878,
       "num": 121878,
       "word": "全红婵陈芋汐携手出战",
@@ -5177,14 +5369,6 @@
       "onboard_time": 1709302294,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 120504,
-      "num": 77124,
-      "word": "身高体重填反了",
-      "onboard_time": 1709421379,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 120430,
@@ -5315,6 +5499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116863,
+      "num": 116863,
+      "word": "狗狗为人类幼崽盖被子",
+      "onboard_time": 1709427206,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116810,
       "num": 116810,
       "word": "暗恋是一个人的地动山摇",
@@ -5435,6 +5627,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 113306,
+      "num": 113306,
+      "word": "两个犟种好强的一生",
+      "onboard_time": 1709425046,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 113038,
+      "num": 113038,
+      "word": "eStar掉落B组",
+      "onboard_time": 1709427149,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112918,
       "num": 95589,
       "word": "戚薇不去浪姐",
@@ -5489,6 +5697,14 @@
       "onboard_time": 1709350231,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109671,
+      "num": 109671,
+      "word": "当金毛听说猫妈妈生下小宝宝以后",
+      "onboard_time": 1709428289,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 109229,
@@ -5857,14 +6073,6 @@
       "onboard_time": 1709221233,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82401,
-      "num": 82401,
-      "word": "清明上河园小乞丐反被游客要吃的",
-      "onboard_time": 1709399425,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80232,
