@@ -1,0 +1,410 @@
+{
+  "runTime": 1709454130474,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1449791,
+        "num": 1449791,
+        "word": "何炅在北外任教时的照片",
+        "onboard_time": 1709448090,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1589997,
+        "num": 1400963,
+        "word": "多少好友用过HIV预防阻断2小时达",
+        "onboard_time": 1709450432,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 7882,
+        "num": 1223021,
+        "word": "9图了解政协知识点",
+        "onboard_time": 1709424084,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1110621,
+        "num": 1110621,
+        "word": "张致恒晒收款码求捐款",
+        "onboard_time": 1709449589,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1099698,
+        "num": 1099698,
+        "word": "女子买茅台验真伪被死亡威胁",
+        "onboard_time": 1709451450,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605462,
+        "num": 605462,
+        "word": "拿行李的手 是不太好拿花的",
+        "onboard_time": 1709447729,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 424958,
+        "num": 424958,
+        "word": "年年体检正常为何突然查出癌症",
+        "onboard_time": 1709446410,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 382457,
+        "num": 382457,
+        "word": "KSG赛中语音",
+        "onboard_time": 1709452650,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 364142,
+        "num": 364142,
+        "word": "接收反诈老陈的单位遭大量举报投诉",
+        "onboard_time": 1709441610,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357167,
+        "num": 357167,
+        "word": "53岁妈妈给25岁女儿生了个弟弟",
+        "onboard_time": 1709433751,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362621,
+        "num": 356250,
+        "word": "我大使回应中国或成为第二个日本",
+        "onboard_time": 1709438311,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 354014,
+        "num": 354014,
+        "word": "全国各省艾梅淋发病率",
+        "onboard_time": 1709448930,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 345526,
+        "num": 345526,
+        "word": "快递员称30分钟送完的货现在12小时",
+        "onboard_time": 1709434172,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319909,
+        "num": 319909,
+        "word": "站姐拍的魏大勋",
+        "onboard_time": 1709447789,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 319013,
+        "num": 319013,
+        "word": "全国政协十四届二次会议发布会",
+        "onboard_time": 1709450610,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 301484,
+        "num": 301484,
+        "word": "沈梦辰巴黎走秀",
+        "onboard_time": 1709449169,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 277733,
+        "num": 277733,
+        "word": "一个人的失恋三个人的崩溃",
+        "onboard_time": 1709452228,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271603,
+        "num": 271603,
+        "word": "羽绒服尽量不要干洗",
+        "onboard_time": 1709437590,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 266996,
+        "num": 266996,
+        "word": "IU和NewJeans舞蹈联动",
+        "onboard_time": 1709453071,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 251766,
+        "num": 251766,
+        "word": "桃酷抱抱",
+        "onboard_time": 1709452172,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 350351,
+        "num": 246223,
+        "word": "反季羽绒服是不是智商税",
+        "onboard_time": 1709453009,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 305722,
+        "num": 243080,
+        "word": "一人上班老板给全家发工资",
+        "onboard_time": 1709452890,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290975,
+        "num": 242607,
+        "word": "棉签掏耳朵或会产生更严重问题",
+        "onboard_time": 1709451450,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 239023,
+        "num": 239023,
+        "word": "王一博抵达巴黎机场",
+        "onboard_time": 1709453971,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229712,
+        "num": 229712,
+        "word": "王栎鑫为晕倒观众组织让道",
+        "onboard_time": 1709448510,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 227046,
+        "num": 227046,
+        "word": "房东的猫刘恋第三次合作",
+        "onboard_time": 1709447249,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217558,
+        "num": 217558,
+        "word": "化妆真是太牛了",
+        "onboard_time": 1709450610,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 217437,
+        "num": 217437,
+        "word": "女子称喝酸奶喝出整袋清水",
+        "onboard_time": 1709452290,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25758,
+        "num": 214770,
+        "word": "脑洞大开的服装设计",
+        "onboard_time": 1709450852,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 161434,
+        "num": 214531,
+        "word": "樊振东孙颖莎将出席抽签仪式",
+        "onboard_time": 1709452890,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214431,
+        "num": 214431,
+        "word": "桃花坞嘉宾",
+        "onboard_time": 1709444550,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31135,
+        "num": 212157,
+        "word": "京东给艺术团舞者送护肤品",
+        "onboard_time": 1709453248,
+        "rank": 31,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 212020,
+        "num": 212020,
+        "word": "何老师擦脸vs谭松韵擦脸",
+        "onboard_time": 1709448330,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199178,
+        "num": 199178,
+        "word": "姜宝代替福宝和大家说了谢谢",
+        "onboard_time": 1709453489,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181527,
+        "num": 181527,
+        "word": "减肥的尽头是养生",
+        "onboard_time": 1709452290,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 173975,
+        "num": 173975,
+        "word": "无限超越班 演技错题集",
+        "onboard_time": 1709453851,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169646,
+        "num": 169646,
+        "word": "海王蛋糕",
+        "onboard_time": 1709451931,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169541,
+        "num": 169541,
+        "word": "六公主评周处除三害",
+        "onboard_time": 1709436571,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152661,
+        "num": 152661,
+        "word": "陈哲远大侦探路透",
+        "onboard_time": 1709447249,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147057,
+        "num": 147057,
+        "word": "火锅味上身可能是你衣服没穿对",
+        "onboard_time": 1709442689,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 143207,
+        "num": 143207,
+        "word": "Hero俯冲B组",
+        "onboard_time": 1709449829,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133451,
+        "num": 133451,
+        "word": "韩国民众早晨6点排队送别福宝",
+        "onboard_time": 1709447910,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129369,
+        "num": 129369,
+        "word": "小玖孙尚香四杀",
+        "onboard_time": 1709452950,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129089,
+        "num": 129089,
+        "word": "河北00后小伙健身6年练成完美身材",
+        "onboard_time": 1709453489,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 128650,
+        "num": 128650,
+        "word": "爷爷要求我爸出钱给我表弟买房",
+        "onboard_time": 1709441371,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128231,
+        "num": 128231,
+        "word": "猴哥 人间理想",
+        "onboard_time": 1709451213,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128201,
+        "num": 128201,
+        "word": "李钟硕现身IU演唱会",
+        "onboard_time": 1709435311,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122931,
+        "num": 122931,
+        "word": "徐若晗 导师团全票通过",
+        "onboard_time": 1709439808,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119659,
+        "num": 119659,
+        "word": "部分女性及其父母认为彩礼不是卖价钱而是换尊重",
+        "onboard_time": 1709453908,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118616,
+        "num": 118616,
+        "word": "庆余年2什么时候播",
+        "onboard_time": 1709441069,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华文明接力棒递到我们这一代手里了#"
+    }
+  }
+}
