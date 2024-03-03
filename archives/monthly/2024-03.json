@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709464386654,
+  "endTime": 1709465638762,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -651,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 854341,
+      "num": 854341,
+      "word": "日媒曝国乒教练可能调整",
+      "onboard_time": 1709463511,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 839920,
       "num": 839920,
       "word": "郑合惠子谈咖位不匹配",
@@ -913,6 +921,14 @@
       "onboard_time": 1709460090,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 708103,
+      "num": 708103,
+      "word": "周也嘴巴哭成typec",
+      "onboard_time": 1709462976,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 699432,
@@ -1403,14 +1419,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 573516,
-      "num": 573516,
-      "word": "周也嘴巴哭成typec",
-      "onboard_time": 1709462976,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 566481,
       "num": 566481,
       "word": "戚薇去浪姐了",
@@ -1569,14 +1577,6 @@
       "onboard_time": 1709283875,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 529616,
-      "num": 529616,
-      "word": "日媒曝国乒教练可能调整",
-      "onboard_time": 1709463511,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 526821,
@@ -1739,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495556,
+      "num": 289869,
+      "word": "硕士学历二胎宝妈投84份简历面试为0",
+      "onboard_time": 1709463331,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495552,
       "num": 495552,
       "word": "IU演唱会",
@@ -1803,6 +1811,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 482319,
+      "num": 482319,
+      "word": "巴黎世家大秀",
+      "onboard_time": 1709463210,
+      "rank": 14,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 482110,
       "num": 482110,
       "word": "郭麒麟胖了",
@@ -1849,6 +1865,14 @@
       "onboard_time": 1709295272,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 468189,
+      "num": 468189,
+      "word": "小沈阳发文为老婆庆生",
+      "onboard_time": 1709462432,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 465908,
@@ -1921,14 +1945,6 @@
       "onboard_time": 1709348731,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 457050,
-      "num": 379352,
-      "word": "小沈阳发文为老婆庆生",
-      "onboard_time": 1709462432,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 456247,
@@ -2099,14 +2115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 427663,
-      "num": 376110,
-      "word": "巴黎世家大秀",
-      "onboard_time": 1709463210,
-      "rank": 14,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 426965,
       "num": 272790,
       "word": "建议大家不要成天说想死",
@@ -2265,14 +2273,6 @@
       "onboard_time": 1709339368,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 403814,
-      "num": 207290,
-      "word": "硕士学历二胎宝妈投84份简历面试为0",
-      "onboard_time": 1709463331,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 403213,
@@ -2987,6 +2987,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 312746,
+      "num": 300509,
+      "word": "方可给迪丽热巴做过的发型",
+      "onboard_time": 1709464350,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 312677,
       "num": 311811,
       "word": "有一种晕叫耳石症",
@@ -3611,6 +3619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245947,
+      "num": 211756,
+      "word": "怀孕时收到了妹妹的小作文",
+      "onboard_time": 1709462132,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 245791,
       "num": 245791,
       "word": "411工程竣工",
@@ -3649,6 +3665,14 @@
       "onboard_time": 1709340870,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 243970,
+      "num": 243970,
+      "word": "光与夜之恋",
+      "onboard_time": 1709463987,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 243639,
@@ -3761,6 +3785,14 @@
       "onboard_time": 1709450610,
       "rank": 21,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 234965,
+      "num": 234965,
+      "word": "刘美含橘粉渐变发色",
+      "onboard_time": 1709465072,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 234920,
@@ -4131,6 +4163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208847,
+      "num": 208847,
+      "word": "TXT官宣回归",
+      "onboard_time": 1709465250,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 208611,
       "num": 175027,
       "word": "全红婵陈芋汐世界杯五连冠",
@@ -4161,14 +4201,6 @@
       "onboard_time": 1709214218,
       "rank": 19,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 207290,
-      "num": 207289,
-      "word": "光与夜之恋",
-      "onboard_time": 1709463987,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 206855,
@@ -4497,14 +4529,6 @@
       "onboard_time": 1709455707,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 198174,
-      "num": 198174,
-      "word": "方可给迪丽热巴做过的发型",
-      "onboard_time": 1709464350,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 197920,
@@ -5363,14 +5387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168101,
-      "num": 168101,
-      "word": "怀孕时收到了妹妹的小作文",
-      "onboard_time": 1709462132,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 167893,
       "num": 167893,
       "word": "檀健次张婧仪玩你画我猜",
@@ -5456,6 +5472,14 @@
       "word": "卓沅 十个勤天卖菜啦",
       "onboard_time": 1709293353,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164913,
+      "num": 164913,
+      "word": "赵奕欢浪姐出妆路透",
+      "onboard_time": 1709465551,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -5931,6 +5955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148985,
+      "num": 148985,
+      "word": "重庆豆腐脑从不参与咸甜之争",
+      "onboard_time": 1709461775,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 148798,
       "num": 148798,
       "word": "杨幂巴黎撑伞",
@@ -6305,6 +6337,14 @@
       "onboard_time": 1709249545,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 136685,
+      "num": 136685,
+      "word": "人的眼皮为什么会跳",
+      "onboard_time": 1709463631,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 136625,
@@ -6699,14 +6739,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 127640,
-      "num": 127640,
-      "word": "人的眼皮为什么会跳",
-      "onboard_time": 1709463631,
-      "rank": 45,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 127580,
       "num": 125864,
       "word": "阮经天好懂",
@@ -6841,14 +6873,6 @@
       "onboard_time": 1709399425,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122074,
-      "num": 122074,
-      "word": "重庆豆腐脑从不参与咸甜之争",
-      "onboard_time": 1709461775,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 122053,
@@ -7009,6 +7033,14 @@
       "onboard_time": 1709377050,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 119029,
+      "num": 119029,
+      "word": "农夫山泉副总回应捧娃哈哈踩农夫山泉",
+      "onboard_time": 1709465610,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118721,
@@ -7225,6 +7257,14 @@
       "onboard_time": 1709273912,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 113341,
+      "num": 112857,
+      "word": "南区全明星vs北区全明星",
+      "onboard_time": 1709465491,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 113038,
@@ -7545,6 +7585,14 @@
       "onboard_time": 1709306071,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94866,
+      "num": 292482,
+      "word": "鸿星尔克做国民的运动品牌",
+      "onboard_time": 1709464713,
+      "rank": 19,
+      "category": "运动健身"
     },
     {
       "raw_hot": 94629,
@@ -7971,7 +8019,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 54915,
+      "raw_hot": 55066,
       "num": 975099,
       "word": "话说两会知识点",
       "onboard_time": 1709455289,

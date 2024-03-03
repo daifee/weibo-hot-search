@@ -1,0 +1,410 @@
+{
+  "runTime": 1709465638762,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1000289,
+        "num": 1000289,
+        "word": "橙C冰美式",
+        "onboard_time": 1709458230,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 854341,
+        "num": 854341,
+        "word": "日媒曝国乒教练可能调整",
+        "onboard_time": 1709463511,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55066,
+        "num": 741968,
+        "word": "话说两会知识点",
+        "onboard_time": 1709455289,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 708103,
+        "num": 708103,
+        "word": "周也嘴巴哭成typec",
+        "onboard_time": 1709462976,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 653113,
+        "num": 653113,
+        "word": "何炅在北外任教时的照片",
+        "onboard_time": 1709448090,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491528,
+        "num": 491528,
+        "word": "阮经天40岁状态",
+        "onboard_time": 1709459012,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 482319,
+        "num": 482319,
+        "word": "巴黎世家大秀",
+        "onboard_time": 1709463210,
+        "rank": 6,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 468189,
+        "num": 468189,
+        "word": "小沈阳发文为老婆庆生",
+        "onboard_time": 1709462432,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84490,
+        "num": 464217,
+        "word": "成都蓉城凤凰山首秀球迷自发清理垃圾",
+        "onboard_time": 1709459430,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135805,
+        "num": 461185,
+        "word": "教科书级别的西安美景受热捧",
+        "onboard_time": 1709459551,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 758120,
+        "num": 450328,
+        "word": "女子买茅台验真伪被死亡威胁",
+        "onboard_time": 1709451450,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587962,
+        "num": 443200,
+        "word": "多少好友用过HIV预防阻断2小时达",
+        "onboard_time": 1709450432,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 441574,
+        "num": 441574,
+        "word": "迪丽热巴眼里有活",
+        "onboard_time": 1709460090,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401822,
+        "num": 401822,
+        "word": "女儿第一次来例假妈妈哭了",
+        "onboard_time": 1709459789,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310491,
+        "num": 310491,
+        "word": "Mai浪姐补位",
+        "onboard_time": 1709457091,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307832,
+        "num": 307832,
+        "word": "范丞丞白色挑染",
+        "onboard_time": 1709459850,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303987,
+        "num": 303987,
+        "word": "男子带走多件悼念用的AD钙奶",
+        "onboard_time": 1709455828,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312746,
+        "num": 300509,
+        "word": "方可给迪丽热巴做过的发型",
+        "onboard_time": 1709464350,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245310,
+        "num": 298027,
+        "word": "部分女性及其父母认为彩礼不是卖价钱而是换尊重",
+        "onboard_time": 1709453908,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94866,
+        "num": 292482,
+        "word": "鸿星尔克做国民的运动品牌",
+        "onboard_time": 1709464713,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 495556,
+        "num": 289869,
+        "word": "硕士学历二胎宝妈投84份简历面试为0",
+        "onboard_time": 1709463331,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288011,
+        "num": 288011,
+        "word": "久哲 没工作",
+        "onboard_time": 1709457332,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 263719,
+        "num": 263719,
+        "word": "严浩翔声纹对比",
+        "onboard_time": 1709459192,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259381,
+        "num": 259381,
+        "word": "迪丽热巴元气桃桃妆",
+        "onboard_time": 1709461169,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 246939,
+        "num": 246939,
+        "word": "久坐不动的人有福了",
+        "onboard_time": 1709459069,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 243970,
+        "num": 243970,
+        "word": "光与夜之恋",
+        "onboard_time": 1709463987,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234965,
+        "num": 234965,
+        "word": "刘美含橘粉渐变发色",
+        "onboard_time": 1709465072,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233890,
+        "num": 233890,
+        "word": "杨幂唐嫣刘诗诗G社生图",
+        "onboard_time": 1709456790,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144017,
+        "num": 213283,
+        "word": "韩国民众告别福宝",
+        "onboard_time": 1709459371,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130212,
+        "num": 211793,
+        "word": "马来西亚交通部长称尽快恢复搜索MH370航班",
+        "onboard_time": 1709456429,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245947,
+        "num": 211756,
+        "word": "怀孕时收到了妹妹的小作文",
+        "onboard_time": 1709462132,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211633,
+        "num": 211633,
+        "word": "热辣滚烫票房破34亿",
+        "onboard_time": 1709461113,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208847,
+        "num": 208847,
+        "word": "TXT官宣回归",
+        "onboard_time": 1709465250,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187123,
+        "num": 187123,
+        "word": "第二十条",
+        "onboard_time": 1709465131,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165234,
+        "num": 165234,
+        "word": "张致恒晒收款码求捐款",
+        "onboard_time": 1709449589,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164913,
+        "num": 164913,
+        "word": "赵奕欢浪姐出妆路透",
+        "onboard_time": 1709465551,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160033,
+        "num": 160033,
+        "word": "王鹤棣 我不开腔",
+        "onboard_time": 1709458410,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157467,
+        "num": 157467,
+        "word": "方可留下吧",
+        "onboard_time": 1709458046,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148985,
+        "num": 148985,
+        "word": "重庆豆腐脑从不参与咸甜之争",
+        "onboard_time": 1709461775,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142714,
+        "num": 142714,
+        "word": "汤唯晒IU签名专辑",
+        "onboard_time": 1709463871,
+        "rank": 39,
+        "category": "音乐,艺人"
+      },
+      {
+        "raw_hot": 138228,
+        "num": 138228,
+        "word": "FPX老板回应战胜WBG",
+        "onboard_time": 1709462191,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136685,
+        "num": 136685,
+        "word": "人的眼皮为什么会跳",
+        "onboard_time": 1709463631,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 120225,
+        "num": 120225,
+        "word": "一个人的失恋三个人的崩溃",
+        "onboard_time": 1709452228,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119302,
+        "num": 119302,
+        "word": "何老师擦脸vs谭松韵擦脸",
+        "onboard_time": 1709448330,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119029,
+        "num": 119029,
+        "word": "农夫山泉副总回应捧娃哈哈踩农夫山泉",
+        "onboard_time": 1709465610,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118320,
+        "num": 118320,
+        "word": "你的工资刚够花还是能照顾到家人",
+        "onboard_time": 1709455590,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115534,
+        "num": 115534,
+        "word": "GAI喊话王鹤棣",
+        "onboard_time": 1709457811,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29176,
+        "num": 113673,
+        "word": "唐嫣漫游巴黎日记",
+        "onboard_time": 1709461591,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 113086,
+        "num": 113086,
+        "word": "乔兮戈娅五杀",
+        "onboard_time": 1709462012,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113341,
+        "num": 112857,
+        "word": "南区全明星vs北区全明星",
+        "onboard_time": 1709465491,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华文明接力棒递到我们这一代手里了#"
+    }
+  }
+}
