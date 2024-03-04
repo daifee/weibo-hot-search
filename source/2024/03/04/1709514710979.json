@@ -1,0 +1,410 @@
+{
+  "runTime": 1709514710979,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1185646,
+        "num": 1185646,
+        "word": "00后新警认出嫌疑人后嘴角上扬",
+        "onboard_time": 1709485523,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1042039,
+        "num": 1042039,
+        "word": "回南天",
+        "onboard_time": 1709510369,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95875,
+        "num": 897741,
+        "word": "两会你我他",
+        "onboard_time": 1709475632,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 844322,
+        "num": 844322,
+        "word": "央视评快递新规施行",
+        "onboard_time": 1709511331,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717422,
+        "num": 717422,
+        "word": "建议增加双一流大学招收对口高职生",
+        "onboard_time": 1709511753,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 697824,
+        "num": 697824,
+        "word": "不背单词 还没修好",
+        "onboard_time": 1709510670,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 677350,
+        "num": 677350,
+        "word": "G社拍的杨超越",
+        "onboard_time": 1709510910,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 528656,
+        "num": 528656,
+        "word": "陈芋汐10米台冠军",
+        "onboard_time": 1709511271,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 527996,
+        "num": 527996,
+        "word": "亚洲首富之子减肥108公斤后又胖回来了",
+        "onboard_time": 1709472814,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513874,
+        "num": 513874,
+        "word": "多所院校呼吁毕业生积极就业",
+        "onboard_time": 1709511810,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845569,
+        "num": 512596,
+        "word": "吴艳妮看到了和世界高手的差距",
+        "onboard_time": 1709510670,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 694476,
+        "num": 511643,
+        "word": "郎朗晒与赫敏扮演者合照",
+        "onboard_time": 1709509826,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633252,
+        "num": 511070,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1709510731,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 510342,
+        "num": 510342,
+        "word": "姜爷爷宋爷爷哭成泪人",
+        "onboard_time": 1709475632,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464349,
+        "num": 464349,
+        "word": "人总是会反复爱上阮经天",
+        "onboard_time": 1709509406,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 432350,
+        "num": 432350,
+        "word": "郭敬明点赞回应程潇",
+        "onboard_time": 1709513911,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415322,
+        "num": 415322,
+        "word": "西班牙女演员在印度遭7人施暴",
+        "onboard_time": 1709479231,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391534,
+        "num": 391534,
+        "word": "大三男生黄鹤楼摆摊拍照月赚8000元",
+        "onboard_time": 1709512891,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378703,
+        "num": 378703,
+        "word": "向佐曾闭关练功七年不看手机",
+        "onboard_time": 1709476891,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353144,
+        "num": 353144,
+        "word": "秦昊帮伊能静拿到了霉霉演唱会门票",
+        "onboard_time": 1709497995,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 371585,
+        "num": 352907,
+        "word": "经常午睡比从来不午睡更健康吗",
+        "onboard_time": 1709478456,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 352124,
+        "num": 352124,
+        "word": "沈梦辰粉发",
+        "onboard_time": 1709513671,
+        "rank": 21,
+        "category": "作品衍生,综艺"
+      },
+      {
+        "raw_hot": 348029,
+        "num": 348029,
+        "word": "HPV疫苗",
+        "onboard_time": 1709512654,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 329087,
+        "num": 329087,
+        "word": "杨子黄圣依为儿子安迪庆生",
+        "onboard_time": 1709513671,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292382,
+        "num": 292382,
+        "word": "硕士学历二胎宝妈投84份简历面试为0",
+        "onboard_time": 1709463331,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261434,
+        "num": 261434,
+        "word": "睡得好要看这4个指标",
+        "onboard_time": 1709501174,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 247861,
+        "num": 247861,
+        "word": "当年爱情公寓第二季的官方设定",
+        "onboard_time": 1709477616,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230165,
+        "num": 230165,
+        "word": "王楚钦橱窗",
+        "onboard_time": 1709476116,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227611,
+        "num": 227611,
+        "word": "怀疑对方AI换脸可以让对方摁鼻子",
+        "onboard_time": 1709481571,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 219714,
+        "num": 219714,
+        "word": "麦当劳旧玩具",
+        "onboard_time": 1709510611,
+        "rank": 29,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 218637,
+        "num": 218637,
+        "word": "乡镇初中晚自习的意义",
+        "onboard_time": 1709512955,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201835,
+        "num": 201835,
+        "word": "库里4分",
+        "onboard_time": 1709511030,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197474,
+        "num": 197474,
+        "word": "有头发的和没头发的都沉默了",
+        "onboard_time": 1709511509,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181348,
+        "num": 181348,
+        "word": "苹果或发布iOS17.4特别版本",
+        "onboard_time": 1709513131,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176382,
+        "num": 176382,
+        "word": "内地买家扫货香港楼市",
+        "onboard_time": 1709510308,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175703,
+        "num": 175703,
+        "word": "全红婵顺利完赛",
+        "onboard_time": 1709509826,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169392,
+        "num": 169392,
+        "word": "唐探2 那可是杨谨华诶",
+        "onboard_time": 1709477252,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162962,
+        "num": 162962,
+        "word": "代表建议正当防卫考虑合理情绪",
+        "onboard_time": 1709514573,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156775,
+        "num": 156775,
+        "word": "五十公里桃花坞4首录路透",
+        "onboard_time": 1709513072,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154394,
+        "num": 154394,
+        "word": "你平时多久掏一次耳朵",
+        "onboard_time": 1709508685,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150241,
+        "num": 150241,
+        "word": "刘亦菲前往巴黎",
+        "onboard_time": 1709509226,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142344,
+        "num": 142344,
+        "word": "巧克力也是虫子的心头好",
+        "onboard_time": 1709511450,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139546,
+        "num": 139546,
+        "word": "田曦薇双马尾",
+        "onboard_time": 1709514511,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123470,
+        "num": 123470,
+        "word": "孙千和PP合照",
+        "onboard_time": 1709479231,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 123139,
+        "num": 123139,
+        "word": "DYG教练 跑路",
+        "onboard_time": 1709474492,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122735,
+        "num": 122735,
+        "word": "刘耀文卡点发博给宋亚轩庆生",
+        "onboard_time": 1709507300,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122274,
+        "num": 122274,
+        "word": "跳水梦之队包揽冠亚军",
+        "onboard_time": 1709513131,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122269,
+        "num": 122269,
+        "word": "十年前种下的种子真的能开出花",
+        "onboard_time": 1709481869,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120646,
+        "num": 120646,
+        "word": "包包被外国友人扔出地铁全车人欢呼",
+        "onboard_time": 1709473291,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112672,
+        "num": 112672,
+        "word": "凯尔特人52分大胜勇士",
+        "onboard_time": 1709511210,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#悠悠万事民生为大#"
+    }
+  }
+}
