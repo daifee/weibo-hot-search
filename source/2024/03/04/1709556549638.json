@@ -1,0 +1,410 @@
+{
+  "runTime": 1709556549638,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1071912,
+        "num": 1071912,
+        "word": "建议整治校园形式主义",
+        "onboard_time": 1709554054,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 638785,
+        "num": 638785,
+        "word": "金价又上涨了",
+        "onboard_time": 1709550632,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26912,
+        "num": 637476,
+        "word": "人大工作高质量发展迈出新步伐",
+        "onboard_time": 1709539109,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 637123,
+        "num": 637123,
+        "word": "海底捞宣布将推加盟特许经营模式",
+        "onboard_time": 1709550213,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580622,
+        "num": 580622,
+        "word": "委员建议放宽35岁就业年龄限制",
+        "onboard_time": 1709555313,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455762,
+        "num": 455762,
+        "word": "建议所有单位都拿出岗位给大学生",
+        "onboard_time": 1709522310,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329232,
+        "num": 329232,
+        "word": "全国政协委员建议取消入住酒店必须刷脸规定",
+        "onboard_time": 1709550151,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316854,
+        "num": 316854,
+        "word": "霍启刚建议建设粤港澳体育湾区",
+        "onboard_time": 1709552551,
+        "rank": 7,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 217690,
+        "num": 315372,
+        "word": "1元纸币上的女拖拉机手今年91了",
+        "onboard_time": 1709545831,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199032,
+        "num": 312009,
+        "word": "为何说今年是十四五的关键一年",
+        "onboard_time": 1709543372,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1614974,
+        "num": 309323,
+        "word": "00后开始拒绝月经羞耻",
+        "onboard_time": 1709552372,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1141779,
+        "num": 305891,
+        "word": "郭碧婷来浪姐了",
+        "onboard_time": 1709553274,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 960426,
+        "num": 300149,
+        "word": "25岁规培生医院内自杀身亡遗书疑曝光",
+        "onboard_time": 1709554653,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644085,
+        "num": 298173,
+        "word": "王鹤棣爆改王大锤",
+        "onboard_time": 1709554591,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 634593,
+        "num": 294762,
+        "word": "9万粉丝英语博主因四级没过停更",
+        "onboard_time": 1709549133,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420193,
+        "num": 290787,
+        "word": "体脂率下降的小习惯",
+        "onboard_time": 1709553991,
+        "rank": 15,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 417603,
+        "num": 285924,
+        "word": "陈赫张子萱带大女儿逛街",
+        "onboard_time": 1709552432,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369460,
+        "num": 284471,
+        "word": "宋亚轩直播",
+        "onboard_time": 1709556089,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358743,
+        "num": 279896,
+        "word": "陈丽君浪姐路透",
+        "onboard_time": 1709553874,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355443,
+        "num": 275981,
+        "word": "何老师 不能不喜欢自己",
+        "onboard_time": 1709541210,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 350152,
+        "num": 274003,
+        "word": "28岁找工作被嫌弃年龄大",
+        "onboard_time": 1709551770,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271483,
+        "num": 271483,
+        "word": "杨幂IP地址先回家了",
+        "onboard_time": 1709553693,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 243745,
+        "num": 243745,
+        "word": "睡前玩8分钟手机身体兴奋1小时",
+        "onboard_time": 1709546251,
+        "rank": 22,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 243289,
+        "num": 243289,
+        "word": "难哄路透",
+        "onboard_time": 1709548653,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227833,
+        "num": 227833,
+        "word": "明星主播带不动货了",
+        "onboard_time": 1709547751,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215235,
+        "num": 215235,
+        "word": "适合一个人住的48平独居小屋",
+        "onboard_time": 1709552850,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246855,
+        "num": 215226,
+        "word": "杨幂黑色新中式",
+        "onboard_time": 1709549969,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215093,
+        "num": 215093,
+        "word": "金喜善评论Jennie造型",
+        "onboard_time": 1709553573,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200877,
+        "num": 200877,
+        "word": "找到了健身房的平替",
+        "onboard_time": 1709551713,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 194224,
+        "num": 194224,
+        "word": "全智贤蓝色亮片裙",
+        "onboard_time": 1709556089,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185583,
+        "num": 185583,
+        "word": "JackeyLove斯莫德",
+        "onboard_time": 1709554712,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181084,
+        "num": 181084,
+        "word": "赵今麦直播状态",
+        "onboard_time": 1709556149,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173936,
+        "num": 173936,
+        "word": "巴黎奥运会乒乓球团体参赛队伍确定",
+        "onboard_time": 1709551291,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155415,
+        "num": 155415,
+        "word": "王俊凯P的太阳",
+        "onboard_time": 1709551231,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191760,
+        "num": 154170,
+        "word": "全智贤到上海了",
+        "onboard_time": 1709535087,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152241,
+        "num": 152241,
+        "word": "孙千曾为陈靖可抱不平",
+        "onboard_time": 1709555612,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152055,
+        "num": 152055,
+        "word": "冷冻食品可千万别直接下锅",
+        "onboard_time": 1709554773,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147694,
+        "num": 147694,
+        "word": "这才是HR认可的空窗期理由",
+        "onboard_time": 1709555733,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147319,
+        "num": 147319,
+        "word": "阮经天家人也认错过他和明道",
+        "onboard_time": 1709548112,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145542,
+        "num": 145542,
+        "word": "广东小伙把自律做成生意年入2000万",
+        "onboard_time": 1709552432,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143075,
+        "num": 143075,
+        "word": "老是睡不好是不是床头放了这些",
+        "onboard_time": 1709536830,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142682,
+        "num": 142682,
+        "word": "王楚钦新加坡大满贯兼三项",
+        "onboard_time": 1709547751,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139920,
+        "num": 139920,
+        "word": "猫屁股翘到可以顶一瓶汽水",
+        "onboard_time": 1709553991,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139193,
+        "num": 139193,
+        "word": "为何自带杯买咖啡推广不起来",
+        "onboard_time": 1709555556,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132423,
+        "num": 132423,
+        "word": "要久久爱走进北京大学",
+        "onboard_time": 1709553152,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129614,
+        "num": 129614,
+        "word": "这些水果不甜却很胖人",
+        "onboard_time": 1709547569,
+        "rank": 45,
+        "category": "美食,科学科普"
+      },
+      {
+        "raw_hot": 117626,
+        "num": 117626,
+        "word": "杨幂工作室晒露肩照",
+        "onboard_time": 1709552732,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 116275,
+        "num": 116275,
+        "word": "代表建议降低火车飞机票退改签费率",
+        "onboard_time": 1709555252,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113686,
+        "num": 113686,
+        "word": "郑晓龙给肖战讲戏",
+        "onboard_time": 1709542889,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113296,
+        "num": 113296,
+        "word": "贺峻霖给宋亚轩的生日文案",
+        "onboard_time": 1709553813,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#念兹在兹不负人民#"
+    }
+  }
+}

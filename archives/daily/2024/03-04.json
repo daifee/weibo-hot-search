@@ -1,6 +1,6 @@
 {
   "startTime": 1709482797196,
-  "endTime": 1709555973880,
+  "endTime": 1709556549638,
   "band_list": [
     {
       "raw_hot": 2604565,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1665708,
-      "num": 308456,
+      "num": 309323,
       "word": "00后开始拒绝月经羞耻",
       "onboard_time": 1709552372,
       "rank": 17,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1071912,
+      "num": 1071912,
+      "word": "建议整治校园形式主义",
+      "onboard_time": 1709554054,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1042039,
       "num": 1042039,
       "word": "回南天",
@@ -131,12 +139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1014268,
-      "num": 1014268,
-      "word": "建议整治校园形式主义",
-      "onboard_time": 1709554054,
-      "rank": 0,
-      "category": "教育"
+      "raw_hot": 960426,
+      "num": 305146,
+      "word": "25岁规培生医院内自杀身亡遗书疑曝光",
+      "onboard_time": 1709554653,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 953676,
@@ -347,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644085,
+      "num": 302298,
+      "word": "王鹤棣爆改王大锤",
+      "onboard_time": 1709554591,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 633252,
       "num": 520969,
       "word": "本周狗屎运最旺的星座",
@@ -377,14 +393,6 @@
       "onboard_time": 1709476891,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 623733,
-      "num": 305146,
-      "word": "25岁规培生医院内自杀身亡遗书疑曝光",
-      "onboard_time": 1709554653,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 618821,
@@ -425,6 +433,14 @@
       "onboard_time": 1709528495,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 580622,
+      "num": 580622,
+      "word": "委员建议放宽35岁就业年龄限制",
+      "onboard_time": 1709555313,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 572405,
@@ -659,12 +675,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 432808,
-      "num": 302298,
-      "word": "王鹤棣爆改王大锤",
-      "onboard_time": 1709554591,
-      "rank": 15,
-      "category": "作品衍生"
+      "raw_hot": 420193,
+      "num": 298278,
+      "word": "体脂率下降的小习惯",
+      "onboard_time": 1709553991,
+      "rank": 19,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 411172,
@@ -739,20 +755,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 373442,
-      "num": 373442,
-      "word": "委员建议放宽35岁就业年龄限制",
-      "onboard_time": 1709555313,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 370458,
       "num": 280458,
       "word": "马思纯还原黎吧啦妆容",
       "onboard_time": 1709534190,
       "rank": 15,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 369460,
+      "num": 284471,
+      "word": "宋亚轩直播",
+      "onboard_time": 1709556089,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 367298,
@@ -785,14 +801,6 @@
       "onboard_time": 1709529573,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 356843,
-      "num": 298278,
-      "word": "体脂率下降的小习惯",
-      "onboard_time": 1709553991,
-      "rank": 19,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 353561,
@@ -923,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 316854,
+      "num": 316854,
+      "word": "霍启刚建议建设粤港澳体育湾区",
+      "onboard_time": 1709552551,
+      "rank": 26,
+      "category": "体育,国内时政"
+    },
+    {
       "raw_hot": 314837,
       "num": 314837,
       "word": "和不内耗的朋友出去玩",
@@ -937,14 +953,6 @@
       "onboard_time": 1709547751,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 311963,
-      "num": 311963,
-      "word": "霍启刚建议建设粤港澳体育湾区",
-      "onboard_time": 1709552551,
-      "rank": 26,
-      "category": "体育,国内时政"
     },
     {
       "raw_hot": 308732,
@@ -1355,6 +1363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200877,
+      "num": 200877,
+      "word": "找到了健身房的平替",
+      "onboard_time": 1709551713,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 200649,
       "num": 200649,
       "word": "张元英顶级时间管理",
@@ -1369,14 +1385,6 @@
       "onboard_time": 1709554712,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 199535,
-      "num": 199213,
-      "word": "找到了健身房的平替",
-      "onboard_time": 1709551713,
-      "rank": 31,
-      "category": "运动健身"
     },
     {
       "raw_hot": 197652,
@@ -1401,6 +1409,14 @@
       "onboard_time": 1709547331,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194224,
+      "num": 194224,
+      "word": "全智贤蓝色亮片裙",
+      "onboard_time": 1709556089,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192952,
@@ -1515,6 +1531,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 181084,
+      "num": 181084,
+      "word": "赵今麦直播状态",
+      "onboard_time": 1709556149,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177824,
       "num": 177824,
       "word": "农夫山泉",
@@ -1579,8 +1603,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 173270,
-      "num": 173270,
+      "raw_hot": 173936,
+      "num": 173936,
       "word": "巴黎奥运会乒乓球团体参赛队伍确定",
       "onboard_time": 1709551291,
       "rank": 38,
@@ -1795,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147694,
+      "num": 147694,
+      "word": "这才是HR认可的空窗期理由",
+      "onboard_time": 1709555733,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147612,
       "num": 147612,
       "word": "人不能显得太好说话",
@@ -1947,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139193,
+      "num": 139193,
+      "word": "为何自带杯买咖啡推广不起来",
+      "onboard_time": 1709555556,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 137570,
       "num": 137570,
       "word": "顾寻 我是校草",
@@ -2067,14 +2107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126799,
-      "num": 126799,
-      "word": "为何自带杯买咖啡推广不起来",
-      "onboard_time": 1709555556,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 126510,
       "num": 126510,
       "word": "代表建议降低火车飞机票退改签费率",
@@ -2169,14 +2201,6 @@
       "onboard_time": 1709521772,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117449,
-      "num": 117449,
-      "word": "这才是HR认可的空窗期理由",
-      "onboard_time": 1709555733,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 116455,
@@ -2579,6 +2603,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 26912,
+      "num": 756718,
+      "word": "人大工作高质量发展迈出新步伐",
+      "onboard_time": 1709539109,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25255,
       "num": 645204,
       "word": "聚焦2024全国两会基层代表",
@@ -2593,14 +2625,6 @@
       "onboard_time": 1709490497,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 24471,
-      "num": 756718,
-      "word": "人大工作高质量发展迈出新步伐",
-      "onboard_time": 1709539109,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21985,
