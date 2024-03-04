@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709583494328,
+  "endTime": 1709584542772,
   "band_list": [
     {
       "raw_hot": 2604565,
@@ -6051,6 +6051,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 25596,
+      "num": 14192,
+      "word": "外交部回应外籍人员移动支付难问题",
+      "onboard_time": 1709583015,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25179,
       "num": 25179,
       "word": "MINJI和HANNI舞蹈挑战",
@@ -6131,20 +6139,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 15746,
+      "num": 15746,
+      "word": "女孩公交卡掉进夹缝里司机掏出10块钱",
+      "onboard_time": 1709580256,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15597,
       "num": 15597,
       "word": "哈圈刻板印象",
       "onboard_time": 1709409018,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15395,
-      "num": 15395,
-      "word": "女孩公交卡掉进夹缝里司机掏出10块钱",
-      "onboard_time": 1709580256,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14636,
@@ -6169,14 +6177,6 @@
       "onboard_time": 1709410217,
       "rank": 48,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 11358,
-      "num": 11358,
-      "word": "外交部回应外籍人员移动支付难问题",
-      "onboard_time": 1709583015,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10668,
@@ -6209,6 +6209,14 @@
       "onboard_time": 1709415197,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8876,
+      "num": 11791,
+      "word": "正确玩手机的7个姿势",
+      "onboard_time": 1709584395,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 8636,
