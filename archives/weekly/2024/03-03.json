@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709524585488,
+  "endTime": 1709527822313,
   "band_list": [
     {
       "raw_hot": 2604565,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1051032,
+      "num": 1051032,
+      "word": "赵露思说小时候吴昕对她很好",
+      "onboard_time": 1709525854,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1042039,
       "num": 1042039,
       "word": "回南天",
@@ -243,6 +251,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 968792,
+      "num": 369367,
+      "word": "周杰伦昆凌2岁女儿的画",
+      "onboard_time": 1709526933,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 968460,
       "num": 968460,
       "word": "张雨绮相亲",
@@ -264,6 +280,14 @@
       "word": "周处除三害",
       "onboard_time": 1709467650,
       "rank": 4,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 874576,
+      "num": 368450,
+      "word": "阮经天 好生气可还是要保持围笑",
+      "onboard_time": 1709524351,
+      "rank": 33,
       "category": "电影"
     },
     {
@@ -371,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 769240,
+      "num": 769240,
+      "word": "1天内9家车企宣布降价",
+      "onboard_time": 1709524894,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 745492,
       "num": 745492,
       "word": "Mai浪姐补位",
@@ -457,6 +489,14 @@
       "onboard_time": 1709393850,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 681705,
+      "num": 681705,
+      "word": "建议考研统一命题不是说全国一张卷",
+      "onboard_time": 1709523451,
+      "rank": 12,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 677854,
@@ -585,6 +625,14 @@
       "onboard_time": 1709510731,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 632430,
+      "num": 367670,
+      "word": "赵奕欢 浪姐",
+      "onboard_time": 1709524294,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 631463,
@@ -987,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 450693,
+      "num": 945477,
+      "word": "直播十四届全国人大二次会议发布会",
+      "onboard_time": 1709524953,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 450093,
       "num": 450093,
       "word": "假如玉娆有朋友圈",
@@ -1139,14 +1195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 395804,
-      "num": 395804,
-      "word": "建议考研统一命题不是说全国一张卷",
-      "onboard_time": 1709523451,
-      "rank": 12,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 392935,
       "num": 392935,
       "word": "睡得好要看这4个指标",
@@ -1257,6 +1305,14 @@
       "onboard_time": 1709390795,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364891,
+      "num": 364891,
+      "word": "建议把课间十分钟还给学生",
+      "onboard_time": 1709526933,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362404,
@@ -1403,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331893,
+      "num": 321676,
+      "word": "表达力太差建议看纪录片",
+      "onboard_time": 1709523933,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 330822,
       "num": 330822,
       "word": "决定断亲后妈妈好像有点慌了",
@@ -1489,6 +1553,14 @@
       "onboard_time": 1709514933,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 317616,
+      "num": 317616,
+      "word": "原来生日有这么多隐藏福利",
+      "onboard_time": 1709526153,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 316520,
@@ -1771,6 +1843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 257608,
+      "num": 257608,
+      "word": "建议推动年轻人配置个人养老金",
+      "onboard_time": 1709526335,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254515,
       "num": 254515,
       "word": "感觉朋友圈没有以前热闹了",
@@ -1793,6 +1873,14 @@
       "onboard_time": 1709424565,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252712,
+      "num": 252712,
+      "word": "为防甲状腺癌这些坏习惯趁早改",
+      "onboard_time": 1709526515,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 252265,
@@ -1907,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240062,
+      "num": 240062,
+      "word": "京东将普及第三方商品包邮",
+      "onboard_time": 1709525431,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 235481,
       "num": 235481,
       "word": "化妆真是太牛了",
@@ -1921,6 +2017,14 @@
       "onboard_time": 1709515470,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234252,
+      "num": 234252,
+      "word": "黄景瑜王子奇二搭",
+      "onboard_time": 1709526992,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 233565,
@@ -2051,12 +2155,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216168,
+      "num": 216168,
+      "word": "闪耀暖暖 好看",
+      "onboard_time": 1709527295,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214272,
       "num": 214272,
       "word": "欧阳娜娜古装拉大提琴",
       "onboard_time": 1709476531,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213735,
+      "num": 213735,
+      "word": "张予曦浪姐上班",
+      "onboard_time": 1709526634,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 213701,
@@ -2073,14 +2193,6 @@
       "onboard_time": 1709446647,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 213165,
-      "num": 184737,
-      "word": "表达力太差建议看纪录片",
-      "onboard_time": 1709523933,
-      "rank": 31,
-      "category": "科学科普"
     },
     {
       "raw_hot": 211926,
@@ -2275,6 +2387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201471,
+      "num": 201471,
+      "word": "鹿晗首次作曲",
+      "onboard_time": 1709527416,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201090,
       "num": 199208,
       "word": "无限超越班 演技错题集",
@@ -2395,6 +2515,14 @@
       "category": "美食,健康医疗"
     },
     {
+      "raw_hot": 189274,
+      "num": 189274,
+      "word": "邓紫棋长沙 抢票",
+      "onboard_time": 1709527416,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188451,
       "num": 188451,
       "word": "张馨予碎钻拖尾裙",
@@ -2457,14 +2585,6 @@
       "onboard_time": 1709523514,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184725,
-      "num": 184725,
-      "word": "赵奕欢 浪姐",
-      "onboard_time": 1709524294,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 184493,
@@ -2545,14 +2665,6 @@
       "onboard_time": 1709513131,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 180325,
-      "num": 180325,
-      "word": "阮经天 好生气可还是要保持围笑",
-      "onboard_time": 1709524351,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 179717,
@@ -3035,6 +3147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144780,
+      "num": 144780,
+      "word": "DOU5冠军时装",
+      "onboard_time": 1709527354,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144216,
       "num": 144216,
       "word": "刘暖曦代理律师被认定违规炒作案件",
@@ -3331,6 +3451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130811,
+      "num": 130811,
+      "word": "电影堡垒定档",
+      "onboard_time": 1709524953,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 130747,
       "num": 130747,
       "word": "FPX春季赛六连胜",
@@ -3417,6 +3545,14 @@
       "onboard_time": 1709447130,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128668,
+      "num": 128668,
+      "word": "电影灿烂的她预售开启",
+      "onboard_time": 1709527656,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 128231,
@@ -3881,6 +4017,14 @@
       "onboard_time": 1709421320,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79066,
+      "num": 370569,
+      "word": "一生要强的中国雨洁",
+      "onboard_time": 1709526874,
+      "rank": 11,
+      "category": "美妆"
     },
     {
       "raw_hot": 76502,
