@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709528416146,
+  "endTime": 1709531604945,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -561,6 +561,14 @@
       "onboard_time": 1709476891,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1078506,
+      "num": 1078506,
+      "word": "建议把课间十分钟还给学生",
+      "onboard_time": 1709526933,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1065140,
@@ -1131,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 714433,
+      "num": 239036,
+      "word": "普通家庭怀孕到一岁的花费",
+      "onboard_time": 1709528676,
+      "rank": 20,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 713003,
       "num": 713003,
       "word": "反诈老陈回应济宁消防喊话",
@@ -1331,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 673461,
+      "num": 673461,
+      "word": "建议优先对90后个人养老金账户发补贴",
+      "onboard_time": 1709529214,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 670436,
       "num": 291654,
       "word": "满舒克前女友因其感染高危HPV",
@@ -1408,14 +1432,6 @@
       "word": "何小鹏建议允许夜间低速无人驾驶",
       "onboard_time": 1709522251,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 646835,
-      "num": 646835,
-      "word": "建议把课间十分钟还给学生",
-      "onboard_time": 1709526933,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1697,6 +1713,14 @@
       "onboard_time": 1709372549,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 590067,
+      "num": 271660,
+      "word": "赌王三太70大寿近照",
+      "onboard_time": 1709528495,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 587845,
@@ -2515,6 +2539,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 448675,
+      "num": 262282,
+      "word": "女子动物园私自抱娃下车被狼逼进",
+      "onboard_time": 1709529154,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448377,
       "num": 309060,
       "word": "兴高采烈退税结果要补1万8",
@@ -3129,6 +3161,14 @@
       "onboard_time": 1709455590,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 362159,
+      "num": 261045,
+      "word": "蛙池 抢票",
+      "onboard_time": 1709529573,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 359694,
@@ -4307,6 +4347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 255816,
+      "num": 255816,
+      "word": "万科股价大跌",
+      "onboard_time": 1709529509,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 255355,
       "num": 255355,
       "word": "为什么年轻人喜欢晒各种东西",
@@ -4547,6 +4595,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 239093,
+      "num": 239093,
+      "word": "大理寺少卿游 陈拾大boss",
+      "onboard_time": 1709530654,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238636,
       "num": 238636,
       "word": "斗鱼持股公司曾申请一条小团团商标",
@@ -4753,6 +4809,14 @@
       "onboard_time": 1709270672,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220611,
+      "num": 220611,
+      "word": "Drake帮母亲去世粉丝偿还百万债务",
+      "onboard_time": 1709531131,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 220530,
@@ -5171,6 +5235,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 205595,
+      "num": 205595,
+      "word": "王鹤棣刻在基因里的21分钟18分",
+      "onboard_time": 1709531553,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205556,
       "num": 205556,
       "word": "狼队锁定第二轮S组",
@@ -5403,6 +5475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200649,
+      "num": 200649,
+      "word": "张元英顶级时间管理",
+      "onboard_time": 1709529273,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200506,
       "num": 200506,
       "word": "钟睒睒称与宗庆后亦师亦友",
@@ -5441,6 +5521,14 @@
       "onboard_time": 1709451931,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200206,
+      "num": 200206,
+      "word": "G社镜头下的孙千",
+      "onboard_time": 1709528735,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199826,
@@ -6355,6 +6443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173608,
+      "num": 173608,
+      "word": "妈妈我偷偷瞒着你做了很多事",
+      "onboard_time": 1709529035,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173246,
       "num": 173246,
       "word": "张凌赫无框镜",
@@ -6753,6 +6849,14 @@
       "onboard_time": 1709374531,
       "rank": 47,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 161708,
+      "num": 161708,
+      "word": "用AI复活亲人已形成产业链",
+      "onboard_time": 1709528317,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161386,
@@ -7313,6 +7417,14 @@
       "onboard_time": 1709437173,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146128,
+      "num": 146128,
+      "word": "掌心有徐娇",
+      "onboard_time": 1709530050,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 145850,
@@ -8643,6 +8755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116405,
+      "num": 116405,
+      "word": "人不能显得太好说话",
+      "onboard_time": 1709530891,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116373,
       "num": 116373,
       "word": "老一辈和当代年轻人社会性是倒置的",
@@ -8859,6 +8979,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111817,
+      "num": 111817,
+      "word": "邱饼 他只是出现的时机刚好",
+      "onboard_time": 1709531011,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 111593,
+      "num": 111593,
+      "word": "成毅角色手绘",
+      "onboard_time": 1709531072,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 111131,
       "num": 111131,
       "word": "刘亦菲纪念金庸诞辰100周年",
@@ -8883,14 +9019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109953,
-      "num": 109953,
-      "word": "用AI复活亲人已形成产业链",
-      "onboard_time": 1709528317,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 109789,
       "num": 109789,
       "word": "创造营亚洲",
@@ -8905,6 +9033,14 @@
       "onboard_time": 1709358572,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108990,
+      "num": 108990,
+      "word": "吃药成阿根廷人新奢侈",
+      "onboard_time": 1709531432,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108639,
@@ -9027,6 +9163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103733,
+      "num": 370569,
+      "word": "一生要强的中国雨洁",
+      "onboard_time": 1709526874,
+      "rank": 11,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 103289,
       "num": 103289,
       "word": "老板要理解现在的年轻人",
@@ -9099,14 +9243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 99835,
-      "num": 370569,
-      "word": "一生要强的中国雨洁",
-      "onboard_time": 1709526874,
-      "rank": 11,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 99815,
       "num": 99815,
       "word": "CBA全明星",
@@ -9169,6 +9305,14 @@
       "onboard_time": 1709306071,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96089,
+      "num": 820258,
+      "word": "十四届全国人大二次会议议程抢鲜看",
+      "onboard_time": 1709525374,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 96003,

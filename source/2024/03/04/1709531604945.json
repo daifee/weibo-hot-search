@@ -1,0 +1,410 @@
+{
+  "runTime": 1709531604945,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1354250,
+        "num": 1354250,
+        "word": "建议所有单位都拿出岗位给大学生",
+        "onboard_time": 1709522310,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1078506,
+        "num": 1078506,
+        "word": "建议把课间十分钟还给学生",
+        "onboard_time": 1709526933,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96089,
+        "num": 820258,
+        "word": "十四届全国人大二次会议议程抢鲜看",
+        "onboard_time": 1709525374,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 673461,
+        "num": 673461,
+        "word": "建议优先对90后个人养老金账户发补贴",
+        "onboard_time": 1709529214,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485634,
+        "num": 485634,
+        "word": "1天内9家车企宣布降价",
+        "onboard_time": 1709524894,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 371321,
+        "num": 371321,
+        "word": "建议全面取消基层医疗门诊报销起付线",
+        "onboard_time": 1709518469,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346446,
+        "num": 346446,
+        "word": "直播十四届全国人大二次会议发布会",
+        "onboard_time": 1709524953,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 316108,
+        "num": 316108,
+        "word": "建议考研统一命题不是说全国一张卷",
+        "onboard_time": 1709523451,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 280075,
+        "num": 280075,
+        "word": "中国姨姨特意到韩国接福宝",
+        "onboard_time": 1709520210,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250200,
+        "num": 279076,
+        "word": "闪耀暖暖 好看",
+        "onboard_time": 1709527295,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1193351,
+        "num": 274995,
+        "word": "周杰伦昆凌2岁女儿的画",
+        "onboard_time": 1709526933,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 755264,
+        "num": 274179,
+        "word": "赵露思说小时候吴昕对她很好",
+        "onboard_time": 1709525854,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 590067,
+        "num": 271660,
+        "word": "赌王三太70大寿近照",
+        "onboard_time": 1709528495,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480709,
+        "num": 268497,
+        "word": "阮经天 好生气可还是要保持围笑",
+        "onboard_time": 1709524351,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 461399,
+        "num": 266695,
+        "word": "韩国7千名离岗医生将被吊销执照",
+        "onboard_time": 1709522853,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448675,
+        "num": 262282,
+        "word": "女子动物园私自抱娃下车被狼逼进",
+        "onboard_time": 1709529154,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362159,
+        "num": 261045,
+        "word": "蛙池 抢票",
+        "onboard_time": 1709529573,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 259656,
+        "num": 259656,
+        "word": "赵奕欢 浪姐",
+        "onboard_time": 1709524294,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255816,
+        "num": 255816,
+        "word": "万科股价大跌",
+        "onboard_time": 1709529509,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 239093,
+        "num": 239093,
+        "word": "大理寺少卿游 陈拾大boss",
+        "onboard_time": 1709530654,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 714433,
+        "num": 239036,
+        "word": "普通家庭怀孕到一岁的花费",
+        "onboard_time": 1709528676,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 220611,
+        "num": 220611,
+        "word": "Drake帮母亲去世粉丝偿还百万债务",
+        "onboard_time": 1709531131,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205595,
+        "num": 205595,
+        "word": "王鹤棣刻在基因里的21分钟18分",
+        "onboard_time": 1709531553,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200649,
+        "num": 200649,
+        "word": "张元英顶级时间管理",
+        "onboard_time": 1709529273,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200206,
+        "num": 200206,
+        "word": "G社镜头下的孙千",
+        "onboard_time": 1709528735,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199508,
+        "num": 199508,
+        "word": "何小鹏建议允许夜间低速无人驾驶",
+        "onboard_time": 1709522251,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176621,
+        "num": 176621,
+        "word": "队长鹿晗合作新歌",
+        "onboard_time": 1709520808,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 174396,
+        "num": 174396,
+        "word": "表达力太差建议看纪录片",
+        "onboard_time": 1709523933,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 173988,
+        "num": 173988,
+        "word": "为防甲状腺癌这些坏习惯趁早改",
+        "onboard_time": 1709526515,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173608,
+        "num": 173608,
+        "word": "妈妈我偷偷瞒着你做了很多事",
+        "onboard_time": 1709529035,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171166,
+        "num": 171166,
+        "word": "谢谢你温暖我定档",
+        "onboard_time": 1709522551,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161708,
+        "num": 161708,
+        "word": "用AI复活亲人已形成产业链",
+        "onboard_time": 1709528317,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159501,
+        "num": 159501,
+        "word": "钟楚曦自己化的烟熏妆",
+        "onboard_time": 1709523093,
+        "rank": 32,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 146467,
+        "num": 146467,
+        "word": "人总是会反复爱上阮经天",
+        "onboard_time": 1709509406,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146128,
+        "num": 146128,
+        "word": "掌心有徐娇",
+        "onboard_time": 1709530050,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141543,
+        "num": 141543,
+        "word": "尹净汉美甲",
+        "onboard_time": 1709518528,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132745,
+        "num": 132745,
+        "word": "福宝",
+        "onboard_time": 1709515411,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130492,
+        "num": 130492,
+        "word": "大三男生黄鹤楼摆摊拍照月赚8000元",
+        "onboard_time": 1709512891,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130034,
+        "num": 130034,
+        "word": "建议推动年轻人配置个人养老金",
+        "onboard_time": 1709526335,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116405,
+        "num": 116405,
+        "word": "人不能显得太好说话",
+        "onboard_time": 1709530891,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115937,
+        "num": 115937,
+        "word": "肖战工作室新增电影摄制服务",
+        "onboard_time": 1709520808,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113361,
+        "num": 113361,
+        "word": "经常午睡比从来不午睡更健康吗",
+        "onboard_time": 1709478456,
+        "rank": 41,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 113148,
+        "num": 113148,
+        "word": "小孩请不要为打翻的牛奶哭泣",
+        "onboard_time": 1709518409,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112479,
+        "num": 112479,
+        "word": "肝脏好不好看这4个部位",
+        "onboard_time": 1709520450,
+        "rank": 43,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 111817,
+        "num": 111817,
+        "word": "邱饼 他只是出现的时机刚好",
+        "onboard_time": 1709531011,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111797,
+        "num": 111797,
+        "word": "黄景瑜王子奇二搭",
+        "onboard_time": 1709526992,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111593,
+        "num": 111593,
+        "word": "成毅角色手绘",
+        "onboard_time": 1709531072,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 108990,
+        "num": 108990,
+        "word": "吃药成阿根廷人新奢侈",
+        "onboard_time": 1709531432,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106611,
+        "num": 106611,
+        "word": "白敬亭起诉黑粉侵权",
+        "onboard_time": 1709519969,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103733,
+        "num": 103733,
+        "word": "一生要强的中国雨洁",
+        "onboard_time": 1709526874,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#悠悠万事民生为大#"
+    }
+  }
+}
