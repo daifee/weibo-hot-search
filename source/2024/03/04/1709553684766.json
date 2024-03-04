@@ -1,0 +1,410 @@
+{
+  "runTime": 1709553684766,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 783937,
+        "num": 783937,
+        "word": "建议所有单位都拿出岗位给大学生",
+        "onboard_time": 1709522310,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581688,
+        "num": 581688,
+        "word": "金价又上涨了",
+        "onboard_time": 1709550632,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 43354,
+        "num": 475919,
+        "word": "十四届全国人大二次会议议程",
+        "onboard_time": 1709539409,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1075053,
+        "num": 466595,
+        "word": "海底捞宣布将推加盟特许经营模式",
+        "onboard_time": 1709550213,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411172,
+        "num": 411172,
+        "word": "全国政协委员建议取消入住酒店必须刷脸规定",
+        "onboard_time": 1709550151,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275602,
+        "num": 275602,
+        "word": "1元纸币上的女拖拉机手今年91了",
+        "onboard_time": 1709545831,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273298,
+        "num": 273298,
+        "word": "国内足金首饰价格突破636元每克",
+        "onboard_time": 1709547932,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 266470,
+        "num": 266470,
+        "word": "王楚钦新加坡大满贯兼三项",
+        "onboard_time": 1709547751,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54881,
+        "num": 266361,
+        "word": "边防美景与地理课本的适配度",
+        "onboard_time": 1709550035,
+        "rank": 8,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 130750,
+        "num": 263259,
+        "word": "河南一学校2000人开会表扬14岁男孩",
+        "onboard_time": 1709535629,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1124076,
+        "num": 262749,
+        "word": "9万粉丝英语博主因四级没过停更",
+        "onboard_time": 1709549133,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876050,
+        "num": 259991,
+        "word": "00后开始拒绝月经羞耻",
+        "onboard_time": 1709552372,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 704178,
+        "num": 259797,
+        "word": "何老师 不能不喜欢自己",
+        "onboard_time": 1709541210,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 554444,
+        "num": 257267,
+        "word": "明星主播带不动货了",
+        "onboard_time": 1709547751,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521405,
+        "num": 256566,
+        "word": "陈赫张子萱带大女儿逛街",
+        "onboard_time": 1709552432,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475838,
+        "num": 254971,
+        "word": "28岁找工作被嫌弃年龄大",
+        "onboard_time": 1709551770,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 456682,
+        "num": 252957,
+        "word": "杨幂黑色新中式",
+        "onboard_time": 1709549969,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440099,
+        "num": 250411,
+        "word": "阮经天家人也认错过他和明道",
+        "onboard_time": 1709548112,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 396065,
+        "num": 249607,
+        "word": "郭碧婷来浪姐了",
+        "onboard_time": 1709553274,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370963,
+        "num": 247888,
+        "word": "难哄路透",
+        "onboard_time": 1709548653,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292429,
+        "num": 246505,
+        "word": "睡前玩8分钟手机身体兴奋1小时",
+        "onboard_time": 1709546251,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 288403,
+        "num": 244178,
+        "word": "霍启刚建议建设粤港澳体育湾区",
+        "onboard_time": 1709552551,
+        "rank": 21,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 271179,
+        "num": 241952,
+        "word": "全智贤到上海了",
+        "onboard_time": 1709535087,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241892,
+        "num": 241892,
+        "word": "王俊凯P的太阳",
+        "onboard_time": 1709551231,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232540,
+        "num": 232540,
+        "word": "金喜善评论Jennie造型",
+        "onboard_time": 1709553573,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223420,
+        "num": 223420,
+        "word": "这些水果不甜却很胖人",
+        "onboard_time": 1709547569,
+        "rank": 25,
+        "category": "美食,科学科普"
+      },
+      {
+        "raw_hot": 222429,
+        "num": 222429,
+        "word": "女儿回应53岁老妈给25岁的自己生了个弟弟",
+        "onboard_time": 1709542353,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211105,
+        "num": 211105,
+        "word": "钟楚曦三天出三款妆容",
+        "onboard_time": 1709551592,
+        "rank": 27,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 195603,
+        "num": 195603,
+        "word": "为何说今年是十四五的关键一年",
+        "onboard_time": 1709543372,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189104,
+        "num": 189104,
+        "word": "广东小伙把自律做成生意年入2000万",
+        "onboard_time": 1709552432,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229210,
+        "num": 187076,
+        "word": "适合一个人住的48平独居小屋",
+        "onboard_time": 1709552850,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199535,
+        "num": 186746,
+        "word": "找到了健身房的平替",
+        "onboard_time": 1709551713,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 184959,
+        "num": 184959,
+        "word": "杨幂工作室晒露肩照",
+        "onboard_time": 1709552732,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 184368,
+        "num": 184368,
+        "word": "全国两会五大看点",
+        "onboard_time": 1709552432,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176105,
+        "num": 176105,
+        "word": "刘诗诗 大女主",
+        "onboard_time": 1709544035,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172614,
+        "num": 172614,
+        "word": "普通情侣一年能赚多少钱",
+        "onboard_time": 1709547569,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170362,
+        "num": 170362,
+        "word": "闹钟自动发信息给前男友",
+        "onboard_time": 1709552850,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164306,
+        "num": 164306,
+        "word": "老是睡不好是不是床头放了这些",
+        "onboard_time": 1709536830,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164292,
+        "num": 164292,
+        "word": "成年后我决定重新养自己一遍",
+        "onboard_time": 1709552850,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151979,
+        "num": 151979,
+        "word": "当主人对小狗说被公司开除了",
+        "onboard_time": 1709553516,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147535,
+        "num": 147535,
+        "word": "要久久爱走进北京大学",
+        "onboard_time": 1709553152,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145094,
+        "num": 145094,
+        "word": "郑晓龙给肖战讲戏",
+        "onboard_time": 1709542889,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144596,
+        "num": 144596,
+        "word": "巴黎奥运会乒乓球团体参赛队伍确定",
+        "onboard_time": 1709551291,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127819,
+        "num": 127819,
+        "word": "孙千陈靖可大片",
+        "onboard_time": 1709552611,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 110084,
+        "num": 110084,
+        "word": "周处除三害后劲",
+        "onboard_time": 1709547331,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108138,
+        "num": 108138,
+        "word": "福宝回国将落户神树坪",
+        "onboard_time": 1709540672,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106821,
+        "num": 106821,
+        "word": "国家医保局回复癌症筛查纳入医保",
+        "onboard_time": 1709546311,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105109,
+        "num": 105109,
+        "word": "你英语四级考过了吗",
+        "onboard_time": 1709552132,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104757,
+        "num": 104757,
+        "word": "学校教室每人头顶一个专属摄像头",
+        "onboard_time": 1709546430,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 102179,
+        "num": 102179,
+        "word": "蛋挞皮秒变泡芙",
+        "onboard_time": 1709553392,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会妙喻#"
+    }
+  }
+}
