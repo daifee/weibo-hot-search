@@ -1,6 +1,6 @@
 {
   "startTime": 1709569387343,
-  "endTime": 1709594300849,
+  "endTime": 1709595293815,
   "band_list": [
     {
       "raw_hot": 1203303,
@@ -19,12 +19,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 743811,
-      "num": 743811,
+      "raw_hot": 831693,
+      "num": 831693,
       "word": "建议取消高中学业水平考试科目",
       "onboard_time": 1709572041,
       "rank": 17,
       "category": "教育,国内时政"
+    },
+    {
+      "raw_hot": 716256,
+      "num": 168991,
+      "word": "月薪上万也不舍得买鄂尔多斯",
+      "onboard_time": 1709594065,
+      "rank": 15,
+      "category": "时尚"
     },
     {
       "raw_hot": 681075,
@@ -59,6 +67,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 396821,
+      "num": 203071,
+      "word": "蕾丝裙帘成年轻人新潮流",
+      "onboard_time": 1709564673,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 393934,
       "num": 203490,
       "word": "杜海涛给吴昕取了新外号",
@@ -81,6 +97,14 @@
       "onboard_time": 1709556991,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 348942,
+      "num": 348942,
+      "word": "父亲心疼女儿被撞伤将床头柱锯掉",
+      "onboard_time": 1709569885,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348862,
@@ -107,12 +131,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 331741,
-      "num": 203071,
-      "word": "蕾丝裙帘成年轻人新潮流",
-      "onboard_time": 1709564673,
-      "rank": 19,
-      "category": "时尚"
+      "raw_hot": 306501,
+      "num": 166763,
+      "word": "炎亚纶成江宏杰许孟哲老板",
+      "onboard_time": 1709570185,
+      "rank": 47,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 304302,
+      "num": 165793,
+      "word": "两女子在秦岭服务区失联",
+      "onboard_time": 1709587875,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300653,
@@ -123,16 +155,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 299095,
-      "num": 132377,
-      "word": "两女子在秦岭服务区失联",
-      "onboard_time": 1709587875,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287445,
-      "num": 287445,
+      "raw_hot": 290653,
+      "num": 290653,
       "word": "惊蛰",
       "onboard_time": 1709593404,
       "rank": 4,
@@ -155,14 +179,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 271858,
-      "num": 271858,
-      "word": "父亲心疼女儿被撞伤将床头柱锯掉",
-      "onboard_time": 1709569885,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264196,
       "num": 201694,
       "word": "9万粉丝英语博主因四级没过停更",
@@ -171,28 +187,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260861,
-      "num": 124964,
-      "word": "炎亚纶成江宏杰许孟哲老板",
-      "onboard_time": 1709570185,
-      "rank": 47,
-      "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 258878,
-      "num": 121655,
-      "word": "月薪上万也不舍得买鄂尔多斯",
-      "onboard_time": 1709594065,
-      "rank": 15,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 250856,
       "num": 201744,
       "word": "爱情公寓演员今昔对比",
       "onboard_time": 1709560894,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249255,
+      "num": 249255,
+      "word": "委员建议放宽35岁就业年龄限制",
+      "onboard_time": 1709555313,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247378,
@@ -211,14 +219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220818,
-      "num": 220818,
-      "word": "委员建议放宽35岁就业年龄限制",
-      "onboard_time": 1709555313,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209291,
       "num": 191503,
       "word": "郭碧婷来浪姐了",
@@ -227,11 +227,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177938,
+      "raw_hot": 191698,
       "num": 172170,
       "word": "杭州姑娘翻出60克金饰卖了3万元",
       "onboard_time": 1709567253,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189610,
+      "num": 163231,
+      "word": "惊蛰为啥吃梨",
+      "onboard_time": 1709593824,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -241,6 +249,22 @@
       "onboard_time": 1709566172,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169768,
+      "num": 189463,
+      "word": "建议整治校园形式主义",
+      "onboard_time": 1709554054,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 163023,
+      "num": 163023,
+      "word": "校方回应教室内布满摄像头",
+      "onboard_time": 1709592021,
+      "rank": 16,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 161614,
@@ -257,6 +281,14 @@
       "onboard_time": 1709546251,
       "rank": 28,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 156310,
+      "num": 156310,
+      "word": "浪姐入浪仪式",
+      "onboard_time": 1709594608,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 155585,
@@ -283,12 +315,28 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 143014,
-      "num": 189463,
-      "word": "建议整治校园形式主义",
-      "onboard_time": 1709554054,
+      "raw_hot": 143226,
+      "num": 131839,
+      "word": "珠宝店店长称从没见过这么高的金价",
+      "onboard_time": 1709594004,
       "rank": 35,
-      "category": "教育"
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 132584,
+      "num": 132584,
+      "word": "英伟达成全球第三大市值公司",
+      "onboard_time": 1709593945,
+      "rank": 24,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 131516,
+      "num": 131516,
+      "word": "全国政协委员建议取消入住酒店必须刷脸规定",
+      "onboard_time": 1709550151,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129411,
@@ -299,20 +347,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129302,
+      "num": 129302,
+      "word": "孟美岐染了粉发",
+      "onboard_time": 1709594304,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123979,
       "num": 123979,
       "word": "已婚女生找工作有多难",
       "onboard_time": 1709557834,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120094,
-      "num": 120094,
-      "word": "校方回应教室内布满摄像头",
-      "onboard_time": 1709592021,
-      "rank": 16,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 119719,
@@ -331,14 +379,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 116327,
-      "num": 116327,
-      "word": "全国政协委员建议取消入住酒店必须刷脸规定",
-      "onboard_time": 1709550151,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112594,
       "num": 112594,
       "word": "陈丽君浪姐路透",
@@ -347,20 +387,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109369,
-      "num": 63414,
-      "word": "惊蛰为啥吃梨",
-      "onboard_time": 1709593824,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106647,
-      "num": 106647,
+      "raw_hot": 112509,
+      "num": 112509,
       "word": "阿森纳大胜",
       "onboard_time": 1709593643,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106877,
+      "num": 106877,
+      "word": "广东现在是一个巨大的水帘洞",
+      "onboard_time": 1709594427,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105018,
@@ -388,11 +428,27 @@
     },
     {
       "raw_hot": 102532,
-      "num": 63199,
+      "num": 99016,
       "word": "外交部回应外籍人员移动支付难问题",
       "onboard_time": 1709583015,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101415,
+      "num": 101415,
+      "word": "热辣滚烫延长上映",
+      "onboard_time": 1709571563,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 99809,
+      "num": 99809,
+      "word": "委员谈小学生厕所社交",
+      "onboard_time": 1709594543,
+      "rank": 30,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 98903,
@@ -411,6 +467,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 95758,
+      "num": 99992,
+      "word": "现在年轻人婚前普遍都有存款吗",
+      "onboard_time": 1709562693,
+      "rank": 40,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 93652,
       "num": 83933,
       "word": "赵今麦直播状态",
@@ -419,28 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90462,
-      "num": 90462,
-      "word": "热辣滚烫延长上映",
-      "onboard_time": 1709571563,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 89233,
-      "num": 89233,
-      "word": "现在年轻人婚前普遍都有存款吗",
-      "onboard_time": 1709562693,
-      "rank": 40,
-      "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 85192,
-      "num": 85192,
-      "word": "英伟达成全球第三大市值公司",
-      "onboard_time": 1709593945,
-      "rank": 24,
-      "category": "财经,互联网"
+      "raw_hot": 85373,
+      "num": 85373,
+      "word": "女孩公交卡掉进夹缝里司机掏出10块钱",
+      "onboard_time": 1709580256,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82771,
@@ -491,14 +539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 71963,
-      "num": 71963,
-      "word": "女孩公交卡掉进夹缝里司机掏出10块钱",
-      "onboard_time": 1709580256,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69881,
       "num": 69881,
       "word": "明星主播带不动货了",
@@ -515,28 +555,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56894,
-      "num": 56894,
+      "raw_hot": 63843,
+      "num": 63843,
       "word": "明道回应跟阮经天相像",
       "onboard_time": 1709557653,
       "rank": 45,
       "category": "电影"
     },
     {
-      "raw_hot": 51826,
-      "num": 51826,
-      "word": "珠宝店店长称从没见过这么高的金价",
-      "onboard_time": 1709594004,
-      "rank": 35,
-      "category": "社会新闻,财经"
+      "raw_hot": 57316,
+      "num": 57316,
+      "word": "建议将网络科普纳入医生评职称考核",
+      "onboard_time": 1709594723,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 51164,
-      "num": 51164,
+      "raw_hot": 57282,
+      "num": 57282,
       "word": "韩素希模特时期旧照",
       "onboard_time": 1709575879,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51521,
+      "num": 51521,
+      "word": "苹果了结加拿大电池门诉讼",
+      "onboard_time": 1709595206,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 51021,
@@ -547,12 +595,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49271,
-      "num": 40336,
+      "raw_hot": 49910,
+      "num": 49910,
       "word": "天蚕土豆直播码字一周胖三斤",
       "onboard_time": 1709574319,
       "rank": 19,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 48567,
+      "num": 48567,
+      "word": "王鹤棣王传君李雪琴拥抱",
+      "onboard_time": 1709588355,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 46375,
@@ -561,14 +617,6 @@
       "onboard_time": 1709593279,
       "rank": 42,
       "category": "美妆,运动健身"
-    },
-    {
-      "raw_hot": 43625,
-      "num": 43625,
-      "word": "王鹤棣王传君李雪琴拥抱",
-      "onboard_time": 1709588355,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 42751,
@@ -603,20 +651,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 34181,
+      "num": 379750,
+      "word": "100秒说两会",
+      "onboard_time": 1709557173,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33833,
       "num": 33833,
       "word": "牛顿我真的爱上你了",
       "onboard_time": 1709573901,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 27938,
-      "num": 379750,
-      "word": "100秒说两会",
-      "onboard_time": 1709557173,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 27103,

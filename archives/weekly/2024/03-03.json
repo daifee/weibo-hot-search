@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709594300849,
+  "endTime": 1709595293815,
   "band_list": [
     {
       "raw_hot": 2604565,
@@ -483,6 +483,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 831693,
+      "num": 831693,
+      "word": "建议取消高中学业水平考试科目",
+      "onboard_time": 1709572041,
+      "rank": 17,
+      "category": "教育,国内时政"
+    },
+    {
       "raw_hot": 830947,
       "num": 830947,
       "word": "久哲 没工作",
@@ -587,14 +595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 743811,
-      "num": 743811,
-      "word": "建议取消高中学业水平考试科目",
-      "onboard_time": 1709572041,
-      "rank": 17,
-      "category": "教育,国内时政"
-    },
-    {
       "raw_hot": 741792,
       "num": 741792,
       "word": "句句不提人句句不离人",
@@ -633,6 +633,14 @@
       "onboard_time": 1709473052,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 716256,
+      "num": 168991,
+      "word": "月薪上万也不舍得买鄂尔多斯",
+      "onboard_time": 1709594065,
+      "rank": 15,
+      "category": "时尚"
     },
     {
       "raw_hot": 715128,
@@ -1667,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396821,
+      "num": 249694,
+      "word": "蕾丝裙帘成年轻人新潮流",
+      "onboard_time": 1709564673,
+      "rank": 22,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 396722,
       "num": 396722,
       "word": "刘诗诗窦骁开机同框",
@@ -1939,6 +1955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 348942,
+      "num": 348942,
+      "word": "父亲心疼女儿被撞伤将床头柱锯掉",
+      "onboard_time": 1709569885,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348029,
       "num": 348029,
       "word": "HPV疫苗",
@@ -2017,14 +2041,6 @@
       "onboard_time": 1709387495,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 331741,
-      "num": 249694,
-      "word": "蕾丝裙帘成年轻人新潮流",
-      "onboard_time": 1709564673,
-      "rank": 22,
-      "category": "时尚"
     },
     {
       "raw_hot": 330822,
@@ -2187,6 +2203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306501,
+      "num": 166763,
+      "word": "炎亚纶成江宏杰许孟哲老板",
+      "onboard_time": 1709570185,
+      "rank": 47,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 305722,
       "num": 264429,
       "word": "一人上班老板给全家发工资",
@@ -2201,6 +2225,14 @@
       "onboard_time": 1709439269,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 304302,
+      "num": 165793,
+      "word": "两女子在秦岭服务区失联",
+      "onboard_time": 1709587875,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303750,
@@ -2224,14 +2256,6 @@
       "word": "韩国民众告别福宝",
       "onboard_time": 1709459371,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299095,
-      "num": 132377,
-      "word": "两女子在秦岭服务区失联",
-      "onboard_time": 1709587875,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2323,6 +2347,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 290653,
+      "num": 290653,
+      "word": "惊蛰",
+      "onboard_time": 1709593404,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288623,
       "num": 288623,
       "word": "肝脏好不好看这4个部位",
@@ -2336,14 +2368,6 @@
       "word": "快递员劳动加倍收入减半",
       "onboard_time": 1709522014,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287445,
-      "num": 287445,
-      "word": "惊蛰",
-      "onboard_time": 1709593404,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -2433,14 +2457,6 @@
       "onboard_time": 1709473472,
       "rank": 24,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 271858,
-      "num": 271858,
-      "word": "父亲心疼女儿被撞伤将床头柱锯掉",
-      "onboard_time": 1709569885,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 270731,
@@ -2563,28 +2579,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260861,
-      "num": 124964,
-      "word": "炎亚纶成江宏杰许孟哲老板",
-      "onboard_time": 1709570185,
-      "rank": 47,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 259948,
       "num": 259948,
       "word": "建议重视青少年抑郁症",
       "onboard_time": 1709542832,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 258878,
-      "num": 121655,
-      "word": "月薪上万也不舍得买鄂尔多斯",
-      "onboard_time": 1709594065,
-      "rank": 15,
-      "category": "时尚"
     },
     {
       "raw_hot": 258805,
@@ -3547,6 +3547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191698,
+      "num": 172170,
+      "word": "杭州姑娘翻出60克金饰卖了3万元",
+      "onboard_time": 1709567253,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191693,
       "num": 191693,
       "word": "丁程鑫晒照祝宋亚轩生日快乐",
@@ -3577,6 +3585,14 @@
       "onboard_time": 1709475632,
       "rank": 40,
       "category": "美食,健康医疗"
+    },
+    {
+      "raw_hot": 189610,
+      "num": 163231,
+      "word": "惊蛰为啥吃梨",
+      "onboard_time": 1709593824,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189139,
@@ -3809,14 +3825,6 @@
       "onboard_time": 1709476172,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 177938,
-      "num": 172170,
-      "word": "杭州姑娘翻出60克金饰卖了3万元",
-      "onboard_time": 1709567253,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177824,
@@ -4091,6 +4099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163023,
+      "num": 163023,
+      "word": "校方回应教室内布满摄像头",
+      "onboard_time": 1709592021,
+      "rank": 16,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 162877,
       "num": 162877,
       "word": "耳帝评周处除三害插曲",
@@ -4233,6 +4249,14 @@
       "onboard_time": 1709543732,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 156310,
+      "num": 156310,
+      "word": "浪姐入浪仪式",
+      "onboard_time": 1709594608,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 155906,
@@ -4651,6 +4675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 143226,
+      "num": 131839,
+      "word": "珠宝店店长称从没见过这么高的金价",
+      "onboard_time": 1709594004,
+      "rank": 35,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 143132,
       "num": 143132,
       "word": "原帅三分大赛冠军",
@@ -4963,6 +4995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132584,
+      "num": 132584,
+      "word": "英伟达成全球第三大市值公司",
+      "onboard_time": 1709593945,
+      "rank": 24,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 130936,
       "num": 130936,
       "word": "陶喆演唱会大合唱的魅力",
@@ -5049,6 +5089,14 @@
       "onboard_time": 1709436571,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 129302,
+      "num": 129302,
+      "word": "孟美岐染了粉发",
+      "onboard_time": 1709594304,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 129258,
@@ -5299,14 +5347,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 120094,
-      "num": 120094,
-      "word": "校方回应教室内布满摄像头",
-      "onboard_time": 1709592021,
-      "rank": 16,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 118664,
       "num": 118664,
       "word": "王净戏份",
@@ -5427,6 +5467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112509,
+      "num": 112509,
+      "word": "阿森纳大胜",
+      "onboard_time": 1709593643,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112209,
       "num": 196114,
       "word": "浙江90后女孩嫁给70后大叔",
@@ -5499,14 +5547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109369,
-      "num": 63414,
-      "word": "惊蛰为啥吃梨",
-      "onboard_time": 1709593824,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107308,
       "num": 301687,
       "word": "拄着盲杖他说可以没视力不能没眼光",
@@ -5523,6 +5563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106877,
+      "num": 106877,
+      "word": "广东现在是一个巨大的水帘洞",
+      "onboard_time": 1709594427,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106856,
       "num": 106856,
       "word": "恋爱兄妹",
@@ -5537,14 +5585,6 @@
       "onboard_time": 1709440828,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 106647,
-      "num": 106647,
-      "word": "阿森纳大胜",
-      "onboard_time": 1709593643,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 106346,
@@ -5620,7 +5660,7 @@
     },
     {
       "raw_hot": 102532,
-      "num": 63199,
+      "num": 99016,
       "word": "外交部回应外籍人员移动支付难问题",
       "onboard_time": 1709583015,
       "rank": 41,
@@ -5643,12 +5683,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 101415,
+      "num": 101415,
+      "word": "热辣滚烫延长上映",
+      "onboard_time": 1709571563,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101119,
       "num": 101119,
       "word": "五美组合将重组",
       "onboard_time": 1709407277,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99809,
+      "num": 99809,
+      "word": "委员谈小学生厕所社交",
+      "onboard_time": 1709594543,
+      "rank": 30,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 97876,
@@ -5707,14 +5763,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 90462,
-      "num": 90462,
-      "word": "热辣滚烫延长上映",
-      "onboard_time": 1709571563,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 89159,
       "num": 617405,
       "word": "成都蓉城凤凰山首秀球迷自发清理垃圾",
@@ -5747,12 +5795,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 85192,
-      "num": 85192,
-      "word": "英伟达成全球第三大市值公司",
-      "onboard_time": 1709593945,
-      "rank": 24,
-      "category": "财经,互联网"
+      "raw_hot": 85373,
+      "num": 85373,
+      "word": "女孩公交卡掉进夹缝里司机掏出10块钱",
+      "onboard_time": 1709580256,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84570,
@@ -5793,14 +5841,6 @@
       "onboard_time": 1709481210,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71963,
-      "num": 71963,
-      "word": "女孩公交卡掉进夹缝里司机掏出10块钱",
-      "onboard_time": 1709580256,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70425,
@@ -5883,12 +5923,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 57316,
+      "num": 57316,
+      "word": "建议将网络科普纳入医生评职称考核",
+      "onboard_time": 1709594723,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57315,
       "num": 57315,
       "word": "迈阿密国际vs奥兰多城",
       "onboard_time": 1709421500,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57282,
+      "num": 57282,
+      "word": "韩素希模特时期旧照",
+      "onboard_time": 1709575879,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 57031,
@@ -5947,20 +6003,12 @@
       "category": "互联网,艺人"
     },
     {
-      "raw_hot": 51826,
-      "num": 51826,
-      "word": "珠宝店店长称从没见过这么高的金价",
-      "onboard_time": 1709594004,
-      "rank": 35,
-      "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 51164,
-      "num": 51164,
-      "word": "韩素希模特时期旧照",
-      "onboard_time": 1709575879,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 51521,
+      "num": 51521,
+      "word": "苹果了结加拿大电池门诉讼",
+      "onboard_time": 1709595206,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 51119,
@@ -5971,6 +6019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 49910,
+      "num": 49910,
+      "word": "天蚕土豆直播码字一周胖三斤",
+      "onboard_time": 1709574319,
+      "rank": 19,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 49629,
       "num": 49629,
       "word": "陈卓璇的古装",
@@ -5979,12 +6035,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49271,
-      "num": 40336,
-      "word": "天蚕土豆直播码字一周胖三斤",
-      "onboard_time": 1709574319,
-      "rank": 19,
-      "category": "读书作家"
+      "raw_hot": 48567,
+      "num": 48567,
+      "word": "王鹤棣王传君李雪琴拥抱",
+      "onboard_time": 1709588355,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 48495,
@@ -6033,14 +6089,6 @@
       "onboard_time": 1709495956,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 43625,
-      "num": 43625,
-      "word": "王鹤棣王传君李雪琴拥抱",
-      "onboard_time": 1709588355,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 41349,
@@ -6099,6 +6147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34181,
+      "num": 379750,
+      "word": "100秒说两会",
+      "onboard_time": 1709557173,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 33833,
       "num": 33833,
       "word": "牛顿我真的爱上你了",
@@ -6129,14 +6185,6 @@
       "onboard_time": 1709487859,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27938,
-      "num": 379750,
-      "word": "100秒说两会",
-      "onboard_time": 1709557173,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 27084,
