@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709590547222,
+  "endTime": 1709591650096,
   "band_list": [
     {
       "raw_hot": 2604565,
@@ -2227,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296635,
+      "num": 296635,
+      "word": "建议取消高中学业水平考试科目",
+      "onboard_time": 1709572041,
+      "rank": 17,
+      "category": "教育,国内时政"
+    },
+    {
       "raw_hot": 295828,
       "num": 295828,
       "word": "王一博机场",
@@ -2433,14 +2441,6 @@
       "onboard_time": 1709467351,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266099,
-      "num": 266099,
-      "word": "建议取消高中学业水平考试科目",
-      "onboard_time": 1709572041,
-      "rank": 17,
-      "category": "教育,国内时政"
     },
     {
       "raw_hot": 265991,
@@ -5587,6 +5587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 101900,
+      "num": 48177,
+      "word": "两女子在秦岭服务区失联",
+      "onboard_time": 1709587875,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101119,
       "num": 101119,
       "word": "五美组合将重组",
@@ -5763,6 +5771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 63026,
+      "num": 26993,
+      "word": "外交部回应外籍人员移动支付难问题",
+      "onboard_time": 1709583015,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61849,
       "num": 61849,
       "word": "伊能静56岁生图",
@@ -5809,14 +5825,6 @@
       "onboard_time": 1709421500,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57204,
-      "num": 19606,
-      "word": "两女子在秦岭服务区失联",
-      "onboard_time": 1709587875,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57031,
@@ -5873,14 +5881,6 @@
       "onboard_time": 1709453248,
       "rank": 31,
       "category": "互联网,艺人"
-    },
-    {
-      "raw_hot": 51755,
-      "num": 19574,
-      "word": "外交部回应外籍人员移动支付难问题",
-      "onboard_time": 1709583015,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 51119,
@@ -6051,6 +6051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27353,
+      "num": 27353,
+      "word": "王鹤棣王传君李雪琴拥抱",
+      "onboard_time": 1709588355,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27084,
       "num": 33592,
       "word": "有一种叫云南的生活",
@@ -6073,6 +6081,14 @@
       "onboard_time": 1709450852,
       "rank": 36,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 25291,
+      "num": 25291,
+      "word": "李一桐民国护士形象",
+      "onboard_time": 1709577318,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 25179,
@@ -6123,27 +6139,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 21340,
-      "num": 21340,
-      "word": "李一桐民国护士形象",
-      "onboard_time": 1709577318,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 20781,
-      "num": 20781,
-      "word": "王鹤棣王传君李雪琴拥抱",
-      "onboard_time": 1709588355,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 20369,
       "num": 20663,
       "word": "诺丁汉森林0比1利物浦",
       "onboard_time": 1709489119,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 19503,
+      "num": 19503,
+      "word": "你长高了我长胖了",
+      "onboard_time": 1709589736,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -6163,20 +6171,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 15965,
+      "num": 19275,
+      "word": "正确玩手机的7个姿势",
+      "onboard_time": 1709584395,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 15597,
       "num": 15597,
       "word": "哈圈刻板印象",
       "onboard_time": 1709409018,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14650,
-      "num": 14959,
-      "word": "正确玩手机的7个姿势",
-      "onboard_time": 1709584395,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 14636,
@@ -6195,12 +6203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13223,
-      "num": 14957,
-      "word": "你长高了我长胖了",
-      "onboard_time": 1709589736,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 13723,
+      "num": 19221,
+      "word": "腿上长猫猫",
+      "onboard_time": 1709591358,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 12927,

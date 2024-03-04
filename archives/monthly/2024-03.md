@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/03/01 00:20:40 ~ 2024/03/05 06:15:47
+本榜单时间：2024/03/01 00:20:40 ~ 2024/03/05 06:34:10
 </p>
 </blockquote>
 <p>
@@ -3309,6 +3309,12 @@ MEGA售价（热度：316285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E9%AB%98%E4%B8%AD%E5%AD%A6%E4%B8%9A%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%23" target="weibo">
+建议取消高中学业水平考试科目（热度：296635）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9C%BA%E5%9C%BA%23" target="weibo">
 王一博机场（热度：295828）
 </a>
@@ -3623,12 +3629,6 @@ MEGA售价（热度：316285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%A2%AB%E6%A2%A6%E6%B3%AA%E8%B8%A2%E5%87%BA%E7%9B%B4%E6%92%AD%E9%97%B4%23" target="weibo">
 王者荣耀被梦泪踢出直播间（热度：266304）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E9%AB%98%E4%B8%AD%E5%AD%A6%E4%B8%9A%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%23" target="weibo">
-建议取消高中学业水平考试科目（热度：266099）
 </a>
 </li>
 
