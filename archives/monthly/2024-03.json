@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709569387343,
+  "endTime": 1709570241019,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -1499,6 +1499,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 681075,
+      "num": 355546,
+      "word": "他才4岁已经懂得了分别的滋味",
+      "onboard_time": 1709567372,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 680605,
       "num": 277538,
       "word": "双休6千单休8千",
@@ -1593,14 +1601,6 @@
       "onboard_time": 1709348970,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 661553,
-      "num": 355546,
-      "word": "他才4岁已经懂得了分别的滋味",
-      "onboard_time": 1709567372,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 660776,
@@ -1723,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 639593,
+      "num": 206881,
+      "word": "浪五开场 主播癫狂带货感",
+      "onboard_time": 1709566950,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 638478,
       "num": 638478,
       "word": "福宝在韩展出最后一天",
@@ -1753,14 +1761,6 @@
       "onboard_time": 1709248464,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 634343,
-      "num": 206881,
-      "word": "浪五开场 主播癫狂带货感",
-      "onboard_time": 1709566950,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 634049,
@@ -5043,6 +5043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 251925,
+      "num": 249694,
+      "word": "蕾丝裙帘成年轻人新潮流",
+      "onboard_time": 1709564673,
+      "rank": 22,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 251848,
       "num": 251848,
       "word": "DQ联名 排队",
@@ -5065,14 +5073,6 @@
       "onboard_time": 1709286750,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 249694,
-      "num": 249694,
-      "word": "蕾丝裙帘成年轻人新潮流",
-      "onboard_time": 1709564673,
-      "rank": 22,
-      "category": "时尚"
     },
     {
       "raw_hot": 249381,
@@ -9555,6 +9555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 129411,
+      "num": 129411,
+      "word": "全智贤仪态",
+      "onboard_time": 1709568030,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129369,
       "num": 129369,
       "word": "小玖孙尚香四杀",
@@ -9985,14 +9993,6 @@
       "onboard_time": 1709364815,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120914,
-      "num": 120914,
-      "word": "全智贤仪态",
-      "onboard_time": 1709568030,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 120913,
@@ -10675,6 +10675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 103095,
+      "num": 103095,
+      "word": "张予曦演过铠甲勇士",
+      "onboard_time": 1709568928,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102923,
       "num": 102923,
       "word": "烟火人家番外",
@@ -11003,14 +11011,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 85063,
-      "num": 85063,
-      "word": "张予曦演过铠甲勇士",
-      "onboard_time": 1709568928,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84570,
       "num": 264265,
       "word": "这车忒好看忍不住为TA喊个麦",
@@ -11201,6 +11201,14 @@
       "onboard_time": 1709252432,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 64164,
+      "num": 64164,
+      "word": "炎亚纶成江宏杰许孟哲老板",
+      "onboard_time": 1709570185,
+      "rank": 47,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 63144,

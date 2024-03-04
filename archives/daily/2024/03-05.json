@@ -1,6 +1,6 @@
 {
   "startTime": 1709569387343,
-  "endTime": 1709569387343,
+  "endTime": 1709570241019,
   "band_list": [
     {
       "raw_hot": 1203303,
@@ -19,7 +19,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 661553,
+      "raw_hot": 681075,
       "num": 355546,
       "word": "他才4岁已经懂得了分别的滋味",
       "onboard_time": 1709567372,
@@ -27,7 +27,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 634343,
+      "raw_hot": 639593,
       "num": 206881,
       "word": "浪五开场 主播癫狂带货感",
       "onboard_time": 1709566950,
@@ -123,6 +123,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 251925,
+      "num": 203071,
+      "word": "蕾丝裙帘成年轻人新潮流",
+      "onboard_time": 1709564673,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 250856,
       "num": 201744,
       "word": "爱情公寓演员今昔对比",
@@ -137,14 +145,6 @@
       "onboard_time": 1709564017,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244666,
-      "num": 203071,
-      "word": "蕾丝裙帘成年轻人新潮流",
-      "onboard_time": 1709564673,
-      "rank": 19,
-      "category": "时尚"
     },
     {
       "raw_hot": 237064,
@@ -235,6 +235,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 129411,
+      "num": 129411,
+      "word": "全智贤仪态",
+      "onboard_time": 1709568030,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 123979,
       "num": 123979,
       "word": "已婚女生找工作有多难",
@@ -243,20 +251,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120914,
-      "num": 120914,
-      "word": "全智贤仪态",
-      "onboard_time": 1709568030,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 119719,
       "num": 96252,
       "word": "杨幂IP地址先回家了",
       "onboard_time": 1709553693,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 119608,
+      "num": 189463,
+      "word": "建议整治校园形式主义",
+      "onboard_time": 1709554054,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 117278,
@@ -275,12 +283,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105018,
+      "num": 105018,
+      "word": "JackeyLove赛后发博",
+      "onboard_time": 1709558252,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103545,
       "num": 95380,
       "word": "陈泽迟到",
       "onboard_time": 1709559272,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103095,
+      "num": 103095,
+      "word": "张予曦演过铠甲勇士",
+      "onboard_time": 1709568928,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 98903,
@@ -291,28 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98176,
-      "num": 98176,
-      "word": "建议整治校园形式主义",
-      "onboard_time": 1709554054,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
       "raw_hot": 96558,
       "num": 96558,
       "word": "真正还原美貌的化妆",
       "onboard_time": 1709565575,
       "rank": 36,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 93721,
-      "num": 93721,
-      "word": "JackeyLove赛后发博",
-      "onboard_time": 1709558252,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 93652,
@@ -329,14 +337,6 @@
       "onboard_time": 1709562693,
       "rank": 40,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 85063,
-      "num": 85063,
-      "word": "张予曦演过铠甲勇士",
-      "onboard_time": 1709568928,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 82771,
@@ -371,6 +371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 75931,
+      "num": 75931,
+      "word": "难哄路透",
+      "onboard_time": 1709548653,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75330,
       "num": 75330,
       "word": "及时止损 做回自己",
@@ -379,16 +387,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 73773,
-      "num": 73773,
-      "word": "难哄路透",
-      "onboard_time": 1709548653,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 66301,
-      "num": 66301,
+      "raw_hot": 74113,
+      "num": 74113,
       "word": "全国政协委员建议取消入住酒店必须刷脸规定",
       "onboard_time": 1709550151,
       "rank": 48,
@@ -401,11 +401,22 @@
       "onboard_time": 1709557955,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64164,
+      "num": 64164,
+      "word": "炎亚纶成江宏杰许孟哲老板",
+      "onboard_time": 1709570185,
+      "rank": 47,
+      "category": "艺人,体育"
     }
   ],
   "hotgov_list": [
     {
       "word": "#念兹在兹不负人民#"
+    },
+    {
+      "word": "#习近平的两会妙喻#"
     }
   ]
 }
