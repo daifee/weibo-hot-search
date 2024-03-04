@@ -1,6 +1,6 @@
 {
   "startTime": 1709482797196,
-  "endTime": 1709527822313,
+  "endTime": 1709528416146,
   "band_list": [
     {
       "raw_hot": 2604565,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1396682,
+      "num": 369367,
+      "word": "周杰伦昆凌2岁女儿的画",
+      "onboard_time": 1709526933,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1251363,
       "num": 1251363,
       "word": "福宝",
@@ -43,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1051032,
-      "num": 1051032,
+      "raw_hot": 1158014,
+      "num": 1158014,
       "word": "赵露思说小时候吴昕对她很好",
       "onboard_time": 1709525854,
       "rank": 1,
@@ -57,14 +65,6 @@
       "onboard_time": 1709510369,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 968792,
-      "num": 369367,
-      "word": "周杰伦昆凌2岁女儿的画",
-      "onboard_time": 1709526933,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 953676,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 788232,
+      "num": 788232,
+      "word": "1天内9家车企宣布降价",
+      "onboard_time": 1709524894,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 786116,
       "num": 786116,
       "word": "郭敬明点赞回应程潇",
@@ -137,14 +145,6 @@
       "onboard_time": 1709511753,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 769240,
-      "num": 769240,
-      "word": "1天内9家车企宣布降价",
-      "onboard_time": 1709524894,
-      "rank": 4,
-      "category": "汽车"
     },
     {
       "raw_hot": 750812,
@@ -208,6 +208,14 @@
       "word": "何小鹏建议允许夜间低速无人驾驶",
       "onboard_time": 1709522251,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 646835,
+      "num": 646835,
+      "word": "建议把课间十分钟还给学生",
+      "onboard_time": 1709526933,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -435,20 +443,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 367298,
+      "num": 321676,
+      "word": "表达力太差建议看纪录片",
+      "onboard_time": 1709523933,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 366815,
       "num": 282425,
       "word": "小孩请不要为打翻的牛奶哭泣",
       "onboard_time": 1709518409,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 364891,
-      "num": 364891,
-      "word": "建议把课间十分钟还给学生",
-      "onboard_time": 1709526933,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 353293,
@@ -481,14 +489,6 @@
       "onboard_time": 1709512654,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 331893,
-      "num": 321676,
-      "word": "表达力太差建议看纪录片",
-      "onboard_time": 1709523933,
-      "rank": 31,
-      "category": "科学科普"
     },
     {
       "raw_hot": 329087,
@@ -547,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303750,
+      "num": 303750,
+      "word": "闪耀暖暖 好看",
+      "onboard_time": 1709527295,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 296893,
       "num": 296893,
       "word": "唐探2 那可是杨谨华诶",
@@ -579,11 +587,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275839,
+      "num": 275839,
+      "word": "为防甲状腺癌这些坏习惯趁早改",
+      "onboard_time": 1709526515,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 269037,
       "num": 269037,
       "word": "代表建议正当防卫考虑合理情绪",
       "onboard_time": 1709514573,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265991,
+      "num": 265991,
+      "word": "建议推动年轻人配置个人养老金",
+      "onboard_time": 1709526335,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -595,22 +619,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 257608,
-      "num": 257608,
-      "word": "建议推动年轻人配置个人养老金",
-      "onboard_time": 1709526335,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252712,
-      "num": 252712,
-      "word": "为防甲状腺癌这些坏习惯趁早改",
-      "onboard_time": 1709526515,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 240062,
       "num": 240062,
       "word": "京东将普及第三方商品包邮",
@@ -619,20 +627,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 236162,
+      "num": 236162,
+      "word": "黄景瑜王子奇二搭",
+      "onboard_time": 1709526992,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235466,
       "num": 235466,
       "word": "建议机场建设不能贪大求全",
       "onboard_time": 1709515470,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234252,
-      "num": 234252,
-      "word": "黄景瑜王子奇二搭",
-      "onboard_time": 1709526992,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 221476,
@@ -665,14 +673,6 @@
       "onboard_time": 1709523213,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 216168,
-      "num": 216168,
-      "word": "闪耀暖暖 好看",
-      "onboard_time": 1709527295,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 213735,
@@ -723,7 +723,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189274,
+      "raw_hot": 191749,
       "num": 189274,
       "word": "邓紫棋长沙 抢票",
       "onboard_time": 1709527416,
@@ -995,6 +995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135436,
+      "num": 135436,
+      "word": "电影灿烂的她预售开启",
+      "onboard_time": 1709527656,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 134993,
       "num": 134993,
       "word": "尹子维新片尺度",
@@ -1024,14 +1032,6 @@
       "word": "电影堡垒定档",
       "onboard_time": 1709524953,
       "rank": 43,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 128668,
-      "num": 128668,
-      "word": "电影灿烂的她预售开启",
-      "onboard_time": 1709527656,
-      "rank": 45,
       "category": "电影"
     },
     {
@@ -1107,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109953,
+      "num": 109953,
+      "word": "用AI复活亲人已形成产业链",
+      "onboard_time": 1709528317,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108507,
       "num": 123979,
       "word": "吴艳妮2024首秀8秒12",
@@ -1161,6 +1169,14 @@
       "onboard_time": 1709476172,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 99835,
+      "num": 370569,
+      "word": "一生要强的中国雨洁",
+      "onboard_time": 1709526874,
+      "rank": 11,
+      "category": "美妆"
     },
     {
       "raw_hot": 95875,
@@ -1225,14 +1241,6 @@
       "onboard_time": 1709478032,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 79066,
-      "num": 370569,
-      "word": "一生要强的中国雨洁",
-      "onboard_time": 1709526874,
-      "rank": 11,
-      "category": "美妆"
     },
     {
       "raw_hot": 76504,

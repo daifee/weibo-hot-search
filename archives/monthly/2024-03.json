@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709527822313,
+  "endTime": 1709528416146,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -363,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1396682,
+      "num": 369367,
+      "word": "周杰伦昆凌2岁女儿的画",
+      "onboard_time": 1709526933,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1387781,
       "num": 937720,
       "word": "硕士学历二胎宝妈投84份简历面试为0",
@@ -483,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1158014,
+      "num": 1158014,
+      "word": "赵露思说小时候吴昕对她很好",
+      "onboard_time": 1709525854,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1148592,
       "num": 1148592,
       "word": "韩国民众排队4个小时告别福宝",
@@ -569,14 +585,6 @@
       "onboard_time": 1709386475,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1051032,
-      "num": 1051032,
-      "word": "赵露思说小时候吴昕对她很好",
-      "onboard_time": 1709525854,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1044248,
@@ -681,14 +689,6 @@
       "onboard_time": 1709427206,
       "rank": 12,
       "category": "美食"
-    },
-    {
-      "raw_hot": 968792,
-      "num": 369367,
-      "word": "周杰伦昆凌2岁女儿的画",
-      "onboard_time": 1709526933,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 968460,
@@ -931,6 +931,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 788232,
+      "num": 788232,
+      "word": "1天内9家车企宣布降价",
+      "onboard_time": 1709524894,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 786116,
       "num": 786116,
       "word": "郭敬明点赞回应程潇",
@@ -1001,14 +1009,6 @@
       "onboard_time": 1709278590,
       "rank": 3,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 769240,
-      "num": 769240,
-      "word": "1天内9家车企宣布降价",
-      "onboard_time": 1709524894,
-      "rank": 4,
-      "category": "汽车"
     },
     {
       "raw_hot": 768152,
@@ -1408,6 +1408,14 @@
       "word": "何小鹏建议允许夜间低速无人驾驶",
       "onboard_time": 1709522251,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 646835,
+      "num": 646835,
+      "word": "建议把课间十分钟还给学生",
+      "onboard_time": 1709526933,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -3083,6 +3091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367298,
+      "num": 321676,
+      "word": "表达力太差建议看纪录片",
+      "onboard_time": 1709523933,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 366815,
       "num": 282425,
       "word": "小孩请不要为打翻的牛奶哭泣",
@@ -3104,14 +3120,6 @@
       "word": "河南一村靠种番茄大龄剩男全脱单",
       "onboard_time": 1709373692,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 364891,
-      "num": 364891,
-      "word": "建议把课间十分钟还给学生",
-      "onboard_time": 1709526933,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -3427,14 +3435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331893,
-      "num": 321676,
-      "word": "表达力太差建议看纪录片",
-      "onboard_time": 1709523933,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 330822,
       "num": 330822,
       "word": "决定断亲后妈妈好像有点慌了",
@@ -3721,6 +3721,14 @@
       "onboard_time": 1709439269,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303750,
+      "num": 303750,
+      "word": "闪耀暖暖 好看",
+      "onboard_time": 1709527295,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 299362,
@@ -4011,6 +4019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275839,
+      "num": 275839,
+      "word": "为防甲状腺癌这些坏习惯趁早改",
+      "onboard_time": 1709526515,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 275697,
       "num": 275697,
       "word": "奶奶不懂抑郁却懂得如何爱你",
@@ -4163,6 +4179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 265991,
+      "num": 265991,
+      "word": "建议推动年轻人配置个人养老金",
+      "onboard_time": 1709526335,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265818,
       "num": 257696,
       "word": "我妈把亲戚的工作搞丢了",
@@ -4275,14 +4299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 257608,
-      "num": 257608,
-      "word": "建议推动年轻人配置个人养老金",
-      "onboard_time": 1709526335,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 255931,
       "num": 208766,
       "word": "周星驰将为新片女足海选素人",
@@ -4321,14 +4337,6 @@
       "onboard_time": 1709424565,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252712,
-      "num": 252712,
-      "word": "为防甲状腺癌这些坏习惯趁早改",
-      "onboard_time": 1709526515,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 252265,
@@ -4563,6 +4571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 236162,
+      "num": 236162,
+      "word": "黄景瑜王子奇二搭",
+      "onboard_time": 1709526992,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235661,
       "num": 235661,
       "word": "高君雨",
@@ -4593,14 +4609,6 @@
       "onboard_time": 1709379272,
       "rank": 17,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 234252,
-      "num": 234252,
-      "word": "黄景瑜王子奇二搭",
-      "onboard_time": 1709526992,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 234077,
@@ -4825,14 +4833,6 @@
       "onboard_time": 1709268756,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 216168,
-      "num": 216168,
-      "word": "闪耀暖暖 好看",
-      "onboard_time": 1709527295,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 215610,
@@ -5731,6 +5731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191749,
+      "num": 189274,
+      "word": "邓紫棋长沙 抢票",
+      "onboard_time": 1709527416,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190861,
       "num": 126070,
       "word": "崔杋圭solo舞台",
@@ -5793,14 +5801,6 @@
       "onboard_time": 1709290473,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 189274,
-      "num": 189274,
-      "word": "邓紫棋长沙 抢票",
-      "onboard_time": 1709527416,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 188964,
@@ -7859,6 +7859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135436,
+      "num": 135436,
+      "word": "电影灿烂的她预售开启",
+      "onboard_time": 1709527656,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135246,
       "num": 135246,
       "word": "Scout4500助攻",
@@ -8153,14 +8161,6 @@
       "onboard_time": 1709370628,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128668,
-      "num": 128668,
-      "word": "电影灿烂的她预售开启",
-      "onboard_time": 1709527656,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 128475,
@@ -8883,6 +8883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109953,
+      "num": 109953,
+      "word": "用AI复活亲人已形成产业链",
+      "onboard_time": 1709528317,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109789,
       "num": 109789,
       "word": "创造营亚洲",
@@ -9089,6 +9097,14 @@
       "onboard_time": 1709407277,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99835,
+      "num": 370569,
+      "word": "一生要强的中国雨洁",
+      "onboard_time": 1709526874,
+      "rank": 11,
+      "category": "美妆"
     },
     {
       "raw_hot": 99815,
@@ -9385,14 +9401,6 @@
       "onboard_time": 1709223868,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 79066,
-      "num": 370569,
-      "word": "一生要强的中国雨洁",
-      "onboard_time": 1709526874,
-      "rank": 11,
-      "category": "美妆"
     },
     {
       "raw_hot": 78955,
