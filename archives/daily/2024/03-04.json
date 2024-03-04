@@ -1,18 +1,18 @@
 {
   "startTime": 1709482797196,
-  "endTime": 1709521370592,
+  "endTime": 1709521884451,
   "band_list": [
     {
-      "raw_hot": 1841169,
-      "num": 1841169,
+      "raw_hot": 1968978,
+      "num": 1968978,
       "word": "建议全面取消基层医疗门诊报销起付线",
       "onboard_time": 1709518469,
       "rank": 0,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1193999,
-      "num": 1193999,
+      "raw_hot": 1251363,
+      "num": 1251363,
       "word": "福宝",
       "onboard_time": 1709515411,
       "rank": 21,
@@ -131,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 648566,
+      "num": 648566,
+      "word": "队长鹿晗合作新歌",
+      "onboard_time": 1709520808,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 633252,
       "num": 520969,
       "word": "本周狗屎运最旺的星座",
@@ -163,6 +171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 610108,
+      "num": 610108,
+      "word": "中国姨姨特意到韩国接福宝",
+      "onboard_time": 1709520210,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 568985,
       "num": 568985,
       "word": "不背单词 我还没打卡",
@@ -171,12 +187,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 563875,
-      "num": 563875,
+      "raw_hot": 567594,
+      "num": 567594,
       "word": "白敬亭起诉黑粉侵权",
       "onboard_time": 1709519969,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 567386,
+      "num": 567386,
+      "word": "代表建议建立大学生网络游戏防沉迷机制",
+      "onboard_time": 1709519488,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 555276,
@@ -188,7 +212,7 @@
     },
     {
       "raw_hot": 535074,
-      "num": 400140,
+      "num": 457005,
       "word": "新款iPad和Mac或本周发布",
       "onboard_time": 1709515350,
       "rank": 34,
@@ -209,14 +233,6 @@
       "onboard_time": 1709477616,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 525037,
-      "num": 525037,
-      "word": "代表建议建立大学生网络游戏防沉迷机制",
-      "onboard_time": 1709519488,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 515791,
@@ -243,12 +259,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 466476,
+      "num": 466476,
+      "word": "李雪琴王建国 藏头诗表演",
+      "onboard_time": 1709520270,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 464349,
       "num": 464349,
       "word": "人总是会反复爱上阮经天",
       "onboard_time": 1709509406,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 455626,
+      "num": 455626,
+      "word": "肖战工作室新增电影摄制服务",
+      "onboard_time": 1709520808,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 447881,
@@ -265,22 +297,6 @@
       "onboard_time": 1709515771,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 420691,
-      "num": 420691,
-      "word": "中国姨姨特意到韩国接福宝",
-      "onboard_time": 1709520210,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 402168,
-      "num": 402168,
-      "word": "肖战工作室新增电影摄制服务",
-      "onboard_time": 1709520808,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 396722,
@@ -315,24 +331,8 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 380883,
-      "num": 380883,
-      "word": "队长鹿晗合作新歌",
-      "onboard_time": 1709520808,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 371236,
-      "num": 371236,
-      "word": "李雪琴王建国 藏头诗表演",
-      "onboard_time": 1709520270,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 366815,
-      "num": 257371,
+      "num": 265232,
       "word": "小孩请不要为打翻的牛奶哭泣",
       "onboard_time": 1709518409,
       "rank": 21,
@@ -419,6 +419,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289981,
+      "num": 289981,
+      "word": "电影间谍过家家确认引进",
+      "onboard_time": 1709521351,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 279247,
+      "num": 262077,
+      "word": "肝脏好不好看这4个部位",
+      "onboard_time": 1709520450,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 269037,
       "num": 269037,
       "word": "代表建议正当防卫考虑合理情绪",
@@ -441,14 +457,6 @@
       "onboard_time": 1709515470,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232763,
-      "num": 232763,
-      "word": "肝脏好不好看这4个部位",
-      "onboard_time": 1709520450,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 221476,
@@ -481,14 +489,6 @@
       "onboard_time": 1709511030,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199388,
-      "num": 199388,
-      "word": "电影间谍过家家确认引进",
-      "onboard_time": 1709521351,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 197474,
@@ -547,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176692,
+      "num": 176692,
+      "word": "全红婵3个10分",
+      "onboard_time": 1709520689,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176382,
       "num": 176382,
       "word": "内地买家扫货香港楼市",
@@ -569,14 +577,6 @@
       "onboard_time": 1709450432,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 173908,
-      "num": 173908,
-      "word": "全红婵3个10分",
-      "onboard_time": 1709520689,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 171444,
@@ -659,12 +659,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 145317,
+      "num": 145317,
+      "word": "元PLUS荣耀版11.98万元起",
+      "onboard_time": 1709521289,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 144660,
       "num": 144660,
       "word": "台湾海巡艇被目击与大陆海警船并行",
       "onboard_time": 1709472092,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 144090,
+      "num": 144090,
+      "word": "长期使用减肥神药的风险",
+      "onboard_time": 1709517868,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 143930,
@@ -731,14 +747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 125079,
-      "num": 125079,
-      "word": "长期使用减肥神药的风险",
-      "onboard_time": 1709517868,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 122799,
       "num": 122799,
       "word": "这一抱硬控我10秒",
@@ -787,12 +795,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113424,
-      "num": 113424,
-      "word": "元PLUS荣耀版11.98万元起",
-      "onboard_time": 1709521289,
-      "rank": 49,
-      "category": "汽车"
+      "raw_hot": 118498,
+      "num": 118498,
+      "word": "律师解读员工下班打广告算加班吗",
+      "onboard_time": 1709521772,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112672,
