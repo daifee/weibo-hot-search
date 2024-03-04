@@ -1,6 +1,6 @@
 {
   "startTime": 1709569387343,
-  "endTime": 1709584542772,
+  "endTime": 1709586951882,
   "band_list": [
     {
       "raw_hot": 1203303,
@@ -443,6 +443,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 43422,
+      "num": 14192,
+      "word": "外交部回应外籍人员移动支付难问题",
+      "onboard_time": 1709583015,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41349,
       "num": 41349,
       "word": "2024乘风破浪",
@@ -515,14 +523,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 25596,
-      "num": 14192,
-      "word": "外交部回应外籍人员移动支付难问题",
-      "onboard_time": 1709583015,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 25179,
       "num": 25179,
       "word": "MINJI和HANNI舞蹈挑战",
@@ -547,20 +547,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19299,
+      "num": 19299,
+      "word": "女孩公交卡掉进夹缝里司机掏出10块钱",
+      "onboard_time": 1709580256,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18512,
       "num": 21437,
       "word": "宋茜出发巴黎时装周",
       "onboard_time": 1709574379,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 15746,
-      "num": 15746,
-      "word": "女孩公交卡掉进夹缝里司机掏出10块钱",
-      "onboard_time": 1709580256,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14636,
@@ -571,12 +571,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 8876,
+      "raw_hot": 11022,
       "num": 11791,
       "word": "正确玩手机的7个姿势",
       "onboard_time": 1709584395,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 8983,
+      "num": 11002,
+      "word": "随机送陌生人一台一次性相机",
+      "onboard_time": 1709586735,
+      "rank": 48,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
