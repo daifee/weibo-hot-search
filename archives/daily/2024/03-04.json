@@ -1,6 +1,6 @@
 {
   "startTime": 1709482797196,
-  "endTime": 1709538357772,
+  "endTime": 1709547160882,
   "band_list": [
     {
       "raw_hot": 2604565,
@@ -27,6 +27,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1565391,
+      "num": 292952,
+      "word": "何老师 不能不喜欢自己",
+      "onboard_time": 1709541210,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1470670,
       "num": 1470670,
       "word": "韩国7千名离岗医生将被吊销执照",
@@ -41,6 +49,14 @@
       "onboard_time": 1709526933,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1319841,
+      "num": 1319841,
+      "word": "为何说今年是十四五的关键一年",
+      "onboard_time": 1709543372,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1251363,
@@ -91,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 877626,
+      "num": 292529,
+      "word": "女儿回应53岁老妈给25岁的自己生了个弟弟",
+      "onboard_time": 1709542353,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 874576,
       "num": 368450,
       "word": "阮经天 好生气可还是要保持围笑",
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 846005,
-      "num": 282251,
+      "num": 283766,
       "word": "全智贤到上海了",
       "onboard_time": 1709535087,
       "rank": 11,
@@ -323,6 +347,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 590490,
+      "num": 590490,
+      "word": "建议大学每500名学生配1名心理教师",
+      "onboard_time": 1709541569,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 590067,
       "num": 271660,
       "word": "赌王三太70大寿近照",
@@ -379,6 +411,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 531846,
+      "num": 290549,
+      "word": "派出所回应女子买茅台遭死亡威胁",
+      "onboard_time": 1709541751,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 528656,
       "num": 528656,
       "word": "陈芋汐10米台冠军",
@@ -411,12 +451,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505253,
+      "num": 288474,
+      "word": "刘诗诗 大女主",
+      "onboard_time": 1709544035,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 494719,
       "num": 350329,
       "word": "怪不得没见过云南籍清冷学霸",
       "onboard_time": 1709479173,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 486889,
+      "num": 286839,
+      "word": "章若楠温以凡路透",
+      "onboard_time": 1709541028,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 466476,
@@ -467,6 +523,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 447623,
+      "num": 286259,
+      "word": "郑晓龙给肖战讲戏",
+      "onboard_time": 1709542889,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 435962,
       "num": 435962,
       "word": "建议农民养老金统一上调",
@@ -491,6 +555,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 407200,
+      "num": 407200,
+      "word": "1元纸币上的女拖拉机手今年91了",
+      "onboard_time": 1709545831,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397678,
+      "num": 397678,
+      "word": "福宝回国将落户神树坪",
+      "onboard_time": 1709540672,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396722,
       "num": 396722,
       "word": "刘诗诗窦骁开机同框",
@@ -505,6 +585,14 @@
       "onboard_time": 1709474492,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 393629,
+      "num": 256497,
+      "word": "睡前玩8分钟手机身体兴奋1小时",
+      "onboard_time": 1709546251,
+      "rank": 20,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 392935,
@@ -611,6 +699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 336721,
+      "num": 255915,
+      "word": "冷冻馒头超过3天不能吃吗",
+      "onboard_time": 1709542533,
+      "rank": 21,
+      "category": "美食,科学科普"
+    },
+    {
       "raw_hot": 333944,
       "num": 333944,
       "word": "大理寺少卿游 陈拾大boss",
@@ -624,6 +720,14 @@
       "word": "杨子黄圣依为儿子安迪庆生",
       "onboard_time": 1709513671,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 328566,
+      "num": 284252,
+      "word": "阮经天28岁就是影帝了",
+      "onboard_time": 1709540189,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -692,7 +796,7 @@
     },
     {
       "raw_hot": 299866,
-      "num": 251267,
+      "num": 252299,
       "word": "老是睡不好是不是床头放了这些",
       "onboard_time": 1709536830,
       "rank": 22,
@@ -763,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276028,
+      "num": 254116,
+      "word": "狗 我现在情绪稳定的可怕",
+      "onboard_time": 1709541869,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 275839,
       "num": 275839,
       "word": "为防甲状腺癌这些坏习惯趁早改",
@@ -787,12 +899,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264063,
+      "num": 264063,
+      "word": "于正 粉丝都是讨厌内戏的",
+      "onboard_time": 1709540428,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261165,
       "num": 261165,
       "word": "林陌 酒吧唱歌",
       "onboard_time": 1709537793,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 259948,
+      "num": 259948,
+      "word": "建议重视青少年抑郁症",
+      "onboard_time": 1709542832,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 259938,
@@ -851,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 223119,
+      "num": 223119,
+      "word": "王鹤棣桃花坞6分钟路透",
+      "onboard_time": 1709545470,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221476,
       "num": 221476,
       "word": "间谍过家家 次子吃醋",
@@ -873,6 +1009,14 @@
       "onboard_time": 1709510611,
       "rank": 29,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 219619,
+      "num": 219619,
+      "word": "知网崩了",
+      "onboard_time": 1709544572,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 218637,
@@ -905,6 +1049,30 @@
       "onboard_time": 1709526634,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211128,
+      "num": 211128,
+      "word": "油价",
+      "onboard_time": 1709546133,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 210044,
+      "num": 210044,
+      "word": "特斯拉降价无人在意",
+      "onboard_time": 1709546615,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 209538,
+      "num": 209538,
+      "word": "国家医保局回复癌症筛查纳入医保",
+      "onboard_time": 1709546311,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 206425,
@@ -971,6 +1139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195150,
+      "num": 195150,
+      "word": "优酷又来这套",
+      "onboard_time": 1709546913,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192218,
       "num": 125191,
       "word": "刘耀文卡点发博给宋亚轩庆生",
@@ -1009,6 +1185,14 @@
       "onboard_time": 1709537073,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189590,
+      "num": 189590,
+      "word": "学校教室每人头顶一个专属摄像头",
+      "onboard_time": 1709546430,
+      "rank": 33,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 186091,
@@ -1073,6 +1257,14 @@
       "onboard_time": 1709514511,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177034,
+      "num": 177034,
+      "word": "马丽主演票房进入影史前五",
+      "onboard_time": 1709546375,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 176802,
@@ -1203,6 +1395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156345,
+      "num": 156345,
+      "word": "委员建议明确规定农村妇女土地权益",
+      "onboard_time": 1709543732,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 154820,
       "num": 154820,
       "word": "女生返校为室友带60多斤特产",
@@ -1211,12 +1411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154420,
+      "num": 154420,
+      "word": "严浩翔宋亚轩拍立得",
+      "onboard_time": 1709544751,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154394,
       "num": 154394,
       "word": "你平时多久掏一次耳朵",
       "onboard_time": 1709508685,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153799,
+      "num": 153799,
+      "word": "长风破浪央八黄金档播出",
+      "onboard_time": 1709543551,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 150854,
@@ -1233,6 +1449,14 @@
       "onboard_time": 1709509226,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150061,
+      "num": 150061,
+      "word": "姚明林浩时隔16年重逢",
+      "onboard_time": 1709546550,
+      "rank": 41,
+      "category": "体育,国内时政"
     },
     {
       "raw_hot": 149091,
@@ -1273,6 +1497,14 @@
       "onboard_time": 1709516489,
       "rank": 40,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 145514,
+      "num": 145514,
+      "word": "这居然是宫崎骏",
+      "onboard_time": 1709545352,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 145362,
@@ -1371,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136294,
+      "num": 136294,
+      "word": "外交部驳斥雷蒙多称中方能让在美中国汽车熄火",
+      "onboard_time": 1709543669,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 135807,
       "num": 135807,
       "word": "原来大家的生活和工作都分不开",
@@ -1401,6 +1641,22 @@
       "onboard_time": 1709524416,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133561,
+      "num": 133561,
+      "word": "宋亚轩个人网站",
+      "onboard_time": 1709539710,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133297,
+      "num": 123786,
+      "word": "张真源给宋亚轩的生日祝福",
+      "onboard_time": 1709545711,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 130936,
@@ -1435,12 +1691,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 125224,
+      "num": 125224,
+      "word": "油价年内第三次上调",
+      "onboard_time": 1709546972,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 124265,
+      "num": 124265,
+      "word": "无刺草鱼口感怎么样",
+      "onboard_time": 1709547089,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124117,
       "num": 124117,
       "word": "ChatGPT论文修改指令",
       "onboard_time": 1709537972,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 123257,
+      "num": 123257,
+      "word": "奎八EASYchallenge",
+      "onboard_time": 1709543613,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 122799,
@@ -1561,6 +1841,14 @@
       "onboard_time": 1709467893,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107308,
+      "num": 296081,
+      "word": "拄着盲杖他说可以没视力不能没眼光",
+      "onboard_time": 1709545831,
+      "rank": 8,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 107233,
@@ -1755,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60494,
+      "num": 625356,
+      "word": "十四届全国人大二次会议议程",
+      "onboard_time": 1709539409,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59760,
       "num": 59760,
       "word": "福登世界波",
@@ -1934,6 +2230,9 @@
   "hotgov_list": [
     {
       "word": "#悠悠万事民生为大#"
+    },
+    {
+      "word": "#习近平的两会妙喻#"
     }
   ]
 }
