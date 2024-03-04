@@ -1,6 +1,6 @@
 {
   "startTime": 1709482797196,
-  "endTime": 1709553684766,
+  "endTime": 1709555973880,
   "band_list": [
     {
       "raw_hot": 2604565,
@@ -27,8 +27,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1665708,
+      "num": 308456,
+      "word": "00后开始拒绝月经羞耻",
+      "onboard_time": 1709552372,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1565391,
-      "num": 298338,
+      "num": 301164,
       "word": "何老师 不能不喜欢自己",
       "onboard_time": 1709541210,
       "rank": 10,
@@ -51,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1334555,
+      "num": 307443,
+      "word": "郭碧婷来浪姐了",
+      "onboard_time": 1709553274,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1319841,
       "num": 1319841,
       "word": "为何说今年是十四五的关键一年",
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 1246341,
-      "num": 262749,
+      "num": 306248,
       "word": "9万粉丝英语博主因四级没过停更",
       "onboard_time": 1709549133,
       "rank": 10,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 1136608,
-      "num": 466595,
+      "num": 754984,
       "word": "海底捞宣布将推加盟特许经营模式",
       "onboard_time": 1709550213,
       "rank": 3,
@@ -115,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1014268,
+      "num": 1014268,
+      "word": "建议整治校园形式主义",
+      "onboard_time": 1709554054,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 953676,
       "num": 953676,
       "word": "姜爷爷宋爷爷哭成泪人",
@@ -129,14 +153,6 @@
       "onboard_time": 1709542353,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 876050,
-      "num": 259991,
-      "word": "00后开始拒绝月经羞耻",
-      "onboard_time": 1709552372,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 874576,
@@ -217,6 +233,14 @@
       "onboard_time": 1709511753,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 760373,
+      "num": 760373,
+      "word": "金价又上涨了",
+      "onboard_time": 1709550632,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 754950,
@@ -355,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 623733,
+      "num": 305146,
+      "word": "25岁规培生医院内自杀身亡遗书疑曝光",
+      "onboard_time": 1709554653,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 618821,
       "num": 618821,
       "word": "谢谢你温暖我定档",
@@ -364,7 +396,7 @@
     },
     {
       "raw_hot": 618186,
-      "num": 257267,
+      "num": 290150,
       "word": "明星主播带不动货了",
       "onboard_time": 1709547751,
       "rank": 12,
@@ -393,14 +425,6 @@
       "onboard_time": 1709528495,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 581688,
-      "num": 581688,
-      "word": "金价又上涨了",
-      "onboard_time": 1709550632,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 572405,
@@ -467,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 530333,
+      "num": 304451,
+      "word": "陈赫张子萱带大女儿逛街",
+      "onboard_time": 1709552432,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 528656,
       "num": 528656,
       "word": "陈芋汐10米台冠军",
@@ -481,14 +513,6 @@
       "onboard_time": 1709477616,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 521405,
-      "num": 256566,
-      "word": "陈赫张子萱带大女儿逛街",
-      "onboard_time": 1709552432,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 519696,
@@ -548,7 +572,7 @@
     },
     {
       "raw_hot": 481976,
-      "num": 254971,
+      "num": 299197,
       "word": "28岁找工作被嫌弃年龄大",
       "onboard_time": 1709551770,
       "rank": 14,
@@ -635,6 +659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 432808,
+      "num": 302298,
+      "word": "王鹤棣爆改王大锤",
+      "onboard_time": 1709554591,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 411172,
       "num": 411172,
       "word": "全国政协委员建议取消入住酒店必须刷脸规定",
@@ -652,7 +684,7 @@
     },
     {
       "raw_hot": 398224,
-      "num": 247888,
+      "num": 277256,
       "word": "难哄路透",
       "onboard_time": 1709548653,
       "rank": 18,
@@ -673,14 +705,6 @@
       "onboard_time": 1709517749,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 396065,
-      "num": 249607,
-      "word": "郭碧婷来浪姐了",
-      "onboard_time": 1709553274,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 395337,
@@ -705,6 +729,22 @@
       "onboard_time": 1709481571,
       "rank": 17,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 392352,
+      "num": 299947,
+      "word": "陈丽君浪姐路透",
+      "onboard_time": 1709553874,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 373442,
+      "num": 373442,
+      "word": "委员建议放宽35岁就业年龄限制",
+      "onboard_time": 1709555313,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 370458,
@@ -745,6 +785,14 @@
       "onboard_time": 1709529573,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 356843,
+      "num": 298278,
+      "word": "体脂率下降的小习惯",
+      "onboard_time": 1709553991,
+      "rank": 19,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 353561,
@@ -891,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 311963,
+      "num": 311963,
+      "word": "霍启刚建议建设粤港澳体育湾区",
+      "onboard_time": 1709552551,
+      "rank": 26,
+      "category": "体育,国内时政"
+    },
+    {
       "raw_hot": 308732,
       "num": 308732,
       "word": "宣璐掌心女二",
@@ -923,6 +979,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 297431,
+      "num": 297431,
+      "word": "杨幂IP地址先回家了",
+      "onboard_time": 1709553693,
+      "rank": 20,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 296893,
       "num": 296893,
       "word": "唐探2 那可是杨谨华诶",
@@ -953,14 +1017,6 @@
       "onboard_time": 1709520450,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 288403,
-      "num": 244178,
-      "word": "霍启刚建议建设粤港澳体育湾区",
-      "onboard_time": 1709552551,
-      "rank": 26,
-      "category": "体育,国内时政"
     },
     {
       "raw_hot": 287679,
@@ -1091,6 +1147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 241766,
+      "num": 241766,
+      "word": "适合一个人住的48平独居小屋",
+      "onboard_time": 1709552850,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241452,
       "num": 241452,
       "word": "建议考研初试借鉴高考统一命题",
@@ -1153,14 +1217,6 @@
       "onboard_time": 1709553573,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229210,
-      "num": 187076,
-      "word": "适合一个人住的48平独居小屋",
-      "onboard_time": 1709552850,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 226614,
@@ -1307,8 +1363,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199768,
+      "num": 199768,
+      "word": "JackeyLove斯莫德",
+      "onboard_time": 1709554712,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199535,
-      "num": 186746,
+      "num": 199213,
       "word": "找到了健身房的平替",
       "onboard_time": 1709551713,
       "rank": 31,
@@ -1515,6 +1579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 173270,
+      "num": 173270,
+      "word": "巴黎奥运会乒乓球团体参赛队伍确定",
+      "onboard_time": 1709551291,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171444,
       "num": 171444,
       "word": "A股",
@@ -1529,6 +1601,14 @@
       "onboard_time": 1709473291,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170544,
+      "num": 170544,
+      "word": "冷冻食品可千万别直接下锅",
+      "onboard_time": 1709554773,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 170362,
@@ -1667,20 +1747,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152993,
+      "num": 152993,
+      "word": "孙千曾为陈靖可抱不平",
+      "onboard_time": 1709555612,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151979,
       "num": 151979,
       "word": "当主人对小狗说被公司开除了",
       "onboard_time": 1709553516,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151497,
-      "num": 151497,
-      "word": "巴黎奥运会乒乓球团体参赛队伍确定",
-      "onboard_time": 1709551291,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 150854,
@@ -1785,6 +1865,14 @@
       "onboard_time": 1709521289,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 145167,
+      "num": 145167,
+      "word": "猫屁股翘到可以顶一瓶汽水",
+      "onboard_time": 1709553991,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 144780,
@@ -1971,6 +2059,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128160,
+      "num": 128160,
+      "word": "贺峻霖给宋亚轩的生日文案",
+      "onboard_time": 1709553813,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126799,
+      "num": 126799,
+      "word": "为何自带杯买咖啡推广不起来",
+      "onboard_time": 1709555556,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 126510,
+      "num": 126510,
+      "word": "代表建议降低火车飞机票退改签费率",
+      "onboard_time": 1709555252,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126064,
       "num": 126064,
       "word": "南京人爱吃的七头一脑降价了",
@@ -2057,6 +2169,14 @@
       "onboard_time": 1709521772,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117449,
+      "num": 117449,
+      "word": "这才是HR认可的空窗期理由",
+      "onboard_time": 1709555733,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 116455,
@@ -2473,6 +2593,14 @@
       "onboard_time": 1709490497,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 24471,
+      "num": 756718,
+      "word": "人大工作高质量发展迈出新步伐",
+      "onboard_time": 1709539109,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21985,
