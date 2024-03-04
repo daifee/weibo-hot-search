@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709559253524,
+  "endTime": 1709561753637,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -603,6 +603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1099041,
+      "num": 388902,
+      "word": "南湘回国",
+      "onboard_time": 1709556991,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1093995,
       "num": 1093995,
       "word": "迪丽热巴三月录制综艺",
@@ -715,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1014131,
+      "num": 326120,
+      "word": "鞍山地震",
+      "onboard_time": 1709559756,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1011459,
       "num": 1011459,
       "word": "新确认一位慰安妇制度受害幸存者",
@@ -777,6 +793,14 @@
       "onboard_time": 1709434411,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 966320,
+      "num": 386670,
+      "word": "已婚女生找工作有多难",
+      "onboard_time": 1709557834,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 954570,
@@ -1803,12 +1827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 611385,
-      "num": 388902,
-      "word": "南湘回国",
-      "onboard_time": 1709556991,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 609241,
+      "num": 321902,
+      "word": "陈泽迟到",
+      "onboard_time": 1709559272,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 608108,
@@ -2331,6 +2355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 512683,
+      "num": 512683,
+      "word": "建议允许职工积累假期兑换小长假",
+      "onboard_time": 1709557955,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512352,
       "num": 320142,
       "word": "以为很卫生其实很脏的行为",
@@ -2340,7 +2372,7 @@
     },
     {
       "raw_hot": 510234,
-      "num": 303946,
+      "num": 312383,
       "word": "睡前玩8分钟手机身体兴奋1小时",
       "onboard_time": 1709546251,
       "rank": 20,
@@ -2483,12 +2515,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 486251,
+      "num": 312857,
+      "word": "睡前长期玩手机可能让你变丑",
+      "onboard_time": 1709560651,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 485796,
       "num": 485796,
       "word": "娃哈哈",
       "onboard_time": 1709361629,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485753,
+      "num": 485753,
+      "word": "苹果推M3芯片版MacBookAir",
+      "onboard_time": 1709560414,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 483968,
@@ -2955,14 +3003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 421335,
-      "num": 386670,
-      "word": "已婚女生找工作有多难",
-      "onboard_time": 1709557834,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 420691,
       "num": 420691,
       "word": "韩国摄影师镜头下的杨幂",
@@ -3033,6 +3073,14 @@
       "onboard_time": 1709442330,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 413760,
+      "num": 319729,
+      "word": "宋亚轩什么弹幕都敢念",
+      "onboard_time": 1709560954,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 411467,
@@ -3531,6 +3579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 354931,
+      "num": 319729,
+      "word": "赵今麦直播状态",
+      "onboard_time": 1709556149,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354381,
       "num": 310260,
       "word": "杨幂看秀座位",
@@ -3995,14 +4051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 319729,
-      "num": 319729,
-      "word": "赵今麦直播状态",
-      "onboard_time": 1709556149,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 319582,
       "num": 319582,
       "word": "梅西梅开二度",
@@ -4129,6 +4177,14 @@
       "onboard_time": 1709255670,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 310936,
+      "num": 310936,
+      "word": "爱情公寓演员今昔对比",
+      "onboard_time": 1709560894,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 308732,
@@ -5187,14 +5243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235852,
-      "num": 397212,
-      "word": "建议允许职工积累假期兑换小长假",
-      "onboard_time": 1709557955,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235661,
       "num": 235661,
       "word": "高君雨",
@@ -5257,6 +5305,14 @@
       "onboard_time": 1709553573,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230499,
+      "num": 230499,
+      "word": "JackeyLove赛后发博",
+      "onboard_time": 1709558252,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 229693,
@@ -5801,14 +5857,6 @@
       "onboard_time": 1709259452,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208146,
-      "num": 202125,
-      "word": "JackeyLove赛后发博",
-      "onboard_time": 1709558252,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 207929,
@@ -6635,6 +6683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189139,
+      "num": 189139,
+      "word": "原来小时候就懂电子ootd",
+      "onboard_time": 1709560832,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189104,
       "num": 189104,
       "word": "广东小伙把自律做成生意年入2000万",
@@ -7371,6 +7427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169902,
+      "num": 169902,
+      "word": "女神节收到的公司福利",
+      "onboard_time": 1709561493,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169785,
       "num": 169785,
       "word": "鞠婧祎姜黎非",
@@ -7963,6 +8027,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156083,
+      "num": 156083,
+      "word": "吴镇宇真是小嘴抹了鹤顶红",
+      "onboard_time": 1709560115,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155906,
+      "num": 155906,
+      "word": "B太比较真假护肤品",
+      "onboard_time": 1709559217,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 155592,
       "num": 155592,
       "word": "叶一茜晒全家福",
@@ -8123,6 +8203,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 152540,
+      "num": 152540,
+      "word": "刘诗诗叶平安妆造",
+      "onboard_time": 1709559994,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152390,
       "num": 152390,
       "word": "徐佳莹抢票",
@@ -8235,6 +8323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149334,
+      "num": 149334,
+      "word": "及时止损 做回自己",
+      "onboard_time": 1709561616,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149091,
       "num": 149091,
       "word": "吴艳妮 职业生涯的第一次世锦赛",
@@ -8345,6 +8441,14 @@
       "onboard_time": 1709408117,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147191,
+      "num": 147191,
+      "word": "王子文换发型了",
+      "onboard_time": 1709561314,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 146983,
@@ -9145,14 +9249,6 @@
       "onboard_time": 1709296052,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132684,
-      "num": 132684,
-      "word": "B太比较真假护肤品",
-      "onboard_time": 1709559217,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 132658,
