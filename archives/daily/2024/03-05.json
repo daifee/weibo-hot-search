@@ -1,6 +1,6 @@
 {
   "startTime": 1709569387343,
-  "endTime": 1709570241019,
+  "endTime": 1709572700697,
   "band_list": [
     {
       "raw_hot": 1203303,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 681075,
-      "num": 355546,
+      "num": 379188,
       "word": "他才4岁已经懂得了分别的滋味",
       "onboard_time": 1709567372,
       "rank": 3,
@@ -177,6 +177,14 @@
       "onboard_time": 1709549133,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184532,
+      "num": 79469,
+      "word": "炎亚纶成江宏杰许孟哲老板",
+      "onboard_time": 1709570185,
+      "rank": 47,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 175185,
@@ -379,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75609,
+      "num": 75609,
+      "word": "建议取消高中学业水平考试科目",
+      "onboard_time": 1709572041,
+      "rank": 17,
+      "category": "教育,国内时政"
+    },
+    {
       "raw_hot": 75330,
       "num": 75330,
       "word": "及时止损 做回自己",
@@ -395,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70889,
+      "num": 70889,
+      "word": "父亲心疼女儿被撞伤将床头柱锯掉",
+      "onboard_time": 1709569885,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65145,
       "num": 65145,
       "word": "建议允许职工积累假期兑换小长假",
@@ -403,12 +427,60 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 64164,
-      "num": 64164,
-      "word": "炎亚纶成江宏杰许孟哲老板",
-      "onboard_time": 1709570185,
+      "raw_hot": 50665,
+      "num": 50665,
+      "word": "热辣滚烫延长上映",
+      "onboard_time": 1709571563,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 35839,
+      "num": 42489,
+      "word": "网球王子 迹部景吾绝美",
+      "onboard_time": 1709571923,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 33406,
+      "num": 41687,
+      "word": "明道回应跟阮经天相像",
+      "onboard_time": 1709557653,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 29127,
+      "num": 41382,
+      "word": "吴镇宇真是小嘴抹了鹤顶红",
+      "onboard_time": 1709560115,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 27103,
+      "num": 40340,
+      "word": "钟楚曦穿暖和了",
+      "onboard_time": 1709565092,
       "rank": 47,
-      "category": "艺人,体育"
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 25601,
+      "num": 39996,
+      "word": "明星主播带不动货了",
+      "onboard_time": 1709547751,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 13753,
+      "num": 379750,
+      "word": "100秒说两会",
+      "onboard_time": 1709557173,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -417,6 +489,9 @@
     },
     {
       "word": "#习近平的两会妙喻#"
+    },
+    {
+      "word": "#习近平两会时间#"
     }
   ]
 }

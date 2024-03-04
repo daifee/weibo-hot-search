@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709570241019,
+  "endTime": 1709572700697,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -1500,7 +1500,7 @@
     },
     {
       "raw_hot": 681075,
-      "num": 355546,
+      "num": 379188,
       "word": "他才4岁已经懂得了分别的滋味",
       "onboard_time": 1709567372,
       "rank": 3,
@@ -6971,6 +6971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184532,
+      "num": 79469,
+      "word": "炎亚纶成江宏杰许孟哲老板",
+      "onboard_time": 1709570185,
+      "rank": 47,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 184493,
       "num": 184493,
       "word": "IU金泰亨MV未公开片段",
@@ -11107,6 +11115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75609,
+      "num": 75609,
+      "word": "建议取消高中学业水平考试科目",
+      "onboard_time": 1709572041,
+      "rank": 17,
+      "category": "教育,国内时政"
+    },
+    {
       "raw_hot": 74367,
       "num": 74367,
       "word": "车里的雷达已经把眼睛都闭上了",
@@ -11121,6 +11137,14 @@
       "onboard_time": 1709378853,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 70889,
+      "num": 70889,
+      "word": "父亲心疼女儿被撞伤将床头柱锯掉",
+      "onboard_time": 1709569885,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70425,
@@ -11201,14 +11225,6 @@
       "onboard_time": 1709252432,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 64164,
-      "num": 64164,
-      "word": "炎亚纶成江宏杰许孟哲老板",
-      "onboard_time": 1709570185,
-      "rank": 47,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 63144,
@@ -11435,6 +11451,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 50665,
+      "num": 50665,
+      "word": "热辣滚烫延长上映",
+      "onboard_time": 1709571563,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 49629,
       "num": 49629,
       "word": "陈卓璇的古装",
@@ -11577,6 +11601,14 @@
       "onboard_time": 1709323457,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 35839,
+      "num": 42489,
+      "word": "网球王子 迹部景吾绝美",
+      "onboard_time": 1709571923,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 34322,
@@ -11809,6 +11841,14 @@
       "onboard_time": 1709410936,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13753,
+      "num": 379750,
+      "word": "100秒说两会",
+      "onboard_time": 1709557173,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13146,
