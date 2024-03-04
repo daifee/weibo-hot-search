@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709577347280,
+  "endTime": 1709579633541,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -11475,6 +11475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49271,
+      "num": 39961,
+      "word": "天蚕土豆直播码字一周胖三斤",
+      "onboard_time": 1709574319,
+      "rank": 19,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 48495,
       "num": 48495,
       "word": "当地产大亨的土耳其外公有了中国小外孙",
@@ -11539,20 +11547,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44652,
-      "num": 39961,
-      "word": "天蚕土豆直播码字一周胖三斤",
-      "onboard_time": 1709574319,
-      "rank": 19,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 42701,
       "num": 324948,
       "word": "TVB港星保姆车揭秘",
       "onboard_time": 1709276432,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41349,
+      "num": 41349,
+      "word": "2024乘风破浪",
+      "onboard_time": 1709575280,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40860,
@@ -11633,14 +11641,6 @@
       "onboard_time": 1709573901,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 33554,
-      "num": 33554,
-      "word": "2024乘风破浪",
-      "onboard_time": 1709575280,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33468,
@@ -11811,6 +11811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 21340,
+      "num": 21340,
+      "word": "李一桐民国护士形象",
+      "onboard_time": 1709577318,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21321,
       "num": 21321,
       "word": "乘风2024你最期待谁",
@@ -11905,14 +11913,6 @@
       "onboard_time": 1709410936,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14485,
-      "num": 18759,
-      "word": "李一桐民国护士形象",
-      "onboard_time": 1709577318,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 13146,
