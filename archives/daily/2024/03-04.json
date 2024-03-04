@@ -1,6 +1,6 @@
 {
   "startTime": 1709482797196,
-  "endTime": 1709514710979,
+  "endTime": 1709516094322,
   "band_list": [
     {
       "raw_hot": 1185646,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 845569,
-      "num": 512596,
+      "num": 726673,
       "word": "吴艳妮看到了和世界高手的差距",
       "onboard_time": 1709510670,
       "rank": 10,
@@ -41,6 +41,30 @@
       "onboard_time": 1709511331,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 830769,
+      "num": 830769,
+      "word": "大三男生黄鹤楼摆摊拍照月赚8000元",
+      "onboard_time": 1709512891,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 786116,
+      "num": 786116,
+      "word": "郭敬明点赞回应程潇",
+      "onboard_time": 1709513911,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 781900,
+      "num": 781900,
+      "word": "建议增加双一流大学招收对口高职生",
+      "onboard_time": 1709511753,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 750812,
@@ -57,14 +81,6 @@
       "onboard_time": 1709472814,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 717422,
-      "num": 717422,
-      "word": "建议增加双一流大学招收对口高职生",
-      "onboard_time": 1709511753,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 697824,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 633252,
-      "num": 511070,
+      "num": 520969,
       "word": "本周狗屎运最旺的星座",
       "onboard_time": 1709510731,
       "rank": 12,
@@ -131,6 +147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 555276,
+      "num": 555276,
+      "word": "多所院校呼吁毕业生积极就业",
+      "onboard_time": 1709511810,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 528656,
       "num": 528656,
       "word": "陈芋汐10米台冠军",
@@ -153,14 +177,6 @@
       "onboard_time": 1709479051,
       "rank": 8,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 513874,
-      "num": 513874,
-      "word": "多所院校呼吁毕业生积极就业",
-      "onboard_time": 1709511810,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 508499,
@@ -195,14 +211,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 432350,
-      "num": 432350,
-      "word": "郭敬明点赞回应程潇",
-      "onboard_time": 1709513911,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 395337,
       "num": 298498,
       "word": "DYG教练 跑路",
@@ -225,14 +233,6 @@
       "onboard_time": 1709481571,
       "rank": 17,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 391534,
-      "num": 391534,
-      "word": "大三男生黄鹤楼摆摊拍照月赚8000元",
-      "onboard_time": 1709512891,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 353144,
@@ -275,6 +275,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 306971,
+      "num": 306971,
+      "word": "掌心开机",
+      "onboard_time": 1709514991,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 302389,
+      "num": 302389,
+      "word": "福宝",
+      "onboard_time": 1709515411,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296893,
       "num": 296893,
       "word": "唐探2 那可是杨谨华诶",
@@ -291,12 +307,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269037,
+      "num": 269037,
+      "word": "代表建议正当防卫考虑合理情绪",
+      "onboard_time": 1709514573,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265831,
+      "num": 265831,
+      "word": "iPhoneSE4渲染图",
+      "onboard_time": 1709514933,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 259938,
       "num": 259938,
       "word": "周处除三害",
       "onboard_time": 1709467650,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 235466,
+      "num": 235466,
+      "word": "建议机场建设不能贪大求全",
+      "onboard_time": 1709515470,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221476,
+      "num": 221476,
+      "word": "间谍过家家 次子吃醋",
+      "onboard_time": 1709514871,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 219714,
@@ -313,6 +361,14 @@
       "onboard_time": 1709512955,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 203357,
+      "num": 203357,
+      "word": "建议农民养老金统一上调",
+      "onboard_time": 1709515771,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201835,
@@ -347,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191397,
+      "num": 191397,
+      "word": "新款iPad和Mac或本周发布",
+      "onboard_time": 1709515350,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 181348,
       "num": 181348,
       "word": "苹果或发布iOS17.4特别版本",
@@ -361,6 +425,14 @@
       "onboard_time": 1709508205,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177162,
+      "num": 177162,
+      "word": "田曦薇双马尾",
+      "onboard_time": 1709514511,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 176382,
@@ -395,20 +467,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167152,
+      "num": 167152,
+      "word": "春天里的中国自带氛围感",
+      "onboard_time": 1709515649,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164671,
       "num": 164671,
       "word": "曼城vs曼联",
       "onboard_time": 1709480430,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 162962,
-      "num": 162962,
-      "word": "代表建议正当防卫考虑合理情绪",
-      "onboard_time": 1709514573,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156775,
@@ -475,20 +547,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140636,
+      "num": 140636,
+      "word": "奶茶上瘾是一种病",
+      "onboard_time": 1709515531,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 139858,
       "num": 137598,
       "word": "胡先煦背影",
       "onboard_time": 1709481450,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 139546,
-      "num": 139546,
-      "word": "田曦薇双马尾",
-      "onboard_time": 1709514511,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 139435,
