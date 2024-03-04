@@ -1,6 +1,6 @@
 {
   "startTime": 1709482797196,
-  "endTime": 1709531604945,
+  "endTime": 1709532311444,
   "band_list": [
     {
       "raw_hot": 2604565,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 722264,
+      "num": 722264,
+      "word": "建议优先对90后个人养老金账户发补贴",
+      "onboard_time": 1709529214,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 718508,
       "num": 718508,
       "word": "亚洲首富之子减肥108公斤后又胖回来了",
@@ -217,14 +225,6 @@
       "onboard_time": 1709510910,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 673461,
-      "num": 673461,
-      "word": "建议优先对90后个人养老金账户发补贴",
-      "onboard_time": 1709529214,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 653348,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536707,
+      "num": 262282,
+      "word": "女子动物园私自抱娃下车被狼逼进",
+      "onboard_time": 1709529154,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 535074,
       "num": 457005,
       "word": "新款iPad和Mac或本周发布",
@@ -409,14 +417,6 @@
       "onboard_time": 1709524953,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 448675,
-      "num": 262282,
-      "word": "女子动物园私自抱娃下车被狼逼进",
-      "onboard_time": 1709529154,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 447881,
@@ -531,6 +531,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 333944,
+      "num": 333944,
+      "word": "大理寺少卿游 陈拾大boss",
+      "onboard_time": 1709530654,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329087,
       "num": 329087,
       "word": "杨子黄圣依为儿子安迪庆生",
@@ -603,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293566,
+      "num": 236087,
+      "word": "王鹤棣刻在基因里的21分钟18分",
+      "onboard_time": 1709531553,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291544,
       "num": 291544,
       "word": "十年前种下的种子真的能开出花",
@@ -625,6 +641,14 @@
       "onboard_time": 1709522014,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286283,
+      "num": 255816,
+      "word": "万科股价大跌",
+      "onboard_time": 1709529509,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 275839,
@@ -659,28 +683,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 255816,
-      "num": 255816,
-      "word": "万科股价大跌",
-      "onboard_time": 1709529509,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 240062,
       "num": 240062,
       "word": "京东将普及第三方商品包邮",
       "onboard_time": 1709525431,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 239093,
-      "num": 239093,
-      "word": "大理寺少卿游 陈拾大boss",
-      "onboard_time": 1709530654,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 236162,
@@ -697,6 +705,14 @@
       "onboard_time": 1709515470,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229140,
+      "num": 154083,
+      "word": "午睡有个最佳时长",
+      "onboard_time": 1709532033,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 221476,
@@ -747,12 +763,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205595,
-      "num": 205595,
-      "word": "王鹤棣刻在基因里的21分钟18分",
-      "onboard_time": 1709531553,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 206425,
+      "num": 206425,
+      "word": "G社镜头下的孙千",
+      "onboard_time": 1709528735,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201835,
@@ -777,14 +793,6 @@
       "onboard_time": 1709529273,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200206,
-      "num": 200206,
-      "word": "G社镜头下的孙千",
-      "onboard_time": 1709528735,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 197474,
@@ -833,6 +841,22 @@
       "onboard_time": 1709523514,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183006,
+      "num": 183006,
+      "word": "妈妈我偷偷瞒着你做了很多事",
+      "onboard_time": 1709529035,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 181662,
+      "num": 181662,
+      "word": "被DYG穷笑了",
+      "onboard_time": 1709531792,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 181348,
@@ -889,14 +913,6 @@
       "onboard_time": 1709450432,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 173608,
-      "num": 173608,
-      "word": "妈妈我偷偷瞒着你做了很多事",
-      "onboard_time": 1709529035,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 171444,
@@ -993,6 +1009,14 @@
       "onboard_time": 1709509226,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146745,
+      "num": 146745,
+      "word": "吃药成阿根廷人新奢侈",
+      "onboard_time": 1709531432,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146128,
@@ -1131,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133797,
+      "num": 133797,
+      "word": "人不能显得太好说话",
+      "onboard_time": 1709530891,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130936,
       "num": 130936,
       "word": "陶喆演唱会大合唱的魅力",
@@ -1203,20 +1235,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 116405,
-      "num": 116405,
-      "word": "人不能显得太好说话",
-      "onboard_time": 1709530891,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 116066,
       "num": 1406282,
       "word": "9图了解人大知识点",
       "onboard_time": 1709522911,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 115524,
+      "num": 115524,
+      "word": "建议考研初试借鉴高考统一命题",
+      "onboard_time": 1709532154,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 113227,
+      "num": 113227,
+      "word": "一不小心在成都拍到了课本封面",
+      "onboard_time": 1709530830,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 112672,
@@ -1241,14 +1281,6 @@
       "onboard_time": 1709531072,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 108990,
-      "num": 108990,
-      "word": "吃药成阿根廷人新奢侈",
-      "onboard_time": 1709531432,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108507,
@@ -1315,8 +1347,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 97876,
+      "num": 97876,
+      "word": "建议中小学设非遗课程",
+      "onboard_time": 1709532274,
+      "rank": 49,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 96089,
-      "num": 820258,
+      "num": 833065,
       "word": "十四届全国人大二次会议议程抢鲜看",
       "onboard_time": 1709525374,
       "rank": 2,

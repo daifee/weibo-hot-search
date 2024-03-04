@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709531604945,
+  "endTime": 1709532311444,
   "band_list": [
     {
       "raw_hot": 2604565,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 722264,
+      "num": 722264,
+      "word": "建议优先对90后个人养老金账户发补贴",
+      "onboard_time": 1709529214,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716469,
       "num": 716469,
       "word": "钟睒睒澄清",
@@ -545,14 +553,6 @@
       "onboard_time": 1709434411,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 673461,
-      "num": 673461,
-      "word": "建议优先对90后个人养老金账户发补贴",
-      "onboard_time": 1709529214,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 669334,
@@ -835,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 536707,
+      "num": 262282,
+      "word": "女子动物园私自抱娃下车被狼逼进",
+      "onboard_time": 1709529154,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536210,
       "num": 340895,
       "word": "欲买桂花同载酒 终不似少年游",
@@ -1089,14 +1097,6 @@
       "onboard_time": 1709448930,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 448675,
-      "num": 262282,
-      "word": "女子动物园私自抱娃下车被狼逼进",
-      "onboard_time": 1709529154,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 440633,
@@ -1491,6 +1491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 333944,
+      "num": 333944,
+      "word": "大理寺少卿游 陈拾大boss",
+      "onboard_time": 1709530654,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332769,
       "num": 332769,
       "word": "王鹤棣一张机场照被4个cp嗑",
@@ -1691,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293566,
+      "num": 236087,
+      "word": "王鹤棣刻在基因里的21分钟18分",
+      "onboard_time": 1709531553,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293409,
       "num": 293409,
       "word": "点读机女孩术后进ICU观察",
@@ -1753,6 +1769,14 @@
       "onboard_time": 1709522014,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286283,
+      "num": 255816,
+      "word": "万科股价大跌",
+      "onboard_time": 1709529509,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 281106,
@@ -1907,14 +1931,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 255816,
-      "num": 255816,
-      "word": "万科股价大跌",
-      "onboard_time": 1709529509,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 254515,
       "num": 254515,
       "word": "感觉朋友圈没有以前热闹了",
@@ -2059,14 +2075,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 239093,
-      "num": 239093,
-      "word": "大理寺少卿游 陈拾大boss",
-      "onboard_time": 1709530654,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 236162,
       "num": 236162,
       "word": "黄景瑜王子奇二搭",
@@ -2105,6 +2113,14 @@
       "onboard_time": 1709376572,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 229140,
+      "num": 154083,
+      "word": "午睡有个最佳时长",
+      "onboard_time": 1709532033,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 228339,
@@ -2347,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206425,
+      "num": 206425,
+      "word": "G社镜头下的孙千",
+      "onboard_time": 1709528735,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 205997,
       "num": 205997,
       "word": "欧阳娣娣第四",
@@ -2361,14 +2385,6 @@
       "onboard_time": 1709471130,
       "rank": 29,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 205595,
-      "num": 205595,
-      "word": "王鹤棣刻在基因里的21分钟18分",
-      "onboard_time": 1709531553,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 204984,
@@ -2505,14 +2521,6 @@
       "onboard_time": 1709451931,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 200206,
-      "num": 200206,
-      "word": "G社镜头下的孙千",
-      "onboard_time": 1709528735,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 199826,
@@ -2715,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183006,
+      "num": 183006,
+      "word": "妈妈我偷偷瞒着你做了很多事",
+      "onboard_time": 1709529035,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182950,
       "num": 182950,
       "word": "WB五连胜",
@@ -2737,6 +2753,14 @@
       "onboard_time": 1709438371,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181662,
+      "num": 181662,
+      "word": "被DYG穷笑了",
+      "onboard_time": 1709531792,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 181527,
@@ -2825,14 +2849,6 @@
       "onboard_time": 1709439091,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173608,
-      "num": 173608,
-      "word": "妈妈我偷偷瞒着你做了很多事",
-      "onboard_time": 1709529035,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 171614,
@@ -3177,6 +3193,14 @@
       "onboard_time": 1709428289,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146745,
+      "num": 146745,
+      "word": "吃药成阿根廷人新奢侈",
+      "onboard_time": 1709531432,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146708,
@@ -3539,6 +3563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133797,
+      "num": 133797,
+      "word": "人不能显得太好说话",
+      "onboard_time": 1709530891,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133734,
       "num": 133734,
       "word": "岳千灵悬着的心终于死了",
@@ -3859,14 +3891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 116405,
-      "num": 116405,
-      "word": "人不能显得太好说话",
-      "onboard_time": 1709530891,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 116066,
       "num": 1406282,
       "word": "9图了解人大知识点",
@@ -3881,6 +3905,14 @@
       "onboard_time": 1709373032,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115524,
+      "num": 115524,
+      "word": "建议考研初试借鉴高考统一命题",
+      "onboard_time": 1709532154,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 115517,
@@ -3905,6 +3937,14 @@
       "onboard_time": 1709428529,
       "rank": 49,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 113227,
+      "num": 113227,
+      "word": "一不小心在成都拍到了课本封面",
+      "onboard_time": 1709530830,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 113038,
@@ -3985,14 +4025,6 @@
       "onboard_time": 1709444130,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108990,
-      "num": 108990,
-      "word": "吃药成阿根廷人新奢侈",
-      "onboard_time": 1709531432,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107233,
@@ -4083,6 +4115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97876,
+      "num": 97876,
+      "word": "建议中小学设非遗课程",
+      "onboard_time": 1709532274,
+      "rank": 49,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 97031,
       "num": 97031,
       "word": "李克勤演唱会 万人灯海",
@@ -4092,7 +4132,7 @@
     },
     {
       "raw_hot": 96089,
-      "num": 820258,
+      "num": 833065,
       "word": "十四届全国人大二次会议议程抢鲜看",
       "onboard_time": 1709525374,
       "rank": 2,
