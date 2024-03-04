@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709562960280,
+  "endTime": 1709565532651,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -739,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1009362,
+      "num": 1009362,
+      "word": "建议增加年轻人年假天数",
+      "onboard_time": 1709562816,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1009185,
       "num": 1009185,
       "word": "戚薇疑似救场浪姐",
@@ -1259,6 +1267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 721958,
+      "num": 295786,
+      "word": "杜海涛给吴昕取了新外号",
+      "onboard_time": 1709563114,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 721010,
       "num": 297093,
       "word": "姥姥去世一周后妈妈发的信息",
@@ -1321,6 +1337,14 @@
       "onboard_time": 1709200170,
       "rank": 9,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 709238,
+      "num": 312857,
+      "word": "睡前长期玩手机可能让你变丑",
+      "onboard_time": 1709560651,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 709201,
@@ -1441,14 +1465,6 @@
       "onboard_time": 1709361270,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 683106,
-      "num": 312857,
-      "word": "睡前长期玩手机可能让你变丑",
-      "onboard_time": 1709560651,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 682521,
@@ -1779,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 622090,
+      "num": 294029,
+      "word": "iPad什么时候出",
+      "onboard_time": 1709562576,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 620533,
       "num": 540322,
       "word": "杨幂总裁出街",
@@ -2033,6 +2057,22 @@
       "onboard_time": 1709545831,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 569237,
+      "num": 522846,
+      "word": "爱情公寓演员今昔对比",
+      "onboard_time": 1709560894,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 568952,
+      "num": 568952,
+      "word": "贵女男主",
+      "onboard_time": 1709564017,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 567594,
@@ -2321,14 +2361,6 @@
       "onboard_time": 1709271874,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 522846,
-      "num": 522846,
-      "word": "爱情公寓演员今昔对比",
-      "onboard_time": 1709560894,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 521173,
@@ -3219,6 +3251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397783,
+      "num": 397783,
+      "word": "三月将要播的电视剧",
+      "onboard_time": 1709563892,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 397678,
       "num": 397678,
       "word": "福宝回国将落户神树坪",
@@ -3897,6 +3937,14 @@
       "onboard_time": 1709530654,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333455,
+      "num": 333455,
+      "word": "女子刮彩票中一辆车没发现扭头就走",
+      "onboard_time": 1709563835,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332769,
@@ -4987,6 +5035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 249694,
+      "num": 249694,
+      "word": "蕾丝裙帘成年轻人新潮流",
+      "onboard_time": 1709564673,
+      "rank": 22,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 249381,
       "num": 249381,
       "word": "热辣滚烫票房破34亿",
@@ -5691,14 +5747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213575,
-      "num": 213575,
-      "word": "iPad什么时候出",
-      "onboard_time": 1709562576,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 213238,
       "num": 213238,
       "word": "IU演唱会嘉宾RIIZE",
@@ -6388,7 +6436,7 @@
     },
     {
       "raw_hot": 197634,
-      "num": 187897,
+      "num": 197287,
       "word": "现在年轻人婚前普遍都有存款吗",
       "onboard_time": 1709562693,
       "rank": 30,
@@ -7467,6 +7515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 170288,
+      "num": 170288,
+      "word": "钟楚曦穿暖和了",
+      "onboard_time": 1709565092,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 170154,
       "num": 170154,
       "word": "爱的另一个名字叫聊得来",
@@ -7625,14 +7681,6 @@
       "onboard_time": 1709351550,
       "rank": 35,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 166679,
-      "num": 166679,
-      "word": "建议增加年轻人年假天数",
-      "onboard_time": 1709562816,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166313,
@@ -7843,6 +7891,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161694,
+      "num": 161694,
+      "word": "练背把减肥的含金量拉满了",
+      "onboard_time": 1709565034,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 161626,
+      "num": 161626,
+      "word": "宋亚轩再现孔雀东南飞",
+      "onboard_time": 1709562995,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161386,
       "num": 161386,
       "word": "林一首部上星男主剧",
@@ -7873,6 +7937,14 @@
       "onboard_time": 1709537910,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161160,
+      "num": 161160,
+      "word": "白衣爆料DYG新教练十六",
+      "onboard_time": 1709564253,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 161140,
@@ -8329,6 +8401,14 @@
       "onboard_time": 1709478032,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 150769,
+      "num": 150769,
+      "word": "苏醒 老歌手的日常",
+      "onboard_time": 1709565331,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 150613,
