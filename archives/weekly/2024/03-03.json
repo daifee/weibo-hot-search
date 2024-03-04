@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709573641043,
+  "endTime": 1709576423891,
   "band_list": [
     {
       "raw_hot": 2604565,
@@ -2435,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266099,
+      "num": 266099,
+      "word": "建议取消高中学业水平考试科目",
+      "onboard_time": 1709572041,
+      "rank": 17,
+      "category": "教育,国内时政"
+    },
+    {
       "raw_hot": 265991,
       "num": 265991,
       "word": "建议推动年轻人配置个人养老金",
@@ -2929,14 +2937,6 @@
       "onboard_time": 1709441851,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222200,
-      "num": 222200,
-      "word": "建议取消高中学业水平考试科目",
-      "onboard_time": 1709572041,
-      "rank": 17,
-      "category": "教育,国内时政"
     },
     {
       "raw_hot": 221476,
@@ -5539,6 +5539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104097,
+      "num": 104097,
+      "word": "父亲心疼女儿被撞伤将床头柱锯掉",
+      "onboard_time": 1709569885,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103733,
       "num": 370569,
       "word": "一生要强的中国雨洁",
@@ -5697,14 +5705,6 @@
       "onboard_time": 1709566533,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 76753,
-      "num": 76753,
-      "word": "父亲心疼女儿被撞伤将床头柱锯掉",
-      "onboard_time": 1709569885,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76502,
@@ -5931,6 +5931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39279,
+      "num": 42489,
+      "word": "网球王子 迹部景吾绝美",
+      "onboard_time": 1709571923,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 38189,
       "num": 184744,
       "word": "什么是电子OOTD",
@@ -5947,14 +5955,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 37458,
-      "num": 42489,
-      "word": "网球王子 迹部景吾绝美",
-      "onboard_time": 1709571923,
-      "rank": 44,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 37391,
       "num": 296434,
       "word": "唐嫣漫游巴黎日记",
@@ -5963,10 +5963,34 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 36123,
+      "num": 36123,
+      "word": "天蚕土豆直播码字一周胖三斤",
+      "onboard_time": 1709574319,
+      "rank": 19,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 34322,
       "num": 27425,
       "word": "港星李焯宁44岁状态",
       "onboard_time": 1709410217,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 33833,
+      "num": 33833,
+      "word": "牛顿我真的爱上你了",
+      "onboard_time": 1709573901,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 31349,
+      "num": 31349,
+      "word": "韩素希模特时期旧照",
+      "onboard_time": 1709575879,
       "rank": 30,
       "category": "艺人"
     },
@@ -6019,6 +6043,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 25179,
+      "num": 25179,
+      "word": "MINJI和HANNI舞蹈挑战",
+      "onboard_time": 1709574199,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 24710,
       "num": 23579,
       "word": "剪5分钟头陪演戏1小时",
@@ -6033,6 +6065,14 @@
       "onboard_time": 1709490497,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 23895,
+      "num": 23895,
+      "word": "林允普拉提",
+      "onboard_time": 1709574499,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 21985,
@@ -6051,12 +6091,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20649,
+      "num": 21448,
+      "word": "2024乘风破浪",
+      "onboard_time": 1709575280,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20369,
       "num": 20663,
       "word": "诺丁汉森林0比1利物浦",
       "onboard_time": 1709489119,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18512,
+      "num": 21437,
+      "word": "宋茜出发巴黎时装周",
+      "onboard_time": 1709574379,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 18066,
