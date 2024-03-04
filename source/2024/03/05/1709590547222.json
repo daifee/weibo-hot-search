@@ -1,0 +1,410 @@
+{
+  "runTime": 1709590547222,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 189667,
+        "num": 189667,
+        "word": "建议取消高中学业水平考试科目",
+        "onboard_time": 1709572041,
+        "rank": 0,
+        "category": "教育,国内时政"
+      },
+      {
+        "raw_hot": 111510,
+        "num": 111510,
+        "word": "女子刮彩票中一辆车没发现扭头就走",
+        "onboard_time": 1709563835,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10248,
+        "num": 76489,
+        "word": "100秒说两会",
+        "onboard_time": 1709557173,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163698,
+        "num": 74966,
+        "word": "他才4岁已经懂得了分别的滋味",
+        "onboard_time": 1709567372,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68714,
+        "num": 68714,
+        "word": "父亲心疼女儿被撞伤将床头柱锯掉",
+        "onboard_time": 1709569885,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53626,
+        "num": 53626,
+        "word": "委员建议放宽35岁就业年龄限制",
+        "onboard_time": 1709555313,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40688,
+        "num": 40688,
+        "word": "建议增加年轻人年假天数",
+        "onboard_time": 1709562816,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39456,
+        "num": 39456,
+        "word": "建议整治校园形式主义",
+        "onboard_time": 1709554054,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 39160,
+        "num": 39160,
+        "word": "女孩公交卡掉进夹缝里司机掏出10块钱",
+        "onboard_time": 1709580256,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36199,
+        "num": 36199,
+        "word": "全国政协委员建议取消入住酒店必须刷脸规定",
+        "onboard_time": 1709550151,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178131,
+        "num": 36127,
+        "word": "浪五开场 主播癫狂带货感",
+        "onboard_time": 1709566950,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69597,
+        "num": 35262,
+        "word": "蕾丝裙帘成年轻人新潮流",
+        "onboard_time": 1709564673,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 63489,
+        "num": 34708,
+        "word": "炎亚纶成江宏杰许孟哲老板",
+        "onboard_time": 1709570185,
+        "rank": 12,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 62925,
+        "num": 34052,
+        "word": "9万粉丝英语博主因四级没过停更",
+        "onboard_time": 1709549133,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42892,
+        "num": 33193,
+        "word": "王鹤棣爆改王大锤",
+        "onboard_time": 1709554591,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32666,
+        "num": 32666,
+        "word": "海底捞宣布将推加盟特许经营模式",
+        "onboard_time": 1709550213,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31302,
+        "num": 31302,
+        "word": "28岁找工作被嫌弃年龄大",
+        "onboard_time": 1709551770,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31158,
+        "num": 31158,
+        "word": "体脂率下降的小习惯",
+        "onboard_time": 1709553991,
+        "rank": 17,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 29823,
+        "num": 29823,
+        "word": "三月将要播的电视剧",
+        "onboard_time": 1709563892,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24139,
+        "num": 24139,
+        "word": "苹果推M3芯片版MacBookAir",
+        "onboard_time": 1709560414,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 48703,
+        "num": 24111,
+        "word": "杭州姑娘翻出60克金饰卖了3万元",
+        "onboard_time": 1709567253,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45940,
+        "num": 23814,
+        "word": "睡前长期玩手机可能让你变丑",
+        "onboard_time": 1709560651,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 26001,
+        "num": 23671,
+        "word": "现在年轻人婚前普遍都有存款吗",
+        "onboard_time": 1709562693,
+        "rank": 22,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 23259,
+        "num": 23259,
+        "word": "明星主播带不动货了",
+        "onboard_time": 1709547751,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22893,
+        "num": 22893,
+        "word": "鞍山地震",
+        "onboard_time": 1709559756,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21211,
+        "num": 21211,
+        "word": "天蚕土豆直播码字一周胖三斤",
+        "onboard_time": 1709574319,
+        "rank": 25,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 21098,
+        "num": 21098,
+        "word": "热辣滚烫延长上映",
+        "onboard_time": 1709571563,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20864,
+        "num": 20864,
+        "word": "练背把减肥的含金量拉满了",
+        "onboard_time": 1709565034,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 20781,
+        "num": 20781,
+        "word": "王鹤棣王传君李雪琴拥抱",
+        "onboard_time": 1709588355,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19984,
+        "num": 19984,
+        "word": "金价又上涨了",
+        "onboard_time": 1709550632,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 57204,
+        "num": 19606,
+        "word": "两女子在秦岭服务区失联",
+        "onboard_time": 1709587875,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51755,
+        "num": 19574,
+        "word": "外交部回应外籍人员移动支付难问题",
+        "onboard_time": 1709583015,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18949,
+        "num": 18949,
+        "word": "睡前玩8分钟手机身体兴奋1小时",
+        "onboard_time": 1709546251,
+        "rank": 32,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 18519,
+        "num": 18519,
+        "word": "韩素希模特时期旧照",
+        "onboard_time": 1709575879,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18132,
+        "num": 18132,
+        "word": "2024乘风破浪",
+        "onboard_time": 1709575280,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17905,
+        "num": 17905,
+        "word": "李一桐民国护士形象",
+        "onboard_time": 1709577318,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17417,
+        "num": 17417,
+        "word": "iPad什么时候出",
+        "onboard_time": 1709562576,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17351,
+        "num": 17351,
+        "word": "明道回应跟阮经天相像",
+        "onboard_time": 1709557653,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16718,
+        "num": 16718,
+        "word": "已婚女生找工作有多难",
+        "onboard_time": 1709557834,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16251,
+        "num": 16251,
+        "word": "全国两会五大看点",
+        "onboard_time": 1709552432,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15805,
+        "num": 15805,
+        "word": "JackeyLove赛后发博",
+        "onboard_time": 1709558252,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15663,
+        "num": 15663,
+        "word": "吴镇宇真是小嘴抹了鹤顶红",
+        "onboard_time": 1709560115,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15054,
+        "num": 15054,
+        "word": "为何说今年是十四五的关键一年",
+        "onboard_time": 1709543372,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14979,
+        "num": 14979,
+        "word": "陈丽君浪姐路透",
+        "onboard_time": 1709553874,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14959,
+        "num": 14959,
+        "word": "全智贤仪态",
+        "onboard_time": 1709568030,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14650,
+        "num": 14959,
+        "word": "正确玩手机的7个姿势",
+        "onboard_time": 1709584395,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 13477,
+        "num": 14958,
+        "word": "真正还原美貌的化妆",
+        "onboard_time": 1709565575,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 13223,
+        "num": 14957,
+        "word": "你长高了我长胖了",
+        "onboard_time": 1709589736,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12951,
+        "num": 14955,
+        "word": "难哄路透",
+        "onboard_time": 1709548653,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12927,
+        "num": 14955,
+        "word": "随机送陌生人一台一次性相机",
+        "onboard_time": 1709586735,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会妙喻#"
+    }
+  }
+}
