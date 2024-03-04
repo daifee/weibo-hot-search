@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709566459610,
+  "endTime": 1709569387343,
   "band_list": [
     {
       "raw_hot": 2604565,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1203303,
+      "num": 207354,
+      "word": "刘心悠你在干嘛",
+      "onboard_time": 1709566351,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1185646,
       "num": 1185646,
       "word": "00后新警认出嫌疑人后嘴角上扬",
@@ -395,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 882849,
+      "num": 882849,
+      "word": "女子刮彩票中一辆车没发现扭头就走",
+      "onboard_time": 1709563835,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 877626,
       "num": 296784,
       "word": "女儿回应53岁老妈给25岁的自己生了个弟弟",
@@ -465,14 +481,6 @@
       "onboard_time": 1709553991,
       "rank": 19,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 837959,
-      "num": 837959,
-      "word": "女子刮彩票中一辆车没发现扭头就走",
-      "onboard_time": 1709563835,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 830947,
@@ -771,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 661553,
+      "num": 355546,
+      "word": "他才4岁已经懂得了分别的滋味",
+      "onboard_time": 1709567372,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 654138,
       "num": 654138,
       "word": "年年体检正常为何突然查出癌症",
@@ -849,6 +865,14 @@
       "onboard_time": 1709453908,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 634343,
+      "num": 206881,
+      "word": "浪五开场 主播癫狂带货感",
+      "onboard_time": 1709566950,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 633252,
@@ -2299,6 +2323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 286054,
+      "num": 205022,
+      "word": "练背把减肥的含金量拉满了",
+      "onboard_time": 1709565034,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 285255,
       "num": 216062,
       "word": "午睡有个最佳时长",
@@ -2737,6 +2769,14 @@
       "onboard_time": 1709561314,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 237064,
+      "num": 237064,
+      "word": "苏醒 老歌手的日常",
+      "onboard_time": 1709565331,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 236533,
@@ -3211,14 +3251,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 203169,
-      "num": 203169,
-      "word": "苏醒 老歌手的日常",
-      "onboard_time": 1709565331,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 203084,
       "num": 203084,
       "word": "新兰 情侣项链",
@@ -3289,14 +3321,6 @@
       "onboard_time": 1709453851,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200848,
-      "num": 167592,
-      "word": "练背把减肥的含金量拉满了",
-      "onboard_time": 1709565034,
-      "rank": 32,
-      "category": "运动健身"
     },
     {
       "raw_hot": 200649,
@@ -3827,6 +3851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172170,
+      "num": 172170,
+      "word": "杭州姑娘翻出60克金饰卖了3万元",
+      "onboard_time": 1709567253,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171865,
       "num": 171865,
       "word": "时代少年团演唱会申报",
@@ -4313,6 +4345,14 @@
       "onboard_time": 1709546550,
       "rank": 41,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 149662,
+      "num": 149662,
+      "word": "巴黎街头的魏大勋",
+      "onboard_time": 1709568749,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 149091,
@@ -4891,14 +4931,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 130761,
-      "num": 130761,
-      "word": "刘心悠你在干嘛",
-      "onboard_time": 1709566351,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130747,
       "num": 130747,
       "word": "FPX春季赛六连胜",
@@ -5209,6 +5241,14 @@
       "onboard_time": 1709535331,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120914,
+      "num": 120914,
+      "word": "全智贤仪态",
+      "onboard_time": 1709568030,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 118664,
@@ -5611,6 +5651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 85063,
+      "num": 85063,
+      "word": "张予曦演过铠甲勇士",
+      "onboard_time": 1709568928,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84570,
       "num": 264265,
       "word": "这车忒好看忍不住为TA喊个麦",
@@ -5625,6 +5673,14 @@
       "onboard_time": 1709421320,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 78365,
+      "num": 78365,
+      "word": "世界之外",
+      "onboard_time": 1709566533,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 76502,
