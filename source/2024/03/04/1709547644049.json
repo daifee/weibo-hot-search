@@ -1,0 +1,410 @@
+{
+  "runTime": 1709547644049,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1091738,
+        "num": 1091738,
+        "word": "为何说今年是十四五的关键一年",
+        "onboard_time": 1709543372,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 970200,
+        "num": 970200,
+        "word": "建议所有单位都拿出岗位给大学生",
+        "onboard_time": 1709522310,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53809,
+        "num": 659846,
+        "word": "十四届全国人大二次会议议程",
+        "onboard_time": 1709539409,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 572405,
+        "num": 572405,
+        "word": "1元纸币上的女拖拉机手今年91了",
+        "onboard_time": 1709545831,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520589,
+        "num": 520589,
+        "word": "建议大学每500名学生配1名心理教师",
+        "onboard_time": 1709541569,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 350867,
+        "num": 350867,
+        "word": "福宝回国将落户神树坪",
+        "onboard_time": 1709540672,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336950,
+        "num": 336950,
+        "word": "优酷又来这套",
+        "onboard_time": 1709546913,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301851,
+        "num": 301851,
+        "word": "建议把课间十分钟还给学生",
+        "onboard_time": 1709526933,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106778,
+        "num": 301687,
+        "word": "拄着盲杖他说可以没视力不能没眼光",
+        "onboard_time": 1709545831,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 190156,
+        "num": 299957,
+        "word": "河南一学校2000人开会表扬14岁男孩",
+        "onboard_time": 1709535629,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1411280,
+        "num": 298338,
+        "word": "何老师 不能不喜欢自己",
+        "onboard_time": 1709541210,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 827464,
+        "num": 296784,
+        "word": "女儿回应53岁老妈给25岁的自己生了个弟弟",
+        "onboard_time": 1709542353,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519696,
+        "num": 296114,
+        "word": "刘诗诗 大女主",
+        "onboard_time": 1709544035,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 508633,
+        "num": 294168,
+        "word": "派出所回应女子买茅台遭死亡威胁",
+        "onboard_time": 1709541751,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432867,
+        "num": 292993,
+        "word": "章若楠温以凡路透",
+        "onboard_time": 1709541028,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411977,
+        "num": 292128,
+        "word": "郑晓龙给肖战讲戏",
+        "onboard_time": 1709542889,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319807,
+        "num": 291123,
+        "word": "阮经天28岁就是影帝了",
+        "onboard_time": 1709540189,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289906,
+        "num": 289906,
+        "word": "人大代表谈山河大学",
+        "onboard_time": 1709533110,
+        "rank": 17,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 292562,
+        "num": 273961,
+        "word": "全智贤到上海了",
+        "onboard_time": 1709535087,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257202,
+        "num": 257202,
+        "word": "国家医保局回复癌症筛查纳入医保",
+        "onboard_time": 1709546311,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 510234,
+        "num": 257049,
+        "word": "睡前玩8分钟手机身体兴奋1小时",
+        "onboard_time": 1709546251,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 307272,
+        "num": 256582,
+        "word": "冷冻馒头超过3天不能吃吗",
+        "onboard_time": 1709542533,
+        "rank": 21,
+        "category": "美食,科学科普"
+      },
+      {
+        "raw_hot": 255335,
+        "num": 255335,
+        "word": "狗 我现在情绪稳定的可怕",
+        "onboard_time": 1709541869,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253427,
+        "num": 253427,
+        "word": "老是睡不好是不是床头放了这些",
+        "onboard_time": 1709536830,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249340,
+        "num": 249340,
+        "word": "于正 粉丝都是讨厌内戏的",
+        "onboard_time": 1709540428,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240766,
+        "num": 240766,
+        "word": "周杰伦昆凌2岁女儿的画",
+        "onboard_time": 1709526933,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240031,
+        "num": 240031,
+        "word": "特斯拉降价无人在意",
+        "onboard_time": 1709546615,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 238137,
+        "num": 238137,
+        "word": "王鹤棣桃花坞6分钟路透",
+        "onboard_time": 1709545470,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236533,
+        "num": 236533,
+        "word": "油价",
+        "onboard_time": 1709546133,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 226362,
+        "num": 226362,
+        "word": "建议重视青少年抑郁症",
+        "onboard_time": 1709542832,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223920,
+        "num": 223920,
+        "word": "普通家庭怀孕到一岁的花费",
+        "onboard_time": 1709528676,
+        "rank": 30,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 220253,
+        "num": 220253,
+        "word": "学校教室每人头顶一个专属摄像头",
+        "onboard_time": 1709546430,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 202183,
+        "num": 202183,
+        "word": "被公厕马桶水溅到会染病吗",
+        "onboard_time": 1709532932,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 198479,
+        "num": 198479,
+        "word": "知网崩了",
+        "onboard_time": 1709544572,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197276,
+        "num": 197276,
+        "word": "周处除三害后劲",
+        "onboard_time": 1709547331,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170728,
+        "num": 170728,
+        "word": "赵露思说小时候吴昕对她很好",
+        "onboard_time": 1709525854,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168664,
+        "num": 168664,
+        "word": "马丽主演票房进入影史前五",
+        "onboard_time": 1709546375,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150002,
+        "num": 150002,
+        "word": "长风破浪央八黄金档播出",
+        "onboard_time": 1709543551,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147599,
+        "num": 147599,
+        "word": "油价年内第三次上调",
+        "onboard_time": 1709546972,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145858,
+        "num": 145858,
+        "word": "全国政协十四届二次会议开幕会",
+        "onboard_time": 1709532990,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140033,
+        "num": 140033,
+        "word": "严浩翔宋亚轩拍立得",
+        "onboard_time": 1709544751,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139070,
+        "num": 139070,
+        "word": "委员建议明确规定农村妇女土地权益",
+        "onboard_time": 1709543732,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138496,
+        "num": 138496,
+        "word": "女子动物园私自抱娃下车被狼逼进",
+        "onboard_time": 1709529154,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136795,
+        "num": 136795,
+        "word": "这居然是宫崎骏",
+        "onboard_time": 1709545352,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 136729,
+        "num": 136729,
+        "word": "无刺草鱼口感怎么样",
+        "onboard_time": 1709547089,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135929,
+        "num": 135929,
+        "word": "阮经天 好生气可还是要保持围笑",
+        "onboard_time": 1709524351,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135432,
+        "num": 135432,
+        "word": "姚明林浩时隔16年重逢",
+        "onboard_time": 1709546550,
+        "rank": 46,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 130380,
+        "num": 130380,
+        "word": "普通情侣一年能赚多少钱",
+        "onboard_time": 1709547569,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129398,
+        "num": 129398,
+        "word": "这些水果不甜却很胖人",
+        "onboard_time": 1709547569,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 129056,
+        "num": 129056,
+        "word": "无限超越班 向佐的表演",
+        "onboard_time": 1709547633,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#悠悠万事民生为大#"
+    }
+  }
+}
