@@ -1,7 +1,23 @@
 {
   "startTime": 1709482797196,
-  "endTime": 1709516094322,
+  "endTime": 1709521370592,
   "band_list": [
+    {
+      "raw_hot": 1841169,
+      "num": 1841169,
+      "word": "建议全面取消基层医疗门诊报销起付线",
+      "onboard_time": 1709518469,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1193999,
+      "num": 1193999,
+      "word": "福宝",
+      "onboard_time": 1709515411,
+      "rank": 21,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1185646,
       "num": 1185646,
@@ -49,6 +65,14 @@
       "onboard_time": 1709512891,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 821700,
+      "num": 267759,
+      "word": "尹净汉美甲",
+      "onboard_time": 1709518528,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 786116,
@@ -147,12 +171,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 563875,
+      "num": 563875,
+      "word": "白敬亭起诉黑粉侵权",
+      "onboard_time": 1709519969,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 555276,
       "num": 555276,
       "word": "多所院校呼吁毕业生积极就业",
       "onboard_time": 1709511810,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535074,
+      "num": 400140,
+      "word": "新款iPad和Mac或本周发布",
+      "onboard_time": 1709515350,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 528656,
@@ -169,6 +209,14 @@
       "onboard_time": 1709477616,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 525037,
+      "num": 525037,
+      "word": "代表建议建立大学生网络游戏防沉迷机制",
+      "onboard_time": 1709519488,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515791,
@@ -211,6 +259,38 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 435962,
+      "num": 435962,
+      "word": "建议农民养老金统一上调",
+      "onboard_time": 1709515771,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420691,
+      "num": 420691,
+      "word": "中国姨姨特意到韩国接福宝",
+      "onboard_time": 1709520210,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 402168,
+      "num": 402168,
+      "word": "肖战工作室新增电影摄制服务",
+      "onboard_time": 1709520808,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 396722,
+      "num": 396722,
+      "word": "刘诗诗窦骁开机同框",
+      "onboard_time": 1709517749,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 395337,
       "num": 298498,
       "word": "DYG教练 跑路",
@@ -233,6 +313,30 @@
       "onboard_time": 1709481571,
       "rank": 17,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 380883,
+      "num": 380883,
+      "word": "队长鹿晗合作新歌",
+      "onboard_time": 1709520808,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 371236,
+      "num": 371236,
+      "word": "李雪琴王建国 藏头诗表演",
+      "onboard_time": 1709520270,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 366815,
+      "num": 257371,
+      "word": "小孩请不要为打翻的牛奶哭泣",
+      "onboard_time": 1709518409,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 353144,
@@ -267,6 +371,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323195,
+      "num": 323195,
+      "word": "诡秘之主游戏实机首曝",
+      "onboard_time": 1709519849,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 318795,
+      "num": 318795,
+      "word": "iPhoneSE4渲染图",
+      "onboard_time": 1709514933,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 314837,
       "num": 314837,
       "word": "和不内耗的朋友出去玩",
@@ -281,14 +401,6 @@
       "onboard_time": 1709514991,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 302389,
-      "num": 302389,
-      "word": "福宝",
-      "onboard_time": 1709515411,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296893,
@@ -315,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265831,
-      "num": 265831,
-      "word": "iPhoneSE4渲染图",
-      "onboard_time": 1709514933,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 259938,
       "num": 259938,
       "word": "周处除三害",
@@ -337,6 +441,14 @@
       "onboard_time": 1709515470,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232763,
+      "num": 232763,
+      "word": "肝脏好不好看这4个部位",
+      "onboard_time": 1709520450,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 221476,
@@ -363,20 +475,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 203357,
-      "num": 203357,
-      "word": "建议农民养老金统一上调",
-      "onboard_time": 1709515771,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201835,
       "num": 201835,
       "word": "库里4分",
       "onboard_time": 1709511030,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199388,
+      "num": 199388,
+      "word": "电影间谍过家家确认引进",
+      "onboard_time": 1709521351,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 197474,
@@ -403,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191397,
-      "num": 191397,
-      "word": "新款iPad和Mac或本周发布",
-      "onboard_time": 1709515350,
-      "rank": 34,
-      "category": "数码"
+      "raw_hot": 186091,
+      "num": 186091,
+      "word": "喝凉白开可减少摄入微塑料颗粒",
+      "onboard_time": 1709519668,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 181348,
@@ -457,6 +569,22 @@
       "onboard_time": 1709450432,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 173908,
+      "num": 173908,
+      "word": "全红婵3个10分",
+      "onboard_time": 1709520689,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171444,
+      "num": 171444,
+      "word": "A股",
+      "onboard_time": 1709519249,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 171215,
@@ -521,6 +649,14 @@
       "onboard_time": 1709509226,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145845,
+      "num": 145845,
+      "word": "王源去看NBA比赛了",
+      "onboard_time": 1709516489,
+      "rank": 40,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 144660,
@@ -595,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125079,
+      "num": 125079,
+      "word": "长期使用减肥神药的风险",
+      "onboard_time": 1709517868,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 122799,
       "num": 122799,
       "word": "这一抱硬控我10秒",
@@ -627,12 +771,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121593,
+      "num": 121593,
+      "word": "小狗演我早上不想起床的样子",
+      "onboard_time": 1709517627,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121028,
       "num": 121028,
       "word": "周也嘴巴哭成typec",
       "onboard_time": 1709462976,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113424,
+      "num": 113424,
+      "word": "元PLUS荣耀版11.98万元起",
+      "onboard_time": 1709521289,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 112672,
