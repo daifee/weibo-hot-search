@@ -1,6 +1,6 @@
 {
   "startTime": 1709569387343,
-  "endTime": 1709576423891,
+  "endTime": 1709577347280,
   "band_list": [
     {
       "raw_hot": 1203303,
@@ -435,20 +435,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44652,
+      "num": 39961,
+      "word": "天蚕土豆直播码字一周胖三斤",
+      "onboard_time": 1709574319,
+      "rank": 19,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 39279,
       "num": 42489,
       "word": "网球王子 迹部景吾绝美",
       "onboard_time": 1709571923,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 36123,
-      "num": 36123,
-      "word": "天蚕土豆直播码字一周胖三斤",
-      "onboard_time": 1709574319,
-      "rank": 19,
-      "category": "读书作家"
     },
     {
       "raw_hot": 33833,
@@ -459,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 33554,
+      "num": 33554,
+      "word": "2024乘风破浪",
+      "onboard_time": 1709575280,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33406,
       "num": 41687,
       "word": "明道回应跟阮经天相像",
@@ -467,8 +475,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 31349,
-      "num": 31349,
+      "raw_hot": 31985,
+      "num": 31985,
       "word": "韩素希模特时期旧照",
       "onboard_time": 1709575879,
       "rank": 30,
@@ -523,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20649,
-      "num": 21448,
-      "word": "2024乘风破浪",
-      "onboard_time": 1709575280,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 18512,
       "num": 21437,
       "word": "宋茜出发巴黎时装周",
@@ -545,6 +545,14 @@
       "onboard_time": 1709557173,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14485,
+      "num": 18759,
+      "word": "李一桐民国护士形象",
+      "onboard_time": 1709577318,
+      "rank": 49,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
