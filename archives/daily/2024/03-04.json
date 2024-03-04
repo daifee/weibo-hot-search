@@ -1,6 +1,6 @@
 {
   "startTime": 1709482797196,
-  "endTime": 1709536198029,
+  "endTime": 1709538357772,
   "band_list": [
     {
       "raw_hot": 2604565,
@@ -107,6 +107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 846005,
+      "num": 282251,
+      "word": "全智贤到上海了",
+      "onboard_time": 1709535087,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 845569,
       "num": 726673,
       "word": "吴艳妮看到了和世界高手的差距",
@@ -163,6 +171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 754950,
+      "num": 281736,
+      "word": "不背单词 受黑客攻击",
+      "onboard_time": 1709533527,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 750812,
       "num": 310702,
       "word": "王楚钦橱窗",
@@ -196,15 +212,23 @@
     },
     {
       "raw_hot": 714433,
-      "num": 239036,
+      "num": 252695,
       "word": "普通家庭怀孕到一岁的花费",
       "onboard_time": 1709528676,
       "rank": 20,
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 709971,
+      "num": 252770,
+      "word": "被公厕马桶水溅到会染病吗",
+      "onboard_time": 1709532932,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 699355,
-      "num": 262282,
+      "num": 281517,
       "word": "女子动物园私自抱娃下车被狼逼进",
       "onboard_time": 1709529154,
       "rank": 15,
@@ -249,14 +273,6 @@
       "onboard_time": 1709522251,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 643213,
-      "num": 237463,
-      "word": "全智贤到上海了",
-      "onboard_time": 1709535087,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 633252,
@@ -305,14 +321,6 @@
       "onboard_time": 1709479231,
       "rank": 5,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 590219,
-      "num": 208573,
-      "word": "被公厕马桶水溅到会染病吗",
-      "onboard_time": 1709532932,
-      "rank": 20,
-      "category": "科学科普"
     },
     {
       "raw_hot": 590067,
@@ -475,14 +483,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 425754,
-      "num": 224932,
-      "word": "不背单词 受黑客攻击",
-      "onboard_time": 1709533527,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 409304,
       "num": 409304,
       "word": "电影间谍过家家确认引进",
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 370458,
-      "num": 221097,
+      "num": 280458,
       "word": "马思纯还原黎吧啦妆容",
       "onboard_time": 1709534190,
       "rank": 15,
@@ -547,12 +547,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 365738,
+      "num": 280795,
+      "word": "华春莹连发三帖回怼雷蒙多",
+      "onboard_time": 1709535509,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 362159,
       "num": 261045,
       "word": "蛙池 抢票",
       "onboard_time": 1709529573,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 353561,
+      "num": 353561,
+      "word": "河南一学校2000人开会表扬14岁男孩",
+      "onboard_time": 1709535629,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353293,
@@ -619,6 +635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 320038,
+      "num": 320038,
+      "word": "我给两会留个言",
+      "onboard_time": 1709537793,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 318795,
       "num": 318795,
       "word": "iPhoneSE4渲染图",
@@ -665,6 +689,14 @@
       "onboard_time": 1709527295,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 299866,
+      "num": 251267,
+      "word": "老是睡不好是不是床头放了这些",
+      "onboard_time": 1709536830,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 296893,
@@ -716,11 +748,19 @@
     },
     {
       "raw_hot": 285255,
-      "num": 206847,
+      "num": 216062,
       "word": "午睡有个最佳时长",
       "onboard_time": 1709532033,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 280243,
+      "num": 280243,
+      "word": "马嘉祺维权案将开庭",
+      "onboard_time": 1709537972,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 275839,
@@ -747,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261165,
+      "num": 261165,
+      "word": "林陌 酒吧唱歌",
+      "onboard_time": 1709537793,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259938,
       "num": 259938,
       "word": "周处除三害",
@@ -755,8 +803,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 251830,
-      "num": 213721,
+      "raw_hot": 254453,
+      "num": 254453,
       "word": "王鹤棣树袋熊抱宋丹丹",
       "onboard_time": 1709534789,
       "rank": 17,
@@ -843,20 +891,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 215169,
+      "num": 215169,
+      "word": "窦骁状态",
+      "onboard_time": 1709535570,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213735,
       "num": 213735,
       "word": "张予曦浪姐上班",
       "onboard_time": 1709526634,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206626,
-      "num": 154602,
-      "word": "华春莹连发三帖回怼雷蒙多",
-      "onboard_time": 1709535509,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 206425,
@@ -947,6 +995,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191693,
+      "num": 191693,
+      "word": "丁程鑫晒照祝宋亚轩生日快乐",
+      "onboard_time": 1709537849,
+      "rank": 28,
+      "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 190004,
+      "num": 190004,
+      "word": "蔡依林巴黎时装周生图",
+      "onboard_time": 1709537073,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186091,
       "num": 186091,
       "word": "喝凉白开可减少摄入微塑料颗粒",
@@ -971,12 +1035,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181738,
+      "num": 181738,
+      "word": "刘恋主动加张婧仪微信",
+      "onboard_time": 1709536232,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181348,
       "num": 181348,
       "word": "苹果或发布iOS17.4特别版本",
       "onboard_time": 1709513131,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 181261,
+      "num": 181261,
+      "word": "理发店为什么用耳麦交流",
+      "onboard_time": 1709534488,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 177824,
@@ -993,6 +1073,14 @@
       "onboard_time": 1709514511,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176802,
+      "num": 176802,
+      "word": "全国政协开幕会全场唱国歌",
+      "onboard_time": 1709537129,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 176692,
@@ -1091,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161214,
+      "num": 161214,
+      "word": "猫咪以为主人要走伸手要抱抱",
+      "onboard_time": 1709537910,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156775,
       "num": 156775,
       "word": "五十公里桃花坞4首录路透",
@@ -1123,14 +1219,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 153804,
-      "num": 153804,
-      "word": "理发店为什么用耳麦交流",
-      "onboard_time": 1709534488,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 150854,
       "num": 150854,
       "word": "阮经天40岁状态",
@@ -1147,28 +1235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149988,
-      "num": 149988,
-      "word": "河南一学校2000人开会表扬14岁男孩",
-      "onboard_time": 1709535629,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149091,
       "num": 149091,
       "word": "吴艳妮 职业生涯的第一次世锦赛",
       "onboard_time": 1709533888,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148518,
-      "num": 148518,
-      "word": "窦骁状态",
-      "onboard_time": 1709535570,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 147612,
@@ -1233,6 +1305,14 @@
       "onboard_time": 1709472092,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 144420,
+      "num": 144420,
+      "word": "爷爷抚平了我的穿衣焦虑",
+      "onboard_time": 1709538091,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 144090,
@@ -1347,6 +1427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126064,
+      "num": 126064,
+      "word": "南京人爱吃的七头一脑降价了",
+      "onboard_time": 1709536771,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 124117,
+      "num": 124117,
+      "word": "ChatGPT论文修改指令",
+      "onboard_time": 1709537972,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 122799,
       "num": 122799,
       "word": "这一抱硬控我10秒",
@@ -1387,6 +1483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121401,
+      "num": 121401,
+      "word": "milkyway连续四次获最佳新秀",
+      "onboard_time": 1709535331,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121028,
       "num": 121028,
       "word": "周也嘴巴哭成typec",
@@ -1409,6 +1513,14 @@
       "onboard_time": 1709522911,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 114579,
+      "num": 114579,
+      "word": "我目睹了领导最脆弱的时刻",
+      "onboard_time": 1709538331,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 113227,
@@ -1441,14 +1553,6 @@
       "onboard_time": 1709531072,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 110724,
-      "num": 110724,
-      "word": "milkyway连续四次获最佳新秀",
-      "onboard_time": 1709535331,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 108507,
