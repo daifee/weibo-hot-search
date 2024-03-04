@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709561753637,
+  "endTime": 1709562960280,
   "band_list": [
     {
       "raw_hot": 2604565,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1212808,
+      "num": 388902,
+      "word": "南湘回国",
+      "onboard_time": 1709556991,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1185646,
       "num": 1185646,
       "word": "00后新警认出嫌疑人后嘴角上扬",
@@ -257,14 +265,6 @@
       "onboard_time": 1709475932,
       "rank": 16,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1099041,
-      "num": 388902,
-      "word": "南湘回国",
-      "onboard_time": 1709556991,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 1089788,
@@ -675,6 +675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 683106,
+      "num": 312857,
+      "word": "睡前长期玩手机可能让你变丑",
+      "onboard_time": 1709560651,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 681705,
       "num": 681705,
       "word": "建议考研统一命题不是说全国一张卷",
@@ -777,6 +785,14 @@
       "onboard_time": 1709459012,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 643439,
+      "num": 643439,
+      "word": "建议允许职工积累假期兑换小长假",
+      "onboard_time": 1709557955,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 640599,
@@ -904,6 +920,14 @@
       "word": "严浩翔声纹对比",
       "onboard_time": 1709459192,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 600542,
+      "num": 319729,
+      "word": "宋亚轩什么弹幕都敢念",
+      "onboard_time": 1709560954,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -1115,6 +1139,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 522846,
+      "num": 522846,
+      "word": "爱情公寓演员今昔对比",
+      "onboard_time": 1709560894,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 519696,
       "num": 296114,
       "word": "刘诗诗 大女主",
@@ -1145,14 +1177,6 @@
       "onboard_time": 1709428225,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 512683,
-      "num": 512683,
-      "word": "建议允许职工积累假期兑换小长假",
-      "onboard_time": 1709557955,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 510234,
@@ -1217,14 +1241,6 @@
       "onboard_time": 1709541028,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 486251,
-      "num": 312857,
-      "word": "睡前长期玩手机可能让你变丑",
-      "onboard_time": 1709560651,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 485753,
@@ -1489,14 +1505,6 @@
       "onboard_time": 1709442330,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 413760,
-      "num": 319729,
-      "word": "宋亚轩什么弹幕都敢念",
-      "onboard_time": 1709560954,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 411467,
@@ -2073,14 +2081,6 @@
       "onboard_time": 1709547751,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 310936,
-      "num": 310936,
-      "word": "爱情公寓演员今昔对比",
-      "onboard_time": 1709560894,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 308732,
@@ -2667,6 +2667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238037,
+      "num": 238037,
+      "word": "王子文换发型了",
+      "onboard_time": 1709561314,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 236533,
       "num": 236533,
       "word": "油价",
@@ -2939,6 +2947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213575,
+      "num": 213575,
+      "word": "iPad什么时候出",
+      "onboard_time": 1709562576,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 213238,
       "num": 213238,
       "word": "IU演唱会嘉宾RIIZE",
@@ -2961,6 +2977,14 @@
       "onboard_time": 1709468249,
       "rank": 29,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 211778,
+      "num": 211778,
+      "word": "找到了健身房的平替",
+      "onboard_time": 1709551713,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 210557,
@@ -3203,14 +3227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200877,
-      "num": 200877,
-      "word": "找到了健身房的平替",
-      "onboard_time": 1709551713,
-      "rank": 31,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 200649,
       "num": 200649,
       "word": "张元英顶级时间管理",
@@ -3275,6 +3291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 197634,
+      "num": 187897,
+      "word": "现在年轻人婚前普遍都有存款吗",
+      "onboard_time": 1709562693,
+      "rank": 30,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 197632,
       "num": 197632,
       "word": "负责人称不排除关闭快递代收点",
@@ -3305,6 +3329,14 @@
       "onboard_time": 1709557415,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196781,
+      "num": 196781,
+      "word": "及时止损 做回自己",
+      "onboard_time": 1709561616,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 196363,
@@ -3611,6 +3643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179668,
+      "num": 179668,
+      "word": "黄奕比心全智贤",
+      "onboard_time": 1709562514,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179280,
       "num": 179280,
       "word": "蔡依林酷飒羽毛裙",
@@ -3641,6 +3681,14 @@
       "onboard_time": 1709514511,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177097,
+      "num": 177097,
+      "word": "KPL春季赛第二轮赛程",
+      "onboard_time": 1709562693,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 177034,
@@ -3795,6 +3843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166679,
+      "num": 166679,
+      "word": "建议增加年轻人年假天数",
+      "onboard_time": 1709562816,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166134,
       "num": 166134,
       "word": "简体中文成为Steam最常用语言",
@@ -3875,6 +3931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162877,
+      "num": 162877,
+      "word": "耳帝评周处除三害插曲",
+      "onboard_time": 1709562514,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162180,
       "num": 162180,
       "word": "戚薇去浪姐了",
@@ -3921,6 +3985,14 @@
       "onboard_time": 1709461291,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157997,
+      "num": 157997,
+      "word": "吴镇宇真是小嘴抹了鹤顶红",
+      "onboard_time": 1709560115,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 157684,
@@ -3977,14 +4049,6 @@
       "onboard_time": 1709543732,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 156083,
-      "num": 156083,
-      "word": "吴镇宇真是小嘴抹了鹤顶红",
-      "onboard_time": 1709560115,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 155906,
@@ -4147,14 +4211,6 @@
       "category": "体育,国内时政"
     },
     {
-      "raw_hot": 149334,
-      "num": 149334,
-      "word": "及时止损 做回自己",
-      "onboard_time": 1709561616,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 149091,
       "num": 149091,
       "word": "吴艳妮 职业生涯的第一次世锦赛",
@@ -4233,14 +4289,6 @@
       "onboard_time": 1709408117,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147191,
-      "num": 147191,
-      "word": "王子文换发型了",
-      "onboard_time": 1709561314,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 146983,
@@ -4528,6 +4576,14 @@
       "word": "很新的取群名方法",
       "onboard_time": 1709468612,
       "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 138271,
+      "num": 138271,
+      "word": "各行各业都有自己的显眼包",
+      "onboard_time": 1709562274,
+      "rank": 49,
       "category": "幽默"
     },
     {
