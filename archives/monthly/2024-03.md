@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/03/01 00:20:40 ~ 2024/03/05 01:18:20
+本榜单时间：2024/03/01 00:20:40 ~ 2024/03/05 01:34:01
 </p>
 </blockquote>
 <p>
@@ -4173,6 +4173,12 @@ JackeyLove赛后发博（热度：230499）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E9%AB%98%E4%B8%AD%E5%AD%A6%E4%B8%9A%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%23" target="weibo">
+建议取消高中学业水平考试科目（热度：222200）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E6%90%AD%E5%AD%90%E7%A6%BB%E8%81%8C%E4%BA%86%E6%AF%94%E5%88%86%E6%89%8B%E8%BF%98%E9%9A%BE%E5%8F%97%23" target="weibo">
 上班搭子离职了比分手还难受（热度：222029）
 </a>
@@ -6005,12 +6011,6 @@ LGD战胜狼队（热度：169234）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E6%96%B0%E8%A7%84%E9%A6%96%E6%97%A5%E8%B0%83%E6%9F%A5%23" target="weibo">
 快递新规首日调查（热度：161227）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E4%BB%A5%E4%B8%BA%E4%B8%BB%E4%BA%BA%E8%A6%81%E8%B5%B0%E4%BC%B8%E6%89%8B%E8%A6%81%E6%8A%B1%E6%8A%B1%23" target="weibo">
-猫咪以为主人要走伸手要抱抱（热度：161214）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1709569387343,
-  "endTime": 1709572700697,
+  "endTime": 1709573641043,
   "band_list": [
     {
       "raw_hot": 1203303,
@@ -153,6 +153,14 @@
       "onboard_time": 1709565331,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222200,
+      "num": 222200,
+      "word": "建议取消高中学业水平考试科目",
+      "onboard_time": 1709572041,
+      "rank": 17,
+      "category": "教育,国内时政"
     },
     {
       "raw_hot": 209291,
@@ -379,20 +387,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 76753,
+      "num": 76753,
+      "word": "父亲心疼女儿被撞伤将床头柱锯掉",
+      "onboard_time": 1709569885,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75931,
       "num": 75931,
       "word": "难哄路透",
       "onboard_time": 1709548653,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75609,
-      "num": 75609,
-      "word": "建议取消高中学业水平考试科目",
-      "onboard_time": 1709572041,
-      "rank": 17,
-      "category": "教育,国内时政"
     },
     {
       "raw_hot": 75330,
@@ -408,14 +416,6 @@
       "word": "全国政协委员建议取消入住酒店必须刷脸规定",
       "onboard_time": 1709550151,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70889,
-      "num": 70889,
-      "word": "父亲心疼女儿被撞伤将床头柱锯掉",
-      "onboard_time": 1709569885,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -435,7 +435,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 35839,
+      "raw_hot": 37458,
       "num": 42489,
       "word": "网球王子 迹部景吾绝美",
       "onboard_time": 1709571923,
@@ -459,6 +459,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27254,
+      "num": 39996,
+      "word": "明星主播带不动货了",
+      "onboard_time": 1709547751,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 27122,
+      "num": 32858,
+      "word": "为何说今年是十四五的关键一年",
+      "onboard_time": 1709543372,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27103,
       "num": 40340,
       "word": "钟楚曦穿暖和了",
@@ -467,15 +483,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 25601,
-      "num": 39996,
-      "word": "明星主播带不动货了",
-      "onboard_time": 1709547751,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 13753,
+      "raw_hot": 14636,
       "num": 379750,
       "word": "100秒说两会",
       "onboard_time": 1709557173,

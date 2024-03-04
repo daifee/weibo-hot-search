@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709572700697,
+  "endTime": 1709573641043,
   "band_list": [
     {
       "raw_hot": 2604565,
@@ -2931,6 +2931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222200,
+      "num": 222200,
+      "word": "建议取消高中学业水平考试科目",
+      "onboard_time": 1709572041,
+      "rank": 17,
+      "category": "教育,国内时政"
+    },
+    {
       "raw_hot": 221476,
       "num": 221476,
       "word": "间谍过家家 次子吃醋",
@@ -5691,6 +5699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 76753,
+      "num": 76753,
+      "word": "父亲心疼女儿被撞伤将床头柱锯掉",
+      "onboard_time": 1709569885,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76502,
       "num": 76502,
       "word": "辛芷蕾繁花后第一部电视剧",
@@ -5705,22 +5721,6 @@
       "onboard_time": 1709481210,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75609,
-      "num": 75609,
-      "word": "建议取消高中学业水平考试科目",
-      "onboard_time": 1709572041,
-      "rank": 17,
-      "category": "教育,国内时政"
-    },
-    {
-      "raw_hot": 70889,
-      "num": 70889,
-      "word": "父亲心疼女儿被撞伤将床头柱锯掉",
-      "onboard_time": 1709569885,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70425,
@@ -5947,20 +5947,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 37458,
+      "num": 42489,
+      "word": "网球王子 迹部景吾绝美",
+      "onboard_time": 1709571923,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 37391,
       "num": 296434,
       "word": "唐嫣漫游巴黎日记",
       "onboard_time": 1709461591,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 35839,
-      "num": 42489,
-      "word": "网球王子 迹部景吾绝美",
-      "onboard_time": 1709571923,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 34322,
@@ -6075,20 +6075,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14636,
+      "num": 379750,
+      "word": "100秒说两会",
+      "onboard_time": 1709557173,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14611,
       "num": 15644,
       "word": "蔡文静晒手机壳",
       "onboard_time": 1709410936,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13753,
-      "num": 379750,
-      "word": "100秒说两会",
-      "onboard_time": 1709557173,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12247,
