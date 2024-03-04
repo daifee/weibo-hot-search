@@ -1,13 +1,29 @@
 {
   "startTime": 1709482797196,
-  "endTime": 1709521884451,
+  "endTime": 1709524585488,
   "band_list": [
+    {
+      "raw_hot": 2604565,
+      "num": 2604565,
+      "word": "建议所有单位都拿出岗位给大学生",
+      "onboard_time": 1709522310,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1968978,
       "num": 1968978,
       "word": "建议全面取消基层医疗门诊报销起付线",
       "onboard_time": 1709518469,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1470670,
+      "num": 1470670,
+      "word": "韩国7千名离岗医生将被吊销执照",
+      "onboard_time": 1709522853,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -43,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 850163,
+      "num": 850163,
+      "word": "队长鹿晗合作新歌",
+      "onboard_time": 1709520808,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 845569,
       "num": 726673,
       "word": "吴艳妮看到了和世界高手的差距",
@@ -68,7 +92,7 @@
     },
     {
       "raw_hot": 821700,
-      "num": 267759,
+      "num": 306444,
       "word": "尹净汉美甲",
       "onboard_time": 1709518528,
       "rank": 20,
@@ -107,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 715128,
+      "num": 715128,
+      "word": "中国姨姨特意到韩国接福宝",
+      "onboard_time": 1709520210,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 697824,
       "num": 697824,
       "word": "不背单词 还没修好",
@@ -131,12 +163,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 648566,
-      "num": 648566,
-      "word": "队长鹿晗合作新歌",
-      "onboard_time": 1709520808,
-      "rank": 12,
-      "category": "音乐"
+      "raw_hot": 653348,
+      "num": 653348,
+      "word": "何小鹏建议允许夜间低速无人驾驶",
+      "onboard_time": 1709522251,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 633252,
@@ -163,20 +195,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 618821,
+      "num": 618821,
+      "word": "谢谢你温暖我定档",
+      "onboard_time": 1709522551,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 618008,
       "num": 618008,
       "word": "孙千和PP合照",
       "onboard_time": 1709479231,
       "rank": 5,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 610108,
-      "num": 610108,
-      "word": "中国姨姨特意到韩国接福宝",
-      "onboard_time": 1709520210,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 568985,
@@ -275,6 +307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 464264,
+      "num": 440931,
+      "word": "钟楚曦自己化的烟熏妆",
+      "onboard_time": 1709523093,
+      "rank": 10,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 455626,
       "num": 455626,
       "word": "肖战工作室新增电影摄制服务",
@@ -299,12 +339,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409304,
+      "num": 409304,
+      "word": "电影间谍过家家确认引进",
+      "onboard_time": 1709521351,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 396722,
       "num": 396722,
       "word": "刘诗诗窦骁开机同框",
       "onboard_time": 1709517749,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 395804,
+      "num": 395804,
+      "word": "建议考研统一命题不是说全国一张卷",
+      "onboard_time": 1709523451,
+      "rank": 12,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 395337,
@@ -332,11 +388,19 @@
     },
     {
       "raw_hot": 366815,
-      "num": 265232,
+      "num": 282425,
       "word": "小孩请不要为打翻的牛奶哭泣",
       "onboard_time": 1709518409,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 353293,
+      "num": 353293,
+      "word": "大侦探",
+      "onboard_time": 1709522310,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 353144,
@@ -395,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 308732,
+      "num": 308732,
+      "word": "宣璐掌心女二",
+      "onboard_time": 1709521948,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306971,
       "num": 306971,
       "word": "掌心开机",
@@ -419,20 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289981,
-      "num": 289981,
-      "word": "电影间谍过家家确认引进",
-      "onboard_time": 1709521351,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 279247,
-      "num": 262077,
+      "raw_hot": 288623,
+      "num": 288623,
       "word": "肝脏好不好看这4个部位",
       "onboard_time": 1709520450,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 287679,
+      "num": 287679,
+      "word": "快递员劳动加倍收入减半",
+      "onboard_time": 1709522014,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269037,
@@ -483,6 +555,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 216913,
+      "num": 216913,
+      "word": "电影红毯先生重新定档",
+      "onboard_time": 1709523213,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 213165,
+      "num": 184737,
+      "word": "表达力太差建议看纪录片",
+      "onboard_time": 1709523933,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 201835,
       "num": 201835,
       "word": "库里4分",
@@ -523,12 +611,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 184913,
+      "num": 184913,
+      "word": "雪迷宫阵容官宣",
+      "onboard_time": 1709523514,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184725,
+      "num": 184725,
+      "word": "赵奕欢 浪姐",
+      "onboard_time": 1709524294,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181348,
       "num": 181348,
       "word": "苹果或发布iOS17.4特别版本",
       "onboard_time": 1709513131,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 180325,
+      "num": 180325,
+      "word": "阮经天 好生气可还是要保持围笑",
+      "onboard_time": 1709524351,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 177824,
@@ -611,6 +723,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164496,
+      "num": 164496,
+      "word": "带着狗鹅鸭坐高铁的主人",
+      "onboard_time": 1709523031,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 161386,
+      "num": 161386,
+      "word": "林一首部上星男主剧",
+      "onboard_time": 1709524174,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156775,
       "num": 156775,
       "word": "五十公里桃花坞4首录路透",
@@ -657,6 +785,14 @@
       "onboard_time": 1709516489,
       "rank": 40,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 145362,
+      "num": 145362,
+      "word": "微观两会",
+      "onboard_time": 1709523393,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 145317,
@@ -731,12 +867,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135807,
+      "num": 135807,
+      "word": "原来大家的生活和工作都分不开",
+      "onboard_time": 1709522731,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134993,
       "num": 134993,
       "word": "尹子维新片尺度",
       "onboard_time": 1709475812,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134791,
+      "num": 134791,
+      "word": "林一李兰迪新剧吻戏镜头",
+      "onboard_time": 1709524416,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 130936,
@@ -801,6 +953,14 @@
       "onboard_time": 1709521772,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116066,
+      "num": 1406282,
+      "word": "9图了解人大知识点",
+      "onboard_time": 1709522911,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112672,
@@ -1033,6 +1193,14 @@
       "onboard_time": 1709495956,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38189,
+      "num": 184744,
+      "word": "什么是电子OOTD",
+      "onboard_time": 1709523514,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 30720,
