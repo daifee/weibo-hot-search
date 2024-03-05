@@ -1,0 +1,410 @@
+{
+  "runTime": 1709602212716,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2093210,
+        "num": 2093210,
+        "word": "2024政府工作报告",
+        "onboard_time": 1709600969,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1704694,
+        "num": 1704694,
+        "word": "十四届全国人大二次会议开幕会",
+        "onboard_time": 1709596710,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53233,
+        "num": 1258578,
+        "word": "100秒说两会",
+        "onboard_time": 1709557173,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1139564,
+        "num": 1139564,
+        "word": "建议暂停上调医保个人缴费标准",
+        "onboard_time": 1709599653,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 549737,
+        "num": 549737,
+        "word": "建议取消高中学业水平考试科目",
+        "onboard_time": 1709572041,
+        "rank": 4,
+        "category": "教育,国内时政"
+      },
+      {
+        "raw_hot": 455972,
+        "num": 455972,
+        "word": "他才4岁已经懂得了分别的滋味",
+        "onboard_time": 1709567372,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420095,
+        "num": 420095,
+        "word": "建议增加年轻人年假天数",
+        "onboard_time": 1709562816,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407645,
+        "num": 407645,
+        "word": "广东回南天",
+        "onboard_time": 1709597972,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397279,
+        "num": 397279,
+        "word": "父亲心疼女儿被撞伤将床头柱锯掉",
+        "onboard_time": 1709569885,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268932,
+        "num": 268932,
+        "word": "惊蛰",
+        "onboard_time": 1709593404,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1101763,
+        "num": 268338,
+        "word": "月薪上万也不舍得买鄂尔多斯",
+        "onboard_time": 1709594065,
+        "rank": 10,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1035007,
+        "num": 267518,
+        "word": "这竟然是雪姨",
+        "onboard_time": 1709595446,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471710,
+        "num": 266288,
+        "word": "苹果市值一夜蒸发超5000亿元",
+        "onboard_time": 1709596230,
+        "rank": 12,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 450690,
+        "num": 265390,
+        "word": "蕾丝裙帘成年轻人新潮流",
+        "onboard_time": 1709564673,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 310094,
+        "num": 264505,
+        "word": "广东现在是一个巨大的水帘洞",
+        "onboard_time": 1709594427,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264318,
+        "num": 264318,
+        "word": "建议实施10年义务教育",
+        "onboard_time": 1709596409,
+        "rank": 15,
+        "category": "教育,国内时政"
+      },
+      {
+        "raw_hot": 283489,
+        "num": 263347,
+        "word": "浪五开场 主播癫狂带货感",
+        "onboard_time": 1709566950,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269956,
+        "num": 261632,
+        "word": "委员谈小学生厕所社交",
+        "onboard_time": 1709594543,
+        "rank": 17,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 240943,
+        "num": 240943,
+        "word": "贝索斯再成世界首富",
+        "onboard_time": 1709599532,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 240475,
+        "num": 240475,
+        "word": "三月将要播的电视剧",
+        "onboard_time": 1709563892,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550831,
+        "num": 240335,
+        "word": "女子刮彩票中一辆车没发现扭头就走",
+        "onboard_time": 1709563835,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323446,
+        "num": 239785,
+        "word": "睡前长期玩手机可能让你变丑",
+        "onboard_time": 1709560651,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 275231,
+        "num": 239400,
+        "word": "浪姐入浪仪式",
+        "onboard_time": 1709594608,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253142,
+        "num": 238526,
+        "word": "杭州姑娘翻出60克金饰卖了3万元",
+        "onboard_time": 1709567253,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241974,
+        "num": 238037,
+        "word": "第一场代表通道",
+        "onboard_time": 1709596530,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 237932,
+        "num": 237932,
+        "word": "惊蛰为啥吃梨",
+        "onboard_time": 1709593824,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226445,
+        "num": 226445,
+        "word": "2023年经济社会发展主要目标任务圆满完成",
+        "onboard_time": 1709601749,
+        "rank": 26,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 222923,
+        "num": 222923,
+        "word": "新一轮机构改革中央层面基本完成",
+        "onboard_time": 1709601811,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 215402,
+        "num": 215402,
+        "word": "新能源汽车产销量占全球比重超60%",
+        "onboard_time": 1709601749,
+        "rank": 28,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 205109,
+        "num": 205109,
+        "word": "3月5日10时23分迎来惊蛰",
+        "onboard_time": 1709601569,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200954,
+        "num": 200954,
+        "word": "特斯拉股价大跌7.16%",
+        "onboard_time": 1709601032,
+        "rank": 30,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 191342,
+        "num": 191342,
+        "word": "FF起诉高合汽车",
+        "onboard_time": 1709601032,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 165167,
+        "num": 165167,
+        "word": "珠宝店店长称从没见过这么高的金价",
+        "onboard_time": 1709594004,
+        "rank": 32,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 159176,
+        "num": 159176,
+        "word": "詹姆斯赛季首次当选周最佳",
+        "onboard_time": 1709600731,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156618,
+        "num": 156618,
+        "word": "浙江招聘守鸟人300元1天",
+        "onboard_time": 1709597609,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146738,
+        "num": 146738,
+        "word": "为什么铁轨边上有很多小石子",
+        "onboard_time": 1709599472,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 145975,
+        "num": 145975,
+        "word": "杨超越辣妹穿搭",
+        "onboard_time": 1709597550,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144961,
+        "num": 144961,
+        "word": "两会",
+        "onboard_time": 1709596111,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134532,
+        "num": 134532,
+        "word": "委员建议放宽35岁就业年龄限制",
+        "onboard_time": 1709555313,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130651,
+        "num": 130651,
+        "word": "全国妇联建议倡导共担共育",
+        "onboard_time": 1709600429,
+        "rank": 39,
+        "category": "国内时政,母婴育儿"
+      },
+      {
+        "raw_hot": 126626,
+        "num": 126626,
+        "word": "练背把减肥的含金量拉满了",
+        "onboard_time": 1709565034,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 121395,
+        "num": 121395,
+        "word": "28岁找工作被嫌弃年龄大",
+        "onboard_time": 1709551770,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116821,
+        "num": 116821,
+        "word": "两会来了",
+        "onboard_time": 1709601569,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155349,
+        "num": 116548,
+        "word": "于正端水式为许凯王星越庆生",
+        "onboard_time": 1709600011,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114261,
+        "num": 114261,
+        "word": "体脂率下降的小习惯",
+        "onboard_time": 1709553991,
+        "rank": 44,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 113412,
+        "num": 113412,
+        "word": "建议整治校园形式主义",
+        "onboard_time": 1709554054,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110305,
+        "num": 110305,
+        "word": "电影破墓",
+        "onboard_time": 1709597490,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105987,
+        "num": 105987,
+        "word": "今天惊蛰",
+        "onboard_time": 1709601630,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104983,
+        "num": 104983,
+        "word": "人大代表邀大家来殷墟博物馆看亚长牛尊",
+        "onboard_time": 1709600852,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95815,
+        "num": 95815,
+        "word": "英雄机长刘传健长胖了",
+        "onboard_time": 1709602169,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会妙喻#"
+    }
+  }
+}
