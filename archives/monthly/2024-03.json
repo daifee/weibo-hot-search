@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709680587679,
+  "endTime": 1709681730780,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -1211,6 +1211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 871889,
+      "num": 340289,
+      "word": "凯特王妃",
+      "onboard_time": 1709660539,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 871122,
       "num": 871122,
       "word": "DYG教练 跑路",
@@ -1593,6 +1601,14 @@
       "onboard_time": 1709432010,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 741229,
+      "num": 308030,
+      "word": "这哪是回南天这是回南天门了吧",
+      "onboard_time": 1709668874,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 739556,
@@ -2009,14 +2025,6 @@
       "onboard_time": 1709437590,
       "rank": 6,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 664271,
-      "num": 175006,
-      "word": "凯特王妃",
-      "onboard_time": 1709660539,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 664080,
@@ -2720,14 +2728,6 @@
       "word": "多所院校呼吁毕业生积极就业",
       "onboard_time": 1709511810,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 553049,
-      "num": 90536,
-      "word": "这哪是回南天这是回南天门了吧",
-      "onboard_time": 1709668874,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -3987,6 +3987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 405433,
+      "num": 113816,
+      "word": "老公出差抓人老婆在家救人",
+      "onboard_time": 1709673016,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404806,
       "num": 404806,
       "word": "Jennie机场",
@@ -4177,6 +4185,14 @@
       "onboard_time": 1709339485,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 387415,
+      "num": 304813,
+      "word": "老人丢了6000元民警找回16000",
+      "onboard_time": 1709674218,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387035,
@@ -5323,14 +5339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 305718,
-      "num": 89914,
-      "word": "老人丢了6000元民警找回16000",
-      "onboard_time": 1709674218,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 305397,
       "num": 255023,
       "word": "文韬济南",
@@ -5795,14 +5803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 277975,
-      "num": 86050,
-      "word": "老公出差抓人老婆在家救人",
-      "onboard_time": 1709673016,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277970,
       "num": 277970,
       "word": "枭起青壤要开机了",
@@ -5881,6 +5881,14 @@
       "onboard_time": 1709349751,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274547,
+      "num": 344999,
+      "word": "最新研究找到熬夜致癌原因",
+      "onboard_time": 1709662697,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 274091,
@@ -6097,6 +6105,14 @@
       "onboard_time": 1709593824,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264227,
+      "num": 264227,
+      "word": "张铭恩一种隐约的狠辣",
+      "onboard_time": 1709659761,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 264063,
@@ -6481,6 +6497,14 @@
       "onboard_time": 1709364750,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 244719,
+      "num": 113575,
+      "word": "海景房狂跌",
+      "onboard_time": 1709679682,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 244457,
@@ -7105,14 +7129,6 @@
       "onboard_time": 1709512955,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 218324,
-      "num": 167975,
-      "word": "最新研究找到熬夜致癌原因",
-      "onboard_time": 1709662697,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 218190,
@@ -8233,14 +8249,6 @@
       "onboard_time": 1709650114,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195576,
-      "num": 103078,
-      "word": "张铭恩一种隐约的狠辣",
-      "onboard_time": 1709659761,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 195574,
@@ -9796,7 +9804,7 @@
     },
     {
       "raw_hot": 164702,
-      "num": 337149,
+      "num": 352490,
       "word": "2024全国两会新词热词",
       "onboard_time": 1709639792,
       "rank": 6,
@@ -10187,6 +10195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157869,
+      "num": 336222,
+      "word": "徐克射雕英雄传正在后期制作",
+      "onboard_time": 1709674035,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157862,
       "num": 157862,
       "word": "真正还原美貌的化妆",
@@ -10371,6 +10387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155364,
+      "num": 155364,
+      "word": "伊能静儿子巴黎时装周街采",
+      "onboard_time": 1709676136,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 155307,
       "num": 155307,
       "word": "孙千陈靖可大片",
@@ -10489,14 +10513,6 @@
       "onboard_time": 1709442390,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153251,
-      "num": 153251,
-      "word": "徐克射雕英雄传正在后期制作",
-      "onboard_time": 1709674035,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 153229,
@@ -11051,14 +11067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143692,
-      "num": 84323,
-      "word": "海景房狂跌",
-      "onboard_time": 1709679682,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 143648,
       "num": 143648,
       "word": "kenken编舞",
@@ -11329,6 +11337,14 @@
       "onboard_time": 1709467291,
       "rank": 37,
       "category": "作品衍生,情感"
+    },
+    {
+      "raw_hot": 139298,
+      "num": 95567,
+      "word": "Facebook和Instagram全球死机",
+      "onboard_time": 1709681424,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 139138,
@@ -13371,12 +13387,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102362,
+      "num": 102362,
+      "word": "欧冠联赛",
+      "onboard_time": 1709681123,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102265,
       "num": 102265,
       "word": "第五人格",
       "onboard_time": 1709466872,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102237,
+      "num": 102237,
+      "word": "维生素软糖为什么不能吃太多",
+      "onboard_time": 1709680343,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 102193,
@@ -13611,12 +13643,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 91374,
+      "num": 91374,
+      "word": "原来狗界真的有情报网",
+      "onboard_time": 1709680524,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90981,
       "num": 90981,
       "word": "文韬嗑瓜子",
       "onboard_time": 1709211453,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90319,
+      "num": 90319,
+      "word": "LGD公示处罚Haichao",
+      "onboard_time": 1709680343,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 89766,
@@ -13691,14 +13739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86207,
-      "num": 86207,
-      "word": "伊能静儿子巴黎时装周街采",
-      "onboard_time": 1709676136,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 86001,
       "num": 116310,
       "word": "张镇麟大风车扣篮",
@@ -13761,6 +13801,14 @@
       "onboard_time": 1709647534,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 80313,
+      "num": 80313,
+      "word": "粉丝抵制黄牛炒作300元生菜",
+      "onboard_time": 1709662099,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 80232,
@@ -13891,6 +13939,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 68904,
+      "num": 68904,
+      "word": "宋茜谈年龄焦虑",
+      "onboard_time": 1709661798,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68414,
       "num": 351364,
       "word": "大溪地灰时尚收割机",
@@ -13907,20 +13963,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67780,
+      "num": 67780,
+      "word": "2块钱和上百元的维生素C哪个更好",
+      "onboard_time": 1709674155,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 67652,
       "num": 254040,
       "word": "原神千织双刀",
       "onboard_time": 1709300314,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 66895,
-      "num": 60660,
-      "word": "粉丝抵制黄牛炒作300元生菜",
-      "onboard_time": 1709662099,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 66301,
@@ -13963,6 +14019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 63650,
+      "num": 63650,
+      "word": "金价历史最高有人大赚200多万",
+      "onboard_time": 1709681608,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 63144,
       "num": 63144,
       "word": "于文文你快别说话了",
@@ -13977,6 +14041,14 @@
       "onboard_time": 1709414416,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 62907,
+      "num": 62907,
+      "word": "姆巴佩梅开二度",
+      "onboard_time": 1709681123,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 62865,
@@ -14051,14 +14123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58305,
-      "num": 58305,
-      "word": "宋茜谈年龄焦虑",
-      "onboard_time": 1709661798,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 57855,
       "num": 1258578,
       "word": "100秒说两会",
@@ -14073,14 +14137,6 @@
       "onboard_time": 1709308470,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57559,
-      "num": 57559,
-      "word": "2块钱和上百元的维生素C哪个更好",
-      "onboard_time": 1709674155,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 57513,
@@ -14172,7 +14228,7 @@
     },
     {
       "raw_hot": 53714,
-      "num": 91180,
+      "num": 317059,
       "word": "皇家社会vs巴黎圣日耳曼",
       "onboard_time": 1709656227,
       "rank": 49,
@@ -14249,14 +14305,6 @@
       "onboard_time": 1709574319,
       "rank": 19,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 49877,
-      "num": 49877,
-      "word": "LGD公示处罚Haichao",
-      "onboard_time": 1709680343,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 49629,
@@ -14361,22 +14409,6 @@
       "onboard_time": 1709380832,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43993,
-      "num": 43993,
-      "word": "原来狗界真的有情报网",
-      "onboard_time": 1709680524,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 43580,
-      "num": 43580,
-      "word": "维生素软糖为什么不能吃太多",
-      "onboard_time": 1709680343,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 42701,
