@@ -1,6 +1,6 @@
 {
   "startTime": 1709655654688,
-  "endTime": 1709673357176,
+  "endTime": 1709674503580,
   "band_list": [
     {
       "raw_hot": 1135872,
@@ -395,20 +395,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83129,
+      "num": 28042,
+      "word": "这哪是回南天这是回南天门了吧",
+      "onboard_time": 1709668874,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76262,
       "num": 76350,
       "word": "刘家祎的青春感",
       "onboard_time": 1709653833,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73311,
-      "num": 28042,
-      "word": "这哪是回南天这是回南天门了吧",
-      "onboard_time": 1709668874,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72053,
@@ -457,6 +457,14 @@
       "onboard_time": 1709644592,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42924,
+      "num": 20880,
+      "word": "老公出差抓人老婆在家救人",
+      "onboard_time": 1709673016,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41485,
@@ -515,6 +523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19433,
+      "num": 19433,
+      "word": "徐克射雕英雄传正在后期制作",
+      "onboard_time": 1709674035,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 14679,
       "num": 20851,
       "word": "汪苏泷 感情中切忌自我感动",
@@ -547,20 +563,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 11840,
-      "num": 20880,
-      "word": "老公出差抓人老婆在家救人",
-      "onboard_time": 1709673016,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11411,
+      "raw_hot": 11947,
       "num": 20837,
       "word": "果然男生对电子产品没抵抗力",
       "onboard_time": 1709671276,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 10873,
+      "num": 15383,
+      "word": "老人丢了6000元民警找回16000",
+      "onboard_time": 1709674218,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10080,
