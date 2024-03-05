@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709615783876,
+  "endTime": 1709616926613,
   "band_list": [
     {
       "raw_hot": 3012846,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1996677,
-      "num": 306061,
+      "num": 322585,
       "word": "张小斐发了110张照片",
       "onboard_time": 1709613395,
       "rank": 10,
@@ -297,6 +297,14 @@
       "onboard_time": 1709566351,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1197357,
+      "num": 1197357,
+      "word": "女子宫外孕没钱手术被医院收治并捐款",
+      "onboard_time": 1709615493,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1187026,
@@ -649,6 +657,14 @@
       "onboard_time": 1709518528,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 817004,
+      "num": 321764,
+      "word": "菲律宾",
+      "onboard_time": 1709615074,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 798998,
@@ -1020,7 +1036,7 @@
     },
     {
       "raw_hot": 637996,
-      "num": 424731,
+      "num": 510198,
       "word": "浪姐初舞台录制",
       "onboard_time": 1709613217,
       "rank": 42,
@@ -1427,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 525154,
+      "num": 319767,
+      "word": "小孩姐带王源玩雪",
+      "onboard_time": 1709615613,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 519696,
       "num": 296114,
       "word": "刘诗诗 大女主",
@@ -1513,6 +1537,14 @@
       "onboard_time": 1709602410,
       "rank": 5,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 489706,
+      "num": 489706,
+      "word": "沈腾也知道胡先煦腾化了",
+      "onboard_time": 1709614956,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 487780,
@@ -1900,7 +1932,7 @@
     },
     {
       "raw_hot": 406199,
-      "num": 304814,
+      "num": 317875,
       "word": "刘忻 选秀初恋",
       "onboard_time": 1709613095,
       "rank": 41,
@@ -1913,14 +1945,6 @@
       "onboard_time": 1709458410,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 403094,
-      "num": 403094,
-      "word": "沈腾也知道胡先煦腾化了",
-      "onboard_time": 1709614956,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 402185,
@@ -2025,6 +2049,14 @@
       "onboard_time": 1709603789,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 383696,
+      "num": 318553,
+      "word": "迪丽热巴留洋千金回国",
+      "onboard_time": 1709616273,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 383457,
@@ -2275,6 +2307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 349231,
+      "num": 349231,
+      "word": "中国海警就菲船只非法侵闯发表谈话",
+      "onboard_time": 1709614778,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 348029,
       "num": 348029,
       "word": "HPV疫苗",
@@ -2497,6 +2537,14 @@
       "onboard_time": 1709526153,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 317401,
+      "num": 317401,
+      "word": "Miss来浪姐了",
+      "onboard_time": 1709616514,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 316854,
@@ -2891,14 +2939,6 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 268396,
-      "num": 268396,
-      "word": "女子宫外孕没钱手术被医院收治并捐款",
-      "onboard_time": 1709615493,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 266593,
       "num": 266593,
       "word": "吴镇宇手动闭麦",
@@ -2929,6 +2969,14 @@
       "onboard_time": 1709447249,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264923,
+      "num": 264923,
+      "word": "湖人11比0雷霆",
+      "onboard_time": 1709616089,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 264907,
@@ -3051,14 +3099,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 256473,
-      "num": 256473,
-      "word": "中国海警就菲船只非法侵闯发表谈话",
-      "onboard_time": 1709614778,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 254515,
       "num": 254515,
       "word": "感觉朋友圈没有以前热闹了",
@@ -3129,6 +3169,14 @@
       "onboard_time": 1709393195,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 247930,
+      "num": 247930,
+      "word": "小时候讨厌现在却开始理解的角色",
+      "onboard_time": 1709612553,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 246093,
@@ -3265,14 +3313,6 @@
       "onboard_time": 1709546615,
       "rank": 30,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 238270,
-      "num": 238270,
-      "word": "菲律宾",
-      "onboard_time": 1709615074,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 238137,
@@ -3441,14 +3481,6 @@
       "onboard_time": 1709456131,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 225534,
-      "num": 225534,
-      "word": "小时候讨厌现在却开始理解的角色",
-      "onboard_time": 1709612553,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 225378,
@@ -3993,14 +4025,6 @@
       "onboard_time": 1709455707,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 197961,
-      "num": 197961,
-      "word": "小孩姐带王源玩雪",
-      "onboard_time": 1709615613,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 197652,
@@ -5995,6 +6019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126835,
+      "num": 126835,
+      "word": "暴瘦站立有氧HIIT",
+      "onboard_time": 1709616874,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 126510,
       "num": 126510,
       "word": "代表建议降低火车飞机票退改签费率",
@@ -6684,7 +6716,7 @@
     },
     {
       "raw_hot": 78056,
-      "num": 304212,
+      "num": 321251,
       "word": "解锁未来可能性",
       "onboard_time": 1709613815,
       "rank": 13,
@@ -7259,6 +7291,9 @@
     },
     {
       "word": "#时政微视频无我#"
+    },
+    {
+      "word": "#总书记100多次到基层考察调研#"
     }
   ]
 }
