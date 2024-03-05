@@ -1,6 +1,6 @@
 {
   "startTime": 1709569387343,
-  "endTime": 1709624037279,
+  "endTime": 1709626893047,
   "band_list": [
     {
       "raw_hot": 3012846,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2510696,
-      "num": 271322,
+      "num": 284987,
       "word": "遭多人强暴的西班牙网红收到印度政府赔偿",
       "onboard_time": 1709619392,
       "rank": 30,
@@ -51,6 +51,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1685096,
+      "num": 284464,
+      "word": "继承者们 抄袭",
+      "onboard_time": 1709625152,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1508413,
       "num": 1508413,
       "word": "霍启刚 建议落实带薪休假制度",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1356611,
-      "num": 269462,
+      "num": 283143,
       "word": "4.9元生菜被炒到300元",
       "onboard_time": 1709619871,
       "rank": 22,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1237416,
-      "num": 266708,
+      "num": 282057,
       "word": "贝玲妃被曝将退出中国市场",
       "onboard_time": 1709620953,
       "rank": 12,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1178412,
-      "num": 263808,
+      "num": 283917,
       "word": "蓝盈莹被广东回南天吓到了",
       "onboard_time": 1709621615,
       "rank": 14,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 926220,
-      "num": 265713,
+      "num": 282889,
       "word": "男子强制妻儿撤离1分钟后车被撞毁",
       "onboard_time": 1709620892,
       "rank": 13,
@@ -291,8 +299,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 632366,
+      "num": 632366,
+      "word": "志愿献血全年报废血量约114吨",
+      "onboard_time": 1709621252,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599206,
-      "num": 260889,
+      "num": 280603,
       "word": "离开SM的艺人",
       "onboard_time": 1709621494,
       "rank": 15,
@@ -337,6 +353,14 @@
       "onboard_time": 1709603967,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 548545,
+      "num": 548545,
+      "word": "东部战区回应美舰过航台湾海峡",
+      "onboard_time": 1709624555,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 541501,
@@ -571,14 +595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 354774,
-      "num": 237887,
-      "word": "志愿献血全年报废血量约114吨",
-      "onboard_time": 1709621252,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349231,
       "num": 349231,
       "word": "中国海警就菲船只非法侵闯发表谈话",
@@ -603,12 +619,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 339629,
+      "num": 279757,
+      "word": "日本的麦当劳可以点微笑",
+      "onboard_time": 1709624731,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 337789,
       "num": 337789,
       "word": "三月将要播的电视剧",
       "onboard_time": 1709563892,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337542,
+      "num": 337542,
+      "word": "委员说成为网红不是旅游城市发展的全部",
+      "onboard_time": 1709623595,
+      "rank": 42,
+      "category": "国内时政,旅游"
     },
     {
       "raw_hot": 333926,
@@ -625,6 +657,14 @@
       "onboard_time": 1709596409,
       "rank": 15,
       "category": "教育,国内时政"
+    },
+    {
+      "raw_hot": 324529,
+      "num": 324529,
+      "word": "仙人揉腹",
+      "onboard_time": 1709619513,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 319515,
@@ -657,14 +697,6 @@
       "onboard_time": 1709594608,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 308428,
-      "num": 243081,
-      "word": "仙人揉腹",
-      "onboard_time": 1709619513,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 306501,
@@ -723,12 +755,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289737,
+      "num": 279058,
+      "word": "王一博Lacoste",
+      "onboard_time": 1709626294,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 288904,
       "num": 288904,
       "word": "贝索斯再成世界首富",
       "onboard_time": 1709599532,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 287677,
+      "num": 277286,
+      "word": "幸运咖为何火不起来",
+      "onboard_time": 1709623115,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 286054,
@@ -761,6 +809,14 @@
       "onboard_time": 1709601749,
       "rank": 26,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 276809,
+      "num": 276809,
+      "word": "女子买茅台遭威胁涉事门店已关门",
+      "onboard_time": 1709625751,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275603,
@@ -843,6 +899,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 250876,
+      "num": 250876,
+      "word": "假装自信真的很有用",
+      "onboard_time": 1709622995,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 250856,
       "num": 201744,
       "word": "爱情公寓演员今昔对比",
@@ -899,12 +963,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 239063,
-      "num": 231986,
-      "word": "幸运咖为何火不起来",
-      "onboard_time": 1709623115,
-      "rank": 22,
-      "category": "美食"
+      "raw_hot": 237158,
+      "num": 237158,
+      "word": "李雪琴的记忆力",
+      "onboard_time": 1709625093,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 237064,
@@ -915,8 +979,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 233888,
-      "num": 233888,
+      "raw_hot": 234292,
+      "num": 234292,
       "word": "张予曦好像手办娃娃",
       "onboard_time": 1709622151,
       "rank": 36,
@@ -963,11 +1027,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227126,
+      "num": 227126,
+      "word": "李玟二姐说答应妹妹会努力走完这一生",
+      "onboard_time": 1709626474,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217825,
       "num": 217825,
       "word": "这竟是我那桀骜不驯的桑延",
       "onboard_time": 1709610572,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 217604,
+      "num": 217604,
+      "word": "张彬彬毛晓彤开机图",
+      "onboard_time": 1709626353,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -1009,6 +1089,14 @@
       "onboard_time": 1709553274,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209085,
+      "num": 209085,
+      "word": "正确坐姿的关键只有1个",
+      "onboard_time": 1709624252,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 205276,
@@ -1107,14 +1195,6 @@
       "category": "国内时政,财经"
     },
     {
-      "raw_hot": 187760,
-      "num": 187760,
-      "word": "假装自信真的很有用",
-      "onboard_time": 1709622995,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 184508,
       "num": 928124,
       "word": "2023中国发展成绩单",
@@ -1128,6 +1208,22 @@
       "word": "青海杂多县5.3级地震",
       "onboard_time": 1709607511,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181840,
+      "num": 181840,
+      "word": "蔡依林被巴黎男粉应援逗笑",
+      "onboard_time": 1709624614,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 181372,
+      "num": 181372,
+      "word": "回南天",
+      "onboard_time": 1709624852,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1225,6 +1321,14 @@
       "onboard_time": 1709610212,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168372,
+      "num": 168372,
+      "word": "化妆界的发疯文学",
+      "onboard_time": 1709626533,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 168279,
@@ -1395,20 +1499,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 145179,
+      "num": 145179,
+      "word": "崩坏星穹铁道 神迹降临",
+      "onboard_time": 1709624973,
+      "rank": 41,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 142684,
       "num": 142684,
       "word": "C罗亚冠首败",
       "onboard_time": 1709602349,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140938,
-      "num": 140938,
-      "word": "委员说成为网红不是旅游城市发展的全部",
-      "onboard_time": 1709623595,
-      "rank": 42,
-      "category": "国内时政,旅游"
     },
     {
       "raw_hot": 140778,
@@ -1515,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127331,
+      "num": 127331,
+      "word": "3家汽车央企新能源汽车业务将单独考核",
+      "onboard_time": 1709623115,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 126871,
       "num": 126871,
       "word": "快船vs雄鹿",
@@ -1539,20 +1651,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 125943,
-      "num": 125943,
-      "word": "3家汽车央企新能源汽车业务将单独考核",
-      "onboard_time": 1709623115,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 125940,
-      "num": 533197,
+      "num": 583108,
       "word": "政府工作报告里的民生红包",
       "onboard_time": 1709607810,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 124433,
+      "num": 124433,
+      "word": "娃哈哈瓶盖背后写着中华",
+      "onboard_time": 1709626595,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123979,
@@ -1585,6 +1697,14 @@
       "onboard_time": 1709600852,
       "rank": 41,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 118920,
+      "num": 118920,
+      "word": "阮经天 谁说颜值不能当饭吃",
+      "onboard_time": 1709626832,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 118314,
