@@ -1,6 +1,6 @@
 {
   "startTime": 1709569387343,
-  "endTime": 1709648210630,
+  "endTime": 1709649319887,
   "band_list": [
     {
       "raw_hot": 3012846,
@@ -115,6 +115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1290644,
+      "num": 1290644,
+      "word": "建议彩票个人单项奖金最高额度不超过500万",
+      "onboard_time": 1709646213,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1260641,
       "num": 359468,
       "word": "周处除三害 抄袭",
@@ -209,14 +217,6 @@
       "onboard_time": 1709642132,
       "rank": 22,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1030501,
-      "num": 1030501,
-      "word": "建议彩票个人单项奖金最高额度不超过500万",
-      "onboard_time": 1709646213,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 982932,
@@ -403,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 700086,
+      "num": 255261,
+      "word": "140万买的230平房子",
+      "onboard_time": 1709648496,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 686532,
       "num": 356849,
       "word": "苹果市值一夜蒸发超5000亿元",
@@ -489,6 +497,14 @@
       "onboard_time": 1709634153,
       "rank": 18,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 574059,
+      "num": 304563,
+      "word": "易梦玲宋智雅合照",
+      "onboard_time": 1709647776,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 571279,
@@ -771,6 +787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 408251,
+      "num": 303790,
+      "word": "真没必要为三五年后的前途担忧",
+      "onboard_time": 1709647776,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 406199,
       "num": 317875,
       "word": "刘忻 选秀初恋",
@@ -819,6 +843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 385666,
+      "num": 304262,
+      "word": "王一博世趋排名",
+      "onboard_time": 1709647656,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 380926,
       "num": 380926,
       "word": "章若楠张淼怡难哄同框",
@@ -843,6 +875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 375984,
+      "num": 375984,
+      "word": "感染HPV后还能打疫苗吗",
+      "onboard_time": 1709645733,
+      "rank": 4,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 375023,
       "num": 375023,
       "word": "广东现在是一个巨大的水帘洞",
@@ -857,14 +897,6 @@
       "onboard_time": 1709618012,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 367299,
-      "num": 304563,
-      "word": "易梦玲宋智雅合照",
-      "onboard_time": 1709647776,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 365931,
@@ -897,14 +929,6 @@
       "onboard_time": 1709633015,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 352599,
-      "num": 304262,
-      "word": "王一博世趋排名",
-      "onboard_time": 1709647656,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 349231,
@@ -1003,14 +1027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318775,
-      "num": 318775,
-      "word": "感染HPV后还能打疫苗吗",
-      "onboard_time": 1709645733,
-      "rank": 4,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 316793,
       "num": 316793,
       "word": "建议重视中小学教师心理健康",
@@ -1067,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303790,
-      "num": 303790,
-      "word": "真没必要为三五年后的前途担忧",
-      "onboard_time": 1709647776,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 300741,
       "num": 300741,
       "word": "这家猫咖真是卧龙凤雏",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1709620653,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293445,
+      "num": 283681,
+      "word": "越来越多年轻人确诊淡淡综合症",
+      "onboard_time": 1709647897,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291300,
@@ -1195,6 +1211,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 283428,
+      "num": 283428,
+      "word": "豪士面包 种地吧",
+      "onboard_time": 1709644171,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277013,
       "num": 277013,
       "word": "2023年经济社会发展主要目标任务圆满完成",
@@ -1265,14 +1289,6 @@
       "onboard_time": 1709549133,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 263613,
-      "num": 263613,
-      "word": "豪士面包 种地吧",
-      "onboard_time": 1709644171,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 259282,
@@ -1803,6 +1819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187225,
+      "num": 187225,
+      "word": "别再让黄金店割智商税了",
+      "onboard_time": 1709648857,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 185562,
       "num": 309074,
       "word": "RNG对战TT",
@@ -1955,6 +1979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 173542,
+      "num": 292184,
+      "word": "唐探2时间线连上了",
+      "onboard_time": 1709648496,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173452,
       "num": 173452,
       "word": "山东事业编",
@@ -1993,6 +2025,14 @@
       "onboard_time": 1709554054,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 169567,
+      "num": 169567,
+      "word": "RNG七连败",
+      "onboard_time": 1709648436,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 168931,
@@ -2187,14 +2227,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152774,
-      "num": 152774,
-      "word": "越来越多年轻人确诊淡淡综合症",
-      "onboard_time": 1709647897,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151228,
       "num": 208134,
       "word": "金价又上涨了",
@@ -2321,6 +2353,14 @@
       "onboard_time": 1709600429,
       "rank": 36,
       "category": "国内时政,母婴育儿"
+    },
+    {
+      "raw_hot": 140046,
+      "num": 291179,
+      "word": "金价",
+      "onboard_time": 1709648976,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 139957,
@@ -2667,6 +2707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114273,
+      "num": 114273,
+      "word": "TT战胜RNG",
+      "onboard_time": 1709648374,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113316,
       "num": 113316,
       "word": "我早起的第一件事",
@@ -2827,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82895,
+      "num": 464680,
+      "word": "细节中读懂两会的精微要义",
+      "onboard_time": 1709644592,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82771,
       "num": 82771,
       "word": "耳帝评周处除三害插曲",
@@ -2841,14 +2897,6 @@
       "onboard_time": 1709647534,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 82219,
-      "num": 464680,
-      "word": "细节中读懂两会的精微要义",
-      "onboard_time": 1709644592,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 81169,

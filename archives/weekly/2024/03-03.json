@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709648210630,
+  "endTime": 1709649319887,
   "band_list": [
     {
       "raw_hot": 3012846,
@@ -299,6 +299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1290644,
+      "num": 1290644,
+      "word": "建议彩票个人单项奖金最高额度不超过500万",
+      "onboard_time": 1709646213,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1284977,
       "num": 1099698,
       "word": "女子买茅台验真伪被死亡威胁",
@@ -513,14 +521,6 @@
       "onboard_time": 1709510369,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1030501,
-      "num": 1030501,
-      "word": "建议彩票个人单项奖金最高额度不超过500万",
-      "onboard_time": 1709646213,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1029181,
@@ -1059,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 700086,
+      "num": 255261,
+      "word": "140万买的230平房子",
+      "onboard_time": 1709648496,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 699355,
       "num": 281517,
       "word": "女子动物园私自抱娃下车被狼逼进",
@@ -1505,6 +1513,14 @@
       "onboard_time": 1709456790,
       "rank": 9,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 574059,
+      "num": 304563,
+      "word": "易梦玲宋智雅合照",
+      "onboard_time": 1709647776,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 572405,
@@ -2339,6 +2355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 408251,
+      "num": 303790,
+      "word": "真没必要为三五年后的前途担忧",
+      "onboard_time": 1709647776,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 406199,
       "num": 317875,
       "word": "刘忻 选秀初恋",
@@ -2459,6 +2483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 385666,
+      "num": 304262,
+      "word": "王一博世趋排名",
+      "onboard_time": 1709647656,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 383457,
       "num": 383457,
       "word": "沈梦辰巴黎走秀",
@@ -2523,6 +2555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 375984,
+      "num": 375984,
+      "word": "感染HPV后还能打疫苗吗",
+      "onboard_time": 1709645733,
+      "rank": 4,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 375023,
       "num": 375023,
       "word": "广东现在是一个巨大的水帘洞",
@@ -2569,14 +2609,6 @@
       "onboard_time": 1709618012,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 367299,
-      "num": 304563,
-      "word": "易梦玲宋智雅合照",
-      "onboard_time": 1709647776,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 367298,
@@ -2713,14 +2745,6 @@
       "onboard_time": 1709468912,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 352599,
-      "num": 304262,
-      "word": "王一博世趋排名",
-      "onboard_time": 1709647656,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 352493,
@@ -3027,14 +3051,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 318775,
-      "num": 318775,
-      "word": "感染HPV后还能打疫苗吗",
-      "onboard_time": 1709645733,
-      "rank": 4,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 317616,
       "num": 317616,
       "word": "原来生日有这么多隐藏福利",
@@ -3155,14 +3171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303790,
-      "num": 303790,
-      "word": "真没必要为三五年后的前途担忧",
-      "onboard_time": 1709647776,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 303750,
       "num": 303750,
       "word": "闪耀暖暖 好看",
@@ -3257,6 +3265,14 @@
       "onboard_time": 1709531553,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293445,
+      "num": 283681,
+      "word": "越来越多年轻人确诊淡淡综合症",
+      "onboard_time": 1709647897,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293409,
@@ -3409,6 +3425,14 @@
       "onboard_time": 1709618673,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283428,
+      "num": 283428,
+      "word": "豪士面包 种地吧",
+      "onboard_time": 1709644171,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 281106,
@@ -3617,14 +3641,6 @@
       "onboard_time": 1709540428,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263613,
-      "num": 263613,
-      "word": "豪士面包 种地吧",
-      "onboard_time": 1709644171,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 263028,
@@ -5187,6 +5203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187225,
+      "num": 187225,
+      "word": "别再让黄金店割智商税了",
+      "onboard_time": 1709648857,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 187123,
       "num": 187123,
       "word": "第二十条",
@@ -5603,6 +5627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173542,
+      "num": 292184,
+      "word": "唐探2时间线连上了",
+      "onboard_time": 1709648496,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173452,
       "num": 173452,
       "word": "山东事业编",
@@ -5689,6 +5721,14 @@
       "onboard_time": 1709561493,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169567,
+      "num": 169567,
+      "word": "RNG七连败",
+      "onboard_time": 1709648436,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 169234,
@@ -6211,14 +6251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152774,
-      "num": 152774,
-      "word": "越来越多年轻人确诊淡淡综合症",
-      "onboard_time": 1709647897,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152687,
       "num": 152687,
       "word": "这一抱硬控我10秒",
@@ -6705,6 +6737,14 @@
       "onboard_time": 1709470711,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140046,
+      "num": 291179,
+      "word": "金价",
+      "onboard_time": 1709648976,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 139957,
@@ -7691,6 +7731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114273,
+      "num": 114273,
+      "word": "TT战胜RNG",
+      "onboard_time": 1709648374,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113890,
       "num": 113890,
       "word": "HPV科普",
@@ -8123,20 +8171,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 82895,
+      "num": 464680,
+      "word": "细节中读懂两会的精微要义",
+      "onboard_time": 1709644592,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82714,
       "num": 120970,
       "word": "马斯克回应特斯拉德国工厂火灾",
       "onboard_time": 1709647534,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 82219,
-      "num": 464680,
-      "word": "细节中读懂两会的精微要义",
-      "onboard_time": 1709644592,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 80232,
