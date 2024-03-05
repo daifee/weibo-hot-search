@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709652874404,
+  "endTime": 1709655654688,
   "band_list": [
     {
       "raw_hot": 3012846,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1652669,
-      "num": 256175,
+      "num": 1135872,
       "word": "140万买的230平房子",
       "onboard_time": 1709648496,
       "rank": 30,
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 928034,
-      "num": 425001,
+      "num": 574955,
       "word": "金价",
       "onboard_time": 1709648976,
       "rank": 9,
@@ -1137,6 +1137,14 @@
       "onboard_time": 1709523451,
       "rank": 12,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 681520,
+      "num": 220789,
+      "word": "农夫山泉",
+      "onboard_time": 1709508205,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 681075,
@@ -2915,6 +2923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 332826,
+      "num": 241223,
+      "word": "相亲当晚女生发来开销账单",
+      "onboard_time": 1709650597,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332769,
       "num": 332769,
       "word": "王鹤棣一张机场照被4个cp嗑",
@@ -3187,6 +3203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 304813,
+      "num": 213254,
+      "word": "邓为工作室的审美",
+      "onboard_time": 1709653232,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 304592,
       "num": 304592,
       "word": "陆雨婷第二",
@@ -3313,14 +3337,6 @@
       "onboard_time": 1709432131,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292350,
-      "num": 241223,
-      "word": "相亲当晚女生发来开销账单",
-      "onboard_time": 1709650597,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291922,
@@ -3537,14 +3553,6 @@
       "onboard_time": 1709608228,
       "rank": 32,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 275181,
-      "num": 208366,
-      "word": "农夫山泉",
-      "onboard_time": 1709508205,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274091,
@@ -4659,6 +4667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 207855,
+      "num": 207855,
+      "word": "杨幂谈私服风格",
+      "onboard_time": 1709654130,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207761,
       "num": 180444,
       "word": "WBG春季赛三连败",
@@ -5017,6 +5033,14 @@
       "onboard_time": 1709459551,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 196021,
+      "num": 196021,
+      "word": "周杰伦录制说唱梦工厂",
+      "onboard_time": 1709652992,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 195854,
@@ -6163,6 +6187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157034,
+      "num": 157034,
+      "word": "王一博白色运动服造型",
+      "onboard_time": 1709653173,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 156909,
       "num": 156909,
       "word": "唐嫣晒巴黎街拍",
@@ -7243,6 +7275,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 129989,
+      "num": 129989,
+      "word": "浪姐颜值",
+      "onboard_time": 1709655088,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129728,
       "num": 129728,
       "word": "一觉醒来跳水梦之队拿了3个冠军",
@@ -8307,6 +8347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76262,
+      "num": 76262,
+      "word": "刘家祎的青春感",
+      "onboard_time": 1709653833,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76235,
       "num": 76235,
       "word": "别人放垃圾话林臻东放老实话",
@@ -8361,6 +8409,14 @@
       "onboard_time": 1709379513,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 61800,
+      "num": 72013,
+      "word": "双向奔赴的病情",
+      "onboard_time": 1709654432,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 60494,
