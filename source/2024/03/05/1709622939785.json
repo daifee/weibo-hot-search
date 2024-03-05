@@ -1,0 +1,410 @@
+{
+  "runTime": 1709622939785,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 808506,
+        "num": 808506,
+        "word": "建议火车票免费改签2次",
+        "onboard_time": 1709618251,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 578703,
+        "num": 578703,
+        "word": "委员建议女性可带薪育产假达2年",
+        "onboard_time": 1709611710,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32426,
+        "num": 564091,
+        "word": "30句话读懂政府工作报告",
+        "onboard_time": 1709622393,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 551222,
+        "num": 551222,
+        "word": "女子宫外孕没钱手术被医院收治并捐款",
+        "onboard_time": 1709615493,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 490960,
+        "num": 490960,
+        "word": "委员建议内地增加一年制硕士",
+        "onboard_time": 1709619031,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 479738,
+        "num": 479738,
+        "word": "Miss来浪姐了",
+        "onboard_time": 1709616514,
+        "rank": 5,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 320171,
+        "num": 320171,
+        "word": "霍启刚 建议落实带薪休假制度",
+        "onboard_time": 1709622811,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 316793,
+        "num": 316793,
+        "word": "建议重视中小学教师心理健康",
+        "onboard_time": 1709621192,
+        "rank": 7,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 285233,
+        "num": 285233,
+        "word": "王曼昱世界排名重返前三",
+        "onboard_time": 1709618673,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273050,
+        "num": 273050,
+        "word": "金价涨了",
+        "onboard_time": 1709605950,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2510696,
+        "num": 271322,
+        "word": "遭多人强暴的西班牙网红收到印度政府赔偿",
+        "onboard_time": 1709619392,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1356611,
+        "num": 269462,
+        "word": "4.9元生菜被炒到300元",
+        "onboard_time": 1709619871,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1237416,
+        "num": 266708,
+        "word": "贝玲妃被曝将退出中国市场",
+        "onboard_time": 1709620953,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734568,
+        "num": 265713,
+        "word": "男子强制妻儿撤离1分钟后车被撞毁",
+        "onboard_time": 1709620892,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705065,
+        "num": 263808,
+        "word": "蓝盈莹被广东回南天吓到了",
+        "onboard_time": 1709621615,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599206,
+        "num": 260889,
+        "word": "离开SM的艺人",
+        "onboard_time": 1709621494,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536775,
+        "num": 259125,
+        "word": "迪丽热巴留洋千金回国",
+        "onboard_time": 1709616273,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257272,
+        "num": 257272,
+        "word": "张颂文早期在深圳当导游",
+        "onboard_time": 1709618012,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243081,
+        "num": 243081,
+        "word": "仙人揉腹",
+        "onboard_time": 1709619513,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241124,
+        "num": 241124,
+        "word": "李泰民签约BPM",
+        "onboard_time": 1709618130,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480896,
+        "num": 237470,
+        "word": "温流离开SM",
+        "onboard_time": 1709619332,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224760,
+        "num": 224760,
+        "word": "冯远征谈甄嬛传在台热播",
+        "onboard_time": 1709617892,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420184,
+        "num": 224473,
+        "word": "长期喝白开水和长期喝茶哪个更健康",
+        "onboard_time": 1709606911,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 315221,
+        "num": 224378,
+        "word": "志愿献血全年报废血量约114吨",
+        "onboard_time": 1709621252,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245508,
+        "num": 224266,
+        "word": "蒋欣好忙",
+        "onboard_time": 1709620473,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224149,
+        "num": 224149,
+        "word": "极简版政府工作报告",
+        "onboard_time": 1709604808,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 294043,
+        "num": 223815,
+        "word": "李寿根离开SM",
+        "onboard_time": 1709620653,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222905,
+        "num": 222905,
+        "word": "3大睡眠习惯易患癌",
+        "onboard_time": 1709607449,
+        "rank": 27,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 221174,
+        "num": 221174,
+        "word": "菲律宾",
+        "onboard_time": 1709615074,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 216137,
+        "num": 216137,
+        "word": "章若楠张淼怡难哄同框",
+        "onboard_time": 1709622333,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198933,
+        "num": 198933,
+        "word": "小孩姐带王源玩雪",
+        "onboard_time": 1709615613,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194521,
+        "num": 194521,
+        "word": "法国堕胎权入宪",
+        "onboard_time": 1709618610,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 182600,
+        "num": 182600,
+        "word": "SHINee",
+        "onboard_time": 1709622572,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180271,
+        "num": 180271,
+        "word": "浪姐初舞台录制",
+        "onboard_time": 1709613217,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168598,
+        "num": 168598,
+        "word": "考研失败却找到更好工作",
+        "onboard_time": 1709613937,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161118,
+        "num": 161118,
+        "word": "18女孩摆摊3年免费教300人学会救人",
+        "onboard_time": 1709619991,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159656,
+        "num": 159656,
+        "word": "张予曦好像手办娃娃",
+        "onboard_time": 1709622151,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147820,
+        "num": 147820,
+        "word": "古诗词里的春天自带氛围感",
+        "onboard_time": 1709621912,
+        "rank": 37,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 144041,
+        "num": 144041,
+        "word": "月薪上万也不舍得买鄂尔多斯",
+        "onboard_time": 1709594065,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 142912,
+        "num": 142912,
+        "word": "第一场部长通道",
+        "onboard_time": 1709606971,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141946,
+        "num": 141946,
+        "word": "2024政府工作报告",
+        "onboard_time": 1709600969,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128878,
+        "num": 128878,
+        "word": "湖人11比0雷霆",
+        "onboard_time": 1709616089,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126279,
+        "num": 126279,
+        "word": "2024年政府工作十大任务",
+        "onboard_time": 1709604149,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123196,
+        "num": 123196,
+        "word": "预计今年高校毕业生超1170万人",
+        "onboard_time": 1709605290,
+        "rank": 43,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 121731,
+        "num": 121731,
+        "word": "小时候讨厌现在却开始理解的角色",
+        "onboard_time": 1709612553,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102575,
+        "num": 120427,
+        "word": "人生的100种可能",
+        "onboard_time": 1709618730,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120170,
+        "num": 120170,
+        "word": "刘亦菲巴黎时装周",
+        "onboard_time": 1709622755,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 48152,
+        "num": 112326,
+        "word": "2023中国发展成绩单",
+        "onboard_time": 1709605049,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111386,
+        "num": 111386,
+        "word": "沈腾也知道胡先煦腾化了",
+        "onboard_time": 1709614956,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110071,
+        "num": 110071,
+        "word": "开始推理吧2上班路透",
+        "onboard_time": 1709617412,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记100多次到基层考察调研#"
+    }
+  }
+}
