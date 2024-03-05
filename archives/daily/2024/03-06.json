@@ -1,6 +1,6 @@
 {
   "startTime": 1709655654688,
-  "endTime": 1709674503580,
+  "endTime": 1709677028397,
   "band_list": [
     {
       "raw_hot": 1135872,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 175373,
-      "num": 36742,
+      "num": 51732,
       "word": "最新研究找到熬夜致癌原因",
       "onboard_time": 1709662697,
       "rank": 48,
@@ -323,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118417,
+      "num": 49844,
+      "word": "这哪是回南天这是回南天门了吧",
+      "onboard_time": 1709668874,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116281,
       "num": 116281,
       "word": "Minnie MiuMiu秀场中文问候",
@@ -387,20 +395,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85514,
+      "num": 36292,
+      "word": "老公出差抓人老婆在家救人",
+      "onboard_time": 1709673016,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85260,
+      "num": 49512,
+      "word": "老人丢了6000元民警找回16000",
+      "onboard_time": 1709674218,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83685,
       "num": 134529,
       "word": "烟火人家孟菀青角色魅力",
       "onboard_time": 1709655748,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 83129,
-      "num": 28042,
-      "word": "这哪是回南天这是回南天门了吧",
-      "onboard_time": 1709668874,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76262,
@@ -459,12 +475,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 42924,
-      "num": 20880,
-      "word": "老公出差抓人老婆在家救人",
-      "onboard_time": 1709673016,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 51473,
+      "num": 51473,
+      "word": "徐克射雕英雄传正在后期制作",
+      "onboard_time": 1709674035,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 41485,
@@ -489,6 +505,14 @@
       "onboard_time": 1709656227,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30131,
+      "num": 27018,
+      "word": "伊能静儿子巴黎时装周街采",
+      "onboard_time": 1709676136,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 27744,
@@ -523,12 +547,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19433,
-      "num": 19433,
-      "word": "徐克射雕英雄传正在后期制作",
-      "onboard_time": 1709674035,
-      "rank": 8,
-      "category": "电影"
+      "raw_hot": 19641,
+      "num": 19641,
+      "word": "2块钱和上百元的维生素C哪个更好",
+      "onboard_time": 1709674155,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15945,
+      "num": 20837,
+      "word": "果然男生对电子产品没抵抗力",
+      "onboard_time": 1709671276,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 14679,
@@ -561,22 +593,6 @@
       "onboard_time": 1709661199,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 11947,
-      "num": 20837,
-      "word": "果然男生对电子产品没抵抗力",
-      "onboard_time": 1709671276,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 10873,
-      "num": 15383,
-      "word": "老人丢了6000元民警找回16000",
-      "onboard_time": 1709674218,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10080,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1709677028397,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 176321,
+        "num": 176321,
+        "word": "140万买的230平房子",
+        "onboard_time": 1709648496,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54596,
+        "num": 54596,
+        "word": "建议彩票个人单项奖金最高额度不超过500万",
+        "onboard_time": 1709646213,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14239,
+        "num": 51993,
+        "word": "2024全国两会新词热词",
+        "onboard_time": 1709639792,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202744,
+        "num": 51946,
+        "word": "凯特王妃",
+        "onboard_time": 1709660539,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 82747,
+        "num": 51732,
+        "word": "最新研究找到熬夜致癌原因",
+        "onboard_time": 1709662697,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51473,
+        "num": 51473,
+        "word": "徐克射雕英雄传正在后期制作",
+        "onboard_time": 1709674035,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29743,
+        "num": 51255,
+        "word": "建议消除简历第一学历概念",
+        "onboard_time": 1709633614,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29698,
+        "num": 50967,
+        "word": "射雕英雄传侠之大者计划全球发行",
+        "onboard_time": 1709650955,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29304,
+        "num": 50782,
+        "word": "皇家社会vs巴黎圣日耳曼",
+        "onboard_time": 1709656227,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25693,
+        "num": 50188,
+        "word": "代表建议毕业生不要只把眼光放在一线城市",
+        "onboard_time": 1709631036,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118417,
+        "num": 49844,
+        "word": "这哪是回南天这是回南天门了吧",
+        "onboard_time": 1709668874,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85260,
+        "num": 49512,
+        "word": "老人丢了6000元民警找回16000",
+        "onboard_time": 1709674218,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75818,
+        "num": 49200,
+        "word": "遭多人强暴的西班牙网红收到印度政府赔偿",
+        "onboard_time": 1709619392,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69441,
+        "num": 48905,
+        "word": "白敬亭退出乐本文化",
+        "onboard_time": 1709633971,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51766,
+        "num": 48621,
+        "word": "张铭恩一种隐约的狠辣",
+        "onboard_time": 1709659761,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48480,
+        "num": 48480,
+        "word": "王一博白色运动服造型",
+        "onboard_time": 1709653173,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45148,
+        "num": 45148,
+        "word": "朱丹听到sorry变脸",
+        "onboard_time": 1709643155,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41995,
+        "num": 41995,
+        "word": "我在银行买金镯子又大又便宜",
+        "onboard_time": 1709645555,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37089,
+        "num": 37089,
+        "word": "已经生娃可能还会检测出已怀孕",
+        "onboard_time": 1709645075,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36407,
+        "num": 36407,
+        "word": "浪姐颜值",
+        "onboard_time": 1709655088,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85514,
+        "num": 36292,
+        "word": "老公出差抓人老婆在家救人",
+        "onboard_time": 1709673016,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42754,
+        "num": 36121,
+        "word": "越来越多年轻人确诊淡淡综合症",
+        "onboard_time": 1709647897,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42142,
+        "num": 35905,
+        "word": "相亲当晚女生发来开销账单",
+        "onboard_time": 1709650597,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39737,
+        "num": 35598,
+        "word": "阿姨被辞退后发信息轰炸我",
+        "onboard_time": 1709644952,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35471,
+        "num": 35471,
+        "word": "周处除三害 抄袭",
+        "onboard_time": 1709627075,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32321,
+        "num": 32321,
+        "word": "真没必要为三五年后的前途担忧",
+        "onboard_time": 1709647776,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29027,
+        "num": 29027,
+        "word": "分手后最体面的星座",
+        "onboard_time": 1709641473,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27584,
+        "num": 27584,
+        "word": "粉丝抵制黄牛炒作300元生菜",
+        "onboard_time": 1709662099,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27311,
+        "num": 27311,
+        "word": "Jennie仪态",
+        "onboard_time": 1709646272,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 27232,
+        "num": 27232,
+        "word": "继承者们 抄袭",
+        "onboard_time": 1709625152,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30131,
+        "num": 27018,
+        "word": "伊能静儿子巴黎时装周街采",
+        "onboard_time": 1709676136,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24642,
+        "num": 24642,
+        "word": "别再让黄金店割智商税了",
+        "onboard_time": 1709648857,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21986,
+        "num": 21986,
+        "word": "腰腹赘肉算是踢到铁板了",
+        "onboard_time": 1709657184,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 21006,
+        "num": 21006,
+        "word": "男朋友谈过一段很长的恋爱",
+        "onboard_time": 1709634513,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20909,
+        "num": 20909,
+        "word": "拜仁慕尼黑vs拉齐奥",
+        "onboard_time": 1709668935,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20894,
+        "num": 20894,
+        "word": "易梦玲宋智雅合照",
+        "onboard_time": 1709647776,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20764,
+        "num": 20764,
+        "word": "蔚来现金储备达573亿元",
+        "onboard_time": 1709650356,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 20649,
+        "num": 20649,
+        "word": "金价",
+        "onboard_time": 1709648976,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 19641,
+        "num": 19641,
+        "word": "2块钱和上百元的维生素C哪个更好",
+        "onboard_time": 1709674155,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19634,
+        "num": 19634,
+        "word": "身体出现3个异常警惕癌症信号",
+        "onboard_time": 1709643450,
+        "rank": 39,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 19077,
+        "num": 19077,
+        "word": "宋茜谈年龄焦虑",
+        "onboard_time": 1709661798,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18960,
+        "num": 18960,
+        "word": "建议中小学生每天都有一节体育课",
+        "onboard_time": 1709628212,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18250,
+        "num": 18250,
+        "word": "王一博世趋排名",
+        "onboard_time": 1709647656,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17595,
+        "num": 17595,
+        "word": "杨幂谈私服风格",
+        "onboard_time": 1709654130,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17328,
+        "num": 17328,
+        "word": "邓为工作室的审美",
+        "onboard_time": 1709653232,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16801,
+        "num": 16801,
+        "word": "哈兰德认为梅西是历史最佳球员",
+        "onboard_time": 1709649996,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16799,
+        "num": 16799,
+        "word": "这只猫真的非养不可吗",
+        "onboard_time": 1709646874,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15945,
+        "num": 16793,
+        "word": "果然男生对电子产品没抵抗力",
+        "onboard_time": 1709671276,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13345,
+        "num": 16782,
+        "word": "陈桂林原型",
+        "onboard_time": 1709666536,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13041,
+        "num": 16777,
+        "word": "朱一龙志愿军2将于国庆档上映",
+        "onboard_time": 1709651137,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展新质生产力不是忽视放弃传统产业#"
+    }
+  }
+}
