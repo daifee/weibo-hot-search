@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709612486670,
+  "endTime": 1709613265216,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -779,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1026060,
+      "num": 1026060,
+      "word": "委员建议女性可带薪育产假达2年",
+      "onboard_time": 1709611710,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1021799,
       "num": 1021799,
       "word": "我大使回应中国或成为第二个日本",
@@ -916,7 +924,7 @@
     },
     {
       "raw_hot": 939808,
-      "num": 329884,
+      "num": 331231,
       "word": "大学毕业到30岁是最艰难的几年",
       "onboard_time": 1709607992,
       "rank": 18,
@@ -972,7 +980,7 @@
     },
     {
       "raw_hot": 900427,
-      "num": 286419,
+      "num": 330477,
       "word": "长期喝白开水和长期喝茶哪个更健康",
       "onboard_time": 1709606911,
       "rank": 20,
@@ -1769,6 +1777,14 @@
       "onboard_time": 1709522251,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647712,
+      "num": 377129,
+      "word": "郭艾伦腿部注射干细胞",
+      "onboard_time": 1709609668,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 646107,
@@ -2915,14 +2931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 468004,
-      "num": 327688,
-      "word": "郭艾伦腿部注射干细胞",
-      "onboard_time": 1709609668,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 467851,
       "num": 250411,
       "word": "阮经天家人也认错过他和明道",
@@ -3164,7 +3172,7 @@
     },
     {
       "raw_hot": 440283,
-      "num": 280426,
+      "num": 326673,
       "word": "3大睡眠习惯易患癌",
       "onboard_time": 1709607449,
       "rank": 21,
@@ -3212,7 +3220,7 @@
     },
     {
       "raw_hot": 436872,
-      "num": 325171,
+      "num": 354454,
       "word": "王一博民国妆造",
       "onboard_time": 1709608290,
       "rank": 25,
@@ -3313,6 +3321,14 @@
       "onboard_time": 1709357731,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 424132,
+      "num": 368343,
+      "word": "破墓 脸上P字",
+      "onboard_time": 1709610810,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 422756,
@@ -3507,6 +3523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 399855,
+      "num": 338289,
+      "word": "长风破浪首发剧照",
+      "onboard_time": 1709609247,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 399736,
       "num": 357923,
       "word": "詹姆斯40000分倒计时",
@@ -3601,6 +3625,14 @@
       "onboard_time": 1709456488,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 389214,
+      "num": 349937,
+      "word": "光遇复刻书虫",
+      "onboard_time": 1709612312,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 388930,
@@ -3699,14 +3731,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 380293,
-      "num": 322556,
-      "word": "破墓 脸上P字",
-      "onboard_time": 1709610810,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 379879,
       "num": 379879,
       "word": "赵今麦系带粉裙",
@@ -3737,6 +3761,14 @@
       "onboard_time": 1709448510,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 378122,
+      "num": 378122,
+      "word": "官方回应金龙鱼五常大米被曝造假",
+      "onboard_time": 1709611171,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377799,
@@ -3897,14 +3929,6 @@
       "onboard_time": 1709358813,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 357598,
-      "num": 357598,
-      "word": "委员建议女性可带薪育产假达2年",
-      "onboard_time": 1709611710,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 357276,
@@ -4243,6 +4267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333926,
+      "num": 333926,
+      "word": "金高银李到晛 双A",
+      "onboard_time": 1709611770,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 332769,
       "num": 332769,
       "word": "王鹤棣一张机场照被4个cp嗑",
@@ -4425,14 +4457,6 @@
       "onboard_time": 1709593404,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 319369,
-      "num": 319369,
-      "word": "长风破浪首发剧照",
-      "onboard_time": 1709609247,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 318905,
@@ -4659,6 +4683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299064,
+      "num": 299064,
+      "word": "明侦值得反复刷的案件",
+      "onboard_time": 1709608411,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298931,
       "num": 291591,
       "word": "房东的猫直播",
@@ -4795,14 +4827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 293357,
-      "num": 293357,
-      "word": "官方回应金龙鱼五常大米被曝造假",
-      "onboard_time": 1709611171,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293229,
       "num": 293229,
       "word": "张佳宁王凯合照",
@@ -4897,6 +4921,14 @@
       "onboard_time": 1709520450,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 288017,
+      "num": 288017,
+      "word": "这家猫咖真是卧龙凤雏",
+      "onboard_time": 1709609973,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 287679,
@@ -5089,14 +5121,6 @@
       "onboard_time": 1709473472,
       "rank": 24,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 272513,
-      "num": 201548,
-      "word": "这家猫咖真是卧龙凤雏",
-      "onboard_time": 1709609973,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 272317,
@@ -5363,6 +5387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 259192,
+      "num": 259192,
+      "word": "陶喆玩梗",
+      "onboard_time": 1709611955,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 258805,
       "num": 219576,
       "word": "二十多岁选择人生 恐怖",
@@ -5377,14 +5409,6 @@
       "onboard_time": 1709604631,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 258633,
-      "num": 258633,
-      "word": "明侦值得反复刷的案件",
-      "onboard_time": 1709608411,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 257414,
@@ -5505,14 +5529,6 @@
       "onboard_time": 1709393195,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 247492,
-      "num": 247492,
-      "word": "金高银李到晛 双A",
-      "onboard_time": 1709611770,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 246909,
@@ -5851,6 +5867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231577,
+      "num": 231577,
+      "word": "1块钱的盐和20块钱的盐有啥区别",
+      "onboard_time": 1709611835,
+      "rank": 35,
+      "category": "美食,科学科普"
+    },
+    {
       "raw_hot": 230499,
       "num": 230499,
       "word": "JackeyLove赛后发博",
@@ -5873,6 +5897,14 @@
       "onboard_time": 1709432010,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 228011,
+      "num": 228011,
+      "word": "王一博巴黎时装周",
+      "onboard_time": 1709611835,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 227961,
@@ -5945,6 +5977,14 @@
       "onboard_time": 1709476292,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225150,
+      "num": 225150,
+      "word": "Steam私密购买功能上线",
+      "onboard_time": 1709611835,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 224386,
@@ -6387,6 +6427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209463,
+      "num": 209463,
+      "word": "小时候讨厌现在却开始理解的角色",
+      "onboard_time": 1709612553,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 209383,
       "num": 209383,
       "word": "严浩翔最新机场状态",
@@ -6561,6 +6609,14 @@
       "onboard_time": 1709247862,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 205223,
+      "num": 205223,
+      "word": "陈丽君路透",
+      "onboard_time": 1709611770,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 205145,
@@ -6923,14 +6979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198545,
-      "num": 198545,
-      "word": "光遇复刻书虫",
-      "onboard_time": 1709612312,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 198291,
       "num": 198291,
       "word": "DYG状态",
@@ -7193,14 +7241,6 @@
       "onboard_time": 1709547569,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 192876,
-      "num": 192876,
-      "word": "陶喆玩梗",
-      "onboard_time": 1709611955,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 192650,
@@ -7859,22 +7899,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 179200,
-      "num": 179200,
-      "word": "1块钱的盐和20块钱的盐有啥区别",
-      "onboard_time": 1709611835,
-      "rank": 35,
-      "category": "美食,科学科普"
-    },
-    {
-      "raw_hot": 178910,
-      "num": 178910,
-      "word": "王一博巴黎时装周",
-      "onboard_time": 1709611835,
-      "rank": 36,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 178531,
       "num": 178531,
       "word": "RNG六连败",
@@ -8057,14 +8081,6 @@
       "onboard_time": 1709251830,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 174027,
-      "num": 174027,
-      "word": "陈丽君路透",
-      "onboard_time": 1709611770,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 173936,
@@ -8691,6 +8707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160038,
+      "num": 160038,
+      "word": "刘忻 选秀初恋",
+      "onboard_time": 1709613095,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159517,
       "num": 159517,
       "word": "约等于把宿傩封印在阳间",
@@ -8739,19 +8763,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158760,
+      "num": 158760,
+      "word": "浪姐初舞台录制",
+      "onboard_time": 1709613217,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158754,
       "num": 158754,
       "word": "网易去年游戏业务净收入816亿",
       "onboard_time": 1709258609,
       "rank": 36,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 158611,
-      "num": 158611,
-      "word": "Steam私密购买功能上线",
-      "onboard_time": 1709611835,
-      "rank": 42,
       "category": "游戏"
     },
     {
@@ -9657,6 +9681,14 @@
       "onboard_time": 1709390374,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141127,
+      "num": 141127,
+      "word": "公司设立员工福利生娃最高奖10万",
+      "onboard_time": 1709613035,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141045,
@@ -12981,6 +13013,9 @@
     },
     {
       "word": "#习近平两会时间#"
+    },
+    {
+      "word": "#时政微视频无我#"
     }
   ]
 }
