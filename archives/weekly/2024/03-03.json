@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709642796289,
+  "endTime": 1709644721012,
   "band_list": [
     {
       "raw_hot": 3012846,
@@ -483,6 +483,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1062084,
+      "num": 315478,
+      "word": "iPad",
+      "onboard_time": 1709642132,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1059709,
       "num": 755300,
       "word": "53岁妈妈给25岁女儿生了个弟弟",
@@ -835,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 794826,
+      "num": 268178,
+      "word": "辛芷蕾 不许再折腾了哦",
+      "onboard_time": 1709642253,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 788232,
       "num": 788232,
       "word": "1天内9家车企宣布降价",
@@ -929,6 +945,14 @@
       "onboard_time": 1709466691,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 723924,
+      "num": 266397,
+      "word": "朱丹听到sorry变脸",
+      "onboard_time": 1709643155,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 722264,
@@ -1481,6 +1505,14 @@
       "onboard_time": 1709564017,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 568431,
+      "num": 333224,
+      "word": "蔚来全年净亏损207.2亿元",
+      "onboard_time": 1709641832,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 567594,
@@ -2755,14 +2787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 333224,
-      "num": 333224,
-      "word": "蔚来全年净亏损207.2亿元",
-      "onboard_time": 1709641832,
-      "rank": 47,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 332769,
       "num": 332769,
       "word": "王鹤棣一张机场照被4个cp嗑",
@@ -2953,14 +2977,6 @@
       "onboard_time": 1709472692,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 315478,
-      "num": 315478,
-      "word": "iPad",
-      "onboard_time": 1709642132,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 315291,
@@ -3177,6 +3193,14 @@
       "onboard_time": 1709481869,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291300,
+      "num": 260644,
+      "word": "院人你好星期六上班路透",
+      "onboard_time": 1709642552,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 291040,
@@ -3531,6 +3555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 259282,
+      "num": 246935,
+      "word": "王一博Caroline秀后聊天",
+      "onboard_time": 1709643333,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 259192,
       "num": 259192,
       "word": "陶喆玩梗",
@@ -3697,14 +3729,6 @@
       "onboard_time": 1709612553,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 247552,
-      "num": 247552,
-      "word": "辛芷蕾 不许再折腾了哦",
-      "onboard_time": 1709642253,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 246139,
@@ -3876,7 +3900,7 @@
     },
     {
       "raw_hot": 237799,
-      "num": 237799,
+      "num": 273094,
       "word": "医院检查互认在政府工作报告中明确了",
       "onboard_time": 1709640092,
       "rank": 25,
@@ -3937,6 +3961,14 @@
       "onboard_time": 1709515470,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235124,
+      "num": 235124,
+      "word": "男生第一次约会的至暗时刻",
+      "onboard_time": 1709643274,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 234292,
@@ -4379,14 +4411,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 211331,
-      "num": 211331,
-      "word": "院人你好星期六上班路透",
-      "onboard_time": 1709642552,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 210557,
       "num": 208791,
       "word": "吴磊直播",
@@ -4755,6 +4779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197607,
+      "num": 197607,
+      "word": "豪士面包 种地吧",
+      "onboard_time": 1709644171,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197474,
       "num": 197474,
       "word": "有头发的和没头发的都沉默了",
@@ -4803,6 +4835,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 195854,
+      "num": 195854,
+      "word": "肖俊宣传NCT WISH",
+      "onboard_time": 1709644111,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194742,
       "num": 194742,
       "word": "当我六十多岁的妈妈开始上班",
@@ -4849,6 +4889,14 @@
       "onboard_time": 1709637273,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192810,
+      "num": 192810,
+      "word": "朱正廷马里奥手机壳",
+      "onboard_time": 1709642971,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 192517,
@@ -4995,6 +5043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188038,
+      "num": 188038,
+      "word": "宁可喝回南天的水也不喝自己碗里的",
+      "onboard_time": 1709641473,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187765,
       "num": 187765,
       "word": "文咏珊晒泰国团建照",
@@ -5033,6 +5089,14 @@
       "onboard_time": 1709519668,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 185562,
+      "num": 271964,
+      "word": "RNG对战TT",
+      "onboard_time": 1709643932,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 184959,
@@ -5257,14 +5321,6 @@
       "onboard_time": 1709476172,
       "rank": 42,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 178764,
-      "num": 178764,
-      "word": "宁可喝回南天的水也不喝自己碗里的",
-      "onboard_time": 1709641473,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 178042,
@@ -5737,6 +5793,14 @@
       "onboard_time": 1709429552,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159864,
+      "num": 159864,
+      "word": "年轻人健身的尽头是国企风",
+      "onboard_time": 1709644111,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 159598,
@@ -6451,6 +6515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141652,
+      "num": 264057,
+      "word": "朱劲草好娶风人夫",
+      "onboard_time": 1709642794,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140844,
       "num": 140844,
       "word": "接下来的广东人会变得爽口弹牙",
@@ -7123,6 +7195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 125853,
+      "num": 125853,
+      "word": "一个视频感知人的肠道有多长",
+      "onboard_time": 1709643754,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 124679,
       "num": 124679,
       "word": "暖阳 一步一步来",
@@ -7571,6 +7651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110842,
+      "num": 110842,
+      "word": "有一种浪漫叫花开映星河",
+      "onboard_time": 1709643572,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 109789,
       "num": 109789,
       "word": "创造营亚洲",
@@ -7769,6 +7857,14 @@
       "onboard_time": 1709532274,
       "rank": 49,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 97413,
+      "num": 97413,
+      "word": "身体出现3个异常警惕癌症信号",
+      "onboard_time": 1709643450,
+      "rank": 49,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 97031,
@@ -8251,6 +8347,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31023,
+      "num": 374968,
+      "word": "细节中读懂两会的精微要义",
+      "onboard_time": 1709644592,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 30748,
+      "num": 188463,
+      "word": "蔡依林巴黎日不落大片",
+      "onboard_time": 1709644293,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 30720,
       "num": 33645,
       "word": "当上菜的速度赶不上吃饭的速度时",
@@ -8500,6 +8612,9 @@
     },
     {
       "word": "#习近平参加江苏代表团审议#"
+    },
+    {
+      "word": "#总书记的两会时间#"
     }
   ]
 }

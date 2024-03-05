@@ -1,0 +1,410 @@
+{
+  "runTime": 1709644721012,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1082747,
+        "num": 1082747,
+        "word": "建议消除简历第一学历概念",
+        "onboard_time": 1709633614,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 568374,
+        "num": 568374,
+        "word": "代表建议毕业生不要只把眼光放在一线城市",
+        "onboard_time": 1709631036,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31023,
+        "num": 374968,
+        "word": "细节中读懂两会的精微要义",
+        "onboard_time": 1709644592,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 354373,
+        "num": 354373,
+        "word": "建议中小学生每天都有一节体育课",
+        "onboard_time": 1709628212,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 275030,
+        "num": 275030,
+        "word": "霍启刚回应建议完善带薪年假制度",
+        "onboard_time": 1709636253,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203812,
+        "num": 274577,
+        "word": "霍启刚 建议落实带薪休假制度",
+        "onboard_time": 1709622811,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190692,
+        "num": 274101,
+        "word": "建议对伤人犬只饲养者追刑责",
+        "onboard_time": 1709629473,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189033,
+        "num": 273094,
+        "word": "医院检查互认在政府工作报告中明确了",
+        "onboard_time": 1709640092,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185562,
+        "num": 271964,
+        "word": "RNG对战TT",
+        "onboard_time": 1709643932,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160790,
+        "num": 271304,
+        "word": "2024全国两会新词热词",
+        "onboard_time": 1709639792,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1062084,
+        "num": 270933,
+        "word": "iPad",
+        "onboard_time": 1709642132,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 905586,
+        "num": 269966,
+        "word": "白敬亭退出乐本文化",
+        "onboard_time": 1709633971,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 844722,
+        "num": 269104,
+        "word": "遭多人强暴的西班牙网红收到印度政府赔偿",
+        "onboard_time": 1709619392,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 794826,
+        "num": 268178,
+        "word": "辛芷蕾 不许再折腾了哦",
+        "onboard_time": 1709642253,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 757566,
+        "num": 267317,
+        "word": "MiuMiu大秀",
+        "onboard_time": 1709640931,
+        "rank": 14,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 723924,
+        "num": 266397,
+        "word": "朱丹听到sorry变脸",
+        "onboard_time": 1709643155,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 606930,
+        "num": 266146,
+        "word": "出纳给自己开出170万年终奖",
+        "onboard_time": 1709630732,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511717,
+        "num": 265075,
+        "word": "周处除三害 抄袭",
+        "onboard_time": 1709627075,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141652,
+        "num": 264057,
+        "word": "朱劲草好娶风人夫",
+        "onboard_time": 1709642794,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403603,
+        "num": 263897,
+        "word": "继承者们 抄袭",
+        "onboard_time": 1709625152,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342440,
+        "num": 262628,
+        "word": "男朋友谈过一段很长的恋爱",
+        "onboard_time": 1709634513,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 337880,
+        "num": 262212,
+        "word": "分手后最体面的星座",
+        "onboard_time": 1709641473,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114346,
+        "num": 260858,
+        "word": "大熊猫花式吸娃越吸越上头",
+        "onboard_time": 1709635293,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291300,
+        "num": 260644,
+        "word": "院人你好星期六上班路透",
+        "onboard_time": 1709642552,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289763,
+        "num": 259881,
+        "word": "王一博脸颊肉回来了",
+        "onboard_time": 1709635896,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259153,
+        "num": 259153,
+        "word": "彩发是kiko最好的医美",
+        "onboard_time": 1709642072,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75817,
+        "num": 251225,
+        "word": "2024政府工作报告关键词",
+        "onboard_time": 1709632475,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 285109,
+        "num": 250903,
+        "word": "Jennie黑色高定小纱裙",
+        "onboard_time": 1709638472,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248711,
+        "num": 248711,
+        "word": "虹桥机场听到两个人的对话",
+        "onboard_time": 1709641531,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259282,
+        "num": 246935,
+        "word": "王一博Caroline秀后聊天",
+        "onboard_time": 1709643333,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 568431,
+        "num": 246392,
+        "word": "蔚来全年净亏损207.2亿元",
+        "onboard_time": 1709641832,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 242194,
+        "num": 242194,
+        "word": "女子宫外孕没钱手术被医院收治并捐款",
+        "onboard_time": 1709615493,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238256,
+        "num": 238256,
+        "word": "存多少钱能低质量躺平",
+        "onboard_time": 1709639851,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235124,
+        "num": 235124,
+        "word": "男生第一次约会的至暗时刻",
+        "onboard_time": 1709643274,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215255,
+        "num": 215255,
+        "word": "4.9元生菜被炒到300元",
+        "onboard_time": 1709619871,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197607,
+        "num": 197607,
+        "word": "豪士面包 种地吧",
+        "onboard_time": 1709644171,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195854,
+        "num": 195854,
+        "word": "肖俊宣传NCT WISH",
+        "onboard_time": 1709644111,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192810,
+        "num": 192810,
+        "word": "朱正廷马里奥手机壳",
+        "onboard_time": 1709642971,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30748,
+        "num": 188463,
+        "word": "蔡依林巴黎日不落大片",
+        "onboard_time": 1709644293,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188038,
+        "num": 188038,
+        "word": "宁可喝回南天的水也不喝自己碗里的",
+        "onboard_time": 1709641473,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174154,
+        "num": 174154,
+        "word": "偶遇贾玲滑雪",
+        "onboard_time": 1709631571,
+        "rank": 40,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 159864,
+        "num": 159864,
+        "word": "年轻人健身的尽头是国企风",
+        "onboard_time": 1709644111,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 155639,
+        "num": 155639,
+        "word": "狗 别订蛋糕了我吃饱了",
+        "onboard_time": 1709631693,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146906,
+        "num": 146906,
+        "word": "县城的网红炸鸡月薪3万都吃不起",
+        "onboard_time": 1709630253,
+        "rank": 43,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 140726,
+        "num": 140726,
+        "word": "香奈儿大秀",
+        "onboard_time": 1709634153,
+        "rank": 44,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 137516,
+        "num": 137516,
+        "word": "蓝盈莹被广东回南天吓到了",
+        "onboard_time": 1709621615,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125853,
+        "num": 125853,
+        "word": "一个视频感知人的肠道有多长",
+        "onboard_time": 1709643754,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 110842,
+        "num": 110842,
+        "word": "有一种浪漫叫花开映星河",
+        "onboard_time": 1709643572,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 110527,
+        "num": 110527,
+        "word": "朱正廷把高奢包卖成10块",
+        "onboard_time": 1709632415,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97413,
+        "num": 97413,
+        "word": "身体出现3个异常警惕癌症信号",
+        "onboard_time": 1709643450,
+        "rank": 49,
+        "category": "健康医疗,科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的两会时间#"
+    }
+  }
+}
