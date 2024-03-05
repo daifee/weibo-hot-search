@@ -1,6 +1,6 @@
 {
   "startTime": 1709655654688,
-  "endTime": 1709667248160,
+  "endTime": 1709669899055,
   "band_list": [
     {
       "raw_hot": 1135872,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22111,
+      "num": 20818,
+      "word": "陈桂林原型",
+      "onboard_time": 1709666536,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19975,
       "num": 143097,
       "word": "2024全国两会新词热词",
@@ -491,12 +499,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13040,
-      "num": 20818,
-      "word": "陈桂林原型",
-      "onboard_time": 1709666536,
+      "raw_hot": 16928,
+      "num": 20726,
+      "word": "这哪是回南天这是回南天门了吧",
+      "onboard_time": 1709668874,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14679,
+      "num": 20669,
+      "word": "汪苏泷 感情中切忌自我感动",
+      "onboard_time": 1709668395,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12713,
+      "num": 20617,
+      "word": "Tarzan去哪儿",
+      "onboard_time": 1709667257,
       "rank": 42,
-      "category": "电影"
+      "category": "游戏"
     },
     {
       "raw_hot": 12563,
@@ -505,6 +529,22 @@
       "onboard_time": 1709664199,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 11111,
+      "num": 20574,
+      "word": "拜仁慕尼黑vs拉齐奥",
+      "onboard_time": 1709668935,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 10500,
+      "num": 20566,
+      "word": "不平凡的她",
+      "onboard_time": 1709661199,
+      "rank": 47,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
