@@ -1,6 +1,6 @@
 {
   "startTime": 1709655654688,
-  "endTime": 1709678042202,
+  "endTime": 1709680587679,
   "band_list": [
     {
       "raw_hot": 1135872,
@@ -19,12 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 664271,
+      "num": 175006,
+      "word": "凯特王妃",
+      "onboard_time": 1709660539,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 574955,
       "num": 574955,
       "word": "金价",
       "onboard_time": 1709648976,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 553049,
+      "num": 90536,
+      "word": "这哪是回南天这是回南天门了吧",
+      "onboard_time": 1709668874,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 504938,
@@ -67,14 +83,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 351563,
-      "num": 73941,
-      "word": "凯特王妃",
-      "onboard_time": 1709660539,
-      "rank": 3,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 337318,
       "num": 337318,
       "word": "建议彩票个人单项奖金最高额度不超过500万",
@@ -99,6 +107,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 305718,
+      "num": 89914,
+      "word": "老人丢了6000元民警找回16000",
+      "onboard_time": 1709674218,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304813,
       "num": 213254,
       "word": "邓为工作室的审美",
@@ -113,6 +129,14 @@
       "onboard_time": 1709645075,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 277975,
+      "num": 86050,
+      "word": "老公出差抓人老婆在家救人",
+      "onboard_time": 1709673016,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 268425,
@@ -155,6 +179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 218324,
+      "num": 167975,
+      "word": "最新研究找到熬夜致癌原因",
+      "onboard_time": 1709662697,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 207855,
       "num": 207855,
       "word": "杨幂谈私服风格",
@@ -187,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195576,
+      "num": 103078,
+      "word": "张铭恩一种隐约的狠辣",
+      "onboard_time": 1709659761,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191997,
       "num": 191997,
       "word": "浪姐颜值",
@@ -209,22 +249,6 @@
       "onboard_time": 1709641473,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 176338,
-      "num": 49844,
-      "word": "这哪是回南天这是回南天门了吧",
-      "onboard_time": 1709668874,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175373,
-      "num": 73413,
-      "word": "最新研究找到熬夜致癌原因",
-      "onboard_time": 1709662697,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 173590,
@@ -275,6 +299,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153251,
+      "num": 153251,
+      "word": "徐克射雕英雄传正在后期制作",
+      "onboard_time": 1709674035,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 143692,
+      "num": 84323,
+      "word": "海景房狂跌",
+      "onboard_time": 1709679682,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 142630,
       "num": 142630,
       "word": "哈兰德认为梅西是历史最佳球员",
@@ -299,14 +339,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 126787,
-      "num": 41396,
-      "word": "老公出差抓人老婆在家救人",
-      "onboard_time": 1709673016,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125203,
       "num": 221519,
       "word": "唐探2时间线连上了",
@@ -323,28 +355,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 122627,
-      "num": 49512,
-      "word": "老人丢了6000元民警找回16000",
-      "onboard_time": 1709674218,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122138,
       "num": 122138,
       "word": "豪士面包 种地吧",
       "onboard_time": 1709644171,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121871,
-      "num": 103078,
-      "word": "张铭恩一种隐约的狠辣",
-      "onboard_time": 1709659761,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 116281,
@@ -371,6 +387,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 99051,
+      "num": 99529,
+      "word": "别再让黄金店割智商税了",
+      "onboard_time": 1709648857,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 98223,
       "num": 98223,
       "word": "男生第一次约会的至暗时刻",
@@ -385,14 +409,6 @@
       "onboard_time": 1709646874,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90272,
-      "num": 99529,
-      "word": "别再让黄金店割智商税了",
-      "onboard_time": 1709648857,
-      "rank": 39,
-      "category": "财经"
     },
     {
       "raw_hot": 87348,
@@ -411,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86207,
+      "num": 86207,
+      "word": "伊能静儿子巴黎时装周街采",
+      "onboard_time": 1709676136,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 83685,
       "num": 134529,
       "word": "烟火人家孟菀青角色魅力",
@@ -425,22 +449,6 @@
       "onboard_time": 1709653833,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 74864,
-      "num": 31617,
-      "word": "伊能静儿子巴黎时装周街采",
-      "onboard_time": 1709676136,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 72611,
-      "num": 72611,
-      "word": "徐克射雕英雄传正在后期制作",
-      "onboard_time": 1709674035,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 72053,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 66895,
-      "num": 43265,
+      "num": 60660,
       "word": "粉丝抵制黄牛炒作300元生菜",
       "onboard_time": 1709662099,
       "rank": 31,
@@ -483,12 +491,60 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 58305,
+      "num": 58305,
+      "word": "宋茜谈年龄焦虑",
+      "onboard_time": 1709661798,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 57559,
+      "num": 57559,
+      "word": "2块钱和上百元的维生素C哪个更好",
+      "onboard_time": 1709674155,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 55677,
       "num": 406966,
       "word": "细节中读懂两会的精微要义",
       "onboard_time": 1709644592,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 53714,
+      "num": 91180,
+      "word": "皇家社会vs巴黎圣日耳曼",
+      "onboard_time": 1709656227,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49877,
+      "num": 49877,
+      "word": "LGD公示处罚Haichao",
+      "onboard_time": 1709680343,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 43993,
+      "num": 43993,
+      "word": "原来狗界真的有情报网",
+      "onboard_time": 1709680524,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 43580,
+      "num": 43580,
+      "word": "维生素软糖为什么不能吃太多",
+      "onboard_time": 1709680343,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 41485,
@@ -499,20 +555,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38375,
-      "num": 34568,
-      "word": "宋茜谈年龄焦虑",
-      "onboard_time": 1709661798,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 41016,
+      "num": 41016,
+      "word": "拜仁慕尼黑vs拉齐奥",
+      "onboard_time": 1709668935,
+      "rank": 46,
+      "category": "体育"
     },
     {
-      "raw_hot": 38224,
-      "num": 76287,
-      "word": "皇家社会vs巴黎圣日耳曼",
-      "onboard_time": 1709656227,
-      "rank": 49,
-      "category": "体育"
+      "raw_hot": 36342,
+      "num": 178214,
+      "word": "2024全国两会新词热词",
+      "onboard_time": 1709639792,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27744,
@@ -521,22 +577,6 @@
       "onboard_time": 1709658981,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23691,
-      "num": 23691,
-      "word": "拜仁慕尼黑vs拉齐奥",
-      "onboard_time": 1709668935,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 23617,
-      "num": 23617,
-      "word": "2块钱和上百元的维生素C哪个更好",
-      "onboard_time": 1709674155,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 22111,
@@ -553,14 +593,6 @@
       "onboard_time": 1709671276,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 19975,
-      "num": 143097,
-      "word": "2024全国两会新词热词",
-      "onboard_time": 1709639792,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14679,

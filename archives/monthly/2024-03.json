@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709678042202,
+  "endTime": 1709680587679,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -2011,6 +2011,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 664271,
+      "num": 175006,
+      "word": "凯特王妃",
+      "onboard_time": 1709660539,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 664080,
       "num": 388592,
       "word": "杨紫李现吻戏路透",
@@ -2712,6 +2720,14 @@
       "word": "多所院校呼吁毕业生积极就业",
       "onboard_time": 1709511810,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 553049,
+      "num": 90536,
+      "word": "这哪是回南天这是回南天门了吧",
+      "onboard_time": 1709668874,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -4627,14 +4643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 351563,
-      "num": 73941,
-      "word": "凯特王妃",
-      "onboard_time": 1709660539,
-      "rank": 3,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 351002,
       "num": 351002,
       "word": "县城一中到底有多重要",
@@ -5315,6 +5323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305718,
+      "num": 89914,
+      "word": "老人丢了6000元民警找回16000",
+      "onboard_time": 1709674218,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305397,
       "num": 255023,
       "word": "文韬济南",
@@ -5777,6 +5793,14 @@
       "onboard_time": 1709469810,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 277975,
+      "num": 86050,
+      "word": "老公出差抓人老婆在家救人",
+      "onboard_time": 1709673016,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277970,
@@ -7083,6 +7107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 218324,
+      "num": 167975,
+      "word": "最新研究找到熬夜致癌原因",
+      "onboard_time": 1709662697,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 218190,
       "num": 218190,
       "word": "胡明轩31分",
@@ -8203,6 +8235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195576,
+      "num": 103078,
+      "word": "张铭恩一种隐约的狠辣",
+      "onboard_time": 1709659761,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195574,
       "num": 195574,
       "word": "大理寺少卿游 家人的控制欲",
@@ -9203,14 +9243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176338,
-      "num": 49844,
-      "word": "这哪是回南天这是回南天门了吧",
-      "onboard_time": 1709668874,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176266,
       "num": 176266,
       "word": "黑猫投诉上自动续费投诉超10万",
@@ -9265,14 +9297,6 @@
       "onboard_time": 1709382032,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 175373,
-      "num": 73413,
-      "word": "最新研究找到熬夜致癌原因",
-      "onboard_time": 1709662697,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 175136,
@@ -10467,6 +10491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153251,
+      "num": 153251,
+      "word": "徐克射雕英雄传正在后期制作",
+      "onboard_time": 1709674035,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153229,
       "num": 153229,
       "word": "KTV9年倒闭7万家",
@@ -11017,6 +11049,14 @@
       "onboard_time": 1709439992,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143692,
+      "num": 84323,
+      "word": "海景房狂跌",
+      "onboard_time": 1709679682,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 143648,
@@ -12123,14 +12163,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 126787,
-      "num": 41396,
-      "word": "老公出差抓人老婆在家救人",
-      "onboard_time": 1709673016,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126702,
       "num": 126702,
       "word": "林一这个赛季强的有点可怕",
@@ -12347,14 +12379,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 122627,
-      "num": 49512,
-      "word": "老人丢了6000元民警找回16000",
-      "onboard_time": 1709674218,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122569,
       "num": 122569,
       "word": "两会时间开启",
@@ -12425,14 +12449,6 @@
       "onboard_time": 1709347830,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121871,
-      "num": 103078,
-      "word": "张铭恩一种隐约的狠辣",
-      "onboard_time": 1709659761,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 121808,
@@ -13675,6 +13691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86207,
+      "num": 86207,
+      "word": "伊能静儿子巴黎时装周街采",
+      "onboard_time": 1709676136,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 86001,
       "num": 116310,
       "word": "张镇麟大风车扣篮",
@@ -13835,28 +13859,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74864,
-      "num": 31617,
-      "word": "伊能静儿子巴黎时装周街采",
-      "onboard_time": 1709676136,
-      "rank": 30,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 74367,
       "num": 74367,
       "word": "车里的雷达已经把眼睛都闭上了",
       "onboard_time": 1709247320,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 72611,
-      "num": 72611,
-      "word": "徐克射雕英雄传正在后期制作",
-      "onboard_time": 1709674035,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 71307,
@@ -13908,7 +13916,7 @@
     },
     {
       "raw_hot": 66895,
-      "num": 43265,
+      "num": 60660,
       "word": "粉丝抵制黄牛炒作300元生菜",
       "onboard_time": 1709662099,
       "rank": 31,
@@ -14043,6 +14051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58305,
+      "num": 58305,
+      "word": "宋茜谈年龄焦虑",
+      "onboard_time": 1709661798,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57855,
       "num": 1258578,
       "word": "100秒说两会",
@@ -14057,6 +14073,14 @@
       "onboard_time": 1709308470,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57559,
+      "num": 57559,
+      "word": "2块钱和上百元的维生素C哪个更好",
+      "onboard_time": 1709674155,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 57513,
@@ -14147,6 +14171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 53714,
+      "num": 91180,
+      "word": "皇家社会vs巴黎圣日耳曼",
+      "onboard_time": 1709656227,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53502,
       "num": 1101031,
       "word": "全国两会常用表述辨析",
@@ -14217,6 +14249,14 @@
       "onboard_time": 1709574319,
       "rank": 19,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 49877,
+      "num": 49877,
+      "word": "LGD公示处罚Haichao",
+      "onboard_time": 1709680343,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 49629,
@@ -14323,6 +14363,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43993,
+      "num": 43993,
+      "word": "原来狗界真的有情报网",
+      "onboard_time": 1709680524,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 43580,
+      "num": 43580,
+      "word": "维生素软糖为什么不能吃太多",
+      "onboard_time": 1709680343,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 42701,
       "num": 324948,
       "word": "TVB港星保姆车揭秘",
@@ -14345,6 +14401,14 @@
       "onboard_time": 1709575280,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41016,
+      "num": 41016,
+      "word": "拜仁慕尼黑vs拉齐奥",
+      "onboard_time": 1709668935,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 40860,
@@ -14393,22 +14457,6 @@
       "onboard_time": 1709571923,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 38375,
-      "num": 34568,
-      "word": "宋茜谈年龄焦虑",
-      "onboard_time": 1709661798,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 38224,
-      "num": 76287,
-      "word": "皇家社会vs巴黎圣日耳曼",
-      "onboard_time": 1709656227,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 38189,
@@ -14633,22 +14681,6 @@
       "onboard_time": 1709574499,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23691,
-      "num": 23691,
-      "word": "拜仁慕尼黑vs拉齐奥",
-      "onboard_time": 1709668935,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 23617,
-      "num": 23617,
-      "word": "2块钱和上百元的维生素C哪个更好",
-      "onboard_time": 1709674155,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 22111,
