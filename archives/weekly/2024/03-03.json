@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709634986318,
+  "endTime": 1709637407547,
   "band_list": [
     {
       "raw_hot": 3012846,
@@ -89,6 +89,14 @@
       "onboard_time": 1709392413,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1810884,
+      "num": 1810884,
+      "word": "建议消除简历第一学历概念",
+      "onboard_time": 1709633614,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1787950,
@@ -185,6 +193,14 @@
       "onboard_time": 1709424024,
       "rank": 0,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1521414,
+      "num": 365311,
+      "word": "白敬亭退出乐本文化",
+      "onboard_time": 1709633971,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 1508413,
@@ -425,14 +441,6 @@
       "onboard_time": 1709606971,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1120101,
-      "num": 365311,
-      "word": "白敬亭退出乐本文化",
-      "onboard_time": 1709633971,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 1110621,
@@ -987,6 +995,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 691627,
+      "num": 286781,
+      "word": "男朋友谈过一段很长的恋爱",
+      "onboard_time": 1709634513,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 686532,
       "num": 356849,
       "word": "苹果市值一夜蒸发超5000亿元",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1709557955,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 641821,
+      "num": 288792,
+      "word": "王一博脸颊肉回来了",
+      "onboard_time": 1709635896,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 640599,
@@ -1387,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 577994,
+      "num": 343005,
+      "word": "香奈儿大秀",
+      "onboard_time": 1709634153,
+      "rank": 18,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 574080,
       "num": 574080,
       "word": "杨幂唐嫣刘诗诗G社生图",
@@ -1441,14 +1473,6 @@
       "onboard_time": 1709519488,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 566431,
-      "num": 343005,
-      "word": "香奈儿大秀",
-      "onboard_time": 1709634153,
-      "rank": 18,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 562627,
@@ -1835,14 +1859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 480500,
-      "num": 330238,
-      "word": "建议消除简历第一学历概念",
-      "onboard_time": 1709633614,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 477435,
       "num": 477435,
       "word": "和不内耗的朋友出去玩",
@@ -2089,14 +2105,6 @@
       "onboard_time": 1709553693,
       "rank": 20,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 428502,
-      "num": 255134,
-      "word": "男朋友谈过一段很长的恋爱",
-      "onboard_time": 1709634513,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 428244,
@@ -2459,6 +2467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366042,
+      "num": 366042,
+      "word": "霍启刚回应建议完善带薪年假制度",
+      "onboard_time": 1709636253,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 365931,
       "num": 303373,
       "word": "祝绪丹烈焰妆造",
@@ -2697,6 +2713,14 @@
       "onboard_time": 1709630253,
       "rank": 21,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 333482,
+      "num": 285607,
+      "word": "00后是怎么做到离谱又靠谱的",
+      "onboard_time": 1709636370,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 332769,
@@ -3169,6 +3193,14 @@
       "onboard_time": 1709565034,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 285581,
+      "num": 285581,
+      "word": "王一博G社生图",
+      "onboard_time": 1709634934,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 285255,
@@ -3995,6 +4027,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 224364,
+      "num": 224364,
+      "word": "iG 泰坦",
+      "onboard_time": 1709634934,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 224236,
       "num": 224236,
       "word": "正确坐姿的关键只有1个",
@@ -4699,6 +4739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192951,
+      "num": 192951,
+      "word": "王鹤棣雪地摩托",
+      "onboard_time": 1709637273,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192517,
       "num": 192517,
       "word": "珠宝店店长称从没见过这么高的金价",
@@ -5171,6 +5219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176065,
+      "num": 176065,
+      "word": "当爸爸妈妈来到了我的出租屋",
+      "onboard_time": 1709635053,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175703,
       "num": 175703,
       "word": "全红婵顺利完赛",
@@ -5635,6 +5691,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 157611,
+      "num": 157611,
+      "word": "EDG 先相信",
+      "onboard_time": 1709636073,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 157478,
       "num": 157478,
       "word": "FPX老板回应战胜WBG",
@@ -5891,6 +5955,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 149561,
+      "num": 149561,
+      "word": "诉周处除三害抄袭导演再回应",
+      "onboard_time": 1709636733,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149091,
       "num": 149091,
       "word": "吴艳妮 职业生涯的第一次世锦赛",
@@ -5913,6 +5985,14 @@
       "onboard_time": 1709461775,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 148416,
+      "num": 291399,
+      "word": "大熊猫花式吸娃越吸越上头",
+      "onboard_time": 1709635293,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148105,
@@ -6283,6 +6363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139359,
+      "num": 727190,
+      "word": "2024政府工作报告关键词",
+      "onboard_time": 1709632475,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139341,
       "num": 139341,
       "word": "马思纯心疼双鱼座的理由",
@@ -6417,6 +6505,14 @@
       "onboard_time": 1709463631,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 136678,
+      "num": 371697,
+      "word": "这可能就是我们长大的意义吧",
+      "onboard_time": 1709632235,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 136625,
@@ -6595,14 +6691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 130853,
-      "num": 371697,
-      "word": "这可能就是我们长大的意义吧",
-      "onboard_time": 1709632235,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 130811,
       "num": 130811,
       "word": "电影堡垒定档",
@@ -6763,14 +6851,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 127896,
-      "num": 727190,
-      "word": "2024政府工作报告关键词",
-      "onboard_time": 1709632475,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 127601,
       "num": 142263,
       "word": "同事的午餐让我怀疑他有异食癖",
@@ -6801,6 +6881,14 @@
       "onboard_time": 1709623115,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 127301,
+      "num": 127301,
+      "word": "狗子睡觉翻个身房子塌了",
+      "onboard_time": 1709635652,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 126871,
@@ -6881,14 +6969,6 @@
       "onboard_time": 1709627193,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123855,
-      "num": 123855,
-      "word": "iG 泰坦",
-      "onboard_time": 1709634934,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 123602,
@@ -7067,14 +7147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117334,
-      "num": 117334,
-      "word": "王一博G社生图",
-      "onboard_time": 1709634934,
-      "rank": 47,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 117237,
       "num": 117237,
       "word": "爱国情怀岂能这样消费",
@@ -7089,6 +7161,14 @@
       "onboard_time": 1709427206,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116839,
+      "num": 116839,
+      "word": "真瓜都是在不经意间吃到的",
+      "onboard_time": 1709635535,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 116821,
