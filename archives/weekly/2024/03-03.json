@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709638465404,
+  "endTime": 1709641892630,
   "band_list": [
     {
       "raw_hot": 3012846,
@@ -1427,6 +1427,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 575687,
+      "num": 303790,
+      "word": "出纳给自己开出170万年终奖",
+      "onboard_time": 1709630732,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 574080,
       "num": 574080,
       "word": "杨幂唐嫣刘诗诗G社生图",
@@ -1907,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467894,
+      "num": 285266,
+      "word": "MiuMiu大秀",
+      "onboard_time": 1709640931,
+      "rank": 16,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 467851,
       "num": 250411,
       "word": "阮经天家人也认错过他和明道",
@@ -1961,6 +1977,14 @@
       "onboard_time": 1709397508,
       "rank": 15,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 458323,
+      "num": 281822,
+      "word": "Jennie黑色高定小纱裙",
+      "onboard_time": 1709638472,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 455626,
@@ -2995,14 +3019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 301673,
-      "num": 301673,
-      "word": "出纳给自己开出170万年终奖",
-      "onboard_time": 1709630732,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300741,
       "num": 300741,
       "word": "这家猫咖真是卧龙凤雏",
@@ -3321,6 +3337,14 @@
       "onboard_time": 1709634934,
       "rank": 27,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 271429,
+      "num": 271429,
+      "word": "存多少钱能低质量躺平",
+      "onboard_time": 1709639851,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 270731,
@@ -3691,6 +3715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 244316,
+      "num": 244316,
+      "word": "分手后最体面的星座",
+      "onboard_time": 1709641473,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 244295,
       "num": 244295,
       "word": "尹子维新片尺度",
@@ -3801,6 +3833,14 @@
       "onboard_time": 1709561314,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 237799,
+      "num": 237799,
+      "word": "医院检查互认在政府工作报告中明确了",
+      "onboard_time": 1709640092,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 237158,
@@ -4177,6 +4217,14 @@
       "onboard_time": 1709523213,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 216587,
+      "num": 176429,
+      "word": "虹桥机场听到两个人的对话",
+      "onboard_time": 1709641531,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 216047,
@@ -5060,7 +5108,7 @@
     },
     {
       "raw_hot": 181855,
-      "num": 291399,
+      "num": 316190,
       "word": "大熊猫花式吸娃越吸越上头",
       "onboard_time": 1709635293,
       "rank": 9,
@@ -5475,6 +5523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166698,
+      "num": 166698,
+      "word": "宁可喝回南天的水也不喝自己碗里的",
+      "onboard_time": 1709641473,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166134,
       "num": 166134,
       "word": "简体中文成为Steam最常用语言",
@@ -5497,6 +5553,14 @@
       "onboard_time": 1709465551,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164702,
+      "num": 331448,
+      "word": "2024全国两会新词热词",
+      "onboard_time": 1709639792,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 164671,
@@ -5633,6 +5697,14 @@
       "onboard_time": 1709429552,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159598,
+      "num": 159598,
+      "word": "王一博看秀采访",
+      "onboard_time": 1709640212,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 159417,
@@ -6171,6 +6243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 145589,
+      "num": 371697,
+      "word": "这可能就是我们长大的意义吧",
+      "onboard_time": 1709632235,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145514,
       "num": 145514,
       "word": "这居然是宫崎骏",
@@ -6219,6 +6299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144773,
+      "num": 144773,
+      "word": "王星越直播",
+      "onboard_time": 1709638655,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144420,
       "num": 144420,
       "word": "爷爷抚平了我的穿衣焦虑",
@@ -6265,6 +6353,14 @@
       "onboard_time": 1709467770,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 143489,
+      "num": 143489,
+      "word": "上海一公司奇葩面试要求长痘",
+      "onboard_time": 1709639612,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143132,
@@ -6531,14 +6627,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 136678,
-      "num": 371697,
-      "word": "这可能就是我们长大的意义吧",
-      "onboard_time": 1709632235,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 136625,
       "num": 136625,
       "word": "Jennie新歌片段",
@@ -6593,6 +6681,14 @@
       "onboard_time": 1709522731,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135715,
+      "num": 135715,
+      "word": "这八卦听得我汗流浃背了",
+      "onboard_time": 1709640572,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 135436,
@@ -6995,6 +7091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124388,
+      "num": 136190,
+      "word": "全国两会",
+      "onboard_time": 1709638772,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 124117,
       "num": 124117,
       "word": "ChatGPT论文修改指令",
@@ -7065,6 +7169,14 @@
       "onboard_time": 1709387974,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 122166,
+      "num": 122166,
+      "word": "学园偶像大师春季上线",
+      "onboard_time": 1709641292,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 122053,
@@ -7179,6 +7291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 118299,
+      "num": 118299,
+      "word": "小狗烤面包",
+      "onboard_time": 1709641473,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 118066,
       "num": 118066,
       "word": "小镇美妆店受众",
@@ -7193,6 +7313,14 @@
       "onboard_time": 1709633491,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 117096,
+      "num": 117096,
+      "word": "崔珉豪Key与SM续约",
+      "onboard_time": 1709639015,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 116863,
@@ -7459,6 +7587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106283,
+      "num": 106283,
+      "word": "眼泪女王设定",
+      "onboard_time": 1709641771,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106271,
       "num": 106271,
       "word": "苹果了结加拿大电池门诉讼",
@@ -7537,6 +7673,14 @@
       "onboard_time": 1709568928,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102690,
+      "num": 102690,
+      "word": "蔚来全年净亏损207.2亿元",
+      "onboard_time": 1709641832,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 102575,
@@ -7633,6 +7777,14 @@
       "onboard_time": 1709469751,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 91687,
+      "num": 102558,
+      "word": "水电池有望5年内取代锂离子电池",
+      "onboard_time": 1709638952,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 89159,
