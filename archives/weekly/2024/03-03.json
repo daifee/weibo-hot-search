@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709616926613,
+  "endTime": 1709619706637,
   "band_list": [
     {
       "raw_hot": 3012846,
@@ -523,6 +523,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 912572,
+      "num": 318553,
+      "word": "迪丽热巴留洋千金回国",
+      "onboard_time": 1709616273,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 900427,
       "num": 330477,
       "word": "长期喝白开水和长期喝茶哪个更健康",
@@ -553,6 +561,14 @@
       "onboard_time": 1709524351,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 872398,
+      "num": 321764,
+      "word": "菲律宾",
+      "onboard_time": 1709615074,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 871122,
@@ -659,14 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 817004,
-      "num": 321764,
-      "word": "菲律宾",
-      "onboard_time": 1709615074,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 798998,
       "num": 798998,
       "word": "徐若晗 导师团全票通过",
@@ -739,12 +747,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 738107,
+      "num": 419650,
+      "word": "Miss来浪姐了",
+      "onboard_time": 1709616514,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 730255,
       "num": 654148,
       "word": "没钱买房租房的英国人开始分手不分房",
       "onboard_time": 1709466691,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 726734,
+      "num": 726734,
+      "word": "建议火车票免费改签2次",
+      "onboard_time": 1709618251,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 722264,
@@ -1563,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 486604,
+      "num": 275194,
+      "word": "李泰民签约BPM",
+      "onboard_time": 1709618130,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 485753,
       "num": 485753,
       "word": "苹果推M3芯片版MacBookAir",
@@ -1931,6 +1963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 409000,
+      "num": 274398,
+      "word": "冯远征谈甄嬛传在台热播",
+      "onboard_time": 1709617892,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 406199,
       "num": 317875,
       "word": "刘忻 选秀初恋",
@@ -2051,14 +2091,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 383696,
-      "num": 318553,
-      "word": "迪丽热巴留洋千金回国",
-      "onboard_time": 1709616273,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 383457,
       "num": 383457,
       "word": "沈梦辰巴黎走秀",
@@ -2145,6 +2177,14 @@
       "onboard_time": 1709443949,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367612,
+      "num": 273301,
+      "word": "张颂文早期在深圳当导游",
+      "onboard_time": 1709618012,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 367298,
@@ -2539,14 +2579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 317401,
-      "num": 317401,
-      "word": "Miss来浪姐了",
-      "onboard_time": 1709616514,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 316854,
       "num": 385121,
       "word": "霍启刚建议建设粤港澳体育湾区",
@@ -2731,6 +2763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292425,
+      "num": 190295,
+      "word": "遭多人强暴的西班牙网红收到印度政府赔偿",
+      "onboard_time": 1709619392,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291922,
       "num": 291922,
       "word": "严浩翔打赏事件女主播报警",
@@ -2907,6 +2947,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 272559,
+      "num": 272559,
+      "word": "湖人11比0雷霆",
+      "onboard_time": 1709616089,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270731,
       "num": 270731,
       "word": "满舒克前女友发文",
@@ -2969,14 +3017,6 @@
       "onboard_time": 1709447249,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264923,
-      "num": 264923,
-      "word": "湖人11比0雷霆",
-      "onboard_time": 1709616089,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 264907,
@@ -3057,6 +3097,14 @@
       "onboard_time": 1709542832,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 259744,
+      "num": 259744,
+      "word": "温流离开SM",
+      "onboard_time": 1709619332,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 259192,
@@ -3153,6 +3201,22 @@
       "onboard_time": 1709452172,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 250889,
+      "num": 190290,
+      "word": "法国堕胎权入宪",
+      "onboard_time": 1709618610,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 249614,
+      "num": 249614,
+      "word": "开始推理吧2上班路透",
+      "onboard_time": 1709617412,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 249381,
@@ -3313,6 +3377,14 @@
       "onboard_time": 1709546615,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 238149,
+      "num": 238149,
+      "word": "王曼昱世界排名重返前三",
+      "onboard_time": 1709618673,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 238137,
@@ -3947,6 +4019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201481,
+      "num": 198584,
+      "word": "泰民SM合约到期不续约",
+      "onboard_time": 1709619212,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201471,
       "num": 201471,
       "word": "鹿晗首次作曲",
@@ -4083,6 +4163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196491,
+      "num": 196491,
+      "word": "委员建议内地增加一年制硕士",
+      "onboard_time": 1709619031,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 196363,
       "num": 635220,
       "word": "教科书级别的西安美景受热捧",
@@ -4177,6 +4265,22 @@
       "onboard_time": 1709609612,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 190364,
+      "num": 190364,
+      "word": "拉塞尔三分三连击",
+      "onboard_time": 1709619090,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190150,
+      "num": 190150,
+      "word": "檀健次跳道歉舞",
+      "onboard_time": 1709617232,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 190004,
@@ -4891,6 +4995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159417,
+      "num": 159417,
+      "word": "摁着一个作者使劲薅",
+      "onboard_time": 1709617592,
+      "rank": 37,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 159176,
       "num": 159176,
       "word": "詹姆斯赛季首次当选周最佳",
@@ -5515,6 +5627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139957,
+      "num": 139957,
+      "word": "周星驰赞赵丽娜李佳悦巾帼英雄",
+      "onboard_time": 1709618673,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139929,
       "num": 139929,
       "word": "陶喆演唱会",
@@ -5593,6 +5713,14 @@
       "onboard_time": 1709468612,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138374,
+      "num": 138374,
+      "word": "半熟恋人3第一次约会",
+      "onboard_time": 1709618673,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 138271,
@@ -5817,6 +5945,14 @@
       "onboard_time": 1709593945,
       "rank": 24,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 131614,
+      "num": 131614,
+      "word": "仙人揉腹",
+      "onboard_time": 1709619513,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 131294,
@@ -6737,6 +6873,14 @@
       "onboard_time": 1709481210,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76178,
+      "num": 261469,
+      "word": "人生的100种可能",
+      "onboard_time": 1709618730,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 70425,
