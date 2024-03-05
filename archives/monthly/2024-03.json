@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709595293815,
+  "endTime": 1709601045712,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -65,6 +65,14 @@
       "onboard_time": 1709434172,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2342379,
+      "num": 2342379,
+      "word": "十四届全国人大二次会议开幕会",
+      "onboard_time": 1709596710,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 2204750,
@@ -515,12 +523,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1231779,
+      "num": 372325,
+      "word": "月薪上万也不舍得买鄂尔多斯",
+      "onboard_time": 1709594065,
+      "rank": 15,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 1224544,
       "num": 1224544,
       "word": "点读机女孩发视频称手术很成功",
       "onboard_time": 1709347471,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1221036,
+      "num": 359493,
+      "word": "这竟然是雪姨",
+      "onboard_time": 1709595446,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1212808,
@@ -673,6 +697,14 @@
       "onboard_time": 1709433751,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1056868,
+      "num": 1056868,
+      "word": "建议暂停上调医保个人缴费标准",
+      "onboard_time": 1709599653,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1051951,
@@ -1315,14 +1347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 716256,
-      "num": 168991,
-      "word": "月薪上万也不舍得买鄂尔多斯",
-      "onboard_time": 1709594065,
-      "rank": 15,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 715715,
       "num": 715715,
       "word": "33岁白发妈妈亲吻去世宝宝墓碑",
@@ -1483,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 686532,
+      "num": 356849,
+      "word": "苹果市值一夜蒸发超5000亿元",
+      "onboard_time": 1709596230,
+      "rank": 12,
+      "category": "财经,数码"
+    },
+    {
       "raw_hot": 685090,
       "num": 685090,
       "word": "花楼",
@@ -1516,7 +1548,7 @@
     },
     {
       "raw_hot": 681075,
-      "num": 379188,
+      "num": 529907,
       "word": "他才4岁已经懂得了分别的滋味",
       "onboard_time": 1709567372,
       "rank": 3,
@@ -1740,7 +1772,7 @@
     },
     {
       "raw_hot": 639593,
-      "num": 206881,
+      "num": 340594,
       "word": "浪五开场 主播癫狂带货感",
       "onboard_time": 1709566950,
       "rank": 11,
@@ -2107,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571279,
+      "num": 347948,
+      "word": "蕾丝裙帘成年轻人新潮流",
+      "onboard_time": 1709564673,
+      "rank": 22,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 569237,
       "num": 522846,
       "word": "爱情公寓演员今昔对比",
@@ -2265,6 +2305,14 @@
       "onboard_time": 1709533110,
       "rank": 3,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 541501,
+      "num": 541501,
+      "word": "广东回南天",
+      "onboard_time": 1709597972,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 538721,
@@ -2715,6 +2763,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 469543,
+      "num": 469543,
+      "word": "父亲心疼女儿被撞伤将床头柱锯掉",
+      "onboard_time": 1709569885,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 469139,
       "num": 293529,
       "word": "建议不要等到睡前才刷牙",
@@ -2993,6 +3049,14 @@
       "onboard_time": 1709294375,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 438181,
+      "num": 438181,
+      "word": "第一场代表通道",
+      "onboard_time": 1709596530,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 437804,
@@ -3315,14 +3379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 396821,
-      "num": 249694,
-      "word": "蕾丝裙帘成年轻人新潮流",
-      "onboard_time": 1709564673,
-      "rank": 22,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 396722,
       "num": 396722,
       "word": "刘诗诗窦骁开机同框",
@@ -3529,6 +3585,14 @@
       "onboard_time": 1709387974,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 375023,
+      "num": 375023,
+      "word": "广东现在是一个巨大的水帘洞",
+      "onboard_time": 1709594427,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 373650,
@@ -3811,14 +3875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 348942,
-      "num": 348942,
-      "word": "父亲心疼女儿被撞伤将床头柱锯掉",
-      "onboard_time": 1709569885,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 348526,
       "num": 242214,
       "word": "人变丑可能是因为情绪性敏感",
@@ -4027,6 +4083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329314,
+      "num": 329314,
+      "word": "建议实施10年义务教育",
+      "onboard_time": 1709596409,
+      "rank": 15,
+      "category": "教育,国内时政"
+    },
+    {
       "raw_hot": 329296,
       "num": 329296,
       "word": "对网友 宝宝怎么了",
@@ -4171,6 +4235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319515,
+      "num": 319515,
+      "word": "惊蛰",
+      "onboard_time": 1709593404,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318905,
       "num": 318905,
       "word": "人群中迪丽热巴看了我一眼",
@@ -4235,6 +4307,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 315291,
+      "num": 315291,
+      "word": "委员谈小学生厕所社交",
+      "onboard_time": 1709594543,
+      "rank": 30,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 314995,
       "num": 314995,
       "word": "米店日",
@@ -4265,6 +4345,14 @@
       "onboard_time": 1709218657,
       "rank": 14,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 312791,
+      "num": 262938,
+      "word": "浪姐入浪仪式",
+      "onboard_time": 1709594608,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 312677,
@@ -4579,20 +4667,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 290653,
-      "num": 290653,
-      "word": "惊蛰",
-      "onboard_time": 1709593404,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290600,
       "num": 290600,
       "word": "这么吃真的会长头发",
       "onboard_time": 1709383832,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 288904,
+      "num": 288904,
+      "word": "贝索斯再成世界首富",
+      "onboard_time": 1709599532,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 288623,
@@ -4923,6 +5011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264703,
+      "num": 264703,
+      "word": "惊蛰为啥吃梨",
+      "onboard_time": 1709593824,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264063,
       "num": 264063,
       "word": "于正 粉丝都是讨厌内戏的",
@@ -5113,6 +5209,14 @@
       "onboard_time": 1709452172,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 250423,
+      "num": 250423,
+      "word": "杭州姑娘翻出60克金饰卖了3万元",
+      "onboard_time": 1709567253,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250264,
@@ -6755,6 +6859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192517,
+      "num": 192517,
+      "word": "珠宝店店长称从没见过这么高的金价",
+      "onboard_time": 1709594004,
+      "rank": 35,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 192218,
       "num": 125191,
       "word": "刘耀文卡点发博给宋亚轩庆生",
@@ -6777,14 +6889,6 @@
       "onboard_time": 1709527416,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 191698,
-      "num": 172170,
-      "word": "杭州姑娘翻出60克金饰卖了3万元",
-      "onboard_time": 1709567253,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191693,
@@ -6849,14 +6953,6 @@
       "onboard_time": 1709248162,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 189610,
-      "num": 163231,
-      "word": "惊蛰为啥吃梨",
-      "onboard_time": 1709593824,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189507,
@@ -7267,12 +7363,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180503,
+      "num": 180503,
+      "word": "浙江招聘守鸟人300元1天",
+      "onboard_time": 1709597609,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180376,
       "num": 180376,
       "word": "15分钟为啥又叫一刻钟",
       "onboard_time": 1709371534,
       "rank": 27,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 180306,
+      "num": 180306,
+      "word": "于正端水式为许凯王星越庆生",
+      "onboard_time": 1709600011,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 180277,
@@ -7731,6 +7843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168279,
+      "num": 168279,
+      "word": "惊蛰标志着仲春时节开始",
+      "onboard_time": 1709599890,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168257,
       "num": 168257,
       "word": "杨幂出片速度",
@@ -7793,6 +7913,14 @@
       "onboard_time": 1709515649,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167022,
+      "num": 167022,
+      "word": "杨超越辣妹穿搭",
+      "onboard_time": 1709597550,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166746,
@@ -8219,6 +8347,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 157667,
+      "num": 157667,
+      "word": "为什么铁轨边上有很多小石子",
+      "onboard_time": 1709599472,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 157647,
       "num": 157647,
       "word": "建议探索生育数量与住房挂钩补偿机制",
@@ -8289,14 +8425,6 @@
       "onboard_time": 1709543732,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 156310,
-      "num": 156310,
-      "word": "浪姐入浪仪式",
-      "onboard_time": 1709594608,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 156162,
@@ -8891,6 +9019,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 144126,
+      "num": 144126,
+      "word": "2024政府工作报告",
+      "onboard_time": 1709600969,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 144106,
       "num": 144106,
       "word": "张婧仪檀健次电梯大片",
@@ -8945,14 +9081,6 @@
       "onboard_time": 1709346808,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143226,
-      "num": 131839,
-      "word": "珠宝店店长称从没见过这么高的金价",
-      "onboard_time": 1709594004,
-      "rank": 35,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 143132,
@@ -9065,6 +9193,14 @@
       "onboard_time": 1709288796,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 140778,
+      "num": 140778,
+      "word": "全国妇联建议倡导共担共育",
+      "onboard_time": 1709600429,
+      "rank": 36,
+      "category": "国内时政,母婴育儿"
     },
     {
       "raw_hot": 140636,
@@ -9193,6 +9329,14 @@
       "onboard_time": 1709562274,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138200,
+      "num": 138200,
+      "word": "学雷锋纪念日",
+      "onboard_time": 1709599954,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 137859,
@@ -9409,6 +9553,14 @@
       "onboard_time": 1709248464,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134807,
+      "num": 134807,
+      "word": "詹姆斯赛季首次当选周最佳",
+      "onboard_time": 1709600731,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 134791,
@@ -10179,6 +10331,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 119080,
+      "num": 119080,
+      "word": "人大代表邀大家来殷墟博物馆看亚长牛尊",
+      "onboard_time": 1709600852,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 118721,
       "num": 118721,
       "word": "原神",
@@ -10201,6 +10361,14 @@
       "onboard_time": 1709521772,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118314,
+      "num": 118314,
+      "word": "电影破墓",
+      "onboard_time": 1709597490,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 118304,
@@ -10619,6 +10787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108021,
+      "num": 108021,
+      "word": "FF起诉高合汽车",
+      "onboard_time": 1709601032,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 107639,
       "num": 107639,
       "word": "顾寻 活该追妻火葬场",
@@ -10659,12 +10835,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106877,
-      "num": 106877,
-      "word": "广东现在是一个巨大的水帘洞",
-      "onboard_time": 1709594427,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 107075,
+      "num": 107075,
+      "word": "外交部回应外籍人员移动支付难问题",
+      "onboard_time": 1709583015,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 106624,
+      "num": 106624,
+      "word": "特斯拉股价大跌7.16%",
+      "onboard_time": 1709601032,
+      "rank": 46,
+      "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 106396,
+      "num": 106396,
+      "word": "奶奶的世界好小又很大",
+      "onboard_time": 1709600852,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 106346,
@@ -10673,6 +10865,14 @@
       "onboard_time": 1709447011,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106271,
+      "num": 106271,
+      "word": "苹果了结加拿大电池门诉讼",
+      "onboard_time": 1709595206,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 106195,
@@ -10811,14 +11011,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 102532,
-      "num": 99016,
-      "word": "外交部回应外籍人员移动支付难问题",
-      "onboard_time": 1709583015,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 102265,
       "num": 102265,
       "word": "第五人格",
@@ -10873,14 +11065,6 @@
       "onboard_time": 1709299352,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 99809,
-      "num": 99809,
-      "word": "委员谈小学生厕所社交",
-      "onboard_time": 1709594543,
-      "rank": 30,
-      "category": "国内时政,教育"
     },
     {
       "raw_hot": 98778,
@@ -11427,6 +11611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57855,
+      "num": 809715,
+      "word": "100秒说两会",
+      "onboard_time": 1709557173,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57604,
       "num": 89121,
       "word": "唐凯vs丹勒二番战",
@@ -11561,14 +11753,6 @@
       "onboard_time": 1709335282,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 51521,
-      "num": 51521,
-      "word": "苹果了结加拿大电池门诉讼",
-      "onboard_time": 1709595206,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 51119,
@@ -11793,14 +11977,6 @@
       "onboard_time": 1709410217,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34181,
-      "num": 379750,
-      "word": "100秒说两会",
-      "onboard_time": 1709557173,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 33833,
