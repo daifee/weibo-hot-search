@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709619706637,
+  "endTime": 1709620474200,
   "band_list": [
     {
       "raw_hot": 3012846,
@@ -153,6 +153,14 @@
       "onboard_time": 1709541210,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1537905,
+      "num": 237504,
+      "word": "遭多人强暴的西班牙网红收到印度政府赔偿",
+      "onboard_time": 1709619392,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1525158,
@@ -579,6 +587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 862225,
+      "num": 862225,
+      "word": "建议火车票免费改签2次",
+      "onboard_time": 1709618251,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 854341,
       "num": 854341,
       "word": "日媒曝国乒教练可能调整",
@@ -748,7 +764,7 @@
     },
     {
       "raw_hot": 738107,
-      "num": 419650,
+      "num": 700993,
       "word": "Miss来浪姐了",
       "onboard_time": 1709616514,
       "rank": 17,
@@ -761,14 +777,6 @@
       "onboard_time": 1709466691,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 726734,
-      "num": 726734,
-      "word": "建议火车票免费改签2次",
-      "onboard_time": 1709618251,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 722264,
@@ -1321,6 +1329,14 @@
       "onboard_time": 1709604086,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 558142,
+      "num": 259744,
+      "word": "温流离开SM",
+      "onboard_time": 1709619332,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 556273,
@@ -2763,14 +2779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292425,
-      "num": 190295,
-      "word": "遭多人强暴的西班牙网红收到印度政府赔偿",
-      "onboard_time": 1709619392,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291922,
       "num": 291922,
       "word": "严浩翔打赏事件女主播报警",
@@ -2987,6 +2995,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 268136,
+      "num": 237262,
+      "word": "4.9元生菜被炒到300元",
+      "onboard_time": 1709619871,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266593,
       "num": 266593,
       "word": "吴镇宇手动闭麦",
@@ -3099,14 +3115,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 259744,
-      "num": 259744,
-      "word": "温流离开SM",
-      "onboard_time": 1709619332,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 259192,
       "num": 259192,
       "word": "陶喆玩梗",
@@ -3204,7 +3212,7 @@
     },
     {
       "raw_hot": 250889,
-      "num": 190290,
+      "num": 236671,
       "word": "法国堕胎权入宪",
       "onboard_time": 1709618610,
       "rank": 31,
@@ -3449,6 +3457,14 @@
       "onboard_time": 1709390735,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233403,
+      "num": 233403,
+      "word": "委员建议内地增加一年制硕士",
+      "onboard_time": 1709619031,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 232818,
@@ -4163,14 +4179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 196491,
-      "num": 196491,
-      "word": "委员建议内地增加一年制硕士",
-      "onboard_time": 1709619031,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 196363,
       "num": 635220,
       "word": "教科书级别的西安美景受热捧",
@@ -4545,6 +4553,14 @@
       "onboard_time": 1709565992,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180199,
+      "num": 180199,
+      "word": "仙人揉腹",
+      "onboard_time": 1709619513,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 179890,
@@ -4945,6 +4961,14 @@
       "onboard_time": 1709387974,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161982,
+      "num": 161982,
+      "word": "18女孩摆摊3年免费教300人学会救人",
+      "onboard_time": 1709619991,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161708,
@@ -5947,14 +5971,6 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 131614,
-      "num": 131614,
-      "word": "仙人揉腹",
-      "onboard_time": 1709619513,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 131294,
       "num": 131294,
       "word": "RIIZE官宣巡演",
@@ -6843,6 +6859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79545,
+      "num": 261469,
+      "word": "人生的100种可能",
+      "onboard_time": 1709618730,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 78365,
       "num": 78365,
       "word": "世界之外",
@@ -6873,14 +6897,6 @@
       "onboard_time": 1709481210,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 76178,
-      "num": 261469,
-      "word": "人生的100种可能",
-      "onboard_time": 1709618730,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 70425,
