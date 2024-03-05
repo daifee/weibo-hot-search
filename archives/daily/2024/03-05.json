@@ -1,6 +1,6 @@
 {
   "startTime": 1709569387343,
-  "endTime": 1709651850810,
+  "endTime": 1709652874404,
   "band_list": [
     {
       "raw_hot": 3012846,
@@ -251,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 928034,
+      "num": 425001,
+      "word": "金价",
+      "onboard_time": 1709648976,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 926220,
       "num": 333069,
       "word": "男子强制妻儿撤离1分钟后车被撞毁",
@@ -345,14 +353,6 @@
       "onboard_time": 1709642253,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 811323,
-      "num": 425001,
-      "word": "金价",
-      "onboard_time": 1709648976,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 809025,
@@ -1075,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308857,
+      "num": 308857,
+      "word": "朱一龙志愿军2将于国庆档上映",
+      "onboard_time": 1709651137,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 308499,
       "num": 281373,
       "word": "舒畅自己化的簪花妆",
@@ -1145,6 +1153,14 @@
       "onboard_time": 1709620653,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292350,
+      "num": 241223,
+      "word": "相亲当晚女生发来开销账单",
+      "onboard_time": 1709650597,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291300,
@@ -1249,6 +1265,14 @@
       "onboard_time": 1709608228,
       "rank": 32,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 275181,
+      "num": 208366,
+      "word": "农夫山泉",
+      "onboard_time": 1709651435,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274091,
@@ -1441,14 +1465,6 @@
       "onboard_time": 1709601811,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 241223,
-      "num": 241223,
-      "word": "相亲当晚女生发来开销账单",
-      "onboard_time": 1709650597,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239690,
@@ -1673,14 +1689,6 @@
       "onboard_time": 1709553274,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209273,
-      "num": 258937,
-      "word": "朱一龙志愿军2将于国庆档上映",
-      "onboard_time": 1709651137,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 208357,
@@ -2059,6 +2067,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 172283,
+      "num": 172283,
+      "word": "Minnie MiuMiu秀场中文问候",
+      "onboard_time": 1709651794,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 171412,
       "num": 171412,
       "word": "歼20飞行员要忘记疼痛练出肌肉记忆",
@@ -2275,14 +2291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154074,
-      "num": 154074,
-      "word": "农夫山泉",
-      "onboard_time": 1709651435,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153873,
       "num": 153873,
       "word": "上班哪有不疯的",
@@ -2328,6 +2336,14 @@
       "word": "原来开始新生活是有征兆的",
       "onboard_time": 1709637693,
       "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 148398,
+      "num": 148398,
+      "word": "00后都在做什么工作",
+      "onboard_time": 1709651738,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -2596,7 +2612,7 @@
     },
     {
       "raw_hot": 127091,
-      "num": 127091,
+      "num": 136288,
       "word": "檀健次看网友翻拍吵架名场面",
       "onboard_time": 1709650775,
       "rank": 43,
@@ -2787,14 +2803,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 113787,
-      "num": 113787,
-      "word": "00后都在做什么工作",
-      "onboard_time": 1709651738,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 113316,
       "num": 113316,
       "word": "我早起的第一件事",
@@ -2883,14 +2891,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 103516,
-      "num": 103516,
-      "word": "Minnie MiuMiu秀场中文问候",
-      "onboard_time": 1709651794,
-      "rank": 49,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 103095,
       "num": 103095,
       "word": "张予曦演过铠甲勇士",
@@ -2945,6 +2945,14 @@
       "onboard_time": 1709556149,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92436,
+      "num": 136237,
+      "word": "积木花的花语是什么",
+      "onboard_time": 1709652213,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 91687,

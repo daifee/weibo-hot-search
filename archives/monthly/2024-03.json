@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709651850810,
+  "endTime": 1709652874404,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -1083,6 +1083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 928034,
+      "num": 425001,
+      "word": "金价",
+      "onboard_time": 1709648976,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 927893,
       "num": 927893,
       "word": "周处除三害",
@@ -1377,14 +1385,6 @@
       "onboard_time": 1709642253,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 811323,
-      "num": 425001,
-      "word": "金价",
-      "onboard_time": 1709648976,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 809025,
@@ -5235,6 +5235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 308857,
+      "num": 308857,
+      "word": "朱一龙志愿军2将于国庆档上映",
+      "onboard_time": 1709651137,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 308732,
       "num": 308732,
       "word": "宣璐掌心女二",
@@ -5537,6 +5545,14 @@
       "onboard_time": 1709389174,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292350,
+      "num": 241223,
+      "word": "相亲当晚女生发来开销账单",
+      "onboard_time": 1709650597,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291640,
@@ -6515,14 +6531,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 241223,
-      "num": 241223,
-      "word": "相亲当晚女生发来开销账单",
-      "onboard_time": 1709650597,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240814,
       "num": 240814,
       "word": "陆沉半梦半醒",
@@ -7433,14 +7441,6 @@
       "onboard_time": 1709468373,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 209273,
-      "num": 258937,
-      "word": "朱一龙志愿军2将于国庆档上映",
-      "onboard_time": 1709651137,
-      "rank": 8,
-      "category": "电影"
     },
     {
       "raw_hot": 209219,
@@ -9355,6 +9355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172283,
+      "num": 172283,
+      "word": "Minnie MiuMiu秀场中文问候",
+      "onboard_time": 1709651794,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 171925,
       "num": 171925,
       "word": "确诊淡人",
@@ -10616,6 +10624,14 @@
       "word": "原来开始新生活是有征兆的",
       "onboard_time": 1709637693,
       "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 148398,
+      "num": 148398,
+      "word": "00后都在做什么工作",
+      "onboard_time": 1709651738,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -12020,7 +12036,7 @@
     },
     {
       "raw_hot": 127091,
-      "num": 127091,
+      "num": 136288,
       "word": "檀健次看网友翻拍吵架名场面",
       "onboard_time": 1709650775,
       "rank": 43,
@@ -12787,14 +12803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 113787,
-      "num": 113787,
-      "word": "00后都在做什么工作",
-      "onboard_time": 1709651738,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 113580,
       "num": 113580,
       "word": "维金斯正在处理严重的家庭问题",
@@ -13187,14 +13195,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 103516,
-      "num": 103516,
-      "word": "Minnie MiuMiu秀场中文问候",
-      "onboard_time": 1709651794,
-      "rank": 49,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 103289,
       "num": 103289,
       "word": "老板要理解现在的年轻人",
@@ -13464,6 +13464,14 @@
       "word": "狗狗只是在满怀期待中睡着了",
       "onboard_time": 1709359109,
       "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 92436,
+      "num": 136237,
+      "word": "积木花的花语是什么",
+      "onboard_time": 1709652213,
+      "rank": 49,
       "category": "情感"
     },
     {
