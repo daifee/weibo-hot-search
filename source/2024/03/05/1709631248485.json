@@ -1,0 +1,410 @@
+{
+  "runTime": 1709631248485,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1225834,
+        "num": 1225834,
+        "word": "建议中小学生每天都有一节体育课",
+        "onboard_time": 1709628212,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 868004,
+        "num": 868004,
+        "word": "霍启刚 建议落实带薪休假制度",
+        "onboard_time": 1709622811,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51868,
+        "num": 506751,
+        "word": "政府工作报告里的民生红包",
+        "onboard_time": 1709607810,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 354741,
+        "num": 354741,
+        "word": "高合创始人丁磊声明",
+        "onboard_time": 1709629953,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 316531,
+        "num": 316531,
+        "word": "东部战区回应美舰过航台湾海峡",
+        "onboard_time": 1709624555,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 279522,
+        "num": 279522,
+        "word": "仙人揉腹",
+        "onboard_time": 1709619513,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 253131,
+        "num": 253131,
+        "word": "委员建议内地增加一年制硕士",
+        "onboard_time": 1709619031,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 194275,
+        "num": 251735,
+        "word": "建议火车票免费改签2次",
+        "onboard_time": 1709618251,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184990,
+        "num": 250850,
+        "word": "Miss来浪姐了",
+        "onboard_time": 1709616514,
+        "rank": 8,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 151573,
+        "num": 249051,
+        "word": "章若楠张淼怡难哄同框",
+        "onboard_time": 1709622333,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1321351,
+        "num": 246462,
+        "word": "继承者们 抄袭",
+        "onboard_time": 1709625152,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1297630,
+        "num": 244889,
+        "word": "遭多人强暴的西班牙网红收到印度政府赔偿",
+        "onboard_time": 1709619392,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1152610,
+        "num": 244105,
+        "word": "周处除三害 抄袭",
+        "onboard_time": 1709627075,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 939824,
+        "num": 242333,
+        "word": "韩素希 麻烦安静点",
+        "onboard_time": 1709628093,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 681625,
+        "num": 239466,
+        "word": "蓝盈莹被广东回南天吓到了",
+        "onboard_time": 1709621615,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650818,
+        "num": 237606,
+        "word": "4.9元生菜被炒到300元",
+        "onboard_time": 1709619871,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628636,
+        "num": 236183,
+        "word": "男子强制妻儿撤离1分钟后车被撞毁",
+        "onboard_time": 1709620892,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533907,
+        "num": 234978,
+        "word": "白敬亭桑延路透图",
+        "onboard_time": 1709628332,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 505603,
+        "num": 232980,
+        "word": "日本的麦当劳可以点微笑",
+        "onboard_time": 1709624731,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 438534,
+        "num": 231664,
+        "word": "贝玲妃被曝将退出中国市场",
+        "onboard_time": 1709620953,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387050,
+        "num": 230430,
+        "word": "王一博Lacoste",
+        "onboard_time": 1709626294,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333503,
+        "num": 227519,
+        "word": "县城的网红炸鸡月薪3万都吃不起",
+        "onboard_time": 1709630253,
+        "rank": 21,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 333141,
+        "num": 226649,
+        "word": "娃哈哈瓶盖背后写着中华",
+        "onboard_time": 1709626595,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298126,
+        "num": 225034,
+        "word": "女子宫外孕没钱手术被医院收治并捐款",
+        "onboard_time": 1709615493,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 276131,
+        "num": 222810,
+        "word": "建议对伤人犬只饲养者追刑责",
+        "onboard_time": 1709629473,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 221764,
+        "num": 221764,
+        "word": "开始理解父辈的消费观了",
+        "onboard_time": 1709629234,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208357,
+        "num": 208357,
+        "word": "多功能单品盘成彩妆赛道突破口",
+        "onboard_time": 1709630073,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 206961,
+        "num": 206961,
+        "word": "幸运咖为何火不起来",
+        "onboard_time": 1709623115,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 203790,
+        "num": 203790,
+        "word": "现在的年轻人是扣扣搜搜的花了很多钱",
+        "onboard_time": 1709628212,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195043,
+        "num": 195043,
+        "word": "送你房子能把你送成倾家荡产",
+        "onboard_time": 1709629594,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 218965,
+        "num": 194979,
+        "word": "代号鸢 被父亲烧死的公孙珠",
+        "onboard_time": 1709629531,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27598,
+        "num": 183368,
+        "word": "京东许愿池帮74岁奶奶爆改",
+        "onboard_time": 1709629833,
+        "rank": 31,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 183173,
+        "num": 183173,
+        "word": "刘亦菲下班后状态",
+        "onboard_time": 1709628452,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166369,
+        "num": 166369,
+        "word": "粉丝接宋茜偶遇张元英",
+        "onboard_time": 1709627193,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157648,
+        "num": 157648,
+        "word": "出纳给自己开出170万年终奖",
+        "onboard_time": 1709630732,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157293,
+        "num": 157293,
+        "word": "刘亚仁出席第三次公审",
+        "onboard_time": 1709629894,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156006,
+        "num": 156006,
+        "word": "去年至少17个海外美妆品牌关闭或暂停营业",
+        "onboard_time": 1709628754,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 153689,
+        "num": 153689,
+        "word": "长期喝白开水和长期喝茶哪个更健康",
+        "onboard_time": 1709606911,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149744,
+        "num": 149744,
+        "word": "代表建议毕业生不要只把眼光放在一线城市",
+        "onboard_time": 1709631036,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144886,
+        "num": 144886,
+        "word": "女子买茅台遭威胁涉事门店已关门",
+        "onboard_time": 1709625751,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144506,
+        "num": 144506,
+        "word": "假装自信真的很有用",
+        "onboard_time": 1709622995,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137941,
+        "num": 137941,
+        "word": "一次性学完台球全部杆法",
+        "onboard_time": 1709630673,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 137377,
+        "num": 137377,
+        "word": "1分钟看懂回南天",
+        "onboard_time": 1709630372,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 136704,
+        "num": 136704,
+        "word": "委员建议女性可带薪育产假达2年",
+        "onboard_time": 1709611710,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133050,
+        "num": 133050,
+        "word": "香蕉是水果届的唢呐吧",
+        "onboard_time": 1709626953,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132547,
+        "num": 132547,
+        "word": "离开SM的艺人",
+        "onboard_time": 1709621494,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129113,
+        "num": 129113,
+        "word": "李雪琴的记忆力",
+        "onboard_time": 1709625093,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124458,
+        "num": 124458,
+        "word": "李玟二姐说答应妹妹会努力走完这一生",
+        "onboard_time": 1709626474,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121388,
+        "num": 121388,
+        "word": "身上戴着一堆配饰不难受吗",
+        "onboard_time": 1709628212,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113721,
+        "num": 121329,
+        "word": "正确坐姿的关键只有1个",
+        "onboard_time": 1709624252,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平两会时间#"
+    }
+  }
+}
