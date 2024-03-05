@@ -1,6 +1,6 @@
 {
   "startTime": 1709569387343,
-  "endTime": 1709626893047,
+  "endTime": 1709627649388,
   "band_list": [
     {
       "raw_hot": 3012846,
@@ -51,7 +51,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1685096,
+      "raw_hot": 1710327,
       "num": 284464,
       "word": "继承者们 抄袭",
       "onboard_time": 1709625152,
@@ -363,6 +363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 546798,
+      "num": 269861,
+      "word": "周处除三害 抄袭",
+      "onboard_time": 1709627075,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 541501,
       "num": 541501,
       "word": "广东回南天",
@@ -377,6 +385,22 @@
       "onboard_time": 1709552372,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 538276,
+      "num": 279757,
+      "word": "日本的麦当劳可以点微笑",
+      "onboard_time": 1709624731,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 529157,
+      "num": 279058,
+      "word": "王一博Lacoste",
+      "onboard_time": 1709626294,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 525194,
@@ -440,6 +464,14 @@
       "word": "父亲心疼女儿被撞伤将床头柱锯掉",
       "onboard_time": 1709569885,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468223,
+      "num": 468223,
+      "word": "建议修改献血法部分条款",
+      "onboard_time": 1709621252,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -611,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341629,
+      "num": 341629,
+      "word": "委员说成为网红不是旅游城市发展的全部",
+      "onboard_time": 1709623595,
+      "rank": 42,
+      "category": "国内时政,旅游"
+    },
+    {
       "raw_hot": 340663,
       "num": 263134,
       "word": "睡前长期玩手机可能让你变丑",
@@ -619,28 +659,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 339629,
-      "num": 279757,
-      "word": "日本的麦当劳可以点微笑",
-      "onboard_time": 1709624731,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 337789,
       "num": 337789,
       "word": "三月将要播的电视剧",
       "onboard_time": 1709563892,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 337542,
-      "num": 337542,
-      "word": "委员说成为网红不是旅游城市发展的全部",
-      "onboard_time": 1709623595,
-      "rank": 42,
-      "category": "国内时政,旅游"
     },
     {
       "raw_hot": 333926,
@@ -665,6 +689,14 @@
       "onboard_time": 1709619513,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 319684,
+      "num": 319684,
+      "word": "女子买茅台遭威胁涉事门店已关门",
+      "onboard_time": 1709625751,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319515,
@@ -755,14 +787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 289737,
-      "num": 279058,
-      "word": "王一博Lacoste",
-      "onboard_time": 1709626294,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 288904,
       "num": 288904,
       "word": "贝索斯再成世界首富",
@@ -809,14 +833,6 @@
       "onboard_time": 1709601749,
       "rank": 26,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 276809,
-      "num": 276809,
-      "word": "女子买茅台遭威胁涉事门店已关门",
-      "onboard_time": 1709625751,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275603,
@@ -881,6 +897,14 @@
       "onboard_time": 1709604631,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 258614,
+      "num": 258614,
+      "word": "粉丝接宋茜偶遇张元英",
+      "onboard_time": 1709627193,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 253142,
@@ -1035,6 +1059,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224236,
+      "num": 224236,
+      "word": "正确坐姿的关键只有1个",
+      "onboard_time": 1709624252,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 219977,
+      "num": 219977,
+      "word": "娃哈哈瓶盖背后写着中华",
+      "onboard_time": 1709626595,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217825,
       "num": 217825,
       "word": "这竟是我那桀骜不驯的桑延",
@@ -1089,14 +1129,6 @@
       "onboard_time": 1709553274,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209085,
-      "num": 209085,
-      "word": "正确坐姿的关键只有1个",
-      "onboard_time": 1709624252,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 205276,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1709619090,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190332,
+      "num": 190332,
+      "word": "香蕉是水果届的唢呐吧",
+      "onboard_time": 1709626953,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 190150,
@@ -1443,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156233,
+      "num": 156233,
+      "word": "阮经天 谁说颜值不能当饭吃",
+      "onboard_time": 1709626832,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155585,
       "num": 160360,
       "word": "宋亚轩什么弹幕都敢念",
@@ -1659,20 +1707,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 124433,
-      "num": 124433,
-      "word": "娃哈哈瓶盖背后写着中华",
-      "onboard_time": 1709626595,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123979,
       "num": 123979,
       "word": "已婚女生找工作有多难",
       "onboard_time": 1709557834,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123858,
+      "num": 123858,
+      "word": "文字届的姜",
+      "onboard_time": 1709627193,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 122875,
@@ -1699,14 +1747,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 118920,
-      "num": 118920,
-      "word": "阮经天 谁说颜值不能当饭吃",
-      "onboard_time": 1709626832,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 118314,
       "num": 118314,
       "word": "电影破墓",
@@ -1721,6 +1761,14 @@
       "onboard_time": 1709601569,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 113316,
+      "num": 113316,
+      "word": "我早起的第一件事",
+      "onboard_time": 1709627611,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 112594,

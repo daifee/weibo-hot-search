@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709626893047,
+  "endTime": 1709627649388,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -251,6 +251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1710327,
+      "num": 284464,
+      "word": "继承者们 抄袭",
+      "onboard_time": 1709625152,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1699639,
       "num": 1699639,
       "word": "男孩一天喝9升水被查出肿瘤",
@@ -265,14 +273,6 @@
       "onboard_time": 1709354131,
       "rank": 1,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1685096,
-      "num": 284464,
-      "word": "继承者们 抄袭",
-      "onboard_time": 1709625152,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 1683101,
@@ -2555,6 +2555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 546798,
+      "num": 269861,
+      "word": "周处除三害 抄袭",
+      "onboard_time": 1709627075,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 544355,
       "num": 544355,
       "word": "人民网评面包店浪费现象",
@@ -2593,6 +2601,14 @@
       "onboard_time": 1709266055,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 538276,
+      "num": 279757,
+      "word": "日本的麦当劳可以点微笑",
+      "onboard_time": 1709624731,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 536210,
@@ -2665,6 +2681,14 @@
       "onboard_time": 1709552432,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 529157,
+      "num": 279058,
+      "word": "王一博Lacoste",
+      "onboard_time": 1709626294,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 528656,
@@ -3097,6 +3121,14 @@
       "onboard_time": 1709295272,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 468223,
+      "num": 468223,
+      "word": "建议修改献血法部分条款",
+      "onboard_time": 1709621252,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 468189,
@@ -4379,6 +4411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 341629,
+      "num": 341629,
+      "word": "委员说成为网红不是旅游城市发展的全部",
+      "onboard_time": 1709623595,
+      "rank": 42,
+      "category": "国内时政,旅游"
+    },
+    {
       "raw_hot": 340666,
       "num": 259612,
       "word": "14岁不舍得给自己花钱",
@@ -4401,14 +4441,6 @@
       "onboard_time": 1709261732,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 339629,
-      "num": 279757,
-      "word": "日本的麦当劳可以点微笑",
-      "onboard_time": 1709624731,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 339320,
@@ -4441,14 +4473,6 @@
       "onboard_time": 1709255491,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 337542,
-      "num": 337542,
-      "word": "委员说成为网红不是旅游城市发展的全部",
-      "onboard_time": 1709623595,
-      "rank": 42,
-      "category": "国内时政,旅游"
     },
     {
       "raw_hot": 337263,
@@ -4697,6 +4721,14 @@
       "onboard_time": 1709473291,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 319684,
+      "num": 319684,
+      "word": "女子买茅台遭威胁涉事门店已关门",
+      "onboard_time": 1709625751,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319582,
@@ -5187,14 +5219,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 289737,
-      "num": 279058,
-      "word": "王一博Lacoste",
-      "onboard_time": 1709626294,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 288904,
       "num": 288904,
       "word": "贝索斯再成世界首富",
@@ -5337,14 +5361,6 @@
       "onboard_time": 1709601749,
       "rank": 26,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 276809,
-      "num": 276809,
-      "word": "女子买茅台遭威胁涉事门店已关门",
-      "onboard_time": 1709625751,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276028,
@@ -5721,6 +5737,14 @@
       "onboard_time": 1709604631,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 258614,
+      "num": 258614,
+      "word": "粉丝接宋茜偶遇张元英",
+      "onboard_time": 1709627193,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 257414,
@@ -6379,6 +6403,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 224236,
+      "num": 224236,
+      "word": "正确坐姿的关键只有1个",
+      "onboard_time": 1709624252,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 224200,
       "num": 224200,
       "word": "钟楚曦三天出三款妆容",
@@ -6457,6 +6489,14 @@
       "onboard_time": 1709546430,
       "rank": 33,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 219977,
+      "num": 219977,
+      "word": "娃哈哈瓶盖背后写着中华",
+      "onboard_time": 1709626595,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219714,
@@ -6856,14 +6896,6 @@
       "word": "你身上的班味其实是慢性疲劳",
       "onboard_time": 1709388995,
       "rank": 39,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 209085,
-      "num": 209085,
-      "word": "正确坐姿的关键只有1个",
-      "onboard_time": 1709624252,
-      "rank": 31,
       "category": "健康医疗"
     },
     {
@@ -7745,6 +7777,14 @@
       "onboard_time": 1709619090,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190332,
+      "num": 190332,
+      "word": "香蕉是水果届的唢呐吧",
+      "onboard_time": 1709626953,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 190150,
@@ -9425,6 +9465,14 @@
       "onboard_time": 1709543732,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 156233,
+      "num": 156233,
+      "word": "阮经天 谁说颜值不能当饭吃",
+      "onboard_time": 1709626832,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 156162,
@@ -11187,14 +11235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124433,
-      "num": 124433,
-      "word": "娃哈哈瓶盖背后写着中华",
-      "onboard_time": 1709626595,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124117,
       "num": 124117,
       "word": "ChatGPT论文修改指令",
@@ -11209,6 +11249,14 @@
       "onboard_time": 1709366791,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123858,
+      "num": 123858,
+      "word": "文字届的姜",
+      "onboard_time": 1709627193,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 123842,
@@ -11473,14 +11521,6 @@
       "onboard_time": 1709600852,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 118920,
-      "num": 118920,
-      "word": "阮经天 谁说颜值不能当饭吃",
-      "onboard_time": 1709626832,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 118721,
@@ -11753,6 +11793,14 @@
       "onboard_time": 1709273912,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 113316,
+      "num": 113316,
+      "word": "我早起的第一件事",
+      "onboard_time": 1709627611,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 113227,
