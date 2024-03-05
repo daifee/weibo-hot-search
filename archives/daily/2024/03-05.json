@@ -1,6 +1,6 @@
 {
   "startTime": 1709569387343,
-  "endTime": 1709627649388,
+  "endTime": 1709630223975,
   "band_list": [
     {
       "raw_hot": 3012846,
@@ -83,6 +83,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1260641,
+      "num": 269861,
+      "word": "周处除三害 抄袭",
+      "onboard_time": 1709627075,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1237416,
       "num": 282057,
       "word": "贝玲妃被曝将退出中国市场",
@@ -155,12 +163,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 965111,
+      "num": 230522,
+      "word": "韩素希 麻烦安静点",
+      "onboard_time": 1709628093,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 939808,
       "num": 331231,
       "word": "大学毕业到30岁是最艰难的几年",
       "onboard_time": 1709607992,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 932678,
+      "num": 932678,
+      "word": "建议中小学生每天都有一节体育课",
+      "onboard_time": 1709628212,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 926220,
@@ -363,12 +387,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 546798,
-      "num": 269861,
-      "word": "周处除三害 抄袭",
-      "onboard_time": 1709627075,
-      "rank": 16,
-      "category": "电影"
+      "raw_hot": 542720,
+      "num": 279757,
+      "word": "日本的麦当劳可以点微笑",
+      "onboard_time": 1709624731,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 541501,
@@ -385,14 +409,6 @@
       "onboard_time": 1709552372,
       "rank": 17,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 538276,
-      "num": 279757,
-      "word": "日本的麦当劳可以点微笑",
-      "onboard_time": 1709624731,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 529157,
@@ -459,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 481385,
+      "num": 227930,
+      "word": "娃哈哈瓶盖背后写着中华",
+      "onboard_time": 1709626595,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 469543,
       "num": 469543,
       "word": "父亲心疼女儿被撞伤将床头柱锯掉",
@@ -521,6 +545,14 @@
       "onboard_time": 1709607390,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 413128,
+      "num": 226548,
+      "word": "白敬亭桑延路透图",
+      "onboard_time": 1709628332,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 409000,
@@ -867,6 +899,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 267130,
+      "num": 225865,
+      "word": "建议对伤人犬只饲养者追刑责",
+      "onboard_time": 1709629473,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 264703,
       "num": 264703,
       "word": "惊蛰为啥吃梨",
@@ -1059,20 +1099,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225563,
+      "num": 225563,
+      "word": "去年至少17个海外美妆品牌关闭或暂停营业",
+      "onboard_time": 1709628754,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 224236,
       "num": 224236,
       "word": "正确坐姿的关键只有1个",
       "onboard_time": 1709624252,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 219977,
-      "num": 219977,
-      "word": "娃哈哈瓶盖背后写着中华",
-      "onboard_time": 1709626595,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217825,
@@ -1099,6 +1139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 216047,
+      "num": 216047,
+      "word": "现在的年轻人是扣扣搜搜的花了很多钱",
+      "onboard_time": 1709628212,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215402,
       "num": 215402,
       "word": "新能源汽车产销量占全球比重超60%",
@@ -1121,6 +1169,14 @@
       "onboard_time": 1709602887,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 211692,
+      "num": 211692,
+      "word": "开始理解父辈的消费观了",
+      "onboard_time": 1709629234,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 209291,
@@ -1227,6 +1283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190116,
+      "num": 190116,
+      "word": "代号鸢 被父亲烧死的公孙珠",
+      "onboard_time": 1709629531,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188669,
       "num": 188669,
       "word": "2023年经济社会发展成绩单",
@@ -1249,6 +1313,14 @@
       "onboard_time": 1709607511,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184351,
+      "num": 184351,
+      "word": "刘亦菲下班后状态",
+      "onboard_time": 1709628452,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 181840,
@@ -1443,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158904,
+      "num": 158904,
+      "word": "刘亚仁出席第三次公审",
+      "onboard_time": 1709629894,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158509,
       "num": 158509,
       "word": "杨幂法国街头vlog",
@@ -1481,6 +1561,14 @@
       "onboard_time": 1709613035,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156424,
+      "num": 156424,
+      "word": "送你房子能把你送成倾家荡产",
+      "onboard_time": 1709629594,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 156233,
@@ -1531,12 +1619,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 148079,
+      "num": 148079,
+      "word": "多功能单品盘成彩妆赛道突破口",
+      "onboard_time": 1709630073,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 147820,
       "num": 147820,
       "word": "古诗词里的春天自带氛围感",
       "onboard_time": 1709621912,
       "rank": 37,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 146976,
+      "num": 146976,
+      "word": "身上戴着一堆配饰不难受吗",
+      "onboard_time": 1709628212,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 146236,
@@ -1665,6 +1769,14 @@
       "onboard_time": 1709594304,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128212,
+      "num": 128212,
+      "word": "高合创始人丁磊声明",
+      "onboard_time": 1709629953,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 127331,
@@ -2075,6 +2187,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 34378,
+      "num": 114876,
+      "word": "京东许愿池帮74岁奶奶爆改",
+      "onboard_time": 1709629833,
+      "rank": 46,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 33833,
       "num": 33833,
       "word": "牛顿我真的爱上你了",
@@ -2170,6 +2290,9 @@
     },
     {
       "word": "#总书记100多次到基层考察调研#"
+    },
+    {
+      "word": "#无我#"
     }
   ]
 }
