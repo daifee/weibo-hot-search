@@ -1,6 +1,6 @@
 {
   "startTime": 1709569387343,
-  "endTime": 1709641892630,
+  "endTime": 1709642796289,
   "band_list": [
     {
       "raw_hot": 3012846,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 849301,
-      "num": 286781,
+      "num": 333308,
       "word": "男朋友谈过一段很长的恋爱",
       "onboard_time": 1709634513,
       "rank": 30,
@@ -299,12 +299,28 @@
       "category": "教育,国内时政"
     },
     {
+      "raw_hot": 809025,
+      "num": 335849,
+      "word": "MiuMiu大秀",
+      "onboard_time": 1709640931,
+      "rank": 16,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 806088,
       "num": 356444,
       "word": "偶遇贾玲滑雪",
       "onboard_time": 1709631571,
       "rank": 17,
       "category": "艺人,运动健身"
+    },
+    {
+      "raw_hot": 797956,
+      "num": 335492,
+      "word": "出纳给自己开出170万年终奖",
+      "onboard_time": 1709630732,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 739556,
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 731551,
-      "num": 288792,
+      "num": 333966,
       "word": "王一博脸颊肉回来了",
       "onboard_time": 1709635896,
       "rank": 15,
@@ -417,14 +433,6 @@
       "onboard_time": 1709634153,
       "rank": 18,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 575687,
-      "num": 303790,
-      "word": "出纳给自己开出170万年终奖",
-      "onboard_time": 1709630732,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 571279,
@@ -603,16 +611,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 467894,
-      "num": 285266,
-      "word": "MiuMiu大秀",
-      "onboard_time": 1709640931,
-      "rank": 16,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 458323,
-      "num": 281822,
+      "num": 334627,
       "word": "Jennie黑色高定小纱裙",
       "onboard_time": 1709638472,
       "rank": 17,
@@ -771,6 +771,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 356895,
+      "num": 333526,
+      "word": "分手后最体面的星座",
+      "onboard_time": 1709641473,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 354789,
       "num": 206113,
       "word": "南湘回国",
@@ -851,6 +859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 333224,
+      "num": 333224,
+      "word": "蔚来全年净亏损207.2亿元",
+      "onboard_time": 1709641832,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 329314,
       "num": 329314,
       "word": "建议实施10年义务教育",
@@ -891,6 +907,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 315478,
+      "num": 315478,
+      "word": "iPad",
+      "onboard_time": 1709642132,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 315291,
       "num": 315291,
       "word": "委员谈小学生厕所社交",
@@ -913,6 +937,14 @@
       "onboard_time": 1709570185,
       "rank": 47,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 306096,
+      "num": 306096,
+      "word": "彩发是kiko最好的医美",
+      "onboard_time": 1709642072,
+      "rank": 23,
+      "category": "美妆,作品衍生"
     },
     {
       "raw_hot": 304302,
@@ -945,6 +977,14 @@
       "onboard_time": 1709608411,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297560,
+      "num": 297560,
+      "word": "虹桥机场听到两个人的对话",
+      "onboard_time": 1709641531,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 294043,
@@ -1187,6 +1227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247552,
+      "num": 247552,
+      "word": "辛芷蕾 不许再折腾了哦",
+      "onboard_time": 1709642253,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247378,
       "num": 204403,
       "word": "贵女男主",
@@ -1217,14 +1265,6 @@
       "onboard_time": 1709601811,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 244316,
-      "num": 244316,
-      "word": "分手后最体面的星座",
-      "onboard_time": 1709641473,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 237799,
@@ -1387,14 +1427,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 216587,
-      "num": 176429,
-      "word": "虹桥机场听到两个人的对话",
-      "onboard_time": 1709641531,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 216047,
       "num": 216047,
       "word": "现在的年轻人是扣扣搜搜的花了很多钱",
@@ -1433,6 +1465,14 @@
       "onboard_time": 1709602887,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 211331,
+      "num": 211331,
+      "word": "院人你好星期六上班路透",
+      "onboard_time": 1709642552,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 209291,
@@ -1604,7 +1644,7 @@
     },
     {
       "raw_hot": 181855,
-      "num": 316190,
+      "num": 336909,
       "word": "大熊猫花式吸娃越吸越上头",
       "onboard_time": 1709635293,
       "rank": 9,
@@ -1649,6 +1689,14 @@
       "onboard_time": 1709613513,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178764,
+      "num": 178764,
+      "word": "宁可喝回南天的水也不喝自己碗里的",
+      "onboard_time": 1709641473,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 178042,
@@ -1787,16 +1835,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 166698,
-      "num": 166698,
-      "word": "宁可喝回南天的水也不喝自己碗里的",
-      "onboard_time": 1709641473,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 164702,
-      "num": 331448,
+      "num": 337149,
       "word": "2024全国两会新词热词",
       "onboard_time": 1709639792,
       "rank": 6,
@@ -1987,6 +2027,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 147461,
+      "num": 371697,
+      "word": "这可能就是我们长大的意义吧",
+      "onboard_time": 1709632235,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146976,
       "num": 146976,
       "word": "身上戴着一堆配饰不难受吗",
@@ -2000,14 +2048,6 @@
       "word": "28岁找工作被嫌弃年龄大",
       "onboard_time": 1709551770,
       "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 145589,
-      "num": 371697,
-      "word": "这可能就是我们长大的意义吧",
-      "onboard_time": 1709632235,
-      "rank": 9,
       "category": "情感"
     },
     {
@@ -2147,6 +2187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134527,
+      "num": 134527,
+      "word": "眼泪女王设定",
+      "onboard_time": 1709641771,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133183,
       "num": 133183,
       "word": "唐探2 众生苦难簿",
@@ -2267,6 +2315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 124316,
+      "num": 124316,
+      "word": "小狗烤面包",
+      "onboard_time": 1709641473,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 123979,
       "num": 123979,
       "word": "已婚女生找工作有多难",
@@ -2331,14 +2387,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 118299,
-      "num": 118299,
-      "word": "小狗烤面包",
-      "onboard_time": 1709641473,
-      "rank": 43,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 117237,
       "num": 117237,
       "word": "爱国情怀岂能这样消费",
@@ -2361,6 +2409,14 @@
       "onboard_time": 1709601569,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 116145,
+      "num": 116145,
+      "word": "被高铁上的风景治愈了",
+      "onboard_time": 1709641894,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 115142,
@@ -2419,14 +2475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 106283,
-      "num": 106283,
-      "word": "眼泪女王设定",
-      "onboard_time": 1709641771,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106271,
       "num": 106271,
       "word": "苹果了结加拿大电池门诉讼",
@@ -2465,14 +2513,6 @@
       "onboard_time": 1709568928,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102690,
-      "num": 102690,
-      "word": "蔚来全年净亏损207.2亿元",
-      "onboard_time": 1709641832,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 102575,
@@ -2524,7 +2564,7 @@
     },
     {
       "raw_hot": 91687,
-      "num": 102558,
+      "num": 112954,
       "word": "水电池有望5年内取代锂离子电池",
       "onboard_time": 1709638952,
       "rank": 48,
