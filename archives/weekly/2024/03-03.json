@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709645665592,
+  "endTime": 1709648210630,
   "band_list": [
     {
       "raw_hot": 3012846,
@@ -283,6 +283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1317977,
+      "num": 308563,
+      "word": "朱丹听到sorry变脸",
+      "onboard_time": 1709643155,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1317726,
       "num": 977025,
       "word": "金价涨了",
@@ -353,14 +361,6 @@
       "onboard_time": 1709628212,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1224848,
-      "num": 284045,
-      "word": "朱丹听到sorry变脸",
-      "onboard_time": 1709643155,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1221036,
@@ -515,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1030501,
+      "num": 1030501,
+      "word": "建议彩票个人单项奖金最高额度不超过500万",
+      "onboard_time": 1709646213,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1029181,
       "num": 1029181,
       "word": "吴艳妮2024首秀8秒12",
@@ -561,6 +569,14 @@
       "onboard_time": 1709425587,
       "rank": 1,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 982932,
+      "num": 308422,
+      "word": "已经生娃可能还会检测出已怀孕",
+      "onboard_time": 1709645075,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 970275,
@@ -820,7 +836,7 @@
     },
     {
       "raw_hot": 819868,
-      "num": 283306,
+      "num": 305153,
       "word": "辛芷蕾 不许再折腾了哦",
       "onboard_time": 1709642253,
       "rank": 26,
@@ -841,6 +857,14 @@
       "onboard_time": 1709631571,
       "rank": 17,
       "category": "艺人,运动健身"
+    },
+    {
+      "raw_hot": 801932,
+      "num": 307430,
+      "word": "许凯 别刷那个汉堡了",
+      "onboard_time": 1709645193,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 798998,
@@ -873,6 +897,14 @@
       "onboard_time": 1709513911,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 785738,
+      "num": 306947,
+      "word": "张元英miumiu巴黎时装周",
+      "onboard_time": 1709645010,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 781900,
@@ -1795,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505567,
+      "num": 306256,
+      "word": "我在银行买金镯子又大又便宜",
+      "onboard_time": 1709645555,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501201,
       "num": 501201,
       "word": "委员建议内地增加一年制硕士",
@@ -2083,12 +2123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 444667,
+      "num": 305898,
+      "word": "Jennie仪态",
+      "onboard_time": 1709646272,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 444218,
       "num": 444218,
       "word": "高合创始人丁磊声明",
       "onboard_time": 1709629953,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 444024,
+      "num": 305613,
+      "word": "男生第一次约会的至暗时刻",
+      "onboard_time": 1709643274,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 440633,
@@ -2459,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376862,
+      "num": 304808,
+      "word": "阿姨被辞退后发信息轰炸我",
+      "onboard_time": 1709644952,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 375023,
       "num": 375023,
       "word": "广东现在是一个巨大的水帘洞",
@@ -2505,6 +2569,14 @@
       "onboard_time": 1709618012,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 367299,
+      "num": 304563,
+      "word": "易梦玲宋智雅合照",
+      "onboard_time": 1709647776,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 367298,
@@ -2641,6 +2713,14 @@
       "onboard_time": 1709468912,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 352599,
+      "num": 304262,
+      "word": "王一博世趋排名",
+      "onboard_time": 1709647656,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 352493,
@@ -2947,6 +3027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 318775,
+      "num": 318775,
+      "word": "感染HPV后还能打疫苗吗",
+      "onboard_time": 1709645733,
+      "rank": 4,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 317616,
       "num": 317616,
       "word": "原来生日有这么多隐藏福利",
@@ -2969,14 +3057,6 @@
       "onboard_time": 1709621192,
       "rank": 7,
       "category": "国内时政,教育"
-    },
-    {
-      "raw_hot": 316523,
-      "num": 221799,
-      "word": "已经生娃可能还会检测出已怀孕",
-      "onboard_time": 1709645075,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 316520,
@@ -3075,6 +3155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303790,
+      "num": 303790,
+      "word": "真没必要为三五年后的前途担忧",
+      "onboard_time": 1709647776,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 303750,
       "num": 303750,
       "word": "闪耀暖暖 好看",
@@ -3145,14 +3233,6 @@
       "onboard_time": 1709423242,
       "rank": 9,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 294445,
-      "num": 220362,
-      "word": "阿姨被辞退后发信息轰炸我",
-      "onboard_time": 1709644952,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 294128,
@@ -3308,7 +3388,7 @@
     },
     {
       "raw_hot": 285416,
-      "num": 285416,
+      "num": 309841,
       "word": "医院检查互认在政府工作报告中明确了",
       "onboard_time": 1709640092,
       "rank": 25,
@@ -3353,14 +3433,6 @@
       "onboard_time": 1709469810,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 278988,
-      "num": 278988,
-      "word": "许凯 别刷那个汉堡了",
-      "onboard_time": 1709645193,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 277970,
@@ -3531,14 +3603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264677,
-      "num": 263525,
-      "word": "张元英miumiu巴黎时装周",
-      "onboard_time": 1709645010,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 264483,
       "num": 264483,
       "word": "高危HPV",
@@ -3560,14 +3624,6 @@
       "word": "豪士面包 种地吧",
       "onboard_time": 1709644171,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 263057,
-      "num": 263057,
-      "word": "男生第一次约会的至暗时刻",
-      "onboard_time": 1709643274,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -4467,6 +4523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210080,
+      "num": 210080,
+      "word": "墨尔本偶遇周杰伦GAI",
+      "onboard_time": 1709646272,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209838,
       "num": 209838,
       "word": "milkyway100击杀",
@@ -4931,6 +4995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192953,
+      "num": 192953,
+      "word": "这只猫真的非养不可吗",
+      "onboard_time": 1709646874,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192952,
       "num": 192952,
       "word": "普通情侣一年能赚多少钱",
@@ -5148,7 +5220,7 @@
     },
     {
       "raw_hot": 185562,
-      "num": 284341,
+      "num": 309074,
       "word": "RNG对战TT",
       "onboard_time": 1709643932,
       "rank": 8,
@@ -5539,6 +5611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 173206,
+      "num": 173206,
+      "word": "身体出现3个异常警惕癌症信号",
+      "onboard_time": 1709643450,
+      "rank": 49,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 171865,
       "num": 171865,
       "word": "时代少年团演唱会申报",
@@ -5569,6 +5649,14 @@
       "onboard_time": 1709603549,
       "rank": 34,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 170857,
+      "num": 170857,
+      "word": "重生之我在爽文短剧里当保姆",
+      "onboard_time": 1709646213,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 170544,
@@ -6067,6 +6155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 154100,
+      "num": 154100,
+      "word": "世界上最好的心理医生",
+      "onboard_time": 1709647232,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154007,
       "num": 154007,
       "word": "原来大家的青春都被工作吸走了",
@@ -6113,6 +6209,14 @@
       "onboard_time": 1709555612,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152774,
+      "num": 152774,
+      "word": "越来越多年轻人确诊淡淡综合症",
+      "onboard_time": 1709647897,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152687,
@@ -6177,14 +6281,6 @@
       "onboard_time": 1709454330,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150351,
-      "num": 150351,
-      "word": "身体出现3个异常警惕癌症信号",
-      "onboard_time": 1709643450,
-      "rank": 49,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 150241,
@@ -7299,14 +7395,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 123909,
-      "num": 123909,
-      "word": "我在银行买金镯子又大又便宜",
-      "onboard_time": 1709645555,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123858,
       "num": 123858,
       "word": "文字届的姜",
@@ -7345,6 +7433,14 @@
       "onboard_time": 1709508324,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122564,
+      "num": 122564,
+      "word": "年轻人去旅游前的精神状态",
+      "onboard_time": 1709646634,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 122548,
@@ -8027,6 +8123,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 82714,
+      "num": 120970,
+      "word": "马斯克回应特斯拉德国工厂火灾",
+      "onboard_time": 1709647534,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 82219,
+      "num": 464680,
+      "word": "细节中读懂两会的精微要义",
+      "onboard_time": 1709644592,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 80232,
       "num": 74732,
       "word": "为何逛大润发的人越来越少了",
@@ -8065,14 +8177,6 @@
       "onboard_time": 1709481210,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 74655,
-      "num": 388075,
-      "word": "细节中读懂两会的精微要义",
-      "onboard_time": 1709644592,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 70425,
@@ -8307,6 +8411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45985,
+      "num": 282239,
+      "word": "蔡依林巴黎日不落大片",
+      "onboard_time": 1709644293,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 45484,
       "num": 45484,
       "word": "提笔忘字开口忘词其实是一种脑病",
@@ -8401,14 +8513,6 @@
       "onboard_time": 1709573901,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 33096,
-      "num": 282239,
-      "word": "蔡依林巴黎日不落大片",
-      "onboard_time": 1709644293,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 32426,
