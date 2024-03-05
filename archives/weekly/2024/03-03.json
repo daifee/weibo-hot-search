@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709649319887,
+  "endTime": 1709651850810,
   "band_list": [
     {
       "raw_hot": 3012846,
@@ -161,6 +161,14 @@
       "onboard_time": 1709552372,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1652669,
+      "num": 256175,
+      "word": "140万买的230平房子",
+      "onboard_time": 1709648496,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 1577469,
@@ -843,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 811323,
+      "num": 425001,
+      "word": "金价",
+      "onboard_time": 1709648976,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 809025,
       "num": 335849,
       "word": "MiuMiu大秀",
@@ -1059,14 +1075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 700086,
-      "num": 255261,
-      "word": "140万买的230平房子",
-      "onboard_time": 1709648496,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 699355,
       "num": 281517,
       "word": "女子动物园私自抱娃下车被狼逼进",
@@ -1081,6 +1089,14 @@
       "onboard_time": 1709510670,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 697717,
+      "num": 304563,
+      "word": "易梦玲宋智雅合照",
+      "onboard_time": 1709647776,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 694476,
@@ -1513,14 +1529,6 @@
       "onboard_time": 1709456790,
       "rank": 9,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 574059,
-      "num": 304563,
-      "word": "易梦玲宋智雅合照",
-      "onboard_time": 1709647776,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 572405,
@@ -2371,6 +2379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404726,
+      "num": 404726,
+      "word": "射雕英雄传侠之大者计划全球发行",
+      "onboard_time": 1709650955,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 404147,
       "num": 404147,
       "word": "王鹤棣 我不开腔",
@@ -2673,6 +2689,14 @@
       "onboard_time": 1709529573,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 360550,
+      "num": 283681,
+      "word": "越来越多年轻人确诊淡淡综合症",
+      "onboard_time": 1709647897,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357276,
@@ -3265,14 +3289,6 @@
       "onboard_time": 1709531553,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 293445,
-      "num": 283681,
-      "word": "越来越多年轻人确诊淡淡综合症",
-      "onboard_time": 1709647897,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293409,
@@ -3987,6 +4003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 241223,
+      "num": 241223,
+      "word": "相亲当晚女生发来开销账单",
+      "onboard_time": 1709650597,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240814,
       "num": 240814,
       "word": "陆沉半梦半醒",
@@ -4016,6 +4040,14 @@
       "word": "特斯拉降价无人在意",
       "onboard_time": 1709546615,
       "rank": 30,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 239690,
+      "num": 239690,
+      "word": "蔚来现金储备达573亿元",
+      "onboard_time": 1709650356,
+      "rank": 24,
       "category": "汽车"
     },
     {
@@ -4347,6 +4379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 219231,
+      "num": 219231,
+      "word": "哈兰德认为梅西是历史最佳球员",
+      "onboard_time": 1709649996,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218965,
       "num": 194979,
       "word": "代号鸢 被父亲烧死的公孙珠",
@@ -4569,6 +4609,14 @@
       "onboard_time": 1709468373,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209273,
+      "num": 258937,
+      "word": "朱一龙志愿军2将于国庆档上映",
+      "onboard_time": 1709651137,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 208847,
@@ -4971,6 +5019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195715,
+      "num": 195715,
+      "word": "姐弟恋 精神年龄契合",
+      "onboard_time": 1709650114,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194875,
       "num": 194875,
       "word": "干活一定要让领导知道",
@@ -5209,6 +5265,14 @@
       "onboard_time": 1709648857,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 187192,
+      "num": 292184,
+      "word": "唐探2时间线连上了",
+      "onboard_time": 1709648496,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 187123,
@@ -5625,14 +5689,6 @@
       "onboard_time": 1709439091,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173542,
-      "num": 292184,
-      "word": "唐探2时间线连上了",
-      "onboard_time": 1709648496,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 173452,
@@ -6739,14 +6795,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 140046,
-      "num": 291179,
-      "word": "金价",
-      "onboard_time": 1709648976,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
       "raw_hot": 139957,
       "num": 139957,
       "word": "周星驰赞赵丽娜李佳悦巾帼英雄",
@@ -7339,6 +7387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127091,
+      "num": 127091,
+      "word": "檀健次看网友翻拍吵架名场面",
+      "onboard_time": 1709650775,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126871,
       "num": 126871,
       "word": "快船vs雄鹿",
@@ -7707,6 +7763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115466,
+      "num": 115466,
+      "word": "周鸿祎称将全情投入人工智能加",
+      "onboard_time": 1709649576,
+      "rank": 45,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 115142,
       "num": 115142,
       "word": "大学毕业后想当保姆",
@@ -7745,6 +7809,14 @@
       "onboard_time": 1709428529,
       "rank": 49,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 113787,
+      "num": 113787,
+      "word": "00后都在做什么工作",
+      "onboard_time": 1709651738,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 113316,
@@ -8001,6 +8073,14 @@
       "onboard_time": 1709526874,
       "rank": 11,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 103516,
+      "num": 103516,
+      "word": "Minnie MiuMiu秀场中文问候",
+      "onboard_time": 1709651794,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 103289,
