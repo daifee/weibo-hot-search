@@ -1,0 +1,410 @@
+{
+  "runTime": 1709634016959,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1715643,
+        "num": 1715643,
+        "word": "代表建议毕业生不要只把眼光放在一线城市",
+        "onboard_time": 1709631036,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 893933,
+        "num": 893933,
+        "word": "建议中小学生每天都有一节体育课",
+        "onboard_time": 1709628212,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125079,
+        "num": 727190,
+        "word": "2024政府工作报告关键词",
+        "onboard_time": 1709632475,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 660425,
+        "num": 660425,
+        "word": "霍启刚 建议落实带薪休假制度",
+        "onboard_time": 1709622811,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 444218,
+        "num": 444218,
+        "word": "高合创始人丁磊声明",
+        "onboard_time": 1709629953,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 353515,
+        "num": 353515,
+        "word": "建议对伤人犬只饲养者追刑责",
+        "onboard_time": 1709629473,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 235088,
+        "num": 350572,
+        "word": "仙人揉腹",
+        "onboard_time": 1709619513,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205780,
+        "num": 349931,
+        "word": "东部战区回应美舰过航台湾海峡",
+        "onboard_time": 1709624555,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28817,
+        "num": 346933,
+        "word": "文明实践我行动",
+        "onboard_time": 1709632235,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 104879,
+        "num": 340838,
+        "word": "这可能就是我们长大的意义吧",
+        "onboard_time": 1709632235,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1280203,
+        "num": 338775,
+        "word": "遭多人强暴的西班牙网红收到印度政府赔偿",
+        "onboard_time": 1709619392,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1130621,
+        "num": 335199,
+        "word": "继承者们 抄袭",
+        "onboard_time": 1709625152,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 959493,
+        "num": 331182,
+        "word": "周处除三害 抄袭",
+        "onboard_time": 1709627075,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 819805,
+        "num": 329737,
+        "word": "韩素希 麻烦安静点",
+        "onboard_time": 1709628093,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 753720,
+        "num": 327338,
+        "word": "4.9元生菜被炒到300元",
+        "onboard_time": 1709619871,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739556,
+        "num": 323474,
+        "word": "王一博工作室的审美",
+        "onboard_time": 1709631870,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 592559,
+        "num": 319457,
+        "word": "蓝盈莹被广东回南天吓到了",
+        "onboard_time": 1709621615,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527055,
+        "num": 315222,
+        "word": "偶遇贾玲滑雪",
+        "onboard_time": 1709631571,
+        "rank": 17,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 516700,
+        "num": 314295,
+        "word": "男子强制妻儿撤离1分钟后车被撞毁",
+        "onboard_time": 1709620892,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396554,
+        "num": 309043,
+        "word": "白敬亭桑延路透图",
+        "onboard_time": 1709628332,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 537645,
+        "num": 306930,
+        "word": "狗 别订蛋糕了我吃饱了",
+        "onboard_time": 1709631693,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354066,
+        "num": 302344,
+        "word": "王一博报童帽造型",
+        "onboard_time": 1709633015,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 301673,
+        "num": 301673,
+        "word": "出纳给自己开出170万年终奖",
+        "onboard_time": 1709630732,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300428,
+        "num": 300428,
+        "word": "县城的网红炸鸡月薪3万都吃不起",
+        "onboard_time": 1709630253,
+        "rank": 23,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 286737,
+        "num": 286737,
+        "word": "朱正廷把高奢包卖成10块",
+        "onboard_time": 1709632415,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275586,
+        "num": 275586,
+        "word": "日本的麦当劳可以点微笑",
+        "onboard_time": 1709624731,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 253265,
+        "num": 253265,
+        "word": "女子宫外孕没钱手术被医院收治并捐款",
+        "onboard_time": 1709615493,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249917,
+        "num": 249917,
+        "word": "娃哈哈瓶盖背后写着中华",
+        "onboard_time": 1709626595,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236110,
+        "num": 236110,
+        "word": "情绪性过敏会导致断崖式衰老",
+        "onboard_time": 1709631632,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231089,
+        "num": 231089,
+        "word": "送你房子能把你送成倾家荡产",
+        "onboard_time": 1709629594,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 228625,
+        "num": 228625,
+        "word": "Jennie巴黎饭拍",
+        "onboard_time": 1709632653,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227315,
+        "num": 227315,
+        "word": "贝玲妃被曝将退出中国市场",
+        "onboard_time": 1709620953,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192702,
+        "num": 192702,
+        "word": "王一博Lacoste",
+        "onboard_time": 1709626294,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191569,
+        "num": 191569,
+        "word": "白客真演医生了",
+        "onboard_time": 1709633370,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174011,
+        "num": 174011,
+        "word": "阮经天的脸好紧",
+        "onboard_time": 1709631814,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173980,
+        "num": 173980,
+        "word": "不仅上班吃同事还会拿尾巴当枕头",
+        "onboard_time": 1709632712,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161374,
+        "num": 161374,
+        "word": "代号鸢 被父亲烧死的公孙珠",
+        "onboard_time": 1709629531,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141661,
+        "num": 141661,
+        "word": "旭旭宝宝营救赛丽亚",
+        "onboard_time": 1709631752,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141247,
+        "num": 141247,
+        "word": "建议消除简历第一学历概念",
+        "onboard_time": 1709633614,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137296,
+        "num": 137296,
+        "word": "委员建议内地增加一年制硕士",
+        "onboard_time": 1709619031,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130199,
+        "num": 130199,
+        "word": "EDG对战iG",
+        "onboard_time": 1709633250,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127914,
+        "num": 127914,
+        "word": "Miss来浪姐了",
+        "onboard_time": 1709616514,
+        "rank": 41,
+        "category": "综艺,电竞"
+      },
+      {
+        "raw_hot": 125228,
+        "num": 125228,
+        "word": "开始理解父辈的消费观了",
+        "onboard_time": 1709629234,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123754,
+        "num": 123754,
+        "word": "幸运咖为何火不起来",
+        "onboard_time": 1709623115,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121075,
+        "num": 121075,
+        "word": "建议火车票免费改签2次",
+        "onboard_time": 1709618251,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117237,
+        "num": 117237,
+        "word": "爱国情怀岂能这样消费",
+        "onboard_time": 1709633491,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115443,
+        "num": 115443,
+        "word": "现在的年轻人是扣扣搜搜的花了很多钱",
+        "onboard_time": 1709628212,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115142,
+        "num": 115142,
+        "word": "大学毕业后想当保姆",
+        "onboard_time": 1709632954,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111188,
+        "num": 111188,
+        "word": "粉丝接宋茜偶遇张元英",
+        "onboard_time": 1709627193,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109779,
+        "num": 109779,
+        "word": "白敬亭退出乐本文化",
+        "onboard_time": 1709633971,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参加江苏代表团审议#"
+    }
+  }
+}
