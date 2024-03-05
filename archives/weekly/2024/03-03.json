@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709666027678,
+  "endTime": 1709667248160,
   "band_list": [
     {
       "raw_hot": 3012846,
@@ -5683,6 +5683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 175373,
+      "num": 36742,
+      "word": "最新研究找到熬夜致癌原因",
+      "onboard_time": 1709662697,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 175069,
       "num": 175069,
       "word": "何浩楠 后陡门钢琴家",
@@ -6425,14 +6433,6 @@
       "onboard_time": 1709454330,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150247,
-      "num": 36742,
-      "word": "最新研究找到熬夜致癌原因",
-      "onboard_time": 1709662697,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 150241,
@@ -8953,6 +8953,14 @@
       "onboard_time": 1709591358,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 13040,
+      "num": 20818,
+      "word": "陈桂林原型",
+      "onboard_time": 1709666536,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 12927,

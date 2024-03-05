@@ -1,6 +1,6 @@
 {
   "startTime": 1709655654688,
-  "endTime": 1709666027678,
+  "endTime": 1709667248160,
   "band_list": [
     {
       "raw_hot": 1135872,
@@ -211,6 +211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175373,
+      "num": 36742,
+      "word": "最新研究找到熬夜致癌原因",
+      "onboard_time": 1709662697,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 173590,
       "num": 173590,
       "word": "蔚来现金储备达573亿元",
@@ -257,14 +265,6 @@
       "onboard_time": 1709651137,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 150247,
-      "num": 36742,
-      "word": "最新研究找到熬夜致癌原因",
-      "onboard_time": 1709662697,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 142630,
@@ -489,6 +489,14 @@
       "onboard_time": 1709639792,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13040,
+      "num": 20818,
+      "word": "陈桂林原型",
+      "onboard_time": 1709666536,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 12563,

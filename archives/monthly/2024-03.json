@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709666027678,
+  "endTime": 1709667248160,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -9259,6 +9259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175373,
+      "num": 36742,
+      "word": "最新研究找到熬夜致癌原因",
+      "onboard_time": 1709662697,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 175136,
       "num": 175136,
       "word": "大学恋爱和社会恋爱",
@@ -10577,14 +10585,6 @@
       "onboard_time": 1709268756,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 150247,
-      "num": 36742,
-      "word": "最新研究找到熬夜致癌原因",
-      "onboard_time": 1709662697,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 150241,
@@ -14721,6 +14721,14 @@
       "onboard_time": 1709235555,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13040,
+      "num": 20818,
+      "word": "陈桂林原型",
+      "onboard_time": 1709666536,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 12927,
