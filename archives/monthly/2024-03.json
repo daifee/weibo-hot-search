@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709605345517,
+  "endTime": 1709606054145,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -579,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1187026,
+      "num": 1187026,
+      "word": "2024年政府工作十大任务",
+      "onboard_time": 1709604149,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1186359,
       "num": 367173,
       "word": "不要错把艾滋病当皮肤病",
@@ -755,6 +763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1018002,
+      "num": 1018002,
+      "word": "极简版政府工作报告",
+      "onboard_time": 1709604808,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1016351,
       "num": 1016351,
       "word": "原神 混池",
@@ -817,14 +833,6 @@
       "onboard_time": 1709297971,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 993877,
-      "num": 993877,
-      "word": "2024年政府工作十大任务",
-      "onboard_time": 1709604149,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 990522,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1709347471,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 802912,
+      "num": 386527,
+      "word": "贵人鸟创始人曾是泉州首富",
+      "onboard_time": 1709603549,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 802681,
@@ -1467,14 +1483,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 697290,
-      "num": 697290,
-      "word": "极简版政府工作报告",
-      "onboard_time": 1709604808,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 694476,
       "num": 511643,
       "word": "郎朗晒与赫敏扮演者合照",
@@ -1657,6 +1665,14 @@
       "onboard_time": 1709437590,
       "rank": 6,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 664080,
+      "num": 388592,
+      "word": "杨紫李现吻戏路透",
+      "onboard_time": 1709604329,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 662710,
@@ -2097,14 +2113,6 @@
       "onboard_time": 1709428169,
       "rank": 26,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 586479,
-      "num": 388592,
-      "word": "杨紫李现吻戏路透",
-      "onboard_time": 1709604329,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 583501,
@@ -2595,14 +2603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 509156,
-      "num": 386527,
-      "word": "贵人鸟创始人曾是泉州首富",
-      "onboard_time": 1709603549,
-      "rank": 38,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 508948,
       "num": 508948,
       "word": "年轻人不愿进工厂该如何破解",
@@ -2817,6 +2817,14 @@
       "onboard_time": 1709279913,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471119,
+      "num": 471119,
+      "word": "浪姐上班像走秀",
+      "onboard_time": 1709604086,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 470341,
@@ -3515,6 +3523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 388930,
+      "num": 388930,
+      "word": "全面取消制造业领域外资准入限制措施",
+      "onboard_time": 1709603789,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 388878,
       "num": 357389,
       "word": "郝爽CP",
@@ -3657,14 +3673,6 @@
       "onboard_time": 1709387974,
       "rank": 35,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 375303,
-      "num": 375303,
-      "word": "全面取消制造业领域外资准入限制措施",
-      "onboard_time": 1709603789,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 375023,
@@ -3905,14 +3913,6 @@
       "onboard_time": 1709513671,
       "rank": 21,
       "category": "作品衍生,综艺"
-    },
-    {
-      "raw_hot": 352011,
-      "num": 352011,
-      "word": "浪姐上班像走秀",
-      "onboard_time": 1709604086,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 352000,
@@ -4939,6 +4939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274091,
+      "num": 251961,
+      "word": "下班后邻居叫我煮饭不要这么香",
+      "onboard_time": 1709603549,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 273911,
       "num": 273911,
       "word": "猎冰豆瓣开分4.7",
@@ -4961,14 +4969,6 @@
       "onboard_time": 1709274452,
       "rank": 16,
       "category": "作品衍生,作品衍生"
-    },
-    {
-      "raw_hot": 271933,
-      "num": 251961,
-      "word": "下班后邻居叫我煮饭不要这么香",
-      "onboard_time": 1709603549,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 270629,
@@ -5233,6 +5233,14 @@
       "onboard_time": 1709427450,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 258716,
+      "num": 258716,
+      "word": "2024居民医保人均财政补助标准提高30元",
+      "onboard_time": 1709604631,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 257414,
@@ -5995,6 +6003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 215036,
+      "num": 215036,
+      "word": "建议将抑郁症纳入医保目录",
+      "onboard_time": 1709603967,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 214962,
       "num": 214962,
       "word": "国产剧中有自己的中年大女主",
@@ -6323,14 +6339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206458,
-      "num": 206458,
-      "word": "建议将抑郁症纳入医保目录",
-      "onboard_time": 1709603967,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 206425,
       "num": 206425,
       "word": "G社镜头下的孙千",
@@ -6409,14 +6417,6 @@
       "onboard_time": 1709557232,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 204834,
-      "num": 204834,
-      "word": "2024居民医保人均财政补助标准提高30元",
-      "onboard_time": 1709604631,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 204815,
@@ -6545,6 +6545,14 @@
       "onboard_time": 1709378969,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 202706,
+      "num": 202706,
+      "word": "预计今年高校毕业生超1170万人",
+      "onboard_time": 1709605290,
+      "rank": 49,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 202630,
@@ -7795,6 +7803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175069,
+      "num": 175069,
+      "word": "何浩楠 后陡门钢琴家",
+      "onboard_time": 1709604270,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174892,
       "num": 174892,
       "word": "出现这些症状可能是脑瘤前兆",
@@ -8275,6 +8291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164066,
+      "num": 164066,
+      "word": "山东事业编",
+      "onboard_time": 1709605530,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 164053,
       "num": 164053,
       "word": "被我弄丢的你两个犟种的爱情",
@@ -8385,14 +8409,6 @@
       "onboard_time": 1709259991,
       "rank": 49,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 161320,
-      "num": 161320,
-      "word": "何浩楠 后陡门钢琴家",
-      "onboard_time": 1709604270,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 161227,
@@ -8675,6 +8691,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 155693,
+      "num": 155693,
+      "word": "爱叹气是身体在求救",
+      "onboard_time": 1709605171,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 155592,
       "num": 155592,
       "word": "叶一茜晒全家福",
@@ -8833,6 +8857,14 @@
       "onboard_time": 1709456429,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 152615,
+      "num": 152615,
+      "word": "金价涨了",
+      "onboard_time": 1709605950,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 152540,
@@ -9699,6 +9731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136219,
+      "num": 136219,
+      "word": "烈焰之武庚纪剧名变更",
+      "onboard_time": 1709605950,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136177,
       "num": 136177,
       "word": "西村力 韩国三一节",
@@ -9833,14 +9873,6 @@
       "onboard_time": 1709420899,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134493,
-      "num": 134493,
-      "word": "爱叹气是身体在求救",
-      "onboard_time": 1709605171,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 134393,
@@ -10177,14 +10209,6 @@
       "onboard_time": 1709451213,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 128226,
-      "num": 128226,
-      "word": "预计今年高校毕业生超1170万人",
-      "onboard_time": 1709605290,
-      "rank": 49,
-      "category": "国内时政,教育"
     },
     {
       "raw_hot": 128160,

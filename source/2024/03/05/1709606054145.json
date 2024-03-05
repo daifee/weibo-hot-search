@@ -1,0 +1,410 @@
+{
+  "runTime": 1709606054145,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1537920,
+        "num": 1537920,
+        "word": "2024政府工作报告",
+        "onboard_time": 1709600969,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1187026,
+        "num": 1187026,
+        "word": "2024年政府工作十大任务",
+        "onboard_time": 1709604149,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37724,
+        "num": 1021887,
+        "word": "100秒说两会",
+        "onboard_time": 1709557173,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1018002,
+        "num": 1018002,
+        "word": "极简版政府工作报告",
+        "onboard_time": 1709604808,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 821336,
+        "num": 821336,
+        "word": "建议暂停上调医保个人缴费标准",
+        "onboard_time": 1709599653,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 537020,
+        "num": 537020,
+        "word": "建议取消高中学业水平考试科目",
+        "onboard_time": 1709572041,
+        "rank": 5,
+        "category": "教育,国内时政"
+      },
+      {
+        "raw_hot": 501278,
+        "num": 501278,
+        "word": "林高远世界排名升至第4",
+        "onboard_time": 1709602830,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 471119,
+        "num": 471119,
+        "word": "浪姐上班像走秀",
+        "onboard_time": 1709604086,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 447467,
+        "num": 447467,
+        "word": "建议增加年轻人年假天数",
+        "onboard_time": 1709562816,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388930,
+        "num": 388930,
+        "word": "全面取消制造业领域外资准入限制措施",
+        "onboard_time": 1709603789,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 968438,
+        "num": 380183,
+        "word": "月薪上万也不舍得买鄂尔多斯",
+        "onboard_time": 1709594065,
+        "rank": 10,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 835275,
+        "num": 374613,
+        "word": "这竟然是雪姨",
+        "onboard_time": 1709595446,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 802912,
+        "num": 369256,
+        "word": "贵人鸟创始人曾是泉州首富",
+        "onboard_time": 1709603549,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 664080,
+        "num": 360863,
+        "word": "杨紫李现吻戏路透",
+        "onboard_time": 1709604329,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407164,
+        "num": 347462,
+        "word": "英雄机长刘传健长胖了",
+        "onboard_time": 1709602169,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344382,
+        "num": 344382,
+        "word": "十四届全国人大二次会议开幕会",
+        "onboard_time": 1709596710,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 338862,
+        "num": 338862,
+        "word": "2024年GDP增长预期目标为5%左右",
+        "onboard_time": 1709602410,
+        "rank": 16,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 264501,
+        "num": 264501,
+        "word": "他才4岁已经懂得了分别的滋味",
+        "onboard_time": 1709567372,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258716,
+        "num": 258716,
+        "word": "2024居民医保人均财政补助标准提高30元",
+        "onboard_time": 1709604631,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230384,
+        "num": 230384,
+        "word": "拟连续几年发行超长期特别国债",
+        "onboard_time": 1709603488,
+        "rank": 19,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 387646,
+        "num": 230359,
+        "word": "女子刮彩票中一辆车没发现扭头就走",
+        "onboard_time": 1709563835,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320148,
+        "num": 226009,
+        "word": "00后大胆自拍拒绝身材羞耻",
+        "onboard_time": 1709603310,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274091,
+        "num": 219120,
+        "word": "下班后邻居叫我煮饭不要这么香",
+        "onboard_time": 1709603549,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244819,
+        "num": 215800,
+        "word": "睡前长期玩手机可能让你变丑",
+        "onboard_time": 1709560651,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215036,
+        "num": 215036,
+        "word": "建议将抑郁症纳入医保目录",
+        "onboard_time": 1709603967,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202706,
+        "num": 202706,
+        "word": "预计今年高校毕业生超1170万人",
+        "onboard_time": 1709605290,
+        "rank": 25,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 190077,
+        "num": 190077,
+        "word": "2023年经济社会发展主要目标任务圆满完成",
+        "onboard_time": 1709601749,
+        "rank": 26,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 187617,
+        "num": 187617,
+        "word": "惊蛰",
+        "onboard_time": 1709593404,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180689,
+        "num": 180689,
+        "word": "浪五开场 主播癫狂带货感",
+        "onboard_time": 1709566950,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175195,
+        "num": 175195,
+        "word": "蕾丝裙帘成年轻人新潮流",
+        "onboard_time": 1709564673,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 175069,
+        "num": 175069,
+        "word": "何浩楠 后陡门钢琴家",
+        "onboard_time": 1709604270,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171495,
+        "num": 171495,
+        "word": "新能源汽车产销量占全球比重超60%",
+        "onboard_time": 1709601749,
+        "rank": 31,
+        "category": "国内时政,汽车"
+      },
+      {
+        "raw_hot": 170117,
+        "num": 170117,
+        "word": "新一轮机构改革中央层面基本完成",
+        "onboard_time": 1709601811,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164066,
+        "num": 164066,
+        "word": "山东事业编",
+        "onboard_time": 1709605530,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162997,
+        "num": 162997,
+        "word": "2023粮食产量1.39万亿斤",
+        "onboard_time": 1709602887,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159431,
+        "num": 159431,
+        "word": "广东现在是一个巨大的水帘洞",
+        "onboard_time": 1709594427,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158486,
+        "num": 158486,
+        "word": "2023中国发展成绩单",
+        "onboard_time": 1709605049,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158456,
+        "num": 158456,
+        "word": "3月5日10时23分迎来惊蛰",
+        "onboard_time": 1709601569,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155693,
+        "num": 155693,
+        "word": "爱叹气是身体在求救",
+        "onboard_time": 1709605171,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153887,
+        "num": 153887,
+        "word": "惊蛰为啥吃梨",
+        "onboard_time": 1709593824,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152615,
+        "num": 152615,
+        "word": "金价涨了",
+        "onboard_time": 1709605950,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152154,
+        "num": 152154,
+        "word": "两会",
+        "onboard_time": 1709596111,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150937,
+        "num": 150937,
+        "word": "大学生的早八都这么迷糊吗",
+        "onboard_time": 1709604448,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333238,
+        "num": 150337,
+        "word": "父亲心疼女儿被撞伤将床头柱锯掉",
+        "onboard_time": 1709569885,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149093,
+        "num": 149093,
+        "word": "三月将要播的电视剧",
+        "onboard_time": 1709563892,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148516,
+        "num": 148516,
+        "word": "2023年经济社会发展成绩单",
+        "onboard_time": 1709602527,
+        "rank": 45,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 146693,
+        "num": 146693,
+        "word": "苹果市值一夜蒸发超5000亿元",
+        "onboard_time": 1709596230,
+        "rank": 46,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 140924,
+        "num": 140924,
+        "word": "杭州姑娘翻出60克金饰卖了3万元",
+        "onboard_time": 1709567253,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136219,
+        "num": 136219,
+        "word": "烈焰之武庚纪剧名变更",
+        "onboard_time": 1709605950,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124605,
+        "num": 124605,
+        "word": "委员谈小学生厕所社交",
+        "onboard_time": 1709594543,
+        "rank": 49,
+        "category": "国内时政,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平两会时间#"
+    }
+  }
+}
