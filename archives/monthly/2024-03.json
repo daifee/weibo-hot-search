@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709622939785,
+  "endTime": 1709624037279,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -379,6 +379,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 1508413,
+      "num": 1508413,
+      "word": "霍启刚 建议落实带薪休假制度",
+      "onboard_time": 1709622811,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1487774,
       "num": 1487774,
       "word": "前女团成员解散后在工厂做女工",
@@ -665,6 +673,14 @@
       "onboard_time": 1709485523,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1178412,
+      "num": 263808,
+      "word": "蓝盈莹被广东回南天吓到了",
+      "onboard_time": 1709621615,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1158014,
@@ -977,6 +993,14 @@
       "onboard_time": 1709352329,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 926220,
+      "num": 265713,
+      "word": "男子强制妻儿撤离1分钟后车被撞毁",
+      "onboard_time": 1709620892,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 917636,
@@ -1419,14 +1443,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 734568,
-      "num": 265713,
-      "word": "男子强制妻儿撤离1分钟后车被撞毁",
-      "onboard_time": 1709620892,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 733036,
       "num": 616557,
       "word": "卵巢癌早就有信号可能被你忽略了",
@@ -1585,14 +1601,6 @@
       "onboard_time": 1709462976,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 705065,
-      "num": 263808,
-      "word": "蓝盈莹被广东回南天吓到了",
-      "onboard_time": 1709621615,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 699432,
@@ -2803,6 +2811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 501201,
+      "num": 501201,
+      "word": "委员建议内地增加一年制硕士",
+      "onboard_time": 1709619031,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 499898,
       "num": 499898,
       "word": "伊能静56岁生图",
@@ -2897,14 +2913,6 @@
       "onboard_time": 1709549969,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 490960,
-      "num": 490960,
-      "word": "委员建议内地增加一年制硕士",
-      "onboard_time": 1709619031,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 490019,
@@ -3883,6 +3891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 380926,
+      "num": 380926,
+      "word": "章若楠张淼怡难哄同框",
+      "onboard_time": 1709622333,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380728,
       "num": 270111,
       "word": "研究生无宿舍可住花4200元租房",
@@ -4145,6 +4161,14 @@
       "onboard_time": 1709556149,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354774,
+      "num": 237887,
+      "word": "志愿献血全年报废血量约114吨",
+      "onboard_time": 1709621252,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354381,
@@ -4619,14 +4643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 320171,
-      "num": 320171,
-      "word": "霍启刚 建议落实带薪休假制度",
-      "onboard_time": 1709622811,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 320038,
       "num": 320038,
       "word": "我给两会留个言",
@@ -4739,14 +4755,6 @@
       "category": "国内时政,教育"
     },
     {
-      "raw_hot": 315221,
-      "num": 224378,
-      "word": "志愿献血全年报废血量约114吨",
-      "onboard_time": 1709621252,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314995,
       "num": 314995,
       "word": "米店日",
@@ -4817,6 +4825,14 @@
       "onboard_time": 1709521948,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308428,
+      "num": 243081,
+      "word": "仙人揉腹",
+      "onboard_time": 1709619513,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 306971,
@@ -5931,14 +5947,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 243081,
-      "num": 243081,
-      "word": "仙人揉腹",
-      "onboard_time": 1709619513,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 242555,
       "num": 242555,
       "word": "守护甜心 几斗太甜了",
@@ -6016,6 +6024,14 @@
       "word": "娃哈哈官方店铺销量2天涨超500%",
       "onboard_time": 1709287770,
       "rank": 43,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 239063,
+      "num": 231986,
+      "word": "幸运咖为何火不起来",
+      "onboard_time": 1709623115,
+      "rank": 22,
       "category": "美食"
     },
     {
@@ -6123,6 +6139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 233888,
+      "num": 233888,
+      "word": "张予曦好像手办娃娃",
+      "onboard_time": 1709622151,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232908,
       "num": 232908,
       "word": "张雨绮理想的婚姻状态是分房睡",
@@ -6161,6 +6185,14 @@
       "onboard_time": 1709558252,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 230391,
+      "num": 230391,
+      "word": "刘亦菲巴黎时装周",
+      "onboard_time": 1709622755,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 229982,
@@ -6451,14 +6483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216137,
-      "num": 216137,
-      "word": "章若楠张淼怡难哄同框",
-      "onboard_time": 1709622333,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 215610,
       "num": 215610,
       "word": "阮经天好帅",
@@ -6585,6 +6609,14 @@
       "onboard_time": 1709473174,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213530,
+      "num": 213530,
+      "word": "SHINee",
+      "onboard_time": 1709622572,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 213238,
@@ -7467,6 +7499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194742,
+      "num": 194742,
+      "word": "当我六十多岁的妈妈开始上班",
+      "onboard_time": 1709623235,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 194241,
       "num": 194241,
       "word": "景甜晒短发照",
@@ -7763,6 +7803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187760,
+      "num": 187760,
+      "word": "假装自信真的很有用",
+      "onboard_time": 1709622995,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187451,
       "num": 187451,
       "word": "辛芷蕾穿豹纹",
@@ -7953,14 +8001,6 @@
       "onboard_time": 1709368893,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 182600,
-      "num": 182600,
-      "word": "SHINee",
-      "onboard_time": 1709622572,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 182444,
@@ -8409,6 +8449,14 @@
       "onboard_time": 1709551291,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173924,
+      "num": 173924,
+      "word": "今年前6周iPhone在华销量下降24%",
+      "onboard_time": 1709623053,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 173854,
@@ -9035,14 +9083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159656,
-      "num": 159656,
-      "word": "张予曦好像手办娃娃",
-      "onboard_time": 1709622151,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159517,
       "num": 159517,
       "word": "约等于把宿傩封印在阳间",
@@ -9113,6 +9153,14 @@
       "onboard_time": 1709461291,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158509,
+      "num": 158509,
+      "word": "杨幂法国街头vlog",
+      "onboard_time": 1709623715,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158436,
@@ -10059,6 +10107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140938,
+      "num": 140938,
+      "word": "委员说成为网红不是旅游城市发展的全部",
+      "onboard_time": 1709623595,
+      "rank": 42,
+      "category": "国内时政,旅游"
+    },
+    {
       "raw_hot": 140844,
       "num": 140844,
       "word": "接下来的广东人会变得爽口弹牙",
@@ -10987,8 +11043,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125943,
+      "num": 125943,
+      "word": "3家汽车央企新能源汽车业务将单独考核",
+      "onboard_time": 1709623115,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 125940,
-      "num": 125940,
+      "num": 533197,
       "word": "政府工作报告里的民生红包",
       "onboard_time": 1709607810,
       "rank": 49,
@@ -11081,6 +11145,14 @@
       "onboard_time": 1709543613,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 122875,
+      "num": 122875,
+      "word": "为什么在车上睡着总能在到站前醒来",
+      "onboard_time": 1709623530,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 122569,
@@ -11257,14 +11329,6 @@
       "onboard_time": 1709285911,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 120170,
-      "num": 120170,
-      "word": "刘亦菲巴黎时装周",
-      "onboard_time": 1709622755,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 120037,
@@ -11736,6 +11800,14 @@
       "word": "每种颜色有每种颜色的寓意",
       "onboard_time": 1709358572,
       "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 108892,
+      "num": 108892,
+      "word": "真正长大了好像就是这样",
+      "onboard_time": 1709623953,
+      "rank": 49,
       "category": "情感"
     },
     {
