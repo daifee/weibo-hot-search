@@ -1,6 +1,6 @@
 {
   "startTime": 1709569387343,
-  "endTime": 1709644721012,
+  "endTime": 1709645665592,
   "band_list": [
     {
       "raw_hot": 3012846,
@@ -139,6 +139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1224848,
+      "num": 284045,
+      "word": "朱丹听到sorry变脸",
+      "onboard_time": 1709643155,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1221036,
       "num": 399667,
       "word": "这竟然是雪姨",
@@ -195,7 +203,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1062084,
+      "raw_hot": 1099736,
       "num": 315478,
       "word": "iPad",
       "onboard_time": 1709642132,
@@ -307,6 +315,14 @@
       "category": "教育,国内时政"
     },
     {
+      "raw_hot": 819868,
+      "num": 283306,
+      "word": "辛芷蕾 不许再折腾了哦",
+      "onboard_time": 1709642253,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 809025,
       "num": 335849,
       "word": "MiuMiu大秀",
@@ -331,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 794826,
-      "num": 268178,
-      "word": "辛芷蕾 不许再折腾了哦",
-      "onboard_time": 1709642253,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 739556,
       "num": 344331,
       "word": "王一博工作室的审美",
@@ -361,14 +369,6 @@
       "onboard_time": 1709635896,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 723924,
-      "num": 266397,
-      "word": "朱丹听到sorry变脸",
-      "onboard_time": 1709643155,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 686532,
@@ -931,6 +931,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 316523,
+      "num": 221799,
+      "word": "已经生娃可能还会检测出已怀孕",
+      "onboard_time": 1709645075,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 315291,
       "num": 315291,
       "word": "委员谈小学生厕所社交",
@@ -945,6 +953,14 @@
       "onboard_time": 1709594608,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308499,
+      "num": 281373,
+      "word": "舒畅自己化的簪花妆",
+      "onboard_time": 1709644771,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 306501,
@@ -1001,6 +1017,14 @@
       "onboard_time": 1709641531,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 294445,
+      "num": 220362,
+      "word": "阿姨被辞退后发信息轰炸我",
+      "onboard_time": 1709644952,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 294043,
@@ -1067,6 +1091,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 285416,
+      "num": 285416,
+      "word": "医院检查互认在政府工作报告中明确了",
+      "onboard_time": 1709640092,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 285233,
       "num": 285233,
       "word": "王曼昱世界排名重返前三",
@@ -1081,6 +1113,14 @@
       "onboard_time": 1709553991,
       "rank": 6,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 278988,
+      "num": 278988,
+      "word": "许凯 别刷那个汉堡了",
+      "onboard_time": 1709645193,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 277013,
@@ -1147,12 +1187,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 264677,
+      "num": 263525,
+      "word": "张元英miumiu巴黎时装周",
+      "onboard_time": 1709645010,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 264196,
       "num": 201694,
       "word": "9万粉丝英语博主因四级没过停更",
       "onboard_time": 1709549133,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263613,
+      "num": 263613,
+      "word": "豪士面包 种地吧",
+      "onboard_time": 1709644171,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 263057,
+      "num": 263057,
+      "word": "男生第一次约会的至暗时刻",
+      "onboard_time": 1709643274,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 259282,
@@ -1291,14 +1355,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 237799,
-      "num": 273094,
-      "word": "医院检查互认在政府工作报告中明确了",
-      "onboard_time": 1709640092,
-      "rank": 25,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 237158,
       "num": 237158,
       "word": "李雪琴的记忆力",
@@ -1321,14 +1377,6 @@
       "onboard_time": 1709631632,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 235124,
-      "num": 235124,
-      "word": "男生第一次约会的至暗时刻",
-      "onboard_time": 1709643274,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 234292,
@@ -1555,20 +1603,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201325,
+      "num": 201325,
+      "word": "年轻人健身的尽头是国企风",
+      "onboard_time": 1709644111,
+      "rank": 41,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 200954,
       "num": 200954,
       "word": "特斯拉股价大跌7.16%",
       "onboard_time": 1709601032,
       "rank": 46,
       "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 197607,
-      "num": 197607,
-      "word": "豪士面包 种地吧",
-      "onboard_time": 1709644171,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 196485,
@@ -1585,6 +1633,14 @@
       "onboard_time": 1709644111,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194875,
+      "num": 194875,
+      "word": "干活一定要让领导知道",
+      "onboard_time": 1709645010,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 194742,
@@ -1676,7 +1732,7 @@
     },
     {
       "raw_hot": 185562,
-      "num": 271964,
+      "num": 284341,
       "word": "RNG对战TT",
       "onboard_time": 1709643932,
       "rank": 8,
@@ -1923,14 +1979,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 159864,
-      "num": 159864,
-      "word": "年轻人健身的尽头是国企风",
-      "onboard_time": 1709644111,
-      "rank": 41,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 159789,
       "num": 159789,
       "word": "睡前玩8分钟手机身体兴奋1小时",
@@ -2057,6 +2105,14 @@
       "onboard_time": 1709602711,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150351,
+      "num": 150351,
+      "word": "身体出现3个异常警惕癌症信号",
+      "onboard_time": 1709643450,
+      "rank": 49,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 149662,
@@ -2411,6 +2467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123909,
+      "num": 123909,
+      "word": "我在银行买金镯子又大又便宜",
+      "onboard_time": 1709645555,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123858,
       "num": 123858,
       "word": "文字届的姜",
@@ -2532,7 +2596,7 @@
     },
     {
       "raw_hot": 110842,
-      "num": 110842,
+      "num": 120070,
       "word": "有一种浪漫叫花开映星河",
       "onboard_time": 1709643572,
       "rank": 47,
@@ -2625,14 +2689,6 @@
       "onboard_time": 1709559756,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97413,
-      "num": 97413,
-      "word": "身体出现3个异常警惕癌症信号",
-      "onboard_time": 1709643450,
-      "rank": 49,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 96558,
@@ -2729,6 +2785,14 @@
       "onboard_time": 1709561616,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 74655,
+      "num": 388075,
+      "word": "细节中读懂两会的精微要义",
+      "onboard_time": 1709644592,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 69881,
@@ -2867,28 +2931,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 33096,
+      "num": 282239,
+      "word": "蔡依林巴黎日不落大片",
+      "onboard_time": 1709644293,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 32426,
       "num": 564091,
       "word": "30句话读懂政府工作报告",
       "onboard_time": 1709622393,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 31023,
-      "num": 374968,
-      "word": "细节中读懂两会的精微要义",
-      "onboard_time": 1709644592,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 30748,
-      "num": 188463,
-      "word": "蔡依林巴黎日不落大片",
-      "onboard_time": 1709644293,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 27103,
