@@ -1,6 +1,6 @@
 {
   "startTime": 1709569387343,
-  "endTime": 1709606054145,
+  "endTime": 1709608768683,
   "band_list": [
     {
       "raw_hot": 2838525,
@@ -17,6 +17,22 @@
       "onboard_time": 1709596710,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1808197,
+      "num": 1808197,
+      "word": "极简版政府工作报告",
+      "onboard_time": 1709604808,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1317726,
+      "num": 977025,
+      "word": "金价涨了",
+      "onboard_time": 1709605950,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 1231779,
@@ -59,12 +75,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1018002,
-      "num": 1018002,
-      "word": "极简版政府工作报告",
-      "onboard_time": 1709604808,
-      "rank": 4,
+      "raw_hot": 1127748,
+      "num": 1127748,
+      "word": "第一场部长通道",
+      "onboard_time": 1709606971,
+      "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 917636,
+      "num": 386527,
+      "word": "贵人鸟创始人曾是泉州首富",
+      "onboard_time": 1709603549,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 914569,
+      "num": 914569,
+      "word": "预计今年高校毕业生超1170万人",
+      "onboard_time": 1709605290,
+      "rank": 49,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 882849,
@@ -83,12 +115,12 @@
       "category": "教育,国内时政"
     },
     {
-      "raw_hot": 802912,
-      "num": 386527,
-      "word": "贵人鸟创始人曾是泉州首富",
-      "onboard_time": 1709603549,
-      "rank": 38,
-      "category": "财经,社会新闻"
+      "raw_hot": 758029,
+      "num": 286419,
+      "word": "长期喝白开水和长期喝茶哪个更健康",
+      "onboard_time": 1709606911,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 686532,
@@ -147,6 +179,22 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 562627,
+      "num": 471119,
+      "word": "浪姐上班像走秀",
+      "onboard_time": 1709604086,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 549328,
+      "num": 549328,
+      "word": "建议将抑郁症纳入医保目录",
+      "onboard_time": 1709603967,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 541501,
       "num": 541501,
       "word": "广东回南天",
@@ -185,14 +233,6 @@
       "onboard_time": 1709602410,
       "rank": 5,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 471119,
-      "num": 471119,
-      "word": "浪姐上班像走秀",
-      "onboard_time": 1709604086,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 469543,
@@ -235,12 +275,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 384062,
+      "num": 384062,
+      "word": "周处除三害 子弹卡壳",
+      "onboard_time": 1709607390,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 375023,
       "num": 375023,
       "word": "广东现在是一个巨大的水帘洞",
       "onboard_time": 1709594427,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359913,
+      "num": 280426,
+      "word": "3大睡眠习惯易患癌",
+      "onboard_time": 1709607449,
+      "rank": 21,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 354789,
@@ -307,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311132,
+      "num": 311132,
+      "word": "大学毕业到30岁是最艰难的几年",
+      "onboard_time": 1709607992,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 306501,
       "num": 166763,
       "word": "炎亚纶成江宏杰许孟哲老板",
@@ -329,6 +393,14 @@
       "onboard_time": 1709554591,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291040,
+      "num": 261259,
+      "word": "长风破浪",
+      "onboard_time": 1709606849,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 288904,
@@ -411,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252454,
+      "num": 232018,
+      "word": "王一博民国妆造",
+      "onboard_time": 1709608290,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250856,
       "num": 201744,
       "word": "爱情公寓演员今昔对比",
@@ -451,20 +531,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217483,
+      "num": 217483,
+      "word": "爱叹气是身体在求救",
+      "onboard_time": 1709605171,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 215402,
       "num": 215402,
       "word": "新能源汽车产销量占全球比重超60%",
       "onboard_time": 1709601749,
       "rank": 28,
       "category": "汽车,社会新闻"
-    },
-    {
-      "raw_hot": 215036,
-      "num": 215036,
-      "word": "建议将抑郁症纳入医保目录",
-      "onboard_time": 1709603967,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 212093,
@@ -497,14 +577,6 @@
       "onboard_time": 1709601569,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202706,
-      "num": 202706,
-      "word": "预计今年高校毕业生超1170万人",
-      "onboard_time": 1709605290,
-      "rank": 49,
-      "category": "国内时政,教育"
     },
     {
       "raw_hot": 200954,
@@ -547,6 +619,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 184483,
+      "num": 184483,
+      "word": "青海杂多县5.3级地震",
+      "onboard_time": 1709607511,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181563,
+      "num": 181563,
+      "word": "比特币逼近历史最高纪录",
+      "onboard_time": 1709608228,
+      "rank": 32,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 180503,
       "num": 180503,
       "word": "浙江招聘守鸟人300元1天",
@@ -561,6 +649,14 @@
       "onboard_time": 1709600011,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177363,
+      "num": 177363,
+      "word": "明侦值得反复刷的案件",
+      "onboard_time": 1709608411,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 175684,
@@ -585,6 +681,14 @@
       "onboard_time": 1709604270,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173452,
+      "num": 173452,
+      "word": "山东事业编",
+      "onboard_time": 1709605530,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 171412,
@@ -627,14 +731,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164066,
-      "num": 164066,
-      "word": "山东事业编",
-      "onboard_time": 1709605530,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 163023,
       "num": 163023,
       "word": "校方回应教室内布满摄像头",
@@ -675,28 +771,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 155693,
-      "num": 155693,
-      "word": "爱叹气是身体在求救",
-      "onboard_time": 1709605171,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 155585,
       "num": 160360,
       "word": "宋亚轩什么弹幕都敢念",
       "onboard_time": 1709560954,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152615,
-      "num": 152615,
-      "word": "金价涨了",
-      "onboard_time": 1709605950,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 151228,
@@ -787,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131294,
+      "num": 131294,
+      "word": "RIIZE官宣巡演",
+      "onboard_time": 1709606131,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 129411,
       "num": 129411,
       "word": "全智贤仪态",
@@ -801,6 +889,30 @@
       "onboard_time": 1709594304,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126971,
+      "num": 126971,
+      "word": "要久久爱编剧回应剧中谐音梗",
+      "onboard_time": 1709608650,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125943,
+      "num": 125943,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1709606549,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 125940,
+      "num": 125940,
+      "word": "政府工作报告里的民生红包",
+      "onboard_time": 1709607810,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 123979,
