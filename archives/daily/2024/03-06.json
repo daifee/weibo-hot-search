@@ -1,6 +1,6 @@
 {
   "startTime": 1709655654688,
-  "endTime": 1709655654688,
+  "endTime": 1709656539672,
   "band_list": [
     {
       "raw_hot": 1135872,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191997,
+      "num": 191997,
+      "word": "浪姐颜值",
+      "onboard_time": 1709655088,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183487,
       "num": 183487,
       "word": "男朋友谈过一段很长的恋爱",
@@ -251,28 +259,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139514,
-      "num": 222953,
-      "word": "建议中小学生每天都有一节体育课",
-      "onboard_time": 1709628212,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 131752,
-      "num": 131752,
+      "raw_hot": 141144,
+      "num": 141144,
       "word": "姐弟恋 精神年龄契合",
       "onboard_time": 1709650114,
       "rank": 34,
       "category": "综艺"
     },
     {
-      "raw_hot": 129989,
-      "num": 129989,
-      "word": "浪姐颜值",
-      "onboard_time": 1709655088,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 139514,
+      "num": 222953,
+      "word": "建议中小学生每天都有一节体育课",
+      "onboard_time": 1709628212,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 125203,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 76262,
-      "num": 76262,
+      "num": 76350,
       "word": "刘家祎的青春感",
       "onboard_time": 1709653833,
       "rank": 45,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 72053,
-      "num": 72053,
+      "num": 76321,
       "word": "檀健次看网友翻拍吵架名场面",
       "onboard_time": 1709650775,
       "rank": 46,
@@ -372,11 +372,19 @@
     },
     {
       "raw_hot": 66990,
-      "num": 72052,
+      "num": 76299,
       "word": "MiuMiu大秀",
       "onboard_time": 1709640931,
       "rank": 47,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 62715,
+      "num": 76335,
+      "word": "烟火人家孟菀青角色魅力",
+      "onboard_time": 1709655748,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 61937,
@@ -401,11 +409,22 @@
       "onboard_time": 1709644592,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38224,
+      "num": 76287,
+      "word": "皇家社会vs巴黎圣日耳曼",
+      "onboard_time": 1709656227,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
     {
       "word": "#总书记的两会时间#"
+    },
+    {
+      "word": "#习近平参加江苏代表团审议#"
     }
   ]
 }
