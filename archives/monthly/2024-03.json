@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709670869186,
+  "endTime": 1709673357176,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -13819,6 +13819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73311,
+      "num": 28042,
+      "word": "这哪是回南天这是回南天门了吧",
+      "onboard_time": 1709668874,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71307,
       "num": 124459,
       "word": "成都蓉城vs青岛海牛",
@@ -14499,14 +14507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28042,
-      "num": 28042,
-      "word": "这哪是回南天这是回南天门了吧",
-      "onboard_time": 1709668874,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27744,
       "num": 45759,
       "word": "学雷锋文艺志愿服务",
@@ -14604,7 +14604,7 @@
     },
     {
       "raw_hot": 22111,
-      "num": 20818,
+      "num": 20927,
       "word": "陈桂林原型",
       "onboard_time": 1709666536,
       "rank": 42,
@@ -14625,6 +14625,14 @@
       "onboard_time": 1709487800,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21463,
+      "num": 21463,
+      "word": "拜仁慕尼黑vs拉齐奥",
+      "onboard_time": 1709668935,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 21321,
@@ -14716,7 +14724,7 @@
     },
     {
       "raw_hot": 14679,
-      "num": 20669,
+      "num": 20851,
       "word": "汪苏泷 感情中切忌自我感动",
       "onboard_time": 1709668395,
       "rank": 36,
@@ -14755,16 +14763,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 12898,
-      "num": 20574,
-      "word": "拜仁慕尼黑vs拉齐奥",
-      "onboard_time": 1709668935,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 12713,
-      "num": 20617,
+      "num": 20790,
       "word": "Tarzan去哪儿",
       "onboard_time": 1709667257,
       "rank": 42,
@@ -14777,6 +14777,14 @@
       "onboard_time": 1709664199,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12304,
+      "num": 20903,
+      "word": "不平凡的她",
+      "onboard_time": 1709661199,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 12247,
@@ -14795,6 +14803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 11840,
+      "num": 20880,
+      "word": "老公出差抓人老婆在家救人",
+      "onboard_time": 1709673016,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11540,
       "num": 14379,
       "word": "iQOO五周年",
@@ -14803,11 +14819,11 @@
       "category": "数码"
     },
     {
-      "raw_hot": 10836,
-      "num": 20566,
-      "word": "不平凡的她",
-      "onboard_time": 1709661199,
-      "rank": 47,
+      "raw_hot": 11411,
+      "num": 20837,
+      "word": "果然男生对电子产品没抵抗力",
+      "onboard_time": 1709671276,
+      "rank": 43,
       "category": "情感"
     },
     {
@@ -14833,6 +14849,14 @@
       "onboard_time": 1709325196,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 10080,
+      "num": 20755,
+      "word": "许凯怎么还害羞上了",
+      "onboard_time": 1709672356,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 9973,
