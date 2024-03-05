@@ -1,6 +1,6 @@
 {
   "startTime": 1709655654688,
-  "endTime": 1709663663707,
+  "endTime": 1709666027678,
   "band_list": [
     {
       "raw_hot": 1135872,
@@ -259,6 +259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150247,
+      "num": 36742,
+      "word": "最新研究找到熬夜致癌原因",
+      "onboard_time": 1709662697,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 142630,
       "num": 142630,
       "word": "哈兰德认为梅西是历史最佳球员",
@@ -411,6 +419,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 66895,
+      "num": 43265,
+      "word": "粉丝抵制黄牛炒作300元生菜",
+      "onboard_time": 1709662099,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61937,
       "num": 72024,
       "word": "霍启刚回应建议完善带薪年假制度",
@@ -435,19 +451,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 52976,
-      "num": 43265,
-      "word": "粉丝抵制黄牛炒作300元生菜",
-      "onboard_time": 1709662099,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 41485,
       "num": 45783,
       "word": "苗苗浪姐上班路透",
       "onboard_time": 1709658621,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 38375,
+      "num": 34568,
+      "word": "宋茜谈年龄焦虑",
+      "onboard_time": 1709661798,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -457,22 +473,6 @@
       "onboard_time": 1709656227,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35967,
-      "num": 35967,
-      "word": "最新研究找到熬夜致癌原因",
-      "onboard_time": 1709662697,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 34568,
-      "num": 34568,
-      "word": "宋茜谈年龄焦虑",
-      "onboard_time": 1709661798,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 27744,
@@ -489,6 +489,14 @@
       "onboard_time": 1709639792,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12563,
+      "num": 22133,
+      "word": "IVE台北",
+      "onboard_time": 1709664199,
+      "rank": 45,
+      "category": "演出"
     }
   ],
   "hotgov_list": [

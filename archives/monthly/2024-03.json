@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709663663707,
+  "endTime": 1709666027678,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -10579,6 +10579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150247,
+      "num": 36742,
+      "word": "最新研究找到熬夜致癌原因",
+      "onboard_time": 1709662697,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 150241,
       "num": 150241,
       "word": "刘亦菲前往巴黎",
@@ -13859,6 +13867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 66895,
+      "num": 43265,
+      "word": "粉丝抵制黄牛炒作300元生菜",
+      "onboard_time": 1709662099,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 66301,
       "num": 66301,
       "word": "哈兰德空门不进",
@@ -14097,14 +14113,6 @@
       "onboard_time": 1709337506,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 52976,
-      "num": 43265,
-      "word": "粉丝抵制黄牛炒作300元生菜",
-      "onboard_time": 1709662099,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 52300,
@@ -14347,6 +14355,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 38375,
+      "num": 34568,
+      "word": "宋茜谈年龄焦虑",
+      "onboard_time": 1709661798,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38224,
       "num": 76287,
       "word": "皇家社会vs巴黎圣日耳曼",
@@ -14385,22 +14401,6 @@
       "onboard_time": 1709323457,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 35967,
-      "num": 35967,
-      "word": "最新研究找到熬夜致癌原因",
-      "onboard_time": 1709662697,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 34568,
-      "num": 34568,
-      "word": "宋茜谈年龄焦虑",
-      "onboard_time": 1709661798,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 34378,
@@ -14729,6 +14729,14 @@
       "onboard_time": 1709586735,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12563,
+      "num": 22133,
+      "word": "IVE台北",
+      "onboard_time": 1709664199,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 12247,
