@@ -1,6 +1,6 @@
 {
   "startTime": 1709742142797,
-  "endTime": 1709749320856,
+  "endTime": 1709750047199,
   "band_list": [
     {
       "raw_hot": 1619908,
@@ -123,8 +123,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 178673,
-      "num": 178673,
+      "raw_hot": 190143,
+      "num": 190143,
       "word": "减少你的分享欲",
       "onboard_time": 1709726430,
       "rank": 24,
@@ -427,6 +427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 48517,
+      "num": 39014,
+      "word": "女子被鸡啄伤送进ICU抢救2个月",
+      "onboard_time": 1709747779,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47129,
       "num": 81215,
       "word": "江苏男篮绝杀龙狮男篮",
@@ -441,14 +449,6 @@
       "onboard_time": 1709744662,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 44011,
-      "num": 39014,
-      "word": "女子被鸡啄伤送进ICU抢救2个月",
-      "onboard_time": 1709747779,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41615,
@@ -467,6 +467,14 @@
       "category": "艺人,旅游"
     },
     {
+      "raw_hot": 35448,
+      "num": 35448,
+      "word": "00后小伙被骗缅甸每天工作17小时",
+      "onboard_time": 1709748918,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31208,
       "num": 45701,
       "word": "两会学习笔记",
@@ -483,12 +491,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 21142,
-      "num": 21142,
+      "raw_hot": 23119,
+      "num": 23119,
       "word": "关于我在精神科住院的22天",
       "onboard_time": 1709748918,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 20666,
+      "num": 20666,
+      "word": "TXT新专概念预告",
+      "onboard_time": 1709749218,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 19003,
@@ -497,14 +513,6 @@
       "onboard_time": 1709728350,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18849,
-      "num": 21139,
-      "word": "00后小伙被骗缅甸每天工作17小时",
-      "onboard_time": 1709748918,
-      "rank": 49,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

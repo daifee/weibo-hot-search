@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709749320856,
+  "endTime": 1709750047199,
   "band_list": [
     {
       "raw_hot": 3203010,
@@ -11395,6 +11395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48517,
+      "num": 39014,
+      "word": "女子被鸡啄伤送进ICU抢救2个月",
+      "onboard_time": 1709747779,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48495,
       "num": 48495,
       "word": "当地产大亨的土耳其外公有了中国小外孙",
@@ -11473,14 +11481,6 @@
       "onboard_time": 1709495956,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 44011,
-      "num": 39014,
-      "word": "女子被鸡啄伤送进ICU抢救2个月",
-      "onboard_time": 1709747779,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41485,
@@ -11569,6 +11569,14 @@
       "onboard_time": 1709745262,
       "rank": 45,
       "category": "艺人,旅游"
+    },
+    {
+      "raw_hot": 35448,
+      "num": 35448,
+      "word": "00后小伙被骗缅甸每天工作17小时",
+      "onboard_time": 1709748918,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35306,
@@ -11731,6 +11739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23119,
+      "num": 23119,
+      "word": "关于我在精神科住院的22天",
+      "onboard_time": 1709748918,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 22111,
       "num": 20927,
       "word": "陈桂林原型",
@@ -11755,20 +11771,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 21142,
-      "num": 21142,
-      "word": "关于我在精神科住院的22天",
-      "onboard_time": 1709748918,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 20727,
       "num": 146057,
       "word": "赵露思海边防晒舞",
       "onboard_time": 1709707590,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20666,
+      "num": 20666,
+      "word": "TXT新专概念预告",
+      "onboard_time": 1709749218,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 20369,
@@ -11785,14 +11801,6 @@
       "onboard_time": 1709671276,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 18849,
-      "num": 21139,
-      "word": "00后小伙被骗缅甸每天工作17小时",
-      "onboard_time": 1709748918,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18512,
