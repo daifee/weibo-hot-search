@@ -1,6 +1,6 @@
 {
   "startTime": 1709655654688,
-  "endTime": 1709738354188,
+  "endTime": 1709739263127,
   "band_list": [
     {
       "raw_hot": 3203010,
@@ -81,6 +81,14 @@
       "onboard_time": 1709690849,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 1198209,
+      "num": 1198209,
+      "word": "建议国家全面禁止未成年人网游",
+      "onboard_time": 1709737653,
+      "rank": 8,
+      "category": "国内时政,游戏"
     },
     {
       "raw_hot": 1178860,
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 502422,
-      "num": 403387,
+      "num": 411543,
       "word": "娜扎玩梗",
       "onboard_time": 1709736334,
       "rank": 10,
@@ -660,7 +668,7 @@
     },
     {
       "raw_hot": 439585,
-      "num": 402966,
+      "num": 424205,
       "word": "家门口被放了五毛钱",
       "onboard_time": 1709733933,
       "rank": 24,
@@ -673,14 +681,6 @@
       "onboard_time": 1709693729,
       "rank": 15,
       "category": "电竞,艺人"
-    },
-    {
-      "raw_hot": 437320,
-      "num": 437320,
-      "word": "建议国家全面禁止未成年人网游",
-      "onboard_time": 1709737653,
-      "rank": 8,
-      "category": "国内时政,游戏"
     },
     {
       "raw_hot": 436815,
@@ -979,6 +979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 334689,
+      "num": 334689,
+      "word": "回南天取快递 像到了天庭",
+      "onboard_time": 1709736873,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332826,
       "num": 209843,
       "word": "相亲当晚女生发来开销账单",
@@ -1003,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313124,
+      "num": 313124,
+      "word": "以前讨厌现在却真香的食物",
+      "onboard_time": 1709732853,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 312056,
       "num": 312056,
       "word": "虞书欣甜橙少女",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1709645010,
       "rank": 16,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 306733,
+      "num": 306733,
+      "word": "恋与深空",
+      "onboard_time": 1709737774,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 304813,
@@ -1065,14 +1089,6 @@
       "onboard_time": 1709718691,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 292109,
-      "num": 292109,
-      "word": "以前讨厌现在却真香的食物",
-      "onboard_time": 1709732853,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 291951,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1709722712,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 279949,
+      "num": 279949,
+      "word": "唐探2荣梓杉一变脸画风对了",
+      "onboard_time": 1709735912,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 274953,
@@ -1251,14 +1275,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 251031,
-      "num": 251031,
-      "word": "唐探2荣梓杉一变脸画风对了",
-      "onboard_time": 1709735912,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 248310,
       "num": 328350,
       "word": "建议消除简历第一学历概念",
@@ -1281,14 +1297,6 @@
       "onboard_time": 1709734771,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 243400,
-      "num": 243400,
-      "word": "恋与深空",
-      "onboard_time": 1709737774,
-      "rank": 20,
-      "category": "游戏"
     },
     {
       "raw_hot": 240713,
@@ -1337,14 +1345,6 @@
       "onboard_time": 1709726430,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 233727,
-      "num": 233727,
-      "word": "回南天取快递 像到了天庭",
-      "onboard_time": 1709736873,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232399,
@@ -1603,6 +1603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201712,
+      "num": 201712,
+      "word": "无畏契约",
+      "onboard_time": 1709738071,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201086,
       "num": 201086,
       "word": "眼影的成分能安全上嘴吗",
@@ -1753,14 +1761,6 @@
       "onboard_time": 1709684371,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 185694,
-      "num": 185694,
-      "word": "无畏契约",
-      "onboard_time": 1709738071,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 184095,
@@ -2107,6 +2107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160463,
+      "num": 160463,
+      "word": "颖儿带女儿拍汉服写真",
+      "onboard_time": 1709738313,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159987,
       "num": 298546,
       "word": "有一种知识叫女性经验",
@@ -2329,6 +2337,14 @@
       "onboard_time": 1709735974,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145447,
+      "num": 145447,
+      "word": "种地吧",
+      "onboard_time": 1709738611,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 145173,
@@ -2707,6 +2723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 121517,
+      "num": 121517,
+      "word": "这些汽车一辆比一辆有故事啊",
+      "onboard_time": 1709737175,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 119520,
       "num": 119520,
       "word": "祁煜整片海洋的祝福",
@@ -2721,14 +2745,6 @@
       "onboard_time": 1709734353,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119031,
-      "num": 119031,
-      "word": "这些汽车一辆比一辆有故事啊",
-      "onboard_time": 1709737175,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 119014,
@@ -2793,14 +2809,6 @@
       "onboard_time": 1709734474,
       "rank": 48,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 114507,
-      "num": 114507,
-      "word": "颖儿带女儿拍汉服写真",
-      "onboard_time": 1709738313,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 114187,
@@ -2948,7 +2956,7 @@
     },
     {
       "raw_hot": 101617,
-      "num": 773904,
+      "num": 829158,
       "word": "九个新视角读懂未来机遇",
       "onboard_time": 1709729131,
       "rank": 2,
