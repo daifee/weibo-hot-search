@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709752335933,
+  "endTime": 1709753641812,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -16571,6 +16571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 66892,
+      "num": 36017,
+      "word": "夏克立自曝人身安全受威胁",
+      "onboard_time": 1709752036,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66301,
       "num": 66301,
       "word": "哈兰德空门不进",
@@ -17475,14 +17483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20819,
-      "num": 20819,
-      "word": "夏克立自曝人身安全受威胁",
-      "onboard_time": 1709752036,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 20727,
       "num": 146057,
       "word": "赵露思海边防晒舞",
@@ -17537,6 +17537,14 @@
       "onboard_time": 1709491218,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18011,
+      "num": 18011,
+      "word": "钟薛高多平台账号停更",
+      "onboard_time": 1709752877,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 17931,
@@ -17665,6 +17673,14 @@
       "onboard_time": 1709410217,
       "rank": 48,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 12236,
+      "num": 15260,
+      "word": "母爱不会被葡萄压碎",
+      "onboard_time": 1709753597,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 12177,

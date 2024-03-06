@@ -1,6 +1,6 @@
 {
   "startTime": 1709742142797,
-  "endTime": 1709752335933,
+  "endTime": 1709753641812,
   "band_list": [
     {
       "raw_hot": 1619908,
@@ -387,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 66892,
+      "num": 36017,
+      "word": "夏克立自曝人身安全受威胁",
+      "onboard_time": 1709752036,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64811,
       "num": 81357,
       "word": "建议鼓励生态安葬",
@@ -499,14 +507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 20819,
-      "num": 20819,
-      "word": "夏克立自曝人身安全受威胁",
-      "onboard_time": 1709752036,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 20666,
       "num": 20666,
       "word": "TXT新专概念预告",
@@ -523,11 +523,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18011,
+      "num": 18011,
+      "word": "钟薛高多平台账号停更",
+      "onboard_time": 1709752877,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 17931,
       "num": 17931,
       "word": "如果可以学习一门新的语言吧",
       "onboard_time": 1709750957,
       "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 12236,
+      "num": 15260,
+      "word": "母爱不会被葡萄压碎",
+      "onboard_time": 1709753597,
+      "rank": 49,
       "category": "情感"
     }
   ],
