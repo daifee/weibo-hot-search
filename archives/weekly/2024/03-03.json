@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709745365539,
+  "endTime": 1709746447155,
   "band_list": [
     {
       "raw_hot": 3203010,
@@ -9427,6 +9427,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 132776,
+      "num": 113379,
+      "word": "霉霉呼吁粉丝投票",
+      "onboard_time": 1709743886,
+      "rank": 30,
+      "category": "国外时政,艺人"
+    },
+    {
       "raw_hot": 132658,
       "num": 132658,
       "word": "TEC周冠军",
@@ -10209,14 +10217,6 @@
       "onboard_time": 1709734414,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 117586,
-      "num": 52662,
-      "word": "霉霉呼吁粉丝投票",
-      "onboard_time": 1709743886,
-      "rank": 30,
-      "category": "国外时政,艺人"
     },
     {
       "raw_hot": 117375,
@@ -11275,6 +11275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57177,
+      "num": 57177,
+      "word": "男子用AI换脸复活去世父亲哄奶奶",
+      "onboard_time": 1709743044,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57031,
       "num": 57031,
       "word": "王栎鑫拆台许凯",
@@ -11369,14 +11377,6 @@
       "onboard_time": 1709491218,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 49325,
-      "num": 49325,
-      "word": "男子用AI换脸复活去世父亲哄奶奶",
-      "onboard_time": 1709743044,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48567,
@@ -11547,7 +11547,7 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 36124,
+      "raw_hot": 36779,
       "num": 45728,
       "word": "王源新疆攻略",
       "onboard_time": 1709745262,

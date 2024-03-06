@@ -1,6 +1,6 @@
 {
   "startTime": 1709742142797,
-  "endTime": 1709745365539,
+  "endTime": 1709746447155,
   "band_list": [
     {
       "raw_hot": 1619908,
@@ -163,6 +163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132776,
+      "num": 113379,
+      "word": "霉霉呼吁粉丝投票",
+      "onboard_time": 1709743886,
+      "rank": 30,
+      "category": "国外时政,艺人"
+    },
+    {
       "raw_hot": 131826,
       "num": 131826,
       "word": "工资不高房价却很高的城市",
@@ -185,14 +193,6 @@
       "onboard_time": 1709739753,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 117586,
-      "num": 52662,
-      "word": "霉霉呼吁粉丝投票",
-      "onboard_time": 1709743886,
-      "rank": 30,
-      "category": "国外时政,艺人"
     },
     {
       "raw_hot": 117375,
@@ -403,20 +403,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 57177,
+      "num": 57177,
+      "word": "男子用AI换脸复活去世父亲哄奶奶",
+      "onboard_time": 1709743044,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57090,
       "num": 81244,
       "word": "鹿晗队长合作新歌",
       "onboard_time": 1709732012,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 49325,
-      "num": 49325,
-      "word": "男子用AI换脸复活去世父亲哄奶奶",
-      "onboard_time": 1709743044,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47129,
@@ -443,7 +443,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 36124,
+      "raw_hot": 36779,
       "num": 45728,
       "word": "王源新疆攻略",
       "onboard_time": 1709745262,
