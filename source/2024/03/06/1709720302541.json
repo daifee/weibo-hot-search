@@ -1,0 +1,410 @@
+{
+  "runTime": 1709720302541,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1286831,
+        "num": 1286831,
+        "word": "钟薛高售价从60元降到2.5元",
+        "onboard_time": 1709707169,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 943484,
+        "num": 943484,
+        "word": "男生月薪一万一年存10万",
+        "onboard_time": 1709695294,
+        "rank": 1,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 8410,
+        "num": 832448,
+        "word": "两会数读中国",
+        "onboard_time": 1709632235,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810697,
+        "num": 810697,
+        "word": "真正抑郁症才有的9个样子",
+        "onboard_time": 1709707169,
+        "rank": 3,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 674837,
+        "num": 674837,
+        "word": "横店群演紧缺",
+        "onboard_time": 1709715690,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 674287,
+        "num": 674287,
+        "word": "周冬雨与LV总监英语热聊",
+        "onboard_time": 1709717670,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 643296,
+        "num": 643296,
+        "word": "浪姐5一公分组",
+        "onboard_time": 1709718033,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116423,
+        "num": 412903,
+        "word": "女童走失被路人送回家父亲登门跪谢",
+        "onboard_time": 1709718812,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110846,
+        "num": 406629,
+        "word": "四川将发超1亿元消费券",
+        "onboard_time": 1709718630,
+        "rank": 8,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 405351,
+        "num": 405351,
+        "word": "财政部部长谈党政机关过紧日子",
+        "onboard_time": 1709717190,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1072616,
+        "num": 396322,
+        "word": "杨幂北电考官",
+        "onboard_time": 1709712813,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456562,
+        "num": 386239,
+        "word": "工资不高房价却很高的城市",
+        "onboard_time": 1709701172,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423693,
+        "num": 384491,
+        "word": "德国国防部云存储密码1234",
+        "onboard_time": 1709717549,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 370019,
+        "num": 370019,
+        "word": "刘亦菲也够不着的男人",
+        "onboard_time": 1709707772,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 366252,
+        "num": 366252,
+        "word": "桑延温以凡合体了",
+        "onboard_time": 1709710830,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347404,
+        "num": 347404,
+        "word": "小杨哥跌出带货榜前20",
+        "onboard_time": 1709709272,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 236715,
+        "num": 236715,
+        "word": "看不懂的明星穿搭",
+        "onboard_time": 1709718329,
+        "rank": 16,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 235213,
+        "num": 235213,
+        "word": "建议帮助年轻人不脆皮",
+        "onboard_time": 1709719113,
+        "rank": 17,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 229673,
+        "num": 229673,
+        "word": "专家称HPV疫苗能约几价就打几价",
+        "onboard_time": 1709711854,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36075,
+        "num": 227961,
+        "word": "9代凯美瑞有多强",
+        "onboard_time": 1709718812,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 292977,
+        "num": 227859,
+        "word": "公司为了留住我给我涨了30工资",
+        "onboard_time": 1709718691,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227736,
+        "num": 227736,
+        "word": "中国队短道速滑世锦赛名单",
+        "onboard_time": 1709718691,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217609,
+        "num": 217609,
+        "word": "钟薛高被执行81万元",
+        "onboard_time": 1709713293,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208729,
+        "num": 208729,
+        "word": "舍友妈妈在宿舍住了五天",
+        "onboard_time": 1709701533,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207853,
+        "num": 207853,
+        "word": "山东泰山vs横滨水手",
+        "onboard_time": 1709717131,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203064,
+        "num": 203064,
+        "word": "淡人isfp",
+        "onboard_time": 1709718572,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201607,
+        "num": 201607,
+        "word": "向佐infg",
+        "onboard_time": 1709715393,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168510,
+        "num": 168510,
+        "word": "不能给你800元是因为我真的有",
+        "onboard_time": 1709705610,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167610,
+        "num": 167610,
+        "word": "上班有没有必要化妆",
+        "onboard_time": 1709716053,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 161817,
+        "num": 161817,
+        "word": "美国埋下的核恶魔将被放出",
+        "onboard_time": 1709706091,
+        "rank": 29,
+        "category": "国外时政,科学科普"
+      },
+      {
+        "raw_hot": 168176,
+        "num": 161089,
+        "word": "一碗水真的在不经意间就端不平",
+        "onboard_time": 1709719531,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159838,
+        "num": 159838,
+        "word": "短剧演员",
+        "onboard_time": 1709713890,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156624,
+        "num": 156624,
+        "word": "傅若清称肖战等演员的演绎让人眼前一亮",
+        "onboard_time": 1709712093,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153637,
+        "num": 153637,
+        "word": "亚冠",
+        "onboard_time": 1709717972,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136115,
+        "num": 136115,
+        "word": "技术性离婚等减持漏洞将进一步堵住",
+        "onboard_time": 1709719230,
+        "rank": 34,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 136016,
+        "num": 136016,
+        "word": "中美AI技术被拉开差距了吗",
+        "onboard_time": 1709716892,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 135932,
+        "num": 135932,
+        "word": "建议公务员招录取缔职业院校生歧视政策",
+        "onboard_time": 1709700695,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134537,
+        "num": 134537,
+        "word": "ICU医生称见过生死仍看不透死亡",
+        "onboard_time": 1709703093,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133079,
+        "num": 133079,
+        "word": "闺蜜搬家叫了一个7米6的车",
+        "onboard_time": 1709708312,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132236,
+        "num": 132236,
+        "word": "Meiko和明凯合伙开公司",
+        "onboard_time": 1709716233,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129649,
+        "num": 129649,
+        "word": "刘诗诗掌心新妆造",
+        "onboard_time": 1709715932,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128480,
+        "num": 128480,
+        "word": "西班牙女粉丝遭遇假罗云熙杀猪盘",
+        "onboard_time": 1709709931,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127149,
+        "num": 127149,
+        "word": "你这么大方在狗界都传开了吧",
+        "onboard_time": 1709719773,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119836,
+        "num": 119836,
+        "word": "娃哈哈奶茶店",
+        "onboard_time": 1709720130,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110082,
+        "num": 110082,
+        "word": "Irene姐的神级七秒美貌",
+        "onboard_time": 1709710412,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108331,
+        "num": 108331,
+        "word": "狗狗犯错后道歉的方式",
+        "onboard_time": 1709716892,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107579,
+        "num": 107579,
+        "word": "黄景瑜南京",
+        "onboard_time": 1709712453,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105369,
+        "num": 105369,
+        "word": "彩礼是对女性的生育补偿吗",
+        "onboard_time": 1709694633,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105133,
+        "num": 105133,
+        "word": "秦岚申请当胡先煦站姐",
+        "onboard_time": 1709710054,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102639,
+        "num": 102639,
+        "word": "祛魅之后爱才真正开始",
+        "onboard_time": 1709720072,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展新质生产力不是忽视放弃传统产业#"
+    }
+  }
+}

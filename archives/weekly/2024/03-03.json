@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709717655916,
+  "endTime": 1709720302541,
   "band_list": [
     {
       "raw_hot": 3203010,
@@ -1411,12 +1411,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 674837,
+      "num": 674837,
+      "word": "横店群演紧缺",
+      "onboard_time": 1709715690,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 674320,
       "num": 674320,
       "word": "钟睒睒否认第一桶金来自娃哈哈",
       "onboard_time": 1709468490,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 674287,
+      "num": 674287,
+      "word": "周冬雨与LV总监英语热聊",
+      "onboard_time": 1709717670,
+      "rank": 5,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 673689,
@@ -1531,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 643296,
+      "num": 643296,
+      "word": "浪姐5一公分组",
+      "onboard_time": 1709718033,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 640599,
       "num": 640599,
       "word": "反季羽绒服是不是智商税",
@@ -1577,14 +1601,6 @@
       "onboard_time": 1709453908,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 633916,
-      "num": 633916,
-      "word": "横店群演紧缺",
-      "onboard_time": 1709715690,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 633252,
@@ -2755,6 +2771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 423693,
+      "num": 384491,
+      "word": "德国国防部云存储密码1234",
+      "onboard_time": 1709717549,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 422461,
       "num": 422461,
       "word": "人大代表谈电视开机率不高",
@@ -2897,6 +2921,14 @@
       "onboard_time": 1709613095,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 405351,
+      "num": 405351,
+      "word": "财政部部长谈党政机关过紧日子",
+      "onboard_time": 1709717190,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 404726,
@@ -3987,6 +4019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292977,
+      "num": 227859,
+      "word": "公司为了留住我给我涨了30工资",
+      "onboard_time": 1709718691,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 292649,
       "num": 292649,
       "word": "向佐说跟爸爸很难做朋友",
@@ -4891,6 +4931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236715,
+      "num": 236715,
+      "word": "看不懂的明星穿搭",
+      "onboard_time": 1709718329,
+      "rank": 16,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 236533,
       "num": 236533,
       "word": "油价",
@@ -4929,6 +4977,14 @@
       "onboard_time": 1709515470,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235213,
+      "num": 235213,
+      "word": "建议帮助年轻人不脆皮",
+      "onboard_time": 1709719113,
+      "rank": 17,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 234292,
@@ -5041,6 +5097,14 @@
       "onboard_time": 1709612075,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227736,
+      "num": 227736,
+      "word": "中国队短道速滑世锦赛名单",
+      "onboard_time": 1709718691,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 227651,
@@ -5587,6 +5651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207853,
+      "num": 207853,
+      "word": "山东泰山vs横滨水手",
+      "onboard_time": 1709717131,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207761,
       "num": 180444,
       "word": "WBG春季赛三连败",
@@ -5761,6 +5833,14 @@
       "onboard_time": 1709533469,
       "rank": 25,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 203064,
+      "num": 203064,
+      "word": "淡人isfp",
+      "onboard_time": 1709718572,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 202687,
@@ -5971,14 +6051,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 196888,
-      "num": 196888,
-      "word": "财政部部长谈党政机关过紧日子",
-      "onboard_time": 1709717190,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 196832,
       "num": 196832,
       "word": "WE下路",
@@ -6065,14 +6137,6 @@
       "onboard_time": 1709623235,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 194591,
-      "num": 194591,
-      "word": "山东泰山vs横滨水手",
-      "onboard_time": 1709717131,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 194285,
@@ -7003,6 +7067,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 168176,
+      "num": 161089,
+      "word": "一碗水真的在不经意间就端不平",
+      "onboard_time": 1709719531,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167152,
       "num": 167152,
       "word": "春天里的中国自带氛围感",
@@ -7632,6 +7704,14 @@
       "word": "杨鸣回归辽篮执教首秀",
       "onboard_time": 1709704891,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153637,
+      "num": 153637,
+      "word": "亚冠",
+      "onboard_time": 1709717972,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -8507,6 +8587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136115,
+      "num": 136115,
+      "word": "技术性离婚等减持漏洞将进一步堵住",
+      "onboard_time": 1709719230,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 135995,
       "num": 135995,
       "word": "有些人是无意识的供养者心态",
@@ -8681,14 +8769,6 @@
       "onboard_time": 1709593945,
       "rank": 24,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 132391,
-      "num": 132391,
-      "word": "德国国防部云存储密码1234",
-      "onboard_time": 1709717549,
-      "rank": 43,
-      "category": "国外时政"
     },
     {
       "raw_hot": 131294,
@@ -8952,6 +9032,14 @@
       "word": "狗子睡觉翻个身房子塌了",
       "onboard_time": 1709635652,
       "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 127149,
+      "num": 127149,
+      "word": "你这么大方在狗界都传开了吧",
+      "onboard_time": 1709719773,
+      "rank": 42,
       "category": "幽默"
     },
     {
@@ -9251,6 +9339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119836,
+      "num": 119836,
+      "word": "娃哈哈奶茶店",
+      "onboard_time": 1709720130,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 119080,
       "num": 119080,
       "word": "人大代表邀大家来殷墟博物馆看亚长牛尊",
@@ -9361,6 +9457,14 @@
       "onboard_time": 1709551169,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116423,
+      "num": 412903,
+      "word": "女童走失被路人送回家父亲登门跪谢",
+      "onboard_time": 1709718812,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116145,
@@ -9553,6 +9657,14 @@
       "onboard_time": 1709392232,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110846,
+      "num": 406629,
+      "word": "四川将发超1亿元消费券",
+      "onboard_time": 1709718630,
+      "rank": 8,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 110842,
@@ -9753,6 +9865,14 @@
       "onboard_time": 1709568928,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102639,
+      "num": 102639,
+      "word": "祛魅之后爱才真正开始",
+      "onboard_time": 1709720072,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 102575,
@@ -10419,6 +10539,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 36075,
+      "num": 227961,
+      "word": "9代凯美瑞有多强",
+      "onboard_time": 1709718812,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 35306,
       "num": 1038706,
       "word": "要牢牢把握高质量发展这个首要任务",
@@ -10732,7 +10860,7 @@
     },
     {
       "raw_hot": 9937,
-      "num": 789480,
+      "num": 832448,
       "word": "两会数读中国",
       "onboard_time": 1709632235,
       "rank": 2,
