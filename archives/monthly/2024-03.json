@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709731132546,
+  "endTime": 1709732056152,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -1059,6 +1059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1018518,
+      "num": 449831,
+      "word": "女生千万要小心青纱帐",
+      "onboard_time": 1709727390,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1016351,
       "num": 1016351,
       "word": "原神 混池",
@@ -1689,14 +1697,6 @@
       "onboard_time": 1709340812,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 781046,
-      "num": 402517,
-      "word": "女生千万要小心青纱帐",
-      "onboard_time": 1709727390,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 780299,
@@ -3076,7 +3076,7 @@
     },
     {
       "raw_hot": 553719,
-      "num": 355251,
+      "num": 375848,
       "word": "陈情令旅游专线",
       "onboard_time": 1709728170,
       "rank": 21,
@@ -3819,6 +3819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468195,
+      "num": 468195,
+      "word": "张文宏谈为何这个冬天一直生病",
+      "onboard_time": 1709724090,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 468189,
       "num": 468189,
       "word": "小沈阳发文为老婆庆生",
@@ -4555,14 +4563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 405621,
-      "num": 405621,
-      "word": "张文宏谈为何这个冬天一直生病",
-      "onboard_time": 1709724090,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 405351,
       "num": 608750,
       "word": "财政部部长谈党政机关过紧日子",
@@ -4979,6 +4979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374310,
+      "num": 374310,
+      "word": "阮经天 我们偶尔见",
+      "onboard_time": 1709728830,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373650,
       "num": 373650,
       "word": "张雪峰建议英语口语占120分",
@@ -5315,14 +5323,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 352265,
-      "num": 263896,
-      "word": "阮经天 我们偶尔见",
-      "onboard_time": 1709728830,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 352162,
       "num": 352162,
       "word": "LV大秀",
@@ -5411,6 +5411,14 @@
       "category": "情感,健康医疗"
     },
     {
+      "raw_hot": 348288,
+      "num": 235245,
+      "word": "章若楠难哄去刘海",
+      "onboard_time": 1709728888,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348029,
       "num": 348029,
       "word": "HPV疫苗",
@@ -5435,6 +5443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347415,
+      "num": 347415,
+      "word": "周也冷脸白花",
+      "onboard_time": 1709730212,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 345475,
       "num": 288709,
       "word": "女子将男友30多只鞋子从35楼扔下",
@@ -5457,6 +5473,14 @@
       "onboard_time": 1709220036,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 343643,
+      "num": 378844,
+      "word": "裁判",
+      "onboard_time": 1709729131,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 342935,
@@ -5672,14 +5696,6 @@
       "word": "成毅王权路透",
       "onboard_time": 1709440230,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 329520,
-      "num": 214094,
-      "word": "章若楠难哄去刘海",
-      "onboard_time": 1709728888,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -6259,6 +6275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296653,
+      "num": 296653,
+      "word": "外国人比中国人还信中国法术",
+      "onboard_time": 1709729010,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 295828,
       "num": 295828,
       "word": "王一博机场",
@@ -6643,14 +6667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 277183,
-      "num": 277183,
-      "word": "周也冷脸白花",
-      "onboard_time": 1709730212,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 277013,
       "num": 277013,
       "word": "2023年经济社会发展主要目标任务圆满完成",
@@ -6961,14 +6977,6 @@
       "onboard_time": 1709447249,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265258,
-      "num": 265258,
-      "word": "裁判",
-      "onboard_time": 1709729131,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 264907,
@@ -7667,6 +7675,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 236623,
+      "num": 235083,
+      "word": "同事在工位上养水果",
+      "onboard_time": 1709725293,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236533,
       "num": 236533,
       "word": "油价",
@@ -7715,12 +7731,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235462,
+      "num": 235462,
+      "word": "喜茶光与夜之恋联名",
+      "onboard_time": 1709731711,
+      "rank": 19,
+      "category": "美食,游戏"
+    },
+    {
       "raw_hot": 234920,
       "num": 234920,
       "word": "吞海 档案袋",
       "onboard_time": 1709379272,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 234847,
+      "num": 234847,
+      "word": "减少你的分享欲",
+      "onboard_time": 1709726430,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 234292,
@@ -7793,14 +7825,6 @@
       "onboard_time": 1709622755,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 230184,
-      "num": 230184,
-      "word": "同事在工位上养水果",
-      "onboard_time": 1709725293,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 229982,
@@ -8235,6 +8259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216221,
+      "num": 216221,
+      "word": "酱园弄杀青了",
+      "onboard_time": 1709731652,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216175,
       "num": 216175,
       "word": "郑秀妍泳装照",
@@ -8257,14 +8289,6 @@
       "onboard_time": 1709683893,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 215776,
-      "num": 215776,
-      "word": "外国人比中国人还信中国法术",
-      "onboard_time": 1709729010,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 215610,
@@ -8491,14 +8515,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 212001,
-      "num": 212001,
-      "word": "减少你的分享欲",
-      "onboard_time": 1709726430,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211926,
       "num": 252873,
       "word": "欧豪叫詹姆斯老头儿",
@@ -8553,6 +8569,14 @@
       "onboard_time": 1709377169,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 211458,
+      "num": 211458,
+      "word": "为什么猫咪肚子有坨下垂的肉",
+      "onboard_time": 1709728954,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 211319,
@@ -8681,14 +8705,6 @@
       "onboard_time": 1709630073,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 208028,
-      "num": 208028,
-      "word": "为什么猫咪肚子有坨下垂的肉",
-      "onboard_time": 1709728954,
-      "rank": 32,
-      "category": "科学科普"
     },
     {
       "raw_hot": 207929,
@@ -10091,6 +10107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184095,
+      "num": 184095,
+      "word": "领证后激动到哭的男朋友",
+      "onboard_time": 1709726730,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183952,
       "num": 183952,
       "word": "退税需要满足哪些条件",
@@ -10137,14 +10161,6 @@
       "onboard_time": 1709370212,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 183367,
-      "num": 183367,
-      "word": "领证后激动到哭的男朋友",
-      "onboard_time": 1709726730,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 183006,
@@ -12955,6 +12971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141230,
+      "num": 141230,
+      "word": "超90%成年人体内潜伏带状疱疹病毒",
+      "onboard_time": 1709731652,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 141045,
       "num": 141045,
       "word": "助教邵明明回来了",
@@ -13097,6 +13121,14 @@
       "onboard_time": 1709688332,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139444,
+      "num": 139444,
+      "word": "县城咖啡日出1600杯",
+      "onboard_time": 1709731352,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 139435,
@@ -13364,7 +13396,7 @@
     },
     {
       "raw_hot": 136388,
-      "num": 356902,
+      "num": 377394,
       "word": "9图看政府工作报告里你关心的事",
       "onboard_time": 1709728170,
       "rank": 45,
@@ -14123,6 +14155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126437,
+      "num": 126437,
+      "word": "难哄还原度",
+      "onboard_time": 1709731589,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126341,
       "num": 126341,
       "word": "给奶奶染了个绿色",
@@ -14305,6 +14345,14 @@
       "onboard_time": 1709335521,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123689,
+      "num": 123689,
+      "word": "骑有此理",
+      "onboard_time": 1709728771,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 123602,
@@ -14923,12 +14971,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 113995,
-      "num": 113995,
-      "word": "骑有此理",
-      "onboard_time": 1709728771,
-      "rank": 45,
-      "category": "作品衍生"
+      "raw_hot": 114187,
+      "num": 114187,
+      "word": "潘玮柏新歌封面都是粉丝",
+      "onboard_time": 1709731231,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 113893,
@@ -15708,7 +15756,7 @@
     },
     {
       "raw_hot": 94781,
-      "num": 403734,
+      "num": 464175,
       "word": "九个新视角读懂未来机遇",
       "onboard_time": 1709729131,
       "rank": 2,
@@ -15747,6 +15795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94093,
+      "num": 94093,
+      "word": "鹿晗队长合作新歌",
+      "onboard_time": 1709732012,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 94085,
       "num": 94085,
       "word": "NEWJEANS官宣北京签售",
@@ -15777,6 +15833,14 @@
       "onboard_time": 1709359109,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92520,
+      "num": 92520,
+      "word": "90后父母开始用AI哄孩子",
+      "onboard_time": 1709731833,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92436,
