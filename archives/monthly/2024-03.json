@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709720302541,
+  "endTime": 1709721329861,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 1511906,
-      "num": 404673,
+      "num": 491955,
       "word": "杨幂北电考官",
       "onboard_time": 1709712813,
       "rank": 14,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 1460846,
-      "num": 389378,
+      "num": 486815,
       "word": "工资不高房价却很高的城市",
       "onboard_time": 1709701172,
       "rank": 15,
@@ -3907,6 +3907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 457585,
+      "num": 457585,
+      "word": "德国国防部云存储密码1234",
+      "onboard_time": 1709717549,
+      "rank": 43,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 457336,
       "num": 268285,
       "word": "章泽天给新手妈妈送关爱礼包",
@@ -4283,14 +4291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 423693,
-      "num": 384491,
-      "word": "德国国防部云存储密码1234",
-      "onboard_time": 1709717549,
-      "rank": 43,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 422756,
       "num": 422756,
       "word": "蔡磊身体情况持续下滑",
@@ -4585,6 +4585,14 @@
       "onboard_time": 1709427688,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 399258,
+      "num": 505638,
+      "word": "娃哈哈奶茶店",
+      "onboard_time": 1709720130,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 399078,
@@ -5411,6 +5419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 339498,
+      "num": 339498,
+      "word": "中国队短道速滑世锦赛名单",
+      "onboard_time": 1709718691,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 339320,
       "num": 339320,
       "word": "娜扎露腰上衣",
@@ -6220,7 +6236,7 @@
     },
     {
       "raw_hot": 292977,
-      "num": 227859,
+      "num": 271374,
       "word": "公司为了留住我给我涨了30工资",
       "onboard_time": 1709718691,
       "rank": 20,
@@ -6289,6 +6305,14 @@
       "onboard_time": 1709362231,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291113,
+      "num": 291113,
+      "word": "建议帮助年轻人不脆皮",
+      "onboard_time": 1709719113,
+      "rank": 17,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 291040,
@@ -6729,6 +6753,14 @@
       "onboard_time": 1709683169,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 267902,
+      "num": 267902,
+      "word": "卡琳娜带女儿游玩迪士尼",
+      "onboard_time": 1709720791,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 267880,
@@ -7531,14 +7563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235213,
-      "num": 235213,
-      "word": "建议帮助年轻人不脆皮",
-      "onboard_time": 1709719113,
-      "rank": 17,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 234920,
       "num": 234920,
       "word": "吞海 档案袋",
@@ -7665,14 +7689,6 @@
       "onboard_time": 1709612075,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 227736,
-      "num": 227736,
-      "word": "中国队短道速滑世锦赛名单",
-      "onboard_time": 1709718691,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 227651,
@@ -7817,6 +7833,14 @@
       "onboard_time": 1709199691,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223051,
+      "num": 223051,
+      "word": "山东泰山vs横滨水手",
+      "onboard_time": 1709717131,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 222639,
@@ -8481,14 +8505,6 @@
       "onboard_time": 1709654130,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 207853,
-      "num": 207853,
-      "word": "山东泰山vs横滨水手",
-      "onboard_time": 1709717131,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 207761,
@@ -9531,6 +9547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190247,
+      "num": 548721,
+      "word": "女童走失被路人送回家父亲登门跪谢",
+      "onboard_time": 1709718812,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190150,
       "num": 190150,
       "word": "檀健次跳道歉舞",
@@ -10259,6 +10283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177155,
+      "num": 531948,
+      "word": "四川将发超1亿元消费券",
+      "onboard_time": 1709718630,
+      "rank": 8,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 177097,
       "num": 177097,
       "word": "KPL春季赛第二轮赛程",
@@ -10796,7 +10828,7 @@
     },
     {
       "raw_hot": 168176,
-      "num": 161089,
+      "num": 162541,
       "word": "一碗水真的在不经意间就端不平",
       "onboard_time": 1709719531,
       "rank": 30,
@@ -11081,6 +11113,22 @@
       "onboard_time": 1709558733,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 163997,
+      "num": 163997,
+      "word": "中华文明国际形象网宣片CHN",
+      "onboard_time": 1709720911,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 163837,
+      "num": 163837,
+      "word": "技术性离婚等减持漏洞将进一步堵住",
+      "onboard_time": 1709719230,
+      "rank": 34,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 163425,
@@ -12819,6 +12867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138707,
+      "num": 138707,
+      "word": "霉霉新加坡演唱会引泰菲等国不满",
+      "onboard_time": 1709721152,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138565,
       "num": 138565,
       "word": "很新的取群名方法",
@@ -13017,14 +13073,6 @@
       "onboard_time": 1709259750,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 136115,
-      "num": 136115,
-      "word": "技术性离婚等减持漏洞将进一步堵住",
-      "onboard_time": 1709719230,
-      "rank": 34,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 135995,
@@ -13305,6 +13353,14 @@
       "onboard_time": 1709593945,
       "rank": 24,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 132504,
+      "num": 132504,
+      "word": "你这么大方在狗界都传开了吧",
+      "onboard_time": 1709719773,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 132336,
@@ -13656,14 +13712,6 @@
       "word": "狗子睡觉翻个身房子塌了",
       "onboard_time": 1709635652,
       "rank": 44,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 127149,
-      "num": 127149,
-      "word": "你这么大方在狗界都传开了吧",
-      "onboard_time": 1709719773,
-      "rank": 42,
       "category": "幽默"
     },
     {
@@ -14019,6 +14067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121698,
+      "num": 121698,
+      "word": "30岁单身女性不想结婚只想买房",
+      "onboard_time": 1709721089,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121675,
       "num": 121675,
       "word": "糙汉阮经天",
@@ -14137,14 +14193,6 @@
       "onboard_time": 1709267075,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119836,
-      "num": 119836,
-      "word": "娃哈哈奶茶店",
-      "onboard_time": 1709720130,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 119492,
@@ -14345,14 +14393,6 @@
       "onboard_time": 1709551169,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116423,
-      "num": 412903,
-      "word": "女童走失被路人送回家父亲登门跪谢",
-      "onboard_time": 1709718812,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116373,
@@ -14651,6 +14691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111764,
+      "num": 111764,
+      "word": "霉霉手机壳",
+      "onboard_time": 1709721273,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 111593,
       "num": 111593,
       "word": "成毅角色手绘",
@@ -14667,20 +14715,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111331,
+      "num": 111331,
+      "word": "只有猫咪在独自享受回南天",
+      "onboard_time": 1709721152,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111131,
       "num": 111131,
       "word": "刘亦菲纪念金庸诞辰100周年",
       "onboard_time": 1709285732,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110846,
-      "num": 406629,
-      "word": "四川将发超1亿元消费券",
-      "onboard_time": 1709718630,
-      "rank": 8,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 110842,
@@ -15169,6 +15217,14 @@
       "onboard_time": 1709475632,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 95604,
+      "num": 110791,
+      "word": "续航无忧的出行快乐谁懂",
+      "onboard_time": 1709721152,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 94866,
@@ -16147,6 +16203,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 39221,
+      "num": 280476,
+      "word": "9代凯美瑞有多强",
+      "onboard_time": 1709718812,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 38189,
       "num": 184744,
       "word": "什么是电子OOTD",
@@ -16169,14 +16233,6 @@
       "onboard_time": 1709632235,
       "rank": 8,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 36075,
-      "num": 227961,
-      "word": "9代凯美瑞有多强",
-      "onboard_time": 1709718812,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 36037,
