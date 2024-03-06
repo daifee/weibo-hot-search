@@ -1,0 +1,410 @@
+{
+  "runTime": 1709729182033,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 703730,
+        "num": 703730,
+        "word": "男生月薪一万一年存10万",
+        "onboard_time": 1709695294,
+        "rank": 0,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 394588,
+        "num": 394588,
+        "word": "美汁源直播",
+        "onboard_time": 1709724569,
+        "rank": 1,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 29815,
+        "num": 391428,
+        "word": "九个新视角读懂未来机遇",
+        "onboard_time": 1709729131,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1115132,
+        "num": 383471,
+        "word": "真正抑郁症才有的9个样子",
+        "onboard_time": 1709707169,
+        "rank": 3,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 166452,
+        "num": 374022,
+        "word": "技术性离婚等减持漏洞将进一步堵住",
+        "onboard_time": 1709719230,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 475517,
+        "num": 366159,
+        "word": "30岁单身女性不想结婚只想买房",
+        "onboard_time": 1709721089,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 436462,
+        "num": 361660,
+        "word": "钟薛高售价从60元降到2.5元",
+        "onboard_time": 1709707169,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 358148,
+        "num": 358148,
+        "word": "山东泰山1比2横滨水手",
+        "onboard_time": 1709727330,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321016,
+        "num": 321016,
+        "word": "张文宏谈为何这个冬天一直生病",
+        "onboard_time": 1709724090,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136388,
+        "num": 318043,
+        "word": "9图看政府工作报告里你关心的事",
+        "onboard_time": 1709728170,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631981,
+        "num": 315488,
+        "word": "阮经天弟弟",
+        "onboard_time": 1709724450,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 569071,
+        "num": 308206,
+        "word": "papi酱 当你的女朋友是学导演的",
+        "onboard_time": 1709722231,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 462530,
+        "num": 305166,
+        "word": "杨幂北电考官",
+        "onboard_time": 1709712813,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 406414,
+        "num": 299439,
+        "word": "陈情令旅游专线",
+        "onboard_time": 1709728170,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 366969,
+        "num": 296079,
+        "word": "工资不高房价却很高的城市",
+        "onboard_time": 1709701172,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173301,
+        "num": 291272,
+        "word": "财政部部长谈党政机关过紧日子",
+        "onboard_time": 1709717190,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 321277,
+        "num": 283626,
+        "word": "女生千万要小心青纱帐",
+        "onboard_time": 1709727390,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 281399,
+        "num": 281399,
+        "word": "林俊杰深圳站",
+        "onboard_time": 1709722712,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 278469,
+        "num": 278469,
+        "word": "浪姐5一公分组",
+        "onboard_time": 1709718033,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277396,
+        "num": 277396,
+        "word": "德国国防部云存储密码1234",
+        "onboard_time": 1709717549,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 265513,
+        "num": 265513,
+        "word": "虞书欣甜橙少女",
+        "onboard_time": 1709725830,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262079,
+        "num": 262079,
+        "word": "e人和i人在穿搭上的区别",
+        "onboard_time": 1709726972,
+        "rank": 21,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 254590,
+        "num": 254590,
+        "word": "杨鸣回归",
+        "onboard_time": 1709726309,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225948,
+        "num": 225948,
+        "word": "黄龄去霉霉演唱会 双担狂喜",
+        "onboard_time": 1709727030,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225320,
+        "num": 225320,
+        "word": "山东泰山vs横滨水手",
+        "onboard_time": 1709717131,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202144,
+        "num": 202144,
+        "word": "同事在工位上养水果",
+        "onboard_time": 1709725293,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173884,
+        "num": 173884,
+        "word": "刘亦菲也够不着的男人",
+        "onboard_time": 1709707772,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 170427,
+        "num": 170427,
+        "word": "减少你的分享欲",
+        "onboard_time": 1709726430,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204772,
+        "num": 170211,
+        "word": "霉霉手机壳",
+        "onboard_time": 1709721273,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168347,
+        "num": 168347,
+        "word": "领证后激动到哭的男朋友",
+        "onboard_time": 1709726730,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55326,
+        "num": 166424,
+        "word": "从政府工作报告看中国经济新动力",
+        "onboard_time": 1709728350,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 207073,
+        "num": 166071,
+        "word": "阮经天 我们偶尔见",
+        "onboard_time": 1709728830,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183525,
+        "num": 165848,
+        "word": "为什么猫咪肚子有坨下垂的肉",
+        "onboard_time": 1709728954,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 165296,
+        "num": 165296,
+        "word": "桑延温以凡合体了",
+        "onboard_time": 1709710830,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152697,
+        "num": 152697,
+        "word": "seventeen仁川场",
+        "onboard_time": 1709725890,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152663,
+        "num": 152663,
+        "word": "陈晓新剧男友力爆棚",
+        "onboard_time": 1709727752,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150368,
+        "num": 150368,
+        "word": "为了带饭不洗碗能有多拼",
+        "onboard_time": 1709725411,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142845,
+        "num": 142845,
+        "word": "章若楠难哄去刘海",
+        "onboard_time": 1709728888,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135298,
+        "num": 135298,
+        "word": "二手口红谁在买",
+        "onboard_time": 1709723913,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 132223,
+        "num": 132223,
+        "word": "王鹤棣扭上了",
+        "onboard_time": 1709725530,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124772,
+        "num": 124772,
+        "word": "坐小车去看病的小狗",
+        "onboard_time": 1709728231,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123760,
+        "num": 123760,
+        "word": "外国人比中国人还信中国法术",
+        "onboard_time": 1709729010,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121821,
+        "num": 121821,
+        "word": "山东泰山横滨水手冲突",
+        "onboard_time": 1709728231,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121029,
+        "num": 121029,
+        "word": "蒋总真的快碎了",
+        "onboard_time": 1709728111,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119014,
+        "num": 119014,
+        "word": "俄乌局势新进展",
+        "onboard_time": 1709724929,
+        "rank": 44,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 113995,
+        "num": 113995,
+        "word": "骑有此理",
+        "onboard_time": 1709728771,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110668,
+        "num": 110668,
+        "word": "裁判",
+        "onboard_time": 1709729131,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107303,
+        "num": 107303,
+        "word": "其实大学生每天都吃一样的饭",
+        "onboard_time": 1709722351,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106488,
+        "num": 106488,
+        "word": "周冬雨与LV总监英语热聊",
+        "onboard_time": 1709717670,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 105625,
+        "num": 105625,
+        "word": "藏海花",
+        "onboard_time": 1709724209,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#两会上总书记这样谈人类命运共同体#"
+    }
+  }
+}
