@@ -1,0 +1,410 @@
+{
+  "runTime": 1709735636061,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1366107,
+        "num": 1366107,
+        "word": "超90%成年人体内潜伏带状疱疹病毒",
+        "onboard_time": 1709731652,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 627168,
+        "num": 627168,
+        "word": "喜茶光与夜之恋联名",
+        "onboard_time": 1709731711,
+        "rank": 1,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 92885,
+        "num": 626304,
+        "word": "九个新视角读懂未来机遇",
+        "onboard_time": 1709729131,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 777760,
+        "num": 624932,
+        "word": "代表反对让学生逢雨逢雪停课",
+        "onboard_time": 1709733451,
+        "rank": 3,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 386782,
+        "num": 623281,
+        "word": "建议鼓励生态安葬",
+        "onboard_time": 1709733273,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 734858,
+        "num": 622473,
+        "word": "女生千万要小心青纱帐",
+        "onboard_time": 1709727390,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 621519,
+        "num": 621519,
+        "word": "章若楠难哄去刘海",
+        "onboard_time": 1709728888,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 563233,
+        "num": 563233,
+        "word": "男生月薪一万一年存10万",
+        "onboard_time": 1709695294,
+        "rank": 7,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 416777,
+        "num": 416777,
+        "word": "酱园弄杀青了",
+        "onboard_time": 1709731652,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82300,
+        "num": 415613,
+        "word": "9图看政府工作报告里你关心的事",
+        "onboard_time": 1709728170,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 572139,
+        "num": 415504,
+        "word": "入职时工资低点不要紧",
+        "onboard_time": 1709733213,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 415269,
+        "num": 415269,
+        "word": "钟薛高售价从60元降到2.5元",
+        "onboard_time": 1709707169,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 386168,
+        "num": 386168,
+        "word": "杨幂北电考官",
+        "onboard_time": 1709712813,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363930,
+        "num": 363930,
+        "word": "真正抑郁症才有的9个样子",
+        "onboard_time": 1709707169,
+        "rank": 13,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 354369,
+        "num": 354369,
+        "word": "唐探2游乐园尺度",
+        "onboard_time": 1709734953,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352295,
+        "num": 352295,
+        "word": "家门口被放了五毛钱",
+        "onboard_time": 1709733933,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97716,
+        "num": 343102,
+        "word": "9代凯美瑞17.18万元起",
+        "onboard_time": 1709732432,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 336383,
+        "num": 336383,
+        "word": "陈情令旅游专线",
+        "onboard_time": 1709728170,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292761,
+        "num": 292761,
+        "word": "外国人比中国人还信中国法术",
+        "onboard_time": 1709729010,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291787,
+        "num": 291787,
+        "word": "6科室6天6夜成功救回羊水栓塞产妇",
+        "onboard_time": 1709733814,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280091,
+        "num": 280091,
+        "word": "张文宏谈为何这个冬天一直生病",
+        "onboard_time": 1709724090,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 269748,
+        "num": 269748,
+        "word": "浪姐5一公分组",
+        "onboard_time": 1709718033,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243470,
+        "num": 243470,
+        "word": "当领导让00后准备下午茶",
+        "onboard_time": 1709734771,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234291,
+        "num": 234291,
+        "word": "阮经天 我们偶尔见",
+        "onboard_time": 1709728830,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232399,
+        "num": 232399,
+        "word": "白鹿给自己化的妆",
+        "onboard_time": 1709733451,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225053,
+        "num": 225053,
+        "word": "工资不高房价却很高的城市",
+        "onboard_time": 1709701172,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218754,
+        "num": 218754,
+        "word": "周也冷脸白花",
+        "onboard_time": 1709730212,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218157,
+        "num": 218157,
+        "word": "裁判",
+        "onboard_time": 1709729131,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204928,
+        "num": 204928,
+        "word": "以前讨厌现在却真香的食物",
+        "onboard_time": 1709732853,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196020,
+        "num": 196020,
+        "word": "同事在工位上养水果",
+        "onboard_time": 1709725293,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222158,
+        "num": 191955,
+        "word": "查出甲状腺结节先别慌",
+        "onboard_time": 1709733873,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217075,
+        "num": 189795,
+        "word": "鲍蕾晒两个女儿跳舞视频",
+        "onboard_time": 1709735253,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182481,
+        "num": 182481,
+        "word": "你们这届浪姐有点东西",
+        "onboard_time": 1709732372,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179672,
+        "num": 179672,
+        "word": "如何把上班时间用到极致",
+        "onboard_time": 1709734533,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170947,
+        "num": 170947,
+        "word": "阮经天弟弟",
+        "onboard_time": 1709724450,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165474,
+        "num": 165474,
+        "word": "减少你的分享欲",
+        "onboard_time": 1709726430,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160845,
+        "num": 160845,
+        "word": "难哄还原度",
+        "onboard_time": 1709731589,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146960,
+        "num": 146960,
+        "word": "为什么猫咪肚子有坨下垂的肉",
+        "onboard_time": 1709728954,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 118869,
+        "num": 144445,
+        "word": "杨鸣回归开门红",
+        "onboard_time": 1709734655,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111186,
+        "num": 143434,
+        "word": "90后父母开始用AI哄孩子",
+        "onboard_time": 1709731833,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143294,
+        "num": 143294,
+        "word": "京东2023年全年收入10847亿元",
+        "onboard_time": 1709735131,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127365,
+        "num": 127365,
+        "word": "鹿晗队长合作新歌",
+        "onboard_time": 1709732012,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122235,
+        "num": 122235,
+        "word": "霉霉手机壳",
+        "onboard_time": 1709721273,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121532,
+        "num": 121532,
+        "word": "县城咖啡日出1600杯",
+        "onboard_time": 1709731352,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119451,
+        "num": 119451,
+        "word": "下班了怎么还是好累",
+        "onboard_time": 1709733213,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119207,
+        "num": 119207,
+        "word": "靳东再次谈及假靳东事件",
+        "onboard_time": 1709734353,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117627,
+        "num": 117627,
+        "word": "祁煜 悄悄把手伸出海面",
+        "onboard_time": 1709734414,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115678,
+        "num": 115678,
+        "word": "江疏影春日桃花妆",
+        "onboard_time": 1709734474,
+        "rank": 47,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 104399,
+        "num": 104399,
+        "word": "杨鸣回归",
+        "onboard_time": 1709726309,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90913,
+        "num": 96860,
+        "word": "程序员下班做偶像",
+        "onboard_time": 1709735554,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望政协委员#"
+    }
+  }
+}

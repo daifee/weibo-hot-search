@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709734534032,
+  "endTime": 1709735636061,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -563,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1366107,
+      "num": 1366107,
+      "word": "超90%成年人体内潜伏带状疱疹病毒",
+      "onboard_time": 1709731652,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1364146,
       "num": 1220577,
       "word": "HPV感染就像生殖道经历一场感冒",
@@ -1035,14 +1043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1037227,
-      "num": 1037227,
-      "word": "超90%成年人体内潜伏带状疱疹病毒",
-      "onboard_time": 1709731652,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 1029181,
       "num": 1029181,
       "word": "吴艳妮2024首秀8秒12",
@@ -1068,7 +1068,7 @@
     },
     {
       "raw_hot": 1018518,
-      "num": 606893,
+      "num": 622473,
       "word": "女生千万要小心青纱帐",
       "onboard_time": 1709727390,
       "rank": 24,
@@ -1721,6 +1721,14 @@
       "onboard_time": 1709363011,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 777760,
+      "num": 624932,
+      "word": "代表反对让学生逢雨逢雪停课",
+      "onboard_time": 1709733451,
+      "rank": 11,
+      "category": "国内时政,教育"
     },
     {
       "raw_hot": 773694,
@@ -2603,12 +2611,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 627168,
+      "num": 627168,
+      "word": "喜茶光与夜之恋联名",
+      "onboard_time": 1709731711,
+      "rank": 19,
+      "category": "美食,游戏"
+    },
+    {
       "raw_hot": 622090,
       "num": 294029,
       "word": "iPad什么时候出",
       "onboard_time": 1709562576,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 621519,
+      "num": 621519,
+      "word": "章若楠难哄去刘海",
+      "onboard_time": 1709728888,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 620533,
@@ -3123,14 +3147,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 550479,
-      "num": 550479,
-      "word": "喜茶光与夜之恋联名",
-      "onboard_time": 1709731711,
-      "rank": 19,
-      "category": "美食,游戏"
-    },
-    {
       "raw_hot": 550003,
       "num": 335289,
       "word": "狗 别订蛋糕了我吃饱了",
@@ -3537,14 +3553,6 @@
       "onboard_time": 1709346931,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 499773,
-      "num": 499773,
-      "word": "章若楠难哄去刘海",
-      "onboard_time": 1709728888,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 499752,
@@ -4227,14 +4235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 438881,
-      "num": 438881,
-      "word": "代表反对让学生逢雨逢雪停课",
-      "onboard_time": 1709733451,
-      "rank": 11,
-      "category": "国内时政,教育"
-    },
-    {
       "raw_hot": 438719,
       "num": 438719,
       "word": "章若楠的假发有四斤多重",
@@ -4851,6 +4851,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 386782,
+      "num": 623281,
+      "word": "建议鼓励生态安葬",
+      "onboard_time": 1709733273,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 385666,
       "num": 304262,
       "word": "王一博世趋排名",
@@ -5315,6 +5323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 354369,
+      "num": 354369,
+      "word": "唐探2游乐园尺度",
+      "onboard_time": 1709734953,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 354066,
       "num": 327783,
       "word": "王一博报童帽造型",
@@ -5377,6 +5393,14 @@
       "onboard_time": 1709533110,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 352295,
+      "num": 352295,
+      "word": "家门口被放了五毛钱",
+      "onboard_time": 1709733933,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 352162,
@@ -6451,6 +6475,14 @@
       "category": "艺人,健康医疗"
     },
     {
+      "raw_hot": 291787,
+      "num": 291787,
+      "word": "6科室6天6夜成功救回羊水栓塞产妇",
+      "onboard_time": 1709733814,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291640,
       "num": 291640,
       "word": "久坐不动的人有福了",
@@ -6793,14 +6825,6 @@
       "onboard_time": 1709291913,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 273347,
-      "num": 606548,
-      "word": "建议鼓励生态安葬",
-      "onboard_time": 1709733273,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 272693,
@@ -7563,6 +7587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 243470,
+      "num": 243470,
+      "word": "当领导让00后准备下午茶",
+      "onboard_time": 1709734771,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242555,
       "num": 242555,
       "word": "守护甜心 几斗太甜了",
@@ -7803,14 +7835,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 234666,
-      "num": 234666,
-      "word": "家门口被放了五毛钱",
-      "onboard_time": 1709733933,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 234292,
       "num": 234292,
       "word": "张予曦好像手办娃娃",
@@ -7849,6 +7873,14 @@
       "onboard_time": 1709553573,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232399,
+      "num": 232399,
+      "word": "白鹿给自己化的妆",
+      "onboard_time": 1709733451,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 231577,
@@ -8027,14 +8059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225367,
-      "num": 225367,
-      "word": "白鹿给自己化的妆",
-      "onboard_time": 1709733451,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 225307,
       "num": 225307,
       "word": "迪丽热巴捧泡泡",
@@ -8113,6 +8137,14 @@
       "onboard_time": 1709705131,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222158,
+      "num": 191955,
+      "word": "查出甲状腺结节先别慌",
+      "onboard_time": 1709733873,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 222029,
@@ -8297,6 +8329,14 @@
       "onboard_time": 1709312486,
       "rank": 8,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 217075,
+      "num": 189795,
+      "word": "鲍蕾晒两个女儿跳舞视频",
+      "onboard_time": 1709735253,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 216913,
@@ -8937,6 +8977,14 @@
       "onboard_time": 1709557232,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204928,
+      "num": 204928,
+      "word": "以前讨厌现在却真香的食物",
+      "onboard_time": 1709732853,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 204815,
@@ -9601,14 +9649,6 @@
       "onboard_time": 1709645010,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 194822,
-      "num": 194822,
-      "word": "以前讨厌现在却真香的食物",
-      "onboard_time": 1709732853,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 194746,
@@ -10539,6 +10579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179672,
+      "num": 179672,
+      "word": "如何把上班时间用到极致",
+      "onboard_time": 1709734533,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179668,
       "num": 179668,
       "word": "黄奕比心全智贤",
@@ -11025,14 +11073,6 @@
       "onboard_time": 1709385935,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 170302,
-      "num": 170302,
-      "word": "查出甲状腺结节先别慌",
-      "onboard_time": 1709733873,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 170288,
@@ -12427,14 +12467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 150272,
-      "num": 194620,
-      "word": "6科室6天6夜成功救回羊水栓塞产妇",
-      "onboard_time": 1709733814,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150241,
       "num": 150241,
       "word": "刘亦菲前往巴黎",
@@ -12945,6 +12977,14 @@
       "onboard_time": 1709393493,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143294,
+      "num": 143294,
+      "word": "京东2023年全年收入10847亿元",
+      "onboard_time": 1709735131,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 143226,
@@ -14739,20 +14779,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119207,
+      "num": 119207,
+      "word": "靳东再次谈及假靳东事件",
+      "onboard_time": 1709734353,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119172,
       "num": 119172,
       "word": "XYG泽泽转战决胜巅峰",
       "onboard_time": 1709299053,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 119148,
-      "num": 119148,
-      "word": "靳东再次谈及假靳东事件",
-      "onboard_time": 1709734353,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 119089,
@@ -14785,6 +14825,14 @@
       "onboard_time": 1709724929,
       "rank": 41,
       "category": "军事"
+    },
+    {
+      "raw_hot": 118869,
+      "num": 144445,
+      "word": "杨鸣回归开门红",
+      "onboard_time": 1709734655,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 118721,
@@ -14841,6 +14889,14 @@
       "onboard_time": 1709471610,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117627,
+      "num": 117627,
+      "word": "祁煜 悄悄把手伸出海面",
+      "onboard_time": 1709734414,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 117607,
@@ -15001,6 +15057,14 @@
       "onboard_time": 1709277212,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115678,
+      "num": 115678,
+      "word": "江疏影春日桃花妆",
+      "onboard_time": 1709734474,
+      "rank": 48,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 115517,
@@ -15371,14 +15435,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 108499,
-      "num": 108499,
-      "word": "祁煜 悄悄把手伸出海面",
-      "onboard_time": 1709734414,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 108425,
       "num": 108425,
       "word": "死亡笔记画风永不过时",
@@ -15449,14 +15505,6 @@
       "onboard_time": 1709730331,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107109,
-      "num": 107109,
-      "word": "江疏影春日桃花妆",
-      "onboard_time": 1709734474,
-      "rank": 48,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 107075,
@@ -15724,7 +15772,7 @@
     },
     {
       "raw_hot": 101617,
-      "num": 607164,
+      "num": 626304,
       "word": "九个新视角读懂未来机遇",
       "onboard_time": 1709729131,
       "rank": 2,
@@ -15764,7 +15812,7 @@
     },
     {
       "raw_hot": 98779,
-      "num": 303994,
+      "num": 343102,
       "word": "9代凯美瑞17.18万元起",
       "onboard_time": 1709732432,
       "rank": 18,
@@ -16009,6 +16057,14 @@
       "onboard_time": 1709211453,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90913,
+      "num": 96860,
+      "word": "程序员下班做偶像",
+      "onboard_time": 1709735554,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90319,
