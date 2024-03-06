@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709729182033,
+  "endTime": 1709731132546,
   "band_list": [
     {
       "raw_hot": 3203010,
@@ -1123,6 +1123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 781046,
+      "num": 402517,
+      "word": "女生千万要小心青纱帐",
+      "onboard_time": 1709727390,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 772261,
       "num": 378406,
       "word": "刘亦菲谷爱凌坐一起",
@@ -1476,7 +1484,7 @@
     },
     {
       "raw_hot": 666537,
-      "num": 328710,
+      "num": 339384,
       "word": "阮经天弟弟",
       "onboard_time": 1709724450,
       "rank": 19,
@@ -1995,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553719,
+      "num": 355251,
+      "word": "陈情令旅游专线",
+      "onboard_time": 1709728170,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 552572,
       "num": 552572,
       "word": "桃花坞嘉宾",
@@ -2436,7 +2452,7 @@
     },
     {
       "raw_hot": 475517,
-      "num": 366159,
+      "num": 390184,
       "word": "30岁单身女性不想结婚只想买房",
       "onboard_time": 1709721089,
       "rank": 39,
@@ -2955,20 +2971,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 406414,
-      "num": 299439,
-      "word": "陈情令旅游专线",
-      "onboard_time": 1709728170,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 406199,
       "num": 317875,
       "word": "刘忻 选秀初恋",
       "onboard_time": 1709613095,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 405621,
+      "num": 405621,
+      "word": "张文宏谈为何这个冬天一直生病",
+      "onboard_time": 1709724090,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 405351,
@@ -3331,6 +3347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 363118,
+      "num": 363118,
+      "word": "山东泰山1比2横滨水手",
+      "onboard_time": 1709727330,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 363068,
       "num": 363068,
       "word": "多部门建议支持大龄女性生育力保存",
@@ -3377,14 +3401,6 @@
       "onboard_time": 1709647897,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358148,
-      "num": 358148,
-      "word": "山东泰山1比2横滨水手",
-      "onboard_time": 1709727330,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 357674,
@@ -3489,6 +3505,14 @@
       "onboard_time": 1709533110,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 352265,
+      "num": 263896,
+      "word": "阮经天 我们偶尔见",
+      "onboard_time": 1709728830,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 352162,
@@ -3699,6 +3723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329520,
+      "num": 214094,
+      "word": "章若楠难哄去刘海",
+      "onboard_time": 1709728888,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329314,
       "num": 329314,
       "word": "建议实施10年义务教育",
@@ -3777,22 +3809,6 @@
       "onboard_time": 1709684853,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 321277,
-      "num": 283626,
-      "word": "女生千万要小心青纱帐",
-      "onboard_time": 1709727390,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 321016,
-      "num": 321016,
-      "word": "张文宏谈为何这个冬天一直生病",
-      "onboard_time": 1709724090,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 320038,
@@ -4371,6 +4387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277183,
+      "num": 277183,
+      "word": "周也冷脸白花",
+      "onboard_time": 1709730212,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 277013,
       "num": 277013,
       "word": "2023年经济社会发展主要目标任务圆满完成",
@@ -4553,6 +4577,14 @@
       "onboard_time": 1709447249,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265258,
+      "num": 265258,
+      "word": "裁判",
+      "onboard_time": 1709729131,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 264907,
@@ -5571,6 +5603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215776,
+      "num": 215776,
+      "word": "外国人比中国人还信中国法术",
+      "onboard_time": 1709729010,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215565,
       "num": 215565,
       "word": "世界之外排行榜",
@@ -5715,6 +5755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 212001,
+      "num": 212001,
+      "word": "减少你的分享欲",
+      "onboard_time": 1709726430,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211926,
       "num": 252873,
       "word": "欧豪叫詹姆斯老头儿",
@@ -5803,6 +5851,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 208028,
+      "num": 208028,
+      "word": "为什么猫咪肚子有坨下垂的肉",
+      "onboard_time": 1709728954,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 207929,
       "num": 207929,
       "word": "代表呼吁医院检查结果共享互认",
@@ -5848,14 +5904,6 @@
       "word": "宋亚轩谢谢刘耀文的陪伴",
       "onboard_time": 1709558913,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 207073,
-      "num": 166071,
-      "word": "阮经天 我们偶尔见",
-      "onboard_time": 1709728830,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -6169,6 +6217,14 @@
       "onboard_time": 1709554712,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199089,
+      "num": 199089,
+      "word": "9代凯美瑞",
+      "onboard_time": 1709729970,
+      "rank": 25,
+      "category": "汽车"
     },
     {
       "raw_hot": 198178,
@@ -6731,12 +6787,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183525,
-      "num": 165848,
-      "word": "为什么猫咪肚子有坨下垂的肉",
-      "onboard_time": 1709728954,
-      "rank": 32,
-      "category": "科学科普"
+      "raw_hot": 183367,
+      "num": 183367,
+      "word": "领证后激动到哭的男朋友",
+      "onboard_time": 1709726730,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 183006,
@@ -7139,14 +7195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 172609,
-      "num": 172609,
-      "word": "领证后激动到哭的男朋友",
-      "onboard_time": 1709726730,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 172283,
       "num": 172283,
       "word": "Minnie MiuMiu秀场中文问候",
@@ -7209,14 +7257,6 @@
       "onboard_time": 1709554773,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 170427,
-      "num": 170427,
-      "word": "减少你的分享欲",
-      "onboard_time": 1709726430,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 170362,
@@ -7537,6 +7577,14 @@
       "onboard_time": 1709708969,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162636,
+      "num": 162636,
+      "word": "陈晓新剧男友力爆棚",
+      "onboard_time": 1709727752,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 162590,
@@ -8043,14 +8091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152663,
-      "num": 152663,
-      "word": "陈晓新剧男友力爆棚",
-      "onboard_time": 1709727752,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152618,
       "num": 152618,
       "word": "你买过反季衣服吗",
@@ -8547,14 +8587,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 142845,
-      "num": 142845,
-      "word": "章若楠难哄去刘海",
-      "onboard_time": 1709728888,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142719,
       "num": 142719,
       "word": "刘诗诗掌心新妆造",
@@ -8585,6 +8617,14 @@
       "onboard_time": 1709469211,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141994,
+      "num": 169493,
+      "word": "陈蒲补时破门",
+      "onboard_time": 1709730030,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 141661,
@@ -8908,7 +8948,7 @@
     },
     {
       "raw_hot": 136388,
-      "num": 318043,
+      "num": 356902,
       "word": "9图看政府工作报告里你关心的事",
       "onboard_time": 1709728170,
       "rank": 45,
@@ -9131,6 +9171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130969,
+      "num": 130969,
+      "word": "腾势D9",
+      "onboard_time": 1709729851,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 130936,
       "num": 130936,
       "word": "陶喆演唱会大合唱的魅力",
@@ -9185,6 +9233,14 @@
       "onboard_time": 1709633250,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130021,
+      "num": 130021,
+      "word": "蒋总真的快碎了",
+      "onboard_time": 1709728111,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 130011,
@@ -9539,20 +9595,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123760,
-      "num": 123760,
-      "word": "外国人比中国人还信中国法术",
-      "onboard_time": 1709729010,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 123602,
       "num": 123602,
       "word": "别对我动心 爱人错过",
       "onboard_time": 1709428469,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123359,
+      "num": 123359,
+      "word": "黑执事寄宿学校篇",
+      "onboard_time": 1709729970,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 123257,
@@ -9721,14 +9777,6 @@
       "onboard_time": 1709535331,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 121029,
-      "num": 121029,
-      "word": "蒋总真的快碎了",
-      "onboard_time": 1709728111,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 119520,
@@ -10083,20 +10131,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 110668,
-      "num": 110668,
-      "word": "裁判",
-      "onboard_time": 1709729131,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110127,
       "num": 110127,
       "word": "小小年纪就会闪现了",
       "onboard_time": 1709714128,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110029,
+      "num": 110029,
+      "word": "半熟恋人3",
+      "onboard_time": 1709729371,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 109789,
@@ -10139,6 +10187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107201,
+      "num": 107201,
+      "word": "如何评价约旦主裁判罚",
+      "onboard_time": 1709730331,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107075,
       "num": 107075,
       "word": "外交部回应外籍人员移动支付难问题",
@@ -10169,6 +10225,14 @@
       "onboard_time": 1709440828,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 106508,
+      "num": 106508,
+      "word": "你在冬天容易生病吗",
+      "onboard_time": 1709731110,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 106396,
@@ -10257,6 +10321,14 @@
       "onboard_time": 1709507665,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103984,
+      "num": 103984,
+      "word": "拉面长度是石头决定的",
+      "onboard_time": 1709729792,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 103733,
@@ -10425,6 +10497,14 @@
       "onboard_time": 1709464713,
       "rank": 19,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 94781,
+      "num": 403734,
+      "word": "九个新视角读懂未来机遇",
+      "onboard_time": 1709729131,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 94627,
@@ -11075,14 +11155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29815,
-      "num": 391428,
-      "word": "九个新视角读懂未来机遇",
-      "onboard_time": 1709729131,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 29063,
       "num": 58917,
       "word": "2024F1巴林大奖赛",
@@ -11419,6 +11491,9 @@
     },
     {
       "word": "#两会上总书记这样谈人类命运共同体#"
+    },
+    {
+      "word": "#习近平向全国各族各界妇女致以节日祝贺#"
     }
   ]
 }
