@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709713375321,
+  "endTime": 1709714148999,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -595,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1334383,
+      "num": 247395,
+      "word": "杨幂北电考官",
+      "onboard_time": 1709712813,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1319841,
       "num": 1319841,
       "word": "为何说今年是十四五的关键一年",
@@ -916,7 +924,7 @@
     },
     {
       "raw_hot": 1094112,
-      "num": 246846,
+      "num": 247335,
       "word": "小杨哥跌出带货榜前20",
       "onboard_time": 1709709272,
       "rank": 47,
@@ -2668,7 +2676,7 @@
     },
     {
       "raw_hot": 601145,
-      "num": 245120,
+      "num": 247219,
       "word": "闺蜜搬家叫了一个7米6的车",
       "onboard_time": 1709708312,
       "rank": 31,
@@ -3641,14 +3649,6 @@
       "onboard_time": 1709626595,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 479458,
-      "num": 243037,
-      "word": "杨幂北电考官",
-      "onboard_time": 1709712813,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 477435,
@@ -4988,7 +4988,7 @@
     },
     {
       "raw_hot": 362889,
-      "num": 242073,
+      "num": 247016,
       "word": "秦岚申请当胡先煦站姐",
       "onboard_time": 1709710054,
       "rank": 31,
@@ -6460,7 +6460,7 @@
     },
     {
       "raw_hot": 274953,
-      "num": 239855,
+      "num": 246953,
       "word": "Irene姐的神级七秒美貌",
       "onboard_time": 1709710412,
       "rank": 44,
@@ -6523,8 +6523,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 271506,
-      "num": 238269,
+      "raw_hot": 271693,
+      "num": 246897,
       "word": "黄景瑜南京",
       "onboard_time": 1709712453,
       "rank": 20,
@@ -6956,7 +6956,7 @@
     },
     {
       "raw_hot": 253004,
-      "num": 235999,
+      "num": 246731,
       "word": "要不要为了男朋友放弃offer",
       "onboard_time": 1709709754,
       "rank": 23,
@@ -7025,6 +7025,14 @@
       "onboard_time": 1709622995,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 250475,
+      "num": 250475,
+      "word": "傅若清称肖战等演员的演绎让人眼前一亮",
+      "onboard_time": 1709712093,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 250264,
@@ -8755,6 +8763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201086,
+      "num": 201086,
+      "word": "眼影的成分能安全上嘴吗",
+      "onboard_time": 1709713353,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 200954,
       "num": 200954,
       "word": "特斯拉股价大跌7.16%",
@@ -9419,6 +9435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189199,
+      "num": 183156,
+      "word": "钟薛高被执行81万元",
+      "onboard_time": 1709713293,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189139,
       "num": 189139,
       "word": "原来小时候就懂电子ootd",
@@ -9705,6 +9729,14 @@
       "onboard_time": 1709370212,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 183052,
+      "num": 183052,
+      "word": "祁煜直播",
+      "onboard_time": 1709713952,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 183006,
@@ -10177,14 +10209,6 @@
       "onboard_time": 1709287172,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 175845,
-      "num": 175845,
-      "word": "傅若清称肖战等演员的演绎让人眼前一亮",
-      "onboard_time": 1709712093,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 175703,
@@ -13123,6 +13147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130707,
+      "num": 130707,
+      "word": "装忙比真忙还累",
+      "onboard_time": 1709713472,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130212,
       "num": 130212,
       "word": "新疆乌什县4.7级地震",
@@ -13523,20 +13555,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 125384,
+      "num": 125384,
+      "word": "短剧演员",
+      "onboard_time": 1709713890,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 125061,
       "num": 125061,
       "word": "唐人街探案",
       "onboard_time": 1709208936,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124750,
-      "num": 124750,
-      "word": "眼影的成分能安全上嘴吗",
-      "onboard_time": 1709713353,
-      "rank": 39,
-      "category": "美妆"
     },
     {
       "raw_hot": 124747,
@@ -13769,6 +13801,14 @@
       "onboard_time": 1709429370,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 121634,
+      "num": 121634,
+      "word": "建议老旧小区设规范电瓶车充电区域",
+      "onboard_time": 1709712632,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 121621,
@@ -14267,14 +14307,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 113205,
-      "num": 113205,
-      "word": "钟薛高被执行81万元",
-      "onboard_time": 1709713293,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113038,
       "num": 113038,
       "word": "eStar掉落B组",
@@ -14419,20 +14451,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110127,
+      "num": 110127,
+      "word": "小小年纪就会闪现了",
+      "onboard_time": 1709714128,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109789,
       "num": 109789,
       "word": "创造营亚洲",
       "onboard_time": 1709444130,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109543,
-      "num": 109543,
-      "word": "建议老旧小区设规范电瓶车充电区域",
-      "onboard_time": 1709712632,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 109229,
@@ -16331,6 +16363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 9416,
+      "num": 768285,
+      "word": "两会数读中国",
+      "onboard_time": 1709632235,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 8947,
       "num": 15242,
       "word": "夫妇深夜潜入医院留几十箱苹果感谢",
@@ -16369,14 +16409,6 @@
       "onboard_time": 1709293592,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 8561,
-      "num": 768285,
-      "word": "两会数读中国",
-      "onboard_time": 1709632235,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6836,
