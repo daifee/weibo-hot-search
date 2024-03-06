@@ -1,6 +1,6 @@
 {
   "startTime": 1709655654688,
-  "endTime": 1709703290546,
+  "endTime": 1709706230871,
   "band_list": [
     {
       "raw_hot": 3203010,
@@ -27,6 +27,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1460846,
+      "num": 389378,
+      "word": "工资不高房价却很高的城市",
+      "onboard_time": 1709701172,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1376489,
       "num": 415061,
       "word": "彩礼是对女性的生育补偿吗",
@@ -51,20 +59,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 1178860,
+      "num": 1178860,
+      "word": "建议公务员招录取缔职业院校生歧视政策",
+      "onboard_time": 1709700695,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1135872,
       "num": 1135872,
       "word": "140万买的230平房子",
       "onboard_time": 1709648496,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1125048,
-      "num": 389378,
-      "word": "工资不高房价却很高的城市",
-      "onboard_time": 1709701172,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1101093,
@@ -80,14 +88,6 @@
       "word": "中青报评霍启刚建议引热议",
       "onboard_time": 1709683051,
       "rank": 0,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 1086934,
-      "num": 1086934,
-      "word": "建议公务员招录取缔职业院校生歧视政策",
-      "onboard_time": 1709700695,
-      "rank": 1,
       "category": "国内时政"
     },
     {
@@ -257,6 +257,14 @@
       "onboard_time": 1709694331,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 563319,
+      "num": 292937,
+      "word": "ICU医生称见过生死仍看不透死亡",
+      "onboard_time": 1709703093,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 543935,
@@ -467,6 +475,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 369786,
+      "num": 298173,
+      "word": "杨紫金色高定",
+      "onboard_time": 1709702851,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 361061,
+      "num": 361061,
+      "word": "多部门建议支持大龄女性生育力保存",
+      "onboard_time": 1709701235,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 357674,
       "num": 357674,
       "word": "最新研究找到熬夜致癌原因",
@@ -499,6 +523,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 350686,
+      "num": 350686,
+      "word": "建议以家庭为单位征税",
+      "onboard_time": 1709704832,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 345475,
       "num": 288709,
       "word": "女子将男友30多只鞋子从35楼扔下",
@@ -515,20 +547,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 333194,
-      "num": 298173,
-      "word": "杨紫金色高定",
-      "onboard_time": 1709702851,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 332826,
       "num": 209843,
       "word": "相亲当晚女生发来开销账单",
       "onboard_time": 1709650597,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 330281,
+      "num": 227798,
+      "word": "不建议频繁涂抹润唇膏",
+      "onboard_time": 1709702669,
+      "rank": 26,
+      "category": "美妆"
     },
     {
       "raw_hot": 322258,
@@ -571,6 +603,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 303234,
+      "num": 169901,
+      "word": "84岁的爷爷一早上挣了500",
+      "onboard_time": 1709703694,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 297528,
       "num": 211763,
       "word": "已经生娃可能还会检测出已怀孕",
@@ -601,14 +641,6 @@
       "onboard_time": 1709647897,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272564,
-      "num": 272564,
-      "word": "多部门建议支持大龄女性生育力保存",
-      "onboard_time": 1709701235,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 269829,
@@ -675,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252391,
+      "num": 222941,
+      "word": "不能给你800元是因为我真的有",
+      "onboard_time": 1709705610,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 251378,
       "num": 251378,
       "word": "魏大勋撑伞路透",
@@ -723,14 +763,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 227798,
-      "num": 227798,
-      "word": "不建议频繁涂抹润唇膏",
-      "onboard_time": 1709702669,
-      "rank": 26,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 227651,
       "num": 227651,
       "word": "iOS17.4改进电池健康报告",
@@ -739,12 +771,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 224755,
+      "num": 224755,
+      "word": "模仿迪丽热巴天使蹲易受伤",
+      "onboard_time": 1709705131,
+      "rank": 19,
+      "category": "艺人,健康医疗"
+    },
+    {
       "raw_hot": 224137,
       "num": 320865,
       "word": "射雕英雄传侠之大者计划全球发行",
       "onboard_time": 1709650955,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 223652,
+      "num": 166775,
+      "word": "TikTok回应美议员要求165天内剥离字节跳动",
+      "onboard_time": 1709705071,
+      "rank": 31,
+      "category": "互联网,国外时政"
+    },
+    {
+      "raw_hot": 222505,
+      "num": 222505,
+      "word": "杜兰特掀翻掘金",
+      "onboard_time": 1709705131,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 218191,
@@ -785,6 +841,22 @@
       "onboard_time": 1709683953,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 214239,
+      "num": 214239,
+      "word": "南京大屠杀幸存者陈桂香去世",
+      "onboard_time": 1709704713,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213935,
+      "num": 213935,
+      "word": "王鹤棣是一点也不内耗",
+      "onboard_time": 1709703034,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 212740,
@@ -1107,6 +1179,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158833,
+      "num": 158833,
+      "word": "张杰演唱会上海站即将开售",
+      "onboard_time": 1709703332,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 158520,
+      "num": 158520,
+      "word": "孙怡芭比妆",
+      "onboard_time": 1709704110,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157869,
       "num": 336222,
       "word": "徐克射雕英雄传正在后期制作",
@@ -1163,11 +1251,35 @@
       "category": "电影"
     },
     {
+      "raw_hot": 153797,
+      "num": 153797,
+      "word": "杨鸣回归辽篮执教首秀",
+      "onboard_time": 1709704891,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153432,
       "num": 175216,
       "word": "浙江一家祖孙三代接力从军",
       "onboard_time": 1709690909,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152345,
+      "num": 152345,
+      "word": "广东回南天孩子淡定撑伞睡觉",
+      "onboard_time": 1709704649,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151291,
+      "num": 151291,
+      "word": "996每月超过法定工作时间近120小时",
+      "onboard_time": 1709705252,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -1201,14 +1313,6 @@
       "onboard_time": 1709649996,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142342,
-      "num": 142342,
-      "word": "王鹤棣是一点也不内耗",
-      "onboard_time": 1709703034,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 141144,
@@ -1249,14 +1353,6 @@
       "onboard_time": 1709628212,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 138175,
-      "num": 138175,
-      "word": "ICU医生称见过生死仍看不透死亡",
-      "onboard_time": 1709703093,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 137759,
@@ -1313,6 +1409,14 @@
       "onboard_time": 1709697274,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126601,
+      "num": 126601,
+      "word": "美国埋下的核恶魔将被放出",
+      "onboard_time": 1709706091,
+      "rank": 43,
+      "category": "国外时政,科学科普"
     },
     {
       "raw_hot": 125203,
