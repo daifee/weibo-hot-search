@@ -1,0 +1,410 @@
+{
+  "runTime": 1709768032307,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1104251,
+        "num": 1104251,
+        "word": "建议国家全面禁止未成年人网游",
+        "onboard_time": 1709737653,
+        "rank": 0,
+        "category": "国内时政,游戏"
+      },
+      {
+        "raw_hot": 519486,
+        "num": 519486,
+        "word": "00后小伙被骗缅甸每天工作17小时",
+        "onboard_time": 1709748918,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41614,
+        "num": 491569,
+        "word": "从政府工作报告看中国经济新动力",
+        "onboard_time": 1709728350,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 830198,
+        "num": 490796,
+        "word": "代表反对让学生逢雨逢雪停课",
+        "onboard_time": 1709733451,
+        "rank": 3,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 482220,
+        "num": 482220,
+        "word": "胡兵预言成真",
+        "onboard_time": 1709765660,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450424,
+        "num": 450424,
+        "word": "回南天取快递 像到了天庭",
+        "onboard_time": 1709736873,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328131,
+        "num": 328131,
+        "word": "家门口被放了五毛钱",
+        "onboard_time": 1709733933,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 321949,
+        "num": 321949,
+        "word": "唐探2游乐园尺度",
+        "onboard_time": 1709734953,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243795,
+        "num": 243795,
+        "word": "章若楠难哄去刘海",
+        "onboard_time": 1709728888,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223391,
+        "num": 223391,
+        "word": "钟薛高多平台账号停更",
+        "onboard_time": 1709752877,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 697970,
+        "num": 222952,
+        "word": "男员工误入女厕10秒被解雇",
+        "onboard_time": 1709739753,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252434,
+        "num": 221072,
+        "word": "夏克立自曝人身安全受威胁",
+        "onboard_time": 1709752036,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216664,
+        "num": 216664,
+        "word": "魏大勋神级4秒镜头",
+        "onboard_time": 1709739273,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213871,
+        "num": 213871,
+        "word": "减少你的分享欲",
+        "onboard_time": 1709726430,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212784,
+        "num": 212784,
+        "word": "女生千万要小心青纱帐",
+        "onboard_time": 1709727390,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165199,
+        "num": 165199,
+        "word": "以前讨厌现在却真香的食物",
+        "onboard_time": 1709732853,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160528,
+        "num": 160528,
+        "word": "全网嘴替史铁生",
+        "onboard_time": 1709764881,
+        "rank": 16,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 144239,
+        "num": 144239,
+        "word": "6科室6天6夜成功救回羊水栓塞产妇",
+        "onboard_time": 1709733814,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129832,
+        "num": 129832,
+        "word": "回南天秘方5分钟内地面全干了",
+        "onboard_time": 1709762475,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119297,
+        "num": 119297,
+        "word": "钟薛高售价从60元降到2.5元",
+        "onboard_time": 1709707169,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150134,
+        "num": 116933,
+        "word": "女子被鸡啄伤送进ICU抢救2个月",
+        "onboard_time": 1709747779,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131740,
+        "num": 112418,
+        "word": "小杨哥们出海外国人的钱好赚吗",
+        "onboard_time": 1709767466,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 106973,
+        "num": 106973,
+        "word": "程序员下班做偶像",
+        "onboard_time": 1709735554,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106220,
+        "num": 106220,
+        "word": "人的气运和磁场真的太重要了",
+        "onboard_time": 1709767526,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96816,
+        "num": 96816,
+        "word": "iPhone16渲染图",
+        "onboard_time": 1709767404,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92856,
+        "num": 92856,
+        "word": "工资不高房价却很高的城市",
+        "onboard_time": 1709701172,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88023,
+        "num": 88023,
+        "word": "你猜为什么我们认识却不是好友",
+        "onboard_time": 1709767166,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85093,
+        "num": 85093,
+        "word": "杨幂北电考官",
+        "onboard_time": 1709712813,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84512,
+        "num": 84512,
+        "word": "单身女生买公寓可行吗",
+        "onboard_time": 1709767346,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81701,
+        "num": 81701,
+        "word": "被炸鸡店喂的胖胖的流浪猫",
+        "onboard_time": 1709736813,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138656,
+        "num": 81651,
+        "word": "为什么退烧没几天又发烧了",
+        "onboard_time": 1709767224,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112316,
+        "num": 81368,
+        "word": "B太打假代购护肤品",
+        "onboard_time": 1709767586,
+        "rank": 31,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 82288,
+        "num": 81057,
+        "word": "Ale喊话Uzi",
+        "onboard_time": 1709767766,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79653,
+        "num": 79653,
+        "word": "建议鼓励生态安葬",
+        "onboard_time": 1709733273,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77698,
+        "num": 77698,
+        "word": "京东涨近16%",
+        "onboard_time": 1709767586,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 77149,
+        "num": 77149,
+        "word": "皇马1比1莱比锡",
+        "onboard_time": 1709766562,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75628,
+        "num": 75628,
+        "word": "当领导让00后准备下午茶",
+        "onboard_time": 1709734771,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74766,
+        "num": 74766,
+        "word": "00后开始拒绝月经羞耻",
+        "onboard_time": 1709767706,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 69809,
+        "num": 69809,
+        "word": "欧冠",
+        "onboard_time": 1709766503,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69118,
+        "num": 69118,
+        "word": "真正抑郁症才有的9个样子",
+        "onboard_time": 1709707169,
+        "rank": 39,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 67109,
+        "num": 67109,
+        "word": "博主第一次来中国be like",
+        "onboard_time": 1709766864,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66794,
+        "num": 66794,
+        "word": "同事在工位上养水果",
+        "onboard_time": 1709725293,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62518,
+        "num": 62518,
+        "word": "酱园弄杀青了",
+        "onboard_time": 1709731652,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62248,
+        "num": 62248,
+        "word": "男子用AI换脸复活去世父亲哄奶奶",
+        "onboard_time": 1709743044,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60992,
+        "num": 60992,
+        "word": "霉霉呼吁粉丝投票",
+        "onboard_time": 1709743886,
+        "rank": 44,
+        "category": "国外时政,艺人"
+      },
+      {
+        "raw_hot": 59547,
+        "num": 59547,
+        "word": "请勿在NPC身上浪费太多时间",
+        "onboard_time": 1709739753,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 57349,
+        "num": 57349,
+        "word": "午睡有个最佳时长",
+        "onboard_time": 1709760074,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 56826,
+        "num": 56826,
+        "word": "颖儿带女儿拍汉服写真",
+        "onboard_time": 1709738313,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56407,
+        "num": 56407,
+        "word": "阮经天 我们偶尔见",
+        "onboard_time": 1709728830,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52504,
+        "num": 52504,
+        "word": "唐探2荣梓杉一变脸画风对了",
+        "onboard_time": 1709735912,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望政协委员#"
+    }
+  }
+}
