@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/03/01 00:20:40 ~ 2024/03/07 06:35:10
+本榜单时间：2024/03/01 00:20:40 ~ 2024/03/07 07:17:45
 </p>
 </blockquote>
 <p>
@@ -3507,6 +3507,12 @@ HPV（热度：413857）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%B0%8F%E4%BC%99%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C17%E5%B0%8F%E6%97%B6%23" target="weibo">
+00后小伙被骗缅甸每天工作17小时（热度：408891）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%B2%A1%E5%BF%85%E8%A6%81%E4%B8%BA%E4%B8%89%E4%BA%94%E5%B9%B4%E5%90%8E%E7%9A%84%E5%89%8D%E9%80%94%E6%8B%85%E5%BF%A7%23" target="weibo">
 真没必要为三五年后的前途担忧（热度：408251）
 </a>
@@ -6005,12 +6011,6 @@ JackeyLove赛后发博（热度：230499）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Steam%E7%A7%81%E5%AF%86%E8%B4%AD%E4%B9%B0%E5%8A%9F%E8%83%BD%E4%B8%8A%E7%BA%BF%23" target="weibo">
 Steam私密购买功能上线（热度：229982）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E8%B5%9B%E7%99%BE%E5%91%B3%E8%A2%AB%E4%BB%B7%E6%A0%BC%E8%83%8C%E5%88%BA%E4%BA%86%23" target="weibo">
-吃赛百味被价格背刺了（热度：229693）
 </a>
 </li>
 

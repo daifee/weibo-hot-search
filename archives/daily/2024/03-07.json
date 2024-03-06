@@ -1,6 +1,6 @@
 {
   "startTime": 1709742142797,
-  "endTime": 1709764510266,
+  "endTime": 1709767065138,
   "band_list": [
     {
       "raw_hot": 1619908,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 690176,
+      "num": 690176,
+      "word": "代表反对让学生逢雨逢雪停课",
+      "onboard_time": 1709733451,
+      "rank": 6,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 560745,
       "num": 560745,
       "word": "回南天取快递 像到了天庭",
@@ -35,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 408891,
+      "num": 408891,
+      "word": "00后小伙被骗缅甸每天工作17小时",
+      "onboard_time": 1709748918,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 379095,
       "num": 379095,
       "word": "以前讨厌现在却真香的食物",
@@ -49,14 +65,6 @@
       "onboard_time": 1709739273,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 347002,
-      "num": 347002,
-      "word": "代表反对让学生逢雨逢雪停课",
-      "onboard_time": 1709733451,
-      "rank": 6,
-      "category": "国内时政,教育"
     },
     {
       "raw_hot": 326574,
@@ -99,8 +107,8 @@
       "category": "美食,游戏"
     },
     {
-      "raw_hot": 253163,
-      "num": 253163,
+      "raw_hot": 279510,
+      "num": 279510,
       "word": "家门口被放了五毛钱",
       "onboard_time": 1709733933,
       "rank": 12,
@@ -123,8 +131,24 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 190143,
-      "num": 190143,
+      "raw_hot": 211138,
+      "num": 211138,
+      "word": "钟薛高多平台账号停更",
+      "onboard_time": 1709752877,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 205757,
+      "num": 184598,
+      "word": "夏克立自曝人身安全受威胁",
+      "onboard_time": 1709752036,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196913,
+      "num": 196913,
       "word": "减少你的分享欲",
       "onboard_time": 1709726430,
       "rank": 24,
@@ -155,12 +179,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 148133,
-      "num": 68101,
-      "word": "00后小伙被骗缅甸每天工作17小时",
-      "onboard_time": 1709748918,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 159456,
+      "num": 159456,
+      "word": "胡兵预言成真",
+      "onboard_time": 1709765660,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 140026,
@@ -185,6 +209,14 @@
       "onboard_time": 1709743886,
       "rank": 30,
       "category": "国外时政,艺人"
+    },
+    {
+      "raw_hot": 132630,
+      "num": 96866,
+      "word": "女子被鸡啄伤送进ICU抢救2个月",
+      "onboard_time": 1709747779,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131826,
@@ -267,20 +299,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 101030,
-      "num": 101030,
-      "word": "钟薛高多平台账号停更",
-      "onboard_time": 1709752877,
-      "rank": 29,
-      "category": "美食"
+      "raw_hot": 100884,
+      "num": 100884,
+      "word": "回南天秘方5分钟内地面全干了",
+      "onboard_time": 1709762475,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 100240,
-      "num": 66783,
-      "word": "夏克立自曝人身安全受威胁",
-      "onboard_time": 1709752036,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 100195,
+      "num": 100195,
+      "word": "全网嘴替史铁生",
+      "onboard_time": 1709764881,
+      "rank": 19,
+      "category": "读书作家"
     },
     {
       "raw_hot": 99687,
@@ -348,7 +380,7 @@
     },
     {
       "raw_hot": 77784,
-      "num": 39397,
+      "num": 44364,
       "word": "朋友圈舍不得屏蔽的人",
       "onboard_time": 1709746699,
       "rank": 20,
@@ -395,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69944,
+      "num": 69944,
+      "word": "欧冠",
+      "onboard_time": 1709766503,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69325,
       "num": 81332,
       "word": "外国人比中国人还信中国法术",
@@ -403,12 +443,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 66451,
+      "num": 66451,
+      "word": "皇马1比1莱比锡",
+      "onboard_time": 1709766562,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64811,
       "num": 81357,
       "word": "建议鼓励生态安葬",
       "onboard_time": 1709733273,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 63015,
+      "num": 63015,
+      "word": "午睡有个最佳时长",
+      "onboard_time": 1709760074,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 62322,
@@ -435,8 +491,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 57177,
-      "num": 57177,
+      "raw_hot": 61938,
+      "num": 61938,
       "word": "男子用AI换脸复活去世父亲哄奶奶",
       "onboard_time": 1709743044,
       "rank": 35,
@@ -451,20 +507,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 55928,
-      "num": 39014,
-      "word": "女子被鸡啄伤送进ICU抢救2个月",
-      "onboard_time": 1709747779,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48687,
-      "num": 36817,
-      "word": "午睡有个最佳时长",
-      "onboard_time": 1709760074,
-      "rank": 32,
-      "category": "健康医疗"
+      "raw_hot": 54077,
+      "num": 54077,
+      "word": "关于我在精神科住院的22天",
+      "onboard_time": 1709748918,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 47129,
@@ -491,6 +539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39915,
+      "num": 40679,
+      "word": "母爱不会被葡萄压碎",
+      "onboard_time": 1709753597,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 36779,
       "num": 45728,
       "word": "王源新疆攻略",
@@ -499,19 +555,11 @@
       "category": "艺人,旅游"
     },
     {
-      "raw_hot": 32695,
-      "num": 32695,
-      "word": "回南天秘方5分钟内地面全干了",
-      "onboard_time": 1709762475,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31311,
-      "num": 30387,
-      "word": "关于我在精神科住院的22天",
-      "onboard_time": 1709748918,
-      "rank": 48,
+      "raw_hot": 34724,
+      "num": 40576,
+      "word": "博主第一次来中国be like",
+      "onboard_time": 1709766864,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -523,6 +571,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30809,
+      "num": 498683,
+      "word": "从政府工作报告看中国经济新动力",
+      "onboard_time": 1709728350,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26148,
       "num": 26148,
       "word": "打工尊者",
@@ -531,28 +587,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20943,
-      "num": 21493,
-      "word": "母爱不会被葡萄压碎",
-      "onboard_time": 1709753597,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 20666,
       "num": 20666,
       "word": "TXT新专概念预告",
       "onboard_time": 1709749218,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 19003,
-      "num": 313498,
-      "word": "从政府工作报告看中国经济新动力",
-      "onboard_time": 1709728350,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17931,
