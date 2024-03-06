@@ -1,0 +1,410 @@
+{
+  "runTime": 1709713375321,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1963605,
+        "num": 1963605,
+        "word": "钟薛高售价从60元降到2.5元",
+        "onboard_time": 1709707169,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 790516,
+        "num": 790516,
+        "word": "男生月薪一万一年存10万",
+        "onboard_time": 1709695294,
+        "rank": 1,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 8561,
+        "num": 768285,
+        "word": "两会数读中国",
+        "onboard_time": 1709632235,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 971915,
+        "num": 761178,
+        "word": "真正抑郁症才有的9个样子",
+        "onboard_time": 1709707169,
+        "rank": 3,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 750543,
+        "num": 750543,
+        "word": "桑延温以凡合体了",
+        "onboard_time": 1709710830,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355771,
+        "num": 355771,
+        "word": "建议公务员招录取缔职业院校生歧视政策",
+        "onboard_time": 1709700695,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 249919,
+        "num": 249919,
+        "word": "不建议频繁涂抹润唇膏",
+        "onboard_time": 1709702669,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 248678,
+        "num": 248678,
+        "word": "藏海花 张起灵",
+        "onboard_time": 1709694933,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209413,
+        "num": 248152,
+        "word": "建议以家庭为单位征税",
+        "onboard_time": 1709704832,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179073,
+        "num": 247306,
+        "word": "妻子力挺丈夫6次创业终逆袭",
+        "onboard_time": 1709689111,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1094112,
+        "num": 246846,
+        "word": "小杨哥跌出带货榜前20",
+        "onboard_time": 1709709272,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 782612,
+        "num": 245547,
+        "word": "工资不高房价却很高的城市",
+        "onboard_time": 1709701172,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601145,
+        "num": 245120,
+        "word": "闺蜜搬家叫了一个7米6的车",
+        "onboard_time": 1709708312,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 581453,
+        "num": 244231,
+        "word": "刘亦菲也够不着的男人",
+        "onboard_time": 1709707772,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 479458,
+        "num": 243037,
+        "word": "杨幂北电考官",
+        "onboard_time": 1709712813,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476173,
+        "num": 242536,
+        "word": "西班牙女粉丝遭遇假罗云熙杀猪盘",
+        "onboard_time": 1709709931,
+        "rank": 15,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 362889,
+        "num": 242073,
+        "word": "秦岚申请当胡先煦站姐",
+        "onboard_time": 1709710054,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292402,
+        "num": 240997,
+        "word": "不能给你800元是因为我真的有",
+        "onboard_time": 1709705610,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274953,
+        "num": 239855,
+        "word": "Irene姐的神级七秒美貌",
+        "onboard_time": 1709710412,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271915,
+        "num": 238962,
+        "word": "美国埋下的核恶魔将被放出",
+        "onboard_time": 1709706091,
+        "rank": 19,
+        "category": "国外时政,科学科普"
+      },
+      {
+        "raw_hot": 271506,
+        "num": 238269,
+        "word": "黄景瑜南京",
+        "onboard_time": 1709712453,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258183,
+        "num": 237933,
+        "word": "舍友妈妈在宿舍住了五天",
+        "onboard_time": 1709701533,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163182,
+        "num": 236838,
+        "word": "十四届全国人大二次会议记者会",
+        "onboard_time": 1709708730,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 253004,
+        "num": 235999,
+        "word": "要不要为了男朋友放弃offer",
+        "onboard_time": 1709709754,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235521,
+        "num": 235521,
+        "word": "专家称HPV疫苗能约几价就打几价",
+        "onboard_time": 1709711854,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228439,
+        "num": 228439,
+        "word": "章若楠 重庆",
+        "onboard_time": 1709701054,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222277,
+        "num": 222277,
+        "word": "ICU医生称见过生死仍看不透死亡",
+        "onboard_time": 1709703093,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207975,
+        "num": 207975,
+        "word": "盒马被曝清货关门",
+        "onboard_time": 1709694633,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 202842,
+        "num": 202842,
+        "word": "彩礼是对女性的生育补偿吗",
+        "onboard_time": 1709694633,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176980,
+        "num": 176980,
+        "word": "17年前的大女主发言震耳欲聋",
+        "onboard_time": 1709711311,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175845,
+        "num": 175845,
+        "word": "傅若清称肖战等演员的演绎让人眼前一亮",
+        "onboard_time": 1709712093,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165347,
+        "num": 165347,
+        "word": "半熟恋人 男嘉宾只顾独美",
+        "onboard_time": 1709710174,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149306,
+        "num": 149306,
+        "word": "韩素希经纪公司回应耍大牌争议",
+        "onboard_time": 1709711615,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141489,
+        "num": 141489,
+        "word": "有一种知识叫女性经验",
+        "onboard_time": 1709708912,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140777,
+        "num": 140777,
+        "word": "睡前长期玩手机可能让你变丑",
+        "onboard_time": 1709696971,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140483,
+        "num": 140483,
+        "word": "钟薛高售价急速缩水背后是否涉嫌欺诈",
+        "onboard_time": 1709710772,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140364,
+        "num": 140364,
+        "word": "84岁的爷爷一早上挣了500",
+        "onboard_time": 1709703694,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139810,
+        "num": 139810,
+        "word": "一县医院院长同时任40家医院院长",
+        "onboard_time": 1709706932,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128833,
+        "num": 128833,
+        "word": "刘国梁谈国乒未来主要对手",
+        "onboard_time": 1709713112,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124750,
+        "num": 124750,
+        "word": "眼影的成分能安全上嘴吗",
+        "onboard_time": 1709713353,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 122375,
+        "num": 122375,
+        "word": "模仿迪丽热巴天使蹲易受伤",
+        "onboard_time": 1709705131,
+        "rank": 40,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 119658,
+        "num": 119658,
+        "word": "女性一个月中的变化",
+        "onboard_time": 1709709510,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116544,
+        "num": 116544,
+        "word": "BLACKPINK巴黎时装周四人四色",
+        "onboard_time": 1709700274,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 114640,
+        "num": 114640,
+        "word": "王鹤棣是一点也不内耗",
+        "onboard_time": 1709703034,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113205,
+        "num": 113205,
+        "word": "钟薛高被执行81万元",
+        "onboard_time": 1709713293,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111055,
+        "num": 111055,
+        "word": "杨紫金色高定",
+        "onboard_time": 1709702851,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110673,
+        "num": 110673,
+        "word": "修杰楷回应斗殴被带回警局",
+        "onboard_time": 1709710174,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109543,
+        "num": 109543,
+        "word": "建议老旧小区设规范电瓶车充电区域",
+        "onboard_time": 1709712632,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102135,
+        "num": 102135,
+        "word": "多部门建议支持大龄女性生育力保存",
+        "onboard_time": 1709701235,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100825,
+        "num": 100825,
+        "word": "白敬亭难哄路透",
+        "onboard_time": 1709696672,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展新质生产力不是忽视放弃传统产业#"
+    }
+  }
+}
