@@ -1,6 +1,6 @@
 {
   "startTime": 1709742142797,
-  "endTime": 1709760901887,
+  "endTime": 1709763446716,
   "band_list": [
     {
       "raw_hot": 1619908,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 148133,
-      "num": 45047,
+      "num": 47538,
       "word": "00后小伙被骗缅甸每天工作17小时",
       "onboard_time": 1709748918,
       "rank": 49,
@@ -331,6 +331,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 79865,
+      "num": 79865,
+      "word": "钟薛高多平台账号停更",
+      "onboard_time": 1709752877,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 77784,
       "num": 39397,
       "word": "朋友圈舍不得屏蔽的人",
@@ -353,6 +361,14 @@
       "onboard_time": 1709736694,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76392,
+      "num": 45377,
+      "word": "夏克立自曝人身安全受威胁",
+      "onboard_time": 1709752036,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 74274,
@@ -387,14 +403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 66892,
-      "num": 36017,
-      "word": "夏克立自曝人身安全受威胁",
-      "onboard_time": 1709752036,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 64811,
       "num": 81357,
       "word": "建议鼓励生态安葬",
@@ -425,14 +433,6 @@
       "onboard_time": 1709743344,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 59667,
-      "num": 59667,
-      "word": "钟薛高多平台账号停更",
-      "onboard_time": 1709752877,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 57177,
@@ -483,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40122,
+      "num": 27871,
+      "word": "午睡有个最佳时长",
+      "onboard_time": 1709760074,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 36779,
       "num": 45728,
       "word": "王源新疆攻略",
@@ -499,6 +507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27202,
+      "num": 23119,
+      "word": "关于我在精神科住院的22天",
+      "onboard_time": 1709748918,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 26148,
       "num": 26148,
       "word": "打工尊者",
@@ -507,20 +523,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 24643,
-      "num": 23119,
-      "word": "关于我在精神科住院的22天",
-      "onboard_time": 1709748918,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 20666,
       "num": 20666,
       "word": "TXT新专概念预告",
       "onboard_time": 1709749218,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 19675,
+      "num": 19675,
+      "word": "回南天秘方5分钟内地面全干了",
+      "onboard_time": 1709762475,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19645,
@@ -540,19 +556,11 @@
     },
     {
       "raw_hot": 17931,
-      "num": 17931,
+      "num": 18056,
       "word": "如果可以学习一门新的语言吧",
       "onboard_time": 1709750957,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 15144,
-      "num": 15144,
-      "word": "午睡有个最佳时长",
-      "onboard_time": 1709760074,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 13900,
@@ -563,8 +571,8 @@
       "category": "国内时政,社会新闻"
     },
     {
-      "raw_hot": 13345,
-      "num": 14006,
+      "raw_hot": 13494,
+      "num": 18056,
       "word": "腹式呼吸能治腰痛吗",
       "onboard_time": 1709758574,
       "rank": 38,
