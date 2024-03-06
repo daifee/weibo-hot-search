@@ -1,0 +1,410 @@
+{
+  "runTime": 1709702201615,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2389375,
+        "num": 2389375,
+        "word": "男生月薪一万一年存10万",
+        "onboard_time": 1709695294,
+        "rank": 0,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 849596,
+        "num": 849596,
+        "word": "建议公务员招录取缔职业院校生歧视政策",
+        "onboard_time": 1709700695,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58679,
+        "num": 796260,
+        "word": "6个角度看今年发展主要预期目标",
+        "onboard_time": 1709697332,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 755408,
+        "num": 755408,
+        "word": "妻子力挺丈夫6次创业终逆袭",
+        "onboard_time": 1709689111,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733162,
+        "num": 733162,
+        "word": "藏海花 张起灵",
+        "onboard_time": 1709694933,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 515373,
+        "num": 515373,
+        "word": "84.7%的职场人下班后仍会关注工作消息",
+        "onboard_time": 1709697154,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482562,
+        "num": 482562,
+        "word": "BLACKPINK巴黎时装周四人四色",
+        "onboard_time": 1709700274,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 476983,
+        "num": 476983,
+        "word": "建议3岁以下子女的父母每月1天带薪育儿假",
+        "onboard_time": 1709693729,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 464489,
+        "num": 464489,
+        "word": "坚持锻炼相当于1年多赚17万",
+        "onboard_time": 1709690849,
+        "rank": 8,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 421845,
+        "num": 421845,
+        "word": "睡眠不足引发全身炎症风暴",
+        "onboard_time": 1709690252,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1319466,
+        "num": 417752,
+        "word": "盒马被曝清货关门",
+        "onboard_time": 1709694633,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1058698,
+        "num": 415061,
+        "word": "彩礼是对女性的生育补偿吗",
+        "onboard_time": 1709694633,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 886875,
+        "num": 407353,
+        "word": "月经两个字烫嘴吗",
+        "onboard_time": 1709700454,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 759616,
+        "num": 397852,
+        "word": "恐怖游戏 回南天",
+        "onboard_time": 1709697693,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 746626,
+        "num": 392891,
+        "word": "白敬亭难哄路透",
+        "onboard_time": 1709696672,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 481941,
+        "num": 389378,
+        "word": "工资不高房价却很高的城市",
+        "onboard_time": 1709701172,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385594,
+        "num": 385594,
+        "word": "伊能静给20岁女生的建议",
+        "onboard_time": 1709699493,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378406,
+        "num": 378406,
+        "word": "刘亦菲谷爱凌坐一起",
+        "onboard_time": 1709692231,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 360344,
+        "num": 360344,
+        "word": "赵丽颖林更新早期的微信互动",
+        "onboard_time": 1709694331,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351923,
+        "num": 351923,
+        "word": "睡前长期玩手机可能让你变丑",
+        "onboard_time": 1709696971,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 368639,
+        "num": 351904,
+        "word": "无意间发现了老婆开车时的样子",
+        "onboard_time": 1709693671,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 351871,
+        "num": 351871,
+        "word": "一点点怎么消失了",
+        "onboard_time": 1709698296,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 311088,
+        "num": 311088,
+        "word": "章若楠 重庆",
+        "onboard_time": 1709701054,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288709,
+        "num": 288709,
+        "word": "女子将男友30多只鞋子从35楼扔下",
+        "onboard_time": 1709696255,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267925,
+        "num": 267925,
+        "word": "白岩松谈年轻人被批啃老",
+        "onboard_time": 1709693970,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 264280,
+        "num": 264280,
+        "word": "盒马回应被曝清货关门",
+        "onboard_time": 1709701533,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 260446,
+        "num": 260446,
+        "word": "多部门建议支持大龄女性生育力保存",
+        "onboard_time": 1709701235,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241118,
+        "num": 241118,
+        "word": "魏大勋G社怼拍",
+        "onboard_time": 1709691688,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 240713,
+        "num": 240713,
+        "word": "开始推理吧2男嘉宾挑染",
+        "onboard_time": 1709700335,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227237,
+        "num": 227237,
+        "word": "周处除三害 九次圣杯的含金量",
+        "onboard_time": 1709689950,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299254,
+        "num": 223397,
+        "word": "舍友妈妈在宿舍住了五天",
+        "onboard_time": 1709701533,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214181,
+        "num": 214181,
+        "word": "难哄路透",
+        "onboard_time": 1709696971,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206209,
+        "num": 206209,
+        "word": "金饰卖一口价不告知克数合理吗",
+        "onboard_time": 1709697995,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196138,
+        "num": 196138,
+        "word": "大侦探",
+        "onboard_time": 1709700156,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194621,
+        "num": 194621,
+        "word": "男子购车后下午车辆降价1.7万",
+        "onboard_time": 1709689411,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194285,
+        "num": 194285,
+        "word": "茅威涛陈丽君李云霄合体封面",
+        "onboard_time": 1709700392,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181387,
+        "num": 181387,
+        "word": "锻炼身体的最佳时间",
+        "onboard_time": 1709700875,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 172253,
+        "num": 172253,
+        "word": "银行卖金饰彻底火了",
+        "onboard_time": 1709698832,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 166470,
+        "num": 166470,
+        "word": "申京打爆文班亚马",
+        "onboard_time": 1709701352,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163263,
+        "num": 163263,
+        "word": "雷军称小米汽车有信心打开市场",
+        "onboard_time": 1709701832,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 162136,
+        "num": 162136,
+        "word": "李耕耘上车 绑匪和人质具像化",
+        "onboard_time": 1709700875,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146102,
+        "num": 146102,
+        "word": "周冬雨刘亦菲宋茜G社生图",
+        "onboard_time": 1709697453,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145886,
+        "num": 145886,
+        "word": "TheShy疑似恋爱",
+        "onboard_time": 1709693729,
+        "rank": 42,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 138673,
+        "num": 138673,
+        "word": "董明珠建议建立家电使用年限强制性标准",
+        "onboard_time": 1709692592,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131149,
+        "num": 131149,
+        "word": "给爷爷奶奶买了情侣装",
+        "onboard_time": 1709699255,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127503,
+        "num": 127503,
+        "word": "人大代表谈电视开机率不高",
+        "onboard_time": 1709689829,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126971,
+        "num": 126971,
+        "word": "老外被中国哪都能点外卖震惊了",
+        "onboard_time": 1709691749,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121906,
+        "num": 121906,
+        "word": "胡先煦 叫宝贝烫嘴",
+        "onboard_time": 1709702014,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119111,
+        "num": 119111,
+        "word": "王一博两首单曲的联系",
+        "onboard_time": 1709698896,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114643,
+        "num": 114643,
+        "word": "中国第四艘航母很快公布",
+        "onboard_time": 1709685510,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展新质生产力不是忽视放弃传统产业#"
+    }
+  }
+}
