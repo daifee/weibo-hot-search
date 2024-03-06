@@ -1,6 +1,6 @@
 {
   "startTime": 1709655654688,
-  "endTime": 1709687493105,
+  "endTime": 1709688647746,
   "band_list": [
     {
       "raw_hot": 1135872,
@@ -73,6 +73,14 @@
       "onboard_time": 1709684072,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 693237,
+      "num": 268861,
+      "word": "黄景瑜撩的狗 阮经天来承受",
+      "onboard_time": 1709686352,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 681520,
@@ -179,12 +187,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 362508,
-      "num": 268861,
-      "word": "黄景瑜撩的狗 阮经天来承受",
-      "onboard_time": 1709686352,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 374503,
+      "num": 250636,
+      "word": "周冬雨宋茜欧阳娜娜同框",
+      "onboard_time": 1709686474,
+      "rank": 29,
+      "category": "作品衍生,运动健身"
     },
     {
       "raw_hot": 357674,
@@ -251,7 +259,15 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 275444,
+      "raw_hot": 285737,
+      "num": 285737,
+      "word": "恋与深空祁煜",
+      "onboard_time": 1709687012,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 282484,
       "num": 268354,
       "word": "越来越多年轻人确诊淡淡综合症",
       "onboard_time": 1709647897,
@@ -283,6 +299,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 266879,
+      "num": 266879,
+      "word": "美法案要求字节165天内剥离TikTok",
+      "onboard_time": 1709687913,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 264227,
       "num": 264227,
       "word": "张铭恩一种隐约的狠辣",
@@ -307,28 +331,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 250703,
-      "num": 238680,
-      "word": "周冬雨宋茜欧阳娜娜同框",
-      "onboard_time": 1709686474,
-      "rank": 29,
-      "category": "作品衍生,运动健身"
-    },
-    {
       "raw_hot": 248310,
       "num": 328350,
       "word": "建议消除简历第一学历概念",
       "onboard_time": 1709633614,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 240252,
-      "num": 240252,
-      "word": "恋与深空祁煜",
-      "onboard_time": 1709687012,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 236122,
@@ -361,6 +369,22 @@
       "onboard_time": 1709681608,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 216240,
+      "num": 216240,
+      "word": "菜场阿姨为写小说跑2400公里追花",
+      "onboard_time": 1709687913,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215931,
+      "num": 215931,
+      "word": "大熊猫半夜到村民家吃自助",
+      "onboard_time": 1709683893,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214399,
@@ -403,14 +427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 196234,
-      "num": 196234,
-      "word": "大熊猫半夜到村民家吃自助",
-      "onboard_time": 1709683893,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196021,
       "num": 196021,
       "word": "周杰伦录制说唱梦工厂",
@@ -427,12 +443,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187081,
+      "num": 187081,
+      "word": "回南天 薯片变饺子皮",
+      "onboard_time": 1709684371,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 183487,
       "num": 183487,
       "word": "男朋友谈过一段很长的恋爱",
       "onboard_time": 1709634513,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181358,
+      "num": 181358,
+      "word": "第一次见识回南天以为楼上漏水了",
+      "onboard_time": 1709686952,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177045,
@@ -449,14 +481,6 @@
       "onboard_time": 1709650356,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 173445,
-      "num": 173445,
-      "word": "第一次见识回南天以为楼上漏水了",
-      "onboard_time": 1709686952,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172889,
@@ -489,14 +513,6 @@
       "onboard_time": 1709686352,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 163001,
-      "num": 163001,
-      "word": "回南天 薯片变饺子皮",
-      "onboard_time": 1709684371,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 162590,
@@ -587,6 +603,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 139690,
+      "num": 139690,
+      "word": "第一次见到回南天具象化的潮",
+      "onboard_time": 1709688332,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139514,
       "num": 222953,
       "word": "建议中小学生每天都有一节体育课",
@@ -601,6 +625,22 @@
       "onboard_time": 1709685094,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 134741,
+      "num": 134741,
+      "word": "重金出国的留学生为什么越来越少",
+      "onboard_time": 1709687733,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 134373,
+      "num": 134373,
+      "word": "苹果限制欧版iPhone外流",
+      "onboard_time": 1709688150,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 130212,
@@ -659,6 +699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 104823,
+      "num": 756242,
+      "word": "2024全国两会新词热词",
+      "onboard_time": 1709639792,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 102362,
       "num": 102362,
       "word": "欧冠联赛",
@@ -689,14 +737,6 @@
       "onboard_time": 1709646874,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 93210,
-      "num": 756242,
-      "word": "2024全国两会新词热词",
-      "onboard_time": 1709639792,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 91374,
@@ -809,6 +849,14 @@
       "onboard_time": 1709654432,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 57037,
+      "num": 120804,
+      "word": "谁还没用过湿厕纸啊",
+      "onboard_time": 1709688629,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 55677,
