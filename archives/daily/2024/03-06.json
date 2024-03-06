@@ -1,10 +1,10 @@
 {
   "startTime": 1709655654688,
-  "endTime": 1709691714355,
+  "endTime": 1709692447823,
   "band_list": [
     {
-      "raw_hot": 1862572,
-      "num": 1862572,
+      "raw_hot": 1948314,
+      "num": 1948314,
       "word": "妻子力挺丈夫6次创业终逆袭",
       "onboard_time": 1709689111,
       "rank": 0,
@@ -75,6 +75,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 769286,
+      "num": 769286,
+      "word": "男子购车后下午车辆降价1.7万",
+      "onboard_time": 1709689411,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738611,
       "num": 738611,
       "word": "中国第四艘航母很快公布",
@@ -96,14 +104,6 @@
       "word": "农夫山泉",
       "onboard_time": 1709651435,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 647870,
-      "num": 647870,
-      "word": "男子购车后下午车辆降价1.7万",
-      "onboard_time": 1709689411,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483618,
+      "num": 236694,
+      "word": "周处除三害 九次圣杯的含金量",
+      "onboard_time": 1709689950,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 478216,
       "num": 265880,
       "word": "朱丹听到sorry变脸",
@@ -177,14 +185,6 @@
       "onboard_time": 1709674218,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 460975,
-      "num": 236694,
-      "word": "周处除三害 九次圣杯的含金量",
-      "onboard_time": 1709689950,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 449550,
@@ -219,6 +219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 410798,
+      "num": 225809,
+      "word": "睡眠不足引发全身炎症风暴",
+      "onboard_time": 1709690252,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 409782,
       "num": 215176,
       "word": "周处除三害 抄袭",
@@ -227,12 +235,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 398320,
-      "num": 225809,
-      "word": "睡眠不足引发全身炎症风暴",
-      "onboard_time": 1709690252,
-      "rank": 36,
-      "category": "健康医疗"
+      "raw_hot": 395068,
+      "num": 220430,
+      "word": "坚持锻炼相当于1年多赚17万",
+      "onboard_time": 1709690849,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 382029,
@@ -249,6 +257,14 @@
       "onboard_time": 1709662697,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 354516,
+      "num": 226856,
+      "word": "人大代表谈电视开机率不高",
+      "onboard_time": 1709689829,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 352162,
@@ -281,6 +297,14 @@
       "onboard_time": 1709684853,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319486,
+      "num": 319486,
+      "word": "95后女生童年遗憾被陌生人抚慰",
+      "onboard_time": 1709689348,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309577,
@@ -331,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 279338,
-      "num": 226856,
-      "word": "人大代表谈电视开机率不高",
-      "onboard_time": 1709689829,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 269829,
       "num": 269829,
       "word": "回南天",
@@ -377,14 +393,6 @@
       "onboard_time": 1709684316,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 260237,
-      "num": 220430,
-      "word": "坚持锻炼相当于1年多赚17万",
-      "onboard_time": 1709690849,
-      "rank": 22,
-      "category": "运动健身"
     },
     {
       "raw_hot": 251378,
@@ -427,14 +435,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 222473,
-      "num": 222473,
-      "word": "95后女生童年遗憾被陌生人抚慰",
-      "onboard_time": 1709689348,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218191,
       "num": 218191,
       "word": "金价历史最高有人大赚200多万",
@@ -467,12 +467,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 209172,
+      "num": 209172,
+      "word": "iOS17.4改进电池健康报告",
+      "onboard_time": 1709690609,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 207855,
       "num": 207855,
       "word": "杨幂谈私服风格",
       "onboard_time": 1709654130,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206705,
+      "num": 206705,
+      "word": "魏大勋G社怼拍",
+      "onboard_time": 1709691688,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 206068,
@@ -523,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188475,
+      "num": 188475,
+      "word": "老外被中国哪都能点外卖震惊了",
+      "onboard_time": 1709691749,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187081,
       "num": 187081,
       "word": "回南天 薯片变饺子皮",
@@ -571,14 +595,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 175880,
-      "num": 175880,
-      "word": "iOS17.4改进电池健康报告",
-      "onboard_time": 1709690609,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 173590,
       "num": 173590,
       "word": "蔚来现金储备达573亿元",
@@ -595,12 +611,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167145,
+      "num": 167145,
+      "word": "金价3天最大涨幅近24元",
+      "onboard_time": 1709691210,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 166964,
+      "num": 166964,
+      "word": "玲娜贝儿新衣服首秀",
+      "onboard_time": 1709692290,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166164,
       "num": 166164,
       "word": "Facebook和Instagram全球死机",
       "onboard_time": 1709681424,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 166087,
+      "num": 167397,
+      "word": "4个方法有效降低患青光眼风险",
+      "onboard_time": 1709691629,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 165025,
+      "num": 165025,
+      "word": "刘亦菲谷爱凌坐一起",
+      "onboard_time": 1709692231,
+      "rank": 33,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 165003,
@@ -675,14 +723,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 155348,
-      "num": 155348,
-      "word": "金价3天最大涨幅近24元",
-      "onboard_time": 1709691210,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 153914,
       "num": 223434,
       "word": "朱一龙志愿军2将于国庆档上映",
@@ -707,12 +747,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 143896,
-      "num": 143896,
-      "word": "魏大勋G社怼拍",
-      "onboard_time": 1709691688,
-      "rank": 38,
-      "category": "作品衍生,时尚"
+      "raw_hot": 147091,
+      "num": 147091,
+      "word": "向佐练台词吓到许君聪",
+      "onboard_time": 1709692110,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 142630,
@@ -763,20 +803,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 134741,
-      "num": 134741,
+      "raw_hot": 136544,
+      "num": 136544,
       "word": "重金出国的留学生为什么越来越少",
       "onboard_time": 1709687733,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 131477,
-      "num": 131477,
-      "word": "4个方法有效降低患青光眼风险",
-      "onboard_time": 1709691629,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 130212,
@@ -801,6 +833,14 @@
       "onboard_time": 1709657184,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 122472,
+      "num": 122472,
+      "word": "李昊剪片",
+      "onboard_time": 1709692231,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 122138,

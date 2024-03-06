@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709691714355,
+  "endTime": 1709692447823,
   "band_list": [
     {
       "raw_hot": 3012846,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1948314,
+      "num": 1948314,
+      "word": "妻子力挺丈夫6次创业终逆袭",
+      "onboard_time": 1709689111,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1935150,
       "num": 1935150,
       "word": "姜爷爷宋爷爷哭成泪人",
@@ -87,14 +95,6 @@
       "num": 1919191,
       "word": "快递员得知新规两天后离职",
       "onboard_time": 1709392413,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1862572,
-      "num": 1862572,
-      "word": "妻子力挺丈夫6次创业终逆袭",
-      "onboard_time": 1709689111,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -1003,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 769286,
+      "num": 769286,
+      "word": "男子购车后下午车辆降价1.7万",
+      "onboard_time": 1709689411,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 760373,
       "num": 760373,
       "word": "金价又上涨了",
@@ -1312,14 +1320,6 @@
       "word": "何小鹏建议允许夜间低速无人驾驶",
       "onboard_time": 1709522251,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 647870,
-      "num": 647870,
-      "word": "男子购车后下午车辆降价1.7万",
-      "onboard_time": 1709689411,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -2075,6 +2075,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 483618,
+      "num": 236694,
+      "word": "周处除三害 九次圣杯的含金量",
+      "onboard_time": 1709689950,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 482985,
       "num": 358528,
       "word": "许凯把丁程鑫的手揽在怀里",
@@ -2200,14 +2208,6 @@
       "word": "六公主评周处除三害",
       "onboard_time": 1709436571,
       "rank": 24,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 460975,
-      "num": 236694,
-      "word": "周处除三害 九次圣杯的含金量",
-      "onboard_time": 1709689950,
-      "rank": 30,
       "category": "电影"
     },
     {
@@ -2507,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410798,
+      "num": 225809,
+      "word": "睡眠不足引发全身炎症风暴",
+      "onboard_time": 1709690252,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 409306,
       "num": 409306,
       "word": "车市迎来降价潮",
@@ -2587,14 +2595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 398320,
-      "num": 225809,
-      "word": "睡眠不足引发全身炎症风暴",
-      "onboard_time": 1709690252,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 398224,
       "num": 277256,
       "word": "难哄路透",
@@ -2617,6 +2617,14 @@
       "onboard_time": 1709517749,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 395068,
+      "num": 220430,
+      "word": "坚持锻炼相当于1年多赚17万",
+      "onboard_time": 1709690849,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 392935,
@@ -2921,6 +2929,14 @@
       "onboard_time": 1709556149,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354516,
+      "num": 226856,
+      "word": "人大代表谈电视开机率不高",
+      "onboard_time": 1709689829,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 354066,
@@ -3272,6 +3288,14 @@
       "word": "惊蛰",
       "onboard_time": 1709593404,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319486,
+      "num": 319486,
+      "word": "95后女生童年遗憾被陌生人抚慰",
+      "onboard_time": 1709689348,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -3723,14 +3747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 279338,
-      "num": 226856,
-      "word": "人大代表谈电视开机率不高",
-      "onboard_time": 1709689829,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 277970,
       "num": 277970,
       "word": "枭起青壤要开机了",
@@ -3977,14 +3993,6 @@
       "onboard_time": 1709537793,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 260237,
-      "num": 220430,
-      "word": "坚持锻炼相当于1年多赚17万",
-      "onboard_time": 1709690849,
-      "rank": 22,
-      "category": "运动健身"
     },
     {
       "raw_hot": 259948,
@@ -4619,14 +4627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222473,
-      "num": 222473,
-      "word": "95后女生童年遗憾被陌生人抚慰",
-      "onboard_time": 1709689348,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221764,
       "num": 221764,
       "word": "开始理解父辈的消费观了",
@@ -4939,6 +4939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 209172,
+      "num": 209172,
+      "word": "iOS17.4改进电池健康报告",
+      "onboard_time": 1709690609,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 208847,
       "num": 208847,
       "word": "TXT官宣回归",
@@ -5001,6 +5009,14 @@
       "onboard_time": 1709435850,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206705,
+      "num": 206705,
+      "word": "魏大勋G社怼拍",
+      "onboard_time": 1709691688,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 206425,
@@ -5587,6 +5603,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 188475,
+      "num": 188475,
+      "word": "老外被中国哪都能点外卖震惊了",
+      "onboard_time": 1709691749,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188451,
       "num": 188451,
       "word": "张馨予碎钻拖尾裙",
@@ -5995,14 +6019,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 175880,
-      "num": 175880,
-      "word": "iOS17.4改进电池健康报告",
-      "onboard_time": 1709690609,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 175703,
       "num": 175703,
       "word": "全红婵顺利完赛",
@@ -6251,12 +6267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167145,
+      "num": 167145,
+      "word": "金价3天最大涨幅近24元",
+      "onboard_time": 1709691210,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 167022,
       "num": 167022,
       "word": "杨超越辣妹穿搭",
       "onboard_time": 1709597550,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 166964,
+      "num": 166964,
+      "word": "玲娜贝儿新衣服首秀",
+      "onboard_time": 1709692290,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 166806,
@@ -6283,12 +6315,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166087,
+      "num": 167397,
+      "word": "4个方法有效降低患青光眼风险",
+      "onboard_time": 1709691629,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 165495,
       "num": 165495,
       "word": "伞兵周决MVP",
       "onboard_time": 1709479173,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165025,
+      "num": 165025,
+      "word": "刘亦菲谷爱凌坐一起",
+      "onboard_time": 1709692231,
+      "rank": 33,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 164977,
@@ -6675,14 +6723,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 155348,
-      "num": 155348,
-      "word": "金价3天最大涨幅近24元",
-      "onboard_time": 1709691210,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 155307,
       "num": 155307,
       "word": "孙千陈靖可大片",
@@ -6995,6 +7035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147091,
+      "num": 147091,
+      "word": "向佐练台词吓到许君聪",
+      "onboard_time": 1709692110,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146983,
       "num": 146983,
       "word": "当金毛听说猫妈妈生下小宝宝以后",
@@ -7169,14 +7217,6 @@
       "onboard_time": 1709517868,
       "rank": 44,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 143896,
-      "num": 143896,
-      "word": "魏大勋G社怼拍",
-      "onboard_time": 1709691688,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 143693,
@@ -7507,6 +7547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 136544,
+      "num": 136544,
+      "word": "重金出国的留学生为什么越来越少",
+      "onboard_time": 1709687733,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 136451,
       "num": 136451,
       "word": "为什么买东西能让人感到快乐",
@@ -7593,14 +7641,6 @@
       "onboard_time": 1709524416,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134741,
-      "num": 134741,
-      "word": "重金出国的留学生为什么越来越少",
-      "onboard_time": 1709687733,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 134697,
@@ -7697,14 +7737,6 @@
       "onboard_time": 1709593945,
       "rank": 24,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 131477,
-      "num": 131477,
-      "word": "4个方法有效降低患青光眼风险",
-      "onboard_time": 1709691629,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 131294,
@@ -8097,6 +8129,14 @@
       "onboard_time": 1709399425,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122472,
+      "num": 122472,
+      "word": "李昊剪片",
+      "onboard_time": 1709692231,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 122274,
