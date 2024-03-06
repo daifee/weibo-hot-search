@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709681730780,
+  "endTime": 1709687493105,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -843,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1093258,
+      "num": 1093258,
+      "word": "中青报评霍启刚建议引热议",
+      "onboard_time": 1709683051,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1090781,
       "num": 1090781,
       "word": "我是为了救我哥哥才出生的",
@@ -1067,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 944708,
+      "num": 944708,
+      "word": "委员建议调整法定最低结婚年龄至18周岁",
+      "onboard_time": 1709682148,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 942306,
       "num": 942306,
       "word": "工藤新一卫衣",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1709636253,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 922170,
+      "num": 269670,
+      "word": "反诈老陈回应是否后悔辞去公职",
+      "onboard_time": 1709683169,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 917636,
@@ -1355,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 826094,
+      "num": 308030,
+      "word": "这哪是回南天这是回南天门了吧",
+      "onboard_time": 1709668874,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 823890,
       "num": 823890,
       "word": "焉栩嘉在郝蕾面前提到邓超",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1709642253,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 819067,
+      "num": 269467,
+      "word": "刘亦菲小黑裙",
+      "onboard_time": 1709682629,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 809025,
@@ -1603,20 +1643,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 741229,
-      "num": 308030,
-      "word": "这哪是回南天这是回南天门了吧",
-      "onboard_time": 1709668874,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 739556,
       "num": 344331,
       "word": "王一博工作室的审美",
       "onboard_time": 1709631870,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 738611,
+      "num": 738611,
+      "word": "中国第四艘航母很快公布",
+      "onboard_time": 1709685510,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 738107,
@@ -1809,6 +1849,14 @@
       "onboard_time": 1709256869,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 699400,
+      "num": 269279,
+      "word": "伊能静说儿子暂不打算出道",
+      "onboard_time": 1709684072,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 699355,
@@ -2387,6 +2435,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 606105,
+      "num": 269221,
+      "word": "海景房狂跌",
+      "onboard_time": 1709679682,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 605667,
       "num": 605667,
       "word": "严浩翔声纹对比",
@@ -2787,6 +2843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543935,
+      "num": 543935,
+      "word": "别再让黄金店割智商税了",
+      "onboard_time": 1709648857,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 542896,
       "num": 542896,
       "word": "张翰工作室起诉昕影影业",
@@ -2969,6 +3033,14 @@
       "onboard_time": 1709615613,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 525083,
+      "num": 268595,
+      "word": "老公出差抓人老婆在家救人",
+      "onboard_time": 1709673016,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 524866,
@@ -3419,6 +3491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465057,
+      "num": 304813,
+      "word": "老人丢了6000元民警找回16000",
+      "onboard_time": 1709674218,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464389,
       "num": 464389,
       "word": "官方通报村支书坐拥60亩地",
@@ -3585,6 +3665,14 @@
       "onboard_time": 1709448930,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 449550,
+      "num": 268987,
+      "word": "农夫山泉股价连跌三天",
+      "onboard_time": 1709682990,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 448863,
@@ -3761,6 +3849,14 @@
       "onboard_time": 1709235916,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431386,
+      "num": 431386,
+      "word": "建议推动建立父亲育儿假制度",
+      "onboard_time": 1709685995,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 431343,
@@ -3987,14 +4083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 405433,
-      "num": 113816,
-      "word": "老公出差抓人老婆在家救人",
-      "onboard_time": 1709673016,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 404806,
       "num": 404806,
       "word": "Jennie机场",
@@ -4185,14 +4273,6 @@
       "onboard_time": 1709339485,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 387415,
-      "num": 304813,
-      "word": "老人丢了6000元民警找回16000",
-      "onboard_time": 1709674218,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 387035,
@@ -4499,6 +4579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362508,
+      "num": 268861,
+      "word": "黄景瑜撩的狗 阮经天来承受",
+      "onboard_time": 1709686352,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362274,
       "num": 300486,
       "word": "你的工资刚够花还是能照顾到家人",
@@ -4528,6 +4616,14 @@
       "word": "脂肪肝严重可能发展为肝癌",
       "onboard_time": 1709358813,
       "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 357674,
+      "num": 357674,
+      "word": "最新研究找到熬夜致癌原因",
+      "onboard_time": 1709662697,
+      "rank": 48,
       "category": "健康医疗"
     },
     {
@@ -4641,6 +4737,14 @@
       "onboard_time": 1709533110,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 352162,
+      "num": 352162,
+      "word": "LV大秀",
+      "onboard_time": 1709684791,
+      "rank": 7,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 352124,
@@ -5057,6 +5161,14 @@
       "onboard_time": 1709547932,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 322258,
+      "num": 268750,
+      "word": "GAI成功追星周杰伦",
+      "onboard_time": 1709684853,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 321416,
@@ -5883,14 +5995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 274547,
-      "num": 344999,
-      "word": "最新研究找到熬夜致癌原因",
-      "onboard_time": 1709662697,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 274091,
       "num": 251961,
       "word": "下班后邻居叫我煮饭不要这么香",
@@ -6017,6 +6121,14 @@
       "onboard_time": 1709603488,
       "rank": 15,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 268257,
+      "num": 268257,
+      "word": "iOS17.4",
+      "onboard_time": 1709683169,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 267880,
@@ -6161,6 +6273,14 @@
       "onboard_time": 1709475215,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262629,
+      "num": 262629,
+      "word": "上班摸鱼可以做的事",
+      "onboard_time": 1709684316,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 261201,
@@ -6363,6 +6483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 251378,
+      "num": 251378,
+      "word": "魏大勋撑伞路透",
+      "onboard_time": 1709683589,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 250889,
       "num": 236671,
       "word": "法国堕胎权入宪",
@@ -6377,6 +6505,14 @@
       "onboard_time": 1709622995,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 250703,
+      "num": 238680,
+      "word": "周冬雨宋茜欧阳娜娜同框",
+      "onboard_time": 1709686474,
+      "rank": 29,
+      "category": "作品衍生,运动健身"
     },
     {
       "raw_hot": 250264,
@@ -6499,14 +6635,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 244719,
-      "num": 113575,
-      "word": "海景房狂跌",
-      "onboard_time": 1709679682,
-      "rank": 23,
-      "category": "财经"
-    },
-    {
       "raw_hot": 244457,
       "num": 244457,
       "word": "孩子聪不聪明看手上几个动作",
@@ -6609,6 +6737,14 @@
       "onboard_time": 1709388815,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240252,
+      "num": 240252,
+      "word": "恋与深空祁煜",
+      "onboard_time": 1709687012,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 240220,
@@ -7131,6 +7267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 218191,
+      "num": 218191,
+      "word": "金价历史最高有人大赚200多万",
+      "onboard_time": 1709681608,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 218190,
       "num": 218190,
       "word": "胡明轩31分",
@@ -7297,6 +7441,14 @@
       "onboard_time": 1709215296,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214399,
+      "num": 193330,
+      "word": "宋茜回眸",
+      "onboard_time": 1709683953,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 214272,
@@ -7625,6 +7777,14 @@
       "onboard_time": 1709528735,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206068,
+      "num": 206068,
+      "word": "YSL秀场上的尹净汉",
+      "onboard_time": 1709686594,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 205997,
@@ -8211,6 +8371,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 196234,
+      "num": 196234,
+      "word": "大熊猫半夜到村民家吃自助",
+      "onboard_time": 1709683893,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196021,
       "num": 196021,
       "word": "周杰伦录制说唱梦工厂",
@@ -8665,14 +8833,6 @@
       "onboard_time": 1709373512,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187225,
-      "num": 187225,
-      "word": "别再让黄金店割智商税了",
-      "onboard_time": 1709648857,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 187192,
@@ -9403,6 +9563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 173445,
+      "num": 173445,
+      "word": "第一次见识回南天以为楼上漏水了",
+      "onboard_time": 1709686952,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173246,
       "num": 173246,
       "word": "张凌赫无框镜",
@@ -9425,6 +9593,14 @@
       "onboard_time": 1709391035,
       "rank": 39,
       "category": "美食,科学科普"
+    },
+    {
+      "raw_hot": 172889,
+      "num": 172889,
+      "word": "妈妈活成了我想不到的样子",
+      "onboard_time": 1709682749,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 172379,
@@ -9755,6 +9931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166164,
+      "num": 166164,
+      "word": "Facebook和Instagram全球死机",
+      "onboard_time": 1709681424,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 166134,
       "num": 166134,
       "word": "简体中文成为Steam最常用语言",
@@ -9787,6 +9971,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 164977,
+      "num": 164977,
+      "word": "爱到最后各凭良心",
+      "onboard_time": 1709686352,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164931,
       "num": 164931,
       "word": "卓沅 十个勤天卖菜啦",
@@ -9804,7 +9996,7 @@
     },
     {
       "raw_hot": 164702,
-      "num": 352490,
+      "num": 756242,
       "word": "2024全国两会新词热词",
       "onboard_time": 1709639792,
       "rank": 6,
@@ -9915,6 +10107,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 163001,
+      "num": 163001,
+      "word": "回南天 薯片变饺子皮",
+      "onboard_time": 1709684371,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162879,
       "num": 162879,
       "word": "浪姐官博回复李溪芮",
@@ -9937,6 +10137,14 @@
       "onboard_time": 1709252850,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162590,
+      "num": 162590,
+      "word": "文森特预计三月中下旬复出",
+      "onboard_time": 1709687133,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 162290,
@@ -10771,6 +10979,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 147983,
+      "num": 147983,
+      "word": "李龙馥为LV走秀",
+      "onboard_time": 1709684431,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 147890,
       "num": 168188,
       "word": "语文课本和祖国大好河山的适配度",
@@ -11267,6 +11483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140043,
+      "num": 140043,
+      "word": "Lacoste大秀",
+      "onboard_time": 1709682687,
+      "rank": 46,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 139978,
       "num": 139978,
       "word": "张凯 bp有问题会反省",
@@ -11337,14 +11561,6 @@
       "onboard_time": 1709467291,
       "rank": 37,
       "category": "作品衍生,情感"
-    },
-    {
-      "raw_hot": 139298,
-      "num": 95567,
-      "word": "Facebook和Instagram全球死机",
-      "onboard_time": 1709681424,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 139138,
@@ -11457,6 +11673,14 @@
       "onboard_time": 1709361629,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137759,
+      "num": 137759,
+      "word": "耿爽联合国演讲揭美国滥用否决权",
+      "onboard_time": 1709685094,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 137626,
@@ -11905,6 +12129,14 @@
       "onboard_time": 1709458531,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130212,
+      "num": 130212,
+      "word": "新疆乌什县4.7级地震",
+      "onboard_time": 1709687191,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130199,
@@ -12513,6 +12745,14 @@
       "onboard_time": 1709517627,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121570,
+      "num": 121570,
+      "word": "维生素软糖为什么不能吃太多",
+      "onboard_time": 1709680343,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 121401,
@@ -13403,14 +13643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 102237,
-      "num": 102237,
-      "word": "维生素软糖为什么不能吃太多",
-      "onboard_time": 1709680343,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 102193,
       "num": 102193,
       "word": "家长吐槽社会实践作业毫无意义",
@@ -14017,14 +14249,6 @@
       "onboard_time": 1709252432,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 63650,
-      "num": 63650,
-      "word": "金价历史最高有人大赚200多万",
-      "onboard_time": 1709681608,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 63144,
