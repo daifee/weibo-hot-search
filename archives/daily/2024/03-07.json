@@ -1,6 +1,6 @@
 {
   "startTime": 1709742142797,
-  "endTime": 1709753641812,
+  "endTime": 1709756254718,
   "band_list": [
     {
       "raw_hot": 1619908,
@@ -483,6 +483,14 @@
       "category": "艺人,旅游"
     },
     {
+      "raw_hot": 36007,
+      "num": 36007,
+      "word": "钟薛高多平台账号停更",
+      "onboard_time": 1709752877,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 31208,
       "num": 45701,
       "word": "两会学习笔记",
@@ -515,20 +523,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 19645,
+      "num": 19645,
+      "word": "母爱不会被葡萄压碎",
+      "onboard_time": 1709753597,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19003,
       "num": 313498,
       "word": "从政府工作报告看中国经济新动力",
       "onboard_time": 1709728350,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18011,
-      "num": 18011,
-      "word": "钟薛高多平台账号停更",
-      "onboard_time": 1709752877,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 17931,
@@ -539,12 +547,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 12236,
-      "num": 15260,
-      "word": "母爱不会被葡萄压碎",
-      "onboard_time": 1709753597,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 13294,
+      "num": 17068,
+      "word": "居民的难题扫二维码反映解决了",
+      "onboard_time": 1709754915,
+      "rank": 41,
+      "category": "国内时政,社会新闻"
     }
   ],
   "hotgov_list": [
