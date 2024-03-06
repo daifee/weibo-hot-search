@@ -1,0 +1,410 @@
+{
+  "runTime": 1709742142797,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1619908,
+        "num": 1619908,
+        "word": "建议国家全面禁止未成年人网游",
+        "onboard_time": 1709737653,
+        "rank": 0,
+        "category": "国内时政,游戏"
+      },
+      {
+        "raw_hot": 736609,
+        "num": 736609,
+        "word": "男员工误入女厕10秒被解雇",
+        "onboard_time": 1709739753,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41615,
+        "num": 643723,
+        "word": "九个新视角读懂未来机遇",
+        "onboard_time": 1709729131,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 560745,
+        "num": 560745,
+        "word": "回南天取快递 像到了天庭",
+        "onboard_time": 1709736873,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411744,
+        "num": 411744,
+        "word": "唐探2游乐园尺度",
+        "onboard_time": 1709734953,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360130,
+        "num": 360130,
+        "word": "魏大勋神级4秒镜头",
+        "onboard_time": 1709739273,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 347002,
+        "num": 347002,
+        "word": "代表反对让学生逢雨逢雪停课",
+        "onboard_time": 1709733451,
+        "rank": 6,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 326574,
+        "num": 326574,
+        "word": "章若楠难哄去刘海",
+        "onboard_time": 1709728888,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317177,
+        "num": 317177,
+        "word": "钟薛高售价从60元降到2.5元",
+        "onboard_time": 1709707169,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 303043,
+        "num": 303043,
+        "word": "女生千万要小心青纱帐",
+        "onboard_time": 1709727390,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 285858,
+        "num": 285858,
+        "word": "6科室6天6夜成功救回羊水栓塞产妇",
+        "onboard_time": 1709733814,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280752,
+        "num": 280752,
+        "word": "喜茶光与夜之恋联名",
+        "onboard_time": 1709731711,
+        "rank": 11,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 253163,
+        "num": 253163,
+        "word": "家门口被放了五毛钱",
+        "onboard_time": 1709733933,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250474,
+        "num": 250474,
+        "word": "杨幂北电考官",
+        "onboard_time": 1709712813,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242620,
+        "num": 242620,
+        "word": "以前讨厌现在却真香的食物",
+        "onboard_time": 1709732853,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 228911,
+        "num": 228911,
+        "word": "娜扎玩梗",
+        "onboard_time": 1709736334,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176547,
+        "num": 176547,
+        "word": "男生月薪一万一年存10万",
+        "onboard_time": 1709695294,
+        "rank": 16,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 167026,
+        "num": 167026,
+        "word": "唐探2荣梓杉一变脸画风对了",
+        "onboard_time": 1709735912,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165288,
+        "num": 165288,
+        "word": "颖儿带女儿拍汉服写真",
+        "onboard_time": 1709738313,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140026,
+        "num": 140026,
+        "word": "桃花坞路透",
+        "onboard_time": 1709740290,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139472,
+        "num": 139472,
+        "word": "阮经天 我们偶尔见",
+        "onboard_time": 1709728830,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131826,
+        "num": 131826,
+        "word": "工资不高房价却很高的城市",
+        "onboard_time": 1709701172,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131123,
+        "num": 131123,
+        "word": "鲍蕾晒两个女儿跳舞视频",
+        "onboard_time": 1709735253,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117375,
+        "num": 117375,
+        "word": "大理寺少卿游 竹马败给命运",
+        "onboard_time": 1709739511,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114256,
+        "num": 114256,
+        "word": "减少你的分享欲",
+        "onboard_time": 1709726430,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112047,
+        "num": 112047,
+        "word": "陈情令旅游专线",
+        "onboard_time": 1709728170,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 111221,
+        "num": 111221,
+        "word": "程序员下班做偶像",
+        "onboard_time": 1709735554,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111216,
+        "num": 111216,
+        "word": "请勿在NPC身上浪费太多时间",
+        "onboard_time": 1709739753,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111086,
+        "num": 111086,
+        "word": "当领导让00后准备下午茶",
+        "onboard_time": 1709734771,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110234,
+        "num": 110234,
+        "word": "周也冷脸白花",
+        "onboard_time": 1709730212,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108759,
+        "num": 108759,
+        "word": "浪姐5一公分组",
+        "onboard_time": 1709718033,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103766,
+        "num": 103766,
+        "word": "被炸鸡店喂的胖胖的流浪猫",
+        "onboard_time": 1709736813,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99687,
+        "num": 99687,
+        "word": "酱园弄杀青了",
+        "onboard_time": 1709731652,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95827,
+        "num": 95827,
+        "word": "真正抑郁症才有的9个样子",
+        "onboard_time": 1709707169,
+        "rank": 33,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 91126,
+        "num": 91126,
+        "word": "恋与深空",
+        "onboard_time": 1709737774,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90346,
+        "num": 90346,
+        "word": "同事在工位上养水果",
+        "onboard_time": 1709725293,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89481,
+        "num": 89481,
+        "word": "白鹿给自己化的妆",
+        "onboard_time": 1709733451,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85289,
+        "num": 85289,
+        "word": "京东2023年全年收入10847亿元",
+        "onboard_time": 1709735131,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 83201,
+        "num": 83201,
+        "word": "无畏契约",
+        "onboard_time": 1709738071,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70080,
+        "num": 82420,
+        "word": "00后女孩每天端盘子上千次成冠军",
+        "onboard_time": 1709735792,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82333,
+        "num": 82333,
+        "word": "这些汽车一辆比一辆有故事啊",
+        "onboard_time": 1709737175,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 76836,
+        "num": 76836,
+        "word": "王安宇直播",
+        "onboard_time": 1709735974,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76623,
+        "num": 76623,
+        "word": "马思纯回应网友希望接开心的戏",
+        "onboard_time": 1709736694,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74274,
+        "num": 74274,
+        "word": "种地吧",
+        "onboard_time": 1709738611,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69325,
+        "num": 69325,
+        "word": "外国人比中国人还信中国法术",
+        "onboard_time": 1709729010,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64811,
+        "num": 64811,
+        "word": "建议鼓励生态安葬",
+        "onboard_time": 1709733273,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62322,
+        "num": 62322,
+        "word": "唐探2",
+        "onboard_time": 1709737354,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62137,
+        "num": 62137,
+        "word": "阮经天弟弟",
+        "onboard_time": 1709724450,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57090,
+        "num": 62135,
+        "word": "鹿晗队长合作新歌",
+        "onboard_time": 1709732012,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 47129,
+        "num": 62135,
+        "word": "江苏男篮绝杀龙狮男篮",
+        "onboard_time": 1709739809,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国各族各界妇女致以节日祝贺#"
+    }
+  }
+}

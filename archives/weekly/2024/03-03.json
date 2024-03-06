@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709739263127,
+  "endTime": 1709742142797,
   "band_list": [
     {
       "raw_hot": 3203010,
@@ -201,6 +201,14 @@
       "onboard_time": 1709648496,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1619908,
+      "num": 1619908,
+      "word": "建议国家全面禁止未成年人网游",
+      "onboard_time": 1709737653,
+      "rank": 8,
+      "category": "国内时政,游戏"
     },
     {
       "raw_hot": 1577469,
@@ -481,14 +489,6 @@
       "onboard_time": 1709566351,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1198209,
-      "num": 1198209,
-      "word": "建议国家全面禁止未成年人网游",
-      "onboard_time": 1709737653,
-      "rank": 8,
-      "category": "国内时政,游戏"
     },
     {
       "raw_hot": 1197357,
@@ -1259,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 736609,
+      "num": 736609,
+      "word": "男员工误入女厕10秒被解雇",
+      "onboard_time": 1709739753,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 731551,
       "num": 333966,
       "word": "王一博脸颊肉回来了",
@@ -2025,6 +2033,14 @@
       "onboard_time": 1709604086,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 560745,
+      "num": 560745,
+      "word": "回南天取快递 像到了天庭",
+      "onboard_time": 1709736873,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 558142,
@@ -3523,6 +3539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360130,
+      "num": 360130,
+      "word": "魏大勋神级4秒镜头",
+      "onboard_time": 1709739273,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 357674,
       "num": 357674,
       "word": "最新研究找到熬夜致癌原因",
@@ -3769,14 +3793,6 @@
       "onboard_time": 1709457811,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 334689,
-      "num": 334689,
-      "word": "回南天取快递 像到了天庭",
-      "onboard_time": 1709736873,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 334629,
@@ -7643,6 +7659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165288,
+      "num": 165288,
+      "word": "颖儿带女儿拍汉服写真",
+      "onboard_time": 1709738313,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 164977,
       "num": 164977,
       "word": "爱到最后各凭良心",
@@ -7905,14 +7929,6 @@
       "onboard_time": 1709705252,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160463,
-      "num": 160463,
-      "word": "颖儿带女儿拍汉服写真",
-      "onboard_time": 1709738313,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 159987,
@@ -8961,6 +8977,14 @@
       "onboard_time": 1709709510,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 140026,
+      "num": 140026,
+      "word": "桃花坞路透",
+      "onboard_time": 1709740290,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 139957,
@@ -10179,6 +10203,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 117375,
+      "num": 117375,
+      "word": "大理寺少卿游 竹马败给命运",
+      "onboard_time": 1709739511,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117237,
       "num": 117237,
       "word": "爱国情怀岂能这样消费",
@@ -10464,6 +10496,14 @@
       "word": "只有猫咪在独自享受回南天",
       "onboard_time": 1709721152,
       "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 111216,
+      "num": 111216,
+      "word": "请勿在NPC身上浪费太多时间",
+      "onboard_time": 1709739753,
+      "rank": 27,
       "category": "情感"
     },
     {
@@ -11337,6 +11377,14 @@
       "onboard_time": 1709497935,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47129,
+      "num": 62135,
+      "word": "江苏男篮绝杀龙狮男篮",
+      "onboard_time": 1709739809,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 46375,
