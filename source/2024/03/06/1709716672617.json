@@ -1,0 +1,410 @@
+{
+  "runTime": 1709716672617,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1489542,
+        "num": 1489542,
+        "word": "钟薛高售价从60元降到2.5元",
+        "onboard_time": 1709707169,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 912763,
+        "num": 912763,
+        "word": "男生月薪一万一年存10万",
+        "onboard_time": 1709695294,
+        "rank": 1,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 9937,
+        "num": 637372,
+        "word": "两会数读中国",
+        "onboard_time": 1709632235,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637126,
+        "num": 637126,
+        "word": "真正抑郁症才有的9个样子",
+        "onboard_time": 1709707169,
+        "rank": 3,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 495810,
+        "num": 495810,
+        "word": "桑延温以凡合体了",
+        "onboard_time": 1709710830,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466821,
+        "num": 466821,
+        "word": "横店群演紧缺",
+        "onboard_time": 1709715690,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 427520,
+        "num": 427520,
+        "word": "祁煜直播",
+        "onboard_time": 1709713952,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 314399,
+        "num": 314399,
+        "word": "短剧演员",
+        "onboard_time": 1709713890,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 299863,
+        "num": 299863,
+        "word": "建议公务员招录取缔职业院校生歧视政策",
+        "onboard_time": 1709700695,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176390,
+        "num": 298042,
+        "word": "建议以家庭为单位征税",
+        "onboard_time": 1709704832,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1511906,
+        "num": 296477,
+        "word": "杨幂北电考官",
+        "onboard_time": 1709712813,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 744372,
+        "num": 291551,
+        "word": "小杨哥跌出带货榜前20",
+        "onboard_time": 1709709272,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 610402,
+        "num": 290060,
+        "word": "工资不高房价却很高的城市",
+        "onboard_time": 1709701172,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472775,
+        "num": 288288,
+        "word": "刘亦菲也够不着的男人",
+        "onboard_time": 1709707772,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 434526,
+        "num": 284067,
+        "word": "钟薛高被执行81万元",
+        "onboard_time": 1709713293,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317301,
+        "num": 281798,
+        "word": "闺蜜搬家叫了一个7米6的车",
+        "onboard_time": 1709708312,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311405,
+        "num": 278417,
+        "word": "傅若清称肖战等演员的演绎让人眼前一亮",
+        "onboard_time": 1709712093,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277069,
+        "num": 277069,
+        "word": "专家称HPV疫苗能约几价就打几价",
+        "onboard_time": 1709711854,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 235174,
+        "num": 235174,
+        "word": "美国埋下的核恶魔将被放出",
+        "onboard_time": 1709706091,
+        "rank": 18,
+        "category": "国外时政,科学科普"
+      },
+      {
+        "raw_hot": 232994,
+        "num": 232994,
+        "word": "西班牙女粉丝遭遇假罗云熙杀猪盘",
+        "onboard_time": 1709709931,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265675,
+        "num": 232679,
+        "word": "舍友妈妈在宿舍住了五天",
+        "onboard_time": 1709701533,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229483,
+        "num": 229483,
+        "word": "向佐infg",
+        "onboard_time": 1709715393,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221678,
+        "num": 221678,
+        "word": "黄景瑜南京",
+        "onboard_time": 1709712453,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204096,
+        "num": 204096,
+        "word": "秦岚申请当胡先煦站姐",
+        "onboard_time": 1709710054,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195086,
+        "num": 195086,
+        "word": "Irene姐的神级七秒美貌",
+        "onboard_time": 1709710412,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192908,
+        "num": 192908,
+        "word": "ICU医生称见过生死仍看不透死亡",
+        "onboard_time": 1709703093,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 522556,
+        "num": 192369,
+        "word": "三八妇女节 迪士妮",
+        "onboard_time": 1709714493,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 190330,
+        "num": 190330,
+        "word": "山东泰山首发",
+        "onboard_time": 1709714252,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189842,
+        "num": 189842,
+        "word": "不能给你800元是因为我真的有",
+        "onboard_time": 1709705610,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187013,
+        "num": 187013,
+        "word": "经济主题记者会",
+        "onboard_time": 1709716533,
+        "rank": 29,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 181937,
+        "num": 181937,
+        "word": "Meiko和明凯合伙开公司",
+        "onboard_time": 1709716233,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175100,
+        "num": 175100,
+        "word": "要不要为了男朋友放弃offer",
+        "onboard_time": 1709709754,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167445,
+        "num": 167445,
+        "word": "彩礼是对女性的生育补偿吗",
+        "onboard_time": 1709694633,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159053,
+        "num": 159053,
+        "word": "保护投资者合法权益是证监会核心任务",
+        "onboard_time": 1709716352,
+        "rank": 33,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 158705,
+        "num": 158705,
+        "word": "不建议频繁涂抹润唇膏",
+        "onboard_time": 1709702669,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 157794,
+        "num": 157794,
+        "word": "妻子力挺丈夫6次创业终逆袭",
+        "onboard_time": 1709689111,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156289,
+        "num": 156289,
+        "word": "上班有没有必要化妆",
+        "onboard_time": 1709716053,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 155549,
+        "num": 155549,
+        "word": "魏大勋巴黎时装周",
+        "onboard_time": 1709714192,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149815,
+        "num": 149815,
+        "word": "足金首饰价格突破650元每克",
+        "onboard_time": 1709715811,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148759,
+        "num": 148759,
+        "word": "藏海花 张起灵",
+        "onboard_time": 1709694933,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142190,
+        "num": 142190,
+        "word": "17年前的大女主发言震耳欲聋",
+        "onboard_time": 1709711311,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134830,
+        "num": 134830,
+        "word": "刘诗诗掌心新妆造",
+        "onboard_time": 1709715932,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133815,
+        "num": 133815,
+        "word": "章若楠 重庆",
+        "onboard_time": 1709701054,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121071,
+        "num": 121071,
+        "word": "84岁的爷爷一早上挣了500",
+        "onboard_time": 1709703694,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116857,
+        "num": 116857,
+        "word": "Capcom新员工涨薪",
+        "onboard_time": 1709715987,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112459,
+        "num": 112459,
+        "word": "半熟恋人 男嘉宾只顾独美",
+        "onboard_time": 1709710174,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111079,
+        "num": 111079,
+        "word": "女性一个月中的变化",
+        "onboard_time": 1709709510,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110986,
+        "num": 110986,
+        "word": "盒马被曝清货关门",
+        "onboard_time": 1709694633,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 104715,
+        "num": 104715,
+        "word": "周处除三害 潮汕文化",
+        "onboard_time": 1709714192,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104368,
+        "num": 104368,
+        "word": "克雷桑替补",
+        "onboard_time": 1709715151,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望全国政协委员#"
+    }
+  }
+}

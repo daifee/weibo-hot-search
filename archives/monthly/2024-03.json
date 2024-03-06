@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709714148999,
+  "endTime": 1709716672617,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1511906,
+      "num": 296477,
+      "word": "杨幂北电考官",
+      "onboard_time": 1709712813,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1508413,
       "num": 1508413,
       "word": "霍启刚 建议落实带薪休假制度",
@@ -593,14 +601,6 @@
       "onboard_time": 1709553274,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1334383,
-      "num": 247395,
-      "word": "杨幂北电考官",
-      "onboard_time": 1709712813,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 1319841,
@@ -924,7 +924,7 @@
     },
     {
       "raw_hot": 1094112,
-      "num": 247335,
+      "num": 291551,
       "word": "小杨哥跌出带货榜前20",
       "onboard_time": 1709709272,
       "rank": 47,
@@ -2676,7 +2676,7 @@
     },
     {
       "raw_hot": 601145,
-      "num": 247219,
+      "num": 281798,
       "word": "闺蜜搬家叫了一个7米6的车",
       "onboard_time": 1709708312,
       "rank": 31,
@@ -3307,6 +3307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 522556,
+      "num": 192369,
+      "word": "三八妇女节 迪士妮",
+      "onboard_time": 1709714493,
+      "rank": 26,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 521173,
       "num": 521173,
       "word": "孙千裤子",
@@ -3755,6 +3763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 466821,
+      "num": 466821,
+      "word": "横店群演紧缺",
+      "onboard_time": 1709715690,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 466476,
       "num": 466476,
       "word": "李雪琴王建国 藏头诗表演",
@@ -4139,6 +4155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434526,
+      "num": 284067,
+      "word": "钟薛高被执行81万元",
+      "onboard_time": 1709713293,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432995,
       "num": 432995,
       "word": "赵丽颖出道前的工作",
@@ -4193,6 +4217,14 @@
       "onboard_time": 1709255192,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427520,
+      "num": 427520,
+      "word": "祁煜直播",
+      "onboard_time": 1709713952,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 426965,
@@ -5795,6 +5827,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 314399,
+      "num": 314399,
+      "word": "短剧演员",
+      "onboard_time": 1709713890,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 312791,
       "num": 262938,
       "word": "浪姐入浪仪式",
@@ -5817,6 +5857,14 @@
       "onboard_time": 1709296774,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 311405,
+      "num": 278417,
+      "word": "傅若清称肖战等演员的演绎让人眼前一亮",
+      "onboard_time": 1709712093,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 311294,
@@ -6401,6 +6449,14 @@
       "onboard_time": 1709452228,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277069,
+      "num": 277069,
+      "word": "专家称HPV疫苗能约几价就打几价",
+      "onboard_time": 1709711854,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 277013,
@@ -7027,14 +7083,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 250475,
-      "num": 250475,
-      "word": "傅若清称肖战等演员的演绎让人眼前一亮",
-      "onboard_time": 1709712093,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 250264,
       "num": 250264,
       "word": "评论区比考公还激烈",
@@ -7411,14 +7459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 235521,
-      "num": 235521,
-      "word": "专家称HPV疫苗能约几价就打几价",
-      "onboard_time": 1709711854,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 235481,
       "num": 235481,
       "word": "化妆真是太牛了",
@@ -7529,6 +7569,14 @@
       "onboard_time": 1709343331,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 229483,
+      "num": 229483,
+      "word": "向佐infg",
+      "onboard_time": 1709715393,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 228888,
@@ -9371,6 +9419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190330,
+      "num": 190330,
+      "word": "山东泰山首发",
+      "onboard_time": 1709714252,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190150,
       "num": 190150,
       "word": "檀健次跳道歉舞",
@@ -9433,14 +9489,6 @@
       "onboard_time": 1709290473,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 189199,
-      "num": 183156,
-      "word": "钟薛高被执行81万元",
-      "onboard_time": 1709713293,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189139,
@@ -9569,6 +9617,14 @@
       "onboard_time": 1709684371,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187013,
+      "num": 187013,
+      "word": "经济主题记者会",
+      "onboard_time": 1709716533,
+      "rank": 29,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 186587,
@@ -9731,14 +9787,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 183052,
-      "num": 183052,
-      "word": "祁煜直播",
-      "onboard_time": 1709713952,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 183006,
       "num": 183006,
       "word": "妈妈我偷偷瞒着你做了很多事",
@@ -9801,6 +9849,14 @@
       "onboard_time": 1709280571,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 181937,
+      "num": 181937,
+      "word": "Meiko和明凯合伙开公司",
+      "onboard_time": 1709716233,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 181927,
@@ -11179,6 +11235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159053,
+      "num": 159053,
+      "word": "保护投资者合法权益是证监会核心任务",
+      "onboard_time": 1709716352,
+      "rank": 33,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 159028,
       "num": 159028,
       "word": "别对我动心",
@@ -11443,6 +11507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 156289,
+      "num": 156289,
+      "word": "上班有没有必要化妆",
+      "onboard_time": 1709716053,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 156233,
       "num": 156233,
       "word": "阮经天 谁说颜值不能当饭吃",
@@ -11481,6 +11553,14 @@
       "onboard_time": 1709302474,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155549,
+      "num": 155549,
+      "word": "魏大勋巴黎时装周",
+      "onboard_time": 1709714192,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 155369,
@@ -11801,6 +11881,14 @@
       "onboard_time": 1709263353,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149815,
+      "num": 149815,
+      "word": "足金首饰价格突破650元每克",
+      "onboard_time": 1709715811,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 149662,
@@ -12915,6 +13003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134830,
+      "num": 134830,
+      "word": "刘诗诗掌心新妆造",
+      "onboard_time": 1709715932,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134791,
       "num": 134791,
       "word": "林一李兰迪新剧吻戏镜头",
@@ -13555,14 +13651,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 125384,
-      "num": 125384,
-      "word": "短剧演员",
-      "onboard_time": 1709713890,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 125061,
       "num": 125061,
       "word": "唐人街探案",
@@ -14073,6 +14161,14 @@
       "onboard_time": 1709427206,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116857,
+      "num": 116857,
+      "word": "Capcom新员工涨薪",
+      "onboard_time": 1709715987,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 116821,
@@ -14649,6 +14745,22 @@
       "onboard_time": 1709469512,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104715,
+      "num": 104715,
+      "word": "周处除三害 潮汕文化",
+      "onboard_time": 1709714192,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 104368,
+      "num": 104368,
+      "word": "克雷桑替补",
+      "onboard_time": 1709715151,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 104343,
@@ -16355,20 +16467,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 9937,
+      "num": 768285,
+      "word": "两会数读中国",
+      "onboard_time": 1709632235,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9473,
       "num": 174221,
       "word": "杨紫琼先锋夫人",
       "onboard_time": 1709264914,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 9416,
-      "num": 768285,
-      "word": "两会数读中国",
-      "onboard_time": 1709632235,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8947,
@@ -16482,6 +16594,9 @@
     },
     {
       "word": "#总书记有力指导新质生产力发展实践#"
+    },
+    {
+      "word": "#习近平看望全国政协委员#"
     }
   ]
 }

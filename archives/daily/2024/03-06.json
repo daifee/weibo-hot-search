@@ -1,6 +1,6 @@
 {
   "startTime": 1709655654688,
-  "endTime": 1709714148999,
+  "endTime": 1709716672617,
   "band_list": [
     {
       "raw_hot": 3203010,
@@ -35,6 +35,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1511906,
+      "num": 296477,
+      "word": "杨幂北电考官",
+      "onboard_time": 1709712813,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1460846,
       "num": 389378,
       "word": "工资不高房价却很高的城市",
@@ -49,14 +57,6 @@
       "onboard_time": 1709694633,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1334383,
-      "num": 247395,
-      "word": "杨幂北电考官",
-      "onboard_time": 1709712813,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 1248779,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1094112,
-      "num": 247335,
+      "num": 291551,
       "word": "小杨哥跌出带货榜前20",
       "onboard_time": 1709709272,
       "rank": 47,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 601145,
-      "num": 247219,
+      "num": 281798,
       "word": "闺蜜搬家叫了一个7米6的车",
       "onboard_time": 1709708312,
       "rank": 31,
@@ -353,6 +353,14 @@
       "onboard_time": 1709673016,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522556,
+      "num": 192369,
+      "word": "三八妇女节 迪士妮",
+      "onboard_time": 1709714493,
+      "rank": 26,
+      "category": "旅游"
     },
     {
       "raw_hot": 515373,
@@ -443,6 +451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 466821,
+      "num": 466821,
+      "word": "横店群演紧缺",
+      "onboard_time": 1709715690,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 465057,
       "num": 304813,
       "word": "老人丢了6000元民警找回16000",
@@ -483,12 +499,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 434526,
+      "num": 284067,
+      "word": "钟薛高被执行81万元",
+      "onboard_time": 1709713293,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431386,
       "num": 431386,
       "word": "建议推动建立父亲育儿假制度",
       "onboard_time": 1709685995,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 427520,
+      "num": 427520,
+      "word": "祁煜直播",
+      "onboard_time": 1709713952,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 424290,
@@ -691,6 +723,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314399,
+      "num": 314399,
+      "word": "短剧演员",
+      "onboard_time": 1709713890,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 311405,
+      "num": 278417,
+      "word": "傅若清称肖战等演员的演绎让人眼前一亮",
+      "onboard_time": 1709712093,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 309577,
       "num": 213742,
       "word": "张元英miumiu巴黎时装周",
@@ -753,6 +801,14 @@
       "onboard_time": 1709647897,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277069,
+      "num": 277069,
+      "word": "专家称HPV疫苗能约几价就打几价",
+      "onboard_time": 1709711854,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 274953,
@@ -851,14 +907,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 250475,
-      "num": 250475,
-      "word": "傅若清称肖战等演员的演绎让人眼前一亮",
-      "onboard_time": 1709712093,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 248310,
       "num": 328350,
       "word": "建议消除简历第一学历概念",
@@ -891,20 +939,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 235521,
-      "num": 235521,
-      "word": "专家称HPV疫苗能约几价就打几价",
-      "onboard_time": 1709711854,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 229510,
       "num": 229510,
       "word": "两会",
       "onboard_time": 1709686173,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 229483,
+      "num": 229483,
+      "word": "向佐infg",
+      "onboard_time": 1709715393,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 228888,
@@ -1155,12 +1203,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189199,
-      "num": 183156,
-      "word": "钟薛高被执行81万元",
-      "onboard_time": 1709713293,
-      "rank": 44,
-      "category": "社会新闻"
+      "raw_hot": 190330,
+      "num": 190330,
+      "word": "山东泰山首发",
+      "onboard_time": 1709714252,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 188901,
@@ -1179,6 +1227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187013,
+      "num": 187013,
+      "word": "经济主题记者会",
+      "onboard_time": 1709716533,
+      "rank": 29,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 183487,
       "num": 183487,
       "word": "男朋友谈过一段很长的恋爱",
@@ -1187,12 +1243,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 183052,
-      "num": 183052,
-      "word": "祁煜直播",
-      "onboard_time": 1709713952,
-      "rank": 31,
-      "category": "游戏"
+      "raw_hot": 181937,
+      "num": 181937,
+      "word": "Meiko和明凯合伙开公司",
+      "onboard_time": 1709716233,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 181387,
@@ -1419,6 +1475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159053,
+      "num": 159053,
+      "word": "保护投资者合法权益是证监会核心任务",
+      "onboard_time": 1709716352,
+      "rank": 33,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 158833,
       "num": 158833,
       "word": "张杰演唱会上海站即将开售",
@@ -1459,11 +1523,27 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 156289,
+      "num": 156289,
+      "word": "上班有没有必要化妆",
+      "onboard_time": 1709716053,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 155853,
       "num": 150473,
       "word": "欧阳娜娜G社生图",
       "onboard_time": 1709694812,
       "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 155549,
+      "num": 155549,
+      "word": "魏大勋巴黎时装周",
+      "onboard_time": 1709714192,
+      "rank": 37,
       "category": "作品衍生,时尚"
     },
     {
@@ -1513,6 +1593,14 @@
       "onboard_time": 1709709689,
       "rank": 35,
       "category": "美食,科学科普"
+    },
+    {
+      "raw_hot": 149815,
+      "num": 149815,
+      "word": "足金首饰价格突破650元每克",
+      "onboard_time": 1709715811,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 149306,
@@ -1635,6 +1723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 134830,
+      "num": 134830,
+      "word": "刘诗诗掌心新妆造",
+      "onboard_time": 1709715932,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134207,
       "num": 134207,
       "word": "胡先煦 叫宝贝烫嘴",
@@ -1697,14 +1793,6 @@
       "onboard_time": 1709713112,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125384,
-      "num": 125384,
-      "word": "短剧演员",
-      "onboard_time": 1709713890,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 125203,
@@ -1771,6 +1859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116857,
+      "num": 116857,
+      "word": "Capcom新员工涨薪",
+      "onboard_time": 1709715987,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116635,
       "num": 116635,
       "word": "2块钱的维C和上百元的维C哪个更好",
@@ -1825,6 +1921,22 @@
       "onboard_time": 1709639792,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 104715,
+      "num": 104715,
+      "word": "周处除三害 潮汕文化",
+      "onboard_time": 1709714192,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 104368,
+      "num": 104368,
+      "word": "克雷桑替补",
+      "onboard_time": 1709715151,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 102362,
@@ -2115,7 +2227,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 9416,
+      "raw_hot": 9937,
       "num": 768285,
       "word": "两会数读中国",
       "onboard_time": 1709632235,
@@ -2135,6 +2247,9 @@
     },
     {
       "word": "#总书记有力指导新质生产力发展实践#"
+    },
+    {
+      "word": "#习近平看望全国政协委员#"
     }
   ]
 }
