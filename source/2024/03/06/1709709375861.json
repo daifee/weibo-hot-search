@@ -1,0 +1,410 @@
+{
+  "runTime": 1709709375861,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2064244,
+        "num": 2064244,
+        "word": "钟薛高售价从60元降到2.5元",
+        "onboard_time": 1709707169,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1192058,
+        "num": 1192058,
+        "word": "男生月薪一万一年存10万",
+        "onboard_time": 1709695294,
+        "rank": 1,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 45673,
+        "num": 1020500,
+        "word": "6个角度看今年发展主要预期目标",
+        "onboard_time": 1709697332,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 986058,
+        "num": 986058,
+        "word": "真正抑郁症才有的9个样子",
+        "onboard_time": 1709707169,
+        "rank": 3,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 678663,
+        "num": 678663,
+        "word": "建议公务员招录取缔职业院校生歧视政策",
+        "onboard_time": 1709700695,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 605561,
+        "num": 605561,
+        "word": "不能给你800元是因为我真的有",
+        "onboard_time": 1709705610,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 436815,
+        "num": 436815,
+        "word": "不建议频繁涂抹润唇膏",
+        "onboard_time": 1709702669,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 343419,
+        "num": 343419,
+        "word": "建议以家庭为单位征税",
+        "onboard_time": 1709704832,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 323627,
+        "num": 323627,
+        "word": "藏海花 张起灵",
+        "onboard_time": 1709694933,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279256,
+        "num": 279256,
+        "word": "十四届全国人大二次会议记者会",
+        "onboard_time": 1709708730,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1022032,
+        "num": 279255,
+        "word": "工资不高房价却很高的城市",
+        "onboard_time": 1709701172,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718127,
+        "num": 279168,
+        "word": "刘亦菲也够不着的男人",
+        "onboard_time": 1709707772,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 537727,
+        "num": 279147,
+        "word": "ICU医生称见过生死仍看不透死亡",
+        "onboard_time": 1709703093,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 370283,
+        "num": 279091,
+        "word": "美国埋下的核恶魔将被放出",
+        "onboard_time": 1709706091,
+        "rank": 13,
+        "category": "国外时政,科学科普"
+      },
+      {
+        "raw_hot": 351765,
+        "num": 279065,
+        "word": "章若楠 重庆",
+        "onboard_time": 1709701054,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279025,
+        "num": 279025,
+        "word": "妻子力挺丈夫6次创业终逆袭",
+        "onboard_time": 1709689111,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311533,
+        "num": 278706,
+        "word": "彩礼是对女性的生育补偿吗",
+        "onboard_time": 1709694633,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303056,
+        "num": 276711,
+        "word": "盒马被曝清货关门",
+        "onboard_time": 1709694633,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 552385,
+        "num": 275505,
+        "word": "小杨哥称今年将再减少带货直播",
+        "onboard_time": 1709707469,
+        "rank": 18,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 291951,
+        "num": 274306,
+        "word": "模仿迪丽热巴天使蹲易受伤",
+        "onboard_time": 1709705131,
+        "rank": 19,
+        "category": "艺人,健康医疗"
+      },
+      {
+        "raw_hot": 273122,
+        "num": 273122,
+        "word": "84岁的爷爷一早上挣了500",
+        "onboard_time": 1709703694,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261960,
+        "num": 261960,
+        "word": "舍友妈妈在宿舍住了五天",
+        "onboard_time": 1709701533,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247744,
+        "num": 247744,
+        "word": "睡眠不足引发全身炎症风暴",
+        "onboard_time": 1709690252,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231715,
+        "num": 231715,
+        "word": "白敬亭难哄路透",
+        "onboard_time": 1709696672,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218310,
+        "num": 218310,
+        "word": "一县医院院长同时任40家医院院长",
+        "onboard_time": 1709706932,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217963,
+        "num": 217963,
+        "word": "恋与深空 沙滩祝福",
+        "onboard_time": 1709708848,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192945,
+        "num": 192945,
+        "word": "BLACKPINK巴黎时装周四人四色",
+        "onboard_time": 1709700274,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 188615,
+        "num": 188615,
+        "word": "杨紫金色高定",
+        "onboard_time": 1709702851,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175039,
+        "num": 175039,
+        "word": "多部门建议支持大龄女性生育力保存",
+        "onboard_time": 1709701235,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51197,
+        "num": 174591,
+        "word": "价格战蔓延到B级车",
+        "onboard_time": 1709708429,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 140947,
+        "num": 174579,
+        "word": "有一种知识叫女性经验",
+        "onboard_time": 1709708912,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 325722,
+        "num": 174579,
+        "word": "闺蜜搬家叫了一个7米6的车",
+        "onboard_time": 1709708312,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174578,
+        "num": 174578,
+        "word": "赵雷郑州",
+        "onboard_time": 1709706269,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168317,
+        "num": 168317,
+        "word": "无意间发现了老婆开车时的样子",
+        "onboard_time": 1709693671,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162711,
+        "num": 162711,
+        "word": "马丽一滴泪哭戏演出爆发感",
+        "onboard_time": 1709708969,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155284,
+        "num": 155284,
+        "word": "刘亦菲谷爱凌坐一起",
+        "onboard_time": 1709692231,
+        "rank": 35,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 148135,
+        "num": 148135,
+        "word": "TikTok回应美议员要求165天内剥离字节跳动",
+        "onboard_time": 1709705071,
+        "rank": 36,
+        "category": "互联网,国外时政"
+      },
+      {
+        "raw_hot": 147676,
+        "num": 147676,
+        "word": "王鹤棣是一点也不内耗",
+        "onboard_time": 1709703034,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20727,
+        "num": 146057,
+        "word": "赵露思海边防晒舞",
+        "onboard_time": 1709707590,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144560,
+        "num": 144560,
+        "word": "南京大屠杀幸存者陈桂香去世",
+        "onboard_time": 1709704713,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136447,
+        "num": 136447,
+        "word": "广东回南天孩子淡定撑伞睡觉",
+        "onboard_time": 1709704649,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134532,
+        "num": 134532,
+        "word": "坚持锻炼相当于1年多赚17万",
+        "onboard_time": 1709690849,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 134248,
+        "num": 134248,
+        "word": "孙怡芭比妆",
+        "onboard_time": 1709704110,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421384,
+        "num": 133322,
+        "word": "月经两个字烫嘴吗",
+        "onboard_time": 1709700454,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131800,
+        "num": 131800,
+        "word": "睡前长期玩手机可能让你变丑",
+        "onboard_time": 1709696971,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129344,
+        "num": 129344,
+        "word": "恋与深空直播",
+        "onboard_time": 1709706932,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128811,
+        "num": 128811,
+        "word": "赵丽颖林更新早期的微信互动",
+        "onboard_time": 1709694331,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119958,
+        "num": 119958,
+        "word": "小杨哥跌出带货榜前20",
+        "onboard_time": 1709709272,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114891,
+        "num": 114891,
+        "word": "杜兰特掀翻掘金",
+        "onboard_time": 1709705131,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112252,
+        "num": 112252,
+        "word": "一点点怎么消失了",
+        "onboard_time": 1709698296,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记有力指导新质生产力发展实践#"
+    }
+  }
+}
