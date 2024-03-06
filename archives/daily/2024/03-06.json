@@ -1,7 +1,15 @@
 {
   "startTime": 1709655654688,
-  "endTime": 1709696066000,
+  "endTime": 1709698801447,
   "band_list": [
+    {
+      "raw_hot": 3153795,
+      "num": 3153795,
+      "word": "男生月薪一万一年存10万",
+      "onboard_time": 1709695294,
+      "rank": 12,
+      "category": "情感,社会新闻"
+    },
     {
       "raw_hot": 1948314,
       "num": 1948314,
@@ -9,6 +17,30 @@
       "onboard_time": 1709689111,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1827327,
+      "num": 322355,
+      "word": "盒马被曝清货关门",
+      "onboard_time": 1709694633,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 1290434,
+      "num": 316811,
+      "word": "彩礼是对女性的生育补偿吗",
+      "onboard_time": 1709694633,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1248779,
+      "num": 309345,
+      "word": "白敬亭难哄路透",
+      "onboard_time": 1709696672,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 1203413,
@@ -27,20 +59,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1101093,
+      "num": 1034617,
+      "word": "藏海花 张起灵",
+      "onboard_time": 1709694933,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1093258,
       "num": 1093258,
       "word": "中青报评霍启刚建议引热议",
       "onboard_time": 1709683051,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1034617,
-      "num": 1034617,
-      "word": "藏海花 张起灵",
-      "onboard_time": 1709694933,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 1022280,
@@ -83,14 +115,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 861573,
-      "num": 322355,
-      "word": "盒马被曝清货关门",
-      "onboard_time": 1709694633,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 826094,
       "num": 308030,
       "word": "这哪是回南天这是回南天门了吧",
@@ -105,14 +129,6 @@
       "onboard_time": 1709682629,
       "rank": 13,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 787373,
-      "num": 321451,
-      "word": "男生月薪一万一年存10万",
-      "onboard_time": 1709695294,
-      "rank": 12,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 772261,
@@ -179,7 +195,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 588693,
+      "raw_hot": 605387,
       "num": 312485,
       "word": "无意间发现了老婆开车时的样子",
       "onboard_time": 1709693671,
@@ -219,14 +235,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 527011,
-      "num": 316811,
-      "word": "彩礼是对女性的生育补偿吗",
-      "onboard_time": 1709694633,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 525083,
       "num": 275094,
       "word": "老公出差抓人老婆在家救人",
@@ -257,6 +265,14 @@
       "onboard_time": 1709633971,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 484642,
+      "num": 484642,
+      "word": "睡前长期玩手机可能让你变丑",
+      "onboard_time": 1709696971,
+      "rank": 5,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 483618,
@@ -355,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 406215,
+      "num": 406215,
+      "word": "难哄路透",
+      "onboard_time": 1709696971,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 382029,
       "num": 278370,
       "word": "周冬雨宋茜欧阳娜娜同框",
@@ -385,6 +409,14 @@
       "onboard_time": 1709684791,
       "rank": 7,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 345475,
+      "num": 263902,
+      "word": "女子将男友30多只鞋子从35楼扔下",
+      "onboard_time": 1709696255,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337318,
@@ -419,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318118,
+      "num": 318118,
+      "word": "白岩松谈年轻人被批啃老",
+      "onboard_time": 1709693970,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 309577,
       "num": 213742,
       "word": "张元英miumiu巴黎时装周",
@@ -451,6 +491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 293516,
+      "num": 293516,
+      "word": "84.7%的职场人下班后仍会关注工作消息",
+      "onboard_time": 1709697154,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290850,
       "num": 290850,
       "word": "阴阳师 初音未来",
@@ -473,6 +521,14 @@
       "onboard_time": 1709647897,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273461,
+      "num": 273461,
+      "word": "恐怖游戏 回南天",
+      "onboard_time": 1709697693,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 269829,
@@ -539,12 +595,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 242890,
-      "num": 242890,
-      "word": "白岩松谈年轻人被批啃老",
-      "onboard_time": 1709693970,
-      "rank": 24,
-      "category": "国内时政"
+      "raw_hot": 243378,
+      "num": 243378,
+      "word": "金饰卖一口价不告知克数合理吗",
+      "onboard_time": 1709697995,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 236122,
@@ -603,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215565,
+      "num": 215565,
+      "word": "世界之外排行榜",
+      "onboard_time": 1709696011,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214399,
       "num": 193330,
       "word": "宋茜回眸",
@@ -659,6 +723,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196259,
+      "num": 196259,
+      "word": "周冬雨刘亦菲宋茜G社生图",
+      "onboard_time": 1709697453,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 196102,
+      "num": 272229,
+      "word": "杨紫怼脸拍状态",
+      "onboard_time": 1709696011,
+      "rank": 49,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 196021,
       "num": 196021,
       "word": "周杰伦录制说唱梦工厂",
@@ -697,6 +777,14 @@
       "onboard_time": 1709684371,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 185867,
+      "num": 185867,
+      "word": "一点点怎么消失了",
+      "onboard_time": 1709698296,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 183487,
@@ -963,6 +1051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139244,
+      "num": 139244,
+      "word": "祁煜的画展",
+      "onboard_time": 1709697513,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137759,
       "num": 137759,
       "word": "耿爽联合国演讲揭美国滥用否决权",
@@ -1001,6 +1097,14 @@
       "onboard_time": 1709687191,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129891,
+      "num": 129891,
+      "word": "蔡依林温州抢票",
+      "onboard_time": 1709697274,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 125203,
@@ -1057,14 +1161,6 @@
       "onboard_time": 1709651794,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 111495,
-      "num": 111495,
-      "word": "世界之外排行榜",
-      "onboard_time": 1709696011,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 108050,
@@ -1129,14 +1225,6 @@
       "onboard_time": 1709680343,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 87759,
-      "num": 100813,
-      "word": "杨紫怼脸拍状态",
-      "onboard_time": 1709696011,
-      "rank": 49,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 87348,
@@ -1259,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50578,
+      "num": 712093,
+      "word": "6个角度看今年发展主要预期目标",
+      "onboard_time": 1709697332,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 48431,
       "num": 151045,
       "word": "浮生忆玲珑来西湖摇人了",
@@ -1364,6 +1460,9 @@
     },
     {
       "word": "#发展新质生产力不是忽视放弃传统产业#"
+    },
+    {
+      "word": "#总书记有力指导新质生产力发展实践#"
     }
   ]
 }

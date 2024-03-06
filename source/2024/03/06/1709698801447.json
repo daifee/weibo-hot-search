@@ -1,0 +1,410 @@
+{
+  "runTime": 1709698801447,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3153795,
+        "num": 3153795,
+        "word": "男生月薪一万一年存10万",
+        "onboard_time": 1709695294,
+        "rank": 0,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 955823,
+        "num": 955823,
+        "word": "妻子力挺丈夫6次创业终逆袭",
+        "onboard_time": 1709689111,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50578,
+        "num": 712093,
+        "word": "6个角度看今年发展主要预期目标",
+        "onboard_time": 1709697332,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1101093,
+        "num": 698457,
+        "word": "藏海花 张起灵",
+        "onboard_time": 1709694933,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 595814,
+        "num": 595814,
+        "word": "坚持锻炼相当于1年多赚17万",
+        "onboard_time": 1709690849,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 484642,
+        "num": 484642,
+        "word": "睡前长期玩手机可能让你变丑",
+        "onboard_time": 1709696971,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 432976,
+        "num": 432976,
+        "word": "董明珠建议建立家电使用年限强制性标准",
+        "onboard_time": 1709692592,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 406215,
+        "num": 406215,
+        "word": "难哄路透",
+        "onboard_time": 1709696971,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346575,
+        "num": 346575,
+        "word": "男子购车后下午车辆降价1.7万",
+        "onboard_time": 1709689411,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318118,
+        "num": 318118,
+        "word": "白岩松谈年轻人被批啃老",
+        "onboard_time": 1709693970,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1827327,
+        "num": 316850,
+        "word": "盒马被曝清货关门",
+        "onboard_time": 1709694633,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1290434,
+        "num": 313477,
+        "word": "彩礼是对女性的生育补偿吗",
+        "onboard_time": 1709694633,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839264,
+        "num": 312266,
+        "word": "建议3岁以下子女的父母每月1天带薪育儿假",
+        "onboard_time": 1709693729,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1248779,
+        "num": 309345,
+        "word": "白敬亭难哄路透",
+        "onboard_time": 1709696672,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532745,
+        "num": 307998,
+        "word": "赵丽颖林更新早期的微信互动",
+        "onboard_time": 1709694331,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500523,
+        "num": 304059,
+        "word": "刘亦菲谷爱凌坐一起",
+        "onboard_time": 1709692231,
+        "rank": 15,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 376120,
+        "num": 301389,
+        "word": "魏大勋G社怼拍",
+        "onboard_time": 1709691688,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 301063,
+        "num": 301063,
+        "word": "老外被中国哪都能点外卖震惊了",
+        "onboard_time": 1709691749,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293516,
+        "num": 293516,
+        "word": "84.7%的职场人下班后仍会关注工作消息",
+        "onboard_time": 1709697154,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273461,
+        "num": 273461,
+        "word": "恐怖游戏 回南天",
+        "onboard_time": 1709697693,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196102,
+        "num": 272229,
+        "word": "杨紫怼脸拍状态",
+        "onboard_time": 1709696011,
+        "rank": 20,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 605387,
+        "num": 265237,
+        "word": "无意间发现了老婆开车时的样子",
+        "onboard_time": 1709693671,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 345475,
+        "num": 263902,
+        "word": "女子将男友30多只鞋子从35楼扔下",
+        "onboard_time": 1709696255,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303610,
+        "num": 259048,
+        "word": "TheShy疑似恋爱",
+        "onboard_time": 1709693729,
+        "rank": 23,
+        "category": "电竞,艺人"
+      },
+      {
+        "raw_hot": 256480,
+        "num": 256480,
+        "word": "睡眠不足引发全身炎症风暴",
+        "onboard_time": 1709690252,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249198,
+        "num": 249198,
+        "word": "玲娜贝儿新衣服首秀",
+        "onboard_time": 1709692290,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243378,
+        "num": 243378,
+        "word": "金饰卖一口价不告知克数合理吗",
+        "onboard_time": 1709697995,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 240378,
+        "num": 240378,
+        "word": "周处除三害 九次圣杯的含金量",
+        "onboard_time": 1709689950,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215565,
+        "num": 215565,
+        "word": "世界之外排行榜",
+        "onboard_time": 1709696011,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210694,
+        "num": 210694,
+        "word": "大学生把娃哈哈拍出国窖风",
+        "onboard_time": 1709694510,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 205067,
+        "num": 205067,
+        "word": "人大代表谈电视开机率不高",
+        "onboard_time": 1709689829,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196259,
+        "num": 196259,
+        "word": "周冬雨刘亦菲宋茜G社生图",
+        "onboard_time": 1709697453,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187226,
+        "num": 187226,
+        "word": "中国第四艘航母很快公布",
+        "onboard_time": 1709685510,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185867,
+        "num": 185867,
+        "word": "一点点怎么消失了",
+        "onboard_time": 1709698296,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163433,
+        "num": 163433,
+        "word": "朱开发火",
+        "onboard_time": 1709695294,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161877,
+        "num": 161877,
+        "word": "向佐练台词吓到许君聪",
+        "onboard_time": 1709692110,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153361,
+        "num": 153361,
+        "word": "火朗中断活动",
+        "onboard_time": 1709695772,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142359,
+        "num": 142359,
+        "word": "140万买的230平房子",
+        "onboard_time": 1709648496,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141967,
+        "num": 141967,
+        "word": "本来去应聘的却被骗花钱培训了",
+        "onboard_time": 1709694092,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139244,
+        "num": 139244,
+        "word": "祁煜的画展",
+        "onboard_time": 1709697513,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136556,
+        "num": 136556,
+        "word": "欧阳娜娜G社生图",
+        "onboard_time": 1709694812,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 135343,
+        "num": 135343,
+        "word": "中青报评霍启刚建议引热议",
+        "onboard_time": 1709683051,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133135,
+        "num": 133135,
+        "word": "iOS17.4改进电池健康报告",
+        "onboard_time": 1709690609,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129891,
+        "num": 129891,
+        "word": "蔡依林温州抢票",
+        "onboard_time": 1709697274,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127185,
+        "num": 127185,
+        "word": "藏海花寻迹版预告",
+        "onboard_time": 1709696011,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113723,
+        "num": 113723,
+        "word": "别对我动心 恋爱告急",
+        "onboard_time": 1709694752,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112744,
+        "num": 112744,
+        "word": "两会",
+        "onboard_time": 1709686173,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111270,
+        "num": 111270,
+        "word": "缤果PLUS突然上市",
+        "onboard_time": 1709694452,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 107852,
+        "num": 107852,
+        "word": "2024英雄联盟西部魔影",
+        "onboard_time": 1709693851,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104853,
+        "num": 104853,
+        "word": "老公出差抓人老婆在家救人",
+        "onboard_time": 1709673016,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记有力指导新质生产力发展实践#"
+    }
+  }
+}

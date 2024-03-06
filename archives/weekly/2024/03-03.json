@@ -1,7 +1,15 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709696066000,
+  "endTime": 1709698801447,
   "band_list": [
+    {
+      "raw_hot": 3153795,
+      "num": 3153795,
+      "word": "男生月薪一万一年存10万",
+      "onboard_time": 1709695294,
+      "rank": 12,
+      "category": "情感,社会新闻"
+    },
     {
       "raw_hot": 3012846,
       "num": 3012846,
@@ -105,6 +113,14 @@
       "onboard_time": 1709633614,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1827327,
+      "num": 322355,
+      "word": "盒马被曝清货关门",
+      "onboard_time": 1709694633,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 1787950,
@@ -323,6 +339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1290434,
+      "num": 316811,
+      "word": "彩礼是对女性的生育补偿吗",
+      "onboard_time": 1709694633,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1284977,
       "num": 1099698,
       "word": "女子买茅台验真伪被死亡威胁",
@@ -353,6 +377,14 @@
       "onboard_time": 1709554653,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1248779,
+      "num": 309345,
+      "word": "白敬亭难哄路透",
+      "onboard_time": 1709696672,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 1246341,
@@ -499,6 +531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1101093,
+      "num": 1034617,
+      "word": "藏海花 张起灵",
+      "onboard_time": 1709694933,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1099736,
       "num": 315478,
       "word": "iPad",
@@ -553,14 +593,6 @@
       "onboard_time": 1709510369,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1034617,
-      "num": 1034617,
-      "word": "藏海花 张起灵",
-      "onboard_time": 1709694933,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 1029181,
@@ -819,14 +851,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 861573,
-      "num": 322355,
-      "word": "盒马被曝清货关门",
-      "onboard_time": 1709694633,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 854341,
       "num": 854341,
       "word": "日媒曝国乒教练可能调整",
@@ -1003,14 +1027,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 787373,
-      "num": 321451,
-      "word": "男生月薪一万一年存10万",
-      "onboard_time": 1709695294,
-      "rank": 12,
-      "category": "情感,社会新闻"
-    },
-    {
       "raw_hot": 786116,
       "num": 786116,
       "word": "郭敬明点赞回应程潇",
@@ -1180,7 +1196,7 @@
     },
     {
       "raw_hot": 709238,
-      "num": 312857,
+      "num": 484642,
       "word": "睡前长期玩手机可能让你变丑",
       "onboard_time": 1709560651,
       "rank": 20,
@@ -1603,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 605387,
+      "num": 312485,
+      "word": "无意间发现了老婆开车时的样子",
+      "onboard_time": 1709693671,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 600542,
       "num": 319729,
       "word": "宋亚轩什么弹幕都敢念",
@@ -1657,14 +1681,6 @@
       "onboard_time": 1709528495,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 588693,
-      "num": 312485,
-      "word": "无意间发现了老婆开车时的样子",
-      "onboard_time": 1709693671,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 587295,
@@ -1961,14 +1977,6 @@
       "onboard_time": 1709389953,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 527011,
-      "num": 316811,
-      "word": "彩礼是对女性的生育补偿吗",
-      "onboard_time": 1709694633,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 526763,
@@ -2667,6 +2675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 406215,
+      "num": 406215,
+      "word": "难哄路透",
+      "onboard_time": 1709548653,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 406199,
       "num": 317875,
       "word": "刘忻 选秀初恋",
@@ -2713,14 +2729,6 @@
       "onboard_time": 1709427688,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 398224,
-      "num": 277256,
-      "word": "难哄路透",
-      "onboard_time": 1709548653,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 397678,
@@ -3163,6 +3171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345475,
+      "num": 263902,
+      "word": "女子将男友30多只鞋子从35楼扔下",
+      "onboard_time": 1709696255,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 341629,
       "num": 341629,
       "word": "委员说成为网红不是旅游城市发展的全部",
@@ -3427,6 +3443,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 318118,
+      "num": 318118,
+      "word": "白岩松谈年轻人被批啃老",
+      "onboard_time": 1709693970,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 317616,
       "num": 317616,
       "word": "原来生日有这么多隐藏福利",
@@ -3665,6 +3689,14 @@
       "onboard_time": 1709531553,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293516,
+      "num": 293516,
+      "word": "84.7%的职场人下班后仍会关注工作消息",
+      "onboard_time": 1709697154,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293409,
@@ -3921,6 +3953,14 @@
       "onboard_time": 1709603549,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 273461,
+      "num": 273461,
+      "word": "恐怖游戏 回南天",
+      "onboard_time": 1709697693,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 272693,
@@ -4419,12 +4459,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 242890,
-      "num": 242890,
-      "word": "白岩松谈年轻人被批啃老",
-      "onboard_time": 1709693970,
-      "rank": 24,
-      "category": "国内时政"
+      "raw_hot": 243378,
+      "num": 243378,
+      "word": "金饰卖一口价不告知克数合理吗",
+      "onboard_time": 1709697995,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 242399,
@@ -4921,6 +4961,14 @@
       "onboard_time": 1709683893,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215565,
+      "num": 215565,
+      "word": "世界之外排行榜",
+      "onboard_time": 1709696011,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 215402,
@@ -5507,6 +5555,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 196259,
+      "num": 196259,
+      "word": "周冬雨刘亦菲宋茜G社生图",
+      "onboard_time": 1709697453,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 196102,
+      "num": 272229,
+      "word": "杨紫怼脸拍状态",
+      "onboard_time": 1709696011,
+      "rank": 49,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 196021,
       "num": 196021,
       "word": "周杰伦录制说唱梦工厂",
@@ -5833,6 +5897,14 @@
       "onboard_time": 1709519668,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 185867,
+      "num": 185867,
+      "word": "一点点怎么消失了",
+      "onboard_time": 1709698296,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 185562,
@@ -7571,6 +7643,14 @@
       "category": "作品衍生,情感"
     },
     {
+      "raw_hot": 139244,
+      "num": 139244,
+      "word": "祁煜的画展",
+      "onboard_time": 1709697513,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138879,
       "num": 138879,
       "word": "徐若晗手绘",
@@ -7977,6 +8057,14 @@
       "onboard_time": 1709420539,
       "rank": 24,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 129891,
+      "num": 129891,
+      "word": "蔡依林温州抢票",
+      "onboard_time": 1709697274,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 129728,
@@ -8691,14 +8779,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 111495,
-      "num": 111495,
-      "word": "世界之外排行榜",
-      "onboard_time": 1709696011,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 111367,
       "num": 111367,
       "word": "永安梦",
@@ -9017,14 +9097,6 @@
       "onboard_time": 1709459430,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87759,
-      "num": 100813,
-      "word": "杨紫怼脸拍状态",
-      "onboard_time": 1709696011,
-      "rank": 49,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 87683,
@@ -9369,6 +9441,14 @@
       "onboard_time": 1709508144,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 50578,
+      "num": 712093,
+      "word": "6个角度看今年发展主要预期目标",
+      "onboard_time": 1709697332,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 49910,
@@ -9890,6 +9970,9 @@
     },
     {
       "word": "#发展新质生产力不是忽视放弃传统产业#"
+    },
+    {
+      "word": "#总书记有力指导新质生产力发展实践#"
     }
   ]
 }
