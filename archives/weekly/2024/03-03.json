@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709716672617,
+  "endTime": 1709717655916,
   "band_list": [
     {
       "raw_hot": 3203010,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 1511906,
-      "num": 296477,
+      "num": 404673,
       "word": "杨幂北电考官",
       "onboard_time": 1709712813,
       "rank": 14,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 1094112,
-      "num": 291551,
+      "num": 394755,
       "word": "小杨哥跌出带货榜前20",
       "onboard_time": 1709709272,
       "rank": 47,
@@ -1236,7 +1236,7 @@
     },
     {
       "raw_hot": 718127,
-      "num": 321456,
+      "num": 374725,
       "word": "刘亦菲也够不着的男人",
       "onboard_time": 1709707772,
       "rank": 11,
@@ -1577,6 +1577,14 @@
       "onboard_time": 1709453908,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 633916,
+      "num": 633916,
+      "word": "横店群演紧缺",
+      "onboard_time": 1709715690,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 633252,
@@ -2211,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503743,
+      "num": 503743,
+      "word": "钟薛高被执行81万元",
+      "onboard_time": 1709713293,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501201,
       "num": 501201,
       "word": "委员建议内地增加一年制硕士",
@@ -2424,14 +2440,6 @@
       "word": "阮经天家人也认错过他和明道",
       "onboard_time": 1709548112,
       "rank": 15,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 466821,
-      "num": 466821,
-      "word": "横店群演紧缺",
-      "onboard_time": 1709715690,
-      "rank": 5,
       "category": "作品衍生"
     },
     {
@@ -2667,6 +2675,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 436675,
+      "num": 436675,
+      "word": "祁煜直播",
+      "onboard_time": 1709713952,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 435962,
       "num": 435962,
       "word": "建议农民养老金统一上调",
@@ -2681,14 +2697,6 @@
       "onboard_time": 1709532990,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 434526,
-      "num": 284067,
-      "word": "钟薛高被执行81万元",
-      "onboard_time": 1709713293,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432555,
@@ -2721,14 +2729,6 @@
       "onboard_time": 1709364571,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 427520,
-      "num": 427520,
-      "word": "祁煜直播",
-      "onboard_time": 1709713952,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 427146,
@@ -2801,6 +2801,14 @@
       "onboard_time": 1709704832,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 415863,
+      "num": 415863,
+      "word": "专家称HPV疫苗能约几价就打几价",
+      "onboard_time": 1709711854,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 415631,
@@ -3467,6 +3475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336990,
+      "num": 336990,
+      "word": "短剧演员",
+      "onboard_time": 1709713890,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 336950,
       "num": 336950,
       "word": "优酷又来这套",
@@ -3761,14 +3777,6 @@
       "onboard_time": 1709547751,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 314399,
-      "num": 314399,
-      "word": "短剧演员",
-      "onboard_time": 1709713890,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 312791,
@@ -4195,14 +4203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 277069,
-      "num": 277069,
-      "word": "专家称HPV疫苗能约几价就打几价",
-      "onboard_time": 1709711854,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 277013,
       "num": 277013,
       "word": "2023年经济社会发展主要目标任务圆满完成",
@@ -4313,6 +4313,14 @@
       "onboard_time": 1709514573,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269010,
+      "num": 269010,
+      "word": "向佐infg",
+      "onboard_time": 1709715393,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 268626,
@@ -5003,14 +5011,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 229483,
-      "num": 229483,
-      "word": "向佐infg",
-      "onboard_time": 1709715393,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228888,
       "num": 228888,
       "word": "王一博两首单曲的联系",
@@ -5209,6 +5209,14 @@
       "onboard_time": 1709510611,
       "rank": 29,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 219660,
+      "num": 219660,
+      "word": "上班有没有必要化妆",
+      "onboard_time": 1709716053,
+      "rank": 36,
+      "category": "美妆"
     },
     {
       "raw_hot": 219619,
@@ -5723,6 +5731,14 @@
       "category": "时尚,科学科普"
     },
     {
+      "raw_hot": 203742,
+      "num": 203742,
+      "word": "经济主题记者会",
+      "onboard_time": 1709716533,
+      "rank": 29,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 203664,
       "num": 203664,
       "word": "魏若来受刑",
@@ -5955,6 +5971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196888,
+      "num": 196888,
+      "word": "财政部部长谈党政机关过紧日子",
+      "onboard_time": 1709717190,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 196832,
       "num": 196832,
       "word": "WE下路",
@@ -6019,6 +6043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195321,
+      "num": 195321,
+      "word": "Meiko和明凯合伙开公司",
+      "onboard_time": 1709716233,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194875,
       "num": 194875,
       "word": "干活一定要让领导知道",
@@ -6033,6 +6065,14 @@
       "onboard_time": 1709623235,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 194591,
+      "num": 194591,
+      "word": "山东泰山vs横滨水手",
+      "onboard_time": 1709717131,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 194285,
@@ -6315,14 +6355,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187013,
-      "num": 187013,
-      "word": "经济主题记者会",
-      "onboard_time": 1709716533,
-      "rank": 29,
-      "category": "国内时政,财经"
-    },
-    {
       "raw_hot": 186587,
       "num": 186587,
       "word": "丁程鑫舞蹈版Monster",
@@ -6457,14 +6489,6 @@
       "onboard_time": 1709472692,
       "rank": 34,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 181937,
-      "num": 181937,
-      "word": "Meiko和明凯合伙开公司",
-      "onboard_time": 1709716233,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 181927,
@@ -6737,6 +6761,14 @@
       "onboard_time": 1709604270,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174238,
+      "num": 174238,
+      "word": "保护投资者合法权益是证监会核心任务",
+      "onboard_time": 1709716352,
+      "rank": 33,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 174011,
@@ -7211,6 +7243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161914,
+      "num": 161914,
+      "word": "唐嫣巴黎行vlog",
+      "onboard_time": 1709717131,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161708,
       "num": 161708,
       "word": "用AI复活亲人已形成产业链",
@@ -7225,6 +7265,14 @@
       "onboard_time": 1709562995,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161403,
+      "num": 161403,
+      "word": "中美AI技术被拉开差距了吗",
+      "onboard_time": 1709716892,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 161386,
@@ -7297,14 +7345,6 @@
       "onboard_time": 1709600731,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159053,
-      "num": 159053,
-      "word": "保护投资者合法权益是证监会核心任务",
-      "onboard_time": 1709716352,
-      "rank": 33,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 158904,
@@ -7473,14 +7513,6 @@
       "onboard_time": 1709543732,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 156289,
-      "num": 156289,
-      "word": "上班有没有必要化妆",
-      "onboard_time": 1709716053,
-      "rank": 36,
-      "category": "美妆"
     },
     {
       "raw_hot": 156233,
@@ -8123,6 +8155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 142719,
+      "num": 142719,
+      "word": "刘诗诗掌心新妆造",
+      "onboard_time": 1709715932,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142684,
       "num": 142684,
       "word": "C罗亚冠首败",
@@ -8523,14 +8563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 134830,
-      "num": 134830,
-      "word": "刘诗诗掌心新妆造",
-      "onboard_time": 1709715932,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134791,
       "num": 134791,
       "word": "林一李兰迪新剧吻戏镜头",
@@ -8649,6 +8681,14 @@
       "onboard_time": 1709593945,
       "rank": 24,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 132391,
+      "num": 132391,
+      "word": "德国国防部云存储密码1234",
+      "onboard_time": 1709717549,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 131294,
@@ -8889,6 +8929,14 @@
       "onboard_time": 1709383175,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127371,
+      "num": 127371,
+      "word": "狗狗犯错后道歉的方式",
+      "onboard_time": 1709716892,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 127331,
@@ -10684,7 +10732,7 @@
     },
     {
       "raw_hot": 9937,
-      "num": 768285,
+      "num": 789480,
       "word": "两会数读中国",
       "onboard_time": 1709632235,
       "rank": 2,
