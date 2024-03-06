@@ -1,6 +1,6 @@
 {
   "startTime": 1709742142797,
-  "endTime": 1709759730736,
+  "endTime": 1709760901887,
   "band_list": [
     {
       "raw_hot": 1619908,
@@ -547,6 +547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 15144,
+      "num": 15144,
+      "word": "午睡有个最佳时长",
+      "onboard_time": 1709760074,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 13900,
       "num": 17068,
       "word": "居民的难题扫二维码反映解决了",
@@ -556,11 +564,19 @@
     },
     {
       "raw_hot": 13345,
-      "num": 13345,
+      "num": 14006,
       "word": "腹式呼吸能治腰痛吗",
       "onboard_time": 1709758574,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 12161,
+      "num": 13948,
+      "word": "如何让自己心甘情愿买贵的东西",
+      "onboard_time": 1709760316,
+      "rank": 48,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
