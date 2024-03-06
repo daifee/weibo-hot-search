@@ -1,6 +1,6 @@
 {
   "startTime": 1709742142797,
-  "endTime": 1709756254718,
+  "endTime": 1709757262099,
   "band_list": [
     {
       "raw_hot": 1619908,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48330,
+      "num": 48330,
+      "word": "钟薛高多平台账号停更",
+      "onboard_time": 1709752877,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 47129,
       "num": 81215,
       "word": "江苏男篮绝杀龙狮男篮",
@@ -481,14 +489,6 @@
       "onboard_time": 1709745262,
       "rank": 45,
       "category": "艺人,旅游"
-    },
-    {
-      "raw_hot": 36007,
-      "num": 36007,
-      "word": "钟薛高多平台账号停更",
-      "onboard_time": 1709752877,
-      "rank": 29,
-      "category": "美食"
     },
     {
       "raw_hot": 31208,
@@ -547,7 +547,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 13294,
+      "raw_hot": 13900,
       "num": 17068,
       "word": "居民的难题扫二维码反映解决了",
       "onboard_time": 1709754915,
