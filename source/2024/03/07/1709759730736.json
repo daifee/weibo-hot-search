@@ -1,0 +1,410 @@
+{
+  "runTime": 1709759730736,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 121944,
+        "num": 121944,
+        "word": "建议国家全面禁止未成年人网游",
+        "onboard_time": 1709737653,
+        "rank": 0,
+        "category": "国内时政,游戏"
+      },
+      {
+        "raw_hot": 59667,
+        "num": 59667,
+        "word": "钟薛高多平台账号停更",
+        "onboard_time": 1709752877,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 11049,
+        "num": 43252,
+        "word": "从政府工作报告看中国经济新动力",
+        "onboard_time": 1709728350,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39063,
+        "num": 39063,
+        "word": "代表反对让学生逢雨逢雪停课",
+        "onboard_time": 1709733451,
+        "rank": 3,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 35251,
+        "num": 35251,
+        "word": "真正抑郁症才有的9个样子",
+        "onboard_time": 1709707169,
+        "rank": 4,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 31188,
+        "num": 31188,
+        "word": "家门口被放了五毛钱",
+        "onboard_time": 1709733933,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30945,
+        "num": 30945,
+        "word": "钟薛高售价从60元降到2.5元",
+        "onboard_time": 1709707169,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 30313,
+        "num": 30313,
+        "word": "唐探2游乐园尺度",
+        "onboard_time": 1709734953,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30189,
+        "num": 30189,
+        "word": "章若楠难哄去刘海",
+        "onboard_time": 1709728888,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29766,
+        "num": 29766,
+        "word": "女生千万要小心青纱帐",
+        "onboard_time": 1709727390,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69821,
+        "num": 29515,
+        "word": "男员工误入女厕10秒被解雇",
+        "onboard_time": 1709739753,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56532,
+        "num": 29204,
+        "word": "00后小伙被骗缅甸每天工作17小时",
+        "onboard_time": 1709748918,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38611,
+        "num": 28888,
+        "word": "夏克立自曝人身安全受威胁",
+        "onboard_time": 1709752036,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35639,
+        "num": 28427,
+        "word": "魏大勋神级4秒镜头",
+        "onboard_time": 1709739273,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28362,
+        "num": 28362,
+        "word": "回南天取快递 像到了天庭",
+        "onboard_time": 1709736873,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27072,
+        "num": 27072,
+        "word": "减少你的分享欲",
+        "onboard_time": 1709726430,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26019,
+        "num": 26019,
+        "word": "杨幂北电考官",
+        "onboard_time": 1709712813,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25192,
+        "num": 25192,
+        "word": "6科室6天6夜成功救回羊水栓塞产妇",
+        "onboard_time": 1709733814,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21168,
+        "num": 21168,
+        "word": "以前讨厌现在却真香的食物",
+        "onboard_time": 1709732853,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 20862,
+        "num": 20862,
+        "word": "建议鼓励生态安葬",
+        "onboard_time": 1709733273,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22801,
+        "num": 20807,
+        "word": "女子被鸡啄伤送进ICU抢救2个月",
+        "onboard_time": 1709747779,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20673,
+        "num": 20673,
+        "word": "请勿在NPC身上浪费太多时间",
+        "onboard_time": 1709739753,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18800,
+        "num": 18800,
+        "word": "霉霉呼吁粉丝投票",
+        "onboard_time": 1709743886,
+        "rank": 22,
+        "category": "国外时政,艺人"
+      },
+      {
+        "raw_hot": 18215,
+        "num": 18215,
+        "word": "母爱不会被葡萄压碎",
+        "onboard_time": 1709753597,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18086,
+        "num": 18086,
+        "word": "男生月薪一万一年存10万",
+        "onboard_time": 1709695294,
+        "rank": 24,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 17675,
+        "num": 17675,
+        "word": "同事在工位上养水果",
+        "onboard_time": 1709725293,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16499,
+        "num": 16499,
+        "word": "朋友圈舍不得屏蔽的人",
+        "onboard_time": 1709746699,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16382,
+        "num": 16382,
+        "word": "当领导让00后准备下午茶",
+        "onboard_time": 1709734771,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16176,
+        "num": 16176,
+        "word": "被炸鸡店喂的胖胖的流浪猫",
+        "onboard_time": 1709736813,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15999,
+        "num": 15999,
+        "word": "阮经天弟弟",
+        "onboard_time": 1709724450,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19657,
+        "num": 15965,
+        "word": "关于我在精神科住院的22天",
+        "onboard_time": 1709748918,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15108,
+        "num": 15108,
+        "word": "外国人比中国人还信中国法术",
+        "onboard_time": 1709729010,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14391,
+        "num": 14391,
+        "word": "程序员下班做偶像",
+        "onboard_time": 1709735554,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14278,
+        "num": 14278,
+        "word": "工资不高房价却很高的城市",
+        "onboard_time": 1709701172,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15643,
+        "num": 13988,
+        "word": "阮经天 我们偶尔见",
+        "onboard_time": 1709728830,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13518,
+        "num": 13518,
+        "word": "男子用AI换脸复活去世父亲哄奶奶",
+        "onboard_time": 1709743044,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13479,
+        "num": 13479,
+        "word": "酱园弄杀青了",
+        "onboard_time": 1709731652,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13392,
+        "num": 13392,
+        "word": "桃花坞路透",
+        "onboard_time": 1709740290,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13345,
+        "num": 13345,
+        "word": "腹式呼吸能治腰痛吗",
+        "onboard_time": 1709758574,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 13215,
+        "num": 13215,
+        "word": "居民的难题扫二维码反映解决了",
+        "onboard_time": 1709754915,
+        "rank": 39,
+        "category": "国内时政,社会新闻"
+      },
+      {
+        "raw_hot": 13140,
+        "num": 13140,
+        "word": "周也冷脸白花",
+        "onboard_time": 1709730212,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12627,
+        "num": 13140,
+        "word": "无畏契约",
+        "onboard_time": 1709738071,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12506,
+        "num": 13129,
+        "word": "喜茶光与夜之恋联名",
+        "onboard_time": 1709731711,
+        "rank": 42,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 12470,
+        "num": 13112,
+        "word": "颖儿带女儿拍汉服写真",
+        "onboard_time": 1709738313,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12440,
+        "num": 13106,
+        "word": "白鹿给自己化的妆",
+        "onboard_time": 1709733451,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12414,
+        "num": 13094,
+        "word": "唐探2荣梓杉一变脸画风对了",
+        "onboard_time": 1709735912,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12384,
+        "num": 13091,
+        "word": "两会学习笔记",
+        "onboard_time": 1709743286,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12054,
+        "num": 13084,
+        "word": "如果可以学习一门新的语言吧",
+        "onboard_time": 1709750957,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11869,
+        "num": 13070,
+        "word": "陈情令旅游专线",
+        "onboard_time": 1709728170,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11492,
+        "num": 13058,
+        "word": "唐探2",
+        "onboard_time": 1709737354,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望政协委员#"
+    }
+  }
+}
