@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709690621550,
+  "endTime": 1709691714355,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -200,6 +200,14 @@
       "word": "娃哈哈一箱6板24瓶全是干货",
       "onboard_time": 1709377169,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1862572,
+      "num": 1862572,
+      "word": "妻子力挺丈夫6次创业终逆袭",
+      "onboard_time": 1709689111,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -425,14 +433,6 @@
       "onboard_time": 1709622811,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1501158,
-      "num": 1501158,
-      "word": "妻子力挺丈夫6次创业终逆袭",
-      "onboard_time": 1709689111,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1487774,
@@ -2155,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 647870,
+      "num": 647870,
+      "word": "男子购车后下午车辆降价1.7万",
+      "onboard_time": 1709689411,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 647712,
       "num": 377129,
       "word": "郭艾伦腿部注射干细胞",
@@ -2345,6 +2353,14 @@
       "onboard_time": 1709447729,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 630823,
+      "num": 630823,
+      "word": "长月烬明戏服 二次利用",
+      "onboard_time": 1709690195,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 627722,
@@ -3555,6 +3571,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 460975,
+      "num": 236694,
+      "word": "周处除三害 九次圣杯的含金量",
+      "onboard_time": 1709689950,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 460030,
       "num": 301450,
       "word": "Rihanna印度富豪婚礼演唱",
@@ -3609,14 +3633,6 @@
       "onboard_time": 1709520808,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 454350,
-      "num": 454350,
-      "word": "男子购车后下午车辆降价1.7万",
-      "onboard_time": 1709689411,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 453073,
@@ -4201,6 +4217,14 @@
       "onboard_time": 1709265336,
       "rank": 25,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 398320,
+      "num": 225809,
+      "word": "睡眠不足引发全身炎症风暴",
+      "onboard_time": 1709690252,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 398224,
@@ -5475,14 +5499,6 @@
       "category": "美妆,作品衍生"
     },
     {
-      "raw_hot": 306018,
-      "num": 306018,
-      "word": "长月烬明戏服 二次利用",
-      "onboard_time": 1709690195,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 305722,
       "num": 264429,
       "word": "一人上班老板给全家发工资",
@@ -5795,6 +5811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 290850,
+      "num": 290850,
+      "word": "阴阳师 初音未来",
+      "onboard_time": 1709689771,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 290600,
       "num": 290600,
       "word": "这么吃真的会长头发",
@@ -5963,6 +5987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279338,
+      "num": 226856,
+      "word": "人大代表谈电视开机率不高",
+      "onboard_time": 1709689829,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 277970,
       "num": 277970,
       "word": "枭起青壤要开机了",
@@ -6017,14 +6049,6 @@
       "onboard_time": 1709608228,
       "rank": 32,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 275484,
-      "num": 275484,
-      "word": "阴阳师 初音未来",
-      "onboard_time": 1709689771,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 275395,
@@ -6177,14 +6201,6 @@
       "onboard_time": 1709603488,
       "rank": 15,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 268547,
-      "num": 173579,
-      "word": "周处除三害 九次圣杯的含金量",
-      "onboard_time": 1709689950,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 268257,
@@ -6377,6 +6393,14 @@
       "onboard_time": 1709341652,
       "rank": 46,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 260237,
+      "num": 220430,
+      "word": "坚持锻炼相当于1年多赚17万",
+      "onboard_time": 1709690849,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 260155,
@@ -8652,7 +8676,7 @@
     },
     {
       "raw_hot": 192251,
-      "num": 173579,
+      "num": 177006,
       "word": "霍启刚 完善休假制度是必要的",
       "onboard_time": 1709690071,
       "rank": 31,
@@ -8881,14 +8905,6 @@
       "onboard_time": 1709474614,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 188084,
-      "num": 188084,
-      "word": "人大代表谈电视开机率不高",
-      "onboard_time": 1709689829,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 188038,
@@ -9299,6 +9315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180857,
+      "num": 175213,
+      "word": "喂了一周的猫妈终于放下戒心",
+      "onboard_time": 1709690671,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180503,
       "num": 180503,
       "word": "浙江招聘守鸟人300元1天",
@@ -9537,6 +9561,14 @@
       "onboard_time": 1709287172,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 175880,
+      "num": 175880,
+      "word": "iOS17.4改进电池健康报告",
+      "onboard_time": 1709690609,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 175703,
@@ -9825,14 +9857,6 @@
       "onboard_time": 1709392232,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 169924,
-      "num": 169924,
-      "word": "睡眠不足引发全身炎症风暴",
-      "onboard_time": 1709690252,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 169902,
@@ -10707,6 +10731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155348,
+      "num": 155348,
+      "word": "金价3天最大涨幅近24元",
+      "onboard_time": 1709691210,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 155307,
       "num": 155307,
       "word": "孙千陈靖可大片",
@@ -10825,6 +10857,14 @@
       "onboard_time": 1709442390,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153432,
+      "num": 175216,
+      "word": "浙江一家祖孙三代接力从军",
+      "onboard_time": 1709690909,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153229,
@@ -11377,6 +11417,14 @@
       "onboard_time": 1709517868,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 143896,
+      "num": 143896,
+      "word": "魏大勋G社怼拍",
+      "onboard_time": 1709691688,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 143693,
@@ -12201,6 +12249,14 @@
       "onboard_time": 1709382991,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131477,
+      "num": 131477,
+      "word": "4个方法有效降低患青光眼风险",
+      "onboard_time": 1709691629,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 131468,
@@ -13369,14 +13425,6 @@
       "onboard_time": 1709362470,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112528,
-      "num": 112528,
-      "word": "iOS17.4改进电池健康报告",
-      "onboard_time": 1709690609,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 112509,

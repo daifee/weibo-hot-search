@@ -1,0 +1,410 @@
+{
+  "runTime": 1709691714355,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1862572,
+        "num": 1862572,
+        "word": "妻子力挺丈夫6次创业终逆袭",
+        "onboard_time": 1709689111,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647870,
+        "num": 647870,
+        "word": "男子购车后下午车辆降价1.7万",
+        "onboard_time": 1709689411,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75593,
+        "num": 637639,
+        "word": "2024全国两会新词热词",
+        "onboard_time": 1709639792,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 630823,
+        "num": 630823,
+        "word": "长月烬明戏服 二次利用",
+        "onboard_time": 1709690195,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 522697,
+        "num": 522697,
+        "word": "中国第四艘航母很快公布",
+        "onboard_time": 1709685510,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 495641,
+        "num": 495641,
+        "word": "中青报评霍启刚建议引热议",
+        "onboard_time": 1709683051,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 376670,
+        "num": 376670,
+        "word": "美法案要求字节165天内剥离TikTok",
+        "onboard_time": 1709687913,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 327326,
+        "num": 327326,
+        "word": "最新研究找到熬夜致癌原因",
+        "onboard_time": 1709662697,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 290850,
+        "num": 290850,
+        "word": "阴阳师 初音未来",
+        "onboard_time": 1709689771,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247115,
+        "num": 247115,
+        "word": "建议推动建立父亲育儿假制度",
+        "onboard_time": 1709685995,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 46594,
+        "num": 246280,
+        "word": "谁还没用过湿厕纸啊",
+        "onboard_time": 1709688629,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 822585,
+        "num": 244419,
+        "word": "黄景瑜撩的狗 阮经天来承受",
+        "onboard_time": 1709686352,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611792,
+        "num": 242401,
+        "word": "140万买的230平房子",
+        "onboard_time": 1709648496,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 560281,
+        "num": 238926,
+        "word": "刘亦菲小黑裙",
+        "onboard_time": 1709682629,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 486809,
+        "num": 238650,
+        "word": "这哪是回南天这是回南天门了吧",
+        "onboard_time": 1709668874,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460975,
+        "num": 236694,
+        "word": "周处除三害 九次圣杯的含金量",
+        "onboard_time": 1709689950,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 313039,
+        "num": 233446,
+        "word": "反诈老陈回应是否后悔辞去公职",
+        "onboard_time": 1709683169,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312817,
+        "num": 232465,
+        "word": "周冬雨宋茜欧阳娜娜同框",
+        "onboard_time": 1709686474,
+        "rank": 17,
+        "category": "作品衍生,运动健身"
+      },
+      {
+        "raw_hot": 290280,
+        "num": 230586,
+        "word": "老人丢了6000元民警找回16000",
+        "onboard_time": 1709674218,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279338,
+        "num": 226856,
+        "word": "人大代表谈电视开机率不高",
+        "onboard_time": 1709689829,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 398320,
+        "num": 225809,
+        "word": "睡眠不足引发全身炎症风暴",
+        "onboard_time": 1709690252,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 337497,
+        "num": 223961,
+        "word": "老公出差抓人老婆在家救人",
+        "onboard_time": 1709673016,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260237,
+        "num": 220430,
+        "word": "坚持锻炼相当于1年多赚17万",
+        "onboard_time": 1709690849,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 220295,
+        "num": 220295,
+        "word": "95后女生童年遗憾被陌生人抚慰",
+        "onboard_time": 1709689348,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219435,
+        "num": 219435,
+        "word": "海景房狂跌",
+        "onboard_time": 1709679682,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 205419,
+        "num": 205419,
+        "word": "别再让黄金店割智商税了",
+        "onboard_time": 1709648857,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 202811,
+        "num": 202811,
+        "word": "越来越多年轻人确诊淡淡综合症",
+        "onboard_time": 1709647897,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177006,
+        "num": 177006,
+        "word": "霍启刚 完善休假制度是必要的",
+        "onboard_time": 1709690071,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 175880,
+        "num": 175880,
+        "word": "iOS17.4改进电池健康报告",
+        "onboard_time": 1709690609,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153432,
+        "num": 175216,
+        "word": "浙江一家祖孙三代接力从军",
+        "onboard_time": 1709690909,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180857,
+        "num": 175213,
+        "word": "喂了一周的猫妈终于放下戒心",
+        "onboard_time": 1709690671,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174914,
+        "num": 174914,
+        "word": "魏大勋撑伞路透",
+        "onboard_time": 1709683589,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 173409,
+        "num": 173409,
+        "word": "农夫山泉股价连跌三天",
+        "onboard_time": 1709682990,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167936,
+        "num": 167936,
+        "word": "GAI成功追星周杰伦",
+        "onboard_time": 1709684853,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160185,
+        "num": 160185,
+        "word": "委员建议调整法定最低结婚年龄至18周岁",
+        "onboard_time": 1709682148,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159694,
+        "num": 159694,
+        "word": "苹果限制欧版iPhone外流",
+        "onboard_time": 1709688150,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155348,
+        "num": 155348,
+        "word": "金价3天最大涨幅近24元",
+        "onboard_time": 1709691210,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151456,
+        "num": 151456,
+        "word": "龙晶陶瓷事件大结局",
+        "onboard_time": 1709689529,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143896,
+        "num": 143896,
+        "word": "魏大勋G社怼拍",
+        "onboard_time": 1709691688,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137133,
+        "num": 137133,
+        "word": "YSL秀场上的尹净汉",
+        "onboard_time": 1709686594,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133123,
+        "num": 133123,
+        "word": "菜场阿姨为写小说跑2400公里追花",
+        "onboard_time": 1709687913,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132822,
+        "num": 132822,
+        "word": "相亲当晚女生发来开销账单",
+        "onboard_time": 1709650597,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131740,
+        "num": 131740,
+        "word": "重金出国的留学生为什么越来越少",
+        "onboard_time": 1709687733,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131477,
+        "num": 131477,
+        "word": "4个方法有效降低患青光眼风险",
+        "onboard_time": 1709691629,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131072,
+        "num": 131072,
+        "word": "回南天 薯片变饺子皮",
+        "onboard_time": 1709684371,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129589,
+        "num": 129589,
+        "word": "两会",
+        "onboard_time": 1709686173,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126184,
+        "num": 126184,
+        "word": "大熊猫半夜到村民家吃自助",
+        "onboard_time": 1709683893,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122094,
+        "num": 122094,
+        "word": "上班摸鱼可以做的事",
+        "onboard_time": 1709684316,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115933,
+        "num": 115933,
+        "word": "iOS17.4",
+        "onboard_time": 1709683169,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115750,
+        "num": 115750,
+        "word": "建议彩票个人单项奖金最高额度不超过500万",
+        "onboard_time": 1709646213,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平参加江苏代表团审议#"
+    }
+  }
+}
