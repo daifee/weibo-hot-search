@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709692447823,
+  "endTime": 1709695067926,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -713,6 +713,14 @@
       "onboard_time": 1709342731,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1203413,
+      "num": 1203413,
+      "word": "坚持锻炼相当于1年多赚17万",
+      "onboard_time": 1709690849,
+      "rank": 22,
+      "category": "运动健身"
     },
     {
       "raw_hot": 1203303,
@@ -1587,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 772261,
+      "num": 312689,
+      "word": "刘亦菲谷爱凌坐一起",
+      "onboard_time": 1709692231,
+      "rank": 33,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 771786,
       "num": 771786,
       "word": "杜华定价10元招聘个人助理",
@@ -1945,6 +1961,14 @@
       "onboard_time": 1709339429,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 687474,
+      "num": 687474,
+      "word": "娃哈哈",
+      "onboard_time": 1709361629,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 686728,
@@ -2571,6 +2595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 588693,
+      "num": 276535,
+      "word": "无意间发现了老婆开车时的样子",
+      "onboard_time": 1709693671,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 587845,
       "num": 207181,
       "word": "今天不发朋友圈又得等四年",
@@ -2601,6 +2633,14 @@
       "onboard_time": 1709432552,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582060,
+      "num": 312503,
+      "word": "魏大勋G社怼拍",
+      "onboard_time": 1709691688,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 580111,
@@ -3099,6 +3139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 521852,
+      "num": 311568,
+      "word": "建议3岁以下子女的父母每月1天带薪育儿假",
+      "onboard_time": 1709693729,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 521173,
       "num": 521173,
       "word": "孙千裤子",
@@ -3283,6 +3331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 493215,
+      "num": 310934,
+      "word": "董明珠建议建立家电使用年限强制性标准",
+      "onboard_time": 1709692592,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 492778,
       "num": 492778,
       "word": "中国官网最低3499元就能买iPhone",
@@ -3355,14 +3411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 485796,
-      "num": 485796,
-      "word": "娃哈哈",
-      "onboard_time": 1709361629,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 485753,
       "num": 485753,
       "word": "苹果推M3芯片版MacBookAir",
@@ -3380,7 +3428,7 @@
     },
     {
       "raw_hot": 483618,
-      "num": 236694,
+      "num": 308267,
       "word": "周处除三害 九次圣杯的含金量",
       "onboard_time": 1709689950,
       "rank": 30,
@@ -3827,6 +3875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 438130,
+      "num": 309610,
+      "word": "TheShy疑似恋爱",
+      "onboard_time": 1709693729,
+      "rank": 15,
+      "category": "电竞,艺人"
+    },
+    {
       "raw_hot": 437804,
       "num": 362406,
       "word": "站姐拍的魏大勋",
@@ -3963,6 +4019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422461,
+      "num": 422461,
+      "word": "人大代表谈电视开机率不高",
+      "onboard_time": 1709689829,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 420990,
       "num": 420990,
       "word": "美法案要求字节165天内剥离TikTok",
@@ -4075,6 +4139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 411330,
+      "num": 411330,
+      "word": "老外被中国哪都能点外卖震惊了",
+      "onboard_time": 1709691749,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411172,
       "num": 411172,
       "word": "全国政协委员建议取消入住酒店必须刷脸规定",
@@ -4084,7 +4156,7 @@
     },
     {
       "raw_hot": 410798,
-      "num": 225809,
+      "num": 265105,
       "word": "睡眠不足引发全身炎症风暴",
       "onboard_time": 1709690252,
       "rank": 36,
@@ -4249,14 +4321,6 @@
       "onboard_time": 1709517749,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 395068,
-      "num": 220430,
-      "word": "坚持锻炼相当于1年多赚17万",
-      "onboard_time": 1709690849,
-      "rank": 22,
-      "category": "运动健身"
     },
     {
       "raw_hot": 393987,
@@ -4731,14 +4795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 354516,
-      "num": 226856,
-      "word": "人大代表谈电视开机率不高",
-      "onboard_time": 1709689829,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 354381,
       "num": 310260,
       "word": "杨幂看秀座位",
@@ -4865,6 +4921,14 @@
       "onboard_time": 1709342849,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 349241,
+      "num": 349241,
+      "word": "玲娜贝儿新衣服首秀",
+      "onboard_time": 1709692290,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 349231,
@@ -5491,6 +5555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 307530,
+      "num": 307530,
+      "word": "赵丽颖林更新早期的微信互动",
+      "onboard_time": 1709694331,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306971,
       "num": 306971,
       "word": "掌心开机",
@@ -5673,6 +5745,14 @@
       "onboard_time": 1709254174,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 296284,
+      "num": 296284,
+      "word": "盒马被曝清货关门",
+      "onboard_time": 1709694633,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 295828,
@@ -6555,6 +6635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 252779,
+      "num": 252779,
+      "word": "向佐练台词吓到许君聪",
+      "onboard_time": 1709692110,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252265,
       "num": 252265,
       "word": "Hero俯冲B组",
@@ -7099,6 +7187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227651,
+      "num": 227651,
+      "word": "iOS17.4改进电池健康报告",
+      "onboard_time": 1709690609,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 227488,
       "num": 227488,
       "word": "王一博巴黎时装周去看两场秀",
@@ -7217,6 +7313,14 @@
       "onboard_time": 1709324237,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223619,
+      "num": 223619,
+      "word": "白岩松谈年轻人被批啃老",
+      "onboard_time": 1709693970,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 223229,
@@ -7763,14 +7867,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 209172,
-      "num": 209172,
-      "word": "iOS17.4改进电池健康报告",
-      "onboard_time": 1709690609,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 208985,
       "num": 268336,
       "word": "陈国豪太生猛了",
@@ -7801,6 +7897,14 @@
       "onboard_time": 1709259452,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208553,
+      "num": 208553,
+      "word": "大学生把娃哈哈拍出国窖风",
+      "onboard_time": 1709694510,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 208357,
@@ -7865,14 +7969,6 @@
       "onboard_time": 1709435850,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206705,
-      "num": 206705,
-      "word": "魏大勋G社怼拍",
-      "onboard_time": 1709691688,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 206550,
@@ -8883,6 +8979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188901,
+      "num": 188901,
+      "word": "本来去应聘的却被骗花钱培训了",
+      "onboard_time": 1709694092,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188735,
       "num": 188735,
       "word": "VG战胜TTG",
@@ -8905,14 +9009,6 @@
       "onboard_time": 1709295872,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 188475,
-      "num": 188475,
-      "word": "老外被中国哪都能点外卖震惊了",
-      "onboard_time": 1709691749,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188451,
@@ -8977,6 +9073,14 @@
       "onboard_time": 1709684371,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186666,
+      "num": 186666,
+      "word": "彩礼是对女性的生育补偿吗",
+      "onboard_time": 1709694633,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186587,
@@ -9097,6 +9201,14 @@
       "onboard_time": 1709262211,
       "rank": 34,
       "category": "财经,科学科普"
+    },
+    {
+      "raw_hot": 183947,
+      "num": 183947,
+      "word": "藏海花 张起灵",
+      "onboard_time": 1709694933,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 183873,
@@ -10059,14 +10171,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 166964,
-      "num": 166964,
-      "word": "玲娜贝儿新衣服首秀",
-      "onboard_time": 1709692290,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 166806,
       "num": 166806,
       "word": "大学生的早八都这么迷糊吗",
@@ -10139,14 +10243,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 165025,
-      "num": 165025,
-      "word": "刘亦菲谷爱凌坐一起",
-      "onboard_time": 1709692231,
-      "rank": 33,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 164977,
       "num": 164977,
       "word": "爱到最后各凭良心",
@@ -10172,7 +10268,7 @@
     },
     {
       "raw_hot": 164702,
-      "num": 756242,
+      "num": 808378,
       "word": "2024全国两会新词热词",
       "onboard_time": 1709639792,
       "rank": 6,
@@ -10321,6 +10417,14 @@
       "onboard_time": 1709687133,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162294,
+      "num": 162294,
+      "word": "王一博巴黎街拍vlog",
+      "onboard_time": 1709692592,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 162290,
@@ -10707,6 +10811,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 156832,
+      "num": 165384,
+      "word": "缤果PLUS突然上市",
+      "onboard_time": 1709694452,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 156775,
       "num": 156775,
       "word": "五十公里桃花坞4首录路透",
@@ -10753,6 +10865,14 @@
       "onboard_time": 1709559217,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 155853,
+      "num": 145604,
+      "word": "欧阳娜娜G社生图",
+      "onboard_time": 1709694812,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 155592,
@@ -11243,12 +11363,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 147091,
-      "num": 147091,
-      "word": "向佐练台词吓到许君聪",
-      "onboard_time": 1709692110,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 147083,
+      "num": 147083,
+      "word": "2024英雄联盟西部魔影",
+      "onboard_time": 1709693851,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 146983,
@@ -12169,6 +12289,14 @@
       "onboard_time": 1709274392,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134363,
+      "num": 134363,
+      "word": "别对我动心 恋爱告急",
+      "onboard_time": 1709694752,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 134288,
@@ -13217,6 +13345,14 @@
       "onboard_time": 1709363611,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116635,
+      "num": 116635,
+      "word": "2块钱的维C和上百元的维C哪个更好",
+      "onboard_time": 1709692768,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 116455,
@@ -14809,6 +14945,14 @@
       "onboard_time": 1709384852,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 46434,
+      "num": 145777,
+      "word": "浮生忆玲珑来西湖摇人了",
+      "onboard_time": 1709692532,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 46375,
