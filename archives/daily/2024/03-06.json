@@ -1,6 +1,6 @@
 {
   "startTime": 1709655654688,
-  "endTime": 1709695067926,
+  "endTime": 1709696066000,
   "band_list": [
     {
       "raw_hot": 1948314,
@@ -32,6 +32,22 @@
       "word": "中青报评霍启刚建议引热议",
       "onboard_time": 1709683051,
       "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1034617,
+      "num": 1034617,
+      "word": "藏海花 张起灵",
+      "onboard_time": 1709694933,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1022280,
+      "num": 323670,
+      "word": "建议3岁以下子女的父母每月1天带薪育儿假",
+      "onboard_time": 1709693729,
+      "rank": 12,
       "category": "国内时政"
     },
     {
@@ -67,6 +83,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 861573,
+      "num": 322355,
+      "word": "盒马被曝清货关门",
+      "onboard_time": 1709694633,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 826094,
       "num": 308030,
       "word": "这哪是回南天这是回南天门了吧",
@@ -83,8 +107,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 787373,
+      "num": 321451,
+      "word": "男生月薪一万一年存10万",
+      "onboard_time": 1709695294,
+      "rank": 12,
+      "category": "情感,社会新闻"
+    },
+    {
       "raw_hot": 772261,
-      "num": 312689,
+      "num": 320838,
       "word": "刘亦菲谷爱凌坐一起",
       "onboard_time": 1709692231,
       "rank": 33,
@@ -148,7 +180,7 @@
     },
     {
       "raw_hot": 588693,
-      "num": 276535,
+      "num": 312485,
       "word": "无意间发现了老婆开车时的样子",
       "onboard_time": 1709693671,
       "rank": 20,
@@ -156,7 +188,7 @@
     },
     {
       "raw_hot": 582060,
-      "num": 312503,
+      "num": 318572,
       "word": "魏大勋G社怼拍",
       "onboard_time": 1709691688,
       "rank": 38,
@@ -171,6 +203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 568446,
+      "num": 318647,
+      "word": "赵丽颖林更新早期的微信互动",
+      "onboard_time": 1709694331,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543935,
       "num": 543935,
       "word": "别再让黄金店割智商税了",
@@ -179,20 +219,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 527011,
+      "num": 316811,
+      "word": "彩礼是对女性的生育补偿吗",
+      "onboard_time": 1709694633,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 525083,
       "num": 275094,
       "word": "老公出差抓人老婆在家救人",
       "onboard_time": 1709673016,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 521852,
-      "num": 311568,
-      "word": "建议3岁以下子女的父母每月1天带薪育儿假",
-      "onboard_time": 1709693729,
-      "rank": 12,
-      "category": "国内时政"
     },
     {
       "raw_hot": 504938,
@@ -204,7 +244,7 @@
     },
     {
       "raw_hot": 493215,
-      "num": 310934,
+      "num": 478836,
       "word": "董明珠建议建立家电使用年限强制性标准",
       "onboard_time": 1709692592,
       "rank": 13,
@@ -220,7 +260,7 @@
     },
     {
       "raw_hot": 483618,
-      "num": 308267,
+      "num": 310765,
       "word": "周处除三害 九次圣杯的含金量",
       "onboard_time": 1709689950,
       "rank": 30,
@@ -233,6 +273,14 @@
       "onboard_time": 1709643155,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 476171,
+      "num": 476171,
+      "word": "老外被中国哪都能点外卖震惊了",
+      "onboard_time": 1709691749,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 465057,
@@ -252,7 +300,7 @@
     },
     {
       "raw_hot": 438130,
-      "num": 309610,
+      "num": 313399,
       "word": "TheShy疑似恋爱",
       "onboard_time": 1709693729,
       "rank": 15,
@@ -291,14 +339,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 411330,
-      "num": 411330,
-      "word": "老外被中国哪都能点外卖震惊了",
-      "onboard_time": 1709691749,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 410798,
       "num": 265105,
       "word": "睡眠不足引发全身炎症风暴",
@@ -331,20 +371,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 354624,
+      "num": 354624,
+      "word": "玲娜贝儿新衣服首秀",
+      "onboard_time": 1709692290,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 352162,
       "num": 352162,
       "word": "LV大秀",
       "onboard_time": 1709684791,
       "rank": 7,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 349241,
-      "num": 349241,
-      "word": "玲娜贝儿新衣服首秀",
-      "onboard_time": 1709692290,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 337318,
@@ -387,14 +427,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 307530,
-      "num": 307530,
-      "word": "赵丽颖林更新早期的微信互动",
-      "onboard_time": 1709694331,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 304813,
       "num": 213254,
       "word": "邓为工作室的审美",
@@ -403,20 +435,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 303375,
+      "num": 303375,
+      "word": "大学生把娃哈哈拍出国窖风",
+      "onboard_time": 1709694510,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 297528,
       "num": 211763,
       "word": "已经生娃可能还会检测出已怀孕",
       "onboard_time": 1709645075,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 296284,
-      "num": 296284,
-      "word": "盒马被曝清货关门",
-      "onboard_time": 1709694633,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 290850,
@@ -507,6 +539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 242890,
+      "num": 242890,
+      "word": "白岩松谈年轻人被批啃老",
+      "onboard_time": 1709693970,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 236122,
       "num": 323224,
       "word": "代表建议毕业生不要只把眼光放在一线城市",
@@ -537,14 +577,6 @@
       "onboard_time": 1709650955,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 223619,
-      "num": 223619,
-      "word": "白岩松谈年轻人被批啃老",
-      "onboard_time": 1709693970,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 218191,
@@ -579,20 +611,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 208553,
-      "num": 208553,
-      "word": "大学生把娃哈哈拍出国窖风",
-      "onboard_time": 1709694510,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 207855,
       "num": 207855,
       "word": "杨幂谈私服风格",
       "onboard_time": 1709654130,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207375,
+      "num": 207375,
+      "word": "藏海花寻迹版预告",
+      "onboard_time": 1709696011,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 206068,
@@ -617,6 +649,14 @@
       "onboard_time": 1709647776,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196614,
+      "num": 196614,
+      "word": "火朗中断活动",
+      "onboard_time": 1709695772,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 196021,
@@ -657,22 +697,6 @@
       "onboard_time": 1709684371,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 186666,
-      "num": 186666,
-      "word": "彩礼是对女性的生育补偿吗",
-      "onboard_time": 1709694633,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183947,
-      "num": 183947,
-      "word": "藏海花 张起灵",
-      "onboard_time": 1709694933,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 183487,
@@ -723,6 +747,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 173089,
+      "num": 173089,
+      "word": "朱开发火",
+      "onboard_time": 1709695294,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172889,
       "num": 172889,
       "word": "妈妈活成了我想不到的样子",
@@ -769,6 +801,14 @@
       "onboard_time": 1709686352,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164906,
+      "num": 164906,
+      "word": "别对我动心 恋爱告急",
+      "onboard_time": 1709694752,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 164137,
@@ -828,7 +868,7 @@
     },
     {
       "raw_hot": 156832,
-      "num": 165384,
+      "num": 316152,
       "word": "缤果PLUS突然上市",
       "onboard_time": 1709694452,
       "rank": 31,
@@ -836,7 +876,7 @@
     },
     {
       "raw_hot": 155853,
-      "num": 145604,
+      "num": 150473,
       "word": "欧阳娜娜G社生图",
       "onboard_time": 1709694812,
       "rank": 39,
@@ -939,20 +979,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 134363,
-      "num": 134363,
-      "word": "别对我动心 恋爱告急",
-      "onboard_time": 1709694752,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134154,
       "num": 134154,
       "word": "A股",
       "onboard_time": 1709693550,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 134141,
+      "num": 134141,
+      "word": "春日背景图",
+      "onboard_time": 1709695533,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 130212,
@@ -1019,6 +1059,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 111495,
+      "num": 111495,
+      "word": "世界之外排行榜",
+      "onboard_time": 1709696011,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108050,
       "num": 98899,
       "word": "王一博世趋排名",
@@ -1081,6 +1129,14 @@
       "onboard_time": 1709680343,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 87759,
+      "num": 100813,
+      "word": "杨紫怼脸拍状态",
+      "onboard_time": 1709696011,
+      "rank": 49,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 87348,
@@ -1203,8 +1259,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46434,
-      "num": 145777,
+      "raw_hot": 48431,
+      "num": 151045,
       "word": "浮生忆玲珑来西湖摇人了",
       "onboard_time": 1709692532,
       "rank": 38,
@@ -1225,6 +1281,14 @@
       "onboard_time": 1709668935,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35306,
+      "num": 1038706,
+      "word": "要牢牢把握高质量发展这个首要任务",
+      "onboard_time": 1709695892,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27744,
