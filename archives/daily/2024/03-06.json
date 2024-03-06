@@ -1,7 +1,15 @@
 {
   "startTime": 1709655654688,
-  "endTime": 1709688647746,
+  "endTime": 1709690621550,
   "band_list": [
+    {
+      "raw_hot": 1501158,
+      "num": 1501158,
+      "word": "妻子力挺丈夫6次创业终逆袭",
+      "onboard_time": 1709689111,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1135872,
       "num": 1135872,
@@ -28,11 +36,19 @@
     },
     {
       "raw_hot": 922170,
-      "num": 269670,
+      "num": 278629,
       "word": "反诈老陈回应是否后悔辞去公职",
       "onboard_time": 1709683169,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 889137,
+      "num": 284091,
+      "word": "黄景瑜撩的狗 阮经天来承受",
+      "onboard_time": 1709686352,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 871889,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 819067,
-      "num": 269467,
+      "num": 282444,
       "word": "刘亦菲小黑裙",
       "onboard_time": 1709682629,
       "rank": 13,
@@ -75,14 +91,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 693237,
-      "num": 268861,
-      "word": "黄景瑜撩的狗 阮经天来承受",
-      "onboard_time": 1709686352,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 681520,
       "num": 220789,
       "word": "农夫山泉",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 606105,
-      "num": 269221,
+      "num": 275899,
       "word": "海景房狂跌",
       "onboard_time": 1709679682,
       "rank": 23,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 525083,
-      "num": 268595,
+      "num": 275094,
       "word": "老公出差抓人老婆在家救人",
       "onboard_time": 1709673016,
       "rank": 39,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 454350,
+      "num": 454350,
+      "word": "男子购车后下午车辆降价1.7万",
+      "onboard_time": 1709689411,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449550,
       "num": 268987,
       "word": "农夫山泉股价连跌三天",
@@ -169,6 +185,14 @@
       "onboard_time": 1709685995,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 420990,
+      "num": 420990,
+      "word": "美法案要求字节165天内剥离TikTok",
+      "onboard_time": 1709687913,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 420854,
@@ -187,8 +211,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 374503,
-      "num": 250636,
+      "raw_hot": 382029,
+      "num": 278370,
       "word": "周冬雨宋茜欧阳娜娜同框",
       "onboard_time": 1709686474,
       "rank": 29,
@@ -243,6 +267,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 306018,
+      "num": 306018,
+      "word": "长月烬明戏服 二次利用",
+      "onboard_time": 1709690195,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 304813,
       "num": 213254,
       "word": "邓为工作室的审美",
@@ -275,12 +307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275484,
+      "num": 275484,
+      "word": "阴阳师 初音未来",
+      "onboard_time": 1709689771,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 269829,
       "num": 269829,
       "word": "回南天",
       "onboard_time": 1709685153,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268547,
+      "num": 173579,
+      "word": "周处除三害 九次圣杯的含金量",
+      "onboard_time": 1709689950,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 268425,
@@ -297,14 +345,6 @@
       "onboard_time": 1709683169,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 266879,
-      "num": 266879,
-      "word": "美法案要求字节165天内剥离TikTok",
-      "onboard_time": 1709687913,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 264227,
@@ -361,6 +401,14 @@
       "onboard_time": 1709650955,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 222473,
+      "num": 222473,
+      "word": "95后女生童年遗憾被陌生人抚慰",
+      "onboard_time": 1709689348,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218191,
@@ -435,12 +483,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192251,
+      "num": 173579,
+      "word": "霍启刚 完善休假制度是必要的",
+      "onboard_time": 1709690071,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 191997,
       "num": 191997,
       "word": "浪姐颜值",
       "onboard_time": 1709655088,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188084,
+      "num": 188084,
+      "word": "人大代表谈电视开机率不高",
+      "onboard_time": 1709689829,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 187081,
@@ -475,6 +539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176907,
+      "num": 176907,
+      "word": "龙晶陶瓷事件大结局",
+      "onboard_time": 1709689529,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 173590,
       "num": 173590,
       "word": "蔚来现金储备达573亿元",
@@ -489,6 +561,14 @@
       "onboard_time": 1709682749,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169924,
+      "num": 169924,
+      "word": "睡眠不足引发全身炎症风暴",
+      "onboard_time": 1709690252,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 166164,
@@ -513,6 +593,14 @@
       "onboard_time": 1709686352,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164137,
+      "num": 164137,
+      "word": "苹果限制欧版iPhone外流",
+      "onboard_time": 1709688150,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 162590,
@@ -635,14 +723,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 134373,
-      "num": 134373,
-      "word": "苹果限制欧版iPhone外流",
-      "onboard_time": 1709688150,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 130212,
       "num": 130212,
       "word": "新疆乌什县4.7级地震",
@@ -689,6 +769,14 @@
       "onboard_time": 1709651794,
       "rank": 37,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 112528,
+      "num": 112528,
+      "word": "iOS17.4改进电池健康报告",
+      "onboard_time": 1709690609,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 108050,
@@ -827,6 +915,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 64998,
+      "num": 281876,
+      "word": "谁还没用过湿厕纸啊",
+      "onboard_time": 1709688629,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 62907,
       "num": 62907,
       "word": "姆巴佩梅开二度",
@@ -849,14 +945,6 @@
       "onboard_time": 1709654432,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 57037,
-      "num": 120804,
-      "word": "谁还没用过湿厕纸啊",
-      "onboard_time": 1709688629,
-      "rank": 47,
-      "category": "科学科普"
     },
     {
       "raw_hot": 55677,
