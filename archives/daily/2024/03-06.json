@@ -1,6 +1,6 @@
 {
   "startTime": 1709655654688,
-  "endTime": 1709721329861,
+  "endTime": 1709723699670,
   "band_list": [
     {
       "raw_hot": 3203010,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1511906,
-      "num": 491955,
+      "num": 523230,
       "word": "杨幂北电考官",
       "onboard_time": 1709712813,
       "rank": 14,
@@ -89,6 +89,14 @@
       "onboard_time": 1709648496,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1121796,
+      "num": 658221,
+      "word": "娃哈哈奶茶店",
+      "onboard_time": 1709720130,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 1101093,
@@ -321,6 +329,14 @@
       "onboard_time": 1709693671,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 602349,
+      "num": 602349,
+      "word": "papi酱 当你的女朋友是学导演的",
+      "onboard_time": 1709722231,
+      "rank": 6,
+      "category": "网红"
     },
     {
       "raw_hot": 601145,
@@ -612,19 +628,19 @@
     },
     {
       "raw_hot": 405351,
-      "num": 405351,
+      "num": 551165,
       "word": "财政部部长谈党政机关过紧日子",
       "onboard_time": 1709717190,
       "rank": 24,
       "category": "国内时政"
     },
     {
-      "raw_hot": 399258,
-      "num": 505638,
-      "word": "娃哈哈奶茶店",
-      "onboard_time": 1709720130,
+      "raw_hot": 402521,
+      "num": 402521,
+      "word": "霉霉手机壳",
+      "onboard_time": 1709721273,
       "rank": 43,
-      "category": "美食"
+      "category": "演出"
     },
     {
       "raw_hot": 396206,
@@ -673,6 +689,14 @@
       "onboard_time": 1709701054,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370613,
+      "num": 339498,
+      "word": "中国队短道速滑世锦赛名单",
+      "onboard_time": 1709718691,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 369786,
@@ -737,14 +761,6 @@
       "onboard_time": 1709696255,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 339498,
-      "num": 339498,
-      "word": "中国队短道速滑世锦赛名单",
-      "onboard_time": 1709718691,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 337318,
@@ -865,6 +881,14 @@
       "onboard_time": 1709687012,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 283398,
+      "num": 243004,
+      "word": "30岁单身女性不想结婚只想买房",
+      "onboard_time": 1709721089,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 282484,
@@ -1051,6 +1075,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 225862,
+      "num": 225862,
+      "word": "萨顶顶 浪姐",
+      "onboard_time": 1709722051,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224137,
       "num": 320865,
       "word": "射雕英雄传侠之大者计划全球发行",
@@ -1171,12 +1203,28 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 212610,
+      "num": 212610,
+      "word": "钟薛高创始人曾回应定价高",
+      "onboard_time": 1709722533,
+      "rank": 22,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 212391,
       "num": 212391,
       "word": "雷军称小米汽车有信心打开市场",
       "onboard_time": 1709701832,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 210262,
+      "num": 660971,
+      "word": "技术性离婚等减持漏洞将进一步堵住",
+      "onboard_time": 1709719230,
+      "rank": 34,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 207855,
@@ -1251,6 +1299,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 199965,
+      "num": 560824,
+      "word": "四川将发超1亿元消费券",
+      "onboard_time": 1709718630,
+      "rank": 8,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 198807,
       "num": 198807,
       "word": "真没必要为三五年后的前途担忧",
@@ -1307,6 +1363,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 193279,
+      "num": 193279,
+      "word": "其实大学生每天都吃一样的饭",
+      "onboard_time": 1709722351,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192251,
       "num": 177006,
       "word": "霍启刚 完善休假制度是必要的",
@@ -1332,7 +1396,7 @@
     },
     {
       "raw_hot": 190247,
-      "num": 548721,
+      "num": 592068,
       "word": "女童走失被路人送回家父亲登门跪谢",
       "onboard_time": 1709718812,
       "rank": 7,
@@ -1363,6 +1427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182449,
+      "num": 182449,
+      "word": "一张外卖地图如何从南京挂遍全国",
+      "onboard_time": 1709723012,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181387,
       "num": 181387,
       "word": "锻炼身体的最佳时间",
@@ -1385,14 +1457,6 @@
       "onboard_time": 1709690671,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 177155,
-      "num": 531948,
-      "word": "四川将发超1亿元消费券",
-      "onboard_time": 1709718630,
-      "rank": 8,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 177045,
@@ -1563,14 +1627,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 163837,
-      "num": 163837,
-      "word": "技术性离婚等减持漏洞将进一步堵住",
-      "onboard_time": 1709719230,
-      "rank": 34,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 162711,
       "num": 162711,
       "word": "马丽一滴泪哭戏演出爆发感",
@@ -1611,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161860,
+      "num": 161860,
+      "word": "张元英刘柏辛同框看秀",
+      "onboard_time": 1709722291,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 161403,
       "num": 161403,
       "word": "中美AI技术被拉开差距了吗",
@@ -1649,6 +1713,14 @@
       "onboard_time": 1709703332,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158286,
+      "num": 158286,
+      "word": "山东泰山开场落后",
+      "onboard_time": 1709722171,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 157869,
@@ -1795,6 +1867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145574,
+      "num": 145574,
+      "word": "林俊杰深圳站",
+      "onboard_time": 1709722712,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145173,
       "num": 145173,
       "word": "祁煜的画展",
@@ -1931,6 +2011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131457,
+      "num": 131457,
+      "word": "摘水果 解压",
+      "onboard_time": 1709721510,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130707,
       "num": 130707,
       "word": "装忙比真忙还累",
@@ -1979,6 +2067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126467,
+      "num": 126467,
+      "word": "等着看白鹿化妆的实力",
+      "onboard_time": 1709722650,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125203,
       "num": 221519,
       "word": "唐探2时间线连上了",
@@ -2017,14 +2113,6 @@
       "onboard_time": 1709644171,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121698,
-      "num": 121698,
-      "word": "30岁单身女性不想结婚只想买房",
-      "onboard_time": 1709721089,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 121634,
@@ -2073,14 +2161,6 @@
       "onboard_time": 1709651794,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 111764,
-      "num": 111764,
-      "word": "霉霉手机壳",
-      "onboard_time": 1709721273,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 111331,
@@ -2179,12 +2259,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97623,
+      "num": 97623,
+      "word": "猫妈妈这是生了一窝葫芦娃啊",
+      "onboard_time": 1709721089,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 95720,
+      "num": 95720,
+      "word": "变懒变笨都可能是抑郁了",
+      "onboard_time": 1709723551,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 95604,
-      "num": 110791,
+      "num": 201682,
       "word": "续航无忧的出行快乐谁懂",
       "onboard_time": 1709721152,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94365,
+      "num": 94365,
+      "word": "外卖小哥是有点搞笑天赋在身上的",
+      "onboard_time": 1709722471,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 93611,
