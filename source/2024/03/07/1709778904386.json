@@ -1,0 +1,410 @@
+{
+  "runTime": 1709778904386,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 995752,
+        "num": 995752,
+        "word": "丈夫送妻子黄金锁求辅导孩子别发脾气",
+        "onboard_time": 1709774432,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852399,
+        "num": 852399,
+        "word": "刘亦菲 原来努力是可以被看到的",
+        "onboard_time": 1709772393,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41828,
+        "num": 578480,
+        "word": "从政府工作报告看中国经济新动力",
+        "onboard_time": 1709728350,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 540292,
+        "num": 540292,
+        "word": "直播王毅回答中外记者提问",
+        "onboard_time": 1709777249,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 366827,
+        "num": 366827,
+        "word": "喜茶光与夜之恋联名",
+        "onboard_time": 1709731711,
+        "rank": 4,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 344125,
+        "num": 344125,
+        "word": "医生熬夜后是怎么补救的",
+        "onboard_time": 1709770354,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 334291,
+        "num": 334291,
+        "word": "安藤樱 感觉和贾玲已经是朋友了",
+        "onboard_time": 1709771612,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 324007,
+        "num": 324007,
+        "word": "你会好好待我们娘十三个吧",
+        "onboard_time": 1709769150,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275945,
+        "num": 275945,
+        "word": "娃哈哈妇女节放半天假加100元餐补",
+        "onboard_time": 1709774671,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241576,
+        "num": 241576,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1709776290,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 850041,
+        "num": 240466,
+        "word": "建议国家全面禁止未成年人网游",
+        "onboard_time": 1709737653,
+        "rank": 10,
+        "category": "国内时政,游戏"
+      },
+      {
+        "raw_hot": 598123,
+        "num": 238132,
+        "word": "00后开始拒绝月经羞耻",
+        "onboard_time": 1709767706,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 462026,
+        "num": 236483,
+        "word": "差点亲到张凌赫",
+        "onboard_time": 1709776172,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446282,
+        "num": 234235,
+        "word": "柳智敏说明朗的智敏回来了",
+        "onboard_time": 1709775448,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443135,
+        "num": 231528,
+        "word": "药明康德",
+        "onboard_time": 1709776828,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 417692,
+        "num": 229410,
+        "word": "iPhone16渲染图",
+        "onboard_time": 1709767404,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 346425,
+        "num": 227326,
+        "word": "杨幂考北电是孤注一掷",
+        "onboard_time": 1709768067,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327404,
+        "num": 227057,
+        "word": "95后女生的工作是带薪撸小老虎",
+        "onboard_time": 1709774009,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296876,
+        "num": 224889,
+        "word": "男员工误入女厕10秒被解雇",
+        "onboard_time": 1709739753,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223180,
+        "num": 223180,
+        "word": "回南天取快递 像到了天庭",
+        "onboard_time": 1709736873,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1553823,
+        "num": 221449,
+        "word": "李现向粉丝道歉",
+        "onboard_time": 1709777310,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225365,
+        "num": 219630,
+        "word": "可以买贵的但是不能买贵了",
+        "onboard_time": 1709777791,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215892,
+        "num": 215892,
+        "word": "ive香港",
+        "onboard_time": 1709778150,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200004,
+        "num": 200004,
+        "word": "所有人都做了头发不告诉魏若来",
+        "onboard_time": 1709771197,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195297,
+        "num": 195297,
+        "word": "3人深夜闻到异味避免了一起爆燃",
+        "onboard_time": 1709774671,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183146,
+        "num": 183146,
+        "word": "越来越多年轻人开始山野穿行",
+        "onboard_time": 1709776110,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 179997,
+        "num": 179997,
+        "word": "赴港买黄金火了",
+        "onboard_time": 1709777971,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179607,
+        "num": 179607,
+        "word": "为什么很多人不爱用标点符号",
+        "onboard_time": 1709777368,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173577,
+        "num": 173577,
+        "word": "00后小伙被骗缅甸每天工作17小时",
+        "onboard_time": 1709748918,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173091,
+        "num": 173091,
+        "word": "王一博登VOGUE英国",
+        "onboard_time": 1709776352,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302843,
+        "num": 168759,
+        "word": "女子称网购的内裤裆部有大量污渍",
+        "onboard_time": 1709777850,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249038,
+        "num": 165578,
+        "word": "男子喝酒撞车后买了两个卤蛋一杯白酒",
+        "onboard_time": 1709777791,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158297,
+        "num": 158297,
+        "word": "苹果汽车曾考虑收购特斯拉",
+        "onboard_time": 1709774731,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 154488,
+        "num": 154488,
+        "word": "你猜为什么我们认识却不是好友",
+        "onboard_time": 1709767166,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152276,
+        "num": 152276,
+        "word": "建议明确规定农村妇女土地权益",
+        "onboard_time": 1709778628,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141557,
+        "num": 141557,
+        "word": "建议增加学生抑郁症体检项目",
+        "onboard_time": 1709775211,
+        "rank": 35,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 140432,
+        "num": 140432,
+        "word": "重庆龙湖天街三八妇女节文案",
+        "onboard_time": 1709775089,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137545,
+        "num": 137545,
+        "word": "红楼梦住宅图",
+        "onboard_time": 1709778689,
+        "rank": 37,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 136361,
+        "num": 136361,
+        "word": "霸哥停播",
+        "onboard_time": 1709770532,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132120,
+        "num": 132120,
+        "word": "魏大勋神级4秒镜头",
+        "onboard_time": 1709739273,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129278,
+        "num": 129278,
+        "word": "董明珠称钱不重要培养年轻人才最重要",
+        "onboard_time": 1709778270,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127502,
+        "num": 127502,
+        "word": "建议对伤人犬只饲养者追刑责",
+        "onboard_time": 1709772033,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121630,
+        "num": 121630,
+        "word": "B太打假代购护肤品",
+        "onboard_time": 1709767586,
+        "rank": 42,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 119538,
+        "num": 119538,
+        "word": "黄奕曝光明星饮食状况",
+        "onboard_time": 1709773292,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115473,
+        "num": 115473,
+        "word": "中国资产集体拉涨",
+        "onboard_time": 1709777669,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112163,
+        "num": 112163,
+        "word": "狮子座其实没有那么慕强",
+        "onboard_time": 1709768307,
+        "rank": 45,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 110672,
+        "num": 110672,
+        "word": "主动把床单铺好的猫妈妈",
+        "onboard_time": 1709776531,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108216,
+        "num": 108216,
+        "word": "安妮海瑟薇新片",
+        "onboard_time": 1709772931,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107166,
+        "num": 107166,
+        "word": "3月7日两会日程",
+        "onboard_time": 1709769810,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100339,
+        "num": 100339,
+        "word": "便秘的人多吃高渣食物",
+        "onboard_time": 1709778869,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望政协委员#"
+    }
+  }
+}
