@@ -1,6 +1,6 @@
 {
   "startTime": 1709828457134,
-  "endTime": 1709831896523,
+  "endTime": 1709832914409,
   "band_list": [
     {
       "raw_hot": 795367,
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115747,
+      "num": 63866,
+      "word": "间谍过家家 次子长大了",
+      "onboard_time": 1709831003,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 108919,
       "num": 108919,
       "word": "香奈儿内场座位图",
@@ -387,18 +395,26 @@
       "category": "作品衍生,游戏"
     },
     {
-      "raw_hot": 57756,
-      "num": 57756,
-      "word": "间谍过家家 次子长大了",
-      "onboard_time": 1709831003,
-      "rank": 30,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 54819,
       "num": 54819,
       "word": "美国业余演员靠中式霸总剧火遍全球",
       "onboard_time": 1709831602,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 47496,
+      "num": 47496,
+      "word": "茄子小杨哥带货",
+      "onboard_time": 1709831899,
+      "rank": 31,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 43939,
+      "num": 43939,
+      "word": "年轻人为什么喜欢刷短剧",
+      "onboard_time": 1709832200,
       "rank": 33,
       "category": "剧集"
     },
@@ -425,6 +441,14 @@
       "onboard_time": 1709808993,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 30583,
+      "num": 35305,
+      "word": "网剧别对我动心",
+      "onboard_time": 1709806893,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 29106,
