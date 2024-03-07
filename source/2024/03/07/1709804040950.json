@@ -1,0 +1,410 @@
+{
+  "runTime": 1709804040950,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1338197,
+        "num": 1338197,
+        "word": "明天放半天假",
+        "onboard_time": 1709786793,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1029671,
+        "num": 1029671,
+        "word": "妇女节放假是法定的半天节假日",
+        "onboard_time": 1709800589,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88558,
+        "num": 913730,
+        "word": "2024两会好声音",
+        "onboard_time": 1709798432,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1323335,
+        "num": 909016,
+        "word": "长子走稳 次子走险",
+        "onboard_time": 1709797651,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63061,
+        "num": 904095,
+        "word": "代表谈越剧新龙门客栈破圈",
+        "onboard_time": 1709791233,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 904001,
+        "num": 904001,
+        "word": "海带为什么要打结",
+        "onboard_time": 1709798369,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 453557,
+        "num": 453557,
+        "word": "小日子 婆婆大闹公司",
+        "onboard_time": 1709800289,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441843,
+        "num": 441843,
+        "word": "真正意义上的啃老",
+        "onboard_time": 1709799692,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 410486,
+        "num": 410486,
+        "word": "乐视面试简历无需填写年龄和婚育信息",
+        "onboard_time": 1709792847,
+        "rank": 8,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 69162,
+        "num": 408271,
+        "word": "王毅回答了哪些热点问题",
+        "onboard_time": 1709791233,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 842008,
+        "num": 406411,
+        "word": "李诞爆改",
+        "onboard_time": 1709787272,
+        "rank": 10,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 727211,
+        "num": 404172,
+        "word": "王鹤棣被王传君按雪里",
+        "onboard_time": 1709802691,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 511581,
+        "num": 400072,
+        "word": "庾澄庆回应哈利出道传闻",
+        "onboard_time": 1709797953,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398218,
+        "num": 398218,
+        "word": "渤海大学通报一男生进女厕偷拍",
+        "onboard_time": 1709798071,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354208,
+        "num": 354208,
+        "word": "华为P70系列手机延期发布",
+        "onboard_time": 1709800289,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 335442,
+        "num": 335442,
+        "word": "浪姐5宿舍",
+        "onboard_time": 1709802810,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334840,
+        "num": 334840,
+        "word": "委员称小学课间休息应改为30分钟",
+        "onboard_time": 1709799270,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 300032,
+        "num": 300032,
+        "word": "当奶奶告诉她的iPad运行很慢时",
+        "onboard_time": 1709793512,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285836,
+        "num": 285836,
+        "word": "向佐向吴镇宇道歉称下次不敢了",
+        "onboard_time": 1709790510,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280133,
+        "num": 280133,
+        "word": "鹿晗欢迎队长随时来电",
+        "onboard_time": 1709798492,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1009996,
+        "num": 275390,
+        "word": "男子上班浏览色情网站被开除辩称电脑中毒",
+        "onboard_time": 1709801190,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267177,
+        "num": 267177,
+        "word": "娜诺瘦脱相",
+        "onboard_time": 1709791294,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232643,
+        "num": 232643,
+        "word": "霍启刚再回应梅西事件",
+        "onboard_time": 1709803652,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216287,
+        "num": 216287,
+        "word": "微信占用了我200多G的内存",
+        "onboard_time": 1709797890,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205569,
+        "num": 205569,
+        "word": "张学友演唱会取消",
+        "onboard_time": 1709795849,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203957,
+        "num": 203957,
+        "word": "胃是个很敏感的器官",
+        "onboard_time": 1709801252,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195656,
+        "num": 195656,
+        "word": "长沙公司妇女节给女员工拍写真",
+        "onboard_time": 1709803051,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191438,
+        "num": 191438,
+        "word": "网传浪姐5初舞台排名",
+        "onboard_time": 1709803410,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164968,
+        "num": 164968,
+        "word": "张婧仪19岁至23岁颜值变化",
+        "onboard_time": 1709801551,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163719,
+        "num": 163719,
+        "word": "为什么上班有人忙有人闲",
+        "onboard_time": 1709799754,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161100,
+        "num": 161100,
+        "word": "热巴元气桃桃仿妆",
+        "onboard_time": 1709803172,
+        "rank": 30,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 160261,
+        "num": 160261,
+        "word": "原来女生真的从小就懂拍照",
+        "onboard_time": 1709801731,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157411,
+        "num": 157411,
+        "word": "林俊杰吸收阳光",
+        "onboard_time": 1709803770,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140628,
+        "num": 140628,
+        "word": "退税到账",
+        "onboard_time": 1709780849,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130621,
+        "num": 130621,
+        "word": "王一博Jennie同框图",
+        "onboard_time": 1709787334,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128381,
+        "num": 128381,
+        "word": "什么公司可以上四休三",
+        "onboard_time": 1709801371,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125701,
+        "num": 125701,
+        "word": "诺一霓娜近照",
+        "onboard_time": 1709790391,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122525,
+        "num": 122525,
+        "word": "重庆一公司三八节连续3年放6天",
+        "onboard_time": 1709802571,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27982,
+        "num": 121248,
+        "word": "价格战卷入高端MPV",
+        "onboard_time": 1709802212,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 120473,
+        "num": 120473,
+        "word": "孙颖莎入围巴黎奥运会最值得关注女运动员",
+        "onboard_time": 1709794530,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117652,
+        "num": 117652,
+        "word": "脑子一热买过最没用的东西是什么",
+        "onboard_time": 1709803770,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115495,
+        "num": 115495,
+        "word": "越长大越没有二手羞耻了",
+        "onboard_time": 1709795735,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110514,
+        "num": 110514,
+        "word": "赵丽颖与凤行梦回楚乔",
+        "onboard_time": 1709802810,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110210,
+        "num": 110210,
+        "word": "男朋友不愿意体检",
+        "onboard_time": 1709789075,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106127,
+        "num": 106127,
+        "word": "姿态Rita同框解说",
+        "onboard_time": 1709797411,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103685,
+        "num": 103685,
+        "word": "叠纸心意旗舰店",
+        "onboard_time": 1709800711,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101011,
+        "num": 101011,
+        "word": "为什么月经前身体和心情都很糟糕",
+        "onboard_time": 1709789671,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100635,
+        "num": 100635,
+        "word": "宿傩黑闪真希",
+        "onboard_time": 1709802029,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 100414,
+        "num": 100414,
+        "word": "大理寺少卿游 10不离9",
+        "onboard_time": 1709798853,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97201,
+        "num": 97201,
+        "word": "姚明希望加大投入让年轻人养育成本更低",
+        "onboard_time": 1709804011,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#今年两会总书记再谈新质生产力#"
+    }
+  }
+}
