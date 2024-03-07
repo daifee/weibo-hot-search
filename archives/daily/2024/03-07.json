@@ -1,6 +1,6 @@
 {
   "startTime": 1709742142797,
-  "endTime": 1709821007100,
+  "endTime": 1709822045654,
   "band_list": [
     {
       "raw_hot": 2630466,
@@ -115,6 +115,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 1260978,
+      "num": 1260978,
+      "word": "金价持续暴涨建行紧急公告",
+      "onboard_time": 1709820333,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1231929,
       "num": 1231929,
       "word": "中国对瑞士等6国试行免签政策",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 872567,
-      "num": 247925,
+      "num": 312102,
       "word": "小S因公公去世停工一周",
       "onboard_time": 1709817931,
       "rank": 17,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 779646,
-      "num": 230656,
+      "num": 265764,
       "word": "研0喊了导师一晚上老鼠",
       "onboard_time": 1709819252,
       "rank": 20,
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 622350,
-      "num": 278509,
+      "num": 302795,
       "word": "山河四省高中生的十六岁",
       "onboard_time": 1709816129,
       "rank": 18,
@@ -465,14 +473,6 @@
       "onboard_time": 1709777791,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 574126,
-      "num": 233356,
-      "word": "金价持续暴涨建行紧急公告",
-      "onboard_time": 1709820333,
-      "rank": 15,
-      "category": "财经"
     },
     {
       "raw_hot": 573897,
@@ -609,6 +609,14 @@
       "onboard_time": 1709780969,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 503282,
+      "num": 308430,
+      "word": "向佐评论李蠕蠕",
+      "onboard_time": 1709808871,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 501900,
@@ -756,7 +764,7 @@
     },
     {
       "raw_hot": 431935,
-      "num": 232581,
+      "num": 300304,
       "word": "香奈儿内场座位图",
       "onboard_time": 1709819134,
       "rank": 16,
@@ -825,14 +833,6 @@
       "onboard_time": 1709785232,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 393426,
-      "num": 231781,
-      "word": "向佐评论李蠕蠕",
-      "onboard_time": 1709808871,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 389845,
@@ -979,12 +979,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 330870,
+      "num": 297952,
+      "word": "周也晒美甲",
+      "onboard_time": 1709816671,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 328131,
       "num": 328131,
       "word": "家门口被放了五毛钱",
       "onboard_time": 1709733933,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 327014,
+      "num": 327014,
+      "word": "胡先煦晒花少团打call视频",
+      "onboard_time": 1709817810,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 317177,
@@ -1001,14 +1017,6 @@
       "onboard_time": 1709788714,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 310248,
-      "num": 310248,
-      "word": "胡先煦晒花少团打call视频",
-      "onboard_time": 1709817810,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 309236,
@@ -1033,14 +1041,6 @@
       "onboard_time": 1709727390,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 302936,
-      "num": 235354,
-      "word": "周也晒美甲",
-      "onboard_time": 1709816671,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 302843,
@@ -1115,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277609,
+      "num": 265719,
+      "word": "春天防晒是智商税吗",
+      "onboard_time": 1709821296,
+      "rank": 21,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 272932,
       "num": 370433,
       "word": "陈漫镜头下的奶茶",
@@ -1145,6 +1153,14 @@
       "onboard_time": 1709767346,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 264495,
+      "num": 264495,
+      "word": "韩国一个苹果约15元",
+      "onboard_time": 1709820273,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 263160,
@@ -1345,6 +1361,14 @@
       "onboard_time": 1709778150,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221373,
+      "num": 171805,
+      "word": "这个户型简直是我的理想型",
+      "onboard_time": 1709822013,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 221108,
@@ -1667,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185646,
+      "num": 185646,
+      "word": "金牛座很有自己的主见",
+      "onboard_time": 1709821593,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184701,
       "num": 184701,
       "word": "重庆龙湖天街三八妇女节文案",
@@ -1843,6 +1875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171902,
+      "num": 171902,
+      "word": "双色球",
+      "onboard_time": 1709821232,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171865,
       "num": 171865,
       "word": "练壶铃摇摆1个月大腿围减了5CM",
@@ -2011,6 +2051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161123,
+      "num": 161123,
+      "word": "黑执事 审美降级",
+      "onboard_time": 1709821593,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 161100,
       "num": 161100,
       "word": "热巴元气桃桃仿妆",
@@ -2051,14 +2099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 159071,
-      "num": 159071,
-      "word": "韩国一个苹果约15元",
-      "onboard_time": 1709820273,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 159066,
       "num": 159066,
       "word": "不允许以所谓实力地位把国家分成三六九等",
@@ -2081,6 +2121,14 @@
       "onboard_time": 1709786015,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157992,
+      "num": 157992,
+      "word": "建议房地产推行无理由退房机制",
+      "onboard_time": 1709820453,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 157411,
@@ -2387,6 +2435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133817,
+      "num": 133817,
+      "word": "为啥体制内女性找对象越来越难",
+      "onboard_time": 1709821650,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133763,
       "num": 133763,
       "word": "伦敦人有属于自己的地铁判官",
@@ -2561,14 +2617,6 @@
       "onboard_time": 1709799754,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 124291,
-      "num": 124291,
-      "word": "建议房地产推行无理由退房机制",
-      "onboard_time": 1709820453,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 123595,
@@ -2875,6 +2923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103454,
+      "num": 103454,
+      "word": "王一博造型亮点贝雷帽",
+      "onboard_time": 1709822013,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103079,
       "num": 103079,
       "word": "感觉吃饭是一件很私密的事",
@@ -2905,6 +2961,14 @@
       "onboard_time": 1709798132,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101519,
+      "num": 101519,
+      "word": "泰国偶遇泫雅拍MV",
+      "onboard_time": 1709821833,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 99687,
@@ -3123,6 +3187,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 62958,
+      "num": 565286,
+      "word": "10个关键字看2024政府工作任务",
+      "onboard_time": 1709816974,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62322,
       "num": 81264,
       "word": "唐探2",
@@ -3145,14 +3217,6 @@
       "onboard_time": 1709724450,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 62030,
-      "num": 565286,
-      "word": "10个关键字看2024政府工作任务",
-      "onboard_time": 1709816974,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 62012,

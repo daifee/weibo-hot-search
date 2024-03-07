@@ -1,0 +1,410 @@
+{
+  "runTime": 1709822045654,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1260978,
+        "num": 1260978,
+        "word": "金价持续暴涨建行紧急公告",
+        "onboard_time": 1709820333,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 671612,
+        "num": 671612,
+        "word": "妇女节放假是法定的半天节假日",
+        "onboard_time": 1709800589,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62958,
+        "num": 555152,
+        "word": "10个关键字看2024政府工作任务",
+        "onboard_time": 1709816974,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 521307,
+        "num": 521307,
+        "word": "其实妈妈把你养得很好",
+        "onboard_time": 1709810671,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64082,
+        "num": 401997,
+        "word": "建议加强对女性心血管疾病的筛查监测",
+        "onboard_time": 1709810791,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354859,
+        "num": 354859,
+        "word": "正确称体重的方法",
+        "onboard_time": 1709809951,
+        "rank": 5,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 327014,
+        "num": 327014,
+        "word": "胡先煦晒花少团打call视频",
+        "onboard_time": 1709817810,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326371,
+        "num": 326371,
+        "word": "翟欣欣涉嫌敲诈勒索案已移送法院",
+        "onboard_time": 1709814753,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321095,
+        "num": 321095,
+        "word": "唐探2这一集演的是萝莉岛吧",
+        "onboard_time": 1709814571,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43143,
+        "num": 320291,
+        "word": "政协委员谈国潮新中式成顶流",
+        "onboard_time": 1709810791,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1156575,
+        "num": 317045,
+        "word": "男子上班浏览色情网站被开除辩称电脑中毒",
+        "onboard_time": 1709801190,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683288,
+        "num": 313622,
+        "word": "看见不认识的字不要随便拍照",
+        "onboard_time": 1709809531,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 625086,
+        "num": 312102,
+        "word": "小S因公公去世停工一周",
+        "onboard_time": 1709817931,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503282,
+        "num": 308430,
+        "word": "向佐评论李蠕蠕",
+        "onboard_time": 1709808871,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496966,
+        "num": 306613,
+        "word": "陈乔恩捐赠20吨狗粮",
+        "onboard_time": 1709816671,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481398,
+        "num": 302795,
+        "word": "山河四省高中生的十六岁",
+        "onboard_time": 1709816129,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 346144,
+        "num": 300304,
+        "word": "香奈儿内场座位图",
+        "onboard_time": 1709819134,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 330870,
+        "num": 297952,
+        "word": "周也晒美甲",
+        "onboard_time": 1709816671,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 297233,
+        "num": 297233,
+        "word": "孩子一年级被劝退该怎么办",
+        "onboard_time": 1709807730,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 266573,
+        "num": 266573,
+        "word": "网剧别对我动心",
+        "onboard_time": 1709806893,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 779290,
+        "num": 265764,
+        "word": "研0喊了导师一晚上老鼠",
+        "onboard_time": 1709819252,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277609,
+        "num": 265719,
+        "word": "春天防晒是智商税吗",
+        "onboard_time": 1709821296,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 264495,
+        "num": 264495,
+        "word": "韩国一个苹果约15元",
+        "onboard_time": 1709820273,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 219983,
+        "num": 219983,
+        "word": "真的是要开始存钱了",
+        "onboard_time": 1709810553,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218407,
+        "num": 218407,
+        "word": "轻舟已过万重山",
+        "onboard_time": 1709819733,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202235,
+        "num": 202235,
+        "word": "孙千 容貌焦虑",
+        "onboard_time": 1709808993,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199608,
+        "num": 199608,
+        "word": "用壶铃一个月瘦了十斤",
+        "onboard_time": 1709808511,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 186407,
+        "num": 186407,
+        "word": "女程序员收到公司防脱发大礼包",
+        "onboard_time": 1709818832,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185646,
+        "num": 185646,
+        "word": "金牛座很有自己的主见",
+        "onboard_time": 1709821593,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171902,
+        "num": 171902,
+        "word": "双色球",
+        "onboard_time": 1709821232,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221373,
+        "num": 171805,
+        "word": "这个户型简直是我的理想型",
+        "onboard_time": 1709822013,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171474,
+        "num": 171474,
+        "word": "时代少年团接力女团舞",
+        "onboard_time": 1709819252,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163787,
+        "num": 163787,
+        "word": "王一博回应回复字数",
+        "onboard_time": 1709811571,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161123,
+        "num": 161123,
+        "word": "黑执事 审美降级",
+        "onboard_time": 1709821593,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 159503,
+        "num": 159503,
+        "word": "李诞爆改",
+        "onboard_time": 1709787272,
+        "rank": 34,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 157992,
+        "num": 157992,
+        "word": "建议房地产推行无理由退房机制",
+        "onboard_time": 1709820453,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155389,
+        "num": 155389,
+        "word": "这对妈宝女来说真的是绝鲨",
+        "onboard_time": 1709819915,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144830,
+        "num": 144830,
+        "word": "点读机女孩术后7天插管笑着报平安",
+        "onboard_time": 1709819434,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 140748,
+        "num": 140748,
+        "word": "回南天的布偶猫",
+        "onboard_time": 1709809711,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133817,
+        "num": 133817,
+        "word": "为啥体制内女性找对象越来越难",
+        "onboard_time": 1709821650,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128619,
+        "num": 128619,
+        "word": "下腹赘肉高效铲平训练",
+        "onboard_time": 1709819073,
+        "rank": 40,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 123998,
+        "num": 123998,
+        "word": "为什么垃圾车上会挂着毛绒娃娃",
+        "onboard_time": 1709807192,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121229,
+        "num": 121229,
+        "word": "RitaCOS索拉卡",
+        "onboard_time": 1709817092,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119902,
+        "num": 119902,
+        "word": "王鹤棣桃花坞前后变化",
+        "onboard_time": 1709815170,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114942,
+        "num": 114942,
+        "word": "我的小姨永远拿得出手",
+        "onboard_time": 1709813672,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105740,
+        "num": 105740,
+        "word": "海带为什么要打结",
+        "onboard_time": 1709798369,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 103454,
+        "num": 103454,
+        "word": "王一博造型亮点贝雷帽",
+        "onboard_time": 1709822013,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102688,
+        "num": 102688,
+        "word": "是周四也是周五",
+        "onboard_time": 1709809170,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102681,
+        "num": 102681,
+        "word": "霍启刚再回应梅西事件",
+        "onboard_time": 1709803652,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101519,
+        "num": 101519,
+        "word": "泰国偶遇泫雅拍MV",
+        "onboard_time": 1709821833,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#今年两会总书记再谈新质生产力#"
+    }
+  }
+}
