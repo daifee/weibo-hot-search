@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709785161732,
+  "endTime": 1709786043071,
   "band_list": [
     {
       "raw_hot": 3203010,
@@ -185,6 +185,14 @@
       "onboard_time": 1709625152,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1704712,
+      "num": 1704712,
+      "word": "农夫山泉客服回应东方树叶包装",
+      "onboard_time": 1709784753,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1683412,
@@ -793,6 +801,14 @@
       "onboard_time": 1709425587,
       "rank": 1,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 999738,
+      "num": 999738,
+      "word": "免签",
+      "onboard_time": 1709784333,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 995752,
@@ -1907,6 +1923,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 621399,
+      "num": 621399,
+      "word": "贾玲中国影史第4个票房百亿女演员",
+      "onboard_time": 1709782892,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 618821,
       "num": 618821,
       "word": "谢谢你温暖我定档",
@@ -2091,14 +2115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 578264,
-      "num": 578264,
-      "word": "贾玲中国影史第4个票房百亿女演员",
-      "onboard_time": 1709782892,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
       "raw_hot": 577994,
       "num": 343005,
       "word": "香奈儿大秀",
@@ -2121,6 +2137,14 @@
       "onboard_time": 1709456790,
       "rank": 9,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 573897,
+      "num": 573897,
+      "word": "麦田农夫 五月天音源",
+      "onboard_time": 1709784210,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 572405,
@@ -2299,7 +2323,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 545625,
+      "raw_hot": 548483,
       "num": 313544,
       "word": "王一博穿粉",
       "onboard_time": 1709782173,
@@ -2521,14 +2545,6 @@
       "onboard_time": 1709428225,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 512382,
-      "num": 512382,
-      "word": "农夫山泉客服回应东方树叶包装",
-      "onboard_time": 1709784753,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 510352,
@@ -2841,6 +2857,14 @@
       "onboard_time": 1709780251,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474801,
+      "num": 474801,
+      "word": "不得擅自对孕期女职工调岗降薪",
+      "onboard_time": 1709783732,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 470341,
@@ -4075,12 +4099,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 342939,
-      "num": 342939,
-      "word": "麦田农夫 五月天音源",
-      "onboard_time": 1709784210,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 343276,
+      "num": 343276,
+      "word": "赵丽颖林更新与凤行北美定档",
+      "onboard_time": 1709785232,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 342935,
@@ -4409,14 +4433,6 @@
       "onboard_time": 1709472692,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 316353,
-      "num": 316353,
-      "word": "不得擅自对孕期女职工调岗降薪",
-      "onboard_time": 1709783732,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 315291,
@@ -4803,6 +4819,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 287350,
+      "num": 287350,
+      "word": "王毅对提问记者说我看过你跳科目三",
+      "onboard_time": 1709784033,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 286737,
       "num": 286737,
       "word": "朱正廷把高奢包卖成10块",
@@ -4889,14 +4913,6 @@
       "onboard_time": 1709468131,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 280843,
-      "num": 280843,
-      "word": "免签",
-      "onboard_time": 1709784333,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 280243,
@@ -5419,6 +5435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 252028,
+      "num": 252028,
+      "word": "孙千 愿每个女孩都做自己人生的太阳",
+      "onboard_time": 1709784812,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251766,
       "num": 251766,
       "word": "桃酷抱抱",
@@ -5537,14 +5561,6 @@
       "onboard_time": 1709620473,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 245090,
-      "num": 245090,
-      "word": "王毅对提问记者说我看过你跳科目三",
-      "onboard_time": 1709784033,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 245084,
@@ -5899,6 +5915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 229244,
+      "num": 229244,
+      "word": "睡觉时身体为什么会突然抖一下",
+      "onboard_time": 1709784388,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 229184,
       "num": 225948,
       "word": "黄龄去霉霉演唱会 双担狂喜",
@@ -5969,6 +5993,14 @@
       "onboard_time": 1709547569,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 226388,
+      "num": 226388,
+      "word": "光刻机巨头ASML被传将离开荷兰",
+      "onboard_time": 1709785172,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 226231,
@@ -6347,6 +6379,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 214579,
+      "num": 214579,
+      "word": "刘亦菲提裙边",
+      "onboard_time": 1709781928,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 214399,
       "num": 193330,
       "word": "宋茜回眸",
@@ -6425,14 +6465,6 @@
       "onboard_time": 1709696011,
       "rank": 49,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 212619,
-      "num": 212619,
-      "word": "刘亦菲提裙边",
-      "onboard_time": 1709781928,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 212610,
@@ -6745,6 +6777,14 @@
       "onboard_time": 1709392355,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203477,
+      "num": 203477,
+      "word": "魏大勋回国",
+      "onboard_time": 1709785474,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 203084,
@@ -7251,6 +7291,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 191269,
+      "num": 191269,
+      "word": "妇女节礼物",
+      "onboard_time": 1709784451,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190530,
       "num": 190530,
       "word": "i和e的区別在狗子身上具象化了",
@@ -7627,6 +7675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 181761,
+      "num": 181761,
+      "word": "你见过老虎的猫抓板吗",
+      "onboard_time": 1709785111,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181738,
       "num": 181738,
       "word": "刘恋主动加张婧仪微信",
@@ -7931,6 +7987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174974,
+      "num": 174974,
+      "word": "余秀华单人婚纱",
+      "onboard_time": 1709784033,
+      "rank": 34,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 174238,
       "num": 174238,
       "word": "保护投资者合法权益是证监会核心任务",
@@ -8051,14 +8115,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 171486,
-      "num": 171486,
-      "word": "余秀华单人婚纱",
-      "onboard_time": 1709784033,
-      "rank": 34,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 171444,
       "num": 171444,
       "word": "A股",
@@ -8137,14 +8193,6 @@
       "onboard_time": 1709561493,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 169623,
-      "num": 169623,
-      "word": "睡觉时身体为什么会突然抖一下",
-      "onboard_time": 1709784388,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 169567,
@@ -8233,14 +8281,6 @@
       "onboard_time": 1709775211,
       "rank": 39,
       "category": "国内时政,教育"
-    },
-    {
-      "raw_hot": 167668,
-      "num": 167668,
-      "word": "孙千 愿每个女孩都做自己人生的太阳",
-      "onboard_time": 1709784812,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 167548,
@@ -8441,14 +8481,6 @@
       "onboard_time": 1709558733,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 163998,
-      "num": 163998,
-      "word": "妇女节礼物",
-      "onboard_time": 1709784451,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 163997,
@@ -8713,6 +8745,14 @@
       "onboard_time": 1709703332,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 158536,
+      "num": 158536,
+      "word": "妈妈错过的婚纱照我来补",
+      "onboard_time": 1709786015,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 158519,
@@ -9531,6 +9571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144805,
+      "num": 144805,
+      "word": "三立集体一等功他说要把荣誉归零",
+      "onboard_time": 1709785715,
+      "rank": 44,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 144801,
       "num": 144801,
       "word": "00后女孩每天端盘子上千次成冠军",
@@ -9851,6 +9899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138750,
+      "num": 138750,
+      "word": "王毅谈AI爆发式发展",
+      "onboard_time": 1709784753,
+      "rank": 47,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 138733,
       "num": 138733,
       "word": "余生有涯开机",
@@ -10027,14 +10083,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 136398,
-      "num": 136398,
-      "word": "你见过老虎的猫抓板吗",
-      "onboard_time": 1709785111,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136388,
       "num": 455557,
       "word": "9图看政府工作报告里你关心的事",
@@ -10203,6 +10251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133516,
+      "num": 133516,
+      "word": "mbti小老头们一定要多去遛弯",
+      "onboard_time": 1709785832,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133297,
       "num": 123786,
       "word": "张真源给宋亚轩的生日祝福",
@@ -10313,14 +10369,6 @@
       "onboard_time": 1709479830,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 130882,
-      "num": 130882,
-      "word": "王毅谈AI爆发式发展",
-      "onboard_time": 1709784753,
-      "rank": 47,
-      "category": "国内时政,互联网"
     },
     {
       "raw_hot": 130811,
@@ -12068,7 +12116,7 @@
     },
     {
       "raw_hot": 70155,
-      "num": 1004009,
+      "num": 1171218,
       "word": "两会观察 向新而行",
       "onboard_time": 1709781928,
       "rank": 2,
