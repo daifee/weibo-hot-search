@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709811236158,
+  "endTime": 1709814650605,
   "band_list": [
     {
       "raw_hot": 3203010,
@@ -1121,6 +1121,14 @@
       "onboard_time": 1709474492,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 870037,
+      "num": 249287,
+      "word": "孩子一年级被劝退该怎么办",
+      "onboard_time": 1709807730,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 862225,
@@ -2275,6 +2283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 587519,
+      "num": 198610,
+      "word": "看见不认识的字不要随便拍照",
+      "onboard_time": 1709809531,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 587295,
       "num": 587295,
       "word": "经常用耳机的3个60原则",
@@ -2531,6 +2547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 545120,
+      "num": 348511,
+      "word": "回南天的布偶猫",
+      "onboard_time": 1709809711,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 543935,
       "num": 543935,
       "word": "别再让黄金店割智商税了",
@@ -2713,14 +2737,6 @@
       "onboard_time": 1709714493,
       "rank": 26,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 521881,
-      "num": 249287,
-      "word": "孩子一年级被劝退该怎么办",
-      "onboard_time": 1709807730,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 519696,
@@ -3531,6 +3547,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 429335,
+      "num": 196969,
+      "word": "韩国的恋爱脑中文教材",
+      "onboard_time": 1709812531,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 428244,
       "num": 339111,
       "word": "娟子 怀孕",
@@ -3921,6 +3945,14 @@
       "onboard_time": 1709603789,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 386878,
+      "num": 196634,
+      "word": "王一博回应回复字数",
+      "onboard_time": 1709811571,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 386782,
@@ -5067,6 +5099,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 296386,
+      "num": 296386,
+      "word": "其实妈妈把你养得很好",
+      "onboard_time": 1709810671,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 295828,
       "num": 295828,
       "word": "王一博机场",
@@ -5089,6 +5129,14 @@
       "onboard_time": 1709620653,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293742,
+      "num": 207166,
+      "word": "真的是要开始存钱了",
+      "onboard_time": 1709810553,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 293566,
@@ -5225,6 +5273,14 @@
       "onboard_time": 1709520450,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 287722,
+      "num": 287722,
+      "word": "EDG官宣Jiejie回家休养",
+      "onboard_time": 1709811931,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 287679,
@@ -5643,14 +5699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263535,
-      "num": 158860,
-      "word": "看见不认识的字不要随便拍照",
-      "onboard_time": 1709809531,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 263160,
       "num": 263160,
       "word": "呼吁遏制超长加班隐形加班",
@@ -5705,6 +5753,14 @@
       "onboard_time": 1709384195,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 261581,
+      "num": 193795,
+      "word": "正确称体重的方法",
+      "onboard_time": 1709809951,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 261165,
@@ -6137,14 +6193,6 @@
       "onboard_time": 1709532154,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 241416,
-      "num": 207166,
-      "word": "真的是要开始存钱了",
-      "onboard_time": 1709810553,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 240814,
@@ -7011,6 +7059,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 212419,
+      "num": 193636,
+      "word": "法国人拍摄的魏大勋",
+      "onboard_time": 1709811211,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212391,
       "num": 212391,
       "word": "雷军称小米汽车有信心打开市场",
@@ -7025,14 +7081,6 @@
       "onboard_time": 1709602887,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 211959,
-      "num": 211959,
-      "word": "回南天的布偶猫",
-      "onboard_time": 1709809711,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 211926,
@@ -7097,14 +7145,6 @@
       "onboard_time": 1709646272,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209946,
-      "num": 154906,
-      "word": "其实妈妈把你养得很好",
-      "onboard_time": 1709810671,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 209838,
@@ -7619,14 +7659,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 197742,
-      "num": 154893,
-      "word": "正确称体重的方法",
-      "onboard_time": 1709809951,
-      "rank": 38,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 197652,
       "num": 719212,
       "word": "全国两会五大看点",
@@ -7841,6 +7873,14 @@
       "onboard_time": 1709722351,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193229,
+      "num": 193229,
+      "word": "中医院院长建议年轻人学八段锦",
+      "onboard_time": 1709812531,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 193130,
@@ -8259,6 +8299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184193,
+      "num": 184193,
+      "word": "恩钟更新",
+      "onboard_time": 1709813550,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184095,
       "num": 184095,
       "word": "领证后激动到哭的男朋友",
@@ -8545,6 +8593,14 @@
       "onboard_time": 1709798311,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 179337,
+      "num": 163784,
+      "word": "NIP 团战",
+      "onboard_time": 1709814212,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 179280,
@@ -9131,6 +9187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166572,
+      "num": 166572,
+      "word": "为什么甘肃麻辣烫只能在甘肃",
+      "onboard_time": 1709807790,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 166470,
       "num": 166470,
       "word": "申京打爆文班亚马",
@@ -9307,6 +9371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 163982,
+      "num": 163982,
+      "word": "RNG 上调",
+      "onboard_time": 1709812352,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163851,
       "num": 163851,
       "word": "彭昱畅被何炅吓跪了",
@@ -9441,6 +9513,14 @@
       "onboard_time": 1709562995,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161608,
+      "num": 161608,
+      "word": "唐探2这一集演的是萝莉岛吧",
+      "onboard_time": 1709814571,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 161403,
@@ -9819,6 +9899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156081,
+      "num": 156081,
+      "word": "姿态COS艾希",
+      "onboard_time": 1709811688,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155906,
       "num": 155906,
       "word": "B太比较真假护肤品",
@@ -9865,14 +9953,6 @@
       "onboard_time": 1709552611,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 154890,
-      "num": 154890,
-      "word": "为什么甘肃麻辣烫只能在甘肃",
-      "onboard_time": 1709807790,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 154820,
@@ -10153,6 +10233,14 @@
       "onboard_time": 1709546550,
       "rank": 41,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 149822,
+      "num": 308427,
+      "word": "建议加强对女性心血管疾病的筛查监测",
+      "onboard_time": 1709810791,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149815,
@@ -10953,6 +11041,14 @@
       "onboard_time": 1709736694,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138518,
+      "num": 138518,
+      "word": "如何看待颜值经济爆发式增长",
+      "onboard_time": 1709813493,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 138374,
@@ -11769,6 +11865,14 @@
       "onboard_time": 1709722650,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126120,
+      "num": 199150,
+      "word": "我的小姨永远拿得出手",
+      "onboard_time": 1709813672,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126064,
@@ -12731,12 +12835,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 107719,
+      "num": 107719,
+      "word": "封神不是中国的漫威",
+      "onboard_time": 1709813193,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107394,
       "num": 904095,
       "word": "代表谈越剧新龙门客栈破圈",
       "onboard_time": 1709791233,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 107388,
+      "num": 107388,
+      "word": "CBA",
+      "onboard_time": 1709391273,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 107308,
@@ -12833,6 +12953,14 @@
       "onboard_time": 1709534370,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106114,
+      "num": 106114,
+      "word": "超三成女货车司机是家庭收入顶梁柱",
+      "onboard_time": 1709814513,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106061,
@@ -12939,6 +13067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103079,
+      "num": 103079,
+      "word": "感觉吃饭是一件很私密的事",
+      "onboard_time": 1709812050,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102639,
       "num": 102639,
       "word": "祛魅之后爱才真正开始",
@@ -13017,6 +13153,14 @@
       "onboard_time": 1709407277,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99207,
+      "num": 99207,
+      "word": "代表建议给居民身份证设密码",
+      "onboard_time": 1709814091,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 98779,
@@ -13123,6 +13267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 94007,
+      "num": 94007,
+      "word": "陈少熙 熙湖贼王的一天",
+      "onboard_time": 1709814630,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 92436,
       "num": 136237,
       "word": "积木花的花语是什么",
@@ -13147,20 +13299,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90997,
-      "num": 102887,
-      "word": "法国人拍摄的魏大勋",
-      "onboard_time": 1709811211,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 90319,
       "num": 90319,
       "word": "LGD公示处罚Haichao",
       "onboard_time": 1709680343,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89161,
+      "num": 198071,
+      "word": "天猫今晚发88VIP惊喜消费券",
+      "onboard_time": 1709812831,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 89159,
@@ -13249,6 +13401,14 @@
       "onboard_time": 1709647534,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 81645,
+      "num": 247233,
+      "word": "政协委员谈国潮新中式成顶流",
+      "onboard_time": 1709810791,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 80313,
@@ -13587,14 +13747,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 55181,
-      "num": 105674,
-      "word": "CBA",
-      "onboard_time": 1709391273,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 55066,
       "num": 975099,
       "word": "话说两会知识点",
@@ -13747,14 +13899,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 43694,
-      "num": 303524,
-      "word": "建议加强对女性心血管疾病的筛查监测",
-      "onboard_time": 1709810791,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41485,
       "num": 45783,
       "word": "苗苗浪姐上班路透",
@@ -13849,6 +13993,14 @@
       "onboard_time": 1709745262,
       "rank": 45,
       "category": "艺人,旅游"
+    },
+    {
+      "raw_hot": 36566,
+      "num": 123055,
+      "word": "快手商城三八节出色短片",
+      "onboard_time": 1709813672,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35628,
@@ -14065,14 +14217,6 @@
       "onboard_time": 1709487800,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 20832,
-      "num": 247233,
-      "word": "政协委员谈国潮新中式成顶流",
-      "onboard_time": 1709810791,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 20727,
