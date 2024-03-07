@@ -1,0 +1,410 @@
+{
+  "runTime": 1709811236158,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 629425,
+        "num": 629425,
+        "word": "妇女节放假是法定的半天节假日",
+        "onboard_time": 1709800589,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525004,
+        "num": 525004,
+        "word": "网剧别对我动心",
+        "onboard_time": 1709806893,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8232,
+        "num": 439981,
+        "word": "新质生产力与你我息息相关",
+        "onboard_time": 1709772634,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 355687,
+        "num": 355687,
+        "word": "青海玉树发生5.5级地震",
+        "onboard_time": 1709807492,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43694,
+        "num": 303524,
+        "word": "建议加强对女性心血管疾病的筛查监测",
+        "onboard_time": 1709810791,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269565,
+        "num": 269565,
+        "word": "海带为什么要打结",
+        "onboard_time": 1709798369,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 258780,
+        "num": 258780,
+        "word": "香港买金每克便宜70元",
+        "onboard_time": 1709804609,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119160,
+        "num": 257030,
+        "word": "长沙公司妇女节给女员工拍写真",
+        "onboard_time": 1709803051,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158912,
+        "num": 251861,
+        "word": "重庆一公司三八节连续3年放6天",
+        "onboard_time": 1709802571,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20832,
+        "num": 247233,
+        "word": "政协委员谈国潮新中式成顶流",
+        "onboard_time": 1709810791,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1586371,
+        "num": 244697,
+        "word": "生三胎奖励10万已有人拿到",
+        "onboard_time": 1709806051,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1562568,
+        "num": 242584,
+        "word": "男子上班浏览色情网站被开除辩称电脑中毒",
+        "onboard_time": 1709801190,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604746,
+        "num": 238817,
+        "word": "钟美美小妹语文3.5分",
+        "onboard_time": 1709806955,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 596497,
+        "num": 231479,
+        "word": "孙千 容貌焦虑",
+        "onboard_time": 1709808993,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 521881,
+        "num": 229105,
+        "word": "孩子一年级被劝退该怎么办",
+        "onboard_time": 1709807730,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 415246,
+        "num": 224084,
+        "word": "李诞爆改",
+        "onboard_time": 1709787272,
+        "rank": 15,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 393609,
+        "num": 221588,
+        "word": "是周四也是周五",
+        "onboard_time": 1709809170,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387466,
+        "num": 217702,
+        "word": "霍启刚再回应梅西事件",
+        "onboard_time": 1709803652,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264195,
+        "num": 211988,
+        "word": "为什么垃圾车上会挂着毛绒娃娃",
+        "onboard_time": 1709807192,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211959,
+        "num": 211959,
+        "word": "回南天的布偶猫",
+        "onboard_time": 1709809711,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 393426,
+        "num": 209992,
+        "word": "向佐评论李蠕蠕",
+        "onboard_time": 1709808871,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241416,
+        "num": 207166,
+        "word": "真的是要开始存钱了",
+        "onboard_time": 1709810553,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192921,
+        "num": 192921,
+        "word": "浪姐5宿舍",
+        "onboard_time": 1709802810,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182018,
+        "num": 182018,
+        "word": "姿态Rita同框解说",
+        "onboard_time": 1709797411,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177326,
+        "num": 177326,
+        "word": "B站2023年营业额225亿",
+        "onboard_time": 1709810373,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 175093,
+        "num": 175093,
+        "word": "小日子 婆婆大闹公司",
+        "onboard_time": 1709800289,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169602,
+        "num": 169602,
+        "word": "用壶铃一个月瘦了十斤",
+        "onboard_time": 1709808511,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 159786,
+        "num": 159786,
+        "word": "恶意投诉73万起代表建议共享黑名单",
+        "onboard_time": 1709809113,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156404,
+        "num": 156404,
+        "word": "王鹤棣被王传君按雪里",
+        "onboard_time": 1709802691,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154917,
+        "num": 154917,
+        "word": "妇女节放假应该是上午还是下午",
+        "onboard_time": 1709807252,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263535,
+        "num": 154910,
+        "word": "看见不认识的字不要随便拍照",
+        "onboard_time": 1709809531,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209946,
+        "num": 154906,
+        "word": "其实妈妈把你养得很好",
+        "onboard_time": 1709810671,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34796,
+        "num": 154901,
+        "word": "央企新能源要给市场上强度了",
+        "onboard_time": 1709807252,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 197742,
+        "num": 154893,
+        "word": "正确称体重的方法",
+        "onboard_time": 1709809951,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 154890,
+        "num": 154890,
+        "word": "为什么甘肃麻辣烫只能在甘肃",
+        "onboard_time": 1709807790,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140770,
+        "num": 140770,
+        "word": "米哈游2023年收入超过网易",
+        "onboard_time": 1709805810,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132259,
+        "num": 132259,
+        "word": "明天放半天假",
+        "onboard_time": 1709786793,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130719,
+        "num": 130719,
+        "word": "炎亚纶新剧导演制作人被判刑",
+        "onboard_time": 1709808032,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122996,
+        "num": 122996,
+        "word": "向佐向吴镇宇道歉称下次不敢了",
+        "onboard_time": 1709790510,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122592,
+        "num": 122592,
+        "word": "别对我动心 风衣加成",
+        "onboard_time": 1709810671,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121275,
+        "num": 121275,
+        "word": "王铮亮陆虎新合照",
+        "onboard_time": 1709811092,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120895,
+        "num": 120895,
+        "word": "娜诺瘦脱相",
+        "onboard_time": 1709791294,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117674,
+        "num": 117674,
+        "word": "张婧仪19岁至23岁颜值变化",
+        "onboard_time": 1709801551,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111312,
+        "num": 111312,
+        "word": "日本麦当劳薯条味香水",
+        "onboard_time": 1709809113,
+        "rank": 43,
+        "category": "美妆,美食"
+      },
+      {
+        "raw_hot": 109647,
+        "num": 109647,
+        "word": "张凌赫开始推理吧从崩溃到享受",
+        "onboard_time": 1709809353,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108318,
+        "num": 108318,
+        "word": "女生就应该满脑子都是前途",
+        "onboard_time": 1709806650,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107410,
+        "num": 107410,
+        "word": "71岁覃阿姨走秀时装周",
+        "onboard_time": 1709809951,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106500,
+        "num": 106500,
+        "word": "当奶奶告诉她的iPad运行很慢时",
+        "onboard_time": 1709793512,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102918,
+        "num": 102918,
+        "word": "广西的水果价格冒犯到我了",
+        "onboard_time": 1709804669,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 90997,
+        "num": 102887,
+        "word": "法国人拍摄的魏大勋",
+        "onboard_time": 1709811211,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
