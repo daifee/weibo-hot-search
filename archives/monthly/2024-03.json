@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709796838633,
+  "endTime": 1709799460516,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -585,6 +585,14 @@
       "onboard_time": 1709701172,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1446690,
+      "num": 603686,
+      "word": "长子走稳 次子走险",
+      "onboard_time": 1709797651,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 1414321,
@@ -2004,7 +2012,7 @@
     },
     {
       "raw_hot": 758319,
-      "num": 368511,
+      "num": 377445,
       "word": "当奶奶告诉她的iPad运行很慢时",
       "onboard_time": 1709793512,
       "rank": 13,
@@ -3547,6 +3555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 543854,
+      "num": 376306,
+      "word": "庾澄庆回应哈利出道传闻",
+      "onboard_time": 1709797953,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543238,
       "num": 543238,
       "word": "王毅说迟早会看到全家福",
@@ -3585,6 +3601,14 @@
       "onboard_time": 1709597972,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539495,
+      "num": 258315,
+      "word": "男朋友送很廉价的生日礼物",
+      "onboard_time": 1709798250,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 538721,
@@ -4249,6 +4273,14 @@
       "onboard_time": 1709771197,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 478863,
+      "num": 478863,
+      "word": "张学友演唱会取消",
+      "onboard_time": 1709795849,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 477435,
@@ -5003,14 +5035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 416290,
-      "num": 416290,
-      "word": "张学友演唱会取消",
-      "onboard_time": 1709795849,
-      "rank": 7,
-      "category": "演出"
-    },
-    {
       "raw_hot": 415863,
       "num": 415863,
       "word": "专家称HPV疫苗能约几价就打几价",
@@ -5433,6 +5457,14 @@
       "onboard_time": 1709341472,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 384500,
+      "num": 384500,
+      "word": "丹麦公交车竟然是中国产的",
+      "onboard_time": 1709794654,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 383625,
@@ -6459,6 +6491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 326558,
+      "num": 255914,
+      "word": "微信占用了我200多G的内存",
+      "onboard_time": 1709797890,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 326027,
       "num": 326027,
       "word": "王锵回怼导师",
@@ -6769,6 +6809,14 @@
       "onboard_time": 1709521948,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308632,
+      "num": 308632,
+      "word": "渤海大学通报一男生进女厕偷拍",
+      "onboard_time": 1709798071,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308499,
@@ -7395,14 +7443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 280108,
-      "num": 280108,
-      "word": "丹麦公交车竟然是中国产的",
-      "onboard_time": 1709794654,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 279949,
       "num": 279949,
       "word": "唐探2荣梓杉一变脸画风对了",
@@ -7763,6 +7803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265128,
+      "num": 265128,
+      "word": "鹿晗欢迎队长随时来电",
+      "onboard_time": 1709798492,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 264907,
       "num": 264907,
       "word": "钟楚曦侯雯元聚餐",
@@ -7955,6 +8003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258457,
+      "num": 258457,
+      "word": "姿态Rita同框解说",
+      "onboard_time": 1709797411,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 257414,
       "num": 254276,
       "word": "适合一个人住的48平独居小屋",
@@ -8073,6 +8129,14 @@
       "onboard_time": 1709637810,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 252822,
+      "num": 252822,
+      "word": "越长大越没有二手羞耻了",
+      "onboard_time": 1709795735,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 252779,
@@ -8377,6 +8441,14 @@
       "onboard_time": 1709776290,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 242146,
+      "num": 370433,
+      "word": "陈漫镜头下的奶茶",
+      "onboard_time": 1709797350,
+      "rank": 15,
+      "category": "时尚"
     },
     {
       "raw_hot": 241452,
@@ -8873,14 +8945,6 @@
       "onboard_time": 1709476292,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 225251,
-      "num": 195746,
-      "word": "越长大越没有二手羞耻了",
-      "onboard_time": 1709795735,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 224881,
@@ -9713,6 +9777,14 @@
       "onboard_time": 1709793512,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207875,
+      "num": 187043,
+      "word": "帕梅拉好像也没那么难了",
+      "onboard_time": 1709797471,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 207855,
@@ -11115,6 +11187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186447,
+      "num": 186447,
+      "word": "海带为什么要打结",
+      "onboard_time": 1709798369,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 186260,
       "num": 186260,
       "word": "原帅三分的神",
@@ -11665,6 +11745,14 @@
       "onboard_time": 1709613513,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179415,
+      "num": 187202,
+      "word": "委员称未成年人网游应避免一刀切",
+      "onboard_time": 1709798311,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 179398,
@@ -12707,12 +12795,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 163670,
+      "num": 163670,
+      "word": "在复旦食堂吃一顿饭需要多少钱",
+      "onboard_time": 1709798612,
+      "rank": 35,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 163425,
       "num": 163425,
       "word": "前田敦子 浪姐",
       "onboard_time": 1709338830,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163366,
+      "num": 163366,
+      "word": "永远不要低估闺蜜之间的感情",
+      "onboard_time": 1709798369,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 163322,
@@ -13433,6 +13537,14 @@
       "onboard_time": 1709345909,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155005,
+      "num": 155005,
+      "word": "大理寺少卿游 10不离9",
+      "onboard_time": 1709798853,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 154820,
@@ -16963,6 +17075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 111499,
+      "num": 111499,
+      "word": "委员称小学课间休息应改为30分钟",
+      "onboard_time": 1709799270,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 111367,
       "num": 111367,
       "word": "永安梦",
@@ -16977,6 +17097,14 @@
       "onboard_time": 1709721152,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111292,
+      "num": 111292,
+      "word": "衣服标签上的彩蛋",
+      "onboard_time": 1709799211,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 111131,
@@ -17259,6 +17387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105061,
+      "num": 105061,
+      "word": "超过十年的友谊真的值得炫耀",
+      "onboard_time": 1709799029,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104965,
       "num": 104965,
       "word": "女子给晾的每1块腊肉都穿上纸尿裤",
@@ -17433,6 +17569,14 @@
       "onboard_time": 1709553392,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 101673,
+      "num": 101673,
+      "word": "蓝盈莹晒6年前剧照",
+      "onboard_time": 1709798132,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 101617,
@@ -17681,6 +17825,14 @@
       "onboard_time": 1709652213,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92415,
+      "num": 637397,
+      "word": "2024两会好声音",
+      "onboard_time": 1709798432,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 92212,

@@ -1,6 +1,6 @@
 {
   "startTime": 1709742142797,
-  "endTime": 1709796838633,
+  "endTime": 1709799460516,
   "band_list": [
     {
       "raw_hot": 2630466,
@@ -73,6 +73,14 @@
       "onboard_time": 1709772272,
       "rank": 20,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 1446690,
+      "num": 603686,
+      "word": "长子走稳 次子走险",
+      "onboard_time": 1709797651,
+      "rank": 3,
+      "category": "幽默"
     },
     {
       "raw_hot": 1326862,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 758319,
-      "num": 368511,
+      "num": 377445,
       "word": "当奶奶告诉她的iPad运行很慢时",
       "onboard_time": 1709793512,
       "rank": 13,
@@ -363,12 +371,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 543854,
+      "num": 376306,
+      "word": "庾澄庆回应哈利出道传闻",
+      "onboard_time": 1709797953,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543238,
       "num": 543238,
       "word": "王毅说迟早会看到全家福",
       "onboard_time": 1709781812,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 539495,
+      "num": 258315,
+      "word": "男朋友送很廉价的生日礼物",
+      "onboard_time": 1709798250,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 536092,
@@ -483,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 478863,
+      "num": 478863,
+      "word": "张学友演唱会取消",
+      "onboard_time": 1709795849,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 475472,
       "num": 309552,
       "word": "工资低但是想留下来的城市",
@@ -505,14 +537,6 @@
       "onboard_time": 1709767404,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 416290,
-      "num": 416290,
-      "word": "张学友演唱会取消",
-      "onboard_time": 1709795849,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 413526,
@@ -561,6 +585,14 @@
       "onboard_time": 1709785232,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 384500,
+      "num": 384500,
+      "word": "丹麦公交车竟然是中国产的",
+      "onboard_time": 1709794654,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 379095,
@@ -659,6 +691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 326558,
+      "num": 255914,
+      "word": "微信占用了我200多G的内存",
+      "onboard_time": 1709797890,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 317177,
       "num": 317177,
       "word": "钟薛高售价从60元降到2.5元",
@@ -681,6 +721,14 @@
       "onboard_time": 1709794654,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 308632,
+      "num": 308632,
+      "word": "渤海大学通报一男生进女厕偷拍",
+      "onboard_time": 1709798071,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 306078,
@@ -747,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 280108,
-      "num": 280108,
-      "word": "丹麦公交车竟然是中国产的",
-      "onboard_time": 1709794654,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 270065,
       "num": 270065,
       "word": "小杨哥们出海外国人的钱好赚吗",
@@ -771,12 +811,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 265128,
+      "num": 265128,
+      "word": "鹿晗欢迎队长随时来电",
+      "onboard_time": 1709798492,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 263160,
       "num": 263160,
       "word": "呼吁遏制超长加班隐形加班",
       "onboard_time": 1709772754,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258457,
+      "num": 258457,
+      "word": "姿态Rita同框解说",
+      "onboard_time": 1709797411,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 256654,
@@ -793,6 +849,14 @@
       "onboard_time": 1709787091,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252822,
+      "num": 252822,
+      "word": "越长大越没有二手羞耻了",
+      "onboard_time": 1709795735,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 252434,
@@ -843,6 +907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 242146,
+      "num": 370433,
+      "word": "陈漫镜头下的奶茶",
+      "onboard_time": 1709797350,
+      "rank": 15,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 239667,
       "num": 210588,
       "word": "外婆偷偷塞给我一个没有红包的红包",
@@ -889,14 +961,6 @@
       "onboard_time": 1709785172,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 225251,
-      "num": 195746,
-      "word": "越长大越没有二手羞耻了",
-      "onboard_time": 1709795735,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 224881,
@@ -1003,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207875,
+      "num": 187043,
+      "word": "帕梅拉好像也没那么难了",
+      "onboard_time": 1709797471,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 206474,
       "num": 206474,
       "word": "胡一天张婧仪妆造",
@@ -1107,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186447,
+      "num": 186447,
+      "word": "海带为什么要打结",
+      "onboard_time": 1709798369,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 184701,
       "num": 184701,
       "word": "重庆龙湖天街三八妇女节文案",
@@ -1153,6 +1233,14 @@
       "onboard_time": 1709777368,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179415,
+      "num": 187202,
+      "word": "委员称未成年人网游应避免一刀切",
+      "onboard_time": 1709798311,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 179275,
@@ -1291,6 +1379,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 163670,
+      "num": 163670,
+      "word": "在复旦食堂吃一顿饭需要多少钱",
+      "onboard_time": 1709798612,
+      "rank": 35,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 163366,
+      "num": 163366,
+      "word": "永远不要低估闺蜜之间的感情",
+      "onboard_time": 1709798369,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162117,
       "num": 162117,
       "word": "三八节如何实现有效放假",
@@ -1361,6 +1465,14 @@
       "onboard_time": 1709769931,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155005,
+      "num": 155005,
+      "word": "大理寺少卿游 10不离9",
+      "onboard_time": 1709798853,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 153255,
@@ -1739,6 +1851,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 111499,
+      "num": 111499,
+      "word": "委员称小学课间休息应改为30分钟",
+      "onboard_time": 1709799270,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 111292,
+      "num": 111292,
+      "word": "衣服标签上的彩蛋",
+      "onboard_time": 1709799211,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111086,
       "num": 111086,
       "word": "当领导让00后准备下午茶",
@@ -1795,12 +1923,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 105061,
+      "num": 105061,
+      "word": "超过十年的友谊真的值得炫耀",
+      "onboard_time": 1709799029,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103766,
       "num": 103766,
       "word": "被炸鸡店喂的胖胖的流浪猫",
       "onboard_time": 1709736813,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101673,
+      "num": 101673,
+      "word": "蓝盈莹晒6年前剧照",
+      "onboard_time": 1709798132,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 99687,
@@ -1817,6 +1961,14 @@
       "onboard_time": 1709707169,
       "rank": 33,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 92415,
+      "num": 637397,
+      "word": "2024两会好声音",
+      "onboard_time": 1709798432,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 91126,
@@ -2172,6 +2324,9 @@
     },
     {
       "word": "#今年两会总书记再谈新质生产力#"
+    },
+    {
+      "word": "#习近平的两会时间#"
     }
   ]
 }
