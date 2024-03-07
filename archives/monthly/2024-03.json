@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709793245304,
+  "endTime": 1709795647130,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -1329,6 +1329,14 @@
       "onboard_time": 1709787334,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 958109,
+      "num": 958109,
+      "word": "乐视面试简历无需填写年龄和婚育信息",
+      "onboard_time": 1709792847,
+      "rank": 19,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 954570,
@@ -2971,6 +2979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 610842,
+      "num": 330597,
+      "word": "当奶奶告诉她的iPad运行很慢时",
+      "onboard_time": 1709793512,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 609241,
       "num": 321902,
       "word": "陈泽迟到",
@@ -3353,6 +3369,14 @@
       "onboard_time": 1709256511,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 563850,
+      "num": 563850,
+      "word": "卢昱晓工作室回应共创视频争议",
+      "onboard_time": 1709793809,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 562933,
@@ -5363,6 +5387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 386021,
+      "num": 386021,
+      "word": "珀莱雅",
+      "onboard_time": 1709792131,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 385666,
       "num": 304262,
       "word": "王一博世趋排名",
@@ -5481,6 +5513,14 @@
       "onboard_time": 1709732853,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 378716,
+      "num": 263877,
+      "word": "诺一霓娜近照",
+      "onboard_time": 1709790391,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 378494,
@@ -5969,14 +6009,6 @@
       "onboard_time": 1709214998,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 350518,
-      "num": 200547,
-      "word": "诺一霓娜近照",
-      "onboard_time": 1709790391,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 350216,
@@ -6667,6 +6699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 311942,
+      "num": 311942,
+      "word": "孙颖莎入围巴黎奥运会最值得关注女运动员",
+      "onboard_time": 1709794530,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311469,
       "num": 311469,
       "word": "原神前瞻",
@@ -6689,6 +6729,14 @@
       "onboard_time": 1709255670,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 309236,
+      "num": 261693,
+      "word": "能忍住不扣美甲的都是狠人",
+      "onboard_time": 1709794654,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 308857,
@@ -6889,6 +6937,14 @@
       "onboard_time": 1709434228,
       "rank": 22,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 298321,
+      "num": 261460,
+      "word": "同事买的衣服一个月了不拆吊签",
+      "onboard_time": 1709794293,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 298248,
@@ -9611,12 +9667,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 207887,
+      "num": 207887,
+      "word": "肖战米兰巴黎看秀世趋第一",
+      "onboard_time": 1709793512,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207855,
       "num": 207855,
       "word": "杨幂谈私服风格",
       "onboard_time": 1709654130,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207781,
+      "num": 207781,
+      "word": "丹麦公交车竟然是中国产的",
+      "onboard_time": 1709794654,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 207761,
@@ -9923,14 +9995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 202851,
-      "num": 202851,
-      "word": "乐视面试简历无需填写年龄和婚育信息",
-      "onboard_time": 1709792847,
-      "rank": 19,
-      "category": "社会新闻,互联网"
-    },
-    {
       "raw_hot": 202831,
       "num": 202831,
       "word": "安妮海瑟薇新片",
@@ -10057,14 +10121,6 @@
       "onboard_time": 1709391273,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201113,
-      "num": 195207,
-      "word": "珀莱雅",
-      "onboard_time": 1709792131,
-      "rank": 39,
-      "category": "时尚"
     },
     {
       "raw_hot": 201090,
@@ -10849,6 +10905,14 @@
       "onboard_time": 1709248162,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189563,
+      "num": 189563,
+      "word": "詹姆斯受伤",
+      "onboard_time": 1709793392,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 189507,
@@ -11883,6 +11947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173736,
+      "num": 173736,
+      "word": "舅舅把路灯装在了家里",
+      "onboard_time": 1709793154,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173452,
       "num": 173452,
       "word": "山东事业编",
@@ -12041,6 +12113,14 @@
       "onboard_time": 1709646213,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170826,
+      "num": 170826,
+      "word": "DYG主教练望月草",
+      "onboard_time": 1709793809,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 170544,
@@ -13091,6 +13171,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 157775,
+      "num": 157775,
+      "word": "林书豪老婆怀孕",
+      "onboard_time": 1709795493,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157684,
       "num": 157684,
       "word": "身高体重填反了",
@@ -13769,6 +13857,14 @@
       "onboard_time": 1709651738,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148380,
+      "num": 148380,
+      "word": "种地吧 收记煎饼摊又营业啦",
+      "onboard_time": 1709795251,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 148175,
@@ -15339,6 +15435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 129521,
+      "num": 129521,
+      "word": "外科医生的手有多稳",
+      "onboard_time": 1709795312,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 129470,
       "num": 129470,
       "word": "全国政协十四届二次会议会期6天",
@@ -15545,6 +15649,14 @@
       "onboard_time": 1709432070,
       "rank": 46,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 127939,
+      "num": 127939,
+      "word": "爆改cos区别",
+      "onboard_time": 1709793451,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 127900,
@@ -16107,6 +16219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120432,
+      "num": 120432,
+      "word": "猫咪和兔兔关系也太好了吧",
+      "onboard_time": 1709794110,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 120430,
       "num": 120430,
       "word": "种地吧十个勤天有玻璃大棚了",
@@ -16161,6 +16281,14 @@
       "onboard_time": 1709297971,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119384,
+      "num": 119384,
+      "word": "李永钦ysl品牌大使",
+      "onboard_time": 1709795551,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 119207,
@@ -16457,6 +16585,14 @@
       "onboard_time": 1709771134,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115831,
+      "num": 115831,
+      "word": "12岁女孩自学烘焙4年解锁100种美食",
+      "onboard_time": 1709795251,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 115819,
@@ -16779,14 +16915,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 111591,
-      "num": 111591,
-      "word": "舅舅把路灯装在了家里",
-      "onboard_time": 1709793154,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 111544,
       "num": 111544,
       "word": "坚决反对一切强权霸凌行径",
@@ -16964,7 +17092,7 @@
     },
     {
       "raw_hot": 107394,
-      "num": 554985,
+      "num": 730857,
       "word": "代表谈越剧新龙门客栈破圈",
       "onboard_time": 1709791233,
       "rank": 4,
@@ -18593,6 +18721,14 @@
       "onboard_time": 1709323457,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 35628,
+      "num": 125276,
+      "word": "郎朗签名",
+      "onboard_time": 1709794050,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 35306,
