@@ -1,0 +1,410 @@
+{
+  "runTime": 1709829338086,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 606779,
+        "num": 606779,
+        "word": "金价持续暴涨建行紧急公告",
+        "onboard_time": 1709820333,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 478483,
+        "num": 478483,
+        "word": "瓦利耶娃被俄国家队除名",
+        "onboard_time": 1709824290,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22904,
+        "num": 339100,
+        "word": "政府工作报告里的民生举措",
+        "onboard_time": 1709816612,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 573472,
+        "num": 322867,
+        "word": "90后女硕士8年筛查出12000名艾滋患者",
+        "onboard_time": 1709824891,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34496,
+        "num": 298026,
+        "word": "建议加强对女性心血管疾病的筛查监测",
+        "onboard_time": 1709810791,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 291951,
+        "num": 291951,
+        "word": "拿米哈游画师作品去米哈游投简历",
+        "onboard_time": 1709822193,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 203755,
+        "num": 203755,
+        "word": "妇女节放假是法定的半天节假日",
+        "onboard_time": 1709800589,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176138,
+        "num": 176138,
+        "word": "其实妈妈把你养得很好",
+        "onboard_time": 1709810671,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148896,
+        "num": 175391,
+        "word": "电视剧暗河传",
+        "onboard_time": 1709824711,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24534,
+        "num": 174596,
+        "word": "政协委员谈国潮新中式成顶流",
+        "onboard_time": 1709810791,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 795367,
+        "num": 172844,
+        "word": "张元英为了保持清醒掐自己大腿",
+        "onboard_time": 1709826810,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 766159,
+        "num": 171236,
+        "word": "生儿子才能分地是高彩礼的根源",
+        "onboard_time": 1709826693,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 652402,
+        "num": 170284,
+        "word": "男子上班浏览色情网站被开除辩称电脑中毒",
+        "onboard_time": 1709801190,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633959,
+        "num": 168975,
+        "word": "向佐评论李蠕蠕",
+        "onboard_time": 1709808871,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 496157,
+        "num": 167394,
+        "word": "你又叫浣碧",
+        "onboard_time": 1709825010,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243200,
+        "num": 165458,
+        "word": "看见不认识的字不要随便拍照",
+        "onboard_time": 1709809531,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195724,
+        "num": 164316,
+        "word": "大哥远 封了一天",
+        "onboard_time": 1709823631,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 189091,
+        "num": 163638,
+        "word": "别对我动心 哄不好了",
+        "onboard_time": 1709824173,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162700,
+        "num": 162700,
+        "word": "陈乔恩捐赠20吨狗粮",
+        "onboard_time": 1709816671,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158686,
+        "num": 158686,
+        "word": "韩国一个苹果约15元",
+        "onboard_time": 1709820273,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 289552,
+        "num": 158445,
+        "word": "为啥体制内女性找对象越来越难",
+        "onboard_time": 1709821650,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190994,
+        "num": 158422,
+        "word": "研0喊了导师一晚上老鼠",
+        "onboard_time": 1709819252,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158138,
+        "num": 158138,
+        "word": "这个户型简直是我的理想型",
+        "onboard_time": 1709822013,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127108,
+        "num": 127108,
+        "word": "真的是要开始存钱了",
+        "onboard_time": 1709810553,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127086,
+        "num": 127086,
+        "word": "医生收到鲜花笔让全科室沸腾",
+        "onboard_time": 1709824413,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122542,
+        "num": 122542,
+        "word": "金牛座很有自己的主见",
+        "onboard_time": 1709821593,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114580,
+        "num": 114580,
+        "word": "现偶追妻癫公来了",
+        "onboard_time": 1709825430,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106890,
+        "num": 106890,
+        "word": "唐探2这一集演的是萝莉岛吧",
+        "onboard_time": 1709814571,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103008,
+        "num": 103008,
+        "word": "周琦 担架",
+        "onboard_time": 1709823692,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86980,
+        "num": 86980,
+        "word": "原来拉面不是统一只有三片肉",
+        "onboard_time": 1709824112,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86474,
+        "num": 86474,
+        "word": "大理寺少卿游 他们本可以有更好的人生",
+        "onboard_time": 1709825253,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84052,
+        "num": 84052,
+        "word": "回南天的布偶猫",
+        "onboard_time": 1709809711,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83151,
+        "num": 83151,
+        "word": "需要什么病例才能和你一起玩",
+        "onboard_time": 1709822254,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82891,
+        "num": 82891,
+        "word": "RitaCOS索拉卡",
+        "onboard_time": 1709817092,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82791,
+        "num": 82791,
+        "word": "香奈儿内场座位图",
+        "onboard_time": 1709819134,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 78492,
+        "num": 78492,
+        "word": "用壶铃一个月瘦了十斤",
+        "onboard_time": 1709808511,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 78155,
+        "num": 78155,
+        "word": "王一博回应回复字数",
+        "onboard_time": 1709811571,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75304,
+        "num": 75304,
+        "word": "翟欣欣涉嫌敲诈勒索案已移送法院",
+        "onboard_time": 1709814753,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73896,
+        "num": 73896,
+        "word": "檀健次模仿檀小呆檀力球表情包",
+        "onboard_time": 1709828248,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73346,
+        "num": 73346,
+        "word": "迪丽热巴广州出发",
+        "onboard_time": 1709828607,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70840,
+        "num": 70840,
+        "word": "王子文红玫瑰",
+        "onboard_time": 1709825852,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69311,
+        "num": 69311,
+        "word": "白鹿直播",
+        "onboard_time": 1709822553,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68995,
+        "num": 68995,
+        "word": "正确称体重的方法",
+        "onboard_time": 1709809951,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 66524,
+        "num": 66524,
+        "word": "黑执事 审美降级",
+        "onboard_time": 1709821593,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 65116,
+        "num": 65116,
+        "word": "唐斯半月板撕裂",
+        "onboard_time": 1709822732,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63717,
+        "num": 63717,
+        "word": "王鹤棣桃花坞前后变化",
+        "onboard_time": 1709815170,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58683,
+        "num": 58683,
+        "word": "永安梦 高门贵女和寒门学子",
+        "onboard_time": 1709822132,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55063,
+        "num": 55063,
+        "word": "山河四省高中生的十六岁",
+        "onboard_time": 1709816129,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54582,
+        "num": 54582,
+        "word": "王一博造型亮点贝雷帽",
+        "onboard_time": 1709822013,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 52389,
+        "num": 52389,
+        "word": "时代少年团接力女团舞",
+        "onboard_time": 1709819252,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#全面提升新兴领域战略能力#"
+    }
+  }
+}

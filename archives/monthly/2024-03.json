@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709828457134,
+  "endTime": 1709829338086,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -1923,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795367,
+      "num": 172844,
+      "word": "张元英为了保持清醒掐自己大腿",
+      "onboard_time": 1709826810,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 792502,
       "num": 792502,
       "word": "女子买牛肉发现是牛油上贴瘦肉",
@@ -2057,6 +2065,14 @@
       "onboard_time": 1709334983,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 766159,
+      "num": 171236,
+      "word": "生儿子才能分地是高彩礼的根源",
+      "onboard_time": 1709826693,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 764867,
@@ -2465,14 +2481,6 @@
       "onboard_time": 1709339429,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 688897,
-      "num": 143151,
-      "word": "张元英为了保持清醒掐自己大腿",
-      "onboard_time": 1709826810,
-      "rank": 12,
-      "category": "演出"
     },
     {
       "raw_hot": 687474,
@@ -5433,14 +5441,6 @@
       "onboard_time": 1709215296,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 409414,
-      "num": 105022,
-      "word": "生儿子才能分地是高彩礼的根源",
-      "onboard_time": 1709826693,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 409306,
@@ -19401,6 +19401,14 @@
       "onboard_time": 1709247320,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73346,
+      "num": 73346,
+      "word": "迪丽热巴广州出发",
+      "onboard_time": 1709828607,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 72701,

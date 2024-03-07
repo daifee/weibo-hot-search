@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709828457134,
+  "endTime": 1709829338086,
   "band_list": [
     {
       "raw_hot": 3203010,
@@ -1379,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795367,
+      "num": 172844,
+      "word": "张元英为了保持清醒掐自己大腿",
+      "onboard_time": 1709826810,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 788232,
       "num": 788232,
       "word": "1天内9家车企宣布降价",
@@ -1441,6 +1449,14 @@
       "onboard_time": 1709689411,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 766159,
+      "num": 171236,
+      "word": "生儿子才能分地是高彩礼的根源",
+      "onboard_time": 1709826693,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 760373,
@@ -1721,14 +1737,6 @@
       "onboard_time": 1709467590,
       "rank": 9,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 688897,
-      "num": 143151,
-      "word": "张元英为了保持清醒掐自己大腿",
-      "onboard_time": 1709826810,
-      "rank": 12,
-      "category": "演出"
     },
     {
       "raw_hot": 687474,
@@ -3857,14 +3865,6 @@
       "onboard_time": 1709792131,
       "rank": 39,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 409414,
-      "num": 105022,
-      "word": "生儿子才能分地是高彩礼的根源",
-      "onboard_time": 1709826693,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 409306,
@@ -14017,6 +14017,14 @@
       "onboard_time": 1709828248,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 73346,
+      "num": 73346,
+      "word": "迪丽热巴广州出发",
+      "onboard_time": 1709828607,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 72701,
