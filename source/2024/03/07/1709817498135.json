@@ -1,0 +1,410 @@
+{
+  "runTime": 1709817498135,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 732268,
+        "num": 732268,
+        "word": "妇女节放假是法定的半天节假日",
+        "onboard_time": 1709800589,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684754,
+        "num": 684754,
+        "word": "其实妈妈把你养得很好",
+        "onboard_time": 1709810671,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43793,
+        "num": 539478,
+        "word": "10个关键字看2024政府工作任务",
+        "onboard_time": 1709816974,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 537893,
+        "num": 537893,
+        "word": "翟欣欣涉嫌敲诈勒索案已移送法院",
+        "onboard_time": 1709814753,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81145,
+        "num": 443747,
+        "word": "建议加强对女性心血管疾病的筛查监测",
+        "onboard_time": 1709810791,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442123,
+        "num": 442123,
+        "word": "近8成网友反对全面禁止未成年网游",
+        "onboard_time": 1709814871,
+        "rank": 5,
+        "category": "游戏,国内时政"
+      },
+      {
+        "raw_hot": 356241,
+        "num": 356241,
+        "word": "网剧别对我动心",
+        "onboard_time": 1709806893,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353854,
+        "num": 353854,
+        "word": "唐探2这一集演的是萝莉岛吧",
+        "onboard_time": 1709814571,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268110,
+        "num": 353477,
+        "word": "回南天的布偶猫",
+        "onboard_time": 1709809711,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50665,
+        "num": 351264,
+        "word": "政协委员谈国潮新中式成顶流",
+        "onboard_time": 1709810791,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 235477,
+        "num": 350322,
+        "word": "我的小姨永远拿得出手",
+        "onboard_time": 1709813672,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1315735,
+        "num": 349127,
+        "word": "男子上班浏览色情网站被开除辩称电脑中毒",
+        "onboard_time": 1709801190,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690151,
+        "num": 346991,
+        "word": "孩子一年级被劝退该怎么办",
+        "onboard_time": 1709807730,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 667346,
+        "num": 344568,
+        "word": "看见不认识的字不要随便拍照",
+        "onboard_time": 1709809531,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 479390,
+        "num": 343563,
+        "word": "孙千 容貌焦虑",
+        "onboard_time": 1709808993,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342897,
+        "num": 342897,
+        "word": "陈乔恩捐赠20吨狗粮",
+        "onboard_time": 1709816671,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328474,
+        "num": 328474,
+        "word": "李诞爆改",
+        "onboard_time": 1709787272,
+        "rank": 16,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 280916,
+        "num": 280916,
+        "word": "王一博回应回复字数",
+        "onboard_time": 1709811571,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278509,
+        "num": 278509,
+        "word": "山河四省高中生的十六岁",
+        "onboard_time": 1709816129,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259720,
+        "num": 259720,
+        "word": "正确称体重的方法",
+        "onboard_time": 1709809951,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 293802,
+        "num": 255603,
+        "word": "近半数女性认为安全感是自己给的",
+        "onboard_time": 1709815292,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242460,
+        "num": 242460,
+        "word": "韩国的恋爱脑中文教材",
+        "onboard_time": 1709812531,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228113,
+        "num": 228113,
+        "word": "真的是要开始存钱了",
+        "onboard_time": 1709810553,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203788,
+        "num": 203788,
+        "word": "向佐评论李蠕蠕",
+        "onboard_time": 1709808871,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186126,
+        "num": 186126,
+        "word": "周也晒美甲",
+        "onboard_time": 1709816671,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180272,
+        "num": 180272,
+        "word": "王鹤棣桃花坞前后变化",
+        "onboard_time": 1709815170,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168823,
+        "num": 168823,
+        "word": "EDG官宣Jiejie回家休养",
+        "onboard_time": 1709811931,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163079,
+        "num": 163079,
+        "word": "春天撞上马面裙",
+        "onboard_time": 1709815049,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 158503,
+        "num": 158503,
+        "word": "海带为什么要打结",
+        "onboard_time": 1709798369,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 151106,
+        "num": 151106,
+        "word": "代表建议给居民身份证设密码",
+        "onboard_time": 1709814091,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149873,
+        "num": 149873,
+        "word": "中医院院长建议年轻人学八段锦",
+        "onboard_time": 1709812531,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146471,
+        "num": 146471,
+        "word": "RitaCOS索拉卡",
+        "onboard_time": 1709817092,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145718,
+        "num": 145718,
+        "word": "用壶铃一个月瘦了十斤",
+        "onboard_time": 1709808511,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 144008,
+        "num": 144008,
+        "word": "霍启刚再回应梅西事件",
+        "onboard_time": 1709803652,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142475,
+        "num": 142475,
+        "word": "是周四也是周五",
+        "onboard_time": 1709809170,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132209,
+        "num": 132209,
+        "word": "钟美美小妹语文3.5分",
+        "onboard_time": 1709806955,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 128688,
+        "num": 128688,
+        "word": "法国人拍摄的魏大勋",
+        "onboard_time": 1709811211,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124187,
+        "num": 124187,
+        "word": "为什么垃圾车上会挂着毛绒娃娃",
+        "onboard_time": 1709807192,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118747,
+        "num": 118747,
+        "word": "RNG 上调",
+        "onboard_time": 1709812352,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117865,
+        "num": 117865,
+        "word": "雷军建议基础教育普及AI知识",
+        "onboard_time": 1709816191,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113915,
+        "num": 113915,
+        "word": "改善双下巴按摩手法",
+        "onboard_time": 1709817213,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 111794,
+        "num": 111794,
+        "word": "王鹤棣被王传君按雪里",
+        "onboard_time": 1709802691,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109518,
+        "num": 109518,
+        "word": "伦敦人有属于自己的地铁判官",
+        "onboard_time": 1709817271,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43952,
+        "num": 107436,
+        "word": "政府工作报告里的民生举措",
+        "onboard_time": 1709816612,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105587,
+        "num": 105587,
+        "word": "陈少熙 熙湖贼王的一天",
+        "onboard_time": 1709814630,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104791,
+        "num": 104791,
+        "word": "公司的考勤方式",
+        "onboard_time": 1709814753,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103279,
+        "num": 103279,
+        "word": "青海玉树发生5.5级地震",
+        "onboard_time": 1709807492,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102784,
+        "num": 102784,
+        "word": "NIP 团战",
+        "onboard_time": 1709814212,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98393,
+        "num": 98393,
+        "word": "姿态COS艾希",
+        "onboard_time": 1709811688,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97117,
+        "num": 97117,
+        "word": "超三成女货车司机是家庭收入顶梁柱",
+        "onboard_time": 1709814513,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#今年两会总书记再谈新质生产力#"
+    }
+  }
+}
