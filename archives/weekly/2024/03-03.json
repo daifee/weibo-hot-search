@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709792589263,
+  "endTime": 1709793245304,
   "band_list": [
     {
       "raw_hot": 3203010,
@@ -643,20 +643,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1130583,
+      "num": 1130583,
+      "word": "向佐向吴镇宇道歉称下次不敢了",
+      "onboard_time": 1709790510,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1127748,
       "num": 1127748,
       "word": "第一场部长通道",
       "onboard_time": 1709606971,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1122407,
-      "num": 1122407,
-      "word": "向佐向吴镇宇道歉称下次不敢了",
-      "onboard_time": 1709790510,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1115132,
@@ -971,6 +971,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 915044,
+      "num": 382601,
+      "word": "为什么月经前身体和心情都很糟糕",
+      "onboard_time": 1709789671,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 914569,
       "num": 914569,
       "word": "预计今年高校毕业生超1170万人",
@@ -993,6 +1001,14 @@
       "onboard_time": 1709606911,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 898009,
+      "num": 388500,
+      "word": "娜诺瘦脱相",
+      "onboard_time": 1709791294,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 889137,
@@ -1235,14 +1251,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 809289,
-      "num": 388500,
-      "word": "娜诺瘦脱相",
-      "onboard_time": 1709791294,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 809025,
       "num": 335849,
       "word": "MiuMiu大秀",
@@ -1273,14 +1281,6 @@
       "onboard_time": 1709645193,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 799800,
-      "num": 376150,
-      "word": "为什么月经前身体和心情都很糟糕",
-      "onboard_time": 1709789671,
-      "rank": 12,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 798998,
@@ -2027,19 +2027,19 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 617815,
+      "num": 617815,
+      "word": "南航回应乘客往飞机发动机扔硬币",
+      "onboard_time": 1709788176,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616541,
       "num": 616541,
       "word": "马来西亚交通部长称尽快恢复搜索MH370航班",
       "onboard_time": 1709456429,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 609297,
-      "num": 609297,
-      "word": "南航回应乘客往飞机发动机扔硬币",
-      "onboard_time": 1709788176,
-      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -2459,6 +2459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 536092,
+      "num": 536092,
+      "word": "凑凑火锅人均消费高于海底捞",
+      "onboard_time": 1709789793,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 535074,
       "num": 457005,
       "word": "新款iPad和Mac或本周发布",
@@ -2585,14 +2593,6 @@
       "onboard_time": 1709544035,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 518232,
-      "num": 518232,
-      "word": "凑凑火锅人均消费高于海底捞",
-      "onboard_time": 1709789793,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 516318,
@@ -4027,6 +4027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 356312,
+      "num": 356312,
+      "word": "60亿资金抄底药明康德",
+      "onboard_time": 1709789613,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 355926,
       "num": 318059,
       "word": "董明珠回应玫瑰空调遭吐槽",
@@ -4140,7 +4148,7 @@
     },
     {
       "raw_hot": 350518,
-      "num": 197284,
+      "num": 200547,
       "word": "诺一霓娜近照",
       "onboard_time": 1709790391,
       "rank": 23,
@@ -4713,14 +4721,6 @@
       "onboard_time": 1709777850,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302532,
-      "num": 302532,
-      "word": "60亿资金抄底药明康德",
-      "onboard_time": 1709789613,
-      "rank": 46,
-      "category": "财经"
     },
     {
       "raw_hot": 300741,
@@ -6427,6 +6427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217973,
+      "num": 197713,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1709792847,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 217963,
       "num": 217963,
       "word": "恋与深空 沙滩祝福",
@@ -6971,6 +6979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202851,
+      "num": 202851,
+      "word": "乐视面试简历无需填写年龄和婚育信息",
+      "onboard_time": 1709792847,
+      "rank": 19,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 202831,
       "num": 202831,
       "word": "安妮海瑟薇新片",
@@ -7065,6 +7081,14 @@
       "onboard_time": 1709644111,
       "rank": 41,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 201113,
+      "num": 195207,
+      "word": "珀莱雅",
+      "onboard_time": 1709792131,
+      "rank": 39,
+      "category": "时尚"
     },
     {
       "raw_hot": 201090,
@@ -7459,6 +7483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 191782,
+      "num": 191782,
+      "word": "五条悟画风变了",
+      "onboard_time": 1709792012,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 191749,
       "num": 189274,
       "word": "邓紫棋长沙 抢票",
@@ -7801,14 +7833,6 @@
       "onboard_time": 1709439690,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183143,
-      "num": 183143,
-      "word": "五条悟画风变了",
-      "onboard_time": 1709792012,
-      "rank": 30,
-      "category": "动漫"
     },
     {
       "raw_hot": 183006,
@@ -8915,6 +8939,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 160165,
+      "num": 160165,
+      "word": "花海说能再早两年打KPL就好了",
+      "onboard_time": 1709792312,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159987,
       "num": 298546,
       "word": "有一种知识叫女性经验",
@@ -9363,6 +9395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152961,
+      "num": 152961,
+      "word": "为什么最后我选择不打工了",
+      "onboard_time": 1709792555,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 152687,
       "num": 152687,
       "word": "这一抱硬控我10秒",
@@ -9425,6 +9465,14 @@
       "onboard_time": 1709773716,
       "rank": 39,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 150851,
+      "num": 150851,
+      "word": "因作业多向爸爸撒娇的小朋友",
+      "onboard_time": 1709792791,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 150827,
@@ -9609,14 +9657,6 @@
       "onboard_time": 1709546972,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 147569,
-      "num": 147569,
-      "word": "珀莱雅",
-      "onboard_time": 1709792131,
-      "rank": 39,
-      "category": "时尚"
     },
     {
       "raw_hot": 147535,
@@ -9857,14 +9897,6 @@
       "onboard_time": 1709735792,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144788,
-      "num": 144788,
-      "word": "花海说能再早两年打KPL就好了",
-      "onboard_time": 1709792312,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 144780,
@@ -11331,14 +11363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 120076,
-      "num": 120076,
-      "word": "为什么最后我选择不打工了",
-      "onboard_time": 1709792555,
-      "rank": 49,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 119520,
       "num": 119520,
       "word": "祁煜整片海洋的祝福",
@@ -11587,6 +11611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115073,
+      "num": 410456,
+      "word": "王毅回答了哪些热点问题",
+      "onboard_time": 1709791233,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 114579,
       "num": 114579,
       "word": "我目睹了领导最脆弱的时刻",
@@ -11747,6 +11779,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 111591,
+      "num": 111591,
+      "word": "舅舅把路灯装在了家里",
+      "onboard_time": 1709793154,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111544,
       "num": 111544,
       "word": "坚决反对一切强权霸凌行径",
@@ -11793,14 +11833,6 @@
       "onboard_time": 1709643572,
       "rank": 47,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 110604,
-      "num": 410456,
-      "word": "王毅回答了哪些热点问题",
-      "onboard_time": 1709791233,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 110127,
@@ -11867,6 +11899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107394,
+      "num": 554985,
+      "word": "代表谈越剧新龙门客栈破圈",
+      "onboard_time": 1709791233,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 107308,
       "num": 301687,
       "word": "拄着盲杖他说可以没视力不能没眼光",
@@ -11896,14 +11936,6 @@
       "word": "外交部回应外籍人员移动支付难问题",
       "onboard_time": 1709583015,
       "rank": 41,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 107063,
-      "num": 553231,
-      "word": "代表谈越剧新龙门客栈破圈",
-      "onboard_time": 1709791233,
-      "rank": 4,
       "category": "国内时政"
     },
     {
@@ -13019,6 +13051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28549,
+      "num": 361760,
+      "word": "时装周趋势解读",
+      "onboard_time": 1709791233,
+      "rank": 14,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 27744,
       "num": 45759,
       "word": "学雷锋文艺志愿服务",
@@ -13081,14 +13121,6 @@
       "onboard_time": 1709406378,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24603,
-      "num": 358566,
-      "word": "时装周趋势解读",
-      "onboard_time": 1709791233,
-      "rank": 14,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 24550,
