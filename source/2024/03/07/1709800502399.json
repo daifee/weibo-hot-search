@@ -1,0 +1,410 @@
+{
+  "runTime": 1709800502399,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1506386,
+        "num": 1506386,
+        "word": "明天放半天假",
+        "onboard_time": 1709786793,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 947118,
+        "num": 947118,
+        "word": "乐视面试简历无需填写年龄和婚育信息",
+        "onboard_time": 1709792847,
+        "rank": 1,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 102243,
+        "num": 516910,
+        "word": "2024两会好声音",
+        "onboard_time": 1709798432,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1700956,
+        "num": 481147,
+        "word": "长子走稳 次子走险",
+        "onboard_time": 1709797651,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71036,
+        "num": 455823,
+        "word": "代表谈越剧新龙门客栈破圈",
+        "onboard_time": 1709791233,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 440377,
+        "num": 440377,
+        "word": "鹿晗欢迎队长随时来电",
+        "onboard_time": 1709798492,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 403012,
+        "num": 403012,
+        "word": "张学友演唱会取消",
+        "onboard_time": 1709795849,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 344900,
+        "num": 344900,
+        "word": "孙颖莎入围巴黎奥运会最值得关注女运动员",
+        "onboard_time": 1709794530,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308284,
+        "num": 308284,
+        "word": "丹麦公交车竟然是中国产的",
+        "onboard_time": 1709794654,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70671,
+        "num": 303587,
+        "word": "王毅回答了哪些热点问题",
+        "onboard_time": 1709791233,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1043786,
+        "num": 293231,
+        "word": "李诞爆改",
+        "onboard_time": 1709787272,
+        "rank": 10,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 573401,
+        "num": 284623,
+        "word": "当奶奶告诉她的iPad运行很慢时",
+        "onboard_time": 1709793512,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 561987,
+        "num": 280403,
+        "word": "庾澄庆回应哈利出道传闻",
+        "onboard_time": 1709797953,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272932,
+        "num": 272932,
+        "word": "陈漫镜头下的奶茶",
+        "onboard_time": 1709797350,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 447300,
+        "num": 272529,
+        "word": "向佐向吴镇宇道歉称下次不敢了",
+        "onboard_time": 1709790510,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430617,
+        "num": 269745,
+        "word": "渤海大学通报一男生进女厕偷拍",
+        "onboard_time": 1709798071,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383865,
+        "num": 265723,
+        "word": "娜诺瘦脱相",
+        "onboard_time": 1709791294,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351944,
+        "num": 263338,
+        "word": "海带为什么要打结",
+        "onboard_time": 1709798369,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 280726,
+        "num": 260913,
+        "word": "为什么月经前身体和心情都很糟糕",
+        "onboard_time": 1709789671,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 258571,
+        "num": 258571,
+        "word": "委员称小学课间休息应改为30分钟",
+        "onboard_time": 1709799270,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 712872,
+        "num": 250151,
+        "word": "男朋友送很廉价的生日礼物",
+        "onboard_time": 1709798250,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 352102,
+        "num": 242164,
+        "word": "微信占用了我200多G的内存",
+        "onboard_time": 1709797890,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 259955,
+        "num": 239478,
+        "word": "林书豪老婆怀孕",
+        "onboard_time": 1709795493,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232788,
+        "num": 232788,
+        "word": "姿态Rita同框解说",
+        "onboard_time": 1709797411,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216379,
+        "num": 216379,
+        "word": "卢昱晓工作室回应共创视频争议",
+        "onboard_time": 1709793809,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212534,
+        "num": 212534,
+        "word": "越长大越没有二手羞耻了",
+        "onboard_time": 1709795735,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201676,
+        "num": 201676,
+        "word": "王一博Jennie同框图",
+        "onboard_time": 1709787334,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199799,
+        "num": 199799,
+        "word": "诺一霓娜近照",
+        "onboard_time": 1709790391,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195365,
+        "num": 195365,
+        "word": "为什么上班有人忙有人闲",
+        "onboard_time": 1709799754,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172481,
+        "num": 185847,
+        "word": "退税到账",
+        "onboard_time": 1709780849,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180492,
+        "num": 180492,
+        "word": "男朋友不愿意体检",
+        "onboard_time": 1709789075,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178144,
+        "num": 178144,
+        "word": "小日子 婆婆大闹公司",
+        "onboard_time": 1709800289,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177639,
+        "num": 177639,
+        "word": "永远不要低估闺蜜之间的感情",
+        "onboard_time": 1709798369,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169768,
+        "num": 169768,
+        "word": "帕梅拉好像也没那么难了",
+        "onboard_time": 1709797471,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 166952,
+        "num": 166952,
+        "word": "在复旦食堂吃一顿饭需要多少钱",
+        "onboard_time": 1709798612,
+        "rank": 34,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 163694,
+        "num": 163694,
+        "word": "真正意义上的啃老",
+        "onboard_time": 1709799692,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161181,
+        "num": 161181,
+        "word": "华为P70系列手机延期发布",
+        "onboard_time": 1709800289,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156689,
+        "num": 156689,
+        "word": "大理寺少卿游 10不离9",
+        "onboard_time": 1709798853,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156378,
+        "num": 156378,
+        "word": "凑凑火锅人均消费高于海底捞",
+        "onboard_time": 1709789793,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154021,
+        "num": 154021,
+        "word": "委员称未成年人网游应避免一刀切",
+        "onboard_time": 1709798311,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145543,
+        "num": 145543,
+        "word": "衣服标签上的彩蛋",
+        "onboard_time": 1709799211,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151194,
+        "num": 144309,
+        "word": "李现向粉丝道歉",
+        "onboard_time": 1709777310,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140229,
+        "num": 140229,
+        "word": "上班很闲是怎样的一种体验",
+        "onboard_time": 1709799811,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135716,
+        "num": 135716,
+        "word": "贾玲张小斐影后成双",
+        "onboard_time": 1709787453,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131455,
+        "num": 131455,
+        "word": "与凤行",
+        "onboard_time": 1709788414,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131176,
+        "num": 131176,
+        "word": "女子假扮闺蜜近十年诈骗闺蜜亲妈300万",
+        "onboard_time": 1709779291,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124864,
+        "num": 124864,
+        "word": "妇女节送我妈的大礼",
+        "onboard_time": 1709799754,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122015,
+        "num": 122015,
+        "word": "肖战米兰巴黎看秀世趋第一",
+        "onboard_time": 1709793512,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 121569,
+        "num": 121569,
+        "word": "免签",
+        "onboard_time": 1709784333,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108459,
+        "num": 108459,
+        "word": "感觉别人赚钱很容易",
+        "onboard_time": 1709800352,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}

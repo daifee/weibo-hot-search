@@ -1,6 +1,6 @@
 {
   "startTime": 1709742142797,
-  "endTime": 1709799460516,
+  "endTime": 1709800502399,
   "band_list": [
     {
       "raw_hot": 2630466,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1700956,
+      "num": 603686,
+      "word": "长子走稳 次子走险",
+      "onboard_time": 1709797651,
+      "rank": 3,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1683412,
       "num": 314015,
       "word": "李现向粉丝道歉",
@@ -73,14 +81,6 @@
       "onboard_time": 1709772272,
       "rank": 20,
       "category": "情感,社会新闻"
-    },
-    {
-      "raw_hot": 1446690,
-      "num": 603686,
-      "word": "长子走稳 次子走险",
-      "onboard_time": 1709797651,
-      "rank": 3,
-      "category": "幽默"
     },
     {
       "raw_hot": 1326862,
@@ -235,6 +235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 712872,
+      "num": 258315,
+      "word": "男朋友送很廉价的生日礼物",
+      "onboard_time": 1709798250,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 660483,
       "num": 560745,
       "word": "回南天取快递 像到了天庭",
@@ -355,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 561987,
+      "num": 376306,
+      "word": "庾澄庆回应哈利出道传闻",
+      "onboard_time": 1709797953,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 551770,
       "num": 551770,
       "word": "曾茂朝去世",
@@ -371,28 +387,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 543854,
-      "num": 376306,
-      "word": "庾澄庆回应哈利出道传闻",
-      "onboard_time": 1709797953,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 543238,
       "num": 543238,
       "word": "王毅说迟早会看到全家福",
       "onboard_time": 1709781812,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 539495,
-      "num": 258315,
-      "word": "男朋友送很廉价的生日礼物",
-      "onboard_time": 1709798250,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 536092,
@@ -539,6 +539,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 440377,
+      "num": 440377,
+      "word": "鹿晗欢迎队长随时来电",
+      "onboard_time": 1709798492,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 430617,
+      "num": 308632,
+      "word": "渤海大学通报一男生进女厕偷拍",
+      "onboard_time": 1709798071,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413526,
       "num": 413526,
       "word": "娃哈哈妇女节放半天假加100元餐补",
@@ -659,6 +675,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 352102,
+      "num": 255914,
+      "word": "微信占用了我200多G的内存",
+      "onboard_time": 1709797890,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 351944,
+      "num": 263338,
+      "word": "海带为什么要打结",
+      "onboard_time": 1709798369,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 346505,
       "num": 268086,
       "word": "B太打假代购护肤品",
@@ -691,14 +723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 326558,
-      "num": 255914,
-      "word": "微信占用了我200多G的内存",
-      "onboard_time": 1709797890,
-      "rank": 22,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 317177,
       "num": 317177,
       "word": "钟薛高售价从60元降到2.5元",
@@ -721,14 +745,6 @@
       "onboard_time": 1709794654,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 308632,
-      "num": 308632,
-      "word": "渤海大学通报一男生进女厕偷拍",
-      "onboard_time": 1709798071,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 306078,
@@ -795,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272932,
+      "num": 370433,
+      "word": "陈漫镜头下的奶茶",
+      "onboard_time": 1709797350,
+      "rank": 15,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 270065,
       "num": 270065,
       "word": "小杨哥们出海外国人的钱好赚吗",
@@ -811,20 +835,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 265128,
-      "num": 265128,
-      "word": "鹿晗欢迎队长随时来电",
-      "onboard_time": 1709798492,
-      "rank": 18,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 263160,
       "num": 263160,
       "word": "呼吁遏制超长加班隐形加班",
       "onboard_time": 1709772754,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 258571,
+      "num": 258571,
+      "word": "委员称小学课间休息应改为30分钟",
+      "onboard_time": 1709799270,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 258457,
@@ -905,14 +929,6 @@
       "onboard_time": 1709776290,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 242146,
-      "num": 370433,
-      "word": "陈漫镜头下的奶茶",
-      "onboard_time": 1709797350,
-      "rank": 15,
-      "category": "时尚"
     },
     {
       "raw_hot": 239667,
@@ -1131,6 +1147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 195365,
+      "num": 195365,
+      "word": "为什么上班有人忙有人闲",
+      "onboard_time": 1709799754,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195050,
       "num": 195050,
       "word": "两会",
@@ -1177,14 +1201,6 @@
       "onboard_time": 1709791351,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186447,
-      "num": 186447,
-      "word": "海带为什么要打结",
-      "onboard_time": 1709798369,
-      "rank": 31,
-      "category": "科学科普"
     },
     {
       "raw_hot": 184701,
@@ -1257,6 +1273,22 @@
       "onboard_time": 1709770650,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 178144,
+      "num": 178144,
+      "word": "小日子 婆婆大闹公司",
+      "onboard_time": 1709800289,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 177639,
+      "num": 177639,
+      "word": "永远不要低估闺蜜之间的感情",
+      "onboard_time": 1709798369,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 176547,
@@ -1363,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166952,
+      "num": 166952,
+      "word": "在复旦食堂吃一顿饭需要多少钱",
+      "onboard_time": 1709798612,
+      "rank": 35,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 165288,
       "num": 165288,
       "word": "颖儿带女儿拍汉服写真",
@@ -1379,19 +1419,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 163670,
-      "num": 163670,
-      "word": "在复旦食堂吃一顿饭需要多少钱",
-      "onboard_time": 1709798612,
+      "raw_hot": 163694,
+      "num": 163694,
+      "word": "真正意义上的啃老",
+      "onboard_time": 1709799692,
       "rank": 35,
-      "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 163366,
-      "num": 163366,
-      "word": "永远不要低估闺蜜之间的感情",
-      "onboard_time": 1709798369,
-      "rank": 36,
       "category": "情感"
     },
     {
@@ -1401,6 +1433,14 @@
       "onboard_time": 1709779230,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 161181,
+      "num": 161181,
+      "word": "华为P70系列手机延期发布",
+      "onboard_time": 1709800289,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 160955,
@@ -1451,6 +1491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156689,
+      "num": 156689,
+      "word": "大理寺少卿游 10不离9",
+      "onboard_time": 1709798853,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156642,
       "num": 156642,
       "word": "男子称农夫山泉产品包装媚日",
@@ -1465,14 +1513,6 @@
       "onboard_time": 1709769931,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155005,
-      "num": 155005,
-      "word": "大理寺少卿游 10不离9",
-      "onboard_time": 1709798853,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 153255,
@@ -1547,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145543,
+      "num": 145543,
+      "word": "衣服标签上的彩蛋",
+      "onboard_time": 1709799211,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145219,
       "num": 145219,
       "word": "女孩子做自己就好",
@@ -1569,6 +1617,14 @@
       "onboard_time": 1709796330,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140229,
+      "num": 140229,
+      "word": "上班很闲是怎样的一种体验",
+      "onboard_time": 1709799811,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 140026,
@@ -1755,6 +1811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124864,
+      "num": 124864,
+      "word": "妇女节送我妈的大礼",
+      "onboard_time": 1709799754,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123257,
       "num": 123257,
       "word": "新质生产力与你我息息相关",
@@ -1851,22 +1915,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 111499,
-      "num": 111499,
-      "word": "委员称小学课间休息应改为30分钟",
-      "onboard_time": 1709799270,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 111292,
-      "num": 111292,
-      "word": "衣服标签上的彩蛋",
-      "onboard_time": 1709799211,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 111086,
       "num": 111086,
       "word": "当领导让00后准备下午茶",
@@ -1907,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108459,
+      "num": 108459,
+      "word": "感觉别人赚钱很容易",
+      "onboard_time": 1709800352,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108337,
       "num": 108337,
       "word": "没有按时投喂被一群小狗骂了",
@@ -1939,6 +1995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102243,
+      "num": 637397,
+      "word": "2024两会好声音",
+      "onboard_time": 1709798432,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 101673,
       "num": 101673,
       "word": "蓝盈莹晒6年前剧照",
@@ -1961,14 +2025,6 @@
       "onboard_time": 1709707169,
       "rank": 33,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 92415,
-      "num": 637397,
-      "word": "2024两会好声音",
-      "onboard_time": 1709798432,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 91126,
