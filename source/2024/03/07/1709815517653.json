@@ -1,0 +1,410 @@
+{
+  "runTime": 1709815517653,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 704635,
+        "num": 704635,
+        "word": "妇女节放假是法定的半天节假日",
+        "onboard_time": 1709800589,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472471,
+        "num": 472471,
+        "word": "其实妈妈把你养得很好",
+        "onboard_time": 1709810671,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14544,
+        "num": 468723,
+        "word": "新质生产力与你我息息相关",
+        "onboard_time": 1709772634,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 466497,
+        "num": 466497,
+        "word": "网剧别对我动心",
+        "onboard_time": 1709806893,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147854,
+        "num": 462847,
+        "word": "建议加强对女性心血管疾病的筛查监测",
+        "onboard_time": 1709810791,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459410,
+        "num": 459410,
+        "word": "回南天的布偶猫",
+        "onboard_time": 1709809711,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282515,
+        "num": 282515,
+        "word": "EDG官宣Jiejie回家休养",
+        "onboard_time": 1709811931,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 215456,
+        "num": 215456,
+        "word": "海带为什么要打结",
+        "onboard_time": 1709798369,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 215253,
+        "num": 215253,
+        "word": "超三成女货车司机是家庭收入顶梁柱",
+        "onboard_time": 1709814513,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65178,
+        "num": 214402,
+        "word": "政协委员谈国潮新中式成顶流",
+        "onboard_time": 1709810791,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138531,
+        "num": 213847,
+        "word": "我的小姨永远拿得出手",
+        "onboard_time": 1709813672,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1329109,
+        "num": 212637,
+        "word": "男子上班浏览色情网站被开除辩称电脑中毒",
+        "onboard_time": 1709801190,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789642,
+        "num": 212323,
+        "word": "孩子一年级被劝退该怎么办",
+        "onboard_time": 1709807730,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 581416,
+        "num": 211349,
+        "word": "看见不认识的字不要随便拍照",
+        "onboard_time": 1709809531,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115447,
+        "num": 210565,
+        "word": "天猫今晚发88VIP惊喜消费券",
+        "onboard_time": 1709812831,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 476781,
+        "num": 209188,
+        "word": "孙千 容貌焦虑",
+        "onboard_time": 1709808993,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 446185,
+        "num": 209014,
+        "word": "韩国的恋爱脑中文教材",
+        "onboard_time": 1709812531,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373330,
+        "num": 207895,
+        "word": "王一博回应回复字数",
+        "onboard_time": 1709811571,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332563,
+        "num": 206466,
+        "word": "李诞爆改",
+        "onboard_time": 1709787272,
+        "rank": 18,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 278126,
+        "num": 205789,
+        "word": "正确称体重的方法",
+        "onboard_time": 1709809951,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 279571,
+        "num": 204654,
+        "word": "真的是要开始存钱了",
+        "onboard_time": 1709810553,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240908,
+        "num": 204158,
+        "word": "向佐评论李蠕蠕",
+        "onboard_time": 1709808871,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235487,
+        "num": 203466,
+        "word": "用壶铃一个月瘦了十斤",
+        "onboard_time": 1709808511,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 202881,
+        "num": 202881,
+        "word": "中医院院长建议年轻人学八段锦",
+        "onboard_time": 1709812531,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199651,
+        "num": 199651,
+        "word": "钟美美小妹语文3.5分",
+        "onboard_time": 1709806955,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 199024,
+        "num": 199024,
+        "word": "是周四也是周五",
+        "onboard_time": 1709809170,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197880,
+        "num": 197880,
+        "word": "近8成网友反对全面禁止未成年网游",
+        "onboard_time": 1709814871,
+        "rank": 26,
+        "category": "游戏,国内时政"
+      },
+      {
+        "raw_hot": 194271,
+        "num": 194271,
+        "word": "唐探2这一集演的是萝莉岛吧",
+        "onboard_time": 1709814571,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186884,
+        "num": 186884,
+        "word": "法国人拍摄的魏大勋",
+        "onboard_time": 1709811211,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183827,
+        "num": 183827,
+        "word": "青海玉树发生5.5级地震",
+        "onboard_time": 1709807492,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166432,
+        "num": 166432,
+        "word": "陈少熙 熙湖贼王的一天",
+        "onboard_time": 1709814630,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 152966,
+        "num": 152966,
+        "word": "翟欣欣涉嫌敲诈勒索案已移送法院",
+        "onboard_time": 1709814753,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151598,
+        "num": 151598,
+        "word": "霍启刚再回应梅西事件",
+        "onboard_time": 1709803652,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151207,
+        "num": 151207,
+        "word": "近半数女性认为安全感是自己给的",
+        "onboard_time": 1709815292,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147837,
+        "num": 147837,
+        "word": "为什么垃圾车上会挂着毛绒娃娃",
+        "onboard_time": 1709807192,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146567,
+        "num": 146567,
+        "word": "王鹤棣桃花坞前后变化",
+        "onboard_time": 1709815170,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139780,
+        "num": 139780,
+        "word": "NIP 团战",
+        "onboard_time": 1709814212,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139764,
+        "num": 139764,
+        "word": "姿态COS艾希",
+        "onboard_time": 1709811688,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136020,
+        "num": 136020,
+        "word": "公司的考勤方式",
+        "onboard_time": 1709814753,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46261,
+        "num": 134196,
+        "word": "快手商城三八节出色短片",
+        "onboard_time": 1709813672,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132974,
+        "num": 132974,
+        "word": "为什么甘肃麻辣烫只能在甘肃",
+        "onboard_time": 1709807790,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126284,
+        "num": 126284,
+        "word": "代表建议给居民身份证设密码",
+        "onboard_time": 1709814091,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125750,
+        "num": 125750,
+        "word": "RNG 上调",
+        "onboard_time": 1709812352,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123595,
+        "num": 123595,
+        "word": "CBA",
+        "onboard_time": 1709814390,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122485,
+        "num": 122485,
+        "word": "王鹤棣被王传君按雪里",
+        "onboard_time": 1709802691,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118533,
+        "num": 118533,
+        "word": "恩钟更新",
+        "onboard_time": 1709813550,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114249,
+        "num": 114249,
+        "word": "小日子 婆婆大闹公司",
+        "onboard_time": 1709800289,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111794,
+        "num": 111794,
+        "word": "B站2023年营业额225亿",
+        "onboard_time": 1709810373,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 111769,
+        "num": 111769,
+        "word": "春天撞上马面裙",
+        "onboard_time": 1709815049,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 110312,
+        "num": 110312,
+        "word": "浪姐5宿舍",
+        "onboard_time": 1709802810,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#今年两会总书记再谈新质生产力#"
+    }
+  }
+}
