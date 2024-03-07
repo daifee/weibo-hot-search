@@ -1,0 +1,410 @@
+{
+  "runTime": 1709777857306,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 816380,
+        "num": 816380,
+        "word": "刘亦菲 原来努力是可以被看到的",
+        "onboard_time": 1709772393,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 733859,
+        "num": 733859,
+        "word": "丈夫送妻子黄金锁求辅导孩子别发脾气",
+        "onboard_time": 1709774432,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46134,
+        "num": 527885,
+        "word": "从政府工作报告看中国经济新动力",
+        "onboard_time": 1709728350,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 406764,
+        "num": 406764,
+        "word": "你会好好待我们娘十三个吧",
+        "onboard_time": 1709769150,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 376110,
+        "num": 376110,
+        "word": "医生熬夜后是怎么补救的",
+        "onboard_time": 1709770354,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 342994,
+        "num": 342994,
+        "word": "安藤樱 感觉和贾玲已经是朋友了",
+        "onboard_time": 1709771612,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298347,
+        "num": 298347,
+        "word": "直播王毅回答中外记者提问",
+        "onboard_time": 1709777249,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 292440,
+        "num": 292440,
+        "word": "喜茶光与夜之恋联名",
+        "onboard_time": 1709731711,
+        "rank": 7,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 242198,
+        "num": 242198,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1709776290,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1077692,
+        "num": 242198,
+        "word": "建议国家全面禁止未成年人网游",
+        "onboard_time": 1709737653,
+        "rank": 9,
+        "category": "国内时政,游戏"
+      },
+      {
+        "raw_hot": 727149,
+        "num": 242145,
+        "word": "00后开始拒绝月经羞耻",
+        "onboard_time": 1709767706,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 505119,
+        "num": 242114,
+        "word": "柳智敏说明朗的智敏回来了",
+        "onboard_time": 1709775448,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459634,
+        "num": 242057,
+        "word": "差点亲到张凌赫",
+        "onboard_time": 1709776172,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394447,
+        "num": 242035,
+        "word": "杨幂考北电是孤注一掷",
+        "onboard_time": 1709768067,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1587250,
+        "num": 241994,
+        "word": "男子私自接种217次新冠疫苗",
+        "onboard_time": 1709776589,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358971,
+        "num": 241953,
+        "word": "iPhone16渲染图",
+        "onboard_time": 1709767404,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 306498,
+        "num": 241921,
+        "word": "男员工误入女厕10秒被解雇",
+        "onboard_time": 1709739753,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278088,
+        "num": 241899,
+        "word": "所有人都做了头发不告诉魏若来",
+        "onboard_time": 1709771197,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256495,
+        "num": 241849,
+        "word": "药明康德",
+        "onboard_time": 1709776828,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 253709,
+        "num": 241814,
+        "word": "95后女生的工作是带薪撸小老虎",
+        "onboard_time": 1709774009,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619309,
+        "num": 241774,
+        "word": "李现向粉丝道歉",
+        "onboard_time": 1709777310,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242386,
+        "num": 241732,
+        "word": "越来越多年轻人开始山野穿行",
+        "onboard_time": 1709776110,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 241728,
+        "num": 241728,
+        "word": "回南天取快递 像到了天庭",
+        "onboard_time": 1709736873,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229387,
+        "num": 229387,
+        "word": "3人深夜闻到异味避免了一起爆燃",
+        "onboard_time": 1709774671,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228666,
+        "num": 228666,
+        "word": "娃哈哈妇女节放半天假加100元餐补",
+        "onboard_time": 1709774671,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135996,
+        "num": 219887,
+        "word": "3月7日两会日程",
+        "onboard_time": 1709769810,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 219594,
+        "num": 219594,
+        "word": "00后小伙被骗缅甸每天工作17小时",
+        "onboard_time": 1709748918,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191526,
+        "num": 191526,
+        "word": "霸哥停播",
+        "onboard_time": 1709770532,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187989,
+        "num": 187989,
+        "word": "你猜为什么我们认识却不是好友",
+        "onboard_time": 1709767166,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167785,
+        "num": 183078,
+        "word": "建议增加学生抑郁症体检项目",
+        "onboard_time": 1709775211,
+        "rank": 29,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 182813,
+        "num": 182813,
+        "word": "王一博登VOGUE英国",
+        "onboard_time": 1709776352,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171064,
+        "num": 171064,
+        "word": "重庆龙湖天街三八妇女节文案",
+        "onboard_time": 1709775089,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164112,
+        "num": 164112,
+        "word": "苹果汽车曾考虑收购特斯拉",
+        "onboard_time": 1709774731,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 161922,
+        "num": 161922,
+        "word": "魏大勋神级4秒镜头",
+        "onboard_time": 1709739273,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151426,
+        "num": 151426,
+        "word": "建议对伤人犬只饲养者追刑责",
+        "onboard_time": 1709772033,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1499217,
+        "num": 150935,
+        "word": "25岁女生独立后报复性补偿自己童年遗憾",
+        "onboard_time": 1709772272,
+        "rank": 35,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 146953,
+        "num": 146953,
+        "word": "主动把床单铺好的猫妈妈",
+        "onboard_time": 1709776531,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146883,
+        "num": 146883,
+        "word": "黄奕曝光明星饮食状况",
+        "onboard_time": 1709773292,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137898,
+        "num": 137898,
+        "word": "为什么很多人不爱用标点符号",
+        "onboard_time": 1709777368,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135742,
+        "num": 135742,
+        "word": "这是二十岁的通病吗",
+        "onboard_time": 1709777490,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129217,
+        "num": 129217,
+        "word": "狮子座其实没有那么慕强",
+        "onboard_time": 1709768307,
+        "rank": 40,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 127451,
+        "num": 127451,
+        "word": "安妮海瑟薇新片",
+        "onboard_time": 1709772931,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124973,
+        "num": 124973,
+        "word": "B太打假代购护肤品",
+        "onboard_time": 1709767586,
+        "rank": 42,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 116716,
+        "num": 116716,
+        "word": "小杨哥们出海外国人的钱好赚吗",
+        "onboard_time": 1709767466,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115041,
+        "num": 115041,
+        "word": "呼吁遏制超长加班隐形加班",
+        "onboard_time": 1709772754,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114181,
+        "num": 114181,
+        "word": "曾茂朝去世",
+        "onboard_time": 1709769752,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112708,
+        "num": 112708,
+        "word": "女子被鸡啄伤送进ICU抢救2个月",
+        "onboard_time": 1709747779,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107168,
+        "num": 107168,
+        "word": "中国资产集体拉涨",
+        "onboard_time": 1709777669,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105419,
+        "num": 105419,
+        "word": "可以买贵的但是不能买贵了",
+        "onboard_time": 1709777791,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104290,
+        "num": 104290,
+        "word": "男子喝酒撞车后买了两个卤蛋一杯白酒",
+        "onboard_time": 1709777791,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望政协委员#"
+    }
+  }
+}

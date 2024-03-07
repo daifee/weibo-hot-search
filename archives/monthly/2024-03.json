@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709776100079,
+  "endTime": 1709777857306,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -403,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1587250,
+      "num": 241994,
+      "word": "男子私自接种217次新冠疫苗",
+      "onboard_time": 1709776589,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1577469,
       "num": 1120145,
       "word": "王楚钦橱窗",
@@ -481,6 +489,14 @@
       "onboard_time": 1709622811,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1499217,
+      "num": 1375617,
+      "word": "25岁女生独立后报复性补偿自己童年遗憾",
+      "onboard_time": 1709772272,
+      "rank": 20,
+      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 1487774,
@@ -569,14 +585,6 @@
       "onboard_time": 1709694633,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1375617,
-      "num": 1375617,
-      "word": "25岁女生独立后报复性补偿自己童年遗憾",
-      "onboard_time": 1709772272,
-      "rank": 20,
-      "category": "情感,社会新闻"
     },
     {
       "raw_hot": 1366226,
@@ -1643,6 +1651,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 816380,
+      "num": 816380,
+      "word": "刘亦菲 原来努力是可以被看到的",
+      "onboard_time": 1709772393,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 809025,
       "num": 335849,
       "word": "MiuMiu大秀",
@@ -1835,14 +1851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 765744,
-      "num": 765744,
-      "word": "刘亦菲 原来努力是可以被看到的",
-      "onboard_time": 1709772393,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 764867,
       "num": 764867,
       "word": "点读机女孩为学业放弃进娱乐圈",
@@ -1929,6 +1937,14 @@
       "onboard_time": 1709204553,
       "rank": 3,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 733859,
+      "num": 733859,
+      "word": "丈夫送妻子黄金锁求辅导孩子别发脾气",
+      "onboard_time": 1709774432,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 733036,
@@ -2737,6 +2753,14 @@
       "onboard_time": 1709230938,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 619309,
+      "num": 241774,
+      "word": "李现向粉丝道歉",
+      "onboard_time": 1709777310,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 618821,
@@ -3643,6 +3667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505119,
+      "num": 362829,
+      "word": "柳智敏说明朗的智敏回来了",
+      "onboard_time": 1709775448,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 503743,
       "num": 503743,
       "word": "钟薛高被执行81万元",
@@ -4145,6 +4177,14 @@
       "onboard_time": 1709381433,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459634,
+      "num": 242057,
+      "word": "差点亲到张凌赫",
+      "onboard_time": 1709776172,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 458572,
@@ -4811,14 +4851,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 404574,
-      "num": 404574,
-      "word": "丈夫送妻子黄金锁求辅导孩子别发脾气",
-      "onboard_time": 1709774432,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 404276,
       "num": 293890,
       "word": "让人一周胖一斤的食物别敞开吃了",
@@ -5427,14 +5459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 362829,
-      "num": 362829,
-      "word": "柳智敏说明朗的智敏回来了",
-      "onboard_time": 1709775448,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 362274,
       "num": 300486,
       "word": "你的工资刚够花还是能照顾到家人",
@@ -5473,6 +5497,14 @@
       "onboard_time": 1709358813,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 358971,
+      "num": 318402,
+      "word": "iPhone16渲染图",
+      "onboard_time": 1709767404,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 357674,
@@ -5817,14 +5849,6 @@
       "onboard_time": 1709261732,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 340416,
-      "num": 318402,
-      "word": "iPhone16渲染图",
-      "onboard_time": 1709767404,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 339320,
@@ -6529,6 +6553,14 @@
       "onboard_time": 1709434228,
       "rank": 22,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 298347,
+      "num": 298347,
+      "word": "直播王毅回答中外记者提问",
+      "onboard_time": 1709777249,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 298248,
@@ -7507,6 +7539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 256495,
+      "num": 241849,
+      "word": "药明康德",
+      "onboard_time": 1709776828,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 255931,
       "num": 208766,
       "word": "周星驰将为新片女足海选素人",
@@ -7881,6 +7921,22 @@
       "onboard_time": 1709566172,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242386,
+      "num": 241732,
+      "word": "越来越多年轻人开始山野穿行",
+      "onboard_time": 1709776110,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 242198,
+      "num": 242198,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1709776290,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 241452,
@@ -10635,6 +10691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182813,
+      "num": 182813,
+      "word": "王一博登VOGUE英国",
+      "onboard_time": 1709776352,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182751,
       "num": 182751,
       "word": "seventeen仁川场",
@@ -11611,6 +11675,14 @@
       "category": "电影,综艺"
     },
     {
+      "raw_hot": 167785,
+      "num": 183078,
+      "word": "建议增加学生抑郁症体检项目",
+      "onboard_time": 1709775211,
+      "rank": 39,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 167548,
       "num": 167548,
       "word": "京东涨近16%",
@@ -11721,14 +11793,6 @@
       "onboard_time": 1709681424,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 166164,
-      "num": 166164,
-      "word": "建议增加学生抑郁症体检项目",
-      "onboard_time": 1709775211,
-      "rank": 39,
-      "category": "国内时政,教育"
     },
     {
       "raw_hot": 166134,
@@ -13171,6 +13235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146953,
+      "num": 146953,
+      "word": "主动把床单铺好的猫妈妈",
+      "onboard_time": 1709776531,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 146800,
       "num": 146800,
       "word": "AG对战RNGM",
@@ -13867,6 +13939,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 137898,
+      "num": 137898,
+      "word": "为什么很多人不爱用标点符号",
+      "onboard_time": 1709777368,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137859,
       "num": 137859,
       "word": "热辣滚烫",
@@ -14081,6 +14161,14 @@
       "onboard_time": 1709376515,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135742,
+      "num": 135742,
+      "word": "这是二十岁的通病吗",
+      "onboard_time": 1709777490,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 135715,
@@ -16099,6 +16187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107168,
+      "num": 107168,
+      "word": "中国资产集体拉涨",
+      "onboard_time": 1709777669,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 107075,
       "num": 107075,
       "word": "外交部回应外籍人员移动支付难问题",
@@ -16179,6 +16275,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 105419,
+      "num": 105419,
+      "word": "可以买贵的但是不能买贵了",
+      "onboard_time": 1709777791,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105192,
       "num": 105192,
       "word": "南北走位",
@@ -16225,6 +16329,14 @@
       "onboard_time": 1709307571,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104290,
+      "num": 104290,
+      "word": "男子喝酒撞车后买了两个卤蛋一杯白酒",
+      "onboard_time": 1709777791,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104213,
