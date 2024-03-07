@@ -1,0 +1,410 @@
+{
+  "runTime": 1709792589263,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2349194,
+        "num": 2349194,
+        "word": "明天放半天假",
+        "onboard_time": 1709786793,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1122407,
+        "num": 1122407,
+        "word": "向佐向吴镇宇道歉称下次不敢了",
+        "onboard_time": 1709790510,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59667,
+        "num": 746608,
+        "word": "两会观察 向新而行",
+        "onboard_time": 1709781928,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 609297,
+        "num": 609297,
+        "word": "南航回应乘客往飞机发动机扔硬币",
+        "onboard_time": 1709788176,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107063,
+        "num": 553231,
+        "word": "代表谈越剧新龙门客栈破圈",
+        "onboard_time": 1709791233,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 518232,
+        "num": 518232,
+        "word": "凑凑火锅人均消费高于海底捞",
+        "onboard_time": 1709789793,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 493916,
+        "num": 493916,
+        "word": "免签",
+        "onboard_time": 1709784333,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 448066,
+        "num": 448066,
+        "word": "退税到账",
+        "onboard_time": 1709780849,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 413356,
+        "num": 413356,
+        "word": "与凤行",
+        "onboard_time": 1709788414,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110604,
+        "num": 410456,
+        "word": "王毅回答了哪些热点问题",
+        "onboard_time": 1709791233,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1669889,
+        "num": 401812,
+        "word": "李诞爆改",
+        "onboard_time": 1709787272,
+        "rank": 10,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 809289,
+        "num": 388500,
+        "word": "娜诺瘦脱相",
+        "onboard_time": 1709791294,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 799800,
+        "num": 376150,
+        "word": "为什么月经前身体和心情都很糟糕",
+        "onboard_time": 1709789671,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 641712,
+        "num": 365872,
+        "word": "王一博Jennie同框图",
+        "onboard_time": 1709787334,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24603,
+        "num": 358566,
+        "word": "时装周趋势解读",
+        "onboard_time": 1709791233,
+        "rank": 14,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 350875,
+        "num": 350875,
+        "word": "女子假扮闺蜜近十年诈骗闺蜜亲妈300万",
+        "onboard_time": 1709779291,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302532,
+        "num": 302532,
+        "word": "60亿资金抄底药明康德",
+        "onboard_time": 1709789613,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 301918,
+        "num": 301918,
+        "word": "陈绮贞二次出庭",
+        "onboard_time": 1709788714,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248928,
+        "num": 248928,
+        "word": "陈桂林同款手表卖断货",
+        "onboard_time": 1709789251,
+        "rank": 18,
+        "category": "电影,财经"
+      },
+      {
+        "raw_hot": 205872,
+        "num": 205872,
+        "word": "贾玲中国影史第4个票房百亿女演员",
+        "onboard_time": 1709782892,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 466710,
+        "num": 205862,
+        "word": "贾玲张小斐影后成双",
+        "onboard_time": 1709787453,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 407735,
+        "num": 202378,
+        "word": "男朋友不愿意体检",
+        "onboard_time": 1709789075,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 394299,
+        "num": 200459,
+        "word": "李现向粉丝道歉",
+        "onboard_time": 1709777310,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350518,
+        "num": 197284,
+        "word": "诺一霓娜近照",
+        "onboard_time": 1709790391,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 239667,
+        "num": 194829,
+        "word": "外婆偷偷塞给我一个没有红包的红包",
+        "onboard_time": 1709789012,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 841973,
+        "num": 191622,
+        "word": "喜茶",
+        "onboard_time": 1709791595,
+        "rank": 25,
+        "category": "美食,游戏"
+      },
+      {
+        "raw_hot": 189796,
+        "num": 189796,
+        "word": "王毅说这场人道灾难是文明的耻辱",
+        "onboard_time": 1709781209,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187559,
+        "num": 187559,
+        "word": "这是我的岛",
+        "onboard_time": 1709791351,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186530,
+        "num": 186530,
+        "word": "魏大勋回国",
+        "onboard_time": 1709785474,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185156,
+        "num": 185156,
+        "word": "建议国家全面禁止未成年人网游",
+        "onboard_time": 1709737653,
+        "rank": 29,
+        "category": "国内时政,游戏"
+      },
+      {
+        "raw_hot": 183143,
+        "num": 183143,
+        "word": "五条悟画风变了",
+        "onboard_time": 1709792012,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 179281,
+        "num": 179281,
+        "word": "睡觉时身体为什么会突然抖一下",
+        "onboard_time": 1709784388,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177929,
+        "num": 177929,
+        "word": "麦田农夫 五月天音源",
+        "onboard_time": 1709784210,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176235,
+        "num": 176235,
+        "word": "王毅对提问记者说我看过你跳科目三",
+        "onboard_time": 1709784033,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172628,
+        "num": 172628,
+        "word": "杨幂 再见姐姐",
+        "onboard_time": 1709780310,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169009,
+        "num": 169009,
+        "word": "王一博谈新爱好",
+        "onboard_time": 1709791051,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166881,
+        "num": 166881,
+        "word": "可以买贵的但是不能买贵了",
+        "onboard_time": 1709777791,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158833,
+        "num": 158833,
+        "word": "勇士35分大胜雄鹿",
+        "onboard_time": 1709792192,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147858,
+        "num": 147858,
+        "word": "不得擅自对孕期女职工调岗降薪",
+        "onboard_time": 1709783732,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147569,
+        "num": 147569,
+        "word": "珀莱雅",
+        "onboard_time": 1709792131,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 146198,
+        "num": 146198,
+        "word": "詹姆斯湖人生涯9000分",
+        "onboard_time": 1709790991,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144788,
+        "num": 144788,
+        "word": "花海说能再早两年打KPL就好了",
+        "onboard_time": 1709792312,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140887,
+        "num": 140887,
+        "word": "猎冰结局 离谱",
+        "onboard_time": 1709783130,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139261,
+        "num": 139261,
+        "word": "迟子建称董宇辉荐书效果出乎意料",
+        "onboard_time": 1709790092,
+        "rank": 43,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 139028,
+        "num": 139028,
+        "word": "工资低但是想留下来的城市",
+        "onboard_time": 1709780251,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131814,
+        "num": 131814,
+        "word": "赵丽颖林更新与凤行北美定档",
+        "onboard_time": 1709785232,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129352,
+        "num": 129352,
+        "word": "咒术回战",
+        "onboard_time": 1709787516,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 129188,
+        "num": 129188,
+        "word": "与凤行发布会来了",
+        "onboard_time": 1709790273,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125992,
+        "num": 125992,
+        "word": "女孩子做自己就好",
+        "onboard_time": 1709789491,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120076,
+        "num": 120076,
+        "word": "为什么最后我选择不打工了",
+        "onboard_time": 1709792555,
+        "rank": 49,
+        "category": "读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全国各族各界妇女致以节日祝贺#"
+    }
+  }
+}
