@@ -1,6 +1,6 @@
 {
   "startTime": 1709828457134,
-  "endTime": 1709846148165,
+  "endTime": 1709847265772,
   "band_list": [
     {
       "raw_hot": 795367,
@@ -388,7 +388,7 @@
     },
     {
       "raw_hot": 68432,
-      "num": 16302,
+      "num": 16361,
       "word": "普京称人类只有靠父母出生这一种方式",
       "onboard_time": 1709840356,
       "rank": 30,
@@ -531,20 +531,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18876,
+      "num": 18876,
+      "word": "女子带着骗子转来的20万直奔派出所",
+      "onboard_time": 1709841556,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18824,
+      "num": 18824,
+      "word": "大学生 商家你再装呢",
+      "onboard_time": 1709842156,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 16232,
       "num": 16232,
       "word": "林一周也吻戏",
       "onboard_time": 1709841195,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15458,
-      "num": 15458,
-      "word": "大学生 商家你再装呢",
-      "onboard_time": 1709842156,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 15107,
@@ -567,14 +575,6 @@
       "num": 14354,
       "word": "学生带锅碗瓢盆野炊唤醒了谁的童年",
       "onboard_time": 1709843596,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11324,
-      "num": 13452,
-      "word": "女子带着骗子转来的20万直奔派出所",
-      "onboard_time": 1709841556,
       "rank": 49,
       "category": "社会新闻"
     }
