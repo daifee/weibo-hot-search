@@ -1,0 +1,410 @@
+{
+  "runTime": 1709773908591,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1394140,
+        "num": 1394140,
+        "word": "建议国家全面禁止未成年人网游",
+        "onboard_time": 1709737653,
+        "rank": 0,
+        "category": "国内时政,游戏"
+      },
+      {
+        "raw_hot": 510352,
+        "num": 510352,
+        "word": "安藤樱 感觉和贾玲已经是朋友了",
+        "onboard_time": 1709771612,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75152,
+        "num": 496061,
+        "word": "从政府工作报告看中国经济新动力",
+        "onboard_time": 1709728350,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1787150,
+        "num": 494226,
+        "word": "东方树叶",
+        "onboard_time": 1709771493,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 576067,
+        "num": 493789,
+        "word": "回南天取快递 像到了天庭",
+        "onboard_time": 1709736873,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 492303,
+        "num": 492303,
+        "word": "建议对伤人犬只饲养者追刑责",
+        "onboard_time": 1709772033,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 491948,
+        "num": 491948,
+        "word": "你猜为什么我们认识却不是好友",
+        "onboard_time": 1709767166,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 472049,
+        "num": 472049,
+        "word": "曾茂朝去世",
+        "onboard_time": 1709769752,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 467640,
+        "num": 467640,
+        "word": "刘亦菲 原来努力是可以被看到的",
+        "onboard_time": 1709772393,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171952,
+        "num": 463939,
+        "word": "3月7日两会日程",
+        "onboard_time": 1709769810,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 765319,
+        "num": 459119,
+        "word": "杨幂考北电是孤注一掷",
+        "onboard_time": 1709768067,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 642977,
+        "num": 453473,
+        "word": "你会好好待我们娘十三个吧",
+        "onboard_time": 1709769150,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 626737,
+        "num": 445133,
+        "word": "00后开始拒绝月经羞耻",
+        "onboard_time": 1709767706,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 596087,
+        "num": 433816,
+        "word": "25岁女生独立后报复性补偿自己童年遗憾",
+        "onboard_time": 1709772272,
+        "rank": 13,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 571921,
+        "num": 428952,
+        "word": "男员工误入女厕10秒被解雇",
+        "onboard_time": 1709739753,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506184,
+        "num": 422000,
+        "word": "为什么退烧没几天又发烧了",
+        "onboard_time": 1709767224,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 484082,
+        "num": 415082,
+        "word": "00后小伙被骗缅甸每天工作17小时",
+        "onboard_time": 1709748918,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411220,
+        "num": 411220,
+        "word": "所有人都做了头发不告诉魏若来",
+        "onboard_time": 1709771197,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374465,
+        "num": 374465,
+        "word": "霸哥停播",
+        "onboard_time": 1709770532,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 366100,
+        "num": 366100,
+        "word": "医生熬夜后是怎么补救的",
+        "onboard_time": 1709770354,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 354008,
+        "num": 354008,
+        "word": "唐探2游乐园尺度",
+        "onboard_time": 1709734953,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318402,
+        "num": 318402,
+        "word": "iPhone16渲染图",
+        "onboard_time": 1709767404,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 269479,
+        "num": 269479,
+        "word": "胡兵预言成真",
+        "onboard_time": 1709765660,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268086,
+        "num": 268086,
+        "word": "B太打假代购护肤品",
+        "onboard_time": 1709767586,
+        "rank": 23,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 241744,
+        "num": 241744,
+        "word": "魏大勋神级4秒镜头",
+        "onboard_time": 1709739273,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217674,
+        "num": 217674,
+        "word": "黄奕曝光明星饮食状况",
+        "onboard_time": 1709773292,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213006,
+        "num": 213006,
+        "word": "小杨哥们出海外国人的钱好赚吗",
+        "onboard_time": 1709767466,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 212650,
+        "num": 212650,
+        "word": "狮子座其实没有那么慕强",
+        "onboard_time": 1709768307,
+        "rank": 27,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 202831,
+        "num": 202831,
+        "word": "安妮海瑟薇新片",
+        "onboard_time": 1709772931,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201803,
+        "num": 201803,
+        "word": "代表反对让学生逢雨逢雪停课",
+        "onboard_time": 1709733451,
+        "rank": 29,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 199594,
+        "num": 199594,
+        "word": "呼吁遏制超长加班隐形加班",
+        "onboard_time": 1709772754,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193300,
+        "num": 193300,
+        "word": "女子被鸡啄伤送进ICU抢救2个月",
+        "onboard_time": 1709747779,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184483,
+        "num": 184483,
+        "word": "单身女生买公寓可行吗",
+        "onboard_time": 1709767346,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177252,
+        "num": 177252,
+        "word": "人的气运和磁场真的太重要了",
+        "onboard_time": 1709767526,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172374,
+        "num": 172374,
+        "word": "雷军称全力以赴把小米汽车干好干成",
+        "onboard_time": 1709770650,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 170497,
+        "num": 170497,
+        "word": "难哄",
+        "onboard_time": 1709771435,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156150,
+        "num": 156150,
+        "word": "回南天惊现除湿神猫",
+        "onboard_time": 1709769931,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152721,
+        "num": 152721,
+        "word": "家门口被放了五毛钱",
+        "onboard_time": 1709733933,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148066,
+        "num": 148066,
+        "word": "京东涨近16%",
+        "onboard_time": 1709767586,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 147085,
+        "num": 147085,
+        "word": "李庚希辣妹妆",
+        "onboard_time": 1709773716,
+        "rank": 39,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 146610,
+        "num": 146610,
+        "word": "Ale喊话Uzi",
+        "onboard_time": 1709767766,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141091,
+        "num": 141091,
+        "word": "女生千万要小心青纱帐",
+        "onboard_time": 1709727390,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135826,
+        "num": 135826,
+        "word": "胡先煦演技",
+        "onboard_time": 1709773171,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132131,
+        "num": 132131,
+        "word": "去参加聚餐发现对面坐的是小狗",
+        "onboard_time": 1709769333,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120639,
+        "num": 120639,
+        "word": "程序员下班做偶像",
+        "onboard_time": 1709735554,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116009,
+        "num": 116009,
+        "word": "东北是真养人啊",
+        "onboard_time": 1709771134,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111487,
+        "num": 111487,
+        "word": "赵丽颖专栏",
+        "onboard_time": 1709772574,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110316,
+        "num": 110316,
+        "word": "今年全国两会第二场委员通道",
+        "onboard_time": 1709769689,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110155,
+        "num": 110155,
+        "word": "在哪一刻意识到自己年纪不小了",
+        "onboard_time": 1709771915,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106628,
+        "num": 106628,
+        "word": "新质生产力与你我息息相关",
+        "onboard_time": 1709772634,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望政协委员#"
+    }
+  }
+}
