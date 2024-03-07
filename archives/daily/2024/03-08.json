@@ -1,6 +1,6 @@
 {
   "startTime": 1709828457134,
-  "endTime": 1709842652050,
+  "endTime": 1709843658573,
   "band_list": [
     {
       "raw_hot": 795367,
@@ -387,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68432,
+      "num": 16302,
+      "word": "普京称人类只有靠父母出生这一种方式",
+      "onboard_time": 1709840356,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 64001,
       "num": 64001,
       "word": "时代少年团接力女团舞",
@@ -409,14 +417,6 @@
       "onboard_time": 1709823271,
       "rank": 48,
       "category": "作品衍生,游戏"
-    },
-    {
-      "raw_hot": 59911,
-      "num": 16272,
-      "word": "普京称人类只有靠父母出生这一种方式",
-      "onboard_time": 1709840356,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 54819,
@@ -459,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 39033,
+      "num": 16293,
+      "word": "骑手都给小区备注了些什么",
+      "onboard_time": 1709840235,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 36293,
       "num": 31878,
       "word": "小伙上班用不惯26键用9键键盘代替",
@@ -473,14 +481,6 @@
       "onboard_time": 1709808993,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 33557,
-      "num": 16222,
-      "word": "骑手都给小区备注了些什么",
-      "onboard_time": 1709840235,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 30583,
@@ -531,12 +531,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15767,
-      "num": 15767,
+      "raw_hot": 16232,
+      "num": 16232,
       "word": "林一周也吻戏",
       "onboard_time": 1709841195,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15458,
+      "num": 15458,
+      "word": "大学生 商家你再装呢",
+      "onboard_time": 1709842156,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 15107,
@@ -547,18 +555,18 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 13351,
-      "num": 13351,
-      "word": "大学生 商家你再装呢",
-      "onboard_time": 1709842156,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 13350,
       "num": 13350,
       "word": "唱螃蟹歌和诗经的合唱团师出同门",
       "onboard_time": 1709840056,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11794,
+      "num": 14354,
+      "word": "学生带锅碗瓢盆野炊唤醒了谁的童年",
+      "onboard_time": 1709843596,
       "rank": 49,
       "category": "社会新闻"
     }
