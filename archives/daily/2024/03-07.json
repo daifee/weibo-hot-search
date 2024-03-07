@@ -1,6 +1,6 @@
 {
   "startTime": 1709742142797,
-  "endTime": 1709781354389,
+  "endTime": 1709782447367,
   "band_list": [
     {
       "raw_hot": 1787150,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1683412,
-      "num": 264671,
+      "num": 286412,
       "word": "李现向粉丝道歉",
       "onboard_time": 1709777310,
       "rank": 20,
@@ -43,12 +43,36 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 1279527,
+      "num": 1279527,
+      "word": "退税到账",
+      "onboard_time": 1709780849,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1231929,
+      "num": 1231929,
+      "word": "中国对瑞士等6国试行免签政策",
+      "onboard_time": 1709781153,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1040305,
       "num": 1040305,
       "word": "王毅四问美国",
       "onboard_time": 1709779349,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1002809,
+      "num": 1002809,
+      "word": "女子假扮闺蜜近十年诈骗闺蜜亲妈300万",
+      "onboard_time": 1709779291,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 995752,
@@ -107,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 698547,
-      "num": 274198,
-      "word": "女子假扮闺蜜近十年诈骗闺蜜亲妈300万",
-      "onboard_time": 1709779291,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 660483,
       "num": 560745,
       "word": "回南天取快递 像到了天庭",
@@ -123,12 +139,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 655453,
-      "num": 655453,
+      "raw_hot": 657294,
+      "num": 657294,
       "word": "可以买贵的但是不能买贵了",
       "onboard_time": 1709777791,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 646508,
+      "num": 417832,
+      "word": "杨幂 再见姐姐",
+      "onboard_time": 1709780310,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 642977,
@@ -203,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 504632,
+      "num": 400569,
+      "word": "边伯贤泡泡瘫痪了",
+      "onboard_time": 1709780969,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 501900,
       "num": 501900,
       "word": "医生熬夜后是怎么补救的",
@@ -228,7 +260,7 @@
     },
     {
       "raw_hot": 482455,
-      "num": 272649,
+      "num": 312234,
       "word": "药明康德",
       "onboard_time": 1709776828,
       "rank": 18,
@@ -252,7 +284,7 @@
     },
     {
       "raw_hot": 462026,
-      "num": 268599,
+      "num": 302783,
       "word": "差点亲到张凌赫",
       "onboard_time": 1709776172,
       "rank": 12,
@@ -260,11 +292,19 @@
     },
     {
       "raw_hot": 452671,
-      "num": 318402,
+      "num": 390876,
       "word": "iPhone16渲染图",
       "onboard_time": 1709767404,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 431686,
+      "num": 431686,
+      "word": "王毅说这场人道灾难是文明的耻辱",
+      "onboard_time": 1709781209,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 413526,
@@ -281,14 +321,6 @@
       "onboard_time": 1709734953,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 406609,
-      "num": 269482,
-      "word": "杨幂 再见姐姐",
-      "onboard_time": 1709780310,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 379095,
@@ -331,12 +363,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 348394,
+      "num": 280640,
+      "word": "工资低但是想留下来的城市",
+      "onboard_time": 1709780251,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346505,
       "num": 268086,
       "word": "B太打假代购护肤品",
       "onboard_time": 1709767586,
       "rank": 31,
       "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 340445,
+      "num": 340445,
+      "word": "王鹤棣沈月桃花坞同框",
+      "onboard_time": 1709781029,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 335314,
@@ -355,6 +403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 324513,
+      "num": 324513,
+      "word": "王毅说迟早会看到全家福",
+      "onboard_time": 1709781812,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 317177,
       "num": 317177,
       "word": "钟薛高售价从60元降到2.5元",
@@ -369,6 +425,14 @@
       "onboard_time": 1709778628,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 304524,
+      "num": 278864,
+      "word": "王一博穿粉",
+      "onboard_time": 1709782173,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 303043,
@@ -387,28 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299226,
-      "num": 266286,
-      "word": "边伯贤泡泡瘫痪了",
-      "onboard_time": 1709780969,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 285858,
       "num": 285858,
       "word": "6科室6天6夜成功救回羊水栓塞产妇",
       "onboard_time": 1709733814,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275028,
-      "num": 275028,
-      "word": "王鹤棣沈月桃花坞同框",
-      "onboard_time": 1709781029,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 270065,
@@ -427,14 +475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 264336,
-      "num": 264336,
-      "word": "工资低但是想留下来的城市",
-      "onboard_time": 1709780251,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 263160,
       "num": 263160,
       "word": "呼吁遏制超长加班隐形加班",
@@ -443,12 +483,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 258047,
-      "num": 258047,
-      "word": "退税到账",
-      "onboard_time": 1709780849,
-      "rank": 23,
-      "category": "财经"
+      "raw_hot": 256654,
+      "num": 256654,
+      "word": "光与夜之恋",
+      "onboard_time": 1709780730,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 252434,
@@ -507,14 +547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234657,
-      "num": 234657,
-      "word": "光与夜之恋",
-      "onboard_time": 1709780730,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 228911,
       "num": 228911,
       "word": "娜扎玩梗",
@@ -547,6 +579,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 220649,
+      "num": 220649,
+      "word": "王毅说不能再允许谁拳头大谁说了算",
+      "onboard_time": 1709780610,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 214301,
       "num": 214301,
       "word": "难哄",
@@ -563,12 +603,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 210755,
-      "num": 210755,
-      "word": "王毅说不能再允许谁拳头大谁说了算",
-      "onboard_time": 1709780610,
-      "rank": 30,
-      "category": "国内时政"
+      "raw_hot": 206474,
+      "num": 206474,
+      "word": "胡一天张婧仪妆造",
+      "onboard_time": 1709781928,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 202831,
@@ -627,14 +667,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 179874,
-      "num": 179874,
-      "word": "中国对瑞士等6国试行免签政策",
-      "onboard_time": 1709781153,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 179607,
       "num": 179607,
       "word": "为什么很多人不爱用标点符号",
@@ -665,6 +697,14 @@
       "onboard_time": 1709695294,
       "rank": 16,
       "category": "情感,社会新闻"
+    },
+    {
+      "raw_hot": 170520,
+      "num": 170520,
+      "word": "纵容台独就是挑战中国主权",
+      "onboard_time": 1709781153,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 170175,
@@ -707,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166366,
+      "num": 166366,
+      "word": "刘亦菲提裙边",
+      "onboard_time": 1709781928,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165288,
       "num": 165288,
       "word": "颖儿带女儿拍汉服写真",
@@ -724,7 +772,7 @@
     },
     {
       "raw_hot": 161410,
-      "num": 213908,
+      "num": 315477,
       "word": "什么是消毒级卫生巾",
       "onboard_time": 1709781029,
       "rank": 29,
@@ -745,6 +793,14 @@
       "onboard_time": 1709764881,
       "rank": 19,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 159066,
+      "num": 159066,
+      "word": "不允许以所谓实力地位把国家分成三六九等",
+      "onboard_time": 1709780909,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 156642,
@@ -771,6 +827,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 148016,
+      "num": 148016,
+      "word": "灿烂的她终极预告",
+      "onboard_time": 1709781992,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146953,
       "num": 146953,
       "word": "主动把床单铺好的猫妈妈",
@@ -779,19 +843,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145935,
-      "num": 145935,
-      "word": "纵容台独就是挑战中国主权",
-      "onboard_time": 1709781153,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 141828,
-      "num": 141828,
-      "word": "不允许以所谓实力地位把国家分成三六九等",
-      "onboard_time": 1709780909,
-      "rank": 38,
+      "raw_hot": 141838,
+      "num": 141838,
+      "word": "王毅谈台湾问题的底线",
+      "onboard_time": 1709781812,
+      "rank": 44,
       "category": "国内时政"
     },
     {
@@ -801,14 +857,6 @@
       "onboard_time": 1709740290,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139979,
-      "num": 139979,
-      "word": "王毅说这场人道灾难是文明的耻辱",
-      "onboard_time": 1709781209,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 139472,
@@ -953,6 +1001,14 @@
       "onboard_time": 1709739511,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117298,
+      "num": 117298,
+      "word": "陈楚生苏州演唱会售罄",
+      "onboard_time": 1709782290,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 116009,
@@ -1163,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75337,
+      "num": 265776,
+      "word": "虞书欣美好日常分享",
+      "onboard_time": 1709781693,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74274,
       "num": 74274,
       "word": "种地吧",
@@ -1177,6 +1241,14 @@
       "onboard_time": 1709742505,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70155,
+      "num": 1004009,
+      "word": "两会观察 向新而行",
+      "onboard_time": 1709781928,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 70080,
@@ -1249,6 +1321,14 @@
       "onboard_time": 1709743344,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 60229,
+      "num": 112071,
+      "word": "从政府工作报告看中国新图景",
+      "onboard_time": 1709781750,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 57090,
