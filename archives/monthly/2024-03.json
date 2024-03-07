@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709818452257,
+  "endTime": 1709821007100,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -1579,6 +1579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 872567,
+      "num": 247925,
+      "word": "小S因公公去世停工一周",
+      "onboard_time": 1709817931,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 872398,
       "num": 321764,
       "word": "菲律宾",
@@ -1961,6 +1969,14 @@
       "onboard_time": 1709367271,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 779646,
+      "num": 230656,
+      "word": "研0喊了导师一晚上老鼠",
+      "onboard_time": 1709819252,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 778027,
@@ -2987,6 +3003,14 @@
       "category": "美食,游戏"
     },
     {
+      "raw_hot": 622350,
+      "num": 278509,
+      "word": "山河四省高中生的十六岁",
+      "onboard_time": 1709816129,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 622090,
       "num": 294029,
       "word": "iPad什么时候出",
@@ -3377,6 +3401,14 @@
       "onboard_time": 1709358990,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 574126,
+      "num": 233356,
+      "word": "金价持续暴涨建行紧急公告",
+      "onboard_time": 1709820333,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 574080,
@@ -5059,6 +5091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431935,
+      "num": 232581,
+      "word": "香奈儿内场座位图",
+      "onboard_time": 1709819134,
+      "rank": 16,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 431386,
       "num": 431386,
       "word": "建议推动建立父亲育儿假制度",
@@ -5193,14 +5233,6 @@
       "onboard_time": 1709374230,
       "rank": 27,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 418638,
-      "num": 278509,
-      "word": "山河四省高中生的十六岁",
-      "onboard_time": 1709816129,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 418536,
@@ -5556,7 +5588,7 @@
     },
     {
       "raw_hot": 393426,
-      "num": 209992,
+      "num": 231781,
       "word": "向佐评论李蠕蠕",
       "onboard_time": 1709808871,
       "rank": 20,
@@ -5945,6 +5977,14 @@
       "onboard_time": 1709442689,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 370944,
+      "num": 370944,
+      "word": "正确称体重的方法",
+      "onboard_time": 1709809951,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 370613,
@@ -6571,14 +6611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 335568,
-      "num": 335568,
-      "word": "正确称体重的方法",
-      "onboard_time": 1709809951,
-      "rank": 38,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 335314,
       "num": 335314,
       "word": "95后女生的工作是带薪撸小老虎",
@@ -7043,6 +7075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 310248,
+      "num": 310248,
+      "word": "胡先煦晒花少团打call视频",
+      "onboard_time": 1709817810,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309236,
       "num": 261693,
       "word": "能忍住不扣美甲的都是狠人",
@@ -7177,6 +7217,14 @@
       "onboard_time": 1709694510,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 302936,
+      "num": 235354,
+      "word": "周也晒美甲",
+      "onboard_time": 1709816671,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 302843,
@@ -8531,14 +8579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 247925,
-      "num": 247925,
-      "word": "小S因公公去世停工一周",
-      "onboard_time": 1709817931,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 246909,
       "num": 204406,
       "word": "种地吧生活直播",
@@ -8987,14 +9027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235354,
-      "num": 235354,
-      "word": "周也晒美甲",
-      "onboard_time": 1709816671,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 235235,
       "num": 411858,
       "word": "重庆一公司三八节连续3年放6天",
@@ -9097,6 +9129,14 @@
       "onboard_time": 1709622755,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 229994,
+      "num": 229994,
+      "word": "轻舟已过万重山",
+      "onboard_time": 1709819733,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 229982,
@@ -10587,6 +10627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201578,
+      "num": 201578,
+      "word": "下腹赘肉高效铲平训练",
+      "onboard_time": 1709819073,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 201481,
       "num": 198584,
       "word": "泰民SM合约到期不续约",
@@ -10835,14 +10883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197725,
-      "num": 197725,
-      "word": "胡先煦晒花少团打call视频",
-      "onboard_time": 1709817810,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197652,
       "num": 719212,
       "word": "全国两会五大看点",
@@ -10937,6 +10977,14 @@
       "onboard_time": 1709264972,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196630,
+      "num": 167839,
+      "word": "这对妈宝女来说真的是绝鲨",
+      "onboard_time": 1709819915,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 196614,
@@ -11155,6 +11203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193737,
+      "num": 193737,
+      "word": "时代少年团接力女团舞",
+      "onboard_time": 1709819252,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193645,
       "num": 214531,
       "word": "樊振东孙颖莎将出席抽签仪式",
@@ -11297,6 +11353,14 @@
       "onboard_time": 1709537849,
       "rank": 28,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 191356,
+      "num": 191356,
+      "word": "女程序员收到公司防脱发大礼包",
+      "onboard_time": 1709818832,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191342,
@@ -13707,6 +13771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159071,
+      "num": 159071,
+      "word": "韩国一个苹果约15元",
+      "onboard_time": 1709820273,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159066,
       "num": 159066,
       "word": "不允许以所谓实力地位把国家分成三六九等",
@@ -14241,6 +14313,14 @@
       "onboard_time": 1709717972,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153488,
+      "num": 153488,
+      "word": "点读机女孩术后7天插管笑着报平安",
+      "onboard_time": 1709819434,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 153465,
@@ -16795,6 +16875,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 124291,
+      "num": 124291,
+      "word": "建议房地产推行无理由退房机制",
+      "onboard_time": 1709820453,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 124117,
       "num": 124117,
       "word": "ChatGPT论文修改指令",
@@ -17225,6 +17313,14 @@
       "onboard_time": 1709299053,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119159,
+      "num": 119159,
+      "word": "我话说在前面",
+      "onboard_time": 1709820273,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 119089,
@@ -18723,12 +18819,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90443,
+      "num": 90443,
+      "word": "AI遇上自动驾驶一整个期待住了",
+      "onboard_time": 1709820573,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 90319,
       "num": 90319,
       "word": "LGD公示处罚Haichao",
       "onboard_time": 1709680343,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89848,
+      "num": 89848,
+      "word": "上班打卡机器比我自拍还好看",
+      "onboard_time": 1709818713,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 89766,

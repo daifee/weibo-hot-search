@@ -1,6 +1,6 @@
 {
   "startTime": 1709742142797,
-  "endTime": 1709818452257,
+  "endTime": 1709821007100,
   "band_list": [
     {
       "raw_hot": 2630466,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 872567,
+      "num": 247925,
+      "word": "小S因公公去世停工一周",
+      "onboard_time": 1709817931,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 870037,
       "num": 346991,
       "word": "孩子一年级被劝退该怎么办",
@@ -241,6 +249,14 @@
       "onboard_time": 1709733451,
       "rank": 6,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 779646,
+      "num": 230656,
+      "word": "研0喊了导师一晚上老鼠",
+      "onboard_time": 1709819252,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 758319,
@@ -371,6 +387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 622350,
+      "num": 278509,
+      "word": "山河四省高中生的十六岁",
+      "onboard_time": 1709816129,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 621399,
       "num": 621399,
       "word": "贾玲中国影史第4个票房百亿女演员",
@@ -441,6 +465,14 @@
       "onboard_time": 1709777791,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 574126,
+      "num": 233356,
+      "word": "金价持续暴涨建行紧急公告",
+      "onboard_time": 1709820333,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 573897,
@@ -723,19 +755,19 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 431935,
+      "num": 232581,
+      "word": "香奈儿内场座位图",
+      "onboard_time": 1709819134,
+      "rank": 16,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 425148,
       "num": 250364,
       "word": "是周四也是周五",
       "onboard_time": 1709809170,
       "rank": 15,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 418638,
-      "num": 278509,
-      "word": "山河四省高中生的十六岁",
-      "onboard_time": 1709816129,
-      "rank": 18,
       "category": "情感"
     },
     {
@@ -796,7 +828,7 @@
     },
     {
       "raw_hot": 393426,
-      "num": 209992,
+      "num": 231781,
       "word": "向佐评论李蠕蠕",
       "onboard_time": 1709808871,
       "rank": 20,
@@ -857,6 +889,14 @@
       "onboard_time": 1709770532,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 370944,
+      "num": 370944,
+      "word": "正确称体重的方法",
+      "onboard_time": 1709809951,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 367658,
@@ -923,14 +963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 335568,
-      "num": 335568,
-      "word": "正确称体重的方法",
-      "onboard_time": 1709809951,
-      "rank": 38,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 335314,
       "num": 335314,
       "word": "95后女生的工作是带薪撸小老虎",
@@ -971,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 310248,
+      "num": 310248,
+      "word": "胡先煦晒花少团打call视频",
+      "onboard_time": 1709817810,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309236,
       "num": 261693,
       "word": "能忍住不扣美甲的都是狠人",
@@ -993,6 +1033,14 @@
       "onboard_time": 1709727390,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 302936,
+      "num": 235354,
+      "word": "周也晒美甲",
+      "onboard_time": 1709816671,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 302843,
@@ -1163,14 +1211,6 @@
       "category": "电影,财经"
     },
     {
-      "raw_hot": 247925,
-      "num": 247925,
-      "word": "小S因公公去世停工一周",
-      "onboard_time": 1709817931,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 245084,
       "num": 245084,
       "word": "金秀贤金智媛新闻图",
@@ -1243,20 +1283,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 235354,
-      "num": 235354,
-      "word": "周也晒美甲",
-      "onboard_time": 1709816671,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 235235,
       "num": 411858,
       "word": "重庆一公司三八节连续3年放6天",
       "onboard_time": 1709802571,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229994,
+      "num": 229994,
+      "word": "轻舟已过万重山",
+      "onboard_time": 1709819733,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 228911,
@@ -1483,6 +1523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201578,
+      "num": 201578,
+      "word": "下腹赘肉高效铲平训练",
+      "onboard_time": 1709819073,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 199953,
       "num": 199953,
       "word": "罗盘文化",
@@ -1499,12 +1547,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 197725,
-      "num": 197725,
-      "word": "胡先煦晒花少团打call视频",
-      "onboard_time": 1709817810,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 196630,
+      "num": 167839,
+      "word": "这对妈宝女来说真的是绝鲨",
+      "onboard_time": 1709819915,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 196034,
@@ -1555,6 +1603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193737,
+      "num": 193737,
+      "word": "时代少年团接力女团舞",
+      "onboard_time": 1709819252,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193130,
       "num": 193130,
       "word": "国王vs湖人",
@@ -1569,6 +1625,14 @@
       "onboard_time": 1709792012,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 191356,
+      "num": 191356,
+      "word": "女程序员收到公司防脱发大礼包",
+      "onboard_time": 1709818832,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191269,
@@ -1987,6 +2051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159071,
+      "num": 159071,
+      "word": "韩国一个苹果约15元",
+      "onboard_time": 1709820273,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159066,
       "num": 159066,
       "word": "不允许以所谓实力地位把国家分成三六九等",
@@ -2049,6 +2121,14 @@
       "onboard_time": 1709811688,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153488,
+      "num": 153488,
+      "word": "点读机女孩术后7天插管笑着报平安",
+      "onboard_time": 1709819434,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 153255,
@@ -2483,6 +2563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124291,
+      "num": 124291,
+      "word": "建议房地产推行无理由退房机制",
+      "onboard_time": 1709820453,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123595,
       "num": 123595,
       "word": "CBA",
@@ -2544,6 +2632,14 @@
       "word": "猫咪和兔兔关系也太好了吧",
       "onboard_time": 1709794110,
       "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 119159,
+      "num": 119159,
+      "word": "我话说在前面",
+      "onboard_time": 1709820273,
+      "rank": 40,
       "category": "情感"
     },
     {
@@ -2835,11 +2931,27 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 90443,
+      "num": 90443,
+      "word": "AI遇上自动驾驶一整个期待住了",
+      "onboard_time": 1709820573,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 90346,
       "num": 90346,
       "word": "同事在工位上养水果",
       "onboard_time": 1709725293,
       "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 89848,
+      "num": 89848,
+      "word": "上班打卡机器比我自拍还好看",
+      "onboard_time": 1709818713,
+      "rank": 48,
       "category": "幽默"
     },
     {
