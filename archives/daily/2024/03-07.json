@@ -1,6 +1,6 @@
 {
   "startTime": 1709742142797,
-  "endTime": 1709806605920,
+  "endTime": 1709807762394,
   "band_list": [
     {
       "raw_hot": 2630466,
@@ -11,19 +11,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2165159,
+      "num": 399121,
+      "word": "男子上班浏览色情网站被开除辩称电脑中毒",
+      "onboard_time": 1709801190,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2151351,
       "num": 2151351,
       "word": "农夫山泉客服回应东方树叶包装",
       "onboard_time": 1709784753,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2148147,
-      "num": 399121,
-      "word": "男子上班浏览色情网站被开除辩称电脑中毒",
-      "onboard_time": 1709801190,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -105,6 +105,14 @@
       "onboard_time": 1709792847,
       "rank": 19,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 1325600,
+      "num": 323848,
+      "word": "生三胎奖励10万已有人拿到",
+      "onboard_time": 1709806051,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1231929,
@@ -859,6 +867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 296248,
+      "num": 150074,
+      "word": "钟美美小妹语文3.5分",
+      "onboard_time": 1709806955,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 292482,
       "num": 292482,
       "word": "魏大勋回国",
@@ -947,12 +963,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 253611,
-      "num": 253611,
-      "word": "生三胎奖励10万已有人拿到",
-      "onboard_time": 1709806051,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 253704,
+      "num": 149916,
+      "word": "为什么垃圾车上会挂着毛绒娃娃",
+      "onboard_time": 1709807192,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 252822,
@@ -1083,6 +1099,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 223244,
+      "num": 223244,
+      "word": "青海玉树发生5.5级地震",
+      "onboard_time": 1709807492,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222667,
       "num": 222667,
       "word": "ive香港",
@@ -1123,6 +1147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217789,
+      "num": 411858,
+      "word": "重庆一公司三八节连续3年放6天",
+      "onboard_time": 1709802571,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217220,
       "num": 217220,
       "word": "小杨哥回应减少直播带货",
@@ -1161,14 +1193,6 @@
       "onboard_time": 1709726430,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 213668,
-      "num": 411858,
-      "word": "重庆一公司三八节连续3年放6天",
-      "onboard_time": 1709802571,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211453,
@@ -1232,6 +1256,22 @@
       "word": "胡一天张婧仪妆造",
       "onboard_time": 1709781928,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206136,
+      "num": 206136,
+      "word": "妇女节放假应该是上午还是下午",
+      "onboard_time": 1709807252,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 204915,
+      "num": 204915,
+      "word": "网剧别对我动心",
+      "onboard_time": 1709806893,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -1489,6 +1529,14 @@
       "onboard_time": 1709785832,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 171865,
+      "num": 171865,
+      "word": "练壶铃摇摆1个月大腿围减了5CM",
+      "onboard_time": 1709807492,
+      "rank": 26,
+      "category": "运动健身"
     },
     {
       "raw_hot": 170826,
@@ -1803,6 +1851,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 143756,
+      "num": 143756,
+      "word": "香菜 我重生了",
+      "onboard_time": 1709806472,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141311,
       "num": 141311,
       "word": "魏大勋晒看秀照",
@@ -1987,6 +2043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128681,
+      "num": 128681,
+      "word": "孩子一年级被劝退该怎么办",
+      "onboard_time": 1709807730,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 128500,
       "num": 128500,
       "word": "娜然官宣加盟最强大脑",
@@ -2083,6 +2147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118244,
+      "num": 243628,
+      "word": "珀莱雅妇女节营销翻车了吗",
+      "onboard_time": 1709805093,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 117375,
       "num": 117375,
       "word": "大理寺少卿游 竹马败给命运",
@@ -2131,20 +2203,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 113222,
+      "num": 113222,
+      "word": "女生就应该满脑子都是前途",
+      "onboard_time": 1709806650,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 112047,
       "num": 112047,
       "word": "陈情令旅游专线",
       "onboard_time": 1709728170,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 111859,
-      "num": 111859,
-      "word": "香菜 我重生了",
-      "onboard_time": 1709806472,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 111544,
@@ -2225,14 +2297,6 @@
       "onboard_time": 1709801071,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107733,
-      "num": 243628,
-      "word": "珀莱雅妇女节营销翻车了吗",
-      "onboard_time": 1709805093,
-      "rank": 18,
-      "category": "美妆"
     },
     {
       "raw_hot": 107394,
@@ -2625,6 +2689,14 @@
       "onboard_time": 1709750957,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 16479,
+      "num": 138056,
+      "word": "央企新能源要给市场上强度了",
+      "onboard_time": 1709807252,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 13900,
