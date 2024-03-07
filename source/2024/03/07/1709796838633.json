@@ -1,0 +1,410 @@
+{
+  "runTime": 1709796838633,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1741784,
+        "num": 1741784,
+        "word": "明天放半天假",
+        "onboard_time": 1709786793,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1326862,
+        "num": 1326862,
+        "word": "乐视面试简历无需填写年龄和婚育信息",
+        "onboard_time": 1709792847,
+        "rank": 1,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 30749,
+        "num": 697704,
+        "word": "从政府工作报告看中国新图景",
+        "onboard_time": 1709781750,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 619060,
+        "num": 619060,
+        "word": "林书豪老婆怀孕",
+        "onboard_time": 1709795493,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99300,
+        "num": 561152,
+        "word": "代表谈越剧新龙门客栈破圈",
+        "onboard_time": 1709791233,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 509133,
+        "num": 509133,
+        "word": "卢昱晓工作室回应共创视频争议",
+        "onboard_time": 1709793809,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508711,
+        "num": 508711,
+        "word": "孙颖莎入围巴黎奥运会最值得关注女运动员",
+        "onboard_time": 1709794530,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 416290,
+        "num": 416290,
+        "word": "张学友演唱会取消",
+        "onboard_time": 1709795849,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 410967,
+        "num": 410967,
+        "word": "珀莱雅",
+        "onboard_time": 1709792131,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 95195,
+        "num": 405444,
+        "word": "王毅回答了哪些热点问题",
+        "onboard_time": 1709791233,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1300483,
+        "num": 402940,
+        "word": "李诞爆改",
+        "onboard_time": 1709787272,
+        "rank": 10,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 843913,
+        "num": 394947,
+        "word": "为什么月经前身体和心情都很糟糕",
+        "onboard_time": 1709789671,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 804042,
+        "num": 383082,
+        "word": "向佐向吴镇宇道歉称下次不敢了",
+        "onboard_time": 1709790510,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 768546,
+        "num": 378420,
+        "word": "娜诺瘦脱相",
+        "onboard_time": 1709791294,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 758319,
+        "num": 368511,
+        "word": "当奶奶告诉她的iPad运行很慢时",
+        "onboard_time": 1709793512,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365248,
+        "num": 365248,
+        "word": "凑凑火锅人均消费高于海底捞",
+        "onboard_time": 1709789793,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 359941,
+        "num": 359941,
+        "word": "王一博Jennie同框图",
+        "onboard_time": 1709787334,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281186,
+        "num": 281186,
+        "word": "女子假扮闺蜜近十年诈骗闺蜜亲妈300万",
+        "onboard_time": 1709779291,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280108,
+        "num": 280108,
+        "word": "丹麦公交车竟然是中国产的",
+        "onboard_time": 1709794654,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277769,
+        "num": 277769,
+        "word": "南航回应乘客往飞机发动机扔硬币",
+        "onboard_time": 1709788176,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338903,
+        "num": 269471,
+        "word": "诺一霓娜近照",
+        "onboard_time": 1709790391,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 257745,
+        "num": 257745,
+        "word": "退税到账",
+        "onboard_time": 1709780849,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 226663,
+        "num": 235164,
+        "word": "男朋友不愿意体检",
+        "onboard_time": 1709789075,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226119,
+        "num": 231387,
+        "word": "能忍住不扣美甲的都是狠人",
+        "onboard_time": 1709794654,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224308,
+        "num": 229407,
+        "word": "李现向粉丝道歉",
+        "onboard_time": 1709777310,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227985,
+        "num": 227985,
+        "word": "同事买的衣服一个月了不拆吊签",
+        "onboard_time": 1709794293,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209623,
+        "num": 209623,
+        "word": "尼康收购RED",
+        "onboard_time": 1709796393,
+        "rank": 26,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 204788,
+        "num": 204788,
+        "word": "与凤行",
+        "onboard_time": 1709788414,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197837,
+        "num": 197837,
+        "word": "贾玲张小斐影后成双",
+        "onboard_time": 1709787453,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195748,
+        "num": 195748,
+        "word": "60亿资金抄底药明康德",
+        "onboard_time": 1709789613,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225251,
+        "num": 195746,
+        "word": "越长大越没有二手羞耻了",
+        "onboard_time": 1709795735,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193050,
+        "num": 193050,
+        "word": "肖战米兰巴黎看秀世趋第一",
+        "onboard_time": 1709793512,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174587,
+        "num": 174587,
+        "word": "免签",
+        "onboard_time": 1709784333,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165030,
+        "num": 165030,
+        "word": "贾玲中国影史第4个票房百亿女演员",
+        "onboard_time": 1709782892,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156949,
+        "num": 156949,
+        "word": "舅舅把路灯装在了家里",
+        "onboard_time": 1709793154,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154076,
+        "num": 154076,
+        "word": "詹姆斯受伤",
+        "onboard_time": 1709793392,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152016,
+        "num": 152016,
+        "word": "12岁女孩自学烘焙4年解锁100种美食",
+        "onboard_time": 1709795251,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146311,
+        "num": 146311,
+        "word": "陈绮贞二次出庭",
+        "onboard_time": 1709788714,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142588,
+        "num": 142588,
+        "word": "为什么最后我选择不打工了",
+        "onboard_time": 1709792555,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 141311,
+        "num": 141311,
+        "word": "魏大勋晒看秀照",
+        "onboard_time": 1709796330,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133757,
+        "num": 133757,
+        "word": "李永钦ysl品牌大使",
+        "onboard_time": 1709795551,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131830,
+        "num": 131830,
+        "word": "五条悟画风变了",
+        "onboard_time": 1709792012,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 128042,
+        "num": 128042,
+        "word": "数码宝贝爷青回",
+        "onboard_time": 1709796689,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126947,
+        "num": 126947,
+        "word": "DYG主教练望月草",
+        "onboard_time": 1709793809,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116477,
+        "num": 116477,
+        "word": "杨幂 再见姐姐",
+        "onboard_time": 1709780310,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114445,
+        "num": 114445,
+        "word": "建议国家全面禁止未成年人网游",
+        "onboard_time": 1709737653,
+        "rank": 45,
+        "category": "国内时政,游戏"
+      },
+      {
+        "raw_hot": 114378,
+        "num": 114378,
+        "word": "外婆偷偷塞给我一个没有红包的红包",
+        "onboard_time": 1709789012,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113961,
+        "num": 113961,
+        "word": "种地吧 收记煎饼摊又营业啦",
+        "onboard_time": 1709795251,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111811,
+        "num": 112888,
+        "word": "外科医生的手有多稳",
+        "onboard_time": 1709795312,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112614,
+        "num": 112614,
+        "word": "王毅对提问记者说我看过你跳科目三",
+        "onboard_time": 1709784033,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望政协委员#"
+    }
+  }
+}
