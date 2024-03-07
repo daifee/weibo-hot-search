@@ -1,0 +1,410 @@
+{
+  "runTime": 1709810081557,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 729756,
+        "num": 729756,
+        "word": "妇女节放假是法定的半天节假日",
+        "onboard_time": 1709800589,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483915,
+        "num": 483915,
+        "word": "青海玉树发生5.5级地震",
+        "onboard_time": 1709807492,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6149,
+        "num": 451207,
+        "word": "新质生产力与你我息息相关",
+        "onboard_time": 1709772634,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 423445,
+        "num": 423445,
+        "word": "网剧别对我动心",
+        "onboard_time": 1709806893,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39264,
+        "num": 409986,
+        "word": "代表谈越剧新龙门客栈破圈",
+        "onboard_time": 1709791233,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 402952,
+        "num": 402952,
+        "word": "香港买金每克便宜70元",
+        "onboard_time": 1709804609,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 257517,
+        "num": 257517,
+        "word": "海带为什么要打结",
+        "onboard_time": 1709798369,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 129912,
+        "num": 256704,
+        "word": "长沙公司妇女节给女员工拍写真",
+        "onboard_time": 1709803051,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235235,
+        "num": 256510,
+        "word": "重庆一公司三八节连续3年放6天",
+        "onboard_time": 1709802571,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33542,
+        "num": 255258,
+        "word": "王毅回答了哪些热点问题",
+        "onboard_time": 1709791233,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1728806,
+        "num": 254402,
+        "word": "生三胎奖励10万已有人拿到",
+        "onboard_time": 1709806051,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1684870,
+        "num": 253905,
+        "word": "男子上班浏览色情网站被开除辩称电脑中毒",
+        "onboard_time": 1709801190,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617814,
+        "num": 252730,
+        "word": "钟美美小妹语文3.5分",
+        "onboard_time": 1709806955,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 478386,
+        "num": 252110,
+        "word": "李诞爆改",
+        "onboard_time": 1709787272,
+        "rank": 13,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 453424,
+        "num": 251665,
+        "word": "霍启刚再回应梅西事件",
+        "onboard_time": 1709803652,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425148,
+        "num": 250364,
+        "word": "是周四也是周五",
+        "onboard_time": 1709809170,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 361232,
+        "num": 249849,
+        "word": "孙千 容貌焦虑",
+        "onboard_time": 1709808993,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249287,
+        "num": 249287,
+        "word": "孩子一年级被劝退该怎么办",
+        "onboard_time": 1709807730,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 248645,
+        "num": 248645,
+        "word": "浪姐5宿舍",
+        "onboard_time": 1709802810,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202787,
+        "num": 202787,
+        "word": "王鹤棣被王传君按雪里",
+        "onboard_time": 1709802691,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 384188,
+        "num": 202297,
+        "word": "向佐评论李蠕蠕",
+        "onboard_time": 1709808871,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198742,
+        "num": 198742,
+        "word": "姿态Rita同框解说",
+        "onboard_time": 1709797411,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196225,
+        "num": 196225,
+        "word": "明天放半天假",
+        "onboard_time": 1709786793,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189128,
+        "num": 189128,
+        "word": "用壶铃一个月瘦了十斤",
+        "onboard_time": 1709808511,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 187130,
+        "num": 187130,
+        "word": "小日子 婆婆大闹公司",
+        "onboard_time": 1709800289,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186338,
+        "num": 186338,
+        "word": "妇女节放假应该是上午还是下午",
+        "onboard_time": 1709807252,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169949,
+        "num": 169949,
+        "word": "娜诺瘦脱相",
+        "onboard_time": 1709791294,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165269,
+        "num": 165269,
+        "word": "炎亚纶新剧导演制作人被判刑",
+        "onboard_time": 1709808032,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163732,
+        "num": 163732,
+        "word": "恶意投诉73万起代表建议共享黑名单",
+        "onboard_time": 1709809113,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 354778,
+        "num": 163354,
+        "word": "长子走稳 次子走险",
+        "onboard_time": 1709797651,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32694,
+        "num": 162290,
+        "word": "央企新能源要给市场上强度了",
+        "onboard_time": 1709807252,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 271706,
+        "num": 162220,
+        "word": "为什么垃圾车上会挂着毛绒娃娃",
+        "onboard_time": 1709807192,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162151,
+        "num": 162151,
+        "word": "米哈游2023年收入超过网易",
+        "onboard_time": 1709805810,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172037,
+        "num": 158860,
+        "word": "看见不认识的字不要随便拍照",
+        "onboard_time": 1709809531,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165872,
+        "num": 156327,
+        "word": "永远不知道同学口中自己的八卦多离谱",
+        "onboard_time": 1709808812,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150724,
+        "num": 150724,
+        "word": "张凌赫开始推理吧从崩溃到享受",
+        "onboard_time": 1709809353,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150632,
+        "num": 150632,
+        "word": "女生就应该满脑子都是前途",
+        "onboard_time": 1709806650,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147276,
+        "num": 147276,
+        "word": "为什么甘肃麻辣烫只能在甘肃",
+        "onboard_time": 1709807790,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145220,
+        "num": 145220,
+        "word": "正确称体重的方法",
+        "onboard_time": 1709809951,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 131396,
+        "num": 131396,
+        "word": "当奶奶告诉她的iPad运行很慢时",
+        "onboard_time": 1709793512,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130088,
+        "num": 130088,
+        "word": "向佐向吴镇宇道歉称下次不敢了",
+        "onboard_time": 1709790510,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129114,
+        "num": 129114,
+        "word": "回南天的布偶猫",
+        "onboard_time": 1709809711,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124799,
+        "num": 124799,
+        "word": "张婧仪19岁至23岁颜值变化",
+        "onboard_time": 1709801551,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124474,
+        "num": 124474,
+        "word": "练壶铃摇摆1个月大腿围减了5CM",
+        "onboard_time": 1709807492,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 123497,
+        "num": 123497,
+        "word": "日本麦当劳薯条味香水",
+        "onboard_time": 1709809113,
+        "rank": 44,
+        "category": "美妆,美食"
+      },
+      {
+        "raw_hot": 121701,
+        "num": 121701,
+        "word": "广西的水果价格冒犯到我了",
+        "onboard_time": 1709804669,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112927,
+        "num": 112927,
+        "word": "真正意义上的啃老",
+        "onboard_time": 1709799692,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109705,
+        "num": 109705,
+        "word": "王者朵莉亚破晓新形象",
+        "onboard_time": 1709804609,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107760,
+        "num": 107760,
+        "word": "71岁覃阿姨走秀时装周",
+        "onboard_time": 1709809951,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101027,
+        "num": 101027,
+        "word": "张学友演唱会取消",
+        "onboard_time": 1709795849,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
