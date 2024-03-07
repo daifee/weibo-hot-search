@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709800502399,
+  "endTime": 1709802915503,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 1700956,
-      "num": 603686,
+      "num": 811516,
       "word": "长子走稳 次子走险",
       "onboard_time": 1709797651,
       "rank": 3,
@@ -1475,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 909153,
+      "num": 909153,
+      "word": "海带为什么要打结",
+      "onboard_time": 1709798369,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 902228,
       "num": 902228,
       "word": "刘昊然男大味",
@@ -1609,6 +1617,14 @@
       "onboard_time": 1709357370,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 856682,
+      "num": 247815,
+      "word": "男子上班浏览色情网站被开除辩称电脑中毒",
+      "onboard_time": 1709801190,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 854341,
@@ -1993,6 +2009,14 @@
       "onboard_time": 1709343688,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 761885,
+      "num": 761885,
+      "word": "妇女节放假是法定的半天节假日",
+      "onboard_time": 1709800589,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 760373,
@@ -3011,6 +3035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 612826,
+      "num": 376306,
+      "word": "庾澄庆回应哈利出道传闻",
+      "onboard_time": 1709797953,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 609241,
       "num": 321902,
       "word": "陈泽迟到",
@@ -3417,14 +3449,6 @@
       "onboard_time": 1709604086,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 561987,
-      "num": 376306,
-      "word": "庾澄庆回应哈利出道传闻",
-      "onboard_time": 1709797953,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 560592,
@@ -4171,6 +4195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 486641,
+      "num": 486641,
+      "word": "小日子 婆婆大闹公司",
+      "onboard_time": 1709800289,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 486604,
       "num": 275194,
       "word": "李泰民签约BPM",
@@ -4448,6 +4480,14 @@
       "word": "官方通报村支书坐拥60亩地",
       "onboard_time": 1709369133,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464382,
+      "num": 341414,
+      "word": "渤海大学通报一男生进女厕偷拍",
+      "onboard_time": 1709798071,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -4905,14 +4945,6 @@
       "onboard_time": 1709284232,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 430617,
-      "num": 308632,
-      "word": "渤海大学通报一男生进女厕偷拍",
-      "onboard_time": 1709798071,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 428239,
@@ -5779,6 +5811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367658,
+      "num": 367658,
+      "word": "华为P70系列手机延期发布",
+      "onboard_time": 1709800289,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 367612,
       "num": 273301,
       "word": "张颂文早期在深圳当导游",
@@ -6073,14 +6113,6 @@
       "onboard_time": 1709368651,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 351944,
-      "num": 263338,
-      "word": "海带为什么要打结",
-      "onboard_time": 1709798369,
-      "rank": 31,
-      "category": "科学科普"
     },
     {
       "raw_hot": 351871,
@@ -7579,6 +7611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273894,
+      "num": 273894,
+      "word": "委员称小学课间休息应改为30分钟",
+      "onboard_time": 1709799270,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 272932,
       "num": 370433,
       "word": "陈漫镜头下的奶茶",
@@ -8019,14 +8059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 258571,
-      "num": 258571,
-      "word": "委员称小学课间休息应改为30分钟",
-      "onboard_time": 1709799270,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 258457,
       "num": 258457,
       "word": "姿态Rita同框解说",
@@ -8201,6 +8233,14 @@
       "onboard_time": 1709452172,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 251491,
+      "num": 251491,
+      "word": "真正意义上的啃老",
+      "onboard_time": 1709799692,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 251378,
@@ -9131,6 +9171,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 220292,
+      "num": 220292,
+      "word": "胃是个很敏感的器官",
+      "onboard_time": 1709801252,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 220253,
       "num": 220253,
       "word": "学校教室每人头顶一个专属摄像头",
@@ -9185,6 +9233,14 @@
       "onboard_time": 1709649996,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219195,
+      "num": 219195,
+      "word": "王鹤棣被王传君按雪里",
+      "onboard_time": 1709802691,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 218965,
@@ -9651,6 +9707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210885,
+      "num": 210885,
+      "word": "叠纸心意旗舰店",
+      "onboard_time": 1709800711,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210557,
       "num": 208791,
       "word": "吴磊直播",
@@ -9865,6 +9929,14 @@
       "onboard_time": 1709435850,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206706,
+      "num": 206706,
+      "word": "张婧仪19岁至23岁颜值变化",
+      "onboard_time": 1709801551,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 206550,
@@ -11819,14 +11891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 178144,
-      "num": 178144,
-      "word": "小日子 婆婆大闹公司",
-      "onboard_time": 1709800289,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 178042,
       "num": 178042,
       "word": "宋茜的皮肤状态",
@@ -11937,6 +12001,14 @@
       "onboard_time": 1709510308,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176292,
+      "num": 151936,
+      "word": "原来女生真的从小就懂拍照",
+      "onboard_time": 1709801731,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 176266,
@@ -12835,14 +12907,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 163694,
-      "num": 163694,
-      "word": "真正意义上的啃老",
-      "onboard_time": 1709799692,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 163425,
       "num": 163425,
       "word": "前田敦子 浪姐",
@@ -13043,14 +13107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 161181,
-      "num": 161181,
-      "word": "华为P70系列手机延期发布",
-      "onboard_time": 1709800289,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 161160,
       "num": 161160,
       "word": "白衣爆料DYG新教练十六",
@@ -13185,6 +13241,14 @@
       "onboard_time": 1709600731,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159130,
+      "num": 159130,
+      "word": "什么公司可以上四休三",
+      "onboard_time": 1709801371,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 159066,
@@ -14001,6 +14065,14 @@
       "onboard_time": 1709533888,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149084,
+      "num": 149084,
+      "word": "明日方舟 水晶箭行动",
+      "onboard_time": 1709801011,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 149071,
@@ -15523,6 +15595,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 130996,
+      "num": 130996,
+      "word": "浪姐5宿舍",
+      "onboard_time": 1709802810,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130969,
       "num": 130969,
       "word": "腾势D9",
@@ -15617,6 +15697,14 @@
       "onboard_time": 1709762475,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129819,
+      "num": 129819,
+      "word": "欧阳娜娜娇憨千金感",
+      "onboard_time": 1709801971,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 129806,
@@ -15857,6 +15945,14 @@
       "onboard_time": 1709553813,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128125,
+      "num": 128125,
+      "word": "电视剧小日子",
+      "onboard_time": 1709801011,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 128042,
@@ -16419,6 +16515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121146,
+      "num": 121146,
+      "word": "宿傩黑闪真希",
+      "onboard_time": 1709802029,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 120913,
       "num": 120913,
       "word": "原来我的审美一直都没变",
@@ -16809,6 +16913,14 @@
       "onboard_time": 1709771134,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115886,
+      "num": 115886,
+      "word": "重庆一公司三八节连续3年放6天",
+      "onboard_time": 1709802571,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115819,
@@ -17219,6 +17331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109476,
+      "num": 109476,
+      "word": "赵丽颖与凤行梦回楚乔",
+      "onboard_time": 1709802810,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109361,
       "num": 109361,
       "word": "欧冠八强确定四席",
@@ -17299,6 +17419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108001,
+      "num": 108001,
+      "word": "中国乒协召开专题研讨会",
+      "onboard_time": 1709801071,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107639,
       "num": 107639,
       "word": "顾寻 活该追妻火葬场",
@@ -17316,7 +17444,7 @@
     },
     {
       "raw_hot": 107394,
-      "num": 730857,
+      "num": 770864,
       "word": "代表谈越剧新龙门客栈破圈",
       "onboard_time": 1709791233,
       "rank": 4,
@@ -17612,7 +17740,7 @@
     },
     {
       "raw_hot": 102243,
-      "num": 637397,
+      "num": 816562,
       "word": "2024两会好声音",
       "onboard_time": 1709798432,
       "rank": 2,
@@ -19385,6 +19513,14 @@
       "onboard_time": 1709591358,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 13676,
+      "num": 129838,
+      "word": "价格战卷入高端MPV",
+      "onboard_time": 1709802212,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 13494,
