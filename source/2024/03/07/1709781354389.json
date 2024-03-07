@@ -1,0 +1,410 @@
+{
+  "runTime": 1709781354389,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1040305,
+        "num": 1040305,
+        "word": "王毅四问美国",
+        "onboard_time": 1709779349,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 789075,
+        "num": 789075,
+        "word": "丈夫送妻子黄金锁求辅导孩子别发脾气",
+        "onboard_time": 1709774432,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30236,
+        "num": 710842,
+        "word": "从政府工作报告看中国经济新动力",
+        "onboard_time": 1709728350,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 655453,
+        "num": 655453,
+        "word": "可以买贵的但是不能买贵了",
+        "onboard_time": 1709777791,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 577784,
+        "num": 577784,
+        "word": "男子喝酒撞车后买了两个卤蛋一杯白酒",
+        "onboard_time": 1709777791,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568147,
+        "num": 568147,
+        "word": "刘亦菲 原来努力是可以被看到的",
+        "onboard_time": 1709772393,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 567063,
+        "num": 567063,
+        "word": "直播王毅回答中外记者提问",
+        "onboard_time": 1709777249,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 413526,
+        "num": 413526,
+        "word": "娃哈哈妇女节放半天假加100元餐补",
+        "onboard_time": 1709774671,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306078,
+        "num": 306078,
+        "word": "建议明确规定农村妇女土地权益",
+        "onboard_time": 1709778628,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 275028,
+        "num": 275028,
+        "word": "王鹤棣沈月桃花坞同框",
+        "onboard_time": 1709781029,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 698547,
+        "num": 274198,
+        "word": "女子假扮闺蜜近十年诈骗闺蜜亲妈300万",
+        "onboard_time": 1709779291,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612662,
+        "num": 274166,
+        "word": "建议国家全面禁止未成年人网游",
+        "onboard_time": 1709737653,
+        "rank": 11,
+        "category": "国内时政,游戏"
+      },
+      {
+        "raw_hot": 482455,
+        "num": 272649,
+        "word": "药明康德",
+        "onboard_time": 1709776828,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 270452,
+        "num": 270452,
+        "word": "安藤樱 感觉和贾玲已经是朋友了",
+        "onboard_time": 1709771612,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 452671,
+        "num": 269998,
+        "word": "iPhone16渲染图",
+        "onboard_time": 1709767404,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 406609,
+        "num": 269482,
+        "word": "杨幂 再见姐姐",
+        "onboard_time": 1709780310,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 396177,
+        "num": 268599,
+        "word": "差点亲到张凌赫",
+        "onboard_time": 1709776172,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315373,
+        "num": 267039,
+        "word": "柳智敏说明朗的智敏回来了",
+        "onboard_time": 1709775448,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299226,
+        "num": 266286,
+        "word": "边伯贤泡泡瘫痪了",
+        "onboard_time": 1709780969,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288503,
+        "num": 266052,
+        "word": "男员工误入女厕10秒被解雇",
+        "onboard_time": 1709739753,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1683412,
+        "num": 264671,
+        "word": "李现向粉丝道歉",
+        "onboard_time": 1709777310,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264336,
+        "num": 264336,
+        "word": "工资低但是想留下来的城市",
+        "onboard_time": 1709780251,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261501,
+        "num": 261501,
+        "word": "杨幂考北电是孤注一掷",
+        "onboard_time": 1709768067,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258047,
+        "num": 258047,
+        "word": "退税到账",
+        "onboard_time": 1709780849,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 245084,
+        "num": 245084,
+        "word": "金秀贤金智媛新闻图",
+        "onboard_time": 1709780251,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234657,
+        "num": 234657,
+        "word": "光与夜之恋",
+        "onboard_time": 1709780730,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232112,
+        "num": 232112,
+        "word": "医生熬夜后是怎么补救的",
+        "onboard_time": 1709770354,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 222667,
+        "num": 222667,
+        "word": "ive香港",
+        "onboard_time": 1709778150,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217979,
+        "num": 217979,
+        "word": "95后女生的工作是带薪撸小老虎",
+        "onboard_time": 1709774009,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161410,
+        "num": 213908,
+        "word": "什么是消毒级卫生巾",
+        "onboard_time": 1709781029,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210755,
+        "num": 210755,
+        "word": "王毅说不能再允许谁拳头大谁说了算",
+        "onboard_time": 1709780610,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181112,
+        "num": 181112,
+        "word": "董明珠称钱不重要培养年轻人才最重要",
+        "onboard_time": 1709778270,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179874,
+        "num": 179874,
+        "word": "中国对瑞士等6国试行免签政策",
+        "onboard_time": 1709781153,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176790,
+        "num": 176790,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1709776290,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162117,
+        "num": 162117,
+        "word": "三八节如何实现有效放假",
+        "onboard_time": 1709779230,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160955,
+        "num": 160955,
+        "word": "便秘的人多吃高渣食物",
+        "onboard_time": 1709778869,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 156642,
+        "num": 156642,
+        "word": "男子称农夫山泉产品包装媚日",
+        "onboard_time": 1709780730,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145935,
+        "num": 145935,
+        "word": "纵容台独就是挑战中国主权",
+        "onboard_time": 1709781153,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141828,
+        "num": 141828,
+        "word": "不允许以所谓实力地位把国家分成三六九等",
+        "onboard_time": 1709780909,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139979,
+        "num": 139979,
+        "word": "王毅说这场人道灾难是文明的耻辱",
+        "onboard_time": 1709781209,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136185,
+        "num": 136185,
+        "word": "王一博登VOGUE英国",
+        "onboard_time": 1709776352,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133158,
+        "num": 133158,
+        "word": "赴港买黄金火了",
+        "onboard_time": 1709777971,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131171,
+        "num": 131171,
+        "word": "为什么很多人不爱用标点符号",
+        "onboard_time": 1709777368,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118574,
+        "num": 118574,
+        "word": "3人深夜闻到异味避免了一起爆燃",
+        "onboard_time": 1709774671,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117366,
+        "num": 117366,
+        "word": "魏大勋神级4秒镜头",
+        "onboard_time": 1709739273,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113634,
+        "num": 113634,
+        "word": "药明康德回应称不收集基因数据",
+        "onboard_time": 1709780909,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 111544,
+        "num": 111544,
+        "word": "坚决反对一切强权霸凌行径",
+        "onboard_time": 1709780371,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110893,
+        "num": 110893,
+        "word": "药明系个股集体大跌",
+        "onboard_time": 1709779230,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108337,
+        "num": 108337,
+        "word": "没有按时投喂被一群小狗骂了",
+        "onboard_time": 1709779110,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106914,
+        "num": 106914,
+        "word": "建议对伤人犬只饲养者追刑责",
+        "onboard_time": 1709772033,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平看望政协委员#"
+    }
+  }
+}
