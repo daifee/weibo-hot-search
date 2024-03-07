@@ -1,7 +1,15 @@
 {
   "startTime": 1709742142797,
-  "endTime": 1709788537814,
+  "endTime": 1709789653540,
   "band_list": [
+    {
+      "raw_hot": 2630466,
+      "num": 2630466,
+      "word": "明天放半天假",
+      "onboard_time": 1709786793,
+      "rank": 1,
+      "category": "情感"
+    },
     {
       "raw_hot": 2151351,
       "num": 2151351,
@@ -11,12 +19,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2080806,
-      "num": 2080806,
-      "word": "明天放半天假",
-      "onboard_time": 1709786793,
-      "rank": 1,
-      "category": "情感"
+      "raw_hot": 2088881,
+      "num": 430558,
+      "word": "李诞爆改",
+      "onboard_time": 1709787272,
+      "rank": 10,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 1945860,
@@ -33,14 +41,6 @@
       "onboard_time": 1709771493,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1691026,
-      "num": 430558,
-      "word": "李诞爆改",
-      "onboard_time": 1709787272,
-      "rank": 10,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 1683412,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 963736,
+      "num": 422443,
+      "word": "王一博Jennie同框图",
+      "onboard_time": 1709787334,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 852399,
       "num": 852399,
       "word": "刘亦菲 原来努力是可以被看到的",
@@ -147,14 +155,6 @@
       "category": "国内时政,教育"
     },
     {
-      "raw_hot": 809042,
-      "num": 422443,
-      "word": "王一博Jennie同框图",
-      "onboard_time": 1709787334,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 748260,
       "num": 445133,
       "word": "00后开始拒绝月经羞耻",
@@ -185,6 +185,14 @@
       "onboard_time": 1709736873,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 660283,
+      "num": 660283,
+      "word": "贾玲张小斐影后成双",
+      "onboard_time": 1709787453,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 657294,
@@ -233,14 +241,6 @@
       "onboard_time": 1709783732,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 608509,
-      "num": 608509,
-      "word": "贾玲张小斐影后成双",
-      "onboard_time": 1709787453,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 603185,
@@ -483,6 +483,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 352125,
+      "num": 283417,
+      "word": "睡觉时身体为什么会突然抖一下",
+      "onboard_time": 1709784388,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 348140,
+      "num": 348140,
+      "word": "南航回应乘客往飞机发动机扔硬币",
+      "onboard_time": 1709788176,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346505,
       "num": 268086,
       "word": "B太打假代购护肤品",
@@ -515,20 +531,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 325324,
-      "num": 275624,
-      "word": "睡觉时身体为什么会突然抖一下",
-      "onboard_time": 1709784388,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 317177,
       "num": 317177,
       "word": "钟薛高售价从60元降到2.5元",
       "onboard_time": 1709707169,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 316942,
+      "num": 316942,
+      "word": "陈绮贞二次出庭",
+      "onboard_time": 1709788714,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 306078,
@@ -555,6 +571,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302151,
+      "num": 280938,
+      "word": "男朋友不愿意体检",
+      "onboard_time": 1709789075,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 292482,
+      "num": 292482,
+      "word": "魏大勋回国",
+      "onboard_time": 1709785474,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291721,
       "num": 291721,
       "word": "孙千 愿每个女孩都做自己人生的太阳",
@@ -579,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278177,
+      "num": 278177,
+      "word": "与凤行",
+      "onboard_time": 1709788414,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270065,
       "num": 270065,
       "word": "小杨哥们出海外国人的钱好赚吗",
@@ -601,14 +641,6 @@
       "onboard_time": 1709772754,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 258667,
-      "num": 258667,
-      "word": "魏大勋回国",
-      "onboard_time": 1709785474,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 256654,
@@ -681,6 +713,14 @@
       "onboard_time": 1709774671,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236579,
+      "num": 210588,
+      "word": "外婆偷偷塞给我一个没有红包的红包",
+      "onboard_time": 1709789012,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 228911,
@@ -803,6 +843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199953,
+      "num": 199953,
+      "word": "罗盘文化",
+      "onboard_time": 1709789075,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198544,
       "num": 315477,
       "word": "什么是消毒级卫生巾",
@@ -923,6 +971,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 176595,
+      "num": 176595,
+      "word": "陈桂林同款手表卖断货",
+      "onboard_time": 1709789251,
+      "rank": 36,
+      "category": "电影,财经"
+    },
+    {
       "raw_hot": 176547,
       "num": 176547,
       "word": "男生月薪一万一年存10万",
@@ -1011,12 +1067,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 163822,
-      "num": 163822,
-      "word": "南航回应乘客往飞机发动机扔硬币",
-      "onboard_time": 1709788176,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 163753,
+      "num": 163753,
+      "word": "全国政协十四届二次会议第二次全体会议",
+      "onboard_time": 1709789194,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 162117,
@@ -1025,14 +1081,6 @@
       "onboard_time": 1709779230,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161466,
-      "num": 161466,
-      "word": "与凤行",
-      "onboard_time": 1709788414,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 160955,
@@ -1115,6 +1163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145219,
+      "num": 145219,
+      "word": "女孩子做自己就好",
+      "onboard_time": 1709789491,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144805,
       "num": 144805,
       "word": "三立集体一等功他说要把荣誉归零",
@@ -1153,6 +1209,14 @@
       "onboard_time": 1709778689,
       "rank": 37,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 137375,
+      "num": 137375,
+      "word": "60亿资金抄底药明康德",
+      "onboard_time": 1709789613,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 135826,
@@ -1241,6 +1305,14 @@
       "onboard_time": 1709769689,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 128500,
+      "num": 128500,
+      "word": "娜然官宣加盟最强大脑",
+      "onboard_time": 1709789613,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 125183,
@@ -1435,6 +1507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85787,
+      "num": 362493,
+      "word": "这车把新中式美学狠狠拿捏了",
+      "onboard_time": 1709787875,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 85289,
       "num": 85289,
       "word": "京东2023年全年收入10847亿元",
@@ -1561,14 +1641,6 @@
       "onboard_time": 1709766864,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 64695,
-      "num": 179896,
-      "word": "这车把新中式美学狠狠拿捏了",
-      "onboard_time": 1709787875,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 63015,

@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709788537814,
+  "endTime": 1709789653540,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -75,6 +75,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2630466,
+      "num": 2630466,
+      "word": "明天放半天假",
+      "onboard_time": 1709786793,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2604565,
       "num": 2604565,
       "word": "建议所有单位都拿出岗位给大学生",
@@ -147,12 +155,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2080806,
-      "num": 2080806,
-      "word": "明天放半天假",
-      "onboard_time": 1709786793,
-      "rank": 1,
-      "category": "情感"
+      "raw_hot": 2088881,
+      "num": 430558,
+      "word": "李诞爆改",
+      "onboard_time": 1709787272,
+      "rank": 10,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 2053629,
@@ -345,14 +353,6 @@
       "onboard_time": 1709297193,
       "rank": 1,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1691026,
-      "num": 430558,
-      "word": "李诞爆改",
-      "onboard_time": 1709787272,
-      "rank": 10,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 1686014,
@@ -1315,6 +1315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 963736,
+      "num": 422443,
+      "word": "王一博Jennie同框图",
+      "onboard_time": 1709787334,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 954570,
       "num": 954570,
       "word": "欧阳娜娜最初不支持欧阳娣娣参加泰创",
@@ -1737,14 +1745,6 @@
       "onboard_time": 1709682629,
       "rank": 13,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 809042,
-      "num": 422443,
-      "word": "王一博Jennie同框图",
-      "onboard_time": 1709787334,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 809025,
@@ -2531,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 660283,
+      "num": 660283,
+      "word": "贾玲张小斐影后成双",
+      "onboard_time": 1709787453,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 657914,
       "num": 657914,
       "word": "利率10%银行存款产品火爆",
@@ -2929,14 +2937,6 @@
       "onboard_time": 1709559272,
       "rank": 15,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 608509,
-      "num": 608509,
-      "word": "贾玲张小斐影后成双",
-      "onboard_time": 1709787453,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 608108,
@@ -5859,6 +5859,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 352125,
+      "num": 283417,
+      "word": "睡觉时身体为什么会突然抖一下",
+      "onboard_time": 1709784388,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 352124,
       "num": 352124,
       "word": "沈梦辰粉发",
@@ -5937,6 +5945,14 @@
       "onboard_time": 1709356711,
       "rank": 26,
       "category": "情感,健康医疗"
+    },
+    {
+      "raw_hot": 348140,
+      "num": 348140,
+      "word": "南航回应乘客往飞机发动机扔硬币",
+      "onboard_time": 1709788176,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348029,
@@ -6323,14 +6339,6 @@
       "category": "综艺,综艺"
     },
     {
-      "raw_hot": 325324,
-      "num": 275624,
-      "word": "睡觉时身体为什么会突然抖一下",
-      "onboard_time": 1709784388,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 324529,
       "num": 380449,
       "word": "仙人揉腹",
@@ -6473,6 +6481,14 @@
       "onboard_time": 1709526153,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 316942,
+      "num": 316942,
+      "word": "陈绮贞二次出庭",
+      "onboard_time": 1709788714,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 316854,
@@ -6739,6 +6755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302151,
+      "num": 280938,
+      "word": "男朋友不愿意体检",
+      "onboard_time": 1709789075,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 300741,
       "num": 300741,
       "word": "这家猫咖真是卧龙凤雏",
@@ -6961,6 +6985,14 @@
       "onboard_time": 1709432131,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292482,
+      "num": 292482,
+      "word": "魏大勋回国",
+      "onboard_time": 1709785474,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 292367,
@@ -7241,6 +7273,14 @@
       "onboard_time": 1709469810,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 278177,
+      "num": 278177,
+      "word": "与凤行",
+      "onboard_time": 1709788414,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 277970,
@@ -7769,14 +7809,6 @@
       "onboard_time": 1709604631,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 258667,
-      "num": 258667,
-      "word": "魏大勋回国",
-      "onboard_time": 1709785474,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 258614,
@@ -8377,6 +8409,14 @@
       "onboard_time": 1709725293,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 236579,
+      "num": 210588,
+      "word": "外婆偷偷塞给我一个没有红包的红包",
+      "onboard_time": 1709789012,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 236533,
@@ -10027,6 +10067,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 199953,
+      "num": 199953,
+      "word": "罗盘文化",
+      "onboard_time": 1709789075,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199826,
       "num": 199826,
       "word": "宋亚轩20岁生日企划",
@@ -11563,6 +11611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176595,
+      "num": 176595,
+      "word": "陈桂林同款手表卖断货",
+      "onboard_time": 1709789251,
+      "rank": 36,
+      "category": "电影,财经"
+    },
+    {
       "raw_hot": 176382,
       "num": 176382,
       "word": "内地买家扫货香港楼市",
@@ -12427,12 +12483,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163822,
-      "num": 163822,
-      "word": "南航回应乘客往飞机发动机扔硬币",
-      "onboard_time": 1709788176,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 163753,
+      "num": 163753,
+      "word": "全国政协十四届二次会议第二次全体会议",
+      "onboard_time": 1709789194,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 163425,
@@ -12593,14 +12649,6 @@
       "onboard_time": 1709562995,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 161466,
-      "num": 161466,
-      "word": "与凤行",
-      "onboard_time": 1709788414,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 161403,
@@ -13883,6 +13931,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 145219,
+      "num": 145219,
+      "word": "女孩子做自己就好",
+      "onboard_time": 1709789491,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145179,
       "num": 145179,
       "word": "崩坏星穹铁道 神迹降临",
@@ -14529,6 +14585,14 @@
       "onboard_time": 1709630372,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 137375,
+      "num": 137375,
+      "word": "60亿资金抄底药明康德",
+      "onboard_time": 1709789613,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 137361,
@@ -15273,6 +15337,14 @@
       "onboard_time": 1709534726,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128500,
+      "num": 128500,
+      "word": "娜然官宣加盟最强大脑",
+      "onboard_time": 1709789613,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 128475,
@@ -17403,6 +17475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 85787,
+      "num": 362493,
+      "word": "这车把新中式美学狠狠拿捏了",
+      "onboard_time": 1709787875,
+      "rank": 38,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 85373,
       "num": 85373,
       "word": "女孩公交卡掉进夹缝里司机掏出10块钱",
@@ -17729,14 +17809,6 @@
       "onboard_time": 1709688629,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 64695,
-      "num": 179896,
-      "word": "这车把新中式美学狠狠拿捏了",
-      "onboard_time": 1709787875,
-      "rank": 38,
-      "category": "汽车"
     },
     {
       "raw_hot": 64517,
