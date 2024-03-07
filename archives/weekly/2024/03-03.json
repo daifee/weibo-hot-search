@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709822045654,
+  "endTime": 1709824643301,
   "band_list": [
     {
       "raw_hot": 3203010,
@@ -363,6 +363,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 1494831,
+      "num": 1494831,
+      "word": "金价持续暴涨建行紧急公告",
+      "onboard_time": 1709820333,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1476218,
       "num": 1476218,
       "word": "接收反诈老陈的单位遭大量举报投诉",
@@ -499,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1260978,
-      "num": 1260978,
-      "word": "金价持续暴涨建行紧急公告",
-      "onboard_time": 1709820333,
-      "rank": 15,
-      "category": "财经"
+      "raw_hot": 1265768,
+      "num": 308430,
+      "word": "向佐评论李蠕蠕",
+      "onboard_time": 1709808871,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1260641,
@@ -2003,6 +2011,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 640492,
+      "num": 365174,
+      "word": "轻舟已过万重山",
+      "onboard_time": 1709819733,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 639593,
       "num": 340594,
       "word": "浪五开场 主播癫狂带货感",
@@ -2040,6 +2056,14 @@
       "word": "部分女性及其父母认为彩礼不是卖价钱而是换尊重",
       "onboard_time": 1709453908,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 634296,
+      "num": 210387,
+      "word": "为啥体制内女性找对象越来越难",
+      "onboard_time": 1709821650,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -2739,6 +2763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 526816,
+      "num": 264495,
+      "word": "韩国一个苹果约15元",
+      "onboard_time": 1709820273,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 526763,
       "num": 526763,
       "word": "张拿铁安慰失恋中的女人",
@@ -2921,14 +2953,6 @@
       "onboard_time": 1709713293,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503282,
-      "num": 308430,
-      "word": "向佐评论李蠕蠕",
-      "onboard_time": 1709808871,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 502422,
@@ -4707,6 +4731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 333563,
+      "num": 212007,
+      "word": "瓦利耶娃被俄国家队除名",
+      "onboard_time": 1709824290,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 333503,
       "num": 300428,
       "word": "县城的网红炸鸡月薪3万都吃不起",
@@ -5587,6 +5619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 274710,
+      "num": 211526,
+      "word": "姚安娜新片路透",
+      "onboard_time": 1709823271,
+      "rank": 16,
+      "category": "作品衍生,游戏"
+    },
+    {
       "raw_hot": 274091,
       "num": 251961,
       "word": "下班后邻居叫我煮饭不要这么香",
@@ -5779,14 +5819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264495,
-      "num": 264495,
-      "word": "韩国一个苹果约15元",
-      "onboard_time": 1709820273,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 264483,
       "num": 264483,
       "word": "高危HPV",
@@ -5817,6 +5849,14 @@
       "onboard_time": 1709540428,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263555,
+      "num": 211102,
+      "word": "拿米哈游画师作品去米哈游投简历",
+      "onboard_time": 1709822193,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 263160,
@@ -5905,6 +5945,14 @@
       "onboard_time": 1709611955,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 258973,
+      "num": 172491,
+      "word": "这个户型简直是我的理想型",
+      "onboard_time": 1709822013,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 258805,
@@ -6057,6 +6105,14 @@
       "onboard_time": 1709692110,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252717,
+      "num": 210427,
+      "word": "唐斯半月板撕裂",
+      "onboard_time": 1709822732,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 252434,
@@ -6571,6 +6627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 230652,
+      "num": 170895,
+      "word": "周琦 担架",
+      "onboard_time": 1709823692,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230499,
       "num": 230499,
       "word": "JackeyLove赛后发博",
@@ -6585,14 +6649,6 @@
       "onboard_time": 1709622755,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 229994,
-      "num": 229994,
-      "word": "轻舟已过万重山",
-      "onboard_time": 1709819733,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 229982,
@@ -6835,20 +6891,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 221619,
+      "num": 209664,
+      "word": "金牛座很有自己的主见",
+      "onboard_time": 1709821593,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221476,
       "num": 221476,
       "word": "间谍过家家 次子吃醋",
       "onboard_time": 1709514871,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 221373,
-      "num": 171805,
-      "word": "这个户型简直是我的理想型",
-      "onboard_time": 1709822013,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 221108,
@@ -7339,6 +7395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 208662,
+      "num": 208662,
+      "word": "大哥远 封了一天",
+      "onboard_time": 1709823631,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 208611,
       "num": 175027,
       "word": "全红婵陈芋汐世界杯五连冠",
@@ -7553,6 +7617,14 @@
       "onboard_time": 1709471729,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204174,
+      "num": 204174,
+      "word": "医生收到鲜花笔让全科室沸腾",
+      "onboard_time": 1709824413,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204008,
@@ -8411,14 +8483,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 185646,
-      "num": 185646,
-      "word": "金牛座很有自己的主见",
-      "onboard_time": 1709821593,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 185562,
       "num": 309074,
       "word": "RNG对战TT",
@@ -8545,6 +8609,14 @@
       "onboard_time": 1709463571,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182922,
+      "num": 182922,
+      "word": "白鹿直播",
+      "onboard_time": 1709822553,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 182813,
@@ -9091,6 +9163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172672,
+      "num": 172672,
+      "word": "王一博造型亮点贝雷帽",
+      "onboard_time": 1709822013,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172304,
       "num": 172304,
       "word": "mbti小老头们一定要多去遛弯",
@@ -9281,6 +9361,14 @@
       "onboard_time": 1709786375,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168404,
+      "num": 168404,
+      "word": "别对我动心 哄不好了",
+      "onboard_time": 1709824173,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 168372,
@@ -10187,6 +10275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 155238,
+      "num": 155238,
+      "word": "永安梦 高门贵女和寒门学子",
+      "onboard_time": 1709822132,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154820,
       "num": 154820,
       "word": "女生返校为室友带60多斤特产",
@@ -10441,6 +10537,14 @@
       "onboard_time": 1709809353,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150719,
+      "num": 150719,
+      "word": "需要什么病例才能和你一起玩",
+      "onboard_time": 1709822254,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 150632,
@@ -10841,6 +10945,14 @@
       "onboard_time": 1709738611,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145398,
+      "num": 145398,
+      "word": "原来拉面不是统一只有三片肉",
+      "onboard_time": 1709824112,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 145362,
@@ -11611,14 +11723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133817,
-      "num": 133817,
-      "word": "为啥体制内女性找对象越来越难",
-      "onboard_time": 1709821650,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 133763,
       "num": 133763,
       "word": "伦敦人有属于自己的地铁判官",
@@ -11745,6 +11849,14 @@
       "onboard_time": 1709721510,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131387,
+      "num": 131387,
+      "word": "WBG赢了",
+      "onboard_time": 1709823631,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 131294,
@@ -12201,6 +12313,14 @@
       "onboard_time": 1709733213,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125512,
+      "num": 125512,
+      "word": "白鹿柔美月光妆",
+      "onboard_time": 1709822311,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124864,
@@ -12745,6 +12865,14 @@
       "onboard_time": 1709601569,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 116799,
+      "num": 116799,
+      "word": "檀健次回应格子哥称号",
+      "onboard_time": 1709822611,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 116635,
@@ -13361,14 +13489,6 @@
       "onboard_time": 1709526874,
       "rank": 11,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 103454,
-      "num": 103454,
-      "word": "王一博造型亮点贝雷帽",
-      "onboard_time": 1709822013,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 103289,
