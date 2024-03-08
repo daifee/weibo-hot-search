@@ -1,6 +1,6 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709925257716,
+  "endTime": 1709926493227,
   "band_list": [
     {
       "raw_hot": 1802368,
@@ -243,6 +243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139414,
+      "num": 40555,
+      "word": "李秀满出售SM获5300亿韩元",
+      "onboard_time": 1709923939,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138888,
       "num": 205669,
       "word": "代表建议为适龄女性免费接种HPV疫苗",
@@ -264,14 +272,6 @@
       "word": "檀健次发了23张照片",
       "onboard_time": 1709920100,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 114040,
-      "num": 40555,
-      "word": "李秀满出售SM获5300亿韩元",
-      "onboard_time": 1709923939,
-      "rank": 10,
       "category": "艺人"
     },
     {
