@@ -1,0 +1,410 @@
+{
+  "runTime": 1709901920099,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1024013,
+        "num": 1024013,
+        "word": "胡彦斌回应不唱月光的原因",
+        "onboard_time": 1709896950,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 852793,
+        "num": 852793,
+        "word": "全员加速中",
+        "onboard_time": 1709900308,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32442,
+        "num": 788188,
+        "word": "全国两会她们说出我心声",
+        "onboard_time": 1709882672,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 746531,
+        "num": 746531,
+        "word": "鸟山明年收入达7200万元",
+        "onboard_time": 1709900010,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 492570,
+        "num": 492570,
+        "word": "代表建议为适龄女性免费接种HPV疫苗",
+        "onboard_time": 1709900909,
+        "rank": 4,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 475149,
+        "num": 475149,
+        "word": "雅诗兰黛",
+        "onboard_time": 1709899766,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 432514,
+        "num": 432514,
+        "word": "电视剧小日子定档",
+        "onboard_time": 1709899467,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427335,
+        "num": 427335,
+        "word": "鸟山明曾称妻子是他创作的救星",
+        "onboard_time": 1709899288,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 418609,
+        "num": 418609,
+        "word": "日本单亲妈妈来中国后",
+        "onboard_time": 1709892030,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 381750,
+        "num": 381750,
+        "word": "建议实行未成年人父母弹性上班制",
+        "onboard_time": 1709889630,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999201,
+        "num": 359409,
+        "word": "伊能静 其实他有自己的名字",
+        "onboard_time": 1709898630,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566499,
+        "num": 352417,
+        "word": "鸟山明去世",
+        "onboard_time": 1709867670,
+        "rank": 11,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 331981,
+        "num": 331981,
+        "word": "瘦子Ella新片演情侣",
+        "onboard_time": 1709897970,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 331010,
+        "num": 331010,
+        "word": "时代少年团全员羊角帽",
+        "onboard_time": 1709898088,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 315471,
+        "num": 315471,
+        "word": "代号鸢 你的美工是神",
+        "onboard_time": 1709894428,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 310050,
+        "num": 310050,
+        "word": "大理寺少卿游 半是蜜糖半是伤",
+        "onboard_time": 1709900548,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294378,
+        "num": 294378,
+        "word": "建议取消公务员35岁门槛",
+        "onboard_time": 1709863886,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 288696,
+        "num": 288696,
+        "word": "首款折叠屏iPhone",
+        "onboard_time": 1709885189,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 278960,
+        "num": 278960,
+        "word": "王栎鑫也没抢到票",
+        "onboard_time": 1709891187,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208518,
+        "num": 270825,
+        "word": "樊振东太强了",
+        "onboard_time": 1709894250,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108651,
+        "num": 270524,
+        "word": "领克07首发亮相",
+        "onboard_time": 1709900188,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 360523,
+        "num": 270468,
+        "word": "怀孕前一定要对乳房做全面检查",
+        "onboard_time": 1709884471,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 270300,
+        "num": 270300,
+        "word": "j人和P人的穿搭区别",
+        "onboard_time": 1709899288,
+        "rank": 22,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 240391,
+        "num": 240391,
+        "word": "掉鞋的是粉丝 慌张的是陈丽君",
+        "onboard_time": 1709893409,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217019,
+        "num": 217019,
+        "word": "向佐请摄影师不要在鼻孔下面拍他",
+        "onboard_time": 1709890289,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208467,
+        "num": 208467,
+        "word": "恋爱兄妹",
+        "onboard_time": 1709900788,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191246,
+        "num": 191246,
+        "word": "外交部对鸟山明去世表示哀悼",
+        "onboard_time": 1709884649,
+        "rank": 26,
+        "category": "国内时政,动漫"
+      },
+      {
+        "raw_hot": 189802,
+        "num": 189802,
+        "word": "不用黑袋子装卫生巾也没关系",
+        "onboard_time": 1709901868,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189201,
+        "num": 189201,
+        "word": "我妈切的菜很考验筷子功",
+        "onboard_time": 1709899951,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126795,
+        "num": 177885,
+        "word": "妇女节公司为女生开了一间花店",
+        "onboard_time": 1709891430,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474169,
+        "num": 177225,
+        "word": "樊振东唱LoveStory",
+        "onboard_time": 1709899710,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175728,
+        "num": 175728,
+        "word": "我想和你唱 姐姐真漂亮",
+        "onboard_time": 1709893888,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171853,
+        "num": 171853,
+        "word": "雅诗兰黛称在中国销售的所有产品合规",
+        "onboard_time": 1709891790,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 169475,
+        "num": 169475,
+        "word": "杨紫的学生证",
+        "onboard_time": 1709883688,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166808,
+        "num": 166808,
+        "word": "夏目友人帐 白月光夏目",
+        "onboard_time": 1709899288,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 164028,
+        "num": 164028,
+        "word": "懒人经济催生极简化妆潮",
+        "onboard_time": 1709901330,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 156004,
+        "num": 156004,
+        "word": "虞书欣泪痣名伶妆",
+        "onboard_time": 1709899710,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151326,
+        "num": 151326,
+        "word": "张学友新冠阳性正在家隔离",
+        "onboard_time": 1709885432,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149811,
+        "num": 149811,
+        "word": "大家存一万需要多久",
+        "onboard_time": 1709886212,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87056,
+        "num": 148380,
+        "word": "women有力量",
+        "onboard_time": 1709901631,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147749,
+        "num": 147749,
+        "word": "傅融伟大的脸",
+        "onboard_time": 1709894311,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 147367,
+        "num": 147367,
+        "word": "不用慌张 人生才刚刚开始",
+        "onboard_time": 1709899951,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140771,
+        "num": 140771,
+        "word": "甜茶好帅",
+        "onboard_time": 1709896590,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137865,
+        "num": 137865,
+        "word": "领克07",
+        "onboard_time": 1709895929,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 132395,
+        "num": 132395,
+        "word": "阿拉蕾",
+        "onboard_time": 1709868634,
+        "rank": 44,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 108230,
+        "num": 108230,
+        "word": "电影沙丘2口碑",
+        "onboard_time": 1709898571,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102490,
+        "num": 102490,
+        "word": "雅诗兰黛旗下产品在美国检出高浓度致癌物苯",
+        "onboard_time": 1709893951,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 99105,
+        "num": 99105,
+        "word": "沙丘3",
+        "onboard_time": 1709894670,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91170,
+        "num": 91170,
+        "word": "乡镇女快递员抓小偷救人样样在行",
+        "onboard_time": 1709888191,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85764,
+        "num": 85764,
+        "word": "妇女节放假",
+        "onboard_time": 1709867911,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记首次同新设立的政协界别委员见面#"
+    }
+  }
+}

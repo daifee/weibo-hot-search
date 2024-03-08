@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709901058754,
+  "endTime": 1709901920099,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1475,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 999201,
+      "num": 359409,
+      "word": "伊能静 其实他有自己的名字",
+      "onboard_time": 1709898630,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 995752,
       "num": 995752,
       "word": "丈夫送妻子黄金锁求辅导孩子别发脾气",
@@ -1672,14 +1680,6 @@
       "word": "小S二女儿Lily16岁身材",
       "onboard_time": 1709262450,
       "rank": 7,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 916241,
-      "num": 327654,
-      "word": "伊能静 其实他有自己的名字",
-      "onboard_time": 1709898630,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -2393,6 +2393,14 @@
       "onboard_time": 1709816671,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 746531,
+      "num": 746531,
+      "word": "鸟山明年收入达7200万元",
+      "onboard_time": 1709900010,
+      "rank": 3,
+      "category": "动漫"
     },
     {
       "raw_hot": 745492,
@@ -4467,14 +4475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 520110,
-      "num": 520110,
-      "word": "鸟山明年收入达7200万元",
-      "onboard_time": 1709900010,
-      "rank": 3,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 519696,
       "num": 296114,
       "word": "刘诗诗 大女主",
@@ -4771,6 +4771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 492570,
+      "num": 492570,
+      "word": "代表建议为适龄女性免费接种HPV疫苗",
+      "onboard_time": 1709900909,
+      "rank": 34,
+      "category": "国内时政,健康医疗"
+    },
+    {
       "raw_hot": 492303,
       "num": 492303,
       "word": "建议对伤人犬只饲养者追刑责",
@@ -5009,6 +5017,14 @@
       "onboard_time": 1709780251,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475149,
+      "num": 475149,
+      "word": "雅诗兰黛",
+      "onboard_time": 1709899766,
+      "rank": 6,
+      "category": "美妆"
     },
     {
       "raw_hot": 472877,
@@ -5635,6 +5651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432514,
+      "num": 432514,
+      "word": "电视剧小日子定档",
+      "onboard_time": 1709899467,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 432425,
       "num": 391057,
       "word": "网红自导自演被砸鸡蛋",
@@ -5697,6 +5721,14 @@
       "onboard_time": 1709255192,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427335,
+      "num": 427335,
+      "word": "鸟山明曾称妻子是他创作的救星",
+      "onboard_time": 1709899288,
+      "rank": 14,
+      "category": "动漫"
     },
     {
       "raw_hot": 426965,
@@ -5849,14 +5881,6 @@
       "onboard_time": 1709301095,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416787,
-      "num": 316840,
-      "word": "鸟山明曾称妻子是他创作的救星",
-      "onboard_time": 1709899288,
-      "rank": 14,
-      "category": "动漫"
     },
     {
       "raw_hot": 415863,
@@ -6025,14 +6049,6 @@
       "onboard_time": 1709867368,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 405463,
-      "num": 405463,
-      "word": "雅诗兰黛",
-      "onboard_time": 1709899766,
-      "rank": 6,
-      "category": "美妆"
     },
     {
       "raw_hot": 405351,
@@ -6617,14 +6633,6 @@
       "onboard_time": 1709294128,
       "rank": 13,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 371523,
-      "num": 371523,
-      "word": "电视剧小日子定档",
-      "onboard_time": 1709899467,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 371250,
@@ -7387,6 +7395,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331981,
+      "num": 331981,
+      "word": "瘦子Ella新片演情侣",
+      "onboard_time": 1709897970,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 331010,
+      "num": 331010,
+      "word": "时代少年团全员羊角帽",
+      "onboard_time": 1709898088,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 330870,
       "num": 297952,
       "word": "周也晒美甲",
@@ -7643,14 +7667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 318912,
-      "num": 318912,
-      "word": "时代少年团全员羊角帽",
-      "onboard_time": 1709898088,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 318905,
       "num": 318905,
       "word": "人群中迪丽热巴看了我一眼",
@@ -7851,6 +7867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 310050,
+      "num": 310050,
+      "word": "大理寺少卿游 半是蜜糖半是伤",
+      "onboard_time": 1709900548,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 309659,
       "num": 274795,
       "word": "j人和P人的穿搭区别",
@@ -7929,14 +7953,6 @@
       "onboard_time": 1709359713,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306289,
-      "num": 306289,
-      "word": "瘦子Ella新片演情侣",
-      "onboard_time": 1709897970,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 306096,
@@ -12627,14 +12643,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 191496,
-      "num": 191496,
-      "word": "大理寺少卿游 半是蜜糖半是伤",
-      "onboard_time": 1709900548,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191356,
       "num": 191356,
       "word": "女程序员收到公司防脱发大礼包",
@@ -12769,6 +12777,14 @@
       "onboard_time": 1709737354,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189802,
+      "num": 189802,
+      "word": "不用黑袋子装卫生巾也没关系",
+      "onboard_time": 1709901868,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 189739,
@@ -14945,6 +14961,14 @@
       "onboard_time": 1709558733,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 164028,
+      "num": 164028,
+      "word": "懒人经济催生极简化妆潮",
+      "onboard_time": 1709901330,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 163997,
@@ -20107,14 +20131,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 111992,
-      "num": 166100,
-      "word": "代表建议为适龄女性免费接种HPV疫苗",
-      "onboard_time": 1709900909,
-      "rank": 34,
-      "category": "国内时政,健康医疗"
-    },
-    {
       "raw_hot": 111898,
       "num": 111898,
       "word": "买了新东西你会选择晒出来吗",
@@ -20329,6 +20345,14 @@
       "onboard_time": 1709895088,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 108651,
+      "num": 270524,
+      "word": "领克07首发亮相",
+      "onboard_time": 1709900188,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 108639,
@@ -20561,14 +20585,6 @@
       "onboard_time": 1709450247,
       "rank": 45,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 105360,
-      "num": 136857,
-      "word": "领克07首发亮相",
-      "onboard_time": 1709900188,
-      "rank": 42,
-      "category": "汽车"
     },
     {
       "raw_hot": 105192,
@@ -21313,6 +21329,14 @@
       "onboard_time": 1709418796,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 87056,
+      "num": 148380,
+      "word": "women有力量",
+      "onboard_time": 1709901631,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 86986,
@@ -22460,7 +22484,7 @@
     },
     {
       "raw_hot": 36374,
-      "num": 603399,
+      "num": 788188,
       "word": "全国两会她们说出我心声",
       "onboard_time": 1709882672,
       "rank": 2,
