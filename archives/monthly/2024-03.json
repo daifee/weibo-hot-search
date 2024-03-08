@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709865295642,
+  "endTime": 1709867873932,
   "band_list": [
     {
       "raw_hot": 4791031,
@@ -811,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1263643,
+      "num": 1263643,
+      "word": "建议取消公务员35岁门槛",
+      "onboard_time": 1709863886,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1260641,
       "num": 359468,
       "word": "周处除三害 抄袭",
@@ -1041,6 +1049,14 @@
       "onboard_time": 1709272411,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1139874,
+      "num": 1139874,
+      "word": "鸟山明去世",
+      "onboard_time": 1709867670,
+      "rank": 3,
+      "category": "动漫"
     },
     {
       "raw_hot": 1139564,
@@ -1467,6 +1483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 937198,
+      "num": 937198,
+      "word": "刑法第二十条已被唤醒",
+      "onboard_time": 1709864548,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 928034,
       "num": 574955,
       "word": "金价",
@@ -1755,6 +1779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 849016,
+      "num": 849016,
+      "word": "婚前同居施暴须以家庭成员承担刑事责任",
+      "onboard_time": 1709864786,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 846722,
       "num": 459119,
       "word": "杨幂考北电是孤注一掷",
@@ -1955,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 800801,
+      "num": 800801,
+      "word": "爱奇艺3月片单",
+      "onboard_time": 1709866347,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 798998,
       "num": 798998,
       "word": "徐若晗 导师团全票通过",
@@ -1985,6 +2025,14 @@
       "onboard_time": 1709347711,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 790857,
+      "num": 790857,
+      "word": "劳荣枝案写入最高法工作报告",
+      "onboard_time": 1709863408,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 790728,
@@ -2161,14 +2209,6 @@
       "onboard_time": 1709533527,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 751864,
-      "num": 751864,
-      "word": "劳荣枝案写入最高法工作报告",
-      "onboard_time": 1709863408,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 750543,
@@ -2931,14 +2971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 644172,
-      "num": 644172,
-      "word": "建议取消公务员35岁门槛",
-      "onboard_time": 1709863886,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 644085,
       "num": 391593,
       "word": "王鹤棣爆改王大锤",
@@ -3505,6 +3537,14 @@
       "onboard_time": 1709691688,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 580975,
+      "num": 580975,
+      "word": "盒马降薪",
+      "onboard_time": 1709864486,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 580111,
@@ -5331,6 +5371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 428621,
+      "num": 428621,
+      "word": "24岁女生边工作边考研422分",
+      "onboard_time": 1709864606,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 428239,
       "num": 428239,
       "word": "Kpop县",
@@ -5353,6 +5401,14 @@
       "onboard_time": 1709269538,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 426799,
+      "num": 265739,
+      "word": "乳腺增生真是被气出来的吗",
+      "onboard_time": 1709864727,
+      "rank": 20,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 425470,
@@ -5441,6 +5497,14 @@
       "onboard_time": 1709374230,
       "rank": 27,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 418539,
+      "num": 418539,
+      "word": "黄旭熙4月solo出道",
+      "onboard_time": 1709866289,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 418536,
@@ -6265,14 +6329,6 @@
       "onboard_time": 1709518409,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 366577,
-      "num": 366577,
-      "word": "刑法第二十条已被唤醒",
-      "onboard_time": 1709864548,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 365931,
@@ -7971,6 +8027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 284198,
+      "num": 284198,
+      "word": "38节的快乐是华莱士给的",
+      "onboard_time": 1709865867,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 283428,
       "num": 283428,
       "word": "豪士面包 种地吧",
@@ -8041,14 +8105,6 @@
       "onboard_time": 1709469810,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 279456,
-      "num": 248298,
-      "word": "乳腺增生真是被气出来的吗",
-      "onboard_time": 1709864727,
-      "rank": 20,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 277970,
@@ -8185,14 +8241,6 @@
       "onboard_time": 1709822013,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 273121,
-      "num": 273121,
-      "word": "婚前同居施暴须以家庭成员承担刑事责任",
-      "onboard_time": 1709864786,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272932,
@@ -8691,6 +8739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 255385,
+      "num": 255385,
+      "word": "妇女节女员工1人发了1袋大馒头",
+      "onboard_time": 1709863288,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255355,
       "num": 255355,
       "word": "为什么年轻人喜欢晒各种东西",
@@ -8905,6 +8961,14 @@
       "onboard_time": 1709612553,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247300,
+      "num": 247300,
+      "word": "白鹿异瞳少女",
+      "onboard_time": 1709866707,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 246909,
@@ -9339,14 +9403,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 235939,
-      "num": 235939,
-      "word": "妇女节女员工1人发了1袋大馒头",
-      "onboard_time": 1709863288,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235661,
       "num": 235661,
       "word": "高君雨",
@@ -9465,6 +9521,14 @@
       "onboard_time": 1709862330,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 231771,
+      "num": 231771,
+      "word": "国家线砍一刀",
+      "onboard_time": 1709867368,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 231577,
@@ -9753,14 +9817,6 @@
       "onboard_time": 1709199691,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223209,
-      "num": 223209,
-      "word": "盒马降薪",
-      "onboard_time": 1709864486,
-      "rank": 44,
-      "category": "互联网"
     },
     {
       "raw_hot": 222667,
@@ -11355,6 +11411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197359,
+      "num": 197359,
+      "word": "被我弄丢的你",
+      "onboard_time": 1709865809,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 197276,
       "num": 197276,
       "word": "周处除三害后劲",
@@ -11553,14 +11617,6 @@
       "onboard_time": 1709253093,
       "rank": 29,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 195069,
-      "num": 195069,
-      "word": "24岁女生边工作边考研422分",
-      "onboard_time": 1709864606,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 195058,
@@ -12009,6 +12065,14 @@
       "onboard_time": 1709367452,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188732,
+      "num": 188732,
+      "word": "尊重女性 我们可以做的小事",
+      "onboard_time": 1709866047,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 188669,
@@ -12635,6 +12699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180283,
+      "num": 180283,
+      "word": "公司三八节都发了啥",
+      "onboard_time": 1709867611,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180277,
       "num": 180277,
       "word": "女生路边捡猫归还主人获6万回报",
@@ -13089,6 +13161,14 @@
       "onboard_time": 1709632712,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173967,
+      "num": 173967,
+      "word": "第五人格",
+      "onboard_time": 1709466872,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 173936,
@@ -15795,6 +15875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143740,
+      "num": 143740,
+      "word": "外国小姐姐第一次接受正骨",
+      "onboard_time": 1709865627,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 143693,
       "num": 143693,
       "word": "共享充电宝为什么成了刺客",
@@ -16033,6 +16121,14 @@
       "onboard_time": 1709515531,
       "rank": 46,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 140559,
+      "num": 1177828,
+      "word": "全国两会现场的妇女节祝福",
+      "onboard_time": 1709866227,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 140483,
@@ -16947,6 +17043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130806,
+      "num": 130806,
+      "word": "胡先煦攒了个大的",
+      "onboard_time": 1709866888,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130769,
       "num": 126663,
       "word": "请勿在NPC身上浪费太多时间",
@@ -17769,6 +17873,14 @@
       "onboard_time": 1709447070,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121901,
+      "num": 121901,
+      "word": "林俊杰成都",
+      "onboard_time": 1709867069,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 121884,
@@ -18795,6 +18907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109632,
+      "num": 109632,
+      "word": "爆改 美妆行业的双重嘲弄",
+      "onboard_time": 1709867849,
+      "rank": 49,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 109361,
       "num": 109361,
       "word": "欧冠八强确定四席",
@@ -19235,14 +19355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102265,
-      "num": 102265,
-      "word": "第五人格",
-      "onboard_time": 1709466872,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 102243,
       "num": 913730,
       "word": "2024两会好声音",
@@ -19529,6 +19641,14 @@
       "onboard_time": 1709368352,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 92896,
+      "num": 376756,
+      "word": "最高检工作报告",
+      "onboard_time": 1709867188,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92883,
@@ -21572,6 +21692,9 @@
     },
     {
       "word": "#全面提升新兴领域战略能力#"
+    },
+    {
+      "word": "#总书记首次同新设立的政协界别委员见面#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1709867873932,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1680320,
+        "num": 1680320,
+        "word": "妇女节快乐",
+        "onboard_time": 1709856394,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1263643,
+        "num": 1263643,
+        "word": "建议取消公务员35岁门槛",
+        "onboard_time": 1709863886,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140559,
+        "num": 1177828,
+        "word": "全国两会现场的妇女节祝福",
+        "onboard_time": 1709866227,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1139874,
+        "num": 1139874,
+        "word": "鸟山明去世",
+        "onboard_time": 1709867670,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 937198,
+        "num": 937198,
+        "word": "刑法第二十条已被唤醒",
+        "onboard_time": 1709864548,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 849016,
+        "num": 849016,
+        "word": "婚前同居施暴须以家庭成员承担刑事责任",
+        "onboard_time": 1709864786,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800801,
+        "num": 800801,
+        "word": "爱奇艺3月片单",
+        "onboard_time": 1709866347,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 790857,
+        "num": 790857,
+        "word": "劳荣枝案写入最高法工作报告",
+        "onboard_time": 1709863408,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 618856,
+        "num": 618856,
+        "word": "国家线",
+        "onboard_time": 1709860948,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 580975,
+        "num": 580975,
+        "word": "盒马降薪",
+        "onboard_time": 1709864486,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 480774,
+        "num": 480774,
+        "word": "妇女能顶半边天",
+        "onboard_time": 1709856754,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 428621,
+        "num": 428621,
+        "word": "24岁女生边工作边考研422分",
+        "onboard_time": 1709864606,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 418539,
+        "num": 418539,
+        "word": "黄旭熙4月solo出道",
+        "onboard_time": 1709866289,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 391831,
+        "num": 391831,
+        "word": "妇女节",
+        "onboard_time": 1709833280,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92896,
+        "num": 376756,
+        "word": "最高检工作报告",
+        "onboard_time": 1709867188,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370634,
+        "num": 370634,
+        "word": "亚洲首富小儿子的婚礼",
+        "onboard_time": 1709854707,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330974,
+        "num": 330974,
+        "word": "医院回应护士称拒绝给患者当儿媳被投诉",
+        "onboard_time": 1709860107,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315137,
+        "num": 315137,
+        "word": "老板妇女节发120万给女员工让留着自己花",
+        "onboard_time": 1709853445,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284198,
+        "num": 284198,
+        "word": "38节的快乐是华莱士给的",
+        "onboard_time": 1709865867,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 297514,
+        "num": 275578,
+        "word": "李蓓宣布封笔",
+        "onboard_time": 1709863946,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 426799,
+        "num": 265739,
+        "word": "乳腺增生真是被气出来的吗",
+        "onboard_time": 1709864727,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 255385,
+        "num": 255385,
+        "word": "妇女节女员工1人发了1袋大馒头",
+        "onboard_time": 1709863288,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247300,
+        "num": 247300,
+        "word": "白鹿异瞳少女",
+        "onboard_time": 1709866707,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235427,
+        "num": 235427,
+        "word": "你又叫浣碧",
+        "onboard_time": 1709825010,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231771,
+        "num": 231771,
+        "word": "国家线砍一刀",
+        "onboard_time": 1709867368,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197359,
+        "num": 197359,
+        "word": "被我弄丢的你",
+        "onboard_time": 1709865809,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196991,
+        "num": 196991,
+        "word": "苹果中国规格最高旗舰店即将开业",
+        "onboard_time": 1709862330,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193763,
+        "num": 193763,
+        "word": "给弟弟化妆时发现了化妆的精髓",
+        "onboard_time": 1709854646,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 188732,
+        "num": 188732,
+        "word": "尊重女性 我们可以做的小事",
+        "onboard_time": 1709866047,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180283,
+        "num": 180283,
+        "word": "公司三八节都发了啥",
+        "onboard_time": 1709867611,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177937,
+        "num": 177937,
+        "word": "杭州小伙买100万黄金一年赚50%",
+        "onboard_time": 1709852903,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173967,
+        "num": 173967,
+        "word": "第五人格",
+        "onboard_time": 1709867791,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166313,
+        "num": 166313,
+        "word": "什么时候年龄可以成为加分项",
+        "onboard_time": 1709862749,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157032,
+        "num": 157032,
+        "word": "生儿子才能分地是高彩礼的根源",
+        "onboard_time": 1709826693,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155367,
+        "num": 155367,
+        "word": "恋与深空混池",
+        "onboard_time": 1709855068,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149802,
+        "num": 149802,
+        "word": "MiuMiu大秀 柳州覃阿姨",
+        "onboard_time": 1709857051,
+        "rank": 35,
+        "category": "网红,时尚"
+      },
+      {
+        "raw_hot": 143867,
+        "num": 143867,
+        "word": "上海中山医院辟谣张学友住进ICU",
+        "onboard_time": 1709859271,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143740,
+        "num": 143740,
+        "word": "外国小姐姐第一次接受正骨",
+        "onboard_time": 1709865627,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142735,
+        "num": 142735,
+        "word": "你要写女性就不能只写女性",
+        "onboard_time": 1709862628,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 134639,
+        "num": 134639,
+        "word": "建议恢复婚前医学检查",
+        "onboard_time": 1709857590,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132597,
+        "num": 132597,
+        "word": "张元英为了保持清醒掐自己大腿",
+        "onboard_time": 1709826810,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130806,
+        "num": 130806,
+        "word": "胡先煦攒了个大的",
+        "onboard_time": 1709866888,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127517,
+        "num": 127517,
+        "word": "倒头就睡的人到底是怎么做到的",
+        "onboard_time": 1709860107,
+        "rank": 42,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 126317,
+        "num": 126317,
+        "word": "B站去年净亏损48亿元",
+        "onboard_time": 1709853744,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 121901,
+        "num": 121901,
+        "word": "林俊杰成都",
+        "onboard_time": 1709867069,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119603,
+        "num": 119603,
+        "word": "贾玲 在完成对喜剧人身份的迭代",
+        "onboard_time": 1709859211,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118168,
+        "num": 118168,
+        "word": "要不是我养过狗 我就心疼了",
+        "onboard_time": 1709863886,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114152,
+        "num": 114152,
+        "word": "对领导说了三个月的滚",
+        "onboard_time": 1709853085,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111095,
+        "num": 111095,
+        "word": "普通人没必要对孩子进行苦难教育",
+        "onboard_time": 1709861610,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109632,
+        "num": 109632,
+        "word": "爆改 美妆行业的双重嘲弄",
+        "onboard_time": 1709867849,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记首次同新设立的政协界别委员见面#"
+    }
+  }
+}
