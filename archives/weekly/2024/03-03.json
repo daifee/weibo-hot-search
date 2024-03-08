@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709894228486,
+  "endTime": 1709896437839,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -692,7 +692,7 @@
     },
     {
       "raw_hot": 1204968,
-      "num": 358785,
+      "num": 431253,
       "word": "首款折叠屏iPhone",
       "onboard_time": 1709885189,
       "rank": 19,
@@ -1195,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 918919,
+      "num": 918919,
+      "word": "樊振东太强了",
+      "onboard_time": 1709894250,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 917636,
       "num": 386527,
       "word": "贵人鸟创始人曾是泉州首富",
@@ -1233,6 +1241,14 @@
       "onboard_time": 1709798369,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 908318,
+      "num": 908318,
+      "word": "日本单亲妈妈来中国后",
+      "onboard_time": 1709892030,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 905509,
@@ -1620,7 +1636,7 @@
     },
     {
       "raw_hot": 783152,
-      "num": 358820,
+      "num": 450140,
       "word": "向佐请摄影师不要在鼻孔下面拍他",
       "onboard_time": 1709890289,
       "rank": 16,
@@ -1860,7 +1876,7 @@
     },
     {
       "raw_hot": 721015,
-      "num": 235928,
+      "num": 248257,
       "word": "怀孕前一定要对乳房做全面检查",
       "onboard_time": 1709884471,
       "rank": 20,
@@ -2027,6 +2043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 687030,
+      "num": 687030,
+      "word": "雅诗兰黛称在中国销售的所有产品合规",
+      "onboard_time": 1709891790,
+      "rank": 8,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 686532,
       "num": 356849,
       "word": "苹果市值一夜蒸发超5000亿元",
@@ -2083,20 +2107,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 677377,
-      "num": 677377,
-      "word": "雅诗兰黛称在中国销售的所有产品合规",
-      "onboard_time": 1709891790,
-      "rank": 8,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 677350,
       "num": 677350,
       "word": "G社拍的杨超越",
       "onboard_time": 1709510910,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 677282,
+      "num": 677282,
+      "word": "代号鸢 你的美工是神",
+      "onboard_time": 1709894428,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 674837,
@@ -3931,6 +3955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 443809,
+      "num": 443809,
+      "word": "我想和你唱 姐姐真漂亮",
+      "onboard_time": 1709893888,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442569,
       "num": 442569,
       "word": "给弟弟化妆时发现了化妆的精髓",
@@ -4211,20 +4243,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 419529,
+      "num": 419529,
+      "word": "傅融伟大的脸",
+      "onboard_time": 1709894311,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 418539,
       "num": 418539,
       "word": "黄旭熙4月solo出道",
       "onboard_time": 1709866289,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 418533,
-      "num": 312750,
-      "word": "日本单亲妈妈来中国后",
-      "onboard_time": 1709892030,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 418296,
@@ -4388,7 +4420,7 @@
     },
     {
       "raw_hot": 405351,
-      "num": 405351,
+      "num": 450189,
       "word": "妇女节公司为女生开了一间花店",
       "onboard_time": 1709891430,
       "rank": 6,
@@ -6379,6 +6411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275362,
+      "num": 275362,
+      "word": "沙丘3",
+      "onboard_time": 1709894670,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 274953,
       "num": 246953,
       "word": "Irene姐的神级七秒美貌",
@@ -6979,6 +7019,14 @@
       "category": "电影,财经"
     },
     {
+      "raw_hot": 248811,
+      "num": 248811,
+      "word": "掉鞋的是粉丝 慌张的是陈丽君",
+      "onboard_time": 1709893409,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248459,
       "num": 238952,
       "word": "朋友好像不知道我送的是黄金",
@@ -7571,14 +7619,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 227621,
-      "num": 227621,
-      "word": "我想和你唱 姐姐真漂亮",
-      "onboard_time": 1709893888,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227126,
       "num": 227126,
       "word": "李玟二姐说答应妹妹会努力走完这一生",
@@ -8000,6 +8040,14 @@
       "word": "小孩哥LPL首秀",
       "onboard_time": 1709784033,
       "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 216252,
+      "num": 216252,
+      "word": "BLG晋级春季赛季后赛",
+      "onboard_time": 1709895568,
+      "rank": 23,
       "category": "电竞"
     },
     {
@@ -8835,6 +8883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199411,
+      "num": 167176,
+      "word": "XLB说霸哥打不了职业",
+      "onboard_time": 1709894969,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199089,
       "num": 199089,
       "word": "9代凯美瑞",
@@ -8849,6 +8905,14 @@
       "onboard_time": 1709781029,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 198424,
+      "num": 198424,
+      "word": "雅诗兰黛旗下产品在美国检出高浓度致癌物苯",
+      "onboard_time": 1709893951,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 198178,
@@ -9561,6 +9625,14 @@
       "onboard_time": 1709643932,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185001,
+      "num": 185001,
+      "word": "陈哲远GQ上班图",
+      "onboard_time": 1709895209,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 184959,
@@ -10627,14 +10699,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 167269,
-      "num": 167269,
-      "word": "掉鞋的是粉丝 慌张的是陈丽君",
-      "onboard_time": 1709893409,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167152,
       "num": 167152,
       "word": "春天里的中国自带氛围感",
@@ -10793,6 +10857,14 @@
       "onboard_time": 1709808032,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165112,
+      "num": 165112,
+      "word": "为什么龙珠的主角叫孙悟空",
+      "onboard_time": 1709895450,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 164977,
@@ -12627,8 +12699,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141569,
+      "num": 141569,
+      "word": "领克07",
+      "onboard_time": 1709895929,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 141362,
-      "num": 732326,
+      "num": 913331,
       "word": "起草人解读两高工作报告",
       "onboard_time": 1709862690,
       "rank": 38,
@@ -13235,6 +13315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134249,
+      "num": 134249,
+      "word": "LNG BSYY",
+      "onboard_time": 1709894849,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134207,
       "num": 134207,
       "word": "胡先煦 叫宝贝烫嘴",
@@ -13273,6 +13361,14 @@
       "onboard_time": 1709795551,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133757,
+      "num": 133757,
+      "word": "春天不会穿搭的人有福了",
+      "onboard_time": 1709894670,
+      "rank": 36,
+      "category": "时尚"
     },
     {
       "raw_hot": 133734,
@@ -13963,14 +14059,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124610,
-      "num": 124610,
-      "word": "雅诗兰黛旗下产品在美国检出高浓度致癌物苯",
-      "onboard_time": 1709893951,
-      "rank": 43,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 124531,
       "num": 124531,
       "word": "同行的青春也只有他了",
@@ -14297,6 +14385,14 @@
       "onboard_time": 1709737175,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 121446,
+      "num": 121446,
+      "word": "BLG战胜FPX",
+      "onboard_time": 1709896348,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 121401,
@@ -15025,6 +15121,14 @@
       "onboard_time": 1709623953,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108743,
+      "num": 108743,
+      "word": "2024LPL春季赛季后赛",
+      "onboard_time": 1709895088,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 108459,
