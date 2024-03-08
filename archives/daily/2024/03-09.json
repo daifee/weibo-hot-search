@@ -1,6 +1,6 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709937241551,
+  "endTime": 1709939928065,
   "band_list": [
     {
       "raw_hot": 1802368,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 514277,
+      "num": 514277,
+      "word": "35岁女儿离婚父亲安慰说都过去了",
+      "onboard_time": 1709920159,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393442,
       "num": 205640,
       "word": "被好朋友删了",
@@ -83,18 +91,18 @@
       "category": "情感"
     },
     {
+      "raw_hot": 294888,
+      "num": 95871,
+      "word": "23岁女子长期熬夜诱发乳腺癌",
+      "onboard_time": 1709939063,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 276355,
       "num": 276355,
       "word": "大学老师不让小学儿子写无效作业",
       "onboard_time": 1709906434,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273471,
-      "num": 273471,
-      "word": "35岁女儿离婚父亲安慰说都过去了",
-      "onboard_time": 1709920159,
       "rank": 3,
       "category": "社会新闻"
     },
@@ -113,6 +121,14 @@
       "onboard_time": 1709910214,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 256270,
+      "num": 186213,
+      "word": "这3个年龄段易断崖式衰老",
+      "onboard_time": 1709911712,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 245422,
@@ -171,12 +187,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186213,
-      "num": 186213,
-      "word": "这3个年龄段易断崖式衰老",
-      "onboard_time": 1709911712,
-      "rank": 24,
-      "category": "健康医疗"
+      "raw_hot": 187210,
+      "num": 187210,
+      "word": "在孩子手机里发现的",
+      "onboard_time": 1709932094,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 187078,
+      "num": 187078,
+      "word": "张志磊vs帕克",
+      "onboard_time": 1709939301,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 182411,
@@ -195,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168504,
+      "num": 118646,
+      "word": "拜登正说美变得更安全现场死亡美军父亲喊叫抗议",
+      "onboard_time": 1709930535,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 164299,
       "num": 206313,
       "word": "周鸿祎称国内PPT泛滥成灾",
@@ -209,6 +241,22 @@
       "onboard_time": 1709900308,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156637,
+      "num": 115585,
+      "word": "李秀满出售SM获5300亿韩元",
+      "onboard_time": 1709923939,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148994,
+      "num": 93050,
+      "word": "教资",
+      "onboard_time": 1709939602,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 146885,
@@ -241,14 +289,6 @@
       "onboard_time": 1709909012,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 139414,
-      "num": 40555,
-      "word": "李秀满出售SM获5300亿韩元",
-      "onboard_time": 1709923939,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 138888,
@@ -299,6 +339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 101847,
+      "num": 84709,
+      "word": "女性体检报告上8个高频词",
+      "onboard_time": 1709939900,
+      "rank": 25,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 98744,
       "num": 146844,
       "word": "樊振东太强了",
@@ -313,6 +361,14 @@
       "onboard_time": 1709903251,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97810,
+      "num": 97810,
+      "word": "樱桃小丸子的声优去世",
+      "onboard_time": 1709939722,
+      "rank": 19,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 97057,
@@ -411,19 +467,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 78565,
-      "num": 36507,
-      "word": "拜登正说美变得更安全现场死亡美军父亲喊叫抗议",
-      "onboard_time": 1709930535,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 74400,
       "num": 89213,
       "word": "邱庆之死在李饼怀里",
       "onboard_time": 1709909490,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 68976,
+      "num": 68976,
+      "word": "赵丽颖林更新拍立得好甜",
+      "onboard_time": 1709939602,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -451,12 +507,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 66189,
+      "num": 66189,
+      "word": "万科6.47亿美元全数偿付到期票据本息",
+      "onboard_time": 1709939781,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 64089,
       "num": 88803,
       "word": "周冠宇三练上墙",
       "onboard_time": 1709910871,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62708,
+      "num": 62708,
+      "word": "加速衰老的6个习惯一定要改",
+      "onboard_time": 1709939063,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 59727,
+      "num": 59727,
+      "word": "吴磊对粉丝喊妇女节快乐",
+      "onboard_time": 1709933055,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 59208,
+      "num": 59208,
+      "word": "减肥神药撑起一个国家",
+      "onboard_time": 1709939900,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55893,
@@ -483,12 +571,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 50975,
-      "num": 35107,
-      "word": "在孩子手机里发现的",
-      "onboard_time": 1709932094,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 50637,
+      "num": 50637,
+      "word": "李若彤晒运动11年对比照",
+      "onboard_time": 1709933775,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 46796,
@@ -499,12 +587,20 @@
       "category": "国内时政,动漫"
     },
     {
-      "raw_hot": 41985,
-      "num": 33978,
-      "word": "吴磊对粉丝喊妇女节快乐",
-      "onboard_time": 1709933055,
-      "rank": 35,
+      "raw_hot": 44243,
+      "num": 44243,
+      "word": "钟楚曦逛到商场关门",
+      "onboard_time": 1709932217,
+      "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42911,
+      "num": 42911,
+      "word": "女性失眠概率约为男性两倍",
+      "onboard_time": 1709939241,
+      "rank": 40,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 40536,
@@ -515,11 +611,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 30389,
-      "num": 27384,
-      "word": "钟楚曦逛到商场关门",
-      "onboard_time": 1709932217,
-      "rank": 39,
+      "raw_hot": 37672,
+      "num": 37672,
+      "word": "广东女子被咬伤后拎着毒蛇冲进医院",
+      "onboard_time": 1709939602,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 34012,
+      "num": 34012,
+      "word": "周杰伦昆凌飞奔相拥",
+      "onboard_time": 1709939900,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -531,12 +635,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 27765,
-      "num": 27765,
-      "word": "李若彤晒运动11年对比照",
-      "onboard_time": 1709933775,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 15513,
+      "num": 67194,
+      "word": "一图看懂两会热点新质生产力",
+      "onboard_time": 1709927177,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14819,
@@ -563,16 +667,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 13096,
-      "num": 27398,
-      "word": "一图看懂两会热点新质生产力",
-      "onboard_time": 1709927177,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 5006,
-      "num": 293270,
+      "raw_hot": 6009,
+      "num": 340465,
       "word": "最高法工作报告",
       "onboard_time": 1709864308,
       "rank": 2,
