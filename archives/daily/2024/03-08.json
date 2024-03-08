@@ -1,6 +1,6 @@
 {
   "startTime": 1709828457134,
-  "endTime": 1709908435761,
+  "endTime": 1709911070237,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -65,6 +65,14 @@
       "onboard_time": 1709854707,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1424649,
+      "num": 1424649,
+      "word": "金价杀疯了",
+      "onboard_time": 1709909731,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 1376686,
@@ -137,6 +145,14 @@
       "onboard_time": 1709884649,
       "rank": 1,
       "category": "国内时政,动漫"
+    },
+    {
+      "raw_hot": 1076153,
+      "num": 1076153,
+      "word": "大学老师不让小学儿子写无效作业",
+      "onboard_time": 1709906434,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1060949,
@@ -299,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 780411,
+      "num": 240193,
+      "word": "何猷君奚梦瑶参加新船下水礼",
+      "onboard_time": 1709909012,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 773838,
       "num": 296057,
       "word": "向佐评论李蠕蠕",
@@ -372,7 +396,7 @@
     },
     {
       "raw_hot": 721015,
-      "num": 275008,
+      "num": 627228,
       "word": "怀孕前一定要对乳房做全面检查",
       "onboard_time": 1709884471,
       "rank": 20,
@@ -459,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 605982,
-      "num": 605982,
-      "word": "大学老师不让小学儿子写无效作业",
-      "onboard_time": 1709906434,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 605081,
+      "num": 220318,
+      "word": "被好朋友删了",
+      "onboard_time": 1709909072,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 601294,
@@ -571,6 +595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 504153,
+      "num": 238564,
+      "word": "长沙警方通报女子驾车撞伤2人",
+      "onboard_time": 1709909731,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499421,
       "num": 499421,
       "word": "卡戴珊一家都在哪做头发",
@@ -641,6 +673,14 @@
       "onboard_time": 1709905110,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 433605,
+      "num": 232990,
+      "word": "人大代表提到迪丽热巴",
+      "onboard_time": 1709910330,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 433279,
@@ -763,6 +803,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 376638,
+      "num": 376638,
+      "word": "眉姐姐你女儿长大了",
+      "onboard_time": 1709907513,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373664,
       "num": 373664,
       "word": "上班了才知道他演的有多像",
@@ -785,6 +833,14 @@
       "onboard_time": 1709889811,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 357197,
+      "num": 215167,
+      "word": "后知后觉被相亲男测试了服从性",
+      "onboard_time": 1709910214,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 341863,
@@ -825,14 +881,6 @@
       "onboard_time": 1709898088,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 329391,
-      "num": 263779,
-      "word": "眉姐姐你女儿长大了",
-      "onboard_time": 1709907513,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 329029,
@@ -881,6 +929,14 @@
       "onboard_time": 1709856688,
       "rank": 20,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 314518,
+      "num": 314518,
+      "word": "TTG好菜",
+      "onboard_time": 1709909012,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 314371,
@@ -1099,6 +1155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 256335,
+      "num": 202295,
+      "word": "赵露思的皮肤状态",
+      "onboard_time": 1709909971,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252944,
       "num": 238288,
       "word": "倒头就睡的人到底是怎么做到的",
@@ -1145,6 +1209,14 @@
       "onboard_time": 1709868391,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 239052,
+      "num": 194245,
+      "word": "朴振英姚琛去内蒙古了",
+      "onboard_time": 1709909671,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 236300,
@@ -1331,6 +1403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202131,
+      "num": 202131,
+      "word": "甜茶好帅",
+      "onboard_time": 1709896590,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201325,
       "num": 201325,
       "word": "今年两会第二场代表通道",
@@ -1417,6 +1497,14 @@
       "onboard_time": 1709878228,
       "rank": 25,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 194065,
+      "num": 194065,
+      "word": "这些都是35岁以下的人的脊椎",
+      "onboard_time": 1709910214,
+      "rank": 31,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 193828,
@@ -1763,14 +1851,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 160570,
-      "num": 160570,
-      "word": "甜茶好帅",
-      "onboard_time": 1709896590,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 159492,
       "num": 159492,
       "word": "雅诗兰黛倩碧回应苯超标800倍",
@@ -1913,6 +1993,14 @@
       "onboard_time": 1709863886,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150776,
+      "num": 150776,
+      "word": "APEX炸服",
+      "onboard_time": 1709909072,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 149720,
@@ -2075,6 +2163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140857,
+      "num": 140857,
+      "word": "宁波现在最尴尬的房子",
+      "onboard_time": 1709910513,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140619,
       "num": 132284,
       "word": "中华商务图书回应龙珠漫画卖空",
@@ -2145,6 +2241,14 @@
       "onboard_time": 1709879668,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136032,
+      "num": 136032,
+      "word": "邱庆之死在李饼怀里",
+      "onboard_time": 1709909490,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 135968,
@@ -2283,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125099,
+      "num": 125099,
+      "word": "焦虑的背后可能是潜能的信号",
+      "onboard_time": 1709910330,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124721,
       "num": 124721,
       "word": "泡泡岛音乐节阵容",
@@ -2371,6 +2483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118793,
+      "num": 118793,
+      "word": "荣梓杉 性转版思诺既视感",
+      "onboard_time": 1709910991,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117539,
       "num": 117539,
       "word": "种地吧",
@@ -2393,6 +2513,14 @@
       "onboard_time": 1709831243,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 115193,
+      "num": 136758,
+      "word": "周冠宇三练上墙",
+      "onboard_time": 1709910871,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 114645,
@@ -2644,7 +2772,7 @@
     },
     {
       "raw_hot": 100824,
-      "num": 941416,
+      "num": 983871,
       "word": "政府工作报告里年轻人关心的热点",
       "onboard_time": 1709893349,
       "rank": 49,
