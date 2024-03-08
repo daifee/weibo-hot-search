@@ -1,6 +1,6 @@
 {
   "startTime": 1709828457134,
-  "endTime": 1709871627749,
+  "endTime": 1709872447913,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -33,6 +33,14 @@
       "onboard_time": 1709863886,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1718407,
+      "num": 514518,
+      "word": "乌合麒麟 代表日本漫画的黄金时代落幕了",
+      "onboard_time": 1709870794,
+      "rank": 10,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 1611609,
@@ -139,14 +147,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 757841,
-      "num": 514518,
-      "word": "乌合麒麟 代表日本漫画的黄金时代落幕了",
-      "onboard_time": 1709870794,
-      "rank": 10,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 746145,
       "num": 746145,
       "word": "金价持续暴涨建行紧急公告",
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 590890,
+      "num": 506466,
+      "word": "孟羽童称不排斥重回职场",
+      "onboard_time": 1709870972,
+      "rank": 11,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 588862,
       "num": 588862,
       "word": "瓦利耶娃被俄国家队除名",
@@ -249,14 +257,6 @@
       "onboard_time": 1709860107,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 562627,
-      "num": 506466,
-      "word": "孟羽童称不排斥重回职场",
-      "onboard_time": 1709870972,
-      "rank": 11,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 560984,
@@ -339,12 +339,36 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 356534,
-      "num": 240871,
+      "raw_hot": 378570,
+      "num": 378570,
       "word": "急性硬膜下血肿",
       "onboard_time": 1709870673,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 327528,
+      "num": 319834,
+      "word": "张杰开始准备巡演和专辑",
+      "onboard_time": 1709871931,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 326055,
+      "num": 224404,
+      "word": "伦敦地铁判官",
+      "onboard_time": 1709871217,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 318788,
+      "num": 318788,
+      "word": "papi酱说短视频里不是她本人",
+      "onboard_time": 1709872234,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 318567,
@@ -361,6 +385,14 @@
       "onboard_time": 1709856688,
       "rank": 20,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 314371,
+      "num": 314371,
+      "word": "知情人士回应张学友住进ICU",
+      "onboard_time": 1709870492,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 312661,
@@ -411,20 +443,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 293157,
-      "num": 293157,
-      "word": "知情人士回应张学友住进ICU",
-      "onboard_time": 1709870492,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 290436,
       "num": 290436,
       "word": "祝她铮铮 祝她昂扬",
       "onboard_time": 1709858731,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 285814,
+      "num": 285814,
+      "word": "茅台公开高管薪酬",
+      "onboard_time": 1709872054,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 284198,
@@ -457,6 +489,14 @@
       "onboard_time": 1709857770,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 274434,
+      "num": 223624,
+      "word": "上班了才知道他演的有多像",
+      "onboard_time": 1709871753,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 273917,
@@ -547,20 +587,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 220964,
+      "num": 220964,
+      "word": "集齐七颗龙珠可以复活他吗",
+      "onboard_time": 1709871517,
+      "rank": 40,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 219967,
       "num": 176015,
       "word": "研0喊了导师一晚上老鼠",
       "onboard_time": 1709819252,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 217934,
-      "num": 217934,
-      "word": "伦敦地铁判官",
-      "onboard_time": 1709871217,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 216966,
@@ -577,6 +617,14 @@
       "onboard_time": 1709853085,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 209442,
+      "num": 209442,
+      "word": "三八节为自己争取的公司福利",
+      "onboard_time": 1709870076,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 207510,
@@ -691,6 +739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 181533,
+      "num": 173652,
+      "word": "龙珠不会再有续集了",
+      "onboard_time": 1709871517,
+      "rank": 49,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 180787,
       "num": 180787,
       "word": "白鹿李一桐包场檀健次电影",
@@ -705,14 +761,6 @@
       "onboard_time": 1709870017,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178186,
-      "num": 178186,
-      "word": "集齐七颗龙珠可以复活他吗",
-      "onboard_time": 1709871517,
-      "rank": 40,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 174337,
@@ -755,6 +803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161974,
+      "num": 161974,
+      "word": "国足新帅目标率队打进世界杯",
+      "onboard_time": 1709871753,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158330,
       "num": 158330,
       "word": "6年级小孩姐已学完英语四六级",
@@ -769,6 +825,14 @@
       "onboard_time": 1709857351,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 157789,
+      "num": 157789,
+      "word": "枭起青壤剧本围读",
+      "onboard_time": 1709871753,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 155113,
@@ -817,14 +881,6 @@
       "onboard_time": 1709859990,
       "rank": 41,
       "category": "社会新闻,汽车"
-    },
-    {
-      "raw_hot": 147292,
-      "num": 147292,
-      "word": "三八节为自己争取的公司福利",
-      "onboard_time": 1709870076,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 145986,
@@ -907,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138241,
+      "num": 138241,
+      "word": "新型减肥药12周帮助患者减重13%",
+      "onboard_time": 1709872415,
+      "rank": 49,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 137689,
       "num": 137689,
       "word": "B站UP主激励增幅下滑",
@@ -961,14 +1025,6 @@
       "onboard_time": 1709852844,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 125817,
-      "num": 125817,
-      "word": "龙珠不会再有续集了",
-      "onboard_time": 1709871517,
-      "rank": 49,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 125629,
@@ -1340,7 +1396,7 @@
     },
     {
       "raw_hot": 38147,
-      "num": 298001,
+      "num": 348990,
       "word": "领克蓝了",
       "onboard_time": 1709869595,
       "rank": 19,
