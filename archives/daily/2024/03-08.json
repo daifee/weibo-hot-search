@@ -1,7 +1,15 @@
 {
   "startTime": 1709828457134,
-  "endTime": 1709867873932,
+  "endTime": 1709868887110,
   "band_list": [
+    {
+      "raw_hot": 12728050,
+      "num": 1173389,
+      "word": "鸟山明去世",
+      "onboard_time": 1709867670,
+      "rank": 3,
+      "category": "动漫"
+    },
     {
       "raw_hot": 2637927,
       "num": 2637927,
@@ -9,6 +17,14 @@
       "onboard_time": 1709856394,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1902104,
+      "num": 1902104,
+      "word": "建议取消公务员35岁门槛",
+      "onboard_time": 1709863886,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1611609,
@@ -19,20 +35,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1263643,
-      "num": 1263643,
-      "word": "建议取消公务员35岁门槛",
-      "onboard_time": 1709863886,
-      "rank": 13,
+      "raw_hot": 1140966,
+      "num": 1140966,
+      "word": "刑法第二十条已被唤醒",
+      "onboard_time": 1709864548,
+      "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1139874,
-      "num": 1139874,
-      "word": "鸟山明去世",
-      "onboard_time": 1709867670,
-      "rank": 3,
-      "category": "动漫"
     },
     {
       "raw_hot": 1060949,
@@ -59,14 +67,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 937198,
-      "num": 937198,
-      "word": "刑法第二十条已被唤醒",
-      "onboard_time": 1709864548,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 905509,
       "num": 905509,
       "word": "建议恢复婚前医学检查",
@@ -75,16 +75,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 849016,
-      "num": 849016,
+      "raw_hot": 880865,
+      "num": 880865,
       "word": "婚前同居施暴须以家庭成员承担刑事责任",
       "onboard_time": 1709864786,
       "rank": 18,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 800801,
-      "num": 800801,
+      "raw_hot": 822352,
+      "num": 822352,
       "word": "爱奇艺3月片单",
       "onboard_time": 1709866347,
       "rank": 6,
@@ -144,6 +144,14 @@
       "word": "杭州小伙买100万黄金一年赚50%",
       "onboard_time": 1709852903,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 729053,
+      "num": 729053,
+      "word": "妇女节放假",
+      "onboard_time": 1709867911,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -243,6 +251,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 441224,
+      "num": 441224,
+      "word": "阿拉蕾",
+      "onboard_time": 1709868634,
+      "rank": 12,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 430255,
       "num": 430255,
       "word": "十四届全国人大二次会议第二次全体会议",
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 426799,
-      "num": 265739,
+      "num": 346760,
       "word": "乳腺增生真是被气出来的吗",
       "onboard_time": 1709864727,
       "rank": 20,
@@ -273,6 +289,30 @@
       "onboard_time": 1709866289,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 406099,
+      "num": 406099,
+      "word": "国家线砍一刀",
+      "onboard_time": 1709867368,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 401509,
+      "num": 401509,
+      "word": "龙珠",
+      "onboard_time": 1709868332,
+      "rank": 16,
+      "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 340245,
+      "num": 340245,
+      "word": "公司三八节都发了啥",
+      "onboard_time": 1709867611,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 316995,
@@ -324,7 +364,7 @@
     },
     {
       "raw_hot": 284198,
-      "num": 284198,
+      "num": 350245,
       "word": "38节的快乐是华莱士给的",
       "onboard_time": 1709865867,
       "rank": 18,
@@ -339,12 +379,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275437,
+      "num": 275437,
+      "word": "李若彤 小龙女领先你几百年",
+      "onboard_time": 1709868030,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274818,
       "num": 274818,
       "word": "姿态rita",
       "onboard_time": 1709857770,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 273917,
+      "num": 273917,
+      "word": "第五人格",
+      "onboard_time": 1709867791,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 263061,
+      "num": 263061,
+      "word": "白鹿异瞳少女",
+      "onboard_time": 1709866707,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 260332,
+      "num": 260332,
+      "word": "妇女节女员工1人发了1袋大馒头",
+      "onboard_time": 1709863288,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257982,
@@ -355,14 +427,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 255385,
-      "num": 255385,
-      "word": "妇女节女员工1人发了1袋大馒头",
-      "onboard_time": 1709863288,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252944,
       "num": 238288,
       "word": "倒头就睡的人到底是怎么做到的",
@@ -371,12 +435,12 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 247300,
-      "num": 247300,
-      "word": "白鹿异瞳少女",
-      "onboard_time": 1709866707,
-      "rank": 22,
-      "category": "作品衍生"
+      "raw_hot": 247586,
+      "num": 247586,
+      "word": "为什么入睡最好不晚于23点",
+      "onboard_time": 1709868149,
+      "rank": 29,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 245137,
@@ -403,20 +467,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242645,
+      "num": 242645,
+      "word": "恋与深空",
+      "onboard_time": 1709868391,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 232115,
       "num": 220319,
       "word": "苹果中国规格最高旗舰店即将开业",
       "onboard_time": 1709862330,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 231771,
-      "num": 231771,
-      "word": "国家线砍一刀",
-      "onboard_time": 1709867368,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 229344,
@@ -555,28 +619,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 180283,
-      "num": 180283,
-      "word": "公司三八节都发了啥",
-      "onboard_time": 1709867611,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 174337,
       "num": 174337,
       "word": "什么时候年龄可以成为加分项",
       "onboard_time": 1709862749,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 173967,
-      "num": 173967,
-      "word": "第五人格",
-      "onboard_time": 1709867791,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 173646,
@@ -603,20 +651,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168591,
+      "num": 168591,
+      "word": "老人15万买基金一年多亏近五万",
+      "onboard_time": 1709867911,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 165430,
+      "num": 165430,
+      "word": "恋与深空混池",
+      "onboard_time": 1709855068,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158330,
       "num": 158330,
       "word": "6年级小孩姐已学完英语四六级",
       "onboard_time": 1709857890,
       "rank": 35,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 157902,
-      "num": 157902,
-      "word": "恋与深空混池",
-      "onboard_time": 1709855068,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 157895,
@@ -740,7 +796,7 @@
     },
     {
       "raw_hot": 140559,
-      "num": 1177828,
+      "num": 1191586,
       "word": "全国两会现场的妇女节祝福",
       "onboard_time": 1709866227,
       "rank": 2,
@@ -769,6 +825,14 @@
       "onboard_time": 1709866888,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130535,
+      "num": 130535,
+      "word": "爆改 美妆行业的双重嘲弄",
+      "onboard_time": 1709867849,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 130507,
@@ -819,6 +883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119031,
+      "num": 119031,
+      "word": "她们从来都不可限量",
+      "onboard_time": 1709868752,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116266,
       "num": 116266,
       "word": "谁能看出来谢金燕50岁了",
@@ -835,12 +907,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 109632,
-      "num": 109632,
-      "word": "爆改 美妆行业的双重嘲弄",
-      "onboard_time": 1709867849,
-      "rank": 49,
-      "category": "美妆"
+      "raw_hot": 109701,
+      "num": 406704,
+      "word": "最高检工作报告",
+      "onboard_time": 1709867188,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108919,
@@ -905,14 +977,6 @@
       "onboard_time": 1709821593,
       "rank": 33,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 92896,
-      "num": 376756,
-      "word": "最高检工作报告",
-      "onboard_time": 1709867188,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 92250,
@@ -1271,6 +1335,9 @@
     },
     {
       "word": "#总书记首次同新设立的政协界别委员见面#"
+    },
+    {
+      "word": "#大国工匠是中华民族大厦的基石栋梁#"
     }
   ]
 }

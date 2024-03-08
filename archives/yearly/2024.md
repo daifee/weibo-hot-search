@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/03/08 11:17:53
+本榜单时间：2024/01/01 00:21:05 ~ 2024/03/08 11:34:47
 </p>
 </blockquote>
 <p>
@@ -47,6 +47,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E5%A5%BD%23" target="weibo">
 过年好（热度：13074244）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
+鸟山明去世（热度：12728050）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ C罗向中国球迷道歉（热度：2416354）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A7%B0%E5%8F%AA%E6%8E%A5%E5%8F%97%E7%BE%8E%E5%9B%BD%E6%8F%B4%E5%8A%A9%23" target="weibo">
 日本称只接受美国援助（热度：2406378）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%9B%9E%E5%BA%94%E7%9B%97%E6%91%84%23" target="weibo">
-薛之谦回应盗摄（热度：2405251）
 </a>
 </li>
 

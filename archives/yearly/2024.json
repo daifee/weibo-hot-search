@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1709867873932,
+  "endTime": 1709868887110,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -49,6 +49,14 @@
       "onboard_time": 1707493577,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12728050,
+      "num": 1173389,
+      "word": "鸟山明去世",
+      "onboard_time": 1709867670,
+      "rank": 3,
+      "category": "动漫"
     },
     {
       "raw_hot": 12688562,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704512549,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2405251,
-      "num": 2405251,
-      "word": "薛之谦回应盗摄",
-      "onboard_time": 1708049731,
-      "rank": 11,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
