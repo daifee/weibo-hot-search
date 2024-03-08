@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709933655506,
+  "endTime": 1709936303669,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -8211,6 +8211,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 220063,
+      "num": 220063,
+      "word": "35岁女儿离婚父亲安慰说都过去了",
+      "onboard_time": 1709920159,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219714,
       "num": 219714,
       "word": "麦当劳旧玩具",
@@ -9081,14 +9089,6 @@
       "onboard_time": 1709511030,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201762,
-      "num": 201762,
-      "word": "35岁女儿离婚父亲安慰说都过去了",
-      "onboard_time": 1709920159,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201712,
@@ -16739,6 +16739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71084,
+      "num": 21376,
+      "word": "拜登正说美变得更安全现场死亡美军父亲喊叫抗议",
+      "onboard_time": 1709930535,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 70425,
       "num": 70425,
       "word": "贝林厄姆红牌",
@@ -17243,6 +17251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41985,
+      "num": 29632,
+      "word": "吴磊对粉丝喊妇女节快乐",
+      "onboard_time": 1709933055,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41485,
       "num": 45783,
       "word": "苗苗浪姐上班路透",
@@ -17313,14 +17329,6 @@
       "onboard_time": 1709571923,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 39263,
-      "num": 17776,
-      "word": "拜登正说美变得更安全现场死亡美军父亲喊叫抗议",
-      "onboard_time": 1709930535,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 39221,
@@ -17433,6 +17441,14 @@
       "onboard_time": 1709629833,
       "rank": 46,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 34339,
+      "num": 27039,
+      "word": "在孩子手机里发现的",
+      "onboard_time": 1709932094,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 34322,
@@ -17619,6 +17635,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 24399,
+      "num": 21365,
+      "word": "钟楚曦逛到商场关门",
+      "onboard_time": 1709932217,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23895,
       "num": 23895,
       "word": "林允普拉提",
@@ -17633,6 +17657,14 @@
       "onboard_time": 1709892030,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22386,
+      "num": 22386,
+      "word": "李若彤晒运动11年对比照",
+      "onboard_time": 1709933775,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 22111,
@@ -17691,14 +17723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20034,
-      "num": 20034,
-      "word": "在孩子手机里发现的",
-      "onboard_time": 1709932094,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 19985,
       "num": 20849,
       "word": "果然男生对电子产品没抵抗力",
@@ -17713,14 +17737,6 @@
       "onboard_time": 1709842156,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 18685,
-      "num": 17764,
-      "word": "钟楚曦逛到商场关门",
-      "onboard_time": 1709932217,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 18512,
@@ -17745,14 +17761,6 @@
       "onboard_time": 1709750957,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 16027,
-      "num": 16027,
-      "word": "吴磊对粉丝喊妇女节快乐",
-      "onboard_time": 1709933055,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 15965,
@@ -17803,6 +17811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14252,
+      "num": 18203,
+      "word": "低丸子头教程分享",
+      "onboard_time": 1709928077,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 13900,
       "num": 17068,
       "word": "居民的难题扫二维码反映解决了",
@@ -17841,14 +17857,6 @@
       "onboard_time": 1709840056,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13291,
-      "num": 17459,
-      "word": "低丸子头教程分享",
-      "onboard_time": 1709928077,
-      "rank": 45,
-      "category": "美妆"
     },
     {
       "raw_hot": 12927,
@@ -17899,8 +17907,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 11884,
-      "num": 19091,
+      "raw_hot": 11935,
+      "num": 21395,
       "word": "一图看懂两会热点新质生产力",
       "onboard_time": 1709927177,
       "rank": 29,
