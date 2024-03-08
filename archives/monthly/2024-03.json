@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709922840922,
+  "endTime": 1709925257716,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -12035,6 +12035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201762,
+      "num": 201762,
+      "word": "35岁女儿离婚父亲安慰说都过去了",
+      "onboard_time": 1709920159,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201712,
       "num": 201712,
       "word": "无畏契约",
@@ -12177,14 +12185,6 @@
       "onboard_time": 1709451931,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 199995,
-      "num": 199995,
-      "word": "35岁女儿离婚父亲安慰说都过去了",
-      "onboard_time": 1709920159,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199965,
@@ -20313,6 +20313,14 @@
       "onboard_time": 1709731231,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 114040,
+      "num": 40555,
+      "word": "李秀满出售SM获5300亿韩元",
+      "onboard_time": 1709923939,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 114012,
