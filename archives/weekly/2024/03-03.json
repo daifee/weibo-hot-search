@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709918132737,
+  "endTime": 1709919252839,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -16403,6 +16403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91052,
+      "num": 91052,
+      "word": "沙丘 表舅",
+      "onboard_time": 1709916745,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 90724,
       "num": 90724,
       "word": "爆改视频背后谁赚麻了",
@@ -16449,14 +16457,6 @@
       "onboard_time": 1709459430,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89119,
-      "num": 89119,
-      "word": "沙丘 表舅",
-      "onboard_time": 1709916745,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 87881,
@@ -17011,6 +17011,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 55893,
+      "num": 61408,
+      "word": "米卡在成都公园打麻将",
+      "onboard_time": 1709917882,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55522,
       "num": 61412,
       "word": "秦霄贤包场被我弄丢的你",
@@ -17081,14 +17089,6 @@
       "onboard_time": 1709854347,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 50049,
-      "num": 61408,
-      "word": "米卡在成都公园打麻将",
-      "onboard_time": 1709917882,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 49910,
@@ -17177,6 +17177,14 @@
       "onboard_time": 1709813672,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46152,
+      "num": 53753,
+      "word": "成龙曾在电影中扮过阿拉蕾",
+      "onboard_time": 1709919022,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 46128,
