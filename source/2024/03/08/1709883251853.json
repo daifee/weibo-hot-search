@@ -1,0 +1,410 @@
+{
+  "runTime": 1709883251853,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 927472,
+        "num": 927472,
+        "word": "建议取消公务员35岁门槛",
+        "onboard_time": 1709863886,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 738838,
+        "num": 738838,
+        "word": "大学生用马面裙做床帘",
+        "onboard_time": 1709878470,
+        "rank": 1,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 22968,
+        "num": 732326,
+        "word": "起草人解读两高工作报告",
+        "onboard_time": 1709862690,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807596,
+        "num": 731634,
+        "word": "SM你是真的饿了",
+        "onboard_time": 1709876728,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 726422,
+        "num": 726422,
+        "word": "乌合麒麟 代表日本漫画的黄金时代落幕了",
+        "onboard_time": 1709870794,
+        "rank": 4,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 628341,
+        "num": 628341,
+        "word": "东方甄选将董宇辉商标转让给与辉同行",
+        "onboard_time": 1709877392,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 471750,
+        "num": 471750,
+        "word": "东部战区陆军首个女子导弹排",
+        "onboard_time": 1709878769,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1255772,
+        "num": 461115,
+        "word": "鸟山明去世",
+        "onboard_time": 1709867670,
+        "rank": 7,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 413657,
+        "num": 413657,
+        "word": "刑法第二十条已被唤醒",
+        "onboard_time": 1709864548,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 326785,
+        "num": 326785,
+        "word": "妇女节快乐",
+        "onboard_time": 1709856394,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1047483,
+        "num": 323747,
+        "word": "我上班穿的很恶心的原因",
+        "onboard_time": 1709875771,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1026796,
+        "num": 318572,
+        "word": "阿拉蕾",
+        "onboard_time": 1709868634,
+        "rank": 11,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 717283,
+        "num": 312643,
+        "word": "妇女节回归本质",
+        "onboard_time": 1709873313,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 574684,
+        "num": 302906,
+        "word": "孟羽童谈做博主后的收入",
+        "onboard_time": 1709881168,
+        "rank": 13,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 496179,
+        "num": 296826,
+        "word": "彭于晏 阮经天你这样礼貌吗",
+        "onboard_time": 1709881049,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362504,
+        "num": 290737,
+        "word": "papi酱说短视频里不是她本人",
+        "onboard_time": 1709872234,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 289479,
+        "num": 289479,
+        "word": "伊能静儿子哈利时装周vlog",
+        "onboard_time": 1709880390,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257876,
+        "num": 257876,
+        "word": "妇女节放假",
+        "onboard_time": 1709867911,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232498,
+        "num": 232498,
+        "word": "茅台公开高管薪酬",
+        "onboard_time": 1709872054,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 228966,
+        "num": 228966,
+        "word": "张学友疑因上呼吸道感染就医",
+        "onboard_time": 1709869954,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270536,
+        "num": 228421,
+        "word": "大一时期的杨紫",
+        "onboard_time": 1709881709,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227367,
+        "num": 227367,
+        "word": "鸟山明工作室发讣告",
+        "onboard_time": 1709876189,
+        "rank": 21,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 219717,
+        "num": 219717,
+        "word": "娜然还原妲己雪地找簪子名场面",
+        "onboard_time": 1709878110,
+        "rank": 22,
+        "category": "综艺,作品衍生"
+      },
+      {
+        "raw_hot": 209743,
+        "num": 209743,
+        "word": "姚安娜背圆周率",
+        "onboard_time": 1709882250,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195960,
+        "num": 195960,
+        "word": "KPL",
+        "onboard_time": 1709882548,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174226,
+        "num": 174226,
+        "word": "北京四中校长反对陪伴式写作业",
+        "onboard_time": 1709882488,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 172000,
+        "num": 172000,
+        "word": "妇女能顶半边天",
+        "onboard_time": 1709856754,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165893,
+        "num": 165893,
+        "word": "鸟山明曾说没有成龙的醉拳就没有龙珠",
+        "onboard_time": 1709879553,
+        "rank": 27,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 145353,
+        "num": 145353,
+        "word": "武汉大学王意通奖100000元",
+        "onboard_time": 1709874091,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142759,
+        "num": 142759,
+        "word": "妈妈好像不知道我已经二十多岁了",
+        "onboard_time": 1709879970,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 319795,
+        "num": 140919,
+        "word": "33岁单身女性的生活",
+        "onboard_time": 1709882548,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170396,
+        "num": 138692,
+        "word": "当我发现床单能画画时",
+        "onboard_time": 1709882130,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132279,
+        "num": 132279,
+        "word": "爱奇艺3月片单",
+        "onboard_time": 1709866347,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131791,
+        "num": 131791,
+        "word": "男友送的生日礼物震惊我三次",
+        "onboard_time": 1709881049,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128604,
+        "num": 128604,
+        "word": "为什么小时候吃过的辣条都消失了",
+        "onboard_time": 1709881108,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127824,
+        "num": 127824,
+        "word": "上班了才知道他演的有多像",
+        "onboard_time": 1709871753,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126931,
+        "num": 126931,
+        "word": "赵露思紫色花钿妆",
+        "onboard_time": 1709881168,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124171,
+        "num": 124171,
+        "word": "为什么入睡最好不晚于23点",
+        "onboard_time": 1709868149,
+        "rank": 37,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 123004,
+        "num": 123004,
+        "word": "婚前同居施暴须以家庭成员承担刑事责任",
+        "onboard_time": 1709864786,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118650,
+        "num": 118650,
+        "word": "库里受伤",
+        "onboard_time": 1709876309,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118625,
+        "num": 118625,
+        "word": "Jennie合作曲公开",
+        "onboard_time": 1709876669,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 113650,
+        "num": 113650,
+        "word": "j人相册vsp人相册",
+        "onboard_time": 1709879789,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109741,
+        "num": 109741,
+        "word": "妇女节",
+        "onboard_time": 1709833280,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109569,
+        "num": 109569,
+        "word": "惠英红上一秒提鞋 下一秒狠戾",
+        "onboard_time": 1709879668,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107291,
+        "num": 107291,
+        "word": "张杰演唱会",
+        "onboard_time": 1709874272,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101372,
+        "num": 101372,
+        "word": "国家线",
+        "onboard_time": 1709860948,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98140,
+        "num": 98140,
+        "word": "宝应中学开设女德讲座",
+        "onboard_time": 1709880690,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 95124,
+        "num": 95124,
+        "word": "全员加速中身份大揭秘",
+        "onboard_time": 1709877149,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92433,
+        "num": 92433,
+        "word": "苏醒团队代发剧照",
+        "onboard_time": 1709881948,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84304,
+        "num": 84304,
+        "word": "华为回应P70延期发布",
+        "onboard_time": 1709883212,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#大国工匠是中华民族大厦的基石栋梁#"
+    }
+  }
+}
