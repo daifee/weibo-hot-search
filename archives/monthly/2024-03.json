@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709915665678,
+  "endTime": 1709918132737,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -6875,6 +6875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 366581,
+      "num": 366581,
+      "word": "61岁双胞胎宝妈回应高龄产子",
+      "onboard_time": 1709914111,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365931,
       "num": 303373,
       "word": "祝绪丹烈焰妆造",
@@ -7451,6 +7459,14 @@
       "category": "美食,科学科普"
     },
     {
+      "raw_hot": 336583,
+      "num": 205839,
+      "word": "宁波现在最尴尬的房子",
+      "onboard_time": 1709910513,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 335867,
       "num": 335867,
       "word": "GAI喊话王鹤棣",
@@ -7521,14 +7537,6 @@
       "onboard_time": 1709611770,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 333788,
-      "num": 205839,
-      "word": "宁波现在最尴尬的房子",
-      "onboard_time": 1709910513,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 333503,
@@ -10363,6 +10371,14 @@
       "category": "美食,科学科普"
     },
     {
+      "raw_hot": 231403,
+      "num": 198400,
+      "word": "这些都是35岁以下的人的脊椎",
+      "onboard_time": 1709910214,
+      "rank": 31,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 231089,
       "num": 231089,
       "word": "送你房子能把你送成倾家荡产",
@@ -10721,14 +10737,6 @@
       "onboard_time": 1709629234,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 221750,
-      "num": 198400,
-      "word": "这些都是35岁以下的人的脊椎",
-      "onboard_time": 1709910214,
-      "rank": 31,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 221619,
@@ -11545,14 +11553,6 @@
       "onboard_time": 1709630073,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 208267,
-      "num": 208267,
-      "word": "61岁双胞胎宝妈回应高龄产子",
-      "onboard_time": 1709914111,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207929,
@@ -21579,6 +21579,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 92765,
+      "num": 92765,
+      "word": "李克勤 没有你赢了世界又如何",
+      "onboard_time": 1709914947,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 92726,
       "num": 92726,
       "word": "狗狗只是在满怀期待中睡着了",
@@ -21609,14 +21617,6 @@
       "onboard_time": 1709384852,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92191,
-      "num": 92191,
-      "word": "李克勤 没有你赢了世界又如何",
-      "onboard_time": 1709914947,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 91687,
@@ -21721,6 +21721,14 @@
       "onboard_time": 1709459430,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89119,
+      "num": 89119,
+      "word": "沙丘 表舅",
+      "onboard_time": 1709916745,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 89020,
@@ -22155,6 +22163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 67703,
+      "num": 67703,
+      "word": "有一种友情叫offer",
+      "onboard_time": 1709916266,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67652,
       "num": 254040,
       "word": "原神千织双刀",
@@ -22467,6 +22483,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 55522,
+      "num": 61412,
+      "word": "秦霄贤包场被我弄丢的你",
+      "onboard_time": 1709916625,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 55066,
       "num": 975099,
       "word": "话说两会知识点",
@@ -22601,6 +22625,14 @@
       "onboard_time": 1709854347,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 50049,
+      "num": 61408,
+      "word": "米卡在成都公园打麻将",
+      "onboard_time": 1709917882,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 49910,

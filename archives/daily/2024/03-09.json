@@ -1,6 +1,6 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709915665678,
+  "endTime": 1709918132737,
   "band_list": [
     {
       "raw_hot": 1802368,
@@ -59,6 +59,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 366581,
+      "num": 366581,
+      "word": "61岁双胞胎宝妈回应高龄产子",
+      "onboard_time": 1709914111,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354483,
       "num": 205980,
       "word": "何猷君奚梦瑶参加新船下水礼",
@@ -67,7 +75,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 333788,
+      "raw_hot": 336583,
       "num": 205839,
       "word": "宁波现在最尴尬的房子",
       "onboard_time": 1709910513,
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231403,
+      "num": 198400,
+      "word": "这些都是35岁以下的人的脊椎",
+      "onboard_time": 1709910214,
+      "rank": 25,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 219588,
       "num": 205799,
       "word": "陈晓新剧 睡在我上铺的老婆",
@@ -131,14 +147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 208267,
-      "num": 208267,
-      "word": "61岁双胞胎宝妈回应高龄产子",
-      "onboard_time": 1709914111,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 206452,
       "num": 206452,
       "word": "眉姐姐你女儿长大了",
@@ -153,14 +161,6 @@
       "onboard_time": 1709898630,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198400,
-      "num": 198400,
-      "word": "这些都是35岁以下的人的脊椎",
-      "onboard_time": 1709910214,
-      "rank": 25,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 186213,
@@ -307,8 +307,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 92191,
-      "num": 92191,
+      "raw_hot": 92765,
+      "num": 92765,
       "word": "李克勤 没有你赢了世界又如何",
       "onboard_time": 1709914947,
       "rank": 37,
@@ -321,6 +321,14 @@
       "onboard_time": 1709913331,
       "rank": 40,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 89119,
+      "num": 89119,
+      "word": "沙丘 表舅",
+      "onboard_time": 1709916745,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 86976,
@@ -395,12 +403,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 67703,
+      "num": 67703,
+      "word": "有一种友情叫offer",
+      "onboard_time": 1709916266,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64089,
       "num": 88803,
       "word": "周冠宇三练上墙",
       "onboard_time": 1709910871,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55522,
+      "num": 61412,
+      "word": "秦霄贤包场被我弄丢的你",
+      "onboard_time": 1709916625,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 51714,
@@ -411,12 +435,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 50049,
+      "num": 61408,
+      "word": "米卡在成都公园打麻将",
+      "onboard_time": 1709917882,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46796,
       "num": 88446,
       "word": "外交部对鸟山明去世表示哀悼",
       "onboard_time": 1709884649,
       "rank": 49,
       "category": "国内时政,动漫"
+    },
+    {
+      "raw_hot": 3807,
+      "num": 293270,
+      "word": "最高法工作报告",
+      "onboard_time": 1709864308,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
