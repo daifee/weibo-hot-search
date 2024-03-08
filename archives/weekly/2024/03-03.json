@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709896437839,
+  "endTime": 1709897633427,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -3803,6 +3803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 458977,
+      "num": 458977,
+      "word": "我想和你唱 姐姐真漂亮",
+      "onboard_time": 1709893888,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 458572,
       "num": 458572,
       "word": "熬夜后吃辅酶Q10真的有用吗",
@@ -3953,14 +3961,6 @@
       "onboard_time": 1709721273,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 443809,
-      "num": 443809,
-      "word": "我想和你唱 姐姐真漂亮",
-      "onboard_time": 1709893888,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 442569,
@@ -5433,6 +5433,14 @@
       "onboard_time": 1709888551,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 328982,
+      "num": 328982,
+      "word": "掉鞋的是粉丝 慌张的是陈丽君",
+      "onboard_time": 1709893409,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 328566,
@@ -7019,14 +7027,6 @@
       "category": "电影,财经"
     },
     {
-      "raw_hot": 248811,
-      "num": 248811,
-      "word": "掉鞋的是粉丝 慌张的是陈丽君",
-      "onboard_time": 1709893409,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 248459,
       "num": 238952,
       "word": "朋友好像不知道我送的是黄金",
@@ -7371,6 +7371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 236300,
+      "num": 231533,
+      "word": "看啥都想买是对童年的过度补偿",
+      "onboard_time": 1709897129,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236162,
       "num": 236162,
       "word": "黄景瑜王子奇二搭",
@@ -7441,6 +7449,14 @@
       "onboard_time": 1709726430,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 234487,
+      "num": 234487,
+      "word": "胡彦斌回应不唱月光的原因",
+      "onboard_time": 1709896950,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 234292,
@@ -9587,6 +9603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 186643,
+      "num": 186643,
+      "word": "歼击机女飞行员太飒了",
+      "onboard_time": 1709897609,
+      "rank": 26,
+      "category": "军事"
+    },
+    {
       "raw_hot": 186587,
       "num": 186587,
       "word": "丁程鑫舞蹈版Monster",
@@ -10115,6 +10139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177625,
+      "num": 164202,
+      "word": "迷你麻将",
+      "onboard_time": 1709897129,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177376,
       "num": 177376,
       "word": "LGD对战LNG",
@@ -10161,6 +10193,14 @@
       "onboard_time": 1709546375,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177005,
+      "num": 177005,
+      "word": "为什么龙珠的主角叫孙悟空",
+      "onboard_time": 1709895450,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 176980,
@@ -10579,6 +10619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169696,
+      "num": 169696,
+      "word": "春天不会穿搭的人有福了",
+      "onboard_time": 1709894670,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 169567,
       "num": 169567,
       "word": "RNG七连败",
@@ -10689,6 +10737,14 @@
       "onboard_time": 1709775211,
       "rank": 39,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 167726,
+      "num": 167726,
+      "word": "BLG战胜FPX",
+      "onboard_time": 1709896348,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 167548,
@@ -10857,14 +10913,6 @@
       "onboard_time": 1709808032,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 165112,
-      "num": 165112,
-      "word": "为什么龙珠的主角叫孙悟空",
-      "onboard_time": 1709895450,
-      "rank": 31,
-      "category": "动漫"
     },
     {
       "raw_hot": 164977,
@@ -11201,6 +11249,14 @@
       "onboard_time": 1709705252,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160570,
+      "num": 160570,
+      "word": "甜茶好帅",
+      "onboard_time": 1709896590,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 160528,
@@ -12915,6 +12971,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 139144,
+      "num": 139144,
+      "word": "一代人有一代人的收集癖",
+      "onboard_time": 1709897309,
+      "rank": 35,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 138879,
       "num": 138879,
       "word": "徐若晗手绘",
@@ -13361,14 +13425,6 @@
       "onboard_time": 1709795551,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133757,
-      "num": 133757,
-      "word": "春天不会穿搭的人有福了",
-      "onboard_time": 1709894670,
-      "rank": 36,
-      "category": "时尚"
     },
     {
       "raw_hot": 133734,
@@ -14387,14 +14443,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 121446,
-      "num": 121446,
-      "word": "BLG战胜FPX",
-      "onboard_time": 1709896348,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 121401,
       "num": 121401,
       "word": "milkyway连续四次获最佳新秀",
@@ -14785,6 +14833,14 @@
       "onboard_time": 1709538331,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114496,
+      "num": 114496,
+      "word": "沙丘 女性角色",
+      "onboard_time": 1709896531,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 114477,
@@ -15529,6 +15585,14 @@
       "onboard_time": 1709407277,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101102,
+      "num": 101102,
+      "word": "樊振东说关注很多体育项目",
+      "onboard_time": 1709896950,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 100824,
@@ -16953,6 +17017,14 @@
       "onboard_time": 1709750957,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 17496,
+      "num": 603399,
+      "word": "全国两会她们说出我心声",
+      "onboard_time": 1709882672,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15965,

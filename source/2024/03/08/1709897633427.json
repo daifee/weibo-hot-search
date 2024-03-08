@@ -1,0 +1,410 @@
+{
+  "runTime": 1709897633427,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 892350,
+        "num": 892350,
+        "word": "建议实行未成年人父母弹性上班制",
+        "onboard_time": 1709889630,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865360,
+        "num": 865360,
+        "word": "樊振东太强了",
+        "onboard_time": 1709894250,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17496,
+        "num": 603399,
+        "word": "全国两会她们说出我心声",
+        "onboard_time": 1709882672,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 571360,
+        "num": 571360,
+        "word": "日本单亲妈妈来中国后",
+        "onboard_time": 1709892030,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 557886,
+        "num": 557886,
+        "word": "雅诗兰黛称在中国销售的所有产品合规",
+        "onboard_time": 1709891790,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 859096,
+        "num": 555432,
+        "word": "鸟山明去世",
+        "onboard_time": 1709867670,
+        "rank": 5,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 551892,
+        "num": 551892,
+        "word": "代号鸢 你的美工是神",
+        "onboard_time": 1709894428,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 458977,
+        "num": 458977,
+        "word": "我想和你唱 姐姐真漂亮",
+        "onboard_time": 1709893888,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148821,
+        "num": 458727,
+        "word": "乡镇女快递员抓小偷救人样样在行",
+        "onboard_time": 1709888191,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297986,
+        "num": 448529,
+        "word": "妇女节公司为女生开了一间花店",
+        "onboard_time": 1709891430,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541651,
+        "num": 441735,
+        "word": "向佐请摄影师不要在鼻孔下面拍他",
+        "onboard_time": 1709890289,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478274,
+        "num": 440942,
+        "word": "王栎鑫也没抢到票",
+        "onboard_time": 1709891187,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 435930,
+        "num": 435930,
+        "word": "建议取消公务员35岁门槛",
+        "onboard_time": 1709863886,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 390780,
+        "num": 390780,
+        "word": "首款折叠屏iPhone",
+        "onboard_time": 1709885189,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 328982,
+        "num": 328982,
+        "word": "掉鞋的是粉丝 慌张的是陈丽君",
+        "onboard_time": 1709893409,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305166,
+        "num": 305166,
+        "word": "杨紫的学生证",
+        "onboard_time": 1709883688,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286750,
+        "num": 286750,
+        "word": "傅融伟大的脸",
+        "onboard_time": 1709894311,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277558,
+        "num": 277558,
+        "word": "外交部对鸟山明去世表示哀悼",
+        "onboard_time": 1709884649,
+        "rank": 17,
+        "category": "国内时政,动漫"
+      },
+      {
+        "raw_hot": 263910,
+        "num": 263910,
+        "word": "张学友新冠阳性正在家隔离",
+        "onboard_time": 1709885432,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 234487,
+        "num": 234487,
+        "word": "胡彦斌回应不唱月光的原因",
+        "onboard_time": 1709896950,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 454159,
+        "num": 232217,
+        "word": "怀孕前一定要对乳房做全面检查",
+        "onboard_time": 1709884471,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 236300,
+        "num": 231533,
+        "word": "看啥都想买是对童年的过度补偿",
+        "onboard_time": 1709897129,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229048,
+        "num": 229048,
+        "word": "沙丘3",
+        "onboard_time": 1709894670,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226129,
+        "num": 226129,
+        "word": "大家存一万需要多久",
+        "onboard_time": 1709886212,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208186,
+        "num": 208186,
+        "word": "阿拉蕾",
+        "onboard_time": 1709868634,
+        "rank": 24,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 187505,
+        "num": 187505,
+        "word": "雅诗兰黛旗下产品在美国检出高浓度致癌物苯",
+        "onboard_time": 1709893951,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 186643,
+        "num": 186643,
+        "word": "歼击机女飞行员太飒了",
+        "onboard_time": 1709897609,
+        "rank": 26,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 177005,
+        "num": 177005,
+        "word": "为什么龙珠的主角叫孙悟空",
+        "onboard_time": 1709895450,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 169696,
+        "num": 169696,
+        "word": "春天不会穿搭的人有福了",
+        "onboard_time": 1709894670,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 167726,
+        "num": 167726,
+        "word": "BLG战胜FPX",
+        "onboard_time": 1709896348,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177625,
+        "num": 164202,
+        "word": "迷你麻将",
+        "onboard_time": 1709897129,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160570,
+        "num": 160570,
+        "word": "甜茶好帅",
+        "onboard_time": 1709896590,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152694,
+        "num": 152694,
+        "word": "孟羽童谈做博主后的收入",
+        "onboard_time": 1709881168,
+        "rank": 32,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 151104,
+        "num": 151104,
+        "word": "XLB说霸哥打不了职业",
+        "onboard_time": 1709894969,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140021,
+        "num": 140021,
+        "word": "乌合麒麟 代表日本漫画的黄金时代落幕了",
+        "onboard_time": 1709870794,
+        "rank": 34,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 139144,
+        "num": 139144,
+        "word": "一代人有一代人的收集癖",
+        "onboard_time": 1709897309,
+        "rank": 35,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 137269,
+        "num": 137269,
+        "word": "领克07",
+        "onboard_time": 1709895929,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 135038,
+        "num": 135038,
+        "word": "谢楠玩游戏给赵丽颖打电话",
+        "onboard_time": 1709886929,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132914,
+        "num": 132914,
+        "word": "BLG晋级春季赛季后赛",
+        "onboard_time": 1709895568,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122913,
+        "num": 122913,
+        "word": "妇女节放假",
+        "onboard_time": 1709867911,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120665,
+        "num": 120665,
+        "word": "一百原来是这么小的数字",
+        "onboard_time": 1709893951,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120487,
+        "num": 120487,
+        "word": "妇女节快乐",
+        "onboard_time": 1709856394,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114496,
+        "num": 114496,
+        "word": "沙丘 女性角色",
+        "onboard_time": 1709896531,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109395,
+        "num": 109395,
+        "word": "XYG对战eStar",
+        "onboard_time": 1709893768,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108749,
+        "num": 108749,
+        "word": "papi酱说短视频里不是她本人",
+        "onboard_time": 1709872234,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103833,
+        "num": 103833,
+        "word": "陈哲远GQ上班图",
+        "onboard_time": 1709895209,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 101102,
+        "num": 101102,
+        "word": "樊振东说关注很多体育项目",
+        "onboard_time": 1709896950,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98325,
+        "num": 98325,
+        "word": "黄雅莉给未来宝宝的vlog",
+        "onboard_time": 1709891611,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96998,
+        "num": 96998,
+        "word": "LNG BSYY",
+        "onboard_time": 1709894849,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90641,
+        "num": 90641,
+        "word": "成龙发博悼念鸟山明",
+        "onboard_time": 1709883811,
+        "rank": 49,
+        "category": "艺人,动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
