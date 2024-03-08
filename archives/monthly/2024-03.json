@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709901920099,
+  "endTime": 1709903944443,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1355,6 +1355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1034897,
+      "num": 359409,
+      "word": "伊能静 其实他有自己的名字",
+      "onboard_time": 1709898630,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1034819,
       "num": 1034819,
       "word": "胡彦斌回应不唱月光的原因",
@@ -1471,14 +1479,6 @@
       "num": 1000599,
       "word": "修杰楷回应梧桐妹迷恋穿环",
       "onboard_time": 1709297971,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 999201,
-      "num": 359409,
-      "word": "伊能静 其实他有自己的名字",
-      "onboard_time": 1709898630,
       "rank": 10,
       "category": "艺人"
     },
@@ -1753,6 +1753,14 @@
       "onboard_time": 1709606911,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 898374,
+      "num": 898374,
+      "word": "鸟山明年收入达7200万元",
+      "onboard_time": 1709900010,
+      "rank": 3,
+      "category": "动漫"
     },
     {
       "raw_hot": 898009,
@@ -2395,14 +2403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 746531,
-      "num": 746531,
-      "word": "鸟山明年收入达7200万元",
-      "onboard_time": 1709900010,
-      "rank": 3,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 745492,
       "num": 745492,
       "word": "Mai浪姐补位",
@@ -2713,6 +2713,14 @@
       "onboard_time": 1709462976,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 704633,
+      "num": 704633,
+      "word": "代表建议为适龄女性免费接种HPV疫苗",
+      "onboard_time": 1709900909,
+      "rank": 34,
+      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 703508,
@@ -4252,7 +4260,7 @@
     },
     {
       "raw_hot": 536468,
-      "num": 178277,
+      "num": 187861,
       "word": "樊振东唱LoveStory",
       "onboard_time": 1709899710,
       "rank": 30,
@@ -4769,14 +4777,6 @@
       "onboard_time": 1709295272,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 492570,
-      "num": 492570,
-      "word": "代表建议为适龄女性免费接种HPV疫苗",
-      "onboard_time": 1709900909,
-      "rank": 34,
-      "category": "国内时政,健康医疗"
     },
     {
       "raw_hot": 492303,
@@ -5531,6 +5531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 440027,
+      "num": 440027,
+      "word": "鸟山明曾称妻子是他创作的救星",
+      "onboard_time": 1709899288,
+      "rank": 14,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 439616,
       "num": 439616,
       "word": "韩娱文盲",
@@ -5721,14 +5729,6 @@
       "onboard_time": 1709255192,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 427335,
-      "num": 427335,
-      "word": "鸟山明曾称妻子是他创作的救星",
-      "onboard_time": 1709899288,
-      "rank": 14,
-      "category": "动漫"
     },
     {
       "raw_hot": 426965,
@@ -6083,6 +6083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 404703,
+      "num": 309680,
+      "word": "不用黑袋子装卫生巾也没关系",
+      "onboard_time": 1709901868,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 404276,
       "num": 293890,
       "word": "让人一周胖一斤的食物别敞开吃了",
@@ -6369,6 +6377,14 @@
       "onboard_time": 1709794654,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 384023,
+      "num": 384023,
+      "word": "大理寺少卿游 半是蜜糖半是伤",
+      "onboard_time": 1709900548,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 383625,
@@ -6699,6 +6715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368970,
+      "num": 368970,
+      "word": "陈晓新剧 睡在我上铺的老婆",
+      "onboard_time": 1709902530,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367658,
       "num": 367658,
       "word": "华为P70系列手机延期发布",
@@ -6825,6 +6849,14 @@
       "onboard_time": 1709358813,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 358204,
+      "num": 358204,
+      "word": "瘦子Ella新片演情侣",
+      "onboard_time": 1709897970,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 358181,
@@ -7395,14 +7427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331981,
-      "num": 331981,
-      "word": "瘦子Ella新片演情侣",
-      "onboard_time": 1709897970,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 331010,
       "num": 331010,
       "word": "时代少年团全员羊角帽",
@@ -7865,14 +7889,6 @@
       "onboard_time": 1709255670,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 310050,
-      "num": 310050,
-      "word": "大理寺少卿游 半是蜜糖半是伤",
-      "onboard_time": 1709900548,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 309659,
@@ -8340,7 +8356,7 @@
     },
     {
       "raw_hot": 292367,
-      "num": 217637,
+      "num": 230523,
       "word": "恋爱兄妹",
       "onboard_time": 1709389174,
       "rank": 27,
@@ -8697,6 +8713,22 @@
       "onboard_time": 1709878110,
       "rank": 24,
       "category": "综艺,作品衍生"
+    },
+    {
+      "raw_hot": 279260,
+      "num": 237423,
+      "word": "其实一周休三天才是最合理的",
+      "onboard_time": 1709903670,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 278047,
+      "num": 278047,
+      "word": "剑来 陈哲远",
+      "onboard_time": 1709903251,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 277970,
@@ -11779,6 +11811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202448,
+      "num": 255243,
+      "word": "明天考教资",
+      "onboard_time": 1709902591,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 202379,
       "num": 202379,
       "word": "湖人vs掘金",
@@ -12777,14 +12817,6 @@
       "onboard_time": 1709737354,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189802,
-      "num": 189802,
-      "word": "不用黑袋子装卫生巾也没关系",
-      "onboard_time": 1709901868,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 189739,
@@ -15363,6 +15395,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 159492,
+      "num": 159492,
+      "word": "雅诗兰黛倩碧回应苯超标800倍",
+      "onboard_time": 1709903069,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 159417,
       "num": 159417,
       "word": "摁着一个作者使劲薅",
@@ -17451,6 +17491,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 139185,
+      "num": 139185,
+      "word": "haichao发博 香",
+      "onboard_time": 1709903489,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139144,
       "num": 139144,
       "word": "一代人有一代人的收集癖",
@@ -17825,6 +17873,14 @@
       "onboard_time": 1709442572,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135968,
+      "num": 135968,
+      "word": "被我弄丢的你 看到了自己",
+      "onboard_time": 1709903371,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 135877,
@@ -18219,6 +18275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131581,
+      "num": 194469,
+      "word": "新质生产力是个什么力",
+      "onboard_time": 1709903489,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 131468,
       "num": 119748,
       "word": "黄冠亨自拍反面教材",
@@ -18385,6 +18449,14 @@
       "onboard_time": 1709762475,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129832,
+      "num": 129832,
+      "word": "陈靖可皮肤状态",
+      "onboard_time": 1709903010,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 129819,
@@ -19099,6 +19171,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 122814,
+      "num": 122814,
+      "word": "KSG对战TTG",
+      "onboard_time": 1709902647,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122592,
       "num": 122592,
       "word": "别对我动心 风衣加成",
@@ -19401,6 +19481,14 @@
       "onboard_time": 1709214578,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120187,
+      "num": 120187,
+      "word": "再也不用担心鞋带开了",
+      "onboard_time": 1709902229,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 120037,
@@ -19923,6 +20011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114233,
+      "num": 119433,
+      "word": "TES战胜OMG",
+      "onboard_time": 1709902289,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114187,
       "num": 114187,
       "word": "潘玮柏新歌封面都是粉丝",
@@ -20348,7 +20444,7 @@
     },
     {
       "raw_hot": 108651,
-      "num": 270524,
+      "num": 335727,
       "word": "领克07首发亮相",
       "onboard_time": 1709900188,
       "rank": 42,
@@ -21332,7 +21428,7 @@
     },
     {
       "raw_hot": 87056,
-      "num": 148380,
+      "num": 199354,
       "word": "women有力量",
       "onboard_time": 1709901631,
       "rank": 39,
@@ -21396,7 +21492,7 @@
     },
     {
       "raw_hot": 85594,
-      "num": 323152,
+      "num": 750080,
       "word": "最高法工作报告",
       "onboard_time": 1709864308,
       "rank": 14,
