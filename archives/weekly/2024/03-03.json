@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709886109218,
+  "endTime": 1709887117302,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -515,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1352547,
+      "num": 239746,
+      "word": "张学友新冠阳性正在家隔离",
+      "onboard_time": 1709885432,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1339606,
       "num": 1339606,
       "word": "papi酱说短视频里不是她本人",
@@ -891,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1076780,
+      "num": 1076780,
+      "word": "外交部对鸟山明去世表示哀悼",
+      "onboard_time": 1709884649,
+      "rank": 1,
+      "category": "国内时政,动漫"
+    },
+    {
       "raw_hot": 1071912,
       "num": 1071912,
       "word": "建议整治校园形式主义",
@@ -1083,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 964365,
+      "num": 245314,
+      "word": "杨紫的学生证",
+      "onboard_time": 1709883688,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 963736,
       "num": 422443,
       "word": "王一博Jennie同框图",
@@ -1105,14 +1129,6 @@
       "onboard_time": 1709682148,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 943795,
-      "num": 245314,
-      "word": "杨紫的学生证",
-      "onboard_time": 1709883688,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 939808,
@@ -1315,6 +1331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 863179,
+      "num": 223653,
+      "word": "首款折叠屏iPhone",
+      "onboard_time": 1709885189,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 862225,
       "num": 862225,
       "word": "建议火车票免费改签2次",
@@ -1417,14 +1441,6 @@
       "onboard_time": 1709739753,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 834964,
-      "num": 834964,
-      "word": "外交部对鸟山明去世表示哀悼",
-      "onboard_time": 1709884649,
-      "rank": 1,
-      "category": "国内时政,动漫"
     },
     {
       "raw_hot": 831693,
@@ -1803,14 +1819,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 722888,
-      "num": 239746,
-      "word": "张学友新冠阳性正在家隔离",
-      "onboard_time": 1709885432,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 722264,
       "num": 722264,
       "word": "建议优先对90后个人养老金账户发补贴",
@@ -1833,6 +1841,14 @@
       "onboard_time": 1709508205,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 721015,
+      "num": 220830,
+      "word": "怀孕前一定要对乳房做全面检查",
+      "onboard_time": 1709884471,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 718127,
@@ -1867,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 715003,
+      "num": 303191,
+      "word": "孟羽童谈做博主后的收入",
+      "onboard_time": 1709881168,
+      "rank": 13,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 714433,
       "num": 252695,
       "word": "普通家庭怀孕到一岁的花费",
@@ -1881,14 +1905,6 @@
       "onboard_time": 1709798250,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 710421,
-      "num": 303191,
-      "word": "孟羽童谈做博主后的收入",
-      "onboard_time": 1709881168,
-      "rank": 13,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 709971,
@@ -2129,14 +2145,6 @@
       "onboard_time": 1709604329,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 663616,
-      "num": 220830,
-      "word": "怀孕前一定要对乳房做全面检查",
-      "onboard_time": 1709884471,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 661361,
@@ -4571,6 +4579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 379741,
+      "num": 175390,
+      "word": "大家存一万需要多久",
+      "onboard_time": 1709886212,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 379095,
       "num": 379095,
       "word": "以前讨厌现在却真香的食物",
@@ -5723,14 +5739,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 299553,
-      "num": 223653,
-      "word": "首款折叠屏iPhone",
-      "onboard_time": 1709885189,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 299432,
       "num": 299432,
       "word": "拿米哈游画师作品去米哈游投简历",
@@ -6227,6 +6235,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 277537,
+      "num": 277537,
+      "word": "华为回应P70延期发布",
+      "onboard_time": 1709883212,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 277013,
       "num": 277013,
       "word": "2023年经济社会发展主要目标任务圆满完成",
@@ -6241,14 +6257,6 @@
       "onboard_time": 1709541869,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 276009,
-      "num": 276009,
-      "word": "华为回应P70延期发布",
-      "onboard_time": 1709883212,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 275839,
@@ -8371,6 +8379,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 205620,
+      "num": 154478,
+      "word": "WTT新加坡大满贯签表",
+      "onboard_time": 1709886030,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205415,
       "num": 205415,
       "word": "陈牧驰生日自拍照",
@@ -9577,14 +9593,6 @@
       "onboard_time": 1709472692,
       "rank": 34,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 182377,
-      "num": 154478,
-      "word": "WTT新加坡大满贯签表",
-      "onboard_time": 1709886030,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 181927,
@@ -11379,6 +11387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154534,
+      "num": 134768,
+      "word": "不会游泳但肺活量强",
+      "onboard_time": 1709886449,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154425,
       "num": 95039,
       "word": "间谍过家家 次子长大了",
@@ -12257,6 +12273,14 @@
       "onboard_time": 1709517868,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 143994,
+      "num": 143994,
+      "word": "国足31人大名单",
+      "onboard_time": 1709885550,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 143756,
@@ -13771,6 +13795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123542,
+      "num": 123542,
+      "word": "因地制宜发展新质生产力",
+      "onboard_time": 1709886212,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123497,
       "num": 123497,
       "word": "日本麦当劳薯条味香水",
@@ -14017,6 +14049,14 @@
       "onboard_time": 1709802029,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 120848,
+      "num": 120848,
+      "word": "高合直播带货",
+      "onboard_time": 1709886392,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 120513,
@@ -14379,6 +14419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114316,
+      "num": 114316,
+      "word": "当亚洲胃遇上白人饭",
+      "onboard_time": 1709885911,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 114273,
       "num": 114273,
       "word": "TT战胜RNG",
@@ -14587,14 +14635,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 111168,
-      "num": 111168,
-      "word": "国足31人大名单",
-      "onboard_time": 1709885550,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110893,
       "num": 110893,
       "word": "药明系个股集体大跌",
@@ -14777,6 +14817,14 @@
       "onboard_time": 1709706630,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106925,
+      "num": 106925,
+      "word": "大学生曾经都是高中生",
+      "onboard_time": 1709886149,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 106856,
@@ -15003,12 +15051,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 101918,
-      "num": 101918,
-      "word": "当亚洲胃遇上白人饭",
-      "onboard_time": 1709885911,
+      "raw_hot": 102106,
+      "num": 102106,
+      "word": "美的其中一种是妈妈",
+      "onboard_time": 1709886987,
       "rank": 42,
-      "category": "美食"
+      "category": "情感"
+    },
+    {
+      "raw_hot": 101739,
+      "num": 101739,
+      "word": "谢楠玩游戏给赵丽颖打电话",
+      "onboard_time": 1709886929,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 101673,
@@ -15161,6 +15217,14 @@
       "onboard_time": 1709467770,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95926,
+      "num": 95926,
+      "word": "袁咏仪和网红同框",
+      "onboard_time": 1709886808,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 95912,
@@ -16677,6 +16741,9 @@
     },
     {
       "word": "#大国工匠是中华民族大厦的基石栋梁#"
+    },
+    {
+      "word": "#发展新质生产力不是要忽视放弃传统产业#"
     }
   ]
 }

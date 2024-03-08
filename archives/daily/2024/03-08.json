@@ -1,6 +1,6 @@
 {
   "startTime": 1709828457134,
-  "endTime": 1709886109218,
+  "endTime": 1709887117302,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -67,6 +67,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1352547,
+      "num": 239746,
+      "word": "张学友新冠阳性正在家隔离",
+      "onboard_time": 1709885432,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1339606,
       "num": 1339606,
       "word": "papi酱说短视频里不是她本人",
@@ -97,6 +105,14 @@
       "onboard_time": 1709869954,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1076780,
+      "num": 1076780,
+      "word": "外交部对鸟山明去世表示哀悼",
+      "onboard_time": 1709884649,
+      "rank": 1,
+      "category": "国内时政,动漫"
     },
     {
       "raw_hot": 1060949,
@@ -139,7 +155,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 943795,
+      "raw_hot": 964365,
       "num": 245314,
       "word": "杨紫的学生证",
       "onboard_time": 1709883688,
@@ -163,12 +179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 834964,
-      "num": 834964,
-      "word": "外交部对鸟山明去世表示哀悼",
-      "onboard_time": 1709884649,
-      "rank": 1,
-      "category": "国内时政,动漫"
+      "raw_hot": 863179,
+      "num": 223653,
+      "word": "首款折叠屏iPhone",
+      "onboard_time": 1709885189,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 822352,
@@ -259,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 722888,
-      "num": 239746,
-      "word": "张学友新冠阳性正在家隔离",
-      "onboard_time": 1709885432,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 721911,
       "num": 280817,
       "word": "男子上班浏览色情网站被开除辩称电脑中毒",
@@ -275,7 +283,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 710421,
+      "raw_hot": 721015,
+      "num": 220830,
+      "word": "怀孕前一定要对乳房做全面检查",
+      "onboard_time": 1709884471,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 715003,
       "num": 303191,
       "word": "孟羽童谈做博主后的收入",
       "onboard_time": 1709881168,
@@ -289,14 +305,6 @@
       "onboard_time": 1709853744,
       "rank": 8,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 663616,
-      "num": 220830,
-      "word": "怀孕前一定要对乳房做全面检查",
-      "onboard_time": 1709884471,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 661361,
@@ -475,6 +483,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 379741,
+      "num": 175390,
+      "word": "大家存一万需要多久",
+      "onboard_time": 1709886212,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 378570,
       "num": 378570,
       "word": "急性硬膜下血肿",
@@ -587,14 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 299553,
-      "num": 223653,
-      "word": "首款折叠屏iPhone",
-      "onboard_time": 1709885189,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 298940,
       "num": 298940,
       "word": "77名被告人宣告无罪",
@@ -691,8 +699,8 @@
       "category": "综艺,作品衍生"
     },
     {
-      "raw_hot": 276009,
-      "num": 276009,
+      "raw_hot": 277537,
+      "num": 277537,
       "word": "华为回应P70延期发布",
       "onboard_time": 1709883212,
       "rank": 49,
@@ -907,6 +915,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 205620,
+      "num": 154478,
+      "word": "WTT新加坡大满贯签表",
+      "onboard_time": 1709886030,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202712,
       "num": 202712,
       "word": "普通人没必要对孩子进行苦难教育",
@@ -1041,14 +1057,6 @@
       "onboard_time": 1709864067,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 182377,
-      "num": 154478,
-      "word": "WTT新加坡大满贯签表",
-      "onboard_time": 1709886030,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 181533,
@@ -1227,6 +1235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154534,
+      "num": 134768,
+      "word": "不会游泳但肺活量强",
+      "onboard_time": 1709886449,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154425,
       "num": 95039,
       "word": "间谍过家家 次子长大了",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1709859450,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 143994,
+      "num": 143994,
+      "word": "国足31人大名单",
+      "onboard_time": 1709885550,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 143740,
@@ -1523,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123542,
+      "num": 123542,
+      "word": "因地制宜发展新质生产力",
+      "onboard_time": 1709886212,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 122412,
       "num": 122412,
       "word": "女性人大代表祝姐妹们节日快乐",
@@ -1537,6 +1569,14 @@
       "onboard_time": 1709867069,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120848,
+      "num": 120848,
+      "word": "高合直播带货",
+      "onboard_time": 1709886392,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 120419,
@@ -1571,6 +1611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 114316,
+      "num": 114316,
+      "word": "当亚洲胃遇上白人饭",
+      "onboard_time": 1709885911,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 113650,
       "num": 113650,
       "word": "j人相册vsp人相册",
@@ -1593,14 +1641,6 @@
       "onboard_time": 1709832200,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111168,
-      "num": 111168,
-      "word": "国足31人大名单",
-      "onboard_time": 1709885550,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 109870,
@@ -1635,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106925,
+      "num": 106925,
+      "word": "大学生曾经都是高中生",
+      "onboard_time": 1709886149,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106565,
       "num": 106565,
       "word": "公牛vs勇士",
@@ -1659,6 +1707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102106,
+      "num": 102106,
+      "word": "美的其中一种是妈妈",
+      "onboard_time": 1709886987,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101957,
       "num": 101957,
       "word": "唐斯半月板撕裂",
@@ -1667,12 +1723,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101918,
-      "num": 101918,
-      "word": "当亚洲胃遇上白人饭",
-      "onboard_time": 1709885911,
-      "rank": 42,
-      "category": "美食"
+      "raw_hot": 101739,
+      "num": 101739,
+      "word": "谢楠玩游戏给赵丽颖打电话",
+      "onboard_time": 1709886929,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 101352,
@@ -1713,6 +1769,14 @@
       "onboard_time": 1709877870,
       "rank": 48,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 95926,
+      "num": 95926,
+      "word": "袁咏仪和网红同框",
+      "onboard_time": 1709886808,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 95912,
@@ -2114,6 +2178,9 @@
     },
     {
       "word": "#大国工匠是中华民族大厦的基石栋梁#"
+    },
+    {
+      "word": "#发展新质生产力不是要忽视放弃传统产业#"
     }
   ]
 }

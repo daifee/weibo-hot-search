@@ -1,0 +1,410 @@
+{
+  "runTime": 1709887117302,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1076780,
+        "num": 1076780,
+        "word": "外交部对鸟山明去世表示哀悼",
+        "onboard_time": 1709884649,
+        "rank": 0,
+        "category": "国内时政,动漫"
+      },
+      {
+        "raw_hot": 793161,
+        "num": 793161,
+        "word": "建议取消公务员35岁门槛",
+        "onboard_time": 1709863886,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26919,
+        "num": 480469,
+        "word": "起草人解读两高工作报告",
+        "onboard_time": 1709862690,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347994,
+        "num": 347994,
+        "word": "大学生用马面裙做床帘",
+        "onboard_time": 1709878470,
+        "rank": 3,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 277537,
+        "num": 277537,
+        "word": "华为回应P70延期发布",
+        "onboard_time": 1709883212,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1042960,
+        "num": 276997,
+        "word": "鸟山明去世",
+        "onboard_time": 1709867670,
+        "rank": 5,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 250038,
+        "num": 250038,
+        "word": "妇女节快乐",
+        "onboard_time": 1709856394,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239578,
+        "num": 239578,
+        "word": "刑法第二十条已被唤醒",
+        "onboard_time": 1709864548,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202495,
+        "num": 202495,
+        "word": "妇女节放假",
+        "onboard_time": 1709867911,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196479,
+        "num": 196479,
+        "word": "东部战区陆军首个女子导弹排",
+        "onboard_time": 1709878769,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1352547,
+        "num": 194809,
+        "word": "张学友新冠阳性正在家隔离",
+        "onboard_time": 1709885432,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 964365,
+        "num": 193994,
+        "word": "杨紫的学生证",
+        "onboard_time": 1709883688,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 863179,
+        "num": 191743,
+        "word": "首款折叠屏iPhone",
+        "onboard_time": 1709885189,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 720376,
+        "num": 190378,
+        "word": "阿拉蕾",
+        "onboard_time": 1709868634,
+        "rank": 13,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 521990,
+        "num": 188816,
+        "word": "SM你是真的饿了",
+        "onboard_time": 1709876728,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 715003,
+        "num": 185702,
+        "word": "孟羽童谈做博主后的收入",
+        "onboard_time": 1709881168,
+        "rank": 15,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 460775,
+        "num": 183850,
+        "word": "彭于晏 阮经天你这样礼貌吗",
+        "onboard_time": 1709881049,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425935,
+        "num": 182949,
+        "word": "乌合麒麟 代表日本漫画的黄金时代落幕了",
+        "onboard_time": 1709870794,
+        "rank": 17,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 413712,
+        "num": 180711,
+        "word": "papi酱说短视频里不是她本人",
+        "onboard_time": 1709872234,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228321,
+        "num": 177792,
+        "word": "东方甄选将董宇辉商标转让给与辉同行",
+        "onboard_time": 1709877392,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 721015,
+        "num": 175941,
+        "word": "怀孕前一定要对乳房做全面检查",
+        "onboard_time": 1709884471,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 379741,
+        "num": 175390,
+        "word": "大家存一万需要多久",
+        "onboard_time": 1709886212,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278572,
+        "num": 172398,
+        "word": "成龙发博悼念鸟山明",
+        "onboard_time": 1709883811,
+        "rank": 22,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 201225,
+        "num": 170314,
+        "word": "张学友疑因上呼吸道感染就医",
+        "onboard_time": 1709869954,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170154,
+        "num": 170154,
+        "word": "鞠婧祎白开水伪素颜妆",
+        "onboard_time": 1709884170,
+        "rank": 24,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 209606,
+        "num": 164271,
+        "word": "鸟山明工作室发讣告",
+        "onboard_time": 1709876189,
+        "rank": 25,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 153122,
+        "num": 153122,
+        "word": "姚安娜背圆周率",
+        "onboard_time": 1709882250,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144773,
+        "num": 144773,
+        "word": "北京四中校长反对陪伴式写作业",
+        "onboard_time": 1709882488,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 143994,
+        "num": 143994,
+        "word": "国足31人大名单",
+        "onboard_time": 1709885550,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136981,
+        "num": 136981,
+        "word": "李饼 天降竹马都没了",
+        "onboard_time": 1709883988,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205620,
+        "num": 135115,
+        "word": "WTT新加坡大满贯签表",
+        "onboard_time": 1709886030,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154534,
+        "num": 134768,
+        "word": "不会游泳但肺活量强",
+        "onboard_time": 1709886449,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133062,
+        "num": 133062,
+        "word": "妈妈好像不知道我已经二十多岁了",
+        "onboard_time": 1709879970,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123542,
+        "num": 123542,
+        "word": "因地制宜发展新质生产力",
+        "onboard_time": 1709886212,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123199,
+        "num": 123199,
+        "word": "妇女能顶半边天",
+        "onboard_time": 1709856754,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120848,
+        "num": 120848,
+        "word": "高合直播带货",
+        "onboard_time": 1709886392,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 117875,
+        "num": 117875,
+        "word": "值得爱开机",
+        "onboard_time": 1709884649,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114316,
+        "num": 114316,
+        "word": "当亚洲胃遇上白人饭",
+        "onboard_time": 1709885911,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113562,
+        "num": 113562,
+        "word": "泡泡岛音乐节阵容",
+        "onboard_time": 1709883449,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109506,
+        "num": 109506,
+        "word": "为什么入睡最好不晚于23点",
+        "onboard_time": 1709868149,
+        "rank": 39,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 109106,
+        "num": 109106,
+        "word": "KPL",
+        "onboard_time": 1709882548,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106925,
+        "num": 106925,
+        "word": "大学生曾经都是高中生",
+        "onboard_time": 1709886149,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102106,
+        "num": 102106,
+        "word": "美的其中一种是妈妈",
+        "onboard_time": 1709886987,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101739,
+        "num": 101739,
+        "word": "谢楠玩游戏给赵丽颖打电话",
+        "onboard_time": 1709886929,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99626,
+        "num": 99626,
+        "word": "为什么小时候吃过的辣条都消失了",
+        "onboard_time": 1709881108,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99568,
+        "num": 99568,
+        "word": "伊能静儿子哈利时装周vlog",
+        "onboard_time": 1709880390,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95926,
+        "num": 95926,
+        "word": "袁咏仪和网红同框",
+        "onboard_time": 1709886808,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95595,
+        "num": 95595,
+        "word": "当我发现床单能画画时",
+        "onboard_time": 1709882130,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91203,
+        "num": 91203,
+        "word": "工业富联股价涨停",
+        "onboard_time": 1709884772,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84212,
+        "num": 84212,
+        "word": "茅台公开高管薪酬",
+        "onboard_time": 1709872054,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展新质生产力不是要忽视放弃传统产业#"
+    }
+  }
+}
