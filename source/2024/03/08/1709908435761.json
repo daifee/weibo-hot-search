@@ -1,0 +1,410 @@
+{
+  "runTime": 1709908435761,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1649733,
+        "num": 1649733,
+        "word": "全员加速中 迟到",
+        "onboard_time": 1709906851,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 985824,
+        "num": 985824,
+        "word": "与凤行定档",
+        "onboard_time": 1709906912,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80436,
+        "num": 941416,
+        "word": "政府工作报告里年轻人关心的热点",
+        "onboard_time": 1709893349,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 908052,
+        "num": 908052,
+        "word": "陈晓新剧 睡在我上铺的老婆",
+        "onboard_time": 1709902530,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 605982,
+        "num": 605982,
+        "word": "大学老师不让小学儿子写无效作业",
+        "onboard_time": 1709906434,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515324,
+        "num": 515324,
+        "word": "周鸿祎称国内PPT泛滥成灾",
+        "onboard_time": 1709904632,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 360673,
+        "num": 360673,
+        "word": "鸟山明年收入达7200万元",
+        "onboard_time": 1709900010,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 332843,
+        "num": 332843,
+        "word": "砸锅卖铁去上学影视化",
+        "onboard_time": 1709905229,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294138,
+        "num": 294138,
+        "word": "剑来 陈哲远",
+        "onboard_time": 1709903251,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267066,
+        "num": 267066,
+        "word": "代表建议为适龄女性免费接种HPV疫苗",
+        "onboard_time": 1709900909,
+        "rank": 9,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 578995,
+        "num": 266598,
+        "word": "伊能静 其实他有自己的名字",
+        "onboard_time": 1709898630,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526659,
+        "num": 266404,
+        "word": "鸟山明去世",
+        "onboard_time": 1709867670,
+        "rank": 11,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 442562,
+        "num": 266012,
+        "word": "卡戴珊一家都在哪做头发",
+        "onboard_time": 1709904452,
+        "rank": 12,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 434695,
+        "num": 265049,
+        "word": "朴振英坐高铁去哪了",
+        "onboard_time": 1709905110,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 366817,
+        "num": 264517,
+        "word": "首款折叠屏iPhone",
+        "onboard_time": 1709885189,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 350798,
+        "num": 264355,
+        "word": "不用黑袋子装卫生巾也没关系",
+        "onboard_time": 1709901868,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329391,
+        "num": 263779,
+        "word": "眉姐姐你女儿长大了",
+        "onboard_time": 1709907513,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263496,
+        "num": 263496,
+        "word": "樊振东唱LoveStory",
+        "onboard_time": 1709899710,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256875,
+        "num": 256875,
+        "word": "胡彦斌回应不唱月光的原因",
+        "onboard_time": 1709896950,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188432,
+        "num": 217682,
+        "word": "明天考教资",
+        "onboard_time": 1709902591,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 483252,
+        "num": 215630,
+        "word": "其实一周休三天才是最合理的",
+        "onboard_time": 1709903670,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329234,
+        "num": 214781,
+        "word": "怀孕前一定要对乳房做全面检查",
+        "onboard_time": 1709884471,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213348,
+        "num": 213348,
+        "word": "恋爱兄妹",
+        "onboard_time": 1709900788,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211041,
+        "num": 211041,
+        "word": "全员加速中",
+        "onboard_time": 1709900308,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205630,
+        "num": 205630,
+        "word": "j人和P人的穿搭区别",
+        "onboard_time": 1709899288,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 200586,
+        "num": 200586,
+        "word": "大理寺少卿游 半是蜜糖半是伤",
+        "onboard_time": 1709900548,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192868,
+        "num": 192868,
+        "word": "于适刻在骨子里的东北口音",
+        "onboard_time": 1709907392,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188046,
+        "num": 188046,
+        "word": "鸟山明曾称妻子是他创作的救星",
+        "onboard_time": 1709899288,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 148923,
+        "num": 172045,
+        "word": "建议实行未成年人父母弹性上班制",
+        "onboard_time": 1709889630,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143104,
+        "num": 165060,
+        "word": "樊振东太强了",
+        "onboard_time": 1709894250,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164395,
+        "num": 164395,
+        "word": "为什么长辈们执着于婚姻",
+        "onboard_time": 1709905229,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157410,
+        "num": 157410,
+        "word": "这不是五条悟吧",
+        "onboard_time": 1709906673,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 152841,
+        "num": 152841,
+        "word": "代号鸢 你的美工是神",
+        "onboard_time": 1709894428,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 134084,
+        "num": 134084,
+        "word": "日本单亲妈妈来中国后",
+        "onboard_time": 1709892030,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131665,
+        "num": 131665,
+        "word": "瘦子Ella新片演情侣",
+        "onboard_time": 1709897970,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131658,
+        "num": 131658,
+        "word": "陈哲远眼技",
+        "onboard_time": 1709908231,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131412,
+        "num": 131412,
+        "word": "我妈切的菜很考验筷子功",
+        "onboard_time": 1709899951,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127470,
+        "num": 127470,
+        "word": "中学回应网传给高三女生开女德讲座",
+        "onboard_time": 1709905954,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122962,
+        "num": 122962,
+        "word": "陈靖可皮肤状态",
+        "onboard_time": 1709903010,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117175,
+        "num": 117175,
+        "word": "被我弄丢的你 看到了自己",
+        "onboard_time": 1709903371,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116843,
+        "num": 116843,
+        "word": "阿拉蕾",
+        "onboard_time": 1709868634,
+        "rank": 40,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 113867,
+        "num": 113867,
+        "word": "甜茶好帅",
+        "onboard_time": 1709896590,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110834,
+        "num": 110834,
+        "word": "李饼邱庆之 我们还是朋友吗",
+        "onboard_time": 1709907213,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109337,
+        "num": 109337,
+        "word": "小时候挨打都是有原因的",
+        "onboard_time": 1709907996,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106094,
+        "num": 106094,
+        "word": "外交部对鸟山明去世表示哀悼",
+        "onboard_time": 1709884649,
+        "rank": 44,
+        "category": "国内时政,动漫"
+      },
+      {
+        "raw_hot": 102009,
+        "num": 102009,
+        "word": "王栎鑫也没抢到票",
+        "onboard_time": 1709891187,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99842,
+        "num": 99842,
+        "word": "傅融伟大的脸",
+        "onboard_time": 1709894311,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98947,
+        "num": 98947,
+        "word": "电视剧小日子定档",
+        "onboard_time": 1709899467,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83488,
+        "num": 98912,
+        "word": "马莱莱进球",
+        "onboard_time": 1709905651,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76196,
+        "num": 97536,
+        "word": "妇女节快乐",
+        "onboard_time": 1709856394,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展新质生产力不是要忽视放弃传统产业#"
+    }
+  }
+}

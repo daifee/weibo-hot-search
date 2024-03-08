@@ -1,6 +1,6 @@
 {
   "startTime": 1709828457134,
-  "endTime": 1709907411352,
+  "endTime": 1709908435761,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -49,6 +49,14 @@
       "onboard_time": 1709870794,
       "rank": 10,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 1649733,
+      "num": 1649733,
+      "word": "全员加速中 迟到",
+      "onboard_time": 1709906851,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1611609,
@@ -184,6 +192,14 @@
       "word": "陈晓新剧 睡在我上铺的老婆",
       "onboard_time": 1709902530,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 985824,
+      "num": 985824,
+      "word": "与凤行定档",
+      "onboard_time": 1709906912,
+      "rank": 1,
       "category": "剧集"
     },
     {
@@ -443,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 605982,
+      "num": 605982,
+      "word": "大学老师不让小学儿子写无效作业",
+      "onboard_time": 1709906434,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601294,
       "num": 601294,
       "word": "乡镇女快递员抓小偷救人样样在行",
@@ -465,14 +489,6 @@
       "onboard_time": 1709824290,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 587823,
-      "num": 587823,
-      "word": "与凤行定档",
-      "onboard_time": 1709906912,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 585148,
@@ -699,14 +715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 408291,
-      "num": 408291,
-      "word": "全员加速中 迟到",
-      "onboard_time": 1709906851,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 406099,
       "num": 406099,
       "word": "国家线砍一刀",
@@ -803,12 +811,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 332843,
+      "num": 332843,
+      "word": "砸锅卖铁去上学影视化",
+      "onboard_time": 1709905229,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331010,
       "num": 331010,
       "word": "时代少年团全员羊角帽",
       "onboard_time": 1709898088,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 329391,
+      "num": 263779,
+      "word": "眉姐姐你女儿长大了",
+      "onboard_time": 1709907513,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 329029,
@@ -873,14 +897,6 @@
       "onboard_time": 1709841556,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312517,
-      "num": 312517,
-      "word": "砸锅卖铁去上学影视化",
-      "onboard_time": 1709905229,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 309659,
@@ -1081,14 +1097,6 @@
       "onboard_time": 1709809531,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 255230,
-      "num": 364867,
-      "word": "大学老师不让小学儿子写无效作业",
-      "onboard_time": 1709906434,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252944,
@@ -1433,6 +1441,14 @@
       "onboard_time": 1709893768,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192868,
+      "num": 192868,
+      "word": "于适刻在骨子里的东北口音",
+      "onboard_time": 1709907392,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 190644,
@@ -1793,6 +1809,14 @@
       "onboard_time": 1709891611,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157410,
+      "num": 157410,
+      "word": "这不是五条悟吧",
+      "onboard_time": 1709906673,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 157176,
@@ -2163,14 +2187,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 133625,
-      "num": 133625,
-      "word": "这不是五条悟吧",
-      "onboard_time": 1709906673,
-      "rank": 35,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 133183,
       "num": 133183,
       "word": "工业富联股价涨停",
@@ -2185,6 +2201,14 @@
       "onboard_time": 1709886987,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131658,
+      "num": 131658,
+      "word": "陈哲远眼技",
+      "onboard_time": 1709908231,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 131581,
@@ -2459,6 +2483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110834,
+      "num": 110834,
+      "word": "李饼邱庆之 我们还是朋友吗",
+      "onboard_time": 1709907213,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110732,
       "num": 110732,
       "word": "沙丘2影迷cos沙虫",
@@ -2481,6 +2513,14 @@
       "onboard_time": 1709867188,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109337,
+      "num": 109337,
+      "word": "小时候挨打都是有原因的",
+      "onboard_time": 1709907996,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 108919,
@@ -2579,14 +2619,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 103501,
-      "num": 103501,
-      "word": "李饼邱庆之 我们还是朋友吗",
-      "onboard_time": 1709907213,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 101957,
       "num": 101957,
       "word": "唐斯半月板撕裂",
@@ -2612,7 +2644,7 @@
     },
     {
       "raw_hot": 100824,
-      "num": 599140,
+      "num": 941416,
       "word": "政府工作报告里年轻人关心的热点",
       "onboard_time": 1709893349,
       "rank": 49,
@@ -2673,14 +2705,6 @@
       "onboard_time": 1709853925,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 95693,
-      "num": 95693,
-      "word": "于适刻在骨子里的东北口音",
-      "onboard_time": 1709907392,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 94788,
@@ -2835,8 +2859,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 82171,
-      "num": 92043,
+      "raw_hot": 83488,
+      "num": 98912,
       "word": "马莱莱进球",
       "onboard_time": 1709905651,
       "rank": 48,
