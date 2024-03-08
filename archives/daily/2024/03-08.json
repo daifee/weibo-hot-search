@@ -1,10 +1,10 @@
 {
   "startTime": 1709828457134,
-  "endTime": 1709864652126,
+  "endTime": 1709865295642,
   "band_list": [
     {
-      "raw_hot": 2519082,
-      "num": 2519082,
+      "raw_hot": 2637927,
+      "num": 2637927,
       "word": "妇女节快乐",
       "onboard_time": 1709856394,
       "rank": 0,
@@ -75,6 +75,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 751864,
+      "num": 751864,
+      "word": "劳荣枝案写入最高法工作报告",
+      "onboard_time": 1709863408,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 746145,
       "num": 746145,
       "word": "金价持续暴涨建行紧急公告",
@@ -123,11 +131,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 655589,
-      "num": 655589,
-      "word": "劳荣枝案写入最高法工作报告",
-      "onboard_time": 1709863408,
-      "rank": 5,
+      "raw_hot": 644172,
+      "num": 644172,
+      "word": "建议取消公务员35岁门槛",
+      "onboard_time": 1709863886,
+      "rank": 13,
       "category": "国内时政"
     },
     {
@@ -163,8 +171,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 564491,
-      "num": 564491,
+      "raw_hot": 578563,
+      "num": 578563,
       "word": "医院回应护士称拒绝给患者当儿媳被投诉",
       "onboard_time": 1709860107,
       "rank": 47,
@@ -203,11 +211,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 328906,
-      "num": 328906,
-      "word": "建议取消公务员35岁门槛",
-      "onboard_time": 1709863886,
-      "rank": 13,
+      "raw_hot": 366577,
+      "num": 366577,
+      "word": "刑法第二十条已被唤醒",
+      "onboard_time": 1709864548,
+      "rank": 39,
       "category": "国内时政"
     },
     {
@@ -235,6 +243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 300982,
+      "num": 300982,
+      "word": "李蓓宣布封笔",
+      "onboard_time": 1709863946,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 298865,
       "num": 291951,
       "word": "拿米哈游画师作品去米哈游投简历",
@@ -259,12 +275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279456,
+      "num": 248298,
+      "word": "乳腺增生真是被气出来的吗",
+      "onboard_time": 1709864727,
+      "rank": 20,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 274818,
       "num": 274818,
       "word": "姿态rita",
       "onboard_time": 1709857770,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 273121,
+      "num": 273121,
+      "word": "婚前同居施暴须以家庭成员承担刑事责任",
+      "onboard_time": 1709864786,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257982,
@@ -307,8 +339,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235939,
+      "num": 235939,
+      "word": "妇女节女员工1人发了1袋大馒头",
+      "onboard_time": 1709863288,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232115,
-      "num": 218700,
+      "num": 220319,
       "word": "苹果中国规格最高旗舰店即将开业",
       "onboard_time": 1709862330,
       "rank": 24,
@@ -329,6 +369,14 @@
       "onboard_time": 1709857590,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 223209,
+      "num": 223209,
+      "word": "盒马降薪",
+      "onboard_time": 1709864486,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 219967,
@@ -353,22 +401,6 @@
       "onboard_time": 1709820273,
       "rank": 18,
       "category": "美食"
-    },
-    {
-      "raw_hot": 206802,
-      "num": 206802,
-      "word": "妇女节女员工1人发了1袋大馒头",
-      "onboard_time": 1709863288,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203502,
-      "num": 203502,
-      "word": "李蓓宣布封笔",
-      "onboard_time": 1709863946,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 202712,
@@ -409,6 +441,22 @@
       "onboard_time": 1709816671,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195471,
+      "num": 195471,
+      "word": "最高法报告举例牟林翰案",
+      "onboard_time": 1709863827,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 195069,
+      "num": 195069,
+      "word": "24岁女生边工作边考研422分",
+      "onboard_time": 1709864606,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 187105,
@@ -459,20 +507,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 173294,
+      "num": 173294,
+      "word": "妇女节 做自己",
+      "onboard_time": 1709864548,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171031,
       "num": 175391,
       "word": "电视剧暗河传",
       "onboard_time": 1709824711,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160030,
-      "num": 160030,
-      "word": "最高法报告举例牟林翰案",
-      "onboard_time": 1709863827,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 158330,
@@ -563,14 +611,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 143717,
-      "num": 143717,
-      "word": "刑法第二十条已被唤醒",
-      "onboard_time": 1709864548,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 143493,
       "num": 143493,
       "word": "唐探2这一集演的是萝莉岛吧",
@@ -619,16 +659,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139105,
-      "num": 139105,
-      "word": "盒马降薪",
-      "onboard_time": 1709864486,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 136722,
-      "num": 136722,
+      "raw_hot": 137689,
+      "num": 137689,
       "word": "B站UP主激励增幅下滑",
       "onboard_time": 1709863708,
       "rank": 45,
@@ -659,14 +691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124772,
-      "num": 124772,
-      "word": "妇女节 做自己",
-      "onboard_time": 1709864548,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 122412,
       "num": 122412,
       "word": "女性人大代表祝姐妹们节日快乐",
@@ -681,14 +705,6 @@
       "onboard_time": 1709858669,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 117858,
-      "num": 117858,
-      "word": "24岁女生边工作边考研422分",
-      "onboard_time": 1709864606,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 116266,
@@ -843,6 +859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85594,
+      "num": 323152,
+      "word": "最高法工作报告",
+      "onboard_time": 1709864308,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83881,
       "num": 83881,
       "word": "正确称体重的方法",
@@ -905,14 +929,6 @@
       "onboard_time": 1709822132,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 67655,
-      "num": 312842,
-      "word": "最高法工作报告",
-      "onboard_time": 1709864308,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67350,
@@ -1065,6 +1081,14 @@
       "onboard_time": 1709839337,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 22552,
+      "num": 759041,
+      "word": "中国外交的态度与温度",
+      "onboard_time": 1709864849,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21112,
