@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/03/09 00:20:01 ~ 2024/03/09 04:15:53
+本榜单时间：2024/03/09 00:20:01 ~ 2024/03/09 04:34:08
 </p>
 </blockquote>
 <p>
@@ -401,6 +401,12 @@ TWICE KillingVoice（热度：82281）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%E4%B8%A4%E4%BC%9A%E7%83%AD%E7%82%B9%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%23" target="weibo">
 一图看懂两会热点新质生产力（热度：11884）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%97%E5%A1%94%E6%B8%B8%E6%88%8F%23" target="weibo">
+金字塔游戏（热度：11456）
 </a>
 </li>
 

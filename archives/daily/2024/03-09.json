@@ -1,6 +1,6 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709928953331,
+  "endTime": 1709930048020,
   "band_list": [
     {
       "raw_hot": 1802368,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 13291,
-      "num": 16289,
+      "num": 17459,
       "word": "低丸子头教程分享",
       "onboard_time": 1709928077,
       "rank": 45,
@@ -521,6 +521,14 @@
       "onboard_time": 1709927177,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11456,
+      "num": 17423,
+      "word": "金字塔游戏",
+      "onboard_time": 1709929816,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 5006,
