@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709904922228,
+  "endTime": 1709907411352,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1356,7 +1356,7 @@
     },
     {
       "raw_hot": 1034897,
-      "num": 359409,
+      "num": 364340,
       "word": "伊能静 其实他有自己的名字",
       "onboard_time": 1709898630,
       "rank": 10,
@@ -1505,6 +1505,14 @@
       "onboard_time": 1709383175,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 990466,
+      "num": 990466,
+      "word": "陈晓新剧 睡在我上铺的老婆",
+      "onboard_time": 1709902530,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 984133,
@@ -3763,6 +3771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 587823,
+      "num": 587823,
+      "word": "与凤行定档",
+      "onboard_time": 1709906912,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 587295,
       "num": 587295,
       "word": "经常用耳机的3个60原则",
@@ -3825,14 +3841,6 @@
       "onboard_time": 1709351969,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 578859,
-      "num": 578859,
-      "word": "陈晓新剧 睡在我上铺的老婆",
-      "onboard_time": 1709902530,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 578563,
@@ -4180,7 +4188,7 @@
     },
     {
       "raw_hot": 545873,
-      "num": 309680,
+      "num": 358374,
       "word": "不用黑袋子装卫生巾也没关系",
       "onboard_time": 1709901868,
       "rank": 27,
@@ -4275,8 +4283,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 537479,
+      "num": 537479,
+      "word": "周鸿祎称国内PPT泛滥成灾",
+      "onboard_time": 1709904632,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 536468,
-      "num": 221113,
+      "num": 328237,
       "word": "樊振东唱LoveStory",
       "onboard_time": 1709899710,
       "rank": 30,
@@ -4563,6 +4579,14 @@
       "category": "网红,时尚"
     },
     {
+      "raw_hot": 513722,
+      "num": 264611,
+      "word": "其实一周休三天才是最合理的",
+      "onboard_time": 1709903670,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 512936,
       "num": 512936,
       "word": "两会",
@@ -4705,6 +4729,14 @@
       "onboard_time": 1709444189,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 499421,
+      "num": 499421,
+      "word": "卡戴珊一家都在哪做头发",
+      "onboard_time": 1709904452,
+      "rank": 24,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 499008,
@@ -5299,14 +5331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 456380,
-      "num": 237423,
-      "word": "其实一周休三天才是最合理的",
-      "onboard_time": 1709903670,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 456247,
       "num": 456247,
       "word": "德州献血",
@@ -5608,6 +5632,14 @@
       "word": "站姐拍的魏大勋",
       "onboard_time": 1709447789,
       "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 437135,
+      "num": 437135,
+      "word": "朴振英坐高铁去哪了",
+      "onboard_time": 1709905110,
+      "rank": 6,
       "category": "作品衍生"
     },
     {
@@ -6049,6 +6081,14 @@
       "onboard_time": 1709617892,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 408291,
+      "num": 408291,
+      "word": "全员加速中 迟到",
+      "onboard_time": 1709906851,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 408251,
@@ -7875,6 +7915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312517,
+      "num": 312517,
+      "word": "砸锅卖铁去上学影视化",
+      "onboard_time": 1709905229,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 312056,
       "num": 312056,
       "word": "虞书欣甜橙少女",
@@ -8372,7 +8420,7 @@
     },
     {
       "raw_hot": 292367,
-      "num": 230523,
+      "num": 275830,
       "word": "恋爱兄妹",
       "onboard_time": 1709389174,
       "rank": 27,
@@ -9411,6 +9459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 255230,
+      "num": 364867,
+      "word": "大学老师不让小学儿子写无效作业",
+      "onboard_time": 1709906434,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255102,
       "num": 255102,
       "word": "向佐此一时鼻一时",
@@ -10140,7 +10196,7 @@
     },
     {
       "raw_hot": 234761,
-      "num": 255243,
+      "num": 264925,
       "word": "明天考教资",
       "onboard_time": 1709902591,
       "rank": 19,
@@ -12683,14 +12739,6 @@
       "category": "艺人,综艺"
     },
     {
-      "raw_hot": 191456,
-      "num": 191456,
-      "word": "卡戴珊一家都在哪做头发",
-      "onboard_time": 1709904452,
-      "rank": 24,
-      "category": "美妆,艺人"
-    },
-    {
       "raw_hot": 191356,
       "num": 191356,
       "word": "女程序员收到公司防脱发大礼包",
@@ -14051,6 +14099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 174703,
+      "num": 174703,
+      "word": "为什么长辈们执着于婚姻",
+      "onboard_time": 1709905229,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174423,
       "num": 174423,
       "word": "甄嬛传也是小情侣play的一环",
@@ -14233,14 +14289,6 @@
       "onboard_time": 1709682749,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 172874,
-      "num": 172874,
-      "word": "周鸿祎称国内PPT泛滥成灾",
-      "onboard_time": 1709904632,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 172672,
@@ -15748,7 +15796,7 @@
     },
     {
       "raw_hot": 157176,
-      "num": 147522,
+      "num": 151820,
       "word": "陈靖可皮肤状态",
       "onboard_time": 1709903010,
       "rank": 37,
@@ -16947,6 +16995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145024,
+      "num": 145024,
+      "word": "中学回应网传给高三女生开女德讲座",
+      "onboard_time": 1709905954,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144989,
       "num": 144989,
       "word": "milkyway把把C",
@@ -18137,6 +18193,14 @@
       "onboard_time": 1709460990,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133625,
+      "num": 133625,
+      "word": "这不是五条悟吧",
+      "onboard_time": 1709906673,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 133561,
@@ -19971,6 +20035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 114645,
+      "num": 114645,
+      "word": "顾寻岳千灵 理性恋",
+      "onboard_time": 1709906434,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114579,
       "num": 114579,
       "word": "别对我动心 crush文学",
@@ -20763,6 +20835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104583,
+      "num": 104583,
+      "word": "遇到和emoji一模一样的小狗",
+      "onboard_time": 1709905292,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104368,
       "num": 104368,
       "word": "克雷桑替补",
@@ -20825,6 +20905,14 @@
       "onboard_time": 1709526874,
       "rank": 11,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 103501,
+      "num": 103501,
+      "word": "李饼邱庆之 我们还是朋友吗",
+      "onboard_time": 1709907213,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 103289,
@@ -21211,6 +21299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 95693,
+      "num": 95693,
+      "word": "于适刻在骨子里的东北口音",
+      "onboard_time": 1709907392,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95604,
       "num": 201682,
       "word": "续航无忧的出行快乐谁懂",
@@ -21593,6 +21689,14 @@
       "onboard_time": 1709647534,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 82171,
+      "num": 92043,
+      "word": "马莱莱进球",
+      "onboard_time": 1709905651,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 81645,

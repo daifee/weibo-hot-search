@@ -1,6 +1,6 @@
 {
   "startTime": 1709828457134,
-  "endTime": 1709904922228,
+  "endTime": 1709907411352,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1034897,
-      "num": 359409,
+      "num": 364340,
       "word": "伊能静 其实他有自己的名字",
       "onboard_time": 1709898630,
       "rank": 10,
@@ -177,6 +177,14 @@
       "onboard_time": 1709876728,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 990466,
+      "num": 990466,
+      "word": "陈晓新剧 睡在我上铺的老婆",
+      "onboard_time": 1709902530,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 964589,
@@ -459,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 587823,
+      "num": 587823,
+      "word": "与凤行定档",
+      "onboard_time": 1709906912,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 585148,
       "num": 475397,
       "word": "你又叫浣碧",
@@ -473,14 +489,6 @@
       "onboard_time": 1709864486,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 578859,
-      "num": 578859,
-      "word": "陈晓新剧 睡在我上铺的老婆",
-      "onboard_time": 1709902530,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 578563,
@@ -508,15 +516,23 @@
     },
     {
       "raw_hot": 545873,
-      "num": 309680,
+      "num": 358374,
       "word": "不用黑袋子装卫生巾也没关系",
       "onboard_time": 1709901868,
       "rank": 27,
       "category": "情感"
     },
     {
+      "raw_hot": 537479,
+      "num": 537479,
+      "word": "周鸿祎称国内PPT泛滥成灾",
+      "onboard_time": 1709904632,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 536468,
-      "num": 221113,
+      "num": 328237,
       "word": "樊振东唱LoveStory",
       "onboard_time": 1709899710,
       "rank": 30,
@@ -529,6 +545,22 @@
       "onboard_time": 1709857051,
       "rank": 13,
       "category": "网红,时尚"
+    },
+    {
+      "raw_hot": 513722,
+      "num": 264611,
+      "word": "其实一周休三天才是最合理的",
+      "onboard_time": 1709903670,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 499421,
+      "num": 499421,
+      "word": "卡戴珊一家都在哪做头发",
+      "onboard_time": 1709904452,
+      "rank": 24,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 475149,
@@ -563,14 +595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 456380,
-      "num": 237423,
-      "word": "其实一周休三天才是最合理的",
-      "onboard_time": 1709903670,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 442569,
       "num": 442569,
       "word": "给弟弟化妆时发现了化妆的精髓",
@@ -593,6 +617,14 @@
       "onboard_time": 1709899288,
       "rank": 14,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 437135,
+      "num": 437135,
+      "word": "朴振英坐高铁去哪了",
+      "onboard_time": 1709905110,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 433279,
@@ -665,6 +697,14 @@
       "onboard_time": 1709903251,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 408291,
+      "num": 408291,
+      "word": "全员加速中 迟到",
+      "onboard_time": 1709906851,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 406099,
@@ -835,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312517,
+      "num": 312517,
+      "word": "砸锅卖铁去上学影视化",
+      "onboard_time": 1709905229,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 309659,
       "num": 274795,
       "word": "j人和P人的穿搭区别",
@@ -979,6 +1027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 275830,
+      "num": 275830,
+      "word": "恋爱兄妹",
+      "onboard_time": 1709900788,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275437,
       "num": 275437,
       "word": "李若彤 小龙女领先你几百年",
@@ -1025,6 +1081,14 @@
       "onboard_time": 1709809531,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 255230,
+      "num": 364867,
+      "word": "大学老师不让小学儿子写无效作业",
+      "onboard_time": 1709906434,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252944,
@@ -1092,7 +1156,7 @@
     },
     {
       "raw_hot": 234761,
-      "num": 255243,
+      "num": 264925,
       "word": "明天考教资",
       "onboard_time": 1709902591,
       "rank": 19,
@@ -1105,14 +1169,6 @@
       "onboard_time": 1709862330,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 230523,
-      "num": 230523,
-      "word": "恋爱兄妹",
-      "onboard_time": 1709900788,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 229746,
@@ -1379,14 +1435,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 191456,
-      "num": 191456,
-      "word": "卡戴珊一家都在哪做头发",
-      "onboard_time": 1709904452,
-      "rank": 24,
-      "category": "美妆,艺人"
-    },
-    {
       "raw_hot": 190644,
       "num": 190644,
       "word": "A股",
@@ -1539,6 +1587,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 174703,
+      "num": 174703,
+      "word": "为什么长辈们执着于婚姻",
+      "onboard_time": 1709905229,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174423,
       "num": 174423,
       "word": "甄嬛传也是小情侣play的一环",
@@ -1585,14 +1641,6 @@
       "onboard_time": 1709864548,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172874,
-      "num": 172874,
-      "word": "周鸿祎称国内PPT泛滥成灾",
-      "onboard_time": 1709904632,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 171689,
@@ -1748,7 +1796,7 @@
     },
     {
       "raw_hot": 157176,
-      "num": 147522,
+      "num": 151820,
       "word": "陈靖可皮肤状态",
       "onboard_time": 1709903010,
       "rank": 37,
@@ -1897,6 +1945,14 @@
       "onboard_time": 1709853142,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145024,
+      "num": 145024,
+      "word": "中学回应网传给高三女生开女德讲座",
+      "onboard_time": 1709905954,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144840,
@@ -2107,6 +2163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133625,
+      "num": 133625,
+      "word": "这不是五条悟吧",
+      "onboard_time": 1709906673,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 133183,
       "num": 133183,
       "word": "工业富联股价涨停",
@@ -2307,6 +2371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 114645,
+      "num": 114645,
+      "word": "顾寻岳千灵 理性恋",
+      "onboard_time": 1709906434,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114496,
       "num": 114496,
       "word": "沙丘 女性角色",
@@ -2491,12 +2563,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104583,
+      "num": 104583,
+      "word": "遇到和emoji一模一样的小狗",
+      "onboard_time": 1709905292,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104197,
       "num": 102990,
       "word": "甜茶向中国观众安利沙丘2",
       "onboard_time": 1709888130,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 103501,
+      "num": 103501,
+      "word": "李饼邱庆之 我们还是朋友吗",
+      "onboard_time": 1709907213,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 101957,
@@ -2585,6 +2673,14 @@
       "onboard_time": 1709853925,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95693,
+      "num": 95693,
+      "word": "于适刻在骨子里的东北口音",
+      "onboard_time": 1709907392,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 94788,
@@ -2737,6 +2833,14 @@
       "onboard_time": 1709857770,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 82171,
+      "num": 92043,
+      "word": "马莱莱进球",
+      "onboard_time": 1709905651,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 80311,
