@@ -1,0 +1,410 @@
+{
+  "runTime": 1709875115075,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8004381,
+        "num": 8004381,
+        "word": "鸟山明去世",
+        "onboard_time": 1709867670,
+        "rank": 0,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 2322911,
+        "num": 2322911,
+        "word": "妇女节回归本质",
+        "onboard_time": 1709873313,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90115,
+        "num": 1818026,
+        "word": "全国两会现场的妇女节祝福",
+        "onboard_time": 1709866227,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1644030,
+        "num": 1644030,
+        "word": "阿拉蕾",
+        "onboard_time": 1709868634,
+        "rank": 3,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 1339606,
+        "num": 1339606,
+        "word": "papi酱说短视频里不是她本人",
+        "onboard_time": 1709872234,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1290051,
+        "num": 1290051,
+        "word": "建议取消公务员35岁门槛",
+        "onboard_time": 1709863886,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 643649,
+        "num": 643649,
+        "word": "妇女节快乐",
+        "onboard_time": 1709856394,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475837,
+        "num": 475837,
+        "word": "张学友疑因上呼吸道感染就医",
+        "onboard_time": 1709869954,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 561044,
+        "num": 466663,
+        "word": "孟羽童称不排斥重回职场",
+        "onboard_time": 1709870972,
+        "rank": 8,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 439310,
+        "num": 439310,
+        "word": "茅台公开高管薪酬",
+        "onboard_time": 1709872054,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1510903,
+        "num": 434971,
+        "word": "乌合麒麟 代表日本漫画的黄金时代落幕了",
+        "onboard_time": 1709870794,
+        "rank": 10,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 429311,
+        "num": 429311,
+        "word": "刑法第二十条已被唤醒",
+        "onboard_time": 1709864548,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 420064,
+        "num": 420064,
+        "word": "妇女节放假",
+        "onboard_time": 1709867911,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414742,
+        "num": 414742,
+        "word": "海贼王作者发文悼念鸟山明",
+        "onboard_time": 1709873432,
+        "rank": 13,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 410293,
+        "num": 410293,
+        "word": "妇女能顶半边天",
+        "onboard_time": 1709856754,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373664,
+        "num": 373664,
+        "word": "上班了才知道他演的有多像",
+        "onboard_time": 1709871753,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 358916,
+        "num": 358916,
+        "word": "你又叫浣碧",
+        "onboard_time": 1709825010,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328745,
+        "num": 328745,
+        "word": "急性硬膜下血肿",
+        "onboard_time": 1709870673,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 304918,
+        "num": 304918,
+        "word": "爱奇艺3月片单",
+        "onboard_time": 1709866347,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286657,
+        "num": 286657,
+        "word": "老板妇女节发120万给女员工让留着自己花",
+        "onboard_time": 1709853445,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287321,
+        "num": 286311,
+        "word": "张杰演唱会",
+        "onboard_time": 1709874272,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 285688,
+        "num": 285688,
+        "word": "妇女节",
+        "onboard_time": 1709833280,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273736,
+        "num": 273736,
+        "word": "超6成女性产后小情绪并非矫情",
+        "onboard_time": 1709873551,
+        "rank": 22,
+        "category": "母婴育儿,科学科普"
+      },
+      {
+        "raw_hot": 264304,
+        "num": 264304,
+        "word": "77名被告人宣告无罪",
+        "onboard_time": 1709873795,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253043,
+        "num": 253043,
+        "word": "国家线",
+        "onboard_time": 1709860948,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 252040,
+        "num": 252040,
+        "word": "知情人士回应张学友住进ICU",
+        "onboard_time": 1709870492,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231836,
+        "num": 231836,
+        "word": "公司三八节都发了啥",
+        "onboard_time": 1709867611,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230716,
+        "num": 230716,
+        "word": "为什么入睡最好不晚于23点",
+        "onboard_time": 1709868149,
+        "rank": 27,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 227040,
+        "num": 227040,
+        "word": "武汉大学王意通奖100000元",
+        "onboard_time": 1709874091,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216438,
+        "num": 216438,
+        "word": "伦敦地铁判官",
+        "onboard_time": 1709871217,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216326,
+        "num": 216326,
+        "word": "亚洲首富小儿子的婚礼",
+        "onboard_time": 1709854707,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214153,
+        "num": 214153,
+        "word": "新型减肥药12周帮助患者减重13%",
+        "onboard_time": 1709872415,
+        "rank": 31,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 206813,
+        "num": 206813,
+        "word": "死神重大消息即将公开",
+        "onboard_time": 1709872834,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 198697,
+        "num": 198697,
+        "word": "张杰开始准备巡演和专辑",
+        "onboard_time": 1709871931,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196940,
+        "num": 196940,
+        "word": "妇女节女员工1人发了1袋大馒头",
+        "onboard_time": 1709863288,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172346,
+        "num": 172346,
+        "word": "婚前同居施暴须以家庭成员承担刑事责任",
+        "onboard_time": 1709864786,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169268,
+        "num": 169268,
+        "word": "睡前不要做的8件事",
+        "onboard_time": 1709874511,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161715,
+        "num": 161715,
+        "word": "24岁女生边工作边考研422分",
+        "onboard_time": 1709864606,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155348,
+        "num": 155348,
+        "word": "乳腺增生真是被气出来的吗",
+        "onboard_time": 1709864727,
+        "rank": 38,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 148173,
+        "num": 148173,
+        "word": "国家线砍一刀",
+        "onboard_time": 1709867368,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147229,
+        "num": 147229,
+        "word": "王鹤棣有多少双雪地靴",
+        "onboard_time": 1709870076,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146433,
+        "num": 146433,
+        "word": "什么是情绪冷漠症",
+        "onboard_time": 1709869834,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143559,
+        "num": 143559,
+        "word": "梅西连续三场破门",
+        "onboard_time": 1709873972,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132004,
+        "num": 132004,
+        "word": "老人15万买基金一年多亏近五万",
+        "onboard_time": 1709867911,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131704,
+        "num": 131704,
+        "word": "李若彤 小龙女领先你几百年",
+        "onboard_time": 1709868030,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128451,
+        "num": 128451,
+        "word": "国足主帅正式亮相",
+        "onboard_time": 1709872654,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126233,
+        "num": 126233,
+        "word": "龙珠",
+        "onboard_time": 1709868332,
+        "rank": 46,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 126002,
+        "num": 126002,
+        "word": "黄旭熙4月solo出道",
+        "onboard_time": 1709866289,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 117539,
+        "num": 117539,
+        "word": "种地吧",
+        "onboard_time": 1709872834,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110955,
+        "num": 110955,
+        "word": "集齐七颗龙珠可以复活他吗",
+        "onboard_time": 1709871517,
+        "rank": 49,
+        "category": "动漫,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记首次同新设立的政协界别委员见面#"
+    }
+  }
+}
