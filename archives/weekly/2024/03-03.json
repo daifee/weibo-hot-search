@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709911070237,
+  "endTime": 1709912054446,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -145,6 +145,14 @@
       "onboard_time": 1709613395,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1991385,
+      "num": 1991385,
+      "word": "金价杀疯了",
+      "onboard_time": 1709909731,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 1980010,
@@ -465,14 +473,6 @@
       "onboard_time": 1709701172,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1424649,
-      "num": 1424649,
-      "word": "金价杀疯了",
-      "onboard_time": 1709909731,
-      "rank": 0,
-      "category": "财经"
     },
     {
       "raw_hot": 1398834,
@@ -1956,7 +1956,7 @@
     },
     {
       "raw_hot": 721015,
-      "num": 627228,
+      "num": 692594,
       "word": "怀孕前一定要对乳房做全面检查",
       "onboard_time": 1709884471,
       "rank": 20,
@@ -2121,6 +2121,14 @@
       "onboard_time": 1709467590,
       "rank": 9,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 691639,
+      "num": 232990,
+      "word": "人大代表提到迪丽热巴",
+      "onboard_time": 1709910330,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 687474,
@@ -2555,6 +2563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 627448,
+      "num": 220318,
+      "word": "被好朋友删了",
+      "onboard_time": 1709909072,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 627168,
       "num": 627168,
       "word": "喜茶光与夜之恋联名",
@@ -2735,14 +2751,6 @@
       "num": 351904,
       "word": "无意间发现了老婆开车时的样子",
       "onboard_time": 1709693671,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 605081,
-      "num": 220318,
-      "word": "被好朋友删了",
-      "onboard_time": 1709909072,
       "rank": 20,
       "category": "幽默"
     },
@@ -3283,6 +3291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 529918,
+      "num": 238564,
+      "word": "长沙警方通报女子驾车撞伤2人",
+      "onboard_time": 1709909731,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529157,
       "num": 279058,
       "word": "王一博Lacoste",
@@ -3505,14 +3521,6 @@
       "onboard_time": 1709780969,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 504153,
-      "num": 238564,
-      "word": "长沙警方通报女子驾车撞伤2人",
-      "onboard_time": 1709909731,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 503743,
@@ -4265,14 +4273,6 @@
       "onboard_time": 1709532990,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 433605,
-      "num": 232990,
-      "word": "人大代表提到迪丽热巴",
-      "onboard_time": 1709910330,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 433279,
@@ -7499,6 +7499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 241365,
+      "num": 194793,
+      "word": "朴振英姚琛去内蒙古了",
+      "onboard_time": 1709909671,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240814,
       "num": 240814,
       "word": "陆沉半梦半醒",
@@ -7553,14 +7561,6 @@
       "onboard_time": 1709789012,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 239052,
-      "num": 194245,
-      "word": "朴振英姚琛去内蒙古了",
-      "onboard_time": 1709909671,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 238368,
@@ -8113,6 +8113,14 @@
       "onboard_time": 1709629234,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 221750,
+      "num": 194065,
+      "word": "这些都是35岁以下的人的脊椎",
+      "onboard_time": 1709910214,
+      "rank": 31,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 221619,
@@ -9475,14 +9483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 194065,
-      "num": 194065,
-      "word": "这些都是35岁以下的人的脊椎",
-      "onboard_time": 1709910214,
-      "rank": 31,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 193737,
       "num": 193737,
       "word": "时代少年团接力女团舞",
@@ -9721,6 +9721,14 @@
       "onboard_time": 1709617232,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190044,
+      "num": 190044,
+      "word": "宁波现在最尴尬的房子",
+      "onboard_time": 1709910513,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 190004,
@@ -10793,6 +10801,14 @@
       "onboard_time": 1709822013,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172590,
+      "num": 172590,
+      "word": "KIKO叫王胜男的原因",
+      "onboard_time": 1709911413,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 172304,
@@ -12563,6 +12579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148290,
+      "num": 148290,
+      "word": "这3个年龄段易断崖式衰老",
+      "onboard_time": 1709911712,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 148105,
       "num": 178266,
       "word": "当中国商船在太平洋遇到祖国航母",
@@ -13168,14 +13192,6 @@
       "word": "谁家代言人的签名照落我桌上了",
       "onboard_time": 1709853807,
       "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 140857,
-      "num": 140857,
-      "word": "宁波现在最尴尬的房子",
-      "onboard_time": 1709910513,
-      "rank": 38,
       "category": "情感"
     },
     {
@@ -13985,6 +14001,14 @@
       "onboard_time": 1709903489,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 131508,
+      "num": 131508,
+      "word": "荣梓杉 性转版思诺既视感",
+      "onboard_time": 1709910991,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 131457,
@@ -15027,14 +15051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118793,
-      "num": 118793,
-      "word": "荣梓杉 性转版思诺既视感",
-      "onboard_time": 1709910991,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 118664,
       "num": 118664,
       "word": "王净戏份",
@@ -15747,6 +15763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108100,
+      "num": 108100,
+      "word": "TWICE KillingVoice",
+      "onboard_time": 1709909490,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 108001,
       "num": 108001,
       "word": "中国乒协召开专题研讨会",
@@ -16201,6 +16225,14 @@
       "onboard_time": 1709721089,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97177,
+      "num": 97177,
+      "word": "阮经天对妈妈60多岁离婚的看法",
+      "onboard_time": 1709912016,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 97044,

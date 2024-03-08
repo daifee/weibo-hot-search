@@ -1,6 +1,6 @@
 {
   "startTime": 1709828457134,
-  "endTime": 1709911070237,
+  "endTime": 1709912054446,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1991385,
+      "num": 1991385,
+      "word": "金价杀疯了",
+      "onboard_time": 1709909731,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1902104,
       "num": 1902104,
       "word": "建议取消公务员35岁门槛",
@@ -65,14 +73,6 @@
       "onboard_time": 1709854707,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1424649,
-      "num": 1424649,
-      "word": "金价杀疯了",
-      "onboard_time": 1709909731,
-      "rank": 0,
-      "category": "财经"
     },
     {
       "raw_hot": 1376686,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 721015,
-      "num": 627228,
+      "num": 692594,
       "word": "怀孕前一定要对乳房做全面检查",
       "onboard_time": 1709884471,
       "rank": 20,
@@ -425,6 +425,14 @@
       "onboard_time": 1709853744,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 691639,
+      "num": 232990,
+      "word": "人大代表提到迪丽热巴",
+      "onboard_time": 1709910330,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 687030,
@@ -459,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 627448,
+      "num": 220318,
+      "word": "被好朋友删了",
+      "onboard_time": 1709909072,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 626289,
       "num": 626289,
       "word": "老板妇女节发120万给女员工让留着自己花",
@@ -481,14 +497,6 @@
       "onboard_time": 1709859271,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 605081,
-      "num": 220318,
-      "word": "被好朋友删了",
-      "onboard_time": 1709909072,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 601294,
@@ -579,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 529918,
+      "num": 238564,
+      "word": "长沙警方通报女子驾车撞伤2人",
+      "onboard_time": 1709909731,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514165,
       "num": 514165,
       "word": "MiuMiu大秀 柳州覃阿姨",
@@ -593,14 +609,6 @@
       "onboard_time": 1709903670,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 504153,
-      "num": 238564,
-      "word": "长沙警方通报女子驾车撞伤2人",
-      "onboard_time": 1709909731,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 499421,
@@ -673,14 +681,6 @@
       "onboard_time": 1709905110,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 433605,
-      "num": 232990,
-      "word": "人大代表提到迪丽热巴",
-      "onboard_time": 1709910330,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 433279,
@@ -1211,8 +1211,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 239052,
-      "num": 194245,
+      "raw_hot": 241365,
+      "num": 194793,
       "word": "朴振英姚琛去内蒙古了",
       "onboard_time": 1709909671,
       "rank": 30,
@@ -1297,6 +1297,14 @@
       "onboard_time": 1709888789,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221750,
+      "num": 194065,
+      "word": "这些都是35岁以下的人的脊椎",
+      "onboard_time": 1709910214,
+      "rank": 31,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 220964,
@@ -1499,14 +1507,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 194065,
-      "num": 194065,
-      "word": "这些都是35岁以下的人的脊椎",
-      "onboard_time": 1709910214,
-      "rank": 31,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 193828,
       "num": 193828,
       "word": "大理寺少卿游",
@@ -1545,6 +1545,14 @@
       "onboard_time": 1709869595,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 190044,
+      "num": 190044,
+      "word": "宁波现在最尴尬的房子",
+      "onboard_time": 1709910513,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 189173,
@@ -1745,6 +1753,14 @@
       "onboard_time": 1709864548,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172590,
+      "num": 172590,
+      "word": "KIKO叫王胜男的原因",
+      "onboard_time": 1709911413,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 171689,
@@ -2027,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148290,
+      "num": 148290,
+      "word": "这3个年龄段易断崖式衰老",
+      "onboard_time": 1709911712,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 147943,
       "num": 147943,
       "word": "他们的目标是让电车充一次电跑上千公里",
@@ -2160,14 +2184,6 @@
       "word": "谁家代言人的签名照落我桌上了",
       "onboard_time": 1709853807,
       "rank": 42,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 140857,
-      "num": 140857,
-      "word": "宁波现在最尴尬的房子",
-      "onboard_time": 1709910513,
-      "rank": 38,
       "category": "情感"
     },
     {
@@ -2321,6 +2337,14 @@
       "onboard_time": 1709903489,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 131508,
+      "num": 131508,
+      "word": "荣梓杉 性转版思诺既视感",
+      "onboard_time": 1709910991,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 130806,
@@ -2481,14 +2505,6 @@
       "onboard_time": 1709868752,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118793,
-      "num": 118793,
-      "word": "荣梓杉 性转版思诺既视感",
-      "onboard_time": 1709910991,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 117539,
@@ -2675,6 +2691,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 108100,
+      "num": 108100,
+      "word": "TWICE KillingVoice",
+      "onboard_time": 1709909490,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 108085,
       "num": 108085,
       "word": "大理寺少卿游 他们本可以有更好的人生",
@@ -2801,6 +2825,14 @@
       "onboard_time": 1709890230,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97177,
+      "num": 97177,
+      "word": "阮经天对妈妈60多岁离婚的看法",
+      "onboard_time": 1709912016,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 96372,
