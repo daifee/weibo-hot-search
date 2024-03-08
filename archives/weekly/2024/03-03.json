@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709912054446,
+  "endTime": 1709914801303,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -2817,6 +2817,14 @@
       "onboard_time": 1709808993,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 595541,
+      "num": 206097,
+      "word": "阮经天对妈妈60多岁离婚的看法",
+      "onboard_time": 1709912016,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 593167,
@@ -7108,7 +7116,7 @@
     },
     {
       "raw_hot": 256335,
-      "num": 202295,
+      "num": 205889,
       "word": "赵露思的皮肤状态",
       "onboard_time": 1709909971,
       "rank": 25,
@@ -7169,6 +7177,14 @@
       "onboard_time": 1709424565,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253458,
+      "num": 205955,
+      "word": "朴振英姚琛去内蒙古了",
+      "onboard_time": 1709909671,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 253142,
@@ -7497,14 +7513,6 @@
       "onboard_time": 1709532154,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 241365,
-      "num": 194793,
-      "word": "朴振英姚琛去内蒙古了",
-      "onboard_time": 1709909671,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 240814,
@@ -7985,6 +7993,14 @@
       "onboard_time": 1709456131,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 225621,
+      "num": 205839,
+      "word": "宁波现在最尴尬的房子",
+      "onboard_time": 1709910513,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 225563,
@@ -9723,14 +9739,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 190044,
-      "num": 190044,
-      "word": "宁波现在最尴尬的房子",
-      "onboard_time": 1709910513,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 190004,
       "num": 190004,
       "word": "蔡依林巴黎时装周生图",
@@ -9945,6 +9953,14 @@
       "onboard_time": 1709471070,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186213,
+      "num": 186213,
+      "word": "这3个年龄段易断崖式衰老",
+      "onboard_time": 1709911712,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 186091,
@@ -12577,14 +12593,6 @@
       "onboard_time": 1709795251,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 148290,
-      "num": 148290,
-      "word": "这3个年龄段易断崖式衰老",
-      "onboard_time": 1709911712,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 148105,
@@ -16195,6 +16203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98865,
+      "num": 146857,
+      "word": "61岁双胞胎宝妈回应高龄产子",
+      "onboard_time": 1709914111,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98779,
       "num": 343102,
       "word": "9代凯美瑞17.18万元起",
@@ -16225,14 +16241,6 @@
       "onboard_time": 1709721089,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 97177,
-      "num": 97177,
-      "word": "阮经天对妈妈60多岁离婚的看法",
-      "onboard_time": 1709912016,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 97044,
@@ -16369,6 +16377,14 @@
       "onboard_time": 1709638952,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 91560,
+      "num": 91560,
+      "word": "原来书中自有黄金屋是真的",
+      "onboard_time": 1709913331,
+      "rank": 40,
+      "category": "读书作家"
     },
     {
       "raw_hot": 91374,
