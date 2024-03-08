@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709878897844,
+  "endTime": 1709879662087,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1376686,
+      "num": 337602,
+      "word": "我上班穿的很恶心的原因",
+      "onboard_time": 1709875771,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1376489,
       "num": 415061,
       "word": "彩礼是对女性的生育补偿吗",
@@ -625,14 +633,6 @@
       "onboard_time": 1709620953,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1236656,
-      "num": 337602,
-      "word": "我上班穿的很恶心的原因",
-      "onboard_time": 1709875771,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 1231929,
@@ -971,12 +971,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1013197,
+      "num": 1013197,
+      "word": "鸟山明工作室发讣告",
+      "onboard_time": 1709876189,
+      "rank": 14,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 1011459,
       "num": 1011459,
       "word": "新确认一位慰安妇制度受害幸存者",
       "onboard_time": 1709425887,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1010612,
+      "num": 1010612,
+      "word": "SM你是真的饿了",
+      "onboard_time": 1709876728,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 1009362,
@@ -1033,14 +1049,6 @@
       "onboard_time": 1709434411,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 968410,
-      "num": 579899,
-      "word": "SM你是真的饿了",
-      "onboard_time": 1709876728,
-      "rank": 3,
-      "category": "音乐"
     },
     {
       "raw_hot": 966320,
@@ -1425,14 +1433,6 @@
       "onboard_time": 1709668874,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 824014,
-      "num": 336346,
-      "word": "鸟山明工作室发讣告",
-      "onboard_time": 1709876189,
-      "rank": 14,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 823890,
@@ -2545,6 +2545,14 @@
       "onboard_time": 1709478456,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 599891,
+      "num": 335720,
+      "word": "东方甄选将董宇辉商标转让给与辉同行",
+      "onboard_time": 1709877392,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 599206,
@@ -5027,14 +5035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 339645,
-      "num": 335720,
-      "word": "东方甄选将董宇辉商标转让给与辉同行",
-      "onboard_time": 1709877392,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 339295,
       "num": 339295,
       "word": "一直以为这是王一博英文名",
@@ -6089,6 +6089,14 @@
       "onboard_time": 1709469810,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 279483,
+      "num": 279483,
+      "word": "娜然还原妲己雪地找簪子名场面",
+      "onboard_time": 1709878110,
+      "rank": 24,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 277970,
@@ -7955,6 +7963,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 212286,
+      "num": 212286,
+      "word": "大学生用马面裙做床帘",
+      "onboard_time": 1709878470,
+      "rank": 37,
+      "category": "幽默,时尚"
+    },
+    {
       "raw_hot": 212093,
       "num": 212093,
       "word": "2023粮食产量1.39万亿斤",
@@ -8001,14 +8017,6 @@
       "onboard_time": 1709803410,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211122,
-      "num": 211122,
-      "word": "娜然还原妲己雪地找簪子名场面",
-      "onboard_time": 1709878110,
-      "rank": 24,
-      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 210885,
@@ -12107,14 +12115,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 142838,
-      "num": 142838,
-      "word": "大学生用马面裙做床帘",
-      "onboard_time": 1709878470,
-      "rank": 37,
-      "category": "幽默,时尚"
-    },
-    {
       "raw_hot": 142719,
       "num": 142719,
       "word": "刘诗诗掌心新妆造",
@@ -12745,6 +12745,14 @@
       "onboard_time": 1709641771,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134496,
+      "num": 134496,
+      "word": "东部战区陆军首个女子导弹排",
+      "onboard_time": 1709878769,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 134288,
@@ -14531,6 +14539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106565,
+      "num": 106565,
+      "word": "公牛vs勇士",
+      "onboard_time": 1709876848,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106508,
       "num": 106508,
       "word": "你在冬天容易生病吗",
@@ -14627,6 +14643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104450,
+      "num": 104450,
+      "word": "鸟山明曾说没有成龙的醉拳就没有龙珠",
+      "onboard_time": 1709879553,
+      "rank": 44,
+      "category": "动漫,电影"
+    },
+    {
       "raw_hot": 104368,
       "num": 104368,
       "word": "克雷桑替补",
@@ -14657,14 +14681,6 @@
       "onboard_time": 1709729792,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 103936,
-      "num": 103936,
-      "word": "东部战区陆军首个女子导弹排",
-      "onboard_time": 1709878769,
-      "rank": 49,
-      "category": "军事"
     },
     {
       "raw_hot": 103733,
@@ -14851,6 +14867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96166,
+      "num": 96166,
+      "word": "县城青年为什么敢花钱",
+      "onboard_time": 1709877870,
+      "rank": 48,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 96089,
       "num": 833065,
       "word": "十四届全国人大二次会议议程抢鲜看",
@@ -14937,6 +14961,14 @@
       "onboard_time": 1709680524,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90724,
+      "num": 90724,
+      "word": "爆改视频背后谁赚麻了",
+      "onboard_time": 1709879610,
+      "rank": 49,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 90443,
