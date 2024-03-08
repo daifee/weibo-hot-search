@@ -1,6 +1,6 @@
 {
   "startTime": 1709828457134,
-  "endTime": 1709861412969,
+  "endTime": 1709863363472,
   "band_list": [
     {
       "raw_hot": 2519082,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1022372,
+      "num": 1022372,
+      "word": "国家线",
+      "onboard_time": 1709860948,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 964589,
       "num": 609019,
       "word": "为啥体制内女性找对象越来越难",
@@ -35,8 +43,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 882336,
-      "num": 882336,
+      "raw_hot": 905509,
+      "num": 905509,
       "word": "建议恢复婚前医学检查",
       "onboard_time": 1709857590,
       "rank": 5,
@@ -155,6 +163,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 534540,
+      "num": 534540,
+      "word": "医院回应护士称拒绝给患者当儿媳被投诉",
+      "onboard_time": 1709860107,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514165,
       "num": 514165,
       "word": "MiuMiu大秀 柳州覃阿姨",
@@ -211,12 +227,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 296858,
-      "num": 296858,
-      "word": "国家线",
-      "onboard_time": 1709860948,
-      "rank": 19,
-      "category": "教育"
+      "raw_hot": 290436,
+      "num": 290436,
+      "word": "祝她铮铮 祝她昂扬",
+      "onboard_time": 1709858731,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 282172,
@@ -235,28 +251,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 269772,
-      "num": 269772,
-      "word": "祝她铮铮 祝她昂扬",
-      "onboard_time": 1709858731,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 257982,
       "num": 165458,
       "word": "看见不认识的字不要随便拍照",
       "onboard_time": 1709809531,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 254900,
-      "num": 254900,
-      "word": "医院回应护士称拒绝给患者当儿媳被投诉",
-      "onboard_time": 1709860107,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 245137,
@@ -283,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238288,
+      "num": 238288,
+      "word": "倒头就睡的人到底是怎么做到的",
+      "onboard_time": 1709860107,
+      "rank": 49,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 229344,
       "num": 164316,
       "word": "大哥远 封了一天",
@@ -305,6 +313,14 @@
       "onboard_time": 1709819252,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217216,
+      "num": 217216,
+      "word": "苹果中国规格最高旗舰店即将开业",
+      "onboard_time": 1709862330,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 215471,
@@ -355,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189405,
+      "num": 189405,
+      "word": "普通人没必要对孩子进行苦难教育",
+      "onboard_time": 1709861610,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185832,
       "num": 185832,
       "word": "小伙上班用不惯26键用9键键盘代替",
@@ -363,20 +387,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182031,
-      "num": 182031,
-      "word": "倒头就睡的人到底是怎么做到的",
-      "onboard_time": 1709860107,
-      "rank": 49,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 180787,
       "num": 180787,
       "word": "白鹿李一桐包场檀健次电影",
       "onboard_time": 1709860768,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174337,
+      "num": 174337,
+      "word": "什么时候年龄可以成为加分项",
+      "onboard_time": 1709862749,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 173646,
@@ -419,20 +443,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 155663,
+      "num": 155663,
+      "word": "你要写女性就不能只写女性",
+      "onboard_time": 1709862628,
+      "rank": 33,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 155113,
+      "num": 145696,
+      "word": "陈哲远包场檀健次电影",
+      "onboard_time": 1709863108,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 154929,
+      "num": 154929,
+      "word": "想去她家上班",
+      "onboard_time": 1709860469,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 154425,
       "num": 95039,
       "word": "间谍过家家 次子长大了",
       "onboard_time": 1709831003,
       "rank": 30,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 152704,
-      "num": 152704,
-      "word": "想去她家上班",
-      "onboard_time": 1709860469,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 148625,
@@ -491,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141362,
+      "num": 141362,
+      "word": "起草人解读两高工作报告",
+      "onboard_time": 1709862690,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 140966,
       "num": 140966,
       "word": "谁家代言人的签名照落我桌上了",
@@ -516,7 +564,7 @@
     },
     {
       "raw_hot": 128627,
-      "num": 756542,
+      "num": 936591,
       "word": "建议将抑郁症纳入医保目录",
       "onboard_time": 1709852844,
       "rank": 4,
@@ -601,6 +649,14 @@
       "onboard_time": 1709822732,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100932,
+      "num": 100932,
+      "word": "妇女节女员工1人发了1袋大馒头",
+      "onboard_time": 1709863288,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100176,
@@ -788,7 +844,7 @@
     },
     {
       "raw_hot": 62799,
-      "num": 1046496,
+      "num": 1047022,
       "word": "政府工作报告里的民生举措",
       "onboard_time": 1709816612,
       "rank": 2,
@@ -875,7 +931,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 31245,
+      "raw_hot": 32508,
       "num": 609359,
       "word": "建议推进罕见病孤儿药相关法规建立",
       "onboard_time": 1709852724,
