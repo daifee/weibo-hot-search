@@ -1,6 +1,6 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709939928065,
+  "endTime": 1709940947376,
   "band_list": [
     {
       "raw_hot": 1802368,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 621309,
-      "num": 206594,
+      "num": 236495,
       "word": "怀孕前一定要对乳房做全面检查",
       "onboard_time": 1709884471,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 618680,
+      "num": 618680,
+      "word": "35岁女儿离婚父亲安慰说都过去了",
+      "onboard_time": 1709920159,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 609910,
@@ -49,14 +57,6 @@
       "onboard_time": 1709910330,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 514277,
-      "num": 514277,
-      "word": "35岁女儿离婚父亲安慰说都过去了",
-      "onboard_time": 1709920159,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 393442,
@@ -91,11 +91,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 294888,
-      "num": 95871,
+      "raw_hot": 329692,
+      "num": 152763,
       "word": "23岁女子长期熬夜诱发乳腺癌",
       "onboard_time": 1709939063,
       "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 278931,
+      "num": 186213,
+      "word": "这3个年龄段易断崖式衰老",
+      "onboard_time": 1709911712,
+      "rank": 24,
       "category": "健康医疗"
     },
     {
@@ -105,6 +113,14 @@
       "onboard_time": 1709906434,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275808,
+      "num": 275808,
+      "word": "樱桃小丸子的声优去世",
+      "onboard_time": 1709939722,
+      "rank": 19,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 272675,
@@ -123,12 +139,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 256270,
-      "num": 186213,
-      "word": "这3个年龄段易断崖式衰老",
-      "onboard_time": 1709911712,
-      "rank": 24,
-      "category": "健康医疗"
+      "raw_hot": 249952,
+      "num": 249952,
+      "word": "张志磊vs帕克",
+      "onboard_time": 1709939301,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 246995,
+      "num": 246995,
+      "word": "在孩子手机里发现的",
+      "onboard_time": 1709932094,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 245422,
@@ -145,6 +169,14 @@
       "onboard_time": 1709910214,
       "rank": 25,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 229343,
+      "num": 173462,
+      "word": "拜登正说美变得更安全现场死亡美军父亲喊叫抗议",
+      "onboard_time": 1709930535,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 219588,
@@ -187,20 +219,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187210,
-      "num": 187210,
-      "word": "在孩子手机里发现的",
-      "onboard_time": 1709932094,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 196923,
+      "num": 170708,
+      "word": "周杰伦昆凌飞奔相拥",
+      "onboard_time": 1709939900,
+      "rank": 48,
+      "category": "艺人"
     },
     {
-      "raw_hot": 187078,
-      "num": 187078,
-      "word": "张志磊vs帕克",
-      "onboard_time": 1709939301,
-      "rank": 5,
-      "category": "体育"
+      "raw_hot": 187030,
+      "num": 169061,
+      "word": "李秀满出售SM获5300亿韩元",
+      "onboard_time": 1709923939,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 182411,
@@ -211,6 +243,30 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 179331,
+      "num": 151372,
+      "word": "女性体检报告上8个高频词",
+      "onboard_time": 1709939900,
+      "rank": 25,
+      "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 177243,
+      "num": 177243,
+      "word": "赵丽颖林更新拍立得好甜",
+      "onboard_time": 1709939602,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172524,
+      "num": 149136,
+      "word": "教资",
+      "onboard_time": 1709939602,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 171689,
       "num": 205732,
       "word": "樊振东唱LoveStory",
@@ -219,12 +275,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168504,
-      "num": 118646,
-      "word": "拜登正说美变得更安全现场死亡美军父亲喊叫抗议",
-      "onboard_time": 1709930535,
-      "rank": 30,
-      "category": "国外时政"
+      "raw_hot": 167947,
+      "num": 167947,
+      "word": "减肥神药撑起一个国家",
+      "onboard_time": 1709939900,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164299,
@@ -243,20 +299,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156637,
-      "num": 115585,
-      "word": "李秀满出售SM获5300亿韩元",
-      "onboard_time": 1709923939,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 148994,
-      "num": 93050,
-      "word": "教资",
-      "onboard_time": 1709939602,
-      "rank": 21,
-      "category": "教育"
+      "raw_hot": 148038,
+      "num": 148038,
+      "word": "金价",
+      "onboard_time": 1709940442,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 146885,
@@ -315,6 +363,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120029,
+      "num": 120029,
+      "word": "与凤行",
+      "onboard_time": 1709940203,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 104071,
+      "num": 104071,
+      "word": "万科6.47亿美元全数偿付到期票据本息",
+      "onboard_time": 1709939781,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 104011,
       "num": 104011,
       "word": "恋爱兄妹",
@@ -339,12 +403,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 101847,
-      "num": 84709,
-      "word": "女性体检报告上8个高频词",
-      "onboard_time": 1709939900,
-      "rank": 25,
-      "category": "健康医疗,科学科普"
+      "raw_hot": 99789,
+      "num": 99789,
+      "word": "广东女子被咬伤后拎着毒蛇冲进医院",
+      "onboard_time": 1709939602,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98744,
@@ -361,14 +425,6 @@
       "onboard_time": 1709903251,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97810,
-      "num": 97810,
-      "word": "樱桃小丸子的声优去世",
-      "onboard_time": 1709939722,
-      "rank": 19,
-      "category": "动漫,艺人"
     },
     {
       "raw_hot": 97057,
@@ -451,6 +507,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 81357,
+      "num": 81357,
+      "word": "全员加速中无人加速成功",
+      "onboard_time": 1709940384,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 81322,
+      "num": 81322,
+      "word": "小夫妻花5000元办了场极极极简婚礼",
+      "onboard_time": 1709940321,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79812,
       "num": 79812,
       "word": "鸟山明去世",
@@ -467,19 +539,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 77280,
+      "num": 77280,
+      "word": "加速衰老的6个习惯一定要改",
+      "onboard_time": 1709939063,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 74400,
       "num": 89213,
       "word": "邱庆之死在李饼怀里",
       "onboard_time": 1709909490,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 68976,
-      "num": 68976,
-      "word": "赵丽颖林更新拍立得好甜",
-      "onboard_time": 1709939602,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -507,12 +579,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 66189,
-      "num": 66189,
-      "word": "万科6.47亿美元全数偿付到期票据本息",
-      "onboard_time": 1709939781,
-      "rank": 30,
-      "category": "财经"
+      "raw_hot": 65356,
+      "num": 65356,
+      "word": "全员加速中回应争议",
+      "onboard_time": 1709940683,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 64089,
@@ -523,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62708,
-      "num": 62708,
-      "word": "加速衰老的6个习惯一定要改",
-      "onboard_time": 1709939063,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 59727,
       "num": 59727,
       "word": "吴磊对粉丝喊妇女节快乐",
@@ -539,12 +603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59208,
-      "num": 59208,
-      "word": "减肥神药撑起一个国家",
-      "onboard_time": 1709939900,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 55989,
+      "num": 55989,
+      "word": "霉霉演唱会 樊振东",
+      "onboard_time": 1709940805,
+      "rank": 42,
+      "category": "演出,体育"
     },
     {
       "raw_hot": 55893,
@@ -563,6 +627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 53872,
+      "num": 53872,
+      "word": "女性失眠概率约为男性两倍",
+      "onboard_time": 1709939241,
+      "rank": 40,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 51714,
       "num": 432161,
       "word": "政府工作报告里年轻人关心的热点",
@@ -579,28 +651,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46796,
-      "num": 88446,
-      "word": "外交部对鸟山明去世表示哀悼",
-      "onboard_time": 1709884649,
-      "rank": 49,
-      "category": "国内时政,动漫"
-    },
-    {
-      "raw_hot": 44243,
-      "num": 44243,
+      "raw_hot": 49820,
+      "num": 49820,
       "word": "钟楚曦逛到商场关门",
       "onboard_time": 1709932217,
       "rank": 39,
       "category": "艺人"
     },
     {
-      "raw_hot": 42911,
-      "num": 42911,
-      "word": "女性失眠概率约为男性两倍",
-      "onboard_time": 1709939241,
-      "rank": 40,
-      "category": "健康医疗,科学科普"
+      "raw_hot": 46796,
+      "num": 88446,
+      "word": "外交部对鸟山明去世表示哀悼",
+      "onboard_time": 1709884649,
+      "rank": 49,
+      "category": "国内时政,动漫"
     },
     {
       "raw_hot": 40536,
@@ -611,22 +675,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 37672,
-      "num": 37672,
-      "word": "广东女子被咬伤后拎着毒蛇冲进医院",
-      "onboard_time": 1709939602,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34012,
-      "num": 34012,
-      "word": "周杰伦昆凌飞奔相拥",
-      "onboard_time": 1709939900,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 29944,
       "num": 29944,
       "word": "檀健次想挑战极致饱满的恶人角色",
@@ -635,8 +683,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 15513,
-      "num": 67194,
+      "raw_hot": 18286,
+      "num": 105237,
       "word": "一图看懂两会热点新质生产力",
       "onboard_time": 1709927177,
       "rank": 29,
@@ -667,8 +715,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 6009,
-      "num": 340465,
+      "raw_hot": 7208,
+      "num": 399442,
       "word": "最高法工作报告",
       "onboard_time": 1709864308,
       "rank": 2,
