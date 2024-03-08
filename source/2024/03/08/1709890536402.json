@@ -1,0 +1,410 @@
+{
+  "runTime": 1709890536402,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 843267,
+        "num": 843267,
+        "word": "外交部对鸟山明去世表示哀悼",
+        "onboard_time": 1709884649,
+        "rank": 0,
+        "category": "国内时政,动漫"
+      },
+      {
+        "raw_hot": 666685,
+        "num": 666685,
+        "word": "建议取消公务员35岁门槛",
+        "onboard_time": 1709863886,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19880,
+        "num": 608670,
+        "word": "起草人解读两高工作报告",
+        "onboard_time": 1709862690,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601294,
+        "num": 601294,
+        "word": "乡镇女快递员抓小偷救人样样在行",
+        "onboard_time": 1709888191,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599171,
+        "num": 599171,
+        "word": "谢楠玩游戏给赵丽颖打电话",
+        "onboard_time": 1709886929,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 920306,
+        "num": 503132,
+        "word": "鸟山明去世",
+        "onboard_time": 1709867670,
+        "rank": 5,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 337157,
+        "num": 337157,
+        "word": "WTT新加坡大满贯",
+        "onboard_time": 1709889811,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329029,
+        "num": 329029,
+        "word": "陈都灵学院风制服",
+        "onboard_time": 1709888551,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313649,
+        "num": 313649,
+        "word": "建议实行未成年人父母弹性上班制",
+        "onboard_time": 1709889630,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250728,
+        "num": 250728,
+        "word": "大学生用马面裙做床帘",
+        "onboard_time": 1709878470,
+        "rank": 9,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 1039900,
+        "num": 250415,
+        "word": "首款折叠屏iPhone",
+        "onboard_time": 1709885189,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 814165,
+        "num": 249685,
+        "word": "张学友新冠阳性正在家隔离",
+        "onboard_time": 1709885432,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 696763,
+        "num": 248189,
+        "word": "杨紫的学生证",
+        "onboard_time": 1709883688,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568790,
+        "num": 247527,
+        "word": "孟羽童谈做博主后的收入",
+        "onboard_time": 1709881168,
+        "rank": 13,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 521173,
+        "num": 246581,
+        "word": "阿拉蕾",
+        "onboard_time": 1709868634,
+        "rank": 14,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 299803,
+        "num": 245943,
+        "word": "唐艺昕近期状态",
+        "onboard_time": 1709887227,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245225,
+        "num": 245225,
+        "word": "向佐请摄影师不要在鼻孔下面拍他",
+        "onboard_time": 1709890289,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415700,
+        "num": 234698,
+        "word": "乌合麒麟 代表日本漫画的黄金时代落幕了",
+        "onboard_time": 1709870794,
+        "rank": 17,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 222641,
+        "num": 222641,
+        "word": "文俊辉直播",
+        "onboard_time": 1709888789,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220820,
+        "num": 220820,
+        "word": "妇女节放假",
+        "onboard_time": 1709867911,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572081,
+        "num": 214347,
+        "word": "怀孕前一定要对乳房做全面检查",
+        "onboard_time": 1709884471,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132008,
+        "num": 186685,
+        "word": "美的其中一种是妈妈",
+        "onboard_time": 1709886987,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321808,
+        "num": 185221,
+        "word": "大家存一万需要多久",
+        "onboard_time": 1709886212,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178441,
+        "num": 178441,
+        "word": "华为回应P70延期发布",
+        "onboard_time": 1709883212,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 177770,
+        "num": 177770,
+        "word": "妇女节快乐",
+        "onboard_time": 1709856394,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161636,
+        "num": 161636,
+        "word": "为什么入睡最好不晚于23点",
+        "onboard_time": 1709868149,
+        "rank": 25,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 161618,
+        "num": 161618,
+        "word": "刑法第二十条已被唤醒",
+        "onboard_time": 1709864548,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160164,
+        "num": 160164,
+        "word": "鸟山明工作室发讣告",
+        "onboard_time": 1709876189,
+        "rank": 27,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 155789,
+        "num": 155789,
+        "word": "刘浩存收到惠英红礼物哭了",
+        "onboard_time": 1709889630,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154934,
+        "num": 154934,
+        "word": "papi酱说短视频里不是她本人",
+        "onboard_time": 1709872234,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153002,
+        "num": 153002,
+        "word": "被我弄丢的你北京首映",
+        "onboard_time": 1709889748,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152087,
+        "num": 152087,
+        "word": "彭于晏 阮经天你这样礼貌吗",
+        "onboard_time": 1709881049,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149045,
+        "num": 149045,
+        "word": "教育局回应宝应中学开设女德讲座",
+        "onboard_time": 1709890348,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146083,
+        "num": 146083,
+        "word": "成龙发博悼念鸟山明",
+        "onboard_time": 1709883811,
+        "rank": 33,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 137677,
+        "num": 137677,
+        "word": "妈妈好像不知道我已经二十多岁了",
+        "onboard_time": 1709879970,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134140,
+        "num": 134140,
+        "word": "灿烂的她 哭着哭着就笑了",
+        "onboard_time": 1709889331,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128506,
+        "num": 128506,
+        "word": "沙丘2赞达亚角色特辑",
+        "onboard_time": 1709888429,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122587,
+        "num": 122587,
+        "word": "WTT新加坡大满贯签表",
+        "onboard_time": 1709886030,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113545,
+        "num": 113545,
+        "word": "孙颖莎王曼昱对练",
+        "onboard_time": 1709889811,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111034,
+        "num": 111034,
+        "word": "鞠婧祎白开水伪素颜妆",
+        "onboard_time": 1709884170,
+        "rank": 39,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 105680,
+        "num": 105680,
+        "word": "王者妇女节公布女英雄计划",
+        "onboard_time": 1709890168,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100808,
+        "num": 100808,
+        "word": "中华商务图书回应龙珠漫画卖空",
+        "onboard_time": 1709887411,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 99727,
+        "num": 99727,
+        "word": "RNGM春季赛首胜",
+        "onboard_time": 1709890230,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91870,
+        "num": 91870,
+        "word": "东部战区陆军首个女子导弹排",
+        "onboard_time": 1709878769,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 91040,
+        "num": 91040,
+        "word": "沙丘2影迷cos沙虫",
+        "onboard_time": 1709888848,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88789,
+        "num": 88789,
+        "word": "国足31人大名单",
+        "onboard_time": 1709885550,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88307,
+        "num": 88307,
+        "word": "只要撑过来 老天就会给我们奖励",
+        "onboard_time": 1709888009,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86764,
+        "num": 86764,
+        "word": "妇女能顶半边天",
+        "onboard_time": 1709856754,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86537,
+        "num": 86537,
+        "word": "每次见面都会给我买花的朋友",
+        "onboard_time": 1709888009,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83557,
+        "num": 86431,
+        "word": "张学友疑因上呼吸道感染就医",
+        "onboard_time": 1709869954,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记首次同新设立的政协界别委员见面#"
+    }
+  }
+}
