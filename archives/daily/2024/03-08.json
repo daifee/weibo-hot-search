@@ -1,6 +1,6 @@
 {
   "startTime": 1709828457134,
-  "endTime": 1709890536402,
+  "endTime": 1709893275703,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1352547,
-      "num": 249685,
+      "num": 358587,
       "word": "张学友新冠阳性正在家隔离",
       "onboard_time": 1709885432,
       "rank": 12,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1204968,
-      "num": 250415,
+      "num": 358785,
       "word": "首款折叠屏iPhone",
       "onboard_time": 1709885189,
       "rank": 19,
@@ -164,11 +164,19 @@
     },
     {
       "raw_hot": 964365,
-      "num": 248189,
+      "num": 358414,
       "word": "杨紫的学生证",
       "onboard_time": 1709883688,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 908683,
+      "num": 908683,
+      "word": "建议实行未成年人父母弹性上班制",
+      "onboard_time": 1709889630,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 905509,
@@ -209,6 +217,14 @@
       "onboard_time": 1709863408,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 783152,
+      "num": 358820,
+      "word": "向佐请摄影师不要在鼻孔下面拍他",
+      "onboard_time": 1709890289,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 773838,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 721015,
-      "num": 220830,
+      "num": 235928,
       "word": "怀孕前一定要对乳房做全面检查",
       "onboard_time": 1709884471,
       "rank": 20,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 715003,
-      "num": 303191,
+      "num": 344446,
       "word": "孟羽童谈做博主后的收入",
       "onboard_time": 1709881168,
       "rank": 13,
@@ -305,6 +321,14 @@
       "onboard_time": 1709853744,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 679461,
+      "num": 533762,
+      "word": "王栎鑫也没抢到票",
+      "onboard_time": 1709891187,
+      "rank": 3,
+      "category": "演出"
     },
     {
       "raw_hot": 661361,
@@ -443,6 +467,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 433279,
+      "num": 348234,
+      "word": "教育局回应宝应中学开设女德讲座",
+      "onboard_time": 1709890348,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430255,
       "num": 430255,
       "word": "十四届全国人大二次会议第二次全体会议",
@@ -499,8 +531,32 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 395996,
+      "num": 395996,
+      "word": "妇女节公司为女生开了一间花店",
+      "onboard_time": 1709891430,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395318,
+      "num": 154558,
+      "word": "日本单亲妈妈来中国后",
+      "onboard_time": 1709892030,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 383621,
+      "num": 383621,
+      "word": "雅诗兰黛称在中国销售的所有产品合规",
+      "onboard_time": 1709891790,
+      "rank": 8,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 379741,
-      "num": 199238,
+      "num": 233997,
       "word": "大家存一万需要多久",
       "onboard_time": 1709886212,
       "rank": 21,
@@ -523,6 +579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 358181,
+      "num": 358181,
+      "word": "WTT新加坡大满贯",
+      "onboard_time": 1709889811,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 341863,
       "num": 226471,
       "word": "成龙发博悼念鸟山明",
@@ -536,14 +600,6 @@
       "word": "库里受伤",
       "onboard_time": 1709876309,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 337157,
-      "num": 337157,
-      "word": "WTT新加坡大满贯",
-      "onboard_time": 1709889811,
-      "rank": 6,
       "category": "体育"
     },
     {
@@ -601,14 +657,6 @@
       "onboard_time": 1709870492,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 313649,
-      "num": 313649,
-      "word": "建议实行未成年人父母弹性上班制",
-      "onboard_time": 1709889630,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312661,
@@ -811,14 +859,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 245225,
-      "num": 245225,
-      "word": "向佐请摄影师不要在鼻孔下面拍他",
-      "onboard_time": 1709890289,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 245137,
       "num": 245137,
       "word": "妇女节放假是法定的半天节假日",
@@ -929,6 +969,14 @@
       "onboard_time": 1709819252,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217895,
+      "num": 217895,
+      "word": "LGD战胜LNG",
+      "onboard_time": 1709892329,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 216966,
@@ -1155,12 +1203,28 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 179284,
+      "num": 179284,
+      "word": "SEVENTEEN加场",
+      "onboard_time": 1709890531,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 179129,
       "num": 179129,
       "word": "超3万家企业已支持女性放例假",
       "onboard_time": 1709870017,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177376,
+      "num": 177376,
+      "word": "LGD对战LNG",
+      "onboard_time": 1709890710,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 174423,
@@ -1291,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157596,
+      "num": 157596,
+      "word": "黄雅莉给未来宝宝的vlog",
+      "onboard_time": 1709891611,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155789,
       "num": 155789,
       "word": "刘浩存收到惠英红礼物哭了",
@@ -1339,6 +1411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153397,
+      "num": 153397,
+      "word": "80后父亲为女儿自制卫生巾词典",
+      "onboard_time": 1709892869,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153002,
       "num": 153002,
       "word": "被我弄丢的你北京首映",
@@ -1385,14 +1465,6 @@
       "onboard_time": 1709884649,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149045,
-      "num": 149045,
-      "word": "教育局回应宝应中学开设女德讲座",
-      "onboard_time": 1709890348,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148625,
@@ -1475,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142530,
+      "num": 142530,
+      "word": "他说不在意可张口便是17年",
+      "onboard_time": 1709892211,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142095,
       "num": 142095,
       "word": "真的是要开始存钱了",
@@ -1505,6 +1585,14 @@
       "onboard_time": 1709853807,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140723,
+      "num": 140723,
+      "word": "第一次亲眼目睹光合作用",
+      "onboard_time": 1709892450,
+      "rank": 36,
+      "category": "科学科普"
     },
     {
       "raw_hot": 140619,
@@ -1673,6 +1761,14 @@
       "onboard_time": 1709886212,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 123031,
+      "num": 123031,
+      "word": "何浩楠 水培生菜收工",
+      "onboard_time": 1709891849,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 122412,
@@ -1955,6 +2051,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 94431,
+      "num": 94431,
+      "word": "邱饼 我的把柄从来只有你",
+      "onboard_time": 1709891611,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 92332,
+      "num": 92332,
+      "word": "皮蛋香菜馄饨有多绝",
+      "onboard_time": 1709891307,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 92250,
       "num": 92250,
       "word": "原来拉面不是统一只有三片肉",
@@ -2011,6 +2123,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 87881,
+      "num": 87881,
+      "word": "房屋改造综合征",
+      "onboard_time": 1709891250,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 86167,
       "num": 86167,
       "word": "王子文红玫瑰",
@@ -2049,6 +2169,14 @@
       "onboard_time": 1709864308,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84856,
+      "num": 84856,
+      "word": "终于知道为什么晴天在路上会掉水滴",
+      "onboard_time": 1709890889,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 83881,
@@ -2267,6 +2395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 28854,
+      "num": 358233,
+      "word": "单挑蛋仔第一boss张伟丽",
+      "onboard_time": 1709892030,
+      "rank": 14,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 27760,
       "num": 27760,
       "word": "林一周也吻戏",
@@ -2289,6 +2425,14 @@
       "onboard_time": 1709831542,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19533,
+      "num": 123247,
+      "word": "女性给自己的人生上色有多动人",
+      "onboard_time": 1709892030,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19023,

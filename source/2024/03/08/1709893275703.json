@@ -1,0 +1,410 @@
+{
+  "runTime": 1709893275703,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 908683,
+        "num": 908683,
+        "word": "建议实行未成年人父母弹性上班制",
+        "onboard_time": 1709889630,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598544,
+        "num": 598544,
+        "word": "建议取消公务员35岁门槛",
+        "onboard_time": 1709863886,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11693,
+        "num": 541458,
+        "word": "起草人解读两高工作报告",
+        "onboard_time": 1709862690,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679461,
+        "num": 533762,
+        "word": "王栎鑫也没抢到票",
+        "onboard_time": 1709891187,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 521950,
+        "num": 521950,
+        "word": "外交部对鸟山明去世表示哀悼",
+        "onboard_time": 1709884649,
+        "rank": 4,
+        "category": "国内时政,动漫"
+      },
+      {
+        "raw_hot": 410794,
+        "num": 410794,
+        "word": "乡镇女快递员抓小偷救人样样在行",
+        "onboard_time": 1709888191,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395996,
+        "num": 395996,
+        "word": "妇女节公司为女生开了一间花店",
+        "onboard_time": 1709891430,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 920144,
+        "num": 393216,
+        "word": "鸟山明去世",
+        "onboard_time": 1709867670,
+        "rank": 7,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 383621,
+        "num": 383621,
+        "word": "雅诗兰黛称在中国销售的所有产品合规",
+        "onboard_time": 1709891790,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 358938,
+        "num": 358938,
+        "word": "谢楠玩游戏给赵丽颖打电话",
+        "onboard_time": 1709886929,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 783152,
+        "num": 358820,
+        "word": "向佐请摄影师不要在鼻孔下面拍他",
+        "onboard_time": 1709890289,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 620805,
+        "num": 358785,
+        "word": "首款折叠屏iPhone",
+        "onboard_time": 1709885189,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 534880,
+        "num": 358587,
+        "word": "张学友新冠阳性正在家隔离",
+        "onboard_time": 1709885432,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 515455,
+        "num": 358414,
+        "word": "杨紫的学生证",
+        "onboard_time": 1709883688,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28854,
+        "num": 358233,
+        "word": "单挑蛋仔第一boss张伟丽",
+        "onboard_time": 1709892030,
+        "rank": 14,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 358181,
+        "num": 358181,
+        "word": "WTT新加坡大满贯",
+        "onboard_time": 1709889811,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433279,
+        "num": 348234,
+        "word": "教育局回应宝应中学开设女德讲座",
+        "onboard_time": 1709890348,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395514,
+        "num": 344446,
+        "word": "孟羽童谈做博主后的收入",
+        "onboard_time": 1709881168,
+        "rank": 17,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 324078,
+        "num": 324078,
+        "word": "阿拉蕾",
+        "onboard_time": 1709868634,
+        "rank": 18,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 237224,
+        "num": 237224,
+        "word": "陈都灵学院风制服",
+        "onboard_time": 1709888551,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 491524,
+        "num": 235928,
+        "word": "怀孕前一定要对乳房做全面检查",
+        "onboard_time": 1709884471,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 292049,
+        "num": 235017,
+        "word": "乌合麒麟 代表日本漫画的黄金时代落幕了",
+        "onboard_time": 1709870794,
+        "rank": 21,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 233997,
+        "num": 233997,
+        "word": "大家存一万需要多久",
+        "onboard_time": 1709886212,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217895,
+        "num": 217895,
+        "word": "LGD战胜LNG",
+        "onboard_time": 1709892329,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191464,
+        "num": 191464,
+        "word": "唐艺昕近期状态",
+        "onboard_time": 1709887227,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179284,
+        "num": 179284,
+        "word": "SEVENTEEN加场",
+        "onboard_time": 1709890531,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177376,
+        "num": 177376,
+        "word": "LGD对战LNG",
+        "onboard_time": 1709890710,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165660,
+        "num": 165660,
+        "word": "妇女节放假",
+        "onboard_time": 1709867911,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157596,
+        "num": 157596,
+        "word": "黄雅莉给未来宝宝的vlog",
+        "onboard_time": 1709891611,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138273,
+        "num": 155177,
+        "word": "为什么入睡最好不晚于23点",
+        "onboard_time": 1709868149,
+        "rank": 29,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 395318,
+        "num": 154558,
+        "word": "日本单亲妈妈来中国后",
+        "onboard_time": 1709892030,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153397,
+        "num": 153397,
+        "word": "80后父亲为女儿自制卫生巾词典",
+        "onboard_time": 1709892869,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147730,
+        "num": 147730,
+        "word": "大学生用马面裙做床帘",
+        "onboard_time": 1709878470,
+        "rank": 32,
+        "category": "幽默,时尚"
+      },
+      {
+        "raw_hot": 143001,
+        "num": 143001,
+        "word": "鸟山明工作室发讣告",
+        "onboard_time": 1709876189,
+        "rank": 33,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 142672,
+        "num": 142672,
+        "word": "妇女节快乐",
+        "onboard_time": 1709856394,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142530,
+        "num": 142530,
+        "word": "他说不在意可张口便是17年",
+        "onboard_time": 1709892211,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140723,
+        "num": 140723,
+        "word": "第一次亲眼目睹光合作用",
+        "onboard_time": 1709892450,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 129606,
+        "num": 129606,
+        "word": "papi酱说短视频里不是她本人",
+        "onboard_time": 1709872234,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125744,
+        "num": 125744,
+        "word": "刘浩存收到惠英红礼物哭了",
+        "onboard_time": 1709889630,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19533,
+        "num": 123247,
+        "word": "女性给自己的人生上色有多动人",
+        "onboard_time": 1709892030,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123031,
+        "num": 123031,
+        "word": "何浩楠 水培生菜收工",
+        "onboard_time": 1709891849,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117858,
+        "num": 117858,
+        "word": "成龙发博悼念鸟山明",
+        "onboard_time": 1709883811,
+        "rank": 41,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 94431,
+        "num": 94431,
+        "word": "邱饼 我的把柄从来只有你",
+        "onboard_time": 1709891611,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92332,
+        "num": 92332,
+        "word": "皮蛋香菜馄饨有多绝",
+        "onboard_time": 1709891307,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 87881,
+        "num": 87881,
+        "word": "房屋改造综合征",
+        "onboard_time": 1709891250,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86009,
+        "num": 86009,
+        "word": "妈妈好像不知道我已经二十多岁了",
+        "onboard_time": 1709879970,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84856,
+        "num": 84856,
+        "word": "终于知道为什么晴天在路上会掉水滴",
+        "onboard_time": 1709890889,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84664,
+        "num": 84664,
+        "word": "张学友疑因上呼吸道感染就医",
+        "onboard_time": 1709869954,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84109,
+        "num": 84109,
+        "word": "华为回应P70延期发布",
+        "onboard_time": 1709883212,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 84031,
+        "num": 84031,
+        "word": "沙丘2赞达亚角色特辑",
+        "onboard_time": 1709888429,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#大国工匠是中华民族大厦的基石栋梁#"
+    }
+  }
+}
