@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709876049587,
+  "endTime": 1709878897844,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 1718407,
-      "num": 514518,
+      "num": 840675,
       "word": "乌合麒麟 代表日本漫画的黄金时代落幕了",
       "onboard_time": 1709870794,
       "rank": 10,
@@ -625,6 +625,14 @@
       "onboard_time": 1709620953,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1236656,
+      "num": 337602,
+      "word": "我上班穿的很恶心的原因",
+      "onboard_time": 1709875771,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1231929,
@@ -1027,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 968410,
+      "num": 579899,
+      "word": "SM你是真的饿了",
+      "onboard_time": 1709876728,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 966320,
       "num": 386670,
       "word": "已婚女生找工作有多难",
@@ -1409,6 +1425,14 @@
       "onboard_time": 1709668874,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 824014,
+      "num": 336346,
+      "word": "鸟山明工作室发讣告",
+      "onboard_time": 1709876189,
+      "rank": 14,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 823890,
@@ -5003,12 +5027,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339645,
+      "num": 335720,
+      "word": "东方甄选将董宇辉商标转让给与辉同行",
+      "onboard_time": 1709877392,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 339295,
       "num": 339295,
       "word": "一直以为这是王一博英文名",
       "onboard_time": 1709433930,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338986,
+      "num": 338986,
+      "word": "库里受伤",
+      "onboard_time": 1709876309,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 336990,
@@ -5049,6 +5089,14 @@
       "onboard_time": 1709774009,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335206,
+      "num": 335206,
+      "word": "Jennie合作曲公开",
+      "onboard_time": 1709876669,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 334840,
@@ -5937,6 +5985,14 @@
       "onboard_time": 1709634934,
       "rank": 47,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 285453,
+      "num": 285453,
+      "word": "春季防晒用品销量暴涨140%",
+      "onboard_time": 1709877570,
+      "rank": 20,
+      "category": "美妆"
     },
     {
       "raw_hot": 285416,
@@ -7219,6 +7275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 229596,
+      "num": 229596,
+      "word": "运动给女生带来的变化",
+      "onboard_time": 1709876909,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 229184,
       "num": 225948,
       "word": "黄龄去霉霉演唱会 双担狂喜",
@@ -7937,6 +8001,14 @@
       "onboard_time": 1709803410,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211122,
+      "num": 211122,
+      "word": "娜然还原妲己雪地找簪子名场面",
+      "onboard_time": 1709878110,
+      "rank": 24,
+      "category": "综艺,作品衍生"
     },
     {
       "raw_hot": 210885,
@@ -8739,6 +8811,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 194260,
+      "num": 194260,
+      "word": "龙珠版权方东映动画发博悼念鸟山明",
+      "onboard_time": 1709878228,
+      "rank": 25,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 194224,
       "num": 194224,
       "word": "全智贤蓝色亮片裙",
@@ -8905,14 +8985,6 @@
       "onboard_time": 1709784451,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 190904,
-      "num": 190904,
-      "word": "我上班穿的很恶心的原因",
-      "onboard_time": 1709875771,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 190644,
@@ -9259,6 +9331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183996,
+      "num": 183996,
+      "word": "别对我动心 对方撤回一个女友",
+      "onboard_time": 1709877030,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183768,
       "num": 183768,
       "word": "陈丽君 豌豆射手",
@@ -9513,6 +9593,14 @@
       "onboard_time": 1709565992,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180064,
+      "num": 180064,
+      "word": "间谍过家家 荆棘公主的祝福",
+      "onboard_time": 1709877748,
+      "rank": 28,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 179997,
@@ -9873,6 +9961,14 @@
       "onboard_time": 1709840235,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173535,
+      "num": 173535,
+      "word": "本周末有两天半",
+      "onboard_time": 1709876189,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 173452,
@@ -11179,6 +11275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153540,
+      "num": 153540,
+      "word": "这演技学医可惜了",
+      "onboard_time": 1709877870,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153488,
       "num": 153488,
       "word": "点读机女孩术后7天插管笑着报平安",
@@ -11289,6 +11393,14 @@
       "onboard_time": 1709795251,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 152005,
+      "num": 152005,
+      "word": "全员加速中身份大揭秘",
+      "onboard_time": 1709877149,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 151979,
@@ -11993,6 +12105,14 @@
       "onboard_time": 1709434589,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 142838,
+      "num": 142838,
+      "word": "大学生用马面裙做床帘",
+      "onboard_time": 1709878470,
+      "rank": 37,
+      "category": "幽默,时尚"
     },
     {
       "raw_hot": 142719,
@@ -13091,6 +13211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128331,
+      "num": 128331,
+      "word": "A妹新专辑",
+      "onboard_time": 1709877513,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128231,
       "num": 128231,
       "word": "猴哥 人间理想",
@@ -14051,6 +14179,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 113590,
+      "num": 113590,
+      "word": "高中告白大会 很好哭",
+      "onboard_time": 1709878048,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113553,
       "num": 113553,
       "word": "外卖小哥是有点搞笑天赋在身上的",
@@ -14521,6 +14657,14 @@
       "onboard_time": 1709729792,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 103936,
+      "num": 103936,
+      "word": "东部战区陆军首个女子导弹排",
+      "onboard_time": 1709878769,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 103733,
