@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709932566745,
+  "endTime": 1709933655506,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -22931,6 +22931,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 39263,
+      "num": 17776,
+      "word": "拜登正说美变得更安全现场死亡美军父亲喊叫抗议",
+      "onboard_time": 1709930535,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 39221,
       "num": 280476,
       "word": "9代凯美瑞有多强",
@@ -23171,14 +23179,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 28431,
-      "num": 17314,
-      "word": "拜登正说美变得更安全现场死亡美军父亲喊叫抗议",
-      "onboard_time": 1709930535,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 27982,
       "num": 129838,
       "word": "价格战卷入高端MPV",
@@ -23379,6 +23379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20034,
+      "num": 20034,
+      "word": "在孩子手机里发现的",
+      "onboard_time": 1709932094,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19985,
       "num": 20849,
       "word": "果然男生对电子产品没抵抗力",
@@ -23393,6 +23401,14 @@
       "onboard_time": 1709842156,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 18685,
+      "num": 17764,
+      "word": "钟楚曦逛到商场关门",
+      "onboard_time": 1709932217,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 18521,
@@ -23449,6 +23465,14 @@
       "onboard_time": 1709232558,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16027,
+      "num": 16027,
+      "word": "吴磊对粉丝喊妇女节快乐",
+      "onboard_time": 1709933055,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 15965,
@@ -23523,6 +23547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 13669,
+      "num": 17423,
+      "word": "金字塔游戏",
+      "onboard_time": 1709929816,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 13494,
       "num": 18056,
       "word": "腹式呼吸能治腰痛吗",
@@ -23547,28 +23579,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 13177,
-      "num": 15054,
-      "word": "钟楚曦逛到商场关门",
-      "onboard_time": 1709932217,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 13146,
       "num": 13146,
       "word": "韩雪浪姐路透",
       "onboard_time": 1709235555,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13074,
-      "num": 15040,
-      "word": "在孩子手机里发现的",
-      "onboard_time": 1709932094,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 12927,
@@ -23609,14 +23625,6 @@
       "onboard_time": 1709410217,
       "rank": 48,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 12213,
-      "num": 17423,
-      "word": "金字塔游戏",
-      "onboard_time": 1709929816,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 12177,

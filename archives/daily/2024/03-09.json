@@ -1,6 +1,6 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709932566745,
+  "endTime": 1709933655506,
   "band_list": [
     {
       "raw_hot": 1802368,
@@ -491,6 +491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39263,
+      "num": 17776,
+      "word": "拜登正说美变得更安全现场死亡美军父亲喊叫抗议",
+      "onboard_time": 1709930535,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 29944,
       "num": 29944,
       "word": "檀健次想挑战极致饱满的恶人角色",
@@ -499,12 +507,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 28431,
-      "num": 17314,
-      "word": "拜登正说美变得更安全现场死亡美军父亲喊叫抗议",
-      "onboard_time": 1709930535,
-      "rank": 30,
-      "category": "国外时政"
+      "raw_hot": 20034,
+      "num": 20034,
+      "word": "在孩子手机里发现的",
+      "onboard_time": 1709932094,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 18685,
+      "num": 17764,
+      "word": "钟楚曦逛到商场关门",
+      "onboard_time": 1709932217,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16027,
+      "num": 16027,
+      "word": "吴磊对粉丝喊妇女节快乐",
+      "onboard_time": 1709933055,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 14819,
@@ -515,36 +539,20 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 13669,
+      "num": 17423,
+      "word": "金字塔游戏",
+      "onboard_time": 1709929816,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 13291,
       "num": 17459,
       "word": "低丸子头教程分享",
       "onboard_time": 1709928077,
       "rank": 45,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 13177,
-      "num": 15054,
-      "word": "钟楚曦逛到商场关门",
-      "onboard_time": 1709932217,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 13074,
-      "num": 15040,
-      "word": "在孩子手机里发现的",
-      "onboard_time": 1709932094,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 12213,
-      "num": 17423,
-      "word": "金字塔游戏",
-      "onboard_time": 1709929816,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 11884,
