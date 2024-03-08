@@ -1,6 +1,6 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709930048020,
+  "endTime": 1709932566745,
   "band_list": [
     {
       "raw_hot": 1802368,
@@ -499,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 28431,
+      "num": 17314,
+      "word": "拜登正说美变得更安全现场死亡美军父亲喊叫抗议",
+      "onboard_time": 1709930535,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 14819,
       "num": 49762,
       "word": "她们这样写穿越文",
@@ -515,20 +523,36 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 13177,
+      "num": 15054,
+      "word": "钟楚曦逛到商场关门",
+      "onboard_time": 1709932217,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 13074,
+      "num": 15040,
+      "word": "在孩子手机里发现的",
+      "onboard_time": 1709932094,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 12213,
+      "num": 17423,
+      "word": "金字塔游戏",
+      "onboard_time": 1709929816,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 11884,
       "num": 19091,
       "word": "一图看懂两会热点新质生产力",
       "onboard_time": 1709927177,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11456,
-      "num": 17423,
-      "word": "金字塔游戏",
-      "onboard_time": 1709929816,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 5006,

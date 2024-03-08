@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709930048020,
+  "endTime": 1709932566745,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -23171,6 +23171,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 28431,
+      "num": 17314,
+      "word": "拜登正说美变得更安全现场死亡美军父亲喊叫抗议",
+      "onboard_time": 1709930535,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 27982,
       "num": 129838,
       "word": "价格战卷入高端MPV",
@@ -23539,12 +23547,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 13177,
+      "num": 15054,
+      "word": "钟楚曦逛到商场关门",
+      "onboard_time": 1709932217,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13146,
       "num": 13146,
       "word": "韩雪浪姐路透",
       "onboard_time": 1709235555,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13074,
+      "num": 15040,
+      "word": "在孩子手机里发现的",
+      "onboard_time": 1709932094,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 12927,
@@ -23587,6 +23611,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 12213,
+      "num": 17423,
+      "word": "金字塔游戏",
+      "onboard_time": 1709929816,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 12177,
       "num": 49517,
       "word": "微观2024全国两会",
@@ -23625,14 +23657,6 @@
       "onboard_time": 1709330295,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 11456,
-      "num": 17423,
-      "word": "金字塔游戏",
-      "onboard_time": 1709929816,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 10668,

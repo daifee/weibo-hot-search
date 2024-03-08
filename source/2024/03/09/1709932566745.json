@@ -1,0 +1,410 @@
+{
+  "runTime": 1709932566745,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 129820,
+        "num": 129820,
+        "word": "金价杀疯了",
+        "onboard_time": 1709909731,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114450,
+        "num": 114450,
+        "word": "35岁女儿离婚父亲安慰说都过去了",
+        "onboard_time": 1709920159,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2883,
+        "num": 56322,
+        "word": "最高法工作报告",
+        "onboard_time": 1709864308,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53686,
+        "num": 53686,
+        "word": "61岁双胞胎宝妈回应高龄产子",
+        "onboard_time": 1709914111,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28574,
+        "num": 28574,
+        "word": "与凤行定档",
+        "onboard_time": 1709906912,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52477,
+        "num": 28494,
+        "word": "怀孕前一定要对乳房做全面检查",
+        "onboard_time": 1709884471,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23189,
+        "num": 28411,
+        "word": "鸟山明年收入达7200万元",
+        "onboard_time": 1709900010,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 22913,
+        "num": 28387,
+        "word": "代号鸢 你的美工是神",
+        "onboard_time": 1709894428,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 22137,
+        "num": 28290,
+        "word": "全员加速中",
+        "onboard_time": 1709900308,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17365,
+        "num": 28238,
+        "word": "代表建议为适龄女性免费接种HPV疫苗",
+        "onboard_time": 1709900909,
+        "rank": 9,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 65661,
+        "num": 28081,
+        "word": "这3个年龄段易断崖式衰老",
+        "onboard_time": 1709911712,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43415,
+        "num": 28034,
+        "word": "宁波现在最尴尬的房子",
+        "onboard_time": 1709910513,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42962,
+        "num": 27927,
+        "word": "李秀满出售SM获5300亿韩元",
+        "onboard_time": 1709923939,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40669,
+        "num": 27865,
+        "word": "人大代表提到迪丽热巴",
+        "onboard_time": 1709910330,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38801,
+        "num": 27759,
+        "word": "鸟山明曾称妻子是他创作的救星",
+        "onboard_time": 1709899288,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 35490,
+        "num": 27744,
+        "word": "全员加速中 迟到",
+        "onboard_time": 1709906851,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29913,
+        "num": 27647,
+        "word": "阮经天对妈妈60多岁离婚的看法",
+        "onboard_time": 1709912016,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27585,
+        "num": 27585,
+        "word": "陈晓新剧 睡在我上铺的老婆",
+        "onboard_time": 1709902530,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26885,
+        "num": 26885,
+        "word": "伊能静 其实他有自己的名字",
+        "onboard_time": 1709898630,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25924,
+        "num": 25924,
+        "word": "何猷君奚梦瑶参加新船下水礼",
+        "onboard_time": 1709909012,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34639,
+        "num": 25910,
+        "word": "后知后觉被相亲男测试了服从性",
+        "onboard_time": 1709910214,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25734,
+        "num": 25734,
+        "word": "其实一周休三天才是最合理的",
+        "onboard_time": 1709903670,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23135,
+        "num": 23135,
+        "word": "被好朋友删了",
+        "onboard_time": 1709909072,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21698,
+        "num": 21698,
+        "word": "成龙曾在电影中扮过阿拉蕾",
+        "onboard_time": 1709919022,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20964,
+        "num": 20964,
+        "word": "明天考教资",
+        "onboard_time": 1709902591,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 19970,
+        "num": 19970,
+        "word": "卡戴珊一家都在哪做头发",
+        "onboard_time": 1709904452,
+        "rank": 25,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 18743,
+        "num": 18743,
+        "word": "大学老师不让小学儿子写无效作业",
+        "onboard_time": 1709906434,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17652,
+        "num": 17652,
+        "word": "眉姐姐你女儿长大了",
+        "onboard_time": 1709907513,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17538,
+        "num": 17538,
+        "word": "j人和P人的穿搭区别",
+        "onboard_time": 1709899288,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 11583,
+        "num": 17327,
+        "word": "一图看懂两会热点新质生产力",
+        "onboard_time": 1709927177,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28431,
+        "num": 17314,
+        "word": "拜登正说美变得更安全现场死亡美军父亲喊叫抗议",
+        "onboard_time": 1709930535,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 17302,
+        "num": 17302,
+        "word": "原来书中自有黄金屋是真的",
+        "onboard_time": 1709913331,
+        "rank": 31,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 15669,
+        "num": 15669,
+        "word": "周鸿祎称国内PPT泛滥成灾",
+        "onboard_time": 1709904632,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 15600,
+        "num": 15600,
+        "word": "首款折叠屏iPhone",
+        "onboard_time": 1709885189,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 15317,
+        "num": 15317,
+        "word": "这些都是35岁以下的人的脊椎",
+        "onboard_time": 1709910214,
+        "rank": 34,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 15086,
+        "num": 15086,
+        "word": "李克勤 没有你赢了世界又如何",
+        "onboard_time": 1709914947,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14431,
+        "num": 15079,
+        "word": "恋爱兄妹",
+        "onboard_time": 1709900788,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13742,
+        "num": 15068,
+        "word": "朴振英姚琛去内蒙古了",
+        "onboard_time": 1709909671,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13287,
+        "num": 15055,
+        "word": "樊振东太强了",
+        "onboard_time": 1709894250,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13177,
+        "num": 15054,
+        "word": "钟楚曦逛到商场关门",
+        "onboard_time": 1709932217,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13074,
+        "num": 15040,
+        "word": "在孩子手机里发现的",
+        "onboard_time": 1709932094,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12899,
+        "num": 15023,
+        "word": "大理寺少卿游 半是蜜糖半是伤",
+        "onboard_time": 1709900548,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12872,
+        "num": 15011,
+        "word": "剑来 陈哲远",
+        "onboard_time": 1709903251,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12347,
+        "num": 15010,
+        "word": "檀健次发了23张照片",
+        "onboard_time": 1709920100,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12310,
+        "num": 14996,
+        "word": "低丸子头教程分享",
+        "onboard_time": 1709928077,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 12213,
+        "num": 14986,
+        "word": "金字塔游戏",
+        "onboard_time": 1709929816,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12199,
+        "num": 14978,
+        "word": "这不是五条悟吧",
+        "onboard_time": 1709906673,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 12049,
+        "num": 14966,
+        "word": "赵露思的皮肤状态",
+        "onboard_time": 1709909971,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11647,
+        "num": 14950,
+        "word": "TTG好菜",
+        "onboard_time": 1709909012,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11136,
+        "num": 14945,
+        "word": "樊振东唱LoveStory",
+        "onboard_time": 1709899710,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
