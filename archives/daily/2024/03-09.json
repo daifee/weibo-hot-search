@@ -1,10 +1,10 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709954471378,
+  "endTime": 1709955246137,
   "band_list": [
     {
-      "raw_hot": 2477118,
-      "num": 2477118,
+      "raw_hot": 4193971,
+      "num": 4193971,
       "word": "教资",
       "onboard_time": 1709939602,
       "rank": 21,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2282245,
-      "num": 531657,
+      "num": 537684,
       "word": "蓝可儿等16人殒命酒店挂牌出售",
       "onboard_time": 1709942365,
       "rank": 10,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 865616,
+      "num": 865616,
+      "word": "赵丽颖是主演也是监制",
+      "onboard_time": 1709953109,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 817122,
       "num": 817122,
       "word": "巴黎奥运会开幕式定档",
@@ -67,12 +75,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 792589,
-      "num": 792589,
-      "word": "赵丽颖是主演也是监制",
-      "onboard_time": 1709953109,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 791964,
+      "num": 791964,
+      "word": "教资答案",
+      "onboard_time": 1709954011,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 789764,
+      "num": 789764,
+      "word": "节育环真的是让子宫不断发炎来避孕吗",
+      "onboard_time": 1709949630,
+      "rank": 22,
+      "category": "科学科普"
     },
     {
       "raw_hot": 741764,
@@ -81,6 +97,14 @@
       "onboard_time": 1709940321,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 735898,
+      "num": 465217,
+      "word": "得知她要买房全家最反对的人是弟弟",
+      "onboard_time": 1709952989,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 652002,
@@ -139,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 553558,
-      "num": 553558,
-      "word": "节育环真的是让子宫不断发炎来避孕吗",
-      "onboard_time": 1709949630,
-      "rank": 22,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 552506,
       "num": 552506,
       "word": "你叫我姐姐你多大呀",
@@ -187,11 +203,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 462375,
-      "num": 462375,
-      "word": "教资答案",
-      "onboard_time": 1709954011,
-      "rank": 14,
+      "raw_hot": 461920,
+      "num": 461920,
+      "word": "教资科一",
+      "onboard_time": 1709954371,
+      "rank": 32,
       "category": "教育"
     },
     {
@@ -209,14 +225,6 @@
       "onboard_time": 1709941344,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 435720,
-      "num": 435720,
-      "word": "得知她要买房全家最反对的人是弟弟",
-      "onboard_time": 1709952989,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 399830,
@@ -315,6 +323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 310292,
+      "num": 310292,
+      "word": "张家界为啥成了韩国人的尽孝圣地",
+      "onboard_time": 1709953350,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 307167,
       "num": 307167,
       "word": "赵丽颖林更新拍立得好甜",
@@ -339,8 +355,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 285484,
-      "num": 285484,
+      "raw_hot": 291612,
+      "num": 291612,
       "word": "山河枕",
       "onboard_time": 1709953350,
       "rank": 22,
@@ -451,12 +467,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 227951,
-      "num": 227951,
-      "word": "张家界为啥成了韩国人的尽孝圣地",
-      "onboard_time": 1709953350,
-      "rank": 28,
-      "category": "旅游"
+      "raw_hot": 229062,
+      "num": 229062,
+      "word": "INFP的穿搭",
+      "onboard_time": 1709954251,
+      "rank": 43,
+      "category": "时尚"
     },
     {
       "raw_hot": 222100,
@@ -523,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202059,
-      "num": 202059,
-      "word": "教资科一",
-      "onboard_time": 1709954371,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 200916,
       "num": 181880,
       "word": "极简生活一年的变化",
@@ -547,12 +555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197907,
+      "num": 197907,
+      "word": "浙江9.2万考生参加教资笔试",
+      "onboard_time": 1709952631,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 197426,
       "num": 197426,
       "word": "宝宝被爸爸说是臭宝后拒绝贴贴",
       "onboard_time": 1709951487,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189201,
+      "num": 189201,
+      "word": "眼泪女王",
+      "onboard_time": 1709954552,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 187030,
@@ -563,12 +587,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184811,
-      "num": 184811,
-      "word": "浙江9.2万考生参加教资笔试",
-      "onboard_time": 1709952631,
-      "rank": 36,
-      "category": "教育"
+      "raw_hot": 184843,
+      "num": 184843,
+      "word": "英伟达市值一夜蒸发9200亿元",
+      "onboard_time": 1709953771,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 182411,
@@ -587,6 +611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 180439,
+      "num": 180439,
+      "word": "从此不敢看黑狗",
+      "onboard_time": 1709954787,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179331,
       "num": 151372,
       "word": "女性体检报告上8个高频词",
@@ -601,6 +633,14 @@
       "onboard_time": 1709952989,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174812,
+      "num": 174812,
+      "word": "朋友圈背景图",
+      "onboard_time": 1709952930,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 171689,
@@ -675,20 +715,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 152833,
-      "num": 152833,
-      "word": "INFP的穿搭",
-      "onboard_time": 1709954251,
-      "rank": 43,
-      "category": "时尚"
+      "raw_hot": 160878,
+      "num": 160878,
+      "word": "欧盟iPhone用户将可卸载Safari浏览器",
+      "onboard_time": 1709954312,
+      "rank": 47,
+      "category": "数码"
     },
     {
-      "raw_hot": 152444,
-      "num": 152444,
-      "word": "英伟达市值一夜蒸发9200亿元",
-      "onboard_time": 1709953771,
-      "rank": 44,
-      "category": "财经"
+      "raw_hot": 154840,
+      "num": 154840,
+      "word": "教资选择 难",
+      "onboard_time": 1709955208,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 150389,
@@ -739,12 +779,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 144617,
-      "num": 144617,
-      "word": "朋友圈背景图",
-      "onboard_time": 1709952930,
+      "raw_hot": 144242,
+      "num": 144242,
+      "word": "第一次见和狗狗抢电梯的",
+      "onboard_time": 1709954730,
       "rank": 46,
-      "category": "情感"
+      "category": "幽默"
     },
     {
       "raw_hot": 142558,
@@ -793,14 +833,6 @@
       "onboard_time": 1709944109,
       "rank": 34,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 136352,
-      "num": 136352,
-      "word": "欧盟iPhone用户将可卸载Safari浏览器",
-      "onboard_time": 1709954312,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 132996,
@@ -1132,7 +1164,7 @@
     },
     {
       "raw_hot": 51050,
-      "num": 533581,
+      "num": 568972,
       "word": "两高报告折射哪些法治进步",
       "onboard_time": 1709950050,
       "rank": 9,

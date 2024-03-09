@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709954471378,
+  "endTime": 1709955246137,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -9,6 +9,14 @@
       "onboard_time": 1709867670,
       "rank": 3,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 4193971,
+      "num": 4193971,
+      "word": "教资",
+      "onboard_time": 1709939602,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 3203010,
@@ -83,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2477118,
-      "num": 2477118,
-      "word": "教资",
-      "onboard_time": 1709939602,
-      "rank": 21,
-      "category": "教育"
-    },
-    {
       "raw_hot": 2344886,
       "num": 2344886,
       "word": "快递员称30分钟送完的货现在12小时",
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 2282245,
-      "num": 531657,
+      "num": 537684,
       "word": "蓝可儿等16人殒命酒店挂牌出售",
       "onboard_time": 1709942365,
       "rank": 10,
@@ -1475,6 +1475,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 865616,
+      "num": 865616,
+      "word": "赵丽颖是主演也是监制",
+      "onboard_time": 1709953109,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 862225,
       "num": 862225,
       "word": "建议火车票免费改签2次",
@@ -1731,12 +1739,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 792589,
-      "num": 792589,
-      "word": "赵丽颖是主演也是监制",
-      "onboard_time": 1709953109,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 791964,
+      "num": 791964,
+      "word": "教资答案",
+      "onboard_time": 1709954011,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 790857,
@@ -1745,6 +1753,14 @@
       "onboard_time": 1709863408,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 789764,
+      "num": 789764,
+      "word": "节育环真的是让子宫不断发炎来避孕吗",
+      "onboard_time": 1709949630,
+      "rank": 22,
+      "category": "科学科普"
     },
     {
       "raw_hot": 788232,
@@ -1969,6 +1985,14 @@
       "onboard_time": 1709852903,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 735898,
+      "num": 465217,
+      "word": "得知她要买房全家最反对的人是弟弟",
+      "onboard_time": 1709952989,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 731551,
@@ -3187,14 +3211,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 553558,
-      "num": 553558,
-      "word": "节育环真的是让子宫不断发炎来避孕吗",
-      "onboard_time": 1709949630,
-      "rank": 22,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 552572,
       "num": 552572,
       "word": "桃花坞嘉宾",
@@ -4083,14 +4099,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 462375,
-      "num": 462375,
-      "word": "教资答案",
-      "onboard_time": 1709954011,
-      "rank": 14,
-      "category": "教育"
-    },
-    {
       "raw_hot": 462026,
       "num": 302783,
       "word": "差点亲到张凌赫",
@@ -4105,6 +4113,14 @@
       "onboard_time": 1709701533,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 461920,
+      "num": 461920,
+      "word": "教资科一",
+      "onboard_time": 1709954371,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 459094,
@@ -4433,14 +4449,6 @@
       "onboard_time": 1709515771,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 435720,
-      "num": 435720,
-      "word": "得知她要买房全家最反对的人是弟弟",
-      "onboard_time": 1709952989,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 435372,
@@ -6203,6 +6211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 310292,
+      "num": 310292,
+      "word": "张家界为啥成了韩国人的尽孝圣地",
+      "onboard_time": 1709953350,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 309659,
       "num": 274795,
       "word": "j人和P人的穿搭区别",
@@ -6603,6 +6619,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 291612,
+      "num": 291612,
+      "word": "山河枕",
+      "onboard_time": 1709953350,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291544,
       "num": 291544,
       "word": "十年前种下的种子真的能开出花",
@@ -6761,14 +6785,6 @@
       "onboard_time": 1709634934,
       "rank": 47,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 285484,
-      "num": 285484,
-      "word": "山河枕",
-      "onboard_time": 1709953350,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 285453,
@@ -8227,6 +8243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 229062,
+      "num": 229062,
+      "word": "INFP的穿搭",
+      "onboard_time": 1709954251,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 228888,
       "num": 228888,
       "word": "王一博两首单曲的联系",
@@ -8265,14 +8289,6 @@
       "onboard_time": 1709612075,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 227951,
-      "num": 227951,
-      "word": "张家界为啥成了韩国人的尽孝圣地",
-      "onboard_time": 1709953350,
-      "rank": 28,
-      "category": "旅游"
     },
     {
       "raw_hot": 227651,
@@ -9427,14 +9443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 202059,
-      "num": 202059,
-      "word": "教资科一",
-      "onboard_time": 1709954371,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 201984,
       "num": 201984,
       "word": "脸上这几种痘痘并非痤疮",
@@ -9649,6 +9657,14 @@
       "onboard_time": 1709950828,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197907,
+      "num": 197907,
+      "word": "浙江9.2万考生参加教资笔试",
+      "onboard_time": 1709952631,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 197652,
@@ -10179,6 +10195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189201,
+      "num": 189201,
+      "word": "眼泪女王",
+      "onboard_time": 1709954552,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189173,
       "num": 189173,
       "word": "鞠婧祎白开水伪素颜妆",
@@ -10411,12 +10435,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184811,
-      "num": 184811,
-      "word": "浙江9.2万考生参加教资笔试",
-      "onboard_time": 1709952631,
-      "rank": 36,
-      "category": "教育"
+      "raw_hot": 184843,
+      "num": 184843,
+      "word": "英伟达市值一夜蒸发9200亿元",
+      "onboard_time": 1709953771,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 184701,
@@ -10721,6 +10745,14 @@
       "onboard_time": 1709597609,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180439,
+      "num": 180439,
+      "word": "从此不敢看黑狗",
+      "onboard_time": 1709954787,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 180306,
@@ -11089,6 +11121,14 @@
       "onboard_time": 1709784033,
       "rank": 34,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 174812,
+      "num": 174812,
+      "word": "朋友圈背景图",
+      "onboard_time": 1709952930,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 174703,
@@ -12099,6 +12139,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 160878,
+      "num": 160878,
+      "word": "欧盟iPhone用户将可卸载Safari浏览器",
+      "onboard_time": 1709954312,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 160747,
       "num": 160747,
       "word": "TREASURE恋综",
@@ -12587,6 +12635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154840,
+      "num": 154840,
+      "word": "教资选择 难",
+      "onboard_time": 1709955208,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 154820,
       "num": 154820,
       "word": "女生返校为室友带60多斤特产",
@@ -12763,14 +12819,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 152833,
-      "num": 152833,
-      "word": "INFP的穿搭",
-      "onboard_time": 1709954251,
-      "rank": 43,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 152687,
       "num": 152687,
       "word": "这一抱硬控我10秒",
@@ -12793,14 +12841,6 @@
       "onboard_time": 1709559994,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152444,
-      "num": 152444,
-      "word": "英伟达市值一夜蒸发9200亿元",
-      "onboard_time": 1709953771,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 152345,
@@ -13507,14 +13547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144617,
-      "num": 144617,
-      "word": "朋友圈背景图",
-      "onboard_time": 1709952930,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 144491,
       "num": 144491,
       "word": "他说不在意可张口便是17年",
@@ -13529,6 +13561,14 @@
       "onboard_time": 1709538091,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144242,
+      "num": 144242,
+      "word": "第一次见和狗狗抢电梯的",
+      "onboard_time": 1709954730,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 144216,
@@ -14193,14 +14233,6 @@
       "onboard_time": 1709728170,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 136352,
-      "num": 136352,
-      "word": "欧盟iPhone用户将可卸载Safari浏览器",
-      "onboard_time": 1709954312,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 136294,
@@ -17756,7 +17788,7 @@
     },
     {
       "raw_hot": 51050,
-      "num": 533581,
+      "num": 568972,
       "word": "两高报告折射哪些法治进步",
       "onboard_time": 1709950050,
       "rank": 9,
