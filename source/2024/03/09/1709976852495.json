@@ -1,0 +1,410 @@
+{
+  "runTime": 1709976852495,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 985466,
+        "num": 985466,
+        "word": "建议返聘65岁以下退休教师",
+        "onboard_time": 1709973871,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 942571,
+        "num": 942571,
+        "word": "211女子生娃3年没工作靠卖花逆袭",
+        "onboard_time": 1709970689,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70223,
+        "num": 670874,
+        "word": "民生主题记者会",
+        "onboard_time": 1709968350,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 530091,
+        "num": 530091,
+        "word": "李现杀回现偶了",
+        "onboard_time": 1709968287,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 482353,
+        "num": 482353,
+        "word": "韩国在日本进口糖果中检测出少量铯",
+        "onboard_time": 1709975552,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 461051,
+        "num": 461051,
+        "word": "教资",
+        "onboard_time": 1709953831,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 436809,
+        "num": 436809,
+        "word": "谈了四个月就结婚是什么体验",
+        "onboard_time": 1709966129,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362171,
+        "num": 362171,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1709964511,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 307823,
+        "num": 307823,
+        "word": "楚乔传与凤行齐上阵",
+        "onboard_time": 1709971410,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304608,
+        "num": 304608,
+        "word": "李商隐你耍我",
+        "onboard_time": 1709958691,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1182184,
+        "num": 304254,
+        "word": "痞幼250万买于嘉萌的兰博基尼",
+        "onboard_time": 1709970632,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 886000,
+        "num": 302816,
+        "word": "向太 做少奶奶翘腿数钱好无聊",
+        "onboard_time": 1709969612,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 619660,
+        "num": 302271,
+        "word": "萧亚轩前男友黄皓晒宝宝脚丫照",
+        "onboard_time": 1709969910,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569677,
+        "num": 300564,
+        "word": "小松菜奈生子",
+        "onboard_time": 1709963189,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473779,
+        "num": 299728,
+        "word": "当舅妈让我考研考编考公三手抓",
+        "onboard_time": 1709966729,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311658,
+        "num": 297964,
+        "word": "男子二婚拒付22万彩礼女方愤怒引产",
+        "onboard_time": 1709967270,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297742,
+        "num": 297742,
+        "word": "蒲熠星带猫去献血",
+        "onboard_time": 1709968830,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295072,
+        "num": 295072,
+        "word": "腾讯芒果要打起来了",
+        "onboard_time": 1709955572,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286352,
+        "num": 286352,
+        "word": "林俊杰发烧",
+        "onboard_time": 1709976452,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 250924,
+        "num": 250924,
+        "word": "蓝可儿等16人殒命酒店挂牌出售",
+        "onboard_time": 1709942365,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252641,
+        "num": 250869,
+        "word": "收到了男朋友送我的黄金",
+        "onboard_time": 1709972551,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242578,
+        "num": 242578,
+        "word": "金价为何会突然暴涨",
+        "onboard_time": 1709971711,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 219245,
+        "num": 219245,
+        "word": "着力解决小眼镜小胖墩问题",
+        "onboard_time": 1709972310,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201953,
+        "num": 201953,
+        "word": "每个9块9包邮背后都有快递员在叹息",
+        "onboard_time": 1709966070,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191947,
+        "num": 191947,
+        "word": "终于有剧把女生痛经说明白了",
+        "onboard_time": 1709976208,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179727,
+        "num": 179727,
+        "word": "徐若晗演技",
+        "onboard_time": 1709974830,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179079,
+        "num": 179079,
+        "word": "T1对战GEN",
+        "onboard_time": 1709971951,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175719,
+        "num": 175719,
+        "word": "群名称可以这样取",
+        "onboard_time": 1709974888,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173298,
+        "num": 173298,
+        "word": "沈腾去澳门出差",
+        "onboard_time": 1709975849,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165602,
+        "num": 165602,
+        "word": "张泽禹十机位勇敢直拍",
+        "onboard_time": 1709976270,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159544,
+        "num": 159544,
+        "word": "想让男朋友陪我去拔智齿",
+        "onboard_time": 1709972729,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152776,
+        "num": 152776,
+        "word": "锦瑟无端五十弦",
+        "onboard_time": 1709957849,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149679,
+        "num": 149679,
+        "word": "沈月太会拍了",
+        "onboard_time": 1709959049,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147111,
+        "num": 147111,
+        "word": "淡人才是最适合职场的新人设",
+        "onboard_time": 1709975552,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145605,
+        "num": 145605,
+        "word": "十个勤天得知上春晚的反应",
+        "onboard_time": 1709971110,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141871,
+        "num": 141871,
+        "word": "女生26岁裸辞做约拍月入3万",
+        "onboard_time": 1709956591,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140942,
+        "num": 140942,
+        "word": "我妈在直播间抢的纸巾",
+        "onboard_time": 1709971292,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138122,
+        "num": 138122,
+        "word": "陈乔恩说魏大勋身上有明显女性特质",
+        "onboard_time": 1709963368,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134183,
+        "num": 134183,
+        "word": "娜塔莉波特曼正式离婚",
+        "onboard_time": 1709970030,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133069,
+        "num": 133069,
+        "word": "教室还有看台票啊",
+        "onboard_time": 1709975131,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130266,
+        "num": 130266,
+        "word": "金毛 以后再也不拼车了",
+        "onboard_time": 1709976630,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128140,
+        "num": 128140,
+        "word": "沙丘2审美",
+        "onboard_time": 1709975073,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127174,
+        "num": 127174,
+        "word": "电影灿烂的她首映礼",
+        "onboard_time": 1709975969,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121082,
+        "num": 121082,
+        "word": "沈月镜头下的孟子义",
+        "onboard_time": 1709962650,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119396,
+        "num": 119396,
+        "word": "金价杀疯了",
+        "onboard_time": 1709909731,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111209,
+        "num": 111209,
+        "word": "晚上睡不着和主动熬夜哪个伤害更大",
+        "onboard_time": 1709969067,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109785,
+        "num": 109785,
+        "word": "狗狗被禁止出席奥斯卡颁奖典礼",
+        "onboard_time": 1709958450,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106369,
+        "num": 106369,
+        "word": "每次接妹妹都有种人贩子的感觉",
+        "onboard_time": 1709965470,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104806,
+        "num": 104806,
+        "word": "女子吃麻辣烫被乱数签多算123元",
+        "onboard_time": 1709976810,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95621,
+        "num": 103830,
+        "word": "把四川做成超大蛋糕",
+        "onboard_time": 1709976091,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平两会时间#"
+    }
+  }
+}

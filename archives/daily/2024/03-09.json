@@ -1,6 +1,6 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709975941152,
+  "endTime": 1709976852495,
   "band_list": [
     {
       "raw_hot": 4193971,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1381267,
-      "num": 301137,
+      "num": 304254,
       "word": "痞幼250万买于嘉萌的兰博基尼",
       "onboard_time": 1709970632,
       "rank": 10,
@@ -108,11 +108,19 @@
     },
     {
       "raw_hot": 996809,
-      "num": 296623,
+      "num": 302816,
       "word": "向太 做少奶奶翘腿数钱好无聊",
       "onboard_time": 1709969612,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 985466,
+      "num": 985466,
+      "word": "建议返聘65岁以下退休教师",
+      "onboard_time": 1709973871,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 954647,
@@ -169,14 +177,6 @@
       "onboard_time": 1709953109,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 836828,
-      "num": 836828,
-      "word": "建议返聘65岁以下退休教师",
-      "onboard_time": 1709973871,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 817122,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 718020,
-      "num": 292838,
+      "num": 302271,
       "word": "萧亚轩前男友黄皓晒宝宝脚丫照",
       "onboard_time": 1709969910,
       "rank": 14,
@@ -401,6 +401,14 @@
       "onboard_time": 1709955208,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 482353,
+      "num": 482353,
+      "word": "韩国在日本进口糖果中检测出少量铯",
+      "onboard_time": 1709975552,
+      "rank": 28,
+      "category": "国外时政"
     },
     {
       "raw_hot": 481845,
@@ -691,6 +699,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 286352,
+      "num": 286352,
+      "word": "林俊杰发烧",
+      "onboard_time": 1709976452,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 282649,
       "num": 282649,
       "word": "沈月是在嗑辣目洋子徐志胜吗",
@@ -873,6 +889,14 @@
       "onboard_time": 1709969431,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 242578,
+      "num": 253973,
+      "word": "金价为何会突然暴涨",
+      "onboard_time": 1709971711,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 239942,
@@ -1107,20 +1131,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 193037,
-      "num": 253973,
-      "word": "金价为何会突然暴涨",
-      "onboard_time": 1709971711,
-      "rank": 36,
-      "category": "财经"
-    },
-    {
       "raw_hot": 192887,
       "num": 192887,
       "word": "我妈在直播间抢的纸巾",
       "onboard_time": 1709971292,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191947,
+      "num": 191947,
+      "word": "终于有剧把女生痛经说明白了",
+      "onboard_time": 1709976208,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 191269,
@@ -1203,12 +1227,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 179727,
+      "num": 179727,
+      "word": "徐若晗演技",
+      "onboard_time": 1709974830,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179331,
       "num": 151372,
       "word": "女性体检报告上8个高频词",
       "onboard_time": 1709939900,
       "rank": 25,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 179079,
+      "num": 179079,
+      "word": "T1对战GEN",
+      "onboard_time": 1709971951,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 178855,
@@ -1227,12 +1267,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175719,
+      "num": 175719,
+      "word": "群名称可以这样取",
+      "onboard_time": 1709974888,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174812,
       "num": 174812,
       "word": "朋友圈背景图",
       "onboard_time": 1709952930,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173298,
+      "num": 173298,
+      "word": "沈腾去澳门出差",
+      "onboard_time": 1709975849,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 172938,
@@ -1249,14 +1305,6 @@
       "onboard_time": 1709899710,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169930,
-      "num": 169930,
-      "word": "徐若晗演技",
-      "onboard_time": 1709974830,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 169325,
@@ -1307,20 +1355,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 165602,
+      "num": 165602,
+      "word": "张泽禹十机位勇敢直拍",
+      "onboard_time": 1709976270,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164299,
       "num": 206313,
       "word": "周鸿祎称国内PPT泛滥成灾",
       "onboard_time": 1709904632,
       "rank": 7,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 162905,
-      "num": 162905,
-      "word": "T1对战GEN",
-      "onboard_time": 1709971951,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 162043,
@@ -1371,28 +1419,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 158507,
-      "num": 152714,
-      "word": "群名称可以这样取",
-      "onboard_time": 1709974888,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 155159,
       "num": 155159,
       "word": "Uzi韩服排位现状",
       "onboard_time": 1709960129,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 155104,
-      "num": 155104,
-      "word": "韩国在日本进口糖果中检测出少量铯",
-      "onboard_time": 1709975552,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 154927,
@@ -1451,6 +1483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147111,
+      "num": 147111,
+      "word": "淡人才是最适合职场的新人设",
+      "onboard_time": 1709975552,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146885,
       "num": 146885,
       "word": "鸟山明曾称妻子是他创作的救星",
@@ -1489,14 +1529,6 @@
       "onboard_time": 1709949690,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 143599,
-      "num": 143599,
-      "word": "淡人才是最适合职场的新人设",
-      "onboard_time": 1709975552,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 142558,
@@ -1587,20 +1619,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133069,
+      "num": 133069,
+      "word": "教室还有看台票啊",
+      "onboard_time": 1709975131,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132996,
       "num": 132996,
       "word": "不良执念清除师监制质疑大侦探设定",
       "onboard_time": 1709941285,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132802,
-      "num": 132802,
-      "word": "教室还有看台票啊",
-      "onboard_time": 1709975131,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 132469,
@@ -1625,6 +1657,22 @@
       "onboard_time": 1709957310,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130266,
+      "num": 130266,
+      "word": "金毛 以后再也不拼车了",
+      "onboard_time": 1709976630,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 127174,
+      "num": 127174,
+      "word": "电影灿烂的她首映礼",
+      "onboard_time": 1709975969,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 127022,
@@ -1699,14 +1747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113041,
-      "num": 113041,
-      "word": "沈腾去澳门出差",
-      "onboard_time": 1709975849,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 112065,
       "num": 112065,
       "word": "沙丘2的细腻视角",
@@ -1761,6 +1801,14 @@
       "onboard_time": 1709973689,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 104806,
+      "num": 104806,
+      "word": "女子吃麻辣烫被乱数签多算123元",
+      "onboard_time": 1709976810,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104011,
@@ -1820,7 +1868,7 @@
     },
     {
       "raw_hot": 99458,
-      "num": 657565,
+      "num": 670874,
       "word": "民生主题记者会",
       "onboard_time": 1709968350,
       "rank": 32,
@@ -1857,6 +1905,14 @@
       "onboard_time": 1709885189,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 95621,
+      "num": 103830,
+      "word": "把四川做成超大蛋糕",
+      "onboard_time": 1709976091,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 92765,
