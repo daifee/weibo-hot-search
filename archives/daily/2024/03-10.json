@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710016434930,
+  "endTime": 1710019016053,
   "band_list": [
     {
       "raw_hot": 800961,
@@ -483,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25528,
+      "num": 25527,
+      "word": "这个理由她已经用了半年了",
+      "onboard_time": 1710016157,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20899,
       "num": 29542,
       "word": "美白精华是智商税吗",
@@ -523,12 +531,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13646,
-      "num": 16631,
-      "word": "这个理由她已经用了半年了",
-      "onboard_time": 1710016157,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 11938,
+      "num": 15024,
+      "word": "日行一万步或可降低久坐危害",
+      "onboard_time": 1710018796,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 11592,
+      "num": 15013,
+      "word": "20岁女子蹭饭报午托一月500元",
+      "onboard_time": 1710018975,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
