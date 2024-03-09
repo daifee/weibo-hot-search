@@ -1,6 +1,6 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709987272308,
+  "endTime": 1709988143637,
   "band_list": [
     {
       "raw_hot": 4193971,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2443817,
-      "num": 270233,
+      "num": 322460,
       "word": "杭州万象城",
       "onboard_time": 1709983231,
       "rank": 13,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1892602,
-      "num": 269218,
+      "num": 321839,
       "word": "赵安吉车祸身亡细节",
       "onboard_time": 1709980888,
       "rank": 10,
@@ -251,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 760182,
+      "num": 760182,
+      "word": "1人带316个LV包入境被查",
+      "onboard_time": 1709986351,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 759839,
       "num": 366458,
       "word": "南大一48岁博士生8年未毕业被劝退",
@@ -281,6 +289,14 @@
       "onboard_time": 1709955931,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 739329,
+      "num": 349363,
+      "word": "美国女子拍下老公用枪打死自己视频",
+      "onboard_time": 1709984492,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 735898,
@@ -321,14 +337,6 @@
       "onboard_time": 1709967689,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 689032,
-      "num": 268695,
-      "word": "美国女子拍下老公用枪打死自己视频",
-      "onboard_time": 1709984492,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 679182,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 589344,
-      "num": 268040,
+      "num": 318367,
       "word": "JYP自己倒是闯中成功了",
       "onboard_time": 1709984253,
       "rank": 13,
@@ -443,8 +451,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 549201,
+      "num": 321206,
+      "word": "TikTok用户打爆美国会办公电话",
+      "onboard_time": 1709985573,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 546968,
-      "num": 266890,
+      "num": 317594,
       "word": "窦骁何超莲又发糖了",
       "onboard_time": 1709983051,
       "rank": 14,
@@ -489,6 +505,14 @@
       "onboard_time": 1709981129,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 490286,
+      "num": 323475,
+      "word": "朱雀输给民间队",
+      "onboard_time": 1709987311,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 489795,
@@ -595,6 +619,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 407812,
+      "num": 264653,
+      "word": "月入过万你还会考研考公吗",
+      "onboard_time": 1709986593,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 407075,
+      "num": 407075,
+      "word": "杭州警方通报男子抢劫珠宝店",
+      "onboard_time": 1709987674,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399830,
       "num": 399830,
       "word": "皮肤到底能白到什么程度",
@@ -667,14 +707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 368940,
-      "num": 266339,
-      "word": "TikTok用户打爆美国会办公电话",
-      "onboard_time": 1709985573,
-      "rank": 16,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 366581,
       "num": 366581,
       "word": "61岁双胞胎宝妈回应高龄产子",
@@ -707,14 +739,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 358682,
-      "num": 264653,
-      "word": "月入过万你还会考研考公吗",
-      "onboard_time": 1709986593,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 354483,
       "num": 206231,
       "word": "何猷君奚梦瑶参加新船下水礼",
@@ -737,6 +761,14 @@
       "onboard_time": 1709943629,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 346528,
+      "num": 322653,
+      "word": "唐探2刘昊然彩蛋",
+      "onboard_time": 1709986112,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 344510,
@@ -779,6 +811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 321104,
+      "num": 321104,
+      "word": "林俊杰 丹宁执着",
+      "onboard_time": 1709986534,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 320821,
       "num": 320821,
       "word": "周深新专辑官宣",
@@ -809,6 +849,14 @@
       "onboard_time": 1709952569,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 313092,
+      "num": 262269,
+      "word": "杨紫六部待播作品",
+      "onboard_time": 1709986231,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 310292,
@@ -971,30 +1019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 270371,
-      "num": 270371,
-      "word": "唐探2刘昊然彩蛋",
-      "onboard_time": 1709986112,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 270126,
-      "num": 262269,
-      "word": "杨紫六部待播作品",
-      "onboard_time": 1709986231,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 266170,
-      "num": 266170,
-      "word": "林俊杰 丹宁执着",
-      "onboard_time": 1709986534,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 266005,
       "num": 253012,
       "word": "有没有人夸夸谢依霖啊",
@@ -1009,14 +1033,6 @@
       "onboard_time": 1709910214,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 262173,
-      "num": 262173,
-      "word": "1人带316个LV包入境被查",
-      "onboard_time": 1709986351,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261866,
@@ -1115,12 +1131,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 242260,
+      "num": 242260,
+      "word": "李宇春演唱会直播",
+      "onboard_time": 1709986534,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 239942,
       "num": 239942,
       "word": "赵丽颖新剧演凤凰",
       "onboard_time": 1709953529,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238642,
+      "num": 238642,
+      "word": "杨迪cos小夫",
+      "onboard_time": 1709986952,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 237450,
@@ -1267,20 +1299,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 208154,
-      "num": 208154,
-      "word": "李宇春演唱会直播",
-      "onboard_time": 1709986534,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 206452,
       "num": 206452,
       "word": "眉姐姐你女儿长大了",
       "onboard_time": 1709907513,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205679,
+      "num": 205679,
+      "word": "第五人格赛事",
+      "onboard_time": 1709987612,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 205479,
@@ -1547,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178410,
+      "num": 178410,
+      "word": "男子砸珠宝店柜台已被警方抓到",
+      "onboard_time": 1709987433,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175825,
       "num": 175825,
       "word": "杰伦格林39岁女友怀孕",
@@ -1691,6 +1731,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 164202,
+      "num": 164202,
+      "word": "朱正廷演绎什么是性感",
+      "onboard_time": 1709987373,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162043,
       "num": 162043,
       "word": "27岁宝妈与自己的妊娠纹和解了",
@@ -1739,12 +1787,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 159444,
-      "num": 159444,
-      "word": "杨迪cos小夫",
-      "onboard_time": 1709986952,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 157925,
+      "num": 157925,
+      "word": "山东泰山大轮换",
+      "onboard_time": 1709987731,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 156695,
@@ -2203,6 +2251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112859,
+      "num": 112859,
+      "word": "丑猫 喜不喜欢哥的发型",
+      "onboard_time": 1709988032,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112065,
       "num": 112065,
       "word": "沙丘2的细腻视角",
@@ -2595,6 +2651,14 @@
       "category": "国内时政,动漫"
     },
     {
+      "raw_hot": 44823,
+      "num": 370906,
+      "word": "新质生产力如何改变生活",
+      "onboard_time": 1709987011,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40536,
       "num": 40536,
       "word": "檀健次张婧仪新电影上映海报",
@@ -2615,14 +2679,6 @@
       "num": 630210,
       "word": "2024两会好声音",
       "onboard_time": 1709972310,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 19532,
-      "num": 370906,
-      "word": "新质生产力如何改变生活",
-      "onboard_time": 1709987011,
       "rank": 2,
       "category": "国内时政"
     },

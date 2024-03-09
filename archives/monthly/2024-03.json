@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709987272308,
+  "endTime": 1709988143637,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 2443817,
-      "num": 270233,
+      "num": 322460,
       "word": "杭州万象城",
       "onboard_time": 1709983231,
       "rank": 13,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 1892602,
-      "num": 269218,
+      "num": 321839,
       "word": "赵安吉车祸身亡细节",
       "onboard_time": 1709980888,
       "rank": 10,
@@ -2643,6 +2643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 760182,
+      "num": 760182,
+      "word": "1人带316个LV包入境被查",
+      "onboard_time": 1709986351,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 759839,
       "num": 366458,
       "word": "南大一48岁博士生8年未毕业被劝退",
@@ -2761,6 +2769,14 @@
       "onboard_time": 1709631870,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 739329,
+      "num": 349363,
+      "word": "美国女子拍下老公用枪打死自己视频",
+      "onboard_time": 1709984492,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 738838,
@@ -3185,14 +3201,6 @@
       "onboard_time": 1709910330,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 689032,
-      "num": 268695,
-      "word": "美国女子拍下老公用枪打死自己视频",
-      "onboard_time": 1709984492,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 687474,
@@ -4180,7 +4188,7 @@
     },
     {
       "raw_hot": 589344,
-      "num": 268040,
+      "num": 318367,
       "word": "JYP自己倒是闯中成功了",
       "onboard_time": 1709984253,
       "rank": 13,
@@ -4611,6 +4619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 549201,
+      "num": 321206,
+      "word": "TikTok用户打爆美国会办公电话",
+      "onboard_time": 1709985573,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 549148,
       "num": 549148,
       "word": "垂耳兔双马尾",
@@ -4636,7 +4652,7 @@
     },
     {
       "raw_hot": 546968,
-      "num": 266890,
+      "num": 317594,
       "word": "窦骁何超莲又发糖了",
       "onboard_time": 1709983051,
       "rank": 14,
@@ -5345,6 +5361,14 @@
       "onboard_time": 1709549969,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490286,
+      "num": 323475,
+      "word": "朱雀输给民间队",
+      "onboard_time": 1709987311,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 490019,
@@ -6699,12 +6723,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 407812,
+      "num": 264653,
+      "word": "月入过万你还会考研考公吗",
+      "onboard_time": 1709986593,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 407735,
       "num": 280938,
       "word": "男朋友不愿意体检",
       "onboard_time": 1709789075,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 407075,
+      "num": 407075,
+      "word": "杭州警方通报男子抢劫珠宝店",
+      "onboard_time": 1709987674,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406199,
@@ -7451,14 +7491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 368940,
-      "num": 266339,
-      "word": "TikTok用户打爆美国会办公电话",
-      "onboard_time": 1709985573,
-      "rank": 16,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 367658,
       "num": 367658,
       "word": "华为P70系列手机延期发布",
@@ -7617,14 +7649,6 @@
       "onboard_time": 1709358813,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 358682,
-      "num": 264653,
-      "word": "月入过万你还会考研考公吗",
-      "onboard_time": 1709986593,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 358204,
@@ -7937,6 +7961,14 @@
       "onboard_time": 1709730212,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 346528,
+      "num": 322653,
+      "word": "唐探2刘昊然彩蛋",
+      "onboard_time": 1709986112,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 346505,
@@ -8475,6 +8507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 321104,
+      "num": 321104,
+      "word": "林俊杰 丹宁执着",
+      "onboard_time": 1709986534,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 320821,
       "num": 320821,
       "word": "周深新专辑官宣",
@@ -8721,6 +8761,14 @@
       "onboard_time": 1709870492,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313092,
+      "num": 262269,
+      "word": "杨紫六部待播作品",
+      "onboard_time": 1709986231,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 312791,
@@ -10003,27 +10051,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270371,
-      "num": 270371,
-      "word": "唐探2刘昊然彩蛋",
-      "onboard_time": 1709986112,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 270241,
       "num": 270241,
       "word": "青云台",
       "onboard_time": 1709363370,
       "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 270126,
-      "num": 262269,
-      "word": "杨紫六部待播作品",
-      "onboard_time": 1709986231,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -10153,14 +10185,6 @@
       "onboard_time": 1709339368,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 266170,
-      "num": 266170,
-      "word": "林俊杰 丹宁执着",
-      "onboard_time": 1709986534,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 266005,
@@ -10305,14 +10329,6 @@
       "onboard_time": 1709684316,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 262173,
-      "num": 262173,
-      "word": "1人带316个LV包入境被查",
-      "onboard_time": 1709986351,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262079,
@@ -10987,6 +11003,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 242260,
+      "num": 242260,
+      "word": "李宇春演唱会直播",
+      "onboard_time": 1709986534,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 241452,
       "num": 241452,
       "word": "建议考研初试借鉴高考统一命题",
@@ -11081,6 +11105,14 @@
       "onboard_time": 1709789012,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238642,
+      "num": 238642,
+      "word": "杨迪cos小夫",
+      "onboard_time": 1709986952,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 238636,
@@ -12651,14 +12683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 208154,
-      "num": 208154,
-      "word": "李宇春演唱会直播",
-      "onboard_time": 1709986534,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 207929,
       "num": 207929,
       "word": "代表呼吁医院检查结果共享互认",
@@ -12825,6 +12849,14 @@
       "onboard_time": 1709471130,
       "rank": 29,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 205679,
+      "num": 205679,
+      "word": "第五人格赛事",
+      "onboard_time": 1709987612,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 205620,
@@ -15307,6 +15339,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 178410,
+      "num": 178410,
+      "word": "男子砸珠宝店柜台已被警方抓到",
+      "onboard_time": 1709987433,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178282,
       "num": 178282,
       "word": "阳光姐姐和阴暗弟弟",
@@ -16643,6 +16683,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 164202,
+      "num": 164202,
+      "word": "朱正廷演绎什么是性感",
+      "onboard_time": 1709987373,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164137,
       "num": 164137,
       "word": "苹果限制欧版iPhone外流",
@@ -17107,14 +17155,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 159444,
-      "num": 159444,
-      "word": "杨迪cos小夫",
-      "onboard_time": 1709986952,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159417,
       "num": 159417,
       "word": "摁着一个作者使劲薅",
@@ -17297,6 +17337,14 @@
       "onboard_time": 1709820453,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 157925,
+      "num": 157925,
+      "word": "山东泰山大轮换",
+      "onboard_time": 1709987731,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 157914,
@@ -22347,6 +22395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112859,
+      "num": 112859,
+      "word": "丑猫 喜不喜欢哥的发型",
+      "onboard_time": 1709988032,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112770,
       "num": 112770,
       "word": "春火破晓燃蜀魂",
@@ -24875,6 +24931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44823,
+      "num": 370906,
+      "word": "新质生产力如何改变生活",
+      "onboard_time": 1709987011,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42701,
       "num": 324948,
       "word": "TVB港星保姆车揭秘",
@@ -25433,14 +25497,6 @@
       "onboard_time": 1709671276,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 19532,
-      "num": 370906,
-      "word": "新质生产力如何改变生活",
-      "onboard_time": 1709987011,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19023,
