@@ -1,6 +1,6 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709962442643,
+  "endTime": 1709965408247,
   "band_list": [
     {
       "raw_hot": 4193971,
@@ -9,6 +9,14 @@
       "onboard_time": 1709939602,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2593521,
+      "num": 392941,
+      "word": "小松菜奈生子",
+      "onboard_time": 1709963189,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2282245,
@@ -65,6 +73,14 @@
       "onboard_time": 1709957849,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 954647,
+      "num": 954647,
+      "word": "爸爸甚至在没读乱回",
+      "onboard_time": 1709960792,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 934217,
@@ -161,6 +177,14 @@
       "onboard_time": 1709952989,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 663049,
+      "num": 663049,
+      "word": "陈乔恩说魏大勋身上有明显女性特质",
+      "onboard_time": 1709963368,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 656066,
@@ -299,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473198,
+      "num": 381363,
+      "word": "茉酸奶回应大杯变小杯",
+      "onboard_time": 1709963908,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 461920,
       "num": 461920,
       "word": "教资科一",
@@ -323,6 +355,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 407938,
+      "num": 407938,
+      "word": "沈月镜头下的孟子义",
+      "onboard_time": 1709962650,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 407379,
+      "num": 263940,
+      "word": "杨洋清瘦了不少",
+      "onboard_time": 1709963971,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399830,
       "num": 399830,
       "word": "皮肤到底能白到什么程度",
@@ -337,14 +385,6 @@
       "onboard_time": 1709939900,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 396682,
-      "num": 359653,
-      "word": "爸爸甚至在没读乱回",
-      "onboard_time": 1709960792,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 393442,
@@ -441,6 +481,14 @@
       "onboard_time": 1709939063,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 324144,
+      "num": 324144,
+      "word": "俞灏明痛失本名",
+      "onboard_time": 1709964210,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 323064,
@@ -627,6 +675,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238289,
+      "num": 190032,
+      "word": "菅田将晖",
+      "onboard_time": 1709964572,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 234103,
+      "num": 189598,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1709964511,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 231403,
       "num": 198400,
       "word": "这些都是35岁以下的人的脊椎",
@@ -681,6 +745,14 @@
       "onboard_time": 1709900010,
       "rank": 6,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 217035,
+      "num": 217035,
+      "word": "拉塞尔44分",
+      "onboard_time": 1709963549,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 216958,
@@ -739,6 +811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200915,
+      "num": 182654,
+      "word": "五十公里桃花坞",
+      "onboard_time": 1709962770,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198093,
       "num": 198093,
       "word": "巴黎奥运会开幕式将动用180艘船",
@@ -795,11 +875,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191269,
+      "num": 191269,
+      "word": "丁威迪封盖",
+      "onboard_time": 1709964448,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189201,
       "num": 189201,
       "word": "眼泪女王",
       "onboard_time": 1709954552,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188727,
+      "num": 179638,
+      "word": "藏海传网传简介",
+      "onboard_time": 1709963790,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -931,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165963,
+      "num": 165963,
+      "word": "建议延长男性陪产假减轻女性育儿负担",
+      "onboard_time": 1709964751,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 164299,
       "num": 206313,
       "word": "周鸿祎称国内PPT泛滥成灾",
@@ -971,6 +1075,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 160269,
+      "num": 160269,
+      "word": "拉塞尔绝杀雄鹿",
+      "onboard_time": 1709963971,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160066,
       "num": 160066,
       "word": "综合素质",
@@ -987,8 +1099,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151401,
+      "num": 151401,
+      "word": "突然有点明白看演唱会的意义",
+      "onboard_time": 1709962289,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151020,
-      "num": 151020,
+      "num": 186322,
       "word": "委员称老师不减负学生也减不了",
       "onboard_time": 1709960251,
       "rank": 39,
@@ -1041,6 +1161,22 @@
       "onboard_time": 1709904452,
       "rank": 30,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 145914,
+      "num": 145914,
+      "word": "湖人战胜雄鹿",
+      "onboard_time": 1709963728,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145413,
+      "num": 145413,
+      "word": "原来章鱼的咬合力这么惊人",
+      "onboard_time": 1709964388,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 144857,
@@ -1171,6 +1307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124372,
+      "num": 124372,
+      "word": "原来柯基也可以当警犬",
+      "onboard_time": 1709965170,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122091,
       "num": 122091,
       "word": "黄奕告诉老默宝总想吃鱼",
@@ -1187,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118478,
+      "num": 118478,
+      "word": "孟子义夸沈月好会拍",
+      "onboard_time": 1709965111,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111925,
       "num": 111925,
       "word": "万科6.47亿美元全数偿付到期票据本息",
@@ -1195,12 +1347,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 110931,
-      "num": 110931,
-      "word": "突然有点明白看演唱会的意义",
-      "onboard_time": 1709962289,
+      "raw_hot": 110944,
+      "num": 110944,
+      "word": "马里奥孝子名言 榴莲才不臭",
+      "onboard_time": 1709965289,
       "rank": 48,
-      "category": "演出"
+      "category": "网红"
     },
     {
       "raw_hot": 109586,
@@ -1217,6 +1369,14 @@
       "onboard_time": 1709948130,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109082,
+      "num": 109082,
+      "word": "00后老师用素颜自拍照教学生PS",
+      "onboard_time": 1709965049,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 104011,
