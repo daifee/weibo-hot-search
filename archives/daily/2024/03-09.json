@@ -1,10 +1,10 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709946505036,
+  "endTime": 1709947617110,
   "band_list": [
     {
       "raw_hot": 2282245,
-      "num": 299856,
+      "num": 319684,
       "word": "蓝可儿等16人殒命酒店挂牌出售",
       "onboard_time": 1709942365,
       "rank": 10,
@@ -19,12 +19,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1039865,
-      "num": 297829,
+      "raw_hot": 1167415,
+      "num": 549029,
       "word": "吵架炸出来疑似北大教授",
       "onboard_time": 1709941586,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 741764,
+      "num": 741764,
+      "word": "小夫妻花5000元办了场极极极简婚礼",
+      "onboard_time": 1709940321,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 652002,
@@ -33,14 +41,6 @@
       "onboard_time": 1709906851,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 647916,
-      "num": 647916,
-      "word": "小夫妻花5000元办了场极极极简婚礼",
-      "onboard_time": 1709940321,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 621309,
@@ -84,27 +84,51 @@
     },
     {
       "raw_hot": 543340,
-      "num": 294677,
+      "num": 310504,
       "word": "霉霉演唱会 樊振东",
       "onboard_time": 1709940805,
       "rank": 42,
       "category": "演出,体育"
     },
     {
-      "raw_hot": 476527,
-      "num": 292366,
+      "raw_hot": 535741,
+      "num": 535741,
+      "word": "你叫我姐姐你多大呀",
+      "onboard_time": 1709941947,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 481845,
+      "num": 304530,
+      "word": "iPhone16Pro渲染图再曝光",
+      "onboard_time": 1709943388,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 481753,
+      "num": 300221,
       "word": "周杰伦昆凌飞奔相拥",
       "onboard_time": 1709939900,
       "rank": 48,
       "category": "艺人"
     },
     {
-      "raw_hot": 471841,
-      "num": 471841,
-      "word": "你叫我姐姐你多大呀",
-      "onboard_time": 1709941947,
-      "rank": 4,
-      "category": "作品衍生"
+      "raw_hot": 461487,
+      "num": 295287,
+      "word": "顾客称做美甲被店家直播1小时",
+      "onboard_time": 1709945186,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452337,
+      "num": 232364,
+      "word": "蓝可儿",
+      "onboard_time": 1709945909,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 442465,
@@ -113,14 +137,6 @@
       "onboard_time": 1709941344,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 416028,
-      "num": 286417,
-      "word": "iPhone16Pro渲染图再曝光",
-      "onboard_time": 1709943388,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 399690,
@@ -139,7 +155,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 369927,
+      "raw_hot": 370872,
       "num": 237310,
       "word": "男子39岁未婚连续五年被妈妈带去精神科检查",
       "onboard_time": 1709943450,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 335217,
-      "num": 283540,
+      "num": 330693,
       "word": "皮肤到底能白到什么程度",
       "onboard_time": 1709944831,
       "rank": 15,
@@ -201,14 +217,6 @@
       "onboard_time": 1709939602,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 299606,
-      "num": 231831,
-      "word": "蓝可儿",
-      "onboard_time": 1709945909,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281513,
@@ -265,14 +273,6 @@
       "onboard_time": 1709910214,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 253686,
-      "num": 253686,
-      "word": "顾客称做美甲被店家直播1小时",
-      "onboard_time": 1709945186,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249952,
@@ -339,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208556,
+      "num": 208556,
+      "word": "工资决定我的外表",
+      "onboard_time": 1709944650,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206452,
       "num": 206452,
       "word": "眉姐姐你女儿长大了",
@@ -353,14 +361,6 @@
       "onboard_time": 1709898630,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197292,
-      "num": 197292,
-      "word": "工资决定我的外表",
-      "onboard_time": 1709944650,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 187030,
@@ -387,6 +387,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 175378,
+      "num": 165068,
+      "word": "男朋友家的小狗没有狗窝",
+      "onboard_time": 1709946990,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172524,
       "num": 149136,
       "word": "教资",
@@ -403,20 +411,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169325,
+      "num": 169325,
+      "word": "广东女子被咬伤后拎着毒蛇冲进医院",
+      "onboard_time": 1709939602,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167464,
+      "num": 167464,
+      "word": "美一架波音737冲出跑道",
+      "onboard_time": 1709945009,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 164299,
       "num": 206313,
       "word": "周鸿祎称国内PPT泛滥成灾",
       "onboard_time": 1709904632,
       "rank": 7,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 162627,
-      "num": 162627,
-      "word": "广东女子被咬伤后拎着毒蛇冲进医院",
-      "onboard_time": 1709939602,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161796,
@@ -435,12 +451,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 156039,
-      "num": 156039,
-      "word": "美一架波音737冲出跑道",
-      "onboard_time": 1709945009,
-      "rank": 32,
-      "category": "国外时政"
+      "raw_hot": 159345,
+      "num": 326857,
+      "word": "姑娘失明后成为一名盲人化妆师",
+      "onboard_time": 1709946928,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148038,
@@ -465,6 +481,14 @@
       "onboard_time": 1709904452,
       "rank": 30,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 143189,
+      "num": 143189,
+      "word": "英伟达",
+      "onboard_time": 1709944770,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 140568,
@@ -499,14 +523,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 137029,
-      "num": 137029,
-      "word": "英伟达",
-      "onboard_time": 1709944770,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 132469,
       "num": 132469,
       "word": "沙丘",
@@ -537,6 +553,14 @@
       "onboard_time": 1709905229,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125639,
+      "num": 125639,
+      "word": "27岁宝妈与自己的妊娠纹和解了",
+      "onboard_time": 1709945729,
+      "rank": 48,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 120196,
@@ -571,12 +595,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 104423,
-      "num": 104423,
-      "word": "27岁宝妈与自己的妊娠纹和解了",
-      "onboard_time": 1709945729,
-      "rank": 48,
-      "category": "母婴育儿"
+      "raw_hot": 107677,
+      "num": 107677,
+      "word": "本作公开新一和基德长得像的原因",
+      "onboard_time": 1709947412,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 104011,
@@ -609,6 +633,22 @@
       "onboard_time": 1709894428,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 100197,
+      "num": 100197,
+      "word": "中国历史朝代顺序图",
+      "onboard_time": 1709947111,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 100104,
+      "num": 100104,
+      "word": "婚姻中受伤你会勇敢结束吗",
+      "onboard_time": 1709946628,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 98744,
@@ -867,6 +907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16555,
+      "num": 552498,
+      "word": "最高法工作报告",
+      "onboard_time": 1709864308,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14819,
       "num": 49762,
       "word": "她们这样写穿越文",
@@ -881,14 +929,6 @@
       "onboard_time": 1709928077,
       "rank": 45,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 13754,
-      "num": 517079,
-      "word": "最高法工作报告",
-      "onboard_time": 1709864308,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13669,
