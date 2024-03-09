@@ -1,0 +1,410 @@
+{
+  "runTime": 1709991228774,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 909097,
+        "num": 909097,
+        "word": "朱梓骁被纪凌尘气炸了",
+        "onboard_time": 1709990312,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 830968,
+        "num": 830968,
+        "word": "刘浩存 泪失禁体质",
+        "onboard_time": 1709988933,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66768,
+        "num": 518965,
+        "word": "解读最高人民法院工作报告",
+        "onboard_time": 1709988273,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1427161,
+        "num": 517713,
+        "word": "杭州警方通报男子抢劫珠宝店",
+        "onboard_time": 1709987674,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944039,
+        "num": 515762,
+        "word": "微信能不能改成部分人三天可见",
+        "onboard_time": 1709982392,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 513013,
+        "num": 513013,
+        "word": "徐佳莹演唱会嘉宾是汪苏泷",
+        "onboard_time": 1709989954,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 500206,
+        "num": 500206,
+        "word": "奥利C位出道",
+        "onboard_time": 1709990613,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412192,
+        "num": 412192,
+        "word": "演员尚梦初逝世",
+        "onboard_time": 1709989532,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330896,
+        "num": 330896,
+        "word": "月入过万你还会考研考公吗",
+        "onboard_time": 1709986593,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147969,
+        "num": 330811,
+        "word": "中国2024年国防费预算增长7.2%",
+        "onboard_time": 1709989652,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1615603,
+        "num": 330764,
+        "word": "杨紫提醒主持人牙齿上有口红",
+        "onboard_time": 1709989353,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385855,
+        "num": 330572,
+        "word": "你好星期六",
+        "onboard_time": 1709988810,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321205,
+        "num": 330493,
+        "word": "朱雀输给民间队",
+        "onboard_time": 1709987311,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1479187,
+        "num": 330423,
+        "word": "杭州万象城",
+        "onboard_time": 1709983231,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1333730,
+        "num": 330333,
+        "word": "1人带316个LV包入境被查",
+        "onboard_time": 1709986351,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857247,
+        "num": 330212,
+        "word": "赵安吉车祸身亡细节",
+        "onboard_time": 1709980888,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 629441,
+        "num": 330087,
+        "word": "美国女子拍下老公用枪打死自己视频",
+        "onboard_time": 1709984492,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487704,
+        "num": 329956,
+        "word": "TikTok用户打爆美国会办公电话",
+        "onboard_time": 1709985573,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 398836,
+        "num": 329906,
+        "word": "李权哲第二名出道",
+        "onboard_time": 1709990793,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386209,
+        "num": 329698,
+        "word": "唐探2刘昊然彩蛋",
+        "onboard_time": 1709986112,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365785,
+        "num": 329645,
+        "word": "JYP自己倒是闯中成功了",
+        "onboard_time": 1709984253,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329586,
+        "num": 329586,
+        "word": "杨紫古韵旗袍",
+        "onboard_time": 1709990133,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323030,
+        "num": 323030,
+        "word": "女子吃麻辣烫被乱数签多算123元",
+        "onboard_time": 1709976810,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283054,
+        "num": 283054,
+        "word": "林俊杰发烧",
+        "onboard_time": 1709976452,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 262331,
+        "num": 262331,
+        "word": "教资",
+        "onboard_time": 1709953831,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 266893,
+        "num": 262270,
+        "word": "窦骁何超莲又发糖了",
+        "onboard_time": 1709983051,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262101,
+        "num": 262101,
+        "word": "被我弄丢的你结局细思极恐",
+        "onboard_time": 1709989892,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234796,
+        "num": 234796,
+        "word": "妈妈炸的花生米被同学嫌弃了",
+        "onboard_time": 1709990075,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230334,
+        "num": 230334,
+        "word": "解放军练兵备战打独促统",
+        "onboard_time": 1709980111,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174060,
+        "num": 227639,
+        "word": "建议返聘65岁以下退休教师",
+        "onboard_time": 1709973871,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 226583,
+        "num": 226583,
+        "word": "南大一48岁博士生8年未毕业被劝退",
+        "onboard_time": 1709981731,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211061,
+        "num": 211061,
+        "word": "火出圈的天水麻辣烫",
+        "onboard_time": 1709990075,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200168,
+        "num": 200168,
+        "word": "现在的朋友圈越来越低调了",
+        "onboard_time": 1709981129,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199987,
+        "num": 199987,
+        "word": "JDG战胜RNG",
+        "onboard_time": 1709990674,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198466,
+        "num": 198466,
+        "word": "杨紫六部待播作品",
+        "onboard_time": 1709986231,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194125,
+        "num": 194125,
+        "word": "杨迪cos小夫",
+        "onboard_time": 1709986952,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185675,
+        "num": 185675,
+        "word": "周鸿祎称大模型套壳没价值",
+        "onboard_time": 1709991096,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 185182,
+        "num": 185182,
+        "word": "李现杀回现偶了",
+        "onboard_time": 1709968287,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183698,
+        "num": 183698,
+        "word": "终于知道电视里为啥喜欢买芹菜",
+        "onboard_time": 1709990075,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183507,
+        "num": 183507,
+        "word": "惠英红 贾玲为自己而活没问题",
+        "onboard_time": 1709990613,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178974,
+        "num": 178974,
+        "word": "法国赛陈雨菲无缘决赛",
+        "onboard_time": 1709989233,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177645,
+        "num": 177645,
+        "word": "周深新专辑官宣",
+        "onboard_time": 1709985813,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170512,
+        "num": 170512,
+        "word": "林俊杰 丹宁执着",
+        "onboard_time": 1709986534,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147814,
+        "num": 147814,
+        "word": "程序员AI生成龙珠致敬鸟山明",
+        "onboard_time": 1709990912,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 146091,
+        "num": 146091,
+        "word": "亚洲超星团",
+        "onboard_time": 1709981675,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145549,
+        "num": 145549,
+        "word": "肖战演唱满足",
+        "onboard_time": 1709976929,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142112,
+        "num": 142112,
+        "word": "李宇春演唱会直播",
+        "onboard_time": 1709986534,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140401,
+        "num": 140401,
+        "word": "萧亚轩前男友黄皓晒宝宝脚丫照",
+        "onboard_time": 1709969910,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134465,
+        "num": 134465,
+        "word": "迪丽热巴六部作品全球热播",
+        "onboard_time": 1709985212,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120705,
+        "num": 128830,
+        "word": "山东泰山大轮换",
+        "onboard_time": 1709987731,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#从全国两会看中国发展#"
+    }
+  }
+}
