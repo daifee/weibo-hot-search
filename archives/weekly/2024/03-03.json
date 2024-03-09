@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709955246137,
+  "endTime": 1709957956466,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -377,6 +377,14 @@
       "onboard_time": 1709854707,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1609919,
+      "num": 611257,
+      "word": "腾讯芒果要打起来了",
+      "onboard_time": 1709955572,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1587250,
@@ -1715,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 801886,
+      "num": 791964,
+      "word": "教资答案",
+      "onboard_time": 1709954011,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 798998,
       "num": 798998,
       "word": "徐若晗 导师团全票通过",
@@ -1737,14 +1753,6 @@
       "onboard_time": 1709826810,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 791964,
-      "num": 791964,
-      "word": "教资答案",
-      "onboard_time": 1709954011,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 790857,
@@ -1945,6 +1953,14 @@
       "onboard_time": 1709940321,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 739699,
+      "num": 739699,
+      "word": "考研国家线",
+      "onboard_time": 1709955931,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 739556,
@@ -3387,6 +3403,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 535728,
+      "num": 535728,
+      "word": "忽然发现甄嬛传好像没有吻戏",
+      "onboard_time": 1709956110,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 535074,
       "num": 457005,
       "word": "新款iPad和Mac或本周发布",
@@ -3723,6 +3747,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 498285,
+      "num": 498285,
+      "word": "韩国仍有超1.1万名医生未返岗",
+      "onboard_time": 1709954911,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494848,
       "num": 494848,
       "word": "酱园弄杀青了",
@@ -3809,6 +3841,14 @@
       "onboard_time": 1709618130,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 486181,
+      "num": 486181,
+      "word": "教资选择 难",
+      "onboard_time": 1709955208,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 485753,
@@ -4265,6 +4305,14 @@
       "onboard_time": 1709556089,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 445933,
+      "num": 445933,
+      "word": "女生26岁裸辞做约拍月入3万",
+      "onboard_time": 1709956591,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444667,
@@ -4993,6 +5041,14 @@
       "onboard_time": 1709603789,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 387055,
+      "num": 387055,
+      "word": "李现周雨彤吻戏海报",
+      "onboard_time": 1709956110,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 386878,
@@ -5945,6 +6001,14 @@
       "onboard_time": 1709450610,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 328117,
+      "num": 328117,
+      "word": "从此不敢看黑狗",
+      "onboard_time": 1709954787,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 327528,
@@ -6905,6 +6969,14 @@
       "onboard_time": 1709878110,
       "rank": 24,
       "category": "综艺,作品衍生"
+    },
+    {
+      "raw_hot": 279310,
+      "num": 262553,
+      "word": "腾讯视频9号开放日",
+      "onboard_time": 1709955990,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 278931,
@@ -8635,6 +8707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218272,
+      "num": 218272,
+      "word": "英伟达市值一夜蒸发9200亿元",
+      "onboard_time": 1709953771,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 218191,
       "num": 218191,
       "word": "金价历史最高有人大赚200多万",
@@ -9715,6 +9795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 197410,
+      "num": 197410,
+      "word": "实用洗鞋小技巧",
+      "onboard_time": 1709957250,
+      "rank": 27,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 197359,
       "num": 197359,
       "word": "被我弄丢的你",
@@ -9825,6 +9913,14 @@
       "onboard_time": 1709650114,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195655,
+      "num": 191710,
+      "word": "钎城发文感谢一路陪伴",
+      "onboard_time": 1709957369,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 195573,
@@ -10307,6 +10403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187644,
+      "num": 187644,
+      "word": "教资作文立意",
+      "onboard_time": 1709957489,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 187559,
       "num": 187559,
       "word": "这是我的岛",
@@ -10433,14 +10537,6 @@
       "onboard_time": 1709523514,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 184843,
-      "num": 184843,
-      "word": "英伟达市值一夜蒸发9200亿元",
-      "onboard_time": 1709953771,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 184701,
@@ -10745,14 +10841,6 @@
       "onboard_time": 1709597609,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180439,
-      "num": 180439,
-      "word": "从此不敢看黑狗",
-      "onboard_time": 1709954787,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 180306,
@@ -12179,6 +12267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160066,
+      "num": 160066,
+      "word": "综合素质",
+      "onboard_time": 1709955270,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 159987,
       "num": 298546,
       "word": "有一种知识叫女性经验",
@@ -12635,14 +12731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154840,
-      "num": 154840,
-      "word": "教资选择 难",
-      "onboard_time": 1709955208,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 154820,
       "num": 154820,
       "word": "女生返校为室友带60多斤特产",
@@ -12817,6 +12905,14 @@
       "onboard_time": 1709792555,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 152808,
+      "num": 152808,
+      "word": "锦瑟无端五十弦",
+      "onboard_time": 1709957849,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 152687,
@@ -13195,6 +13291,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 147727,
+      "num": 147727,
+      "word": "第一次见和狗狗抢电梯的",
+      "onboard_time": 1709954730,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147694,
       "num": 147694,
       "word": "这才是HR认可的空窗期理由",
@@ -13361,6 +13465,14 @@
       "onboard_time": 1709553991,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146014,
+      "num": 146014,
+      "word": "尽量别去亲戚公司上班",
+      "onboard_time": 1709957790,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 145986,
@@ -13561,14 +13673,6 @@
       "onboard_time": 1709538091,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 144242,
-      "num": 144242,
-      "word": "第一次见和狗狗抢电梯的",
-      "onboard_time": 1709954730,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 144216,
@@ -13793,6 +13897,14 @@
       "onboard_time": 1709600429,
       "rank": 36,
       "category": "国内时政,母婴育儿"
+    },
+    {
+      "raw_hot": 140742,
+      "num": 140742,
+      "word": "钎城继续朝梦想前进",
+      "onboard_time": 1709956828,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 140636,
@@ -14291,6 +14403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135965,
+      "num": 135965,
+      "word": "王鹤棣必胜客代言人",
+      "onboard_time": 1709956412,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135877,
       "num": 135877,
       "word": "咒术回战赢麻了",
@@ -14611,6 +14731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131529,
+      "num": 131529,
+      "word": "尚雯婕朱丹一公分组",
+      "onboard_time": 1709957911,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131508,
       "num": 131508,
       "word": "荣梓杉 性转版思诺既视感",
@@ -14761,6 +14889,14 @@
       "onboard_time": 1709420539,
       "rank": 24,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 129987,
+      "num": 129987,
+      "word": "哲学博士发起疯来果然不一样",
+      "onboard_time": 1709957310,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 129891,
@@ -17779,6 +17915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51421,
+      "num": 832448,
+      "word": "两会数读中国",
+      "onboard_time": 1709632235,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51119,
       "num": 51119,
       "word": "被小孩姐的舞蹈震惊了",
@@ -18609,14 +18753,6 @@
       "onboard_time": 1709498235,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9937,
-      "num": 832448,
-      "word": "两会数读中国",
-      "onboard_time": 1709632235,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 8947,
