@@ -1,6 +1,6 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709965408247,
+  "endTime": 1709966162980,
   "band_list": [
     {
       "raw_hot": 4193971,
@@ -145,6 +145,14 @@
       "onboard_time": 1709949630,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 780888,
+      "num": 780888,
+      "word": "茉酸奶回应大杯变小杯",
+      "onboard_time": 1709963908,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 773421,
@@ -323,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 473198,
-      "num": 381363,
-      "word": "茉酸奶回应大杯变小杯",
-      "onboard_time": 1709963908,
-      "rank": 12,
-      "category": "美食"
-    },
-    {
       "raw_hot": 461920,
       "num": 461920,
       "word": "教资科一",
@@ -355,20 +355,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 408524,
+      "num": 263940,
+      "word": "杨洋清瘦了不少",
+      "onboard_time": 1709963971,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407938,
       "num": 407938,
       "word": "沈月镜头下的孟子义",
       "onboard_time": 1709962650,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 407379,
-      "num": 263940,
-      "word": "杨洋清瘦了不少",
-      "onboard_time": 1709963971,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 399830,
@@ -409,6 +409,14 @@
       "onboard_time": 1709948790,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 371044,
+      "num": 371044,
+      "word": "俞灏明痛失本名",
+      "onboard_time": 1709964210,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 370872,
@@ -481,14 +489,6 @@
       "onboard_time": 1709939063,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 324144,
-      "num": 324144,
-      "word": "俞灏明痛失本名",
-      "onboard_time": 1709964210,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 323064,
@@ -651,6 +651,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248868,
+      "num": 248868,
+      "word": "菅田将晖",
+      "onboard_time": 1709964572,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 248075,
+      "num": 248075,
+      "word": "以闪亮之名三丽鸥家族联动",
+      "onboard_time": 1709965470,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 246995,
       "num": 246995,
       "word": "在孩子手机里发现的",
@@ -675,16 +691,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238289,
-      "num": 190032,
-      "word": "菅田将晖",
-      "onboard_time": 1709964572,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 234103,
-      "num": 189598,
+      "num": 222880,
       "word": "林俊杰演唱会",
       "onboard_time": 1709964511,
       "rank": 26,
@@ -803,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201838,
+      "num": 201838,
+      "word": "马里奥孝子名言 榴莲才不臭",
+      "onboard_time": 1709965289,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 200916,
       "num": 181880,
       "word": "极简生活一年的变化",
@@ -817,6 +833,14 @@
       "onboard_time": 1709962770,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198195,
+      "num": 198195,
+      "word": "承欢记排播",
+      "onboard_time": 1709965830,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 198093,
@@ -892,7 +916,7 @@
     },
     {
       "raw_hot": 188727,
-      "num": 179638,
+      "num": 180420,
       "word": "藏海传网传简介",
       "onboard_time": 1709963790,
       "rank": 32,
@@ -913,6 +937,14 @@
       "onboard_time": 1709957489,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 187615,
+      "num": 187615,
+      "word": "每次接妹妹都有种人贩子的感觉",
+      "onboard_time": 1709965470,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 187030,
@@ -987,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171625,
+      "num": 224581,
+      "word": "谈了四个月就结婚是什么体验",
+      "onboard_time": 1709966129,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169325,
       "num": 169325,
       "word": "广东女子被咬伤后拎着毒蛇冲进医院",
@@ -1028,7 +1068,7 @@
     },
     {
       "raw_hot": 165963,
-      "num": 165963,
+      "num": 203498,
       "word": "建议延长男性陪产假减轻女性育儿负担",
       "onboard_time": 1709964751,
       "rank": 34,
@@ -1099,6 +1139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154927,
+      "num": 154927,
+      "word": "李嘉琦沈月合照",
+      "onboard_time": 1709965887,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151401,
       "num": 151401,
       "word": "突然有点明白看演唱会的意义",
@@ -1108,7 +1156,7 @@
     },
     {
       "raw_hot": 151020,
-      "num": 186322,
+      "num": 201861,
       "word": "委员称老师不减负学生也减不了",
       "onboard_time": 1709960251,
       "rank": 39,
@@ -1275,6 +1323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132005,
+      "num": 132005,
+      "word": "赵丽颖林更新二搭时隔七年",
+      "onboard_time": 1709965768,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130764,
       "num": 130764,
       "word": "哲学博士发起疯来果然不一样",
@@ -1345,14 +1401,6 @@
       "onboard_time": 1709939781,
       "rank": 30,
       "category": "财经"
-    },
-    {
-      "raw_hot": 110944,
-      "num": 110944,
-      "word": "马里奥孝子名言 榴莲才不臭",
-      "onboard_time": 1709965289,
-      "rank": 48,
-      "category": "网红"
     },
     {
       "raw_hot": 109586,
