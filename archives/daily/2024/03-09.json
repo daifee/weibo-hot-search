@@ -1,6 +1,6 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709982956880,
+  "endTime": 1709984052093,
   "band_list": [
     {
       "raw_hot": 4193971,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1892602,
+      "num": 257740,
+      "word": "赵安吉车祸身亡细节",
+      "onboard_time": 1709980888,
+      "rank": 10,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1802368,
       "num": 1802368,
       "word": "金价杀疯了",
       "onboard_time": 1709909731,
       "rank": 0,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1765174,
-      "num": 257740,
-      "word": "赵安吉车祸身亡细节",
-      "onboard_time": 1709980888,
-      "rank": 10,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1609919,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 759839,
+      "num": 255820,
+      "word": "南大一48岁博士生8年未毕业被劝退",
+      "onboard_time": 1709981731,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 751577,
       "num": 751577,
       "word": "当舅妈让我考研考编考公三手抓",
@@ -299,12 +307,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 684520,
+      "num": 434016,
+      "word": "微信能不能改成部分人三天可见",
+      "onboard_time": 1709982392,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 679182,
       "num": 537966,
       "word": "苹果 无聊的水果",
       "onboard_time": 1709976991,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 673049,
+      "num": 249102,
+      "word": "杭州万象城",
+      "onboard_time": 1709983231,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 663049,
@@ -401,6 +425,14 @@
       "onboard_time": 1709941947,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 546968,
+      "num": 247567,
+      "word": "窦骁何超莲又发糖了",
+      "onboard_time": 1709983051,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 546454,
@@ -577,14 +609,6 @@
       "onboard_time": 1709964511,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 388357,
-      "num": 255820,
-      "word": "南大一48岁博士生8年未毕业被劝退",
-      "onboard_time": 1709981731,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 387055,
@@ -1035,6 +1059,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235346,
+      "num": 235346,
+      "word": "建议领导不要给下属太大压力",
+      "onboard_time": 1709980410,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 232214,
+      "num": 232214,
+      "word": "第二十条",
+      "onboard_time": 1709982152,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 231403,
       "num": 198400,
       "word": "这些都是35岁以下的人的脊椎",
@@ -1113,14 +1153,6 @@
       "onboard_time": 1709903670,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 213371,
-      "num": 213371,
-      "word": "微信能不能改成部分人三天可见",
-      "onboard_time": 1709982392,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 211433,
@@ -1265,6 +1297,14 @@
       "onboard_time": 1709958089,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195202,
+      "num": 195202,
+      "word": "恋与深空 童心发型",
+      "onboard_time": 1709982392,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 192887,
@@ -1595,22 +1635,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 157162,
-      "num": 157162,
-      "word": "第二十条",
-      "onboard_time": 1709982152,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 156932,
-      "num": 156932,
-      "word": "建议领导不要给下属太大压力",
-      "onboard_time": 1709980410,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 156695,
       "num": 156695,
       "word": "金毛 以后再也不拼车了",
@@ -1697,6 +1721,14 @@
       "onboard_time": 1709940442,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 147940,
+      "num": 147940,
+      "word": "距离马拉松还有一周怎么练",
+      "onboard_time": 1709984013,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 147727,
@@ -1827,14 +1859,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 139568,
-      "num": 139568,
-      "word": "恋与深空 童心发型",
-      "onboard_time": 1709982392,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 138888,
       "num": 205669,
       "word": "代表建议为适龄女性免费接种HPV疫苗",
@@ -1905,6 +1929,14 @@
       "onboard_time": 1709965768,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131015,
+      "num": 131015,
+      "word": "WINTER Hossi挑战",
+      "onboard_time": 1709983351,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 130764,
@@ -2025,6 +2057,14 @@
       "onboard_time": 1709965111,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114115,
+      "num": 114115,
+      "word": "谌龙JDG主场观赛",
+      "onboard_time": 1709983591,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 112065,
@@ -2498,6 +2538,9 @@
     },
     {
       "word": "#从全国两会看中国发展#"
+    },
+    {
+      "word": "#推动经济社会发展绿色化低碳化#"
     }
   ]
 }
