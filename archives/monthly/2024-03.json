@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709947617110,
+  "endTime": 1709949432980,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -811,6 +811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1337029,
+      "num": 647673,
+      "word": "吵架炸出来疑似北大教授",
+      "onboard_time": 1709941586,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1335656,
       "num": 219003,
       "word": "麻辣王子被隐瞒亿万家产20年",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1709621615,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1167415,
-      "num": 549029,
-      "word": "吵架炸出来疑似北大教授",
-      "onboard_time": 1709941586,
-      "rank": 11,
-      "category": "游戏"
     },
     {
       "raw_hot": 1158014,
@@ -2529,6 +2529,14 @@
       "onboard_time": 1709685510,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 738185,
+      "num": 738185,
+      "word": "顾客称做美甲被店家直播1小时",
+      "onboard_time": 1709945186,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 738107,
@@ -4211,6 +4219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 552506,
+      "num": 552506,
+      "word": "你叫我姐姐你多大呀",
+      "onboard_time": 1709941947,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 552385,
       "num": 275505,
       "word": "小杨哥称今年将再减少带货直播",
@@ -4411,12 +4427,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 535741,
-      "num": 535741,
-      "word": "你叫我姐姐你多大呀",
-      "onboard_time": 1709941947,
-      "rank": 4,
-      "category": "作品衍生"
+      "raw_hot": 536036,
+      "num": 232364,
+      "word": "蓝可儿",
+      "onboard_time": 1709945909,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 535074,
@@ -5100,7 +5116,7 @@
     },
     {
       "raw_hot": 481845,
-      "num": 304530,
+      "num": 310142,
       "word": "iPhone16Pro渲染图再曝光",
       "onboard_time": 1709943388,
       "rank": 14,
@@ -5108,7 +5124,7 @@
     },
     {
       "raw_hot": 481753,
-      "num": 300221,
+      "num": 309917,
       "word": "周杰伦昆凌飞奔相拥",
       "onboard_time": 1709939900,
       "rank": 48,
@@ -5387,14 +5403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 461487,
-      "num": 295287,
-      "word": "顾客称做美甲被店家直播1小时",
-      "onboard_time": 1709945186,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 460030,
       "num": 301450,
       "word": "Rihanna印度富豪婚礼演唱",
@@ -5505,14 +5513,6 @@
       "onboard_time": 1709767404,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 452337,
-      "num": 232364,
-      "word": "蓝可儿",
-      "onboard_time": 1709945909,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 452200,
@@ -6387,6 +6387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 399830,
+      "num": 399830,
+      "word": "皮肤到底能白到什么程度",
+      "onboard_time": 1709944831,
+      "rank": 15,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 399736,
       "num": 357923,
       "word": "詹姆斯40000分倒计时",
@@ -6913,6 +6921,14 @@
       "onboard_time": 1709534190,
       "rank": 15,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 370074,
+      "num": 370074,
+      "word": "姑娘失明后成为一名盲人化妆师",
+      "onboard_time": 1709946928,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369786,
@@ -7603,14 +7619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335217,
-      "num": 330693,
-      "word": "皮肤到底能白到什么程度",
-      "onboard_time": 1709944831,
-      "rank": 15,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 335206,
       "num": 335206,
       "word": "Jennie合作曲公开",
@@ -8177,6 +8185,14 @@
       "onboard_time": 1709255670,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 310412,
+      "num": 310412,
+      "word": "工资决定我的外表",
+      "onboard_time": 1709944650,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 309659,
@@ -8915,6 +8931,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 283599,
+      "num": 283599,
+      "word": "全员加速中回应争议",
+      "onboard_time": 1709940683,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283428,
       "num": 283428,
       "word": "豪士面包 种地吧",
@@ -8945,14 +8969,6 @@
       "onboard_time": 1709856813,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281513,
-      "num": 281513,
-      "word": "全员加速中回应争议",
-      "onboard_time": 1709940683,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 281490,
@@ -11739,20 +11755,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208556,
-      "num": 208556,
-      "word": "工资决定我的外表",
-      "onboard_time": 1709944650,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 208357,
       "num": 208357,
       "word": "多功能单品盘成彩妆赛道突破口",
       "onboard_time": 1709630073,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 208300,
+      "num": 183272,
+      "word": "男朋友家的小狗没有狗窝",
+      "onboard_time": 1709946990,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 207929,
@@ -13428,7 +13444,7 @@
     },
     {
       "raw_hot": 187030,
-      "num": 169061,
+      "num": 176166,
       "word": "李秀满出售SM获5300亿韩元",
       "onboard_time": 1709923939,
       "rank": 10,
@@ -13947,6 +13963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180655,
+      "num": 180655,
+      "word": "英伟达",
+      "onboard_time": 1709944770,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 180610,
       "num": 180610,
       "word": "小龙女精神状态领先我三十年",
@@ -14211,6 +14235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 177733,
+      "num": 177733,
+      "word": "分析称黄金已超买需警惕回调",
+      "onboard_time": 1709948310,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 177639,
       "num": 177639,
       "word": "永远不要低估闺蜜之间的感情",
@@ -14408,14 +14440,6 @@
       "word": "打了唇钉后喝水真的会漏水",
       "onboard_time": 1709382032,
       "rank": 46,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 175378,
-      "num": 165068,
-      "word": "男朋友家的小狗没有狗窝",
-      "onboard_time": 1709946990,
-      "rank": 30,
       "category": "幽默"
     },
     {
@@ -15603,6 +15627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162043,
+      "num": 162043,
+      "word": "27岁宝妈与自己的妊娠纹和解了",
+      "onboard_time": 1709945729,
+      "rank": 48,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 162026,
       "num": 162026,
       "word": "蒲熠星手机壁纸是自己的小说",
@@ -15857,14 +15889,6 @@
       "onboard_time": 1709617592,
       "rank": 37,
       "category": "读书作家,作品衍生"
-    },
-    {
-      "raw_hot": 159345,
-      "num": 326857,
-      "word": "姑娘失明后成为一名盲人化妆师",
-      "onboard_time": 1709946928,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159332,
@@ -16177,6 +16201,14 @@
       "onboard_time": 1709906673,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 157327,
+      "num": 171349,
+      "word": "老师打电话屏幕上涌出一堆小脑袋",
+      "onboard_time": 1709948790,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157287,
@@ -17611,14 +17643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143189,
-      "num": 143189,
-      "word": "英伟达",
-      "onboard_time": 1709944770,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 143132,
       "num": 143132,
       "word": "原帅三分大赛冠军",
@@ -17633,6 +17657,14 @@
       "onboard_time": 1709258071,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 142979,
+      "num": 142979,
+      "word": "小日子",
+      "onboard_time": 1709948849,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 142904,
@@ -17673,6 +17705,14 @@
       "onboard_time": 1709368651,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 142558,
+      "num": 142558,
+      "word": "英伟达大跌5.55%",
+      "onboard_time": 1709949030,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 142519,
@@ -18699,6 +18739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132996,
+      "num": 132996,
+      "word": "不良执念清除师监制质疑大侦探设定",
+      "onboard_time": 1709941285,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132896,
       "num": 132896,
       "word": "天气冷得仿佛还没过完年",
@@ -18777,14 +18825,6 @@
       "onboard_time": 1709382991,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132335,
-      "num": 132335,
-      "word": "不良执念清除师监制质疑大侦探设定",
-      "onboard_time": 1709941285,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 132131,
@@ -19491,12 +19531,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 125639,
-      "num": 125639,
-      "word": "27岁宝妈与自己的妊娠纹和解了",
-      "onboard_time": 1709945729,
-      "rank": 48,
-      "category": "母婴育儿"
+      "raw_hot": 125590,
+      "num": 125590,
+      "word": "省钱这一块没人比得过大学生",
+      "onboard_time": 1709948729,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 125512,
@@ -19801,6 +19841,14 @@
       "onboard_time": 1709641292,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 122091,
+      "num": 122091,
+      "word": "黄奕告诉老默宝总想吃鱼",
+      "onboard_time": 1709947769,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 122053,
@@ -20515,6 +20563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115185,
+      "num": 115185,
+      "word": "比特币首破70000美元",
+      "onboard_time": 1709949270,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 115142,
       "num": 115142,
       "word": "大学毕业后想当保姆",
@@ -21019,6 +21075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109586,
+      "num": 109586,
+      "word": "本作公开新一和基德长得像的原因",
+      "onboard_time": 1709947412,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 109361,
       "num": 109361,
       "word": "欧冠八强确定四席",
@@ -21041,6 +21105,14 @@
       "onboard_time": 1709358572,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109017,
+      "num": 109017,
+      "word": "甄嬛传 台词无缝乱接版",
+      "onboard_time": 1709948130,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 108892,
@@ -21153,14 +21225,6 @@
       "onboard_time": 1709813193,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 107677,
-      "num": 107677,
-      "word": "本作公开新一和基德长得像的原因",
-      "onboard_time": 1709947412,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 107639,
