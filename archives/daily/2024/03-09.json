@@ -1,6 +1,6 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709961597239,
+  "endTime": 1709962442643,
   "band_list": [
     {
       "raw_hot": 4193971,
@@ -51,20 +51,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1270271,
+      "num": 1270271,
+      "word": "张杰听到女儿结婚的反应",
+      "onboard_time": 1709959531,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1229468,
       "num": 1229468,
       "word": "锦瑟无端五十弦",
       "onboard_time": 1709957849,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1191232,
-      "num": 1191232,
-      "word": "张杰听到女儿结婚的反应",
-      "onboard_time": 1709959531,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 934217,
@@ -91,20 +91,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 878527,
+      "num": 878527,
+      "word": "李商隐你耍我",
+      "onboard_time": 1709958691,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 865616,
       "num": 865616,
       "word": "赵丽颖是主演也是监制",
       "onboard_time": 1709953109,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 851207,
-      "num": 851207,
-      "word": "李商隐你耍我",
-      "onboard_time": 1709958691,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 817122,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396682,
+      "num": 359653,
+      "word": "爸爸甚至在没读乱回",
+      "onboard_time": 1709960792,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 393442,
       "num": 205640,
       "word": "被好朋友删了",
@@ -369,6 +377,14 @@
       "onboard_time": 1709943450,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369347,
+      "num": 369347,
+      "word": "与凤行赵丽颖是配音",
+      "onboard_time": 1709960613,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 366581,
@@ -491,12 +507,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 288933,
-      "num": 288933,
-      "word": "与凤行赵丽颖是配音",
-      "onboard_time": 1709960613,
+      "raw_hot": 282649,
+      "num": 282649,
+      "word": "沈月是在嗑辣目洋子徐志胜吗",
+      "onboard_time": 1709961930,
       "rank": 19,
-      "category": "剧集"
+      "category": "综艺"
     },
     {
       "raw_hot": 279310,
@@ -529,6 +545,14 @@
       "onboard_time": 1709939722,
       "rank": 19,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 272690,
+      "num": 527050,
+      "word": "建议肿瘤基因检测纳入医保",
+      "onboard_time": 1709959711,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 272675,
@@ -601,22 +625,6 @@
       "onboard_time": 1709953529,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234921,
-      "num": 527050,
-      "word": "建议肿瘤基因检测纳入医保",
-      "onboard_time": 1709959711,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 234905,
-      "num": 189000,
-      "word": "爸爸甚至在没读乱回",
-      "onboard_time": 1709960792,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 231403,
@@ -843,7 +851,7 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 178258,
+      "raw_hot": 178855,
       "num": 178258,
       "word": "赵丽颖演古装剧像满级大佬进新手村",
       "onboard_time": 1709959829,
@@ -864,6 +872,14 @@
       "word": "朋友圈背景图",
       "onboard_time": 1709952930,
       "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 172938,
+      "num": 172938,
+      "word": "没有妇女发明的一天",
+      "onboard_time": 1709961451,
+      "rank": 45,
       "category": "情感"
     },
     {
@@ -1155,14 +1171,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 122336,
-      "num": 122336,
-      "word": "没有妇女发明的一天",
-      "onboard_time": 1709961451,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 122091,
       "num": 122091,
       "word": "黄奕告诉老默宝总想吃鱼",
@@ -1185,6 +1193,14 @@
       "onboard_time": 1709939781,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 110931,
+      "num": 110931,
+      "word": "突然有点明白看演唱会的意义",
+      "onboard_time": 1709962289,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 109586,

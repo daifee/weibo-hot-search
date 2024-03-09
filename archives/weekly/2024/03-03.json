@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709961597239,
+  "endTime": 1709962442643,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -643,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1270271,
+      "num": 1270271,
+      "word": "张杰听到女儿结婚的反应",
+      "onboard_time": 1709959531,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1265768,
       "num": 308430,
       "word": "向佐评论李蠕蠕",
@@ -785,14 +793,6 @@
       "onboard_time": 1709615493,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1191232,
-      "num": 1191232,
-      "word": "张杰听到女儿结婚的反应",
-      "onboard_time": 1709959531,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1187026,
@@ -1443,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 878527,
+      "num": 878527,
+      "word": "李商隐你耍我",
+      "onboard_time": 1709958691,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 877626,
       "num": 296784,
       "word": "女儿回应53岁老妈给25岁的自己生了个弟弟",
@@ -1553,14 +1561,6 @@
       "onboard_time": 1709772393,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 851207,
-      "num": 851207,
-      "word": "李商隐你耍我",
-      "onboard_time": 1709958691,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 850163,
@@ -5003,6 +5003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 396682,
+      "num": 359653,
+      "word": "爸爸甚至在没读乱回",
+      "onboard_time": 1709960792,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 396206,
       "num": 320911,
       "word": "美国埋下的核恶魔将被放出",
@@ -5377,6 +5385,14 @@
       "onboard_time": 1709702851,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 369347,
+      "num": 369347,
+      "word": "与凤行赵丽颖是配音",
+      "onboard_time": 1709960613,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 369198,
@@ -6819,14 +6835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 288933,
-      "num": 288933,
-      "word": "与凤行赵丽颖是配音",
-      "onboard_time": 1709960613,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 288904,
       "num": 288904,
       "word": "贝索斯再成世界首富",
@@ -6968,6 +6976,14 @@
       "word": "豪士面包 种地吧",
       "onboard_time": 1709644171,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 282649,
+      "num": 282649,
+      "word": "沈月是在嗑辣目洋子徐志胜吗",
+      "onboard_time": 1709961930,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -7225,6 +7241,14 @@
       "onboard_time": 1709473472,
       "rank": 24,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 272690,
+      "num": 527050,
+      "word": "建议肿瘤基因检测纳入医保",
+      "onboard_time": 1709959711,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 272675,
@@ -8233,22 +8257,6 @@
       "onboard_time": 1709802571,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 234921,
-      "num": 527050,
-      "word": "建议肿瘤基因检测纳入医保",
-      "onboard_time": 1709959711,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 234905,
-      "num": 189000,
-      "word": "爸爸甚至在没读乱回",
-      "onboard_time": 1709960792,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 234847,
@@ -11115,6 +11123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178855,
+      "num": 178258,
+      "word": "赵丽颖演古装剧像满级大佬进新手村",
+      "onboard_time": 1709959829,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178470,
       "num": 178470,
       "word": "网剧紫川",
@@ -11137,14 +11153,6 @@
       "onboard_time": 1709899288,
       "rank": 31,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 178258,
-      "num": 178258,
-      "word": "赵丽颖演古装剧像满级大佬进新手村",
-      "onboard_time": 1709959829,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 178042,
@@ -11497,6 +11505,14 @@
       "onboard_time": 1709723913,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 172938,
+      "num": 172938,
+      "word": "没有妇女发明的一天",
+      "onboard_time": 1709961451,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 172889,
@@ -15683,14 +15699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122336,
-      "num": 122336,
-      "word": "没有妇女发明的一天",
-      "onboard_time": 1709961451,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 122274,
       "num": 122274,
       "word": "跳水梦之队包揽冠亚军",
@@ -16537,6 +16545,14 @@
       "onboard_time": 1709721152,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110931,
+      "num": 110931,
+      "word": "突然有点明白看演唱会的意义",
+      "onboard_time": 1709962289,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 110893,

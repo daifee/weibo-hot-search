@@ -1,0 +1,410 @@
+{
+  "runTime": 1709962442643,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1270271,
+        "num": 1270271,
+        "word": "张杰听到女儿结婚的反应",
+        "onboard_time": 1709959531,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1213129,
+        "num": 1213129,
+        "word": "女生26岁裸辞做约拍月入3万",
+        "onboard_time": 1709956591,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40294,
+        "num": 1115946,
+        "word": "两会数读中国",
+        "onboard_time": 1709956469,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1058354,
+        "num": 1058354,
+        "word": "锦瑟无端五十弦",
+        "onboard_time": 1709957849,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 878527,
+        "num": 878527,
+        "word": "李商隐你耍我",
+        "onboard_time": 1709958691,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 769290,
+        "num": 769290,
+        "word": "腾讯芒果要打起来了",
+        "onboard_time": 1709955572,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 723952,
+        "num": 723952,
+        "word": "沈月太会拍了",
+        "onboard_time": 1709959049,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553880,
+        "num": 553880,
+        "word": "周扬青 浪姐",
+        "onboard_time": 1709958273,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369347,
+        "num": 369347,
+        "word": "与凤行赵丽颖是配音",
+        "onboard_time": 1709960613,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272690,
+        "num": 368769,
+        "word": "建议肿瘤基因检测纳入医保",
+        "onboard_time": 1709959711,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 876162,
+        "num": 365604,
+        "word": "蓝可儿等16人殒命酒店挂牌出售",
+        "onboard_time": 1709942365,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457315,
+        "num": 362170,
+        "word": "节育环真的是让子宫不断发炎来避孕吗",
+        "onboard_time": 1709949630,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 396682,
+        "num": 359653,
+        "word": "爸爸甚至在没读乱回",
+        "onboard_time": 1709960792,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 357446,
+        "num": 357446,
+        "word": "教资",
+        "onboard_time": 1709953831,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 343214,
+        "num": 343214,
+        "word": "金价杀疯了",
+        "onboard_time": 1709909731,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 340389,
+        "num": 340389,
+        "word": "忽然发现甄嬛传好像没有吻戏",
+        "onboard_time": 1709956110,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340104,
+        "num": 340104,
+        "word": "韩国仍有超1.1万名医生未返岗",
+        "onboard_time": 1709954911,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331462,
+        "num": 331462,
+        "word": "毛雪汪官宣张晚意",
+        "onboard_time": 1709958388,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324831,
+        "num": 324831,
+        "word": "考研国家线",
+        "onboard_time": 1709955931,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 282649,
+        "num": 282649,
+        "word": "沈月是在嗑辣目洋子徐志胜吗",
+        "onboard_time": 1709961930,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279983,
+        "num": 279983,
+        "word": "狗狗被禁止出席奥斯卡颁奖典礼",
+        "onboard_time": 1709958450,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261615,
+        "num": 261615,
+        "word": "吵架炸出来疑似北大教授",
+        "onboard_time": 1709941586,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251525,
+        "num": 251525,
+        "word": "霉霉演唱会 樊振东",
+        "onboard_time": 1709940805,
+        "rank": 22,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 220235,
+        "num": 220235,
+        "word": "尽量别去亲戚公司上班",
+        "onboard_time": 1709957790,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217623,
+        "num": 217623,
+        "word": "赵丽颖是主演也是监制",
+        "onboard_time": 1709953109,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189602,
+        "num": 189602,
+        "word": "IU演唱会特别嘉宾LESSERAFIM",
+        "onboard_time": 1709959891,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185635,
+        "num": 185635,
+        "word": "李现周雨彤吻戏海报",
+        "onboard_time": 1709956110,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178101,
+        "num": 178101,
+        "word": "从此不敢看黑狗",
+        "onboard_time": 1709954787,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172938,
+        "num": 172938,
+        "word": "没有妇女发明的一天",
+        "onboard_time": 1709961451,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150934,
+        "num": 161647,
+        "word": "姑娘失明后成为一名盲人化妆师",
+        "onboard_time": 1709946928,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178855,
+        "num": 161527,
+        "word": "赵丽颖演古装剧像满级大佬进新手村",
+        "onboard_time": 1709959829,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161392,
+        "num": 161392,
+        "word": "腾讯视频9号开放日",
+        "onboard_time": 1709955990,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158378,
+        "num": 158378,
+        "word": "兰博基尼被众泰追尾起火",
+        "onboard_time": 1709958992,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157925,
+        "num": 157925,
+        "word": "萨摩耶把猫猫的头含进了嘴里",
+        "onboard_time": 1709958089,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152310,
+        "num": 152310,
+        "word": "全球首部完全AI生成的长电影首映",
+        "onboard_time": 1709959170,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147875,
+        "num": 147875,
+        "word": "张家界为啥成了韩国人的尽孝圣地",
+        "onboard_time": 1709953350,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 147813,
+        "num": 147813,
+        "word": "委员称老师不减负学生也减不了",
+        "onboard_time": 1709960251,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142865,
+        "num": 142865,
+        "word": "教资答案",
+        "onboard_time": 1709954011,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142103,
+        "num": 142103,
+        "word": "黑色大丽花",
+        "onboard_time": 1709950528,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490047,
+        "num": 141748,
+        "word": "Jellycat快乐大使樊振东",
+        "onboard_time": 1709958871,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140379,
+        "num": 140379,
+        "word": "教资选择 难",
+        "onboard_time": 1709955208,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137076,
+        "num": 137076,
+        "word": "Uzi韩服排位现状",
+        "onboard_time": 1709960129,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135960,
+        "num": 135960,
+        "word": "蓝可儿",
+        "onboard_time": 1709945909,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124966,
+        "num": 124966,
+        "word": "檀健次认出多年前签名粉丝",
+        "onboard_time": 1709952569,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117926,
+        "num": 117926,
+        "word": "顾客称做美甲被店家直播1小时",
+        "onboard_time": 1709945186,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116371,
+        "num": 116371,
+        "word": "她提要求我很开心",
+        "onboard_time": 1709958450,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112836,
+        "num": 112836,
+        "word": "英伟达市值一夜蒸发9200亿元",
+        "onboard_time": 1709953771,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112654,
+        "num": 112654,
+        "word": "全员加速中回应争议",
+        "onboard_time": 1709940683,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110931,
+        "num": 110931,
+        "word": "突然有点明白看演唱会的意义",
+        "onboard_time": 1709962289,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100514,
+        "num": 100514,
+        "word": "张杰演唱会",
+        "onboard_time": 1709959891,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
