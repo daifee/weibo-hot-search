@@ -1,6 +1,6 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709979579188,
+  "endTime": 1709980531796,
   "band_list": [
     {
       "raw_hot": 4193971,
@@ -41,6 +41,14 @@
       "onboard_time": 1709955572,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1421100,
+      "num": 1421100,
+      "word": "女子吃麻辣烫被乱数签多算123元",
+      "onboard_time": 1709976810,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1400305,
@@ -179,14 +187,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 869145,
-      "num": 869145,
-      "word": "女子吃麻辣烫被乱数签多算123元",
-      "onboard_time": 1709976810,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 865616,
       "num": 865616,
       "word": "赵丽颖是主演也是监制",
@@ -289,6 +289,14 @@
       "onboard_time": 1709967689,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 679182,
+      "num": 537966,
+      "word": "苹果 无聊的水果",
+      "onboard_time": 1709976991,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 663049,
@@ -403,14 +411,6 @@
       "category": "演出,体育"
     },
     {
-      "raw_hot": 537966,
-      "num": 537966,
-      "word": "苹果 无聊的水果",
-      "onboard_time": 1709976991,
-      "rank": 5,
-      "category": "美食"
-    },
-    {
       "raw_hot": 535728,
       "num": 535728,
       "word": "忽然发现甄嬛传好像没有吻戏",
@@ -475,12 +475,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 438139,
+      "num": 386361,
+      "word": "王一博去了盗梦空间的取景桥",
+      "onboard_time": 1709979512,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 437055,
+      "num": 437055,
+      "word": "教资科三",
+      "onboard_time": 1709979751,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 429068,
       "num": 429068,
       "word": "赵丽颖出发香港",
       "onboard_time": 1709977171,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 418337,
+      "num": 457484,
+      "word": "男子三八节买2根金条打手镯送妻子",
+      "onboard_time": 1709977832,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 408524,
@@ -587,14 +611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 365665,
-      "num": 457484,
-      "word": "男子三八节买2根金条打手镯送妻子",
-      "onboard_time": 1709977832,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 361333,
       "num": 361333,
       "word": "肖战演唱满足",
@@ -689,6 +705,14 @@
       "onboard_time": 1709953350,
       "rank": 28,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 309367,
+      "num": 463258,
+      "word": "孩子高烧惊厥妈妈摔倒仍死死抱住",
+      "onboard_time": 1709977832,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307167,
@@ -795,14 +819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 277415,
-      "num": 463258,
-      "word": "孩子高烧惊厥妈妈摔倒仍死死抱住",
-      "onboard_time": 1709977832,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276355,
       "num": 276355,
       "word": "大学老师不让小学儿子写无效作业",
@@ -857,6 +873,14 @@
       "onboard_time": 1709910214,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 262636,
+      "num": 262636,
+      "word": "王星越晒沈月拍的照",
+      "onboard_time": 1709978430,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 261866,
@@ -971,14 +995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 236361,
-      "num": 236361,
-      "word": "王星越晒沈月拍的照",
-      "onboard_time": 1709978430,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 235996,
       "num": 235996,
       "word": "谢霆锋说王菲不滑雪",
@@ -1081,14 +1097,6 @@
       "onboard_time": 1709959891,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 210106,
-      "num": 210106,
-      "word": "王一博去了盗梦空间的取景桥",
-      "onboard_time": 1709979512,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 208300,
@@ -1283,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182914,
+      "num": 182914,
+      "word": "女友说我是典型穷过的小孩",
+      "onboard_time": 1709978672,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182411,
       "num": 182411,
       "word": "j人和P人的穿搭区别",
@@ -1387,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170042,
+      "num": 170042,
+      "word": "唐探2有尹子维",
+      "onboard_time": 1709979391,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169325,
       "num": 169325,
       "word": "广东女子被咬伤后拎着毒蛇冲进医院",
@@ -1433,14 +1457,6 @@
       "onboard_time": 1709964751,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 165850,
-      "num": 165850,
-      "word": "唐探2有尹子维",
-      "onboard_time": 1709979391,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 165602,
@@ -1531,12 +1547,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154689,
+      "num": 154689,
+      "word": "绝不给台独分裂行径留一丝一毫空间",
+      "onboard_time": 1709980172,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 153068,
       "num": 153068,
       "word": "要不要在亲戚公司上班",
       "onboard_time": 1709978315,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151474,
+      "num": 151474,
+      "word": "解放军练兵备战打独促统",
+      "onboard_time": 1709980111,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 151401,
@@ -1609,6 +1641,14 @@
       "onboard_time": 1709904452,
       "rank": 30,
       "category": "美妆,艺人"
+    },
+    {
+      "raw_hot": 146388,
+      "num": 456704,
+      "word": "建议加强整治共享充电宝刺客",
+      "onboard_time": 1709976869,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 145914,
@@ -1689,14 +1729,6 @@
       "onboard_time": 1709900909,
       "rank": 19,
       "category": "国内时政,健康医疗"
-    },
-    {
-      "raw_hot": 138076,
-      "num": 456704,
-      "word": "建议加强整治共享充电宝刺客",
-      "onboard_time": 1709976869,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 137579,
@@ -1819,6 +1851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123915,
+      "num": 123915,
+      "word": "鹏鹏说这五年很幸运",
+      "onboard_time": 1709980471,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122427,
       "num": 122427,
       "word": "小孩哥把导盲犬的样子讲给它主人听",
@@ -1841,6 +1881,14 @@
       "onboard_time": 1709966311,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121068,
+      "num": 121068,
+      "word": "乔兮敖隐包C的",
+      "onboard_time": 1709980111,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 120196,
@@ -1955,6 +2003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 101164,
+      "num": 117248,
+      "word": "建议领导不要给下属太大压力",
+      "onboard_time": 1709980410,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 100203,
       "num": 100203,
       "word": "张凌赫武汉",
@@ -1980,7 +2036,7 @@
     },
     {
       "raw_hot": 99458,
-      "num": 883854,
+      "num": 1075541,
       "word": "民生主题记者会",
       "onboard_time": 1709968350,
       "rank": 32,

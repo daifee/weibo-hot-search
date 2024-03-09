@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709979579188,
+  "endTime": 1709980531796,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -728,6 +728,14 @@
       "word": "工资不高房价却很高的城市",
       "onboard_time": 1709701172,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1421100,
+      "num": 1421100,
+      "word": "女子吃麻辣烫被乱数签多算123元",
+      "onboard_time": 1709976810,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2075,14 +2083,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 869145,
-      "num": 869145,
-      "word": "女子吃麻辣烫被乱数签多算123元",
-      "onboard_time": 1709976810,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 867045,
       "num": 867045,
       "word": "江苏南通5死13伤爆炸事故原因公布",
@@ -3265,6 +3265,14 @@
       "onboard_time": 1709891187,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 679182,
+      "num": 537966,
+      "word": "苹果 无聊的水果",
+      "onboard_time": 1709976991,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 678137,
@@ -4691,14 +4699,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 537966,
-      "num": 537966,
-      "word": "苹果 无聊的水果",
-      "onboard_time": 1709976991,
-      "rank": 5,
-      "category": "美食"
-    },
-    {
       "raw_hot": 537479,
       "num": 537479,
       "word": "周鸿祎称国内PPT泛滥成灾",
@@ -6107,6 +6107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 438139,
+      "num": 386361,
+      "word": "王一博去了盗梦空间的取景桥",
+      "onboard_time": 1709979512,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 438130,
       "num": 313399,
       "word": "TheShy疑似恋爱",
@@ -6129,6 +6137,14 @@
       "onboard_time": 1709905110,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 437055,
+      "num": 437055,
+      "word": "教资科三",
+      "onboard_time": 1709979751,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 436872,
@@ -6417,6 +6433,14 @@
       "onboard_time": 1709365112,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 418337,
+      "num": 457484,
+      "word": "男子三八节买2根金条打手镯送妻子",
+      "onboard_time": 1709977832,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 418296,
@@ -7425,14 +7449,6 @@
       "onboard_time": 1709968171,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 365665,
-      "num": 457484,
-      "word": "男子三八节买2根金条打手镯送妻子",
-      "onboard_time": 1709977832,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365010,
@@ -8667,6 +8683,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 309367,
+      "num": 463258,
+      "word": "孩子高烧惊厥妈妈摔倒仍死死抱住",
+      "onboard_time": 1709977832,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309236,
       "num": 261693,
       "word": "能忍住不扣美甲的都是狠人",
@@ -9611,14 +9635,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 277415,
-      "num": 463258,
-      "word": "孩子高烧惊厥妈妈摔倒仍死死抱住",
-      "onboard_time": 1709977832,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 277013,
       "num": 277013,
       "word": "2023年经济社会发展主要目标任务圆满完成",
@@ -10145,6 +10161,14 @@
       "onboard_time": 1709475215,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262636,
+      "num": 262636,
+      "word": "王星越晒沈月拍的照",
+      "onboard_time": 1709978430,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 262629,
@@ -11041,14 +11065,6 @@
       "onboard_time": 1709546133,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 236361,
-      "num": 236361,
-      "word": "王星越晒沈月拍的照",
-      "onboard_time": 1709978430,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 236300,
@@ -12353,14 +12369,6 @@
       "onboard_time": 1709352269,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 210106,
-      "num": 210106,
-      "word": "王一博去了盗梦空间的取景桥",
-      "onboard_time": 1709979512,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 210080,
@@ -14579,6 +14587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182914,
+      "num": 182914,
+      "word": "女友说我是典型穷过的小孩",
+      "onboard_time": 1709978672,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182813,
       "num": 182813,
       "word": "王一博登VOGUE英国",
@@ -15827,6 +15843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170042,
+      "num": 170042,
+      "word": "唐探2有尹子维",
+      "onboard_time": 1709979391,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169902,
       "num": 169902,
       "word": "女神节收到的公司福利",
@@ -16233,14 +16257,6 @@
       "onboard_time": 1709808812,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 165850,
-      "num": 165850,
-      "word": "唐探2有尹子维",
-      "onboard_time": 1709979391,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 165680,
@@ -17467,6 +17483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154689,
+      "num": 154689,
+      "word": "绝不给台独分裂行径留一丝一毫空间",
+      "onboard_time": 1709980172,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 154534,
       "num": 134768,
       "word": "不会游泳但肺活量强",
@@ -17777,6 +17801,14 @@
       "onboard_time": 1709709689,
       "rank": 35,
       "category": "美食,科学科普"
+    },
+    {
+      "raw_hot": 151474,
+      "num": 151474,
+      "word": "解放军练兵备战打独促统",
+      "onboard_time": 1709980111,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 151435,
@@ -18345,6 +18377,14 @@
       "onboard_time": 1709817092,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 146388,
+      "num": 456704,
+      "word": "建议加强整治共享充电宝刺客",
+      "onboard_time": 1709976869,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 146220,
@@ -19281,14 +19321,6 @@
       "onboard_time": 1709898571,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 138076,
-      "num": 456704,
-      "word": "建议加强整治共享充电宝刺客",
-      "onboard_time": 1709976869,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 137941,
@@ -20835,6 +20867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123915,
+      "num": 123915,
+      "word": "鹏鹏说这五年很幸运",
+      "onboard_time": 1709980471,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123886,
       "num": 123886,
       "word": "苏醒团队代发剧照",
@@ -21201,6 +21241,14 @@
       "onboard_time": 1709966311,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121068,
+      "num": 121068,
+      "word": "乔兮敖隐包C的",
+      "onboard_time": 1709980111,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 120913,
@@ -22915,6 +22963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101164,
+      "num": 117248,
+      "word": "建议领导不要给下属太大压力",
+      "onboard_time": 1709980410,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 101119,
       "num": 101119,
       "word": "五美组合将重组",
@@ -23004,7 +23060,7 @@
     },
     {
       "raw_hot": 99458,
-      "num": 883854,
+      "num": 1075541,
       "word": "民生主题记者会",
       "onboard_time": 1709968350,
       "rank": 32,
