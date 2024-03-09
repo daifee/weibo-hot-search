@@ -1,6 +1,6 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709997350382,
+  "endTime": 1709998445062,
   "band_list": [
     {
       "raw_hot": 4193971,
@@ -291,6 +291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 827975,
+      "num": 351077,
+      "word": "苹果和安卓的天气预报不一样",
+      "onboard_time": 1709994454,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 817122,
       "num": 817122,
       "word": "巴黎奥运会开幕式定档",
@@ -417,14 +425,6 @@
       "onboard_time": 1709967689,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 684898,
-      "num": 351077,
-      "word": "苹果和安卓的天气预报不一样",
-      "onboard_time": 1709994454,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 679182,
@@ -899,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349549,
+      "num": 285540,
+      "word": "章若楠好港",
+      "onboard_time": 1709997212,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 349405,
       "num": 349405,
       "word": "张志磊无缘卫冕拳王",
@@ -1048,6 +1056,14 @@
       "word": "全员加速中回应争议",
       "onboard_time": 1709940683,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 294667,
+      "num": 247726,
+      "word": "彭奶奶",
+      "onboard_time": 1709996315,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -1219,6 +1235,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 256626,
+      "num": 256626,
+      "word": "女子染发10余年致头皮胎记癌变",
+      "onboard_time": 1709997031,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253362,
       "num": 253362,
       "word": "与凤行碧苍云起预告",
@@ -1259,14 +1283,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 247726,
-      "num": 247726,
-      "word": "彭奶奶",
-      "onboard_time": 1709996315,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 246995,
       "num": 246995,
       "word": "在孩子手机里发现的",
@@ -1305,6 +1321,14 @@
       "onboard_time": 1709986534,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 242057,
+      "num": 242057,
+      "word": "王锵徐若晗还原东宫名场面",
+      "onboard_time": 1709997394,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 239942,
@@ -2083,14 +2107,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 159282,
-      "num": 159282,
-      "word": "章若楠好港",
-      "onboard_time": 1709997212,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 158281,
       "num": 158281,
       "word": "与凤行预约破600万",
@@ -2123,6 +2139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155328,
+      "num": 155328,
+      "word": "普通家庭这样的生活算穷吗",
+      "onboard_time": 1709995177,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155159,
       "num": 155159,
       "word": "Uzi韩服排位现状",
@@ -2153,6 +2177,14 @@
       "onboard_time": 1709992173,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152203,
+      "num": 152203,
+      "word": "爱在黎明前降落",
+      "onboard_time": 1709997994,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 151401,
@@ -2881,14 +2913,6 @@
       "onboard_time": 1709916745,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 89692,
-      "num": 121002,
-      "word": "女子染发10余年致头皮胎记癌变",
-      "onboard_time": 1709997031,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86976,
