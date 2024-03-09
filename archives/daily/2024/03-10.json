@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710008392414,
+  "endTime": 1710009249633,
   "band_list": [
     {
       "raw_hot": 800961,
@@ -211,7 +211,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 144835,
+      "raw_hot": 159045,
       "num": 75487,
       "word": "学生睡不醒班主任背到医院",
       "onboard_time": 1710004702,
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93072,
+      "num": 93072,
+      "word": "热辣滚烫海外成绩",
+      "onboard_time": 1710007759,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 92730,
       "num": 95321,
       "word": "黄俊捷 你算是惹到棉花啦",
@@ -345,14 +353,6 @@
       "onboard_time": 1709996796,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82979,
-      "num": 82979,
-      "word": "热辣滚烫海外成绩",
-      "onboard_time": 1710007759,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 63537,
@@ -393,6 +393,14 @@
       "onboard_time": 1710001050,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54167,
+      "num": 54167,
+      "word": "优酷回复赵丽颖片单",
+      "onboard_time": 1710009078,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 52517,
