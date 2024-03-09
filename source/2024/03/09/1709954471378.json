@@ -1,0 +1,410 @@
+{
+  "runTime": 1709954471378,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2477118,
+        "num": 2477118,
+        "word": "教资",
+        "onboard_time": 1709953831,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1007294,
+        "num": 1007294,
+        "word": "金价杀疯了",
+        "onboard_time": 1709909731,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 14456,
+        "num": 935279,
+        "word": "最高法工作报告",
+        "onboard_time": 1709864308,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 934217,
+        "num": 934217,
+        "word": "教资作文",
+        "onboard_time": 1709946208,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 900279,
+        "num": 900279,
+        "word": "黑色大丽花",
+        "onboard_time": 1709950528,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883752,
+        "num": 883752,
+        "word": "吵架炸出来疑似北大教授",
+        "onboard_time": 1709941586,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 817122,
+        "num": 817122,
+        "word": "巴黎奥运会开幕式定档",
+        "onboard_time": 1709951128,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 792589,
+        "num": 792589,
+        "word": "赵丽颖是主演也是监制",
+        "onboard_time": 1709953109,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 553558,
+        "num": 553558,
+        "word": "节育环真的是让子宫不断发炎来避孕吗",
+        "onboard_time": 1709949630,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 45391,
+        "num": 533581,
+        "word": "两高报告折射哪些法治进步",
+        "onboard_time": 1709950050,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1561600,
+        "num": 531657,
+        "word": "蓝可儿等16人殒命酒店挂牌出售",
+        "onboard_time": 1709942365,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527363,
+        "num": 527363,
+        "word": "顾客称做美甲被店家直播1小时",
+        "onboard_time": 1709945186,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505968,
+        "num": 505968,
+        "word": "分析称黄金已超买需警惕回调",
+        "onboard_time": 1709948310,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 490071,
+        "num": 490071,
+        "word": "霉霉演唱会 樊振东",
+        "onboard_time": 1709940805,
+        "rank": 13,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 462375,
+        "num": 462375,
+        "word": "教资答案",
+        "onboard_time": 1709954011,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 435720,
+        "num": 435720,
+        "word": "得知她要买房全家最反对的人是弟弟",
+        "onboard_time": 1709952989,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 429920,
+        "num": 429920,
+        "word": "你叫我姐姐你多大呀",
+        "onboard_time": 1709941947,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413988,
+        "num": 413988,
+        "word": "姑娘失明后成为一名盲人化妆师",
+        "onboard_time": 1709946928,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316480,
+        "num": 316480,
+        "word": "檀健次认出多年前签名粉丝",
+        "onboard_time": 1709952569,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 305168,
+        "num": 305168,
+        "word": "教资笔试今天开考",
+        "onboard_time": 1709942245,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 287942,
+        "num": 287942,
+        "word": "小夫妻花5000元办了场极极极简婚礼",
+        "onboard_time": 1709940321,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285891,
+        "num": 285891,
+        "word": "周杰伦昆凌飞奔相拥",
+        "onboard_time": 1709939900,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285484,
+        "num": 285484,
+        "word": "山河枕",
+        "onboard_time": 1709953350,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263541,
+        "num": 263541,
+        "word": "老师打电话屏幕上涌出一堆小脑袋",
+        "onboard_time": 1709948790,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253362,
+        "num": 253362,
+        "word": "与凤行碧苍云起预告",
+        "onboard_time": 1709951909,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252207,
+        "num": 252207,
+        "word": "全员加速中回应争议",
+        "onboard_time": 1709940683,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239942,
+        "num": 239942,
+        "word": "赵丽颖新剧演凤凰",
+        "onboard_time": 1709953529,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237469,
+        "num": 237469,
+        "word": "iPhone16Pro渲染图再曝光",
+        "onboard_time": 1709943388,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 227951,
+        "num": 227951,
+        "word": "张家界为啥成了韩国人的尽孝圣地",
+        "onboard_time": 1709953350,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 208901,
+        "num": 208901,
+        "word": "蓝可儿",
+        "onboard_time": 1709945909,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205337,
+        "num": 205337,
+        "word": "35岁女儿离婚父亲安慰说都过去了",
+        "onboard_time": 1709920159,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205008,
+        "num": 205008,
+        "word": "你好星期六",
+        "onboard_time": 1709951968,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202059,
+        "num": 202059,
+        "word": "教资科一",
+        "onboard_time": 1709954371,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197426,
+        "num": 197426,
+        "word": "宝宝被爸爸说是臭宝后拒绝贴贴",
+        "onboard_time": 1709951487,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189634,
+        "num": 189634,
+        "word": "23岁女子长期熬夜诱发乳腺癌",
+        "onboard_time": 1709939063,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186620,
+        "num": 186620,
+        "word": "与凤行定档",
+        "onboard_time": 1709906912,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184811,
+        "num": 184811,
+        "word": "浙江9.2万考生参加教资笔试",
+        "onboard_time": 1709952631,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175825,
+        "num": 175825,
+        "word": "杰伦格林39岁女友怀孕",
+        "onboard_time": 1709952989,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169426,
+        "num": 169426,
+        "word": "减肥神药撑起一个国家",
+        "onboard_time": 1709939900,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167882,
+        "num": 167882,
+        "word": "赵丽颖片单",
+        "onboard_time": 1709951306,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166876,
+        "num": 166876,
+        "word": "黄子弘凡认王栎鑫叫义父",
+        "onboard_time": 1709950650,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170512,
+        "num": 164909,
+        "word": "比特币首破70000美元",
+        "onboard_time": 1709949270,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160705,
+        "num": 160705,
+        "word": "皮肤到底能白到什么程度",
+        "onboard_time": 1709944831,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 152833,
+        "num": 152833,
+        "word": "INFP的穿搭",
+        "onboard_time": 1709954251,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 152444,
+        "num": 152444,
+        "word": "英伟达市值一夜蒸发9200亿元",
+        "onboard_time": 1709953771,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150389,
+        "num": 150389,
+        "word": "姚明回应男篮88年首次输日本",
+        "onboard_time": 1709951609,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144617,
+        "num": 144617,
+        "word": "朋友圈背景图",
+        "onboard_time": 1709952930,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136352,
+        "num": 136352,
+        "word": "欧盟iPhone用户将可卸载Safari浏览器",
+        "onboard_time": 1709954312,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134109,
+        "num": 134109,
+        "word": "李秀满出售SM获5300亿韩元",
+        "onboard_time": 1709923939,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131169,
+        "num": 131169,
+        "word": "巴黎奥运会开幕式将动用180艘船",
+        "onboard_time": 1709950828,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
