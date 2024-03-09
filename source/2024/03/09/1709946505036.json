@@ -1,0 +1,410 @@
+{
+  "runTime": 1709946505036,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1150629,
+        "num": 1150629,
+        "word": "金价杀疯了",
+        "onboard_time": 1709909731,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 647916,
+        "num": 647916,
+        "word": "小夫妻花5000元办了场极极极简婚礼",
+        "onboard_time": 1709940321,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13754,
+        "num": 517079,
+        "word": "最高法工作报告",
+        "onboard_time": 1709864308,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 500677,
+        "num": 500677,
+        "word": "35岁女儿离婚父亲安慰说都过去了",
+        "onboard_time": 1709920159,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471841,
+        "num": 471841,
+        "word": "你叫我姐姐你多大呀",
+        "onboard_time": 1709941947,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 442465,
+        "num": 442465,
+        "word": "中方回应印度在中印边境部署1万士兵",
+        "onboard_time": 1709941344,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 399690,
+        "num": 399690,
+        "word": "减肥神药撑起一个国家",
+        "onboard_time": 1709939900,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349405,
+        "num": 349405,
+        "word": "张志磊无缘卫冕拳王",
+        "onboard_time": 1709943629,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307167,
+        "num": 307167,
+        "word": "赵丽颖林更新拍立得好甜",
+        "onboard_time": 1709939602,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127784,
+        "num": 305364,
+        "word": "教资笔试今天开考",
+        "onboard_time": 1709942245,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2282245,
+        "num": 299856,
+        "word": "蓝可儿等16人殒命酒店挂牌出售",
+        "onboard_time": 1709942365,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1039865,
+        "num": 297829,
+        "word": "吵架炸出来疑似北大教授",
+        "onboard_time": 1709941586,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 543340,
+        "num": 294677,
+        "word": "霉霉演唱会 樊振东",
+        "onboard_time": 1709940805,
+        "rank": 12,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 476527,
+        "num": 292366,
+        "word": "周杰伦昆凌飞奔相拥",
+        "onboard_time": 1709939900,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416028,
+        "num": 286417,
+        "word": "iPhone16Pro渲染图再曝光",
+        "onboard_time": 1709943388,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 335217,
+        "num": 283540,
+        "word": "皮肤到底能白到什么程度",
+        "onboard_time": 1709944831,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 281513,
+        "num": 281513,
+        "word": "全员加速中回应争议",
+        "onboard_time": 1709940683,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253686,
+        "num": 253686,
+        "word": "顾客称做美甲被店家直播1小时",
+        "onboard_time": 1709945186,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266005,
+        "num": 253012,
+        "word": "有没有人夸夸谢依霖啊",
+        "onboard_time": 1709941825,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241215,
+        "num": 241215,
+        "word": "怀孕前一定要对乳房做全面检查",
+        "onboard_time": 1709884471,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 369927,
+        "num": 237310,
+        "word": "男子39岁未婚连续五年被妈妈带去精神科检查",
+        "onboard_time": 1709943450,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314618,
+        "num": 235371,
+        "word": "23岁女子长期熬夜诱发乳腺癌",
+        "onboard_time": 1709939063,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 299606,
+        "num": 231831,
+        "word": "蓝可儿",
+        "onboard_time": 1709945909,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222655,
+        "num": 222655,
+        "word": "后知后觉被相亲男测试了服从性",
+        "onboard_time": 1709910214,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208549,
+        "num": 208549,
+        "word": "宁波现在最尴尬的房子",
+        "onboard_time": 1709910513,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206231,
+        "num": 206231,
+        "word": "何猷君奚梦瑶参加新船下水礼",
+        "onboard_time": 1709909012,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197292,
+        "num": 197292,
+        "word": "工资决定我的外表",
+        "onboard_time": 1709944650,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179080,
+        "num": 179080,
+        "word": "与凤行定档",
+        "onboard_time": 1709906912,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176548,
+        "num": 176548,
+        "word": "樱桃小丸子的声优去世",
+        "onboard_time": 1709939722,
+        "rank": 28,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 102305,
+        "num": 167951,
+        "word": "拜登正说美变得更安全现场死亡美军父亲喊叫抗议",
+        "onboard_time": 1709930535,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 162627,
+        "num": 162627,
+        "word": "广东女子被咬伤后拎着毒蛇冲进医院",
+        "onboard_time": 1709939602,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161207,
+        "num": 161207,
+        "word": "代表建议女性带薪育假产长达2年",
+        "onboard_time": 1709942307,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156039,
+        "num": 156039,
+        "word": "美一架波音737冲出跑道",
+        "onboard_time": 1709945009,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 143944,
+        "num": 143944,
+        "word": "其实一周休三天才是最合理的",
+        "onboard_time": 1709903670,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137579,
+        "num": 137579,
+        "word": "女子分享穷养孩子四年的经验",
+        "onboard_time": 1709944109,
+        "rank": 34,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 137029,
+        "num": 137029,
+        "word": "英伟达",
+        "onboard_time": 1709944770,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135901,
+        "num": 135901,
+        "word": "李秀满出售SM获5300亿韩元",
+        "onboard_time": 1709923939,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132469,
+        "num": 132469,
+        "word": "沙丘",
+        "onboard_time": 1709946029,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132335,
+        "num": 132335,
+        "word": "不良执念清除师监制质疑大侦探设定",
+        "onboard_time": 1709941285,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129883,
+        "num": 129883,
+        "word": "这3个年龄段易断崖式衰老",
+        "onboard_time": 1709911712,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125763,
+        "num": 125763,
+        "word": "阮经天对妈妈60多岁离婚的看法",
+        "onboard_time": 1709912016,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121322,
+        "num": 121322,
+        "word": "全员加速中 迟到",
+        "onboard_time": 1709906851,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117429,
+        "num": 117429,
+        "word": "陈晓新剧 睡在我上铺的老婆",
+        "onboard_time": 1709902530,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115327,
+        "num": 115327,
+        "word": "人大代表提到迪丽热巴",
+        "onboard_time": 1709910330,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115000,
+        "num": 115000,
+        "word": "61岁双胞胎宝妈回应高龄产子",
+        "onboard_time": 1709914111,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111925,
+        "num": 111925,
+        "word": "万科6.47亿美元全数偿付到期票据本息",
+        "onboard_time": 1709939781,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110615,
+        "num": 110615,
+        "word": "女性体检报告上8个高频词",
+        "onboard_time": 1709939900,
+        "rank": 46,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 110256,
+        "num": 110256,
+        "word": "教资作文",
+        "onboard_time": 1709946208,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104423,
+        "num": 104423,
+        "word": "27岁宝妈与自己的妊娠纹和解了",
+        "onboard_time": 1709945729,
+        "rank": 48,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 103529,
+        "num": 103529,
+        "word": "别对我动心 校草打太极",
+        "onboard_time": 1709946390,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记首次同新设立的政协界别委员见面#"
+    }
+  }
+}
