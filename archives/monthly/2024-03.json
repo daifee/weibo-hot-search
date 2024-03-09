@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709994842057,
+  "endTime": 1709997350382,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1955,6 +1955,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 914483,
+      "num": 914483,
+      "word": "宁静打了焉栩嘉一耳光",
+      "onboard_time": 1709995714,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 913814,
       "num": 913814,
       "word": "11届快女 最癫的选秀",
@@ -2153,6 +2161,14 @@
       "onboard_time": 1709807730,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 868483,
+      "num": 357146,
+      "word": "艾滋病感染者抗病毒治疗成功率已超95%",
+      "onboard_time": 1709994814,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 867045,
@@ -3123,6 +3139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 707340,
+      "num": 707340,
+      "word": "孟羽童回应简介是前500强董事长秘书",
+      "onboard_time": 1709992654,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 707197,
       "num": 664750,
       "word": "奥利C位出道",
@@ -3305,6 +3329,14 @@
       "onboard_time": 1709393850,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 684898,
+      "num": 351077,
+      "word": "苹果和安卓的天气预报不一样",
+      "onboard_time": 1709994454,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 684754,
@@ -3617,14 +3649,6 @@
       "onboard_time": 1709703093,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 650669,
-      "num": 650669,
-      "word": "孟羽童回应简介是前500强董事长秘书",
-      "onboard_time": 1709992654,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 650247,
@@ -6265,6 +6289,14 @@
       "onboard_time": 1709899288,
       "rank": 14,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 439872,
+      "num": 348727,
+      "word": "孟羽童回应收入",
+      "onboard_time": 1709994696,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 439616,
@@ -10883,6 +10915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247726,
+      "num": 247726,
+      "word": "彭奶奶",
+      "onboard_time": 1709996315,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246995,
       "num": 246995,
       "word": "在孩子手机里发现的",
@@ -13075,6 +13115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205172,
+      "num": 187044,
+      "word": "论文导师是懂批注的",
+      "onboard_time": 1709996016,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205145,
       "num": 156885,
       "word": "石凯深圳",
@@ -13585,6 +13633,14 @@
       "onboard_time": 1709296471,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199230,
+      "num": 199230,
+      "word": "沙丘2",
+      "onboard_time": 1709995177,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 199218,
@@ -14923,6 +14979,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 183855,
+      "num": 183855,
+      "word": "李菲儿作品曾入围戛纳电影节",
+      "onboard_time": 1709996371,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183768,
       "num": 183768,
       "word": "陈丽君 豌豆射手",
@@ -15803,6 +15867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175193,
+      "num": 188830,
+      "word": "奶奶珍藏十多年的塑料手链",
+      "onboard_time": 1709996254,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175136,
       "num": 175136,
       "word": "大学恋爱和社会恋爱",
@@ -16105,14 +16177,6 @@
       "onboard_time": 1709698832,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 172120,
-      "num": 285584,
-      "word": "孟羽童回应收入",
-      "onboard_time": 1709994696,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171925,
@@ -17403,6 +17467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159282,
+      "num": 159282,
+      "word": "章若楠好港",
+      "onboard_time": 1709997212,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 159230,
       "num": 159230,
       "word": "HAHA想要的爱豆公开恋爱的方式",
@@ -18411,6 +18483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 150728,
+      "num": 150728,
+      "word": "李兰迪林一身高差",
+      "onboard_time": 1709996796,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150724,
       "num": 150724,
       "word": "张凌赫开始推理吧从崩溃到享受",
@@ -18425,6 +18505,14 @@
       "onboard_time": 1709822254,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 150684,
+      "num": 150684,
+      "word": "张杰与80位歌迷对视流泪",
+      "onboard_time": 1709995653,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 150632,
@@ -19108,7 +19196,7 @@
     },
     {
       "raw_hot": 145140,
-      "num": 134710,
+      "num": 144601,
       "word": "金东彬没出道",
       "onboard_time": 1709994576,
       "rank": 41,
@@ -19601,14 +19689,6 @@
       "onboard_time": 1709470711,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 140347,
-      "num": 140347,
-      "word": "苹果和安卓的天气预报不一样",
-      "onboard_time": 1709994454,
-      "rank": 38,
-      "category": "数码"
     },
     {
       "raw_hot": 140229,
@@ -22739,6 +22819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112681,
+      "num": 159289,
+      "word": "TES3比1战胜LGD",
+      "onboard_time": 1709995714,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112672,
       "num": 112672,
       "word": "凯尔特人52分大胜勇士",
@@ -23041,14 +23129,6 @@
       "onboard_time": 1709623953,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 108836,
-      "num": 108836,
-      "word": "艾滋病感染者抗病毒治疗成功率已超95%",
-      "onboard_time": 1709994814,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 108743,
@@ -24123,6 +24203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89692,
+      "num": 121002,
+      "word": "女子染发10余年致头皮胎记癌变",
+      "onboard_time": 1709997031,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89654,
       "num": 89654,
       "word": "烟火人家大结局",
@@ -24329,6 +24417,14 @@
       "onboard_time": 1709644592,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82886,
+      "num": 120505,
+      "word": "霍启刚建议实现大湾区体育教练资格互认",
+      "onboard_time": 1709994513,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 82714,
