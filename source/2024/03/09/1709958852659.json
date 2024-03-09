@@ -1,0 +1,410 @@
+{
+  "runTime": 1709958852659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1689411,
+        "num": 1689411,
+        "word": "教资",
+        "onboard_time": 1709953831,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 964410,
+        "num": 964410,
+        "word": "女生26岁裸辞做约拍月入3万",
+        "onboard_time": 1709956591,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49312,
+        "num": 806456,
+        "word": "两会数读中国",
+        "onboard_time": 1709956469,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1538603,
+        "num": 804641,
+        "word": "腾讯芒果要打起来了",
+        "onboard_time": 1709955572,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 722177,
+        "num": 722177,
+        "word": "锦瑟无端五十弦",
+        "onboard_time": 1709957849,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 720067,
+        "num": 720067,
+        "word": "教资答案",
+        "onboard_time": 1709954011,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 660062,
+        "num": 660062,
+        "word": "考研国家线",
+        "onboard_time": 1709955931,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 656066,
+        "num": 656066,
+        "word": "韩国仍有超1.1万名医生未返岗",
+        "onboard_time": 1709954911,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482908,
+        "num": 482908,
+        "word": "金价杀疯了",
+        "onboard_time": 1709909731,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 43248,
+        "num": 442299,
+        "word": "两高报告折射哪些法治进步",
+        "onboard_time": 1709950050,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1166756,
+        "num": 441449,
+        "word": "蓝可儿等16人殒命酒店挂牌出售",
+        "onboard_time": 1709942365,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636511,
+        "num": 434981,
+        "word": "节育环真的是让子宫不断发炎来避孕吗",
+        "onboard_time": 1709949630,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 428490,
+        "num": 428490,
+        "word": "赵丽颖是主演也是监制",
+        "onboard_time": 1709953109,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402731,
+        "num": 402731,
+        "word": "霉霉演唱会 樊振东",
+        "onboard_time": 1709940805,
+        "rank": 13,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 376641,
+        "num": 376641,
+        "word": "忽然发现甄嬛传好像没有吻戏",
+        "onboard_time": 1709956110,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371089,
+        "num": 371089,
+        "word": "吵架炸出来疑似北大教授",
+        "onboard_time": 1709941586,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 357924,
+        "num": 357924,
+        "word": "教资选择 难",
+        "onboard_time": 1709955208,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 341791,
+        "num": 341791,
+        "word": "从此不敢看黑狗",
+        "onboard_time": 1709954787,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334451,
+        "num": 334451,
+        "word": "李现周雨彤吻戏海报",
+        "onboard_time": 1709956110,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304751,
+        "num": 304751,
+        "word": "黑色大丽花",
+        "onboard_time": 1709950528,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295526,
+        "num": 295526,
+        "word": "毛雪汪官宣张晚意",
+        "onboard_time": 1709958388,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261866,
+        "num": 261866,
+        "word": "尽量别去亲戚公司上班",
+        "onboard_time": 1709957790,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249778,
+        "num": 249778,
+        "word": "张家界为啥成了韩国人的尽孝圣地",
+        "onboard_time": 1709953350,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 248053,
+        "num": 248053,
+        "word": "腾讯视频9号开放日",
+        "onboard_time": 1709955990,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237950,
+        "num": 237950,
+        "word": "周扬青 浪姐",
+        "onboard_time": 1709958273,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211538,
+        "num": 211538,
+        "word": "你叫我姐姐你多大呀",
+        "onboard_time": 1709941947,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198898,
+        "num": 198898,
+        "word": "英伟达市值一夜蒸发9200亿元",
+        "onboard_time": 1709953771,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198886,
+        "num": 198886,
+        "word": "檀健次认出多年前签名粉丝",
+        "onboard_time": 1709952569,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195930,
+        "num": 195930,
+        "word": "尚雯婕朱丹一公分组",
+        "onboard_time": 1709957911,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187087,
+        "num": 187087,
+        "word": "李商隐你耍我",
+        "onboard_time": 1709958691,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206264,
+        "num": 183408,
+        "word": "狗狗被禁止出席奥斯卡颁奖典礼",
+        "onboard_time": 1709958450,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195365,
+        "num": 179324,
+        "word": "萨摩耶把猫猫的头含进了嘴里",
+        "onboard_time": 1709958089,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172906,
+        "num": 172906,
+        "word": "山河枕",
+        "onboard_time": 1709953350,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170886,
+        "num": 170886,
+        "word": "姑娘失明后成为一名盲人化妆师",
+        "onboard_time": 1709946928,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164148,
+        "num": 164148,
+        "word": "巴黎奥运会开幕式定档",
+        "onboard_time": 1709951128,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155277,
+        "num": 155277,
+        "word": "蓝可儿",
+        "onboard_time": 1709945909,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152349,
+        "num": 152349,
+        "word": "全员加速中回应争议",
+        "onboard_time": 1709940683,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152196,
+        "num": 152196,
+        "word": "顾客称做美甲被店家直播1小时",
+        "onboard_time": 1709945186,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150772,
+        "num": 150772,
+        "word": "INFP的穿搭",
+        "onboard_time": 1709954251,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 147764,
+        "num": 147764,
+        "word": "iPhone16Pro渲染图再曝光",
+        "onboard_time": 1709943388,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138689,
+        "num": 138689,
+        "word": "教资作文",
+        "onboard_time": 1709946208,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135070,
+        "num": 135070,
+        "word": "她提要求我很开心",
+        "onboard_time": 1709958450,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134943,
+        "num": 134943,
+        "word": "钎城发文感谢一路陪伴",
+        "onboard_time": 1709957369,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132786,
+        "num": 132786,
+        "word": "教资作文立意",
+        "onboard_time": 1709957489,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130928,
+        "num": 130928,
+        "word": "综合素质",
+        "onboard_time": 1709955270,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130764,
+        "num": 130764,
+        "word": "哲学博士发起疯来果然不一样",
+        "onboard_time": 1709957310,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130181,
+        "num": 130181,
+        "word": "与凤行碧苍云起预告",
+        "onboard_time": 1709951909,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125129,
+        "num": 125129,
+        "word": "第一次见和狗狗抢电梯的",
+        "onboard_time": 1709954730,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121481,
+        "num": 121481,
+        "word": "实用洗鞋小技巧",
+        "onboard_time": 1709957250,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 118580,
+        "num": 118580,
+        "word": "周杰伦昆凌飞奔相拥",
+        "onboard_time": 1709939900,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
