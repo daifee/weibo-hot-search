@@ -1,6 +1,6 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709958852659,
+  "endTime": 1709961597239,
   "band_list": [
     {
       "raw_hot": 4193971,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 1609919,
-      "num": 804641,
+      "num": 897420,
       "word": "腾讯芒果要打起来了",
       "onboard_time": 1709955572,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1400305,
+      "num": 1400305,
+      "word": "女生26岁裸辞做约拍月入3万",
+      "onboard_time": 1709956591,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1337029,
@@ -43,12 +51,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 964410,
-      "num": 964410,
-      "word": "女生26岁裸辞做约拍月入3万",
-      "onboard_time": 1709956591,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 1229468,
+      "num": 1229468,
+      "word": "锦瑟无端五十弦",
+      "onboard_time": 1709957849,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1191232,
+      "num": 1191232,
+      "word": "张杰听到女儿结婚的反应",
+      "onboard_time": 1709959531,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 934217,
@@ -83,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 851207,
+      "num": 851207,
+      "word": "李商隐你耍我",
+      "onboard_time": 1709958691,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 817122,
       "num": 817122,
       "word": "巴黎奥运会开幕式定档",
@@ -107,6 +131,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 773421,
+      "num": 773421,
+      "word": "沈月太会拍了",
+      "onboard_time": 1709959049,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 741764,
       "num": 741764,
       "word": "小夫妻花5000元办了场极极极简婚礼",
@@ -129,14 +161,6 @@
       "onboard_time": 1709952989,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 722177,
-      "num": 722177,
-      "word": "锦瑟无端五十弦",
-      "onboard_time": 1709957849,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 656066,
@@ -193,6 +217,22 @@
       "onboard_time": 1709910330,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 571192,
+      "num": 571192,
+      "word": "周扬青 浪姐",
+      "onboard_time": 1709958273,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 567023,
+      "num": 567023,
+      "word": "Jellycat快乐大使樊振东",
+      "onboard_time": 1709958871,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 557393,
@@ -355,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344510,
+      "num": 344510,
+      "word": "毛雪汪官宣张晚意",
+      "onboard_time": 1709958388,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341791,
       "num": 341791,
       "word": "从此不敢看黑狗",
@@ -385,6 +433,14 @@
       "onboard_time": 1709944650,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 318331,
+      "num": 318331,
+      "word": "狗狗被禁止出席奥斯卡颁奖典礼",
+      "onboard_time": 1709958450,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 316480,
@@ -419,14 +475,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 295526,
-      "num": 295526,
-      "word": "毛雪汪官宣张晚意",
-      "onboard_time": 1709958388,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 294687,
       "num": 294687,
       "word": "全员加速中回应争议",
@@ -440,6 +488,14 @@
       "word": "山河枕",
       "onboard_time": 1709953350,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 288933,
+      "num": 288933,
+      "word": "与凤行赵丽颖是配音",
+      "onboard_time": 1709960613,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -547,12 +603,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237950,
-      "num": 237950,
-      "word": "周扬青 浪姐",
-      "onboard_time": 1709958273,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 234921,
+      "num": 527050,
+      "word": "建议肿瘤基因检测纳入医保",
+      "onboard_time": 1709959711,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 234905,
+      "num": 189000,
+      "word": "爸爸甚至在没读乱回",
+      "onboard_time": 1709960792,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 231403,
@@ -619,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211109,
+      "num": 211109,
+      "word": "IU演唱会特别嘉宾LESSERAFIM",
+      "onboard_time": 1709959891,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208300,
       "num": 198049,
       "word": "男朋友家的小狗没有狗窝",
@@ -633,14 +705,6 @@
       "onboard_time": 1709907513,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206264,
-      "num": 183408,
-      "word": "狗狗被禁止出席奥斯卡颁奖典礼",
-      "onboard_time": 1709958450,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 205479,
@@ -731,19 +795,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188222,
+      "num": 188222,
+      "word": "兰博基尼被众泰追尾起火",
+      "onboard_time": 1709958992,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187644,
       "num": 187644,
       "word": "教资作文立意",
       "onboard_time": 1709957489,
       "rank": 31,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 187087,
-      "num": 187087,
-      "word": "李商隐你耍我",
-      "onboard_time": 1709958691,
-      "rank": 29,
       "category": "教育"
     },
     {
@@ -779,6 +843,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 178258,
+      "num": 178258,
+      "word": "赵丽颖演古装剧像满级大佬进新手村",
+      "onboard_time": 1709959829,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175825,
       "num": 175825,
       "word": "杰伦格林39岁女友怀孕",
@@ -809,6 +881,14 @@
       "onboard_time": 1709939602,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168255,
+      "num": 168255,
+      "word": "全球首部完全AI生成的长电影首映",
+      "onboard_time": 1709959170,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 167882,
@@ -881,6 +961,22 @@
       "onboard_time": 1709955270,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 155159,
+      "num": 155159,
+      "word": "Uzi韩服排位现状",
+      "onboard_time": 1709960129,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 151020,
+      "num": 151020,
+      "word": "委员称老师不减负学生也减不了",
+      "onboard_time": 1709960251,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 150389,
@@ -1049,6 +1145,22 @@
       "onboard_time": 1709948729,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124591,
+      "num": 124591,
+      "word": "张杰演唱会",
+      "onboard_time": 1709959891,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 122336,
+      "num": 122336,
+      "word": "没有妇女发明的一天",
+      "onboard_time": 1709961451,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 122091,
@@ -1348,7 +1460,7 @@
     },
     {
       "raw_hot": 51421,
-      "num": 806456,
+      "num": 1198682,
       "word": "两会数读中国",
       "onboard_time": 1709956469,
       "rank": 2,
@@ -1452,6 +1564,9 @@
     },
     {
       "word": "#总书记首次同新设立的政协界别委员见面#"
+    },
+    {
+      "word": "#习近平两会时间#"
     }
   ]
 }

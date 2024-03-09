@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709958852659,
+  "endTime": 1709961597239,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 1609919,
-      "num": 804641,
+      "num": 897420,
       "word": "腾讯芒果要打起来了",
       "onboard_time": 1709955572,
       "rank": 3,
@@ -729,6 +729,14 @@
       "onboard_time": 1709305231,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1400305,
+      "num": 1400305,
+      "word": "女生26岁裸辞做约拍月入3万",
+      "onboard_time": 1709956591,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1398834,
@@ -1003,6 +1011,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1229468,
+      "num": 1229468,
+      "word": "锦瑟无端五十弦",
+      "onboard_time": 1709957849,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1225834,
       "num": 1225834,
       "word": "建议中小学生每天都有一节体育课",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1709615493,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1191232,
+      "num": 1191232,
+      "word": "张杰听到女儿结婚的反应",
+      "onboard_time": 1709959531,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1187026,
@@ -1635,14 +1659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 964410,
-      "num": 964410,
-      "word": "女生26岁裸辞做约拍月入3万",
-      "onboard_time": 1709956591,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 964365,
       "num": 358414,
       "word": "杨紫的学生证",
@@ -2043,6 +2059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 851207,
+      "num": 851207,
+      "word": "李商隐你耍我",
+      "onboard_time": 1709958691,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 850163,
       "num": 850163,
       "word": "队长鹿晗合作新歌",
@@ -2427,6 +2451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 773421,
+      "num": 773421,
+      "word": "沈月太会拍了",
+      "onboard_time": 1709959049,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 772261,
       "num": 378406,
       "word": "刘亦菲谷爱凌坐一起",
@@ -2729,14 +2761,6 @@
       "onboard_time": 1709343267,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 722177,
-      "num": 722177,
-      "word": "锦瑟无端五十弦",
-      "onboard_time": 1709957849,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 721958,
@@ -4139,6 +4163,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 571192,
+      "num": 571192,
+      "word": "周扬青 浪姐",
+      "onboard_time": 1709958273,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 569237,
       "num": 522846,
       "word": "爱情公寓演员今昔对比",
@@ -4193,6 +4225,14 @@
       "onboard_time": 1709777249,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 567023,
+      "num": 567023,
+      "word": "Jellycat快乐大使樊振东",
+      "onboard_time": 1709958871,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 566481,
@@ -7579,6 +7619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 344510,
+      "num": 344510,
+      "word": "毛雪汪官宣张晚意",
+      "onboard_time": 1709958388,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343925,
       "num": 207083,
       "word": "阿莫西林仅适用于5种病症",
@@ -8179,6 +8227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318331,
+      "num": 318331,
+      "word": "狗狗被禁止出席奥斯卡颁奖典礼",
+      "onboard_time": 1709958450,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 317616,
       "num": 317616,
       "word": "原来生日有这么多隐藏福利",
@@ -8747,14 +8803,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 295526,
-      "num": 295526,
-      "word": "毛雪汪官宣张晚意",
-      "onboard_time": 1709958388,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 295312,
       "num": 277508,
       "word": "为何瑞幸不跟库迪打价格战了",
@@ -8985,6 +9033,14 @@
       "onboard_time": 1709880390,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288933,
+      "num": 288933,
+      "word": "与凤行赵丽颖是配音",
+      "onboard_time": 1709960613,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 288904,
@@ -10579,14 +10635,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 237950,
-      "num": 237950,
-      "word": "周扬青 浪姐",
-      "onboard_time": 1709958273,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237158,
       "num": 237158,
       "word": "李雪琴的记忆力",
@@ -10723,12 +10771,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234921,
+      "num": 527050,
+      "word": "建议肿瘤基因检测纳入医保",
+      "onboard_time": 1709959711,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 234920,
       "num": 234920,
       "word": "吞海 档案袋",
       "onboard_time": 1709379272,
       "rank": 17,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 234905,
+      "num": 189000,
+      "word": "爸爸甚至在没读乱回",
+      "onboard_time": 1709960792,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 234847,
@@ -11875,6 +11939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211109,
+      "num": 211109,
+      "word": "IU演唱会特别嘉宾LESSERAFIM",
+      "onboard_time": 1709959891,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 210885,
       "num": 210885,
       "word": "叠纸心意旗舰店",
@@ -12169,14 +12241,6 @@
       "onboard_time": 1709528735,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 206264,
-      "num": 183408,
-      "word": "狗狗被禁止出席奥斯卡颁奖典礼",
-      "onboard_time": 1709958450,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 206136,
@@ -13707,6 +13771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188222,
+      "num": 188222,
+      "word": "兰博基尼被众泰追尾起火",
+      "onboard_time": 1709958992,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188038,
       "num": 188038,
       "word": "宁可喝回南天的水也不喝自己碗里的",
@@ -13785,14 +13857,6 @@
       "onboard_time": 1709862628,
       "rank": 33,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 187087,
-      "num": 187087,
-      "word": "李商隐你耍我",
-      "onboard_time": 1709958691,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 187081,
@@ -14577,6 +14641,14 @@
       "onboard_time": 1709899288,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 178258,
+      "num": 178258,
+      "word": "赵丽颖演古装剧像满级大佬进新手村",
+      "onboard_time": 1709959829,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 178042,
@@ -15417,6 +15489,14 @@
       "onboard_time": 1709557713,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 168255,
+      "num": 168255,
+      "word": "全球首部完全AI生成的长电影首映",
+      "onboard_time": 1709959170,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 168232,
@@ -16803,6 +16883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155159,
+      "num": 155159,
+      "word": "Uzi韩服排位现状",
+      "onboard_time": 1709960129,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155113,
       "num": 145696,
       "word": "陈哲远包场檀健次电影",
@@ -17168,6 +17256,14 @@
       "word": "代表建议给居民身份证设密码",
       "onboard_time": 1709814091,
       "rank": 48,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 151020,
+      "num": 151020,
+      "word": "委员称老师不减负学生也减不了",
+      "onboard_time": 1709960251,
+      "rank": 39,
       "category": "国内时政"
     },
     {
@@ -20257,6 +20353,14 @@
       "onboard_time": 1709859990,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122336,
+      "num": 122336,
+      "word": "没有妇女发明的一天",
+      "onboard_time": 1709961451,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 122274,
@@ -23484,7 +23588,7 @@
     },
     {
       "raw_hot": 51421,
-      "num": 832448,
+      "num": 1198682,
       "word": "两会数读中国",
       "onboard_time": 1709632235,
       "rank": 2,
