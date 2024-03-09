@@ -1,0 +1,410 @@
+{
+  "runTime": 1709968495144,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1315965,
+        "num": 1315965,
+        "word": "茉酸奶回应大杯变小杯",
+        "onboard_time": 1709963908,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1000570,
+        "num": 1000570,
+        "word": "张杰听到女儿结婚的反应",
+        "onboard_time": 1709959531,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42797,
+        "num": 966503,
+        "word": "两会数读中国",
+        "onboard_time": 1709956469,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 936086,
+        "num": 936086,
+        "word": "谈了四个月就结婚是什么体验",
+        "onboard_time": 1709966129,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 862972,
+        "num": 862972,
+        "word": "教资",
+        "onboard_time": 1709953831,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 751577,
+        "num": 751577,
+        "word": "当舅妈让我考研考编考公三手抓",
+        "onboard_time": 1709966729,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 604458,
+        "num": 604458,
+        "word": "陈乔恩说魏大勋身上有明显女性特质",
+        "onboard_time": 1709963368,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591496,
+        "num": 591496,
+        "word": "爸爸甚至在没读乱回",
+        "onboard_time": 1709960792,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 588032,
+        "num": 588032,
+        "word": "女生26岁裸辞做约拍月入3万",
+        "onboard_time": 1709956591,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90666,
+        "num": 500404,
+        "word": "建议肿瘤基因检测纳入医保",
+        "onboard_time": 1709959711,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1681046,
+        "num": 497301,
+        "word": "小松菜奈生子",
+        "onboard_time": 1709963189,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470959,
+        "num": 470959,
+        "word": "蓝可儿等16人殒命酒店挂牌出售",
+        "onboard_time": 1709942365,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466231,
+        "num": 466231,
+        "word": "男子二婚拒付22万彩礼女方愤怒引产",
+        "onboard_time": 1709967270,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455149,
+        "num": 455149,
+        "word": "教资科二",
+        "onboard_time": 1709967689,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 393965,
+        "num": 393965,
+        "word": "腾讯芒果要打起来了",
+        "onboard_time": 1709955572,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390077,
+        "num": 390077,
+        "word": "锦瑟无端五十弦",
+        "onboard_time": 1709957849,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 372284,
+        "num": 372284,
+        "word": "沈月镜头下的孟子义",
+        "onboard_time": 1709962650,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298608,
+        "num": 298608,
+        "word": "杨洋清瘦了不少",
+        "onboard_time": 1709963971,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292443,
+        "num": 292443,
+        "word": "俞灏明痛失本名",
+        "onboard_time": 1709964210,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285838,
+        "num": 285838,
+        "word": "李现杀回现偶了",
+        "onboard_time": 1709968287,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279336,
+        "num": 279336,
+        "word": "计时领导上厕所时间做成表格",
+        "onboard_time": 1709967211,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277416,
+        "num": 277416,
+        "word": "每次接妹妹都有种人贩子的感觉",
+        "onboard_time": 1709965470,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259690,
+        "num": 259690,
+        "word": "每个9块9包邮背后都有快递员在叹息",
+        "onboard_time": 1709966070,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257091,
+        "num": 257091,
+        "word": "马里奥孝子名言 榴莲才不臭",
+        "onboard_time": 1709965289,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 235996,
+        "num": 235996,
+        "word": "谢霆锋说王菲不滑雪",
+        "onboard_time": 1709967629,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231467,
+        "num": 231467,
+        "word": "教资答案",
+        "onboard_time": 1709954011,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 218065,
+        "num": 218065,
+        "word": "节育环真的是让子宫不断发炎来避孕吗",
+        "onboard_time": 1709949630,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 214942,
+        "num": 214942,
+        "word": "与凤行 大闹天宫",
+        "onboard_time": 1709967810,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213142,
+        "num": 213142,
+        "word": "李商隐你耍我",
+        "onboard_time": 1709958691,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200017,
+        "num": 200017,
+        "word": "菅田将晖",
+        "onboard_time": 1709964572,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198874,
+        "num": 198874,
+        "word": "与凤行赵丽颖是配音",
+        "onboard_time": 1709960613,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198148,
+        "num": 198148,
+        "word": "金价杀疯了",
+        "onboard_time": 1709909731,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96596,
+        "num": 195371,
+        "word": "民生主题记者会",
+        "onboard_time": 1709968350,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86212,
+        "num": 194431,
+        "word": "深圳消费者忙着把金饰品变现",
+        "onboard_time": 1709966670,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193979,
+        "num": 193979,
+        "word": "帮帮",
+        "onboard_time": 1709968171,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198130,
+        "num": 193639,
+        "word": "狗狗被禁止出席奥斯卡颁奖典礼",
+        "onboard_time": 1709958450,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193029,
+        "num": 193029,
+        "word": "霉霉演唱会 樊振东",
+        "onboard_time": 1709940805,
+        "rank": 36,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 188942,
+        "num": 188942,
+        "word": "周扬青 浪姐",
+        "onboard_time": 1709958273,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179349,
+        "num": 179349,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1709964511,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178874,
+        "num": 178874,
+        "word": "忽然发现甄嬛传好像没有吻戏",
+        "onboard_time": 1709956110,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176963,
+        "num": 176963,
+        "word": "教资选择 难",
+        "onboard_time": 1709955208,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159861,
+        "num": 159861,
+        "word": "承欢记排播",
+        "onboard_time": 1709965830,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159832,
+        "num": 159832,
+        "word": "考研国家线",
+        "onboard_time": 1709955931,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153344,
+        "num": 153344,
+        "word": "李嘉琦沈月合照",
+        "onboard_time": 1709965887,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137755,
+        "num": 137755,
+        "word": "藏海传网传简介",
+        "onboard_time": 1709963790,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132127,
+        "num": 132127,
+        "word": "五十公里桃花坞",
+        "onboard_time": 1709962770,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121068,
+        "num": 121068,
+        "word": "别对我动心 重新定义门当户对",
+        "onboard_time": 1709966311,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118012,
+        "num": 118012,
+        "word": "韩国仍有超1.1万名医生未返岗",
+        "onboard_time": 1709954911,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136014,
+        "num": 115981,
+        "word": "沈月太会拍了",
+        "onboard_time": 1709959049,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108114,
+        "num": 114668,
+        "word": "拉塞尔绝杀雄鹿",
+        "onboard_time": 1709963971,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展新质生产力不是要忽视放弃传统产业#"
+    }
+  }
+}
