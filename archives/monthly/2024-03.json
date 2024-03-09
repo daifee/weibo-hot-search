@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710015394806,
+  "endTime": 1710016434930,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -26273,6 +26273,14 @@
       "onboard_time": 1709929816,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13646,
+      "num": 16631,
+      "word": "这个理由她已经用了半年了",
+      "onboard_time": 1710016157,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 13494,
