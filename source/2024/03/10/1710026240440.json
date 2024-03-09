@@ -1,0 +1,410 @@
+{
+  "runTime": 1710026240440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 264132,
+        "num": 264132,
+        "word": "刘美含否认再次落选浪姐",
+        "onboard_time": 1709991816,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170836,
+        "num": 170836,
+        "word": "日行一万步或可降低久坐危害",
+        "onboard_time": 1710018796,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18750,
+        "num": 155340,
+        "word": "新质生产力如何改变生活",
+        "onboard_time": 1709987011,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173066,
+        "num": 155182,
+        "word": "孟羽童回应简介是前500强董事长秘书",
+        "onboard_time": 1709992654,
+        "rank": 3,
+        "category": "网红,财经"
+      },
+      {
+        "raw_hot": 154713,
+        "num": 154713,
+        "word": "热辣滚烫海外成绩",
+        "onboard_time": 1710007759,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103333,
+        "num": 103333,
+        "word": "这居然是张栋梁",
+        "onboard_time": 1709991575,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100042,
+        "num": 100042,
+        "word": "浪姐5一公歌单",
+        "onboard_time": 1710025700,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83417,
+        "num": 83417,
+        "word": "艾滋病感染者抗病毒治疗成功率已超95%",
+        "onboard_time": 1709994814,
+        "rank": 7,
+        "category": "国内时政,健康医疗"
+      },
+      {
+        "raw_hot": 73082,
+        "num": 73082,
+        "word": "微信能不能改成部分人三天可见",
+        "onboard_time": 1709982392,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 31005,
+        "num": 73075,
+        "word": "中国2024年国防费预算增长7.2%",
+        "onboard_time": 1709989652,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 289257,
+        "num": 72518,
+        "word": "女子染发10余年致头皮胎记癌变",
+        "onboard_time": 1709997031,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279564,
+        "num": 72434,
+        "word": "学生睡不醒班主任背到医院",
+        "onboard_time": 1710004702,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249191,
+        "num": 72011,
+        "word": "朱梓骁被纪凌尘气炸了",
+        "onboard_time": 1709990312,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229179,
+        "num": 71667,
+        "word": "苹果和安卓的天气预报不一样",
+        "onboard_time": 1709994454,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 226926,
+        "num": 71341,
+        "word": "杨天真回应不减肥原因",
+        "onboard_time": 1710000033,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221798,
+        "num": 71225,
+        "word": "赵安吉车祸身亡细节",
+        "onboard_time": 1709980888,
+        "rank": 15,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 193947,
+        "num": 70886,
+        "word": "美国女子拍下老公用枪打死自己视频",
+        "onboard_time": 1709984492,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145373,
+        "num": 70628,
+        "word": "1人带316个LV包入境被查",
+        "onboard_time": 1709986351,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123313,
+        "num": 70324,
+        "word": "杭州万象城",
+        "onboard_time": 1709983231,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70129,
+        "num": 70129,
+        "word": "阿森纳2比1布伦特福德",
+        "onboard_time": 1710025880,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114663,
+        "num": 69232,
+        "word": "普通家庭这样的生活算穷吗",
+        "onboard_time": 1709995177,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78537,
+        "num": 68995,
+        "word": "现在的朋友圈越来越低调了",
+        "onboard_time": 1709981129,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71025,
+        "num": 68968,
+        "word": "泪失禁体质可能是大脑太发达",
+        "onboard_time": 1710025700,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 68002,
+        "num": 68002,
+        "word": "为何年轻人不愿意进工厂了",
+        "onboard_time": 1710010337,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66096,
+        "num": 66096,
+        "word": "演员尚梦初逝世",
+        "onboard_time": 1709989532,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63026,
+        "num": 63026,
+        "word": "杨紫提醒主持人牙齿上有口红",
+        "onboard_time": 1709989353,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59761,
+        "num": 59761,
+        "word": "月入过万你还会考研考公吗",
+        "onboard_time": 1709986593,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54452,
+        "num": 54452,
+        "word": "终于知道电视里为啥喜欢买芹菜",
+        "onboard_time": 1709990075,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52670,
+        "num": 52670,
+        "word": "为什么感冒咳嗽一到晚上就更严重",
+        "onboard_time": 1710025639,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51970,
+        "num": 51970,
+        "word": "李权哲第二名出道",
+        "onboard_time": 1709990793,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51682,
+        "num": 51682,
+        "word": "孟羽童回应收入",
+        "onboard_time": 1709994696,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 47955,
+        "num": 47955,
+        "word": "李菲儿作品曾入围戛纳电影节",
+        "onboard_time": 1709996371,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46562,
+        "num": 46562,
+        "word": "男子流浪25年被侄子爆改接回家",
+        "onboard_time": 1710001050,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46022,
+        "num": 46022,
+        "word": "王梓薇感谢赵丽颖推荐客串与凤行",
+        "onboard_time": 1709991995,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44453,
+        "num": 44453,
+        "word": "南大一48岁博士生8年未毕业被劝退",
+        "onboard_time": 1709981731,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43186,
+        "num": 43186,
+        "word": "妈妈炸的花生米被同学嫌弃了",
+        "onboard_time": 1709990075,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39949,
+        "num": 39949,
+        "word": "奶奶珍藏十多年的塑料手链",
+        "onboard_time": 1709996254,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39560,
+        "num": 39560,
+        "word": "霍启刚建议实现大湾区体育教练资格互认",
+        "onboard_time": 1709994513,
+        "rank": 37,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 38850,
+        "num": 38850,
+        "word": "杭州太子湾引进灰紫色浴缸郁金香",
+        "onboard_time": 1709999672,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 35865,
+        "num": 35865,
+        "word": "王锵徐若晗还原东宫名场面",
+        "onboard_time": 1709997394,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35641,
+        "num": 35641,
+        "word": "章若楠好港",
+        "onboard_time": 1709997212,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35010,
+        "num": 35010,
+        "word": "减脂期最怕的凉拌菜",
+        "onboard_time": 1710019755,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 34952,
+        "num": 34952,
+        "word": "宁静打了焉栩嘉一耳光",
+        "onboard_time": 1709995714,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34495,
+        "num": 34495,
+        "word": "杨紫古韵旗袍",
+        "onboard_time": 1709990133,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31584,
+        "num": 31584,
+        "word": "瘦腰瘦得特别快的运动",
+        "onboard_time": 1710001228,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 30957,
+        "num": 30957,
+        "word": "这个理由她已经用了半年了",
+        "onboard_time": 1710016157,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30306,
+        "num": 30306,
+        "word": "优酷回复赵丽颖片单",
+        "onboard_time": 1710009078,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30218,
+        "num": 30218,
+        "word": "被我弄丢的你结局细思极恐",
+        "onboard_time": 1709989892,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28826,
+        "num": 28826,
+        "word": "奥利C位出道",
+        "onboard_time": 1709990613,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28783,
+        "num": 28783,
+        "word": "沙丘2",
+        "onboard_time": 1709995177,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#从全国两会看中国发展#"
+    }
+  }
+}
