@@ -1,6 +1,6 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709972363056,
+  "endTime": 1709973256756,
   "band_list": [
     {
       "raw_hot": 4193971,
@@ -51,7 +51,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1355241,
+      "raw_hot": 1381267,
       "num": 301137,
       "word": "痞幼250万买于嘉萌的兰博基尼",
       "onboard_time": 1709970632,
@@ -99,7 +99,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 985734,
+      "raw_hot": 996809,
       "num": 296623,
       "word": "向太 做少奶奶翘腿数钱好无聊",
       "onboard_time": 1709969612,
@@ -235,20 +235,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 718020,
+      "num": 292838,
+      "word": "萧亚轩前男友黄皓晒宝宝脚丫照",
+      "onboard_time": 1709969910,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 700698,
       "num": 700698,
       "word": "教资科二",
       "onboard_time": 1709967689,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 696120,
-      "num": 292838,
-      "word": "萧亚轩前男友黄皓晒宝宝脚丫照",
-      "onboard_time": 1709969910,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 663049,
@@ -515,8 +515,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 360644,
-      "num": 360644,
+      "raw_hot": 365738,
+      "num": 365738,
       "word": "帮帮",
       "onboard_time": 1709968171,
       "rank": 34,
@@ -537,6 +537,14 @@
       "onboard_time": 1709943629,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 349152,
+      "num": 349152,
+      "word": "楚乔传与凤行齐上阵",
+      "onboard_time": 1709971410,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 344510,
@@ -561,6 +569,14 @@
       "onboard_time": 1709910513,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 331704,
+      "num": 331704,
+      "word": "211女子生娃3年没工作靠卖花逆袭",
+      "onboard_time": 1709970689,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329692,
@@ -683,6 +699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 278698,
+      "num": 249796,
+      "word": "谁说学古筝可以培养气质的",
+      "onboard_time": 1709971110,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 277416,
       "num": 277416,
       "word": "每次接妹妹都有种人贩子的感觉",
@@ -763,14 +787,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 254028,
-      "num": 254028,
-      "word": "211女子生娃3年没工作靠卖花逆袭",
-      "onboard_time": 1709970689,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253362,
       "num": 253362,
       "word": "与凤行碧苍云起预告",
@@ -832,14 +848,6 @@
       "word": "赵丽颖新剧演凤凰",
       "onboard_time": 1709953529,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 237318,
-      "num": 237318,
-      "word": "楚乔传与凤行齐上阵",
-      "onboard_time": 1709971410,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -939,6 +947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213055,
+      "num": 213055,
+      "word": "着力解决小眼镜小胖墩问题",
+      "onboard_time": 1709972310,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 211433,
       "num": 211433,
       "word": "娜塔莉波特曼正式离婚",
@@ -985,6 +1001,14 @@
       "onboard_time": 1709951968,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201913,
+      "num": 201913,
+      "word": "收到了男朋友送我的黄金",
+      "onboard_time": 1709972551,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 200916,
@@ -1075,12 +1099,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192887,
+      "num": 192887,
+      "word": "我妈在直播间抢的纸巾",
+      "onboard_time": 1709971292,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191269,
       "num": 191269,
       "word": "丁威迪封盖",
       "onboard_time": 1709964448,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190681,
+      "num": 187378,
+      "word": "想让男朋友陪我去拔智齿",
+      "onboard_time": 1709972729,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 189201,
@@ -1123,14 +1163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184660,
-      "num": 184660,
-      "word": "我妈在直播间抢的纸巾",
-      "onboard_time": 1709971292,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 182411,
       "num": 182411,
       "word": "j人和P人的穿搭区别",
@@ -1169,6 +1201,14 @@
       "onboard_time": 1709959829,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177008,
+      "num": 177008,
+      "word": "金价为何会突然暴涨",
+      "onboard_time": 1709971711,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 175825,
@@ -1219,14 +1259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 168183,
-      "num": 168183,
-      "word": "谁说学古筝可以培养气质的",
-      "onboard_time": 1709971110,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 167882,
       "num": 167882,
       "word": "赵丽颖片单",
@@ -1265,14 +1297,6 @@
       "onboard_time": 1709904632,
       "rank": 7,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 163148,
-      "num": 163148,
-      "word": "金价为何会突然暴涨",
-      "onboard_time": 1709971711,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 162905,
@@ -1579,14 +1603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123986,
-      "num": 123986,
-      "word": "着力解决小眼镜小胖墩问题",
-      "onboard_time": 1709972310,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 122091,
       "num": 122091,
       "word": "黄奕告诉老默宝总想吃鱼",
@@ -1659,6 +1675,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 105766,
+      "num": 105766,
+      "word": "PLAVE一位",
+      "onboard_time": 1709973212,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104011,
       "num": 104011,
       "word": "恋爱兄妹",
@@ -1691,6 +1715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100203,
+      "num": 100203,
+      "word": "张凌赫武汉",
+      "onboard_time": 1709969730,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100197,
       "num": 100197,
       "word": "中国历史朝代顺序图",
@@ -1708,7 +1740,7 @@
     },
     {
       "raw_hot": 99458,
-      "num": 308953,
+      "num": 657565,
       "word": "民生主题记者会",
       "onboard_time": 1709968350,
       "rank": 32,
