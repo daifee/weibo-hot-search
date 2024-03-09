@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710011583884,
+  "endTime": 1710012869970,
   "band_list": [
     {
       "raw_hot": 800961,
@@ -459,20 +459,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 23277,
-      "num": 23277,
+      "raw_hot": 30080,
+      "num": 30080,
       "word": "为何年轻人不愿意进工厂了",
       "onboard_time": 1710010337,
       "rank": 40,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22165,
-      "num": 22165,
+      "raw_hot": 26932,
+      "num": 24565,
       "word": "靳东再谈假靳东事件",
       "onboard_time": 1710010757,
       "rank": 42,
       "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 21592,
+      "num": 21592,
+      "word": "宁静笑场",
+      "onboard_time": 1710012556,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 20899,
@@ -491,20 +499,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 17321,
+      "num": 29730,
+      "word": "靳东谈短视频",
+      "onboard_time": 1710010998,
+      "rank": 29,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 17193,
       "num": 51213,
       "word": "CBA炫时刻",
       "onboard_time": 1710004283,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15190,
-      "num": 29730,
-      "word": "靳东谈短视频",
-      "onboard_time": 1710010998,
-      "rank": 29,
-      "category": "国内时政,艺人"
     }
   ],
   "hotgov_list": [

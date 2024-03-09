@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710011583884,
+  "endTime": 1710012869970,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -25827,6 +25827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30080,
+      "num": 30080,
+      "word": "为何年轻人不愿意进工厂了",
+      "onboard_time": 1710010337,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29944,
       "num": 29944,
       "word": "檀健次想挑战极致饱满的恶人角色",
@@ -25889,6 +25897,14 @@
       "onboard_time": 1709502134,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 26932,
+      "num": 24565,
+      "word": "靳东再谈假靳东事件",
+      "onboard_time": 1710010757,
+      "rank": 42,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 26912,
@@ -25979,28 +25995,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23277,
-      "num": 23277,
-      "word": "为何年轻人不愿意进工厂了",
-      "onboard_time": 1710010337,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23254,
       "num": 133626,
       "word": "女性给自己的人生上色有多动人",
       "onboard_time": 1709892030,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22165,
-      "num": 22165,
-      "word": "靳东再谈假靳东事件",
-      "onboard_time": 1710010757,
-      "rank": 42,
-      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 22111,
@@ -26025,6 +26025,14 @@
       "onboard_time": 1709487800,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21592,
+      "num": 21592,
+      "word": "宁静笑场",
+      "onboard_time": 1710012556,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 21321,
@@ -26131,6 +26139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 17321,
+      "num": 29730,
+      "word": "靳东谈短视频",
+      "onboard_time": 1710010998,
+      "rank": 29,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 17273,
       "num": 17273,
       "word": "苏新皓手势舞",
@@ -26185,14 +26201,6 @@
       "onboard_time": 1709318718,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15190,
-      "num": 29730,
-      "word": "靳东谈短视频",
-      "onboard_time": 1710010998,
-      "rank": 29,
-      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 15107,
