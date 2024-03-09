@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709984052093,
+  "endTime": 1709987272308,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -144,6 +144,14 @@
       "word": "遭多人强暴的西班牙网红收到印度政府赔偿",
       "onboard_time": 1709619392,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2443817,
+      "num": 270233,
+      "word": "杭州万象城",
+      "onboard_time": 1709983231,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 1892602,
-      "num": 257740,
+      "num": 269218,
       "word": "赵安吉车祸身亡细节",
       "onboard_time": 1709980888,
       "rank": 10,
@@ -969,6 +977,14 @@
       "onboard_time": 1709959531,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1266432,
+      "num": 434016,
+      "word": "微信能不能改成部分人三天可见",
+      "onboard_time": 1709982392,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 1265768,
@@ -2628,7 +2644,7 @@
     },
     {
       "raw_hot": 759839,
-      "num": 255820,
+      "num": 366458,
       "word": "南大一48岁博士生8年未毕业被劝退",
       "onboard_time": 1709981731,
       "rank": 15,
@@ -3171,6 +3187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 689032,
+      "num": 268695,
+      "word": "美国女子拍下老公用枪打死自己视频",
+      "onboard_time": 1709984492,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 687474,
       "num": 687474,
       "word": "娃哈哈",
@@ -3225,14 +3249,6 @@
       "onboard_time": 1709810671,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 684520,
-      "num": 434016,
-      "word": "微信能不能改成部分人三天可见",
-      "onboard_time": 1709982392,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 683730,
@@ -3361,14 +3377,6 @@
       "onboard_time": 1709434411,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 673049,
-      "num": 249102,
-      "word": "杭州万象城",
-      "onboard_time": 1709983231,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 672996,
@@ -4171,6 +4179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 589344,
+      "num": 268040,
+      "word": "JYP自己倒是闯中成功了",
+      "onboard_time": 1709984253,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 587845,
       "num": 207181,
       "word": "今天不发朋友圈又得等四年",
@@ -4620,7 +4636,7 @@
     },
     {
       "raw_hot": 546968,
-      "num": 247567,
+      "num": 266890,
       "word": "窦骁何超莲又发糖了",
       "onboard_time": 1709983051,
       "rank": 14,
@@ -5316,7 +5332,7 @@
     },
     {
       "raw_hot": 491426,
-      "num": 250456,
+      "num": 263961,
       "word": "现在的朋友圈越来越低调了",
       "onboard_time": 1709981129,
       "rank": 20,
@@ -7435,6 +7451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368940,
+      "num": 266339,
+      "word": "TikTok用户打爆美国会办公电话",
+      "onboard_time": 1709985573,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 367658,
       "num": 367658,
       "word": "华为P70系列手机延期发布",
@@ -7555,6 +7579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 362088,
+      "num": 362088,
+      "word": "冰淇淋口感的梨你吃过吗",
+      "onboard_time": 1709984972,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 361333,
       "num": 361333,
       "word": "肖战演唱满足",
@@ -7585,6 +7617,14 @@
       "onboard_time": 1709358813,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 358682,
+      "num": 264653,
+      "word": "月入过万你还会考研考公吗",
+      "onboard_time": 1709986593,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 358204,
@@ -8433,6 +8473,14 @@
       "onboard_time": 1709289573,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 320821,
+      "num": 320821,
+      "word": "周深新专辑官宣",
+      "onboard_time": 1709985813,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 320387,
@@ -9955,11 +10003,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270371,
+      "num": 270371,
+      "word": "唐探2刘昊然彩蛋",
+      "onboard_time": 1709986112,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270241,
       "num": 270241,
       "word": "青云台",
       "onboard_time": 1709363370,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 270126,
+      "num": 262269,
+      "word": "杨紫六部待播作品",
+      "onboard_time": 1709986231,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -10089,6 +10153,14 @@
       "onboard_time": 1709339368,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 266170,
+      "num": 266170,
+      "word": "林俊杰 丹宁执着",
+      "onboard_time": 1709986534,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 266005,
@@ -10233,6 +10305,14 @@
       "onboard_time": 1709684316,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 262173,
+      "num": 262173,
+      "word": "1人带316个LV包入境被查",
+      "onboard_time": 1709986351,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262079,
@@ -11259,6 +11339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 233687,
+      "num": 233687,
+      "word": "第二十条",
+      "onboard_time": 1709306791,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 232908,
       "num": 232908,
       "word": "张雨绮理想的婚姻状态是分房睡",
@@ -11289,14 +11377,6 @@
       "onboard_time": 1709733451,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 232214,
-      "num": 232214,
-      "word": "第二十条",
-      "onboard_time": 1709306791,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 232115,
@@ -12435,6 +12515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210176,
+      "num": 210176,
+      "word": "迪丽热巴六部作品全球热播",
+      "onboard_time": 1709985212,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210080,
       "num": 210080,
       "word": "墨尔本偶遇周杰伦GAI",
@@ -12561,6 +12649,14 @@
       "onboard_time": 1709946990,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208154,
+      "num": 208154,
+      "word": "李宇春演唱会直播",
+      "onboard_time": 1709986534,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 207929,
@@ -13785,6 +13881,14 @@
       "onboard_time": 1709556089,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194155,
+      "num": 194155,
+      "word": "柯南平次 好离谱的周边",
+      "onboard_time": 1709985511,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 194021,
@@ -17003,6 +17107,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 159444,
+      "num": 159444,
+      "word": "杨迪cos小夫",
+      "onboard_time": 1709986952,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159417,
       "num": 159417,
       "word": "摁着一个作者使劲薅",
@@ -17409,6 +17521,14 @@
       "onboard_time": 1709780730,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156518,
+      "num": 156518,
+      "word": "JDG对战RNG",
+      "onboard_time": 1709985092,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 156465,
@@ -18891,6 +19011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143306,
+      "num": 143306,
+      "word": "李饼的五重哀",
+      "onboard_time": 1709986292,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143237,
       "num": 143237,
       "word": "第一次亲眼目睹光合作用",
@@ -20313,6 +20441,14 @@
       "onboard_time": 1709853445,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 130264,
+      "num": 130264,
+      "word": "欧文一代炒到9000元",
+      "onboard_time": 1709984130,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 130212,
@@ -25297,6 +25433,14 @@
       "onboard_time": 1709671276,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 19532,
+      "num": 370906,
+      "word": "新质生产力如何改变生活",
+      "onboard_time": 1709987011,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 19023,

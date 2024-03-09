@@ -1,0 +1,410 @@
+{
+  "runTime": 1709987272308,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 499126,
+        "num": 499126,
+        "word": "教资",
+        "onboard_time": 1709953831,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 404647,
+        "num": 404647,
+        "word": "解放军练兵备战打独促统",
+        "onboard_time": 1709980111,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19532,
+        "num": 370906,
+        "word": "新质生产力如何改变生活",
+        "onboard_time": 1709987011,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1266432,
+        "num": 370199,
+        "word": "微信能不能改成部分人三天可见",
+        "onboard_time": 1709982392,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 623697,
+        "num": 366458,
+        "word": "南大一48岁博士生8年未毕业被劝退",
+        "onboard_time": 1709981731,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362088,
+        "num": 362088,
+        "word": "冰淇淋口感的梨你吃过吗",
+        "onboard_time": 1709984972,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 320821,
+        "num": 320821,
+        "word": "周深新专辑官宣",
+        "onboard_time": 1709985813,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 317614,
+        "num": 317614,
+        "word": "男子三八节买2根金条打手镯送妻子",
+        "onboard_time": 1709977832,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270907,
+        "num": 270907,
+        "word": "建议返聘65岁以下退休教师",
+        "onboard_time": 1709973871,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 270371,
+        "num": 270371,
+        "word": "唐探2刘昊然彩蛋",
+        "onboard_time": 1709986112,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2443817,
+        "num": 270233,
+        "word": "杭州万象城",
+        "onboard_time": 1709983231,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1473012,
+        "num": 269218,
+        "word": "赵安吉车祸身亡细节",
+        "onboard_time": 1709980888,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 689032,
+        "num": 268695,
+        "word": "美国女子拍下老公用枪打死自己视频",
+        "onboard_time": 1709984492,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589344,
+        "num": 268040,
+        "word": "JYP自己倒是闯中成功了",
+        "onboard_time": 1709984253,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529406,
+        "num": 267697,
+        "word": "女子吃麻辣烫被乱数签多算123元",
+        "onboard_time": 1709976810,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478339,
+        "num": 266890,
+        "word": "窦骁何超莲又发糖了",
+        "onboard_time": 1709983051,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368940,
+        "num": 266339,
+        "word": "TikTok用户打爆美国会办公电话",
+        "onboard_time": 1709985573,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 266170,
+        "num": 266170,
+        "word": "林俊杰 丹宁执着",
+        "onboard_time": 1709986534,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 347406,
+        "num": 265528,
+        "word": "李现杀回现偶了",
+        "onboard_time": 1709968287,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279086,
+        "num": 265079,
+        "word": "萧亚轩前男友黄皓晒宝宝脚丫照",
+        "onboard_time": 1709969910,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358682,
+        "num": 264653,
+        "word": "月入过万你还会考研考公吗",
+        "onboard_time": 1709986593,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 346059,
+        "num": 263961,
+        "word": "现在的朋友圈越来越低调了",
+        "onboard_time": 1709981129,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313401,
+        "num": 263177,
+        "word": "林俊杰发烧",
+        "onboard_time": 1709976452,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270126,
+        "num": 262269,
+        "word": "杨紫六部待播作品",
+        "onboard_time": 1709986231,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262173,
+        "num": 262173,
+        "word": "1人带316个LV包入境被查",
+        "onboard_time": 1709986351,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243102,
+        "num": 243102,
+        "word": "小松菜奈生子",
+        "onboard_time": 1709963189,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233687,
+        "num": 233687,
+        "word": "第二十条",
+        "onboard_time": 1709982152,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210176,
+        "num": 210176,
+        "word": "迪丽热巴六部作品全球热播",
+        "onboard_time": 1709985212,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22367,
+        "num": 208681,
+        "word": "2024两会好声音",
+        "onboard_time": 1709972310,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208154,
+        "num": 208154,
+        "word": "李宇春演唱会直播",
+        "onboard_time": 1709986534,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204087,
+        "num": 204087,
+        "word": "肖战演唱满足",
+        "onboard_time": 1709976929,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198474,
+        "num": 198474,
+        "word": "孩子高烧惊厥妈妈摔倒仍死死抱住",
+        "onboard_time": 1709977832,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197196,
+        "num": 197196,
+        "word": "韩国在日本进口糖果中检测出少量铯",
+        "onboard_time": 1709975552,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194155,
+        "num": 194155,
+        "word": "柯南平次 好离谱的周边",
+        "onboard_time": 1709985511,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 175487,
+        "num": 175487,
+        "word": "王一博去了盗梦空间的取景桥",
+        "onboard_time": 1709979512,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167597,
+        "num": 167597,
+        "word": "婚后再也没羡慕过婚礼上的新娘",
+        "onboard_time": 1709978071,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165390,
+        "num": 165390,
+        "word": "终于有剧把女生痛经说明白了",
+        "onboard_time": 1709976208,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159444,
+        "num": 159444,
+        "word": "杨迪cos小夫",
+        "onboard_time": 1709986952,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156518,
+        "num": 156518,
+        "word": "JDG对战RNG",
+        "onboard_time": 1709985092,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143306,
+        "num": 143306,
+        "word": "李饼的五重哀",
+        "onboard_time": 1709986292,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135840,
+        "num": 135840,
+        "word": "211女子生娃3年没工作靠卖花逆袭",
+        "onboard_time": 1709970689,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130264,
+        "num": 130264,
+        "word": "欧文一代炒到9000元",
+        "onboard_time": 1709984130,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128012,
+        "num": 128012,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1709964511,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126365,
+        "num": 126365,
+        "word": "王星越晒沈月拍的照",
+        "onboard_time": 1709978430,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124799,
+        "num": 124799,
+        "word": "蒲熠星带猫去献血",
+        "onboard_time": 1709968830,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124530,
+        "num": 124530,
+        "word": "谈了四个月就结婚是什么体验",
+        "onboard_time": 1709966129,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119564,
+        "num": 119564,
+        "word": "当舅妈让我考研考编考公三手抓",
+        "onboard_time": 1709966729,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112032,
+        "num": 112032,
+        "word": "教资科三",
+        "onboard_time": 1709979751,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107142,
+        "num": 107142,
+        "word": "赵丽颖出发香港",
+        "onboard_time": 1709977171,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105858,
+        "num": 105858,
+        "word": "腾讯芒果要打起来了",
+        "onboard_time": 1709955572,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#从全国两会看中国发展#"
+    }
+  }
+}

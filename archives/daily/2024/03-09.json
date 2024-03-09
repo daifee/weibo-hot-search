@@ -1,6 +1,6 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709984052093,
+  "endTime": 1709987272308,
   "band_list": [
     {
       "raw_hot": 4193971,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2443817,
+      "num": 270233,
+      "word": "杭州万象城",
+      "onboard_time": 1709983231,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2282245,
       "num": 537684,
       "word": "蓝可儿等16人殒命酒店挂牌出售",
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1892602,
-      "num": 257740,
+      "num": 269218,
       "word": "赵安吉车祸身亡细节",
       "onboard_time": 1709980888,
       "rank": 10,
@@ -97,6 +105,14 @@
       "onboard_time": 1709959531,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1266432,
+      "num": 434016,
+      "word": "微信能不能改成部分人三天可见",
+      "onboard_time": 1709982392,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 1249242,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 759839,
-      "num": 255820,
+      "num": 366458,
       "word": "南大一48岁博士生8年未毕业被劝退",
       "onboard_time": 1709981731,
       "rank": 15,
@@ -307,12 +323,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 684520,
-      "num": 434016,
-      "word": "微信能不能改成部分人三天可见",
-      "onboard_time": 1709982392,
-      "rank": 23,
-      "category": "互联网"
+      "raw_hot": 689032,
+      "num": 268695,
+      "word": "美国女子拍下老公用枪打死自己视频",
+      "onboard_time": 1709984492,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 679182,
@@ -321,14 +337,6 @@
       "onboard_time": 1709976991,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 673049,
-      "num": 249102,
-      "word": "杭州万象城",
-      "onboard_time": 1709983231,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 663049,
@@ -387,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 589344,
+      "num": 268040,
+      "word": "JYP自己倒是闯中成功了",
+      "onboard_time": 1709984253,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 577391,
       "num": 206032,
       "word": "人大代表提到迪丽热巴",
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 546968,
-      "num": 247567,
+      "num": 266890,
       "word": "窦骁何超莲又发糖了",
       "onboard_time": 1709983051,
       "rank": 14,
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 491426,
-      "num": 250456,
+      "num": 263961,
       "word": "现在的朋友圈越来越低调了",
       "onboard_time": 1709981129,
       "rank": 20,
@@ -651,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 368940,
+      "num": 266339,
+      "word": "TikTok用户打爆美国会办公电话",
+      "onboard_time": 1709985573,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 366581,
       "num": 366581,
       "word": "61岁双胞胎宝妈回应高龄产子",
@@ -667,12 +691,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 362088,
+      "num": 362088,
+      "word": "冰淇淋口感的梨你吃过吗",
+      "onboard_time": 1709984972,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 361333,
       "num": 361333,
       "word": "肖战演唱满足",
       "onboard_time": 1709976929,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 358682,
+      "num": 264653,
+      "word": "月入过万你还会考研考公吗",
+      "onboard_time": 1709986593,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 354483,
@@ -737,6 +777,14 @@
       "onboard_time": 1709944650,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 320821,
+      "num": 320821,
+      "word": "周深新专辑官宣",
+      "onboard_time": 1709985813,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 319876,
@@ -923,6 +971,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270371,
+      "num": 270371,
+      "word": "唐探2刘昊然彩蛋",
+      "onboard_time": 1709986112,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 270126,
+      "num": 262269,
+      "word": "杨紫六部待播作品",
+      "onboard_time": 1709986231,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 266170,
+      "num": 266170,
+      "word": "林俊杰 丹宁执着",
+      "onboard_time": 1709986534,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 266005,
       "num": 253012,
       "word": "有没有人夸夸谢依霖啊",
@@ -937,6 +1009,14 @@
       "onboard_time": 1709910214,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 262173,
+      "num": 262173,
+      "word": "1人带316个LV包入境被查",
+      "onboard_time": 1709986351,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261866,
@@ -1067,8 +1147,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 232214,
-      "num": 232214,
+      "raw_hot": 233687,
+      "num": 233687,
       "word": "第二十条",
       "onboard_time": 1709982152,
       "rank": 33,
@@ -1171,12 +1251,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 210176,
+      "num": 210176,
+      "word": "迪丽热巴六部作品全球热播",
+      "onboard_time": 1709985212,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208300,
       "num": 198049,
       "word": "男朋友家的小狗没有狗窝",
       "onboard_time": 1709946990,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208154,
+      "num": 208154,
+      "word": "李宇春演唱会直播",
+      "onboard_time": 1709986534,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 206452,
@@ -1305,6 +1401,14 @@
       "onboard_time": 1709982392,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194155,
+      "num": 194155,
+      "word": "柯南平次 好离谱的周边",
+      "onboard_time": 1709985511,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 192887,
@@ -1635,12 +1739,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 159444,
+      "num": 159444,
+      "word": "杨迪cos小夫",
+      "onboard_time": 1709986952,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156695,
       "num": 156695,
       "word": "金毛 以后再也不拼车了",
       "onboard_time": 1709976630,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 156518,
+      "num": 156518,
+      "word": "JDG对战RNG",
+      "onboard_time": 1709985092,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 155159,
@@ -1811,6 +1931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143306,
+      "num": 143306,
+      "word": "李饼的五重哀",
+      "onboard_time": 1709986292,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142558,
       "num": 142558,
       "word": "英伟达大跌5.55%",
@@ -1945,6 +2073,14 @@
       "onboard_time": 1709957310,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130264,
+      "num": 130264,
+      "word": "欧文一代炒到9000元",
+      "onboard_time": 1709984130,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 128159,
@@ -2475,10 +2611,18 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20223,
+      "raw_hot": 22367,
       "num": 630210,
       "word": "2024两会好声音",
       "onboard_time": 1709972310,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 19532,
+      "num": 370906,
+      "word": "新质生产力如何改变生活",
+      "onboard_time": 1709987011,
       "rank": 2,
       "category": "国内时政"
     },
