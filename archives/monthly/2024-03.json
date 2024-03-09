@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710012869970,
+  "endTime": 1710015394806,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -25803,6 +25803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31169,
+      "num": 30080,
+      "word": "为何年轻人不愿意进工厂了",
+      "onboard_time": 1710010337,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30720,
       "num": 33645,
       "word": "当上菜的速度赶不上吃饭的速度时",
@@ -25824,14 +25832,6 @@
       "word": "来自两会的最新消费指南",
       "onboard_time": 1709711012,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30080,
-      "num": 30080,
-      "word": "为何年轻人不愿意进工厂了",
-      "onboard_time": 1710010337,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -25931,6 +25931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 26056,
+      "num": 26056,
+      "word": "宁静笑场",
+      "onboard_time": 1710012556,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25758,
       "num": 214770,
       "word": "脑洞大开的服装设计",
@@ -26025,14 +26033,6 @@
       "onboard_time": 1709487800,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 21592,
-      "num": 21592,
-      "word": "宁静笑场",
-      "onboard_time": 1710012556,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 21321,
@@ -26161,6 +26161,14 @@
       "onboard_time": 1710004283,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16876,
+      "num": 16876,
+      "word": "RAIN再现经典lasong",
+      "onboard_time": 1710013996,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 16433,
