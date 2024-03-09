@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710001286546,
+  "endTime": 1710002241367,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -6171,6 +6171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 444835,
+      "num": 301927,
+      "word": "杨天真回应不减肥原因",
+      "onboard_time": 1710000033,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444667,
       "num": 305898,
       "word": "Jennie仪态",
@@ -7500,7 +7508,7 @@
     },
     {
       "raw_hot": 374020,
-      "num": 285540,
+      "num": 296622,
       "word": "章若楠好港",
       "onboard_time": 1709997212,
       "rank": 40,
@@ -7649,14 +7657,6 @@
       "onboard_time": 1709443949,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 368437,
-      "num": 269527,
-      "word": "杨天真回应不减肥原因",
-      "onboard_time": 1710000033,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 367658,
@@ -9824,6 +9824,14 @@
       "word": "张桂梅说女性可以是花朵也可以是山峰",
       "onboard_time": 1709856813,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281716,
+      "num": 281716,
+      "word": "农夫山泉官方店铺7天未开播",
+      "onboard_time": 1710000033,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -24683,14 +24691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 72101,
-      "num": 95774,
-      "word": "农夫山泉官方店铺7天未开播",
-      "onboard_time": 1710000033,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71307,
       "num": 124459,
       "word": "成都蓉城vs青岛海牛",
@@ -24753,6 +24753,14 @@
       "onboard_time": 1709394933,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68348,
+      "num": 95237,
+      "word": "瘦腰瘦得特别快的运动",
+      "onboard_time": 1710001228,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 67780,
@@ -24995,6 +25003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59646,
+      "num": 94842,
+      "word": "杭州太子湾引进灰紫色浴缸郁金香",
+      "onboard_time": 1709999672,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 59188,
       "num": 59188,
       "word": "理查德刘易斯去世",
@@ -25217,14 +25233,6 @@
       "onboard_time": 1709329396,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 52046,
-      "num": 92465,
-      "word": "杭州太子湾引进灰紫色浴缸郁金香",
-      "onboard_time": 1709999672,
-      "rank": 47,
-      "category": "旅游"
     },
     {
       "raw_hot": 51742,
@@ -25633,14 +25641,6 @@
       "onboard_time": 1709745262,
       "rank": 45,
       "category": "艺人,旅游"
-    },
-    {
-      "raw_hot": 36465,
-      "num": 90720,
-      "word": "瘦腰瘦得特别快的运动",
-      "onboard_time": 1710001228,
-      "rank": 48,
-      "category": "运动健身"
     },
     {
       "raw_hot": 36374,
