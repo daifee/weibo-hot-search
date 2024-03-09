@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710004552847,
+  "endTime": 1710005648700,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -25473,6 +25473,14 @@
       "onboard_time": 1709987011,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42707,
+      "num": 69695,
+      "word": "学生睡不醒班主任背到医院",
+      "onboard_time": 1710004702,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42701,

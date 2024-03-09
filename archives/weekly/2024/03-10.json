@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710004552847,
+  "endTime": 1710005648700,
   "band_list": [
     {
       "raw_hot": 800961,
@@ -409,6 +409,22 @@
       "onboard_time": 1709973871,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42707,
+      "num": 69695,
+      "word": "学生睡不醒班主任背到医院",
+      "onboard_time": 1710004702,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41336,
+      "num": 44178,
+      "word": "JYP自己倒是闯中成功了",
+      "onboard_time": 1709984253,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 34855,
