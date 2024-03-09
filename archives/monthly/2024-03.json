@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1709980531796,
+  "endTime": 1709982956880,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -385,6 +385,14 @@
       "onboard_time": 1709771493,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1765174,
+      "num": 257740,
+      "word": "赵安吉车祸身亡细节",
+      "onboard_time": 1709980888,
+      "rank": 10,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1761302,
@@ -5275,6 +5283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 491426,
+      "num": 250456,
+      "word": "现在的朋友圈越来越低调了",
+      "onboard_time": 1709981129,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 491164,
       "num": 252957,
       "word": "杨幂黑色新中式",
@@ -5289,6 +5305,14 @@
       "onboard_time": 1709602410,
       "rank": 5,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 489795,
+      "num": 489795,
+      "word": "男子三八节买2根金条打手镯送妻子",
+      "onboard_time": 1709977832,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 489706,
@@ -5641,6 +5665,14 @@
       "onboard_time": 1709453489,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465740,
+      "num": 465740,
+      "word": "解放军练兵备战打独促统",
+      "onboard_time": 1709980111,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 465644,
@@ -6435,14 +6467,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 418337,
-      "num": 457484,
-      "word": "男子三八节买2根金条打手镯送妻子",
-      "onboard_time": 1709977832,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 418296,
       "num": 418296,
       "word": "建议以家庭为单位征税",
@@ -6937,6 +6961,14 @@
       "onboard_time": 1709339485,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 388357,
+      "num": 255820,
+      "word": "南大一48岁博士生8年未毕业被劝退",
+      "onboard_time": 1709981731,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387055,
@@ -8411,6 +8443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 319876,
+      "num": 463258,
+      "word": "孩子高烧惊厥妈妈摔倒仍死死抱住",
+      "onboard_time": 1709977832,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 319684,
       "num": 319684,
       "word": "女子买茅台遭威胁涉事门店已关门",
@@ -8681,14 +8721,6 @@
       "onboard_time": 1709899288,
       "rank": 21,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 309367,
-      "num": 463258,
-      "word": "孩子高烧惊厥妈妈摔倒仍死死抱住",
-      "onboard_time": 1709977832,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 309236,
@@ -9539,6 +9571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280128,
+      "num": 262636,
+      "word": "王星越晒沈月拍的照",
+      "onboard_time": 1709978430,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279949,
       "num": 279949,
       "word": "唐探2荣梓杉一变脸画风对了",
@@ -10161,14 +10201,6 @@
       "onboard_time": 1709475215,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 262636,
-      "num": 262636,
-      "word": "王星越晒沈月拍的照",
-      "onboard_time": 1709978430,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 262629,
@@ -12179,6 +12211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213371,
+      "num": 213371,
+      "word": "微信能不能改成部分人三天可见",
+      "onboard_time": 1709982392,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 213238,
       "num": 213238,
       "word": "IU演唱会嘉宾RIIZE",
@@ -12873,6 +12913,14 @@
       "onboard_time": 1709718572,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202988,
+      "num": 202988,
+      "word": "TT对战EDG",
+      "onboard_time": 1709982093,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 202881,
@@ -15947,6 +15995,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168972,
+      "num": 168972,
+      "word": "米勒说Ale是EDG的救世主",
+      "onboard_time": 1709981973,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 168813,
+      "num": 168813,
+      "word": "绝不给台独分裂行径留一丝一毫空间",
+      "onboard_time": 1709980172,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 168652,
       "num": 168652,
       "word": "外婆让我不要恋爱结婚",
@@ -16073,6 +16137,14 @@
       "onboard_time": 1709767586,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 167497,
+      "num": 167497,
+      "word": "这么抽象的皮影戏真不多见",
+      "onboard_time": 1709982754,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 167474,
@@ -17259,6 +17331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 156932,
+      "num": 156932,
+      "word": "建议领导不要给下属太大压力",
+      "onboard_time": 1709980410,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156909,
       "num": 156909,
       "word": "唐嫣晒巴黎街拍",
@@ -17483,14 +17563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154689,
-      "num": 154689,
-      "word": "绝不给台独分裂行径留一丝一毫空间",
-      "onboard_time": 1709980172,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 154534,
       "num": 134768,
       "word": "不会游泳但肺活量强",
@@ -17585,6 +17657,14 @@
       "onboard_time": 1709543551,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153799,
+      "num": 153799,
+      "word": "亚洲超星团",
+      "onboard_time": 1709981675,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 153797,
@@ -17803,14 +17883,6 @@
       "category": "美食,科学科普"
     },
     {
-      "raw_hot": 151474,
-      "num": 151474,
-      "word": "解放军练兵备战打独促统",
-      "onboard_time": 1709980111,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 151435,
       "num": 548402,
       "word": "杨紫天山白亮片鱼尾裙",
@@ -18001,6 +18073,14 @@
       "onboard_time": 1709715811,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 149795,
+      "num": 149795,
+      "word": "明侦海报对应的是每个人的执念",
+      "onboard_time": 1709980351,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 149720,
@@ -18249,6 +18329,14 @@
       "onboard_time": 1709553152,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147502,
+      "num": 147502,
+      "word": "WB六连胜",
+      "onboard_time": 1709981606,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 147491,
@@ -18576,6 +18664,14 @@
       "word": "milkyway把把C",
       "onboard_time": 1709459132,
       "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 144942,
+      "num": 144942,
+      "word": "Clearlove新发型",
+      "onboard_time": 1709981793,
+      "rank": 40,
       "category": "电竞"
     },
     {
@@ -19129,6 +19225,14 @@
       "onboard_time": 1709688332,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139568,
+      "num": 139568,
+      "word": "恋与深空 童心发型",
+      "onboard_time": 1709982392,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 139444,
@@ -20491,6 +20595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128159,
+      "num": 128159,
+      "word": "鹏鹏说这五年很幸运",
+      "onboard_time": 1709980471,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128125,
       "num": 128125,
       "word": "电视剧小日子",
@@ -20865,14 +20977,6 @@
       "onboard_time": 1709702314,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 123915,
-      "num": 123915,
-      "word": "鹏鹏说这五年很幸运",
-      "onboard_time": 1709980471,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 123886,
@@ -22963,14 +23067,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 101164,
-      "num": 117248,
-      "word": "建议领导不要给下属太大压力",
-      "onboard_time": 1709980410,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 101119,
       "num": 101119,
       "word": "五美组合将重组",
@@ -22993,6 +23089,14 @@
       "onboard_time": 1709893349,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 100790,
+      "num": 100790,
+      "word": "GEN战胜T1",
+      "onboard_time": 1709980831,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 100203,
