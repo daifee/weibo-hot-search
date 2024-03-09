@@ -1,6 +1,6 @@
 {
   "startTime": 1709914801303,
-  "endTime": 1709988143637,
+  "endTime": 1709990213522,
   "band_list": [
     {
       "raw_hot": 4193971,
@@ -57,6 +57,22 @@
       "onboard_time": 1709955572,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1596469,
+      "num": 407075,
+      "word": "杭州警方通报男子抢劫珠宝店",
+      "onboard_time": 1709987674,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1507854,
+      "num": 760182,
+      "word": "1人带316个LV包入境被查",
+      "onboard_time": 1709986351,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1421100,
@@ -251,14 +267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 760182,
-      "num": 760182,
-      "word": "1人带316个LV包入境被查",
-      "onboard_time": 1709986351,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 759839,
       "num": 366458,
       "word": "南大一48岁博士生8年未毕业被劝退",
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 707447,
+      "num": 707447,
+      "word": "刘浩存 泪失禁体质",
+      "onboard_time": 1709988933,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 702909,
       "num": 442930,
       "word": "林俊杰发烧",
@@ -337,6 +353,14 @@
       "onboard_time": 1709967689,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 683664,
+      "num": 268617,
+      "word": "杨紫提醒主持人牙齿上有口红",
+      "onboard_time": 1709989353,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 679182,
@@ -627,14 +651,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 407075,
-      "num": 407075,
-      "word": "杭州警方通报男子抢劫珠宝店",
-      "onboard_time": 1709987674,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 399830,
       "num": 399830,
       "word": "皮肤到底能白到什么程度",
@@ -672,6 +688,14 @@
       "word": "李现周雨彤吻戏海报",
       "onboard_time": 1709956110,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 384752,
+      "num": 384752,
+      "word": "唐探2刘昊然彩蛋",
+      "onboard_time": 1709986112,
+      "rank": 9,
       "category": "剧集"
     },
     {
@@ -763,14 +787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 346528,
-      "num": 322653,
-      "word": "唐探2刘昊然彩蛋",
-      "onboard_time": 1709986112,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 344510,
       "num": 344510,
       "word": "毛雪汪官宣张晚意",
@@ -833,6 +849,14 @@
       "onboard_time": 1709977832,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318508,
+      "num": 318508,
+      "word": "你好星期六",
+      "onboard_time": 1709951968,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 318331,
@@ -1187,6 +1211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 232465,
+      "num": 232465,
+      "word": "法国赛陈雨菲无缘决赛",
+      "onboard_time": 1709989233,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231403,
       "num": 198400,
       "word": "这些都是35岁以下的人的脊椎",
@@ -1267,6 +1299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212471,
+      "num": 212471,
+      "word": "徐佳莹演唱会嘉宾是汪苏泷",
+      "onboard_time": 1709989954,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211433,
       "num": 211433,
       "word": "娜塔莉波特曼正式离婚",
@@ -1289,6 +1329,14 @@
       "onboard_time": 1709985212,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209511,
+      "num": 190821,
+      "word": "演员尚梦初逝世",
+      "onboard_time": 1709989532,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 208300,
@@ -1321,14 +1369,6 @@
       "onboard_time": 1709898630,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 205008,
-      "num": 205008,
-      "word": "你好星期六",
-      "onboard_time": 1709951968,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 202988,
@@ -1475,6 +1515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189660,
+      "num": 189660,
+      "word": "妈妈炸的花生米被同学嫌弃了",
+      "onboard_time": 1709990075,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189201,
       "num": 189201,
       "word": "眼泪女王",
@@ -1587,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175865,
+      "num": 175865,
+      "word": "终于知道电视里为啥喜欢买芹菜",
+      "onboard_time": 1709990075,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175825,
       "num": 175825,
       "word": "杰伦格林39岁女友怀孕",
@@ -1683,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167514,
+      "num": 167514,
+      "word": "被我弄丢的你结局细思极恐",
+      "onboard_time": 1709989892,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167497,
       "num": 167497,
       "word": "这么抽象的皮影戏真不多见",
@@ -1771,6 +1835,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 160465,
+      "num": 160465,
+      "word": "亚洲超星团",
+      "onboard_time": 1709981675,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160269,
       "num": 160269,
       "word": "拉塞尔绝杀雄鹿",
@@ -1787,12 +1859,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 158193,
+      "num": 158193,
+      "word": "火出圈的天水麻辣烫",
+      "onboard_time": 1709990075,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 157925,
       "num": 157925,
       "word": "山东泰山大轮换",
       "onboard_time": 1709987731,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157181,
+      "num": 157181,
+      "word": "杨紫古韵旗袍",
+      "onboard_time": 1709990133,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156695,
@@ -1823,14 +1911,6 @@
       "num": 154927,
       "word": "李嘉琦沈月合照",
       "onboard_time": 1709965887,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 153799,
-      "num": 153799,
-      "word": "亚洲超星团",
-      "onboard_time": 1709981675,
       "rank": 36,
       "category": "综艺"
     },
@@ -1977,6 +2057,14 @@
       "onboard_time": 1709949690,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144701,
+      "num": 144701,
+      "word": "LGD对战TES",
+      "onboard_time": 1709989111,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 143306,
@@ -2539,6 +2627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74257,
+      "num": 374474,
+      "word": "解读最高人民法院工作报告",
+      "onboard_time": 1709988273,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 68656,
       "num": 88948,
       "word": "傅融伟大的脸",
@@ -2577,6 +2673,14 @@
       "onboard_time": 1709933055,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55972,
+      "num": 279950,
+      "word": "中国2024年国防费预算增长7.2%",
+      "onboard_time": 1709989652,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55893,
@@ -2741,6 +2845,9 @@
     },
     {
       "word": "#推动经济社会发展绿色化低碳化#"
+    },
+    {
+      "word": "#在发展中稳步提升民生保障水平#"
     }
   ]
 }
