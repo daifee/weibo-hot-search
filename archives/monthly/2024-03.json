@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710026240440,
+  "endTime": 1710027327002,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -7451,6 +7451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 377170,
+      "num": 377170,
+      "word": "学生睡不醒班主任背到医院",
+      "onboard_time": 1710004702,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376862,
       "num": 304808,
       "word": "阿姨被辞退后发信息轰炸我",
@@ -9897,14 +9905,6 @@
       "onboard_time": 1709469810,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 279564,
-      "num": 75487,
-      "word": "学生睡不醒班主任背到医院",
-      "onboard_time": 1710004702,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 279483,
@@ -14659,6 +14659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188934,
+      "num": 188934,
+      "word": "日行一万步或可降低久坐危害",
+      "onboard_time": 1710018796,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 188928,
       "num": 188928,
       "word": "当我路过抽烟的人想让他们内疚时",
@@ -14769,6 +14777,14 @@
       "onboard_time": 1709724209,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187674,
+      "num": 187674,
+      "word": "李宇春哭了",
+      "onboard_time": 1710026901,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 187644,
@@ -15923,6 +15939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 175680,
+      "num": 175680,
+      "word": "热辣滚烫海外成绩",
+      "onboard_time": 1710007759,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175447,
       "num": 175447,
       "word": "打了唇钉后喝水真的会漏水",
@@ -16329,14 +16353,6 @@
       "onboard_time": 1709646213,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 170836,
-      "num": 170836,
-      "word": "日行一万步或可降低久坐危害",
-      "onboard_time": 1710018796,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 170826,
@@ -16777,6 +16793,14 @@
       "onboard_time": 1709351550,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 166733,
+      "num": 166733,
+      "word": "浪姐5一公歌单",
+      "onboard_time": 1710025700,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 166725,
@@ -18129,14 +18153,6 @@
       "onboard_time": 1709534547,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154713,
-      "num": 154713,
-      "word": "热辣滚烫海外成绩",
-      "onboard_time": 1710007759,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 154534,
@@ -20649,6 +20665,14 @@
       "onboard_time": 1709771915,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133070,
+      "num": 81967,
+      "word": "泪失禁体质可能是大脑太发达",
+      "onboard_time": 1710025700,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 133069,
@@ -23899,14 +23923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100042,
-      "num": 100042,
-      "word": "浪姐5一公歌单",
-      "onboard_time": 1710025700,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 99815,
       "num": 99815,
       "word": "CBA全明星",
@@ -24105,6 +24121,14 @@
       "onboard_time": 1709721152,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95576,
+      "num": 81824,
+      "word": "为什么感冒咳嗽一到晚上就更严重",
+      "onboard_time": 1710025639,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94866,
@@ -24387,6 +24411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86944,
+      "num": 67790,
+      "word": "张伯礼院士写给青年的话",
+      "onboard_time": 1710026480,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 86372,
       "num": 86372,
       "word": "易胖体质",
@@ -24481,6 +24513,14 @@
       "onboard_time": 1709221233,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84198,
+      "num": 81670,
+      "word": "为何年轻人不愿意进工厂了",
+      "onboard_time": 1710010337,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83685,
@@ -24707,6 +24747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74335,
+      "num": 74335,
+      "word": "这个理由她已经用了半年了",
+      "onboard_time": 1710016157,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74257,
       "num": 1094547,
       "word": "解读最高人民法院工作报告",
@@ -24737,14 +24785,6 @@
       "onboard_time": 1709378853,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71025,
-      "num": 68968,
-      "word": "泪失禁体质可能是大脑太发达",
-      "onboard_time": 1710025700,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 70425,
@@ -24811,14 +24851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68002,
-      "num": 68002,
-      "word": "为何年轻人不愿意进工厂了",
-      "onboard_time": 1710010337,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67780,
       "num": 67780,
       "word": "2块钱和上百元的维生素C哪个更好",
@@ -24849,14 +24881,6 @@
       "onboard_time": 1709300314,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 67555,
-      "num": 31479,
-      "word": "这个理由她已经用了半年了",
-      "onboard_time": 1710016157,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 67350,
@@ -25291,14 +25315,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 52670,
-      "num": 52670,
-      "word": "为什么感冒咳嗽一到晚上就更严重",
-      "onboard_time": 1710025639,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 52300,
       "num": 52300,
       "word": "鼓励式教学",
@@ -25561,6 +25577,22 @@
       "onboard_time": 1709276432,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42301,
+      "num": 42301,
+      "word": "哈弗茨绝杀",
+      "onboard_time": 1710027083,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42096,
+      "num": 42096,
+      "word": "孟羽童回应整容",
+      "onboard_time": 1710027262,
+      "rank": 43,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 41485,

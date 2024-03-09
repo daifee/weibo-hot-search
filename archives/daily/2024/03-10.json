@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710026240440,
+  "endTime": 1710027327002,
   "band_list": [
     {
       "raw_hot": 800961,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377170,
+      "num": 377170,
+      "word": "学生睡不醒班主任背到医院",
+      "onboard_time": 1710004702,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374020,
       "num": 296622,
       "word": "章若楠好港",
@@ -147,14 +155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 279564,
-      "num": 75487,
-      "word": "学生睡不醒班主任背到医院",
-      "onboard_time": 1710004702,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265043,
       "num": 265043,
       "word": "美国女子拍下老公用枪打死自己视频",
@@ -187,6 +187,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188934,
+      "num": 188934,
+      "word": "日行一万步或可降低久坐危害",
+      "onboard_time": 1710018796,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 187674,
+      "num": 187674,
+      "word": "李宇春哭了",
+      "onboard_time": 1710026901,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 182771,
       "num": 182771,
       "word": "孟羽童回应收入",
@@ -203,20 +219,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 175680,
+      "num": 175680,
+      "word": "热辣滚烫海外成绩",
+      "onboard_time": 1710007759,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173831,
       "num": 173831,
       "word": "奥利C位出道",
       "onboard_time": 1709990613,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170836,
-      "num": 170836,
-      "word": "日行一万步或可降低久坐危害",
-      "onboard_time": 1710018796,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 170210,
@@ -227,12 +243,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154713,
-      "num": 154713,
-      "word": "热辣滚烫海外成绩",
-      "onboard_time": 1710007759,
-      "rank": 7,
-      "category": "电影"
+      "raw_hot": 166733,
+      "num": 166733,
+      "word": "浪姐5一公歌单",
+      "onboard_time": 1710025700,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 138731,
@@ -249,6 +265,14 @@
       "onboard_time": 1709990075,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133070,
+      "num": 81967,
+      "word": "泪失禁体质可能是大脑太发达",
+      "onboard_time": 1710025700,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 126215,
@@ -315,14 +339,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 100042,
-      "num": 100042,
-      "word": "浪姐5一公歌单",
-      "onboard_time": 1710025700,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 98830,
       "num": 98830,
       "word": "奶奶珍藏十多年的塑料手链",
@@ -337,6 +353,14 @@
       "onboard_time": 1709995653,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95576,
+      "num": 81824,
+      "word": "为什么感冒咳嗽一到晚上就更严重",
+      "onboard_time": 1710025639,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94042,
@@ -371,6 +395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86944,
+      "num": 67790,
+      "word": "张伯礼院士写给青年的话",
+      "onboard_time": 1710026480,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 85073,
       "num": 94934,
       "word": "李兰迪林一身高差",
@@ -379,12 +411,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71025,
-      "num": 68968,
-      "word": "泪失禁体质可能是大脑太发达",
-      "onboard_time": 1710025700,
-      "rank": 22,
-      "category": "健康医疗"
+      "raw_hot": 84198,
+      "num": 81670,
+      "word": "为何年轻人不愿意进工厂了",
+      "onboard_time": 1710010337,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 81656,
+      "num": 81656,
+      "word": "演员尚梦初逝世",
+      "onboard_time": 1709989532,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 74335,
+      "num": 74335,
+      "word": "这个理由她已经用了半年了",
+      "onboard_time": 1710016157,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 70129,
@@ -393,30 +441,6 @@
       "onboard_time": 1710025880,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68002,
-      "num": 68002,
-      "word": "为何年轻人不愿意进工厂了",
-      "onboard_time": 1710010337,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67555,
-      "num": 31479,
-      "word": "这个理由她已经用了半年了",
-      "onboard_time": 1710016157,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 66096,
-      "num": 66096,
-      "word": "演员尚梦初逝世",
-      "onboard_time": 1709989532,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 63537,
@@ -467,14 +491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52670,
-      "num": 52670,
-      "word": "为什么感冒咳嗽一到晚上就更严重",
-      "onboard_time": 1710025639,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 52347,
       "num": 94610,
       "word": "霍启刚建议实现大湾区体育教练资格互认",
@@ -497,6 +513,22 @@
       "onboard_time": 1709973871,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 42301,
+      "num": 42301,
+      "word": "哈弗茨绝杀",
+      "onboard_time": 1710027083,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 42096,
+      "num": 42096,
+      "word": "孟羽童回应整容",
+      "onboard_time": 1710027262,
+      "rank": 43,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 41336,
@@ -547,20 +579,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21300,
+      "num": 272152,
+      "word": "新质生产力如何改变生活",
+      "onboard_time": 1709987011,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 20899,
       "num": 29542,
       "word": "美白精华是智商税吗",
       "onboard_time": 1710005062,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 18750,
-      "num": 234291,
-      "word": "新质生产力如何改变生活",
-      "onboard_time": 1709987011,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17321,
