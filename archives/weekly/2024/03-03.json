@@ -1,6 +1,6 @@
 {
   "startTime": 1709396411859,
-  "endTime": 1709991228774,
+  "endTime": 1709993834491,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 2443817,
-      "num": 330423,
+      "num": 451919,
       "word": "杭州万象城",
       "onboard_time": 1709983231,
       "rank": 13,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 1892602,
-      "num": 330212,
+      "num": 450424,
       "word": "赵安吉车祸身亡细节",
       "onboard_time": 1709980888,
       "rank": 10,
@@ -265,6 +265,14 @@
       "onboard_time": 1709694633,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1796542,
+      "num": 1796542,
+      "word": "朱梓骁被纪凌尘气炸了",
+      "onboard_time": 1709990312,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1787950,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 1615603,
-      "num": 330764,
+      "num": 458787,
       "word": "杨紫提醒主持人牙齿上有口红",
       "onboard_time": 1709989353,
       "rank": 14,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 1596469,
-      "num": 517713,
+      "num": 633505,
       "word": "杭州警方通报男子抢劫珠宝店",
       "onboard_time": 1709987674,
       "rank": 1,
@@ -521,6 +529,14 @@
       "onboard_time": 1709441610,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1474402,
+      "num": 1474402,
+      "word": "刘美含否认再次落选浪姐",
+      "onboard_time": 1709991816,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1471349,
@@ -724,7 +740,7 @@
     },
     {
       "raw_hot": 1266432,
-      "num": 515762,
+      "num": 672750,
       "word": "微信能不能改成部分人三天可见",
       "onboard_time": 1709982392,
       "rank": 23,
@@ -1097,6 +1113,14 @@
       "onboard_time": 1709554054,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1060980,
+      "num": 1060980,
+      "word": "李权哲第二名出道",
+      "onboard_time": 1709990793,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 1060949,
@@ -1489,14 +1513,6 @@
       "onboard_time": 1709798369,
       "rank": 31,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 909097,
-      "num": 909097,
-      "word": "朱梓骁被纪凌尘气炸了",
-      "onboard_time": 1709990312,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 908318,
@@ -2180,7 +2196,7 @@
     },
     {
       "raw_hot": 739329,
-      "num": 349363,
+      "num": 406483,
       "word": "美国女子拍下老公用枪打死自己视频",
       "onboard_time": 1709984492,
       "rank": 12,
@@ -2393,6 +2409,14 @@
       "onboard_time": 1709462976,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 707197,
+      "num": 664750,
+      "word": "奥利C位出道",
+      "onboard_time": 1709990613,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 704633,
@@ -3572,7 +3596,7 @@
     },
     {
       "raw_hot": 549201,
-      "num": 329956,
+      "num": 334917,
       "word": "TikTok用户打爆美国会办公电话",
       "onboard_time": 1709985573,
       "rank": 16,
@@ -4035,6 +4059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 502218,
+      "num": 441406,
+      "word": "张杰会在女儿婚礼上唱三生三世",
+      "onboard_time": 1709991694,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 501900,
       "num": 501900,
       "word": "医生熬夜后是怎么补救的",
@@ -4049,14 +4081,6 @@
       "onboard_time": 1709619031,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 500206,
-      "num": 500206,
-      "word": "奥利C位出道",
-      "onboard_time": 1709990613,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 499752,
@@ -4499,6 +4523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 462912,
+      "num": 462912,
+      "word": "孟羽童回应简介是前500强董事长秘书",
+      "onboard_time": 1709992654,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462026,
       "num": 302783,
       "word": "差点亲到张凌赫",
@@ -4729,6 +4761,14 @@
       "onboard_time": 1709729010,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 440730,
+      "num": 440730,
+      "word": "月入过万你还会考研考公吗",
+      "onboard_time": 1709986593,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 440633,
@@ -5211,20 +5251,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 407812,
-      "num": 330896,
-      "word": "月入过万你还会考研考公吗",
-      "onboard_time": 1709986593,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 407735,
       "num": 280938,
       "word": "男朋友不愿意体检",
       "onboard_time": 1709789075,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 406563,
+      "num": 406563,
+      "word": "这居然是张栋梁",
+      "onboard_time": 1709991575,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 406199,
@@ -5345,14 +5385,6 @@
       "onboard_time": 1709939900,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 398836,
-      "num": 329906,
-      "word": "李权哲第二名出道",
-      "onboard_time": 1709990793,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 397678,
@@ -5776,6 +5808,14 @@
       "word": "杨紫金色高定",
       "onboard_time": 1709702851,
       "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 369662,
+      "num": 369662,
+      "word": "杨紫古韵旗袍",
+      "onboard_time": 1709990133,
+      "rank": 43,
       "category": "作品衍生"
     },
     {
@@ -6451,14 +6491,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 329586,
-      "num": 329586,
-      "word": "杨紫古韵旗袍",
-      "onboard_time": 1709990133,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 329314,
       "num": 329314,
       "word": "建议实施10年义务教育",
@@ -6584,6 +6616,14 @@
       "word": "GAI成功追星周杰伦",
       "onboard_time": 1709684853,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 322165,
+      "num": 322165,
+      "word": "王梓薇感谢赵丽颖推荐客串与凤行",
+      "onboard_time": 1709991995,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -8683,6 +8723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 239244,
+      "num": 460353,
+      "word": "中国2024年国防费预算增长7.2%",
+      "onboard_time": 1709989652,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 238642,
       "num": 238642,
       "word": "杨迪cos小夫",
@@ -8875,19 +8923,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234977,
+      "num": 234977,
+      "word": "妈妈炸的花生米被同学嫌弃了",
+      "onboard_time": 1709990075,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 234847,
       "num": 234847,
       "word": "减少你的分享欲",
       "onboard_time": 1709726430,
       "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 234796,
-      "num": 234796,
-      "word": "妈妈炸的花生米被同学嫌弃了",
-      "onboard_time": 1709990075,
-      "rank": 32,
       "category": "情感"
     },
     {
@@ -9219,6 +9267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 224394,
+      "num": 224394,
+      "word": "LGD关键反打",
+      "onboard_time": 1709992774,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 224386,
       "num": 224386,
       "word": "杨超越巴黎时装周穿搭",
@@ -9361,6 +9417,14 @@
       "onboard_time": 1709871517,
       "rank": 40,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 220903,
+      "num": 220903,
+      "word": "黄俊捷 你算是惹到棉花啦",
+      "onboard_time": 1709993134,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 220649,
@@ -11187,6 +11251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189330,
+      "num": 189330,
+      "word": "亚洲超星团排名",
+      "onboard_time": 1709992834,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189201,
       "num": 189201,
       "word": "眼泪女王",
@@ -12563,6 +12635,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 169634,
+      "num": 168085,
+      "word": "纪凌尘承认自负",
+      "onboard_time": 1709993494,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169567,
       "num": 169567,
       "word": "RNG七连败",
@@ -12657,6 +12737,14 @@
       "onboard_time": 1709427328,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168340,
+      "num": 168340,
+      "word": "中超联赛",
+      "onboard_time": 1709992955,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 168285,
@@ -13491,6 +13579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158281,
+      "num": 158281,
+      "word": "与凤行预约破600万",
+      "onboard_time": 1709992476,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157997,
       "num": 157997,
       "word": "吴镇宇真是小嘴抹了鹤顶红",
@@ -14035,6 +14131,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 152895,
+      "num": 152895,
+      "word": "北京国安越位",
+      "onboard_time": 1709992173,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152687,
       "num": 152687,
       "word": "这一抱硬控我10秒",
@@ -14409,14 +14513,6 @@
       "onboard_time": 1709684431,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 147969,
-      "num": 330811,
-      "word": "中国2024年国防费预算增长7.2%",
-      "onboard_time": 1709989652,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 147943,
@@ -15329,6 +15425,14 @@
       "onboard_time": 1709430692,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138856,
+      "num": 138856,
+      "word": "苏杉杉生日公演",
+      "onboard_time": 1709992416,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 138799,
@@ -16387,6 +16491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128147,
+      "num": 128147,
+      "word": "韩寒现身刘浩存新片首映礼",
+      "onboard_time": 1709992296,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128125,
       "num": 128125,
       "word": "电视剧小日子",
@@ -17275,6 +17387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117029,
+      "num": 127133,
+      "word": "保姆级画眉干货",
+      "onboard_time": 1709993315,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 116863,
       "num": 116863,
       "word": "狗狗为人类幼崽盖被子",
@@ -17843,6 +17963,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 109498,
+      "num": 126134,
+      "word": "AI生成的视频和照片如何甄别",
+      "onboard_time": 1709993494,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 109486,
       "num": 109486,
       "word": "甄嬛传 台词无缝乱接版",
@@ -17913,6 +18041,14 @@
       "onboard_time": 1709738071,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 108367,
+      "num": 125525,
+      "word": "蓝桉又四杀了",
+      "onboard_time": 1709993796,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 108337,
@@ -18948,7 +19084,7 @@
     },
     {
       "raw_hot": 74257,
-      "num": 518965,
+      "num": 1094547,
       "word": "解读最高人民法院工作报告",
       "onboard_time": 1709988273,
       "rank": 2,
