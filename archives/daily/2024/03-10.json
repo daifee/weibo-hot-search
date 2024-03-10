@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710048847644,
+  "endTime": 1710051632924,
   "band_list": [
     {
       "raw_hot": 1830133,
@@ -41,6 +41,14 @@
       "onboard_time": 1710042989,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 990408,
+      "num": 990408,
+      "word": "花店接5万2现金花束大单竟是洗钱",
+      "onboard_time": 1710049467,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 979351,
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576861,
+      "num": 289530,
+      "word": "王诗龄长发",
+      "onboard_time": 1710050787,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 571659,
       "num": 571659,
       "word": "宁静打了焉栩嘉一耳光",
@@ -283,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 487243,
+      "num": 487243,
+      "word": "87%的女性选择搞事业",
+      "onboard_time": 1710046590,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 444835,
       "num": 301927,
       "word": "杨天真回应不减肥原因",
@@ -299,6 +323,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 438714,
+      "num": 287701,
+      "word": "迪丽热巴天使蹲出圈",
+      "onboard_time": 1710048331,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 415545,
+      "num": 415545,
+      "word": "美国大选将迎耄耋对决",
+      "onboard_time": 1710047491,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 411677,
       "num": 411677,
       "word": "泪失禁体质可能是大脑太发达",
@@ -313,14 +353,6 @@
       "onboard_time": 1710040108,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 394721,
-      "num": 394721,
-      "word": "87%的女性选择搞事业",
-      "onboard_time": 1710046590,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 394410,
@@ -379,12 +411,28 @@
       "category": "体育,演出"
     },
     {
+      "raw_hot": 345158,
+      "num": 283314,
+      "word": "西班牙将正式承认巴勒斯坦国",
+      "onboard_time": 1710050670,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 343529,
       "num": 343529,
       "word": "手术切除的人体组织都去哪儿了",
       "onboard_time": 1710032186,
       "rank": 19,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 341546,
+      "num": 341546,
+      "word": "热辣滚烫 华语北美十年最大规模开画",
+      "onboard_time": 1710047370,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 336989,
@@ -451,6 +499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 300432,
+      "num": 300432,
+      "word": "王曼昱vs阿库拉",
+      "onboard_time": 1710050245,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298285,
       "num": 243588,
       "word": "肖战红色时尚大片",
@@ -467,12 +523,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 280004,
-      "num": 280004,
-      "word": "迪丽热巴天使蹲出圈",
-      "onboard_time": 1710048331,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 277875,
+      "num": 277875,
+      "word": "檀健次王鹤棣回复hi6",
+      "onboard_time": 1710047970,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 273843,
@@ -497,14 +553,6 @@
       "onboard_time": 1709984492,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 263509,
-      "num": 263509,
-      "word": "美国大选将迎耄耋对决",
-      "onboard_time": 1710047491,
-      "rank": 37,
-      "category": "国外时政"
     },
     {
       "raw_hot": 260838,
@@ -539,12 +587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244260,
-      "num": 244260,
-      "word": "檀健次王鹤棣回复hi6",
-      "onboard_time": 1710047970,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 244583,
+      "num": 244583,
+      "word": "妈妈一个人改造了儿子的房间",
+      "onboard_time": 1710050191,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 243431,
@@ -585,6 +633,14 @@
       "onboard_time": 1710041608,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214514,
+      "num": 214514,
+      "word": "领养一年的猫前主人说要回去",
+      "onboard_time": 1710050127,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 214292,
@@ -635,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197190,
+      "num": 197190,
+      "word": "袁悦击败郑钦文",
+      "onboard_time": 1710050490,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196946,
       "num": 196946,
       "word": "Puff发文求职",
@@ -659,6 +723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 186807,
+      "num": 186807,
+      "word": "金秀贤演受气包",
+      "onboard_time": 1710049349,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186109,
       "num": 186109,
       "word": "樊振东新加坡16连胜",
@@ -673,14 +745,6 @@
       "onboard_time": 1710031168,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 184853,
-      "num": 184853,
-      "word": "热辣滚烫 华语北美十年最大规模开画",
-      "onboard_time": 1710047370,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 182771,
@@ -705,6 +769,14 @@
       "onboard_time": 1710039929,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180159,
+      "num": 180159,
+      "word": "离线休息权入法的提案已立案",
+      "onboard_time": 1710048989,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 178304,
@@ -891,6 +963,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 142049,
+      "num": 142049,
+      "word": "招弟们经历了怎样的人生",
+      "onboard_time": 1710050787,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141950,
       "num": 141950,
       "word": "宋亚东不敌彼得严",
@@ -971,6 +1051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134423,
+      "num": 134423,
+      "word": "文心大模型4.0在中文上已经超过了GPT4",
+      "onboard_time": 1710048448,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 134234,
       "num": 134234,
       "word": "昂贵的新加坡为什么让人着迷",
@@ -1035,14 +1123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122432,
-      "num": 122432,
-      "word": "文心大模型4.0在中文上已经超过了GPT4",
-      "onboard_time": 1710048448,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 122156,
       "num": 122156,
       "word": "教室最高一排座位两层楼高",
@@ -1081,6 +1161,14 @@
       "onboard_time": 1710041190,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114374,
+      "num": 114374,
+      "word": "郑合惠子演的金镶玉",
+      "onboard_time": 1710049289,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 113392,
@@ -1155,6 +1243,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103301,
+      "num": 103301,
+      "word": "宋轶文咏珊合照",
+      "onboard_time": 1710051269,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 103264,
+      "num": 103264,
+      "word": "安卓苹果影像还有差距吗",
+      "onboard_time": 1710051269,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 102989,
       "num": 102989,
       "word": "终于知道电视里为啥喜欢买芹菜",
@@ -1201,6 +1305,14 @@
       "onboard_time": 1710037289,
       "rank": 44,
       "category": "国内时政,教育"
+    },
+    {
+      "raw_hot": 99377,
+      "num": 99377,
+      "word": "新世界狂欢动画",
+      "onboard_time": 1710051089,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 98830,
