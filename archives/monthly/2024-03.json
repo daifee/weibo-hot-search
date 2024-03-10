@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710099252827,
+  "endTime": 1710101946193,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -28041,6 +28041,14 @@
       "onboard_time": 1709305832,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49330,
+      "num": 24179,
+      "word": "张文宏谈青少年厕所文化",
+      "onboard_time": 1710099496,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48567,
