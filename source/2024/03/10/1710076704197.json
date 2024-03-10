@@ -1,0 +1,410 @@
+{
+  "runTime": 1710076704197,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2869929,
+        "num": 2869929,
+        "word": "清明节要调休",
+        "onboard_time": 1710071372,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782024,
+        "num": 782024,
+        "word": "赵丽颖陈建斌坐一起",
+        "onboard_time": 1710074915,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90106,
+        "num": 535036,
+        "word": "当甲骨文穿越到2024年的中国",
+        "onboard_time": 1710058408,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2150543,
+        "num": 534558,
+        "word": "刘东昊因意外离世",
+        "onboard_time": 1710072089,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533173,
+        "num": 533173,
+        "word": "马龙男单",
+        "onboard_time": 1710073772,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 873791,
+        "num": 491432,
+        "word": "5名艾滋病治愈者都有1个共同特点",
+        "onboard_time": 1710065789,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 669430,
+        "num": 484268,
+        "word": "赵丽颖想和张艺谋继续合作",
+        "onboard_time": 1710072331,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 380911,
+        "num": 380911,
+        "word": "桃花坞文案 顶级浪漫",
+        "onboard_time": 1710073652,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293163,
+        "num": 293163,
+        "word": "WE对战WBG",
+        "onboard_time": 1710073713,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71328,
+        "num": 293079,
+        "word": "热门打卡地代表委员发出邀请",
+        "onboard_time": 1710070650,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 795414,
+        "num": 292679,
+        "word": "韩国月子中心都吃什么",
+        "onboard_time": 1710069571,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 526563,
+        "num": 292480,
+        "word": "1993年李健在清华大学的入学照",
+        "onboard_time": 1710068970,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510190,
+        "num": 291989,
+        "word": "点读机女孩发烧不退再次进ICU",
+        "onboard_time": 1710057870,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 491461,
+        "num": 291853,
+        "word": "晚晚回应",
+        "onboard_time": 1710070052,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407222,
+        "num": 291536,
+        "word": "赵丽颖亚洲电影大奖获奖",
+        "onboard_time": 1710067047,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 356569,
+        "num": 291259,
+        "word": "网传Gucci晚宴嘉宾名单",
+        "onboard_time": 1710076292,
+        "rank": 15,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 349564,
+        "num": 290994,
+        "word": "晚学",
+        "onboard_time": 1710071611,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346049,
+        "num": 290735,
+        "word": "恋爱兄妹",
+        "onboard_time": 1710069811,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305078,
+        "num": 290464,
+        "word": "这样睡觉等于慢性自杀",
+        "onboard_time": 1710038131,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 290205,
+        "num": 290205,
+        "word": "二月二龙抬头有哪些习俗",
+        "onboard_time": 1710075211,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324732,
+        "num": 286431,
+        "word": "IU演唱会",
+        "onboard_time": 1710074915,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 278804,
+        "num": 278804,
+        "word": "建议大家雨天还是打伞吧",
+        "onboard_time": 1710064351,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266020,
+        "num": 266020,
+        "word": "赵丽颖鎏金亮钻裙",
+        "onboard_time": 1710068189,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236862,
+        "num": 236862,
+        "word": "3种蔬菜吃多了会致癌",
+        "onboard_time": 1710055829,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228798,
+        "num": 228798,
+        "word": "句句不含脏 字字在骂人",
+        "onboard_time": 1710061052,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220986,
+        "num": 220986,
+        "word": "楚乔传新预告",
+        "onboard_time": 1710059492,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202783,
+        "num": 202783,
+        "word": "宣璐与凤行妆造",
+        "onboard_time": 1710074130,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182341,
+        "num": 182341,
+        "word": "为什么韩国人吃苹果那么精致",
+        "onboard_time": 1710061052,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 181990,
+        "num": 181990,
+        "word": "欧阳娜娜叠戴珍珠项链",
+        "onboard_time": 1710075631,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176698,
+        "num": 176698,
+        "word": "建议将演员艺德列为重要评价指标",
+        "onboard_time": 1710075932,
+        "rank": 29,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 169604,
+        "num": 169604,
+        "word": "李英爱53岁的状态",
+        "onboard_time": 1710076412,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161709,
+        "num": 161709,
+        "word": "拉面师傅自制金手镯售价2万被拘",
+        "onboard_time": 1710059191,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140213,
+        "num": 140213,
+        "word": "ChatGPT每天用电量是家庭用电量的1.7万多倍",
+        "onboard_time": 1710064052,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 137763,
+        "num": 137763,
+        "word": "77名被告人因正当防卫宣告无罪",
+        "onboard_time": 1710073230,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136512,
+        "num": 136512,
+        "word": "接下来一个月浙江人的早饭",
+        "onboard_time": 1710061108,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133822,
+        "num": 133822,
+        "word": "做饭本质上是一种冥想",
+        "onboard_time": 1710074849,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132567,
+        "num": 132567,
+        "word": "AG对战狼队",
+        "onboard_time": 1710074490,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129860,
+        "num": 129860,
+        "word": "郝蕾打压式安慰王梓薇",
+        "onboard_time": 1710076355,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127626,
+        "num": 127626,
+        "word": "纪凌尘让宁静不再宁静",
+        "onboard_time": 1710055350,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153865,
+        "num": 127620,
+        "word": "赵丽颖工作室 还不出图",
+        "onboard_time": 1710062910,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127607,
+        "num": 127607,
+        "word": "平野美宇3比0早田希娜",
+        "onboard_time": 1710070892,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122963,
+        "num": 122963,
+        "word": "建议银行卡上的膜不要撕",
+        "onboard_time": 1710066987,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115155,
+        "num": 115155,
+        "word": "点读机女孩",
+        "onboard_time": 1710063087,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 110285,
+        "num": 110285,
+        "word": "太湖湾音乐节 十个勤天",
+        "onboard_time": 1710064229,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110019,
+        "num": 110019,
+        "word": "李昀锐吃多少练多少",
+        "onboard_time": 1710070709,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109134,
+        "num": 109134,
+        "word": "小胖海诺真超标",
+        "onboard_time": 1710076470,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103818,
+        "num": 103818,
+        "word": "林俊杰演唱会人气",
+        "onboard_time": 1710064950,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103720,
+        "num": 103720,
+        "word": "你建议孩子学什么专业",
+        "onboard_time": 1710075573,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 101278,
+        "num": 101278,
+        "word": "英雄团长祁发宝头部伤痕依旧明显",
+        "onboard_time": 1710076470,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 96283,
+        "num": 96283,
+        "word": "迷笛阵容",
+        "onboard_time": 1710075452,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}

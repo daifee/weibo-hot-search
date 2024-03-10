@@ -1,10 +1,10 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710074548048,
+  "endTime": 1710076704197,
   "band_list": [
     {
-      "raw_hot": 2513454,
-      "num": 2513454,
+      "raw_hot": 2869929,
+      "num": 2869929,
       "word": "清明节要调休",
       "onboard_time": 1710071372,
       "rank": 0,
@@ -19,7 +19,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1880620,
+      "raw_hot": 2150543,
       "num": 857768,
       "word": "刘东昊因意外离世",
       "onboard_time": 1710072089,
@@ -217,6 +217,14 @@
       "onboard_time": 1710027262,
       "rank": 43,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 782024,
+      "num": 782024,
+      "word": "赵丽颖陈建斌坐一起",
+      "onboard_time": 1710074915,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 767903,
@@ -443,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 533173,
+      "num": 533173,
+      "word": "马龙男单",
+      "onboard_time": 1710073772,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 525034,
       "num": 525034,
       "word": "第一次在宁静的眼神里看到了无助",
@@ -532,7 +548,7 @@
     },
     {
       "raw_hot": 429475,
-      "num": 251627,
+      "num": 290994,
       "word": "晚学",
       "onboard_time": 1710071611,
       "rank": 16,
@@ -619,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380911,
+      "num": 380911,
+      "word": "桃花坞文案 顶级浪漫",
+      "onboard_time": 1710073652,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380434,
       "num": 380434,
       "word": "婆婆把房屋面积精确到小数点",
@@ -683,6 +707,14 @@
       "category": "网红,财经"
     },
     {
+      "raw_hot": 356569,
+      "num": 291259,
+      "word": "网传Gucci晚宴嘉宾名单",
+      "onboard_time": 1710076292,
+      "rank": 15,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 354667,
       "num": 354667,
       "word": "樊振东林昀儒一起看霉霉演唱会",
@@ -745,6 +777,14 @@
       "onboard_time": 1709986351,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 324732,
+      "num": 286431,
+      "word": "IU演唱会",
+      "onboard_time": 1710074915,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 324566,
@@ -865,6 +905,22 @@
       "onboard_time": 1710066210,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293163,
+      "num": 293163,
+      "word": "WE对战WBG",
+      "onboard_time": 1710073713,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 290205,
+      "num": 290205,
+      "word": "二月二龙抬头有哪些习俗",
+      "onboard_time": 1710075211,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286274,
@@ -995,14 +1051,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 239133,
-      "num": 239133,
-      "word": "马龙男单",
-      "onboard_time": 1710073772,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 236813,
       "num": 217268,
       "word": "现在的朋友圈越来越低调了",
@@ -1033,14 +1081,6 @@
       "onboard_time": 1710052711,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 224484,
-      "num": 224484,
-      "word": "桃花坞文案 顶级浪漫",
-      "onboard_time": 1710073652,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 221638,
@@ -1153,6 +1193,14 @@
       "onboard_time": 1710069270,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202783,
+      "num": 202783,
+      "word": "宣璐与凤行妆造",
+      "onboard_time": 1710074130,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 200993,
@@ -1323,6 +1371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 181990,
+      "num": 181990,
+      "word": "欧阳娜娜叠戴珍珠项链",
+      "onboard_time": 1710075631,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181560,
       "num": 181560,
       "word": "周到 马导也是不容易",
@@ -1369,6 +1425,14 @@
       "onboard_time": 1710045689,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 176698,
+      "num": 176698,
+      "word": "建议将演员艺德列为重要评价指标",
+      "onboard_time": 1710075932,
+      "rank": 29,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 176105,
@@ -1419,14 +1483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173124,
-      "num": 173124,
-      "word": "宣璐与凤行妆造",
-      "onboard_time": 1710074130,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170404,
       "num": 375142,
       "word": "互联网已成为永不落幕的课堂",
@@ -1441,6 +1497,14 @@
       "onboard_time": 1709989954,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169604,
+      "num": 169604,
+      "word": "李英爱53岁的状态",
+      "onboard_time": 1710076412,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 168681,
@@ -1651,14 +1715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147316,
-      "num": 147316,
-      "word": "WE对战WBG",
-      "onboard_time": 1710073713,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 147143,
       "num": 147143,
       "word": "WTT新加坡大满贯",
@@ -1843,6 +1899,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 133822,
+      "num": 133822,
+      "word": "做饭本质上是一种冥想",
+      "onboard_time": 1710074849,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132085,
       "num": 132085,
       "word": "孟家女性",
@@ -1873,6 +1937,14 @@
       "onboard_time": 1710010337,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129860,
+      "num": 129860,
+      "word": "郝蕾打压式安慰王梓薇",
+      "onboard_time": 1710076355,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 129529,
@@ -2140,11 +2212,19 @@
     },
     {
       "raw_hot": 111553,
-      "num": 296474,
+      "num": 535036,
       "word": "当甲骨文穿越到2024年的中国",
       "onboard_time": 1710058408,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 109134,
+      "num": 109134,
+      "word": "小胖海诺真超标",
+      "onboard_time": 1710076470,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 108157,
@@ -2235,6 +2315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103720,
+      "num": 103720,
+      "word": "你建议孩子学什么专业",
+      "onboard_time": 1710075573,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 103663,
       "num": 103663,
       "word": "BLG战胜RA",
@@ -2273,6 +2361,14 @@
       "onboard_time": 1710032846,
       "rank": 43,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 101278,
+      "num": 101278,
+      "word": "英雄团长祁发宝头部伤痕依旧明显",
+      "onboard_time": 1710076470,
+      "rank": 48,
+      "category": "军事"
     },
     {
       "raw_hot": 100930,
@@ -2337,6 +2433,14 @@
       "onboard_time": 1710062910,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 96283,
+      "num": 96283,
+      "word": "迷笛阵容",
+      "onboard_time": 1710075452,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 95723,
@@ -2483,6 +2587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71328,
+      "num": 293079,
+      "word": "热门打卡地代表委员发出邀请",
+      "onboard_time": 1710070650,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 70129,
       "num": 70129,
       "word": "阿森纳2比1布伦特福德",
@@ -2496,14 +2608,6 @@
       "word": "两会送出文旅上分攻略",
       "onboard_time": 1710039210,
       "rank": 24,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 63967,
-      "num": 292083,
-      "word": "热门打卡地代表委员发出邀请",
-      "onboard_time": 1710070650,
-      "rank": 9,
       "category": "国内时政"
     },
     {
