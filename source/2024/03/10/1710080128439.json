@@ -1,0 +1,410 @@
+{
+  "runTime": 1710080128439,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1527698,
+        "num": 1527698,
+        "word": "清明节要调休",
+        "onboard_time": 1710071372,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1383361,
+        "num": 1383361,
+        "word": "今年二月二真有龙抬头",
+        "onboard_time": 1710076769,
+        "rank": 1,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 66534,
+        "num": 855136,
+        "word": "当甲骨文穿越到2024年的中国",
+        "onboard_time": 1710058408,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1731848,
+        "num": 817692,
+        "word": "刘东昊因意外离世",
+        "onboard_time": 1710072089,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653776,
+        "num": 653776,
+        "word": "赵丽颖陈建斌坐一起",
+        "onboard_time": 1710074915,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 854150,
+        "num": 635948,
+        "word": "5名艾滋病治愈者都有1个共同特点",
+        "onboard_time": 1710065789,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 479801,
+        "num": 479801,
+        "word": "张学友演唱会将补偿住宿及车票损失",
+        "onboard_time": 1710078633,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 459133,
+        "num": 459133,
+        "word": "眼泪女王第二集",
+        "onboard_time": 1710077552,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389812,
+        "num": 389812,
+        "word": "桃花坞文案 顶级浪漫",
+        "onboard_time": 1710073652,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43376,
+        "num": 389256,
+        "word": "热门打卡地代表委员发出邀请",
+        "onboard_time": 1710070650,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1024973,
+        "num": 382862,
+        "word": "网传Gucci晚宴嘉宾名单",
+        "onboard_time": 1710076292,
+        "rank": 10,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 472486,
+        "num": 382068,
+        "word": "点读机女孩发烧不退再次进ICU",
+        "onboard_time": 1710057870,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 438115,
+        "num": 375854,
+        "word": "苹果的C口和安卓机的C口",
+        "onboard_time": 1710079053,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 375099,
+        "num": 375099,
+        "word": "马龙男单",
+        "onboard_time": 1710073772,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362852,
+        "num": 362852,
+        "word": "韩国月子中心都吃什么",
+        "onboard_time": 1710069571,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 327804,
+        "num": 327804,
+        "word": "赵丽颖想和张艺谋继续合作",
+        "onboard_time": 1710072331,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 322615,
+        "num": 322615,
+        "word": "二月二龙抬头有哪些习俗",
+        "onboard_time": 1710075211,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306893,
+        "num": 306893,
+        "word": "1993年李健在清华大学的入学照",
+        "onboard_time": 1710068970,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253246,
+        "num": 253246,
+        "word": "AG超级兵偷家",
+        "onboard_time": 1710078753,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 250617,
+        "num": 250617,
+        "word": "蒋勤勤亚洲电影大奖最佳女主角",
+        "onboard_time": 1710079773,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 280719,
+        "num": 249583,
+        "word": "建议大家雨天还是打伞吧",
+        "onboard_time": 1710064351,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318395,
+        "num": 249407,
+        "word": "赵丽颖亚洲电影大奖获奖",
+        "onboard_time": 1710067047,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248244,
+        "num": 248244,
+        "word": "微信里你不知道的小妙招",
+        "onboard_time": 1710077552,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 229462,
+        "num": 229462,
+        "word": "建议将演员艺德列为重要评价指标",
+        "onboard_time": 1710075932,
+        "rank": 23,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 209526,
+        "num": 209526,
+        "word": "晚晚回应",
+        "onboard_time": 1710070052,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203912,
+        "num": 203912,
+        "word": "恋爱兄妹",
+        "onboard_time": 1710069811,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226508,
+        "num": 203559,
+        "word": "赵丽颖阿云嘎同框",
+        "onboard_time": 1710078097,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202042,
+        "num": 202042,
+        "word": "这样睡觉等于慢性自杀",
+        "onboard_time": 1710038131,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198450,
+        "num": 198450,
+        "word": "郝蕾打压式安慰王梓薇",
+        "onboard_time": 1710076355,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194301,
+        "num": 194301,
+        "word": "IU演唱会",
+        "onboard_time": 1710074915,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 407772,
+        "num": 189276,
+        "word": "男子花91万为女友买房分手要求退124万",
+        "onboard_time": 1710079172,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211418,
+        "num": 186262,
+        "word": "王刚左小腿中上段腓骨裂纹骨折",
+        "onboard_time": 1710079234,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176658,
+        "num": 176658,
+        "word": "7类食物焯水后才能吃",
+        "onboard_time": 1710079234,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175993,
+        "num": 175993,
+        "word": "马龙3比1A勒布伦",
+        "onboard_time": 1710078097,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171338,
+        "num": 171338,
+        "word": "楚乔传新预告",
+        "onboard_time": 1710059492,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170941,
+        "num": 170941,
+        "word": "3种蔬菜吃多了会致癌",
+        "onboard_time": 1710055829,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165611,
+        "num": 165611,
+        "word": "3个动作拥有纤细手臂",
+        "onboard_time": 1710079715,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 165354,
+        "num": 165354,
+        "word": "AG对战狼队",
+        "onboard_time": 1710074490,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153943,
+        "num": 153943,
+        "word": "句句不含脏 字字在骂人",
+        "onboard_time": 1710061052,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151996,
+        "num": 151996,
+        "word": "为什么韩国人吃苹果那么精致",
+        "onboard_time": 1710061052,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150964,
+        "num": 150964,
+        "word": "沙丘2 字幕翻译",
+        "onboard_time": 1710077969,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138283,
+        "num": 138283,
+        "word": "晚学",
+        "onboard_time": 1710071611,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137415,
+        "num": 137415,
+        "word": "点读机女孩",
+        "onboard_time": 1710063087,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134445,
+        "num": 134445,
+        "word": "今晚开放麦",
+        "onboard_time": 1710079474,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188025,
+        "num": 134392,
+        "word": "赵丽颖鎏金亮钻裙",
+        "onboard_time": 1710068189,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129892,
+        "num": 129892,
+        "word": "长生的沈梦溪",
+        "onboard_time": 1710079715,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128246,
+        "num": 128246,
+        "word": "拉面师傅自制金手镯售价2万被拘",
+        "onboard_time": 1710059191,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119489,
+        "num": 119489,
+        "word": "英雄团长祁发宝头部伤痕依旧明显",
+        "onboard_time": 1710076470,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 112434,
+        "num": 112434,
+        "word": "苹果热橙茶",
+        "onboard_time": 1710078454,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111799,
+        "num": 111799,
+        "word": "WE对战WBG",
+        "onboard_time": 1710073713,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#为高质量发展注入新动能塑造新优势#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710077654896,
+  "endTime": 1710080128439,
   "band_list": [
     {
       "raw_hot": 2869929,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1383361,
+      "num": 1383361,
+      "word": "今年二月二真有龙抬头",
+      "onboard_time": 1710076769,
+      "rank": 26,
+      "category": "自然"
+    },
+    {
       "raw_hot": 1306580,
       "num": 1306580,
       "word": "花店接5万2现金花束大单竟是洗钱",
@@ -99,6 +107,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1024973,
+      "num": 382862,
+      "word": "网传Gucci晚宴嘉宾名单",
+      "onboard_time": 1710076292,
+      "rank": 15,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 998775,
       "num": 998775,
       "word": "楚乔传新预告",
@@ -137,14 +153,6 @@
       "onboard_time": 1710064052,
       "rank": 12,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 941241,
-      "num": 291259,
-      "word": "网传Gucci晚宴嘉宾名单",
-      "onboard_time": 1710076292,
-      "rank": 15,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 929057,
@@ -523,6 +531,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 479801,
+      "num": 479801,
+      "word": "张学友演唱会将补偿住宿及车票损失",
+      "onboard_time": 1710078633,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 459133,
+      "num": 459133,
+      "word": "眼泪女王第二集",
+      "onboard_time": 1710077552,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 448371,
       "num": 282806,
       "word": "为什么韩国人吃苹果那么精致",
@@ -555,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438115,
+      "num": 375854,
+      "word": "苹果的C口和安卓机的C口",
+      "onboard_time": 1710079053,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 434144,
       "num": 434144,
       "word": "太湖湾音乐节 十个勤天",
@@ -585,6 +617,14 @@
       "onboard_time": 1710025700,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 407772,
+      "num": 189276,
+      "word": "男子花91万为女友买房分手要求退124万",
+      "onboard_time": 1710079172,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407093,
@@ -1011,12 +1051,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 253246,
+      "num": 253246,
+      "word": "AG超级兵偷家",
+      "onboard_time": 1710078753,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 253064,
       "num": 253064,
       "word": "何书桓要去大上海看古巨基唱歌了",
       "onboard_time": 1710043410,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 250617,
+      "num": 250617,
+      "word": "蒋勤勤亚洲电影大奖最佳女主角",
+      "onboard_time": 1710079773,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 248244,
+      "num": 248244,
+      "word": "微信里你不知道的小妙招",
+      "onboard_time": 1710077552,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 248174,
@@ -1083,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229462,
+      "num": 229462,
+      "word": "建议将演员艺德列为重要评价指标",
+      "onboard_time": 1710075932,
+      "rank": 29,
+      "category": "国内时政,艺人"
+    },
+    {
       "raw_hot": 228442,
       "num": 238203,
       "word": "人大代表拿出敦煌文创瞬间被围观",
@@ -1091,20 +1163,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 228395,
-      "num": 228395,
-      "word": "建议将演员艺德列为重要评价指标",
-      "onboard_time": 1710075932,
-      "rank": 29,
-      "category": "国内时政,艺人"
-    },
-    {
-      "raw_hot": 226747,
-      "num": 226747,
-      "word": "今年二月二真有龙抬头",
-      "onboard_time": 1710076769,
+      "raw_hot": 226508,
+      "num": 203559,
+      "word": "赵丽颖阿云嘎同框",
+      "onboard_time": 1710078097,
       "rank": 26,
-      "category": "自然"
+      "category": "电影"
     },
     {
       "raw_hot": 221638,
@@ -1177,6 +1241,14 @@
       "onboard_time": 1710033627,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211418,
+      "num": 186262,
+      "word": "王刚左小腿中上段腓骨裂纹骨折",
+      "onboard_time": 1710079234,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 211406,
@@ -1259,6 +1331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198450,
+      "num": 198450,
+      "word": "郝蕾打压式安慰王梓薇",
+      "onboard_time": 1710076355,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197190,
       "num": 197190,
       "word": "袁悦击败郑钦文",
@@ -1289,14 +1369,6 @@
       "onboard_time": 1710069751,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 194924,
-      "num": 194924,
-      "word": "郝蕾打压式安慰王梓薇",
-      "onboard_time": 1710076355,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 192810,
@@ -1467,12 +1539,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 176658,
+      "num": 176658,
+      "word": "7类食物焯水后才能吃",
+      "onboard_time": 1710079234,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 176105,
       "num": 176105,
       "word": "更适合春天的朋友圈",
       "onboard_time": 1710056430,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175993,
+      "num": 175993,
+      "word": "马龙3比1A勒布伦",
+      "onboard_time": 1710078097,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 175680,
@@ -1561,6 +1649,22 @@
       "onboard_time": 1710040948,
       "rank": 33,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 165611,
+      "num": 165611,
+      "word": "3个动作拥有纤细手臂",
+      "onboard_time": 1710079715,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 165354,
+      "num": 165354,
+      "word": "AG对战狼队",
+      "onboard_time": 1710074490,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 164045,
@@ -1715,6 +1819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 150964,
+      "num": 150964,
+      "word": "沙丘2 字幕翻译",
+      "onboard_time": 1710077969,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 150794,
       "num": 150794,
       "word": "金毛 特别不喜欢哈士奇",
@@ -1771,14 +1883,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 144245,
-      "num": 144245,
-      "word": "AG对战狼队",
-      "onboard_time": 1710074490,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 143144,
       "num": 143144,
       "word": "文心大模型4.0在中文上已经超过了GPT4",
@@ -1809,14 +1913,6 @@
       "onboard_time": 1710046050,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 142281,
-      "num": 142281,
-      "word": "眼泪女王第二集",
-      "onboard_time": 1710077552,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 142049,
@@ -1931,6 +2027,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 134445,
+      "num": 134445,
+      "word": "今晚开放麦",
+      "onboard_time": 1710079474,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134234,
       "num": 134234,
       "word": "昂贵的新加坡为什么让人着迷",
@@ -1985,6 +2089,14 @@
       "onboard_time": 1710010337,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129892,
+      "num": 129892,
+      "word": "长生的沈梦溪",
+      "onboard_time": 1710079715,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 129529,
@@ -2171,14 +2283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116633,
-      "num": 116633,
-      "word": "微信里你不知道的小妙招",
-      "onboard_time": 1710077552,
-      "rank": 43,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 115824,
       "num": 115824,
       "word": "我拍的vs我画的",
@@ -2259,8 +2363,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112434,
+      "num": 112434,
+      "word": "苹果热橙茶",
+      "onboard_time": 1710078454,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 111553,
-      "num": 723270,
+      "num": 855136,
       "word": "当甲骨文穿越到2024年的中国",
       "onboard_time": 1710058408,
       "rank": 38,
@@ -2620,7 +2732,7 @@
     },
     {
       "raw_hot": 71328,
-      "num": 293079,
+      "num": 389256,
       "word": "热门打卡地代表委员发出邀请",
       "onboard_time": 1710070650,
       "rank": 9,
@@ -2871,6 +2983,9 @@
     },
     {
       "word": "#读懂总书记两会金句中的重要指引#"
+    },
+    {
+      "word": "#为高质量发展注入新动能塑造新优势#"
     }
   ]
 }
