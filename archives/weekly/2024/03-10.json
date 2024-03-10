@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710110114604,
+  "endTime": 1710112684955,
   "band_list": [
     {
       "raw_hot": 2869929,
@@ -571,6 +571,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 508935,
+      "num": 163627,
+      "word": "男方出资登记女方名下房产归谁",
+      "onboard_time": 1710104535,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505152,
       "num": 505152,
       "word": "学生睡不醒班主任背到医院",
@@ -617,6 +625,14 @@
       "onboard_time": 1710077552,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 458436,
+      "num": 163443,
+      "word": "高校规定博士五年未升副教授转岗后勤",
+      "onboard_time": 1710110358,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 448371,
@@ -769,6 +785,14 @@
       "onboard_time": 1710056489,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 378734,
+      "num": 378734,
+      "word": "孩子幼儿园就在单位楼下是什么体验",
+      "onboard_time": 1710102375,
+      "rank": 38,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 375658,
@@ -1331,14 +1355,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 217659,
-      "num": 53563,
-      "word": "男方出资登记女方名下房产归谁",
-      "onboard_time": 1710104535,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217213,
       "num": 217213,
       "word": "叶童躲的不是雨是郑合惠子",
@@ -1417,6 +1433,22 @@
       "onboard_time": 1710069270,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205619,
+      "num": 162700,
+      "word": "沈腾拍得像被捕了",
+      "onboard_time": 1710096137,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 204047,
+      "num": 204047,
+      "word": "二月二",
+      "onboard_time": 1710112223,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 204046,
@@ -1731,6 +1763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178139,
+      "num": 162323,
+      "word": "美国女子带死者到银行刷脸盗取存款",
+      "onboard_time": 1710089303,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177629,
       "num": 177629,
       "word": "香港买金每克便宜70元",
@@ -1899,6 +1939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162297,
+      "num": 162297,
+      "word": "北京偶遇朴振英",
+      "onboard_time": 1710093621,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161622,
       "num": 161622,
       "word": "颖儿揭秘女演员剧组吃什么",
@@ -1964,7 +2012,7 @@
     },
     {
       "raw_hot": 158344,
-      "num": 111074,
+      "num": 149112,
       "word": "7岁女孩穿高跟鞋出门2小时后悔",
       "onboard_time": 1710087987,
       "rank": 38,
@@ -2467,14 +2515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123308,
-      "num": 115440,
-      "word": "美国女子带死者到银行刷脸盗取存款",
-      "onboard_time": 1710089303,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123119,
       "num": 123119,
       "word": "李现周雨彤晒剧照",
@@ -2568,6 +2608,14 @@
       "word": "这种痛到怀疑人生的皮肤病最佳治疗期3天",
       "onboard_time": 1710032367,
       "rank": 37,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 117023,
+      "num": 117023,
+      "word": "打宫颈癌疫苗前要做HPV检查吗",
+      "onboard_time": 1710106095,
+      "rank": 47,
       "category": "健康医疗"
     },
     {
@@ -2697,6 +2745,14 @@
       "onboard_time": 1710081873,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110951,
+      "num": 110951,
+      "word": "张文宏谈青少年厕所文化",
+      "onboard_time": 1710099496,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 109974,
@@ -2947,14 +3003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94034,
-      "num": 53337,
-      "word": "孩子幼儿园就在单位楼下是什么体验",
-      "onboard_time": 1710102375,
-      "rank": 38,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 93566,
       "num": 108859,
       "word": "蜂类只会蜇人一次吗",
@@ -2993,14 +3041,6 @@
       "onboard_time": 1710028404,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 89349,
-      "num": 53277,
-      "word": "沈腾拍得像被捕了",
-      "onboard_time": 1710096137,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 88037,
@@ -3067,20 +3107,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78525,
+      "num": 78525,
+      "word": "天一热手脚就长小水泡还巨痒",
+      "onboard_time": 1710091761,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 77694,
       "num": 106881,
       "word": "沧州雄狮1比0成都蓉城",
       "onboard_time": 1710064950,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77490,
-      "num": 60098,
-      "word": "北京偶遇朴振英",
-      "onboard_time": 1710093621,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 74335,
@@ -3091,20 +3131,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73085,
+      "num": 73085,
+      "word": "三类人不宜长时间走路",
+      "onboard_time": 1710096557,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 71328,
       "num": 436066,
       "word": "热门打卡地代表委员发出邀请",
       "onboard_time": 1710070650,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 70718,
-      "num": 35085,
-      "word": "打宫颈癌疫苗前要做HPV检查吗",
-      "onboard_time": 1710106095,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 70129,
@@ -3147,14 +3187,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 61260,
-      "num": 52902,
-      "word": "张文宏谈青少年厕所文化",
-      "onboard_time": 1710099496,
-      "rank": 11,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 59646,
       "num": 94842,
       "word": "杭州太子湾引进灰紫色浴缸郁金香",
@@ -3169,6 +3201,14 @@
       "onboard_time": 1710064229,
       "rank": 7,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 56362,
+      "num": 56362,
+      "word": "女生回应导师修改3万字论文",
+      "onboard_time": 1710111801,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55950,
@@ -3243,12 +3283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37351,
-      "num": 50190,
-      "word": "天一热手脚就长小水泡还巨痒",
-      "onboard_time": 1710091761,
-      "rank": 47,
-      "category": "健康医疗"
+      "raw_hot": 38294,
+      "num": 39542,
+      "word": "男子资助大爷去车站评论区全是熟人",
+      "onboard_time": 1710104716,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35010,
@@ -3283,20 +3323,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28745,
-      "num": 28745,
-      "word": "三类人不宜长时间走路",
-      "onboard_time": 1710096557,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 26932,
       "num": 24565,
       "word": "靳东再谈假靳东事件",
       "onboard_time": 1710010757,
       "rank": 42,
       "category": "国内时政,艺人"
+    },
+    {
+      "raw_hot": 26753,
+      "num": 858254,
+      "word": "春耕春管如火如荼",
+      "onboard_time": 1710074490,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26056,
@@ -3313,14 +3353,6 @@
       "onboard_time": 1709987011,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 23326,
-      "num": 23326,
-      "word": "男子资助大爷去车站评论区全是熟人",
-      "onboard_time": 1710104716,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20899,
@@ -3353,14 +3385,6 @@
       "onboard_time": 1710013996,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 15210,
-      "num": 858254,
-      "word": "春耕春管如火如荼",
-      "onboard_time": 1710074490,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14916,
