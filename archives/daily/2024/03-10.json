@@ -1,7 +1,15 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710027327002,
+  "endTime": 1710033335145,
   "band_list": [
+    {
+      "raw_hot": 810838,
+      "num": 218031,
+      "word": "印尼一航班2名飞行员同时睡着28分钟",
+      "onboard_time": 1710029064,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 800961,
       "num": 800961,
@@ -9,6 +17,14 @@
       "onboard_time": 1709991816,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 790470,
+      "num": 217874,
+      "word": "孟羽童回应整容",
+      "onboard_time": 1710027262,
+      "rank": 43,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 714311,
@@ -51,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589765,
+      "num": 589765,
+      "word": "全国政协十四届二次会议闭幕会",
+      "onboard_time": 1710031467,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 571659,
       "num": 571659,
       "word": "宁静打了焉栩嘉一耳光",
@@ -59,12 +83,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 537356,
+      "num": 217816,
+      "word": "龙丹妮说终于没人喊倒闭了",
+      "onboard_time": 1710030268,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 523622,
       "num": 302495,
       "word": "赵安吉车祸身亡细节",
       "onboard_time": 1709980888,
       "rank": 13,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 505152,
+      "num": 505152,
+      "word": "学生睡不醒班主任背到医院",
+      "onboard_time": 1710004702,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491632,
@@ -89,14 +129,6 @@
       "onboard_time": 1710000033,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 377170,
-      "num": 377170,
-      "word": "学生睡不醒班主任背到医院",
-      "onboard_time": 1710004702,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 374020,
@@ -155,11 +187,51 @@
       "category": "情感"
     },
     {
+      "raw_hot": 302327,
+      "num": 302327,
+      "word": "李宇春哭了",
+      "onboard_time": 1710026901,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 273168,
+      "num": 217412,
+      "word": "刘诗诗蓝色高定",
+      "onboard_time": 1710032668,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 265043,
       "num": 265043,
       "word": "美国女子拍下老公用枪打死自己视频",
       "onboard_time": 1709984492,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260785,
+      "num": 260785,
+      "word": "为什么感冒咳嗽一到晚上就更严重",
+      "onboard_time": 1710025639,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 259030,
+      "num": 259030,
+      "word": "泪失禁体质可能是大脑太发达",
+      "onboard_time": 1710025700,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 248178,
+      "num": 217285,
+      "word": "年入60万空巢青年困在县城婚恋市场",
+      "onboard_time": 1710032008,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -179,6 +251,38 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224165,
+      "num": 224165,
+      "word": "王梓薇连续三四次被换角",
+      "onboard_time": 1710032008,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 223358,
+      "num": 223358,
+      "word": "别对我动心 竹马被天降秒了",
+      "onboard_time": 1710031767,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 218045,
+      "num": 218045,
+      "word": "委员称部分企业甚至没有上下班的界限",
+      "onboard_time": 1710030746,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 217099,
+      "num": 217099,
+      "word": "手术切除的人体组织都去哪儿了",
+      "onboard_time": 1710032186,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 209551,
       "num": 209551,
       "word": "何洛洛演技",
@@ -195,12 +299,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 187674,
-      "num": 187674,
-      "word": "李宇春哭了",
-      "onboard_time": 1710026901,
-      "rank": 5,
-      "category": "演出"
+      "raw_hot": 182833,
+      "num": 182833,
+      "word": "睡眠变老的3种表现",
+      "onboard_time": 1710031168,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 182771,
@@ -209,6 +313,22 @@
       "onboard_time": 1709994696,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 182386,
+      "num": 182386,
+      "word": "代表建议由国家负担生育福利支出",
+      "onboard_time": 1710028884,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 181052,
+      "num": 181052,
+      "word": "射手座真的有间歇性厌人症",
+      "onboard_time": 1710032186,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 178304,
@@ -251,12 +371,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154349,
+      "num": 154349,
+      "word": "真正护眼的3个小习惯",
+      "onboard_time": 1710031227,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 143026,
+      "num": 137072,
+      "word": "韩路 不到8万元插混轿车开着啥感觉",
+      "onboard_time": 1710033088,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 138731,
       "num": 138731,
       "word": "爱在黎明前降落",
       "onboard_time": 1709997994,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137609,
+      "num": 137609,
+      "word": "阮经天特写",
+      "onboard_time": 1710030326,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 136564,
@@ -267,12 +411,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 133070,
-      "num": 81967,
-      "word": "泪失禁体质可能是大脑太发达",
-      "onboard_time": 1710025700,
-      "rank": 22,
-      "category": "健康医疗"
+      "raw_hot": 129164,
+      "num": 129164,
+      "word": "为何年轻人不愿意进工厂了",
+      "onboard_time": 1710010337,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 126215,
@@ -291,6 +435,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120091,
+      "num": 120091,
+      "word": "持铁锤打砸抢金店男子疑有精神疾病",
+      "onboard_time": 1710031407,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118672,
+      "num": 118672,
+      "word": "林俊杰talking",
+      "onboard_time": 1710033206,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 117190,
+      "num": 117190,
+      "word": "这种痛到怀疑人生的皮肤病最佳治疗期3天",
+      "onboard_time": 1710032367,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116830,
       "num": 116830,
       "word": "被我弄丢的你结局细思极恐",
@@ -299,12 +467,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116079,
+      "num": 116079,
+      "word": "教室最高一排座位两层楼高",
+      "onboard_time": 1710032367,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 107169,
       "num": 107169,
       "word": "瘦腰瘦得特别快的运动",
       "onboard_time": 1710001228,
       "rank": 48,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 106848,
+      "num": 106848,
+      "word": "眼泪女王首播",
+      "onboard_time": 1710028222,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106388,
+      "num": 106388,
+      "word": "虞书欣晒嘘国王在冬眠开机照",
+      "onboard_time": 1710030867,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 105060,
@@ -331,12 +523,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 101846,
+      "num": 101846,
+      "word": "金庸诞辰一百周年",
+      "onboard_time": 1710032846,
+      "rank": 43,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 100930,
       "num": 100930,
       "word": "沙丘2",
       "onboard_time": 1709995177,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99975,
+      "num": 99975,
+      "word": "杨鸣被李晓旭误伤",
+      "onboard_time": 1710028643,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 98830,
@@ -353,14 +561,6 @@
       "onboard_time": 1709995653,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95576,
-      "num": 81824,
-      "word": "为什么感冒咳嗽一到晚上就更严重",
-      "onboard_time": 1710025639,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 94042,
@@ -387,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89760,
+      "num": 89760,
+      "word": "伊能静去看了霉霉演唱会",
+      "onboard_time": 1710028404,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 88037,
       "num": 95154,
       "word": "李宇春演唱会直播",
@@ -403,6 +611,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 85615,
+      "num": 85615,
+      "word": "什么样的孩子才能成为大科学家",
+      "onboard_time": 1710033150,
+      "rank": 48,
+      "category": "国内时政,教育"
+    },
+    {
       "raw_hot": 85073,
       "num": 94934,
       "word": "李兰迪林一身高差",
@@ -411,12 +627,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84198,
-      "num": 81670,
-      "word": "为何年轻人不愿意进工厂了",
-      "onboard_time": 1710010337,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 84134,
+      "num": 84134,
+      "word": "鬼灭之刃 鳄鱼最后的温柔",
+      "onboard_time": 1710032607,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 81656,
@@ -523,14 +739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42096,
-      "num": 42096,
-      "word": "孟羽童回应整容",
-      "onboard_time": 1710027262,
-      "rank": 43,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 41336,
       "num": 44178,
       "word": "JYP自己倒是闯中成功了",
@@ -579,8 +787,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21300,
-      "num": 272152,
+      "raw_hot": 25796,
+      "num": 372656,
       "word": "新质生产力如何改变生活",
       "onboard_time": 1709987011,
       "rank": 2,
