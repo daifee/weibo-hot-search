@@ -1,0 +1,410 @@
+{
+  "runTime": 1710069237630,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 450518,
+        "num": 450518,
+        "word": "楚乔传新预告",
+        "onboard_time": 1710059492,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414075,
+        "num": 414075,
+        "word": "接下来一个月浙江人的早饭",
+        "onboard_time": 1710061108,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 10285,
+        "num": 399635,
+        "word": "全国政协十四届二次会议闭幕会",
+        "onboard_time": 1710031467,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1766520,
+        "num": 388524,
+        "word": "5名艾滋病治愈者都有1个共同特点",
+        "onboard_time": 1710065789,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72048,
+        "num": 364006,
+        "word": "姚明解读村BA为何出圈",
+        "onboard_time": 1710061230,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 451899,
+        "num": 345043,
+        "word": "点读机女孩",
+        "onboard_time": 1710063087,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 334481,
+        "num": 334481,
+        "word": "太湖湾音乐节 十个勤天",
+        "onboard_time": 1710064229,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117015,
+        "num": 332444,
+        "word": "民警安抚阿尔茨海默老人陪跳广场舞",
+        "onboard_time": 1710065847,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135943,
+        "num": 327327,
+        "word": "女警脱下制服遮挡车内产子的孕妇",
+        "onboard_time": 1710043230,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28934,
+        "num": 323324,
+        "word": "今年两会最后一场代表通道",
+        "onboard_time": 1710061290,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 810533,
+        "num": 319060,
+        "word": "点读机女孩发烧不退再次进ICU",
+        "onboard_time": 1710057870,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 801650,
+        "num": 317267,
+        "word": "ChatGPT每天用电量是家庭用电量的1.7万多倍",
+        "onboard_time": 1710064052,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 729627,
+        "num": 313708,
+        "word": "赵丽颖亚洲电影大奖获奖",
+        "onboard_time": 1710067047,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 524948,
+        "num": 307334,
+        "word": "这样睡觉等于慢性自杀",
+        "onboard_time": 1710038131,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 407163,
+        "num": 306391,
+        "word": "纪凌尘让宁静不再宁静",
+        "onboard_time": 1710055350,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303133,
+        "num": 303133,
+        "word": "哈尔滨17岁失踪高中生找到了",
+        "onboard_time": 1710053491,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298259,
+        "num": 298259,
+        "word": "王心凌红色丝绒抹胸裙",
+        "onboard_time": 1710066151,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 598724,
+        "num": 298117,
+        "word": "赵丽颖工作室 还不出图",
+        "onboard_time": 1710062910,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 297743,
+        "num": 297743,
+        "word": "与凤行全员行剧照",
+        "onboard_time": 1710066210,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202638,
+        "num": 294822,
+        "word": "拉面师傅自制金手镯售价2万被拘",
+        "onboard_time": 1710059191,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488574,
+        "num": 294444,
+        "word": "句句不含脏 字字在骂人",
+        "onboard_time": 1710061052,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 407093,
+        "num": 291401,
+        "word": "建议大家雨天还是打伞吧",
+        "onboard_time": 1710064351,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 432502,
+        "num": 286268,
+        "word": "赵丽颖鎏金亮钻裙",
+        "onboard_time": 1710068189,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 324566,
+        "num": 284390,
+        "word": "建议银行卡上的膜不要撕",
+        "onboard_time": 1710066987,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282806,
+        "num": 282806,
+        "word": "为什么韩国人吃苹果那么精致",
+        "onboard_time": 1710061052,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 211121,
+        "num": 211121,
+        "word": "1993年李健在清华大学的入学照",
+        "onboard_time": 1710068970,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211050,
+        "num": 211050,
+        "word": "3种蔬菜吃多了会致癌",
+        "onboard_time": 1710055829,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203065,
+        "num": 203065,
+        "word": "林俊杰演唱会人气",
+        "onboard_time": 1710064950,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200011,
+        "num": 200011,
+        "word": "沙虫高铁",
+        "onboard_time": 1710063331,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192793,
+        "num": 192793,
+        "word": "西班牙将正式承认巴勒斯坦国",
+        "onboard_time": 1710050670,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 258437,
+        "num": 192064,
+        "word": "你那个耳朵不好的朋友belike",
+        "onboard_time": 1710068672,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186272,
+        "num": 188471,
+        "word": "TES战胜UP",
+        "onboard_time": 1710068489,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187058,
+        "num": 187058,
+        "word": "DYG零封Hero",
+        "onboard_time": 1710068613,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175194,
+        "num": 175194,
+        "word": "简单的文旅产品糊弄不了年轻人",
+        "onboard_time": 1710068249,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160590,
+        "num": 160590,
+        "word": "花店接5万2现金花束大单竟是洗钱",
+        "onboard_time": 1710049467,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143359,
+        "num": 143359,
+        "word": "金毛 特别不喜欢哈士奇",
+        "onboard_time": 1710064170,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141048,
+        "num": 141048,
+        "word": "眼泪女王OST",
+        "onboard_time": 1710065669,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135836,
+        "num": 135836,
+        "word": "Hero对战DYG",
+        "onboard_time": 1710063331,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126075,
+        "num": 126075,
+        "word": "巨物迷恋症",
+        "onboard_time": 1710057870,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124325,
+        "num": 124325,
+        "word": "奥斯卡破门",
+        "onboard_time": 1710066931,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122518,
+        "num": 122518,
+        "word": "董卿带儿子看展",
+        "onboard_time": 1710051810,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122129,
+        "num": 122129,
+        "word": "亚洲电影大奖",
+        "onboard_time": 1710069149,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121821,
+        "num": 121821,
+        "word": "经常手写的人记忆力更好",
+        "onboard_time": 1710064950,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 120183,
+        "num": 120183,
+        "word": "王诗龄长发",
+        "onboard_time": 1710050787,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118807,
+        "num": 118807,
+        "word": "女子超量服20天布洛芬引发脑梗死",
+        "onboard_time": 1710057809,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116286,
+        "num": 116286,
+        "word": "睡眠又快又香的5个办法",
+        "onboard_time": 1710065069,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114404,
+        "num": 114404,
+        "word": "颖儿揭秘女演员剧组吃什么",
+        "onboard_time": 1710065609,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99182,
+        "num": 99182,
+        "word": "这下真的知道该怎么减肥了",
+        "onboard_time": 1710061290,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 98184,
+        "num": 98184,
+        "word": "原著vs改编",
+        "onboard_time": 1710069149,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98097,
+        "num": 98097,
+        "word": "韩男团成员解散后摆摊",
+        "onboard_time": 1710051927,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#在发展中稳步提升民生保障水平#"
+    }
+  }
+}
