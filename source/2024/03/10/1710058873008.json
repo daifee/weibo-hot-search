@@ -1,0 +1,410 @@
+{
+  "runTime": 1710058873008,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1027886,
+        "num": 1027886,
+        "word": "纪凌尘让宁静不再宁静",
+        "onboard_time": 1710055350,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597339,
+        "num": 597339,
+        "word": "花店接5万2现金花束大单竟是洗钱",
+        "onboard_time": 1710049467,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26637,
+        "num": 400926,
+        "word": "全国政协十四届二次会议闭幕会",
+        "onboard_time": 1710031467,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 774810,
+        "num": 399188,
+        "word": "西班牙将正式承认巴勒斯坦国",
+        "onboard_time": 1710050670,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 380434,
+        "num": 380434,
+        "word": "婆婆把房屋面积精确到小数点",
+        "onboard_time": 1710056489,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303291,
+        "num": 303291,
+        "word": "9块9的咖啡还能喝多久",
+        "onboard_time": 1710040108,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 258928,
+        "num": 258928,
+        "word": "妈妈一个人改造了儿子的房间",
+        "onboard_time": 1710050191,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253112,
+        "num": 253112,
+        "word": "女警脱下制服遮挡车内产子的孕妇",
+        "onboard_time": 1710043230,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234183,
+        "num": 234183,
+        "word": "沙丘 沙虫",
+        "onboard_time": 1710054749,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175851,
+        "num": 233774,
+        "word": "人大代表拿出敦煌文创瞬间被围观",
+        "onboard_time": 1710052711,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 903741,
+        "num": 229486,
+        "word": "哈尔滨17岁失踪高中生找到了",
+        "onboard_time": 1710053491,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687710,
+        "num": 225108,
+        "word": "点读机女孩发烧不退再次进ICU",
+        "onboard_time": 1710057870,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667955,
+        "num": 222286,
+        "word": "这样睡觉等于慢性自杀",
+        "onboard_time": 1710038131,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 404365,
+        "num": 218315,
+        "word": "董卿带儿子看展",
+        "onboard_time": 1710051810,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387746,
+        "num": 214829,
+        "word": "韩男团成员解散后摆摊",
+        "onboard_time": 1710051927,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361666,
+        "num": 213948,
+        "word": "王诗龄长发",
+        "onboard_time": 1710050787,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323437,
+        "num": 208952,
+        "word": "巨物迷恋症",
+        "onboard_time": 1710057870,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 304921,
+        "num": 206876,
+        "word": "董明珠回应下属成网红",
+        "onboard_time": 1710054512,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 275023,
+        "num": 203400,
+        "word": "檀健次回应爆红后熬出头",
+        "onboard_time": 1710056612,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267614,
+        "num": 200369,
+        "word": "周翊然杭州",
+        "onboard_time": 1710054151,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360830,
+        "num": 196231,
+        "word": "3种蔬菜吃多了会致癌",
+        "onboard_time": 1710055829,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238321,
+        "num": 195028,
+        "word": "女子超量服20天布洛芬引发脑梗死",
+        "onboard_time": 1710057809,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191765,
+        "num": 191765,
+        "word": "掉了多少头发才算脱发",
+        "onboard_time": 1710055771,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185762,
+        "num": 185762,
+        "word": "领导让新来的00后分享喜欢看的书",
+        "onboard_time": 1710055589,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176105,
+        "num": 176105,
+        "word": "更适合春天的朋友圈",
+        "onboard_time": 1710056430,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170740,
+        "num": 170740,
+        "word": "丢了一年的狗在邻居家被发现",
+        "onboard_time": 1710058710,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159899,
+        "num": 159899,
+        "word": "学校总喜欢把钱花在刀把上",
+        "onboard_time": 1710056430,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148637,
+        "num": 148637,
+        "word": "魏大勋点茶",
+        "onboard_time": 1710057088,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140392,
+        "num": 146386,
+        "word": "樊振东光速下班",
+        "onboard_time": 1710056671,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117384,
+        "num": 146184,
+        "word": "相亲市场上1米73的我最怕被问到身高",
+        "onboard_time": 1710044968,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163225,
+        "num": 146138,
+        "word": "林诗栋3比1安宰贤",
+        "onboard_time": 1710057688,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146045,
+        "num": 146045,
+        "word": "男友从来不跟我穿情侣装",
+        "onboard_time": 1710055589,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141333,
+        "num": 141333,
+        "word": "被我弄丢的你 原生家庭",
+        "onboard_time": 1710054151,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126035,
+        "num": 126035,
+        "word": "和爱的人入眠睡眠质量更好",
+        "onboard_time": 1710056489,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114939,
+        "num": 114939,
+        "word": "TTG对战EDGM",
+        "onboard_time": 1710053011,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114448,
+        "num": 114448,
+        "word": "陈建斌搂蒋勤勤与路人合照",
+        "onboard_time": 1710041008,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113409,
+        "num": 113409,
+        "word": "我是每一个我爱过的人拼凑而成的马赛克",
+        "onboard_time": 1710058648,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112392,
+        "num": 112392,
+        "word": "王曼昱3比2阿库拉",
+        "onboard_time": 1710053910,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111553,
+        "num": 111553,
+        "word": "当甲骨文穿越到2024年的中国",
+        "onboard_time": 1710058408,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111211,
+        "num": 111211,
+        "word": "迪丽热巴天使蹲出圈",
+        "onboard_time": 1710048331,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110983,
+        "num": 110983,
+        "word": "李明德被贴脸开大的反应",
+        "onboard_time": 1710054088,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110428,
+        "num": 110428,
+        "word": "孟家女性",
+        "onboard_time": 1710055050,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107848,
+        "num": 107848,
+        "word": "樊振东3比0卢伟",
+        "onboard_time": 1710055711,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105854,
+        "num": 105854,
+        "word": "贺峻霖生病",
+        "onboard_time": 1710047071,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102929,
+        "num": 102929,
+        "word": "建议增设操纵体育比赛罪立法条款",
+        "onboard_time": 1710057150,
+        "rank": 44,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 100715,
+        "num": 100715,
+        "word": "山东事业编 亚冠",
+        "onboard_time": 1710044189,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98534,
+        "num": 98534,
+        "word": "87%的女性选择搞事业",
+        "onboard_time": 1710046590,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94078,
+        "num": 94078,
+        "word": "檀健次王鹤棣回复hi6",
+        "onboard_time": 1710047970,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94002,
+        "num": 94002,
+        "word": "建议春天要穿鲜艳的衣服",
+        "onboard_time": 1710058648,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 93279,
+        "num": 93279,
+        "word": "美国大选将迎耄耋对决",
+        "onboard_time": 1710047491,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#在发展中稳步提升民生保障水平#"
+    }
+  }
+}
