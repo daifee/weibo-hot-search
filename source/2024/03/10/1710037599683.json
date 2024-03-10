@@ -1,0 +1,410 @@
+{
+  "runTime": 1710037599683,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1197304,
+        "num": 1197304,
+        "word": "谁在围剿农夫山泉",
+        "onboard_time": 1710034948,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 423782,
+        "num": 423782,
+        "word": "双胞胎哥哥为脑瘫弟弟建了一个家",
+        "onboard_time": 1710035787,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16106,
+        "num": 415534,
+        "word": "新质生产力如何改变生活",
+        "onboard_time": 1709987011,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 773354,
+        "num": 413814,
+        "word": "哥哥 你看起来也不大",
+        "onboard_time": 1710033627,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 567075,
+        "num": 413608,
+        "word": "年入60万空巢青年困在县城婚恋市场",
+        "onboard_time": 1710032008,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411677,
+        "num": 411677,
+        "word": "泪失禁体质可能是大脑太发达",
+        "onboard_time": 1710025700,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 354667,
+        "num": 354667,
+        "word": "樊振东林昀儒一起看霉霉演唱会",
+        "onboard_time": 1710034767,
+        "rank": 6,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 343529,
+        "num": 343529,
+        "word": "手术切除的人体组织都去哪儿了",
+        "onboard_time": 1710032186,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 311067,
+        "num": 311067,
+        "word": "周深二专",
+        "onboard_time": 1710036149,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 250358,
+        "num": 250358,
+        "word": "学生睡不醒班主任背到医院",
+        "onboard_time": 1710004702,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681762,
+        "num": 249967,
+        "word": "印尼一航班2名飞行员同时睡着28分钟",
+        "onboard_time": 1710029064,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598954,
+        "num": 248986,
+        "word": "孟羽童回应整容",
+        "onboard_time": 1710027262,
+        "rank": 11,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 581419,
+        "num": 248307,
+        "word": "把痰咽下去对人体有危害吗",
+        "onboard_time": 1710036267,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 503321,
+        "num": 247023,
+        "word": "龙丹妮说终于没人喊倒闭了",
+        "onboard_time": 1710030268,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343203,
+        "num": 246110,
+        "word": "第一次在宁静的眼神里看到了无助",
+        "onboard_time": 1710035906,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339244,
+        "num": 245176,
+        "word": "刘诗诗蓝色高定",
+        "onboard_time": 1710032668,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 332415,
+        "num": 244579,
+        "word": "网友路过拍下华为员工开会视频",
+        "onboard_time": 1710033870,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 260860,
+        "num": 244162,
+        "word": "朱梓骁被纪凌尘气炸了",
+        "onboard_time": 1709990312,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243393,
+        "num": 243393,
+        "word": "女子染发10余年致头皮胎记癌变",
+        "onboard_time": 1709997031,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214292,
+        "num": 214292,
+        "word": "120多张法院传票没难倒新任村干部",
+        "onboard_time": 1710033627,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202733,
+        "num": 202733,
+        "word": "全国政协十四届二次会议闭幕会",
+        "onboard_time": 1710031467,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196238,
+        "num": 196238,
+        "word": "王梓薇连续三四次被换角",
+        "onboard_time": 1710032008,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195161,
+        "num": 195161,
+        "word": "射手座真的有间歇性厌人症",
+        "onboard_time": 1710032186,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177951,
+        "num": 177951,
+        "word": "广东人的回南天后遗症",
+        "onboard_time": 1710034409,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176954,
+        "num": 176954,
+        "word": "孟羽童回应简介是前500强董事长秘书",
+        "onboard_time": 1709992654,
+        "rank": 24,
+        "category": "网红,财经"
+      },
+      {
+        "raw_hot": 176397,
+        "num": 176397,
+        "word": "别对我动心 竹马被天降秒了",
+        "onboard_time": 1710031767,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158363,
+        "num": 158363,
+        "word": "林俊杰talking",
+        "onboard_time": 1710033206,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153165,
+        "num": 153165,
+        "word": "苹果和安卓的天气预报不一样",
+        "onboard_time": 1709994454,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 152977,
+        "num": 152977,
+        "word": "伊丽莎白女王号航母发生火灾",
+        "onboard_time": 1710036752,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152169,
+        "num": 152169,
+        "word": "为什么感冒咳嗽一到晚上就更严重",
+        "onboard_time": 1710025639,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147925,
+        "num": 147925,
+        "word": "苏杉杉毕业",
+        "onboard_time": 1710034409,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144213,
+        "num": 144213,
+        "word": "李宇春哭了",
+        "onboard_time": 1710026901,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139817,
+        "num": 139817,
+        "word": "睡眠变老的3种表现",
+        "onboard_time": 1710031168,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133585,
+        "num": 133585,
+        "word": "刘美含否认再次落选浪姐",
+        "onboard_time": 1709991816,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127858,
+        "num": 127858,
+        "word": "这6种病听起来很吓人但其实基本不用治",
+        "onboard_time": 1710033329,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126026,
+        "num": 126026,
+        "word": "真正护眼的3个小习惯",
+        "onboard_time": 1710031227,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113392,
+        "num": 113392,
+        "word": "饱满蓬松的侧麻花辫",
+        "onboard_time": 1710037107,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 112758,
+        "num": 112758,
+        "word": "WTT晒数据点赞孙颖莎最佳",
+        "onboard_time": 1710036389,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112685,
+        "num": 112685,
+        "word": "张韶涵戴佩妮是上了柯以敏的课吗",
+        "onboard_time": 1710035730,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110151,
+        "num": 110151,
+        "word": "阮经天特写",
+        "onboard_time": 1710030326,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107863,
+        "num": 107863,
+        "word": "浪姐5一公歌单",
+        "onboard_time": 1710025700,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106278,
+        "num": 106278,
+        "word": "为何年轻人不愿意进工厂了",
+        "onboard_time": 1710010337,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102239,
+        "num": 102239,
+        "word": "持铁锤打砸抢金店男子疑有精神疾病",
+        "onboard_time": 1710031407,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100844,
+        "num": 100844,
+        "word": "韩路 不到8万元插混轿车开着啥感觉",
+        "onboard_time": 1710033088,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 99873,
+        "num": 99873,
+        "word": "科学教育不只是高科技教育",
+        "onboard_time": 1710037289,
+        "rank": 44,
+        "category": "国内时政,教育"
+      },
+      {
+        "raw_hot": 98666,
+        "num": 98666,
+        "word": "互联网已成为永不落幕的课堂",
+        "onboard_time": 1710033870,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 91040,
+        "num": 91040,
+        "word": "杨天真回应不减肥原因",
+        "onboard_time": 1710000033,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89836,
+        "num": 89836,
+        "word": "宋亚东vs彼得严",
+        "onboard_time": 1710035550,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89461,
+        "num": 89461,
+        "word": "委员称部分企业甚至没有上下班的界限",
+        "onboard_time": 1710030746,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82877,
+        "num": 82877,
+        "word": "虞书欣晒嘘国王在冬眠开机照",
+        "onboard_time": 1710030867,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#在发展中稳步提升民生保障水平#"
+    }
+  }
+}
