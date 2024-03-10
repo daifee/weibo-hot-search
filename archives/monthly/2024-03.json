@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710045316399,
+  "endTime": 1710047844644,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -961,6 +961,14 @@
       "onboard_time": 1709792847,
       "rank": 19,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 1324424,
+      "num": 358755,
+      "word": "学校否认女老师与男学生发生关系",
+      "onboard_time": 1710045749,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1319841,
@@ -2499,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 810444,
+      "num": 810444,
+      "word": "女警脱下制服遮挡车内产子的孕妇",
+      "onboard_time": 1710043230,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 809025,
       "num": 335849,
       "word": "MiuMiu大秀",
@@ -3089,6 +3105,14 @@
       "onboard_time": 1709384195,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 718443,
+      "num": 718443,
+      "word": "两个C位都在乐华",
+      "onboard_time": 1710043649,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 718127,
@@ -4259,14 +4283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 603780,
-      "num": 603780,
-      "word": "两个C位都在乐华",
-      "onboard_time": 1710043649,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 603633,
       "num": 603633,
       "word": "爱上阮经天",
@@ -4289,6 +4305,14 @@
       "onboard_time": 1709888191,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 601155,
+      "num": 601155,
+      "word": "山东事业编 亚冠",
+      "onboard_time": 1710044189,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 601145,
@@ -4336,6 +4360,14 @@
       "word": "你需退税还是补税",
       "onboard_time": 1709253272,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597622,
+      "num": 317374,
+      "word": "杭州抢劫案唯一受害者出现",
+      "onboard_time": 1710046350,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -6507,6 +6539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 439426,
+      "num": 439426,
+      "word": "张邈 赛博美人",
+      "onboard_time": 1710045089,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 438719,
       "num": 438719,
       "word": "章若楠的假发有四斤多重",
@@ -6553,14 +6593,6 @@
       "onboard_time": 1709905110,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 437098,
-      "num": 333887,
-      "word": "山东事业编 亚冠",
-      "onboard_time": 1710044189,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 437055,
@@ -6825,14 +6857,6 @@
       "onboard_time": 1709461169,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 420228,
-      "num": 420228,
-      "word": "女警脱下制服遮挡车内产子的孕妇",
-      "onboard_time": 1710043230,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 419529,
@@ -7537,6 +7561,14 @@
       "onboard_time": 1709686474,
       "rank": 29,
       "category": "作品衍生,运动健身"
+    },
+    {
+      "raw_hot": 381843,
+      "num": 381843,
+      "word": "国家疾控局回应X疾病或会暴发警告",
+      "onboard_time": 1710043950,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 381299,
@@ -8851,6 +8883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 323954,
+      "num": 244743,
+      "word": "相亲市场上1米73的我最怕被问到身高",
+      "onboard_time": 1710044968,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323195,
       "num": 323195,
       "word": "诡秘之主游戏实机首曝",
@@ -9771,14 +9811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292352,
-      "num": 292352,
-      "word": "国家疾控局回应X疾病或会暴发警告",
-      "onboard_time": 1710043950,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 291951,
       "num": 277178,
       "word": "模仿迪丽热巴天使蹲易受伤",
@@ -9888,6 +9920,14 @@
       "word": "伊能静儿子哈利时装周vlog",
       "onboard_time": 1709880390,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 289206,
+      "num": 289206,
+      "word": "贺峻霖生病",
+      "onboard_time": 1710047071,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -10619,6 +10659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 267260,
+      "num": 267260,
+      "word": "字节跳动辟谣暴雪前CEO洽购TikTok",
+      "onboard_time": 1710045872,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 267161,
       "num": 267161,
       "word": "单身女生买公寓可行吗",
@@ -10697,6 +10745,14 @@
       "onboard_time": 1709443110,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264816,
+      "num": 264816,
+      "word": "87%的女性选择搞事业",
+      "onboard_time": 1710046590,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 264703,
@@ -14259,6 +14315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196946,
+      "num": 196946,
+      "word": "Puff发文求职",
+      "onboard_time": 1710045391,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196832,
       "num": 196832,
       "word": "WE下路",
@@ -16523,14 +16587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 173487,
-      "num": 173487,
-      "word": "张邈 赛博美人",
-      "onboard_time": 1710045089,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 173298,
       "num": 173298,
       "word": "沈腾去澳门出差",
@@ -16772,7 +16828,7 @@
     },
     {
       "raw_hot": 170404,
-      "num": 357628,
+      "num": 375142,
       "word": "互联网已成为永不落幕的课堂",
       "onboard_time": 1710033870,
       "rank": 24,
@@ -17851,6 +17907,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 160922,
+      "num": 160922,
+      "word": "何超琼当模特推广贵州苗绣",
+      "onboard_time": 1710045449,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160878,
       "num": 160878,
       "word": "欧盟iPhone用户将可卸载Safari浏览器",
@@ -18145,6 +18209,14 @@
       "onboard_time": 1709992476,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158229,
+      "num": 158229,
+      "word": "故宫蜡梅开了",
+      "onboard_time": 1710046949,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 158144,
@@ -18963,6 +19035,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 151413,
+      "num": 151413,
+      "word": "山东事业编答案",
+      "onboard_time": 1710045328,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 151401,
       "num": 151401,
       "word": "突然有点明白看演唱会的意义",
@@ -19587,6 +19667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146199,
+      "num": 146199,
+      "word": "热辣滚烫 华语北美十年最大规模开画",
+      "onboard_time": 1710047370,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146198,
       "num": 146198,
       "word": "詹姆斯湖人生涯9000分",
@@ -19785,6 +19873,14 @@
       "onboard_time": 1709981793,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144907,
+      "num": 144907,
+      "word": "与凤行嗑拥了花絮",
+      "onboard_time": 1710046528,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 144857,
@@ -20089,6 +20185,14 @@
       "onboard_time": 1709511450,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142306,
+      "num": 142306,
+      "word": "新手班主任分享现在中学生有多难管",
+      "onboard_time": 1710046050,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 142181,
@@ -20609,6 +20713,14 @@
       "onboard_time": 1709387195,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 137825,
+      "num": 137825,
+      "word": "数码宝贝 我推的孩子",
+      "onboard_time": 1710046830,
+      "rank": 36,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 137782,
@@ -21313,6 +21425,14 @@
       "onboard_time": 1709382991,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132332,
+      "num": 132332,
+      "word": "美国大选将迎耄耋对决",
+      "onboard_time": 1710047491,
+      "rank": 37,
+      "category": "国外时政"
     },
     {
       "raw_hot": 132131,
@@ -22345,6 +22465,14 @@
       "onboard_time": 1709891849,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122968,
+      "num": 122968,
+      "word": "回芒的诱惑",
+      "onboard_time": 1710047551,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 122875,
@@ -24283,14 +24411,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 103988,
-      "num": 103988,
-      "word": "相亲市场上1米73的我最怕被问到身高",
-      "onboard_time": 1710044968,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 103984,
       "num": 103984,
       "word": "拉面长度是石头决定的",
@@ -24529,6 +24649,14 @@
       "onboard_time": 1709980831,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100338,
+      "num": 100338,
+      "word": "TVB发英雄帖群星致敬金庸",
+      "onboard_time": 1710045689,
+      "rank": 48,
+      "category": "读书作家,艺人"
     },
     {
       "raw_hot": 100203,

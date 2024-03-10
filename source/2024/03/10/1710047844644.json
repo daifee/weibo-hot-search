@@ -1,0 +1,410 @@
+{
+  "runTime": 1710047844644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 810444,
+        "num": 810444,
+        "word": "女警脱下制服遮挡车内产子的孕妇",
+        "onboard_time": 1710043230,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743250,
+        "num": 743250,
+        "word": "9块9的咖啡还能喝多久",
+        "onboard_time": 1710040108,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 10775,
+        "num": 720628,
+        "word": "2024两会好声音",
+        "onboard_time": 1709972310,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 718443,
+        "num": 718443,
+        "word": "两个C位都在乐华",
+        "onboard_time": 1710043649,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 601155,
+        "num": 601155,
+        "word": "山东事业编 亚冠",
+        "onboard_time": 1710044189,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 439426,
+        "num": 439426,
+        "word": "张邈 赛博美人",
+        "onboard_time": 1710045089,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 428234,
+        "num": 428234,
+        "word": "吴镇宇否认无限超越班吵架是剧本",
+        "onboard_time": 1710039629,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419544,
+        "num": 419544,
+        "word": "山东事业编",
+        "onboard_time": 1710042989,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 381843,
+        "num": 381843,
+        "word": "国家疾控局回应X疾病或会暴发警告",
+        "onboard_time": 1710043950,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63332,
+        "num": 375142,
+        "word": "互联网已成为永不落幕的课堂",
+        "onboard_time": 1710033870,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1324424,
+        "num": 358755,
+        "word": "学校否认女老师与男学生发生关系",
+        "onboard_time": 1710045749,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1228891,
+        "num": 335557,
+        "word": "这样睡觉等于慢性自杀",
+        "onboard_time": 1710038131,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 744749,
+        "num": 324227,
+        "word": "陈建斌搂蒋勤勤与路人合照",
+        "onboard_time": 1710041008,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 597622,
+        "num": 317374,
+        "word": "杭州抢劫案唯一受害者出现",
+        "onboard_time": 1710046350,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304471,
+        "num": 304471,
+        "word": "多家银行存款利率最高达10%",
+        "onboard_time": 1710039629,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 289206,
+        "num": 289206,
+        "word": "贺峻霖生病",
+        "onboard_time": 1710047071,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267260,
+        "num": 267260,
+        "word": "字节跳动辟谣暴雪前CEO洽购TikTok",
+        "onboard_time": 1710045872,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 264816,
+        "num": 264816,
+        "word": "87%的女性选择搞事业",
+        "onboard_time": 1710046590,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261625,
+        "num": 261625,
+        "word": "双胞胎哥哥为脑瘫弟弟建了一个家",
+        "onboard_time": 1710035787,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246634,
+        "num": 246634,
+        "word": "第一次在宁静的眼神里看到了无助",
+        "onboard_time": 1710035906,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323954,
+        "num": 244743,
+        "word": "相亲市场上1米73的我最怕被问到身高",
+        "onboard_time": 1710044968,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207324,
+        "num": 207324,
+        "word": "教师形式主义负担过重如何解决",
+        "onboard_time": 1710040108,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204686,
+        "num": 204686,
+        "word": "孟羽童回应整容",
+        "onboard_time": 1710027262,
+        "rank": 22,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 197836,
+        "num": 197836,
+        "word": "朱梓骁被纪凌尘气炸了",
+        "onboard_time": 1709990312,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196946,
+        "num": 196946,
+        "word": "Puff发文求职",
+        "onboard_time": 1710045391,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186860,
+        "num": 186860,
+        "word": "把痰咽下去对人体有危害吗",
+        "onboard_time": 1710036267,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186199,
+        "num": 186199,
+        "word": "套内48平米的loft公寓",
+        "onboard_time": 1710042629,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177629,
+        "num": 177629,
+        "word": "香港买金每克便宜70元",
+        "onboard_time": 1710045689,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176550,
+        "num": 176550,
+        "word": "何书桓要去大上海看古巨基唱歌了",
+        "onboard_time": 1710043410,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160922,
+        "num": 160922,
+        "word": "何超琼当模特推广贵州苗绣",
+        "onboard_time": 1710045449,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158229,
+        "num": 158229,
+        "word": "故宫蜡梅开了",
+        "onboard_time": 1710046949,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 151413,
+        "num": 151413,
+        "word": "山东事业编答案",
+        "onboard_time": 1710045328,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146199,
+        "num": 146199,
+        "word": "热辣滚烫 华语北美十年最大规模开画",
+        "onboard_time": 1710047370,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144907,
+        "num": 144907,
+        "word": "与凤行嗑拥了花絮",
+        "onboard_time": 1710046528,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142306,
+        "num": 142306,
+        "word": "新手班主任分享现在中学生有多难管",
+        "onboard_time": 1710046050,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138138,
+        "num": 138138,
+        "word": "金庸笔下最惨的主角",
+        "onboard_time": 1710040948,
+        "rank": 35,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 137825,
+        "num": 137825,
+        "word": "数码宝贝 我推的孩子",
+        "onboard_time": 1710046830,
+        "rank": 36,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 132332,
+        "num": 132332,
+        "word": "美国大选将迎耄耋对决",
+        "onboard_time": 1710047491,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 132214,
+        "num": 132214,
+        "word": "樊振东林昀儒一起看霉霉演唱会",
+        "onboard_time": 1710034767,
+        "rank": 38,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 128685,
+        "num": 128685,
+        "word": "谢谢你温暖我 八倍速恋爱",
+        "onboard_time": 1710041608,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126296,
+        "num": 126296,
+        "word": "刘诗诗蓝色高定",
+        "onboard_time": 1710032668,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122968,
+        "num": 122968,
+        "word": "回芒的诱惑",
+        "onboard_time": 1710047551,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110177,
+        "num": 110177,
+        "word": "李现周雨彤晒剧照",
+        "onboard_time": 1710044911,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108813,
+        "num": 108813,
+        "word": "龙丹妮说终于没人喊倒闭了",
+        "onboard_time": 1710030268,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107634,
+        "num": 107634,
+        "word": "泪失禁体质可能是大脑太发达",
+        "onboard_time": 1710025700,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107027,
+        "num": 107027,
+        "word": "肖战红色时尚大片",
+        "onboard_time": 1710039330,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 105305,
+        "num": 105305,
+        "word": "张凯丽说不赞成孩子赢在起跑线这句话",
+        "onboard_time": 1710038911,
+        "rank": 46,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 101846,
+        "num": 101846,
+        "word": "马刺轻取勇士",
+        "onboard_time": 1710044850,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100338,
+        "num": 100338,
+        "word": "TVB发英雄帖群星致敬金庸",
+        "onboard_time": 1710045689,
+        "rank": 48,
+        "category": "读书作家,艺人"
+      },
+      {
+        "raw_hot": 99365,
+        "num": 99365,
+        "word": "射手座真的有间歇性厌人症",
+        "onboard_time": 1710032186,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
