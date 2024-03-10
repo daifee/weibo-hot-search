@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710063252245,
+  "endTime": 1710065820495,
   "band_list": [
     {
       "raw_hot": 2366384,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1830133,
-      "num": 355463,
+      "num": 387061,
       "word": "这样睡觉等于慢性自杀",
       "onboard_time": 1710038131,
       "rank": 30,
@@ -49,6 +49,14 @@
       "onboard_time": 1710040108,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1150307,
+      "num": 403148,
+      "word": "赵丽颖工作室 还不出图",
+      "onboard_time": 1710062910,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1061853,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 913592,
-      "num": 245855,
+      "num": 379758,
       "word": "哈尔滨17岁失踪高中生找到了",
       "onboard_time": 1710053491,
       "rank": 15,
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 728201,
+      "num": 394981,
+      "word": "ChatGPT每天用电量是家庭用电量的1.7万多倍",
+      "onboard_time": 1710064052,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 718443,
       "num": 718443,
       "word": "两个C位都在乐华",
@@ -187,8 +203,16 @@
       "category": "国内时政,艺人"
     },
     {
+      "raw_hot": 692745,
+      "num": 558649,
+      "word": "点读机女孩",
+      "onboard_time": 1710063087,
+      "rank": 7,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 686300,
-      "num": 242410,
+      "num": 279782,
       "word": "句句不含脏 字字在骂人",
       "onboard_time": 1710061052,
       "rank": 30,
@@ -300,11 +324,19 @@
     },
     {
       "raw_hot": 563627,
-      "num": 245270,
+      "num": 254984,
       "word": "巨物迷恋症",
       "onboard_time": 1710057870,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 554162,
+      "num": 554162,
+      "word": "接下来一个月浙江人的早饭",
+      "onboard_time": 1710061108,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 553654,
@@ -380,7 +412,7 @@
     },
     {
       "raw_hot": 448371,
-      "num": 242075,
+      "num": 274059,
       "word": "为什么韩国人吃苹果那么精致",
       "onboard_time": 1710061052,
       "rank": 20,
@@ -409,6 +441,14 @@
       "onboard_time": 1710048331,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434144,
+      "num": 434144,
+      "word": "太湖湾音乐节 十个勤天",
+      "onboard_time": 1710064229,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 415545,
@@ -492,11 +532,19 @@
     },
     {
       "raw_hot": 375658,
-      "num": 245168,
+      "num": 285167,
       "word": "朱梓骁表情",
       "onboard_time": 1710059310,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 374563,
+      "num": 374563,
+      "word": "沙虫高铁",
+      "onboard_time": 1710063331,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 374020,
@@ -524,7 +572,7 @@
     },
     {
       "raw_hot": 356876,
-      "num": 244733,
+      "num": 257212,
       "word": "拉面师傅自制金手镯售价2万被拘",
       "onboard_time": 1710059191,
       "rank": 28,
@@ -611,6 +659,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 311642,
+      "num": 270781,
+      "word": "建议大家雨天还是打伞吧",
+      "onboard_time": 1710064351,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311438,
       "num": 125019,
       "word": "彭奶奶",
@@ -675,12 +731,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 288613,
-      "num": 243822,
-      "word": "赵丽颖工作室 还不出图",
-      "onboard_time": 1710062910,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 290129,
+      "num": 290129,
+      "word": "5名艾滋病治愈者都有1个共同特点",
+      "onboard_time": 1710065789,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 286274,
@@ -697,14 +753,6 @@
       "onboard_time": 1710047970,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 275056,
-      "num": 275056,
-      "word": "点读机女孩",
-      "onboard_time": 1710063087,
-      "rank": 7,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 275023,
@@ -755,6 +803,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 258176,
+      "num": 258176,
+      "word": "林俊杰演唱会人气",
+      "onboard_time": 1710064950,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 253064,
       "num": 253064,
       "word": "何书桓要去大上海看古巨基唱歌了",
@@ -793,14 +849,6 @@
       "onboard_time": 1710038610,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 243308,
-      "num": 241827,
-      "word": "接下来一个月浙江人的早饭",
-      "onboard_time": 1710061108,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 236813,
@@ -905,6 +953,14 @@
       "onboard_time": 1709998651,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209494,
+      "num": 209494,
+      "word": "逆水寒手游",
+      "onboard_time": 1710065009,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 207692,
@@ -1187,6 +1243,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 164045,
+      "num": 164045,
+      "word": "Hero对战DYG",
+      "onboard_time": 1710063331,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163225,
       "num": 150913,
       "word": "林诗栋3比1安宰贤",
@@ -1289,6 +1353,22 @@
       "onboard_time": 1710045328,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 150794,
+      "num": 150794,
+      "word": "金毛 特别不喜欢哈士奇",
+      "onboard_time": 1710064170,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 149782,
+      "num": 556344,
+      "word": "姚明解读村BA为何出圈",
+      "onboard_time": 1710061230,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 148637,
@@ -1395,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139422,
+      "num": 139422,
+      "word": "颖儿揭秘女演员剧组吃什么",
+      "onboard_time": 1710065609,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138731,
       "num": 138731,
       "word": "爱在黎明前降落",
@@ -1457,14 +1545,6 @@
       "onboard_time": 1710041488,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 132254,
-      "num": 462274,
-      "word": "姚明解读村BA为何出圈",
-      "onboard_time": 1710061230,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 132085,
@@ -1595,6 +1675,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 119190,
+      "num": 119190,
+      "word": "睡眠又快又香的5个办法",
+      "onboard_time": 1710065069,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 117551,
       "num": 117551,
       "word": "亚超 乐华团建",
@@ -1699,12 +1787,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111957,
+      "num": 111957,
+      "word": "经常手写的人记忆力更好",
+      "onboard_time": 1710064950,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 111553,
       "num": 111553,
       "word": "当甲骨文穿越到2024年的中国",
       "onboard_time": 1710058408,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 108157,
+      "num": 108157,
+      "word": "KPL",
+      "onboard_time": 1710063568,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 107995,
@@ -1721,6 +1825,14 @@
       "onboard_time": 1710052951,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 107395,
+      "num": 107395,
+      "word": "眼泪女王OST",
+      "onboard_time": 1710065669,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 107169,
@@ -1972,7 +2084,7 @@
     },
     {
       "raw_hot": 82256,
-      "num": 246581,
+      "num": 414229,
       "word": "今年两会最后一场代表通道",
       "onboard_time": 1710061290,
       "rank": 9,
@@ -1985,6 +2097,14 @@
       "onboard_time": 1709989532,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77694,
+      "num": 106881,
+      "word": "沧州雄狮1比0成都蓉城",
+      "onboard_time": 1710064950,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 74335,
@@ -2040,6 +2160,14 @@
       "word": "杭州太子湾引进灰紫色浴缸郁金香",
       "onboard_time": 1709999672,
       "rank": 47,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 58628,
+      "num": 431637,
+      "word": "1首诗的时间带你领略大美四川",
+      "onboard_time": 1710064229,
+      "rank": 7,
       "category": "旅游"
     },
     {
