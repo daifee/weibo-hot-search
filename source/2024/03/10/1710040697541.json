@@ -1,0 +1,410 @@
+{
+  "runTime": 1710040697541,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 767903,
+        "num": 767903,
+        "word": "双胞胎哥哥为脑瘫弟弟建了一个家",
+        "onboard_time": 1710035787,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553654,
+        "num": 553654,
+        "word": "网友路过拍下华为员工开会视频",
+        "onboard_time": 1710033870,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 3639,
+        "num": 527749,
+        "word": "2024两会好声音",
+        "onboard_time": 1709972310,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 525034,
+        "num": 525034,
+        "word": "第一次在宁静的眼神里看到了无助",
+        "onboard_time": 1710035906,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352463,
+        "num": 352463,
+        "word": "粉笔模考",
+        "onboard_time": 1710040350,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 298117,
+        "num": 298117,
+        "word": "樊振东林昀儒一起看霉霉演唱会",
+        "onboard_time": 1710034767,
+        "rank": 5,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 283899,
+        "num": 283899,
+        "word": "泪失禁体质可能是大脑太发达",
+        "onboard_time": 1710025700,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 281049,
+        "num": 281049,
+        "word": "吴镇宇否认无限超越班吵架是剧本",
+        "onboard_time": 1710039629,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258166,
+        "num": 258166,
+        "word": "周深二专",
+        "onboard_time": 1710036149,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94557,
+        "num": 257108,
+        "word": "互联网已成为永不落幕的课堂",
+        "onboard_time": 1710033870,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1714759,
+        "num": 254920,
+        "word": "这样睡觉等于慢性自杀",
+        "onboard_time": 1710038131,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 686152,
+        "num": 254714,
+        "word": "把痰咽下去对人体有危害吗",
+        "onboard_time": 1710036267,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 479472,
+        "num": 251689,
+        "word": "孟羽童回应整容",
+        "onboard_time": 1710027262,
+        "rank": 12,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 443656,
+        "num": 251636,
+        "word": "张凯丽说不赞成孩子赢在起跑线这句话",
+        "onboard_time": 1710038911,
+        "rank": 13,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 433357,
+        "num": 249085,
+        "word": "印尼一航班2名飞行员同时睡着28分钟",
+        "onboard_time": 1710029064,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349386,
+        "num": 247810,
+        "word": "朱梓骁被纪凌尘气炸了",
+        "onboard_time": 1709990312,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303795,
+        "num": 246666,
+        "word": "龙丹妮说终于没人喊倒闭了",
+        "onboard_time": 1710030268,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298285,
+        "num": 243588,
+        "word": "肖战红色时尚大片",
+        "onboard_time": 1710039330,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 243476,
+        "num": 243476,
+        "word": "手术切除的人体组织都去哪儿了",
+        "onboard_time": 1710032186,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 243431,
+        "num": 243431,
+        "word": "银行个人黄金积存业务火爆",
+        "onboard_time": 1710038610,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 243407,
+        "num": 243407,
+        "word": "多家银行存款利率最高达10%",
+        "onboard_time": 1710039629,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 217745,
+        "num": 217745,
+        "word": "刘诗诗蓝色高定",
+        "onboard_time": 1710032668,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208882,
+        "num": 208882,
+        "word": "9块9的咖啡还能喝多久",
+        "onboard_time": 1710040108,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196849,
+        "num": 196849,
+        "word": "花间令新海报",
+        "onboard_time": 1710040409,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68746,
+        "num": 165770,
+        "word": "两会送出文旅上分攻略",
+        "onboard_time": 1710039210,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164603,
+        "num": 164603,
+        "word": "沙丘2 屏摄",
+        "onboard_time": 1710039929,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161642,
+        "num": 161642,
+        "word": "女子染发10余年致头皮胎记癌变",
+        "onboard_time": 1709997031,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154371,
+        "num": 154371,
+        "word": "射手座真的有间歇性厌人症",
+        "onboard_time": 1710032186,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152713,
+        "num": 152713,
+        "word": "UFC",
+        "onboard_time": 1710039449,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138626,
+        "num": 138626,
+        "word": "广东人的回南天后遗症",
+        "onboard_time": 1710034409,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162280,
+        "num": 138608,
+        "word": "妈妈你不是借我的光才出了县城",
+        "onboard_time": 1710039808,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138434,
+        "num": 138434,
+        "word": "教师形式主义负担过重如何解决",
+        "onboard_time": 1710040108,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135291,
+        "num": 135291,
+        "word": "纪凌尘演戏用力过猛",
+        "onboard_time": 1710039389,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127821,
+        "num": 127821,
+        "word": "孟羽童回应简介是前500强董事长秘书",
+        "onboard_time": 1709992654,
+        "rank": 33,
+        "category": "网红,财经"
+      },
+      {
+        "raw_hot": 123321,
+        "num": 123321,
+        "word": "苏杉杉毕业",
+        "onboard_time": 1710034409,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122654,
+        "num": 122654,
+        "word": "别对我动心 竹马被天降秒了",
+        "onboard_time": 1710031767,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112612,
+        "num": 112612,
+        "word": "李宇春哭了",
+        "onboard_time": 1710026901,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112224,
+        "num": 112224,
+        "word": "林俊杰talking",
+        "onboard_time": 1710033206,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107397,
+        "num": 107397,
+        "word": "这6种病听起来很吓人但其实基本不用治",
+        "onboard_time": 1710033329,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104608,
+        "num": 104608,
+        "word": "真正护眼的3个小习惯",
+        "onboard_time": 1710031227,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102993,
+        "num": 102993,
+        "word": "张韶涵戴佩妮是上了柯以敏的课吗",
+        "onboard_time": 1710035730,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102710,
+        "num": 102710,
+        "word": "萨摩耶主人最高血压的一集",
+        "onboard_time": 1710039269,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101802,
+        "num": 101802,
+        "word": "120多张法院传票没难倒新任村干部",
+        "onboard_time": 1710033627,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97921,
+        "num": 97921,
+        "word": "学生睡不醒班主任背到医院",
+        "onboard_time": 1710004702,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97165,
+        "num": 97165,
+        "word": "种地吧",
+        "onboard_time": 1710038428,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96454,
+        "num": 96454,
+        "word": "苹果和安卓的天气预报不一样",
+        "onboard_time": 1709994454,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 95933,
+        "num": 95933,
+        "word": "王梓薇连续三四次被换角",
+        "onboard_time": 1710032008,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84632,
+        "num": 84632,
+        "word": "伊丽莎白女王号航母发生火灾",
+        "onboard_time": 1710036752,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83800,
+        "num": 83800,
+        "word": "为什么感冒咳嗽一到晚上就更严重",
+        "onboard_time": 1710025639,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 82763,
+        "num": 82763,
+        "word": "宋亚东vs彼得严",
+        "onboard_time": 1710035550,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#在发展中稳步提升民生保障水平#"
+    }
+  }
+}
