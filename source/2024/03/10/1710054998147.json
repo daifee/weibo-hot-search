@@ -1,0 +1,410 @@
+{
+  "runTime": 1710054998147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1276127,
+        "num": 1276127,
+        "word": "花店接5万2现金花束大单竟是洗钱",
+        "onboard_time": 1710049467,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018181,
+        "num": 1018181,
+        "word": "西班牙将正式承认巴勒斯坦国",
+        "onboard_time": 1710050670,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 15133,
+        "num": 643202,
+        "word": "两会送出文旅上分攻略",
+        "onboard_time": 1710039210,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 393524,
+        "num": 393524,
+        "word": "妈妈一个人改造了儿子的房间",
+        "onboard_time": 1710050191,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 323350,
+        "num": 323350,
+        "word": "女警脱下制服遮挡车内产子的孕妇",
+        "onboard_time": 1710043230,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320550,
+        "num": 320550,
+        "word": "9块9的咖啡还能喝多久",
+        "onboard_time": 1710040108,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 245920,
+        "num": 245920,
+        "word": "87%的女性选择搞事业",
+        "onboard_time": 1710046590,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223675,
+        "num": 223675,
+        "word": "王曼昱vs阿库拉",
+        "onboard_time": 1710050245,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212588,
+        "num": 212588,
+        "word": "美国大选将迎耄耋对决",
+        "onboard_time": 1710047491,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 228442,
+        "num": 212452,
+        "word": "人大代表拿出敦煌文创瞬间被围观",
+        "onboard_time": 1710052711,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 743637,
+        "num": 212291,
+        "word": "这样睡觉等于慢性自杀",
+        "onboard_time": 1710038131,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 704968,
+        "num": 212218,
+        "word": "学校否认女老师与男学生发生关系",
+        "onboard_time": 1710045749,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598928,
+        "num": 211891,
+        "word": "王诗龄长发",
+        "onboard_time": 1710050787,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 593503,
+        "num": 211818,
+        "word": "韩男团成员解散后摆摊",
+        "onboard_time": 1710051927,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579425,
+        "num": 211511,
+        "word": "董卿带儿子看展",
+        "onboard_time": 1710051810,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543894,
+        "num": 211342,
+        "word": "哈尔滨17岁失踪高中生找到了",
+        "onboard_time": 1710053491,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221157,
+        "num": 211220,
+        "word": "周翊然杭州",
+        "onboard_time": 1710054151,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211130,
+        "num": 211130,
+        "word": "迪丽热巴天使蹲出圈",
+        "onboard_time": 1710048331,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208318,
+        "num": 208318,
+        "word": "陈建斌搂蒋勤勤与路人合照",
+        "onboard_time": 1710041008,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206759,
+        "num": 206759,
+        "word": "王曼昱3比2阿库拉",
+        "onboard_time": 1710053910,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193242,
+        "num": 193242,
+        "word": "被我弄丢的你 原生家庭",
+        "onboard_time": 1710054151,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190402,
+        "num": 190402,
+        "word": "领养一年的猫前主人说要回去",
+        "onboard_time": 1710050127,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184073,
+        "num": 184073,
+        "word": "两个C位都在乐华",
+        "onboard_time": 1710043649,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183526,
+        "num": 183526,
+        "word": "檀健次王鹤棣回复hi6",
+        "onboard_time": 1710047970,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176859,
+        "num": 176859,
+        "word": "相亲市场上1米73的我最怕被问到身高",
+        "onboard_time": 1710044968,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10508,
+        "num": 166366,
+        "word": "2024两会好声音",
+        "onboard_time": 1709972310,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156085,
+        "num": 156085,
+        "word": "蒲熠星耳骨夹",
+        "onboard_time": 1710051927,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153316,
+        "num": 153316,
+        "word": "董明珠回应下属成网红",
+        "onboard_time": 1710054512,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151137,
+        "num": 151137,
+        "word": "李明德被贴脸开大的反应",
+        "onboard_time": 1710054088,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145405,
+        "num": 145405,
+        "word": "山东事业编 亚冠",
+        "onboard_time": 1710044189,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145135,
+        "num": 145135,
+        "word": "贺峻霖生病",
+        "onboard_time": 1710047071,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135682,
+        "num": 135682,
+        "word": "90后男教师带学生晨操",
+        "onboard_time": 1710052830,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135299,
+        "num": 135299,
+        "word": "沙丘 沙虫",
+        "onboard_time": 1710054749,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127734,
+        "num": 127734,
+        "word": "金秀贤演受气包",
+        "onboard_time": 1710049349,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125872,
+        "num": 125872,
+        "word": "热辣滚烫 华语北美十年最大规模开画",
+        "onboard_time": 1710047370,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119576,
+        "num": 119576,
+        "word": "文心大模型4.0在中文上已经超过了GPT4",
+        "onboard_time": 1710048448,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115824,
+        "num": 115824,
+        "word": "我拍的vs我画的",
+        "onboard_time": 1710054032,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 115176,
+        "num": 115176,
+        "word": "老外常用的英语聊天缩写",
+        "onboard_time": 1710054390,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113326,
+        "num": 113326,
+        "word": "安卓苹果影像还有差距吗",
+        "onboard_time": 1710051269,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113309,
+        "num": 113309,
+        "word": "张邈 赛博美人",
+        "onboard_time": 1710045089,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112022,
+        "num": 112022,
+        "word": "第一次在宁静的眼神里看到了无助",
+        "onboard_time": 1710035906,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107819,
+        "num": 107819,
+        "word": "首饰金价一周上调三次",
+        "onboard_time": 1710052951,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106927,
+        "num": 106927,
+        "word": "山东事业编",
+        "onboard_time": 1710042989,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104860,
+        "num": 104860,
+        "word": "宋轶文咏珊合照",
+        "onboard_time": 1710051269,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103809,
+        "num": 103809,
+        "word": "国家疾控局回应X疾病或会暴发警告",
+        "onboard_time": 1710043950,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99852,
+        "num": 99852,
+        "word": "Puff发文求职",
+        "onboard_time": 1710045391,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99188,
+        "num": 99188,
+        "word": "双胞胎哥哥为脑瘫弟弟建了一个家",
+        "onboard_time": 1710035787,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98872,
+        "num": 98872,
+        "word": "数码宝贝 我推的孩子",
+        "onboard_time": 1710046830,
+        "rank": 47,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 97224,
+        "num": 97224,
+        "word": "多家银行存款利率最高达10%",
+        "onboard_time": 1710039629,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92919,
+        "num": 92919,
+        "word": "袁悦击败郑钦文",
+        "onboard_time": 1710050490,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#在发展中稳步提升民生保障水平#"
+    }
+  }
+}
