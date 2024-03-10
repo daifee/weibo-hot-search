@@ -1,0 +1,410 @@
+{
+  "runTime": 1710074548048,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2513454,
+        "num": 2513454,
+        "word": "清明节要调休",
+        "onboard_time": 1710071372,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911842,
+        "num": 911842,
+        "word": "赵丽颖想和张艺谋继续合作",
+        "onboard_time": 1710072331,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 7556,
+        "num": 858254,
+        "word": "春耕春管如火如荼",
+        "onboard_time": 1710074490,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1880620,
+        "num": 857768,
+        "word": "刘东昊因意外离世",
+        "onboard_time": 1710072089,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846742,
+        "num": 846742,
+        "word": "韩国月子中心都吃什么",
+        "onboard_time": 1710069571,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1005518,
+        "num": 822455,
+        "word": "5名艾滋病治愈者都有1个共同特点",
+        "onboard_time": 1710065789,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 550020,
+        "num": 550020,
+        "word": "赵丽颖亚洲电影大奖获奖",
+        "onboard_time": 1710067047,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303481,
+        "num": 303481,
+        "word": "楚乔传新预告",
+        "onboard_time": 1710059492,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31869,
+        "num": 296474,
+        "word": "当甲骨文穿越到2024年的中国",
+        "onboard_time": 1710058408,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63967,
+        "num": 292083,
+        "word": "热门打卡地代表委员发出邀请",
+        "onboard_time": 1710070650,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 779783,
+        "num": 280741,
+        "word": "1993年李健在清华大学的入学照",
+        "onboard_time": 1710068970,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 670482,
+        "num": 272703,
+        "word": "晚晚回应",
+        "onboard_time": 1710070052,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535887,
+        "num": 270565,
+        "word": "恋爱兄妹",
+        "onboard_time": 1710069811,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477205,
+        "num": 261968,
+        "word": "点读机女孩发烧不退再次进ICU",
+        "onboard_time": 1710057870,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 254374,
+        "num": 254374,
+        "word": "平野美宇3比0早田希娜",
+        "onboard_time": 1710070892,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377373,
+        "num": 253799,
+        "word": "赵丽颖鎏金亮钻裙",
+        "onboard_time": 1710068189,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 368102,
+        "num": 246737,
+        "word": "晚学",
+        "onboard_time": 1710071611,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340209,
+        "num": 244761,
+        "word": "这样睡觉等于慢性自杀",
+        "onboard_time": 1710038131,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 239133,
+        "num": 239133,
+        "word": "马龙男单",
+        "onboard_time": 1710073772,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228899,
+        "num": 228899,
+        "word": "ChatGPT每天用电量是家庭用电量的1.7万多倍",
+        "onboard_time": 1710064052,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 256236,
+        "num": 228446,
+        "word": "建议大家雨天还是打伞吧",
+        "onboard_time": 1710064351,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227881,
+        "num": 227881,
+        "word": "句句不含脏 字字在骂人",
+        "onboard_time": 1710061052,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224484,
+        "num": 224484,
+        "word": "桃花坞文案 顶级浪漫",
+        "onboard_time": 1710073652,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224043,
+        "num": 224043,
+        "word": "赵丽颖工作室 还不出图",
+        "onboard_time": 1710062910,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222840,
+        "num": 222840,
+        "word": "3种蔬菜吃多了会致癌",
+        "onboard_time": 1710055829,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215539,
+        "num": 215539,
+        "word": "叶童躲的不是雨是郑合惠子",
+        "onboard_time": 1710071311,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207579,
+        "num": 207579,
+        "word": "接下来一个月浙江人的早饭",
+        "onboard_time": 1710061108,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196134,
+        "num": 196134,
+        "word": "纪凌尘让宁静不再宁静",
+        "onboard_time": 1710055350,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190724,
+        "num": 190724,
+        "word": "77名被告人因正当防卫宣告无罪",
+        "onboard_time": 1710073230,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173124,
+        "num": 173124,
+        "word": "宣璐与凤行妆造",
+        "onboard_time": 1710074130,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170277,
+        "num": 170277,
+        "word": "为什么韩国人吃苹果那么精致",
+        "onboard_time": 1710061052,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163143,
+        "num": 163143,
+        "word": "拉面师傅自制金手镯售价2万被拘",
+        "onboard_time": 1710059191,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160816,
+        "num": 160816,
+        "word": "陈梦3比0长崎美柚",
+        "onboard_time": 1710071611,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157056,
+        "num": 157056,
+        "word": "e人遛i狗",
+        "onboard_time": 1710069270,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152961,
+        "num": 152961,
+        "word": "建议银行卡上的膜不要撕",
+        "onboard_time": 1710066987,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147316,
+        "num": 147316,
+        "word": "WE对战WBG",
+        "onboard_time": 1710073713,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146751,
+        "num": 146751,
+        "word": "亚洲电影大奖红毯",
+        "onboard_time": 1710069751,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145710,
+        "num": 145710,
+        "word": "别对我动心 独居女生安全性",
+        "onboard_time": 1710070830,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145428,
+        "num": 145428,
+        "word": "陈梦稳稳的幸福",
+        "onboard_time": 1710072689,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144245,
+        "num": 144245,
+        "word": "AG对战狼队",
+        "onboard_time": 1710074490,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142541,
+        "num": 142541,
+        "word": "李昀锐吃多少练多少",
+        "onboard_time": 1710070709,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33771,
+        "num": 141886,
+        "word": "全国两会他们说出老年人心声",
+        "onboard_time": 1710057330,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141790,
+        "num": 141790,
+        "word": "点读机女孩",
+        "onboard_time": 1710063087,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 126326,
+        "num": 126326,
+        "word": "春日氛围感美甲",
+        "onboard_time": 1710071372,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 115471,
+        "num": 115471,
+        "word": "与凤行全员行剧照",
+        "onboard_time": 1710066210,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114987,
+        "num": 114987,
+        "word": "钎城 五周年最好的礼物",
+        "onboard_time": 1710074254,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112125,
+        "num": 112125,
+        "word": "太湖湾音乐节 十个勤天",
+        "onboard_time": 1710064229,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110747,
+        "num": 110747,
+        "word": "金庸曾希望百年后还有人看他的小说",
+        "onboard_time": 1710070171,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 110145,
+        "num": 110145,
+        "word": "王心凌红色丝绒抹胸裙",
+        "onboard_time": 1710066151,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108570,
+        "num": 108570,
+        "word": "林俊杰演唱会人气",
+        "onboard_time": 1710064950,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
