@@ -1,0 +1,410 @@
+{
+  "runTime": 1710095744854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 106216,
+        "num": 106216,
+        "word": "今年二月二真有龙抬头",
+        "onboard_time": 1710076769,
+        "rank": 0,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 82552,
+        "num": 82552,
+        "word": "爆款短剧编剧月入超10万",
+        "onboard_time": 1710087208,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11857,
+        "num": 72124,
+        "word": "春耕春管如火如荼",
+        "onboard_time": 1710074490,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162120,
+        "num": 69980,
+        "word": "刘东昊因意外离世",
+        "onboard_time": 1710072089,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65125,
+        "num": 65125,
+        "word": "利物浦vs曼城",
+        "onboard_time": 1710084274,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160693,
+        "num": 64204,
+        "word": "5名艾滋病治愈者都有1个共同特点",
+        "onboard_time": 1710065789,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 57609,
+        "num": 57609,
+        "word": "封神第二部计划三年内上映",
+        "onboard_time": 1710083792,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55334,
+        "num": 55334,
+        "word": "蒋勤勤获奖感谢吴磊",
+        "onboard_time": 1710082413,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50762,
+        "num": 50762,
+        "word": "眼泪女王第二集",
+        "onboard_time": 1710077552,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11442,
+        "num": 49866,
+        "word": "热门打卡地代表委员发出邀请",
+        "onboard_time": 1710070650,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113136,
+        "num": 49448,
+        "word": "苹果的C口和安卓机的C口",
+        "onboard_time": 1710079053,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 101238,
+        "num": 48658,
+        "word": "日本女演员撞脸丁禹兮",
+        "onboard_time": 1710086009,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95389,
+        "num": 47644,
+        "word": "点读机女孩发烧不退再次进ICU",
+        "onboard_time": 1710057870,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 79874,
+        "num": 46429,
+        "word": "邱淑贞女儿沈月芭莎大片",
+        "onboard_time": 1710084031,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 76886,
+        "num": 45261,
+        "word": "北京偶遇朴振英",
+        "onboard_time": 1710093621,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66143,
+        "num": 43869,
+        "word": "黄绮珊爆改男妆",
+        "onboard_time": 1710089963,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64809,
+        "num": 43751,
+        "word": "美国女子带死者到银行刷脸盗取存款",
+        "onboard_time": 1710089303,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59833,
+        "num": 42565,
+        "word": "白桃星座",
+        "onboard_time": 1710086130,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55950,
+        "num": 41695,
+        "word": "余承恩穿搭博主",
+        "onboard_time": 1710095118,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40859,
+        "num": 40859,
+        "word": "清明节要调休",
+        "onboard_time": 1710071372,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56780,
+        "num": 39855,
+        "word": "男子花91万为女友买房分手要求退124万",
+        "onboard_time": 1710079172,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54649,
+        "num": 39157,
+        "word": "樊振东回应看霉霉演唱会感受",
+        "onboard_time": 1710083375,
+        "rank": 21,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 47186,
+        "num": 38334,
+        "word": "7岁女孩穿高跟鞋出门2小时后悔",
+        "onboard_time": 1710087987,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42609,
+        "num": 37005,
+        "word": "赵丽颖亚洲电影大奖获奖",
+        "onboard_time": 1710067047,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36258,
+        "num": 36258,
+        "word": "你的强轩染来了",
+        "onboard_time": 1710081811,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41759,
+        "num": 35639,
+        "word": "林俊杰演唱会保安沉浸式忘情合唱",
+        "onboard_time": 1710085590,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34496,
+        "num": 34496,
+        "word": "网传Gucci晚宴嘉宾名单",
+        "onboard_time": 1710076292,
+        "rank": 26,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 33799,
+        "num": 33799,
+        "word": "7类食物焯水后才能吃",
+        "onboard_time": 1710079234,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32688,
+        "num": 32688,
+        "word": "天一热手脚就长小水泡还巨痒",
+        "onboard_time": 1710091761,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31904,
+        "num": 31904,
+        "word": "林一变打卡景点",
+        "onboard_time": 1710081454,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30692,
+        "num": 30692,
+        "word": "赵丽颖陈建斌坐一起",
+        "onboard_time": 1710074915,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30650,
+        "num": 30650,
+        "word": "建议大家雨天还是打伞吧",
+        "onboard_time": 1710064351,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30317,
+        "num": 30317,
+        "word": "蒋勤勤亚洲电影大奖最佳女主角",
+        "onboard_time": 1710079773,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29979,
+        "num": 29979,
+        "word": "真的很容易对这样的人有好感",
+        "onboard_time": 1710083074,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29501,
+        "num": 29501,
+        "word": "点读机女孩",
+        "onboard_time": 1710063087,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 29144,
+        "num": 29144,
+        "word": "赵丽颖想和张艺谋继续合作",
+        "onboard_time": 1710072331,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28837,
+        "num": 28837,
+        "word": "恋爱兄妹",
+        "onboard_time": 1710069811,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24121,
+        "num": 24121,
+        "word": "走路去深圳北站的爷爷",
+        "onboard_time": 1710082891,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24101,
+        "num": 24101,
+        "word": "阿斯顿维拉0比4热刺",
+        "onboard_time": 1710083552,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23714,
+        "num": 23714,
+        "word": "占有欲也需要一点边界感",
+        "onboard_time": 1710080794,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27269,
+        "num": 23614,
+        "word": "张学友演唱会将补偿住宿及车票损失",
+        "onboard_time": 1710078633,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23222,
+        "num": 23222,
+        "word": "IU演唱会",
+        "onboard_time": 1710074915,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23172,
+        "num": 23172,
+        "word": "晚晚回应",
+        "onboard_time": 1710070052,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22576,
+        "num": 22576,
+        "word": "法国羽毛球公开赛",
+        "onboard_time": 1710081873,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21925,
+        "num": 21925,
+        "word": "魏大勋狗狗探头",
+        "onboard_time": 1710089663,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21738,
+        "num": 21738,
+        "word": "草木人间",
+        "onboard_time": 1710083311,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21433,
+        "num": 21433,
+        "word": "讲话这么温柔怎么推人毫不犹豫",
+        "onboard_time": 1710083673,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20762,
+        "num": 20762,
+        "word": "呼市大面积停水48小时",
+        "onboard_time": 1710081454,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20684,
+        "num": 20684,
+        "word": "真正的保湿其实是给皮肤补油",
+        "onboard_time": 1710083430,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 19623,
+        "num": 19623,
+        "word": "1993年李健在清华大学的入学照",
+        "onboard_time": 1710068970,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记两会金句中的重要指引#"
+    }
+  }
+}
