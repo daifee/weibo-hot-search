@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710081351359,
+  "endTime": 1710083728101,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1339,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1157802,
+      "num": 435653,
+      "word": "苹果的C口和安卓机的C口",
+      "onboard_time": 1710079053,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1150307,
       "num": 467740,
       "word": "赵丽颖工作室 还不出图",
@@ -1569,14 +1577,6 @@
       "onboard_time": 1709288254,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1064251,
-      "num": 435653,
-      "word": "苹果的C口和安卓机的C口",
-      "onboard_time": 1710079053,
-      "rank": 12,
-      "category": "数码"
     },
     {
       "raw_hot": 1061853,
@@ -2251,6 +2251,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 893470,
+      "num": 893470,
+      "word": "蒋勤勤亚洲电影大奖最佳女主角",
+      "onboard_time": 1710079773,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 889137,
       "num": 284091,
       "word": "黄景瑜撩的狗 阮经天来承受",
@@ -2729,14 +2737,6 @@
       "onboard_time": 1709954011,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 801724,
-      "num": 801724,
-      "word": "蒋勤勤亚洲电影大奖最佳女主角",
-      "onboard_time": 1710079773,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 798998,
@@ -3835,6 +3835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 668197,
+      "num": 255143,
+      "word": "男子花91万为女友买房分手要求退124万",
+      "onboard_time": 1710079172,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 667812,
       "num": 667812,
       "word": "羽绒服尽量不要干洗",
@@ -3961,14 +3969,6 @@
       "onboard_time": 1709824290,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 654474,
-      "num": 247904,
-      "word": "男子花91万为女友买房分手要求退124万",
-      "onboard_time": 1710079172,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 654138,
@@ -5075,6 +5075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 555061,
+      "num": 555061,
+      "word": "蒋勤勤获奖感谢吴磊",
+      "onboard_time": 1710082413,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 553719,
       "num": 377458,
       "word": "陈情令旅游专线",
@@ -5441,6 +5449,14 @@
       "onboard_time": 1709552432,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 529951,
+      "num": 529951,
+      "word": "呼市大面积停水48小时",
+      "onboard_time": 1710081454,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 529918,
@@ -9315,6 +9331,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 324872,
+      "num": 255309,
+      "word": "赵丽颖浮光跃金妆",
+      "onboard_time": 1710082772,
+      "rank": 19,
+      "category": "电影,美妆"
+    },
+    {
       "raw_hot": 324566,
       "num": 291073,
       "word": "建议银行卡上的膜不要撕",
@@ -9675,6 +9699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 313424,
+      "num": 313424,
+      "word": "樊振东回应看霉霉演唱会感受",
+      "onboard_time": 1710083375,
+      "rank": 15,
+      "category": "演出,体育"
+    },
+    {
       "raw_hot": 313355,
       "num": 244388,
       "word": "这下真的知道该怎么减肥了",
@@ -9721,6 +9753,14 @@
       "onboard_time": 1709725830,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 311824,
+      "num": 311824,
+      "word": "7类食物焯水后才能吃",
+      "onboard_time": 1710079234,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 311469,
@@ -10409,6 +10449,14 @@
       "onboard_time": 1709451450,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 290864,
+      "num": 230707,
+      "word": "陈建斌对蒋勤勤飞吻",
+      "onboard_time": 1710080375,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 290850,
@@ -11579,6 +11627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 255926,
+      "num": 255926,
+      "word": "你的强轩染来了",
+      "onboard_time": 1710081811,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 255877,
       "num": 255877,
       "word": "明锅回归Hero",
@@ -11833,6 +11889,14 @@
       "onboard_time": 1709964572,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248802,
+      "num": 248802,
+      "word": "情绪稳定的人适合做饭",
+      "onboard_time": 1710081034,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 248459,
@@ -12283,14 +12347,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 238517,
-      "num": 238517,
-      "word": "7类食物焯水后才能吃",
-      "onboard_time": 1710079234,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 238368,
       "num": 238368,
       "word": "黄奕曝光明星饮食状况",
@@ -12563,6 +12619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233038,
+      "num": 233038,
+      "word": "走路去深圳北站的爷爷",
+      "onboard_time": 1710082891,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232908,
       "num": 232908,
       "word": "张雨绮理想的婚姻状态是分房睡",
@@ -12633,14 +12697,6 @@
       "onboard_time": 1709629594,
       "rank": 36,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 230707,
-      "num": 230707,
-      "word": "陈建斌对蒋勤勤飞吻",
-      "onboard_time": 1710080375,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 230652,
@@ -14539,6 +14595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202198,
+      "num": 202198,
+      "word": "马思纯麻辣女教师",
+      "onboard_time": 1710083191,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202131,
       "num": 202131,
       "word": "甜茶好帅",
@@ -15451,6 +15515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193455,
+      "num": 193455,
+      "word": "占有欲也需要一点边界感",
+      "onboard_time": 1710080794,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193436,
       "num": 193436,
       "word": "XYG对战eStar",
@@ -15619,6 +15691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191732,
+      "num": 191732,
+      "word": "林一变打卡景点",
+      "onboard_time": 1710081454,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191707,
       "num": 191707,
       "word": "蒲熠星耳骨夹",
@@ -15633,6 +15713,14 @@
       "onboard_time": 1709537849,
       "rank": 28,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 191674,
+      "num": 191674,
+      "word": "草木人间",
+      "onboard_time": 1710083311,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 191356,
@@ -16099,6 +16187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186805,
+      "num": 186805,
+      "word": "真的很容易对这样的人有好感",
+      "onboard_time": 1710083074,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186643,
       "num": 186643,
       "word": "歼击机女飞行员太飒了",
@@ -16153,14 +16249,6 @@
       "onboard_time": 1710031168,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 185842,
-      "num": 185842,
-      "word": "占有欲也需要一点边界感",
-      "onboard_time": 1710080794,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 185832,
@@ -16281,6 +16369,14 @@
       "onboard_time": 1709607511,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184370,
+      "num": 192056,
+      "word": "凡晨大逆转",
+      "onboard_time": 1710082352,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 184351,
@@ -17883,6 +17979,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 169254,
+      "num": 169254,
+      "word": "法国赛凡晨组合女双夺冠",
+      "onboard_time": 1710082352,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169234,
       "num": 169234,
       "word": "LGD战胜狼队",
@@ -19131,14 +19235,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158716,
-      "num": 158716,
-      "word": "情绪稳定的人适合做饭",
-      "onboard_time": 1710081034,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 158536,
       "num": 158536,
       "word": "妈妈错过的婚纱照我来补",
@@ -20251,6 +20347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150144,
+      "num": 150144,
+      "word": "真正的保湿其实是给皮肤补油",
+      "onboard_time": 1710083430,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 150061,
       "num": 150061,
       "word": "姚明林浩时隔16年重逢",
@@ -20809,6 +20913,14 @@
       "onboard_time": 1709290836,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145701,
+      "num": 145701,
+      "word": "魏哲鸣直播状态",
+      "onboard_time": 1710082173,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 145635,
@@ -21843,6 +21955,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 137736,
+      "num": 137736,
+      "word": "谢谢你温暖我 女天降男竹马",
+      "onboard_time": 1710081392,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137689,
       "num": 137689,
       "word": "B站UP主激励增幅下滑",
@@ -22579,6 +22699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132348,
+      "num": 132348,
+      "word": "阿斯顿维拉0比4热刺",
+      "onboard_time": 1710083552,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132336,
       "num": 132336,
       "word": "陈丽君到达长沙",
@@ -23209,6 +23337,14 @@
       "onboard_time": 1709252733,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127813,
+      "num": 127813,
+      "word": "NV单局20淘汰",
+      "onboard_time": 1710083012,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 127711,
@@ -24113,6 +24249,14 @@
       "onboard_time": 1709267075,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119703,
+      "num": 119703,
+      "word": "眼泪女王早安吻",
+      "onboard_time": 1710082291,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 119520,
@@ -25171,6 +25315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111021,
+      "num": 111021,
+      "word": "法国羽毛球公开赛",
+      "onboard_time": 1710081873,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110893,
       "num": 110893,
       "word": "药明系个股集体大跌",
@@ -25281,6 +25433,14 @@
       "onboard_time": 1709947412,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 109549,
+      "num": 109549,
+      "word": "讲话这么温柔怎么推人毫不犹豫",
+      "onboard_time": 1710083673,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 109498,
