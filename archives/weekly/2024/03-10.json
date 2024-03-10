@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710112684955,
+  "endTime": 1710113645213,
   "band_list": [
     {
       "raw_hot": 2869929,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760029,
+      "num": 760029,
+      "word": "龙抬头",
+      "onboard_time": 1710112762,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 757958,
       "num": 363883,
       "word": "日本女演员撞脸丁禹兮",
@@ -313,6 +321,14 @@
       "onboard_time": 1710070052,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 717328,
+      "num": 221271,
+      "word": "高校规定博士五年未升副教授转岗后勤",
+      "onboard_time": 1710110358,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 714311,
@@ -507,6 +523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 561031,
+      "num": 561031,
+      "word": "男方出资登记女方名下房产归谁",
+      "onboard_time": 1710104535,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 553654,
       "num": 553654,
       "word": "网友路过拍下华为员工开会视频",
@@ -571,14 +595,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 508935,
-      "num": 163627,
-      "word": "男方出资登记女方名下房产归谁",
-      "onboard_time": 1710104535,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 505152,
       "num": 505152,
       "word": "学生睡不醒班主任背到医院",
@@ -627,12 +643,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 458436,
-      "num": 163443,
-      "word": "高校规定博士五年未升副教授转岗后勤",
-      "onboard_time": 1710110358,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 453643,
+      "num": 453643,
+      "word": "孩子幼儿园就在单位楼下是什么体验",
+      "onboard_time": 1710102375,
+      "rank": 38,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 448371,
@@ -785,14 +801,6 @@
       "onboard_time": 1710056489,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 378734,
-      "num": 378734,
-      "word": "孩子幼儿园就在单位楼下是什么体验",
-      "onboard_time": 1710102375,
-      "rank": 38,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 375658,
@@ -1091,6 +1099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 291145,
+      "num": 291145,
+      "word": "2024奥斯卡颁奖典礼",
+      "onboard_time": 1710112825,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 290864,
       "num": 230707,
       "word": "陈建斌对蒋勤勤飞吻",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1710045872,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 272589,
+      "num": 217250,
+      "word": "沈腾拍得像被捕了",
+      "onboard_time": 1710096137,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 267605,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1710043410,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 252555,
+      "num": 215002,
+      "word": "个税起征点提高至1万元谁最受益",
+      "onboard_time": 1710113126,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 248244,
@@ -1312,6 +1344,14 @@
       "word": "赵丽颖阿云嘎同框",
       "onboard_time": 1710078097,
       "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 222359,
+      "num": 222359,
+      "word": "2024奥斯卡红毯",
+      "onboard_time": 1710112762,
+      "rank": 9,
       "category": "电影"
     },
     {
@@ -1433,14 +1473,6 @@
       "onboard_time": 1710069270,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 205619,
-      "num": 162700,
-      "word": "沈腾拍得像被捕了",
-      "onboard_time": 1710096137,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 204047,
@@ -1603,6 +1635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191270,
+      "num": 191270,
+      "word": "美国女子带死者到银行刷脸盗取存款",
+      "onboard_time": 1710089303,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190724,
       "num": 190724,
       "word": "77名被告人因正当防卫宣告无罪",
@@ -1699,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183156,
+      "num": 183156,
+      "word": "北京偶遇朴振英",
+      "onboard_time": 1710093621,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182771,
       "num": 182771,
       "word": "孟羽童回应收入",
@@ -1761,14 +1809,6 @@
       "onboard_time": 1709995177,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 178139,
-      "num": 162323,
-      "word": "美国女子带死者到银行刷脸盗取存款",
-      "onboard_time": 1710089303,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177629,
@@ -1937,14 +1977,6 @@
       "onboard_time": 1710057688,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 162297,
-      "num": 162297,
-      "word": "北京偶遇朴振英",
-      "onboard_time": 1710093621,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 161622,
@@ -2387,6 +2419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132095,
+      "num": 132095,
+      "word": "利物浦1比1曼城",
+      "onboard_time": 1710112762,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132085,
       "num": 132085,
       "word": "孟家女性",
@@ -2571,6 +2611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119310,
+      "num": 119310,
+      "word": "张文宏谈青少年厕所文化",
+      "onboard_time": 1710099496,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 119190,
       "num": 119190,
       "word": "睡眠又快又香的5个办法",
@@ -2747,14 +2795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110951,
-      "num": 110951,
-      "word": "张文宏谈青少年厕所文化",
-      "onboard_time": 1710099496,
-      "rank": 11,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 109974,
       "num": 109974,
       "word": "X疾病引发流行是可以防范的",
@@ -2811,6 +2851,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 107130,
+      "num": 107130,
+      "word": "龙抬头抬起一年好兆头",
+      "onboard_time": 1710112762,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107119,
       "num": 107119,
       "word": "怎样晒太阳既养生又不显老",
@@ -2833,6 +2881,14 @@
       "onboard_time": 1710030867,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105447,
+      "num": 105447,
+      "word": "知名餐饮品牌被曝只剩两家店",
+      "onboard_time": 1710113185,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 105060,
@@ -3027,6 +3083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91313,
+      "num": 91313,
+      "word": "女生回应导师修改3万字论文",
+      "onboard_time": 1710111801,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90873,
       "num": 96039,
       "word": "南大一48岁博士生8年未毕业被劝退",
@@ -3123,6 +3187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74409,
+      "num": 74409,
+      "word": "涵艺爆料BSYY离队",
+      "onboard_time": 1710113244,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 74335,
       "num": 74335,
       "word": "这个理由她已经用了半年了",
@@ -3137,6 +3209,14 @@
       "onboard_time": 1710096557,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 72832,
+      "num": 72832,
+      "word": "阿森纳榜首",
+      "onboard_time": 1710113064,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 71328,
@@ -3203,14 +3283,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 56362,
-      "num": 56362,
-      "word": "女生回应导师修改3万字论文",
-      "onboard_time": 1710111801,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55950,
       "num": 52862,
       "word": "余承恩穿搭博主",
@@ -3225,6 +3297,14 @@
       "onboard_time": 1710001050,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54288,
+      "num": 54288,
+      "word": "法国赛石宇奇男单夺冠",
+      "onboard_time": 1710113606,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 54167,
