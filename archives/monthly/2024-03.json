@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710090931612,
+  "endTime": 1710092049876,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -16155,6 +16155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 187600,
+      "num": 135315,
+      "word": "黄绮珊爆改男妆",
+      "onboard_time": 1710089963,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 187559,
       "num": 187559,
       "word": "这是我的岛",
@@ -16577,14 +16585,6 @@
       "onboard_time": 1709978672,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 182907,
-      "num": 135315,
-      "word": "黄绮珊爆改男妆",
-      "onboard_time": 1710089963,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 182813,
@@ -23883,6 +23883,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 123308,
+      "num": 115440,
+      "word": "美国女子带死者到银行刷脸盗取存款",
+      "onboard_time": 1710089303,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123257,
       "num": 123257,
       "word": "奎八EASYchallenge",
@@ -24857,14 +24865,6 @@
       "onboard_time": 1709812831,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 115440,
-      "num": 115440,
-      "word": "美国女子带死者到银行刷脸盗取存款",
-      "onboard_time": 1710089303,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115216,
@@ -28529,6 +28529,14 @@
       "onboard_time": 1709791233,
       "rank": 14,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 28314,
+      "num": 50190,
+      "word": "天一热手脚就长小水泡还巨痒",
+      "onboard_time": 1710091761,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 27982,

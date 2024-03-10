@@ -1,6 +1,6 @@
 {
   "startTime": 1710087619285,
-  "endTime": 1710090931612,
+  "endTime": 1710092049876,
   "band_list": [
     {
       "raw_hot": 825252,
@@ -179,7 +179,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182907,
+      "raw_hot": 187600,
       "num": 135315,
       "word": "黄绮珊爆改男妆",
       "onboard_time": 1710089963,
@@ -267,7 +267,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115440,
+      "raw_hot": 123308,
       "num": 115440,
       "word": "美国女子带死者到银行刷脸盗取存款",
       "onboard_time": 1710089303,
@@ -433,6 +433,14 @@
       "onboard_time": 1710074915,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 28314,
+      "num": 50190,
+      "word": "天一热手脚就长小水泡还巨痒",
+      "onboard_time": 1710091761,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 24821,

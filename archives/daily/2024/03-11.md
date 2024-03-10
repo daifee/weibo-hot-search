@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/03/11 00:20:19 ~ 2024/03/11 01:15:31
+本榜单时间：2024/03/11 00:20:19 ~ 2024/03/11 01:34:09
 </p>
 </blockquote>
 <p>
@@ -148,7 +148,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%BB%AE%E7%8F%8A%E7%88%86%E6%94%B9%E7%94%B7%E5%A6%86%23" target="weibo">
-黄绮珊爆改男妆（热度：182907）
+黄绮珊爆改男妆（热度：187600）
 </a>
 </li>
 
@@ -214,7 +214,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%B8%A6%E6%AD%BB%E8%80%85%E5%88%B0%E9%93%B6%E8%A1%8C%E5%88%B7%E8%84%B8%E7%9B%97%E5%8F%96%E5%AD%98%E6%AC%BE%23" target="weibo">
-美国女子带死者到银行刷脸盗取存款（热度：115440）
+美国女子带死者到银行刷脸盗取存款（热度：123308）
 </a>
 </li>
 
@@ -335,6 +335,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23IU%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 IU演唱会（热度：44740）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E4%B8%80%E7%83%AD%E6%89%8B%E8%84%9A%E5%B0%B1%E9%95%BF%E5%B0%8F%E6%B0%B4%E6%B3%A1%E8%BF%98%E5%B7%A8%E7%97%92%23" target="weibo">
+天一热手脚就长小水泡还巨痒（热度：28314）
 </a>
 </li>
 
