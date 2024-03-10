@@ -1,0 +1,410 @@
+{
+  "runTime": 1710063252245,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 998775,
+        "num": 998775,
+        "word": "楚乔传新预告",
+        "onboard_time": 1710059492,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 709159,
+        "num": 709159,
+        "word": "纪凌尘让宁静不再宁静",
+        "onboard_time": 1710055350,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13759,
+        "num": 514326,
+        "word": "全国政协十四届二次会议闭幕会",
+        "onboard_time": 1710031467,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2184347,
+        "num": 506761,
+        "word": "点读机女孩发烧不退再次进ICU",
+        "onboard_time": 1710057870,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 132254,
+        "num": 458740,
+        "word": "姚明解读村BA为何出圈",
+        "onboard_time": 1710061230,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 416124,
+        "num": 416124,
+        "word": "花店接5万2现金花束大单竟是洗钱",
+        "onboard_time": 1710049467,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395713,
+        "num": 395713,
+        "word": "西班牙将正式承认巴勒斯坦国",
+        "onboard_time": 1710050670,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 275056,
+        "num": 275056,
+        "word": "点读机女孩",
+        "onboard_time": 1710063087,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 246762,
+        "num": 246762,
+        "word": "婆婆把房屋面积精确到小数点",
+        "onboard_time": 1710056489,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82256,
+        "num": 246581,
+        "word": "今年两会最后一场代表通道",
+        "onboard_time": 1710061290,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 597467,
+        "num": 246243,
+        "word": "这样睡觉等于慢性自杀",
+        "onboard_time": 1710038131,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 549372,
+        "num": 245855,
+        "word": "哈尔滨17岁失踪高中生找到了",
+        "onboard_time": 1710053491,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423295,
+        "num": 245270,
+        "word": "巨物迷恋症",
+        "onboard_time": 1710057870,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 375658,
+        "num": 245168,
+        "word": "朱梓骁表情",
+        "onboard_time": 1710059310,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356876,
+        "num": 244733,
+        "word": "拉面师傅自制金手镯售价2万被拘",
+        "onboard_time": 1710059191,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310888,
+        "num": 244388,
+        "word": "这下真的知道该怎么减肥了",
+        "onboard_time": 1710061290,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 288613,
+        "num": 243822,
+        "word": "赵丽颖工作室 还不出图",
+        "onboard_time": 1710062910,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278609,
+        "num": 243588,
+        "word": "伊藤美诚3比0倪夏莲",
+        "onboard_time": 1710058949,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247186,
+        "num": 243256,
+        "word": "女子超量服20天布洛芬引发脑梗死",
+        "onboard_time": 1710057809,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246970,
+        "num": 242944,
+        "word": "王诗龄长发",
+        "onboard_time": 1710050787,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 686300,
+        "num": 242410,
+        "word": "句句不含脏 字字在骂人",
+        "onboard_time": 1710061052,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 448371,
+        "num": 242075,
+        "word": "为什么韩国人吃苹果那么精致",
+        "onboard_time": 1710061052,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 241847,
+        "num": 241847,
+        "word": "9块9的咖啡还能喝多久",
+        "onboard_time": 1710040108,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 243308,
+        "num": 241827,
+        "word": "接下来一个月浙江人的早饭",
+        "onboard_time": 1710061108,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 241655,
+        "num": 241655,
+        "word": "3种蔬菜吃多了会致癌",
+        "onboard_time": 1710055829,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213765,
+        "num": 213765,
+        "word": "董卿带儿子看展",
+        "onboard_time": 1710051810,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211406,
+        "num": 211406,
+        "word": "朴综星 香港人塑",
+        "onboard_time": 1710061590,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193239,
+        "num": 193239,
+        "word": "建议春天要穿鲜艳的衣服",
+        "onboard_time": 1710058648,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 176140,
+        "num": 176140,
+        "word": "刘诗诗近期碎片",
+        "onboard_time": 1710061770,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168326,
+        "num": 168326,
+        "word": "罗伯特帕丁森得女",
+        "onboard_time": 1710060691,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195838,
+        "num": 167706,
+        "word": "小女孩 妈妈我出狗祸了",
+        "onboard_time": 1710060990,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166887,
+        "num": 166887,
+        "word": "韩男团成员解散后摆摊",
+        "onboard_time": 1710051927,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162226,
+        "num": 162226,
+        "word": "红郎平等的辜负每一个孩子",
+        "onboard_time": 1710061710,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161638,
+        "num": 161638,
+        "word": "向佐上岛了",
+        "onboard_time": 1710060630,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144701,
+        "num": 144701,
+        "word": "首款折叠屏iPhone",
+        "onboard_time": 1710060208,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143837,
+        "num": 143837,
+        "word": "丢了一年的狗在邻居家被发现",
+        "onboard_time": 1710058710,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138085,
+        "num": 138085,
+        "word": "沙丘 沙虫",
+        "onboard_time": 1710054749,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128118,
+        "num": 128118,
+        "word": "李明德说沈耀不是反派",
+        "onboard_time": 1710061349,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116281,
+        "num": 116281,
+        "word": "周到 马导也是不容易",
+        "onboard_time": 1710059009,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112762,
+        "num": 112762,
+        "word": "檀健次回应爆红后熬出头",
+        "onboard_time": 1710056612,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110830,
+        "num": 110830,
+        "word": "新疆白沙湖一边水一边冰",
+        "onboard_time": 1710061472,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 110130,
+        "num": 110130,
+        "word": "魏大勋点茶",
+        "onboard_time": 1710057088,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107995,
+        "num": 107995,
+        "word": "沙丘 圣母",
+        "onboard_time": 1710062731,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103663,
+        "num": 103663,
+        "word": "BLG战胜RA",
+        "onboard_time": 1710063210,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103460,
+        "num": 103460,
+        "word": "妈妈一个人改造了儿子的房间",
+        "onboard_time": 1710050191,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100340,
+        "num": 100340,
+        "word": "女警脱下制服遮挡车内产子的孕妇",
+        "onboard_time": 1710043230,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96752,
+        "num": 96752,
+        "word": "TTG战胜EDGM",
+        "onboard_time": 1710062910,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96686,
+        "num": 96686,
+        "word": "周翊然杭州",
+        "onboard_time": 1710054151,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96406,
+        "num": 96406,
+        "word": "朴综星翻唱初恋",
+        "onboard_time": 1710060449,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 89863,
+        "num": 89863,
+        "word": "贺峻霖生病",
+        "onboard_time": 1710047071,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记两会金句中的重要指引#"
+    }
+  }
+}
