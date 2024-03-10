@@ -1,0 +1,410 @@
+{
+  "runTime": 1710048847644,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 748031,
+        "num": 748031,
+        "word": "女警脱下制服遮挡车内产子的孕妇",
+        "onboard_time": 1710043230,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617112,
+        "num": 617112,
+        "word": "9块9的咖啡还能喝多久",
+        "onboard_time": 1710040108,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 10260,
+        "num": 491645,
+        "word": "2024两会好声音",
+        "onboard_time": 1709972310,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 622658,
+        "num": 487509,
+        "word": "两个C位都在乐华",
+        "onboard_time": 1710043649,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481849,
+        "num": 481849,
+        "word": "山东事业编 亚冠",
+        "onboard_time": 1710044189,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 394721,
+        "num": 394721,
+        "word": "87%的女性选择搞事业",
+        "onboard_time": 1710046590,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 389893,
+        "num": 389893,
+        "word": "张邈 赛博美人",
+        "onboard_time": 1710045089,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 364071,
+        "num": 364071,
+        "word": "国家疾控局回应X疾病或会暴发警告",
+        "onboard_time": 1710043950,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 330461,
+        "num": 330461,
+        "word": "吴镇宇否认无限超越班吵架是剧本",
+        "onboard_time": 1710039629,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64207,
+        "num": 326312,
+        "word": "互联网已成为永不落幕的课堂",
+        "onboard_time": 1710033870,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1392401,
+        "num": 320186,
+        "word": "学校否认女老师与男学生发生关系",
+        "onboard_time": 1710045749,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1143954,
+        "num": 317010,
+        "word": "这样睡觉等于慢性自杀",
+        "onboard_time": 1710038131,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 679302,
+        "num": 310189,
+        "word": "陈建斌搂蒋勤勤与路人合照",
+        "onboard_time": 1710041008,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 979351,
+        "num": 305450,
+        "word": "杭州抢劫案唯一受害者出现",
+        "onboard_time": 1710046350,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381541,
+        "num": 301977,
+        "word": "贺峻霖生病",
+        "onboard_time": 1710047071,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299591,
+        "num": 299591,
+        "word": "山东事业编",
+        "onboard_time": 1710042989,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 280004,
+        "num": 280004,
+        "word": "迪丽热巴天使蹲出圈",
+        "onboard_time": 1710048331,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273843,
+        "num": 273843,
+        "word": "字节跳动辟谣暴雪前CEO洽购TikTok",
+        "onboard_time": 1710045872,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 263509,
+        "num": 263509,
+        "word": "美国大选将迎耄耋对决",
+        "onboard_time": 1710047491,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 254627,
+        "num": 254627,
+        "word": "多家银行存款利率最高达10%",
+        "onboard_time": 1710039629,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 315626,
+        "num": 254498,
+        "word": "相亲市场上1米73的我最怕被问到身高",
+        "onboard_time": 1710044968,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251530,
+        "num": 251530,
+        "word": "第一次在宁静的眼神里看到了无助",
+        "onboard_time": 1710035906,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244260,
+        "num": 244260,
+        "word": "檀健次王鹤棣回复hi6",
+        "onboard_time": 1710047970,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222802,
+        "num": 222802,
+        "word": "双胞胎哥哥为脑瘫弟弟建了一个家",
+        "onboard_time": 1710035787,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200056,
+        "num": 200056,
+        "word": "朱梓骁被纪凌尘气炸了",
+        "onboard_time": 1709990312,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190688,
+        "num": 190688,
+        "word": "Puff发文求职",
+        "onboard_time": 1710045391,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186109,
+        "num": 186109,
+        "word": "樊振东新加坡16连胜",
+        "onboard_time": 1710047910,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184853,
+        "num": 184853,
+        "word": "热辣滚烫 华语北美十年最大规模开画",
+        "onboard_time": 1710047370,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180976,
+        "num": 180976,
+        "word": "把痰咽下去对人体有危害吗",
+        "onboard_time": 1710036267,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 171898,
+        "num": 171898,
+        "word": "香港买金每克便宜70元",
+        "onboard_time": 1710045689,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171700,
+        "num": 171700,
+        "word": "孟羽童回应整容",
+        "onboard_time": 1710027262,
+        "rank": 30,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 167427,
+        "num": 167427,
+        "word": "何书桓要去大上海看古巨基唱歌了",
+        "onboard_time": 1710043410,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153768,
+        "num": 153768,
+        "word": "何超琼当模特推广贵州苗绣",
+        "onboard_time": 1710045449,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142510,
+        "num": 142510,
+        "word": "吴镇宇 是锦超先抓我手的",
+        "onboard_time": 1710048090,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139231,
+        "num": 139231,
+        "word": "教师形式主义负担过重如何解决",
+        "onboard_time": 1710040108,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138038,
+        "num": 138038,
+        "word": "与凤行嗑拥了花絮",
+        "onboard_time": 1710046528,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137632,
+        "num": 137632,
+        "word": "套内48平米的loft公寓",
+        "onboard_time": 1710042629,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136576,
+        "num": 136576,
+        "word": "WTT新加坡",
+        "onboard_time": 1710048629,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129647,
+        "num": 129647,
+        "word": "故宫蜡梅开了",
+        "onboard_time": 1710046949,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 127873,
+        "num": 127873,
+        "word": "数码宝贝 我推的孩子",
+        "onboard_time": 1710046830,
+        "rank": 39,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 122432,
+        "num": 122432,
+        "word": "文心大模型4.0在中文上已经超过了GPT4",
+        "onboard_time": 1710048448,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 122391,
+        "num": 122391,
+        "word": "山东事业编答案",
+        "onboard_time": 1710045328,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116639,
+        "num": 116639,
+        "word": "金庸笔下最惨的主角",
+        "onboard_time": 1710040948,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 115882,
+        "num": 115882,
+        "word": "新手班主任分享现在中学生有多难管",
+        "onboard_time": 1710046050,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113895,
+        "num": 113895,
+        "word": "回芒的诱惑",
+        "onboard_time": 1710047551,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112523,
+        "num": 112523,
+        "word": "樊振东林昀儒一起看霉霉演唱会",
+        "onboard_time": 1710034767,
+        "rank": 45,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 108543,
+        "num": 108543,
+        "word": "刘诗诗蓝色高定",
+        "onboard_time": 1710032668,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103244,
+        "num": 103244,
+        "word": "谢谢你温暖我 八倍速恋爱",
+        "onboard_time": 1710041608,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99882,
+        "num": 99882,
+        "word": "李现周雨彤晒剧照",
+        "onboard_time": 1710044911,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99180,
+        "num": 99180,
+        "word": "肖战红色时尚大片",
+        "onboard_time": 1710039330,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#从全国两会看中国发展#"
+    }
+  }
+}
