@@ -1,0 +1,410 @@
+{
+  "runTime": 1710081351359,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1731462,
+        "num": 1731462,
+        "word": "今年二月二真有龙抬头",
+        "onboard_time": 1710076769,
+        "rank": 0,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 1125733,
+        "num": 1125733,
+        "word": "清明节要调休",
+        "onboard_time": 1710071372,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55187,
+        "num": 960895,
+        "word": "当甲骨文穿越到2024年的中国",
+        "onboard_time": 1710058408,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1593579,
+        "num": 957335,
+        "word": "刘东昊因意外离世",
+        "onboard_time": 1710072089,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801724,
+        "num": 801724,
+        "word": "蒋勤勤亚洲电影大奖最佳女主角",
+        "onboard_time": 1710079773,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 777427,
+        "num": 777427,
+        "word": "5名艾滋病治愈者都有1个共同特点",
+        "onboard_time": 1710065789,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 533620,
+        "num": 533620,
+        "word": "赵丽颖陈建斌坐一起",
+        "onboard_time": 1710074915,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 491576,
+        "num": 491576,
+        "word": "张学友演唱会将补偿住宿及车票损失",
+        "onboard_time": 1710078633,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 461851,
+        "num": 461851,
+        "word": "眼泪女王第二集",
+        "onboard_time": 1710077552,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43999,
+        "num": 436066,
+        "word": "热门打卡地代表委员发出邀请",
+        "onboard_time": 1710070650,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1064251,
+        "num": 435653,
+        "word": "苹果的C口和安卓机的C口",
+        "onboard_time": 1710079053,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 832706,
+        "num": 434249,
+        "word": "网传Gucci晚宴嘉宾名单",
+        "onboard_time": 1710076292,
+        "rank": 11,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 431701,
+        "num": 431701,
+        "word": "点读机女孩发烧不退再次进ICU",
+        "onboard_time": 1710057870,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 359457,
+        "num": 359457,
+        "word": "赵丽颖亚洲电影大奖获奖",
+        "onboard_time": 1710067047,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 317619,
+        "num": 317619,
+        "word": "AG战胜狼队",
+        "onboard_time": 1710080794,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 312778,
+        "num": 312778,
+        "word": "桃花坞文案 顶级浪漫",
+        "onboard_time": 1710073652,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282141,
+        "num": 282141,
+        "word": "1993年李健在清华大学的入学照",
+        "onboard_time": 1710068970,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279311,
+        "num": 279311,
+        "word": "韩国月子中心都吃什么",
+        "onboard_time": 1710069571,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 279949,
+        "num": 268009,
+        "word": "赵丽颖想和张艺谋继续合作",
+        "onboard_time": 1710072331,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233137,
+        "num": 248268,
+        "word": "马龙男单",
+        "onboard_time": 1710073772,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 654474,
+        "num": 247904,
+        "word": "男子花91万为女友买房分手要求退124万",
+        "onboard_time": 1710079172,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245750,
+        "num": 245750,
+        "word": "建议大家雨天还是打伞吧",
+        "onboard_time": 1710064351,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243448,
+        "num": 243448,
+        "word": "微信里你不知道的小妙招",
+        "onboard_time": 1710077552,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 238517,
+        "num": 238517,
+        "word": "7类食物焯水后才能吃",
+        "onboard_time": 1710079234,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 230707,
+        "num": 230707,
+        "word": "陈建斌对蒋勤勤飞吻",
+        "onboard_time": 1710080375,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206262,
+        "num": 206262,
+        "word": "恋爱兄妹",
+        "onboard_time": 1710069811,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195824,
+        "num": 195824,
+        "word": "AG超级兵偷家",
+        "onboard_time": 1710078753,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195315,
+        "num": 195315,
+        "word": "3个动作拥有纤细手臂",
+        "onboard_time": 1710079715,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 189546,
+        "num": 189546,
+        "word": "二月二龙抬头有哪些习俗",
+        "onboard_time": 1710075211,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147816,
+        "num": 186420,
+        "word": "建议将演员艺德列为重要评价指标",
+        "onboard_time": 1710075932,
+        "rank": 29,
+        "category": "国内时政,艺人"
+      },
+      {
+        "raw_hot": 204437,
+        "num": 186218,
+        "word": "王刚左小腿中上段腓骨裂纹骨折",
+        "onboard_time": 1710079234,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185842,
+        "num": 185842,
+        "word": "占有欲也需要一点边界感",
+        "onboard_time": 1710080794,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180326,
+        "num": 180326,
+        "word": "郝蕾打压式安慰王梓薇",
+        "onboard_time": 1710076355,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174759,
+        "num": 174759,
+        "word": "NV晋级和平精英全球公开赛",
+        "onboard_time": 1710081034,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165122,
+        "num": 165122,
+        "word": "楚乔传新预告",
+        "onboard_time": 1710059492,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164842,
+        "num": 164842,
+        "word": "晚晚回应",
+        "onboard_time": 1710070052,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163582,
+        "num": 163582,
+        "word": "赵丽颖说有突破就是收获",
+        "onboard_time": 1710081214,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158716,
+        "num": 158716,
+        "word": "情绪稳定的人适合做饭",
+        "onboard_time": 1710081034,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153661,
+        "num": 153661,
+        "word": "3种蔬菜吃多了会致癌",
+        "onboard_time": 1710055829,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145515,
+        "num": 145515,
+        "word": "点读机女孩",
+        "onboard_time": 1710063087,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145083,
+        "num": 145083,
+        "word": "每个人都在现实中挣扎",
+        "onboard_time": 1710080194,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144380,
+        "num": 144380,
+        "word": "IU演唱会",
+        "onboard_time": 1710074915,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137987,
+        "num": 137987,
+        "word": "这样睡觉等于慢性自杀",
+        "onboard_time": 1710038131,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132705,
+        "num": 132705,
+        "word": "好友的意义在于共享未来",
+        "onboard_time": 1710080853,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130676,
+        "num": 130676,
+        "word": "沙丘2 字幕翻译",
+        "onboard_time": 1710077969,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129926,
+        "num": 129926,
+        "word": "为什么韩国人吃苹果那么精致",
+        "onboard_time": 1710061052,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125514,
+        "num": 125514,
+        "word": "深圳新鹏城0比4天津津门虎",
+        "onboard_time": 1710081153,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113194,
+        "num": 113194,
+        "word": "AG对战狼队",
+        "onboard_time": 1710074490,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112337,
+        "num": 112337,
+        "word": "马龙3比1A勒布伦",
+        "onboard_time": 1710078097,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109974,
+        "num": 109974,
+        "word": "X疾病引发流行是可以防范的",
+        "onboard_time": 1710080735,
+        "rank": 49,
+        "category": "国内时政,健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的两会时间#"
+    }
+  }
+}
