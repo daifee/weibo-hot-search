@@ -1,9 +1,9 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710040697541,
+  "endTime": 1710041651012,
   "band_list": [
     {
-      "raw_hot": 1714759,
+      "raw_hot": 1830133,
       "num": 254920,
       "word": "这样睡觉等于慢性自杀",
       "onboard_time": 1710038131,
@@ -65,6 +65,14 @@
       "onboard_time": 1709990312,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 710033,
+      "num": 251636,
+      "word": "张凯丽说不赞成孩子赢在起跑线这句话",
+      "onboard_time": 1710038911,
+      "rank": 13,
+      "category": "国内时政,艺人"
     },
     {
       "raw_hot": 686152,
@@ -139,6 +147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 550452,
+      "num": 550452,
+      "word": "粉笔模考",
+      "onboard_time": 1710040350,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 537356,
       "num": 305390,
       "word": "龙丹妮说终于没人喊倒闭了",
@@ -163,12 +179,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 518768,
+      "num": 518768,
+      "word": "9块9的咖啡还能喝多久",
+      "onboard_time": 1710040108,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 505152,
       "num": 505152,
       "word": "学生睡不醒班主任背到医院",
       "onboard_time": 1710004702,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503815,
+      "num": 503815,
+      "word": "吴镇宇否认无限超越班吵架是剧本",
+      "onboard_time": 1710039629,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 491632,
@@ -195,12 +227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 443656,
-      "num": 251636,
-      "word": "张凯丽说不赞成孩子赢在起跑线这句话",
-      "onboard_time": 1710038911,
-      "rank": 13,
-      "category": "国内时政,艺人"
+      "raw_hot": 437447,
+      "num": 243407,
+      "word": "多家银行存款利率最高达10%",
+      "onboard_time": 1710039629,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 411677,
@@ -249,14 +281,6 @@
       "onboard_time": 1710034767,
       "rank": 6,
       "category": "体育,演出"
-    },
-    {
-      "raw_hot": 352463,
-      "num": 352463,
-      "word": "粉笔模考",
-      "onboard_time": 1710040350,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 343529,
@@ -315,6 +339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 300444,
+      "num": 234371,
+      "word": "陈建斌搂蒋勤勤与路人合照",
+      "onboard_time": 1710041008,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 298285,
       "num": 243588,
       "word": "肖战红色时尚大片",
@@ -329,14 +361,6 @@
       "onboard_time": 1710031767,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 281049,
-      "num": 281049,
-      "word": "吴镇宇否认无限超越班吵架是剧本",
-      "onboard_time": 1710039629,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 265043,
@@ -363,19 +387,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 247992,
+      "num": 247992,
+      "word": "花间令新海报",
+      "onboard_time": 1710040409,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243431,
       "num": 243431,
       "word": "银行个人黄金积存业务火爆",
       "onboard_time": 1710038610,
       "rank": 19,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 243407,
-      "num": 243407,
-      "word": "多家银行存款利率最高达10%",
-      "onboard_time": 1710039629,
-      "rank": 20,
       "category": "财经"
     },
     {
@@ -419,12 +443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208882,
-      "num": 208882,
-      "word": "9块9的咖啡还能喝多久",
-      "onboard_time": 1710040108,
-      "rank": 22,
-      "category": "美食"
+      "raw_hot": 207692,
+      "num": 207692,
+      "word": "妈妈你不是借我的光才出了县城",
+      "onboard_time": 1710039808,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 207293,
@@ -433,6 +457,14 @@
       "onboard_time": 1710032186,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207188,
+      "num": 207188,
+      "word": "教师形式主义负担过重如何解决",
+      "onboard_time": 1710040108,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 199219,
@@ -449,14 +481,6 @@
       "onboard_time": 1710034409,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 196849,
-      "num": 196849,
-      "word": "花间令新海报",
-      "onboard_time": 1710040409,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 188934,
@@ -489,6 +513,14 @@
       "onboard_time": 1710028884,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 181504,
+      "num": 181504,
+      "word": "沙丘2 屏摄",
+      "onboard_time": 1710039929,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 178304,
@@ -555,22 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164603,
-      "num": 164603,
-      "word": "沙丘2 屏摄",
-      "onboard_time": 1710039929,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 162280,
-      "num": 138608,
-      "word": "妈妈你不是借我的光才出了县城",
-      "onboard_time": 1710039808,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 158769,
       "num": 158769,
       "word": "真正护眼的3个小习惯",
@@ -619,20 +635,20 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 140472,
+      "num": 140472,
+      "word": "纪凌尘演戏用力过猛",
+      "onboard_time": 1710039389,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138731,
       "num": 138731,
       "word": "爱在黎明前降落",
       "onboard_time": 1709997994,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 138434,
-      "num": 138434,
-      "word": "教师形式主义负担过重如何解决",
-      "onboard_time": 1710040108,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 137609,
@@ -659,12 +675,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 135291,
-      "num": 135291,
-      "word": "纪凌尘演戏用力过猛",
-      "onboard_time": 1710039389,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 133610,
+      "num": 133610,
+      "word": "萨摩耶主人最高血压的一集",
+      "onboard_time": 1710039269,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 132135,
+      "num": 132135,
+      "word": "金庸笔下最惨的主角",
+      "onboard_time": 1710040948,
+      "rank": 33,
+      "category": "读书作家"
     },
     {
       "raw_hot": 130109,
@@ -721,6 +745,14 @@
       "onboard_time": 1709989892,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116728,
+      "num": 116728,
+      "word": "谷爱凌夺街式技巧金牌",
+      "onboard_time": 1710041190,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 113392,
@@ -787,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104472,
+      "num": 104472,
+      "word": "宋亚东vs彼得严",
+      "onboard_time": 1710035550,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103333,
       "num": 103333,
       "word": "这居然是张栋梁",
@@ -801,14 +841,6 @@
       "onboard_time": 1709990075,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 102710,
-      "num": 102710,
-      "word": "萨摩耶主人最高血压的一集",
-      "onboard_time": 1710039269,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 101846,
@@ -851,8 +883,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 97165,
-      "num": 97165,
+      "raw_hot": 98307,
+      "num": 98307,
       "word": "种地吧",
       "onboard_time": 1710038428,
       "rank": 44,
@@ -891,12 +923,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 89836,
-      "num": 89836,
-      "word": "宋亚东vs彼得严",
-      "onboard_time": 1710035550,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 90547,
+      "num": 90547,
+      "word": "昂贵的新加坡为什么让人着迷",
+      "onboard_time": 1710041488,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 89760,
@@ -931,12 +963,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84827,
+      "num": 84827,
+      "word": "谢谢你温暖我 八倍速恋爱",
+      "onboard_time": 1710041608,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84134,
       "num": 84134,
       "word": "鬼灭之刃 鳄鱼最后的温柔",
       "onboard_time": 1710032607,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 83731,
+      "num": 83731,
+      "word": "李彦宏谈百模大战",
+      "onboard_time": 1710041608,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 81656,
@@ -1155,7 +1203,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3639,
+      "raw_hot": 7015,
       "num": 527749,
       "word": "2024两会好声音",
       "onboard_time": 1709972310,
