@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710084844412,
+  "endTime": 1710087619285,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -3475,6 +3475,14 @@
       "category": "国内时政,健康医疗"
     },
     {
+      "raw_hot": 703605,
+      "num": 363883,
+      "word": "日本女演员撞脸丁禹兮",
+      "onboard_time": 1710086009,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 703508,
       "num": 703508,
       "word": "6科室6天6夜成功救回羊水栓塞产妇",
@@ -4228,7 +4236,7 @@
     },
     {
       "raw_hot": 632292,
-      "num": 410192,
+      "num": 498616,
       "word": "樊振东回应看霉霉演唱会感受",
       "onboard_time": 1710083375,
       "rank": 15,
@@ -5169,6 +5177,14 @@
       "onboard_time": 1709631693,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 549640,
+      "num": 352646,
+      "word": "邱淑贞女儿沈月芭莎大片",
+      "onboard_time": 1710084031,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 549328,
@@ -9059,6 +9075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 336971,
+      "num": 336971,
+      "word": "白桃星座",
+      "onboard_time": 1710086130,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 336950,
       "num": 336950,
       "word": "优酷又来这套",
@@ -9769,14 +9793,6 @@
       "onboard_time": 1709841556,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 312553,
-      "num": 312553,
-      "word": "邱淑贞女儿沈月芭莎大片",
-      "onboard_time": 1710084031,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 312056,
@@ -14979,6 +14995,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 198359,
+      "num": 181872,
+      "word": "林俊杰演唱会保安沉浸式忘情合唱",
+      "onboard_time": 1710085590,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198291,
       "num": 198291,
       "word": "DYG状态",
@@ -19291,6 +19315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 158433,
+      "num": 181456,
+      "word": "利物浦vs曼城",
+      "onboard_time": 1710084274,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158421,
       "num": 158421,
       "word": "绑架落难富家公子银渐层",
@@ -22089,14 +22121,6 @@
       "onboard_time": 1709477433,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136886,
-      "num": 181456,
-      "word": "利物浦vs曼城",
-      "onboard_time": 1710084274,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 136850,
@@ -26819,6 +26843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89095,
+      "num": 89095,
+      "word": "爆款短剧编剧月入超10万",
+      "onboard_time": 1710087208,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89020,
       "num": 89020,
       "word": "茶叶能泡多少泡",
@@ -27041,6 +27073,14 @@
       "onboard_time": 1709647534,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 82311,
+      "num": 112463,
+      "word": "刘东昊",
+      "onboard_time": 1710087268,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82256,
