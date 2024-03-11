@@ -1,0 +1,410 @@
+{
+  "runTime": 1710138217089,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2145775,
+        "num": 2145775,
+        "word": "一对夫妇做短剧每月进账4亿多",
+        "onboard_time": 1710134254,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461002,
+        "num": 461002,
+        "word": "耙耙柑 善良的水果",
+        "onboard_time": 1710117755,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 49195,
+        "num": 415313,
+        "word": "十四届全国人大二次会议今天闭幕",
+        "onboard_time": 1710127771,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 622329,
+        "num": 415032,
+        "word": "淡人 浓人",
+        "onboard_time": 1710134912,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 414672,
+        "num": 414672,
+        "word": "董明珠称一年拿几百万愿意多承担一点税",
+        "onboard_time": 1710125668,
+        "rank": 4,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 398250,
+        "num": 398250,
+        "word": "今年两会第三场代表通道",
+        "onboard_time": 1710136831,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 323542,
+        "num": 323542,
+        "word": "打印准考证",
+        "onboard_time": 1710120510,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 301008,
+        "num": 301008,
+        "word": "酒店钟点房的受众群体",
+        "onboard_time": 1710129213,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 910257,
+        "num": 289000,
+        "word": "凯特王妃最新官方照疑造假",
+        "onboard_time": 1710133593,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 257693,
+        "num": 257693,
+        "word": "宁德时代暴涨超13%",
+        "onboard_time": 1710135331,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 910341,
+        "num": 257132,
+        "word": "高君雨账号已无MCN认证",
+        "onboard_time": 1710137190,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589256,
+        "num": 257036,
+        "word": "新闻女王2官宣原班人马",
+        "onboard_time": 1710135454,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 912157,
+        "num": 256530,
+        "word": "张艺兴起诉芒果扒皮酱",
+        "onboard_time": 1710131915,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 891904,
+        "num": 255796,
+        "word": "Doinb老婆疑似被带走",
+        "onboard_time": 1710131677,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 487201,
+        "num": 255254,
+        "word": "林高远vs李尚洙",
+        "onboard_time": 1710137670,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 451430,
+        "num": 254288,
+        "word": "找到了亲妈却删了她的联系方式",
+        "onboard_time": 1710123451,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341464,
+        "num": 254075,
+        "word": "网红铁头小号开播再被封",
+        "onboard_time": 1710136412,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 312863,
+        "num": 253208,
+        "word": "奥斯卡",
+        "onboard_time": 1710118711,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290288,
+        "num": 252967,
+        "word": "黄铉辰澄清",
+        "onboard_time": 1710127650,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289012,
+        "num": 252480,
+        "word": "赵丽颖林更新与凤行情头",
+        "onboard_time": 1710135934,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353781,
+        "num": 251738,
+        "word": "终于弄清楚七分饱是多饱了",
+        "onboard_time": 1710132936,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321294,
+        "num": 251346,
+        "word": "一年点外卖近300次29岁小伙查出胃癌",
+        "onboard_time": 1710135093,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250833,
+        "num": 250833,
+        "word": "轻舟已过万重山 乌蒙山连着祁连山",
+        "onboard_time": 1710133115,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234499,
+        "num": 234499,
+        "word": "癌症来临时身体会喊痛",
+        "onboard_time": 1710121468,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256382,
+        "num": 234230,
+        "word": "徐海乔赵丽颖二搭",
+        "onboard_time": 1710132696,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233163,
+        "num": 233163,
+        "word": "孟子义陈都灵自拍",
+        "onboard_time": 1710135992,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219483,
+        "num": 219483,
+        "word": "男子因社恐40岁才找到合适的工作",
+        "onboard_time": 1710120752,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215502,
+        "num": 215502,
+        "word": "WE战胜WBG",
+        "onboard_time": 1710137431,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199638,
+        "num": 199638,
+        "word": "石头姐 全球最强85花",
+        "onboard_time": 1710127951,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171589,
+        "num": 171589,
+        "word": "檀健次16岁演小川 32岁演白晓宇",
+        "onboard_time": 1710137791,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153481,
+        "num": 153481,
+        "word": "为何连卫龙也没那么好卖了",
+        "onboard_time": 1710132936,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152103,
+        "num": 152103,
+        "word": "为什么蒋胜男的建议如此受欢迎",
+        "onboard_time": 1710136831,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144936,
+        "num": 144936,
+        "word": "TXT世巡预告海报",
+        "onboard_time": 1710136949,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143005,
+        "num": 143005,
+        "word": "李想朋友圈长文回应Mega被黑",
+        "onboard_time": 1710128070,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 141577,
+        "num": 141577,
+        "word": "长安的荔枝今日官宣",
+        "onboard_time": 1710126151,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136189,
+        "num": 136189,
+        "word": "石头姐听到获奖的反应",
+        "onboard_time": 1710136050,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133265,
+        "num": 133265,
+        "word": "宁德时代",
+        "onboard_time": 1710129512,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121900,
+        "num": 121900,
+        "word": "西安WE小新回归",
+        "onboard_time": 1710137012,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119316,
+        "num": 119316,
+        "word": "美宝莲为什么被嫌弃了",
+        "onboard_time": 1710122969,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 117483,
+        "num": 117483,
+        "word": "2024奥斯卡颁奖典礼",
+        "onboard_time": 1710112825,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115817,
+        "num": 115817,
+        "word": "为何大家恋爱欲普遍降低了",
+        "onboard_time": 1710122011,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114140,
+        "num": 114140,
+        "word": "周处除三害 贪嗔痴",
+        "onboard_time": 1710133954,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111892,
+        "num": 111892,
+        "word": "余承东何小鹏留言支持李想",
+        "onboard_time": 1710134852,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 107577,
+        "num": 107577,
+        "word": "这才是龙年龙抬头的正确打开方式",
+        "onboard_time": 1710138027,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88224,
+        "num": 106623,
+        "word": "村支书上两会见缝插针给村里揽活儿",
+        "onboard_time": 1710137431,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106427,
+        "num": 106427,
+        "word": "石头姐二封奥斯卡影后",
+        "onboard_time": 1710123749,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103816,
+        "num": 103816,
+        "word": "跳舞是缓解抑郁的最佳运动",
+        "onboard_time": 1710130233,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 103796,
+        "num": 103796,
+        "word": "轰20快将公布",
+        "onboard_time": 1710129993,
+        "rank": 47,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 99292,
+        "num": 99292,
+        "word": "奥斯卡悼念李善均",
+        "onboard_time": 1710129753,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93077,
+        "num": 93077,
+        "word": "向佐喜剧",
+        "onboard_time": 1710135573,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记两会金句中的重要指引#"
+    }
+  }
+}
