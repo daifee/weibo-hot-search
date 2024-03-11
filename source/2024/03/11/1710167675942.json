@@ -1,0 +1,410 @@
+{
+  "runTime": 1710167675942,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1393109,
+        "num": 1393109,
+        "word": "凯特王妃就P图道歉",
+        "onboard_time": 1710155671,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1049455,
+        "num": 1049455,
+        "word": "成都警方通报天府二街伤害案",
+        "onboard_time": 1710158970,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 19215,
+        "num": 913463,
+        "word": "两会中国经济问答",
+        "onboard_time": 1710167312,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 817452,
+        "num": 817452,
+        "word": "假性亲密关系",
+        "onboard_time": 1710164793,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 684317,
+        "num": 684317,
+        "word": "高君雨妈妈发声",
+        "onboard_time": 1710152010,
+        "rank": 4,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 589527,
+        "num": 589527,
+        "word": "娃哈哈纯净水线上卖断货",
+        "onboard_time": 1710164974,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 540969,
+        "num": 540969,
+        "word": "周翊然田曦薇热舞",
+        "onboard_time": 1710164914,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 490742,
+        "num": 490742,
+        "word": "凯特王妃",
+        "onboard_time": 1710161252,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469121,
+        "num": 469121,
+        "word": "教资考试知道成绩第一人",
+        "onboard_time": 1710162091,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 372162,
+        "num": 372162,
+        "word": "许嵩演唱会抢票",
+        "onboard_time": 1710160113,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 951394,
+        "num": 371768,
+        "word": "待在小县城为什么会有窒息感",
+        "onboard_time": 1710156270,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 662550,
+        "num": 369725,
+        "word": "丈夫看店铺监控发现妻子出轨",
+        "onboard_time": 1710163892,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581883,
+        "num": 366198,
+        "word": "倪妮的腿低调不了一点",
+        "onboard_time": 1710151232,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 474731,
+        "num": 363972,
+        "word": "孟佳筷子腿",
+        "onboard_time": 1710163172,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362994,
+        "num": 362994,
+        "word": "倪妮张震挽手同框",
+        "onboard_time": 1710165573,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 358771,
+        "num": 358771,
+        "word": "与凤行变更为39集",
+        "onboard_time": 1710159210,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347520,
+        "num": 347520,
+        "word": "高君雨手术是毕业后做的",
+        "onboard_time": 1710152313,
+        "rank": 16,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 343637,
+        "num": 343637,
+        "word": "孙颖莎3比0战胜袁嘉楠",
+        "onboard_time": 1710164793,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306499,
+        "num": 306499,
+        "word": "多方回应网友质疑高君雨脑瘤手术视频",
+        "onboard_time": 1710150931,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289043,
+        "num": 289043,
+        "word": "耙耙柑不是粑粑柑",
+        "onboard_time": 1710158011,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 730216,
+        "num": 287863,
+        "word": "香港出租屋惊现两具男婴尸体浸泡玻璃罐",
+        "onboard_time": 1710148530,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 285628,
+        "num": 285628,
+        "word": "安徽谢桥煤矿发生瓦斯事故",
+        "onboard_time": 1710166715,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269107,
+        "num": 269107,
+        "word": "李宝英李钟硕重聚合照",
+        "onboard_time": 1710166652,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267162,
+        "num": 267162,
+        "word": "小罗伯特唐尼被批无视关继威",
+        "onboard_time": 1710154830,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264882,
+        "num": 264882,
+        "word": "成都天府二街伤害案系网络交友纠纷",
+        "onboard_time": 1710165332,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 244856,
+        "num": 244856,
+        "word": "女孩第一次买刮刮乐就中了100万",
+        "onboard_time": 1710156749,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240467,
+        "num": 240467,
+        "word": "对洗衣液用量毫无概念的大学生",
+        "onboard_time": 1710158850,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206700,
+        "num": 206700,
+        "word": "金泰亨预告",
+        "onboard_time": 1710166292,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202104,
+        "num": 202104,
+        "word": "辞职考研的人越来越多了",
+        "onboard_time": 1710161131,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 193110,
+        "num": 201665,
+        "word": "哪些食物不能放进空气炸锅",
+        "onboard_time": 1710152730,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 232615,
+        "num": 201661,
+        "word": "一对夫妇做短剧每月进账4亿多",
+        "onboard_time": 1710134254,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201642,
+        "num": 201642,
+        "word": "白鹿公主切",
+        "onboard_time": 1710159150,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201590,
+        "num": 201590,
+        "word": "一诺坐上了Cat的副驾",
+        "onboard_time": 1710167312,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198311,
+        "num": 198311,
+        "word": "田曦薇挑染",
+        "onboard_time": 1710160232,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17261,
+        "num": 198279,
+        "word": "共话新质生产力",
+        "onboard_time": 1710146311,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198269,
+        "num": 198269,
+        "word": "Gucci晚宴出图",
+        "onboard_time": 1710144148,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 184163,
+        "num": 184163,
+        "word": "Uzi韩服账号改名JackeyLove",
+        "onboard_time": 1710161131,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174641,
+        "num": 174641,
+        "word": "常喝咖啡或可降低结直肠癌复发风险",
+        "onboard_time": 1710159512,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169753,
+        "num": 169753,
+        "word": "娃哈哈在广西的销量占全国70%",
+        "onboard_time": 1710167252,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166154,
+        "num": 166154,
+        "word": "点读机女孩 短袖",
+        "onboard_time": 1710138332,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47400,
+        "num": 157417,
+        "word": "GUCCI派对音乐绝了",
+        "onboard_time": 1710164011,
+        "rank": 40,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 153686,
+        "num": 153686,
+        "word": "RNG我哭死",
+        "onboard_time": 1710162631,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146590,
+        "num": 146590,
+        "word": "哪些小说很好看名字却难以启齿",
+        "onboard_time": 1710161131,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 145375,
+        "num": 145375,
+        "word": "别对我动心 明天陷入热恋",
+        "onboard_time": 1710165753,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142416,
+        "num": 142416,
+        "word": "王楚然Gucci出图",
+        "onboard_time": 1710146851,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139047,
+        "num": 139047,
+        "word": "高君雨账号已无MCN认证",
+        "onboard_time": 1710137190,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137811,
+        "num": 137811,
+        "word": "点读机女孩手术视频被质疑是库存",
+        "onboard_time": 1710139588,
+        "rank": 46,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 109891,
+        "num": 136145,
+        "word": "近10年考研国家线多在3月中旬公布",
+        "onboard_time": 1710167433,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107119,
+        "num": 135715,
+        "word": "孙颖莎女单",
+        "onboard_time": 1710160113,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135472,
+        "num": 135472,
+        "word": "高君雨妈妈称MCN运营出现严重问题",
+        "onboard_time": 1710153093,
+        "rank": 49,
+        "category": "网红,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署第二十一号主席令#"
+    }
+  }
+}
