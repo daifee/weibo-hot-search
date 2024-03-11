@@ -1,6 +1,6 @@
 {
   "startTime": 1710087619285,
-  "endTime": 1710146039483,
+  "endTime": 1710148718393,
   "band_list": [
     {
       "raw_hot": 2928217,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1755823,
-      "num": 304778,
+      "num": 314012,
       "word": "高君雨账号已无MCN认证",
       "onboard_time": 1710137190,
       "rank": 10,
@@ -36,15 +36,23 @@
     },
     {
       "raw_hot": 1611378,
-      "num": 249637,
+      "num": 317408,
       "word": "Gucci晚宴出图",
       "onboard_time": 1710144148,
       "rank": 12,
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 1523737,
+      "num": 320145,
+      "word": "体制内的工作餐",
+      "onboard_time": 1710146070,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1513203,
-      "num": 298216,
+      "num": 319300,
       "word": "点读机女孩手术视频被质疑是库存",
       "onboard_time": 1710139588,
       "rank": 13,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1440735,
-      "num": 300724,
+      "num": 306545,
       "word": "点读机女孩 短袖",
       "onboard_time": 1710138332,
       "rank": 13,
@@ -123,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1131901,
+      "num": 1131901,
+      "word": "仍有5亿人坚持用QQ",
+      "onboard_time": 1710144211,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1102782,
       "num": 1102782,
       "word": "董明珠称一年拿几百万愿意多承担一点税",
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 976801,
-      "num": 290243,
+      "num": 305120,
       "word": "烦死你们有钱人了",
       "onboard_time": 1710140550,
       "rank": 31,
@@ -283,12 +299,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 662155,
+      "num": 310325,
+      "word": "宣璐演赵丽颖母亲",
+      "onboard_time": 1710146011,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 651227,
       "num": 651227,
       "word": "石头姐 全球最强85花",
       "onboard_time": 1710127951,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 643202,
+      "num": 308518,
+      "word": "王楚然Gucci出图",
+      "onboard_time": 1710146851,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 642751,
@@ -313,6 +345,14 @@
       "onboard_time": 1710118653,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 623026,
+      "num": 470827,
+      "word": "计划三天的全家游只玩了三小时",
+      "onboard_time": 1710143671,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 613868,
@@ -348,7 +388,7 @@
     },
     {
       "raw_hot": 596861,
-      "num": 249165,
+      "num": 303400,
       "word": "肖战射雕英雄传线下展台海报",
       "onboard_time": 1710144450,
       "rank": 17,
@@ -427,6 +467,14 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 497985,
+      "num": 497985,
+      "word": "国家线还不出",
+      "onboard_time": 1710145712,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 494674,
       "num": 338132,
       "word": "苹果的C口和安卓机的C口",
@@ -499,6 +547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 466306,
+      "num": 466306,
+      "word": "剑网3永久取消装备修理费",
+      "onboard_time": 1710143790,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 453643,
       "num": 453643,
       "word": "孩子幼儿园就在单位楼下是什么体验",
@@ -521,14 +577,6 @@
       "onboard_time": 1710116850,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 433493,
-      "num": 249128,
-      "word": "计划三天的全家游只玩了三小时",
-      "onboard_time": 1710143671,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 424395,
@@ -611,12 +659,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 358480,
-      "num": 358480,
-      "word": "仍有5亿人坚持用QQ",
-      "onboard_time": 1710144211,
-      "rank": 27,
-      "category": "互联网"
+      "raw_hot": 366373,
+      "num": 366373,
+      "word": "文旅部长回应黄牛抢票现象",
+      "onboard_time": 1710147512,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 366151,
+      "num": 303165,
+      "word": "白鹿红色深V连体裤",
+      "onboard_time": 1710147632,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 353781,
@@ -699,6 +755,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 321255,
+      "num": 321255,
+      "word": "苏翊鸣手把手教学朱易换刃",
+      "onboard_time": 1710146612,
+      "rank": 9,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 319247,
       "num": 319247,
       "word": "美宝莲为什么被嫌弃了",
@@ -715,18 +779,18 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 309163,
-      "num": 309163,
-      "word": "剑网3永久取消装备修理费",
-      "onboard_time": 1710143790,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 302267,
       "num": 302267,
       "word": "乱穿衣模式又开启了",
       "onboard_time": 1710117573,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301632,
+      "num": 301632,
+      "word": "男子吞蛇胆喝蛇药15年后发病",
+      "onboard_time": 1710146552,
       "rank": 22,
       "category": "社会新闻"
     },
@@ -819,6 +883,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261334,
+      "num": 261334,
+      "word": "大司马呼吁大家别用脚本",
+      "onboard_time": 1710146612,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 261237,
+      "num": 261237,
+      "word": "男朋友和别的女生续火花",
+      "onboard_time": 1710146733,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257693,
       "num": 257693,
       "word": "宁德时代暴涨超13%",
@@ -883,6 +963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 246522,
+      "num": 194634,
+      "word": "目击过狮子交配的韩国网友",
+      "onboard_time": 1710145590,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 244921,
       "num": 244921,
       "word": "惜花芷预告",
@@ -905,14 +993,6 @@
       "onboard_time": 1710132936,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 241464,
-      "num": 241464,
-      "word": "国家线还不出",
-      "onboard_time": 1710145712,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 241345,
@@ -1003,14 +1083,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 216491,
-      "num": 194634,
-      "word": "目击过狮子交配的韩国网友",
-      "onboard_time": 1710145590,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 216490,
       "num": 216490,
       "word": "黄旭熙将4月1日solo出道",
@@ -1065,6 +1137,14 @@
       "onboard_time": 1710129272,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 208530,
+      "num": 208530,
+      "word": "印度女双掀翻日本组合",
+      "onboard_time": 1710147750,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 208493,
@@ -1275,6 +1355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182309,
+      "num": 182309,
+      "word": "惠英红模仿刘浩存打字",
+      "onboard_time": 1710148290,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181310,
       "num": 181310,
       "word": "孟子义沈月吉娜雪地转圈",
@@ -1339,6 +1427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 167587,
+      "num": 167587,
+      "word": "比特币",
+      "onboard_time": 1710147211,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 166389,
       "num": 150203,
       "word": "赵丽颖陈建斌坐一起",
@@ -1379,6 +1475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161650,
+      "num": 161650,
+      "word": "吴镇宇又来整顿内娱",
+      "onboard_time": 1710147869,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161191,
       "num": 161191,
       "word": "字母哥被扣懵了",
@@ -1409,6 +1513,14 @@
       "onboard_time": 1710087987,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157498,
+      "num": 157498,
+      "word": "i人一旦决定离开你",
+      "onboard_time": 1710147030,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 157462,
@@ -1555,6 +1667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141302,
+      "num": 141302,
+      "word": "惠英红刘浩存新浪扫楼",
+      "onboard_time": 1710147332,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140668,
       "num": 140668,
       "word": "建议大家雨天还是打伞吧",
@@ -1699,6 +1819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130353,
+      "num": 130353,
+      "word": "香港出租屋惊现两具男婴尸体浸泡玻璃罐",
+      "onboard_time": 1710148530,
+      "rank": 43,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 129255,
       "num": 129255,
       "word": "印度首位AI教师上岗",
@@ -1723,20 +1851,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126640,
+      "num": 126640,
+      "word": "江河之上今日开播",
+      "onboard_time": 1710146733,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125894,
       "num": 125894,
       "word": "耙耙柑的大名叫春见",
       "onboard_time": 1710141627,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 125192,
-      "num": 125192,
-      "word": "宣璐演赵丽颖母亲",
-      "onboard_time": 1710146011,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 123679,
@@ -1913,6 +2041,14 @@
       "onboard_time": 1710080794,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107286,
+      "num": 107286,
+      "word": "王艺迪3比0巴特拉",
+      "onboard_time": 1710147152,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 107130,
@@ -2172,7 +2308,7 @@
     },
     {
       "raw_hot": 37063,
-      "num": 421400,
+      "num": 473740,
       "word": "两会代表委员热议重温经典频道",
       "onboard_time": 1710145168,
       "rank": 2,
