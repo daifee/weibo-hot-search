@@ -1,0 +1,410 @@
+{
+  "runTime": 1710149682036,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1120060,
+        "num": 1120060,
+        "word": "仍有5亿人坚持用QQ",
+        "onboard_time": 1710144211,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 530225,
+        "num": 530225,
+        "word": "国家线还不出",
+        "onboard_time": 1710145712,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 33149,
+        "num": 523813,
+        "word": "两会代表委员热议重温经典频道",
+        "onboard_time": 1710145168,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 583624,
+        "num": 523370,
+        "word": "计划三天的全家游只玩了三小时",
+        "onboard_time": 1710143671,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 522122,
+        "num": 522122,
+        "word": "文旅部长回应黄牛抢票现象",
+        "onboard_time": 1710147512,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 395213,
+        "num": 395213,
+        "word": "耙耙柑 善良的水果",
+        "onboard_time": 1710117755,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 365624,
+        "num": 365624,
+        "word": "苏翊鸣手把手教学朱易换刃",
+        "onboard_time": 1710146612,
+        "rank": 6,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 355887,
+        "num": 355887,
+        "word": "剑网3永久取消装备修理费",
+        "onboard_time": 1710143790,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293746,
+        "num": 293746,
+        "word": "凯特王妃最新官方照疑造假",
+        "onboard_time": 1710133593,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 279655,
+        "num": 279655,
+        "word": "今年两会第三场部长通道",
+        "onboard_time": 1710145168,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1837535,
+        "num": 279526,
+        "word": "体制内的工作餐",
+        "onboard_time": 1710146070,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 937545,
+        "num": 279492,
+        "word": "点读机女孩手术视频被质疑是库存",
+        "onboard_time": 1710139588,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 821874,
+        "num": 279338,
+        "word": "Gucci晚宴出图",
+        "onboard_time": 1710144148,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 813954,
+        "num": 279222,
+        "word": "王楚然Gucci出图",
+        "onboard_time": 1710146851,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 740877,
+        "num": 279031,
+        "word": "大司马承认开脚本",
+        "onboard_time": 1710143790,
+        "rank": 14,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 732398,
+        "num": 278910,
+        "word": "高君雨账号已无MCN认证",
+        "onboard_time": 1710137190,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 659367,
+        "num": 278742,
+        "word": "宣璐演赵丽颖母亲",
+        "onboard_time": 1710146011,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 584511,
+        "num": 278697,
+        "word": "沈眉庄侍寝多次为何没怀孕",
+        "onboard_time": 1710149072,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 569908,
+        "num": 278491,
+        "word": "点读机女孩 短袖",
+        "onboard_time": 1710138332,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555504,
+        "num": 278418,
+        "word": "一对夫妇做短剧每月进账4亿多",
+        "onboard_time": 1710134254,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765571,
+        "num": 278201,
+        "word": "香港出租屋惊现两具男婴尸体浸泡玻璃罐",
+        "onboard_time": 1710148530,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 425520,
+        "num": 278061,
+        "word": "烦死你们有钱人了",
+        "onboard_time": 1710140550,
+        "rank": 21,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 348512,
+        "num": 277956,
+        "word": "肖战射雕英雄传线下展台海报",
+        "onboard_time": 1710144450,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 338865,
+        "num": 277825,
+        "word": "男子吞蛇胆喝蛇药15年后发病",
+        "onboard_time": 1710146552,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287530,
+        "num": 277701,
+        "word": "白鹿红色深V连体裤",
+        "onboard_time": 1710147632,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277658,
+        "num": 277658,
+        "word": "男朋友和别的女生续火花",
+        "onboard_time": 1710146733,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219562,
+        "num": 219562,
+        "word": "惠英红模仿刘浩存打字",
+        "onboard_time": 1710148290,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208174,
+        "num": 208174,
+        "word": "印度女双掀翻日本组合",
+        "onboard_time": 1710147750,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195850,
+        "num": 195850,
+        "word": "大司马呼吁大家别用脚本",
+        "onboard_time": 1710146612,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192454,
+        "num": 192454,
+        "word": "比特币突破71000美元",
+        "onboard_time": 1710144691,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 227647,
+        "num": 190339,
+        "word": "目击过狮子交配的韩国网友",
+        "onboard_time": 1710145590,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172836,
+        "num": 172836,
+        "word": "彩礼真的是男方的家庭态度吗",
+        "onboard_time": 1710140908,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166350,
+        "num": 166350,
+        "word": "陈都灵羽毛粉裙",
+        "onboard_time": 1710149251,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165091,
+        "num": 165091,
+        "word": "揭秘高君雨曾关联MCN公司",
+        "onboard_time": 1710148831,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 164454,
+        "num": 164454,
+        "word": "i人一旦决定离开你",
+        "onboard_time": 1710147030,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156690,
+        "num": 156690,
+        "word": "考公最累的不是学习",
+        "onboard_time": 1710141807,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154203,
+        "num": 154203,
+        "word": "点读机女孩暂未回应质疑",
+        "onboard_time": 1710138932,
+        "rank": 36,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 153648,
+        "num": 153648,
+        "word": "Doinb老婆疑似被带走",
+        "onboard_time": 1710131677,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151795,
+        "num": 151795,
+        "word": "免费洗了八遍澡的流浪皮皮",
+        "onboard_time": 1710129993,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 146178,
+        "num": 146178,
+        "word": "比特币",
+        "onboard_time": 1710147211,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144855,
+        "num": 144855,
+        "word": "溶洞下面有个大佛",
+        "onboard_time": 1710148888,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 144730,
+        "num": 144730,
+        "word": "Secret宋枝恩结婚",
+        "onboard_time": 1710149313,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144141,
+        "num": 144141,
+        "word": "辛芷蕾撑住了贴头皮造型",
+        "onboard_time": 1710141448,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142591,
+        "num": 142591,
+        "word": "朴振英把中国练习生带走了",
+        "onboard_time": 1710138870,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135682,
+        "num": 135682,
+        "word": "奥斯卡派对",
+        "onboard_time": 1710142890,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119018,
+        "num": 119018,
+        "word": "惠英红 男生也会老",
+        "onboard_time": 1710149549,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116485,
+        "num": 116485,
+        "word": "吴镇宇又来整顿内娱",
+        "onboard_time": 1710147869,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116364,
+        "num": 116364,
+        "word": "黄铉辰澄清",
+        "onboard_time": 1710127650,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111376,
+        "num": 111376,
+        "word": "双鱼座的爱是极致的破碎",
+        "onboard_time": 1710138932,
+        "rank": 48,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 108721,
+        "num": 111315,
+        "word": "江河之上今日开播",
+        "onboard_time": 1710146733,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#为高质量发展注入新动能塑造新优势#"
+    }
+  }
+}
