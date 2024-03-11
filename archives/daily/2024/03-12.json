@@ -1,6 +1,6 @@
 {
   "startTime": 1710174076566,
-  "endTime": 1710174076566,
+  "endTime": 1710174954078,
   "band_list": [
     {
       "raw_hot": 855766,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557739,
+      "num": 557739,
+      "word": "林一 男友101",
+      "onboard_time": 1710171690,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 526477,
       "num": 377075,
       "word": "白鹿好性感",
@@ -41,14 +49,6 @@
       "onboard_time": 1710170551,
       "rank": 11,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 504108,
-      "num": 504108,
-      "word": "林一 男友101",
-      "onboard_time": 1710171690,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 495997,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468850,
+      "num": 468850,
+      "word": "曾98万拍下摊位的大叔卖馍半月回本",
+      "onboard_time": 1710172232,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408535,
       "num": 408535,
       "word": "白敬亭章若楠难哄最新路透",
@@ -105,14 +113,6 @@
       "onboard_time": 1710158970,
       "rank": 12,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 309396,
-      "num": 309396,
-      "word": "曾98万拍下摊位的大叔卖馍半月回本",
-      "onboard_time": 1710172232,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 309253,
@@ -204,15 +204,15 @@
     },
     {
       "raw_hot": 165305,
-      "num": 136256,
+      "num": 146663,
       "word": "许嵩演唱会抢票",
       "onboard_time": 1710160113,
       "rank": 30,
       "category": "演出"
     },
     {
-      "raw_hot": 143527,
-      "num": 143527,
+      "raw_hot": 144979,
+      "num": 144979,
       "word": "8个习惯正在毁掉你的胃",
       "onboard_time": 1710171390,
       "rank": 26,
@@ -257,6 +257,14 @@
       "onboard_time": 1710169414,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 123353,
+      "num": 123353,
+      "word": "发现农村盖房子会给猫留门",
+      "onboard_time": 1710169414,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 123074,
@@ -332,19 +340,11 @@
     },
     {
       "raw_hot": 87112,
-      "num": 87112,
+      "num": 123439,
       "word": "近10年考研国家线多在3月中旬公布",
       "onboard_time": 1710167433,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 86374,
-      "num": 86374,
-      "word": "发现农村盖房子会给猫留门",
-      "onboard_time": 1710169414,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 86358,
@@ -361,6 +361,14 @@
       "onboard_time": 1710170011,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80645,
+      "num": 80645,
+      "word": "女教师哺乳期被学校调岗为保洁",
+      "onboard_time": 1710174506,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80242,
@@ -395,6 +403,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67741,
+      "num": 67741,
+      "word": "Uzi韩服账号改名JackeyLove",
+      "onboard_time": 1710161131,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 66564,
+      "num": 66564,
+      "word": "RNG我哭死",
+      "onboard_time": 1710162631,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 28089,
       "num": 515036,
       "word": "两会中国经济问答",
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#有选择地推动新产业新模式新动能发展#"
+    },
+    {
+      "word": "#习近平签署第二十一号主席令#"
     }
   ]
 }

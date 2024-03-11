@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710174076566,
+  "endTime": 1710174954078,
   "band_list": [
     {
       "raw_hot": 2999065,
@@ -1075,6 +1075,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 557739,
+      "num": 557739,
+      "word": "林一 男友101",
+      "onboard_time": 1710171690,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 553654,
       "num": 553654,
       "word": "网友路过拍下华为员工开会视频",
@@ -1251,14 +1259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 504108,
-      "num": 504108,
-      "word": "林一 男友101",
-      "onboard_time": 1710171690,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 492466,
       "num": 492466,
       "word": "董宇辉带货华为",
@@ -1368,6 +1368,14 @@
       "word": "爸妈让6岁儿子晚上学一年到处旅游",
       "onboard_time": 1710169772,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468850,
+      "num": 468850,
+      "word": "曾98万拍下摊位的大叔卖馍半月回本",
+      "onboard_time": 1710172232,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2073,14 +2081,6 @@
       "onboard_time": 1710036149,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 309396,
-      "num": 309396,
-      "word": "曾98万拍下摊位的大叔卖馍半月回本",
-      "onboard_time": 1710172232,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305978,
@@ -4291,6 +4291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144979,
+      "num": 144979,
+      "word": "8个习惯正在毁掉你的胃",
+      "onboard_time": 1710171390,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 144936,
       "num": 144936,
       "word": "TXT世巡预告海报",
@@ -4345,14 +4353,6 @@
       "onboard_time": 1710138449,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 143527,
-      "num": 143527,
-      "word": "8个习惯正在毁掉你的胃",
-      "onboard_time": 1710171390,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 143362,
@@ -5785,6 +5785,14 @@
       "onboard_time": 1709989532,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80645,
+      "num": 80645,
+      "word": "女教师哺乳期被学校调岗为保洁",
+      "onboard_time": 1710174506,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78525,
