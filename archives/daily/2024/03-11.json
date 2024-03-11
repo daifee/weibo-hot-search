@@ -1,10 +1,10 @@
 {
   "startTime": 1710087619285,
-  "endTime": 1710127218785,
+  "endTime": 1710128056903,
   "band_list": [
     {
-      "raw_hot": 2885804,
-      "num": 2885804,
+      "raw_hot": 2928217,
+      "num": 2928217,
       "word": "奥斯卡",
       "onboard_time": 1710118711,
       "rank": 1,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1304908,
-      "num": 911153,
+      "num": 949836,
       "word": "石头姐二封奥斯卡影后",
       "onboard_time": 1710123749,
       "rank": 44,
@@ -171,6 +171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 600588,
+      "num": 298306,
+      "word": "找到了亲妈却删了她的联系方式",
+      "onboard_time": 1710123451,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 598912,
       "num": 598912,
       "word": "赵丽颖看着奖杯笑了",
@@ -179,12 +187,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 574201,
-      "num": 271959,
-      "word": "找到了亲妈却删了她的联系方式",
-      "onboard_time": 1710123451,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 583482,
+      "num": 369040,
+      "word": "黄铉辰澄清",
+      "onboard_time": 1710127650,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 579104,
+      "num": 396943,
+      "word": "霍启刚称年轻人应有更多时间去扩大眼界",
+      "onboard_time": 1710125733,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 562843,
@@ -243,12 +259,28 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 489609,
+      "num": 489609,
+      "word": "林孝埈更换微博置顶",
+      "onboard_time": 1710126090,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 485820,
       "num": 446887,
       "word": "宁波女子洗车竟被店员洗公仔擦鞋",
       "onboard_time": 1710122191,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478964,
+      "num": 478964,
+      "word": "长安的荔枝今日官宣",
+      "onboard_time": 1710126151,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 477383,
@@ -283,28 +315,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 436488,
-      "num": 436488,
-      "word": "长安的荔枝今日官宣",
-      "onboard_time": 1710126151,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 434019,
       "num": 434019,
       "word": "上海地铁11号线",
       "onboard_time": 1710116850,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 429305,
-      "num": 396943,
-      "word": "霍启刚称年轻人应有更多时间去扩大眼界",
-      "onboard_time": 1710125733,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 424395,
@@ -331,12 +347,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 390654,
-      "num": 390654,
-      "word": "林孝埈更换微博置顶",
-      "onboard_time": 1710126090,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 391393,
+      "num": 363402,
+      "word": "芭比陪跑",
+      "onboard_time": 1710126569,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 382428,
@@ -361,6 +377,14 @@
       "onboard_time": 1710086130,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 329339,
+      "num": 329339,
+      "word": "大侦探",
+      "onboard_time": 1710127053,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 319247,
@@ -393,6 +417,14 @@
       "onboard_time": 1710057870,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 283047,
+      "num": 283047,
+      "word": "与凤行凤凤火火角色海报",
+      "onboard_time": 1710127771,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 279174,
@@ -499,6 +531,14 @@
       "category": "国外时政,军事"
     },
     {
+      "raw_hot": 224483,
+      "num": 224483,
+      "word": "蒲熠星生日音乐会海报",
+      "onboard_time": 1710126631,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 223867,
       "num": 223867,
       "word": "猫 领养之前也没说要这样啊",
@@ -531,28 +571,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207556,
-      "num": 207556,
-      "word": "芭比陪跑",
-      "onboard_time": 1710126569,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 207269,
-      "num": 207269,
-      "word": "蒲熠星生日音乐会海报",
-      "onboard_time": 1710126631,
-      "rank": 31,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 204047,
       "num": 204047,
       "word": "二月二",
       "onboard_time": 1710112223,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202360,
+      "num": 202360,
+      "word": "每克近千元的一口价黄金被全额退款",
+      "onboard_time": 1710127533,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 200716,
@@ -611,6 +643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193141,
+      "num": 193141,
+      "word": "差点就断崖式暧昧了",
+      "onboard_time": 1710126151,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189944,
       "num": 189944,
       "word": "眼泪女王第二集",
@@ -633,14 +673,6 @@
       "onboard_time": 1710089963,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 187133,
-      "num": 187133,
-      "word": "差点就断崖式暧昧了",
-      "onboard_time": 1710126151,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 185800,
@@ -673,6 +705,14 @@
       "onboard_time": 1710115106,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181310,
+      "num": 181310,
+      "word": "孟子义沈月吉娜雪地转圈",
+      "onboard_time": 1710126390,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 176955,
@@ -723,20 +763,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161191,
+      "num": 161191,
+      "word": "字母哥被扣懵了",
+      "onboard_time": 1710127533,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158433,
       "num": 158433,
       "word": "利物浦vs曼城",
       "onboard_time": 1710084274,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158386,
-      "num": 158386,
-      "word": "孟子义沈月吉娜雪地转圈",
-      "onboard_time": 1710126390,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 158344,
@@ -793,14 +833,6 @@
       "onboard_time": 1710120634,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144918,
-      "num": 144918,
-      "word": "大侦探",
-      "onboard_time": 1710127053,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 143362,
@@ -947,6 +979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122859,
+      "num": 122859,
+      "word": "石头姐 全球最强85花",
+      "onboard_time": 1710127951,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119310,
       "num": 119310,
       "word": "张文宏谈青少年厕所文化",
@@ -961,6 +1001,14 @@
       "onboard_time": 1710121290,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117507,
+      "num": 117507,
+      "word": "90后藏族女狙击手当排长啦",
+      "onboard_time": 1710127350,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 117023,
@@ -1219,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53408,
+      "num": 922248,
+      "word": "AI视角看两会民生热词",
+      "onboard_time": 1710126989,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50451,
       "num": 87230,
       "word": "法国赛凡晨组合女双夺冠",
@@ -1259,10 +1315,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 30629,
-      "num": 922248,
-      "word": "AI视角看两会民生热词",
-      "onboard_time": 1710126989,
+      "raw_hot": 37689,
+      "num": 999611,
+      "word": "十四届全国人大二次会议今天闭幕",
+      "onboard_time": 1710127771,
       "rank": 2,
       "category": "国内时政"
     },

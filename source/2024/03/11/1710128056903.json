@@ -1,0 +1,410 @@
+{
+  "runTime": 1710128056903,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2928217,
+        "num": 2928217,
+        "word": "奥斯卡",
+        "onboard_time": 1710118711,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1086536,
+        "num": 1086536,
+        "word": "男子因社恐40岁才找到合适的工作",
+        "onboard_time": 1710120752,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37689,
+        "num": 999611,
+        "word": "十四届全国人大二次会议今天闭幕",
+        "onboard_time": 1710127771,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 949836,
+        "num": 949836,
+        "word": "石头姐二封奥斯卡影后",
+        "onboard_time": 1710123749,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 832566,
+        "num": 832566,
+        "word": "耙耙柑 善良的水果",
+        "onboard_time": 1710117755,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 604564,
+        "num": 604564,
+        "word": "打印准考证",
+        "onboard_time": 1710120510,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 489609,
+        "num": 489609,
+        "word": "林孝埈更换微博置顶",
+        "onboard_time": 1710126090,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478964,
+        "num": 478964,
+        "word": "长安的荔枝今日官宣",
+        "onboard_time": 1710126151,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377270,
+        "num": 377270,
+        "word": "今年二月二真有龙抬头",
+        "onboard_time": 1710076769,
+        "rank": 8,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 197742,
+        "num": 375626,
+        "word": "建议对65岁无养老金人群发基础养老金",
+        "onboard_time": 1710118653,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 637803,
+        "num": 373205,
+        "word": "董明珠称一年拿几百万愿意多承担一点税",
+        "onboard_time": 1710125668,
+        "rank": 10,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 583482,
+        "num": 369040,
+        "word": "黄铉辰澄清",
+        "onboard_time": 1710127650,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579104,
+        "num": 368340,
+        "word": "霍启刚称年轻人应有更多时间去扩大眼界",
+        "onboard_time": 1710125733,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 570751,
+        "num": 364174,
+        "word": "癌症来临时身体会喊痛",
+        "onboard_time": 1710121468,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 391393,
+        "num": 363402,
+        "word": "芭比陪跑",
+        "onboard_time": 1710126569,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 360793,
+        "num": 360793,
+        "word": "奥本海默横扫",
+        "onboard_time": 1710123271,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 360737,
+        "num": 360737,
+        "word": "宁波女子洗车竟被店员洗公仔擦鞋",
+        "onboard_time": 1710122191,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329339,
+        "num": 329339,
+        "word": "大侦探",
+        "onboard_time": 1710127053,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309405,
+        "num": 309405,
+        "word": "租房把房东家给改造了",
+        "onboard_time": 1710116553,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303228,
+        "num": 303228,
+        "word": "赵丽颖看着奖杯笑了",
+        "onboard_time": 1710114931,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 600588,
+        "num": 298306,
+        "word": "找到了亲妈却删了她的联系方式",
+        "onboard_time": 1710123451,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283047,
+        "num": 283047,
+        "word": "与凤行凤凤火火角色海报",
+        "onboard_time": 1710127771,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268609,
+        "num": 268609,
+        "word": "个税起征点提高至1万元谁最受益",
+        "onboard_time": 1710113126,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 254015,
+        "num": 254015,
+        "word": "美宝莲为什么被嫌弃了",
+        "onboard_time": 1710122969,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 240773,
+        "num": 240773,
+        "word": "外媒报道赵丽颖获奖",
+        "onboard_time": 1710124234,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233875,
+        "num": 233875,
+        "word": "为啥什么APP都要相机位置权限",
+        "onboard_time": 1710119850,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 224483,
+        "num": 224483,
+        "word": "蒲熠星生日音乐会海报",
+        "onboard_time": 1710126631,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220619,
+        "num": 220619,
+        "word": "国家线什么时候出",
+        "onboard_time": 1710123451,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 217686,
+        "num": 217686,
+        "word": "iPhone降价已成常规促销手段",
+        "onboard_time": 1710115770,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 53408,
+        "num": 215908,
+        "word": "AI视角看两会民生热词",
+        "onboard_time": 1710126989,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 214132,
+        "num": 214132,
+        "word": "桃花坞",
+        "onboard_time": 1710125849,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207610,
+        "num": 207610,
+        "word": "为何大家恋爱欲普遍降低了",
+        "onboard_time": 1710122011,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202360,
+        "num": 202360,
+        "word": "每克近千元的一口价黄金被全额退款",
+        "onboard_time": 1710127533,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193141,
+        "num": 193141,
+        "word": "差点就断崖式暧昧了",
+        "onboard_time": 1710126151,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181310,
+        "num": 181310,
+        "word": "孟子义沈月吉娜雪地转圈",
+        "onboard_time": 1710126390,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181063,
+        "num": 181063,
+        "word": "河北省考 进不去",
+        "onboard_time": 1710125190,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177501,
+        "num": 177501,
+        "word": "奥本海默奥斯卡最佳影片",
+        "onboard_time": 1710124049,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174428,
+        "num": 174428,
+        "word": "2024奥斯卡颁奖典礼",
+        "onboard_time": 1710112825,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169399,
+        "num": 169399,
+        "word": "30岁了我妈还在我的家长群里",
+        "onboard_time": 1710123813,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161191,
+        "num": 161191,
+        "word": "字母哥被扣懵了",
+        "onboard_time": 1710127533,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150135,
+        "num": 150135,
+        "word": "基里安墨菲奥斯卡影帝",
+        "onboard_time": 1710123213,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145397,
+        "num": 145397,
+        "word": "龙抬头",
+        "onboard_time": 1710112762,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136341,
+        "num": 136341,
+        "word": "李想表态将反击黑暗违法犯罪",
+        "onboard_time": 1710126869,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 126860,
+        "num": 126860,
+        "word": "女生被三花强行选中了",
+        "onboard_time": 1710116133,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123607,
+        "num": 123607,
+        "word": "A股",
+        "onboard_time": 1710123813,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122859,
+        "num": 122859,
+        "word": "石头姐 全球最强85花",
+        "onboard_time": 1710127951,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120922,
+        "num": 120922,
+        "word": "乱穿衣模式又开启了",
+        "onboard_time": 1710117573,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117507,
+        "num": 117507,
+        "word": "90后藏族女狙击手当排长啦",
+        "onboard_time": 1710127350,
+        "rank": 47,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 112922,
+        "num": 112922,
+        "word": "国产战鹰龙抬头壁纸",
+        "onboard_time": 1710125250,
+        "rank": 48,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 112737,
+        "num": 112737,
+        "word": "桃花坞4的雪有多好玩",
+        "onboard_time": 1710124890,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记两会金句中的重要指引#"
+    }
+  }
+}

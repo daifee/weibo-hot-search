@@ -1,10 +1,10 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710127218785,
+  "endTime": 1710128056903,
   "band_list": [
     {
-      "raw_hot": 2885804,
-      "num": 2885804,
+      "raw_hot": 2928217,
+      "num": 2928217,
       "word": "奥斯卡",
       "onboard_time": 1710118711,
       "rank": 1,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1304908,
-      "num": 911153,
+      "num": 949836,
       "word": "石头姐二封奥斯卡影后",
       "onboard_time": 1710123749,
       "rank": 44,
@@ -563,6 +563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 600588,
+      "num": 298306,
+      "word": "找到了亲妈却删了她的联系方式",
+      "onboard_time": 1710123451,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 598912,
       "num": 598912,
       "word": "赵丽颖看着奖杯笑了",
@@ -595,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 583482,
+      "num": 369040,
+      "word": "黄铉辰澄清",
+      "onboard_time": 1710127650,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 579425,
       "num": 294211,
       "word": "董卿带儿子看展",
@@ -603,12 +619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 574201,
-      "num": 271959,
-      "word": "找到了亲妈却删了她的联系方式",
-      "onboard_time": 1710123451,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 579104,
+      "num": 396943,
+      "word": "霍启刚称年轻人应有更多时间去扩大眼界",
+      "onboard_time": 1710125733,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 571659,
@@ -779,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 489609,
+      "num": 489609,
+      "word": "林孝埈更换微博置顶",
+      "onboard_time": 1710126090,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 487243,
       "num": 487243,
       "word": "87%的女性选择搞事业",
@@ -793,6 +817,14 @@
       "onboard_time": 1710122191,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478964,
+      "num": 478964,
+      "word": "长安的荔枝今日官宣",
+      "onboard_time": 1710126151,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 477383,
@@ -867,14 +899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 436488,
-      "num": 436488,
-      "word": "长安的荔枝今日官宣",
-      "onboard_time": 1710126151,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 434144,
       "num": 434144,
       "word": "太湖湾音乐节 十个勤天",
@@ -897,14 +921,6 @@
       "onboard_time": 1710071611,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 429305,
-      "num": 396943,
-      "word": "霍启刚称年轻人应有更多时间去扩大眼界",
-      "onboard_time": 1710125733,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 415545,
@@ -979,20 +995,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 391393,
+      "num": 363402,
+      "word": "芭比陪跑",
+      "onboard_time": 1710126569,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 391275,
       "num": 236250,
       "word": "周翊然杭州",
       "onboard_time": 1710054151,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 390654,
-      "num": 390654,
-      "word": "林孝埈更换微博置顶",
-      "onboard_time": 1710126090,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 388113,
@@ -1161,6 +1177,14 @@
       "onboard_time": 1710043950,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 329339,
+      "num": 329339,
+      "word": "大侦探",
+      "onboard_time": 1710127053,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 325224,
@@ -1368,6 +1392,14 @@
       "word": "别对我动心 竹马被天降秒了",
       "onboard_time": 1710031767,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 283047,
+      "num": 283047,
+      "word": "与凤行凤凤火火角色海报",
+      "onboard_time": 1710127771,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -1643,6 +1675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 224483,
+      "num": 224483,
+      "word": "蒲熠星生日音乐会海报",
+      "onboard_time": 1710126631,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 223867,
       "num": 223867,
       "word": "猫 领养之前也没说要这样啊",
@@ -1779,28 +1819,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 207556,
-      "num": 207556,
-      "word": "芭比陪跑",
-      "onboard_time": 1710126569,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 207293,
       "num": 199369,
       "word": "射手座真的有间歇性厌人症",
       "onboard_time": 1710032186,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 207269,
-      "num": 207269,
-      "word": "蒲熠星生日音乐会海报",
-      "onboard_time": 1710126631,
-      "rank": 31,
-      "category": "音乐"
     },
     {
       "raw_hot": 205727,
@@ -1833,6 +1857,14 @@
       "onboard_time": 1710074130,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202360,
+      "num": 202360,
+      "word": "每克近千元的一口价黄金被全额退款",
+      "onboard_time": 1710127533,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 202198,
@@ -1963,6 +1995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193141,
+      "num": 193141,
+      "word": "差点就断崖式暧昧了",
+      "onboard_time": 1710126151,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192810,
       "num": 159159,
       "word": "马刺轻取勇士",
@@ -2041,14 +2081,6 @@
       "onboard_time": 1710089963,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 187133,
-      "num": 187133,
-      "word": "差点就断崖式暧昧了",
-      "onboard_time": 1710126151,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 187058,
@@ -2185,6 +2217,14 @@
       "onboard_time": 1710039929,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181310,
+      "num": 181310,
+      "word": "孟子义沈月吉娜雪地转圈",
+      "onboard_time": 1710126390,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 180159,
@@ -2427,6 +2467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161191,
+      "num": 161191,
+      "word": "字母哥被扣懵了",
+      "onboard_time": 1710127533,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160937,
       "num": 160937,
       "word": "小胖海诺真超标",
@@ -2465,14 +2513,6 @@
       "onboard_time": 1710084274,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158386,
-      "num": 158386,
-      "word": "孟子义沈月吉娜雪地转圈",
-      "onboard_time": 1710126390,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 158360,
@@ -2689,14 +2729,6 @@
       "onboard_time": 1710080194,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144918,
-      "num": 144918,
-      "word": "大侦探",
-      "onboard_time": 1710127053,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 144907,
@@ -3155,6 +3187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122859,
+      "num": 122859,
+      "word": "石头姐 全球最强85花",
+      "onboard_time": 1710127951,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122156,
       "num": 122156,
       "word": "教室最高一排座位两层楼高",
@@ -3241,6 +3281,14 @@
       "onboard_time": 1710072271,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117507,
+      "num": 117507,
+      "word": "90后藏族女狙击手当排长啦",
+      "onboard_time": 1710127350,
+      "rank": 47,
+      "category": "军事"
     },
     {
       "raw_hot": 117190,
@@ -3955,6 +4003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53408,
+      "num": 922248,
+      "word": "AI视角看两会民生热词",
+      "onboard_time": 1710126989,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52347,
       "num": 94610,
       "word": "霍启刚建议实现大湾区体育教练资格互认",
@@ -4011,6 +4067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37689,
+      "num": 999611,
+      "word": "十四届全国人大二次会议今天闭幕",
+      "onboard_time": 1710127771,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35010,
       "num": 35010,
       "word": "减脂期最怕的凉拌菜",
@@ -4039,14 +4103,6 @@
       "num": 496457,
       "word": "解读最高人民法院工作报告",
       "onboard_time": 1709988273,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 30629,
-      "num": 922248,
-      "word": "AI视角看两会民生热词",
-      "onboard_time": 1710126989,
       "rank": 2,
       "category": "国内时政"
     },
