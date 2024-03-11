@@ -1,0 +1,410 @@
+{
+  "runTime": 1710142464146,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1305930,
+        "num": 1305930,
+        "word": "十四届全国人大二次会议闭幕会",
+        "onboard_time": 1710139771,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 405438,
+        "num": 405438,
+        "word": "林高远1比3李尚洙",
+        "onboard_time": 1710139289,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19067,
+        "num": 385073,
+        "word": "AI视角看两会民生热词",
+        "onboard_time": 1710126989,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 384164,
+        "num": 384164,
+        "word": "凯特王妃最新官方照疑造假",
+        "onboard_time": 1710133593,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 378066,
+        "num": 378066,
+        "word": "王楚钦vs格拉尔多",
+        "onboard_time": 1710140429,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367785,
+        "num": 367785,
+        "word": "建议加快反虐待动物立法",
+        "onboard_time": 1710141088,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 363274,
+        "num": 363274,
+        "word": "耙耙柑 善良的水果",
+        "onboard_time": 1710117755,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 327150,
+        "num": 327150,
+        "word": "淡人 浓人",
+        "onboard_time": 1710134912,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305319,
+        "num": 305319,
+        "word": "董明珠称一年拿几百万愿意多承担一点税",
+        "onboard_time": 1710125668,
+        "rank": 8,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 235404,
+        "num": 304809,
+        "word": "上海迪士尼将扩建新景点",
+        "onboard_time": 1710140189,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1567130,
+        "num": 303013,
+        "word": "高君雨账号已无MCN认证",
+        "onboard_time": 1710137190,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1223964,
+        "num": 300724,
+        "word": "点读机女孩 短袖",
+        "onboard_time": 1710138332,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1119613,
+        "num": 299607,
+        "word": "一对夫妇做短剧每月进账4亿多",
+        "onboard_time": 1710134254,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721962,
+        "num": 298216,
+        "word": "点读机女孩手术视频被质疑是库存",
+        "onboard_time": 1710139588,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 530120,
+        "num": 296180,
+        "word": "朴振英把中国练习生带走了",
+        "onboard_time": 1710138870,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518332,
+        "num": 294497,
+        "word": "点读机女孩暂未回应质疑",
+        "onboard_time": 1710138932,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 458032,
+        "num": 294132,
+        "word": "Doinb老婆疑似被带走",
+        "onboard_time": 1710131677,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 327647,
+        "num": 292201,
+        "word": "张艺兴起诉芒果扒皮酱",
+        "onboard_time": 1710131915,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317915,
+        "num": 290243,
+        "word": "烦死你们有钱人了",
+        "onboard_time": 1710140550,
+        "rank": 18,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 305871,
+        "num": 289241,
+        "word": "新闻女王2官宣原班人马",
+        "onboard_time": 1710135454,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484572,
+        "num": 288005,
+        "word": "彩礼真的是男方的家庭态度吗",
+        "onboard_time": 1710140908,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286549,
+        "num": 286549,
+        "word": "考研三战失败我转行做玄学博主",
+        "onboard_time": 1710139227,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 265836,
+        "num": 265836,
+        "word": "檀健次16岁演小川 32岁演白晓宇",
+        "onboard_time": 1710137791,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243461,
+        "num": 243461,
+        "word": "考公最累的不是学习",
+        "onboard_time": 1710141807,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 243420,
+        "num": 243420,
+        "word": "双鱼座的爱是极致的破碎",
+        "onboard_time": 1710138932,
+        "rank": 24,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 228833,
+        "num": 228833,
+        "word": "辛芷蕾撑住了贴头皮造型",
+        "onboard_time": 1710141448,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214131,
+        "num": 214131,
+        "word": "关于政府工作报告的决议表决通过",
+        "onboard_time": 1710141990,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209939,
+        "num": 209939,
+        "word": "黄铉辰澄清",
+        "onboard_time": 1710127650,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209175,
+        "num": 209175,
+        "word": "一年点外卖近300次29岁小伙查出胃癌",
+        "onboard_time": 1710135093,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202083,
+        "num": 208634,
+        "word": "林高远vs李尚洙",
+        "onboard_time": 1710137670,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208582,
+        "num": 208582,
+        "word": "惜花芷预告",
+        "onboard_time": 1710140007,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208493,
+        "num": 208493,
+        "word": "林更新换脸赵丽颖",
+        "onboard_time": 1710141928,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202901,
+        "num": 202901,
+        "word": "找到了亲妈却删了她的联系方式",
+        "onboard_time": 1710123451,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189852,
+        "num": 189852,
+        "word": "阿里大文娱50亿投入港艺振兴计划",
+        "onboard_time": 1710139112,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 189059,
+        "num": 189059,
+        "word": "奥斯卡",
+        "onboard_time": 1710118711,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178723,
+        "num": 178723,
+        "word": "终于弄清楚七分饱是多饱了",
+        "onboard_time": 1710132936,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169341,
+        "num": 169341,
+        "word": "宁德时代暴涨超13%",
+        "onboard_time": 1710135331,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 32421,
+        "num": 165461,
+        "word": "十四届全国人大二次会议今天闭幕",
+        "onboard_time": 1710127771,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163342,
+        "num": 163342,
+        "word": "赵丽颖林更新与凤行情头",
+        "onboard_time": 1710135934,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155575,
+        "num": 155575,
+        "word": "免费洗了八遍澡的流浪皮皮",
+        "onboard_time": 1710129993,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 154555,
+        "num": 154555,
+        "word": "酒店钟点房的受众群体",
+        "onboard_time": 1710129213,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134920,
+        "num": 134920,
+        "word": "人生是一张三万天的地球村体验卡",
+        "onboard_time": 1710140550,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132238,
+        "num": 132238,
+        "word": "孟子义陈都灵自拍",
+        "onboard_time": 1710135992,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131664,
+        "num": 131664,
+        "word": "今年两会第三场代表通道",
+        "onboard_time": 1710136831,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125894,
+        "num": 125894,
+        "word": "耙耙柑的大名叫春见",
+        "onboard_time": 1710141627,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122841,
+        "num": 122841,
+        "word": "网红铁头小号开播再被封",
+        "onboard_time": 1710136412,
+        "rank": 45,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 121536,
+        "num": 121536,
+        "word": "为什么现在体检这么贵",
+        "onboard_time": 1710141990,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118778,
+        "num": 118778,
+        "word": "这爸爸有事他真不当回事",
+        "onboard_time": 1710138449,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117008,
+        "num": 117008,
+        "word": "打印准考证",
+        "onboard_time": 1710120510,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 112787,
+        "num": 112787,
+        "word": "欧文一代全球影响力",
+        "onboard_time": 1710141266,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#有选择地推动新产业新模式新动能发展#"
+    }
+  }
+}
