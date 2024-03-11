@@ -1,0 +1,410 @@
+{
+  "runTime": 1710135246716,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1450796,
+        "num": 1450796,
+        "word": "Doinb老婆疑似被带走",
+        "onboard_time": 1710131677,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 896458,
+        "num": 896458,
+        "word": "耙耙柑 善良的水果",
+        "onboard_time": 1710117755,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 39321,
+        "num": 776081,
+        "word": "十四届全国人大二次会议今天闭幕",
+        "onboard_time": 1710127771,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1231722,
+        "num": 769011,
+        "word": "张艺兴起诉芒果扒皮酱",
+        "onboard_time": 1710131915,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 721481,
+        "num": 721481,
+        "word": "董明珠称一年拿几百万愿意多承担一点税",
+        "onboard_time": 1710125668,
+        "rank": 4,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 673275,
+        "num": 673275,
+        "word": "找到了亲妈却删了她的联系方式",
+        "onboard_time": 1710123451,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 522368,
+        "num": 522368,
+        "word": "男子因社恐40岁才找到合适的工作",
+        "onboard_time": 1710120752,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511527,
+        "num": 511527,
+        "word": "奥斯卡",
+        "onboard_time": 1710118711,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 482611,
+        "num": 482611,
+        "word": "酒店钟点房的受众群体",
+        "onboard_time": 1710129213,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 438656,
+        "num": 438656,
+        "word": "徐海乔赵丽颖二搭",
+        "onboard_time": 1710132696,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 572809,
+        "num": 435738,
+        "word": "一对夫妇做短剧每月进账4亿多",
+        "onboard_time": 1710134254,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423624,
+        "num": 423624,
+        "word": "黄铉辰澄清",
+        "onboard_time": 1710127650,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415396,
+        "num": 415396,
+        "word": "石头姐 全球最强85花",
+        "onboard_time": 1710127951,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 411156,
+        "num": 411156,
+        "word": "宁德时代",
+        "onboard_time": 1710129512,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 34745,
+        "num": 394753,
+        "word": "用15种外国语打开中华文明",
+        "onboard_time": 1710133237,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387053,
+        "num": 387053,
+        "word": "轻舟已过万重山 乌蒙山连着祁连山",
+        "onboard_time": 1710133115,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367993,
+        "num": 367993,
+        "word": "李想朋友圈长文回应Mega被黑",
+        "onboard_time": 1710128070,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 317059,
+        "num": 317059,
+        "word": "癌症来临时身体会喊痛",
+        "onboard_time": 1710121468,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 298399,
+        "num": 298399,
+        "word": "长安的荔枝今日官宣",
+        "onboard_time": 1710126151,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262625,
+        "num": 262625,
+        "word": "打印准考证",
+        "onboard_time": 1710120510,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 335314,
+        "num": 248068,
+        "word": "终于弄清楚七分饱是多饱了",
+        "onboard_time": 1710132936,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219650,
+        "num": 219650,
+        "word": "每克近千元的一口价黄金被全额退款",
+        "onboard_time": 1710127533,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 205621,
+        "num": 205621,
+        "word": "2024奥斯卡颁奖典礼",
+        "onboard_time": 1710112825,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204569,
+        "num": 204569,
+        "word": "为何连卫龙也没那么好卖了",
+        "onboard_time": 1710132936,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 202295,
+        "num": 202295,
+        "word": "跳舞是缓解抑郁的最佳运动",
+        "onboard_time": 1710130233,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 196203,
+        "num": 196203,
+        "word": "电影大反派定档",
+        "onboard_time": 1710134612,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195885,
+        "num": 195885,
+        "word": "奥斯卡悼念李善均",
+        "onboard_time": 1710129753,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192315,
+        "num": 192315,
+        "word": "淡人 浓人",
+        "onboard_time": 1710134912,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186609,
+        "num": 186609,
+        "word": "周处除三害 贪嗔痴",
+        "onboard_time": 1710133954,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182238,
+        "num": 182238,
+        "word": "石头姐二封奥斯卡影后",
+        "onboard_time": 1710123749,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 538173,
+        "num": 180951,
+        "word": "凯特王妃最新官方照疑造假",
+        "onboard_time": 1710133593,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 173234,
+        "num": 173234,
+        "word": "免费洗了八遍澡的流浪皮皮",
+        "onboard_time": 1710129993,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 135097,
+        "num": 169530,
+        "word": "建议对65岁无养老金人群发基础养老金",
+        "onboard_time": 1710118653,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168942,
+        "num": 168942,
+        "word": "耙耙柑美式",
+        "onboard_time": 1710130412,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161908,
+        "num": 161908,
+        "word": "轰20快将公布",
+        "onboard_time": 1710129993,
+        "rank": 34,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 160194,
+        "num": 160194,
+        "word": "一年点外卖近300次29岁小伙查出胃癌",
+        "onboard_time": 1710135093,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158608,
+        "num": 158608,
+        "word": "霍启刚称年轻人应有更多时间去扩大眼界",
+        "onboard_time": 1710125733,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155209,
+        "num": 155209,
+        "word": "余承东何小鹏留言支持李想",
+        "onboard_time": 1710134852,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 153075,
+        "num": 153075,
+        "word": "为何大家恋爱欲普遍降低了",
+        "onboard_time": 1710122011,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148716,
+        "num": 148716,
+        "word": "芭比陪跑",
+        "onboard_time": 1710126569,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144570,
+        "num": 147670,
+        "word": "恋与深空打卡",
+        "onboard_time": 1710132337,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146879,
+        "num": 146879,
+        "word": "林孝埈更换微博置顶",
+        "onboard_time": 1710126090,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140583,
+        "num": 140583,
+        "word": "赵丽颖再演女将军",
+        "onboard_time": 1710133058,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140466,
+        "num": 140466,
+        "word": "美宝莲为什么被嫌弃了",
+        "onboard_time": 1710122969,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 133918,
+        "num": 133918,
+        "word": "个税起征点提高至1万元谁最受益",
+        "onboard_time": 1710113126,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133350,
+        "num": 133350,
+        "word": "分手再见前任 理想vs现实",
+        "onboard_time": 1710129272,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129091,
+        "num": 129091,
+        "word": "黄俊捷 松弛感",
+        "onboard_time": 1710132936,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123698,
+        "num": 123698,
+        "word": "宁波女子洗车竟被店员洗公仔擦鞋",
+        "onboard_time": 1710122191,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121201,
+        "num": 121201,
+        "word": "别对我动心 回家的诱惑",
+        "onboard_time": 1710133833,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119940,
+        "num": 119940,
+        "word": "赵丽颖看着奖杯笑了",
+        "onboard_time": 1710114931,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#有选择地推动新产业新模式新动能发展#"
+    }
+  }
+}
