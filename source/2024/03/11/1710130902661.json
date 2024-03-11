@@ -1,0 +1,410 @@
+{
+  "runTime": 1710130902661,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1506220,
+        "num": 1506220,
+        "word": "奥斯卡",
+        "onboard_time": 1710118711,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1340081,
+        "num": 1340081,
+        "word": "耙耙柑 善良的水果",
+        "onboard_time": 1710117755,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 66125,
+        "num": 1149950,
+        "word": "十四届全国人大二次会议今天闭幕",
+        "onboard_time": 1710127771,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1102782,
+        "num": 1102782,
+        "word": "董明珠称一年拿几百万愿意多承担一点税",
+        "onboard_time": 1710125668,
+        "rank": 3,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 1045413,
+        "num": 1045413,
+        "word": "男子因社恐40岁才找到合适的工作",
+        "onboard_time": 1710120752,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817955,
+        "num": 817955,
+        "word": "霍启刚称年轻人应有更多时间去扩大眼界",
+        "onboard_time": 1710125733,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 607258,
+        "num": 607258,
+        "word": "长安的荔枝今日官宣",
+        "onboard_time": 1710126151,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 548345,
+        "num": 548345,
+        "word": "宁德时代",
+        "onboard_time": 1710129512,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 538737,
+        "num": 538737,
+        "word": "林孝埈更换微博置顶",
+        "onboard_time": 1710126090,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244827,
+        "num": 519519,
+        "word": "建议对65岁无养老金人群发基础养老金",
+        "onboard_time": 1710118653,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1134154,
+        "num": 518421,
+        "word": "黄铉辰澄清",
+        "onboard_time": 1710127650,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148918,
+        "num": 517330,
+        "word": "龙抬头到底在抬什么头",
+        "onboard_time": 1710129813,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 517201,
+        "num": 517201,
+        "word": "石头姐 全球最强85花",
+        "onboard_time": 1710127951,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 506709,
+        "num": 506709,
+        "word": "李想朋友圈长文回应Mega被黑",
+        "onboard_time": 1710128070,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 482384,
+        "num": 482384,
+        "word": "石头姐二封奥斯卡影后",
+        "onboard_time": 1710123749,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 468455,
+        "num": 468455,
+        "word": "芭比陪跑",
+        "onboard_time": 1710126569,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 429783,
+        "num": 429783,
+        "word": "每克近千元的一口价黄金被全额退款",
+        "onboard_time": 1710127533,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 404320,
+        "num": 404320,
+        "word": "癌症来临时身体会喊痛",
+        "onboard_time": 1710121468,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 384670,
+        "num": 384670,
+        "word": "酒店钟点房的受众群体",
+        "onboard_time": 1710129213,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 364719,
+        "num": 364719,
+        "word": "打印准考证",
+        "onboard_time": 1710120510,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 463379,
+        "num": 363453,
+        "word": "找到了亲妈却删了她的联系方式",
+        "onboard_time": 1710123451,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 326827,
+        "num": 326827,
+        "word": "大侦探",
+        "onboard_time": 1710127053,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299200,
+        "num": 299200,
+        "word": "奥斯卡悼念李善均",
+        "onboard_time": 1710129753,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269021,
+        "num": 269021,
+        "word": "个税起征点提高至1万元谁最受益",
+        "onboard_time": 1710113126,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 258291,
+        "num": 258291,
+        "word": "2024奥斯卡颁奖典礼",
+        "onboard_time": 1710112825,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250151,
+        "num": 250151,
+        "word": "赵丽颖看着奖杯笑了",
+        "onboard_time": 1710114931,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241345,
+        "num": 241345,
+        "word": "未定事件簿",
+        "onboard_time": 1710128371,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230107,
+        "num": 230107,
+        "word": "统一了东西方审美的蓝色美学",
+        "onboard_time": 1710129334,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218094,
+        "num": 218094,
+        "word": "轰20快将公布",
+        "onboard_time": 1710129993,
+        "rank": 28,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 175313,
+        "num": 215300,
+        "word": "今年二月二真有龙抬头",
+        "onboard_time": 1710076769,
+        "rank": 29,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 213900,
+        "num": 213900,
+        "word": "宁波女子洗车竟被店员洗公仔擦鞋",
+        "onboard_time": 1710122191,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210544,
+        "num": 210544,
+        "word": "分手再见前任 理想vs现实",
+        "onboard_time": 1710129272,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207227,
+        "num": 207227,
+        "word": "耙耙柑美式",
+        "onboard_time": 1710130412,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200599,
+        "num": 200599,
+        "word": "免费洗了八遍澡的流浪皮皮",
+        "onboard_time": 1710129993,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 198802,
+        "num": 198802,
+        "word": "租房把房东家给改造了",
+        "onboard_time": 1710116553,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187290,
+        "num": 187290,
+        "word": "美宝莲为什么被嫌弃了",
+        "onboard_time": 1710122969,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 176637,
+        "num": 176637,
+        "word": "Jennie又有新综艺了",
+        "onboard_time": 1710129155,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171355,
+        "num": 171355,
+        "word": "跳舞是缓解抑郁的最佳运动",
+        "onboard_time": 1710130233,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 169586,
+        "num": 169586,
+        "word": "女生爱背包包的原因找到了",
+        "onboard_time": 1710128489,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169197,
+        "num": 169197,
+        "word": "桃花坞",
+        "onboard_time": 1710125849,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168782,
+        "num": 168782,
+        "word": "iPhone降价已成常规促销手段",
+        "onboard_time": 1710115770,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163382,
+        "num": 163382,
+        "word": "与凤行凤凤火火角色海报",
+        "onboard_time": 1710127771,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159341,
+        "num": 159341,
+        "word": "Steam在线人数突破3500万",
+        "onboard_time": 1710128612,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156478,
+        "num": 156478,
+        "word": "宫崎骏二封奥斯卡动画",
+        "onboard_time": 1710130594,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154803,
+        "num": 154803,
+        "word": "为何大家恋爱欲普遍降低了",
+        "onboard_time": 1710122011,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148992,
+        "num": 148992,
+        "word": "谢谢你温暖我 没把观众当外人",
+        "onboard_time": 1710130594,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146564,
+        "num": 146564,
+        "word": "外媒报道赵丽颖获奖",
+        "onboard_time": 1710124234,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145414,
+        "num": 145414,
+        "word": "字母哥被扣懵了",
+        "onboard_time": 1710127533,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141224,
+        "num": 141224,
+        "word": "为啥什么APP都要相机位置权限",
+        "onboard_time": 1710119850,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138980,
+        "num": 138980,
+        "word": "国家线什么时候出",
+        "onboard_time": 1710123451,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#有选择地推动新产业新模式新动能发展#"
+    }
+  }
+}
