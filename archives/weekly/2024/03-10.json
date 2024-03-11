@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710178469675,
+  "endTime": 1710181304551,
   "band_list": [
     {
       "raw_hot": 2999065,
@@ -2987,6 +2987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205684,
+      "num": 57534,
+      "word": "凯特王妃已有2个多月未出席活动",
+      "onboard_time": 1710177980,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204708,
       "num": 204708,
       "word": "巴黎世家真的出胶带手镯了",
@@ -5947,14 +5955,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 56456,
-      "num": 56456,
-      "word": "凯特王妃已有2个多月未出席活动",
-      "onboard_time": 1710177980,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55950,
       "num": 52862,
       "word": "余承恩穿搭博主",
@@ -6009,6 +6009,14 @@
       "onboard_time": 1710126989,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52364,
+      "num": 52364,
+      "word": "章昊Gucci生图",
+      "onboard_time": 1710180798,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 52347,
@@ -6161,6 +6169,14 @@
       "onboard_time": 1710074490,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26356,
+      "num": 28653,
+      "word": "气得朱梓骁想拿鸡爪挠纪凌尘",
+      "onboard_time": 1710180978,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 26056,

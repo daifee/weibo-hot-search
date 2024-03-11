@@ -1,6 +1,6 @@
 {
   "startTime": 1710174076566,
-  "endTime": 1710178469675,
+  "endTime": 1710181304551,
   "band_list": [
     {
       "raw_hot": 855766,
@@ -168,6 +168,14 @@
       "word": "丈夫看店铺监控发现妻子出轨",
       "onboard_time": 1710163892,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205684,
+      "num": 57534,
+      "word": "凯特王妃已有2个多月未出席活动",
+      "onboard_time": 1710177980,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -443,20 +451,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 56456,
-      "num": 56456,
-      "word": "凯特王妃已有2个多月未出席活动",
-      "onboard_time": 1710177980,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55810,
       "num": 55810,
       "word": "一直娱",
       "onboard_time": 1710176423,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 52364,
+      "num": 52364,
+      "word": "章昊Gucci生图",
+      "onboard_time": 1710180798,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 49838,
@@ -497,6 +505,14 @@
       "onboard_time": 1710167312,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26356,
+      "num": 28653,
+      "word": "气得朱梓骁想拿鸡爪挠纪凌尘",
+      "onboard_time": 1710180978,
+      "rank": 41,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
