@@ -1,6 +1,6 @@
 {
   "startTime": 1710174076566,
-  "endTime": 1710182040105,
+  "endTime": 1710184560593,
   "band_list": [
     {
       "raw_hot": 855766,
@@ -443,6 +443,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 67793,
+      "num": 34780,
+      "word": "气得朱梓骁想拿鸡爪挠纪凌尘",
+      "onboard_time": 1710180978,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67741,
       "num": 67741,
       "word": "Uzi韩服账号改名JackeyLove",
@@ -491,14 +499,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 34780,
-      "num": 34780,
-      "word": "气得朱梓骁想拿鸡爪挠纪凌尘",
-      "onboard_time": 1710180978,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 31424,
       "num": 44290,
       "word": "万茜穿平底鞋的身材比例",
@@ -515,7 +515,15 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 6950,
+      "raw_hot": 15504,
+      "num": 20402,
+      "word": "Kanavi回应JDG输给FPX",
+      "onboard_time": 1710168453,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 7115,
       "num": 110993,
       "word": "共话新质生产力",
       "onboard_time": 1710146311,
@@ -529,6 +537,9 @@
     },
     {
       "word": "#习近平签署第二十一号主席令#"
+    },
+    {
+      "word": "#画好最大同心圆共谱壮美新华章#"
     }
   ]
 }

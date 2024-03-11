@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710182040105,
+  "endTime": 1710184560593,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -30211,6 +30211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67793,
+      "num": 34780,
+      "word": "气得朱梓骁想拿鸡爪挠纪凌尘",
+      "onboard_time": 1710180978,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67780,
       "num": 67780,
       "word": "2块钱和上百元的维生素C哪个更好",
@@ -31273,14 +31281,6 @@
       "onboard_time": 1709807252,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 34780,
-      "num": 34780,
-      "word": "气得朱梓骁想拿鸡爪挠纪凌尘",
-      "onboard_time": 1710180978,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 34745,
