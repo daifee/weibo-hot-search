@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/03/01 00:20:40 ~ 2024/03/11 10:04:36
+本榜单时间：2024/03/01 00:20:40 ~ 2024/03/11 10:24:10
 </p>
 </blockquote>
 <p>
@@ -1137,6 +1137,12 @@ papi酱说短视频里不是她本人（热度：1339606）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E7%A4%BE%E6%81%9040%E5%B2%81%E6%89%8D%E6%89%BE%E5%88%B0%E5%90%88%E9%80%82%E7%9A%84%E5%B7%A5%E4%BD%9C%23" target="weibo">
+男子因社恐40岁才找到合适的工作（热度：1104974）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E5%8D%B0%E5%87%86%E8%80%83%E8%AF%81%23" target="weibo">
 打印准考证（热度：1102125）
 </a>
@@ -1755,12 +1761,6 @@ ChatGPT每天用电量是家庭用电量的1.7万多倍（热度：960317）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E7%A4%BE%E6%81%9040%E5%B2%81%E6%89%8D%E6%89%BE%E5%88%B0%E5%90%88%E9%80%82%E7%9A%84%E5%B7%A5%E4%BD%9C%23" target="weibo">
-男子因社恐40岁才找到合适的工作（热度：883429）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%AE%E5%BD%A9%E7%A5%A8%E4%B8%AD%E4%B8%80%E8%BE%86%E8%BD%A6%E6%B2%A1%E5%8F%91%E7%8E%B0%E6%89%AD%E5%A4%B4%E5%B0%B1%E8%B5%B0%23" target="weibo">
 女子刮彩票中一辆车没发现扭头就走（热度：882849）
 </a>
@@ -1979,6 +1979,12 @@ DYG教练 跑路（热度：871122）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8F%96%E6%B6%88%E9%AB%98%E4%B8%AD%E5%AD%A6%E4%B8%9A%E6%B0%B4%E5%B9%B3%E8%80%83%E8%AF%95%E7%A7%91%E7%9B%AE%23" target="weibo">
 建议取消高中学业水平考试科目（热度：831693）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%8C%E7%97%87%E6%9D%A5%E4%B8%B4%E6%97%B6%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%96%8A%E7%97%9B%23" target="weibo">
+癌症来临时身体会喊痛（热度：831370）
 </a>
 </li>
 
@@ -2979,6 +2985,12 @@ G社拍的杨超越（热度：677350）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232024%E5%A5%A5%E6%96%AF%E5%8D%A1%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC%23" target="weibo">
+2024奥斯卡颁奖典礼（热度：664901）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%E5%90%BB%E6%88%8F%E8%B7%AF%E9%80%8F%23" target="weibo">
 杨紫李现吻戏路透（热度：664080）
 </a>
@@ -3159,8 +3171,8 @@ ICU医生称见过生死仍看不透死亡（热度：650986）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%8C%E7%97%87%E6%9D%A5%E4%B8%B4%E6%97%B6%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%96%8A%E7%97%9B%23" target="weibo">
-癌症来临时身体会喊痛（热度：641474）
+<a href="https://s.weibo.com/weibo?q=%232024%E5%A5%A5%E6%96%AF%E5%8D%A1%E7%BA%A2%E6%AF%AF%23" target="weibo">
+2024奥斯卡红毯（热度：642751）
 </a>
 </li>
 
@@ -4323,12 +4335,6 @@ TikTok用户打爆美国会办公电话（热度：549201）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232024%E5%A5%A5%E6%96%AF%E5%8D%A1%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC%23" target="weibo">
-2024奥斯卡颁奖典礼（热度：520729）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%20%E5%A4%A7%E5%A5%B3%E4%B8%BB%23" target="weibo">
 刘诗诗 大女主（热度：519696）
 </a>
@@ -4617,12 +4623,6 @@ IU演唱会（热度：495552）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232024%E5%A5%A5%E6%96%AF%E5%8D%A1%E7%BA%A2%E6%AF%AF%23" target="weibo">
-2024奥斯卡红毯（热度：490426）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%9B%80%E8%BE%93%E7%BB%99%E6%B0%91%E9%97%B4%E9%98%9F%23" target="weibo">
 朱雀输给民间队（热度：490286）
 </a>
@@ -4685,6 +4685,12 @@ IU演唱会（热度：495552）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%B5%84%E9%80%89%E6%8B%A9%20%E9%9A%BE%23" target="weibo">
 教资选择 难（热度：486181）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E5%A5%B3%E5%AD%90%E6%B4%97%E8%BD%A6%E7%AB%9F%E8%A2%AB%E5%BA%97%E5%91%98%E6%B4%97%E5%85%AC%E4%BB%94%E6%93%A6%E9%9E%8B%23" target="weibo">
+宁波女子洗车竟被店员洗公仔擦鞋（热度：485820）
 </a>
 </li>
 
@@ -5007,6 +5013,12 @@ Rihanna印度富豪婚礼演唱（热度：460030）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9F%BA%E9%87%8C%E5%AE%89%E5%A2%A8%E8%8F%B2%E5%A5%A5%E6%96%AF%E5%8D%A1%E5%BD%B1%E5%B8%9D%23" target="weibo">
+基里安墨菲奥斯卡影帝（热度：458877）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E5%90%8E%E5%90%83%E8%BE%85%E9%85%B6Q10%E7%9C%9F%E7%9A%84%E6%9C%89%E7%94%A8%E5%90%97%23" target="weibo">
 熬夜后吃辅酶Q10真的有用吗（热度：458572）
 </a>
@@ -5129,12 +5141,6 @@ iPhone16渲染图（热度：452671）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%E8%82%A1%E4%BB%B7%E8%BF%9E%E8%B7%8C%E4%B8%89%E5%A4%A9%23" target="weibo">
 农夫山泉股价连跌三天（热度：449550）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E5%A5%B3%E5%AD%90%E6%B4%97%E8%BD%A6%E7%AB%9F%E8%A2%AB%E5%BA%97%E5%91%98%E6%B4%97%E5%85%AC%E4%BB%94%E6%93%A6%E9%9E%8B%23" target="weibo">
-宁波女子洗车竟被店员洗公仔擦鞋（热度：449103）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Jennie机场（热度：404806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23IU%E5%92%8CNewJeans%E8%88%9E%E8%B9%88%E8%81%94%E5%8A%A8%23" target="weibo">
 IU和NewJeans舞蹈联动（热度：391195）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A6%E4%B8%96%E8%B1%AA%E4%BF%9D%E9%80%81%E5%8D%8E%E4%B8%AD%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%23" target="weibo">
-韦世豪保送华中科技大学（热度：390344）
 </a>
 </li>
 
