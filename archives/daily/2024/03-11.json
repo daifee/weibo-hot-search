@@ -1,6 +1,6 @@
 {
   "startTime": 1710087619285,
-  "endTime": 1710145324598,
+  "endTime": 1710146039483,
   "band_list": [
     {
       "raw_hot": 2928217,
@@ -35,6 +35,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1611378,
+      "num": 249637,
+      "word": "Gucci晚宴出图",
+      "onboard_time": 1710144148,
+      "rank": 12,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 1513203,
+      "num": 298216,
+      "word": "点读机女孩手术视频被质疑是库存",
+      "onboard_time": 1710139588,
+      "rank": 13,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1450796,
       "num": 1450796,
       "word": "Doinb老婆疑似被带走",
@@ -57,14 +73,6 @@
       "onboard_time": 1710139771,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1388568,
-      "num": 298216,
-      "word": "点读机女孩手术视频被质疑是库存",
-      "onboard_time": 1710139588,
-      "rank": 13,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1304908,
@@ -147,12 +155,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1034050,
-      "num": 225615,
-      "word": "Gucci晚宴出图",
-      "onboard_time": 1710144148,
-      "rank": 12,
-      "category": "时尚,作品衍生"
+      "raw_hot": 976801,
+      "num": 290243,
+      "word": "烦死你们有钱人了",
+      "onboard_time": 1710140550,
+      "rank": 31,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 960619,
@@ -177,14 +185,6 @@
       "onboard_time": 1710133593,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 878535,
-      "num": 290243,
-      "word": "烦死你们有钱人了",
-      "onboard_time": 1710140550,
-      "rank": 31,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 853928,
@@ -345,6 +345,14 @@
       "onboard_time": 1710138870,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 596861,
+      "num": 249165,
+      "word": "肖战射雕英雄传线下展台海报",
+      "onboard_time": 1710144450,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 589256,
@@ -515,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433493,
+      "num": 249128,
+      "word": "计划三天的全家游只玩了三小时",
+      "onboard_time": 1710143671,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 424395,
       "num": 424395,
       "word": "你的强轩染来了",
@@ -539,20 +555,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 401682,
-      "num": 223744,
-      "word": "肖战射雕英雄传线下展台海报",
-      "onboard_time": 1710144450,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 400875,
       "num": 400875,
       "word": "相亲对象是我曾经删掉的人",
       "onboard_time": 1710119014,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 399995,
+      "num": 399995,
+      "word": "今年两会第三场部长通道",
+      "onboard_time": 1710145168,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 398250,
@@ -593,6 +609,14 @@
       "onboard_time": 1710141088,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 358480,
+      "num": 358480,
+      "word": "仍有5亿人坚持用QQ",
+      "onboard_time": 1710144211,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 353781,
@@ -643,16 +667,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 341028,
-      "num": 222910,
-      "word": "计划三天的全家游只玩了三小时",
-      "onboard_time": 1710143671,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 339762,
-      "num": 228833,
+      "num": 248789,
       "word": "辛芷蕾撑住了贴头皮造型",
       "onboard_time": 1710141448,
       "rank": 25,
@@ -699,20 +715,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 309163,
+      "num": 309163,
+      "word": "剑网3永久取消装备修理费",
+      "onboard_time": 1710143790,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 302267,
       "num": 302267,
       "word": "乱穿衣模式又开启了",
       "onboard_time": 1710117573,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300414,
-      "num": 220301,
-      "word": "剑网3永久取消装备修理费",
-      "onboard_time": 1710143790,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 299200,
@@ -780,7 +796,7 @@
     },
     {
       "raw_hot": 276360,
-      "num": 243461,
+      "num": 248632,
       "word": "考公最累的不是学习",
       "onboard_time": 1710141807,
       "rank": 23,
@@ -891,12 +907,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 241464,
+      "num": 241464,
+      "word": "国家线还不出",
+      "onboard_time": 1710145712,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 241345,
       "num": 241345,
       "word": "未定事件簿",
       "onboard_time": 1710128371,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 234276,
+      "num": 234276,
+      "word": "比特币突破71000美元",
+      "onboard_time": 1710144691,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 233163,
@@ -971,12 +1003,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 219536,
-      "num": 219536,
-      "word": "仍有5亿人坚持用QQ",
-      "onboard_time": 1710144211,
-      "rank": 27,
-      "category": "互联网"
+      "raw_hot": 216491,
+      "num": 194634,
+      "word": "目击过狮子交配的韩国网友",
+      "onboard_time": 1710145590,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 216490,
@@ -987,8 +1019,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 216220,
-      "num": 216220,
+      "raw_hot": 216366,
+      "num": 216366,
       "word": "张婧仪古装",
       "onboard_time": 1710144391,
       "rank": 28,
@@ -1243,14 +1275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182198,
-      "num": 182198,
-      "word": "今年两会第三场部长通道",
-      "onboard_time": 1710145168,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 181310,
       "num": 181310,
       "word": "孟子义沈月吉娜雪地转圈",
@@ -1289,14 +1313,6 @@
       "onboard_time": 1710129155,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175478,
-      "num": 175478,
-      "word": "比特币突破71000美元",
-      "onboard_time": 1710144691,
-      "rank": 36,
-      "category": "财经"
     },
     {
       "raw_hot": 171402,
@@ -1571,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138470,
+      "num": 138470,
+      "word": "小日子 把蜗居过成大宅门",
+      "onboard_time": 1710145350,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138306,
       "num": 138306,
       "word": "我是怎么一步一步没有朋友的",
@@ -1675,6 +1699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129255,
+      "num": 129255,
+      "word": "印度首位AI教师上岗",
+      "onboard_time": 1710145530,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 128205,
       "num": 128205,
       "word": "00后老师vs资深老教师",
@@ -1697,6 +1729,14 @@
       "onboard_time": 1710141627,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 125192,
+      "num": 125192,
+      "word": "宣璐演赵丽颖母亲",
+      "onboard_time": 1710146011,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 123679,
@@ -2131,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37063,
+      "num": 421400,
+      "word": "两会代表委员热议重温经典频道",
+      "onboard_time": 1710145168,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34745,
       "num": 456003,
       "word": "用15种外国语打开中华文明",
@@ -2169,14 +2217,6 @@
       "onboard_time": 1710099136,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11297,
-      "num": 421400,
-      "word": "两会代表委员热议重温经典频道",
-      "onboard_time": 1710145168,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
