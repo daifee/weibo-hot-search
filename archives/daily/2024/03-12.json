@@ -1,6 +1,6 @@
 {
   "startTime": 1710174076566,
-  "endTime": 1710184560593,
+  "endTime": 1710185645181,
   "band_list": [
     {
       "raw_hot": 855766,
@@ -443,7 +443,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 67793,
+      "raw_hot": 69923,
       "num": 34780,
       "word": "气得朱梓骁想拿鸡爪挠纪凌尘",
       "onboard_time": 1710180978,
@@ -513,6 +513,14 @@
       "onboard_time": 1710167312,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15675,
+      "num": 17958,
+      "word": "刘浩存演惠英红奶奶",
+      "onboard_time": 1710185417,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 15504,
