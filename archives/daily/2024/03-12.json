@@ -1,10 +1,10 @@
 {
   "startTime": 1710174076566,
-  "endTime": 1710199077960,
+  "endTime": 1710200056313,
   "band_list": [
     {
-      "raw_hot": 1084309,
-      "num": 1084309,
+      "raw_hot": 1244671,
+      "num": 1244671,
       "word": "女教师哺乳期被学校调岗为保洁",
       "onboard_time": 1710174506,
       "rank": 39,
@@ -17,6 +17,14 @@
       "onboard_time": 1710164793,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 751160,
+      "num": 220537,
+      "word": "香港双婴尸案今日提堂",
+      "onboard_time": 1710194356,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 724147,
@@ -35,28 +43,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 557739,
-      "num": 557739,
-      "word": "林一 男友101",
-      "onboard_time": 1710171690,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 530650,
-      "num": 89419,
+      "raw_hot": 595800,
+      "num": 220033,
       "word": "凯特王妃已有2个多月未出席活动",
       "onboard_time": 1710177980,
       "rank": 31,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 530036,
-      "num": 89152,
-      "word": "香港双婴尸案今日提堂",
-      "onboard_time": 1710194356,
-      "rank": 30,
-      "category": "社会负面"
+      "raw_hot": 589335,
+      "num": 219488,
+      "word": "湿气重毁身材肚子大",
+      "onboard_time": 1710195678,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 560102,
+      "num": 560102,
+      "word": "曾98万拍下摊位的大叔卖馍半月回本",
+      "onboard_time": 1710172232,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557739,
+      "num": 557739,
+      "word": "林一 男友101",
+      "onboard_time": 1710171690,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 526477,
@@ -83,14 +99,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 495387,
-      "num": 88969,
-      "word": "湿气重毁身材肚子大",
-      "onboard_time": 1710195678,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 491973,
       "num": 491973,
       "word": "石头姐 杨紫琼",
@@ -112,14 +120,6 @@
       "word": "爸妈让6岁儿子晚上学一年到处旅游",
       "onboard_time": 1710169772,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 468850,
-      "num": 468850,
-      "word": "曾98万拍下摊位的大叔卖馍半月回本",
-      "onboard_time": 1710172232,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -147,20 +147,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 352608,
+      "num": 233184,
+      "word": "丈夫看店铺监控发现妻子出轨",
+      "onboard_time": 1710163892,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336220,
+      "num": 336220,
+      "word": "高君雨",
+      "onboard_time": 1710198926,
+      "rank": 34,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 309253,
       "num": 309253,
       "word": "待在小县城为什么会有窒息感",
       "onboard_time": 1710156270,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 299689,
-      "num": 233184,
-      "word": "丈夫看店铺监控发现妻子出轨",
-      "onboard_time": 1710163892,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 289887,
@@ -195,8 +203,16 @@
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 206923,
-      "num": 206923,
+      "raw_hot": 238369,
+      "num": 238369,
+      "word": "易烊千玺网站更新",
+      "onboard_time": 1710198865,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220642,
+      "num": 220642,
       "word": "娃哈哈客服回应推出啤酒产品",
       "onboard_time": 1710169414,
       "rank": 34,
@@ -211,12 +227,36 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 203274,
+      "num": 203274,
+      "word": "植树节",
+      "onboard_time": 1710199043,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195602,
+      "num": 195602,
+      "word": "气得朱梓骁想拿鸡爪挠纪凌尘",
+      "onboard_time": 1710180978,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191680,
       "num": 191680,
       "word": "耙耙柑不是粑粑柑",
       "onboard_time": 1710158011,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 184575,
+      "num": 184575,
+      "word": "刘浩存演惠英红奶奶",
+      "onboard_time": 1710185417,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 182481,
@@ -251,20 +291,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 147754,
-      "num": 87964,
-      "word": "刘浩存演惠英红奶奶",
-      "onboard_time": 1710185417,
-      "rank": 44,
-      "category": "电影"
+      "raw_hot": 152233,
+      "num": 152233,
+      "word": "高君雨妈妈称没有接受捐款",
+      "onboard_time": 1710199524,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 145487,
-      "num": 87351,
-      "word": "气得朱梓骁想拿鸡爪挠纪凌尘",
-      "onboard_time": 1710180978,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 146810,
+      "num": 146810,
+      "word": "研究称每一滴酒都对身体有害",
+      "onboard_time": 1710197721,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144979,
@@ -297,6 +337,14 @@
       "onboard_time": 1710165573,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 133649,
+      "num": 133649,
+      "word": "李嘉琦与凤行妆造",
+      "onboard_time": 1710175224,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 129455,
@@ -339,12 +387,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 117585,
-      "num": 87059,
-      "word": "研究称每一滴酒都对身体有害",
-      "onboard_time": 1710197721,
-      "rank": 23,
-      "category": "健康医疗"
+      "raw_hot": 116846,
+      "num": 116846,
+      "word": "向往的生活小羊小不点去世",
+      "onboard_time": 1710199828,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 116356,
@@ -355,20 +403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115993,
-      "num": 91939,
-      "word": "李嘉琦与凤行妆造",
-      "onboard_time": 1710175224,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 107073,
-      "num": 86482,
-      "word": "易烊千玺网站更新",
-      "onboard_time": 1710198865,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 103731,
+      "num": 103731,
+      "word": "迷风花 下课",
+      "onboard_time": 1710199346,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 103571,
@@ -385,6 +425,14 @@
       "onboard_time": 1710170608,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 101655,
+      "num": 101655,
+      "word": "Hero新教练老林",
+      "onboard_time": 1710199225,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 100771,
@@ -409,6 +457,14 @@
       "onboard_time": 1710172110,
       "rank": 41,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 92093,
+      "num": 92093,
+      "word": "白鹿田曦薇王楚然同场活动造型",
+      "onboard_time": 1710196760,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 87161,
@@ -443,14 +499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 84370,
-      "num": 84370,
-      "word": "白鹿田曦薇王楚然同场活动造型",
-      "onboard_time": 1710196760,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 81047,
       "num": 81047,
       "word": "吴镇宇表情",
@@ -483,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 78870,
-      "num": 78870,
-      "word": "高君雨",
-      "onboard_time": 1710198926,
-      "rank": 34,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 78275,
       "num": 78275,
       "word": "谢谢你温暖我 分手名场面",
@@ -507,6 +547,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 72394,
+      "num": 72394,
+      "word": "中方将参加安全纽带2024联演",
+      "onboard_time": 1710199524,
+      "rank": 42,
+      "category": "军事,国内时政"
+    },
+    {
       "raw_hot": 67741,
       "num": 67741,
       "word": "Uzi韩服账号改名JackeyLove",
@@ -515,12 +563,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 67683,
+      "num": 67683,
+      "word": "利雅得胜利无缘亚冠四强",
+      "onboard_time": 1710199828,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66564,
       "num": 66564,
       "word": "RNG我哭死",
       "onboard_time": 1710162631,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 63540,
+      "num": 63540,
+      "word": "C罗亚冠出局",
+      "onboard_time": 1710199886,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 56505,
@@ -545,14 +609,6 @@
       "onboard_time": 1710176961,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 48123,
-      "num": 47095,
-      "word": "植树节",
-      "onboard_time": 1710199043,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 40354,
@@ -603,8 +659,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 12513,
-      "num": 389533,
+      "raw_hot": 13306,
+      "num": 449356,
       "word": "共话新质生产力",
       "onboard_time": 1710146311,
       "rank": 2,
