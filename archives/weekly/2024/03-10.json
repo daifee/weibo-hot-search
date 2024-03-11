@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710181304551,
+  "endTime": 1710182040105,
   "band_list": [
     {
       "raw_hot": 2999065,
@@ -5843,6 +5843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76250,
+      "num": 76250,
+      "word": "章昊Gucci生图",
+      "onboard_time": 1710180798,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 74409,
       "num": 74409,
       "word": "涵艺爆料BSYY离队",
@@ -6011,14 +6019,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 52364,
-      "num": 52364,
-      "word": "章昊Gucci生图",
-      "onboard_time": 1710180798,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 52347,
       "num": 94610,
       "word": "霍启刚建议实现大湾区体育教练资格互认",
@@ -6123,6 +6123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34780,
+      "num": 34780,
+      "word": "气得朱梓骁想拿鸡爪挠纪凌尘",
+      "onboard_time": 1710180978,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 34745,
       "num": 456003,
       "word": "用15种外国语打开中华文明",
@@ -6169,14 +6177,6 @@
       "onboard_time": 1710074490,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26356,
-      "num": 28653,
-      "word": "气得朱梓骁想拿鸡爪挠纪凌尘",
-      "onboard_time": 1710180978,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 26056,
