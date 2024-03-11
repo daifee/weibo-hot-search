@@ -1,0 +1,410 @@
+{
+  "runTime": 1710145324598,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 640394,
+        "num": 640394,
+        "word": "耙耙柑 善良的水果",
+        "onboard_time": 1710117755,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 421514,
+        "num": 421514,
+        "word": "十四届全国人大二次会议闭幕会",
+        "onboard_time": 1710139771,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11297,
+        "num": 421400,
+        "word": "两会代表委员热议重温经典频道",
+        "onboard_time": 1710145168,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1302377,
+        "num": 421396,
+        "word": "大司马承认开脚本",
+        "onboard_time": 1710143790,
+        "rank": 3,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 421385,
+        "num": 421385,
+        "word": "凯特王妃最新官方照疑造假",
+        "onboard_time": 1710133593,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 347496,
+        "num": 347496,
+        "word": "关于政府工作报告的决议表决通过",
+        "onboard_time": 1710141990,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 326195,
+        "num": 326195,
+        "word": "上海迪士尼将扩建新景点",
+        "onboard_time": 1710140189,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 248123,
+        "num": 248123,
+        "word": "林高远1比3李尚洙",
+        "onboard_time": 1710139289,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230590,
+        "num": 230590,
+        "word": "王楚钦vs格拉尔多",
+        "onboard_time": 1710140429,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226784,
+        "num": 226784,
+        "word": "淡人 浓人",
+        "onboard_time": 1710134912,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1432585,
+        "num": 226636,
+        "word": "高君雨账号已无MCN认证",
+        "onboard_time": 1710137190,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1388568,
+        "num": 226221,
+        "word": "点读机女孩手术视频被质疑是库存",
+        "onboard_time": 1710139588,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1034050,
+        "num": 225615,
+        "word": "Gucci晚宴出图",
+        "onboard_time": 1710144148,
+        "rank": 12,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1013240,
+        "num": 225295,
+        "word": "一对夫妇做短剧每月进账4亿多",
+        "onboard_time": 1710134254,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1004856,
+        "num": 224797,
+        "word": "点读机女孩 短袖",
+        "onboard_time": 1710138332,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 878535,
+        "num": 224550,
+        "word": "烦死你们有钱人了",
+        "onboard_time": 1710140550,
+        "rank": 15,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 412064,
+        "num": 223898,
+        "word": "朴振英把中国练习生带走了",
+        "onboard_time": 1710138870,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401682,
+        "num": 223744,
+        "word": "肖战射雕英雄传线下展台海报",
+        "onboard_time": 1710144450,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 388482,
+        "num": 223371,
+        "word": "点读机女孩暂未回应质疑",
+        "onboard_time": 1710138932,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 341028,
+        "num": 222910,
+        "word": "计划三天的全家游只玩了三小时",
+        "onboard_time": 1710143671,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 46079,
+        "num": 222503,
+        "word": "这些两会建议冲上热搜",
+        "onboard_time": 1710144992,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 415433,
+        "num": 221703,
+        "word": "彩礼真的是男方的家庭态度吗",
+        "onboard_time": 1710140908,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339762,
+        "num": 221606,
+        "word": "辛芷蕾撑住了贴头皮造型",
+        "onboard_time": 1710141448,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 336667,
+        "num": 220826,
+        "word": "考研三战失败我转行做玄学博主",
+        "onboard_time": 1710139227,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 335743,
+        "num": 220559,
+        "word": "Doinb老婆疑似被带走",
+        "onboard_time": 1710131677,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 300414,
+        "num": 220301,
+        "word": "剑网3永久取消装备修理费",
+        "onboard_time": 1710143790,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276360,
+        "num": 219850,
+        "word": "考公最累的不是学习",
+        "onboard_time": 1710141807,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 219536,
+        "num": 219536,
+        "word": "仍有5亿人坚持用QQ",
+        "onboard_time": 1710144211,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 216220,
+        "num": 216220,
+        "word": "张婧仪古装",
+        "onboard_time": 1710144391,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 206615,
+        "num": 206615,
+        "word": "张艺兴起诉芒果扒皮酱",
+        "onboard_time": 1710131915,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196744,
+        "num": 196744,
+        "word": "奥斯卡派对",
+        "onboard_time": 1710142890,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187612,
+        "num": 187612,
+        "word": "奥本海默",
+        "onboard_time": 1710144631,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182310,
+        "num": 182310,
+        "word": "双鱼座的爱是极致的破碎",
+        "onboard_time": 1710138932,
+        "rank": 32,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 41454,
+        "num": 182217,
+        "word": "AI视角看两会民生热词",
+        "onboard_time": 1710126989,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 182198,
+        "num": 182198,
+        "word": "今年两会第三场部长通道",
+        "onboard_time": 1710145168,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180635,
+        "num": 180635,
+        "word": "林更新换脸赵丽颖",
+        "onboard_time": 1710141928,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175478,
+        "num": 175478,
+        "word": "比特币突破71000美元",
+        "onboard_time": 1710144691,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169810,
+        "num": 169810,
+        "word": "黄铉辰澄清",
+        "onboard_time": 1710127650,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168101,
+        "num": 168101,
+        "word": "免费洗了八遍澡的流浪皮皮",
+        "onboard_time": 1710129993,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 167965,
+        "num": 167965,
+        "word": "檀健次16岁演小川 32岁演白晓宇",
+        "onboard_time": 1710137791,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165530,
+        "num": 165530,
+        "word": "新闻女王2官宣原班人马",
+        "onboard_time": 1710135454,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165337,
+        "num": 165337,
+        "word": "王楚钦3比0格拉尔多",
+        "onboard_time": 1710143612,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165274,
+        "num": 165274,
+        "word": "一年点外卖近300次29岁小伙查出胃癌",
+        "onboard_time": 1710135093,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156846,
+        "num": 156846,
+        "word": "ive香港抢票",
+        "onboard_time": 1710144870,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152426,
+        "num": 152426,
+        "word": "仙台有树开放预约",
+        "onboard_time": 1710143730,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148660,
+        "num": 148660,
+        "word": "未央回归AG",
+        "onboard_time": 1710143671,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144195,
+        "num": 144195,
+        "word": "找到了亲妈却删了她的联系方式",
+        "onboard_time": 1710123451,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140405,
+        "num": 140405,
+        "word": "奥斯卡",
+        "onboard_time": 1710118711,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137462,
+        "num": 137462,
+        "word": "终于弄清楚七分饱是多饱了",
+        "onboard_time": 1710132936,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123171,
+        "num": 123171,
+        "word": "不要让爱情输给彩礼",
+        "onboard_time": 1710142589,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#画好最大同心圆共谱壮美新华章#"
+    }
+  }
+}
