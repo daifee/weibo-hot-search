@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710161175326,
+  "endTime": 1710163154677,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1508,7 +1508,7 @@
     },
     {
       "raw_hot": 1157266,
-      "num": 346496,
+      "num": 379001,
       "word": "待在小县城为什么会有窒息感",
       "onboard_time": 1710156270,
       "rank": 25,
@@ -2395,6 +2395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 913616,
+      "num": 913616,
+      "word": "凯特王妃",
+      "onboard_time": 1709660539,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 913592,
       "num": 439189,
       "word": "哈尔滨17岁失踪高中生找到了",
@@ -2601,14 +2609,6 @@
       "onboard_time": 1709615074,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 871889,
-      "num": 340289,
-      "word": "凯特王妃",
-      "onboard_time": 1709660539,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 871122,
@@ -5091,6 +5091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594054,
+      "num": 594054,
+      "word": "许嵩演唱会抢票",
+      "onboard_time": 1710160113,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 593503,
       "num": 244844,
       "word": "韩男团成员解散后摆摊",
@@ -5779,6 +5787,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 543385,
+      "num": 375106,
+      "word": "与凤行变更为39集",
+      "onboard_time": 1710159210,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 543340,
       "num": 490071,
       "word": "霉霉演唱会 樊振东",
@@ -6003,6 +6019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529295,
+      "num": 529295,
+      "word": "孙颖莎女单",
+      "onboard_time": 1710160113,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 529157,
       "num": 279058,
       "word": "王一博Lacoste",
@@ -6076,7 +6100,7 @@
     },
     {
       "raw_hot": 525116,
-      "num": 318620,
+      "num": 352956,
       "word": "对洗衣液用量毫无概念的大学生",
       "onboard_time": 1710158850,
       "rank": 21,
@@ -6555,14 +6579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 490705,
-      "num": 490705,
-      "word": "许嵩演唱会抢票",
-      "onboard_time": 1710160113,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 490286,
       "num": 330493,
       "word": "朱雀输给民间队",
@@ -6977,6 +6993,14 @@
       "onboard_time": 1709548112,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 466892,
+      "num": 466892,
+      "word": "耙耙柑不是粑粑柑",
+      "onboard_time": 1710158011,
+      "rank": 6,
+      "category": "美食"
     },
     {
       "raw_hot": 466476,
@@ -7780,7 +7804,7 @@
     },
     {
       "raw_hot": 427633,
-      "num": 319253,
+      "num": 352684,
       "word": "女孩第一次买刮刮乐就中了100万",
       "onboard_time": 1710156749,
       "rank": 48,
@@ -8619,14 +8643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 385299,
-      "num": 385299,
-      "word": "耙耙柑不是粑粑柑",
-      "onboard_time": 1710158011,
-      "rank": 6,
-      "category": "美食"
-    },
-    {
       "raw_hot": 384599,
       "num": 384599,
       "word": "你的衣柜里有这些衣服吗",
@@ -8673,6 +8689,14 @@
       "onboard_time": 1709304754,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 382634,
+      "num": 382634,
+      "word": "FPX零封JDG",
+      "onboard_time": 1710161791,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 382570,
@@ -8939,6 +8963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 373805,
+      "num": 373805,
+      "word": "Uzi韩服账号改名JackeyLove",
+      "onboard_time": 1710161131,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 373664,
       "num": 373664,
       "word": "上班了才知道他演的有多像",
@@ -9195,6 +9227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363449,
+      "num": 363449,
+      "word": "田曦薇挑染",
+      "onboard_time": 1710160232,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 363118,
       "num": 363118,
       "word": "山东泰山1比2横滨水手",
@@ -9371,14 +9411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 354803,
-      "num": 321930,
-      "word": "与凤行变更为39集",
-      "onboard_time": 1710159210,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 354667,
       "num": 354667,
       "word": "樊振东林昀儒一起看霉霉演唱会",
@@ -9553,14 +9585,6 @@
       "onboard_time": 1709214998,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 350946,
-      "num": 321281,
-      "word": "孙颖莎女单",
-      "onboard_time": 1710160113,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 349662,
@@ -9795,6 +9819,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 341183,
+      "num": 341183,
+      "word": "辞职考研的人越来越多了",
+      "onboard_time": 1710161131,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 340666,
       "num": 259612,
       "word": "14岁不舍得给自己花钱",
@@ -9825,6 +9857,14 @@
       "onboard_time": 1709781029,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 339769,
+      "num": 362863,
+      "word": "常喝咖啡或可降低结直肠癌复发风险",
+      "onboard_time": 1710159512,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 339762,
@@ -10225,14 +10265,6 @@
       "onboard_time": 1709422882,
       "rank": 7,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 324967,
-      "num": 318892,
-      "word": "常喝咖啡或可降低结直肠癌复发风险",
-      "onboard_time": 1710159512,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 324872,
@@ -10659,6 +10691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312728,
+      "num": 361254,
+      "word": "教资考试知道成绩第一人",
+      "onboard_time": 1710162091,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 312677,
       "num": 311811,
       "word": "有一种晕叫耳石症",
@@ -10729,14 +10769,6 @@
       "onboard_time": 1710036149,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 310844,
-      "num": 310844,
-      "word": "田曦薇挑染",
-      "onboard_time": 1710160232,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 310292,
@@ -14403,6 +14435,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 221170,
+      "num": 221170,
+      "word": "RNG我哭死",
+      "onboard_time": 1710162631,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 221108,
       "num": 221108,
       "word": "狮子座其实没有那么慕强",
@@ -16979,6 +17019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193627,
+      "num": 193627,
+      "word": "FPX战胜JDG",
+      "onboard_time": 1710162211,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193534,
       "num": 193534,
       "word": "TXT FANLIVE",
@@ -17851,14 +17899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 185236,
-      "num": 185236,
-      "word": "Uzi韩服账号改名JackeyLove",
-      "onboard_time": 1710161131,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 185227,
       "num": 185227,
       "word": "分手留多久空窗期才是尊重",
@@ -18516,7 +18556,7 @@
     },
     {
       "raw_hot": 179931,
-      "num": 199259,
+      "num": 380428,
       "word": "失眠的人到底被什么困住",
       "onboard_time": 1710160592,
       "rank": 34,
@@ -21163,14 +21203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157738,
-      "num": 157738,
-      "word": "辞职考研的人越来越多了",
-      "onboard_time": 1710161131,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 157684,
       "num": 157684,
       "word": "身高体重填反了",
@@ -23073,6 +23105,14 @@
       "onboard_time": 1709376633,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144253,
+      "num": 144253,
+      "word": "国足新帅伊万科维奇率队首训",
+      "onboard_time": 1710162995,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 144224,
@@ -28188,7 +28228,7 @@
     },
     {
       "raw_hot": 105234,
-      "num": 185720,
+      "num": 223172,
       "word": "2024年两会将这样影响你的生活",
       "onboard_time": 1710161071,
       "rank": 39,
@@ -30441,6 +30481,14 @@
       "onboard_time": 1709384852,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 47209,
+      "num": 359007,
+      "word": "Gucci上海派对",
+      "onboard_time": 1710162391,
+      "rank": 20,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 47129,
