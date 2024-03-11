@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710192945314,
+  "endTime": 1710195383771,
   "band_list": [
     {
       "raw_hot": 2999065,
@@ -6027,6 +6027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 52447,
+      "num": 23546,
+      "word": "香港双婴尸案今日提堂",
+      "onboard_time": 1710194356,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 52347,
       "num": 94610,
       "word": "霍启刚建议实现大湾区体育教练资格互认",
@@ -6083,6 +6091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 45309,
+      "num": 30570,
+      "word": "刘浩存演惠英红奶奶",
+      "onboard_time": 1710185417,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 44453,
       "num": 959649,
       "word": "两会中国经济问答",
@@ -6097,14 +6113,6 @@
       "onboard_time": 1710027083,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42225,
-      "num": 23833,
-      "word": "刘浩存演惠英红奶奶",
-      "onboard_time": 1710185417,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 41336,
@@ -6203,8 +6211,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21192,
-      "num": 21192,
+      "raw_hot": 22944,
+      "num": 22944,
       "word": "高君雨签约公司曾称非常负责",
       "onboard_time": 1710186017,
       "rank": 25,
@@ -6217,6 +6225,14 @@
       "onboard_time": 1710005062,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 18341,
+      "num": 18341,
+      "word": "王鹤棣 美羊羊限定版",
+      "onboard_time": 1710192375,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 17321,
@@ -6257,14 +6273,6 @@
       "onboard_time": 1710022458,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 14820,
-      "num": 14659,
-      "word": "王鹤棣 美羊羊限定版",
-      "onboard_time": 1710192375,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 14381,

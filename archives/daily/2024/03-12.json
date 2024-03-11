@@ -1,6 +1,6 @@
 {
   "startTime": 1710174076566,
-  "endTime": 1710192945314,
+  "endTime": 1710195383771,
   "band_list": [
     {
       "raw_hot": 855766,
@@ -475,6 +475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 52447,
+      "num": 23546,
+      "word": "香港双婴尸案今日提堂",
+      "onboard_time": 1710194356,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 49838,
       "num": 49838,
       "word": "抬头接好运",
@@ -483,8 +491,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 42225,
-      "num": 23833,
+      "raw_hot": 45309,
+      "num": 30570,
       "word": "刘浩存演惠英红奶奶",
       "onboard_time": 1710185417,
       "rank": 44,
@@ -523,12 +531,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21192,
-      "num": 21192,
+      "raw_hot": 22944,
+      "num": 22944,
       "word": "高君雨签约公司曾称非常负责",
       "onboard_time": 1710186017,
       "rank": 25,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 18341,
+      "num": 18341,
+      "word": "王鹤棣 美羊羊限定版",
+      "onboard_time": 1710192375,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 15504,
@@ -539,15 +555,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 14820,
-      "num": 14659,
-      "word": "王鹤棣 美羊羊限定版",
-      "onboard_time": 1710192375,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 7115,
+      "raw_hot": 7230,
       "num": 110993,
       "word": "共话新质生产力",
       "onboard_time": 1710146311,
