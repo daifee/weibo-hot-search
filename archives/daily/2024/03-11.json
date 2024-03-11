@@ -1,6 +1,6 @@
 {
   "startTime": 1710087619285,
-  "endTime": 1710123850023,
+  "endTime": 1710124532576,
   "band_list": [
     {
       "raw_hot": 1969424,
@@ -19,20 +19,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1240717,
+      "num": 1240717,
+      "word": "男子因社恐40岁才找到合适的工作",
+      "onboard_time": 1710120752,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1197085,
       "num": 1197085,
       "word": "个税起征点提高至1万元谁最受益",
       "onboard_time": 1710113126,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1104974,
-      "num": 1104974,
-      "word": "男子因社恐40岁才找到合适的工作",
-      "onboard_time": 1710120752,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1102125,
@@ -67,8 +67,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 831370,
-      "num": 831370,
+      "raw_hot": 930390,
+      "num": 930390,
       "word": "癌症来临时身体会喊痛",
       "onboard_time": 1710121468,
       "rank": 11,
@@ -135,6 +135,14 @@
       "num": 490426,
       "word": "2024奥斯卡红毯",
       "onboard_time": 1710112762,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 639269,
+      "num": 639269,
+      "word": "基里安墨菲奥斯卡影帝",
+      "onboard_time": 1710123213,
       "rank": 9,
       "category": "电影"
     },
@@ -212,11 +220,19 @@
     },
     {
       "raw_hot": 485820,
-      "num": 233802,
+      "num": 446887,
       "word": "宁波女子洗车竟被店员洗公仔擦鞋",
       "onboard_time": 1710122191,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477383,
+      "num": 417790,
+      "word": "奥本海默横扫",
+      "onboard_time": 1710123271,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 469065,
@@ -225,14 +241,6 @@
       "onboard_time": 1710071372,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 458877,
-      "num": 458877,
-      "word": "基里安墨菲奥斯卡影帝",
-      "onboard_time": 1710123213,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 453643,
@@ -291,12 +299,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 351912,
+      "num": 351912,
+      "word": "奥本海默奥斯卡最佳影片",
+      "onboard_time": 1710124049,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 343974,
       "num": 336971,
       "word": "白桃星座",
       "onboard_time": 1710086130,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 338493,
+      "num": 338493,
+      "word": "石头姐二封奥斯卡影后",
+      "onboard_time": 1710123749,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 319247,
+      "num": 319247,
+      "word": "美宝莲为什么被嫌弃了",
+      "onboard_time": 1710122969,
+      "rank": 21,
+      "category": "美妆"
     },
     {
       "raw_hot": 302267,
@@ -323,6 +355,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 279174,
+      "num": 279174,
+      "word": "国家线什么时候出",
+      "onboard_time": 1710123451,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 272589,
       "num": 228281,
       "word": "沈腾拍得像被捕了",
@@ -339,12 +379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 265560,
-      "num": 216753,
-      "word": "美宝莲为什么被嫌弃了",
-      "onboard_time": 1710122969,
-      "rank": 21,
-      "category": "美妆"
+      "raw_hot": 263685,
+      "num": 173241,
+      "word": "找到了亲妈却删了她的联系方式",
+      "onboard_time": 1710123451,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 257216,
@@ -361,6 +401,14 @@
       "onboard_time": 1710079172,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253679,
+      "num": 253679,
+      "word": "奥斯卡获奖名单",
+      "onboard_time": 1710123451,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 250759,
@@ -427,14 +475,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 215749,
-      "num": 215749,
-      "word": "奥本海默横扫",
-      "onboard_time": 1710123271,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 214106,
       "num": 214106,
       "word": "美国女子带死者到银行刷脸盗取存款",
@@ -451,28 +491,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 201175,
-      "num": 201175,
-      "word": "奥斯卡获奖名单",
-      "onboard_time": 1710123451,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 200716,
       "num": 200716,
       "word": "X疾病是什么",
       "onboard_time": 1710119432,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 199711,
-      "num": 199711,
-      "word": "国家线什么时候出",
-      "onboard_time": 1710123451,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 198359,
@@ -539,6 +563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 185800,
+      "num": 185800,
+      "word": "A股",
+      "onboard_time": 1710123813,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 183156,
       "num": 183156,
       "word": "北京偶遇朴振英",
@@ -571,20 +603,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169268,
+      "num": 169268,
+      "word": "30岁了我妈还在我的家长群里",
+      "onboard_time": 1710123813,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169216,
       "num": 169216,
       "word": "7类食物焯水后才能吃",
       "onboard_time": 1710079234,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 167500,
-      "num": 167500,
-      "word": "找到了亲妈却删了她的联系方式",
-      "onboard_time": 1710123451,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 166389,
@@ -659,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153576,
+      "num": 153576,
+      "word": "外媒报道赵丽颖获奖",
+      "onboard_time": 1710124234,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 151490,
       "num": 154656,
       "word": "新手友好的春花拍摄技巧",
@@ -683,6 +723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141331,
+      "num": 141331,
+      "word": "最会谈薪的女孩",
+      "onboard_time": 1710123933,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140668,
       "num": 140668,
       "word": "建议大家雨天还是打伞吧",
@@ -705,6 +753,22 @@
       "onboard_time": 1710081454,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138306,
+      "num": 138306,
+      "word": "我是怎么一步一步没有朋友的",
+      "onboard_time": 1710124289,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 136866,
+      "num": 136866,
+      "word": "二月二龙抬头要做的事",
+      "onboard_time": 1710123813,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 136840,
@@ -771,14 +835,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 118833,
-      "num": 118833,
-      "word": "二月二龙抬头要做的事",
-      "onboard_time": 1710123813,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 118380,
       "num": 118380,
       "word": "只有i人受伤的世界达成了",
@@ -811,6 +867,14 @@
       "category": "科学科普,情感"
     },
     {
+      "raw_hot": 112795,
+      "num": 112795,
+      "word": "奥斯卡提名",
+      "onboard_time": 1710124407,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112381,
       "num": 112381,
       "word": "草木人间",
@@ -827,28 +891,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111705,
-      "num": 111705,
-      "word": "石头姐二封奥斯卡影后",
-      "onboard_time": 1710123749,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 111371,
       "num": 111371,
       "word": "狗狗Messi鼓掌",
       "onboard_time": 1710122134,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 110561,
-      "num": 110561,
-      "word": "30岁了我妈还在我的家长群里",
-      "onboard_time": 1710123813,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 110083,
@@ -865,14 +913,6 @@
       "onboard_time": 1710112762,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106249,
-      "num": 106249,
-      "word": "A股",
-      "onboard_time": 1710123813,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 105384,

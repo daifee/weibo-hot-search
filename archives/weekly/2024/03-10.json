@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710123850023,
+  "endTime": 1710124532576,
   "band_list": [
     {
       "raw_hot": 2869929,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1240717,
+      "num": 1240717,
+      "word": "男子因社恐40岁才找到合适的工作",
+      "onboard_time": 1710120752,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1225837,
       "num": 1225837,
       "word": "9块9的咖啡还能喝多久",
@@ -121,14 +129,6 @@
       "onboard_time": 1710062910,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1104974,
-      "num": 1104974,
-      "word": "男子因社恐40岁才找到合适的工作",
-      "onboard_time": 1710120752,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1102125,
@@ -227,6 +227,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 930390,
+      "num": 930390,
+      "word": "癌症来临时身体会喊痛",
+      "onboard_time": 1710121468,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 929057,
       "num": 496698,
       "word": "哥哥 你看起来也不大",
@@ -289,14 +297,6 @@
       "onboard_time": 1710073772,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 831370,
-      "num": 831370,
-      "word": "癌症来临时身体会喊痛",
-      "onboard_time": 1710121468,
-      "rank": 11,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 810838,
@@ -487,6 +487,14 @@
       "num": 490426,
       "word": "2024奥斯卡红毯",
       "onboard_time": 1710112762,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 639269,
+      "num": 639269,
+      "word": "基里安墨菲奥斯卡影帝",
+      "onboard_time": 1710123213,
       "rank": 9,
       "category": "电影"
     },
@@ -756,11 +764,19 @@
     },
     {
       "raw_hot": 485820,
-      "num": 233802,
+      "num": 446887,
       "word": "宁波女子洗车竟被店员洗公仔擦鞋",
       "onboard_time": 1710122191,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477383,
+      "num": 417790,
+      "word": "奥本海默横扫",
+      "onboard_time": 1710123271,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 461851,
@@ -769,14 +785,6 @@
       "onboard_time": 1710077552,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 458877,
-      "num": 458877,
-      "word": "基里安墨菲奥斯卡影帝",
-      "onboard_time": 1710123213,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 453643,
@@ -1043,6 +1051,14 @@
       "category": "体育,演出"
     },
     {
+      "raw_hot": 351912,
+      "num": 351912,
+      "word": "奥本海默奥斯卡最佳影片",
+      "onboard_time": 1710124049,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 348973,
       "num": 348973,
       "word": "平野美宇3比0早田希娜",
@@ -1080,6 +1096,14 @@
       "word": "热辣滚烫 华语北美十年最大规模开画",
       "onboard_time": 1710047370,
       "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 338493,
+      "num": 338493,
+      "word": "石头姐二封奥斯卡影后",
+      "onboard_time": 1710123749,
+      "rank": 44,
       "category": "电影"
     },
     {
@@ -1137,6 +1161,14 @@
       "onboard_time": 1710044968,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319247,
+      "num": 319247,
+      "word": "美宝莲为什么被嫌弃了",
+      "onboard_time": 1710122969,
+      "rank": 21,
+      "category": "美妆"
     },
     {
       "raw_hot": 317619,
@@ -1299,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 279174,
+      "num": 279174,
+      "word": "国家线什么时候出",
+      "onboard_time": 1710123451,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 277875,
       "num": 277875,
       "word": "檀健次王鹤棣回复hi6",
@@ -1347,20 +1387,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 265560,
-      "num": 216753,
-      "word": "美宝莲为什么被嫌弃了",
-      "onboard_time": 1710122969,
-      "rank": 21,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 265043,
       "num": 265043,
       "word": "美国女子拍下老公用枪打死自己视频",
       "onboard_time": 1709984492,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263685,
+      "num": 173241,
+      "word": "找到了亲妈却删了她的联系方式",
+      "onboard_time": 1710123451,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 263683,
@@ -1409,6 +1449,14 @@
       "onboard_time": 1710064950,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 253679,
+      "num": 253679,
+      "word": "奥斯卡获奖名单",
+      "onboard_time": 1710123451,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 253246,
@@ -1627,14 +1675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215749,
-      "num": 215749,
-      "word": "奥本海默横扫",
-      "onboard_time": 1710123271,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 214514,
       "num": 214514,
       "word": "领养一年的猫前主人说要回去",
@@ -1739,14 +1779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 201175,
-      "num": 201175,
-      "word": "奥斯卡获奖名单",
-      "onboard_time": 1710123451,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 200993,
       "num": 200993,
       "word": "向佐上岛了",
@@ -1761,14 +1793,6 @@
       "onboard_time": 1710119432,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 199711,
-      "num": 199711,
-      "word": "国家线什么时候出",
-      "onboard_time": 1710123451,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 199219,
@@ -1995,6 +2019,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 185800,
+      "num": 185800,
+      "word": "A股",
+      "onboard_time": 1710123813,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 185762,
       "num": 185762,
       "word": "领导让新来的00后分享喜欢看的书",
@@ -2203,6 +2235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 169268,
+      "num": 169268,
+      "word": "30岁了我妈还在我的家长群里",
+      "onboard_time": 1710123813,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169254,
       "num": 169254,
       "word": "法国赛凡晨组合女双夺冠",
@@ -2217,14 +2257,6 @@
       "onboard_time": 1710055711,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167500,
-      "num": 167500,
-      "word": "找到了亲妈却删了她的联系方式",
-      "onboard_time": 1710123451,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 167101,
@@ -2443,6 +2475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153576,
+      "num": 153576,
+      "word": "外媒报道赵丽颖获奖",
+      "onboard_time": 1710124234,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152977,
       "num": 152977,
       "word": "伊丽莎白女王号航母发生火灾",
@@ -2651,6 +2691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 141331,
+      "num": 141331,
+      "word": "最会谈薪的女孩",
+      "onboard_time": 1710123933,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140974,
       "num": 140974,
       "word": "什么样的孩子才能成为大科学家",
@@ -2683,6 +2731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138306,
+      "num": 138306,
+      "word": "我是怎么一步一步没有朋友的",
+      "onboard_time": 1710124289,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137825,
       "num": 137825,
       "word": "数码宝贝 我推的孩子",
@@ -2713,6 +2769,14 @@
       "onboard_time": 1710031407,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136866,
+      "num": 136866,
+      "word": "二月二龙抬头要做的事",
+      "onboard_time": 1710123813,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 136840,
@@ -3027,14 +3091,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 118833,
-      "num": 118833,
-      "word": "二月二龙抬头要做的事",
-      "onboard_time": 1710123813,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 118512,
       "num": 118512,
       "word": "金庸曾希望百年后还有人看他的小说",
@@ -3187,6 +3243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112795,
+      "num": 112795,
+      "word": "奥斯卡提名",
+      "onboard_time": 1710124407,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112758,
       "num": 112758,
       "word": "WTT晒数据点赞孙颖莎最佳",
@@ -3211,14 +3275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111705,
-      "num": 111705,
-      "word": "石头姐二封奥斯卡影后",
-      "onboard_time": 1710123749,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 111553,
       "num": 1200561,
       "word": "当甲骨文穿越到2024年的中国",
@@ -3241,14 +3297,6 @@
       "onboard_time": 1710081873,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110561,
-      "num": 110561,
-      "word": "30岁了我妈还在我的家长群里",
-      "onboard_time": 1710123813,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 109974,
@@ -3337,14 +3385,6 @@
       "onboard_time": 1710030867,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106249,
-      "num": 106249,
-      "word": "A股",
-      "onboard_time": 1710123813,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 105060,
