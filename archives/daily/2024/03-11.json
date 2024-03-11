@@ -1,18 +1,18 @@
 {
   "startTime": 1710087619285,
-  "endTime": 1710119528546,
+  "endTime": 1710120677050,
   "band_list": [
     {
-      "raw_hot": 1805879,
-      "num": 1805879,
+      "raw_hot": 1969424,
+      "num": 1969424,
       "word": "耙耙柑 善良的水果",
       "onboard_time": 1710117755,
       "rank": 0,
       "category": "美食"
     },
     {
-      "raw_hot": 1300640,
-      "num": 1300640,
+      "raw_hot": 1748529,
+      "num": 1748529,
       "word": "奥斯卡",
       "onboard_time": 1710118711,
       "rank": 1,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1050567,
-      "num": 502778,
+      "num": 505610,
       "word": "iPhone降价已成常规促销手段",
       "onboard_time": 1710115770,
       "rank": 10,
@@ -107,6 +107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 562843,
+      "num": 562843,
+      "word": "小罗伯特唐尼奥斯卡最佳男配角",
+      "onboard_time": 1710118532,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 561031,
       "num": 561031,
       "word": "男方出资登记女方名下房产归谁",
@@ -129,6 +137,14 @@
       "onboard_time": 1710084031,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 502340,
+      "num": 502340,
+      "word": "建议对65岁无养老金人群发基础养老金",
+      "onboard_time": 1710118653,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 498616,
@@ -179,14 +195,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 447240,
-      "num": 447240,
-      "word": "小罗伯特唐尼奥斯卡最佳男配角",
-      "onboard_time": 1710118532,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 434019,
       "num": 434019,
       "word": "上海地铁11号线",
@@ -227,6 +235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 344948,
+      "num": 344948,
+      "word": "相亲对象是我曾经删掉的人",
+      "onboard_time": 1710119014,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 343974,
       "num": 336971,
       "word": "白桃星座",
@@ -251,12 +267,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 277894,
-      "num": 277894,
-      "word": "建议对65岁无养老金人群发基础养老金",
-      "onboard_time": 1710118653,
-      "rank": 23,
-      "category": "国内时政"
+      "raw_hot": 287609,
+      "num": 287609,
+      "word": "为啥什么APP都要相机位置权限",
+      "onboard_time": 1710119850,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 272589,
@@ -265,6 +281,14 @@
       "onboard_time": 1710096137,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271078,
+      "num": 271078,
+      "word": "张艺谋给赵丽颖粉丝签名",
+      "onboard_time": 1710119314,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 267605,
@@ -291,20 +315,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250759,
+      "num": 250759,
+      "word": "电影射雕英雄传侠之大者",
+      "onboard_time": 1710117814,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 250296,
+      "num": 250296,
+      "word": "谷爱凌夺金后马上赶回学校上课",
+      "onboard_time": 1710119850,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248054,
       "num": 248054,
       "word": "网传Gucci晚宴嘉宾名单",
       "onboard_time": 1710076292,
       "rank": 16,
       "category": "作品衍生,艺人"
-    },
-    {
-      "raw_hot": 241817,
-      "num": 241817,
-      "word": "电影射雕英雄传侠之大者",
-      "onboard_time": 1710117814,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 231892,
@@ -315,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230058,
+      "num": 230058,
+      "word": "打印准考证",
+      "onboard_time": 1710120510,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 229815,
       "num": 229815,
       "word": "波兰外长称北约军队已抵达乌克兰",
@@ -323,12 +363,20 @@
       "category": "国外时政,军事"
     },
     {
-      "raw_hot": 218735,
-      "num": 218735,
+      "raw_hot": 223867,
+      "num": 223867,
       "word": "猫 领养之前也没说要这样啊",
       "onboard_time": 1710117573,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216490,
+      "num": 216490,
+      "word": "黄旭熙将4月1日solo出道",
+      "onboard_time": 1710119610,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 214106,
@@ -345,6 +393,14 @@
       "onboard_time": 1710112223,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200716,
+      "num": 200716,
+      "word": "X疾病是什么",
+      "onboard_time": 1710119432,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 198359,
@@ -395,6 +451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187355,
+      "num": 187355,
+      "word": "亚运会霍启刚郭晶晶都在却没见过面",
+      "onboard_time": 1710120270,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183156,
       "num": 183156,
       "word": "北京偶遇朴振英",
@@ -417,14 +481,6 @@
       "onboard_time": 1710118711,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169549,
-      "num": 169549,
-      "word": "张艺谋给赵丽颖粉丝签名",
-      "onboard_time": 1710119314,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 169216,
@@ -483,12 +539,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 144130,
-      "num": 144130,
+      "raw_hot": 155397,
+      "num": 155397,
+      "word": "看不够的中国龙",
+      "onboard_time": 1710120334,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 151490,
+      "num": 154656,
       "word": "新手友好的春花拍摄技巧",
       "onboard_time": 1710119372,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 149341,
+      "num": 149341,
+      "word": "男子在120远程指导下为妻子接生",
+      "onboard_time": 1710120634,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143362,
@@ -523,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138383,
-      "num": 138383,
-      "word": "相亲对象是我曾经删掉的人",
-      "onboard_time": 1710119014,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 136840,
       "num": 136840,
       "word": "知名餐饮品牌被曝只剩两家店",
@@ -545,14 +609,6 @@
       "onboard_time": 1710116731,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 132759,
-      "num": 132759,
-      "word": "X疾病是什么",
-      "onboard_time": 1710119432,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 132095,
@@ -851,7 +907,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18030,
+      "raw_hot": 23277,
       "num": 1200561,
       "word": "当甲骨文穿越到2024年的中国",
       "onboard_time": 1710058408,
