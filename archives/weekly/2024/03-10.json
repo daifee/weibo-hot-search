@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710139039952,
+  "endTime": 1710141416591,
   "band_list": [
     {
       "raw_hot": 2928217,
@@ -67,20 +67,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1755823,
+      "num": 304778,
+      "word": "高君雨账号已无MCN认证",
+      "onboard_time": 1710137190,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1731462,
       "num": 1731462,
       "word": "今年二月二真有龙抬头",
       "onboard_time": 1710076769,
       "rank": 26,
       "category": "自然"
-    },
-    {
-      "raw_hot": 1690255,
-      "num": 304778,
-      "word": "高君雨账号已无MCN认证",
-      "onboard_time": 1710137190,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1572473,
@@ -97,6 +97,22 @@
       "onboard_time": 1710131677,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1440735,
+      "num": 300056,
+      "word": "点读机女孩 短袖",
+      "onboard_time": 1710138332,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1439720,
+      "num": 1439720,
+      "word": "十四届全国人大二次会议闭幕会",
+      "onboard_time": 1710139771,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1392401,
@@ -339,6 +355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 877662,
+      "num": 245368,
+      "word": "点读机女孩手术视频被质疑是库存",
+      "onboard_time": 1710139588,
+      "rank": 13,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 859735,
       "num": 300265,
       "word": "王诗龄长发",
@@ -579,14 +603,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 651359,
-      "num": 300056,
-      "word": "点读机女孩 短袖",
-      "onboard_time": 1710138332,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 651227,
       "num": 651227,
       "word": "石头姐 全球最强85花",
@@ -675,12 +691,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 600659,
+      "num": 245330,
+      "word": "点读机女孩暂未回应质疑",
+      "onboard_time": 1710138932,
+      "rank": 31,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 598912,
       "num": 598912,
       "word": "赵丽颖看着奖杯笑了",
       "onboard_time": 1710114931,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 596899,
+      "num": 304911,
+      "word": "朴振英把中国练习生带走了",
+      "onboard_time": 1710138870,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 595429,
@@ -1155,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384300,
+      "num": 384300,
+      "word": "林高远1比3李尚洙",
+      "onboard_time": 1710139289,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 381843,
       "num": 381843,
       "word": "国家疾控局回应X疾病或会暴发警告",
@@ -1201,6 +1241,14 @@
       "onboard_time": 1709997212,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 369978,
+      "num": 245173,
+      "word": "王楚钦vs格拉尔多",
+      "onboard_time": 1710140429,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 367591,
@@ -1289,6 +1337,14 @@
       "onboard_time": 1710058949,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 346334,
+      "num": 245054,
+      "word": "彩礼真的是男方的家庭态度吗",
+      "onboard_time": 1710140908,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 343974,
@@ -1475,14 +1531,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 304911,
-      "num": 304911,
-      "word": "朴振英把中国练习生带走了",
-      "onboard_time": 1710138870,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303023,
       "num": 243256,
       "word": "女子超量服20天布洛芬引发脑梗死",
@@ -1505,6 +1553,14 @@
       "onboard_time": 1710117573,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301259,
+      "num": 245041,
+      "word": "考研三战失败我转行做玄学博主",
+      "onboard_time": 1710139227,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 300678,
@@ -1593,6 +1649,14 @@
       "onboard_time": 1710127771,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283032,
+      "num": 249672,
+      "word": "檀健次16岁演小川 32岁演白晓宇",
+      "onboard_time": 1710137791,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 279174,
@@ -1763,14 +1827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 249672,
-      "num": 249672,
-      "word": "檀健次16岁演小川 32岁演白晓宇",
-      "onboard_time": 1710137791,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 248244,
       "num": 248244,
       "word": "微信里你不知道的小妙招",
@@ -1811,6 +1867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 244921,
+      "num": 244921,
+      "word": "惜花芷预告",
+      "onboard_time": 1710140007,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243431,
       "num": 243431,
       "word": "银行个人黄金积存业务火爆",
@@ -1849,6 +1913,14 @@
       "onboard_time": 1709981129,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 235024,
+      "num": 235024,
+      "word": "双鱼座的爱是极致的破碎",
+      "onboard_time": 1710138932,
+      "rank": 34,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 233362,
@@ -1913,6 +1985,14 @@
       "onboard_time": 1710052711,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 226852,
+      "num": 226852,
+      "word": "阿里大文娱50亿投入港艺振兴计划",
+      "onboard_time": 1710139112,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 226508,
@@ -2107,6 +2187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206421,
+      "num": 206421,
+      "word": "烦死你们有钱人了",
+      "onboard_time": 1710140550,
+      "rank": 31,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 205727,
       "num": 205727,
       "word": "e人遛i狗",
@@ -2209,6 +2297,14 @@
       "onboard_time": 1710138332,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198155,
+      "num": 198155,
+      "word": "上海迪士尼将扩建新景点",
+      "onboard_time": 1710140189,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 197853,
@@ -2739,14 +2835,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167624,
-      "num": 167624,
-      "word": "点读机女孩暂未回应质疑",
-      "onboard_time": 1710138932,
-      "rank": 31,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 167101,
       "num": 167101,
       "word": "哈登庖丁解牛",
@@ -2817,6 +2905,14 @@
       "onboard_time": 1710118476,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163328,
+      "num": 163328,
+      "word": "建议加快反虐待动物立法",
+      "onboard_time": 1710141088,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 163225,
@@ -3139,14 +3235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145107,
-      "num": 145107,
-      "word": "双鱼座的爱是极致的破碎",
-      "onboard_time": 1710138932,
-      "rank": 34,
-      "category": "情感,网红"
-    },
-    {
       "raw_hot": 145083,
       "num": 145083,
       "word": "每个人都在现实中挣扎",
@@ -3177,6 +3265,14 @@
       "onboard_time": 1710060208,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 144224,
+      "num": 144224,
+      "word": "这爸爸有事他真不当回事",
+      "onboard_time": 1710138449,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 143362,
@@ -3363,14 +3459,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 136610,
-      "num": 136610,
-      "word": "这爸爸有事他真不当回事",
-      "onboard_time": 1710138449,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 136576,
       "num": 136576,
       "word": "WTT新加坡",
@@ -3403,6 +3491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 134901,
+      "num": 134901,
+      "word": "sheer获周最佳新秀",
+      "onboard_time": 1710141030,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134630,
       "num": 134630,
       "word": "连线最高法",
@@ -3417,6 +3513,14 @@
       "onboard_time": 1710079474,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134445,
+      "num": 134445,
+      "word": "欧文一代全球影响力",
+      "onboard_time": 1710141266,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 134411,
@@ -3555,12 +3659,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128205,
+      "num": 128205,
+      "word": "00后老师vs资深老教师",
+      "onboard_time": 1710140429,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127813,
       "num": 127813,
       "word": "NV单局20淘汰",
       "onboard_time": 1710083012,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127012,
+      "num": 127012,
+      "word": "人生是一张三万天的地球村体验卡",
+      "onboard_time": 1710140550,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 127001,
@@ -3961,6 +4081,14 @@
       "onboard_time": 1710081873,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110590,
+      "num": 110590,
+      "word": "一代人有一代人的主题婚礼",
+      "onboard_time": 1710140908,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 109974,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1710141416591,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1439720,
+        "num": 1439720,
+        "word": "十四届全国人大二次会议闭幕会",
+        "onboard_time": 1710139771,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391226,
+        "num": 391226,
+        "word": "林高远vs李尚洙",
+        "onboard_time": 1710137670,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40414,
+        "num": 387505,
+        "word": "十四届全国人大二次会议今天闭幕",
+        "onboard_time": 1710127771,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 441777,
+        "num": 387115,
+        "word": "凯特王妃最新官方照疑造假",
+        "onboard_time": 1710133593,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 425905,
+        "num": 386749,
+        "word": "淡人 浓人",
+        "onboard_time": 1710134912,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385449,
+        "num": 385449,
+        "word": "耙耙柑 善良的水果",
+        "onboard_time": 1710117755,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 384300,
+        "num": 384300,
+        "word": "林高远1比3李尚洙",
+        "onboard_time": 1710139289,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325087,
+        "num": 325087,
+        "word": "董明珠称一年拿几百万愿意多承担一点税",
+        "onboard_time": 1710125668,
+        "rank": 7,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 263289,
+        "num": 263289,
+        "word": "今年两会第三场代表通道",
+        "onboard_time": 1710136831,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245527,
+        "num": 245527,
+        "word": "宁德时代暴涨超13%",
+        "onboard_time": 1710135331,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1755823,
+        "num": 245501,
+        "word": "高君雨账号已无MCN认证",
+        "onboard_time": 1710137190,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1440735,
+        "num": 245448,
+        "word": "点读机女孩 短袖",
+        "onboard_time": 1710138332,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1338109,
+        "num": 245417,
+        "word": "一对夫妇做短剧每月进账4亿多",
+        "onboard_time": 1710134254,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 877662,
+        "num": 245368,
+        "word": "点读机女孩手术视频被质疑是库存",
+        "onboard_time": 1710139588,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 600659,
+        "num": 245330,
+        "word": "点读机女孩暂未回应质疑",
+        "onboard_time": 1710138932,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 596899,
+        "num": 245280,
+        "word": "朴振英把中国练习生带走了",
+        "onboard_time": 1710138870,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517769,
+        "num": 245226,
+        "word": "Doinb老婆疑似被带走",
+        "onboard_time": 1710131677,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 418985,
+        "num": 245204,
+        "word": "张艺兴起诉芒果扒皮酱",
+        "onboard_time": 1710131915,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369978,
+        "num": 245173,
+        "word": "王楚钦vs格拉尔多",
+        "onboard_time": 1710140429,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328859,
+        "num": 245107,
+        "word": "新闻女王2官宣原班人马",
+        "onboard_time": 1710135454,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346334,
+        "num": 245054,
+        "word": "彩礼真的是男方的家庭态度吗",
+        "onboard_time": 1710140908,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301259,
+        "num": 245041,
+        "word": "考研三战失败我转行做玄学博主",
+        "onboard_time": 1710139227,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 283032,
+        "num": 244976,
+        "word": "檀健次16岁演小川 32岁演白晓宇",
+        "onboard_time": 1710137791,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 257592,
+        "num": 244946,
+        "word": "一年点外卖近300次29岁小伙查出胃癌",
+        "onboard_time": 1710135093,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244921,
+        "num": 244921,
+        "word": "惜花芷预告",
+        "onboard_time": 1710140007,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236264,
+        "num": 236264,
+        "word": "找到了亲妈却删了她的联系方式",
+        "onboard_time": 1710123451,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235024,
+        "num": 235024,
+        "word": "双鱼座的爱是极致的破碎",
+        "onboard_time": 1710138932,
+        "rank": 26,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 226852,
+        "num": 226852,
+        "word": "阿里大文娱50亿投入港艺振兴计划",
+        "onboard_time": 1710139112,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 226305,
+        "num": 226305,
+        "word": "黄铉辰澄清",
+        "onboard_time": 1710127650,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213077,
+        "num": 213077,
+        "word": "奥斯卡",
+        "onboard_time": 1710118711,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211182,
+        "num": 211182,
+        "word": "赵丽颖林更新与凤行情头",
+        "onboard_time": 1710135934,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206421,
+        "num": 206421,
+        "word": "烦死你们有钱人了",
+        "onboard_time": 1710140550,
+        "rank": 31,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 198155,
+        "num": 198155,
+        "word": "上海迪士尼将扩建新景点",
+        "onboard_time": 1710140189,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 191588,
+        "num": 191588,
+        "word": "网红铁头小号开播再被封",
+        "onboard_time": 1710136412,
+        "rank": 33,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 190965,
+        "num": 190965,
+        "word": "酒店钟点房的受众群体",
+        "onboard_time": 1710129213,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177875,
+        "num": 177875,
+        "word": "终于弄清楚七分饱是多饱了",
+        "onboard_time": 1710132936,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173750,
+        "num": 173750,
+        "word": "打印准考证",
+        "onboard_time": 1710120510,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163328,
+        "num": 163328,
+        "word": "建议加快反虐待动物立法",
+        "onboard_time": 1710141088,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160585,
+        "num": 160585,
+        "word": "孟子义陈都灵自拍",
+        "onboard_time": 1710135992,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148016,
+        "num": 148016,
+        "word": "免费洗了八遍澡的流浪皮皮",
+        "onboard_time": 1710129993,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 144224,
+        "num": 144224,
+        "word": "这爸爸有事他真不当回事",
+        "onboard_time": 1710138449,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134901,
+        "num": 134901,
+        "word": "sheer获周最佳新秀",
+        "onboard_time": 1710141030,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134445,
+        "num": 134445,
+        "word": "欧文一代全球影响力",
+        "onboard_time": 1710141266,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128205,
+        "num": 128205,
+        "word": "00后老师vs资深老教师",
+        "onboard_time": 1710140429,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127794,
+        "num": 127794,
+        "word": "癌症来临时身体会喊痛",
+        "onboard_time": 1710121468,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127012,
+        "num": 127012,
+        "word": "人生是一张三万天的地球村体验卡",
+        "onboard_time": 1710140550,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119655,
+        "num": 119655,
+        "word": "中式父子关系",
+        "onboard_time": 1710138809,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118008,
+        "num": 118008,
+        "word": "这才是龙年龙抬头的正确打开方式",
+        "onboard_time": 1710138027,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110590,
+        "num": 110590,
+        "word": "一代人有一代人的主题婚礼",
+        "onboard_time": 1710140908,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108639,
+        "num": 108639,
+        "word": "徐海乔赵丽颖二搭",
+        "onboard_time": 1710132696,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#为高质量发展注入新动能塑造新优势#"
+    }
+  }
+}
