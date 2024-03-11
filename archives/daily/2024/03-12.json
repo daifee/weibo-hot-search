@@ -1,6 +1,6 @@
 {
   "startTime": 1710174076566,
-  "endTime": 1710191904171,
+  "endTime": 1710192945314,
   "band_list": [
     {
       "raw_hot": 855766,
@@ -537,6 +537,14 @@
       "onboard_time": 1710168453,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 14820,
+      "num": 14659,
+      "word": "王鹤棣 美羊羊限定版",
+      "onboard_time": 1710192375,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 7115,
