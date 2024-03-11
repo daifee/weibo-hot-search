@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710163154677,
+  "endTime": 1710164047063,
   "band_list": [
     {
       "raw_hot": 2999065,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1515269,
-      "num": 429934,
+      "num": 460715,
       "word": "高君雨手术是毕业后做的",
       "onboard_time": 1710152313,
       "rank": 28,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 1157266,
-      "num": 379001,
+      "num": 462929,
       "word": "待在小县城为什么会有窒息感",
       "onboard_time": 1710156270,
       "rank": 25,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 1035157,
-      "num": 425546,
+      "num": 430586,
       "word": "多方回应网友质疑高君雨脑瘤手术视频",
       "onboard_time": 1710150931,
       "rank": 12,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 858988,
-      "num": 425201,
+      "num": 462255,
       "word": "倪妮的腿低调不了一点",
       "onboard_time": 1710151232,
       "rank": 17,
@@ -779,6 +779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 640302,
+      "num": 640302,
+      "word": "孙颖莎女单",
+      "onboard_time": 1710160113,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 639269,
       "num": 639269,
       "word": "基里安墨菲奥斯卡影帝",
@@ -931,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575725,
+      "num": 461709,
+      "word": "与凤行变更为39集",
+      "onboard_time": 1710159210,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 571659,
       "num": 571659,
       "word": "宁静打了焉栩嘉一耳光",
@@ -1035,14 +1051,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 543385,
-      "num": 375106,
-      "word": "与凤行变更为39集",
-      "onboard_time": 1710159210,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 542494,
       "num": 542494,
       "word": "二月二龙抬头有哪些习俗",
@@ -1081,14 +1089,6 @@
       "onboard_time": 1710081454,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 529295,
-      "num": 529295,
-      "word": "孙颖莎女单",
-      "onboard_time": 1710160113,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 527802,
@@ -1265,6 +1265,14 @@
       "onboard_time": 1710077552,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 460265,
+      "num": 460265,
+      "word": "教资考试知道成绩第一人",
+      "onboard_time": 1710162091,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 453643,
@@ -1555,6 +1563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 368883,
+      "num": 465353,
+      "word": "田曦薇挑染",
+      "onboard_time": 1710160232,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 367785,
       "num": 367785,
       "word": "建议加快反虐待动物立法",
@@ -1593,14 +1609,6 @@
       "onboard_time": 1710146612,
       "rank": 9,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 363449,
-      "num": 363449,
-      "word": "田曦薇挑染",
-      "onboard_time": 1710160232,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 360330,
@@ -1683,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 345373,
+      "num": 362863,
+      "word": "常喝咖啡或可降低结直肠癌复发风险",
+      "onboard_time": 1710159512,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 343974,
       "num": 336971,
       "word": "白桃星座",
@@ -1723,14 +1739,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 339769,
-      "num": 362863,
-      "word": "常喝咖啡或可降低结直肠癌复发风险",
-      "onboard_time": 1710159512,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 339762,
       "num": 248789,
       "word": "辛芷蕾撑住了贴头皮造型",
@@ -1745,6 +1753,14 @@
       "onboard_time": 1710146552,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 337384,
+      "num": 337384,
+      "word": "孟佳筷子腿",
+      "onboard_time": 1710163172,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 336989,
@@ -1897,14 +1913,6 @@
       "onboard_time": 1710061290,
       "rank": 16,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 312728,
-      "num": 361254,
-      "word": "教资考试知道成绩第一人",
-      "onboard_time": 1710162091,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 311824,
@@ -2403,6 +2411,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 237557,
+      "num": 237557,
+      "word": "RNG我哭死",
+      "onboard_time": 1710162631,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 236813,
       "num": 217268,
       "word": "现在的朋友圈越来越低调了",
@@ -2571,14 +2587,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 221170,
-      "num": 221170,
-      "word": "RNG我哭死",
-      "onboard_time": 1710162631,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 221038,
       "num": 221038,
       "word": "刘诗诗近期碎片",
@@ -2729,6 +2737,14 @@
       "onboard_time": 1709998651,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208915,
+      "num": 208915,
+      "word": "你每天喝多少咖啡",
+      "onboard_time": 1710163352,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 208530,
@@ -3316,7 +3332,7 @@
     },
     {
       "raw_hot": 179931,
-      "num": 380428,
+      "num": 463501,
       "word": "失眠的人到底被什么困住",
       "onboard_time": 1710160592,
       "rank": 34,
@@ -3659,6 +3675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160185,
+      "num": 160185,
+      "word": "哪些小说很好看名字却难以启齿",
+      "onboard_time": 1710161131,
+      "rank": 46,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 159899,
       "num": 159899,
       "word": "学校总喜欢把钱花在刀把上",
@@ -3715,14 +3739,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 158144,
-      "num": 158144,
-      "word": "哪些小说很好看名字却难以启齿",
-      "onboard_time": 1710161131,
-      "rank": 46,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 156846,
       "num": 156846,
       "word": "ive香港抢票",
@@ -3745,6 +3761,14 @@
       "onboard_time": 1710083673,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155835,
+      "num": 155835,
+      "word": "江河之上",
+      "onboard_time": 1710163172,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 155684,
@@ -4387,6 +4411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133309,
+      "num": 252953,
+      "word": "云南白水台好似山间蓝莲花",
+      "onboard_time": 1710163232,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 132976,
       "num": 132976,
       "word": "眼泪女王",
@@ -4481,6 +4513,14 @@
       "onboard_time": 1710145530,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 128829,
+      "num": 128829,
+      "word": "别对我动心 天降太爱我了怎么办",
+      "onboard_time": 1710163652,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 128588,
@@ -4585,6 +4625,14 @@
       "onboard_time": 1709996371,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124942,
+      "num": 124942,
+      "word": "丈夫看店铺监控发现妻子出轨",
+      "onboard_time": 1710163892,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124495,
@@ -5081,6 +5129,14 @@
       "onboard_time": 1710030867,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105622,
+      "num": 359007,
+      "word": "Gucci上海派对",
+      "onboard_time": 1710162391,
+      "rank": 20,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 105234,
@@ -5603,14 +5659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47209,
-      "num": 359007,
-      "word": "Gucci上海派对",
-      "onboard_time": 1710162391,
-      "rank": 20,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 46079,
       "num": 222503,
       "word": "这些两会建议冲上热搜",
@@ -5721,6 +5769,14 @@
       "onboard_time": 1709987011,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25508,
+      "num": 125040,
+      "word": "GUCCI派对音乐绝了",
+      "onboard_time": 1710164011,
+      "rank": 47,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 20899,
