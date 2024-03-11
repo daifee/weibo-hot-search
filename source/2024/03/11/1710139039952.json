@@ -1,0 +1,410 @@
+{
+  "runTime": 1710139039952,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2121007,
+        "num": 2121007,
+        "word": "一对夫妇做短剧每月进账4亿多",
+        "onboard_time": 1710134254,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 853928,
+        "num": 853928,
+        "word": "林高远vs李尚洙",
+        "onboard_time": 1710137670,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54802,
+        "num": 782841,
+        "word": "十四届全国人大二次会议今天闭幕",
+        "onboard_time": 1710127771,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 776537,
+        "num": 776537,
+        "word": "凯特王妃最新官方照疑造假",
+        "onboard_time": 1710133593,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 724213,
+        "num": 724213,
+        "word": "淡人 浓人",
+        "onboard_time": 1710134912,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 461586,
+        "num": 461586,
+        "word": "耙耙柑 善良的水果",
+        "onboard_time": 1710117755,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 390790,
+        "num": 390790,
+        "word": "今年两会第三场代表通道",
+        "onboard_time": 1710136831,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 388700,
+        "num": 388700,
+        "word": "董明珠称一年拿几百万愿意多承担一点税",
+        "onboard_time": 1710125668,
+        "rank": 7,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 309599,
+        "num": 309599,
+        "word": "打印准考证",
+        "onboard_time": 1710120510,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 304911,
+        "num": 304911,
+        "word": "朴振英把中国练习生带走了",
+        "onboard_time": 1710138870,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1690255,
+        "num": 304778,
+        "word": "高君雨账号已无MCN认证",
+        "onboard_time": 1710137190,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 746541,
+        "num": 301941,
+        "word": "张艺兴起诉芒果扒皮酱",
+        "onboard_time": 1710131915,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 723777,
+        "num": 301460,
+        "word": "Doinb老婆疑似被带走",
+        "onboard_time": 1710131677,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 651359,
+        "num": 300056,
+        "word": "点读机女孩 短袖",
+        "onboard_time": 1710138332,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515110,
+        "num": 297813,
+        "word": "新闻女王2官宣原班人马",
+        "onboard_time": 1710135454,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400645,
+        "num": 296976,
+        "word": "找到了亲妈却删了她的联系方式",
+        "onboard_time": 1710123451,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332209,
+        "num": 295287,
+        "word": "网红铁头小号开播再被封",
+        "onboard_time": 1710136412,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 314030,
+        "num": 293974,
+        "word": "赵丽颖林更新与凤行情头",
+        "onboard_time": 1710135934,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292504,
+        "num": 292504,
+        "word": "黄铉辰澄清",
+        "onboard_time": 1710127650,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291619,
+        "num": 291619,
+        "word": "奥斯卡",
+        "onboard_time": 1710118711,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 352461,
+        "num": 291020,
+        "word": "一年点外卖近300次29岁小伙查出胃癌",
+        "onboard_time": 1710135093,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289515,
+        "num": 289515,
+        "word": "酒店钟点房的受众群体",
+        "onboard_time": 1710129213,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257424,
+        "num": 257424,
+        "word": "宁德时代暴涨超13%",
+        "onboard_time": 1710135331,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 249672,
+        "num": 249672,
+        "word": "檀健次16岁演小川 32岁演白晓宇",
+        "onboard_time": 1710137791,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 222769,
+        "num": 222769,
+        "word": "终于弄清楚七分饱是多饱了",
+        "onboard_time": 1710132936,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213527,
+        "num": 213527,
+        "word": "孟子义陈都灵自拍",
+        "onboard_time": 1710135992,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198326,
+        "num": 198326,
+        "word": "WTT",
+        "onboard_time": 1710138332,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191222,
+        "num": 191222,
+        "word": "徐海乔赵丽颖二搭",
+        "onboard_time": 1710132696,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190436,
+        "num": 190436,
+        "word": "轻舟已过万重山 乌蒙山连着祁连山",
+        "onboard_time": 1710133115,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186849,
+        "num": 186849,
+        "word": "癌症来临时身体会喊痛",
+        "onboard_time": 1710121468,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180382,
+        "num": 180382,
+        "word": "男子因社恐40岁才找到合适的工作",
+        "onboard_time": 1710120752,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167624,
+        "num": 167624,
+        "word": "点读机女孩暂未回应质疑",
+        "onboard_time": 1710138932,
+        "rank": 31,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 159095,
+        "num": 159095,
+        "word": "免费洗了八遍澡的流浪皮皮",
+        "onboard_time": 1710129993,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 153069,
+        "num": 153069,
+        "word": "石头姐 全球最强85花",
+        "onboard_time": 1710127951,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145107,
+        "num": 145107,
+        "word": "双鱼座的爱是极致的破碎",
+        "onboard_time": 1710138932,
+        "rank": 34,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 136610,
+        "num": 136610,
+        "word": "这爸爸有事他真不当回事",
+        "onboard_time": 1710138449,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135978,
+        "num": 135978,
+        "word": "为何连卫龙也没那么好卖了",
+        "onboard_time": 1710132936,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123679,
+        "num": 123679,
+        "word": "中式父子关系",
+        "onboard_time": 1710138809,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122296,
+        "num": 122296,
+        "word": "为什么蒋胜男的建议如此受欢迎",
+        "onboard_time": 1710136831,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121038,
+        "num": 121038,
+        "word": "长安的荔枝今日官宣",
+        "onboard_time": 1710126151,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120662,
+        "num": 120662,
+        "word": "这才是龙年龙抬头的正确打开方式",
+        "onboard_time": 1710138027,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120490,
+        "num": 120490,
+        "word": "李想朋友圈长文回应Mega被黑",
+        "onboard_time": 1710128070,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 119127,
+        "num": 119127,
+        "word": "中国战机版龙抬头",
+        "onboard_time": 1710137971,
+        "rank": 42,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 117142,
+        "num": 117142,
+        "word": "为何大家恋爱欲普遍降低了",
+        "onboard_time": 1710122011,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107692,
+        "num": 116464,
+        "word": "WE战胜WBG",
+        "onboard_time": 1710137431,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115904,
+        "num": 115904,
+        "word": "石头姐听到获奖的反应",
+        "onboard_time": 1710136050,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115580,
+        "num": 115580,
+        "word": "2024奥斯卡颁奖典礼",
+        "onboard_time": 1710112825,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108712,
+        "num": 108712,
+        "word": "美宝莲为什么被嫌弃了",
+        "onboard_time": 1710122969,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 101232,
+        "num": 101232,
+        "word": "周处除三害 贪嗔痴",
+        "onboard_time": 1710133954,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98637,
+        "num": 98637,
+        "word": "轰20快将公布",
+        "onboard_time": 1710129993,
+        "rank": 49,
+        "category": "国内时政,军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#为高质量发展注入新动能塑造新优势#"
+    }
+  }
+}
