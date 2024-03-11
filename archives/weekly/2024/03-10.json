@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710196506241,
+  "endTime": 1710199077960,
   "band_list": [
     {
       "raw_hot": 2999065,
@@ -305,6 +305,14 @@
       "onboard_time": 1710120510,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1084309,
+      "num": 1084309,
+      "word": "女教师哺乳期被学校调岗为保洁",
+      "onboard_time": 1710174506,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1061853,
@@ -1155,12 +1163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 530650,
+      "num": 89419,
+      "word": "凯特王妃已有2个多月未出席活动",
+      "onboard_time": 1710177980,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530225,
       "num": 530225,
       "word": "国家线还不出",
       "onboard_time": 1710145712,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 530036,
+      "num": 89152,
+      "word": "香港双婴尸案今日提堂",
+      "onboard_time": 1710194356,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 529951,
@@ -1259,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495387,
+      "num": 88969,
+      "word": "湿气重毁身材肚子大",
+      "onboard_time": 1710195678,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 492466,
       "num": 492466,
       "word": "董宇辉带货华为",
@@ -1289,14 +1321,6 @@
       "onboard_time": 1710078633,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 491049,
-      "num": 491049,
-      "word": "女教师哺乳期被学校调岗为保洁",
-      "onboard_time": 1710174506,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 490445,
@@ -2329,14 +2353,6 @@
       "onboard_time": 1710096137,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269500,
-      "num": 57534,
-      "word": "凯特王妃已有2个多月未出席活动",
-      "onboard_time": 1710177980,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 269107,
@@ -4267,6 +4283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147754,
+      "num": 87964,
+      "word": "刘浩存演惠英红奶奶",
+      "onboard_time": 1710185417,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147143,
       "num": 147143,
       "word": "WTT新加坡大满贯",
@@ -4281,6 +4305,14 @@
       "onboard_time": 1710082173,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145487,
+      "num": 87351,
+      "word": "气得朱梓骁想拿鸡爪挠纪凌尘",
+      "onboard_time": 1710180978,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 145478,
@@ -4723,14 +4755,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 133910,
-      "num": 34982,
-      "word": "香港双婴尸案今日提堂",
-      "onboard_time": 1710194356,
-      "rank": 30,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 133854,
       "num": 133854,
       "word": "被爱过的人才会爱人",
@@ -5147,6 +5171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117585,
+      "num": 87059,
+      "word": "研究称每一滴酒都对身体有害",
+      "onboard_time": 1710197721,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 117551,
       "num": 117551,
       "word": "亚超 乐华团建",
@@ -5209,6 +5241,14 @@
       "onboard_time": 1710041190,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115993,
+      "num": 91939,
+      "word": "李嘉琦与凤行妆造",
+      "onboard_time": 1710175224,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 115824,
@@ -5457,6 +5497,14 @@
       "onboard_time": 1710033870,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 107073,
+      "num": 86482,
+      "word": "易烊千玺网站更新",
+      "onboard_time": 1710198865,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 106848,
@@ -5715,14 +5763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91939,
-      "num": 91939,
-      "word": "李嘉琦与凤行妆造",
-      "onboard_time": 1710175224,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91313,
       "num": 91313,
       "word": "女生回应导师修改3万字论文",
@@ -5795,6 +5835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84370,
+      "num": 84370,
+      "word": "白鹿田曦薇王楚然同场活动造型",
+      "onboard_time": 1710196760,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 84134,
       "num": 84134,
       "word": "鬼灭之刃 鳄鱼最后的温柔",
@@ -5833,6 +5881,14 @@
       "onboard_time": 1709989532,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78870,
+      "num": 78870,
+      "word": "高君雨",
+      "onboard_time": 1710198926,
+      "rank": 34,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 78525,
@@ -5891,14 +5947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72049,
-      "num": 42429,
-      "word": "刘浩存演惠英红奶奶",
-      "onboard_time": 1710185417,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 71328,
       "num": 436066,
       "word": "热门打卡地代表委员发出邀请",
@@ -5913,14 +5961,6 @@
       "onboard_time": 1710025880,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69923,
-      "num": 40512,
-      "word": "气得朱梓骁想拿鸡爪挠纪凌尘",
-      "onboard_time": 1710180978,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 68746,
@@ -5985,6 +6025,14 @@
       "onboard_time": 1710064229,
       "rank": 7,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 56505,
+      "num": 56505,
+      "word": "高君雨签约公司曾称非常负责",
+      "onboard_time": 1710186017,
+      "rank": 25,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 55950,
@@ -6067,20 +6115,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 49657,
-      "num": 39997,
-      "word": "湿气重毁身材肚子大",
-      "onboard_time": 1710195678,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 49118,
       "num": 51285,
       "word": "王梓薇感谢赵丽颖推荐客串与凤行",
       "onboard_time": 1709991995,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48123,
+      "num": 47095,
+      "word": "植树节",
+      "onboard_time": 1710199043,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47835,
@@ -6187,14 +6235,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 31335,
-      "num": 31335,
-      "word": "高君雨签约公司曾称非常负责",
-      "onboard_time": 1710186017,
-      "rank": 25,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 26932,
       "num": 24565,
       "word": "靳东再谈假靳东事件",
@@ -6252,7 +6292,7 @@
     },
     {
       "raw_hot": 17261,
-      "num": 198279,
+      "num": 389533,
       "word": "共话新质生产力",
       "onboard_time": 1710146311,
       "rank": 34,
