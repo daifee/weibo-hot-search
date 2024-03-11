@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710130902661,
+  "endTime": 1710131682191,
   "band_list": [
     {
       "raw_hot": 2928217,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1134154,
-      "num": 518421,
+      "num": 573674,
       "word": "黄铉辰澄清",
       "onboard_time": 1710127650,
       "rank": 11,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 763339,
+      "num": 763339,
+      "word": "宁德时代",
+      "onboard_time": 1710129512,
+      "rank": 7,
+      "category": "财经"
+    },
+    {
       "raw_hot": 760029,
       "num": 760029,
       "word": "龙抬头",
@@ -507,6 +515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 651227,
+      "num": 651227,
+      "word": "石头姐 全球最强85花",
+      "onboard_time": 1710127951,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 646211,
       "num": 646211,
       "word": "全国政协十四届二次会议闭幕会",
@@ -563,20 +579,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 613868,
+      "num": 613868,
+      "word": "长安的荔枝今日官宣",
+      "onboard_time": 1710126151,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 608158,
       "num": 302534,
       "word": "苹果和安卓的天气预报不一样",
       "onboard_time": 1709994454,
       "rank": 11,
       "category": "数码"
-    },
-    {
-      "raw_hot": 607258,
-      "num": 607258,
-      "word": "长安的荔枝今日官宣",
-      "onboard_time": 1710126151,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 601155,
@@ -667,6 +683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 566348,
+      "num": 566348,
+      "word": "李想朋友圈长文回应Mega被黑",
+      "onboard_time": 1710128070,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 564622,
       "num": 564622,
       "word": "接下来一个月浙江人的早饭",
@@ -723,14 +747,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 548345,
-      "num": 548345,
-      "word": "宁德时代",
-      "onboard_time": 1710129512,
-      "rank": 7,
-      "category": "财经"
-    },
-    {
       "raw_hot": 542494,
       "num": 542494,
       "word": "二月二龙抬头有哪些习俗",
@@ -777,22 +793,6 @@
       "onboard_time": 1709980888,
       "rank": 13,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 517201,
-      "num": 517201,
-      "word": "石头姐 全球最强85花",
-      "onboard_time": 1710127951,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 506709,
-      "num": 506709,
-      "word": "李想朋友圈长文回应Mega被黑",
-      "onboard_time": 1710128070,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 505152,
@@ -849,6 +849,14 @@
       "onboard_time": 1710122191,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477407,
+      "num": 477407,
+      "word": "每克近千元的一口价黄金被全额退款",
+      "onboard_time": 1710127533,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 477383,
@@ -947,14 +955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 429783,
-      "num": 429783,
-      "word": "每克近千元的一口价黄金被全额退款",
-      "onboard_time": 1710127533,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 429475,
       "num": 290994,
       "word": "晚学",
@@ -1043,20 +1043,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 389335,
+      "num": 389335,
+      "word": "酒店钟点房的受众群体",
+      "onboard_time": 1710129213,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 388113,
       "num": 388113,
       "word": "王曼昱vs阿库拉",
       "onboard_time": 1710050245,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 384670,
-      "num": 384670,
-      "word": "酒店钟点房的受众群体",
-      "onboard_time": 1710129213,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 381843,
@@ -1459,6 +1459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 279063,
+      "num": 279063,
+      "word": "轰20快将公布",
+      "onboard_time": 1710129993,
+      "rank": 28,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 277875,
       "num": 277875,
       "word": "檀健次王鹤棣回复hi6",
@@ -1755,6 +1763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223241,
+      "num": 223241,
+      "word": "耙耙柑美式",
+      "onboard_time": 1710130412,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 221638,
       "num": 175120,
       "word": "小女孩 妈妈我出狗祸了",
@@ -1785,14 +1801,6 @@
       "onboard_time": 1710071611,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 218094,
-      "num": 218094,
-      "word": "轰20快将公布",
-      "onboard_time": 1710129993,
-      "rank": 28,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 218045,
@@ -1907,14 +1915,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 207227,
-      "num": 207227,
-      "word": "耙耙柑美式",
-      "onboard_time": 1710130412,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 205727,
       "num": 205727,
       "word": "e人遛i狗",
@@ -1969,6 +1969,14 @@
       "onboard_time": 1710119432,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 200688,
+      "num": 200688,
+      "word": "跳舞是缓解抑郁的最佳运动",
+      "onboard_time": 1710130233,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 200599,
@@ -2075,6 +2083,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 194139,
+      "num": 194139,
+      "word": "谢谢你温暖我 没把观众当外人",
+      "onboard_time": 1710130594,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193455,
       "num": 193455,
       "word": "占有欲也需要一点边界感",
@@ -2137,6 +2153,14 @@
       "onboard_time": 1710073230,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190445,
+      "num": 190445,
+      "word": "热卖多年的尿素手霜为何不敌小众品牌",
+      "onboard_time": 1710130900,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 189719,
@@ -2443,14 +2467,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 171355,
-      "num": 171355,
-      "word": "跳舞是缓解抑郁的最佳运动",
-      "onboard_time": 1710130233,
-      "rank": 37,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 170404,
       "num": 375142,
       "word": "互联网已成为永不落幕的课堂",
@@ -2529,6 +2545,14 @@
       "onboard_time": 1710074490,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165276,
+      "num": 165276,
+      "word": "九重紫香港展首发片花",
+      "onboard_time": 1710131496,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 164045,
@@ -2817,14 +2841,6 @@
       "onboard_time": 1710120634,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 148992,
-      "num": 148992,
-      "word": "谢谢你温暖我 没把观众当外人",
-      "onboard_time": 1710130594,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 148918,
