@@ -1,7 +1,15 @@
 {
   "startTime": 1710087619285,
-  "endTime": 1710156911232,
+  "endTime": 1710160300893,
   "band_list": [
+    {
+      "raw_hot": 2971849,
+      "num": 2971849,
+      "word": "成都警方通报天府二街伤害案",
+      "onboard_time": 1710158970,
+      "rank": 0,
+      "category": "社会负面"
+    },
     {
       "raw_hot": 2928217,
       "num": 2928217,
@@ -33,6 +41,14 @@
       "onboard_time": 1710117755,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1851946,
+      "num": 1851946,
+      "word": "凯特王妃就P图道歉",
+      "onboard_time": 1710155671,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1837535,
@@ -147,12 +163,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1153148,
-      "num": 347670,
-      "word": "凯特王妃就P图道歉",
-      "onboard_time": 1710155671,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 1147722,
+      "num": 346496,
+      "word": "待在小县城为什么会有窒息感",
+      "onboard_time": 1710156270,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 1134154,
@@ -515,6 +531,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 548658,
+      "num": 548658,
+      "word": "呷哺呷哺去年净亏损超1.8亿",
+      "onboard_time": 1710154890,
+      "rank": 24,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 538737,
       "num": 538737,
       "word": "林孝埈更换微博置顶",
@@ -537,6 +561,14 @@
       "onboard_time": 1710153331,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 525116,
+      "num": 303565,
+      "word": "对洗衣液用量毫无概念的大学生",
+      "onboard_time": 1710158850,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 522122,
@@ -675,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427633,
+      "num": 301596,
+      "word": "女孩第一次买刮刮乐就中了100万",
+      "onboard_time": 1710156749,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424395,
       "num": 424395,
       "word": "你的强轩染来了",
@@ -729,6 +769,14 @@
       "onboard_time": 1710133115,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384654,
+      "num": 384654,
+      "word": "白鹿公主切",
+      "onboard_time": 1710159150,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 382428,
@@ -787,20 +835,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352189,
+      "num": 352189,
+      "word": "耙耙柑不是粑粑柑",
+      "onboard_time": 1710158011,
+      "rank": 6,
+      "category": "美食"
+    },
+    {
       "raw_hot": 351912,
       "num": 351912,
       "word": "奥本海默奥斯卡最佳影片",
       "onboard_time": 1710124049,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 350913,
-      "num": 350913,
-      "word": "呷哺呷哺去年净亏损超1.8亿",
-      "onboard_time": 1710154890,
-      "rank": 24,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 347496,
@@ -899,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311568,
+      "num": 311568,
+      "word": "与凤行变更为39集",
+      "onboard_time": 1710159210,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302267,
       "num": 302267,
       "word": "乱穿衣模式又开启了",
@@ -947,6 +1003,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 291624,
+      "num": 291624,
+      "word": "高君雨签约公司以网红孵化为主",
+      "onboard_time": 1710158371,
+      "rank": 24,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 283906,
       "num": 283906,
       "word": "恋与深空打卡",
@@ -969,14 +1033,6 @@
       "onboard_time": 1710137791,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 280233,
-      "num": 280233,
-      "word": "待在小县城为什么会有窒息感",
-      "onboard_time": 1710156270,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 279174,
@@ -1123,6 +1179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 245688,
+      "num": 245688,
+      "word": "Gucci活动",
+      "onboard_time": 1710157410,
+      "rank": 28,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 244921,
       "num": 244921,
       "word": "惜花芷预告",
@@ -1169,6 +1233,14 @@
       "onboard_time": 1710149910,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 234992,
+      "num": 234992,
+      "word": "常喝咖啡或可降低结直肠癌复发风险",
+      "onboard_time": 1710159512,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 234276,
@@ -1355,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205680,
+      "num": 205680,
+      "word": "JDG对战FPX",
+      "onboard_time": 1710159331,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204708,
       "num": 204708,
       "word": "巴黎世家真的出胶带手镯了",
@@ -1385,6 +1465,14 @@
       "onboard_time": 1710129993,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 199164,
+      "num": 199164,
+      "word": "演唱会跟霉霉对视的方法有了",
+      "onboard_time": 1710158792,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 198862,
@@ -1427,12 +1515,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197523,
+      "num": 197523,
+      "word": "许嵩演唱会抢票",
+      "onboard_time": 1710160113,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196744,
       "num": 196744,
       "word": "奥斯卡派对",
       "onboard_time": 1710142890,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196450,
+      "num": 196450,
+      "word": "李准基IU后台合照",
+      "onboard_time": 1710158910,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 196203,
@@ -1475,6 +1579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193232,
+      "num": 309484,
+      "word": "CCtalk 我想学习",
+      "onboard_time": 1710158733,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 193141,
       "num": 193141,
       "word": "差点就断崖式暧昧了",
@@ -1513,6 +1625,14 @@
       "onboard_time": 1710150572,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 188403,
+      "num": 188403,
+      "word": "章昊Ricky全红造型",
+      "onboard_time": 1710157831,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 187612,
@@ -1619,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173382,
+      "num": 173382,
+      "word": "田曦薇挑染",
+      "onboard_time": 1710160232,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 171402,
       "num": 171402,
       "word": "芭比海默",
@@ -1649,6 +1777,14 @@
       "onboard_time": 1710079234,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168499,
+      "num": 188405,
+      "word": "孙颖莎女单",
+      "onboard_time": 1710160113,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 167587,
@@ -1843,6 +1979,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 150607,
+      "num": 342971,
+      "word": "任子威说想为祖国多拿金牌",
+      "onboard_time": 1710155609,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149341,
       "num": 149341,
       "word": "男子在120远程指导下为妻子接生",
@@ -1851,20 +1995,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149060,
+      "num": 149060,
+      "word": "安可拉红",
+      "onboard_time": 1710159993,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 148660,
       "num": 148660,
       "word": "未央回归AG",
       "onboard_time": 1710143671,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 147525,
-      "num": 342971,
-      "word": "任子威说想为祖国多拿金牌",
-      "onboard_time": 1710155609,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 145478,
@@ -2483,14 +2627,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 85995,
-      "num": 134023,
-      "word": "女孩第一次买刮刮乐就中了100万",
-      "onboard_time": 1710156749,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83811,
       "num": 88076,
       "word": "晚晚回应",
@@ -2572,7 +2708,7 @@
     },
     {
       "raw_hot": 64259,
-      "num": 523813,
+      "num": 1337369,
       "word": "两会代表委员热议重温经典频道",
       "onboard_time": 1710145168,
       "rank": 2,

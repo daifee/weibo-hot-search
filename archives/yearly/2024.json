@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1710156911232,
+  "endTime": 1710160300893,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1459,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2971849,
+      "num": 2971849,
+      "word": "成都警方通报天府二街伤害案",
+      "onboard_time": 1710158970,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2968826,
       "num": 2968826,
       "word": "蔡依林 天后来了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1707010589,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2447129,
-      "num": 2447129,
-      "word": "曾舜晞的牌也没对上",
-      "onboard_time": 1707492135,
-      "rank": 17,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
