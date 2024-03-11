@@ -1,6 +1,6 @@
 {
   "startTime": 1710087619285,
-  "endTime": 1710164047063,
+  "endTime": 1710166586634,
   "band_list": [
     {
       "raw_hot": 2999065,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1157266,
-      "num": 462929,
+      "num": 477429,
       "word": "待在小县城为什么会有窒息感",
       "onboard_time": 1710156270,
       "rank": 25,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 858988,
-      "num": 462255,
+      "num": 467516,
       "word": "倪妮的腿低调不了一点",
       "onboard_time": 1710151232,
       "rank": 17,
@@ -419,6 +419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 646989,
+      "num": 462969,
+      "word": "孟佳筷子腿",
+      "onboard_time": 1710163172,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 642751,
       "num": 490426,
       "word": "2024奥斯卡红毯",
@@ -523,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 572834,
+      "num": 449107,
+      "word": "丈夫看店铺监控发现妻子出轨",
+      "onboard_time": 1710163892,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 566348,
       "num": 566348,
       "word": "李想朋友圈长文回应Mega被黑",
@@ -545,6 +561,14 @@
       "onboard_time": 1710104535,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557856,
+      "num": 557856,
+      "word": "教资考试知道成绩第一人",
+      "onboard_time": 1710162091,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 556752,
@@ -627,6 +651,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 510332,
+      "num": 510332,
+      "word": "周翊然田曦薇热舞",
+      "onboard_time": 1710164914,
+      "rank": 6,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 509364,
+      "num": 509364,
+      "word": "假性亲密关系",
+      "onboard_time": 1710164793,
+      "rank": 7,
+      "category": "情感"
+    },
+    {
       "raw_hot": 498616,
       "num": 498616,
       "word": "樊振东回应看霉霉演唱会感受",
@@ -649,6 +689,14 @@
       "onboard_time": 1710116133,
       "rank": 11,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 492424,
+      "num": 492424,
+      "word": "孙颖莎3比0战胜袁嘉楠",
+      "onboard_time": 1710164793,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 485820,
@@ -721,14 +769,6 @@
       "onboard_time": 1710143790,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 460265,
-      "num": 460265,
-      "word": "教资考试知道成绩第一人",
-      "onboard_time": 1710162091,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 453643,
@@ -915,6 +955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 351203,
+      "num": 351203,
+      "word": "娃哈哈纯净水线上卖断货",
+      "onboard_time": 1710164974,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 347496,
       "num": 347496,
       "word": "关于政府工作报告的决议表决通过",
@@ -971,14 +1019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337384,
-      "num": 337384,
-      "word": "孟佳筷子腿",
-      "onboard_time": 1710163172,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 336667,
       "num": 286549,
       "word": "考研三战失败我转行做玄学博主",
@@ -1027,6 +1067,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 316669,
+      "num": 316669,
+      "word": "倪妮张震挽手同框",
+      "onboard_time": 1710165573,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 316519,
       "num": 316519,
       "word": "EXO大吧为EXOL准备出行攻略",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1710119314,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 297759,
+      "num": 297759,
+      "word": "成都天府二街伤害案系网络交友纠纷",
+      "onboard_time": 1710165332,
+      "rank": 22,
+      "category": "社会负面"
     },
     {
       "raw_hot": 296709,
@@ -1811,6 +1867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180026,
+      "num": 180026,
+      "word": "别对我动心 明天陷入热恋",
+      "onboard_time": 1710165753,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179931,
       "num": 463501,
       "word": "失眠的人到底被什么困住",
@@ -1843,6 +1907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171751,
+      "num": 171751,
+      "word": "与凤行卫视预告",
+      "onboard_time": 1710164313,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171402,
       "num": 171402,
       "word": "芭比海默",
@@ -1873,6 +1945,14 @@
       "onboard_time": 1710079234,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 167910,
+      "num": 167910,
+      "word": "哪些小说很好看名字却难以启齿",
+      "onboard_time": 1710161131,
+      "rank": 46,
+      "category": "读书作家"
     },
     {
       "raw_hot": 167587,
@@ -1939,6 +2019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162630,
+      "num": 162630,
+      "word": "金泰亨预告",
+      "onboard_time": 1710166292,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 161650,
       "num": 161650,
       "word": "吴镇宇又来整顿内娱",
@@ -1953,14 +2041,6 @@
       "onboard_time": 1710127533,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160185,
-      "num": 160185,
-      "word": "哪些小说很好看名字却难以启齿",
-      "onboard_time": 1710161131,
-      "rank": 46,
-      "category": "读书作家"
     },
     {
       "raw_hot": 159341,
@@ -2435,14 +2515,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 124942,
-      "num": 124942,
-      "word": "丈夫看店铺监控发现妻子出轨",
-      "onboard_time": 1710163892,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124495,
       "num": 250404,
       "word": "王楚钦一分一分耐心赢球",
@@ -2915,6 +2987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47835,
+      "num": 172470,
+      "word": "GUCCI派对音乐绝了",
+      "onboard_time": 1710164011,
+      "rank": 47,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 46169,
       "num": 86673,
       "word": "法国羽毛球公开赛",
@@ -2961,14 +3041,6 @@
       "onboard_time": 1710074490,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25508,
-      "num": 125040,
-      "word": "GUCCI派对音乐绝了",
-      "onboard_time": 1710164011,
-      "rank": 47,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 24821,
