@@ -1,6 +1,6 @@
 {
   "startTime": 1710087619285,
-  "endTime": 1710152402590,
+  "endTime": 1710153382064,
   "band_list": [
     {
       "raw_hot": 2928217,
@@ -9,6 +9,14 @@
       "onboard_time": 1710118711,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2185298,
+      "num": 2185298,
+      "word": "高君雨妈妈发声",
+      "onboard_time": 1710152010,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 2145775,
@@ -179,7 +187,7 @@
       "category": "数码"
     },
     {
-      "raw_hot": 1011621,
+      "raw_hot": 1035157,
       "num": 425546,
       "word": "多方回应网友质疑高君雨脑瘤手术视频",
       "onboard_time": 1710150931,
@@ -219,6 +227,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 928769,
+      "num": 429934,
+      "word": "高君雨手术是毕业后做的",
+      "onboard_time": 1710152313,
+      "rank": 28,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 910257,
       "num": 776537,
       "word": "凯特王妃最新官方照疑造假",
@@ -233,6 +249,14 @@
       "onboard_time": 1710137670,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 834023,
+      "num": 425201,
+      "word": "倪妮的腿低调不了一点",
+      "onboard_time": 1710151232,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 825252,
@@ -321,14 +345,6 @@
       "onboard_time": 1710083792,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 680832,
-      "num": 426841,
-      "word": "高君雨妈妈发声",
-      "onboard_time": 1710152010,
-      "rank": 3,
-      "category": "网红"
     },
     {
       "raw_hot": 664901,
@@ -513,14 +529,6 @@
       "onboard_time": 1710083375,
       "rank": 4,
       "category": "演出,体育"
-    },
-    {
-      "raw_hot": 497627,
-      "num": 425201,
-      "word": "倪妮的腿低调不了一点",
-      "onboard_time": 1710151232,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 494674,
@@ -795,6 +803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 329479,
+      "num": 329479,
+      "word": "高君雨妈妈称MCN运营出现严重问题",
+      "onboard_time": 1710153093,
+      "rank": 22,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 329339,
       "num": 329339,
       "word": "大侦探",
@@ -963,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256421,
+      "num": 256421,
+      "word": "彩礼该不该拿出来给男方还房贷",
+      "onboard_time": 1710152611,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254431,
       "num": 184895,
       "word": "男子花91万为女友买房分手要求退124万",
@@ -1059,6 +1083,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 236545,
+      "num": 236545,
+      "word": "林俊杰听到粉丝喊倒闭的反应",
+      "onboard_time": 1710149910,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 234276,
       "num": 234276,
       "word": "比特币突破71000美元",
@@ -1091,28 +1123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231410,
-      "num": 231410,
-      "word": "高君雨手术是毕业后做的",
-      "onboard_time": 1710152313,
-      "rank": 28,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 230107,
       "num": 230107,
       "word": "统一了东西方审美的蓝色美学",
       "onboard_time": 1710129334,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 229824,
-      "num": 229824,
-      "word": "林俊杰听到粉丝喊倒闭的反应",
-      "onboard_time": 1710149910,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 229815,
@@ -1699,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152560,
+      "num": 233231,
+      "word": "哪些食物不能放进空气炸锅",
+      "onboard_time": 1710152730,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 152426,
       "num": 152426,
       "word": "仙台有树开放预约",
@@ -1745,6 +1769,14 @@
       "onboard_time": 1710143671,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 147314,
+      "num": 147314,
+      "word": "邓为和新中式适配度",
+      "onboard_time": 1710153331,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 145304,
@@ -1825,6 +1857,14 @@
       "onboard_time": 1710064351,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140336,
+      "num": 140336,
+      "word": "在叶片上隐身的虫子",
+      "onboard_time": 1710152730,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 140141,
@@ -1937,6 +1977,22 @@
       "onboard_time": 1710116731,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133854,
+      "num": 133854,
+      "word": "被爱过的人才会爱人",
+      "onboard_time": 1710152850,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 133705,
+      "num": 133705,
+      "word": "原神仆人",
+      "onboard_time": 1710153331,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 132976,
@@ -2243,6 +2299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97909,
+      "num": 425739,
+      "word": "杭州跨境电商企业10年增长30倍",
+      "onboard_time": 1710150629,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 95925,
       "num": 95925,
       "word": "楚乔传新预告",
@@ -2289,14 +2353,6 @@
       "onboard_time": 1710137431,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 84832,
-      "num": 425739,
-      "word": "杭州跨境电商企业10年增长30倍",
-      "onboard_time": 1710150629,
-      "rank": 9,
-      "category": "互联网"
     },
     {
       "raw_hot": 83811,
@@ -2347,6 +2403,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 75753,
+      "num": 425853,
+      "word": "川式叫卖喊你来吃耙耙柑",
+      "onboard_time": 1710150629,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 74409,
       "num": 74409,
       "word": "涵艺爆料BSYY离队",
@@ -2369,14 +2433,6 @@
       "onboard_time": 1710113064,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70767,
-      "num": 425853,
-      "word": "川式叫卖喊你来吃耙耙柑",
-      "onboard_time": 1710150629,
-      "rank": 8,
-      "category": "美食"
     },
     {
       "raw_hot": 66125,
