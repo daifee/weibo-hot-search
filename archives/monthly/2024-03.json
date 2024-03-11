@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710160300893,
+  "endTime": 1710161175326,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -75,20 +75,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2999065,
+      "num": 2999065,
+      "word": "成都警方通报天府二街伤害案",
+      "onboard_time": 1710158970,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 2973604,
       "num": 475918,
       "word": "满舒克",
       "onboard_time": 1709366072,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2971849,
-      "num": 2971849,
-      "word": "成都警方通报天府二街伤害案",
-      "onboard_time": 1710158970,
-      "rank": 0,
-      "category": "社会负面"
     },
     {
       "raw_hot": 2928217,
@@ -201,6 +201,14 @@
       "onboard_time": 1709596710,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2313376,
+      "num": 2313376,
+      "word": "凯特王妃就P图道歉",
+      "onboard_time": 1710155671,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2282245,
@@ -425,14 +433,6 @@
       "onboard_time": 1709980888,
       "rank": 10,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1851946,
-      "num": 1851946,
-      "word": "凯特王妃就P图道歉",
-      "onboard_time": 1710155671,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1837535,
@@ -1507,6 +1507,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1157266,
+      "num": 346496,
+      "word": "待在小县城为什么会有窒息感",
+      "onboard_time": 1710156270,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1150307,
       "num": 467740,
       "word": "赵丽颖工作室 还不出图",
@@ -1521,14 +1529,6 @@
       "onboard_time": 1709373032,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1147722,
-      "num": 346496,
-      "word": "待在小县城为什么会有窒息感",
-      "onboard_time": 1710156270,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 1147519,
@@ -6076,7 +6076,7 @@
     },
     {
       "raw_hot": 525116,
-      "num": 303565,
+      "num": 318620,
       "word": "对洗衣液用量毫无概念的大学生",
       "onboard_time": 1710158850,
       "rank": 21,
@@ -6553,6 +6553,14 @@
       "onboard_time": 1709549969,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 490705,
+      "num": 490705,
+      "word": "许嵩演唱会抢票",
+      "onboard_time": 1710160113,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 490286,
@@ -7635,6 +7643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434832,
+      "num": 434832,
+      "word": "白鹿公主切",
+      "onboard_time": 1710159150,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 434144,
       "num": 434144,
       "word": "太湖湾音乐节 十个勤天",
@@ -7764,7 +7780,7 @@
     },
     {
       "raw_hot": 427633,
-      "num": 301596,
+      "num": 319253,
       "word": "女孩第一次买刮刮乐就中了100万",
       "onboard_time": 1710156749,
       "rank": 48,
@@ -8603,12 +8619,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 384654,
-      "num": 384654,
-      "word": "白鹿公主切",
-      "onboard_time": 1710159150,
-      "rank": 5,
-      "category": "作品衍生"
+      "raw_hot": 385299,
+      "num": 385299,
+      "word": "耙耙柑不是粑粑柑",
+      "onboard_time": 1710158011,
+      "rank": 6,
+      "category": "美食"
     },
     {
       "raw_hot": 384599,
@@ -9355,6 +9371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354803,
+      "num": 321930,
+      "word": "与凤行变更为39集",
+      "onboard_time": 1710159210,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 354667,
       "num": 354667,
       "word": "樊振东林昀儒一起看霉霉演唱会",
@@ -9459,14 +9483,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 352189,
-      "num": 352189,
-      "word": "耙耙柑不是粑粑柑",
-      "onboard_time": 1710158011,
-      "rank": 6,
-      "category": "美食"
-    },
-    {
       "raw_hot": 352162,
       "num": 352162,
       "word": "LV大秀",
@@ -9537,6 +9553,14 @@
       "onboard_time": 1709214998,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 350946,
+      "num": 321281,
+      "word": "孙颖莎女单",
+      "onboard_time": 1710160113,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 349662,
@@ -10203,6 +10227,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 324967,
+      "num": 318892,
+      "word": "常喝咖啡或可降低结直肠癌复发风险",
+      "onboard_time": 1710159512,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 324872,
       "num": 263649,
       "word": "赵丽颖浮光跃金妆",
@@ -10225,6 +10257,14 @@
       "onboard_time": 1709619513,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 324169,
+      "num": 324169,
+      "word": "JDG对战FPX",
+      "onboard_time": 1710159331,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 323954,
@@ -10651,14 +10691,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 311568,
-      "num": 311568,
-      "word": "与凤行变更为39集",
-      "onboard_time": 1710159210,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 311469,
       "num": 311469,
       "word": "原神前瞻",
@@ -10697,6 +10729,14 @@
       "onboard_time": 1710036149,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 310844,
+      "num": 310844,
+      "word": "田曦薇挑染",
+      "onboard_time": 1710160232,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 310292,
@@ -13691,14 +13731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234992,
-      "num": 234992,
-      "word": "常喝咖啡或可降低结直肠癌复发风险",
-      "onboard_time": 1710159512,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 234977,
       "num": 286203,
       "word": "妈妈炸的花生米被同学嫌弃了",
@@ -15587,14 +15619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 205680,
-      "num": 205680,
-      "word": "JDG对战FPX",
-      "onboard_time": 1710159331,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 205679,
       "num": 205679,
       "word": "第五人格赛事",
@@ -15817,6 +15841,14 @@
       "onboard_time": 1709290473,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203208,
+      "num": 203208,
+      "word": "演唱会跟霉霉对视的方法有了",
+      "onboard_time": 1710158792,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 203084,
@@ -16259,14 +16291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 199164,
-      "num": 199164,
-      "word": "演唱会跟霉霉对视的方法有了",
-      "onboard_time": 1710158792,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 199089,
       "num": 199089,
       "word": "9代凯美瑞",
@@ -16465,14 +16489,6 @@
       "onboard_time": 1709274152,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197523,
-      "num": 197523,
-      "word": "许嵩演唱会抢票",
-      "onboard_time": 1710160113,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 197474,
@@ -16931,6 +16947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193982,
+      "num": 320468,
+      "word": "CCtalk 我想学习",
+      "onboard_time": 1710158733,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 193737,
       "num": 193737,
       "word": "时代少年团接力女团舞",
@@ -16993,14 +17017,6 @@
       "onboard_time": 1709722351,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 193232,
-      "num": 309484,
-      "word": "CCtalk 我想学习",
-      "onboard_time": 1710158733,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 193141,
@@ -17739,6 +17755,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186545,
+      "num": 186545,
+      "word": "安可拉红",
+      "onboard_time": 1710159993,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 186272,
       "num": 188471,
       "word": "TES战胜UP",
@@ -17825,6 +17849,14 @@
       "onboard_time": 1709375371,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185236,
+      "num": 185236,
+      "word": "Uzi韩服账号改名JackeyLove",
+      "onboard_time": 1710161131,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 185227,
@@ -18481,6 +18513,14 @@
       "onboard_time": 1709777971,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 179931,
+      "num": 199259,
+      "word": "失眠的人到底被什么困住",
+      "onboard_time": 1710160592,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 179890,
@@ -19195,14 +19235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 173382,
-      "num": 173382,
-      "word": "田曦薇挑染",
-      "onboard_time": 1710160232,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 173298,
       "num": 173298,
       "word": "沈腾去澳门出差",
@@ -19689,14 +19721,6 @@
       "onboard_time": 1709786375,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168499,
-      "num": 188405,
-      "word": "孙颖莎女单",
-      "onboard_time": 1710160113,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 168458,
@@ -21059,6 +21083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 158144,
+      "num": 158144,
+      "word": "哪些小说很好看名字却难以启齿",
+      "onboard_time": 1710161131,
+      "rank": 46,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 157997,
       "num": 157997,
       "word": "吴镇宇真是小嘴抹了鹤顶红",
@@ -21129,6 +21161,14 @@
       "onboard_time": 1709871753,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157738,
+      "num": 157738,
+      "word": "辞职考研的人越来越多了",
+      "onboard_time": 1710161131,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 157684,
@@ -22321,14 +22361,6 @@
       "onboard_time": 1709450550,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149060,
-      "num": 149060,
-      "word": "安可拉红",
-      "onboard_time": 1710159993,
-      "rank": 46,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 149015,
@@ -28155,6 +28187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 105234,
+      "num": 185720,
+      "word": "2024年两会将这样影响你的生活",
+      "onboard_time": 1710161071,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 105192,
       "num": 105192,
       "word": "南北走位",
@@ -29804,7 +29844,7 @@
     },
     {
       "raw_hot": 64259,
-      "num": 1337369,
+      "num": 1662386,
       "word": "两会代表委员热议重温经典频道",
       "onboard_time": 1710145168,
       "rank": 2,
