@@ -1,6 +1,6 @@
 {
   "startTime": 1710174076566,
-  "endTime": 1710185645181,
+  "endTime": 1710188389453,
   "band_list": [
     {
       "raw_hot": 855766,
@@ -483,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 42225,
+      "num": 23833,
+      "word": "刘浩存演惠英红奶奶",
+      "onboard_time": 1710185417,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 40354,
       "num": 49807,
       "word": "高君雨妈妈称MCN运营出现严重问题",
@@ -515,12 +523,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15675,
-      "num": 17958,
-      "word": "刘浩存演惠英红奶奶",
-      "onboard_time": 1710185417,
-      "rank": 44,
-      "category": "电影"
+      "raw_hot": 21192,
+      "num": 21192,
+      "word": "高君雨签约公司曾称非常负责",
+      "onboard_time": 1710186017,
+      "rank": 25,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 15504,
