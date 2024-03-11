@@ -1,7 +1,55 @@
 {
   "startTime": 1710087619285,
-  "endTime": 1710113645213,
+  "endTime": 1710119528546,
   "band_list": [
+    {
+      "raw_hot": 1805879,
+      "num": 1805879,
+      "word": "耙耙柑 善良的水果",
+      "onboard_time": 1710117755,
+      "rank": 0,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 1300640,
+      "num": 1300640,
+      "word": "奥斯卡",
+      "onboard_time": 1710118711,
+      "rank": 1,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1197085,
+      "num": 1197085,
+      "word": "个税起征点提高至1万元谁最受益",
+      "onboard_time": 1710113126,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1056652,
+      "num": 1056652,
+      "word": "租房把房东家给改造了",
+      "onboard_time": 1710116553,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1050567,
+      "num": 502778,
+      "word": "iPhone降价已成常规促销手段",
+      "onboard_time": 1710115770,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 960619,
+      "num": 960619,
+      "word": "X疾病",
+      "onboard_time": 1710115650,
+      "rank": 5,
+      "category": "健康医疗"
+    },
     {
       "raw_hot": 825252,
       "num": 556499,
@@ -9,6 +57,14 @@
       "onboard_time": 1710072089,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 823457,
+      "num": 823457,
+      "word": "今年二月二真有龙抬头",
+      "onboard_time": 1710076769,
+      "rank": 1,
+      "category": "自然"
     },
     {
       "raw_hot": 760029,
@@ -20,7 +76,7 @@
     },
     {
       "raw_hot": 757958,
-      "num": 363883,
+      "num": 383065,
       "word": "日本女演员撞脸丁禹兮",
       "onboard_time": 1710086009,
       "rank": 10,
@@ -28,7 +84,7 @@
     },
     {
       "raw_hot": 717328,
-      "num": 221271,
+      "num": 639060,
       "word": "高校规定博士五年未升副教授转岗后勤",
       "onboard_time": 1710110358,
       "rank": 11,
@@ -43,12 +99,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 655770,
-      "num": 655770,
-      "word": "今年二月二真有龙抬头",
-      "onboard_time": 1710076769,
-      "rank": 1,
-      "category": "自然"
+      "raw_hot": 598912,
+      "num": 598912,
+      "word": "赵丽颖看着奖杯笑了",
+      "onboard_time": 1710114931,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 561031,
@@ -91,12 +147,52 @@
       "category": "数码"
     },
     {
+      "raw_hot": 492466,
+      "num": 492466,
+      "word": "董宇辉带货华为",
+      "onboard_time": 1710116133,
+      "rank": 11,
+      "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 482368,
+      "num": 482368,
+      "word": "2024奥斯卡颁奖典礼",
+      "onboard_time": 1710112825,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 469065,
+      "num": 469065,
+      "word": "清明节要调休",
+      "onboard_time": 1710071372,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453643,
       "num": 453643,
       "word": "孩子幼儿园就在单位楼下是什么体验",
       "onboard_time": 1710102375,
       "rank": 38,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 447240,
+      "num": 447240,
+      "word": "小罗伯特唐尼奥斯卡最佳男配角",
+      "onboard_time": 1710118532,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 434019,
+      "num": 434019,
+      "word": "上海地铁11号线",
+      "onboard_time": 1710116850,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424395,
@@ -107,12 +203,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 423378,
-      "num": 423378,
-      "word": "清明节要调休",
-      "onboard_time": 1710071372,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 406766,
+      "num": 336340,
+      "word": "女生被三花强行选中了",
+      "onboard_time": 1710116133,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 397484,
+      "num": 397484,
+      "word": "2024奥斯卡红毯",
+      "onboard_time": 1710112762,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 382428,
@@ -131,6 +235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 302267,
+      "num": 302267,
+      "word": "乱穿衣模式又开启了",
+      "onboard_time": 1710117573,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296709,
       "num": 296709,
       "word": "点读机女孩发烧不退再次进ICU",
@@ -139,16 +251,16 @@
       "category": "网红"
     },
     {
-      "raw_hot": 291145,
-      "num": 291145,
-      "word": "2024奥斯卡颁奖典礼",
-      "onboard_time": 1710112825,
-      "rank": 7,
-      "category": "电影"
+      "raw_hot": 277894,
+      "num": 277894,
+      "word": "建议对65岁无养老金人群发基础养老金",
+      "onboard_time": 1710118653,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 272589,
-      "num": 217250,
+      "num": 228281,
       "word": "沈腾拍得像被捕了",
       "onboard_time": 1710096137,
       "rank": 10,
@@ -179,20 +291,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252555,
-      "num": 215002,
-      "word": "个税起征点提高至1万元谁最受益",
-      "onboard_time": 1710113126,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
       "raw_hot": 248054,
       "num": 248054,
       "word": "网传Gucci晚宴嘉宾名单",
       "onboard_time": 1710076292,
       "rank": 16,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 241817,
+      "num": 241817,
+      "word": "电影射雕英雄传侠之大者",
+      "onboard_time": 1710117814,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 231892,
@@ -203,12 +315,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 222359,
-      "num": 222359,
-      "word": "2024奥斯卡红毯",
-      "onboard_time": 1710112762,
-      "rank": 9,
-      "category": "电影"
+      "raw_hot": 229815,
+      "num": 229815,
+      "word": "波兰外长称北约军队已抵达乌克兰",
+      "onboard_time": 1710118176,
+      "rank": 28,
+      "category": "国外时政,军事"
+    },
+    {
+      "raw_hot": 218735,
+      "num": 218735,
+      "word": "猫 领养之前也没说要这样啊",
+      "onboard_time": 1710117573,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 214106,
+      "num": 214106,
+      "word": "美国女子带死者到银行刷脸盗取存款",
+      "onboard_time": 1710089303,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204047,
@@ -235,20 +363,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194188,
+      "num": 194188,
+      "word": "你想活出怎样的人生",
+      "onboard_time": 1710118890,
+      "rank": 35,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 193787,
       "num": 189094,
       "word": "赵丽颖亚洲电影大奖获奖",
       "onboard_time": 1710067047,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 191270,
-      "num": 191270,
-      "word": "美国女子带死者到银行刷脸盗取存款",
-      "onboard_time": 1710089303,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189944,
@@ -275,6 +403,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182798,
+      "num": 182798,
+      "word": "小心翼翼吃草莓的小狗",
+      "onboard_time": 1710115106,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 176955,
+      "num": 176955,
+      "word": "申京受伤",
+      "onboard_time": 1710118711,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 169549,
+      "num": 169549,
+      "word": "张艺谋给赵丽颖粉丝签名",
+      "onboard_time": 1710119314,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 169216,
       "num": 169216,
       "word": "7类食物焯水后才能吃",
@@ -289,6 +441,22 @@
       "onboard_time": 1710074915,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165910,
+      "num": 165910,
+      "word": "一公司因广告中最佳2字被罚20万",
+      "onboard_time": 1710117333,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163336,
+      "num": 163336,
+      "word": "网飞叶文洁设定",
+      "onboard_time": 1710118476,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158433,
@@ -315,6 +483,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144130,
+      "num": 144130,
+      "word": "新手友好的春花拍摄技巧",
+      "onboard_time": 1710119372,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 143362,
+      "num": 143362,
+      "word": "宫崎骏新作即将登陆内地大银幕",
+      "onboard_time": 1710119372,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140668,
       "num": 140668,
       "word": "建议大家雨天还是打伞吧",
@@ -337,6 +521,38 @@
       "onboard_time": 1710081454,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138383,
+      "num": 138383,
+      "word": "相亲对象是我曾经删掉的人",
+      "onboard_time": 1710119014,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 136840,
+      "num": 136840,
+      "word": "知名餐饮品牌被曝只剩两家店",
+      "onboard_time": 1710113185,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 134411,
+      "num": 132716,
+      "word": "宫崎骏新片奥斯卡最佳动画长片",
+      "onboard_time": 1710116731,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 132759,
+      "num": 132759,
+      "word": "X疾病是什么",
+      "onboard_time": 1710119432,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 132095,
@@ -409,14 +625,6 @@
       "onboard_time": 1710112762,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105447,
-      "num": 105447,
-      "word": "知名餐饮品牌被曝只剩两家店",
-      "onboard_time": 1710113185,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 105384,
@@ -595,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50420,
+      "num": 509493,
+      "word": "2024两会声音微纪录",
+      "onboard_time": 1710113905,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46169,
       "num": 86673,
       "word": "法国羽毛球公开赛",
@@ -635,8 +851,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 17023,
-      "num": 579940,
+      "raw_hot": 18030,
+      "num": 1200561,
       "word": "当甲骨文穿越到2024年的中国",
       "onboard_time": 1710058408,
       "rank": 2,
