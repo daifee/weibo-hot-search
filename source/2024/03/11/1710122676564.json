@@ -1,0 +1,410 @@
+{
+  "runTime": 1710122676564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1580682,
+        "num": 1580682,
+        "word": "耙耙柑 善良的水果",
+        "onboard_time": 1710117755,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1419150,
+        "num": 1419150,
+        "word": "奥斯卡",
+        "onboard_time": 1710118711,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20284,
+        "num": 1192784,
+        "word": "当甲骨文穿越到2024年的中国",
+        "onboard_time": 1710058408,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1102125,
+        "num": 1102125,
+        "word": "打印准考证",
+        "onboard_time": 1710120510,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 883429,
+        "num": 883429,
+        "word": "男子因社恐40岁才找到合适的工作",
+        "onboard_time": 1710120752,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743040,
+        "num": 743040,
+        "word": "租房把房东家给改造了",
+        "onboard_time": 1710116553,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 628528,
+        "num": 628528,
+        "word": "建议对65岁无养老金人群发基础养老金",
+        "onboard_time": 1710118653,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 527466,
+        "num": 527466,
+        "word": "个税起征点提高至1万元谁最受益",
+        "onboard_time": 1710113126,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 520729,
+        "num": 520729,
+        "word": "2024奥斯卡颁奖典礼",
+        "onboard_time": 1710112825,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 495615,
+        "num": 495615,
+        "word": "今年二月二真有龙抬头",
+        "onboard_time": 1710076769,
+        "rank": 9,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 693411,
+        "num": 493739,
+        "word": "iPhone降价已成常规促销手段",
+        "onboard_time": 1710115770,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 641474,
+        "num": 493453,
+        "word": "癌症来临时身体会喊痛",
+        "onboard_time": 1710121468,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 490426,
+        "num": 490426,
+        "word": "2024奥斯卡红毯",
+        "onboard_time": 1710112762,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 441051,
+        "num": 441051,
+        "word": "为啥什么APP都要相机位置权限",
+        "onboard_time": 1710119850,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 400875,
+        "num": 400875,
+        "word": "相亲对象是我曾经删掉的人",
+        "onboard_time": 1710119014,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 391804,
+        "num": 391804,
+        "word": "赵丽颖看着奖杯笑了",
+        "onboard_time": 1710114931,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358268,
+        "num": 358268,
+        "word": "X疾病",
+        "onboard_time": 1710115650,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 330809,
+        "num": 330809,
+        "word": "小罗伯特唐尼奥斯卡最佳男配角",
+        "onboard_time": 1710118532,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237936,
+        "num": 237936,
+        "word": "高校规定博士五年未升副教授转岗后勤",
+        "onboard_time": 1710110358,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233844,
+        "num": 233844,
+        "word": "龙抬头",
+        "onboard_time": 1710112762,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 449103,
+        "num": 233802,
+        "word": "宁波女子洗车竟被店员洗公仔擦鞋",
+        "onboard_time": 1710122191,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288238,
+        "num": 228192,
+        "word": "女生被三花强行选中了",
+        "onboard_time": 1710116133,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253439,
+        "num": 224556,
+        "word": "张艺谋给赵丽颖粉丝签名",
+        "onboard_time": 1710119314,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220149,
+        "num": 220149,
+        "word": "谷爱凌夺金后马上赶回学校上课",
+        "onboard_time": 1710119850,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218368,
+        "num": 218368,
+        "word": "上海地铁11号线",
+        "onboard_time": 1710116850,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213868,
+        "num": 213868,
+        "word": "乱穿衣模式又开启了",
+        "onboard_time": 1710117573,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206387,
+        "num": 206387,
+        "word": "为何大家恋爱欲普遍降低了",
+        "onboard_time": 1710122011,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202072,
+        "num": 202072,
+        "word": "黄旭熙将4月1日solo出道",
+        "onboard_time": 1710119610,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192516,
+        "num": 192516,
+        "word": "猫 领养之前也没说要这样啊",
+        "onboard_time": 1710117573,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189719,
+        "num": 189719,
+        "word": "亚运会霍启刚郭晶晶都在却没见过面",
+        "onboard_time": 1710120270,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187598,
+        "num": 187598,
+        "word": "日本女演员撞脸丁禹兮",
+        "onboard_time": 1710086009,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186174,
+        "num": 186174,
+        "word": "奥本海默奥斯卡最佳配乐",
+        "onboard_time": 1710121951,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185494,
+        "num": 185494,
+        "word": "电影射雕英雄传侠之大者",
+        "onboard_time": 1710117814,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171402,
+        "num": 171402,
+        "word": "芭比海默",
+        "onboard_time": 1710122069,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164886,
+        "num": 164886,
+        "word": "清明节要调休",
+        "onboard_time": 1710071372,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155684,
+        "num": 155684,
+        "word": "奥本海默奥斯卡最佳剪辑",
+        "onboard_time": 1710121711,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154646,
+        "num": 154646,
+        "word": "亦庄线",
+        "onboard_time": 1710121651,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140501,
+        "num": 140501,
+        "word": "美国女子带死者到银行刷脸盗取存款",
+        "onboard_time": 1710089303,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126420,
+        "num": 126420,
+        "word": "波兰外长称北约军队已抵达乌克兰",
+        "onboard_time": 1710118176,
+        "rank": 38,
+        "category": "国外时政,军事"
+      },
+      {
+        "raw_hot": 124390,
+        "num": 124390,
+        "word": "男子花91万为女友买房分手要求退124万",
+        "onboard_time": 1710079172,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124277,
+        "num": 124277,
+        "word": "无人机把螃蟹送上边防前哨",
+        "onboard_time": 1710122253,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 118380,
+        "num": 118380,
+        "word": "只有i人受伤的世界达成了",
+        "onboard_time": 1710121290,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116087,
+        "num": 116087,
+        "word": "樊振东回应看霉霉演唱会感受",
+        "onboard_time": 1710083375,
+        "rank": 42,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 113166,
+        "num": 113166,
+        "word": "AI首次为龙抬头谱曲",
+        "onboard_time": 1710121832,
+        "rank": 43,
+        "category": "科学科普,情感"
+      },
+      {
+        "raw_hot": 112648,
+        "num": 112648,
+        "word": "蒋勤勤获奖感谢吴磊",
+        "onboard_time": 1710082413,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111614,
+        "num": 111614,
+        "word": "新手友好的春花拍摄技巧",
+        "onboard_time": 1710119372,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 111371,
+        "num": 111371,
+        "word": "狗狗Messi鼓掌",
+        "onboard_time": 1710122134,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109279,
+        "num": 109279,
+        "word": "烘焙师身上的奶味怎么去",
+        "onboard_time": 1710122430,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108903,
+        "num": 108903,
+        "word": "刘东昊因意外离世",
+        "onboard_time": 1710072089,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100211,
+        "num": 100211,
+        "word": "男子在120远程指导下为妻子接生",
+        "onboard_time": 1710120634,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#读懂总书记两会金句中的重要指引#"
+    }
+  }
+}

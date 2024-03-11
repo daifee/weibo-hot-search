@@ -1,6 +1,6 @@
 {
   "startTime": 1710087619285,
-  "endTime": 1710120677050,
+  "endTime": 1710122676564,
   "band_list": [
     {
       "raw_hot": 1969424,
@@ -27,6 +27,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1102125,
+      "num": 1102125,
+      "word": "打印准考证",
+      "onboard_time": 1710120510,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1056652,
       "num": 1056652,
       "word": "租房把房东家给改造了",
@@ -49,6 +57,14 @@
       "onboard_time": 1710115650,
       "rank": 5,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 883429,
+      "num": 883429,
+      "word": "男子因社恐40岁才找到合适的工作",
+      "onboard_time": 1710120752,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 825252,
@@ -99,6 +115,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 641474,
+      "num": 493453,
+      "word": "癌症来临时身体会喊痛",
+      "onboard_time": 1710121468,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 628528,
+      "num": 628528,
+      "word": "建议对65岁无养老金人群发基础养老金",
+      "onboard_time": 1710118653,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 598912,
       "num": 598912,
       "word": "赵丽颖看着奖杯笑了",
@@ -139,12 +171,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 502340,
-      "num": 502340,
-      "word": "建议对65岁无养老金人群发基础养老金",
-      "onboard_time": 1710118653,
-      "rank": 23,
-      "category": "国内时政"
+      "raw_hot": 520729,
+      "num": 520729,
+      "word": "2024奥斯卡颁奖典礼",
+      "onboard_time": 1710112825,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 498616,
@@ -171,11 +203,11 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 482368,
-      "num": 482368,
-      "word": "2024奥斯卡颁奖典礼",
-      "onboard_time": 1710112825,
-      "rank": 7,
+      "raw_hot": 490426,
+      "num": 490426,
+      "word": "2024奥斯卡红毯",
+      "onboard_time": 1710112762,
+      "rank": 9,
       "category": "电影"
     },
     {
@@ -193,6 +225,22 @@
       "onboard_time": 1710102375,
       "rank": 38,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 449103,
+      "num": 233802,
+      "word": "宁波女子洗车竟被店员洗公仔擦鞋",
+      "onboard_time": 1710122191,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441051,
+      "num": 441051,
+      "word": "为啥什么APP都要相机位置权限",
+      "onboard_time": 1710119850,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 434019,
@@ -219,12 +267,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 397484,
-      "num": 397484,
-      "word": "2024奥斯卡红毯",
-      "onboard_time": 1710112762,
-      "rank": 9,
-      "category": "电影"
+      "raw_hot": 400875,
+      "num": 400875,
+      "word": "相亲对象是我曾经删掉的人",
+      "onboard_time": 1710119014,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 382428,
@@ -233,14 +281,6 @@
       "onboard_time": 1710082413,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 344948,
-      "num": 344948,
-      "word": "相亲对象是我曾经删掉的人",
-      "onboard_time": 1710119014,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 343974,
@@ -265,14 +305,6 @@
       "onboard_time": 1710057870,
       "rank": 14,
       "category": "网红"
-    },
-    {
-      "raw_hot": 287609,
-      "num": 287609,
-      "word": "为啥什么APP都要相机位置权限",
-      "onboard_time": 1710119850,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 272589,
@@ -347,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230058,
-      "num": 230058,
-      "word": "打印准考证",
-      "onboard_time": 1710120510,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 229815,
       "num": 229815,
       "word": "波兰外长称北约军队已抵达乌克兰",
@@ -385,6 +409,14 @@
       "onboard_time": 1710089303,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206387,
+      "num": 206387,
+      "word": "为何大家恋爱欲普遍降低了",
+      "onboard_time": 1710122011,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 204047,
@@ -443,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189719,
+      "num": 189719,
+      "word": "亚运会霍启刚郭晶晶都在却没见过面",
+      "onboard_time": 1710120270,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187600,
       "num": 135315,
       "word": "黄绮珊爆改男妆",
@@ -451,12 +491,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187355,
-      "num": 187355,
-      "word": "亚运会霍启刚郭晶晶都在却没见过面",
-      "onboard_time": 1710120270,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 186174,
+      "num": 186174,
+      "word": "奥本海默奥斯卡最佳配乐",
+      "onboard_time": 1710121951,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 183156,
@@ -481,6 +521,14 @@
       "onboard_time": 1710118711,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171402,
+      "num": 171402,
+      "word": "芭比海默",
+      "onboard_time": 1710122069,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 169216,
@@ -539,12 +587,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155684,
+      "num": 155684,
+      "word": "奥本海默奥斯卡最佳剪辑",
+      "onboard_time": 1710121711,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 155397,
       "num": 155397,
       "word": "看不够的中国龙",
       "onboard_time": 1710120334,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154646,
+      "num": 154646,
+      "word": "亦庄线",
+      "onboard_time": 1710121651,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151490,
@@ -627,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124277,
+      "num": 124277,
+      "word": "无人机把螃蟹送上边防前哨",
+      "onboard_time": 1710122253,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 123455,
       "num": 123455,
       "word": "真的很容易对这样的人有好感",
@@ -641,6 +713,14 @@
       "onboard_time": 1710099496,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 118380,
+      "num": 118380,
+      "word": "只有i人受伤的世界达成了",
+      "onboard_time": 1710121290,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 117023,
@@ -659,11 +739,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113166,
+      "num": 113166,
+      "word": "AI首次为龙抬头谱曲",
+      "onboard_time": 1710121832,
+      "rank": 43,
+      "category": "科学科普,情感"
+    },
+    {
       "raw_hot": 112381,
       "num": 112381,
       "word": "草木人间",
       "onboard_time": 1710083311,
       "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 111371,
+      "num": 111371,
+      "word": "狗狗Messi鼓掌",
+      "onboard_time": 1710122134,
+      "rank": 46,
       "category": "电影"
     },
     {
@@ -673,6 +769,14 @@
       "onboard_time": 1710080794,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109279,
+      "num": 109279,
+      "word": "烘焙师身上的奶味怎么去",
+      "onboard_time": 1710122430,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 107130,

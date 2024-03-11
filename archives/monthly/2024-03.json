@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710120677050,
+  "endTime": 1710122676564,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1499,6 +1499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1102125,
+      "num": 1102125,
+      "word": "打印准考证",
+      "onboard_time": 1710120510,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1101093,
       "num": 1034617,
       "word": "藏海花 张起灵",
@@ -2313,6 +2321,14 @@
       "onboard_time": 1709686352,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 883429,
+      "num": 883429,
+      "word": "男子因社恐40岁才找到合适的工作",
+      "onboard_time": 1710120752,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 882849,
@@ -4179,6 +4195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 641474,
+      "num": 493453,
+      "word": "癌症来临时身体会喊痛",
+      "onboard_time": 1710121468,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 641463,
       "num": 641463,
       "word": "为什么退烧没几天又发烧了",
@@ -4337,6 +4361,14 @@
       "onboard_time": 1710082413,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 628528,
+      "num": 628528,
+      "word": "建议对65岁无养老金人群发基础养老金",
+      "onboard_time": 1710118653,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 627722,
@@ -5715,6 +5747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 520729,
+      "num": 520729,
+      "word": "2024奥斯卡颁奖典礼",
+      "onboard_time": 1710112825,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 519696,
       "num": 296114,
       "word": "刘诗诗 大女主",
@@ -5923,14 +5963,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 502340,
-      "num": 502340,
-      "word": "建议对65岁无养老金人群发基础养老金",
-      "onboard_time": 1710118653,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 501900,
       "num": 501900,
       "word": "医生熬夜后是怎么补救的",
@@ -6107,6 +6139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 490426,
+      "num": 490426,
+      "word": "2024奥斯卡红毯",
+      "onboard_time": 1710112762,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 490286,
       "num": 330493,
       "word": "朱雀输给民间队",
@@ -6249,14 +6289,6 @@
       "onboard_time": 1709776828,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 482368,
-      "num": 482368,
-      "word": "2024奥斯卡颁奖典礼",
-      "onboard_time": 1710112825,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 482319,
@@ -6795,6 +6827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 449103,
+      "num": 233802,
+      "word": "宁波女子洗车竟被店员洗公仔擦鞋",
+      "onboard_time": 1710122191,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 448863,
       "num": 448863,
       "word": "理想MEGA",
@@ -6913,6 +6953,14 @@
       "onboard_time": 1709729010,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 441051,
+      "num": 441051,
+      "word": "为啥什么APP都要相机位置权限",
+      "onboard_time": 1710119850,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 440730,
@@ -7763,6 +7811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 400875,
+      "num": 400875,
+      "word": "相亲对象是我曾经删掉的人",
+      "onboard_time": 1710119014,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 400519,
       "num": 400519,
       "word": "王俊凯或客串无名之辈2",
@@ -7817,14 +7873,6 @@
       "onboard_time": 1709540672,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397484,
-      "num": 397484,
-      "word": "2024奥斯卡红毯",
-      "onboard_time": 1710112762,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 396722,
@@ -9040,14 +9088,6 @@
       "word": "为什么很多人谈恋爱不公开了",
       "onboard_time": 1709255131,
       "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 344948,
-      "num": 344948,
-      "word": "相亲对象是我曾经删掉的人",
-      "onboard_time": 1710119014,
-      "rank": 46,
       "category": "情感"
     },
     {
@@ -10745,14 +10785,6 @@
       "onboard_time": 1709623115,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 287609,
-      "num": 287609,
-      "word": "为啥什么APP都要相机位置权限",
-      "onboard_time": 1710119850,
-      "rank": 22,
-      "category": "数码"
     },
     {
       "raw_hot": 287350,
@@ -12963,14 +12995,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 230058,
-      "num": 230058,
-      "word": "打印准考证",
-      "onboard_time": 1710120510,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 229982,
       "num": 229982,
       "word": "Steam私密购买功能上线",
@@ -14513,6 +14537,14 @@
       "onboard_time": 1709528735,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206387,
+      "num": 206387,
+      "word": "为何大家恋爱欲普遍降低了",
+      "onboard_time": 1710122011,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 206136,
@@ -16203,6 +16235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189719,
+      "num": 189719,
+      "word": "亚运会霍启刚郭晶晶都在却没见过面",
+      "onboard_time": 1710120270,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189563,
       "num": 189563,
       "word": "詹姆斯受伤",
@@ -16451,14 +16491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187355,
-      "num": 187355,
-      "word": "亚运会霍启刚郭晶晶都在却没见过面",
-      "onboard_time": 1710120270,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187192,
       "num": 292184,
       "word": "唐探2时间线连上了",
@@ -16553,6 +16585,14 @@
       "onboard_time": 1709471070,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186174,
+      "num": 186174,
+      "word": "奥本海默奥斯卡最佳配乐",
+      "onboard_time": 1710121951,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 186109,
@@ -18153,6 +18193,14 @@
       "onboard_time": 1709603549,
       "rank": 34,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 171402,
+      "num": 171402,
+      "word": "芭比海默",
+      "onboard_time": 1710122069,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 171043,
@@ -20059,6 +20107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155684,
+      "num": 155684,
+      "word": "奥本海默奥斯卡最佳剪辑",
+      "onboard_time": 1710121711,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 155592,
       "num": 155592,
       "word": "叶一茜晒全家福",
@@ -20184,6 +20240,14 @@
       "word": "女生返校为室友带60多斤特产",
       "onboard_time": 1709534547,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154646,
+      "num": 154646,
+      "word": "亦庄线",
+      "onboard_time": 1710121651,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -24139,6 +24203,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 124277,
+      "num": 124277,
+      "word": "无人机把螃蟹送上边防前哨",
+      "onboard_time": 1710122253,
+      "rank": 40,
+      "category": "军事"
+    },
+    {
       "raw_hot": 124117,
       "num": 124117,
       "word": "ChatGPT论文修改指令",
@@ -24875,6 +24947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118380,
+      "num": 118380,
+      "word": "只有i人受伤的世界达成了",
+      "onboard_time": 1710121290,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118314,
       "num": 118314,
       "word": "电影破墓",
@@ -25555,6 +25635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113166,
+      "num": 113166,
+      "word": "AI首次为龙抬头谱曲",
+      "onboard_time": 1710121832,
+      "rank": 43,
+      "category": "科学科普,情感"
+    },
+    {
       "raw_hot": 113038,
       "num": 113038,
       "word": "eStar掉落B组",
@@ -25755,6 +25843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111371,
+      "num": 111371,
+      "word": "狗狗Messi鼓掌",
+      "onboard_time": 1710122134,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111367,
       "num": 111367,
       "word": "永安梦",
@@ -25929,6 +26025,14 @@
       "onboard_time": 1709907996,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109279,
+      "num": 109279,
+      "word": "烘焙师身上的奶味怎么去",
+      "onboard_time": 1710122430,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 109229,
