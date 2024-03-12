@@ -1,7 +1,23 @@
 {
   "startTime": 1710174076566,
-  "endTime": 1710200056313,
+  "endTime": 1710205837098,
   "band_list": [
+    {
+      "raw_hot": 1323794,
+      "num": 1323794,
+      "word": "林拓确诊渐冻症",
+      "onboard_time": 1710203013,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1270768,
+      "num": 972843,
+      "word": "向往的生活小羊小不点去世",
+      "onboard_time": 1710199828,
+      "rank": 30,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1244671,
       "num": 1244671,
@@ -9,6 +25,30 @@
       "onboard_time": 1710174506,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1206943,
+      "num": 1206943,
+      "word": "福岛从日本鬼城变成了世界伤口",
+      "onboard_time": 1710202894,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 967587,
+      "num": 461137,
+      "word": "在家做顿饭等于吸20分钟汽车尾气",
+      "onboard_time": 1710201331,
+      "rank": 9,
+      "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 949318,
+      "num": 949318,
+      "word": "S组什么瓜",
+      "onboard_time": 1710202410,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 855766,
@@ -19,8 +59,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 751160,
-      "num": 220537,
+      "raw_hot": 783739,
+      "num": 783739,
+      "word": "韩网评奥斯卡歧视亚裔",
+      "onboard_time": 1710200309,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 782344,
+      "num": 460753,
       "word": "香港双婴尸案今日提堂",
       "onboard_time": 1710194356,
       "rank": 30,
@@ -35,6 +83,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 701994,
+      "num": 701994,
+      "word": "湿气重毁身材肚子大",
+      "onboard_time": 1710195678,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 654698,
       "num": 654698,
       "word": "凯特王妃就P图道歉",
@@ -44,19 +100,19 @@
     },
     {
       "raw_hot": 595800,
-      "num": 220033,
+      "num": 459013,
       "word": "凯特王妃已有2个多月未出席活动",
       "onboard_time": 1710177980,
       "rank": 31,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 589335,
-      "num": 219488,
-      "word": "湿气重毁身材肚子大",
-      "onboard_time": 1710195678,
-      "rank": 23,
-      "category": "健康医疗"
+      "raw_hot": 591048,
+      "num": 459689,
+      "word": "科目三被扣了1100分",
+      "onboard_time": 1710201930,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 560102,
@@ -73,6 +129,14 @@
       "onboard_time": 1710171690,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 552134,
+      "num": 552134,
+      "word": "沈腾马丽回应回归话剧舞台",
+      "onboard_time": 1710201690,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 526477,
@@ -123,6 +187,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 458858,
+      "num": 458858,
+      "word": "短短十五秒猫猫起了四次杀心",
+      "onboard_time": 1710202774,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 417390,
+      "num": 417390,
+      "word": "中阳一煤矿溃仓5人遇难2人失联",
+      "onboard_time": 1710202774,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408535,
       "num": 408535,
       "word": "白敬亭章若楠难哄最新路透",
@@ -131,12 +211,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 384513,
-      "num": 384513,
+      "raw_hot": 388228,
+      "num": 388228,
       "word": "王楚然双开门大衣",
       "onboard_time": 1710170073,
       "rank": 9,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 365104,
+      "num": 365104,
+      "word": "研究称每一滴酒都对身体有害",
+      "onboard_time": 1710197721,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 356810,
@@ -148,7 +236,7 @@
     },
     {
       "raw_hot": 352608,
-      "num": 233184,
+      "num": 238365,
       "word": "丈夫看店铺监控发现妻子出轨",
       "onboard_time": 1710163892,
       "rank": 18,
@@ -163,6 +251,22 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 334765,
+      "num": 334765,
+      "word": "官方通报广东潮州3名男孩失踪",
+      "onboard_time": 1710203130,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325183,
+      "num": 325183,
+      "word": "刘浩存演惠英红奶奶",
+      "onboard_time": 1710185417,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 309253,
       "num": 309253,
       "word": "待在小县城为什么会有窒息感",
@@ -172,7 +276,7 @@
     },
     {
       "raw_hot": 289887,
-      "num": 199991,
+      "num": 212207,
       "word": "为什么男生对女生是不是独生女这么看重",
       "onboard_time": 1710167795,
       "rank": 21,
@@ -185,6 +289,14 @@
       "onboard_time": 1710151232,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 278259,
+      "num": 278259,
+      "word": "易烊千玺网站更新",
+      "onboard_time": 1710198865,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 277699,
@@ -203,12 +315,20 @@
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 238369,
-      "num": 238369,
-      "word": "易烊千玺网站更新",
-      "onboard_time": 1710198865,
+      "raw_hot": 253383,
+      "num": 253383,
+      "word": "4GB未拆封初代iPhone再次拍卖",
+      "onboard_time": 1710204693,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 253297,
+      "num": 253297,
+      "word": "女生有自己的洗头规划",
+      "onboard_time": 1710204091,
       "rank": 26,
-      "category": "艺人"
+      "category": "情感"
     },
     {
       "raw_hot": 220642,
@@ -217,6 +337,14 @@
       "onboard_time": 1710169414,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 208769,
+      "num": 208769,
+      "word": "C罗亚冠出局",
+      "onboard_time": 1710199886,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 203943,
@@ -243,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193372,
+      "num": 193372,
+      "word": "高君雨妈妈称没有接受捐款",
+      "onboard_time": 1710199524,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191680,
       "num": 191680,
       "word": "耙耙柑不是粑粑柑",
@@ -251,12 +387,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 184575,
-      "num": 184575,
-      "word": "刘浩存演惠英红奶奶",
-      "onboard_time": 1710185417,
-      "rank": 44,
-      "category": "电影"
+      "raw_hot": 191625,
+      "num": 191625,
+      "word": "新款iPad发布时间",
+      "onboard_time": 1710205353,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 182481,
@@ -275,6 +411,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176060,
+      "num": 176060,
+      "word": "付费面试辅导服务真的靠谱吗",
+      "onboard_time": 1710204755,
+      "rank": 34,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 170403,
+      "num": 170403,
+      "word": "近10年考研国家线多在3月中旬公布",
+      "onboard_time": 1710167433,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 167363,
       "num": 167363,
       "word": "周翊然田曦薇热舞",
@@ -291,20 +443,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 152233,
-      "num": 152233,
-      "word": "高君雨妈妈称没有接受捐款",
-      "onboard_time": 1710199524,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 153794,
+      "num": 153794,
+      "word": "Hero新教练老林",
+      "onboard_time": 1710199225,
+      "rank": 32,
+      "category": "电竞"
     },
     {
-      "raw_hot": 146810,
-      "num": 146810,
-      "word": "研究称每一滴酒都对身体有害",
-      "onboard_time": 1710197721,
-      "rank": 23,
-      "category": "健康医疗"
+      "raw_hot": 147039,
+      "num": 147039,
+      "word": "大四是一场巨大的戒断",
+      "onboard_time": 1710205712,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 144979,
@@ -313,6 +465,14 @@
       "onboard_time": 1710171390,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 140508,
+      "num": 140508,
+      "word": "一上班就确诊为宁贵人",
+      "onboard_time": 1710200906,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138682,
@@ -329,6 +489,14 @@
       "onboard_time": 1710156749,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137434,
+      "num": 137434,
+      "word": "三种家庭致癌油",
+      "onboard_time": 1710200244,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 136083,
@@ -363,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123821,
+      "num": 123821,
+      "word": "港风是陈都灵的统治区",
+      "onboard_time": 1710177740,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 123353,
       "num": 123353,
       "word": "发现农村盖房子会给猫留门",
@@ -387,12 +563,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 116846,
-      "num": 116846,
-      "word": "向往的生活小羊小不点去世",
-      "onboard_time": 1710199828,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 119557,
+      "num": 119557,
+      "word": "金智媛好美",
+      "onboard_time": 1710205770,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 118710,
+      "num": 118710,
+      "word": "迷风花 下课",
+      "onboard_time": 1710199346,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 116356,
@@ -401,14 +585,6 @@
       "onboard_time": 1710170852,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103731,
-      "num": 103731,
-      "word": "迷风花 下课",
-      "onboard_time": 1710199346,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 103571,
@@ -425,14 +601,6 @@
       "onboard_time": 1710170608,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 101655,
-      "num": 101655,
-      "word": "Hero新教练老林",
-      "onboard_time": 1710199225,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 100771,
@@ -475,28 +643,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87112,
-      "num": 123439,
-      "word": "近10年考研国家线多在3月中旬公布",
-      "onboard_time": 1710167433,
-      "rank": 42,
-      "category": "教育"
-    },
-    {
       "raw_hot": 86358,
       "num": 86358,
       "word": "李宝英李钟硕重聚合照",
       "onboard_time": 1710166652,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 85789,
-      "num": 85789,
-      "word": "港风是陈都灵的统治区",
-      "onboard_time": 1710177740,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 81047,
@@ -579,14 +731,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 63540,
-      "num": 63540,
-      "word": "C罗亚冠出局",
-      "onboard_time": 1710199886,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 56505,
       "num": 56505,
       "word": "高君雨签约公司曾称非常负责",
@@ -660,7 +804,7 @@
     },
     {
       "raw_hot": 13306,
-      "num": 449356,
+      "num": 990232,
       "word": "共话新质生产力",
       "onboard_time": 1710146311,
       "rank": 2,
