@@ -1,0 +1,410 @@
+{
+  "runTime": 1710214447157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1716922,
+        "num": 1716922,
+        "word": "金价狂飙涨疯普通人还能再买吗",
+        "onboard_time": 1710209189,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1279066,
+        "num": 1279066,
+        "word": "广州越秀区车祸致11人受伤",
+        "onboard_time": 1710212910,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86378,
+        "num": 1196730,
+        "word": "9个关键词了解两会民生热点",
+        "onboard_time": 1710210569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1147251,
+        "num": 1147251,
+        "word": "警方通报广州车祸",
+        "onboard_time": 1710212491,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 936363,
+        "num": 936363,
+        "word": "欢乐颂5定档",
+        "onboard_time": 1710211050,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1234391,
+        "num": 921612,
+        "word": "广州北京路",
+        "onboard_time": 1710210449,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 819130,
+        "num": 819130,
+        "word": "首尔大学医学院教授或将集体辞职",
+        "onboard_time": 1710209429,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 658474,
+        "num": 658474,
+        "word": "长城汽车员工大批离职",
+        "onboard_time": 1710211109,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 603579,
+        "num": 603579,
+        "word": "于适CK预热",
+        "onboard_time": 1710213091,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 574467,
+        "num": 574467,
+        "word": "向往的生活小羊小不点去世",
+        "onboard_time": 1710199828,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449362,
+        "num": 449362,
+        "word": "女教师哺乳期被学校调岗为保洁",
+        "onboard_time": 1710174506,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443651,
+        "num": 443651,
+        "word": "X疾病会到来吗",
+        "onboard_time": 1710207031,
+        "rank": 11,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 413168,
+        "num": 413168,
+        "word": "国家线今天出吗",
+        "onboard_time": 1710208051,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 399334,
+        "num": 399334,
+        "word": "奥斯卡春山学",
+        "onboard_time": 1710205953,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 392805,
+        "num": 392805,
+        "word": "6部影片定档五一档",
+        "onboard_time": 1710213750,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 378228,
+        "num": 378228,
+        "word": "福岛从日本鬼城变成了世界伤口",
+        "onboard_time": 1710202894,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366122,
+        "num": 366122,
+        "word": "S组什么瓜",
+        "onboard_time": 1710202410,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 337538,
+        "num": 337538,
+        "word": "aespa录cha时黄铉辰偷偷路过",
+        "onboard_time": 1710209670,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 327144,
+        "num": 327144,
+        "word": "大四是一场巨大的戒断",
+        "onboard_time": 1710205712,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 704474,
+        "num": 322028,
+        "word": "误以为是日本动漫男子怒砸签名墙",
+        "onboard_time": 1710211050,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380136,
+        "num": 317371,
+        "word": "点读机女孩需承担法律责任吗",
+        "onboard_time": 1710212611,
+        "rank": 20,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 305091,
+        "num": 305091,
+        "word": "白鹿王楚然坐一起",
+        "onboard_time": 1710207150,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295352,
+        "num": 295352,
+        "word": "广州漫展",
+        "onboard_time": 1710210209,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290876,
+        "num": 290876,
+        "word": "韩网评奥斯卡歧视亚裔",
+        "onboard_time": 1710200309,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 266297,
+        "num": 266297,
+        "word": "蔚来CEO要求员工不得参与理想MEGA舆论",
+        "onboard_time": 1710213629,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 246635,
+        "num": 246635,
+        "word": "林拓确诊渐冻症",
+        "onboard_time": 1710203013,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244068,
+        "num": 244068,
+        "word": "金智媛好美",
+        "onboard_time": 1710205770,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223921,
+        "num": 223921,
+        "word": "3200元直播间买金渐层刚到家就死亡",
+        "onboard_time": 1710213869,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221446,
+        "num": 221446,
+        "word": "科目三被扣了1100分",
+        "onboard_time": 1710201930,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89940,
+        "num": 219945,
+        "word": "战鹰霞光飞训大片",
+        "onboard_time": 1710212430,
+        "rank": 29,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 218822,
+        "num": 218822,
+        "word": "易烊千玺壁纸",
+        "onboard_time": 1710211109,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 215639,
+        "num": 215639,
+        "word": "日本纳豆老仙人",
+        "onboard_time": 1710213929,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 211250,
+        "num": 211250,
+        "word": "王楚然双开门大衣",
+        "onboard_time": 1710170073,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205755,
+        "num": 205755,
+        "word": "全国第四的安陵容你自卑什么",
+        "onboard_time": 1710212249,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63313,
+        "num": 197416,
+        "word": "赵明称联名对手机影像提升有限",
+        "onboard_time": 1710213690,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 195077,
+        "num": 195077,
+        "word": "广州越秀区车祸肇事司机已被控制",
+        "onboard_time": 1710213808,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185220,
+        "num": 185220,
+        "word": "主人替狗吵架让狗抬不起头",
+        "onboard_time": 1710211890,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183580,
+        "num": 183580,
+        "word": "走路去深圳北站爷爷因涉嫌诈骗被拘",
+        "onboard_time": 1710210329,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182987,
+        "num": 182987,
+        "word": "一个湿气大的人什么样",
+        "onboard_time": 1710211890,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180119,
+        "num": 180119,
+        "word": "X病毒并非是一种病毒",
+        "onboard_time": 1710213210,
+        "rank": 39,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 159401,
+        "num": 159401,
+        "word": "这5类人真的不适合染发",
+        "onboard_time": 1710210688,
+        "rank": 40,
+        "category": "美妆,健康医疗"
+      },
+      {
+        "raw_hot": 144970,
+        "num": 144970,
+        "word": "短短十五秒猫猫起了四次杀心",
+        "onboard_time": 1710202774,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144757,
+        "num": 144757,
+        "word": "最高法解释姐弟坠亡案为何双主犯",
+        "onboard_time": 1710211709,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144264,
+        "num": 144264,
+        "word": "Selina晒儿子近照",
+        "onboard_time": 1710206972,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142319,
+        "num": 142319,
+        "word": "电影间谍过家家定档五一",
+        "onboard_time": 1710212850,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137590,
+        "num": 137590,
+        "word": "免费领养猫的真相或是贷款买猫",
+        "onboard_time": 1710208650,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128962,
+        "num": 128962,
+        "word": "狗狗Messi鼓掌的真相",
+        "onboard_time": 1710212968,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128542,
+        "num": 128542,
+        "word": "黑夜告白",
+        "onboard_time": 1710212850,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126484,
+        "num": 126484,
+        "word": "媒体评点读机女孩事件",
+        "onboard_time": 1710206071,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124987,
+        "num": 124987,
+        "word": "幼儿园闺蜜已经懂怎么出片了",
+        "onboard_time": 1710207929,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平两会上的这些论述值得深读#"
+    }
+  }
+}
