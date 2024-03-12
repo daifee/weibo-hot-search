@@ -1,6 +1,6 @@
 {
   "startTime": 1710260540441,
-  "endTime": 1710260540441,
+  "endTime": 1710261405163,
   "band_list": [
     {
       "raw_hot": 1040245,
@@ -115,20 +115,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 303173,
+      "num": 303173,
+      "word": "赵今麦最新妆造",
+      "onboard_time": 1710258270,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 294163,
       "num": 267024,
       "word": "满舒克HPV检测呈阴性",
       "onboard_time": 1710229771,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 287708,
-      "num": 278303,
-      "word": "赵今麦最新妆造",
-      "onboard_time": 1710258270,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 283861,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188822,
+      "num": 203437,
+      "word": "经常剪头发不会长得更快",
+      "onboard_time": 1710258809,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 172433,
       "num": 172433,
       "word": "纪凌尘早期旧照",
@@ -227,14 +235,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 165911,
-      "num": 203437,
-      "word": "经常剪头发不会长得更快",
-      "onboard_time": 1710258809,
-      "rank": 24,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 161792,
       "num": 161792,
       "word": "高君雨同学发声",
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 151335,
-      "num": 123796,
+      "num": 146815,
       "word": "为什么百香果不能带进监狱",
       "onboard_time": 1710234336,
       "rank": 35,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 146156,
-      "num": 121444,
+      "num": 125400,
       "word": "朴成训出现了",
       "onboard_time": 1710256711,
       "rank": 36,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 130284,
-      "num": 130284,
+      "num": 179252,
       "word": "HPV感染相当于宫颈得了一次感冒",
       "onboard_time": 1710246513,
       "rank": 33,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 124280,
-      "num": 124280,
+      "num": 139289,
       "word": "喜茶",
       "onboard_time": 1710244891,
       "rank": 34,
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110930,
+      "num": 101000,
+      "word": "谢谢你温暖我 小叔子",
+      "onboard_time": 1710260069,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106778,
       "num": 106778,
       "word": "唐艺昕纹身",
@@ -363,12 +371,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 77334,
+      "raw_hot": 82165,
       "num": 92958,
       "word": "Uzi回应改名JackeyLove",
       "onboard_time": 1710249211,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78554,
+      "num": 92711,
+      "word": "逆水寒",
+      "onboard_time": 1710258090,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 75795,
@@ -377,14 +393,6 @@
       "onboard_time": 1710250473,
       "rank": 29,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 71661,
-      "num": 92711,
-      "word": "逆水寒",
-      "onboard_time": 1710258090,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 67702,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#习近平总书记出席2024全国两会纪实#"
+    },
+    {
+      "word": "#习近平两会上的这些论述值得深读#"
     }
   ]
 }
