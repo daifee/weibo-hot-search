@@ -1,0 +1,410 @@
+{
+  "runTime": 1710224534186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1202666,
+        "num": 1202666,
+        "word": "汤唯超短发",
+        "onboard_time": 1710219516,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1183830,
+        "num": 1183830,
+        "word": "樊振东vs林诗栋",
+        "onboard_time": 1710223650,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55319,
+        "num": 1015172,
+        "word": "9个关键词了解两会民生热点",
+        "onboard_time": 1710210569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1013208,
+        "num": 1013208,
+        "word": "超80%女性一生至少有过一次HPV感染",
+        "onboard_time": 1710221013,
+        "rank": 3,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 634562,
+        "num": 634562,
+        "word": "没想到iPhone备忘录还能这么用",
+        "onboard_time": 1710222033,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 592908,
+        "num": 592908,
+        "word": "十个勤天种树直播",
+        "onboard_time": 1710223111,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522815,
+        "num": 522815,
+        "word": "一个节目心疼三个女人",
+        "onboard_time": 1710214469,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515358,
+        "num": 515358,
+        "word": "雷军称对价格战做好了充分准备",
+        "onboard_time": 1710219690,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 488719,
+        "num": 488719,
+        "word": "杨幂赵丽颖参演酱园弄",
+        "onboard_time": 1710220236,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 460127,
+        "num": 460127,
+        "word": "农村断缴城乡居民医保背后",
+        "onboard_time": 1710221492,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648101,
+        "num": 459536,
+        "word": "金价狂飙涨疯普通人还能再买吗",
+        "onboard_time": 1710209189,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 644815,
+        "num": 458134,
+        "word": "女员工入职3个月怀孕遭开除",
+        "onboard_time": 1710217174,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500120,
+        "num": 455611,
+        "word": "孙艺珍晒娃日常",
+        "onboard_time": 1710222811,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450173,
+        "num": 450173,
+        "word": "福建沙虫",
+        "onboard_time": 1710215672,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 415866,
+        "num": 415866,
+        "word": "王鹤棣终于演警察了",
+        "onboard_time": 1710215794,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359078,
+        "num": 359078,
+        "word": "王曼昱vs单晓娜",
+        "onboard_time": 1710223352,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328806,
+        "num": 328806,
+        "word": "国家线今天出吗",
+        "onboard_time": 1710208051,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 322188,
+        "num": 322188,
+        "word": "丈夫藏10万练功券被妻子拿去存钱",
+        "onboard_time": 1710215251,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304874,
+        "num": 304874,
+        "word": "蔚来CEO要求员工不得参与理想MEGA舆论",
+        "onboard_time": 1710213629,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 265236,
+        "num": 265236,
+        "word": "甜茶不甜了",
+        "onboard_time": 1710219757,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263594,
+        "num": 263594,
+        "word": "未来黄金价格每克或将超过750元",
+        "onboard_time": 1710217955,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 249941,
+        "num": 249941,
+        "word": "儿童近视神药获批",
+        "onboard_time": 1710216512,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 247893,
+        "num": 247893,
+        "word": "田曦薇刘浩存G社生图",
+        "onboard_time": 1710216750,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 226323,
+        "num": 226323,
+        "word": "律师称高君雨事件或造成信任危机",
+        "onboard_time": 1710223049,
+        "rank": 23,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 225174,
+        "num": 225174,
+        "word": "王一博连说了八个不要",
+        "onboard_time": 1710217053,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 223213,
+        "num": 223213,
+        "word": "点读机女孩需承担法律责任吗",
+        "onboard_time": 1710212611,
+        "rank": 25,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 207507,
+        "num": 207507,
+        "word": "酱园弄阵容",
+        "onboard_time": 1710217235,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217244,
+        "num": 207446,
+        "word": "刘浩存郑州",
+        "onboard_time": 1710223891,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207346,
+        "num": 207346,
+        "word": "广西两女教师打学生被停课",
+        "onboard_time": 1710223830,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206353,
+        "num": 206353,
+        "word": "和种地吧一起种树吧",
+        "onboard_time": 1710219395,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196951,
+        "num": 196951,
+        "word": "ArianaGrande见到杨紫琼的反应",
+        "onboard_time": 1710222450,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185515,
+        "num": 185515,
+        "word": "3200元直播间买金渐层刚到家就死亡",
+        "onboard_time": 1710213869,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184246,
+        "num": 184246,
+        "word": "百雀羚欧莱雅过度包装被点名",
+        "onboard_time": 1710219997,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 180140,
+        "num": 180140,
+        "word": "爷爷给我带来了一只小狗",
+        "onboard_time": 1710222272,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178074,
+        "num": 178074,
+        "word": "饭后有3个表现是胃癌肝癌来临信号",
+        "onboard_time": 1710224073,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173848,
+        "num": 173848,
+        "word": "6部影片定档五一档",
+        "onboard_time": 1710213750,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172992,
+        "num": 172992,
+        "word": "被公司架空又不主动辞退",
+        "onboard_time": 1710221611,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172040,
+        "num": 172040,
+        "word": "酱园弄男主是雷佳音",
+        "onboard_time": 1710224131,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166161,
+        "num": 166161,
+        "word": "TikTok首席执行官将造访美国国会",
+        "onboard_time": 1710224311,
+        "rank": 38,
+        "category": "互联网,国外时政"
+      },
+      {
+        "raw_hot": 160946,
+        "num": 160946,
+        "word": "理想mega",
+        "onboard_time": 1710221193,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 159787,
+        "num": 159787,
+        "word": "欢乐颂5定档",
+        "onboard_time": 1710211050,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152639,
+        "num": 152639,
+        "word": "纪凌尘的牙",
+        "onboard_time": 1710224490,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148610,
+        "num": 148610,
+        "word": "种地吧",
+        "onboard_time": 1710209311,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143914,
+        "num": 143914,
+        "word": "点读机女孩",
+        "onboard_time": 1710224432,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 142283,
+        "num": 142283,
+        "word": "车企降价谁才是真让利",
+        "onboard_time": 1710224370,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 133956,
+        "num": 133956,
+        "word": "大侦探百案纪念周",
+        "onboard_time": 1710220352,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132507,
+        "num": 132507,
+        "word": "易烊千玺壁纸",
+        "onboard_time": 1710211109,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 132398,
+        "num": 132398,
+        "word": "半熟恋人",
+        "onboard_time": 1710221312,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132305,
+        "num": 132305,
+        "word": "赵露思新高定首穿",
+        "onboard_time": 1710218197,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 117580,
+        "num": 131894,
+        "word": "C罗破门后双手合十向球迷道歉",
+        "onboard_time": 1710223231,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平两会上的这些论述值得深读#"
+    }
+  }
+}
