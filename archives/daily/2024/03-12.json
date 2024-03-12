@@ -1,6 +1,6 @@
 {
   "startTime": 1710174076566,
-  "endTime": 1710242053420,
+  "endTime": 1710243243840,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -65,6 +65,14 @@
       "onboard_time": 1710208890,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 1537086,
+      "num": 1537086,
+      "word": "杨威双胞胎女儿在家上学",
+      "onboard_time": 1710239614,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 1457349,
@@ -145,14 +153,6 @@
       "onboard_time": 1710210449,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1218778,
-      "num": 1218778,
-      "word": "杨威双胞胎女儿在家上学",
-      "onboard_time": 1710239614,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 1210265,
@@ -387,12 +387,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 764028,
+      "num": 555507,
+      "word": "高君雨同学发声",
+      "onboard_time": 1710241233,
+      "rank": 16,
+      "category": "网红"
+    },
+    {
       "raw_hot": 761251,
       "num": 658474,
       "word": "长城汽车员工大批离职",
       "onboard_time": 1710211109,
       "rank": 10,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 750116,
+      "num": 538335,
+      "word": "点读机女孩事件最高可处3年有期徒刑",
+      "onboard_time": 1710240513,
+      "rank": 14,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 742078,
@@ -675,14 +691,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 519489,
-      "num": 519489,
-      "word": "点读机女孩事件最高可处3年有期徒刑",
-      "onboard_time": 1710240513,
-      "rank": 14,
-      "category": "网红,社会新闻"
-    },
-    {
       "raw_hot": 518923,
       "num": 518923,
       "word": "为什么朋友圈这条线有长有短",
@@ -715,6 +723,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 507824,
+      "num": 323785,
+      "word": "海底捞出麻将了",
+      "onboard_time": 1710239732,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 500698,
       "num": 500698,
       "word": "农村断缴城乡居民医保背后",
@@ -729,14 +745,6 @@
       "onboard_time": 1710168812,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 493069,
-      "num": 317626,
-      "word": "海底捞出麻将了",
-      "onboard_time": 1710239732,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 491973,
@@ -843,14 +851,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 450040,
-      "num": 450040,
-      "word": "高君雨同学发声",
-      "onboard_time": 1710241233,
-      "rank": 16,
-      "category": "网红"
-    },
-    {
       "raw_hot": 443651,
       "num": 443651,
       "word": "X疾病会到来吗",
@@ -859,12 +859,28 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 434778,
+      "num": 434778,
+      "word": "娃哈哈 保洁",
+      "onboard_time": 1710242374,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 428456,
       "num": 428456,
       "word": "苏打绿杭州",
       "onboard_time": 1710218017,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 426298,
+      "num": 426298,
+      "word": "小徐考研成绩超国家线66分",
+      "onboard_time": 1710242673,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 423360,
@@ -1395,6 +1411,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 240156,
+      "num": 240156,
+      "word": "什么工作适合考公过渡",
+      "onboard_time": 1710239492,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 237967,
       "num": 237967,
       "word": "大侦探百案纪念周",
@@ -1451,6 +1475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 230431,
+      "num": 230431,
+      "word": "俄国防部通报一架伊尔76坠毁",
+      "onboard_time": 1710242794,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 229785,
       "num": 229785,
       "word": "看种地吧突然理解猪八戒了",
@@ -1467,12 +1499,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 228265,
+      "num": 228265,
+      "word": "高君雨代言点读机产品已注销",
+      "onboard_time": 1710241655,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 226561,
       "num": 226561,
       "word": "科比雕像出现三处拼写错误",
       "onboard_time": 1710210209,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226553,
+      "num": 226553,
+      "word": "为什么百香果不能带进监狱",
+      "onboard_time": 1710234336,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 226323,
@@ -1683,12 +1731,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 206206,
-      "num": 206206,
-      "word": "高君雨代言点读机产品已注销",
-      "onboard_time": 1710241655,
-      "rank": 35,
-      "category": "网红"
+      "raw_hot": 205604,
+      "num": 683694,
+      "word": "杭州法喜寺500岁玉兰如期绽放",
+      "onboard_time": 1710226473,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 205279,
@@ -1851,20 +1899,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193315,
+      "num": 193315,
+      "word": "烈焰",
+      "onboard_time": 1710242311,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192549,
       "num": 192549,
       "word": "化妆品四大隐形陷阱",
       "onboard_time": 1710216393,
       "rank": 38,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 192465,
-      "num": 683694,
-      "word": "杭州法喜寺500岁玉兰如期绽放",
-      "onboard_time": 1710226473,
-      "rank": 34,
-      "category": "旅游"
     },
     {
       "raw_hot": 191680,
@@ -1979,14 +2027,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 179104,
-      "num": 179104,
-      "word": "为什么百香果不能带进监狱",
-      "onboard_time": 1710234336,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 178345,
       "num": 178345,
       "word": "酱园弄",
@@ -2083,14 +2123,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 170030,
-      "num": 170030,
-      "word": "什么工作适合考公过渡",
-      "onboard_time": 1710239492,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
       "raw_hot": 169630,
       "num": 169630,
       "word": "射手座的精神洁癖很强",
@@ -2179,6 +2211,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158976,
+      "num": 158976,
+      "word": "研究生的十二大美德",
+      "onboard_time": 1710243214,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 158627,
+      "num": 158627,
+      "word": "马丽爽文大女主照进现实",
+      "onboard_time": 1710243033,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157290,
       "num": 157290,
       "word": "烈焰 开局亲爹亲娘把我杀",
@@ -2233,6 +2281,22 @@
       "onboard_time": 1710207210,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150343,
+      "num": 150343,
+      "word": "因为性格太软被公司部门抢着要",
+      "onboard_time": 1710243152,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 148056,
+      "num": 148056,
+      "word": "焉栩嘉 不用了谢谢",
+      "onboard_time": 1710243214,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148042,
@@ -2305,6 +2369,14 @@
       "onboard_time": 1710200244,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 136136,
+      "num": 136136,
+      "word": "应聘时有可能HR也被骗了",
+      "onboard_time": 1710243091,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 136083,
