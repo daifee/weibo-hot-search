@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710268462032,
+  "endTime": 1710270967142,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -9163,6 +9163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16228,
+      "num": 18580,
+      "word": "两会",
+      "onboard_time": 1710270736,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14916,
       "num": 17168,
       "word": "一个突变的柠檬果实",
@@ -9184,6 +9192,14 @@
       "word": "2024两会好声音",
       "onboard_time": 1709972310,
       "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 13140,
+      "num": 18514,
+      "word": "代表建议考研初试分步统一命题",
+      "onboard_time": 1710270917,
+      "rank": 49,
       "category": "国内时政"
     },
     {
