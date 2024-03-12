@@ -1,0 +1,410 @@
+{
+  "runTime": 1710210833291,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1614266,
+        "num": 1614266,
+        "word": "小米SU7价格",
+        "onboard_time": 1710208890,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1250055,
+        "num": 1250055,
+        "word": "X疾病会暴发吗",
+        "onboard_time": 1710207031,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 11298,
+        "num": 1110596,
+        "word": "共话新质生产力",
+        "onboard_time": 1710146311,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1099750,
+        "num": 1099750,
+        "word": "雷军官宣3月28日小米SU7上市",
+        "onboard_time": 1710208950,
+        "rank": 3,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 851371,
+        "num": 851371,
+        "word": "大四是一场巨大的戒断",
+        "onboard_time": 1710205712,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 781202,
+        "num": 781202,
+        "word": "福岛从日本鬼城变成了世界伤口",
+        "onboard_time": 1710202894,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732002,
+        "num": 732002,
+        "word": "向往的生活小羊小不点去世",
+        "onboard_time": 1710199828,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 674703,
+        "num": 674703,
+        "word": "金价狂飙涨疯普通人还能再买吗",
+        "onboard_time": 1710209189,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 664182,
+        "num": 664182,
+        "word": "国家线今天出吗",
+        "onboard_time": 1710208051,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 542624,
+        "num": 542624,
+        "word": "奥斯卡春山学",
+        "onboard_time": 1710205953,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 549901,
+        "num": 542290,
+        "word": "S组什么瓜",
+        "onboard_time": 1710202410,
+        "rank": 10,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 541953,
+        "num": 541953,
+        "word": "首尔大学医学院教授或将集体辞职",
+        "onboard_time": 1710209429,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 487840,
+        "num": 487840,
+        "word": "女教师哺乳期被学校调岗为保洁",
+        "onboard_time": 1710174506,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462171,
+        "num": 462171,
+        "word": "林拓确诊渐冻症",
+        "onboard_time": 1710203013,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 453115,
+        "num": 453115,
+        "word": "广州漫展",
+        "onboard_time": 1710210209,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452676,
+        "num": 452676,
+        "word": "媒体评点读机女孩事件",
+        "onboard_time": 1710206071,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420461,
+        "num": 420461,
+        "word": "香港双婴尸案今日提堂",
+        "onboard_time": 1710194356,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 413533,
+        "num": 413533,
+        "word": "白鹿王楚然坐一起",
+        "onboard_time": 1710207150,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392340,
+        "num": 392340,
+        "word": "韩网评奥斯卡歧视亚裔",
+        "onboard_time": 1710200309,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39603,
+        "num": 353087,
+        "word": "方太如何解决开敞式厨房痛点",
+        "onboard_time": 1710208348,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343443,
+        "num": 343443,
+        "word": "广州北京路",
+        "onboard_time": 1710210449,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312336,
+        "num": 312336,
+        "word": "金智媛好美",
+        "onboard_time": 1710205770,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302850,
+        "num": 302850,
+        "word": "Selina晒儿子近照",
+        "onboard_time": 1710206972,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292974,
+        "num": 292974,
+        "word": "科目三被扣了1100分",
+        "onboard_time": 1710201930,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 275712,
+        "num": 275712,
+        "word": "短短十五秒猫猫起了四次杀心",
+        "onboard_time": 1710202774,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271813,
+        "num": 271813,
+        "word": "王楚然双开门大衣",
+        "onboard_time": 1710170073,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254275,
+        "num": 254275,
+        "word": "免费领养猫的真相或是贷款买猫",
+        "onboard_time": 1710208650,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236888,
+        "num": 236888,
+        "word": "aespa录cha时黄铉辰偷偷路过",
+        "onboard_time": 1710209670,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226561,
+        "num": 226561,
+        "word": "科比雕像出现三处拼写错误",
+        "onboard_time": 1710210209,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91601,
+        "num": 224720,
+        "word": "9个关键词了解两会民生热点",
+        "onboard_time": 1710210569,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 224192,
+        "num": 224192,
+        "word": "走路去深圳北站爷爷因涉嫌诈骗被拘",
+        "onboard_time": 1710210329,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222078,
+        "num": 222078,
+        "word": "李想朋友圈",
+        "onboard_time": 1710209490,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 208779,
+        "num": 208779,
+        "word": "幼儿园闺蜜已经懂怎么出片了",
+        "onboard_time": 1710207929,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203600,
+        "num": 203600,
+        "word": "种地吧",
+        "onboard_time": 1710209311,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201026,
+        "num": 201026,
+        "word": "刘浩存演惠英红奶奶",
+        "onboard_time": 1710185417,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187907,
+        "num": 187907,
+        "word": "搭伙过日子和爱情的区别",
+        "onboard_time": 1710209490,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183552,
+        "num": 183552,
+        "word": "与凤行夫妻俩不像好惹的",
+        "onboard_time": 1710210091,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179425,
+        "num": 179425,
+        "word": "湿气重毁身材肚子大",
+        "onboard_time": 1710195678,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169284,
+        "num": 169284,
+        "word": "新款iPad发布时间",
+        "onboard_time": 1710205353,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161739,
+        "num": 161739,
+        "word": "在家做顿饭等于吸20分钟汽车尾气",
+        "onboard_time": 1710201331,
+        "rank": 39,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 157976,
+        "num": 157976,
+        "word": "大学生当短剧演员的一天",
+        "onboard_time": 1710207867,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156410,
+        "num": 156410,
+        "word": "沈腾马丽回应回归话剧舞台",
+        "onboard_time": 1710201690,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156150,
+        "num": 156150,
+        "word": "杨紫琼祝贺石头姐",
+        "onboard_time": 1710206432,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152211,
+        "num": 152211,
+        "word": "易烊千玺网站更新",
+        "onboard_time": 1710198865,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152200,
+        "num": 152200,
+        "word": "河南一司法鉴定中心被举报涉嫌造假",
+        "onboard_time": 1710206670,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146262,
+        "num": 146262,
+        "word": "这5类人真的不适合染发",
+        "onboard_time": 1710210688,
+        "rank": 45,
+        "category": "美妆,健康医疗"
+      },
+      {
+        "raw_hot": 143234,
+        "num": 143234,
+        "word": "近10年考研国家线多在3月中旬公布",
+        "onboard_time": 1710167433,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138521,
+        "num": 138521,
+        "word": "曾98万拍下摊位的大叔卖馍半月回本",
+        "onboard_time": 1710172232,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131309,
+        "num": 131309,
+        "word": "4GB未拆封初代iPhone再次拍卖",
+        "onboard_time": 1710204693,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130238,
+        "num": 130238,
+        "word": "凯特王妃已有2个多月未出席活动",
+        "onboard_time": 1710177980,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署第二十一号主席令#"
+    }
+  }
+}
