@@ -1,6 +1,6 @@
 {
   "startTime": 1710260540441,
-  "endTime": 1710270967142,
+  "endTime": 1710272082954,
   "band_list": [
     {
       "raw_hot": 1040245,
@@ -459,6 +459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 29776,
+      "num": 29776,
+      "word": "代表建议考研初试分步统一命题",
+      "onboard_time": 1710270917,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26036,
       "num": 28642,
       "word": "我总觉得世界是这样子的",
@@ -483,19 +491,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 19994,
+      "num": 19994,
+      "word": "原来这就是钝感力啊",
+      "onboard_time": 1710270677,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 16228,
       "num": 18580,
       "word": "两会",
       "onboard_time": 1710270736,
       "rank": 48,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 13140,
-      "num": 18514,
-      "word": "代表建议考研初试分步统一命题",
-      "onboard_time": 1710270917,
-      "rank": 49,
       "category": "国内时政"
     }
   ],
