@@ -1,0 +1,410 @@
+{
+  "runTime": 1710220696746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1140925,
+        "num": 1140925,
+        "word": "一个节目心疼三个女人",
+        "onboard_time": 1710214469,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 749989,
+        "num": 749989,
+        "word": "女员工入职3个月怀孕遭开除",
+        "onboard_time": 1710217174,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60325,
+        "num": 738904,
+        "word": "9个关键词了解两会民生热点",
+        "onboard_time": 1710210569,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1034725,
+        "num": 738874,
+        "word": "福建沙虫",
+        "onboard_time": 1710215672,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1015254,
+        "num": 736515,
+        "word": "金价狂飙涨疯普通人还能再买吗",
+        "onboard_time": 1710209189,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 733442,
+        "num": 733442,
+        "word": "蔚来CEO要求员工不得参与理想MEGA舆论",
+        "onboard_time": 1710213629,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 691195,
+        "num": 691195,
+        "word": "王鹤棣终于演警察了",
+        "onboard_time": 1710215794,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 675060,
+        "num": 675060,
+        "word": "丈夫藏10万练功券被妻子拿去存钱",
+        "onboard_time": 1710215251,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603299,
+        "num": 603299,
+        "word": "汤唯超短发",
+        "onboard_time": 1710219516,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 593795,
+        "num": 593795,
+        "word": "酱园弄阵容",
+        "onboard_time": 1710217235,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 532043,
+        "num": 532043,
+        "word": "儿童近视神药获批",
+        "onboard_time": 1710216512,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 488002,
+        "num": 488002,
+        "word": "王一博连说了八个不要",
+        "onboard_time": 1710217053,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 473719,
+        "num": 473719,
+        "word": "田曦薇刘浩存G社生图",
+        "onboard_time": 1710216750,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 402354,
+        "num": 402354,
+        "word": "3200元直播间买金渐层刚到家就死亡",
+        "onboard_time": 1710213869,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399158,
+        "num": 399158,
+        "word": "未来黄金价格每克或将超过750元",
+        "onboard_time": 1710217955,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 392581,
+        "num": 392581,
+        "word": "一个30岁的医生决定离开大三甲",
+        "onboard_time": 1710215492,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 360623,
+        "num": 360623,
+        "word": "6部影片定档五一档",
+        "onboard_time": 1710213750,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 356451,
+        "num": 356451,
+        "word": "杨幂赵丽颖参演酱园弄",
+        "onboard_time": 1710220236,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342962,
+        "num": 342962,
+        "word": "范丞丞张婧仪 樱桃琥珀",
+        "onboard_time": 1710214770,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323890,
+        "num": 323890,
+        "word": "欢乐颂5定档",
+        "onboard_time": 1710211050,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332938,
+        "num": 323879,
+        "word": "点读机女孩需承担法律责任吗",
+        "onboard_time": 1710212611,
+        "rank": 20,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 298822,
+        "num": 298822,
+        "word": "八段锦跟练教程",
+        "onboard_time": 1710219997,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 274669,
+        "num": 274669,
+        "word": "向往的生活小羊小不点去世",
+        "onboard_time": 1710199828,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257013,
+        "num": 257013,
+        "word": "雷军称对价格战做好了充分准备",
+        "onboard_time": 1710219690,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 249696,
+        "num": 249696,
+        "word": "国家线今天出吗",
+        "onboard_time": 1710208051,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 271813,
+        "num": 248694,
+        "word": "苏打绿杭州",
+        "onboard_time": 1710218017,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 257671,
+        "num": 247518,
+        "word": "赵露思新高定首穿",
+        "onboard_time": 1710218197,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 243485,
+        "num": 243485,
+        "word": "张馨予晒10年前旧照",
+        "onboard_time": 1710215974,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229678,
+        "num": 240607,
+        "word": "见过最闲的岗位是什么",
+        "onboard_time": 1710214469,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217072,
+        "num": 238440,
+        "word": "福岛从日本鬼城变成了世界伤口",
+        "onboard_time": 1710202894,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237967,
+        "num": 237967,
+        "word": "大侦探百案纪念周",
+        "onboard_time": 1710220352,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231576,
+        "num": 231576,
+        "word": "甜茶不甜了",
+        "onboard_time": 1710219757,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226578,
+        "num": 226578,
+        "word": "和种地吧一起种树吧",
+        "onboard_time": 1710219395,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218981,
+        "num": 218981,
+        "word": "黄铉辰发泡泡了",
+        "onboard_time": 1710219690,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216437,
+        "num": 216437,
+        "word": "百雀羚欧莱雅过度包装被点名",
+        "onboard_time": 1710219997,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 213699,
+        "num": 213699,
+        "word": "胡先煦看了一小时范丞丞建房子",
+        "onboard_time": 1710218794,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204453,
+        "num": 204453,
+        "word": "Hero又到栖霞山植树了",
+        "onboard_time": 1710220412,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203409,
+        "num": 203409,
+        "word": "首尔大学医学院教授或将集体辞职",
+        "onboard_time": 1710209429,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 175023,
+        "num": 201689,
+        "word": "女教师哺乳期被学校调岗为保洁",
+        "onboard_time": 1710174506,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167597,
+        "num": 201601,
+        "word": "S组什么瓜",
+        "onboard_time": 1710202410,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201580,
+        "num": 201580,
+        "word": "韩网评奥斯卡歧视亚裔",
+        "onboard_time": 1710200309,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200777,
+        "num": 200777,
+        "word": "林俊杰 他甚至贴心地等大家说完",
+        "onboard_time": 1710217471,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183503,
+        "num": 183503,
+        "word": "易烊千玺壁纸",
+        "onboard_time": 1710211109,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 170881,
+        "num": 170881,
+        "word": "种地吧",
+        "onboard_time": 1710209311,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160935,
+        "num": 160935,
+        "word": "金智媛好美",
+        "onboard_time": 1710205770,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150610,
+        "num": 150610,
+        "word": "一个湿气大的人什么样",
+        "onboard_time": 1710211890,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146982,
+        "num": 146982,
+        "word": "钟薛高被限制高消费",
+        "onboard_time": 1710216035,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145368,
+        "num": 145368,
+        "word": "揭露安全问题的波音前员工死亡",
+        "onboard_time": 1710215917,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141336,
+        "num": 141336,
+        "word": "春季赛第四周最佳阵容",
+        "onboard_time": 1710220114,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136135,
+        "num": 136135,
+        "word": "误以为是日本动漫男子怒砸签名墙",
+        "onboard_time": 1710211050,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平签署第二十一号主席令#"
+    }
+  }
+}
