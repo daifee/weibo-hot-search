@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710238681160,
+  "endTime": 1710239642044,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2571599,
-      "num": 2571599,
+      "raw_hot": 2601207,
+      "num": 2601207,
       "word": "素媛案强奸犯擅自外出",
       "onboard_time": 1710236253,
       "rank": 1,
@@ -227,6 +227,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1457349,
+      "num": 1457349,
+      "word": "男子2万买金镯发现内藏2根金丝",
+      "onboard_time": 1710234274,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1450796,
       "num": 1450796,
       "word": "Doinb老婆疑似被带走",
@@ -249,14 +257,6 @@
       "onboard_time": 1710139771,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1412185,
-      "num": 1412185,
-      "word": "男子2万买金镯发现内藏2根金丝",
-      "onboard_time": 1710234274,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1392401,
@@ -891,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 804101,
+      "num": 804101,
+      "word": "Super Junior SM全否定",
+      "onboard_time": 1710237753,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 800961,
       "num": 800961,
       "word": "刘美含否认再次落选浪姐",
@@ -929,6 +937,14 @@
       "onboard_time": 1710074915,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 780822,
+      "num": 526088,
+      "word": "社保卡一定要记得去激活",
+      "onboard_time": 1710235415,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 775427,
@@ -1329,14 +1345,6 @@
       "onboard_time": 1710143671,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 618492,
-      "num": 618492,
-      "word": "Super Junior SM全否定",
-      "onboard_time": 1710237753,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 617590,
@@ -1787,6 +1795,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 525773,
+      "num": 525773,
+      "word": "CK",
+      "onboard_time": 1710235415,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 525116,
       "num": 352956,
       "word": "对洗衣液用量毫无概念的大学生",
@@ -1811,6 +1827,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 522674,
+      "num": 522674,
+      "word": "高君雨mcn致歉",
+      "onboard_time": 1710239135,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 522122,
       "num": 522122,
       "word": "文旅部长回应黄牛抢票现象",
@@ -1825,6 +1849,14 @@
       "onboard_time": 1710129213,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 518923,
+      "num": 518923,
+      "word": "为什么朋友圈这条线有长有短",
+      "onboard_time": 1710232535,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 515358,
@@ -1923,14 +1955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 489375,
-      "num": 489375,
-      "word": "为什么朋友圈这条线有长有短",
-      "onboard_time": 1710232535,
-      "rank": 11,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 488719,
       "num": 488719,
       "word": "杨幂赵丽颖参演酱园弄",
@@ -1969,14 +1993,6 @@
       "onboard_time": 1710140908,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 483296,
-      "num": 483296,
-      "word": "社保卡一定要记得去激活",
-      "onboard_time": 1710235415,
-      "rank": 31,
-      "category": "科学科普"
     },
     {
       "raw_hot": 481823,
@@ -2059,6 +2075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 467420,
+      "num": 428918,
+      "word": "体制内被同事删除微信",
+      "onboard_time": 1710238773,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 466892,
       "num": 466892,
       "word": "耙耙柑不是粑粑柑",
@@ -2083,6 +2107,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 463508,
+      "num": 463508,
+      "word": "医学涨了",
+      "onboard_time": 1710237753,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 461851,
       "num": 461851,
       "word": "眼泪女王第二集",
@@ -2097,14 +2129,6 @@
       "onboard_time": 1710202774,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 454795,
-      "num": 454795,
-      "word": "CK",
-      "onboard_time": 1710235415,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 453643,
@@ -2227,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 423360,
+      "num": 423360,
+      "word": "小宝宝臀部长了小尾巴",
+      "onboard_time": 1710237573,
+      "rank": 21,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 417390,
       "num": 417390,
       "word": "中阳一煤矿溃仓5人遇难2人失联",
@@ -2281,14 +2313,6 @@
       "onboard_time": 1710234694,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 407858,
-      "num": 341683,
-      "word": "小宝宝臀部长了小尾巴",
-      "onboard_time": 1710237573,
-      "rank": 21,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 407093,
@@ -2529,6 +2553,14 @@
       "onboard_time": 1710055829,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 367475,
+      "num": 367475,
+      "word": "高君雨中学以后基本不接广告",
+      "onboard_time": 1710239312,
+      "rank": 23,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 366452,
@@ -2923,6 +2955,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 314497,
+      "num": 314497,
+      "word": "你身边有长期不上班到处玩的人吗",
+      "onboard_time": 1710239135,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 314030,
       "num": 293974,
       "word": "赵丽颖林更新与凤行情头",
@@ -3195,6 +3235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 280492,
+      "num": 280492,
+      "word": "被日本人邻居用草莓换排骨汤",
+      "onboard_time": 1710239135,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 279759,
       "num": 279759,
       "word": "小米集团涨超10%",
@@ -3331,8 +3379,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 265624,
-      "num": 265624,
+      "raw_hot": 266830,
+      "num": 266830,
       "word": "考研国家线英语",
       "onboard_time": 1710235892,
       "rank": 34,
@@ -3355,12 +3403,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263826,
-      "num": 263826,
-      "word": "医学涨了",
-      "onboard_time": 1710237753,
-      "rank": 26,
-      "category": "教育"
+      "raw_hot": 263936,
+      "num": 263936,
+      "word": "Hero官宣主教练老林",
+      "onboard_time": 1710238233,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 263683,
@@ -3891,6 +3939,14 @@
       "category": "国内时政,艺人"
     },
     {
+      "raw_hot": 228469,
+      "num": 228469,
+      "word": "法学331",
+      "onboard_time": 1710237814,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 228442,
       "num": 238203,
       "word": "人大代表拿出敦煌文创瞬间被围观",
@@ -4067,14 +4123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220234,
-      "num": 220234,
-      "word": "Hero官宣主教练老林",
-      "onboard_time": 1710238233,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 219562,
       "num": 219562,
       "word": "惠英红模仿刘浩存打字",
@@ -4105,14 +4153,6 @@
       "onboard_time": 1710030746,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 217950,
-      "num": 217950,
-      "word": "法学331",
-      "onboard_time": 1710237814,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 217699,
@@ -5419,12 +5459,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 171101,
+      "num": 171101,
+      "word": "杨威双胞胎女儿在家上学",
+      "onboard_time": 1710239614,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170789,
       "num": 170789,
       "word": "二月二剪头发",
       "onboard_time": 1710151111,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170482,
+      "num": 608827,
+      "word": "甘肃杭州林面积已大过西湖",
+      "onboard_time": 1710237034,
+      "rank": 9,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 170404,
@@ -5451,12 +5507,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 170030,
+      "num": 170030,
+      "word": "什么工作适合考公过渡",
+      "onboard_time": 1710239492,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 169753,
       "num": 169753,
       "word": "娃哈哈在广西的销量占全国70%",
       "onboard_time": 1710167252,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 169704,
+      "num": 625277,
+      "word": "杭州法喜寺500岁玉兰如期绽放",
+      "onboard_time": 1710226473,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 169586,
@@ -5787,6 +5859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157290,
+      "num": 157290,
+      "word": "烈焰 开局亲爹亲娘把我杀",
+      "onboard_time": 1710239556,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157118,
       "num": 157118,
       "word": "张学友抢票",
@@ -6065,14 +6145,6 @@
       "onboard_time": 1710120634,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149131,
-      "num": 613579,
-      "word": "杭州法喜寺500岁玉兰如期绽放",
-      "onboard_time": 1710226473,
-      "rank": 34,
-      "category": "旅游"
     },
     {
       "raw_hot": 148660,
@@ -6915,14 +6987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 123675,
-      "num": 608827,
-      "word": "甘肃杭州林面积已大过西湖",
-      "onboard_time": 1710237034,
-      "rank": 9,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 123522,
       "num": 123522,
       "word": "飞猪推出攻城价",
@@ -7708,7 +7772,7 @@
     },
     {
       "raw_hot": 90286,
-      "num": 1732073,
+      "num": 1911699,
       "word": "植树节一起为绿充植",
       "onboard_time": 1710232357,
       "rank": 2,
@@ -7908,7 +7972,7 @@
     },
     {
       "raw_hot": 67336,
-      "num": 176943,
+      "num": 433293,
       "word": "为什么时尚大牌都有代表色",
       "onboard_time": 1710238412,
       "rank": 41,

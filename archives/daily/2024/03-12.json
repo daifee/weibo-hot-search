@@ -1,6 +1,6 @@
 {
   "startTime": 1710174076566,
-  "endTime": 1710238681160,
+  "endTime": 1710239642044,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2571599,
-      "num": 2571599,
+      "raw_hot": 2601207,
+      "num": 2601207,
       "word": "素媛案强奸犯擅自外出",
       "onboard_time": 1710236253,
       "rank": 1,
@@ -67,8 +67,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 1412185,
-      "num": 1412185,
+      "raw_hot": 1457349,
+      "num": 1457349,
       "word": "男子2万买金镯发现内藏2根金丝",
       "onboard_time": 1710234274,
       "rank": 20,
@@ -331,6 +331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 804101,
+      "num": 804101,
+      "word": "Super Junior SM全否定",
+      "onboard_time": 1710237753,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 785835,
       "num": 785835,
       "word": "易烊千玺没被认出来",
@@ -345,6 +353,14 @@
       "onboard_time": 1710200309,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 780822,
+      "num": 526088,
+      "word": "社保卡一定要记得去激活",
+      "onboard_time": 1710235415,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 767627,
@@ -491,14 +507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 618492,
-      "num": 618492,
-      "word": "Super Junior SM全否定",
-      "onboard_time": 1710237753,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 605786,
       "num": 605786,
       "word": "范丞丞张婧仪 樱桃琥珀",
@@ -643,6 +651,30 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 525773,
+      "num": 525773,
+      "word": "CK",
+      "onboard_time": 1710235415,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 522674,
+      "num": 522674,
+      "word": "高君雨mcn致歉",
+      "onboard_time": 1710239135,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 518923,
+      "num": 518923,
+      "word": "为什么朋友圈这条线有长有短",
+      "onboard_time": 1710232535,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 515358,
       "num": 515358,
       "word": "雷军称对价格战做好了充分准备",
@@ -691,14 +723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 489375,
-      "num": 489375,
-      "word": "为什么朋友圈这条线有长有短",
-      "onboard_time": 1710232535,
-      "rank": 11,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 488719,
       "num": 488719,
       "word": "杨幂赵丽颖参演酱园弄",
@@ -713,14 +737,6 @@
       "onboard_time": 1710234574,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 483296,
-      "num": 483296,
-      "word": "社保卡一定要记得去激活",
-      "onboard_time": 1710235415,
-      "rank": 31,
-      "category": "科学科普"
     },
     {
       "raw_hot": 476436,
@@ -763,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 467420,
+      "num": 428918,
+      "word": "体制内被同事删除微信",
+      "onboard_time": 1710238773,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 465887,
       "num": 353836,
       "word": "点读机女孩需承担法律责任吗",
@@ -771,20 +795,20 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 463508,
+      "num": 463508,
+      "word": "医学涨了",
+      "onboard_time": 1710237753,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 458858,
       "num": 458858,
       "word": "短短十五秒猫猫起了四次杀心",
       "onboard_time": 1710202774,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 454795,
-      "num": 454795,
-      "word": "CK",
-      "onboard_time": 1710235415,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 453115,
@@ -809,6 +833,14 @@
       "onboard_time": 1710218017,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 423360,
+      "num": 423360,
+      "word": "小宝宝臀部长了小尾巴",
+      "onboard_time": 1710237573,
+      "rank": 21,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 417390,
@@ -859,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 407858,
-      "num": 341683,
-      "word": "小宝宝臀部长了小尾巴",
-      "onboard_time": 1710237573,
-      "rank": 21,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 399158,
       "num": 399158,
       "word": "未来黄金价格每克或将超过750元",
@@ -905,6 +929,14 @@
       "onboard_time": 1710227612,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 367475,
+      "num": 367475,
+      "word": "高君雨中学以后基本不接广告",
+      "onboard_time": 1710239312,
+      "rank": 23,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 366043,
@@ -1003,6 +1035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 314497,
+      "num": 314497,
+      "word": "你身边有长期不上班到处玩的人吗",
+      "onboard_time": 1710239135,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 313610,
       "num": 313610,
       "word": "文学国家线365",
@@ -1075,6 +1115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 280492,
+      "num": 280492,
+      "word": "被日本人邻居用草莓换排骨汤",
+      "onboard_time": 1710239135,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 279759,
       "num": 279759,
       "word": "小米集团涨超10%",
@@ -1139,8 +1187,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 265624,
-      "num": 265624,
+      "raw_hot": 266830,
+      "num": 266830,
       "word": "考研国家线英语",
       "onboard_time": 1710235892,
       "rank": 34,
@@ -1155,12 +1203,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 263826,
-      "num": 263826,
-      "word": "医学涨了",
-      "onboard_time": 1710237753,
-      "rank": 26,
-      "category": "教育"
+      "raw_hot": 263936,
+      "num": 263936,
+      "word": "Hero官宣主教练老林",
+      "onboard_time": 1710238233,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 262043,
@@ -1379,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228469,
+      "num": 228469,
+      "word": "法学331",
+      "onboard_time": 1710237814,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 226561,
       "num": 226561,
       "word": "科比雕像出现三处拼写错误",
@@ -1467,28 +1523,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 220234,
-      "num": 220234,
-      "word": "Hero官宣主教练老林",
-      "onboard_time": 1710238233,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 218981,
       "num": 218981,
       "word": "黄铉辰发泡泡了",
       "onboard_time": 1710219690,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217950,
-      "num": 217950,
-      "word": "法学331",
-      "onboard_time": 1710237814,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 217699,
@@ -1931,12 +1971,44 @@
       "category": "教育"
     },
     {
+      "raw_hot": 171101,
+      "num": 171101,
+      "word": "杨威双胞胎女儿在家上学",
+      "onboard_time": 1710239614,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 170482,
+      "num": 608827,
+      "word": "甘肃杭州林面积已大过西湖",
+      "onboard_time": 1710237034,
+      "rank": 9,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 170186,
       "num": 170186,
       "word": "SM男团概念",
       "onboard_time": 1710235175,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170030,
+      "num": 170030,
+      "word": "什么工作适合考公过渡",
+      "onboard_time": 1710239492,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 169704,
+      "num": 625277,
+      "word": "杭州法喜寺500岁玉兰如期绽放",
+      "onboard_time": 1710226473,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 167363,
@@ -2019,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157290,
+      "num": 157290,
+      "word": "烈焰 开局亲爹亲娘把我杀",
+      "onboard_time": 1710239556,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157118,
       "num": 157118,
       "word": "张学友抢票",
@@ -2065,14 +2145,6 @@
       "onboard_time": 1710207210,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 149131,
-      "num": 613579,
-      "word": "杭州法喜寺500岁玉兰如期绽放",
-      "onboard_time": 1710226473,
-      "rank": 34,
-      "category": "旅游"
     },
     {
       "raw_hot": 148042,
@@ -2219,14 +2291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 123675,
-      "num": 608827,
-      "word": "甘肃杭州林面积已大过西湖",
-      "onboard_time": 1710237034,
-      "rank": 9,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 123353,
       "num": 123353,
       "word": "发现农村盖房子会给猫留门",
@@ -2364,7 +2428,7 @@
     },
     {
       "raw_hot": 90286,
-      "num": 1732073,
+      "num": 1911699,
       "word": "植树节一起为绿充植",
       "onboard_time": 1710232357,
       "rank": 2,
@@ -2468,7 +2532,7 @@
     },
     {
       "raw_hot": 67336,
-      "num": 176943,
+      "num": 433293,
       "word": "为什么时尚大牌都有代表色",
       "onboard_time": 1710238412,
       "rank": 41,
