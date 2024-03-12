@@ -1,6 +1,6 @@
 {
   "startTime": 1710260540441,
-  "endTime": 1710285535613,
+  "endTime": 1710286462441,
   "band_list": [
     {
       "raw_hot": 1040245,
@@ -19,7 +19,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 736789,
+      "raw_hot": 737896,
       "num": 736789,
       "word": "肖战工作室还让不让人睡",
       "onboard_time": 1710254372,
@@ -41,6 +41,14 @@
       "onboard_time": 1710256234,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 697970,
+      "num": 697970,
+      "word": "坚持21天把肾气全补回来",
+      "onboard_time": 1710281117,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 560004,
@@ -75,14 +83,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 461286,
-      "num": 461286,
-      "word": "坚持21天把肾气全补回来",
-      "onboard_time": 1710281117,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 445031,
       "num": 237335,
       "word": "工资低又经常熬夜的工作",
@@ -91,8 +91,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 423771,
-      "num": 423771,
+      "raw_hot": 442345,
+      "num": 442345,
       "word": "点读机女孩事件最高可处3年有期徒刑",
       "onboard_time": 1710240513,
       "rank": 9,
@@ -107,12 +107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365547,
+      "num": 331131,
+      "word": "章子怡怒怼网友",
+      "onboard_time": 1710285745,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 349735,
       "num": 349735,
       "word": "男子2万买金镯发现内藏2根金丝",
       "onboard_time": 1710234274,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329123,
+      "num": 329123,
+      "word": "满舒克前女友再发博",
+      "onboard_time": 1710254193,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 313838,
@@ -163,14 +179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 264330,
-      "num": 264330,
-      "word": "满舒克前女友再发博",
-      "onboard_time": 1710254193,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 260045,
       "num": 260045,
       "word": "射雕",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 218981,
-      "num": 218981,
+      "num": 346804,
       "word": "考研失败办考研辅导班赚钱翻身",
       "onboard_time": 1710256711,
       "rank": 22,
@@ -209,6 +217,14 @@
       "onboard_time": 1710241052,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202527,
+      "num": 273988,
+      "word": "欧冠",
+      "onboard_time": 1710285327,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 198572,
@@ -227,6 +243,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 190946,
+      "num": 190946,
+      "word": "肖战浴室",
+      "onboard_time": 1710278354,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190356,
+      "num": 190356,
+      "word": "宁静终于从撕伞人成长为撑伞人",
+      "onboard_time": 1710277156,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 188822,
       "num": 203437,
       "word": "经常剪头发不会长得更快",
@@ -243,14 +275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175320,
-      "num": 273988,
-      "word": "欧冠",
-      "onboard_time": 1710285327,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172433,
       "num": 172433,
       "word": "纪凌尘早期旧照",
@@ -259,12 +283,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 171242,
-      "num": 171242,
-      "word": "肖战浴室",
-      "onboard_time": 1710278354,
-      "rank": 35,
-      "category": "作品衍生"
+      "raw_hot": 170175,
+      "num": 170175,
+      "word": "巴萨3比1那不勒斯",
+      "onboard_time": 1710285445,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 168909,
@@ -283,6 +307,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 164593,
+      "num": 164593,
+      "word": "为什么百香果不能带进监狱",
+      "onboard_time": 1710234336,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161792,
       "num": 161792,
       "word": "高君雨同学发声",
@@ -291,20 +323,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 156777,
-      "num": 156777,
-      "word": "宁静终于从撕伞人成长为撑伞人",
-      "onboard_time": 1710277156,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 151335,
-      "num": 146815,
-      "word": "为什么百香果不能带进监狱",
-      "onboard_time": 1710234336,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 156308,
+      "num": 156308,
+      "word": "雷军",
+      "onboard_time": 1710284781,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 146156,
@@ -321,6 +345,14 @@
       "onboard_time": 1710245253,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135091,
+      "num": 180572,
+      "word": "1岁宝宝误食方便面被卡右肺完全堵死",
+      "onboard_time": 1710249277,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130887,
@@ -353,14 +385,6 @@
       "onboard_time": 1710244891,
       "rank": 34,
       "category": "游戏,美食"
-    },
-    {
-      "raw_hot": 119984,
-      "num": 180572,
-      "word": "1岁宝宝误食方便面被卡右肺完全堵死",
-      "onboard_time": 1710249277,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118503,
@@ -411,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108984,
+      "num": 108984,
+      "word": "全球85花格局",
+      "onboard_time": 1710281597,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 106778,
       "num": 106778,
       "word": "唐艺昕纹身",
@@ -419,12 +451,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 99333,
-      "num": 99333,
-      "word": "全球85花格局",
-      "onboard_time": 1710281597,
-      "rank": 41,
+      "raw_hot": 102331,
+      "num": 102331,
+      "word": "林允身材曲线",
+      "onboard_time": 1710284360,
+      "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 99168,
+      "num": 99168,
+      "word": "A股半日成交放量1287亿",
+      "onboard_time": 1710285803,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 93809,
@@ -441,6 +481,14 @@
       "onboard_time": 1710263541,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 85820,
+      "num": 85820,
+      "word": "原来这就是钝感力啊",
+      "onboard_time": 1710270677,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 82165,
@@ -467,14 +515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 75861,
-      "num": 75861,
-      "word": "林允身材曲线",
-      "onboard_time": 1710284360,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 75795,
       "num": 172648,
       "word": "减肥要避免3个误区",
@@ -491,12 +531,20 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 71921,
-      "num": 71921,
-      "word": "雷军",
-      "onboard_time": 1710284781,
-      "rank": 36,
-      "category": "互联网"
+      "raw_hot": 73841,
+      "num": 73841,
+      "word": "荒凉山谷被村民变成郁金香花海",
+      "onboard_time": 1710286287,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 70289,
+      "num": 70289,
+      "word": "杨紫 生命树",
+      "onboard_time": 1710252155,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 67702,
@@ -507,20 +555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67419,
-      "num": 67419,
-      "word": "巴萨3比1那不勒斯",
-      "onboard_time": 1710285445,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 67273,
-      "num": 67273,
-      "word": "原来这就是钝感力啊",
-      "onboard_time": 1710270677,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 65060,
+      "num": 65060,
+      "word": "英伟达CEO回应常年穿皮衣",
+      "onboard_time": 1710284662,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 64700,
@@ -531,12 +571,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 53612,
-      "num": 53612,
-      "word": "英伟达CEO回应常年穿皮衣",
-      "onboard_time": 1710284662,
-      "rank": 45,
-      "category": "互联网"
+      "raw_hot": 47701,
+      "num": 106953,
+      "word": "代表建议考研初试分步统一命题",
+      "onboard_time": 1710270917,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 47189,
@@ -547,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42741,
+      "num": 517637,
+      "word": "2024年民生工作三大重点",
+      "onboard_time": 1710248193,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42392,
       "num": 63757,
       "word": "送给在国家线边缘的你",
@@ -555,28 +603,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 41326,
-      "num": 86510,
-      "word": "代表建议考研初试分步统一命题",
-      "onboard_time": 1710270917,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 36120,
       "num": 36120,
       "word": "孩子半夜醒来都猫咪陪着",
       "onboard_time": 1710276974,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 36064,
-      "num": 461402,
-      "word": "2024年民生工作三大重点",
-      "onboard_time": 1710248193,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 30184,

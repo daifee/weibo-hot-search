@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710285535613,
+  "endTime": 1710286462441,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -1307,6 +1307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 697970,
+      "num": 697970,
+      "word": "坚持21天把肾气全补回来",
+      "onboard_time": 1710281117,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 692745,
       "num": 558649,
       "word": "点读机女孩",
@@ -2355,14 +2363,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 461286,
-      "num": 461286,
-      "word": "坚持21天把肾气全补回来",
-      "onboard_time": 1710281117,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 458858,
       "num": 458858,
       "word": "短短十五秒猫猫起了四次杀心",
@@ -2891,6 +2891,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 365547,
+      "num": 331131,
+      "word": "章子怡怒怼网友",
+      "onboard_time": 1710285745,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 365104,
       "num": 365104,
       "word": "研究称每一滴酒都对身体有害",
@@ -3145,6 +3153,14 @@
       "onboard_time": 1710127053,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329123,
+      "num": 329123,
+      "word": "满舒克前女友再发博",
+      "onboard_time": 1710254193,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 326195,
@@ -3585,14 +3601,6 @@
       "onboard_time": 1710137791,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 282875,
-      "num": 264330,
-      "word": "满舒克前女友再发博",
-      "onboard_time": 1710254193,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 279759,
@@ -4588,7 +4596,7 @@
     },
     {
       "raw_hot": 218981,
-      "num": 235932,
+      "num": 346804,
       "word": "考研失败办考研辅导班赚钱翻身",
       "onboard_time": 1710256711,
       "rank": 26,
@@ -5035,6 +5043,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202527,
+      "num": 273988,
+      "word": "欧冠",
+      "onboard_time": 1710285327,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202198,
       "num": 202198,
       "word": "马思纯麻辣女教师",
@@ -5427,6 +5443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190946,
+      "num": 190946,
+      "word": "肖战浴室",
+      "onboard_time": 1710278354,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190862,
       "num": 190862,
       "word": "大家下班后都在干什么",
@@ -5449,6 +5473,14 @@
       "onboard_time": 1710130900,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 190356,
+      "num": 190356,
+      "word": "宁静终于从撕伞人成长为撑伞人",
+      "onboard_time": 1710277156,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 189719,
@@ -5947,14 +5979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175320,
-      "num": 273988,
-      "word": "欧冠",
-      "onboard_time": 1710285327,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 175099,
       "num": 140595,
       "word": "这6种病听起来很吓人但其实基本不用治",
@@ -6051,14 +6075,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 171242,
-      "num": 171242,
-      "word": "肖战浴室",
-      "onboard_time": 1710278354,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 170789,
       "num": 170789,
       "word": "二月二剪头发",
@@ -6097,6 +6113,14 @@
       "onboard_time": 1710235175,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170175,
+      "num": 170175,
+      "word": "巴萨3比1那不勒斯",
+      "onboard_time": 1710285445,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 170008,
@@ -6579,20 +6603,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 156777,
-      "num": 156777,
-      "word": "宁静终于从撕伞人成长为撑伞人",
-      "onboard_time": 1710277156,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 156478,
       "num": 156478,
       "word": "宫崎骏二封奥斯卡动画",
       "onboard_time": 1710130594,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 156308,
+      "num": 156308,
+      "word": "雷军",
+      "onboard_time": 1710284781,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 156269,
@@ -8195,6 +8219,14 @@
       "category": "国内时政,健康医疗"
     },
     {
+      "raw_hot": 108984,
+      "num": 108984,
+      "word": "全球85花格局",
+      "onboard_time": 1710281597,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 108157,
       "num": 108157,
       "word": "KPL",
@@ -8363,6 +8395,14 @@
       "category": "国内时政,体育"
     },
     {
+      "raw_hot": 102331,
+      "num": 102331,
+      "word": "林允身材曲线",
+      "onboard_time": 1710284360,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 101846,
       "num": 101846,
       "word": "金庸诞辰一百周年",
@@ -8411,12 +8451,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 99333,
-      "num": 99333,
-      "word": "全球85花格局",
-      "onboard_time": 1710281597,
-      "rank": 41,
-      "category": "作品衍生"
+      "raw_hot": 99168,
+      "num": 99168,
+      "word": "A股半日成交放量1287亿",
+      "onboard_time": 1710285803,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 98830,
@@ -8611,6 +8651,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 85820,
+      "num": 85820,
+      "word": "原来这就是钝感力啊",
+      "onboard_time": 1710270677,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85073,
       "num": 94934,
       "word": "李兰迪林一身高差",
@@ -8699,14 +8747,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 75861,
-      "num": 75861,
-      "word": "林允身材曲线",
-      "onboard_time": 1710284360,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 74987,
       "num": 74987,
       "word": "姚安娜来和平精英了",
@@ -8729,6 +8769,14 @@
       "onboard_time": 1710016157,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73841,
+      "num": 73841,
+      "word": "荒凉山谷被村民变成郁金香花海",
+      "onboard_time": 1710286287,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 73527,
@@ -8763,14 +8811,6 @@
       "category": "军事,国内时政"
     },
     {
-      "raw_hot": 71921,
-      "num": 71921,
-      "word": "雷军",
-      "onboard_time": 1710284781,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 71328,
       "num": 436066,
       "word": "热门打卡地代表委员发出邀请",
@@ -8803,14 +8843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67419,
-      "num": 67419,
-      "word": "巴萨3比1那不勒斯",
-      "onboard_time": 1710285445,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 67336,
       "num": 433293,
       "word": "为什么时尚大牌都有代表色",
@@ -8819,20 +8851,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 67273,
-      "num": 67273,
-      "word": "原来这就是钝感力啊",
-      "onboard_time": 1710270677,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 66125,
       "num": 1149950,
       "word": "十四届全国人大二次会议今天闭幕",
       "onboard_time": 1710127771,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 65060,
+      "num": 65060,
+      "word": "英伟达CEO回应常年穿皮衣",
+      "onboard_time": 1710284662,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 64700,
@@ -8955,14 +8987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53612,
-      "num": 53612,
-      "word": "英伟达CEO回应常年穿皮衣",
-      "onboard_time": 1710284662,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 53462,
       "num": 53462,
       "word": "魏大勋狗狗探头",
@@ -9019,6 +9043,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 47701,
+      "num": 106953,
+      "word": "代表建议考研初试分步统一命题",
+      "onboard_time": 1710270917,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 47189,
       "num": 47189,
       "word": "NBA全明星赛历史上的经典名场面",
@@ -9051,6 +9083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 42741,
+      "num": 517637,
+      "word": "2024年民生工作三大重点",
+      "onboard_time": 1710248193,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42392,
       "num": 63757,
       "word": "送给在国家线边缘的你",
@@ -9075,14 +9115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41326,
-      "num": 86510,
-      "word": "代表建议考研初试分步统一命题",
-      "onboard_time": 1710270917,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 39603,
       "num": 353087,
       "word": "方太如何解决开敞式厨房痛点",
@@ -9105,14 +9137,6 @@
       "onboard_time": 1710276974,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 36064,
-      "num": 461402,
-      "word": "2024年民生工作三大重点",
-      "onboard_time": 1710248193,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35010,
