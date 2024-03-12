@@ -1,6 +1,6 @@
 {
   "startTime": 1710260540441,
-  "endTime": 1710274750363,
+  "endTime": 1710275668014,
   "band_list": [
     {
       "raw_hot": 1040245,
@@ -507,7 +507,23 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14482,
+      "raw_hot": 16176,
+      "num": 16176,
+      "word": "顺产还是剖腹产好",
+      "onboard_time": 1710274756,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15654,
+      "num": 15654,
+      "word": "满舒克检测日期打码",
+      "onboard_time": 1710275235,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 14700,
       "num": 14868,
       "word": "起底高君雨事件背后MCN公司",
       "onboard_time": 1710274096,
