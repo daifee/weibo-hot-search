@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710257726740,
+  "endTime": 1710260540441,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -2211,6 +2211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1040245,
+      "num": 1040245,
+      "word": "凯特王妃",
+      "onboard_time": 1709660539,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1037335,
       "num": 563755,
       "word": "焉栩嘉 不用了谢谢",
@@ -2793,14 +2801,6 @@
       "onboard_time": 1709250689,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 913616,
-      "num": 913616,
-      "word": "凯特王妃",
-      "onboard_time": 1709660539,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 913592,
@@ -4067,6 +4067,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 732872,
+      "num": 732872,
+      "word": "陈乔恩13天没吃碳水",
+      "onboard_time": 1710256414,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 731551,
       "num": 333966,
       "word": "王一博脸颊肉回来了",
@@ -4289,6 +4297,14 @@
       "onboard_time": 1709528676,
       "rank": 20,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 714204,
+      "num": 714204,
+      "word": "天涯明月刀",
+      "onboard_time": 1710256234,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 713003,
@@ -5011,14 +5027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 652268,
-      "num": 652268,
-      "word": "天涯明月刀",
-      "onboard_time": 1710256234,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 651252,
       "num": 651252,
       "word": "娃哈哈纯净水线上卖断货",
@@ -5337,14 +5345,6 @@
       "onboard_time": 1709690195,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 630506,
-      "num": 609472,
-      "word": "陈乔恩13天没吃碳水",
-      "onboard_time": 1710256414,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 630465,
@@ -9371,6 +9371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406138,
+      "num": 406138,
+      "word": "朱梓骁悬着的心终于死了",
+      "onboard_time": 1710254911,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406099,
       "num": 406099,
       "word": "国家线砍一刀",
@@ -11987,14 +11995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 314439,
-      "num": 286430,
-      "word": "朱梓骁悬着的心终于死了",
-      "onboard_time": 1710254911,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 314371,
       "num": 314371,
       "word": "知情人士回应张学友住进ICU",
@@ -12985,6 +12985,14 @@
       "onboard_time": 1709811931,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 287708,
+      "num": 278303,
+      "word": "赵今麦最新妆造",
+      "onboard_time": 1710258270,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 287679,
@@ -16507,6 +16515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218981,
+      "num": 235932,
+      "word": "考研失败办考研辅导班赚钱翻身",
+      "onboard_time": 1710256711,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 218965,
       "num": 194979,
       "word": "代号鸢 被父亲烧死的公孙珠",
@@ -19571,14 +19587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191095,
-      "num": 235932,
-      "word": "考研失败办考研辅导班赚钱翻身",
-      "onboard_time": 1710256711,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 191068,
       "num": 191068,
       "word": "车企降价谁才是真让利",
@@ -21859,6 +21867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172433,
+      "num": 172433,
+      "word": "纪凌尘早期旧照",
+      "onboard_time": 1710258334,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172379,
       "num": 172379,
       "word": "爷爷这是宠了奶奶一辈子吧",
@@ -22689,6 +22705,14 @@
       "onboard_time": 1709964751,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 165911,
+      "num": 203437,
+      "word": "经常剪头发不会长得更快",
+      "onboard_time": 1710258809,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 165910,
@@ -30555,6 +30579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 112266,
+      "num": 112266,
+      "word": "新说唱2024",
+      "onboard_time": 1710255095,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112076,
       "num": 112076,
       "word": "亚克力枪枪美物开箱",
@@ -32809,6 +32841,14 @@
       "onboard_time": 1710199524,
       "rank": 42,
       "category": "军事,国内时政"
+    },
+    {
+      "raw_hot": 71661,
+      "num": 92711,
+      "word": "逆水寒",
+      "onboard_time": 1710258090,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 71328,
