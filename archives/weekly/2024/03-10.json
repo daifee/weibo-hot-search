@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710208955532,
+  "endTime": 1710210104425,
   "band_list": [
     {
       "raw_hot": 2999065,
@@ -113,6 +113,14 @@
       "onboard_time": 1710076769,
       "rank": 26,
       "category": "自然"
+    },
+    {
+      "raw_hot": 1680303,
+      "num": 1146272,
+      "word": "X病毒",
+      "onboard_time": 1710207031,
+      "rank": 1,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1678561,
@@ -243,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1256625,
+      "num": 1256625,
+      "word": "小米SU7价格",
+      "onboard_time": 1710208890,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1244671,
       "num": 1244671,
       "word": "女教师哺乳期被学校调岗为保洁",
@@ -305,14 +321,6 @@
       "onboard_time": 1710062910,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1146272,
-      "num": 1146272,
-      "word": "X病毒",
-      "onboard_time": 1710207031,
-      "rank": 1,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1134154,
@@ -539,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 896359,
+      "num": 896359,
+      "word": "雷军官宣3月28日小米SU7上市",
+      "onboard_time": 1710208950,
+      "rank": 3,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 893470,
       "num": 893470,
       "word": "蒋勤勤亚洲电影大奖最佳女主角",
@@ -601,6 +617,14 @@
       "onboard_time": 1710194356,
       "rank": 30,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 818122,
+      "num": 818122,
+      "word": "大四是一场巨大的戒断",
+      "onboard_time": 1710205712,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 817955,
@@ -811,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 675978,
+      "num": 675978,
+      "word": "国家线今天出吗",
+      "onboard_time": 1710208051,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 675695,
       "num": 352818,
       "word": "小罗伯特唐尼被批无视关继威",
@@ -979,14 +1011,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 604421,
-      "num": 604421,
-      "word": "大四是一场巨大的戒断",
-      "onboard_time": 1710205712,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 601155,
       "num": 601155,
       "word": "山东事业编 亚冠",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1710159210,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 573128,
-      "num": 573128,
-      "word": "国家线今天出吗",
-      "onboard_time": 1710208051,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 571659,
@@ -1395,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496799,
+      "num": 496799,
+      "word": "奥斯卡春山学",
+      "onboard_time": 1710205953,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 492466,
       "num": 492466,
       "word": "董宇辉带货华为",
@@ -1555,14 +1579,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 450912,
-      "num": 428419,
-      "word": "奥斯卡春山学",
-      "onboard_time": 1710205953,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 448371,
       "num": 282806,
       "word": "为什么韩国人吃苹果那么精致",
@@ -1697,6 +1713,14 @@
       "onboard_time": 1710116133,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 405662,
+      "num": 405662,
+      "word": "白鹿王楚然坐一起",
+      "onboard_time": 1710207150,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 405438,
@@ -1937,6 +1961,14 @@
       "onboard_time": 1710082891,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358058,
+      "num": 358058,
+      "word": "金价狂飙涨疯普通人还能再买吗",
+      "onboard_time": 1710209189,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 356876,
@@ -2259,6 +2291,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 312750,
+      "num": 312750,
+      "word": "首尔大学医学院教授或将集体辞职",
+      "onboard_time": 1710209429,
+      "rank": 21,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 311824,
       "num": 311824,
       "word": "7类食物焯水后才能吃",
@@ -2313,14 +2353,6 @@
       "onboard_time": 1710057809,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302699,
-      "num": 302699,
-      "word": "白鹿王楚然坐一起",
-      "onboard_time": 1710207150,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 302327,
@@ -2939,6 +2971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 227908,
+      "num": 227908,
+      "word": "免费领养猫的真相或是贷款买猫",
+      "onboard_time": 1710208650,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227341,
       "num": 227341,
       "word": "为什么上了大学频繁生病",
@@ -3379,6 +3419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198585,
+      "num": 198585,
+      "word": "种地吧",
+      "onboard_time": 1710038428,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198450,
       "num": 198450,
       "word": "郝蕾打压式安慰王梓薇",
@@ -3481,6 +3529,14 @@
       "onboard_time": 1710180978,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195463,
+      "num": 195463,
+      "word": "aespa录cha时黄铉辰偷偷路过",
+      "onboard_time": 1710209670,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 195315,
@@ -3760,6 +3816,14 @@
       "word": "30岁了我妈还在我的家长群里",
       "onboard_time": 1710123813,
       "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 184490,
+      "num": 184490,
+      "word": "搭伙过日子和爱情的区别",
+      "onboard_time": 1710209490,
+      "rank": 33,
       "category": "情感"
     },
     {
@@ -4043,14 +4107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 170428,
-      "num": 170428,
-      "word": "小米SU7价格",
-      "onboard_time": 1710208890,
-      "rank": 40,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 170404,
       "num": 375142,
       "word": "互联网已成为永不落幕的课堂",
@@ -4105,6 +4161,14 @@
       "onboard_time": 1710161131,
       "rank": 46,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 167837,
+      "num": 167837,
+      "word": "李想朋友圈",
+      "onboard_time": 1710209490,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 167587,
@@ -4723,14 +4787,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 144675,
-      "num": 144675,
-      "word": "免费领养猫的真相或是贷款买猫",
-      "onboard_time": 1710208650,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144253,
       "num": 144253,
       "word": "国足新帅伊万科维奇率队首训",
@@ -5265,6 +5321,14 @@
       "onboard_time": 1710051810,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128507,
+      "num": 128507,
+      "word": "与凤行夫妻俩不像好惹的",
+      "onboard_time": 1710210091,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 128372,
@@ -6019,14 +6083,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 98307,
-      "num": 98307,
-      "word": "种地吧",
-      "onboard_time": 1710038428,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 97909,
       "num": 425739,
       "word": "杭州跨境电商企业10年增长30倍",
@@ -6540,7 +6596,7 @@
     },
     {
       "raw_hot": 36180,
-      "num": 233297,
+      "num": 323765,
       "word": "方太如何解决开敞式厨房痛点",
       "onboard_time": 1710208348,
       "rank": 26,
