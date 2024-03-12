@@ -1,0 +1,410 @@
+{
+  "runTime": 1710242053420,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1254449,
+        "num": 1254449,
+        "word": "考研国家线",
+        "onboard_time": 1710231810,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2027410,
+        "num": 1248557,
+        "word": "素媛案强奸犯擅自外出",
+        "onboard_time": 1710236253,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62522,
+        "num": 1227285,
+        "word": "植树节一起为绿充植",
+        "onboard_time": 1710232357,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1218778,
+        "num": 1218778,
+        "word": "杨威双胞胎女儿在家上学",
+        "onboard_time": 1710239614,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 965917,
+        "num": 965917,
+        "word": "男子2万买金镯发现内藏2根金丝",
+        "onboard_time": 1710234274,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1043771,
+        "num": 965289,
+        "word": "高君雨mcn致歉",
+        "onboard_time": 1710239135,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 961275,
+        "num": 961275,
+        "word": "社保卡一定要记得去激活",
+        "onboard_time": 1710235415,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 691778,
+        "num": 691778,
+        "word": "Super Junior SM全否定",
+        "onboard_time": 1710237753,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158604,
+        "num": 688192,
+        "word": "甘肃杭州林面积已大过西湖",
+        "onboard_time": 1710237034,
+        "rank": 8,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 192465,
+        "num": 683694,
+        "word": "杭州法喜寺500岁玉兰如期绽放",
+        "onboard_time": 1710226473,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 809872,
+        "num": 668686,
+        "word": "没学上了",
+        "onboard_time": 1710234935,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 783161,
+        "num": 665536,
+        "word": "满舒克HPV检测呈阴性",
+        "onboard_time": 1710229771,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 660180,
+        "num": 660180,
+        "word": "向佐姚安娜 CP",
+        "onboard_time": 1710236130,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 612782,
+        "num": 612782,
+        "word": "唐艺昕纹身",
+        "onboard_time": 1710230912,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 519489,
+        "num": 519489,
+        "word": "点读机女孩事件最高可处3年有期徒刑",
+        "onboard_time": 1710240513,
+        "rank": 14,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 487573,
+        "num": 487573,
+        "word": "医学涨了",
+        "onboard_time": 1710237753,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 450040,
+        "num": 450040,
+        "word": "高君雨同学发声",
+        "onboard_time": 1710241233,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 410167,
+        "num": 410167,
+        "word": "才知道公安局是不能线下报案的",
+        "onboard_time": 1710230551,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 344414,
+        "num": 344414,
+        "word": "CK",
+        "onboard_time": 1710235415,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 318053,
+        "num": 318053,
+        "word": "宁静回应与纪凌尘搭戏",
+        "onboard_time": 1710234155,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493069,
+        "num": 317626,
+        "word": "海底捞出麻将了",
+        "onboard_time": 1710239732,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 435248,
+        "num": 316668,
+        "word": "体制内被同事删除微信",
+        "onboard_time": 1710238773,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366517,
+        "num": 316103,
+        "word": "小宝宝臀部长了小尾巴",
+        "onboard_time": 1710237573,
+        "rank": 22,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 325410,
+        "num": 315342,
+        "word": "被日本人邻居用草莓换排骨汤",
+        "onboard_time": 1710239135,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315277,
+        "num": 315277,
+        "word": "官方通报点读机女孩视频事件",
+        "onboard_time": 1710231511,
+        "rank": 24,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 253208,
+        "num": 253208,
+        "word": "易烊千玺没被认出来",
+        "onboard_time": 1710229412,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252335,
+        "num": 252335,
+        "word": "你身边有长期不上班到处玩的人吗",
+        "onboard_time": 1710239135,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252012,
+        "num": 252012,
+        "word": "为什么朋友圈这条线有长有短",
+        "onboard_time": 1710232535,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 51376,
+        "num": 246508,
+        "word": "为什么时尚大牌都有代表色",
+        "onboard_time": 1710238412,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 244015,
+        "num": 244015,
+        "word": "2024考研国家线出了",
+        "onboard_time": 1710232597,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 218894,
+        "num": 218894,
+        "word": "射雕质疑剑网3",
+        "onboard_time": 1710240810,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217719,
+        "num": 217719,
+        "word": "原来饮料瓶盖可以按印泥盖章",
+        "onboard_time": 1710240631,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212380,
+        "num": 212380,
+        "word": "任嘉伦古装剧大婚必刀定律",
+        "onboard_time": 1710239856,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210802,
+        "num": 210802,
+        "word": "蔡文静录恋综不像观察员像女嘉宾",
+        "onboard_time": 1710240874,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210221,
+        "num": 210221,
+        "word": "感受到四点半下班的好处了",
+        "onboard_time": 1710234574,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206206,
+        "num": 206206,
+        "word": "高君雨代言点读机产品已注销",
+        "onboard_time": 1710241655,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 195963,
+        "num": 195963,
+        "word": "点读机女孩治疗视频为去年9月拍摄",
+        "onboard_time": 1710231273,
+        "rank": 36,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 192241,
+        "num": 192241,
+        "word": "高君雨中学以后基本不接广告",
+        "onboard_time": 1710239312,
+        "rank": 37,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 184633,
+        "num": 184633,
+        "word": "我妈返聘工资都比我高",
+        "onboard_time": 1710227795,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172339,
+        "num": 180043,
+        "word": "考研国家线英语",
+        "onboard_time": 1710235892,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179104,
+        "num": 179104,
+        "word": "为什么百香果不能带进监狱",
+        "onboard_time": 1710234336,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179000,
+        "num": 179000,
+        "word": "迷风花道歉",
+        "onboard_time": 1710236371,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178345,
+        "num": 178345,
+        "word": "酱园弄",
+        "onboard_time": 1710241052,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169630,
+        "num": 169630,
+        "word": "射手座的精神洁癖很强",
+        "onboard_time": 1710241352,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157906,
+        "num": 157906,
+        "word": "赵丽颖易烊千玺二搭",
+        "onboard_time": 1710228093,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155413,
+        "num": 155413,
+        "word": "法学331",
+        "onboard_time": 1710237814,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149996,
+        "num": 149996,
+        "word": "什么工作适合考公过渡",
+        "onboard_time": 1710239492,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147887,
+        "num": 147887,
+        "word": "纪凌尘的牙",
+        "onboard_time": 1710224490,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141054,
+        "num": 141054,
+        "word": "唐艺昕曾拒绝过张若昀求婚",
+        "onboard_time": 1710225810,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140290,
+        "num": 140290,
+        "word": "书亦烧仙草",
+        "onboard_time": 1710237152,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记出席2024全国两会纪实#"
+    }
+  }
+}

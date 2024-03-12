@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710239642044,
+  "endTime": 1710242053420,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1547,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1218778,
+      "num": 1218778,
+      "word": "杨威双胞胎女儿在家上学",
+      "onboard_time": 1710239614,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1212808,
       "num": 388902,
       "word": "南湘回国",
@@ -2107,6 +2115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1043771,
+      "num": 965289,
+      "word": "高君雨mcn致歉",
+      "onboard_time": 1710239135,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1042039,
       "num": 1042039,
       "word": "回南天",
@@ -2489,6 +2505,14 @@
       "onboard_time": 1710041008,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 961275,
+      "num": 961275,
+      "word": "社保卡一定要记得去激活",
+      "onboard_time": 1710235415,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 960619,
@@ -3521,14 +3545,6 @@
       "onboard_time": 1709340812,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 780822,
-      "num": 526088,
-      "word": "社保卡一定要记得去激活",
-      "onboard_time": 1710235415,
-      "rank": 31,
-      "category": "科学科普"
     },
     {
       "raw_hot": 780411,
@@ -6851,14 +6867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 522674,
-      "num": 522674,
-      "word": "高君雨mcn致歉",
-      "onboard_time": 1710239135,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 522556,
       "num": 192369,
       "word": "三八妇女节 迪士妮",
@@ -6889,6 +6897,14 @@
       "onboard_time": 1709544035,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 519489,
+      "num": 519489,
+      "word": "点读机女孩事件最高可处3年有期徒刑",
+      "onboard_time": 1710240513,
+      "rank": 14,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 519476,
@@ -7283,6 +7299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 493069,
+      "num": 317626,
+      "word": "海底捞出麻将了",
+      "onboard_time": 1710239732,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 492778,
       "num": 492778,
       "word": "中国官网最低3499元就能买iPhone",
@@ -7401,6 +7425,14 @@
       "onboard_time": 1709393669,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 487573,
+      "num": 487573,
+      "word": "医学涨了",
+      "onboard_time": 1710237753,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 487243,
@@ -7931,14 +7963,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 463508,
-      "num": 463508,
-      "word": "医学涨了",
-      "onboard_time": 1710237753,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 462297,
       "num": 462297,
       "word": "高德地图回应小团团语音包是否下架",
@@ -8161,6 +8185,14 @@
       "onboard_time": 1709442990,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 450040,
+      "num": 450040,
+      "word": "高君雨同学发声",
+      "onboard_time": 1710241233,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 449609,
@@ -11323,6 +11355,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 325410,
+      "num": 315342,
+      "word": "被日本人邻居用草莓换排骨汤",
+      "onboard_time": 1710239135,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 325183,
       "num": 325183,
       "word": "刘浩存演惠英红奶奶",
@@ -12905,14 +12945,6 @@
       "onboard_time": 1709280810,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 280492,
-      "num": 280492,
-      "word": "被日本人邻居用草莓换排骨汤",
-      "onboard_time": 1710239135,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 280243,
@@ -16107,6 +16139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 218894,
+      "num": 218894,
+      "word": "射雕质疑剑网3",
+      "onboard_time": 1710240810,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218637,
       "num": 218637,
       "word": "乡镇初中晚自习的意义",
@@ -16193,6 +16233,14 @@
       "onboard_time": 1709610572,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217719,
+      "num": 217719,
+      "word": "原来饮料瓶盖可以按印泥盖章",
+      "onboard_time": 1710240631,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 217699,
@@ -16683,6 +16731,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 212380,
+      "num": 212380,
+      "word": "任嘉伦古装剧大婚必刀定律",
+      "onboard_time": 1710239856,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212315,
       "num": 212315,
       "word": "赵露思女友感",
@@ -16841,6 +16897,14 @@
       "onboard_time": 1709800711,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 210802,
+      "num": 210802,
+      "word": "蔡文静录恋综不像观察员像女嘉宾",
+      "onboard_time": 1710240874,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 210800,
@@ -17257,6 +17321,14 @@
       "onboard_time": 1709528735,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206206,
+      "num": 206206,
+      "word": "高君雨代言点读机产品已注销",
+      "onboard_time": 1710241655,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 206136,
@@ -18971,6 +19043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192465,
+      "num": 683694,
+      "word": "杭州法喜寺500岁玉兰如期绽放",
+      "onboard_time": 1710226473,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 192251,
       "num": 177006,
       "word": "霍启刚 完善休假制度是必要的",
@@ -20611,6 +20691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179104,
+      "num": 179104,
+      "word": "为什么百香果不能带进监狱",
+      "onboard_time": 1710234336,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179079,
       "num": 179079,
       "word": "T1对战GEN",
@@ -20665,6 +20753,14 @@
       "onboard_time": 1709987433,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178345,
+      "num": 178345,
+      "word": "酱园弄",
+      "onboard_time": 1710241052,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 178304,
@@ -21467,14 +21563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 171101,
-      "num": 171101,
-      "word": "杨威双胞胎女儿在家上学",
-      "onboard_time": 1710239614,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 171043,
       "num": 171043,
       "word": "龚俊玩手机好像我上课忘带笔",
@@ -21532,7 +21620,7 @@
     },
     {
       "raw_hot": 170482,
-      "num": 608827,
+      "num": 688192,
       "word": "甘肃杭州林面积已大过西湖",
       "onboard_time": 1710237034,
       "rank": 9,
@@ -21659,20 +21747,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 169704,
-      "num": 625277,
-      "word": "杭州法喜寺500岁玉兰如期绽放",
-      "onboard_time": 1710226473,
-      "rank": 34,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 169696,
       "num": 169696,
       "word": "春天不会穿搭的人有福了",
       "onboard_time": 1709894670,
       "rank": 36,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 169630,
+      "num": 169630,
+      "word": "射手座的精神洁癖很强",
+      "onboard_time": 1710241352,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 169586,
@@ -26041,14 +26129,6 @@
       "onboard_time": 1709260290,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 139045,
-      "num": 147195,
-      "word": "为什么百香果不能带进监狱",
-      "onboard_time": 1710234336,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 139037,
