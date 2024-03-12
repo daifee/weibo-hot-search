@@ -1,6 +1,6 @@
 {
   "startTime": 1710174076566,
-  "endTime": 1710231661298,
+  "endTime": 1710232448979,
   "band_list": [
     {
       "raw_hot": 2655228,
@@ -9,6 +9,14 @@
       "onboard_time": 1710229771,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2072951,
+      "num": 2072951,
+      "word": "考研国家线",
+      "onboard_time": 1710231810,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1972407,
@@ -115,12 +123,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1210265,
+      "num": 688230,
+      "word": "唐艺昕纹身",
+      "onboard_time": 1710230912,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1202666,
       "num": 1202666,
       "word": "汤唯超短发",
       "onboard_time": 1710219516,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1185830,
+      "num": 729539,
+      "word": "点读机女孩治疗视频为去年9月拍摄",
+      "onboard_time": 1710231273,
+      "rank": 10,
+      "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 1183994,
+      "num": 408869,
+      "word": "官方通报点读机女孩视频事件",
+      "onboard_time": 1710231511,
+      "rank": 40,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 1183830,
@@ -161,6 +193,14 @@
       "onboard_time": 1710221013,
       "rank": 30,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 1064840,
+      "num": 634611,
+      "word": "才知道公安局是不能线下报案的",
+      "onboard_time": 1710230551,
+      "rank": 12,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1058541,
@@ -355,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 688230,
-      "num": 688230,
-      "word": "唐艺昕纹身",
-      "onboard_time": 1710230912,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 685768,
       "num": 685768,
       "word": "满舒克工作室声明",
@@ -377,14 +409,6 @@
       "onboard_time": 1710224073,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 678857,
-      "num": 678857,
-      "word": "点读机女孩治疗视频为去年9月拍摄",
-      "onboard_time": 1710231273,
-      "rank": 10,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 675978,
@@ -417,14 +441,6 @@
       "onboard_time": 1710224728,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 634611,
-      "num": 634611,
-      "word": "才知道公安局是不能线下报案的",
-      "onboard_time": 1710230551,
-      "rank": 12,
-      "category": "科学科普"
     },
     {
       "raw_hot": 605786,
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 587694,
-      "num": 354884,
+      "num": 382256,
       "word": "人民网评高君雨事件",
       "onboard_time": 1710228212,
       "rank": 18,
@@ -715,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 413505,
+      "num": 413505,
+      "word": "为什么摸了一天鱼还是觉得好累",
+      "onboard_time": 1710230551,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 408535,
       "num": 408535,
       "word": "白敬亭章若楠难哄最新路透",
@@ -891,14 +915,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 283468,
-      "num": 283468,
-      "word": "为什么摸了一天鱼还是觉得好累",
-      "onboard_time": 1710230551,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 279759,
       "num": 279759,
       "word": "小米集团涨超10%",
@@ -1043,12 +1059,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 244869,
+      "num": 225970,
+      "word": "张雪峰 周五",
+      "onboard_time": 1710231752,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 244421,
       "num": 198968,
       "word": "马什么梅原来是沈腾自己的故事",
       "onboard_time": 1710228032,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 242366,
+      "num": 242366,
+      "word": "男朋友爸评价我长得尖嘴猴腮的",
+      "onboard_time": 1710228511,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 241595,
@@ -1065,14 +1097,6 @@
       "onboard_time": 1710227011,
       "rank": 25,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 240073,
-      "num": 240073,
-      "word": "男朋友爸评价我长得尖嘴猴腮的",
-      "onboard_time": 1710228511,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 237967,
@@ -1177,6 +1201,14 @@
       "onboard_time": 1710209490,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 221503,
+      "num": 221503,
+      "word": "赵丽颖出妆",
+      "onboard_time": 1710231395,
+      "rank": 35,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 220642,
@@ -1435,14 +1467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189678,
-      "num": 189678,
-      "word": "赵丽颖出妆",
-      "onboard_time": 1710231395,
-      "rank": 35,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 187907,
       "num": 187907,
       "word": "搭伙过日子和爱情的区别",
@@ -1505,14 +1529,6 @@
       "onboard_time": 1710213210,
       "rank": 39,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 178907,
-      "num": 175646,
-      "word": "官方通报点读机女孩视频事件",
-      "onboard_time": 1710231511,
-      "rank": 40,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 177865,
@@ -1633,6 +1649,14 @@
       "onboard_time": 1710212968,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159082,
+      "num": 159082,
+      "word": "十个勤天 真诚",
+      "onboard_time": 1710231752,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 157118,
@@ -1907,6 +1931,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 101718,
+      "num": 101718,
+      "word": "贵人鸟即将退市",
+      "onboard_time": 1710229532,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 100771,
       "num": 136479,
       "word": "博主B太揭秘加油站鬼秤",
@@ -2123,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33839,
+      "num": 404259,
+      "word": "一套题学习政府工作报告",
+      "onboard_time": 1710232174,
+      "rank": 11,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31424,
       "num": 44290,
       "word": "万茜穿平底鞋的身材比例",
@@ -2153,6 +2193,14 @@
       "onboard_time": 1710192375,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 15575,
+      "num": 1691161,
+      "word": "植树节一起为绿充植",
+      "onboard_time": 1710232357,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15504,
