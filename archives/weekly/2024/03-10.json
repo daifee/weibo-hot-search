@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710252958910,
+  "endTime": 1710254082448,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -99,6 +99,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2053946,
+      "num": 2053946,
+      "word": "马龙2比3弗朗西斯卡",
+      "onboard_time": 1710253359,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1972407,
       "num": 1972407,
       "word": "唐艺昕曾拒绝过张若昀求婚",
@@ -179,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1639227,
+      "num": 1639227,
+      "word": "纪凌尘 真心无意冒犯就是学艺不精",
+      "onboard_time": 1710249874,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1614266,
       "num": 1614266,
       "word": "小米SU7价格",
@@ -201,14 +217,6 @@
       "onboard_time": 1710149072,
       "rank": 17,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1598357,
-      "num": 1598357,
-      "word": "纪凌尘 真心无意冒犯就是学艺不精",
-      "onboard_time": 1710249874,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 1572473,
@@ -273,6 +281,14 @@
       "onboard_time": 1710139771,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1395333,
+      "num": 1395333,
+      "word": "因为自卑对男朋友隐瞒了家庭条件",
+      "onboard_time": 1710251614,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 1392401,
@@ -513,6 +529,14 @@
       "onboard_time": 1710144211,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1107364,
+      "num": 731942,
+      "word": "纪凌尘撕名牌",
+      "onboard_time": 1710251855,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1102782,
@@ -769,14 +793,6 @@
       "onboard_time": 1710168095,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 943740,
-      "num": 943740,
-      "word": "因为自卑对男朋友隐瞒了家庭条件",
-      "onboard_time": 1710251614,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 930390,
@@ -1148,7 +1164,7 @@
     },
     {
       "raw_hot": 733143,
-      "num": 554389,
+      "num": 636980,
       "word": "给点读机女孩转款1万元当事人发声",
       "onboard_time": 1710249634,
       "rank": 21,
@@ -1203,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 712557,
+      "num": 712557,
+      "word": "满舒克回应",
+      "onboard_time": 1710253359,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 710033,
       "num": 335753,
       "word": "张凯丽说不赞成孩子赢在起跑线这句话",
@@ -1241,14 +1265,6 @@
       "onboard_time": 1710195678,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 698019,
-      "num": 698019,
-      "word": "纪凌尘撕名牌",
-      "onboard_time": 1710251855,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 692745,
@@ -2051,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498532,
+      "num": 498532,
+      "word": "杨紫 生命树",
+      "onboard_time": 1710252155,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 496973,
       "num": 496973,
       "word": "许嵩巡演官宣",
@@ -2161,6 +2185,14 @@
       "onboard_time": 1710132696,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 481382,
+      "num": 481382,
+      "word": "走吧你跟有病似的",
+      "onboard_time": 1710252091,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 477407,
@@ -2491,6 +2523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 407815,
+      "num": 343529,
+      "word": "杨紫琼ig",
+      "onboard_time": 1710252572,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 407093,
       "num": 312983,
       "word": "建议大家雨天还是打伞吧",
@@ -2523,6 +2563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 402925,
+      "num": 402925,
+      "word": "马龙vs弗朗西斯卡",
+      "onboard_time": 1710253359,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 400875,
       "num": 400875,
       "word": "相亲对象是我曾经删掉的人",
@@ -2553,14 +2601,6 @@
       "onboard_time": 1710136831,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 395880,
-      "num": 395880,
-      "word": "杨紫 生命树",
-      "onboard_time": 1710252155,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 395481,
@@ -2849,14 +2889,6 @@
       "onboard_time": 1710034767,
       "rank": 6,
       "category": "体育,演出"
-    },
-    {
-      "raw_hot": 354239,
-      "num": 348751,
-      "word": "走吧你跟有病似的",
-      "onboard_time": 1710252091,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 353781,
@@ -3523,14 +3555,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 275673,
-      "num": 239273,
-      "word": "杨紫琼ig",
-      "onboard_time": 1710252572,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 275023,
       "num": 236414,
       "word": "檀健次回应爆红后熬出头",
@@ -3569,6 +3593,14 @@
       "onboard_time": 1710231752,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 271451,
+      "num": 271451,
+      "word": "谈个恋爱像留了个案底",
+      "onboard_time": 1710252936,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 270532,
@@ -3827,6 +3859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 252561,
+      "num": 236948,
+      "word": "酱园弄",
+      "onboard_time": 1710241052,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 250759,
       "num": 250759,
       "word": "电影射雕英雄传侠之大者",
@@ -3921,14 +3961,6 @@
       "onboard_time": 1710236614,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247342,
-      "num": 236948,
-      "word": "酱园弄",
-      "onboard_time": 1710241052,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 246522,
@@ -4211,6 +4243,14 @@
       "category": "国内时政,艺人"
     },
     {
+      "raw_hot": 228897,
+      "num": 228897,
+      "word": "为什么室友能冷漠到无话可说",
+      "onboard_time": 1710252395,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 228469,
       "num": 228469,
       "word": "法学331",
@@ -4337,6 +4377,14 @@
       "onboard_time": 1710130412,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 223228,
+      "num": 223228,
+      "word": "LNG战胜iG",
+      "onboard_time": 1710253773,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 222713,
@@ -4913,14 +4961,6 @@
       "onboard_time": 1710033206,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 199137,
-      "num": 199137,
-      "word": "为什么室友能冷漠到无话可说",
-      "onboard_time": 1710252395,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 198862,
@@ -5955,6 +5995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 167343,
+      "num": 167343,
+      "word": "印度空军一战机坠毁",
+      "onboard_time": 1710253235,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 167306,
       "num": 167306,
       "word": "只有infp才擅长的天赋",
@@ -6843,14 +6891,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 141588,
-      "num": 141588,
-      "word": "谈个恋爱像留了个案底",
-      "onboard_time": 1710252936,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 141336,
       "num": 141336,
       "word": "春季赛第四周最佳阵容",
@@ -7291,6 +7331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130262,
+      "num": 130262,
+      "word": "LNG翻盘iG",
+      "onboard_time": 1710254011,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130109,
       "num": 130109,
       "word": "为何年轻人不愿意进工厂了",
@@ -7708,7 +7756,7 @@
     },
     {
       "raw_hot": 117132,
-      "num": 946697,
+      "num": 1464040,
       "word": "2023年全国国土绿化面积超800万公顷",
       "onboard_time": 1710248673,
       "rank": 2,
