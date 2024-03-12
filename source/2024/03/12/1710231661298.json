@@ -1,0 +1,410 @@
+{
+  "runTime": 1710231661298,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2655228,
+        "num": 2655228,
+        "word": "满舒克HPV检测呈阴性",
+        "onboard_time": 1710229771,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1640520,
+        "num": 1640520,
+        "word": "唐艺昕曾拒绝过张若昀求婚",
+        "onboard_time": 1710225810,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33866,
+        "num": 816701,
+        "word": "用色卡打开春日里的中国",
+        "onboard_time": 1710211411,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785835,
+        "num": 785835,
+        "word": "易烊千玺没被认出来",
+        "onboard_time": 1710229412,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 739144,
+        "num": 739144,
+        "word": "结婚16年4娃非亲生当事人已离婚",
+        "onboard_time": 1710226591,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682646,
+        "num": 691942,
+        "word": "饭后有3个表现是胃癌肝癌来临信号",
+        "onboard_time": 1710224073,
+        "rank": 5,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 688230,
+        "num": 688230,
+        "word": "唐艺昕纹身",
+        "onboard_time": 1710230912,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 685768,
+        "num": 685768,
+        "word": "满舒克工作室声明",
+        "onboard_time": 1710229351,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 733633,
+        "num": 683856,
+        "word": "赵丽颖易烊千玺二搭",
+        "onboard_time": 1710228093,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 415619,
+        "num": 680737,
+        "word": "王楚钦孙颖莎3比0法国组合",
+        "onboard_time": 1710227732,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 678857,
+        "num": 678857,
+        "word": "点读机女孩治疗视频为去年9月拍摄",
+        "onboard_time": 1710231273,
+        "rank": 10,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 639795,
+        "num": 639795,
+        "word": "纪凌尘的牙",
+        "onboard_time": 1710224490,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 634611,
+        "num": 634611,
+        "word": "才知道公安局是不能线下报案的",
+        "onboard_time": 1710230551,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 413319,
+        "num": 413319,
+        "word": "超80%女性一生至少有过一次HPV感染",
+        "onboard_time": 1710221013,
+        "rank": 13,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 359968,
+        "num": 359968,
+        "word": "没想到iPhone备忘录还能这么用",
+        "onboard_time": 1710222033,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 587694,
+        "num": 354884,
+        "word": "人民网评高君雨事件",
+        "onboard_time": 1710228212,
+        "rank": 15,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 526781,
+        "num": 350841,
+        "word": "刘亦菲胳膊",
+        "onboard_time": 1710226831,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293256,
+        "num": 293256,
+        "word": "林诗栋3比1樊振东",
+        "onboard_time": 1710224728,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291491,
+        "num": 291491,
+        "word": "国家线今天出吗",
+        "onboard_time": 1710208051,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 283468,
+        "num": 283468,
+        "word": "为什么摸了一天鱼还是觉得好累",
+        "onboard_time": 1710230551,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 657860,
+        "num": 279351,
+        "word": "我妈返聘工资都比我高",
+        "onboard_time": 1710227795,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 436122,
+        "num": 272491,
+        "word": "十个勤天种树直播",
+        "onboard_time": 1710223111,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395481,
+        "num": 266256,
+        "word": "结束五年恋爱后妈妈的反应",
+        "onboard_time": 1710228870,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320815,
+        "num": 262064,
+        "word": "樊振东二轮游",
+        "onboard_time": 1710227612,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255360,
+        "num": 255360,
+        "word": "苏翊鸣晒与朱易滑雪照",
+        "onboard_time": 1710225631,
+        "rank": 24,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 240073,
+        "num": 240073,
+        "word": "男朋友爸评价我长得尖嘴猴腮的",
+        "onboard_time": 1710228511,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233211,
+        "num": 233211,
+        "word": "种地吧沙漠种18万棵树",
+        "onboard_time": 1710224728,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232213,
+        "num": 232213,
+        "word": "偷哭时被室友塞了好多零食",
+        "onboard_time": 1710230493,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223147,
+        "num": 223147,
+        "word": "小米集团涨超10%",
+        "onboard_time": 1710227193,
+        "rank": 28,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 110958,
+        "num": 213067,
+        "word": "杭州法喜寺500岁玉兰如期绽放",
+        "onboard_time": 1710226473,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 227814,
+        "num": 212545,
+        "word": "终于有人把五险一金说清楚了",
+        "onboard_time": 1710227011,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 211499,
+        "num": 211499,
+        "word": "金价狂飙涨疯普通人还能再买吗",
+        "onboard_time": 1710209189,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 199301,
+        "num": 199301,
+        "word": "汤唯超短发",
+        "onboard_time": 1710219516,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198544,
+        "num": 198544,
+        "word": "王鹤棣新发型",
+        "onboard_time": 1710228093,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190377,
+        "num": 190377,
+        "word": "马什么梅原来是沈腾自己的故事",
+        "onboard_time": 1710228032,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189678,
+        "num": 189678,
+        "word": "赵丽颖出妆",
+        "onboard_time": 1710231395,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185022,
+        "num": 185022,
+        "word": "点读机女孩需承担法律责任吗",
+        "onboard_time": 1710212611,
+        "rank": 36,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 27496,
+        "num": 180288,
+        "word": "倪妮奢牌待遇",
+        "onboard_time": 1710228332,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55383,
+        "num": 177142,
+        "word": "安可拉红有多出片",
+        "onboard_time": 1710227251,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177100,
+        "num": 177100,
+        "word": "小米集团股价大涨",
+        "onboard_time": 1710230671,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178907,
+        "num": 175646,
+        "word": "官方通报点读机女孩视频事件",
+        "onboard_time": 1710231511,
+        "rank": 40,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 165360,
+        "num": 165360,
+        "word": "种地吧直播",
+        "onboard_time": 1710230493,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165129,
+        "num": 165129,
+        "word": "迪丽热巴名下一合伙企业注销",
+        "onboard_time": 1710227972,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163356,
+        "num": 163356,
+        "word": "许嵩抢票",
+        "onboard_time": 1710226890,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160363,
+        "num": 160363,
+        "word": "王鹤棣终于演警察了",
+        "onboard_time": 1710215794,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152139,
+        "num": 152139,
+        "word": "朋友都说尽量不要裸辞",
+        "onboard_time": 1710225751,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143034,
+        "num": 143034,
+        "word": "呷哺呷哺集团扭亏失败",
+        "onboard_time": 1710229951,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142427,
+        "num": 142427,
+        "word": "社恐最怕的场景出现了",
+        "onboard_time": 1710230611,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134120,
+        "num": 134120,
+        "word": "甜茶不甜了",
+        "onboard_time": 1710219757,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122383,
+        "num": 133739,
+        "word": "广西两女教师打学生被停课",
+        "onboard_time": 1710223830,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平两会上的这些论述值得深读#"
+    }
+  }
+}

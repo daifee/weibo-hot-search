@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1710228874600,
+  "endTime": 1710231661298,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1947,6 +1947,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 2655228,
+      "num": 2655228,
+      "word": "满舒克HPV检测呈阴性",
+      "onboard_time": 1710229771,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2653997,
       "num": 2653997,
       "word": "暴雪预警",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1707706590,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2447148,
-      "num": 2447148,
-      "word": "调休",
-      "onboard_time": 1707010589,
-      "rank": 0,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
