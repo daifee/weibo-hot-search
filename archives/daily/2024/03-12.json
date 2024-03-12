@@ -1,6 +1,6 @@
 {
   "startTime": 1710174076566,
-  "endTime": 1710217379206,
+  "endTime": 1710218109375,
   "band_list": [
     {
       "raw_hot": 1716922,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1167230,
+      "num": 1167230,
+      "word": "蔚来CEO要求员工不得参与理想MEGA舆论",
+      "onboard_time": 1710213629,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1147251,
       "num": 1147251,
       "word": "警方通报广州车祸",
@@ -121,14 +129,6 @@
       "onboard_time": 1710211050,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1039147,
-      "num": 1039147,
-      "word": "蔚来CEO要求员工不得参与理想MEGA舆论",
-      "onboard_time": 1710213629,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 977642,
@@ -227,6 +227,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 688645,
+      "num": 688645,
+      "word": "丈夫藏10万练功券被妻子拿去存钱",
+      "onboard_time": 1710215251,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 675978,
       "num": 675978,
       "word": "国家线今天出吗",
@@ -249,6 +257,14 @@
       "onboard_time": 1710155671,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 605786,
+      "num": 605786,
+      "word": "范丞丞张婧仪 樱桃琥珀",
+      "onboard_time": 1710214770,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 603579,
@@ -275,12 +291,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 585114,
-      "num": 585114,
-      "word": "范丞丞张婧仪 樱桃琥珀",
-      "onboard_time": 1710214770,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 579738,
+      "num": 579738,
+      "word": "王一博连说了八个不要",
+      "onboard_time": 1710217053,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 560102,
@@ -339,6 +355,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 496432,
+      "num": 496432,
+      "word": "酱园弄阵容",
+      "onboard_time": 1710217235,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 495997,
       "num": 495997,
       "word": "白鹿把领口缝起来了",
@@ -355,20 +379,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 482552,
-      "num": 482552,
-      "word": "丈夫藏10万练功券被妻子拿去存钱",
-      "onboard_time": 1710215251,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 474895,
       "num": 203236,
       "word": "香港出租屋惊现两具男婴尸体浸泡玻璃罐",
       "onboard_time": 1710148530,
       "rank": 20,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 472620,
+      "num": 472620,
+      "word": "一个30岁的医生决定离开大三甲",
+      "onboard_time": 1710215492,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 471393,
@@ -379,20 +403,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465887,
+      "num": 353836,
+      "word": "点读机女孩需承担法律责任吗",
+      "onboard_time": 1710212611,
+      "rank": 21,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 458858,
       "num": 458858,
       "word": "短短十五秒猫猫起了四次杀心",
       "onboard_time": 1710202774,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 454020,
-      "num": 339255,
-      "word": "点读机女孩需承担法律责任吗",
-      "onboard_time": 1710212611,
-      "rank": 21,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 453115,
@@ -403,12 +427,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447688,
+      "num": 447688,
+      "word": "福建沙虫",
+      "onboard_time": 1710215672,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 445773,
+      "num": 445773,
+      "word": "儿童近视神药获批",
+      "onboard_time": 1710216512,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 443651,
       "num": 443651,
       "word": "X疾病会到来吗",
       "onboard_time": 1710207031,
       "rank": 11,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 428456,
+      "num": 428456,
+      "word": "苏打绿杭州",
+      "onboard_time": 1710218017,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 417390,
@@ -451,22 +499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 377237,
-      "num": 377237,
-      "word": "王一博连说了八个不要",
-      "onboard_time": 1710217053,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 375788,
-      "num": 375788,
-      "word": "一个30岁的医生决定离开大三甲",
-      "onboard_time": 1710215492,
-      "rank": 14,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 366043,
       "num": 366043,
       "word": "金智媛好美",
@@ -499,12 +531,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 355873,
+      "num": 355873,
+      "word": "田曦薇刘浩存G社生图",
+      "onboard_time": 1710216750,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 352608,
       "num": 238365,
       "word": "丈夫看店铺监控发现妻子出轨",
       "onboard_time": 1710163892,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 343549,
+      "num": 343549,
+      "word": "张馨予晒10年前旧照",
+      "onboard_time": 1710215974,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 336220,
@@ -539,22 +587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 303779,
-      "num": 303779,
-      "word": "张馨予晒10年前旧照",
-      "onboard_time": 1710215974,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 294518,
-      "num": 294518,
-      "word": "儿童近视神药获批",
-      "onboard_time": 1710216512,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 294301,
       "num": 294301,
       "word": "钟薛高被限制高消费",
@@ -577,14 +609,6 @@
       "onboard_time": 1710151232,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 278993,
-      "num": 278993,
-      "word": "田曦薇刘浩存G社生图",
-      "onboard_time": 1710216750,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 278259,
@@ -611,6 +635,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 265619,
+      "num": 265619,
+      "word": "林俊杰 他甚至贴心地等大家说完",
+      "onboard_time": 1710217471,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 259901,
       "num": 259901,
       "word": "高君雨手术是毕业后做的",
@@ -625,6 +657,14 @@
       "onboard_time": 1710211109,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 256375,
+      "num": 256375,
+      "word": "见过最闲的岗位是什么",
+      "onboard_time": 1710214469,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 254275,
@@ -659,14 +699,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 243601,
-      "num": 243601,
-      "word": "见过最闲的岗位是什么",
-      "onboard_time": 1710214469,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 237726,
       "num": 237726,
       "word": "大学生当短剧演员的一天",
@@ -683,8 +715,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 227127,
-      "num": 227127,
+      "raw_hot": 229785,
+      "num": 229785,
       "word": "看种地吧突然理解猪八戒了",
       "onboard_time": 1710214591,
       "rank": 32,
@@ -731,12 +763,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 216982,
-      "num": 216982,
-      "word": "福建沙虫",
-      "onboard_time": 1710215672,
-      "rank": 33,
-      "category": "美食"
+      "raw_hot": 215826,
+      "num": 215826,
+      "word": "向佐张栋梁差点亲上",
+      "onboard_time": 1710214890,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 212309,
@@ -745,6 +777,14 @@
       "onboard_time": 1710212249,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 212279,
+      "num": 212279,
+      "word": "女员工入职3个月怀孕遭开除",
+      "onboard_time": 1710217174,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208769,
@@ -771,6 +811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 205279,
+      "num": 205279,
+      "word": "赵雷济南",
+      "onboard_time": 1710217294,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204097,
       "num": 204097,
       "word": "河南一司法鉴定中心被举报涉嫌造假",
@@ -787,6 +835,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 203688,
+      "num": 203688,
+      "word": "间谍过家家",
+      "onboard_time": 1710217775,
+      "rank": 38,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 203600,
       "num": 203600,
       "word": "种地吧",
@@ -801,6 +857,14 @@
       "onboard_time": 1710199043,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202601,
+      "num": 202601,
+      "word": "剑网3",
+      "onboard_time": 1710217775,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 200341,
@@ -820,7 +884,7 @@
     },
     {
       "raw_hot": 197446,
-      "num": 244424,
+      "num": 256420,
       "word": "揭露安全问题的波音前员工死亡",
       "onboard_time": 1710215917,
       "rank": 29,
@@ -841,14 +905,6 @@
       "onboard_time": 1710213808,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194878,
-      "num": 194878,
-      "word": "向佐张栋梁差点亲上",
-      "onboard_time": 1710214890,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 194093,
@@ -915,14 +971,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 184895,
-      "num": 184895,
-      "word": "酱园弄阵容",
-      "onboard_time": 1710217235,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 184495,
       "num": 184495,
       "word": "天津泡泡岛阵容",
@@ -955,12 +1003,12 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 177542,
-      "num": 177542,
-      "word": "赵雷济南",
-      "onboard_time": 1710217294,
-      "rank": 43,
-      "category": "演出"
+      "raw_hot": 177865,
+      "num": 177865,
+      "word": "顾佳发过的疯吹到了顾茉莉",
+      "onboard_time": 1710217833,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 177225,
@@ -985,6 +1033,14 @@
       "onboard_time": 1710204755,
       "rank": 34,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 174668,
+      "num": 174668,
+      "word": "未来黄金价格每克或将超过750元",
+      "onboard_time": 1710217955,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 167363,
@@ -1209,14 +1265,6 @@
       "onboard_time": 1710170852,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113766,
-      "num": 152159,
-      "word": "女员工入职3个月怀孕遭开除",
-      "onboard_time": 1710217174,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103571,
