@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710205837098,
+  "endTime": 1710206994300,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1035,6 +1035,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1379602,
+      "num": 1379602,
+      "word": "福岛从日本鬼城变成了世界伤口",
+      "onboard_time": 1710202894,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1376686,
       "num": 337602,
       "word": "我上班穿的很恶心的原因",
@@ -1443,14 +1451,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1206943,
-      "num": 1206943,
-      "word": "福岛从日本鬼城变成了世界伤口",
-      "onboard_time": 1710202894,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1204968,
       "num": 431253,
       "word": "首款折叠屏iPhone",
@@ -1849,6 +1849,14 @@
       "onboard_time": 1709433751,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1058541,
+      "num": 949318,
+      "word": "S组什么瓜",
+      "onboard_time": 1710202410,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 1056652,
@@ -2297,14 +2305,6 @@
       "onboard_time": 1710168095,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 949318,
-      "num": 949318,
-      "word": "S组什么瓜",
-      "onboard_time": 1710202410,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 944708,
@@ -2979,6 +2979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 822656,
+      "num": 822656,
+      "word": "香港双婴尸案今日提堂",
+      "onboard_time": 1710194356,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 822352,
       "num": 822352,
       "word": "爱奇艺3月片单",
@@ -3209,14 +3217,6 @@
       "onboard_time": 1709890289,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 782344,
-      "num": 460753,
-      "word": "香港双婴尸案今日提堂",
-      "onboard_time": 1710194356,
-      "rank": 30,
-      "category": "社会负面"
     },
     {
       "raw_hot": 782024,
@@ -9859,6 +9859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 350805,
+      "num": 350805,
+      "word": "金智媛好美",
+      "onboard_time": 1710205770,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349662,
       "num": 349662,
       "word": "FPX太猛了",
@@ -9971,6 +9979,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 345517,
+      "num": 345517,
+      "word": "媒体评点读机女孩事件",
+      "onboard_time": 1710206071,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345475,
       "num": 288709,
       "word": "女子将男友30多只鞋子从35楼扔下",
@@ -10073,6 +10089,14 @@
       "onboard_time": 1709954787,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 341667,
+      "num": 341667,
+      "word": "奥斯卡春山学",
+      "onboard_time": 1710205953,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 341629,
@@ -12667,6 +12691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 266848,
+      "num": 266848,
+      "word": "4GB未拆封初代iPhone再次拍卖",
+      "onboard_time": 1710204693,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 266593,
       "num": 266593,
       "word": "吴镇宇手动闭麦",
@@ -12955,6 +12987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 259017,
+      "num": 259017,
+      "word": "大四是一场巨大的戒断",
+      "onboard_time": 1710205712,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258805,
       "num": 219576,
       "word": "二十多岁选择人生 恐怖",
@@ -13145,14 +13185,6 @@
       "onboard_time": 1709424565,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253383,
-      "num": 253383,
-      "word": "4GB未拆封初代iPhone再次拍卖",
-      "onboard_time": 1710204693,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 253362,
@@ -14659,6 +14691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223744,
+      "num": 223744,
+      "word": "新款iPad发布时间",
+      "onboard_time": 1710205353,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 223652,
       "num": 214784,
       "word": "TikTok回应美议员要求165天内剥离字节跳动",
@@ -15825,6 +15865,14 @@
       "onboard_time": 1709946990,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208085,
+      "num": 208085,
+      "word": "杨紫琼祝贺石头姐",
+      "onboard_time": 1710206432,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 207929,
@@ -17659,14 +17707,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 191625,
-      "num": 191625,
-      "word": "新款iPad发布时间",
-      "onboard_time": 1710205353,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 191356,
       "num": 191356,
       "word": "女程序员收到公司防脱发大礼包",
@@ -19379,6 +19419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176484,
+      "num": 176484,
+      "word": "开学晒被子像办艺术展",
+      "onboard_time": 1710206249,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176382,
       "num": 176382,
       "word": "内地买家扫货香港楼市",
@@ -19593,6 +19641,14 @@
       "onboard_time": 1709905229,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174503,
+      "num": 174503,
+      "word": "近10年考研国家线多在3月中旬公布",
+      "onboard_time": 1710167433,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 174423,
@@ -20001,14 +20057,6 @@
       "onboard_time": 1710033870,
       "rank": 24,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 170403,
-      "num": 170403,
-      "word": "近10年考研国家线多在3月中旬公布",
-      "onboard_time": 1710167433,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 170396,
@@ -21009,6 +21057,14 @@
       "onboard_time": 1709687133,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162579,
+      "num": 162579,
+      "word": "周处除三害票房破4亿",
+      "onboard_time": 1710206193,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 162294,
@@ -22211,6 +22267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154077,
+      "num": 154077,
+      "word": "春天是一个巨大的过敏原",
+      "onboard_time": 1710205830,
+      "rank": 40,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 154063,
       "num": 154063,
       "word": "猎冰导演称富二代标签掩盖了姚安娜的努力",
@@ -22369,6 +22433,14 @@
       "onboard_time": 1709555612,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152984,
+      "num": 152984,
+      "word": "河南一司法鉴定中心被举报涉嫌造假",
+      "onboard_time": 1710206670,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152977,
@@ -23185,14 +23257,6 @@
       "onboard_time": 1709693851,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147039,
-      "num": 147039,
-      "word": "大四是一场巨大的戒断",
-      "onboard_time": 1710205712,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 146983,
@@ -24731,6 +24795,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 136712,
+      "num": 136712,
+      "word": "Selina晒儿子近照",
+      "onboard_time": 1710206972,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136685,
       "num": 136685,
       "word": "人的眼皮为什么会跳",
@@ -25209,6 +25281,14 @@
       "onboard_time": 1710074849,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133803,
+      "num": 133803,
+      "word": "辛拉面日版比韩版料更足",
+      "onboard_time": 1710206309,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 133763,
@@ -27121,14 +27201,6 @@
       "onboard_time": 1710082291,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119557,
-      "num": 119557,
-      "word": "金智媛好美",
-      "onboard_time": 1710205770,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 119520,

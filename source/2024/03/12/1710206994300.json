@@ -1,0 +1,410 @@
+{
+  "runTime": 1710206994300,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1379602,
+        "num": 1379602,
+        "word": "福岛从日本鬼城变成了世界伤口",
+        "onboard_time": 1710202894,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 950069,
+        "num": 950069,
+        "word": "林拓确诊渐冻症",
+        "onboard_time": 1710203013,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11651,
+        "num": 865135,
+        "word": "共话新质生产力",
+        "onboard_time": 1710146311,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1065301,
+        "num": 847756,
+        "word": "向往的生活小羊小不点去世",
+        "onboard_time": 1710199828,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1058541,
+        "num": 840045,
+        "word": "S组什么瓜",
+        "onboard_time": 1710202410,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 822656,
+        "num": 822656,
+        "word": "香港双婴尸案今日提堂",
+        "onboard_time": 1710194356,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 598846,
+        "num": 598846,
+        "word": "韩网评奥斯卡歧视亚裔",
+        "onboard_time": 1710200309,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 479040,
+        "num": 479040,
+        "word": "湿气重毁身材肚子大",
+        "onboard_time": 1710195678,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 441932,
+        "num": 441932,
+        "word": "沈腾马丽回应回归话剧舞台",
+        "onboard_time": 1710201690,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 418879,
+        "num": 418879,
+        "word": "曾98万拍下摊位的大叔卖馍半月回本",
+        "onboard_time": 1710172232,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693406,
+        "num": 404673,
+        "word": "女教师哺乳期被学校调岗为保洁",
+        "onboard_time": 1710174506,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579032,
+        "num": 387969,
+        "word": "科目三被扣了1100分",
+        "onboard_time": 1710201930,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 551284,
+        "num": 381188,
+        "word": "在家做顿饭等于吸20分钟汽车尾气",
+        "onboard_time": 1710201331,
+        "rank": 12,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 452724,
+        "num": 355271,
+        "word": "短短十五秒猫猫起了四次杀心",
+        "onboard_time": 1710202774,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 353995,
+        "num": 353995,
+        "word": "凯特王妃已有2个多月未出席活动",
+        "onboard_time": 1710177980,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350805,
+        "num": 350805,
+        "word": "金智媛好美",
+        "onboard_time": 1710205770,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345517,
+        "num": 345517,
+        "word": "媒体评点读机女孩事件",
+        "onboard_time": 1710206071,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341667,
+        "num": 341667,
+        "word": "奥斯卡春山学",
+        "onboard_time": 1710205953,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 337271,
+        "num": 337271,
+        "word": "中科院院士不提倡健康人做癌症筛查",
+        "onboard_time": 1710168095,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 326458,
+        "num": 326458,
+        "word": "爸妈让6岁儿子晚上学一年到处旅游",
+        "onboard_time": 1710169772,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321696,
+        "num": 321696,
+        "word": "王楚然双开门大衣",
+        "onboard_time": 1710170073,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 303233,
+        "num": 303233,
+        "word": "中阳一煤矿溃仓5人遇难2人失联",
+        "onboard_time": 1710202774,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275365,
+        "num": 275365,
+        "word": "官方通报广东潮州3名男孩失踪",
+        "onboard_time": 1710203130,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267732,
+        "num": 267732,
+        "word": "白鹿好性感",
+        "onboard_time": 1710169472,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 266848,
+        "num": 266848,
+        "word": "4GB未拆封初代iPhone再次拍卖",
+        "onboard_time": 1710204693,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 265650,
+        "num": 265650,
+        "word": "刘浩存演惠英红奶奶",
+        "onboard_time": 1710185417,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 259017,
+        "num": 259017,
+        "word": "大四是一场巨大的戒断",
+        "onboard_time": 1710205712,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240429,
+        "num": 240429,
+        "word": "研究称每一滴酒都对身体有害",
+        "onboard_time": 1710197721,
+        "rank": 27,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 223744,
+        "num": 223744,
+        "word": "新款iPad发布时间",
+        "onboard_time": 1710205353,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 222913,
+        "num": 222913,
+        "word": "丈夫看店铺监控发现妻子出轨",
+        "onboard_time": 1710163892,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212421,
+        "num": 212421,
+        "word": "易烊千玺网站更新",
+        "onboard_time": 1710198865,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209043,
+        "num": 209043,
+        "word": "女生有自己的洗头规划",
+        "onboard_time": 1710204091,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208085,
+        "num": 208085,
+        "word": "杨紫琼祝贺石头姐",
+        "onboard_time": 1710206432,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196769,
+        "num": 196769,
+        "word": "高君雨",
+        "onboard_time": 1710198926,
+        "rank": 33,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 183688,
+        "num": 183688,
+        "word": "白鹿把领口缝起来了",
+        "onboard_time": 1710168812,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176484,
+        "num": 176484,
+        "word": "开学晒被子像办艺术展",
+        "onboard_time": 1710206249,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174503,
+        "num": 174503,
+        "word": "近10年考研国家线多在3月中旬公布",
+        "onboard_time": 1710167433,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167911,
+        "num": 167911,
+        "word": "为什么男生对女生是不是独生女这么看重",
+        "onboard_time": 1710167795,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162579,
+        "num": 162579,
+        "word": "周处除三害票房破4亿",
+        "onboard_time": 1710206193,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158323,
+        "num": 158323,
+        "word": "假性亲密关系",
+        "onboard_time": 1710164793,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154077,
+        "num": 154077,
+        "word": "春天是一个巨大的过敏原",
+        "onboard_time": 1710205830,
+        "rank": 40,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 152984,
+        "num": 152984,
+        "word": "河南一司法鉴定中心被举报涉嫌造假",
+        "onboard_time": 1710206670,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150912,
+        "num": 150912,
+        "word": "石头姐 杨紫琼",
+        "onboard_time": 1710167854,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150548,
+        "num": 150548,
+        "word": "付费面试辅导服务真的靠谱吗",
+        "onboard_time": 1710204755,
+        "rank": 43,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 148697,
+        "num": 148697,
+        "word": "C罗亚冠出局",
+        "onboard_time": 1710199886,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148337,
+        "num": 148337,
+        "word": "高君雨妈妈称没有接受捐款",
+        "onboard_time": 1710199524,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147252,
+        "num": 147252,
+        "word": "林一 男友101",
+        "onboard_time": 1710171690,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142617,
+        "num": 142617,
+        "word": "Hero新教练老林",
+        "onboard_time": 1710199225,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136712,
+        "num": 136712,
+        "word": "Selina晒儿子近照",
+        "onboard_time": 1710206972,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133803,
+        "num": 133803,
+        "word": "辛拉面日版比韩版料更足",
+        "onboard_time": 1710206309,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#有选择地推动新产业新模式新动能发展#"
+    }
+  }
+}
