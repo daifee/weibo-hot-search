@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710256670653,
+  "endTime": 1710257726740,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -1075,6 +1075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 775176,
+      "num": 775176,
+      "word": "走吧你跟有病似的",
+      "onboard_time": 1710252091,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 767903,
       "num": 767903,
       "word": "双胞胎哥哥为脑瘫弟弟建了一个家",
@@ -1403,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 652268,
+      "num": 652268,
+      "word": "天涯明月刀",
+      "onboard_time": 1710256234,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 651252,
       "num": 651252,
       "word": "娃哈哈纯净水线上卖断货",
@@ -1443,14 +1459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 644625,
-      "num": 644625,
-      "word": "走吧你跟有病似的",
-      "onboard_time": 1710252091,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 642751,
       "num": 490426,
       "word": "2024奥斯卡红毯",
@@ -1481,6 +1489,14 @@
       "onboard_time": 1710083375,
       "rank": 15,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 630506,
+      "num": 609472,
+      "word": "陈乔恩13天没吃碳水",
+      "onboard_time": 1710256414,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 630465,
@@ -2184,6 +2200,14 @@
       "word": "87%的女性选择搞事业",
       "onboard_time": 1710046590,
       "rank": 17,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 486383,
+      "num": 288108,
+      "word": "工资低又经常熬夜的工作",
+      "onboard_time": 1710256292,
+      "rank": 37,
       "category": "情感"
     },
     {
@@ -3212,7 +3236,7 @@
     },
     {
       "raw_hot": 314439,
-      "num": 270282,
+      "num": 286430,
       "word": "朱梓骁悬着的心终于死了",
       "onboard_time": 1710254911,
       "rank": 21,
@@ -3241,14 +3265,6 @@
       "onboard_time": 1710061290,
       "rank": 16,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 312110,
-      "num": 225682,
-      "word": "陈乔恩13天没吃碳水",
-      "onboard_time": 1710256414,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 312018,
@@ -3345,6 +3361,22 @@
       "onboard_time": 1710057809,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302853,
+      "num": 280394,
+      "word": "酱园弄",
+      "onboard_time": 1710241052,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 302634,
+      "num": 302634,
+      "word": "替别人看望了出家的妈妈",
+      "onboard_time": 1710255992,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 302327,
@@ -3532,19 +3564,11 @@
     },
     {
       "raw_hot": 282875,
-      "num": 224984,
+      "num": 232807,
       "word": "满舒克前女友再发博",
       "onboard_time": 1710254193,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 282489,
-      "num": 282489,
-      "word": "天涯明月刀",
-      "onboard_time": 1710256234,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 279759,
@@ -3851,14 +3875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254225,
-      "num": 236948,
-      "word": "酱园弄",
-      "onboard_time": 1710241052,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 253978,
       "num": 253978,
       "word": "教育学一分没降",
@@ -3953,14 +3969,6 @@
       "onboard_time": 1710227972,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248738,
-      "num": 248738,
-      "word": "替别人看望了出家的妈妈",
-      "onboard_time": 1710255992,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 248244,
@@ -4169,6 +4177,14 @@
       "onboard_time": 1710162631,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 237154,
+      "num": 233031,
+      "word": "郑秀晶16岁侧颜生图",
+      "onboard_time": 1710255935,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 236813,
@@ -4419,14 +4435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223991,
-      "num": 223991,
-      "word": "郑秀晶16岁侧颜生图",
-      "onboard_time": 1710255935,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 223867,
       "num": 223867,
       "word": "猫 领养之前也没说要这样啊",
@@ -4515,6 +4523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 221255,
+      "num": 221255,
+      "word": "朴成训出现了",
+      "onboard_time": 1710256711,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221038,
       "num": 221038,
       "word": "刘诗诗近期碎片",
@@ -4529,6 +4545,14 @@
       "onboard_time": 1710148290,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 219117,
+      "num": 219117,
+      "word": "MMO之癫",
+      "onboard_time": 1710255992,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 218981,
@@ -4737,14 +4761,6 @@
       "onboard_time": 1710061590,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211258,
-      "num": 211258,
-      "word": "工资低又经常熬夜的工作",
-      "onboard_time": 1710256292,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 210802,
@@ -5363,6 +5379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191095,
+      "num": 235932,
+      "word": "考研失败办考研辅导班赚钱翻身",
+      "onboard_time": 1710256711,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 191068,
       "num": 191068,
       "word": "车企降价谁才是真让利",
@@ -5377,6 +5401,14 @@
       "onboard_time": 1710212850,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190862,
+      "num": 190862,
+      "word": "大家下班后都在干什么",
+      "onboard_time": 1710256234,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 190724,
@@ -5521,14 +5553,6 @@
       "onboard_time": 1710068489,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 186261,
-      "num": 186261,
-      "word": "大家下班后都在干什么",
-      "onboard_time": 1710256234,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 186148,
@@ -5924,7 +5948,7 @@
     },
     {
       "raw_hot": 173260,
-      "num": 224032,
+      "num": 234307,
       "word": "减肥要避免3个误区",
       "onboard_time": 1710250473,
       "rank": 38,
@@ -6011,6 +6035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 170008,
+      "num": 170008,
+      "word": "沙丘2",
+      "onboard_time": 1709995177,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 169753,
       "num": 169753,
       "word": "娃哈哈在广西的销量占全国70%",
@@ -6041,14 +6073,6 @@
       "onboard_time": 1710082352,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168954,
-      "num": 168954,
-      "word": "MMO之癫",
-      "onboard_time": 1710255992,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 168681,
@@ -6761,6 +6785,14 @@
       "onboard_time": 1710120634,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149340,
+      "num": 149340,
+      "word": "陆虎唱流沙眼睛长陈曌旭身上了",
+      "onboard_time": 1710257610,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 148660,
@@ -8249,14 +8281,6 @@
       "onboard_time": 1710229532,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 100930,
-      "num": 100930,
-      "word": "沙丘2",
-      "onboard_time": 1709995177,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 100338,

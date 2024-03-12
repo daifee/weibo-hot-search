@@ -1,6 +1,6 @@
 {
   "startTime": 1710174076566,
-  "endTime": 1710256670653,
+  "endTime": 1710257726740,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -483,6 +483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 775176,
+      "num": 775176,
+      "word": "走吧你跟有病似的",
+      "onboard_time": 1710252091,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 767627,
       "num": 767627,
       "word": "没想到iPhone备忘录还能这么用",
@@ -651,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 652268,
+      "num": 652268,
+      "word": "天涯明月刀",
+      "onboard_time": 1710256234,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 645343,
       "num": 645343,
       "word": "种地吧沙漠种18万棵树",
@@ -659,12 +675,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 644625,
-      "num": 644625,
-      "word": "走吧你跟有病似的",
-      "onboard_time": 1710252091,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 630506,
+      "num": 609472,
+      "word": "陈乔恩13天没吃碳水",
+      "onboard_time": 1710256414,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 605786,
@@ -945,6 +961,14 @@
       "onboard_time": 1710237753,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 486383,
+      "num": 288108,
+      "word": "工资低又经常熬夜的工作",
+      "onboard_time": 1710256292,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 476436,
@@ -1292,7 +1316,7 @@
     },
     {
       "raw_hot": 314439,
-      "num": 270282,
+      "num": 286430,
       "word": "朱梓骁悬着的心终于死了",
       "onboard_time": 1710254911,
       "rank": 21,
@@ -1305,14 +1329,6 @@
       "onboard_time": 1710233736,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 312110,
-      "num": 225682,
-      "word": "陈乔恩13天没吃碳水",
-      "onboard_time": 1710256414,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 312018,
@@ -1363,6 +1379,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 302853,
+      "num": 280394,
+      "word": "酱园弄",
+      "onboard_time": 1710241052,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 302634,
+      "num": 302634,
+      "word": "替别人看望了出家的妈妈",
+      "onboard_time": 1710255992,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 298472,
       "num": 298472,
       "word": "林俊杰演唱会",
@@ -1395,6 +1427,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 290055,
+      "num": 290055,
+      "word": "凯特王妃",
+      "onboard_time": 1710161252,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289984,
       "num": 289984,
       "word": "甜茶不甜了",
@@ -1412,19 +1452,11 @@
     },
     {
       "raw_hot": 282875,
-      "num": 224984,
+      "num": 232807,
       "word": "满舒克前女友再发博",
       "onboard_time": 1710254193,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 282489,
-      "num": 282489,
-      "word": "天涯明月刀",
-      "onboard_time": 1710256234,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 279759,
@@ -1563,14 +1595,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 257644,
-      "num": 257644,
-      "word": "凯特王妃",
-      "onboard_time": 1710161252,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256375,
       "num": 256375,
       "word": "见过最闲的岗位是什么",
@@ -1593,14 +1617,6 @@
       "onboard_time": 1710208650,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254225,
-      "num": 236948,
-      "word": "酱园弄",
-      "onboard_time": 1710241052,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 253978,
@@ -1649,14 +1665,6 @@
       "onboard_time": 1710227972,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248738,
-      "num": 248738,
-      "word": "替别人看望了出家的妈妈",
-      "onboard_time": 1710255992,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 248231,
@@ -1753,6 +1761,14 @@
       "onboard_time": 1710207867,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237154,
+      "num": 233031,
+      "word": "郑秀晶16岁侧颜生图",
+      "onboard_time": 1710255935,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 235921,
@@ -1859,14 +1875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223991,
-      "num": 223991,
-      "word": "郑秀晶16岁侧颜生图",
-      "onboard_time": 1710255935,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 223744,
       "num": 223744,
       "word": "新款iPad发布时间",
@@ -1923,12 +1931,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 221255,
+      "num": 221255,
+      "word": "朴成训出现了",
+      "onboard_time": 1710256711,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 220642,
       "num": 220642,
       "word": "娃哈哈客服回应推出啤酒产品",
       "onboard_time": 1710169414,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 219117,
+      "num": 219117,
+      "word": "MMO之癫",
+      "onboard_time": 1710255992,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 218981,
@@ -2025,14 +2049,6 @@
       "onboard_time": 1710235233,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 211258,
-      "num": 211258,
-      "word": "工资低又经常熬夜的工作",
-      "onboard_time": 1710256292,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 210802,
@@ -2283,6 +2299,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 191095,
+      "num": 235932,
+      "word": "考研失败办考研辅导班赚钱翻身",
+      "onboard_time": 1710256711,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 191068,
       "num": 191068,
       "word": "车企降价谁才是真让利",
@@ -2299,6 +2323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190862,
+      "num": 190862,
+      "word": "大家下班后都在干什么",
+      "onboard_time": 1710256234,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187987,
       "num": 187987,
       "word": "考研国家线艺术",
@@ -2312,14 +2344,6 @@
       "word": "搭伙过日子和爱情的区别",
       "onboard_time": 1710209490,
       "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 186261,
-      "num": 186261,
-      "word": "大家下班后都在干什么",
-      "onboard_time": 1710256234,
-      "rank": 38,
       "category": "情感"
     },
     {
@@ -2460,7 +2484,7 @@
     },
     {
       "raw_hot": 173260,
-      "num": 224032,
+      "num": 234307,
       "word": "减肥要避免3个误区",
       "onboard_time": 1710250473,
       "rank": 38,
@@ -2499,20 +2523,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 170008,
+      "num": 170008,
+      "word": "沙丘2",
+      "onboard_time": 1710256892,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 169630,
       "num": 169630,
       "word": "射手座的精神洁癖很强",
       "onboard_time": 1710241352,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 168954,
-      "num": 168954,
-      "word": "MMO之癫",
-      "onboard_time": 1710255992,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 168413,
@@ -2761,6 +2785,14 @@
       "onboard_time": 1710207210,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149340,
+      "num": 149340,
+      "word": "陆虎唱流沙眼睛长陈曌旭身上了",
+      "onboard_time": 1710257610,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 148042,
