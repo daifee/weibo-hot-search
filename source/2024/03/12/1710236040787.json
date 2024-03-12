@@ -1,0 +1,410 @@
+{
+  "runTime": 1710236040787,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7811414,
+        "num": 7811414,
+        "word": "考研国家线",
+        "onboard_time": 1710231810,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1623664,
+        "num": 1623664,
+        "word": "2024考研国家线出了",
+        "onboard_time": 1710232597,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 90286,
+        "num": 1440510,
+        "word": "植树节一起为绿充植",
+        "onboard_time": 1710232357,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1433211,
+        "num": 1433211,
+        "word": "满舒克HPV检测呈阴性",
+        "onboard_time": 1710229771,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1102281,
+        "num": 1102281,
+        "word": "唐艺昕纹身",
+        "onboard_time": 1710230912,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 899742,
+        "num": 899742,
+        "word": "官方通报点读机女孩视频事件",
+        "onboard_time": 1710231511,
+        "rank": 5,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 820191,
+        "num": 820191,
+        "word": "才知道公安局是不能线下报案的",
+        "onboard_time": 1710230551,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 653690,
+        "num": 653690,
+        "word": "没学上了",
+        "onboard_time": 1710234935,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 653224,
+        "num": 653224,
+        "word": "宁静回应与纪凌尘搭戏",
+        "onboard_time": 1710234155,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 518583,
+        "num": 518583,
+        "word": "唐艺昕曾拒绝过张若昀求婚",
+        "onboard_time": 1710225810,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 741539,
+        "num": 506968,
+        "word": "男子2万买金镯发现内藏2根金丝",
+        "onboard_time": 1710234274,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482472,
+        "num": 482472,
+        "word": "易烊千玺没被认出来",
+        "onboard_time": 1710229412,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435566,
+        "num": 435566,
+        "word": "为什么朋友圈这条线有长有短",
+        "onboard_time": 1710232535,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 425437,
+        "num": 425437,
+        "word": "法硕国家线",
+        "onboard_time": 1710233556,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 410664,
+        "num": 410664,
+        "word": "王一博任奥运资格赛上海站推广大使",
+        "onboard_time": 1710234694,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341285,
+        "num": 341285,
+        "word": "饭后有3个表现是胃癌肝癌来临信号",
+        "onboard_time": 1710224073,
+        "rank": 15,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 327051,
+        "num": 327051,
+        "word": "为什么摸了一天鱼还是觉得好累",
+        "onboard_time": 1710230551,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314326,
+        "num": 314326,
+        "word": "魏大勋疑似受伤",
+        "onboard_time": 1710233198,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312018,
+        "num": 312018,
+        "word": "Wendy回归",
+        "onboard_time": 1710235054,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 300384,
+        "num": 300384,
+        "word": "纪凌尘的牙",
+        "onboard_time": 1710224490,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441285,
+        "num": 298994,
+        "word": "感受到四点半下班的好处了",
+        "onboard_time": 1710234574,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 416479,
+        "num": 297839,
+        "word": "我妈返聘工资都比我高",
+        "onboard_time": 1710227795,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296456,
+        "num": 296456,
+        "word": "会计专硕201",
+        "onboard_time": 1710233913,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 278929,
+        "num": 278929,
+        "word": "点读机女孩治疗视频为去年9月拍摄",
+        "onboard_time": 1710231273,
+        "rank": 23,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 272926,
+        "num": 272926,
+        "word": "CK",
+        "onboard_time": 1710235415,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 253978,
+        "num": 253978,
+        "word": "教育学一分没降",
+        "onboard_time": 1710235353,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 252868,
+        "num": 252868,
+        "word": "新传又涨了",
+        "onboard_time": 1710235536,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 249193,
+        "num": 249193,
+        "word": "赵丽颖易烊千玺二搭",
+        "onboard_time": 1710228093,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238490,
+        "num": 238490,
+        "word": "张雪峰 周五",
+        "onboard_time": 1710231752,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236842,
+        "num": 236842,
+        "word": "文学国家线365",
+        "onboard_time": 1710233736,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 262043,
+        "num": 231568,
+        "word": "不要嫌弃你的鞋子不够漂亮",
+        "onboard_time": 1710234574,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223183,
+        "num": 223183,
+        "word": "社保卡一定要记得去激活",
+        "onboard_time": 1710235415,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 222591,
+        "num": 222591,
+        "word": "考研国家线专硕",
+        "onboard_time": 1710234574,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 221640,
+        "num": 221640,
+        "word": "出国后发现白人有白人的卷法",
+        "onboard_time": 1710234574,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220317,
+        "num": 220317,
+        "word": "考研国家线英语",
+        "onboard_time": 1710235892,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216412,
+        "num": 216412,
+        "word": "小米",
+        "onboard_time": 1710233019,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 212354,
+        "num": 212354,
+        "word": "十个勤天种树直播",
+        "onboard_time": 1710223111,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211705,
+        "num": 211705,
+        "word": "一考一个不吱声",
+        "onboard_time": 1710235233,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 207226,
+        "num": 207226,
+        "word": "易烊千玺鼻梁痣",
+        "onboard_time": 1710233493,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202977,
+        "num": 202977,
+        "word": "医学国家线",
+        "onboard_time": 1710235834,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197632,
+        "num": 197632,
+        "word": "管理学涨7分",
+        "onboard_time": 1710235475,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186543,
+        "num": 186543,
+        "word": "我不大喜欢你的呼吸",
+        "onboard_time": 1710233618,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184569,
+        "num": 184569,
+        "word": "mpacc",
+        "onboard_time": 1710235953,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178656,
+        "num": 178656,
+        "word": "赵丽颖出妆",
+        "onboard_time": 1710231395,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 176980,
+        "num": 176980,
+        "word": "刘亦菲胳膊",
+        "onboard_time": 1710226831,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176595,
+        "num": 176595,
+        "word": "经济学",
+        "onboard_time": 1710235953,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 171380,
+        "num": 171380,
+        "word": "结婚16年4娃非亲生当事人已离婚",
+        "onboard_time": 1710226591,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170236,
+        "num": 170236,
+        "word": "樊振东二轮游",
+        "onboard_time": 1710227612,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170186,
+        "num": 170186,
+        "word": "SM男团概念",
+        "onboard_time": 1710235175,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166936,
+        "num": 166936,
+        "word": "以前吃过但基本被淘汰的水果",
+        "onboard_time": 1710234694,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记出席2024全国两会纪实#"
+    }
+  }
+}

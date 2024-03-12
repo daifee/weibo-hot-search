@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710235356612,
+  "endTime": 1710236040787,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 1210265,
-      "num": 1059023,
+      "num": 1102281,
       "word": "唐艺昕纹身",
       "onboard_time": 1710230912,
       "rank": 6,
@@ -971,6 +971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 741539,
+      "num": 506968,
+      "word": "男子2万买金镯发现内藏2根金丝",
+      "onboard_time": 1710234274,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 739144,
       "num": 739144,
       "word": "结婚16年4娃非亲生当事人已离婚",
@@ -1193,6 +1201,22 @@
       "onboard_time": 1710213869,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 653690,
+      "num": 653690,
+      "word": "没学上了",
+      "onboard_time": 1710234935,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 653224,
+      "num": 653224,
+      "word": "宁静回应与纪凌尘搭戏",
+      "onboard_time": 1710234155,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 651252,
@@ -1675,14 +1699,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 540142,
-      "num": 540142,
-      "word": "宁静回应与纪凌尘搭戏",
-      "onboard_time": 1710234155,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 538737,
       "num": 538737,
       "word": "林孝埈更换微博置顶",
@@ -2075,6 +2091,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 441285,
+      "num": 312249,
+      "word": "感受到四点半下班的好处了",
+      "onboard_time": 1710234574,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 441051,
       "num": 441051,
       "word": "为啥什么APP都要相机位置权限",
@@ -2203,20 +2227,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 410664,
+      "num": 410664,
+      "word": "王一博任奥运资格赛上海站推广大使",
+      "onboard_time": 1710234694,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407093,
       "num": 312983,
       "word": "建议大家雨天还是打伞吧",
       "onboard_time": 1710064351,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 406976,
-      "num": 313173,
-      "word": "男子2万买金镯发现内藏2根金丝",
-      "onboard_time": 1710234274,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 406766,
@@ -2491,14 +2515,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 363845,
-      "num": 312249,
-      "word": "感受到四点半下班的好处了",
-      "onboard_time": 1710234574,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 360598,
       "num": 360598,
       "word": "会计专硕201",
@@ -2731,14 +2747,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 333028,
-      "num": 333028,
-      "word": "王一博任奥运资格赛上海站推广大使",
-      "onboard_time": 1710234694,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 331524,
       "num": 331524,
       "word": "广西两女教师打学生被停课",
@@ -2883,20 +2891,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 312018,
+      "num": 312018,
+      "word": "Wendy回归",
+      "onboard_time": 1710235054,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 311824,
       "num": 311824,
       "word": "7类食物焯水后才能吃",
       "onboard_time": 1710079234,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 311655,
-      "num": 311655,
-      "word": "没学上了",
-      "onboard_time": 1710234935,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 311438,
@@ -3203,6 +3211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 272926,
+      "num": 272926,
+      "word": "CK",
+      "onboard_time": 1710235415,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 272589,
       "num": 228281,
       "word": "沈腾拍得像被捕了",
@@ -3289,6 +3305,14 @@
       "onboard_time": 1710081034,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 262043,
+      "num": 231568,
+      "word": "不要嫌弃你的鞋子不够漂亮",
+      "onboard_time": 1710234574,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 261334,
@@ -3387,6 +3411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253978,
+      "num": 253978,
+      "word": "教育学一分没降",
+      "onboard_time": 1710235353,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 253679,
       "num": 253679,
       "word": "奥斯卡获奖名单",
@@ -3425,6 +3457,14 @@
       "onboard_time": 1710206432,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 252868,
+      "num": 252868,
+      "word": "新传又涨了",
+      "onboard_time": 1710235536,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 250759,
@@ -3883,6 +3923,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 223183,
+      "num": 223183,
+      "word": "社保卡一定要记得去激活",
+      "onboard_time": 1710235415,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 222713,
       "num": 222713,
       "word": "易烊千玺 快乐饭",
@@ -3891,12 +3939,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222591,
+      "num": 222591,
+      "word": "考研国家线专硕",
+      "onboard_time": 1710234574,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 222078,
       "num": 222078,
       "word": "李想朋友圈",
       "onboard_time": 1710209490,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 221640,
+      "num": 221640,
+      "word": "出国后发现白人有白人的卷法",
+      "onboard_time": 1710234574,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 221638,
@@ -3931,12 +3995,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219740,
-      "num": 216604,
-      "word": "不要嫌弃你的鞋子不够漂亮",
-      "onboard_time": 1710234574,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 220317,
+      "num": 220317,
+      "word": "考研国家线英语",
+      "onboard_time": 1710235892,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 219562,
@@ -4091,20 +4155,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 211919,
-      "num": 211919,
-      "word": "考研国家线专硕",
-      "onboard_time": 1710234574,
-      "rank": 32,
+      "raw_hot": 211705,
+      "num": 211705,
+      "word": "一考一个不吱声",
+      "onboard_time": 1710235233,
+      "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 211510,
-      "num": 211510,
-      "word": "出国后发现白人有白人的卷法",
-      "onboard_time": 1710234574,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 211418,
@@ -4315,6 +4371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202977,
+      "num": 202977,
+      "word": "医学国家线",
+      "onboard_time": 1710235834,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 202783,
       "num": 202783,
       "word": "宣璐与凤行妆造",
@@ -4337,14 +4401,6 @@
       "onboard_time": 1710083191,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201778,
-      "num": 201778,
-      "word": "Wendy回归",
-      "onboard_time": 1710235054,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 201590,
@@ -4457,6 +4513,14 @@
       "onboard_time": 1710121951,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197632,
+      "num": 197632,
+      "word": "管理学涨7分",
+      "onboard_time": 1710235475,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 197576,
@@ -4907,6 +4971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 184569,
+      "num": 184569,
+      "word": "mpacc",
+      "onboard_time": 1710235953,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 184495,
       "num": 184495,
       "word": "天津泡泡岛阵容",
@@ -5115,6 +5187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176595,
+      "num": 176595,
+      "word": "经济学",
+      "onboard_time": 1710235953,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 176484,
       "num": 176484,
       "word": "开学晒被子像办艺术展",
@@ -5267,6 +5347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 170186,
+      "num": 170186,
+      "word": "SM男团概念",
+      "onboard_time": 1710235175,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169753,
       "num": 169753,
       "word": "娃哈哈在广西的销量占全国70%",
@@ -5321,6 +5409,14 @@
       "onboard_time": 1710033447,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166936,
+      "num": 166936,
+      "word": "以前吃过但基本被淘汰的水果",
+      "onboard_time": 1710234694,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 166733,
@@ -5483,14 +5579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161280,
-      "num": 161280,
-      "word": "以前吃过但基本被淘汰的水果",
-      "onboard_time": 1710234694,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 161191,
       "num": 161191,
       "word": "字母哥被扣懵了",
@@ -5641,14 +5729,6 @@
       "onboard_time": 1710163172,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155716,
-      "num": 155716,
-      "word": "SM男团概念",
-      "onboard_time": 1710235175,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 155684,
@@ -5977,14 +6057,6 @@
       "onboard_time": 1710171390,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 144965,
-      "num": 144965,
-      "word": "一考一个不吱声",
-      "onboard_time": 1710235233,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 144936,
@@ -7531,6 +7603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90286,
+      "num": 1732073,
+      "word": "植树节一起为绿充植",
+      "onboard_time": 1710232357,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89760,
       "num": 89760,
       "word": "伊能静去看了霉霉演唱会",
@@ -7553,14 +7633,6 @@
       "onboard_time": 1709986534,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 87697,
-      "num": 1732073,
-      "word": "植树节一起为绿充植",
-      "onboard_time": 1710232357,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87389,
