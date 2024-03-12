@@ -1,0 +1,410 @@
+{
+  "runTime": 1710250470342,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1064943,
+        "num": 1064943,
+        "word": "HPV感染相当于宫颈得了一次感冒",
+        "onboard_time": 1710246513,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 807045,
+        "num": 807045,
+        "word": "小徐考研成绩超国家线66分",
+        "onboard_time": 1710242673,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 66055,
+        "num": 744077,
+        "word": "2023年全国国土绿化面积超800万公顷",
+        "onboard_time": 1710248673,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1117976,
+        "num": 739790,
+        "word": "素媛案强奸犯擅自外出",
+        "onboard_time": 1710236253,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734765,
+        "num": 734765,
+        "word": "万科",
+        "onboard_time": 1710245132,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 821499,
+        "num": 712436,
+        "word": "点读机女孩事件最高可处3年有期徒刑",
+        "onboard_time": 1710240513,
+        "rank": 5,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 540336,
+        "num": 540336,
+        "word": "男子2万买金镯发现内藏2根金丝",
+        "onboard_time": 1710234274,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539050,
+        "num": 539050,
+        "word": "杨威双胞胎女儿在家上学",
+        "onboard_time": 1710239614,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 468632,
+        "num": 468632,
+        "word": "孙俪生图",
+        "onboard_time": 1710244712,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 453029,
+        "num": 453029,
+        "word": "章子怡落泪感谢陈可辛",
+        "onboard_time": 1710245253,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 717812,
+        "num": 452910,
+        "word": "焉栩嘉 不用了谢谢",
+        "onboard_time": 1710243214,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 492160,
+        "num": 452867,
+        "word": "被日本人邻居用草莓换排骨汤",
+        "onboard_time": 1710239135,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 458856,
+        "num": 452464,
+        "word": "满舒克HPV检测呈阴性",
+        "onboard_time": 1710229771,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451528,
+        "num": 451528,
+        "word": "为什么百香果不能带进监狱",
+        "onboard_time": 1710234336,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 428747,
+        "num": 428747,
+        "word": "高君雨同学发声",
+        "onboard_time": 1710241233,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 409100,
+        "num": 409100,
+        "word": "考研国家线",
+        "onboard_time": 1710231810,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 406463,
+        "num": 406463,
+        "word": "为什么朋友圈这条线有长有短",
+        "onboard_time": 1710232535,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 377515,
+        "num": 377515,
+        "word": "许嵩巡演官宣",
+        "onboard_time": 1710247714,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 342553,
+        "num": 342553,
+        "word": "社保卡一定要记得去激活",
+        "onboard_time": 1710235415,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 324889,
+        "num": 324889,
+        "word": "纪凌尘 真心无意冒犯就是学艺不精",
+        "onboard_time": 1710249874,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319872,
+        "num": 319872,
+        "word": "陈梦 田志希",
+        "onboard_time": 1710249755,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311159,
+        "num": 311159,
+        "word": "给点读机女孩转款1万元当事人发声",
+        "onboard_time": 1710249634,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 290623,
+        "num": 290623,
+        "word": "1岁宝宝误食方便面被卡右肺完全堵死",
+        "onboard_time": 1710249277,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247510,
+        "num": 247510,
+        "word": "23岁居然参加过十种工作了",
+        "onboard_time": 1710243810,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243340,
+        "num": 243340,
+        "word": "小宝宝臀部长了小尾巴",
+        "onboard_time": 1710237573,
+        "rank": 24,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 238966,
+        "num": 238966,
+        "word": "因为性格太软被公司部门抢着要",
+        "onboard_time": 1710243152,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230288,
+        "num": 230288,
+        "word": "我的阿勒泰",
+        "onboard_time": 1710245975,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228343,
+        "num": 228343,
+        "word": "Super Junior SM全否定",
+        "onboard_time": 1710237753,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213070,
+        "num": 213070,
+        "word": "唐艺昕纹身",
+        "onboard_time": 1710230912,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211902,
+        "num": 211902,
+        "word": "十个勤天",
+        "onboard_time": 1710246093,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465927,
+        "num": 211436,
+        "word": "喜茶",
+        "onboard_time": 1710244891,
+        "rank": 30,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 219165,
+        "num": 210934,
+        "word": "Uzi回应改名JackeyLove",
+        "onboard_time": 1710249211,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 210389,
+        "num": 210389,
+        "word": "夏之光胸口纹身",
+        "onboard_time": 1710247893,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 918476,
+        "num": 205589,
+        "word": "娃哈哈 保洁",
+        "onboard_time": 1710242374,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200750,
+        "num": 200750,
+        "word": "高君雨mcn致歉",
+        "onboard_time": 1710239135,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 197742,
+        "num": 197742,
+        "word": "i人为什么不喜欢社交",
+        "onboard_time": 1710245793,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179705,
+        "num": 179705,
+        "word": "官方通报点读机女孩视频事件",
+        "onboard_time": 1710231511,
+        "rank": 36,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 179152,
+        "num": 179152,
+        "word": "黑瞎子和陈文锦恋爱感",
+        "onboard_time": 1710249993,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174392,
+        "num": 174392,
+        "word": "林俊杰济南",
+        "onboard_time": 1710245793,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163944,
+        "num": 163944,
+        "word": "2024考研国家线出了",
+        "onboard_time": 1710232597,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170767,
+        "num": 163197,
+        "word": "酱园弄",
+        "onboard_time": 1710241052,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162184,
+        "num": 162184,
+        "word": "体制内被同事删除微信",
+        "onboard_time": 1710238773,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161976,
+        "num": 161976,
+        "word": "才知道公安局是不能线下报案的",
+        "onboard_time": 1710230551,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 153999,
+        "num": 153999,
+        "word": "三角形内角和等于180度",
+        "onboard_time": 1710249094,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148043,
+        "num": 148043,
+        "word": "向佐姚安娜 CP",
+        "onboard_time": 1710236130,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144199,
+        "num": 144199,
+        "word": "林俊杰演唱会",
+        "onboard_time": 1710246093,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143548,
+        "num": 143548,
+        "word": "别对我动心 顾寻岳千灵同房了",
+        "onboard_time": 1710248735,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143385,
+        "num": 143385,
+        "word": "你身边有长期不上班到处玩的人吗",
+        "onboard_time": 1710239135,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132660,
+        "num": 132660,
+        "word": "只有infp才擅长的天赋",
+        "onboard_time": 1710244173,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129066,
+        "num": 129066,
+        "word": "上班后才懂职场艺名的真正意义",
+        "onboard_time": 1710250412,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建以先进制造业为骨干的现代化产业体系#"
+    }
+  }
+}
