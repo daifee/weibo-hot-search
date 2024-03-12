@@ -1,0 +1,410 @@
+{
+  "runTime": 1710281787967,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 221362,
+        "num": 221362,
+        "word": "肖战工作室还让不让人睡",
+        "onboard_time": 1710254372,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165789,
+        "num": 165789,
+        "word": "凯特王妃",
+        "onboard_time": 1710255935,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 17741,
+        "num": 142940,
+        "word": "2024年民生工作三大重点",
+        "onboard_time": 1710248193,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141163,
+        "num": 141163,
+        "word": "粉丝称被网红家人骗走百万",
+        "onboard_time": 1710262822,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 117706,
+        "num": 117706,
+        "word": "素媛案强奸犯擅自外出",
+        "onboard_time": 1710236253,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113993,
+        "num": 113993,
+        "word": "因为自卑对男朋友隐瞒了家庭条件",
+        "onboard_time": 1710251614,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102769,
+        "num": 102769,
+        "word": "陈乔恩13天没吃碳水",
+        "onboard_time": 1710256414,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101587,
+        "num": 101587,
+        "word": "点读机女孩事件最高可处3年有期徒刑",
+        "onboard_time": 1710240513,
+        "rank": 7,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 100426,
+        "num": 100426,
+        "word": "天涯明月刀",
+        "onboard_time": 1710256234,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83274,
+        "num": 83274,
+        "word": "朱梓骁悬着的心终于死了",
+        "onboard_time": 1710254911,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75271,
+        "num": 75271,
+        "word": "满舒克前女友再发博",
+        "onboard_time": 1710254193,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71106,
+        "num": 71106,
+        "word": "宁静终于从撕伞人成长为撑伞人",
+        "onboard_time": 1710277156,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67671,
+        "num": 67671,
+        "word": "男子2万买金镯发现内藏2根金丝",
+        "onboard_time": 1710234274,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57790,
+        "num": 57790,
+        "word": "肖战浴室",
+        "onboard_time": 1710278354,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53851,
+        "num": 53851,
+        "word": "被日本人邻居用草莓换排骨汤",
+        "onboard_time": 1710239135,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55048,
+        "num": 50329,
+        "word": "纪凌尘 真心无意冒犯就是学艺不精",
+        "onboard_time": 1710249874,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42122,
+        "num": 42122,
+        "word": "高君雨同学发声",
+        "onboard_time": 1710241233,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 39815,
+        "num": 39815,
+        "word": "马龙2比3弗朗西斯卡",
+        "onboard_time": 1710253359,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38547,
+        "num": 38547,
+        "word": "HPV感染相当于宫颈得了一次感冒",
+        "onboard_time": 1710246513,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30184,
+        "num": 30184,
+        "word": "顺产还是剖腹产好",
+        "onboard_time": 1710274756,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41882,
+        "num": 30163,
+        "word": "工资低又经常熬夜的工作",
+        "onboard_time": 1710256292,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37104,
+        "num": 30054,
+        "word": "杨紫琼ig",
+        "onboard_time": 1710252572,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36978,
+        "num": 29880,
+        "word": "为了你的腰和臀别再这样做了",
+        "onboard_time": 1710263541,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 34800,
+        "num": 29759,
+        "word": "为什么百香果不能带进监狱",
+        "onboard_time": 1710234336,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33989,
+        "num": 29650,
+        "word": "1岁宝宝误食方便面被卡右肺完全堵死",
+        "onboard_time": 1710249277,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34007,
+        "num": 29496,
+        "word": "给点读机女孩转款1万元当事人发声",
+        "onboard_time": 1710249634,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 29422,
+        "num": 29422,
+        "word": "纪凌尘撕名牌",
+        "onboard_time": 1710251855,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28434,
+        "num": 28434,
+        "word": "坚持21天把肾气全补回来",
+        "onboard_time": 1710281117,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28100,
+        "num": 28100,
+        "word": "杨威双胞胎女儿在家上学",
+        "onboard_time": 1710239614,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23333,
+        "num": 27900,
+        "word": "代表建议考研初试分步统一命题",
+        "onboard_time": 1710270917,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32734,
+        "num": 27882,
+        "word": "孩子半夜醒来都猫咪陪着",
+        "onboard_time": 1710276974,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28244,
+        "num": 27868,
+        "word": "李佳琦沙滩照",
+        "onboard_time": 1710261806,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 27834,
+        "num": 27834,
+        "word": "经常剪头发不会长得更快",
+        "onboard_time": 1710258809,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 26997,
+        "num": 26997,
+        "word": "满舒克HPV检测呈阴性",
+        "onboard_time": 1710229771,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26976,
+        "num": 26976,
+        "word": "走吧你跟有病似的",
+        "onboard_time": 1710252091,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25775,
+        "num": 25775,
+        "word": "赵今麦最新妆造",
+        "onboard_time": 1710258270,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24494,
+        "num": 24494,
+        "word": "小徐考研成绩超国家线66分",
+        "onboard_time": 1710242673,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 24409,
+        "num": 24409,
+        "word": "纪凌尘早期旧照",
+        "onboard_time": 1710258334,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23673,
+        "num": 23673,
+        "word": "原来这就是钝感力啊",
+        "onboard_time": 1710270677,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21649,
+        "num": 21649,
+        "word": "射雕",
+        "onboard_time": 1710254135,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23615,
+        "num": 21597,
+        "word": "满舒克回应",
+        "onboard_time": 1710253359,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22622,
+        "num": 21556,
+        "word": "全球85花格局",
+        "onboard_time": 1710281597,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21879,
+        "num": 21552,
+        "word": "金秀贤做普拉提",
+        "onboard_time": 1710263961,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21441,
+        "num": 21441,
+        "word": "考研失败办考研辅导班赚钱翻身",
+        "onboard_time": 1710256711,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20777,
+        "num": 20777,
+        "word": "酱园弄",
+        "onboard_time": 1710241052,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20777,
+        "num": 20777,
+        "word": "为什么室友能冷漠到无话可说",
+        "onboard_time": 1710252395,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20566,
+        "num": 20566,
+        "word": "为什么朋友圈这条线有长有短",
+        "onboard_time": 1710232535,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 19818,
+        "num": 19818,
+        "word": "考研国家线",
+        "onboard_time": 1710231810,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 18703,
+        "num": 18703,
+        "word": "Uzi回应改名JackeyLove",
+        "onboard_time": 1710249211,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18125,
+        "num": 18125,
+        "word": "姚安娜来和平精英了",
+        "onboard_time": 1710264621,
+        "rank": 49,
+        "category": "游戏,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记出席2024全国两会纪实#"
+    }
+  }
+}
