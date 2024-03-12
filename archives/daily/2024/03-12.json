@@ -1,6 +1,6 @@
 {
   "startTime": 1710174076566,
-  "endTime": 1710224534186,
+  "endTime": 1710225249292,
   "band_list": [
     {
       "raw_hot": 1716922,
@@ -131,6 +131,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1081965,
+      "num": 1013208,
+      "word": "超80%女性一生至少有过一次HPV感染",
+      "onboard_time": 1710221013,
+      "rank": 30,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 1058541,
       "num": 949318,
       "word": "S组什么瓜",
@@ -153,14 +161,6 @@
       "onboard_time": 1710215672,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1013208,
-      "num": 1013208,
-      "word": "超80%女性一生至少有过一次HPV感染",
-      "onboard_time": 1710221013,
-      "rank": 30,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 977642,
@@ -225,6 +225,14 @@
       "onboard_time": 1710200309,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 767627,
+      "num": 767627,
+      "word": "没想到iPhone备忘录还能这么用",
+      "onboard_time": 1710222033,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 761251,
@@ -299,12 +307,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 634562,
-      "num": 634562,
-      "word": "没想到iPhone备忘录还能这么用",
-      "onboard_time": 1710222033,
-      "rank": 4,
-      "category": "数码"
+      "raw_hot": 642553,
+      "num": 642553,
+      "word": "林诗栋3比1樊振东",
+      "onboard_time": 1710224728,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 636965,
+      "num": 636965,
+      "word": "纪凌尘的牙",
+      "onboard_time": 1710224490,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 605786,
@@ -395,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 546202,
+      "num": 455902,
+      "word": "孙艺珍晒娃日常",
+      "onboard_time": 1710222811,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 542624,
       "num": 542624,
       "word": "奥斯卡春山学",
@@ -435,12 +459,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 500120,
-      "num": 455611,
-      "word": "孙艺珍晒娃日常",
-      "onboard_time": 1710222811,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 500698,
+      "num": 500698,
+      "word": "农村断缴城乡居民医保背后",
+      "onboard_time": 1710221492,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495997,
@@ -505,14 +529,6 @@
       "onboard_time": 1710212611,
       "rank": 21,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 460127,
-      "num": 460127,
-      "word": "农村断缴城乡居民医保背后",
-      "onboard_time": 1710221492,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 458858,
@@ -675,6 +691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 313148,
+      "num": 313148,
+      "word": "种地吧沙漠种18万棵树",
+      "onboard_time": 1710224728,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309253,
       "num": 309253,
       "word": "待在小县城为什么会有窒息感",
@@ -683,12 +707,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 307166,
+      "num": 307166,
+      "word": "广西两女教师打学生被停课",
+      "onboard_time": 1710223830,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303200,
       "num": 303200,
       "word": "八段锦跟练教程",
       "onboard_time": 1710219997,
       "rank": 21,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 296460,
+      "num": 296460,
+      "word": "饭后有3个表现是胃癌肝癌来临信号",
+      "onboard_time": 1710224073,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 294301,
@@ -705,6 +745,14 @@
       "onboard_time": 1710219997,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 289984,
+      "num": 289984,
+      "word": "甜茶不甜了",
+      "onboard_time": 1710219757,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 289887,
@@ -739,6 +787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 274040,
+      "num": 274040,
+      "word": "刘浩存郑州",
+      "onboard_time": 1710223891,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 270532,
       "num": 270532,
       "word": "和种地吧一起种树吧",
@@ -761,14 +817,6 @@
       "onboard_time": 1710217471,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 265236,
-      "num": 265236,
-      "word": "甜茶不甜了",
-      "onboard_time": 1710219757,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 259901,
@@ -801,6 +849,14 @@
       "onboard_time": 1710214469,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 255609,
+      "num": 255609,
+      "word": "TikTok首席执行官将造访美国国会",
+      "onboard_time": 1710224311,
+      "rank": 38,
+      "category": "互联网,国外时政"
     },
     {
       "raw_hot": 254275,
@@ -923,14 +979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217244,
-      "num": 207446,
-      "word": "刘浩存郑州",
-      "onboard_time": 1710223891,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 215826,
       "num": 215826,
       "word": "向佐张栋梁差点亲上",
@@ -993,14 +1041,6 @@
       "onboard_time": 1710221193,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 207346,
-      "num": 207346,
-      "word": "广西两女教师打学生被停课",
-      "onboard_time": 1710223830,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205279,
@@ -1147,6 +1187,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 191386,
+      "num": 191386,
+      "word": "易烊千玺 快乐饭",
+      "onboard_time": 1710224728,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 191068,
+      "num": 191068,
+      "word": "车企降价谁才是真让利",
+      "onboard_time": 1710224370,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 191004,
       "num": 191004,
       "word": "黑夜告白",
@@ -1177,6 +1233,14 @@
       "onboard_time": 1710216574,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184010,
+      "num": 184010,
+      "word": "点读机女孩",
+      "onboard_time": 1710224432,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 183552,
@@ -1211,14 +1275,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 178074,
-      "num": 178074,
-      "word": "饭后有3个表现是胃癌肝癌来临信号",
-      "onboard_time": 1710224073,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 177865,
       "num": 177865,
       "word": "顾佳发过的疯吹到了顾茉莉",
@@ -1251,6 +1307,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 175535,
+      "num": 172040,
+      "word": "酱园弄男主是雷佳音",
+      "onboard_time": 1710224131,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172992,
       "num": 172992,
       "word": "被公司架空又不主动辞退",
@@ -1259,28 +1323,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 172040,
-      "num": 172040,
-      "word": "酱园弄男主是雷佳音",
-      "onboard_time": 1710224131,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 167363,
       "num": 167363,
       "word": "周翊然田曦薇热舞",
       "onboard_time": 1710164914,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 166161,
-      "num": 166161,
-      "word": "TikTok首席执行官将造访美国国会",
-      "onboard_time": 1710224311,
-      "rank": 38,
-      "category": "互联网,国外时政"
     },
     {
       "raw_hot": 165900,
@@ -1331,6 +1379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 157118,
+      "num": 157118,
+      "word": "张学友抢票",
+      "onboard_time": 1710224912,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155535,
       "num": 155535,
       "word": "黑夜告白官宣",
@@ -1355,14 +1411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 152639,
-      "num": 152639,
-      "word": "纪凌尘的牙",
-      "onboard_time": 1710224490,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150604,
       "num": 150604,
       "word": "二月初三拜文昌",
@@ -1385,22 +1433,6 @@
       "onboard_time": 1710171390,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 143914,
-      "num": 143914,
-      "word": "点读机女孩",
-      "onboard_time": 1710224432,
-      "rank": 43,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 142283,
-      "num": 142283,
-      "word": "车企降价谁才是真让利",
-      "onboard_time": 1710224370,
-      "rank": 44,
-      "category": "汽车"
     },
     {
       "raw_hot": 141336,
