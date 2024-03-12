@@ -1,0 +1,410 @@
+{
+  "runTime": 1710228874600,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1972407,
+        "num": 1972407,
+        "word": "唐艺昕曾拒绝过张若昀求婚",
+        "onboard_time": 1710225810,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1080815,
+        "num": 1080815,
+        "word": "纪凌尘的牙",
+        "onboard_time": 1710224490,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34426,
+        "num": 877359,
+        "word": "用色卡打开春日里的中国",
+        "onboard_time": 1710211411,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 707929,
+        "num": 707929,
+        "word": "结婚16年4娃非亲生当事人已离婚",
+        "onboard_time": 1710226591,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630963,
+        "num": 630963,
+        "word": "十个勤天种树直播",
+        "onboard_time": 1710223111,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 600282,
+        "num": 600282,
+        "word": "饭后有3个表现是胃癌肝癌来临信号",
+        "onboard_time": 1710224073,
+        "rank": 5,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 577615,
+        "num": 577615,
+        "word": "刘亦菲胳膊",
+        "onboard_time": 1710226831,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 567375,
+        "num": 567375,
+        "word": "没想到iPhone备忘录还能这么用",
+        "onboard_time": 1710222033,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 552554,
+        "num": 552554,
+        "word": "超80%女性一生至少有过一次HPV感染",
+        "onboard_time": 1710221013,
+        "rank": 8,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 550969,
+        "num": 550969,
+        "word": "林诗栋3比1樊振东",
+        "onboard_time": 1710224728,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 527939,
+        "num": 527939,
+        "word": "王楚钦孙颖莎3比0法国组合",
+        "onboard_time": 1710227732,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25327,
+        "num": 495570,
+        "word": "安可拉红有多出片",
+        "onboard_time": 1710227251,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 471741,
+        "num": 471741,
+        "word": "种地吧沙漠种18万棵树",
+        "onboard_time": 1710224728,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409074,
+        "num": 409074,
+        "word": "苏翊鸣晒与朱易滑雪照",
+        "onboard_time": 1710225631,
+        "rank": 13,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 392398,
+        "num": 392398,
+        "word": "汤唯超短发",
+        "onboard_time": 1710219516,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372971,
+        "num": 372971,
+        "word": "樊振东二轮游",
+        "onboard_time": 1710227612,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372399,
+        "num": 372399,
+        "word": "金价狂飙涨疯普通人还能再买吗",
+        "onboard_time": 1710209189,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 372258,
+        "num": 372258,
+        "word": "赵丽颖易烊千玺二搭",
+        "onboard_time": 1710228093,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 312803,
+        "num": 312803,
+        "word": "人民网评高君雨事件",
+        "onboard_time": 1710228212,
+        "rank": 18,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 295194,
+        "num": 295194,
+        "word": "国家线今天出吗",
+        "onboard_time": 1710208051,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 991355,
+        "num": 293123,
+        "word": "我妈返聘工资都比我高",
+        "onboard_time": 1710227795,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285001,
+        "num": 285001,
+        "word": "广西两女教师打学生被停课",
+        "onboard_time": 1710223830,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279759,
+        "num": 279759,
+        "word": "小米集团涨超10%",
+        "onboard_time": 1710227193,
+        "rank": 22,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 259166,
+        "num": 259166,
+        "word": "王鹤棣终于演警察了",
+        "onboard_time": 1710215794,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249553,
+        "num": 249553,
+        "word": "迪丽热巴名下一合伙企业注销",
+        "onboard_time": 1710227972,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241074,
+        "num": 241074,
+        "word": "终于有人把五险一金说清楚了",
+        "onboard_time": 1710227011,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 225662,
+        "num": 225662,
+        "word": "许嵩抢票",
+        "onboard_time": 1710226890,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200979,
+        "num": 200979,
+        "word": "女员工入职3个月怀孕遭开除",
+        "onboard_time": 1710217174,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230506,
+        "num": 200235,
+        "word": "王鹤棣新发型",
+        "onboard_time": 1710228093,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 117855,
+        "num": 199035,
+        "word": "杭州法喜寺500岁玉兰如期绽放",
+        "onboard_time": 1710226473,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 244421,
+        "num": 198968,
+        "word": "马什么梅原来是沈腾自己的故事",
+        "onboard_time": 1710228032,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198302,
+        "num": 198302,
+        "word": "杨紫琼 魔方小姐",
+        "onboard_time": 1710227910,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191283,
+        "num": 191283,
+        "word": "刘浩存郑州",
+        "onboard_time": 1710223891,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186115,
+        "num": 186115,
+        "word": "易烊千玺 快乐饭",
+        "onboard_time": 1710224728,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181557,
+        "num": 181557,
+        "word": "一个节目心疼三个女人",
+        "onboard_time": 1710214469,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180627,
+        "num": 180627,
+        "word": "甜茶不甜了",
+        "onboard_time": 1710219757,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179099,
+        "num": 179099,
+        "word": "朋友都说尽量不要裸辞",
+        "onboard_time": 1710225751,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176171,
+        "num": 176171,
+        "word": "TikTok首席执行官将造访美国国会",
+        "onboard_time": 1710224311,
+        "rank": 37,
+        "category": "互联网,国外时政"
+      },
+      {
+        "raw_hot": 19911,
+        "num": 175666,
+        "word": "倪妮奢牌待遇",
+        "onboard_time": 1710228332,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175296,
+        "num": 175296,
+        "word": "男朋友爸评价我长得尖嘴猴腮的",
+        "onboard_time": 1710228511,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174521,
+        "num": 174521,
+        "word": "农村断缴城乡居民医保背后",
+        "onboard_time": 1710221492,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169078,
+        "num": 169078,
+        "word": "福建沙虫",
+        "onboard_time": 1710215672,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164561,
+        "num": 164561,
+        "word": "孙艺珍晒娃日常",
+        "onboard_time": 1710222811,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163062,
+        "num": 163062,
+        "word": "杨幂赵丽颖参演酱园弄",
+        "onboard_time": 1710220236,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160469,
+        "num": 160469,
+        "word": "樊振东vs林诗栋",
+        "onboard_time": 1710223650,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148125,
+        "num": 148125,
+        "word": "和种地吧一起种树吧",
+        "onboard_time": 1710219395,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147339,
+        "num": 147339,
+        "word": "官方回应教师粗暴对待学生",
+        "onboard_time": 1710226411,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 139372,
+        "num": 139372,
+        "word": "丈夫藏10万练功券被妻子拿去存钱",
+        "onboard_time": 1710215251,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135361,
+        "num": 135361,
+        "word": "迷风花卸任Hero主教练",
+        "onboard_time": 1710227850,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121083,
+        "num": 135080,
+        "word": "传说中竹杖芒鞋轻胜马的芒鞋",
+        "onboard_time": 1710227850,
+        "rank": 49,
+        "category": "休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平两会上的这些论述值得深读#"
+    }
+  }
+}
