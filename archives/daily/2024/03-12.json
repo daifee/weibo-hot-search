@@ -1,6 +1,6 @@
 {
   "startTime": 1710174076566,
-  "endTime": 1710243243840,
+  "endTime": 1710246671109,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -139,6 +139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1247446,
+      "num": 501175,
+      "word": "娃哈哈 保洁",
+      "onboard_time": 1710242374,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1244671,
       "num": 1244671,
       "word": "女教师哺乳期被学校调岗为保洁",
@@ -243,6 +251,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1061107,
+      "num": 1061107,
+      "word": "小徐考研成绩超国家线66分",
+      "onboard_time": 1710242673,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1058541,
       "num": 949318,
       "word": "S组什么瓜",
@@ -265,6 +281,14 @@
       "onboard_time": 1710211050,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1037335,
+      "num": 563755,
+      "word": "焉栩嘉 不用了谢谢",
+      "onboard_time": 1710243214,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1034725,
@@ -355,6 +379,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 804649,
+      "num": 678418,
+      "word": "点读机女孩事件最高可处3年有期徒刑",
+      "onboard_time": 1710240513,
+      "rank": 14,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 804101,
       "num": 804101,
       "word": "Super Junior SM全否定",
@@ -401,14 +433,6 @@
       "onboard_time": 1710211109,
       "rank": 10,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 750116,
-      "num": 538335,
-      "word": "点读机女孩事件最高可处3年有期徒刑",
-      "onboard_time": 1710240513,
-      "rank": 14,
-      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 742078,
@@ -537,6 +561,14 @@
       "onboard_time": 1710224728,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 621929,
+      "num": 621929,
+      "word": "喜茶",
+      "onboard_time": 1710244891,
+      "rank": 6,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 605786,
@@ -683,6 +715,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 526270,
+      "num": 526270,
+      "word": "林俊杰济南",
+      "onboard_time": 1710245793,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 525773,
       "num": 525773,
       "word": "CK",
@@ -729,6 +769,14 @@
       "onboard_time": 1710239732,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 501244,
+      "num": 501244,
+      "word": "孙俪生图",
+      "onboard_time": 1710244712,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 500698,
@@ -859,28 +907,12 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 434778,
-      "num": 434778,
-      "word": "娃哈哈 保洁",
-      "onboard_time": 1710242374,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 428456,
       "num": 428456,
       "word": "苏打绿杭州",
       "onboard_time": 1710218017,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 426298,
-      "num": 426298,
-      "word": "小徐考研成绩超国家线66分",
-      "onboard_time": 1710242673,
-      "rank": 17,
-      "category": "网红"
     },
     {
       "raw_hot": 423360,
@@ -897,6 +929,14 @@
       "onboard_time": 1710202774,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416496,
+      "num": 294116,
+      "word": "因为性格太软被公司部门抢着要",
+      "onboard_time": 1710243152,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 413972,
@@ -945,6 +985,14 @@
       "onboard_time": 1710217955,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 398062,
+      "num": 398062,
+      "word": "章子怡落泪感谢陈可辛",
+      "onboard_time": 1710245253,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 395481,
@@ -1033,6 +1081,14 @@
       "onboard_time": 1710158970,
       "rank": 12,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 353950,
+      "num": 353950,
+      "word": "为什么百香果不能带进监狱",
+      "onboard_time": 1710234336,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 352608,
@@ -1131,12 +1187,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 304033,
+      "num": 292771,
+      "word": "23岁居然参加过十种工作了",
+      "onboard_time": 1710243810,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 303200,
       "num": 303200,
       "word": "八段锦跟练教程",
       "onboard_time": 1710219997,
       "rank": 21,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 294738,
+      "num": 294738,
+      "word": "俄国防部通报一架伊尔76坠毁",
+      "onboard_time": 1710242794,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 294301,
@@ -1153,6 +1225,22 @@
       "onboard_time": 1710219997,
       "rank": 34,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 291684,
+      "num": 291684,
+      "word": "万科",
+      "onboard_time": 1710245132,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 290867,
+      "num": 290867,
+      "word": "林俊杰演唱会",
+      "onboard_time": 1710246093,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 289984,
@@ -1475,14 +1563,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 230431,
-      "num": 230431,
-      "word": "俄国防部通报一架伊尔76坠毁",
-      "onboard_time": 1710242794,
-      "rank": 27,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 229785,
       "num": 229785,
       "word": "看种地吧突然理解猪八戒了",
@@ -1513,14 +1593,6 @@
       "onboard_time": 1710210209,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226553,
-      "num": 226553,
-      "word": "为什么百香果不能带进监狱",
-      "onboard_time": 1710234336,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 226323,
@@ -1699,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208955,
+      "num": 208955,
+      "word": "十个勤天",
+      "onboard_time": 1710246093,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208769,
       "num": 208769,
       "word": "C罗亚冠出局",
@@ -1809,6 +1889,14 @@
       "onboard_time": 1710167433,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 198990,
+      "num": 198990,
+      "word": "我的阿勒泰",
+      "onboard_time": 1710245975,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 198302,
@@ -2171,6 +2259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164655,
+      "num": 164655,
+      "word": "只有infp才擅长的天赋",
+      "onboard_time": 1710244173,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164093,
       "num": 164093,
       "word": "这5类人真的不适合染发",
@@ -2243,6 +2339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157010,
+      "num": 157010,
+      "word": "武大教授称为了就业去考研没必要",
+      "onboard_time": 1710243573,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 155535,
       "num": 155535,
       "word": "黑夜告白官宣",
@@ -2275,28 +2379,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150935,
+      "num": 150935,
+      "word": "i人为什么不喜欢社交",
+      "onboard_time": 1710245793,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150604,
       "num": 150604,
       "word": "二月初三拜文昌",
       "onboard_time": 1710207210,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 150343,
-      "num": 150343,
-      "word": "因为性格太软被公司部门抢着要",
-      "onboard_time": 1710243152,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 148056,
-      "num": 148056,
-      "word": "焉栩嘉 不用了谢谢",
-      "onboard_time": 1710243214,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 148042,
@@ -2312,6 +2408,14 @@
       "word": "8个习惯正在毁掉你的胃",
       "onboard_time": 1710171390,
       "rank": 26,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 144282,
+      "num": 144282,
+      "word": "HPV感染相当于宫颈得了一次感冒",
+      "onboard_time": 1710246513,
+      "rank": 47,
       "category": "健康医疗"
     },
     {
@@ -2345,6 +2449,14 @@
       "onboard_time": 1710200906,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139755,
+      "num": 139755,
+      "word": "帕梅拉体验苏州非遗",
+      "onboard_time": 1710246033,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 138682,
@@ -2772,7 +2884,7 @@
     },
     {
       "raw_hot": 33839,
-      "num": 404259,
+      "num": 699492,
       "word": "一套题学习政府工作报告",
       "onboard_time": 1710232174,
       "rank": 11,
