@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710236040787,
+  "endTime": 1710238681160,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -177,6 +177,14 @@
       "onboard_time": 1709963189,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2571599,
+      "num": 2571599,
+      "word": "素媛案强奸犯擅自外出",
+      "onboard_time": 1710236253,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2510696,
@@ -1041,6 +1049,14 @@
       "onboard_time": 1709305231,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1412185,
+      "num": 1412185,
+      "word": "男子2万买金镯发现内藏2根金丝",
+      "onboard_time": 1710234274,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1400305,
@@ -1945,6 +1961,14 @@
       "onboard_time": 1710221013,
       "rank": 30,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 1080069,
+      "num": 1080069,
+      "word": "向佐姚安娜 CP",
+      "onboard_time": 1710236130,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1078506,
@@ -3227,6 +3251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 821573,
+      "num": 821573,
+      "word": "没学上了",
+      "onboard_time": 1710234935,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 819868,
       "num": 305153,
       "word": "辛芷蕾 不许再折腾了哦",
@@ -3779,14 +3811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 741539,
-      "num": 506968,
-      "word": "男子2万买金镯发现内藏2根金丝",
-      "onboard_time": 1710234274,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 739556,
       "num": 344331,
       "word": "王一博工作室的审美",
@@ -4169,6 +4193,14 @@
       "onboard_time": 1709462976,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 707717,
+      "num": 707717,
+      "word": "宁静回应与纪凌尘搭戏",
+      "onboard_time": 1710234155,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 707340,
@@ -4803,28 +4835,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 653690,
-      "num": 653690,
-      "word": "没学上了",
-      "onboard_time": 1710234935,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 653348,
       "num": 653348,
       "word": "何小鹏建议允许夜间低速无人驾驶",
       "onboard_time": 1709522251,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 653224,
-      "num": 653224,
-      "word": "宁静回应与纪凌尘搭戏",
-      "onboard_time": 1710234155,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 651252,
@@ -5289,6 +5305,14 @@
       "onboard_time": 1709920159,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 618492,
+      "num": 618492,
+      "word": "Super Junior SM全否定",
+      "onboard_time": 1710237753,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 618186,
@@ -7323,12 +7347,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 489375,
+      "num": 489375,
+      "word": "为什么朋友圈这条线有长有短",
+      "onboard_time": 1710232535,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 488719,
       "num": 488719,
       "word": "杨幂赵丽颖参演酱园弄",
       "onboard_time": 1710220236,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 488328,
+      "num": 346860,
+      "word": "感受到四点半下班的好处了",
+      "onboard_time": 1710234574,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 487780,
@@ -7425,6 +7465,14 @@
       "onboard_time": 1709689950,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 483296,
+      "num": 483296,
+      "word": "社保卡一定要记得去激活",
+      "onboard_time": 1710235415,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 482985,
@@ -7569,6 +7617,14 @@
       "onboard_time": 1709814871,
       "rank": 26,
       "category": "游戏,国内时政"
+    },
+    {
+      "raw_hot": 476436,
+      "num": 476436,
+      "word": "迷风花道歉",
+      "onboard_time": 1710236371,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 476173,
@@ -7995,6 +8051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 454795,
+      "num": 454795,
+      "word": "CK",
+      "onboard_time": 1710235415,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 453643,
       "num": 453643,
       "word": "孩子幼儿园就在单位楼下是什么体验",
@@ -8107,14 +8171,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 448746,
-      "num": 448746,
-      "word": "为什么朋友圈这条线有长有短",
-      "onboard_time": 1710232535,
-      "rank": 11,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 448377,
       "num": 309060,
       "word": "兴高采烈退税结果要补1万8",
@@ -8225,14 +8281,6 @@
       "onboard_time": 1709799692,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 441285,
-      "num": 312249,
-      "word": "感受到四点半下班的好处了",
-      "onboard_time": 1710234574,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 441202,
@@ -9009,6 +9057,14 @@
       "onboard_time": 1709962650,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 407858,
+      "num": 341683,
+      "word": "小宝宝臀部长了小尾巴",
+      "onboard_time": 1710237573,
+      "rank": 21,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 407735,
@@ -11827,6 +11883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306958,
+      "num": 306958,
+      "word": "书亦烧仙草",
+      "onboard_time": 1710237152,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 306733,
       "num": 306733,
       "word": "恋与深空",
@@ -13163,14 +13227,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 272926,
-      "num": 272926,
-      "word": "CK",
-      "onboard_time": 1710235415,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 272693,
       "num": 272693,
       "word": "绿色穿搭真的让人眼前一亮",
@@ -13491,6 +13547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265624,
+      "num": 265624,
+      "word": "考研国家线英语",
+      "onboard_time": 1710235892,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 265619,
       "num": 265619,
       "word": "林俊杰 他甚至贴心地等大家说完",
@@ -13553,6 +13617,14 @@
       "onboard_time": 1709366134,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 263826,
+      "num": 263826,
+      "word": "医学涨了",
+      "onboard_time": 1710237753,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 263683,
@@ -14297,6 +14369,14 @@
       "onboard_time": 1710124234,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 247441,
+      "num": 247441,
+      "word": "向佐老师对不起",
+      "onboard_time": 1710236614,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 246995,
@@ -15699,14 +15779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223183,
-      "num": 223183,
-      "word": "社保卡一定要记得去激活",
-      "onboard_time": 1710235415,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 222713,
       "num": 222713,
       "word": "易烊千玺 快乐饭",
@@ -15891,14 +15963,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 220317,
-      "num": 220317,
-      "word": "考研国家线英语",
-      "onboard_time": 1710235892,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 220292,
       "num": 220292,
       "word": "胃是个很敏感的器官",
@@ -15913,6 +15977,14 @@
       "onboard_time": 1709546430,
       "rank": 33,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 220234,
+      "num": 220234,
+      "word": "Hero官宣主教练老林",
+      "onboard_time": 1710238233,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 219714,
@@ -16059,6 +16131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217950,
+      "num": 217950,
+      "word": "法学331",
+      "onboard_time": 1710237814,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 217895,
       "num": 217895,
       "word": "LGD战胜LNG",
@@ -16073,6 +16153,14 @@
       "onboard_time": 1709610572,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217699,
+      "num": 217699,
+      "word": "文科好卷",
+      "onboard_time": 1710237695,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 217604,
@@ -21187,6 +21275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172775,
+      "num": 172775,
+      "word": "考研调剂",
+      "onboard_time": 1710237333,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 172672,
       "num": 172672,
       "word": "王一博造型亮点贝雷帽",
@@ -24372,7 +24468,7 @@
     },
     {
       "raw_hot": 149131,
-      "num": 213067,
+      "num": 613579,
       "word": "杭州法喜寺500岁玉兰如期绽放",
       "onboard_time": 1710226473,
       "rank": 34,
@@ -28129,6 +28225,14 @@
       "onboard_time": 1710138809,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123675,
+      "num": 608827,
+      "word": "甘肃杭州林面积已大过西湖",
+      "onboard_time": 1710237034,
+      "rank": 9,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 123602,
@@ -32113,6 +32217,14 @@
       "onboard_time": 1709853624,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67336,
+      "num": 176943,
+      "word": "为什么时尚大牌都有代表色",
+      "onboard_time": 1710238412,
+      "rank": 41,
+      "category": "时尚"
     },
     {
       "raw_hot": 67109,
