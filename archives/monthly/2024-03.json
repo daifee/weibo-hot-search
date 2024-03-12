@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710247544509,
+  "endTime": 1710249540250,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -3787,6 +3787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 756350,
+      "num": 756350,
+      "word": "HPV感染相当于宫颈得了一次感冒",
+      "onboard_time": 1710246513,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 754950,
       "num": 281736,
       "word": "不背单词 受黑客攻击",
@@ -6595,6 +6603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 538154,
+      "num": 538154,
+      "word": "万科",
+      "onboard_time": 1710245132,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 537479,
       "num": 537479,
       "word": "周鸿祎称国内PPT泛滥成灾",
@@ -7299,6 +7315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 496973,
+      "num": 496973,
+      "word": "许嵩巡演官宣",
+      "onboard_time": 1710247714,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 496930,
       "num": 496930,
       "word": "医生巧用砒霜挽救血癌女子生命",
@@ -7449,6 +7473,14 @@
       "onboard_time": 1709270014,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 489571,
+      "num": 489571,
+      "word": "章子怡落泪感谢陈可辛",
+      "onboard_time": 1710245253,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 488719,
@@ -7963,14 +7995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 465372,
-      "num": 465372,
-      "word": "章子怡落泪感谢陈可辛",
-      "onboard_time": 1710245253,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 465057,
       "num": 304813,
       "word": "老人丢了6000元民警找回16000",
@@ -8403,14 +8427,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 440809,
-      "num": 440809,
-      "word": "万科",
-      "onboard_time": 1710245132,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 440730,
       "num": 440730,
       "word": "月入过万你还会考研考公吗",
@@ -8649,6 +8665,14 @@
       "onboard_time": 1710116850,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433559,
+      "num": 433559,
+      "word": "为什么百香果不能带进监狱",
+      "onboard_time": 1710234336,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 433279,
@@ -8905,14 +8929,6 @@
       "onboard_time": 1709374230,
       "rank": 27,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 418622,
-      "num": 418622,
-      "word": "为什么百香果不能带进监狱",
-      "onboard_time": 1710234336,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 418539,
@@ -9857,6 +9873,14 @@
       "onboard_time": 1709886212,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 379701,
+      "num": 379701,
+      "word": "被日本人邻居用草莓换排骨汤",
+      "onboard_time": 1710239135,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 379666,
@@ -11427,14 +11451,6 @@
       "category": "综艺,综艺"
     },
     {
-      "raw_hot": 325410,
-      "num": 315342,
-      "word": "被日本人邻居用草莓换排骨汤",
-      "onboard_time": 1710239135,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 325183,
       "num": 325183,
       "word": "刘浩存演惠英红奶奶",
@@ -11915,6 +11931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 311991,
+      "num": 311991,
+      "word": "23岁居然参加过十种工作了",
+      "onboard_time": 1710243810,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311824,
       "num": 311824,
       "word": "7类食物焯水后才能吃",
@@ -12153,14 +12177,6 @@
       "onboard_time": 1709966070,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 304033,
-      "num": 296922,
-      "word": "23岁居然参加过十种工作了",
-      "onboard_time": 1710243810,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 303750,
@@ -13001,14 +13017,6 @@
       "onboard_time": 1709856813,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281576,
-      "num": 299970,
-      "word": "HPV感染相当于宫颈得了一次感冒",
-      "onboard_time": 1710246513,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 281490,
@@ -14275,6 +14283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253135,
+      "num": 189567,
+      "word": "Uzi回应改名JackeyLove",
+      "onboard_time": 1710249211,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 253064,
       "num": 253064,
       "word": "何书桓要去大上海看古巨基唱歌了",
@@ -14552,6 +14568,14 @@
       "word": "外媒报道赵丽颖获奖",
       "onboard_time": 1710124234,
       "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 247813,
+      "num": 247813,
+      "word": "夏之光胸口纹身",
+      "onboard_time": 1710247893,
+      "rank": 22,
       "category": "作品衍生"
     },
     {
@@ -18315,6 +18339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198344,
+      "num": 198344,
+      "word": "1岁宝宝误食方便面被卡右肺完全堵死",
+      "onboard_time": 1710249277,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198326,
       "num": 198326,
       "word": "WTT",
@@ -20843,6 +20875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178652,
+      "num": 178652,
+      "word": "i人为什么不喜欢社交",
+      "onboard_time": 1710245793,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178531,
       "num": 178531,
       "word": "RNG六连败",
@@ -20945,6 +20985,14 @@
       "onboard_time": 1709897129,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177382,
+      "num": 177382,
+      "word": "别对我动心 顾寻岳千灵同房了",
+      "onboard_time": 1710248735,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 177376,
@@ -22003,6 +22051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168413,
+      "num": 168413,
+      "word": "剑网3余玉贤",
+      "onboard_time": 1710247593,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 168372,
       "num": 168372,
       "word": "化妆界的发疯文学",
@@ -22113,6 +22169,14 @@
       "onboard_time": 1709896348,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 167709,
+      "num": 176178,
+      "word": "CPI",
+      "onboard_time": 1710248253,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 167587,
@@ -24331,14 +24395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152449,
-      "num": 152449,
-      "word": "i人为什么不喜欢社交",
-      "onboard_time": 1710245793,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 152426,
       "num": 152426,
       "word": "仙台有树开放预约",
@@ -25848,6 +25904,14 @@
       "word": "新手班主任分享现在中学生有多难管",
       "onboard_time": 1710046050,
       "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 142301,
+      "num": 142301,
+      "word": "三角形内角和等于180度",
+      "onboard_time": 1710249094,
+      "rank": 45,
       "category": "教育"
     },
     {
@@ -33905,6 +33969,14 @@
       "onboard_time": 1709574199,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 24739,
+      "num": 704182,
+      "word": "2023年全国国土绿化面积超800万公顷",
+      "onboard_time": 1710248673,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24710,
