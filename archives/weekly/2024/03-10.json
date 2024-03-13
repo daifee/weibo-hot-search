@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710333076725,
+  "endTime": 1710333991768,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -419,6 +419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1439511,
+      "num": 1439511,
+      "word": "许光汉宣布不再演高中生",
+      "onboard_time": 1710331656,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1392401,
       "num": 358755,
       "word": "学校否认女老师与男学生发生关系",
@@ -665,14 +673,6 @@
       "onboard_time": 1710300335,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1166250,
-      "num": 1166250,
-      "word": "许光汉宣布不再演高中生",
-      "onboard_time": 1710331656,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 1157802,
@@ -1339,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 809989,
+      "num": 809989,
+      "word": "鹿晗骨相",
+      "onboard_time": 1710331774,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 804101,
       "num": 804101,
       "word": "Super Junior SM全否定",
@@ -1835,6 +1843,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 647846,
+      "num": 647846,
+      "word": "记者暗访代孕黑色产业链",
+      "onboard_time": 1710331056,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 646989,
       "num": 462969,
       "word": "孟佳筷子腿",
@@ -2273,22 +2289,6 @@
       "onboard_time": 1710171690,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 556097,
-      "num": 556097,
-      "word": "记者暗访代孕黑色产业链",
-      "onboard_time": 1710331056,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 556084,
-      "num": 556084,
-      "word": "鹿晗骨相",
-      "onboard_time": 1710331774,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 553654,
@@ -2923,6 +2923,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 464508,
+      "num": 556090,
+      "word": "燕郊爆炸初步确认是燃气泄漏引发",
+      "onboard_time": 1710327510,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461851,
       "num": 461851,
       "word": "眼泪女王第二集",
@@ -3035,14 +3043,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 440283,
-      "num": 556090,
-      "word": "燕郊爆炸初步确认是燃气泄漏引发",
-      "onboard_time": 1710327510,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 439426,
       "num": 439426,
       "word": "张邈 赛博美人",
@@ -3108,7 +3108,7 @@
     },
     {
       "raw_hot": 429751,
-      "num": 270895,
+      "num": 299274,
       "word": "微信注销后的样子",
       "onboard_time": 1710331414,
       "rank": 21,
@@ -3169,6 +3169,14 @@
       "onboard_time": 1710237573,
       "rank": 21,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 422704,
+      "num": 407182,
+      "word": "烈焰首播口碑",
+      "onboard_time": 1710333034,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 421310,
@@ -3505,6 +3513,14 @@
       "onboard_time": 1710161791,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 382609,
+      "num": 382609,
+      "word": "RIIZE官推声明",
+      "onboard_time": 1710332672,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 381843,
@@ -4723,6 +4739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272342,
+      "num": 272342,
+      "word": "张凌赫新剧将开机",
+      "onboard_time": 1710332972,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 271858,
       "num": 271858,
       "word": "张雪峰 周五",
@@ -5155,6 +5179,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 249280,
+      "num": 249280,
+      "word": "孙颖莎3比0李时温",
+      "onboard_time": 1710332552,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248244,
       "num": 248244,
       "word": "微信里你不知道的小妙招",
@@ -5465,14 +5497,6 @@
       "onboard_time": 1710149910,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 236223,
-      "num": 236223,
-      "word": "RIIZE官推声明",
-      "onboard_time": 1710332672,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 235921,
@@ -5907,14 +5931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218432,
-      "num": 218432,
-      "word": "张凌赫新剧将开机",
-      "onboard_time": 1710332972,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218077,
       "num": 218077,
       "word": "原神4.5",
@@ -5961,14 +5977,6 @@
       "onboard_time": 1710313533,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 217232,
-      "num": 217232,
-      "word": "孙颖莎3比0李时温",
-      "onboard_time": 1710332552,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 217213,
@@ -6544,6 +6552,14 @@
       "word": "XYG太菜了",
       "onboard_time": 1710328893,
       "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 201232,
+      "num": 201232,
+      "word": "AG谁是你的天菜",
+      "onboard_time": 1710333693,
+      "rank": 29,
       "category": "电竞"
     },
     {
@@ -7659,6 +7675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175534,
+      "num": 175534,
+      "word": "五粮液声明称没在拼多多开设官方店",
+      "onboard_time": 1710333573,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 175523,
       "num": 175523,
       "word": "罗伯特帕丁森得女",
@@ -8299,6 +8323,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 160216,
+      "num": 160216,
+      "word": "鸡公煲教程",
+      "onboard_time": 1710332794,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159911,
       "num": 159911,
       "word": "安徽省考",
@@ -8763,14 +8795,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 151240,
-      "num": 151240,
-      "word": "鸡公煲教程",
-      "onboard_time": 1710332794,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 151090,
       "num": 151090,
       "word": "刘宇工作室严正声明",
@@ -8817,6 +8841,14 @@
       "onboard_time": 1710323373,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150048,
+      "num": 150048,
+      "word": "凯特",
+      "onboard_time": 1710333755,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 149782,
@@ -9001,14 +9033,6 @@
       "onboard_time": 1710148888,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 144851,
-      "num": 144851,
-      "word": "烈焰首播口碑",
-      "onboard_time": 1710333034,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 144766,
@@ -9459,6 +9483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135338,
+      "num": 135338,
+      "word": "央视记者",
+      "onboard_time": 1710333872,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134920,
       "num": 134920,
       "word": "人生是一张三万天的地球村体验卡",
@@ -9481,6 +9513,14 @@
       "onboard_time": 1710126269,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 134570,
+      "num": 134570,
+      "word": "沙丘导演收到十三香和老干妈",
+      "onboard_time": 1710333933,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 134518,
@@ -9641,6 +9681,22 @@
       "onboard_time": 1710055050,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131918,
+      "num": 131918,
+      "word": "RNG终结八连败",
+      "onboard_time": 1710333272,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 131247,
+      "num": 131247,
+      "word": "书亦烧仙草被点名饮品已改名",
+      "onboard_time": 1710333813,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 131104,
@@ -10033,6 +10089,14 @@
       "onboard_time": 1710061472,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 121424,
+      "num": 121424,
+      "word": "Q币结算工资",
+      "onboard_time": 1710333933,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 121083,
@@ -11339,6 +11403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41405,
+      "num": 932358,
+      "word": "从制造到智造需几步",
+      "onboard_time": 1710315873,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41336,
       "num": 44178,
       "word": "JYP自己倒是闯中成功了",
@@ -11369,14 +11441,6 @@
       "onboard_time": 1710276974,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 35364,
-      "num": 932358,
-      "word": "从制造到智造需几步",
-      "onboard_time": 1710315873,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35010,
@@ -11617,6 +11681,14 @@
       "onboard_time": 1710018975,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9062,
+      "num": 829923,
+      "word": "开展国家勋章和国家荣誉称号评选颁授",
+      "onboard_time": 1710333872,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1710333991768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1439511,
+        "num": 1439511,
+        "word": "许光汉宣布不再演高中生",
+        "onboard_time": 1710331656,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 850737,
+        "num": 850737,
+        "word": "迪丽热巴春晚摔骨裂",
+        "onboard_time": 1710318154,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9062,
+        "num": 829923,
+        "word": "开展国家勋章和国家荣誉称号评选颁授",
+        "onboard_time": 1710333872,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 878779,
+        "num": 820809,
+        "word": "李雪琴变瘦了",
+        "onboard_time": 1710325353,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 809989,
+        "num": 809989,
+        "word": "鹿晗骨相",
+        "onboard_time": 1710331774,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 696074,
+        "num": 696074,
+        "word": "燕郊爆炸已致2死26伤",
+        "onboard_time": 1710308552,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647846,
+        "num": 647846,
+        "word": "记者暗访代孕黑色产业链",
+        "onboard_time": 1710331056,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566749,
+        "num": 566749,
+        "word": "世上最后一名铁肺人去世",
+        "onboard_time": 1710325771,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464508,
+        "num": 532273,
+        "word": "燕郊爆炸初步确认是燃气泄漏引发",
+        "onboard_time": 1710327510,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519553,
+        "num": 519553,
+        "word": "鹿晗时隔五年现场打卡曼联",
+        "onboard_time": 1710328832,
+        "rank": 9,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 791868,
+        "num": 512634,
+        "word": "5岁男孩阳台坠亡时奶奶姥姥在打麻将",
+        "onboard_time": 1710322890,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505521,
+        "num": 505521,
+        "word": "papi酱 演员的进组好物分享",
+        "onboard_time": 1710330992,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 487623,
+        "num": 487623,
+        "word": "成龙头发胡子白了",
+        "onboard_time": 1710328594,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466187,
+        "num": 466187,
+        "word": "刘宇方回应抄袭张艺兴争议",
+        "onboard_time": 1710325473,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 412702,
+        "num": 412702,
+        "word": "减肥20%靠运动80%靠饮食",
+        "onboard_time": 1710316834,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 422704,
+        "num": 407182,
+        "word": "烈焰首播口碑",
+        "onboard_time": 1710333034,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41405,
+        "num": 394846,
+        "word": "从制造到智造需几步",
+        "onboard_time": 1710315873,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 382609,
+        "num": 382609,
+        "word": "RIIZE官推声明",
+        "onboard_time": 1710332672,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320024,
+        "num": 320024,
+        "word": "女子过年买金仅一月小赚近1万",
+        "onboard_time": 1710319534,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302308,
+        "num": 302308,
+        "word": "燕郊爆炸地附近炸鸡店发声",
+        "onboard_time": 1710326913,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408771,
+        "num": 299274,
+        "word": "微信注销后的样子",
+        "onboard_time": 1710331414,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 272342,
+        "num": 272342,
+        "word": "张凌赫新剧将开机",
+        "onboard_time": 1710332972,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261324,
+        "num": 261324,
+        "word": "三孩妈妈做抽脂手术时死亡",
+        "onboard_time": 1710325893,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257526,
+        "num": 257526,
+        "word": "Angelababy风尚志三月刊封面",
+        "onboard_time": 1710326492,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 249280,
+        "num": 249280,
+        "word": "孙颖莎3比0李时温",
+        "onboard_time": 1710332552,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244203,
+        "num": 244203,
+        "word": "宋家三胞胎12岁了",
+        "onboard_time": 1710326313,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231823,
+        "num": 231823,
+        "word": "山东泰山亚冠出局",
+        "onboard_time": 1710332013,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219802,
+        "num": 219802,
+        "word": "横滨水手1比0山东泰山",
+        "onboard_time": 1710331474,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211321,
+        "num": 211321,
+        "word": "阿沁老婆涉毒被捕",
+        "onboard_time": 1710314494,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201232,
+        "num": 201232,
+        "word": "AG谁是你的天菜",
+        "onboard_time": 1710333693,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187401,
+        "num": 187401,
+        "word": "杨超越女友感",
+        "onboard_time": 1710331895,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187218,
+        "num": 187218,
+        "word": "王楚钦3比0高承睿",
+        "onboard_time": 1710330573,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184476,
+        "num": 184476,
+        "word": "TES晋级春季赛季后赛",
+        "onboard_time": 1710332314,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175703,
+        "num": 175703,
+        "word": "男生美甲",
+        "onboard_time": 1710331113,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 175534,
+        "num": 175534,
+        "word": "五粮液声明称没在拼多多开设官方店",
+        "onboard_time": 1710333573,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 173545,
+        "num": 173545,
+        "word": "玻璃蛙的腹部几乎全透明",
+        "onboard_time": 1710325893,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168940,
+        "num": 168940,
+        "word": "丁程鑫校园剧男主",
+        "onboard_time": 1710329072,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168014,
+        "num": 168014,
+        "word": "缅甸800余名中国籍涉赌诈人员被遣返",
+        "onboard_time": 1710324510,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162501,
+        "num": 162501,
+        "word": "确诊绝症后的第一条消息你会发给谁",
+        "onboard_time": 1710330092,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160216,
+        "num": 160216,
+        "word": "鸡公煲教程",
+        "onboard_time": 1710332794,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159051,
+        "num": 159051,
+        "word": "为什么上吴兴涵",
+        "onboard_time": 1710332854,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150048,
+        "num": 150048,
+        "word": "凯特",
+        "onboard_time": 1710333755,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 142008,
+        "num": 142008,
+        "word": "多地九价HPV来了就能打",
+        "onboard_time": 1710325473,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141587,
+        "num": 141587,
+        "word": "烈焰",
+        "onboard_time": 1710329193,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135338,
+        "num": 135338,
+        "word": "央视记者",
+        "onboard_time": 1710333872,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134570,
+        "num": 134570,
+        "word": "沙丘导演收到十三香和老干妈",
+        "onboard_time": 1710333933,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133966,
+        "num": 133966,
+        "word": "赵丽颖林更新楚乔传预告",
+        "onboard_time": 1710328293,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131918,
+        "num": 131918,
+        "word": "RNG终结八连败",
+        "onboard_time": 1710333272,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131247,
+        "num": 131247,
+        "word": "书亦烧仙草被点名饮品已改名",
+        "onboard_time": 1710333813,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121424,
+        "num": 121424,
+        "word": "Q币结算工资",
+        "onboard_time": 1710333933,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把职业教育发展好要树立工匠精神#"
+    }
+  }
+}
