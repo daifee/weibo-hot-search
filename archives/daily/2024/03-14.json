@@ -1,6 +1,6 @@
 {
   "startTime": 1710346860842,
-  "endTime": 1710351251562,
+  "endTime": 1710354064766,
   "band_list": [
     {
       "raw_hot": 1678525,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48401,
+      "num": 48401,
+      "word": "色汗症是什么",
+      "onboard_time": 1710352098,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 40017,
       "num": 48505,
       "word": "2024PEL春季赛",
@@ -465,6 +473,14 @@
       "onboard_time": 1710333872,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23018,
+      "num": 23018,
+      "word": "2024全英羽毛球公开赛",
+      "onboard_time": 1710351439,
+      "rank": 49,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
