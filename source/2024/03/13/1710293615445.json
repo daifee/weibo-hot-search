@@ -1,0 +1,410 @@
+{
+  "runTime": 1710293615445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4130838,
+        "num": 4130838,
+        "word": "燕郊爆炸",
+        "onboard_time": 1710290554,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1954680,
+        "num": 1954680,
+        "word": "官方回应燕郊镇发生爆炸",
+        "onboard_time": 1710292771,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95380,
+        "num": 1305743,
+        "word": "2024年民生工作三大重点",
+        "onboard_time": 1710248193,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1150647,
+        "num": 1150647,
+        "word": "国乒爆冷",
+        "onboard_time": 1710292771,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1142770,
+        "num": 1142770,
+        "word": "朱珠产后瘦了近50斤",
+        "onboard_time": 1710288631,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1085477,
+        "num": 1085477,
+        "word": "中通快递",
+        "onboard_time": 1710292114,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846610,
+        "num": 846610,
+        "word": "纪凌尘 脏脏包",
+        "onboard_time": 1710289834,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 814766,
+        "num": 814766,
+        "word": "新冠疫情使全球平均寿命缩短了1.6年",
+        "onboard_time": 1710288389,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 736444,
+        "num": 736444,
+        "word": "章子怡怒怼网友",
+        "onboard_time": 1710285745,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 664585,
+        "num": 664585,
+        "word": "波音吹哨人突然死亡",
+        "onboard_time": 1710288812,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650740,
+        "num": 650740,
+        "word": "大叔坐火车一整天只吃一根萝卜",
+        "onboard_time": 1710287006,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524237,
+        "num": 524237,
+        "word": "拜登锁定美国总统候选人提名",
+        "onboard_time": 1710287430,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 515959,
+        "num": 515959,
+        "word": "英伟达市值一夜飙涨1.1万亿",
+        "onboard_time": 1710289895,
+        "rank": 12,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 416100,
+        "num": 416100,
+        "word": "因为自卑对男朋友隐瞒了家庭条件",
+        "onboard_time": 1710251614,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 395373,
+        "num": 395373,
+        "word": "肖战工作室还让不让人睡",
+        "onboard_time": 1710254372,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 378099,
+        "num": 378099,
+        "word": "朱梓骁悬着的心终于死了",
+        "onboard_time": 1710254911,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362007,
+        "num": 362007,
+        "word": "许嵩好浪漫",
+        "onboard_time": 1710289776,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 344552,
+        "num": 344552,
+        "word": "酱园弄杀青宴",
+        "onboard_time": 1710288693,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 343290,
+        "num": 343290,
+        "word": "某爆款短剧承制方盈利不足100万",
+        "onboard_time": 1710292837,
+        "rank": 18,
+        "category": "社会新闻,剧集"
+      },
+      {
+        "raw_hot": 338326,
+        "num": 338326,
+        "word": "陈乔恩13天没吃碳水",
+        "onboard_time": 1710256414,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503231,
+        "num": 337990,
+        "word": "女子为护肤1个月不洗脸致满脸结痂",
+        "onboard_time": 1710286705,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 317673,
+        "num": 317673,
+        "word": "坚持21天把肾气全补回来",
+        "onboard_time": 1710281117,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 285332,
+        "num": 285332,
+        "word": "王楚钦重回男单世界第一",
+        "onboard_time": 1710293071,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273895,
+        "num": 273895,
+        "word": "医师劝阻100斤要做减重手术的人",
+        "onboard_time": 1710292837,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273809,
+        "num": 273809,
+        "word": "满舒克前女友再发博",
+        "onboard_time": 1710254193,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225979,
+        "num": 225979,
+        "word": "知情人称TikTok或采取全面法律行动",
+        "onboard_time": 1710292893,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 221837,
+        "num": 221837,
+        "word": "点读机女孩事件最高可处3年有期徒刑",
+        "onboard_time": 1710240513,
+        "rank": 26,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 221104,
+        "num": 221104,
+        "word": "钟薛高总部研发区域空无一人",
+        "onboard_time": 1710293071,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218500,
+        "num": 218500,
+        "word": "从不运动和坚持运动的人差别有多大",
+        "onboard_time": 1710292837,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 218175,
+        "num": 218175,
+        "word": "素媛案强奸犯擅自外出",
+        "onboard_time": 1710236253,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213773,
+        "num": 213773,
+        "word": "工资低又经常熬夜的工作",
+        "onboard_time": 1710256292,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211853,
+        "num": 211853,
+        "word": "胖东来回应开通线上百货",
+        "onboard_time": 1710288273,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 204293,
+        "num": 204293,
+        "word": "39元瑞士卷被黄牛炒到120元",
+        "onboard_time": 1710293192,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199132,
+        "num": 199132,
+        "word": "走吧你跟有病似的",
+        "onboard_time": 1710252091,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194942,
+        "num": 194942,
+        "word": "直播间捧哏不是只会喊321上链接",
+        "onboard_time": 1710293312,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183426,
+        "num": 183426,
+        "word": "纪凌尘撕名牌",
+        "onboard_time": 1710251855,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181373,
+        "num": 181373,
+        "word": "WTT",
+        "onboard_time": 1710291393,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174991,
+        "num": 174991,
+        "word": "宁静终于从撕伞人成长为撑伞人",
+        "onboard_time": 1710277156,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165392,
+        "num": 165392,
+        "word": "最有反差感的星座",
+        "onboard_time": 1710286888,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163563,
+        "num": 163563,
+        "word": "没有出轨劈腿的爱情片",
+        "onboard_time": 1710287130,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161139,
+        "num": 161139,
+        "word": "粉丝称被网红家人骗走百万",
+        "onboard_time": 1710262822,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160922,
+        "num": 160922,
+        "word": "考研失败办考研辅导班赚钱翻身",
+        "onboard_time": 1710256711,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160509,
+        "num": 160509,
+        "word": "世界之外维护",
+        "onboard_time": 1710292771,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158944,
+        "num": 158944,
+        "word": "接近银行人士回应12家银行为万科筹资800亿",
+        "onboard_time": 1710290195,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 158638,
+        "num": 158638,
+        "word": "导师为了让知识进我的脑子有努力",
+        "onboard_time": 1710292837,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152591,
+        "num": 152591,
+        "word": "点读机女孩事件",
+        "onboard_time": 1710288872,
+        "rank": 45,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 151386,
+        "num": 151386,
+        "word": "这届年轻人真的不想生吗",
+        "onboard_time": 1710293552,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149653,
+        "num": 149653,
+        "word": "美一架波音777液压油泄漏仍爬升",
+        "onboard_time": 1710289534,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147887,
+        "num": 147887,
+        "word": "金智媛可爱了好多年",
+        "onboard_time": 1710287911,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141538,
+        "num": 141538,
+        "word": "凯特王妃",
+        "onboard_time": 1710255935,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建以先进制造业为骨干的现代化产业体系#"
+    }
+  }
+}
