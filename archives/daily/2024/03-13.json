@@ -1,6 +1,6 @@
 {
   "startTime": 1710260540441,
-  "endTime": 1710318857675,
+  "endTime": 1710321498208,
   "band_list": [
     {
       "raw_hot": 6964861,
@@ -41,6 +41,14 @@
       "onboard_time": 1710311371,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2302913,
+      "num": 2302913,
+      "word": "迪丽热巴春晚摔骨裂",
+      "onboard_time": 1710318154,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2039993,
@@ -112,6 +120,22 @@
       "word": "钟睒睒之母郭瑾离世",
       "onboard_time": 1710300873,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1237530,
+      "num": 1237530,
+      "word": "减肥20%靠运动80%靠饮食",
+      "onboard_time": 1710316834,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 1207923,
+      "num": 1207923,
+      "word": "女子过年买金仅一月小赚近1万",
+      "onboard_time": 1710319534,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -201,14 +225,6 @@
       "onboard_time": 1710285745,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 934965,
-      "num": 934965,
-      "word": "迪丽热巴春晚摔骨裂",
-      "onboard_time": 1710318154,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 890244,
@@ -411,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 556111,
-      "num": 556111,
-      "word": "减肥20%靠运动80%靠饮食",
-      "onboard_time": 1710316834,
-      "rank": 20,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 550509,
       "num": 337990,
       "word": "女子为护肤1个月不洗脸致满脸结痂",
@@ -449,6 +457,14 @@
       "onboard_time": 1710249874,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 507826,
+      "num": 507826,
+      "word": "阿沁回应妻子涉毒",
+      "onboard_time": 1710319415,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 500406,
@@ -529,6 +545,14 @@
       "onboard_time": 1710256292,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 443506,
+      "num": 443506,
+      "word": "黄子弘凡浙工商",
+      "onboard_time": 1710317734,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 442883,
@@ -665,14 +689,6 @@
       "onboard_time": 1710298891,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 375334,
-      "num": 375334,
-      "word": "黄子弘凡浙工商",
-      "onboard_time": 1710317734,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 359999,
@@ -923,6 +939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 277842,
+      "num": 277842,
+      "word": "阿沁 我们会一起面对",
+      "onboard_time": 1710319717,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270267,
       "num": 270267,
       "word": "高校回应疑有学生赤身裸体去上课",
@@ -1083,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243711,
+      "num": 243711,
+      "word": "读大学就是一场巨大的追星",
+      "onboard_time": 1710319534,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241701,
       "num": 241701,
       "word": "宁静终于从撕伞人成长为撑伞人",
@@ -1187,6 +1219,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 211095,
+      "num": 211095,
+      "word": "体检查出这15种毛病别慌",
+      "onboard_time": 1710318812,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 210329,
       "num": 210329,
       "word": "考研自划线",
@@ -1201,6 +1241,14 @@
       "onboard_time": 1710310473,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 209166,
+      "num": 209166,
+      "word": "檀健次回应be是自己的舒适区",
+      "onboard_time": 1710321034,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 208439,
@@ -1403,6 +1451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 189211,
+      "num": 189211,
+      "word": "山东泰山首发",
+      "onboard_time": 1710318812,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188822,
       "num": 203437,
       "word": "经常剪头发不会长得更快",
@@ -1531,6 +1587,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170739,
+      "num": 170739,
+      "word": "浪姐演唱会",
+      "onboard_time": 1710319353,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170553,
+      "num": 170553,
+      "word": "与凤行特效",
+      "onboard_time": 1710321334,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170175,
       "num": 170175,
       "word": "巴萨3比1那不勒斯",
@@ -1569,6 +1641,14 @@
       "onboard_time": 1710317132,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166154,
+      "num": 166154,
+      "word": "大侦探嘿嘿嘿侦探社售后",
+      "onboard_time": 1710320554,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 164593,
@@ -1643,20 +1723,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158514,
+      "num": 158514,
+      "word": "逆水寒莲花楼联动",
+      "onboard_time": 1710315636,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158190,
       "num": 158190,
       "word": "4只野生东北虎现身村民家门口",
       "onboard_time": 1710293973,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157955,
-      "num": 157955,
-      "word": "逆水寒莲花楼联动",
-      "onboard_time": 1710315636,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 157754,
@@ -1689,6 +1769,14 @@
       "onboard_time": 1710249277,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152544,
+      "num": 158566,
+      "word": "山东泰山vs横滨水手",
+      "onboard_time": 1710320137,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 152437,
@@ -1747,6 +1835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141971,
+      "num": 141971,
+      "word": "做饭最忌灵机一动",
+      "onboard_time": 1710321334,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 140286,
       "num": 140286,
       "word": "马嘉祺新综艺路透",
@@ -1761,6 +1857,14 @@
       "onboard_time": 1710245253,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135457,
+      "num": 135457,
+      "word": "克雷桑复出",
+      "onboard_time": 1710321334,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 134133,
@@ -1795,20 +1899,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 131042,
-      "num": 131042,
-      "word": "山东泰山首发",
-      "onboard_time": 1710318812,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130887,
       "num": 113633,
       "word": "焉栩嘉 不用了谢谢",
       "onboard_time": 1710243214,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 130867,
+      "num": 130867,
+      "word": "鹿晗工作室太皮了",
+      "onboard_time": 1710320854,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 130505,
@@ -1857,6 +1961,14 @@
       "onboard_time": 1710315514,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126316,
+      "num": 126316,
+      "word": "春招",
+      "onboard_time": 1710321272,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 124584,
@@ -1940,7 +2052,7 @@
     },
     {
       "raw_hot": 115490,
-      "num": 950275,
+      "num": 1251648,
       "word": "发展新质生产力的核心要素",
       "onboard_time": 1710316114,
       "rank": 2,
@@ -1993,14 +2105,6 @@
       "onboard_time": 1710230912,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103845,
-      "num": 103845,
-      "word": "体检查出这15种毛病别慌",
-      "onboard_time": 1710318812,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 102331,

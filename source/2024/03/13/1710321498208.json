@@ -1,0 +1,410 @@
+{
+  "runTime": 1710321498208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2302913,
+        "num": 2302913,
+        "word": "迪丽热巴春晚摔骨裂",
+        "onboard_time": 1710318154,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1315333,
+        "num": 1315333,
+        "word": "阿沁老婆涉毒被捕",
+        "onboard_time": 1710314494,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91741,
+        "num": 1251648,
+        "word": "发展新质生产力的核心要素",
+        "onboard_time": 1710316114,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1237530,
+        "num": 1237530,
+        "word": "减肥20%靠运动80%靠饮食",
+        "onboard_time": 1710316834,
+        "rank": 3,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 1207923,
+        "num": 1207923,
+        "word": "女子过年买金仅一月小赚近1万",
+        "onboard_time": 1710319534,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807060,
+        "num": 807060,
+        "word": "吴艳妮8秒11夺冠",
+        "onboard_time": 1710317433,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 745492,
+        "num": 745492,
+        "word": "燕郊爆炸已致2死26伤",
+        "onboard_time": 1710308552,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531674,
+        "num": 531674,
+        "word": "爱奇艺腾讯优酷卷起来了",
+        "onboard_time": 1710312030,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 507826,
+        "num": 507826,
+        "word": "阿沁回应妻子涉毒",
+        "onboard_time": 1710319415,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443506,
+        "num": 443506,
+        "word": "黄子弘凡浙工商",
+        "onboard_time": 1710317734,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472934,
+        "num": 434104,
+        "word": "黄雅莉生子",
+        "onboard_time": 1710310893,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407834,
+        "num": 407834,
+        "word": "月薪15000住家阿姨的一天",
+        "onboard_time": 1710309272,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 402344,
+        "num": 402344,
+        "word": "中国C919飞机在美降落时发生事故真相",
+        "onboard_time": 1710312632,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385252,
+        "num": 385252,
+        "word": "阚清子",
+        "onboard_time": 1710311311,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 374824,
+        "num": 374824,
+        "word": "燕郊炸鸡店爆燃后4层楼体坍塌",
+        "onboard_time": 1710301057,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335059,
+        "num": 335059,
+        "word": "朋友圈发这些可能会被封号",
+        "onboard_time": 1710302554,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 283027,
+        "num": 283027,
+        "word": "吴昕的裙子是蓝色还是绿色",
+        "onboard_time": 1710312993,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277842,
+        "num": 277842,
+        "word": "阿沁 我们会一起面对",
+        "onboard_time": 1710319717,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275092,
+        "num": 275092,
+        "word": "TikTok开始反击",
+        "onboard_time": 1710310473,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 274163,
+        "num": 274163,
+        "word": "国台办回应今年政府工作报告没提和平统一",
+        "onboard_time": 1710316295,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 248508,
+        "num": 248508,
+        "word": "黄晓明肚子",
+        "onboard_time": 1710307111,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243711,
+        "num": 243711,
+        "word": "读大学就是一场巨大的追星",
+        "onboard_time": 1710319534,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241073,
+        "num": 241073,
+        "word": "凯特王妃到底去哪儿了",
+        "onboard_time": 1710310535,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 218518,
+        "num": 218518,
+        "word": "林俊杰抢票",
+        "onboard_time": 1710317614,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211095,
+        "num": 211095,
+        "word": "体检查出这15种毛病别慌",
+        "onboard_time": 1710318812,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210567,
+        "num": 210567,
+        "word": "喝水后的4个异常或为肾在求救",
+        "onboard_time": 1710307294,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209166,
+        "num": 209166,
+        "word": "檀健次回应be是自己的舒适区",
+        "onboard_time": 1710321034,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189211,
+        "num": 189211,
+        "word": "山东泰山首发",
+        "onboard_time": 1710318812,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179003,
+        "num": 179003,
+        "word": "蒋勤勤你这样我有点害怕了",
+        "onboard_time": 1710316953,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177471,
+        "num": 177471,
+        "word": "直击燕郊爆炸救援现场",
+        "onboard_time": 1710300335,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170739,
+        "num": 170739,
+        "word": "浪姐演唱会",
+        "onboard_time": 1710319353,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170553,
+        "num": 170553,
+        "word": "与凤行特效",
+        "onboard_time": 1710321334,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166154,
+        "num": 166154,
+        "word": "大侦探嘿嘿嘿侦探社售后",
+        "onboard_time": 1710320554,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161743,
+        "num": 161743,
+        "word": "阿沁老婆患厌食症",
+        "onboard_time": 1710317374,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161181,
+        "num": 161181,
+        "word": "考研自划线",
+        "onboard_time": 1710317614,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158850,
+        "num": 158850,
+        "word": "苹果是水果界馒头吗",
+        "onboard_time": 1710312030,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152544,
+        "num": 158566,
+        "word": "山东泰山vs横滨水手",
+        "onboard_time": 1710320137,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158514,
+        "num": 158514,
+        "word": "逆水寒莲花楼联动",
+        "onboard_time": 1710315636,
+        "rank": 37,
+        "category": "游戏,剧集"
+      },
+      {
+        "raw_hot": 148378,
+        "num": 148378,
+        "word": "网友用AI复活李玟",
+        "onboard_time": 1710308794,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142133,
+        "num": 142133,
+        "word": "肖战表情梦回魏无羡",
+        "onboard_time": 1710309993,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141971,
+        "num": 141971,
+        "word": "做饭最忌灵机一动",
+        "onboard_time": 1710321334,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135457,
+        "num": 135457,
+        "word": "克雷桑复出",
+        "onboard_time": 1710321334,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135919,
+        "num": 135073,
+        "word": "玲娜贝儿 头之大婚纱当头纱都装不下",
+        "onboard_time": 1710314074,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 134545,
+        "num": 134545,
+        "word": "内娱有自己统治区的演员",
+        "onboard_time": 1710317132,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133760,
+        "num": 133760,
+        "word": "为什么领导很少请病假",
+        "onboard_time": 1710303457,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130867,
+        "num": 130867,
+        "word": "鹿晗工作室太皮了",
+        "onboard_time": 1710320854,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130327,
+        "num": 130327,
+        "word": "高校回应疑有学生赤身裸体去上课",
+        "onboard_time": 1710312513,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126316,
+        "num": 126316,
+        "word": "春招",
+        "onboard_time": 1710321272,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126045,
+        "num": 126045,
+        "word": "一个月减重4到8斤比较合理",
+        "onboard_time": 1710306693,
+        "rank": 48,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 122962,
+        "num": 122962,
+        "word": "终于知道蒜苔为什么那么贵了",
+        "onboard_time": 1710307892,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把职业教育发展好要树立工匠精神#"
+    }
+  }
+}
