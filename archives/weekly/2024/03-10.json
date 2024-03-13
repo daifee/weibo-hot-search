@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710347760083,
+  "endTime": 1710350209730,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -649,6 +649,14 @@
       "onboard_time": 1710040108,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1219190,
+      "num": 1219190,
+      "word": "千万别再关灯玩手机了",
+      "onboard_time": 1710343774,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1210265,
@@ -1737,14 +1745,6 @@
       "onboard_time": 1710294573,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 699049,
-      "num": 699049,
-      "word": "千万别再关灯玩手机了",
-      "onboard_time": 1710343774,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 697970,
@@ -4113,6 +4113,14 @@
       "onboard_time": 1709990793,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336668,
+      "num": 336668,
+      "word": "潘博文",
+      "onboard_time": 1710347906,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 336667,
@@ -11595,6 +11603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 61828,
+      "num": 61828,
+      "word": "邢菲新戏演技",
+      "onboard_time": 1710349821,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61657,
       "num": 304403,
       "word": "中国2024年国防费预算增长7.2%",
@@ -11763,6 +11779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44856,
+      "num": 48810,
+      "word": "粥饼伦称不想让孩子再过苦日子",
+      "onboard_time": 1710349703,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44453,
       "num": 959649,
       "word": "两会中国经济问答",
@@ -11801,6 +11825,14 @@
       "onboard_time": 1709984253,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40017,
+      "num": 48505,
+      "word": "2024PEL春季赛",
+      "onboard_time": 1710350120,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 39603,
