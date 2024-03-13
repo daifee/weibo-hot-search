@@ -1,6 +1,6 @@
 {
   "startTime": 1710346860842,
-  "endTime": 1710368220971,
+  "endTime": 1710369239606,
   "band_list": [
     {
       "raw_hot": 1678525,
@@ -33,6 +33,14 @@
       "onboard_time": 1710342093,
       "rank": 10,
       "category": "国外时政,互联网"
+    },
+    {
+      "raw_hot": 553822,
+      "num": 163499,
+      "word": "燕郊爆燃事故致7死27伤",
+      "onboard_time": 1710356418,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 535084,
@@ -81,14 +89,6 @@
       "onboard_time": 1710331774,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 382752,
-      "num": 87553,
-      "word": "燕郊爆燃事故致7死27伤",
-      "onboard_time": 1710356418,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 371197,
@@ -161,6 +161,14 @@
       "onboard_time": 1710345211,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233484,
+      "num": 233484,
+      "word": "阿姨卖夹饼90度敞开往里塞肉",
+      "onboard_time": 1710357257,
+      "rank": 33,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 228527,
@@ -249,14 +257,6 @@
       "onboard_time": 1710343058,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 158372,
-      "num": 158372,
-      "word": "阿姨卖夹饼90度敞开往里塞肉",
-      "onboard_time": 1710357257,
-      "rank": 33,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 148690,
@@ -363,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100230,
+      "num": 68437,
+      "word": "粥饼伦称不想让孩子再过苦日子",
+      "onboard_time": 1710349703,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97168,
       "num": 97168,
       "word": "EDG季后赛生死战",
@@ -427,14 +435,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 83318,
-      "num": 68437,
-      "word": "粥饼伦称不想让孩子再过苦日子",
-      "onboard_time": 1710349703,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80817,
       "num": 80817,
       "word": "阿沁老婆涉毒被捕",
@@ -456,6 +456,14 @@
       "word": "邢菲新戏演技",
       "onboard_time": 1710349821,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 52009,
+      "num": 52009,
+      "word": "任嘉伦观众缘",
+      "onboard_time": 1710366796,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -483,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35636,
+      "num": 35636,
+      "word": "减肥版司美格鲁肽未在我国获批",
+      "onboard_time": 1710362955,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 34589,
       "num": 34589,
       "word": "WBG对战EDG",
@@ -491,20 +507,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 31177,
-      "num": 31177,
-      "word": "任嘉伦观众缘",
-      "onboard_time": 1710366796,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 30805,
-      "num": 30805,
-      "word": "减肥版司美格鲁肽未在我国获批",
-      "onboard_time": 1710362955,
-      "rank": 45,
-      "category": "健康医疗"
+      "raw_hot": 33781,
+      "num": 33781,
+      "word": "燕郊爆炸事故现场视频",
+      "onboard_time": 1710364995,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29763,
@@ -513,14 +521,6 @@
       "onboard_time": 1710333872,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 28832,
-      "num": 28832,
-      "word": "燕郊爆炸事故现场视频",
-      "onboard_time": 1710364995,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23018,
@@ -539,6 +539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20260,
+      "num": 21429,
+      "word": "檀健次片场碎片",
+      "onboard_time": 1710363015,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19851,
       "num": 19851,
       "word": "林一周也默契感",
@@ -553,14 +561,6 @@
       "onboard_time": 1710356237,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 18522,
-      "num": 20839,
-      "word": "檀健次片场碎片",
-      "onboard_time": 1710363015,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 13745,
