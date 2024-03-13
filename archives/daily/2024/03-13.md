@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/03/13 00:22:20 ~ 2024/03/13 10:36:02
+本榜单时间：2024/03/13 00:22:20 ~ 2024/03/13 11:19:41
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B41%E6%AD%BB22%E4%BC%A4%23" target="weibo">
+河北燕郊爆炸已致1死22伤（热度：6964861）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%87%95%E9%83%8A%E9%95%87%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23" target="weibo">
@@ -99,6 +105,12 @@ Dior事件后马面裙卖疯了（热度：2039993）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%23" target="weibo">
+甘肃天水麻辣烫（热度：832079）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%94%E5%9D%90%E7%81%AB%E8%BD%A6%E4%B8%80%E6%95%B4%E5%A4%A9%E5%8F%AA%E5%90%83%E4%B8%80%E6%A0%B9%E8%90%9D%E5%8D%9C%23" target="weibo">
 大叔坐火车一整天只吃一根萝卜（热度：799981）
 </a>
@@ -153,6 +165,12 @@ Dior事件后马面裙卖疯了（热度：2039993）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E6%9C%89%E5%91%98%E5%B7%A5%E7%A7%B0%E5%B7%B2%E6%95%B0%E6%9C%88%E6%9C%AA%E9%A2%86%E5%88%B0%E5%B7%A5%E8%B5%84%23" target="weibo">
+钟薛高有员工称已数月未领到工资（热度：566341）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B4%A0%E5%AA%9B%E6%A1%88%E5%BC%BA%E5%A5%B8%E7%8A%AF%E6%93%85%E8%87%AA%E5%A4%96%E5%87%BA%23" target="weibo">
 素媛案强奸犯擅自外出（热度：560004）
 </a>
@@ -177,6 +195,12 @@ Dior事件后马面裙卖疯了（热度：2039993）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E8%99%8E%E4%BA%B2%E4%BA%86%E9%99%88%E6%9B%8C%E6%97%AD%23" target="weibo">
+陆虎亲了陈曌旭（热度：500406）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%90%E7%88%86%E6%AC%BE%E7%9F%AD%E5%89%A7%E6%89%BF%E5%88%B6%E6%96%B9%E7%9B%88%E5%88%A9%E4%B8%8D%E8%B6%B3100%E4%B8%87%23" target="weibo">
 某爆款短剧承制方盈利不足100万（热度：498508）
 </a>
@@ -189,12 +213,6 @@ Dior事件后马面裙卖疯了（热度：2039993）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E6%9C%89%E5%91%98%E5%B7%A5%E7%A7%B0%E5%B7%B2%E6%95%B0%E6%9C%88%E6%9C%AA%E9%A2%86%E5%88%B0%E5%B7%A5%E8%B5%84%23" target="weibo">
-钟薛高有员工称已数月未领到工资（热度：476863）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B0%E5%90%A7%E4%BD%A0%E8%B7%9F%E6%9C%89%E7%97%85%E4%BC%BC%E7%9A%84%23" target="weibo">
 走吧你跟有病似的（热度：474843）
 </a>
@@ -203,6 +221,12 @@ Dior事件后马面裙卖疯了（热度：2039993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B2%89%E4%B8%9D%E7%A7%B0%E8%A2%AB%E7%BD%91%E7%BA%A2%E5%AE%B6%E4%BA%BA%E9%AA%97%E8%B5%B0%E7%99%BE%E4%B8%87%23" target="weibo">
 粉丝称被网红家人骗走百万（热度：461696）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E7%96%91%E4%B8%BA%E7%87%83%E6%B0%94%E7%88%86%E7%82%B8%23" target="weibo">
+燕郊爆炸疑为燃气爆炸（热度：454320）
 </a>
 </li>
 
@@ -255,6 +279,18 @@ Dior事件后马面裙卖疯了（热度：2039993）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E9%97%B4%E4%BB%A4%23" target="weibo">
+花间令（热度：375745）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%8C%E8%96%84%E4%BA%86%E7%9C%9F%E7%9A%84%E6%98%BE%E5%B9%B4%E8%BD%BB%23" target="weibo">
+背薄了真的显年轻（热度：367480）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%83%B3%E7%94%9F%E5%90%97%23" target="weibo">
 这届年轻人真的不想生吗（热度：357637）
 </a>
@@ -267,14 +303,14 @@ Dior事件后马面裙卖疯了（热度：2039993）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%23" target="weibo">
-甘肃天水麻辣烫（热度：344276）
+<a href="https://s.weibo.com/weibo?q=%23%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E8%87%B4%E5%A4%9A%E5%90%8D%E8%BF%87%E8%B7%AF%E5%8F%B8%E6%9C%BA%E5%8F%97%E4%BC%A4%23" target="weibo">
+燕郊爆炸致多名过路司机受伤（热度：337551）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E8%87%B4%E5%A4%9A%E5%90%8D%E8%BF%87%E8%B7%AF%E5%8F%B8%E6%9C%BA%E5%8F%97%E4%BC%A4%23" target="weibo">
-燕郊爆炸致多名过路司机受伤（热度：337551）
+<a href="https://s.weibo.com/weibo?q=%23%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E5%BB%BA%E7%AD%91%E5%86%85%E6%9C%89%E6%8B%9B%E5%BE%85%E6%89%80%23" target="weibo">
+燕郊爆炸建筑内有招待所（热度：331356）
 </a>
 </li>
 
@@ -287,6 +323,18 @@ Dior事件后马面裙卖疯了（热度：2039993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%E5%BC%80%E9%97%A8%23" target="weibo">
 原神开门（热度：319595）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E5%BA%94%E6%80%A5%E5%8E%85%E6%B4%BE%E5%B7%A5%E4%BD%9C%E7%BB%84%E6%8C%87%E5%AF%BC%E7%87%95%E9%83%8A%E6%95%91%E6%8F%B4%23" target="weibo">
+河北应急厅派工作组指导燕郊救援（热度：317903）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%88%E7%84%B0%E7%A9%BA%E9%99%8D%23" target="weibo">
+烈焰空降（热度：316961）
 </a>
 </li>
 
@@ -305,6 +353,12 @@ Dior事件后马面裙卖疯了（热度：2039993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E6%9C%80%E6%96%B0%E5%A6%86%E9%80%A0%23" target="weibo">
 赵今麦最新妆造（热度：303173）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E4%BC%BC%E5%BE%88%E8%88%92%E6%9C%8D%E5%85%B6%E5%AE%9E%E5%BE%88%E4%BC%A4%E8%BA%AB%E4%BD%93%E7%9A%84%E8%A1%8C%E4%B8%BA%23" target="weibo">
+看似很舒服其实很伤身体的行为（热度：300329）
 </a>
 </li>
 
@@ -333,6 +387,12 @@ Dior事件后马面裙卖疯了（热度：2039993）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Dior%E9%A9%AC%E9%9D%A2%E8%A3%99%E4%BA%8B%E4%BB%B6%23" target="weibo">
+Dior马面裙事件（热度：263825）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%84%E9%9B%95%23" target="weibo">
 射雕（热度：260045）
 </a>
@@ -357,8 +417,20 @@ WTT（热度：252134）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%88%91%E4%B8%8D%E6%98%AF%E5%B0%8F%E5%AD%A9%E5%AD%90%E4%BA%86%23" target="weibo">
+王源我不是小孩子了（热度：248709）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94%E5%BC%80%E9%80%9A%E7%BA%BF%E4%B8%8A%E7%99%BE%E8%B4%A7%23" target="weibo">
 胖东来回应开通线上百货（热度：245687）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E7%A7%8D%E5%9C%B0%E5%90%A72%E5%AE%9A%E6%A1%A3%23" target="weibo">
+江苏卫视种地吧2定档（热度：243994）
 </a>
 </li>
 
@@ -381,18 +453,6 @@ WTT（热度：252134）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E7%A7%8D%E5%9C%B0%E5%90%A72%E5%AE%9A%E6%A1%A3%23" target="weibo">
-江苏卫视种地吧2定档（热度：233884）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E4%BC%BC%E5%BE%88%E8%88%92%E6%9C%8D%E5%85%B6%E5%AE%9E%E5%BE%88%E4%BC%A4%E8%BA%AB%E4%BD%93%E7%9A%84%E8%A1%8C%E4%B8%BA%23" target="weibo">
-看似很舒服其实很伤身体的行为（热度：230479）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0TikTok%E6%88%96%E9%87%87%E5%8F%96%E5%85%A8%E9%9D%A2%E6%B3%95%E5%BE%8B%E8%A1%8C%E5%8A%A8%23" target="weibo">
 知情人称TikTok或采取全面法律行动（热度：225979）
 </a>
@@ -405,8 +465,8 @@ WTT（热度：252134）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%83%88%E7%84%B0%E7%A9%BA%E9%99%8D%23" target="weibo">
-烈焰空降（热度：214807）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E4.5%23" target="weibo">
+原神4.5（热度：218077）
 </a>
 </li>
 
@@ -423,8 +483,8 @@ WTT（热度：252134）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E4.5%23" target="weibo">
-原神4.5（热度：211246）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E9%A9%B0CEO%E5%91%BC%E5%90%81%E6%AC%A7%E7%9B%9F%E9%99%8D%E4%BD%8E%E5%AF%B9%E5%8D%8E%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%85%B3%E7%A8%8E%23" target="weibo">
+奔驰CEO呼吁欧盟降低对华电动车关税（热度：210448）
 </a>
 </li>
 
@@ -459,6 +519,12 @@ A股（热度：207073）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23RIIZE%E6%88%90%E4%B8%BA%E9%93%B6%E8%A1%8C%E5%B9%BF%E5%91%8A%E6%A8%A1%E7%89%B9%23" target="weibo">
+RIIZE成为银行广告模特（热度：198061）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Xiaohao%E7%BC%BA%E5%B8%ADWBG%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95%23" target="weibo">
 Xiaohao缺席WBG首发名单（热度：197179）
 </a>
@@ -479,6 +545,12 @@ Xiaohao缺席WBG首发名单（热度：197179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%99%E7%82%B9%E8%AF%BB%E6%9C%BA%E5%A5%B3%E5%AD%A9%E8%BD%AC%E6%AC%BE1%E4%B8%87%E5%85%83%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0%23" target="weibo">
 给点读机女孩转款1万元当事人发声（热度：194527）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%88%E7%84%B0%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23" target="weibo">
+烈焰今日开播（热度：192157）
 </a>
 </li>
 
@@ -539,6 +611,12 @@ Xiaohao缺席WBG首发名单（热度：197179）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%90%A83%E6%AF%941%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF%23" target="weibo">
 巴萨3比1那不勒斯（热度：170175）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%B0%88%E8%BE%93%E7%90%83%E6%98%AF%E6%AD%A3%E5%B8%B8%E4%B8%94%E8%89%AF%E6%80%A7%E7%9A%84%E7%AB%9E%E4%BA%89%23" target="weibo">
+樊振东谈输球是正常且良性的竞争（热度：169414）
 </a>
 </li>
 
@@ -604,7 +682,7 @@ Xiaohao缺席WBG首发名单（热度：197179）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%80%E6%9D%91%E5%BA%8430%E4%B8%87%E6%A0%AA%E9%83%81%E9%87%91%E9%A6%99%E7%9B%9B%E5%BC%80%23" target="weibo">
-浙江一村庄30万株郁金香盛开（热度：151949）
+浙江一村庄30万株郁金香盛开（热度：152437）
 </a>
 </li>
 

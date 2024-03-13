@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710297362357,
+  "endTime": 1710299981182,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -9,6 +9,14 @@
       "onboard_time": 1710231810,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 6964861,
+      "num": 6964861,
+      "word": "河北燕郊爆炸已致1死22伤",
+      "onboard_time": 1710298234,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4703483,
@@ -1043,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 832079,
+      "num": 832079,
+      "word": "甘肃天水麻辣烫",
+      "onboard_time": 1710295892,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 824704,
       "num": 822656,
       "word": "香港双婴尸案今日提堂",
@@ -1907,6 +1923,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 566341,
+      "num": 566341,
+      "word": "钟薛高有员工称已数月未领到工资",
+      "onboard_time": 1710294212,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564622,
       "num": 564622,
       "word": "接下来一个月浙江人的早饭",
@@ -2267,6 +2291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 500406,
+      "num": 500406,
+      "word": "陆虎亲了陈曌旭",
+      "onboard_time": 1710297869,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 498532,
       "num": 498532,
       "word": "杨紫 生命树",
@@ -2427,14 +2459,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 476863,
-      "num": 401824,
-      "word": "钟薛高有员工称已数月未领到工资",
-      "onboard_time": 1710294212,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 476436,
       "num": 476436,
       "word": "迷风花道歉",
@@ -2545,6 +2569,14 @@
       "onboard_time": 1710202774,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 454320,
+      "num": 388956,
+      "word": "燕郊爆炸疑为燃气爆炸",
+      "onboard_time": 1710299557,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453643,
@@ -2995,6 +3027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375745,
+      "num": 375745,
+      "word": "花间令",
+      "onboard_time": 1710298891,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 375658,
       "num": 285167,
       "word": "朱梓骁表情",
@@ -3057,6 +3097,14 @@
       "onboard_time": 1710055829,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 367480,
+      "num": 367480,
+      "word": "背薄了真的显年轻",
+      "onboard_time": 1710298533,
+      "rank": 15,
+      "category": "运动健身"
     },
     {
       "raw_hot": 367475,
@@ -3148,7 +3196,7 @@
     },
     {
       "raw_hot": 357637,
-      "num": 309445,
+      "num": 321041,
       "word": "这届年轻人真的不想生吗",
       "onboard_time": 1710293552,
       "rank": 46,
@@ -3233,14 +3281,6 @@
       "onboard_time": 1710159512,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 344276,
-      "num": 344276,
-      "word": "甘肃天水麻辣烫",
-      "onboard_time": 1710295892,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 343974,
@@ -3379,6 +3419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331356,
+      "num": 331356,
+      "word": "燕郊爆炸建筑内有招待所",
+      "onboard_time": 1710298172,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329339,
       "num": 329339,
       "word": "大侦探",
@@ -3475,6 +3523,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 317903,
+      "num": 317903,
+      "word": "河北应急厅派工作组指导燕郊救援",
+      "onboard_time": 1710297455,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317619,
       "num": 317619,
       "word": "AG战胜狼队",
@@ -3489,6 +3545,14 @@
       "onboard_time": 1710069149,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 316961,
+      "num": 316961,
+      "word": "烈焰空降",
+      "onboard_time": 1710297032,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 316519,
@@ -3681,6 +3745,14 @@
       "onboard_time": 1710054749,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 300329,
+      "num": 300329,
+      "word": "看似很舒服其实很伤身体的行为",
+      "onboard_time": 1710295773,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 299200,
@@ -4035,6 +4107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 263825,
+      "num": 263825,
+      "word": "Dior马面裙事件",
+      "onboard_time": 1710299132,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 263683,
       "num": 263683,
       "word": "逆水寒手游",
@@ -4275,6 +4355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248709,
+      "num": 248709,
+      "word": "王源我不是小孩子了",
+      "onboard_time": 1710297813,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 248244,
       "num": 248244,
       "word": "微信里你不知道的小妙招",
@@ -4385,6 +4473,14 @@
       "onboard_time": 1710251495,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 243994,
+      "num": 243994,
+      "word": "江苏卫视种地吧2定档",
+      "onboard_time": 1710296493,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 243431,
@@ -4547,14 +4643,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 233884,
-      "num": 233884,
-      "word": "江苏卫视种地吧2定档",
-      "onboard_time": 1710296493,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 233362,
       "num": 233362,
       "word": "王曼昱3比2阿库拉",
@@ -4617,14 +4705,6 @@
       "onboard_time": 1710228093,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 230479,
-      "num": 230479,
-      "word": "看似很舒服其实很伤身体的行为",
-      "onboard_time": 1710295773,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 230107,
@@ -4931,6 +5011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218077,
+      "num": 218077,
+      "word": "原神4.5",
+      "onboard_time": 1710297275,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218045,
       "num": 218045,
       "word": "委员称部分企业甚至没有上下班的界限",
@@ -5001,14 +5089,6 @@
       "onboard_time": 1710137431,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 214807,
-      "num": 214807,
-      "word": "烈焰空降",
-      "onboard_time": 1710297032,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 214514,
@@ -5131,14 +5211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211246,
-      "num": 211246,
-      "word": "原神4.5",
-      "onboard_time": 1710297275,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 210802,
       "num": 210802,
       "word": "蔡文静录恋综不像观察员像女嘉宾",
@@ -5161,6 +5233,14 @@
       "onboard_time": 1710129272,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 210448,
+      "num": 210448,
+      "word": "奔驰CEO呼吁欧盟降低对华电动车关税",
+      "onboard_time": 1710298772,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 209551,
@@ -5507,6 +5587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198061,
+      "num": 198061,
+      "word": "RIIZE成为银行广告模特",
+      "onboard_time": 1710298953,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197853,
       "num": 197853,
       "word": "河北省考 进不去",
@@ -5769,6 +5857,14 @@
       "onboard_time": 1710216393,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 192157,
+      "num": 192157,
+      "word": "烈焰今日开播",
+      "onboard_time": 1710299012,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 191765,
@@ -6555,6 +6651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169414,
+      "num": 169414,
+      "word": "樊振东谈输球是正常且良性的竞争",
+      "onboard_time": 1710299796,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169254,
       "num": 169254,
       "word": "法国赛凡晨组合女双夺冠",
@@ -7211,6 +7315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152437,
+      "num": 152437,
+      "word": "浙江一村庄30万株郁金香盛开",
+      "onboard_time": 1710297154,
+      "rank": 48,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 152426,
       "num": 152426,
       "word": "仙台有树开放预约",
@@ -7233,14 +7345,6 @@
       "onboard_time": 1710136831,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 151949,
-      "num": 151949,
-      "word": "浙江一村庄30万株郁金香盛开",
-      "onboard_time": 1710297154,
-      "rank": 48,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 151856,
