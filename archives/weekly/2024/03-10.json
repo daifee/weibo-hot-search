@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710340449203,
+  "endTime": 1710344064110,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -249,6 +249,14 @@
       "onboard_time": 1710333872,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1797034,
+      "num": 706650,
+      "word": "邯郸初中生",
+      "onboard_time": 1710339575,
+      "rank": 27,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1766520,
@@ -899,6 +907,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1053254,
+      "num": 1053254,
+      "word": "独生女举报62岁父亲代孕生儿子",
+      "onboard_time": 1710342695,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1050567,
       "num": 505610,
       "word": "iPhone降价已成常规促销手段",
@@ -1185,6 +1201,14 @@
       "onboard_time": 1710310473,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 882134,
+      "num": 426677,
+      "word": "美众议院通过TikTok法案",
+      "onboard_time": 1710342093,
+      "rank": 10,
+      "category": "国外时政,互联网"
     },
     {
       "raw_hot": 877745,
@@ -1841,6 +1865,14 @@
       "onboard_time": 1710146011,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 660188,
+      "num": 660188,
+      "word": "莎头",
+      "onboard_time": 1710340419,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 656412,
@@ -2547,6 +2579,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 525345,
+      "num": 525345,
+      "word": "戴高乐长子去世",
+      "onboard_time": 1710339455,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 525116,
       "num": 352956,
       "word": "对洗衣液用量毫无概念的大学生",
@@ -2561,14 +2601,6 @@
       "onboard_time": 1710035906,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 524197,
-      "num": 394812,
-      "word": "戴高乐长子去世",
-      "onboard_time": 1710339455,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 523622,
@@ -2592,6 +2624,14 @@
       "word": "哥哥帮妹妹换纸尿裤划破眼球",
       "onboard_time": 1710336275,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519609,
+      "num": 519609,
+      "word": "90后妈妈为给孩子看病代孕赚钱",
+      "onboard_time": 1710339455,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -3185,6 +3225,14 @@
       "onboard_time": 1710116850,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432202,
+      "num": 432202,
+      "word": "元汽森林厂家被罚",
+      "onboard_time": 1710341916,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 429785,
@@ -3867,6 +3915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 355060,
+      "num": 355060,
+      "word": "央视今年315晚会节目单公布",
+      "onboard_time": 1710342813,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354667,
       "num": 354667,
       "word": "樊振东林昀儒一起看霉霉演唱会",
@@ -4225,6 +4281,14 @@
       "onboard_time": 1710122969,
       "rank": 21,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 318357,
+      "num": 281665,
+      "word": "千万别再关灯玩手机了",
+      "onboard_time": 1710343774,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 317903,
@@ -4731,14 +4795,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 283543,
-      "num": 283543,
-      "word": "邯郸初中生",
-      "onboard_time": 1710339575,
-      "rank": 27,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 283047,
       "num": 283047,
       "word": "与凤行凤凤火火角色海报",
@@ -4841,6 +4897,14 @@
       "onboard_time": 1710141807,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 276236,
+      "num": 276236,
+      "word": "EDG季后赛生死战",
+      "onboard_time": 1710340419,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 275023,
@@ -5041,6 +5105,14 @@
       "onboard_time": 1710316953,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 262400,
+      "num": 262400,
+      "word": "朱开我真服了",
+      "onboard_time": 1710342274,
+      "rank": 24,
+      "category": "电竞,网红"
     },
     {
       "raw_hot": 262219,
@@ -5299,6 +5371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250209,
+      "num": 250209,
+      "word": "蒋欣古娜拉黑暗之神",
+      "onboard_time": 1710341316,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249587,
       "num": 249587,
       "word": "苹果是水果界馒头吗",
@@ -5443,6 +5523,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 245422,
+      "num": 245422,
+      "word": "经常感觉疲惫可能是气血不足",
+      "onboard_time": 1710343058,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 244921,
       "num": 244921,
       "word": "惜花芷预告",
@@ -5585,14 +5673,6 @@
       "onboard_time": 1710239492,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 238444,
-      "num": 238444,
-      "word": "90后妈妈为给孩子看病代孕赚钱",
-      "onboard_time": 1710339455,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237967,
@@ -6289,6 +6369,14 @@
       "onboard_time": 1710299796,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213082,
+      "num": 213082,
+      "word": "世界之外",
+      "onboard_time": 1710341795,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 213079,
@@ -7105,6 +7193,14 @@
       "onboard_time": 1710213808,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195032,
+      "num": 195032,
+      "word": "WBG对战EDG",
+      "onboard_time": 1710341255,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 194942,
@@ -9083,14 +9179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150234,
-      "num": 150234,
-      "word": "EDG季后赛生死战",
-      "onboard_time": 1710340419,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 149782,
       "num": 556344,
       "word": "姚明解读村BA为何出圈",
@@ -9179,6 +9267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147720,
+      "num": 147720,
+      "word": "别对我动心 人夫人妻感",
+      "onboard_time": 1710343712,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147170,
       "num": 147170,
       "word": "魏大勋丹宁风",
@@ -9192,14 +9288,6 @@
       "word": "WTT新加坡大满贯",
       "onboard_time": 1710070469,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 146698,
-      "num": 146698,
-      "word": "莎头",
-      "onboard_time": 1710340419,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -9289,6 +9377,14 @@
       "onboard_time": 1710046528,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144893,
+      "num": 144893,
+      "word": "李梦蝶江俊霖恋综女A男O",
+      "onboard_time": 1710342455,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 144855,

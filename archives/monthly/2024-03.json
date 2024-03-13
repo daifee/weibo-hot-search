@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710340449203,
+  "endTime": 1710344064110,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -633,6 +633,14 @@
       "onboard_time": 1710333872,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1797034,
+      "num": 706650,
+      "word": "邯郸初中生",
+      "onboard_time": 1710339575,
+      "rank": 27,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1796542,
@@ -2403,6 +2411,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1053254,
+      "num": 1053254,
+      "word": "独生女举报62岁父亲代孕生儿子",
+      "onboard_time": 1710342695,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1051951,
       "num": 1051951,
       "word": "迪丽热巴唇色",
@@ -3257,6 +3273,14 @@
       "onboard_time": 1709563835,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 882134,
+      "num": 426677,
+      "word": "美众议院通过TikTok法案",
+      "onboard_time": 1710342093,
+      "rank": 10,
+      "category": "国外时政,互联网"
     },
     {
       "raw_hot": 880865,
@@ -5377,6 +5401,14 @@
       "onboard_time": 1709787453,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 660188,
+      "num": 660188,
+      "word": "莎头",
+      "onboard_time": 1710340419,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 659398,
@@ -7515,6 +7547,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 525345,
+      "num": 525345,
+      "word": "戴高乐长子去世",
+      "onboard_time": 1710339455,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 525194,
       "num": 525194,
       "word": "林高远世界排名升至第4",
@@ -7571,14 +7611,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 524197,
-      "num": 394812,
-      "word": "戴高乐长子去世",
-      "onboard_time": 1710339455,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 523806,
       "num": 523806,
       "word": "王栎鑫是谭松韵影迷会的会长",
@@ -7633,6 +7665,14 @@
       "onboard_time": 1709544035,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 519609,
+      "num": 519609,
+      "word": "90后妈妈为给孩子看病代孕赚钱",
+      "onboard_time": 1710339455,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519476,
@@ -9553,6 +9593,14 @@
       "onboard_time": 1709235916,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432202,
+      "num": 432202,
+      "word": "元汽森林厂家被罚",
+      "onboard_time": 1710341916,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 431935,
@@ -11619,6 +11667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355060,
+      "num": 355060,
+      "word": "央视今年315晚会节目单公布",
+      "onboard_time": 1710342813,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354931,
       "num": 319729,
       "word": "赵今麦直播状态",
@@ -12841,6 +12897,14 @@
       "onboard_time": 1709868149,
       "rank": 29,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 318357,
+      "num": 281665,
+      "word": "千万别再关灯玩手机了",
+      "onboard_time": 1710343774,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 318331,
@@ -14307,14 +14371,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 283543,
-      "num": 283543,
-      "word": "邯郸初中生",
-      "onboard_time": 1710339575,
-      "rank": 27,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 283428,
       "num": 283428,
       "word": "豪士面包 种地吧",
@@ -14617,6 +14673,14 @@
       "onboard_time": 1709967810,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276236,
+      "num": 276236,
+      "word": "EDG季后赛生死战",
+      "onboard_time": 1710340419,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 276028,
@@ -15331,6 +15395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 262400,
+      "num": 262400,
+      "word": "朱开我真服了",
+      "onboard_time": 1710342274,
+      "rank": 24,
+      "category": "电竞,网红"
+    },
+    {
       "raw_hot": 262219,
       "num": 262219,
       "word": "情绪稳定的人适合做饭",
@@ -15963,6 +16035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 250209,
+      "num": 250209,
+      "word": "蒋欣古娜拉黑暗之神",
+      "onboard_time": 1710341316,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249952,
       "num": 249952,
       "word": "张志磊vs帕克",
@@ -16257,6 +16337,14 @@
       "onboard_time": 1710306275,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 245422,
+      "num": 245422,
+      "word": "经常感觉疲惫可能是气血不足",
+      "onboard_time": 1710343058,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 245368,
@@ -16689,14 +16777,6 @@
       "onboard_time": 1709258674,
       "rank": 23,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 238444,
-      "num": 238444,
-      "word": "90后妈妈为给孩子看病代孕赚钱",
-      "onboard_time": 1710339455,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238368,
@@ -18633,6 +18713,14 @@
       "onboard_time": 1710299796,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213082,
+      "num": 213082,
+      "word": "世界之外",
+      "onboard_time": 1709566533,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 213079,
@@ -20969,6 +21057,14 @@
       "onboard_time": 1709384792,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195032,
+      "num": 195032,
+      "word": "WBG对战EDG",
+      "onboard_time": 1710341255,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 194942,
@@ -27331,14 +27427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150234,
-      "num": 150234,
-      "word": "EDG季后赛生死战",
-      "onboard_time": 1710340419,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 150061,
       "num": 150061,
       "word": "姚明林浩时隔16年重逢",
@@ -27707,6 +27795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147720,
+      "num": 147720,
+      "word": "别对我动心 人夫人妻感",
+      "onboard_time": 1710343712,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147694,
       "num": 147694,
       "word": "这才是HR认可的空窗期理由",
@@ -27856,14 +27952,6 @@
       "word": "曼市德比",
       "onboard_time": 1709478456,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 146698,
-      "num": 146698,
-      "word": "莎头",
-      "onboard_time": 1710340419,
-      "rank": 48,
       "category": "体育"
     },
     {
@@ -28193,6 +28281,14 @@
       "onboard_time": 1710046528,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144893,
+      "num": 144893,
+      "word": "李梦蝶江俊霖恋综女A男O",
+      "onboard_time": 1710342455,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 144857,
@@ -35257,14 +35353,6 @@
       "onboard_time": 1710091761,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 78365,
-      "num": 78365,
-      "word": "世界之外",
-      "onboard_time": 1709566533,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 78316,
