@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710364678924,
+  "endTime": 1710365670647,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -7723,6 +7723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184302,
+      "num": 34787,
+      "word": "燕郊爆燃事故致7死27伤",
+      "onboard_time": 1710356418,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184185,
       "num": 184185,
       "word": "乒乓球没有应该",
@@ -8633,14 +8641,6 @@
       "onboard_time": 1710035550,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161404,
-      "num": 34787,
-      "word": "燕郊爆燃事故致7死27伤",
-      "onboard_time": 1710356418,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161191,
@@ -11283,6 +11283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90942,
+      "num": 90942,
+      "word": "阿姨卖夹饼90度敞开往里塞肉",
+      "onboard_time": 1710357257,
+      "rank": 33,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 90873,
       "num": 96039,
       "word": "南大一48岁博士生8年未毕业被劝退",
@@ -11377,14 +11385,6 @@
       "onboard_time": 1710041608,
       "rank": 49,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 83532,
-      "num": 83532,
-      "word": "阿姨卖夹饼90度敞开往里塞肉",
-      "onboard_time": 1710357257,
-      "rank": 33,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 83318,
@@ -12035,6 +12035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22020,
+      "num": 22020,
+      "word": "檀健次感慨电影之路",
+      "onboard_time": 1710364516,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 21843,
       "num": 22950,
       "word": "王鹤棣 美羊羊限定版",
@@ -12059,14 +12067,6 @@
       "category": "剧集,综艺"
     },
     {
-      "raw_hot": 19487,
-      "num": 19487,
-      "word": "檀健次感慨电影之路",
-      "onboard_time": 1710364516,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 18622,
       "num": 18622,
       "word": "宋丹丹舞台剧三分钟独白",
@@ -12081,6 +12081,22 @@
       "onboard_time": 1710275235,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17632,
+      "num": 17632,
+      "word": "檀健次片场碎片",
+      "onboard_time": 1710363015,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 17595,
+      "num": 17595,
+      "word": "燕郊爆炸事故现场视频",
+      "onboard_time": 1710364995,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17321,
@@ -12115,14 +12131,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 16591,
-      "num": 16591,
-      "word": "檀健次片场碎片",
-      "onboard_time": 1710363015,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 16228,
       "num": 18580,
       "word": "两会",
@@ -12139,20 +12147,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 16152,
+      "num": 16152,
+      "word": "减肥版司美格鲁肽未在我国获批",
+      "onboard_time": 1710362955,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 15683,
       "num": 230045,
       "word": "宋佳巴黎随行记",
       "onboard_time": 1710328532,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15124,
-      "num": 15124,
-      "word": "减肥版司美格鲁肽未在我国获批",
-      "onboard_time": 1710362955,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 14916,
@@ -12179,8 +12187,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13608,
-      "num": 14134,
+      "raw_hot": 13745,
+      "num": 14840,
       "word": "原来真有顺拐的马",
       "onboard_time": 1710364096,
       "rank": 49,
