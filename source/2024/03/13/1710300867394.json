@@ -1,0 +1,410 @@
+{
+  "runTime": 1710300867394,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6438308,
+        "num": 6438308,
+        "word": "河北燕郊爆炸已致1死22伤",
+        "onboard_time": 1710298234,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1709328,
+        "num": 1709328,
+        "word": "Dior事件后马面裙卖疯了",
+        "onboard_time": 1710293732,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 25130,
+        "num": 1224291,
+        "word": "2024年民生工作三大重点",
+        "onboard_time": 1710248193,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 973525,
+        "num": 973525,
+        "word": "商户说燕郊爆炸建筑几乎炸没了",
+        "onboard_time": 1710295053,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884307,
+        "num": 884307,
+        "word": "国乒爆冷",
+        "onboard_time": 1710292771,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 760313,
+        "num": 760313,
+        "word": "甘肃天水麻辣烫",
+        "onboard_time": 1710295892,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 469722,
+        "num": 469722,
+        "word": "钟薛高有员工称已数月未领到工资",
+        "onboard_time": 1710294212,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465020,
+        "num": 465020,
+        "word": "陆虎亲了陈曌旭",
+        "onboard_time": 1710297869,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455665,
+        "num": 455665,
+        "word": "背薄了真的显年轻",
+        "onboard_time": 1710298533,
+        "rank": 8,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 436880,
+        "num": 436880,
+        "word": "中通快递",
+        "onboard_time": 1710292114,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697918,
+        "num": 423395,
+        "word": "直击燕郊爆炸救援现场",
+        "onboard_time": 1710300335,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608932,
+        "num": 417759,
+        "word": "燕郊镇发生爆炸",
+        "onboard_time": 1710290554,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439938,
+        "num": 410724,
+        "word": "朱珠产后瘦了近50斤",
+        "onboard_time": 1710288631,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399338,
+        "num": 399338,
+        "word": "燕郊爆炸疑为燃气爆炸",
+        "onboard_time": 1710299557,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370002,
+        "num": 370002,
+        "word": "花间令",
+        "onboard_time": 1710298891,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326979,
+        "num": 326979,
+        "word": "39元瑞士卷被黄牛炒到120元",
+        "onboard_time": 1710293192,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 312743,
+        "num": 312743,
+        "word": "医师劝阻100斤要做减重手术的人",
+        "onboard_time": 1710292837,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308780,
+        "num": 308780,
+        "word": "Dior马面裙事件",
+        "onboard_time": 1710299132,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 303310,
+        "num": 303310,
+        "word": "章子怡怒怼网友",
+        "onboard_time": 1710285745,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290698,
+        "num": 290698,
+        "word": "烈焰空降",
+        "onboard_time": 1710297032,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309056,
+        "num": 288548,
+        "word": "这届年轻人真的不想生吗",
+        "onboard_time": 1710293552,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284756,
+        "num": 284756,
+        "word": "看似很舒服其实很伤身体的行为",
+        "onboard_time": 1710295773,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 268596,
+        "num": 268596,
+        "word": "王源我不是小孩子了",
+        "onboard_time": 1710297813,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 268407,
+        "num": 268407,
+        "word": "纪凌尘 脏脏包",
+        "onboard_time": 1710289834,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260566,
+        "num": 260566,
+        "word": "官方回应燕郊镇发生爆炸",
+        "onboard_time": 1710292771,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240816,
+        "num": 240816,
+        "word": "朱梓骁悬着的心终于死了",
+        "onboard_time": 1710254911,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234158,
+        "num": 234158,
+        "word": "奔驰CEO呼吁欧盟降低对华电动车关税",
+        "onboard_time": 1710298772,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 232652,
+        "num": 232652,
+        "word": "燕郊爆炸致多名过路司机受伤",
+        "onboard_time": 1710295773,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226322,
+        "num": 226322,
+        "word": "多地中通快递严重积压",
+        "onboard_time": 1710299976,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222379,
+        "num": 222379,
+        "word": "女子为护肤1个月不洗脸致满脸结痂",
+        "onboard_time": 1710286705,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 265314,
+        "num": 221737,
+        "word": "闲置太久的皮衣就不要再穿了",
+        "onboard_time": 1710299976,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244399,
+        "num": 221481,
+        "word": "喜茶光与夜之恋联名",
+        "onboard_time": 1710293852,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221005,
+        "num": 221005,
+        "word": "燕郊爆炸建筑内有招待所",
+        "onboard_time": 1710298172,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220881,
+        "num": 220881,
+        "word": "新冠疫情使全球平均寿命缩短了1.6年",
+        "onboard_time": 1710288389,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220666,
+        "num": 220666,
+        "word": "江苏卫视种地吧2定档",
+        "onboard_time": 1710296493,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217950,
+        "num": 217950,
+        "word": "河北应急厅派工作组指导燕郊救援",
+        "onboard_time": 1710297455,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217749,
+        "num": 217749,
+        "word": "某爆款短剧承制方盈利不足100万",
+        "onboard_time": 1710292837,
+        "rank": 36,
+        "category": "社会新闻,剧集"
+      },
+      {
+        "raw_hot": 214970,
+        "num": 214970,
+        "word": "燕郊爆炸现场冒出巨大火球",
+        "onboard_time": 1710294573,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213142,
+        "num": 213142,
+        "word": "樊振东谈输球是正常且良性的竞争",
+        "onboard_time": 1710299796,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194278,
+        "num": 194278,
+        "word": "燕郊50个小区因爆炸燃气停气",
+        "onboard_time": 1710300693,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185502,
+        "num": 185502,
+        "word": "王楚钦重回男单世界第一",
+        "onboard_time": 1710293071,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173120,
+        "num": 173120,
+        "word": "RIIZE成为银行广告模特",
+        "onboard_time": 1710298953,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168042,
+        "num": 168042,
+        "word": "大叔坐火车一整天只吃一根萝卜",
+        "onboard_time": 1710287006,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160341,
+        "num": 160341,
+        "word": "原神千织",
+        "onboard_time": 1710300633,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160078,
+        "num": 160078,
+        "word": "波音吹哨人突然死亡",
+        "onboard_time": 1710288812,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147701,
+        "num": 147701,
+        "word": "钟薛高总部研发区域空无一人",
+        "onboard_time": 1710293071,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146371,
+        "num": 146371,
+        "word": "燕郊小区底商爆炸伤者已送医",
+        "onboard_time": 1710295533,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141623,
+        "num": 141623,
+        "word": "原神开门",
+        "onboard_time": 1710294994,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140406,
+        "num": 140406,
+        "word": "肖战工作室还让不让人睡",
+        "onboard_time": 1710254372,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140192,
+        "num": 140192,
+        "word": "酱园弄杀青宴",
+        "onboard_time": 1710288693,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#构建以先进制造业为骨干的现代化产业体系#"
+    }
+  }
+}
