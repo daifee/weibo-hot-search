@@ -1,6 +1,6 @@
 {
   "startTime": 1710346860842,
-  "endTime": 1710350209730,
+  "endTime": 1710351251562,
   "band_list": [
     {
       "raw_hot": 1678525,
@@ -419,16 +419,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61828,
-      "num": 61828,
+      "raw_hot": 72591,
+      "num": 72591,
       "word": "邢菲新戏演技",
       "onboard_time": 1710349821,
       "rank": 36,
       "category": "剧集"
     },
     {
-      "raw_hot": 44856,
-      "num": 48810,
+      "raw_hot": 68437,
+      "num": 68437,
       "word": "粥饼伦称不想让孩子再过苦日子",
       "onboard_time": 1710349703,
       "rank": 46,
@@ -449,6 +449,14 @@
       "onboard_time": 1710329193,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34589,
+      "num": 34589,
+      "word": "WBG对战EDG",
+      "onboard_time": 1710341255,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 29763,

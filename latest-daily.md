@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/03/14 00:21:00 ~ 2024/03/14 01:16:49
+本榜单时间：2024/03/14 00:21:00 ~ 2024/03/14 01:34:11
 </p>
 </blockquote>
 <p>
@@ -328,13 +328,13 @@ papi酱 演员的进组好物分享（热度：87409）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A2%E8%8F%B2%E6%96%B0%E6%88%8F%E6%BC%94%E6%8A%80%23" target="weibo">
-邢菲新戏演技（热度：61828）
+邢菲新戏演技（热度：72591）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B2%A5%E9%A5%BC%E4%BC%A6%E7%A7%B0%E4%B8%8D%E6%83%B3%E8%AE%A9%E5%AD%A9%E5%AD%90%E5%86%8D%E8%BF%87%E8%8B%A6%E6%97%A5%E5%AD%90%23" target="weibo">
-粥饼伦称不想让孩子再过苦日子（热度：44856）
+粥饼伦称不想让孩子再过苦日子（热度：68437）
 </a>
 </li>
 
@@ -347,6 +347,12 @@ papi酱 演员的进组好物分享（热度：87409）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%88%E7%84%B0%23" target="weibo">
 烈焰（热度：39780）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98EDG%23" target="weibo">
+WBG对战EDG（热度：34589）
 </a>
 </li>
 
