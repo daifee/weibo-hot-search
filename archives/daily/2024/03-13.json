@@ -1,6 +1,6 @@
 {
   "startTime": 1710260540441,
-  "endTime": 1710303591052,
+  "endTime": 1710304456843,
   "band_list": [
     {
       "raw_hot": 6964861,
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1211087,
-      "num": 1211087,
+      "raw_hot": 1293350,
+      "num": 1293350,
       "word": "钟睒睒之母郭瑾离世",
       "onboard_time": 1710300873,
       "rank": 3,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1030867,
-      "num": 447588,
+      "num": 994735,
       "word": "燕郊炸鸡店爆燃后4层楼体坍塌",
       "onboard_time": 1710301057,
       "rank": 10,
@@ -129,6 +129,14 @@
       "onboard_time": 1710285745,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 858439,
+      "num": 858439,
+      "word": "多地中通快递严重积压",
+      "onboard_time": 1710299976,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 848534,
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 740480,
+      "num": 740480,
+      "word": "朋友圈发这些可能会被封号",
+      "onboard_time": 1710302554,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 737896,
       "num": 736789,
       "word": "肖战工作室还让不让人睡",
@@ -185,14 +201,6 @@
       "onboard_time": 1710256414,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 729276,
-      "num": 729276,
-      "word": "多地中通快递严重积压",
-      "onboard_time": 1710299976,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 714204,
@@ -227,6 +235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 635485,
+      "num": 508683,
+      "word": "燕郊50个小区因爆炸燃气停气",
+      "onboard_time": 1710300693,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 582626,
       "num": 582626,
       "word": "英伟达市值一夜飙涨1.1万亿",
@@ -235,12 +251,20 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 580917,
-      "num": 446488,
-      "word": "燕郊50个小区因爆炸燃气停气",
-      "onboard_time": 1710300693,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 579877,
+      "num": 579877,
+      "word": "39元瑞士卷被黄牛炒到120元",
+      "onboard_time": 1710293192,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 567550,
+      "num": 567550,
+      "word": "上海消保委点名茉酸奶",
+      "onboard_time": 1710301177,
+      "rank": 9,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 566341,
@@ -273,14 +297,6 @@
       "onboard_time": 1710295533,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 523578,
-      "num": 523578,
-      "word": "39元瑞士卷被黄牛炒到120元",
-      "onboard_time": 1710293192,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 521727,
@@ -347,14 +363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 451998,
-      "num": 451998,
-      "word": "上海消保委点名茉酸奶",
-      "onboard_time": 1710301177,
-      "rank": 9,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 445031,
       "num": 263625,
       "word": "工资低又经常熬夜的工作",
@@ -379,6 +387,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 436876,
+      "num": 436876,
+      "word": "种地吧真的做大做强了",
+      "onboard_time": 1710303394,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 429785,
       "num": 429785,
       "word": "酱园弄杀青宴",
@@ -395,12 +411,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 420096,
+      "num": 420096,
+      "word": "多家燃气公司赶往燕郊爆炸现场",
+      "onboard_time": 1710302676,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403358,
+      "num": 389365,
+      "word": "为什么领导很少请病假",
+      "onboard_time": 1710303457,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 396829,
       "num": 396829,
       "word": "王楚钦重回男单世界第一",
       "onboard_time": 1710293071,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 390462,
+      "num": 390462,
+      "word": "韩孝周小栗旬将合作",
+      "onboard_time": 1710302374,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 388538,
@@ -419,20 +459,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 375820,
-      "num": 375820,
-      "word": "韩孝周小栗旬将合作",
-      "onboard_time": 1710302374,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 375745,
       "num": 375745,
       "word": "花间令",
       "onboard_time": 1710298891,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 359999,
+      "num": 359999,
+      "word": "原来自信的女生真的会发光",
+      "onboard_time": 1710300873,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 357637,
@@ -451,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342329,
-      "num": 329616,
-      "word": "原来自信的女生真的会发光",
-      "onboard_time": 1710300873,
-      "rank": 20,
-      "category": "情感"
+      "raw_hot": 344645,
+      "num": 344645,
+      "word": "伦纳德退出比赛",
+      "onboard_time": 1710302914,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 337551,
@@ -467,28 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332466,
-      "num": 332466,
-      "word": "伦纳德退出比赛",
-      "onboard_time": 1710302914,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 331356,
       "num": 331356,
       "word": "燕郊爆炸建筑内有招待所",
       "onboard_time": 1710298172,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 326591,
-      "num": 326591,
-      "word": "种地吧真的做大做强了",
-      "onboard_time": 1710303394,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 319595,
@@ -515,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 314150,
-      "num": 314150,
-      "word": "多家燃气公司赶往燕郊爆炸现场",
-      "onboard_time": 1710302676,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 313838,
       "num": 313838,
       "word": "满舒克回应",
@@ -545,14 +561,6 @@
       "onboard_time": 1710242673,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 305042,
-      "num": 305042,
-      "word": "朋友圈发这些可能会被封号",
-      "onboard_time": 1710302554,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 303173,
@@ -579,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283999,
+      "num": 283999,
+      "word": "燕郊爆炸对面大楼玻璃被震碎",
+      "onboard_time": 1710302975,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283861,
       "num": 283861,
       "word": "替别人看望了出家的妈妈",
@@ -587,8 +603,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 273966,
-      "num": 273966,
+      "raw_hot": 280768,
+      "num": 280768,
+      "word": "大侦探",
+      "onboard_time": 1710303578,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 280711,
+      "num": 280711,
       "word": "蓝盈莹演了五福临门",
       "onboard_time": 1710302135,
       "rank": 25,
@@ -617,6 +641,14 @@
       "onboard_time": 1710299976,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 264751,
+      "num": 264751,
+      "word": "年度cp 新兰唯一BG",
+      "onboard_time": 1710303155,
+      "rank": 39,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 264095,
@@ -715,14 +747,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 224376,
-      "num": 224376,
-      "word": "燕郊爆炸对面大楼玻璃被震碎",
-      "onboard_time": 1710302975,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222739,
       "num": 346804,
       "word": "考研失败办考研辅导班赚钱翻身",
@@ -779,12 +803,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 203821,
+      "num": 203821,
+      "word": "减脂最掉秤的炒菜",
+      "onboard_time": 1710300935,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 202527,
       "num": 273988,
       "word": "欧冠",
       "onboard_time": 1710285327,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199098,
+      "num": 199098,
+      "word": "吴磊蒋勤勤演母子",
+      "onboard_time": 1710304175,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 198576,
@@ -819,6 +859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197031,
+      "num": 197031,
+      "word": "极氪MIX",
+      "onboard_time": 1710303633,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 196311,
       "num": 196311,
       "word": "毒液3提前上映",
@@ -851,14 +899,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 193748,
-      "num": 193748,
-      "word": "减脂最掉秤的炒菜",
-      "onboard_time": 1710300935,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 192157,
       "num": 192157,
       "word": "烈焰今日开播",
@@ -883,14 +923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 189218,
-      "num": 189218,
-      "word": "年度cp 新兰唯一BG",
-      "onboard_time": 1710303155,
-      "rank": 39,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 188822,
       "num": 203437,
       "word": "经常剪头发不会长得更快",
@@ -913,14 +945,6 @@
       "onboard_time": 1710294873,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183256,
-      "num": 183256,
-      "word": "为什么领导很少请病假",
-      "onboard_time": 1710303457,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 182267,
@@ -969,6 +993,14 @@
       "onboard_time": 1710258334,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172335,
+      "num": 172335,
+      "word": "通勤距离很长是什么体验",
+      "onboard_time": 1710303935,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 170175,
@@ -1043,6 +1075,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 158892,
+      "num": 158892,
+      "word": "当把反诈宣传交给00后",
+      "onboard_time": 1710304415,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158638,
       "num": 158638,
       "word": "导师为了让知识进我的脑子有努力",
@@ -1073,14 +1113,6 @@
       "onboard_time": 1710249277,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153931,
-      "num": 153931,
-      "word": "大侦探",
-      "onboard_time": 1710303578,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 152437,
@@ -1227,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104209,
+      "num": 1384796,
+      "word": "政府工作报告全文",
+      "onboard_time": 1710303035,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 102331,
       "num": 102331,
       "word": "林允身材曲线",
@@ -1273,14 +1313,6 @@
       "onboard_time": 1710263541,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 86746,
-      "num": 1269683,
-      "word": "政府工作报告全文",
-      "onboard_time": 1710303035,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 82165,
