@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710308046757,
+  "endTime": 1710310942217,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -89,6 +89,14 @@
       "onboard_time": 1709868634,
       "rank": 12,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 3126498,
+      "num": 3126498,
+      "word": "燕郊爆炸已致2死26伤",
+      "onboard_time": 1710308552,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3103314,
@@ -1987,6 +1995,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 1114332,
+      "num": 929947,
+      "word": "黄晓明肚子",
+      "onboard_time": 1710307111,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1110621,
       "num": 1110621,
       "word": "张致恒晒收款码求捐款",
@@ -2816,6 +2832,14 @@
       "word": "哥哥 你看起来也不大",
       "onboard_time": 1710033627,
       "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 928730,
+      "num": 928730,
+      "word": "月薪15000住家阿姨的一天",
+      "onboard_time": 1710309272,
+      "rank": 4,
       "category": "情感"
     },
     {
@@ -3825,14 +3849,6 @@
       "onboard_time": 1709819252,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 779079,
-      "num": 462932,
-      "word": "黄晓明肚子",
-      "onboard_time": 1710307111,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 778027,
@@ -8467,6 +8483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 463154,
+      "num": 463154,
+      "word": "一个月减重4到8斤比较合理",
+      "onboard_time": 1710306693,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 462297,
       "num": 462297,
       "word": "高德地图回应小团团语音包是否下架",
@@ -8737,6 +8761,14 @@
       "onboard_time": 1709682990,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 449384,
+      "num": 449384,
+      "word": "张颂文曾舜晞买菜路透",
+      "onboard_time": 1710307414,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 448863,
@@ -9289,6 +9321,14 @@
       "onboard_time": 1709864727,
       "rank": 20,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 426394,
+      "num": 426394,
+      "word": "黄旭熙官宣粉丝见面会",
+      "onboard_time": 1710309933,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 425470,
@@ -9947,6 +9987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399187,
+      "num": 399187,
+      "word": "网友用AI复活李玟",
+      "onboard_time": 1710308794,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399158,
       "num": 399158,
       "word": "未来黄金价格每克或将超过750元",
@@ -10179,12 +10227,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 387727,
-      "num": 387727,
-      "word": "张颂文曾舜晞买菜路透",
-      "onboard_time": 1710307414,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 387490,
+      "num": 244675,
+      "word": "喝水后的4个异常或为肾在求救",
+      "onboard_time": 1710307294,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 387269,
@@ -11467,6 +11515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344210,
+      "num": 344210,
+      "word": "白敬亭潮牌成立娱乐公司",
+      "onboard_time": 1710308912,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343974,
       "num": 336971,
       "word": "白桃星座",
@@ -11961,6 +12017,14 @@
       "onboard_time": 1709513671,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329069,
+      "num": 189589,
+      "word": "TikTok开始反击",
+      "onboard_time": 1710310473,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 329029,
@@ -12641,6 +12705,14 @@
       "onboard_time": 1709794654,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 308931,
+      "num": 308931,
+      "word": "钟薛高被人力资源公司起诉",
+      "onboard_time": 1710307111,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 308857,
@@ -14067,14 +14139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 274373,
-      "num": 274373,
-      "word": "一个月减重4到8斤比较合理",
-      "onboard_time": 1710306693,
-      "rank": 32,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 274091,
       "num": 251961,
       "word": "下班后邻居叫我煮饭不要这么香",
@@ -14187,14 +14251,6 @@
       "category": "作品衍生,作品衍生"
     },
     {
-      "raw_hot": 272028,
-      "num": 272028,
-      "word": "钟薛高被人力资源公司起诉",
-      "onboard_time": 1710307111,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 271858,
       "num": 271858,
       "word": "张雪峰 周五",
@@ -14233,6 +14289,14 @@
       "onboard_time": 1710252936,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 271442,
+      "num": 271442,
+      "word": "极氪收到大量投诉",
+      "onboard_time": 1710310771,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 271429,
@@ -15539,6 +15603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244566,
+      "num": 244566,
+      "word": "肖战表情梦回魏无羡",
+      "onboard_time": 1710309993,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244457,
       "num": 244457,
       "word": "孩子聪不聪明看手上几个动作",
@@ -15731,14 +15803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 242047,
-      "num": 242047,
-      "word": "喝水后的4个异常或为肾在求救",
-      "onboard_time": 1710307294,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 241718,
       "num": 217684,
       "word": "易烊千玺鼻梁痣",
@@ -15769,6 +15833,14 @@
       "onboard_time": 1709532154,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 241405,
+      "num": 241405,
+      "word": "终于知道蒜苔为什么那么贵了",
+      "onboard_time": 1710307892,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 241345,
@@ -16425,6 +16497,14 @@
       "onboard_time": 1710214591,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229747,
+      "num": 244695,
+      "word": "凯特王妃到底去哪儿了",
+      "onboard_time": 1710310535,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 229746,
@@ -18051,6 +18131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210109,
+      "num": 210109,
+      "word": "雷军谈近期汽车行业舆论风波",
+      "onboard_time": 1710310473,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 210080,
       "num": 210080,
       "word": "墨尔本偶遇周杰伦GAI",
@@ -18499,6 +18587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205500,
+      "num": 205500,
+      "word": "陈乔恩古装回归",
+      "onboard_time": 1710310292,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205415,
       "num": 205415,
       "word": "陈牧驰生日自拍照",
@@ -18721,6 +18817,14 @@
       "onboard_time": 1709709393,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203659,
+      "num": 203659,
+      "word": "广州塔水龙头",
+      "onboard_time": 1710309572,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 203600,
@@ -19673,6 +19777,14 @@
       "onboard_time": 1709695772,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196613,
+      "num": 196613,
+      "word": "GALA拿下LPL最高五杀数",
+      "onboard_time": 1710308072,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 196485,
@@ -22371,14 +22483,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 175579,
-      "num": 175579,
-      "word": "终于知道蒜苔为什么那么贵了",
-      "onboard_time": 1710307892,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 175535,
       "num": 172040,
       "word": "酱园弄男主是雷佳音",
@@ -24843,6 +24947,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 157893,
+      "num": 157893,
+      "word": "315骗假不留",
+      "onboard_time": 1710310410,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157869,
       "num": 336222,
       "word": "徐克射雕英雄传正在后期制作",
@@ -25721,6 +25833,14 @@
       "onboard_time": 1710133833,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152402,
+      "num": 152402,
+      "word": "拥有一份毒工作的特征",
+      "onboard_time": 1710309272,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 152390,
@@ -27019,6 +27139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 143561,
+      "num": 143561,
+      "word": "华师大爱情心理学课程被指性别歧视",
+      "onboard_time": 1710310771,
+      "rank": 40,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 143559,
       "num": 143559,
       "word": "梅西连续三场破门",
@@ -28123,6 +28251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136336,
+      "num": 136336,
+      "word": "黄雅莉生子",
+      "onboard_time": 1710310893,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136294,
       "num": 136294,
       "word": "外交部驳斥雷蒙多称中方能让在美中国汽车熄火",
@@ -28547,11 +28683,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134133,
+      "num": 134133,
+      "word": "半熟恋人3",
+      "onboard_time": 1709729371,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133854,
       "num": 133854,
       "word": "被爱过的人才会爱人",
       "onboard_time": 1710152850,
       "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 133840,
+      "num": 133840,
+      "word": "不存在的同学潘博文立项",
+      "onboard_time": 1710308312,
+      "rank": 45,
       "category": "电影"
     },
     {
@@ -29337,6 +29489,14 @@
       "onboard_time": 1710051810,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128588,
+      "num": 128588,
+      "word": "被名字劝退却很上头的小说",
+      "onboard_time": 1710310893,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 128560,
@@ -31809,14 +31969,6 @@
       "onboard_time": 1709714128,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110029,
-      "num": 110029,
-      "word": "半熟恋人3",
-      "onboard_time": 1709729371,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 109974,

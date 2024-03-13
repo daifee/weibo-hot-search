@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710308046757,
+  "endTime": 1710310942217,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -31,6 +31,14 @@
       "num": 4130838,
       "word": "燕郊爆炸",
       "onboard_time": 1710290554,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3126498,
+      "num": 3126498,
+      "word": "燕郊爆炸已致2死26伤",
+      "onboard_time": 1710308552,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -627,6 +635,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1114332,
+      "num": 929947,
+      "word": "黄晓明肚子",
+      "onboard_time": 1710307111,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1107364,
       "num": 731942,
       "word": "纪凌尘撕名牌",
@@ -955,6 +971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 928730,
+      "num": 928730,
+      "word": "月薪15000住家阿姨的一天",
+      "onboard_time": 1710309272,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 913592,
       "num": 439189,
       "word": "哈尔滨17岁失踪高中生找到了",
@@ -1224,14 +1248,6 @@
       "word": "赵丽颖陈建斌坐一起",
       "onboard_time": 1710074915,
       "rank": 1,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 779079,
-      "num": 462932,
-      "word": "黄晓明肚子",
-      "onboard_time": 1710307111,
-      "rank": 46,
       "category": "电影"
     },
     {
@@ -2651,6 +2667,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 463154,
+      "num": 463154,
+      "word": "一个月减重4到8斤比较合理",
+      "onboard_time": 1710306693,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 461851,
       "num": 461851,
       "word": "眼泪女王第二集",
@@ -2705,6 +2729,14 @@
       "onboard_time": 1710234336,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 449384,
+      "num": 449384,
+      "word": "张颂文曾舜晞买菜路透",
+      "onboard_time": 1710307414,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 448371,
@@ -2833,6 +2865,14 @@
       "onboard_time": 1710156749,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 426394,
+      "num": 426394,
+      "word": "黄旭熙官宣粉丝见面会",
+      "onboard_time": 1710309933,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 425008,
@@ -3011,6 +3051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 399187,
+      "num": 399187,
+      "word": "网友用AI复活李玟",
+      "onboard_time": 1710308794,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399158,
       "num": 399158,
       "word": "未来黄金价格每克或将超过750元",
@@ -3107,12 +3155,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 387727,
-      "num": 387727,
-      "word": "张颂文曾舜晞买菜路透",
-      "onboard_time": 1710307414,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 387490,
+      "num": 244675,
+      "word": "喝水后的4个异常或为肾在求救",
+      "onboard_time": 1710307294,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 387269,
@@ -3451,6 +3499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344210,
+      "num": 344210,
+      "word": "白敬亭潮牌成立娱乐公司",
+      "onboard_time": 1710308912,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343974,
       "num": 336971,
       "word": "白桃星座",
@@ -3601,6 +3657,14 @@
       "onboard_time": 1710127053,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329069,
+      "num": 189589,
+      "word": "TikTok开始反击",
+      "onboard_time": 1710310473,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 326195,
@@ -3801,6 +3865,14 @@
       "onboard_time": 1710036149,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 308931,
+      "num": 308931,
+      "word": "钟薛高被人力资源公司起诉",
+      "onboard_time": 1710307111,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 308780,
@@ -4187,14 +4259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 274373,
-      "num": 274373,
-      "word": "一个月减重4到8斤比较合理",
-      "onboard_time": 1710306693,
-      "rank": 32,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 274040,
       "num": 274040,
       "word": "刘浩存郑州",
@@ -4219,14 +4283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 272028,
-      "num": 272028,
-      "word": "钟薛高被人力资源公司起诉",
-      "onboard_time": 1710307111,
-      "rank": 45,
-      "category": "美食"
-    },
-    {
       "raw_hot": 271858,
       "num": 271858,
       "word": "张雪峰 周五",
@@ -4241,6 +4297,14 @@
       "onboard_time": 1710252936,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 271442,
+      "num": 271442,
+      "word": "极氪收到大量投诉",
+      "onboard_time": 1710310771,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 270532,
@@ -4691,6 +4755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244566,
+      "num": 244566,
+      "word": "肖战表情梦回魏无羡",
+      "onboard_time": 1710309993,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244421,
       "num": 198968,
       "word": "马什么梅原来是沈腾自己的故事",
@@ -4747,14 +4819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 242047,
-      "num": 242047,
-      "word": "喝水后的4个异常或为肾在求救",
-      "onboard_time": 1710307294,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 241718,
       "num": 217684,
       "word": "易烊千玺鼻梁痣",
@@ -4777,6 +4841,14 @@
       "onboard_time": 1710225751,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 241405,
+      "num": 241405,
+      "word": "终于知道蒜苔为什么那么贵了",
+      "onboard_time": 1710307892,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 241345,
@@ -4977,6 +5049,14 @@
       "onboard_time": 1710214591,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229747,
+      "num": 244695,
+      "word": "凯特王妃到底去哪儿了",
+      "onboard_time": 1710310535,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 229462,
@@ -5507,6 +5587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210109,
+      "num": 210109,
+      "word": "雷军谈近期汽车行业舆论风波",
+      "onboard_time": 1710310473,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 209551,
       "num": 209551,
       "word": "何洛洛演技",
@@ -5627,6 +5715,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 205500,
+      "num": 205500,
+      "word": "陈乔恩古装回归",
+      "onboard_time": 1710310292,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205279,
       "num": 205279,
       "word": "赵雷济南",
@@ -5697,6 +5793,14 @@
       "onboard_time": 1710217775,
       "rank": 38,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 203659,
+      "num": 203659,
+      "word": "广州塔水龙头",
+      "onboard_time": 1710309572,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 203600,
@@ -5993,6 +6097,14 @@
       "onboard_time": 1710069751,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196613,
+      "num": 196613,
+      "word": "GALA拿下LPL最高五杀数",
+      "onboard_time": 1710308072,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 196450,
@@ -6755,14 +6867,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 175579,
-      "num": 175579,
-      "word": "终于知道蒜苔为什么那么贵了",
-      "onboard_time": 1710307892,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 175535,
       "num": 172040,
       "word": "酱园弄男主是雷佳音",
@@ -7467,6 +7571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157893,
+      "num": 157893,
+      "word": "315骗假不留",
+      "onboard_time": 1710310410,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157338,
       "num": 157338,
       "word": "吴镇宇表情",
@@ -7697,6 +7809,14 @@
       "onboard_time": 1710133833,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152402,
+      "num": 152402,
+      "word": "拥有一份毒工作的特征",
+      "onboard_time": 1710309272,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 152103,
@@ -7945,6 +8065,14 @@
       "onboard_time": 1710138449,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143561,
+      "num": 143561,
+      "word": "华师大爱情心理学课程被指性别歧视",
+      "onboard_time": 1710310771,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 143362,
@@ -8267,6 +8395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136336,
+      "num": 136336,
+      "word": "黄雅莉生子",
+      "onboard_time": 1710310893,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136189,
       "num": 136189,
       "word": "石头姐听到获奖的反应",
@@ -8379,11 +8515,27 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 134133,
+      "num": 134133,
+      "word": "半熟恋人3",
+      "onboard_time": 1710309214,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133854,
       "num": 133854,
       "word": "被爱过的人才会爱人",
       "onboard_time": 1710152850,
       "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 133840,
+      "num": 133840,
+      "word": "不存在的同学潘博文立项",
+      "onboard_time": 1710308312,
+      "rank": 45,
       "category": "电影"
     },
     {
@@ -8545,6 +8697,14 @@
       "onboard_time": 1710051810,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128588,
+      "num": 128588,
+      "word": "被名字劝退却很上头的小说",
+      "onboard_time": 1710310893,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 128372,
