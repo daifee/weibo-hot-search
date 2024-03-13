@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710322466486,
+  "endTime": 1710325104974,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -241,6 +241,14 @@
       "onboard_time": 1710137190,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1746487,
+      "num": 1746487,
+      "word": "5岁男孩阳台坠亡时奶奶姥姥在打麻将",
+      "onboard_time": 1710322890,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1731462,
@@ -1027,6 +1035,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 936535,
+      "num": 545535,
+      "word": "王源都当舅舅了",
+      "onboard_time": 1710321573,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 930390,
       "num": 930390,
       "word": "癌症来临时身体会喊痛",
@@ -1475,6 +1491,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 732886,
+      "num": 732886,
+      "word": "村委会回应3名初中生将同学杀害埋尸",
+      "onboard_time": 1710324211,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 732872,
       "num": 732872,
       "word": "陈乔恩13天没吃碳水",
@@ -1761,14 +1785,6 @@
       "onboard_time": 1710310535,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 649456,
-      "num": 414675,
-      "word": "王源都当舅舅了",
-      "onboard_time": 1710321573,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 646989,
@@ -2265,6 +2281,14 @@
       "onboard_time": 1710222811,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 545465,
+      "num": 545465,
+      "word": "网传3名初中生霸凌同学并将其杀害",
+      "onboard_time": 1710324211,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543577,
@@ -3003,6 +3027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425850,
+      "num": 425850,
+      "word": "梅西代言白酒重新上架",
+      "onboard_time": 1710321873,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 425008,
       "num": 425008,
       "word": "别告诉鹿晗家的猫",
@@ -3195,6 +3227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 399308,
+      "num": 399308,
+      "word": "理工择偶",
+      "onboard_time": 1710322653,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 399158,
       "num": 399158,
       "word": "未来黄金价格每克或将超过750元",
@@ -3313,6 +3353,14 @@
       "onboard_time": 1710133115,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386877,
+      "num": 386877,
+      "word": "与凤行特效",
+      "onboard_time": 1710321334,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 385769,
@@ -3441,6 +3489,14 @@
       "onboard_time": 1710239312,
       "rank": 23,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 367379,
+      "num": 367379,
+      "word": "爆炸亲历者称巨响后身上像被东西压",
+      "onboard_time": 1710321755,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366554,
@@ -3755,6 +3811,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 335907,
+      "num": 335907,
+      "word": "体检查出这15种毛病别慌",
+      "onboard_time": 1710318812,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 335607,
       "num": 335607,
       "word": "Gucci晚宴",
@@ -3889,14 +3953,6 @@
       "onboard_time": 1710310771,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 321337,
-      "num": 321337,
-      "word": "与凤行特效",
-      "onboard_time": 1710321334,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 319595,
@@ -4451,6 +4507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 275263,
+      "num": 545536,
+      "word": "柯基在我国警犬界也有姓名了",
+      "onboard_time": 1710322053,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 275023,
       "num": 236414,
       "word": "檀健次回应爆红后熬出头",
@@ -4595,6 +4659,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 264133,
+      "num": 264133,
+      "word": "扁鹊无尽旅途皮肤",
+      "onboard_time": 1710323017,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 264095,
       "num": 264095,
       "word": "燕郊爆炸火势已得到有效控制",
@@ -4609,6 +4681,14 @@
       "onboard_time": 1710238233,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 263866,
+      "num": 263866,
+      "word": "林心如挑选保姆很严格",
+      "onboard_time": 1710324871,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 263683,
@@ -4761,6 +4841,14 @@
       "onboard_time": 1710224311,
       "rank": 38,
       "category": "互联网,国外时政"
+    },
+    {
+      "raw_hot": 254832,
+      "num": 254832,
+      "word": "RNG 看笑了",
+      "onboard_time": 1710324450,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 254275,
@@ -5033,14 +5121,6 @@
       "onboard_time": 1710251495,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 244101,
-      "num": 244101,
-      "word": "体检查出这15种毛病别慌",
-      "onboard_time": 1710318812,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 243994,
@@ -5571,14 +5651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220716,
-      "num": 220716,
-      "word": "爆炸亲历者称巨响后身上像被东西压",
-      "onboard_time": 1710321755,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219562,
       "num": 219562,
       "word": "惠英红模仿刘浩存打字",
@@ -5657,14 +5729,6 @@
       "onboard_time": 1710313533,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 217439,
-      "num": 217439,
-      "word": "梅西代言白酒重新上架",
-      "onboard_time": 1710321873,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 217213,
@@ -6299,6 +6363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198309,
+      "num": 198309,
+      "word": "洪胜汉露面",
+      "onboard_time": 1710324630,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198302,
       "num": 198302,
       "word": "杨紫琼 魔方小姐",
@@ -6419,6 +6491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196929,
+      "num": 268782,
+      "word": "第一次看见这样的闪电",
+      "onboard_time": 1710322593,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196744,
       "num": 196744,
       "word": "奥斯卡派对",
@@ -6473,6 +6553,14 @@
       "onboard_time": 1710180978,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195394,
+      "num": 195394,
+      "word": "缅甸800余名中国籍涉赌诈人员被遣返",
+      "onboard_time": 1710324510,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 195315,
@@ -7275,6 +7363,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 174946,
+      "num": 174946,
+      "word": "何洁恭喜黄雅莉",
+      "onboard_time": 1710323133,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174807,
       "num": 174807,
       "word": "21天不重样减脂食谱",
@@ -7369,6 +7465,14 @@
       "onboard_time": 1710303935,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172153,
+      "num": 172153,
+      "word": "与凤行凤凰vs烈焰凤凰",
+      "onboard_time": 1710323853,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 172078,
@@ -7491,6 +7595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169577,
+      "num": 169577,
+      "word": "华东师大回应心理学课程被指性别歧视",
+      "onboard_time": 1710322113,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 169565,
       "num": 169565,
       "word": "广告公司Excel",
@@ -7587,12 +7699,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 166779,
+      "num": 166779,
+      "word": "女子买重疾险后查出恶性肿瘤保险拒赔",
+      "onboard_time": 1710324755,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 166733,
       "num": 166733,
       "word": "浪姐5一公歌单",
       "onboard_time": 1710025700,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166590,
+      "num": 549006,
+      "word": "小学生用电话手表打120救摔伤老人",
+      "onboard_time": 1710323435,
+      "rank": 8,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 166437,
@@ -7761,14 +7889,6 @@
       "onboard_time": 1710057688,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 162592,
-      "num": 162592,
-      "word": "柯基在我国警犬界也有姓名了",
-      "onboard_time": 1710322053,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 162579,
@@ -8363,6 +8483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 150452,
+      "num": 150452,
+      "word": "去年315晚会曝光企业现状",
+      "onboard_time": 1710323373,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149782,
       "num": 556344,
       "word": "姚明解读村BA为何出圈",
@@ -8539,6 +8667,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 144399,
+      "num": 144399,
+      "word": "张一山告黑成功",
+      "onboard_time": 1710323973,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144253,
       "num": 144253,
       "word": "国足新帅伊万科维奇率队首训",
@@ -8553,6 +8689,14 @@
       "onboard_time": 1710138449,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143444,
+      "num": 143444,
+      "word": "高启强被电工夸专业的动作",
+      "onboard_time": 1710322951,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 143362,
@@ -8825,14 +8969,6 @@
       "onboard_time": 1710252572,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137522,
-      "num": 137522,
-      "word": "华东师大回应心理学课程被指性别歧视",
-      "onboard_time": 1710322113,
-      "rank": 41,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 137514,
@@ -9121,6 +9257,14 @@
       "onboard_time": 1710318334,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 131062,
+      "num": 131062,
+      "word": "RNG对战AL",
+      "onboard_time": 1710324332,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 130991,
@@ -9716,7 +9860,7 @@
     },
     {
       "raw_hot": 115490,
-      "num": 1251648,
+      "num": 1389620,
       "word": "发展新质生产力的核心要素",
       "onboard_time": 1710316114,
       "rank": 2,
