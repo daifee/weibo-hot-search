@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710321498208,
+  "endTime": 1710322466486,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1091,6 +1091,14 @@
       "category": "情感,社会新闻"
     },
     {
+      "raw_hot": 1496874,
+      "num": 1496874,
+      "word": "女子过年买金仅一月小赚近1万",
+      "onboard_time": 1710319534,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1494831,
       "num": 1494831,
       "word": "金价持续暴涨建行紧急公告",
@@ -1745,14 +1753,6 @@
       "onboard_time": 1710230912,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1207923,
-      "num": 1207923,
-      "word": "女子过年买金仅一月小赚近1万",
-      "onboard_time": 1710319534,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1204968,
@@ -5377,6 +5377,14 @@
       "onboard_time": 1710310535,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 649456,
+      "num": 414675,
+      "word": "王源都当舅舅了",
+      "onboard_time": 1710321573,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 647712,
@@ -12371,6 +12379,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 321337,
+      "num": 321337,
+      "word": "与凤行特效",
+      "onboard_time": 1710321334,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321335,
       "num": 321335,
       "word": "TES时隔736天重回S组",
@@ -15035,6 +15051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259220,
+      "num": 259220,
+      "word": "檀健次回应be是自己的舒适区",
+      "onboard_time": 1710321034,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 259192,
       "num": 259192,
       "word": "陶喆玩梗",
@@ -15881,6 +15905,14 @@
       "onboard_time": 1710251495,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 244101,
+      "num": 244101,
+      "word": "体检查出这15种毛病别慌",
+      "onboard_time": 1710318812,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 244058,
@@ -17387,6 +17419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220716,
+      "num": 220716,
+      "word": "爆炸亲历者称巨响后身上像被东西压",
+      "onboard_time": 1710321755,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220649,
       "num": 220649,
       "word": "王毅说不能再允许谁拳头大谁说了算",
@@ -17651,6 +17691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 217439,
+      "num": 217439,
+      "word": "梅西代言白酒重新上架",
+      "onboard_time": 1710321873,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217392,
       "num": 217392,
       "word": "F1",
@@ -17825,6 +17873,14 @@
       "onboard_time": 1709853085,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 215412,
+      "num": 215412,
+      "word": "原神",
+      "onboard_time": 1709350171,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 215402,
@@ -18291,14 +18347,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 211095,
-      "num": 211095,
-      "word": "体检查出这15种毛病别慌",
-      "onboard_time": 1710318812,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 211061,
       "num": 211061,
       "word": "火出圈的天水麻辣烫",
@@ -18473,14 +18521,6 @@
       "onboard_time": 1709388995,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 209166,
-      "num": 209166,
-      "word": "檀健次回应be是自己的舒适区",
-      "onboard_time": 1710321034,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 208985,
@@ -19497,6 +19537,14 @@
       "onboard_time": 1709342011,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 200405,
+      "num": 200405,
+      "word": "春招",
+      "onboard_time": 1710321272,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 200401,
@@ -23371,14 +23419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170553,
-      "num": 170553,
-      "word": "与凤行特效",
-      "onboard_time": 1710321334,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170544,
       "num": 170544,
       "word": "冷冻食品可千万别直接下锅",
@@ -24539,6 +24579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162592,
+      "num": 162592,
+      "word": "柯基在我国警犬界也有姓名了",
+      "onboard_time": 1710322053,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162590,
       "num": 162590,
       "word": "文森特预计三月中下旬复出",
@@ -25097,6 +25145,14 @@
       "onboard_time": 1710304415,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158853,
+      "num": 158853,
+      "word": "做饭最忌灵机一动",
+      "onboard_time": 1710321334,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 158833,
@@ -27795,14 +27851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141971,
-      "num": 141971,
-      "word": "做饭最忌灵机一动",
-      "onboard_time": 1710321334,
-      "rank": 40,
-      "category": "美食"
-    },
-    {
       "raw_hot": 141950,
       "num": 141950,
       "word": "宋亚东不敌彼得严",
@@ -27865,6 +27913,14 @@
       "onboard_time": 1710123933,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141328,
+      "num": 141328,
+      "word": "克雷桑复出",
+      "onboard_time": 1710321334,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 141311,
@@ -28499,6 +28555,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 137522,
+      "num": 137522,
+      "word": "华东师大回应心理学课程被指性别歧视",
+      "onboard_time": 1710322113,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 137514,
       "num": 137514,
       "word": "持铁锤打砸抢金店男子疑有精神疾病",
@@ -28841,14 +28905,6 @@
       "onboard_time": 1709338108,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 135457,
-      "num": 135457,
-      "word": "克雷桑复出",
-      "onboard_time": 1710321334,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 135436,
@@ -30275,14 +30331,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126316,
-      "num": 126316,
-      "word": "春招",
-      "onboard_time": 1710321272,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 126155,
       "num": 126155,
       "word": "为什么办公室温度男性舒适女性冷",
@@ -31299,14 +31347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118721,
-      "num": 118721,
-      "word": "原神",
-      "onboard_time": 1709350171,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 118710,
       "num": 118710,
       "word": "迷风花 下课",
@@ -31657,6 +31697,14 @@
       "onboard_time": 1710041190,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116728,
+      "num": 116728,
+      "word": "WE对战XYG",
+      "onboard_time": 1710322409,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 116635,

@@ -1,6 +1,6 @@
 {
   "startTime": 1710260540441,
-  "endTime": 1710321498208,
+  "endTime": 1710322466486,
   "band_list": [
     {
       "raw_hot": 6964861,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1496874,
+      "num": 1496874,
+      "word": "女子过年买金仅一月小赚近1万",
+      "onboard_time": 1710319534,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1376874,
       "num": 1142770,
       "word": "朱珠产后瘦了近50斤",
@@ -129,14 +137,6 @@
       "onboard_time": 1710316834,
       "rank": 20,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 1207923,
-      "num": 1207923,
-      "word": "女子过年买金仅一月小赚近1万",
-      "onboard_time": 1710319534,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1166619,
@@ -361,6 +361,14 @@
       "onboard_time": 1710310535,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 649456,
+      "num": 414675,
+      "word": "王源都当舅舅了",
+      "onboard_time": 1710321573,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 635485,
@@ -787,6 +795,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 321337,
+      "num": 321337,
+      "word": "与凤行特效",
+      "onboard_time": 1710321334,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 319595,
       "num": 319595,
       "word": "原神开门",
@@ -1027,6 +1043,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 259220,
+      "num": 259220,
+      "word": "檀健次回应be是自己的舒适区",
+      "onboard_time": 1710321034,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 256215,
       "num": 256215,
       "word": "燕郊一商铺爆炸消防正救援",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1710306275,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 244101,
+      "num": 244101,
+      "word": "体检查出这15种毛病别慌",
+      "onboard_time": 1710318812,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 243994,
@@ -1179,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220716,
+      "num": 220716,
+      "word": "爆炸亲历者称巨响后身上像被东西压",
+      "onboard_time": 1710321755,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218077,
       "num": 218077,
       "word": "原神4.5",
@@ -1193,6 +1233,22 @@
       "onboard_time": 1710313533,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217439,
+      "num": 217439,
+      "word": "梅西代言白酒重新上架",
+      "onboard_time": 1710321873,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 215412,
+      "num": 215412,
+      "word": "原神",
+      "onboard_time": 1710321934,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 214330,
@@ -1219,14 +1275,6 @@
       "category": "网红,社会新闻"
     },
     {
-      "raw_hot": 211095,
-      "num": 211095,
-      "word": "体检查出这15种毛病别慌",
-      "onboard_time": 1710318812,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 210329,
       "num": 210329,
       "word": "考研自划线",
@@ -1241,14 +1289,6 @@
       "onboard_time": 1710310473,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 209166,
-      "num": 209166,
-      "word": "檀健次回应be是自己的舒适区",
-      "onboard_time": 1710321034,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 208439,
@@ -1321,6 +1361,14 @@
       "onboard_time": 1710285327,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200405,
+      "num": 200405,
+      "word": "春招",
+      "onboard_time": 1710321272,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 199098,
@@ -1595,14 +1643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170553,
-      "num": 170553,
-      "word": "与凤行特效",
-      "onboard_time": 1710321334,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170175,
       "num": 170175,
       "word": "巴萨3比1那不勒斯",
@@ -1667,6 +1707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162592,
+      "num": 162592,
+      "word": "柯基在我国警犬界也有姓名了",
+      "onboard_time": 1710322053,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161792,
       "num": 161792,
       "word": "高君雨同学发声",
@@ -1713,6 +1761,14 @@
       "onboard_time": 1710304415,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158853,
+      "num": 158853,
+      "word": "做饭最忌灵机一动",
+      "onboard_time": 1710321334,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 158638,
@@ -1835,12 +1891,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 141971,
-      "num": 141971,
-      "word": "做饭最忌灵机一动",
+      "raw_hot": 141328,
+      "num": 141328,
+      "word": "克雷桑复出",
       "onboard_time": 1710321334,
-      "rank": 40,
-      "category": "美食"
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 140286,
@@ -1851,20 +1907,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137522,
+      "num": 137522,
+      "word": "华东师大回应心理学课程被指性别歧视",
+      "onboard_time": 1710322113,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 136017,
       "num": 114339,
       "word": "章子怡落泪感谢陈可辛",
       "onboard_time": 1710245253,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 135457,
-      "num": 135457,
-      "word": "克雷桑复出",
-      "onboard_time": 1710321334,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 134133,
@@ -1963,14 +2019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126316,
-      "num": 126316,
-      "word": "春招",
-      "onboard_time": 1710321272,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 124584,
       "num": 124584,
       "word": "历时37年再现红楼梦人物服饰",
@@ -2033,6 +2081,14 @@
       "onboard_time": 1710303035,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 116728,
+      "num": 116728,
+      "word": "WE对战XYG",
+      "onboard_time": 1710322409,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 116723,
