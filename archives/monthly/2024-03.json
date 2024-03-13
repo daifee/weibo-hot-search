@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710293615445,
+  "endTime": 1710296665825,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -24,6 +24,14 @@
       "word": "德州车祸致2死6重伤",
       "onboard_time": 1709291435,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4703483,
+      "num": 4703483,
+      "word": "燕郊镇发生爆炸",
+      "onboard_time": 1710290554,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -353,6 +361,22 @@
       "onboard_time": 1709367333,
       "rank": 26,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 2039993,
+      "num": 2039993,
+      "word": "Dior事件后马面裙卖疯了",
+      "onboard_time": 1710293732,
+      "rank": 1,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 2031986,
+      "num": 2031986,
+      "word": "国乒爆冷",
+      "onboard_time": 1710292771,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2019796,
@@ -1787,14 +1811,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1150647,
-      "num": 1150647,
-      "word": "国乒爆冷",
-      "onboard_time": 1710292771,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1150307,
       "num": 467740,
       "word": "赵丽颖工作室 还不出图",
@@ -2097,6 +2113,14 @@
       "onboard_time": 1709554054,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1066853,
+      "num": 426869,
+      "word": "商户说燕郊爆炸建筑几乎炸没了",
+      "onboard_time": 1710295053,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1065140,
@@ -4499,6 +4523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 705126,
+      "num": 705126,
+      "word": "医师劝阻100斤要做减重手术的人",
+      "onboard_time": 1710292837,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 704633,
       "num": 704633,
       "word": "代表建议为适龄女性免费接种HPV疫苗",
@@ -4553,6 +4585,14 @@
       "onboard_time": 1709967689,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 700197,
+      "num": 415572,
+      "word": "燕郊爆炸现场冒出巨大火球",
+      "onboard_time": 1710294573,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 699432,
@@ -6835,6 +6875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 537077,
+      "num": 410570,
+      "word": "燕郊小区底商爆炸伤者已送医",
+      "onboard_time": 1710295533,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 536468,
       "num": 328237,
       "word": "樊振东唱LoveStory",
@@ -7521,6 +7569,14 @@
       "onboard_time": 1710252155,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 498508,
+      "num": 498508,
+      "word": "某爆款短剧承制方盈利不足100万",
+      "onboard_time": 1710292837,
+      "rank": 18,
+      "category": "社会新闻,剧集"
     },
     {
       "raw_hot": 497662,
@@ -8923,12 +8979,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 433058,
+      "num": 401824,
+      "word": "钟薛高有员工称已数月未领到工资",
+      "onboard_time": 1710294212,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432995,
       "num": 432995,
       "word": "赵丽颖出道前的工作",
       "onboard_time": 1709285072,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 432594,
+      "num": 432594,
+      "word": "钟薛高总部研发区域空无一人",
+      "onboard_time": 1710293071,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432555,
@@ -9737,6 +9809,14 @@
       "onboard_time": 1709540672,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 396829,
+      "num": 396829,
+      "word": "王楚钦重回男单世界第一",
+      "onboard_time": 1710293071,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 396722,
@@ -10835,6 +10915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355402,
+      "num": 282257,
+      "word": "这届年轻人真的不想生吗",
+      "onboard_time": 1710293552,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354931,
       "num": 319729,
       "word": "赵今麦直播状态",
@@ -11201,14 +11289,6 @@
       "onboard_time": 1710032186,
       "rank": 19,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 343290,
-      "num": 343290,
-      "word": "某爆款短剧承制方盈利不足100万",
-      "onboard_time": 1710292837,
-      "rank": 18,
-      "category": "社会新闻,剧集"
     },
     {
       "raw_hot": 342935,
@@ -11713,6 +11793,14 @@
       "onboard_time": 1709871931,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 327273,
+      "num": 260537,
+      "word": "39元瑞士卷被黄牛炒到120元",
+      "onboard_time": 1710293192,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 327014,
@@ -12225,6 +12313,14 @@
       "onboard_time": 1710235054,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 312014,
+      "num": 312014,
+      "word": "原神开门",
+      "onboard_time": 1710294994,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 311991,
@@ -13251,14 +13347,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 285332,
-      "num": 285332,
-      "word": "王楚钦重回男单世界第一",
-      "onboard_time": 1710293071,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 285255,
       "num": 216062,
       "word": "午睡有个最佳时长",
@@ -13721,14 +13809,6 @@
       "onboard_time": 1709291913,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 273895,
-      "num": 273895,
-      "word": "医师劝阻100斤要做减重手术的人",
-      "onboard_time": 1710292837,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273843,
@@ -14339,6 +14419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 259781,
+      "num": 259781,
+      "word": "从不运动和坚持运动的人差别有多大",
+      "onboard_time": 1710292837,
+      "rank": 28,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 259282,
       "num": 246935,
       "word": "王一博Caroline秀后聊天",
@@ -14761,6 +14849,14 @@
       "onboard_time": 1709683589,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 251215,
+      "num": 251215,
+      "word": "燕郊爆炸致多名过路司机受伤",
+      "onboard_time": 1710295773,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250889,
@@ -16075,6 +16171,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 228201,
+      "num": 228201,
+      "word": "甘肃天水麻辣烫",
+      "onboard_time": 1710295892,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 228011,
       "num": 228011,
       "word": "王一博巴黎时装周",
@@ -16579,14 +16683,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 221104,
-      "num": 221104,
-      "word": "钟薛高总部研发区域空无一人",
-      "onboard_time": 1710293071,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221038,
       "num": 221038,
       "word": "刘诗诗近期碎片",
@@ -16745,14 +16841,6 @@
       "onboard_time": 1709512955,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 218500,
-      "num": 218500,
-      "word": "从不运动和坚持运动的人差别有多大",
-      "onboard_time": 1710292837,
-      "rank": 28,
-      "category": "运动健身"
     },
     {
       "raw_hot": 218492,
@@ -18139,14 +18227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204293,
-      "num": 204293,
-      "word": "39元瑞士卷被黄牛炒到120元",
-      "onboard_time": 1710293192,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 204117,
       "num": 204117,
       "word": "檀健次打字速度",
@@ -19051,6 +19131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197179,
+      "num": 197179,
+      "word": "Xiaohao缺席WBG首发名单",
+      "onboard_time": 1710295474,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197117,
       "num": 197117,
       "word": "希望你结婚的唯一原因是你想",
@@ -19433,6 +19521,14 @@
       "onboard_time": 1709804609,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194343,
+      "num": 194343,
+      "word": "看似很舒服其实很伤身体的行为",
+      "onboard_time": 1710295773,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 194285,
@@ -19827,6 +19923,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 191328,
+      "num": 191328,
+      "word": "燕郊爆炸事故调查组已到场",
+      "onboard_time": 1710294573,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191269,
       "num": 191269,
       "word": "妇女节礼物",
@@ -20137,6 +20241,14 @@
       "onboard_time": 1709694092,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188830,
+      "num": 188830,
+      "word": "江苏卫视种地吧2定档",
+      "onboard_time": 1710296493,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 188823,
@@ -20649,6 +20761,14 @@
       "onboard_time": 1709813550,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184185,
+      "num": 184185,
+      "word": "乒乓球没有应该",
+      "onboard_time": 1710294873,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 184095,
@@ -23843,6 +23963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159911,
+      "num": 159911,
+      "word": "安徽省考",
+      "onboard_time": 1710295295,
+      "rank": 42,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 159899,
       "num": 159899,
       "word": "学校总喜欢把钱花在刀把上",
@@ -24723,6 +24851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154558,
+      "num": 154558,
+      "word": "4只野生东北虎现身村民家门口",
+      "onboard_time": 1710293973,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154549,
       "num": 154549,
       "word": "刘宪华站桌子上表演",
@@ -25219,14 +25355,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 151386,
-      "num": 151386,
-      "word": "这届年轻人真的不想生吗",
-      "onboard_time": 1710293552,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151361,
       "num": 151361,
       "word": "这样洗菜当心越洗越脏",
@@ -25409,6 +25537,14 @@
       "onboard_time": 1709509226,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150078,
+      "num": 150078,
+      "word": "燕郊爆炸火势已得到有效控制",
+      "onboard_time": 1710296614,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150061,
@@ -32420,7 +32556,7 @@
     },
     {
       "raw_hot": 95380,
-      "num": 1305743,
+      "num": 2034252,
       "word": "2024年民生工作三大重点",
       "onboard_time": 1710248193,
       "rank": 2,
