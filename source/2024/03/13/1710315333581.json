@@ -1,0 +1,410 @@
+{
+  "runTime": 1710315333581,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1472973,
+        "num": 1472973,
+        "word": "燕郊爆炸已致2死26伤",
+        "onboard_time": 1710308552,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1130716,
+        "num": 1130716,
+        "word": "阿沁老婆涉毒被捕",
+        "onboard_time": 1710314494,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117628,
+        "num": 935318,
+        "word": "政府工作报告全文",
+        "onboard_time": 1710303035,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 907572,
+        "num": 907572,
+        "word": "月薪15000住家阿姨的一天",
+        "onboard_time": 1710309272,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 890244,
+        "num": 890244,
+        "word": "TikTok开始反击",
+        "onboard_time": 1710310473,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 756082,
+        "num": 756082,
+        "word": "阚清子",
+        "onboard_time": 1710311311,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 751115,
+        "num": 751115,
+        "word": "爱奇艺腾讯优酷卷起来了",
+        "onboard_time": 1710312030,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 650052,
+        "num": 650052,
+        "word": "凯特王妃到底去哪儿了",
+        "onboard_time": 1710310535,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 592635,
+        "num": 592635,
+        "word": "黄晓明肚子",
+        "onboard_time": 1710307111,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 583711,
+        "num": 583711,
+        "word": "朋友圈发这些可能会被封号",
+        "onboard_time": 1710302554,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 2649459,
+        "num": 579835,
+        "word": "刘宇 抄袭",
+        "onboard_time": 1710311371,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1211632,
+        "num": 570373,
+        "word": "黄雅莉生子",
+        "onboard_time": 1710310893,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547421,
+        "num": 547421,
+        "word": "中国C919飞机在美降落时发生事故真相",
+        "onboard_time": 1710312632,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471208,
+        "num": 471208,
+        "word": "吴昕的裙子是蓝色还是绿色",
+        "onboard_time": 1710312993,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390638,
+        "num": 390638,
+        "word": "燕郊炸鸡店爆燃后4层楼体坍塌",
+        "onboard_time": 1710301057,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375465,
+        "num": 375465,
+        "word": "一个月减重4到8斤比较合理",
+        "onboard_time": 1710306693,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 356017,
+        "num": 356017,
+        "word": "网友用AI复活李玟",
+        "onboard_time": 1710308794,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56925,
+        "num": 339075,
+        "word": "跟着时尚大牌学出圈",
+        "onboard_time": 1710311975,
+        "rank": 17,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 338126,
+        "num": 338126,
+        "word": "马龙林高远3比0英格兰组合",
+        "onboard_time": 1710313234,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260461,
+        "num": 312935,
+        "word": "黄旭熙官宣粉丝见面会",
+        "onboard_time": 1710309933,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 297034,
+        "num": 297034,
+        "word": "喝水后的4个异常或为肾在求救",
+        "onboard_time": 1710307294,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 266356,
+        "num": 266356,
+        "word": "高校回应疑有学生赤身裸体去上课",
+        "onboard_time": 1710312513,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260065,
+        "num": 260065,
+        "word": "10年前买黄金的人赚了多少",
+        "onboard_time": 1710311491,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 249495,
+        "num": 249495,
+        "word": "玲娜贝儿 头之大婚纱当头纱都装不下",
+        "onboard_time": 1710314074,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 246353,
+        "num": 246353,
+        "word": "肖战表情梦回魏无羡",
+        "onboard_time": 1710309993,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220338,
+        "num": 220338,
+        "word": "别告诉鹿晗家的猫",
+        "onboard_time": 1710306934,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211351,
+        "num": 211351,
+        "word": "白敬亭潮牌成立娱乐公司",
+        "onboard_time": 1710308912,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205467,
+        "num": 205467,
+        "word": "GOING特别篇",
+        "onboard_time": 1710314193,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204198,
+        "num": 204198,
+        "word": "终于知道蒜苔为什么那么贵了",
+        "onboard_time": 1710307892,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 193000,
+        "num": 193000,
+        "word": "刘亦菲回京与好友聚餐",
+        "onboard_time": 1710313113,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208659,
+        "num": 192970,
+        "word": "樊振东王楚钦男双进8强",
+        "onboard_time": 1710315095,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189407,
+        "num": 189407,
+        "word": "张颂文曾舜晞买菜路透",
+        "onboard_time": 1710307414,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184415,
+        "num": 184415,
+        "word": "为什么领导很少请病假",
+        "onboard_time": 1710303457,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177503,
+        "num": 177503,
+        "word": "大学生的早八 新中式恐怖",
+        "onboard_time": 1710313533,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169849,
+        "num": 169849,
+        "word": "苹果是水果界馒头吗",
+        "onboard_time": 1710312030,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161442,
+        "num": 161442,
+        "word": "与凤行",
+        "onboard_time": 1710313175,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161240,
+        "num": 161240,
+        "word": "陈梦王曼昱晋级",
+        "onboard_time": 1710315154,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157754,
+        "num": 157754,
+        "word": "种地吧导演也没认出陈少熙",
+        "onboard_time": 1710314373,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154946,
+        "num": 154946,
+        "word": "国乒爆冷",
+        "onboard_time": 1710292771,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153176,
+        "num": 153176,
+        "word": "提议大学生修满学分就毕业",
+        "onboard_time": 1710311914,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 150020,
+        "num": 150020,
+        "word": "中国太保太平保险等险企逼宫万科",
+        "onboard_time": 1710312513,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149190,
+        "num": 149190,
+        "word": "朋友想渗透我其他的朋友圈",
+        "onboard_time": 1710314074,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143731,
+        "num": 143731,
+        "word": "韩国偶遇孙红雷一家",
+        "onboard_time": 1710311133,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142391,
+        "num": 142391,
+        "word": "Prada 檀健次",
+        "onboard_time": 1710305615,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 134247,
+        "num": 134247,
+        "word": "直击燕郊爆炸救援现场",
+        "onboard_time": 1710300335,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133852,
+        "num": 133852,
+        "word": "Gucci品牌好友",
+        "onboard_time": 1710313594,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133668,
+        "num": 133668,
+        "word": "魏大勋丹宁风",
+        "onboard_time": 1710312030,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131691,
+        "num": 131691,
+        "word": "陈乔恩古装回归",
+        "onboard_time": 1710310292,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130078,
+        "num": 130078,
+        "word": "上海消保委点名茉酸奶",
+        "onboard_time": 1710301177,
+        "rank": 48,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 126251,
+        "num": 126251,
+        "word": "广告公司Excel",
+        "onboard_time": 1710307592,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把职业教育发展好要树立工匠精神#"
+    }
+  }
+}
