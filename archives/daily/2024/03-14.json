@@ -1,6 +1,6 @@
 {
   "startTime": 1710346860842,
-  "endTime": 1710362062000,
+  "endTime": 1710364678924,
   "band_list": [
     {
       "raw_hot": 1678525,
@@ -243,6 +243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 161404,
+      "num": 34787,
+      "word": "燕郊爆燃事故致7死27伤",
+      "onboard_time": 1710356418,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148690,
       "num": 148690,
       "word": "成龙头发胡子白了",
@@ -305,14 +313,6 @@
       "onboard_time": 1710326492,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 112006,
-      "num": 34787,
-      "word": "燕郊爆燃事故致7死27伤",
-      "onboard_time": 1710356418,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109784,
@@ -515,12 +515,44 @@
       "category": "剧集,综艺"
     },
     {
+      "raw_hot": 19487,
+      "num": 19487,
+      "word": "檀健次感慨电影之路",
+      "onboard_time": 1710364516,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 18622,
       "num": 18622,
       "word": "宋丹丹舞台剧三分钟独白",
       "onboard_time": 1710356237,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 16591,
+      "num": 16591,
+      "word": "檀健次片场碎片",
+      "onboard_time": 1710363015,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15124,
+      "num": 15124,
+      "word": "减肥版司美格鲁肽未在我国获批",
+      "onboard_time": 1710362955,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 13608,
+      "num": 14134,
+      "word": "原来真有顺拐的马",
+      "onboard_time": 1710364096,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 12886,
