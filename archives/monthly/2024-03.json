@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710336929956,
+  "endTime": 1710339381281,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -619,6 +619,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1808229,
+      "num": 502573,
+      "word": "央视记者",
+      "onboard_time": 1710333872,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1796542,
       "num": 1796542,
       "word": "朱梓骁被纪凌尘气炸了",
@@ -817,14 +825,6 @@
       "onboard_time": 1709448090,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1668046,
-      "num": 481496,
-      "word": "央视记者",
-      "onboard_time": 1710333872,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1665708,
@@ -3451,6 +3451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 856658,
+      "num": 856658,
+      "word": "和平精英 姚安娜动作",
+      "onboard_time": 1710334292,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 854341,
       "num": 854341,
       "word": "日媒曝国乒教练可能调整",
@@ -4587,6 +4595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 718830,
+      "num": 494893,
+      "word": "茶颜悦色建议用农夫山泉泡茶",
+      "onboard_time": 1710338318,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 718443,
       "num": 718443,
       "word": "两个C位都在乐华",
@@ -5675,6 +5691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 637412,
+      "num": 637412,
+      "word": "Q币结算工资",
+      "onboard_time": 1710333933,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 637145,
       "num": 637145,
       "word": "台湾海巡艇被目击与大陆海警船并行",
@@ -5689,6 +5713,14 @@
       "onboard_time": 1709453908,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636642,
+      "num": 361650,
+      "word": "月薪5000元看不起付费短剧",
+      "onboard_time": 1710335973,
+      "rank": 20,
+      "category": "社会新闻,剧集"
     },
     {
       "raw_hot": 635945,
@@ -5873,14 +5905,6 @@
       "onboard_time": 1709562576,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 621671,
-      "num": 611268,
-      "word": "Q币结算工资",
-      "onboard_time": 1710333933,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 621399,
@@ -7795,6 +7819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 508292,
+      "num": 508292,
+      "word": "五粮液声明称没在拼多多开设官方店",
+      "onboard_time": 1710333573,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 508211,
       "num": 441406,
       "word": "张杰会在女儿婚礼上唱三生三世",
@@ -7905,14 +7937,6 @@
       "onboard_time": 1709619031,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 500942,
-      "num": 361650,
-      "word": "月薪5000元看不起付费短剧",
-      "onboard_time": 1710335973,
-      "rank": 20,
-      "category": "社会新闻,剧集"
     },
     {
       "raw_hot": 500698,
@@ -8145,6 +8169,14 @@
       "onboard_time": 1709602410,
       "rank": 5,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 489864,
+      "num": 556090,
+      "word": "燕郊爆炸初步确认是燃气泄漏引发",
+      "onboard_time": 1710327510,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 489795,
@@ -8409,14 +8441,6 @@
       "onboard_time": 1709626595,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 480537,
-      "num": 480537,
-      "word": "五粮液声明称没在拼多多开设官方店",
-      "onboard_time": 1710333573,
-      "rank": 34,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 479756,
@@ -8747,14 +8771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 464508,
-      "num": 556090,
-      "word": "燕郊爆炸初步确认是燃气泄漏引发",
-      "onboard_time": 1710327510,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 464389,
       "num": 464389,
       "word": "官方通报村支书坐拥60亩地",
@@ -8977,6 +8993,14 @@
       "onboard_time": 1710102375,
       "rank": 38,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 453584,
+      "num": 453584,
+      "word": "哥哥帮妹妹换纸尿裤划破眼球",
+      "onboard_time": 1710336275,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453115,
@@ -11265,14 +11289,6 @@
       "onboard_time": 1709523933,
       "rank": 31,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 367115,
-      "num": 367115,
-      "word": "和平精英 姚安娜动作",
-      "onboard_time": 1710334292,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 366815,
@@ -15152,6 +15168,14 @@
       "word": "惊蛰为啥吃梨",
       "onboard_time": 1709593824,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264448,
+      "num": 264448,
+      "word": "面对女儿的拥抱她下意识躲开了",
+      "onboard_time": 1710337416,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -19379,6 +19403,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 205298,
+      "num": 205298,
+      "word": "记协就记者报道燕郊爆炸事故被拦发声",
+      "onboard_time": 1710338856,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205279,
       "num": 205279,
       "word": "赵雷济南",
@@ -20329,6 +20361,14 @@
       "onboard_time": 1709258852,
       "rank": 28,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 197893,
+      "num": 197893,
+      "word": "成年后的感情都是刻舟求剑",
+      "onboard_time": 1710336816,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 197884,
@@ -21315,6 +21355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191479,
+      "num": 176070,
+      "word": "正当采访是记者的权利",
+      "onboard_time": 1710339091,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191356,
       "num": 191356,
       "word": "女程序员收到公司防脱发大礼包",
@@ -21697,14 +21745,6 @@
       "onboard_time": 1709602527,
       "rank": 32,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 188636,
-      "num": 188636,
-      "word": "哥哥帮妹妹换纸尿裤划破眼球",
-      "onboard_time": 1710336275,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188622,
@@ -24139,6 +24179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169628,
+      "num": 169628,
+      "word": "大张伟直播",
+      "onboard_time": 1710338495,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169586,
       "num": 169586,
       "word": "女生爱背包包的原因找到了",
@@ -25193,6 +25241,14 @@
       "onboard_time": 1709344108,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162180,
+      "num": 162180,
+      "word": "章昊RICKY回国参加活动心情",
+      "onboard_time": 1710338195,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 162136,
@@ -26771,6 +26827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 152919,
+      "num": 152919,
+      "word": "唐嫣朦胧美",
+      "onboard_time": 1710336454,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152895,
       "num": 152895,
       "word": "北京国安越位",
@@ -28243,6 +28307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 143723,
+      "num": 143723,
+      "word": "首先找到你喜欢的事",
+      "onboard_time": 1710338616,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143693,
       "num": 143693,
       "word": "共享充电宝为什么成了刺客",
@@ -29625,14 +29697,6 @@
       "onboard_time": 1709958450,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 135069,
-      "num": 135069,
-      "word": "唐嫣朦胧美",
-      "onboard_time": 1710336454,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 134981,
@@ -31265,14 +31329,6 @@
       "onboard_time": 1709641473,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 124134,
-      "num": 124134,
-      "word": "成年后的感情都是刻舟求剑",
-      "onboard_time": 1710336816,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 124117,
