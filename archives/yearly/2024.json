@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1710311680012,
+  "endTime": 1710314154178,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1659,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2868681,
+      "num": 2868681,
+      "word": "刘宇 抄袭",
+      "onboard_time": 1710311371,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2847937,
       "num": 2847937,
       "word": "白敬亭衣服 DVN",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1708692151,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2483817,
-      "num": 2483817,
-      "word": "杨幂 步步生莲",
-      "onboard_time": 1705139633,
-      "rank": 7,
-      "category": "作品衍生"
     }
   ],
   "hotgov_list": [

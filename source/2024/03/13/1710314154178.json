@@ -1,0 +1,410 @@
+{
+  "runTime": 1710314154178,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2868681,
+        "num": 2868681,
+        "word": "刘宇 抄袭",
+        "onboard_time": 1710311371,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1721806,
+        "num": 1721806,
+        "word": "燕郊爆炸已致2死26伤",
+        "onboard_time": 1710308552,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116809,
+        "num": 1223103,
+        "word": "政府工作报告全文",
+        "onboard_time": 1710303035,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 992270,
+        "num": 992270,
+        "word": "月薪15000住家阿姨的一天",
+        "onboard_time": 1710309272,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 968331,
+        "num": 968331,
+        "word": "阚清子",
+        "onboard_time": 1710311311,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 844859,
+        "num": 844859,
+        "word": "TikTok开始反击",
+        "onboard_time": 1710310473,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 669707,
+        "num": 669707,
+        "word": "黄晓明肚子",
+        "onboard_time": 1710307111,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 657497,
+        "num": 657497,
+        "word": "朋友圈发这些可能会被封号",
+        "onboard_time": 1710302554,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 627437,
+        "num": 627437,
+        "word": "凯特王妃到底去哪儿了",
+        "onboard_time": 1710310535,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 626953,
+        "num": 626953,
+        "word": "爱奇艺腾讯优酷卷起来了",
+        "onboard_time": 1710312030,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1578793,
+        "num": 530656,
+        "word": "黄雅莉生子",
+        "onboard_time": 1710310893,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409318,
+        "num": 409318,
+        "word": "网友用AI复活李玟",
+        "onboard_time": 1710308794,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399859,
+        "num": 399859,
+        "word": "燕郊炸鸡店爆燃后4层楼体坍塌",
+        "onboard_time": 1710301057,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393441,
+        "num": 393441,
+        "word": "一个月减重4到8斤比较合理",
+        "onboard_time": 1710306693,
+        "rank": 13,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 321922,
+        "num": 321922,
+        "word": "极氪收到大量投诉",
+        "onboard_time": 1710310771,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 311187,
+        "num": 311187,
+        "word": "张颂文曾舜晞买菜路透",
+        "onboard_time": 1710307414,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301924,
+        "num": 301924,
+        "word": "黄旭熙官宣粉丝见面会",
+        "onboard_time": 1710309933,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 295874,
+        "num": 295874,
+        "word": "白敬亭潮牌成立娱乐公司",
+        "onboard_time": 1710308912,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72381,
+        "num": 291868,
+        "word": "跟着时尚大牌学出圈",
+        "onboard_time": 1710311975,
+        "rank": 18,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 289933,
+        "num": 289933,
+        "word": "马龙林高远3比0英格兰组合",
+        "onboard_time": 1710313234,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357962,
+        "num": 289621,
+        "word": "中国C919飞机在美降落时发生事故真相",
+        "onboard_time": 1710312632,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324392,
+        "num": 289446,
+        "word": "喝水后的4个异常或为肾在求救",
+        "onboard_time": 1710307294,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 301006,
+        "num": 289237,
+        "word": "肖战表情梦回魏无羡",
+        "onboard_time": 1710309993,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289018,
+        "num": 289018,
+        "word": "吴昕的裙子是蓝色还是绿色",
+        "onboard_time": 1710312993,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279839,
+        "num": 279839,
+        "word": "别告诉鹿晗家的猫",
+        "onboard_time": 1710306934,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270267,
+        "num": 270267,
+        "word": "高校回应疑有学生赤身裸体去上课",
+        "onboard_time": 1710312513,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233445,
+        "num": 233445,
+        "word": "10年前买黄金的人赚了多少",
+        "onboard_time": 1710311491,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 224693,
+        "num": 224693,
+        "word": "终于知道蒜苔为什么那么贵了",
+        "onboard_time": 1710307892,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 209404,
+        "num": 209404,
+        "word": "韩国偶遇孙红雷一家",
+        "onboard_time": 1710311133,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205980,
+        "num": 205980,
+        "word": "为什么领导很少请病假",
+        "onboard_time": 1710303457,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198851,
+        "num": 198851,
+        "word": "刘亦菲回京与好友聚餐",
+        "onboard_time": 1710313113,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187793,
+        "num": 187793,
+        "word": "与凤行",
+        "onboard_time": 1710313175,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175493,
+        "num": 175493,
+        "word": "Gucci品牌好友",
+        "onboard_time": 1710313594,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172078,
+        "num": 172078,
+        "word": "提议大学生修满学分就毕业",
+        "onboard_time": 1710311914,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 171759,
+        "num": 171759,
+        "word": "国乒爆冷",
+        "onboard_time": 1710292771,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167478,
+        "num": 167478,
+        "word": "上海消保委点名茉酸奶",
+        "onboard_time": 1710301177,
+        "rank": 35,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 157652,
+        "num": 157652,
+        "word": "Prada 檀健次",
+        "onboard_time": 1710305615,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 156984,
+        "num": 156984,
+        "word": "中国太保太平保险等险企逼宫万科",
+        "onboard_time": 1710312513,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156768,
+        "num": 156768,
+        "word": "中餐厅8拟邀阵容",
+        "onboard_time": 1710306393,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154549,
+        "num": 154549,
+        "word": "玲娜贝儿 头之大婚纱当头纱都装不下",
+        "onboard_time": 1710314074,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 149371,
+        "num": 149371,
+        "word": "直击燕郊爆炸救援现场",
+        "onboard_time": 1710300335,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148139,
+        "num": 148139,
+        "word": "苹果是水果界馒头吗",
+        "onboard_time": 1710312030,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147170,
+        "num": 147170,
+        "word": "魏大勋丹宁风",
+        "onboard_time": 1710312030,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144128,
+        "num": 144128,
+        "word": "大学生的早八 新中式恐怖",
+        "onboard_time": 1710313533,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141681,
+        "num": 141681,
+        "word": "广告公司Excel",
+        "onboard_time": 1710307592,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141574,
+        "num": 141574,
+        "word": "华师大爱情心理学课程被指性别歧视",
+        "onboard_time": 1710310771,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 141124,
+        "num": 141124,
+        "word": "陈乔恩古装回归",
+        "onboard_time": 1710310292,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134270,
+        "num": 134270,
+        "word": "朋友想渗透我其他的朋友圈",
+        "onboard_time": 1710314074,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132458,
+        "num": 132458,
+        "word": "GALA拿下LPL最高五杀数",
+        "onboard_time": 1710308072,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131814,
+        "num": 131814,
+        "word": "纪凌尘 脏脏包",
+        "onboard_time": 1710289834,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把职业教育发展好要树立工匠精神#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710311680012,
+  "endTime": 1710314154178,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -145,6 +145,14 @@
       "onboard_time": 1710071372,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2868681,
+      "num": 2868681,
+      "word": "刘宇 抄袭",
+      "onboard_time": 1710311371,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 2838525,
@@ -913,6 +921,14 @@
       "onboard_time": 1709776589,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1578793,
+      "num": 530656,
+      "word": "黄雅莉生子",
+      "onboard_time": 1710310893,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 1577469,
@@ -2012,7 +2028,7 @@
     },
     {
       "raw_hot": 1109792,
-      "num": 928730,
+      "num": 992270,
       "word": "月薪15000住家阿姨的一天",
       "onboard_time": 1710309272,
       "rank": 4,
@@ -2672,6 +2688,14 @@
       "word": "张雨绮相亲",
       "onboard_time": 1709434411,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 968331,
+      "num": 968331,
+      "word": "阚清子",
+      "onboard_time": 1710311311,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -3369,6 +3393,14 @@
       "onboard_time": 1709510670,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 844859,
+      "num": 844859,
+      "word": "TikTok开始反击",
+      "onboard_time": 1710310473,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 844322,
@@ -5627,12 +5659,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 627437,
+      "num": 627437,
+      "word": "凯特王妃到底去哪儿了",
+      "onboard_time": 1710310535,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 627168,
       "num": 627168,
       "word": "喜茶光与夜之恋联名",
       "onboard_time": 1709731711,
       "rank": 19,
       "category": "美食,游戏"
+    },
+    {
+      "raw_hot": 626953,
+      "num": 626953,
+      "word": "爱奇艺腾讯优酷卷起来了",
+      "onboard_time": 1710312030,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 626289,
@@ -6867,14 +6915,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 544647,
-      "num": 412633,
-      "word": "黄雅莉生子",
-      "onboard_time": 1710310893,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 544392,
       "num": 544392,
       "word": "翟欣欣涉嫌敲诈勒索案已移送法院",
@@ -7577,14 +7617,6 @@
       "onboard_time": 1710239732,
       "rank": 20,
       "category": "美食"
-    },
-    {
-      "raw_hot": 506423,
-      "num": 408865,
-      "word": "TikTok开始反击",
-      "onboard_time": 1710310473,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 506390,
@@ -9715,6 +9747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 409318,
+      "num": 409318,
+      "word": "网友用AI复活李玟",
+      "onboard_time": 1710308794,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 409306,
       "num": 409306,
       "word": "车市迎来降价潮",
@@ -9891,14 +9931,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 403395,
-      "num": 403395,
-      "word": "凯特王妃到底去哪儿了",
-      "onboard_time": 1710310535,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 403213,
       "num": 403213,
       "word": "与凤行排播",
@@ -10009,14 +10041,6 @@
       "onboard_time": 1709939900,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 399187,
-      "num": 399187,
-      "word": "网友用AI复活李玟",
-      "onboard_time": 1710308794,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 399158,
@@ -11121,6 +11145,14 @@
       "onboard_time": 1709889811,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 357962,
+      "num": 289621,
+      "word": "中国C919飞机在美降落时发生事故真相",
+      "onboard_time": 1710312632,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357674,
@@ -12235,6 +12267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321922,
+      "num": 321922,
+      "word": "极氪收到大量投诉",
+      "onboard_time": 1710310771,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 321416,
       "num": 321416,
       "word": "特斯拉3个月降价3次",
@@ -12576,14 +12616,6 @@
       "word": "知情人士回应张学友住进ICU",
       "onboard_time": 1709870492,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 314198,
-      "num": 314198,
-      "word": "刘宇 抄袭",
-      "onboard_time": 1710311371,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -13131,14 +13163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298713,
-      "num": 298713,
-      "word": "极氪收到大量投诉",
-      "onboard_time": 1710310771,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 298525,
       "num": 298525,
       "word": "声入人心团综",
@@ -13595,6 +13619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 289933,
+      "num": 289933,
+      "word": "马龙林高远3比0英格兰组合",
+      "onboard_time": 1710313234,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289479,
       "num": 289479,
       "word": "伊能静儿子哈利时装周vlog",
@@ -13609,6 +13641,14 @@
       "onboard_time": 1709972310,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 289018,
+      "num": 289018,
+      "word": "吴昕的裙子是蓝色还是绿色",
+      "onboard_time": 1710312993,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 288904,
@@ -13881,14 +13921,6 @@
       "onboard_time": 1710302135,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 280500,
-      "num": 280500,
-      "word": "阚清子",
-      "onboard_time": 1710311311,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 280243,
@@ -14377,6 +14409,14 @@
       "onboard_time": 1710219395,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270267,
+      "num": 270267,
+      "word": "高校回应疑有学生赤身裸体去上课",
+      "onboard_time": 1710312513,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270241,
@@ -16353,6 +16393,14 @@
       "onboard_time": 1709306791,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 233445,
+      "num": 233445,
+      "word": "10年前买黄金的人赚了多少",
+      "onboard_time": 1710311491,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 233362,
@@ -19417,6 +19465,14 @@
       "onboard_time": 1710153331,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198851,
+      "num": 198851,
+      "word": "刘亦菲回京与好友聚餐",
+      "onboard_time": 1710313113,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 198770,
@@ -22547,6 +22603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175493,
+      "num": 175493,
+      "word": "Gucci品牌好友",
+      "onboard_time": 1710313594,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175447,
       "num": 175447,
       "word": "打了唇钉后喝水真的会漏水",
@@ -22953,6 +23017,14 @@
       "onboard_time": 1709698832,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 172078,
+      "num": 172078,
+      "word": "提议大学生修满学分就毕业",
+      "onboard_time": 1710311914,
+      "rank": 33,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 171925,
@@ -25179,6 +25251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 156984,
+      "num": 156984,
+      "word": "中国太保太平保险等险企逼宫万科",
+      "onboard_time": 1710312513,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156909,
       "num": 156909,
       "word": "唐嫣晒巴黎街拍",
@@ -25521,6 +25601,14 @@
       "onboard_time": 1710170608,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 154549,
+      "num": 154549,
+      "word": "玲娜贝儿 头之大婚纱当头纱都装不下",
+      "onboard_time": 1710314074,
+      "rank": 39,
+      "category": "动漫"
     },
     {
       "raw_hot": 154534,
@@ -26443,6 +26531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148139,
+      "num": 148139,
+      "word": "苹果是水果界馒头吗",
+      "onboard_time": 1710312030,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 148105,
       "num": 178266,
       "word": "当中国商船在太平洋遇到祖国航母",
@@ -26617,6 +26713,14 @@
       "onboard_time": 1709710174,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147170,
+      "num": 147170,
+      "word": "魏大勋丹宁风",
+      "onboard_time": 1710312030,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 147111,
@@ -27121,6 +27225,14 @@
       "onboard_time": 1709431827,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 144128,
+      "num": 144128,
+      "word": "大学生的早八 新中式恐怖",
+      "onboard_time": 1710313533,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 144124,
@@ -28235,14 +28347,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 136691,
-      "num": 136691,
-      "word": "10年前买黄金的人赚了多少",
-      "onboard_time": 1710311491,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 136685,
       "num": 136685,
       "word": "人的眼皮为什么会跳",
@@ -28681,6 +28785,14 @@
       "onboard_time": 1709446286,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134270,
+      "num": 134270,
+      "word": "朋友想渗透我其他的朋友圈",
+      "onboard_time": 1710314074,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 134249,
@@ -31195,6 +31307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116809,
+      "num": 1512726,
+      "word": "政府工作报告全文",
+      "onboard_time": 1710303035,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 116799,
       "num": 116799,
       "word": "檀健次回应格子哥称号",
@@ -32649,14 +32769,6 @@
       "onboard_time": 1709507665,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104209,
-      "num": 1512726,
-      "word": "政府工作报告全文",
-      "onboard_time": 1710303035,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 104197,
@@ -34153,6 +34265,14 @@
       "onboard_time": 1710199524,
       "rank": 42,
       "category": "军事,国内时政"
+    },
+    {
+      "raw_hot": 72381,
+      "num": 291868,
+      "word": "跟着时尚大牌学出圈",
+      "onboard_time": 1710311975,
+      "rank": 18,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 71328,
