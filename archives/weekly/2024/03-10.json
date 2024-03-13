@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710328636771,
+  "endTime": 1710329645141,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -371,20 +371,20 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1497778,
+      "num": 1497778,
+      "word": "李雪琴变瘦了",
+      "onboard_time": 1710325353,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1496874,
       "num": 1496874,
       "word": "女子过年买金仅一月小赚近1万",
       "onboard_time": 1710319534,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1470498,
-      "num": 1470498,
-      "word": "李雪琴变瘦了",
-      "onboard_time": 1710325353,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1457349,
@@ -497,6 +497,14 @@
       "onboard_time": 1710214469,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1293809,
+      "num": 1293809,
+      "word": "世上最后一名铁肺人去世",
+      "onboard_time": 1710325771,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1293350,
@@ -984,14 +992,6 @@
       "word": "杭州抢劫案唯一受害者出现",
       "onboard_time": 1710046350,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 978234,
-      "num": 476830,
-      "word": "世上最后一名铁肺人去世",
-      "onboard_time": 1710325771,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -1995,6 +1995,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 600310,
+      "num": 600310,
+      "word": "缅甸800余名中国籍涉赌诈人员被遣返",
+      "onboard_time": 1710324510,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 598912,
       "num": 598912,
       "word": "赵丽颖看着奖杯笑了",
@@ -2177,14 +2185,6 @@
       "onboard_time": 1710039629,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 566499,
-      "num": 566499,
-      "word": "缅甸800余名中国籍涉赌诈人员被遣返",
-      "onboard_time": 1710324510,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 566348,
@@ -3611,8 +3611,16 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 361082,
-      "num": 361082,
+      "raw_hot": 364559,
+      "num": 364559,
+      "word": "成龙头发胡子白了",
+      "onboard_time": 1710328594,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 363066,
+      "num": 363066,
       "word": "燕郊爆炸地附近炸鸡店发声",
       "onboard_time": 1710326913,
       "rank": 19,
@@ -3843,6 +3851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338404,
+      "num": 338404,
+      "word": "鹿晗时隔五年现场打卡曼联",
+      "onboard_time": 1710328832,
+      "rank": 19,
+      "category": "演出,艺人"
+    },
+    {
       "raw_hot": 338126,
       "num": 338126,
       "word": "马龙林高远3比0英格兰组合",
@@ -4019,6 +4035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322223,
+      "num": 322223,
+      "word": "三孩妈妈做抽脂手术时死亡",
+      "onboard_time": 1710325893,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321922,
       "num": 321922,
       "word": "极氪收到大量投诉",
@@ -4129,14 +4153,6 @@
       "onboard_time": 1710317374,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 312317,
-      "num": 312317,
-      "word": "三孩妈妈做抽脂手术时死亡",
-      "onboard_time": 1710325893,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312018,
@@ -5075,6 +5091,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 248632,
+      "num": 248632,
+      "word": "燕郊爆炸初步确认是燃气泄漏引发",
+      "onboard_time": 1710327510,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248244,
       "num": 248244,
       "word": "微信里你不知道的小妙招",
@@ -5211,6 +5235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243984,
+      "num": 243984,
+      "word": "赵丽颖林更新楚乔传预告",
+      "onboard_time": 1710328293,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243711,
       "num": 243711,
       "word": "读大学就是一场巨大的追星",
@@ -5339,6 +5371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236976,
+      "num": 236976,
+      "word": "山东泰山vs横滨水手",
+      "onboard_time": 1710320137,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236813,
       "num": 217268,
       "word": "现在的朋友圈越来越低调了",
@@ -5436,7 +5476,7 @@
     },
     {
       "raw_hot": 232204,
-      "num": 211891,
+      "num": 227375,
       "word": "玻璃蛙的腹部几乎全透明",
       "onboard_time": 1710325893,
       "rank": 40,
@@ -5491,6 +5531,14 @@
       "category": "国内时政,艺人"
     },
     {
+      "raw_hot": 229165,
+      "num": 229165,
+      "word": "周雨彤 浪漫疯子",
+      "onboard_time": 1710327453,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228897,
       "num": 228897,
       "word": "为什么室友能冷漠到无话可说",
@@ -5537,14 +5585,6 @@
       "onboard_time": 1710150993,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 226916,
-      "num": 226916,
-      "word": "成龙头发胡子白了",
-      "onboard_time": 1710328594,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 226852,
@@ -5763,14 +5803,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 219272,
-      "num": 219272,
-      "word": "周雨彤 浪漫疯子",
-      "onboard_time": 1710327453,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 219117,
       "num": 219117,
       "word": "MMO之癫",
@@ -5819,6 +5851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 217938,
+      "num": 217938,
+      "word": "横滨水手半场0比0山东泰山",
+      "onboard_time": 1710328055,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217719,
       "num": 217719,
       "word": "原来饮料瓶盖可以按印泥盖章",
@@ -5849,6 +5889,14 @@
       "onboard_time": 1710071311,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216564,
+      "num": 216564,
+      "word": "丁程鑫校园剧男主",
+      "onboard_time": 1710329072,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 216490,
@@ -6075,14 +6123,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 210233,
-      "num": 210233,
-      "word": "山东泰山vs横滨水手",
-      "onboard_time": 1710320137,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 210109,
       "num": 210109,
       "word": "雷军谈近期汽车行业舆论风波",
@@ -6259,14 +6299,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 204603,
-      "num": 204603,
-      "word": "燕郊爆炸初步确认是燃气泄漏引发",
-      "onboard_time": 1710327510,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204225,
       "num": 204225,
       "word": "杨蓉律政佳人",
@@ -6363,14 +6395,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 202890,
-      "num": 202890,
-      "word": "横滨水手半场0比0山东泰山",
-      "onboard_time": 1710328055,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202783,
       "num": 202783,
       "word": "宣璐与凤行妆造",
@@ -6416,6 +6440,14 @@
       "word": "一诺坐上了Cat的副驾",
       "onboard_time": 1710167312,
       "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 201331,
+      "num": 201331,
+      "word": "XYG太菜了",
+      "onboard_time": 1710328893,
+      "rank": 35,
       "category": "电竞"
     },
     {
@@ -6659,6 +6691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196932,
+      "num": 196932,
+      "word": "烈焰",
+      "onboard_time": 1710242311,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196929,
       "num": 268782,
       "word": "第一次看见这样的闪电",
@@ -6817,14 +6857,6 @@
       "onboard_time": 1710199524,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193315,
-      "num": 193315,
-      "word": "烈焰",
-      "onboard_time": 1710242311,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 193141,
@@ -7201,14 +7233,6 @@
       "onboard_time": 1710294873,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183811,
-      "num": 183811,
-      "word": "赵丽颖林更新楚乔传预告",
-      "onboard_time": 1710328293,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 183552,
@@ -8675,6 +8699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148924,
+      "num": 148924,
+      "word": "亚冠生死战",
+      "onboard_time": 1710327694,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148660,
       "num": 148660,
       "word": "未央回归AG",
@@ -8704,14 +8736,6 @@
       "word": "TJD隔扣文班亚马",
       "onboard_time": 1710211531,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 147705,
-      "num": 147705,
-      "word": "亚冠生死战",
-      "onboard_time": 1710327694,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -8777,6 +8801,14 @@
       "onboard_time": 1710080194,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145030,
+      "num": 145030,
+      "word": "LWX斯莫德",
+      "onboard_time": 1710329311,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 144979,
@@ -8937,6 +8969,14 @@
       "onboard_time": 1710046050,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 142143,
+      "num": 142143,
+      "word": "滇西小哥 松针宴",
+      "onboard_time": 1710329611,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 142049,
@@ -11356,7 +11396,7 @@
     },
     {
       "raw_hot": 15683,
-      "num": 146532,
+      "num": 230045,
       "word": "宋佳巴黎随行记",
       "onboard_time": 1710328532,
       "rank": 46,

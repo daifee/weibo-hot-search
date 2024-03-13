@@ -1,0 +1,410 @@
+{
+  "runTime": 1710329645141,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1497778,
+        "num": 1497778,
+        "word": "李雪琴变瘦了",
+        "onboard_time": 1710325353,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1293809,
+        "num": 1293809,
+        "word": "世上最后一名铁肺人去世",
+        "onboard_time": 1710325771,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55796,
+        "num": 1224299,
+        "word": "发展新质生产力的核心要素",
+        "onboard_time": 1710316114,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1206526,
+        "num": 1206526,
+        "word": "迪丽热巴春晚摔骨裂",
+        "onboard_time": 1710318154,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 916499,
+        "num": 916499,
+        "word": "刘宇方回应抄袭张艺兴争议",
+        "onboard_time": 1710325473,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 706402,
+        "num": 706402,
+        "word": "燕郊爆炸已致2死26伤",
+        "onboard_time": 1710308552,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600310,
+        "num": 600310,
+        "word": "缅甸800余名中国籍涉赌诈人员被遣返",
+        "onboard_time": 1710324510,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 532532,
+        "num": 532532,
+        "word": "女子过年买金仅一月小赚近1万",
+        "onboard_time": 1710319534,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182782,
+        "num": 458989,
+        "word": "小学生用电话手表打120救摔伤老人",
+        "onboard_time": 1710323435,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 211939,
+        "num": 439756,
+        "word": "柯基在我国警犬界也有姓名了",
+        "onboard_time": 1710322053,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1112976,
+        "num": 434300,
+        "word": "5岁男孩阳台坠亡时奶奶姥姥在打麻将",
+        "onboard_time": 1710322890,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427717,
+        "num": 427717,
+        "word": "宋家三胞胎12岁了",
+        "onboard_time": 1710326313,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 406191,
+        "num": 406191,
+        "word": "阿沁老婆涉毒被捕",
+        "onboard_time": 1710314494,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381033,
+        "num": 381033,
+        "word": "Angelababy风尚志三月刊封面",
+        "onboard_time": 1710326492,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 379429,
+        "num": 379429,
+        "word": "减肥20%靠运动80%靠饮食",
+        "onboard_time": 1710316834,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 364559,
+        "num": 364559,
+        "word": "成龙头发胡子白了",
+        "onboard_time": 1710328594,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363066,
+        "num": 363066,
+        "word": "燕郊爆炸地附近炸鸡店发声",
+        "onboard_time": 1710326913,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1061957,
+        "num": 362897,
+        "word": "村委会回应3名初中生将同学杀害埋尸",
+        "onboard_time": 1710324211,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354230,
+        "num": 354230,
+        "word": "林心如挑选保姆很严格",
+        "onboard_time": 1710324871,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338404,
+        "num": 338404,
+        "word": "鹿晗时隔五年现场打卡曼联",
+        "onboard_time": 1710328832,
+        "rank": 19,
+        "category": "演出,艺人"
+      },
+      {
+        "raw_hot": 322223,
+        "num": 322223,
+        "word": "三孩妈妈做抽脂手术时死亡",
+        "onboard_time": 1710325893,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319426,
+        "num": 319426,
+        "word": "女子买重疾险后查出恶性肿瘤保险拒赔",
+        "onboard_time": 1710324755,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 279234,
+        "num": 279234,
+        "word": "多地九价HPV来了就能打",
+        "onboard_time": 1710325473,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 258897,
+        "num": 258897,
+        "word": "理工择偶",
+        "onboard_time": 1710322653,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248632,
+        "num": 248632,
+        "word": "燕郊爆炸初步确认是燃气泄漏引发",
+        "onboard_time": 1710327510,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243984,
+        "num": 243984,
+        "word": "赵丽颖林更新楚乔传预告",
+        "onboard_time": 1710328293,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241617,
+        "num": 241617,
+        "word": "爱奇艺腾讯优酷卷起来了",
+        "onboard_time": 1710312030,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236976,
+        "num": 236976,
+        "word": "山东泰山vs横滨水手",
+        "onboard_time": 1710320137,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231678,
+        "num": 231678,
+        "word": "与凤行特效",
+        "onboard_time": 1710321334,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14888,
+        "num": 230045,
+        "word": "宋佳巴黎随行记",
+        "onboard_time": 1710328532,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229165,
+        "num": 229165,
+        "word": "周雨彤 浪漫疯子",
+        "onboard_time": 1710327453,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227375,
+        "num": 227375,
+        "word": "玻璃蛙的腹部几乎全透明",
+        "onboard_time": 1710325893,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217938,
+        "num": 217938,
+        "word": "横滨水手半场0比0山东泰山",
+        "onboard_time": 1710328055,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216564,
+        "num": 216564,
+        "word": "丁程鑫校园剧男主",
+        "onboard_time": 1710329072,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204041,
+        "num": 204041,
+        "word": "黄雅莉生子",
+        "onboard_time": 1710310893,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201331,
+        "num": 201331,
+        "word": "XYG太菜了",
+        "onboard_time": 1710328893,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 196932,
+        "num": 196932,
+        "word": "烈焰",
+        "onboard_time": 1710329193,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153915,
+        "num": 153915,
+        "word": "赵今麦高马尾白西装",
+        "onboard_time": 1710327273,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153696,
+        "num": 153696,
+        "word": "RNG 看笑了",
+        "onboard_time": 1710324450,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148924,
+        "num": 148924,
+        "word": "亚冠生死战",
+        "onboard_time": 1710327694,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 902992,
+        "num": 148765,
+        "word": "网传3名初中生霸凌同学并将其杀害",
+        "onboard_time": 1710324211,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145030,
+        "num": 145030,
+        "word": "LWX斯莫德",
+        "onboard_time": 1710329311,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142603,
+        "num": 142603,
+        "word": "凯特王妃到底去哪儿了",
+        "onboard_time": 1710310535,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 142143,
+        "num": 142143,
+        "word": "滇西小哥 松针宴",
+        "onboard_time": 1710329611,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141789,
+        "num": 141789,
+        "word": "燕郊爆炸事故",
+        "onboard_time": 1710327214,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138048,
+        "num": 138048,
+        "word": "黄晓明肚子",
+        "onboard_time": 1710307111,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131755,
+        "num": 131755,
+        "word": "洪胜汉露面",
+        "onboard_time": 1710324630,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126705,
+        "num": 126705,
+        "word": "这只鸡只有亿点点辣",
+        "onboard_time": 1710327036,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126406,
+        "num": 126406,
+        "word": "月薪15000住家阿姨的一天",
+        "onboard_time": 1710309272,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125847,
+        "num": 125847,
+        "word": "XYG排列组合",
+        "onboard_time": 1710325112,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把职业教育发展好要树立工匠精神#"
+    }
+  }
+}
