@@ -1,6 +1,6 @@
 {
   "startTime": 1710346860842,
-  "endTime": 1710354064766,
+  "endTime": 1710354858823,
   "band_list": [
     {
       "raw_hot": 1678525,
@@ -411,6 +411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 83318,
+      "num": 68437,
+      "word": "粥饼伦称不想让孩子再过苦日子",
+      "onboard_time": 1710349703,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80817,
       "num": 80817,
       "word": "阿沁老婆涉毒被捕",
@@ -425,14 +433,6 @@
       "onboard_time": 1710349821,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68437,
-      "num": 68437,
-      "word": "粥饼伦称不想让孩子再过苦日子",
-      "onboard_time": 1710349703,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48401,

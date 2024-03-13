@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710354064766,
+  "endTime": 1710354858823,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -11371,6 +11371,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 83318,
+      "num": 68437,
+      "word": "粥饼伦称不想让孩子再过苦日子",
+      "onboard_time": 1710349703,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82311,
       "num": 119924,
       "word": "刘东昊",
@@ -11537,14 +11545,6 @@
       "onboard_time": 1710039210,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 68437,
-      "num": 68437,
-      "word": "粥饼伦称不想让孩子再过苦日子",
-      "onboard_time": 1710349703,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67683,
