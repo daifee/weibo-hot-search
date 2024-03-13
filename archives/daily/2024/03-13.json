@@ -1,6 +1,6 @@
 {
   "startTime": 1710260540441,
-  "endTime": 1710326033601,
+  "endTime": 1710328636771,
   "band_list": [
     {
       "raw_hot": 6964861,
@@ -115,12 +115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1470498,
+      "num": 1470498,
+      "word": "李雪琴变瘦了",
+      "onboard_time": 1710325353,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1376874,
       "num": 1142770,
       "word": "朱珠产后瘦了近50斤",
       "onboard_time": 1710288631,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1352696,
+      "num": 1261328,
+      "word": "村委会回应3名初中生将同学杀害埋尸",
+      "onboard_time": 1710324211,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1316211,
@@ -136,14 +152,6 @@
       "word": "钟睒睒之母郭瑾离世",
       "onboard_time": 1710300873,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1261328,
-      "num": 1261328,
-      "word": "村委会回应3名初中生将同学杀害埋尸",
-      "onboard_time": 1710324211,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -227,6 +235,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1011448,
+      "num": 1011448,
+      "word": "刘宇方回应抄袭张艺兴争议",
+      "onboard_time": 1710325473,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 978234,
+      "num": 476830,
+      "word": "世上最后一名铁肺人去世",
+      "onboard_time": 1710325771,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 972557,
       "num": 972557,
       "word": "因为自卑对男朋友隐瞒了家庭条件",
@@ -281,14 +305,6 @@
       "onboard_time": 1710299976,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 851078,
-      "num": 575485,
-      "word": "李雪琴变瘦了",
-      "onboard_time": 1710325353,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 848534,
@@ -451,6 +467,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 566499,
+      "num": 566499,
+      "word": "缅甸800余名中国籍涉赌诈人员被遣返",
+      "onboard_time": 1710324510,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 566341,
       "num": 566341,
       "word": "钟薛高有员工称已数月未领到工资",
@@ -585,6 +609,14 @@
       "onboard_time": 1710262822,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 458538,
+      "num": 458538,
+      "word": "宋家三胞胎12岁了",
+      "onboard_time": 1710326313,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 454320,
@@ -739,6 +771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 388389,
+      "num": 388389,
+      "word": "Angelababy风尚志三月刊封面",
+      "onboard_time": 1710326492,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 387490,
       "num": 297034,
       "word": "喝水后的4个异常或为肾在求救",
@@ -763,11 +803,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 373476,
+      "num": 373476,
+      "word": "女子买重疾险后查出恶性肿瘤保险拒赔",
+      "onboard_time": 1710324755,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 367379,
       "num": 367379,
       "word": "爆炸亲历者称巨响后身上像被东西压",
       "onboard_time": 1710321755,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361082,
+      "num": 361082,
+      "word": "燕郊爆炸地附近炸鸡店发声",
+      "onboard_time": 1710326913,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -835,14 +891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 337167,
-      "num": 337167,
-      "word": "刘宇方回应抄袭张艺兴争议",
-      "onboard_time": 1710325473,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 335907,
       "num": 335907,
       "word": "体检查出这15种毛病别慌",
@@ -856,14 +904,6 @@
       "word": "国台办回应今年政府工作报告没提和平统一",
       "onboard_time": 1710316295,
       "rank": 17,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 333500,
-      "num": 333500,
-      "word": "缅甸800余名中国籍涉赌诈人员被遣返",
-      "onboard_time": 1710324510,
-      "rank": 29,
       "category": "国内时政"
     },
     {
@@ -931,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312317,
+      "num": 312317,
+      "word": "三孩妈妈做抽脂手术时死亡",
+      "onboard_time": 1710325893,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308931,
       "num": 308931,
       "word": "钟薛高被人力资源公司起诉",
@@ -945,14 +993,6 @@
       "onboard_time": 1710299132,
       "rank": 26,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 308601,
-      "num": 308601,
-      "word": "女子买重疾险后查出恶性肿瘤保险拒赔",
-      "onboard_time": 1710324755,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 307025,
@@ -1000,6 +1040,14 @@
       "word": "看似很舒服其实很伤身体的行为",
       "onboard_time": 1710295773,
       "rank": 36,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 297630,
+      "num": 297630,
+      "word": "多地九价HPV来了就能打",
+      "onboard_time": 1710325473,
+      "rank": 37,
       "category": "健康医疗"
     },
     {
@@ -1291,6 +1339,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 232204,
+      "num": 211891,
+      "word": "玻璃蛙的腹部几乎全透明",
+      "onboard_time": 1710325893,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 226916,
+      "num": 226916,
+      "word": "成龙头发胡子白了",
+      "onboard_time": 1710328594,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225979,
       "num": 225979,
       "word": "知情人称TikTok或采取全面法律行动",
@@ -1331,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219272,
+      "num": 219272,
+      "word": "周雨彤 浪漫疯子",
+      "onboard_time": 1710327453,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218077,
       "num": 218077,
       "word": "原神4.5",
@@ -1345,6 +1417,14 @@
       "onboard_time": 1710313533,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 216399,
+      "num": 216399,
+      "word": "燕郊爆炸事故",
+      "onboard_time": 1710327214,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215412,
@@ -1379,12 +1459,28 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 212194,
+      "num": 212194,
+      "word": "赵今麦高马尾白西装",
+      "onboard_time": 1710327273,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210329,
       "num": 210329,
       "word": "考研自划线",
       "onboard_time": 1710317614,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 210233,
+      "num": 210233,
+      "word": "山东泰山vs横滨水手",
+      "onboard_time": 1710320137,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 210109,
@@ -1427,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204603,
+      "num": 204603,
+      "word": "燕郊爆炸初步确认是燃气泄漏引发",
+      "onboard_time": 1710327510,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204225,
       "num": 204225,
       "word": "杨蓉律政佳人",
@@ -1459,6 +1563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202890,
+      "num": 202890,
+      "word": "横滨水手半场0比0山东泰山",
+      "onboard_time": 1710328055,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202760,
       "num": 575988,
       "word": "小学生用电话手表打120救摔伤老人",
@@ -1481,6 +1593,14 @@
       "onboard_time": 1710321272,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 199840,
+      "num": 205022,
+      "word": "XYG排列组合",
+      "onboard_time": 1710325112,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 199098,
@@ -1529,14 +1649,6 @@
       "onboard_time": 1710323853,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197421,
-      "num": 197421,
-      "word": "XYG排列组合",
-      "onboard_time": 1710325112,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 197179,
@@ -1681,6 +1793,14 @@
       "onboard_time": 1710294873,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183811,
+      "num": 183811,
+      "word": "赵丽颖林更新楚乔传预告",
+      "onboard_time": 1710328293,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 182267,
@@ -1875,14 +1995,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 161312,
-      "num": 161312,
-      "word": "多地九价HPV来了就能打",
-      "onboard_time": 1710325473,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 160509,
       "num": 160509,
       "word": "世界之外维护",
@@ -1897,14 +2009,6 @@
       "onboard_time": 1710300633,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 160159,
-      "num": 160159,
-      "word": "玻璃蛙的腹部几乎全透明",
-      "onboard_time": 1710325893,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 159911,
@@ -1979,14 +2083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156754,
-      "num": 158566,
-      "word": "山东泰山vs横滨水手",
-      "onboard_time": 1710320137,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 156308,
       "num": 156308,
       "word": "雷军",
@@ -2019,12 +2115,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 151214,
-      "num": 151214,
-      "word": "世上最后一名铁肺人去世",
-      "onboard_time": 1710325771,
+      "raw_hot": 151090,
+      "num": 151090,
+      "word": "刘宇工作室严正声明",
+      "onboard_time": 1710326854,
       "rank": 43,
-      "category": "社会新闻"
+      "category": "音乐"
     },
     {
       "raw_hot": 150452,
@@ -2041,6 +2137,14 @@
       "onboard_time": 1710314074,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147705,
+      "num": 147705,
+      "word": "亚冠生死战",
+      "onboard_time": 1710327694,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 147170,
@@ -2075,6 +2179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144766,
+      "num": 144766,
+      "word": "这只鸡只有亿点点辣",
+      "onboard_time": 1710327036,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 144399,
       "num": 144399,
       "word": "张一山告黑成功",
@@ -2091,20 +2203,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142933,
-      "num": 142933,
-      "word": "三孩妈妈做抽脂手术时死亡",
-      "onboard_time": 1710325893,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 141328,
       "num": 141328,
       "word": "克雷桑复出",
       "onboard_time": 1710321334,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140382,
+      "num": 140382,
+      "word": "正式确诊都市隶人",
+      "onboard_time": 1710328173,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 140286,
@@ -2547,6 +2659,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 28582,
+      "num": 184291,
+      "word": "用艺术思考来看时装",
+      "onboard_time": 1710325413,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 26036,
       "num": 28642,
       "word": "我总觉得世界是这样子的",
@@ -2561,14 +2681,6 @@
       "onboard_time": 1710248673,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19398,
-      "num": 160893,
-      "word": "用艺术思考来看时装",
-      "onboard_time": 1710325413,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 18511,
@@ -2593,6 +2705,14 @@
       "onboard_time": 1710274096,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 15683,
+      "num": 146532,
+      "word": "宋佳巴黎随行记",
+      "onboard_time": 1710328532,
+      "rank": 46,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
