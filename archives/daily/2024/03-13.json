@@ -1,6 +1,6 @@
 {
   "startTime": 1710260540441,
-  "endTime": 1710296665825,
+  "endTime": 1710297362357,
   "band_list": [
     {
       "raw_hot": 4703483,
@@ -51,19 +51,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1316211,
+      "num": 1316211,
+      "word": "商户说燕郊爆炸建筑几乎炸没了",
+      "onboard_time": 1710295053,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1085477,
       "num": 1085477,
       "word": "中通快递",
       "onboard_time": 1710292114,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1066853,
-      "num": 426869,
-      "word": "商户说燕郊爆炸建筑几乎炸没了",
-      "onboard_time": 1710295053,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 700197,
-      "num": 415572,
+      "num": 416035,
       "word": "燕郊爆炸现场冒出巨大火球",
       "onboard_time": 1710294573,
       "rank": 12,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 476863,
+      "num": 401824,
+      "word": "钟薛高有员工称已数月未领到工资",
+      "onboard_time": 1710294212,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474843,
       "num": 474843,
       "word": "走吧你跟有病似的",
@@ -259,28 +267,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 442883,
+      "num": 442883,
+      "word": "钟薛高总部研发区域空无一人",
+      "onboard_time": 1710293071,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442345,
       "num": 442345,
       "word": "点读机女孩事件最高可处3年有期徒刑",
       "onboard_time": 1710240513,
       "rank": 9,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 433058,
-      "num": 401824,
-      "word": "钟薛高有员工称已数月未领到工资",
-      "onboard_time": 1710294212,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 432594,
-      "num": 432594,
-      "word": "钟薛高总部研发区域空无一人",
-      "onboard_time": 1710293071,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 429785,
@@ -323,8 +323,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 355402,
-      "num": 282257,
+      "raw_hot": 357637,
+      "num": 309445,
       "word": "这届年轻人真的不想生吗",
       "onboard_time": 1710293552,
       "rank": 46,
@@ -339,12 +339,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344276,
+      "num": 344276,
+      "word": "甘肃天水麻辣烫",
+      "onboard_time": 1710295892,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 337551,
+      "num": 337551,
+      "word": "燕郊爆炸致多名过路司机受伤",
+      "onboard_time": 1710295773,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327273,
-      "num": 260537,
+      "num": 291485,
       "word": "39元瑞士卷被黄牛炒到120元",
       "onboard_time": 1710293192,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 319595,
+      "num": 319595,
+      "word": "原神开门",
+      "onboard_time": 1710294994,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 313838,
@@ -353,14 +377,6 @@
       "onboard_time": 1710253359,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 312014,
-      "num": 312014,
-      "word": "原神开门",
-      "onboard_time": 1710294994,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 305964,
@@ -403,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 264095,
+      "num": 264095,
+      "word": "燕郊爆炸火势已得到有效控制",
+      "onboard_time": 1710296614,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260045,
       "num": 260045,
       "word": "射雕",
@@ -419,20 +443,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 256215,
+      "num": 256215,
+      "word": "燕郊一商铺爆炸消防正救援",
+      "onboard_time": 1710296673,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252134,
       "num": 252134,
       "word": "WTT",
       "onboard_time": 1710291393,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 251215,
-      "num": 251215,
-      "word": "燕郊爆炸致多名过路司机受伤",
-      "onboard_time": 1710295773,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 245687,
@@ -467,12 +491,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 228201,
-      "num": 228201,
-      "word": "甘肃天水麻辣烫",
-      "onboard_time": 1710295892,
-      "rank": 31,
-      "category": "美食"
+      "raw_hot": 233884,
+      "num": 233884,
+      "word": "江苏卫视种地吧2定档",
+      "onboard_time": 1710296493,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 230479,
+      "num": 230479,
+      "word": "看似很舒服其实很伤身体的行为",
+      "onboard_time": 1710295773,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 225979,
@@ -491,6 +523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 214807,
+      "num": 214807,
+      "word": "烈焰空降",
+      "onboard_time": 1710297032,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214330,
       "num": 214330,
       "word": "酱园弄",
@@ -505,6 +545,22 @@
       "onboard_time": 1710288872,
       "rank": 28,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 211246,
+      "num": 211246,
+      "word": "原神4.5",
+      "onboard_time": 1710297275,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 207073,
+      "num": 207073,
+      "word": "A股",
+      "onboard_time": 1710296795,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 203961,
@@ -571,14 +627,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 194343,
-      "num": 194343,
-      "word": "看似很舒服其实很伤身体的行为",
-      "onboard_time": 1710295773,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 191328,
       "num": 191328,
       "word": "燕郊爆炸事故调查组已到场",
@@ -595,20 +643,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 188830,
-      "num": 188830,
-      "word": "江苏卫视种地吧2定档",
-      "onboard_time": 1710296493,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188822,
       "num": 203437,
       "word": "经常剪头发不会长得更快",
       "onboard_time": 1710258809,
       "rank": 24,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 184387,
+      "num": 184387,
+      "word": "电影草木人间定档清明",
+      "onboard_time": 1710296973,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 184185,
@@ -715,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158190,
+      "num": 158190,
+      "word": "4只野生东北虎现身村民家门口",
+      "onboard_time": 1710293973,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156308,
       "num": 156308,
       "word": "雷军",
@@ -731,20 +787,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154558,
-      "num": 154558,
-      "word": "4只野生东北虎现身村民家门口",
-      "onboard_time": 1710293973,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150078,
-      "num": 150078,
-      "word": "燕郊爆炸火势已得到有效控制",
-      "onboard_time": 1710296614,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 151949,
+      "num": 151949,
+      "word": "浙江一村庄30万株郁金香盛开",
+      "onboard_time": 1710297154,
+      "rank": 48,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 146156,

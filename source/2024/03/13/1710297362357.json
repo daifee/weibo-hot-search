@@ -1,0 +1,410 @@
+{
+  "runTime": 1710297362357,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3567887,
+        "num": 3567887,
+        "word": "燕郊镇发生爆炸",
+        "onboard_time": 1710290554,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1958565,
+        "num": 1958565,
+        "word": "Dior事件后马面裙卖疯了",
+        "onboard_time": 1710293732,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 46906,
+        "num": 1758050,
+        "word": "2024年民生工作三大重点",
+        "onboard_time": 1710248193,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1651770,
+        "num": 1651770,
+        "word": "国乒爆冷",
+        "onboard_time": 1710292771,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1316211,
+        "num": 1316211,
+        "word": "商户说燕郊爆炸建筑几乎炸没了",
+        "onboard_time": 1710295053,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 860936,
+        "num": 860936,
+        "word": "中通快递",
+        "onboard_time": 1710292114,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652776,
+        "num": 652776,
+        "word": "医师劝阻100斤要做减重手术的人",
+        "onboard_time": 1710292837,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466605,
+        "num": 466605,
+        "word": "纪凌尘 脏脏包",
+        "onboard_time": 1710289834,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 462809,
+        "num": 462809,
+        "word": "某爆款短剧承制方盈利不足100万",
+        "onboard_time": 1710292837,
+        "rank": 8,
+        "category": "社会新闻,剧集"
+      },
+      {
+        "raw_hot": 442883,
+        "num": 442883,
+        "word": "钟薛高总部研发区域空无一人",
+        "onboard_time": 1710293071,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1094687,
+        "num": 435727,
+        "word": "官方回应燕郊镇发生爆炸",
+        "onboard_time": 1710292771,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662192,
+        "num": 432306,
+        "word": "朱珠产后瘦了近50斤",
+        "onboard_time": 1710288631,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595742,
+        "num": 416035,
+        "word": "燕郊爆炸现场冒出巨大火球",
+        "onboard_time": 1710294573,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536650,
+        "num": 408188,
+        "word": "燕郊小区底商爆炸伤者已送医",
+        "onboard_time": 1710295533,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476863,
+        "num": 398637,
+        "word": "钟薛高有员工称已数月未领到工资",
+        "onboard_time": 1710294212,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451846,
+        "num": 388846,
+        "word": "章子怡怒怼网友",
+        "onboard_time": 1710285745,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 383696,
+        "num": 383696,
+        "word": "王楚钦重回男单世界第一",
+        "onboard_time": 1710293071,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344276,
+        "num": 344276,
+        "word": "甘肃天水麻辣烫",
+        "onboard_time": 1710295892,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 337551,
+        "num": 337551,
+        "word": "燕郊爆炸致多名过路司机受伤",
+        "onboard_time": 1710295773,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319595,
+        "num": 319595,
+        "word": "原神开门",
+        "onboard_time": 1710294994,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 357637,
+        "num": 309445,
+        "word": "这届年轻人真的不想生吗",
+        "onboard_time": 1710293552,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324399,
+        "num": 302977,
+        "word": "女子为护肤1个月不洗脸致满脸结痂",
+        "onboard_time": 1710286705,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 291485,
+        "num": 291485,
+        "word": "39元瑞士卷被黄牛炒到120元",
+        "onboard_time": 1710293192,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 279564,
+        "num": 279564,
+        "word": "新冠疫情使全球平均寿命缩短了1.6年",
+        "onboard_time": 1710288389,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 275226,
+        "num": 275226,
+        "word": "大叔坐火车一整天只吃一根萝卜",
+        "onboard_time": 1710287006,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275088,
+        "num": 275088,
+        "word": "朱梓骁悬着的心终于死了",
+        "onboard_time": 1710254911,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264095,
+        "num": 264095,
+        "word": "燕郊爆炸火势已得到有效控制",
+        "onboard_time": 1710296614,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256215,
+        "num": 256215,
+        "word": "燕郊一商铺爆炸消防正救援",
+        "onboard_time": 1710296673,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239352,
+        "num": 239352,
+        "word": "从不运动和坚持运动的人差别有多大",
+        "onboard_time": 1710292837,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 233884,
+        "num": 233884,
+        "word": "江苏卫视种地吧2定档",
+        "onboard_time": 1710296493,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313367,
+        "num": 232184,
+        "word": "喜茶光与夜之恋联名",
+        "onboard_time": 1710293852,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230479,
+        "num": 230479,
+        "word": "看似很舒服其实很伤身体的行为",
+        "onboard_time": 1710295773,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214807,
+        "num": 214807,
+        "word": "烈焰空降",
+        "onboard_time": 1710297032,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213571,
+        "num": 213571,
+        "word": "肖战工作室还让不让人睡",
+        "onboard_time": 1710254372,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212059,
+        "num": 212059,
+        "word": "波音吹哨人突然死亡",
+        "onboard_time": 1710288812,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211246,
+        "num": 211246,
+        "word": "原神4.5",
+        "onboard_time": 1710297275,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209000,
+        "num": 209000,
+        "word": "酱园弄杀青宴",
+        "onboard_time": 1710288693,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207073,
+        "num": 207073,
+        "word": "A股",
+        "onboard_time": 1710296795,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 203899,
+        "num": 203899,
+        "word": "许嵩好浪漫",
+        "onboard_time": 1710289776,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191950,
+        "num": 191950,
+        "word": "英伟达市值一夜飙涨1.1万亿",
+        "onboard_time": 1710289895,
+        "rank": 39,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 184387,
+        "num": 184387,
+        "word": "电影草木人间定档清明",
+        "onboard_time": 1710296973,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179540,
+        "num": 179540,
+        "word": "因为自卑对男朋友隐瞒了家庭条件",
+        "onboard_time": 1710251614,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178561,
+        "num": 178561,
+        "word": "陈乔恩13天没吃碳水",
+        "onboard_time": 1710256414,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175699,
+        "num": 175699,
+        "word": "Xiaohao缺席WBG首发名单",
+        "onboard_time": 1710295474,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164175,
+        "num": 164175,
+        "word": "燕郊爆炸事故调查组已到场",
+        "onboard_time": 1710294573,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160118,
+        "num": 160118,
+        "word": "乒乓球没有应该",
+        "onboard_time": 1710294873,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158190,
+        "num": 158190,
+        "word": "4只野生东北虎现身村民家门口",
+        "onboard_time": 1710293973,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152415,
+        "num": 152415,
+        "word": "知情人称TikTok或采取全面法律行动",
+        "onboard_time": 1710292893,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 151949,
+        "num": 151949,
+        "word": "浙江一村庄30万株郁金香盛开",
+        "onboard_time": 1710297154,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 150521,
+        "num": 150521,
+        "word": "纪凌尘撕名牌",
+        "onboard_time": 1710251855,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记出席2024全国两会纪实#"
+    }
+  }
+}
