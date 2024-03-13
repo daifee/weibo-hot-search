@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710318064108,
+  "endTime": 1710318857675,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -2179,6 +2179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1077414,
+      "num": 1077414,
+      "word": "吴艳妮8秒11夺冠",
+      "onboard_time": 1710317433,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1076780,
       "num": 1076780,
       "word": "外交部对鸟山明去世表示哀悼",
@@ -2849,6 +2857,14 @@
       "onboard_time": 1709607992,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 934965,
+      "num": 934965,
+      "word": "迪丽热巴春晚摔骨裂",
+      "onboard_time": 1710318154,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 934217,
@@ -6723,6 +6739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 556111,
+      "num": 556111,
+      "word": "减肥20%靠运动80%靠饮食",
+      "onboard_time": 1710316834,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 555565,
       "num": 641188,
       "word": "男子带走多件悼念用的AD钙奶",
@@ -7017,14 +7041,6 @@
       "onboard_time": 1710075211,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 542077,
-      "num": 542077,
-      "word": "吴艳妮8秒11夺冠",
-      "onboard_time": 1710317433,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 541749,
@@ -9803,14 +9819,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 409199,
-      "num": 278309,
-      "word": "减肥20%靠运动80%靠饮食",
-      "onboard_time": 1710316834,
-      "rank": 20,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 409000,
       "num": 274398,
       "word": "冯远征谈甄嬛传在台热播",
@@ -10705,6 +10713,14 @@
       "onboard_time": 1710059310,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375334,
+      "num": 375334,
+      "word": "黄子弘凡浙工商",
+      "onboard_time": 1710317734,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 375023,
@@ -11971,6 +11987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 334309,
+      "num": 334309,
+      "word": "国台办回应今年政府工作报告没提和平统一",
+      "onboard_time": 1710316295,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 333944,
       "num": 333944,
       "word": "大理寺少卿游 陈拾大boss",
@@ -12595,14 +12619,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 315832,
-      "num": 315832,
-      "word": "国台办回应今年政府工作报告没提和平统一",
-      "onboard_time": 1710316295,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 315291,
       "num": 315291,
       "word": "委员谈小学生厕所社交",
@@ -12697,6 +12713,14 @@
       "onboard_time": 1710061290,
       "rank": 16,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 313337,
+      "num": 313337,
+      "word": "阿沁老婆患厌食症",
+      "onboard_time": 1710317374,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 313092,
@@ -14251,14 +14275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 274942,
-      "num": 274942,
-      "word": "阿沁老婆患厌食症",
-      "onboard_time": 1710317374,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 274818,
       "num": 274818,
       "word": "姿态rita",
@@ -14801,6 +14817,14 @@
       "onboard_time": 1710065009,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 263544,
+      "num": 263544,
+      "word": "蒋勤勤你这样我有点害怕了",
+      "onboard_time": 1710316953,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 263213,
@@ -15441,6 +15465,14 @@
       "onboard_time": 1710117814,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 250379,
+      "num": 250379,
+      "word": "林俊杰抢票",
+      "onboard_time": 1710317614,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 250321,
@@ -16153,14 +16185,6 @@
       "onboard_time": 1709258674,
       "rank": 23,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 238598,
-      "num": 238598,
-      "word": "蒋勤勤你这样我有点害怕了",
-      "onboard_time": 1710316953,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 238368,
@@ -18299,6 +18323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 210329,
+      "num": 210329,
+      "word": "考研自划线",
+      "onboard_time": 1710317614,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 210176,
       "num": 210176,
       "word": "迪丽热巴六部作品全球热播",
@@ -20235,14 +20267,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 195049,
-      "num": 195049,
-      "word": "林俊杰抢票",
-      "onboard_time": 1710317614,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 194942,
       "num": 194942,
       "word": "直播间捧哏不是只会喊321上链接",
@@ -20873,6 +20897,14 @@
       "onboard_time": 1709737354,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189868,
+      "num": 189868,
+      "word": "将隆重表彰一批功勋模范人物",
+      "onboard_time": 1710317673,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 189739,
@@ -22187,14 +22219,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 179640,
-      "num": 179640,
-      "word": "将隆重表彰一批功勋模范人物",
-      "onboard_time": 1710317673,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 179607,
       "num": 179607,
       "word": "为什么很多人不爱用标点符号",
@@ -22419,14 +22443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 177480,
-      "num": 177480,
-      "word": "黄子弘凡浙工商",
-      "onboard_time": 1710317734,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177382,
       "num": 177382,
       "word": "别对我动心 顾寻岳千灵同房了",
@@ -22617,14 +22633,6 @@
       "onboard_time": 1709287113,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 176206,
-      "num": 176206,
-      "word": "考研自划线",
-      "onboard_time": 1710317614,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 176164,
@@ -29387,6 +29395,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 131104,
+      "num": 131104,
+      "word": "苏州顶流 玉兰花窗",
+      "onboard_time": 1710318334,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 131015,
       "num": 131015,
       "word": "WINTER Hossi挑战",
@@ -29769,6 +29785,14 @@
       "onboard_time": 1709547633,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129021,
+      "num": 129021,
+      "word": "太空兜圈归来的种子首次安家野外",
+      "onboard_time": 1710318454,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128975,
@@ -30337,6 +30361,14 @@
       "onboard_time": 1709479413,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124584,
+      "num": 124584,
+      "word": "历时37年再现红楼梦人物服饰",
+      "onboard_time": 1710318394,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124531,
@@ -31299,6 +31331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117923,
+      "num": 117923,
+      "word": "200亿涂料巨头钱房两空",
+      "onboard_time": 1710318093,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 117865,
       "num": 117865,
       "word": "雷军建议基础教育普及AI知识",
@@ -31636,7 +31676,7 @@
     },
     {
       "raw_hot": 115490,
-      "num": 749092,
+      "num": 950275,
       "word": "发展新质生产力的核心要素",
       "onboard_time": 1710316114,
       "rank": 2,
@@ -32977,6 +33017,14 @@
       "onboard_time": 1709729792,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 103845,
+      "num": 103845,
+      "word": "体检查出这15种毛病别慌",
+      "onboard_time": 1710318812,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 103804,

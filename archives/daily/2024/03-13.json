@@ -1,6 +1,6 @@
 {
   "startTime": 1710260540441,
-  "endTime": 1710318064108,
+  "endTime": 1710318857675,
   "band_list": [
     {
       "raw_hot": 6964861,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1077414,
+      "num": 1077414,
+      "word": "吴艳妮8秒11夺冠",
+      "onboard_time": 1710317433,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1040245,
       "num": 1040245,
       "word": "凯特王妃",
@@ -193,6 +201,14 @@
       "onboard_time": 1710285745,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 934965,
+      "num": 934965,
+      "word": "迪丽热巴春晚摔骨裂",
+      "onboard_time": 1710318154,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 890244,
@@ -395,20 +411,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 556111,
+      "num": 556111,
+      "word": "减肥20%靠运动80%靠饮食",
+      "onboard_time": 1710316834,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 550509,
       "num": 337990,
       "word": "女子为护肤1个月不洗脸致满脸结痂",
       "onboard_time": 1710286705,
       "rank": 20,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 542077,
-      "num": 542077,
-      "word": "吴艳妮8秒11夺冠",
-      "onboard_time": 1710317433,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 537077,
@@ -587,14 +603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 409199,
-      "num": 278309,
-      "word": "减肥20%靠运动80%靠饮食",
-      "onboard_time": 1710316834,
-      "rank": 20,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 408313,
       "num": 408313,
       "word": "太湖湾音乐节抢票",
@@ -657,6 +665,14 @@
       "onboard_time": 1710298891,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 375334,
+      "num": 375334,
+      "word": "黄子弘凡浙工商",
+      "onboard_time": 1710317734,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 359999,
@@ -723,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334309,
+      "num": 334309,
+      "word": "国台办回应今年政府工作报告没提和平统一",
+      "onboard_time": 1710316295,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 331356,
       "num": 331356,
       "word": "燕郊爆炸建筑内有招待所",
@@ -771,19 +795,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 315832,
-      "num": 315832,
-      "word": "国台办回应今年政府工作报告没提和平统一",
-      "onboard_time": 1710316295,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 313838,
       "num": 313838,
       "word": "满舒克回应",
       "onboard_time": 1710253359,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 313337,
+      "num": 313337,
+      "word": "阿沁老婆患厌食症",
+      "onboard_time": 1710317374,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -899,14 +923,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 274942,
-      "num": 274942,
-      "word": "阿沁老婆患厌食症",
-      "onboard_time": 1710317374,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 270267,
       "num": 270267,
       "word": "高校回应疑有学生赤身裸体去上课",
@@ -955,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263544,
+      "num": 263544,
+      "word": "蒋勤勤你这样我有点害怕了",
+      "onboard_time": 1710316953,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 260065,
       "num": 260065,
       "word": "10年前买黄金的人赚了多少",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1710291393,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250379,
+      "num": 250379,
+      "word": "林俊杰抢票",
+      "onboard_time": 1710317614,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 249587,
@@ -1073,14 +1105,6 @@
       "onboard_time": 1710239135,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 238598,
-      "num": 238598,
-      "word": "蒋勤勤你这样我有点害怕了",
-      "onboard_time": 1710316953,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 234158,
@@ -1161,6 +1185,14 @@
       "onboard_time": 1710288872,
       "rank": 28,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 210329,
+      "num": 210329,
+      "word": "考研自划线",
+      "onboard_time": 1710317614,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 210109,
@@ -1315,14 +1347,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 195049,
-      "num": 195049,
-      "word": "林俊杰抢票",
-      "onboard_time": 1710317614,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 194942,
       "num": 194942,
       "word": "直播间捧哏不是只会喊321上链接",
@@ -1371,6 +1395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189868,
+      "num": 189868,
+      "word": "将隆重表彰一批功勋模范人物",
+      "onboard_time": 1710317673,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 188822,
       "num": 203437,
       "word": "经常剪头发不会长得更快",
@@ -1411,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179640,
-      "num": 179640,
-      "word": "将隆重表彰一批功勋模范人物",
-      "onboard_time": 1710317673,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 178603,
       "num": 174667,
       "word": "华师大爱情心理学课程被指性别歧视",
@@ -1427,28 +1451,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 177480,
-      "num": 177480,
-      "word": "黄子弘凡浙工商",
-      "onboard_time": 1710317734,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176644,
       "num": 176644,
       "word": "315骗假不留",
       "onboard_time": 1710310410,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176206,
-      "num": 176206,
-      "word": "考研自划线",
-      "onboard_time": 1710317614,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 176164,
@@ -1779,6 +1787,22 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 131104,
+      "num": 131104,
+      "word": "苏州顶流 玉兰花窗",
+      "onboard_time": 1710318334,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 131042,
+      "num": 131042,
+      "word": "山东泰山首发",
+      "onboard_time": 1710318812,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130887,
       "num": 113633,
       "word": "焉栩嘉 不用了谢谢",
@@ -1803,6 +1827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 129021,
+      "num": 129021,
+      "word": "太空兜圈归来的种子首次安家野外",
+      "onboard_time": 1710318454,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128588,
       "num": 128588,
       "word": "被名字劝退却很上头的小说",
@@ -1825,6 +1857,14 @@
       "onboard_time": 1710315514,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124584,
+      "num": 124584,
+      "word": "历时37年再现红楼梦人物服饰",
+      "onboard_time": 1710318394,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124424,
@@ -1867,6 +1907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117923,
+      "num": 117923,
+      "word": "200亿涂料巨头钱房两空",
+      "onboard_time": 1710318093,
+      "rank": 48,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 117628,
       "num": 1512726,
       "word": "政府工作报告全文",
@@ -1892,7 +1940,7 @@
     },
     {
       "raw_hot": 115490,
-      "num": 749092,
+      "num": 950275,
       "word": "发展新质生产力的核心要素",
       "onboard_time": 1710316114,
       "rank": 2,
@@ -1945,6 +1993,14 @@
       "onboard_time": 1710230912,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103845,
+      "num": 103845,
+      "word": "体检查出这15种毛病别慌",
+      "onboard_time": 1710318812,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 102331,
