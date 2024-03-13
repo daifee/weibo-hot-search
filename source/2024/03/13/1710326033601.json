@@ -1,0 +1,410 @@
+{
+  "runTime": 1710326033601,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1931802,
+        "num": 1931802,
+        "word": "5岁男孩阳台坠亡时奶奶姥姥在打麻将",
+        "onboard_time": 1710322890,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1576990,
+        "num": 1576990,
+        "word": "迪丽热巴春晚摔骨裂",
+        "onboard_time": 1710318154,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51681,
+        "num": 1316928,
+        "word": "发展新质生产力的核心要素",
+        "onboard_time": 1710316114,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1261328,
+        "num": 1261328,
+        "word": "村委会回应3名初中生将同学杀害埋尸",
+        "onboard_time": 1710324211,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1115550,
+        "num": 1115550,
+        "word": "网传3名初中生霸凌同学并将其杀害",
+        "onboard_time": 1710324211,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1011359,
+        "num": 1011359,
+        "word": "女子过年买金仅一月小赚近1万",
+        "onboard_time": 1710319534,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645459,
+        "num": 645459,
+        "word": "减肥20%靠运动80%靠饮食",
+        "onboard_time": 1710316834,
+        "rank": 6,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 613315,
+        "num": 613315,
+        "word": "阿沁老婆涉毒被捕",
+        "onboard_time": 1710314494,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202760,
+        "num": 575988,
+        "word": "小学生用电话手表打120救摔伤老人",
+        "onboard_time": 1710323435,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 301318,
+        "num": 575520,
+        "word": "柯基在我国警犬界也有姓名了",
+        "onboard_time": 1710322053,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 851078,
+        "num": 575485,
+        "word": "李雪琴变瘦了",
+        "onboard_time": 1710325353,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 575440,
+        "num": 575440,
+        "word": "燕郊爆炸已致2死26伤",
+        "onboard_time": 1710308552,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502800,
+        "num": 502800,
+        "word": "理工择偶",
+        "onboard_time": 1710322653,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 485492,
+        "num": 485492,
+        "word": "林心如挑选保姆很严格",
+        "onboard_time": 1710324871,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413683,
+        "num": 413683,
+        "word": "梅西代言白酒重新上架",
+        "onboard_time": 1710321873,
+        "rank": 14,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 397160,
+        "num": 397160,
+        "word": "与凤行特效",
+        "onboard_time": 1710321334,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337167,
+        "num": 337167,
+        "word": "刘宇方回应抄袭张艺兴争议",
+        "onboard_time": 1710325473,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333547,
+        "num": 333547,
+        "word": "吴艳妮8秒11夺冠",
+        "onboard_time": 1710317433,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333500,
+        "num": 333500,
+        "word": "缅甸800余名中国籍涉赌诈人员被遣返",
+        "onboard_time": 1710324510,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 333185,
+        "num": 333185,
+        "word": "爆炸亲历者称巨响后身上像被东西压",
+        "onboard_time": 1710321755,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320545,
+        "num": 320545,
+        "word": "爱奇艺腾讯优酷卷起来了",
+        "onboard_time": 1710312030,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308601,
+        "num": 308601,
+        "word": "女子买重疾险后查出恶性肿瘤保险拒赔",
+        "onboard_time": 1710324755,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 306743,
+        "num": 306743,
+        "word": "RNG 看笑了",
+        "onboard_time": 1710324450,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 296477,
+        "num": 296477,
+        "word": "黄雅莉生子",
+        "onboard_time": 1710310893,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253466,
+        "num": 253466,
+        "word": "体检查出这15种毛病别慌",
+        "onboard_time": 1710318812,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223613,
+        "num": 223613,
+        "word": "洪胜汉露面",
+        "onboard_time": 1710324630,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220945,
+        "num": 220945,
+        "word": "月薪15000住家阿姨的一天",
+        "onboard_time": 1710309272,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216176,
+        "num": 216176,
+        "word": "阿沁回应妻子涉毒",
+        "onboard_time": 1710319415,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203892,
+        "num": 203892,
+        "word": "黄子弘凡浙工商",
+        "onboard_time": 1710317734,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197672,
+        "num": 197672,
+        "word": "与凤行凤凰vs烈焰凤凰",
+        "onboard_time": 1710323853,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197421,
+        "num": 197421,
+        "word": "XYG排列组合",
+        "onboard_time": 1710325112,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191832,
+        "num": 191832,
+        "word": "水培郁金香",
+        "onboard_time": 1710322653,
+        "rank": 31,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 186424,
+        "num": 186424,
+        "word": "黄晓明肚子",
+        "onboard_time": 1710307111,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177960,
+        "num": 177960,
+        "word": "凯特王妃到底去哪儿了",
+        "onboard_time": 1710310535,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 148370,
+        "num": 177771,
+        "word": "第一次看见这样的闪电",
+        "onboard_time": 1710322593,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177655,
+        "num": 177655,
+        "word": "扁鹊无尽旅途皮肤",
+        "onboard_time": 1710323017,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167088,
+        "num": 167088,
+        "word": "中国C919飞机在美降落时发生事故真相",
+        "onboard_time": 1710312632,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161312,
+        "num": 161312,
+        "word": "多地九价HPV来了就能打",
+        "onboard_time": 1710325473,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19398,
+        "num": 160893,
+        "word": "用艺术思考来看时装",
+        "onboard_time": 1710325413,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 160825,
+        "num": 160825,
+        "word": "华东师大回应心理学课程被指性别歧视",
+        "onboard_time": 1710322113,
+        "rank": 39,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 160159,
+        "num": 160159,
+        "word": "玻璃蛙的腹部几乎全透明",
+        "onboard_time": 1710325893,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156754,
+        "num": 156754,
+        "word": "山东泰山vs横滨水手",
+        "onboard_time": 1710320137,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152886,
+        "num": 152886,
+        "word": "燕郊炸鸡店爆燃后4层楼体坍塌",
+        "onboard_time": 1710301057,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151214,
+        "num": 151214,
+        "word": "世上最后一名铁肺人去世",
+        "onboard_time": 1710325771,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147462,
+        "num": 147462,
+        "word": "朋友圈发这些可能会被封号",
+        "onboard_time": 1710302554,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 145733,
+        "num": 145733,
+        "word": "何洁恭喜黄雅莉",
+        "onboard_time": 1710323133,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145720,
+        "num": 145720,
+        "word": "喝水后的4个异常或为肾在求救",
+        "onboard_time": 1710307294,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143399,
+        "num": 143399,
+        "word": "檀健次回应be是自己的舒适区",
+        "onboard_time": 1710321034,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142933,
+        "num": 142933,
+        "word": "三孩妈妈做抽脂手术时死亡",
+        "onboard_time": 1710325893,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138223,
+        "num": 138223,
+        "word": "直击燕郊爆炸救援现场",
+        "onboard_time": 1710300335,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把职业教育发展好要树立工匠精神#"
+    }
+  }
+}

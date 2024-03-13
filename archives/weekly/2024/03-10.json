@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710325104974,
+  "endTime": 1710326033601,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1931802,
+      "num": 1931802,
+      "word": "5岁男孩阳台坠亡时奶奶姥姥在打麻将",
+      "onboard_time": 1710322890,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1845566,
       "num": 1845566,
       "word": "朋友圈发这些可能会被封号",
@@ -241,14 +249,6 @@
       "onboard_time": 1710137190,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1746487,
-      "num": 1746487,
-      "word": "5岁男孩阳台坠亡时奶奶姥姥在打麻将",
-      "onboard_time": 1710322890,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1731462,
@@ -515,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1261328,
+      "num": 1261328,
+      "word": "村委会回应3名初中生将同学杀害埋尸",
+      "onboard_time": 1710324211,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1250055,
       "num": 1250055,
       "word": "X疾病会暴发吗",
@@ -689,6 +697,14 @@
       "onboard_time": 1710144211,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1115550,
+      "num": 1115550,
+      "word": "网传3名初中生霸凌同学并将其杀害",
+      "onboard_time": 1710324211,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1114332,
@@ -1179,6 +1195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 851078,
+      "num": 575485,
+      "word": "李雪琴变瘦了",
+      "onboard_time": 1710325353,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 848534,
       "num": 848534,
       "word": "新冠疫情使全球平均寿命缩短了1.6年",
@@ -1489,14 +1513,6 @@
       "onboard_time": 1710249634,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 732886,
-      "num": 732886,
-      "word": "村委会回应3名初中生将同学杀害埋尸",
-      "onboard_time": 1710324211,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 732872,
@@ -2283,14 +2299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 545465,
-      "num": 545465,
-      "word": "网传3名初中生霸凌同学并将其杀害",
-      "onboard_time": 1710324211,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 543577,
       "num": 543577,
       "word": "白鹿把领口缝起来了",
@@ -2539,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 502800,
+      "num": 502800,
+      "word": "理工择偶",
+      "onboard_time": 1710322653,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 500698,
       "num": 500698,
       "word": "农村断缴城乡居民医保背后",
@@ -2689,6 +2705,14 @@
       "onboard_time": 1710122191,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485492,
+      "num": 485492,
+      "word": "林心如挑选保姆很严格",
+      "onboard_time": 1710324871,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 484572,
@@ -3227,14 +3251,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 399308,
-      "num": 399308,
-      "word": "理工择偶",
-      "onboard_time": 1710322653,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 399158,
       "num": 399158,
       "word": "未来黄金价格每克或将超过750元",
@@ -3249,6 +3265,14 @@
       "onboard_time": 1710136831,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 397160,
+      "num": 397160,
+      "word": "与凤行特效",
+      "onboard_time": 1710321334,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 396829,
@@ -3353,14 +3377,6 @@
       "onboard_time": 1710133115,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 386877,
-      "num": 386877,
-      "word": "与凤行特效",
-      "onboard_time": 1710321334,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 385769,
@@ -3787,6 +3803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337167,
+      "num": 337167,
+      "word": "刘宇方回应抄袭张艺兴争议",
+      "onboard_time": 1710325473,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336989,
       "num": 336989,
       "word": "李权哲第二名出道",
@@ -3849,6 +3873,14 @@
       "onboard_time": 1710043950,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 333500,
+      "num": 333500,
+      "word": "缅甸800余名中国籍涉赌诈人员被遣返",
+      "onboard_time": 1710324510,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 331524,
@@ -4115,6 +4147,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 308601,
+      "num": 308601,
+      "word": "女子买重疾险后查出恶性肿瘤保险拒赔",
+      "onboard_time": 1710324755,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 307025,
       "num": 307025,
       "word": "恋与深空排期没改",
@@ -4129,6 +4169,14 @@
       "onboard_time": 1710237152,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 306743,
+      "num": 306743,
+      "word": "RNG 看笑了",
+      "onboard_time": 1710324450,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 305978,
@@ -4217,6 +4265,14 @@
       "onboard_time": 1710117573,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301318,
+      "num": 575520,
+      "word": "柯基在我国警犬界也有姓名了",
+      "onboard_time": 1710322053,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 300678,
@@ -4507,14 +4563,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 275263,
-      "num": 545536,
-      "word": "柯基在我国警犬界也有姓名了",
-      "onboard_time": 1710322053,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 275023,
       "num": 236414,
       "word": "檀健次回应爆红后熬出头",
@@ -4683,14 +4731,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 263866,
-      "num": 263866,
-      "word": "林心如挑选保姆很严格",
-      "onboard_time": 1710324871,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 263683,
       "num": 263683,
       "word": "逆水寒手游",
@@ -4841,14 +4881,6 @@
       "onboard_time": 1710224311,
       "rank": 38,
       "category": "互联网,国外时政"
-    },
-    {
-      "raw_hot": 254832,
-      "num": 254832,
-      "word": "RNG 看笑了",
-      "onboard_time": 1710324450,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 254275,
@@ -5539,6 +5571,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 223613,
+      "num": 223613,
+      "word": "洪胜汉露面",
+      "onboard_time": 1710324630,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223241,
       "num": 223241,
       "word": "耙耙柑美式",
@@ -6227,6 +6267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202760,
+      "num": 575988,
+      "word": "小学生用电话手表打120救摔伤老人",
+      "onboard_time": 1710323435,
+      "rank": 8,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 202601,
       "num": 202601,
       "word": "剑网3",
@@ -6363,14 +6411,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 198309,
-      "num": 198309,
-      "word": "洪胜汉露面",
-      "onboard_time": 1710324630,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198302,
       "num": 198302,
       "word": "杨紫琼 魔方小姐",
@@ -6411,6 +6451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197672,
+      "num": 197672,
+      "word": "与凤行凤凰vs烈焰凤凰",
+      "onboard_time": 1710323853,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197632,
       "num": 197632,
       "word": "管理学涨7分",
@@ -6433,6 +6481,14 @@
       "onboard_time": 1710215917,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197421,
+      "num": 197421,
+      "word": "XYG排列组合",
+      "onboard_time": 1710325112,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 197190,
@@ -6553,14 +6609,6 @@
       "onboard_time": 1710180978,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195394,
-      "num": 195394,
-      "word": "缅甸800余名中国籍涉赌诈人员被遣返",
-      "onboard_time": 1710324510,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 195315,
@@ -6697,6 +6745,14 @@
       "onboard_time": 1710299012,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191832,
+      "num": 191832,
+      "word": "水培郁金香",
+      "onboard_time": 1710322653,
+      "rank": 31,
+      "category": "休闲"
     },
     {
       "raw_hot": 191765,
@@ -7467,14 +7523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 172153,
-      "num": 172153,
-      "word": "与凤行凤凰vs烈焰凤凰",
-      "onboard_time": 1710323853,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 172078,
       "num": 172078,
       "word": "提议大学生修满学分就毕业",
@@ -7699,28 +7747,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 166779,
-      "num": 166779,
-      "word": "女子买重疾险后查出恶性肿瘤保险拒赔",
-      "onboard_time": 1710324755,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 166733,
       "num": 166733,
       "word": "浪姐5一公歌单",
       "onboard_time": 1710025700,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166590,
-      "num": 549006,
-      "word": "小学生用电话手表打120救摔伤老人",
-      "onboard_time": 1710323435,
-      "rank": 8,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 166437,
@@ -7931,6 +7963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161312,
+      "num": 161312,
+      "word": "多地九价HPV来了就能打",
+      "onboard_time": 1710325473,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 161191,
       "num": 161191,
       "word": "字母哥被扣懵了",
@@ -7977,6 +8017,14 @@
       "onboard_time": 1710300633,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160159,
+      "num": 160159,
+      "word": "玻璃蛙的腹部几乎全透明",
+      "onboard_time": 1710325893,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 159911,
@@ -8187,6 +8235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156754,
+      "num": 158566,
+      "word": "山东泰山vs横滨水手",
+      "onboard_time": 1710320137,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156478,
       "num": 156478,
       "word": "宫崎骏二封奥斯卡动画",
@@ -8355,14 +8411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152544,
-      "num": 158566,
-      "word": "山东泰山vs横滨水手",
-      "onboard_time": 1710320137,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152495,
       "num": 152495,
       "word": "上班时和朋友聊天的高频词汇",
@@ -8449,6 +8497,14 @@
       "onboard_time": 1710045328,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 151214,
+      "num": 151214,
+      "word": "世上最后一名铁肺人去世",
+      "onboard_time": 1710325771,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150964,
@@ -8737,6 +8793,14 @@
       "onboard_time": 1710033088,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 142933,
+      "num": 142933,
+      "word": "三孩妈妈做抽脂手术时死亡",
+      "onboard_time": 1710325893,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142510,
@@ -11113,6 +11177,14 @@
       "onboard_time": 1710005062,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 19398,
+      "num": 160893,
+      "word": "用艺术思考来看时装",
+      "onboard_time": 1710325413,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 18511,
