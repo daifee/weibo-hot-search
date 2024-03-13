@@ -1,0 +1,410 @@
+{
+  "runTime": 1710307142148,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2154138,
+        "num": 2154138,
+        "word": "河北燕郊爆炸已致1死22伤",
+        "onboard_time": 1710298234,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1845566,
+        "num": 1845566,
+        "word": "朋友圈发这些可能会被封号",
+        "onboard_time": 1710302554,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90006,
+        "num": 1512726,
+        "word": "政府工作报告全文",
+        "onboard_time": 1710303035,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1265998,
+        "num": 1265998,
+        "word": "Dior事件后马面裙卖疯了",
+        "onboard_time": 1710293732,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 742309,
+        "num": 742309,
+        "word": "燕郊炸鸡店爆燃后4层楼体坍塌",
+        "onboard_time": 1710301057,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666092,
+        "num": 666092,
+        "word": "国乒爆冷",
+        "onboard_time": 1710292771,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 632898,
+        "num": 632898,
+        "word": "多地中通快递严重积压",
+        "onboard_time": 1710299976,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627701,
+        "num": 627701,
+        "word": "Prada 檀健次",
+        "onboard_time": 1710305615,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 622571,
+        "num": 622571,
+        "word": "上海消保委点名茉酸奶",
+        "onboard_time": 1710301177,
+        "rank": 8,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 522935,
+        "num": 522935,
+        "word": "中餐厅8拟邀阵容",
+        "onboard_time": 1710306393,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 574661,
+        "num": 522406,
+        "word": "燕郊50个小区因爆炸燃气停气",
+        "onboard_time": 1710300693,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508893,
+        "num": 508893,
+        "word": "纪凌尘 脏脏包",
+        "onboard_time": 1710289834,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427991,
+        "num": 427991,
+        "word": "商户说燕郊爆炸建筑几乎炸没了",
+        "onboard_time": 1710295053,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414117,
+        "num": 414117,
+        "word": "种地吧真的做大做强了",
+        "onboard_time": 1710303394,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408313,
+        "num": 408313,
+        "word": "太湖湾音乐节抢票",
+        "onboard_time": 1710304717,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 408144,
+        "num": 408144,
+        "word": "多家燃气公司赶往燕郊爆炸现场",
+        "onboard_time": 1710302676,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393587,
+        "num": 393587,
+        "word": "39元瑞士卷被黄牛炒到120元",
+        "onboard_time": 1710293192,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 362641,
+        "num": 362641,
+        "word": "钟薛高有员工称已数月未领到工资",
+        "onboard_time": 1710294212,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356773,
+        "num": 356773,
+        "word": "吴磊蒋勤勤新片是反传销题材",
+        "onboard_time": 1710304475,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 349513,
+        "num": 349513,
+        "word": "朱珠产后瘦了近50斤",
+        "onboard_time": 1710288631,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 616827,
+        "num": 333537,
+        "word": "为什么领导很少请病假",
+        "onboard_time": 1710303457,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307025,
+        "num": 307025,
+        "word": "恋与深空排期没改",
+        "onboard_time": 1710305736,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291054,
+        "num": 291054,
+        "word": "纪凌尘评论区",
+        "onboard_time": 1710305736,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289787,
+        "num": 289787,
+        "word": "韩孝周小栗旬将合作",
+        "onboard_time": 1710302374,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 270654,
+        "num": 270654,
+        "word": "原来自信的女生真的会发光",
+        "onboard_time": 1710300873,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245471,
+        "num": 245471,
+        "word": "沈星回味蕾突袭",
+        "onboard_time": 1710306275,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 235934,
+        "num": 235934,
+        "word": "年度cp 新兰唯一BG",
+        "onboard_time": 1710303155,
+        "rank": 26,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 233486,
+        "num": 233486,
+        "word": "背薄了真的显年轻",
+        "onboard_time": 1710298533,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 222863,
+        "num": 222863,
+        "word": "论文忘记重命名就发出去了",
+        "onboard_time": 1710304836,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219749,
+        "num": 219749,
+        "word": "直击燕郊爆炸救援现场",
+        "onboard_time": 1710300335,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215418,
+        "num": 215418,
+        "word": "陆虎亲了陈曌旭",
+        "onboard_time": 1710297869,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208620,
+        "num": 208620,
+        "word": "这届年轻人真的不想生吗",
+        "onboard_time": 1710293552,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202425,
+        "num": 202425,
+        "word": "一个月减重4到8斤比较合理",
+        "onboard_time": 1710306693,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 200811,
+        "num": 200811,
+        "word": "大侦探",
+        "onboard_time": 1710303578,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197825,
+        "num": 197825,
+        "word": "甘肃天水麻辣烫",
+        "onboard_time": 1710295892,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 190410,
+        "num": 190410,
+        "word": "喜茶光与夜之恋联名",
+        "onboard_time": 1710293852,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188102,
+        "num": 188102,
+        "word": "章子怡怒怼网友",
+        "onboard_time": 1710285745,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185837,
+        "num": 185837,
+        "word": "别告诉鹿晗家的猫",
+        "onboard_time": 1710306934,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184798,
+        "num": 184798,
+        "word": "燕郊爆炸对面大楼玻璃被震碎",
+        "onboard_time": 1710302975,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183798,
+        "num": 183798,
+        "word": "蓝盈莹演了五福临门",
+        "onboard_time": 1710302135,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175300,
+        "num": 175300,
+        "word": "燕郊爆炸现场仍有大量白烟",
+        "onboard_time": 1710306874,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171985,
+        "num": 171985,
+        "word": "医师劝阻100斤要做减重手术的人",
+        "onboard_time": 1710292837,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170984,
+        "num": 170984,
+        "word": "伦纳德退出比赛",
+        "onboard_time": 1710302914,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170226,
+        "num": 170226,
+        "word": "燕郊镇发生爆炸",
+        "onboard_time": 1710290554,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163350,
+        "num": 163350,
+        "word": "看似很舒服其实很伤身体的行为",
+        "onboard_time": 1710295773,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158640,
+        "num": 158640,
+        "word": "钟薛高被人力资源公司起诉",
+        "onboard_time": 1710307111,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 157453,
+        "num": 157453,
+        "word": "黄晓明肚子",
+        "onboard_time": 1710307111,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151297,
+        "num": 151297,
+        "word": "王源我不是小孩子了",
+        "onboard_time": 1710297813,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148944,
+        "num": 148944,
+        "word": "官方回应燕郊镇发生爆炸",
+        "onboard_time": 1710292771,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148699,
+        "num": 148699,
+        "word": "减脂最掉秤的炒菜",
+        "onboard_time": 1710300935,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把职业教育发展好要树立工匠精神#"
+    }
+  }
+}
