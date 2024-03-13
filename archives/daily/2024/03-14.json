@@ -1,6 +1,6 @@
 {
   "startTime": 1710346860842,
-  "endTime": 1710354858823,
+  "endTime": 1710357280259,
   "band_list": [
     {
       "raw_hot": 1678525,
@@ -435,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60570,
+      "num": 34787,
+      "word": "燕郊爆燃事故致7死27伤",
+      "onboard_time": 1710356418,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48401,
       "num": 48401,
       "word": "色汗症是什么",
@@ -467,6 +475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 30390,
+      "num": 30390,
+      "word": "我国成年人过半超重或肥胖",
+      "onboard_time": 1710356596,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29763,
       "num": 520726,
       "word": "开展国家勋章和国家荣誉称号评选颁授",
@@ -475,12 +491,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26292,
+      "num": 26292,
+      "word": "阿姨卖夹饼90度敞开往里塞肉",
+      "onboard_time": 1710357257,
+      "rank": 33,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 23018,
       "num": 23018,
       "word": "2024全英羽毛球公开赛",
       "onboard_time": 1710351439,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18622,
+      "num": 18622,
+      "word": "宋丹丹舞台剧三分钟独白",
+      "onboard_time": 1710356237,
+      "rank": 48,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
