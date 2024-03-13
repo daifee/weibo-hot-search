@@ -1,0 +1,410 @@
+{
+  "runTime": 1710368220971,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 274187,
+        "num": 274187,
+        "word": "千万别再关灯玩手机了",
+        "onboard_time": 1710343774,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158372,
+        "num": 158372,
+        "word": "阿姨卖夹饼90度敞开往里塞肉",
+        "onboard_time": 1710357257,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 12829,
+        "num": 88930,
+        "word": "开展国家勋章和国家荣誉称号评选颁授",
+        "onboard_time": 1710333872,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 382752,
+        "num": 87553,
+        "word": "燕郊爆燃事故致7死27伤",
+        "onboard_time": 1710356418,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84218,
+        "num": 84218,
+        "word": "潘博文",
+        "onboard_time": 1710347906,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83321,
+        "num": 83321,
+        "word": "元汽森林厂家被罚",
+        "onboard_time": 1710341916,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82489,
+        "num": 82489,
+        "word": "央视今年315晚会节目单公布",
+        "onboard_time": 1710342813,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53064,
+        "num": 53064,
+        "word": "90后妈妈为给孩子看病代孕赚钱",
+        "onboard_time": 1710339455,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52331,
+        "num": 52331,
+        "word": "中国记协",
+        "onboard_time": 1710345211,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43956,
+        "num": 43956,
+        "word": "我国成年人过半超重或肥胖",
+        "onboard_time": 1710356596,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258862,
+        "num": 43632,
+        "word": "独生女举报62岁父亲代孕生儿子",
+        "onboard_time": 1710342695,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117068,
+        "num": 43423,
+        "word": "中国记协三问央视记者燕郊采访遇阻",
+        "onboard_time": 1710344611,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86754,
+        "num": 42702,
+        "word": "美众议院通过TikTok法案",
+        "onboard_time": 1710342093,
+        "rank": 12,
+        "category": "国外时政,互联网"
+      },
+      {
+        "raw_hot": 66084,
+        "num": 42390,
+        "word": "5岁男孩阳台坠亡时奶奶姥姥在打麻将",
+        "onboard_time": 1710322890,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65888,
+        "num": 41759,
+        "word": "粥饼伦称不想让孩子再过苦日子",
+        "onboard_time": 1710349703,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 65477,
+        "num": 41705,
+        "word": "李雪琴变瘦了",
+        "onboard_time": 1710325353,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41284,
+        "num": 41284,
+        "word": "迪丽热巴春晚摔骨裂",
+        "onboard_time": 1710318154,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40415,
+        "num": 40415,
+        "word": "央视记者",
+        "onboard_time": 1710333872,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36933,
+        "num": 36933,
+        "word": "减肥20%靠运动80%靠饮食",
+        "onboard_time": 1710316834,
+        "rank": 18,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 36269,
+        "num": 36269,
+        "word": "面对女儿的拥抱她下意识躲开了",
+        "onboard_time": 1710337416,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45293,
+        "num": 36029,
+        "word": "月薪5000元看不起付费短剧",
+        "onboard_time": 1710335973,
+        "rank": 20,
+        "category": "社会新闻,剧集"
+      },
+      {
+        "raw_hot": 38499,
+        "num": 35914,
+        "word": "微信注销后的样子",
+        "onboard_time": 1710331414,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 35561,
+        "num": 35561,
+        "word": "成毅鱼花灯",
+        "onboard_time": 1710347366,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35139,
+        "num": 35139,
+        "word": "哥哥帮妹妹换纸尿裤划破眼球",
+        "onboard_time": 1710336275,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34553,
+        "num": 34553,
+        "word": "凯特",
+        "onboard_time": 1710333755,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 33625,
+        "num": 33625,
+        "word": "戴高乐长子去世",
+        "onboard_time": 1710339455,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 32509,
+        "num": 32509,
+        "word": "许光汉宣布不再演高中生",
+        "onboard_time": 1710331656,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32250,
+        "num": 32250,
+        "word": "蒋欣古娜拉黑暗之神",
+        "onboard_time": 1710341316,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31756,
+        "num": 31756,
+        "word": "三孩妈妈做抽脂手术时死亡",
+        "onboard_time": 1710325893,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31743,
+        "num": 31743,
+        "word": "25岁以后不再觉得高敏感是一种错",
+        "onboard_time": 1710344852,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31177,
+        "num": 31177,
+        "word": "任嘉伦观众缘",
+        "onboard_time": 1710366796,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30805,
+        "num": 30805,
+        "word": "减肥版司美格鲁肽未在我国获批",
+        "onboard_time": 1710362955,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30714,
+        "num": 30714,
+        "word": "鹿晗骨相",
+        "onboard_time": 1710331774,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28832,
+        "num": 28832,
+        "word": "燕郊爆炸事故现场视频",
+        "onboard_time": 1710364995,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28739,
+        "num": 28739,
+        "word": "书亦烧仙草被点名饮品已改名",
+        "onboard_time": 1710333813,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 27769,
+        "num": 27769,
+        "word": "燕郊爆炸已致2死26伤",
+        "onboard_time": 1710308552,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27676,
+        "num": 27676,
+        "word": "烈焰首播口碑",
+        "onboard_time": 1710333034,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27536,
+        "num": 27536,
+        "word": "燕郊爆炸初步确认是燃气泄漏引发",
+        "onboard_time": 1710327510,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27329,
+        "num": 27329,
+        "word": "记协就记者报道燕郊爆炸事故被拦发声",
+        "onboard_time": 1710338856,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25810,
+        "num": 25810,
+        "word": "宋家三胞胎12岁了",
+        "onboard_time": 1710326313,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25310,
+        "num": 25310,
+        "word": "世上最后一名铁肺人去世",
+        "onboard_time": 1710325771,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24697,
+        "num": 24697,
+        "word": "色汗症是什么",
+        "onboard_time": 1710352098,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22750,
+        "num": 22750,
+        "word": "和平精英 姚安娜动作",
+        "onboard_time": 1710334292,
+        "rank": 42,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 21507,
+        "num": 21507,
+        "word": "为什么考研人数下降分数线却上涨",
+        "onboard_time": 1710335253,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20951,
+        "num": 20951,
+        "word": "邢菲新戏演技",
+        "onboard_time": 1710349821,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20850,
+        "num": 20850,
+        "word": "成龙头发胡子白了",
+        "onboard_time": 1710328594,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19249,
+        "num": 20847,
+        "word": "烈焰",
+        "onboard_time": 1710329193,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18522,
+        "num": 20839,
+        "word": "檀健次片场碎片",
+        "onboard_time": 1710363015,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17313,
+        "num": 20831,
+        "word": "Q币结算工资",
+        "onboard_time": 1710333933,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16670,
+        "num": 20825,
+        "word": "2024PEL春季赛",
+        "onboard_time": 1710350120,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把职业教育发展好要树立工匠精神#"
+    }
+  }
+}

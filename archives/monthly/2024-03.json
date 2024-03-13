@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710365670647,
+  "endTime": 1710368220971,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -10833,6 +10833,14 @@
       "onboard_time": 1709304754,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 382752,
+      "num": 87553,
+      "word": "燕郊爆燃事故致7死27伤",
+      "onboard_time": 1710356418,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382634,
@@ -22419,14 +22427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184302,
-      "num": 34787,
-      "word": "燕郊爆燃事故致7死27伤",
-      "onboard_time": 1710356418,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184193,
       "num": 184193,
       "word": "恩钟更新",
@@ -26113,6 +26113,14 @@
       "onboard_time": 1709263170,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158372,
+      "num": 158372,
+      "word": "阿姨卖夹饼90度敞开往里塞肉",
+      "onboard_time": 1710357257,
+      "rank": 33,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 158360,
@@ -34987,14 +34995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90942,
-      "num": 90942,
-      "word": "阿姨卖夹饼90度敞开往里塞肉",
-      "onboard_time": 1710357257,
-      "rank": 33,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 90724,
       "num": 90724,
       "word": "爆改视频背后谁赚麻了",
@@ -37067,6 +37067,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31177,
+      "num": 31177,
+      "word": "任嘉伦观众缘",
+      "onboard_time": 1710366796,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 30805,
+      "num": 30805,
+      "word": "减肥版司美格鲁肽未在我国获批",
+      "onboard_time": 1710362955,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 30720,
       "num": 33645,
       "word": "当上菜的速度赶不上吃饭的速度时",
@@ -37121,6 +37137,14 @@
       "onboard_time": 1709397568,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28832,
+      "num": 28832,
+      "word": "燕郊爆炸事故现场视频",
+      "onboard_time": 1710364995,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28582,
@@ -37443,6 +37467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18522,
+      "num": 20839,
+      "word": "檀健次片场碎片",
+      "onboard_time": 1710363015,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18521,
       "num": 18521,
       "word": "孙千回应麦姬判官",
@@ -37489,22 +37521,6 @@
       "onboard_time": 1709750957,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 17632,
-      "num": 17632,
-      "word": "檀健次片场碎片",
-      "onboard_time": 1710363015,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 17595,
-      "num": 17595,
-      "word": "燕郊爆炸事故现场视频",
-      "onboard_time": 1710364995,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17321,
@@ -37569,14 +37585,6 @@
       "onboard_time": 1710274096,
       "rank": 47,
       "category": "网红"
-    },
-    {
-      "raw_hot": 16152,
-      "num": 16152,
-      "word": "减肥版司美格鲁肽未在我国获批",
-      "onboard_time": 1710362955,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 15965,
