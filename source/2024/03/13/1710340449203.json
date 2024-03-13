@@ -1,0 +1,410 @@
+{
+  "runTime": 1710340449203,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2096001,
+        "num": 2096001,
+        "word": "茶颜悦色建议用农夫山泉泡茶",
+        "onboard_time": 1710338318,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 940854,
+        "num": 940854,
+        "word": "许光汉宣布不再演高中生",
+        "onboard_time": 1710331656,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132985,
+        "num": 932131,
+        "word": "3000多株珍稀濒危植物回归野外",
+        "onboard_time": 1710334892,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 930502,
+        "num": 930502,
+        "word": "凯特",
+        "onboard_time": 1710333755,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 833510,
+        "num": 833510,
+        "word": "减肥20%靠运动80%靠饮食",
+        "onboard_time": 1710316834,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 743356,
+        "num": 743356,
+        "word": "和平精英 姚安娜动作",
+        "onboard_time": 1710334292,
+        "rank": 5,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 663171,
+        "num": 663171,
+        "word": "迪丽热巴春晚摔骨裂",
+        "onboard_time": 1710318154,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579826,
+        "num": 579826,
+        "word": "燕郊爆炸初步确认是燃气泄漏引发",
+        "onboard_time": 1710327510,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474465,
+        "num": 474465,
+        "word": "Q币结算工资",
+        "onboard_time": 1710333933,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 450693,
+        "num": 450693,
+        "word": "燕郊爆炸已致2死26伤",
+        "onboard_time": 1710308552,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1572493,
+        "num": 448249,
+        "word": "央视记者",
+        "onboard_time": 1710333872,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 851818,
+        "num": 434406,
+        "word": "鹿晗骨相",
+        "onboard_time": 1710331774,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 722160,
+        "num": 414880,
+        "word": "李雪琴变瘦了",
+        "onboard_time": 1710325353,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 524197,
+        "num": 394812,
+        "word": "戴高乐长子去世",
+        "onboard_time": 1710339455,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 521937,
+        "num": 388967,
+        "word": "哥哥帮妹妹换纸尿裤划破眼球",
+        "onboard_time": 1710336275,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378373,
+        "num": 378373,
+        "word": "5岁男孩阳台坠亡时奶奶姥姥在打麻将",
+        "onboard_time": 1710322890,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358576,
+        "num": 358576,
+        "word": "记协就记者报道燕郊爆炸事故被拦发声",
+        "onboard_time": 1710338856,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343640,
+        "num": 343640,
+        "word": "刘宇方回应抄袭张艺兴争议",
+        "onboard_time": 1710325473,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 340129,
+        "num": 340129,
+        "word": "五粮液声明称没在拼多多开设官方店",
+        "onboard_time": 1710333573,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 314076,
+        "num": 314076,
+        "word": "成龙头发胡子白了",
+        "onboard_time": 1710328594,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627939,
+        "num": 313673,
+        "word": "月薪5000元看不起付费短剧",
+        "onboard_time": 1710335973,
+        "rank": 20,
+        "category": "社会新闻,剧集"
+      },
+      {
+        "raw_hot": 339109,
+        "num": 313048,
+        "word": "微信注销后的样子",
+        "onboard_time": 1710331414,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 309318,
+        "num": 309318,
+        "word": "面对女儿的拥抱她下意识躲开了",
+        "onboard_time": 1710337416,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306993,
+        "num": 306993,
+        "word": "记者暗访代孕黑色产业链",
+        "onboard_time": 1710331056,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297611,
+        "num": 297611,
+        "word": "世上最后一名铁肺人去世",
+        "onboard_time": 1710325771,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294476,
+        "num": 294476,
+        "word": "烈焰首播口碑",
+        "onboard_time": 1710333034,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287918,
+        "num": 287918,
+        "word": "三孩妈妈做抽脂手术时死亡",
+        "onboard_time": 1710325893,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283543,
+        "num": 283543,
+        "word": "邯郸初中生",
+        "onboard_time": 1710339575,
+        "rank": 27,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 275430,
+        "num": 275430,
+        "word": "Angelababy风尚志三月刊封面",
+        "onboard_time": 1710326492,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 274406,
+        "num": 274406,
+        "word": "RIIZE直播",
+        "onboard_time": 1710339516,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256259,
+        "num": 256259,
+        "word": "为什么考研人数下降分数线却上涨",
+        "onboard_time": 1710335253,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 250026,
+        "num": 250026,
+        "word": "女子过年买金仅一月小赚近1万",
+        "onboard_time": 1710319534,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244094,
+        "num": 244094,
+        "word": "孙艺珍新闻图",
+        "onboard_time": 1710336397,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238444,
+        "num": 238444,
+        "word": "90后妈妈为给孩子看病代孕赚钱",
+        "onboard_time": 1710339455,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226537,
+        "num": 226537,
+        "word": "狐妖月红篇取得发行许可证",
+        "onboard_time": 1710339872,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204611,
+        "num": 204611,
+        "word": "阿沁老婆涉毒被捕",
+        "onboard_time": 1710314494,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203948,
+        "num": 203948,
+        "word": "胡锡进谈记者燕郊报道被阻",
+        "onboard_time": 1710339939,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203619,
+        "num": 203619,
+        "word": "时隔1年母子俩患罕见病一直流黑汗",
+        "onboard_time": 1710339636,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201071,
+        "num": 201071,
+        "word": "宋家三胞胎12岁了",
+        "onboard_time": 1710326313,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200715,
+        "num": 200715,
+        "word": "任嘉伦邢菲新剧观后感",
+        "onboard_time": 1710334833,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190817,
+        "num": 190817,
+        "word": "成年后的感情都是刻舟求剑",
+        "onboard_time": 1710336816,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187220,
+        "num": 187220,
+        "word": "大张伟直播",
+        "onboard_time": 1710338495,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168623,
+        "num": 168623,
+        "word": "书亦烧仙草被点名饮品已改名",
+        "onboard_time": 1710333813,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164726,
+        "num": 164726,
+        "word": "周也卷发",
+        "onboard_time": 1710334472,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161428,
+        "num": 161428,
+        "word": "正当采访是记者的权利",
+        "onboard_time": 1710339091,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161079,
+        "num": 161079,
+        "word": "papi酱 演员的进组好物分享",
+        "onboard_time": 1710330992,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150234,
+        "num": 150234,
+        "word": "EDG季后赛生死战",
+        "onboard_time": 1710340419,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147465,
+        "num": 147465,
+        "word": "章昊RICKY回国参加活动心情",
+        "onboard_time": 1710338195,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146698,
+        "num": 146698,
+        "word": "莎头",
+        "onboard_time": 1710340419,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134812,
+        "num": 134812,
+        "word": "黄雅莉生子",
+        "onboard_time": 1710310893,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把职业教育发展好要树立工匠精神#"
+    }
+  }
+}

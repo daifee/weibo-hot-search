@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710339381281,
+  "endTime": 1710340449203,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -145,6 +145,14 @@
       "onboard_time": 1710232597,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2096001,
+      "num": 2096001,
+      "word": "茶颜悦色建议用农夫山泉泡茶",
+      "onboard_time": 1710338318,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 2053946,
@@ -1611,14 +1619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 718830,
-      "num": 494893,
-      "word": "茶颜悦色建议用农夫山泉泡茶",
-      "onboard_time": 1710338318,
-      "rank": 12,
-      "category": "美食"
-    },
-    {
       "raw_hot": 718443,
       "num": 718443,
       "word": "两个C位都在乐华",
@@ -2195,6 +2195,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 579826,
+      "num": 579826,
+      "word": "燕郊爆炸初步确认是燃气泄漏引发",
+      "onboard_time": 1710327510,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 579738,
       "num": 579738,
       "word": "王一博连说了八个不要",
@@ -2555,6 +2563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 524197,
+      "num": 394812,
+      "word": "戴高乐长子去世",
+      "onboard_time": 1710339455,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 523622,
       "num": 302495,
       "word": "赵安吉车祸身亡细节",
@@ -2569,6 +2585,14 @@
       "onboard_time": 1710147512,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 521937,
+      "num": 453584,
+      "word": "哥哥帮妹妹换纸尿裤划破眼球",
+      "onboard_time": 1710336275,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519128,
@@ -2777,14 +2801,6 @@
       "onboard_time": 1709989353,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 489864,
-      "num": 556090,
-      "word": "燕郊爆炸初步确认是燃气泄漏引发",
-      "onboard_time": 1710327510,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 489649,
@@ -3049,14 +3065,6 @@
       "onboard_time": 1710102375,
       "rank": 38,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 453584,
-      "num": 453584,
-      "word": "哥哥帮妹妹换纸尿裤划破眼球",
-      "onboard_time": 1710336275,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 453115,
@@ -3819,6 +3827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358576,
+      "num": 358576,
+      "word": "记协就记者报道燕郊爆炸事故被拦发声",
+      "onboard_time": 1710338856,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357637,
       "num": 321041,
       "word": "这届年轻人真的不想生吗",
@@ -4347,6 +4363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 309318,
+      "num": 309318,
+      "word": "面对女儿的拥抱她下意识躲开了",
+      "onboard_time": 1710337416,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308931,
       "num": 308931,
       "word": "钟薛高被人力资源公司起诉",
@@ -4707,6 +4731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283543,
+      "num": 283543,
+      "word": "邯郸初中生",
+      "onboard_time": 1710339575,
+      "rank": 27,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 283047,
       "num": 283047,
       "word": "与凤行凤凤火火角色海报",
@@ -4817,6 +4849,14 @@
       "onboard_time": 1710056612,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 274406,
+      "num": 274406,
+      "word": "RIIZE直播",
+      "onboard_time": 1710339516,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 274040,
@@ -4961,14 +5001,6 @@
       "onboard_time": 1710303155,
       "rank": 39,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 264448,
-      "num": 264448,
-      "word": "面对女儿的拥抱她下意识躲开了",
-      "onboard_time": 1710337416,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264133,
@@ -5555,6 +5587,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 238444,
+      "num": 238444,
+      "word": "90后妈妈为给孩子看病代孕赚钱",
+      "onboard_time": 1710339455,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237967,
       "num": 237967,
       "word": "大侦探百案纪念周",
@@ -5817,6 +5857,14 @@
       "onboard_time": 1710210209,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226537,
+      "num": 226537,
+      "word": "狐妖月红篇取得发行许可证",
+      "onboard_time": 1710339872,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 226508,
@@ -6515,14 +6563,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 205298,
-      "num": 205298,
-      "word": "记协就记者报道燕郊爆炸事故被拦发声",
-      "onboard_time": 1710338856,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205279,
       "num": 205279,
       "word": "赵雷济南",
@@ -6587,6 +6627,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 203948,
+      "num": 203948,
+      "word": "胡锡进谈记者燕郊报道被阻",
+      "onboard_time": 1710339939,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203821,
       "num": 203821,
       "word": "减脂最掉秤的炒菜",
@@ -6609,6 +6657,14 @@
       "onboard_time": 1710309572,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203619,
+      "num": 203619,
+      "word": "时隔1年母子俩患罕见病一直流黑汗",
+      "onboard_time": 1710339636,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 203600,
@@ -7379,6 +7435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187220,
+      "num": 187220,
+      "word": "大张伟直播",
+      "onboard_time": 1710338495,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187058,
       "num": 187058,
       "word": "DYG零封Hero",
@@ -8089,14 +8153,6 @@
       "onboard_time": 1710241352,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 169628,
-      "num": 169628,
-      "word": "大张伟直播",
-      "onboard_time": 1710338495,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 169586,
@@ -9027,6 +9083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150234,
+      "num": 150234,
+      "word": "EDG季后赛生死战",
+      "onboard_time": 1710340419,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149782,
       "num": 556344,
       "word": "姚明解读村BA为何出圈",
@@ -9128,6 +9192,14 @@
       "word": "WTT新加坡大满贯",
       "onboard_time": 1710070469,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146698,
+      "num": 146698,
+      "word": "莎头",
+      "onboard_time": 1710340419,
+      "rank": 48,
       "category": "体育"
     },
     {
