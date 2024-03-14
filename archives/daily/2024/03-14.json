@@ -1,6 +1,6 @@
 {
   "startTime": 1710346860842,
-  "endTime": 1710378681474,
+  "endTime": 1710379822420,
   "band_list": [
     {
       "raw_hot": 2369589,
@@ -75,6 +75,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 669100,
+      "num": 427261,
+      "word": "29岁女儿不结婚父亲代孕延续后代",
+      "onboard_time": 1710378871,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 658386,
       "num": 658386,
       "word": "阿姨卖夹饼90度敞开往里塞肉",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 608626,
-      "num": 253803,
+      "num": 281835,
       "word": "分手断联21天定律",
       "onboard_time": 1710377315,
       "rank": 20,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 607569,
-      "num": 253451,
+      "num": 278660,
       "word": "请病假还走了两万的微信步数",
       "onboard_time": 1710372683,
       "rank": 20,
@@ -105,6 +113,14 @@
       "onboard_time": 1710342093,
       "rank": 10,
       "category": "国外时政,互联网"
+    },
+    {
+      "raw_hot": 549163,
+      "num": 428986,
+      "word": "花4千网购85寸大电视收到一个小饰品",
+      "onboard_time": 1710377792,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 535084,
@@ -155,20 +171,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 428986,
-      "num": 428986,
-      "word": "花4千网购85寸大电视收到一个小饰品",
-      "onboard_time": 1710377792,
-      "rank": 12,
-      "category": "情感"
-    },
-    {
       "raw_hot": 427317,
       "num": 427317,
       "word": "减肥20%靠运动80%靠饮食",
       "onboard_time": 1710316834,
       "rank": 6,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 424921,
+      "num": 424921,
+      "word": "邯郸",
+      "onboard_time": 1710377914,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423299,
@@ -243,12 +259,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 326997,
+      "num": 326997,
+      "word": "杭州全面放开二手房限购",
+      "onboard_time": 1710378033,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321913,
       "num": 321913,
       "word": "TikTok回应美众议院通过法案",
       "onboard_time": 1710372927,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 315487,
+      "num": 315487,
+      "word": "租房千万别租串串房",
+      "onboard_time": 1710378871,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 310457,
+      "num": 207745,
+      "word": "代号鸢新池",
+      "onboard_time": 1710379414,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 295937,
+      "num": 295937,
+      "word": "为什么大学生不快乐",
+      "onboard_time": 1710377372,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 295689,
@@ -275,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251113,
-      "num": 251113,
-      "word": "为什么大学生不快乐",
-      "onboard_time": 1710377372,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 248652,
       "num": 248652,
       "word": "这么好的春天我却在上班",
@@ -307,12 +347,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240483,
-      "num": 240483,
-      "word": "邯郸",
-      "onboard_time": 1710377914,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 235489,
+      "num": 235489,
+      "word": "将太郎道歉",
+      "onboard_time": 1710377554,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 234899,
@@ -355,14 +395,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 225266,
-      "num": 225266,
-      "word": "将太郎道歉",
-      "onboard_time": 1710377554,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 217338,
       "num": 217338,
       "word": "燕郊爆炸初步确认是燃气泄漏引发",
@@ -387,11 +419,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209497,
-      "num": 209497,
-      "word": "杭州全面放开二手房限购",
-      "onboard_time": 1710378033,
-      "rank": 31,
+      "raw_hot": 211105,
+      "num": 211105,
+      "word": "蔡少芬洪欣陈法蓉素颜合照",
+      "onboard_time": 1710378574,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207944,
+      "num": 207944,
+      "word": "HPV疫苗等九价还是有啥打啥",
+      "onboard_time": 1710378987,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 207080,
+      "num": 207080,
+      "word": "杭州买二手房不再审核购房人资格",
+      "onboard_time": 1710378630,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -435,14 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192768,
-      "num": 192768,
-      "word": "蔡少芬洪欣陈法蓉素颜合照",
-      "onboard_time": 1710378574,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183014,
       "num": 183014,
       "word": "燕郊爆炸已致2死26伤",
@@ -467,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169779,
+      "num": 169779,
+      "word": "一天中喝咖啡的最佳时间",
+      "onboard_time": 1710379414,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 166344,
       "num": 166344,
       "word": "凯特",
@@ -483,6 +531,14 @@
       "category": "电竞,网红"
     },
     {
+      "raw_hot": 164837,
+      "num": 164837,
+      "word": "这5个伤肾行为很多人都在做",
+      "onboard_time": 1710378691,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 164142,
       "num": 164142,
       "word": "阿沁老婆鞠躬道歉",
@@ -496,6 +552,14 @@
       "word": "经常感觉疲惫可能是气血不足",
       "onboard_time": 1710343058,
       "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 161628,
+      "num": 161628,
+      "word": "爱着急上火小心诱发青光眼",
+      "onboard_time": 1710378691,
+      "rank": 39,
       "category": "健康医疗"
     },
     {
@@ -521,6 +585,14 @@
       "onboard_time": 1710325893,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139611,
+      "num": 139611,
+      "word": "猫乃伊",
+      "onboard_time": 1710378153,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 139136,
@@ -553,14 +625,6 @@
       "onboard_time": 1710352098,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 131775,
-      "num": 131775,
-      "word": "猫乃伊",
-      "onboard_time": 1710378153,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 128500,
@@ -611,20 +675,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125304,
+      "num": 125304,
+      "word": "肾不好的预警信号有哪些",
+      "onboard_time": 1710379770,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 122006,
       "num": 122006,
       "word": "王楚钦孙颖莎混双晋级四强",
       "onboard_time": 1710375808,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121520,
-      "num": 121520,
-      "word": "杭州买二手房不再审核购房人资格",
-      "onboard_time": 1710378630,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119608,
