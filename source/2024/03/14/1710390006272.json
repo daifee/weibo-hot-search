@@ -1,0 +1,410 @@
+{
+  "runTime": 1710390006272,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2315719,
+        "num": 2315719,
+        "word": "凯特王妃",
+        "onboard_time": 1710386134,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 982853,
+        "num": 982853,
+        "word": "代孕黑市称优质卵子可售100万",
+        "onboard_time": 1710385231,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9671,
+        "num": 807106,
+        "word": "开展国家勋章和国家荣誉称号评选颁授",
+        "onboard_time": 1710333872,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2064644,
+        "num": 778923,
+        "word": "警方回应男孩遭3名同学杀害并掩埋",
+        "onboard_time": 1710384272,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720120,
+        "num": 720120,
+        "word": "宠物医院高压氧舱事故受伤女子去世",
+        "onboard_time": 1710389014,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 715254,
+        "num": 715254,
+        "word": "和府捞面被曝含预制菜",
+        "onboard_time": 1710384634,
+        "rank": 5,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 695782,
+        "num": 695782,
+        "word": "清华大学教授称大学越来越像工厂",
+        "onboard_time": 1710383430,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 563089,
+        "num": 563089,
+        "word": "天水麻辣烫",
+        "onboard_time": 1710386795,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 554038,
+        "num": 554038,
+        "word": "长风破浪央视定档",
+        "onboard_time": 1710384272,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538035,
+        "num": 538035,
+        "word": "赵露思上小学时的毕业照",
+        "onboard_time": 1710385293,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1856933,
+        "num": 530375,
+        "word": "29岁女儿不结婚父亲代孕延续后代",
+        "onboard_time": 1710378871,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1139206,
+        "num": 521057,
+        "word": "山竹",
+        "onboard_time": 1710380969,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1058089,
+        "num": 491513,
+        "word": "请回答1988珍珠13岁近照",
+        "onboard_time": 1710388595,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 574006,
+        "num": 475133,
+        "word": "Angelababy白色高定",
+        "onboard_time": 1710380431,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 473872,
+        "num": 473872,
+        "word": "燕郊爆燃事故致7死27伤",
+        "onboard_time": 1710356418,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383935,
+        "num": 383935,
+        "word": "独生女举报62岁父亲代孕生儿子",
+        "onboard_time": 1710342695,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359029,
+        "num": 359029,
+        "word": "TikTok还有翻盘的机会吗",
+        "onboard_time": 1710387635,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 352534,
+        "num": 352534,
+        "word": "侃爷妻子与卡戴珊同框",
+        "onboard_time": 1710389555,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331572,
+        "num": 331572,
+        "word": "台媒称大陆渔船在金门外海翻覆",
+        "onboard_time": 1710382168,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 317910,
+        "num": 317910,
+        "word": "五月天经纪公司回应网传开北京演唱会",
+        "onboard_time": 1710386795,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 317448,
+        "num": 317448,
+        "word": "决定婚前同居时爸爸发来的信息",
+        "onboard_time": 1710386193,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313637,
+        "num": 313637,
+        "word": "枭起青壤",
+        "onboard_time": 1710388833,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308520,
+        "num": 308520,
+        "word": "对象重病时你中了200w",
+        "onboard_time": 1710385651,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284350,
+        "num": 284350,
+        "word": "原神 情人节贺图",
+        "onboard_time": 1710389433,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 265543,
+        "num": 265543,
+        "word": "删了吧我有个朋友破防了",
+        "onboard_time": 1710375453,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 253500,
+        "num": 253500,
+        "word": "收到猫猫被领养十年后的照片",
+        "onboard_time": 1710386976,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250566,
+        "num": 250566,
+        "word": "孙俪长发",
+        "onboard_time": 1710374973,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245614,
+        "num": 245614,
+        "word": "唐嫣落日游轮芭莎大片",
+        "onboard_time": 1710388114,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 241588,
+        "num": 241588,
+        "word": "特斯拉成新任贬值之王",
+        "onboard_time": 1710381870,
+        "rank": 28,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 236939,
+        "num": 236939,
+        "word": "婚礼后男方拒领证要回5万多彩礼",
+        "onboard_time": 1710380369,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229428,
+        "num": 229428,
+        "word": "绘旅人白色情人节",
+        "onboard_time": 1710389195,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215764,
+        "num": 215764,
+        "word": "十个勤天或将录制hi6",
+        "onboard_time": 1710386254,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213681,
+        "num": 213681,
+        "word": "这束35元的花真的好漂亮",
+        "onboard_time": 1710385469,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211287,
+        "num": 211287,
+        "word": "这一次周生辰反抗了",
+        "onboard_time": 1710380850,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208505,
+        "num": 208505,
+        "word": "一种新的情侣头像出现了",
+        "onboard_time": 1710386734,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193905,
+        "num": 193905,
+        "word": "逆水寒 三次元",
+        "onboard_time": 1710387215,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190333,
+        "num": 190333,
+        "word": "年轻人有自己的文化出海",
+        "onboard_time": 1710388232,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187020,
+        "num": 187020,
+        "word": "Prada品牌大使檀健次",
+        "onboard_time": 1710383791,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186189,
+        "num": 186189,
+        "word": "电视剧小日子今日开播",
+        "onboard_time": 1710387994,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185791,
+        "num": 185791,
+        "word": "袁悦首进1000赛八强",
+        "onboard_time": 1710388713,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180312,
+        "num": 180312,
+        "word": "好心人要摸狗他把狗嘴捂住了",
+        "onboard_time": 1710387574,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168486,
+        "num": 168486,
+        "word": "阿姨卖夹饼90度敞开往里塞肉",
+        "onboard_time": 1710357257,
+        "rank": 41,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 166206,
+        "num": 166206,
+        "word": "陈星旭进组枭起青壤",
+        "onboard_time": 1710389555,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164525,
+        "num": 164525,
+        "word": "童瑶到底看了多少短剧",
+        "onboard_time": 1710384151,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160034,
+        "num": 160034,
+        "word": "喝咖啡建议一天别超过1200毫升",
+        "onboard_time": 1710373470,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157870,
+        "num": 157870,
+        "word": "分手断联21天定律",
+        "onboard_time": 1710377315,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156247,
+        "num": 156247,
+        "word": "与凤行喜乐三界预告",
+        "onboard_time": 1710388172,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152887,
+        "num": 152887,
+        "word": "张元英身材比例",
+        "onboard_time": 1710376715,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151842,
+        "num": 151842,
+        "word": "巴勒斯坦男孩放烟花遭枪击身亡",
+        "onboard_time": 1710380009,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 147381,
+        "num": 147381,
+        "word": "韩国一天内511名医学生申请休学",
+        "onboard_time": 1710389914,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把职业教育发展好要树立工匠精神#"
+    }
+  }
+}
