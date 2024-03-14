@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710426922225,
+  "endTime": 1710429483053,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -883,6 +883,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1195102,
+      "num": 1195102,
+      "word": "李诞cos孟宴臣",
+      "onboard_time": 1710425795,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1192225,
+      "num": 1192225,
+      "word": "papi酱考研胖了二十几斤",
+      "onboard_time": 1710425257,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1185830,
       "num": 729539,
       "word": "点读机女孩治疗视频为去年9月拍摄",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1710383430,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1101425,
+      "num": 1101425,
+      "word": "孙颖莎王楚钦",
+      "onboard_time": 1710427595,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1099750,
@@ -1251,14 +1275,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 1021579,
-      "num": 1021579,
-      "word": "papi酱考研胖了二十几斤",
-      "onboard_time": 1710425257,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1019213,
       "num": 1019213,
       "word": "满舒克回应",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1710148530,
       "rank": 43,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 993801,
+      "num": 993801,
+      "word": "SpaceX星舰第三次试飞提前结束",
+      "onboard_time": 1710427658,
+      "rank": 4,
+      "category": "科学科普"
     },
     {
       "raw_hot": 992499,
@@ -2163,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 699384,
+      "num": 699384,
+      "word": "多方回应一老师在宿舍身亡",
+      "onboard_time": 1710425074,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 699294,
       "num": 699294,
       "word": "五月天 北京",
@@ -2259,12 +2291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 670480,
-      "num": 670480,
-      "word": "李诞cos孟宴臣",
-      "onboard_time": 1710425795,
-      "rank": 17,
-      "category": "作品衍生"
+      "raw_hot": 670601,
+      "num": 670601,
+      "word": "小狗金子",
+      "onboard_time": 1710420632,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 669909,
@@ -4523,14 +4555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 387050,
-      "num": 387050,
-      "word": "多方回应一老师在宿舍身亡",
-      "onboard_time": 1710425074,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 385769,
       "num": 385769,
       "word": "满舒克前女友再发博",
@@ -5075,6 +5099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 341034,
+      "num": 341034,
+      "word": "童瑶 姓顾的哪有买假包的",
+      "onboard_time": 1710426455,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339762,
       "num": 248789,
       "word": "辛芷蕾撑住了贴头皮造型",
@@ -5433,6 +5465,14 @@
       "onboard_time": 1710153390,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 316204,
+      "num": 290207,
+      "word": "三千块钱对你来说意味着什么",
+      "onboard_time": 1710429229,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 314982,
@@ -5907,6 +5947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 293870,
+      "num": 293870,
+      "word": "王楚钦孙颖莎3比0林昀儒陈思羽",
+      "onboard_time": 1710427296,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293593,
       "num": 293593,
       "word": "百雀羚欧莱雅过度包装被点名",
@@ -5976,14 +6024,6 @@
       "word": "别对我动心 竹马被天降秒了",
       "onboard_time": 1710031767,
       "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 285815,
-      "num": 285815,
-      "word": "童瑶 姓顾的哪有买假包的",
-      "onboard_time": 1710426455,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -6723,6 +6763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249529,
+      "num": 249529,
+      "word": "混双",
+      "onboard_time": 1710426696,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249495,
       "num": 249495,
       "word": "玲娜贝儿 头之大婚纱当头纱都装不下",
@@ -7265,6 +7313,14 @@
       "onboard_time": 1710233019,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 232736,
+      "num": 232736,
+      "word": "杨威回应双胞胎女儿在家上学",
+      "onboard_time": 1710429102,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 232336,
@@ -8027,14 +8083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213109,
-      "num": 213109,
-      "word": "混双",
-      "onboard_time": 1710426696,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213082,
       "num": 213082,
       "word": "世界之外",
@@ -8427,6 +8475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204807,
+      "num": 204807,
+      "word": "周也彭昱畅一口几对cp啊",
+      "onboard_time": 1710427595,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204805,
       "num": 204805,
       "word": "StrayKids公告",
@@ -8593,6 +8649,14 @@
       "onboard_time": 1710235834,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 202903,
+      "num": 202903,
+      "word": "医院整形科越来越多整容失败的病人",
+      "onboard_time": 1710428682,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 202783,
@@ -9705,6 +9769,14 @@
       "onboard_time": 1710294873,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183934,
+      "num": 183934,
+      "word": "井盖",
+      "onboard_time": 1710429102,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 183552,
@@ -11971,6 +12043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141964,
+      "num": 141964,
+      "word": "SpaceX星舰返回大气层后信号丢失",
+      "onboard_time": 1710429162,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 141950,
       "num": 141950,
       "word": "宋亚东不敌彼得严",
@@ -11985,6 +12065,14 @@
       "onboard_time": 1710039269,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141538,
+      "num": 141538,
+      "word": "5500多岁的齐刘海少女",
+      "onboard_time": 1710428379,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141336,
@@ -12225,6 +12313,14 @@
       "onboard_time": 1710200244,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 137134,
+      "num": 137134,
+      "word": "世界就是一张巨大的打工度假签证",
+      "onboard_time": 1710428981,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 136901,
@@ -14973,6 +15069,9 @@
     },
     {
       "word": "#发展新质生产力总书记这样强调#"
+    },
+    {
+      "word": "#学习绘文#"
     }
   ]
 }
