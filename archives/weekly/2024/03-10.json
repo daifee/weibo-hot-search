@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710420374076,
+  "endTime": 1710422375914,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 1648500,
-      "num": 769818,
+      "num": 1198131,
       "word": "一栗小莎子怀孕",
       "onboard_time": 1710419134,
       "rank": 8,
@@ -465,6 +465,14 @@
       "onboard_time": 1710401134,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1579123,
+      "num": 1579123,
+      "word": "五哈4官宣了哈",
+      "onboard_time": 1710420213,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 1578793,
@@ -793,6 +801,14 @@
       "onboard_time": 1710131915,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1227929,
+      "num": 1008145,
+      "word": "邯郸遇害男孩亲属称校长说死是意外",
+      "onboard_time": 1710418773,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1225837,
@@ -1875,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 749752,
+      "num": 749752,
+      "word": "金子",
+      "onboard_time": 1710420632,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 744971,
       "num": 744971,
       "word": "孙颖莎张本美和",
@@ -2667,14 +2691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 588657,
-      "num": 588657,
-      "word": "邯郸遇害男孩亲属称校长说死是意外",
-      "onboard_time": 1710418773,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 587694,
       "num": 382256,
       "word": "人民网评高君雨事件",
@@ -3131,6 +3147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 526480,
+      "num": 526480,
+      "word": "林诗栋波尔",
+      "onboard_time": 1710419494,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 526477,
       "num": 392790,
       "word": "白鹿好性感",
@@ -3409,14 +3433,6 @@
       "onboard_time": 1710254911,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 494466,
-      "num": 494466,
-      "word": "林诗栋波尔",
-      "onboard_time": 1710419494,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 492466,
@@ -4091,14 +4107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413835,
-      "num": 413835,
-      "word": "五哈4官宣了哈",
-      "onboard_time": 1710420213,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 413765,
       "num": 413765,
       "word": "陈梦 田志希",
@@ -4763,6 +4771,14 @@
       "category": "网红,财经"
     },
     {
+      "raw_hot": 356798,
+      "num": 356798,
+      "word": "马斯克SpaceX星舰第三次试飞",
+      "onboard_time": 1710421293,
+      "rank": 17,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 356773,
       "num": 356773,
       "word": "吴磊蒋勤勤新片是反传销题材",
@@ -4801,6 +4817,14 @@
       "onboard_time": 1710124049,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 349790,
+      "num": 349790,
+      "word": "王曼昱WTT",
+      "onboard_time": 1710420750,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 348973,
@@ -5467,6 +5491,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 306903,
+      "num": 306903,
+      "word": "林诗栋1比3波尔",
+      "onboard_time": 1710421956,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306743,
       "num": 306743,
       "word": "RNG 看笑了",
@@ -5609,6 +5641,14 @@
       "onboard_time": 1710129753,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 299063,
+      "num": 299063,
+      "word": "马斯克",
+      "onboard_time": 1710420695,
+      "rank": 23,
+      "category": "科学科普"
     },
     {
       "raw_hot": 298472,
@@ -7867,6 +7907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212172,
+      "num": 212172,
+      "word": "官方澄清燕郊爆燃事故和炸鸡店无关",
+      "onboard_time": 1710421234,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211902,
       "num": 211902,
       "word": "十个勤天",
@@ -8531,6 +8579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198978,
+      "num": 198978,
+      "word": "crush和别人官宣了是什么体验",
+      "onboard_time": 1710421896,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198862,
       "num": 198862,
       "word": "邓为和新中式适配度",
@@ -8585,6 +8641,14 @@
       "onboard_time": 1710227910,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198214,
+      "num": 198214,
+      "word": "长大后发现什么样的人不能深交",
+      "onboard_time": 1710421534,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 198061,
@@ -8784,6 +8848,22 @@
       "word": "电影大反派定档",
       "onboard_time": 1710134612,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 196196,
+      "num": 196196,
+      "word": "狼队对战VG",
+      "onboard_time": 1710421773,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 196028,
+      "num": 196028,
+      "word": "陈思诚 我的电影也不用都看",
+      "onboard_time": 1710422133,
+      "rank": 35,
       "category": "电影"
     },
     {
@@ -9891,6 +9971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174825,
+      "num": 167308,
+      "word": "鞠婧祎演恶女",
+      "onboard_time": 1710422317,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174807,
       "num": 174807,
       "word": "21天不重样减脂食谱",
@@ -10331,6 +10419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165977,
+      "num": 165977,
+      "word": "妖狐仆SS作者遗作新动画",
+      "onboard_time": 1710421715,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 165910,
       "num": 165910,
       "word": "一公司因广告中最佳2字被罚20万",
@@ -10625,6 +10721,14 @@
       "onboard_time": 1710332794,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 160215,
+      "num": 160215,
+      "word": "孙颖莎对张本美和5连胜",
+      "onboard_time": 1710420874,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 159941,
@@ -11297,6 +11401,14 @@
       "onboard_time": 1710334892,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148749,
+      "num": 148749,
+      "word": "美国前财长尝试收购TikTok",
+      "onboard_time": 1710422194,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 148660,
@@ -14083,6 +14195,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 58505,
+      "num": 1198916,
+      "word": "新质生产力本身就是绿色生产力",
+      "onboard_time": 1710420154,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56505,
       "num": 56505,
       "word": "高君雨签约公司曾称非常负责",
@@ -14609,14 +14729,6 @@
       "onboard_time": 1710364096,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 13712,
-      "num": 772378,
-      "word": "新质生产力本身就是绿色生产力",
-      "onboard_time": 1710420154,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12886,
