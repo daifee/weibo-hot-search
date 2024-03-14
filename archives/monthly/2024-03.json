@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710443664156,
+  "endTime": 1710444839720,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -40625,6 +40625,14 @@
       "onboard_time": 1709410936,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14491,
+      "num": 19542,
+      "word": "特斯拉市值一夜蒸发1847亿",
+      "onboard_time": 1710444557,
+      "rank": 49,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 14381,

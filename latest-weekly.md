@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/03/10 00:21:26 ~ 2024/03/15 03:14:24
+本榜单时间：2024/03/10 00:21:26 ~ 2024/03/15 03:33:59
 </p>
 </blockquote>
 <p>
@@ -11405,6 +11405,12 @@ RAIN再现经典lasong（热度：16876）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E7%AA%81%E5%8F%98%E7%9A%84%E6%9F%A0%E6%AA%AC%E6%9E%9C%E5%AE%9E%23" target="weibo">
 一个突变的柠檬果实（热度：14916）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%911847%E4%BA%BF%23" target="weibo">
+特斯拉市值一夜蒸发1847亿（热度：14491）
 </a>
 </li>
 
