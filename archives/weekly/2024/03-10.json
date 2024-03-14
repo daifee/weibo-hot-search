@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710394462750,
+  "endTime": 1710397344772,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -161,6 +161,14 @@
       "onboard_time": 1710072089,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2149939,
+      "num": 2149939,
+      "word": "李佳琦董宇辉等17名主播被点名",
+      "onboard_time": 1710394837,
+      "rank": 0,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 2145775,
@@ -515,6 +523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1408345,
+      "num": 1408345,
+      "word": "邯郸遭3名同学杀害男孩家属发声",
+      "onboard_time": 1710395493,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1392401,
       "num": 358755,
       "word": "学校否认女老师与男学生发生关系",
@@ -849,6 +865,14 @@
       "onboard_time": 1710144211,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1125856,
+      "num": 1125856,
+      "word": "男子开车带妻子体检遇爆炸不幸身亡",
+      "onboard_time": 1710393992,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1117216,
@@ -1539,6 +1563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 803002,
+      "num": 803002,
+      "word": "死者父亲称孩子生前长期被霸凌",
+      "onboard_time": 1710393153,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 800961,
       "num": 800961,
       "word": "刘美含否认再次落选浪姐",
@@ -1697,14 +1729,6 @@
       "onboard_time": 1710312030,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 743357,
-      "num": 743357,
-      "word": "死者父亲称孩子生前长期被霸凌",
-      "onboard_time": 1710393153,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 742078,
@@ -2571,6 +2595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 565856,
+      "num": 565856,
+      "word": "梁靖崑vs张本智和",
+      "onboard_time": 1710395553,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 564622,
       "num": 564622,
       "word": "接下来一个月浙江人的早饭",
@@ -2705,6 +2737,14 @@
       "onboard_time": 1710168812,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 543150,
+      "num": 467204,
+      "word": "在TikTok上卖车三个月入账2000万",
+      "onboard_time": 1710394116,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 542624,
@@ -3259,6 +3299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 475693,
+      "num": 475693,
+      "word": "代孕妈妈顶替他人身份在医院生产",
+      "onboard_time": 1710395674,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474065,
       "num": 474065,
       "word": "檀健次没有一次美容是白做的",
@@ -3465,6 +3513,14 @@
       "onboard_time": 1710234336,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 448490,
+      "num": 448490,
+      "word": "刘诗诗生图",
+      "onboard_time": 1710394771,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 448371,
@@ -4611,6 +4667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330559,
+      "num": 330559,
+      "word": "黄子佼与性骚扰被害人和解成功",
+      "onboard_time": 1710394173,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329339,
       "num": 329339,
       "word": "大侦探",
@@ -4704,14 +4768,6 @@
       "word": "相亲市场上1米73的我最怕被问到身高",
       "onboard_time": 1710044968,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 322876,
-      "num": 322876,
-      "word": "男子开车带妻子体检遇爆炸不幸身亡",
-      "onboard_time": 1710393992,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -5043,6 +5099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 302457,
+      "num": 302457,
+      "word": "最强大脑去日本踢馆了",
+      "onboard_time": 1710393514,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302327,
       "num": 302327,
       "word": "李宇春哭了",
@@ -5195,6 +5259,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 294540,
+      "num": 294540,
+      "word": "樊振东王楚钦3比1郭勇冯耀恩",
+      "onboard_time": 1710395373,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294534,
       "num": 294534,
       "word": "杨迪模仿向佐鼻孔",
@@ -5241,14 +5313,6 @@
       "onboard_time": 1710158371,
       "rank": 24,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 291080,
-      "num": 291080,
-      "word": "最强大脑去日本踢馆了",
-      "onboard_time": 1710393514,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 291054,
@@ -5569,6 +5633,14 @@
       "onboard_time": 1710235892,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 266804,
+      "num": 266804,
+      "word": "梁靖崑大逆转晋级8强",
+      "onboard_time": 1710396154,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 265619,
@@ -5939,14 +6011,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 249286,
-      "num": 249286,
-      "word": "黄子佼与性骚扰被害人和解成功",
-      "onboard_time": 1710394173,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 249280,
       "num": 249280,
       "word": "孙颖莎3比0李时温",
@@ -6297,6 +6361,14 @@
       "onboard_time": 1710162631,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 237261,
+      "num": 237261,
+      "word": "摸黑玩手机可能会诱发青光眼",
+      "onboard_time": 1710395253,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 237154,
@@ -6681,6 +6753,14 @@
       "onboard_time": 1710304836,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 222775,
+      "num": 222775,
+      "word": "沈璃强吻行止",
+      "onboard_time": 1710394954,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 222739,
@@ -7179,6 +7259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 210128,
+      "num": 210128,
+      "word": "早安结婚",
+      "onboard_time": 1710395316,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210109,
       "num": 210109,
       "word": "雷军谈近期汽车行业舆论风波",
@@ -7217,14 +7305,6 @@
       "onboard_time": 1710199886,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208573,
-      "num": 208573,
-      "word": "在TikTok上卖车三个月入账2000万",
-      "onboard_time": 1710394116,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 208534,
@@ -7401,6 +7481,14 @@
       "onboard_time": 1710217294,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205077,
+      "num": 205077,
+      "word": "市民在上海街头偶遇商战现场",
+      "onboard_time": 1710394116,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204778,
@@ -8515,6 +8603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184437,
+      "num": 184437,
+      "word": "女子花4700买阿玛尼外套穿一天掉色",
+      "onboard_time": 1710396813,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184387,
       "num": 184387,
       "word": "电影草木人间定档清明",
@@ -8537,6 +8633,14 @@
       "onboard_time": 1710294873,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183698,
+      "num": 183698,
+      "word": "高校连放7天春假鼓励学生去赏花恋爱",
+      "onboard_time": 1710396813,
+      "rank": 35,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 183552,
@@ -9075,6 +9179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170903,
+      "num": 170903,
+      "word": "向佐一边修鼻毛一边演莫扎特",
+      "onboard_time": 1710396991,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170789,
       "num": 170789,
       "word": "二月二剪头发",
@@ -9273,14 +9385,6 @@
       "onboard_time": 1710234694,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 166853,
-      "num": 166853,
-      "word": "市民在上海街头偶遇商战现场",
-      "onboard_time": 1710394116,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166733,
@@ -10059,6 +10163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 151917,
+      "num": 151917,
+      "word": "周扬青说现阶段不想找男朋友",
+      "onboard_time": 1710395373,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151856,
       "num": 151856,
       "word": "FPX老板回应Milkyway合同",
@@ -10491,6 +10603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143208,
+      "num": 143208,
+      "word": "宋茜山河枕古装路透",
+      "onboard_time": 1710394714,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143188,
       "num": 143188,
       "word": "李想表态将反击黑暗违法犯罪",
@@ -10763,6 +10883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138344,
+      "num": 138344,
+      "word": "李兰迪分手哭戏",
+      "onboard_time": 1710396755,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138306,
       "num": 138306,
       "word": "我是怎么一步一步没有朋友的",
@@ -10817,6 +10945,14 @@
       "onboard_time": 1710200244,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 136901,
+      "num": 475041,
+      "word": "你的手机屏幕在室外够亮吗",
+      "onboard_time": 1710394116,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 136866,
@@ -11129,6 +11265,14 @@
       "onboard_time": 1710383911,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 131745,
+      "num": 131745,
+      "word": "周受资回应众议院通过TikTok剥离法案",
+      "onboard_time": 1710396633,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 131104,
@@ -12491,14 +12635,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 86404,
-      "num": 194439,
-      "word": "你的手机屏幕在室外够亮吗",
-      "onboard_time": 1710394116,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 85073,
       "num": 94934,
       "word": "李兰迪林一身高差",
@@ -12969,6 +13105,14 @@
       "onboard_time": 1710167312,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 43829,
+      "num": 1231533,
+      "word": "一起打卡春天里的中国",
+      "onboard_time": 1710395794,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42392,

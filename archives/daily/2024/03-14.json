@@ -1,6 +1,6 @@
 {
   "startTime": 1710346860842,
-  "endTime": 1710394462750,
+  "endTime": 1710397344772,
   "band_list": [
     {
       "raw_hot": 3029620,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2149939,
+      "num": 2149939,
+      "word": "李佳琦董宇辉等17名主播被点名",
+      "onboard_time": 1710394837,
+      "rank": 0,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 1984124,
       "num": 1383050,
       "word": "山竹",
@@ -56,6 +64,14 @@
       "word": "宠物医院高压氧舱事故受伤女子去世",
       "onboard_time": 1710389014,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1408345,
+      "num": 1408345,
+      "word": "邯郸遭3名同学杀害男孩家属发声",
+      "onboard_time": 1710395493,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -97,6 +113,14 @@
       "onboard_time": 1710374973,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1125856,
+      "num": 1125856,
+      "word": "男子开车带妻子体检遇爆炸不幸身亡",
+      "onboard_time": 1710393992,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1101655,
@@ -155,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 803002,
+      "num": 803002,
+      "word": "死者父亲称孩子生前长期被霸凌",
+      "onboard_time": 1710393153,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 779865,
       "num": 779865,
       "word": "韩国一天内511名医学生申请休学",
@@ -168,14 +200,6 @@
       "word": "婚礼后男方拒领证要回5万多彩礼",
       "onboard_time": 1710380369,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 743357,
-      "num": 743357,
-      "word": "死者父亲称孩子生前长期被霸凌",
-      "onboard_time": 1710393153,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -283,12 +307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 565856,
+      "num": 565856,
+      "word": "梁靖崑vs张本智和",
+      "onboard_time": 1710395553,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 549163,
       "num": 438692,
       "word": "花4千网购85寸大电视收到一个小饰品",
       "onboard_time": 1710377792,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 543150,
+      "num": 467204,
+      "word": "在TikTok上卖车三个月入账2000万",
+      "onboard_time": 1710394116,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 538229,
@@ -347,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 475693,
+      "num": 475693,
+      "word": "代孕妈妈顶替他人身份在医院生产",
+      "onboard_time": 1710395674,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474065,
       "num": 474065,
       "word": "檀健次没有一次美容是白做的",
@@ -385,6 +433,14 @@
       "onboard_time": 1710381870,
       "rank": 28,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 448490,
+      "num": 448490,
+      "word": "刘诗诗生图",
+      "onboard_time": 1710394771,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 443657,
@@ -539,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330559,
+      "num": 330559,
+      "word": "黄子佼与性骚扰被害人和解成功",
+      "onboard_time": 1710394173,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326997,
       "num": 326997,
       "word": "杭州全面放开二手房限购",
@@ -553,14 +617,6 @@
       "onboard_time": 1710389433,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 322876,
-      "num": 322876,
-      "word": "男子开车带妻子体检遇爆炸不幸身亡",
-      "onboard_time": 1710393992,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 321913,
@@ -603,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302457,
+      "num": 302457,
+      "word": "最强大脑去日本踢馆了",
+      "onboard_time": 1710393514,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295689,
       "num": 295689,
       "word": "粥饼伦称不想让孩子再过苦日子",
@@ -611,19 +675,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294540,
+      "num": 294540,
+      "word": "樊振东王楚钦3比1郭勇冯耀恩",
+      "onboard_time": 1710395373,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294534,
       "num": 294534,
       "word": "杨迪模仿向佐鼻孔",
       "onboard_time": 1710393153,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 291080,
-      "num": 291080,
-      "word": "最强大脑去日本踢馆了",
-      "onboard_time": 1710393514,
-      "rank": 23,
       "category": "综艺"
     },
     {
@@ -643,20 +707,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 266804,
+      "num": 266804,
+      "word": "梁靖崑大逆转晋级8强",
+      "onboard_time": 1710396154,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 265863,
       "num": 265863,
       "word": "哥哥帮妹妹换纸尿裤划破眼球",
       "onboard_time": 1710336275,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 249286,
-      "num": 249286,
-      "word": "黄子佼与性骚扰被害人和解成功",
-      "onboard_time": 1710394173,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 248652,
@@ -731,6 +795,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 237261,
+      "num": 237261,
+      "word": "摸黑玩手机可能会诱发青光眼",
+      "onboard_time": 1710395253,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 235489,
       "num": 235489,
       "word": "将太郎道歉",
@@ -785,6 +857,14 @@
       "onboard_time": 1710375389,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 222775,
+      "num": 222775,
+      "word": "沈璃强吻行止",
+      "onboard_time": 1710394954,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 217859,
@@ -859,20 +939,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 210128,
+      "num": 210128,
+      "word": "早安结婚",
+      "onboard_time": 1710395316,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209864,
       "num": 209864,
       "word": "谈恋爱要势均力敌的精神状态",
       "onboard_time": 1710390936,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 208573,
-      "num": 208573,
-      "word": "在TikTok上卖车三个月入账2000万",
-      "onboard_time": 1710394116,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 208505,
@@ -905,6 +985,14 @@
       "onboard_time": 1710371725,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205077,
+      "num": 205077,
+      "word": "市民在上海街头偶遇商战现场",
+      "onboard_time": 1710394116,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204099,
@@ -1043,6 +1131,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 184437,
+      "num": 184437,
+      "word": "女子花4700买阿玛尼外套穿一天掉色",
+      "onboard_time": 1710396813,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183698,
+      "num": 183698,
+      "word": "高校连放7天春假鼓励学生去赏花恋爱",
+      "onboard_time": 1710396813,
+      "rank": 35,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 183014,
       "num": 183014,
       "word": "燕郊爆炸已致2死26伤",
@@ -1107,12 +1211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166853,
-      "num": 166853,
-      "word": "市民在上海街头偶遇商战现场",
-      "onboard_time": 1710394116,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 170903,
+      "num": 170903,
+      "word": "向佐一边修鼻毛一边演莫扎特",
+      "onboard_time": 1710396991,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 166344,
@@ -1195,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151917,
+      "num": 151917,
+      "word": "周扬青说现阶段不想找男朋友",
+      "onboard_time": 1710395373,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151574,
       "num": 151574,
       "word": "浙江宣传评点读机女孩事件",
@@ -1267,6 +1379,14 @@
       "category": "动漫,电影"
     },
     {
+      "raw_hot": 143208,
+      "num": 143208,
+      "word": "宋茜山河枕古装路透",
+      "onboard_time": 1710394714,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140765,
       "num": 140765,
       "word": "三孩妈妈做抽脂手术时死亡",
@@ -1307,12 +1427,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138344,
+      "num": 138344,
+      "word": "李兰迪分手哭戏",
+      "onboard_time": 1710396755,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138011,
       "num": 138011,
       "word": "烈焰首播口碑",
       "onboard_time": 1710333034,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136901,
+      "num": 475041,
+      "word": "你的手机屏幕在室外够亮吗",
+      "onboard_time": 1710394116,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 135360,
@@ -1353,6 +1489,14 @@
       "onboard_time": 1710383911,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 131745,
+      "num": 131745,
+      "word": "周受资回应众议院通过TikTok剥离法案",
+      "onboard_time": 1710396633,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 128500,
@@ -1563,14 +1707,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 86404,
-      "num": 194439,
-      "word": "你的手机屏幕在室外够亮吗",
-      "onboard_time": 1710394116,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 85008,
       "num": 85008,
       "word": "世界之外",
@@ -1625,6 +1761,14 @@
       "onboard_time": 1710362955,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 43829,
+      "num": 1231533,
+      "word": "一起打卡春天里的中国",
+      "onboard_time": 1710395794,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40017,

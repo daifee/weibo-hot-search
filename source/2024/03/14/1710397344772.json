@@ -1,0 +1,410 @@
+{
+  "runTime": 1710397344772,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2149939,
+        "num": 2149939,
+        "word": "李佳琦董宇辉等17名主播被点名",
+        "onboard_time": 1710394837,
+        "rank": 0,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 1408345,
+        "num": 1408345,
+        "word": "邯郸遭3名同学杀害男孩家属发声",
+        "onboard_time": 1710395493,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43829,
+        "num": 1231533,
+        "word": "一起打卡春天里的中国",
+        "onboard_time": 1710395794,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1125856,
+        "num": 1125856,
+        "word": "男子开车带妻子体检遇爆炸不幸身亡",
+        "onboard_time": 1710393992,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1026457,
+        "num": 1026457,
+        "word": "凯特王妃",
+        "onboard_time": 1710386134,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 803002,
+        "num": 803002,
+        "word": "死者父亲称孩子生前长期被霸凌",
+        "onboard_time": 1710393153,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689898,
+        "num": 689898,
+        "word": "朱梓骁的不耐烦不像演的",
+        "onboard_time": 1710391418,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 648885,
+        "num": 648885,
+        "word": "宠物医院高压氧舱事故受伤女子去世",
+        "onboard_time": 1710389014,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565856,
+        "num": 565856,
+        "word": "梁靖崑vs张本智和",
+        "onboard_time": 1710395553,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 475693,
+        "num": 475693,
+        "word": "代孕妈妈顶替他人身份在医院生产",
+        "onboard_time": 1710395674,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136901,
+        "num": 475041,
+        "word": "你的手机屏幕在室外够亮吗",
+        "onboard_time": 1710394116,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 594582,
+        "num": 473284,
+        "word": "29岁女儿不结婚父亲代孕延续后代",
+        "onboard_time": 1710378871,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583474,
+        "num": 470703,
+        "word": "警方回应男孩遭3名同学杀害并掩埋",
+        "onboard_time": 1710384272,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543150,
+        "num": 467204,
+        "word": "在TikTok上卖车三个月入账2000万",
+        "onboard_time": 1710394116,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 467018,
+        "num": 467018,
+        "word": "请回答1988珍珠13岁近照",
+        "onboard_time": 1710388595,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448490,
+        "num": 448490,
+        "word": "刘诗诗生图",
+        "onboard_time": 1710394771,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 436937,
+        "num": 436937,
+        "word": "四川监狱评邯郸男孩遭同学杀害",
+        "onboard_time": 1710392674,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424439,
+        "num": 424439,
+        "word": "山竹",
+        "onboard_time": 1710380969,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 335846,
+        "num": 335846,
+        "word": "张雪峰谈大学越来越像工厂说法",
+        "onboard_time": 1710390695,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 330559,
+        "num": 330559,
+        "word": "黄子佼与性骚扰被害人和解成功",
+        "onboard_time": 1710394173,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309577,
+        "num": 309577,
+        "word": "代孕黑市称优质卵子可售100万",
+        "onboard_time": 1710385231,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302457,
+        "num": 302457,
+        "word": "最强大脑去日本踢馆了",
+        "onboard_time": 1710393514,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300948,
+        "num": 300948,
+        "word": "檀健次没有一次美容是白做的",
+        "onboard_time": 1710390756,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294540,
+        "num": 294540,
+        "word": "樊振东王楚钦3比1郭勇冯耀恩",
+        "onboard_time": 1710395373,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266935,
+        "num": 266935,
+        "word": "刘亦菲17岁跑步旧照",
+        "onboard_time": 1710390875,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266804,
+        "num": 266804,
+        "word": "梁靖崑大逆转晋级8强",
+        "onboard_time": 1710396154,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249908,
+        "num": 249908,
+        "word": "韩国一天内511名医学生申请休学",
+        "onboard_time": 1710389914,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 247570,
+        "num": 247570,
+        "word": "ChatGPT有身体了",
+        "onboard_time": 1710390395,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 237261,
+        "num": 237261,
+        "word": "摸黑玩手机可能会诱发青光眼",
+        "onboard_time": 1710395253,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 227340,
+        "num": 227340,
+        "word": "Angelababy白色高定",
+        "onboard_time": 1710380431,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 222775,
+        "num": 222775,
+        "word": "沈璃强吻行止",
+        "onboard_time": 1710394954,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210128,
+        "num": 210128,
+        "word": "早安结婚",
+        "onboard_time": 1710395316,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205077,
+        "num": 205077,
+        "word": "市民在上海街头偶遇商战现场",
+        "onboard_time": 1710394116,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195997,
+        "num": 195997,
+        "word": "外地人被甘肃天水麻辣烫整懵了",
+        "onboard_time": 1710393214,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184437,
+        "num": 184437,
+        "word": "女子花4700买阿玛尼外套穿一天掉色",
+        "onboard_time": 1710396813,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183698,
+        "num": 183698,
+        "word": "高校连放7天春假鼓励学生去赏花恋爱",
+        "onboard_time": 1710396813,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 183621,
+        "num": 183621,
+        "word": "清华大学教授称大学越来越像工厂",
+        "onboard_time": 1710383430,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170903,
+        "num": 170903,
+        "word": "向佐一边修鼻毛一边演莫扎特",
+        "onboard_time": 1710396991,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166488,
+        "num": 166488,
+        "word": "燕郊爆燃事故致7死27伤",
+        "onboard_time": 1710356418,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158102,
+        "num": 158102,
+        "word": "恋爱同居期间金钱往来是彩礼还是赠与",
+        "onboard_time": 1710390455,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154207,
+        "num": 154207,
+        "word": "侃爷妻子与卡戴珊同框",
+        "onboard_time": 1710389555,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152580,
+        "num": 152580,
+        "word": "赵露思上小学时的毕业照",
+        "onboard_time": 1710385293,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160406,
+        "num": 152459,
+        "word": "杨迪模仿向佐鼻孔",
+        "onboard_time": 1710393153,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151917,
+        "num": 151917,
+        "word": "周扬青说现阶段不想找男朋友",
+        "onboard_time": 1710395373,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143208,
+        "num": 143208,
+        "word": "宋茜山河枕古装路透",
+        "onboard_time": 1710394714,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138344,
+        "num": 138344,
+        "word": "李兰迪分手哭戏",
+        "onboard_time": 1710396755,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135028,
+        "num": 135028,
+        "word": "对象重病时你中了200w",
+        "onboard_time": 1710385651,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131745,
+        "num": 131745,
+        "word": "周受资回应众议院通过TikTok剥离法案",
+        "onboard_time": 1710396633,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128724,
+        "num": 128724,
+        "word": "长风破浪央视定档",
+        "onboard_time": 1710384272,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117398,
+        "num": 117398,
+        "word": "赵露思费加罗开季封",
+        "onboard_time": 1710392797,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#环境资源界人士在绿色转型中发挥了积极作用#"
+    }
+  }
+}
