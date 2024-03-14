@@ -1,6 +1,6 @@
 {
   "startTime": 1710346860842,
-  "endTime": 1710412463483,
+  "endTime": 1710414911182,
   "band_list": [
     {
       "raw_hot": 3029620,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2117719,
+      "num": 537494,
+      "word": "25岁规培女医生刎颈自杀",
+      "onboard_time": 1710412411,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1984124,
       "num": 1383050,
       "word": "山竹",
@@ -80,6 +88,14 @@
       "word": "独生女举报62岁父亲代孕生儿子",
       "onboard_time": 1710342695,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1614446,
+      "num": 538986,
+      "word": "遇害男孩埋尸地距凶手家不足百米",
+      "onboard_time": 1710411931,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -339,6 +355,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 653009,
+      "num": 653009,
+      "word": "高压氧舱事故涉事医院向逝者家属致歉",
+      "onboard_time": 1710413012,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 651780,
       "num": 651780,
       "word": "为什么洗澡水经常忽冷忽热",
@@ -435,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 563215,
+      "num": 563215,
+      "word": "手机内存不足微信无法使用了",
+      "onboard_time": 1710410433,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 557010,
       "num": 557010,
       "word": "考研成了年轻人的中药",
@@ -467,11 +499,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 538998,
+      "num": 538998,
+      "word": "陈晓童瑶激情戏",
+      "onboard_time": 1710412656,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 538229,
       "num": 538229,
       "word": "四川监狱评邯郸男孩遭同学杀害",
       "onboard_time": 1710392674,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537227,
+      "num": 537227,
+      "word": "教育局回应遭同学杀害男孩被霸凌",
+      "onboard_time": 1710413730,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -627,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 442434,
+      "num": 442434,
+      "word": "第五人格IP联动",
+      "onboard_time": 1710413314,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 427317,
       "num": 427317,
       "word": "减肥20%靠运动80%靠饮食",
@@ -675,6 +731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 402736,
+      "num": 402736,
+      "word": "第五人格六周年",
+      "onboard_time": 1710413553,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 392535,
       "num": 392535,
       "word": "90后妈妈为给孩子看病代孕赚钱",
@@ -689,6 +753,14 @@
       "onboard_time": 1710380850,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 387990,
+      "num": 387990,
+      "word": "河北燕郊爆燃事故已完成多笔理赔",
+      "onboard_time": 1710412115,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383294,
@@ -755,14 +827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 354636,
-      "num": 354636,
-      "word": "遇害男孩埋尸地距凶手家不足百米",
-      "onboard_time": 1710411931,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 349156,
       "num": 280832,
       "word": "李雪琴变瘦了",
@@ -817,14 +881,6 @@
       "onboard_time": 1710390337,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330807,
-      "num": 330807,
-      "word": "手机内存不足微信无法使用了",
-      "onboard_time": 1710410433,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 330559,
@@ -971,8 +1027,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 288704,
+      "num": 288704,
+      "word": "教育部曾明确叫停在家上学",
+      "onboard_time": 1710413553,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 285334,
-      "num": 477071,
+      "num": 537681,
       "word": "姥姥倒车撞墙6岁外孙哭喊奔跑",
       "onboard_time": 1710409830,
       "rank": 9,
@@ -1203,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235455,
+      "num": 235455,
+      "word": "TheShy发文好久不见",
+      "onboard_time": 1710412411,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 234899,
       "num": 234899,
       "word": "蒋欣古娜拉黑暗之神",
@@ -1244,7 +1316,7 @@
     },
     {
       "raw_hot": 228984,
-      "num": 481338,
+      "num": 538202,
       "word": "汉服女医生一招救人又美又飒",
       "onboard_time": 1710408937,
       "rank": 8,
@@ -1579,6 +1651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193982,
+      "num": 193982,
+      "word": "堪比流水席的国产剧扫楼",
+      "onboard_time": 1710414093,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193905,
       "num": 193905,
       "word": "逆水寒 三次元",
@@ -1715,14 +1795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181183,
-      "num": 181183,
-      "word": "河北燕郊爆燃事故已完成多笔理赔",
-      "onboard_time": 1710412115,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180007,
       "num": 180007,
       "word": "王鹤棣法国娇兰香水大片",
@@ -1843,14 +1915,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 162904,
-      "num": 162904,
-      "word": "TheShy发文好久不见",
-      "onboard_time": 1710412411,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 161628,
       "num": 161628,
       "word": "爱着急上火小心诱发青光眼",
@@ -1865,14 +1929,6 @@
       "onboard_time": 1710383252,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161324,
-      "num": 161324,
-      "word": "25岁规培女医生刎颈自杀",
-      "onboard_time": 1710412411,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160917,
@@ -2043,6 +2099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142150,
+      "num": 142150,
+      "word": "元气森林",
+      "onboard_time": 1710414693,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140765,
       "num": 140765,
       "word": "三孩妈妈做抽脂手术时死亡",
@@ -2091,12 +2155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137375,
+      "num": 137375,
+      "word": "这两种感冒药千万别同时吃",
+      "onboard_time": 1710412894,
+      "rank": 38,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 136901,
       "num": 475041,
       "word": "你的手机屏幕在室外够亮吗",
       "onboard_time": 1710394116,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 136257,
+      "num": 136257,
+      "word": "微博23年总营收125亿",
+      "onboard_time": 1710414452,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 135364,
@@ -2169,6 +2249,14 @@
       "onboard_time": 1710405876,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 130814,
+      "num": 130814,
+      "word": "KPL",
+      "onboard_time": 1710413374,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 128851,
@@ -2267,12 +2355,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123588,
+      "num": 123588,
+      "word": "SpaceX星舰",
+      "onboard_time": 1710414573,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 123559,
       "num": 123559,
       "word": "小猴子照顾生病的妈妈",
       "onboard_time": 1710381629,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123485,
+      "num": 123485,
+      "word": "赵露思我老婆",
+      "onboard_time": 1710414813,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 123098,
@@ -2523,6 +2627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 62365,
+      "num": 310252,
+      "word": "张朝阳AWE第一站直奔华为展台",
+      "onboard_time": 1710411931,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 60489,
       "num": 60489,
       "word": "被玉兰花的中式美学惊艳到了",
@@ -2537,14 +2649,6 @@
       "onboard_time": 1710362955,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 45269,
-      "num": 139365,
-      "word": "张朝阳AWE第一站直奔华为展台",
-      "onboard_time": 1710411931,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 40017,
