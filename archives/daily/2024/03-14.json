@@ -1,6 +1,6 @@
 {
   "startTime": 1710346860842,
-  "endTime": 1710407822305,
+  "endTime": 1710408849954,
   "band_list": [
     {
       "raw_hot": 3029620,
@@ -75,19 +75,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1580225,
+      "num": 1580225,
+      "word": "外卖黑勺是最脏的",
+      "onboard_time": 1710401134,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1542541,
       "num": 1542541,
       "word": "宠物医院高压氧舱事故受伤女子去世",
       "onboard_time": 1710389014,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1483174,
-      "num": 1483174,
-      "word": "外卖黑勺是最脏的",
-      "onboard_time": 1710401134,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 921306,
+      "num": 921306,
+      "word": "深圳市原副市长黄敏被查",
+      "onboard_time": 1710401853,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 890983,
       "num": 890983,
       "word": "阚清子和未婚夫聚餐",
@@ -217,14 +225,6 @@
       "onboard_time": 1710391418,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 860894,
-      "num": 860894,
-      "word": "深圳市原副市长黄敏被查",
-      "onboard_time": 1710401853,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 853003,
@@ -307,6 +307,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 660767,
+      "num": 660767,
+      "word": "贾乃亮直播带货虚假宣传舆情相对突出",
+      "onboard_time": 1710405516,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 658386,
       "num": 658386,
       "word": "阿姨卖夹饼90度敞开往里塞肉",
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 648662,
-      "num": 466784,
+      "num": 506069,
       "word": "商务部回应美方通过TikTok法案",
       "onboard_time": 1710404554,
       "rank": 20,
@@ -411,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 557010,
+      "num": 557010,
+      "word": "考研成了年轻人的中药",
+      "onboard_time": 1710406472,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 549824,
       "num": 472871,
       "word": "在TikTok上卖车三个月入账2000万",
@@ -449,6 +465,14 @@
       "onboard_time": 1710383791,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 533227,
+      "num": 533227,
+      "word": "男性感染高危HPV会引起口腔癌",
+      "onboard_time": 1710406472,
+      "rank": 9,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 529505,
@@ -507,12 +531,12 @@
       "category": "互联网,游戏"
     },
     {
-      "raw_hot": 484807,
-      "num": 484807,
-      "word": "男性感染高危HPV会引起口腔癌",
-      "onboard_time": 1710406472,
-      "rank": 9,
-      "category": "健康医疗,科学科普"
+      "raw_hot": 486818,
+      "num": 486818,
+      "word": "陈建斌又一次爱上了蒋勤勤",
+      "onboard_time": 1710407735,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 474065,
@@ -585,22 +609,6 @@
       "onboard_time": 1710318154,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 439877,
-      "num": 439877,
-      "word": "贾乃亮直播带货虚假宣传舆情相对突出",
-      "onboard_time": 1710405516,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 431388,
-      "num": 431388,
-      "word": "考研成了年轻人的中药",
-      "onboard_time": 1710406472,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 427317,
@@ -779,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 327561,
+      "num": 327561,
+      "word": "宿迁学院通报学生不雅视频",
+      "onboard_time": 1710408457,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327342,
       "num": 327342,
       "word": "家属透露宠物高压氧舱事故非人为因素",
@@ -907,6 +923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 275390,
+      "num": 275390,
+      "word": "巧克力张张包",
+      "onboard_time": 1710406054,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274281,
       "num": 274281,
       "word": "25岁以后不再觉得高敏感是一种错",
@@ -955,12 +979,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259426,
+      "num": 164434,
+      "word": "新疆地震",
+      "onboard_time": 1710408034,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256990,
       "num": 256990,
       "word": "代号鸢",
       "onboard_time": 1710399513,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 253443,
+      "num": 253443,
+      "word": "热水器里面有多脏",
+      "onboard_time": 1710406356,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 252786,
+      "num": 252786,
+      "word": "杨幂配音的小狐狸狡猾又勇敢",
+      "onboard_time": 1710407672,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 248652,
@@ -1043,14 +1091,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 240096,
-      "num": 240096,
-      "word": "热水器里面有多脏",
-      "onboard_time": 1710406356,
-      "rank": 19,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 238746,
       "num": 238746,
       "word": "孙千陈靖可居家大片",
@@ -1129,14 +1169,6 @@
       "onboard_time": 1710331414,
       "rank": 22,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 228469,
-      "num": 228469,
-      "word": "巧克力张张包",
-      "onboard_time": 1710406054,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227930,
@@ -1251,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211532,
+      "num": 211532,
+      "word": "董宇辉声明与辉同行从未收取坑位费",
+      "onboard_time": 1710407552,
+      "rank": 21,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 211515,
       "num": 213721,
       "word": "小日子",
@@ -1289,14 +1329,6 @@
       "onboard_time": 1710396813,
       "rank": 35,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 208759,
-      "num": 208759,
-      "word": "董宇辉声明与辉同行从未收取坑位费",
-      "onboard_time": 1710407552,
-      "rank": 21,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 208505,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1710340419,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201848,
+      "num": 201848,
+      "word": "丹丹 凯程",
+      "onboard_time": 1710407735,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 200139,
@@ -1507,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185788,
+      "num": 185788,
+      "word": "周冬雨给马思纯P图庆生",
+      "onboard_time": 1710407192,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184616,
       "num": 184616,
       "word": "陕西400多岁的古旱莲开花了",
@@ -1529,6 +1577,14 @@
       "onboard_time": 1710392855,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 182394,
+      "num": 182394,
+      "word": "林更新为赵丽颖提裙摆",
+      "onboard_time": 1710405993,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 182248,
@@ -1603,14 +1659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173505,
-      "num": 173505,
-      "word": "林更新为赵丽颖提裙摆",
-      "onboard_time": 1710405993,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171129,
       "num": 171129,
       "word": "陈梦王曼昱晋级4强",
@@ -1643,14 +1691,6 @@
       "category": "电竞,网红"
     },
     {
-      "raw_hot": 165564,
-      "num": 165564,
-      "word": "杨幂配音的小狐狸狡猾又勇敢",
-      "onboard_time": 1710407672,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 164837,
       "num": 164837,
       "word": "这5个伤肾行为很多人都在做",
@@ -1673,14 +1713,6 @@
       "onboard_time": 1710343058,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 163066,
-      "num": 163066,
-      "word": "周冬雨给马思纯P图庆生",
-      "onboard_time": 1710407192,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 161628,
@@ -1907,6 +1939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 135762,
+      "num": 135762,
+      "word": "上海开出殡葬主题咖啡馆",
+      "onboard_time": 1710408154,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135364,
       "num": 135364,
       "word": "周受资回应众议院通过TikTok剥离法案",
@@ -1961,14 +2001,6 @@
       "onboard_time": 1710405876,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 130130,
-      "num": 130130,
-      "word": "丹丹 凯程",
-      "onboard_time": 1710407735,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 128667,
@@ -2051,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123983,
+      "num": 123983,
+      "word": "南极企鹅最真实的样子",
+      "onboard_time": 1710408275,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123559,
       "num": 123559,
       "word": "小猴子照顾生病的妈妈",
@@ -2067,20 +2107,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120657,
-      "num": 120657,
-      "word": "陈建斌又一次爱上了蒋勤勤",
-      "onboard_time": 1710407735,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 119608,
       "num": 119608,
       "word": "吃辣椒居然还有隐藏好处",
       "onboard_time": 1710371124,
       "rank": 45,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 114597,
+      "num": 114597,
+      "word": "阿沁小姨子回应姐姐涉毒",
+      "onboard_time": 1710408695,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 113267,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1710408849954,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1580225,
+        "num": 1580225,
+        "word": "外卖黑勺是最脏的",
+        "onboard_time": 1710401134,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 921306,
+        "num": 921306,
+        "word": "深圳市原副市长黄敏被查",
+        "onboard_time": 1710401853,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35433,
+        "num": 918440,
+        "word": "关键年看各地如何抓实干",
+        "onboard_time": 1710405876,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917827,
+        "num": 917827,
+        "word": "陪高三的女儿旷了一节晚自习",
+        "onboard_time": 1710402455,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 792081,
+        "num": 792081,
+        "word": "杨幂全球高定首穿",
+        "onboard_time": 1710401793,
+        "rank": 4,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 728547,
+        "num": 728547,
+        "word": "李佳琦董宇辉等17名主播被点名",
+        "onboard_time": 1710394837,
+        "rank": 5,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 660767,
+        "num": 660767,
+        "word": "贾乃亮直播带货虚假宣传舆情相对突出",
+        "onboard_time": 1710405516,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623535,
+        "num": 623535,
+        "word": "凯特王妃",
+        "onboard_time": 1710386134,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 602873,
+        "num": 602873,
+        "word": "为什么洗澡水经常忽冷忽热",
+        "onboard_time": 1710403533,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 557010,
+        "num": 557010,
+        "word": "考研成了年轻人的中药",
+        "onboard_time": 1710406472,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 533227,
+        "num": 533227,
+        "word": "男性感染高危HPV会引起口腔癌",
+        "onboard_time": 1710406472,
+        "rank": 10,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 506069,
+        "num": 506069,
+        "word": "商务部回应美方通过TikTok法案",
+        "onboard_time": 1710404554,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 486818,
+        "num": 486818,
+        "word": "陈建斌又一次爱上了蒋勤勤",
+        "onboard_time": 1710407735,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 412289,
+        "num": 412289,
+        "word": "男子开车带妻子体检遇爆炸不幸身亡",
+        "onboard_time": 1710393992,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383428,
+        "num": 383428,
+        "word": "赵丽颖回应与凤行是配音",
+        "onboard_time": 1710402696,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2079821,
+        "num": 381873,
+        "word": "北极鲶鱼",
+        "onboard_time": 1710405993,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327561,
+        "num": 327561,
+        "word": "宿迁学院通报学生不雅视频",
+        "onboard_time": 1710408457,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332951,
+        "num": 306162,
+        "word": "蒋勤勤不想蹭甄嬛传热度",
+        "onboard_time": 1710402696,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275390,
+        "num": 275390,
+        "word": "巧克力张张包",
+        "onboard_time": 1710406054,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262768,
+        "num": 262768,
+        "word": "李诞爆改过程",
+        "onboard_time": 1710405154,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253443,
+        "num": 253443,
+        "word": "热水器里面有多脏",
+        "onboard_time": 1710406356,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 252786,
+        "num": 252786,
+        "word": "杨幂配音的小狐狸狡猾又勇敢",
+        "onboard_time": 1710407672,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228288,
+        "num": 228288,
+        "word": "宠物医院高压氧舱事故受伤女子去世",
+        "onboard_time": 1710389014,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211532,
+        "num": 211532,
+        "word": "董宇辉声明与辉同行从未收取坑位费",
+        "onboard_time": 1710407552,
+        "rank": 23,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 203804,
+        "num": 203804,
+        "word": "陈建斌回应甄嬛传被玩梗",
+        "onboard_time": 1710402872,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201848,
+        "num": 201848,
+        "word": "丹丹 凯程",
+        "onboard_time": 1710407735,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 185788,
+        "num": 185788,
+        "word": "周冬雨给马思纯P图庆生",
+        "onboard_time": 1710407192,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182394,
+        "num": 182394,
+        "word": "林更新为赵丽颖提裙摆",
+        "onboard_time": 1710405993,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175943,
+        "num": 175943,
+        "word": "女子花4700买阿玛尼外套穿一天掉色",
+        "onboard_time": 1710396813,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94682,
+        "num": 165834,
+        "word": "航拍燕郊爆燃事故现场",
+        "onboard_time": 1710404616,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259426,
+        "num": 164434,
+        "word": "新疆地震",
+        "onboard_time": 1710408034,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162713,
+        "num": 162713,
+        "word": "阚清子和未婚夫聚餐",
+        "onboard_time": 1710398076,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153975,
+        "num": 153975,
+        "word": "Gucci签下羽生结弦",
+        "onboard_time": 1710400053,
+        "rank": 32,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 147278,
+        "num": 147278,
+        "word": "张远曾患躁郁症",
+        "onboard_time": 1710401495,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145937,
+        "num": 145937,
+        "word": "为什么建议吃完苹果要漱口",
+        "onboard_time": 1710399993,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144584,
+        "num": 144584,
+        "word": "腾讯接手字节跳动部分游戏业务",
+        "onboard_time": 1710399329,
+        "rank": 35,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 144313,
+        "num": 144313,
+        "word": "代孕妈妈顶替他人身份在医院生产",
+        "onboard_time": 1710395674,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135762,
+        "num": 135762,
+        "word": "上海开出殡葬主题咖啡馆",
+        "onboard_time": 1710408154,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128583,
+        "num": 128583,
+        "word": "赵丽颖羽纱仙女裙",
+        "onboard_time": 1710405096,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125597,
+        "num": 125597,
+        "word": "杨紫杂志",
+        "onboard_time": 1710401073,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 124913,
+        "num": 124913,
+        "word": "安又琪何洁陈西贝陪产黄雅莉",
+        "onboard_time": 1710407431,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123983,
+        "num": 123983,
+        "word": "南极企鹅最真实的样子",
+        "onboard_time": 1710408275,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123798,
+        "num": 123798,
+        "word": "家属透露宠物高压氧舱事故非人为因素",
+        "onboard_time": 1710400951,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123527,
+        "num": 123527,
+        "word": "29岁女儿不结婚父亲代孕延续后代",
+        "onboard_time": 1710378871,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123111,
+        "num": 123111,
+        "word": "记者暗访湖南三甲医院发现多位代孕妈妈",
+        "onboard_time": 1710399692,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114597,
+        "num": 114597,
+        "word": "阿沁小姨子回应姐姐涉毒",
+        "onboard_time": 1710408695,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113686,
+        "num": 113686,
+        "word": "刘诗诗生图",
+        "onboard_time": 1710394771,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106308,
+        "num": 106308,
+        "word": "学猫叫阻止了猫咪间的斗争",
+        "onboard_time": 1710406416,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103501,
+        "num": 103501,
+        "word": "在TikTok上卖车三个月入账2000万",
+        "onboard_time": 1710394116,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 101967,
+        "num": 101967,
+        "word": "朱一龙一只眼睛演绎四种情绪",
+        "onboard_time": 1710404072,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展新质生产力总书记这样强调#"
+    }
+  }
+}
