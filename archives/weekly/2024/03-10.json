@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710398060875,
+  "endTime": 1710400737908,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -81,6 +81,14 @@
       "onboard_time": 1710311371,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2672943,
+      "num": 2133113,
+      "word": "邯郸遭3名同学杀害男孩家属发声",
+      "onboard_time": 1710395493,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2655228,
@@ -176,14 +184,6 @@
       "word": "一对夫妇做短剧每月进账4亿多",
       "onboard_time": 1710134254,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2133113,
-      "num": 2133113,
-      "word": "邯郸遭3名同学杀害男孩家属发声",
-      "onboard_time": 1710395493,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -1427,6 +1427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 856575,
+      "num": 856575,
+      "word": "阚清子和未婚夫聚餐",
+      "onboard_time": 1710398076,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 853928,
       "num": 853928,
       "word": "林高远vs李尚洙",
@@ -1584,6 +1592,14 @@
       "word": "大叔坐火车一整天只吃一根萝卜",
       "onboard_time": 1710287006,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 799760,
+      "num": 799760,
+      "word": "女子花4700买阿玛尼外套穿一天掉色",
+      "onboard_time": 1710396813,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -1817,6 +1833,14 @@
       "onboard_time": 1710223111,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 718980,
+      "num": 718980,
+      "word": "代孕妈妈顶替他人身份在医院生产",
+      "onboard_time": 1710395674,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 718443,
@@ -2995,6 +3019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 513102,
+      "num": 513102,
+      "word": "网易云音乐崩了",
+      "onboard_time": 1710398613,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 511001,
       "num": 511001,
       "word": "成龙头发胡子白了",
@@ -3025,14 +3057,6 @@
       "onboard_time": 1710170551,
       "rank": 9,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 508858,
-      "num": 508858,
-      "word": "代孕妈妈顶替他人身份在医院生产",
-      "onboard_time": 1710395674,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 508746,
@@ -3963,6 +3987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 392983,
+      "num": 392983,
+      "word": "腾讯接手字节跳动部分游戏业务",
+      "onboard_time": 1710399329,
+      "rank": 11,
+      "category": "互联网,游戏"
+    },
+    {
       "raw_hot": 391275,
       "num": 236250,
       "word": "周翊然杭州",
@@ -4169,6 +4201,14 @@
       "onboard_time": 1710227612,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 372782,
+      "num": 372782,
+      "word": "向佐一边修鼻毛一边演莫扎特",
+      "onboard_time": 1710396991,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 371290,
@@ -4403,6 +4443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 351752,
+      "num": 351752,
+      "word": "评论罗伯特 楼中楼回复",
+      "onboard_time": 1710397654,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 348973,
       "num": 348973,
       "word": "平野美宇3比0早田希娜",
@@ -4601,6 +4649,14 @@
       "onboard_time": 1710318812,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 335711,
+      "num": 335711,
+      "word": "记者暗访湖南三甲医院发现多位代孕妈妈",
+      "onboard_time": 1710399692,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335607,
@@ -5227,6 +5283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 297183,
+      "num": 297183,
+      "word": "硬是给有座位的乘客弄成站票了",
+      "onboard_time": 1710398734,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 296073,
       "num": 296073,
       "word": "韩国偶遇孙红雷一家",
@@ -5483,14 +5547,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 277547,
-      "num": 277547,
-      "word": "女子花4700买阿玛尼外套穿一天掉色",
-      "onboard_time": 1710396813,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276360,
       "num": 248632,
       "word": "考公最累的不是学习",
@@ -5609,6 +5665,14 @@
       "onboard_time": 1710297813,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 267697,
+      "num": 267697,
+      "word": "Gucci签下羽生结弦",
+      "onboard_time": 1710400053,
+      "rank": 20,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 267605,
@@ -5835,6 +5899,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 256990,
+      "num": 256990,
+      "word": "代号鸢",
+      "onboard_time": 1710399513,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 256421,
       "num": 256421,
       "word": "彩礼该不该拿出来给男方还房贷",
@@ -5865,14 +5937,6 @@
       "onboard_time": 1710224311,
       "rank": 38,
       "category": "互联网,国外时政"
-    },
-    {
-      "raw_hot": 254804,
-      "num": 254804,
-      "word": "向佐一边修鼻毛一边演莫扎特",
-      "onboard_time": 1710396991,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 254275,
@@ -6267,6 +6331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 242061,
+      "num": 242061,
+      "word": "张婧仪以为天大是形容词",
+      "onboard_time": 1710399513,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241964,
       "num": 241964,
       "word": "王楚钦3比0高承睿",
@@ -6625,6 +6697,14 @@
       "onboard_time": 1710241655,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 227930,
+      "num": 227930,
+      "word": "与凤行 榴莲飘飘的仙侠风",
+      "onboard_time": 1710398912,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 227341,
@@ -7131,6 +7211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 213391,
+      "num": 213391,
+      "word": "山河枕",
+      "onboard_time": 1710399211,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213304,
       "num": 213304,
       "word": "任嘉伦观众缘",
@@ -7209,6 +7297,14 @@
       "onboard_time": 1710246093,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211802,
+      "num": 211802,
+      "word": "伊藤美诚3比2平野美宇",
+      "onboard_time": 1710400474,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 211705,
@@ -7313,6 +7409,14 @@
       "onboard_time": 1710396813,
       "rank": 35,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 209641,
+      "num": 209641,
+      "word": "赵丽颖林更新床咚戏",
+      "onboard_time": 1710399812,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 209551,
@@ -7512,6 +7616,14 @@
       "word": "市民在上海街头偶遇商战现场",
       "onboard_time": 1710394116,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205063,
+      "num": 205063,
+      "word": "官方通报广西男童无人看管独自爬行",
+      "onboard_time": 1710398734,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -8347,6 +8459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190068,
+      "num": 190068,
+      "word": "为什么建议吃完苹果要漱口",
+      "onboard_time": 1710399993,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 189868,
       "num": 189868,
       "word": "将隆重表彰一批功勋模范人物",
@@ -9115,14 +9235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 172943,
-      "num": 172943,
-      "word": "评论罗伯特 楼中楼回复",
-      "onboard_time": 1710397654,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 172775,
       "num": 172775,
       "word": "考研调剂",
@@ -9193,6 +9305,14 @@
       "onboard_time": 1710122069,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 171129,
+      "num": 171129,
+      "word": "陈梦王曼昱晋级4强",
+      "onboard_time": 1710399692,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 170789,
@@ -9419,6 +9539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 166350,
+      "num": 166350,
+      "word": "60元的酸奶碗是智商税吗",
+      "onboard_time": 1710400355,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166316,
       "num": 166316,
       "word": "内娱有自己统治区的演员",
@@ -9537,6 +9665,14 @@
       "onboard_time": 1710147030,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164239,
+      "num": 209761,
+      "word": "东部战区实战化训练高燃现场",
+      "onboard_time": 1710400172,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 164142,
@@ -9681,6 +9817,14 @@
       "onboard_time": 1710045449,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160917,
+      "num": 160917,
+      "word": "中国汽车在俄罗斯不愁卖不动",
+      "onboard_time": 1710399092,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 160737,

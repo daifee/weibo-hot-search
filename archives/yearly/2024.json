@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1710398060875,
+  "endTime": 1710400737908,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1987,6 +1987,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 2672943,
+      "num": 2133113,
+      "word": "邯郸遭3名同学杀害男孩家属发声",
+      "onboard_time": 1710395493,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2670562,
       "num": 2670562,
       "word": "杨迪爆改",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1704119801,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2489557,
-      "num": 2489557,
-      "word": "白敬亭",
-      "onboard_time": 1707826478,
-      "rank": 0,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
