@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710441248272,
+  "endTime": 1710443664156,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -14643,6 +14643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57998,
+      "num": 55589,
+      "word": "博主再用AI复活高以翔",
+      "onboard_time": 1710437361,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57805,
       "num": 89703,
       "word": "四川泸县3.1级地震",
@@ -14673,14 +14681,6 @@
       "onboard_time": 1710176423,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 55589,
-      "num": 55589,
-      "word": "博主再用AI复活高以翔",
-      "onboard_time": 1710437361,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 55383,
