@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710422375914,
+  "endTime": 1710423245294,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -723,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1290006,
+      "num": 1008145,
+      "word": "邯郸遇害男孩亲属称校长说死是意外",
+      "onboard_time": 1710418773,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1279066,
       "num": 1279066,
       "word": "广州越秀区车祸致11人受伤",
@@ -801,14 +809,6 @@
       "onboard_time": 1710131915,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1227929,
-      "num": 1008145,
-      "word": "邯郸遇害男孩亲属称校长说死是意外",
-      "onboard_time": 1710418773,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1225837,
@@ -1372,7 +1372,7 @@
     },
     {
       "raw_hot": 954537,
-      "num": 520222,
+      "num": 543785,
       "word": "扶他柠檬茶",
       "onboard_time": 1710415715,
       "rank": 36,
@@ -1385,6 +1385,14 @@
       "onboard_time": 1710168095,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 943087,
+      "num": 943087,
+      "word": "金子",
+      "onboard_time": 1710420632,
+      "rank": 6,
+      "category": "网红"
     },
     {
       "raw_hot": 936535,
@@ -1891,14 +1899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 749752,
-      "num": 749752,
-      "word": "金子",
-      "onboard_time": 1710420632,
-      "rank": 6,
-      "category": "网红"
-    },
-    {
       "raw_hot": 744971,
       "num": 744971,
       "word": "孙颖莎张本美和",
@@ -2345,6 +2345,14 @@
       "onboard_time": 1710310535,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 648913,
+      "num": 648913,
+      "word": "马斯克SpaceX星舰第三次试飞",
+      "onboard_time": 1710421293,
+      "rank": 17,
+      "category": "科学科普"
     },
     {
       "raw_hot": 648662,
@@ -2873,6 +2881,14 @@
       "onboard_time": 1710104535,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560383,
+      "num": 560383,
+      "word": "陈思诚 我的电影也不用都看",
+      "onboard_time": 1710422133,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 560102,
@@ -3891,6 +3907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 442695,
+      "num": 442695,
+      "word": "美国前财长尝试收购TikTok",
+      "onboard_time": 1710422194,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 442434,
       "num": 442434,
       "word": "第五人格IP联动",
@@ -4451,6 +4475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 381610,
+      "num": 381610,
+      "word": "王曼昱WTT",
+      "onboard_time": 1710420750,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 381541,
       "num": 301977,
       "word": "贺峻霖生病",
@@ -4771,14 +4803,6 @@
       "category": "网红,财经"
     },
     {
-      "raw_hot": 356798,
-      "num": 356798,
-      "word": "马斯克SpaceX星舰第三次试飞",
-      "onboard_time": 1710421293,
-      "rank": 17,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 356773,
       "num": 356773,
       "word": "吴磊蒋勤勤新片是反传销题材",
@@ -4817,14 +4841,6 @@
       "onboard_time": 1710124049,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 349790,
-      "num": 349790,
-      "word": "王曼昱WTT",
-      "onboard_time": 1710420750,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 348973,
@@ -5187,6 +5203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 324633,
+      "num": 324633,
+      "word": "SpaceX星舰",
+      "onboard_time": 1710414573,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 324566,
       "num": 291073,
       "word": "建议银行卡上的膜不要撕",
@@ -5241,6 +5265,14 @@
       "onboard_time": 1710372927,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 319775,
+      "num": 319775,
+      "word": "本科毕业的同学去超市做收银员",
+      "onboard_time": 1710422675,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 319595,
@@ -5851,6 +5883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285552,
+      "num": 285552,
+      "word": "TES对战JDG",
+      "onboard_time": 1710419613,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 284997,
       "num": 284997,
       "word": "沙丘导演收到十三香和老干妈",
@@ -5865,14 +5905,6 @@
       "onboard_time": 1710335253,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 284240,
-      "num": 284240,
-      "word": "SpaceX星舰",
-      "onboard_time": 1710414573,
-      "rank": 46,
-      "category": "国外时政"
     },
     {
       "raw_hot": 283999,
@@ -5928,6 +5960,14 @@
       "word": "蓝盈莹演了五福临门",
       "onboard_time": 1710302135,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 280377,
+      "num": 280377,
+      "word": "鞠婧祎演恶女",
+      "onboard_time": 1710422317,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -7267,6 +7307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227622,
+      "num": 227622,
+      "word": "crush和别人官宣了是什么体验",
+      "onboard_time": 1710421896,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227341,
       "num": 227341,
       "word": "为什么上了大学频繁生病",
@@ -7529,6 +7577,14 @@
       "onboard_time": 1710058648,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 221523,
+      "num": 221523,
+      "word": "迪士尼新包突然断货引不满险发生踩踏",
+      "onboard_time": 1710422495,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221503,
@@ -8075,6 +8131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208513,
+      "num": 208513,
+      "word": "成毅直播",
+      "onboard_time": 1710422795,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208505,
       "num": 208505,
       "word": "一种新的情侣头像出现了",
@@ -8579,14 +8643,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 198978,
-      "num": 198978,
-      "word": "crush和别人官宣了是什么体验",
-      "onboard_time": 1710421896,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 198862,
       "num": 198862,
       "word": "邓为和新中式适配度",
@@ -8857,14 +8913,6 @@
       "onboard_time": 1710421773,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 196028,
-      "num": 196028,
-      "word": "陈思诚 我的电影也不用都看",
-      "onboard_time": 1710422133,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 195602,
@@ -9971,14 +10019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 174825,
-      "num": 167308,
-      "word": "鞠婧祎演恶女",
-      "onboard_time": 1710422317,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 174807,
       "num": 174807,
       "word": "21天不重样减脂食谱",
@@ -10217,14 +10257,6 @@
       "onboard_time": 1709995177,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 169868,
-      "num": 169868,
-      "word": "TES对战JDG",
-      "onboard_time": 1710419613,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 169753,
@@ -11403,14 +11435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 148749,
-      "num": 148749,
-      "word": "美国前财长尝试收购TikTok",
-      "onboard_time": 1710422194,
-      "rank": 46,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 148660,
       "num": 148660,
       "word": "未央回归AG",
@@ -11993,6 +12017,14 @@
       "onboard_time": 1710145350,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138411,
+      "num": 138411,
+      "word": "章昊 美食绝对是不能放弃的",
+      "onboard_time": 1710422916,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 138306,
