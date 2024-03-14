@@ -1,0 +1,410 @@
+{
+  "runTime": 1710412463483,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1309232,
+        "num": 1309232,
+        "word": "宿迁学院通报学生不雅视频",
+        "onboard_time": 1710408457,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2402039,
+        "num": 1274509,
+        "word": "燕郊爆炸系输送中的管道泄漏导致",
+        "onboard_time": 1710410134,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28255,
+        "num": 1011943,
+        "word": "关键年看各地如何抓实干",
+        "onboard_time": 1710405876,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768188,
+        "num": 768188,
+        "word": "外卖黑勺是最脏的",
+        "onboard_time": 1710401134,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 681705,
+        "num": 681705,
+        "word": "杨幂全球高定首穿",
+        "onboard_time": 1710401793,
+        "rank": 4,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 648909,
+        "num": 648909,
+        "word": "贾乃亮直播带货虚假宣传舆情相对突出",
+        "onboard_time": 1710405516,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588596,
+        "num": 588596,
+        "word": "凯特王妃",
+        "onboard_time": 1710386134,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 490524,
+        "num": 490524,
+        "word": "陈建斌又一次爱上了蒋勤勤",
+        "onboard_time": 1710407735,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228984,
+        "num": 476508,
+        "word": "汉服女医生一招救人又美又飒",
+        "onboard_time": 1710408937,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 285334,
+        "num": 467663,
+        "word": "姥姥倒车撞墙6岁外孙哭喊奔跑",
+        "onboard_time": 1710409830,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463016,
+        "num": 463016,
+        "word": "李佳琦董宇辉等17名主播被点名",
+        "onboard_time": 1710394837,
+        "rank": 10,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 416385,
+        "num": 416385,
+        "word": "男子开车带妻子体检遇爆炸不幸身亡",
+        "onboard_time": 1710393992,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406980,
+        "num": 406980,
+        "word": "陪高三的女儿旷了一节晚自习",
+        "onboard_time": 1710402455,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373990,
+        "num": 373990,
+        "word": "考研成了年轻人的中药",
+        "onboard_time": 1710406472,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 372757,
+        "num": 372757,
+        "word": "宫崎骏 做好了它完成前死去的准备",
+        "onboard_time": 1710409715,
+        "rank": 14,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 361213,
+        "num": 361213,
+        "word": "男性感染高危HPV会引起口腔癌",
+        "onboard_time": 1710406472,
+        "rank": 15,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 354636,
+        "num": 354636,
+        "word": "遇害男孩埋尸地距凶手家不足百米",
+        "onboard_time": 1710411931,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330807,
+        "num": 330807,
+        "word": "手机内存不足微信无法使用了",
+        "onboard_time": 1710410433,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 295753,
+        "num": 295753,
+        "word": "巧克力张张包",
+        "onboard_time": 1710406054,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285327,
+        "num": 285327,
+        "word": "深圳市原副市长黄敏被查",
+        "onboard_time": 1710401853,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1084463,
+        "num": 284084,
+        "word": "北极鲶鱼",
+        "onboard_time": 1710405993,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282706,
+        "num": 282706,
+        "word": "上海开出殡葬主题咖啡馆",
+        "onboard_time": 1710408154,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277851,
+        "num": 277851,
+        "word": "新疆地震",
+        "onboard_time": 1710408034,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268006,
+        "num": 268006,
+        "word": "女性绝经后仍有患乳腺癌风险",
+        "onboard_time": 1710409894,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 261913,
+        "num": 261913,
+        "word": "赵丽颖回应与凤行是配音",
+        "onboard_time": 1710402696,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250204,
+        "num": 250204,
+        "word": "蒋勤勤不想蹭甄嬛传热度",
+        "onboard_time": 1710402696,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242956,
+        "num": 242956,
+        "word": "蒲熠星生日会",
+        "onboard_time": 1710410494,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235850,
+        "num": 235850,
+        "word": "游客开车进武大校园与学生肢体冲突",
+        "onboard_time": 1710411573,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204805,
+        "num": 204805,
+        "word": "StrayKids公告",
+        "onboard_time": 1710411693,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231288,
+        "num": 204773,
+        "word": "曾黎赵丽颖手挽手",
+        "onboard_time": 1710409774,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203156,
+        "num": 203156,
+        "word": "周冬雨给马思纯P图庆生",
+        "onboard_time": 1710407192,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195133,
+        "num": 195133,
+        "word": "我自愿签订出门在外互帮父母条约",
+        "onboard_time": 1710411752,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188157,
+        "num": 188157,
+        "word": "女子花4700买阿玛尼外套穿一天掉色",
+        "onboard_time": 1710396813,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181590,
+        "num": 181590,
+        "word": "为什么洗澡水经常忽冷忽热",
+        "onboard_time": 1710403533,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 181183,
+        "num": 181183,
+        "word": "河北燕郊爆燃事故已完成多笔理赔",
+        "onboard_time": 1710412115,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162904,
+        "num": 162904,
+        "word": "TheShy发文好久不见",
+        "onboard_time": 1710412411,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161324,
+        "num": 161324,
+        "word": "25岁规培女医生刎颈自杀",
+        "onboard_time": 1710412411,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159675,
+        "num": 159675,
+        "word": "黄渤杨幂同框",
+        "onboard_time": 1710411153,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151365,
+        "num": 151365,
+        "word": "代孕妈妈顶替他人身份在医院生产",
+        "onboard_time": 1710395674,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150508,
+        "num": 150508,
+        "word": "宠物医院高压氧舱事故受伤女子去世",
+        "onboard_time": 1710389014,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148374,
+        "num": 148374,
+        "word": "阚清子和未婚夫聚餐",
+        "onboard_time": 1710398076,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143842,
+        "num": 143842,
+        "word": "赵丽颖说林更新经费有限",
+        "onboard_time": 1710411515,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45269,
+        "num": 139365,
+        "word": "张朝阳AWE第一站直奔华为展台",
+        "onboard_time": 1710411931,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146666,
+        "num": 138896,
+        "word": "杨幂配音的小狐狸狡猾又勇敢",
+        "onboard_time": 1710407672,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137589,
+        "num": 137589,
+        "word": "董宇辉声明与辉同行从未收取坑位费",
+        "onboard_time": 1710407552,
+        "rank": 44,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 131291,
+        "num": 131291,
+        "word": "yooa单曲",
+        "onboard_time": 1710411033,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128851,
+        "num": 128851,
+        "word": "领导以为我要捡地上的东西给他吃",
+        "onboard_time": 1710412411,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124051,
+        "num": 124051,
+        "word": "大学生人均三年戏龄",
+        "onboard_time": 1710409592,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120582,
+        "num": 120582,
+        "word": "Gucci签下羽生结弦",
+        "onboard_time": 1710400053,
+        "rank": 48,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 120547,
+        "num": 120547,
+        "word": "法越馨拍赵丽颖",
+        "onboard_time": 1710410735,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展新质生产力总书记这样强调#"
+    }
+  }
+}
