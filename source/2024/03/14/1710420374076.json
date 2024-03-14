@@ -1,0 +1,410 @@
+{
+  "runTime": 1710420374076,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1645972,
+        "num": 1645972,
+        "word": "教育部曾明确叫停在家上学",
+        "onboard_time": 1710413553,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1214921,
+        "num": 1214921,
+        "word": "小狗去世后把它弟弟接回了家",
+        "onboard_time": 1710416915,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13712,
+        "num": 772378,
+        "word": "新质生产力本身就是绿色生产力",
+        "onboard_time": 1710420154,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1648500,
+        "num": 769818,
+        "word": "一栗小莎子怀孕",
+        "onboard_time": 1710419134,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 744971,
+        "num": 744971,
+        "word": "孙颖莎张本美和",
+        "onboard_time": 1710418173,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 682717,
+        "num": 682717,
+        "word": "凯特王妃",
+        "onboard_time": 1710386134,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 588657,
+        "num": 588657,
+        "word": "邯郸遇害男孩亲属称校长说死是意外",
+        "onboard_time": 1710418773,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542667,
+        "num": 542667,
+        "word": "林俊杰演出中场进行雾化治疗",
+        "onboard_time": 1710415352,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 512179,
+        "num": 512179,
+        "word": "手机内存不足微信无法使用了",
+        "onboard_time": 1710410433,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 499055,
+        "num": 499055,
+        "word": "燕郊爆炸系输送中的管道泄漏导致",
+        "onboard_time": 1710410134,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 954537,
+        "num": 498239,
+        "word": "扶他柠檬茶",
+        "onboard_time": 1710415715,
+        "rank": 10,
+        "category": "读书作家,网红"
+      },
+      {
+        "raw_hot": 522944,
+        "num": 496984,
+        "word": "赵露思我老婆",
+        "onboard_time": 1710414813,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 494466,
+        "num": 494466,
+        "word": "林诗栋波尔",
+        "onboard_time": 1710419494,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474479,
+        "num": 474479,
+        "word": "杨幂全球高定首穿",
+        "onboard_time": 1710401793,
+        "rank": 13,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 474045,
+        "num": 474045,
+        "word": "外卖黑勺是最脏的",
+        "onboard_time": 1710401134,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 423715,
+        "num": 423715,
+        "word": "杨紫马甲线好明显",
+        "onboard_time": 1710416071,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 413835,
+        "num": 413835,
+        "word": "五哈4官宣了哈",
+        "onboard_time": 1710420213,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358359,
+        "num": 358359,
+        "word": "陈晓童瑶激情戏",
+        "onboard_time": 1710412656,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347746,
+        "num": 347746,
+        "word": "两个不内耗的办法",
+        "onboard_time": 1710416972,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329897,
+        "num": 329897,
+        "word": "宿迁学院通报学生不雅视频",
+        "onboard_time": 1710408457,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307183,
+        "num": 307183,
+        "word": "某媒体称米哈游终止与原神合作",
+        "onboard_time": 1710417811,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 300584,
+        "num": 300584,
+        "word": "第五人格富江",
+        "onboard_time": 1710414933,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 298052,
+        "num": 298052,
+        "word": "李佳琦董宇辉等17名主播被点名",
+        "onboard_time": 1710394837,
+        "rank": 22,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 271012,
+        "num": 271012,
+        "word": "SpaceX星舰",
+        "onboard_time": 1710414573,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 256587,
+        "num": 256587,
+        "word": "陶喆演唱会",
+        "onboard_time": 1710418714,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35709,
+        "num": 247008,
+        "word": "春耕图景里的科技范儿",
+        "onboard_time": 1710419011,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246658,
+        "num": 246658,
+        "word": "贾乃亮直播带货虚假宣传舆情相对突出",
+        "onboard_time": 1710405516,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240696,
+        "num": 240696,
+        "word": "TTG发布说明",
+        "onboard_time": 1710418893,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 222551,
+        "num": 222551,
+        "word": "男生理想的卧室",
+        "onboard_time": 1710418592,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222060,
+        "num": 222060,
+        "word": "无法接受自己已经30了",
+        "onboard_time": 1710415173,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201606,
+        "num": 201606,
+        "word": "杨幂化妆师还是金鹤龙",
+        "onboard_time": 1710419192,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194136,
+        "num": 194136,
+        "word": "花间令首支预告",
+        "onboard_time": 1710419311,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194016,
+        "num": 194016,
+        "word": "陪高三的女儿旷了一节晚自习",
+        "onboard_time": 1710402455,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189213,
+        "num": 189213,
+        "word": "成都AG获胜",
+        "onboard_time": 1710420154,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179934,
+        "num": 179934,
+        "word": "广东一公司校招员工因颜值走红",
+        "onboard_time": 1710415832,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179199,
+        "num": 179199,
+        "word": "朱一龙神似马尔福",
+        "onboard_time": 1710417155,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178847,
+        "num": 178847,
+        "word": "陈梦朱芊曦",
+        "onboard_time": 1710415950,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176978,
+        "num": 176978,
+        "word": "陈建斌又一次爱上了蒋勤勤",
+        "onboard_time": 1710407735,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176100,
+        "num": 176100,
+        "word": "张远称现在精神状态很稳定",
+        "onboard_time": 1710419853,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175846,
+        "num": 175846,
+        "word": "姥姥倒车撞墙6岁外孙哭喊奔跑",
+        "onboard_time": 1710409830,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175427,
+        "num": 175427,
+        "word": "宋雨琦短发照",
+        "onboard_time": 1710417934,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169933,
+        "num": 169933,
+        "word": "雷军回应小米汽车多个传闻",
+        "onboard_time": 1710415352,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 169868,
+        "num": 169868,
+        "word": "TES对战JDG",
+        "onboard_time": 1710419613,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164135,
+        "num": 164135,
+        "word": "珠帘玉幕",
+        "onboard_time": 1710415651,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161538,
+        "num": 161538,
+        "word": "微博新表情挖土发芽",
+        "onboard_time": 1710419494,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153262,
+        "num": 153262,
+        "word": "深圳市原副市长黄敏被查",
+        "onboard_time": 1710401853,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150780,
+        "num": 150780,
+        "word": "男子开车带妻子体检遇爆炸不幸身亡",
+        "onboard_time": 1710393992,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148975,
+        "num": 148975,
+        "word": "甘肃麻辣烫光看图都香迷糊了",
+        "onboard_time": 1710419550,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146362,
+        "num": 146362,
+        "word": "第五人格IP联动",
+        "onboard_time": 1710413314,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143016,
+        "num": 143016,
+        "word": "第五人格六周年",
+        "onboard_time": 1710413553,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展新质生产力总书记这样强调#"
+    }
+  }
+}
