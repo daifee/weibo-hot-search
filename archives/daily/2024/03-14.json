@@ -1,6 +1,6 @@
 {
   "startTime": 1710346860842,
-  "endTime": 1710390845625,
+  "endTime": 1710393377634,
   "band_list": [
     {
       "raw_hot": 3029620,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1542541,
+      "num": 1542541,
+      "word": "宠物医院高压氧舱事故受伤女子去世",
+      "onboard_time": 1710389014,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1342359,
       "num": 1342359,
       "word": "喝咖啡建议一天别超过1200毫升",
@@ -73,14 +81,6 @@
       "onboard_time": 1710343774,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1198719,
-      "num": 1198719,
-      "word": "宠物医院高压氧舱事故受伤女子去世",
-      "onboard_time": 1710389014,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1163650,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 779865,
+      "num": 779865,
+      "word": "韩国一天内511名医学生申请休学",
+      "onboard_time": 1710389914,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 772875,
       "num": 772875,
       "word": "婚礼后男方拒领证要回5万多彩礼",
@@ -195,6 +203,22 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 651118,
+      "num": 651118,
+      "word": "张雪峰谈大学越来越像工厂说法",
+      "onboard_time": 1710390695,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 616613,
+      "num": 616613,
+      "word": "朱梓骁的不耐烦不像演的",
+      "onboard_time": 1710391418,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 615305,
       "num": 615305,
       "word": "天水麻辣烫",
@@ -217,6 +241,22 @@
       "onboard_time": 1710372683,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 594871,
+      "num": 594871,
+      "word": "刘亦菲17岁跑步旧照",
+      "onboard_time": 1710390875,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 578486,
+      "num": 578486,
+      "word": "ChatGPT有身体了",
+      "onboard_time": 1710390395,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 576507,
@@ -283,6 +323,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 490189,
+      "num": 490189,
+      "word": "侃爷妻子与卡戴珊同框",
+      "onboard_time": 1710389555,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 474065,
+      "num": 474065,
+      "word": "檀健次没有一次美容是白做的",
+      "onboard_time": 1710390756,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 467665,
       "num": 467665,
       "word": "邯郸",
@@ -339,14 +395,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 424012,
-      "num": 424012,
-      "word": "侃爷妻子与卡戴珊同框",
-      "onboard_time": 1710389555,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 423299,
       "num": 423299,
       "word": "中国记协三问央视记者燕郊采访遇阻",
@@ -385,14 +433,6 @@
       "onboard_time": 1710375876,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 381237,
-      "num": 381237,
-      "word": "韩国一天内511名医学生申请休学",
-      "onboard_time": 1710389914,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 374790,
@@ -456,6 +496,14 @@
       "word": "为什么大学生不快乐",
       "onboard_time": 1710377372,
       "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 345793,
+      "num": 345793,
+      "word": "恋爱同居期间金钱往来是彩礼还是赠与",
+      "onboard_time": 1710390455,
+      "rank": 34,
       "category": "情感"
     },
     {
@@ -531,20 +579,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 298587,
+      "num": 298587,
+      "word": "四川监狱评邯郸男孩遭同学杀害",
+      "onboard_time": 1710392674,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295689,
       "num": 295689,
       "word": "粥饼伦称不想让孩子再过苦日子",
       "onboard_time": 1710349703,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285546,
-      "num": 285546,
-      "word": "ChatGPT有身体了",
-      "onboard_time": 1710390395,
-      "rank": 23,
-      "category": "互联网"
     },
     {
       "raw_hot": 282438,
@@ -569,14 +617,6 @@
       "onboard_time": 1710336275,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 253357,
-      "num": 253357,
-      "word": "檀健次没有一次美容是白做的",
-      "onboard_time": 1710390756,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 248652,
@@ -763,6 +803,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210409,
+      "num": 210409,
+      "word": "赵露思费加罗开季封",
+      "onboard_time": 1710392797,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209864,
+      "num": 209864,
+      "word": "谈恋爱要势均力敌的精神状态",
+      "onboard_time": 1710390936,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208505,
       "num": 208505,
       "word": "一种新的情侣头像出现了",
@@ -785,14 +841,6 @@
       "onboard_time": 1710378630,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205467,
-      "num": 205467,
-      "word": "恋爱同居期间金钱往来是彩礼还是赠与",
-      "onboard_time": 1710390455,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 205298,
@@ -835,6 +883,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199658,
+      "num": 199658,
+      "word": "智族GQ朱一龙金发大片",
+      "onboard_time": 1710392494,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 199268,
+      "num": 199268,
+      "word": "死者父亲称孩子生前长期被霸凌",
+      "onboard_time": 1710393153,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197828,
+      "num": 197828,
+      "word": "杨迪模仿向佐鼻孔",
+      "onboard_time": 1710393153,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197330,
       "num": 197330,
       "word": "戴高乐长子去世",
@@ -857,6 +929,14 @@
       "onboard_time": 1710387215,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191598,
+      "num": 191598,
+      "word": "广州一公司设1000万婚育金男性领取须做题",
+      "onboard_time": 1710392737,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191314,
@@ -923,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182764,
+      "num": 182764,
+      "word": "刘宇新歌captain",
+      "onboard_time": 1710392855,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 182248,
       "num": 182248,
       "word": "每个人的生日都能在圆周率里找到",
@@ -939,12 +1027,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 177183,
-      "num": 177183,
-      "word": "张雪峰谈大学越来越像工厂说法",
-      "onboard_time": 1710390695,
-      "rank": 41,
-      "category": "教育,社会新闻"
+      "raw_hot": 177304,
+      "num": 177304,
+      "word": "外来媳妇本地郎演员今昔对比",
+      "onboard_time": 1710392316,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 176604,
+      "num": 176604,
+      "word": "外地人被甘肃天水麻辣烫整懵了",
+      "onboard_time": 1710393214,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 175727,
@@ -1059,6 +1155,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 149804,
+      "num": 149804,
+      "word": "原神白色情人节",
+      "onboard_time": 1710392555,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148690,
       "num": 148690,
       "word": "成龙头发胡子白了",
@@ -1097,6 +1201,14 @@
       "onboard_time": 1710379951,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143377,
+      "num": 143377,
+      "word": "哪部宫崎骏是你的人生电影",
+      "onboard_time": 1710391953,
+      "rank": 49,
+      "category": "动漫,电影"
     },
     {
       "raw_hot": 140765,

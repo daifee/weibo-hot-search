@@ -1,0 +1,410 @@
+{
+  "runTime": 1710393377634,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1660721,
+        "num": 1660721,
+        "word": "凯特王妃",
+        "onboard_time": 1710386134,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1542541,
+        "num": 1542541,
+        "word": "宠物医院高压氧舱事故受伤女子去世",
+        "onboard_time": 1710389014,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9691,
+        "num": 1056670,
+        "word": "开展国家勋章和国家荣誉称号评选颁授",
+        "onboard_time": 1710333872,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1035340,
+        "num": 1035340,
+        "word": "请回答1988珍珠13岁近照",
+        "onboard_time": 1710388595,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 779865,
+        "num": 779865,
+        "word": "韩国一天内511名医学生申请休学",
+        "onboard_time": 1710389914,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 675939,
+        "num": 675939,
+        "word": "代孕黑市称优质卵子可售100万",
+        "onboard_time": 1710385231,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651118,
+        "num": 651118,
+        "word": "张雪峰谈大学越来越像工厂说法",
+        "onboard_time": 1710390695,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 616613,
+        "num": 616613,
+        "word": "朱梓骁的不耐烦不像演的",
+        "onboard_time": 1710391418,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594871,
+        "num": 594871,
+        "word": "刘亦菲17岁跑步旧照",
+        "onboard_time": 1710390875,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578486,
+        "num": 578486,
+        "word": "ChatGPT有身体了",
+        "onboard_time": 1710390395,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1541715,
+        "num": 563997,
+        "word": "警方回应男孩遭3名同学杀害并掩埋",
+        "onboard_time": 1710384272,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1344516,
+        "num": 560094,
+        "word": "29岁女儿不结婚父亲代孕延续后代",
+        "onboard_time": 1710378871,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743072,
+        "num": 558766,
+        "word": "山竹",
+        "onboard_time": 1710380969,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 544734,
+        "num": 544734,
+        "word": "清华大学教授称大学越来越像工厂",
+        "onboard_time": 1710383430,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 490189,
+        "num": 490189,
+        "word": "侃爷妻子与卡戴珊同框",
+        "onboard_time": 1710389555,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 474065,
+        "num": 474065,
+        "word": "檀健次没有一次美容是白做的",
+        "onboard_time": 1710390756,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429375,
+        "num": 429375,
+        "word": "Angelababy白色高定",
+        "onboard_time": 1710380431,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 412569,
+        "num": 412569,
+        "word": "天水麻辣烫",
+        "onboard_time": 1710386795,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 390083,
+        "num": 390083,
+        "word": "燕郊爆燃事故致7死27伤",
+        "onboard_time": 1710356418,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366627,
+        "num": 366627,
+        "word": "TikTok还有翻盘的机会吗",
+        "onboard_time": 1710387635,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 345793,
+        "num": 345793,
+        "word": "恋爱同居期间金钱往来是彩礼还是赠与",
+        "onboard_time": 1710390455,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342874,
+        "num": 342874,
+        "word": "长风破浪央视定档",
+        "onboard_time": 1710384272,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298587,
+        "num": 298587,
+        "word": "四川监狱评邯郸男孩遭同学杀害",
+        "onboard_time": 1710392674,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280584,
+        "num": 280584,
+        "word": "赵露思上小学时的毕业照",
+        "onboard_time": 1710385293,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279046,
+        "num": 279046,
+        "word": "决定婚前同居时爸爸发来的信息",
+        "onboard_time": 1710386193,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264955,
+        "num": 264955,
+        "word": "独生女举报62岁父亲代孕生儿子",
+        "onboard_time": 1710342695,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255355,
+        "num": 255355,
+        "word": "和府捞面被曝含预制菜",
+        "onboard_time": 1710384634,
+        "rank": 26,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 253777,
+        "num": 253777,
+        "word": "对象重病时你中了200w",
+        "onboard_time": 1710385651,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235499,
+        "num": 235499,
+        "word": "枭起青壤",
+        "onboard_time": 1710388833,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210409,
+        "num": 210409,
+        "word": "赵露思费加罗开季封",
+        "onboard_time": 1710392797,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209864,
+        "num": 209864,
+        "word": "谈恋爱要势均力敌的精神状态",
+        "onboard_time": 1710390936,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199658,
+        "num": 199658,
+        "word": "智族GQ朱一龙金发大片",
+        "onboard_time": 1710392494,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199268,
+        "num": 199268,
+        "word": "死者父亲称孩子生前长期被霸凌",
+        "onboard_time": 1710393153,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197828,
+        "num": 197828,
+        "word": "杨迪模仿向佐鼻孔",
+        "onboard_time": 1710393153,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197637,
+        "num": 197637,
+        "word": "台媒称大陆渔船在金门外海翻覆",
+        "onboard_time": 1710382168,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193736,
+        "num": 193736,
+        "word": "原神 情人节贺图",
+        "onboard_time": 1710389433,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191598,
+        "num": 191598,
+        "word": "广州一公司设1000万婚育金男性领取须做题",
+        "onboard_time": 1710392737,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190764,
+        "num": 190764,
+        "word": "孙俪长发",
+        "onboard_time": 1710374973,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188065,
+        "num": 188065,
+        "word": "分手断联21天定律",
+        "onboard_time": 1710377315,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182764,
+        "num": 182764,
+        "word": "刘宇新歌captain",
+        "onboard_time": 1710392855,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180770,
+        "num": 180770,
+        "word": "刘耀文驾照到手",
+        "onboard_time": 1710390337,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178060,
+        "num": 178060,
+        "word": "五月天经纪公司回应网传开北京演唱会",
+        "onboard_time": 1710386795,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177304,
+        "num": 177304,
+        "word": "外来媳妇本地郎演员今昔对比",
+        "onboard_time": 1710392316,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176604,
+        "num": 176604,
+        "word": "外地人被甘肃天水麻辣烫整懵了",
+        "onboard_time": 1710393214,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164886,
+        "num": 164886,
+        "word": "收到猫猫被领养十年后的照片",
+        "onboard_time": 1710386976,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163771,
+        "num": 163771,
+        "word": "这一次周生辰反抗了",
+        "onboard_time": 1710380850,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160569,
+        "num": 160569,
+        "word": "这束35元的花真的好漂亮",
+        "onboard_time": 1710385469,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150741,
+        "num": 150741,
+        "word": "婚礼后男方拒领证要回5万多彩礼",
+        "onboard_time": 1710380369,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149804,
+        "num": 149804,
+        "word": "原神白色情人节",
+        "onboard_time": 1710392555,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143377,
+        "num": 143377,
+        "word": "哪部宫崎骏是你的人生电影",
+        "onboard_time": 1710391953,
+        "rank": 49,
+        "category": "动漫,电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把职业教育发展好要树立工匠精神#"
+    }
+  }
+}
