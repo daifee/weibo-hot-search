@@ -1,0 +1,410 @@
+{
+  "runTime": 1710378681474,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2369589,
+        "num": 2369589,
+        "word": "燕郊爆燃事故致7死27伤",
+        "onboard_time": 1710356418,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1342359,
+        "num": 1342359,
+        "word": "喝咖啡建议一天别超过1200毫升",
+        "onboard_time": 1710373470,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63633,
+        "num": 1237459,
+        "word": "开展国家勋章和国家荣誉称号评选颁授",
+        "onboard_time": 1710333872,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1163650,
+        "num": 1163650,
+        "word": "删了吧我有个朋友破防了",
+        "onboard_time": 1710375453,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1132969,
+        "num": 1132969,
+        "word": "孙俪长发",
+        "onboard_time": 1710374973,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1033062,
+        "num": 1033062,
+        "word": "河北三河通报央视记者燕郊采访遇阻",
+        "onboard_time": 1710372325,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699294,
+        "num": 699294,
+        "word": "五月天 北京",
+        "onboard_time": 1710373649,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 658386,
+        "num": 658386,
+        "word": "阿姨卖夹饼90度敞开往里塞肉",
+        "onboard_time": 1710357257,
+        "rank": 7,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 517627,
+        "num": 517627,
+        "word": "爱情公寓演员试镜视频",
+        "onboard_time": 1710373470,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 498157,
+        "num": 498157,
+        "word": "上海地铁",
+        "onboard_time": 1710376234,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1126689,
+        "num": 483221,
+        "word": "独生女举报62岁父亲代孕生儿子",
+        "onboard_time": 1710342695,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465458,
+        "num": 465458,
+        "word": "张元英身材比例",
+        "onboard_time": 1710376715,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428986,
+        "num": 428986,
+        "word": "花4千网购85寸大电视收到一个小饰品",
+        "onboard_time": 1710377792,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392535,
+        "num": 392535,
+        "word": "90后妈妈为给孩子看病代孕赚钱",
+        "onboard_time": 1710339455,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383294,
+        "num": 383294,
+        "word": "吴磊蒋勤勤陈建斌演一家三口",
+        "onboard_time": 1710375876,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 374790,
+        "num": 374790,
+        "word": "燕郊爆燃亲历者称又捡一条命",
+        "onboard_time": 1710373948,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374333,
+        "num": 374333,
+        "word": "央视今年315晚会节目单公布",
+        "onboard_time": 1710342813,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348271,
+        "num": 348271,
+        "word": "李一桐狐妖王权篇跳舞路透",
+        "onboard_time": 1710375514,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321913,
+        "num": 321913,
+        "word": "TikTok回应美众议院通过法案",
+        "onboard_time": 1710372927,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 256446,
+        "num": 256446,
+        "word": "粥饼伦称不想让孩子再过苦日子",
+        "onboard_time": 1710349703,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 608626,
+        "num": 253803,
+        "word": "分手断联21天定律",
+        "onboard_time": 1710377315,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 607569,
+        "num": 253451,
+        "word": "请病假还走了两万的微信步数",
+        "onboard_time": 1710372683,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262665,
+        "num": 252717,
+        "word": "千万别再关灯玩手机了",
+        "onboard_time": 1710343774,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 251113,
+        "num": 251113,
+        "word": "为什么大学生不快乐",
+        "onboard_time": 1710377372,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248652,
+        "num": 248652,
+        "word": "这么好的春天我却在上班",
+        "onboard_time": 1710374010,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243310,
+        "num": 243310,
+        "word": "面对女儿的拥抱她下意识躲开了",
+        "onboard_time": 1710337416,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241627,
+        "num": 241627,
+        "word": "月薪5000元看不起付费短剧",
+        "onboard_time": 1710335973,
+        "rank": 26,
+        "category": "社会新闻,剧集"
+      },
+      {
+        "raw_hot": 240483,
+        "num": 240483,
+        "word": "邯郸",
+        "onboard_time": 1710377914,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226748,
+        "num": 226748,
+        "word": "一天刷7个小时短视频不刷不舒服",
+        "onboard_time": 1710375389,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 225266,
+        "num": 225266,
+        "word": "将太郎道歉",
+        "onboard_time": 1710377554,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212897,
+        "num": 212897,
+        "word": "元汽森林厂家被罚",
+        "onboard_time": 1710341916,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 209497,
+        "num": 209497,
+        "word": "杭州全面放开二手房限购",
+        "onboard_time": 1710378033,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207148,
+        "num": 207148,
+        "word": "潘博文",
+        "onboard_time": 1710347906,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192768,
+        "num": 192768,
+        "word": "蔡少芬洪欣陈法蓉素颜合照",
+        "onboard_time": 1710378574,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182248,
+        "num": 182248,
+        "word": "每个人的生日都能在圆周率里找到",
+        "onboard_time": 1710378153,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178298,
+        "num": 178298,
+        "word": "李雪琴变瘦了",
+        "onboard_time": 1710325353,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173634,
+        "num": 173634,
+        "word": "辽宁抚顺一金矿发生坠罐事故",
+        "onboard_time": 1710373228,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166841,
+        "num": 166841,
+        "word": "许光汉宣布不再演高中生",
+        "onboard_time": 1710331656,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164142,
+        "num": 164142,
+        "word": "阿沁老婆鞠躬道歉",
+        "onboard_time": 1710377254,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152042,
+        "num": 152042,
+        "word": "任嘉伦观众缘",
+        "onboard_time": 1710366796,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146961,
+        "num": 146961,
+        "word": "哥哥帮妹妹换纸尿裤划破眼球",
+        "onboard_time": 1710336275,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145367,
+        "num": 145367,
+        "word": "凯特",
+        "onboard_time": 1710333755,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 139136,
+        "num": 139136,
+        "word": "边伯贤泡泡",
+        "onboard_time": 1710375093,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133792,
+        "num": 133792,
+        "word": "色汗症是什么",
+        "onboard_time": 1710352098,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131775,
+        "num": 131775,
+        "word": "猫乃伊",
+        "onboard_time": 1710378153,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128500,
+        "num": 128500,
+        "word": "男童深夜独行被一对夫妻救下",
+        "onboard_time": 1710374731,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127760,
+        "num": 127760,
+        "word": "迈阿密国际vs纳什维尔",
+        "onboard_time": 1710378511,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123675,
+        "num": 123675,
+        "word": "美众议院通过TikTok法案",
+        "onboard_time": 1710342093,
+        "rank": 47,
+        "category": "国外时政,互联网"
+      },
+      {
+        "raw_hot": 122006,
+        "num": 122006,
+        "word": "王楚钦孙颖莎混双晋级四强",
+        "onboard_time": 1710375808,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121520,
+        "num": 121520,
+        "word": "杭州买二手房不再审核购房人资格",
+        "onboard_time": 1710378630,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把职业教育发展好要树立工匠精神#"
+    }
+  }
+}
