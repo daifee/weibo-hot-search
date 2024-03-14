@@ -1,0 +1,410 @@
+{
+  "runTime": 1710401670638,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1541063,
+        "num": 1541063,
+        "word": "李佳琦董宇辉等17名主播被点名",
+        "onboard_time": 1710394837,
+        "rank": 0,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 1090653,
+        "num": 1090653,
+        "word": "男子开车带妻子体检遇爆炸不幸身亡",
+        "onboard_time": 1710393992,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50419,
+        "num": 932597,
+        "word": "一起打卡春天里的中国",
+        "onboard_time": 1710395794,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890983,
+        "num": 890983,
+        "word": "阚清子和未婚夫聚餐",
+        "onboard_time": 1710398076,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 853003,
+        "num": 853003,
+        "word": "女子花4700买阿玛尼外套穿一天掉色",
+        "onboard_time": 1710396813,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2566459,
+        "num": 748125,
+        "word": "邯郸遭3名同学杀害男孩家属发声",
+        "onboard_time": 1710395493,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632462,
+        "num": 632462,
+        "word": "代孕妈妈顶替他人身份在医院生产",
+        "onboard_time": 1710395674,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608847,
+        "num": 608847,
+        "word": "宠物医院高压氧舱事故受伤女子去世",
+        "onboard_time": 1710389014,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603248,
+        "num": 603248,
+        "word": "凯特王妃",
+        "onboard_time": 1710386134,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 529505,
+        "num": 529505,
+        "word": "记者暗访湖南三甲医院发现多位代孕妈妈",
+        "onboard_time": 1710399692,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486953,
+        "num": 486953,
+        "word": "腾讯接手字节跳动部分游戏业务",
+        "onboard_time": 1710399329,
+        "rank": 10,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 470791,
+        "num": 470791,
+        "word": "Gucci签下羽生结弦",
+        "onboard_time": 1710400053,
+        "rank": 11,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 455245,
+        "num": 455245,
+        "word": "伊藤美诚3比2平野美宇",
+        "onboard_time": 1710400474,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410753,
+        "num": 410753,
+        "word": "评论罗伯特 楼中楼回复",
+        "onboard_time": 1710397654,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 376012,
+        "num": 376012,
+        "word": "网易云音乐崩了",
+        "onboard_time": 1710398613,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 369219,
+        "num": 369219,
+        "word": "29岁女儿不结婚父亲代孕延续后代",
+        "onboard_time": 1710378871,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340779,
+        "num": 340779,
+        "word": "在TikTok上卖车三个月入账2000万",
+        "onboard_time": 1710394116,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 328727,
+        "num": 328727,
+        "word": "向佐一边修鼻毛一边演莫扎特",
+        "onboard_time": 1710396991,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322554,
+        "num": 322554,
+        "word": "硬是给有座位的乘客弄成站票了",
+        "onboard_time": 1710398734,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 309790,
+        "num": 309790,
+        "word": "刘诗诗生图",
+        "onboard_time": 1710394771,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 278956,
+        "num": 278956,
+        "word": "朱梓骁的不耐烦不像演的",
+        "onboard_time": 1710391418,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273128,
+        "num": 273128,
+        "word": "外卖黑勺是最脏的",
+        "onboard_time": 1710401134,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272838,
+        "num": 272838,
+        "word": "请回答1988珍珠13岁近照",
+        "onboard_time": 1710388595,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272385,
+        "num": 272385,
+        "word": "张婧仪以为天大是形容词",
+        "onboard_time": 1710399513,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269954,
+        "num": 269954,
+        "word": "为什么建议吃完苹果要漱口",
+        "onboard_time": 1710399993,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238746,
+        "num": 238746,
+        "word": "孙千陈靖可居家大片",
+        "onboard_time": 1710401134,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230482,
+        "num": 230482,
+        "word": "杨紫杂志",
+        "onboard_time": 1710401073,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 228592,
+        "num": 228592,
+        "word": "代号鸢",
+        "onboard_time": 1710399513,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225983,
+        "num": 225983,
+        "word": "60元的酸奶碗是智商税吗",
+        "onboard_time": 1710400355,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203323,
+        "num": 223881,
+        "word": "东部战区实战化训练高燃现场",
+        "onboard_time": 1710400172,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 222003,
+        "num": 222003,
+        "word": "赵丽颖林更新床咚戏",
+        "onboard_time": 1710399812,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208579,
+        "num": 208579,
+        "word": "檀健次没有一次美容是白做的",
+        "onboard_time": 1710390756,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219448,
+        "num": 200683,
+        "word": "与凤行 榴莲飘飘的仙侠风",
+        "onboard_time": 1710398912,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190816,
+        "num": 190816,
+        "word": "高校连放7天春假鼓励学生去赏花恋爱",
+        "onboard_time": 1710396813,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 188140,
+        "num": 188140,
+        "word": "官方通报广西男童无人看管独自爬行",
+        "onboard_time": 1710398734,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184522,
+        "num": 184522,
+        "word": "山竹",
+        "onboard_time": 1710380969,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182107,
+        "num": 182107,
+        "word": "山河枕",
+        "onboard_time": 1710399211,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177071,
+        "num": 177071,
+        "word": "马龙林高远",
+        "onboard_time": 1710401553,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172322,
+        "num": 172322,
+        "word": "A股",
+        "onboard_time": 1710397473,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171520,
+        "num": 171520,
+        "word": "家属透露宠物高压氧舱事故非人为因素",
+        "onboard_time": 1710400951,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163442,
+        "num": 163442,
+        "word": "梁靖崑vs张本智和",
+        "onboard_time": 1710395553,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160627,
+        "num": 160627,
+        "word": "代孕黑市称优质卵子可售100万",
+        "onboard_time": 1710385231,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153870,
+        "num": 153870,
+        "word": "每次洗完头都能扯下一把头发",
+        "onboard_time": 1710401495,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150837,
+        "num": 150837,
+        "word": "梁靖崑大逆转晋级8强",
+        "onboard_time": 1710396154,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147750,
+        "num": 147750,
+        "word": "最强大脑去日本踢馆了",
+        "onboard_time": 1710393514,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146599,
+        "num": 146599,
+        "word": "刘亦菲17岁跑步旧照",
+        "onboard_time": 1710390875,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141993,
+        "num": 141993,
+        "word": "陈梦王曼昱晋级4强",
+        "onboard_time": 1710399692,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139681,
+        "num": 139681,
+        "word": "张远曾患躁郁症",
+        "onboard_time": 1710401495,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138518,
+        "num": 138518,
+        "word": "清华大学教授称大学越来越像工厂",
+        "onboard_time": 1710383430,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138408,
+        "num": 138408,
+        "word": "中国汽车在俄罗斯不愁卖不动",
+        "onboard_time": 1710399092,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#环境资源界人士在绿色转型中发挥了积极作用#"
+    }
+  }
+}

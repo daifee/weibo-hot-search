@@ -1,6 +1,6 @@
 {
   "startTime": 1710346860842,
-  "endTime": 1710400737908,
+  "endTime": 1710401670638,
   "band_list": [
     {
       "raw_hot": 3029620,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 890983,
+      "num": 890983,
+      "word": "阚清子和未婚夫聚餐",
+      "onboard_time": 1710398076,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 880678,
       "num": 880678,
       "word": "朱梓骁的不耐烦不像演的",
@@ -179,12 +187,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 856575,
-      "num": 856575,
-      "word": "阚清子和未婚夫聚餐",
-      "onboard_time": 1710398076,
-      "rank": 3,
-      "category": "艺人"
+      "raw_hot": 853003,
+      "num": 853003,
+      "word": "女子花4700买阿玛尼外套穿一天掉色",
+      "onboard_time": 1710396813,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 803002,
@@ -192,14 +200,6 @@
       "word": "死者父亲称孩子生前长期被霸凌",
       "onboard_time": 1710393153,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 799760,
-      "num": 799760,
-      "word": "女子花4700买阿玛尼外套穿一天掉色",
-      "onboard_time": 1710396813,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 529505,
+      "num": 529505,
+      "word": "记者暗访湖南三甲医院发现多位代孕妈妈",
+      "onboard_time": 1710399692,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 517627,
       "num": 517627,
       "word": "爱情公寓演员试镜视频",
@@ -419,12 +427,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486953,
+      "num": 486953,
+      "word": "腾讯接手字节跳动部分游戏业务",
+      "onboard_time": 1710399329,
+      "rank": 11,
+      "category": "互联网,游戏"
+    },
+    {
       "raw_hot": 474065,
       "num": 474065,
       "word": "檀健次没有一次美容是白做的",
       "onboard_time": 1710390756,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 470791,
+      "num": 470791,
+      "word": "Gucci签下羽生结弦",
+      "onboard_time": 1710400053,
+      "rank": 20,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 467665,
@@ -449,6 +473,14 @@
       "onboard_time": 1710378871,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 455245,
+      "num": 455245,
+      "word": "伊藤美诚3比2平野美宇",
+      "onboard_time": 1710400474,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 452975,
@@ -499,20 +531,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410753,
+      "num": 410753,
+      "word": "评论罗伯特 楼中楼回复",
+      "onboard_time": 1710397654,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 403413,
       "num": 299539,
       "word": "鹿晗骨相",
       "onboard_time": 1710331774,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 392983,
-      "num": 392983,
-      "word": "腾讯接手字节跳动部分游戏业务",
-      "onboard_time": 1710399329,
-      "rank": 11,
-      "category": "互联网,游戏"
     },
     {
       "raw_hot": 392535,
@@ -579,14 +611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 351752,
-      "num": 351752,
-      "word": "评论罗伯特 楼中楼回复",
-      "onboard_time": 1710397654,
-      "rank": 37,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 349156,
       "num": 280832,
       "word": "李雪琴变瘦了",
@@ -627,14 +651,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 335711,
-      "num": 335711,
-      "word": "记者暗访湖南三甲医院发现多位代孕妈妈",
-      "onboard_time": 1710399692,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 332621,
       "num": 332621,
       "word": "对象重病时你中了200w",
@@ -673,6 +689,14 @@
       "onboard_time": 1710389433,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 322554,
+      "num": 322554,
+      "word": "硬是给有座位的乘客弄成站票了",
+      "onboard_time": 1710398734,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 321913,
@@ -723,14 +747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297183,
-      "num": 297183,
-      "word": "硬是给有座位的乘客弄成站票了",
-      "onboard_time": 1710398734,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 295689,
       "num": 295689,
       "word": "粥饼伦称不想让孩子再过苦日子",
@@ -771,12 +787,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 267697,
-      "num": 267697,
-      "word": "Gucci签下羽生结弦",
-      "onboard_time": 1710400053,
-      "rank": 20,
-      "category": "体育,时尚"
+      "raw_hot": 273128,
+      "num": 273128,
+      "word": "外卖黑勺是最脏的",
+      "onboard_time": 1710401134,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272385,
+      "num": 272385,
+      "word": "张婧仪以为天大是形容词",
+      "onboard_time": 1710399513,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 269954,
+      "num": 269954,
+      "word": "为什么建议吃完苹果要漱口",
+      "onboard_time": 1710399993,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 266804,
@@ -851,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242061,
-      "num": 242061,
-      "word": "张婧仪以为天大是形容词",
-      "onboard_time": 1710399513,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 241800,
       "num": 241741,
       "word": "这束35元的花真的好漂亮",
@@ -881,6 +905,14 @@
       "onboard_time": 1710379770,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 238746,
+      "num": 238746,
+      "word": "孙千陈靖可居家大片",
+      "onboard_time": 1710401134,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 237782,
@@ -923,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230482,
+      "num": 230482,
+      "word": "杨紫杂志",
+      "onboard_time": 1710401073,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 229913,
       "num": 209896,
       "word": "5岁男孩阳台坠亡时奶奶姥姥在打麻将",
@@ -963,10 +1003,26 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 225983,
+      "num": 225983,
+      "word": "60元的酸奶碗是智商税吗",
+      "onboard_time": 1710400355,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222775,
       "num": 222775,
       "word": "沈璃强吻行止",
       "onboard_time": 1710394954,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 222003,
+      "num": 222003,
+      "word": "赵丽颖林更新床咚戏",
+      "onboard_time": 1710399812,
       "rank": 30,
       "category": "剧集"
     },
@@ -1035,14 +1091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211802,
-      "num": 211802,
-      "word": "伊藤美诚3比2平野美宇",
-      "onboard_time": 1710400474,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 211515,
       "num": 213721,
       "word": "小日子",
@@ -1081,14 +1129,6 @@
       "onboard_time": 1710396813,
       "rank": 35,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 209641,
-      "num": 209641,
-      "word": "赵丽颖林更新床咚戏",
-      "onboard_time": 1710399812,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 208505,
@@ -1145,6 +1185,14 @@
       "onboard_time": 1710386134,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203323,
+      "num": 223881,
+      "word": "东部战区实战化训练高燃现场",
+      "onboard_time": 1710400172,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 203054,
@@ -1235,14 +1283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 190068,
-      "num": 190068,
-      "word": "为什么建议吃完苹果要漱口",
-      "onboard_time": 1710399993,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 187447,
       "num": 187447,
       "word": "吉利被曝车内甲醛超标",
@@ -1323,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177071,
+      "num": 177071,
+      "word": "马龙林高远",
+      "onboard_time": 1710401553,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175727,
       "num": 175727,
       "word": "花间令桃林氛围",
@@ -1347,20 +1395,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171520,
+      "num": 171520,
+      "word": "家属透露宠物高压氧舱事故非人为因素",
+      "onboard_time": 1710400951,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171129,
       "num": 171129,
       "word": "陈梦王曼昱晋级4强",
       "onboard_time": 1710399692,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166350,
-      "num": 166350,
-      "word": "60元的酸奶碗是智商税吗",
-      "onboard_time": 1710400355,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166344,
@@ -1393,14 +1441,6 @@
       "onboard_time": 1710378691,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 164239,
-      "num": 209761,
-      "word": "东部战区实战化训练高燃现场",
-      "onboard_time": 1710400172,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 164142,
@@ -1457,6 +1497,14 @@
       "onboard_time": 1710388172,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153870,
+      "num": 153870,
+      "word": "每次洗完头都能扯下一把头发",
+      "onboard_time": 1710401495,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 152781,
@@ -1569,6 +1617,14 @@
       "onboard_time": 1710325893,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139681,
+      "num": 139681,
+      "word": "张远曾患躁郁症",
+      "onboard_time": 1710401495,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139662,
