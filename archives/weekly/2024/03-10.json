@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710383641876,
+  "endTime": 1710386319673,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -96,6 +96,14 @@
       "word": "素媛案强奸犯擅自外出",
       "onboard_time": 1710236253,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2407885,
+      "num": 2407885,
+      "word": "警方回应男孩遭3名同学杀害并掩埋",
+      "onboard_time": 1710384272,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -195,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1984124,
+      "num": 1383050,
+      "word": "山竹",
+      "onboard_time": 1710380969,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1975686,
       "num": 1975686,
       "word": "阿沁老婆涉毒被捕",
@@ -209,14 +225,6 @@
       "onboard_time": 1710225810,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1970675,
-      "num": 1383050,
-      "word": "山竹",
-      "onboard_time": 1710380969,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 1969424,
@@ -1171,6 +1179,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 963989,
+      "num": 963989,
+      "word": "清华大学教授称大学越来越像工厂",
+      "onboard_time": 1710383430,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 962327,
       "num": 354215,
       "word": "陈建斌搂蒋勤勤与路人合照",
@@ -1563,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 772875,
+      "num": 772875,
+      "word": "婚礼后男方拒领证要回5万多彩礼",
+      "onboard_time": 1710380369,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 767903,
       "num": 767903,
       "word": "双胞胎哥哥为脑瘫弟弟建了一个家",
@@ -1689,14 +1713,6 @@
       "onboard_time": 1710256414,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 728775,
-      "num": 728775,
-      "word": "婚礼后男方拒领证要回5万多彩礼",
-      "onboard_time": 1710380369,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 728267,
@@ -2243,6 +2259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 599709,
+      "num": 599709,
+      "word": "长风破浪央视定档",
+      "onboard_time": 1710384272,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 598912,
       "num": 598912,
       "word": "赵丽颖看着奖杯笑了",
@@ -2633,6 +2657,14 @@
       "onboard_time": 1710295533,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 534428,
+      "num": 534428,
+      "word": "Prada品牌大使檀健次",
+      "onboard_time": 1710383791,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 532439,
@@ -3299,6 +3331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452975,
+      "num": 452975,
+      "word": "特斯拉成新任贬值之王",
+      "onboard_time": 1710381870,
+      "rank": 28,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 451528,
       "num": 451528,
       "word": "为什么百香果不能带进监狱",
@@ -3313,6 +3353,14 @@
       "onboard_time": 1710061052,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 445987,
+      "num": 445987,
+      "word": "赵露思上小学时的毕业照",
+      "onboard_time": 1710385293,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 444835,
@@ -3753,6 +3801,14 @@
       "onboard_time": 1710302374,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 389398,
+      "num": 389398,
+      "word": "这一次周生辰反抗了",
+      "onboard_time": 1710380850,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 388538,
@@ -4227,14 +4283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 344450,
-      "num": 344450,
-      "word": "这一次周生辰反抗了",
-      "onboard_time": 1710380850,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 344210,
       "num": 344210,
       "word": "白敬亭潮牌成立娱乐公司",
@@ -4345,6 +4393,14 @@
       "onboard_time": 1710139227,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 336443,
+      "num": 336443,
+      "word": "和府捞面被曝含预制菜",
+      "onboard_time": 1710384634,
+      "rank": 19,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 336220,
@@ -5083,6 +5139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280650,
+      "num": 280650,
+      "word": "代孕黑市称优质卵子可售100万",
+      "onboard_time": 1710385231,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279759,
       "num": 279759,
       "word": "小米集团涨超10%",
@@ -5361,6 +5425,14 @@
       "onboard_time": 1710238233,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 263853,
+      "num": 263853,
+      "word": "对象重病时你中了200w",
+      "onboard_time": 1710385651,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 263683,
@@ -5691,14 +5763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248400,
-      "num": 248400,
-      "word": "特斯拉成新任贬值之王",
-      "onboard_time": 1710381870,
-      "rank": 28,
-      "category": "汽车,财经"
-    },
-    {
       "raw_hot": 248244,
       "num": 248244,
       "word": "微信里你不知道的小妙招",
@@ -5907,6 +5971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241800,
+      "num": 213704,
+      "word": "这束35元的花真的好漂亮",
+      "onboard_time": 1710385469,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241718,
       "num": 217684,
       "word": "易烊千玺鼻梁痣",
@@ -5937,6 +6009,14 @@
       "onboard_time": 1710128371,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 241292,
+      "num": 241292,
+      "word": "宫崎骏新片内地定档",
+      "onboard_time": 1710383791,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 241074,
@@ -6225,6 +6305,14 @@
       "onboard_time": 1710241655,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 227672,
+      "num": 227672,
+      "word": "十个勤天或将录制hi6",
+      "onboard_time": 1710386254,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 227341,
@@ -6539,6 +6627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217859,
+      "num": 217859,
+      "word": "被曾经喜欢的男生表白了",
+      "onboard_time": 1710383612,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217719,
       "num": 217719,
       "word": "原来饮料瓶盖可以按印泥盖章",
@@ -6691,6 +6787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213683,
+      "num": 213683,
+      "word": "白色情人节",
+      "onboard_time": 1710385952,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213609,
       "num": 213609,
       "word": "Hero又到栖霞山植树了",
@@ -6785,6 +6889,14 @@
       "onboard_time": 1710235233,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 211515,
+      "num": 213721,
+      "word": "小日子",
+      "onboard_time": 1710384331,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 211418,
@@ -7273,6 +7385,14 @@
       "onboard_time": 1710167433,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 199861,
+      "num": 199861,
+      "word": "童瑶到底看了多少短剧",
+      "onboard_time": 1710384151,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 199840,
@@ -7923,14 +8043,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187485,
-      "num": 187485,
-      "word": "清华大学教授称大学越来越像工厂",
-      "onboard_time": 1710383430,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 187447,
       "num": 187447,
       "word": "吉利被曝车内甲醛超标",
@@ -8049,6 +8161,14 @@
       "onboard_time": 1710234396,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 185073,
+      "num": 185073,
+      "word": "杨鸣 再出发",
+      "onboard_time": 1710386134,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 184616,
@@ -9003,6 +9123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163091,
+      "num": 163091,
+      "word": "多位批发商称钟薛高早已停产",
+      "onboard_time": 1710385770,
+      "rank": 41,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 162579,
       "num": 162579,
       "word": "周处除三害票房破4亿",
@@ -9057,6 +9185,14 @@
       "onboard_time": 1710035550,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161421,
+      "num": 161421,
+      "word": "王一博受刑戏破碎感",
+      "onboard_time": 1710383252,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 161191,
@@ -10171,6 +10307,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 139662,
+      "num": 139662,
+      "word": "燕郊爆燃亲历者回忆被困电梯",
+      "onboard_time": 1710385051,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139611,
       "num": 139611,
       "word": "猫乃伊",
@@ -10241,14 +10385,6 @@
       "onboard_time": 1710046830,
       "rank": 36,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 137813,
-      "num": 137813,
-      "word": "被曾经喜欢的男生表白了",
-      "onboard_time": 1710383612,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 137736,
@@ -10563,14 +10699,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 132527,
-      "num": 132527,
-      "word": "王一博受刑戏破碎感",
-      "onboard_time": 1710383252,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132095,
       "num": 132095,
       "word": "利物浦1比1曼城",
@@ -10593,6 +10721,14 @@
       "onboard_time": 1710333272,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131756,
+      "num": 131756,
+      "word": "这些减肥谣言你信过几个",
+      "onboard_time": 1710383911,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 131104,
@@ -10755,6 +10891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127924,
+      "num": 127924,
+      "word": "决定婚前同居时爸爸发来的信息",
+      "onboard_time": 1710386193,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127813,
       "num": 127813,
       "word": "NV单局20淘汰",
@@ -10833,6 +10977,14 @@
       "onboard_time": 1709990133,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126137,
+      "num": 126137,
+      "word": "婚后幸福这一刻具像化了",
+      "onboard_time": 1710385711,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 126101,
@@ -11617,6 +11769,14 @@
       "onboard_time": 1709991575,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103164,
+      "num": 334141,
+      "word": "年轻人记录的春天有多美",
+      "onboard_time": 1710384331,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102989,

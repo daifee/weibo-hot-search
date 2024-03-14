@@ -1,6 +1,6 @@
 {
   "startTime": 1710346860842,
-  "endTime": 1710383641876,
+  "endTime": 1710386319673,
   "band_list": [
     {
       "raw_hot": 3029620,
@@ -8,6 +8,14 @@
       "word": "29岁女儿不结婚父亲代孕延续后代",
       "onboard_time": 1710378871,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2407885,
+      "num": 2407885,
+      "word": "警方回应男孩遭3名同学杀害并掩埋",
+      "onboard_time": 1710384272,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -19,7 +27,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1970675,
+      "raw_hot": 1984124,
       "num": 1383050,
       "word": "山竹",
       "onboard_time": 1710380969,
@@ -99,8 +107,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 728775,
-      "num": 728775,
+      "raw_hot": 963989,
+      "num": 963989,
+      "word": "清华大学教授称大学越来越像工厂",
+      "onboard_time": 1710383430,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 772875,
+      "num": 772875,
       "word": "婚礼后男方拒领证要回5万多彩礼",
       "onboard_time": 1710380369,
       "rank": 17,
@@ -147,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 599709,
+      "num": 599709,
+      "word": "长风破浪央视定档",
+      "onboard_time": 1710384272,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 576507,
       "num": 309184,
       "word": "美众议院通过TikTok法案",
@@ -169,6 +193,14 @@
       "onboard_time": 1710331656,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 534428,
+      "num": 534428,
+      "word": "Prada品牌大使檀健次",
+      "onboard_time": 1710383791,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 517627,
@@ -219,6 +251,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 452975,
+      "num": 452975,
+      "word": "特斯拉成新任贬值之王",
+      "onboard_time": 1710381870,
+      "rank": 28,
+      "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 445987,
+      "num": 445987,
+      "word": "赵露思上小学时的毕业照",
+      "onboard_time": 1710385293,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443657,
       "num": 443657,
       "word": "迪丽热巴春晚摔骨裂",
@@ -257,6 +305,14 @@
       "onboard_time": 1710339455,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389398,
+      "num": 389398,
+      "word": "这一次周生辰反抗了",
+      "onboard_time": 1710380850,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 383294,
@@ -323,12 +379,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 344450,
-      "num": 344450,
-      "word": "这一次周生辰反抗了",
-      "onboard_time": 1710380850,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 336443,
+      "num": 336443,
+      "word": "和府捞面被曝含预制菜",
+      "onboard_time": 1710384634,
+      "rank": 19,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 326997,
@@ -363,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280650,
+      "num": 280650,
+      "word": "代孕黑市称优质卵子可售100万",
+      "onboard_time": 1710385231,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274281,
       "num": 274281,
       "word": "25岁以后不再觉得高敏感是一种错",
@@ -377,6 +441,14 @@
       "onboard_time": 1710336275,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263853,
+      "num": 263853,
+      "word": "对象重病时你中了200w",
+      "onboard_time": 1710385651,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 248652,
@@ -395,20 +467,28 @@
       "category": "社会新闻,剧集"
     },
     {
-      "raw_hot": 248400,
-      "num": 248400,
-      "word": "特斯拉成新任贬值之王",
-      "onboard_time": 1710381870,
-      "rank": 28,
-      "category": "汽车,财经"
-    },
-    {
       "raw_hot": 243310,
       "num": 243310,
       "word": "面对女儿的拥抱她下意识躲开了",
       "onboard_time": 1710337416,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241800,
+      "num": 213704,
+      "word": "这束35元的花真的好漂亮",
+      "onboard_time": 1710385469,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 241292,
+      "num": 241292,
+      "word": "宫崎骏新片内地定档",
+      "onboard_time": 1710383791,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 240941,
@@ -467,12 +547,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 227672,
+      "num": 227672,
+      "word": "十个勤天或将录制hi6",
+      "onboard_time": 1710386254,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226748,
       "num": 226748,
       "word": "一天刷7个小时短视频不刷不舒服",
       "onboard_time": 1710375389,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 223013,
+      "num": 223013,
+      "word": "凯特王妃",
+      "onboard_time": 1710386134,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 217859,
+      "num": 217859,
+      "word": "被曾经喜欢的男生表白了",
+      "onboard_time": 1710383612,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 217338,
@@ -491,6 +595,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 213683,
+      "num": 213683,
+      "word": "白色情人节",
+      "onboard_time": 1710385952,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213304,
       "num": 213304,
       "word": "任嘉伦观众缘",
@@ -504,6 +616,14 @@
       "word": "成毅鱼花灯",
       "onboard_time": 1710347366,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 211515,
+      "num": 213721,
+      "word": "小日子",
+      "onboard_time": 1710384331,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -555,6 +675,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 199861,
+      "num": 199861,
+      "word": "童瑶到底看了多少短剧",
+      "onboard_time": 1710384151,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197330,
       "num": 197330,
       "word": "戴高乐长子去世",
@@ -579,20 +707,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187485,
-      "num": 187485,
-      "word": "清华大学教授称大学越来越像工厂",
-      "onboard_time": 1710383430,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 187447,
       "num": 187447,
       "word": "吉利被曝车内甲醛超标",
       "onboard_time": 1710381751,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 185073,
+      "num": 185073,
+      "word": "杨鸣 再出发",
+      "onboard_time": 1710386134,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 184616,
@@ -675,12 +803,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 163091,
+      "num": 163091,
+      "word": "多位批发商称钟薛高早已停产",
+      "onboard_time": 1710385770,
+      "rank": 41,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 161628,
       "num": 161628,
       "word": "爱着急上火小心诱发青光眼",
       "onboard_time": 1710378691,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 161421,
+      "num": 161421,
+      "word": "王一博受刑戏破碎感",
+      "onboard_time": 1710383252,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 151574,
@@ -739,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139662,
+      "num": 139662,
+      "word": "燕郊爆燃亲历者回忆被困电梯",
+      "onboard_time": 1710385051,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139611,
       "num": 139611,
       "word": "猫乃伊",
@@ -771,14 +923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137813,
-      "num": 137813,
-      "word": "被曾经喜欢的男生表白了",
-      "onboard_time": 1710383612,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 135360,
       "num": 135360,
       "word": "刘宇方回应抄袭张艺兴争议",
@@ -803,12 +947,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 132527,
-      "num": 132527,
-      "word": "王一博受刑戏破碎感",
-      "onboard_time": 1710383252,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 131756,
+      "num": 131756,
+      "word": "这些减肥谣言你信过几个",
+      "onboard_time": 1710383911,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 128500,
@@ -817,6 +961,14 @@
       "onboard_time": 1710374731,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127924,
+      "num": 127924,
+      "word": "决定婚前同居时爸爸发来的信息",
+      "onboard_time": 1710386193,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 127906,
@@ -857,6 +1009,14 @@
       "onboard_time": 1710371725,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126137,
+      "num": 126137,
+      "word": "婚后幸福这一刻具像化了",
+      "onboard_time": 1710385711,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 123559,
@@ -929,6 +1089,14 @@
       "onboard_time": 1710334833,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103164,
+      "num": 334141,
+      "word": "年轻人记录的春天有多美",
+      "onboard_time": 1710384331,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99010,

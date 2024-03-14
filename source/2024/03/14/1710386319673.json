@@ -1,0 +1,410 @@
+{
+  "runTime": 1710386319673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2407885,
+        "num": 2407885,
+        "word": "警方回应男孩遭3名同学杀害并掩埋",
+        "onboard_time": 1710384272,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 963989,
+        "num": 963989,
+        "word": "清华大学教授称大学越来越像工厂",
+        "onboard_time": 1710383430,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17969,
+        "num": 916279,
+        "word": "开展国家勋章和国家荣誉称号评选颁授",
+        "onboard_time": 1710333872,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 911482,
+        "num": 911482,
+        "word": "台媒称大陆渔船在金门外海翻覆",
+        "onboard_time": 1710382168,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 772875,
+        "num": 772875,
+        "word": "婚礼后男方拒领证要回5万多彩礼",
+        "onboard_time": 1710380369,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649735,
+        "num": 649735,
+        "word": "燕郊爆燃事故致7死27伤",
+        "onboard_time": 1710356418,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599709,
+        "num": 599709,
+        "word": "长风破浪央视定档",
+        "onboard_time": 1710384272,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 534428,
+        "num": 534428,
+        "word": "Prada品牌大使檀健次",
+        "onboard_time": 1710383791,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452975,
+        "num": 452975,
+        "word": "特斯拉成新任贬值之王",
+        "onboard_time": 1710381870,
+        "rank": 8,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 445987,
+        "num": 445987,
+        "word": "赵露思上小学时的毕业照",
+        "onboard_time": 1710385293,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2146473,
+        "num": 444343,
+        "word": "29岁女儿不结婚父亲代孕延续后代",
+        "onboard_time": 1710378871,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1984124,
+        "num": 440958,
+        "word": "山竹",
+        "onboard_time": 1710380969,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 931663,
+        "num": 440560,
+        "word": "Angelababy白色高定",
+        "onboard_time": 1710380431,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 437057,
+        "num": 437057,
+        "word": "孙俪长发",
+        "onboard_time": 1710374973,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465868,
+        "num": 431148,
+        "word": "独生女举报62岁父亲代孕生儿子",
+        "onboard_time": 1710342695,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418436,
+        "num": 418436,
+        "word": "删了吧我有个朋友破防了",
+        "onboard_time": 1710375453,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 391286,
+        "num": 391286,
+        "word": "巴勒斯坦男孩放烟花遭枪击身亡",
+        "onboard_time": 1710380009,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 389398,
+        "num": 389398,
+        "word": "这一次周生辰反抗了",
+        "onboard_time": 1710380850,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352103,
+        "num": 352103,
+        "word": "喝咖啡建议一天别超过1200毫升",
+        "onboard_time": 1710373470,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 336443,
+        "num": 336443,
+        "word": "和府捞面被曝含预制菜",
+        "onboard_time": 1710384634,
+        "rank": 19,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 103164,
+        "num": 334141,
+        "word": "年轻人记录的春天有多美",
+        "onboard_time": 1710384331,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332931,
+        "num": 332931,
+        "word": "租房千万别租串串房",
+        "onboard_time": 1710378871,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280650,
+        "num": 280650,
+        "word": "代孕黑市称优质卵子可售100万",
+        "onboard_time": 1710385231,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263853,
+        "num": 263853,
+        "word": "对象重病时你中了200w",
+        "onboard_time": 1710385651,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241292,
+        "num": 241292,
+        "word": "宫崎骏新片内地定档",
+        "onboard_time": 1710383791,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227672,
+        "num": 227672,
+        "word": "十个勤天或将录制hi6",
+        "onboard_time": 1710386254,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223013,
+        "num": 223013,
+        "word": "凯特王妃",
+        "onboard_time": 1710386134,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 217859,
+        "num": 217859,
+        "word": "被曾经喜欢的男生表白了",
+        "onboard_time": 1710383612,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217237,
+        "num": 217237,
+        "word": "阿姨卖夹饼90度敞开往里塞肉",
+        "onboard_time": 1710357257,
+        "rank": 28,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 211515,
+        "num": 213721,
+        "word": "小日子",
+        "onboard_time": 1710384331,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241800,
+        "num": 213704,
+        "word": "这束35元的花真的好漂亮",
+        "onboard_time": 1710385469,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213683,
+        "num": 213683,
+        "word": "白色情人节",
+        "onboard_time": 1710385952,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211777,
+        "num": 211777,
+        "word": "分手断联21天定律",
+        "onboard_time": 1710377315,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206240,
+        "num": 206240,
+        "word": "HPV疫苗等九价还是有啥打啥",
+        "onboard_time": 1710378987,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199861,
+        "num": 199861,
+        "word": "童瑶到底看了多少短剧",
+        "onboard_time": 1710384151,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191895,
+        "num": 191895,
+        "word": "张元英身材比例",
+        "onboard_time": 1710376715,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185635,
+        "num": 185635,
+        "word": "五月天 北京",
+        "onboard_time": 1710373649,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185073,
+        "num": 185073,
+        "word": "杨鸣 再出发",
+        "onboard_time": 1710386134,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175939,
+        "num": 175939,
+        "word": "请病假还走了两万的微信步数",
+        "onboard_time": 1710372683,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165275,
+        "num": 165275,
+        "word": "爱情公寓演员试镜视频",
+        "onboard_time": 1710373470,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157539,
+        "num": 163807,
+        "word": "山竹发博回应翻唱事件始末",
+        "onboard_time": 1710383371,
+        "rank": 40,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 163091,
+        "num": 163091,
+        "word": "多位批发商称钟薛高早已停产",
+        "onboard_time": 1710385770,
+        "rank": 41,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 161421,
+        "num": 161421,
+        "word": "王一博受刑戏破碎感",
+        "onboard_time": 1710383252,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155263,
+        "num": 155263,
+        "word": "花4千网购85寸大电视收到一个小饰品",
+        "onboard_time": 1710377792,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153134,
+        "num": 153134,
+        "word": "李一桐狐妖王权篇跳舞路透",
+        "onboard_time": 1710375514,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142916,
+        "num": 142916,
+        "word": "TheBodyShop宣布破产",
+        "onboard_time": 1710380850,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 139662,
+        "num": 139662,
+        "word": "燕郊爆燃亲历者回忆被困电梯",
+        "onboard_time": 1710385051,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131756,
+        "num": 131756,
+        "word": "这些减肥谣言你信过几个",
+        "onboard_time": 1710383911,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 127924,
+        "num": 127924,
+        "word": "决定婚前同居时爸爸发来的信息",
+        "onboard_time": 1710386193,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126137,
+        "num": 126137,
+        "word": "婚后幸福这一刻具像化了",
+        "onboard_time": 1710385711,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把职业教育发展好要树立工匠精神#"
+    }
+  }
+}
