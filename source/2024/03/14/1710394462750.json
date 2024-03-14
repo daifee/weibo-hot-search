@@ -1,0 +1,410 @@
+{
+  "runTime": 1710394462750,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1605275,
+        "num": 1605275,
+        "word": "凯特王妃",
+        "onboard_time": 1710386134,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1232377,
+        "num": 1232377,
+        "word": "宠物医院高压氧舱事故受伤女子去世",
+        "onboard_time": 1710389014,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10530,
+        "num": 974617,
+        "word": "开展国家勋章和国家荣誉称号评选颁授",
+        "onboard_time": 1710333872,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 880678,
+        "num": 880678,
+        "word": "朱梓骁的不耐烦不像演的",
+        "onboard_time": 1710391418,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 843792,
+        "num": 843792,
+        "word": "请回答1988珍珠13岁近照",
+        "onboard_time": 1710388595,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 743357,
+        "num": 743357,
+        "word": "死者父亲称孩子生前长期被霸凌",
+        "onboard_time": 1710393153,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671674,
+        "num": 671674,
+        "word": "韩国一天内511名医学生申请休学",
+        "onboard_time": 1710389914,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 636001,
+        "num": 636001,
+        "word": "张雪峰谈大学越来越像工厂说法",
+        "onboard_time": 1710390695,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 562804,
+        "num": 562804,
+        "word": "ChatGPT有身体了",
+        "onboard_time": 1710390395,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 538229,
+        "num": 538229,
+        "word": "四川监狱评邯郸男孩遭同学杀害",
+        "onboard_time": 1710392674,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1216651,
+        "num": 536698,
+        "word": "警方回应男孩遭3名同学杀害并掩埋",
+        "onboard_time": 1710384272,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1032746,
+        "num": 535671,
+        "word": "29岁女儿不结婚父亲代孕延续后代",
+        "onboard_time": 1710378871,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711355,
+        "num": 535631,
+        "word": "山竹",
+        "onboard_time": 1710380969,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 534524,
+        "num": 534524,
+        "word": "代孕黑市称优质卵子可售100万",
+        "onboard_time": 1710385231,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498444,
+        "num": 498444,
+        "word": "刘亦菲17岁跑步旧照",
+        "onboard_time": 1710390875,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443048,
+        "num": 443048,
+        "word": "檀健次没有一次美容是白做的",
+        "onboard_time": 1710390756,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386836,
+        "num": 386836,
+        "word": "侃爷妻子与卡戴珊同框",
+        "onboard_time": 1710389555,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362005,
+        "num": 362005,
+        "word": "清华大学教授称大学越来越像工厂",
+        "onboard_time": 1710383430,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 359346,
+        "num": 359346,
+        "word": "Angelababy白色高定",
+        "onboard_time": 1710380431,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 322876,
+        "num": 322876,
+        "word": "男子开车带妻子体检遇爆炸不幸身亡",
+        "onboard_time": 1710393992,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316902,
+        "num": 316902,
+        "word": "燕郊爆燃事故致7死27伤",
+        "onboard_time": 1710356418,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302108,
+        "num": 302108,
+        "word": "恋爱同居期间金钱往来是彩礼还是赠与",
+        "onboard_time": 1710390455,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294534,
+        "num": 294534,
+        "word": "杨迪模仿向佐鼻孔",
+        "onboard_time": 1710393153,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291080,
+        "num": 291080,
+        "word": "最强大脑去日本踢馆了",
+        "onboard_time": 1710393514,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272166,
+        "num": 272166,
+        "word": "长风破浪央视定档",
+        "onboard_time": 1710384272,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249286,
+        "num": 249286,
+        "word": "黄子佼与性骚扰被害人和解成功",
+        "onboard_time": 1710394173,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246888,
+        "num": 246888,
+        "word": "外地人被甘肃天水麻辣烫整懵了",
+        "onboard_time": 1710393214,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 244060,
+        "num": 244060,
+        "word": "TikTok还有翻盘的机会吗",
+        "onboard_time": 1710387635,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 229165,
+        "num": 229165,
+        "word": "天水麻辣烫",
+        "onboard_time": 1710386795,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 222274,
+        "num": 222274,
+        "word": "赵露思上小学时的毕业照",
+        "onboard_time": 1710385293,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208832,
+        "num": 208832,
+        "word": "对象重病时你中了200w",
+        "onboard_time": 1710385651,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208573,
+        "num": 208573,
+        "word": "在TikTok上卖车三个月入账2000万",
+        "onboard_time": 1710394116,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 203379,
+        "num": 203379,
+        "word": "枭起青壤",
+        "onboard_time": 1710388833,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86404,
+        "num": 194439,
+        "word": "你的手机屏幕在室外够亮吗",
+        "onboard_time": 1710394116,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 193691,
+        "num": 193691,
+        "word": "光与夜之恋 千日相伴",
+        "onboard_time": 1710394055,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185599,
+        "num": 185599,
+        "word": "赵露思费加罗开季封",
+        "onboard_time": 1710392797,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177732,
+        "num": 177732,
+        "word": "决定婚前同居时爸爸发来的信息",
+        "onboard_time": 1710386193,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173851,
+        "num": 173851,
+        "word": "广州一公司设1000万婚育金男性领取须做题",
+        "onboard_time": 1710392737,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171026,
+        "num": 171026,
+        "word": "原神 情人节贺图",
+        "onboard_time": 1710389433,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169841,
+        "num": 169841,
+        "word": "分手断联21天定律",
+        "onboard_time": 1710377315,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169081,
+        "num": 169081,
+        "word": "独生女举报62岁父亲代孕生儿子",
+        "onboard_time": 1710342695,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166853,
+        "num": 166853,
+        "word": "市民在上海街头偶遇商战现场",
+        "onboard_time": 1710394116,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161815,
+        "num": 161815,
+        "word": "和府捞面被曝含预制菜",
+        "onboard_time": 1710384634,
+        "rank": 42,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 160597,
+        "num": 160597,
+        "word": "孙俪长发",
+        "onboard_time": 1710374973,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154568,
+        "num": 154568,
+        "word": "刘耀文驾照到手",
+        "onboard_time": 1710390337,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151199,
+        "num": 151199,
+        "word": "傅融神游",
+        "onboard_time": 1710393813,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150465,
+        "num": 150465,
+        "word": "外来媳妇本地郎演员今昔对比",
+        "onboard_time": 1710392316,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149269,
+        "num": 149269,
+        "word": "台媒称大陆渔船在金门外海翻覆",
+        "onboard_time": 1710382168,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144382,
+        "num": 144382,
+        "word": "谈恋爱要势均力敌的精神状态",
+        "onboard_time": 1710390936,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136478,
+        "num": 136478,
+        "word": "五月天经纪公司回应网传开北京演唱会",
+        "onboard_time": 1710386795,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#环境资源界人士在绿色转型中发挥了积极作用#"
+    }
+  }
+}
