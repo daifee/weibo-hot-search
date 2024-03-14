@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710381805699,
+  "endTime": 1710382938396,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -129,6 +129,14 @@
       "onboard_time": 1709366072,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2945184,
+      "num": 2945184,
+      "word": "29岁女儿不结婚父亲代孕延续后代",
+      "onboard_time": 1710378871,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2928217,
@@ -296,14 +304,6 @@
       "word": "蓝可儿等16人殒命酒店挂牌出售",
       "onboard_time": 1709942365,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2218718,
-      "num": 2218718,
-      "word": "29岁女儿不结婚父亲代孕延续后代",
-      "onboard_time": 1710378871,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1321,6 +1321,14 @@
       "onboard_time": 1709463331,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1383050,
+      "num": 1383050,
+      "word": "山竹",
+      "onboard_time": 1710380969,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 1381267,
@@ -2729,6 +2737,14 @@
       "onboard_time": 1709425587,
       "rank": 1,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 1008559,
+      "num": 514524,
+      "word": "Angelababy白色高定",
+      "onboard_time": 1710380431,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1000768,
@@ -5091,14 +5107,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 687007,
-      "num": 379830,
-      "word": "Angelababy白色高定",
-      "onboard_time": 1710380431,
-      "rank": 11,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 686728,
       "num": 686728,
       "word": "成龙金泰亨合作",
@@ -5443,6 +5451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 661371,
+      "num": 661371,
+      "word": "巴勒斯坦男孩放烟花遭枪击身亡",
+      "onboard_time": 1710380009,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 661361,
       "num": 331999,
       "word": "90后女硕士8年筛查出12000名艾滋患者",
@@ -5769,6 +5785,14 @@
       "onboard_time": 1709377169,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 639808,
+      "num": 639808,
+      "word": "台媒称大陆渔船在金门外海翻覆",
+      "onboard_time": 1710382168,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 639593,
@@ -6196,7 +6220,7 @@
     },
     {
       "raw_hot": 608626,
-      "num": 291913,
+      "num": 295956,
       "word": "分手断联21天定律",
       "onboard_time": 1710377315,
       "rank": 20,
@@ -6601,14 +6625,6 @@
       "onboard_time": 1709344168,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 579974,
-      "num": 579974,
-      "word": "巴勒斯坦男孩放烟花遭枪击身亡",
-      "onboard_time": 1710380009,
-      "rank": 6,
-      "category": "国外时政"
     },
     {
       "raw_hot": 579877,
@@ -7721,6 +7737,14 @@
       "onboard_time": 1709273131,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 524316,
+      "num": 524316,
+      "word": "婚礼后男方拒领证要回5万多彩礼",
+      "onboard_time": 1710380369,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 523806,
@@ -8891,6 +8915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 467665,
+      "num": 467665,
+      "word": "邯郸",
+      "onboard_time": 1710377914,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 467420,
       "num": 428918,
       "word": "体制内被同事删除微信",
@@ -9385,6 +9417,14 @@
       "onboard_time": 1709721273,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 443904,
+      "num": 443904,
+      "word": "租房千万别租串串房",
+      "onboard_time": 1710378871,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 443651,
@@ -9905,14 +9945,6 @@
       "onboard_time": 1710306934,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 424921,
-      "num": 424921,
-      "word": "邯郸",
-      "onboard_time": 1710377914,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 424290,
@@ -11171,14 +11203,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 376999,
-      "num": 376999,
-      "word": "租房千万别租串串房",
-      "onboard_time": 1710378871,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 376862,
       "num": 304808,
       "word": "阿姨被辞退后发信息轰炸我",
@@ -11657,14 +11681,6 @@
       "onboard_time": 1709455590,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 362246,
-      "num": 362246,
-      "word": "山竹",
-      "onboard_time": 1710380969,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 362159,
@@ -12171,6 +12187,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 346175,
+      "num": 346175,
+      "word": "为什么大学生不快乐",
+      "onboard_time": 1710377372,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 345475,
       "num": 288709,
       "word": "女子将男友30多只鞋子从35楼扔下",
@@ -12491,6 +12515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 336420,
+      "num": 294471,
+      "word": "HPV疫苗等九价还是有啥打啥",
+      "onboard_time": 1710378987,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 336220,
       "num": 336220,
       "word": "高君雨",
@@ -12617,14 +12649,6 @@
       "onboard_time": 1709630253,
       "rank": 21,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 333500,
-      "num": 291386,
-      "word": "HPV疫苗等九价还是有啥打啥",
-      "onboard_time": 1710378987,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 333482,
@@ -13121,14 +13145,6 @@
       "onboard_time": 1709868149,
       "rank": 29,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 318564,
-      "num": 318564,
-      "word": "婚礼后男方拒领证要回5万多彩礼",
-      "onboard_time": 1710380369,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 318331,
@@ -13803,6 +13819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301839,
+      "num": 301839,
+      "word": "这一次周生辰反抗了",
+      "onboard_time": 1710380850,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301318,
       "num": 575520,
       "word": "柯基在我国警犬界也有姓名了",
@@ -14065,14 +14089,6 @@
       "onboard_time": 1710311133,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295937,
-      "num": 295937,
-      "word": "为什么大学生不快乐",
-      "onboard_time": 1710377372,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 295828,
@@ -16915,6 +16931,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 240941,
+      "num": 240941,
+      "word": "肾不好的预警信号有哪些",
+      "onboard_time": 1710379770,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 240814,
       "num": 240814,
       "word": "陆沉半梦半醒",
@@ -18849,14 +18873,6 @@
       "onboard_time": 1710050127,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 214483,
-      "num": 214483,
-      "word": "肾不好的预警信号有哪些",
-      "onboard_time": 1710379770,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 214436,
@@ -20803,14 +20819,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 198273,
-      "num": 198273,
-      "word": "这一次周生辰反抗了",
-      "onboard_time": 1710380850,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198195,
       "num": 198195,
       "word": "承欢记排播",
@@ -21537,6 +21545,14 @@
       "onboard_time": 1710212850,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194091,
+      "num": 194091,
+      "word": "特斯拉成新任贬值之王",
+      "onboard_time": 1710381870,
+      "rank": 28,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 194021,
@@ -22395,6 +22411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187447,
+      "num": 187447,
+      "word": "吉利被曝车内甲醛超标",
+      "onboard_time": 1710381751,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 187220,
       "num": 187220,
       "word": "大张伟直播",
@@ -22665,6 +22689,14 @@
       "onboard_time": 1709389417,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184616,
+      "num": 184616,
+      "word": "陕西400多岁的古旱莲开花了",
+      "onboard_time": 1710381511,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 184596,
@@ -23905,6 +23937,14 @@
       "onboard_time": 1709818414,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 175727,
+      "num": 175727,
+      "word": "花间令桃林氛围",
+      "onboard_time": 1710382289,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 175719,
@@ -27587,6 +27627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151574,
+      "num": 151574,
+      "word": "浙江宣传评点读机女孩事件",
+      "onboard_time": 1710382289,
+      "rank": 36,
+      "category": "网红,社会新闻"
+    },
+    {
       "raw_hot": 151490,
       "num": 154656,
       "word": "新手友好的春花拍摄技巧",
@@ -29691,6 +29739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138764,
+      "num": 138764,
+      "word": "Fisher脑回路",
+      "onboard_time": 1710381870,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138754,
       "num": 138754,
       "word": "中国跳水队混团夺冠",
@@ -30075,14 +30131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 136438,
-      "num": 136438,
-      "word": "陕西400多岁的古旱莲开花了",
-      "onboard_time": 1710381511,
-      "rank": 40,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 136388,
       "num": 455557,
       "word": "9图看政府工作报告里你关心的事",
@@ -30409,6 +30457,14 @@
       "onboard_time": 1709420899,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134563,
+      "num": 134563,
+      "word": "宋雨琦担任MLB表演嘉宾",
+      "onboard_time": 1710381691,
+      "rank": 49,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 134527,
@@ -33299,14 +33355,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 115439,
-      "num": 115439,
-      "word": "吉利被曝车内甲醛超标",
-      "onboard_time": 1710381751,
-      "rank": 47,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 115216,
       "num": 115216,
       "word": "AG零封RNGM",
@@ -33385,14 +33433,6 @@
       "onboard_time": 1709538331,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 114563,
-      "num": 114563,
-      "word": "宋雨琦担任MLB表演嘉宾",
-      "onboard_time": 1710381691,
-      "rank": 49,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 114496,
@@ -33985,6 +34025,14 @@
       "onboard_time": 1709350231,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110267,
+      "num": 110267,
+      "word": "指甲盖大小的书",
+      "onboard_time": 1710382593,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 110127,

@@ -1,7 +1,15 @@
 {
   "startTime": 1710346860842,
-  "endTime": 1710381805699,
+  "endTime": 1710382938396,
   "band_list": [
+    {
+      "raw_hot": 2945184,
+      "num": 2945184,
+      "word": "29岁女儿不结婚父亲代孕延续后代",
+      "onboard_time": 1710378871,
+      "rank": 11,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2369589,
       "num": 2369589,
@@ -11,20 +19,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2218718,
-      "num": 2218718,
-      "word": "29岁女儿不结婚父亲代孕延续后代",
-      "onboard_time": 1710378871,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1678525,
       "num": 1678525,
       "word": "独生女举报62岁父亲代孕生儿子",
       "onboard_time": 1710342695,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1383050,
+      "num": 1383050,
+      "word": "山竹",
+      "onboard_time": 1710380969,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 1342359,
@@ -67,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1008559,
+      "num": 514524,
+      "word": "Angelababy白色高定",
+      "onboard_time": 1710380431,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 972954,
       "num": 498081,
       "word": "央视记者",
@@ -83,12 +99,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 687007,
-      "num": 379830,
-      "word": "Angelababy白色高定",
-      "onboard_time": 1710380431,
-      "rank": 11,
-      "category": "作品衍生,时尚"
+      "raw_hot": 661371,
+      "num": 661371,
+      "word": "巴勒斯坦男孩放烟花遭枪击身亡",
+      "onboard_time": 1710380009,
+      "rank": 6,
+      "category": "国外时政"
     },
     {
       "raw_hot": 658386,
@@ -99,8 +115,16 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 639808,
+      "num": 639808,
+      "word": "台媒称大陆渔船在金门外海翻覆",
+      "onboard_time": 1710382168,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 608626,
-      "num": 291913,
+      "num": 295956,
       "word": "分手断联21天定律",
       "onboard_time": 1710377315,
       "rank": 20,
@@ -113,14 +137,6 @@
       "onboard_time": 1710372683,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 579974,
-      "num": 579974,
-      "word": "巴勒斯坦男孩放烟花遭枪击身亡",
-      "onboard_time": 1710380009,
-      "rank": 6,
-      "category": "国外时政"
     },
     {
       "raw_hot": 576507,
@@ -147,6 +163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 524316,
+      "num": 524316,
+      "word": "婚礼后男方拒领证要回5万多彩礼",
+      "onboard_time": 1710380369,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 517627,
       "num": 517627,
       "word": "爱情公寓演员试镜视频",
@@ -171,12 +195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 467665,
+      "num": 467665,
+      "word": "邯郸",
+      "onboard_time": 1710377914,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465458,
       "num": 465458,
       "word": "张元英身材比例",
       "onboard_time": 1710376715,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 443904,
+      "num": 443904,
+      "word": "租房千万别租串串房",
+      "onboard_time": 1710378871,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 443657,
@@ -193,14 +233,6 @@
       "onboard_time": 1710316834,
       "rank": 6,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 424921,
-      "num": 424921,
-      "word": "邯郸",
-      "onboard_time": 1710377914,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 423299,
@@ -235,14 +267,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 376999,
-      "num": 376999,
-      "word": "租房千万别租串串房",
-      "onboard_time": 1710378871,
-      "rank": 17,
-      "category": "情感"
-    },
-    {
       "raw_hot": 374790,
       "num": 374790,
       "word": "燕郊爆燃亲历者称又捡一条命",
@@ -257,14 +281,6 @@
       "onboard_time": 1710341916,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 362246,
-      "num": 362246,
-      "word": "山竹",
-      "onboard_time": 1710380969,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 349156,
@@ -291,8 +307,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 333500,
-      "num": 291386,
+      "raw_hot": 346175,
+      "num": 346175,
+      "word": "为什么大学生不快乐",
+      "onboard_time": 1710377372,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 336420,
+      "num": 294471,
       "word": "HPV疫苗等九价还是有啥打啥",
       "onboard_time": 1710378987,
       "rank": 29,
@@ -315,14 +339,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 318564,
-      "num": 318564,
-      "word": "婚礼后男方拒领证要回5万多彩礼",
-      "onboard_time": 1710380369,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310457,
       "num": 207745,
       "word": "代号鸢新池",
@@ -331,12 +347,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 295937,
-      "num": 295937,
-      "word": "为什么大学生不快乐",
-      "onboard_time": 1710377372,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 301839,
+      "num": 301839,
+      "word": "这一次周生辰反抗了",
+      "onboard_time": 1710380850,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 295689,
@@ -385,6 +401,14 @@
       "onboard_time": 1710337416,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240941,
+      "num": 240941,
+      "word": "肾不好的预警信号有哪些",
+      "onboard_time": 1710379770,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 237782,
@@ -451,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214483,
-      "num": 214483,
-      "word": "肾不好的预警信号有哪些",
-      "onboard_time": 1710379770,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 213304,
       "num": 213304,
       "word": "任嘉伦观众缘",
@@ -523,14 +539,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 198273,
-      "num": 198273,
-      "word": "这一次周生辰反抗了",
-      "onboard_time": 1710380850,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197330,
       "num": 197330,
       "word": "戴高乐长子去世",
@@ -547,6 +555,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194091,
+      "num": 194091,
+      "word": "特斯拉成新任贬值之王",
+      "onboard_time": 1710381870,
+      "rank": 28,
+      "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 187447,
+      "num": 187447,
+      "word": "吉利被曝车内甲醛超标",
+      "onboard_time": 1710381751,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 184616,
+      "num": 184616,
+      "word": "陕西400多岁的古旱莲开花了",
+      "onboard_time": 1710381511,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 183014,
       "num": 183014,
       "word": "燕郊爆炸已致2死26伤",
@@ -561,6 +593,14 @@
       "onboard_time": 1710378153,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175727,
+      "num": 175727,
+      "word": "花间令桃林氛围",
+      "onboard_time": 1710382289,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 173634,
@@ -617,6 +657,14 @@
       "onboard_time": 1710378691,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 151574,
+      "num": 151574,
+      "word": "浙江宣传评点读机女孩事件",
+      "onboard_time": 1710382289,
+      "rank": 36,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 148690,
@@ -683,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138764,
+      "num": 138764,
+      "word": "Fisher脑回路",
+      "onboard_time": 1710381870,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138011,
       "num": 138011,
       "word": "烈焰首播口碑",
@@ -691,20 +747,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136438,
-      "num": 136438,
-      "word": "陕西400多岁的古旱莲开花了",
-      "onboard_time": 1710381511,
-      "rank": 40,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 135360,
       "num": 135360,
       "word": "刘宇方回应抄袭张艺兴争议",
       "onboard_time": 1710325473,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 134563,
+      "num": 134563,
+      "word": "宋雨琦担任MLB表演嘉宾",
+      "onboard_time": 1710381691,
+      "rank": 49,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 133792,
@@ -787,28 +843,20 @@
       "category": "健康医疗,美食"
     },
     {
-      "raw_hot": 115439,
-      "num": 115439,
-      "word": "吉利被曝车内甲醛超标",
-      "onboard_time": 1710381751,
-      "rank": 47,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 114563,
-      "num": 114563,
-      "word": "宋雨琦担任MLB表演嘉宾",
-      "onboard_time": 1710381691,
-      "rank": 49,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 113255,
       "num": 113255,
       "word": "Angelababy风尚志三月刊封面",
       "onboard_time": 1710326492,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 110267,
+      "num": 110267,
+      "word": "指甲盖大小的书",
+      "onboard_time": 1710382593,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 109784,
