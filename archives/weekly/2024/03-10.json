@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710426326746,
+  "endTime": 1710426922225,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -643,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1352373,
+      "num": 1352373,
+      "word": "本科毕业的同学去超市做收银员",
+      "onboard_time": 1710422675,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1342359,
       "num": 1342359,
       "word": "喝咖啡建议一天别超过1200毫升",
@@ -731,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1281886,
+      "num": 1281886,
+      "word": "金子",
+      "onboard_time": 1710420632,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1279066,
       "num": 1279066,
       "word": "广州越秀区车祸致11人受伤",
@@ -753,14 +769,6 @@
       "onboard_time": 1710224490,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1258364,
-      "num": 1258364,
-      "word": "金子",
-      "onboard_time": 1710420632,
-      "rank": 6,
-      "category": "网红"
     },
     {
       "raw_hot": 1250055,
@@ -897,14 +905,6 @@
       "onboard_time": 1710223650,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1171419,
-      "num": 1171419,
-      "word": "本科毕业的同学去超市做收银员",
-      "onboard_time": 1710422675,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 1167230,
@@ -1249,6 +1249,14 @@
       "onboard_time": 1710076292,
       "rank": 15,
       "category": "作品衍生,艺人"
+    },
+    {
+      "raw_hot": 1021579,
+      "num": 1021579,
+      "word": "papi酱考研胖了二十几斤",
+      "onboard_time": 1710425257,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 1019213,
@@ -1939,6 +1947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 741277,
+      "num": 741277,
+      "word": "意大利对TikTok罚款1000万欧元",
+      "onboard_time": 1710424775,
+      "rank": 9,
+      "category": "国外时政,互联网"
+    },
+    {
       "raw_hot": 739144,
       "num": 739144,
       "word": "结婚16年4娃非亲生当事人已离婚",
@@ -2179,14 +2195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 688390,
-      "num": 569386,
-      "word": "papi酱考研胖了二十几斤",
-      "onboard_time": 1710425257,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 686300,
       "num": 314195,
       "word": "句句不含脏 字字在骂人",
@@ -2249,6 +2257,14 @@
       "onboard_time": 1710039629,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 670480,
+      "num": 670480,
+      "word": "李诞cos孟宴臣",
+      "onboard_time": 1710425795,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 669909,
@@ -2723,6 +2739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 591419,
+      "num": 591419,
+      "word": "孙俪女儿看甄嬛传也会跳过甘露寺",
+      "onboard_time": 1710425016,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 591048,
       "num": 459689,
       "word": "科目三被扣了1100分",
@@ -2833,14 +2857,6 @@
       "onboard_time": 1709995714,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 569874,
-      "num": 569874,
-      "word": "意大利对TikTok罚款1000万欧元",
-      "onboard_time": 1710424775,
-      "rank": 9,
-      "category": "国外时政,互联网"
     },
     {
       "raw_hot": 569193,
@@ -3049,14 +3065,6 @@
       "onboard_time": 1710222811,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 543640,
-      "num": 543640,
-      "word": "孙俪女儿看甄嬛传也会跳过甘露寺",
-      "onboard_time": 1710425016,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 543577,
@@ -3667,14 +3675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 480250,
-      "num": 480250,
-      "word": "李诞cos孟宴臣",
-      "onboard_time": 1710425795,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 477407,
       "num": 477407,
       "word": "每克近千元的一口价黄金被全额退款",
@@ -3947,6 +3947,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 445651,
+      "num": 387003,
+      "word": "在海底捞被陌生人要蛋糕了",
+      "onboard_time": 1710425257,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 444835,
       "num": 301927,
       "word": "杨天真回应不减肥原因",
@@ -4016,6 +4024,14 @@
       "word": "你的强轩染来了",
       "onboard_time": 1710081811,
       "rank": 18,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 438914,
+      "num": 438914,
+      "word": "清清转打野",
+      "onboard_time": 1710425074,
+      "rank": 21,
       "category": "电竞"
     },
     {
@@ -4129,14 +4145,6 @@
       "onboard_time": 1710306934,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 424918,
-      "num": 424918,
-      "word": "清清转打野",
-      "onboard_time": 1710425074,
-      "rank": 21,
-      "category": "电竞"
     },
     {
       "raw_hot": 423360,
@@ -4515,6 +4523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 387050,
+      "num": 387050,
+      "word": "多方回应一老师在宿舍身亡",
+      "onboard_time": 1710425074,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385769,
       "num": 385769,
       "word": "满舒克前女友再发博",
@@ -4795,6 +4811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 364809,
+      "num": 252254,
+      "word": "马斯克发文祝贺SpaceX星舰已达到环绕速度",
+      "onboard_time": 1710425615,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 361921,
       "num": 361921,
       "word": "枭起青壤",
@@ -5001,14 +5025,6 @@
       "onboard_time": 1710308912,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 344124,
-      "num": 344124,
-      "word": "在海底捞被陌生人要蛋糕了",
-      "onboard_time": 1710425257,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 343974,
@@ -5409,14 +5425,6 @@
       "onboard_time": 1710297032,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 316757,
-      "num": 316757,
-      "word": "多方回应一老师在宿舍身亡",
-      "onboard_time": 1710425074,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 316519,
@@ -5968,6 +5976,14 @@
       "word": "别对我动心 竹马被天降秒了",
       "onboard_time": 1710031767,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 285815,
+      "num": 285815,
+      "word": "童瑶 姓顾的哪有买假包的",
+      "onboard_time": 1710426455,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -7723,14 +7739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220352,
-      "num": 220352,
-      "word": "马斯克发文祝贺SpaceX星舰已达到环绕速度",
-      "onboard_time": 1710425615,
-      "rank": 36,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 219791,
       "num": 219791,
       "word": "周也卷发",
@@ -8016,6 +8024,14 @@
       "word": "樊振东谈输球是正常且良性的竞争",
       "onboard_time": 1710299796,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 213109,
+      "num": 213109,
+      "word": "混双",
+      "onboard_time": 1710426696,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -8659,6 +8675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201201,
+      "num": 201201,
+      "word": "我一直以为路由器是这么放的",
+      "onboard_time": 1710425917,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 200993,
       "num": 200993,
       "word": "向佐上岛了",
@@ -9025,14 +9049,6 @@
       "onboard_time": 1710180978,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195468,
-      "num": 195468,
-      "word": "我一直以为路由器是这么放的",
-      "onboard_time": 1710425917,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 195315,
@@ -9457,6 +9473,14 @@
       "onboard_time": 1710313175,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187742,
+      "num": 187742,
+      "word": "SpaceX星舰第三次试飞成功进入太空",
+      "onboard_time": 1710426455,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 187612,
@@ -11889,6 +11913,14 @@
       "onboard_time": 1710033088,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 142811,
+      "num": 142811,
+      "word": "SpaceX星舰飞船发射升空",
+      "onboard_time": 1710426876,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 142510,
@@ -14819,6 +14851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16232,
+      "num": 231229,
+      "word": "安可拉红灵感从何而来",
+      "onboard_time": 1710424234,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 16228,
       "num": 18580,
       "word": "两会",
@@ -14833,14 +14873,6 @@
       "onboard_time": 1710274096,
       "rank": 47,
       "category": "网红"
-    },
-    {
-      "raw_hot": 15958,
-      "num": 221540,
-      "word": "安可拉红灵感从何而来",
-      "onboard_time": 1710424234,
-      "rank": 34,
-      "category": "时尚"
     },
     {
       "raw_hot": 15683,
