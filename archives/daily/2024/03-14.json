@@ -1,6 +1,6 @@
 {
   "startTime": 1710346860842,
-  "endTime": 1710423245294,
+  "endTime": 1710426326746,
   "band_list": [
     {
       "raw_hot": 3029620,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1258364,
+      "num": 1258364,
+      "word": "金子",
+      "onboard_time": 1710420632,
+      "rank": 6,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1219190,
       "num": 1219190,
       "word": "千万别再关灯玩手机了",
@@ -192,6 +200,22 @@
       "word": "小狗去世后把它弟弟接回了家",
       "onboard_time": 1710416915,
       "rank": 1,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1202867,
+      "num": 1202867,
+      "word": "马斯克SpaceX星舰第三次试飞",
+      "onboard_time": 1710421293,
+      "rank": 17,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 1171419,
+      "num": 1171419,
+      "word": "本科毕业的同学去超市做收银员",
+      "onboard_time": 1710422675,
+      "rank": 23,
       "category": "幽默"
     },
     {
@@ -283,14 +307,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 943087,
-      "num": 943087,
-      "word": "金子",
-      "onboard_time": 1710420632,
-      "rank": 6,
-      "category": "网红"
-    },
-    {
       "raw_hot": 921306,
       "num": 921306,
       "word": "深圳市原副市长黄敏被查",
@@ -355,6 +371,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 776697,
+      "num": 776697,
+      "word": "SpaceX星舰一二级火箭成功分离",
+      "onboard_time": 1710423752,
+      "rank": 5,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 772875,
       "num": 772875,
       "word": "婚礼后男方拒领证要回5万多彩礼",
@@ -395,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 716086,
+      "num": 716086,
+      "word": "陈思诚 我的电影也不用都看",
+      "onboard_time": 1710422133,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 715254,
       "num": 715254,
       "word": "和府捞面被曝含预制菜",
@@ -409,6 +441,14 @@
       "onboard_time": 1710373649,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 688390,
+      "num": 569386,
+      "word": "papi酱考研胖了二十几斤",
+      "onboard_time": 1710425257,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 669909,
@@ -459,20 +499,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 648913,
-      "num": 648913,
-      "word": "马斯克SpaceX星舰第三次试飞",
-      "onboard_time": 1710421293,
-      "rank": 17,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 648662,
       "num": 506069,
       "word": "商务部回应美方通过TikTok法案",
       "onboard_time": 1710404554,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 640652,
+      "num": 640652,
+      "word": "鞠婧祎演恶女",
+      "onboard_time": 1710422317,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 637593,
@@ -547,6 +587,22 @@
       "category": "国外时政,互联网"
     },
     {
+      "raw_hot": 569874,
+      "num": 569874,
+      "word": "意大利对TikTok罚款1000万欧元",
+      "onboard_time": 1710424775,
+      "rank": 9,
+      "category": "国外时政,互联网"
+    },
+    {
+      "raw_hot": 569193,
+      "num": 569193,
+      "word": "蒋敦豪工作室",
+      "onboard_time": 1710423577,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 568535,
       "num": 568535,
       "word": "赵露思上小学时的毕业照",
@@ -561,14 +617,6 @@
       "onboard_time": 1710395553,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 560383,
-      "num": 560383,
-      "word": "陈思诚 我的电影也不用都看",
-      "onboard_time": 1710422133,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 557010,
@@ -593,6 +641,14 @@
       "onboard_time": 1710377792,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 543640,
+      "num": 543640,
+      "word": "孙俪女儿看甄嬛传也会跳过甘露寺",
+      "onboard_time": 1710425016,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 541680,
@@ -715,6 +771,22 @@
       "category": "互联网,游戏"
     },
     {
+      "raw_hot": 484214,
+      "num": 484214,
+      "word": "SpaceX星舰",
+      "onboard_time": 1710414573,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 480250,
+      "num": 480250,
+      "word": "李诞cos孟宴臣",
+      "onboard_time": 1710425795,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 474065,
       "num": 474065,
       "word": "檀健次没有一次美容是白做的",
@@ -825,6 +897,14 @@
       "onboard_time": 1710387635,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 424918,
+      "num": 424918,
+      "word": "清清转打野",
+      "onboard_time": 1710425074,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 423299,
@@ -1019,6 +1099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 344124,
+      "num": 344124,
+      "word": "在海底捞被陌生人要蛋糕了",
+      "onboard_time": 1710425257,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 332621,
       "num": 332621,
       "word": "对象重病时你中了200w",
@@ -1075,14 +1163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 324633,
-      "num": 324633,
-      "word": "SpaceX星舰",
-      "onboard_time": 1710414573,
-      "rank": 46,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 322554,
       "num": 322554,
       "word": "硬是给有座位的乘客弄成站票了",
@@ -1099,14 +1179,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 319775,
-      "num": 319775,
-      "word": "本科毕业的同学去超市做收银员",
-      "onboard_time": 1710422675,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 317910,
       "num": 317910,
       "word": "五月天经纪公司回应网传开北京演唱会",
@@ -1121,6 +1193,14 @@
       "onboard_time": 1710386193,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 316757,
+      "num": 316757,
+      "word": "多方回应一老师在宿舍身亡",
+      "onboard_time": 1710425074,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310457,
@@ -1195,6 +1275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 297044,
+      "num": 297044,
+      "word": "书亦烧仙草员工用嘴判断食材过没过期",
+      "onboard_time": 1710424175,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295689,
       "num": 295689,
       "word": "粥饼伦称不想让孩子再过苦日子",
@@ -1251,14 +1339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 280377,
-      "num": 280377,
-      "word": "鞠婧祎演恶女",
-      "onboard_time": 1710422317,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 274281,
       "num": 274281,
       "word": "25岁以后不再觉得高敏感是一种错",
@@ -1281,6 +1361,14 @@
       "onboard_time": 1710401495,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 270597,
+      "num": 216336,
+      "word": "成毅直播",
+      "onboard_time": 1710422795,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 269954,
@@ -1449,6 +1537,14 @@
       "onboard_time": 1710380850,
       "rank": 23,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 237282,
+      "num": 237282,
+      "word": "原来聪明人都是这样提离职的",
+      "onboard_time": 1710424717,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 237261,
@@ -1635,6 +1731,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221085,
+      "num": 221085,
+      "word": "JDG战胜TES",
+      "onboard_time": 1710423936,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 220352,
+      "num": 220352,
+      "word": "马斯克发文祝贺SpaceX星舰已达到环绕速度",
+      "onboard_time": 1710425615,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 218700,
       "num": 218700,
       "word": "烈焰 陈乔恩明道前世今生",
@@ -1761,14 +1873,6 @@
       "onboard_time": 1710396813,
       "rank": 35,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 208513,
-      "num": 208513,
-      "word": "成毅直播",
-      "onboard_time": 1710422795,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 208505,
@@ -1953,6 +2057,14 @@
       "onboard_time": 1710421773,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195468,
+      "num": 195468,
+      "word": "我一直以为路由器是这么放的",
+      "onboard_time": 1710425917,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 195133,
@@ -3169,6 +3281,14 @@
       "onboard_time": 1710356237,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 15958,
+      "num": 221540,
+      "word": "安可拉红灵感从何而来",
+      "onboard_time": 1710424234,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 13745,

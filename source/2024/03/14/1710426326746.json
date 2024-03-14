@@ -1,0 +1,410 @@
+{
+  "runTime": 1710426326746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1258364,
+        "num": 1258364,
+        "word": "金子",
+        "onboard_time": 1710420632,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1202867,
+        "num": 1202867,
+        "word": "马斯克SpaceX星舰第三次试飞",
+        "onboard_time": 1710421293,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 53912,
+        "num": 1179360,
+        "word": "新质生产力本身就是绿色生产力",
+        "onboard_time": 1710420154,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1171419,
+        "num": 1171419,
+        "word": "本科毕业的同学去超市做收银员",
+        "onboard_time": 1710422675,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 805971,
+        "num": 805971,
+        "word": "教育部曾明确叫停在家上学",
+        "onboard_time": 1710413553,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 776697,
+        "num": 776697,
+        "word": "SpaceX星舰一二级火箭成功分离",
+        "onboard_time": 1710423752,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 755750,
+        "num": 755750,
+        "word": "五哈4官宣了哈",
+        "onboard_time": 1710420213,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 716086,
+        "num": 716086,
+        "word": "陈思诚 我的电影也不用都看",
+        "onboard_time": 1710422133,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 640652,
+        "num": 640652,
+        "word": "鞠婧祎演恶女",
+        "onboard_time": 1710422317,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 569874,
+        "num": 569874,
+        "word": "意大利对TikTok罚款1000万欧元",
+        "onboard_time": 1710424775,
+        "rank": 9,
+        "category": "国外时政,互联网"
+      },
+      {
+        "raw_hot": 1127885,
+        "num": 569657,
+        "word": "一栗小莎子怀孕",
+        "onboard_time": 1710419134,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 840443,
+        "num": 569516,
+        "word": "邯郸遇害男孩亲属称校长说死是意外",
+        "onboard_time": 1710418773,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688390,
+        "num": 569386,
+        "word": "papi酱考研胖了二十几斤",
+        "onboard_time": 1710425257,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 569193,
+        "num": 569193,
+        "word": "蒋敦豪工作室",
+        "onboard_time": 1710423577,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543640,
+        "num": 543640,
+        "word": "孙俪女儿看甄嬛传也会跳过甘露寺",
+        "onboard_time": 1710425016,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484214,
+        "num": 484214,
+        "word": "SpaceX星舰",
+        "onboard_time": 1710414573,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 480871,
+        "num": 480871,
+        "word": "凯特王妃",
+        "onboard_time": 1710386134,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 480250,
+        "num": 480250,
+        "word": "李诞cos孟宴臣",
+        "onboard_time": 1710425795,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 453798,
+        "num": 453798,
+        "word": "扶他柠檬茶",
+        "onboard_time": 1710415715,
+        "rank": 18,
+        "category": "读书作家,网红"
+      },
+      {
+        "raw_hot": 446426,
+        "num": 446426,
+        "word": "小狗去世后把它弟弟接回了家",
+        "onboard_time": 1710416915,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 436310,
+        "num": 436310,
+        "word": "手机内存不足微信无法使用了",
+        "onboard_time": 1710410433,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 424918,
+        "num": 424918,
+        "word": "清清转打野",
+        "onboard_time": 1710425074,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 361139,
+        "num": 361139,
+        "word": "杨幂全球高定首穿",
+        "onboard_time": 1710401793,
+        "rank": 22,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 349728,
+        "num": 349728,
+        "word": "美国前财长尝试收购TikTok",
+        "onboard_time": 1710422194,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 344124,
+        "num": 344124,
+        "word": "在海底捞被陌生人要蛋糕了",
+        "onboard_time": 1710425257,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334986,
+        "num": 334986,
+        "word": "外卖黑勺是最脏的",
+        "onboard_time": 1710401134,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 316757,
+        "num": 316757,
+        "word": "多方回应一老师在宿舍身亡",
+        "onboard_time": 1710425074,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297044,
+        "num": 297044,
+        "word": "书亦烧仙草员工用嘴判断食材过没过期",
+        "onboard_time": 1710424175,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290075,
+        "num": 290075,
+        "word": "宿迁学院通报学生不雅视频",
+        "onboard_time": 1710408457,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264119,
+        "num": 264119,
+        "word": "燕郊爆炸系输送中的管道泄漏导致",
+        "onboard_time": 1710410134,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277547,
+        "num": 254414,
+        "word": "赵露思我老婆",
+        "onboard_time": 1710414813,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237282,
+        "num": 237282,
+        "word": "原来聪明人都是这样提离职的",
+        "onboard_time": 1710424717,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237180,
+        "num": 237180,
+        "word": "陈晓童瑶激情戏",
+        "onboard_time": 1710412656,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222922,
+        "num": 222922,
+        "word": "林俊杰演出中场进行雾化治疗",
+        "onboard_time": 1710415352,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15958,
+        "num": 221540,
+        "word": "安可拉红灵感从何而来",
+        "onboard_time": 1710424234,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 221085,
+        "num": 221085,
+        "word": "JDG战胜TES",
+        "onboard_time": 1710423936,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 220352,
+        "num": 220352,
+        "word": "马斯克发文祝贺SpaceX星舰已达到环绕速度",
+        "onboard_time": 1710425615,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 217094,
+        "num": 217094,
+        "word": "迪士尼新包突然断货引不满险发生踩踏",
+        "onboard_time": 1710422495,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270597,
+        "num": 216336,
+        "word": "成毅直播",
+        "onboard_time": 1710422795,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206680,
+        "num": 206680,
+        "word": "李佳琦董宇辉等17名主播被点名",
+        "onboard_time": 1710394837,
+        "rank": 39,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 195468,
+        "num": 195468,
+        "word": "我一直以为路由器是这么放的",
+        "onboard_time": 1710425917,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191657,
+        "num": 191657,
+        "word": "杨紫马甲线好明显",
+        "onboard_time": 1710416071,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 179566,
+        "num": 179566,
+        "word": "孙颖莎张本美和",
+        "onboard_time": 1710418173,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178767,
+        "num": 178767,
+        "word": "长大后发现什么样的人不能深交",
+        "onboard_time": 1710421534,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172568,
+        "num": 172568,
+        "word": "TTG发布说明",
+        "onboard_time": 1710418893,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169569,
+        "num": 169569,
+        "word": "林诗栋1比3波尔",
+        "onboard_time": 1710421956,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162509,
+        "num": 162509,
+        "word": "TES对战JDG",
+        "onboard_time": 1710419613,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158797,
+        "num": 158797,
+        "word": "王曼昱WTT",
+        "onboard_time": 1710420750,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158714,
+        "num": 158714,
+        "word": "马斯克",
+        "onboard_time": 1710420695,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 144458,
+        "num": 144458,
+        "word": "第五人格富江",
+        "onboard_time": 1710414933,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展新质生产力总书记这样强调#"
+    }
+  }
+}
