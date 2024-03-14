@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/03/01 00:20:40 ~ 2024/03/15 06:33:55
+本榜单时间：2024/03/01 00:20:40 ~ 2024/03/15 07:17:03
 </p>
 </blockquote>
 <p>
@@ -2643,6 +2643,12 @@ ChatGPT每天用电量是家庭用电量的1.7万多倍（热度：960317）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E6%96%B9%E6%8B%92%E7%BB%9D%E4%BA%86%E4%BD%A0%E7%9A%84%E6%89%93%E5%8E%8B%E5%BC%8F%E6%95%99%E8%82%B2%23" target="weibo">
+对方拒绝了你的打压式教育（热度：906248）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%81%A2%E5%A4%8D%E5%A9%9A%E5%89%8D%E5%8C%BB%E5%AD%A6%E6%A3%80%E6%9F%A5%23" target="weibo">
 建议恢复婚前医学检查（热度：905509）
 </a>
@@ -3527,12 +3533,6 @@ SpaceX星舰一二级火箭成功分离（热度：776697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%83%8C%E5%8D%95%E8%AF%8D%20%E5%8F%97%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB%23" target="weibo">
 不背单词 受黑客攻击（热度：754950）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E6%96%B9%E6%8B%92%E7%BB%9D%E4%BA%86%E4%BD%A0%E7%9A%84%E6%89%93%E5%8E%8B%E5%BC%8F%E6%95%99%E8%82%B2%23" target="weibo">
-对方拒绝了你的打压式教育（热度：753471）
 </a>
 </li>
 

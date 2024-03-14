@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710455635583,
+  "endTime": 1710458223829,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -1515,6 +1515,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 906248,
+      "num": 906248,
+      "word": "对方拒绝了你的打压式教育",
+      "onboard_time": 1710431798,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 902397,
       "num": 350789,
       "word": "1993年李健在清华大学的入学照",
@@ -1961,14 +1969,6 @@
       "onboard_time": 1710410433,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 753471,
-      "num": 753471,
-      "word": "对方拒绝了你的打压式教育",
-      "onboard_time": 1710431798,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 752484,
@@ -4787,6 +4787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 368967,
+      "num": 368967,
+      "word": "我一直以为路由器是这么放的",
+      "onboard_time": 1710425917,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 368883,
       "num": 465353,
       "word": "田曦薇挑染",
@@ -6785,6 +6793,14 @@
       "onboard_time": 1710117814,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 250392,
+      "num": 250392,
+      "word": "男子在同学婚礼上刮刮乐中奖10万",
+      "onboard_time": 1710433472,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250379,
@@ -8811,14 +8827,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 201201,
-      "num": 201201,
-      "word": "我一直以为路由器是这么放的",
-      "onboard_time": 1710425917,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 200993,
       "num": 200993,
       "word": "向佐上岛了",
@@ -9817,6 +9825,14 @@
       "onboard_time": 1710216574,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 184424,
+      "num": 184424,
+      "word": "特斯拉市值一夜蒸发1847亿",
+      "onboard_time": 1710444557,
+      "rank": 49,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 184387,
@@ -12195,14 +12211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141368,
-      "num": 141368,
-      "word": "特斯拉市值一夜蒸发1847亿",
-      "onboard_time": 1710444557,
-      "rank": 49,
-      "category": "财经,汽车"
-    },
-    {
       "raw_hot": 141336,
       "num": 141336,
       "word": "春季赛第四周最佳阵容",
@@ -13003,6 +13011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127880,
+      "num": 82396,
+      "word": "百果园门店车厘子JJ当JJJJ卖",
+      "onboard_time": 1710457346,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127813,
       "num": 127813,
       "word": "NV单局20淘汰",
@@ -13633,6 +13649,14 @@
       "onboard_time": 1710049289,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113938,
+      "num": 113938,
+      "word": "老公玩股票这件事我觉得很慌",
+      "onboard_time": 1710451454,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 113695,
@@ -14299,14 +14323,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 86270,
-      "num": 86270,
-      "word": "男子在同学婚礼上刮刮乐中奖10万",
-      "onboard_time": 1710433472,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85073,
       "num": 94934,
       "word": "李兰迪林一身高差",
@@ -14345,6 +14361,14 @@
       "onboard_time": 1710061290,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82066,
+      "num": 82066,
+      "word": "辽宁一药房疑流出客情关系维护表涉及多单位",
+      "onboard_time": 1710457884,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 81803,
@@ -14539,6 +14563,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 66423,
+      "num": 66423,
+      "word": "长沙一店铺门口贴招工启事被罚",
+      "onboard_time": 1710438022,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66125,
       "num": 1149950,
       "word": "十四届全国人大二次会议今天闭幕",
@@ -14635,6 +14667,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 58747,
+      "num": 58747,
+      "word": "马思纯生日簪花照",
+      "onboard_time": 1710453918,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58628,
       "num": 431637,
       "word": "1首诗的时间带你领略大美四川",
@@ -14681,6 +14721,14 @@
       "onboard_time": 1710095118,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 55841,
+      "num": 55841,
+      "word": "好怕林更新精神状态影响赵丽颖",
+      "onboard_time": 1710455480,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 55810,
@@ -14745,6 +14793,14 @@
       "onboard_time": 1710126989,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 52356,
+      "num": 52356,
+      "word": "为什么上了大学会有落差感",
+      "onboard_time": 1710457406,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 52347,
@@ -14835,14 +14891,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 43102,
-      "num": 43102,
-      "word": "老公玩股票这件事我觉得很慌",
-      "onboard_time": 1710451454,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 42392,
       "num": 63757,
       "word": "送给在国家线边缘的你",
@@ -14875,6 +14923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41082,
+      "num": 41082,
+      "word": "农学院学生上课能有多离谱",
+      "onboard_time": 1710452655,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 40017,
       "num": 48505,
       "word": "2024PEL春季赛",
@@ -14891,12 +14947,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39273,
+      "num": 39273,
+      "word": "五哈4世界级旅行",
+      "onboard_time": 1710457948,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38865,
       "num": 38865,
       "word": "让吴镇宇害怕的女人来了",
       "onboard_time": 1710444436,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38667,
+      "num": 38667,
+      "word": "普通NPC的一生",
+      "onboard_time": 1710458125,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 38294,
@@ -14912,14 +14984,6 @@
       "word": "关键年看各地如何抓实干",
       "onboard_time": 1710405876,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36442,
-      "num": 36442,
-      "word": "长沙一店铺门口贴招工启事被罚",
-      "onboard_time": 1710438022,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -15001,14 +15065,6 @@
       "onboard_time": 1709988273,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32034,
-      "num": 32034,
-      "word": "马思纯生日簪花照",
-      "onboard_time": 1710453918,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 31424,
@@ -15099,14 +15155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22807,
-      "num": 24504,
-      "word": "农学院学生上课能有多离谱",
-      "onboard_time": 1710452655,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 22020,
       "num": 22020,
       "word": "檀健次感慨电影之路",
@@ -15121,14 +15169,6 @@
       "onboard_time": 1710192375,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 21322,
-      "num": 24504,
-      "word": "好怕林更新精神状态影响赵丽颖",
-      "onboard_time": 1710455480,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 20899,
