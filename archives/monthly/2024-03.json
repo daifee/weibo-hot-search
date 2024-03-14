@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710382938396,
+  "endTime": 1710383641876,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -107,6 +107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 3029620,
+      "num": 2945184,
+      "word": "29岁女儿不结婚父亲代孕延续后代",
+      "onboard_time": 1710378871,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3012846,
       "num": 3012846,
       "word": "极简版政府工作报告",
@@ -129,14 +137,6 @@
       "onboard_time": 1709366072,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2945184,
-      "num": 2945184,
-      "word": "29岁女儿不结婚父亲代孕延续后代",
-      "onboard_time": 1710378871,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2928217,
@@ -497,6 +497,14 @@
       "onboard_time": 1710225810,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1970675,
+      "num": 1383050,
+      "word": "山竹",
+      "onboard_time": 1710380969,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 1969424,
@@ -1321,14 +1329,6 @@
       "onboard_time": 1709463331,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1383050,
-      "num": 1383050,
-      "word": "山竹",
-      "onboard_time": 1710380969,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 1381267,
@@ -2475,6 +2475,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1053425,
+      "num": 514524,
+      "word": "Angelababy白色高定",
+      "onboard_time": 1710380431,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1051951,
       "num": 1051951,
       "word": "迪丽热巴唇色",
@@ -2739,12 +2747,12 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 1008559,
-      "num": 514524,
-      "word": "Angelababy白色高定",
-      "onboard_time": 1710380431,
-      "rank": 11,
-      "category": "作品衍生,时尚"
+      "raw_hot": 1006637,
+      "num": 1006637,
+      "word": "台媒称大陆渔船在金门外海翻覆",
+      "onboard_time": 1710382168,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1000768,
@@ -4587,6 +4595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 728775,
+      "num": 728775,
+      "word": "婚礼后男方拒领证要回5万多彩礼",
+      "onboard_time": 1710380369,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728267,
       "num": 728267,
       "word": "记者暗访代孕黑色产业链",
@@ -5785,14 +5801,6 @@
       "onboard_time": 1709377169,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 639808,
-      "num": 639808,
-      "word": "台媒称大陆渔船在金门外海翻覆",
-      "onboard_time": 1710382168,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 639593,
@@ -7739,14 +7747,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 524316,
-      "num": 524316,
-      "word": "婚礼后男方拒领证要回5万多彩礼",
-      "onboard_time": 1710380369,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 523806,
       "num": 523806,
       "word": "王栎鑫是谭松韵影迷会的会长",
@@ -9043,6 +9043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 463276,
+      "num": 463276,
+      "word": "租房千万别租串串房",
+      "onboard_time": 1710378871,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 462297,
       "num": 462297,
       "word": "高德地图回应小团团语音包是否下架",
@@ -9417,14 +9425,6 @@
       "onboard_time": 1709721273,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 443904,
-      "num": 443904,
-      "word": "租房千万别租串串房",
-      "onboard_time": 1710378871,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 443651,
@@ -11555,6 +11555,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 367115,
+      "num": 294471,
+      "word": "HPV疫苗等九价还是有啥打啥",
+      "onboard_time": 1710378987,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 366815,
       "num": 282425,
       "word": "小孩请不要为打翻的牛奶哭泣",
@@ -12235,6 +12243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344450,
+      "num": 344450,
+      "word": "这一次周生辰反抗了",
+      "onboard_time": 1710380850,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344210,
       "num": 344210,
       "word": "白敬亭潮牌成立娱乐公司",
@@ -12513,14 +12529,6 @@
       "onboard_time": 1709910513,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 336420,
-      "num": 294471,
-      "word": "HPV疫苗等九价还是有啥打啥",
-      "onboard_time": 1710378987,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 336220,
@@ -13817,14 +13825,6 @@
       "onboard_time": 1710117573,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301839,
-      "num": 301839,
-      "word": "这一次周生辰反抗了",
-      "onboard_time": 1710380850,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 301318,
@@ -16403,6 +16403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 248400,
+      "num": 248400,
+      "word": "特斯拉成新任贬值之王",
+      "onboard_time": 1710381870,
+      "rank": 28,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 248244,
       "num": 248244,
       "word": "微信里你不知道的小妙招",
@@ -18889,6 +18897,14 @@
       "onboard_time": 1709683953,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 214302,
+      "num": 214302,
+      "word": "山竹发博回应翻唱事件始末",
+      "onboard_time": 1710383371,
+      "rank": 27,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 214301,
@@ -21547,14 +21563,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194091,
-      "num": 194091,
-      "word": "特斯拉成新任贬值之王",
-      "onboard_time": 1710381870,
-      "rank": 28,
-      "category": "汽车,财经"
-    },
-    {
       "raw_hot": 194021,
       "num": 719281,
       "word": "神十七乘组圆满完成第2次出舱",
@@ -21913,6 +21921,14 @@
       "onboard_time": 1710294573,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191314,
+      "num": 191314,
+      "word": "信号2确认制作",
+      "onboard_time": 1710383371,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 191269,
@@ -22393,6 +22409,14 @@
       "onboard_time": 1709791351,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187485,
+      "num": 187485,
+      "word": "清华大学教授称大学越来越像工厂",
+      "onboard_time": 1710383430,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 187454,
@@ -29891,6 +29915,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 137813,
+      "num": 137813,
+      "word": "被曾经喜欢的男生表白了",
+      "onboard_time": 1710383612,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137782,
       "num": 137782,
       "word": "巴黎奥运会虚拟奖牌榜预测",
@@ -30833,6 +30865,14 @@
       "onboard_time": 1709593945,
       "rank": 24,
       "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 132527,
+      "num": 132527,
+      "word": "王一博受刑戏破碎感",
+      "onboard_time": 1710383252,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 132504,

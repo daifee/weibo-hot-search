@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710382938396,
+  "endTime": 1710383641876,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -43,20 +43,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3029620,
+      "num": 2945184,
+      "word": "29岁女儿不结婚父亲代孕延续后代",
+      "onboard_time": 1710378871,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2999065,
       "num": 2999065,
       "word": "成都警方通报天府二街伤害案",
       "onboard_time": 1710158970,
       "rank": 0,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 2945184,
-      "num": 2945184,
-      "word": "29岁女儿不结婚父亲代孕延续后代",
-      "onboard_time": 1710378871,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2928217,
@@ -209,6 +209,14 @@
       "onboard_time": 1710225810,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1970675,
+      "num": 1383050,
+      "word": "山竹",
+      "onboard_time": 1710380969,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 1969424,
@@ -489,14 +497,6 @@
       "onboard_time": 1710045749,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1383050,
-      "num": 1383050,
-      "word": "山竹",
-      "onboard_time": 1710380969,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 1379602,
@@ -971,6 +971,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1053425,
+      "num": 514524,
+      "word": "Angelababy白色高定",
+      "onboard_time": 1710380431,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1050567,
       "num": 505610,
       "word": "iPhone降价已成常规促销手段",
@@ -1075,12 +1083,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1008559,
-      "num": 514524,
-      "word": "Angelababy白色高定",
-      "onboard_time": 1710380431,
-      "rank": 11,
-      "category": "作品衍生,时尚"
+      "raw_hot": 1006637,
+      "num": 1006637,
+      "word": "台媒称大陆渔船在金门外海翻覆",
+      "onboard_time": 1710382168,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 998775,
@@ -1683,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 728775,
+      "num": 728775,
+      "word": "婚礼后男方拒领证要回5万多彩礼",
+      "onboard_time": 1710380369,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728267,
       "num": 728267,
       "word": "记者暗访代孕黑色产业链",
@@ -2049,14 +2065,6 @@
       "onboard_time": 1710160113,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 639808,
-      "num": 639808,
-      "word": "台媒称大陆渔船在金门外海翻覆",
-      "onboard_time": 1710382168,
-      "rank": 5,
-      "category": "国内时政"
     },
     {
       "raw_hot": 639269,
@@ -2731,14 +2739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 524316,
-      "num": 524316,
-      "word": "婚礼后男方拒领证要回5万多彩礼",
-      "onboard_time": 1710380369,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 523622,
       "num": 302495,
       "word": "赵安吉车祸身亡细节",
@@ -3227,6 +3227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 463276,
+      "num": 463276,
+      "word": "租房千万别租串串房",
+      "onboard_time": 1710378871,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 461851,
       "num": 461851,
       "word": "眼泪女王第二集",
@@ -3313,14 +3321,6 @@
       "onboard_time": 1710000033,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 443904,
-      "num": 443904,
-      "word": "租房千万别租串串房",
-      "onboard_time": 1710378871,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 443651,
@@ -3995,6 +3995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367115,
+      "num": 294471,
+      "word": "HPV疫苗等九价还是有啥打啥",
+      "onboard_time": 1710378987,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 366554,
       "num": 348921,
       "word": "1岁宝宝误食方便面被卡右肺完全堵死",
@@ -4219,6 +4227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344450,
+      "num": 344450,
+      "word": "这一次周生辰反抗了",
+      "onboard_time": 1710380850,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344210,
       "num": 344210,
       "word": "白敬亭潮牌成立娱乐公司",
@@ -4329,14 +4345,6 @@
       "onboard_time": 1710139227,
       "rank": 21,
       "category": "教育"
-    },
-    {
-      "raw_hot": 336420,
-      "num": 294471,
-      "word": "HPV疫苗等九价还是有啥打啥",
-      "onboard_time": 1710378987,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 336220,
@@ -4817,14 +4825,6 @@
       "onboard_time": 1710117573,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301839,
-      "num": 301839,
-      "word": "这一次周生辰反抗了",
-      "onboard_time": 1710380850,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 301318,
@@ -5689,6 +5689,14 @@
       "onboard_time": 1710374010,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 248400,
+      "num": 248400,
+      "word": "特斯拉成新任贬值之王",
+      "onboard_time": 1710381870,
+      "rank": 28,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 248244,
@@ -6633,6 +6641,14 @@
       "onboard_time": 1710050127,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214302,
+      "num": 214302,
+      "word": "山竹发博回应翻唱事件始末",
+      "onboard_time": 1710383371,
+      "rank": 27,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 214292,
@@ -7611,14 +7627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194091,
-      "num": 194091,
-      "word": "特斯拉成新任贬值之王",
-      "onboard_time": 1710381870,
-      "rank": 28,
-      "category": "汽车,财经"
-    },
-    {
       "raw_hot": 193982,
       "num": 320468,
       "word": "CCtalk 我想学习",
@@ -7753,6 +7761,14 @@
       "onboard_time": 1710294573,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191314,
+      "num": 191314,
+      "word": "信号2确认制作",
+      "onboard_time": 1710383371,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 191068,
@@ -7905,6 +7921,14 @@
       "onboard_time": 1710089963,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187485,
+      "num": 187485,
+      "word": "清华大学教授称大学越来越像工厂",
+      "onboard_time": 1710383430,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 187447,
@@ -10219,6 +10243,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 137813,
+      "num": 137813,
+      "word": "被曾经喜欢的男生表白了",
+      "onboard_time": 1710383612,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137736,
       "num": 137736,
       "word": "谢谢你温暖我 女天降男竹马",
@@ -10529,6 +10561,14 @@
       "onboard_time": 1710122253,
       "rank": 40,
       "category": "军事"
+    },
+    {
+      "raw_hot": 132527,
+      "num": 132527,
+      "word": "王一博受刑戏破碎感",
+      "onboard_time": 1710383252,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 132095,
