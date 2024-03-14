@@ -1,6 +1,6 @@
 {
   "startTime": 1710346860842,
-  "endTime": 1710404468706,
+  "endTime": 1710405302668,
   "band_list": [
     {
       "raw_hot": 3029620,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1404692,
+      "num": 1404692,
+      "word": "杨幂全球高定首穿",
+      "onboard_time": 1710401793,
+      "rank": 0,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1342359,
       "num": 1342359,
       "word": "喝咖啡建议一天别超过1200毫升",
@@ -89,14 +97,6 @@
       "onboard_time": 1710388595,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1224104,
-      "num": 1224104,
-      "word": "杨幂全球高定首穿",
-      "onboard_time": 1710401793,
-      "rank": 0,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1219190,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1132878,
+      "num": 1132878,
+      "word": "陪高三的女儿旷了一节晚自习",
+      "onboard_time": 1710402455,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1125856,
       "num": 1125856,
       "word": "男子开车带妻子体检遇爆炸不幸身亡",
@@ -137,14 +145,6 @@
       "onboard_time": 1710383430,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1076569,
-      "num": 1076569,
-      "word": "陪高三的女儿旷了一节晚自习",
-      "onboard_time": 1710402455,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 1053425,
@@ -184,6 +184,14 @@
       "word": "央视记者",
       "onboard_time": 1710333872,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 908134,
+      "num": 908134,
+      "word": "外卖黑勺是最脏的",
+      "onboard_time": 1710401134,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -307,6 +315,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 642061,
+      "num": 642061,
+      "word": "为什么洗澡水经常忽冷忽热",
+      "onboard_time": 1710403533,
+      "rank": 18,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 615305,
       "num": 615305,
       "word": "天水麻辣烫",
@@ -345,14 +361,6 @@
       "onboard_time": 1710390875,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 579741,
-      "num": 579741,
-      "word": "外卖黑勺是最脏的",
-      "onboard_time": 1710401134,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 578486,
@@ -619,8 +627,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 375931,
-      "num": 375931,
+      "raw_hot": 379835,
+      "num": 379835,
       "word": "陈建斌回应甄嬛传被玩梗",
       "onboard_time": 1710402872,
       "rank": 17,
@@ -707,14 +715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 336144,
-      "num": 336144,
-      "word": "为什么洗澡水经常忽冷忽热",
-      "onboard_time": 1710403533,
-      "rank": 18,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 332621,
       "num": 332621,
       "word": "对象重病时你中了200w",
@@ -777,6 +777,14 @@
       "onboard_time": 1710372927,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 319477,
+      "num": 319477,
+      "word": "商务部回应美方通过TikTok法案",
+      "onboard_time": 1710404554,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 317910,
@@ -873,6 +881,14 @@
       "onboard_time": 1710399513,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270790,
+      "num": 270790,
+      "word": "张远曾患躁郁症",
+      "onboard_time": 1710401495,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 269954,
@@ -1033,6 +1049,14 @@
       "onboard_time": 1710345211,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229998,
+      "num": 229998,
+      "word": "赵丽颖羽纱仙女裙",
+      "onboard_time": 1710405096,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 229913,
@@ -1371,6 +1395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189432,
+      "num": 189432,
+      "word": "每次洗完头都能扯下一把头发",
+      "onboard_time": 1710401495,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187447,
       "num": 187447,
       "word": "吉利被曝车内甲醛超标",
@@ -1443,12 +1475,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181789,
+      "num": 181789,
+      "word": "张雨绮的粉扑是脸的3倍大",
+      "onboard_time": 1710403893,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180007,
       "num": 180007,
       "word": "王鹤棣法国娇兰香水大片",
       "onboard_time": 1710387096,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 178012,
+      "num": 178012,
+      "word": "提高体力的方法",
+      "onboard_time": 1710404976,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 177304,
@@ -1523,14 +1571,6 @@
       "category": "电竞,网红"
     },
     {
-      "raw_hot": 164945,
-      "num": 164945,
-      "word": "张远曾患躁郁症",
-      "onboard_time": 1710401495,
-      "rank": 47,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 164837,
       "num": 164837,
       "word": "这5个伤肾行为很多人都在做",
@@ -1553,14 +1593,6 @@
       "onboard_time": 1710343058,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 162574,
-      "num": 162574,
-      "word": "每次洗完头都能扯下一把头发",
-      "onboard_time": 1710401495,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 161628,
@@ -1617,6 +1649,14 @@
       "onboard_time": 1710402995,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154572,
+      "num": 154572,
+      "word": "李诞爆改过程",
+      "onboard_time": 1710405154,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 152781,
@@ -1683,6 +1723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 148309,
+      "num": 189438,
+      "word": "航拍燕郊爆燃事故现场",
+      "onboard_time": 1710404616,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147398,
       "num": 147398,
       "word": "别对我动心 人夫人妻感",
@@ -1721,14 +1769,6 @@
       "onboard_time": 1710396755,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141404,
-      "num": 141404,
-      "word": "张雨绮的粉扑是脸的3倍大",
-      "onboard_time": 1710403893,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 140765,
@@ -1939,6 +1979,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 112237,
+      "num": 112237,
+      "word": "王艺迪vs徐孝元",
+      "onboard_time": 1710405274,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110267,
       "num": 110267,
       "word": "指甲盖大小的书",
@@ -2099,8 +2147,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65311,
-      "num": 319063,
+      "raw_hot": 71059,
+      "num": 342827,
       "word": "不是慕思你真放假啊",
       "onboard_time": 1710402033,
       "rank": 20,
