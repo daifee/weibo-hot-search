@@ -1,0 +1,410 @@
+{
+  "runTime": 1710411513863,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1509076,
+        "num": 1509076,
+        "word": "宿迁学院通报学生不雅视频",
+        "onboard_time": 1710408457,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2099355,
+        "num": 1386745,
+        "word": "燕郊爆炸系输送中的管道泄漏导致",
+        "onboard_time": 1710410134,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30983,
+        "num": 936097,
+        "word": "关键年看各地如何抓实干",
+        "onboard_time": 1710405876,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901662,
+        "num": 901662,
+        "word": "外卖黑勺是最脏的",
+        "onboard_time": 1710401134,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 727572,
+        "num": 727572,
+        "word": "贾乃亮直播带货虚假宣传舆情相对突出",
+        "onboard_time": 1710405516,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661581,
+        "num": 661581,
+        "word": "杨幂全球高定首穿",
+        "onboard_time": 1710401793,
+        "rank": 5,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 541680,
+        "num": 541680,
+        "word": "陈建斌又一次爱上了蒋勤勤",
+        "onboard_time": 1710407735,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 528600,
+        "num": 528600,
+        "word": "陪高三的女儿旷了一节晚自习",
+        "onboard_time": 1710402455,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192692,
+        "num": 481338,
+        "word": "汉服女医生一招救人又美又飒",
+        "onboard_time": 1710408937,
+        "rank": 8,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 218842,
+        "num": 477071,
+        "word": "姥姥倒车撞墙6岁外孙哭喊奔跑",
+        "onboard_time": 1710409830,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476413,
+        "num": 476413,
+        "word": "李佳琦董宇辉等17名主播被点名",
+        "onboard_time": 1710394837,
+        "rank": 10,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 468098,
+        "num": 468098,
+        "word": "凯特王妃",
+        "onboard_time": 1710386134,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 462656,
+        "num": 462656,
+        "word": "考研成了年轻人的中药",
+        "onboard_time": 1710406472,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 458572,
+        "num": 458572,
+        "word": "男性感染高危HPV会引起口腔癌",
+        "onboard_time": 1710406472,
+        "rank": 13,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 415517,
+        "num": 415517,
+        "word": "巧克力张张包",
+        "onboard_time": 1710406054,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379814,
+        "num": 379814,
+        "word": "男子开车带妻子体检遇爆炸不幸身亡",
+        "onboard_time": 1710393992,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352373,
+        "num": 352373,
+        "word": "宫崎骏 做好了它完成前死去的准备",
+        "onboard_time": 1710409715,
+        "rank": 16,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 337607,
+        "num": 337607,
+        "word": "深圳市原副市长黄敏被查",
+        "onboard_time": 1710401853,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308118,
+        "num": 308118,
+        "word": "新疆地震",
+        "onboard_time": 1710408034,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290864,
+        "num": 290864,
+        "word": "赵丽颖回应与凤行是配音",
+        "onboard_time": 1710402696,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1070851,
+        "num": 290630,
+        "word": "北极鲶鱼",
+        "onboard_time": 1710405993,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289683,
+        "num": 289683,
+        "word": "女性绝经后仍有患乳腺癌风险",
+        "onboard_time": 1710409894,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249400,
+        "num": 249400,
+        "word": "蒋勤勤不想蹭甄嬛传热度",
+        "onboard_time": 1710402696,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239568,
+        "num": 239568,
+        "word": "为什么洗澡水经常忽冷忽热",
+        "onboard_time": 1710403533,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 261990,
+        "num": 239555,
+        "word": "曾黎赵丽颖手挽手",
+        "onboard_time": 1710409774,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235637,
+        "num": 235637,
+        "word": "手机内存不足微信无法使用了",
+        "onboard_time": 1710410433,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 234097,
+        "num": 234097,
+        "word": "蒲熠星生日会",
+        "onboard_time": 1710410494,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223960,
+        "num": 223960,
+        "word": "逆水寒",
+        "onboard_time": 1710409055,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223939,
+        "num": 223939,
+        "word": "上海开出殡葬主题咖啡馆",
+        "onboard_time": 1710408154,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189770,
+        "num": 189770,
+        "word": "周冬雨给马思纯P图庆生",
+        "onboard_time": 1710407192,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163871,
+        "num": 163871,
+        "word": "董宇辉声明与辉同行从未收取坑位费",
+        "onboard_time": 1710407552,
+        "rank": 30,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 163069,
+        "num": 163069,
+        "word": "大学生人均三年戏龄",
+        "onboard_time": 1710409592,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161214,
+        "num": 161214,
+        "word": "女子花4700买阿玛尼外套穿一天掉色",
+        "onboard_time": 1710396813,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155345,
+        "num": 155345,
+        "word": "宠物医院高压氧舱事故受伤女子去世",
+        "onboard_time": 1710389014,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154708,
+        "num": 154708,
+        "word": "黄渤杨幂同框",
+        "onboard_time": 1710411153,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142935,
+        "num": 142935,
+        "word": "阚清子和未婚夫聚餐",
+        "onboard_time": 1710398076,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142108,
+        "num": 142108,
+        "word": "商务部回应美方通过TikTok法案",
+        "onboard_time": 1710404554,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137189,
+        "num": 137189,
+        "word": "Gucci签下羽生结弦",
+        "onboard_time": 1710400053,
+        "rank": 37,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 149866,
+        "num": 137001,
+        "word": "杨幂配音的小狐狸狡猾又勇敢",
+        "onboard_time": 1710407672,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135335,
+        "num": 135335,
+        "word": "法越馨拍赵丽颖",
+        "onboard_time": 1710410735,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134019,
+        "num": 134019,
+        "word": "yooa单曲",
+        "onboard_time": 1710411033,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124834,
+        "num": 124834,
+        "word": "代孕妈妈顶替他人身份在医院生产",
+        "onboard_time": 1710395674,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123098,
+        "num": 123098,
+        "word": "阿沁小姨子回应姐姐涉毒",
+        "onboard_time": 1710408695,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120484,
+        "num": 120484,
+        "word": "李诞爆改过程",
+        "onboard_time": 1710405154,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119931,
+        "num": 119931,
+        "word": "张远曾患躁郁症",
+        "onboard_time": 1710401495,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118059,
+        "num": 119775,
+        "word": "KSG对战BOA",
+        "onboard_time": 1710410494,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119773,
+        "num": 119773,
+        "word": "这才是对待工作应该有的心态",
+        "onboard_time": 1710410371,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118060,
+        "num": 118060,
+        "word": "热水器里面有多脏",
+        "onboard_time": 1710406356,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 115630,
+        "num": 115630,
+        "word": "林更新为赵丽颖提裙摆",
+        "onboard_time": 1710405993,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109797,
+        "num": 109797,
+        "word": "丹丹 凯程",
+        "onboard_time": 1710407735,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#环境资源界人士在绿色转型中发挥了积极作用#"
+    }
+  }
+}
