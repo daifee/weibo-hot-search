@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710386319673,
+  "endTime": 1710387269024,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2559705,
+      "num": 2559705,
+      "word": "警方回应男孩遭3名同学杀害并掩埋",
+      "onboard_time": 1710384272,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2510696,
       "num": 369097,
       "word": "遭多人强暴的西班牙网红收到印度政府赔偿",
@@ -248,14 +256,6 @@
       "word": "杭州万象城",
       "onboard_time": 1709983231,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2407885,
-      "num": 2407885,
-      "word": "警方回应男孩遭3名同学杀害并掩埋",
-      "onboard_time": 1710384272,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -1635,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1268962,
+      "num": 1268962,
+      "word": "凯特王妃",
+      "onboard_time": 1709660539,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1266697,
       "num": 1266697,
       "word": "纪凌尘的牙",
@@ -2259,6 +2267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1101655,
+      "num": 1101655,
+      "word": "清华大学教授称大学越来越像工厂",
+      "onboard_time": 1710383430,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1101093,
       "num": 1034617,
       "word": "藏海花 张起灵",
@@ -2484,7 +2500,7 @@
     },
     {
       "raw_hot": 1053425,
-      "num": 514524,
+      "num": 522547,
       "word": "Angelababy白色高定",
       "onboard_time": 1710380431,
       "rank": 11,
@@ -2553,14 +2569,6 @@
       "onboard_time": 1709779349,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1040245,
-      "num": 1040245,
-      "word": "凯特王妃",
-      "onboard_time": 1709660539,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1037335,
@@ -2977,14 +2985,6 @@
       "onboard_time": 1709883688,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 963989,
-      "num": 963989,
-      "word": "清华大学教授称大学越来越像工厂",
-      "onboard_time": 1710383430,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 963736,
@@ -5387,6 +5387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 669909,
+      "num": 669909,
+      "word": "长风破浪央视定档",
+      "onboard_time": 1710384272,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 669334,
       "num": 578722,
       "word": "李钟硕现身IU演唱会",
@@ -6403,12 +6411,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 599709,
-      "num": 599709,
-      "word": "长风破浪央视定档",
-      "onboard_time": 1710384272,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 600134,
+      "num": 600134,
+      "word": "和府捞面被曝含预制菜",
+      "onboard_time": 1710384634,
+      "rank": 19,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 599206,
@@ -6841,6 +6849,14 @@
       "onboard_time": 1709564017,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 568535,
+      "num": 568535,
+      "word": "赵露思上小学时的毕业照",
+      "onboard_time": 1710385293,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 568446,
@@ -9427,14 +9443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 445987,
-      "num": 445987,
-      "word": "赵露思上小学时的毕业照",
-      "onboard_time": 1710385293,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 444835,
       "num": 301927,
       "word": "杨天真回应不减肥原因",
@@ -10136,6 +10144,14 @@
       "word": "苏州小鹏P7事故碰撞前存在高速驾驶",
       "onboard_time": 1709301095,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417596,
+      "num": 417596,
+      "word": "代孕黑市称优质卵子可售100万",
+      "onboard_time": 1710385231,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -12579,14 +12595,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 336443,
-      "num": 336443,
-      "word": "和府捞面被曝含预制菜",
-      "onboard_time": 1710384634,
-      "rank": 19,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 336220,
       "num": 336220,
       "word": "高君雨",
@@ -13219,6 +13227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 318168,
+      "num": 318168,
+      "word": "对象重病时你中了200w",
+      "onboard_time": 1710385651,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 317903,
       "num": 317903,
       "word": "河北应急厅派工作组指导燕郊救援",
@@ -13633,6 +13649,14 @@
       "onboard_time": 1709859211,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 307826,
+      "num": 307826,
+      "word": "十个勤天或将录制hi6",
+      "onboard_time": 1710386254,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 307167,
@@ -14355,6 +14379,14 @@
       "category": "艺人,健康医疗"
     },
     {
+      "raw_hot": 291930,
+      "num": 291930,
+      "word": "五月天经纪公司回应网传开北京演唱会",
+      "onboard_time": 1710386795,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 291721,
       "num": 291721,
       "word": "孙千 愿每个女孩都做自己人生的太阳",
@@ -14785,14 +14817,6 @@
       "onboard_time": 1710302135,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 280650,
-      "num": 280650,
-      "word": "代孕黑市称优质卵子可售100万",
-      "onboard_time": 1710385231,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 280243,
@@ -15665,14 +15689,6 @@
       "onboard_time": 1710238233,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 263853,
-      "num": 263853,
-      "word": "对象重病时你中了200w",
-      "onboard_time": 1710385651,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 263683,
@@ -16779,6 +16795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 244290,
+      "num": 209853,
+      "word": "决定婚前同居时爸爸发来的信息",
+      "onboard_time": 1710386193,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 244058,
       "num": 244058,
       "word": "微信地图 3D",
@@ -16956,7 +16980,7 @@
     },
     {
       "raw_hot": 241800,
-      "num": 213704,
+      "num": 241741,
       "word": "这束35元的花真的好漂亮",
       "onboard_time": 1710385469,
       "rank": 30,
@@ -17833,14 +17857,6 @@
       "onboard_time": 1709612075,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 227672,
-      "num": 227672,
-      "word": "十个勤天或将录制hi6",
-      "onboard_time": 1710386254,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 227651,
@@ -20163,6 +20179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204099,
+      "num": 204099,
+      "word": "杨鸣 再出发",
+      "onboard_time": 1710386134,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204097,
       "num": 204097,
       "word": "河南一司法鉴定中心被举报涉嫌造假",
@@ -21739,6 +21763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193607,
+      "num": 193607,
+      "word": "天水麻辣烫",
+      "onboard_time": 1710386795,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 193534,
       "num": 193534,
       "word": "TXT FANLIVE",
@@ -22779,14 +22811,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 185073,
-      "num": 185073,
-      "word": "杨鸣 再出发",
-      "onboard_time": 1710386134,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 185001,
       "num": 185001,
       "word": "陈哲远GQ上班图",
@@ -23513,6 +23537,14 @@
       "onboard_time": 1710165753,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180007,
+      "num": 180007,
+      "word": "王鹤棣法国娇兰香水大片",
+      "onboard_time": 1710387096,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 179997,
@@ -24353,6 +24385,14 @@
       "onboard_time": 1709439091,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173808,
+      "num": 173808,
+      "word": "多位批发商称钟薛高早已停产",
+      "onboard_time": 1710385770,
+      "rank": 41,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 173736,
@@ -25875,14 +25915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163091,
-      "num": 163091,
-      "word": "多位批发商称钟薛高早已停产",
-      "onboard_time": 1710385770,
-      "rank": 41,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 163079,
       "num": 163079,
       "word": "春天撞上马面裙",
@@ -26337,6 +26369,14 @@
       "onboard_time": 1709792312,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160091,
+      "num": 160091,
+      "word": "收到猫猫被领养十年后的照片",
+      "onboard_time": 1710386976,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 160090,
@@ -26803,6 +26843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157787,
+      "num": 157787,
+      "word": "清明档",
+      "onboard_time": 1710386976,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157754,
       "num": 157754,
       "word": "种地吧导演也没认出陈少熙",
@@ -27065,6 +27113,14 @@
       "onboard_time": 1710284781,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 156302,
+      "num": 156302,
+      "word": "一种新的情侣头像出现了",
+      "onboard_time": 1710386734,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 156269,
@@ -28393,6 +28449,14 @@
       "onboard_time": 1709990912,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 147804,
+      "num": 147804,
+      "word": "逆水寒 三次元",
+      "onboard_time": 1710387215,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 147737,
@@ -30947,6 +31011,14 @@
       "category": "国外时政,艺人"
     },
     {
+      "raw_hot": 132765,
+      "num": 358885,
+      "word": "年轻人记录的春天有多美",
+      "onboard_time": 1710384331,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132723,
       "num": 132723,
       "word": "丁程鑫扎到张杰心了",
@@ -31761,14 +31833,6 @@
       "onboard_time": 1709793451,
       "rank": 41,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 127924,
-      "num": 127924,
-      "word": "决定婚前同居时爸爸发来的信息",
-      "onboard_time": 1710386193,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 127900,
@@ -34937,14 +35001,6 @@
       "onboard_time": 1709192971,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 103164,
-      "num": 334141,
-      "word": "年轻人记录的春天有多美",
-      "onboard_time": 1710384331,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103095,
