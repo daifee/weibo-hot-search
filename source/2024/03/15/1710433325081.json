@@ -1,0 +1,410 @@
+{
+  "runTime": 1710433325081,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1105475,
+        "num": 1105475,
+        "word": "凯特王妃到底怎么了",
+        "onboard_time": 1710430476,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 733517,
+        "num": 733517,
+        "word": "李诞cos孟宴臣",
+        "onboard_time": 1710425795,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 46075,
+        "num": 698064,
+        "word": "新质生产力本身就是绿色生产力",
+        "onboard_time": 1710420154,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687530,
+        "num": 687530,
+        "word": "杨威回应双胞胎女儿在家上学",
+        "onboard_time": 1710429102,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 592059,
+        "num": 592059,
+        "word": "孙颖莎王楚钦",
+        "onboard_time": 1710427595,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 513144,
+        "num": 513144,
+        "word": "papi酱考研胖了二十几斤",
+        "onboard_time": 1710425257,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 502548,
+        "num": 502548,
+        "word": "焦俊艳又可以收到钱了",
+        "onboard_time": 1710431195,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1399807,
+        "num": 484494,
+        "word": "邯郸被杀害男孩家属称凶手之一是男孩同桌",
+        "onboard_time": 1710430056,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397675,
+        "num": 397675,
+        "word": "张元英用中文回复来自中国的粉丝",
+        "onboard_time": 1710431560,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310593,
+        "num": 310593,
+        "word": "多方回应一老师在宿舍身亡",
+        "onboard_time": 1710425074,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659584,
+        "num": 310090,
+        "word": "马思纯评论区回复周冬雨",
+        "onboard_time": 1710431434,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438964,
+        "num": 309478,
+        "word": "一栗小莎子怀孕",
+        "onboard_time": 1710419134,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 308032,
+        "num": 308032,
+        "word": "五哈4官宣了哈",
+        "onboard_time": 1710420213,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307427,
+        "num": 307427,
+        "word": "对方拒绝了你的打压式教育",
+        "onboard_time": 1710431798,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299099,
+        "num": 299099,
+        "word": "SpaceX星舰第三次试飞提前结束",
+        "onboard_time": 1710427658,
+        "rank": 14,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 289528,
+        "num": 289528,
+        "word": "教育部曾明确叫停在家上学",
+        "onboard_time": 1710413553,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 264388,
+        "num": 264388,
+        "word": "马卉",
+        "onboard_time": 1710430542,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260584,
+        "num": 260584,
+        "word": "扶他柠檬茶",
+        "onboard_time": 1710415715,
+        "rank": 17,
+        "category": "读书作家,网红"
+      },
+      {
+        "raw_hot": 244987,
+        "num": 244987,
+        "word": "宿迁学院通报学生不雅视频",
+        "onboard_time": 1710408457,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224303,
+        "num": 224303,
+        "word": "小狗金子",
+        "onboard_time": 1710420632,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 309898,
+        "num": 223696,
+        "word": "三千块钱对你来说意味着什么",
+        "onboard_time": 1710429229,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220483,
+        "num": 220483,
+        "word": "孙俪女儿看甄嬛传也会跳过甘露寺",
+        "onboard_time": 1710425016,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203277,
+        "num": 203277,
+        "word": "在海底捞被陌生人要蛋糕了",
+        "onboard_time": 1710425257,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202877,
+        "num": 202877,
+        "word": "高伟光的腿",
+        "onboard_time": 1710431919,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188296,
+        "num": 188296,
+        "word": "杨幂全球高定首穿",
+        "onboard_time": 1710401793,
+        "rank": 24,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 177164,
+        "num": 177164,
+        "word": "赵丽颖化妆师还是闵塔鲨",
+        "onboard_time": 1710431256,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170122,
+        "num": 170122,
+        "word": "肖宇梁天水麻辣烫配着米饭吃",
+        "onboard_time": 1710430235,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167452,
+        "num": 167452,
+        "word": "蒋敦豪工作室",
+        "onboard_time": 1710423577,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147590,
+        "num": 147590,
+        "word": "外卖黑勺是最脏的",
+        "onboard_time": 1710401134,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 76773,
+        "num": 140795,
+        "word": "燕郊爆炸系输送中的管道泄漏导致",
+        "onboard_time": 1710410134,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163714,
+        "num": 140494,
+        "word": "鞠婧祎演恶女",
+        "onboard_time": 1710422317,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155976,
+        "num": 139802,
+        "word": "赵露思我老婆",
+        "onboard_time": 1710414813,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138590,
+        "num": 138590,
+        "word": "陈思诚 我的电影也不用都看",
+        "onboard_time": 1710422133,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135140,
+        "num": 135140,
+        "word": "医院整形科越来越多整容失败的病人",
+        "onboard_time": 1710428682,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125969,
+        "num": 125969,
+        "word": "邯郸遇害男孩亲属称校长说死是意外",
+        "onboard_time": 1710418773,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132321,
+        "num": 125863,
+        "word": "花间令",
+        "onboard_time": 1710428254,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125277,
+        "num": 125277,
+        "word": "救鱼啊 有鱼溺水了",
+        "onboard_time": 1710430777,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121985,
+        "num": 121985,
+        "word": "该花的钱一定要花出去",
+        "onboard_time": 1710430117,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121643,
+        "num": 121643,
+        "word": "清清转打野",
+        "onboard_time": 1710425074,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117517,
+        "num": 117517,
+        "word": "外交部回应美众议院通过TikTok法案",
+        "onboard_time": 1710431019,
+        "rank": 39,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 112463,
+        "num": 112463,
+        "word": "小狗去世后把它弟弟接回了家",
+        "onboard_time": 1710416915,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110995,
+        "num": 110995,
+        "word": "林俊杰演出中场进行雾化治疗",
+        "onboard_time": 1710415352,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102986,
+        "num": 102986,
+        "word": "我一直以为路由器是这么放的",
+        "onboard_time": 1710425917,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96998,
+        "num": 96998,
+        "word": "TTG发布说明",
+        "onboard_time": 1710418893,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96450,
+        "num": 96450,
+        "word": "马斯克SpaceX星舰第三次试飞",
+        "onboard_time": 1710421293,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 96152,
+        "num": 96152,
+        "word": "陈晓童瑶激情戏",
+        "onboard_time": 1710412656,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95393,
+        "num": 95393,
+        "word": "周也彭昱畅一口几对cp啊",
+        "onboard_time": 1710427595,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92718,
+        "num": 92718,
+        "word": "间谍过家家父母爱情",
+        "onboard_time": 1710429936,
+        "rank": 47,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 57805,
+        "num": 89703,
+        "word": "四川泸县3.1级地震",
+        "onboard_time": 1710432039,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51348,
+        "num": 87423,
+        "word": "王楚钦孙颖莎3比0林昀儒陈思羽",
+        "onboard_time": 1710427296,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展新质生产力总书记这样强调#"
+    }
+  }
+}
