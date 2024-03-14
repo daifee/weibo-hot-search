@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710437655647,
+  "endTime": 1710440483649,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -39139,6 +39139,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 55589,
+      "num": 55589,
+      "word": "博主再用AI复活高以翔",
+      "onboard_time": 1710437361,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55522,
       "num": 61412,
       "word": "秦霄贤包场被我弄丢的你",
@@ -39177,14 +39185,6 @@
       "onboard_time": 1709419997,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 54403,
-      "num": 54403,
-      "word": "博主再用AI复活高以翔",
-      "onboard_time": 1710437361,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 54396,
@@ -39841,6 +39841,14 @@
       "onboard_time": 1709745262,
       "rank": 45,
       "category": "艺人,旅游"
+    },
+    {
+      "raw_hot": 36442,
+      "num": 36442,
+      "word": "长沙一店铺门口贴招工启事被罚",
+      "onboard_time": 1710438022,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36374,

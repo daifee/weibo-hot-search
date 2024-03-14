@@ -1,6 +1,6 @@
 {
   "startTime": 1710433325081,
-  "endTime": 1710437655647,
+  "endTime": 1710440483649,
   "band_list": [
     {
       "raw_hot": 1399807,
@@ -451,8 +451,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54403,
-      "num": 54403,
+      "raw_hot": 55589,
+      "num": 55589,
       "word": "博主再用AI复活高以翔",
       "onboard_time": 1710437361,
       "rank": 42,
@@ -480,6 +480,14 @@
       "word": "新质生产力本身就是绿色生产力",
       "onboard_time": 1710420154,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36442,
+      "num": 36442,
+      "word": "长沙一店铺门口贴招工启事被罚",
+      "onboard_time": 1710438022,
+      "rank": 36,
       "category": "社会新闻"
     },
     {

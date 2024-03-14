@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710437655647,
+  "endTime": 1710440483649,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -14675,6 +14675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 55589,
+      "num": 55589,
+      "word": "博主再用AI复活高以翔",
+      "onboard_time": 1710437361,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55383,
       "num": 495570,
       "word": "安可拉红有多出片",
@@ -14689,14 +14697,6 @@
       "onboard_time": 1710001050,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54403,
-      "num": 54403,
-      "word": "博主再用AI复活高以翔",
-      "onboard_time": 1710437361,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 54288,
@@ -14888,6 +14888,14 @@
       "word": "关键年看各地如何抓实干",
       "onboard_time": 1710405876,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36442,
+      "num": 36442,
+      "word": "长沙一店铺门口贴招工启事被罚",
+      "onboard_time": 1710438022,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
