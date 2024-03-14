@@ -1,6 +1,6 @@
 {
   "startTime": 1710433325081,
-  "endTime": 1710434195917,
+  "endTime": 1710436532535,
   "band_list": [
     {
       "raw_hot": 1399807,
@@ -17,6 +17,14 @@
       "onboard_time": 1710430476,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 753471,
+      "num": 753471,
+      "word": "对方拒绝了你的打压式教育",
+      "onboard_time": 1710431798,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 733517,
@@ -57,14 +65,6 @@
       "onboard_time": 1710425257,
       "rank": 5,
       "category": "网红"
-    },
-    {
-      "raw_hot": 510806,
-      "num": 381210,
-      "word": "对方拒绝了你的打压式教育",
-      "onboard_time": 1710431798,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 502548,
@@ -203,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173570,
+      "num": 158590,
+      "word": "胡先煦文笔",
+      "onboard_time": 1710434129,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170122,
       "num": 170122,
       "word": "肖宇梁天水麻辣烫配着米饭吃",
@@ -224,14 +232,6 @@
       "word": "鞠婧祎演恶女",
       "onboard_time": 1710422317,
       "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 158590,
-      "num": 158590,
-      "word": "胡先煦文笔",
-      "onboard_time": 1710434129,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -331,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 105621,
+      "num": 105621,
+      "word": "金莎透露和男友未来规划",
+      "onboard_time": 1710435686,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102986,
       "num": 102986,
       "word": "我一直以为路由器是这么放的",
@@ -379,12 +387,60 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 86270,
+      "num": 86270,
+      "word": "男子在同学婚礼上刮刮乐中奖10万",
+      "onboard_time": 1710433472,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76773,
       "num": 140795,
       "word": "燕郊爆炸系输送中的管道泄漏导致",
       "onboard_time": 1710410134,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 73129,
+      "num": 73129,
+      "word": "童瑶 姓顾的哪有买假包的",
+      "onboard_time": 1710426455,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 71323,
+      "num": 71323,
+      "word": "王星越被消音",
+      "onboard_time": 1710435986,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68340,
+      "num": 68340,
+      "word": "相恋6年的异地情侣见面都为对方准备了花",
+      "onboard_time": 1710432276,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 66371,
+      "num": 66371,
+      "word": "李佳琦董宇辉等17名主播被点名",
+      "onboard_time": 1710394837,
+      "rank": 43,
+      "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 59797,
+      "num": 59797,
+      "word": "第五人格富江",
+      "onboard_time": 1710414933,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 57805,
@@ -415,6 +471,14 @@
       "num": 698064,
       "word": "新质生产力本身就是绿色生产力",
       "onboard_time": 1710420154,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14716,
+      "num": 376596,
+      "word": "春耕图景里的科技范儿",
+      "onboard_time": 1710419011,
       "rank": 2,
       "category": "社会新闻"
     }
