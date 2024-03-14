@@ -1,6 +1,6 @@
 {
   "startTime": 1710346860842,
-  "endTime": 1710414911182,
+  "endTime": 1710416059126,
   "band_list": [
     {
       "raw_hot": 3029620,
@@ -8,6 +8,14 @@
       "word": "29岁女儿不结婚父亲代孕延续后代",
       "onboard_time": 1710378871,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2954401,
+      "num": 2954401,
+      "word": "25岁规培女医生刎颈自杀",
+      "onboard_time": 1710412411,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -67,14 +75,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2117719,
-      "num": 537494,
-      "word": "25岁规培女医生刎颈自杀",
-      "onboard_time": 1710412411,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1984124,
       "num": 1383050,
       "word": "山竹",
@@ -83,19 +83,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1718122,
+      "num": 566613,
+      "word": "遇害男孩埋尸地距凶手家不足百米",
+      "onboard_time": 1710411931,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1678525,
       "num": 1678525,
       "word": "独生女举报62岁父亲代孕生儿子",
       "onboard_time": 1710342695,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1614446,
-      "num": 538986,
-      "word": "遇害男孩埋尸地距凶手家不足百米",
-      "onboard_time": 1710411931,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -259,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 860437,
+      "num": 860437,
+      "word": "教育局回应遭同学杀害男孩被霸凌",
+      "onboard_time": 1710413730,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 853003,
       "num": 853003,
       "word": "女子花4700买阿玛尼外套穿一天掉色",
@@ -297,6 +305,14 @@
       "onboard_time": 1710380369,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757448,
+      "num": 757448,
+      "word": "手机内存不足微信无法使用了",
+      "onboard_time": 1710410433,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 727572,
@@ -419,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 605110,
+      "num": 558974,
+      "word": "赵露思我老婆",
+      "onboard_time": 1710414813,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 594871,
       "num": 594871,
       "word": "刘亦菲17岁跑步旧照",
@@ -457,14 +481,6 @@
       "onboard_time": 1710395553,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 563215,
-      "num": 563215,
-      "word": "手机内存不足微信无法使用了",
-      "onboard_time": 1710410433,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 557010,
@@ -512,14 +528,6 @@
       "word": "四川监狱评邯郸男孩遭同学杀害",
       "onboard_time": 1710392674,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 537227,
-      "num": 537227,
-      "word": "教育局回应遭同学杀害男孩被霸凌",
-      "onboard_time": 1710413730,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -577,6 +585,14 @@
       "onboard_time": 1710376234,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 497124,
+      "num": 497124,
+      "word": "第五人格富江",
+      "onboard_time": 1710414933,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 491966,
@@ -681,6 +697,14 @@
       "onboard_time": 1710413314,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 427538,
+      "num": 427538,
+      "word": "教育部曾明确叫停在家上学",
+      "onboard_time": 1710413553,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 427317,
@@ -867,6 +891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 336198,
+      "num": 336198,
+      "word": "林俊杰演出中场进行雾化治疗",
+      "onboard_time": 1710415352,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 332621,
       "num": 332621,
       "word": "对象重病时你中了200w",
@@ -913,6 +945,14 @@
       "onboard_time": 1710389433,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 324882,
+      "num": 569145,
+      "word": "姥姥倒车撞墙6岁外孙哭喊奔跑",
+      "onboard_time": 1710409830,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322554,
@@ -1025,22 +1065,6 @@
       "onboard_time": 1710409894,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 288704,
-      "num": 288704,
-      "word": "教育部曾明确叫停在家上学",
-      "onboard_time": 1710413553,
-      "rank": 21,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 285334,
-      "num": 537681,
-      "word": "姥姥倒车撞墙6岁外孙哭喊奔跑",
-      "onboard_time": 1710409830,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 282706,
@@ -1316,7 +1340,7 @@
     },
     {
       "raw_hot": 228984,
-      "num": 538202,
+      "num": 576852,
       "word": "汉服女医生一招救人又美又飒",
       "onboard_time": 1710408937,
       "rank": 8,
@@ -1345,6 +1369,14 @@
       "onboard_time": 1710375389,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 226611,
+      "num": 226611,
+      "word": "堪比流水席的国产剧扫楼",
+      "onboard_time": 1710414093,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 225983,
@@ -1651,12 +1683,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 193982,
-      "num": 193982,
-      "word": "堪比流水席的国产剧扫楼",
-      "onboard_time": 1710414093,
+      "raw_hot": 194973,
+      "num": 194973,
+      "word": "无法接受自己已经30了",
+      "onboard_time": 1710415173,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 194891,
+      "num": 194891,
+      "word": "河北邯郸",
+      "onboard_time": 1710415715,
       "rank": 29,
-      "category": "剧集"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193905,
@@ -1673,6 +1713,14 @@
       "onboard_time": 1710394055,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193209,
+      "num": 193209,
+      "word": "珠帘玉幕",
+      "onboard_time": 1710415651,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 191598,
@@ -1859,6 +1907,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167153,
+      "num": 167153,
+      "word": "雷军回应小米汽车多个传闻",
+      "onboard_time": 1710415352,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 166858,
+      "num": 166858,
+      "word": "扶他柠檬茶",
+      "onboard_time": 1710415715,
+      "rank": 36,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 166344,
       "num": 166344,
       "word": "凯特",
@@ -1931,6 +1995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160970,
+      "num": 160970,
+      "word": "陈梦朱芊曦",
+      "onboard_time": 1710415950,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160917,
       "num": 160917,
       "word": "中国汽车在俄罗斯不愁卖不动",
@@ -1945,6 +2017,14 @@
       "onboard_time": 1710411153,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159371,
+      "num": 159371,
+      "word": "元气森林",
+      "onboard_time": 1710414693,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 157897,
@@ -1979,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152989,
+      "num": 152989,
+      "word": "SpaceX星舰",
+      "onboard_time": 1710414573,
+      "rank": 46,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 152781,
       "num": 152781,
       "word": "可能真的是宫崎骏最后一部电影了",
@@ -1993,6 +2081,14 @@
       "onboard_time": 1710395373,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151676,
+      "num": 151676,
+      "word": "广东一公司校招员工因颜值走红",
+      "onboard_time": 1710415832,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151574,
@@ -2059,6 +2155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144978,
+      "num": 144978,
+      "word": "这两种感冒药千万别同时吃",
+      "onboard_time": 1710412894,
+      "rank": 38,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 144548,
       "num": 144548,
       "word": "72岁奶奶请我把她化成少女模样",
@@ -2097,14 +2201,6 @@
       "onboard_time": 1710396755,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142150,
-      "num": 142150,
-      "word": "元气森林",
-      "onboard_time": 1710414693,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 140765,
@@ -2155,14 +2251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137375,
-      "num": 137375,
-      "word": "这两种感冒药千万别同时吃",
-      "onboard_time": 1710412894,
-      "rank": 38,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 136901,
       "num": 475041,
       "word": "你的手机屏幕在室外够亮吗",
@@ -2177,6 +2265,14 @@
       "onboard_time": 1710414452,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 136241,
+      "num": 136241,
+      "word": "河北省委强调支持和保障记者正当采访",
+      "onboard_time": 1710415772,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135364,
@@ -2257,6 +2353,14 @@
       "onboard_time": 1710413374,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129471,
+      "num": 129471,
+      "word": "0713为俞灏明新剧小日子打call",
+      "onboard_time": 1710414933,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 128851,
@@ -2355,28 +2459,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123588,
-      "num": 123588,
-      "word": "SpaceX星舰",
-      "onboard_time": 1710414573,
-      "rank": 46,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 123559,
       "num": 123559,
       "word": "小猴子照顾生病的妈妈",
       "onboard_time": 1710381629,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 123485,
-      "num": 123485,
-      "word": "赵露思我老婆",
-      "onboard_time": 1710414813,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 123098,
