@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710433325081,
+  "endTime": 1710434195917,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -5355,6 +5355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 701572,
+      "num": 701572,
+      "word": "马思纯评论区回复周冬雨",
+      "onboard_time": 1710431434,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 700698,
       "num": 700698,
       "word": "教资科二",
@@ -5921,14 +5929,6 @@
       "onboard_time": 1710340419,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 659584,
-      "num": 310090,
-      "word": "马思纯评论区回复周冬雨",
-      "onboard_time": 1710431434,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 659398,
@@ -8579,6 +8579,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 510806,
+      "num": 381210,
+      "word": "对方拒绝了你的打压式教育",
+      "onboard_time": 1710431798,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 510704,
       "num": 510704,
       "word": "苏翊鸣晒与朱易滑雪照",
@@ -10675,6 +10683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 425358,
+      "num": 425358,
+      "word": "张元英用中文回复来自中国的粉丝",
+      "onboard_time": 1710431560,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 425148,
       "num": 250364,
       "word": "是周四也是周五",
@@ -11409,14 +11425,6 @@
       "onboard_time": 1709540672,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397675,
-      "num": 397675,
-      "word": "张元英用中文回复来自中国的粉丝",
-      "onboard_time": 1710431560,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 397160,
@@ -14545,14 +14553,6 @@
       "onboard_time": 1710386254,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 307427,
-      "num": 307427,
-      "word": "对方拒绝了你的打压式教育",
-      "onboard_time": 1710431798,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 307183,
@@ -28411,6 +28411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158590,
+      "num": 158590,
+      "word": "胡先煦文笔",
+      "onboard_time": 1710434129,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158536,
       "num": 158536,
       "word": "妈妈错过的婚纱照我来补",
@@ -39207,6 +39215,14 @@
       "num": 317059,
       "word": "皇家社会vs巴黎圣日耳曼",
       "onboard_time": 1709656227,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 53547,
+      "num": 90639,
+      "word": "英格兰新一期大名单",
+      "onboard_time": 1710433831,
       "rank": 49,
       "category": "体育"
     },

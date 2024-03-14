@@ -1,6 +1,6 @@
 {
   "startTime": 1710433325081,
-  "endTime": 1710433325081,
+  "endTime": 1710434195917,
   "band_list": [
     {
       "raw_hot": 1399807,
@@ -27,20 +27,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 701572,
+      "num": 701572,
+      "word": "马思纯评论区回复周冬雨",
+      "onboard_time": 1710431434,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 687530,
       "num": 687530,
       "word": "杨威回应双胞胎女儿在家上学",
       "onboard_time": 1710429102,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 659584,
-      "num": 310090,
-      "word": "马思纯评论区回复周冬雨",
-      "onboard_time": 1710431434,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 592059,
@@ -59,6 +59,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 510806,
+      "num": 381210,
+      "word": "对方拒绝了你的打压式教育",
+      "onboard_time": 1710431798,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 502548,
       "num": 502548,
       "word": "焦俊艳又可以收到钱了",
@@ -68,15 +76,15 @@
     },
     {
       "raw_hot": 438964,
-      "num": 309478,
+      "num": 380353,
       "word": "一栗小莎子怀孕",
       "onboard_time": 1710419134,
       "rank": 11,
       "category": "网红"
     },
     {
-      "raw_hot": 397675,
-      "num": 397675,
+      "raw_hot": 425358,
+      "num": 425358,
       "word": "张元英用中文回复来自中国的粉丝",
       "onboard_time": 1710431560,
       "rank": 8,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 310593,
-      "num": 310593,
+      "num": 381245,
       "word": "多方回应一老师在宿舍身亡",
       "onboard_time": 1710425074,
       "rank": 9,
@@ -105,14 +113,6 @@
       "onboard_time": 1710420213,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 307427,
-      "num": 307427,
-      "word": "对方拒绝了你的打压式教育",
-      "onboard_time": 1710431798,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 299099,
@@ -224,6 +224,14 @@
       "word": "鞠婧祎演恶女",
       "onboard_time": 1710422317,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158590,
+      "num": 158590,
+      "word": "胡先煦文笔",
+      "onboard_time": 1710434129,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -387,10 +395,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51348,
-      "num": 87423,
+      "raw_hot": 53932,
+      "num": 90646,
       "word": "王楚钦孙颖莎3比0林昀儒陈思羽",
       "onboard_time": 1710427296,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 53547,
+      "num": 90639,
+      "word": "英格兰新一期大名单",
+      "onboard_time": 1710433831,
       "rank": 49,
       "category": "体育"
     },
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#发展新质生产力总书记这样强调#"
+    },
+    {
+      "word": "#学习绘文#"
     }
   ]
 }
