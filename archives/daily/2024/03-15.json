@@ -1,6 +1,6 @@
 {
   "startTime": 1710433325081,
-  "endTime": 1710458223829,
+  "endTime": 1710459338761,
   "band_list": [
     {
       "raw_hot": 1399807,
@@ -19,8 +19,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 906248,
-      "num": 906248,
+      "raw_hot": 1008098,
+      "num": 1008098,
       "word": "对方拒绝了你的打压式教育",
       "onboard_time": 1710431798,
       "rank": 13,
@@ -75,6 +75,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 493506,
+      "num": 112526,
+      "word": "辽宁一药房疑流出客情关系维护表涉及多单位",
+      "onboard_time": 1710457884,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442456,
+      "num": 442456,
+      "word": "我一直以为路由器是这么放的",
+      "onboard_time": 1710425917,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 438964,
       "num": 380353,
       "word": "一栗小莎子怀孕",
@@ -91,12 +107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 368967,
-      "num": 368967,
-      "word": "我一直以为路由器是这么放的",
-      "onboard_time": 1710425917,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 364471,
+      "num": 364471,
+      "word": "315",
+      "onboard_time": 1710458607,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 310593,
@@ -131,12 +147,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 294972,
+      "num": 294972,
+      "word": "男子在同学婚礼上刮刮乐中奖10万",
+      "onboard_time": 1710433472,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289528,
       "num": 289528,
       "word": "教育部曾明确叫停在家上学",
       "onboard_time": 1710413553,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 264580,
+      "num": 264580,
+      "word": "特斯拉市值一夜蒸发1847亿",
+      "onboard_time": 1710444557,
+      "rank": 49,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 264388,
@@ -155,19 +187,19 @@
       "category": "读书作家,网红"
     },
     {
-      "raw_hot": 250392,
-      "num": 250392,
-      "word": "男子在同学婚礼上刮刮乐中奖10万",
-      "onboard_time": 1710433472,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244987,
       "num": 244987,
       "word": "宿迁学院通报学生不雅视频",
       "onboard_time": 1710408457,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224980,
+      "num": 112292,
+      "word": "百果园门店车厘子JJ当JJJJ卖",
+      "onboard_time": 1710457346,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -203,20 +235,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188881,
+      "num": 188881,
+      "word": "日本福岛近海地震核污染水排海停止",
+      "onboard_time": 1710458790,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 188296,
       "num": 188296,
       "word": "杨幂全球高定首穿",
       "onboard_time": 1710401793,
       "rank": 24,
       "category": "电影,时尚"
-    },
-    {
-      "raw_hot": 184424,
-      "num": 184424,
-      "word": "特斯拉市值一夜蒸发1847亿",
-      "onboard_time": 1710444557,
-      "rank": 49,
-      "category": "财经,汽车"
     },
     {
       "raw_hot": 177164,
@@ -243,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173043,
+      "num": 173043,
+      "word": "医院整形科越来越多整容失败的病人",
+      "onboard_time": 1710428682,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 170122,
       "num": 170122,
       "word": "肖宇梁天水麻辣烫配着米饭吃",
@@ -265,14 +305,6 @@
       "onboard_time": 1710422317,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162327,
-      "num": 162327,
-      "word": "医院整形科越来越多整容失败的病人",
-      "onboard_time": 1710428682,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 155976,
@@ -299,20 +331,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 136373,
+      "num": 136373,
+      "word": "老公玩股票这件事我觉得很慌",
+      "onboard_time": 1710451454,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132321,
       "num": 125863,
       "word": "花间令",
       "onboard_time": 1710428254,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127880,
-      "num": 82396,
-      "word": "百果园门店车厘子JJ当JJJJ卖",
-      "onboard_time": 1710457346,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 125969,
@@ -361,14 +393,6 @@
       "onboard_time": 1710431019,
       "rank": 39,
       "category": "国内时政,互联网"
-    },
-    {
-      "raw_hot": 113938,
-      "num": 113938,
-      "word": "老公玩股票这件事我觉得很慌",
-      "onboard_time": 1710451454,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 112463,
@@ -427,11 +451,19 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 82066,
-      "num": 82066,
-      "word": "辽宁一药房疑流出客情关系维护表涉及多单位",
-      "onboard_time": 1710457884,
-      "rank": 24,
+      "raw_hot": 84658,
+      "num": 84658,
+      "word": "为什么上了大学会有落差感",
+      "onboard_time": 1710457406,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 78211,
+      "num": 78211,
+      "word": "长沙一店铺门口贴招工启事被罚",
+      "onboard_time": 1710438022,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -451,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71978,
+      "num": 71978,
+      "word": "马思纯生日簪花照",
+      "onboard_time": 1710453918,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71323,
       "num": 71323,
       "word": "王星越被消音",
@@ -467,12 +507,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 66423,
-      "num": 66423,
-      "word": "长沙一店铺门口贴招工启事被罚",
-      "onboard_time": 1710438022,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 61162,
+      "num": 61162,
+      "word": "普通NPC的一生",
+      "onboard_time": 1710458125,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 60554,
+      "num": 60554,
+      "word": "五哈4世界级旅行",
+      "onboard_time": 1710457948,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 60409,
+      "num": 60409,
+      "word": "让吴镇宇害怕的女人来了",
+      "onboard_time": 1710444436,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 59797,
@@ -481,14 +537,6 @@
       "onboard_time": 1710414933,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 58747,
-      "num": 58747,
-      "word": "马思纯生日簪花照",
-      "onboard_time": 1710453918,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 57998,
@@ -515,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53938,
+      "num": 53938,
+      "word": "爱诺百思宠物医院停业整顿",
+      "onboard_time": 1710459088,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53932,
       "num": 90646,
       "word": "王楚钦孙颖莎3比0林昀儒陈思羽",
@@ -529,14 +585,6 @@
       "onboard_time": 1710433831,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52356,
-      "num": 52356,
-      "word": "为什么上了大学会有落差感",
-      "onboard_time": 1710457406,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 46075,
@@ -555,28 +603,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 39273,
-      "num": 39273,
-      "word": "五哈4世界级旅行",
-      "onboard_time": 1710457948,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 38865,
-      "num": 38865,
-      "word": "让吴镇宇害怕的女人来了",
-      "onboard_time": 1710444436,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 38667,
-      "num": 38667,
-      "word": "普通NPC的一生",
-      "onboard_time": 1710458125,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 30118,
+      "num": 482693,
+      "word": "春耕图景里的科技范儿",
+      "onboard_time": 1710419011,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26689,
@@ -593,14 +625,6 @@
       "onboard_time": 1710416492,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23589,
-      "num": 387171,
-      "word": "春耕图景里的科技范儿",
-      "onboard_time": 1710419011,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
