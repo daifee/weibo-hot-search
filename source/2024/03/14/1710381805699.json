@@ -1,0 +1,410 @@
+{
+  "runTime": 1710381805699,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2218718,
+        "num": 2218718,
+        "word": "29岁女儿不结婚父亲代孕延续后代",
+        "onboard_time": 1710378871,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2098418,
+        "num": 2098418,
+        "word": "燕郊爆燃事故致7死27伤",
+        "onboard_time": 1710356418,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34439,
+        "num": 1441600,
+        "word": "开展国家勋章和国家荣誉称号评选颁授",
+        "onboard_time": 1710333872,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 843219,
+        "num": 843219,
+        "word": "河北三河通报央视记者燕郊采访遇阻",
+        "onboard_time": 1710372325,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 728701,
+        "num": 728701,
+        "word": "喝咖啡建议一天别超过1200毫升",
+        "onboard_time": 1710373470,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 641456,
+        "num": 641456,
+        "word": "孙俪长发",
+        "onboard_time": 1710374973,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579974,
+        "num": 579974,
+        "word": "巴勒斯坦男孩放烟花遭枪击身亡",
+        "onboard_time": 1710380009,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 570275,
+        "num": 570275,
+        "word": "删了吧我有个朋友破防了",
+        "onboard_time": 1710375453,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 438692,
+        "num": 438692,
+        "word": "花4千网购85寸大电视收到一个小饰品",
+        "onboard_time": 1710377792,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 382892,
+        "num": 382892,
+        "word": "邯郸",
+        "onboard_time": 1710377914,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751410,
+        "num": 381346,
+        "word": "独生女举报62岁父亲代孕生儿子",
+        "onboard_time": 1710342695,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687007,
+        "num": 379830,
+        "word": "Angelababy白色高定",
+        "onboard_time": 1710380431,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 376999,
+        "num": 376999,
+        "word": "租房千万别租串串房",
+        "onboard_time": 1710378871,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365564,
+        "num": 365564,
+        "word": "张元英身材比例",
+        "onboard_time": 1710376715,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362246,
+        "num": 362246,
+        "word": "山竹",
+        "onboard_time": 1710380969,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 344073,
+        "num": 344073,
+        "word": "爱情公寓演员试镜视频",
+        "onboard_time": 1710373470,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340332,
+        "num": 340332,
+        "word": "五月天 北京",
+        "onboard_time": 1710373649,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 318564,
+        "num": 318564,
+        "word": "婚礼后男方拒领证要回5万多彩礼",
+        "onboard_time": 1710380369,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310411,
+        "num": 310411,
+        "word": "阿姨卖夹饼90度敞开往里塞肉",
+        "onboard_time": 1710357257,
+        "rank": 18,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 293127,
+        "num": 293127,
+        "word": "为什么大学生不快乐",
+        "onboard_time": 1710377372,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 404108,
+        "num": 291913,
+        "word": "分手断联21天定律",
+        "onboard_time": 1710377315,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333500,
+        "num": 291386,
+        "word": "HPV疫苗等九价还是有啥打啥",
+        "onboard_time": 1710378987,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 289299,
+        "num": 289299,
+        "word": "请病假还走了两万的微信步数",
+        "onboard_time": 1710372683,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237782,
+        "num": 237782,
+        "word": "TheBodyShop宣布破产",
+        "onboard_time": 1710380850,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 228569,
+        "num": 228569,
+        "word": "杭州全面放开二手房限购",
+        "onboard_time": 1710378033,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220247,
+        "num": 220247,
+        "word": "将太郎道歉",
+        "onboard_time": 1710377554,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217861,
+        "num": 217861,
+        "word": "吴磊蒋勤勤陈建斌演一家三口",
+        "onboard_time": 1710375876,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214483,
+        "num": 214483,
+        "word": "肾不好的预警信号有哪些",
+        "onboard_time": 1710379770,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208398,
+        "num": 208398,
+        "word": "一天中喝咖啡的最佳时间",
+        "onboard_time": 1710379414,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 205444,
+        "num": 205444,
+        "word": "李一桐狐妖王权篇跳舞路透",
+        "onboard_time": 1710375514,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198273,
+        "num": 198273,
+        "word": "这一次周生辰反抗了",
+        "onboard_time": 1710380850,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182928,
+        "num": 182928,
+        "word": "代号鸢新池",
+        "onboard_time": 1710379414,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165614,
+        "num": 165614,
+        "word": "上海地铁",
+        "onboard_time": 1710376234,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157077,
+        "num": 157077,
+        "word": "央视今年315晚会节目单公布",
+        "onboard_time": 1710342813,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150554,
+        "num": 150554,
+        "word": "每个人的生日都能在圆周率里找到",
+        "onboard_time": 1710378153,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148474,
+        "num": 148474,
+        "word": "欧阳娜娜行李丢了",
+        "onboard_time": 1710379830,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148471,
+        "num": 148471,
+        "word": "国际圆周率日",
+        "onboard_time": 1710380491,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148111,
+        "num": 148111,
+        "word": "千万别再关灯玩手机了",
+        "onboard_time": 1710343774,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146142,
+        "num": 146142,
+        "word": "90后妈妈为给孩子看病代孕赚钱",
+        "onboard_time": 1710339455,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144548,
+        "num": 144548,
+        "word": "72岁奶奶请我把她化成少女模样",
+        "onboard_time": 1710379951,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136438,
+        "num": 136438,
+        "word": "陕西400多岁的古旱莲开花了",
+        "onboard_time": 1710381511,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 135805,
+        "num": 135805,
+        "word": "TikTok回应美众议院通过法案",
+        "onboard_time": 1710372927,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131329,
+        "num": 131329,
+        "word": "蔡少芬洪欣陈法蓉素颜合照",
+        "onboard_time": 1710378574,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129498,
+        "num": 129498,
+        "word": "月薪5000元看不起付费短剧",
+        "onboard_time": 1710335973,
+        "rank": 43,
+        "category": "社会新闻,剧集"
+      },
+      {
+        "raw_hot": 124875,
+        "num": 124875,
+        "word": "潘博文",
+        "onboard_time": 1710347906,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123559,
+        "num": 123559,
+        "word": "小猴子照顾生病的妈妈",
+        "onboard_time": 1710381629,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119022,
+        "num": 119022,
+        "word": "这5个伤肾行为很多人都在做",
+        "onboard_time": 1710378691,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115439,
+        "num": 115439,
+        "word": "吉利被曝车内甲醛超标",
+        "onboard_time": 1710381751,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114613,
+        "num": 114613,
+        "word": "这么好的春天我却在上班",
+        "onboard_time": 1710374010,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114563,
+        "num": 114563,
+        "word": "宋雨琦担任MLB表演嘉宾",
+        "onboard_time": 1710381691,
+        "rank": 49,
+        "category": "体育,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#要把职业教育发展好要树立工匠精神#"
+    }
+  }
+}
