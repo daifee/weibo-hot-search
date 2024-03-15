@@ -1,6 +1,6 @@
 {
   "startTime": 1710433325081,
-  "endTime": 1710505853553,
+  "endTime": 1710506737431,
   "band_list": [
     {
       "raw_hot": 10978107,
@@ -19,8 +19,8 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 5861109,
-      "num": 5861109,
+      "raw_hot": 6123589,
+      "num": 6123589,
       "word": "315晚会",
       "onboard_time": 1710502477,
       "rank": 1,
@@ -41,6 +41,14 @@
       "onboard_time": 1710497980,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2321139,
+      "num": 2321139,
+      "word": "315奶茶",
+      "onboard_time": 1710504037,
+      "rank": 4,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 2252560,
@@ -139,14 +147,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1487162,
-      "num": 1487162,
-      "word": "315奶茶",
-      "onboard_time": 1710504037,
-      "rank": 4,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 1463193,
       "num": 1463193,
       "word": "女子试戴8千元金首饰忘摘下隔天送回",
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1422485,
+      "num": 1422485,
+      "word": "古茗",
+      "onboard_time": 1710503380,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1413049,
       "num": 1413049,
       "word": "主持人马卉被永久封禁直播权限",
@@ -177,14 +185,6 @@
       "onboard_time": 1710430056,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1336484,
-      "num": 1336484,
-      "word": "古茗",
-      "onboard_time": 1710503380,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 1324242,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 928587,
+      "num": 928587,
+      "word": "王曼昱vs伊藤美诚",
+      "onboard_time": 1710505420,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 926735,
       "num": 926735,
       "word": "英国王室上演消失的她",
@@ -435,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 692498,
+      "num": 692498,
+      "word": "315曝光主板机黑灰产业链",
+      "onboard_time": 1710505360,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 687530,
       "num": 687530,
       "word": "杨威回应双胞胎女儿在家上学",
@@ -443,8 +459,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 671952,
-      "num": 671952,
+      "raw_hot": 678776,
+      "num": 678776,
       "word": "凯特王妃为什么就是不出现",
       "onboard_time": 1710501461,
       "rank": 31,
@@ -579,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 538608,
+      "num": 538608,
+      "word": "刘国梁为王楚钦孙颖莎颁奖",
+      "onboard_time": 1710505180,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 529114,
       "num": 321710,
       "word": "朋友圈屏蔽同事被发现了",
@@ -665,14 +689,6 @@
       "onboard_time": 1710464198,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 473754,
-      "num": 473754,
-      "word": "王曼昱vs伊藤美诚",
-      "onboard_time": 1710505420,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 470166,
@@ -923,8 +939,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 355488,
-      "num": 355488,
+      "raw_hot": 355632,
+      "num": 355632,
       "word": "惠英红 惹到我算是惹到霸王花了",
       "onboard_time": 1710501338,
       "rank": 24,
@@ -1035,14 +1051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 313989,
-      "num": 224230,
-      "word": "刘国梁为王楚钦孙颖莎颁奖",
-      "onboard_time": 1710505180,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 310593,
       "num": 381245,
       "word": "多方回应一老师在宿舍身亡",
@@ -1107,6 +1115,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299668,
+      "num": 299668,
+      "word": "全员加速中",
+      "onboard_time": 1710505478,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 299265,
+      "num": 299265,
+      "word": "张海宇断食暴瘦饰演瘾君子",
+      "onboard_time": 1710504637,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 299243,
+      "num": 299243,
+      "word": "淀粉肠 溺爱",
+      "onboard_time": 1710502777,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 299099,
       "num": 299099,
       "word": "SpaceX星舰第三次试飞提前结束",
@@ -1129,14 +1161,6 @@
       "onboard_time": 1710467735,
       "rank": 17,
       "category": "游戏,动漫"
-    },
-    {
-      "raw_hot": 294828,
-      "num": 294828,
-      "word": "315曝光主板机黑灰产业链",
-      "onboard_time": 1710505360,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 292978,
@@ -1203,14 +1227,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 274153,
-      "num": 274153,
-      "word": "淀粉肠 溺爱",
-      "onboard_time": 1710502777,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 272281,
       "num": 272281,
       "word": "部分共享充电宝一身臭毛病",
@@ -1241,6 +1257,14 @@
       "onboard_time": 1710470611,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267903,
+      "num": 267903,
+      "word": "315曝光灭不了火的灭火器",
+      "onboard_time": 1710506560,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267838,
@@ -1297,14 +1321,6 @@
       "onboard_time": 1710415715,
       "rank": 17,
       "category": "读书作家,网红"
-    },
-    {
-      "raw_hot": 260210,
-      "num": 260210,
-      "word": "张海宇断食暴瘦饰演瘾君子",
-      "onboard_time": 1710504637,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 258632,
@@ -1395,14 +1411,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 244000,
-      "num": 244000,
-      "word": "全员加速中",
-      "onboard_time": 1710505478,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 241259,
       "num": 241259,
       "word": "赵丽颖把林更新夸成歪嘴龙王",
@@ -1411,8 +1419,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 239569,
-      "num": 239569,
+      "raw_hot": 240520,
+      "num": 240520,
+      "word": "打假",
+      "onboard_time": 1710505420,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240169,
+      "num": 240169,
       "word": "五年友谊因一次旅游分崩离析",
       "onboard_time": 1710502179,
       "rank": 33,
@@ -1595,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208954,
+      "num": 208954,
+      "word": "网络水军利用主板机随意更改IP",
+      "onboard_time": 1710505478,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208839,
       "num": 208839,
       "word": "春色寄情人处处吻预告",
@@ -1617,6 +1641,14 @@
       "onboard_time": 1710476018,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 205374,
+      "num": 205374,
+      "word": "妈妈开门我是沈月",
+      "onboard_time": 1710506442,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 204732,
@@ -1667,14 +1699,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197478,
-      "num": 197478,
-      "word": "网络水军利用主板机随意更改IP",
-      "onboard_time": 1710505478,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196956,
       "num": 196956,
       "word": "直播带货投诉量5年间增幅47倍",
@@ -1721,14 +1745,6 @@
       "onboard_time": 1710498160,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 194418,
-      "num": 194418,
-      "word": "打假",
-      "onboard_time": 1710505420,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193134,
@@ -2003,6 +2019,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 165973,
+      "num": 165973,
+      "word": "云抖科技",
+      "onboard_time": 1710506497,
+      "rank": 42,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 164941,
       "num": 164941,
       "word": "灿烂的她今日上映",
@@ -2032,6 +2056,14 @@
       "word": "王艺迪vs钱天一",
       "onboard_time": 1710481178,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162368,
+      "num": 162368,
+      "word": "短道速滑世锦赛",
+      "onboard_time": 1710506261,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -2611,6 +2643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79121,
+      "num": 549274,
+      "word": "中央网信办部署2024年清朗行动",
+      "onboard_time": 1710498219,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78211,
       "num": 78211,
       "word": "长沙一店铺门口贴招工启事被罚",
@@ -2657,14 +2697,6 @@
       "onboard_time": 1710432276,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 66154,
-      "num": 462510,
-      "word": "中央网信办部署2024年清朗行动",
-      "onboard_time": 1710498219,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61162,
@@ -2787,8 +2819,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19482,
-      "num": 2910666,
+      "raw_hot": 20333,
+      "num": 4091455,
       "word": "镜头里的大美中国",
       "onboard_time": 1710450315,
       "rank": 2,
