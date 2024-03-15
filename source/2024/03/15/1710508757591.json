@@ -1,0 +1,410 @@
+{
+  "runTime": 1710508757591,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10949237,
+        "num": 10949237,
+        "word": "315晚会",
+        "onboard_time": 1710502477,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6573168,
+        "num": 6573168,
+        "word": "淀粉肠塌房",
+        "onboard_time": 1710498581,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 90450,
+        "num": 4600879,
+        "word": "哪款美食是你的春日限定",
+        "onboard_time": 1710507707,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3421549,
+        "num": 3421549,
+        "word": "梅菜扣肉 槽头肉",
+        "onboard_time": 1710506985,
+        "rank": 3,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 2438275,
+        "num": 2438275,
+        "word": "315奶茶",
+        "onboard_time": 1710504037,
+        "rank": 4,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 2125428,
+        "num": 2125428,
+        "word": "徐正溪退圈原因",
+        "onboard_time": 1710497980,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1312425,
+        "num": 1312425,
+        "word": "古茗",
+        "onboard_time": 1710503380,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1122225,
+        "num": 1122225,
+        "word": "315预制菜",
+        "onboard_time": 1710507282,
+        "rank": 7,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1111015,
+        "num": 1111015,
+        "word": "听花酒",
+        "onboard_time": 1710507103,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 983621,
+        "num": 983621,
+        "word": "王曼昱vs伊藤美诚",
+        "onboard_time": 1710505420,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1055665,
+        "num": 979967,
+        "word": "徐正溪退圈",
+        "onboard_time": 1710491854,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 974961,
+        "num": 974961,
+        "word": "麦当劳崩了",
+        "onboard_time": 1710484117,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 785831,
+        "num": 785831,
+        "word": "315曝光灭不了火的灭火器",
+        "onboard_time": 1710506560,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722591,
+        "num": 722591,
+        "word": "主持人马卉被永久封禁直播权限",
+        "onboard_time": 1710492094,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 545315,
+        "num": 545315,
+        "word": "凯特王妃为什么就是不出现",
+        "onboard_time": 1710501461,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 526423,
+        "num": 526423,
+        "word": "315曝光主板机黑灰产业链",
+        "onboard_time": 1710505360,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410387,
+        "num": 410387,
+        "word": "我不吃",
+        "onboard_time": 1710507707,
+        "rank": 16,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 398533,
+        "num": 398533,
+        "word": "妈妈开门我是沈月",
+        "onboard_time": 1710506442,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392357,
+        "num": 392357,
+        "word": "刘国梁为王楚钦孙颖莎颁奖",
+        "onboard_time": 1710505180,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388302,
+        "num": 388302,
+        "word": "女孩花21万元整形出院当天跳河自杀",
+        "onboard_time": 1710490655,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423449,
+        "num": 388149,
+        "word": "聪明人已经去银行囤黄金了",
+        "onboard_time": 1710506862,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 338680,
+        "num": 338680,
+        "word": "徐正溪上岸了吗",
+        "onboard_time": 1710501878,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315270,
+        "num": 315270,
+        "word": "建议胃不好的人吃饭干湿分离",
+        "onboard_time": 1710498817,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 296243,
+        "num": 296243,
+        "word": "淀粉肠 溺爱",
+        "onboard_time": 1710502777,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 295793,
+        "num": 295793,
+        "word": "莎头组合夺冠",
+        "onboard_time": 1710503619,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279707,
+        "num": 279707,
+        "word": "韩素希ins更新夏威夷照片",
+        "onboard_time": 1710476199,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278044,
+        "num": 278044,
+        "word": "马卉",
+        "onboard_time": 1710494323,
+        "rank": 26,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 277163,
+        "num": 277163,
+        "word": "英国王室上演消失的她",
+        "onboard_time": 1710496959,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 274067,
+        "num": 274067,
+        "word": "市监局已前往315曝光云抖科技排查",
+        "onboard_time": 1710508182,
+        "rank": 28,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 262744,
+        "num": 262744,
+        "word": "惠英红 惹到我算是惹到霸王花了",
+        "onboard_time": 1710501338,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1336227,
+        "num": 256698,
+        "word": "茶百道 崩铁",
+        "onboard_time": 1710475958,
+        "rank": 30,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 239543,
+        "num": 239543,
+        "word": "王曼昱4比2伊藤美诚",
+        "onboard_time": 1710508546,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219795,
+        "num": 219795,
+        "word": "全员加速中",
+        "onboard_time": 1710505478,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217138,
+        "num": 217138,
+        "word": "市监总局回应315曝光肉类问题",
+        "onboard_time": 1710508363,
+        "rank": 33,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 206681,
+        "num": 206681,
+        "word": "云抖科技",
+        "onboard_time": 1710506497,
+        "rank": 34,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 205143,
+        "num": 205143,
+        "word": "花间令",
+        "onboard_time": 1710500800,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202998,
+        "num": 202998,
+        "word": "王俊凯说发微博更像发朋友圈",
+        "onboard_time": 1710500497,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190847,
+        "num": 190847,
+        "word": "灭火器",
+        "onboard_time": 1710508241,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196136,
+        "num": 189759,
+        "word": "我是嫡长狗",
+        "onboard_time": 1710501698,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185730,
+        "num": 185730,
+        "word": "张海宇断食暴瘦饰演瘾君子",
+        "onboard_time": 1710504637,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166933,
+        "num": 166933,
+        "word": "王楚钦孙颖莎三连冠",
+        "onboard_time": 1710504582,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165564,
+        "num": 165564,
+        "word": "见过最人性化的洗手池",
+        "onboard_time": 1710507644,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164377,
+        "num": 164377,
+        "word": "听花酒被315晚会点名",
+        "onboard_time": 1710508546,
+        "rank": 42,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 152446,
+        "num": 152446,
+        "word": "花间令 坟头表白",
+        "onboard_time": 1710504338,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148542,
+        "num": 148542,
+        "word": "315曝光假防火玻璃黑产链",
+        "onboard_time": 1710507164,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147829,
+        "num": 147829,
+        "word": "考研复试",
+        "onboard_time": 1710503137,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144955,
+        "num": 144955,
+        "word": "孙颖莎王楚钦vs韩国队",
+        "onboard_time": 1710498581,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140295,
+        "num": 140295,
+        "word": "Yumi回应暴瘦",
+        "onboard_time": 1710508661,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135878,
+        "num": 135878,
+        "word": "不防火的防火玻璃",
+        "onboard_time": 1710507582,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133962,
+        "num": 133962,
+        "word": "迪丽热巴摩登裙",
+        "onboard_time": 1710488914,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#只有扎根人民创作才能获得用之不竭的源泉#"
+    }
+  }
+}

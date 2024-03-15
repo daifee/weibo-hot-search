@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710506737431,
+  "endTime": 1710508757591,
   "band_list": [
     {
       "raw_hot": 10978107,
@@ -9,6 +9,14 @@
       "onboard_time": 1710491854,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10949237,
+      "num": 10949237,
+      "word": "315晚会",
+      "onboard_time": 1710502477,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9658561,
@@ -35,14 +43,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6123589,
-      "num": 6123589,
-      "word": "315晚会",
-      "onboard_time": 1710502477,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 4703483,
       "num": 4703483,
       "word": "燕郊镇发生爆炸",
@@ -57,6 +57,14 @@
       "onboard_time": 1710290554,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3421549,
+      "num": 3421549,
+      "word": "梅菜扣肉 槽头肉",
+      "onboard_time": 1710506985,
+      "rank": 3,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 3192353,
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2438275,
+      "num": 2438275,
+      "word": "315奶茶",
+      "onboard_time": 1710504037,
+      "rank": 4,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 2402039,
       "num": 1386745,
       "word": "燕郊爆炸系输送中的管道泄漏导致",
@@ -193,14 +209,6 @@
       "onboard_time": 1710057870,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2321139,
-      "num": 2321139,
-      "word": "315奶茶",
-      "onboard_time": 1710504037,
-      "rank": 4,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 2313376,
@@ -1243,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1122225,
+      "num": 1122225,
+      "word": "315预制菜",
+      "onboard_time": 1710507282,
+      "rank": 7,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1117216,
       "num": 1052315,
       "word": "鹿晗骨相",
@@ -1265,6 +1281,14 @@
       "onboard_time": 1710307111,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1111015,
+      "num": 1111015,
+      "word": "听花酒",
+      "onboard_time": 1710507103,
+      "rank": 8,
+      "category": "美食"
     },
     {
       "raw_hot": 1109792,
@@ -1627,6 +1651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 983621,
+      "num": 983621,
+      "word": "王曼昱vs伊藤美诚",
+      "onboard_time": 1710505420,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 983410,
       "num": 983410,
       "word": "代孕黑市称优质卵子可售100万",
@@ -1777,14 +1809,6 @@
       "onboard_time": 1710033627,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 928587,
-      "num": 928587,
-      "word": "王曼昱vs伊藤美诚",
-      "onboard_time": 1710505420,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 926735,
@@ -2193,6 +2217,14 @@
       "onboard_time": 1710229412,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 785831,
+      "num": 785831,
+      "word": "315曝光灭不了火的灭火器",
+      "onboard_time": 1710506560,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 783739,
@@ -4963,6 +4995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423449,
+      "num": 388149,
+      "word": "聪明人已经去银行囤黄金了",
+      "onboard_time": 1710506862,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 423360,
       "num": 423360,
       "word": "小宝宝臀部长了小尾巴",
@@ -5099,6 +5139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410387,
+      "num": 410387,
+      "word": "我不吃",
+      "onboard_time": 1710507707,
+      "rank": 16,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 409318,
       "num": 409318,
       "word": "网友用AI复活李玟",
@@ -5217,6 +5265,14 @@
       "onboard_time": 1710217955,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 398533,
+      "num": 398533,
+      "word": "妈妈开门我是沈月",
+      "onboard_time": 1710506442,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 398250,
@@ -7347,6 +7403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 274067,
+      "num": 274067,
+      "word": "市监局已前往315曝光云抖科技排查",
+      "onboard_time": 1710508182,
+      "rank": 28,
+      "category": "社会新闻,数码"
+    },
+    {
       "raw_hot": 274040,
       "num": 274040,
       "word": "刘浩存郑州",
@@ -7489,14 +7553,6 @@
       "onboard_time": 1710297813,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 267903,
-      "num": 267903,
-      "word": "315曝光灭不了火的灭火器",
-      "onboard_time": 1710506560,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267838,
@@ -8459,6 +8515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 239543,
+      "num": 239543,
+      "word": "王曼昱4比2伊藤美诚",
+      "onboard_time": 1710508546,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 238746,
       "num": 238746,
       "word": "孙千陈靖可居家大片",
@@ -9323,6 +9387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217138,
+      "num": 217138,
+      "word": "市监总局回应315曝光肉类问题",
+      "onboard_time": 1710508363,
+      "rank": 33,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 216564,
       "num": 216564,
       "word": "丁程鑫校园剧男主",
@@ -9899,6 +9971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206681,
+      "num": 206681,
+      "word": "云抖科技",
+      "onboard_time": 1710506497,
+      "rank": 42,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 206385,
       "num": 206385,
       "word": "惠英红 灿烂的还有银幕外的你们",
@@ -9937,14 +10017,6 @@
       "onboard_time": 1710314193,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205374,
-      "num": 205374,
-      "word": "妈妈开门我是沈月",
-      "onboard_time": 1710506442,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 205349,
@@ -11041,6 +11113,14 @@
       "onboard_time": 1710256234,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190847,
+      "num": 190847,
+      "word": "灭火器",
+      "onboard_time": 1710508241,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190724,
@@ -12499,14 +12579,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 165973,
-      "num": 165973,
-      "word": "云抖科技",
-      "onboard_time": 1710506497,
-      "rank": 42,
-      "category": "社会新闻,互联网"
-    },
-    {
       "raw_hot": 165910,
       "num": 165910,
       "word": "一公司因广告中最佳2字被罚20万",
@@ -12529,6 +12601,14 @@
       "onboard_time": 1710040948,
       "rank": 33,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 165564,
+      "num": 165564,
+      "word": "见过最人性化的洗手池",
+      "onboard_time": 1710507644,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 165360,
@@ -12601,6 +12681,14 @@
       "onboard_time": 1710147030,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164377,
+      "num": 164377,
+      "word": "听花酒被315晚会点名",
+      "onboard_time": 1710508546,
+      "rank": 42,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 164142,
@@ -13667,6 +13755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148542,
+      "num": 148542,
+      "word": "315曝光假防火玻璃黑产链",
+      "onboard_time": 1710507164,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148474,
       "num": 148474,
       "word": "欧阳娜娜行李丢了",
@@ -14251,6 +14347,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 140295,
+      "num": 140295,
+      "word": "Yumi回应暴瘦",
+      "onboard_time": 1710508661,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140286,
       "num": 140286,
       "word": "马嘉祺新综艺路透",
@@ -14561,6 +14665,14 @@
       "onboard_time": 1710485613,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 135878,
+      "num": 135878,
+      "word": "不防火的防火玻璃",
+      "onboard_time": 1710507582,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135682,
@@ -16392,6 +16504,14 @@
       "word": "南大一48岁博士生8年未毕业被劝退",
       "onboard_time": 1709981731,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90450,
+      "num": 4600879,
+      "word": "哪款美食是你的春日限定",
+      "onboard_time": 1710507707,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
