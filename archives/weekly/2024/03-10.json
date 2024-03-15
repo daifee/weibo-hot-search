@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710459338761,
+  "endTime": 1710465123698,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -169,6 +169,14 @@
       "onboard_time": 1710318154,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2252560,
+      "num": 2252560,
+      "word": "杀害同学初中生最高可判无期徒刑",
+      "onboard_time": 1710460051,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2185298,
@@ -483,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1575426,
+      "num": 1575426,
+      "word": "又有多家医院停止产科分娩服务",
+      "onboard_time": 1710461434,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1572473,
       "num": 1572473,
       "word": "谁在围剿农夫山泉",
@@ -705,6 +721,14 @@
       "onboard_time": 1710049467,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1305742,
+      "num": 1305742,
+      "word": "315",
+      "onboard_time": 1710458607,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1304908,
@@ -1115,6 +1139,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 1097671,
+      "num": 1008098,
+      "word": "对方拒绝了你的打压式教育",
+      "onboard_time": 1710431798,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1085477,
       "num": 1085477,
       "word": "中通快递",
@@ -1305,14 +1337,6 @@
       "onboard_time": 1710325473,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1008098,
-      "num": 1008098,
-      "word": "对方拒绝了你的打压式教育",
-      "onboard_time": 1710431798,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 1006637,
@@ -1529,6 +1553,14 @@
       "onboard_time": 1710068970,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 901709,
+      "num": 901709,
+      "word": "脊柱侧弯女孩术后高了21厘米",
+      "onboard_time": 1710461675,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 893470,
@@ -2307,6 +2339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 678888,
+      "num": 390640,
+      "word": "抖音买商品拼多多发货",
+      "onboard_time": 1710463719,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 675978,
       "num": 675978,
       "word": "国家线今天出吗",
@@ -2569,6 +2609,14 @@
       "onboard_time": 1710300693,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 635472,
+      "num": 635472,
+      "word": "胡歌在中戏专业成绩第二",
+      "onboard_time": 1710462759,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 632292,
@@ -2929,6 +2977,14 @@
       "onboard_time": 1709995714,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 569278,
+      "num": 253901,
+      "word": "孙怡用过的手机壳",
+      "onboard_time": 1710463719,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 569193,
@@ -4019,6 +4075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 449664,
+      "num": 449664,
+      "word": "日本福岛近海地震核污染水排海停止",
+      "onboard_time": 1710458790,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 448490,
       "num": 448490,
       "word": "刘诗诗生图",
@@ -4051,6 +4115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443800,
+      "num": 443800,
+      "word": "我一直以为路由器是这么放的",
+      "onboard_time": 1710425917,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 443651,
       "num": 443651,
       "word": "X疾病会到来吗",
@@ -4081,14 +4153,6 @@
       "onboard_time": 1710422194,
       "rank": 46,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 442456,
-      "num": 442456,
-      "word": "我一直以为路由器是这么放的",
-      "onboard_time": 1710425917,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 442434,
@@ -4129,6 +4193,14 @@
       "onboard_time": 1710425074,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 438735,
+      "num": 438735,
+      "word": "星舰失联了但已取得巨大进展",
+      "onboard_time": 1710460472,
+      "rank": 9,
+      "category": "科学科普"
     },
     {
       "raw_hot": 438714,
@@ -4497,6 +4569,14 @@
       "onboard_time": 1710321334,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 397076,
+      "num": 245793,
+      "word": "民警被10岁报警孩子生僻名字难住了",
+      "onboard_time": 1710464198,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396829,
@@ -4913,14 +4993,6 @@
       "onboard_time": 1710425615,
       "rank": 36,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 364471,
-      "num": 364471,
-      "word": "315",
-      "onboard_time": 1710458607,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 361921,
@@ -5691,6 +5763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 308164,
+      "num": 308164,
+      "word": "男子在同学婚礼上刮刮乐中奖10万",
+      "onboard_time": 1710433472,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308118,
       "num": 308118,
       "word": "新疆地震",
@@ -5995,14 +6075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294972,
-      "num": 294972,
-      "word": "男子在同学婚礼上刮刮乐中奖10万",
-      "onboard_time": 1710433472,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 294738,
       "num": 294738,
       "word": "俄国防部通报一架伊尔76坠毁",
@@ -6283,6 +6355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 275908,
+      "num": 275908,
+      "word": "10岁小孩哥捡到一个5岁萌娃",
+      "onboard_time": 1710463837,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275023,
       "num": 236414,
       "word": "檀健次回应爆红后熬出头",
@@ -6403,6 +6483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 269608,
+      "num": 240095,
+      "word": "谁懂这个牵手动作的含金量",
+      "onboard_time": 1710462156,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269107,
       "num": 269107,
       "word": "李宝英李钟硕重聚合照",
@@ -6417,6 +6505,14 @@
       "onboard_time": 1710297813,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 267838,
+      "num": 267838,
+      "word": "警察看人能准到什么程度",
+      "onboard_time": 1710459331,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267605,
@@ -6457,6 +6553,14 @@
       "onboard_time": 1710396154,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 266001,
+      "num": 266001,
+      "word": "王子奇陈哲远 钢铁森林",
+      "onboard_time": 1710459874,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 265619,
@@ -7475,6 +7579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230136,
+      "num": 230136,
+      "word": "百果园门店车厘子JJ当JJJJ卖",
+      "onboard_time": 1710457346,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230107,
       "num": 230107,
       "word": "统一了东西方审美的蓝色美学",
@@ -7689,14 +7801,6 @@
       "onboard_time": 1710169414,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 224980,
-      "num": 112292,
-      "word": "百果园门店车厘子JJ当JJJJ卖",
-      "onboard_time": 1710457346,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224483,
@@ -9123,6 +9227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196956,
+      "num": 196956,
+      "word": "直播带货投诉量5年间增幅47倍",
+      "onboard_time": 1710464493,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 196951,
       "num": 196951,
       "word": "ArianaGrande见到杨紫琼的反应",
@@ -9152,6 +9264,14 @@
       "word": "第一次看见这样的闪电",
       "onboard_time": 1710322593,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196904,
+      "num": 196904,
+      "word": "不止315更要365",
+      "onboard_time": 1710462156,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -9603,14 +9723,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 188881,
-      "num": 188881,
-      "word": "日本福岛近海地震核污染水排海停止",
-      "onboard_time": 1710458790,
-      "rank": 12,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 188822,
       "num": 203437,
       "word": "经常剪头发不会长得更快",
@@ -9915,6 +10027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182801,
+      "num": 182801,
+      "word": "国际消费者权益日",
+      "onboard_time": 1710463178,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182798,
       "num": 182798,
       "word": "小心翼翼吃草莓的小狗",
@@ -10017,6 +10137,14 @@
       "onboard_time": 1710039929,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181346,
+      "num": 181346,
+      "word": "杀害同学3名初中生家属仍未道歉",
+      "onboard_time": 1710464736,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181310,
@@ -11099,6 +11227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160351,
+      "num": 160351,
+      "word": "王鹤棣一组物料被4个cp嗑",
+      "onboard_time": 1710461195,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160341,
       "num": 160341,
       "word": "原神千织",
@@ -11129,6 +11265,14 @@
       "onboard_time": 1710420874,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159997,
+      "num": 159997,
+      "word": "Tarzan疑似回归赛场",
+      "onboard_time": 1710462095,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 159941,
@@ -11369,6 +11513,14 @@
       "onboard_time": 1710312513,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156914,
+      "num": 156914,
+      "word": "冰凌花破冰绽放好治愈",
+      "onboard_time": 1710464555,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 156846,
@@ -12187,6 +12339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142364,
+      "num": 142364,
+      "word": "救鱼啊 有鱼溺水了",
+      "onboard_time": 1710430777,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142306,
       "num": 142306,
       "word": "新手班主任分享现在中学生有多难管",
@@ -12233,6 +12393,14 @@
       "onboard_time": 1710039269,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141582,
+      "num": 141582,
+      "word": "Sora为何没能诞生在中国",
+      "onboard_time": 1710462874,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 141538,
@@ -13187,14 +13355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125277,
-      "num": 125277,
-      "word": "救鱼啊 有鱼溺水了",
-      "onboard_time": 1710430777,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125002,
       "num": 125002,
       "word": "李菲儿作品曾入围戛纳电影节",
@@ -13667,6 +13827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114717,
+      "num": 114717,
+      "word": "胡锡进谈SpaceX星舰第三次试飞",
+      "onboard_time": 1710462515,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 114486,
       "num": 114486,
       "word": "国产战鹰龙抬头壁纸",
@@ -13784,6 +13952,14 @@
       "word": "王艺迪vs徐孝元",
       "onboard_time": 1710405274,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111983,
+      "num": 111983,
+      "word": "佩佩表现",
+      "onboard_time": 1710461616,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -14723,6 +14899,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 59348,
+      "num": 1306147,
+      "word": "春耕图景里的科技范儿",
+      "onboard_time": 1710419011,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58628,
       "num": 431637,
       "word": "1首诗的时间带你领略大美四川",
@@ -15017,14 +15201,6 @@
       "onboard_time": 1710276974,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 35709,
-      "num": 735733,
-      "word": "春耕图景里的科技范儿",
-      "onboard_time": 1710419011,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35010,
