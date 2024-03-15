@@ -1,6 +1,6 @@
 {
   "startTime": 1710433325081,
-  "endTime": 1710470073299,
+  "endTime": 1710472807839,
   "band_list": [
     {
       "raw_hot": 2252560,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1455317,
+      "num": 1455317,
+      "word": "男孩跪地遭多名男女持棍殴打",
+      "onboard_time": 1710469774,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1399807,
       "num": 484494,
       "word": "邯郸被杀害男孩家属称凶手之一是男孩同桌",
@@ -65,6 +73,22 @@
       "onboard_time": 1710431798,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1058448,
+      "num": 1058448,
+      "word": "我们仨定档",
+      "onboard_time": 1710471333,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 960050,
+      "num": 960050,
+      "word": "巧克力可能要涨价了",
+      "onboard_time": 1710469291,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 941121,
@@ -115,12 +139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 654924,
+      "num": 569701,
+      "word": "高仿LV包装只需30元",
+      "onboard_time": 1710470553,
+      "rank": 10,
+      "category": "社会新闻,时尚"
+    },
+    {
       "raw_hot": 635472,
       "num": 635472,
       "word": "胡歌在中戏专业成绩第二",
       "onboard_time": 1710462759,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 628220,
+      "num": 628220,
+      "word": "戴眼镜会让视力变差是错误认知",
+      "onboard_time": 1710470553,
+      "rank": 7,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 592059,
@@ -145,6 +185,14 @@
       "onboard_time": 1710466653,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 541085,
+      "num": 541085,
+      "word": "曹卫东被查",
+      "onboard_time": 1710470910,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 513144,
@@ -177,6 +225,14 @@
       "onboard_time": 1710464198,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467990,
+      "num": 467990,
+      "word": "成毅求求大家别熬夜了",
+      "onboard_time": 1710469473,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 464454,
@@ -243,14 +299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 411319,
-      "num": 306380,
-      "word": "成毅求求大家别熬夜了",
-      "onboard_time": 1710469473,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 402941,
       "num": 212886,
       "word": "杜华点名程潇吴宣仪化妆好",
@@ -260,7 +308,7 @@
     },
     {
       "raw_hot": 397779,
-      "num": 269965,
+      "num": 293044,
       "word": "女孩们挤爆喜茶和纸片老公领证",
       "onboard_time": 1710466056,
       "rank": 40,
@@ -268,7 +316,7 @@
     },
     {
       "raw_hot": 392038,
-      "num": 304426,
+      "num": 320720,
       "word": "怎么体检才能不花冤枉钱",
       "onboard_time": 1710467016,
       "rank": 15,
@@ -276,11 +324,19 @@
     },
     {
       "raw_hot": 384760,
-      "num": 303028,
+      "num": 357282,
       "word": "标着退货包邮为何退货还要付运费",
       "onboard_time": 1710467855,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358425,
+      "num": 358425,
+      "word": "春色寄情人成年人的恋爱",
+      "onboard_time": 1710472053,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 332102,
@@ -289,6 +345,38 @@
       "onboard_time": 1710465694,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 331959,
+      "num": 331959,
+      "word": "排球少年确认引进",
+      "onboard_time": 1710470374,
+      "rank": 16,
+      "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 328659,
+      "num": 328659,
+      "word": "俄罗斯总统选举投票正式开始",
+      "onboard_time": 1710470311,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 322725,
+      "num": 322725,
+      "word": "头部电商主播为什么纷纷隐身",
+      "onboard_time": 1710469114,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 319745,
+      "num": 319745,
+      "word": "AI换脸成杨幂刘亦菲卖减肥茶",
+      "onboard_time": 1710471453,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 310593,
@@ -339,6 +427,22 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 292319,
+      "num": 219452,
+      "word": "主持人马卉回应直播疑现不雅照",
+      "onboard_time": 1710471812,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 291042,
+      "num": 291042,
+      "word": "赵露思费加罗开季封面",
+      "onboard_time": 1710471812,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 289528,
       "num": 289528,
       "word": "教育部曾明确叫停在家上学",
@@ -347,12 +451,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 274698,
-      "num": 274698,
-      "word": "巧克力可能要涨价了",
-      "onboard_time": 1710469291,
-      "rank": 30,
-      "category": "美食"
+      "raw_hot": 275291,
+      "num": 275291,
+      "word": "刘浩存 正太音",
+      "onboard_time": 1710471212,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 271534,
@@ -369,6 +473,14 @@
       "onboard_time": 1710462156,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269399,
+      "num": 269399,
+      "word": "总台315晚会总导演发声",
+      "onboard_time": 1710470611,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 267838,
@@ -409,14 +521,6 @@
       "onboard_time": 1710415715,
       "rank": 17,
       "category": "读书作家,网红"
-    },
-    {
-      "raw_hot": 247288,
-      "num": 247288,
-      "word": "头部电商主播为什么纷纷隐身",
-      "onboard_time": 1710469114,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 244987,
@@ -473,6 +577,14 @@
       "onboard_time": 1710469714,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204732,
+      "num": 204732,
+      "word": "网信办整治网络主播摆拍卖惨内容",
+      "onboard_time": 1710472053,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202877,
@@ -537,6 +649,14 @@
       "onboard_time": 1710467913,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179409,
+      "num": 179409,
+      "word": "鞠婧祎侧分麻花辫",
+      "onboard_time": 1710471453,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 177164,
@@ -635,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151843,
+      "num": 151843,
+      "word": "十个勤天 少年中国说",
+      "onboard_time": 1710471575,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150920,
       "num": 150920,
       "word": "TTG",
@@ -657,6 +785,14 @@
       "onboard_time": 1710401134,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 146126,
+      "num": 146126,
+      "word": "你买过什么上当的东西",
+      "onboard_time": 1710471873,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 141582,
@@ -691,12 +827,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 136556,
+      "num": 136556,
+      "word": "大谷翔平公开妻子合影",
+      "onboard_time": 1710471095,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136373,
       "num": 136373,
       "word": "老公玩股票这件事我觉得很慌",
       "onboard_time": 1710451454,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135988,
+      "num": 135988,
+      "word": "眼睛干涩手心画十字",
+      "onboard_time": 1710471697,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 132321,
@@ -763,6 +915,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 119196,
+      "num": 119196,
+      "word": "鞠婧祎雨中撑伞氛围感",
+      "onboard_time": 1710471394,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117517,
       "num": 117517,
       "word": "外交部回应美众议院通过TikTok法案",
@@ -791,14 +951,6 @@
       "num": 114205,
       "word": "丫丫悠闲晒太阳啃大苹果",
       "onboard_time": 1710467975,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 113831,
-      "num": 113831,
-      "word": "男孩跪地遭多名男女持棍殴打",
-      "onboard_time": 1710469774,
       "rank": 46,
       "category": "社会新闻"
     },
@@ -833,6 +985,14 @@
       "onboard_time": 1710415352,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 109246,
+      "num": 109246,
+      "word": "集中整治自媒体造热点蹭热点",
+      "onboard_time": 1710471095,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108387,
