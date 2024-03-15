@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1710508757591,
+  "endTime": 1710509648692,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -115,20 +115,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 10990895,
+      "num": 10990895,
+      "word": "315晚会",
+      "onboard_time": 1710502477,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10978107,
       "num": 10978107,
       "word": "徐正溪退圈",
       "onboard_time": 1710491854,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 10949237,
-      "num": 10949237,
-      "word": "315晚会",
-      "onboard_time": 1710502477,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10841679,

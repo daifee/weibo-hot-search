@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710508757591,
+  "endTime": 1710509648692,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -11,20 +11,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 10990895,
+      "num": 10990895,
+      "word": "315晚会",
+      "onboard_time": 1710502477,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10978107,
       "num": 10978107,
       "word": "徐正溪退圈",
       "onboard_time": 1710491854,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 10949237,
-      "num": 10949237,
-      "word": "315晚会",
-      "onboard_time": 1710502477,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9658561,
@@ -729,6 +729,14 @@
       "onboard_time": 1709392413,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1918427,
+      "num": 1918427,
+      "word": "宝马传动轴",
+      "onboard_time": 1710509022,
+      "rank": 6,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 1906470,
@@ -2451,6 +2459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1151715,
+      "num": 1151715,
+      "word": "315预制菜",
+      "onboard_time": 1710507282,
+      "rank": 7,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1150307,
       "num": 467740,
       "word": "赵丽颖工作室 还不出图",
@@ -2593,14 +2609,6 @@
       "onboard_time": 1709882548,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1122225,
-      "num": 1122225,
-      "word": "315预制菜",
-      "onboard_time": 1710507282,
-      "rank": 7,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1120464,
@@ -5683,6 +5691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 708963,
+      "num": 708963,
+      "word": "王曼昱4比2伊藤美诚",
+      "onboard_time": 1710508546,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 708103,
       "num": 708103,
       "word": "周也嘴巴哭成typec",
@@ -7851,6 +7867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 568826,
+      "num": 568826,
+      "word": "我不吃",
+      "onboard_time": 1710507707,
+      "rank": 16,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 568535,
       "num": 568535,
       "word": "赵露思上小学时的毕业照",
@@ -8529,6 +8553,14 @@
       "onboard_time": 1710412656,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 538801,
+      "num": 538801,
+      "word": "315记者卧底婚恋平台",
+      "onboard_time": 1710509143,
+      "rank": 16,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 538737,
@@ -9961,6 +9993,14 @@
       "onboard_time": 1709626595,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 480472,
+      "num": 414911,
+      "word": "聪明人已经去银行囤黄金了",
+      "onboard_time": 1710506862,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 479756,
@@ -11483,14 +11523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 423449,
-      "num": 388149,
-      "word": "聪明人已经去银行囤黄金了",
-      "onboard_time": 1710506862,
-      "rank": 20,
-      "category": "财经"
-    },
-    {
       "raw_hot": 423360,
       "num": 423360,
       "word": "小宝宝臀部长了小尾巴",
@@ -11521,6 +11553,14 @@
       "onboard_time": 1709689829,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 422076,
+      "num": 422076,
+      "word": "市监局已前往315曝光云抖科技排查",
+      "onboard_time": 1710508182,
+      "rank": 28,
+      "category": "社会新闻,数码"
     },
     {
       "raw_hot": 421489,
@@ -11833,14 +11873,6 @@
       "onboard_time": 1710326913,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 410387,
-      "num": 410387,
-      "word": "我不吃",
-      "onboard_time": 1710507707,
-      "rank": 16,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 410014,
@@ -12819,6 +12851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 379488,
+      "num": 379488,
+      "word": "珍爱网",
+      "onboard_time": 1710509265,
+      "rank": 22,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 379095,
       "num": 379095,
       "word": "以前讨厌现在却真香的食物",
@@ -13281,6 +13321,14 @@
       "onboard_time": 1710378987,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 366820,
+      "num": 366820,
+      "word": "梅菜扣肉原料竟是劣质槽头肉",
+      "onboard_time": 1710508902,
+      "rank": 23,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 366815,
@@ -13849,6 +13897,14 @@
       "onboard_time": 1709214998,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 350193,
+      "num": 350193,
+      "word": "书亦烧仙草",
+      "onboard_time": 1710237152,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 349662,
@@ -15459,6 +15515,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 310278,
+      "num": 310278,
+      "word": "世纪佳缘",
+      "onboard_time": 1710509383,
+      "rank": 26,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 309659,
       "num": 274795,
       "word": "j人和P人的穿搭区别",
@@ -15593,14 +15657,6 @@
       "onboard_time": 1709514991,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 306958,
-      "num": 306958,
-      "word": "书亦烧仙草",
-      "onboard_time": 1710237152,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 306903,
@@ -17283,14 +17339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 274067,
-      "num": 274067,
-      "word": "市监局已前往315曝光云抖科技排查",
-      "onboard_time": 1710508182,
-      "rank": 28,
-      "category": "社会新闻,数码"
-    },
-    {
       "raw_hot": 274040,
       "num": 274040,
       "word": "刘浩存郑州",
@@ -17769,6 +17817,14 @@
       "onboard_time": 1709526335,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265974,
+      "num": 265974,
+      "word": "315曝光梅菜扣肉预制菜商家多次被处罚",
+      "onboard_time": 1710509022,
+      "rank": 34,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 265818,
@@ -18337,6 +18393,14 @@
       "onboard_time": 1710296673,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256141,
+      "num": 256141,
+      "word": "市监总局回应315曝光肉类问题",
+      "onboard_time": 1710508363,
+      "rank": 33,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 255931,
@@ -19587,20 +19651,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 239543,
-      "num": 239543,
-      "word": "王曼昱4比2伊藤美诚",
-      "onboard_time": 1710508546,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 239244,
       "num": 460353,
       "word": "中国2024年国防费预算增长7.2%",
       "onboard_time": 1709989652,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 238925,
+      "num": 238925,
+      "word": "听花酒被315晚会点名",
+      "onboard_time": 1710508546,
+      "rank": 42,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 238746,
@@ -21251,6 +21315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 218515,
+      "num": 218515,
+      "word": "Yumi回应暴瘦",
+      "onboard_time": 1710508661,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218492,
       "num": 218492,
       "word": "陈梦3比0长崎美柚",
@@ -21417,14 +21489,6 @@
       "onboard_time": 1710071311,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217138,
-      "num": 217138,
-      "word": "市监总局回应315曝光肉类问题",
-      "onboard_time": 1710508363,
-      "rank": 33,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 217035,
@@ -29275,14 +29339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164377,
-      "num": 164377,
-      "word": "听花酒被315晚会点名",
-      "onboard_time": 1710508546,
-      "rank": 42,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 164344,
       "num": 164344,
       "word": "中超",
@@ -32595,6 +32651,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 145731,
+      "num": 145731,
+      "word": "别对我动心 车内初吻",
+      "onboard_time": 1710509566,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145710,
       "num": 145710,
       "word": "詹姆斯不强求与儿子共同效力湖人",
@@ -33665,14 +33729,6 @@
       "onboard_time": 1710152730,
       "rank": 42,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 140295,
-      "num": 140295,
-      "word": "Yumi回应暴瘦",
-      "onboard_time": 1710508661,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 140286,
@@ -37483,6 +37539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 117774,
+      "num": 4600879,
+      "word": "哪款美食是你的春日限定",
+      "onboard_time": 1710507707,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117628,
       "num": 1512726,
       "word": "政府工作报告全文",
@@ -40153,14 +40217,6 @@
       "onboard_time": 1709879610,
       "rank": 49,
       "category": "美妆,网红"
-    },
-    {
-      "raw_hot": 90450,
-      "num": 4600879,
-      "word": "哪款美食是你的春日限定",
-      "onboard_time": 1710507707,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90443,
@@ -43405,6 +43461,9 @@
     },
     {
       "word": "#只有扎根人民创作才能获得用之不竭的源泉#"
+    },
+    {
+      "word": "#中安关系提升为全面战略合作伙伴关系#"
     }
   ]
 }

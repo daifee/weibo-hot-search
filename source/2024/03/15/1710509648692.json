@@ -1,0 +1,410 @@
+{
+  "runTime": 1710509648692,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10990895,
+        "num": 10990895,
+        "word": "315晚会",
+        "onboard_time": 1710502477,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6305304,
+        "num": 6305304,
+        "word": "淀粉肠塌房",
+        "onboard_time": 1710498581,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 117774,
+        "num": 4533556,
+        "word": "哪款美食是你的春日限定",
+        "onboard_time": 1710507707,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3382288,
+        "num": 3382288,
+        "word": "梅菜扣肉 槽头肉",
+        "onboard_time": 1710506985,
+        "rank": 3,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 2158850,
+        "num": 2158850,
+        "word": "徐正溪退圈原因",
+        "onboard_time": 1710497980,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2153150,
+        "num": 2153150,
+        "word": "315奶茶",
+        "onboard_time": 1710504037,
+        "rank": 5,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1918427,
+        "num": 1918427,
+        "word": "宝马传动轴",
+        "onboard_time": 1710509022,
+        "rank": 6,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 1151715,
+        "num": 1151715,
+        "word": "315预制菜",
+        "onboard_time": 1710507282,
+        "rank": 7,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1048339,
+        "num": 1048339,
+        "word": "古茗",
+        "onboard_time": 1710503380,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 976216,
+        "num": 976216,
+        "word": "听花酒",
+        "onboard_time": 1710507103,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1092264,
+        "num": 973552,
+        "word": "徐正溪退圈",
+        "onboard_time": 1710491854,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 964078,
+        "num": 964078,
+        "word": "麦当劳崩了",
+        "onboard_time": 1710484117,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 745305,
+        "num": 745305,
+        "word": "主持人马卉被永久封禁直播权限",
+        "onboard_time": 1710492094,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 708963,
+        "num": 708963,
+        "word": "王曼昱4比2伊藤美诚",
+        "onboard_time": 1710508546,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 668519,
+        "num": 668519,
+        "word": "315曝光灭不了火的灭火器",
+        "onboard_time": 1710506560,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568826,
+        "num": 568826,
+        "word": "我不吃",
+        "onboard_time": 1710507707,
+        "rank": 15,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 538801,
+        "num": 538801,
+        "word": "315记者卧底婚恋平台",
+        "onboard_time": 1710509143,
+        "rank": 16,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 480533,
+        "num": 480533,
+        "word": "凯特王妃为什么就是不出现",
+        "onboard_time": 1710501461,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 479491,
+        "num": 479491,
+        "word": "315曝光主板机黑灰产业链",
+        "onboard_time": 1710505360,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422076,
+        "num": 422076,
+        "word": "市监局已前往315曝光云抖科技排查",
+        "onboard_time": 1710508182,
+        "rank": 19,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 480472,
+        "num": 414911,
+        "word": "聪明人已经去银行囤黄金了",
+        "onboard_time": 1710506862,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 391354,
+        "num": 391354,
+        "word": "妈妈开门我是沈月",
+        "onboard_time": 1710506442,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379488,
+        "num": 379488,
+        "word": "珍爱网",
+        "onboard_time": 1710509265,
+        "rank": 22,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 366820,
+        "num": 366820,
+        "word": "梅菜扣肉原料竟是劣质槽头肉",
+        "onboard_time": 1710508902,
+        "rank": 23,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 360205,
+        "num": 360205,
+        "word": "女孩花21万元整形出院当天跳河自杀",
+        "onboard_time": 1710490655,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350193,
+        "num": 350193,
+        "word": "书亦烧仙草",
+        "onboard_time": 1710508842,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 310278,
+        "num": 310278,
+        "word": "世纪佳缘",
+        "onboard_time": 1710509383,
+        "rank": 26,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 307039,
+        "num": 307039,
+        "word": "马卉",
+        "onboard_time": 1710494323,
+        "rank": 27,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 300515,
+        "num": 300515,
+        "word": "徐正溪上岸了吗",
+        "onboard_time": 1710501878,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220452,
+        "num": 292816,
+        "word": "莎头组合夺冠",
+        "onboard_time": 1710503619,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1386896,
+        "num": 292678,
+        "word": "茶百道 崩铁",
+        "onboard_time": 1710475958,
+        "rank": 30,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 292023,
+        "num": 292023,
+        "word": "建议胃不好的人吃饭干湿分离",
+        "onboard_time": 1710498817,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 290139,
+        "num": 290139,
+        "word": "刘国梁为王楚钦孙颖莎颁奖",
+        "onboard_time": 1710505180,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271793,
+        "num": 271793,
+        "word": "韩素希ins更新夏威夷照片",
+        "onboard_time": 1710476199,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265974,
+        "num": 265974,
+        "word": "315曝光梅菜扣肉预制菜商家多次被处罚",
+        "onboard_time": 1710509022,
+        "rank": 34,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 265887,
+        "num": 265887,
+        "word": "英国王室上演消失的她",
+        "onboard_time": 1710496959,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 264786,
+        "num": 264786,
+        "word": "淀粉肠 溺爱",
+        "onboard_time": 1710502777,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 256141,
+        "num": 256141,
+        "word": "市监总局回应315曝光肉类问题",
+        "onboard_time": 1710508363,
+        "rank": 37,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 238925,
+        "num": 238925,
+        "word": "听花酒被315晚会点名",
+        "onboard_time": 1710508546,
+        "rank": 38,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 229281,
+        "num": 229281,
+        "word": "惠英红 惹到我算是惹到霸王花了",
+        "onboard_time": 1710501338,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229100,
+        "num": 229100,
+        "word": "王曼昱vs伊藤美诚",
+        "onboard_time": 1710505420,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218515,
+        "num": 218515,
+        "word": "Yumi回应暴瘦",
+        "onboard_time": 1710508661,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207624,
+        "num": 207624,
+        "word": "花间令",
+        "onboard_time": 1710500800,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203111,
+        "num": 203111,
+        "word": "全员加速中",
+        "onboard_time": 1710505478,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190098,
+        "num": 190098,
+        "word": "王俊凯说发微博更像发朋友圈",
+        "onboard_time": 1710500497,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169402,
+        "num": 169402,
+        "word": "云抖科技",
+        "onboard_time": 1710506497,
+        "rank": 45,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 158988,
+        "num": 158988,
+        "word": "张海宇断食暴瘦饰演瘾君子",
+        "onboard_time": 1710504637,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150046,
+        "num": 150046,
+        "word": "我是嫡长狗",
+        "onboard_time": 1710501698,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145731,
+        "num": 145731,
+        "word": "别对我动心 车内初吻",
+        "onboard_time": 1710509566,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144100,
+        "num": 144100,
+        "word": "花间令 坟头表白",
+        "onboard_time": 1710504338,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中安关系提升为全面战略合作伙伴关系#"
+    }
+  }
+}
