@@ -1,0 +1,410 @@
+{
+  "runTime": 1710466301600,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1728481,
+        "num": 1728481,
+        "word": "又有多家医院停止产科分娩服务",
+        "onboard_time": 1710461434,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1708663,
+        "num": 1708663,
+        "word": "315",
+        "onboard_time": 1710458607,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49537,
+        "num": 1241550,
+        "word": "春耕图景里的科技范儿",
+        "onboard_time": 1710419011,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1203949,
+        "num": 1203949,
+        "word": "抖音买商品拼多多发货",
+        "onboard_time": 1710463719,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 909727,
+        "num": 909727,
+        "word": "脊柱侧弯女孩术后高了21厘米",
+        "onboard_time": 1710461675,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618452,
+        "num": 618452,
+        "word": "胡歌在中戏专业成绩第二",
+        "onboard_time": 1710462759,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448327,
+        "num": 448327,
+        "word": "10岁小孩哥捡到一个5岁萌娃",
+        "onboard_time": 1710463837,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430623,
+        "num": 430623,
+        "word": "杀害同学3名初中生家属仍未道歉",
+        "onboard_time": 1710464736,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401770,
+        "num": 401770,
+        "word": "杨威回应双胞胎女儿在家上学",
+        "onboard_time": 1710429102,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397413,
+        "num": 397413,
+        "word": "日本福岛近海地震核污染水排海停止",
+        "onboard_time": 1710458790,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1896587,
+        "num": 387860,
+        "word": "杀害同学初中生最高可判无期徒刑",
+        "onboard_time": 1710460051,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698780,
+        "num": 383514,
+        "word": "对方拒绝了你的打压式教育",
+        "onboard_time": 1710431798,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 543606,
+        "num": 380929,
+        "word": "凯特王妃到底怎么了",
+        "onboard_time": 1710430476,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 377716,
+        "num": 377716,
+        "word": "星舰失联了但已取得巨大进展",
+        "onboard_time": 1710460472,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 279921,
+        "num": 279921,
+        "word": "花间令今日开播",
+        "onboard_time": 1710465694,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267070,
+        "num": 267070,
+        "word": "李诞cos孟宴臣",
+        "onboard_time": 1710425795,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253606,
+        "num": 253606,
+        "word": "男子在同学婚礼上刮刮乐中奖10万",
+        "onboard_time": 1710433472,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246729,
+        "num": 246729,
+        "word": "警察看人能准到什么程度",
+        "onboard_time": 1710459331,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236211,
+        "num": 236211,
+        "word": "一栗小莎子怀孕",
+        "onboard_time": 1710419134,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 211248,
+        "num": 211248,
+        "word": "多方回应一老师在宿舍身亡",
+        "onboard_time": 1710425074,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502150,
+        "num": 210759,
+        "word": "孙怡用过的手机壳",
+        "onboard_time": 1710463719,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482205,
+        "num": 209430,
+        "word": "民警被10岁报警孩子生僻名字难住了",
+        "onboard_time": 1710464198,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284224,
+        "num": 208490,
+        "word": "我一直以为路由器是这么放的",
+        "onboard_time": 1710425917,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265346,
+        "num": 207542,
+        "word": "谁懂这个牵手动作的含金量",
+        "onboard_time": 1710462156,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240215,
+        "num": 207402,
+        "word": "马思纯评论区回复周冬雨",
+        "onboard_time": 1710431434,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206471,
+        "num": 206471,
+        "word": "TikTok禁令生成法律概率降低",
+        "onboard_time": 1710465336,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200777,
+        "num": 200777,
+        "word": "多家银行将停发部分联名信用卡",
+        "onboard_time": 1710465216,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 200410,
+        "num": 200410,
+        "word": "王子奇陈哲远 钢铁森林",
+        "onboard_time": 1710459874,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198954,
+        "num": 198954,
+        "word": "三千块钱对你来说意味着什么",
+        "onboard_time": 1710429229,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197031,
+        "num": 197031,
+        "word": "在海底捞被陌生人要蛋糕了",
+        "onboard_time": 1710425257,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190452,
+        "num": 190452,
+        "word": "百果园门店车厘子JJ当JJJJ卖",
+        "onboard_time": 1710457346,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188123,
+        "num": 188123,
+        "word": "售后服务直播带货投诉排名第一",
+        "onboard_time": 1710465577,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155334,
+        "num": 155334,
+        "word": "焦俊艳又可以收到钱了",
+        "onboard_time": 1710431195,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154244,
+        "num": 154244,
+        "word": "papi酱考研胖了二十几斤",
+        "onboard_time": 1710425257,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 152096,
+        "num": 152096,
+        "word": "国际消费者权益日",
+        "onboard_time": 1710463178,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150311,
+        "num": 150311,
+        "word": "救鱼啊 有鱼溺水了",
+        "onboard_time": 1710430777,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148168,
+        "num": 148168,
+        "word": "Tarzan疑似回归赛场",
+        "onboard_time": 1710462095,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144654,
+        "num": 144654,
+        "word": "王鹤棣一组物料被4个cp嗑",
+        "onboard_time": 1710461195,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141292,
+        "num": 141292,
+        "word": "直播带货投诉量5年间增幅47倍",
+        "onboard_time": 1710464493,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141163,
+        "num": 141163,
+        "word": "贵人鸟还没等来想要的贵人",
+        "onboard_time": 1710466056,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131880,
+        "num": 131880,
+        "word": "女孩们挤爆喜茶和纸片老公领证",
+        "onboard_time": 1710466056,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130803,
+        "num": 130803,
+        "word": "医院整形科越来越多整容失败的病人",
+        "onboard_time": 1710428682,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128484,
+        "num": 128484,
+        "word": "鞠婧祎演恶女",
+        "onboard_time": 1710422317,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126903,
+        "num": 126903,
+        "word": "不止315更要365",
+        "onboard_time": 1710462156,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125801,
+        "num": 125801,
+        "word": "乐山大佛为何这样神奇",
+        "onboard_time": 1710465275,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 125122,
+        "num": 125122,
+        "word": "Sora为何没能诞生在中国",
+        "onboard_time": 1710462874,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116763,
+        "num": 116763,
+        "word": "数据称不到四成美国人支持禁止TikTok",
+        "onboard_time": 1710465993,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 115573,
+        "num": 115573,
+        "word": "花间令",
+        "onboard_time": 1710428254,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108387,
+        "num": 108387,
+        "word": "永远把自己放第一位",
+        "onboard_time": 1710466056,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100766,
+        "num": 100766,
+        "word": "SpaceX星舰第三次试飞提前结束",
+        "onboard_time": 1710427658,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#发展新质生产力总书记这样强调#"
+    }
+  }
+}
