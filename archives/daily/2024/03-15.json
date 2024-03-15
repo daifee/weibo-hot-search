@@ -1,6 +1,6 @@
 {
   "startTime": 1710433325081,
-  "endTime": 1710477252001,
+  "endTime": 1710479877531,
   "band_list": [
     {
       "raw_hot": 2252560,
@@ -43,6 +43,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1801958,
+      "num": 1443921,
+      "word": "茶百道 崩铁",
+      "onboard_time": 1710475958,
+      "rank": 10,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 1728481,
       "num": 1728481,
       "word": "又有多家医院停止产科分娩服务",
@@ -51,12 +59,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1443921,
-      "num": 1443921,
-      "word": "茶百道 崩铁",
-      "onboard_time": 1710475958,
-      "rank": 10,
-      "category": "游戏,美食"
+      "raw_hot": 1462875,
+      "num": 631766,
+      "word": "韩素希ins更新夏威夷照片",
+      "onboard_time": 1710476199,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1450659,
+      "num": 1450659,
+      "word": "女子试戴8千元金首饰忘摘下隔天送回",
+      "onboard_time": 1710476018,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1399807,
@@ -81,6 +97,14 @@
       "onboard_time": 1710463719,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1167456,
+      "num": 1167456,
+      "word": "张元英 短发",
+      "onboard_time": 1710478299,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1105475,
@@ -147,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 874080,
-      "num": 631766,
-      "word": "韩素希ins更新夏威夷照片",
-      "onboard_time": 1710476199,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 816880,
       "num": 816880,
       "word": "戴眼镜会让视力变差是错误认知",
@@ -187,20 +203,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 699256,
+      "num": 699256,
+      "word": "情侣随地大小亲",
+      "onboard_time": 1710475477,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 687530,
       "num": 687530,
       "word": "杨威回应双胞胎女儿在家上学",
       "onboard_time": 1710429102,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 680468,
-      "num": 680468,
-      "word": "女子试戴8千元金首饰忘摘下隔天送回",
-      "onboard_time": 1710476018,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 654924,
@@ -265,6 +281,14 @@
       "onboard_time": 1710470910,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 525188,
+      "num": 525188,
+      "word": "入青云阵容官宣",
+      "onboard_time": 1710477159,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 513144,
@@ -363,14 +387,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 428540,
-      "num": 428540,
-      "word": "情侣随地大小亲",
-      "onboard_time": 1710475477,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 425358,
       "num": 425358,
       "word": "张元英用中文回复来自中国的粉丝",
@@ -425,6 +441,14 @@
       "onboard_time": 1710471812,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 364570,
+      "num": 364570,
+      "word": "恋爱兄妹",
+      "onboard_time": 1710478720,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 348703,
@@ -547,6 +571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 275253,
+      "num": 275253,
+      "word": "网购熟食牛肉价格远低菜市场",
+      "onboard_time": 1710477699,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 271534,
       "num": 271534,
       "word": "小黑盒崩了",
@@ -619,12 +651,36 @@
       "category": "读书作家,网红"
     },
     {
+      "raw_hot": 258632,
+      "num": 258632,
+      "word": "陈泽 恶评",
+      "onboard_time": 1710477278,
+      "rank": 21,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 251212,
       "num": 251212,
       "word": "厂长怒斥Fisher",
       "onboard_time": 1710475656,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 249265,
+      "num": 249265,
+      "word": "书亦烧仙草就315曝光问题道歉",
+      "onboard_time": 1710477759,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249239,
+      "num": 249239,
+      "word": "当11岁身高163的女儿生病求抱抱",
+      "onboard_time": 1710479381,
+      "rank": 23,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 244987,
@@ -640,14 +696,6 @@
       "word": "春色寄情人 1分钟亲10次",
       "onboard_time": 1710474635,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 242407,
-      "num": 242407,
-      "word": "入青云阵容官宣",
-      "onboard_time": 1710477159,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -673,6 +721,14 @@
       "onboard_time": 1710467495,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224650,
+      "num": 224650,
+      "word": "全员加速中真心话局",
+      "onboard_time": 1710479313,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 224303,
@@ -707,12 +763,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210897,
+      "num": 210897,
+      "word": "好利来要求员工入职前军训",
+      "onboard_time": 1710479138,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 209290,
       "num": 209290,
       "word": "花间令破300万海报",
       "onboard_time": 1710473855,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208959,
+      "num": 208959,
+      "word": "1个充电宝出借13小时回本",
+      "onboard_time": 1710479138,
+      "rank": 32,
+      "category": "数码,社会新闻"
     },
     {
       "raw_hot": 208839,
@@ -763,6 +835,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 199971,
+      "num": 199971,
+      "word": "杨紫复古齐刘海",
+      "onboard_time": 1710479857,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 196956,
       "num": 196956,
       "word": "直播带货投诉量5年间增幅47倍",
@@ -779,12 +859,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196187,
+      "num": 196187,
+      "word": "胖子运动只能变成健壮的胖子",
+      "onboard_time": 1710476319,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 195010,
       "num": 195010,
       "word": "于正谈选导演标准",
       "onboard_time": 1710473556,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191759,
+      "num": 191759,
+      "word": "金泰亨新歌MV",
+      "onboard_time": 1710478780,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 188974,
@@ -811,8 +907,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183206,
-      "num": 183206,
+      "raw_hot": 185051,
+      "num": 185051,
       "word": "电视才是打工人的奢侈品",
       "onboard_time": 1710476619,
       "rank": 39,
@@ -889,14 +985,6 @@
       "onboard_time": 1710475594,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 167457,
-      "num": 167457,
-      "word": "胖子运动只能变成健壮的胖子",
-      "onboard_time": 1710476319,
-      "rank": 47,
-      "category": "运动健身"
     },
     {
       "raw_hot": 167452,
@@ -977,6 +1065,14 @@
       "onboard_time": 1710474336,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152702,
+      "num": 152702,
+      "word": "暗访199元4天桂林魔幻低价游",
+      "onboard_time": 1710479737,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 151843,

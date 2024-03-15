@@ -1,0 +1,410 @@
+{
+  "runTime": 1710479877531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1929931,
+        "num": 1929931,
+        "word": "打到臭车的概率越来越高了",
+        "onboard_time": 1710473794,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1450659,
+        "num": 1450659,
+        "word": "女子试戴8千元金首饰忘摘下隔天送回",
+        "onboard_time": 1710476018,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85495,
+        "num": 1183351,
+        "word": "9件仪式感满满的春日小事",
+        "onboard_time": 1710459508,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1167456,
+        "num": 1167456,
+        "word": "张元英 短发",
+        "onboard_time": 1710478299,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1025537,
+        "num": 1025537,
+        "word": "去哪啊 去亲你",
+        "onboard_time": 1710473616,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 841148,
+        "num": 841148,
+        "word": "315",
+        "onboard_time": 1710458607,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 828552,
+        "num": 828552,
+        "word": "男孩跪地遭多名男女持棍殴打",
+        "onboard_time": 1710469774,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699256,
+        "num": 699256,
+        "word": "情侣随地大小亲",
+        "onboard_time": 1710475477,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 540850,
+        "num": 540850,
+        "word": "苹果发布声明",
+        "onboard_time": 1710473794,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 525188,
+        "num": 525188,
+        "word": "入青云阵容官宣",
+        "onboard_time": 1710477159,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1462875,
+        "num": 517275,
+        "word": "韩素希ins更新夏威夷照片",
+        "onboard_time": 1710476199,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503953,
+        "num": 503953,
+        "word": "天津两车追尾起火致1死37伤",
+        "onboard_time": 1710474274,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490672,
+        "num": 490672,
+        "word": "我们仨定档",
+        "onboard_time": 1710471333,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423339,
+        "num": 423339,
+        "word": "春色寄情人成年人的恋爱",
+        "onboard_time": 1710472053,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364570,
+        "num": 364570,
+        "word": "恋爱兄妹",
+        "onboard_time": 1710478720,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351851,
+        "num": 351851,
+        "word": "又有多家医院停止产科分娩服务",
+        "onboard_time": 1710461434,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304445,
+        "num": 304445,
+        "word": "抖音买商品拼多多发货",
+        "onboard_time": 1710463719,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 298835,
+        "num": 298835,
+        "word": "主持人马卉回应直播疑现不雅照",
+        "onboard_time": 1710471812,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295314,
+        "num": 295314,
+        "word": "丫丫把苹果啃出鞭炮声",
+        "onboard_time": 1710466596,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289588,
+        "num": 289588,
+        "word": "脊柱侧弯女孩术后高了21厘米",
+        "onboard_time": 1710461675,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275253,
+        "num": 275253,
+        "word": "网购熟食牛肉价格远低菜市场",
+        "onboard_time": 1710477699,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 258632,
+        "num": 258632,
+        "word": "陈泽 恶评",
+        "onboard_time": 1710477278,
+        "rank": 21,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 249265,
+        "num": 249265,
+        "word": "书亦烧仙草就315曝光问题道歉",
+        "onboard_time": 1710477759,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249239,
+        "num": 249239,
+        "word": "当11岁身高163的女儿生病求抱抱",
+        "onboard_time": 1710479381,
+        "rank": 23,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 236649,
+        "num": 236649,
+        "word": "AI换脸成杨幂刘亦菲卖减肥茶",
+        "onboard_time": 1710471453,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230410,
+        "num": 230410,
+        "word": "戴眼镜会让视力变差是错误认知",
+        "onboard_time": 1710470553,
+        "rank": 25,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 229056,
+        "num": 229056,
+        "word": "孙怡用过的手机壳",
+        "onboard_time": 1710463719,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227077,
+        "num": 227077,
+        "word": "成毅求求大家别熬夜了",
+        "onboard_time": 1710469473,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224650,
+        "num": 224650,
+        "word": "全员加速中真心话局",
+        "onboard_time": 1710479313,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224123,
+        "num": 224123,
+        "word": "巧克力可能要涨价了",
+        "onboard_time": 1710469291,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1801958,
+        "num": 222711,
+        "word": "茶百道 崩铁",
+        "onboard_time": 1710475958,
+        "rank": 30,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 210897,
+        "num": 210897,
+        "word": "好利来要求员工入职前军训",
+        "onboard_time": 1710479138,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 208959,
+        "num": 208959,
+        "word": "1个充电宝出借13小时回本",
+        "onboard_time": 1710479138,
+        "rank": 32,
+        "category": "数码,社会新闻"
+      },
+      {
+        "raw_hot": 199971,
+        "num": 199971,
+        "word": "杨紫复古齐刘海",
+        "onboard_time": 1710479857,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196547,
+        "num": 196547,
+        "word": "花间令今日开播",
+        "onboard_time": 1710465694,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196187,
+        "num": 196187,
+        "word": "胖子运动只能变成健壮的胖子",
+        "onboard_time": 1710476319,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 192537,
+        "num": 192537,
+        "word": "惠英红 希望观众了解阿尔兹海默症",
+        "onboard_time": 1710475296,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191759,
+        "num": 191759,
+        "word": "金泰亨新歌MV",
+        "onboard_time": 1710478780,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185051,
+        "num": 185051,
+        "word": "电视才是打工人的奢侈品",
+        "onboard_time": 1710476619,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180283,
+        "num": 180283,
+        "word": "总台315晚会总导演发声",
+        "onboard_time": 1710470611,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176494,
+        "num": 176494,
+        "word": "女孩们挤爆喜茶和纸片老公领证",
+        "onboard_time": 1710466056,
+        "rank": 40,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 172625,
+        "num": 172625,
+        "word": "凯特王妃到底怎么了",
+        "onboard_time": 1710430476,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 165475,
+        "num": 165475,
+        "word": "灿烂的她 真假孙女",
+        "onboard_time": 1710476619,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156880,
+        "num": 156880,
+        "word": "国际消费者权益日",
+        "onboard_time": 1710463178,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156268,
+        "num": 156268,
+        "word": "一些官员患了舆情恐惧症",
+        "onboard_time": 1710472894,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152702,
+        "num": 152702,
+        "word": "暗访199元4天桂林魔幻低价游",
+        "onboard_time": 1710479737,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 149096,
+        "num": 149096,
+        "word": "高仿LV包装只需30元",
+        "onboard_time": 1710470553,
+        "rank": 46,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 142007,
+        "num": 142007,
+        "word": "花间令破300万海报",
+        "onboard_time": 1710473855,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139146,
+        "num": 139146,
+        "word": "天津大巴车与公交相撞起火燃成空架",
+        "onboard_time": 1710473376,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136251,
+        "num": 136251,
+        "word": "完全不做家务是一种剥削",
+        "onboard_time": 1710474032,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习绘文#"
+    }
+  }
+}

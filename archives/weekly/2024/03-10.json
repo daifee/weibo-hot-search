@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710477252001,
+  "endTime": 1710479877531,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1801958,
+      "num": 1443921,
+      "word": "茶百道 崩铁",
+      "onboard_time": 1710475958,
+      "rank": 10,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 1797034,
       "num": 706650,
       "word": "邯郸初中生",
@@ -611,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1462875,
+      "num": 631766,
+      "word": "韩素希ins更新夏威夷照片",
+      "onboard_time": 1710476199,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1457349,
       "num": 1457349,
       "word": "男子2万买金镯发现内藏2根金丝",
@@ -627,12 +643,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1443921,
-      "num": 1443921,
-      "word": "茶百道 崩铁",
-      "onboard_time": 1710475958,
-      "rank": 10,
-      "category": "游戏,美食"
+      "raw_hot": 1450659,
+      "num": 1450659,
+      "word": "女子试戴8千元金首饰忘摘下隔天送回",
+      "onboard_time": 1710476018,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1440735,
@@ -1001,6 +1017,14 @@
       "onboard_time": 1710223650,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1167456,
+      "num": 1167456,
+      "word": "张元英 短发",
+      "onboard_time": 1710478299,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1167230,
@@ -1691,14 +1715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 874080,
-      "num": 631766,
-      "word": "韩素希ins更新夏威夷照片",
-      "onboard_time": 1710476199,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 864539,
       "num": 346288,
       "word": "高君雨妈妈称MCN运营出现严重问题",
@@ -2379,6 +2395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 699256,
+      "num": 699256,
+      "word": "情侣随地大小亲",
+      "onboard_time": 1710475477,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 697970,
       "num": 697970,
       "word": "坚持21天把肾气全补回来",
@@ -2441,14 +2465,6 @@
       "onboard_time": 1710224073,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 680468,
-      "num": 680468,
-      "word": "女子试戴8千元金首饰忘摘下隔天送回",
-      "onboard_time": 1710476018,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 675978,
@@ -3140,7 +3156,7 @@
     },
     {
       "raw_hot": 566720,
-      "num": 314274,
+      "num": 364570,
       "word": "恋爱兄妹",
       "onboard_time": 1710069811,
       "rank": 19,
@@ -3537,6 +3553,14 @@
       "onboard_time": 1710339455,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 525188,
+      "num": 525188,
+      "word": "入青云阵容官宣",
+      "onboard_time": 1710477159,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 525116,
@@ -4449,14 +4473,6 @@
       "onboard_time": 1710071611,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 428540,
-      "num": 428540,
-      "word": "情侣随地大小亲",
-      "onboard_time": 1710475477,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 428456,
@@ -6659,6 +6675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 275253,
+      "num": 275253,
+      "word": "网购熟食牛肉价格远低菜市场",
+      "onboard_time": 1710477699,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 275023,
       "num": 236414,
       "word": "檀健次回应爆红后熬出头",
@@ -7051,6 +7075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 258632,
+      "num": 258632,
+      "word": "陈泽 恶评",
+      "onboard_time": 1710477278,
+      "rank": 21,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 258437,
       "num": 192064,
       "word": "你那个耳朵不好的朋友belike",
@@ -7331,6 +7363,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249265,
+      "num": 249265,
+      "word": "书亦烧仙草就315曝光问题道歉",
+      "onboard_time": 1710477759,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249239,
+      "num": 249239,
+      "word": "当11岁身高163的女儿生病求抱抱",
+      "onboard_time": 1710479381,
+      "rank": 23,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 248652,
       "num": 248652,
       "word": "这么好的春天我却在上班",
@@ -7569,14 +7617,6 @@
       "onboard_time": 1710132936,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 242407,
-      "num": 242407,
-      "word": "入青云阵容官宣",
-      "onboard_time": 1710477159,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 242383,
@@ -8153,6 +8193,14 @@
       "onboard_time": 1710169414,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 224650,
+      "num": 224650,
+      "word": "全员加速中真心话局",
+      "onboard_time": 1710479313,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 224483,
@@ -8787,6 +8835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210897,
+      "num": 210897,
+      "word": "好利来要求员工入职前军训",
+      "onboard_time": 1710479138,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 210802,
       "num": 210802,
       "word": "蔡文静录恋综不像观察员像女嘉宾",
@@ -8865,6 +8921,14 @@
       "onboard_time": 1710473855,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208959,
+      "num": 208959,
+      "word": "1个充电宝出借13小时回本",
+      "onboard_time": 1710479138,
+      "rank": 32,
+      "category": "数码,社会新闻"
     },
     {
       "raw_hot": 208915,
@@ -9419,6 +9483,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 199971,
+      "num": 199971,
+      "word": "杨紫复古齐刘海",
+      "onboard_time": 1710479857,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 199861,
       "num": 199861,
       "word": "童瑶到底看了多少短剧",
@@ -9755,6 +9827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196187,
+      "num": 196187,
+      "word": "胖子运动只能变成健壮的胖子",
+      "onboard_time": 1710476319,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 195602,
       "num": 195602,
       "word": "气得朱梓骁想拿鸡爪挠纪凌尘",
@@ -9977,6 +10057,14 @@
       "onboard_time": 1710055771,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 191759,
+      "num": 191759,
+      "word": "金泰亨新歌MV",
+      "onboard_time": 1710478780,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 191732,
@@ -10387,6 +10475,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 185051,
+      "num": 185051,
+      "word": "电视才是打工人的奢侈品",
+      "onboard_time": 1710476619,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184616,
       "num": 184616,
       "word": "陕西400多岁的古旱莲开花了",
@@ -10457,14 +10553,6 @@
       "onboard_time": 1710210091,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 183206,
-      "num": 183206,
-      "word": "电视才是打工人的奢侈品",
-      "onboard_time": 1710476619,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 183156,
@@ -11321,14 +11409,6 @@
       "onboard_time": 1710147211,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 167457,
-      "num": 167457,
-      "word": "胖子运动只能变成健壮的胖子",
-      "onboard_time": 1710476319,
-      "rank": 47,
-      "category": "运动健身"
     },
     {
       "raw_hot": 167343,
@@ -12241,6 +12321,14 @@
       "onboard_time": 1710039449,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152702,
+      "num": 152702,
+      "word": "暗访199元4天桂林魔幻低价游",
+      "onboard_time": 1710479737,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 152495,
