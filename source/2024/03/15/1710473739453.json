@@ -1,0 +1,410 @@
+{
+  "runTime": 1710473739453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1939429,
+        "num": 1939429,
+        "word": "男孩跪地遭多名男女持棍殴打",
+        "onboard_time": 1710469774,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1323379,
+        "num": 1323379,
+        "word": "315",
+        "onboard_time": 1710458607,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15451,
+        "num": 1083552,
+        "word": "春耕图景里的科技范儿",
+        "onboard_time": 1710419011,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 945969,
+        "num": 945969,
+        "word": "春色寄情人成年人的恋爱",
+        "onboard_time": 1710472053,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 889716,
+        "num": 889716,
+        "word": "巧克力可能要涨价了",
+        "onboard_time": 1710469291,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 885490,
+        "num": 885490,
+        "word": "我们仨定档",
+        "onboard_time": 1710471333,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 816880,
+        "num": 816880,
+        "word": "戴眼镜会让视力变差是错误认知",
+        "onboard_time": 1710470553,
+        "rank": 6,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 725888,
+        "num": 725888,
+        "word": "抖音买商品拼多多发货",
+        "onboard_time": 1710463719,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 722075,
+        "num": 722075,
+        "word": "凯特",
+        "onboard_time": 1710466774,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 536263,
+        "num": 536263,
+        "word": "曹卫东被查",
+        "onboard_time": 1710470910,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628427,
+        "num": 527048,
+        "word": "高仿LV包装只需30元",
+        "onboard_time": 1710470553,
+        "rank": 10,
+        "category": "社会新闻,时尚"
+      },
+      {
+        "raw_hot": 515809,
+        "num": 515809,
+        "word": "丫丫把苹果啃出鞭炮声",
+        "onboard_time": 1710466596,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486480,
+        "num": 486480,
+        "word": "又有多家医院停止产科分娩服务",
+        "onboard_time": 1710461434,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434971,
+        "num": 434971,
+        "word": "脊柱侧弯女孩术后高了21厘米",
+        "onboard_time": 1710461675,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429518,
+        "num": 429518,
+        "word": "俄罗斯总统选举投票正式开始",
+        "onboard_time": 1710470311,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 399992,
+        "num": 399992,
+        "word": "成毅求求大家别熬夜了",
+        "onboard_time": 1710469473,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383814,
+        "num": 383814,
+        "word": "赵露思费加罗开季封面",
+        "onboard_time": 1710471812,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 328385,
+        "num": 328385,
+        "word": "头部电商主播为什么纷纷隐身",
+        "onboard_time": 1710469114,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 307957,
+        "num": 307957,
+        "word": "主持人马卉回应直播疑现不雅照",
+        "onboard_time": 1710471812,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279089,
+        "num": 279089,
+        "word": "标着退货包邮为何退货还要付运费",
+        "onboard_time": 1710467855,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321491,
+        "num": 276340,
+        "word": "AI换脸成杨幂刘亦菲卖减肥茶",
+        "onboard_time": 1710471453,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266234,
+        "num": 266234,
+        "word": "排球少年确认引进",
+        "onboard_time": 1710470374,
+        "rank": 21,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 251272,
+        "num": 251272,
+        "word": "一些官员患了舆情恐惧症",
+        "onboard_time": 1710472894,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249966,
+        "num": 249966,
+        "word": "凯特王妃到底怎么了",
+        "onboard_time": 1710430476,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 242562,
+        "num": 242562,
+        "word": "天津大巴车与公交相撞起火燃成空架",
+        "onboard_time": 1710473376,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238706,
+        "num": 238706,
+        "word": "刘浩存 正太音",
+        "onboard_time": 1710471212,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238420,
+        "num": 238420,
+        "word": "总台315晚会总导演发声",
+        "onboard_time": 1710470611,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233820,
+        "num": 233820,
+        "word": "女孩们挤爆喜茶和纸片老公领证",
+        "onboard_time": 1710466056,
+        "rank": 27,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 229765,
+        "num": 229765,
+        "word": "甘肃麻辣烫爆火快递员日发千斤辣椒",
+        "onboard_time": 1710468393,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216053,
+        "num": 216053,
+        "word": "俞灏明回应和陈晓二搭",
+        "onboard_time": 1710466653,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214232,
+        "num": 214232,
+        "word": "孙怡用过的手机壳",
+        "onboard_time": 1710463719,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208081,
+        "num": 208081,
+        "word": "周深新歌门",
+        "onboard_time": 1710473257,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 199679,
+        "num": 199679,
+        "word": "TikTok禁令生成法律概率降低",
+        "onboard_time": 1710465336,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197666,
+        "num": 197666,
+        "word": "怎么体检才能不花冤枉钱",
+        "onboard_time": 1710467016,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195010,
+        "num": 195010,
+        "word": "于正谈选导演标准",
+        "onboard_time": 1710473556,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191712,
+        "num": 191712,
+        "word": "花间令今日开播",
+        "onboard_time": 1710465694,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174740,
+        "num": 174740,
+        "word": "民警被10岁报警孩子生僻名字难住了",
+        "onboard_time": 1710464198,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170631,
+        "num": 170631,
+        "word": "鞠婧祎侧分麻花辫",
+        "onboard_time": 1710471453,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166979,
+        "num": 166979,
+        "word": "你买过什么上当的东西",
+        "onboard_time": 1710471873,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164941,
+        "num": 164941,
+        "word": "灿烂的她今日上映",
+        "onboard_time": 1710473315,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157387,
+        "num": 157387,
+        "word": "网信办整治网络主播摆拍卖惨内容",
+        "onboard_time": 1710472053,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156638,
+        "num": 156638,
+        "word": "对方拒绝了你的打压式教育",
+        "onboard_time": 1710431798,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148696,
+        "num": 148696,
+        "word": "胡歌在中戏专业成绩第二",
+        "onboard_time": 1710462759,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144605,
+        "num": 144605,
+        "word": "国际消费者权益日",
+        "onboard_time": 1710463178,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141872,
+        "num": 141872,
+        "word": "10岁小孩哥捡到一个5岁萌娃",
+        "onboard_time": 1710463837,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132522,
+        "num": 132522,
+        "word": "十个勤天 少年中国说",
+        "onboard_time": 1710471575,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130945,
+        "num": 130945,
+        "word": "去哪啊 去亲你",
+        "onboard_time": 1710473616,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130578,
+        "num": 130578,
+        "word": "大谷翔平公开妻子合影",
+        "onboard_time": 1710471095,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130202,
+        "num": 130202,
+        "word": "春色寄情人处处吻预告",
+        "onboard_time": 1710469714,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125817,
+        "num": 125817,
+        "word": "杨威回应双胞胎女儿在家上学",
+        "onboard_time": 1710429102,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#学习绘文#"
+    }
+  }
+}
