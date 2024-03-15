@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710509648692,
+  "endTime": 1710512195650,
   "band_list": [
     {
       "raw_hot": 10990895,
@@ -179,6 +179,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 2415596,
+      "num": 2415596,
+      "word": "茶颜悦色放置半小时仅剩半杯",
+      "onboard_time": 1710510763,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2402039,
       "num": 1386745,
       "word": "燕郊爆炸系输送中的管道泄漏导致",
@@ -217,6 +225,14 @@
       "onboard_time": 1710155671,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2303954,
+      "num": 2303954,
+      "word": "茉酸奶",
+      "onboard_time": 1710510885,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 2302913,
@@ -1723,6 +1739,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 967475,
+      "num": 967475,
+      "word": "听花酒下架",
+      "onboard_time": 1710510403,
+      "rank": 11,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 962327,
       "num": 354215,
       "word": "陈建斌搂蒋勤勤与路人合照",
@@ -2147,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 813978,
+      "num": 813978,
+      "word": "百果园果切",
+      "onboard_time": 1710510463,
+      "rank": 12,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 813954,
       "num": 425309,
       "word": "王楚然Gucci出图",
@@ -2299,6 +2331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 769999,
+      "num": 769999,
+      "word": "315记者卧底婚恋平台",
+      "onboard_time": 1710509143,
+      "rank": 16,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 769032,
       "num": 769032,
       "word": "杨威回应双胞胎女儿在家上学",
@@ -2441,6 +2481,14 @@
       "onboard_time": 1710245132,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 734225,
+      "num": 734225,
+      "word": "梁靖崑vs波尔",
+      "onboard_time": 1710510943,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 733633,
@@ -3051,6 +3099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 632769,
+      "num": 632769,
+      "word": "世纪佳缘",
+      "onboard_time": 1710509383,
+      "rank": 26,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 632292,
       "num": 498616,
       "word": "樊振东回应看霉霉演唱会感受",
@@ -3315,6 +3371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 588541,
+      "num": 493313,
+      "word": "弟弟退回了我给他的结婚红包",
+      "onboard_time": 1710510763,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 587850,
       "num": 587850,
       "word": "苹果发布声明",
@@ -3473,6 +3537,14 @@
       "onboard_time": 1710385293,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 568165,
+      "num": 568165,
+      "word": "央广网评初中生被3名同学杀害掩埋",
+      "onboard_time": 1710509805,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 567535,
@@ -3769,14 +3841,6 @@
       "onboard_time": 1710412656,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 538801,
-      "num": 538801,
-      "word": "315记者卧底婚恋平台",
-      "onboard_time": 1710509143,
-      "rank": 16,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 538737,
@@ -4211,6 +4275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 497362,
+      "num": 497362,
+      "word": "郑合惠子演技",
+      "onboard_time": 1710510703,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 497124,
       "num": 497124,
       "word": "第五人格富江",
@@ -4428,7 +4500,7 @@
     },
     {
       "raw_hot": 480472,
-      "num": 414911,
+      "num": 478707,
       "word": "聪明人已经去银行囤黄金了",
       "onboard_time": 1710506862,
       "rank": 20,
@@ -4505,6 +4577,14 @@
       "onboard_time": 1710215492,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 471897,
+      "num": 471897,
+      "word": "珍爱网",
+      "onboard_time": 1710509265,
+      "rank": 22,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 471393,
@@ -4889,6 +4969,14 @@
       "onboard_time": 1710303394,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 435982,
+      "num": 435982,
+      "word": "315曝光同程金融APP礼品卡套路",
+      "onboard_time": 1710511603,
+      "rank": 26,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 434832,
@@ -5579,14 +5667,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 379488,
-      "num": 379488,
-      "word": "珍爱网",
-      "onboard_time": 1710509265,
-      "rank": 22,
-      "category": "社会新闻,互联网"
-    },
-    {
       "raw_hot": 378921,
       "num": 378921,
       "word": "杨紫谈退休",
@@ -5609,6 +5689,14 @@
       "onboard_time": 1710140429,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 377343,
+      "num": 377343,
+      "word": "网络水军利用主板机随意更改IP",
+      "onboard_time": 1710505478,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375745,
@@ -6115,6 +6203,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 342297,
+      "num": 342297,
+      "word": "世纪佳缘致歉声明",
+      "onboard_time": 1710512026,
+      "rank": 31,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 341546,
       "num": 341546,
       "word": "热辣滚烫 华语北美十年最大规模开画",
@@ -6587,6 +6683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 315245,
+      "num": 315245,
+      "word": "茅台泸州老窖曾起诉听花酒",
+      "onboard_time": 1710510823,
+      "rank": 34,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 314982,
       "num": 249467,
       "word": "春日氛围感美甲",
@@ -6689,14 +6793,6 @@
       "onboard_time": 1710379414,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 310278,
-      "num": 310278,
-      "word": "世纪佳缘",
-      "onboard_time": 1710509383,
-      "rank": 26,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 309318,
@@ -8075,6 +8171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252159,
+      "num": 252159,
+      "word": "同程金融",
+      "onboard_time": 1710510517,
+      "rank": 40,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 252134,
       "num": 252134,
       "word": "WTT",
@@ -8595,6 +8699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238562,
+      "num": 238562,
+      "word": "刘学义原声",
+      "onboard_time": 1710511423,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238083,
       "num": 238083,
       "word": "个税汇算手机APP办理指南",
@@ -8664,6 +8776,14 @@
       "word": "山东泰山vs横滨水手",
       "onboard_time": 1710320137,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 236822,
+      "num": 236822,
+      "word": "梁靖崑19比17波尔",
+      "onboard_time": 1710511962,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -9139,6 +9259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223268,
+      "num": 223268,
+      "word": "Yumi回应暴瘦",
+      "onboard_time": 1710508661,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223241,
       "num": 223241,
       "word": "耙耙柑美式",
@@ -9377,14 +9505,6 @@
       "onboard_time": 1710402333,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 218515,
-      "num": 218515,
-      "word": "Yumi回应暴瘦",
-      "onboard_time": 1710508661,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 218492,
@@ -9881,14 +10001,6 @@
       "onboard_time": 1710473855,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208954,
-      "num": 208954,
-      "word": "网络水军利用主板机随意更改IP",
-      "onboard_time": 1710505478,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208915,
@@ -16641,6 +16753,14 @@
       "onboard_time": 1710026480,
       "rank": 30,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 86640,
+      "num": 3306288,
+      "word": "长五遥八运载火箭运抵文昌",
+      "onboard_time": 1710507038,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 85073,

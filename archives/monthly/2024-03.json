@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710509648692,
+  "endTime": 1710512195650,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -331,6 +331,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 2415596,
+      "num": 2415596,
+      "word": "茶颜悦色放置半小时仅剩半杯",
+      "onboard_time": 1710510763,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2402039,
       "num": 1386745,
       "word": "燕郊爆炸系输送中的管道泄漏导致",
@@ -385,6 +393,14 @@
       "onboard_time": 1710155671,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2303954,
+      "num": 2303954,
+      "word": "茉酸奶",
+      "onboard_time": 1710510885,
+      "rank": 4,
+      "category": "美食"
     },
     {
       "raw_hot": 2302913,
@@ -3491,6 +3507,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 967475,
+      "num": 967475,
+      "word": "听花酒下架",
+      "onboard_time": 1710510403,
+      "rank": 11,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 966320,
       "num": 386670,
       "word": "已婚女生找工作有多难",
@@ -4571,6 +4595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 813978,
+      "num": 813978,
+      "word": "百果园果切",
+      "onboard_time": 1710510463,
+      "rank": 12,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 813954,
       "num": 425309,
       "word": "王楚然Gucci出图",
@@ -4947,6 +4979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 769999,
+      "num": 769999,
+      "word": "315记者卧底婚恋平台",
+      "onboard_time": 1710509143,
+      "rank": 16,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 769586,
       "num": 769586,
       "word": "斗鱼曾经的头部主播都去哪了",
@@ -5305,6 +5345,14 @@
       "onboard_time": 1710245132,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 734225,
+      "num": 734225,
+      "word": "梁靖崑vs波尔",
+      "onboard_time": 1710510943,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 733633,
@@ -6851,6 +6899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 632769,
+      "num": 632769,
+      "word": "世纪佳缘",
+      "onboard_time": 1710509383,
+      "rank": 26,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 632430,
       "num": 367670,
       "word": "赵奕欢 浪姐",
@@ -7539,6 +7595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 588541,
+      "num": 493313,
+      "word": "弟弟退回了我给他的结婚红包",
+      "onboard_time": 1710510763,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 587850,
       "num": 587850,
       "word": "苹果发布声明",
@@ -7897,6 +7961,14 @@
       "onboard_time": 1709641832,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 568165,
+      "num": 568165,
+      "word": "央广网评初中生被3名同学杀害掩埋",
+      "onboard_time": 1710509805,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 567594,
@@ -8553,14 +8625,6 @@
       "onboard_time": 1710412656,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 538801,
-      "num": 538801,
-      "word": "315记者卧底婚恋平台",
-      "onboard_time": 1710509143,
-      "rank": 16,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 538737,
@@ -9515,6 +9579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 497362,
+      "num": 497362,
+      "word": "郑合惠子演技",
+      "onboard_time": 1710510703,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 497124,
       "num": 497124,
       "word": "第五人格富江",
@@ -9996,7 +10068,7 @@
     },
     {
       "raw_hot": 480472,
-      "num": 414911,
+      "num": 478707,
       "word": "聪明人已经去银行囤黄金了",
       "onboard_time": 1710506862,
       "rank": 20,
@@ -10161,6 +10233,14 @@
       "onboard_time": 1710215492,
       "rank": 14,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 471897,
+      "num": 471897,
+      "word": "珍爱网",
+      "onboard_time": 1710509265,
+      "rank": 22,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 471750,
@@ -11193,6 +11273,14 @@
       "onboard_time": 1709713952,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 435982,
+      "num": 435982,
+      "word": "315曝光同程金融APP礼品卡套路",
+      "onboard_time": 1710511603,
+      "rank": 26,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 435962,
@@ -12851,14 +12939,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 379488,
-      "num": 379488,
-      "word": "珍爱网",
-      "onboard_time": 1710509265,
-      "rank": 22,
-      "category": "社会新闻,互联网"
-    },
-    {
       "raw_hot": 379095,
       "num": 379095,
       "word": "以前讨厌现在却真香的食物",
@@ -12937,6 +13017,14 @@
       "onboard_time": 1709693970,
       "rank": 24,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 377343,
+      "num": 377343,
+      "word": "网络水军利用主板机随意更改IP",
+      "onboard_time": 1710505478,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376862,
@@ -14171,6 +14259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 342297,
+      "num": 342297,
+      "word": "世纪佳缘致歉声明",
+      "onboard_time": 1710512026,
+      "rank": 31,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 341863,
       "num": 226471,
       "word": "成龙发博悼念鸟山明",
@@ -15291,6 +15387,14 @@
       "category": "国内时政,教育"
     },
     {
+      "raw_hot": 315245,
+      "num": 315245,
+      "word": "茅台泸州老窖曾起诉听花酒",
+      "onboard_time": 1710510823,
+      "rank": 34,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 314995,
       "num": 314995,
       "word": "米店日",
@@ -15513,14 +15617,6 @@
       "onboard_time": 1709953350,
       "rank": 28,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 310278,
-      "num": 310278,
-      "word": "世纪佳缘",
-      "onboard_time": 1710509383,
-      "rank": 26,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 309659,
@@ -18683,6 +18779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 252159,
+      "num": 252159,
+      "word": "同程金融",
+      "onboard_time": 1710510517,
+      "rank": 40,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 252134,
       "num": 252134,
       "word": "WTT",
@@ -19691,6 +19795,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 238562,
+      "num": 238562,
+      "word": "刘学义原声",
+      "onboard_time": 1710511423,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238368,
       "num": 238368,
       "word": "黄奕曝光明星饮食状况",
@@ -19841,6 +19953,14 @@
       "onboard_time": 1709376811,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 236822,
+      "num": 236822,
+      "word": "梁靖崑19比17波尔",
+      "onboard_time": 1710511962,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 236715,
@@ -20867,6 +20987,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 223268,
+      "num": 223268,
+      "word": "Yumi回应暴瘦",
+      "onboard_time": 1710508661,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223241,
       "num": 223241,
       "word": "耙耙柑美式",
@@ -21313,14 +21441,6 @@
       "onboard_time": 1709512955,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 218515,
-      "num": 218515,
-      "word": "Yumi回应暴瘦",
-      "onboard_time": 1710508661,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 218492,
@@ -22489,14 +22609,6 @@
       "onboard_time": 1709389538,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208954,
-      "num": 208954,
-      "word": "网络水军利用主板机随意更改IP",
-      "onboard_time": 1710505478,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208915,
@@ -40393,6 +40505,14 @@
       "onboard_time": 1710026480,
       "rank": 30,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 86640,
+      "num": 3306288,
+      "word": "长五遥八运载火箭运抵文昌",
+      "onboard_time": 1710507038,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86372,
