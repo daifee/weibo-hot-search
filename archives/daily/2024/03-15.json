@@ -1,6 +1,6 @@
 {
   "startTime": 1710433325081,
-  "endTime": 1710498838720,
+  "endTime": 1710501262931,
   "band_list": [
     {
       "raw_hot": 10978107,
@@ -9,6 +9,14 @@
       "onboard_time": 1710491854,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8779392,
+      "num": 8779392,
+      "word": "淀粉肠塌房",
+      "onboard_time": 1710498581,
+      "rank": 8,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 3192353,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 2757645,
-      "num": 571147,
+      "num": 835207,
       "word": "徐正溪退圈原因",
       "onboard_time": 1710497980,
       "rank": 5,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 1661123,
-      "num": 504624,
+      "num": 575349,
       "word": "女孩花21万元整形出院当天跳河自杀",
       "onboard_time": 1710490655,
       "rank": 32,
@@ -233,6 +241,14 @@
       "onboard_time": 1710480037,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1040000,
+      "num": 1040000,
+      "word": "骨泥",
+      "onboard_time": 1710499541,
+      "rank": 4,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1038550,
@@ -369,6 +385,14 @@
       "onboard_time": 1710431434,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 693255,
+      "num": 693255,
+      "word": "孙颖莎王楚钦vs韩国队",
+      "onboard_time": 1710498581,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 687530,
@@ -547,14 +571,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 499751,
-      "num": 499751,
-      "word": "淀粉肠塌房",
-      "onboard_time": 1710498581,
-      "rank": 8,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 493506,
       "num": 112526,
       "word": "辽宁一药房疑流出客情关系维护表涉及多单位",
@@ -577,6 +593,14 @@
       "onboard_time": 1710464198,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 480200,
+      "num": 480200,
+      "word": "建议胃不好的人吃饭干湿分离",
+      "onboard_time": 1710498817,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 470166,
@@ -697,6 +721,14 @@
       "onboard_time": 1710470311,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 428752,
+      "num": 428752,
+      "word": "为什么蒙面人都蒙下半张脸",
+      "onboard_time": 1710500621,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 425358,
@@ -843,14 +875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 337630,
-      "num": 337630,
-      "word": "孙颖莎王楚钦vs韩国队",
-      "onboard_time": 1710498581,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 332102,
       "num": 332102,
       "word": "花间令今日开播",
@@ -940,7 +964,7 @@
     },
     {
       "raw_hot": 300730,
-      "num": 228452,
+      "num": 255139,
       "word": "简历造假却得到了这份工作",
       "onboard_time": 1710496959,
       "rank": 31,
@@ -961,6 +985,14 @@
       "onboard_time": 1710427658,
       "rank": 14,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 298310,
+      "num": 298310,
+      "word": "无畏能不能打野",
+      "onboard_time": 1710500019,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 296385,
@@ -987,6 +1019,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 285229,
+      "num": 285229,
+      "word": "王俊凯说发微博更像发朋友圈",
+      "onboard_time": 1710500497,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 283545,
       "num": 283545,
       "word": "宇文护叉腰",
@@ -1001,6 +1041,14 @@
       "onboard_time": 1710491016,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 279134,
+      "num": 259248,
+      "word": "自己交社保和公司交的区别在哪里",
+      "onboard_time": 1710498698,
+      "rank": 20,
+      "category": "科学科普,财经"
     },
     {
       "raw_hot": 276824,
@@ -1203,6 +1251,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 241458,
+      "num": 241458,
+      "word": "花间令",
+      "onboard_time": 1710428254,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241259,
       "num": 241259,
       "word": "赵丽颖把林更新夸成歪嘴龙王",
@@ -1265,14 +1321,6 @@
       "onboard_time": 1710479313,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 224335,
-      "num": 224335,
-      "word": "建议胃不好的人吃饭干湿分离",
-      "onboard_time": 1710498817,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 224303,
@@ -1483,6 +1531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192886,
+      "num": 192886,
+      "word": "甘谷辣椒粉销量三天涨超100倍",
+      "onboard_time": 1710500439,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191759,
       "num": 191759,
       "word": "金泰亨新歌MV",
@@ -1547,8 +1603,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 184634,
-      "num": 184634,
+      "raw_hot": 186314,
+      "num": 186314,
       "word": "对方撤回了一只萨摩耶",
       "onboard_time": 1710497980,
       "rank": 39,
@@ -1691,6 +1747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166807,
+      "num": 166807,
+      "word": "高仿LV",
+      "onboard_time": 1710497918,
+      "rank": 48,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 164941,
       "num": 164941,
       "word": "灿烂的她今日上映",
@@ -1721,6 +1785,14 @@
       "onboard_time": 1710481178,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161558,
+      "num": 161558,
+      "word": "为什么体检越来越贵",
+      "onboard_time": 1710500381,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 161040,
@@ -1777,6 +1849,14 @@
       "onboard_time": 1710492157,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155999,
+      "num": 155999,
+      "word": "麻辣烫家族",
+      "onboard_time": 1710500077,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 155976,
@@ -1931,14 +2011,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 139454,
-      "num": 139454,
-      "word": "高仿LV",
-      "onboard_time": 1710497918,
-      "rank": 48,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 138590,
       "num": 138590,
       "word": "陈思诚 我的电影也不用都看",
@@ -2009,14 +2081,6 @@
       "onboard_time": 1710488495,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 132321,
-      "num": 125863,
-      "word": "花间令",
-      "onboard_time": 1710428254,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 130496,
@@ -2196,7 +2260,7 @@
     },
     {
       "raw_hot": 98917,
-      "num": 497578,
+      "num": 622274,
       "word": "61岁保安大叔自学画画创作近百幅",
       "onboard_time": 1710496240,
       "rank": 9,
@@ -2452,7 +2516,7 @@
     },
     {
       "raw_hot": 18284,
-      "num": 996860,
+      "num": 2869692,
       "word": "镜头里的大美中国",
       "onboard_time": 1710450315,
       "rank": 2,
