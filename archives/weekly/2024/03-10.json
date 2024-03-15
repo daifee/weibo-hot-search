@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710520575307,
+  "endTime": 1710522975278,
   "band_list": [
     {
       "raw_hot": 10990895,
@@ -3243,6 +3243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 611804,
+      "num": 611804,
+      "word": "人吃了槽头肉会有什么危害",
+      "onboard_time": 1710518135,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 611613,
       "num": 611613,
       "word": "石头姐 杨紫琼",
@@ -4377,14 +4385,6 @@
       "onboard_time": 1710457884,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 493320,
-      "num": 493320,
-      "word": "人吃了槽头肉会有什么危害",
-      "onboard_time": 1710518135,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 492466,
@@ -9547,6 +9547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221939,
+      "num": 181198,
+      "word": "大学生独自处理双亲去世",
+      "onboard_time": 1710519633,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221640,
       "num": 221640,
       "word": "出国后发现白人有白人的卷法",
@@ -10401,6 +10409,14 @@
       "onboard_time": 1710314193,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205392,
+      "num": 161369,
+      "word": "普通人一辈子存款天花板是多少",
+      "onboard_time": 1710519990,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 205349,
@@ -12401,14 +12417,6 @@
       "onboard_time": 1710078097,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 175785,
-      "num": 181198,
-      "word": "大学生独自处理双亲去世",
-      "onboard_time": 1710519633,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 175727,
@@ -14531,6 +14539,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 143169,
+      "num": 143169,
+      "word": "赵露思头纱裸色礼服",
+      "onboard_time": 1710520052,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143144,
       "num": 143144,
       "word": "文心大模型4.0在中文上已经超过了GPT4",
@@ -15091,14 +15107,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 135530,
-      "num": 135530,
-      "word": "普通人一辈子存款天花板是多少",
-      "onboard_time": 1710519990,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 135364,
       "num": 135364,
       "word": "周受资回应众议院通过TikTok剥离法案",
@@ -15513,14 +15521,6 @@
       "onboard_time": 1710469114,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 129219,
-      "num": 129219,
-      "word": "赵露思头纱裸色礼服",
-      "onboard_time": 1710520052,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 129066,
@@ -16969,6 +16969,14 @@
       "onboard_time": 1710028404,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89683,
+      "num": 89683,
+      "word": "宝马称异响不影响行驶安全",
+      "onboard_time": 1710522029,
+      "rank": 39,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 89567,
