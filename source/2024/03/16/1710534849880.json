@@ -1,0 +1,410 @@
+{
+  "runTime": 1710534849880,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 161666,
+        "num": 161666,
+        "word": "夸父炸串",
+        "onboard_time": 1710515501,
+        "rank": 0,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 159598,
+        "num": 159598,
+        "word": "主持人马卉被永久封禁直播权限",
+        "onboard_time": 1710492094,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 13310,
+        "num": 125442,
+        "word": "长五遥八运载火箭运抵文昌",
+        "onboard_time": 1710507038,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120058,
+        "num": 120058,
+        "word": "茶颜悦色放置半小时仅剩半杯",
+        "onboard_time": 1710510763,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113662,
+        "num": 113662,
+        "word": "315晚会",
+        "onboard_time": 1710502477,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93560,
+        "num": 93560,
+        "word": "自杀程序员与前妻在世纪佳缘相识",
+        "onboard_time": 1710514724,
+        "rank": 5,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 90485,
+        "num": 90485,
+        "word": "徐正溪退圈原因",
+        "onboard_time": 1710497980,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75810,
+        "num": 75810,
+        "word": "人吃了槽头肉会有什么危害",
+        "onboard_time": 1710518135,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74208,
+        "num": 74208,
+        "word": "315晚会省流版",
+        "onboard_time": 1710518195,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66682,
+        "num": 66682,
+        "word": "淀粉肠塌房",
+        "onboard_time": 1710498581,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 72156,
+        "num": 62730,
+        "word": "茉酸奶",
+        "onboard_time": 1710510885,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 66869,
+        "num": 59264,
+        "word": "央广网评初中生被3名同学杀害掩埋",
+        "onboard_time": 1710509805,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55705,
+        "num": 55705,
+        "word": "麦当劳崩了",
+        "onboard_time": 1710484117,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 50179,
+        "num": 50179,
+        "word": "凯特王妃为什么就是不出现",
+        "onboard_time": 1710501461,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 44542,
+        "num": 44542,
+        "word": "女孩花21万元整形出院当天跳河自杀",
+        "onboard_time": 1710490655,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43632,
+        "num": 43632,
+        "word": "百果园果切",
+        "onboard_time": 1710510463,
+        "rank": 15,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 38822,
+        "num": 38822,
+        "word": "马卉",
+        "onboard_time": 1710494323,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 35937,
+        "num": 35937,
+        "word": "世纪佳缘致歉声明",
+        "onboard_time": 1710512026,
+        "rank": 17,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 35800,
+        "num": 35800,
+        "word": "陈漫发了赵露思",
+        "onboard_time": 1710528618,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33217,
+        "num": 33217,
+        "word": "徐正溪退圈",
+        "onboard_time": 1710491854,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40031,
+        "num": 32952,
+        "word": "弟弟退回了我给他的结婚红包",
+        "onboard_time": 1710510763,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38310,
+        "num": 32501,
+        "word": "大学生独自处理双亲去世",
+        "onboard_time": 1710519633,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34372,
+        "num": 32004,
+        "word": "六种越吃越胖的伪粗粮",
+        "onboard_time": 1710530658,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31296,
+        "num": 31296,
+        "word": "315预制菜",
+        "onboard_time": 1710507282,
+        "rank": 23,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 30293,
+        "num": 30293,
+        "word": "郑合惠子演技",
+        "onboard_time": 1710510703,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30290,
+        "num": 30290,
+        "word": "普通人一辈子存款天花板是多少",
+        "onboard_time": 1710519990,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29112,
+        "num": 29112,
+        "word": "梅菜扣肉 槽头肉",
+        "onboard_time": 1710506985,
+        "rank": 26,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 28503,
+        "num": 28503,
+        "word": "外卖平台幽灵店铺被曝光",
+        "onboard_time": 1710533296,
+        "rank": 27,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 27965,
+        "num": 27965,
+        "word": "韩素希ins更新夏威夷照片",
+        "onboard_time": 1710476199,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27061,
+        "num": 27061,
+        "word": "原来久坐真的会让人变丑",
+        "onboard_time": 1710517599,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 53904,
+        "num": 26871,
+        "word": "茶百道 崩铁",
+        "onboard_time": 1710475958,
+        "rank": 30,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 26547,
+        "num": 26547,
+        "word": "茶颜悦色",
+        "onboard_time": 1710515023,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 25871,
+        "num": 25871,
+        "word": "网络水军利用主板机随意更改IP",
+        "onboard_time": 1710505478,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25867,
+        "num": 25867,
+        "word": "到底是谁天天不关洗衣机的门",
+        "onboard_time": 1710526579,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25506,
+        "num": 25506,
+        "word": "聪明人已经去银行囤黄金了",
+        "onboard_time": 1710506862,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25486,
+        "num": 25486,
+        "word": "三甲医院被曝问题九价HPV疫苗交易",
+        "onboard_time": 1710513700,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23748,
+        "num": 23748,
+        "word": "听花酒下架",
+        "onboard_time": 1710510403,
+        "rank": 36,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 23705,
+        "num": 23705,
+        "word": "315奶茶",
+        "onboard_time": 1710504037,
+        "rank": 37,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 23168,
+        "num": 23168,
+        "word": "家人回应博主用AI复活高以翔",
+        "onboard_time": 1710526938,
+        "rank": 38,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 22788,
+        "num": 22788,
+        "word": "花间令",
+        "onboard_time": 1710500800,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22417,
+        "num": 22417,
+        "word": "莎头组合夺冠",
+        "onboard_time": 1710503619,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22360,
+        "num": 22360,
+        "word": "观众吵架把狮子吓到了",
+        "onboard_time": 1710526161,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22063,
+        "num": 22063,
+        "word": "胡杏儿发了三个儿子",
+        "onboard_time": 1710515200,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20733,
+        "num": 22063,
+        "word": "英国王室上演消失的她",
+        "onboard_time": 1710496959,
+        "rank": 43,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 18689,
+        "num": 22035,
+        "word": "网友辟谣与徐正溪的关系",
+        "onboard_time": 1710525500,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17225,
+        "num": 22030,
+        "word": "WTT",
+        "onboard_time": 1710504878,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16766,
+        "num": 22009,
+        "word": "宁德时代去年净利润441.21亿",
+        "onboard_time": 1710516280,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 16341,
+        "num": 21998,
+        "word": "花间令 古装版回家的诱惑",
+        "onboard_time": 1710516521,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15565,
+        "num": 21987,
+        "word": "恋爱兄妹第三期",
+        "onboard_time": 1710524183,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13437,
+        "num": 21979,
+        "word": "穿山甲居然是毛茸茸的",
+        "onboard_time": 1710534677,
+        "rank": 49,
+        "category": "幽默,科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#只有扎根人民创作才能获得用之不竭的源泉#"
+    }
+  }
+}

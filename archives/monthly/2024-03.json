@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710534004851,
+  "endTime": 1710534849880,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -43011,6 +43011,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 28503,
+      "num": 28503,
+      "word": "外卖平台幽灵店铺被曝光",
+      "onboard_time": 1710533296,
+      "rank": 42,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 27982,
       "num": 129838,
       "word": "价格战卷入高端MPV",
@@ -43249,14 +43257,6 @@
       "onboard_time": 1709487800,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 21400,
-      "num": 23407,
-      "word": "外卖平台幽灵店铺被曝光",
-      "onboard_time": 1710533296,
-      "rank": 42,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 21321,
@@ -43601,6 +43601,14 @@
       "onboard_time": 1709758574,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 13437,
+      "num": 21979,
+      "word": "穿山甲居然是毛茸茸的",
+      "onboard_time": 1710534677,
+      "rank": 49,
+      "category": "幽默,科学科普"
     },
     {
       "raw_hot": 13350,
