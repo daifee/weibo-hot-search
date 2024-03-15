@@ -1,6 +1,6 @@
 {
   "startTime": 1710519741451,
-  "endTime": 1710530079605,
+  "endTime": 1710531322497,
   "band_list": [
     {
       "raw_hot": 3302966,
@@ -467,20 +467,20 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 42764,
+      "num": 55927,
+      "word": "观众吵架把狮子吓到了",
+      "onboard_time": 1710526161,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 42035,
       "num": 55934,
       "word": "恋爱兄妹第三期",
       "onboard_time": 1710524183,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 41430,
-      "num": 55927,
-      "word": "观众吵架把狮子吓到了",
-      "onboard_time": 1710526161,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 35452,
@@ -497,6 +497,14 @@
       "onboard_time": 1710529338,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21453,
+      "num": 34723,
+      "word": "六种越吃越胖的伪粗粮",
+      "onboard_time": 1710530658,
+      "rank": 46,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
