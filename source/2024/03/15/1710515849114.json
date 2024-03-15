@@ -1,0 +1,410 @@
+{
+  "runTime": 1710515849114,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7648425,
+        "num": 7648425,
+        "word": "315晚会",
+        "onboard_time": 1710502477,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3280842,
+        "num": 3280842,
+        "word": "茉酸奶",
+        "onboard_time": 1710510885,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 56742,
+        "num": 2861810,
+        "word": "长五遥八运载火箭运抵文昌",
+        "onboard_time": 1710507038,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2772234,
+        "num": 2772234,
+        "word": "茶颜悦色放置半小时仅剩半杯",
+        "onboard_time": 1710510763,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1866322,
+        "num": 1866322,
+        "word": "淀粉肠塌房",
+        "onboard_time": 1710498581,
+        "rank": 4,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1843627,
+        "num": 1843627,
+        "word": "徐正溪退圈原因",
+        "onboard_time": 1710497980,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1034428,
+        "num": 1034428,
+        "word": "央广网评初中生被3名同学杀害掩埋",
+        "onboard_time": 1710509805,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812338,
+        "num": 812338,
+        "word": "主持人马卉被永久封禁直播权限",
+        "onboard_time": 1710492094,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 795905,
+        "num": 795905,
+        "word": "世纪佳缘致歉声明",
+        "onboard_time": 1710512026,
+        "rank": 8,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 756193,
+        "num": 756193,
+        "word": "梅菜扣肉 槽头肉",
+        "onboard_time": 1710506985,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 923990,
+        "num": 751189,
+        "word": "徐正溪退圈",
+        "onboard_time": 1710491854,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 714760,
+        "num": 714760,
+        "word": "315奶茶",
+        "onboard_time": 1710504037,
+        "rank": 11,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 712352,
+        "num": 712352,
+        "word": "百果园果切",
+        "onboard_time": 1710510463,
+        "rank": 12,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 704815,
+        "num": 704815,
+        "word": "三甲医院被曝问题九价HPV疫苗交易",
+        "onboard_time": 1710513700,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606538,
+        "num": 606538,
+        "word": "听花酒下架",
+        "onboard_time": 1710510403,
+        "rank": 14,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 544445,
+        "num": 544445,
+        "word": "麦当劳崩了",
+        "onboard_time": 1710484117,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 525333,
+        "num": 525333,
+        "word": "郑合惠子演技",
+        "onboard_time": 1710510703,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 517955,
+        "num": 517955,
+        "word": "茶颜悦色",
+        "onboard_time": 1710515023,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 503455,
+        "num": 503455,
+        "word": "315预制菜",
+        "onboard_time": 1710507282,
+        "rank": 18,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 439922,
+        "num": 439922,
+        "word": "凯特王妃为什么就是不出现",
+        "onboard_time": 1710501461,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 503226,
+        "num": 439726,
+        "word": "弟弟退回了我给他的结婚红包",
+        "onboard_time": 1710510763,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 434174,
+        "num": 434174,
+        "word": "宝马客服回应传动轴异响",
+        "onboard_time": 1710512203,
+        "rank": 21,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 433262,
+        "num": 433262,
+        "word": "徐正溪陈乔恩烈焰海报",
+        "onboard_time": 1710514963,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383516,
+        "num": 383516,
+        "word": "胡杏儿发了三个儿子",
+        "onboard_time": 1710515200,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369454,
+        "num": 369454,
+        "word": "胡先煦改剧本",
+        "onboard_time": 1710515200,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365354,
+        "num": 365354,
+        "word": "同程金融多平台下架",
+        "onboard_time": 1710513584,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 356744,
+        "num": 356744,
+        "word": "315记者卧底婚恋平台",
+        "onboard_time": 1710509143,
+        "rank": 26,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 349635,
+        "num": 349635,
+        "word": "夸父炸串",
+        "onboard_time": 1710515501,
+        "rank": 27,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 347262,
+        "num": 347262,
+        "word": "梁靖崑4比3波尔",
+        "onboard_time": 1710513821,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331226,
+        "num": 331226,
+        "word": "网络水军利用主板机随意更改IP",
+        "onboard_time": 1710505478,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881859,
+        "num": 326705,
+        "word": "茶百道 崩铁",
+        "onboard_time": 1710475958,
+        "rank": 30,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 321410,
+        "num": 321410,
+        "word": "女孩花21万元整形出院当天跳河自杀",
+        "onboard_time": 1710490655,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313581,
+        "num": 313581,
+        "word": "315曝光梅菜扣肉涉事企业被查封",
+        "onboard_time": 1710514482,
+        "rank": 32,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 305410,
+        "num": 305410,
+        "word": "自杀程序员与前妻在世纪佳缘相识",
+        "onboard_time": 1710514724,
+        "rank": 33,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 304346,
+        "num": 304346,
+        "word": "建议胃不好的人吃饭干湿分离",
+        "onboard_time": 1710498817,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 296131,
+        "num": 296131,
+        "word": "NCT127 上海",
+        "onboard_time": 1710515139,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267540,
+        "num": 267540,
+        "word": "官方通报槽头肉制作梅菜扣肉问题",
+        "onboard_time": 1710515023,
+        "rank": 36,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 265269,
+        "num": 265269,
+        "word": "陈梦vs申裕斌",
+        "onboard_time": 1710515741,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258810,
+        "num": 258810,
+        "word": "韩素希ins更新夏威夷照片",
+        "onboard_time": 1710476199,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255952,
+        "num": 255952,
+        "word": "聪明人已经去银行囤黄金了",
+        "onboard_time": 1710506862,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 251488,
+        "num": 251488,
+        "word": "梅菜扣肉原料竟是劣质槽头肉",
+        "onboard_time": 1710508902,
+        "rank": 40,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 249279,
+        "num": 249279,
+        "word": "马卉",
+        "onboard_time": 1710494323,
+        "rank": 41,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 245526,
+        "num": 245526,
+        "word": "英国王室上演消失的她",
+        "onboard_time": 1710496959,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 228724,
+        "num": 228724,
+        "word": "今年315他们都被曝光了",
+        "onboard_time": 1710515382,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221437,
+        "num": 221437,
+        "word": "乒乓球",
+        "onboard_time": 1710514724,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219139,
+        "num": 219139,
+        "word": "莎头组合夺冠",
+        "onboard_time": 1710503619,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214404,
+        "num": 214404,
+        "word": "淋巴肉有3个特征",
+        "onboard_time": 1710513643,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206279,
+        "num": 206279,
+        "word": "刘学义原声",
+        "onboard_time": 1710511423,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194025,
+        "num": 194025,
+        "word": "短剧的风吹到了TF三代",
+        "onboard_time": 1710515741,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193595,
+        "num": 193595,
+        "word": "听花酒",
+        "onboard_time": 1710507103,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中安关系提升为全面战略合作伙伴关系#"
+    }
+  }
+}
