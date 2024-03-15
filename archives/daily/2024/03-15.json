@@ -1,6 +1,6 @@
 {
   "startTime": 1710433325081,
-  "endTime": 1710495282386,
+  "endTime": 1710497854880,
   "band_list": [
     {
       "raw_hot": 10978107,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2223864,
+      "num": 581321,
+      "word": "徐正溪的12年还差10年",
+      "onboard_time": 1710493961,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2156803,
       "num": 2156803,
       "word": "打到臭车的概率越来越高了",
@@ -49,14 +57,6 @@
       "onboard_time": 1710458607,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1901307,
-      "num": 456022,
-      "word": "徐正溪的12年还差10年",
-      "onboard_time": 1710493961,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1817377,
@@ -131,8 +131,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1406725,
-      "num": 1406725,
+      "raw_hot": 1413049,
+      "num": 1413049,
       "word": "主持人马卉被永久封禁直播权限",
       "onboard_time": 1710492094,
       "rank": 11,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 748137,
+      "num": 115379,
+      "word": "徐正溪昨天才说江湖再续",
+      "onboard_time": 1710497201,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 733517,
       "num": 733517,
       "word": "李诞cos孟宴臣",
@@ -393,6 +401,14 @@
       "onboard_time": 1710473794,
       "rank": 11,
       "category": "数码"
+    },
+    {
+      "raw_hot": 586981,
+      "num": 586981,
+      "word": "季如风 白月光",
+      "onboard_time": 1710494080,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 585331,
@@ -483,12 +499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 522677,
-      "num": 522677,
-      "word": "季如风 白月光",
-      "onboard_time": 1710494080,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 519681,
+      "num": 519681,
+      "word": "英国王室上演消失的她",
+      "onboard_time": 1710496959,
+      "rank": 6,
+      "category": "国外时政"
     },
     {
       "raw_hot": 514629,
@@ -635,6 +651,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 433472,
+      "num": 433472,
+      "word": "淀粉肠到底是什么做的",
+      "onboard_time": 1710495642,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 432406,
       "num": 392037,
       "word": "恋爱兄妹",
@@ -747,6 +771,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 378921,
+      "num": 378921,
+      "word": "杨紫谈退休",
+      "onboard_time": 1710496062,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365965,
       "num": 290601,
       "word": "隐形家务才是让人最崩溃的",
@@ -817,6 +849,14 @@
       "onboard_time": 1710471453,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320878,
+      "num": 320878,
+      "word": "卢昱晓女扮男装",
+      "onboard_time": 1710495041,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 310593,
@@ -905,6 +945,14 @@
       "onboard_time": 1710413553,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 283545,
+      "num": 283545,
+      "word": "宇文护叉腰",
+      "onboard_time": 1710495820,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 281318,
@@ -1003,6 +1051,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262973,
+      "num": 262973,
+      "word": "炸鸡店冰箱一股潲水味",
+      "onboard_time": 1710496182,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262420,
+      "num": 262420,
+      "word": "部分共享充电宝一身臭毛病",
+      "onboard_time": 1710496841,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260584,
       "num": 260584,
       "word": "扶他柠檬茶",
@@ -1041,6 +1105,14 @@
       "onboard_time": 1710490354,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 251290,
+      "num": 195224,
+      "word": "简历造假却得到了这份工作",
+      "onboard_time": 1710496959,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 251212,
@@ -1203,14 +1275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211281,
-      "num": 211281,
-      "word": "卢昱晓女扮男装",
-      "onboard_time": 1710495041,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 209466,
       "num": 209466,
       "word": "赵丽颖空中转体耍枪",
@@ -1281,6 +1345,14 @@
       "onboard_time": 1710465216,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 200452,
+      "num": 200452,
+      "word": "烈焰",
+      "onboard_time": 1710496660,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 200219,
@@ -1515,6 +1587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 169910,
+      "num": 169910,
+      "word": "市盈率100倍的股票625年才能回本",
+      "onboard_time": 1710497201,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 167452,
       "num": 167452,
       "word": "蒋敦豪工作室",
@@ -1683,6 +1763,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 147541,
+      "num": 147541,
+      "word": "原来家长也很害怕老师",
+      "onboard_time": 1710497258,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 146951,
+      "num": 146951,
+      "word": "周受资回应为什么不卖TikTok",
+      "onboard_time": 1710495339,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 144031,
       "num": 144031,
       "word": "好想告诉你第三季",
@@ -1761,6 +1857,14 @@
       "onboard_time": 1710467316,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 138191,
+      "num": 138191,
+      "word": "Hero对战WE",
+      "onboard_time": 1710496240,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 136556,
@@ -1963,6 +2067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109643,
+      "num": 109643,
+      "word": "中国作为发展中国家的权利任何国家都不应当剥夺",
+      "onboard_time": 1710497737,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 109246,
       "num": 109246,
       "word": "集中整治自媒体造热点蹭热点",
@@ -2033,6 +2145,14 @@
       "onboard_time": 1710429936,
       "rank": 47,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 85367,
+      "num": 434344,
+      "word": "61岁保安大叔自学画画创作近百幅",
+      "onboard_time": 1710496240,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84825,
@@ -2227,8 +2347,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14149,
-      "num": 948516,
+      "raw_hot": 18284,
+      "num": 957411,
       "word": "镜头里的大美中国",
       "onboard_time": 1710450315,
       "rank": 2,
