@@ -1,7 +1,23 @@
 {
   "startTime": 1710433325081,
-  "endTime": 1710491792602,
+  "endTime": 1710494210383,
   "band_list": [
+    {
+      "raw_hot": 9825083,
+      "num": 9825083,
+      "word": "徐正溪退圈",
+      "onboard_time": 1710491854,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3192353,
+      "num": 542907,
+      "word": "徐正溪为什么",
+      "onboard_time": 1710492457,
+      "rank": 5,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2252560,
       "num": 2252560,
@@ -72,6 +88,14 @@
       "word": "又有多家医院停止产科分娩服务",
       "onboard_time": 1710461434,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1661123,
+      "num": 504624,
+      "word": "女孩花21万元整形出院当天跳河自杀",
+      "onboard_time": 1710490655,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -195,14 +219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 974388,
-      "num": 504624,
-      "word": "女孩花21万元整形出院当天跳河自杀",
-      "onboard_time": 1710490655,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 960050,
       "num": 960050,
       "word": "巧克力可能要涨价了",
@@ -225,6 +241,14 @@
       "onboard_time": 1710464736,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 934804,
+      "num": 346832,
+      "word": "主持人马卉被永久封禁直播权限",
+      "onboard_time": 1710492094,
+      "rank": 11,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 909727,
@@ -372,11 +396,27 @@
     },
     {
       "raw_hot": 567535,
-      "num": 285358,
+      "num": 300704,
       "word": "女生会介意男生有过同居史吗",
       "onboard_time": 1710489453,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 552274,
+      "num": 552274,
+      "word": "马琳",
+      "onboard_time": 1710492094,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 548019,
+      "num": 300940,
+      "word": "建议午睡不要超过半个小时",
+      "onboard_time": 1710493059,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 543203,
@@ -443,6 +483,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 496599,
+      "num": 323461,
+      "word": "徐正溪的12年还差10年",
+      "onboard_time": 1710493961,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 493506,
       "num": 112526,
       "word": "辽宁一药房疑流出客情关系维护表涉及多单位",
@@ -473,6 +521,14 @@
       "onboard_time": 1710469473,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 466829,
+      "num": 466829,
+      "word": "外交部回应中国何时成为发达国家",
+      "onboard_time": 1710491135,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 464454,
@@ -619,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 389492,
+      "num": 300647,
+      "word": "朋友圈屏蔽同事被发现了",
+      "onboard_time": 1710493419,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 384760,
       "num": 357282,
       "word": "标着退货包邮为何退货还要付运费",
@@ -633,6 +697,14 @@
       "onboard_time": 1710471812,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 365965,
+      "num": 290601,
+      "word": "隐形家务才是让人最崩溃的",
+      "onboard_time": 1710493301,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 355465,
@@ -699,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311275,
+      "num": 311275,
+      "word": "怀疑刘耀文是在秀驾照",
+      "onboard_time": 1710493602,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310593,
       "num": 381245,
       "word": "多方回应一老师在宿舍身亡",
@@ -737,6 +817,14 @@
       "onboard_time": 1710490534,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301690,
+      "num": 301690,
+      "word": "和平精英未成年充值不予退款",
+      "onboard_time": 1710492214,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 300682,
@@ -875,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263779,
+      "num": 263779,
+      "word": "逆水寒手游评分",
+      "onboard_time": 1710492457,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 260584,
       "num": 260584,
       "word": "扶他柠檬茶",
@@ -955,20 +1051,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244604,
+      "num": 258151,
+      "word": "身体好不好都写在脸上",
+      "onboard_time": 1710489215,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 238083,
       "num": 238083,
       "word": "个税汇算手机APP办理指南",
       "onboard_time": 1710486275,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 236427,
-      "num": 236427,
-      "word": "外交部回应中国何时成为发达国家",
-      "onboard_time": 1710491135,
-      "rank": 25,
-      "category": "国内时政"
     },
     {
       "raw_hot": 234045,
@@ -1001,14 +1097,6 @@
       "onboard_time": 1710480756,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 229226,
-      "num": 229226,
-      "word": "身体好不好都写在脸上",
-      "onboard_time": 1710489215,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 226349,
@@ -1065,6 +1153,14 @@
       "onboard_time": 1710475477,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217787,
+      "num": 217787,
+      "word": "徐正溪新剧刚开播3天",
+      "onboard_time": 1710494021,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 214078,
@@ -1153,6 +1249,14 @@
       "onboard_time": 1710465216,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 200219,
+      "num": 200219,
+      "word": "大学的课我有四不上",
+      "onboard_time": 1710491797,
+      "rank": 36,
+      "category": "幽默,教育"
     },
     {
       "raw_hot": 198510,
@@ -1267,6 +1371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183577,
+      "num": 183577,
+      "word": "陈幸同说没想过是这个结果",
+      "onboard_time": 1710493059,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182466,
       "num": 182466,
       "word": "李现周雨彤搂腰吻戏",
@@ -1379,6 +1491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165641,
+      "num": 165641,
+      "word": "贫穷大学生都是怎么谈恋爱的",
+      "onboard_time": 1710493961,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164941,
       "num": 164941,
       "word": "灿烂的她今日上映",
@@ -1459,11 +1579,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156291,
+      "num": 156291,
+      "word": "陈漫镜头里的赵露思",
+      "onboard_time": 1710492157,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 155976,
       "num": 139802,
       "word": "赵露思我老婆",
       "onboard_time": 1710414813,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 155398,
+      "num": 155398,
+      "word": "季如风 白月光",
+      "onboard_time": 1710494080,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -1628,7 +1764,7 @@
     },
     {
       "raw_hot": 135884,
-      "num": 135884,
+      "num": 155383,
       "word": "薛晨旭退周周小可爱24万",
       "onboard_time": 1710485613,
       "rank": 45,
@@ -1939,6 +2075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 62102,
+      "num": 325286,
+      "word": "假驴肉产业乱象调查",
+      "onboard_time": 1710493240,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61162,
       "num": 61162,
       "word": "普通NPC的一生",
@@ -2057,6 +2201,14 @@
       "onboard_time": 1710416492,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 8625,
+      "num": 683937,
+      "word": "镜头里的大美中国",
+      "onboard_time": 1710450315,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

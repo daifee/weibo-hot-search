@@ -1,0 +1,410 @@
+{
+  "runTime": 1710494210383,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9825083,
+        "num": 9825083,
+        "word": "徐正溪退圈",
+        "onboard_time": 1710491854,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 772983,
+        "num": 772983,
+        "word": "国乒输外战扣分",
+        "onboard_time": 1710489994,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8625,
+        "num": 683937,
+        "word": "镜头里的大美中国",
+        "onboard_time": 1710450315,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655128,
+        "num": 655128,
+        "word": "麦当劳崩了",
+        "onboard_time": 1710484117,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 552274,
+        "num": 552274,
+        "word": "马琳",
+        "onboard_time": 1710492094,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3192353,
+        "num": 542907,
+        "word": "徐正溪为什么",
+        "onboard_time": 1710492457,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518287,
+        "num": 518287,
+        "word": "杨紫张予曦撞衫",
+        "onboard_time": 1710487293,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 485441,
+        "num": 485441,
+        "word": "鱿鱼游戏吴永洙因性骚扰被判刑",
+        "onboard_time": 1710489815,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466829,
+        "num": 466829,
+        "word": "外交部回应中国何时成为发达国家",
+        "onboard_time": 1710491135,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 353253,
+        "num": 353253,
+        "word": "迪丽热巴摩登裙",
+        "onboard_time": 1710488914,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1661123,
+        "num": 350212,
+        "word": "女孩花21万元整形出院当天跳河自杀",
+        "onboard_time": 1710490655,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934804,
+        "num": 346832,
+        "word": "主持人马卉被永久封禁直播权限",
+        "onboard_time": 1710492094,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 687032,
+        "num": 341066,
+        "word": "韩素希ins更新夏威夷照片",
+        "onboard_time": 1710476199,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573336,
+        "num": 335213,
+        "word": "凯特消失后英媒重磅介绍威廉的情人",
+        "onboard_time": 1710483157,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 62102,
+        "num": 325286,
+        "word": "假驴肉产业乱象调查",
+        "onboard_time": 1710493240,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496599,
+        "num": 323461,
+        "word": "徐正溪的12年还差10年",
+        "onboard_time": 1710493961,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353447,
+        "num": 313573,
+        "word": "日本麦当劳也崩了",
+        "onboard_time": 1710490116,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 312552,
+        "num": 312552,
+        "word": "董子健带女儿外出聚餐",
+        "onboard_time": 1710485737,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311275,
+        "num": 311275,
+        "word": "怀疑刘耀文是在秀驾照",
+        "onboard_time": 1710493602,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301690,
+        "num": 301690,
+        "word": "和平精英未成年充值不予退款",
+        "onboard_time": 1710492214,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 548019,
+        "num": 300940,
+        "word": "建议午睡不要超过半个小时",
+        "onboard_time": 1710493059,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 405683,
+        "num": 300704,
+        "word": "女生会介意男生有过同居史吗",
+        "onboard_time": 1710489453,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 389492,
+        "num": 300647,
+        "word": "朋友圈屏蔽同事被发现了",
+        "onboard_time": 1710493419,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300169,
+        "num": 300169,
+        "word": "好利来要求员工入职前军训",
+        "onboard_time": 1710479138,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 292848,
+        "num": 292848,
+        "word": "打到臭车的概率越来越高了",
+        "onboard_time": 1710473794,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 365965,
+        "num": 290601,
+        "word": "隐形家务才是让人最崩溃的",
+        "onboard_time": 1710493301,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283898,
+        "num": 283898,
+        "word": "张元英 短发",
+        "onboard_time": 1710478299,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263779,
+        "num": 263779,
+        "word": "逆水寒手游评分",
+        "onboard_time": 1710492457,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 263032,
+        "num": 263032,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1710485854,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244604,
+        "num": 258151,
+        "word": "身体好不好都写在脸上",
+        "onboard_time": 1710489215,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 388886,
+        "num": 257874,
+        "word": "茶百道 崩铁",
+        "onboard_time": 1710475958,
+        "rank": 30,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 256683,
+        "num": 256683,
+        "word": "BY2Yumi暴瘦剩42公斤",
+        "onboard_time": 1710480037,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256148,
+        "num": 256148,
+        "word": "315",
+        "onboard_time": 1710458607,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237392,
+        "num": 237392,
+        "word": "扶他柠檬茶回应",
+        "onboard_time": 1710487891,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 217787,
+        "num": 217787,
+        "word": "徐正溪新剧刚开播3天",
+        "onboard_time": 1710494021,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209682,
+        "num": 209682,
+        "word": "郭帆吃中国沙虫吓到沙丘导演",
+        "onboard_time": 1710490716,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200219,
+        "num": 200219,
+        "word": "大学的课我有四不上",
+        "onboard_time": 1710491797,
+        "rank": 36,
+        "category": "幽默,教育"
+      },
+      {
+        "raw_hot": 197630,
+        "num": 197630,
+        "word": "潘雨润交了一个亿的税",
+        "onboard_time": 1710482740,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 197514,
+        "num": 197514,
+        "word": "赵丽颖空中转体耍枪",
+        "onboard_time": 1710491317,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183577,
+        "num": 183577,
+        "word": "陈幸同说没想过是这个结果",
+        "onboard_time": 1710493059,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192205,
+        "num": 177676,
+        "word": "主持人马卉回应直播疑现不雅照",
+        "onboard_time": 1710471812,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165641,
+        "num": 165641,
+        "word": "贫穷大学生都是怎么谈恋爱的",
+        "onboard_time": 1710493961,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162197,
+        "num": 162197,
+        "word": "最拧巴的星座",
+        "onboard_time": 1710485975,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157659,
+        "num": 157659,
+        "word": "10个疾病面容",
+        "onboard_time": 1710491135,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157623,
+        "num": 157623,
+        "word": "消协智慧315平台上线",
+        "onboard_time": 1710481118,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156291,
+        "num": 156291,
+        "word": "陈漫镜头里的赵露思",
+        "onboard_time": 1710492157,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155398,
+        "num": 155398,
+        "word": "季如风 白月光",
+        "onboard_time": 1710494080,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136623,
+        "num": 155394,
+        "word": "福原爱江宏杰和解",
+        "onboard_time": 1710482256,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127788,
+        "num": 155389,
+        "word": "去哪啊 去亲你",
+        "onboard_time": 1710473616,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122713,
+        "num": 155383,
+        "word": "薛晨旭退周周小可爱24万",
+        "onboard_time": 1710485613,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#只有扎根人民创作才能获得用之不竭的源泉#"
+    }
+  }
+}
