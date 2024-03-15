@@ -1,0 +1,410 @@
+{
+  "runTime": 1710505853553,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6846473,
+        "num": 6846473,
+        "word": "淀粉肠塌房",
+        "onboard_time": 1710498581,
+        "rank": 0,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 5861109,
+        "num": 5861109,
+        "word": "315晚会",
+        "onboard_time": 1710502477,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19482,
+        "num": 2910666,
+        "word": "镜头里的大美中国",
+        "onboard_time": 1710450315,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2510996,
+        "num": 2510996,
+        "word": "徐正溪退圈原因",
+        "onboard_time": 1710497980,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1487162,
+        "num": 1487162,
+        "word": "315奶茶",
+        "onboard_time": 1710504037,
+        "rank": 4,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1336484,
+        "num": 1336484,
+        "word": "古茗",
+        "onboard_time": 1710503380,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 923833,
+        "num": 923833,
+        "word": "主持人马卉被永久封禁直播权限",
+        "onboard_time": 1710492094,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 908289,
+        "num": 908289,
+        "word": "莎头组合夺冠",
+        "onboard_time": 1710503619,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1684532,
+        "num": 904264,
+        "word": "徐正溪退圈",
+        "onboard_time": 1710491854,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 886757,
+        "num": 886757,
+        "word": "麦当劳崩了",
+        "onboard_time": 1710484117,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 685857,
+        "num": 685857,
+        "word": "徐正溪上岸了吗",
+        "onboard_time": 1710501878,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 671952,
+        "num": 671952,
+        "word": "凯特王妃为什么就是不出现",
+        "onboard_time": 1710501461,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 553595,
+        "num": 553595,
+        "word": "建议胃不好的人吃饭干湿分离",
+        "onboard_time": 1710498817,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 473754,
+        "num": 473754,
+        "word": "王曼昱vs伊藤美诚",
+        "onboard_time": 1710505420,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66154,
+        "num": 462510,
+        "word": "中央网信办部署2024年清朗行动",
+        "onboard_time": 1710498219,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461659,
+        "num": 461659,
+        "word": "女孩花21万元整形出院当天跳河自杀",
+        "onboard_time": 1710490655,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419439,
+        "num": 419439,
+        "word": "英国王室上演消失的她",
+        "onboard_time": 1710496959,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 406418,
+        "num": 406418,
+        "word": "马卉",
+        "onboard_time": 1710494323,
+        "rank": 17,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 369244,
+        "num": 369244,
+        "word": "王楚钦孙颖莎三连冠",
+        "onboard_time": 1710504582,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355488,
+        "num": 355488,
+        "word": "惠英红 惹到我算是惹到霸王花了",
+        "onboard_time": 1710501338,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 343774,
+        "num": 343774,
+        "word": "王俊凯说发微博更像发朋友圈",
+        "onboard_time": 1710500497,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341774,
+        "num": 341774,
+        "word": "韩素希ins更新夏威夷照片",
+        "onboard_time": 1710476199,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340871,
+        "num": 340871,
+        "word": "我是嫡长狗",
+        "onboard_time": 1710501698,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297808,
+        "num": 297808,
+        "word": "孙颖莎王楚钦vs韩国队",
+        "onboard_time": 1710498581,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294828,
+        "num": 294828,
+        "word": "315曝光主板机黑灰产业链",
+        "onboard_time": 1710505360,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274153,
+        "num": 274153,
+        "word": "淀粉肠 溺爱",
+        "onboard_time": 1710502777,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 260210,
+        "num": 260210,
+        "word": "张海宇断食暴瘦饰演瘾君子",
+        "onboard_time": 1710504637,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244000,
+        "num": 244000,
+        "word": "全员加速中",
+        "onboard_time": 1710505478,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239569,
+        "num": 239569,
+        "word": "五年友谊因一次旅游分崩离析",
+        "onboard_time": 1710502179,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224738,
+        "num": 224738,
+        "word": "淀粉肠 骨泥",
+        "onboard_time": 1710499541,
+        "rank": 29,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1184857,
+        "num": 224406,
+        "word": "茶百道 崩铁",
+        "onboard_time": 1710475958,
+        "rank": 30,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 313989,
+        "num": 224230,
+        "word": "刘国梁为王楚钦孙颖莎颁奖",
+        "onboard_time": 1710505180,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221795,
+        "num": 221795,
+        "word": "花间令",
+        "onboard_time": 1710500800,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215690,
+        "num": 215690,
+        "word": "为什么蒙面人都蒙下半张脸",
+        "onboard_time": 1710500621,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218964,
+        "num": 215428,
+        "word": "花间令 坟头表白",
+        "onboard_time": 1710504338,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214357,
+        "num": 214357,
+        "word": "考研复试",
+        "onboard_time": 1710503137,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214216,
+        "num": 214216,
+        "word": "和同学对话意识到大学前后对比",
+        "onboard_time": 1710505180,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197478,
+        "num": 197478,
+        "word": "网络水军利用主板机随意更改IP",
+        "onboard_time": 1710505478,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196521,
+        "num": 196521,
+        "word": "自己交社保和公司交的区别在哪里",
+        "onboard_time": 1710498698,
+        "rank": 38,
+        "category": "科学科普,财经"
+      },
+      {
+        "raw_hot": 194418,
+        "num": 194418,
+        "word": "打假",
+        "onboard_time": 1710505420,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193134,
+        "num": 193134,
+        "word": "WTT",
+        "onboard_time": 1710504878,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187998,
+        "num": 187998,
+        "word": "女生会介意男生有过同居史吗",
+        "onboard_time": 1710489453,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180864,
+        "num": 180864,
+        "word": "RNG 陌生",
+        "onboard_time": 1710501338,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178857,
+        "num": 178857,
+        "word": "宠物粮不法商人说用最烂东西做最贵粮",
+        "onboard_time": 1710501761,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175673,
+        "num": 175673,
+        "word": "LWX说一场都不会输",
+        "onboard_time": 1710503563,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168246,
+        "num": 168246,
+        "word": "迪丽热巴摩登裙",
+        "onboard_time": 1710488914,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160541,
+        "num": 160541,
+        "word": "张元英 短发",
+        "onboard_time": 1710478299,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158880,
+        "num": 158880,
+        "word": "315",
+        "onboard_time": 1710458607,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157231,
+        "num": 157231,
+        "word": "周也选角眼光",
+        "onboard_time": 1710504760,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142870,
+        "num": 142870,
+        "word": "欧冠抽签",
+        "onboard_time": 1710501278,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#只有扎根人民创作才能获得用之不竭的源泉#"
+    }
+  }
+}
