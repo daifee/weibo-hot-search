@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710466301600,
+  "endTime": 1710469411578,
   "band_list": [
     {
       "raw_hot": 8991993,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1933002,
+      "num": 1933002,
+      "word": "315",
+      "onboard_time": 1710458607,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1931802,
       "num": 1931802,
       "word": "5岁男孩阳台坠亡时奶奶姥姥在打麻将",
@@ -393,14 +401,6 @@
       "onboard_time": 1710209189,
       "rank": 15,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1708663,
-      "num": 1708663,
-      "word": "315",
-      "onboard_time": 1710458607,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 1685587,
@@ -1499,6 +1499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 941121,
+      "num": 430623,
+      "word": "杀害同学3名初中生家属仍未道歉",
+      "onboard_time": 1710464736,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 936535,
       "num": 545535,
       "word": "王源都当舅舅了",
@@ -2097,6 +2105,14 @@
       "onboard_time": 1710256414,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 732490,
+      "num": 732490,
+      "word": "丫丫把苹果啃出鞭炮声",
+      "onboard_time": 1710466596,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 728267,
@@ -2980,7 +2996,7 @@
     },
     {
       "raw_hot": 569278,
-      "num": 253901,
+      "num": 271122,
       "word": "孙怡用过的手机壳",
       "onboard_time": 1710463719,
       "rank": 20,
@@ -3305,6 +3321,14 @@
       "onboard_time": 1710216512,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 531987,
+      "num": 531987,
+      "word": "俞灏明回应和陈晓二搭",
+      "onboard_time": 1710466653,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 531159,
@@ -3812,7 +3836,7 @@
     },
     {
       "raw_hot": 482205,
-      "num": 245793,
+      "num": 266246,
       "word": "民警被10岁报警孩子生僻名字难住了",
       "onboard_time": 1710464198,
       "rank": 22,
@@ -3977,6 +4001,14 @@
       "onboard_time": 1710376715,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 464454,
+      "num": 334889,
+      "word": "TikTok禁令生成法律概率降低",
+      "onboard_time": 1710465336,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 463276,
@@ -4265,14 +4297,6 @@
       "onboard_time": 1710341916,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 430623,
-      "num": 430623,
-      "word": "杀害同学3名初中生家属仍未道歉",
-      "onboard_time": 1710464736,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 429785,
@@ -4585,6 +4609,14 @@
       "onboard_time": 1710136831,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 397779,
+      "num": 269965,
+      "word": "女孩们挤爆喜茶和纸片老公领证",
+      "onboard_time": 1710466056,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 397160,
@@ -5139,6 +5171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 350271,
+      "num": 269109,
+      "word": "甘肃麻辣烫爆火快递员日发千斤辣椒",
+      "onboard_time": 1710468393,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348973,
       "num": 348973,
       "word": "平野美宇3比0早田希娜",
@@ -5393,6 +5433,14 @@
       "onboard_time": 1710385651,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 332102,
+      "num": 332102,
+      "word": "花间令今日开播",
+      "onboard_time": 1710465694,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 331524,
@@ -6067,6 +6115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297000,
+      "num": 297000,
+      "word": "怎么体检才能不花冤枉钱",
+      "onboard_time": 1710467016,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 296073,
       "num": 296073,
       "word": "韩国偶遇孙红雷一家",
@@ -6203,12 +6259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286173,
+      "num": 286173,
+      "word": "光遇大耳狗联动",
+      "onboard_time": 1710467735,
+      "rank": 17,
+      "category": "游戏,动漫"
+    },
+    {
       "raw_hot": 285552,
       "num": 285552,
       "word": "TES对战JDG",
       "onboard_time": 1710419613,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 285545,
+      "num": 285545,
+      "word": "标着退货包邮为何退货还要付运费",
+      "onboard_time": 1710467855,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284997,
@@ -6280,14 +6352,6 @@
       "word": "蓝盈莹演了五福临门",
       "onboard_time": 1710302135,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 279921,
-      "num": 279921,
-      "word": "花间令今日开播",
-      "onboard_time": 1710465694,
-      "rank": 14,
       "category": "剧集"
     },
     {
@@ -6449,6 +6513,14 @@
       "onboard_time": 1710231752,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 271534,
+      "num": 271534,
+      "word": "小黑盒崩了",
+      "onboard_time": 1710467855,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 271451,
@@ -7779,6 +7851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 226349,
+      "num": 226349,
+      "word": "山西一煤矿井下煤仓发生事故致7人遇难",
+      "onboard_time": 1710467495,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226323,
       "num": 226323,
       "word": "律师称高君雨事件或造成信任危机",
@@ -8331,6 +8411,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 212886,
+      "num": 212886,
+      "word": "杜华点名程潇吴宣仪化妆好",
+      "onboard_time": 1710469053,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212716,
       "num": 212716,
       "word": "成毅鱼花灯",
@@ -8633,14 +8721,6 @@
       "onboard_time": 1710166292,
       "rank": 42,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206471,
-      "num": 206471,
-      "word": "TikTok禁令生成法律概率降低",
-      "onboard_time": 1710465336,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 205727,
@@ -9145,6 +9225,14 @@
       "onboard_time": 1710421534,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198097,
+      "num": 198097,
+      "word": "头部电商主播为什么纷纷隐身",
+      "onboard_time": 1710469114,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 198061,
@@ -9779,6 +9867,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 188300,
+      "num": 188300,
+      "word": "巧克力可能要涨价了",
+      "onboard_time": 1710469291,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 188123,
       "num": 188123,
       "word": "售后服务直播带货投诉排名第一",
@@ -10161,6 +10257,14 @@
       "onboard_time": 1710403893,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181780,
+      "num": 181780,
+      "word": "王一博名誉权维权将开庭",
+      "onboard_time": 1710467913,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 181560,
@@ -12619,6 +12723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138501,
+      "num": 138501,
+      "word": "这些伪健康零食坑你钱还让你胖",
+      "onboard_time": 1710467316,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 138470,
       "num": 138470,
       "word": "小日子 把蜗居过成大宅门",
@@ -13051,14 +13163,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 131880,
-      "num": 131880,
-      "word": "女孩们挤爆喜茶和纸片老公领证",
-      "onboard_time": 1710466056,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131756,
       "num": 131756,
       "word": "这些减肥谣言你信过几个",
@@ -13259,6 +13363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128311,
+      "num": 128311,
+      "word": "乐山大佛为何这样神奇",
+      "onboard_time": 1710465275,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 128205,
       "num": 128205,
       "word": "00后老师vs资深老教师",
@@ -13385,14 +13497,6 @@
       "onboard_time": 1710141627,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 125801,
-      "num": 125801,
-      "word": "乐山大佛为何这样神奇",
-      "onboard_time": 1710465275,
-      "rank": 44,
-      "category": "旅游"
     },
     {
       "raw_hot": 125594,
@@ -13585,6 +13689,14 @@
       "onboard_time": 1710141990,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121494,
+      "num": 121494,
+      "word": "没有事业心的警犬不是好狗狗",
+      "onboard_time": 1710469114,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 121454,
@@ -13915,6 +14027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114205,
+      "num": 114205,
+      "word": "丫丫悠闲晒太阳啃大苹果",
+      "onboard_time": 1710467975,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113695,
       "num": 113695,
       "word": "电影可怜的东西",
@@ -14121,6 +14241,14 @@
       "onboard_time": 1710064829,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108090,
+      "num": 108090,
+      "word": "天水不只有麻辣烫",
+      "onboard_time": 1710469354,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 107995,

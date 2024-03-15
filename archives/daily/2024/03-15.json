@@ -1,6 +1,6 @@
 {
   "startTime": 1710433325081,
-  "endTime": 1710466301600,
+  "endTime": 1710469411578,
   "band_list": [
     {
       "raw_hot": 2252560,
@@ -11,6 +11,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1933002,
+      "num": 1933002,
+      "word": "315",
+      "onboard_time": 1710458607,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1728481,
       "num": 1728481,
       "word": "又有多家医院停止产科分娩服务",
@@ -19,12 +27,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1708663,
-      "num": 1708663,
-      "word": "315",
-      "onboard_time": 1710458607,
-      "rank": 5,
-      "category": "综艺"
+      "raw_hot": 1530437,
+      "num": 1530437,
+      "word": "凯特",
+      "onboard_time": 1710466774,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1399807,
@@ -59,6 +67,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 941121,
+      "num": 430623,
+      "word": "杀害同学3名初中生家属仍未道歉",
+      "onboard_time": 1710464736,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 909727,
       "num": 909727,
       "word": "脊柱侧弯女孩术后高了21厘米",
@@ -73,6 +89,14 @@
       "onboard_time": 1710425795,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 732490,
+      "num": 732490,
+      "word": "丫丫把苹果啃出鞭炮声",
+      "onboard_time": 1710466596,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 701572,
@@ -108,11 +132,19 @@
     },
     {
       "raw_hot": 569278,
-      "num": 253901,
+      "num": 271122,
       "word": "孙怡用过的手机壳",
       "onboard_time": 1710463719,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 531987,
+      "num": 531987,
+      "word": "俞灏明回应和陈晓二搭",
+      "onboard_time": 1710466653,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 513144,
@@ -140,11 +172,19 @@
     },
     {
       "raw_hot": 482205,
-      "num": 245793,
+      "num": 266246,
       "word": "民警被10岁报警孩子生僻名字难住了",
       "onboard_time": 1710464198,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 464454,
+      "num": 334889,
+      "word": "TikTok禁令生成法律概率降低",
+      "onboard_time": 1710465336,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 449664,
@@ -187,20 +227,36 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 430623,
-      "num": 430623,
-      "word": "杀害同学3名初中生家属仍未道歉",
-      "onboard_time": 1710464736,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 425358,
       "num": 425358,
       "word": "张元英用中文回复来自中国的粉丝",
       "onboard_time": 1710431560,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 397779,
+      "num": 269965,
+      "word": "女孩们挤爆喜茶和纸片老公领证",
+      "onboard_time": 1710466056,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350271,
+      "num": 269109,
+      "word": "甘肃麻辣烫爆火快递员日发千斤辣椒",
+      "onboard_time": 1710468393,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332102,
+      "num": 332102,
+      "word": "花间令今日开播",
+      "onboard_time": 1710465694,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 310593,
@@ -243,6 +299,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 297000,
+      "num": 297000,
+      "word": "怎么体检才能不花冤枉钱",
+      "onboard_time": 1710467016,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 289528,
       "num": 289528,
       "word": "教育部曾明确叫停在家上学",
@@ -251,12 +315,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 279921,
-      "num": 279921,
-      "word": "花间令今日开播",
-      "onboard_time": 1710465694,
-      "rank": 14,
-      "category": "剧集"
+      "raw_hot": 286173,
+      "num": 286173,
+      "word": "光遇大耳狗联动",
+      "onboard_time": 1710467735,
+      "rank": 17,
+      "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 285545,
+      "num": 285545,
+      "word": "标着退货包邮为何退货还要付运费",
+      "onboard_time": 1710467855,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271534,
+      "num": 271534,
+      "word": "小黑盒崩了",
+      "onboard_time": 1710467855,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 269608,
@@ -331,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226349,
+      "num": 226349,
+      "word": "山西一煤矿井下煤仓发生事故致7人遇难",
+      "onboard_time": 1710467495,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224303,
       "num": 224303,
       "word": "小狗金子",
@@ -347,12 +435,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206471,
-      "num": 206471,
-      "word": "TikTok禁令生成法律概率降低",
-      "onboard_time": 1710465336,
-      "rank": 25,
-      "category": "互联网"
+      "raw_hot": 212886,
+      "num": 212886,
+      "word": "杜华点名程潇吴宣仪化妆好",
+      "onboard_time": 1710469053,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 202877,
@@ -371,6 +459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 198097,
+      "num": 198097,
+      "word": "头部电商主播为什么纷纷隐身",
+      "onboard_time": 1710469114,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 196956,
       "num": 196956,
       "word": "直播带货投诉量5年间增幅47倍",
@@ -385,6 +481,14 @@
       "onboard_time": 1710462156,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188300,
+      "num": 188300,
+      "word": "巧克力可能要涨价了",
+      "onboard_time": 1710469291,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 188296,
@@ -409,6 +513,14 @@
       "onboard_time": 1710463178,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181780,
+      "num": 181780,
+      "word": "王一博名誉权维权将开庭",
+      "onboard_time": 1710467913,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 177164,
@@ -539,6 +651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138501,
+      "num": 138501,
+      "word": "这些伪健康零食坑你钱还让你胖",
+      "onboard_time": 1710467316,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 136373,
       "num": 136373,
       "word": "老公玩股票这件事我觉得很慌",
@@ -555,12 +675,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131880,
-      "num": 131880,
-      "word": "女孩们挤爆喜茶和纸片老公领证",
-      "onboard_time": 1710466056,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 128311,
+      "num": 128311,
+      "word": "乐山大佛为何这样神奇",
+      "onboard_time": 1710465275,
+      "rank": 44,
+      "category": "旅游"
     },
     {
       "raw_hot": 125969,
@@ -569,14 +689,6 @@
       "onboard_time": 1710418773,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125801,
-      "num": 125801,
-      "word": "乐山大佛为何这样神奇",
-      "onboard_time": 1710465275,
-      "rank": 44,
-      "category": "旅游"
     },
     {
       "raw_hot": 121985,
@@ -593,6 +705,14 @@
       "onboard_time": 1710425074,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121494,
+      "num": 121494,
+      "word": "没有事业心的警犬不是好狗狗",
+      "onboard_time": 1710469114,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 120685,
@@ -625,6 +745,14 @@
       "onboard_time": 1710462515,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 114205,
+      "num": 114205,
+      "word": "丫丫悠闲晒太阳啃大苹果",
+      "onboard_time": 1710467975,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113107,
@@ -665,6 +793,14 @@
       "onboard_time": 1710466056,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108090,
+      "num": 108090,
+      "word": "天水不只有麻辣烫",
+      "onboard_time": 1710469354,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 96998,
