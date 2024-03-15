@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710527648151,
+  "endTime": 1710530079605,
   "band_list": [
     {
       "raw_hot": 10990895,
@@ -17539,6 +17539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54296,
+      "num": 54296,
+      "word": "陈漫发了赵露思",
+      "onboard_time": 1710528618,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54288,
       "num": 54288,
       "word": "法国赛石宇奇男单夺冠",
@@ -17643,6 +17651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47596,
+      "num": 55931,
+      "word": "到底是谁天天不关洗衣机的门",
+      "onboard_time": 1710526579,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 47189,
       "num": 47189,
       "word": "NBA全明星赛历史上的经典名场面",
@@ -17683,14 +17699,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 44043,
-      "num": 55931,
-      "word": "到底是谁天天不关洗衣机的门",
-      "onboard_time": 1710526579,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 42770,
       "num": 42770,
       "word": "家人回应博主用AI复活高以翔",
@@ -17721,6 +17729,14 @@
       "onboard_time": 1710524183,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41430,
+      "num": 55927,
+      "word": "观众吵架把狮子吓到了",
+      "onboard_time": 1710526161,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 41405,
@@ -17777,14 +17793,6 @@
       "onboard_time": 1710405876,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36557,
-      "num": 55927,
-      "word": "观众吵架把狮子吓到了",
-      "onboard_time": 1710526161,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 36120,
@@ -17945,6 +17953,14 @@
       "onboard_time": 1709987011,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24576,
+      "num": 29658,
+      "word": "陈楚生深圳演唱会",
+      "onboard_time": 1710529338,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 23018,

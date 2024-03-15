@@ -1,6 +1,6 @@
 {
   "startTime": 1710519741451,
-  "endTime": 1710527648151,
+  "endTime": 1710530079605,
   "band_list": [
     {
       "raw_hot": 3302966,
@@ -427,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54296,
+      "num": 54296,
+      "word": "陈漫发了赵露思",
+      "onboard_time": 1710528618,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51112,
       "num": 55949,
       "word": "邓为英文名",
@@ -435,20 +443,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47596,
+      "num": 55931,
+      "word": "到底是谁天天不关洗衣机的门",
+      "onboard_time": 1710526579,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 44105,
       "num": 1927348,
       "word": "长五遥八运载火箭运抵文昌",
       "onboard_time": 1710507038,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 44043,
-      "num": 55931,
-      "word": "到底是谁天天不关洗衣机的门",
-      "onboard_time": 1710526579,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 42770,
@@ -467,7 +475,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36557,
+      "raw_hot": 41430,
       "num": 55927,
       "word": "观众吵架把狮子吓到了",
       "onboard_time": 1710526161,
@@ -481,6 +489,14 @@
       "onboard_time": 1710525021,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 24576,
+      "num": 29658,
+      "word": "陈楚生深圳演唱会",
+      "onboard_time": 1710529338,
+      "rank": 47,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
