@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710501262931,
+  "endTime": 1710502437716,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -19,20 +19,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9658561,
+      "num": 9658561,
+      "word": "淀粉肠塌房",
+      "onboard_time": 1710498581,
+      "rank": 8,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 8991993,
       "num": 8991993,
       "word": "考研国家线",
       "onboard_time": 1709955931,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 8779392,
-      "num": 8779392,
-      "word": "淀粉肠塌房",
-      "onboard_time": 1710498581,
-      "rank": 8,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 6964861,
@@ -179,6 +179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2870684,
+      "num": 919848,
+      "word": "徐正溪退圈原因",
+      "onboard_time": 1710497980,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2869929,
       "num": 2869929,
       "word": "清明节要调休",
@@ -209,14 +217,6 @@
       "onboard_time": 1709249065,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2757645,
-      "num": 835207,
-      "word": "徐正溪退圈原因",
-      "onboard_time": 1710497980,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 2672943,
@@ -1068,7 +1068,7 @@
     },
     {
       "raw_hot": 1661123,
-      "num": 575349,
+      "num": 582962,
       "word": "女孩花21万元整形出院当天跳河自杀",
       "onboard_time": 1710490655,
       "rank": 32,
@@ -2811,12 +2811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1074947,
+      "num": 1040000,
+      "word": "骨泥",
+      "onboard_time": 1710499541,
+      "rank": 4,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1071912,
       "num": 1071912,
       "word": "建议整治校园形式主义",
       "onboard_time": 1709554054,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1067703,
+      "num": 1067703,
+      "word": "徐正溪上岸了吗",
+      "onboard_time": 1710501878,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1065140,
@@ -2993,14 +3009,6 @@
       "onboard_time": 1709779349,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1040000,
-      "num": 1040000,
-      "word": "骨泥",
-      "onboard_time": 1710499541,
-      "rank": 4,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1038550,
@@ -3627,6 +3635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 926735,
+      "num": 926735,
+      "word": "英国王室上演消失的她",
+      "onboard_time": 1710496959,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 926441,
       "num": 466231,
       "word": "男子二婚拒付22万彩礼女方愤怒引产",
@@ -3793,14 +3809,6 @@
       "onboard_time": 1710068970,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 902272,
-      "num": 902272,
-      "word": "英国王室上演消失的她",
-      "onboard_time": 1710496959,
-      "rank": 6,
-      "category": "国外时政"
     },
     {
       "raw_hot": 902228,
@@ -9051,6 +9059,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 511034,
+      "num": 511034,
+      "word": "建议胃不好的人吃饭干湿分离",
+      "onboard_time": 1710498817,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 511001,
       "num": 511001,
       "word": "成龙头发胡子白了",
@@ -9265,6 +9281,14 @@
       "onboard_time": 1709619031,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 500755,
+      "num": 500755,
+      "word": "欧冠抽签",
+      "onboard_time": 1710501278,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 500698,
@@ -9587,6 +9611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 488686,
+      "num": 488686,
+      "word": "EDG赛前海报",
+      "onboard_time": 1710501580,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 488328,
       "num": 346860,
       "word": "感受到四点半下班的好处了",
@@ -9833,14 +9865,6 @@
       "onboard_time": 1709626595,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 480200,
-      "num": 480200,
-      "word": "建议胃不好的人吃饭干湿分离",
-      "onboard_time": 1710498817,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 479756,
@@ -11297,6 +11321,14 @@
       "onboard_time": 1710309933,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 426032,
+      "num": 426032,
+      "word": "王俊凯说发微博更像发朋友圈",
+      "onboard_time": 1710500497,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 425850,
@@ -12923,6 +12955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 372236,
+      "num": 211490,
+      "word": "凯特王妃为什么就是不出现",
+      "onboard_time": 1710501461,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 371828,
       "num": 320530,
       "word": "章若楠 重庆",
@@ -14027,6 +14067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 340584,
+      "num": 321160,
+      "word": "自己交社保和公司交的区别在哪里",
+      "onboard_time": 1710498698,
+      "rank": 20,
+      "category": "科学科普,财经"
+    },
+    {
       "raw_hot": 340445,
       "num": 340445,
       "word": "王鹤棣沈月桃花坞同框",
@@ -14689,6 +14737,14 @@
       "onboard_time": 1710398734,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 322435,
+      "num": 322435,
+      "word": "RNG 陌生",
+      "onboard_time": 1710501338,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 322258,
@@ -16523,14 +16579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 285229,
-      "num": 285229,
-      "word": "王俊凯说发微博更像发朋友圈",
-      "onboard_time": 1710500497,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 285018,
       "num": 310274,
       "word": "檀健次张婧仪新浪扫楼",
@@ -16777,14 +16825,6 @@
       "onboard_time": 1710123451,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 279134,
-      "num": 259248,
-      "word": "自己交社保和公司交的区别在哪里",
-      "onboard_time": 1710498698,
-      "rank": 20,
-      "category": "科学科普,财经"
     },
     {
       "raw_hot": 279063,
@@ -17219,6 +17259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272040,
+      "num": 272040,
+      "word": "我是嫡长狗",
+      "onboard_time": 1710501698,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 271858,
       "num": 271858,
       "word": "张雪峰 周五",
@@ -17545,6 +17593,14 @@
       "onboard_time": 1709339368,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 266258,
+      "num": 266258,
+      "word": "惠英红 惹到我算是惹到霸王花了",
+      "onboard_time": 1710501338,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 266005,
@@ -21451,6 +21507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 214548,
+      "num": 214548,
+      "word": "阿森纳对拜仁",
+      "onboard_time": 1710501761,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214514,
       "num": 214514,
       "word": "领养一年的猫前主人说要回去",
@@ -22289,6 +22353,14 @@
       "onboard_time": 1710473257,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207989,
+      "num": 207989,
+      "word": "五年友谊因一次旅游分崩离析",
+      "onboard_time": 1710502179,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 207968,
@@ -25419,6 +25491,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 187729,
+      "num": 187729,
+      "word": "宠物粮不法商人说用最烂东西做最贵粮",
+      "onboard_time": 1710501761,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187702,
       "num": 187702,
       "word": "藏海花",
@@ -25995,6 +26075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183541,
+      "num": 183541,
+      "word": "RNG战胜OMG",
+      "onboard_time": 1710501461,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183507,
       "num": 183507,
       "word": "惠英红 贾玲为自己而活没问题",
@@ -26401,6 +26489,14 @@
       "onboard_time": 1709778270,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 181029,
+      "num": 181029,
+      "word": "欧冠8强对阵出炉",
+      "onboard_time": 1710502179,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 181015,
@@ -32043,6 +32139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147094,
+      "num": 147094,
+      "word": "皇马对曼城",
+      "onboard_time": 1710502357,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147083,
       "num": 147083,
       "word": "2024英雄联盟西部魔影",
@@ -34240,6 +34344,14 @@
       "word": "迷风花卸任Hero主教练",
       "onboard_time": 1710227850,
       "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 135345,
+      "num": 135345,
+      "word": "EDG赛前预热",
+      "onboard_time": 1710501461,
+      "rank": 49,
       "category": "电竞"
     },
     {
@@ -39276,7 +39388,7 @@
     },
     {
       "raw_hot": 98917,
-      "num": 622274,
+      "num": 640010,
       "word": "61岁保安大叔自学画画创作近百幅",
       "onboard_time": 1710496240,
       "rank": 9,

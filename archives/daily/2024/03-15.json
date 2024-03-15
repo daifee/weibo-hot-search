@@ -1,6 +1,6 @@
 {
   "startTime": 1710433325081,
-  "endTime": 1710501262931,
+  "endTime": 1710502437716,
   "band_list": [
     {
       "raw_hot": 10978107,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 8779392,
-      "num": 8779392,
+      "raw_hot": 9658561,
+      "num": 9658561,
       "word": "淀粉肠塌房",
       "onboard_time": 1710498581,
       "rank": 8,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2757645,
-      "num": 835207,
+      "raw_hot": 2870684,
+      "num": 919848,
       "word": "徐正溪退圈原因",
       "onboard_time": 1710497980,
       "rank": 5,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1661123,
-      "num": 575349,
+      "num": 582962,
       "word": "女孩花21万元整形出院当天跳河自杀",
       "onboard_time": 1710490655,
       "rank": 32,
@@ -227,6 +227,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1074947,
+      "num": 1040000,
+      "word": "骨泥",
+      "onboard_time": 1710499541,
+      "rank": 4,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1067703,
+      "num": 1067703,
+      "word": "徐正溪上岸了吗",
+      "onboard_time": 1710501878,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1058448,
       "num": 1058448,
       "word": "我们仨定档",
@@ -241,14 +257,6 @@
       "onboard_time": 1710480037,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1040000,
-      "num": 1040000,
-      "word": "骨泥",
-      "onboard_time": 1710499541,
-      "rank": 4,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1038550,
@@ -291,20 +299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 926735,
+      "num": 926735,
+      "word": "英国王室上演消失的她",
+      "onboard_time": 1710496959,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 909727,
       "num": 909727,
       "word": "脊柱侧弯女孩术后高了21厘米",
       "onboard_time": 1710461675,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 902272,
-      "num": 902272,
-      "word": "英国王室上演消失的她",
-      "onboard_time": 1710496959,
-      "rank": 6,
-      "category": "国外时政"
     },
     {
       "raw_hot": 861504,
@@ -555,6 +563,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 511034,
+      "num": 511034,
+      "word": "建议胃不好的人吃饭干湿分离",
+      "onboard_time": 1710498817,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 502548,
       "num": 502548,
       "word": "焦俊艳又可以收到钱了",
@@ -571,12 +587,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 500755,
+      "num": 500755,
+      "word": "欧冠抽签",
+      "onboard_time": 1710501278,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 493506,
       "num": 112526,
       "word": "辽宁一药房疑流出客情关系维护表涉及多单位",
       "onboard_time": 1710457884,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488686,
+      "num": 488686,
+      "word": "EDG赛前海报",
+      "onboard_time": 1710501580,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 487383,
@@ -593,14 +625,6 @@
       "onboard_time": 1710464198,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 480200,
-      "num": 480200,
-      "word": "建议胃不好的人吃饭干湿分离",
-      "onboard_time": 1710498817,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 470166,
@@ -731,6 +755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 426032,
+      "num": 426032,
+      "word": "王俊凯说发微博更像发朋友圈",
+      "onboard_time": 1710500497,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 425358,
       "num": 425358,
       "word": "张元英用中文回复来自中国的粉丝",
@@ -827,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372236,
+      "num": 211490,
+      "word": "凯特王妃为什么就是不出现",
+      "onboard_time": 1710501461,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 365965,
       "num": 290601,
       "word": "隐形家务才是让人最崩溃的",
@@ -867,6 +907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 340584,
+      "num": 321160,
+      "word": "自己交社保和公司交的区别在哪里",
+      "onboard_time": 1710498698,
+      "rank": 20,
+      "category": "科学科普,财经"
+    },
+    {
       "raw_hot": 340302,
       "num": 340302,
       "word": "樊振东王楚钦进决赛",
@@ -897,6 +945,14 @@
       "onboard_time": 1710469114,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 322435,
+      "num": 322435,
+      "word": "RNG 陌生",
+      "onboard_time": 1710501338,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 321491,
@@ -1019,14 +1075,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 285229,
-      "num": 285229,
-      "word": "王俊凯说发微博更像发朋友圈",
-      "onboard_time": 1710500497,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 283545,
       "num": 283545,
       "word": "宇文护叉腰",
@@ -1043,12 +1091,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 279134,
-      "num": 259248,
-      "word": "自己交社保和公司交的区别在哪里",
-      "onboard_time": 1710498698,
-      "rank": 20,
-      "category": "科学科普,财经"
+      "raw_hot": 278407,
+      "num": 278407,
+      "word": "花间令",
+      "onboard_time": 1710428254,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 276824,
@@ -1083,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272040,
+      "num": 272040,
+      "word": "我是嫡长狗",
+      "onboard_time": 1710501698,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 271534,
       "num": 271534,
       "word": "小黑盒崩了",
@@ -1113,6 +1169,14 @@
       "onboard_time": 1710459331,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 266258,
+      "num": 266258,
+      "word": "惠英红 惹到我算是惹到霸王花了",
+      "onboard_time": 1710501338,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 266001,
@@ -1251,14 +1315,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 241458,
-      "num": 241458,
-      "word": "花间令",
-      "onboard_time": 1710428254,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 241259,
       "num": 241259,
       "word": "赵丽颖把林更新夸成歪嘴龙王",
@@ -1363,6 +1419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214548,
+      "num": 214548,
+      "word": "阿森纳对拜仁",
+      "onboard_time": 1710501761,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214078,
       "num": 214078,
       "word": "灿烂的她 真假孙女",
@@ -1417,6 +1481,14 @@
       "onboard_time": 1710473257,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207989,
+      "num": 207989,
+      "word": "五年友谊因一次旅游分崩离析",
+      "onboard_time": 1710502179,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 206385,
@@ -1595,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187729,
+      "num": 187729,
+      "word": "宠物粮不法商人说用最烂东西做最贵粮",
+      "onboard_time": 1710501761,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187391,
       "num": 187391,
       "word": "电视才是打工人的奢侈品",
@@ -1619,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183541,
+      "num": 183541,
+      "word": "RNG战胜OMG",
+      "onboard_time": 1710501461,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182466,
       "num": 182466,
       "word": "李现周雨彤搂腰吻戏",
@@ -1633,6 +1721,14 @@
       "onboard_time": 1710467913,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181029,
+      "num": 181029,
+      "word": "欧冠8强对阵出炉",
+      "onboard_time": 1710502179,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 179409,
@@ -1939,6 +2035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147094,
+      "num": 147094,
+      "word": "皇马对曼城",
+      "onboard_time": 1710502357,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146951,
       "num": 146951,
       "word": "周受资回应为什么不卖TikTok",
@@ -2065,6 +2169,14 @@
       "onboard_time": 1710485613,
       "rank": 45,
       "category": "网红"
+    },
+    {
+      "raw_hot": 135345,
+      "num": 135345,
+      "word": "EDG赛前预热",
+      "onboard_time": 1710501461,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 133769,
@@ -2260,7 +2372,7 @@
     },
     {
       "raw_hot": 98917,
-      "num": 622274,
+      "num": 640010,
       "word": "61岁保安大叔自学画画创作近百幅",
       "onboard_time": 1710496240,
       "rank": 9,
