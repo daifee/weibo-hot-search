@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710469411578,
+  "endTime": 1710470073299,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -723,6 +723,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1817377,
+      "num": 1817377,
+      "word": "凯特",
+      "onboard_time": 1710333755,
+      "rank": 41,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1808229,
       "num": 502573,
       "word": "央视记者",
@@ -1169,14 +1177,6 @@
       "onboard_time": 1709541210,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1559057,
-      "num": 1559057,
-      "word": "凯特",
-      "onboard_time": 1710333755,
-      "rank": 41,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1552417,
@@ -7971,6 +7971,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 543203,
+      "num": 543203,
+      "word": "俞灏明回应和陈晓二搭",
+      "onboard_time": 1710466653,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 542896,
       "num": 542896,
       "word": "张翰工作室起诉昕影影业",
@@ -8201,14 +8209,6 @@
       "onboard_time": 1710216512,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 531987,
-      "num": 531987,
-      "word": "俞灏明回应和陈晓二搭",
-      "onboard_time": 1710466653,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 531846,
@@ -10971,6 +10971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 418528,
+      "num": 274087,
+      "word": "甘肃麻辣烫爆火快递员日发千斤辣椒",
+      "onboard_time": 1710468393,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418296,
       "num": 418296,
       "word": "建议以家庭为单位征税",
@@ -11153,6 +11161,14 @@
       "onboard_time": 1709470289,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 411319,
+      "num": 306380,
+      "word": "成毅求求大家别熬夜了",
+      "onboard_time": 1710469473,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 411172,
@@ -11417,6 +11433,14 @@
       "onboard_time": 1709804609,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 402941,
+      "num": 212886,
+      "word": "杜华点名程潇吴宣仪化妆好",
+      "onboard_time": 1710469053,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 402925,
@@ -11699,6 +11723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392038,
+      "num": 304426,
+      "word": "怎么体检才能不花冤枉钱",
+      "onboard_time": 1710467016,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 391275,
       "num": 236250,
       "word": "周翊然杭州",
@@ -11897,6 +11929,14 @@
       "onboard_time": 1709647656,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 384760,
+      "num": 303028,
+      "word": "标着退货包邮为何退货还要付运费",
+      "onboard_time": 1710467855,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384599,
@@ -13073,14 +13113,6 @@
       "onboard_time": 1709214998,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 350271,
-      "num": 269109,
-      "word": "甘肃麻辣烫爆火快递员日发千斤辣椒",
-      "onboard_time": 1710468393,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 349662,
@@ -15275,12 +15307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 297000,
-      "num": 297000,
-      "word": "怎么体检才能不花冤枉钱",
-      "onboard_time": 1710467016,
-      "rank": 15,
-      "category": "健康医疗"
+      "raw_hot": 296385,
+      "num": 296385,
+      "word": "光遇大耳狗联动",
+      "onboard_time": 1710467735,
+      "rank": 17,
+      "category": "游戏,动漫"
     },
     {
       "raw_hot": 296073,
@@ -15755,14 +15787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 286173,
-      "num": 286173,
-      "word": "光遇大耳狗联动",
-      "onboard_time": 1710467735,
-      "rank": 17,
-      "category": "游戏,动漫"
-    },
-    {
       "raw_hot": 286054,
       "num": 205022,
       "word": "练背把减肥的含金量拉满了",
@@ -15793,14 +15817,6 @@
       "onboard_time": 1710419613,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 285545,
-      "num": 285545,
-      "word": "标着退货包邮为何退货还要付运费",
-      "onboard_time": 1710467855,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285453,
@@ -16321,6 +16337,14 @@
       "onboard_time": 1709823271,
       "rank": 16,
       "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 274698,
+      "num": 274698,
+      "word": "巧克力可能要涨价了",
+      "onboard_time": 1710469291,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 274695,
@@ -17889,6 +17913,14 @@
       "onboard_time": 1710236614,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247288,
+      "num": 247288,
+      "word": "头部电商主播为什么纷纷隐身",
+      "onboard_time": 1710469114,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 247135,
@@ -20747,14 +20779,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 212886,
-      "num": 212886,
-      "word": "杜华点名程潇吴宣仪化妆好",
-      "onboard_time": 1710469053,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212740,
       "num": 272229,
       "word": "杨紫怼脸拍状态",
@@ -21225,6 +21249,14 @@
       "onboard_time": 1709465250,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 208839,
+      "num": 208839,
+      "word": "春色寄情人处处吻预告",
+      "onboard_time": 1710469714,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 208769,
@@ -22705,14 +22737,6 @@
       "onboard_time": 1709455707,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 198097,
-      "num": 198097,
-      "word": "头部电商主播为什么纷纷隐身",
-      "onboard_time": 1710469114,
-      "rank": 29,
-      "category": "互联网"
     },
     {
       "raw_hot": 198093,
@@ -24289,14 +24313,6 @@
       "onboard_time": 1710157831,
       "rank": 39,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 188300,
-      "num": 188300,
-      "word": "巧克力可能要涨价了",
-      "onboard_time": 1710469291,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 188222,
@@ -26273,6 +26289,14 @@
       "onboard_time": 1709905229,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174680,
+      "num": 174680,
+      "word": "王俊凯ELLE四月刊封面",
+      "onboard_time": 1710469831,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 174475,
@@ -30115,6 +30139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150920,
+      "num": 150920,
+      "word": "TTG",
+      "onboard_time": 1710469831,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150851,
       "num": 150851,
       "word": "因作业多向爸爸撒娇的小朋友",
@@ -33923,6 +33955,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 129219,
+      "num": 129219,
+      "word": "没有事业心的警犬不是好狗狗",
+      "onboard_time": 1710469114,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129188,
       "num": 129188,
       "word": "与凤行发布会来了",
@@ -34579,6 +34619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124885,
+      "num": 124885,
+      "word": "天水不只有麻辣烫",
+      "onboard_time": 1710469354,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124864,
       "num": 124864,
       "word": "妇女节送我妈的大礼",
@@ -35177,14 +35225,6 @@
       "onboard_time": 1709737175,
       "rank": 46,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 121494,
-      "num": 121494,
-      "word": "没有事业心的警犬不是好狗狗",
-      "onboard_time": 1710469114,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 121454,
@@ -36283,6 +36323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113831,
+      "num": 113831,
+      "word": "男孩跪地遭多名男女持棍殴打",
+      "onboard_time": 1710469774,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113695,
       "num": 113695,
       "word": "电影可怜的东西",
@@ -37009,14 +37057,6 @@
       "onboard_time": 1710064829,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108090,
-      "num": 108090,
-      "word": "天水不只有麻辣烫",
-      "onboard_time": 1710469354,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 108001,
