@@ -1,6 +1,6 @@
 {
   "startTime": 1710433325081,
-  "endTime": 1710512195650,
+  "endTime": 1710513320036,
   "band_list": [
     {
       "raw_hot": 10990895,
@@ -35,12 +35,28 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 3312035,
+      "num": 3312035,
+      "word": "茉酸奶",
+      "onboard_time": 1710510885,
+      "rank": 4,
+      "category": "美食"
+    },
+    {
       "raw_hot": 3192353,
       "num": 562052,
       "word": "徐正溪为什么",
       "onboard_time": 1710492457,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2879780,
+      "num": 2879780,
+      "word": "茶颜悦色放置半小时仅剩半杯",
+      "onboard_time": 1710510763,
+      "rank": 3,
+      "category": "美食"
     },
     {
       "raw_hot": 2870684,
@@ -57,22 +73,6 @@
       "onboard_time": 1710504037,
       "rank": 4,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 2415596,
-      "num": 2415596,
-      "word": "茶颜悦色放置半小时仅剩半杯",
-      "onboard_time": 1710510763,
-      "rank": 3,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 2303954,
-      "num": 2303954,
-      "word": "茉酸奶",
-      "onboard_time": 1710510885,
-      "rank": 4,
-      "category": "美食"
     },
     {
       "raw_hot": 2252560,
@@ -227,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1241361,
+      "num": 1241361,
+      "word": "世纪佳缘致歉声明",
+      "onboard_time": 1710512026,
+      "rank": 31,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 1239381,
       "num": 1239381,
       "word": "去哪啊 去亲你",
@@ -355,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 971319,
+      "num": 971319,
+      "word": "宝马客服回应传动轴异响",
+      "onboard_time": 1710512203,
+      "rank": 10,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 967475,
       "num": 967475,
       "word": "听花酒下架",
@@ -408,6 +424,14 @@
       "word": "莎头组合夺冠",
       "onboard_time": 1710503619,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 897405,
+      "num": 897405,
+      "word": "梁靖崑vs波尔",
+      "onboard_time": 1710510943,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -483,14 +507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 734225,
-      "num": 734225,
-      "word": "梁靖崑vs波尔",
-      "onboard_time": 1710510943,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 733517,
       "num": 733517,
       "word": "李诞cos孟宴臣",
@@ -544,6 +560,14 @@
       "word": "315曝光主板机黑灰产业链",
       "onboard_time": 1710505360,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 690023,
+      "num": 690023,
+      "word": "央广网评初中生被3名同学杀害掩埋",
+      "onboard_time": 1710509805,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -604,7 +628,7 @@
     },
     {
       "raw_hot": 588541,
-      "num": 493313,
+      "num": 561198,
       "word": "弟弟退回了我给他的结婚红包",
       "onboard_time": 1710510763,
       "rank": 20,
@@ -657,14 +681,6 @@
       "onboard_time": 1710507707,
       "rank": 16,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 568165,
-      "num": 568165,
-      "word": "央广网评初中生被3名同学杀害掩埋",
-      "onboard_time": 1710509805,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 567535,
@@ -763,6 +779,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 512798,
+      "num": 512798,
+      "word": "郑合惠子演技",
+      "onboard_time": 1710510703,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 502548,
       "num": 502548,
       "word": "焦俊艳又可以收到钱了",
@@ -787,12 +811,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 497362,
-      "num": 497362,
-      "word": "郑合惠子演技",
-      "onboard_time": 1710510703,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 498914,
+      "num": 498914,
+      "word": "梁靖崑19比17波尔",
+      "onboard_time": 1710511962,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 493506,
@@ -1179,14 +1203,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 342297,
-      "num": 342297,
-      "word": "世纪佳缘致歉声明",
-      "onboard_time": 1710512026,
-      "rank": 31,
-      "category": "社会新闻,互联网"
-    },
-    {
       "raw_hot": 340871,
       "num": 340871,
       "word": "我是嫡长狗",
@@ -1256,6 +1272,14 @@
       "word": "卢昱晓女扮男装",
       "onboard_time": 1710495041,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 318230,
+      "num": 318230,
+      "word": "刘学义原声",
+      "onboard_time": 1710511423,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1675,14 +1699,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 238562,
-      "num": 238562,
-      "word": "刘学义原声",
-      "onboard_time": 1710511423,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 238083,
       "num": 238083,
       "word": "个税汇算手机APP办理指南",
@@ -1691,20 +1707,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 236822,
-      "num": 236822,
-      "word": "梁靖崑19比17波尔",
-      "onboard_time": 1710511962,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 234045,
       "num": 234045,
       "word": "在海底捞被陌生人要蛋糕了",
       "onboard_time": 1710425257,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 233752,
+      "num": 233752,
+      "word": "AG鲁班大帅",
+      "onboard_time": 1710509683,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 230136,
@@ -1891,6 +1907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207219,
+      "num": 207219,
+      "word": "赵露思刘宇宁杀青合影",
+      "onboard_time": 1710512324,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206681,
       "num": 206681,
       "word": "云抖科技",
@@ -1923,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200828,
+      "num": 200828,
+      "word": "AG零封TES",
+      "onboard_time": 1710512264,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200777,
       "num": 200777,
       "word": "多家银行将停发部分联名信用卡",
@@ -1937,6 +1969,14 @@
       "onboard_time": 1710496660,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200339,
+      "num": 200339,
+      "word": "AG稳稳的幸福",
+      "onboard_time": 1710512385,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 200219,
@@ -2907,20 +2947,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93520,
+      "num": 3364650,
+      "word": "长五遥八运载火箭运抵文昌",
+      "onboard_time": 1710507038,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 92718,
       "num": 92718,
       "word": "间谍过家家父母爱情",
       "onboard_time": 1710429936,
       "rank": 47,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 86640,
-      "num": 3306288,
-      "word": "长五遥八运载火箭运抵文昌",
-      "onboard_time": 1710507038,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 84825,
