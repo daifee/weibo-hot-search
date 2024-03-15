@@ -1,6 +1,6 @@
 {
   "startTime": 1710433325081,
-  "endTime": 1710479877531,
+  "endTime": 1710480848554,
   "band_list": [
     {
       "raw_hot": 2252560,
@@ -59,20 +59,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1463193,
+      "num": 1463193,
+      "word": "女子试戴8千元金首饰忘摘下隔天送回",
+      "onboard_time": 1710476018,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1462875,
       "num": 631766,
       "word": "韩素希ins更新夏威夷照片",
       "onboard_time": 1710476199,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1450659,
-      "num": 1450659,
-      "word": "女子试戴8千元金首饰忘摘下隔天送回",
-      "onboard_time": 1710476018,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1399807,
@@ -99,8 +99,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1167456,
-      "num": 1167456,
+      "raw_hot": 1184156,
+      "num": 1184156,
       "word": "张元英 短发",
       "onboard_time": 1710478299,
       "rank": 3,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 852198,
+      "num": 404934,
+      "word": "BY2Yumi暴瘦剩42公斤",
+      "onboard_time": 1710480037,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 816880,
       "num": 816880,
       "word": "戴眼镜会让视力变差是错误认知",
@@ -195,20 +203,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713504,
+      "num": 713504,
+      "word": "情侣随地大小亲",
+      "onboard_time": 1710475477,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 701572,
       "num": 701572,
       "word": "马思纯评论区回复周冬雨",
       "onboard_time": 1710431434,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 699256,
-      "num": 699256,
-      "word": "情侣随地大小亲",
-      "onboard_time": 1710475477,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 687530,
@@ -225,6 +233,14 @@
       "onboard_time": 1710470553,
       "rank": 10,
       "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 639589,
+      "num": 403756,
+      "word": "好利来要求员工入职前军训",
+      "onboard_time": 1710479138,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 635472,
@@ -379,6 +395,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 432406,
+      "num": 392037,
+      "word": "恋爱兄妹",
+      "onboard_time": 1710478720,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 429518,
       "num": 429518,
       "word": "俄罗斯总统选举投票正式开始",
@@ -401,6 +425,14 @@
       "onboard_time": 1710468393,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408923,
+      "num": 408923,
+      "word": "当11岁身高163的女儿生病求抱抱",
+      "onboard_time": 1710479381,
+      "rank": 23,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 402941,
@@ -443,14 +475,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 364570,
-      "num": 364570,
-      "word": "恋爱兄妹",
-      "onboard_time": 1710478720,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 348703,
       "num": 348703,
       "word": "惠英红 希望观众了解阿尔兹海默症",
@@ -491,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319323,
+      "num": 319323,
+      "word": "主持人马卉回应直播疑现不雅照",
+      "onboard_time": 1710471812,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310593,
       "num": 381245,
       "word": "多方回应一老师在宿舍身亡",
@@ -523,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307957,
-      "num": 307957,
-      "word": "主持人马卉回应直播疑现不雅照",
-      "onboard_time": 1710471812,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 299099,
       "num": 299099,
       "word": "SpaceX星舰第三次试飞提前结束",
@@ -561,6 +585,22 @@
       "onboard_time": 1710413553,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 289318,
+      "num": 289318,
+      "word": "杨紫复古齐刘海",
+      "onboard_time": 1710479857,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 278065,
+      "num": 278065,
+      "word": "暗访199元4天桂林魔幻低价游",
+      "onboard_time": 1710479737,
+      "rank": 45,
+      "category": "旅游"
     },
     {
       "raw_hot": 275291,
@@ -675,14 +715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 249239,
-      "num": 249239,
-      "word": "当11岁身高163的女儿生病求抱抱",
-      "onboard_time": 1710479381,
-      "rank": 23,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 244987,
       "num": 244987,
       "word": "宿迁学院通报学生不雅视频",
@@ -713,6 +745,14 @@
       "onboard_time": 1710457346,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229992,
+      "num": 229992,
+      "word": "1个充电宝出借13小时回本",
+      "onboard_time": 1710479138,
+      "rank": 32,
+      "category": "数码,社会新闻"
     },
     {
       "raw_hot": 226349,
@@ -763,28 +803,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 210897,
-      "num": 210897,
-      "word": "好利来要求员工入职前军训",
-      "onboard_time": 1710479138,
-      "rank": 31,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 209290,
       "num": 209290,
       "word": "花间令破300万海报",
       "onboard_time": 1710473855,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208959,
-      "num": 208959,
-      "word": "1个充电宝出借13小时回本",
-      "onboard_time": 1710479138,
-      "rank": 32,
-      "category": "数码,社会新闻"
     },
     {
       "raw_hot": 208839,
@@ -833,14 +857,6 @@
       "onboard_time": 1710465216,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 199971,
-      "num": 199971,
-      "word": "杨紫复古齐刘海",
-      "onboard_time": 1710479857,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 196956,
@@ -907,8 +923,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185051,
-      "num": 185051,
+      "raw_hot": 187391,
+      "num": 187391,
       "word": "电视才是打工人的奢侈品",
       "onboard_time": 1710476619,
       "rank": 39,
@@ -1035,6 +1051,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159130,
+      "num": 159130,
+      "word": "完全不做家务是一种剥削",
+      "onboard_time": 1710474032,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 157045,
+      "num": 157045,
+      "word": "花400万买法拉利竟漏雨",
+      "onboard_time": 1710480636,
+      "rank": 43,
+      "category": "汽车,社会新闻"
+    },
+    {
       "raw_hot": 156914,
       "num": 156914,
       "word": "冰凌花破冰绽放好治愈",
@@ -1051,28 +1083,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155843,
-      "num": 155843,
-      "word": "完全不做家务是一种剥削",
-      "onboard_time": 1710474032,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 152894,
       "num": 152894,
       "word": "警方通报男孩跪地遭多名男女殴打",
       "onboard_time": 1710474336,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152702,
-      "num": 152702,
-      "word": "暗访199元4天桂林魔幻低价游",
-      "onboard_time": 1710479737,
-      "rank": 45,
-      "category": "旅游"
     },
     {
       "raw_hot": 151843,
@@ -1113,6 +1129,14 @@
       "onboard_time": 1710462874,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 141254,
+      "num": 141254,
+      "word": "这一刻结婚的意义开始具象化",
+      "onboard_time": 1710480756,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 141163,
@@ -1540,6 +1564,9 @@
     },
     {
       "word": "#环境资源界人士在绿色转型中发挥了积极作用#"
+    },
+    {
+      "word": "#只有扎根人民创作才能获得用之不竭的源泉#"
     }
   ]
 }
