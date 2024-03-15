@@ -1,6 +1,6 @@
 {
   "startTime": 1710519741451,
-  "endTime": 1710526944891,
+  "endTime": 1710527648151,
   "band_list": [
     {
       "raw_hot": 3302966,
@@ -419,7 +419,7 @@
       "category": "社会新闻,汽车"
     },
     {
-      "raw_hot": 51538,
+      "raw_hot": 55098,
       "num": 55949,
       "word": "网友辟谣与徐正溪的关系",
       "onboard_time": 1710525500,
@@ -443,7 +443,23 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 40144,
+      "raw_hot": 44043,
+      "num": 55931,
+      "word": "到底是谁天天不关洗衣机的门",
+      "onboard_time": 1710526579,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 42770,
+      "num": 42770,
+      "word": "家人回应博主用AI复活高以翔",
+      "onboard_time": 1710526938,
+      "rank": 37,
+      "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 42035,
       "num": 55934,
       "word": "恋爱兄妹第三期",
       "onboard_time": 1710524183,
@@ -451,11 +467,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36430,
-      "num": 55931,
-      "word": "到底是谁天天不关洗衣机的门",
-      "onboard_time": 1710526579,
-      "rank": 44,
+      "raw_hot": 36557,
+      "num": 55927,
+      "word": "观众吵架把狮子吓到了",
+      "onboard_time": 1710526161,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -465,14 +481,6 @@
       "onboard_time": 1710525021,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 34563,
-      "num": 55927,
-      "word": "观众吵架把狮子吓到了",
-      "onboard_time": 1710526161,
-      "rank": 47,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
