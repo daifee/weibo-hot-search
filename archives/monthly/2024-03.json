@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710494210383,
+  "endTime": 1710495282386,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -11,8 +11,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 9825083,
-      "num": 9825083,
+      "raw_hot": 10978107,
+      "num": 10978107,
       "word": "徐正溪退圈",
       "onboard_time": 1710491854,
       "rank": 0,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 3192353,
-      "num": 542907,
+      "num": 562052,
       "word": "徐正溪为什么",
       "onboard_time": 1710492457,
       "rank": 5,
@@ -697,6 +697,14 @@
       "onboard_time": 1709863886,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1901307,
+      "num": 456022,
+      "word": "徐正溪的12年还差10年",
+      "onboard_time": 1710493961,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1892602,
@@ -1523,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1406725,
+      "num": 1406725,
+      "word": "主持人马卉被永久封禁直播权限",
+      "onboard_time": 1710492094,
+      "rank": 11,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1404692,
       "num": 1404692,
       "word": "杨幂全球高定首穿",
@@ -2249,6 +2265,14 @@
       "onboard_time": 1710113126,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1195872,
+      "num": 448204,
+      "word": "徐正溪新剧刚开播3天",
+      "onboard_time": 1710494021,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 1192225,
@@ -3539,14 +3563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 934804,
-      "num": 346832,
-      "word": "主持人马卉被永久封禁直播权限",
-      "onboard_time": 1710492094,
-      "rank": 11,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 934217,
       "num": 934217,
       "word": "教资作文",
@@ -4433,6 +4449,14 @@
       "onboard_time": 1710470553,
       "rank": 7,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 814918,
+      "num": 814918,
+      "word": "马卉",
+      "onboard_time": 1710430542,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 813954,
@@ -8148,7 +8172,7 @@
     },
     {
       "raw_hot": 548019,
-      "num": 300940,
+      "num": 310982,
       "word": "建议午睡不要超过半个小时",
       "onboard_time": 1710493059,
       "rank": 20,
@@ -8587,6 +8611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 529114,
+      "num": 321710,
+      "word": "朋友圈屏蔽同事被发现了",
+      "onboard_time": 1710493419,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 528656,
       "num": 528656,
       "word": "陈芋汐10米台冠军",
@@ -8761,6 +8793,14 @@
       "onboard_time": 1709271874,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 522677,
+      "num": 522677,
+      "word": "季如风 白月光",
+      "onboard_time": 1710494080,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 522556,
@@ -9297,14 +9337,6 @@
       "onboard_time": 1709355992,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 496599,
-      "num": 323461,
-      "word": "徐正溪的12年还差10年",
-      "onboard_time": 1710493961,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 495552,
@@ -9955,6 +9987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 470166,
+      "num": 307280,
+      "word": "徐正溪还剩两部待播剧",
+      "onboard_time": 1710494743,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 469642,
       "num": 469642,
       "word": "泰国男子寺庙闹事意外被佛像刺死",
@@ -10337,6 +10377,14 @@
       "onboard_time": 1709348731,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457330,
+      "num": 457330,
+      "word": "怀疑刘耀文是在秀驾照",
+      "onboard_time": 1710493602,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 456439,
@@ -12155,20 +12203,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 389953,
+      "num": 389953,
+      "word": "徐正溪 古装美男",
+      "onboard_time": 1710494323,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389845,
       "num": 389845,
       "word": "唐探2这一集演的是萝莉岛吧",
       "onboard_time": 1709814571,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 389492,
-      "num": 300647,
-      "word": "朋友圈屏蔽同事被发现了",
-      "onboard_time": 1710493419,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 389398,
@@ -15099,14 +15147,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 311275,
-      "num": 311275,
-      "word": "怀疑刘耀文是在秀驾照",
-      "onboard_time": 1710493602,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 311067,
       "num": 311067,
       "word": "周深二专",
@@ -17473,14 +17513,6 @@
       "onboard_time": 1710444557,
       "rank": 49,
       "category": "财经,汽车"
-    },
-    {
-      "raw_hot": 264388,
-      "num": 264388,
-      "word": "马卉",
-      "onboard_time": 1710430542,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 264280,
@@ -20915,14 +20947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217787,
-      "num": 217787,
-      "word": "徐正溪新剧刚开播3天",
-      "onboard_time": 1710494021,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 217719,
       "num": 217719,
       "word": "原来饮料瓶盖可以按印泥盖章",
@@ -21713,6 +21737,14 @@
       "onboard_time": 1709288012,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211281,
+      "num": 211281,
+      "word": "卢昱晓女扮男装",
+      "onboard_time": 1710495041,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 211109,
@@ -24449,6 +24481,14 @@
       "onboard_time": 1709787453,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193033,
+      "num": 193033,
+      "word": "贫穷大学生都是怎么谈恋爱的",
+      "onboard_time": 1710493961,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 192953,
@@ -28491,14 +28531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165641,
-      "num": 165641,
-      "word": "贫穷大学生都是怎么谈恋爱的",
-      "onboard_time": 1710493961,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 165602,
       "num": 165602,
       "word": "张泽禹十机位勇敢直拍",
@@ -30345,14 +30377,6 @@
       "onboard_time": 1710054088,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155398,
-      "num": 155398,
-      "word": "季如风 白月光",
-      "onboard_time": 1710494080,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 155397,
@@ -39747,6 +39771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84233,
+      "num": 449169,
+      "word": "假驴肉产业乱象调查",
+      "onboard_time": 1710493240,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84134,
       "num": 84134,
       "word": "鬼灭之刃 鳄鱼最后的温柔",
@@ -40504,14 +40536,6 @@
       "word": "男子用AI换脸复活去世父亲哄奶奶",
       "onboard_time": 1709743044,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62102,
-      "num": 325286,
-      "word": "假驴肉产业乱象调查",
-      "onboard_time": 1710493240,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -42307,6 +42331,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 14149,
+      "num": 948516,
+      "word": "镜头里的大美中国",
+      "onboard_time": 1710450315,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13900,
       "num": 17068,
       "word": "居民的难题扫二维码反映解决了",
@@ -42520,14 +42552,6 @@
       "word": "女子遇电诈正欲转账被民警及时劝阻",
       "onboard_time": 1709496976,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8625,
-      "num": 683937,
-      "word": "镜头里的大美中国",
-      "onboard_time": 1710450315,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
