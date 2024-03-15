@@ -1,6 +1,6 @@
 {
   "startTime": 1710519741451,
-  "endTime": 1710544691083,
+  "endTime": 1710545651029,
   "band_list": [
     {
       "raw_hot": 3302966,
@@ -75,6 +75,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 764944,
+      "num": 764944,
+      "word": "爸爸退休返聘年薪12万",
+      "onboard_time": 1710543806,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643018,
       "num": 643018,
       "word": "麦当劳崩了",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 445950,
-      "num": 410619,
+      "num": 438895,
       "word": "315晚会省流版",
       "onboard_time": 1710518195,
       "rank": 20,
@@ -219,11 +227,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276375,
-      "num": 276375,
-      "word": "爸爸退休返聘年薪12万",
-      "onboard_time": 1710543806,
-      "rank": 9,
+      "raw_hot": 278066,
+      "num": 278066,
+      "word": "听花酒315晚会前两个小时还在自夸",
+      "onboard_time": 1710538217,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -233,14 +241,6 @@
       "onboard_time": 1710507282,
       "rank": 27,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 259681,
-      "num": 259681,
-      "word": "听花酒315晚会前两个小时还在自夸",
-      "onboard_time": 1710538217,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250018,
@@ -331,6 +331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 196026,
+      "num": 196026,
+      "word": "对抗抑郁的最佳运动",
+      "onboard_time": 1710543806,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 193746,
       "num": 193746,
       "word": "外卖平台幽灵店铺被曝光",
@@ -419,12 +427,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 124055,
-      "num": 92402,
-      "word": "对抗抑郁的最佳运动",
-      "onboard_time": 1710543806,
-      "rank": 30,
-      "category": "运动健身"
+      "raw_hot": 126551,
+      "num": 126551,
+      "word": "EDG成功复仇PRX",
+      "onboard_time": 1710544345,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 122473,
@@ -443,6 +451,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 115762,
+      "num": 115762,
+      "word": "家人回应博主用AI复活高以翔",
+      "onboard_time": 1710526938,
+      "rank": 37,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 108660,
       "num": 181200,
       "word": "花间令",
@@ -451,12 +467,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106234,
-      "num": 106234,
-      "word": "家人回应博主用AI复活高以翔",
-      "onboard_time": 1710526938,
-      "rank": 37,
-      "category": "艺人,互联网"
+      "raw_hot": 97316,
+      "num": 97316,
+      "word": "六种越吃越胖的伪粗粮",
+      "onboard_time": 1710530658,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 89683,
@@ -467,28 +483,28 @@
       "category": "社会新闻,汽车"
     },
     {
-      "raw_hot": 87481,
-      "num": 87481,
-      "word": "六种越吃越胖的伪粗粮",
-      "onboard_time": 1710530658,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 76074,
-      "num": 76074,
-      "word": "EDG成功复仇PRX",
-      "onboard_time": 1710544345,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 72763,
-      "num": 72763,
+      "raw_hot": 85490,
+      "num": 85490,
       "word": "王楚钦11比1",
       "onboard_time": 1710543806,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73565,
+      "num": 84605,
+      "word": "原来这就是二月天杨柳醉春烟",
+      "onboard_time": 1710535336,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 72834,
+      "num": 84604,
+      "word": "宝马表示将承担所有维修费用",
+      "onboard_time": 1710545547,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 59114,
@@ -497,6 +513,14 @@
       "onboard_time": 1710536116,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55749,
+      "num": 84598,
+      "word": "观众吵架把狮子吓到了",
+      "onboard_time": 1710526161,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 55098,
@@ -515,20 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 53874,
-      "num": 70132,
-      "word": "观众吵架把狮子吓到了",
-      "onboard_time": 1710526161,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 51127,
-      "num": 70126,
-      "word": "原来这就是二月天杨柳醉春烟",
-      "onboard_time": 1710535336,
-      "rank": 44,
-      "category": "旅游"
+      "raw_hot": 52691,
+      "num": 84591,
+      "word": "张学友就此前演唱会取消致歉",
+      "onboard_time": 1710541804,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 51112,
@@ -539,12 +555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 48076,
-      "num": 70115,
-      "word": "张学友就此前演唱会取消致歉",
-      "onboard_time": 1710541804,
-      "rank": 49,
-      "category": "演出"
+      "raw_hot": 49313,
+      "num": 84583,
+      "word": "63岁大叔穿着红秋裤纵身一跃救人",
+      "onboard_time": 1710545547,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 47596,
