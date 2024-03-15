@@ -1,0 +1,410 @@
+{
+  "runTime": 1710483734681,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1778225,
+        "num": 1778225,
+        "word": "好利来要求员工入职前军训",
+        "onboard_time": 1710479138,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1324242,
+        "num": 1324242,
+        "word": "福原爱江宏杰和解",
+        "onboard_time": 1710482256,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72199,
+        "num": 1123678,
+        "word": "9件仪式感满满的春日小事",
+        "onboard_time": 1710459508,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1066246,
+        "num": 1066246,
+        "word": "打到臭车的概率越来越高了",
+        "onboard_time": 1710473794,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1055964,
+        "num": 1055964,
+        "word": "BY2Yumi暴瘦剩42公斤",
+        "onboard_time": 1710480037,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 895099,
+        "num": 895099,
+        "word": "女子试戴8千元金首饰忘摘下隔天送回",
+        "onboard_time": 1710476018,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 855662,
+        "num": 855662,
+        "word": "张元英 短发",
+        "onboard_time": 1710478299,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 608635,
+        "num": 608635,
+        "word": "315",
+        "onboard_time": 1710458607,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593901,
+        "num": 593901,
+        "word": "去哪啊 去亲你",
+        "onboard_time": 1710473616,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 514629,
+        "num": 514629,
+        "word": "当11岁身高163的女儿生病求抱抱",
+        "onboard_time": 1710479381,
+        "rank": 9,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 1288920,
+        "num": 508159,
+        "word": "韩素希ins更新夏威夷照片",
+        "onboard_time": 1710476199,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501657,
+        "num": 501657,
+        "word": "暗访199元4天桂林魔幻低价游",
+        "onboard_time": 1710479737,
+        "rank": 11,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 464221,
+        "num": 464221,
+        "word": "潘雨润交了一个亿的税",
+        "onboard_time": 1710482740,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 430378,
+        "num": 430378,
+        "word": "花400万买法拉利竟漏雨",
+        "onboard_time": 1710480636,
+        "rank": 13,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 364343,
+        "num": 364343,
+        "word": "凯特消失后英媒重磅介绍威廉的情人",
+        "onboard_time": 1710483157,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 359876,
+        "num": 359876,
+        "word": "男孩跪地遭多名男女持棍殴打",
+        "onboard_time": 1710469774,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359757,
+        "num": 359757,
+        "word": "情侣随地大小亲",
+        "onboard_time": 1710475477,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 355465,
+        "num": 355465,
+        "word": "杨紫复古齐刘海",
+        "onboard_time": 1710479857,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 354223,
+        "num": 354223,
+        "word": "主持人马卉回应直播疑现不雅照",
+        "onboard_time": 1710471812,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339535,
+        "num": 339535,
+        "word": "抓大鹅",
+        "onboard_time": 1710480939,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 328917,
+        "num": 328917,
+        "word": "樊振东王楚钦进决赛",
+        "onboard_time": 1710482799,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299784,
+        "num": 299784,
+        "word": "福原爱召开记者会",
+        "onboard_time": 1710483217,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233061,
+        "num": 233061,
+        "word": "恋爱兄妹",
+        "onboard_time": 1710478720,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231680,
+        "num": 231680,
+        "word": "又有多家医院停止产科分娩服务",
+        "onboard_time": 1710461434,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229606,
+        "num": 229606,
+        "word": "这一刻结婚的意义开始具象化",
+        "onboard_time": 1710480756,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219097,
+        "num": 219097,
+        "word": "马龙林高远晋级男双决赛",
+        "onboard_time": 1710481235,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209371,
+        "num": 209371,
+        "word": "李斌称先看小米汽车价格再给新车定价",
+        "onboard_time": 1710481056,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 208828,
+        "num": 208828,
+        "word": "入青云阵容官宣",
+        "onboard_time": 1710477159,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207150,
+        "num": 207150,
+        "word": "春色寄情人成年人的恋爱",
+        "onboard_time": 1710472053,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180928,
+        "num": 197185,
+        "word": "天津两车追尾起火致1死37伤",
+        "onboard_time": 1710474274,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653963,
+        "num": 197153,
+        "word": "茶百道 崩铁",
+        "onboard_time": 1710475958,
+        "rank": 30,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 197051,
+        "num": 197051,
+        "word": "1个充电宝出借13小时回本",
+        "onboard_time": 1710479138,
+        "rank": 31,
+        "category": "数码,社会新闻"
+      },
+      {
+        "raw_hot": 191514,
+        "num": 191514,
+        "word": "李斌称骂我可以别骂我们产品",
+        "onboard_time": 1710483336,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 182466,
+        "num": 182466,
+        "word": "李现周雨彤搂腰吻戏",
+        "onboard_time": 1710481296,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178955,
+        "num": 178955,
+        "word": "大侦探",
+        "onboard_time": 1710483217,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175809,
+        "num": 175809,
+        "word": "脊柱侧弯女孩术后高了21厘米",
+        "onboard_time": 1710461675,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167886,
+        "num": 167886,
+        "word": "我们仨定档",
+        "onboard_time": 1710471333,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162486,
+        "num": 162486,
+        "word": "王艺迪vs钱天一",
+        "onboard_time": 1710481178,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156986,
+        "num": 156986,
+        "word": "书亦烧仙草就315曝光问题道歉",
+        "onboard_time": 1710477759,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152473,
+        "num": 152473,
+        "word": "总台315晚会总导演发声",
+        "onboard_time": 1710470611,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150636,
+        "num": 150636,
+        "word": "孙怡用过的手机壳",
+        "onboard_time": 1710463719,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149649,
+        "num": 149649,
+        "word": "丫丫把苹果啃出鞭炮声",
+        "onboard_time": 1710466596,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147511,
+        "num": 147511,
+        "word": "陈梦王曼昱晋级决赛",
+        "onboard_time": 1710483576,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143847,
+        "num": 143847,
+        "word": "张禹珍林钟勋退赛",
+        "onboard_time": 1710482134,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140242,
+        "num": 140242,
+        "word": "网购熟食牛肉价格远低菜市场",
+        "onboard_time": 1710477699,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139658,
+        "num": 139658,
+        "word": "戴眼镜会让视力变差是错误认知",
+        "onboard_time": 1710470553,
+        "rank": 45,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 137038,
+        "num": 137038,
+        "word": "花间令今日开播",
+        "onboard_time": 1710465694,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136452,
+        "num": 136452,
+        "word": "国际消费者权益日",
+        "onboard_time": 1710463178,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132962,
+        "num": 132962,
+        "word": "陈泽 恶评",
+        "onboard_time": 1710477278,
+        "rank": 48,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 131803,
+        "num": 131803,
+        "word": "胖子运动只能变成健壮的胖子",
+        "onboard_time": 1710476319,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#只有扎根人民创作才能获得用之不竭的源泉#"
+    }
+  }
+}
