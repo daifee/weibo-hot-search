@@ -1,0 +1,410 @@
+{
+  "runTime": 1710562888156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9137269,
+        "num": 9137269,
+        "word": "省考",
+        "onboard_time": 1710547951,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1555961,
+        "num": 1555961,
+        "word": "鸭血 甲醛",
+        "onboard_time": 1710556175,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 11699,
+        "num": 1132961,
+        "word": "这就是春天里的中国",
+        "onboard_time": 1710475056,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1092363,
+        "num": 1092363,
+        "word": "行测答案",
+        "onboard_time": 1710559594,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 897598,
+        "num": 897598,
+        "word": "女子快递收到13kg价值657万金条懵了",
+        "onboard_time": 1710559234,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841392,
+        "num": 841392,
+        "word": "茉酸奶发布声明",
+        "onboard_time": 1710555271,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 813959,
+        "num": 813959,
+        "word": "赵丽颖背上好大一个包",
+        "onboard_time": 1710558034,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 752923,
+        "num": 752923,
+        "word": "河南省考 图推全不会",
+        "onboard_time": 1710559715,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 654273,
+        "num": 654273,
+        "word": "安徽省考 常识做笑了",
+        "onboard_time": 1710560316,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 599933,
+        "num": 599933,
+        "word": "315晚会",
+        "onboard_time": 1710502477,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721866,
+        "num": 599848,
+        "word": "徐正溪姑姑 汤臣一品",
+        "onboard_time": 1710551853,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599289,
+        "num": 599289,
+        "word": "馒头 花生",
+        "onboard_time": 1710561818,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 544797,
+        "num": 544797,
+        "word": "数量全C",
+        "onboard_time": 1710562360,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 478179,
+        "num": 478179,
+        "word": "百果园回应将烂果做高端果切售卖",
+        "onboard_time": 1710560799,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415751,
+        "num": 415751,
+        "word": "写不完根本写不完",
+        "onboard_time": 1710561517,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 394725,
+        "num": 394725,
+        "word": "常识 我没有常识",
+        "onboard_time": 1710561218,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 391830,
+        "num": 391830,
+        "word": "王海称小杨哥和东方甄选都销售过槽头肉扣肉",
+        "onboard_time": 1710554913,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 377231,
+        "num": 377231,
+        "word": "辽宁省考 B多还是C多",
+        "onboard_time": 1710561398,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 371265,
+        "num": 371265,
+        "word": "张雪峰老师称听花酒和他没关系",
+        "onboard_time": 1710560078,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340639,
+        "num": 340639,
+        "word": "爸爸退休返聘年薪12万",
+        "onboard_time": 1710543806,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1181363,
+        "num": 337323,
+        "word": "杀害同学3名男生均13岁一人为同桌",
+        "onboard_time": 1710555994,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418272,
+        "num": 334070,
+        "word": "34岁突然知道自己是抱养的",
+        "onboard_time": 1710558513,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328113,
+        "num": 328113,
+        "word": "20余省份公务员考试",
+        "onboard_time": 1710559115,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 322735,
+        "num": 322735,
+        "word": "湖北省考 荒岛求生",
+        "onboard_time": 1710561458,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 318502,
+        "num": 318502,
+        "word": "茶颜悦色放置半小时仅剩半杯",
+        "onboard_time": 1710510763,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 317864,
+        "num": 317864,
+        "word": "花生十三",
+        "onboard_time": 1710562237,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 292097,
+        "num": 292097,
+        "word": "TheShy力挺Ning",
+        "onboard_time": 1710562716,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 274774,
+        "num": 274774,
+        "word": "夸父炸串",
+        "onboard_time": 1710515501,
+        "rank": 27,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 261041,
+        "num": 261041,
+        "word": "王星越黄杨钿甜 小孩哥遇上小孩姐",
+        "onboard_time": 1710561577,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256910,
+        "num": 256910,
+        "word": "资料分析 招计算器呢",
+        "onboard_time": 1710562477,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 239150,
+        "num": 239150,
+        "word": "福建省考 连蒙带猜",
+        "onboard_time": 1710560436,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 232879,
+        "num": 232879,
+        "word": "丁程鑫看许凯虞书欣互动的表情",
+        "onboard_time": 1710559956,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231008,
+        "num": 231008,
+        "word": "有一种腰痛是癌症的信号",
+        "onboard_time": 1710548792,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 230397,
+        "num": 230397,
+        "word": "原来这就是空姐飞长途睡觉的地方",
+        "onboard_time": 1710557376,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211350,
+        "num": 211350,
+        "word": "一图看懂315晚会",
+        "onboard_time": 1710549513,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205214,
+        "num": 205214,
+        "word": "五哈4发车定档",
+        "onboard_time": 1710557315,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204530,
+        "num": 204530,
+        "word": "淀粉肠",
+        "onboard_time": 1710549633,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 195234,
+        "num": 195234,
+        "word": "合肥女子在长沙坐拥87套房被查封",
+        "onboard_time": 1710557376,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195220,
+        "num": 195220,
+        "word": "百果园果切 烂果",
+        "onboard_time": 1710555694,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192591,
+        "num": 192591,
+        "word": "春季长个黄金期的几个建议",
+        "onboard_time": 1710561577,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191904,
+        "num": 191904,
+        "word": "徐正溪退圈原因",
+        "onboard_time": 1710497980,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190962,
+        "num": 190962,
+        "word": "裸考",
+        "onboard_time": 1710561818,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187735,
+        "num": 187735,
+        "word": "人吃了槽头肉会有什么危害",
+        "onboard_time": 1710518135,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185682,
+        "num": 185682,
+        "word": "江宏杰已接到孩子离开日本",
+        "onboard_time": 1710552454,
+        "rank": 43,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 181803,
+        "num": 181803,
+        "word": "宝马就315曝光道歉",
+        "onboard_time": 1710545726,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 165725,
+        "num": 165725,
+        "word": "茶百道客服回应门店篡改食品有效期",
+        "onboard_time": 1710558452,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158580,
+        "num": 158580,
+        "word": "天津市考 15个数量",
+        "onboard_time": 1710562716,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155770,
+        "num": 155770,
+        "word": "胡先煦 从童星直接跳进叔圈",
+        "onboard_time": 1710559659,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155432,
+        "num": 155432,
+        "word": "ENHYPEN出发上海",
+        "onboard_time": 1710560555,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152556,
+        "num": 152556,
+        "word": "湖南省考 数量刮刮乐",
+        "onboard_time": 1710562838,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中安关系提升为全面战略合作伙伴关系#"
+    }
+  }
+}

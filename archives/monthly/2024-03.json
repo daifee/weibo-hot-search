@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710560051862,
+  "endTime": 1710562888156,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -33,6 +33,14 @@
       "onboard_time": 1710498581,
       "rank": 8,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 9137269,
+      "num": 9137269,
+      "word": "省考",
+      "onboard_time": 1710547951,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 8991993,
@@ -97,14 +105,6 @@
       "onboard_time": 1709286750,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3637886,
-      "num": 3637886,
-      "word": "省考",
-      "onboard_time": 1710547951,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 3421549,
@@ -2875,6 +2875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1092363,
+      "num": 1092363,
+      "word": "行测答案",
+      "onboard_time": 1710559594,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1091768,
       "num": 1091768,
       "word": "免签",
@@ -4043,6 +4051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 897598,
+      "num": 897598,
+      "word": "女子快递收到13kg价值657万金条懵了",
+      "onboard_time": 1710559234,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 897405,
       "num": 897405,
       "word": "梁靖崑vs波尔",
@@ -4707,6 +4723,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 813959,
+      "num": 813959,
+      "word": "赵丽颖背上好大一个包",
+      "onboard_time": 1710558034,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 813954,
       "num": 425309,
       "word": "王楚然Gucci出图",
@@ -5249,6 +5273,14 @@
       "onboard_time": 1709533527,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 752923,
+      "num": 752923,
+      "word": "河南省考 图推全不会",
+      "onboard_time": 1710559715,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 752484,
@@ -6643,6 +6675,14 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 654273,
+      "num": 654273,
+      "word": "安徽省考 常识做笑了",
+      "onboard_time": 1710560316,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 654138,
       "num": 654138,
       "word": "年年体检正常为何突然查出癌症",
@@ -7523,14 +7563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 600955,
-      "num": 600955,
-      "word": "赵丽颖背上好大一个包",
-      "onboard_time": 1710558034,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 600659,
       "num": 294497,
       "word": "点读机女孩暂未回应质疑",
@@ -7563,6 +7595,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 599289,
+      "num": 599289,
+      "word": "馒头 花生",
+      "onboard_time": 1710561818,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 599206,
       "num": 280603,
       "word": "离开SM的艺人",
@@ -7593,14 +7633,6 @@
       "onboard_time": 1709253272,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 597618,
-      "num": 408618,
-      "word": "行测答案",
-      "onboard_time": 1710559594,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 596899,
@@ -8641,6 +8673,14 @@
       "onboard_time": 1709809711,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 544797,
+      "num": 544797,
+      "word": "数量全C",
+      "onboard_time": 1710562360,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 544392,
@@ -10283,6 +10323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 478179,
+      "num": 478179,
+      "word": "百果园回应将烂果做高端果切售卖",
+      "onboard_time": 1710560799,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477435,
       "num": 477435,
       "word": "和不内耗的朋友出去玩",
@@ -10993,14 +11041,6 @@
       "onboard_time": 1710234336,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 451263,
-      "num": 451263,
-      "word": "河南省考 图推全不会",
-      "onboard_time": 1710559715,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 450807,
@@ -11979,6 +12019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 418272,
+      "num": 334070,
+      "word": "34岁突然知道自己是抱养的",
+      "onboard_time": 1710558513,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 418223,
       "num": 418223,
       "word": "苏州小鹏P7事故碰撞前存在高速驾驶",
@@ -12017,6 +12065,14 @@
       "onboard_time": 1709711854,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 415751,
+      "num": 415751,
+      "word": "写不完根本写不完",
+      "onboard_time": 1710561517,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 415734,
@@ -12651,6 +12707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394725,
+      "num": 394725,
+      "word": "常识 我没有常识",
+      "onboard_time": 1710561218,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 394588,
       "num": 394588,
       "word": "美汁源直播",
@@ -12833,14 +12897,6 @@
       "onboard_time": 1709339485,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 388877,
-      "num": 296626,
-      "word": "34岁突然知道自己是抱养的",
-      "onboard_time": 1710558513,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 388389,
@@ -13283,6 +13339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 377231,
+      "num": 377231,
+      "word": "辽宁省考 B多还是C多",
+      "onboard_time": 1710561398,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 376862,
       "num": 304808,
       "word": "阿姨被辞退后发信息轰炸我",
@@ -13497,6 +13561,14 @@
       "onboard_time": 1710336633,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 371265,
+      "num": 371265,
+      "word": "张雪峰老师称听花酒和他没关系",
+      "onboard_time": 1710560078,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371250,
@@ -14057,14 +14129,6 @@
       "onboard_time": 1709789613,
       "rank": 46,
       "category": "财经"
-    },
-    {
-      "raw_hot": 356142,
-      "num": 356142,
-      "word": "女子快递收到13kg价值657万金条懵了",
-      "onboard_time": 1710559234,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 355926,
@@ -15339,6 +15403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 322735,
+      "num": 322735,
+      "word": "湖北省考 荒岛求生",
+      "onboard_time": 1710561458,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 322554,
       "num": 322554,
       "word": "硬是给有座位的乘客弄成站票了",
@@ -15593,6 +15665,14 @@
       "onboard_time": 1710297455,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317864,
+      "num": 317864,
+      "word": "花生十三",
+      "onboard_time": 1710562237,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 317619,
@@ -16953,6 +17033,14 @@
       "onboard_time": 1710154110,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 292097,
+      "num": 292097,
+      "word": "TheShy力挺Ning",
+      "onboard_time": 1710562716,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 291951,
@@ -18659,6 +18747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261041,
+      "num": 261041,
+      "word": "王星越黄杨钿甜 小孩哥遇上小孩姐",
+      "onboard_time": 1710561577,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260838,
       "num": 260838,
       "word": "王梓薇连续三四次被换角",
@@ -18881,6 +18977,14 @@
       "onboard_time": 1710399513,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 256910,
+      "num": 256910,
+      "word": "资料分析 招计算器呢",
+      "onboard_time": 1710562477,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 256654,
@@ -20225,6 +20329,14 @@
       "onboard_time": 1709989652,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 239150,
+      "num": 239150,
+      "word": "福建省考 连蒙带猜",
+      "onboard_time": 1710560436,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 239078,
@@ -25779,6 +25891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192591,
+      "num": 192591,
+      "word": "春季长个黄金期的几个建议",
+      "onboard_time": 1710561577,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 192549,
       "num": 192549,
       "word": "化妆品四大隐形陷阱",
@@ -26017,6 +26137,14 @@
       "onboard_time": 1710212850,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190962,
+      "num": 190962,
+      "word": "裸考",
+      "onboard_time": 1710561818,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 190946,
@@ -31139,6 +31267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158580,
+      "num": 158580,
+      "word": "天津市考 15个数量",
+      "onboard_time": 1710562716,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 158536,
       "num": 158536,
       "word": "妈妈错过的婚纱照我来补",
@@ -31739,6 +31875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155770,
+      "num": 155770,
+      "word": "胡先煦 从童星直接跳进叔圈",
+      "onboard_time": 1710559659,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155753,
       "num": 155753,
       "word": "315就该较真",
@@ -31793,6 +31937,14 @@
       "onboard_time": 1710054088,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155432,
+      "num": 155432,
+      "word": "ENHYPEN出发上海",
+      "onboard_time": 1710560555,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 155397,
@@ -32289,6 +32441,14 @@
       "onboard_time": 1710550233,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152556,
+      "num": 152556,
+      "word": "湖南省考 数量刮刮乐",
+      "onboard_time": 1710562838,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 152540,
@@ -33785,14 +33945,6 @@
       "onboard_time": 1710149313,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144712,
-      "num": 144712,
-      "word": "胡先煦 从童星直接跳进叔圈",
-      "onboard_time": 1710559659,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 144701,
@@ -41892,7 +42044,7 @@
     },
     {
       "raw_hot": 72041,
-      "num": 1042364,
+      "num": 1132961,
       "word": "这就是春天里的中国",
       "onboard_time": 1710475056,
       "rank": 2,
