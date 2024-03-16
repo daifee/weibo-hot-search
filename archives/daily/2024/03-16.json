@@ -1,6 +1,6 @@
 {
   "startTime": 1710519741451,
-  "endTime": 1710563684571,
+  "endTime": 1710566298488,
   "band_list": [
     {
       "raw_hot": 9137269,
@@ -19,12 +19,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2366082,
+      "num": 646816,
+      "word": "13岁初中生被同学杀害三人被刑拘",
+      "onboard_time": 1710563136,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2180730,
       "num": 2180730,
       "word": "夸父炸串",
       "onboard_time": 1710515501,
       "rank": 1,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 1845443,
+      "num": 1845443,
+      "word": "数量全C",
+      "onboard_time": 1710562360,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 1822207,
@@ -57,22 +73,6 @@
       "onboard_time": 1710551853,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1535983,
-      "num": 619963,
-      "word": "13岁初中生被同学杀害三人被刑拘",
-      "onboard_time": 1710563136,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1471590,
-      "num": 1471590,
-      "word": "数量全C",
-      "onboard_time": 1710562360,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 1468668,
@@ -171,6 +171,30 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 825087,
+      "num": 825087,
+      "word": "媒体称赵丽颖是行业一根救命稻草",
+      "onboard_time": 1710563136,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 823636,
+      "num": 823636,
+      "word": "申论 考一百就上岸",
+      "onboard_time": 1710564036,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 815456,
+      "num": 815456,
+      "word": "315",
+      "onboard_time": 1710565894,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 812627,
       "num": 242128,
       "word": "茶百道 崩铁",
@@ -185,6 +209,14 @@
       "onboard_time": 1710552454,
       "rank": 38,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 767070,
+      "num": 767070,
+      "word": "名创优品chiikawa",
+      "onboard_time": 1710565119,
+      "rank": 8,
+      "category": "动漫"
     },
     {
       "raw_hot": 752923,
@@ -291,6 +323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 489228,
+      "num": 489228,
+      "word": "省考图推 不吱声",
+      "onboard_time": 1710563017,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 478179,
       "num": 478179,
       "word": "百果园回应将烂果做高端果切售卖",
@@ -339,12 +379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450997,
+      "num": 450997,
+      "word": "TheShy力挺Ning",
+      "onboard_time": 1710562716,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 438042,
       "num": 438042,
       "word": "百果园果切",
       "onboard_time": 1710510463,
       "rank": 16,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 433452,
+      "num": 433452,
+      "word": "射雕黄蓉",
+      "onboard_time": 1710564818,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 418272,
@@ -369,14 +425,6 @@
       "onboard_time": 1710561517,
       "rank": 14,
       "category": "教育"
-    },
-    {
-      "raw_hot": 403259,
-      "num": 403259,
-      "word": "TheShy力挺Ning",
-      "onboard_time": 1710562716,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 394725,
@@ -419,14 +467,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 375016,
-      "num": 375016,
-      "word": "媒体称赵丽颖是行业一根救命稻草",
-      "onboard_time": 1710563136,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 374556,
       "num": 374556,
       "word": "奶茶 食材",
@@ -457,14 +497,6 @@
       "onboard_time": 1710545547,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 353206,
-      "num": 353206,
-      "word": "省考图推 不吱声",
-      "onboard_time": 1710563017,
-      "rank": 21,
-      "category": "教育"
     },
     {
       "raw_hot": 339141,
@@ -504,6 +536,14 @@
       "word": "湖北省考 荒岛求生",
       "onboard_time": 1710561458,
       "rank": 23,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 318273,
+      "num": 318273,
+      "word": "申论格式",
+      "onboard_time": 1710563856,
+      "rank": 22,
       "category": "教育"
     },
     {
@@ -563,6 +603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 295621,
+      "num": 295621,
+      "word": "赵丽颖林更新今晚见",
+      "onboard_time": 1710564515,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290572,
       "num": 290572,
       "word": "徐正溪陈乔恩烈焰海报",
@@ -611,6 +659,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 262057,
+      "num": 262057,
+      "word": "国家市监局积极回应315晚会",
+      "onboard_time": 1710565052,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261207,
       "num": 261207,
       "word": "大学生独自处理双亲去世",
@@ -657,6 +713,14 @@
       "onboard_time": 1710559956,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252850,
+      "num": 252850,
+      "word": "花间令装死女和死装男",
+      "onboard_time": 1710565415,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 250018,
@@ -867,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188162,
+      "num": 188162,
+      "word": "小警犬只是成绩不好它并不是坏狗",
+      "onboard_time": 1710563619,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187810,
       "num": 187810,
       "word": "文韬努力作废但帅",
@@ -899,12 +971,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183738,
+      "num": 183738,
+      "word": "张杰演唱会高铁地广",
+      "onboard_time": 1710566014,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 181212,
       "num": 181212,
       "word": "宁德时代去年净利润441.21亿",
       "onboard_time": 1710516280,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 180828,
+      "num": 180828,
+      "word": "五哈4草率启动仪式",
+      "onboard_time": 1710565716,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 174775,
@@ -923,20 +1011,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168788,
+      "num": 168788,
+      "word": "老舅把陈赫认成酒店安保",
+      "onboard_time": 1710566196,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162966,
       "num": 162966,
       "word": "天津市考 15个数量",
       "onboard_time": 1710562716,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 162587,
-      "num": 162587,
-      "word": "小警犬只是成绩不好它并不是坏狗",
-      "onboard_time": 1710563619,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 162266,
@@ -1057,6 +1145,22 @@
       "onboard_time": 1710496959,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 140047,
+      "num": 140047,
+      "word": "种地吧",
+      "onboard_time": 1710566254,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138583,
+      "num": 138583,
+      "word": "近视不戴眼镜会加重发展",
+      "onboard_time": 1710564873,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 137846,
@@ -1315,7 +1419,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14534,
+      "raw_hot": 19474,
       "num": 1403614,
       "word": "这就是春天里的中国",
       "onboard_time": 1710475056,
@@ -1329,6 +1433,9 @@
     },
     {
       "word": "#中安关系提升为全面战略合作伙伴关系#"
+    },
+    {
+      "word": "#习近平总书记高度重视质量强国建设#"
     }
   ]
 }
