@@ -1,0 +1,410 @@
+{
+  "runTime": 1710577202745,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1796781,
+        "num": 1796781,
+        "word": "郑合惠子发声",
+        "onboard_time": 1710573992,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1597415,
+        "num": 1597415,
+        "word": "王艺迪不再适合参与巴黎奥运女单竞争",
+        "onboard_time": 1710575190,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73286,
+        "num": 1174774,
+        "word": "中国空间站在太空忙啥呢",
+        "onboard_time": 1710560257,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1003616,
+        "num": 1003616,
+        "word": "夸父炸串回应",
+        "onboard_time": 1710569132,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 664559,
+        "num": 664559,
+        "word": "樊振东王楚钦vs马龙林高远",
+        "onboard_time": 1710573992,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 583437,
+        "num": 583437,
+        "word": "东方甄选卖的槽头肉可办理仅退款",
+        "onboard_time": 1710570935,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 562935,
+        "num": 562935,
+        "word": "马龙林高远男双夺冠",
+        "onboard_time": 1710575974,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 480634,
+        "num": 480634,
+        "word": "省考",
+        "onboard_time": 1710547951,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 462685,
+        "num": 462685,
+        "word": "向佐三分之二半月板被切除",
+        "onboard_time": 1710574652,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 462467,
+        "num": 462467,
+        "word": "马龙林高远3比2樊振东王楚钦",
+        "onboard_time": 1710576933,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 799975,
+        "num": 459497,
+        "word": "冯小刚为养女庆18岁生日",
+        "onboard_time": 1710570573,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 724669,
+        "num": 446124,
+        "word": "活死人小李结婚",
+        "onboard_time": 1710568837,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483109,
+        "num": 426935,
+        "word": "夫妻高层装防护栏不慎坠亡",
+        "onboard_time": 1710573573,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480891,
+        "num": 416681,
+        "word": "多个上门按摩APP被曝涉黄",
+        "onboard_time": 1710575253,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 413481,
+        "num": 413481,
+        "word": "女子快递收到13kg价值657万金条懵了",
+        "onboard_time": 1710559234,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399098,
+        "num": 399098,
+        "word": "315",
+        "onboard_time": 1710565894,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390722,
+        "num": 390722,
+        "word": "孙颖莎陈梦王曼昱占据领先位置",
+        "onboard_time": 1710576273,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383478,
+        "num": 383478,
+        "word": "伊能静发长文谈儿子哈利",
+        "onboard_time": 1710574832,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360343,
+        "num": 360343,
+        "word": "国乒总教练李隼解读新规",
+        "onboard_time": 1710575073,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 358513,
+        "num": 358513,
+        "word": "徐正溪姑姑 汤臣一品",
+        "onboard_time": 1710551853,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298747,
+        "num": 298747,
+        "word": "鸭血 甲醛",
+        "onboard_time": 1710556175,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 291323,
+        "num": 291323,
+        "word": "老舅把陈赫认成酒店安保",
+        "onboard_time": 1710566196,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265521,
+        "num": 265521,
+        "word": "林俊杰咖啡车",
+        "onboard_time": 1710572071,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260592,
+        "num": 260592,
+        "word": "刚结婚老公开始算计我的嫁妆",
+        "onboard_time": 1710568234,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239772,
+        "num": 239772,
+        "word": "你还会喝茶百道吗",
+        "onboard_time": 1710569010,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 224736,
+        "num": 224736,
+        "word": "茉酸奶发布声明",
+        "onboard_time": 1710555271,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 216347,
+        "num": 216347,
+        "word": "灿烂的她 父爱含量为零",
+        "onboard_time": 1710575974,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209859,
+        "num": 209859,
+        "word": "媒体称赵丽颖是行业一根救命稻草",
+        "onboard_time": 1710563136,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198625,
+        "num": 209858,
+        "word": "珠帘玉幕官配",
+        "onboard_time": 1710576213,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110471,
+        "num": 209841,
+        "word": "你手中的咖啡近六成是昆山烘焙",
+        "onboard_time": 1710567815,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 180430,
+        "num": 209832,
+        "word": "周也金发废土风",
+        "onboard_time": 1710572609,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175377,
+        "num": 209827,
+        "word": "特斯拉所有ModelY车型将上涨1000美元",
+        "onboard_time": 1710574474,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 184173,
+        "num": 209813,
+        "word": "赵丽颖微指破5亿",
+        "onboard_time": 1710575312,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174926,
+        "num": 209802,
+        "word": "王诗龄与同学合照",
+        "onboard_time": 1710568651,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30900,
+        "num": 209797,
+        "word": "中国汽车硬起来了",
+        "onboard_time": 1710576874,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164978,
+        "num": 209781,
+        "word": "五哈4鹿晗立牌",
+        "onboard_time": 1710574353,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162777,
+        "num": 209774,
+        "word": "陈都灵唐装",
+        "onboard_time": 1710566736,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161115,
+        "num": 209759,
+        "word": "吴磊红毛衣自拍",
+        "onboard_time": 1710576815,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152469,
+        "num": 209752,
+        "word": "女生尽管在省钱却买男孩最贵的花",
+        "onboard_time": 1710576576,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148008,
+        "num": 209744,
+        "word": "徐正溪新剧还没杀青",
+        "onboard_time": 1710570992,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147755,
+        "num": 209732,
+        "word": "许凯虞书欣互怼",
+        "onboard_time": 1710576576,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141315,
+        "num": 209723,
+        "word": "百果园回应将烂果做高端果切售卖",
+        "onboard_time": 1710560799,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135044,
+        "num": 209716,
+        "word": "因为暂时失业被父母说啃老",
+        "onboard_time": 1710566618,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134647,
+        "num": 209696,
+        "word": "广东省考行测",
+        "onboard_time": 1710576213,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123192,
+        "num": 209686,
+        "word": "TheShy力挺Ning",
+        "onboard_time": 1710562716,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122394,
+        "num": 209685,
+        "word": "DYG破三高翻盘",
+        "onboard_time": 1710573933,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113163,
+        "num": 209669,
+        "word": "近8成网友认为奶茶消杯不正常",
+        "onboard_time": 1710569435,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109227,
+        "num": 209659,
+        "word": "AL对战JDG",
+        "onboard_time": 1710576933,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108009,
+        "num": 209654,
+        "word": "茶颜悦色放置半小时仅剩半杯",
+        "onboard_time": 1710510763,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94844,
+        "num": 209640,
+        "word": "伊能静儿子恩利谈星二代身份",
+        "onboard_time": 1710571652,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视质量强国建设#"
+    }
+  }
+}
