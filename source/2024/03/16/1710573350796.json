@@ -1,0 +1,410 @@
+{
+  "runTime": 1710573350796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1227098,
+        "num": 1227098,
+        "word": "夸父炸串回应",
+        "onboard_time": 1710569132,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 682947,
+        "num": 682947,
+        "word": "女子快递收到13kg价值657万金条懵了",
+        "onboard_time": 1710559234,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20704,
+        "num": 577145,
+        "word": "这就是春天里的中国",
+        "onboard_time": 1710475056,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 824805,
+        "num": 576058,
+        "word": "26岁规培女医生在医院卫生间自杀",
+        "onboard_time": 1710571953,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571107,
+        "num": 571107,
+        "word": "东方甄选卖的槽头肉可办理仅退款",
+        "onboard_time": 1710570935,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 543930,
+        "num": 543930,
+        "word": "鸭血 甲醛",
+        "onboard_time": 1710556175,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 445149,
+        "num": 445149,
+        "word": "媒体称赵丽颖是行业一根救命稻草",
+        "onboard_time": 1710563136,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427631,
+        "num": 427631,
+        "word": "老舅把陈赫认成酒店安保",
+        "onboard_time": 1710566196,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426138,
+        "num": 426138,
+        "word": "315",
+        "onboard_time": 1710565894,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410227,
+        "num": 410227,
+        "word": "王诗龄与同学合照",
+        "onboard_time": 1710568651,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 980177,
+        "num": 389941,
+        "word": "活死人小李结婚",
+        "onboard_time": 1710568837,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 890784,
+        "num": 378500,
+        "word": "冯小刚为养女庆18岁生日",
+        "onboard_time": 1710570573,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362532,
+        "num": 362532,
+        "word": "徐正溪姑姑 汤臣一品",
+        "onboard_time": 1710551853,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359311,
+        "num": 359311,
+        "word": "徐正溪新剧还没杀青",
+        "onboard_time": 1710570992,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343725,
+        "num": 343725,
+        "word": "林俊杰咖啡车",
+        "onboard_time": 1710572071,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294793,
+        "num": 294793,
+        "word": "伊能静儿子恩利谈星二代身份",
+        "onboard_time": 1710571652,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290742,
+        "num": 290742,
+        "word": "茉酸奶发布声明",
+        "onboard_time": 1710555271,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 286932,
+        "num": 286932,
+        "word": "陈都灵唐装",
+        "onboard_time": 1710566736,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282176,
+        "num": 282176,
+        "word": "百果园回应将烂果做高端果切售卖",
+        "onboard_time": 1710560799,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210657,
+        "num": 282174,
+        "word": "TheShy力挺Ning",
+        "onboard_time": 1710562716,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 397942,
+        "num": 282167,
+        "word": "刚结婚老公开始算计我的嫁妆",
+        "onboard_time": 1710568234,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334595,
+        "num": 282164,
+        "word": "你还会喝茶百道吗",
+        "onboard_time": 1710569010,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 220689,
+        "num": 282155,
+        "word": "因为暂时失业被父母说啃老",
+        "onboard_time": 1710566618,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206586,
+        "num": 282149,
+        "word": "周也金发废土风",
+        "onboard_time": 1710572609,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170592,
+        "num": 282144,
+        "word": "省考",
+        "onboard_time": 1710547951,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163293,
+        "num": 282138,
+        "word": "近8成网友认为奶茶消杯不正常",
+        "onboard_time": 1710569435,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153472,
+        "num": 282130,
+        "word": "宝马",
+        "onboard_time": 1710569313,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148332,
+        "num": 282125,
+        "word": "你手中的咖啡近六成是昆山烘焙",
+        "onboard_time": 1710567815,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137714,
+        "num": 282117,
+        "word": "南笙与老公回顾爱情历程",
+        "onboard_time": 1710571231,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129381,
+        "num": 282114,
+        "word": "数量全C",
+        "onboard_time": 1710562360,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135449,
+        "num": 282105,
+        "word": "赵丽颖背上好大一个包",
+        "onboard_time": 1710558034,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134349,
+        "num": 282103,
+        "word": "34岁突然知道自己是抱养的",
+        "onboard_time": 1710558513,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133616,
+        "num": 282093,
+        "word": "李亚鹏晒给债权人还款视频",
+        "onboard_time": 1710571053,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127382,
+        "num": 282090,
+        "word": "茶颜悦色放置半小时仅剩半杯",
+        "onboard_time": 1710510763,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127038,
+        "num": 282084,
+        "word": "孙颖莎林诗栋出席球员见面会",
+        "onboard_time": 1710568173,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123234,
+        "num": 282077,
+        "word": "珠帘玉幕杀青",
+        "onboard_time": 1710570812,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117620,
+        "num": 282071,
+        "word": "射雕黄蓉",
+        "onboard_time": 1710564818,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117433,
+        "num": 282064,
+        "word": "国家市监局积极回应315晚会",
+        "onboard_time": 1710565052,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114878,
+        "num": 282057,
+        "word": "赵丽颖吐槽林更新拍照技术",
+        "onboard_time": 1710569435,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109954,
+        "num": 282053,
+        "word": "湖北专升本",
+        "onboard_time": 1710572793,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 106312,
+        "num": 282045,
+        "word": "张杰演唱会高铁地广",
+        "onboard_time": 1710566014,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105125,
+        "num": 282044,
+        "word": "李兰迪演失恋",
+        "onboard_time": 1710569372,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102128,
+        "num": 282037,
+        "word": "小警犬只是成绩不好它并不是坏狗",
+        "onboard_time": 1710563619,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95953,
+        "num": 282029,
+        "word": "如何辨别花粉过敏和感冒",
+        "onboard_time": 1710572493,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95551,
+        "num": 282026,
+        "word": "种地吧",
+        "onboard_time": 1710566254,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95097,
+        "num": 282017,
+        "word": "馒头 花生",
+        "onboard_time": 1710561818,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94916,
+        "num": 282009,
+        "word": "315晚会",
+        "onboard_time": 1710502477,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90278,
+        "num": 282003,
+        "word": "惠英红希望能有个伴",
+        "onboard_time": 1710573153,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90006,
+        "num": 281999,
+        "word": "DYG对战eStar",
+        "onboard_time": 1710571712,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88065,
+        "num": 281991,
+        "word": "花间令装死女和死装男",
+        "onboard_time": 1710565415,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视质量强国建设#"
+    }
+  }
+}
