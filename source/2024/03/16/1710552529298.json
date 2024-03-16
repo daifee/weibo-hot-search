@@ -1,0 +1,410 @@
+{
+  "runTime": 1710552529298,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1096663,
+        "num": 1096663,
+        "word": "爸爸退休返聘年薪12万",
+        "onboard_time": 1710543806,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1078245,
+        "num": 1078245,
+        "word": "徐正溪姑姑 汤臣一品",
+        "onboard_time": 1710551853,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40428,
+        "num": 933867,
+        "word": "长五遥八运载火箭运抵文昌",
+        "onboard_time": 1710507038,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 906004,
+        "num": 906004,
+        "word": "315晚会",
+        "onboard_time": 1710502477,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646498,
+        "num": 646498,
+        "word": "茶颜悦色放置半小时仅剩半杯",
+        "onboard_time": 1710510763,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 625743,
+        "num": 625743,
+        "word": "官方通报199元4天桂林低价游情况",
+        "onboard_time": 1710548009,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 619860,
+        "num": 619860,
+        "word": "夸父炸串",
+        "onboard_time": 1710515501,
+        "rank": 6,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 506840,
+        "num": 506840,
+        "word": "主持人马卉被永久封禁直播权限",
+        "onboard_time": 1710492094,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 427628,
+        "num": 427628,
+        "word": "人吃了槽头肉会有什么危害",
+        "onboard_time": 1710518135,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 393676,
+        "num": 393676,
+        "word": "自杀程序员与前妻在世纪佳缘相识",
+        "onboard_time": 1710514724,
+        "rank": 9,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 393287,
+        "num": 393287,
+        "word": "央广网评初中生被3名同学杀害掩埋",
+        "onboard_time": 1710509805,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378346,
+        "num": 378346,
+        "word": "315晚会省流版",
+        "onboard_time": 1710518195,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368937,
+        "num": 368937,
+        "word": "徐正溪退圈原因",
+        "onboard_time": 1710497980,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366999,
+        "num": 366999,
+        "word": "宝马就315曝光道歉",
+        "onboard_time": 1710545726,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 326589,
+        "num": 326589,
+        "word": "一图看懂315晚会",
+        "onboard_time": 1710549513,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289616,
+        "num": 289616,
+        "word": "淀粉肠塌房",
+        "onboard_time": 1710498581,
+        "rank": 15,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 288654,
+        "num": 288654,
+        "word": "听花酒",
+        "onboard_time": 1710550831,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 286104,
+        "num": 286104,
+        "word": "一娃被卡全幼儿园的娃都见了偶像",
+        "onboard_time": 1710549992,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282569,
+        "num": 282569,
+        "word": "栏目编导称已停止与马卉合作",
+        "onboard_time": 1710550953,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277783,
+        "num": 277783,
+        "word": "宝马表示将承担所有维修费用",
+        "onboard_time": 1710545547,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 551010,
+        "num": 272437,
+        "word": "有一种腰痛是癌症的信号",
+        "onboard_time": 1710548792,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 255156,
+        "num": 255156,
+        "word": "韩语版知否",
+        "onboard_time": 1710550652,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247708,
+        "num": 247708,
+        "word": "对抗抑郁的最佳运动",
+        "onboard_time": 1710543806,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 237221,
+        "num": 237221,
+        "word": "2024公务员联考逾450万人参加",
+        "onboard_time": 1710551373,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236860,
+        "num": 236860,
+        "word": "世纪佳缘致歉声明",
+        "onboard_time": 1710512026,
+        "rank": 24,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 234554,
+        "num": 234554,
+        "word": "大学生独自处理双亲去世",
+        "onboard_time": 1710519633,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232669,
+        "num": 232669,
+        "word": "省考",
+        "onboard_time": 1710547951,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 228601,
+        "num": 228601,
+        "word": "田曦薇麦粒肿",
+        "onboard_time": 1710549033,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199304,
+        "num": 199304,
+        "word": "听花酒道歉",
+        "onboard_time": 1710548851,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176730,
+        "num": 191489,
+        "word": "原来久坐真的会让人变丑",
+        "onboard_time": 1710517599,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 185177,
+        "num": 185177,
+        "word": "珍爱网负责人被约谈",
+        "onboard_time": 1710551733,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177345,
+        "num": 177345,
+        "word": "郑合惠子演技",
+        "onboard_time": 1710510703,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173076,
+        "num": 173076,
+        "word": "淀粉肠",
+        "onboard_time": 1710549633,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 170228,
+        "num": 170228,
+        "word": "315晚会点名企业致歉合集",
+        "onboard_time": 1710549815,
+        "rank": 33,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 161187,
+        "num": 161187,
+        "word": "连打喷嚏又鼻痒流涕或是花粉过敏",
+        "onboard_time": 1710550953,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160026,
+        "num": 160026,
+        "word": "网络水军利用主板机随意更改IP",
+        "onboard_time": 1710505478,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159573,
+        "num": 159573,
+        "word": "陈奕迅额头",
+        "onboard_time": 1710547229,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155646,
+        "num": 155646,
+        "word": "普通人一辈子存款天花板是多少",
+        "onboard_time": 1710519990,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154759,
+        "num": 154759,
+        "word": "江宏杰已接到孩子离开日本",
+        "onboard_time": 1710552454,
+        "rank": 38,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 153339,
+        "num": 153339,
+        "word": "到底多少度算高度近视",
+        "onboard_time": 1710548370,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152557,
+        "num": 152557,
+        "word": "陈楚生送歌迷30斤巧克力",
+        "onboard_time": 1710550233,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147317,
+        "num": 147317,
+        "word": "加沙物资领取点遭袭56死300伤",
+        "onboard_time": 1710548554,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 143481,
+        "num": 143481,
+        "word": "我爸又买垃圾回来了",
+        "onboard_time": 1710549573,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143147,
+        "num": 143147,
+        "word": "徐正溪退圈",
+        "onboard_time": 1710491854,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139988,
+        "num": 139988,
+        "word": "弟弟退回了我给他的结婚红包",
+        "onboard_time": 1710510763,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139407,
+        "num": 139407,
+        "word": "听花酒下架",
+        "onboard_time": 1710510403,
+        "rank": 45,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 129797,
+        "num": 129797,
+        "word": "听花酒发布声明",
+        "onboard_time": 1710550233,
+        "rank": 46,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 119978,
+        "num": 119978,
+        "word": "胡杏儿发了三个儿子",
+        "onboard_time": 1710515200,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112300,
+        "num": 112300,
+        "word": "315就该较真",
+        "onboard_time": 1710549933,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111170,
+        "num": 111170,
+        "word": "福原爱说和江宏杰共同养育孩子",
+        "onboard_time": 1710547229,
+        "rank": 49,
+        "category": "体育,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中安关系提升为全面战略合作伙伴关系#"
+    }
+  }
+}
