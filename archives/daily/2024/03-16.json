@@ -1,6 +1,6 @@
 {
   "startTime": 1710519741451,
-  "endTime": 1710556437426,
+  "endTime": 1710559112517,
   "band_list": [
     {
       "raw_hot": 3302966,
@@ -43,6 +43,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1624759,
+      "num": 1624759,
+      "word": "鸭血 甲醛",
+      "onboard_time": 1710556175,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 1290521,
+      "num": 1290521,
+      "word": "杀害同学3名男生均13岁一人为同桌",
+      "onboard_time": 1710555994,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1224989,
+      "num": 1224989,
+      "word": "王海称小杨哥和东方甄选都销售过槽头肉扣肉",
+      "onboard_time": 1710554913,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1224331,
+      "num": 1224331,
+      "word": "省考",
+      "onboard_time": 1710547951,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1217240,
       "num": 1217240,
       "word": "爸爸退休返聘年薪12万",
@@ -59,20 +91,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1080163,
+      "num": 1080163,
+      "word": "茉酸奶发布声明",
+      "onboard_time": 1710555271,
+      "rank": 11,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1069738,
       "num": 1069738,
       "word": "淀粉肠塌房",
       "onboard_time": 1710498581,
       "rank": 6,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 1024333,
-      "num": 1024333,
-      "word": "王海称小杨哥和东方甄选都销售过槽头肉扣肉",
-      "onboard_time": 1710554913,
-      "rank": 3,
-      "category": "互联网"
     },
     {
       "raw_hot": 908695,
@@ -97,14 +129,6 @@
       "onboard_time": 1710475958,
       "rank": 30,
       "category": "游戏,美食"
-    },
-    {
-      "raw_hot": 789480,
-      "num": 789480,
-      "word": "茉酸奶发布声明",
-      "onboard_time": 1710555271,
-      "rank": 11,
-      "category": "美食"
     },
     {
       "raw_hot": 786407,
@@ -164,7 +188,7 @@
     },
     {
       "raw_hot": 551010,
-      "num": 272437,
+      "num": 272544,
       "word": "有一种腰痛是癌症的信号",
       "onboard_time": 1710548792,
       "rank": 20,
@@ -179,8 +203,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 532699,
-      "num": 532699,
+      "raw_hot": 532960,
+      "num": 532960,
       "word": "肖战代言元气森林",
       "onboard_time": 1710556056,
       "rank": 8,
@@ -251,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 380745,
-      "num": 380745,
-      "word": "省考",
-      "onboard_time": 1710547951,
-      "rank": 13,
-      "category": "教育"
-    },
-    {
       "raw_hot": 374556,
       "num": 374556,
       "word": "奶茶 食材",
@@ -267,12 +283,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 369433,
+      "num": 369433,
+      "word": "赵丽颖背上好大一个包",
+      "onboard_time": 1710558034,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 368184,
+      "num": 368184,
+      "word": "五哈4发车定档",
+      "onboard_time": 1710557315,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358740,
       "num": 358740,
       "word": "宝马表示将承担所有维修费用",
       "onboard_time": 1710545547,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 339953,
+      "num": 339953,
+      "word": "百果园果切 烂果",
+      "onboard_time": 1710555694,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 339141,
@@ -371,6 +411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 287553,
+      "num": 169248,
+      "word": "34岁突然知道自己是抱养的",
+      "onboard_time": 1710558513,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 284960,
       "num": 284960,
       "word": "网络水军利用主板机随意更改IP",
@@ -385,6 +433,14 @@
       "onboard_time": 1710538217,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275308,
+      "num": 273441,
+      "word": "原来这就是空姐飞长途睡觉的地方",
+      "onboard_time": 1710557376,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 272315,
@@ -419,11 +475,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256016,
-      "num": 256016,
-      "word": "杀害同学3名男生均13岁一人为同桌",
-      "onboard_time": 1710555994,
-      "rank": 19,
+      "raw_hot": 255204,
+      "num": 255204,
+      "word": "合肥女子在长沙坐拥87套房被查封",
+      "onboard_time": 1710557376,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -475,14 +531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 233067,
-      "num": 233067,
-      "word": "百果园果切 烂果",
-      "onboard_time": 1710555694,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 230235,
       "num": 230235,
       "word": "短剧的风吹到了TF三代",
@@ -507,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225593,
+      "num": 225593,
+      "word": "整栋楼对这一跪非常重视",
+      "onboard_time": 1710556654,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216345,
       "num": 216345,
       "word": "315晚会点名企业致歉合集",
@@ -529,14 +585,6 @@
       "onboard_time": 1710519990,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 202017,
-      "num": 202017,
-      "word": "鸭血 甲醛",
-      "onboard_time": 1710556175,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 199254,
@@ -643,6 +691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 179724,
+      "num": 179724,
+      "word": "茶百道客服回应门店篡改食品有效期",
+      "onboard_time": 1710558452,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 174775,
       "num": 174775,
       "word": "听花酒发布声明",
@@ -665,6 +721,14 @@
       "onboard_time": 1710551733,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 155753,
+      "num": 155753,
+      "word": "315就该较真",
+      "onboard_time": 1710549933,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153339,
@@ -691,6 +755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 152438,
+      "num": 152438,
+      "word": "原来欧洲对成人的定义是28岁",
+      "onboard_time": 1710556536,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151377,
       "num": 151377,
       "word": "眼泪女王",
@@ -705,6 +777,14 @@
       "onboard_time": 1710506862,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 150772,
+      "num": 150772,
+      "word": "老板我的店怎么关门了",
+      "onboard_time": 1710557072,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 146398,
@@ -747,12 +827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131893,
-      "num": 131893,
-      "word": "315就该较真",
-      "onboard_time": 1710549933,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 133783,
+      "num": 133783,
+      "word": "一碗麻辣烫的背后",
+      "onboard_time": 1710558513,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 129752,
@@ -779,6 +859,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124288,
+      "num": 124288,
+      "word": "烈焰 发配边疆的妆造",
+      "onboard_time": 1710557315,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124230,
+      "num": 124230,
+      "word": "姚政 苏醒debuff",
+      "onboard_time": 1710556411,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124104,
       "num": 124104,
       "word": "福原爱说和江宏杰共同养育孩子",
@@ -793,14 +889,6 @@
       "onboard_time": 1710508902,
       "rank": 46,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 119816,
-      "num": 119816,
-      "word": "姚政 苏醒debuff",
-      "onboard_time": 1710556411,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 118580,
