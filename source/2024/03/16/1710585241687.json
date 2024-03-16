@@ -1,0 +1,410 @@
+{
+  "runTime": 1710585241687,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1323419,
+        "num": 1323419,
+        "word": "申论",
+        "onboard_time": 1710578976,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1110461,
+        "num": 1110461,
+        "word": "省考",
+        "onboard_time": 1710547951,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 44783,
+        "num": 1024554,
+        "word": "中国空间站在太空忙啥呢",
+        "onboard_time": 1710560257,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 993364,
+        "num": 993364,
+        "word": "王艺迪不再适合参与巴黎奥运女单竞争",
+        "onboard_time": 1710575190,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 887928,
+        "num": 887928,
+        "word": "郑合惠子发声",
+        "onboard_time": 1710573992,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 822153,
+        "num": 822153,
+        "word": "多个上门按摩APP被曝涉黄",
+        "onboard_time": 1710575253,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 576244,
+        "num": 576244,
+        "word": "西安女子去天水吃麻辣烫被宠上天",
+        "onboard_time": 1710582635,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 509375,
+        "num": 509375,
+        "word": "所以明天到底该吃什么",
+        "onboard_time": 1710582455,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159630,
+        "num": 498921,
+        "word": "小学生卡喉店铺老板冲出来20秒救人",
+        "onboard_time": 1710582635,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497356,
+        "num": 497356,
+        "word": "省考行测答案",
+        "onboard_time": 1710581614,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 532662,
+        "num": 479359,
+        "word": "冯小刚为养女庆18岁生日",
+        "onboard_time": 1710570573,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454011,
+        "num": 454011,
+        "word": "王艺迪vs陈幸同",
+        "onboard_time": 1710583234,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444887,
+        "num": 444887,
+        "word": "甘肃文旅喊话麻辣烫老板注意表情管理",
+        "onboard_time": 1710578852,
+        "rank": 12,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 422400,
+        "num": 422400,
+        "word": "315",
+        "onboard_time": 1710565894,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368956,
+        "num": 368956,
+        "word": "唐晓天赵露思身高差",
+        "onboard_time": 1710580955,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366030,
+        "num": 366030,
+        "word": "王艺迪4比0陈幸同",
+        "onboard_time": 1710584133,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342920,
+        "num": 342920,
+        "word": "龙宝宝取名捅了辰的窝吗",
+        "onboard_time": 1710583352,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340876,
+        "num": 340876,
+        "word": "夸父炸串回应",
+        "onboard_time": 1710569132,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 295450,
+        "num": 295450,
+        "word": "活死人小李结婚",
+        "onboard_time": 1710568837,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292349,
+        "num": 292349,
+        "word": "夫妻高层装防护栏不慎坠亡",
+        "onboard_time": 1710573573,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414171,
+        "num": 291507,
+        "word": "为什么爸妈从来没想过给女儿买房",
+        "onboard_time": 1710579453,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269109,
+        "num": 269109,
+        "word": "申论创新",
+        "onboard_time": 1710583412,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 249738,
+        "num": 249738,
+        "word": "向佐三分之二半月板被切除",
+        "onboard_time": 1710574652,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242421,
+        "num": 242421,
+        "word": "朱志鑫15岁综艺未公开片段",
+        "onboard_time": 1710583113,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227949,
+        "num": 227949,
+        "word": "刺激耳穴还能防近视",
+        "onboard_time": 1710584671,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 224674,
+        "num": 224674,
+        "word": "有价无价",
+        "onboard_time": 1710581915,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223001,
+        "num": 223001,
+        "word": "看了315晚会后不能吃的东西",
+        "onboard_time": 1710584254,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 218837,
+        "num": 218837,
+        "word": "马龙WTT首冠",
+        "onboard_time": 1710583295,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214157,
+        "num": 214157,
+        "word": "头像洁癖",
+        "onboard_time": 1710577292,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212939,
+        "num": 212939,
+        "word": "被小孩姐的发量伤到了",
+        "onboard_time": 1710580833,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294545,
+        "num": 212313,
+        "word": "多家315曝光公司被调查",
+        "onboard_time": 1710584796,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208105,
+        "num": 208105,
+        "word": "边伯贤演唱会",
+        "onboard_time": 1710584796,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194819,
+        "num": 194819,
+        "word": "花间令",
+        "onboard_time": 1710583234,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190490,
+        "num": 190490,
+        "word": "成都的天",
+        "onboard_time": 1710585035,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174304,
+        "num": 174304,
+        "word": "省考估分",
+        "onboard_time": 1710583715,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166998,
+        "num": 166998,
+        "word": "陈梦vs王曼昱",
+        "onboard_time": 1710577772,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166560,
+        "num": 166560,
+        "word": "陈梦王曼昱争奥运女单",
+        "onboard_time": 1710585214,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157944,
+        "num": 157944,
+        "word": "古人结婚为什么要结发",
+        "onboard_time": 1710581554,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155766,
+        "num": 155766,
+        "word": "ENHYPEN上海签售",
+        "onboard_time": 1710583715,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151253,
+        "num": 151253,
+        "word": "徐正溪姑姑 汤臣一品",
+        "onboard_time": 1710551853,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141513,
+        "num": 141513,
+        "word": "这里的野生菌连续吃一个月不重样",
+        "onboard_time": 1710585214,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139324,
+        "num": 139324,
+        "word": "周处除三害",
+        "onboard_time": 1710582934,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136106,
+        "num": 136106,
+        "word": "伊能静发长文谈儿子哈利",
+        "onboard_time": 1710574832,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134720,
+        "num": 134720,
+        "word": "刚结婚老公开始算计我的嫁妆",
+        "onboard_time": 1710568234,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132338,
+        "num": 132338,
+        "word": "薛之谦重庆抢票",
+        "onboard_time": 1710581794,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130960,
+        "num": 130960,
+        "word": "河南申论",
+        "onboard_time": 1710578976,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129396,
+        "num": 129396,
+        "word": "孤独体验",
+        "onboard_time": 1710585214,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128530,
+        "num": 128530,
+        "word": "鸭血 甲醛",
+        "onboard_time": 1710556175,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126758,
+        "num": 126758,
+        "word": "你还会喝茶百道吗",
+        "onboard_time": 1710569010,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124027,
+        "num": 124027,
+        "word": "行业标委会正研究是否制定淀粉肠国标",
+        "onboard_time": 1710582332,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视质量强国建设#"
+    }
+  }
+}
