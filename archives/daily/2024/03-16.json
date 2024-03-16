@@ -1,6 +1,6 @@
 {
   "startTime": 1710519741451,
-  "endTime": 1710602136535,
+  "endTime": 1710603236552,
   "band_list": [
     {
       "raw_hot": 9137269,
@@ -65,6 +65,14 @@
       "onboard_time": 1710575190,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1888675,
+      "num": 1888675,
+      "word": "金价下跌了",
+      "onboard_time": 1710601838,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 1845443,
@@ -219,8 +227,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1158320,
-      "num": 1158320,
+      "raw_hot": 1162774,
+      "num": 1162774,
       "word": "河北省公安厅介入初中生杀害同学案",
       "onboard_time": 1710599858,
       "rank": 4,
@@ -347,6 +355,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 857034,
+      "num": 857034,
+      "word": "罗翔谈未成年人杀人埋尸案",
+      "onboard_time": 1710600759,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 823636,
       "num": 823636,
       "word": "申论 考一百就上岸",
@@ -377,6 +393,14 @@
       "onboard_time": 1710585935,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 789776,
+      "num": 789776,
+      "word": "纪凌尘beng",
+      "onboard_time": 1710600517,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 786407,
@@ -443,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 697748,
-      "num": 697748,
-      "word": "纪凌尘beng",
-      "onboard_time": 1710600517,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 684832,
       "num": 684832,
       "word": "樊振东王楚钦vs马龙林高远",
@@ -499,20 +515,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 646172,
+      "num": 502099,
+      "word": "身上这种小疙瘩或是HPV感染",
+      "onboard_time": 1710601779,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 643018,
       "num": 643018,
       "word": "麦当劳崩了",
       "onboard_time": 1710484117,
       "rank": 8,
       "category": "美食"
-    },
-    {
-      "raw_hot": 637317,
-      "num": 420447,
-      "word": "身上这种小疙瘩或是HPV感染",
-      "onboard_time": 1710601779,
-      "rank": 10,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 617928,
@@ -763,28 +779,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 478119,
-      "num": 402029,
-      "word": "金价下跌了",
-      "onboard_time": 1710601838,
-      "rank": 11,
-      "category": "财经"
-    },
-    {
       "raw_hot": 476479,
       "num": 476479,
       "word": "孙龙进决赛",
       "onboard_time": 1710595115,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 472835,
-      "num": 395554,
-      "word": "罗翔谈未成年人杀人埋尸案",
-      "onboard_time": 1710600759,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 472223,
@@ -1161,6 +1161,14 @@
       "onboard_time": 1710517599,
       "rank": 21,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 326712,
+      "num": 326712,
+      "word": "何悯鸿向渣男下跪",
+      "onboard_time": 1710602136,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 326589,
@@ -1779,6 +1787,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 222903,
+      "num": 1257785,
+      "word": "有一种意境叫中式美学",
+      "onboard_time": 1710600578,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221926,
       "num": 221926,
       "word": "珠帘玉幕官配",
@@ -1883,12 +1899,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210618,
-      "num": 1257785,
-      "word": "有一种意境叫中式美学",
-      "onboard_time": 1710600578,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 211048,
+      "num": 211048,
+      "word": "TTG 张凯",
+      "onboard_time": 1710602255,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 208768,
@@ -2299,12 +2315,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 180505,
+      "num": 180505,
+      "word": "宋茜丁禹兮同框路透",
+      "onboard_time": 1710602920,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179576,
       "num": 179576,
       "word": "王楚钦说守住半区最值得高兴",
       "onboard_time": 1710601779,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178915,
+      "num": 178915,
+      "word": "文韬三十岁生日大片",
+      "onboard_time": 1710602077,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 176295,
@@ -2393,6 +2425,14 @@
       "onboard_time": 1710574353,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164731,
+      "num": 164731,
+      "word": "洽洽 绘旅人",
+      "onboard_time": 1710602555,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 164595,
@@ -2499,6 +2539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153700,
+      "num": 153700,
+      "word": "枭起青壤",
+      "onboard_time": 1710603039,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153339,
       "num": 153339,
       "word": "到底多少度算高度近视",
@@ -2561,6 +2609,14 @@
       "onboard_time": 1710557072,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 149850,
+      "num": 149850,
+      "word": "张雨绮出道以来的颜值变化",
+      "onboard_time": 1710602858,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 148948,
@@ -2737,14 +2793,6 @@
       "onboard_time": 1710585214,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 129391,
-      "num": 129391,
-      "word": "文韬三十岁生日大片",
-      "onboard_time": 1710602077,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 128663,
@@ -2963,6 +3011,14 @@
       "category": "社会新闻,汽车"
     },
     {
+      "raw_hot": 87583,
+      "num": 231183,
+      "word": "马面裙订单量同比增841%",
+      "onboard_time": 1710600397,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 85490,
       "num": 85490,
       "word": "王楚钦11比1",
@@ -2977,14 +3033,6 @@
       "onboard_time": 1710560257,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 80967,
-      "num": 231183,
-      "word": "马面裙订单量同比增841%",
-      "onboard_time": 1710600397,
-      "rank": 29,
-      "category": "时尚"
     },
     {
       "raw_hot": 73565,
@@ -3151,6 +3199,9 @@
     },
     {
       "word": "#培育发展新质生产力的新动能#"
+    },
+    {
+      "word": "#点亮人类文明美好图景#"
     }
   ]
 }
