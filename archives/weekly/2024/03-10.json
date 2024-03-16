@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710545651029,
+  "endTime": 1710551409997,
   "band_list": [
     {
       "raw_hot": 10990895,
@@ -1097,6 +1097,14 @@
       "onboard_time": 1710343774,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1217240,
+      "num": 1217240,
+      "word": "爸爸退休返聘年薪12万",
+      "onboard_time": 1710543806,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1214921,
@@ -2411,14 +2419,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 764944,
-      "num": 764944,
-      "word": "爸爸退休返聘年薪12万",
-      "onboard_time": 1710543806,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 764028,
       "num": 555507,
       "word": "高君雨同学发声",
@@ -2929,6 +2929,14 @@
       "onboard_time": 1710112825,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 662822,
+      "num": 662822,
+      "word": "官方通报199元4天桂林低价游情况",
+      "onboard_time": 1710548009,
+      "rank": 5,
+      "category": "旅游"
     },
     {
       "raw_hot": 662550,
@@ -3987,6 +3995,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 531597,
+      "num": 268834,
+      "word": "有一种腰痛是癌症的信号",
+      "onboard_time": 1710548792,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 531159,
       "num": 531159,
       "word": "张颂文曾舜晞买菜路透",
@@ -4771,6 +4787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464744,
+      "num": 464744,
+      "word": "315晚会省流版",
+      "onboard_time": 1710518195,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 464454,
       "num": 334889,
       "word": "TikTok禁令生成法律概率降低",
@@ -4928,14 +4952,6 @@
       "word": "10岁小孩哥捡到一个5岁萌娃",
       "onboard_time": 1710463837,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 445950,
-      "num": 438895,
-      "word": "315晚会省流版",
-      "onboard_time": 1710518195,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -5281,6 +5297,14 @@
       "onboard_time": 1710202774,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 417075,
+      "num": 417075,
+      "word": "宝马就315曝光道歉",
+      "onboard_time": 1710545726,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 416496,
@@ -5763,6 +5787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380745,
+      "num": 380745,
+      "word": "省考",
+      "onboard_time": 1710547951,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 380434,
       "num": 380434,
       "word": "婆婆把房屋面积精确到小数点",
@@ -6089,6 +6121,14 @@
       "onboard_time": 1710223352,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 358740,
+      "num": 358740,
+      "word": "宝马表示将承担所有维修费用",
+      "onboard_time": 1710545547,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 358576,
@@ -6955,6 +6995,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 308886,
+      "num": 308886,
+      "word": "一图看懂315晚会",
+      "onboard_time": 1710549513,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308780,
       "num": 308780,
       "word": "Dior马面裙事件",
@@ -7147,6 +7195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301422,
+      "num": 301422,
+      "word": "淀粉肠",
+      "onboard_time": 1710549633,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 301318,
       "num": 575520,
       "word": "柯基在我国警犬界也有姓名了",
@@ -7177,6 +7233,14 @@
       "onboard_time": 1710054749,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 300353,
+      "num": 300353,
+      "word": "对抗抑郁的最佳运动",
+      "onboard_time": 1710543806,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 300329,
@@ -8075,6 +8139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 261207,
+      "num": 261207,
+      "word": "大学生独自处理双亲去世",
+      "onboard_time": 1710519633,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 260838,
       "num": 260838,
       "word": "王梓薇连续三四次被换角",
@@ -8201,6 +8273,14 @@
       "onboard_time": 1710214469,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 256241,
+      "num": 256241,
+      "word": "听花酒道歉",
+      "onboard_time": 1710548851,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256215,
@@ -8857,6 +8937,14 @@
       "onboard_time": 1710239492,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 239078,
+      "num": 239078,
+      "word": "田曦薇麦粒肿",
+      "onboard_time": 1710549033,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 238925,
@@ -9563,14 +9651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221939,
-      "num": 181198,
-      "word": "大学生独自处理双亲去世",
-      "onboard_time": 1710519633,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 221640,
       "num": 221640,
       "word": "出国后发现白人有白人的卷法",
@@ -9657,6 +9737,14 @@
       "onboard_time": 1710334472,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 219724,
+      "num": 187164,
+      "word": "栏目编导称已停止与马卉合作",
+      "onboard_time": 1710550953,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 219562,
@@ -9825,6 +9913,14 @@
       "onboard_time": 1710144391,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216345,
+      "num": 216345,
+      "word": "315晚会点名企业致歉合集",
+      "onboard_time": 1710549815,
+      "rank": 25,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 216027,
@@ -10499,6 +10595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204760,
+      "num": 204760,
+      "word": "一娃被卡全幼儿园的娃都见了偶像",
+      "onboard_time": 1710549992,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204732,
       "num": 204732,
       "word": "网信办整治网络主播摆拍卖惨内容",
@@ -10867,6 +10971,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 199254,
+      "num": 199254,
+      "word": "加沙物资领取点遭袭56死300伤",
+      "onboard_time": 1710548554,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 199219,
       "num": 199219,
       "word": "林俊杰talking",
@@ -11179,20 +11291,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 196026,
-      "num": 196026,
-      "word": "对抗抑郁的最佳运动",
-      "onboard_time": 1710543806,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 195602,
       "num": 195602,
       "word": "气得朱梓骁想拿鸡爪挠纪凌尘",
       "onboard_time": 1710180978,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195451,
+      "num": 195451,
+      "word": "韩语版知否",
+      "onboard_time": 1710550652,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 195315,
@@ -11803,6 +11915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 186890,
+      "num": 186890,
+      "word": "连打喷嚏又鼻痒流涕或是花粉过敏",
+      "onboard_time": 1710550953,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 186867,
       "num": 186867,
       "word": "赵丽颖再演女将军",
@@ -11921,6 +12041,14 @@
       "onboard_time": 1710055589,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 185688,
+      "num": 185688,
+      "word": "陈奕迅额头",
+      "onboard_time": 1710547229,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 185687,
@@ -12537,6 +12665,14 @@
       "onboard_time": 1710167734,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 174775,
+      "num": 174775,
+      "word": "听花酒发布声明",
+      "onboard_time": 1710550233,
+      "rank": 35,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 174759,
@@ -14675,6 +14811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142030,
+      "num": 142030,
+      "word": "陈楚生送歌迷30斤巧克力",
+      "onboard_time": 1710550233,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141964,
       "num": 141964,
       "word": "SpaceX星舰返回大气层后信号丢失",
@@ -14889,6 +15033,14 @@
       "onboard_time": 1710150031,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 138869,
+      "num": 138869,
+      "word": "到底多少度算高度近视",
+      "onboard_time": 1710548370,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 138764,
@@ -15145,6 +15297,14 @@
       "onboard_time": 1710052830,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 135649,
+      "num": 135649,
+      "word": "我爸又买垃圾回来了",
+      "onboard_time": 1710549573,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 135364,
@@ -15417,6 +15577,14 @@
       "onboard_time": 1710333272,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131893,
+      "num": 131893,
+      "word": "315就该较真",
+      "onboard_time": 1710549933,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131756,
@@ -15841,6 +16009,14 @@
       "onboard_time": 1710066931,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124104,
+      "num": 124104,
+      "word": "福原爱说和江宏杰共同养育孩子",
+      "onboard_time": 1710547229,
+      "rank": 46,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 123983,
@@ -16355,6 +16531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113775,
+      "num": 113775,
+      "word": "听花酒称专利并非添加薄荷或薄荷提取物",
+      "onboard_time": 1710550591,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113695,
       "num": 113695,
       "word": "电影可怜的东西",
@@ -16763,6 +16947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 101572,
+      "num": 101572,
+      "word": "2024公务员联考逾450万人参加",
+      "onboard_time": 1710551373,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 100338,
       "num": 100338,
       "word": "TVB发英雄帖群星致敬金庸",
@@ -16977,6 +17169,14 @@
       "onboard_time": 1710135573,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92742,
+      "num": 124540,
+      "word": "宝马大力销售问题车型",
+      "onboard_time": 1710546387,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92730,
@@ -17289,14 +17489,6 @@
       "onboard_time": 1710096557,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 72834,
-      "num": 84604,
-      "word": "宝马表示将承担所有维修费用",
-      "onboard_time": 1710545547,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 72832,
