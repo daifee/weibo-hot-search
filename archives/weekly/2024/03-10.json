@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710598537275,
+  "endTime": 1710599661746,
   "band_list": [
     {
       "raw_hot": 10990895,
@@ -723,6 +723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1600358,
+      "num": 1600358,
+      "word": "威廉王子修图风波后首谈凯特王妃",
+      "onboard_time": 1710596376,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1580225,
       "num": 1580225,
       "word": "外卖黑勺是最脏的",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1710224490,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1263619,
-      "num": 1263619,
-      "word": "威廉王子修图风波后首谈凯特王妃",
-      "onboard_time": 1710596376,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1250055,
@@ -2707,6 +2707,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 767285,
+      "num": 363047,
+      "word": "家庭资产400万怎么才能躺平",
+      "onboard_time": 1710598418,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 764028,
       "num": 555507,
       "word": "高君雨同学发声",
@@ -3032,6 +3040,14 @@
       "word": "林诗栋3比1樊振东",
       "onboard_time": 1710224728,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 706193,
+      "num": 706193,
+      "word": "孙龙世锦赛夺金",
+      "onboard_time": 1710598235,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -3907,14 +3923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 579268,
-      "num": 579268,
-      "word": "孙龙世锦赛夺金",
-      "onboard_time": 1710598235,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 578486,
       "num": 578486,
       "word": "ChatGPT有身体了",
@@ -4153,6 +4161,14 @@
       "onboard_time": 1710171690,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 557691,
+      "num": 557691,
+      "word": "李菲儿向锦超道歉",
+      "onboard_time": 1710596918,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 557010,
@@ -4443,14 +4459,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 531475,
-      "num": 531475,
-      "word": "李菲儿向锦超道歉",
-      "onboard_time": 1710596918,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 531159,
       "num": 531159,
       "word": "张颂文曾舜晞买菜路透",
@@ -4649,6 +4657,14 @@
       "onboard_time": 1710597097,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 515405,
+      "num": 442439,
+      "word": "父亲希望AI复活乔任梁视频尽快下架",
+      "onboard_time": 1710599379,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 515358,
@@ -5075,6 +5091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 486062,
+      "num": 486062,
+      "word": "孙颖莎说女队水平在伯仲之间",
+      "onboard_time": 1710597097,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 485820,
       "num": 446887,
       "word": "宁波女子洗车竟被店员洗公仔擦鞋",
@@ -5153,14 +5177,6 @@
       "onboard_time": 1710560799,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 477424,
-      "num": 477424,
-      "word": "孙颖莎说女队水平在伯仲之间",
-      "onboard_time": 1710597097,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 477407,
@@ -5540,7 +5556,7 @@
     },
     {
       "raw_hot": 449088,
-      "num": 324442,
+      "num": 359711,
       "word": "近十年都没有涨过价的东西",
       "onboard_time": 1710594637,
       "rank": 21,
@@ -5649,6 +5665,14 @@
       "onboard_time": 1710293071,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442760,
+      "num": 442760,
+      "word": "迪丽热巴北京出发进组路透",
+      "onboard_time": 1710598055,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 442695,
@@ -5945,6 +5969,14 @@
       "onboard_time": 1710302676,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419491,
+      "num": 419491,
+      "word": "鞠婧祎的脸颊肉",
+      "onboard_time": 1710599379,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 418528,
@@ -6265,14 +6297,6 @@
       "onboard_time": 1710293071,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 396663,
-      "num": 299200,
-      "word": "家庭资产400万怎么才能躺平",
-      "onboard_time": 1710598418,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 395481,
@@ -6681,6 +6705,14 @@
       "onboard_time": 1710409715,
       "rank": 16,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 372227,
+      "num": 372227,
+      "word": "赫海",
+      "onboard_time": 1710597637,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 371290,
@@ -7891,6 +7923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 308395,
+      "num": 308395,
+      "word": "王濛首次讲述原生家庭",
+      "onboard_time": 1710598658,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308164,
       "num": 308164,
       "word": "男子在同学婚礼上刮刮乐中奖10万",
@@ -8459,6 +8499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 286939,
+      "num": 286939,
+      "word": "iPhone相机拍照说明书",
+      "onboard_time": 1710597637,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 286671,
       "num": 286671,
       "word": "花间令装死女和死装男",
@@ -8585,14 +8633,6 @@
       "onboard_time": 1710227193,
       "rank": 30,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 279268,
-      "num": 279268,
-      "word": "赫海",
-      "onboard_time": 1710597637,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 279174,
@@ -9171,6 +9211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260964,
+      "num": 260964,
+      "word": "你们有名字羞耻症吗",
+      "onboard_time": 1710597097,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 260838,
       "num": 260838,
       "word": "王梓薇连续三四次被换角",
@@ -9385,14 +9433,6 @@
       "onboard_time": 1710484715,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 254725,
-      "num": 254725,
-      "word": "迪丽热巴北京出发进组路透",
-      "onboard_time": 1710598055,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 254677,
@@ -9697,14 +9737,6 @@
       "onboard_time": 1710592713,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 248103,
-      "num": 248103,
-      "word": "你们有名字羞耻症吗",
-      "onboard_time": 1710597097,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 248067,
@@ -11219,6 +11251,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 216115,
+      "num": 216115,
+      "word": "2024短道速滑世锦赛",
+      "onboard_time": 1710599137,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216027,
       "num": 216027,
       "word": "谢谢你温暖我 八倍速恋爱",
@@ -11393,6 +11433,14 @@
       "onboard_time": 1710399211,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213365,
+      "num": 213365,
+      "word": "黄大宪PEN",
+      "onboard_time": 1710599259,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 213304,
@@ -11833,14 +11881,6 @@
       "onboard_time": 1710378630,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 206881,
-      "num": 206881,
-      "word": "iPhone相机拍照说明书",
-      "onboard_time": 1710597637,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 206751,

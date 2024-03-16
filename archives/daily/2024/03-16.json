@@ -1,6 +1,6 @@
 {
   "startTime": 1710519741451,
-  "endTime": 1710598537275,
+  "endTime": 1710599661746,
   "band_list": [
     {
       "raw_hot": 9137269,
@@ -123,6 +123,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1600358,
+      "num": 1600358,
+      "word": "威廉王子修图风波后首谈凯特王妃",
+      "onboard_time": 1710596376,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1468668,
       "num": 1468668,
       "word": "杀害同学3名男生均13岁一人为同桌",
@@ -153,14 +161,6 @@
       "onboard_time": 1710569132,
       "rank": 18,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1263619,
-      "num": 1263619,
-      "word": "威廉王子修图风波后首谈凯特王妃",
-      "onboard_time": 1710596376,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1224989,
@@ -379,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 767285,
+      "num": 363047,
+      "word": "家庭资产400万怎么才能躺平",
+      "onboard_time": 1710598418,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 752923,
       "num": 752923,
       "word": "河南省考 图推全不会",
@@ -400,6 +408,14 @@
       "word": "陈梦王曼昱夺冠",
       "onboard_time": 1710595657,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 706193,
+      "num": 706193,
+      "word": "孙龙世锦赛夺金",
+      "onboard_time": 1710598235,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -491,14 +507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 579268,
-      "num": 579268,
-      "word": "孙龙世锦赛夺金",
-      "onboard_time": 1710598235,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 576244,
       "num": 576244,
       "word": "西安女子去天水吃麻辣烫被宠上天",
@@ -547,6 +555,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 557691,
+      "num": 557691,
+      "word": "李菲儿向锦超道歉",
+      "onboard_time": 1710596918,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 553965,
       "num": 553965,
       "word": "河南申论",
@@ -587,14 +603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 531475,
-      "num": 531475,
-      "word": "李菲儿向锦超道歉",
-      "onboard_time": 1710596918,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 529655,
       "num": 529655,
       "word": "王诗龄与同学合照",
@@ -609,6 +617,14 @@
       "onboard_time": 1710597097,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 515405,
+      "num": 442439,
+      "word": "父亲希望AI复活乔任梁视频尽快下架",
+      "onboard_time": 1710599379,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 508770,
@@ -659,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 493868,
+      "num": 493868,
+      "word": "凯特",
+      "onboard_time": 1710599137,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 489228,
       "num": 489228,
       "word": "省考图推 不吱声",
@@ -680,6 +704,14 @@
       "word": "王楚钦vsF勒布伦",
       "onboard_time": 1710592895,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 486062,
+      "num": 486062,
+      "word": "孙颖莎说女队水平在伯仲之间",
+      "onboard_time": 1710597097,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -705,14 +737,6 @@
       "onboard_time": 1710560799,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 477424,
-      "num": 477424,
-      "word": "孙颖莎说女队水平在伯仲之间",
-      "onboard_time": 1710597097,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 476479,
@@ -788,7 +812,7 @@
     },
     {
       "raw_hot": 449088,
-      "num": 324442,
+      "num": 359711,
       "word": "近十年都没有涨过价的东西",
       "onboard_time": 1710594637,
       "rank": 21,
@@ -809,6 +833,14 @@
       "onboard_time": 1710572071,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 442760,
+      "num": 442760,
+      "word": "迪丽热巴北京出发进组路透",
+      "onboard_time": 1710598055,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 441351,
@@ -848,6 +880,14 @@
       "word": "唐晓天赵露思身高差",
       "onboard_time": 1710580955,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 419491,
+      "num": 419491,
+      "word": "鞠婧祎的脸颊肉",
+      "onboard_time": 1710599379,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -907,14 +947,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 396663,
-      "num": 299200,
-      "word": "家庭资产400万怎么才能躺平",
-      "onboard_time": 1710598418,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 394725,
       "num": 394725,
       "word": "常识 我没有常识",
@@ -969,6 +1001,14 @@
       "onboard_time": 1710552815,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 372227,
+      "num": 372227,
+      "word": "赫海",
+      "onboard_time": 1710597637,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 371265,
@@ -1123,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308395,
+      "num": 308395,
+      "word": "王濛首次讲述原生家庭",
+      "onboard_time": 1710598658,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307696,
       "num": 307696,
       "word": "梅菜扣肉 槽头肉",
@@ -1227,6 +1275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 286939,
+      "num": 286939,
+      "word": "iPhone相机拍照说明书",
+      "onboard_time": 1710597637,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 286671,
       "num": 286671,
       "word": "花间令装死女和死装男",
@@ -1249,14 +1305,6 @@
       "onboard_time": 1710505478,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 279268,
-      "num": 279268,
-      "word": "赫海",
-      "onboard_time": 1710597637,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 278066,
@@ -1347,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260964,
+      "num": 260964,
+      "word": "你们有名字羞耻症吗",
+      "onboard_time": 1710597097,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 260755,
       "num": 260755,
       "word": "315预制菜",
@@ -1411,14 +1467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 254725,
-      "num": 254725,
-      "word": "迪丽热巴北京出发进组路透",
-      "onboard_time": 1710598055,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 254677,
       "num": 254677,
       "word": "丁程鑫看许凯虞书欣互动的表情",
@@ -1473,14 +1521,6 @@
       "onboard_time": 1710592713,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 248103,
-      "num": 248103,
-      "word": "你们有名字羞耻症吗",
-      "onboard_time": 1710597097,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 247335,
@@ -1715,6 +1755,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 216115,
+      "num": 216115,
+      "word": "2024短道速滑世锦赛",
+      "onboard_time": 1710599137,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215477,
       "num": 215477,
       "word": "高端自助餐不火了",
@@ -1729,6 +1777,14 @@
       "onboard_time": 1710562838,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 213365,
+      "num": 213365,
+      "word": "黄大宪PEN",
+      "onboard_time": 1710599259,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 212910,
@@ -1801,14 +1857,6 @@
       "onboard_time": 1710500800,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206881,
-      "num": 206881,
-      "word": "iPhone相机拍照说明书",
-      "onboard_time": 1710597637,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 206751,

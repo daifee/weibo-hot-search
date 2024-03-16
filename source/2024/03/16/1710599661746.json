@@ -1,0 +1,410 @@
+{
+  "runTime": 1710599661746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1600358,
+        "num": 1600358,
+        "word": "威廉王子修图风波后首谈凯特王妃",
+        "onboard_time": 1710596376,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1255671,
+        "num": 1255671,
+        "word": "吴镇宇被张睿气走了",
+        "onboard_time": 1710594998,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58841,
+        "num": 952443,
+        "word": "诚信是安全之基信心之源",
+        "onboard_time": 1710586656,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786010,
+        "num": 786010,
+        "word": "中医从不提倡多喝水",
+        "onboard_time": 1710591093,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 756779,
+        "num": 756779,
+        "word": "郑合惠子 不要捧一踩一",
+        "onboard_time": 1710591093,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 706193,
+        "num": 706193,
+        "word": "孙龙世锦赛夺金",
+        "onboard_time": 1710598235,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 557691,
+        "num": 557691,
+        "word": "李菲儿向锦超道歉",
+        "onboard_time": 1710596918,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493868,
+        "num": 493868,
+        "word": "凯特",
+        "onboard_time": 1710599137,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486062,
+        "num": 486062,
+        "word": "孙颖莎说女队水平在伯仲之间",
+        "onboard_time": 1710597097,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 442760,
+        "num": 442760,
+        "word": "迪丽热巴北京出发进组路透",
+        "onboard_time": 1710598055,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 939786,
+        "num": 442460,
+        "word": "江苏淮安一烧烤店发生爆炸",
+        "onboard_time": 1710592414,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515405,
+        "num": 442439,
+        "word": "父亲希望AI复活乔任梁视频尽快下架",
+        "onboard_time": 1710599379,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442095,
+        "num": 442095,
+        "word": "唐嫣赫本公主风",
+        "onboard_time": 1710593013,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 435419,
+        "num": 435419,
+        "word": "你好星期六预告",
+        "onboard_time": 1710594335,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427726,
+        "num": 427726,
+        "word": "所以明天到底该吃什么",
+        "onboard_time": 1710582455,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 419491,
+        "num": 419491,
+        "word": "鞠婧祎的脸颊肉",
+        "onboard_time": 1710599379,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397813,
+        "num": 397813,
+        "word": "申论",
+        "onboard_time": 1710578976,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 397344,
+        "num": 397344,
+        "word": "陈梦王曼昱夺冠",
+        "onboard_time": 1710595657,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372227,
+        "num": 372227,
+        "word": "赫海",
+        "onboard_time": 1710597637,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 372139,
+        "num": 372139,
+        "word": "王艺迪说自己整体能力不够",
+        "onboard_time": 1710597097,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 767285,
+        "num": 363047,
+        "word": "家庭资产400万怎么才能躺平",
+        "onboard_time": 1710598418,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 430048,
+        "num": 359711,
+        "word": "近十年都没有涨过价的东西",
+        "onboard_time": 1710594637,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 308395,
+        "num": 308395,
+        "word": "王濛首次讲述原生家庭",
+        "onboard_time": 1710598658,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307026,
+        "num": 307026,
+        "word": "billkin演唱会",
+        "onboard_time": 1710594452,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 286939,
+        "num": 286939,
+        "word": "iPhone相机拍照说明书",
+        "onboard_time": 1710597637,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 261493,
+        "num": 261493,
+        "word": "孙龙进决赛",
+        "onboard_time": 1710595115,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260964,
+        "num": 260964,
+        "word": "你们有名字羞耻症吗",
+        "onboard_time": 1710597097,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257595,
+        "num": 257595,
+        "word": "雅江山火",
+        "onboard_time": 1710586114,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231209,
+        "num": 231209,
+        "word": "中式教育是一种很神奇的东西",
+        "onboard_time": 1710597338,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230877,
+        "num": 230877,
+        "word": "为什么爸妈从来没想过给女儿买房",
+        "onboard_time": 1710579453,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229384,
+        "num": 229384,
+        "word": "花间令强吻戏",
+        "onboard_time": 1710594037,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228578,
+        "num": 228578,
+        "word": "王艺迪不再适合参与巴黎奥运女单竞争",
+        "onboard_time": 1710575190,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221648,
+        "num": 221648,
+        "word": "江苏爆炸烧烤店店主回应",
+        "onboard_time": 1710594156,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216115,
+        "num": 216115,
+        "word": "2024短道速滑世锦赛",
+        "onboard_time": 1710599137,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213365,
+        "num": 213365,
+        "word": "黄大宪PEN",
+        "onboard_time": 1710599259,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209242,
+        "num": 209242,
+        "word": "545名森林消防员奔赴扑救山火",
+        "onboard_time": 1710593494,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207286,
+        "num": 207286,
+        "word": "朱劲草顾茉莉离婚",
+        "onboard_time": 1710597817,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205161,
+        "num": 205161,
+        "word": "李菲儿锦超争执",
+        "onboard_time": 1710596316,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198236,
+        "num": 198236,
+        "word": "工作不是生活的全部",
+        "onboard_time": 1710597156,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197018,
+        "num": 197018,
+        "word": "红莲 赤练",
+        "onboard_time": 1710591157,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 196619,
+        "num": 196619,
+        "word": "多个上门按摩APP被曝涉黄",
+        "onboard_time": 1710575253,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 187836,
+        "num": 187836,
+        "word": "何悯鸿欢乐颂5更癫了",
+        "onboard_time": 1710595535,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176924,
+        "num": 176924,
+        "word": "高端自助餐不火了",
+        "onboard_time": 1710595175,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160704,
+        "num": 160704,
+        "word": "星穹铁道演唱会官宣",
+        "onboard_time": 1710598418,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160661,
+        "num": 160661,
+        "word": "没想到大学生成了最大的受害者",
+        "onboard_time": 1710585935,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156973,
+        "num": 156973,
+        "word": "江苏淮安通报一餐厅发生燃爆",
+        "onboard_time": 1710596316,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155724,
+        "num": 155724,
+        "word": "成都的天",
+        "onboard_time": 1710585035,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154023,
+        "num": 154023,
+        "word": "夸父炸串回应",
+        "onboard_time": 1710569132,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150498,
+        "num": 150498,
+        "word": "林俊杰杭州演唱会",
+        "onboard_time": 1710585333,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142996,
+        "num": 142996,
+        "word": "RW对战TTG",
+        "onboard_time": 1710596557,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视质量强国建设#"
+    }
+  }
+}
