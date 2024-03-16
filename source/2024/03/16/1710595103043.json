@@ -1,0 +1,410 @@
+{
+  "runTime": 1710595103043,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2181978,
+        "num": 2181978,
+        "word": "江苏淮安一烧烤店发生爆炸",
+        "onboard_time": 1710592414,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 866107,
+        "num": 866107,
+        "word": "雅江山火",
+        "onboard_time": 1710586114,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47498,
+        "num": 783371,
+        "word": "诚信是安全之基信心之源",
+        "onboard_time": 1710586656,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1319425,
+        "num": 764457,
+        "word": "郑合惠子 不要捧一踩一",
+        "onboard_time": 1710591093,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1236017,
+        "num": 752353,
+        "word": "中医从不提倡多喝水",
+        "onboard_time": 1710591093,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 734756,
+        "num": 734756,
+        "word": "唐嫣赫本公主风",
+        "onboard_time": 1710593013,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 719569,
+        "num": 719569,
+        "word": "成都的天",
+        "onboard_time": 1710585035,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 695405,
+        "num": 695405,
+        "word": "所以明天到底该吃什么",
+        "onboard_time": 1710582455,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 639959,
+        "num": 639959,
+        "word": "红莲 赤练",
+        "onboard_time": 1710591157,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 617928,
+        "num": 617928,
+        "word": "你好星期六",
+        "onboard_time": 1710591213,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 546980,
+        "num": 546980,
+        "word": "申论",
+        "onboard_time": 1710578976,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 486651,
+        "num": 486651,
+        "word": "王楚钦vsF勒布伦",
+        "onboard_time": 1710592895,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403529,
+        "num": 403529,
+        "word": "没想到大学生成了最大的受害者",
+        "onboard_time": 1710585935,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 375941,
+        "num": 375941,
+        "word": "多个上门按摩APP被曝涉黄",
+        "onboard_time": 1710575253,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 371937,
+        "num": 371937,
+        "word": "王艺迪不再适合参与巴黎奥运女单竞争",
+        "onboard_time": 1710575190,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334633,
+        "num": 334633,
+        "word": "江苏爆炸烧烤店店主回应",
+        "onboard_time": 1710594156,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316961,
+        "num": 316961,
+        "word": "夸父炸串回应",
+        "onboard_time": 1710569132,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 316347,
+        "num": 316347,
+        "word": "545名森林消防员奔赴扑救山火",
+        "onboard_time": 1710593494,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267928,
+        "num": 267928,
+        "word": "原来月休四天不算是单休",
+        "onboard_time": 1710588213,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260557,
+        "num": 260557,
+        "word": "MRC对战ZS.Lin",
+        "onboard_time": 1710594213,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 345536,
+        "num": 260310,
+        "word": "为什么爸妈从来没想过给女儿买房",
+        "onboard_time": 1710579453,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286258,
+        "num": 260065,
+        "word": "近十年都没有涨过价的东西",
+        "onboard_time": 1710594637,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259486,
+        "num": 259486,
+        "word": "边伯贤粉丝 生菜发夹",
+        "onboard_time": 1710588456,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248129,
+        "num": 248129,
+        "word": "星穹铁道2.1版本前瞻",
+        "onboard_time": 1710592713,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247580,
+        "num": 247580,
+        "word": "你好星期六预告",
+        "onboard_time": 1710594335,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245531,
+        "num": 245531,
+        "word": "花间令强吻戏",
+        "onboard_time": 1710594037,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232619,
+        "num": 232619,
+        "word": "欢乐颂5",
+        "onboard_time": 1710589416,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230936,
+        "num": 230936,
+        "word": "billkin演唱会",
+        "onboard_time": 1710594452,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 230695,
+        "num": 230695,
+        "word": "郑合惠子发声",
+        "onboard_time": 1710573992,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202655,
+        "num": 202655,
+        "word": "315",
+        "onboard_time": 1710565894,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256201,
+        "num": 201718,
+        "word": "第一次见像海一样的山",
+        "onboard_time": 1710594396,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 209846,
+        "num": 201636,
+        "word": "砂金wink",
+        "onboard_time": 1710594694,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200303,
+        "num": 200303,
+        "word": "水哥满级人类",
+        "onboard_time": 1710593195,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189126,
+        "num": 189126,
+        "word": "王楚钦4比1F勒布伦",
+        "onboard_time": 1710594574,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186651,
+        "num": 186651,
+        "word": "星穹铁道 黄泉",
+        "onboard_time": 1710594873,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177422,
+        "num": 177422,
+        "word": "四川交警通知国道318线临时交通管制",
+        "onboard_time": 1710590493,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174749,
+        "num": 174749,
+        "word": "广东省考难度",
+        "onboard_time": 1710591455,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164787,
+        "num": 164787,
+        "word": "省考行测答案",
+        "onboard_time": 1710581614,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164595,
+        "num": 164595,
+        "word": "无限超越班",
+        "onboard_time": 1710593973,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164217,
+        "num": 164217,
+        "word": "泰容 大家要一起幸福",
+        "onboard_time": 1710591871,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164070,
+        "num": 164070,
+        "word": "BLG对战WBG",
+        "onboard_time": 1710591277,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161667,
+        "num": 161667,
+        "word": "吴镇宇被张睿气走了",
+        "onboard_time": 1710594998,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159046,
+        "num": 161543,
+        "word": "女队主力球员谈奥运选拔规则优化",
+        "onboard_time": 1710594093,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161530,
+        "num": 161530,
+        "word": "独居后终于理解了电视的意义",
+        "onboard_time": 1710585935,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159656,
+        "num": 159656,
+        "word": "赵丽颖的选角眼光",
+        "onboard_time": 1710591935,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157130,
+        "num": 157130,
+        "word": "尚新月亲了赵露思",
+        "onboard_time": 1710593793,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150519,
+        "num": 150519,
+        "word": "虞书欣豌豆公主的床",
+        "onboard_time": 1710586416,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148490,
+        "num": 148490,
+        "word": "多家315曝光公司被调查",
+        "onboard_time": 1710584796,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148393,
+        "num": 148393,
+        "word": "田柾国weverse更新",
+        "onboard_time": 1710590493,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141029,
+        "num": 141029,
+        "word": "花间令 大手包小脸",
+        "onboard_time": 1710592652,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视质量强国建设#"
+    }
+  }
+}

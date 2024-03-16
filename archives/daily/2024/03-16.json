@@ -1,6 +1,6 @@
 {
   "startTime": 1710519741451,
-  "endTime": 1710593073560,
+  "endTime": 1710595103043,
   "band_list": [
     {
       "raw_hot": 9137269,
@@ -32,6 +32,14 @@
       "word": "13岁初中生被同学杀害三人被刑拘",
       "onboard_time": 1710563136,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2181978,
+      "num": 2181978,
+      "word": "江苏淮安一烧烤店发生爆炸",
+      "onboard_time": 1710592414,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -129,6 +137,14 @@
       "onboard_time": 1710569132,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1319425,
+      "num": 779902,
+      "word": "郑合惠子 不要捧一踩一",
+      "onboard_time": 1710591093,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 1224989,
@@ -331,14 +347,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 779902,
-      "num": 779902,
-      "word": "郑合惠子 不要捧一踩一",
-      "onboard_time": 1710591093,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 774046,
       "num": 401212,
       "word": "港媒报道肖战",
@@ -361,6 +369,14 @@
       "onboard_time": 1710559715,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 734756,
+      "num": 734756,
+      "word": "唐嫣赫本公主风",
+      "onboard_time": 1710593013,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 684832,
@@ -409,6 +425,22 @@
       "onboard_time": 1710484117,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 639959,
+      "num": 639959,
+      "word": "红莲 赤练",
+      "onboard_time": 1710591157,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 617928,
+      "num": 617928,
+      "word": "你好星期六",
+      "onboard_time": 1710591213,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 611804,
@@ -587,6 +619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 486651,
+      "num": 486651,
+      "word": "王楚钦vsF勒布伦",
+      "onboard_time": 1710592895,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 483109,
       "num": 426935,
       "word": "夫妻高层装防护栏不慎坠亡",
@@ -617,14 +657,6 @@
       "onboard_time": 1710562477,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 469395,
-      "num": 469395,
-      "word": "你好星期六",
-      "onboard_time": 1710591213,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 466732,
@@ -899,14 +931,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 343171,
-      "num": 343171,
-      "word": "红莲 赤练",
-      "onboard_time": 1710591157,
-      "rank": 24,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 342920,
       "num": 342920,
       "word": "花间令 恶女角色",
@@ -929,6 +953,14 @@
       "onboard_time": 1710512026,
       "rank": 18,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 334633,
+      "num": 334633,
+      "word": "江苏爆炸烧烤店店主回应",
+      "onboard_time": 1710594156,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333275,
@@ -977,6 +1009,14 @@
       "onboard_time": 1710563856,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 316347,
+      "num": 316347,
+      "word": "545名森林消防员奔赴扑救山火",
+      "onboard_time": 1710593494,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315705,
@@ -1091,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286258,
+      "num": 260065,
+      "word": "近十年都没有涨过价的东西",
+      "onboard_time": 1710594637,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 286124,
       "num": 286124,
       "word": "绝区零疯狂暗示",
@@ -1104,14 +1152,6 @@
       "word": "网络水军利用主板机随意更改IP",
       "onboard_time": 1710505478,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 278189,
-      "num": 278189,
-      "word": "江苏淮安一烧烤店发生爆炸",
-      "onboard_time": 1710592414,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -1203,6 +1243,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 260557,
+      "num": 260557,
+      "word": "MRC对战ZS.Lin",
+      "onboard_time": 1710594213,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 260046,
       "num": 260046,
       "word": "合肥女子在长沙坐拥87套房被查封",
@@ -1225,6 +1273,14 @@
       "onboard_time": 1710548851,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256201,
+      "num": 201718,
+      "word": "第一次见像海一样的山",
+      "onboard_time": 1710594396,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 256142,
@@ -1275,12 +1331,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248129,
+      "num": 248129,
+      "word": "星穹铁道2.1版本前瞻",
+      "onboard_time": 1710592713,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 247580,
+      "num": 247580,
+      "word": "你好星期六预告",
+      "onboard_time": 1710594335,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247335,
       "num": 247335,
       "word": "2024公务员联考逾450万人参加",
       "onboard_time": 1710551373,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 245531,
+      "num": 245531,
+      "word": "花间令强吻戏",
+      "onboard_time": 1710594037,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 242421,
@@ -1345,6 +1425,14 @@
       "onboard_time": 1710578494,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230936,
+      "num": 230936,
+      "word": "billkin演唱会",
+      "onboard_time": 1710594452,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 230235,
@@ -1467,14 +1555,6 @@
       "category": "社会新闻,互联网"
     },
     {
-      "raw_hot": 216230,
-      "num": 216230,
-      "word": "星穹铁道2.1版本前瞻",
-      "onboard_time": 1710592713,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 214164,
       "num": 214164,
       "word": "湖南省考 数量刮刮乐",
@@ -1489,6 +1569,14 @@
       "onboard_time": 1710566254,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209846,
+      "num": 201636,
+      "word": "砂金wink",
+      "onboard_time": 1710594694,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 208768,
@@ -1577,6 +1665,14 @@
       "onboard_time": 1710563378,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 200303,
+      "num": 200303,
+      "word": "水哥满级人类",
+      "onboard_time": 1710593195,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 200148,
@@ -1739,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189126,
+      "num": 189126,
+      "word": "王楚钦4比1F勒布伦",
+      "onboard_time": 1710594574,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188341,
       "num": 188341,
       "word": "克里斯回应TheShy粉丝",
@@ -1771,14 +1875,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 187948,
-      "num": 187948,
-      "word": "王楚钦vsF勒布伦",
-      "onboard_time": 1710592895,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 187810,
       "num": 187810,
       "word": "文韬努力作废但帅",
@@ -1801,6 +1897,14 @@
       "onboard_time": 1710550953,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 186651,
+      "num": 186651,
+      "word": "星穹铁道 黄泉",
+      "onboard_time": 1710594873,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 185688,
@@ -1939,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164595,
+      "num": 164595,
+      "word": "无限超越班",
+      "onboard_time": 1710593973,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162966,
       "num": 162966,
       "word": "天津市考 15个数量",
@@ -1977,6 +2089,30 @@
       "onboard_time": 1710551733,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 161667,
+      "num": 161667,
+      "word": "吴镇宇被张睿气走了",
+      "onboard_time": 1710594998,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159046,
+      "num": 161543,
+      "word": "女队主力球员谈奥运选拔规则优化",
+      "onboard_time": 1710594093,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 157130,
+      "num": 157130,
+      "word": "尚新月亲了赵露思",
+      "onboard_time": 1710593793,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 155770,
@@ -2089,14 +2225,6 @@
       "onboard_time": 1710587073,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147731,
-      "num": 147731,
-      "word": "唐嫣赫本公主风",
-      "onboard_time": 1710593013,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 147113,
