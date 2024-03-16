@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710628441703,
+  "endTime": 1710631104237,
   "band_list": [
     {
       "raw_hot": 1747609,
@@ -17,6 +17,14 @@
       "onboard_time": 1710599379,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 793742,
+      "num": 793742,
+      "word": "凯特王妃",
+      "onboard_time": 1710614780,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 734545,
@@ -91,14 +99,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 372422,
-      "num": 372422,
-      "word": "凯特王妃",
-      "onboard_time": 1710614780,
-      "rank": 3,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 364243,
       "num": 364243,
       "word": "郑合惠子 不要捧一踩一",
@@ -113,6 +113,14 @@
       "onboard_time": 1710594998,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356419,
+      "num": 84006,
+      "word": "西工大女教授公开名下研究生去向走红",
+      "onboard_time": 1710617478,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301999,
@@ -145,6 +153,14 @@
       "onboard_time": 1710593013,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 257656,
+      "num": 257656,
+      "word": "7旬夫妇住月租850元海景房养老",
+      "onboard_time": 1710621556,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248440,
@@ -185,6 +201,14 @@
       "onboard_time": 1710605850,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218824,
+      "num": 82640,
+      "word": "撒贝宁带龙凤胎出行",
+      "onboard_time": 1710625156,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 217292,
@@ -251,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173226,
+      "num": 81799,
+      "word": "马丽折扣区挑衣服",
+      "onboard_time": 1710629358,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171159,
       "num": 344232,
       "word": "林俊杰杭州演唱会6万人荧光棒浪接力",
@@ -265,14 +297,6 @@
       "onboard_time": 1710602920,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153384,
-      "num": 46502,
-      "word": "西工大女教授公开名下研究生去向走红",
-      "onboard_time": 1710617478,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152684,
@@ -329,14 +353,6 @@
       "onboard_time": 1710605430,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137119,
-      "num": 42520,
-      "word": "撒贝宁带龙凤胎出行",
-      "onboard_time": 1710625156,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 135091,
@@ -475,20 +491,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80964,
-      "num": 72459,
+      "raw_hot": 84805,
+      "num": 81105,
       "word": "尼格买提小时候曾被校园霸凌",
       "onboard_time": 1710615200,
       "rank": 13,
       "category": "艺人"
     },
     {
-      "raw_hot": 73794,
-      "num": 73794,
-      "word": "7旬夫妇住月租850元海景房养老",
-      "onboard_time": 1710621556,
+      "raw_hot": 72872,
+      "num": 72872,
+      "word": "一个竖放蛋糕引发的拉锯战",
+      "onboard_time": 1710629540,
       "rank": 17,
-      "category": "社会新闻"
+      "category": "美食"
+    },
+    {
+      "raw_hot": 65645,
+      "num": 65645,
+      "word": "付辛博万鹏cha了今天你要嫁给我",
+      "onboard_time": 1710617717,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 64553,
@@ -531,20 +555,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47179,
+      "num": 43415,
+      "word": "有一种氛围感叫春天",
+      "onboard_time": 1710630982,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 39757,
+      "num": 39757,
+      "word": "甘肃麻辣烫老板娘忙到十天瘦八斤",
+      "onboard_time": 1710630381,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 39203,
       "num": 143610,
       "word": "鞠婧祎杨枝甘露妆",
       "onboard_time": 1710612980,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 33865,
-      "num": 33865,
-      "word": "付辛博万鹏cha了今天你要嫁给我",
-      "onboard_time": 1710617717,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 19932,
