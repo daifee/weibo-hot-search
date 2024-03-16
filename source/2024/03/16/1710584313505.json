@@ -1,0 +1,410 @@
+{
+  "runTime": 1710584313505,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1404558,
+        "num": 1404558,
+        "word": "申论",
+        "onboard_time": 1710578976,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1279186,
+        "num": 1279186,
+        "word": "省考",
+        "onboard_time": 1710547951,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 51633,
+        "num": 1210978,
+        "word": "中国空间站在太空忙啥呢",
+        "onboard_time": 1710560257,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1147067,
+        "num": 1147067,
+        "word": "王艺迪不再适合参与巴黎奥运女单竞争",
+        "onboard_time": 1710575190,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 949387,
+        "num": 949387,
+        "word": "郑合惠子发声",
+        "onboard_time": 1710573992,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 934095,
+        "num": 934095,
+        "word": "多个上门按摩APP被曝涉黄",
+        "onboard_time": 1710575253,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 580806,
+        "num": 580806,
+        "word": "甘肃文旅喊话麻辣烫老板注意表情管理",
+        "onboard_time": 1710578852,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 560261,
+        "num": 560261,
+        "word": "省考行测答案",
+        "onboard_time": 1710581614,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133208,
+        "num": 553478,
+        "word": "小学生卡喉店铺老板冲出来20秒救人",
+        "onboard_time": 1710582635,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446274,
+        "num": 551532,
+        "word": "西安女子去天水吃麻辣烫被宠上天",
+        "onboard_time": 1710582635,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 573301,
+        "num": 551368,
+        "word": "冯小刚为养女庆18岁生日",
+        "onboard_time": 1710570573,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551133,
+        "num": 551133,
+        "word": "王艺迪vs陈幸同",
+        "onboard_time": 1710583234,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441895,
+        "num": 441895,
+        "word": "315",
+        "onboard_time": 1710565894,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424688,
+        "num": 424688,
+        "word": "唐晓天赵露思身高差",
+        "onboard_time": 1710580955,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386042,
+        "num": 386042,
+        "word": "夸父炸串回应",
+        "onboard_time": 1710569132,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 326759,
+        "num": 326759,
+        "word": "夫妻高层装防护栏不慎坠亡",
+        "onboard_time": 1710573573,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323947,
+        "num": 323947,
+        "word": "活死人小李结婚",
+        "onboard_time": 1710568837,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321822,
+        "num": 321822,
+        "word": "向佐三分之二半月板被切除",
+        "onboard_time": 1710574652,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314619,
+        "num": 314619,
+        "word": "所以明天到底该吃什么",
+        "onboard_time": 1710582455,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 298768,
+        "num": 298768,
+        "word": "有价无价",
+        "onboard_time": 1710581915,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 442679,
+        "num": 289196,
+        "word": "为什么爸妈从来没想过给女儿买房",
+        "onboard_time": 1710579453,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277571,
+        "num": 277571,
+        "word": "头像洁癖",
+        "onboard_time": 1710577292,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258832,
+        "num": 258832,
+        "word": "被小孩姐的发量伤到了",
+        "onboard_time": 1710580833,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256170,
+        "num": 256170,
+        "word": "陈梦vs王曼昱",
+        "onboard_time": 1710577772,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236704,
+        "num": 236704,
+        "word": "朱志鑫15岁综艺未公开片段",
+        "onboard_time": 1710583113,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230100,
+        "num": 230100,
+        "word": "马龙WTT首冠",
+        "onboard_time": 1710583295,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220987,
+        "num": 220987,
+        "word": "申论创新",
+        "onboard_time": 1710583412,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 207296,
+        "num": 207296,
+        "word": "花间令",
+        "onboard_time": 1710583234,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189830,
+        "num": 189830,
+        "word": "省考估分",
+        "onboard_time": 1710583715,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188130,
+        "num": 188130,
+        "word": "ENHYPEN上海签售",
+        "onboard_time": 1710583715,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266805,
+        "num": 187978,
+        "word": "龙宝宝取名捅了辰的窝吗",
+        "onboard_time": 1710583352,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187507,
+        "num": 187507,
+        "word": "王艺迪4比0陈幸同",
+        "onboard_time": 1710584133,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182993,
+        "num": 182993,
+        "word": "看了315晚会后不能吃的东西",
+        "onboard_time": 1710584254,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 181796,
+        "num": 181796,
+        "word": "古人结婚为什么要结发",
+        "onboard_time": 1710581554,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172797,
+        "num": 172797,
+        "word": "薛之谦重庆抢票",
+        "onboard_time": 1710581794,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171508,
+        "num": 171508,
+        "word": "王曼昱4比1陈梦",
+        "onboard_time": 1710581493,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169536,
+        "num": 169536,
+        "word": "河南申论",
+        "onboard_time": 1710578976,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164697,
+        "num": 164697,
+        "word": "徐正溪姑姑 汤臣一品",
+        "onboard_time": 1710551853,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152658,
+        "num": 152658,
+        "word": "孙颖莎陈梦王曼昱占据领先位置",
+        "onboard_time": 1710576273,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152230,
+        "num": 152230,
+        "word": "刚结婚老公开始算计我的嫁妆",
+        "onboard_time": 1710568234,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148853,
+        "num": 148853,
+        "word": "朴综星机场表情",
+        "onboard_time": 1710580054,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148115,
+        "num": 148115,
+        "word": "鸭血 甲醛",
+        "onboard_time": 1710556175,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147113,
+        "num": 147113,
+        "word": "周处除三害",
+        "onboard_time": 1710582934,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143101,
+        "num": 143101,
+        "word": "伊能静发长文谈儿子哈利",
+        "onboard_time": 1710574832,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135022,
+        "num": 135022,
+        "word": "猫和狗在失重状态下的对比",
+        "onboard_time": 1710577354,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 133707,
+        "num": 133707,
+        "word": "你还会喝茶百道吗",
+        "onboard_time": 1710569010,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126336,
+        "num": 126336,
+        "word": "行业标委会正研究是否制定淀粉肠国标",
+        "onboard_time": 1710582332,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123396,
+        "num": 123396,
+        "word": "樊振东王楚钦vs马龙林高远",
+        "onboard_time": 1710573992,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122845,
+        "num": 122845,
+        "word": "顾茉莉买的真包去哪儿了",
+        "onboard_time": 1710578494,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122468,
+        "num": 122468,
+        "word": "安徽申论 大作文",
+        "onboard_time": 1710579692,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视质量强国建设#"
+    }
+  }
+}

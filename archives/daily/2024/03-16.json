@@ -1,6 +1,6 @@
 {
   "startTime": 1710519741451,
-  "endTime": 1710581646536,
+  "endTime": 1710584313505,
   "band_list": [
     {
       "raw_hot": 9137269,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 928875,
-      "num": 539990,
+      "num": 551368,
       "word": "冯小刚为养女庆18岁生日",
       "onboard_time": 1710570573,
       "rank": 26,
@@ -411,12 +411,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 560261,
+      "num": 560261,
+      "word": "省考行测答案",
+      "onboard_time": 1710581614,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 553965,
       "num": 553965,
       "word": "河南申论",
       "onboard_time": 1710578976,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 551133,
+      "num": 551133,
+      "word": "王艺迪vs陈幸同",
+      "onboard_time": 1710583234,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 551010,
@@ -571,6 +587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 446274,
+      "num": 551532,
+      "word": "西安女子去天水吃麻辣烫被宠上天",
+      "onboard_time": 1710582635,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 446199,
       "num": 446199,
       "word": "林俊杰咖啡车",
@@ -601,6 +625,14 @@
       "onboard_time": 1710566618,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 424688,
+      "num": 424688,
+      "word": "唐晓天赵露思身高差",
+      "onboard_time": 1710580955,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 418272,
@@ -811,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 314619,
+      "num": 314619,
+      "word": "所以明天到底该吃什么",
+      "onboard_time": 1710582455,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 307696,
       "num": 307696,
       "word": "梅菜扣肉 槽头肉",
@@ -857,6 +897,14 @@
       "onboard_time": 1710557376,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 298768,
+      "num": 298768,
+      "word": "有价无价",
+      "onboard_time": 1710581915,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 295621,
@@ -947,6 +995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 266805,
+      "num": 187978,
+      "word": "龙宝宝取名捅了辰的窝吗",
+      "onboard_time": 1710583352,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 263668,
       "num": 263668,
       "word": "茶百道客服回应门店篡改食品有效期",
@@ -995,6 +1051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258832,
+      "num": 258832,
+      "word": "被小孩姐的发量伤到了",
+      "onboard_time": 1710580833,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 256241,
       "num": 256241,
       "word": "听花酒道歉",
@@ -1035,14 +1099,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 246302,
-      "num": 246302,
-      "word": "唐晓天赵露思身高差",
-      "onboard_time": 1710580955,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 242152,
       "num": 242152,
       "word": "陈梦vs申裕斌",
@@ -1075,14 +1131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 238694,
-      "num": 238694,
-      "word": "被小孩姐的发量伤到了",
-      "onboard_time": 1710580833,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 237238,
       "num": 237238,
       "word": "弟弟退回了我给他的结婚红包",
@@ -1099,12 +1147,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236704,
+      "num": 236704,
+      "word": "朱志鑫15岁综艺未公开片段",
+      "onboard_time": 1710583113,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230235,
       "num": 230235,
       "word": "短剧的风吹到了TF三代",
       "onboard_time": 1710515741,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230100,
+      "num": 230100,
+      "word": "马龙WTT首冠",
+      "onboard_time": 1710583295,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 227084,
@@ -1145,6 +1209,14 @@
       "onboard_time": 1710572609,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 220987,
+      "num": 220987,
+      "word": "申论创新",
+      "onboard_time": 1710583412,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 216347,
@@ -1201,6 +1273,14 @@
       "onboard_time": 1710569313,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 207296,
+      "num": 207296,
+      "word": "花间令",
+      "onboard_time": 1710500800,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 205392,
@@ -1355,6 +1435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189830,
+      "num": 189830,
+      "word": "省考估分",
+      "onboard_time": 1710583715,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 189641,
       "num": 189641,
       "word": "韩素希ins更新夏威夷照片",
@@ -1387,6 +1475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188130,
+      "num": 188130,
+      "word": "ENHYPEN上海签售",
+      "onboard_time": 1710583715,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188031,
       "num": 188031,
       "word": "近视不戴眼镜会加重发展",
@@ -1401,6 +1497,14 @@
       "onboard_time": 1710516761,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187507,
+      "num": 187507,
+      "word": "王艺迪4比0陈幸同",
+      "onboard_time": 1710584133,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 187323,
@@ -1451,6 +1555,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 182993,
+      "num": 182993,
+      "word": "看了315晚会后不能吃的东西",
+      "onboard_time": 1710584254,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 181796,
+      "num": 181796,
+      "word": "古人结婚为什么要结发",
+      "onboard_time": 1710581554,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181212,
       "num": 181212,
       "word": "宁德时代去年净利润441.21亿",
@@ -1473,6 +1593,22 @@
       "onboard_time": 1710550233,
       "rank": 35,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 172797,
+      "num": 172797,
+      "word": "薛之谦重庆抢票",
+      "onboard_time": 1710581794,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 171508,
+      "num": 171508,
+      "word": "王曼昱4比1陈梦",
+      "onboard_time": 1710581493,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 171442,
@@ -1523,14 +1659,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 159464,
-      "num": 159464,
-      "word": "王曼昱4比1陈梦",
-      "onboard_time": 1710581493,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155770,
       "num": 155770,
       "word": "胡先煦 从童星直接跳进叔圈",
@@ -1545,14 +1673,6 @@
       "onboard_time": 1710549933,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155738,
-      "num": 155738,
-      "word": "古人结婚为什么要结发",
-      "onboard_time": 1710581554,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 155432,
@@ -1625,6 +1745,14 @@
       "onboard_time": 1710557072,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147113,
+      "num": 147113,
+      "word": "周处除三害",
+      "onboard_time": 1710582934,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 146398,
@@ -1731,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133208,
+      "num": 553478,
+      "word": "小学生卡喉店铺老板冲出来20秒救人",
+      "onboard_time": 1710582635,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131516,
       "num": 295353,
       "word": "刘浩存影院门口送向日葵",
@@ -1771,6 +1907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126336,
+      "num": 126336,
+      "word": "行业标委会正研究是否制定淀粉肠国标",
+      "onboard_time": 1710582332,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 125497,
       "num": 125497,
       "word": "天水麻辣烫能否做成下一个兰州拉面",
@@ -1809,14 +1953,6 @@
       "onboard_time": 1710579271,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 123295,
-      "num": 123295,
-      "word": "省考行测答案",
-      "onboard_time": 1710581614,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 122473,
@@ -1889,14 +2025,6 @@
       "onboard_time": 1710568054,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 108660,
-      "num": 181200,
-      "word": "花间令",
-      "onboard_time": 1710500800,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 97316,
