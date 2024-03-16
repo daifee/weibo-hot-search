@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710570038264,
+  "endTime": 1710570912280,
   "band_list": [
     {
       "raw_hot": 10990895,
@@ -1728,6 +1728,14 @@
       "word": "刘宇方回应抄袭张艺兴争议",
       "onboard_time": 1710325473,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1011110,
+      "num": 420309,
+      "word": "活死人小李结婚",
+      "onboard_time": 1710568837,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -3931,12 +3939,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 552869,
-      "num": 420309,
-      "word": "活死人小李结婚",
-      "onboard_time": 1710568837,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 552969,
+      "num": 359666,
+      "word": "夸父炸串回应",
+      "onboard_time": 1710569132,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 552274,
@@ -4209,6 +4217,14 @@
       "onboard_time": 1710081454,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529655,
+      "num": 529655,
+      "word": "王诗龄与同学合照",
+      "onboard_time": 1710568651,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 529505,
@@ -5545,14 +5561,6 @@
       "onboard_time": 1710558513,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 418043,
-      "num": 418043,
-      "word": "王诗龄与同学合照",
-      "onboard_time": 1710568651,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 417390,
@@ -8195,6 +8203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 273521,
+      "num": 221546,
+      "word": "你还会喝茶百道吗",
+      "onboard_time": 1710569010,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 272589,
       "num": 228281,
       "word": "沈腾拍得像被捕了",
@@ -8369,14 +8385,6 @@
       "onboard_time": 1710042629,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 267177,
-      "num": 267177,
-      "word": "夸父炸串回应",
-      "onboard_time": 1710569132,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 266848,
@@ -10739,6 +10747,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 210674,
+      "num": 210674,
+      "word": "冯小刚为养女庆18岁生日",
+      "onboard_time": 1710570573,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210544,
       "num": 210544,
       "word": "分手再见前任 理想vs现实",
@@ -10937,6 +10953,14 @@
       "onboard_time": 1710039808,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207460,
+      "num": 207460,
+      "word": "宝马",
+      "onboard_time": 1710569313,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 207293,
@@ -11307,14 +11331,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 201712,
-      "num": 201712,
-      "word": "你还会喝茶百道吗",
-      "onboard_time": 1710569010,
-      "rank": 27,
-      "category": "美食"
-    },
-    {
       "raw_hot": 201606,
       "num": 201606,
       "word": "杨幂化妆师还是金鹤龙",
@@ -11513,14 +11529,6 @@
       "onboard_time": 1710313113,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198775,
-      "num": 198775,
-      "word": "宝马",
-      "onboard_time": 1710569313,
-      "rank": 29,
-      "category": "汽车"
     },
     {
       "raw_hot": 198770,
@@ -13427,6 +13435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171920,
+      "num": 171920,
+      "word": "近8成网友认为奶茶消杯不正常",
+      "onboard_time": 1710569435,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 171751,
       "num": 171751,
       "word": "与凤行卫视预告",
@@ -14867,14 +14883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151280,
-      "num": 151280,
-      "word": "近8成网友认为奶茶消杯不正常",
-      "onboard_time": 1710569435,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 151199,
       "num": 151199,
       "word": "傅融神游",
@@ -16291,6 +16299,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 131516,
+      "num": 131516,
+      "word": "刘浩存影院门口送向日葵",
+      "onboard_time": 1710569851,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131427,
       "num": 131427,
       "word": "剑网3制作人已经在录音棚了",
@@ -16683,6 +16699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125497,
+      "num": 125497,
+      "word": "天水麻辣烫能否做成下一个兰州拉面",
+      "onboard_time": 1710570094,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 125002,
       "num": 125002,
       "word": "李菲儿作品曾入围戛纳电影节",
@@ -16715,6 +16739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124439,
+      "num": 124439,
+      "word": "珠帘玉幕杀青",
+      "onboard_time": 1710570812,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124325,
       "num": 124325,
       "word": "奥斯卡破门",
@@ -16745,14 +16777,6 @@
       "onboard_time": 1710408275,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123918,
-      "num": 123918,
-      "word": "刘浩存影院门口送向日葵",
-      "onboard_time": 1710569851,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 123821,
