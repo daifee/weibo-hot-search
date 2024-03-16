@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710596050182,
+  "endTime": 1710598537275,
   "band_list": [
     {
       "raw_hot": 10990895,
@@ -676,7 +676,7 @@
     },
     {
       "raw_hot": 1659552,
-      "num": 782870,
+      "num": 830926,
       "word": "中医从不提倡多喝水",
       "onboard_time": 1710591093,
       "rank": 11,
@@ -940,7 +940,7 @@
     },
     {
       "raw_hot": 1382268,
-      "num": 779902,
+      "num": 928604,
       "word": "郑合惠子 不要捧一踩一",
       "onboard_time": 1710591093,
       "rank": 12,
@@ -977,6 +977,14 @@
       "onboard_time": 1710422675,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1352132,
+      "num": 1352132,
+      "word": "吴镇宇被张睿气走了",
+      "onboard_time": 1710594998,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 1344612,
@@ -1121,6 +1129,14 @@
       "onboard_time": 1710224490,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1263619,
+      "num": 1263619,
+      "word": "威廉王子修图风波后首谈凯特王妃",
+      "onboard_time": 1710596376,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1250055,
@@ -2803,14 +2819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 738748,
-      "num": 506629,
-      "word": "吴镇宇被张睿气走了",
-      "onboard_time": 1710594998,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 735993,
       "num": 735993,
       "word": "找到了亲妈却删了她的联系方式",
@@ -3899,6 +3907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 579268,
+      "num": 579268,
+      "word": "孙龙世锦赛夺金",
+      "onboard_time": 1710598235,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 578486,
       "num": 578486,
       "word": "ChatGPT有身体了",
@@ -4427,6 +4443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 531475,
+      "num": 531475,
+      "word": "李菲儿向锦超道歉",
+      "onboard_time": 1710596918,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 531159,
       "num": 531159,
       "word": "张颂文曾舜晞买菜路透",
@@ -4619,6 +4643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 516153,
+      "num": 516153,
+      "word": "王艺迪说自己整体能力不够",
+      "onboard_time": 1710597097,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 515358,
       "num": 515358,
       "word": "雷军称对价格战做好了充分准备",
@@ -4753,6 +4785,14 @@
       "onboard_time": 1710431195,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 502523,
+      "num": 502523,
+      "word": "你好星期六预告",
+      "onboard_time": 1710594335,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 501657,
@@ -5115,6 +5155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477424,
+      "num": 477424,
+      "word": "孙颖莎说女队水平在伯仲之间",
+      "onboard_time": 1710597097,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 477407,
       "num": 477407,
       "word": "每克近千元的一口价黄金被全额退款",
@@ -5129,6 +5177,14 @@
       "onboard_time": 1710123271,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 476479,
+      "num": 476479,
+      "word": "孙龙进决赛",
+      "onboard_time": 1710595115,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 476436,
@@ -5481,6 +5537,14 @@
       "onboard_time": 1710458790,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 449088,
+      "num": 324442,
+      "word": "近十年都没有涨过价的东西",
+      "onboard_time": 1710594637,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 448490,
@@ -5883,14 +5947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 419006,
-      "num": 324442,
-      "word": "近十年都没有涨过价的东西",
-      "onboard_time": 1710594637,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 418528,
       "num": 274087,
       "word": "甘肃麻辣烫爆火快递员日发千斤辣椒",
@@ -6209,6 +6265,14 @@
       "onboard_time": 1710293071,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 396663,
+      "num": 299200,
+      "word": "家庭资产400万怎么才能躺平",
+      "onboard_time": 1710598418,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 395481,
@@ -7795,14 +7859,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 309347,
-      "num": 309347,
-      "word": "你好星期六预告",
-      "onboard_time": 1710594335,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 309318,
       "num": 309318,
       "word": "面对女儿的拥抱她下意识躲开了",
@@ -8531,6 +8587,14 @@
       "category": "财经,互联网"
     },
     {
+      "raw_hot": 279268,
+      "num": 279268,
+      "word": "赫海",
+      "onboard_time": 1710597637,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 279174,
       "num": 279174,
       "word": "国家线什么时候出",
@@ -8849,6 +8913,14 @@
       "onboard_time": 1710566014,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 268093,
+      "num": 268093,
+      "word": "工作不是生活的全部",
+      "onboard_time": 1710597156,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 267838,
@@ -9227,6 +9299,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 257408,
+      "num": 257408,
+      "word": "李菲儿锦超争执",
+      "onboard_time": 1710596316,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256990,
       "num": 256990,
       "word": "代号鸢",
@@ -9305,6 +9385,14 @@
       "onboard_time": 1710484715,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254725,
+      "num": 254725,
+      "word": "迪丽热巴北京出发进组路透",
+      "onboard_time": 1710598055,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 254677,
@@ -9609,6 +9697,14 @@
       "onboard_time": 1710592713,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 248103,
+      "num": 248103,
+      "word": "你们有名字羞耻症吗",
+      "onboard_time": 1710597097,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 248067,
@@ -10025,6 +10121,14 @@
       "onboard_time": 1710508546,
       "rank": 42,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 238904,
+      "num": 238904,
+      "word": "中式教育是一种很神奇的东西",
+      "onboard_time": 1710597338,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 238746,
@@ -10683,6 +10787,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 223273,
+      "num": 223273,
+      "word": "孙龙ADA",
+      "onboard_time": 1710597578,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223268,
       "num": 223268,
       "word": "Yumi回应暴瘦",
@@ -10907,6 +11019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 219588,
+      "num": 219588,
+      "word": "朱劲草顾茉莉离婚",
+      "onboard_time": 1710597817,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219562,
       "num": 219562,
       "word": "惠英红模仿刘浩存打字",
@@ -11001,6 +11121,14 @@
       "onboard_time": 1710328055,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217894,
+      "num": 217894,
+      "word": "星穹铁道演唱会官宣",
+      "onboard_time": 1710598418,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 217859,
@@ -11137,14 +11265,6 @@
       "onboard_time": 1710395316,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 214842,
-      "num": 214842,
-      "word": "孙龙进决赛",
-      "onboard_time": 1710595115,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 214548,
@@ -11667,6 +11787,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 207744,
+      "num": 207744,
+      "word": "RW对战TTG",
+      "onboard_time": 1710596557,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207692,
       "num": 207692,
       "word": "妈妈你不是借我的光才出了县城",
@@ -11705,6 +11833,14 @@
       "onboard_time": 1710378630,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206881,
+      "num": 206881,
+      "word": "iPhone相机拍照说明书",
+      "onboard_time": 1710597637,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 206751,
@@ -11857,6 +11993,22 @@
       "onboard_time": 1710155911,
       "rank": 33,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 204612,
+      "num": 204889,
+      "word": "短道速滑",
+      "onboard_time": 1710595417,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 204523,
+      "num": 204523,
+      "word": "淮安烧烤店爆炸疑似煤气爆燃",
+      "onboard_time": 1710596613,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204225,
@@ -13107,6 +13259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189713,
+      "num": 189713,
+      "word": "江苏淮安通报一餐厅发生燃爆",
+      "onboard_time": 1710596316,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189631,
       "num": 189631,
       "word": "国产动画卷起来了",
@@ -13881,14 +14041,6 @@
       "onboard_time": 1709995177,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 178301,
-      "num": 204889,
-      "word": "短道速滑",
-      "onboard_time": 1710595417,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 178012,
@@ -19500,7 +19652,7 @@
     },
     {
       "raw_hot": 69109,
-      "num": 1099569,
+      "num": 1298514,
       "word": "诚信是安全之基信心之源",
       "onboard_time": 1710586656,
       "rank": 2,

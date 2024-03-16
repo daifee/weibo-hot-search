@@ -1,6 +1,6 @@
 {
   "startTime": 1710519741451,
-  "endTime": 1710596050182,
+  "endTime": 1710598537275,
   "band_list": [
     {
       "raw_hot": 9137269,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1659552,
-      "num": 782870,
+      "num": 830926,
       "word": "中医从不提倡多喝水",
       "onboard_time": 1710591093,
       "rank": 11,
@@ -132,11 +132,19 @@
     },
     {
       "raw_hot": 1382268,
-      "num": 779902,
+      "num": 928604,
       "word": "郑合惠子 不要捧一踩一",
       "onboard_time": 1710591093,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1352132,
+      "num": 1352132,
+      "word": "吴镇宇被张睿气走了",
+      "onboard_time": 1710594998,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 1344612,
@@ -145,6 +153,14 @@
       "onboard_time": 1710569132,
       "rank": 18,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1263619,
+      "num": 1263619,
+      "word": "威廉王子修图风波后首谈凯特王妃",
+      "onboard_time": 1710596376,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1224989,
@@ -371,14 +387,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 738748,
-      "num": 506629,
-      "word": "吴镇宇被张睿气走了",
-      "onboard_time": 1710594998,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 734756,
       "num": 734756,
       "word": "唐嫣赫本公主风",
@@ -483,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 579268,
+      "num": 579268,
+      "word": "孙龙世锦赛夺金",
+      "onboard_time": 1710598235,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 576244,
       "num": 576244,
       "word": "西安女子去天水吃麻辣烫被宠上天",
@@ -571,12 +587,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 531475,
+      "num": 531475,
+      "word": "李菲儿向锦超道歉",
+      "onboard_time": 1710596918,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 529655,
       "num": 529655,
       "word": "王诗龄与同学合照",
       "onboard_time": 1710568651,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 516153,
+      "num": 516153,
+      "word": "王艺迪说自己整体能力不够",
+      "onboard_time": 1710597097,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 508770,
@@ -592,6 +624,14 @@
       "word": "虞书欣豌豆公主的床",
       "onboard_time": 1710586416,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 502523,
+      "num": 502523,
+      "word": "你好星期六预告",
+      "onboard_time": 1710594335,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -667,6 +707,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477424,
+      "num": 477424,
+      "word": "孙颖莎说女队水平在伯仲之间",
+      "onboard_time": 1710597097,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 476479,
+      "num": 476479,
+      "word": "孙龙进决赛",
+      "onboard_time": 1710595115,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 472223,
       "num": 472223,
       "word": "资料分析 招计算器呢",
@@ -731,6 +787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 449088,
+      "num": 324442,
+      "word": "近十年都没有涨过价的东西",
+      "onboard_time": 1710594637,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 446320,
       "num": 446320,
       "word": "江苏爆炸烧烤店店主回应",
@@ -787,14 +851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 419006,
-      "num": 324442,
-      "word": "近十年都没有涨过价的东西",
-      "onboard_time": 1710594637,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 418272,
       "num": 334070,
       "word": "34岁突然知道自己是抱养的",
@@ -847,6 +903,14 @@
       "num": 295377,
       "word": "刚结婚老公开始算计我的嫁妆",
       "onboard_time": 1710568234,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 396663,
+      "num": 299200,
+      "word": "家庭资产400万怎么才能躺平",
+      "onboard_time": 1710598418,
       "rank": 21,
       "category": "情感"
     },
@@ -1059,14 +1123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 309347,
-      "num": 309347,
-      "word": "你好星期六预告",
-      "onboard_time": 1710594335,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 307696,
       "num": 307696,
       "word": "梅菜扣肉 槽头肉",
@@ -1195,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279268,
+      "num": 279268,
+      "word": "赫海",
+      "onboard_time": 1710597637,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 278066,
       "num": 278066,
       "word": "听花酒315晚会前两个小时还在自夸",
@@ -1241,6 +1305,14 @@
       "onboard_time": 1710566014,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 268093,
+      "num": 268093,
+      "word": "工作不是生活的全部",
+      "onboard_time": 1710597156,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 263668,
@@ -1307,6 +1379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 257408,
+      "num": 257408,
+      "word": "李菲儿锦超争执",
+      "onboard_time": 1710596316,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256241,
       "num": 256241,
       "word": "听花酒道歉",
@@ -1329,6 +1409,14 @@
       "onboard_time": 1710589416,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254725,
+      "num": 254725,
+      "word": "迪丽热巴北京出发进组路透",
+      "onboard_time": 1710598055,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 254677,
@@ -1387,6 +1475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 248103,
+      "num": 248103,
+      "word": "你们有名字羞耻症吗",
+      "onboard_time": 1710597097,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 247335,
       "num": 247335,
       "word": "2024公务员联考逾450万人参加",
@@ -1441,6 +1537,14 @@
       "onboard_time": 1710549033,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238904,
+      "num": 238904,
+      "word": "中式教育是一种很神奇的东西",
+      "onboard_time": 1710597338,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 237238,
@@ -1539,6 +1643,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 223273,
+      "num": 223273,
+      "word": "孙龙ADA",
+      "onboard_time": 1710597578,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223001,
       "num": 223001,
       "word": "看了315晚会后不能吃的东西",
@@ -1571,6 +1683,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219588,
+      "num": 219588,
+      "word": "朱劲草顾茉莉离婚",
+      "onboard_time": 1710597817,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 217894,
+      "num": 217894,
+      "word": "星穹铁道演唱会官宣",
+      "onboard_time": 1710598418,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 216347,
       "num": 216347,
       "word": "灿烂的她 父爱含量为零",
@@ -1593,14 +1721,6 @@
       "onboard_time": 1710595175,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 214842,
-      "num": 214842,
-      "word": "孙龙进决赛",
-      "onboard_time": 1710595115,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 214164,
@@ -1659,6 +1779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207744,
+      "num": 207744,
+      "word": "RW对战TTG",
+      "onboard_time": 1710596557,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207460,
       "num": 295364,
       "word": "宝马",
@@ -1675,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206881,
+      "num": 206881,
+      "word": "iPhone相机拍照说明书",
+      "onboard_time": 1710597637,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 206751,
       "num": 569781,
       "word": "小学生卡喉店铺老板冲出来20秒救人",
@@ -1689,6 +1825,22 @@
       "onboard_time": 1710519990,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204612,
+      "num": 204889,
+      "word": "短道速滑",
+      "onboard_time": 1710595417,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 204523,
+      "num": 204523,
+      "word": "淮安烧烤店爆炸疑似煤气爆燃",
+      "onboard_time": 1710596613,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203322,
@@ -1859,6 +2011,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 189713,
+      "num": 189713,
+      "word": "江苏淮安通报一餐厅发生燃爆",
+      "onboard_time": 1710596316,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189641,
       "num": 189641,
       "word": "韩素希ins更新夏威夷照片",
@@ -2001,14 +2161,6 @@
       "onboard_time": 1710516280,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 178301,
-      "num": 204889,
-      "word": "短道速滑",
-      "onboard_time": 1710595417,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 176295,
@@ -2668,7 +2820,7 @@
     },
     {
       "raw_hot": 69109,
-      "num": 1099569,
+      "num": 1298514,
       "word": "诚信是安全之基信心之源",
       "onboard_time": 1710586656,
       "rank": 2,
