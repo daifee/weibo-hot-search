@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710580552604,
+  "endTime": 1710581646536,
   "band_list": [
     {
       "raw_hot": 10990895,
@@ -3083,6 +3083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 681283,
+      "num": 681283,
+      "word": "甘肃文旅喊话麻辣烫老板注意表情管理",
+      "onboard_time": 1710578852,
+      "rank": 11,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 678776,
       "num": 678776,
       "word": "凯特王妃为什么就是不出现",
@@ -4651,6 +4659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 499246,
+      "num": 291850,
+      "word": "为什么爸妈从来没想过给女儿买房",
+      "onboard_time": 1710579453,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 498914,
       "num": 498914,
       "word": "梁靖崑19比17波尔",
@@ -4713,14 +4729,6 @@
       "onboard_time": 1710457884,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 492874,
-      "num": 492874,
-      "word": "甘肃文旅喊话麻辣烫老板注意表情管理",
-      "onboard_time": 1710578852,
-      "rank": 11,
-      "category": "旅游"
     },
     {
       "raw_hot": 492466,
@@ -4824,6 +4832,14 @@
       "word": "感受到四点半下班的好处了",
       "onboard_time": 1710234574,
       "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 488293,
+      "num": 480549,
+      "word": "头像洁癖",
+      "onboard_time": 1710577292,
+      "rank": 19,
       "category": "幽默"
     },
     {
@@ -5217,14 +5233,6 @@
       "onboard_time": 1710493602,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 457175,
-      "num": 457175,
-      "word": "头像洁癖",
-      "onboard_time": 1710577292,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 456439,
@@ -6027,14 +6035,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 393733,
-      "num": 291850,
-      "word": "为什么爸妈从来没想过给女儿买房",
-      "onboard_time": 1710579453,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 393524,
       "num": 393524,
       "word": "妈妈一个人改造了儿子的房间",
@@ -6819,6 +6819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 347077,
+      "num": 347077,
+      "word": "安徽申论 大作文",
+      "onboard_time": 1710579692,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 346519,
       "num": 243588,
       "word": "伊藤美诚3比0倪夏莲",
@@ -7593,14 +7601,6 @@
       "onboard_time": 1710386254,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 307659,
-      "num": 307659,
-      "word": "安徽申论 大作文",
-      "onboard_time": 1710579692,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 307183,
@@ -9211,6 +9211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249015,
+      "num": 249015,
+      "word": "朴综星机场表情",
+      "onboard_time": 1710580054,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248652,
       "num": 248652,
       "word": "这么好的春天我却在上班",
@@ -9321,6 +9329,14 @@
       "onboard_time": 1710145590,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 246302,
+      "num": 246302,
+      "word": "唐晓天赵露思身高差",
+      "onboard_time": 1710580955,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 245774,
@@ -9649,6 +9665,14 @@
       "onboard_time": 1710401134,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238694,
+      "num": 238694,
+      "word": "被小孩姐的发量伤到了",
+      "onboard_time": 1710580833,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 238083,
@@ -10851,14 +10875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212706,
-      "num": 212706,
-      "word": "朴综星机场表情",
-      "onboard_time": 1710580054,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 212380,
       "num": 212380,
       "word": "任嘉伦古装剧大婚必刀定律",
@@ -11147,6 +11163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208316,
+      "num": 208316,
+      "word": "龙远",
+      "onboard_time": 1710580294,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208183,
       "num": 208183,
       "word": "蓝多多长大了蔡小豆放大了",
@@ -11281,14 +11305,6 @@
       "onboard_time": 1710519990,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 205363,
-      "num": 205363,
-      "word": "龙远",
-      "onboard_time": 1710580294,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 205349,
@@ -14555,6 +14571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159464,
+      "num": 159464,
+      "word": "王曼昱4比1陈梦",
+      "onboard_time": 1710581493,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159431,
       "num": 159431,
       "word": "春天就是要穿汉服跳舞呀",
@@ -14873,6 +14897,14 @@
       "onboard_time": 1710402995,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155738,
+      "num": 155738,
+      "word": "古人结婚为什么要结发",
+      "onboard_time": 1710581554,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 155684,
@@ -17192,6 +17224,14 @@
       "word": "华东师大爱情心理学",
       "onboard_time": 1710334712,
       "rank": 41,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 123295,
+      "num": 123295,
+      "word": "省考行测答案",
+      "onboard_time": 1710581614,
+      "rank": 47,
       "category": "教育"
     },
     {

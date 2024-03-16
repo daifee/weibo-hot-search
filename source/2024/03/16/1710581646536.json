@@ -1,0 +1,410 @@
+{
+  "runTime": 1710581646536,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2742701,
+        "num": 2742701,
+        "word": "申论",
+        "onboard_time": 1710578976,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2076256,
+        "num": 2076256,
+        "word": "省考",
+        "onboard_time": 1710547951,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 69227,
+        "num": 1435983,
+        "word": "中国空间站在太空忙啥呢",
+        "onboard_time": 1710560257,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1223215,
+        "num": 1223215,
+        "word": "郑合惠子发声",
+        "onboard_time": 1710573992,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1193378,
+        "num": 1193378,
+        "word": "王艺迪不再适合参与巴黎奥运女单竞争",
+        "onboard_time": 1710575190,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1102629,
+        "num": 1102629,
+        "word": "多个上门按摩APP被曝涉黄",
+        "onboard_time": 1710575253,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 742046,
+        "num": 742046,
+        "word": "陈梦vs王曼昱",
+        "onboard_time": 1710577772,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 681283,
+        "num": 681283,
+        "word": "甘肃文旅喊话麻辣烫老板注意表情管理",
+        "onboard_time": 1710578852,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 541958,
+        "num": 541958,
+        "word": "夸父炸串回应",
+        "onboard_time": 1710569132,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 484967,
+        "num": 484967,
+        "word": "河南申论",
+        "onboard_time": 1710578976,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 619703,
+        "num": 480719,
+        "word": "冯小刚为养女庆18岁生日",
+        "onboard_time": 1710570573,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488293,
+        "num": 480549,
+        "word": "头像洁癖",
+        "onboard_time": 1710577292,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 468996,
+        "num": 468996,
+        "word": "向佐三分之二半月板被切除",
+        "onboard_time": 1710574652,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419523,
+        "num": 419523,
+        "word": "315",
+        "onboard_time": 1710565894,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403332,
+        "num": 403332,
+        "word": "活死人小李结婚",
+        "onboard_time": 1710568837,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369821,
+        "num": 369821,
+        "word": "夫妻高层装防护栏不慎坠亡",
+        "onboard_time": 1710573573,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347077,
+        "num": 347077,
+        "word": "安徽申论 大作文",
+        "onboard_time": 1710579692,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 309404,
+        "num": 309404,
+        "word": "孙颖莎陈梦王曼昱占据领先位置",
+        "onboard_time": 1710576273,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278647,
+        "num": 278647,
+        "word": "伊能静发长文谈儿子哈利",
+        "onboard_time": 1710574832,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249015,
+        "num": 249015,
+        "word": "朴综星机场表情",
+        "onboard_time": 1710580054,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499246,
+        "num": 247959,
+        "word": "为什么爸妈从来没想过给女儿买房",
+        "onboard_time": 1710579453,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246302,
+        "num": 246302,
+        "word": "唐晓天赵露思身高差",
+        "onboard_time": 1710580955,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238694,
+        "num": 238694,
+        "word": "被小孩姐的发量伤到了",
+        "onboard_time": 1710580833,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234027,
+        "num": 234027,
+        "word": "徐正溪姑姑 汤臣一品",
+        "onboard_time": 1710551853,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208316,
+        "num": 208316,
+        "word": "龙远",
+        "onboard_time": 1710580294,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205813,
+        "num": 205813,
+        "word": "刚结婚老公开始算计我的嫁妆",
+        "onboard_time": 1710568234,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195271,
+        "num": 195271,
+        "word": "顾茉莉买的真包去哪儿了",
+        "onboard_time": 1710578494,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192757,
+        "num": 192757,
+        "word": "樊振东王楚钦vs马龙林高远",
+        "onboard_time": 1710573992,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175856,
+        "num": 175856,
+        "word": "小S公公今日出殡",
+        "onboard_time": 1710579813,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175393,
+        "num": 175393,
+        "word": "鸭血 甲醛",
+        "onboard_time": 1710556175,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 171333,
+        "num": 171333,
+        "word": "女子快递收到13kg价值657万金条懵了",
+        "onboard_time": 1710559234,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164256,
+        "num": 164256,
+        "word": "珠帘玉幕官配",
+        "onboard_time": 1710576213,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160254,
+        "num": 160254,
+        "word": "FPX晋级春季赛季后赛",
+        "onboard_time": 1710579635,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159464,
+        "num": 159464,
+        "word": "王曼昱4比1陈梦",
+        "onboard_time": 1710581493,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155738,
+        "num": 155738,
+        "word": "古人结婚为什么要结发",
+        "onboard_time": 1710581554,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150097,
+        "num": 150097,
+        "word": "猫和狗在失重状态下的对比",
+        "onboard_time": 1710577354,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 149747,
+        "num": 149747,
+        "word": "你还会喝茶百道吗",
+        "onboard_time": 1710569010,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143941,
+        "num": 143941,
+        "word": "媒体称赵丽颖是行业一根救命稻草",
+        "onboard_time": 1710563136,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140540,
+        "num": 140540,
+        "word": "因为暂时失业被父母说啃老",
+        "onboard_time": 1710566618,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134993,
+        "num": 134993,
+        "word": "克里斯爆料iG关键局BP",
+        "onboard_time": 1710578014,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134841,
+        "num": 134841,
+        "word": "代号鸢 你也看间谍过家家吗",
+        "onboard_time": 1710577952,
+        "rank": 40,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 134440,
+        "num": 134440,
+        "word": "女生尽管在省钱却买男孩最贵的花",
+        "onboard_time": 1710576576,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133870,
+        "num": 133870,
+        "word": "KPL",
+        "onboard_time": 1710579453,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129079,
+        "num": 129079,
+        "word": "林俊杰咖啡车",
+        "onboard_time": 1710572071,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128256,
+        "num": 128256,
+        "word": "马龙林高远3比2樊振东王楚钦",
+        "onboard_time": 1710576933,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127591,
+        "num": 127591,
+        "word": "灿烂的她 父爱含量为零",
+        "onboard_time": 1710575974,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127208,
+        "num": 127208,
+        "word": "陈都灵唐装",
+        "onboard_time": 1710566736,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123295,
+        "num": 123295,
+        "word": "省考行测答案",
+        "onboard_time": 1710581614,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114295,
+        "num": 114295,
+        "word": "朱大力苏大强 做大做强",
+        "onboard_time": 1710580472,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111239,
+        "num": 111239,
+        "word": "申论 考一百就上岸",
+        "onboard_time": 1710564036,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中安关系提升为全面战略合作伙伴关系#"
+    }
+  }
+}
