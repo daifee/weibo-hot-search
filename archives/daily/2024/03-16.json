@@ -1,6 +1,6 @@
 {
   "startTime": 1710519741451,
-  "endTime": 1710595103043,
+  "endTime": 1710596050182,
   "band_list": [
     {
       "raw_hot": 9137269,
@@ -131,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1382268,
+      "num": 779902,
+      "word": "郑合惠子 不要捧一踩一",
+      "onboard_time": 1710591093,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1344612,
       "num": 1344612,
       "word": "夸父炸串回应",
       "onboard_time": 1710569132,
       "rank": 18,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1319425,
-      "num": 779902,
-      "word": "郑合惠子 不要捧一踩一",
-      "onboard_time": 1710591093,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 1224989,
@@ -227,8 +227,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 972197,
-      "num": 972197,
+      "raw_hot": 980568,
+      "num": 980568,
       "word": "雅江山火",
       "onboard_time": 1710586114,
       "rank": 5,
@@ -371,12 +371,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 738748,
+      "num": 506629,
+      "word": "吴镇宇被张睿气走了",
+      "onboard_time": 1710594998,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 734756,
       "num": 734756,
       "word": "唐嫣赫本公主风",
       "onboard_time": 1710593013,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 712449,
+      "num": 712449,
+      "word": "陈梦王曼昱夺冠",
+      "onboard_time": 1710595657,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 684832,
@@ -393,6 +409,14 @@
       "onboard_time": 1710578852,
       "rank": 11,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 671528,
+      "num": 671528,
+      "word": "红莲 赤练",
+      "onboard_time": 1710591157,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 662822,
@@ -425,14 +449,6 @@
       "onboard_time": 1710484117,
       "rank": 8,
       "category": "美食"
-    },
-    {
-      "raw_hot": 639959,
-      "num": 639959,
-      "word": "红莲 赤练",
-      "onboard_time": 1710591157,
-      "rank": 24,
-      "category": "动漫"
     },
     {
       "raw_hot": 617928,
@@ -715,6 +731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 446320,
+      "num": 446320,
+      "word": "江苏爆炸烧烤店店主回应",
+      "onboard_time": 1710594156,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446199,
       "num": 446199,
       "word": "林俊杰咖啡车",
@@ -761,6 +785,14 @@
       "onboard_time": 1710580955,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 419006,
+      "num": 324442,
+      "word": "近十年都没有涨过价的东西",
+      "onboard_time": 1710594637,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 418272,
@@ -843,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377466,
+      "num": 377466,
+      "word": "billkin演唱会",
+      "onboard_time": 1710594452,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 377231,
       "num": 377231,
       "word": "辽宁省考 B多还是C多",
@@ -923,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351147,
+      "num": 351147,
+      "word": "545名森林消防员奔赴扑救山火",
+      "onboard_time": 1710593494,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347077,
       "num": 347077,
       "word": "安徽申论 大作文",
@@ -953,14 +1001,6 @@
       "onboard_time": 1710512026,
       "rank": 18,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 334633,
-      "num": 334633,
-      "word": "江苏爆炸烧烤店店主回应",
-      "onboard_time": 1710594156,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 333275,
@@ -1011,20 +1051,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 316347,
-      "num": 316347,
-      "word": "545名森林消防员奔赴扑救山火",
-      "onboard_time": 1710593494,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315705,
       "num": 315705,
       "word": "栏目编导称已停止与马卉合作",
       "onboard_time": 1710550953,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309347,
+      "num": 309347,
+      "word": "你好星期六预告",
+      "onboard_time": 1710594335,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 307696,
@@ -1083,6 +1123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 297013,
+      "num": 297013,
+      "word": "星穹铁道 黄泉",
+      "onboard_time": 1710594873,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 296834,
       "num": 296834,
       "word": "独居后终于理解了电视的意义",
@@ -1129,14 +1177,6 @@
       "onboard_time": 1710565415,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 286258,
-      "num": 260065,
-      "word": "近十年都没有涨过价的东西",
-      "onboard_time": 1710594637,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 286124,
@@ -1276,7 +1316,7 @@
     },
     {
       "raw_hot": 256201,
-      "num": 201718,
+      "num": 211311,
       "word": "第一次见像海一样的山",
       "onboard_time": 1710594396,
       "rank": 30,
@@ -1305,6 +1345,14 @@
       "onboard_time": 1710590493,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250938,
+      "num": 250938,
+      "word": "花间令强吻戏",
+      "onboard_time": 1710594037,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 250018,
@@ -1339,28 +1387,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 247580,
-      "num": 247580,
-      "word": "你好星期六预告",
-      "onboard_time": 1710594335,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 247335,
       "num": 247335,
       "word": "2024公务员联考逾450万人参加",
       "onboard_time": 1710551373,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 245531,
-      "num": 245531,
-      "word": "花间令强吻戏",
-      "onboard_time": 1710594037,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 242421,
@@ -1427,12 +1459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230936,
-      "num": 230936,
-      "word": "billkin演唱会",
-      "onboard_time": 1710594452,
-      "rank": 27,
-      "category": "演出"
+      "raw_hot": 232374,
+      "num": 232374,
+      "word": "何悯鸿欢乐颂5更癫了",
+      "onboard_time": 1710595535,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 230235,
@@ -1555,6 +1587,22 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 215477,
+      "num": 215477,
+      "word": "高端自助餐不火了",
+      "onboard_time": 1710595175,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 214842,
+      "num": 214842,
+      "word": "孙龙进决赛",
+      "onboard_time": 1710595115,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214164,
       "num": 214164,
       "word": "湖南省考 数量刮刮乐",
@@ -1563,20 +1611,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 212910,
+      "num": 212910,
+      "word": "砂金wink",
+      "onboard_time": 1710594694,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 212188,
       "num": 282026,
       "word": "种地吧",
       "onboard_time": 1710566254,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209846,
-      "num": 201636,
-      "word": "砂金wink",
-      "onboard_time": 1710594694,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 208768,
@@ -1668,7 +1716,7 @@
     },
     {
       "raw_hot": 200303,
-      "num": 200303,
+      "num": 204891,
       "word": "水哥满级人类",
       "onboard_time": 1710593195,
       "rank": 32,
@@ -1700,7 +1748,7 @@
     },
     {
       "raw_hot": 198034,
-      "num": 198034,
+      "num": 204788,
       "word": "BLG对战WBG",
       "onboard_time": 1710591277,
       "rank": 32,
@@ -1899,14 +1947,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 186651,
-      "num": 186651,
-      "word": "星穹铁道 黄泉",
-      "onboard_time": 1710594873,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 185688,
       "num": 185688,
       "word": "陈奕迅额头",
@@ -1948,7 +1988,7 @@
     },
     {
       "raw_hot": 181537,
-      "num": 181537,
+      "num": 204920,
       "word": "广东省考难度",
       "onboard_time": 1710591455,
       "rank": 38,
@@ -1961,6 +2001,14 @@
       "onboard_time": 1710516280,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 178301,
+      "num": 204889,
+      "word": "短道速滑",
+      "onboard_time": 1710595417,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 176295,
@@ -2068,7 +2116,7 @@
     },
     {
       "raw_hot": 162312,
-      "num": 162312,
+      "num": 204751,
       "word": "赵丽颖的选角眼光",
       "onboard_time": 1710591935,
       "rank": 46,
@@ -2091,24 +2139,16 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 161667,
-      "num": 161667,
-      "word": "吴镇宇被张睿气走了",
-      "onboard_time": 1710594998,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159046,
-      "num": 161543,
+      "num": 204778,
       "word": "女队主力球员谈奥运选拔规则优化",
       "onboard_time": 1710594093,
       "rank": 42,
       "category": "体育"
     },
     {
-      "raw_hot": 157130,
-      "num": 157130,
+      "raw_hot": 158258,
+      "num": 204841,
       "word": "尚新月亲了赵露思",
       "onboard_time": 1710593793,
       "rank": 45,
@@ -2161,6 +2201,14 @@
       "onboard_time": 1710548370,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153278,
+      "num": 204832,
+      "word": "我们i人是这样的",
+      "onboard_time": 1710595237,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 153038,
