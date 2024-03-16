@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710609328320,
+  "endTime": 1710610439216,
   "band_list": [
     {
       "raw_hot": 1747609,
@@ -113,6 +113,14 @@
       "onboard_time": 1710599379,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275275,
+      "num": 341655,
+      "word": "女孩自己注射1mg司美格鲁肽送医抢救",
+      "onboard_time": 1710609026,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273593,
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95799,
+      "num": 342131,
+      "word": "宋轶骨相妆",
+      "onboard_time": 1710608427,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 90790,
       "num": 223606,
       "word": "王楚钦说守住半区最值得高兴",
@@ -419,12 +435,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 74082,
-      "num": 342131,
-      "word": "宋轶骨相妆",
-      "onboard_time": 1710608427,
-      "rank": 43,
-      "category": "作品衍生"
+      "raw_hot": 81227,
+      "num": 208709,
+      "word": "油脂鼻头",
+      "onboard_time": 1710609505,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 64553,
@@ -451,17 +467,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51344,
-      "num": 341655,
-      "word": "女孩自己注射1mg司美格鲁肽送医抢救",
-      "onboard_time": 1710609026,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 51793,
+      "num": 205964,
+      "word": "花间令",
+      "onboard_time": 1710583234,
+      "rank": 46,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
     {
       "word": "#培育发展新质生产力的新动能#"
+    },
+    {
+      "word": "#习近平总书记高度重视质量强国建设#"
     }
   ]
 }
