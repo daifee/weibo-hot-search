@@ -1,0 +1,410 @@
+{
+  "runTime": 1710593073560,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1242208,
+        "num": 1242208,
+        "word": "成都的天",
+        "onboard_time": 1710585035,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 799814,
+        "num": 799814,
+        "word": "所以明天到底该吃什么",
+        "onboard_time": 1710582455,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 59346,
+        "num": 784647,
+        "word": "诚信是安全之基信心之源",
+        "onboard_time": 1710586656,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1659552,
+        "num": 782870,
+        "word": "中医从不提倡多喝水",
+        "onboard_time": 1710591093,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 779902,
+        "num": 779902,
+        "word": "郑合惠子 不要捧一踩一",
+        "onboard_time": 1710591093,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 701060,
+        "num": 701060,
+        "word": "申论",
+        "onboard_time": 1710578976,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 639796,
+        "num": 639796,
+        "word": "没想到大学生成了最大的受害者",
+        "onboard_time": 1710585935,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 469395,
+        "num": 469395,
+        "word": "你好星期六",
+        "onboard_time": 1710591213,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382945,
+        "num": 382945,
+        "word": "多个上门按摩APP被曝涉黄",
+        "onboard_time": 1710575253,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 338527,
+        "num": 343471,
+        "word": "梁靖崑vs林昀儒",
+        "onboard_time": 1710590314,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441351,
+        "num": 343387,
+        "word": "原来月休四天不算是单休",
+        "onboard_time": 1710588213,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 425363,
+        "num": 343374,
+        "word": "郑合惠子发声",
+        "onboard_time": 1710573992,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343171,
+        "num": 343171,
+        "word": "红莲 赤练",
+        "onboard_time": 1710591157,
+        "rank": 12,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 330015,
+        "num": 330015,
+        "word": "雅江山火",
+        "onboard_time": 1710586114,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319164,
+        "num": 319164,
+        "word": "王艺迪不再适合参与巴黎奥运女单竞争",
+        "onboard_time": 1710575190,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312722,
+        "num": 312722,
+        "word": "边伯贤粉丝 生菜发夹",
+        "onboard_time": 1710588456,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 290117,
+        "num": 290117,
+        "word": "夸父炸串回应",
+        "onboard_time": 1710569132,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 278189,
+        "num": 278189,
+        "word": "江苏淮安一烧烤店发生爆炸",
+        "onboard_time": 1710592414,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270893,
+        "num": 270893,
+        "word": "多家315曝光公司被调查",
+        "onboard_time": 1710584796,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244312,
+        "num": 244312,
+        "word": "西安女子去天水吃麻辣烫被宠上天",
+        "onboard_time": 1710582635,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 340467,
+        "num": 243773,
+        "word": "为什么爸妈从来没想过给女儿买房",
+        "onboard_time": 1710579453,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243019,
+        "num": 243019,
+        "word": "欢乐颂5",
+        "onboard_time": 1710589416,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241350,
+        "num": 241350,
+        "word": "虞书欣豌豆公主的床",
+        "onboard_time": 1710586416,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228052,
+        "num": 228052,
+        "word": "315",
+        "onboard_time": 1710565894,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225655,
+        "num": 225655,
+        "word": "四川交警通知国道318线临时交通管制",
+        "onboard_time": 1710590493,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220645,
+        "num": 220645,
+        "word": "指甲刀居然还有安全模式",
+        "onboard_time": 1710588213,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219884,
+        "num": 219884,
+        "word": "梁靖崑4比2林昀儒",
+        "onboard_time": 1710591574,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216230,
+        "num": 216230,
+        "word": "星穹铁道2.1版本前瞻",
+        "onboard_time": 1710592713,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208680,
+        "num": 208680,
+        "word": "泰容 大家要一起幸福",
+        "onboard_time": 1710591871,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198401,
+        "num": 198401,
+        "word": "独居后终于理解了电视的意义",
+        "onboard_time": 1710585935,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190858,
+        "num": 190858,
+        "word": "田柾国weverse更新",
+        "onboard_time": 1710590493,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187948,
+        "num": 187948,
+        "word": "王楚钦vsF勒布伦",
+        "onboard_time": 1710592895,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186120,
+        "num": 186120,
+        "word": "张栋梁被反向爆改",
+        "onboard_time": 1710587736,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184869,
+        "num": 184869,
+        "word": "龙宝宝取名捅了辰的窝吗",
+        "onboard_time": 1710583352,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183642,
+        "num": 183642,
+        "word": "陈梦王曼昱争奥运女单",
+        "onboard_time": 1710585214,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181537,
+        "num": 181537,
+        "word": "广东省考难度",
+        "onboard_time": 1710591455,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175121,
+        "num": 175121,
+        "word": "花间令 大手包小脸",
+        "onboard_time": 1710592652,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174663,
+        "num": 174663,
+        "word": "省考行测答案",
+        "onboard_time": 1710581614,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165064,
+        "num": 165064,
+        "word": "赵雷演唱会",
+        "onboard_time": 1710589773,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162312,
+        "num": 162312,
+        "word": "赵丽颖的选角眼光",
+        "onboard_time": 1710591935,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155240,
+        "num": 155240,
+        "word": "BLG对战WBG",
+        "onboard_time": 1710591277,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153174,
+        "num": 153174,
+        "word": "张远直播染发",
+        "onboard_time": 1710590975,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149189,
+        "num": 149189,
+        "word": "省考",
+        "onboard_time": 1710547951,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147731,
+        "num": 147731,
+        "word": "唐嫣赫本公主风",
+        "onboard_time": 1710593013,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140092,
+        "num": 140092,
+        "word": "花间令 恶女角色",
+        "onboard_time": 1710586474,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137210,
+        "num": 137210,
+        "word": "冯小刚为养女庆18岁生日",
+        "onboard_time": 1710570573,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631669,
+        "num": 136533,
+        "word": "港媒报道肖战",
+        "onboard_time": 1710588872,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134261,
+        "num": 134261,
+        "word": "梁靖崑男单晋级决赛",
+        "onboard_time": 1710592533,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129831,
+        "num": 129831,
+        "word": "林俊杰杭州演唱会",
+        "onboard_time": 1710585333,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129108,
+        "num": 129108,
+        "word": "樊振东王楚钦vs马龙林高远",
+        "onboard_time": 1710573992,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#培育发展新质生产力的新动能#"
+    }
+  }
+}

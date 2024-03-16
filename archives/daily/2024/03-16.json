@@ -1,6 +1,6 @@
 {
   "startTime": 1710519741451,
-  "endTime": 1710592267859,
+  "endTime": 1710593073560,
   "band_list": [
     {
       "raw_hot": 9137269,
@@ -105,6 +105,14 @@
       "onboard_time": 1710551853,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1659552,
+      "num": 782870,
+      "word": "中医从不提倡多喝水",
+      "onboard_time": 1710591093,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1468668,
@@ -323,6 +331,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 779902,
+      "num": 779902,
+      "word": "郑合惠子 不要捧一踩一",
+      "onboard_time": 1710591093,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 774046,
       "num": 401212,
       "word": "港媒报道肖战",
@@ -337,14 +353,6 @@
       "onboard_time": 1710577772,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 762417,
-      "num": 388993,
-      "word": "中医从不提倡多喝水",
-      "onboard_time": 1710591093,
-      "rank": 11,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 752923,
@@ -611,6 +619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 469395,
+      "num": 469395,
+      "word": "你好星期六",
+      "onboard_time": 1710591213,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 466732,
       "num": 466732,
       "word": "梁靖崑vs林昀儒",
@@ -675,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441351,
+      "num": 357863,
+      "word": "原来月休四天不算是单休",
+      "onboard_time": 1710588213,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 438042,
       "num": 438042,
       "word": "百果园果切",
@@ -683,36 +707,12 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 434285,
-      "num": 374331,
-      "word": "郑合惠子 不要捧一踩一",
-      "onboard_time": 1710591093,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 433452,
       "num": 433452,
       "word": "射雕黄蓉",
       "onboard_time": 1710564818,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 431061,
-      "num": 357863,
-      "word": "原来月休四天不算是单休",
-      "onboard_time": 1710588213,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 430126,
-      "num": 430126,
-      "word": "你好星期六",
-      "onboard_time": 1710591213,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 426557,
@@ -897,6 +897,14 @@
       "onboard_time": 1710579692,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 343171,
+      "num": 343171,
+      "word": "红莲 赤练",
+      "onboard_time": 1710591157,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 342920,
@@ -1099,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278189,
+      "num": 278189,
+      "word": "江苏淮安一烧烤店发生爆炸",
+      "onboard_time": 1710592414,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278066,
       "num": 278066,
       "word": "听花酒315晚会前两个小时还在自夸",
@@ -1233,14 +1249,6 @@
       "onboard_time": 1710590493,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251242,
-      "num": 251242,
-      "word": "红莲 赤练",
-      "onboard_time": 1710591157,
-      "rank": 24,
-      "category": "动漫"
     },
     {
       "raw_hot": 250018,
@@ -1459,6 +1467,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 216230,
+      "num": 216230,
+      "word": "星穹铁道2.1版本前瞻",
+      "onboard_time": 1710592713,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 214164,
       "num": 214164,
       "word": "湖南省考 数量刮刮乐",
@@ -1481,6 +1497,14 @@
       "onboard_time": 1710515200,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208680,
+      "num": 208680,
+      "word": "泰容 大家要一起幸福",
+      "onboard_time": 1710591871,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 208316,
@@ -1747,6 +1771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 187948,
+      "num": 187948,
+      "word": "王楚钦vsF勒布伦",
+      "onboard_time": 1710592895,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187810,
       "num": 187810,
       "word": "文韬努力作废但帅",
@@ -1811,6 +1843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181537,
+      "num": 181537,
+      "word": "广东省考难度",
+      "onboard_time": 1710591455,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 181212,
       "num": 181212,
       "word": "宁德时代去年净利润441.21亿",
@@ -1833,6 +1873,14 @@
       "onboard_time": 1710587675,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 175121,
+      "num": 175121,
+      "word": "花间令 大手包小脸",
+      "onboard_time": 1710592652,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 174775,
@@ -1875,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165064,
+      "num": 165064,
+      "word": "赵雷演唱会",
+      "onboard_time": 1710589773,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164978,
       "num": 209781,
       "word": "五哈4鹿晗立牌",
@@ -1899,6 +1955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162312,
+      "num": 162312,
+      "word": "赵丽颖的选角眼光",
+      "onboard_time": 1710591935,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162289,
       "num": 162289,
       "word": "甘肃麻辣烫大叔请注意表情管理",
@@ -1913,14 +1977,6 @@
       "onboard_time": 1710551733,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 158215,
-      "num": 158215,
-      "word": "广东省考难度",
-      "onboard_time": 1710591455,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 155770,
@@ -1995,14 +2051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152365,
-      "num": 152365,
-      "word": "赵雷演唱会",
-      "onboard_time": 1710589773,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 151377,
       "num": 151377,
       "word": "眼泪女王",
@@ -2043,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147731,
+      "num": 147731,
+      "word": "唐嫣赫本公主风",
+      "onboard_time": 1710593013,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 147113,
       "num": 147113,
       "word": "周处除三害",
@@ -2057,14 +2113,6 @@
       "onboard_time": 1710515139,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 145878,
-      "num": 145878,
-      "word": "泰容 大家要一起幸福",
-      "onboard_time": 1710591871,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 144504,
@@ -2131,14 +2179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137665,
-      "num": 137665,
-      "word": "赵丽颖的选角眼光",
-      "onboard_time": 1710591935,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135080,
       "num": 135080,
       "word": "代号鸢 你也看间谍过家家吗",
@@ -2161,6 +2201,14 @@
       "onboard_time": 1710576213,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 134261,
+      "num": 134261,
+      "word": "梁靖崑男单晋级决赛",
+      "onboard_time": 1710592533,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 133783,
@@ -2596,6 +2644,9 @@
     },
     {
       "word": "#习近平总书记高度重视质量强国建设#"
+    },
+    {
+      "word": "#培育发展新质生产力的新动能#"
     }
   ]
 }
