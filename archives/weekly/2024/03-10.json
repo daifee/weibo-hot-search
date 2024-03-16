@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710562888156,
+  "endTime": 1710563684571,
   "band_list": [
     {
       "raw_hot": 10990895,
@@ -715,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1535983,
+      "num": 619963,
+      "word": "13岁初中生被同学杀害三人被刑拘",
+      "onboard_time": 1710563136,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1515269,
       "num": 460715,
       "word": "高君雨手术是毕业后做的",
@@ -769,6 +777,14 @@
       "onboard_time": 1710331656,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1471590,
+      "num": 1471590,
+      "word": "数量全C",
+      "onboard_time": 1710562360,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 1468668,
@@ -1843,6 +1859,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 965515,
+      "num": 965515,
+      "word": "赵丽颖背上好大一个包",
+      "onboard_time": 1710558034,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 962327,
       "num": 354215,
       "word": "陈建斌搂蒋勤勤与路人合照",
@@ -1953,6 +1977,14 @@
       "onboard_time": 1710401853,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 914808,
+      "num": 914808,
+      "word": "馒头 花生",
+      "onboard_time": 1710561818,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 913592,
@@ -2297,14 +2329,6 @@
       "onboard_time": 1710510463,
       "rank": 12,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 813959,
-      "num": 813959,
-      "word": "赵丽颖背上好大一个包",
-      "onboard_time": 1710558034,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 813954,
@@ -3451,14 +3475,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 599289,
-      "num": 599289,
-      "word": "馒头 花生",
-      "onboard_time": 1710561818,
-      "rank": 11,
-      "category": "教育"
-    },
-    {
       "raw_hot": 598912,
       "num": 598912,
       "word": "赵丽颖看着奖杯笑了",
@@ -3969,14 +3985,6 @@
       "onboard_time": 1710222811,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 544797,
-      "num": 544797,
-      "word": "数量全C",
-      "onboard_time": 1710562360,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 543577,
@@ -4819,6 +4827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 472223,
+      "num": 472223,
+      "word": "资料分析 招计算器呢",
+      "onboard_time": 1710562477,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 471897,
       "num": 471897,
       "word": "珍爱网",
@@ -5627,6 +5643,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 403259,
+      "num": 403259,
+      "word": "TheShy力挺Ning",
+      "onboard_time": 1710562716,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 402941,
       "num": 212886,
       "word": "杜华点名程潇吴宣仪化妆好",
@@ -5785,6 +5809,14 @@
       "onboard_time": 1710486216,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 391446,
+      "num": 391446,
+      "word": "花生十三",
+      "onboard_time": 1710562237,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 391275,
@@ -6041,6 +6073,14 @@
       "onboard_time": 1710059310,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375016,
+      "num": 375016,
+      "word": "媒体称赵丽颖是行业一根救命稻草",
+      "onboard_time": 1710563136,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 374790,
@@ -6433,6 +6473,14 @@
       "onboard_time": 1710132936,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 353206,
+      "num": 353206,
+      "word": "省考图推 不吱声",
+      "onboard_time": 1710563017,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 352461,
@@ -7041,14 +7089,6 @@
       "onboard_time": 1710297455,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317864,
-      "num": 317864,
-      "word": "花生十三",
-      "onboard_time": 1710562237,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 317619,
@@ -7737,14 +7777,6 @@
       "onboard_time": 1710154110,
       "rank": 22,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 292097,
-      "num": 292097,
-      "word": "TheShy力挺Ning",
-      "onboard_time": 1710562716,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 291624,
@@ -8545,14 +8577,6 @@
       "onboard_time": 1710399513,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 256910,
-      "num": 256910,
-      "word": "资料分析 招计算器呢",
-      "onboard_time": 1710562477,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 256421,
@@ -10347,6 +10371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214164,
+      "num": 214164,
+      "word": "湖南省考 数量刮刮乐",
+      "onboard_time": 1710562838,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 214106,
       "num": 214106,
       "word": "美国女子带死者到银行刷脸盗取存款",
@@ -11169,6 +11201,14 @@
       "onboard_time": 1710333693,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 201111,
+      "num": 201111,
+      "word": "一场酣畅淋漓的下岸",
+      "onboard_time": 1710563378,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 200993,
@@ -13707,6 +13747,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162966,
+      "num": 162966,
+      "word": "天津市考 15个数量",
+      "onboard_time": 1710562716,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 162587,
+      "num": 162587,
+      "word": "小警犬只是成绩不好它并不是坏狗",
+      "onboard_time": 1710563619,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162579,
       "num": 162579,
       "word": "周处除三害票房破4亿",
@@ -14057,14 +14113,6 @@
       "onboard_time": 1710243033,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 158580,
-      "num": 158580,
-      "word": "天津市考 15个数量",
-      "onboard_time": 1710562716,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 158514,
@@ -14481,14 +14529,6 @@
       "onboard_time": 1710550233,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 152556,
-      "num": 152556,
-      "word": "湖南省考 数量刮刮乐",
-      "onboard_time": 1710562838,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 152495,
@@ -17972,7 +18012,7 @@
     },
     {
       "raw_hot": 72041,
-      "num": 1132961,
+      "num": 1403614,
       "word": "这就是春天里的中国",
       "onboard_time": 1710475056,
       "rank": 2,

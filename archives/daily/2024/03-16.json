@@ -1,6 +1,6 @@
 {
   "startTime": 1710519741451,
-  "endTime": 1710562888156,
+  "endTime": 1710563684571,
   "band_list": [
     {
       "raw_hot": 9137269,
@@ -59,6 +59,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1535983,
+      "num": 619963,
+      "word": "13岁初中生被同学杀害三人被刑拘",
+      "onboard_time": 1710563136,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1471590,
+      "num": 1471590,
+      "word": "数量全C",
+      "onboard_time": 1710562360,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1468668,
       "num": 1468668,
       "word": "杀害同学3名男生均13岁一人为同桌",
@@ -115,6 +131,22 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 965515,
+      "num": 965515,
+      "word": "赵丽颖背上好大一个包",
+      "onboard_time": 1710558034,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 914808,
+      "num": 914808,
+      "word": "馒头 花生",
+      "onboard_time": 1710561818,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 908695,
       "num": 908695,
       "word": "主持人马卉被永久封禁直播权限",
@@ -137,14 +169,6 @@
       "onboard_time": 1710514724,
       "rank": 10,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 813959,
-      "num": 813959,
-      "word": "赵丽颖背上好大一个包",
-      "onboard_time": 1710558034,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 812627,
@@ -203,14 +227,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 599289,
-      "num": 599289,
-      "word": "馒头 花生",
-      "onboard_time": 1710561818,
-      "rank": 11,
-      "category": "教育"
-    },
-    {
       "raw_hot": 596319,
       "num": 596319,
       "word": "茶颜悦色",
@@ -241,14 +257,6 @@
       "onboard_time": 1710548792,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 544797,
-      "num": 544797,
-      "word": "数量全C",
-      "onboard_time": 1710562360,
-      "rank": 12,
-      "category": "教育"
     },
     {
       "raw_hot": 533871,
@@ -289,6 +297,14 @@
       "onboard_time": 1710560799,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472223,
+      "num": 472223,
+      "word": "资料分析 招计算器呢",
+      "onboard_time": 1710562477,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 466424,
@@ -355,11 +371,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 403259,
+      "num": 403259,
+      "word": "TheShy力挺Ning",
+      "onboard_time": 1710562716,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 394725,
       "num": 394725,
       "word": "常识 我没有常识",
       "onboard_time": 1710561218,
       "rank": 15,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 391446,
+      "num": 391446,
+      "word": "花生十三",
+      "onboard_time": 1710562237,
+      "rank": 25,
       "category": "教育"
     },
     {
@@ -385,6 +417,14 @@
       "onboard_time": 1710555694,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 375016,
+      "num": 375016,
+      "word": "媒体称赵丽颖是行业一根救命稻草",
+      "onboard_time": 1710563136,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 374556,
@@ -417,6 +457,14 @@
       "onboard_time": 1710545547,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 353206,
+      "num": 353206,
+      "word": "省考图推 不吱声",
+      "onboard_time": 1710563017,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 339141,
@@ -456,14 +504,6 @@
       "word": "湖北省考 荒岛求生",
       "onboard_time": 1710561458,
       "rank": 23,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 317864,
-      "num": 317864,
-      "word": "花生十三",
-      "onboard_time": 1710562237,
-      "rank": 25,
       "category": "教育"
     },
     {
@@ -521,14 +561,6 @@
       "onboard_time": 1710557376,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 292097,
-      "num": 292097,
-      "word": "TheShy力挺Ning",
-      "onboard_time": 1710562716,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 290572,
@@ -609,14 +641,6 @@
       "onboard_time": 1710557376,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256910,
-      "num": 256910,
-      "word": "资料分析 招计算器呢",
-      "onboard_time": 1710562477,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 256241,
@@ -731,6 +755,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 214164,
+      "num": 214164,
+      "word": "湖南省考 数量刮刮乐",
+      "onboard_time": 1710562838,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 208768,
       "num": 208768,
       "word": "胡先煦改剧本",
@@ -745,6 +777,14 @@
       "onboard_time": 1710519990,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201111,
+      "num": 201111,
+      "word": "一场酣畅淋漓的下岸",
+      "onboard_time": 1710563378,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 199254,
@@ -883,20 +923,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162966,
+      "num": 162966,
+      "word": "天津市考 15个数量",
+      "onboard_time": 1710562716,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 162587,
+      "num": 162587,
+      "word": "小警犬只是成绩不好它并不是坏狗",
+      "onboard_time": 1710563619,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162266,
       "num": 162266,
       "word": "牙医认可的牙膏功能只有这3种",
       "onboard_time": 1710551733,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 158580,
-      "num": 158580,
-      "word": "天津市考 15个数量",
-      "onboard_time": 1710562716,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 155770,
@@ -945,14 +993,6 @@
       "onboard_time": 1710550233,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 152556,
-      "num": 152556,
-      "word": "湖南省考 数量刮刮乐",
-      "onboard_time": 1710562838,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 152438,
@@ -1275,8 +1315,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 11699,
-      "num": 1132961,
+      "raw_hot": 14534,
+      "num": 1403614,
       "word": "这就是春天里的中国",
       "onboard_time": 1710475056,
       "rank": 2,
