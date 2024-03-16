@@ -1,6 +1,6 @@
 {
   "startTime": 1710519741451,
-  "endTime": 1710567236486,
+  "endTime": 1710570038264,
   "band_list": [
     {
       "raw_hot": 9137269,
@@ -171,6 +171,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 902112,
+      "num": 607049,
+      "word": "老舅把陈赫认成酒店安保",
+      "onboard_time": 1710566196,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 897598,
       "num": 897598,
       "word": "女子快递收到13kg价值657万金条懵了",
@@ -251,14 +259,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 623756,
-      "num": 563766,
-      "word": "老舅把陈赫认成酒店安保",
-      "onboard_time": 1710566196,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 611804,
       "num": 611804,
       "word": "人吃了槽头肉会有什么危害",
@@ -289,6 +289,22 @@
       "onboard_time": 1710553895,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565242,
+      "num": 565242,
+      "word": "陈都灵唐装",
+      "onboard_time": 1710566736,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 552869,
+      "num": 420309,
+      "word": "活死人小李结婚",
+      "onboard_time": 1710568837,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 551010,
@@ -427,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 418043,
+      "num": 418043,
+      "word": "王诗龄与同学合照",
+      "onboard_time": 1710568651,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 417075,
       "num": 417075,
       "word": "宝马就315曝光道歉",
@@ -441,6 +465,14 @@
       "onboard_time": 1710561517,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 395261,
+      "num": 255836,
+      "word": "刚结婚老公开始算计我的嫁妆",
+      "onboard_time": 1710568234,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 394725,
@@ -513,6 +545,14 @@
       "onboard_time": 1710545547,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 351912,
+      "num": 351912,
+      "word": "孙颖莎林诗栋出席球员见面会",
+      "onboard_time": 1710568173,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 339141,
@@ -691,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 267177,
+      "num": 267177,
+      "word": "夸父炸串回应",
+      "onboard_time": 1710569132,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 263668,
       "num": 263668,
       "word": "茶百道客服回应门店篡改食品有效期",
@@ -769,14 +817,6 @@
       "onboard_time": 1710551373,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 245870,
-      "num": 245870,
-      "word": "陈都灵唐装",
-      "onboard_time": 1710566736,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 242152,
@@ -891,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201712,
+      "num": 201712,
+      "word": "你还会喝茶百道吗",
+      "onboard_time": 1710569010,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 201111,
       "num": 201111,
       "word": "一场酣畅淋漓的下岸",
@@ -899,12 +947,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 200148,
+      "num": 200148,
+      "word": "你手中的咖啡近六成是昆山烘焙",
+      "onboard_time": 1710567815,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 199254,
       "num": 199254,
       "word": "加沙物资领取点遭袭56死300伤",
       "onboard_time": 1710548554,
       "rank": 27,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 198775,
+      "num": 198775,
+      "word": "宝马",
+      "onboard_time": 1710569313,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 197886,
@@ -1003,6 +1067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188031,
+      "num": 188031,
+      "word": "近视不戴眼镜会加重发展",
+      "onboard_time": 1710564873,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 187810,
       "num": 187810,
       "word": "文韬努力作废但帅",
@@ -1041,6 +1113,14 @@
       "onboard_time": 1710516280,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 176295,
+      "num": 176295,
+      "word": "赵丽颖吐槽林更新拍照技术",
+      "onboard_time": 1710569435,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 174775,
@@ -1099,20 +1179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155650,
-      "num": 155650,
-      "word": "近视不戴眼镜会加重发展",
-      "onboard_time": 1710564873,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 155432,
       "num": 155432,
       "word": "ENHYPEN出发上海",
       "onboard_time": 1710560555,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155027,
+      "num": 155027,
+      "word": "李兰迪演失恋",
+      "onboard_time": 1710569372,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 153339,
@@ -1153,6 +1233,14 @@
       "onboard_time": 1710555155,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151280,
+      "num": 151280,
+      "word": "近8成网友认为奶茶消杯不正常",
+      "onboard_time": 1710569435,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 151181,
@@ -1211,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134886,
+      "num": 134886,
+      "word": "64岁惠英红的敬业精神",
+      "onboard_time": 1710569251,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 133783,
       "num": 133783,
       "word": "一碗麻辣烫的背后",
@@ -1267,12 +1363,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 123918,
+      "num": 123918,
+      "word": "刘浩存影院门口送向日葵",
+      "onboard_time": 1710569851,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122473,
       "num": 181204,
       "word": "梅菜扣肉原料竟是劣质槽头肉",
       "onboard_time": 1710508902,
       "rank": 46,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 120058,
+      "num": 120058,
+      "word": "许昕你管这叫一丁点辣",
+      "onboard_time": 1710567457,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 118580,
@@ -1297,6 +1409,14 @@
       "onboard_time": 1710550591,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108893,
+      "num": 108893,
+      "word": "男生开美颜前后差距有多大",
+      "onboard_time": 1710568054,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 108660,
@@ -1428,7 +1548,7 @@
     },
     {
       "raw_hot": 40227,
-      "num": 154749,
+      "num": 256236,
       "word": "新能源汽车安全黑科技",
       "onboard_time": 1710567039,
       "rank": 43,

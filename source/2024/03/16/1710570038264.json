@@ -1,0 +1,410 @@
+{
+  "runTime": 1710570038264,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 734865,
+        "num": 734865,
+        "word": "女子快递收到13kg价值657万金条懵了",
+        "onboard_time": 1710559234,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697591,
+        "num": 697591,
+        "word": "省考",
+        "onboard_time": 1710547951,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 16781,
+        "num": 611067,
+        "word": "这就是春天里的中国",
+        "onboard_time": 1710475056,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 902112,
+        "num": 607049,
+        "word": "老舅把陈赫认成酒店安保",
+        "onboard_time": 1710566196,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597649,
+        "num": 597649,
+        "word": "媒体称赵丽颖是行业一根救命稻草",
+        "onboard_time": 1710563136,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565242,
+        "num": 565242,
+        "word": "陈都灵唐装",
+        "onboard_time": 1710566736,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 560197,
+        "num": 560197,
+        "word": "数量全C",
+        "onboard_time": 1710562360,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 559250,
+        "num": 559250,
+        "word": "鸭血 甲醛",
+        "onboard_time": 1710556175,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 438686,
+        "num": 438686,
+        "word": "315",
+        "onboard_time": 1710565894,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420329,
+        "num": 420329,
+        "word": "茉酸奶发布声明",
+        "onboard_time": 1710555271,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 552869,
+        "num": 420309,
+        "word": "活死人小李结婚",
+        "onboard_time": 1710568837,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418043,
+        "num": 418043,
+        "word": "王诗龄与同学合照",
+        "onboard_time": 1710568651,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415649,
+        "num": 415649,
+        "word": "徐正溪姑姑 汤臣一品",
+        "onboard_time": 1710551853,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398556,
+        "num": 398556,
+        "word": "百果园回应将烂果做高端果切售卖",
+        "onboard_time": 1710560799,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351912,
+        "num": 351912,
+        "word": "孙颖莎林诗栋出席球员见面会",
+        "onboard_time": 1710568173,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330991,
+        "num": 330991,
+        "word": "射雕黄蓉",
+        "onboard_time": 1710564818,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 313898,
+        "num": 313898,
+        "word": "TheShy力挺Ning",
+        "onboard_time": 1710562716,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 306896,
+        "num": 306896,
+        "word": "馒头 花生",
+        "onboard_time": 1710561818,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 267177,
+        "num": 267177,
+        "word": "夸父炸串回应",
+        "onboard_time": 1710569132,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 256813,
+        "num": 256813,
+        "word": "赵丽颖背上好大一个包",
+        "onboard_time": 1710558034,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34197,
+        "num": 256236,
+        "word": "新能源汽车安全黑科技",
+        "onboard_time": 1710567039,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 395261,
+        "num": 255836,
+        "word": "刚结婚老公开始算计我的嫁妆",
+        "onboard_time": 1710568234,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 383603,
+        "num": 255017,
+        "word": "因为暂时失业被父母说啃老",
+        "onboard_time": 1710566618,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289603,
+        "num": 254214,
+        "word": "杀害同学3名男生均13岁一人为同桌",
+        "onboard_time": 1710555994,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253448,
+        "num": 253448,
+        "word": "315晚会",
+        "onboard_time": 1710502477,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228674,
+        "num": 228674,
+        "word": "爸爸退休返聘年薪12万",
+        "onboard_time": 1710543806,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203867,
+        "num": 203867,
+        "word": "张杰演唱会高铁地广",
+        "onboard_time": 1710566014,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201712,
+        "num": 201712,
+        "word": "你还会喝茶百道吗",
+        "onboard_time": 1710569010,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200148,
+        "num": 200148,
+        "word": "你手中的咖啡近六成是昆山烘焙",
+        "onboard_time": 1710567815,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 198775,
+        "num": 198775,
+        "word": "宝马",
+        "onboard_time": 1710569313,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 188031,
+        "num": 188031,
+        "word": "近视不戴眼镜会加重发展",
+        "onboard_time": 1710564873,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178622,
+        "num": 178622,
+        "word": "申论 考一百就上岸",
+        "onboard_time": 1710564036,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176295,
+        "num": 176295,
+        "word": "赵丽颖吐槽林更新拍照技术",
+        "onboard_time": 1710569435,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170605,
+        "num": 170605,
+        "word": "绝区零疯狂暗示",
+        "onboard_time": 1710566618,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157697,
+        "num": 157697,
+        "word": "花间令装死女和死装男",
+        "onboard_time": 1710565415,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155027,
+        "num": 155027,
+        "word": "李兰迪演失恋",
+        "onboard_time": 1710569372,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153853,
+        "num": 153853,
+        "word": "茶颜悦色放置半小时仅剩半杯",
+        "onboard_time": 1710510763,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152292,
+        "num": 152292,
+        "word": "国家市监局积极回应315晚会",
+        "onboard_time": 1710565052,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151280,
+        "num": 151280,
+        "word": "近8成网友认为奶茶消杯不正常",
+        "onboard_time": 1710569435,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145461,
+        "num": 145461,
+        "word": "小警犬只是成绩不好它并不是坏狗",
+        "onboard_time": 1710563619,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134886,
+        "num": 134886,
+        "word": "64岁惠英红的敬业精神",
+        "onboard_time": 1710569251,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131815,
+        "num": 131815,
+        "word": "甘肃麻辣烫大叔请注意表情管理",
+        "onboard_time": 1710566618,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 130391,
+        "num": 130391,
+        "word": "张雪峰老师称听花酒和他没关系",
+        "onboard_time": 1710560078,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129877,
+        "num": 129877,
+        "word": "克里斯回应TheShy粉丝",
+        "onboard_time": 1710566618,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126083,
+        "num": 126083,
+        "word": "原来这就是空姐飞长途睡觉的地方",
+        "onboard_time": 1710557376,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125790,
+        "num": 125790,
+        "word": "34岁突然知道自己是抱养的",
+        "onboard_time": 1710558513,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123918,
+        "num": 123918,
+        "word": "刘浩存影院门口送向日葵",
+        "onboard_time": 1710569851,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120058,
+        "num": 120058,
+        "word": "许昕你管这叫一丁点辣",
+        "onboard_time": 1710567457,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111089,
+        "num": 111089,
+        "word": "五哈4草率启动仪式",
+        "onboard_time": 1710565716,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108893,
+        "num": 108893,
+        "word": "男生开美颜前后差距有多大",
+        "onboard_time": 1710568054,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#中安关系提升为全面战略合作伙伴关系#"
+    }
+  }
+}
