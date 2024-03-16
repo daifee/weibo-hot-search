@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710620228324,
+  "endTime": 1710621330165,
   "band_list": [
     {
       "raw_hot": 1747609,
@@ -419,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98028,
+      "num": 46502,
+      "word": "西工大女教授公开名下研究生去向走红",
+      "onboard_time": 1710617478,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98026,
       "num": 341918,
       "word": "iPhone相机拍照说明书",
@@ -432,14 +440,6 @@
       "word": "雅江山火",
       "onboard_time": 1710586114,
       "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 95962,
-      "num": 46502,
-      "word": "西工大女教授公开名下研究生去向走红",
-      "onboard_time": 1710617478,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -531,12 +531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 14991,
+      "raw_hot": 19932,
       "num": 33623,
       "word": "2024全英公开赛",
       "onboard_time": 1710616697,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15131,
+      "num": 31762,
+      "word": "花间令追剧日历",
+      "onboard_time": 1710620897,
+      "rank": 43,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
