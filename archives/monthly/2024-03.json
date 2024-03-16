@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710566298488,
+  "endTime": 1710567236486,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -3587,6 +3587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 970135,
+      "num": 970135,
+      "word": "媒体称赵丽颖是行业一根救命稻草",
+      "onboard_time": 1710563136,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 968460,
       "num": 968460,
       "word": "张雨绮相亲",
@@ -3713,6 +3721,14 @@
       "onboard_time": 1710469291,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 957578,
+      "num": 957578,
+      "word": "名创优品chiikawa",
+      "onboard_time": 1710565119,
+      "rank": 8,
+      "category": "动漫"
     },
     {
       "raw_hot": 954647,
@@ -4627,14 +4643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 825087,
-      "num": 825087,
-      "word": "媒体称赵丽颖是行业一根救命稻草",
-      "onboard_time": 1710563136,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 824704,
       "num": 822656,
       "word": "香港双婴尸案今日提堂",
@@ -5209,14 +5217,6 @@
       "onboard_time": 1710222033,
       "rank": 4,
       "category": "数码"
-    },
-    {
-      "raw_hot": 767070,
-      "num": 767070,
-      "word": "名创优品chiikawa",
-      "onboard_time": 1710565119,
-      "rank": 8,
-      "category": "动漫"
     },
     {
       "raw_hot": 766159,
@@ -7241,6 +7241,14 @@
       "onboard_time": 1709853445,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 623756,
+      "num": 563766,
+      "word": "老舅把陈赫认成酒店安保",
+      "onboard_time": 1710566196,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 623026,
@@ -11873,6 +11881,14 @@
       "onboard_time": 1709864727,
       "rank": 20,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 426557,
+      "num": 366723,
+      "word": "因为暂时失业被父母说啃老",
+      "onboard_time": 1710566618,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 426394,
@@ -17339,6 +17355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286671,
+      "num": 286671,
+      "word": "花间令装死女和死装男",
+      "onboard_time": 1710565415,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286283,
       "num": 255816,
       "word": "万科股价大跌",
@@ -17353,6 +17377,14 @@
       "onboard_time": 1710031767,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286124,
+      "num": 286124,
+      "word": "绝区零疯狂暗示",
+      "onboard_time": 1710566618,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 286054,
@@ -18337,6 +18369,14 @@
       "onboard_time": 1710297813,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 268550,
+      "num": 268550,
+      "word": "张杰演唱会高铁地广",
+      "onboard_time": 1710566014,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 268519,
@@ -19347,14 +19387,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 252850,
-      "num": 252850,
-      "word": "花间令装死女和死装男",
-      "onboard_time": 1710565415,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252822,
       "num": 252822,
       "word": "越长大越没有二手羞耻了",
@@ -19801,6 +19833,14 @@
       "onboard_time": 1709462132,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 245870,
+      "num": 245870,
+      "word": "陈都灵唐装",
+      "onboard_time": 1710566736,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 245801,
@@ -22931,6 +22971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212188,
+      "num": 212188,
+      "word": "种地吧",
+      "onboard_time": 1709295513,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212172,
       "num": 212172,
       "word": "官方澄清燕郊爆燃事故和炸鸡店无关",
@@ -24113,14 +24161,6 @@
       "onboard_time": 1710339636,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 203600,
-      "num": 203600,
-      "word": "种地吧",
-      "onboard_time": 1709295513,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 203534,
@@ -26499,6 +26539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189400,
+      "num": 189400,
+      "word": "五哈4草率启动仪式",
+      "onboard_time": 1710565716,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189330,
       "num": 189330,
       "word": "亚洲超星团排名",
@@ -26673,6 +26721,14 @@
       "onboard_time": 1710157831,
       "rank": 39,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 188341,
+      "num": 188341,
+      "word": "克里斯回应TheShy粉丝",
+      "onboard_time": 1710566618,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 188222,
@@ -27307,14 +27363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183738,
-      "num": 183738,
-      "word": "张杰演唱会高铁地广",
-      "onboard_time": 1710566014,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 183698,
       "num": 183698,
       "word": "终于知道电视里为啥喜欢买芹菜",
@@ -27809,14 +27857,6 @@
       "onboard_time": 1709690671,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 180828,
-      "num": 180828,
-      "word": "五哈4草率启动仪式",
-      "onboard_time": 1710565716,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 180787,
@@ -29611,14 +29651,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 168788,
-      "num": 168788,
-      "word": "老舅把陈赫认成酒店安保",
-      "onboard_time": 1710566196,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168681,
       "num": 168681,
       "word": "樊振东3比0卢伟",
@@ -30673,6 +30705,14 @@
       "onboard_time": 1709344108,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162289,
+      "num": 162289,
+      "word": "甘肃麻辣烫大叔请注意表情管理",
+      "onboard_time": 1710566618,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 162266,
@@ -32033,6 +32073,14 @@
       "onboard_time": 1710121711,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 155650,
+      "num": 155650,
+      "word": "近视不戴眼镜会加重发展",
+      "onboard_time": 1710564873,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 155592,
@@ -35161,14 +35209,6 @@
       "onboard_time": 1710175283,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 138583,
-      "num": 138583,
-      "word": "近视不戴眼镜会加重发展",
-      "onboard_time": 1710564873,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 138565,
@@ -43473,6 +43513,14 @@
       "onboard_time": 1709323036,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40227,
+      "num": 154749,
+      "word": "新能源汽车安全黑科技",
+      "onboard_time": 1710567039,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 40154,
