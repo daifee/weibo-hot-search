@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710613337975,
+  "endTime": 1710614166401,
   "band_list": [
     {
       "raw_hot": 1747609,
@@ -475,20 +475,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31859,
-      "num": 141723,
+      "raw_hot": 43612,
+      "num": 144023,
+      "word": "就地原谅淀粉肠的人为何如此偏爱",
+      "onboard_time": 1710613159,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 39203,
+      "num": 143610,
       "word": "鞠婧祎杨枝甘露妆",
       "onboard_time": 1710612980,
       "rank": 45,
       "category": "剧集"
     },
     {
-      "raw_hot": 28802,
-      "num": 141715,
-      "word": "就地原谅淀粉肠的人为何如此偏爱",
-      "onboard_time": 1710613159,
-      "rank": 48,
-      "category": "美食"
+      "raw_hot": 27216,
+      "num": 142981,
+      "word": "无畏契约",
+      "onboard_time": 1710613998,
+      "rank": 46,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [

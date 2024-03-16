@@ -1,0 +1,410 @@
+{
+  "runTime": 1710614166401,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 321444,
+        "num": 321444,
+        "word": "金价下跌了",
+        "onboard_time": 1710601838,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 220379,
+        "num": 220379,
+        "word": "父亲希望AI复活乔任梁视频尽快下架",
+        "onboard_time": 1710599379,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34046,
+        "num": 175664,
+        "word": "有一种意境叫中式美学",
+        "onboard_time": 1710600578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168372,
+        "num": 168372,
+        "word": "焉栩嘉头发都被扇飞了",
+        "onboard_time": 1710606931,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159335,
+        "num": 159335,
+        "word": "纪凌尘beng",
+        "onboard_time": 1710600517,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145456,
+        "num": 145456,
+        "word": "郑合惠子 不要捧一踩一",
+        "onboard_time": 1710591093,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145113,
+        "num": 145113,
+        "word": "你好星期六下期0713VS院人",
+        "onboard_time": 1710605790,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129270,
+        "num": 145107,
+        "word": "林孝埈500米夺金",
+        "onboard_time": 1710606749,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101698,
+        "num": 145059,
+        "word": "中医从不提倡多喝水",
+        "onboard_time": 1710591093,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 66293,
+        "num": 145004,
+        "word": "所以明天到底该吃什么",
+        "onboard_time": 1710582455,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162047,
+        "num": 144937,
+        "word": "身上这种小疙瘩或是HPV感染",
+        "onboard_time": 1710601779,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150309,
+        "num": 144895,
+        "word": "威廉王子修图风波后首谈凯特王妃",
+        "onboard_time": 1710596376,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114669,
+        "num": 144803,
+        "word": "何悯鸿向渣男下跪",
+        "onboard_time": 1710602136,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111090,
+        "num": 144743,
+        "word": "凯特",
+        "onboard_time": 1710599137,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95708,
+        "num": 144715,
+        "word": "林俊杰杭州演唱会6万人荧光棒浪接力",
+        "onboard_time": 1710606632,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88083,
+        "num": 144664,
+        "word": "油脂鼻头",
+        "onboard_time": 1710609505,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 69165,
+        "num": 144620,
+        "word": "吴镇宇被张睿气走了",
+        "onboard_time": 1710594998,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60386,
+        "num": 144567,
+        "word": "李菲儿向锦超道歉",
+        "onboard_time": 1710596918,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47184,
+        "num": 144508,
+        "word": "申论",
+        "onboard_time": 1710578976,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 35228,
+        "num": 144423,
+        "word": "孙龙世锦赛夺金",
+        "onboard_time": 1710598235,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254408,
+        "num": 144372,
+        "word": "女孩自己注射1mg司美格鲁肽送医抢救",
+        "onboard_time": 1710609026,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79067,
+        "num": 144301,
+        "word": "家庭资产400万怎么才能躺平",
+        "onboard_time": 1710598418,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66222,
+        "num": 144271,
+        "word": "近十年都没有涨过价的东西",
+        "onboard_time": 1710594637,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 54599,
+        "num": 144218,
+        "word": "欢乐颂5",
+        "onboard_time": 1710589416,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52211,
+        "num": 144138,
+        "word": "为什么爸妈从来没想过给女儿买房",
+        "onboard_time": 1710579453,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47387,
+        "num": 144093,
+        "word": "鞠婧祎的脸颊肉",
+        "onboard_time": 1710599379,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45731,
+        "num": 144078,
+        "word": "billkin演唱会",
+        "onboard_time": 1710594452,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43612,
+        "num": 144023,
+        "word": "就地原谅淀粉肠的人为何如此偏爱",
+        "onboard_time": 1710613159,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 42699,
+        "num": 143968,
+        "word": "李菲儿锦超争执",
+        "onboard_time": 1710596316,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32132,
+        "num": 143911,
+        "word": "王艺迪说自己整体能力不够",
+        "onboard_time": 1710597097,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41835,
+        "num": 143836,
+        "word": "你们有名字羞耻症吗",
+        "onboard_time": 1710597097,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40341,
+        "num": 143802,
+        "word": "无意间看到爸爸说我自私",
+        "onboard_time": 1710600817,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40117,
+        "num": 143709,
+        "word": "花间令",
+        "onboard_time": 1710583234,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37858,
+        "num": 143681,
+        "word": "宋茜丁禹兮同框路透",
+        "onboard_time": 1710602920,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39203,
+        "num": 143610,
+        "word": "鞠婧祎杨枝甘露妆",
+        "onboard_time": 1710612980,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37386,
+        "num": 143582,
+        "word": "与凤行芒果先导片",
+        "onboard_time": 1710605850,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36679,
+        "num": 143522,
+        "word": "花间令强吻戏",
+        "onboard_time": 1710594037,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36441,
+        "num": 143454,
+        "word": "唐嫣赫本公主风",
+        "onboard_time": 1710593013,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 36090,
+        "num": 143387,
+        "word": "大侦探你期待的双侦探组合",
+        "onboard_time": 1710605552,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30114,
+        "num": 143353,
+        "word": "315守护舌尖上的安全",
+        "onboard_time": 1710603637,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35693,
+        "num": 143273,
+        "word": "TTG 张凯",
+        "onboard_time": 1710602255,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35317,
+        "num": 143256,
+        "word": "张睿动一下就扣5分",
+        "onboard_time": 1710605430,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35157,
+        "num": 143186,
+        "word": "iPhone相机拍照说明书",
+        "onboard_time": 1710597637,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 32121,
+        "num": 143123,
+        "word": "迪丽热巴北京出发进组路透",
+        "onboard_time": 1710598055,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31376,
+        "num": 143098,
+        "word": "洽洽 绘旅人",
+        "onboard_time": 1710602555,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27343,
+        "num": 143021,
+        "word": "枭起青壤",
+        "onboard_time": 1710603039,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27216,
+        "num": 142981,
+        "word": "无畏契约",
+        "onboard_time": 1710613998,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26614,
+        "num": 142915,
+        "word": "宋轶骨相妆",
+        "onboard_time": 1710608427,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26340,
+        "num": 142845,
+        "word": "短道速滑",
+        "onboard_time": 1710595417,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25750,
+        "num": 142821,
+        "word": "雅江山火",
+        "onboard_time": 1710586114,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#培育发展新质生产力的新动能#"
+    }
+  }
+}
