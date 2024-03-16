@@ -1,6 +1,6 @@
 {
   "startTime": 1710519741451,
-  "endTime": 1710599661746,
+  "endTime": 1710602136535,
   "band_list": [
     {
       "raw_hot": 9137269,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1430075,
+      "num": 1430075,
+      "word": "父亲希望AI复活乔任梁视频尽快下架",
+      "onboard_time": 1710599379,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1382268,
       "num": 928604,
       "word": "郑合惠子 不要捧一踩一",
@@ -171,6 +179,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1218556,
+      "num": 1218556,
+      "word": "凯特",
+      "onboard_time": 1710599137,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1217240,
       "num": 1217240,
       "word": "爸爸退休返聘年薪12万",
@@ -201,6 +217,14 @@
       "onboard_time": 1710575253,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1158320,
+      "num": 1158320,
+      "word": "河北省公安厅介入初中生杀害同学案",
+      "onboard_time": 1710599858,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1120092,
@@ -419,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 697748,
+      "num": 697748,
+      "word": "纪凌尘beng",
+      "onboard_time": 1710600517,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 684832,
       "num": 684832,
       "word": "樊振东王楚钦vs马龙林高远",
@@ -473,6 +505,14 @@
       "onboard_time": 1710484117,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 637317,
+      "num": 420447,
+      "word": "身上这种小疙瘩或是HPV感染",
+      "onboard_time": 1710601779,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 617928,
@@ -619,14 +659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 515405,
-      "num": 442439,
-      "word": "父亲希望AI复活乔任梁视频尽快下架",
-      "onboard_time": 1710599379,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 508770,
       "num": 508770,
       "word": "三甲医院被曝问题九价HPV疫苗交易",
@@ -673,14 +705,6 @@
       "onboard_time": 1710579453,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 493868,
-      "num": 493868,
-      "word": "凯特",
-      "onboard_time": 1710599137,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 489228,
@@ -739,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478119,
+      "num": 402029,
+      "word": "金价下跌了",
+      "onboard_time": 1710601838,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 476479,
       "num": 476479,
       "word": "孙龙进决赛",
@@ -747,12 +779,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 472835,
+      "num": 395554,
+      "word": "罗翔谈未成年人杀人埋尸案",
+      "onboard_time": 1710600759,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472223,
       "num": 472223,
       "word": "资料分析 招计算器呢",
       "onboard_time": 1710562477,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 472062,
+      "num": 419491,
+      "word": "鞠婧祎的脸颊肉",
+      "onboard_time": 1710599379,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 466732,
@@ -880,14 +928,6 @@
       "word": "唐晓天赵露思身高差",
       "onboard_time": 1710580955,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 419491,
-      "num": 419491,
-      "word": "鞠婧祎的脸颊肉",
-      "onboard_time": 1710599379,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -1091,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341473,
+      "num": 341473,
+      "word": "王濛首次讲述原生家庭",
+      "onboard_time": 1710598658,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340928,
       "num": 295379,
       "word": "你还会喝茶百道吗",
@@ -1161,14 +1209,6 @@
       "onboard_time": 1710550953,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 308395,
-      "num": 308395,
-      "word": "王濛首次讲述原生家庭",
-      "onboard_time": 1710598658,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 307696,
@@ -1267,12 +1307,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289893,
+      "num": 289893,
+      "word": "花间令 喜欢的人成了我外室",
+      "onboard_time": 1710600936,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288654,
       "num": 288654,
       "word": "听花酒",
       "onboard_time": 1710550831,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 287420,
+      "num": 287420,
+      "word": "时空中的绘旅人",
+      "onboard_time": 1710599917,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 286939,
@@ -1425,6 +1481,14 @@
       "onboard_time": 1710557376,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259113,
+      "num": 259113,
+      "word": "无意间看到爸爸说我自私",
+      "onboard_time": 1710600817,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 258832,
@@ -1611,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231545,
+      "num": 231545,
+      "word": "凤凰传奇只有冷门前奏没有冷门歌曲",
+      "onboard_time": 1710600037,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 230235,
       "num": 230235,
       "word": "短剧的风吹到了TF三代",
@@ -1649,6 +1721,14 @@
       "onboard_time": 1710516521,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227006,
+      "num": 227006,
+      "word": "音乐生毕业就业方向",
+      "onboard_time": 1710601779,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 226908,
@@ -1801,6 +1881,14 @@
       "onboard_time": 1710566254,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210618,
+      "num": 1257785,
+      "word": "有一种意境叫中式美学",
+      "onboard_time": 1710600578,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208768,
@@ -2211,6 +2299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 179576,
+      "num": 179576,
+      "word": "王楚钦说守住半区最值得高兴",
+      "onboard_time": 1710601779,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176295,
       "num": 295354,
       "word": "赵丽颖吐槽林更新拍照技术",
@@ -2241,6 +2337,14 @@
       "onboard_time": 1710550233,
       "rank": 35,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 173690,
+      "num": 173690,
+      "word": "袁一琦生日会",
+      "onboard_time": 1710601479,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 172797,
@@ -2539,6 +2643,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 138813,
+      "num": 138813,
+      "word": "RW战胜TTG",
+      "onboard_time": 1710600637,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137846,
       "num": 137846,
       "word": "食品安全岂能被扣碗外",
@@ -2625,6 +2737,14 @@
       "onboard_time": 1710585214,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129391,
+      "num": 129391,
+      "word": "文韬三十岁生日大片",
+      "onboard_time": 1710602077,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 128663,
@@ -2857,6 +2977,14 @@
       "onboard_time": 1710560257,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 80967,
+      "num": 231183,
+      "word": "马面裙订单量同比增841%",
+      "onboard_time": 1710600397,
+      "rank": 29,
+      "category": "时尚"
     },
     {
       "raw_hot": 73565,
