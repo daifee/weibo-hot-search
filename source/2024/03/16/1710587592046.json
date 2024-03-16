@@ -1,0 +1,410 @@
+{
+  "runTime": 1710587592046,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1915953,
+        "num": 1915953,
+        "word": "成都的天",
+        "onboard_time": 1710585035,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1156644,
+        "num": 1156644,
+        "word": "申论",
+        "onboard_time": 1710578976,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 56399,
+        "num": 1098764,
+        "word": "诚信是安全之基信心之源",
+        "onboard_time": 1710586656,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1098195,
+        "num": 1098195,
+        "word": "所以明天到底该吃什么",
+        "onboard_time": 1710582455,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 823442,
+        "num": 823442,
+        "word": "省考",
+        "onboard_time": 1710547951,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 812834,
+        "num": 812834,
+        "word": "雅江山火",
+        "onboard_time": 1710586114,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611129,
+        "num": 611129,
+        "word": "郑合惠子发声",
+        "onboard_time": 1710573992,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 596405,
+        "num": 596405,
+        "word": "王艺迪不再适合参与巴黎奥运女单竞争",
+        "onboard_time": 1710575190,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199622,
+        "num": 569781,
+        "word": "小学生卡喉店铺老板冲出来20秒救人",
+        "onboard_time": 1710582635,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521607,
+        "num": 568613,
+        "word": "西安女子去天水吃麻辣烫被宠上天",
+        "onboard_time": 1710582635,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 568271,
+        "num": 568271,
+        "word": "多个上门按摩APP被曝涉黄",
+        "onboard_time": 1710575253,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 505354,
+        "num": 505354,
+        "word": "虞书欣豌豆公主的床",
+        "onboard_time": 1710586416,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383877,
+        "num": 383877,
+        "word": "315",
+        "onboard_time": 1710565894,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372770,
+        "num": 372770,
+        "word": "龙宝宝取名捅了辰的窝吗",
+        "onboard_time": 1710583352,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354692,
+        "num": 354692,
+        "word": "多家315曝光公司被调查",
+        "onboard_time": 1710584796,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352030,
+        "num": 352030,
+        "word": "冯小刚为养女庆18岁生日",
+        "onboard_time": 1710570573,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342920,
+        "num": 342920,
+        "word": "花间令 恶女角色",
+        "onboard_time": 1710586474,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330588,
+        "num": 330588,
+        "word": "陈梦王曼昱争奥运女单",
+        "onboard_time": 1710585214,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313951,
+        "num": 313951,
+        "word": "夸父炸串回应",
+        "onboard_time": 1710569132,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 306584,
+        "num": 306584,
+        "word": "省考行测答案",
+        "onboard_time": 1710581614,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 334282,
+        "num": 301939,
+        "word": "为什么爸妈从来没想过给女儿买房",
+        "onboard_time": 1710579453,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296834,
+        "num": 296834,
+        "word": "独居后终于理解了电视的意义",
+        "onboard_time": 1710585935,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263995,
+        "num": 263995,
+        "word": "没想到大学生成了最大的受害者",
+        "onboard_time": 1710585935,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241042,
+        "num": 241042,
+        "word": "林俊杰杭州演唱会",
+        "onboard_time": 1710585333,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237353,
+        "num": 237353,
+        "word": "夫妻高层装防护栏不慎坠亡",
+        "onboard_time": 1710573573,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229477,
+        "num": 229477,
+        "word": "申论创新",
+        "onboard_time": 1710583412,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223483,
+        "num": 223483,
+        "word": "甘肃麻辣烫大叔忙到快碎了",
+        "onboard_time": 1710586773,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 214831,
+        "num": 214831,
+        "word": "王艺迪4比0陈幸同",
+        "onboard_time": 1710584133,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212206,
+        "num": 212206,
+        "word": "活死人小李结婚",
+        "onboard_time": 1710568837,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203230,
+        "num": 203230,
+        "word": "唐晓天赵露思身高差",
+        "onboard_time": 1710580955,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195735,
+        "num": 195735,
+        "word": "边伯贤演唱会",
+        "onboard_time": 1710584796,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183327,
+        "num": 183327,
+        "word": "马龙WTT首冠",
+        "onboard_time": 1710583295,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182895,
+        "num": 182895,
+        "word": "被小孩姐的发量伤到了",
+        "onboard_time": 1710580833,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182609,
+        "num": 182609,
+        "word": "看了315晚会后不能吃的东西",
+        "onboard_time": 1710584254,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 162795,
+        "num": 162795,
+        "word": "柏木由纪毕业演唱会",
+        "onboard_time": 1710586773,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162704,
+        "num": 162704,
+        "word": "甘肃文旅喊话麻辣烫老板注意表情管理",
+        "onboard_time": 1710578852,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 155820,
+        "num": 155820,
+        "word": "朱志鑫15岁综艺未公开片段",
+        "onboard_time": 1710583113,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153090,
+        "num": 153090,
+        "word": "伊能静发长文谈儿子哈利",
+        "onboard_time": 1710574832,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148219,
+        "num": 148219,
+        "word": "烈焰 凡人弑神",
+        "onboard_time": 1710587073,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137304,
+        "num": 137304,
+        "word": "花间令",
+        "onboard_time": 1710583234,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135857,
+        "num": 135857,
+        "word": "徐正溪姑姑 汤臣一品",
+        "onboard_time": 1710551853,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125972,
+        "num": 125972,
+        "word": "省考估分",
+        "onboard_time": 1710583715,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125352,
+        "num": 125352,
+        "word": "向佐三分之二半月板被切除",
+        "onboard_time": 1710574652,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123067,
+        "num": 123067,
+        "word": "有价无价",
+        "onboard_time": 1710581915,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115721,
+        "num": 115721,
+        "word": "别对我动心 吻戏19定律",
+        "onboard_time": 1710586173,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115702,
+        "num": 115702,
+        "word": "315晚会",
+        "onboard_time": 1710502477,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113579,
+        "num": 113579,
+        "word": "头像洁癖",
+        "onboard_time": 1710577292,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112250,
+        "num": 112250,
+        "word": "王艺迪vs陈幸同",
+        "onboard_time": 1710583234,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111105,
+        "num": 111105,
+        "word": "你还会喝茶百道吗",
+        "onboard_time": 1710569010,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110420,
+        "num": 110420,
+        "word": "ENHYPEN上海签售",
+        "onboard_time": 1710583715,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#中安关系提升为全面战略合作伙伴关系#"
+    }
+  }
+}
