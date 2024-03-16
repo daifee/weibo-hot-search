@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710588845044,
+  "endTime": 1710592267859,
   "band_list": [
     {
       "raw_hot": 10990895,
@@ -2507,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 793905,
+      "num": 793905,
+      "word": "没想到大学生成了最大的受害者",
+      "onboard_time": 1710585935,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 790470,
       "num": 351605,
       "word": "孟羽童回应整容",
@@ -2603,6 +2611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 774046,
+      "num": 401212,
+      "word": "港媒报道肖战",
+      "onboard_time": 1710588872,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 772875,
       "num": 772875,
       "word": "婚礼后男方拒领证要回5万多彩礼",
@@ -2665,6 +2681,14 @@
       "onboard_time": 1710129512,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 762417,
+      "num": 388993,
+      "word": "中医从不提倡多喝水",
+      "onboard_time": 1710591093,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 761251,
@@ -5195,6 +5219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 466732,
+      "num": 466732,
+      "word": "梁靖崑vs林昀儒",
+      "onboard_time": 1710590314,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 466306,
       "num": 466306,
       "word": "剑网3永久取消装备修理费",
@@ -5571,6 +5603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 434285,
+      "num": 374331,
+      "word": "郑合惠子 不要捧一踩一",
+      "onboard_time": 1710591093,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 434144,
       "num": 434144,
       "word": "太湖湾音乐节 十个勤天",
@@ -5611,12 +5651,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 431061,
+      "num": 357863,
+      "word": "原来月休四天不算是单休",
+      "onboard_time": 1710588213,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 430378,
       "num": 430378,
       "word": "花400万买法拉利竟漏雨",
       "onboard_time": 1710480636,
       "rank": 43,
       "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 430126,
+      "num": 430126,
+      "word": "你好星期六",
+      "onboard_time": 1710591213,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 429785,
@@ -6667,14 +6723,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 363450,
-      "num": 363450,
-      "word": "没想到大学生成了最大的受害者",
-      "onboard_time": 1710585935,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 361921,
       "num": 361921,
       "word": "枭起青壤",
@@ -7443,6 +7491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 320537,
+      "num": 320537,
+      "word": "边伯贤粉丝 生菜发夹",
+      "onboard_time": 1710588456,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 319595,
       "num": 319595,
       "word": "原神开门",
@@ -8137,14 +8193,6 @@
       "onboard_time": 1710571652,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295193,
-      "num": 295193,
-      "word": "原来月休四天不算是单休",
-      "onboard_time": 1710588213,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 294738,
@@ -9115,6 +9163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256142,
+      "num": 256142,
+      "word": "欢乐颂5",
+      "onboard_time": 1710589416,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256141,
       "num": 256141,
       "word": "市监总局回应315曝光肉类问题",
@@ -9145,6 +9201,14 @@
       "onboard_time": 1710559956,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254666,
+      "num": 254666,
+      "word": "四川交警通知国道318线临时交通管制",
+      "onboard_time": 1710590493,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254275,
@@ -9267,6 +9331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251242,
+      "num": 251242,
+      "word": "红莲 赤练",
+      "onboard_time": 1710591157,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 251212,
       "num": 251212,
       "word": "厂长怒斥Fisher",
@@ -9324,7 +9396,7 @@
     },
     {
       "raw_hot": 249609,
-      "num": 204780,
+      "num": 233387,
       "word": "指甲刀居然还有安全模式",
       "onboard_time": 1710588213,
       "rank": 30,
@@ -10227,6 +10299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228578,
+      "num": 228578,
+      "word": "梁靖崑4比2林昀儒",
+      "onboard_time": 1710591574,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228469,
       "num": 228469,
       "word": "法学331",
@@ -10680,6 +10760,14 @@
       "word": "刘诗诗近期碎片",
       "onboard_time": 1710061770,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 220984,
+      "num": 220984,
+      "word": "田柾国weverse更新",
+      "onboard_time": 1710590493,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -11907,14 +11995,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 200548,
-      "num": 204774,
-      "word": "边伯贤粉丝 生菜发夹",
-      "onboard_time": 1710588456,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 200452,
       "num": 200452,
       "word": "烈焰",
@@ -12105,6 +12185,14 @@
       "onboard_time": 1710298953,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198034,
+      "num": 198034,
+      "word": "BLG对战WBG",
+      "onboard_time": 1710591277,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 197909,
@@ -12873,6 +12961,14 @@
       "onboard_time": 1710565716,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189284,
+      "num": 189284,
+      "word": "张远直播染发",
+      "onboard_time": 1710590975,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 189213,
@@ -15011,6 +15107,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 158215,
+      "num": 158215,
+      "word": "广东省考难度",
+      "onboard_time": 1710591455,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 158190,
       "num": 158190,
       "word": "4只野生东北虎现身村民家门口",
@@ -15251,6 +15355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154856,
+      "num": 154856,
+      "word": "水豚崽崽踩着妈妈过河",
+      "onboard_time": 1710590735,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154646,
       "num": 154646,
       "word": "亦庄线",
@@ -15433,6 +15545,14 @@
       "onboard_time": 1710309272,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 152365,
+      "num": 152365,
+      "word": "赵雷演唱会",
+      "onboard_time": 1710589773,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 152103,
@@ -15659,6 +15779,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 148948,
+      "num": 224175,
+      "word": "应急消防人员正全力扑救雅江山火",
+      "onboard_time": 1710590796,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148924,
       "num": 148924,
       "word": "亚冠生死战",
@@ -15825,6 +15953,14 @@
       "onboard_time": 1710330754,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145878,
+      "num": 145878,
+      "word": "泰容 大家要一起幸福",
+      "onboard_time": 1710591871,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 145731,
@@ -16513,6 +16649,14 @@
       "onboard_time": 1710571231,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137665,
+      "num": 137665,
+      "word": "赵丽颖的选角眼光",
+      "onboard_time": 1710591935,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 137609,
