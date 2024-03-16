@@ -1,6 +1,6 @@
 {
   "startTime": 1710001286546,
-  "endTime": 1710578053816,
+  "endTime": 1710580552604,
   "band_list": [
     {
       "raw_hot": 10990895,
@@ -81,6 +81,14 @@
       "onboard_time": 1710510885,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 3222602,
+      "num": 3222602,
+      "word": "申论",
+      "onboard_time": 1710578976,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 3192353,
@@ -1267,6 +1275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1184025,
+      "num": 1184025,
+      "word": "多个上门按摩APP被曝涉黄",
+      "onboard_time": 1710575253,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1183994,
       "num": 1001955,
       "word": "官方通报点读机女孩视频事件",
@@ -2020,7 +2036,7 @@
     },
     {
       "raw_hot": 928875,
-      "num": 459497,
+      "num": 539990,
       "word": "冯小刚为养女庆18岁生日",
       "onboard_time": 1710570573,
       "rank": 26,
@@ -2579,6 +2595,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 769804,
+      "num": 769804,
+      "word": "陈梦vs王曼昱",
+      "onboard_time": 1710577772,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 769032,
       "num": 769032,
       "word": "杨威回应双胞胎女儿在家上学",
@@ -2721,14 +2745,6 @@
       "onboard_time": 1710123451,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 735359,
-      "num": 735359,
-      "word": "多个上门按摩APP被曝涉黄",
-      "onboard_time": 1710575253,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 734765,
@@ -3691,6 +3707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 587875,
+      "num": 587875,
+      "word": "向佐三分之二半月板被切除",
+      "onboard_time": 1710574652,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 587850,
       "num": 587850,
       "word": "苹果发布声明",
@@ -3992,6 +4016,14 @@
       "word": "考研成了年轻人的中药",
       "onboard_time": 1710406472,
       "rank": 13,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 553965,
+      "num": 553965,
+      "word": "河南申论",
+      "onboard_time": 1710578976,
+      "rank": 9,
       "category": "教育"
     },
     {
@@ -4683,6 +4715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492874,
+      "num": 492874,
+      "word": "甘肃文旅喊话麻辣烫老板注意表情管理",
+      "onboard_time": 1710578852,
+      "rank": 11,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 492466,
       "num": 492466,
       "word": "董宇辉带货华为",
@@ -4905,14 +4945,6 @@
       "onboard_time": 1710560799,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 478055,
-      "num": 478055,
-      "word": "向佐三分之二半月板被切除",
-      "onboard_time": 1710574652,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 477407,
@@ -5185,6 +5217,14 @@
       "onboard_time": 1710493602,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 457175,
+      "num": 457175,
+      "word": "头像洁癖",
+      "onboard_time": 1710577292,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 456439,
@@ -5985,6 +6025,14 @@
       "onboard_time": 1710032668,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 393733,
+      "num": 291850,
+      "word": "为什么爸妈从来没想过给女儿买房",
+      "onboard_time": 1710579453,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 393524,
@@ -7195,14 +7243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 324199,
-      "num": 324199,
-      "word": "头像洁癖",
-      "onboard_time": 1710577292,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 324169,
       "num": 324169,
       "word": "JDG对战FPX",
@@ -7553,6 +7593,14 @@
       "onboard_time": 1710386254,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307659,
+      "num": 307659,
+      "word": "安徽申论 大作文",
+      "onboard_time": 1710579692,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 307183,
@@ -8185,14 +8233,6 @@
       "onboard_time": 1710491016,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 280781,
-      "num": 280781,
-      "word": "陈梦vs王曼昱",
-      "onboard_time": 1710577772,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 280711,
@@ -9675,6 +9715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 237074,
+      "num": 237074,
+      "word": "顾茉莉买的真包去哪儿了",
+      "onboard_time": 1710578494,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236976,
       "num": 236976,
       "word": "山东泰山vs横滨水手",
@@ -10803,6 +10851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212706,
+      "num": 212706,
+      "word": "朴综星机场表情",
+      "onboard_time": 1710580054,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212380,
       "num": 212380,
       "word": "任嘉伦古装剧大婚必刀定律",
@@ -11227,6 +11283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205363,
+      "num": 205363,
+      "word": "龙远",
+      "onboard_time": 1710580294,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205349,
       "num": 205349,
       "word": "男生美甲",
@@ -11409,6 +11473,14 @@
       "onboard_time": 1710400172,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 203322,
+      "num": 203322,
+      "word": "KPL",
+      "onboard_time": 1710063568,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 203274,
@@ -11787,6 +11859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197909,
+      "num": 197909,
+      "word": "FPX晋级春季赛季后赛",
+      "onboard_time": 1710579635,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 197893,
       "num": 197893,
       "word": "成年后的感情都是刻舟求剑",
@@ -11960,6 +12040,14 @@
       "word": "杨超越女友感",
       "onboard_time": 1710331895,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 196678,
+      "num": 196678,
+      "word": "小S公公今日出殡",
+      "onboard_time": 1710579813,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -15563,6 +15651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144504,
+      "num": 144504,
+      "word": "克里斯爆料iG关键局BP",
+      "onboard_time": 1710578014,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144399,
       "num": 144399,
       "word": "张一山告黑成功",
@@ -16643,14 +16739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130814,
-      "num": 130814,
-      "word": "KPL",
-      "onboard_time": 1710063568,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 130505,
       "num": 130505,
       "word": "光夜领证现场",
@@ -17059,6 +17147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123884,
+      "num": 123884,
+      "word": "在公交车上约会是什么体验",
+      "onboard_time": 1710579271,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123821,
       "num": 123821,
       "word": "港风是陈都灵的统治区",
@@ -17185,6 +17281,14 @@
       "onboard_time": 1710058648,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121798,
+      "num": 121798,
+      "word": "朱大力苏大强 做大做强",
+      "onboard_time": 1710580472,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 121536,
@@ -17769,14 +17873,6 @@
       "onboard_time": 1710497737,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 109601,
-      "num": 109601,
-      "word": "克里斯爆料iG关键局BP",
-      "onboard_time": 1710578014,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 109246,
@@ -18484,7 +18580,7 @@
     },
     {
       "raw_hot": 81322,
-      "num": 1264483,
+      "num": 1786650,
       "word": "中国空间站在太空忙啥呢",
       "onboard_time": 1710560257,
       "rank": 2,
@@ -19292,7 +19388,7 @@
     },
     {
       "raw_hot": 30900,
-      "num": 329790,
+      "num": 375828,
       "word": "中国汽车硬起来了",
       "onboard_time": 1710576874,
       "rank": 34,
