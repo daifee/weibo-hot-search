@@ -1,6 +1,6 @@
 {
   "startTime": 1710519741451,
-  "endTime": 1710552529298,
+  "endTime": 1710554490749,
   "band_list": [
     {
       "raw_hot": 3302966,
@@ -35,6 +35,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1703444,
+      "num": 1078245,
+      "word": "徐正溪姑姑 汤臣一品",
+      "onboard_time": 1710551853,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1217240,
       "num": 1217240,
       "word": "爸爸退休返聘年薪12万",
@@ -48,14 +56,6 @@
       "word": "徐正溪退圈原因",
       "onboard_time": 1710497980,
       "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1078245,
-      "num": 1078245,
-      "word": "徐正溪姑姑 汤臣一品",
-      "onboard_time": 1710551853,
-      "rank": 1,
       "category": "艺人"
     },
     {
@@ -89,6 +89,14 @@
       "onboard_time": 1710475958,
       "rank": 30,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 776760,
+      "num": 776760,
+      "word": "江宏杰已接到孩子离开日本",
+      "onboard_time": 1710552454,
+      "rank": 38,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 662822,
@@ -179,6 +187,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 451967,
+      "num": 451967,
+      "word": "一娃被卡全幼儿园的娃都见了偶像",
+      "onboard_time": 1710549992,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438042,
       "num": 438042,
       "word": "百果园果切",
@@ -209,6 +225,14 @@
       "onboard_time": 1710547951,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 374556,
+      "num": 374556,
+      "word": "奶茶 食材",
+      "onboard_time": 1710552815,
+      "rank": 11,
+      "category": "美食"
     },
     {
       "raw_hot": 358740,
@@ -249,6 +273,14 @@
       "onboard_time": 1710510403,
       "rank": 22,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 315705,
+      "num": 315705,
+      "word": "栏目编导称已停止与马卉合作",
+      "onboard_time": 1710550953,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 307696,
@@ -299,14 +331,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 286104,
-      "num": 286104,
-      "word": "一娃被卡全幼儿园的娃都见了偶像",
-      "onboard_time": 1710549992,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284960,
       "num": 284960,
       "word": "网络水军利用主板机随意更改IP",
@@ -315,20 +339,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282569,
-      "num": 282569,
-      "word": "栏目编导称已停止与马卉合作",
-      "onboard_time": 1710550953,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 278066,
       "num": 278066,
       "word": "听花酒315晚会前两个小时还在自夸",
       "onboard_time": 1710538217,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272315,
+      "num": 272315,
+      "word": "韩语版知否",
+      "onboard_time": 1710550652,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 261207,
@@ -347,6 +371,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 260415,
+      "num": 244629,
+      "word": "相恋10年男友婚前查出白血病",
+      "onboard_time": 1710552033,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256241,
       "num": 256241,
       "word": "听花酒道歉",
@@ -355,20 +387,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255156,
-      "num": 255156,
-      "word": "韩语版知否",
-      "onboard_time": 1710550652,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 250018,
       "num": 250018,
       "word": "凯特王妃为什么就是不出现",
       "onboard_time": 1710501461,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 245394,
+      "num": 245394,
+      "word": "2024公务员联考逾450万人参加",
+      "onboard_time": 1710551373,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 242152,
@@ -401,14 +433,6 @@
       "onboard_time": 1710510763,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 237221,
-      "num": 237221,
-      "word": "2024公务员联考逾450万人参加",
-      "onboard_time": 1710551373,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 230235,
@@ -491,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190814,
+      "num": 190814,
+      "word": "跟掉毛的狗子和解了",
+      "onboard_time": 1710553113,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189641,
       "num": 189641,
       "word": "韩素希ins更新夏威夷照片",
@@ -531,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182583,
+      "num": 182583,
+      "word": "天津1死37伤车祸客车里有学生",
+      "onboard_time": 1710553895,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181212,
       "num": 181212,
       "word": "宁德时代去年净利润441.21亿",
@@ -553,14 +593,6 @@
       "onboard_time": 1710516401,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154759,
-      "num": 154759,
-      "word": "江宏杰已接到孩子离开日本",
-      "onboard_time": 1710552454,
-      "rank": 38,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 153339,
@@ -617,6 +649,14 @@
       "onboard_time": 1710496959,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 137846,
+      "num": 137846,
+      "word": "食品安全岂能被扣碗外",
+      "onboard_time": 1710553711,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131893,
@@ -681,6 +721,14 @@
       "onboard_time": 1710550591,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113604,
+      "num": 113604,
+      "word": "牙医认可的牙膏功能只有这3种",
+      "onboard_time": 1710551733,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 108660,

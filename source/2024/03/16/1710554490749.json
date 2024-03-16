@@ -1,0 +1,410 @@
+{
+  "runTime": 1710554490749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1017455,
+        "num": 1017455,
+        "word": "爸爸退休返聘年薪12万",
+        "onboard_time": 1710543806,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813324,
+        "num": 813324,
+        "word": "315晚会",
+        "onboard_time": 1710502477,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31785,
+        "num": 792583,
+        "word": "长五遥八运载火箭运抵文昌",
+        "onboard_time": 1710507038,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1703444,
+        "num": 789072,
+        "word": "徐正溪姑姑 汤臣一品",
+        "onboard_time": 1710551853,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 776760,
+        "num": 776760,
+        "word": "江宏杰已接到孩子离开日本",
+        "onboard_time": 1710552454,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 631125,
+        "num": 631125,
+        "word": "茶颜悦色放置半小时仅剩半杯",
+        "onboard_time": 1710510763,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 512816,
+        "num": 512816,
+        "word": "夸父炸串",
+        "onboard_time": 1710515501,
+        "rank": 6,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 464312,
+        "num": 464312,
+        "word": "徐正溪退圈原因",
+        "onboard_time": 1710497980,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451967,
+        "num": 451967,
+        "word": "一娃被卡全幼儿园的娃都见了偶像",
+        "onboard_time": 1710549992,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420228,
+        "num": 420228,
+        "word": "官方通报199元4天桂林低价游情况",
+        "onboard_time": 1710548009,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 389862,
+        "num": 389862,
+        "word": "人吃了槽头肉会有什么危害",
+        "onboard_time": 1710518135,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 374556,
+        "num": 374556,
+        "word": "奶茶 食材",
+        "onboard_time": 1710552815,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 366178,
+        "num": 366178,
+        "word": "宝马就315曝光道歉",
+        "onboard_time": 1710545726,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 344741,
+        "num": 344741,
+        "word": "主持人马卉被永久封禁直播权限",
+        "onboard_time": 1710492094,
+        "rank": 13,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 322532,
+        "num": 322532,
+        "word": "自杀程序员与前妻在世纪佳缘相识",
+        "onboard_time": 1710514724,
+        "rank": 14,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 315705,
+        "num": 315705,
+        "word": "栏目编导称已停止与马卉合作",
+        "onboard_time": 1710550953,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293504,
+        "num": 293504,
+        "word": "一图看懂315晚会",
+        "onboard_time": 1710549513,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283494,
+        "num": 283494,
+        "word": "315晚会省流版",
+        "onboard_time": 1710518195,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272315,
+        "num": 272315,
+        "word": "韩语版知否",
+        "onboard_time": 1710550652,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245394,
+        "num": 245394,
+        "word": "2024公务员联考逾450万人参加",
+        "onboard_time": 1710551373,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 453010,
+        "num": 245043,
+        "word": "有一种腰痛是癌症的信号",
+        "onboard_time": 1710548792,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 327583,
+        "num": 244863,
+        "word": "央广网评初中生被3名同学杀害掩埋",
+        "onboard_time": 1710509805,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260415,
+        "num": 244629,
+        "word": "相恋10年男友婚前查出白血病",
+        "onboard_time": 1710552033,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242713,
+        "num": 242713,
+        "word": "淀粉肠塌房",
+        "onboard_time": 1710498581,
+        "rank": 23,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 215899,
+        "num": 215899,
+        "word": "世纪佳缘致歉声明",
+        "onboard_time": 1710512026,
+        "rank": 24,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 213654,
+        "num": 213654,
+        "word": "大学生独自处理双亲去世",
+        "onboard_time": 1710519633,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204794,
+        "num": 204794,
+        "word": "田曦薇麦粒肿",
+        "onboard_time": 1710549033,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201852,
+        "num": 201852,
+        "word": "听花酒",
+        "onboard_time": 1710550831,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 190814,
+        "num": 190814,
+        "word": "跟掉毛的狗子和解了",
+        "onboard_time": 1710553113,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188416,
+        "num": 188416,
+        "word": "原来久坐真的会让人变丑",
+        "onboard_time": 1710517599,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 182583,
+        "num": 182583,
+        "word": "天津1死37伤车祸客车里有学生",
+        "onboard_time": 1710553895,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175100,
+        "num": 175100,
+        "word": "徐正溪退圈",
+        "onboard_time": 1710491854,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174345,
+        "num": 174345,
+        "word": "对抗抑郁的最佳运动",
+        "onboard_time": 1710543806,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 172521,
+        "num": 172521,
+        "word": "郑合惠子演技",
+        "onboard_time": 1710510703,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165824,
+        "num": 165824,
+        "word": "315晚会点名企业致歉合集",
+        "onboard_time": 1710549815,
+        "rank": 34,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 155856,
+        "num": 155856,
+        "word": "普通人一辈子存款天花板是多少",
+        "onboard_time": 1710519990,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155167,
+        "num": 155167,
+        "word": "珍爱网负责人被约谈",
+        "onboard_time": 1710551733,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146174,
+        "num": 146174,
+        "word": "淀粉肠",
+        "onboard_time": 1710549633,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142125,
+        "num": 142125,
+        "word": "网络水军利用主板机随意更改IP",
+        "onboard_time": 1710505478,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141102,
+        "num": 141102,
+        "word": "听花酒道歉",
+        "onboard_time": 1710548851,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138510,
+        "num": 138510,
+        "word": "陈楚生送歌迷30斤巧克力",
+        "onboard_time": 1710550233,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137846,
+        "num": 137846,
+        "word": "食品安全岂能被扣碗外",
+        "onboard_time": 1710553711,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133994,
+        "num": 133994,
+        "word": "我爸又买垃圾回来了",
+        "onboard_time": 1710549573,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128169,
+        "num": 128169,
+        "word": "宝马表示将承担所有维修费用",
+        "onboard_time": 1710545547,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128164,
+        "num": 128164,
+        "word": "到底多少度算高度近视",
+        "onboard_time": 1710548370,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126871,
+        "num": 126871,
+        "word": "陈奕迅额头",
+        "onboard_time": 1710547229,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117106,
+        "num": 117106,
+        "word": "省考",
+        "onboard_time": 1710547951,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116784,
+        "num": 116784,
+        "word": "弟弟退回了我给他的结婚红包",
+        "onboard_time": 1710510763,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116254,
+        "num": 116254,
+        "word": "听花酒下架",
+        "onboard_time": 1710510403,
+        "rank": 48,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 113604,
+        "num": 113604,
+        "word": "牙医认可的牙膏功能只有这3种",
+        "onboard_time": 1710551733,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#中安关系提升为全面战略合作伙伴关系#"
+    }
+  }
+}
