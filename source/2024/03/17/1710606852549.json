@@ -1,0 +1,410 @@
+{
+  "runTime": 1710606852549,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1498875,
+        "num": 1498875,
+        "word": "金价下跌了",
+        "onboard_time": 1710601838,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 868833,
+        "num": 868833,
+        "word": "父亲希望AI复活乔任梁视频尽快下架",
+        "onboard_time": 1710599379,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151970,
+        "num": 662630,
+        "word": "有一种意境叫中式美学",
+        "onboard_time": 1710600578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614367,
+        "num": 614367,
+        "word": "何悯鸿向渣男下跪",
+        "onboard_time": 1710602136,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 583847,
+        "num": 583847,
+        "word": "纪凌尘beng",
+        "onboard_time": 1710600517,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338174,
+        "num": 338174,
+        "word": "郑合惠子 不要捧一踩一",
+        "onboard_time": 1710591093,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320858,
+        "num": 320858,
+        "word": "吴镇宇被张睿气走了",
+        "onboard_time": 1710594998,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320053,
+        "num": 320053,
+        "word": "中医从不提倡多喝水",
+        "onboard_time": 1710591093,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226924,
+        "num": 226924,
+        "word": "所以明天到底该吃什么",
+        "onboard_time": 1710582455,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 217178,
+        "num": 226921,
+        "word": "申论",
+        "onboard_time": 1710578976,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 685646,
+        "num": 226896,
+        "word": "身上这种小疙瘩或是HPV感染",
+        "onboard_time": 1710601779,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 380825,
+        "num": 226867,
+        "word": "凯特",
+        "onboard_time": 1710599137,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372647,
+        "num": 226822,
+        "word": "威廉王子修图风波后首谈凯特王妃",
+        "onboard_time": 1710596376,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264885,
+        "num": 226813,
+        "word": "鞠婧祎的脸颊肉",
+        "onboard_time": 1710599379,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248440,
+        "num": 226769,
+        "word": "凤凰传奇只有冷门前奏没有冷门歌曲",
+        "onboard_time": 1710600037,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 240320,
+        "num": 226730,
+        "word": "你好星期六下期0713VS院人",
+        "onboard_time": 1710605790,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238057,
+        "num": 226721,
+        "word": "唐嫣赫本公主风",
+        "onboard_time": 1710593013,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226703,
+        "num": 226703,
+        "word": "枭起青壤",
+        "onboard_time": 1710603039,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132565,
+        "num": 224966,
+        "word": "孙龙世锦赛夺金",
+        "onboard_time": 1710598235,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114715,
+        "num": 223983,
+        "word": "王濛首次讲述原生家庭",
+        "onboard_time": 1710598658,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236049,
+        "num": 223947,
+        "word": "家庭资产400万怎么才能躺平",
+        "onboard_time": 1710598418,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223867,
+        "num": 223867,
+        "word": "与凤行芒果先导片",
+        "onboard_time": 1710605850,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197433,
+        "num": 223862,
+        "word": "花间令 喜欢的人成了我外室",
+        "onboard_time": 1710600936,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194337,
+        "num": 223857,
+        "word": "林孝埈500米夺金",
+        "onboard_time": 1710606749,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178547,
+        "num": 223843,
+        "word": "近十年都没有涨过价的东西",
+        "onboard_time": 1710594637,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171436,
+        "num": 223831,
+        "word": "李菲儿向锦超道歉",
+        "onboard_time": 1710596918,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156452,
+        "num": 223823,
+        "word": "迪丽热巴北京出发进组路透",
+        "onboard_time": 1710598055,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151658,
+        "num": 223815,
+        "word": "宋茜丁禹兮同框路透",
+        "onboard_time": 1710602920,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142985,
+        "num": 223804,
+        "word": "无意间看到爸爸说我自私",
+        "onboard_time": 1710600817,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113537,
+        "num": 223798,
+        "word": "短道速滑",
+        "onboard_time": 1710595417,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137641,
+        "num": 223786,
+        "word": "为什么爸妈从来没想过给女儿买房",
+        "onboard_time": 1710579453,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137146,
+        "num": 223775,
+        "word": "张睿动一下就扣5分",
+        "onboard_time": 1710605430,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132524,
+        "num": 223774,
+        "word": "TTG 张凯",
+        "onboard_time": 1710602255,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125956,
+        "num": 223757,
+        "word": "你们有名字羞耻症吗",
+        "onboard_time": 1710597097,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122627,
+        "num": 223749,
+        "word": "洽洽 绘旅人",
+        "onboard_time": 1710602555,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120263,
+        "num": 223743,
+        "word": "张雨绮出道以来的颜值变化",
+        "onboard_time": 1710602858,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92855,
+        "num": 223727,
+        "word": "315守护舌尖上的安全",
+        "onboard_time": 1710603637,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52019,
+        "num": 223724,
+        "word": "马面裙订单量同比增841%",
+        "onboard_time": 1710600397,
+        "rank": 37,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 105239,
+        "num": 223712,
+        "word": "billkin演唱会",
+        "onboard_time": 1710594452,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102928,
+        "num": 223700,
+        "word": "李菲儿锦超争执",
+        "onboard_time": 1710596316,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99991,
+        "num": 223691,
+        "word": "音乐生毕业就业方向",
+        "onboard_time": 1710601779,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99332,
+        "num": 223684,
+        "word": "大侦探你期待的双侦探组合",
+        "onboard_time": 1710605552,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95470,
+        "num": 223676,
+        "word": "文韬三十岁生日大片",
+        "onboard_time": 1710602077,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88656,
+        "num": 223665,
+        "word": "雅江山火",
+        "onboard_time": 1710586114,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88524,
+        "num": 223660,
+        "word": "王艺迪说自己整体能力不够",
+        "onboard_time": 1710597097,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88080,
+        "num": 223642,
+        "word": "林俊杰杭州演唱会6万人荧光棒浪接力",
+        "onboard_time": 1710606632,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87206,
+        "num": 223637,
+        "word": "你好星期六预告",
+        "onboard_time": 1710594335,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85947,
+        "num": 223632,
+        "word": "欢乐颂5",
+        "onboard_time": 1710589416,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81496,
+        "num": 223622,
+        "word": "花间令强吻戏",
+        "onboard_time": 1710594037,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79758,
+        "num": 223606,
+        "word": "王楚钦说守住半区最值得高兴",
+        "onboard_time": 1710601779,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#培育发展新质生产力的新动能#"
+    }
+  }
+}
