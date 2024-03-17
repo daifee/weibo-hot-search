@@ -1,7 +1,15 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710632117977,
+  "endTime": 1710638139294,
   "band_list": [
+    {
+      "raw_hot": 1885209,
+      "num": 1885209,
+      "word": "女子淀粉肠创业开始即结束",
+      "onboard_time": 1710632964,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1747609,
       "num": 1747609,
@@ -9,6 +17,14 @@
       "onboard_time": 1710601838,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1027624,
+      "num": 1027624,
+      "word": "男生患上桃花癫感觉全校女生都喜欢自己",
+      "onboard_time": 1710635488,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1015713,
@@ -27,8 +43,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 770372,
+      "num": 770372,
+      "word": "江西省考被曝有考生作弊",
+      "onboard_time": 1710632964,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 734545,
-      "num": 345208,
+      "num": 438529,
       "word": "身上这种小疙瘩或是HPV感染",
       "onboard_time": 1710601779,
       "rank": 10,
@@ -43,12 +67,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 631988,
+      "num": 631988,
+      "word": "SpaceX被曝为美国情报机构建设间谍卫星网络",
+      "onboard_time": 1710634287,
+      "rank": 5,
+      "category": "国外时政,科学科普"
+    },
+    {
       "raw_hot": 628298,
       "num": 628298,
       "word": "纪凌尘beng",
       "onboard_time": 1710600517,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 512225,
+      "num": 512225,
+      "word": "奸杀女童恶魔被执行死刑",
+      "onboard_time": 1710632964,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 501581,
+      "num": 501581,
+      "word": "工作组赴四川雅江指导山火扑救",
+      "onboard_time": 1710637349,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 455791,
@@ -75,12 +123,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444621,
+      "num": 444621,
+      "word": "如懿干活vs甄嬛干活",
+      "onboard_time": 1710632964,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 441589,
+      "num": 441589,
+      "word": "晨起后不建议喝蜂蜜水淡盐水",
+      "onboard_time": 1710635070,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 426062,
       "num": 344986,
       "word": "威廉王子修图风波后首谈凯特王妃",
       "onboard_time": 1710596376,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392318,
+      "num": 341655,
+      "word": "女孩自己注射1mg司美格鲁肽送医抢救",
+      "onboard_time": 1710609026,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 389981,
+      "num": 389981,
+      "word": "宁静看纪凌尘演戏笑了",
+      "onboard_time": 1710635488,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 385767,
@@ -107,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371865,
+      "num": 228937,
+      "word": "婆婆每个月给我1w要不要收",
+      "onboard_time": 1710633266,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 364243,
       "num": 364243,
       "word": "郑合惠子 不要捧一踩一",
@@ -123,6 +211,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324913,
+      "num": 324913,
+      "word": "撒贝宁带龙凤胎出行",
+      "onboard_time": 1710625156,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 318234,
+      "num": 228825,
+      "word": "林孝埈身披国旗绕场",
+      "onboard_time": 1710635852,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 318022,
+      "num": 318022,
+      "word": "苹果同意支付4.9亿美金和解",
+      "onboard_time": 1710637890,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 314197,
       "num": 314197,
       "word": "7旬夫妇住月租850元海景房养老",
@@ -131,12 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 313637,
-      "num": 341655,
-      "word": "女孩自己注射1mg司美格鲁肽送医抢救",
-      "onboard_time": 1710609026,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 304705,
+      "num": 304705,
+      "word": "恩静在酒店地下车库随舞",
+      "onboard_time": 1710635671,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 301999,
@@ -147,12 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 289685,
-      "num": 289685,
-      "word": "撒贝宁带龙凤胎出行",
-      "onboard_time": 1710625156,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 294265,
+      "num": 294265,
+      "word": "过度减肥会加重或诱发过敏",
+      "onboard_time": 1710632666,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 273593,
@@ -211,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227300,
+      "num": 227300,
+      "word": "郑合惠子演过你是我的荣耀",
+      "onboard_time": 1710636090,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223867,
       "num": 344548,
       "word": "与凤行芒果先导片",
@@ -235,6 +355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 216487,
+      "num": 216487,
+      "word": "选出所有的阮经天",
+      "onboard_time": 1710632725,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 215887,
       "num": 247133,
       "word": "世锦赛林孝埈晋级",
@@ -251,12 +379,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201834,
+      "num": 201834,
+      "word": "淀粉肠",
+      "onboard_time": 1710637834,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 199040,
-      "num": 687895,
+      "num": 916173,
       "word": "有一种意境叫中式美学",
       "onboard_time": 1710600578,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196895,
+      "num": 196895,
+      "word": "年轻人为啥盯上天水麻辣烫",
+      "onboard_time": 1710637349,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 196180,
@@ -275,12 +419,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181003,
+      "num": 175839,
+      "word": "花间令热度破9500",
+      "onboard_time": 1710636211,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180610,
       "num": 342813,
       "word": "无意间看到爸爸说我自私",
       "onboard_time": 1710600817,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176699,
+      "num": 176699,
+      "word": "百果园官方回应",
+      "onboard_time": 1710634230,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171159,
@@ -297,6 +457,14 @@
       "onboard_time": 1710602920,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163130,
+      "num": 163130,
+      "word": "侃爷洛杉矶仓库被盗损失达100万美元",
+      "onboard_time": 1710636991,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 152684,
@@ -355,12 +523,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137002,
+      "num": 137002,
+      "word": "甘肃麻辣烫老板娘忙到十天瘦八斤",
+      "onboard_time": 1710630381,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 135862,
+      "num": 135862,
+      "word": "闺蜜问我是不是买了个新包包",
+      "onboard_time": 1710637171,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135091,
       "num": 343115,
       "word": "你们有名字羞耻症吗",
       "onboard_time": 1710597097,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126619,
+      "num": 126619,
+      "word": "河南省考 准备面试",
+      "onboard_time": 1710636272,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 126108,
+      "num": 126108,
+      "word": "京中有善狗技者",
+      "onboard_time": 1710634887,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 122066,
@@ -379,12 +579,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120509,
+      "num": 120509,
+      "word": "大熊猫800个心眼子抢了0根竹子",
+      "onboard_time": 1710636512,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118940,
       "num": 342438,
       "word": "李菲儿锦超争执",
       "onboard_time": 1710596316,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117430,
+      "num": 117430,
+      "word": "是谁让大量劣质槽头肉流入市场",
+      "onboard_time": 1710637591,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116562,
+      "num": 116562,
+      "word": "航拍雅江山火",
+      "onboard_time": 1710634709,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115698,
@@ -403,6 +627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113785,
+      "num": 113785,
+      "word": "315曝光的槽头肉企业墙上挂诚信正直",
+      "onboard_time": 1710637290,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113537,
       "num": 342523,
       "word": "短道速滑",
@@ -419,20 +651,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 112752,
+      "num": 112752,
+      "word": "官方回应河南一司法鉴定中心涉嫌造假",
+      "onboard_time": 1710633807,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112184,
+      "num": 112184,
+      "word": "湖勇大战",
+      "onboard_time": 1710637771,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110608,
+      "num": 110608,
+      "word": "相亲有种上班的累",
+      "onboard_time": 1710633507,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109241,
       "num": 223691,
       "word": "音乐生毕业就业方向",
       "onboard_time": 1710601779,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 106268,
-      "num": 106268,
-      "word": "甘肃麻辣烫老板娘忙到十天瘦八斤",
-      "onboard_time": 1710630381,
-      "rank": 32,
-      "category": "旅游"
     },
     {
       "raw_hot": 104113,

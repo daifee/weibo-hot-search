@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710632117977,
+  "endTime": 1710638139294,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -841,6 +841,14 @@
       "onboard_time": 1710601838,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1885209,
+      "num": 1885209,
+      "word": "女子淀粉肠创业开始即结束",
+      "onboard_time": 1710632964,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1845566,
@@ -3395,6 +3403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1027624,
+      "num": 1027624,
+      "word": "男生患上桃花癫感觉全校女生都喜欢自己",
+      "onboard_time": 1710635488,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1026016,
       "num": 1026016,
       "word": "纪凌尘 脏脏包",
@@ -5345,6 +5361,14 @@
       "onboard_time": 1709435369,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 770372,
+      "num": 770372,
+      "word": "江西省考被曝有考生作弊",
+      "onboard_time": 1710632964,
+      "rank": 4,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 770321,
@@ -7433,6 +7457,14 @@
       "onboard_time": 1710083375,
       "rank": 15,
       "category": "演出,体育"
+    },
+    {
+      "raw_hot": 631988,
+      "num": 631988,
+      "word": "SpaceX被曝为美国情报机构建设间谍卫星网络",
+      "onboard_time": 1710634287,
+      "rank": 5,
+      "category": "国外时政,科学科普"
     },
     {
       "raw_hot": 631463,
@@ -9883,6 +9915,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 512225,
+      "num": 512225,
+      "word": "奸杀女童恶魔被执行死刑",
+      "onboard_time": 1710632964,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511001,
       "num": 511001,
       "word": "成龙头发胡子白了",
@@ -10105,6 +10145,14 @@
       "onboard_time": 1710479737,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 501581,
+      "num": 501581,
+      "word": "工作组赴四川雅江指导山火扑救",
+      "onboard_time": 1710637349,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 501201,
@@ -11779,6 +11827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 444621,
+      "num": 444621,
+      "word": "如懿干活vs甄嬛干活",
+      "onboard_time": 1710632964,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 444218,
       "num": 444218,
       "word": "高合创始人丁磊声明",
@@ -11897,6 +11953,14 @@
       "onboard_time": 1709799692,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 441589,
+      "num": 441589,
+      "word": "晨起后不建议喝蜂蜜水淡盐水",
+      "onboard_time": 1710635070,
+      "rank": 9,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 441351,
@@ -13451,6 +13515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 392318,
+      "num": 341655,
+      "word": "女孩自己注射1mg司美格鲁肽送医抢救",
+      "onboard_time": 1710609026,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392038,
       "num": 320720,
       "word": "怎么体检才能不花冤枉钱",
@@ -13505,6 +13577,14 @@
       "onboard_time": 1709456488,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 389981,
+      "num": 389981,
+      "word": "宁静看纪凌尘演戏笑了",
+      "onboard_time": 1710635488,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 389953,
@@ -14209,6 +14289,14 @@
       "onboard_time": 1710597637,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 371865,
+      "num": 228937,
+      "word": "婆婆每个月给我1w要不要收",
+      "onboard_time": 1710633266,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 371828,
@@ -16067,6 +16155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 324913,
+      "num": 324913,
+      "word": "撒贝宁带龙凤胎出行",
+      "onboard_time": 1710625156,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324882,
       "num": 569145,
       "word": "姥姥倒车撞墙6岁外孙哭喊奔跑",
@@ -16403,12 +16499,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 318234,
+      "num": 228825,
+      "word": "林孝埈身披国旗绕场",
+      "onboard_time": 1710635852,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 318230,
       "num": 318230,
       "word": "刘学义原声",
       "onboard_time": 1710511423,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 318022,
+      "num": 318022,
+      "word": "苹果同意支付4.9亿美金和解",
+      "onboard_time": 1710637890,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 317910,
@@ -16641,14 +16753,6 @@
       "onboard_time": 1710135934,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 313637,
-      "num": 341655,
-      "word": "女孩自己注射1mg司美格鲁肽送医抢救",
-      "onboard_time": 1710609026,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 313610,
@@ -17057,6 +17161,14 @@
       "onboard_time": 1709653232,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 304705,
+      "num": 304705,
+      "word": "恩静在酒店地下车库随舞",
+      "onboard_time": 1710635671,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 304592,
@@ -17715,6 +17827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 294265,
+      "num": 294265,
+      "word": "过度减肥会加重或诱发过敏",
+      "onboard_time": 1710632666,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 294128,
       "num": 252772,
       "word": "何老师擦脸vs谭松韵擦脸",
@@ -17985,14 +18105,6 @@
       "onboard_time": 1710600936,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 289685,
-      "num": 289685,
-      "word": "撒贝宁带龙凤胎出行",
-      "onboard_time": 1710625156,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 289683,
@@ -22299,6 +22411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227300,
+      "num": 227300,
+      "word": "郑合惠子演过你是我的荣耀",
+      "onboard_time": 1710636090,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227153,
       "num": 220749,
       "word": "在卫生间感受到了职场的爱",
@@ -23449,6 +23569,14 @@
       "onboard_time": 1710119610,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 216487,
+      "num": 216487,
+      "word": "选出所有的阮经天",
+      "onboard_time": 1710632725,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 216399,
@@ -26499,6 +26627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196895,
+      "num": 196895,
+      "word": "年轻人为啥盯上天水麻辣烫",
+      "onboard_time": 1710637349,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 196832,
       "num": 196832,
       "word": "WE下路",
@@ -29171,6 +29307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181003,
+      "num": 175839,
+      "word": "花间令热度破9500",
+      "onboard_time": 1710636211,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180940,
       "num": 166403,
       "word": "金晨的皮肤状态",
@@ -29817,6 +29961,14 @@
       "onboard_time": 1709537129,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 176699,
+      "num": 176699,
+      "word": "百果园官方回应",
+      "onboard_time": 1710634230,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176697,
@@ -32025,6 +32177,14 @@
       "onboard_time": 1710057688,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163130,
+      "num": 163130,
+      "word": "侃爷洛杉矶仓库被盗损失达100万美元",
+      "onboard_time": 1710636991,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 163079,
@@ -37051,6 +37211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137002,
+      "num": 137002,
+      "word": "甘肃麻辣烫老板娘忙到十天瘦八斤",
+      "onboard_time": 1710630381,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 136961,
       "num": 136961,
       "word": "法官到底是怎么忍住不笑的",
@@ -37337,6 +37505,14 @@
       "onboard_time": 1709441013,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 135862,
+      "num": 135862,
+      "word": "闺蜜问我是不是买了个新包包",
+      "onboard_time": 1710637171,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 135858,
@@ -39067,6 +39243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126619,
+      "num": 126619,
+      "word": "河南省考 准备面试",
+      "onboard_time": 1710636272,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 126551,
       "num": 126551,
       "word": "EDG成功复仇PRX",
@@ -39121,6 +39305,14 @@
       "onboard_time": 1710385711,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126108,
+      "num": 126108,
+      "word": "京中有善狗技者",
+      "onboard_time": 1710634887,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 126101,
@@ -40059,6 +40251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120509,
+      "num": 120509,
+      "word": "大熊猫800个心眼子抢了0根竹子",
+      "onboard_time": 1710636512,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120432,
       "num": 120432,
       "word": "猫咪和兔兔关系也太好了吧",
@@ -40523,6 +40723,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 117430,
+      "num": 117430,
+      "word": "是谁让大量劣质槽头肉流入市场",
+      "onboard_time": 1710637591,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117375,
       "num": 117375,
       "word": "大理寺少卿游 竹马败给命运",
@@ -40697,6 +40905,14 @@
       "onboard_time": 1709888009,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116562,
+      "num": 116562,
+      "word": "航拍雅江山火",
+      "onboard_time": 1710634709,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116455,
@@ -41091,6 +41307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113785,
+      "num": 113785,
+      "word": "315曝光的槽头肉企业墙上挂诚信正直",
+      "onboard_time": 1710637290,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113775,
       "num": 113775,
       "word": "听花酒称专利并非添加薄荷或薄荷提取物",
@@ -41307,6 +41531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112752,
+      "num": 112752,
+      "word": "官方回应河南一司法鉴定中心涉嫌造假",
+      "onboard_time": 1710633807,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112703,
       "num": 112703,
       "word": "年轻人为什么喜欢刷短剧",
@@ -41368,6 +41600,14 @@
       "word": "王艺迪vs徐孝元",
       "onboard_time": 1710405274,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112184,
+      "num": 112184,
+      "word": "湖勇大战",
+      "onboard_time": 1710637771,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -41577,6 +41817,14 @@
       "onboard_time": 1709366670,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 110608,
+      "num": 110608,
+      "word": "相亲有种上班的累",
+      "onboard_time": 1710633507,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 110590,
@@ -42113,14 +42361,6 @@
       "onboard_time": 1709595206,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 106268,
-      "num": 106268,
-      "word": "甘肃麻辣烫老板娘忙到十天瘦八斤",
-      "onboard_time": 1710630381,
-      "rank": 32,
-      "category": "旅游"
     },
     {
       "raw_hot": 106195,
