@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710679431957,
+  "endTime": 1710681570344,
   "band_list": [
     {
       "raw_hot": 3675775,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2841567,
-      "num": 424945,
+      "raw_hot": 3347582,
+      "num": 488942,
       "word": "邯郸被害男孩父亲怀疑另有帮凶",
       "onboard_time": 1710676956,
       "rank": 10,
@@ -35,12 +35,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1925297,
-      "num": 424172,
+      "raw_hot": 2007102,
+      "num": 482308,
       "word": "全村为邯郸遇害初中生送行",
       "onboard_time": 1710676956,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1981559,
+      "num": 1981559,
+      "word": "王楚钦大满贯双冠王",
+      "onboard_time": 1710680617,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1885209,
@@ -123,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1480850,
+      "num": 689599,
+      "word": "假球",
+      "onboard_time": 1710679356,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1376592,
       "num": 1376592,
       "word": "去年我国结婚人数为近十年来首次回升",
@@ -145,6 +161,14 @@
       "onboard_time": 1710671015,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1345892,
+      "num": 480020,
+      "word": "邯郸杀人案嫌犯被带走时神态平静",
+      "onboard_time": 1710676895,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1328053,
@@ -283,14 +307,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 865813,
-      "num": 423818,
-      "word": "邯郸杀人案嫌犯被带走时神态平静",
-      "onboard_time": 1710676895,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 795919,
       "num": 795919,
       "word": "嘴角起泡其实是感染了病毒",
@@ -371,12 +387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 662758,
+      "num": 475421,
+      "word": "这瓜吃的越来越扑朔迷离了",
+      "onboard_time": 1710678995,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 651994,
       "num": 301285,
       "word": "老公每年都要裸考公务员",
       "onboard_time": 1710648452,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 651754,
+      "num": 651754,
+      "word": "王楚钦vs梁靖崑",
+      "onboard_time": 1710677973,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 644189,
@@ -459,6 +491,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 572348,
+      "num": 314926,
+      "word": "花20万买走女朋友的不开心",
+      "onboard_time": 1710679835,
+      "rank": 20,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 571589,
       "num": 571589,
       "word": "59岁员工不会线上请假被开除",
@@ -520,6 +560,14 @@
       "word": "梅州警方回应男孩疑似猥亵小女孩",
       "onboard_time": 1710667831,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524204,
+      "num": 524204,
+      "word": "女生称曾遭百万网红妹妹校园霸凌",
+      "onboard_time": 1710679356,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -595,8 +643,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 471592,
-      "num": 371436,
+      "raw_hot": 472246,
+      "num": 472246,
       "word": "当爷爷知道我的猫4000一只",
       "onboard_time": 1710677255,
       "rank": 15,
@@ -747,14 +795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 407644,
-      "num": 407644,
-      "word": "王楚钦vs梁靖崑",
-      "onboard_time": 1710677973,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 407147,
       "num": 267559,
       "word": "在飞机上被韩国空姐当成韩国人了",
@@ -859,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380503,
+      "num": 380503,
+      "word": "男人婚后真的都会发福吗",
+      "onboard_time": 1710677853,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 380451,
       "num": 380451,
       "word": "迪丽热巴请粉丝吃巧克力",
@@ -868,11 +916,19 @@
     },
     {
       "raw_hot": 377734,
-      "num": 288217,
+      "num": 311292,
       "word": "原来男人的花期真的很短",
       "onboard_time": 1710677733,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 377012,
+      "num": 377012,
+      "word": "权志龙现身姜大声粉丝见面会",
+      "onboard_time": 1710680015,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 376371,
@@ -1051,12 +1107,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298853,
+      "num": 298853,
+      "word": "梅州",
+      "onboard_time": 1710680137,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298312,
       "num": 298312,
       "word": "淀粉肠",
       "onboard_time": 1710637834,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 298100,
+      "num": 298100,
+      "word": "校长称邯郸男孩的死亡是个意外",
+      "onboard_time": 1710681034,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295390,
@@ -1187,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260421,
+      "num": 260421,
+      "word": "与凤行小凤凰",
+      "onboard_time": 1710681215,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258899,
       "num": 344748,
       "word": "唐嫣赫本公主风",
@@ -1217,14 +1297,6 @@
       "onboard_time": 1710669033,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 249379,
-      "num": 183270,
-      "word": "这瓜吃的越来越扑朔迷离了",
-      "onboard_time": 1710678995,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 248440,
@@ -1267,12 +1339,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237036,
-      "num": 237036,
-      "word": "男人婚后真的都会发福吗",
-      "onboard_time": 1710677853,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 235118,
+      "num": 235118,
+      "word": "TES战胜WE",
+      "onboard_time": 1710681215,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 229171,
@@ -1337,6 +1409,14 @@
       "onboard_time": 1710648810,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221188,
+      "num": 221188,
+      "word": "假如顾佳离婚后嫁给了朱劲草",
+      "onboard_time": 1710679117,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 219916,
@@ -1475,6 +1555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202330,
+      "num": 202330,
+      "word": "蒋勤勤vlog里出现赵丽颖",
+      "onboard_time": 1710679894,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200649,
       "num": 227693,
       "word": "四川雅江森林火灾暂无人员伤亡",
@@ -1521,6 +1609,14 @@
       "onboard_time": 1710594637,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195666,
+      "num": 195666,
+      "word": "预算三千去哪里旅游比较好",
+      "onboard_time": 1710679958,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 193623,
@@ -1633,6 +1729,14 @@
       "onboard_time": 1710641373,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182385,
+      "num": 182385,
+      "word": "比毅双斐",
+      "onboard_time": 1710680738,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 181003,
@@ -1859,14 +1963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 160199,
-      "num": 160199,
-      "word": "假如顾佳离婚后嫁给了朱劲草",
-      "onboard_time": 1710679117,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158579,
       "num": 158579,
       "word": "王俊凯的高中毕业照",
@@ -1931,6 +2027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154665,
+      "num": 154665,
+      "word": "很擅长但没有用的技能",
+      "onboard_time": 1710681516,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 154499,
       "num": 154499,
       "word": "王一博骑摩托vs魏若来骑摩托",
@@ -1971,12 +2075,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149504,
-      "num": 149504,
-      "word": "假球",
-      "onboard_time": 1710679356,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 149056,
+      "num": 149056,
+      "word": "饥饿时人体会出现什么生理反应",
+      "onboard_time": 1710681516,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 148205,
@@ -2075,6 +2179,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 141428,
+      "num": 141428,
+      "word": "林俊杰衣服",
+      "onboard_time": 1710681516,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140742,
       "num": 343237,
       "word": "张雨绮出道以来的颜值变化",
@@ -2169,14 +2281,6 @@
       "onboard_time": 1710678511,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 132669,
-      "num": 132669,
-      "word": "女生称曾遭百万网红妹妹校园霸凌",
-      "onboard_time": 1710679356,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130539,
@@ -2579,6 +2683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 52245,
+      "num": 751600,
+      "word": "抢抓农时春日忙",
+      "onboard_time": 1710680555,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50397,
       "num": 53898,
       "word": "抢劫团伙卧底电诈团伙抢走40多万",
@@ -2617,6 +2729,14 @@
       "onboard_time": 1710631643,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34218,
+      "num": 153026,
+      "word": "听晚安电台睡着了",
+      "onboard_time": 1710681155,
+      "rank": 42,
+      "category": "休闲"
     },
     {
       "raw_hot": 33951,
