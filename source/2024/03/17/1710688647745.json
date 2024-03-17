@@ -1,0 +1,410 @@
+{
+  "runTime": 1710688647745,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11692231,
+        "num": 11692231,
+        "word": "河北邯郸通报初中生被杀害案",
+        "onboard_time": 1710684039,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8220945,
+        "num": 8805323,
+        "word": "邯郸初中生被杀害案嫌疑人全部抓获",
+        "onboard_time": 1710684101,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55321,
+        "num": 3861628,
+        "word": "抢抓农时春日忙",
+        "onboard_time": 1710680555,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1295352,
+        "num": 1295352,
+        "word": "Angel父亲离世",
+        "onboard_time": 1710682657,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 818183,
+        "num": 818183,
+        "word": "三水结婚",
+        "onboard_time": 1710683557,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 755132,
+        "num": 755132,
+        "word": "商家直播2小时连吃10根淀粉肠",
+        "onboard_time": 1710685244,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665811,
+        "num": 665811,
+        "word": "眼泪女王编剧",
+        "onboard_time": 1710684760,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 664812,
+        "num": 664812,
+        "word": "新说唱2024 尿检",
+        "onboard_time": 1710683438,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 558344,
+        "num": 558344,
+        "word": "眼泪女王能不能更完",
+        "onboard_time": 1710686866,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 554447,
+        "num": 554447,
+        "word": "何悯鸿癫了",
+        "onboard_time": 1710681756,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2288221,
+        "num": 543438,
+        "word": "校长称邯郸男孩的死亡是个意外",
+        "onboard_time": 1710681034,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659823,
+        "num": 533053,
+        "word": "本周狗屎运最旺的星座TOP4",
+        "onboard_time": 1710687344,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 516204,
+        "num": 516204,
+        "word": "刘少林",
+        "onboard_time": 1710687281,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1326449,
+        "num": 515617,
+        "word": "邯郸村民尝试挖坑半天仅挖1米深",
+        "onboard_time": 1710685542,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499941,
+        "num": 499941,
+        "word": "徐娇又勇了",
+        "onboard_time": 1710675629,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493901,
+        "num": 493901,
+        "word": "陈星旭陈牧驰 山河表里",
+        "onboard_time": 1710687523,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 954154,
+        "num": 493502,
+        "word": "邯郸被害男孩父亲怀疑另有帮凶",
+        "onboard_time": 1710676956,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 490974,
+        "num": 490974,
+        "word": "婆婆不满意我选的喜糖盒",
+        "onboard_time": 1710685605,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 436499,
+        "num": 436499,
+        "word": "黄大宪 朴知元",
+        "onboard_time": 1710688125,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 803487,
+        "num": 429312,
+        "word": "全村为邯郸遇害初中生送行",
+        "onboard_time": 1710676956,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403665,
+        "num": 403665,
+        "word": "白桃星座",
+        "onboard_time": 1710687523,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 394188,
+        "num": 394188,
+        "word": "这瓜吃的越来越扑朔迷离了",
+        "onboard_time": 1710678995,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 507318,
+        "num": 379816,
+        "word": "邯郸杀人案嫌犯被带走时神态平静",
+        "onboard_time": 1710676895,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358098,
+        "num": 358098,
+        "word": "林俊杰衣服",
+        "onboard_time": 1710681516,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 349013,
+        "num": 349013,
+        "word": "女孩将小男孩从高处推下",
+        "onboard_time": 1710687465,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347306,
+        "num": 347306,
+        "word": "当我收到了我的二月份工资",
+        "onboard_time": 1710688179,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314465,
+        "num": 314465,
+        "word": "花20万买走女朋友的不开心",
+        "onboard_time": 1710679835,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 307064,
+        "num": 307064,
+        "word": "眼泪女王",
+        "onboard_time": 1710685542,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306418,
+        "num": 306418,
+        "word": "何焉悦色",
+        "onboard_time": 1710686866,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278687,
+        "num": 278687,
+        "word": "真的有人上班从早忙到晚吗",
+        "onboard_time": 1710686023,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322637,
+        "num": 265526,
+        "word": "误以为很贵实际很便宜的车",
+        "onboard_time": 1710688179,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 246415,
+        "num": 246415,
+        "word": "大爷连开16个双黄蛋不敢吃了",
+        "onboard_time": 1710675033,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237913,
+        "num": 237913,
+        "word": "电脑为什么会有咳嗽声",
+        "onboard_time": 1710688301,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231537,
+        "num": 231537,
+        "word": "蒲熠星晒何炅的纪念蛋糕",
+        "onboard_time": 1710684760,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228362,
+        "num": 228362,
+        "word": "王楚钦大满贯双冠王",
+        "onboard_time": 1710680617,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218005,
+        "num": 218005,
+        "word": "微信如何查看自己加了多少群",
+        "onboard_time": 1710671015,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200604,
+        "num": 200604,
+        "word": "无限超越班 李菲儿",
+        "onboard_time": 1710682538,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197995,
+        "num": 197995,
+        "word": "一定要结婚生子吗",
+        "onboard_time": 1710683258,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197272,
+        "num": 197272,
+        "word": "李惠利经纪公司回应",
+        "onboard_time": 1710666331,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196143,
+        "num": 196143,
+        "word": "赵露思森系少女",
+        "onboard_time": 1710682959,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194599,
+        "num": 194599,
+        "word": "当爷爷知道我的猫4000一只",
+        "onboard_time": 1710677255,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194311,
+        "num": 194311,
+        "word": "WB七连胜",
+        "onboard_time": 1710687822,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193679,
+        "num": 193679,
+        "word": "女生称曾遭百万网红妹妹校园霸凌",
+        "onboard_time": 1710679356,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185231,
+        "num": 185231,
+        "word": "我在神界当保安",
+        "onboard_time": 1710687702,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178986,
+        "num": 178986,
+        "word": "久坐增加肠癌风险",
+        "onboard_time": 1710688363,
+        "rank": 44,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 178104,
+        "num": 178104,
+        "word": "林孝埈比赛",
+        "onboard_time": 1710686023,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174372,
+        "num": 174372,
+        "word": "莎头",
+        "onboard_time": 1710685002,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174227,
+        "num": 174227,
+        "word": "原来男人的花期真的很短",
+        "onboard_time": 1710677733,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164547,
+        "num": 164547,
+        "word": "切尔西节目效果",
+        "onboard_time": 1710688541,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163518,
+        "num": 163518,
+        "word": "其实大家的青春都很平淡吧",
+        "onboard_time": 1710687642,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#大思政课一定要跟现实结合起来#"
+    }
+  }
+}
