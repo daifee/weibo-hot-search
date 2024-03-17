@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710682485420,
+  "endTime": 1710684858435,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -49,6 +49,14 @@
       "onboard_time": 1709955931,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 7866989,
+      "num": 9116989,
+      "word": "河北邯郸通报初中生被杀害案",
+      "onboard_time": 1710684039,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6964861,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 3347582,
-      "num": 488942,
+      "num": 634636,
       "word": "邯郸被害男孩父亲怀疑另有帮凶",
       "onboard_time": 1710676956,
       "rank": 10,
@@ -193,6 +201,14 @@
       "onboard_time": 1709873313,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 3049414,
+      "num": 724349,
+      "word": "校长称邯郸男孩的死亡是个意外",
+      "onboard_time": 1710681034,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3029620,
@@ -289,6 +305,14 @@
       "onboard_time": 1709249065,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2686013,
+      "num": 2686013,
+      "word": "Angel父亲离世",
+      "onboard_time": 1710682657,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 2672943,
@@ -768,6 +792,14 @@
       "word": "建议全面取消基层医疗门诊报销起付线",
       "onboard_time": 1709518469,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1958895,
+      "num": 1958895,
+      "word": "邯郸初中生被杀害案嫌疑人全部抓获",
+      "onboard_time": 1710684101,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -2315,14 +2347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1279290,
-      "num": 450552,
-      "word": "校长称邯郸男孩的死亡是个意外",
-      "onboard_time": 1710681034,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1279066,
       "num": 1279066,
       "word": "广州越秀区车祸致11人受伤",
@@ -3195,6 +3219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1097566,
+      "num": 1097566,
+      "word": "这瓜吃的越来越扑朔迷离了",
+      "onboard_time": 1710678995,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1096223,
       "num": 1096223,
       "word": "天津两车追尾起火致1死37伤",
@@ -3281,14 +3313,6 @@
       "onboard_time": 1710236130,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1079909,
-      "num": 1079909,
-      "word": "这瓜吃的越来越扑朔迷离了",
-      "onboard_time": 1710678995,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 1078506,
@@ -4907,6 +4931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 851398,
+      "num": 851398,
+      "word": "三水结婚",
+      "onboard_time": 1710683557,
+      "rank": 7,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 851371,
       "num": 851371,
       "word": "大四是一场巨大的戒断",
@@ -5217,6 +5249,14 @@
       "onboard_time": 1710470553,
       "rank": 7,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 815223,
+      "num": 815223,
+      "word": "新说唱2024 尿检",
+      "onboard_time": 1710683438,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 814918,
@@ -6187,6 +6227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 728015,
+      "num": 728015,
+      "word": "何悯鸿癫了",
+      "onboard_time": 1710681756,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 727572,
       "num": 727572,
       "word": "贾乃亮直播带货虚假宣传舆情相对突出",
@@ -6585,6 +6633,14 @@
       "onboard_time": 1709900909,
       "rank": 34,
       "category": "国内时政,健康医疗"
+    },
+    {
+      "raw_hot": 704618,
+      "num": 704618,
+      "word": "林俊杰衣服",
+      "onboard_time": 1710681516,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 704474,
@@ -7489,6 +7545,14 @@
       "onboard_time": 1710163172,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 646634,
+      "num": 646634,
+      "word": "梅州",
+      "onboard_time": 1710680137,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 646508,
@@ -11187,14 +11251,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 485590,
-      "num": 485590,
-      "word": "梅州",
-      "onboard_time": 1710680137,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 485492,
       "num": 485492,
       "word": "林心如挑选保姆很严格",
@@ -13435,14 +13491,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 415550,
-      "num": 415550,
-      "word": "林俊杰衣服",
-      "onboard_time": 1710681516,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 415545,
       "num": 415545,
       "word": "美国大选将迎耄耋对决",
@@ -13577,14 +13625,6 @@
       "onboard_time": 1709550151,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 411076,
-      "num": 411076,
-      "word": "何悯鸿癫了",
-      "onboard_time": 1710681756,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 410967,
@@ -17379,6 +17419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 317879,
+      "num": 317879,
+      "word": "无限超越班 李菲儿",
+      "onboard_time": 1710682538,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317619,
       "num": 317619,
       "word": "AG战胜狼队",
@@ -19643,6 +19691,14 @@
       "category": "国内时政,财经"
     },
     {
+      "raw_hot": 276933,
+      "num": 276933,
+      "word": "一定要结婚生子吗",
+      "onboard_time": 1710683258,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 276824,
       "num": 276824,
       "word": "郭帆吃中国沙虫吓到沙丘导演",
@@ -21475,6 +21531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 251146,
+      "num": 251146,
+      "word": "蒲熠星晒何炅的纪念蛋糕",
+      "onboard_time": 1710684760,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250938,
       "num": 342193,
       "word": "花间令强吻戏",
@@ -21521,6 +21585,14 @@
       "onboard_time": 1710317614,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 250372,
+      "num": 250372,
+      "word": "赵露思森系少女",
+      "onboard_time": 1710682959,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 250321,
@@ -23793,6 +23865,14 @@
       "onboard_time": 1709634934,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 224359,
+      "num": 250436,
+      "word": "王楚钦倒地庆祝",
+      "onboard_time": 1710683199,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 224236,
@@ -26835,6 +26915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202672,
+      "num": 202672,
+      "word": "眼泪女王编剧",
+      "onboard_time": 1710684760,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202630,
       "num": 202630,
       "word": "钟楚曦巴黎时装周造型",
@@ -27825,6 +27913,14 @@
       "onboard_time": 1710222450,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196947,
+      "num": 196947,
+      "word": "饥饿时人体会出现什么生理反应",
+      "onboard_time": 1710681516,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 196946,
@@ -31843,6 +31939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 173864,
+      "num": 173864,
+      "word": "花间令 鳏夫状态的刘学义",
+      "onboard_time": 1710684459,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173854,
       "num": 173854,
       "word": "女子深夜拨110称停电民警秒懂出警",
@@ -31897,6 +32001,14 @@
       "onboard_time": 1709840235,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173636,
+      "num": 173636,
+      "word": "哈克南尤物",
+      "onboard_time": 1710683740,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 173634,
@@ -34827,14 +34939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157690,
-      "num": 157690,
-      "word": "饥饿时人体会出现什么生理反应",
-      "onboard_time": 1710681516,
-      "rank": 44,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 157684,
       "num": 157684,
       "word": "身高体重填反了",
@@ -35177,6 +35281,14 @@
       "onboard_time": 1709769931,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156130,
+      "num": 156130,
+      "word": "被主人快气哭了的萨摩耶",
+      "onboard_time": 1710683199,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 156081,
@@ -46219,6 +46331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69883,
+      "num": 2239426,
+      "word": "抢抓农时春日忙",
+      "onboard_time": 1710680555,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69358,
       "num": 69358,
       "word": "身体这两个地方千万别冻着",
@@ -46457,14 +46577,6 @@
       "onboard_time": 1709708429,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 63494,
-      "num": 1250542,
-      "word": "抢抓农时春日忙",
-      "onboard_time": 1710680555,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63313,
@@ -47419,6 +47531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42536,
+      "num": 381391,
+      "word": "听晚安电台睡着了",
+      "onboard_time": 1710681155,
+      "rank": 42,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 42392,
       "num": 63757,
       "word": "送给在国家线边缘的你",
@@ -47777,14 +47897,6 @@
       "onboard_time": 1709410217,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34218,
-      "num": 380507,
-      "word": "听晚安电台睡着了",
-      "onboard_time": 1710681155,
-      "rank": 42,
-      "category": "休闲"
     },
     {
       "raw_hot": 33951,
