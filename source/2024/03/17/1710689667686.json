@@ -1,0 +1,410 @@
+{
+  "runTime": 1710689667686,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10234039,
+        "num": 10234039,
+        "word": "河北邯郸通报初中生被杀害案",
+        "onboard_time": 1710684039,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7406095,
+        "num": 7406095,
+        "word": "邯郸初中生被杀害案嫌疑人全部抓获",
+        "onboard_time": 1710684101,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50586,
+        "num": 2956549,
+        "word": "抢抓农时春日忙",
+        "onboard_time": 1710680555,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1190487,
+        "num": 1190487,
+        "word": "Angel父亲离世",
+        "onboard_time": 1710682657,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 779684,
+        "num": 779684,
+        "word": "商家直播2小时连吃10根淀粉肠",
+        "onboard_time": 1710685244,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725706,
+        "num": 725706,
+        "word": "本周狗屎运最旺的星座TOP4",
+        "onboard_time": 1710687344,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 679543,
+        "num": 679543,
+        "word": "三水结婚",
+        "onboard_time": 1710683557,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 635076,
+        "num": 635076,
+        "word": "黄大宪 朴知元",
+        "onboard_time": 1710688125,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600677,
+        "num": 600677,
+        "word": "新说唱2024 尿检",
+        "onboard_time": 1710683438,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 554929,
+        "num": 554929,
+        "word": "陈星旭陈牧驰 山河表里",
+        "onboard_time": 1710687523,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2033312,
+        "num": 553981,
+        "word": "校长称邯郸男孩的死亡是个意外",
+        "onboard_time": 1710681034,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552319,
+        "num": 552319,
+        "word": "眼泪女王编剧",
+        "onboard_time": 1710684760,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 536326,
+        "num": 536326,
+        "word": "何悯鸿癫了",
+        "onboard_time": 1710681756,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1344712,
+        "num": 531804,
+        "word": "邯郸村民尝试挖坑半天仅挖1米深",
+        "onboard_time": 1710685542,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522538,
+        "num": 522538,
+        "word": "火星哥因赌博欠债5000万美元",
+        "onboard_time": 1710688722,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439766,
+        "num": 439766,
+        "word": "婆婆不满意我选的喜糖盒",
+        "onboard_time": 1710685605,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 827832,
+        "num": 438682,
+        "word": "邯郸被害男孩父亲怀疑另有帮凶",
+        "onboard_time": 1710676956,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436892,
+        "num": 436892,
+        "word": "徐娇又勇了",
+        "onboard_time": 1710675629,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 431344,
+        "num": 431344,
+        "word": "眼泪女王能不能更完",
+        "onboard_time": 1710686866,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 768475,
+        "num": 430341,
+        "word": "全村为邯郸遇害初中生送行",
+        "onboard_time": 1710676956,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428278,
+        "num": 428278,
+        "word": "刘少林",
+        "onboard_time": 1710687281,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 426472,
+        "num": 426472,
+        "word": "女孩将小男孩从高处推下",
+        "onboard_time": 1710687465,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453908,
+        "num": 421027,
+        "word": "邯郸杀人案嫌犯被带走时神态平静",
+        "onboard_time": 1710676895,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402026,
+        "num": 402026,
+        "word": "当我收到了我的二月份工资",
+        "onboard_time": 1710688179,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 383769,
+        "num": 383769,
+        "word": "白桃星座",
+        "onboard_time": 1710687523,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 345291,
+        "num": 345291,
+        "word": "误以为很贵实际很便宜的车",
+        "onboard_time": 1710688179,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 302593,
+        "num": 302593,
+        "word": "何焉悦色",
+        "onboard_time": 1710686866,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286758,
+        "num": 286758,
+        "word": "林俊杰衣服",
+        "onboard_time": 1710681516,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 283838,
+        "num": 283838,
+        "word": "小洋睡不着",
+        "onboard_time": 1710688780,
+        "rank": 28,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 279723,
+        "num": 279723,
+        "word": "英国王室上演消失的她",
+        "onboard_time": 1710688179,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 268589,
+        "num": 268589,
+        "word": "花20万买走女朋友的不开心",
+        "onboard_time": 1710679835,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 264529,
+        "num": 264529,
+        "word": "这瓜吃的越来越扑朔迷离了",
+        "onboard_time": 1710678995,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258318,
+        "num": 258318,
+        "word": "张慧雯演技",
+        "onboard_time": 1710689201,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248607,
+        "num": 248607,
+        "word": "真的有人上班从早忙到晚吗",
+        "onboard_time": 1710686023,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214509,
+        "num": 214509,
+        "word": "眼泪女王",
+        "onboard_time": 1710685542,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210837,
+        "num": 210837,
+        "word": "蒲熠星晒何炅的纪念蛋糕",
+        "onboard_time": 1710684760,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198440,
+        "num": 198440,
+        "word": "大爷连开16个双黄蛋不敢吃了",
+        "onboard_time": 1710675033,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193048,
+        "num": 193048,
+        "word": "电脑为什么会有咳嗽声",
+        "onboard_time": 1710688301,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192485,
+        "num": 192485,
+        "word": "王楚钦大满贯双冠王",
+        "onboard_time": 1710680617,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190946,
+        "num": 190946,
+        "word": "切尔西节目效果",
+        "onboard_time": 1710688541,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182997,
+        "num": 182997,
+        "word": "微信如何查看自己加了多少群",
+        "onboard_time": 1710671015,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 179202,
+        "num": 179202,
+        "word": "何悯鸿 算了说了你又不高兴",
+        "onboard_time": 1710689322,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176918,
+        "num": 176918,
+        "word": "李惠利经纪公司回应",
+        "onboard_time": 1710666331,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171796,
+        "num": 171796,
+        "word": "无限超越班 李菲儿",
+        "onboard_time": 1710682538,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169068,
+        "num": 169068,
+        "word": "林孝埈比赛",
+        "onboard_time": 1710686023,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167539,
+        "num": 167539,
+        "word": "女生称曾遭百万网红妹妹校园霸凌",
+        "onboard_time": 1710679356,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161648,
+        "num": 161648,
+        "word": "赵露思森系少女",
+        "onboard_time": 1710682959,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158122,
+        "num": 158122,
+        "word": "一定要结婚生子吗",
+        "onboard_time": 1710683258,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155731,
+        "num": 155731,
+        "word": "wyy周决MVP",
+        "onboard_time": 1710689559,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151847,
+        "num": 151847,
+        "word": "周也神女降临",
+        "onboard_time": 1710689619,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#大思政课一定要跟现实结合起来#"
+    }
+  }
+}

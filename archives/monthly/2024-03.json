@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710688647745,
+  "endTime": 1710689667686,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -2099,6 +2099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1344712,
+      "num": 531804,
+      "word": "邯郸村民尝试挖坑半天仅挖1米深",
+      "onboard_time": 1710685542,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1344612,
       "num": 1344612,
       "word": "夸父炸串回应",
@@ -2169,14 +2177,6 @@
       "onboard_time": 1709792847,
       "rank": 19,
       "category": "社会新闻,互联网"
-    },
-    {
-      "raw_hot": 1326449,
-      "num": 515617,
-      "word": "邯郸村民尝试挖坑半天仅挖1米深",
-      "onboard_time": 1710685542,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1324242,
@@ -5603,6 +5603,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 779684,
+      "num": 779684,
+      "word": "商家直播2小时连吃10根淀粉肠",
+      "onboard_time": 1710685244,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 779646,
       "num": 265764,
       "word": "研0喊了导师一晚上老鼠",
@@ -5881,14 +5889,6 @@
       "onboard_time": 1710410433,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 755132,
-      "num": 755132,
-      "word": "商家直播2小时连吃10根淀粉肠",
-      "onboard_time": 1710685244,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 754950,
@@ -6281,6 +6281,14 @@
       "onboard_time": 1709299652,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 725706,
+      "num": 725706,
+      "word": "本周狗屎运最旺的星座TOP4",
+      "onboard_time": 1710687344,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 724213,
@@ -7347,14 +7355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 659823,
-      "num": 533053,
-      "word": "本周狗屎运最旺的星座TOP4",
-      "onboard_time": 1710687344,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
       "raw_hot": 659398,
       "num": 500176,
       "word": "轻舟已过万重山",
@@ -7849,6 +7849,14 @@
       "onboard_time": 1710462759,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 635076,
+      "num": 635076,
+      "word": "黄大宪 朴知元",
+      "onboard_time": 1710688125,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 634049,
@@ -9395,6 +9403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 554929,
+      "num": 554929,
+      "word": "陈星旭陈牧驰 山河表里",
+      "onboard_time": 1710687523,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 553965,
       "num": 553965,
       "word": "河南申论",
@@ -10307,6 +10323,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 522538,
+      "num": 522538,
+      "word": "火星哥因赌博欠债5000万美元",
+      "onboard_time": 1710688722,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 522122,
       "num": 522122,
       "word": "文旅部长回应黄牛抢票现象",
@@ -11001,14 +11025,6 @@
       "onboard_time": 1709373392,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 493901,
-      "num": 493901,
-      "word": "陈星旭陈牧驰 山河表里",
-      "onboard_time": 1710687523,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 493506,
@@ -12947,14 +12963,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 436499,
-      "num": 436499,
-      "word": "黄大宪 朴知元",
-      "onboard_time": 1710688125,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 435982,
       "num": 435982,
       "word": "315曝光同程金融APP礼品卡套路",
@@ -13257,6 +13265,14 @@
       "onboard_time": 1710566618,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 426472,
+      "num": 426472,
+      "word": "女孩将小男孩从高处推下",
+      "onboard_time": 1710687465,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426394,
@@ -14041,6 +14057,14 @@
       "onboard_time": 1709474794,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 402026,
+      "num": 402026,
+      "word": "当我收到了我的二月份工资",
+      "onboard_time": 1710688179,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 401876,
@@ -16131,14 +16155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 349013,
-      "num": 349013,
-      "word": "女孩将小男孩从高处推下",
-      "onboard_time": 1710687465,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 348973,
       "num": 348973,
       "word": "平野美宇3比0早田希娜",
@@ -16219,14 +16235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 347306,
-      "num": 347306,
-      "word": "当我收到了我的二月份工资",
-      "onboard_time": 1710688179,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 347262,
       "num": 347262,
       "word": "梁靖崑4比3波尔",
@@ -16297,6 +16305,14 @@
       "onboard_time": 1709255131,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 345291,
+      "num": 345291,
+      "word": "误以为很贵实际很便宜的车",
+      "onboard_time": 1710688179,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 344645,
@@ -17225,14 +17241,6 @@
       "onboard_time": 1710561458,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 322637,
-      "num": 265526,
-      "word": "误以为很贵实际很便宜的车",
-      "onboard_time": 1710688179,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 322554,
@@ -19443,6 +19451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283838,
+      "num": 283838,
+      "word": "小洋睡不着",
+      "onboard_time": 1710688780,
+      "rank": 28,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 283545,
       "num": 283545,
       "word": "宇文护叉腰",
@@ -21129,6 +21145,14 @@
       "onboard_time": 1710068672,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 258318,
+      "num": 258318,
+      "word": "张慧雯演技",
+      "onboard_time": 1710689201,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 258176,
@@ -29187,6 +29211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190946,
+      "num": 190946,
+      "word": "切尔西节目效果",
+      "onboard_time": 1710688541,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190927,
       "num": 190927,
       "word": "茉酸奶称主要原料为酸奶",
@@ -31265,6 +31297,14 @@
       "onboard_time": 1710669875,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179202,
+      "num": 179202,
+      "word": "何悯鸿 算了说了你又不高兴",
+      "onboard_time": 1710689322,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 179199,
@@ -33715,14 +33755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164547,
-      "num": 164547,
-      "word": "切尔西节目效果",
-      "onboard_time": 1710688541,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164496,
       "num": 164496,
       "word": "带着狗鹅鸭坐高铁的主人",
@@ -35579,6 +35611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155731,
+      "num": 155731,
+      "word": "wyy周决MVP",
+      "onboard_time": 1710689559,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155728,
       "num": 181051,
       "word": "云南临沧森林火灾3名扑火人员牺牲",
@@ -36345,6 +36385,14 @@
       "onboard_time": 1710233375,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151847,
+      "num": 151847,
+      "word": "周也神女降临",
+      "onboard_time": 1710689619,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 151843,
