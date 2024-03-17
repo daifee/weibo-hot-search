@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710666931859,
+  "endTime": 1710668060076,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -939,6 +939,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1814555,
+      "num": 1814555,
+      "word": "幼儿园关闭潮最终会影响到大学",
+      "onboard_time": 1710663692,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1808229,
       "num": 502573,
       "word": "央视记者",
@@ -1779,14 +1787,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1407611,
-      "num": 1407611,
-      "word": "幼儿园关闭潮最终会影响到大学",
-      "onboard_time": 1710663692,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1404692,
       "num": 1404692,
       "word": "杨幂全球高定首穿",
@@ -2209,6 +2209,14 @@
       "onboard_time": 1710420632,
       "rank": 6,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1281395,
+      "num": 946657,
+      "word": "李惠利经纪公司回应",
+      "onboard_time": 1710666331,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 1279066,
@@ -7139,6 +7147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 657247,
+      "num": 657247,
+      "word": "犬舍店主称鸡骨泥是用来做狗粮",
+      "onboard_time": 1710664294,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 657102,
       "num": 657102,
       "word": "易烊千玺帽子",
@@ -9339,6 +9355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 545849,
+      "num": 545849,
+      "word": "浙江一5岁女孩确诊长发公主综合征",
+      "onboard_time": 1710657995,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 545120,
       "num": 459410,
       "word": "回南天的布偶猫",
@@ -9696,14 +9720,6 @@
       "word": "派出所回应女子买茅台遭死亡威胁",
       "onboard_time": 1709541751,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 531833,
-      "num": 415599,
-      "word": "浙江一5岁女孩确诊长发公主综合征",
-      "onboard_time": 1710657995,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -10385,14 +10401,6 @@
       "onboard_time": 1709713293,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503039,
-      "num": 503039,
-      "word": "李惠利经纪公司回应",
-      "onboard_time": 1710666331,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 502800,
@@ -12265,14 +12273,6 @@
       "onboard_time": 1710514963,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 442906,
-      "num": 442906,
-      "word": "犬舍店主称鸡骨泥是用来做狗粮",
-      "onboard_time": 1710664294,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 442883,
@@ -19075,6 +19075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279679,
+      "num": 239374,
+      "word": "郑合惠子名字含义",
+      "onboard_time": 1710665552,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279483,
       "num": 279483,
       "word": "娜然还原妲己雪地找簪子名场面",
@@ -19241,14 +19249,6 @@
       "onboard_time": 1709601749,
       "rank": 26,
       "category": "国内时政,财经"
-    },
-    {
-      "raw_hot": 276999,
-      "num": 239374,
-      "word": "郑合惠子名字含义",
-      "onboard_time": 1710665552,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 276824,
@@ -20491,6 +20491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258564,
+      "num": 223944,
+      "word": "结婚十年就存这点钱",
+      "onboard_time": 1710667173,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 258457,
       "num": 258457,
       "word": "姿态Rita同框解说",
@@ -20697,6 +20705,14 @@
       "onboard_time": 1709634513,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 255634,
+      "num": 255634,
+      "word": "不生孩子的核心本质是什么",
+      "onboard_time": 1710667173,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 255609,
@@ -24395,6 +24411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215362,
+      "num": 215362,
+      "word": "逆水寒手游澄清与莲花楼联动",
+      "onboard_time": 1710667831,
+      "rank": 23,
+      "category": "游戏,剧集"
+    },
+    {
       "raw_hot": 215253,
       "num": 215253,
       "word": "超三成女货车司机是家庭收入顶梁柱",
@@ -27899,6 +27923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193623,
+      "num": 193623,
+      "word": "为什么有的人运气很好",
+      "onboard_time": 1710667230,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193534,
       "num": 193534,
       "word": "TXT FANLIVE",
@@ -28737,6 +28769,14 @@
       "onboard_time": 1709295153,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188924,
+      "num": 188924,
+      "word": "暧昧过但最后没能在一起",
+      "onboard_time": 1710667173,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 188901,
@@ -34587,6 +34627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155728,
+      "num": 181051,
+      "word": "云南临沧森林火灾3名扑火人员牺牲",
+      "onboard_time": 1710667293,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155684,
       "num": 155684,
       "word": "奥本海默奥斯卡最佳剪辑",
@@ -35979,6 +36027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148205,
+      "num": 148205,
+      "word": "鹿晗soeasy说早了",
+      "onboard_time": 1710665614,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148175,
       "num": 148175,
       "word": "从18楼窗台救了一只猫",
@@ -37217,14 +37273,6 @@
       "onboard_time": 1710329611,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 142127,
-      "num": 142127,
-      "word": "鹿晗soeasy说早了",
-      "onboard_time": 1710665614,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 142049,
@@ -39257,6 +39305,14 @@
       "onboard_time": 1710333272,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131777,
+      "num": 131777,
+      "word": "梅州警方回应男孩疑似猥亵小女孩",
+      "onboard_time": 1710667831,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131756,
@@ -42729,6 +42785,14 @@
       "onboard_time": 1709888009,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111596,
+      "num": 111596,
+      "word": "满记甜品被曝多地撤店",
+      "onboard_time": 1710667952,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111593,

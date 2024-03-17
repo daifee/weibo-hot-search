@@ -1,0 +1,410 @@
+{
+  "runTime": 1710668060076,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1814555,
+        "num": 1814555,
+        "word": "幼儿园关闭潮最终会影响到大学",
+        "onboard_time": 1710663692,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1113876,
+        "num": 1113876,
+        "word": "我居然和奶奶早逝的女儿有一样的胎记",
+        "onboard_time": 1710663151,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32688,
+        "num": 969728,
+        "word": "有一种氛围感叫春天",
+        "onboard_time": 1710630982,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1281395,
+        "num": 946657,
+        "word": "李惠利经纪公司回应",
+        "onboard_time": 1710666331,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 846832,
+        "num": 846832,
+        "word": "老人出摊卖淀粉肠无人问津",
+        "onboard_time": 1710649412,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657247,
+        "num": 657247,
+        "word": "犬舍店主称鸡骨泥是用来做狗粮",
+        "onboard_time": 1710664294,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648544,
+        "num": 648544,
+        "word": "茶百道 崩铁",
+        "onboard_time": 1710653255,
+        "rank": 6,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 610711,
+        "num": 610711,
+        "word": "身边逐渐消失的职业",
+        "onboard_time": 1710661651,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 545849,
+        "num": 545849,
+        "word": "浙江一5岁女孩确诊长发公主综合征",
+        "onboard_time": 1710657995,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485048,
+        "num": 485048,
+        "word": "花间令热度破10000",
+        "onboard_time": 1710664534,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459804,
+        "num": 459804,
+        "word": "阮经天ins",
+        "onboard_time": 1710659255,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 351784,
+        "num": 351784,
+        "word": "范丞丞 特步",
+        "onboard_time": 1710664051,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320975,
+        "num": 320975,
+        "word": "嘴角起泡其实是感染了病毒",
+        "onboard_time": 1710656974,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 315725,
+        "num": 315725,
+        "word": "比特币大跌超16万人爆仓",
+        "onboard_time": 1710659673,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 301317,
+        "num": 301317,
+        "word": "费曼辣评吴镇宇",
+        "onboard_time": 1710650132,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297686,
+        "num": 297686,
+        "word": "陈牧驰耳钉",
+        "onboard_time": 1710660034,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287948,
+        "num": 287948,
+        "word": "鸡骨泥",
+        "onboard_time": 1710655411,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286185,
+        "num": 286185,
+        "word": "乔任梁父亲喊话撕下AI复活明星伪善面具",
+        "onboard_time": 1710650553,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255634,
+        "num": 255634,
+        "word": "不生孩子的核心本质是什么",
+        "onboard_time": 1710667173,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231552,
+        "num": 231552,
+        "word": "花间令 女主走路男主坐车",
+        "onboard_time": 1710659552,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 517457,
+        "num": 227423,
+        "word": "男孩在路边拖走小女孩疑似猥亵",
+        "onboard_time": 1710661772,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279679,
+        "num": 226207,
+        "word": "郑合惠子名字含义",
+        "onboard_time": 1710665552,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258564,
+        "num": 223944,
+        "word": "结婚十年就存这点钱",
+        "onboard_time": 1710667173,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215362,
+        "num": 215362,
+        "word": "逆水寒手游澄清与莲花楼联动",
+        "onboard_time": 1710667831,
+        "rank": 23,
+        "category": "游戏,剧集"
+      },
+      {
+        "raw_hot": 209855,
+        "num": 209855,
+        "word": "拒绝买车后老公对我冷暴力",
+        "onboard_time": 1710662131,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205250,
+        "num": 205250,
+        "word": "樊振东看霉霉演唱会vlog",
+        "onboard_time": 1710650913,
+        "rank": 25,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 193623,
+        "num": 193623,
+        "word": "为什么有的人运气很好",
+        "onboard_time": 1710667230,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188924,
+        "num": 188924,
+        "word": "暧昧过但最后没能在一起",
+        "onboard_time": 1710667173,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181934,
+        "num": 181934,
+        "word": "为什么考公没有考研让人感动",
+        "onboard_time": 1710655532,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155728,
+        "num": 181051,
+        "word": "云南临沧森林火灾3名扑火人员牺牲",
+        "onboard_time": 1710667293,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180731,
+        "num": 180731,
+        "word": "加沙看不到正常体型新生儿",
+        "onboard_time": 1710657808,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 180717,
+        "num": 180717,
+        "word": "花间令",
+        "onboard_time": 1710664534,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179638,
+        "num": 179638,
+        "word": "在飞机上被韩国空姐当成韩国人了",
+        "onboard_time": 1710653491,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178616,
+        "num": 178616,
+        "word": "江歌妈妈谈AI复活亲人",
+        "onboard_time": 1710656370,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171694,
+        "num": 171694,
+        "word": "前男友的现女友找我聊了十个月",
+        "onboard_time": 1710653911,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150778,
+        "num": 150778,
+        "word": "315打假击败全国99%大学生",
+        "onboard_time": 1710650071,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150210,
+        "num": 150210,
+        "word": "杰娜早期的暧昧氛围好上头",
+        "onboard_time": 1710663514,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148205,
+        "num": 148205,
+        "word": "鹿晗soeasy说早了",
+        "onboard_time": 1710665614,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138065,
+        "num": 138065,
+        "word": "因为经常去旅游朋友叫我生个孩子",
+        "onboard_time": 1710659673,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136579,
+        "num": 136579,
+        "word": "苹果同意支付4.9亿美金和解",
+        "onboard_time": 1710637890,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131777,
+        "num": 131777,
+        "word": "梅州警方回应男孩疑似猥亵小女孩",
+        "onboard_time": 1710667831,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130744,
+        "num": 130744,
+        "word": "林昀儒视角下的樊振东",
+        "onboard_time": 1710661594,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127465,
+        "num": 127465,
+        "word": "自制淀粉肠",
+        "onboard_time": 1710642273,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 126812,
+        "num": 126812,
+        "word": "费曼晒吴镇宇综艺照",
+        "onboard_time": 1710655951,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125939,
+        "num": 125939,
+        "word": "老公每年都要裸考公务员",
+        "onboard_time": 1710648452,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119187,
+        "num": 119187,
+        "word": "比特币减半将在4月到来",
+        "onboard_time": 1710665073,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116168,
+        "num": 116168,
+        "word": "为什么发朋友圈一定要屏蔽爸妈",
+        "onboard_time": 1710660213,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116079,
+        "num": 116079,
+        "word": "纪凌尘朱梓骁情头",
+        "onboard_time": 1710645453,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114086,
+        "num": 114086,
+        "word": "许凯虞书欣 指压板游戏复盘",
+        "onboard_time": 1710655772,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111596,
+        "num": 111596,
+        "word": "满记甜品被曝多地撤店",
+        "onboard_time": 1710667952,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视思政课建设#"
+    }
+  }
+}

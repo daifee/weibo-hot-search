@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710666931859,
+  "endTime": 1710668060076,
   "band_list": [
     {
       "raw_hot": 2524535,
@@ -24,6 +24,14 @@
       "word": "4男女混租一间房3个月后留满屋垃圾",
       "onboard_time": 1710639869,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1814555,
+      "num": 1814555,
+      "word": "幼儿园关闭潮最终会影响到大学",
+      "onboard_time": 1710663692,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -59,14 +67,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1407611,
-      "num": 1407611,
-      "word": "幼儿园关闭潮最终会影响到大学",
-      "onboard_time": 1710663692,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1376592,
       "num": 1376592,
       "word": "去年我国结婚人数为近十年来首次回升",
@@ -96,6 +96,14 @@
       "word": "乔任梁父亲喊话撕下AI复活明星伪善面具",
       "onboard_time": 1710650553,
       "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1281395,
+      "num": 946657,
+      "word": "李惠利经纪公司回应",
+      "onboard_time": 1710666331,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -243,6 +251,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 657247,
+      "num": 657247,
+      "word": "犬舍店主称鸡骨泥是用来做狗粮",
+      "onboard_time": 1710664294,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 651994,
       "num": 301285,
       "word": "老公每年都要裸考公务员",
@@ -339,6 +355,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 545849,
+      "num": 545849,
+      "word": "浙江一5岁女孩确诊长发公主综合征",
+      "onboard_time": 1710657995,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 543532,
       "num": 454897,
       "word": "加沙看不到正常体型新生儿",
@@ -353,14 +377,6 @@
       "onboard_time": 1710635070,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 531833,
-      "num": 415599,
-      "word": "浙江一5岁女孩确诊长发公主综合征",
-      "onboard_time": 1710657995,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 512225,
@@ -385,14 +401,6 @@
       "onboard_time": 1710640711,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 503039,
-      "num": 503039,
-      "word": "李惠利经纪公司回应",
-      "onboard_time": 1710666331,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 500884,
@@ -505,14 +513,6 @@
       "onboard_time": 1710632964,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 442906,
-      "num": 442906,
-      "word": "犬舍店主称鸡骨泥是用来做狗粮",
-      "onboard_time": 1710664294,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432677,
@@ -827,7 +827,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 276999,
+      "raw_hot": 279679,
       "num": 239374,
       "word": "郑合惠子名字含义",
       "onboard_time": 1710665552,
@@ -875,12 +875,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 258564,
+      "num": 223944,
+      "word": "结婚十年就存这点钱",
+      "onboard_time": 1710667173,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 256526,
       "num": 223959,
       "word": "宁静奚梦瑶撞衫",
       "onboard_time": 1710640654,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255634,
+      "num": 255634,
+      "word": "不生孩子的核心本质是什么",
+      "onboard_time": 1710667173,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 254960,
@@ -1035,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215362,
+      "num": 215362,
+      "word": "逆水寒手游澄清与莲花楼联动",
+      "onboard_time": 1710667831,
+      "rank": 23,
+      "category": "游戏,剧集"
+    },
+    {
       "raw_hot": 211194,
       "num": 211194,
       "word": "浓眉眼角膜擦伤",
@@ -1123,6 +1147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193623,
+      "num": 193623,
+      "word": "为什么有的人运气很好",
+      "onboard_time": 1710667230,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191585,
       "num": 191585,
       "word": "沈璃手撕婚约",
@@ -1136,6 +1168,14 @@
       "word": "闺蜜问我是不是买了个新包包",
       "onboard_time": 1710637171,
       "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 188924,
+      "num": 188924,
+      "word": "暧昧过但最后没能在一起",
+      "onboard_time": 1710667173,
+      "rank": 27,
       "category": "情感"
     },
     {
@@ -1387,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155728,
+      "num": 181051,
+      "word": "云南临沧森林火灾3名扑火人员牺牲",
+      "onboard_time": 1710667293,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154902,
       "num": 154902,
       "word": "唐嫣骨相",
@@ -1425,6 +1473,14 @@
       "onboard_time": 1710654453,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148205,
+      "num": 148205,
+      "word": "鹿晗soeasy说早了",
+      "onboard_time": 1710665614,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 147211,
@@ -1481,14 +1537,6 @@
       "onboard_time": 1710647611,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 142127,
-      "num": 142127,
-      "word": "鹿晗soeasy说早了",
-      "onboard_time": 1710665614,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 142075,
@@ -1569,6 +1617,14 @@
       "onboard_time": 1710646051,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131777,
+      "num": 131777,
+      "word": "梅州警方回应男孩疑似猥亵小女孩",
+      "onboard_time": 1710667831,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130539,
@@ -1737,6 +1793,14 @@
       "onboard_time": 1710637771,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111596,
+      "num": 111596,
+      "word": "满记甜品被曝多地撤店",
+      "onboard_time": 1710667952,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110608,
