@@ -1,0 +1,410 @@
+{
+  "runTime": 1710642223429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1646608,
+        "num": 1646608,
+        "word": "4男女混租一间房3个月后留满屋垃圾",
+        "onboard_time": 1710639869,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1500019,
+        "num": 1500019,
+        "word": "女子淀粉肠创业开始即结束",
+        "onboard_time": 1710632964,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173156,
+        "num": 1197847,
+        "word": "有一种意境叫中式美学",
+        "onboard_time": 1710600578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 926523,
+        "num": 926523,
+        "word": "男生患上桃花癫感觉全校女生都喜欢自己",
+        "onboard_time": 1710635488,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647550,
+        "num": 647550,
+        "word": "金价下跌了",
+        "onboard_time": 1710601838,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 562346,
+        "num": 562346,
+        "word": "年轻人为啥盯上天水麻辣烫",
+        "onboard_time": 1710637349,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 538749,
+        "num": 538749,
+        "word": "恩静在酒店地下车库随舞",
+        "onboard_time": 1710635671,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 471952,
+        "num": 471952,
+        "word": "江西省考被曝有考生作弊",
+        "onboard_time": 1710632964,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 378031,
+        "num": 378031,
+        "word": "如懿干活vs甄嬛干活",
+        "onboard_time": 1710632964,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369874,
+        "num": 369874,
+        "word": "工作组赴四川雅江指导山火扑救",
+        "onboard_time": 1710637349,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1611314,
+        "num": 368575,
+        "word": "苹果同意支付4.9亿美金和解",
+        "onboard_time": 1710637890,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 504385,
+        "num": 366364,
+        "word": "浓眉被封眼",
+        "onboard_time": 1710640711,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 363376,
+        "num": 363376,
+        "word": "身上这种小疙瘩或是HPV感染",
+        "onboard_time": 1710601779,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 317764,
+        "num": 317764,
+        "word": "奸杀女童恶魔被执行死刑",
+        "onboard_time": 1710632964,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315885,
+        "num": 315885,
+        "word": "新裤子穿了手工耿战袍",
+        "onboard_time": 1710639934,
+        "rank": 14,
+        "category": "演出,网红"
+      },
+      {
+        "raw_hot": 311761,
+        "num": 311761,
+        "word": "凯特王妃",
+        "onboard_time": 1710614780,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 296204,
+        "num": 296204,
+        "word": "SpaceX被曝为美国情报机构建设间谍卫星网络",
+        "onboard_time": 1710634287,
+        "rank": 16,
+        "category": "国外时政,科学科普"
+      },
+      {
+        "raw_hot": 293345,
+        "num": 293345,
+        "word": "小英家的牛",
+        "onboard_time": 1710638433,
+        "rank": 17,
+        "category": "网红,幽默"
+      },
+      {
+        "raw_hot": 275420,
+        "num": 275420,
+        "word": "晨起后不建议喝蜂蜜水淡盐水",
+        "onboard_time": 1710635070,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 264070,
+        "num": 264070,
+        "word": "宁静看纪凌尘演戏笑了",
+        "onboard_time": 1710635488,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352707,
+        "num": 252903,
+        "word": "女孩自己注射1mg司美格鲁肽送医抢救",
+        "onboard_time": 1710609026,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318979,
+        "num": 246587,
+        "word": "婆婆每个月给我1w要不要收",
+        "onboard_time": 1710633266,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286750,
+        "num": 242464,
+        "word": "林孝埈身披国旗绕场",
+        "onboard_time": 1710635852,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225056,
+        "num": 225056,
+        "word": "郑合惠子演过你是我的荣耀",
+        "onboard_time": 1710636090,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256526,
+        "num": 223959,
+        "word": "宁静奚梦瑶撞衫",
+        "onboard_time": 1710640654,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209569,
+        "num": 209569,
+        "word": "父亲希望AI复活乔任梁视频尽快下架",
+        "onboard_time": 1710599379,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203975,
+        "num": 203975,
+        "word": "是谁让大量劣质槽头肉流入市场",
+        "onboard_time": 1710637591,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198113,
+        "num": 198113,
+        "word": "选出所有的阮经天",
+        "onboard_time": 1710632725,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189714,
+        "num": 189714,
+        "word": "纪凌尘beng",
+        "onboard_time": 1710600517,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186893,
+        "num": 186893,
+        "word": "315",
+        "onboard_time": 1710639033,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188395,
+        "num": 184506,
+        "word": "辛纳状态",
+        "onboard_time": 1710641914,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180072,
+        "num": 180072,
+        "word": "沈璃手撕婚约",
+        "onboard_time": 1710641194,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178862,
+        "num": 178862,
+        "word": "孙龙林孝埈双双摘金",
+        "onboard_time": 1710641373,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174463,
+        "num": 174463,
+        "word": "西工大女教授公开名下研究生去向走红",
+        "onboard_time": 1710617478,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173358,
+        "num": 173358,
+        "word": "何悯鸿向渣男下跪",
+        "onboard_time": 1710602136,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172027,
+        "num": 172027,
+        "word": "小猫感眼线",
+        "onboard_time": 1710641675,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 166178,
+        "num": 166178,
+        "word": "315曝光的槽头肉企业墙上挂诚信正直",
+        "onboard_time": 1710637290,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165184,
+        "num": 165184,
+        "word": "去年我国结婚人数为近十年来首次回升",
+        "onboard_time": 1710641914,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162895,
+        "num": 162895,
+        "word": "今年高校毕业生将超1170万人",
+        "onboard_time": 1710641012,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162692,
+        "num": 162692,
+        "word": "终于理解什么是忘年交了",
+        "onboard_time": 1710639869,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152345,
+        "num": 152345,
+        "word": "范丞丞金色挑染",
+        "onboard_time": 1710640473,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142331,
+        "num": 142331,
+        "word": "郑合惠子 不要捧一踩一",
+        "onboard_time": 1710591093,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138164,
+        "num": 138164,
+        "word": "岳千灵顾寻 两A相遇必有一O",
+        "onboard_time": 1710641852,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128353,
+        "num": 128353,
+        "word": "花间令 喜欢的人成了我外室",
+        "onboard_time": 1710600936,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119600,
+        "num": 119600,
+        "word": "中医从不提倡多喝水",
+        "onboard_time": 1710591093,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119212,
+        "num": 119212,
+        "word": "南极座头鲸母子同游",
+        "onboard_time": 1710642153,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118195,
+        "num": 118195,
+        "word": "吴镇宇被张睿气走了",
+        "onboard_time": 1710594998,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117985,
+        "num": 117985,
+        "word": "勇士vs湖人",
+        "onboard_time": 1710639212,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117962,
+        "num": 117962,
+        "word": "花间令热度破9500",
+        "onboard_time": 1710636211,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116774,
+        "num": 116774,
+        "word": "家庭资产400万怎么才能躺平",
+        "onboard_time": 1710598418,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#培育发展新质生产力的新动能#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710639292594,
+  "endTime": 1710642223429,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1267,6 +1267,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1646608,
+      "num": 1646608,
+      "word": "4男女混租一间房3个月后留满屋垃圾",
+      "onboard_time": 1710639869,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1643492,
       "num": 1643492,
       "word": "掌心官宣",
@@ -1321,6 +1329,14 @@
       "onboard_time": 1710144148,
       "rank": 12,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 1611314,
+      "num": 445158,
+      "word": "苹果同意支付4.9亿美金和解",
+      "onboard_time": 1710637890,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 1609919,
@@ -4649,14 +4665,6 @@
       "onboard_time": 1709520808,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 849956,
-      "num": 445158,
-      "word": "苹果同意支付4.9亿美金和解",
-      "onboard_time": 1710637890,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 849301,
@@ -8739,6 +8747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 562346,
+      "num": 562346,
+      "word": "年轻人为啥盯上天水麻辣烫",
+      "onboard_time": 1710637349,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 561031,
       "num": 561031,
       "word": "男方出资登记女方名下房产归谁",
@@ -9273,6 +9289,14 @@
       "onboard_time": 1710412656,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 538749,
+      "num": 538749,
+      "word": "恩静在酒店地下车库随舞",
+      "onboard_time": 1710635671,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 538737,
@@ -9963,14 +9987,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 510718,
-      "num": 510718,
-      "word": "年轻人为啥盯上天水麻辣烫",
-      "onboard_time": 1710637349,
-      "rank": 28,
-      "category": "美食"
-    },
-    {
       "raw_hot": 510704,
       "num": 510704,
       "word": "苏翊鸣晒与朱易滑雪照",
@@ -10121,6 +10137,14 @@
       "onboard_time": 1709780969,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 504385,
+      "num": 366364,
+      "word": "浓眉被封眼",
+      "onboard_time": 1710640711,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 503743,
@@ -12451,14 +12475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 427962,
-      "num": 427962,
-      "word": "恩静在酒店地下车库随舞",
-      "onboard_time": 1710635671,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 427633,
       "num": 352684,
       "word": "女孩第一次买刮刮乐就中了100万",
@@ -14316,7 +14332,7 @@
     },
     {
       "raw_hot": 371865,
-      "num": 232490,
+      "num": 246587,
       "word": "婆婆每个月给我1w要不要收",
       "onboard_time": 1710633266,
       "rank": 21,
@@ -16524,7 +16540,7 @@
     },
     {
       "raw_hot": 318234,
-      "num": 234713,
+      "num": 242464,
       "word": "林孝埈身披国旗绕场",
       "onboard_time": 1710635852,
       "rank": 22,
@@ -16665,6 +16681,14 @@
       "onboard_time": 1709282973,
       "rank": 15,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 315885,
+      "num": 315885,
+      "word": "新裤子穿了手工耿战袍",
+      "onboard_time": 1710639934,
+      "rank": 14,
+      "category": "演出,网红"
     },
     {
       "raw_hot": 315705,
@@ -17905,6 +17929,14 @@
       "onboard_time": 1709465912,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 293345,
+      "num": 293345,
+      "word": "小英家的牛",
+      "onboard_time": 1710638433,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 293229,
@@ -20041,6 +20073,14 @@
       "onboard_time": 1709463987,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 256526,
+      "num": 223959,
+      "word": "宁静奚梦瑶撞衫",
+      "onboard_time": 1710640654,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 256421,
@@ -25387,6 +25427,14 @@
       "category": "时尚,科学科普"
     },
     {
+      "raw_hot": 203975,
+      "num": 203975,
+      "word": "是谁让大量劣质槽头肉流入市场",
+      "onboard_time": 1710637591,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203967,
       "num": 203967,
       "word": "WE对战RNG",
@@ -28139,6 +28187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 188395,
+      "num": 184506,
+      "word": "辛纳状态",
+      "onboard_time": 1710641914,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188341,
       "num": 188341,
       "word": "克里斯回应TheShy粉丝",
@@ -28369,14 +28425,6 @@
       "onboard_time": 1709923939,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187002,
-      "num": 187002,
-      "word": "小英家的牛",
-      "onboard_time": 1710638433,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 186890,
@@ -29467,6 +29515,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 180072,
+      "num": 180072,
+      "word": "沈璃手撕婚约",
+      "onboard_time": 1710641194,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180064,
       "num": 180064,
       "word": "间谍过家家 荆棘公主的祝福",
@@ -29713,6 +29769,14 @@
       "onboard_time": 1710602077,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 178862,
+      "num": 178862,
+      "word": "孙龙林孝埈双双摘金",
+      "onboard_time": 1710641373,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 178855,
@@ -30771,6 +30835,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 172027,
+      "num": 172027,
+      "word": "小猫感眼线",
+      "onboard_time": 1710641675,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 171997,
       "num": 171997,
       "word": "为什么上吴兴涵",
@@ -30889,14 +30961,6 @@
       "onboard_time": 1710606632,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 171154,
-      "num": 171154,
-      "word": "是谁让大量劣质槽头肉流入市场",
-      "onboard_time": 1710637591,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171129,
@@ -31883,6 +31947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165184,
+      "num": 165184,
+      "word": "去年我国结婚人数为近十年来首次回升",
+      "onboard_time": 1710641914,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165129,
       "num": 165129,
       "word": "成毅浪凡",
@@ -32251,6 +32323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 162895,
+      "num": 162895,
+      "word": "今年高校毕业生将超1170万人",
+      "onboard_time": 1710641012,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 162879,
       "num": 162879,
       "word": "浪姐官博回复李溪芮",
@@ -32281,6 +32361,14 @@
       "onboard_time": 1709708969,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162692,
+      "num": 162692,
+      "word": "终于理解什么是忘年交了",
+      "onboard_time": 1710639869,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 162636,
@@ -34377,6 +34465,14 @@
       "onboard_time": 1709704649,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152345,
+      "num": 152345,
+      "word": "范丞丞金色挑染",
+      "onboard_time": 1710640473,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 152331,
@@ -37049,6 +37145,14 @@
       "onboard_time": 1710496240,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138164,
+      "num": 138164,
+      "word": "岳千灵顾寻 两A相遇必有一O",
+      "onboard_time": 1710641852,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 138081,
@@ -40411,6 +40515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 119212,
+      "num": 119212,
+      "word": "南极座头鲸母子同游",
+      "onboard_time": 1710642153,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119207,
       "num": 119207,
       "word": "靳东再次谈及假靳东事件",
@@ -40657,6 +40769,14 @@
       "onboard_time": 1710410494,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117985,
+      "num": 117985,
+      "word": "勇士vs湖人",
+      "onboard_time": 1710639212,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 117923,
@@ -42377,14 +42497,6 @@
       "onboard_time": 1709447011,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106338,
-      "num": 106338,
-      "word": "勇士vs湖人",
-      "onboard_time": 1710639212,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 106271,

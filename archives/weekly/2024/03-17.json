@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710639292594,
+  "endTime": 1710642223429,
   "band_list": [
     {
       "raw_hot": 1885209,
@@ -17,6 +17,22 @@
       "onboard_time": 1710601838,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1646608,
+      "num": 1646608,
+      "word": "4男女混租一间房3个月后留满屋垃圾",
+      "onboard_time": 1710639869,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1611314,
+      "num": 445158,
+      "word": "苹果同意支付4.9亿美金和解",
+      "onboard_time": 1710637890,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 1328020,
@@ -41,14 +57,6 @@
       "onboard_time": 1710599379,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 849956,
-      "num": 445158,
-      "word": "苹果同意支付4.9亿美金和解",
-      "onboard_time": 1710637890,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 770372,
@@ -99,12 +107,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 562346,
+      "num": 562346,
+      "word": "年轻人为啥盯上天水麻辣烫",
+      "onboard_time": 1710637349,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 541885,
       "num": 541885,
       "word": "晨起后不建议喝蜂蜜水淡盐水",
       "onboard_time": 1710635070,
       "rank": 9,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 538749,
+      "num": 538749,
+      "word": "恩静在酒店地下车库随舞",
+      "onboard_time": 1710635671,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 512225,
@@ -115,12 +139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 510718,
-      "num": 510718,
-      "word": "年轻人为啥盯上天水麻辣烫",
-      "onboard_time": 1710637349,
-      "rank": 28,
-      "category": "美食"
+      "raw_hot": 504385,
+      "num": 366364,
+      "word": "浓眉被封眼",
+      "onboard_time": 1710640711,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 455791,
@@ -153,14 +177,6 @@
       "onboard_time": 1710632964,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 427962,
-      "num": 427962,
-      "word": "恩静在酒店地下车库随舞",
-      "onboard_time": 1710635671,
-      "rank": 16,
-      "category": "音乐"
     },
     {
       "raw_hot": 426062,
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 371865,
-      "num": 232490,
+      "num": 246587,
       "word": "婆婆每个月给我1w要不要收",
       "onboard_time": 1710633266,
       "rank": 21,
@@ -244,11 +260,19 @@
     },
     {
       "raw_hot": 318234,
-      "num": 234713,
+      "num": 242464,
       "word": "林孝埈身披国旗绕场",
       "onboard_time": 1710635852,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 315885,
+      "num": 315885,
+      "word": "新裤子穿了手工耿战袍",
+      "onboard_time": 1710639934,
+      "rank": 14,
+      "category": "演出,网红"
     },
     {
       "raw_hot": 314197,
@@ -283,6 +307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 293345,
+      "num": 293345,
+      "word": "小英家的牛",
+      "onboard_time": 1710638433,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 273593,
       "num": 344196,
       "word": "家庭资产400万怎么才能躺平",
@@ -297,6 +329,14 @@
       "onboard_time": 1710593013,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 256526,
+      "num": 223959,
+      "word": "宁静奚梦瑶撞衫",
+      "onboard_time": 1710640654,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 248440,
@@ -395,8 +435,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203975,
+      "num": 203975,
+      "word": "是谁让大量劣质槽头肉流入市场",
+      "onboard_time": 1710637591,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199040,
-      "num": 1010582,
+      "num": 1197847,
       "word": "有一种意境叫中式美学",
       "onboard_time": 1710600578,
       "rank": 2,
@@ -427,12 +475,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 187002,
-      "num": 187002,
-      "word": "小英家的牛",
-      "onboard_time": 1710638433,
-      "rank": 28,
-      "category": "幽默"
+      "raw_hot": 188395,
+      "num": 184506,
+      "word": "辛纳状态",
+      "onboard_time": 1710641914,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186893,
+      "num": 186893,
+      "word": "315",
+      "onboard_time": 1710639033,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186335,
@@ -459,6 +515,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180072,
+      "num": 180072,
+      "word": "沈璃手撕婚约",
+      "onboard_time": 1710641194,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178862,
+      "num": 178862,
+      "word": "孙龙林孝埈双双摘金",
+      "onboard_time": 1710641373,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176699,
       "num": 176699,
       "word": "百果园官方回应",
@@ -467,20 +539,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172027,
+      "num": 172027,
+      "word": "小猫感眼线",
+      "onboard_time": 1710641675,
+      "rank": 35,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 171159,
       "num": 344232,
       "word": "林俊杰杭州演唱会6万人荧光棒浪接力",
       "onboard_time": 1710606632,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 171154,
-      "num": 171154,
-      "word": "是谁让大量劣质槽头肉流入市场",
-      "onboard_time": 1710637591,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166457,
@@ -507,12 +579,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163608,
-      "num": 163608,
-      "word": "315",
-      "onboard_time": 1710639033,
+      "raw_hot": 165184,
+      "num": 165184,
+      "word": "去年我国结婚人数为近十年来首次回升",
+      "onboard_time": 1710641914,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162895,
+      "num": 162895,
+      "word": "今年高校毕业生将超1170万人",
+      "onboard_time": 1710641012,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 162692,
+      "num": 162692,
+      "word": "终于理解什么是忘年交了",
+      "onboard_time": 1710639869,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 152684,
@@ -521,6 +609,14 @@
       "onboard_time": 1710598658,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152345,
+      "num": 152345,
+      "word": "范丞丞金色挑染",
+      "onboard_time": 1710640473,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 146953,
@@ -561,6 +657,14 @@
       "onboard_time": 1710602255,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138164,
+      "num": 138164,
+      "word": "岳千灵顾寻 两A相遇必有一O",
+      "onboard_time": 1710641852,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 137146,
@@ -635,12 +739,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119212,
+      "num": 119212,
+      "word": "南极座头鲸母子同游",
+      "onboard_time": 1710642153,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118940,
       "num": 342438,
       "word": "李菲儿锦超争执",
       "onboard_time": 1710596316,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117985,
+      "num": 117985,
+      "word": "勇士vs湖人",
+      "onboard_time": 1710639212,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 116562,
@@ -721,14 +841,6 @@
       "onboard_time": 1710601779,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 106338,
-      "num": 106338,
-      "word": "勇士vs湖人",
-      "onboard_time": 1710639212,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 104113,
