@@ -1,0 +1,410 @@
+{
+  "runTime": 1710646455068,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1661832,
+        "num": 1661832,
+        "word": "4男女混租一间房3个月后留满屋垃圾",
+        "onboard_time": 1710639869,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1376592,
+        "num": 1376592,
+        "word": "去年我国结婚人数为近十年来首次回升",
+        "onboard_time": 1710641914,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46931,
+        "num": 982683,
+        "word": "2024中国春耕图",
+        "onboard_time": 1710635070,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 943310,
+        "num": 943310,
+        "word": "螺蛳粉",
+        "onboard_time": 1710641012,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 837686,
+        "num": 837686,
+        "word": "女子淀粉肠创业开始即结束",
+        "onboard_time": 1710632964,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575261,
+        "num": 575261,
+        "word": "男生患上桃花癫感觉全校女生都喜欢自己",
+        "onboard_time": 1710635488,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562364,
+        "num": 562364,
+        "word": "59岁员工不会线上请假被开除",
+        "onboard_time": 1710643351,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500884,
+        "num": 500884,
+        "word": "都柏林偶遇朴宝剑",
+        "onboard_time": 1710642753,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496650,
+        "num": 496650,
+        "word": "微信过期文件找回",
+        "onboard_time": 1710644675,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 487661,
+        "num": 487661,
+        "word": "自制淀粉肠",
+        "onboard_time": 1710642273,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1207551,
+        "num": 476815,
+        "word": "苹果同意支付4.9亿美金和解",
+        "onboard_time": 1710637890,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 826033,
+        "num": 473698,
+        "word": "欧阳娣娣掉出出道位",
+        "onboard_time": 1710645574,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461989,
+        "num": 461989,
+        "word": "金价下跌了",
+        "onboard_time": 1710601838,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 448548,
+        "num": 448548,
+        "word": "上官芷五集换了十三套衣服",
+        "onboard_time": 1710643414,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 438931,
+        "num": 438931,
+        "word": "纪凌尘朱梓骁情头",
+        "onboard_time": 1710645453,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 426790,
+        "num": 426790,
+        "word": "恩静在酒店地下车库随舞",
+        "onboard_time": 1710635671,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 369462,
+        "num": 369462,
+        "word": "江西省考被曝有考生作弊",
+        "onboard_time": 1710632964,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 348155,
+        "num": 348155,
+        "word": "浓眉被封眼",
+        "onboard_time": 1710640711,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314456,
+        "num": 314456,
+        "word": "奸杀女童恶魔被执行死刑",
+        "onboard_time": 1710632964,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305798,
+        "num": 305798,
+        "word": "如懿干活vs甄嬛干活",
+        "onboard_time": 1710632964,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298392,
+        "num": 298392,
+        "word": "郑合惠子是友情出演",
+        "onboard_time": 1710645212,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284587,
+        "num": 284587,
+        "word": "勇士战胜湖人",
+        "onboard_time": 1710645694,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271103,
+        "num": 271103,
+        "word": "婆婆每个月给我1w要不要收",
+        "onboard_time": 1710633266,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269798,
+        "num": 269798,
+        "word": "高校回应男女学生在食堂做不雅动作",
+        "onboard_time": 1710644912,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248667,
+        "num": 248667,
+        "word": "身上这种小疙瘩或是HPV感染",
+        "onboard_time": 1710601779,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242930,
+        "num": 242930,
+        "word": "女孩自己注射1mg司美格鲁肽送医抢救",
+        "onboard_time": 1710609026,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215377,
+        "num": 215377,
+        "word": "凯特王妃",
+        "onboard_time": 1710614780,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 211082,
+        "num": 211082,
+        "word": "林孝埈身披国旗绕场",
+        "onboard_time": 1710635852,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204874,
+        "num": 204874,
+        "word": "湖勇大战计时器坏了",
+        "onboard_time": 1710645933,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122629,
+        "num": 202694,
+        "word": "孙龙林孝埈双双摘金",
+        "onboard_time": 1710641373,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200664,
+        "num": 200664,
+        "word": "新裤子穿了手工耿战袍",
+        "onboard_time": 1710639934,
+        "rank": 30,
+        "category": "演出,网红"
+      },
+      {
+        "raw_hot": 198701,
+        "num": 198701,
+        "word": "年轻人为啥盯上天水麻辣烫",
+        "onboard_time": 1710637349,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197626,
+        "num": 197626,
+        "word": "get到刘学义",
+        "onboard_time": 1710646175,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195807,
+        "num": 195807,
+        "word": "315",
+        "onboard_time": 1710639033,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191892,
+        "num": 191892,
+        "word": "父亲希望AI复活乔任梁视频尽快下架",
+        "onboard_time": 1710599379,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187814,
+        "num": 187814,
+        "word": "SpaceX被曝为美国情报机构建设间谍卫星网络",
+        "onboard_time": 1710634287,
+        "rank": 35,
+        "category": "国外时政,科学科普"
+      },
+      {
+        "raw_hot": 187174,
+        "num": 187174,
+        "word": "创造营亚洲第二次淘汰",
+        "onboard_time": 1710646175,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170470,
+        "num": 170470,
+        "word": "NBA",
+        "onboard_time": 1710646353,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161937,
+        "num": 161937,
+        "word": "年轻景点就是好发量都这么足",
+        "onboard_time": 1710644675,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159783,
+        "num": 159783,
+        "word": "郑合惠子演过你是我的荣耀",
+        "onboard_time": 1710636090,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151245,
+        "num": 151245,
+        "word": "何悯鸿向渣男下跪",
+        "onboard_time": 1710602136,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149808,
+        "num": 149808,
+        "word": "宁静看纪凌尘演戏笑了",
+        "onboard_time": 1710635488,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148661,
+        "num": 148661,
+        "word": "小英家的牛",
+        "onboard_time": 1710638433,
+        "rank": 42,
+        "category": "网红,幽默"
+      },
+      {
+        "raw_hot": 146187,
+        "num": 146187,
+        "word": "朱梓骁的表情",
+        "onboard_time": 1710642571,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144252,
+        "num": 144252,
+        "word": "为什么我们越来越不想和长辈交流",
+        "onboard_time": 1710643470,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144093,
+        "num": 144093,
+        "word": "淀粉肠塌房不该被大家轻易原谅",
+        "onboard_time": 1710645453,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134429,
+        "num": 134429,
+        "word": "天欢的杀 潘樾的抓",
+        "onboard_time": 1710646051,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128777,
+        "num": 128777,
+        "word": "浓眉眼角膜擦伤",
+        "onboard_time": 1710642510,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128605,
+        "num": 128605,
+        "word": "锦超回应和李菲儿争执",
+        "onboard_time": 1710643113,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124349,
+        "num": 124349,
+        "word": "范丞丞金色挑染",
+        "onboard_time": 1710640473,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#大思政课一定要跟现实结合起来#"
+    }
+  }
+}

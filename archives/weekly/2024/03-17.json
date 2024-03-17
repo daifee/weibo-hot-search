@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710645469571,
+  "endTime": 1710646455068,
   "band_list": [
     {
       "raw_hot": 1885209,
@@ -28,15 +28,15 @@
     },
     {
       "raw_hot": 1611314,
-      "num": 463959,
+      "num": 476815,
       "word": "苹果同意支付4.9亿美金和解",
       "onboard_time": 1710637890,
       "rank": 14,
       "category": "数码"
     },
     {
-      "raw_hot": 1328711,
-      "num": 1328711,
+      "raw_hot": 1376592,
+      "num": 1376592,
       "word": "去年我国结婚人数为近十年来首次回升",
       "onboard_time": 1710641914,
       "rank": 37,
@@ -67,12 +67,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 852314,
-      "num": 852314,
+      "raw_hot": 943310,
+      "num": 943310,
       "word": "螺蛳粉",
       "onboard_time": 1710641012,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 826033,
+      "num": 473698,
+      "word": "欧阳娣娣掉出出道位",
+      "onboard_time": 1710645574,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 770372,
@@ -179,12 +187,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 473345,
-      "num": 473345,
+      "raw_hot": 500884,
+      "num": 500884,
       "word": "都柏林偶遇朴宝剑",
       "onboard_time": 1710642753,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 496650,
+      "num": 496650,
+      "word": "微信过期文件找回",
+      "onboard_time": 1710644675,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 455791,
@@ -211,12 +227,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 448548,
+      "num": 448548,
+      "word": "上官芷五集换了十三套衣服",
+      "onboard_time": 1710643414,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 447216,
       "num": 447216,
       "word": "如懿干活vs甄嬛干活",
       "onboard_time": 1710632964,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 438931,
+      "num": 438931,
+      "word": "纪凌尘朱梓骁情头",
+      "onboard_time": 1710645453,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 426062,
@@ -267,16 +299,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 373860,
-      "num": 373860,
-      "word": "上官芷五集换了十三套衣服",
-      "onboard_time": 1710643414,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 371865,
-      "num": 255230,
+      "num": 271103,
       "word": "婆婆每个月给我1w要不要收",
       "onboard_time": 1710633266,
       "rank": 21,
@@ -297,14 +321,6 @@
       "onboard_time": 1710594998,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 352112,
-      "num": 352112,
-      "word": "微信过期文件找回",
-      "onboard_time": 1710644675,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 324913,
@@ -355,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298392,
+      "num": 298392,
+      "word": "郑合惠子是友情出演",
+      "onboard_time": 1710645212,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298312,
       "num": 298312,
       "word": "淀粉肠",
@@ -371,12 +395,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 284587,
+      "num": 284587,
+      "word": "勇士战胜湖人",
+      "onboard_time": 1710645694,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273593,
       "num": 344196,
       "word": "家庭资产400万怎么才能躺平",
       "onboard_time": 1710598418,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269798,
+      "num": 269798,
+      "word": "高校回应男女学生在食堂做不雅动作",
+      "onboard_time": 1710644912,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258899,
@@ -515,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204874,
+      "num": 204874,
+      "word": "湖勇大战计时器坏了",
+      "onboard_time": 1710645933,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203975,
       "num": 203975,
       "word": "是谁让大量劣质槽头肉流入市场",
@@ -529,6 +577,14 @@
       "onboard_time": 1710600578,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197626,
+      "num": 197626,
+      "word": "get到刘学义",
+      "onboard_time": 1710646175,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 196180,
@@ -571,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187174,
+      "num": 187174,
+      "word": "创造营亚洲第二次淘汰",
+      "onboard_time": 1710646175,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186335,
       "num": 186335,
       "word": "315曝光的槽头肉企业墙上挂诚信正直",
@@ -580,7 +644,7 @@
     },
     {
       "raw_hot": 185167,
-      "num": 185167,
+      "num": 202694,
       "word": "孙龙林孝埈双双摘金",
       "onboard_time": 1710641373,
       "rank": 32,
@@ -635,6 +699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 170470,
+      "num": 170470,
+      "word": "NBA",
+      "onboard_time": 1710646353,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169385,
       "num": 169385,
       "word": "今年高校毕业生将超1170万人",
@@ -667,19 +739,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164324,
-      "num": 164324,
-      "word": "高校回应男女学生在食堂做不雅动作",
-      "onboard_time": 1710644912,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162692,
       "num": 162692,
       "word": "终于理解什么是忘年交了",
       "onboard_time": 1710639869,
       "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 161937,
+      "num": 161937,
+      "word": "年轻景点就是好发量都这么足",
+      "onboard_time": 1710644675,
+      "rank": 43,
       "category": "幽默"
     },
     {
@@ -689,14 +761,6 @@
       "onboard_time": 1710643470,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 160901,
-      "num": 158221,
-      "word": "郑合惠子是友情出演",
-      "onboard_time": 1710645212,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 156928,
@@ -747,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144093,
+      "num": 144093,
+      "word": "淀粉肠塌房不该被大家轻易原谅",
+      "onboard_time": 1710645453,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142075,
       "num": 342707,
       "word": "洽洽 绘旅人",
@@ -769,14 +841,6 @@
       "onboard_time": 1710602255,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 138090,
-      "num": 138090,
-      "word": "年轻景点就是好发量都这么足",
-      "onboard_time": 1710644675,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 137146,
@@ -803,6 +867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134429,
+      "num": 134429,
+      "word": "天欢的杀 潘樾的抓",
+      "onboard_time": 1710646051,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126619,
       "num": 126619,
       "word": "河南省考 准备面试",
@@ -817,14 +889,6 @@
       "onboard_time": 1710634887,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 124722,
-      "num": 124722,
-      "word": "纪凌尘朱梓骁情头",
-      "onboard_time": 1710645453,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 123835,
@@ -881,14 +945,6 @@
       "onboard_time": 1710639212,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116623,
-      "num": 116623,
-      "word": "淀粉肠塌房不该被大家轻易原谅",
-      "onboard_time": 1710645453,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116562,
@@ -1129,6 +1185,14 @@
       "onboard_time": 1710631401,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 46931,
+      "num": 982683,
+      "word": "2024中国春耕图",
+      "onboard_time": 1710635070,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39203,
