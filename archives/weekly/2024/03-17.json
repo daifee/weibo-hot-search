@@ -1,7 +1,15 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710671651565,
+  "endTime": 1710674109134,
   "band_list": [
+    {
+      "raw_hot": 3356421,
+      "num": 311473,
+      "word": "央视网评初中生杀害同学案",
+      "onboard_time": 1710671555,
+      "rank": 21,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2524535,
       "num": 2524535,
@@ -115,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1250084,
+      "num": 1250084,
+      "word": "鞠婧祎发了个感叹号",
+      "onboard_time": 1710668792,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1133456,
       "num": 1133456,
       "word": "欧阳娣娣掉出出道位",
@@ -129,14 +145,6 @@
       "onboard_time": 1710663151,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1070971,
-      "num": 1070971,
-      "word": "鞠婧祎发了个感叹号",
-      "onboard_time": 1710668792,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1068426,
@@ -219,20 +227,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 900778,
+      "num": 900778,
+      "word": "微信如何查看自己加了多少群",
+      "onboard_time": 1710671015,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 795919,
       "num": 795919,
       "word": "嘴角起泡其实是感染了病毒",
       "onboard_time": 1710656974,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 794828,
-      "num": 311473,
-      "word": "央视网评初中生杀害同学案",
-      "onboard_time": 1710671555,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 785434,
@@ -281,6 +289,14 @@
       "onboard_time": 1710601779,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 717311,
+      "num": 717311,
+      "word": "多名大学生手持铁棒闯入学校追打中学生",
+      "onboard_time": 1710670232,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 698404,
@@ -363,6 +379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 572545,
+      "num": 572545,
+      "word": "粉红税",
+      "onboard_time": 1710669811,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 571589,
       "num": 571589,
       "word": "59岁员工不会线上请假被开除",
@@ -385,14 +409,6 @@
       "onboard_time": 1710637349,
       "rank": 28,
       "category": "美食"
-    },
-    {
-      "raw_hot": 554878,
-      "num": 554878,
-      "word": "多名大学生手持铁棒闯入学校追打中学生",
-      "onboard_time": 1710670232,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 553103,
@@ -459,14 +475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 503351,
-      "num": 503351,
-      "word": "粉红税",
-      "onboard_time": 1710669811,
-      "rank": 18,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 500884,
       "num": 500884,
       "word": "都柏林偶遇朴宝剑",
@@ -505,6 +513,14 @@
       "onboard_time": 1710653911,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 468893,
+      "num": 468893,
+      "word": "Cat 一诺",
+      "onboard_time": 1710673055,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 466358,
@@ -608,6 +624,14 @@
       "word": "澳门偶遇奚梦瑶何猷君",
       "onboard_time": 1710657753,
       "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 417366,
+      "num": 417366,
+      "word": "王一博工作室还有好东西",
+      "onboard_time": 1710670834,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -803,14 +827,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 318254,
-      "num": 318254,
-      "word": "王一博工作室还有好东西",
-      "onboard_time": 1710670834,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 318234,
       "num": 242464,
       "word": "林孝埈身披国旗绕场",
@@ -859,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308583,
+      "num": 308583,
+      "word": "水果为什么越来越甜了",
+      "onboard_time": 1710668854,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 305006,
       "num": 261939,
       "word": "拒绝买车后老公对我冷暴力",
@@ -899,14 +923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 295312,
-      "num": 295312,
-      "word": "微信如何查看自己加了多少群",
-      "onboard_time": 1710671015,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 294265,
       "num": 294265,
       "word": "过度减肥会加重或诱发过敏",
@@ -921,6 +937,14 @@
       "onboard_time": 1710659791,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291310,
+      "num": 291310,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1710670294,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 285054,
@@ -953,14 +977,6 @@
       "onboard_time": 1710656132,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 282256,
-      "num": 282256,
-      "word": "水果为什么越来越甜了",
-      "onboard_time": 1710668854,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 279679,
@@ -1051,6 +1067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 248042,
+      "num": 248042,
+      "word": "骨泥到底有多不卫生",
+      "onboard_time": 1710673354,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 247368,
       "num": 345249,
       "word": "所以明天到底该吃什么",
@@ -1083,12 +1107,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 239198,
-      "num": 239198,
-      "word": "王曼昱vs王艺迪",
-      "onboard_time": 1710670294,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 231088,
+      "num": 203036,
+      "word": "洗牙的时候太紧张嗦了一下医生的手",
+      "onboard_time": 1710673116,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 229171,
@@ -1121,6 +1145,14 @@
       "onboard_time": 1710661594,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224582,
+      "num": 224582,
+      "word": "无畏发博呼吁粉丝理智发声",
+      "onboard_time": 1710672335,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 223867,
@@ -1219,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208884,
+      "num": 208884,
+      "word": "樊振东",
+      "onboard_time": 1710673955,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208833,
       "num": 208833,
       "word": "花间令男二当着男主给女主送聘礼",
@@ -1251,12 +1291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204249,
+      "num": 204249,
+      "word": "AG完美控制链",
+      "onboard_time": 1710673116,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203975,
       "num": 203975,
       "word": "是谁让大量劣质槽头肉流入市场",
       "onboard_time": 1710637591,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202684,
+      "num": 202684,
+      "word": "邓为花毛衣",
+      "onboard_time": 1710673172,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200649,
@@ -1441,6 +1497,14 @@
       "onboard_time": 1710634230,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175996,
+      "num": 175996,
+      "word": "朋友休学去新西兰放羊这件事",
+      "onboard_time": 1710673955,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 175584,
@@ -1667,6 +1731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152200,
+      "num": 150693,
+      "word": "郑合惠子谈杨采薇",
+      "onboard_time": 1710673714,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152032,
       "num": 152032,
       "word": "五月天香港站官宣",
@@ -1713,6 +1785,14 @@
       "onboard_time": 1710662853,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145561,
+      "num": 145561,
+      "word": "张馨予遇到热心大爷",
+      "onboard_time": 1710672755,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 144998,
@@ -1777,6 +1857,14 @@
       "onboard_time": 1710658832,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138489,
+      "num": 138489,
+      "word": "王者神州地方志",
+      "onboard_time": 1710673775,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 137146,
@@ -1859,6 +1947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125255,
+      "num": 125255,
+      "word": "年轻人都喜欢用发疯解决问题",
+      "onboard_time": 1710673894,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123835,
       "num": 123835,
       "word": "别对我动心 追妻是终生事业",
@@ -1873,6 +1969,14 @@
       "onboard_time": 1710650011,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122123,
+      "num": 122123,
+      "word": "于正 把创作还给创作者",
+      "onboard_time": 1710672633,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 122066,
@@ -2116,7 +2220,7 @@
     },
     {
       "raw_hot": 88624,
-      "num": 1005401,
+      "num": 1026961,
       "word": "近日我国将送鹊桥二号奔月",
       "onboard_time": 1710669151,
       "rank": 2,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/03/17 18:34:11
+本榜单时间：2024/01/01 00:21:05 ~ 2024/03/17 19:15:09
 </p>
 </blockquote>
 <p>
@@ -915,6 +915,12 @@ SM承认柳智敏恋情（热度：4051630）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E5%88%9D%E4%B8%AD%E7%94%9F%E6%9D%80%E5%AE%B3%E5%90%8C%E5%AD%A6%E6%A1%88%23" target="weibo">
+央视网评初中生杀害同学案（热度：3356421）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%23" target="weibo">
 宗馥莉（热度：3354866）
 </a>
@@ -1805,12 +1811,6 @@ A股（热度：2618527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%87%BA%E6%91%8A%E5%8D%96%E6%B7%80%E7%B2%89%E8%82%A0%E6%97%A0%E4%BA%BA%E9%97%AE%E6%B4%A5%23" target="weibo">
 老人出摊卖淀粉肠无人问津（热度：2524535）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A4%BC%E4%B8%8D%E8%B6%853.9%E4%B8%87%E5%AD%90%E5%A5%B3%E5%8F%AF%E4%BC%98%E5%85%88%E5%85%A5%E5%AD%A6%23" target="weibo">
-彩礼不超3.9万子女可优先入学（热度：2524223）
 </a>
 </li>
 
