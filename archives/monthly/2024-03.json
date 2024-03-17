@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710660830037,
+  "endTime": 1710663575932,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -3203,6 +3203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1068426,
+      "num": 1068426,
+      "word": "阮经天ins",
+      "onboard_time": 1710659255,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1067703,
       "num": 1067703,
       "word": "徐正溪上岸了吗",
@@ -4075,6 +4083,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 934045,
+      "num": 627680,
+      "word": "积水潭医院原院长田伟被查",
+      "onboard_time": 1710660754,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 930390,
       "num": 930390,
       "word": "癌症来临时身体会喊痛",
@@ -4225,14 +4241,6 @@
       "onboard_time": 1709250689,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 913646,
-      "num": 913646,
-      "word": "阮经天ins",
-      "onboard_time": 1710659255,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 913592,
@@ -8259,6 +8267,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 590748,
+      "num": 590748,
+      "word": "陈牧驰耳钉",
+      "onboard_time": 1710660034,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 590490,
       "num": 590490,
       "word": "建议大学每500名学生配1名心理教师",
@@ -9331,6 +9347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 543532,
+      "num": 454897,
+      "word": "加沙看不到正常体型新生儿",
+      "onboard_time": 1710657808,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 543340,
       "num": 490071,
       "word": "霉霉演唱会 樊振东",
@@ -9632,6 +9656,14 @@
       "word": "派出所回应女子买茅台遭死亡威胁",
       "onboard_time": 1709541751,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 531833,
+      "num": 325319,
+      "word": "浙江一5岁女孩确诊长发公主综合征",
+      "onboard_time": 1710657995,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -10233,14 +10265,6 @@
       "onboard_time": 1710239732,
       "rank": 20,
       "category": "美食"
-    },
-    {
-      "raw_hot": 507365,
-      "num": 325319,
-      "word": "浙江一5岁女孩确诊长发公主综合征",
-      "onboard_time": 1710657995,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 506390,
@@ -11819,6 +11843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 454990,
+      "num": 454990,
+      "word": "男孩在路边拖走小女孩疑似猥亵",
+      "onboard_time": 1710661772,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454904,
       "num": 454904,
       "word": "你好星期六下期0713VS院人",
@@ -11945,6 +11977,14 @@
       "onboard_time": 1709524953,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 450664,
+      "num": 450664,
+      "word": "比特币大跌超16万人爆仓",
+      "onboard_time": 1710659673,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 450498,
@@ -12281,14 +12321,6 @@
       "onboard_time": 1709477252,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 440523,
-      "num": 388100,
-      "word": "加沙看不到正常体型新生儿",
-      "onboard_time": 1710657808,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 440377,
@@ -12737,14 +12769,6 @@
       "onboard_time": 1710387635,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 426982,
-      "num": 383083,
-      "word": "比特币大跌超16万人爆仓",
-      "onboard_time": 1710659673,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 426965,
@@ -15011,14 +15035,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 364394,
-      "num": 364394,
-      "word": "陈牧驰耳钉",
-      "onboard_time": 1710660034,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 363118,
       "num": 363118,
       "word": "山东泰山1比2横滨水手",
@@ -15945,6 +15961,14 @@
       "onboard_time": 1710498698,
       "rank": 20,
       "category": "科学科普,财经"
+    },
+    {
+      "raw_hot": 340539,
+      "num": 340539,
+      "word": "花间令 女主走路男主坐车",
+      "onboard_time": 1710659552,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 340445,
@@ -17553,6 +17577,14 @@
       "onboard_time": 1709942245,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 305006,
+      "num": 261939,
+      "word": "拒绝买车后老公对我冷暴力",
+      "onboard_time": 1710662131,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 304921,
@@ -19593,6 +19625,14 @@
       "onboard_time": 1709363370,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270172,
+      "num": 249719,
+      "word": "为什么发朋友圈一定要屏蔽爸妈",
+      "onboard_time": 1710660213,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 270065,
@@ -22339,6 +22379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 234331,
+      "num": 234331,
+      "word": "身边逐渐消失的职业",
+      "onboard_time": 1710661651,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 234297,
       "num": 234297,
       "word": "中国记协",
@@ -23155,6 +23203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224613,
+      "num": 224613,
+      "word": "林昀儒视角下的樊振东",
+      "onboard_time": 1710661594,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224483,
       "num": 224483,
       "word": "蒲熠星生日音乐会海报",
@@ -23211,6 +23267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224172,
+      "num": 224172,
+      "word": "逆水寒",
+      "onboard_time": 1710258090,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 224079,
       "num": 194026,
       "word": "海鲜啤酒为什么会痛风",
@@ -23219,12 +23283,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 223960,
-      "num": 223960,
-      "word": "逆水寒",
-      "onboard_time": 1710258090,
-      "rank": 48,
-      "category": "游戏"
+      "raw_hot": 224027,
+      "num": 224027,
+      "word": "我居然和奶奶早逝的女儿有一样的胎记",
+      "onboard_time": 1710663151,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 223867,
@@ -25251,14 +25315,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 208366,
-      "num": 208366,
-      "word": "花间令 女主走路男主坐车",
-      "onboard_time": 1710659552,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208357,
       "num": 208357,
       "word": "多功能单品盘成彩妆赛道突破口",
@@ -25656,14 +25712,6 @@
       "word": "普通人一辈子存款天花板是多少",
       "onboard_time": 1710519990,
       "rank": 43,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 205392,
-      "num": 205392,
-      "word": "为什么发朋友圈一定要屏蔽爸妈",
-      "onboard_time": 1710660213,
-      "rank": 35,
       "category": "情感"
     },
     {
@@ -28897,6 +28945,14 @@
       "onboard_time": 1710381751,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 187414,
+      "num": 187414,
+      "word": "杰娜早期的暧昧氛围好上头",
+      "onboard_time": 1710663514,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 187391,
@@ -38387,6 +38443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 135734,
+      "num": 135734,
+      "word": "五哈4升级为国际旅行社",
+      "onboard_time": 1710660274,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135715,
       "num": 135715,
       "word": "这八卦听得我汗流浃背了",
@@ -38497,14 +38561,6 @@
       "onboard_time": 1709958450,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 135028,
-      "num": 135028,
-      "word": "五哈4升级为国际旅行社",
-      "onboard_time": 1710660274,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 134981,
@@ -39219,6 +39275,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 131111,
+      "num": 131111,
+      "word": "比观众更难出戏的是李兰迪",
+      "onboard_time": 1710662853,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131104,
       "num": 131104,
       "word": "苏州顶流 玉兰花窗",
@@ -39345,6 +39409,14 @@
       "onboard_time": 1709713472,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130539,
+      "num": 130539,
+      "word": "无畏钟馗MVP",
+      "onboard_time": 1710660871,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 130535,
@@ -39505,14 +39577,6 @@
       "onboard_time": 1709285375,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 129621,
-      "num": 129621,
-      "word": "积水潭医院原院长田伟被查",
-      "onboard_time": 1710660754,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129529,
@@ -44420,7 +44484,7 @@
     },
     {
       "raw_hot": 90537,
-      "num": 391777,
+      "num": 452023,
       "word": "绝区零喧响测试",
       "onboard_time": 1710659311,
       "rank": 40,

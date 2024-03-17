@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710660830037,
+  "endTime": 1710663575932,
   "band_list": [
     {
       "raw_hot": 2524535,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1068426,
+      "num": 1068426,
+      "word": "阮经天ins",
+      "onboard_time": 1710659255,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1047464,
       "num": 1047464,
       "word": "鸡骨泥",
@@ -139,12 +147,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 913646,
-      "num": 913646,
-      "word": "阮经天ins",
-      "onboard_time": 1710659255,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 934045,
+      "num": 627680,
+      "word": "积水潭医院原院长田伟被查",
+      "onboard_time": 1710660754,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 911316,
@@ -243,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 590748,
+      "num": 590748,
+      "word": "陈牧驰耳钉",
+      "onboard_time": 1710660034,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 575821,
       "num": 575821,
       "word": "自制淀粉肠",
@@ -283,6 +299,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 543532,
+      "num": 454897,
+      "word": "加沙看不到正常体型新生儿",
+      "onboard_time": 1710657808,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 541885,
       "num": 541885,
       "word": "晨起后不建议喝蜂蜜水淡盐水",
@@ -291,19 +315,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 531833,
+      "num": 325319,
+      "word": "浙江一5岁女孩确诊长发公主综合征",
+      "onboard_time": 1710657995,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512225,
       "num": 512225,
       "word": "奸杀女童恶魔被执行死刑",
       "onboard_time": 1710632964,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 507365,
-      "num": 325319,
-      "word": "浙江一5岁女孩确诊长发公主综合征",
-      "onboard_time": 1710657995,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -395,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 454990,
+      "num": 454990,
+      "word": "男孩在路边拖走小女孩疑似猥亵",
+      "onboard_time": 1710661772,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 454904,
       "num": 454904,
       "word": "你好星期六下期0713VS院人",
@@ -411,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 450664,
+      "num": 450664,
+      "word": "比特币大跌超16万人爆仓",
+      "onboard_time": 1710659673,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 448548,
       "num": 448548,
       "word": "上官芷五集换了十三套衣服",
@@ -425,22 +465,6 @@
       "onboard_time": 1710632964,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 440523,
-      "num": 388100,
-      "word": "加沙看不到正常体型新生儿",
-      "onboard_time": 1710657808,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 426982,
-      "num": 383083,
-      "word": "比特币大跌超16万人爆仓",
-      "onboard_time": 1710659673,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 426062,
@@ -555,14 +579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 364394,
-      "num": 364394,
-      "word": "陈牧驰耳钉",
-      "onboard_time": 1710660034,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 364243,
       "num": 364243,
       "word": "郑合惠子 不要捧一踩一",
@@ -600,6 +616,14 @@
       "word": "烈焰 恶女挖眼弑父",
       "onboard_time": 1710652473,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 340539,
+      "num": 340539,
+      "word": "花间令 女主走路男主坐车",
+      "onboard_time": 1710659552,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -657,6 +681,14 @@
       "onboard_time": 1710638433,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 305006,
+      "num": 261939,
+      "word": "拒绝买车后老公对我冷暴力",
+      "onboard_time": 1710662131,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 302723,
@@ -747,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270172,
+      "num": 249719,
+      "word": "为什么发朋友圈一定要屏蔽爸妈",
+      "onboard_time": 1710660213,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 260739,
       "num": 260739,
       "word": "林孝埈世锦赛大满贯",
@@ -819,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234331,
+      "num": 234331,
+      "word": "身边逐渐消失的职业",
+      "onboard_time": 1710661651,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229171,
       "num": 229171,
       "word": "郑合惠子演过你是我的荣耀",
@@ -833,6 +881,30 @@
       "onboard_time": 1710629358,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224613,
+      "num": 224613,
+      "word": "林昀儒视角下的樊振东",
+      "onboard_time": 1710661594,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 224172,
+      "num": 224172,
+      "word": "逆水寒",
+      "onboard_time": 1710638313,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 224027,
+      "num": 224027,
+      "word": "我居然和奶奶早逝的女儿有一样的胎记",
+      "onboard_time": 1710663151,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 223867,
@@ -923,28 +995,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208366,
-      "num": 208366,
-      "word": "花间令 女主走路男主坐车",
-      "onboard_time": 1710659552,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205998,
       "num": 343610,
       "word": "李菲儿向锦超道歉",
       "onboard_time": 1710596918,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205392,
-      "num": 205392,
-      "word": "为什么发朋友圈一定要屏蔽爸妈",
-      "onboard_time": 1710660213,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 204874,
@@ -1041,6 +1097,14 @@
       "onboard_time": 1710641914,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187414,
+      "num": 187414,
+      "word": "杰娜早期的暧昧氛围好上头",
+      "onboard_time": 1710663514,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 187174,
@@ -1185,14 +1249,6 @@
       "onboard_time": 1710602920,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166184,
-      "num": 166184,
-      "word": "逆水寒",
-      "onboard_time": 1710638313,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 165486,
@@ -1411,20 +1467,20 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 135734,
+      "num": 135734,
+      "word": "五哈4升级为国际旅行社",
+      "onboard_time": 1710660274,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135091,
       "num": 343115,
       "word": "你们有名字羞耻症吗",
       "onboard_time": 1710597097,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 135028,
-      "num": 135028,
-      "word": "五哈4升级为国际旅行社",
-      "onboard_time": 1710660274,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 134429,
@@ -1435,12 +1491,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129621,
-      "num": 129621,
-      "word": "积水潭医院原院长田伟被查",
-      "onboard_time": 1710660754,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 131111,
+      "num": 131111,
+      "word": "比观众更难出戏的是李兰迪",
+      "onboard_time": 1710662853,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130539,
+      "num": 130539,
+      "word": "无畏钟馗MVP",
+      "onboard_time": 1710660871,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 126619,
@@ -1700,7 +1764,7 @@
     },
     {
       "raw_hot": 90537,
-      "num": 391777,
+      "num": 452023,
       "word": "绝区零喧响测试",
       "onboard_time": 1710659311,
       "rank": 40,
