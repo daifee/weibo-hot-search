@@ -1,6 +1,6 @@
 {
   "startTime": 1710692394779,
-  "endTime": 1710692394779,
+  "endTime": 1710693244462,
   "band_list": [
     {
       "raw_hot": 6623497,
@@ -43,12 +43,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 611226,
-      "num": 611226,
+      "raw_hot": 634750,
+      "num": 634750,
       "word": "英国王室上演消失的她",
       "onboard_time": 1710688179,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 582497,
+      "num": 582497,
+      "word": "女孩将小男孩从高处推下",
+      "onboard_time": 1710687465,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 577612,
@@ -59,12 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 566844,
-      "num": 566844,
-      "word": "女孩将小男孩从高处推下",
-      "onboard_time": 1710687465,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 566528,
+      "num": 566528,
+      "word": "误以为很贵实际很便宜的车",
+      "onboard_time": 1710688179,
+      "rank": 11,
+      "category": "汽车"
     },
     {
       "raw_hot": 561369,
@@ -81,14 +89,6 @@
       "onboard_time": 1710688722,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 494571,
-      "num": 406450,
-      "word": "误以为很贵实际很便宜的车",
-      "onboard_time": 1710688179,
-      "rank": 11,
-      "category": "汽车"
     },
     {
       "raw_hot": 435374,
@@ -243,12 +243,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 204487,
+      "num": 204487,
+      "word": "中国短道速滑男子接力夺冠",
+      "onboard_time": 1710692493,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198507,
       "num": 198507,
       "word": "花20万买走女朋友的不开心",
       "onboard_time": 1710679835,
       "rank": 31,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 187471,
+      "num": 187471,
+      "word": "白桃星座",
+      "onboard_time": 1710687523,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 176853,
@@ -259,20 +275,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 176640,
-      "num": 176640,
-      "word": "白桃星座",
-      "onboard_time": 1710687523,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 165923,
       "num": 165923,
       "word": "这瓜吃的越来越扑朔迷离了",
       "onboard_time": 1710678995,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165831,
+      "num": 165831,
+      "word": "国人平均睡眠时长6.75小时",
+      "onboard_time": 1710692191,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 164056,
@@ -323,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127331,
+      "num": 127331,
+      "word": "杜华全年通告被唐九洲套路走",
+      "onboard_time": 1710692669,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127220,
       "num": 127220,
       "word": "大爷连开16个双黄蛋不敢吃了",
@@ -369,14 +393,6 @@
       "onboard_time": 1710682538,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117010,
-      "num": 117010,
-      "word": "国人平均睡眠时长6.75小时",
-      "onboard_time": 1710692191,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 106198,
