@@ -1,0 +1,410 @@
+{
+  "runTime": 1710666931859,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1407611,
+        "num": 1407611,
+        "word": "幼儿园关闭潮最终会影响到大学",
+        "onboard_time": 1710663692,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1116965,
+        "num": 1116965,
+        "word": "我居然和奶奶早逝的女儿有一样的胎记",
+        "onboard_time": 1710663151,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32625,
+        "num": 1071021,
+        "word": "有一种氛围感叫春天",
+        "onboard_time": 1710630982,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060024,
+        "num": 1060024,
+        "word": "老人出摊卖淀粉肠无人问津",
+        "onboard_time": 1710649412,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 748545,
+        "num": 748545,
+        "word": "身边逐渐消失的职业",
+        "onboard_time": 1710661651,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 707548,
+        "num": 707548,
+        "word": "茶百道 崩铁",
+        "onboard_time": 1710653255,
+        "rank": 5,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 664462,
+        "num": 664462,
+        "word": "阮经天ins",
+        "onboard_time": 1710659255,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 586301,
+        "num": 586301,
+        "word": "花间令热度破10000",
+        "onboard_time": 1710664534,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 503039,
+        "num": 503039,
+        "word": "李惠利经纪公司回应",
+        "onboard_time": 1710666331,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442906,
+        "num": 442906,
+        "word": "犬舍店主称鸡骨泥是用来做狗粮",
+        "onboard_time": 1710664294,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432677,
+        "num": 432677,
+        "word": "范丞丞 特步",
+        "onboard_time": 1710664051,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415599,
+        "num": 415599,
+        "word": "浙江一5岁女孩确诊长发公主综合征",
+        "onboard_time": 1710657995,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397888,
+        "num": 397888,
+        "word": "鸡骨泥",
+        "onboard_time": 1710655411,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384761,
+        "num": 384761,
+        "word": "乔任梁父亲喊话撕下AI复活明星伪善面具",
+        "onboard_time": 1710650553,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375615,
+        "num": 375615,
+        "word": "嘴角起泡其实是感染了病毒",
+        "onboard_time": 1710656974,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 366773,
+        "num": 366773,
+        "word": "陈牧驰耳钉",
+        "onboard_time": 1710660034,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322896,
+        "num": 322896,
+        "word": "比特币大跌超16万人爆仓",
+        "onboard_time": 1710659673,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 304776,
+        "num": 304776,
+        "word": "费曼辣评吴镇宇",
+        "onboard_time": 1710650132,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274471,
+        "num": 274471,
+        "word": "花间令 女主走路男主坐车",
+        "onboard_time": 1710659552,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242194,
+        "num": 242194,
+        "word": "加沙看不到正常体型新生儿",
+        "onboard_time": 1710657808,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 647529,
+        "num": 240259,
+        "word": "男孩在路边拖走小女孩疑似猥亵",
+        "onboard_time": 1710661772,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276999,
+        "num": 239374,
+        "word": "郑合惠子名字含义",
+        "onboard_time": 1710665552,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253319,
+        "num": 239330,
+        "word": "拒绝买车后老公对我冷暴力",
+        "onboard_time": 1710662131,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234071,
+        "num": 234071,
+        "word": "樊振东看霉霉演唱会vlog",
+        "onboard_time": 1710650913,
+        "rank": 23,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 211598,
+        "num": 211598,
+        "word": "在飞机上被韩国空姐当成韩国人了",
+        "onboard_time": 1710653491,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211325,
+        "num": 211325,
+        "word": "江歌妈妈谈AI复活亲人",
+        "onboard_time": 1710656370,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207623,
+        "num": 207623,
+        "word": "花间令",
+        "onboard_time": 1710664534,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203419,
+        "num": 203419,
+        "word": "为什么考公没有考研让人感动",
+        "onboard_time": 1710655532,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187440,
+        "num": 187440,
+        "word": "前男友的现女友找我聊了十个月",
+        "onboard_time": 1710653911,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119896,
+        "num": 175839,
+        "word": "这样走路能减肥",
+        "onboard_time": 1710658175,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 173547,
+        "num": 173547,
+        "word": "杰娜早期的暧昧氛围好上头",
+        "onboard_time": 1710663514,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165111,
+        "num": 165111,
+        "word": "315打假击败全国99%大学生",
+        "onboard_time": 1710650071,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163791,
+        "num": 163791,
+        "word": "因为经常去旅游朋友叫我生个孩子",
+        "onboard_time": 1710659673,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159336,
+        "num": 159336,
+        "word": "林昀儒视角下的樊振东",
+        "onboard_time": 1710661594,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155919,
+        "num": 155919,
+        "word": "老公每年都要裸考公务员",
+        "onboard_time": 1710648452,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154197,
+        "num": 154197,
+        "word": "苹果同意支付4.9亿美金和解",
+        "onboard_time": 1710637890,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147523,
+        "num": 147523,
+        "word": "自制淀粉肠",
+        "onboard_time": 1710642273,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145327,
+        "num": 145327,
+        "word": "为什么发朋友圈一定要屏蔽爸妈",
+        "onboard_time": 1710660213,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144092,
+        "num": 144092,
+        "word": "比特币减半将在4月到来",
+        "onboard_time": 1710665073,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142127,
+        "num": 142127,
+        "word": "鹿晗soeasy说早了",
+        "onboard_time": 1710665614,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136030,
+        "num": 142118,
+        "word": "李嘉琦带沈月开粉色小游艇",
+        "onboard_time": 1710658116,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128451,
+        "num": 142116,
+        "word": "许凯虞书欣 指压板游戏复盘",
+        "onboard_time": 1710655772,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121434,
+        "num": 142095,
+        "word": "纪凌尘朱梓骁情头",
+        "onboard_time": 1710645453,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121356,
+        "num": 142090,
+        "word": "逆水寒",
+        "onboard_time": 1710663151,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119019,
+        "num": 142077,
+        "word": "赵奕欢36岁素颜状态",
+        "onboard_time": 1710659791,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117707,
+        "num": 142066,
+        "word": "比观众更难出戏的是李兰迪",
+        "onboard_time": 1710662853,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115269,
+        "num": 142059,
+        "word": "费曼晒吴镇宇综艺照",
+        "onboard_time": 1710655951,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112056,
+        "num": 142050,
+        "word": "权顺荣白发",
+        "onboard_time": 1710658411,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94663,
+        "num": 142037,
+        "word": "张碧晨再为赵丽颖唱主题曲",
+        "onboard_time": 1710649353,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91043,
+        "num": 142021,
+        "word": "澳门偶遇奚梦瑶何猷君",
+        "onboard_time": 1710657753,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视思政课建设#"
+    }
+  }
+}
