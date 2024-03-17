@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710642896419,
+  "endTime": 1710645469571,
   "band_list": [
     {
       "raw_hot": 1885209,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 1611314,
-      "num": 445158,
+      "num": 463959,
       "word": "苹果同意支付4.9亿美金和解",
       "onboard_time": 1710637890,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1328711,
+      "num": 1328711,
+      "word": "去年我国结婚人数为近十年来首次回升",
+      "onboard_time": 1710641914,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1328020,
@@ -57,6 +65,14 @@
       "onboard_time": 1710599379,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 852314,
+      "num": 852314,
+      "word": "螺蛳粉",
+      "onboard_time": 1710641012,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 770372,
@@ -107,6 +123,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 575821,
+      "num": 575821,
+      "word": "自制淀粉肠",
+      "onboard_time": 1710642273,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 571589,
+      "num": 571589,
+      "word": "59岁员工不会线上请假被开除",
+      "onboard_time": 1710643351,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562346,
       "num": 562346,
       "word": "年轻人为啥盯上天水麻辣烫",
@@ -147,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 473345,
+      "num": 473345,
+      "word": "都柏林偶遇朴宝剑",
+      "onboard_time": 1710642753,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 455791,
       "num": 455791,
       "word": "林孝埈500米夺金",
@@ -179,14 +219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 435843,
-      "num": 373577,
-      "word": "去年我国结婚人数为近十年来首次回升",
-      "onboard_time": 1710641914,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 426062,
       "num": 344986,
       "word": "威廉王子修图风波后首谈凯特王妃",
@@ -201,14 +233,6 @@
       "onboard_time": 1710609026,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 390977,
-      "num": 368511,
-      "word": "自制淀粉肠",
-      "onboard_time": 1710642273,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 389981,
@@ -243,8 +267,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373860,
+      "num": 373860,
+      "word": "上官芷五集换了十三套衣服",
+      "onboard_time": 1710643414,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 371865,
-      "num": 246587,
+      "num": 255230,
       "word": "婆婆每个月给我1w要不要收",
       "onboard_time": 1710633266,
       "rank": 21,
@@ -265,6 +297,14 @@
       "onboard_time": 1710594998,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352112,
+      "num": 352112,
+      "word": "微信过期文件找回",
+      "onboard_time": 1710644675,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 324913,
@@ -411,14 +451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217662,
-      "num": 217662,
-      "word": "螺蛳粉",
-      "onboard_time": 1710641012,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 217554,
       "num": 217554,
       "word": "朱梓骁的表情",
@@ -441,6 +473,14 @@
       "onboard_time": 1710578976,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 216554,
+      "num": 216554,
+      "word": "315",
+      "onboard_time": 1710639033,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216487,
@@ -531,14 +571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186893,
-      "num": 186893,
-      "word": "315",
-      "onboard_time": 1710639033,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186335,
       "num": 186335,
       "word": "315曝光的槽头肉企业墙上挂诚信正直",
@@ -577,6 +609,14 @@
       "onboard_time": 1710634230,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174694,
+      "num": 174694,
+      "word": "欢乐颂",
+      "onboard_time": 1710644852,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 172027,
@@ -627,12 +667,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164324,
+      "num": 164324,
+      "word": "高校回应男女学生在食堂做不雅动作",
+      "onboard_time": 1710644912,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162692,
       "num": 162692,
       "word": "终于理解什么是忘年交了",
       "onboard_time": 1710639869,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161395,
+      "num": 161395,
+      "word": "为什么我们越来越不想和长辈交流",
+      "onboard_time": 1710643470,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 160901,
+      "num": 158221,
+      "word": "郑合惠子是友情出演",
+      "onboard_time": 1710645212,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156928,
+      "num": 156928,
+      "word": "锦超回应和李菲儿争执",
+      "onboard_time": 1710643113,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 152684,
@@ -675,14 +747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142766,
-      "num": 142766,
-      "word": "都柏林偶遇朴宝剑",
-      "onboard_time": 1710642753,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142075,
       "num": 342707,
       "word": "洽洽 绘旅人",
@@ -705,6 +769,14 @@
       "onboard_time": 1710602255,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138090,
+      "num": 138090,
+      "word": "年轻景点就是好发量都这么足",
+      "onboard_time": 1710644675,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 137146,
@@ -745,6 +817,14 @@
       "onboard_time": 1710634887,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124722,
+      "num": 124722,
+      "word": "纪凌尘朱梓骁情头",
+      "onboard_time": 1710645453,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 123835,
@@ -803,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116623,
+      "num": 116623,
+      "word": "淀粉肠塌房不该被大家轻易原谅",
+      "onboard_time": 1710645453,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116562,
       "num": 116562,
       "word": "航拍雅江山火",
@@ -820,7 +908,7 @@
     },
     {
       "raw_hot": 115387,
-      "num": 115387,
+      "num": 904213,
       "word": "有一种氛围感叫春天",
       "onboard_time": 1710630982,
       "rank": 30,
@@ -1092,6 +1180,9 @@
     },
     {
       "word": "#点亮人类文明美好图景#"
+    },
+    {
+      "word": "#大思政课一定要跟现实结合起来#"
     }
   ]
 }
