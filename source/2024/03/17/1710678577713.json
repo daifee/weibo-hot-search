@@ -1,0 +1,410 @@
+{
+  "runTime": 1710678577713,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2390128,
+        "num": 2390128,
+        "word": "河北邯郸初中生杀人事件独家调查",
+        "onboard_time": 1710677733,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1859234,
+        "num": 1859234,
+        "word": "徐娇又勇了",
+        "onboard_time": 1710675629,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43918,
+        "num": 1516040,
+        "word": "近日我国将送鹊桥二号奔月",
+        "onboard_time": 1710669151,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1484804,
+        "num": 1484804,
+        "word": "王曼昱新加坡大满贯双冠",
+        "onboard_time": 1710676655,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1208326,
+        "num": 1208326,
+        "word": "微信如何查看自己加了多少群",
+        "onboard_time": 1710671015,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 948687,
+        "num": 948687,
+        "word": "大爷连开16个双黄蛋不敢吃了",
+        "onboard_time": 1710675033,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650731,
+        "num": 650731,
+        "word": "鞠婧祎发了个感叹号",
+        "onboard_time": 1710668792,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 498440,
+        "num": 498440,
+        "word": "费曼回归",
+        "onboard_time": 1710674434,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435138,
+        "num": 435138,
+        "word": "洗牙的时候太紧张嗦了一下医生的手",
+        "onboard_time": 1710673116,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 425809,
+        "num": 425809,
+        "word": "樊振东",
+        "onboard_time": 1710673955,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2255291,
+        "num": 424945,
+        "word": "邯郸被害男孩父亲怀疑另有帮凶",
+        "onboard_time": 1710676956,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1320601,
+        "num": 424172,
+        "word": "全村为邯郸遇害初中生送行",
+        "onboard_time": 1710676956,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491662,
+        "num": 423818,
+        "word": "邯郸杀人案嫌犯被带走时神态平静",
+        "onboard_time": 1710676895,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422547,
+        "num": 422547,
+        "word": "骨泥到底有多不卫生",
+        "onboard_time": 1710673354,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 383880,
+        "num": 383880,
+        "word": "新冠病毒感染与认知功能下降存在相关性",
+        "onboard_time": 1710668249,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 365038,
+        "num": 365038,
+        "word": "当爷爷知道我的猫4000一只",
+        "onboard_time": 1710677255,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 336612,
+        "num": 336612,
+        "word": "李惠利经纪公司回应",
+        "onboard_time": 1710666331,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316334,
+        "num": 316334,
+        "word": "王曼昱4比1战胜王艺迪",
+        "onboard_time": 1710677073,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313390,
+        "num": 313390,
+        "word": "王曼昱世界排名重返第二",
+        "onboard_time": 1710677613,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292388,
+        "num": 292388,
+        "word": "多名大学生手持铁棒闯入学校追打中学生",
+        "onboard_time": 1710670232,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352433,
+        "num": 288217,
+        "word": "原来男人的花期真的很短",
+        "onboard_time": 1710677733,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276042,
+        "num": 276042,
+        "word": "优酷2024开年两部破万剧",
+        "onboard_time": 1710670353,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274309,
+        "num": 274309,
+        "word": "王曼昱vs王艺迪",
+        "onboard_time": 1710670294,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267580,
+        "num": 267580,
+        "word": "浙江一5岁女孩确诊长发公主综合征",
+        "onboard_time": 1710657995,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267491,
+        "num": 267491,
+        "word": "柳俊烈回韩国",
+        "onboard_time": 1710674376,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252747,
+        "num": 252747,
+        "word": "王楚钦vs梁靖崑",
+        "onboard_time": 1710677973,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246879,
+        "num": 246879,
+        "word": "父母给了我普通家庭的顶配人生",
+        "onboard_time": 1710674313,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205881,
+        "num": 205881,
+        "word": "Cat 一诺",
+        "onboard_time": 1710673055,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203452,
+        "num": 203452,
+        "word": "我居然和奶奶早逝的女儿有一样的胎记",
+        "onboard_time": 1710663151,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193570,
+        "num": 193570,
+        "word": "珉佑",
+        "onboard_time": 1710676715,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217396,
+        "num": 193543,
+        "word": "男人婚后真的都会发福吗",
+        "onboard_time": 1710677853,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192460,
+        "num": 192460,
+        "word": "315",
+        "onboard_time": 1710671255,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182730,
+        "num": 182730,
+        "word": "鞠婧祎谈她的17岁",
+        "onboard_time": 1710678454,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174412,
+        "num": 174412,
+        "word": "茶百道 崩铁",
+        "onboard_time": 1710653255,
+        "rank": 33,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 174181,
+        "num": 174181,
+        "word": "WTT",
+        "onboard_time": 1710677255,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172513,
+        "num": 172513,
+        "word": "金珉奎可爱",
+        "onboard_time": 1710675873,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171240,
+        "num": 171240,
+        "word": "朋友休学去新西兰放羊这件事",
+        "onboard_time": 1710673955,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169589,
+        "num": 169589,
+        "word": "老人出摊卖淀粉肠无人问津",
+        "onboard_time": 1710649412,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168621,
+        "num": 168621,
+        "word": "为什么韩国的门牌很多都是汉字",
+        "onboard_time": 1710678336,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 165163,
+        "num": 165163,
+        "word": "幼儿园关闭潮最终会影响到大学",
+        "onboard_time": 1710663692,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162682,
+        "num": 162682,
+        "word": "撒贝宁情商好高",
+        "onboard_time": 1710674912,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159535,
+        "num": 159535,
+        "word": "读研家里不给生活费",
+        "onboard_time": 1710674313,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155852,
+        "num": 155852,
+        "word": "王楚钦梁靖崑争冠",
+        "onboard_time": 1710677314,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154499,
+        "num": 154499,
+        "word": "王一博骑摩托vs魏若来骑摩托",
+        "onboard_time": 1710675818,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148785,
+        "num": 148785,
+        "word": "粉红税",
+        "onboard_time": 1710669811,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 144609,
+        "num": 144609,
+        "word": "我们也是第一次做父母啊",
+        "onboard_time": 1710676655,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137460,
+        "num": 137460,
+        "word": "阮经天ins",
+        "onboard_time": 1710659255,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134581,
+        "num": 134581,
+        "word": "央视曝光劣质宠物粮",
+        "onboard_time": 1710677672,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138262,
+        "num": 134571,
+        "word": "王一博工作室还有好东西",
+        "onboard_time": 1710670834,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134071,
+        "num": 134071,
+        "word": "WE对战TES",
+        "onboard_time": 1710678511,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#大思政课一定要跟现实结合起来#"
+    }
+  }
+}
