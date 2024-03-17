@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710695671967,
+  "endTime": 1710696850170,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -1491,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270249,
+      "num": 270249,
+      "word": "国人平均睡眠时长6.75小时",
+      "onboard_time": 1710692191,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 270172,
       "num": 249719,
       "word": "为什么发朋友圈一定要屏蔽爸妈",
@@ -1913,14 +1921,6 @@
       "onboard_time": 1710637591,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202735,
-      "num": 202735,
-      "word": "国人平均睡眠时长6.75小时",
-      "onboard_time": 1710692191,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 202684,
@@ -3083,6 +3083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 92532,
+      "num": 92532,
+      "word": "关九海张霄白",
+      "onboard_time": 1710695429,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91814,
       "num": 117004,
       "word": "NCT DREAM回归预告",
@@ -3121,14 +3129,6 @@
       "onboard_time": 1710589416,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85711,
-      "num": 85711,
-      "word": "关九海张霄白",
-      "onboard_time": 1710695429,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 79734,

@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710695671967,
+  "endTime": 1710696850170,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -20299,6 +20299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270249,
+      "num": 270249,
+      "word": "国人平均睡眠时长6.75小时",
+      "onboard_time": 1710692191,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 270241,
       "num": 270241,
       "word": "青云台",
@@ -27097,14 +27105,6 @@
       "onboard_time": 1710323435,
       "rank": 8,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 202735,
-      "num": 202735,
-      "word": "国人平均睡眠时长6.75小时",
-      "onboard_time": 1710692191,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 202720,
@@ -45651,6 +45651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92532,
+      "num": 92532,
+      "word": "关九海张霄白",
+      "onboard_time": 1710695429,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92436,
       "num": 136237,
       "word": "积木花的花语是什么",
@@ -46049,14 +46057,6 @@
       "onboard_time": 1709787875,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 85711,
-      "num": 85711,
-      "word": "关九海张霄白",
-      "onboard_time": 1710695429,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 85594,
