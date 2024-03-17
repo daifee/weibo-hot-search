@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710711248814,
+  "endTime": 1710713736063,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -3195,6 +3195,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 62824,
+      "num": 62824,
+      "word": "童瑶演了我梦里的爽文女主",
+      "onboard_time": 1710707475,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60340,
       "num": 343397,
       "word": "林高远说非常珍惜和马龙组双打",
@@ -3241,6 +3249,14 @@
       "onboard_time": 1710657271,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 47421,
+      "num": 29978,
+      "word": "伊能静儿子恩利晒22岁庆生照",
+      "onboard_time": 1710713538,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 42536,
@@ -3299,6 +3315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 28853,
+      "num": 28853,
+      "word": "你怎么看幼儿园关闭潮",
+      "onboard_time": 1710710655,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26902,
       "num": 26902,
       "word": "为什么煎蛋会有很多泡沫",
@@ -3307,12 +3331,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 24558,
-      "num": 24558,
-      "word": "童瑶演了我梦里的爽文女主",
-      "onboard_time": 1710707475,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 20242,
+      "num": 20242,
+      "word": "你平时会买化妆品小样吗",
+      "onboard_time": 1710712697,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 19932,
@@ -3329,14 +3353,6 @@
       "onboard_time": 1710704596,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15668,
-      "num": 16328,
-      "word": "你怎么看幼儿园关闭潮",
-      "onboard_time": 1710710655,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15131,
