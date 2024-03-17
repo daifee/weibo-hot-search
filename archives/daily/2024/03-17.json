@@ -1,21 +1,21 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710652631245,
+  "endTime": 1710653633253,
   "band_list": [
+    {
+      "raw_hot": 2524535,
+      "num": 2524535,
+      "word": "老人出摊卖淀粉肠无人问津",
+      "onboard_time": 1710649412,
+      "rank": 35,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1885209,
       "num": 1885209,
       "word": "女子淀粉肠创业开始即结束",
       "onboard_time": 1710632964,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1838318,
-      "num": 1838318,
-      "word": "老人出摊卖淀粉肠无人问津",
-      "onboard_time": 1710649412,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1328053,
+      "num": 1328053,
+      "word": "樊振东看霉霉演唱会vlog",
+      "onboard_time": 1710650913,
+      "rank": 4,
+      "category": "体育,演出"
+    },
+    {
       "raw_hot": 1328020,
       "num": 1328020,
       "word": "男生患上桃花癫感觉全校女生都喜欢自己",
@@ -73,14 +81,6 @@
       "onboard_time": 1710650553,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1236710,
-      "num": 1236710,
-      "word": "樊振东看霉霉演唱会vlog",
-      "onboard_time": 1710650913,
-      "rank": 4,
-      "category": "体育,演出"
     },
     {
       "raw_hot": 1133456,
@@ -147,20 +147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 738856,
+      "num": 738856,
+      "word": "幼儿园关停潮下幼师的自救之路",
+      "onboard_time": 1710648991,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 734545,
       "num": 438529,
       "word": "身上这种小疙瘩或是HPV感染",
       "onboard_time": 1710601779,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 718607,
-      "num": 718607,
-      "word": "幼儿园关停潮下幼师的自救之路",
-      "onboard_time": 1710648991,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 651994,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 464662,
+      "num": 450846,
+      "word": "樊振东说赛场外只是个普通青年",
+      "onboard_time": 1710652592,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 455791,
       "num": 455791,
       "word": "林孝埈500米夺金",
@@ -329,6 +337,14 @@
       "onboard_time": 1710643414,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 448215,
+      "num": 448215,
+      "word": "315打假击败全国99%大学生",
+      "onboard_time": 1710650071,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 447216,
@@ -411,14 +427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 366072,
-      "num": 366072,
-      "word": "315打假击败全国99%大学生",
-      "onboard_time": 1710650071,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 364243,
       "num": 364243,
       "word": "郑合惠子 不要捧一踩一",
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 358410,
-      "num": 266736,
+      "num": 274427,
       "word": "郑合惠子怼纪凌尘",
       "onboard_time": 1710648991,
       "rank": 38,
@@ -449,14 +457,6 @@
       "onboard_time": 1710645212,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 342571,
-      "num": 194673,
-      "word": "樊振东说赛场外只是个普通青年",
-      "onboard_time": 1710652592,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 324913,
@@ -587,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255013,
+      "num": 255013,
+      "word": "在飞机上被韩国空姐当成韩国人了",
+      "onboard_time": 1710653491,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254960,
       "num": 254960,
       "word": "315",
@@ -624,6 +632,14 @@
       "word": "花间令 喜欢的人成了我外室",
       "onboard_time": 1710600936,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 243091,
+      "num": 243091,
+      "word": "烈焰 恶女挖眼弑父",
+      "onboard_time": 1710652473,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -923,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169436,
+      "num": 169436,
+      "word": "理想MEGA订单量未达预期",
+      "onboard_time": 1710652171,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 169385,
       "num": 169385,
       "word": "今年高校毕业生将超1170万人",
@@ -937,6 +961,14 @@
       "onboard_time": 1710648690,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167058,
+      "num": 167058,
+      "word": "说话前先嘿嘿傻笑两声",
+      "onboard_time": 1710652833,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 166457,
@@ -987,6 +1019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158579,
+      "num": 158579,
+      "word": "王俊凯的高中毕业照",
+      "onboard_time": 1710650857,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156928,
       "num": 156928,
       "word": "锦超回应和李菲儿争执",
@@ -1017,14 +1057,6 @@
       "onboard_time": 1710640473,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 149162,
-      "num": 149162,
-      "word": "王俊凯的高中毕业照",
-      "onboard_time": 1710650857,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 147211,
@@ -1067,14 +1099,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 142558,
-      "num": 142558,
-      "word": "理想MEGA订单量未达预期",
-      "onboard_time": 1710652171,
-      "rank": 40,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 142075,
       "num": 342707,
       "word": "洽洽 绘旅人",
@@ -1084,7 +1108,7 @@
     },
     {
       "raw_hot": 141813,
-      "num": 196839,
+      "num": 198157,
       "word": "警惕来路不明的三无化妆品小样",
       "onboard_time": 1710648389,
       "rank": 39,
@@ -1123,6 +1147,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 135645,
+      "num": 140744,
+      "word": "茶百道 崩铁",
+      "onboard_time": 1710653255,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 135091,
       "num": 343115,
       "word": "你们有名字羞耻症吗",
@@ -1137,6 +1169,14 @@
       "onboard_time": 1710646051,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131108,
+      "num": 140738,
+      "word": "朋友圈观众是未来的自己",
+      "onboard_time": 1710653255,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 126619,
@@ -1225,14 +1265,6 @@
       "onboard_time": 1710634709,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116003,
-      "num": 116003,
-      "word": "烈焰 恶女挖眼弑父",
-      "onboard_time": 1710652473,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 115698,
@@ -1412,7 +1444,7 @@
     },
     {
       "raw_hot": 75836,
-      "num": 1307138,
+      "num": 1326650,
       "word": "2024中国春耕图",
       "onboard_time": 1710635070,
       "rank": 2,
