@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710674109134,
+  "endTime": 1710675243293,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1947,12 +1947,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1358859,
+      "num": 1358859,
+      "word": "鞠婧祎发了个感叹号",
+      "onboard_time": 1710668792,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1356611,
       "num": 351778,
       "word": "4.9元生菜被炒到300元",
       "onboard_time": 1709619871,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1355831,
+      "num": 1355831,
+      "word": "微信如何查看自己加了多少群",
+      "onboard_time": 1710671015,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 1352696,
@@ -2313,14 +2329,6 @@
       "onboard_time": 1709554653,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1250084,
-      "num": 1250084,
-      "word": "鞠婧祎发了个感叹号",
-      "onboard_time": 1710668792,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1250055,
@@ -4419,14 +4427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 900778,
-      "num": 900778,
-      "word": "微信如何查看自己加了多少群",
-      "onboard_time": 1710671015,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 900427,
       "num": 330477,
       "word": "长期喝白开水和长期喝茶哪个更健康",
@@ -6019,6 +6019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 733463,
+      "num": 733463,
+      "word": "多名大学生手持铁棒闯入学校追打中学生",
+      "onboard_time": 1710670232,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733143,
       "num": 636980,
       "word": "给点读机女孩转款1万元当事人发声",
@@ -6259,14 +6267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 717311,
-      "num": 717311,
-      "word": "多名大学生手持铁棒闯入学校追打中学生",
-      "onboard_time": 1710670232,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 716469,
       "num": 716469,
       "word": "钟睒睒澄清",
@@ -6472,6 +6472,14 @@
       "word": "孙龙世锦赛夺金",
       "onboard_time": 1710598235,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 705743,
+      "num": 705743,
+      "word": "樊振东",
+      "onboard_time": 1710673955,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -8067,6 +8075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 608502,
+      "num": 608502,
+      "word": "粉红税",
+      "onboard_time": 1710669811,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 608108,
       "num": 608108,
       "word": "海底捞试点螺蛳粉火锅",
@@ -8579,6 +8595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 578631,
+      "num": 578631,
+      "word": "Cat 一诺",
+      "onboard_time": 1710673055,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 578563,
       "num": 578563,
       "word": "医院回应护士称拒绝给患者当儿媳被投诉",
@@ -8729,14 +8753,6 @@
       "onboard_time": 1710233556,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 572545,
-      "num": 572545,
-      "word": "粉红税",
-      "onboard_time": 1710669811,
-      "rank": 18,
-      "category": "美妆"
     },
     {
       "raw_hot": 572405,
@@ -11219,6 +11235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 480407,
+      "num": 480407,
+      "word": "洗牙的时候太紧张嗦了一下医生的手",
+      "onboard_time": 1710673116,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 479756,
       "num": 411220,
       "word": "所有人都做了头发不告诉魏若来",
@@ -11513,14 +11537,6 @@
       "onboard_time": 1709295272,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 468893,
-      "num": 468893,
-      "word": "Cat 一诺",
-      "onboard_time": 1710673055,
-      "rank": 11,
-      "category": "电竞"
     },
     {
       "raw_hot": 468455,
@@ -11833,6 +11849,14 @@
       "onboard_time": 1710331414,
       "rank": 21,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 459471,
+      "num": 459471,
+      "word": "柳俊烈回韩国",
+      "onboard_time": 1710674376,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 459094,
@@ -12657,6 +12681,14 @@
       "onboard_time": 1709713952,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 436481,
+      "num": 436481,
+      "word": "费曼回归",
+      "onboard_time": 1710674434,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 435982,
@@ -13993,6 +14025,14 @@
       "onboard_time": 1709481571,
       "rank": 17,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 392533,
+      "num": 392533,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1710670294,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 392529,
@@ -15475,6 +15515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 356147,
+      "num": 356147,
+      "word": "骨泥到底有多不卫生",
+      "onboard_time": 1710673354,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 355933,
       "num": 355933,
       "word": "郑合惠子是友情出演",
@@ -16811,6 +16859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323536,
+      "num": 323536,
+      "word": "水果为什么越来越甜了",
+      "onboard_time": 1710668854,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 323195,
       "num": 323195,
       "word": "诡秘之主游戏实机首曝",
@@ -17585,14 +17641,6 @@
       "onboard_time": 1709521948,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 308583,
-      "num": 308583,
-      "word": "水果为什么越来越甜了",
-      "onboard_time": 1710668854,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 308499,
@@ -18659,14 +18707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 291310,
-      "num": 291310,
-      "word": "王曼昱vs王艺迪",
-      "onboard_time": 1710670294,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 291300,
       "num": 260644,
       "word": "院人你好星期六上班路透",
@@ -19121,6 +19161,14 @@
       "onboard_time": 1710656132,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 282405,
+      "num": 194681,
+      "word": "父母给了我普通家庭的顶配人生",
+      "onboard_time": 1710674313,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 282172,
@@ -20131,6 +20179,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 265962,
+      "num": 265962,
+      "word": "朋友休学去新西兰放羊这件事",
+      "onboard_time": 1710673955,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 265818,
       "num": 257696,
       "word": "我妈把亲戚的工作搞丢了",
@@ -20265,6 +20321,14 @@
       "onboard_time": 1709366134,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 263995,
+      "num": 263995,
+      "word": "读研家里不给生活费",
+      "onboard_time": 1710674313,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 263936,
@@ -21449,14 +21513,6 @@
       "onboard_time": 1710054151,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 248042,
-      "num": 248042,
-      "word": "骨泥到底有多不卫生",
-      "onboard_time": 1710673354,
-      "rank": 24,
-      "category": "科学科普"
     },
     {
       "raw_hot": 247992,
@@ -22833,14 +22889,6 @@
       "onboard_time": 1709629594,
       "rank": 36,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 231088,
-      "num": 203036,
-      "word": "洗牙的时候太紧张嗦了一下医生的手",
-      "onboard_time": 1710673116,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 230652,
@@ -25473,14 +25521,6 @@
       "onboard_time": 1710163352,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 208884,
-      "num": 208884,
-      "word": "樊振东",
-      "onboard_time": 1710673955,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 208847,
@@ -28192,6 +28232,14 @@
       "word": "WB战胜TES",
       "onboard_time": 1709463691,
       "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 193307,
+      "num": 193307,
+      "word": "Cat一诺互怼",
+      "onboard_time": 1710674313,
+      "rank": 32,
       "category": "电竞"
     },
     {
@@ -31131,14 +31179,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 175996,
-      "num": 175996,
-      "word": "朋友休学去新西兰放羊这件事",
-      "onboard_time": 1710673955,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 175993,
       "num": 175993,
       "word": "马龙3比1A勒布伦",
@@ -33403,6 +33443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162510,
+      "num": 162510,
+      "word": "郑合惠子谈杨采薇",
+      "onboard_time": 1710673714,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162486,
       "num": 162486,
       "word": "王艺迪vs钱天一",
@@ -35579,14 +35627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152200,
-      "num": 150693,
-      "word": "郑合惠子谈杨采薇",
-      "onboard_time": 1710673714,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152103,
       "num": 152103,
       "word": "为什么蒋胜男的建议如此受欢迎",
@@ -36433,6 +36473,14 @@
       "onboard_time": 1710497918,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147703,
+      "num": 147703,
+      "word": "撒贝宁情商好高",
+      "onboard_time": 1710674912,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 147694,
@@ -38979,6 +39027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134974,
+      "num": 543164,
+      "word": "消防员七倒八歪的睡姿看得心疼",
+      "onboard_time": 1710670473,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134920,
       "num": 134920,
       "word": "人生是一张三万天的地球村体验卡",
@@ -39073,14 +39129,6 @@
       "onboard_time": 1710126269,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 134611,
-      "num": 543164,
-      "word": "消防员七倒八歪的睡姿看得心疼",
-      "onboard_time": 1710670473,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134566,
@@ -39601,6 +39649,14 @@
       "onboard_time": 1710333272,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131849,
+      "num": 131849,
+      "word": "大爷连开16个双黄蛋不敢吃了",
+      "onboard_time": 1710675033,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131756,
@@ -45068,7 +45124,7 @@
     },
     {
       "raw_hot": 88624,
-      "num": 1026961,
+      "num": 1275196,
       "word": "近日我国将送鹊桥二号奔月",
       "onboard_time": 1710669151,
       "rank": 2,

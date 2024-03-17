@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710674109134,
+  "endTime": 1710675243293,
   "band_list": [
     {
       "raw_hot": 3356421,
@@ -91,6 +91,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1358859,
+      "num": 1358859,
+      "word": "鞠婧祎发了个感叹号",
+      "onboard_time": 1710668792,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1355831,
+      "num": 1355831,
+      "word": "微信如何查看自己加了多少群",
+      "onboard_time": 1710671015,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1328053,
       "num": 1328053,
       "word": "樊振东看霉霉演唱会vlog",
@@ -121,14 +137,6 @@
       "onboard_time": 1710666331,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1250084,
-      "num": 1250084,
-      "word": "鞠婧祎发了个感叹号",
-      "onboard_time": 1710668792,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1133456,
@@ -227,14 +235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 900778,
-      "num": 900778,
-      "word": "微信如何查看自己加了多少群",
-      "onboard_time": 1710671015,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 795919,
       "num": 795919,
       "word": "嘴角起泡其实是感染了病毒",
@@ -291,12 +291,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 717311,
-      "num": 717311,
+      "raw_hot": 733463,
+      "num": 733463,
       "word": "多名大学生手持铁棒闯入学校追打中学生",
       "onboard_time": 1710670232,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 705743,
+      "num": 705743,
+      "word": "樊振东",
+      "onboard_time": 1710673955,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 698404,
@@ -347,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 608502,
+      "num": 608502,
+      "word": "粉红税",
+      "onboard_time": 1710669811,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 590748,
       "num": 590748,
       "word": "陈牧驰耳钉",
@@ -363,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 578631,
+      "num": 578631,
+      "word": "Cat 一诺",
+      "onboard_time": 1710673055,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 576945,
       "num": 576945,
       "word": "德普被曝片场霸凌女演员",
@@ -377,14 +401,6 @@
       "onboard_time": 1710642273,
       "rank": 12,
       "category": "美食"
-    },
-    {
-      "raw_hot": 572545,
-      "num": 572545,
-      "word": "粉红税",
-      "onboard_time": 1710669811,
-      "rank": 18,
-      "category": "美妆"
     },
     {
       "raw_hot": 571589,
@@ -491,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480407,
+      "num": 480407,
+      "word": "洗牙的时候太紧张嗦了一下医生的手",
+      "onboard_time": 1710673116,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 476906,
       "num": 463781,
       "word": "高校回应男女学生在食堂做不雅动作",
@@ -515,14 +539,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 468893,
-      "num": 468893,
-      "word": "Cat 一诺",
-      "onboard_time": 1710673055,
-      "rank": 11,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 466358,
       "num": 466358,
       "word": "辽宁营口市3.6级地震",
@@ -537,6 +553,14 @@
       "onboard_time": 1710652592,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 459471,
+      "num": 459471,
+      "word": "柳俊烈回韩国",
+      "onboard_time": 1710674376,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 456513,
@@ -603,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436481,
+      "num": 436481,
+      "word": "费曼回归",
+      "onboard_time": 1710674434,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 432677,
       "num": 432677,
       "word": "范丞丞 特步",
@@ -657,6 +689,14 @@
       "onboard_time": 1710659552,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 392533,
+      "num": 392533,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1710670294,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 392529,
@@ -779,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 356147,
+      "num": 356147,
+      "word": "骨泥到底有多不卫生",
+      "onboard_time": 1710673354,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 355933,
       "num": 355933,
       "word": "郑合惠子是友情出演",
@@ -817,6 +865,14 @@
       "onboard_time": 1710625156,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323536,
+      "num": 323536,
+      "word": "水果为什么越来越甜了",
+      "onboard_time": 1710668854,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 319305,
@@ -875,14 +931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308583,
-      "num": 308583,
-      "word": "水果为什么越来越甜了",
-      "onboard_time": 1710668854,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
       "raw_hot": 305006,
       "num": 261939,
       "word": "拒绝买车后老公对我冷暴力",
@@ -939,14 +987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291310,
-      "num": 291310,
-      "word": "王曼昱vs王艺迪",
-      "onboard_time": 1710670294,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 285054,
       "num": 266951,
       "word": "每个月减肥最好别超过6斤",
@@ -979,6 +1019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 282405,
+      "num": 194681,
+      "word": "父母给了我普通家庭的顶配人生",
+      "onboard_time": 1710674313,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 279679,
       "num": 239374,
       "word": "郑合惠子名字含义",
@@ -1008,6 +1056,22 @@
       "word": "为什么发朋友圈一定要屏蔽爸妈",
       "onboard_time": 1710660213,
       "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 265962,
+      "num": 265962,
+      "word": "朋友休学去新西兰放羊这件事",
+      "onboard_time": 1710673955,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 263995,
+      "num": 263995,
+      "word": "读研家里不给生活费",
+      "onboard_time": 1710674313,
+      "rank": 27,
       "category": "情感"
     },
     {
@@ -1067,14 +1131,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 248042,
-      "num": 248042,
-      "word": "骨泥到底有多不卫生",
-      "onboard_time": 1710673354,
-      "rank": 24,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 247368,
       "num": 345249,
       "word": "所以明天到底该吃什么",
@@ -1105,14 +1161,6 @@
       "onboard_time": 1710603039,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231088,
-      "num": 203036,
-      "word": "洗牙的时候太紧张嗦了一下医生的手",
-      "onboard_time": 1710673116,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 229171,
@@ -1251,14 +1299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208884,
-      "num": 208884,
-      "word": "樊振东",
-      "onboard_time": 1710673955,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 208833,
       "num": 208833,
       "word": "花间令男二当着男主给女主送聘礼",
@@ -1369,6 +1409,14 @@
       "onboard_time": 1710667230,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193307,
+      "num": 193307,
+      "word": "Cat一诺互怼",
+      "onboard_time": 1710674313,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 191585,
@@ -1499,14 +1547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175996,
-      "num": 175996,
-      "word": "朋友休学去新西兰放羊这件事",
-      "onboard_time": 1710673955,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 175584,
       "num": 150449,
       "word": "沈璃孙悟空撞衫了",
@@ -1627,6 +1667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162510,
+      "num": 162510,
+      "word": "郑合惠子谈杨采薇",
+      "onboard_time": 1710673714,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162481,
       "num": 253215,
       "word": "这样走路能减肥",
@@ -1731,14 +1779,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 152200,
-      "num": 150693,
-      "word": "郑合惠子谈杨采薇",
-      "onboard_time": 1710673714,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152032,
       "num": 152032,
       "word": "五月天香港站官宣",
@@ -1753,6 +1793,14 @@
       "onboard_time": 1710665614,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147703,
+      "num": 147703,
+      "word": "撒贝宁情商好高",
+      "onboard_time": 1710674912,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 147211,
@@ -1899,7 +1947,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134611,
+      "raw_hot": 134974,
       "num": 543164,
       "word": "消防员七倒八歪的睡姿看得心疼",
       "onboard_time": 1710670473,
@@ -1913,6 +1961,14 @@
       "onboard_time": 1710646051,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131849,
+      "num": 131849,
+      "word": "大爷连开16个双黄蛋不敢吃了",
+      "onboard_time": 1710675033,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130539,
@@ -2220,7 +2276,7 @@
     },
     {
       "raw_hot": 88624,
-      "num": 1026961,
+      "num": 1275196,
       "word": "近日我国将送鹊桥二号奔月",
       "onboard_time": 1710669151,
       "rank": 2,
