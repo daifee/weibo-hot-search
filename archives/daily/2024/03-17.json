@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710657294561,
+  "endTime": 1710659673117,
   "band_list": [
     {
       "raw_hot": 2524535,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1047464,
+      "num": 1047464,
+      "word": "鸡骨泥",
+      "onboard_time": 1710655411,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1015713,
       "num": 793742,
       "word": "凯特王妃",
@@ -131,20 +139,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 911316,
+      "num": 911316,
+      "word": "江歌妈妈谈AI复活亲人",
+      "onboard_time": 1710656370,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 907702,
       "num": 907702,
       "word": "纪凌尘朱梓骁情头",
       "onboard_time": 1710645453,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 781399,
-      "num": 781399,
-      "word": "鸡骨泥",
-      "onboard_time": 1710655411,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 770372,
@@ -176,6 +184,14 @@
       "word": "身上这种小疙瘩或是HPV感染",
       "onboard_time": 1710601779,
       "rank": 10,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 663757,
+      "num": 663757,
+      "word": "嘴角起泡其实是感染了病毒",
+      "onboard_time": 1710656974,
+      "rank": 27,
       "category": "健康医疗"
     },
     {
@@ -307,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494736,
+      "num": 268924,
+      "word": "浙江一5岁女孩确诊长发公主综合征",
+      "onboard_time": 1710657995,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476906,
       "num": 463781,
       "word": "高校回应男女学生在食堂做不雅动作",
@@ -324,7 +348,7 @@
     },
     {
       "raw_hot": 469906,
-      "num": 248267,
+      "num": 268113,
       "word": "前男友的现女友找我聊了十个月",
       "onboard_time": 1710653911,
       "rank": 20,
@@ -345,6 +369,14 @@
       "onboard_time": 1710652592,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 462491,
+      "num": 206261,
+      "word": "阮经天ins",
+      "onboard_time": 1710659255,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 455791,
@@ -395,16 +427,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 422573,
-      "num": 422573,
-      "word": "江歌妈妈谈AI复活亲人",
-      "onboard_time": 1710656370,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 420956,
+      "num": 420956,
+      "word": "澳门偶遇奚梦瑶何猷君",
+      "onboard_time": 1710657753,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 407147,
-      "num": 255013,
+      "num": 267559,
       "word": "在飞机上被韩国空姐当成韩国人了",
       "onboard_time": 1710653491,
       "rank": 22,
@@ -435,8 +467,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389648,
+      "num": 389648,
+      "word": "许凯虞书欣 指压板游戏复盘",
+      "onboard_time": 1710655772,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 387169,
-      "num": 246012,
+      "num": 268729,
       "word": "为什么考公没有考研让人感动",
       "onboard_time": 1710655532,
       "rank": 22,
@@ -523,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353387,
+      "num": 353387,
+      "word": "李嘉琦带沈月开粉色小游艇",
+      "onboard_time": 1710658116,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349371,
       "num": 349371,
       "word": "烈焰 恶女挖眼弑父",
@@ -531,12 +579,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 333222,
-      "num": 333222,
-      "word": "许凯虞书欣 指压板游戏复盘",
-      "onboard_time": 1710655772,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 339797,
+      "num": 339797,
+      "word": "权顺荣白发",
+      "onboard_time": 1710658411,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 324913,
@@ -635,6 +683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 282230,
+      "num": 282230,
+      "word": "加沙看不到正常体型新生儿",
+      "onboard_time": 1710657808,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 273593,
       "num": 344196,
       "word": "家庭资产400万怎么才能躺平",
@@ -649,6 +705,14 @@
       "onboard_time": 1710650311,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267259,
+      "num": 267259,
+      "word": "云南突发山火有人员伤亡",
+      "onboard_time": 1710658531,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 260739,
@@ -753,6 +817,14 @@
       "onboard_time": 1710648810,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 219787,
+      "num": 219787,
+      "word": "XYG掉点",
+      "onboard_time": 1710658531,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 219016,
@@ -889,14 +961,6 @@
       "onboard_time": 1710594637,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 194727,
-      "num": 194727,
-      "word": "嘴角起泡其实是感染了病毒",
-      "onboard_time": 1710656974,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 191585,
@@ -1099,6 +1163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162481,
+      "num": 207400,
+      "word": "这样走路能减肥",
+      "onboard_time": 1710658175,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 161937,
       "num": 161937,
       "word": "年轻景点就是好发量都这么足",
@@ -1129,6 +1201,14 @@
       "onboard_time": 1710643113,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156737,
+      "num": 156737,
+      "word": "Hero对战XYG",
+      "onboard_time": 1710654633,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 156069,
@@ -1251,6 +1331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140614,
+      "num": 140614,
+      "word": "花间令 人心隔脸皮",
+      "onboard_time": 1710658832,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137146,
       "num": 343952,
       "word": "张睿动一下就扣5分",
@@ -1307,12 +1395,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 124795,
-      "num": 124795,
-      "word": "Hero对战XYG",
-      "onboard_time": 1710654633,
+      "raw_hot": 125828,
+      "num": 125828,
+      "word": "沈璃孙悟空撞衫了",
+      "onboard_time": 1710659375,
       "rank": 44,
-      "category": "电竞"
+      "category": "剧集"
     },
     {
       "raw_hot": 123835,
@@ -1443,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111126,
+      "num": 111126,
+      "word": "花间令 女主走路男主坐车",
+      "onboard_time": 1710659552,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110608,
       "num": 110608,
       "word": "相亲有种上班的累",
@@ -1537,6 +1633,14 @@
       "onboard_time": 1710601779,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90537,
+      "num": 138139,
+      "word": "绝区零喧响测试",
+      "onboard_time": 1710659311,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 88395,
@@ -1636,7 +1740,7 @@
     },
     {
       "raw_hot": 47463,
-      "num": 103955,
+      "num": 175069,
       "word": "陈都灵清冷粉樱唐风妆",
       "onboard_time": 1710657271,
       "rank": 49,
