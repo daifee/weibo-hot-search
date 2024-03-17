@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710681570344,
+  "endTime": 1710682485420,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -2315,6 +2315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1279290,
+      "num": 450552,
+      "word": "校长称邯郸男孩的死亡是个意外",
+      "onboard_time": 1710681034,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1279066,
       "num": 1279066,
       "word": "广州越秀区车祸致11人受伤",
@@ -3273,6 +3281,14 @@
       "onboard_time": 1710236130,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1079909,
+      "num": 1079909,
+      "word": "这瓜吃的越来越扑朔迷离了",
+      "onboard_time": 1710678995,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1078506,
@@ -7171,14 +7187,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 662758,
-      "num": 475421,
-      "word": "这瓜吃的越来越扑朔迷离了",
-      "onboard_time": 1710678995,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 662710,
       "num": 662710,
       "word": "女子造谣男同学是强奸犯致其被停学",
@@ -8852,7 +8860,7 @@
     },
     {
       "raw_hot": 572348,
-      "num": 314926,
+      "num": 380492,
       "word": "花20万买走女朋友的不开心",
       "onboard_time": 1710679835,
       "rank": 20,
@@ -9081,6 +9089,14 @@
       "onboard_time": 1710061108,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 564443,
+      "num": 564443,
+      "word": "女生称曾遭百万网红妹妹校园霸凌",
+      "onboard_time": 1710679356,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 563871,
@@ -10163,14 +10179,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 524204,
-      "num": 524204,
-      "word": "女生称曾遭百万网红妹妹校园霸凌",
-      "onboard_time": 1710679356,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 523806,
       "num": 523806,
       "word": "王栎鑫是谭松韵影迷会的会长",
@@ -11177,6 +11185,14 @@
       "onboard_time": 1709560414,
       "rank": 4,
       "category": "数码"
+    },
+    {
+      "raw_hot": 485590,
+      "num": 485590,
+      "word": "梅州",
+      "onboard_time": 1710680137,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485492,
@@ -12947,6 +12963,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 431722,
+      "num": 431722,
+      "word": "权志龙现身姜大声粉丝见面会",
+      "onboard_time": 1710680015,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 431386,
       "num": 431386,
       "word": "建议推动建立父亲育儿假制度",
@@ -13411,6 +13435,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 415550,
+      "num": 415550,
+      "word": "林俊杰衣服",
+      "onboard_time": 1710681516,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 415545,
       "num": 415545,
       "word": "美国大选将迎耄耋对决",
@@ -13545,6 +13577,14 @@
       "onboard_time": 1709550151,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411076,
+      "num": 411076,
+      "word": "何悯鸿癫了",
+      "onboard_time": 1710681756,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 410967,
@@ -14619,6 +14659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381102,
+      "num": 381102,
+      "word": "男人婚后真的都会发福吗",
+      "onboard_time": 1710677853,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 380926,
       "num": 380926,
       "word": "章若楠张淼怡难哄同框",
@@ -14641,14 +14689,6 @@
       "onboard_time": 1709464350,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 380503,
-      "num": 380503,
-      "word": "男人婚后真的都会发福吗",
-      "onboard_time": 1710677853,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 380451,
@@ -14817,14 +14857,6 @@
       "onboard_time": 1710561398,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 377012,
-      "num": 377012,
-      "word": "权志龙现身姜大声粉丝见面会",
-      "onboard_time": 1710680015,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 376862,
@@ -16443,6 +16475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337293,
+      "num": 337293,
+      "word": "贾静雯带三个女儿现身机场",
+      "onboard_time": 1710681698,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337263,
       "num": 337263,
       "word": "权顺荣wvs",
@@ -16617,6 +16657,14 @@
       "onboard_time": 1710043950,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 333627,
+      "num": 333627,
+      "word": "蔡依林在KTV唱自己的歌",
+      "onboard_time": 1710681877,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 333503,
@@ -18331,14 +18379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 298853,
-      "num": 298853,
-      "word": "梅州",
-      "onboard_time": 1710680137,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298768,
       "num": 298768,
       "word": "有价无价",
@@ -18401,14 +18441,6 @@
       "onboard_time": 1709249305,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 298100,
-      "num": 298100,
-      "word": "校长称邯郸男孩的死亡是个意外",
-      "onboard_time": 1710681034,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297954,
@@ -20811,6 +20843,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 259509,
+      "num": 259509,
+      "word": "比毅双斐",
+      "onboard_time": 1710680738,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 259282,
       "num": 246935,
       "word": "王一博Caroline秀后聊天",
@@ -22955,6 +22995,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 232930,
+      "num": 232930,
+      "word": "假如顾佳离婚后嫁给了朱劲草",
+      "onboard_time": 1710679117,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232908,
       "num": 232908,
       "word": "张雨绮理想的婚姻状态是分房睡",
@@ -24145,14 +24193,6 @@
       "onboard_time": 1710256711,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 221188,
-      "num": 221188,
-      "word": "假如顾佳离婚后嫁给了朱劲草",
-      "onboard_time": 1710679117,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 221108,
@@ -26153,6 +26193,14 @@
       "onboard_time": 1709471130,
       "rank": 29,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 205898,
+      "num": 205898,
+      "word": "王楚钦说目标远不止于此",
+      "onboard_time": 1710682054,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 205727,
@@ -28827,6 +28875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191245,
+      "num": 191245,
+      "word": "王楚钦4比1梁靖崑",
+      "onboard_time": 1710682054,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191123,
       "num": 295371,
       "word": "近8成网友认为奶茶消杯不正常",
@@ -29057,6 +29113,14 @@
       "onboard_time": 1710317673,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 189866,
+      "num": 189866,
+      "word": "WB翻盘",
+      "onboard_time": 1710681634,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 189858,
@@ -30289,14 +30353,6 @@
       "onboard_time": 1710028884,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 182385,
-      "num": 182385,
-      "word": "比毅双斐",
-      "onboard_time": 1710680738,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 182267,
@@ -33363,6 +33419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164595,
+      "num": 164595,
+      "word": "花间令是3月黑马吗",
+      "onboard_time": 1710681397,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164496,
       "num": 164496,
       "word": "带着狗鹅鸭坐高铁的主人",
@@ -34761,6 +34825,14 @@
       "onboard_time": 1710314373,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157690,
+      "num": 157690,
+      "word": "饥饿时人体会出现什么生理反应",
+      "onboard_time": 1710681516,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 157684,
@@ -36467,14 +36539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149056,
-      "num": 149056,
-      "word": "饥饿时人体会出现什么生理反应",
-      "onboard_time": 1710681516,
-      "rank": 44,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 149015,
       "num": 134720,
       "word": "白鹿敖瑞鹏片场互拍",
@@ -38009,14 +38073,6 @@
       "onboard_time": 1710585214,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 141428,
-      "num": 141428,
-      "word": "林俊杰衣服",
-      "onboard_time": 1710681516,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 141362,
@@ -46403,6 +46459,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 63494,
+      "num": 1250542,
+      "word": "抢抓农时春日忙",
+      "onboard_time": 1710680555,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63313,
       "num": 251693,
       "word": "赵明称联名对手机影像提升有限",
@@ -46985,14 +47049,6 @@
       "onboard_time": 1709249364,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 52245,
-      "num": 751600,
-      "word": "抢抓农时春日忙",
-      "onboard_time": 1710680555,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52174,
@@ -47724,7 +47780,7 @@
     },
     {
       "raw_hot": 34218,
-      "num": 153026,
+      "num": 380507,
       "word": "听晚安电台睡着了",
       "onboard_time": 1710681155,
       "rank": 42,

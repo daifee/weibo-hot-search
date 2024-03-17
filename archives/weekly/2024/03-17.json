@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710681570344,
+  "endTime": 1710682485420,
   "band_list": [
     {
       "raw_hot": 3675775,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1279290,
+      "num": 450552,
+      "word": "校长称邯郸男孩的死亡是个意外",
+      "onboard_time": 1710681034,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1133456,
       "num": 1133456,
       "word": "欧阳娣娣掉出出道位",
@@ -217,6 +225,14 @@
       "onboard_time": 1710663151,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1079909,
+      "num": 1079909,
+      "word": "这瓜吃的越来越扑朔迷离了",
+      "onboard_time": 1710678995,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 1068426,
@@ -387,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 662758,
-      "num": 475421,
-      "word": "这瓜吃的越来越扑朔迷离了",
-      "onboard_time": 1710678995,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 651994,
       "num": 301285,
       "word": "老公每年都要裸考公务员",
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 572348,
-      "num": 314926,
+      "num": 380492,
       "word": "花20万买走女朋友的不开心",
       "onboard_time": 1710679835,
       "rank": 20,
@@ -504,6 +512,14 @@
       "word": "59岁员工不会线上请假被开除",
       "onboard_time": 1710643351,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 564443,
+      "num": 564443,
+      "word": "女生称曾遭百万网红妹妹校园霸凌",
+      "onboard_time": 1710679356,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -563,14 +579,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 524204,
-      "num": 524204,
-      "word": "女生称曾遭百万网红妹妹校园霸凌",
-      "onboard_time": 1710679356,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 512225,
       "num": 512225,
       "word": "奸杀女童恶魔被执行死刑",
@@ -617,6 +625,14 @@
       "onboard_time": 1710674434,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 485590,
+      "num": 485590,
+      "word": "梅州",
+      "onboard_time": 1710680137,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 480407,
@@ -763,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 431722,
+      "num": 431722,
+      "word": "权志龙现身姜大声粉丝见面会",
+      "onboard_time": 1710680015,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 426062,
       "num": 344986,
       "word": "威廉王子修图风波后首谈凯特王妃",
@@ -793,6 +817,22 @@
       "onboard_time": 1710670834,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 415550,
+      "num": 415550,
+      "word": "林俊杰衣服",
+      "onboard_time": 1710681516,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 411076,
+      "num": 411076,
+      "word": "何悯鸿癫了",
+      "onboard_time": 1710681756,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 407147,
@@ -891,20 +931,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 381102,
+      "num": 381102,
+      "word": "男人婚后真的都会发福吗",
+      "onboard_time": 1710677853,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 380825,
       "num": 344757,
       "word": "凯特",
       "onboard_time": 1710599137,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380503,
-      "num": 380503,
-      "word": "男人婚后真的都会发福吗",
-      "onboard_time": 1710677853,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 380451,
@@ -921,14 +961,6 @@
       "onboard_time": 1710677733,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 377012,
-      "num": 377012,
-      "word": "权志龙现身姜大声粉丝见面会",
-      "onboard_time": 1710680015,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 376371,
@@ -995,12 +1027,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337293,
+      "num": 337293,
+      "word": "贾静雯带三个女儿现身机场",
+      "onboard_time": 1710681698,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336069,
       "num": 336069,
       "word": "赵丽颖工作室更换头像背景",
       "onboard_time": 1710668371,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333627,
+      "num": 333627,
+      "word": "蔡依林在KTV唱自己的歌",
+      "onboard_time": 1710681877,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 324913,
@@ -1107,28 +1155,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 298853,
-      "num": 298853,
-      "word": "梅州",
-      "onboard_time": 1710680137,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 298312,
       "num": 298312,
       "word": "淀粉肠",
       "onboard_time": 1710637834,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 298100,
-      "num": 298100,
-      "word": "校长称邯郸男孩的死亡是个意外",
-      "onboard_time": 1710681034,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295390,
@@ -1267,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259509,
+      "num": 259509,
+      "word": "比毅双斐",
+      "onboard_time": 1710680738,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 258899,
       "num": 344748,
       "word": "唐嫣赫本公主风",
@@ -1347,6 +1387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 232930,
+      "num": 232930,
+      "word": "假如顾佳离婚后嫁给了朱劲草",
+      "onboard_time": 1710679117,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229171,
       "num": 229171,
       "word": "郑合惠子演过你是我的荣耀",
@@ -1409,14 +1457,6 @@
       "onboard_time": 1710648810,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 221188,
-      "num": 221188,
-      "word": "假如顾佳离婚后嫁给了朱劲草",
-      "onboard_time": 1710679117,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 219916,
@@ -1521,6 +1561,14 @@
       "onboard_time": 1710596918,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205898,
+      "num": 205898,
+      "word": "王楚钦说目标远不止于此",
+      "onboard_time": 1710682054,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 204874,
@@ -1651,6 +1699,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191245,
+      "num": 191245,
+      "word": "王楚钦4比1梁靖崑",
+      "onboard_time": 1710682054,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189866,
+      "num": 189866,
+      "word": "WB翻盘",
+      "onboard_time": 1710681634,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 189390,
       "num": 189390,
       "word": "闺蜜问我是不是买了个新包包",
@@ -1729,14 +1793,6 @@
       "onboard_time": 1710641373,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182385,
-      "num": 182385,
-      "word": "比毅双斐",
-      "onboard_time": 1710680738,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 181003,
@@ -1915,6 +1971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164595,
+      "num": 164595,
+      "word": "花间令是3月黑马吗",
+      "onboard_time": 1710681397,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162692,
       "num": 162692,
       "word": "终于理解什么是忘年交了",
@@ -1969,6 +2033,14 @@
       "onboard_time": 1710650857,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157690,
+      "num": 157690,
+      "word": "饥饿时人体会出现什么生理反应",
+      "onboard_time": 1710681516,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 156928,
@@ -2075,14 +2147,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149056,
-      "num": 149056,
-      "word": "饥饿时人体会出现什么生理反应",
-      "onboard_time": 1710681516,
-      "rank": 44,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 148205,
       "num": 148205,
       "word": "鹿晗soeasy说早了",
@@ -2177,14 +2241,6 @@
       "onboard_time": 1710648389,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 141428,
-      "num": 141428,
-      "word": "林俊杰衣服",
-      "onboard_time": 1710681516,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 140742,
@@ -2659,6 +2715,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 63494,
+      "num": 1250542,
+      "word": "抢抓农时春日忙",
+      "onboard_time": 1710680555,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60340,
       "num": 343397,
       "word": "林高远说非常珍惜和马龙组双打",
@@ -2681,14 +2745,6 @@
       "onboard_time": 1710613998,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 52245,
-      "num": 751600,
-      "word": "抢抓农时春日忙",
-      "onboard_time": 1710680555,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50397,
@@ -2732,7 +2788,7 @@
     },
     {
       "raw_hot": 34218,
-      "num": 153026,
+      "num": 380507,
       "word": "听晚安电台睡着了",
       "onboard_time": 1710681155,
       "rank": 42,
