@@ -1,6 +1,6 @@
 {
   "startTime": 1710692394779,
-  "endTime": 1710710195817,
+  "endTime": 1710711248814,
   "band_list": [
     {
       "raw_hot": 6623497,
@@ -475,8 +475,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 22771,
-      "num": 22771,
+      "raw_hot": 24558,
+      "num": 24558,
       "word": "童瑶演了我梦里的爽文女主",
       "onboard_time": 1710707475,
       "rank": 28,
@@ -489,6 +489,14 @@
       "onboard_time": 1710704596,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15668,
+      "num": 16328,
+      "word": "你怎么看幼儿园关闭潮",
+      "onboard_time": 1710710655,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14664,

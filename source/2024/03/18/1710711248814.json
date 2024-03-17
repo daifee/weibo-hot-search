@@ -1,0 +1,410 @@
+{
+  "runTime": 1710711248814,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 135130,
+        "num": 135130,
+        "word": "河北邯郸通报初中生被杀害案",
+        "onboard_time": 1710684039,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109478,
+        "num": 109478,
+        "word": "邯郸初中生被杀害案嫌疑人全部抓获",
+        "onboard_time": 1710684101,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9869,
+        "num": 98154,
+        "word": "抢抓农时春日忙",
+        "onboard_time": 1710680555,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96402,
+        "num": 96402,
+        "word": "国人平均睡眠时长6.75小时",
+        "onboard_time": 1710692191,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89879,
+        "num": 89879,
+        "word": "英国王室上演消失的她",
+        "onboard_time": 1710688179,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 82463,
+        "num": 82463,
+        "word": "误以为很贵实际很便宜的车",
+        "onboard_time": 1710688179,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 65184,
+        "num": 65184,
+        "word": "女孩将小男孩从高处推下",
+        "onboard_time": 1710687465,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63823,
+        "num": 63823,
+        "word": "Angel父亲离世",
+        "onboard_time": 1710682657,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57284,
+        "num": 57284,
+        "word": "商家直播2小时连吃10根淀粉肠",
+        "onboard_time": 1710685244,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56089,
+        "num": 56089,
+        "word": "张慧雯最近避避风头吧",
+        "onboard_time": 1710693328,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180812,
+        "num": 56016,
+        "word": "校长称邯郸男孩的死亡是个意外",
+        "onboard_time": 1710681034,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55930,
+        "num": 55930,
+        "word": "火星哥因赌博欠债5000万美元",
+        "onboard_time": 1710688722,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45420,
+        "num": 45420,
+        "word": "小洋睡不着",
+        "onboard_time": 1710688780,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 112931,
+        "num": 41533,
+        "word": "邯郸村民尝试挖坑半天仅挖1米深",
+        "onboard_time": 1710685542,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37438,
+        "num": 37438,
+        "word": "中国短道速滑男子接力夺冠",
+        "onboard_time": 1710692493,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37221,
+        "num": 37221,
+        "word": "新说唱2024 尿检",
+        "onboard_time": 1710683438,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62149,
+        "num": 36836,
+        "word": "邯郸被害男孩父亲怀疑另有帮凶",
+        "onboard_time": 1710676956,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35443,
+        "num": 35443,
+        "word": "林孝埈最后一圈反超",
+        "onboard_time": 1710694109,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28263,
+        "num": 28263,
+        "word": "这瓜吃的越来越扑朔迷离了",
+        "onboard_time": 1710678995,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42578,
+        "num": 28190,
+        "word": "全村为邯郸遇害初中生送行",
+        "onboard_time": 1710676956,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30294,
+        "num": 28184,
+        "word": "花20万买走女朋友的不开心",
+        "onboard_time": 1710679835,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 28081,
+        "num": 28081,
+        "word": "眼泪女王编剧",
+        "onboard_time": 1710684760,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29954,
+        "num": 28067,
+        "word": "邯郸杀人案嫌犯被带走时神态平静",
+        "onboard_time": 1710676895,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28014,
+        "num": 28014,
+        "word": "徐娇又勇了",
+        "onboard_time": 1710675629,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26538,
+        "num": 26538,
+        "word": "婆婆不满意我选的喜糖盒",
+        "onboard_time": 1710685605,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26382,
+        "num": 26382,
+        "word": "无限超越班 李菲儿",
+        "onboard_time": 1710682538,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25527,
+        "num": 25527,
+        "word": "当我收到了我的二月份工资",
+        "onboard_time": 1710688179,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24558,
+        "num": 24558,
+        "word": "童瑶演了我梦里的爽文女主",
+        "onboard_time": 1710707475,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23359,
+        "num": 23359,
+        "word": "曼联vs利物浦",
+        "onboard_time": 1710690696,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23308,
+        "num": 23308,
+        "word": "女生称曾遭百万网红妹妹校园霸凌",
+        "onboard_time": 1710679356,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22012,
+        "num": 22012,
+        "word": "大爷连开16个双黄蛋不敢吃了",
+        "onboard_time": 1710675033,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21440,
+        "num": 21440,
+        "word": "眼泪女王能不能更完",
+        "onboard_time": 1710686866,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21322,
+        "num": 21322,
+        "word": "张慧雯演技",
+        "onboard_time": 1710689201,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20746,
+        "num": 20746,
+        "word": "陈星旭陈牧驰 山河表里",
+        "onboard_time": 1710687523,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19893,
+        "num": 19893,
+        "word": "刘少林",
+        "onboard_time": 1710687281,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19815,
+        "num": 19815,
+        "word": "阮经天明道 地狱级验证",
+        "onboard_time": 1710690457,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19547,
+        "num": 19547,
+        "word": "本周狗屎运最旺的星座TOP4",
+        "onboard_time": 1710687344,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19378,
+        "num": 19378,
+        "word": "林俊杰衣服",
+        "onboard_time": 1710681516,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18935,
+        "num": 18935,
+        "word": "黄大宪 朴知元",
+        "onboard_time": 1710688125,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18527,
+        "num": 18527,
+        "word": "眼泪女王",
+        "onboard_time": 1710685542,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18264,
+        "num": 18264,
+        "word": "王楚钦大满贯双冠王",
+        "onboard_time": 1710680617,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17505,
+        "num": 17505,
+        "word": "微信如何查看自己加了多少群",
+        "onboard_time": 1710671015,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17417,
+        "num": 17417,
+        "word": "杜华全年通告被唐九洲套路走",
+        "onboard_time": 1710692669,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17309,
+        "num": 17309,
+        "word": "为什么煎蛋会有很多泡沫",
+        "onboard_time": 1710703337,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 16545,
+        "num": 16545,
+        "word": "关九海张霄白",
+        "onboard_time": 1710695429,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16442,
+        "num": 16442,
+        "word": "何悯鸿癫了",
+        "onboard_time": 1710681756,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16335,
+        "num": 16335,
+        "word": "三水结婚",
+        "onboard_time": 1710683557,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15668,
+        "num": 16328,
+        "word": "你怎么看幼儿园关闭潮",
+        "onboard_time": 1710710655,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14782,
+        "num": 16306,
+        "word": "姐姐拯救了小时候的自己",
+        "onboard_time": 1710689860,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14431,
+        "num": 16302,
+        "word": "奚梦瑶帮何超欣拍照",
+        "onboard_time": 1710704596,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#大思政课一定要跟现实结合起来#"
+    }
+  }
+}
