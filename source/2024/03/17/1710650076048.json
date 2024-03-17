@@ -1,0 +1,410 @@
+{
+  "runTime": 1710650076048,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1098695,
+        "num": 1098695,
+        "word": "4男女混租一间房3个月后留满屋垃圾",
+        "onboard_time": 1710639869,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1062039,
+        "num": 1062039,
+        "word": "欧阳娣娣掉出出道位",
+        "onboard_time": 1710645574,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73570,
+        "num": 1000589,
+        "word": "2024中国春耕图",
+        "onboard_time": 1710635070,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960595,
+        "num": 960595,
+        "word": "闪耀暖暖 严莉莉礼包",
+        "onboard_time": 1710648331,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 907702,
+        "num": 907702,
+        "word": "纪凌尘朱梓骁情头",
+        "onboard_time": 1710645453,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 785571,
+        "num": 785571,
+        "word": "去年我国结婚人数为近十年来首次回升",
+        "onboard_time": 1710641914,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756929,
+        "num": 756929,
+        "word": "女子淀粉肠创业开始即结束",
+        "onboard_time": 1710632964,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622453,
+        "num": 622453,
+        "word": "张碧晨再为赵丽颖唱主题曲",
+        "onboard_time": 1710649353,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 505232,
+        "num": 505232,
+        "word": "微信过期文件找回",
+        "onboard_time": 1710644675,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 500018,
+        "num": 500018,
+        "word": "淀粉肠塌房不该被大家轻易原谅",
+        "onboard_time": 1710645453,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944858,
+        "num": 490632,
+        "word": "苹果同意支付4.9亿美金和解",
+        "onboard_time": 1710637890,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 463781,
+        "num": 463781,
+        "word": "高校回应男女学生在食堂做不雅动作",
+        "onboard_time": 1710644912,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411708,
+        "num": 411708,
+        "word": "辽宁营口市3.6级地震",
+        "onboard_time": 1710647910,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371121,
+        "num": 371121,
+        "word": "59岁员工不会线上请假被开除",
+        "onboard_time": 1710643351,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29693,
+        "num": 367759,
+        "word": "蛋仔守护月",
+        "onboard_time": 1710648034,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 366263,
+        "num": 366263,
+        "word": "get到刘学义",
+        "onboard_time": 1710646175,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358023,
+        "num": 358023,
+        "word": "金价下跌了",
+        "onboard_time": 1710601838,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 347444,
+        "num": 347444,
+        "word": "郑合惠子是友情出演",
+        "onboard_time": 1710645212,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295191,
+        "num": 295191,
+        "word": "男生患上桃花癫感觉全校女生都喜欢自己",
+        "onboard_time": 1710635488,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267401,
+        "num": 267401,
+        "word": "幼儿园关停潮下幼师的自救之路",
+        "onboard_time": 1710648991,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 596442,
+        "num": 267392,
+        "word": "老公每年都要裸考公务员",
+        "onboard_time": 1710648452,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285054,
+        "num": 266951,
+        "word": "每个月减肥最好别超过6斤",
+        "onboard_time": 1710648810,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 358410,
+        "num": 266736,
+        "word": "郑合惠子怼纪凌尘",
+        "onboard_time": 1710648991,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265737,
+        "num": 265737,
+        "word": "螺蛳粉",
+        "onboard_time": 1710641012,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 260739,
+        "num": 260739,
+        "word": "林孝埈世锦赛大满贯",
+        "onboard_time": 1710648930,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246238,
+        "num": 246238,
+        "word": "绝区零",
+        "onboard_time": 1710649711,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 242352,
+        "num": 242352,
+        "word": "都柏林偶遇朴宝剑",
+        "onboard_time": 1710642753,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240852,
+        "num": 240852,
+        "word": "上官芷五集换了十三套衣服",
+        "onboard_time": 1710643414,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233437,
+        "num": 233437,
+        "word": "自制淀粉肠",
+        "onboard_time": 1710642273,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200649,
+        "num": 227693,
+        "word": "四川雅江森林火灾暂无人员伤亡",
+        "onboard_time": 1710649531,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227185,
+        "num": 227185,
+        "word": "奸杀女童恶魔被执行死刑",
+        "onboard_time": 1710632964,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222169,
+        "num": 222169,
+        "word": "养狗人上班前能有多自律",
+        "onboard_time": 1710648810,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215351,
+        "num": 215351,
+        "word": "我妈突然有了三胎",
+        "onboard_time": 1710649711,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202659,
+        "num": 202659,
+        "word": "如懿干活vs甄嬛干活",
+        "onboard_time": 1710632964,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198469,
+        "num": 198469,
+        "word": "恩静在酒店地下车库随舞",
+        "onboard_time": 1710635671,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197355,
+        "num": 197355,
+        "word": "老人出摊卖淀粉肠无人问津",
+        "onboard_time": 1710649412,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193071,
+        "num": 193071,
+        "word": "沈月问小学生要零食",
+        "onboard_time": 1710647073,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181541,
+        "num": 181541,
+        "word": "江西省考被曝有考生作弊",
+        "onboard_time": 1710632964,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 181160,
+        "num": 181160,
+        "word": "省考公安",
+        "onboard_time": 1710646950,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176556,
+        "num": 176556,
+        "word": "婆婆每个月给我1w要不要收",
+        "onboard_time": 1710633266,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174990,
+        "num": 174990,
+        "word": "315",
+        "onboard_time": 1710639033,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167301,
+        "num": 167301,
+        "word": "浓眉视力受损",
+        "onboard_time": 1710648690,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157013,
+        "num": 157013,
+        "word": "林孝埈身披国旗绕场",
+        "onboard_time": 1710635852,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155991,
+        "num": 155991,
+        "word": "与凤行歌单",
+        "onboard_time": 1710646774,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147211,
+        "num": 147211,
+        "word": "确诊淡淡综合征",
+        "onboard_time": 1710648512,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146852,
+        "num": 146852,
+        "word": "女孩自己注射1mg司美格鲁肽送医抢救",
+        "onboard_time": 1710609026,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141813,
+        "num": 141813,
+        "word": "警惕来路不明的三无化妆品小样",
+        "onboard_time": 1710648389,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 140302,
+        "num": 140302,
+        "word": "赵丽颖沈璃定妆花絮",
+        "onboard_time": 1710647252,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137509,
+        "num": 137509,
+        "word": "詹姆斯40分",
+        "onboard_time": 1710646892,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122479,
+        "num": 122479,
+        "word": "Letme评价tangyuan",
+        "onboard_time": 1710650011,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#大思政课一定要跟现实结合起来#"
+    }
+  }
+}

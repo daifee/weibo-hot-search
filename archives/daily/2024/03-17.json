@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710649213070,
+  "endTime": 1710650076048,
   "band_list": [
     {
       "raw_hot": 1885209,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1611314,
-      "num": 476815,
+      "num": 490632,
       "word": "苹果同意支付4.9亿美金和解",
       "onboard_time": 1710637890,
       "rank": 14,
@@ -67,6 +67,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 960595,
+      "num": 960595,
+      "word": "闪耀暖暖 严莉莉礼包",
+      "onboard_time": 1710648331,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 947774,
       "num": 947774,
       "word": "父亲希望AI复活乔任梁视频尽快下架",
@@ -83,8 +91,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 880149,
-      "num": 880149,
+      "raw_hot": 907702,
+      "num": 907702,
       "word": "纪凌尘朱梓骁情头",
       "onboard_time": 1710645453,
       "rank": 48,
@@ -145,6 +153,14 @@
       "onboard_time": 1710600517,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 622453,
+      "num": 622453,
+      "word": "张碧晨再为赵丽颖唱主题曲",
+      "onboard_time": 1710649353,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 575821,
@@ -219,8 +235,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 500018,
+      "num": 500018,
+      "word": "淀粉肠塌房不该被大家轻易原谅",
+      "onboard_time": 1710645453,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 476906,
-      "num": 427355,
+      "num": 463781,
       "word": "高校回应男女学生在食堂做不雅动作",
       "onboard_time": 1710644912,
       "rank": 33,
@@ -273,14 +297,6 @@
       "onboard_time": 1710632964,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 436031,
-      "num": 436031,
-      "word": "闪耀暖暖 严莉莉礼包",
-      "onboard_time": 1710648331,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 426062,
@@ -363,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358410,
+      "num": 266736,
+      "word": "郑合惠子怼纪凌尘",
+      "onboard_time": 1710648991,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355933,
       "num": 355933,
       "word": "郑合惠子是友情出演",
@@ -393,14 +417,6 @@
       "onboard_time": 1710639934,
       "rank": 14,
       "category": "演出,网红"
-    },
-    {
-      "raw_hot": 314519,
-      "num": 314519,
-      "word": "淀粉肠塌房不该被大家轻易原谅",
-      "onboard_time": 1710645453,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314197,
@@ -443,6 +459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 285054,
+      "num": 266951,
+      "word": "每个月减肥最好别超过6斤",
+      "onboard_time": 1710648810,
+      "rank": 26,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 284587,
       "num": 284587,
       "word": "勇士战胜湖人",
@@ -457,6 +481,22 @@
       "onboard_time": 1710598418,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 267401,
+      "num": 267401,
+      "word": "幼儿园关停潮下幼师的自救之路",
+      "onboard_time": 1710648991,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 260739,
+      "num": 260739,
+      "word": "林孝埈世锦赛大满贯",
+      "onboard_time": 1710648930,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 258899,
@@ -491,6 +531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 246238,
+      "num": 246238,
+      "word": "绝区零",
+      "onboard_time": 1710649711,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 245027,
       "num": 343298,
       "word": "花间令 喜欢的人成了我外室",
@@ -523,20 +571,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 224749,
-      "num": 224749,
-      "word": "每个月减肥最好别超过6斤",
-      "onboard_time": 1710648810,
-      "rank": 26,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 223867,
       "num": 344548,
       "word": "与凤行芒果先导片",
       "onboard_time": 1710605850,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222169,
+      "num": 222169,
+      "word": "养狗人上班前能有多自律",
+      "onboard_time": 1710648810,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 219016,
@@ -603,12 +651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211284,
-      "num": 211284,
-      "word": "养狗人上班前能有多自律",
-      "onboard_time": 1710648810,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 215351,
+      "num": 215351,
+      "word": "我妈突然有了三胎",
+      "onboard_time": 1710649711,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 211194,
@@ -643,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200649,
+      "num": 227693,
+      "word": "四川雅江森林火灾暂无人员伤亡",
+      "onboard_time": 1710649531,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199040,
       "num": 1197847,
       "word": "有一种意境叫中式美学",
@@ -665,6 +721,14 @@
       "onboard_time": 1710646774,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197355,
+      "num": 197355,
+      "word": "老人出摊卖淀粉肠无人问津",
+      "onboard_time": 1710649412,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196180,
@@ -771,14 +835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172348,
-      "num": 172348,
-      "word": "郑合惠子怼纪凌尘",
-      "onboard_time": 1710648991,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 172027,
       "num": 172027,
       "word": "小猫感眼线",
@@ -795,14 +851,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 170969,
-      "num": 170969,
-      "word": "林孝埈世锦赛大满贯",
-      "onboard_time": 1710648930,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 170470,
       "num": 170470,
       "word": "NBA",
@@ -817,6 +865,14 @@
       "onboard_time": 1710641012,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 167301,
+      "num": 167301,
+      "word": "浓眉视力受损",
+      "onboard_time": 1710648690,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 166457,
@@ -899,6 +955,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147211,
+      "num": 147211,
+      "word": "确诊淡淡综合征",
+      "onboard_time": 1710648512,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146953,
       "num": 343917,
       "word": "为什么爸妈从来没想过给女儿买房",
@@ -939,6 +1003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141813,
+      "num": 171540,
+      "word": "警惕来路不明的三无化妆品小样",
+      "onboard_time": 1710648389,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 140742,
       "num": 343237,
       "word": "张雨绮出道以来的颜值变化",
@@ -971,14 +1043,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 136672,
-      "num": 171540,
-      "word": "警惕来路不明的三无化妆品小样",
-      "onboard_time": 1710648389,
-      "rank": 39,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 135091,
       "num": 343115,
       "word": "你们有名字羞耻症吗",
@@ -987,36 +1051,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134954,
-      "num": 134954,
-      "word": "幼儿园关停潮下幼师的自救之路",
-      "onboard_time": 1710648991,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 134429,
       "num": 134429,
       "word": "天欢的杀 潘樾的抓",
       "onboard_time": 1710646051,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132550,
-      "num": 132550,
-      "word": "确诊淡淡综合征",
-      "onboard_time": 1710648512,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 130341,
-      "num": 130341,
-      "word": "浓眉视力受损",
-      "onboard_time": 1710648690,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 126619,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1710638914,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122479,
+      "num": 122479,
+      "word": "Letme评价tangyuan",
+      "onboard_time": 1710650011,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 122066,
@@ -1276,7 +1324,7 @@
     },
     {
       "raw_hot": 75836,
-      "num": 993077,
+      "num": 1000589,
       "word": "2024中国春耕图",
       "onboard_time": 1710635070,
       "rank": 2,
@@ -1371,7 +1419,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 21057,
+      "raw_hot": 29693,
       "num": 385801,
       "word": "蛋仔守护月",
       "onboard_time": 1710648034,
