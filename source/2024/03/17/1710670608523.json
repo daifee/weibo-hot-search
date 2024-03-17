@@ -1,0 +1,410 @@
+{
+  "runTime": 1710670608523,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1553548,
+        "num": 1553548,
+        "word": "新冠病毒感染与认知功能下降存在相关性",
+        "onboard_time": 1710668249,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 985120,
+        "num": 985120,
+        "word": "我居然和奶奶早逝的女儿有一样的胎记",
+        "onboard_time": 1710663151,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73518,
+        "num": 849997,
+        "word": "近日我国将送鹊桥二号奔月",
+        "onboard_time": 1710669151,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724076,
+        "num": 724076,
+        "word": "不生孩子的核心本质是什么",
+        "onboard_time": 1710667173,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 698404,
+        "num": 698404,
+        "word": "犬舍店主称鸡骨泥是用来做狗粮",
+        "onboard_time": 1710664294,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658873,
+        "num": 658873,
+        "word": "鞠婧祎发了个感叹号",
+        "onboard_time": 1710668792,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 590140,
+        "num": 590140,
+        "word": "茶百道 崩铁",
+        "onboard_time": 1710653255,
+        "rank": 6,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 576945,
+        "num": 576945,
+        "word": "德普被曝片场霸凌女演员",
+        "onboard_time": 1710668131,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562952,
+        "num": 562952,
+        "word": "浙江一5岁女孩确诊长发公主综合征",
+        "onboard_time": 1710657995,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152296,
+        "num": 485255,
+        "word": "天水已开通麻辣烫公交专线",
+        "onboard_time": 1710669033,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1134770,
+        "num": 456335,
+        "word": "李惠利经纪公司回应",
+        "onboard_time": 1710666331,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413435,
+        "num": 413435,
+        "word": "梅州警方回应男孩疑似猥亵小女孩",
+        "onboard_time": 1710667831,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392529,
+        "num": 392529,
+        "word": "满记甜品被曝多地撤店",
+        "onboard_time": 1710667952,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345661,
+        "num": 345661,
+        "word": "吴镇宇第二个害怕的女人",
+        "onboard_time": 1710669213,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 336069,
+        "num": 336069,
+        "word": "赵丽颖工作室更换头像背景",
+        "onboard_time": 1710668371,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326926,
+        "num": 326926,
+        "word": "身边逐渐消失的职业",
+        "onboard_time": 1710661651,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300832,
+        "num": 300832,
+        "word": "优酷2024开年两部破万剧",
+        "onboard_time": 1710670353,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292475,
+        "num": 292475,
+        "word": "阮经天ins",
+        "onboard_time": 1710659255,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 292337,
+        "num": 292337,
+        "word": "粉红税",
+        "onboard_time": 1710669811,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 290052,
+        "num": 290052,
+        "word": "刘学义破万撑伞图",
+        "onboard_time": 1710669394,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75488,
+        "num": 284271,
+        "word": "消防员七倒八歪的睡姿看得心疼",
+        "onboard_time": 1710670473,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1234889,
+        "num": 283845,
+        "word": "幼儿园关闭潮最终会影响到大学",
+        "onboard_time": 1710663692,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474702,
+        "num": 283143,
+        "word": "老人出摊卖淀粉肠无人问津",
+        "onboard_time": 1710649412,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282256,
+        "num": 282256,
+        "word": "水果为什么越来越甜了",
+        "onboard_time": 1710668854,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 278667,
+        "num": 278667,
+        "word": "花间令热度破10000",
+        "onboard_time": 1710664534,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263724,
+        "num": 263724,
+        "word": "聋人被骗光钱财步行400里饿晕在国贸",
+        "onboard_time": 1710669033,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230358,
+        "num": 230358,
+        "word": "费曼辣评吴镇宇",
+        "onboard_time": 1710650132,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229032,
+        "num": 229032,
+        "word": "帅真的只是一种感觉",
+        "onboard_time": 1710668550,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227937,
+        "num": 227937,
+        "word": "男孩在路边拖走小女孩疑似猥亵",
+        "onboard_time": 1710661772,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226027,
+        "num": 226027,
+        "word": "嘴角起泡其实是感染了病毒",
+        "onboard_time": 1710656974,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219916,
+        "num": 219916,
+        "word": "逆水寒手游澄清与莲花楼联动",
+        "onboard_time": 1710667831,
+        "rank": 30,
+        "category": "游戏,剧集"
+      },
+      {
+        "raw_hot": 218934,
+        "num": 218934,
+        "word": "多名大学生手持铁棒闯入学校追打中学生",
+        "onboard_time": 1710670232,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214442,
+        "num": 214442,
+        "word": "结婚十年就存这点钱",
+        "onboard_time": 1710667173,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204769,
+        "num": 204769,
+        "word": "花间令男二当着男主给女主送聘礼",
+        "onboard_time": 1710669634,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199170,
+        "num": 199170,
+        "word": "鸡骨泥",
+        "onboard_time": 1710655411,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188383,
+        "num": 188383,
+        "word": "乔任梁父亲喊话撕下AI复活明星伪善面具",
+        "onboard_time": 1710650553,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187014,
+        "num": 187014,
+        "word": "范丞丞 特步",
+        "onboard_time": 1710664051,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181227,
+        "num": 181227,
+        "word": "郑合惠子名字含义",
+        "onboard_time": 1710665552,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180641,
+        "num": 180641,
+        "word": "AG对战VG",
+        "onboard_time": 1710669575,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177960,
+        "num": 177960,
+        "word": "王曼昱vs王艺迪",
+        "onboard_time": 1710670294,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177295,
+        "num": 177295,
+        "word": "洪金宝维护成龙",
+        "onboard_time": 1710669875,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165257,
+        "num": 165257,
+        "word": "为什么考公没有考研让人感动",
+        "onboard_time": 1710655532,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159953,
+        "num": 159953,
+        "word": "陈牧驰耳钉",
+        "onboard_time": 1710660034,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159002,
+        "num": 159002,
+        "word": "樊振东看霉霉演唱会vlog",
+        "onboard_time": 1710650913,
+        "rank": 43,
+        "category": "演出,体育"
+      },
+      {
+        "raw_hot": 157476,
+        "num": 157476,
+        "word": "为什么有的人运气很好",
+        "onboard_time": 1710667230,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156308,
+        "num": 156308,
+        "word": "狗哥把你的意大利炮端上来",
+        "onboard_time": 1710670053,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69313,
+        "num": 145384,
+        "word": "43岁父亲希望比自闭症儿子多活一天",
+        "onboard_time": 1710670413,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139416,
+        "num": 139416,
+        "word": "暧昧过但最后没能在一起",
+        "onboard_time": 1710667173,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127486,
+        "num": 127486,
+        "word": "在飞机上被韩国空姐当成韩国人了",
+        "onboard_time": 1710653491,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120835,
+        "num": 120835,
+        "word": "周也小雀斑",
+        "onboard_time": 1710668073,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#大思政课一定要跟现实结合起来#"
+    }
+  }
+}
