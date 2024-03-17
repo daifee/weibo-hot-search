@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/03/01 00:20:40 ~ 2024/03/17 22:14:18
+本榜单时间：2024/03/01 00:20:40 ~ 2024/03/17 22:34:00
 </p>
 </blockquote>
 <p>
@@ -17,6 +17,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B1%B1%E6%98%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
 鸟山明去世（热度：12728050）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E9%82%AF%E9%83%B8%E9%80%9A%E6%8A%A5%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%9D%80%E5%AE%B3%E6%A1%88%23" target="weibo">
+河北邯郸通报初中生被杀害案（热度：11489139）
 </a>
 </li>
 
@@ -51,14 +57,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E9%82%AF%E9%83%B8%E9%80%9A%E6%8A%A5%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%9D%80%E5%AE%B3%E6%A1%88%23" target="weibo">
-河北邯郸通报初中生被杀害案（热度：7866989）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B41%E6%AD%BB22%E4%BC%A4%23" target="weibo">
+河北燕郊爆炸已致1死22伤（热度：6964861）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E7%87%95%E9%83%8A%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B41%E6%AD%BB22%E4%BC%A4%23" target="weibo">
-河北燕郊爆炸已致1死22伤（热度：6964861）
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%9D%80%E5%AE%B3%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E5%85%A8%E9%83%A8%E6%8A%93%E8%8E%B7%23" target="weibo">
+邯郸初中生被杀害案嫌疑人全部抓获（热度：5365345）
 </a>
 </li>
 
@@ -605,12 +611,6 @@ Dior事件后马面裙卖疯了（热度：2039993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E5%9F%BA%E5%B1%82%E5%8C%BB%E7%96%97%E9%97%A8%E8%AF%8A%E6%8A%A5%E9%94%80%E8%B5%B7%E4%BB%98%E7%BA%BF%23" target="weibo">
 建议全面取消基层医疗门诊报销起付线（热度：1968978）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%9D%80%E5%AE%B3%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E5%85%A8%E9%83%A8%E6%8A%93%E8%8E%B7%23" target="weibo">
-邯郸初中生被杀害案嫌疑人全部抓获（热度：1958895）
 </a>
 </li>
 
@@ -2967,6 +2967,12 @@ SpaceX星舰第三次试飞提前结束（热度：993801）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%B0%B4%E7%BB%93%E5%A9%9A%23" target="weibo">
+三水结婚（热度：980803）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%85%E6%B1%9F%E5%B1%B1%E7%81%AB%23" target="weibo">
 雅江山火（热度：980568）
 </a>
@@ -3573,6 +3579,12 @@ DYG教练 跑路（热度：871122）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%AF%B4%E5%94%B12024%20%E5%B0%BF%E6%A3%80%23" target="weibo">
+新说唱2024 尿检（热度：869392）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%89%BE%E6%BB%8B%E7%97%85%E6%84%9F%E6%9F%93%E8%80%85%E6%8A%97%E7%97%85%E6%AF%92%E6%B2%BB%E7%96%97%E6%88%90%E5%8A%9F%E7%8E%87%E5%B7%B2%E8%B6%8595%25%23" target="weibo">
 艾滋病感染者抗病毒治疗成功率已超95%（热度：868483）
 </a>
@@ -3707,12 +3719,6 @@ DYG教练 跑路（热度：871122）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%8E%9F%E6%9D%A5%E5%8A%AA%E5%8A%9B%E6%98%AF%E5%8F%AF%E4%BB%A5%E8%A2%AB%E7%9C%8B%E5%88%B0%E7%9A%84%23" target="weibo">
 刘亦菲 原来努力是可以被看到的（热度：852399）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%B0%B4%E7%BB%93%E5%A9%9A%23" target="weibo">
-三水结婚（热度：851398）
 </a>
 </li>
 
@@ -3947,12 +3953,6 @@ iPhone在中国大幅打折（热度：823009）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%B4%E7%9C%BC%E9%95%9C%E4%BC%9A%E8%AE%A9%E8%A7%86%E5%8A%9B%E5%8F%98%E5%B7%AE%E6%98%AF%E9%94%99%E8%AF%AF%E8%AE%A4%E7%9F%A5%23" target="weibo">
 戴眼镜会让视力变差是错误认知（热度：816880）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%AF%B4%E5%94%B12024%20%E5%B0%BF%E6%A3%80%23" target="weibo">
-新说唱2024 尿检（热度：815223）
 </a>
 </li>
 

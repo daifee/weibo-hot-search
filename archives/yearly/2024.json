@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1710684858435,
+  "endTime": 1710686040052,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -97,6 +97,14 @@
       "onboard_time": 1707481486,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11489139,
+      "num": 12739139,
+      "word": "河北邯郸通报初中生被杀害案",
+      "onboard_time": 1710684039,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11170879,
@@ -435,14 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 7866989,
-      "num": 9116989,
-      "word": "河北邯郸通报初中生被杀害案",
-      "onboard_time": 1710684039,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 7808511,
       "num": 7808511,
       "word": "白鹿 公主白梦妍",
@@ -657,6 +657,14 @@
       "onboard_time": 1707890314,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5365345,
+      "num": 6615345,
+      "word": "邯郸初中生被杀害案嫌疑人全部抓获",
+      "onboard_time": 1710684101,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 5365064,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1707900694,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 2541750,
-      "num": 2501882,
-      "word": "专家建议将女性退休年龄延长到60岁",
-      "onboard_time": 1708564836,
-      "rank": 12,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
