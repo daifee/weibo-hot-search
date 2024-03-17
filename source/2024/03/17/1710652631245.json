@@ -1,0 +1,410 @@
+{
+  "runTime": 1710652631245,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1838318,
+        "num": 1838318,
+        "word": "老人出摊卖淀粉肠无人问津",
+        "onboard_time": 1710649412,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1560231,
+        "num": 1560231,
+        "word": "费曼辣评吴镇宇",
+        "onboard_time": 1710650132,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57976,
+        "num": 1307138,
+        "word": "2024中国春耕图",
+        "onboard_time": 1710635070,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1289433,
+        "num": 1289433,
+        "word": "乔任梁父亲喊话撕下AI复活明星伪善面具",
+        "onboard_time": 1710650553,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1236710,
+        "num": 1236710,
+        "word": "樊振东看霉霉演唱会vlog",
+        "onboard_time": 1710650913,
+        "rank": 4,
+        "category": "体育,演出"
+      },
+      {
+        "raw_hot": 906993,
+        "num": 906993,
+        "word": "闪耀暖暖 严莉莉礼包",
+        "onboard_time": 1710648331,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 718607,
+        "num": 718607,
+        "word": "幼儿园关停潮下幼师的自救之路",
+        "onboard_time": 1710648991,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 714723,
+        "num": 714723,
+        "word": "纪凌尘朱梓骁情头",
+        "onboard_time": 1710645453,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 679538,
+        "num": 679538,
+        "word": "4男女混租一间房3个月后留满屋垃圾",
+        "onboard_time": 1710639869,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561177,
+        "num": 561177,
+        "word": "欧阳娣娣掉出出道位",
+        "onboard_time": 1710645574,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 748261,
+        "num": 559913,
+        "word": "苹果同意支付4.9亿美金和解",
+        "onboard_time": 1710637890,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 557966,
+        "num": 557966,
+        "word": "女子淀粉肠创业开始即结束",
+        "onboard_time": 1710632964,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551968,
+        "num": 551968,
+        "word": "张碧晨再为赵丽颖唱主题曲",
+        "onboard_time": 1710649353,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468481,
+        "num": 468481,
+        "word": "淀粉肠塌房不该被大家轻易原谅",
+        "onboard_time": 1710645453,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443200,
+        "num": 443200,
+        "word": "去年我国结婚人数为近十年来首次回升",
+        "onboard_time": 1710641914,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380451,
+        "num": 380451,
+        "word": "迪丽热巴请粉丝吃巧克力",
+        "onboard_time": 1710651214,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366072,
+        "num": 366072,
+        "word": "315打假击败全国99%大学生",
+        "onboard_time": 1710650071,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318059,
+        "num": 318059,
+        "word": "金价下跌了",
+        "onboard_time": 1710601838,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 273305,
+        "num": 273305,
+        "word": "自制淀粉肠",
+        "onboard_time": 1710642273,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 271582,
+        "num": 271582,
+        "word": "张杰吃醋的样子好可爱",
+        "onboard_time": 1710650311,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451923,
+        "num": 268742,
+        "word": "老公每年都要裸考公务员",
+        "onboard_time": 1710648452,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322358,
+        "num": 265183,
+        "word": "郑合惠子怼纪凌尘",
+        "onboard_time": 1710648991,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295390,
+        "num": 263260,
+        "word": "我妈突然有了三胎",
+        "onboard_time": 1710649711,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280095,
+        "num": 258644,
+        "word": "每个月减肥最好别超过6斤",
+        "onboard_time": 1710648810,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 254960,
+        "num": 254960,
+        "word": "315",
+        "onboard_time": 1710639033,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248717,
+        "num": 248717,
+        "word": "高校回应男女学生在食堂做不雅动作",
+        "onboard_time": 1710644912,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246458,
+        "num": 246458,
+        "word": "郑合惠子是友情出演",
+        "onboard_time": 1710645212,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244338,
+        "num": 244338,
+        "word": "绝区零",
+        "onboard_time": 1710649711,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204630,
+        "num": 204630,
+        "word": "get到刘学义",
+        "onboard_time": 1710646175,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103821,
+        "num": 196839,
+        "word": "警惕来路不明的三无化妆品小样",
+        "onboard_time": 1710648389,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 342571,
+        "num": 194673,
+        "word": "樊振东说赛场外只是个普通青年",
+        "onboard_time": 1710652592,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191786,
+        "num": 191786,
+        "word": "微信过期文件找回",
+        "onboard_time": 1710644675,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 187842,
+        "num": 187842,
+        "word": "养狗人上班前能有多自律",
+        "onboard_time": 1710648810,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176434,
+        "num": 176434,
+        "word": "都柏林偶遇朴宝剑",
+        "onboard_time": 1710642753,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173835,
+        "num": 173835,
+        "word": "放在岳父岳母届也是相当炸裂",
+        "onboard_time": 1710651392,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167137,
+        "num": 167137,
+        "word": "淀粉肠",
+        "onboard_time": 1710637834,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166376,
+        "num": 166376,
+        "word": "男生患上桃花癫感觉全校女生都喜欢自己",
+        "onboard_time": 1710635488,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150022,
+        "num": 150022,
+        "word": "59岁员工不会线上请假被开除",
+        "onboard_time": 1710643351,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149162,
+        "num": 149162,
+        "word": "王俊凯的高中毕业照",
+        "onboard_time": 1710650857,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149153,
+        "num": 149153,
+        "word": "奸杀女童恶魔被执行死刑",
+        "onboard_time": 1710632964,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142558,
+        "num": 142558,
+        "word": "理想MEGA订单量未达预期",
+        "onboard_time": 1710652171,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139678,
+        "num": 139678,
+        "word": "林孝埈世锦赛大满贯",
+        "onboard_time": 1710648930,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126501,
+        "num": 126501,
+        "word": "辽宁营口市3.6级地震",
+        "onboard_time": 1710647910,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122156,
+        "num": 122156,
+        "word": "浓眉视力受损",
+        "onboard_time": 1710648690,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121486,
+        "num": 121486,
+        "word": "螺蛳粉",
+        "onboard_time": 1710641012,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119817,
+        "num": 119817,
+        "word": "上官芷五集换了十三套衣服",
+        "onboard_time": 1710643414,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118487,
+        "num": 118487,
+        "word": "婆婆每个月给我1w要不要收",
+        "onboard_time": 1710633266,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116003,
+        "num": 116003,
+        "word": "烈焰 恶女挖眼弑父",
+        "onboard_time": 1710652473,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106661,
+        "num": 116001,
+        "word": "省考公安",
+        "onboard_time": 1710646950,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104482,
+        "num": 115987,
+        "word": "如懿干活vs甄嬛干活",
+        "onboard_time": 1710632964,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#大思政课一定要跟现实结合起来#"
+    }
+  }
+}

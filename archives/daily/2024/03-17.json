@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710650076048,
+  "endTime": 1710652631245,
   "band_list": [
     {
       "raw_hot": 1885209,
@@ -8,6 +8,14 @@
       "word": "女子淀粉肠创业开始即结束",
       "onboard_time": 1710632964,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1838318,
+      "num": 1838318,
+      "word": "老人出摊卖淀粉肠无人问津",
+      "onboard_time": 1710649412,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -28,11 +36,19 @@
     },
     {
       "raw_hot": 1611314,
-      "num": 490632,
+      "num": 559913,
       "word": "苹果同意支付4.9亿美金和解",
       "onboard_time": 1710637890,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1560231,
+      "num": 1560231,
+      "word": "费曼辣评吴镇宇",
+      "onboard_time": 1710650132,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1376592,
@@ -49,6 +65,22 @@
       "onboard_time": 1710635488,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1289433,
+      "num": 1289433,
+      "word": "乔任梁父亲喊话撕下AI复活明星伪善面具",
+      "onboard_time": 1710650553,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1236710,
+      "num": 1236710,
+      "word": "樊振东看霉霉演唱会vlog",
+      "onboard_time": 1710650913,
+      "rank": 4,
+      "category": "体育,演出"
     },
     {
       "raw_hot": 1133456,
@@ -121,6 +153,14 @@
       "onboard_time": 1710601779,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 718607,
+      "num": 718607,
+      "word": "幼儿园关停潮下幼师的自救之路",
+      "onboard_time": 1710648991,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 651994,
@@ -347,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380451,
+      "num": 380451,
+      "word": "迪丽热巴请粉丝吃巧克力",
+      "onboard_time": 1710651214,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376371,
       "num": 376371,
       "word": "焉栩嘉头发都被扇飞了",
@@ -361,6 +409,14 @@
       "onboard_time": 1710633266,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 366072,
+      "num": 366072,
+      "word": "315打假击败全国99%大学生",
+      "onboard_time": 1710650071,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364243,
@@ -393,6 +449,14 @@
       "onboard_time": 1710645212,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342571,
+      "num": 194673,
+      "word": "樊振东说赛场外只是个普通青年",
+      "onboard_time": 1710652592,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 324913,
@@ -451,6 +515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 295390,
+      "num": 263260,
+      "word": "我妈突然有了三胎",
+      "onboard_time": 1710649711,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 294265,
       "num": 294265,
       "word": "过度减肥会加重或诱发过敏",
@@ -483,12 +555,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 267401,
-      "num": 267401,
-      "word": "幼儿园关停潮下幼师的自救之路",
-      "onboard_time": 1710648991,
-      "rank": 45,
-      "category": "教育"
+      "raw_hot": 271582,
+      "num": 271582,
+      "word": "张杰吃醋的样子好可爱",
+      "onboard_time": 1710650311,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 260739,
@@ -513,6 +585,14 @@
       "onboard_time": 1710640654,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254960,
+      "num": 254960,
+      "word": "315",
+      "onboard_time": 1710639033,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248440,
@@ -627,14 +707,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 216554,
-      "num": 216554,
-      "word": "315",
-      "onboard_time": 1710639033,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216487,
       "num": 216487,
       "word": "选出所有的阮经天",
@@ -649,14 +721,6 @@
       "onboard_time": 1710603998,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215351,
-      "num": 215351,
-      "word": "我妈突然有了三胎",
-      "onboard_time": 1710649711,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 211194,
@@ -721,14 +785,6 @@
       "onboard_time": 1710646774,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197355,
-      "num": 197355,
-      "word": "老人出摊卖淀粉肠无人问津",
-      "onboard_time": 1710649412,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196180,
@@ -833,6 +889,14 @@
       "onboard_time": 1710644852,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173835,
+      "num": 173835,
+      "word": "放在岳父岳母届也是相当炸裂",
+      "onboard_time": 1710651392,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172027,
@@ -955,6 +1019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 149162,
+      "num": 149162,
+      "word": "王俊凯的高中毕业照",
+      "onboard_time": 1710650857,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147211,
       "num": 147211,
       "word": "确诊淡淡综合征",
@@ -995,6 +1067,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 142558,
+      "num": 142558,
+      "word": "理想MEGA订单量未达预期",
+      "onboard_time": 1710652171,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 142075,
       "num": 342707,
       "word": "洽洽 绘旅人",
@@ -1004,7 +1084,7 @@
     },
     {
       "raw_hot": 141813,
-      "num": 171540,
+      "num": 196839,
       "word": "警惕来路不明的三无化妆品小样",
       "onboard_time": 1710648389,
       "rank": 39,
@@ -1145,6 +1225,14 @@
       "onboard_time": 1710634709,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116003,
+      "num": 116003,
+      "word": "烈焰 恶女挖眼弑父",
+      "onboard_time": 1710652473,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 115698,
@@ -1324,7 +1412,7 @@
     },
     {
       "raw_hot": 75836,
-      "num": 1000589,
+      "num": 1307138,
       "word": "2024中国春耕图",
       "onboard_time": 1710635070,
       "rank": 2,
