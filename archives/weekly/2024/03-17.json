@@ -1,13 +1,29 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710678577713,
+  "endTime": 1710679431957,
   "band_list": [
+    {
+      "raw_hot": 3675775,
+      "num": 3675775,
+      "word": "河北邯郸初中生杀人事件独家调查",
+      "onboard_time": 1710677733,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3356421,
       "num": 311473,
       "word": "央视网评初中生杀害同学案",
       "onboard_time": 1710671555,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2841567,
+      "num": 424945,
+      "word": "邯郸被害男孩父亲怀疑另有帮凶",
+      "onboard_time": 1710676956,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -19,19 +35,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2390128,
-      "num": 2390128,
-      "word": "河北邯郸初中生杀人事件独家调查",
-      "onboard_time": 1710677733,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2255291,
-      "num": 424945,
-      "word": "邯郸被害男孩父亲怀疑另有帮凶",
+      "raw_hot": 1925297,
+      "num": 424172,
+      "word": "全村为邯郸遇害初中生送行",
       "onboard_time": 1710676956,
-      "rank": 10,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -155,14 +163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1320601,
-      "num": 424172,
-      "word": "全村为邯郸遇害初中生送行",
-      "onboard_time": 1710676956,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1289433,
       "num": 1289433,
       "word": "乔任梁父亲喊话撕下AI复活明星伪善面具",
@@ -281,6 +281,14 @@
       "onboard_time": 1710645453,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 865813,
+      "num": 423818,
+      "word": "邯郸杀人案嫌犯被带走时神态平静",
+      "onboard_time": 1710676895,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 795919,
@@ -563,14 +571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 491662,
-      "num": 423818,
-      "word": "邯郸杀人案嫌犯被带走时神态平静",
-      "onboard_time": 1710676895,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 480407,
       "num": 480407,
       "word": "洗牙的时候太紧张嗦了一下医生的手",
@@ -593,6 +593,14 @@
       "onboard_time": 1710655951,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 471592,
+      "num": 371436,
+      "word": "当爷爷知道我的猫4000一只",
+      "onboard_time": 1710677255,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 469906,
@@ -683,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 440709,
+      "num": 440709,
+      "word": "王曼昱世界排名重返第二",
+      "onboard_time": 1710677613,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 439548,
       "num": 439548,
       "word": "优酷2024开年两部破万剧",
@@ -729,6 +745,14 @@
       "onboard_time": 1710670834,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 407644,
+      "num": 407644,
+      "word": "王楚钦vs梁靖崑",
+      "onboard_time": 1710677973,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 407147,
@@ -843,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377734,
+      "num": 288217,
+      "word": "原来男人的花期真的很短",
+      "onboard_time": 1710677733,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 376371,
       "num": 376371,
       "word": "焉栩嘉头发都被扇飞了",
@@ -857,14 +889,6 @@
       "onboard_time": 1710633266,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 365038,
-      "num": 365038,
-      "word": "当爷爷知道我的猫4000一只",
-      "onboard_time": 1710677255,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 364243,
@@ -897,14 +921,6 @@
       "onboard_time": 1710645212,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 352433,
-      "num": 288217,
-      "word": "原来男人的花期真的很短",
-      "onboard_time": 1710677733,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 349371,
@@ -993,14 +1009,6 @@
       "onboard_time": 1710638433,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 313390,
-      "num": 313390,
-      "word": "王曼昱世界排名重返第二",
-      "onboard_time": 1710677613,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 312387,
@@ -1211,12 +1219,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 252747,
-      "num": 252747,
-      "word": "王楚钦vs梁靖崑",
-      "onboard_time": 1710677973,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 249379,
+      "num": 183270,
+      "word": "这瓜吃的越来越扑朔迷离了",
+      "onboard_time": 1710678995,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 248440,
@@ -1259,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237036,
+      "num": 237036,
+      "word": "男人婚后真的都会发福吗",
+      "onboard_time": 1710677853,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229171,
       "num": 229171,
       "word": "郑合惠子演过你是我的荣耀",
@@ -1281,6 +1297,14 @@
       "onboard_time": 1710629358,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225328,
+      "num": 225328,
+      "word": "鞠婧祎谈她的17岁",
+      "onboard_time": 1710678454,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 224613,
@@ -1353,14 +1377,6 @@
       "onboard_time": 1710642571,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 217396,
-      "num": 193543,
-      "word": "男人婚后真的都会发福吗",
-      "onboard_time": 1710677853,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 217292,
@@ -1619,14 +1635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182730,
-      "num": 182730,
-      "word": "鞠婧祎谈她的17岁",
-      "onboard_time": 1710678454,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 181003,
       "num": 175839,
       "word": "花间令热度破9500",
@@ -1731,6 +1739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 170622,
+      "num": 170622,
+      "word": "为什么韩国的门牌很多都是汉字",
+      "onboard_time": 1710678336,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 170470,
       "num": 170470,
       "word": "NBA",
@@ -1753,14 +1769,6 @@
       "onboard_time": 1710641012,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 168621,
-      "num": 168621,
-      "word": "为什么韩国的门牌很多都是汉字",
-      "onboard_time": 1710678336,
-      "rank": 38,
-      "category": "科学科普"
     },
     {
       "raw_hot": 167301,
@@ -1849,6 +1857,14 @@
       "onboard_time": 1710643470,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160199,
+      "num": 160199,
+      "word": "假如顾佳离婚后嫁给了朱劲草",
+      "onboard_time": 1710679117,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 158579,
@@ -1953,6 +1969,14 @@
       "onboard_time": 1710654453,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149504,
+      "num": 149504,
+      "word": "假球",
+      "onboard_time": 1710679356,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 148205,
@@ -2147,12 +2171,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132669,
+      "num": 132669,
+      "word": "女生称曾遭百万网红妹妹校园霸凌",
+      "onboard_time": 1710679356,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130539,
       "num": 130539,
       "word": "无畏钟馗MVP",
       "onboard_time": 1710660871,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127134,
+      "num": 127134,
+      "word": "周深二专预告来了",
+      "onboard_time": 1710679414,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 126619,

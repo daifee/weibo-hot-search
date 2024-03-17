@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1710678577713,
+  "endTime": 1710679431957,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -995,6 +995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 3675775,
+      "num": 3675775,
+      "word": "河北邯郸初中生杀人事件独家调查",
+      "onboard_time": 1710677733,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3675516,
       "num": 3675516,
       "word": "三天60亿",
@@ -1779,6 +1787,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 2841567,
+      "num": 424945,
+      "word": "邯郸被害男孩父亲怀疑另有帮凶",
+      "onboard_time": 1710676956,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2838525,
       "num": 2838525,
       "word": "2024政府工作报告",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1707497220,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2526169,
-      "num": 657806,
-      "word": "梅西ins更新",
-      "onboard_time": 1707573761,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2524535,
-      "num": 2524535,
-      "word": "老人出摊卖淀粉肠无人问津",
-      "onboard_time": 1710649412,
-      "rank": 35,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
