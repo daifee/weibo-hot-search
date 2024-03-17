@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710670608523,
+  "endTime": 1710671651565,
   "band_list": [
     {
       "raw_hot": 2524535,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1810970,
+      "num": 1810970,
+      "word": "新冠病毒感染与认知功能下降存在相关性",
+      "onboard_time": 1710668249,
+      "rank": 0,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1747609,
       "num": 1747609,
       "word": "金价下跌了",
@@ -57,14 +65,6 @@
       "onboard_time": 1710650132,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1553548,
-      "num": 1553548,
-      "word": "新冠病毒感染与认知功能下降存在相关性",
-      "onboard_time": 1710668249,
-      "rank": 0,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1508074,
@@ -131,6 +131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1070971,
+      "num": 1070971,
+      "word": "鞠婧祎发了个感叹号",
+      "onboard_time": 1710668792,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1068426,
       "num": 1068426,
       "word": "阮经天ins",
@@ -153,6 +161,14 @@
       "onboard_time": 1710614780,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 978968,
+      "num": 978968,
+      "word": "不生孩子的核心本质是什么",
+      "onboard_time": 1710667173,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 963935,
@@ -211,6 +227,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 794828,
+      "num": 311473,
+      "word": "央视网评初中生杀害同学案",
+      "onboard_time": 1710671555,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 785434,
       "num": 785434,
       "word": "男孩在路边拖走小女孩疑似猥亵",
@@ -259,28 +283,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 724076,
-      "num": 724076,
-      "word": "不生孩子的核心本质是什么",
-      "onboard_time": 1710667173,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 698404,
       "num": 698404,
       "word": "犬舍店主称鸡骨泥是用来做狗粮",
       "onboard_time": 1710664294,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 658873,
-      "num": 658873,
-      "word": "鞠婧祎发了个感叹号",
-      "onboard_time": 1710668792,
-      "rank": 5,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 651994,
@@ -363,8 +371,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 562952,
-      "num": 562952,
+      "raw_hot": 563761,
+      "num": 563761,
       "word": "浙江一5岁女孩确诊长发公主综合征",
       "onboard_time": 1710657995,
       "rank": 20,
@@ -377,6 +385,14 @@
       "onboard_time": 1710637349,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 554878,
+      "num": 554878,
+      "word": "多名大学生手持铁棒闯入学校追打中学生",
+      "onboard_time": 1710670232,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 553103,
@@ -411,6 +427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 538381,
+      "num": 538381,
+      "word": "梅州警方回应男孩疑似猥亵小女孩",
+      "onboard_time": 1710667831,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512225,
       "num": 512225,
       "word": "奸杀女童恶魔被执行死刑",
@@ -433,6 +457,14 @@
       "onboard_time": 1710640711,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 503351,
+      "num": 503351,
+      "word": "粉红税",
+      "onboard_time": 1710669811,
+      "rank": 18,
+      "category": "美妆"
     },
     {
       "raw_hot": 500884,
@@ -547,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439548,
+      "num": 439548,
+      "word": "优酷2024开年两部破万剧",
+      "onboard_time": 1710670353,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 432677,
       "num": 432677,
       "word": "范丞丞 特步",
@@ -571,20 +611,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413435,
-      "num": 413435,
-      "word": "梅州警方回应男孩疑似猥亵小女孩",
-      "onboard_time": 1710667831,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 407147,
       "num": 267559,
       "word": "在飞机上被韩国空姐当成韩国人了",
       "onboard_time": 1710653491,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 406726,
+      "num": 406726,
+      "word": "吴镇宇第二个害怕的女人",
+      "onboard_time": 1710669213,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 395752,
@@ -731,14 +771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 345661,
-      "num": 345661,
-      "word": "吴镇宇第二个害怕的女人",
-      "onboard_time": 1710669213,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 339797,
       "num": 339797,
       "word": "权顺荣白发",
@@ -769,6 +801,14 @@
       "onboard_time": 1710659673,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 318254,
+      "num": 318254,
+      "word": "王一博工作室还有好东西",
+      "onboard_time": 1710670834,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 318234,
@@ -803,6 +843,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 312387,
+      "num": 312387,
+      "word": "刘学义破万撑伞图",
+      "onboard_time": 1710669394,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 310995,
+      "num": 310995,
+      "word": "315",
+      "onboard_time": 1710639033,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305006,
       "num": 261939,
       "word": "拒绝买车后老公对我冷暴力",
@@ -827,14 +883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 300832,
-      "num": 300832,
-      "word": "优酷2024开年两部破万剧",
-      "onboard_time": 1710670353,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 298312,
       "num": 298312,
       "word": "淀粉肠",
@@ -851,6 +899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 295312,
+      "num": 295312,
+      "word": "微信如何查看自己加了多少群",
+      "onboard_time": 1710671015,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 294265,
       "num": 294265,
       "word": "过度减肥会加重或诱发过敏",
@@ -865,22 +921,6 @@
       "onboard_time": 1710659791,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 292337,
-      "num": 292337,
-      "word": "粉红税",
-      "onboard_time": 1710669811,
-      "rank": 18,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 290052,
-      "num": 290052,
-      "word": "刘学义破万撑伞图",
-      "onboard_time": 1710669394,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 285054,
@@ -995,12 +1035,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254960,
-      "num": 254960,
-      "word": "315",
-      "onboard_time": 1710639033,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 256236,
+      "num": 540172,
+      "word": "天水已开通麻辣烫公交专线",
+      "onboard_time": 1710669033,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 248440,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1710603039,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239198,
+      "num": 239198,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1710670294,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 229171,
@@ -1115,14 +1163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 218934,
-      "num": 218934,
-      "word": "多名大学生手持铁棒闯入学校追打中学生",
-      "onboard_time": 1710670232,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218247,
       "num": 218247,
       "word": "省考公安",
@@ -1179,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208833,
+      "num": 208833,
+      "word": "花间令男二当着男主给女主送聘礼",
+      "onboard_time": 1710669634,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207623,
       "num": 207623,
       "word": "花间令",
@@ -1201,14 +1249,6 @@
       "onboard_time": 1710645933,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204769,
-      "num": 204769,
-      "word": "花间令男二当着男主给女主送聘礼",
-      "onboard_time": 1710669634,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 203975,
@@ -1315,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188221,
+      "num": 188221,
+      "word": "银临巡演",
+      "onboard_time": 1710671316,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187414,
       "num": 187414,
       "word": "杰娜早期的暧昧氛围好上头",
@@ -1379,16 +1427,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 177960,
-      "num": 177960,
-      "word": "王曼昱vs王艺迪",
-      "onboard_time": 1710670294,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 177295,
-      "num": 177295,
+      "raw_hot": 179237,
+      "num": 179237,
       "word": "洪金宝维护成龙",
       "onboard_time": 1710669875,
       "rank": 40,
@@ -1416,6 +1456,14 @@
       "word": "欢乐颂",
       "onboard_time": 1710644852,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 174634,
+      "num": 174634,
+      "word": "狗哥把你的意大利炮端上来",
+      "onboard_time": 1710670053,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -1563,20 +1611,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 156308,
-      "num": 156308,
-      "word": "狗哥把你的意大利炮端上来",
-      "onboard_time": 1710670053,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 156069,
       "num": 156069,
       "word": "魔方新世界",
       "onboard_time": 1710656132,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155932,
+      "num": 155932,
+      "word": "科学认识长新冠",
+      "onboard_time": 1710671255,
+      "rank": 46,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 155728,
@@ -1617,14 +1665,6 @@
       "onboard_time": 1710640473,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 152296,
-      "num": 485255,
-      "word": "天水已开通麻辣烫公交专线",
-      "onboard_time": 1710669033,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 152032,
@@ -1769,6 +1809,14 @@
       "onboard_time": 1710597097,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134611,
+      "num": 543164,
+      "word": "消防员七倒八歪的睡姿看得心疼",
+      "onboard_time": 1710670473,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134429,
@@ -2067,6 +2115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 88624,
+      "num": 1005401,
+      "word": "近日我国将送鹊桥二号奔月",
+      "onboard_time": 1710669151,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88395,
       "num": 342010,
       "word": "欢乐颂5",
@@ -2095,22 +2151,6 @@
       "num": 1326650,
       "word": "2024中国春耕图",
       "onboard_time": 1710635070,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75488,
-      "num": 284271,
-      "word": "消防员七倒八歪的睡姿看得心疼",
-      "onboard_time": 1710670473,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73518,
-      "num": 849997,
-      "word": "近日我国将送鹊桥二号奔月",
-      "onboard_time": 1710669151,
       "rank": 2,
       "category": "社会新闻"
     },
