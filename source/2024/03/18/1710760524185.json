@@ -1,0 +1,410 @@
+{
+  "runTime": 1710760524185,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1328555,
+        "num": 1328555,
+        "word": "你以为很卫生其实很脏的行为",
+        "onboard_time": 1710749497,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1064614,
+        "num": 1064614,
+        "word": "肠妃回宫",
+        "onboard_time": 1710751476,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 62940,
+        "num": 1018804,
+        "word": "祖国各地春日美食上新了",
+        "onboard_time": 1710754292,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 995044,
+        "num": 995044,
+        "word": "能不能禁止东北人干翻译",
+        "onboard_time": 1710757053,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 684276,
+        "num": 684276,
+        "word": "赵小棠妈妈状态",
+        "onboard_time": 1710759216,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 573544,
+        "num": 573544,
+        "word": "杨幂今天比太阳下班早",
+        "onboard_time": 1710758612,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562541,
+        "num": 562541,
+        "word": "查尔斯",
+        "onboard_time": 1710750335,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 396451,
+        "num": 560213,
+        "word": "大爷瀑布下帮捞无人机游客心疼大喊不要了",
+        "onboard_time": 1710755430,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 132598,
+        "num": 559904,
+        "word": "4岁娃迷路在派出所大口干饭",
+        "onboard_time": 1710755430,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559638,
+        "num": 559638,
+        "word": "刘亦菲灵蛇女王",
+        "onboard_time": 1710753453,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 2451525,
+        "num": 558214,
+        "word": "杀害4岁女童的未满12岁男孩或已正常上学",
+        "onboard_time": 1710756332,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067754,
+        "num": 553538,
+        "word": "韩素希回国了",
+        "onboard_time": 1710758433,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 878604,
+        "num": 549821,
+        "word": "戴安娜王妃弟弟就凯特阴谋论发声",
+        "onboard_time": 1710759515,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 625682,
+        "num": 543000,
+        "word": "裴涩琪怀孕",
+        "onboard_time": 1710743196,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19086,
+        "num": 541667,
+        "word": "淘宝新势力周今晚8点开卖",
+        "onboard_time": 1710760414,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 66798,
+        "num": 533640,
+        "word": "谁说硬派一定要有大梁",
+        "onboard_time": 1710756694,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 533252,
+        "num": 533252,
+        "word": "凯特现身",
+        "onboard_time": 1710734672,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 473434,
+        "num": 473434,
+        "word": "杨幂小拇指好短",
+        "onboard_time": 1710759515,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 472116,
+        "num": 472116,
+        "word": "成都二诊",
+        "onboard_time": 1710755313,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 419421,
+        "num": 419421,
+        "word": "鸡骨泥运用于淀粉肠中不算违规",
+        "onboard_time": 1710749435,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380505,
+        "num": 380505,
+        "word": "卖淀粉肠大哥改行卖烤面筋",
+        "onboard_time": 1710749379,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 362912,
+        "num": 362912,
+        "word": "中方高度赞赏普京总统涉台表态",
+        "onboard_time": 1710754955,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 334407,
+        "num": 334407,
+        "word": "三只羊就梅菜扣肉事件致歉",
+        "onboard_time": 1710746254,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287131,
+        "num": 287131,
+        "word": "李宏毅家的衣服卖13块钱",
+        "onboard_time": 1710744631,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 281990,
+        "num": 281990,
+        "word": "鞠婧祎闭错眼了",
+        "onboard_time": 1710739954,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264625,
+        "num": 264625,
+        "word": "315打假名单",
+        "onboard_time": 1710746675,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242843,
+        "num": 242843,
+        "word": "林更新不让主持人动赵丽颖",
+        "onboard_time": 1710759636,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221712,
+        "num": 221712,
+        "word": "郑合惠子否认退圈",
+        "onboard_time": 1710747094,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220218,
+        "num": 220218,
+        "word": "11岁儿子第一次约同学出去玩",
+        "onboard_time": 1710754834,
+        "rank": 28,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 212349,
+        "num": 212349,
+        "word": "江边城外烤鱼永远2.8斤是巧合吗",
+        "onboard_time": 1710754470,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 205445,
+        "num": 205445,
+        "word": "五月天泉州",
+        "onboard_time": 1710755493,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200672,
+        "num": 200672,
+        "word": "与凤行好大阵仗",
+        "onboard_time": 1710743252,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200656,
+        "num": 200656,
+        "word": "顾茉莉第一次感觉婆婆像妈了",
+        "onboard_time": 1710758794,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186289,
+        "num": 186289,
+        "word": "韩版知否知否",
+        "onboard_time": 1710755911,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182383,
+        "num": 182383,
+        "word": "第一次被厂里的环境震惊了",
+        "onboard_time": 1710754470,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180043,
+        "num": 180043,
+        "word": "王梓薇拍与凤行没见到赵丽颖",
+        "onboard_time": 1710757353,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175799,
+        "num": 175799,
+        "word": "天水麻辣烫原料火了",
+        "onboard_time": 1710759031,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161849,
+        "num": 161849,
+        "word": "为什么一次性手套总渗油",
+        "onboard_time": 1710756094,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159969,
+        "num": 159969,
+        "word": "酒肉情侣还有必要继续吗",
+        "onboard_time": 1710754470,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156340,
+        "num": 156340,
+        "word": "林俊杰咳嗽卡点",
+        "onboard_time": 1710758015,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148401,
+        "num": 148401,
+        "word": "宋轶 红山动物园",
+        "onboard_time": 1710749917,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140871,
+        "num": 140871,
+        "word": "我爸退出了家族群",
+        "onboard_time": 1710749435,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140699,
+        "num": 140699,
+        "word": "五月天公益演出",
+        "onboard_time": 1710757715,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140660,
+        "num": 140660,
+        "word": "难怪我每次请假都成功了",
+        "onboard_time": 1710752015,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138100,
+        "num": 138100,
+        "word": "JDG战胜iG",
+        "onboard_time": 1710759996,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135454,
+        "num": 135454,
+        "word": "淀粉肠小王子发声",
+        "onboard_time": 1710734855,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128589,
+        "num": 128589,
+        "word": "Tarzan NIP",
+        "onboard_time": 1710755735,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122758,
+        "num": 122758,
+        "word": "普通女大学生会有多少件衣服",
+        "onboard_time": 1710759452,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 107954,
+        "num": 107954,
+        "word": "猫咪一次外向换来一辈子的内向",
+        "onboard_time": 1710754533,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103914,
+        "num": 103914,
+        "word": "全员加速中济南",
+        "onboard_time": 1710755195,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#创新课堂教学给学生深刻的学习体验#"
+    }
+  }
+}

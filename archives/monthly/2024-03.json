@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710758068399,
+  "endTime": 1710760524185,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -440,6 +440,14 @@
       "word": "网传颅骨照与邯郸初中生遇害案无关",
       "onboard_time": 1710719129,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2451525,
+      "num": 558214,
+      "word": "杀害4岁女童的未满12岁男孩或已正常上学",
+      "onboard_time": 1710756332,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -2355,14 +2363,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1318504,
-      "num": 491411,
-      "word": "杀害4岁女童的未满12岁男孩或已正常上学",
-      "onboard_time": 1710756332,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1318168,
       "num": 1318168,
       "word": "请回答1988珍珠13岁近照",
@@ -3595,6 +3595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1067754,
+      "num": 553538,
+      "word": "韩素希回国了",
+      "onboard_time": 1710758433,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1067703,
       "num": 1067703,
       "word": "徐正溪上岸了吗",
@@ -4081,6 +4089,14 @@
       "onboard_time": 1709774432,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 995044,
+      "num": 995044,
+      "word": "能不能禁止东北人干翻译",
+      "onboard_time": 1710757053,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 993801,
@@ -4953,6 +4969,14 @@
       "onboard_time": 1709300854,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 878604,
+      "num": 549821,
+      "word": "戴安娜王妃弟弟就凯特阴谋论发声",
+      "onboard_time": 1710759515,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 878527,
@@ -7395,6 +7419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 684276,
+      "num": 684276,
+      "word": "赵小棠妈妈状态",
+      "onboard_time": 1710759216,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 683730,
       "num": 351045,
       "word": "UNIQ",
@@ -9408,6 +9440,14 @@
       "word": "麦田农夫 五月天音源",
       "onboard_time": 1709784210,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 573544,
+      "num": 573544,
+      "word": "杨幂今天比太阳下班早",
+      "onboard_time": 1710758612,
+      "rank": 5,
       "category": "艺人"
     },
     {
@@ -12193,6 +12233,14 @@
       "onboard_time": 1710216750,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 473434,
+      "num": 473434,
+      "word": "杨幂小拇指好短",
+      "onboard_time": 1710759515,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 473406,
@@ -21555,14 +21603,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 264130,
-      "num": 264130,
-      "word": "能不能禁止东北人干翻译",
-      "onboard_time": 1710757053,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 264095,
       "num": 264095,
       "word": "燕郊爆炸火势已得到有效控制",
@@ -23320,6 +23360,14 @@
       "word": "别对我动心 哄不好了",
       "onboard_time": 1709824173,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 242843,
+      "num": 242843,
+      "word": "林更新不让主持人动赵丽颖",
+      "onboard_time": 1710759636,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -28499,6 +28547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 200656,
+      "num": 200656,
+      "word": "顾茉莉第一次感觉婆婆像妈了",
+      "onboard_time": 1710758794,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200649,
       "num": 200649,
       "word": "张元英顶级时间管理",
@@ -33147,6 +33203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175799,
+      "num": 175799,
+      "word": "天水麻辣烫原料火了",
+      "onboard_time": 1710759031,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 175777,
       "num": 140705,
       "word": "假睫毛适用场合分类",
@@ -36913,6 +36977,14 @@
       "onboard_time": 1709543732,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 156340,
+      "num": 156340,
+      "word": "林俊杰咳嗽卡点",
+      "onboard_time": 1710758015,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 156308,
@@ -40683,6 +40755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138100,
+      "num": 138100,
+      "word": "JDG战胜iG",
+      "onboard_time": 1710759996,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138081,
       "num": 138081,
       "word": "电影沙丘2口碑",
@@ -43771,6 +43851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122758,
+      "num": 122758,
+      "word": "普通女大学生会有多少件衣服",
+      "onboard_time": 1710759452,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 122592,
       "num": 122592,
       "word": "别对我动心 风衣加成",
@@ -45385,14 +45473,6 @@
       "onboard_time": 1709335461,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113570,
-      "num": 113570,
-      "word": "林俊杰咳嗽卡点",
-      "onboard_time": 1710758015,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 113553,
@@ -48651,6 +48731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 66798,
+      "num": 533640,
+      "word": "谁说硬派一定要有大梁",
+      "onboard_time": 1710756694,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 66301,
       "num": 66301,
       "word": "哈兰德空门不进",
@@ -48865,14 +48953,6 @@
       "onboard_time": 1709247862,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 61509,
-      "num": 400446,
-      "word": "谁说硬派一定要有大梁",
-      "onboard_time": 1710756694,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 61162,
@@ -50681,6 +50761,14 @@
       "onboard_time": 1710704596,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19086,
+      "num": 541667,
+      "word": "淘宝新势力周今晚8点开卖",
+      "onboard_time": 1710760414,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 19023,

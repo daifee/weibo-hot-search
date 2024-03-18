@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710758068399,
+  "endTime": 1710760524185,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -96,6 +96,14 @@
       "word": "网传颅骨照与邯郸初中生遇害案无关",
       "onboard_time": 1710719129,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2451525,
+      "num": 558214,
+      "word": "杀害4岁女童的未满12岁男孩或已正常上学",
+      "onboard_time": 1710756332,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -379,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1318504,
-      "num": 491411,
-      "word": "杀害4岁女童的未满12岁男孩或已正常上学",
-      "onboard_time": 1710756332,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1289433,
       "num": 1289433,
       "word": "乔任梁父亲喊话撕下AI复活明星伪善面具",
@@ -491,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1067754,
+      "num": 553538,
+      "word": "韩素希回国了",
+      "onboard_time": 1710758433,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1047464,
       "num": 1047464,
       "word": "鸡骨泥",
@@ -513,6 +521,14 @@
       "onboard_time": 1710720694,
       "rank": 20,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 995044,
+      "num": 995044,
+      "word": "能不能禁止东北人干翻译",
+      "onboard_time": 1710757053,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 987013,
@@ -633,6 +649,14 @@
       "onboard_time": 1710746614,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 878604,
+      "num": 549821,
+      "word": "戴安娜王妃弟弟就凯特阴谋论发声",
+      "onboard_time": 1710759515,
+      "rank": 12,
+      "category": "国外时政"
     },
     {
       "raw_hot": 869392,
@@ -907,6 +931,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 684276,
+      "num": 684276,
+      "word": "赵小棠妈妈状态",
+      "onboard_time": 1710759216,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 665811,
       "num": 665811,
       "word": "眼泪女王编剧",
@@ -1073,6 +1105,14 @@
       "onboard_time": 1710642273,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 573544,
+      "num": 573544,
+      "word": "杨幂今天比太阳下班早",
+      "onboard_time": 1710758612,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 572348,
@@ -1337,6 +1377,14 @@
       "onboard_time": 1710655951,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 473434,
+      "num": 473434,
+      "word": "杨幂小拇指好短",
+      "onboard_time": 1710759515,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 473290,
@@ -2371,14 +2419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 264130,
-      "num": 264130,
-      "word": "能不能禁止东北人干翻译",
-      "onboard_time": 1710757053,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 263995,
       "num": 263995,
       "word": "读研家里不给生活费",
@@ -2568,6 +2608,14 @@
       "word": "刘珂有赵丽颖独家照片",
       "onboard_time": 1710744273,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 242843,
+      "num": 242843,
+      "word": "林更新不让主持人动赵丽颖",
+      "onboard_time": 1710759636,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -3049,6 +3097,14 @@
       "onboard_time": 1710685723,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 200656,
+      "num": 200656,
+      "word": "顾茉莉第一次感觉婆婆像妈了",
+      "onboard_time": 1710758794,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 200649,
@@ -3555,6 +3611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175799,
+      "num": 175799,
+      "word": "天水麻辣烫原料火了",
+      "onboard_time": 1710759031,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 175584,
       "num": 150449,
       "word": "沈璃孙悟空撞衫了",
@@ -3921,6 +3985,14 @@
       "onboard_time": 1710654633,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 156340,
+      "num": 156340,
+      "word": "林俊杰咳嗽卡点",
+      "onboard_time": 1710758015,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 156147,
@@ -4299,6 +4371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138100,
+      "num": 138100,
+      "word": "JDG战胜iG",
+      "onboard_time": 1710759996,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137970,
       "num": 137970,
       "word": "赵丽颖徐海乔对手戏",
@@ -4603,6 +4683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122758,
+      "num": 122758,
+      "word": "普通女大学生会有多少件衣服",
+      "onboard_time": 1710759452,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 122479,
       "num": 122479,
       "word": "Letme评价tangyuan",
@@ -4777,14 +4865,6 @@
       "onboard_time": 1710743433,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 113570,
-      "num": 113570,
-      "word": "林俊杰咳嗽卡点",
-      "onboard_time": 1710758015,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 113034,
@@ -5075,6 +5155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66798,
+      "num": 533640,
+      "word": "谁说硬派一定要有大梁",
+      "onboard_time": 1710756694,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 64553,
       "num": 223724,
       "word": "马面裙订单量同比增841%",
@@ -5089,14 +5177,6 @@
       "onboard_time": 1710716965,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61509,
-      "num": 400446,
-      "word": "谁说硬派一定要有大梁",
-      "onboard_time": 1710756694,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 60340,
@@ -5257,6 +5337,14 @@
       "onboard_time": 1710704596,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19086,
+      "num": 541667,
+      "word": "淘宝新势力周今晚8点开卖",
+      "onboard_time": 1710760414,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 15131,
