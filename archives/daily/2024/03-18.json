@@ -1,6 +1,6 @@
 {
   "startTime": 1710692394779,
-  "endTime": 1710746222259,
+  "endTime": 1710747249576,
   "band_list": [
     {
       "raw_hot": 6623497,
@@ -115,6 +115,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 1604475,
+      "num": 1604475,
+      "word": "李宏毅家的衣服卖13块钱",
+      "onboard_time": 1710744631,
+      "rank": 1,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1491888,
       "num": 406521,
       "word": "校长称邯郸男孩的死亡是个意外",
@@ -136,6 +144,14 @@
       "word": "凯特王妃或4月中旬公开健康状况",
       "onboard_time": 1710731435,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1374465,
+      "num": 848367,
+      "word": "杀害4岁女童的男孩接受6个月心理矫治",
+      "onboard_time": 1710741873,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -179,14 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1088768,
-      "num": 848367,
-      "word": "杀害4岁女童的男孩接受6个月心理矫治",
-      "onboard_time": 1710741873,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 996046,
       "num": 751046,
       "word": "长期炎症容易拖成癌",
@@ -217,14 +225,6 @@
       "onboard_time": 1710692191,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 935946,
-      "num": 935946,
-      "word": "李宏毅家的衣服卖13块钱",
-      "onboard_time": 1710744631,
-      "rank": 1,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 933262,
@@ -273,6 +273,14 @@
       "onboard_time": 1710734796,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 806929,
+      "num": 806929,
+      "word": "三只羊就梅菜扣肉事件致歉",
+      "onboard_time": 1710746254,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 784501,
@@ -363,6 +371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 692766,
+      "num": 692766,
+      "word": "喜茶称呼查理苏为您先生",
+      "onboard_time": 1710745232,
+      "rank": 12,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 647318,
       "num": 647318,
       "word": "英国王室上演消失的她",
@@ -451,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 547317,
+      "num": 547317,
+      "word": "林剑成外交部新任发言人",
+      "onboard_time": 1710746614,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 533720,
       "num": 533720,
       "word": "火星哥因赌博欠债5000万美元",
@@ -507,6 +531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 454083,
+      "num": 454083,
+      "word": "樊振东最好的回应是拿实力说话",
+      "onboard_time": 1710744755,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 435374,
       "num": 435374,
       "word": "本周狗屎运最旺的星座TOP4",
@@ -537,14 +569,6 @@
       "onboard_time": 1710737140,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 418223,
-      "num": 372227,
-      "word": "喜茶称呼查理苏为您先生",
-      "onboard_time": 1710745232,
-      "rank": 12,
-      "category": "游戏,美食"
     },
     {
       "raw_hot": 409785,
@@ -593,6 +617,14 @@
       "onboard_time": 1710687523,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 384873,
+      "num": 384873,
+      "word": "315打假名单",
+      "onboard_time": 1710746675,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 382118,
@@ -651,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359101,
+      "num": 359101,
+      "word": "B站视频基础激励将设置月收入上限",
+      "onboard_time": 1710744932,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 358196,
       "num": 358196,
       "word": "陈狄克离世",
@@ -681,14 +721,6 @@
       "onboard_time": 1710737738,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 335731,
-      "num": 335731,
-      "word": "樊振东最好的回应是拿实力说话",
-      "onboard_time": 1710744755,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 329780,
@@ -732,7 +764,7 @@
     },
     {
       "raw_hot": 319086,
-      "num": 267270,
+      "num": 280377,
       "word": "小伙昏睡两天称穿越见去世表哥实为得癔症",
       "onboard_time": 1710741755,
       "rank": 24,
@@ -795,6 +827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 289644,
+      "num": 289644,
+      "word": "海关截获2万余只蟑螂",
+      "onboard_time": 1710744094,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288076,
       "num": 288076,
       "word": "邯郸杀人案嫌犯被带走时神态平静",
@@ -809,22 +849,6 @@
       "onboard_time": 1710734319,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284720,
-      "num": 266594,
-      "word": "海关截获2万余只蟑螂",
-      "onboard_time": 1710744094,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269520,
-      "num": 269520,
-      "word": "B站视频基础激励将设置月收入上限",
-      "onboard_time": 1710744932,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 263954,
@@ -865,6 +889,22 @@
       "onboard_time": 1710689201,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250250,
+      "num": 236223,
+      "word": "刘跃进接受审查调查",
+      "onboard_time": 1710746494,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249638,
+      "num": 249638,
+      "word": "林孝埈庆祝动作寓意",
+      "onboard_time": 1710745896,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 243370,
@@ -1099,6 +1139,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 197105,
+      "num": 197105,
+      "word": "高通发布会",
+      "onboard_time": 1710746914,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 196706,
       "num": 196706,
       "word": "新款苹果手表将支持血压监测",
@@ -1113,6 +1161,14 @@
       "onboard_time": 1710735216,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 195401,
+      "num": 195401,
+      "word": "我想看看你那的春天",
+      "onboard_time": 1710747035,
+      "rank": 34,
+      "category": "旅游"
     },
     {
       "raw_hot": 195147,
@@ -1251,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177357,
+      "num": 177357,
+      "word": "郑合惠子否认退圈",
+      "onboard_time": 1710747094,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176853,
       "num": 176853,
       "word": "姐姐拯救了小时候的自己",
@@ -1321,6 +1385,14 @@
       "onboard_time": 1710686866,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163229,
+      "num": 163229,
+      "word": "肝论文",
+      "onboard_time": 1710746436,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 162935,
@@ -1403,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151822,
+      "num": 151822,
+      "word": "化妆品微商送毒小样让客人以为功效好",
+      "onboard_time": 1710746734,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 151239,
       "num": 151239,
       "word": "淀粉肠商标申请被驳回",
@@ -1449,14 +1529,6 @@
       "onboard_time": 1710689619,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142552,
-      "num": 142552,
-      "word": "林孝埈庆祝动作寓意",
-      "onboard_time": 1710745896,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 140665,
@@ -1683,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117144,
+      "num": 117144,
+      "word": "欧阳娜娜一家合体",
+      "onboard_time": 1710746315,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114696,
       "num": 114696,
       "word": "四川雅江森林火灾1号火场明火被扑灭",
@@ -1697,6 +1777,22 @@
       "onboard_time": 1710743433,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 109325,
+      "num": 109325,
+      "word": "复试穿搭",
+      "onboard_time": 1710747212,
+      "rank": 48,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 108302,
+      "num": 108302,
+      "word": "王者金沙联动短剧",
+      "onboard_time": 1710747212,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 106198,
