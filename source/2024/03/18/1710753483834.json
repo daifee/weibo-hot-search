@@ -1,0 +1,410 @@
+{
+  "runTime": 1710753483834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2208671,
+        "num": 2208671,
+        "word": "你以为很卫生其实很脏的行为",
+        "onboard_time": 1710749497,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1050657,
+        "num": 1050657,
+        "word": "鸡骨泥运用于淀粉肠中不算违规",
+        "onboard_time": 1710749435,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46975,
+        "num": 952860,
+        "word": "每个网红城市火爆背后都是努力的回甘",
+        "onboard_time": 1710728792,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881622,
+        "num": 881622,
+        "word": "肠妃回宫",
+        "onboard_time": 1710751476,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 828519,
+        "num": 828519,
+        "word": "宋轶 红山动物园",
+        "onboard_time": 1710749917,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 822566,
+        "num": 822566,
+        "word": "三只羊就梅菜扣肉事件致歉",
+        "onboard_time": 1710746254,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739054,
+        "num": 739054,
+        "word": "查尔斯",
+        "onboard_time": 1710750335,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 600664,
+        "num": 600664,
+        "word": "凯特现身",
+        "onboard_time": 1710734672,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597267,
+        "num": 597267,
+        "word": "Angelababy蜻蜓仙子",
+        "onboard_time": 1710752137,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 566504,
+        "num": 566504,
+        "word": "金价",
+        "onboard_time": 1710751357,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 860233,
+        "num": 552668,
+        "word": "裴涩琪怀孕",
+        "onboard_time": 1710743196,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530192,
+        "num": 530192,
+        "word": "李宏毅家的衣服卖13块钱",
+        "onboard_time": 1710744631,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 482649,
+        "num": 482649,
+        "word": "卖淀粉肠大哥改行卖烤面筋",
+        "onboard_time": 1710749379,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 425714,
+        "num": 425714,
+        "word": "鞠婧祎闭错眼了",
+        "onboard_time": 1710739954,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415560,
+        "num": 415560,
+        "word": "主办方公布梅西缺阵退款方案",
+        "onboard_time": 1710749737,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404550,
+        "num": 404550,
+        "word": "315打假名单",
+        "onboard_time": 1710746675,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380398,
+        "num": 380398,
+        "word": "郑合惠子否认退圈",
+        "onboard_time": 1710747094,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342229,
+        "num": 342229,
+        "word": "淀粉肠小王子发声",
+        "onboard_time": 1710734855,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317500,
+        "num": 317500,
+        "word": "鞠婧祎小号",
+        "onboard_time": 1710747633,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294920,
+        "num": 294920,
+        "word": "林剑成外交部新任发言人",
+        "onboard_time": 1710746614,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 405017,
+        "num": 294912,
+        "word": "难怪我每次请假都成功了",
+        "onboard_time": 1710752015,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 376550,
+        "num": 289876,
+        "word": "我爸退出了家族群",
+        "onboard_time": 1710749435,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283440,
+        "num": 283440,
+        "word": "科比妻子被恶意造谣",
+        "onboard_time": 1710752735,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248284,
+        "num": 248284,
+        "word": "自带习惯让我一年多存2万",
+        "onboard_time": 1710751597,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199305,
+        "num": 199305,
+        "word": "专家称今年刚需买房的人可以下手了",
+        "onboard_time": 1710737021,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196228,
+        "num": 196228,
+        "word": "海关截获2万余只蟑螂",
+        "onboard_time": 1710744094,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40994,
+        "num": 188153,
+        "word": "小米Civi4Pro首发第三代骁龙8s",
+        "onboard_time": 1710752735,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 181881,
+        "num": 181881,
+        "word": "林俊杰演唱会黄牛带领粉丝冲场",
+        "onboard_time": 1710752195,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179101,
+        "num": 179101,
+        "word": "喜茶称呼查理苏为您先生",
+        "onboard_time": 1710745232,
+        "rank": 28,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 171021,
+        "num": 171021,
+        "word": "林宥嘉MV女主角是桂纶镁",
+        "onboard_time": 1710747993,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 219363,
+        "num": 170645,
+        "word": "狗狗偷亲熟睡的小主人",
+        "onboard_time": 1710752677,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164982,
+        "num": 164982,
+        "word": "一诺和西瓜一起晒太阳",
+        "onboard_time": 1710752677,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163477,
+        "num": 163477,
+        "word": "与凤行好大阵仗",
+        "onboard_time": 1710743252,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159158,
+        "num": 159158,
+        "word": "贾静雯修杰楷一家游迪士尼",
+        "onboard_time": 1710751178,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147237,
+        "num": 147237,
+        "word": "单双休的区别到底有多大",
+        "onboard_time": 1710752195,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142816,
+        "num": 142816,
+        "word": "微信情侣查岗模式",
+        "onboard_time": 1710734796,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139364,
+        "num": 139364,
+        "word": "突然翻到嫂子几年前的朋友圈",
+        "onboard_time": 1710736239,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135611,
+        "num": 135611,
+        "word": "淀粉肠淀粉含量不能超过10%",
+        "onboard_time": 1710752255,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 15432,
+        "num": 132989,
+        "word": "明星们的最新出行搭子",
+        "onboard_time": 1710752795,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131052,
+        "num": 131052,
+        "word": "做旅行攻略可以试试这几个方法",
+        "onboard_time": 1710753155,
+        "rank": 39,
+        "category": "旅游,科学科普"
+      },
+      {
+        "raw_hot": 127198,
+        "num": 127198,
+        "word": "长期炎症容易拖成癌",
+        "onboard_time": 1710720694,
+        "rank": 40,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 118561,
+        "num": 118561,
+        "word": "樊振东最好的回应是拿实力说话",
+        "onboard_time": 1710744755,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117326,
+        "num": 117326,
+        "word": "五哈4和鹿晗新歌适配度",
+        "onboard_time": 1710750335,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114590,
+        "num": 114590,
+        "word": "刘亦菲灵蛇女王",
+        "onboard_time": 1710753453,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 112648,
+        "num": 112648,
+        "word": "00后长期熬夜长出老年斑",
+        "onboard_time": 1710728673,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110223,
+        "num": 110223,
+        "word": "郑合惠子被恶意评分",
+        "onboard_time": 1710737438,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109249,
+        "num": 109249,
+        "word": "周杰伦杭州场抢票需先充值488元vip",
+        "onboard_time": 1710733834,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106920,
+        "num": 106920,
+        "word": "山东大馒头版AD钙奶上线",
+        "onboard_time": 1710750517,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105690,
+        "num": 105690,
+        "word": "化妆品微商送毒小样让客人以为功效好",
+        "onboard_time": 1710746734,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 104442,
+        "num": 104442,
+        "word": "山东一淀粉肠厂家公开生产流程",
+        "onboard_time": 1710736062,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#大思政课一定要跟现实结合起来#"
+    }
+  }
+}
