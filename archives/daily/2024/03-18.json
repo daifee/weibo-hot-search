@@ -1,6 +1,6 @@
 {
   "startTime": 1710692394779,
-  "endTime": 1710767959050,
+  "endTime": 1710768853155,
   "band_list": [
     {
       "raw_hot": 6623497,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2539515,
-      "num": 2539515,
+      "raw_hot": 2541768,
+      "num": 2541768,
       "word": "审判与凤行",
       "onboard_time": 1710765453,
       "rank": 1,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 2141850,
-      "num": 874321,
+      "num": 1891074,
       "word": "27岁自杀规培生已签署三甲医院麻醉科",
       "onboard_time": 1710762513,
       "rank": 4,
@@ -171,6 +171,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 1624924,
+      "num": 1624924,
+      "word": "林狗还是帅的",
+      "onboard_time": 1710767192,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1604475,
       "num": 1604475,
       "word": "李宏毅家的衣服卖13块钱",
@@ -193,6 +201,14 @@
       "onboard_time": 1710739954,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1391549,
+      "num": 1391549,
+      "word": "湖南卫视开始了",
+      "onboard_time": 1710764851,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 1387464,
@@ -251,20 +267,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1188448,
-      "num": 1188448,
-      "word": "湖南卫视开始了",
-      "onboard_time": 1710764851,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1178507,
       "num": 1178507,
       "word": "能不能禁止东北人干翻译",
       "onboard_time": 1710757053,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1143909,
+      "num": 558555,
+      "word": "湖北16岁少年疑被同龄人杀害",
+      "onboard_time": 1710765213,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1109392,
@@ -283,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1093306,
+      "num": 1093306,
+      "word": "恒大地产被罚41.75亿元",
+      "onboard_time": 1710766114,
+      "rank": 4,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1088882,
       "num": 857503,
       "word": "王珞丹官宣是女儿是妈妈",
@@ -297,14 +321,6 @@
       "onboard_time": 1710758433,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1066871,
-      "num": 1066871,
-      "word": "恒大地产被罚41.75亿元",
-      "onboard_time": 1710766114,
-      "rank": 4,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1061845,
@@ -435,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 812509,
+      "num": 599816,
+      "word": "凯特多位朋友发声",
+      "onboard_time": 1710764734,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 790306,
       "num": 790306,
       "word": "刘亦菲灵蛇女王",
@@ -547,20 +571,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 718977,
-      "num": 558555,
-      "word": "湖北16岁少年疑被同龄人杀害",
-      "onboard_time": 1710765213,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 702433,
       "num": 702433,
       "word": "Angel父亲离世",
       "onboard_time": 1710682657,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 695302,
+      "num": 695302,
+      "word": "淀粉肠生产企业董事长直播吃淀粉肠",
+      "onboard_time": 1710763890,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 692766,
@@ -577,22 +601,6 @@
       "onboard_time": 1710759216,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 676109,
-      "num": 253814,
-      "word": "凯特多位朋友发声",
-      "onboard_time": 1710764734,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 670056,
-      "num": 670056,
-      "word": "淀粉肠生产企业董事长直播吃淀粉肠",
-      "onboard_time": 1710763890,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 655680,
@@ -699,14 +707,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 550301,
-      "num": 550301,
-      "word": "林狗还是帅的",
-      "onboard_time": 1710767192,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 550234,
       "num": 550234,
       "word": "张慧雯最近避避风头吧",
@@ -755,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 514799,
+      "num": 514799,
+      "word": "与凤行收视率",
+      "onboard_time": 1710767314,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 495694,
       "num": 574511,
       "word": "大爷瀑布下帮捞无人机游客心疼大喊不要了",
@@ -776,6 +784,14 @@
       "word": "张睿赵丽颖自拍",
       "onboard_time": 1710762692,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 485578,
+      "num": 485578,
+      "word": "咯咯哒",
+      "onboard_time": 1710766597,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -804,7 +820,7 @@
     },
     {
       "raw_hot": 466622,
-      "num": 340508,
+      "num": 461064,
       "word": "为什么普通人一年存三五万都难",
       "onboard_time": 1710766835,
       "rank": 20,
@@ -1027,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363132,
+      "num": 363132,
+      "word": "小桃又演小桃",
+      "onboard_time": 1710767558,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359707,
       "num": 359707,
       "word": "林孝埈说今天不是我的终点",
@@ -1073,14 +1097,6 @@
       "onboard_time": 1710754470,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 348191,
-      "num": 348191,
-      "word": "咯咯哒",
-      "onboard_time": 1710766597,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 343394,
@@ -1251,20 +1267,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285645,
-      "num": 285645,
-      "word": "与凤行收视率",
-      "onboard_time": 1710767314,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 285540,
       "num": 285540,
       "word": "大侦探有风的地方",
       "onboard_time": 1710734319,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 284518,
+      "num": 235070,
+      "word": "赵丽颖的左右脸",
+      "onboard_time": 1710767915,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 283440,
@@ -1281,6 +1297,14 @@
       "onboard_time": 1710766173,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274536,
+      "num": 274536,
+      "word": "成龙 荣耀发布会",
+      "onboard_time": 1710768633,
+      "rank": 24,
+      "category": "数码,艺人"
     },
     {
       "raw_hot": 274519,
@@ -1363,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257239,
+      "num": 235140,
+      "word": "与凤行战歌 唢呐",
+      "onboard_time": 1710767135,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252103,
       "num": 252103,
       "word": "与凤行台词",
@@ -1435,12 +1467,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 235140,
-      "num": 235140,
-      "word": "与凤行战歌 唢呐",
-      "onboard_time": 1710767135,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 236306,
+      "num": 236306,
+      "word": "16岁少年疑被同龄人杀害同学发声",
+      "onboard_time": 1710767616,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232961,
@@ -1481,6 +1513,14 @@
       "onboard_time": 1710717145,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 227209,
+      "num": 227209,
+      "word": "比酒精还厉害的肝脏刺客",
+      "onboard_time": 1710767192,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 226676,
@@ -1603,20 +1643,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207761,
-      "num": 207761,
-      "word": "比酒精还厉害的肝脏刺客",
-      "onboard_time": 1710767192,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 206346,
       "num": 206346,
       "word": "与凤行宣璐哭戏",
       "onboard_time": 1710735159,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206298,
+      "num": 206298,
+      "word": "英国王室",
+      "onboard_time": 1710768455,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 205989,
@@ -1907,14 +1947,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182251,
-      "num": 182251,
-      "word": "小桃又演小桃",
-      "onboard_time": 1710767558,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 181823,
       "num": 181823,
       "word": "猜猜我是谁定档",
@@ -1961,14 +1993,6 @@
       "onboard_time": 1710759031,
       "rank": 36,
       "category": "美食"
-    },
-    {
-      "raw_hot": 175222,
-      "num": 175222,
-      "word": "16岁少年疑被同龄人杀害同学发声",
-      "onboard_time": 1710767616,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174408,
@@ -2153,6 +2177,14 @@
       "onboard_time": 1710767733,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158135,
+      "num": 158135,
+      "word": "亲密关系是一场盛大的恐惧投射",
+      "onboard_time": 1710768096,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 157957,
@@ -2475,6 +2507,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 130368,
+      "num": 130368,
+      "word": "与凤行谐音梗",
+      "onboard_time": 1710768696,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129238,
       "num": 129238,
       "word": "Steam同时在线玩家连续三周创纪录",
@@ -2521,14 +2561,6 @@
       "onboard_time": 1710675033,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126915,
-      "num": 126915,
-      "word": "赵丽颖的左右脸",
-      "onboard_time": 1710767915,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 126083,
@@ -2675,6 +2707,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 110449,
+      "num": 110449,
+      "word": "NIP战胜RNG",
+      "onboard_time": 1710768579,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108302,
       "num": 108302,
       "word": "王者金沙联动短剧",
@@ -2747,6 +2787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78237,
+      "num": 605341,
+      "word": "赵明称荣耀Magic就是为AI而生",
+      "onboard_time": 1710766114,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 76798,
       "num": 1182260,
       "word": "祖国各地春日美食上新了",
@@ -2777,6 +2825,14 @@
       "onboard_time": 1710712697,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 70580,
+      "num": 1919122,
+      "word": "县在出发",
+      "onboard_time": 1710768158,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70348,
@@ -2817,14 +2873,6 @@
       "onboard_time": 1710716965,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60839,
-      "num": 569945,
-      "word": "赵明称荣耀Magic就是为AI而生",
-      "onboard_time": 1710766114,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 47782,
