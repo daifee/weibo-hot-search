@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710783255756,
+  "endTime": 1710786074719,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -44267,6 +44267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 124154,
+      "num": 124154,
+      "word": "初中生杀害同学手段残忍令人发指",
+      "onboard_time": 1710784400,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124117,
       "num": 124117,
       "word": "ChatGPT论文修改指令",
@@ -48932,7 +48940,7 @@
     },
     {
       "raw_hot": 78444,
-      "num": 73775,
+      "num": 76304,
       "word": "碎嘴凤凰",
       "onboard_time": 1710782001,
       "rank": 41,
@@ -49321,6 +49329,14 @@
       "onboard_time": 1710402033,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70637,
+      "num": 70637,
+      "word": "全国唯一以花命名的城市",
+      "onboard_time": 1710782960,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 70425,
@@ -50483,14 +50499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47055,
-      "num": 59648,
-      "word": "全国唯一以花命名的城市",
-      "onboard_time": 1710782960,
-      "rank": 38,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 46644,
       "num": 46644,
       "word": "刘亦菲芭莎总监合照",
@@ -50931,6 +50939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35023,
+      "num": 35023,
+      "word": "PRX赢了",
+      "onboard_time": 1710783380,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 35010,
       "num": 35010,
       "word": "减脂期最怕的凉拌菜",
@@ -51089,6 +51105,14 @@
       "onboard_time": 1709228959,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31814,
+      "num": 34989,
+      "word": "杨采薇 断崖上的兰草",
+      "onboard_time": 1710785897,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 31424,

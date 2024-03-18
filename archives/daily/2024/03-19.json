@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710783255756,
+  "endTime": 1710786074719,
   "band_list": [
     {
       "raw_hot": 1300358,
@@ -331,6 +331,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 124154,
+      "num": 124154,
+      "word": "初中生杀害同学手段残忍令人发指",
+      "onboard_time": 1710784400,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121415,
       "num": 121415,
       "word": "当代年轻人不想结婚的原因",
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 78444,
-      "num": 73775,
+      "num": 76304,
       "word": "碎嘴凤凰",
       "onboard_time": 1710782001,
       "rank": 41,
@@ -419,8 +427,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47055,
-      "num": 59648,
+      "raw_hot": 70637,
+      "num": 70637,
       "word": "全国唯一以花命名的城市",
       "onboard_time": 1710782960,
       "rank": 38,
@@ -435,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35023,
+      "num": 35023,
+      "word": "PRX赢了",
+      "onboard_time": 1710783380,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 34927,
       "num": 637968,
       "word": "县在出发",
@@ -443,7 +459,23 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14054,
+      "raw_hot": 32595,
+      "num": 35012,
+      "word": "小日子",
+      "onboard_time": 1710784698,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 31814,
+      "num": 34989,
+      "word": "杨采薇 断崖上的兰草",
+      "onboard_time": 1710785897,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 15389,
       "num": 221207,
       "word": "这是一堂生动的思政课",
       "onboard_time": 1710767192,

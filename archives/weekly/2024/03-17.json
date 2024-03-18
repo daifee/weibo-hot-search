@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710783255756,
+  "endTime": 1710786074719,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -5379,6 +5379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124154,
+      "num": 124154,
+      "word": "初中生杀害同学手段残忍令人发指",
+      "onboard_time": 1710784400,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123835,
       "num": 123835,
       "word": "别对我动心 追妻是终生事业",
@@ -5828,7 +5836,7 @@
     },
     {
       "raw_hot": 78444,
-      "num": 73775,
+      "num": 76304,
       "word": "碎嘴凤凰",
       "onboard_time": 1710782001,
       "rank": 41,
@@ -5905,6 +5913,14 @@
       "onboard_time": 1710712697,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 70637,
+      "num": 70637,
+      "word": "全国唯一以花命名的城市",
+      "onboard_time": 1710782960,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 70348,
@@ -6027,14 +6043,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 47055,
-      "num": 59648,
-      "word": "全国唯一以花命名的城市",
-      "onboard_time": 1710782960,
-      "rank": 38,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 46092,
       "num": 59634,
       "word": "别人爬山费腿刘学义爬山费嘴",
@@ -6075,6 +6083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35023,
+      "num": 35023,
+      "word": "PRX赢了",
+      "onboard_time": 1710783380,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 34925,
       "num": 541667,
       "word": "淘宝新势力周今晚8点开卖",
@@ -6091,6 +6107,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 32595,
+      "num": 35012,
+      "word": "小日子",
+      "onboard_time": 1710784698,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 32477,
       "num": 36567,
       "word": "鞠婧祎刘学义捂嘴情头",
@@ -6105,6 +6129,14 @@
       "onboard_time": 1710699321,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 31814,
+      "num": 34989,
+      "word": "杨采薇 断崖上的兰草",
+      "onboard_time": 1710785897,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 29693,
