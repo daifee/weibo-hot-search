@@ -1,6 +1,6 @@
 {
   "startTime": 1710692394779,
-  "endTime": 1710729248536,
+  "endTime": 1710731972105,
   "band_list": [
     {
       "raw_hot": 6623497,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1850498,
+      "num": 1850498,
+      "word": "淀粉肠摊主一晚0收入",
+      "onboard_time": 1710724653,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1663001,
       "num": 1663001,
       "word": "当地通报梅州一13岁男生猥亵女生",
@@ -67,6 +75,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1196343,
+      "num": 1196343,
+      "word": "与凤行首播4集不断更",
+      "onboard_time": 1710730112,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1109392,
       "num": 1109392,
       "word": "AppleID将成历史",
@@ -88,6 +104,14 @@
       "word": "邯郸村民尝试挖坑半天仅挖1米深",
       "onboard_time": 1710685542,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 957106,
+      "num": 957106,
+      "word": "今年315未曝光卫生巾问题",
+      "onboard_time": 1710730232,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -115,14 +139,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 845904,
-      "num": 317512,
-      "word": "淀粉肠摊主一晚0收入",
-      "onboard_time": 1710724653,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 784501,
       "num": 784501,
       "word": "95后男生自研甲油胶每月卖60万",
@@ -139,6 +155,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 783902,
+      "num": 783902,
+      "word": "妈妈卖红薯将女儿培养成村里首个博士",
+      "onboard_time": 1710726993,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 761652,
       "num": 761652,
       "word": "1岁女婴3楼坠下获爱心救助奇迹生还",
@@ -147,11 +171,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760309,
+      "num": 335478,
+      "word": "00后长期熬夜长出老年斑",
+      "onboard_time": 1710728673,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 757966,
       "num": 757966,
       "word": "张予曦王子奇演夫妻",
       "onboard_time": 1710727772,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 754831,
+      "num": 754831,
+      "word": "普京胜选后谈及台湾问题",
+      "onboard_time": 1710729510,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 742353,
+      "num": 742353,
+      "word": "刘学义郑合惠子cp感",
+      "onboard_time": 1710729573,
+      "rank": 9,
       "category": "剧集"
     },
     {
@@ -243,16 +291,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 503403,
-      "num": 503403,
-      "word": "妈妈卖红薯将女儿培养成村里首个博士",
-      "onboard_time": 1710726993,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 465455,
+      "num": 465455,
+      "word": "优酷开知否限免",
+      "onboard_time": 1710729455,
+      "rank": 13,
+      "category": "剧集"
     },
     {
-      "raw_hot": 440757,
-      "num": 250214,
+      "raw_hot": 459474,
+      "num": 333875,
       "word": "你会再给淀粉肠一个机会吗",
       "onboard_time": 1710726514,
       "rank": 22,
@@ -265,14 +313,6 @@
       "onboard_time": 1710687344,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 413403,
-      "num": 247021,
-      "word": "00后长期熬夜长出老年斑",
-      "onboard_time": 1710728673,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 407189,
@@ -305,6 +345,14 @@
       "onboard_time": 1710728435,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 379468,
+      "num": 379468,
+      "word": "凯特王妃或4月中旬公开健康状况",
+      "onboard_time": 1710731435,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 372731,
@@ -395,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 309153,
+      "num": 309153,
+      "word": "12岁以上可担刑责",
+      "onboard_time": 1710731435,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308567,
       "num": 308567,
       "word": "与凤行",
@@ -433,6 +489,14 @@
       "onboard_time": 1710676895,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281888,
+      "num": 281888,
+      "word": "费曼吴镇宇 父慈子孝",
+      "onboard_time": 1710731314,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 263954,
@@ -497,6 +561,14 @@
       "onboard_time": 1710724355,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 216056,
+      "num": 216056,
+      "word": "辛芷蕾高定封",
+      "onboard_time": 1710731612,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 215287,
@@ -595,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189309,
+      "num": 189309,
+      "word": "逃税罪定罪量刑数额标准提高",
+      "onboard_time": 1710731493,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187471,
       "num": 187471,
       "word": "白桃星座",
@@ -609,6 +689,14 @@
       "onboard_time": 1710723755,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181823,
+      "num": 181823,
+      "word": "猜猜我是谁定档",
+      "onboard_time": 1710731191,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 179717,
@@ -651,12 +739,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168111,
+      "num": 168111,
+      "word": "与凤行铭刻入骨主题曲",
+      "onboard_time": 1710730352,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165923,
       "num": 165923,
       "word": "这瓜吃的越来越扑朔迷离了",
       "onboard_time": 1710678995,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165494,
+      "num": 165494,
+      "word": "带我妈看演唱会被我爸说是疯子",
+      "onboard_time": 1710729334,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 164056,
@@ -673,6 +777,14 @@
       "onboard_time": 1710724953,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162457,
+      "num": 162457,
+      "word": "普京赢得选举后谈中俄关系",
+      "onboard_time": 1710730594,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 161244,
@@ -739,12 +851,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 148880,
+      "num": 148880,
+      "word": "张予曦新剧妆造",
+      "onboard_time": 1710731372,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148115,
       "num": 148115,
       "word": "TF三代集体营业",
       "onboard_time": 1710727291,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147463,
+      "num": 147463,
+      "word": "商家说淀粉肠自己都不吃",
+      "onboard_time": 1710731672,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143117,
@@ -787,12 +915,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135237,
+      "num": 135237,
+      "word": "黄旭熙solo告吹",
+      "onboard_time": 1710731914,
+      "rank": 46,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 134339,
       "num": 134339,
       "word": "安东尼绝平",
       "onboard_time": 1710720995,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134333,
+      "num": 134333,
+      "word": "在玉兰花教室上课是什么体验",
+      "onboard_time": 1710729933,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 133885,
@@ -809,6 +953,14 @@
       "onboard_time": 1710717868,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132893,
+      "num": 132893,
+      "word": "A股",
+      "onboard_time": 1710730054,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 129238,
@@ -923,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91961,
+      "num": 670079,
+      "word": "无糖可口可乐官宣了多少人",
+      "onboard_time": 1710730232,
+      "rank": 10,
+      "category": "美食"
+    },
+    {
       "raw_hot": 91814,
       "num": 117004,
       "word": "NCT DREAM回归预告",
@@ -961,6 +1121,14 @@
       "onboard_time": 1710712697,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 68496,
+      "num": 1102188,
+      "word": "春天里的大美中国",
+      "onboard_time": 1710729031,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62113,
@@ -1017,14 +1185,6 @@
       "onboard_time": 1710704596,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16682,
-      "num": 956280,
-      "word": "春天里的大美中国",
-      "onboard_time": 1710729031,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14664,
