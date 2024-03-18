@@ -1,0 +1,410 @@
+{
+  "runTime": 1710767959050,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3017858,
+        "num": 3017858,
+        "word": "与凤行",
+        "onboard_time": 1710720272,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2539515,
+        "num": 2539515,
+        "word": "审判与凤行",
+        "onboard_time": 1710765453,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70348,
+        "num": 1819455,
+        "word": "这是一堂生动的思政课",
+        "onboard_time": 1710767192,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1188448,
+        "num": 1188448,
+        "word": "湖南卫视开始了",
+        "onboard_time": 1710764851,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1066871,
+        "num": 1066871,
+        "word": "恒大地产被罚41.75亿元",
+        "onboard_time": 1710766114,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1061845,
+        "num": 1061845,
+        "word": "许家印拟被终身证券市场禁入",
+        "onboard_time": 1710765812,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 713349,
+        "num": 713349,
+        "word": "查尔斯",
+        "onboard_time": 1710750335,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 670056,
+        "num": 670056,
+        "word": "淀粉肠生产企业董事长直播吃淀粉肠",
+        "onboard_time": 1710763890,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667764,
+        "num": 667764,
+        "word": "早上六点起床跟八点起床的区别",
+        "onboard_time": 1710761014,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 624069,
+        "num": 624069,
+        "word": "与凤行特效",
+        "onboard_time": 1710764493,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2141850,
+        "num": 623440,
+        "word": "27岁自杀规培生已签署三甲医院麻醉科",
+        "onboard_time": 1710762513,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 875268,
+        "num": 601932,
+        "word": "戴安娜王妃弟弟就凯特阴谋论发声",
+        "onboard_time": 1710759515,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 781880,
+        "num": 585123,
+        "word": "杨幂小拇指好短",
+        "onboard_time": 1710759515,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 60839,
+        "num": 569945,
+        "word": "赵明称荣耀Magic就是为AI而生",
+        "onboard_time": 1710766114,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 718977,
+        "num": 558555,
+        "word": "湖北16岁少年疑被同龄人杀害",
+        "onboard_time": 1710765213,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550301,
+        "num": 550301,
+        "word": "林狗还是帅的",
+        "onboard_time": 1710767192,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 544625,
+        "num": 544625,
+        "word": "你以为很卫生其实很脏的行为",
+        "onboard_time": 1710749497,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 370754,
+        "num": 370754,
+        "word": "裴涩琪怀孕",
+        "onboard_time": 1710743196,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348191,
+        "num": 348191,
+        "word": "咯咯哒",
+        "onboard_time": 1710766597,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343394,
+        "num": 343394,
+        "word": "与凤行 广告",
+        "onboard_time": 1710765633,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466622,
+        "num": 340508,
+        "word": "为什么普通人一年存三五万都难",
+        "onboard_time": 1710766835,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311746,
+        "num": 311746,
+        "word": "张睿赵丽颖自拍",
+        "onboard_time": 1710762692,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293702,
+        "num": 293702,
+        "word": "赵丽颖配音",
+        "onboard_time": 1710766293,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285645,
+        "num": 285645,
+        "word": "与凤行收视率",
+        "onboard_time": 1710767314,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273701,
+        "num": 273701,
+        "word": "能不能禁止东北人干翻译",
+        "onboard_time": 1710757053,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270606,
+        "num": 270606,
+        "word": "凯特现身",
+        "onboard_time": 1710734672,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281873,
+        "num": 268037,
+        "word": "罗伯特表白赵丽颖沈璃",
+        "onboard_time": 1710766173,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264088,
+        "num": 264088,
+        "word": "直播间买上百万金条迟迟不发货",
+        "onboard_time": 1710761374,
+        "rank": 27,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 257814,
+        "num": 257814,
+        "word": "叶蓁蓁现实版农夫与蛇",
+        "onboard_time": 1710764376,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190451,
+        "num": 254765,
+        "word": "云南大理突发林火",
+        "onboard_time": 1710763053,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676109,
+        "num": 253814,
+        "word": "凯特多位朋友发声",
+        "onboard_time": 1710764734,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 252103,
+        "num": 252103,
+        "word": "与凤行台词",
+        "onboard_time": 1710766173,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247582,
+        "num": 247582,
+        "word": "刘亦菲灵蛇女王",
+        "onboard_time": 1710753453,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 235140,
+        "num": 235140,
+        "word": "与凤行战歌 唢呐",
+        "onboard_time": 1710767135,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230368,
+        "num": 230368,
+        "word": "韩素希回国了",
+        "onboard_time": 1710758433,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207761,
+        "num": 207761,
+        "word": "比酒精还厉害的肝脏刺客",
+        "onboard_time": 1710767192,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182251,
+        "num": 182251,
+        "word": "小桃又演小桃",
+        "onboard_time": 1710767558,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178409,
+        "num": 178409,
+        "word": "鸡骨泥运用于淀粉肠中不算违规",
+        "onboard_time": 1710749435,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176244,
+        "num": 176244,
+        "word": "小县城最好听的名字",
+        "onboard_time": 1710760714,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221274,
+        "num": 175903,
+        "word": "与凤行热度",
+        "onboard_time": 1710765577,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175222,
+        "num": 175222,
+        "word": "16岁少年疑被同龄人杀害同学发声",
+        "onboard_time": 1710767616,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171660,
+        "num": 171660,
+        "word": "价格不低但利用率极低的家电",
+        "onboard_time": 1710762631,
+        "rank": 41,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 169562,
+        "num": 169562,
+        "word": "我国渤海中北部发现亿吨级油田",
+        "onboard_time": 1710762332,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 158504,
+        "num": 158504,
+        "word": "海月金乌负日CG",
+        "onboard_time": 1710767733,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152914,
+        "num": 152914,
+        "word": "肠妃回宫",
+        "onboard_time": 1710751476,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149465,
+        "num": 149465,
+        "word": "与凤行破纪录",
+        "onboard_time": 1710767733,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148883,
+        "num": 148883,
+        "word": "李宏毅家的衣服卖13块钱",
+        "onboard_time": 1710744631,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 128157,
+        "num": 128157,
+        "word": "郑合惠子否认退圈",
+        "onboard_time": 1710747094,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127241,
+        "num": 127241,
+        "word": "林俊杰咳嗽卡点",
+        "onboard_time": 1710758015,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126915,
+        "num": 126915,
+        "word": "赵丽颖的左右脸",
+        "onboard_time": 1710767915,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#立德树人#"
+    }
+  }
+}
