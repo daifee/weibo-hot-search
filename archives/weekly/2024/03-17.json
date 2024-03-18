@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710789266877,
+  "endTime": 1710790457024,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -6155,6 +6155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32017,
+      "num": 32017,
+      "word": "高度近视的人需要注意这四件事",
+      "onboard_time": 1710788357,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 29693,
       "num": 385801,
       "word": "蛋仔守护月",
@@ -6179,20 +6187,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 23314,
-      "num": 23314,
-      "word": "高度近视的人需要注意这四件事",
-      "onboard_time": 1710788357,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 23188,
       "num": 337459,
       "word": "赵明称荣耀手机运动摄影遥遥领先",
       "onboard_time": 1710771516,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 21728,
+      "num": 21728,
+      "word": "八段锦国家体育总局完整版",
+      "onboard_time": 1710788537,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 20835,
@@ -6225,14 +6233,6 @@
       "onboard_time": 1710704596,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18204,
-      "num": 20802,
-      "word": "八段锦国家体育总局完整版",
-      "onboard_time": 1710788537,
-      "rank": 48,
-      "category": "运动健身"
     },
     {
       "raw_hot": 15131,
