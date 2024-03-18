@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710761641198,
+  "endTime": 1710765044788,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -169,6 +169,14 @@
       "onboard_time": 1710676956,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3346122,
+      "num": 3346122,
+      "word": "与凤行",
+      "onboard_time": 1709788414,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 3312035,
@@ -1329,6 +1337,14 @@
       "onboard_time": 1709625152,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1708191,
+      "num": 874321,
+      "word": "27岁自杀规培生已签署三甲医院麻醉科",
+      "onboard_time": 1710762513,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1703444,
@@ -3915,6 +3931,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 1024321,
+      "num": 985204,
+      "word": "杨幂小拇指好短",
+      "onboard_time": 1710759515,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1024081,
       "num": 1024081,
       "word": "谈了四个月就结婚是什么体验",
@@ -4115,6 +4139,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 993579,
+      "num": 874343,
+      "word": "早上六点起床跟八点起床的区别",
+      "onboard_time": 1710761014,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 992499,
       "num": 992499,
       "word": "山东事业编",
@@ -4169,14 +4201,6 @@
       "onboard_time": 1709906912,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 985204,
-      "num": 985204,
-      "word": "杨幂小拇指好短",
-      "onboard_time": 1710759515,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 984133,
@@ -5033,6 +5057,14 @@
       "onboard_time": 1709524351,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 873761,
+      "num": 873761,
+      "word": "查尔斯",
+      "onboard_time": 1710750335,
+      "rank": 26,
+      "category": "国外时政"
     },
     {
       "raw_hot": 872567,
@@ -6497,14 +6529,6 @@
       "onboard_time": 1710226591,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 739054,
-      "num": 739054,
-      "word": "查尔斯",
-      "onboard_time": 1710750335,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 738856,
@@ -10699,6 +10723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 527960,
+      "num": 527960,
+      "word": "直播间买上百万金条迟迟不发货",
+      "onboard_time": 1710761374,
+      "rank": 31,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 527939,
       "num": 680737,
       "word": "王楚钦孙颖莎3比0法国组合",
@@ -11779,6 +11811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 488622,
+      "num": 488622,
+      "word": "张睿赵丽颖自拍",
+      "onboard_time": 1710762692,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 488328,
       "num": 346860,
       "word": "感受到四点半下班的好处了",
@@ -11825,6 +11865,14 @@
       "onboard_time": 1710046590,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 487221,
+      "num": 525340,
+      "word": "淀粉肠生产企业董事长直播吃淀粉肠",
+      "onboard_time": 1710763890,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486953,
@@ -12761,6 +12809,14 @@
       "onboard_time": 1709893888,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 458912,
+      "num": 458912,
+      "word": "与凤行特效",
+      "onboard_time": 1710321334,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 458858,
@@ -14363,14 +14419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 413356,
-      "num": 413356,
-      "word": "与凤行",
-      "onboard_time": 1709788414,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 412192,
       "num": 412192,
       "word": "演员尚梦初逝世",
@@ -14937,14 +14985,6 @@
       "onboard_time": 1709540672,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397160,
-      "num": 397160,
-      "word": "与凤行特效",
-      "onboard_time": 1710321334,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 396829,
@@ -18347,14 +18387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 317751,
-      "num": 187664,
-      "word": "早上六点起床跟八点起床的区别",
-      "onboard_time": 1710761014,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 317669,
       "num": 317669,
       "word": "易烊千玺舒淇合作新片将开机",
@@ -18753,6 +18785,14 @@
       "onboard_time": 1709255670,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 311270,
+      "num": 513328,
+      "word": "云南大理突发林火",
+      "onboard_time": 1710763053,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311067,
@@ -26939,6 +26979,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 210725,
+      "num": 210725,
+      "word": "我国渤海中北部发现亿吨级油田",
+      "onboard_time": 1710762332,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 210557,
       "num": 208791,
       "word": "吴磊直播",
@@ -27657,6 +27705,14 @@
       "onboard_time": 1710314193,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205444,
+      "num": 175693,
+      "word": "湖南卫视开始了",
+      "onboard_time": 1710764851,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 205415,
@@ -29691,6 +29747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195230,
+      "num": 195230,
+      "word": "林俊杰咳嗽卡点",
+      "onboard_time": 1710758015,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195202,
       "num": 195202,
       "word": "恋与深空 童心发型",
@@ -30739,6 +30803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189839,
+      "num": 189839,
+      "word": "留学生才懂的饭缩力照片",
+      "onboard_time": 1710764253,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189830,
       "num": 204722,
       "word": "省考估分",
@@ -31523,6 +31595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185610,
+      "num": 185610,
+      "word": "叶蓁蓁现实版农夫与蛇",
+      "onboard_time": 1710764376,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185562,
       "num": 309074,
       "word": "RNG对战TT",
@@ -31793,14 +31873,6 @@
       "onboard_time": 1709425165,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183732,
-      "num": 183732,
-      "word": "直播间买上百万金条迟迟不发货",
-      "onboard_time": 1710761374,
-      "rank": 31,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 183698,
@@ -32683,6 +32755,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 179301,
+      "num": 175329,
+      "word": "凯特多位朋友发声",
+      "onboard_time": 1710764734,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 179284,
       "num": 179284,
       "word": "SEVENTEEN加场",
@@ -33243,6 +33323,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 175755,
+      "num": 175755,
+      "word": "价格不低但利用率极低的家电",
+      "onboard_time": 1710762631,
+      "rank": 29,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 175727,
       "num": 175727,
       "word": "花间令桃林氛围",
@@ -33497,6 +33585,14 @@
       "onboard_time": 1709875470,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174408,
+      "num": 174408,
+      "word": "李现回武汉",
+      "onboard_time": 1710763171,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 174337,
@@ -37003,14 +37099,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 156340,
-      "num": 156340,
-      "word": "林俊杰咳嗽卡点",
-      "onboard_time": 1710758015,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 156308,
       "num": 156308,
       "word": "雷军",
@@ -37401,6 +37489,14 @@
       "onboard_time": 1710121651,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154626,
+      "num": 154626,
+      "word": "荣耀发布会",
+      "onboard_time": 1710762931,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 154549,
@@ -43931,6 +44027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122451,
+      "num": 122451,
+      "word": "NIP对战RNG",
+      "onboard_time": 1710763593,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122427,
       "num": 122427,
       "word": "小孩哥把导盲犬的样子讲给它主人听",
@@ -46227,6 +46331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 108274,
+      "num": 108274,
+      "word": "当老师需要憋笑",
+      "onboard_time": 1710764013,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108235,
       "num": 108235,
       "word": "用各种饮料还原孤独摇滚",
@@ -48475,6 +48587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73288,
+      "num": 220083,
+      "word": "大学生买游戏本还是轻薄本",
+      "onboard_time": 1710762994,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 73085,
       "num": 73085,
       "word": "三类人不宜长时间走路",
@@ -49833,6 +49953,14 @@
       "onboard_time": 1709276432,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42687,
+      "num": 431540,
+      "word": "新势力周发券发疯了",
+      "onboard_time": 1710763233,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 42536,
@@ -51434,6 +51562,9 @@
     },
     {
       "word": "#创新课堂教学给学生深刻的学习体验#"
+    },
+    {
+      "word": "#立德树人#"
     }
   ]
 }
