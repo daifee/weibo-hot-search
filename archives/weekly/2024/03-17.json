@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710750082234,
+  "endTime": 1710750875962,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -443,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1088882,
+      "num": 857503,
+      "word": "王珞丹官宣是女儿是妈妈",
+      "onboard_time": 1710747517,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1068426,
       "num": 1068426,
       "word": "阮经天ins",
@@ -611,12 +619,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 857503,
-      "num": 857503,
-      "word": "王珞丹官宣是女儿是妈妈",
-      "onboard_time": 1710747517,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 858744,
+      "num": 485029,
+      "word": "你以为很卫生其实很脏的行为",
+      "onboard_time": 1710749497,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 826561,
@@ -857,6 +865,14 @@
       "onboard_time": 1710648452,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 651888,
+      "num": 651888,
+      "word": "鸡骨泥运用于淀粉肠中不算违规",
+      "onboard_time": 1710749435,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 651754,
@@ -1147,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 530274,
+      "num": 530274,
+      "word": "宋轶 红山动物园",
+      "onboard_time": 1710749917,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 524317,
       "num": 515522,
       "word": "郑合惠子否认退圈",
@@ -1283,14 +1307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 465457,
-      "num": 170834,
-      "word": "你以为很卫生其实很脏的行为",
-      "onboard_time": 1710749497,
-      "rank": 30,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 465455,
       "num": 465455,
       "word": "优酷开知否限免",
@@ -1305,14 +1321,6 @@
       "onboard_time": 1710652592,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 463668,
-      "num": 220441,
-      "word": "鸡骨泥运用于淀粉肠中不算违规",
-      "onboard_time": 1710749435,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 459474,
@@ -1379,6 +1387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 448838,
+      "num": 249741,
+      "word": "我爸退出了家族群",
+      "onboard_time": 1710749435,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 448548,
       "num": 448548,
       "word": "上官芷五集换了十三套衣服",
@@ -1409,6 +1425,14 @@
       "onboard_time": 1710670353,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433192,
+      "num": 433192,
+      "word": "主办方公布梅西缺阵退款方案",
+      "onboard_time": 1710749737,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 432677,
@@ -1729,14 +1753,6 @@
       "onboard_time": 1710591093,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 362322,
-      "num": 215378,
-      "word": "我爸退出了家族群",
-      "onboard_time": 1710749435,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 360955,
@@ -2411,6 +2427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236531,
+      "num": 236531,
+      "word": "卖淀粉肠大哥改行卖烤面筋",
+      "onboard_time": 1710749379,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 235118,
       "num": 235118,
       "word": "TES战胜WE",
@@ -2723,14 +2747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206191,
-      "num": 206191,
-      "word": "主办方公布梅西缺阵退款方案",
-      "onboard_time": 1710749737,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205998,
       "num": 343610,
       "word": "李菲儿向锦超道歉",
@@ -2883,6 +2899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197970,
+      "num": 197970,
+      "word": "查尔斯",
+      "onboard_time": 1710750335,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 197541,
       "num": 197541,
       "word": "与凤行歌单",
@@ -2961,6 +2985,14 @@
       "onboard_time": 1710723696,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 194650,
+      "num": 194650,
+      "word": "第三代骁龙8S移动平台",
+      "onboard_time": 1710749857,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 194540,
@@ -3427,14 +3459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169952,
-      "num": 169952,
-      "word": "第三代骁龙8S移动平台",
-      "onboard_time": 1710749857,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 169436,
       "num": 169436,
       "word": "理想MEGA订单量未达预期",
@@ -3449,6 +3473,14 @@
       "onboard_time": 1710641012,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 169173,
+      "num": 169173,
+      "word": "化妆品微商送毒小样让客人以为功效好",
+      "onboard_time": 1710746734,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 168111,
@@ -3595,20 +3627,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 160769,
-      "num": 160769,
-      "word": "化妆品微商送毒小样让客人以为功效好",
-      "onboard_time": 1710746734,
-      "rank": 41,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 159291,
-      "num": 159291,
-      "word": "卖淀粉肠大哥改行卖烤面筋",
-      "onboard_time": 1710749379,
-      "rank": 33,
-      "category": "美食"
+      "raw_hot": 158624,
+      "num": 158624,
+      "word": "F1抢票",
+      "onboard_time": 1710750279,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 158579,
@@ -3729,14 +3753,6 @@
       "onboard_time": 1710724772,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152999,
-      "num": 152999,
-      "word": "宋轶 红山动物园",
-      "onboard_time": 1710749917,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 152791,
@@ -4017,6 +4033,14 @@
       "onboard_time": 1710748056,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136579,
+      "num": 136579,
+      "word": "五哈4和鹿晗新歌适配度",
+      "onboard_time": 1710750335,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 136390,
@@ -4409,6 +4433,14 @@
       "onboard_time": 1710721354,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114419,
+      "num": 114419,
+      "word": "山东大馒头版AD钙奶上线",
+      "onboard_time": 1710750517,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 114088,
