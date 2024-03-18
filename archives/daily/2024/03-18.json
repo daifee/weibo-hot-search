@@ -1,6 +1,6 @@
 {
   "startTime": 1710692394779,
-  "endTime": 1710740041259,
+  "endTime": 1710742982446,
   "band_list": [
     {
       "raw_hot": 6623497,
@@ -75,6 +75,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1837728,
+      "num": 1837728,
+      "word": "瓦妮莎",
+      "onboard_time": 1710738815,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1811033,
+      "num": 1811033,
+      "word": "被未满12岁男孩杀害女童父亲提起申诉",
+      "onboard_time": 1710740913,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1663001,
       "num": 1663001,
       "word": "当地通报梅州一13岁男生猥亵女生",
@@ -99,11 +115,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1400033,
+      "num": 1400033,
+      "word": "鞠婧祎闭错眼了",
+      "onboard_time": 1710739954,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1387464,
       "num": 1387464,
       "word": "凯特王妃或4月中旬公开健康状况",
       "onboard_time": 1710731435,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1275311,
+      "num": 1275311,
+      "word": "专家称今年刚需买房的人可以下手了",
+      "onboard_time": 1710737021,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -113,14 +145,6 @@
       "onboard_time": 1710719192,
       "rank": 4,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1223062,
-      "num": 1223062,
-      "word": "专家称今年刚需买房的人可以下手了",
-      "onboard_time": 1710737021,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1196343,
@@ -193,14 +217,6 @@
       "onboard_time": 1710732393,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 919549,
-      "num": 212439,
-      "word": "瓦妮莎",
-      "onboard_time": 1710738815,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 911068,
@@ -419,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 533181,
+      "num": 533181,
+      "word": "杀害4岁女童的男孩接受6个月心理矫治",
+      "onboard_time": 1710741873,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 531958,
       "num": 531958,
       "word": "徐娇再喊话竹内亮",
@@ -427,12 +451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 504201,
-      "num": 499970,
+      "raw_hot": 520912,
+      "num": 520912,
       "word": "赵丽颖徐海乔9年后合作",
       "onboard_time": 1710737977,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 488323,
+      "num": 488323,
+      "word": "辛芷蕾连穿8套顶级高定",
+      "onboard_time": 1710741217,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 471296,
@@ -579,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 356726,
+      "num": 240818,
+      "word": "父母退休金成了相亲门槛",
+      "onboard_time": 1710740431,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 353535,
       "num": 353535,
       "word": "刘少林",
@@ -691,6 +731,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 292369,
+      "num": 235574,
+      "word": "小伙昏睡两天称穿越见去世表哥实为得癔症",
+      "onboard_time": 1710741755,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288076,
       "num": 288076,
       "word": "邯郸杀人案嫌犯被带走时神态平静",
@@ -777,6 +825,14 @@
       "onboard_time": 1710732333,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 229949,
+      "num": 229949,
+      "word": "种地吧种了郁金香",
+      "onboard_time": 1710742651,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 229080,
@@ -1035,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180874,
+      "num": 180874,
+      "word": "我工作",
+      "onboard_time": 1710739714,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179717,
       "num": 179717,
       "word": "孙龙 我相信孙龙不止于此",
@@ -1043,12 +1107,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178912,
+      "num": 178912,
+      "word": "赵丽颖工作室包场",
+      "onboard_time": 1710742115,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176853,
       "num": 176853,
       "word": "姐姐拯救了小时候的自己",
       "onboard_time": 1710689860,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175033,
+      "num": 175033,
+      "word": "马卉发文致歉",
+      "onboard_time": 1710742774,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 172858,
@@ -1099,14 +1179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166487,
-      "num": 166487,
-      "word": "我工作",
-      "onboard_time": 1710739714,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 165923,
       "num": 165923,
       "word": "这瓜吃的越来越扑朔迷离了",
@@ -1139,6 +1211,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 162379,
+      "num": 162379,
+      "word": "摊贩称近期淀粉肠销量并未大幅下降",
+      "onboard_time": 1710741873,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161244,
       "num": 161244,
       "word": "真的有人上班从早忙到晚吗",
@@ -1161,6 +1241,14 @@
       "onboard_time": 1710726456,
       "rank": 40,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 154120,
+      "num": 154120,
+      "word": "烈焰 仙界是个巨大的草台班子",
+      "onboard_time": 1710741815,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 153893,
@@ -1224,14 +1312,6 @@
       "word": "TF三代集体营业",
       "onboard_time": 1710727291,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 146916,
-      "num": 146916,
-      "word": "鞠婧祎闭错眼了",
-      "onboard_time": 1710739954,
-      "rank": 42,
       "category": "艺人"
     },
     {
@@ -1331,6 +1411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 130890,
+      "num": 130890,
+      "word": "坨坨面",
+      "onboard_time": 1710742055,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 129238,
       "num": 129238,
       "word": "Steam同时在线玩家连续三周创纪录",
@@ -1427,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113064,
+      "num": 113064,
+      "word": "甘肃麻辣涮老板火速贴字爆改招牌",
+      "onboard_time": 1710742954,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 106198,
       "num": 117006,
       "word": "蒲熠星晒何炅的纪念蛋糕",
@@ -1473,6 +1569,14 @@
       "onboard_time": 1710690696,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79572,
+      "num": 283658,
+      "word": "智己这回横着走了",
+      "onboard_time": 1710740493,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 79001,
@@ -1545,6 +1649,14 @@
       "onboard_time": 1710699321,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27913,
+      "num": 163580,
+      "word": "虞书欣清冷仙紫妆",
+      "onboard_time": 1710741995,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 26902,
