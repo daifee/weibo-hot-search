@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710768853155,
+  "endTime": 1710771447527,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -393,6 +393,14 @@
       "onboard_time": 1709786793,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2604785,
+      "num": 2604785,
+      "word": "林狗还是帅的",
+      "onboard_time": 1710767192,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 2604565,
@@ -1547,14 +1555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1624924,
-      "num": 1624924,
-      "word": "林狗还是帅的",
-      "onboard_time": 1710767192,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1619908,
       "num": 1619908,
       "word": "建议国家全面禁止未成年人网游",
@@ -2539,6 +2539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1287266,
+      "num": 599816,
+      "word": "凯特多位朋友发声",
+      "onboard_time": 1710764734,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1284977,
       "num": 1099698,
       "word": "女子买茅台验真伪被死亡威胁",
@@ -3315,6 +3323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1123525,
+      "num": 1123525,
+      "word": "恒大地产被罚41.75亿元",
+      "onboard_time": 1710766114,
+      "rank": 4,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1120464,
       "num": 1120464,
       "word": "张学友疑因上呼吸道感染就医",
@@ -3529,14 +3545,6 @@
       "onboard_time": 1709266414,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1093306,
-      "num": 1093306,
-      "word": "恒大地产被罚41.75亿元",
-      "onboard_time": 1710766114,
-      "rank": 4,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1093258,
@@ -4225,6 +4233,14 @@
       "onboard_time": 1710227795,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 990542,
+      "num": 486803,
+      "word": "英国王室",
+      "onboard_time": 1710768455,
+      "rank": 35,
+      "category": "国外时政"
     },
     {
       "raw_hot": 990522,
@@ -5707,14 +5723,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 812509,
-      "num": 599816,
-      "word": "凯特多位朋友发声",
-      "onboard_time": 1710764734,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 810838,
       "num": 306702,
       "word": "印尼一航班2名飞行员同时睡着28分钟",
@@ -6443,6 +6451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 749583,
+      "num": 749583,
+      "word": "与凤行收视率",
+      "onboard_time": 1710767314,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 748736,
       "num": 748736,
       "word": "东方甄选将董宇辉商标转让给与辉同行",
@@ -7057,6 +7073,14 @@
       "onboard_time": 1710595657,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 711197,
+      "num": 481176,
+      "word": "赵丽颖的左右脸",
+      "onboard_time": 1710767915,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 710033,
@@ -7825,6 +7849,14 @@
       "onboard_time": 1709963368,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 663012,
+      "num": 471122,
+      "word": "杨幂戴了好多手串",
+      "onboard_time": 1710770079,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 662822,
@@ -11019,6 +11051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 521075,
+      "num": 469490,
+      "word": "恒大地产回应被处罚",
+      "onboard_time": 1710769178,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 520912,
       "num": 520912,
       "word": "赵丽颖徐海乔9年后合作",
@@ -11129,14 +11169,6 @@
       "onboard_time": 1710219690,
       "rank": 23,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 514799,
-      "num": 514799,
-      "word": "与凤行收视率",
-      "onboard_time": 1710767314,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 514629,
@@ -12587,6 +12619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 467673,
+      "num": 461064,
+      "word": "为什么普通人一年存三五万都难",
+      "onboard_time": 1710766835,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 467665,
       "num": 467665,
       "word": "邯郸",
@@ -12633,14 +12673,6 @@
       "onboard_time": 1710590314,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 466622,
-      "num": 461064,
-      "word": "为什么普通人一年存三五万都难",
-      "onboard_time": 1710766835,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 466476,
@@ -13891,6 +13923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 431456,
+      "num": 431456,
+      "word": "16岁少年疑被同龄人杀害同学发声",
+      "onboard_time": 1710767616,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431392,
       "num": 431392,
       "word": "眼泪女王",
@@ -14569,6 +14609,14 @@
       "onboard_time": 1710326913,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410507,
+      "num": 410507,
+      "word": "小桃又演小桃",
+      "onboard_time": 1710767558,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 410014,
@@ -16259,6 +16307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 367705,
+      "num": 367705,
+      "word": "林更新刀我别用宇文玥",
+      "onboard_time": 1710769776,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367658,
       "num": 367658,
       "word": "华为P70系列手机延期发布",
@@ -16449,14 +16505,6 @@
       "onboard_time": 1710425615,
       "rank": 36,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 363132,
-      "num": 363132,
-      "word": "小桃又演小桃",
-      "onboard_time": 1710767558,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 363118,
@@ -16849,6 +16897,14 @@
       "onboard_time": 1709535629,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 353379,
+      "num": 353379,
+      "word": "许家印决策并组织实施财务造假",
+      "onboard_time": 1710770678,
+      "rank": 24,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 353293,
@@ -18435,6 +18491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 318275,
+      "num": 318275,
+      "word": "赵丽颖 扛剧",
+      "onboard_time": 1710770855,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318273,
       "num": 318273,
       "word": "申论格式",
@@ -18889,6 +18953,14 @@
       "onboard_time": 1710763053,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311078,
+      "num": 311078,
+      "word": "金智媛哭戏",
+      "onboard_time": 1710770353,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 311067,
@@ -20243,6 +20315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 289089,
+      "num": 411211,
+      "word": "荣耀新品屏幕研发投入超5亿",
+      "onboard_time": 1710770560,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 288904,
       "num": 288904,
       "word": "贝索斯再成世界首富",
@@ -20465,14 +20545,6 @@
       "onboard_time": 1710645694,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 284518,
-      "num": 235070,
-      "word": "赵丽颖的左右脸",
-      "onboard_time": 1710767915,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 284504,
@@ -20787,6 +20859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 278674,
+      "num": 278674,
+      "word": "成龙 荣耀发布会",
+      "onboard_time": 1710768633,
+      "rank": 24,
+      "category": "数码,艺人"
+    },
+    {
       "raw_hot": 278377,
       "num": 278377,
       "word": "世界之外剧情",
@@ -21065,14 +21145,6 @@
       "onboard_time": 1709349751,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 274536,
-      "num": 274536,
-      "word": "成龙 荣耀发布会",
-      "onboard_time": 1710768633,
-      "rank": 24,
-      "category": "数码,艺人"
     },
     {
       "raw_hot": 274519,
@@ -21897,6 +21969,14 @@
       "onboard_time": 1709384491,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 263203,
+      "num": 263203,
+      "word": "比酒精还厉害的肝脏刺客",
+      "onboard_time": 1710767192,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 263160,
@@ -23707,6 +23787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241482,
+      "num": 241482,
+      "word": "与凤行谐音梗",
+      "onboard_time": 1710768696,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241452,
       "num": 241452,
       "word": "建议考研初试借鉴高考统一命题",
@@ -23971,6 +24059,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 238575,
+      "num": 238575,
+      "word": "WINNER澳门",
+      "onboard_time": 1710768996,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 238368,
       "num": 238368,
       "word": "黄奕曝光明星饮食状况",
@@ -24177,14 +24273,6 @@
       "onboard_time": 1709546133,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 236306,
-      "num": 236306,
-      "word": "16岁少年疑被同龄人杀害同学发声",
-      "onboard_time": 1710767616,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236300,
@@ -24963,14 +25051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 227209,
-      "num": 227209,
-      "word": "比酒精还厉害的肝脏刺客",
-      "onboard_time": 1710767192,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 227153,
       "num": 220749,
       "word": "在卫生间感受到了职场的爱",
@@ -25592,6 +25672,14 @@
       "word": "李想朋友圈",
       "onboard_time": 1710209490,
       "rank": 39,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 222073,
+      "num": 222073,
+      "word": "焦点访谈曝光无底线骗流量短视频",
+      "onboard_time": 1710770199,
+      "rank": 35,
       "category": "互联网"
     },
     {
@@ -26275,6 +26363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 216420,
+      "num": 216420,
+      "word": "不可能的婚礼",
+      "onboard_time": 1710769597,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216399,
       "num": 216399,
       "word": "燕郊爆炸事故",
@@ -26689,6 +26785,14 @@
       "onboard_time": 1709633370,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213864,
+      "num": 213864,
+      "word": "下雪天千万别把雨刷立起来",
+      "onboard_time": 1710770739,
+      "rank": 37,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 213735,
@@ -27777,14 +27881,6 @@
       "onboard_time": 1710735159,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206298,
-      "num": 206298,
-      "word": "英国王室",
-      "onboard_time": 1710768455,
-      "rank": 35,
-      "category": "国外时政"
     },
     {
       "raw_hot": 206136,
@@ -30659,6 +30755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191381,
+      "num": 191381,
+      "word": "恒大地产两年财务造假5640亿元",
+      "onboard_time": 1710770975,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191356,
       "num": 191356,
       "word": "女程序员收到公司防脱发大礼包",
@@ -31153,6 +31257,14 @@
       "onboard_time": 1709552432,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189094,
+      "num": 189094,
+      "word": "Hero澄清最近不实言论",
+      "onboard_time": 1710770560,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 188974,
@@ -32219,6 +32331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182673,
+      "num": 182673,
+      "word": "北京大风",
+      "onboard_time": 1710770316,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182630,
       "num": 182630,
       "word": "现在的理发店太尴尬了",
@@ -33009,6 +33129,14 @@
       "onboard_time": 1710688363,
       "rank": 44,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 178966,
+      "num": 178966,
+      "word": "毕竟是九亿少女的梦",
+      "onboard_time": 1710771217,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 178915,
@@ -34577,6 +34705,14 @@
       "onboard_time": 1709894670,
       "rank": 36,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 169675,
+      "num": 169675,
+      "word": "男子陪父亲体检顺便做胃肠镜救下一命",
+      "onboard_time": 1710771038,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 169630,
@@ -36827,6 +36963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158416,
+      "num": 158416,
+      "word": "赵丽颖跳舞像做广播体操",
+      "onboard_time": 1710769416,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 158360,
       "num": 158360,
       "word": "眼泪女王OST",
@@ -37745,6 +37889,14 @@
       "onboard_time": 1709257350,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154329,
+      "num": 154329,
+      "word": "过日子什么时候成了形容词",
+      "onboard_time": 1710771398,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 154235,
@@ -39129,6 +39281,14 @@
       "onboard_time": 1709530891,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147605,
+      "num": 147605,
+      "word": "RNG无缘春季赛季后赛",
+      "onboard_time": 1710769474,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 147599,
@@ -42547,6 +42707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131200,
+      "num": 1919122,
+      "word": "县在出发",
+      "onboard_time": 1710768158,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131150,
       "num": 131150,
       "word": "特斯拉跑车将装火箭推进器",
@@ -42737,14 +42905,6 @@
       "onboard_time": 1710487776,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 130368,
-      "num": 130368,
-      "word": "与凤行谐音梗",
-      "onboard_time": 1710768696,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 130264,
@@ -48920,14 +49080,6 @@
       "word": "不是慕思你真放假啊",
       "onboard_time": 1710402033,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70580,
-      "num": 1919122,
-      "word": "县在出发",
-      "onboard_time": 1710768158,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

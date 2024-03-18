@@ -1,0 +1,410 @@
+{
+  "runTime": 1710771447527,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2604785,
+        "num": 2604785,
+        "word": "林狗还是帅的",
+        "onboard_time": 1710767192,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1630565,
+        "num": 1630565,
+        "word": "审判与凤行",
+        "onboard_time": 1710765453,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131200,
+        "num": 1404387,
+        "word": "县在出发",
+        "onboard_time": 1710768158,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1382183,
+        "num": 1382183,
+        "word": "湖南卫视开始了",
+        "onboard_time": 1710764851,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1123525,
+        "num": 1123525,
+        "word": "恒大地产被罚41.75亿元",
+        "onboard_time": 1710766114,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 849504,
+        "num": 849504,
+        "word": "与凤行",
+        "onboard_time": 1710720272,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 749583,
+        "num": 749583,
+        "word": "与凤行收视率",
+        "onboard_time": 1710767314,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 693531,
+        "num": 693531,
+        "word": "许家印拟被终身证券市场禁入",
+        "onboard_time": 1710765812,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 636504,
+        "num": 636504,
+        "word": "淀粉肠生产企业董事长直播吃淀粉肠",
+        "onboard_time": 1710763890,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 498295,
+        "num": 498295,
+        "word": "早上六点起床跟八点起床的区别",
+        "onboard_time": 1710761014,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1287266,
+        "num": 496217,
+        "word": "凯特多位朋友发声",
+        "onboard_time": 1710764734,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1007321,
+        "num": 488887,
+        "word": "戴安娜王妃弟弟就凯特阴谋论发声",
+        "onboard_time": 1710759515,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 990542,
+        "num": 486803,
+        "word": "英国王室",
+        "onboard_time": 1710768455,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 711197,
+        "num": 481176,
+        "word": "赵丽颖的左右脸",
+        "onboard_time": 1710767915,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 663012,
+        "num": 471122,
+        "word": "杨幂戴了好多手串",
+        "onboard_time": 1710770079,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521075,
+        "num": 469490,
+        "word": "恒大地产回应被处罚",
+        "onboard_time": 1710769178,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464888,
+        "num": 464888,
+        "word": "咯咯哒",
+        "onboard_time": 1710766597,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431456,
+        "num": 431456,
+        "word": "16岁少年疑被同龄人杀害同学发声",
+        "onboard_time": 1710767616,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289089,
+        "num": 411211,
+        "word": "荣耀新品屏幕研发投入超5亿",
+        "onboard_time": 1710770560,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 604791,
+        "num": 411087,
+        "word": "杨幂小拇指好短",
+        "onboard_time": 1710759515,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 467673,
+        "num": 410847,
+        "word": "为什么普通人一年存三五万都难",
+        "onboard_time": 1710766835,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 410507,
+        "num": 410507,
+        "word": "小桃又演小桃",
+        "onboard_time": 1710767558,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389933,
+        "num": 389933,
+        "word": "你以为很卫生其实很脏的行为",
+        "onboard_time": 1710749497,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 367705,
+        "num": 367705,
+        "word": "林更新刀我别用宇文玥",
+        "onboard_time": 1710769776,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353379,
+        "num": 353379,
+        "word": "许家印决策并组织实施财务造假",
+        "onboard_time": 1710770678,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 327973,
+        "num": 327973,
+        "word": "与凤行特效",
+        "onboard_time": 1710764493,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318275,
+        "num": 318275,
+        "word": "赵丽颖 扛剧",
+        "onboard_time": 1710770855,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311078,
+        "num": 311078,
+        "word": "金智媛哭戏",
+        "onboard_time": 1710770353,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308585,
+        "num": 308585,
+        "word": "查尔斯",
+        "onboard_time": 1710750335,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 299132,
+        "num": 299132,
+        "word": "裴涩琪怀孕",
+        "onboard_time": 1710743196,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278674,
+        "num": 278674,
+        "word": "成龙 荣耀发布会",
+        "onboard_time": 1710768633,
+        "rank": 30,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 263203,
+        "num": 263203,
+        "word": "比酒精还厉害的肝脏刺客",
+        "onboard_time": 1710767192,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241482,
+        "num": 241482,
+        "word": "与凤行谐音梗",
+        "onboard_time": 1710768696,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238575,
+        "num": 238575,
+        "word": "WINNER澳门",
+        "onboard_time": 1710768996,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225990,
+        "num": 225990,
+        "word": "凯特现身",
+        "onboard_time": 1710734672,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222073,
+        "num": 222073,
+        "word": "焦点访谈曝光无底线骗流量短视频",
+        "onboard_time": 1710770199,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 216420,
+        "num": 216420,
+        "word": "不可能的婚礼",
+        "onboard_time": 1710769597,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213864,
+        "num": 213864,
+        "word": "下雪天千万别把雨刷立起来",
+        "onboard_time": 1710770739,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 206629,
+        "num": 206629,
+        "word": "刘亦菲灵蛇女王",
+        "onboard_time": 1710753453,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191381,
+        "num": 191381,
+        "word": "恒大地产两年财务造假5640亿元",
+        "onboard_time": 1710770975,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189094,
+        "num": 189094,
+        "word": "Hero澄清最近不实言论",
+        "onboard_time": 1710770560,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184062,
+        "num": 184062,
+        "word": "鸡骨泥运用于淀粉肠中不算违规",
+        "onboard_time": 1710749435,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182673,
+        "num": 182673,
+        "word": "北京大风",
+        "onboard_time": 1710770316,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180625,
+        "num": 180625,
+        "word": "叶蓁蓁现实版农夫与蛇",
+        "onboard_time": 1710764376,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178966,
+        "num": 178966,
+        "word": "毕竟是九亿少女的梦",
+        "onboard_time": 1710771217,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169675,
+        "num": 169675,
+        "word": "男子陪父亲体检顺便做胃肠镜救下一命",
+        "onboard_time": 1710771038,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158416,
+        "num": 158416,
+        "word": "赵丽颖跳舞像做广播体操",
+        "onboard_time": 1710769416,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155685,
+        "num": 155685,
+        "word": "韩素希回国了",
+        "onboard_time": 1710758433,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154329,
+        "num": 154329,
+        "word": "过日子什么时候成了形容词",
+        "onboard_time": 1710771398,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147605,
+        "num": 147605,
+        "word": "RNG无缘春季赛季后赛",
+        "onboard_time": 1710769474,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#立德树人#"
+    }
+  }
+}
