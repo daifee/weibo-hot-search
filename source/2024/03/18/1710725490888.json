@@ -1,0 +1,410 @@
+{
+  "runTime": 1710725490888,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2119695,
+        "num": 2119695,
+        "word": "网传颅骨照与邯郸初中生遇害案无关",
+        "onboard_time": 1710719129,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1668999,
+        "num": 1668999,
+        "word": "13岁男生猥亵女生被送至专门学校",
+        "onboard_time": 1710723814,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40159,
+        "num": 1356582,
+        "word": "抢抓农时春日忙",
+        "onboard_time": 1710680555,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2278680,
+        "num": 1296792,
+        "word": "315卫生巾",
+        "onboard_time": 1710719792,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1186626,
+        "num": 1186626,
+        "word": "当地通报梅州一13岁男生猥亵女生",
+        "onboard_time": 1710716965,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933262,
+        "num": 933262,
+        "word": "七度空间",
+        "onboard_time": 1710724114,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 923696,
+        "num": 923696,
+        "word": "普京赢得俄罗斯总统大选",
+        "onboard_time": 1710719192,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 899880,
+        "num": 899880,
+        "word": "AppleID将成历史",
+        "onboard_time": 1710717566,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 812217,
+        "num": 812217,
+        "word": "快餐顶流黄焖鸡为啥没人吃了",
+        "onboard_time": 1710717566,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 479460,
+        "num": 479460,
+        "word": "当我收到了我的二月份工资",
+        "onboard_time": 1710688179,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 764812,
+        "num": 467788,
+        "word": "邯郸初中生被杀害案嫌疑人全部抓获",
+        "onboard_time": 1710684101,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480300,
+        "num": 462493,
+        "word": "误以为很贵实际很便宜的车",
+        "onboard_time": 1710688179,
+        "rank": 11,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 453459,
+        "num": 453459,
+        "word": "张慧雯最近避避风头吧",
+        "onboard_time": 1710693328,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 435489,
+        "num": 435489,
+        "word": "Angel父亲离世",
+        "onboard_time": 1710682657,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 420263,
+        "num": 420263,
+        "word": "徐娇再喊话竹内亮",
+        "onboard_time": 1710719369,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413639,
+        "num": 413639,
+        "word": "国人平均睡眠时长6.75小时",
+        "onboard_time": 1710692191,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 403696,
+        "num": 403696,
+        "word": "95后男生自研甲油胶每月卖60万",
+        "onboard_time": 1710724535,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400541,
+        "num": 400541,
+        "word": "商家直播2小时连吃10根淀粉肠",
+        "onboard_time": 1710685244,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350651,
+        "num": 350651,
+        "word": "邯郸被害男孩父亲怀疑另有帮凶",
+        "onboard_time": 1710676956,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328398,
+        "num": 328398,
+        "word": "火星哥因赌博欠债5000万美元",
+        "onboard_time": 1710688722,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 912447,
+        "num": 322438,
+        "word": "长期炎症容易拖成癌",
+        "onboard_time": 1710720694,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 547863,
+        "num": 319957,
+        "word": "肝不好身体会变臭",
+        "onboard_time": 1710722615,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 419655,
+        "num": 317512,
+        "word": "淀粉肠摊主一晚0收入",
+        "onboard_time": 1710724653,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312512,
+        "num": 312512,
+        "word": "林孝埈说今天不是我的终点",
+        "onboard_time": 1710723635,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308567,
+        "num": 308567,
+        "word": "与凤行",
+        "onboard_time": 1710720272,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280559,
+        "num": 280559,
+        "word": "英国王室上演消失的她",
+        "onboard_time": 1710688179,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 268324,
+        "num": 268324,
+        "word": "从脂肪肝到肝癌只有4步",
+        "onboard_time": 1710723875,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 268144,
+        "num": 268144,
+        "word": "易烊千玺舒淇合作新片将开机",
+        "onboard_time": 1710723875,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250844,
+        "num": 250844,
+        "word": "童瑶演了我梦里的爽文女主",
+        "onboard_time": 1710707475,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248169,
+        "num": 248169,
+        "word": "新说唱2024 尿检",
+        "onboard_time": 1710683438,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221180,
+        "num": 221180,
+        "word": "无氧运动过量可能诱发急性痛风",
+        "onboard_time": 1710724355,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216973,
+        "num": 216973,
+        "word": "1岁女婴3楼坠下获爱心救助奇迹生还",
+        "onboard_time": 1710725130,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199282,
+        "num": 199282,
+        "word": "新加坡大满贯奖杯22斤沉",
+        "onboard_time": 1710724174,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194540,
+        "num": 194540,
+        "word": "刘浩存演技",
+        "onboard_time": 1710724653,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181289,
+        "num": 181289,
+        "word": "肝脏异常的6个报警信号",
+        "onboard_time": 1710723696,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179157,
+        "num": 179157,
+        "word": "三水结婚",
+        "onboard_time": 1710683557,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179153,
+        "num": 179153,
+        "word": "你会在今年出手买房吗",
+        "onboard_time": 1710723755,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177170,
+        "num": 177170,
+        "word": "留学生回家才发现父母搬家了",
+        "onboard_time": 1710721597,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171029,
+        "num": 171029,
+        "word": "王曼昱新加坡大满贯女单夺冠",
+        "onboard_time": 1710724114,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166216,
+        "num": 166216,
+        "word": "眼泪女王编剧",
+        "onboard_time": 1710684760,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162935,
+        "num": 162935,
+        "word": "想知道第一批00后的现状",
+        "onboard_time": 1710724953,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161204,
+        "num": 161204,
+        "word": "新款苹果手表将支持血压监测",
+        "onboard_time": 1710719975,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153893,
+        "num": 153893,
+        "word": "东契奇难以置信",
+        "onboard_time": 1710724772,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153849,
+        "num": 153849,
+        "word": "王楚钦大满贯双冠王",
+        "onboard_time": 1710680617,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150174,
+        "num": 150174,
+        "word": "中国队混合接力夺金",
+        "onboard_time": 1710725195,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134501,
+        "num": 134501,
+        "word": "陈星旭陈牧驰 山河表里",
+        "onboard_time": 1710687523,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131109,
+        "num": 131109,
+        "word": "本周狗屎运最旺的星座TOP4",
+        "onboard_time": 1710687344,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130818,
+        "num": 130818,
+        "word": "315",
+        "onboard_time": 1710671255,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128628,
+        "num": 128628,
+        "word": "孙龙 我相信孙龙不止于此",
+        "onboard_time": 1710719192,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124258,
+        "num": 124258,
+        "word": "全村为邯郸遇害初中生送行",
+        "onboard_time": 1710676956,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#大思政课一定要跟现实结合起来#"
+    }
+  }
+}
