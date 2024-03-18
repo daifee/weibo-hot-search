@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710801236306,
+  "endTime": 1710803865221,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -1051,6 +1051,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 737462,
+      "num": 737462,
+      "word": "路边卖淀粉肠阿姨主动出示声明书",
+      "onboard_time": 1710786917,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 734545,
       "num": 438529,
       "word": "身上这种小疙瘩或是HPV感染",
@@ -1251,6 +1259,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 608203,
+      "num": 484244,
+      "word": "女孩拼2年考研上岸一学期后退学",
+      "onboard_time": 1710778768,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 604377,
       "num": 604377,
       "word": "与凤行 喜剧",
@@ -1265,14 +1281,6 @@
       "onboard_time": 1710733834,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 601208,
-      "num": 255381,
-      "word": "女孩拼2年考研上岸一学期后退学",
-      "onboard_time": 1710778768,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 590748,
@@ -1473,6 +1481,14 @@
       "onboard_time": 1710667831,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535855,
+      "num": 535855,
+      "word": "比酒精还厉害的肝脏刺客",
+      "onboard_time": 1710767192,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 533720,
@@ -2331,6 +2347,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 332351,
+      "num": 332351,
+      "word": "93年副所长入警9年满头白发",
+      "onboard_time": 1710772168,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329780,
       "num": 329780,
       "word": "童瑶演了我梦里的爽文女主",
@@ -2385,6 +2409,14 @@
       "onboard_time": 1710741755,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318857,
+      "num": 239618,
+      "word": "高度近视的人需要注意这四件事",
+      "onboard_time": 1710788357,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 318234,
@@ -2627,14 +2659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 290108,
-      "num": 290108,
-      "word": "93年副所长入警9年满头白发",
-      "onboard_time": 1710772168,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289644,
       "num": 289644,
       "word": "海关截获2万余只蟑螂",
@@ -2843,14 +2867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263203,
-      "num": 263203,
-      "word": "比酒精还厉害的肝脏刺客",
-      "onboard_time": 1710767192,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 261442,
       "num": 261442,
       "word": "薛之谦空降洛阳站",
@@ -2865,6 +2881,14 @@
       "onboard_time": 1710648930,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 260687,
+      "num": 128090,
+      "word": "睡醒之后一定要改掉这4个坏习惯",
+      "onboard_time": 1710803004,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 260674,
@@ -2969,14 +2993,6 @@
       "onboard_time": 1710766173,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 250604,
-      "num": 250604,
-      "word": "路边卖淀粉肠阿姨主动出示声明书",
-      "onboard_time": 1710786917,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250372,
@@ -3267,6 +3283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 223187,
+      "num": 128016,
+      "word": "英王室不回应凯特之谜的两种可能",
+      "onboard_time": 1710797836,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 223085,
       "num": 223085,
       "word": "阮经天明道 地狱级验证",
@@ -3457,6 +3481,14 @@
       "onboard_time": 1710745416,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211507,
+      "num": 211507,
+      "word": "她和智障哥哥唯一合照是陌生人拍的",
+      "onboard_time": 1710803004,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211289,
@@ -4963,6 +4995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144636,
+      "num": 144636,
+      "word": "英伟达发布最强AI加速卡",
+      "onboard_time": 1710803304,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 144609,
       "num": 144609,
       "word": "我们也是第一次做父母啊",
@@ -5331,6 +5371,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127661,
+      "num": 127661,
+      "word": "王珞丹一家四口颜值",
+      "onboard_time": 1710792435,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127331,
       "num": 127331,
       "word": "杜华全年通告被唐九洲套路走",
@@ -5457,14 +5505,6 @@
       "onboard_time": 1710642153,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121618,
-      "num": 38882,
-      "word": "英王室不回应凯特之谜的两种可能",
-      "onboard_time": 1710797836,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 120835,
@@ -5651,14 +5691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 109838,
-      "num": 80096,
-      "word": "高度近视的人需要注意这四件事",
-      "onboard_time": 1710788357,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 109241,
       "num": 223691,
       "word": "音乐生毕业就业方向",
@@ -5787,6 +5819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92102,
+      "num": 92102,
+      "word": "N1报名",
+      "onboard_time": 1710803786,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 91961,
       "num": 717349,
       "word": "无糖可口可乐官宣了多少人",
@@ -5833,6 +5873,22 @@
       "onboard_time": 1710690696,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84182,
+      "num": 84182,
+      "word": "王一博拍长风破浪没带剧本到现场",
+      "onboard_time": 1710800959,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 83520,
+      "num": 83520,
+      "word": "宋宁峰董洁演夫妻",
+      "onboard_time": 1710794536,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 79734,
@@ -5883,6 +5939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77523,
+      "num": 77523,
+      "word": "胡锡进称A股越来越像牛市",
+      "onboard_time": 1710801678,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 77247,
       "num": 77247,
       "word": "付辛博万鹏cha了今天你要嫁给我",
@@ -5905,14 +5969,6 @@
       "onboard_time": 1710635070,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75451,
-      "num": 75451,
-      "word": "王珞丹一家四口颜值",
-      "onboard_time": 1710792435,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 74782,
@@ -5995,6 +6051,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 64674,
+      "num": 64674,
+      "word": "杨采薇 断崖上的兰草",
+      "onboard_time": 1710785897,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64553,
       "num": 223724,
       "word": "马面裙订单量同比增841%",
@@ -6017,6 +6081,14 @@
       "onboard_time": 1710716965,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60492,
+      "num": 60492,
+      "word": "2024英伟达GTC大会",
+      "onboard_time": 1710803726,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 60340,
@@ -6043,12 +6115,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 52151,
-      "num": 52151,
-      "word": "杨采薇 断崖上的兰草",
-      "onboard_time": 1710785897,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 52695,
+      "num": 52695,
+      "word": "八段锦国家体育总局完整版",
+      "onboard_time": 1710788537,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 50397,
@@ -6065,6 +6137,14 @@
       "onboard_time": 1710631401,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 49823,
+      "num": 49823,
+      "word": "胆碱性荨麻疹使我活的像个吸血鬼",
+      "onboard_time": 1710803605,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 49697,
@@ -6091,6 +6171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45185,
+      "num": 45185,
+      "word": "凯特超80天未公开露面",
+      "onboard_time": 1710796515,
+      "rank": 28,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 42536,
       "num": 381391,
       "word": "听晚安电台睡着了",
@@ -6112,14 +6200,6 @@
       "word": "鞠婧祎杨枝甘露妆",
       "onboard_time": 1710612980,
       "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 38884,
-      "num": 38884,
-      "word": "宋宁峰董洁演夫妻",
-      "onboard_time": 1710794536,
-      "rank": 38,
       "category": "剧集"
     },
     {
@@ -6159,14 +6239,6 @@
       "num": 33497,
       "word": "眼泪女王醉酒吻戏",
       "onboard_time": 1710786077,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 33473,
-      "num": 33473,
-      "word": "王一博拍长风破浪没带剧本到现场",
-      "onboard_time": 1710800959,
       "rank": 38,
       "category": "剧集"
     },
@@ -6219,28 +6291,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 27763,
-      "num": 27763,
-      "word": "八段锦国家体育总局完整版",
-      "onboard_time": 1710788537,
-      "rank": 48,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 27544,
       "num": 27544,
       "word": "王爷出场",
       "onboard_time": 1710798857,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26906,
-      "num": 26906,
-      "word": "凯特超80天未公开露面",
-      "onboard_time": 1710796515,
-      "rank": 28,
-      "category": "国外时政"
     },
     {
       "raw_hot": 26902,
