@@ -1,0 +1,410 @@
+{
+  "runTime": 1710735610988,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3920881,
+        "num": 3920881,
+        "word": "邯郸初中生遇害案死者被活埋不实",
+        "onboard_time": 1710732873,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2108033,
+        "num": 2108033,
+        "word": "淀粉肠摊主一晚0收入",
+        "onboard_time": 1710724653,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67189,
+        "num": 1515591,
+        "word": "春天里的大美中国",
+        "onboard_time": 1710729031,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1471054,
+        "num": 1471054,
+        "word": "13岁男生猥亵女生被送至专门学校",
+        "onboard_time": 1710723814,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1387464,
+        "num": 1387464,
+        "word": "凯特王妃或4月中旬公开健康状况",
+        "onboard_time": 1710731435,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1256787,
+        "num": 1256787,
+        "word": "凯特现身",
+        "onboard_time": 1710734672,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987013,
+        "num": 987013,
+        "word": "女版向佐",
+        "onboard_time": 1710733900,
+        "rank": 6,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 931655,
+        "num": 931655,
+        "word": "熊猫不走蛋糕突然全国停工",
+        "onboard_time": 1710732393,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 907226,
+        "num": 907226,
+        "word": "今年315未曝光卫生巾问题",
+        "onboard_time": 1710730232,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826561,
+        "num": 826561,
+        "word": "SM耍猴",
+        "onboard_time": 1710732754,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 665998,
+        "num": 665998,
+        "word": "12岁以上可担刑责",
+        "onboard_time": 1710731435,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634857,
+        "num": 634857,
+        "word": "东方甄选回应带货315点名梅菜扣肉",
+        "onboard_time": 1710732873,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604091,
+        "num": 604091,
+        "word": "周杰伦杭州场抢票需先充值488元vip",
+        "onboard_time": 1710733834,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 600590,
+        "num": 600590,
+        "word": "与凤行首播4集不断更",
+        "onboard_time": 1710730112,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 536998,
+        "num": 536998,
+        "word": "淀粉肠小王子发声",
+        "onboard_time": 1710734855,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536068,
+        "num": 536068,
+        "word": "网传颅骨照与邯郸初中生遇害案无关",
+        "onboard_time": 1710719129,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517604,
+        "num": 517604,
+        "word": "长期炎症容易拖成癌",
+        "onboard_time": 1710720694,
+        "rank": 16,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 494038,
+        "num": 494038,
+        "word": "普京胜选后谈及台湾问题",
+        "onboard_time": 1710729510,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 451740,
+        "num": 451740,
+        "word": "刘学义郑合惠子cp感",
+        "onboard_time": 1710729573,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446972,
+        "num": 446972,
+        "word": "邯郸初中生被杀害案嫌疑人全部抓获",
+        "onboard_time": 1710684101,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496900,
+        "num": 442052,
+        "word": "微信情侣查岗模式",
+        "onboard_time": 1710734796,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 421333,
+        "num": 421333,
+        "word": "辛芷蕾高定封",
+        "onboard_time": 1710731612,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 395932,
+        "num": 395932,
+        "word": "00后长期熬夜长出老年斑",
+        "onboard_time": 1710728673,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 285540,
+        "num": 285540,
+        "word": "大侦探有风的地方",
+        "onboard_time": 1710734319,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275377,
+        "num": 275377,
+        "word": "费曼吴镇宇 父慈子孝",
+        "onboard_time": 1710731314,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264814,
+        "num": 264814,
+        "word": "优酷开知否限免",
+        "onboard_time": 1710729455,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261880,
+        "num": 261880,
+        "word": "凯特",
+        "onboard_time": 1710735035,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257611,
+        "num": 257611,
+        "word": "95后男生自研甲油胶每月卖60万",
+        "onboard_time": 1710724535,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254777,
+        "num": 254777,
+        "word": "AppleID将成历史",
+        "onboard_time": 1710717566,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 252482,
+        "num": 252482,
+        "word": "普京赢得俄罗斯总统大选",
+        "onboard_time": 1710719192,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 243370,
+        "num": 243370,
+        "word": "商家说淀粉肠自己都不吃",
+        "onboard_time": 1710731672,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228713,
+        "num": 228713,
+        "word": "肝不好身体会变臭",
+        "onboard_time": 1710722615,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223654,
+        "num": 223654,
+        "word": "第一次见这样算工资的",
+        "onboard_time": 1710732993,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69188,
+        "num": 220547,
+        "word": "smart成香港新能源爆款",
+        "onboard_time": 1710734616,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 219065,
+        "num": 219065,
+        "word": "1岁女婴3楼坠下获爱心救助奇迹生还",
+        "onboard_time": 1710725130,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207567,
+        "num": 207567,
+        "word": "天水麻辣烫",
+        "onboard_time": 1710735397,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206346,
+        "num": 206346,
+        "word": "与凤行宣璐哭戏",
+        "onboard_time": 1710735159,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204527,
+        "num": 204527,
+        "word": "Angel父亲离世",
+        "onboard_time": 1710682657,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200452,
+        "num": 200452,
+        "word": "快餐顶流黄焖鸡为啥没人吃了",
+        "onboard_time": 1710717566,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 193475,
+        "num": 193475,
+        "word": "新款iPad或3月26日发布",
+        "onboard_time": 1710732154,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 189277,
+        "num": 189277,
+        "word": "李帝努发型",
+        "onboard_time": 1710732333,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189209,
+        "num": 189209,
+        "word": "妈妈卖红薯将女儿培养成村里首个博士",
+        "onboard_time": 1710726993,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186018,
+        "num": 186018,
+        "word": "潘杨之好",
+        "onboard_time": 1710732637,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181487,
+        "num": 181487,
+        "word": "塞尔达传说王国之泪 年度游戏",
+        "onboard_time": 1710735216,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 179349,
+        "num": 179349,
+        "word": "张予曦王子奇演夫妻",
+        "onboard_time": 1710727772,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151478,
+        "num": 151478,
+        "word": "天下第一的手游来了",
+        "onboard_time": 1710732873,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149787,
+        "num": 149787,
+        "word": "你会再给淀粉肠一个机会吗",
+        "onboard_time": 1710726514,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139197,
+        "num": 139197,
+        "word": "花间令潘樾panda人",
+        "onboard_time": 1710735521,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138565,
+        "num": 138565,
+        "word": "猜猜我是谁定档",
+        "onboard_time": 1710731191,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137267,
+        "num": 137267,
+        "word": "张慧雯最近避避风头吧",
+        "onboard_time": 1710693328,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#大思政课一定要跟现实结合起来#"
+    }
+  }
+}
