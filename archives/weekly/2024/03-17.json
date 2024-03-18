@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710786074719,
+  "endTime": 1710786847564,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -3139,6 +3139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232050,
+      "num": 232050,
+      "word": "初中生杀害同学手段残忍令人发指",
+      "onboard_time": 1710784400,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231473,
       "num": 231473,
       "word": "王楚钦王曼昱冠军合影",
@@ -5379,14 +5387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 124154,
-      "num": 124154,
-      "word": "初中生杀害同学手段残忍令人发指",
-      "onboard_time": 1710784400,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 123835,
       "num": 123835,
       "word": "别对我动心 追妻是终生事业",
@@ -6083,6 +6083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36376,
+      "num": 36376,
+      "word": "杨采薇 断崖上的兰草",
+      "onboard_time": 1710785897,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35023,
       "num": 35023,
       "word": "PRX赢了",
@@ -6107,6 +6115,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 33497,
+      "num": 33497,
+      "word": "眼泪女王醉酒吻戏",
+      "onboard_time": 1710786077,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 32865,
+      "num": 32635,
+      "word": "虚幻与现实",
+      "onboard_time": 1710786377,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 32595,
       "num": 35012,
       "word": "小日子",
@@ -6129,14 +6153,6 @@
       "onboard_time": 1710699321,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31814,
-      "num": 34989,
-      "word": "杨采薇 断崖上的兰草",
-      "onboard_time": 1710785897,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 29693,
