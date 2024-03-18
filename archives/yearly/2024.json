@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1710725490888,
+  "endTime": 1710728575249,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1016,6 +1016,14 @@
       "word": "河北邯郸初中生杀人事件独家调查",
       "onboard_time": 1710677733,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3675645,
+      "num": 3675645,
+      "word": "13岁男生猥亵女生被送至专门学校",
+      "onboard_time": 1710723814,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1708953994,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2542489,
-      "num": 2542489,
-      "word": "舅舅的舅舅的舅舅叫什么",
-      "onboard_time": 1707900694,
-      "rank": 1,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [
