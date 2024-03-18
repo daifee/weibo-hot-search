@@ -1,6 +1,6 @@
 {
   "startTime": 1710692394779,
-  "endTime": 1710771447527,
+  "endTime": 1710772438109,
   "band_list": [
     {
       "raw_hot": 6623497,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 1287266,
-      "num": 599816,
+      "num": 631111,
       "word": "凯特多位朋友发声",
       "onboard_time": 1710764734,
       "rank": 31,
@@ -297,6 +297,14 @@
       "onboard_time": 1710766114,
       "rank": 4,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1116210,
+      "num": 1116210,
+      "word": "英国白金汉宫否认国王去世",
+      "onboard_time": 1710771819,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1109392,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 990542,
-      "num": 486803,
+      "num": 935771,
       "word": "英国王室",
       "onboard_time": 1710768455,
       "rank": 35,
@@ -385,6 +393,14 @@
       "onboard_time": 1710733900,
       "rank": 6,
       "category": "剧集,艺人"
+    },
+    {
+      "raw_hot": 971570,
+      "num": 971570,
+      "word": "杨幂戴了好多手串",
+      "onboard_time": 1710770079,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 968293,
@@ -433,6 +449,14 @@
       "onboard_time": 1710746614,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 877030,
+      "num": 431456,
+      "word": "16岁少年疑被同龄人杀害同学发声",
+      "onboard_time": 1710767616,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 868160,
@@ -505,6 +529,14 @@
       "onboard_time": 1710726993,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 778049,
+      "num": 620862,
+      "word": "赵丽颖 扛剧",
+      "onboard_time": 1710770855,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 764779,
@@ -588,7 +620,7 @@
     },
     {
       "raw_hot": 711197,
-      "num": 481176,
+      "num": 613772,
       "word": "赵丽颖的左右脸",
       "onboard_time": 1710767915,
       "rank": 49,
@@ -625,14 +657,6 @@
       "onboard_time": 1710759216,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 663012,
-      "num": 471122,
-      "word": "杨幂戴了好多手串",
-      "onboard_time": 1710770079,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 655680,
@@ -769,6 +793,14 @@
       "onboard_time": 1710761374,
       "rank": 31,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 525124,
+      "num": 525124,
+      "word": "许家印决策并组织实施财务造假",
+      "onboard_time": 1710770678,
+      "rank": 24,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 524317,
@@ -915,14 +947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 431456,
-      "num": 431456,
-      "word": "16岁少年疑被同龄人杀害同学发声",
-      "onboard_time": 1710767616,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 427881,
       "num": 302614,
       "word": "赖床30分钟可能会变聪明",
@@ -969,6 +993,14 @@
       "onboard_time": 1710755493,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 412987,
+      "num": 412987,
+      "word": "毕竟是九亿少女的梦",
+      "onboard_time": 1710771217,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 410507,
@@ -1131,14 +1163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 353379,
-      "num": 353379,
-      "word": "许家印决策并组织实施财务造假",
-      "onboard_time": 1710770678,
-      "rank": 24,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 353128,
       "num": 353128,
       "word": "新说唱2024 尿检",
@@ -1169,6 +1193,22 @@
       "onboard_time": 1710737738,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 338035,
+      "num": 338035,
+      "word": "辅导员告诉我导师突然去世了",
+      "onboard_time": 1710771996,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 337419,
+      "num": 337419,
+      "word": "山西19岁少年疑因多次卖血身亡",
+      "onboard_time": 1710771635,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329780,
@@ -1211,20 +1251,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321114,
+      "num": 321114,
+      "word": "女生一次的月经量多少才算正常",
+      "onboard_time": 1710771937,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 319086,
       "num": 280377,
       "word": "小伙昏睡两天称穿越见去世表哥实为得癔症",
       "onboard_time": 1710741755,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318275,
-      "num": 318275,
-      "word": "赵丽颖 扛剧",
-      "onboard_time": 1710770855,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 317669,
@@ -1243,20 +1283,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312781,
+      "num": 312781,
+      "word": "金智媛哭戏",
+      "onboard_time": 1710770353,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311270,
       "num": 599554,
       "word": "云南大理突发林火",
       "onboard_time": 1710763053,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 311078,
-      "num": 311078,
-      "word": "金智媛哭戏",
-      "onboard_time": 1710770353,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 303860,
@@ -1332,7 +1372,7 @@
     },
     {
       "raw_hot": 289089,
-      "num": 411211,
+      "num": 415126,
       "word": "荣耀新品屏幕研发投入超5亿",
       "onboard_time": 1710770560,
       "rank": 18,
@@ -1401,6 +1441,14 @@
       "onboard_time": 1710764376,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266452,
+      "num": 266452,
+      "word": "男子陪父亲体检顺便做胃肠镜救下一命",
+      "onboard_time": 1710771038,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 264821,
@@ -1635,6 +1683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222536,
+      "num": 222536,
+      "word": "过日子什么时候成了形容词",
+      "onboard_time": 1710771398,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222073,
       "num": 222073,
       "word": "焦点访谈曝光无底线骗流量短视频",
@@ -1739,12 +1795,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209788,
+      "num": 209788,
+      "word": "恒大地产两年财务造假5640亿元",
+      "onboard_time": 1710770975,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208729,
       "num": 208729,
       "word": "家属回应邯郸被害男生尸检进展",
       "onboard_time": 1710736301,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208070,
+      "num": 208070,
+      "word": "卢伟冰介绍小米SU7车内空间",
+      "onboard_time": 1710771696,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 206346,
@@ -1947,20 +2019,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191381,
-      "num": 191381,
-      "word": "恒大地产两年财务造假5640亿元",
-      "onboard_time": 1710770975,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190928,
       "num": 190928,
       "word": "王子文腹肌",
       "onboard_time": 1710745833,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190726,
+      "num": 190726,
+      "word": "捞宇文玥",
+      "onboard_time": 1710772356,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 190122,
@@ -2091,14 +2163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178966,
-      "num": 178966,
-      "word": "毕竟是九亿少女的梦",
-      "onboard_time": 1710771217,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 178912,
       "num": 178912,
       "word": "赵丽颖工作室包场",
@@ -2113,6 +2177,14 @@
       "onboard_time": 1710689860,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176828,
+      "num": 176828,
+      "word": "93年副所长入警9年满头白发",
+      "onboard_time": 1710772168,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175799,
@@ -2177,14 +2249,6 @@
       "onboard_time": 1710729334,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 169675,
-      "num": 169675,
-      "word": "男子陪父亲体检顺便做胃肠镜救下一命",
-      "onboard_time": 1710771038,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 169173,
@@ -2345,14 +2409,6 @@
       "onboard_time": 1710726456,
       "rank": 40,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 154329,
-      "num": 154329,
-      "word": "过日子什么时候成了形容词",
-      "onboard_time": 1710771398,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 154120,
@@ -3099,6 +3155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19838,
+      "num": 337459,
+      "word": "赵明称荣耀手机运动摄影遥遥领先",
+      "onboard_time": 1710771516,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 19461,
       "num": 19461,
       "word": "奚梦瑶帮何超欣拍照",
@@ -3124,6 +3188,9 @@
     },
     {
       "word": "#立德树人#"
+    },
+    {
+      "word": "#育人之本在于培根铸魂#"
     }
   ]
 }
