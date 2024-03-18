@@ -1,6 +1,6 @@
 {
   "startTime": 1710692394779,
-  "endTime": 1710718454662,
+  "endTime": 1710724337958,
   "band_list": [
     {
       "raw_hot": 6623497,
@@ -19,12 +19,60 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2456401,
+      "num": 2456401,
+      "word": "网传颅骨照与邯郸初中生遇害案无关",
+      "onboard_time": 1710719129,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2366474,
+      "num": 1370688,
+      "word": "315卫生巾",
+      "onboard_time": 1710719792,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1663001,
+      "num": 1663001,
+      "word": "当地通报梅州一13岁男生猥亵女生",
+      "onboard_time": 1710716965,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1491888,
       "num": 406521,
       "word": "校长称邯郸男孩的死亡是个意外",
       "onboard_time": 1710681034,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1271010,
+      "num": 1271010,
+      "word": "普京赢得俄罗斯总统大选",
+      "onboard_time": 1710719192,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 1109392,
+      "num": 1109392,
+      "word": "AppleID将成历史",
+      "onboard_time": 1710717566,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 996046,
+      "num": 329547,
+      "word": "长期炎症容易拖成癌",
+      "onboard_time": 1710720694,
+      "rank": 20,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 968293,
@@ -43,6 +91,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 868160,
+      "num": 868160,
+      "word": "快餐顶流黄焖鸡为啥没人吃了",
+      "onboard_time": 1710717566,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 784484,
       "num": 784484,
       "word": "误以为很贵实际很便宜的车",
@@ -57,14 +113,6 @@
       "onboard_time": 1710682657,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 698649,
-      "num": 698649,
-      "word": "当地通报梅州一13岁男生猥亵女生",
-      "onboard_time": 1710716965,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 647318,
@@ -100,11 +148,27 @@
     },
     {
       "raw_hot": 561369,
-      "num": 371324,
+      "num": 371845,
       "word": "邯郸被害男孩父亲怀疑另有帮凶",
       "onboard_time": 1710676956,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558486,
+      "num": 558486,
+      "word": "当我收到了我的二月份工资",
+      "onboard_time": 1710688179,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 552809,
+      "num": 327589,
+      "word": "肝不好身体会变臭",
+      "onboard_time": 1710722615,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 550234,
@@ -120,6 +184,14 @@
       "word": "火星哥因赌博欠债5000万美元",
       "onboard_time": 1710688722,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 531958,
+      "num": 531958,
+      "word": "徐娇再喊话竹内亮",
+      "onboard_time": 1710719369,
+      "rank": 9,
       "category": "艺人"
     },
     {
@@ -155,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 393030,
+      "num": 393030,
+      "word": "13岁男生猥亵女生被送至专门学校",
+      "onboard_time": 1710723814,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372731,
       "num": 372731,
       "word": "何悯鸿癫了",
@@ -179,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 363508,
-      "num": 363508,
-      "word": "AppleID将成历史",
-      "onboard_time": 1710717566,
-      "rank": 11,
-      "category": "数码"
-    },
-    {
       "raw_hot": 353535,
       "num": 353535,
       "word": "刘少林",
@@ -201,6 +273,14 @@
       "onboard_time": 1710683438,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329780,
+      "num": 329780,
+      "word": "童瑶演了我梦里的爽文女主",
+      "onboard_time": 1710707475,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 326066,
@@ -219,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317669,
+      "num": 317669,
+      "word": "易烊千玺舒淇合作新片将开机",
+      "onboard_time": 1710723875,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 298674,
       "num": 298674,
       "word": "杜华让李汶翰去非洲修铁路",
@@ -235,20 +323,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 294574,
-      "num": 294574,
-      "word": "当我收到了我的二月份工资",
-      "onboard_time": 1710688179,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 288076,
       "num": 288076,
       "word": "邯郸杀人案嫌犯被带走时神态平静",
       "onboard_time": 1710676895,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281159,
+      "num": 281159,
+      "word": "与凤行",
+      "onboard_time": 1710720272,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 263954,
@@ -259,12 +347,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 258940,
-      "num": 258940,
-      "word": "童瑶演了我梦里的爽文女主",
-      "onboard_time": 1710707475,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 261817,
+      "num": 261817,
+      "word": "林孝埈说今天不是我的终点",
+      "onboard_time": 1710723635,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 250999,
@@ -315,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215287,
+      "num": 215287,
+      "word": "留学生回家才发现父母搬家了",
+      "onboard_time": 1710721597,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 211289,
       "num": 211289,
       "word": "普京感谢选民支持",
@@ -323,11 +419,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 206013,
+      "num": 206013,
+      "word": "七度空间",
+      "onboard_time": 1710724114,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204487,
       "num": 204487,
       "word": "中国短道速滑男子接力夺冠",
       "onboard_time": 1710692493,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199716,
+      "num": 199716,
+      "word": "王楚钦大满贯双冠王",
+      "onboard_time": 1710680617,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -347,12 +459,44 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 196706,
+      "num": 196706,
+      "word": "新款苹果手表将支持血压监测",
+      "onboard_time": 1710719975,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 194847,
+      "num": 194847,
+      "word": "肝脏异常的6个报警信号",
+      "onboard_time": 1710723696,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 187471,
       "num": 187471,
       "word": "白桃星座",
       "onboard_time": 1710687523,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183461,
+      "num": 183461,
+      "word": "你会在今年出手买房吗",
+      "onboard_time": 1710723755,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179717,
+      "num": 179717,
+      "word": "孙龙 我相信孙龙不止于此",
+      "onboard_time": 1710719192,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 176853,
@@ -363,12 +507,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169884,
+      "num": 169884,
+      "word": "新加坡大满贯奖杯22斤沉",
+      "onboard_time": 1710724174,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165923,
       "num": 165923,
       "word": "这瓜吃的越来越扑朔迷离了",
       "onboard_time": 1710678995,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164570,
+      "num": 164570,
+      "word": "从脂肪肝到肝癌只有4步",
+      "onboard_time": 1710723875,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 164056,
@@ -403,6 +563,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150127,
+      "num": 150127,
+      "word": "体检发现肝结节怎么办",
+      "onboard_time": 1710719431,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 144659,
+      "num": 144659,
+      "word": "王曼昱新加坡大满贯女单夺冠",
+      "onboard_time": 1710724114,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143117,
       "num": 143117,
       "word": "周也神女降临",
@@ -411,12 +587,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139902,
-      "num": 139902,
-      "word": "快餐顶流黄焖鸡为啥没人吃了",
-      "onboard_time": 1710717566,
-      "rank": 28,
-      "category": "美食"
+      "raw_hot": 136390,
+      "num": 136390,
+      "word": "朴局 铲后抑郁",
+      "onboard_time": 1710720094,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 136389,
+      "num": 136389,
+      "word": "315",
+      "onboard_time": 1710671255,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134339,
+      "num": 134339,
+      "word": "安东尼绝平",
+      "onboard_time": 1710720995,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 133885,
@@ -443,11 +635,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128912,
-      "num": 128912,
-      "word": "王楚钦大满贯双冠王",
-      "onboard_time": 1710680617,
-      "rank": 40,
+      "raw_hot": 128371,
+      "num": 128371,
+      "word": "林孝埈极限超越",
+      "onboard_time": 1710723276,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -515,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114696,
+      "num": 114696,
+      "word": "四川雅江森林火灾1号火场明火被扑灭",
+      "onboard_time": 1710721354,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106198,
       "num": 117006,
       "word": "蒲熠星晒何炅的纪念蛋糕",
@@ -563,19 +763,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45466,
+      "num": 1564612,
+      "word": "抢抓农时春日忙",
+      "onboard_time": 1710680555,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41177,
       "num": 41177,
       "word": "你怎么看幼儿园关闭潮",
       "onboard_time": 1710710655,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34826,
-      "num": 1564612,
-      "word": "抢抓农时春日忙",
-      "onboard_time": 1710680555,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

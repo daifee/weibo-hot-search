@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710718454662,
+  "endTime": 1710724337958,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2456401,
+      "num": 2456401,
+      "word": "网传颅骨照与邯郸初中生遇害案无关",
+      "onboard_time": 1710719129,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2443817,
       "num": 451919,
       "word": "杭州万象城",
@@ -448,6 +456,14 @@
       "word": "燕郊爆燃事故致7死27伤",
       "onboard_time": 1710356418,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2366474,
+      "num": 1370688,
+      "word": "315卫生巾",
+      "onboard_time": 1710719792,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1329,6 +1345,14 @@
       "onboard_time": 1709552372,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1663001,
+      "num": 1663001,
+      "word": "当地通报梅州一13岁男生猥亵女生",
+      "onboard_time": 1710716965,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1661123,
@@ -2371,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1271010,
+      "num": 1271010,
+      "word": "普京赢得俄罗斯总统大选",
+      "onboard_time": 1710719192,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1270768,
       "num": 972843,
       "word": "向往的生活小羊小不点去世",
@@ -3147,6 +3179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1109392,
+      "num": 1109392,
+      "word": "AppleID将成历史",
+      "onboard_time": 1710717566,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1107377,
       "num": 1107377,
       "word": "不背单词 我还没打卡",
@@ -3849,6 +3889,14 @@
       "onboard_time": 1709969612,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 996046,
+      "num": 329547,
+      "word": "长期炎症容易拖成癌",
+      "onboard_time": 1710720694,
+      "rank": 20,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 995752,
@@ -4785,6 +4833,14 @@
       "onboard_time": 1709994814,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 868160,
+      "num": 868160,
+      "word": "快餐顶流黄焖鸡为啥没人吃了",
+      "onboard_time": 1710717566,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 867045,
@@ -6785,14 +6841,6 @@
       "onboard_time": 1710373649,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 698649,
-      "num": 698649,
-      "word": "当地通报梅州一13岁男生猥亵女生",
-      "onboard_time": 1710716965,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 698404,
@@ -9355,6 +9403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 558486,
+      "num": 558486,
+      "word": "当我收到了我的二月份工资",
+      "onboard_time": 1710688179,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 558344,
       "num": 558344,
       "word": "眼泪女王能不能更完",
@@ -9489,6 +9545,14 @@
       "onboard_time": 1710635671,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 552809,
+      "num": 327589,
+      "word": "肝不好身体会变臭",
+      "onboard_time": 1710722615,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 552572,
@@ -10089,6 +10153,14 @@
       "onboard_time": 1710216512,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 531958,
+      "num": 531958,
+      "word": "徐娇再喊话竹内亮",
+      "onboard_time": 1710719369,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 531846,
@@ -14099,14 +14171,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 402026,
-      "num": 402026,
-      "word": "当我收到了我的二月份工资",
-      "onboard_time": 1710688179,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 401876,
       "num": 401876,
       "word": "鲍蕾晒两个女儿跳舞视频",
@@ -14369,6 +14433,14 @@
       "onboard_time": 1709776290,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 393030,
+      "num": 393030,
+      "word": "13岁男生猥亵女生被送至专门学校",
+      "onboard_time": 1710723814,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392935,
@@ -15625,14 +15697,6 @@
       "onboard_time": 1710425615,
       "rank": 36,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 363508,
-      "num": 363508,
-      "word": "AppleID将成历史",
-      "onboard_time": 1710717566,
-      "rank": 11,
-      "category": "数码"
     },
     {
       "raw_hot": 363118,
@@ -16995,6 +17059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329780,
+      "num": 329780,
+      "word": "童瑶演了我梦里的爽文女主",
+      "onboard_time": 1710707475,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329692,
       "num": 263928,
       "word": "23岁女子长期熬夜诱发乳腺癌",
@@ -17577,6 +17649,14 @@
       "onboard_time": 1710682538,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 317669,
+      "num": 317669,
+      "word": "易烊千玺舒淇合作新片将开机",
+      "onboard_time": 1710723875,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 317619,
@@ -20955,6 +21035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261817,
+      "num": 261817,
+      "word": "林孝埈说今天不是我的终点",
+      "onboard_time": 1710723635,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261334,
       "num": 261334,
       "word": "大司马呼吁大家别用脚本",
@@ -21137,14 +21225,6 @@
       "onboard_time": 1710600817,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 258940,
-      "num": 258940,
-      "word": "童瑶演了我梦里的爽文女主",
-      "onboard_time": 1710707475,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 258832,
@@ -25227,6 +25307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215287,
+      "num": 215287,
+      "word": "留学生回家才发现父母搬家了",
+      "onboard_time": 1710721597,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215253,
       "num": 215253,
       "word": "超三成女货车司机是家庭收入顶梁柱",
@@ -26521,6 +26609,14 @@
       "onboard_time": 1709686594,
       "rank": 32,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 206013,
+      "num": 206013,
+      "word": "七度空间",
+      "onboard_time": 1710724114,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205997,
@@ -28283,6 +28379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196706,
+      "num": 196706,
+      "word": "新款苹果手表将支持血压监测",
+      "onboard_time": 1710719975,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 196678,
       "num": 196678,
       "word": "小S公公今日出殡",
@@ -28633,6 +28737,14 @@
       "onboard_time": 1709645010,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 194847,
+      "num": 194847,
+      "word": "肝脏异常的6个报警信号",
+      "onboard_time": 1710723696,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 194843,
@@ -30603,6 +30715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183461,
+      "num": 183461,
+      "word": "你会在今年出手买房吗",
+      "onboard_time": 1710723755,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183449,
       "num": 183449,
       "word": "WE战胜RNG",
@@ -31289,6 +31409,14 @@
       "onboard_time": 1709455773,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 179717,
+      "num": 179717,
+      "word": "孙龙 我相信孙龙不止于此",
+      "onboard_time": 1710719192,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 179672,
@@ -32923,6 +33051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169884,
+      "num": 169884,
+      "word": "新加坡大满贯奖杯22斤沉",
+      "onboard_time": 1710724174,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169785,
       "num": 169785,
       "word": "鞠婧祎姜黎非",
@@ -33865,6 +34001,14 @@
       "onboard_time": 1710681397,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164570,
+      "num": 164570,
+      "word": "从脂肪肝到肝癌只有4步",
+      "onboard_time": 1710723875,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 164496,
@@ -36835,6 +36979,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 150127,
+      "num": 150127,
+      "word": "体检发现肝结节怎么办",
+      "onboard_time": 1710719431,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 150061,
       "num": 150061,
       "word": "姚明林浩时隔16年重逢",
@@ -37931,6 +38083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144659,
+      "num": 144659,
+      "word": "王曼昱新加坡大满贯女单夺冠",
+      "onboard_time": 1710724114,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144609,
       "num": 144609,
       "word": "我们也是第一次做父母啊",
@@ -38843,14 +39003,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 139902,
-      "num": 139902,
-      "word": "快餐顶流黄焖鸡为啥没人吃了",
-      "onboard_time": 1710717566,
-      "rank": 28,
-      "category": "美食"
-    },
-    {
       "raw_hot": 139865,
       "num": 139865,
       "word": "周迅渐变金色短发",
@@ -39531,6 +39683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136390,
+      "num": 136390,
+      "word": "朴局 铲后抑郁",
+      "onboard_time": 1710720094,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136388,
       "num": 455557,
       "word": "9图看政府工作报告里你关心的事",
@@ -40033,6 +40193,14 @@
       "onboard_time": 1709274392,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134339,
+      "num": 134339,
+      "word": "安东尼绝平",
+      "onboard_time": 1710720995,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 134288,
@@ -41209,6 +41377,14 @@
       "onboard_time": 1710042931,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128371,
+      "num": 128371,
+      "word": "林孝埈极限超越",
+      "onboard_time": 1710723276,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 128331,
@@ -43473,6 +43649,14 @@
       "onboard_time": 1710462515,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 114696,
+      "num": 114696,
+      "word": "四川雅江森林火灾1号火场明火被扑灭",
+      "onboard_time": 1710721354,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114645,
