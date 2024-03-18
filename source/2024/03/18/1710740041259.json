@@ -1,0 +1,410 @@
+{
+  "runTime": 1710740041259,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3375971,
+        "num": 3375971,
+        "word": "邯郸初中生遇害案死者被活埋不实",
+        "onboard_time": 1710732873,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2526177,
+        "num": 2526177,
+        "word": "凯特现身",
+        "onboard_time": 1710734672,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66494,
+        "num": 1934979,
+        "word": "春天里的大美中国",
+        "onboard_time": 1710729031,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1827604,
+        "num": 1827604,
+        "word": "淀粉肠小王子发声",
+        "onboard_time": 1710734855,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1223062,
+        "num": 1223062,
+        "word": "专家称今年刚需买房的人可以下手了",
+        "onboard_time": 1710737021,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911068,
+        "num": 911068,
+        "word": "郑合惠子被恶意评分",
+        "onboard_time": 1710737438,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 702608,
+        "num": 702608,
+        "word": "山东一淀粉肠厂家公开生产流程",
+        "onboard_time": 1710736062,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616936,
+        "num": 616936,
+        "word": "00后长期熬夜长出老年斑",
+        "onboard_time": 1710728673,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 564265,
+        "num": 564265,
+        "word": "淀粉肠摊主一晚0收入",
+        "onboard_time": 1710724653,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500793,
+        "num": 500793,
+        "word": "女版向佐",
+        "onboard_time": 1710733900,
+        "rank": 9,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 504201,
+        "num": 499970,
+        "word": "赵丽颖徐海乔9年后合作",
+        "onboard_time": 1710737977,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 434612,
+        "num": 434612,
+        "word": "熊猫不走蛋糕突然全国停工",
+        "onboard_time": 1710732393,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407451,
+        "num": 407451,
+        "word": "陈法拉二胎得子",
+        "onboard_time": 1710736661,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398757,
+        "num": 398757,
+        "word": "长期炎症容易拖成癌",
+        "onboard_time": 1710720694,
+        "rank": 13,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 385714,
+        "num": 385714,
+        "word": "今年315未曝光卫生巾问题",
+        "onboard_time": 1710730232,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382250,
+        "num": 382250,
+        "word": "周杰伦杭州场抢票需先充值488元vip",
+        "onboard_time": 1710733834,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 368552,
+        "num": 368552,
+        "word": "凯特王妃或4月中旬公开健康状况",
+        "onboard_time": 1710731435,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341985,
+        "num": 341985,
+        "word": "李泰容将入伍",
+        "onboard_time": 1710737559,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334512,
+        "num": 334512,
+        "word": "张杰演唱会抢票",
+        "onboard_time": 1710737140,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 304746,
+        "num": 304746,
+        "word": "SM耍猴",
+        "onboard_time": 1710732754,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 680705,
+        "num": 304393,
+        "word": "微信情侣查岗模式",
+        "onboard_time": 1710734796,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 582110,
+        "num": 303063,
+        "word": "突然翻到嫂子几年前的朋友圈",
+        "onboard_time": 1710736239,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 427881,
+        "num": 302614,
+        "word": "赖床30分钟可能会变聪明",
+        "onboard_time": 1710738335,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 299320,
+        "num": 299320,
+        "word": "漫画家猪股睦美去世",
+        "onboard_time": 1710739834,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 315671,
+        "num": 295194,
+        "word": "写一天论文倒欠3000字",
+        "onboard_time": 1710739355,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283711,
+        "num": 283711,
+        "word": "宇文玥是你吗",
+        "onboard_time": 1710737738,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249343,
+        "num": 249343,
+        "word": "辛芷蕾高定封",
+        "onboard_time": 1710731612,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 255451,
+        "num": 241068,
+        "word": "与凤行首播4集不断更",
+        "onboard_time": 1710730112,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228608,
+        "num": 228608,
+        "word": "东方甄选回应带货315点名梅菜扣肉",
+        "onboard_time": 1710732873,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219692,
+        "num": 219692,
+        "word": "普京胜选后谈及台湾问题",
+        "onboard_time": 1710729510,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 919549,
+        "num": 212439,
+        "word": "瓦妮莎",
+        "onboard_time": 1710738815,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220567,
+        "num": 209615,
+        "word": "我已经自洽到不需要谈任何恋爱了",
+        "onboard_time": 1710736301,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205145,
+        "num": 205145,
+        "word": "花间令",
+        "onboard_time": 1710737261,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204227,
+        "num": 204227,
+        "word": "与凤行开播排面",
+        "onboard_time": 1710736062,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202574,
+        "num": 202574,
+        "word": "全球首台国产空中的士上架开售",
+        "onboard_time": 1710739235,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180317,
+        "num": 180317,
+        "word": "95后男生自研甲油胶每月卖60万",
+        "onboard_time": 1710724535,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178517,
+        "num": 178517,
+        "word": "大侦探有风的地方",
+        "onboard_time": 1710734319,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174197,
+        "num": 174197,
+        "word": "肝不好身体会变臭",
+        "onboard_time": 1710722615,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166487,
+        "num": 166487,
+        "word": "我工作",
+        "onboard_time": 1710739714,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151239,
+        "num": 151239,
+        "word": "淀粉肠商标申请被驳回",
+        "onboard_time": 1710739295,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183754,
+        "num": 150940,
+        "word": "12岁以上可担刑责",
+        "onboard_time": 1710731435,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150446,
+        "num": 150446,
+        "word": "Angel父亲离世",
+        "onboard_time": 1710682657,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146916,
+        "num": 146916,
+        "word": "鞠婧祎闭错眼了",
+        "onboard_time": 1710739954,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138232,
+        "num": 138232,
+        "word": "刘学义郑合惠子cp感",
+        "onboard_time": 1710729573,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135562,
+        "num": 135562,
+        "word": "第一次见这样算工资的",
+        "onboard_time": 1710732993,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130970,
+        "num": 130970,
+        "word": "塞尔达传说王国之泪 年度游戏",
+        "onboard_time": 1710735216,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130160,
+        "num": 130160,
+        "word": "1岁女婴3楼坠下获爱心救助奇迹生还",
+        "onboard_time": 1710725130,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120649,
+        "num": 120649,
+        "word": "凯特",
+        "onboard_time": 1710735035,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120076,
+        "num": 120076,
+        "word": "极简一年我变得越来越好了",
+        "onboard_time": 1710738515,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119291,
+        "num": 119291,
+        "word": "AppleID将成历史",
+        "onboard_time": 1710717566,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#大思政课一定要跟现实结合起来#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1710692394779,
-  "endTime": 1710739100654,
+  "endTime": 1710740041259,
   "band_list": [
     {
       "raw_hot": 6623497,
@@ -115,6 +115,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1223062,
+      "num": 1223062,
+      "word": "专家称今年刚需买房的人可以下手了",
+      "onboard_time": 1710737021,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1196343,
       "num": 1196343,
       "word": "与凤行首播4集不断更",
@@ -187,8 +195,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 898648,
-      "num": 898648,
+      "raw_hot": 919549,
+      "num": 212439,
+      "word": "瓦妮莎",
+      "onboard_time": 1710738815,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 911068,
+      "num": 911068,
       "word": "郑合惠子被恶意评分",
       "onboard_time": 1710737438,
       "rank": 4,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 760309,
-      "num": 516229,
+      "num": 616936,
       "word": "00后长期熬夜长出老年斑",
       "onboard_time": 1710728673,
       "rank": 22,
@@ -296,14 +312,6 @@
       "word": "12岁以上可担刑责",
       "onboard_time": 1710731435,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 712430,
-      "num": 712430,
-      "word": "专家称今年刚需买房的人可以下手了",
-      "onboard_time": 1710737021,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -419,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 504201,
+      "num": 499970,
+      "word": "赵丽颖徐海乔9年后合作",
+      "onboard_time": 1710737977,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 471296,
       "num": 471296,
       "word": "陈法拉二胎得子",
@@ -449,6 +465,14 @@
       "onboard_time": 1710687344,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 427881,
+      "num": 302614,
+      "word": "赖床30分钟可能会变聪明",
+      "onboard_time": 1710738335,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 421333,
@@ -571,14 +595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 344740,
-      "num": 344740,
-      "word": "赵丽颖徐海乔9年后合作",
-      "onboard_time": 1710737977,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 340228,
       "num": 340228,
       "word": "宇文玥是你吗",
@@ -627,6 +643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 315671,
+      "num": 295194,
+      "word": "写一天论文倒欠3000字",
+      "onboard_time": 1710739355,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 308567,
       "num": 308567,
       "word": "与凤行",
@@ -643,12 +667,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301851,
-      "num": 301851,
-      "word": "赖床30分钟可能会变聪明",
-      "onboard_time": 1710738335,
-      "rank": 26,
-      "category": "健康医疗"
+      "raw_hot": 299320,
+      "num": 299320,
+      "word": "漫画家猪股睦美去世",
+      "onboard_time": 1710739834,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 298674,
@@ -875,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202574,
+      "num": 202574,
+      "word": "全球首台国产空中的士上架开售",
+      "onboard_time": 1710739235,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199716,
       "num": 199716,
       "word": "王楚钦大满贯双冠王",
@@ -1019,14 +1051,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 174417,
-      "num": 174417,
-      "word": "瓦妮莎",
-      "onboard_time": 1710738815,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172858,
       "num": 172858,
       "word": "赵露思晒成幕后黑手",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1710730352,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166487,
+      "num": 166487,
+      "word": "我工作",
+      "onboard_time": 1710739714,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 165923,
@@ -1155,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151239,
+      "num": 151239,
+      "word": "淀粉肠商标申请被驳回",
+      "onboard_time": 1710739295,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150174,
       "num": 150174,
       "word": "中国队混合接力夺金",
@@ -1184,6 +1224,14 @@
       "word": "TF三代集体营业",
       "onboard_time": 1710727291,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146916,
+      "num": 146916,
+      "word": "鞠婧祎闭错眼了",
+      "onboard_time": 1710739954,
+      "rank": 42,
       "category": "艺人"
     },
     {
