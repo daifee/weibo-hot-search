@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710728575249,
+  "endTime": 1710729248536,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 784501,
+      "num": 784501,
+      "word": "95后男生自研甲油胶每月卖60万",
+      "onboard_time": 1710724535,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 784484,
       "num": 784484,
       "word": "误以为很贵实际很便宜的车",
@@ -488,14 +496,6 @@
       "word": "商家直播2小时连吃10根淀粉肠",
       "onboard_time": 1710685244,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 774454,
-      "num": 774454,
-      "word": "95后男生自研甲油胶每月卖60万",
-      "onboard_time": 1710724535,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -513,6 +513,14 @@
       "onboard_time": 1710725130,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757966,
+      "num": 757966,
+      "word": "张予曦王子奇演夫妻",
+      "onboard_time": 1710727772,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 748545,
@@ -907,12 +915,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 503038,
-      "num": 363127,
-      "word": "张予曦王子奇演夫妻",
-      "onboard_time": 1710727772,
-      "rank": 11,
-      "category": "剧集"
+      "raw_hot": 503403,
+      "num": 503403,
+      "word": "妈妈卖红薯将女儿培养成村里首个博士",
+      "onboard_time": 1710726993,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 500884,
@@ -1059,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 440757,
+      "num": 250214,
+      "word": "你会再给淀粉肠一个机会吗",
+      "onboard_time": 1710726514,
+      "rank": 22,
+      "category": "美食"
+    },
+    {
       "raw_hot": 440709,
       "num": 440709,
       "word": "王曼昱世界排名重返第二",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1710670834,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413403,
+      "num": 247021,
+      "word": "00后长期熬夜长出老年斑",
+      "onboard_time": 1710728673,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 407147,
@@ -1251,6 +1275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 382118,
+      "num": 382118,
+      "word": "张元英短发画报",
+      "onboard_time": 1710728435,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 381102,
       "num": 381102,
       "word": "男人婚后真的都会发福吗",
@@ -1315,20 +1347,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359707,
+      "num": 359707,
+      "word": "林孝埈说今天不是我的终点",
+      "onboard_time": 1710723635,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358410,
       "num": 274427,
       "word": "郑合惠子怼纪凌尘",
       "onboard_time": 1710648991,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 356894,
-      "num": 356894,
-      "word": "妈妈卖红薯将女儿培养成村里首个博士",
-      "onboard_time": 1710726993,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 355933,
@@ -1339,28 +1371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 352360,
-      "num": 352360,
-      "word": "林孝埈说今天不是我的终点",
-      "onboard_time": 1710723635,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 349371,
       "num": 349371,
       "word": "烈焰 恶女挖眼弑父",
       "onboard_time": 1710652473,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 342864,
-      "num": 250214,
-      "word": "你会再给淀粉肠一个机会吗",
-      "onboard_time": 1710726514,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 339797,
@@ -1649,14 +1665,6 @@
       "onboard_time": 1710674313,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 280243,
-      "num": 280243,
-      "word": "张元英短发画报",
-      "onboard_time": 1710728435,
-      "rank": 17,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 279679,
@@ -3595,6 +3603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87049,
+      "num": 246019,
+      "word": "每个网红城市火爆背后都是努力的回甘",
+      "onboard_time": 1710728792,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85305,
       "num": 85305,
       "word": "曼联vs利物浦",
@@ -3635,6 +3651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72599,
+      "num": 247042,
+      "word": "10万能买到510km真续航电车",
+      "onboard_time": 1710726514,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 71281,
       "num": 71281,
       "word": "你平时会买化妆品小样吗",
@@ -3649,14 +3673,6 @@
       "onboard_time": 1710670413,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69041,
-      "num": 247042,
-      "word": "10万能买到510km真续航电车",
-      "onboard_time": 1710726514,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 67930,
@@ -3817,6 +3833,14 @@
       "onboard_time": 1710704596,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16682,
+      "num": 956280,
+      "word": "春天里的大美中国",
+      "onboard_time": 1710729031,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15131,
