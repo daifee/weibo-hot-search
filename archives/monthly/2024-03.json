@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710753483834,
+  "endTime": 1710754595273,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -2875,6 +2875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1203015,
+      "num": 1203015,
+      "word": "鸡骨泥运用于淀粉肠中不算违规",
+      "onboard_time": 1710749435,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1202867,
       "num": 1202867,
       "word": "马斯克SpaceX星舰第三次试飞",
@@ -3707,14 +3715,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1050657,
-      "num": 1050657,
-      "word": "鸡骨泥运用于淀粉肠中不算违规",
-      "onboard_time": 1710749435,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1050567,
       "num": 505610,
       "word": "iPhone降价已成常规促销手段",
@@ -3777,6 +3777,14 @@
       "onboard_time": 1710489994,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1038155,
+      "num": 1038155,
+      "word": "肠妃回宫",
+      "onboard_time": 1710751476,
+      "rank": 3,
+      "category": "美食"
     },
     {
       "raw_hot": 1037869,
@@ -4913,14 +4921,6 @@
       "onboard_time": 1710342093,
       "rank": 10,
       "category": "国外时政,互联网"
-    },
-    {
-      "raw_hot": 881622,
-      "num": 881622,
-      "word": "肠妃回宫",
-      "onboard_time": 1710751476,
-      "rank": 3,
-      "category": "美食"
     },
     {
       "raw_hot": 880865,
@@ -6137,6 +6137,14 @@
       "onboard_time": 1709343688,
       "rank": 11,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 764779,
+      "num": 764779,
+      "word": "Angelababy蜻蜓仙子",
+      "onboard_time": 1710752137,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 764028,
@@ -8891,14 +8899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 597267,
-      "num": 597267,
-      "word": "Angelababy蜻蜓仙子",
-      "onboard_time": 1710752137,
-      "rank": 8,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 596899,
       "num": 304911,
       "word": "朴振英把中国练习生带走了",
@@ -11299,6 +11299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 500761,
+      "num": 500761,
+      "word": "卖淀粉肠大哥改行卖烤面筋",
+      "onboard_time": 1710749379,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 500755,
       "num": 500755,
       "word": "欧冠抽签",
@@ -11537,6 +11545,14 @@
       "onboard_time": 1709692592,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 492925,
+      "num": 492925,
+      "word": "刘亦菲灵蛇女王",
+      "onboard_time": 1710753453,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 492778,
@@ -11889,14 +11905,6 @@
       "onboard_time": 1709470053,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 482649,
-      "num": 482649,
-      "word": "卖淀粉肠大哥改行卖烤面筋",
-      "onboard_time": 1710749379,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 482562,
@@ -13012,7 +13020,7 @@
     },
     {
       "raw_hot": 448838,
-      "num": 289876,
+      "num": 306677,
       "word": "我爸退出了家族群",
       "onboard_time": 1710749435,
       "rank": 21,
@@ -14123,6 +14131,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 416910,
+      "num": 323539,
+      "word": "难怪我每次请假都成功了",
+      "onboard_time": 1710752015,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 416496,
       "num": 299893,
       "word": "因为性格太软被公司部门抢着要",
@@ -14553,14 +14569,6 @@
       "onboard_time": 1709891430,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405017,
-      "num": 294912,
-      "word": "难怪我每次请假都成功了",
-      "onboard_time": 1710752015,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 404806,
@@ -21667,6 +21675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 261442,
+      "num": 261442,
+      "word": "薛之谦空降洛阳站",
+      "onboard_time": 1710753696,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 261334,
       "num": 261334,
       "word": "大司马呼吁大家别用脚本",
@@ -24627,6 +24643,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 226676,
+      "num": 226676,
+      "word": "李艾送闲置一送一个不吱声",
+      "onboard_time": 1710753636,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226644,
       "num": 226644,
       "word": "咒术回战",
@@ -25492,7 +25516,7 @@
     },
     {
       "raw_hot": 219363,
-      "num": 170645,
+      "num": 179675,
       "word": "狗狗偷亲熟睡的小主人",
       "onboard_time": 1710752677,
       "rank": 30,
@@ -27395,6 +27419,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 205989,
+      "num": 205989,
+      "word": "盒马CEO侯毅宣布退休",
+      "onboard_time": 1710753636,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 205898,
       "num": 205898,
       "word": "王楚钦说目标远不止于此",
@@ -28401,6 +28433,14 @@
       "onboard_time": 1710242311,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200414,
+      "num": 200414,
+      "word": "林俊杰演唱会黄牛带领粉丝冲场",
+      "onboard_time": 1710752195,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 200405,
@@ -29915,6 +29955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192977,
+      "num": 192977,
+      "word": "第一次被厂里的环境震惊了",
+      "onboard_time": 1710754470,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192953,
       "num": 192953,
       "word": "这只猫真的非养不可吗",
@@ -31235,6 +31283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 185842,
+      "num": 185842,
+      "word": "江边城外烤鱼永远2.8斤是巧合吗",
+      "onboard_time": 1710754470,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 185832,
       "num": 185832,
       "word": "小伙上班用不惯26键用9键键盘代替",
@@ -31321,6 +31377,14 @@
       "onboard_time": 1710687702,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185229,
+      "num": 185229,
+      "word": "THEBOYZ新歌",
+      "onboard_time": 1710753874,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 185227,
@@ -31843,14 +31907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181881,
-      "num": 181881,
-      "word": "林俊杰演唱会黄牛带领粉丝冲场",
-      "onboard_time": 1710752195,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 181855,
       "num": 336909,
       "word": "大熊猫花式吸娃越吸越上头",
@@ -31928,6 +31984,14 @@
       "word": "情绪稳定的人 倒霉惯了",
       "onboard_time": 1709250809,
       "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 181652,
+      "num": 181652,
+      "word": "酒肉情侣还有必要继续吗",
+      "onboard_time": 1710754470,
+      "rank": 33,
       "category": "情感"
     },
     {
@@ -36369,6 +36433,14 @@
       "onboard_time": 1709820453,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 157957,
+      "num": 157957,
+      "word": "甘肃麻辣烫三件套",
+      "onboard_time": 1710754052,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 157925,
@@ -44043,6 +44115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120208,
+      "num": 120208,
+      "word": "猫咪一次外向换来一辈子的内向",
+      "onboard_time": 1710754533,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120196,
       "num": 68163,
       "word": "檀健次发了23张照片",
@@ -44937,14 +45017,6 @@
       "onboard_time": 1709906434,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114590,
-      "num": 114590,
-      "word": "刘亦菲灵蛇女王",
-      "onboard_time": 1710753453,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 114579,
@@ -49331,6 +49403,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 47782,
+      "num": 527219,
+      "word": "小米Civi4Pro首发第三代骁龙8s",
+      "onboard_time": 1710752735,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 47701,
       "num": 106953,
       "word": "代表建议考研初试分步统一命题",
@@ -49585,14 +49665,6 @@
       "onboard_time": 1709668935,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40994,
-      "num": 188153,
-      "word": "小米Civi4Pro首发第三代骁龙8s",
-      "onboard_time": 1710752735,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 40860,
@@ -50411,6 +50483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20156,
+      "num": 152030,
+      "word": "明星们的最新出行搭子",
+      "onboard_time": 1710752795,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19985,
       "num": 20849,
       "word": "果然男生对电子产品没抵抗力",
@@ -50611,12 +50691,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15432,
-      "num": 132989,
-      "word": "明星们的最新出行搭子",
-      "onboard_time": 1710752795,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 15189,
+      "num": 1081343,
+      "word": "祖国各地春日美食上新了",
+      "onboard_time": 1710754292,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15131,

@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710753483834,
+  "endTime": 1710754595273,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -403,6 +403,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1203015,
+      "num": 1203015,
+      "word": "鸡骨泥运用于淀粉肠中不算违规",
+      "onboard_time": 1710749435,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1196343,
       "num": 1196343,
       "word": "与凤行首播4集不断更",
@@ -467,20 +475,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1050657,
-      "num": 1050657,
-      "word": "鸡骨泥运用于淀粉肠中不算违规",
-      "onboard_time": 1710749435,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1047464,
       "num": 1047464,
       "word": "鸡骨泥",
       "onboard_time": 1710655411,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1038155,
+      "num": 1038155,
+      "word": "肠妃回宫",
+      "onboard_time": 1710751476,
+      "rank": 3,
+      "category": "美食"
     },
     {
       "raw_hot": 1015713,
@@ -619,14 +627,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 881622,
-      "num": 881622,
-      "word": "肠妃回宫",
-      "onboard_time": 1710751476,
-      "rank": 3,
-      "category": "美食"
-    },
-    {
       "raw_hot": 869392,
       "num": 869392,
       "word": "新说唱2024 尿检",
@@ -729,6 +729,14 @@
       "onboard_time": 1710632964,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 764779,
+      "num": 764779,
+      "word": "Angelababy蜻蜓仙子",
+      "onboard_time": 1710752137,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 761652,
@@ -995,14 +1003,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 597267,
-      "num": 597267,
-      "word": "Angelababy蜻蜓仙子",
-      "onboard_time": 1710752137,
-      "rank": 8,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 590748,
       "num": 590748,
       "word": "陈牧驰耳钉",
@@ -1259,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 500761,
+      "num": 500761,
+      "word": "卖淀粉肠大哥改行卖烤面筋",
+      "onboard_time": 1710749379,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 500018,
       "num": 500018,
       "word": "淀粉肠塌房不该被大家轻易原谅",
@@ -1275,20 +1283,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 492925,
+      "num": 492925,
+      "word": "刘亦菲灵蛇女王",
+      "onboard_time": 1710753453,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 492723,
       "num": 492723,
       "word": "辛芷蕾连穿8套顶级高定",
       "onboard_time": 1710741217,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 482649,
-      "num": 482649,
-      "word": "卖淀粉肠大哥改行卖烤面筋",
-      "onboard_time": 1710749379,
-      "rank": 33,
-      "category": "美食"
     },
     {
       "raw_hot": 480407,
@@ -1428,7 +1436,7 @@
     },
     {
       "raw_hot": 448838,
-      "num": 289876,
+      "num": 306677,
       "word": "我爸退出了家族群",
       "onboard_time": 1710749435,
       "rank": 21,
@@ -1571,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416910,
+      "num": 323539,
+      "word": "难怪我每次请假都成功了",
+      "onboard_time": 1710752015,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 409785,
       "num": 409785,
       "word": "马卉发文致歉",
@@ -1617,14 +1633,6 @@
       "onboard_time": 1710688780,
       "rank": 28,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 405017,
-      "num": 294912,
-      "word": "难怪我每次请假都成功了",
-      "onboard_time": 1710752015,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 403665,
@@ -2299,6 +2307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261442,
+      "num": 261442,
+      "word": "薛之谦空降洛阳站",
+      "onboard_time": 1710753696,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 260739,
       "num": 260739,
       "word": "林孝埈世锦赛大满贯",
@@ -2571,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226676,
+      "num": 226676,
+      "word": "李艾送闲置一送一个不吱声",
+      "onboard_time": 1710753636,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225819,
       "num": 225819,
       "word": "伊能静儿子恩利晒22岁庆生照",
@@ -2668,7 +2692,7 @@
     },
     {
       "raw_hot": 219363,
-      "num": 170645,
+      "num": 179675,
       "word": "狗狗偷亲熟睡的小主人",
       "onboard_time": 1710752677,
       "rank": 30,
@@ -2819,6 +2843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205989,
+      "num": 205989,
+      "word": "盒马CEO侯毅宣布退休",
+      "onboard_time": 1710753636,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 205898,
       "num": 205898,
       "word": "王楚钦说目标远不止于此",
@@ -2921,6 +2953,14 @@
       "onboard_time": 1710649531,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200414,
+      "num": 200414,
+      "word": "林俊杰演唱会黄牛带领粉丝冲场",
+      "onboard_time": 1710752195,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 199344,
@@ -3091,6 +3131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192977,
+      "num": 192977,
+      "word": "第一次被厂里的环境震惊了",
+      "onboard_time": 1710754470,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192923,
       "num": 192923,
       "word": "刘诗诗春天随拍",
@@ -3243,6 +3291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185842,
+      "num": 185842,
+      "word": "江边城外烤鱼永远2.8斤是巧合吗",
+      "onboard_time": 1710754470,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 185665,
       "num": 185665,
       "word": "赵丽颖沈璃定妆花絮",
@@ -3257,6 +3313,14 @@
       "onboard_time": 1710687702,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185229,
+      "num": 185229,
+      "word": "THEBOYZ新歌",
+      "onboard_time": 1710753874,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 185167,
@@ -3283,20 +3347,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 181881,
-      "num": 181881,
-      "word": "林俊杰演唱会黄牛带领粉丝冲场",
-      "onboard_time": 1710752195,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 181823,
       "num": 181823,
       "word": "猜猜我是谁定档",
       "onboard_time": 1710731191,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181652,
+      "num": 181652,
+      "word": "酒肉情侣还有必要继续吗",
+      "onboard_time": 1710754470,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 181003,
@@ -3721,6 +3785,14 @@
       "onboard_time": 1710650857,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157957,
+      "num": 157957,
+      "word": "甘肃麻辣烫三件套",
+      "onboard_time": 1710754052,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 156928,
@@ -4459,6 +4531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120208,
+      "num": 120208,
+      "word": "猫咪一次外向换来一辈子的内向",
+      "onboard_time": 1710754533,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119690,
       "num": 119690,
       "word": "天水Tony连夜改行卖麻辣烫",
@@ -4537,14 +4617,6 @@
       "onboard_time": 1710721354,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114590,
-      "num": 114590,
-      "word": "刘亦菲灵蛇女王",
-      "onboard_time": 1710753453,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 114419,
@@ -4915,6 +4987,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 47782,
+      "num": 527219,
+      "word": "小米Civi4Pro首发第三代骁龙8s",
+      "onboard_time": 1710752735,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 42536,
       "num": 381391,
       "word": "听晚安电台睡着了",
@@ -4929,14 +5009,6 @@
       "onboard_time": 1710710655,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40994,
-      "num": 188153,
-      "word": "小米Civi4Pro首发第三代骁龙8s",
-      "onboard_time": 1710752735,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 39203,
@@ -5003,6 +5075,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 20156,
+      "num": 152030,
+      "word": "明星们的最新出行搭子",
+      "onboard_time": 1710752795,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19932,
       "num": 33623,
       "word": "2024全英公开赛",
@@ -5019,12 +5099,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15432,
-      "num": 132989,
-      "word": "明星们的最新出行搭子",
-      "onboard_time": 1710752795,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 15189,
+      "num": 1081343,
+      "word": "祖国各地春日美食上新了",
+      "onboard_time": 1710754292,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15131,
