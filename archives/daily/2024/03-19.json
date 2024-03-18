@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710779902158,
+  "endTime": 1710782222736,
   "band_list": [
     {
       "raw_hot": 1300358,
@@ -41,6 +41,14 @@
       "onboard_time": 1710771819,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 601208,
+      "num": 255381,
+      "word": "女孩拼2年考研上岸一学期后退学",
+      "onboard_time": 1710778768,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 577177,
@@ -203,14 +211,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 226390,
-      "num": 226390,
-      "word": "女孩拼2年考研上岸一学期后退学",
-      "onboard_time": 1710778768,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202321,
       "num": 202321,
       "word": "4医生3小时帮男子取出200多颗脂肪瘤",
@@ -371,7 +371,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92057,
+      "raw_hot": 95722,
       "num": 92057,
       "word": "权志龙姜大声同框合照",
       "onboard_time": 1710779547,
@@ -401,6 +401,22 @@
       "onboard_time": 1710769178,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77580,
+      "num": 77580,
+      "word": "烈焰 疯神榜",
+      "onboard_time": 1710781763,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 63570,
+      "num": 63570,
+      "word": "碎嘴凤凰",
+      "onboard_time": 1710782001,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 34927,
