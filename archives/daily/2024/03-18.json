@@ -1,6 +1,6 @@
 {
   "startTime": 1710692394779,
-  "endTime": 1710747249576,
+  "endTime": 1710750082234,
   "band_list": [
     {
       "raw_hot": 6623497,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1382937,
+      "num": 1382937,
+      "word": "三只羊就梅菜扣肉事件致歉",
+      "onboard_time": 1710746254,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1374465,
       "num": 848367,
       "word": "杀害4岁女童的男孩接受6个月心理矫治",
@@ -251,12 +259,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 907554,
+      "num": 907554,
+      "word": "林剑成外交部新任发言人",
+      "onboard_time": 1710746614,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 868160,
       "num": 868160,
       "word": "快餐顶流黄焖鸡为啥没人吃了",
       "onboard_time": 1710717566,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 857503,
+      "num": 857503,
+      "word": "王珞丹官宣是女儿是妈妈",
+      "onboard_time": 1710747517,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 826561,
@@ -275,11 +299,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 806929,
-      "num": 806929,
-      "word": "三只羊就梅菜扣肉事件致歉",
-      "onboard_time": 1710746254,
-      "rank": 3,
+      "raw_hot": 787269,
+      "num": 787269,
+      "word": "315打假名单",
+      "onboard_time": 1710746675,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -467,14 +491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 547317,
-      "num": 547317,
-      "word": "林剑成外交部新任发言人",
-      "onboard_time": 1710746614,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 533720,
       "num": 533720,
       "word": "火星哥因赌博欠债5000万美元",
@@ -488,6 +504,14 @@
       "word": "徐娇再喊话竹内亮",
       "onboard_time": 1710719369,
       "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 524317,
+      "num": 515522,
+      "word": "郑合惠子否认退圈",
+      "onboard_time": 1710747094,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -515,12 +539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465457,
+      "num": 170834,
+      "word": "你以为很卫生其实很脏的行为",
+      "onboard_time": 1710749497,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 465455,
       "num": 465455,
       "word": "优酷开知否限免",
       "onboard_time": 1710729455,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 463668,
+      "num": 220441,
+      "word": "鸡骨泥运用于淀粉肠中不算违规",
+      "onboard_time": 1710749435,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 459474,
@@ -555,6 +595,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 425991,
+      "num": 425991,
+      "word": "林宥嘉MV女主角是桂纶镁",
+      "onboard_time": 1710747993,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 421333,
       "num": 421333,
       "word": "辛芷蕾高定封",
@@ -576,6 +624,14 @@
       "word": "马卉发文致歉",
       "onboard_time": 1710742774,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 409047,
+      "num": 409047,
+      "word": "鞠婧祎小号",
+      "onboard_time": 1710747633,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -617,14 +673,6 @@
       "onboard_time": 1710687523,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 384873,
-      "num": 384873,
-      "word": "315打假名单",
-      "onboard_time": 1710746675,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 382118,
@@ -673,6 +721,14 @@
       "onboard_time": 1710676956,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362322,
+      "num": 215378,
+      "word": "我爸退出了家族群",
+      "onboard_time": 1710749435,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 359707,
@@ -817,6 +873,14 @@
       "onboard_time": 1710689681,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297268,
+      "num": 297268,
+      "word": "惠英红 大祭司",
+      "onboard_time": 1710748599,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 295363,
@@ -1075,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206191,
+      "num": 206191,
+      "word": "主办方公布梅西缺阵退款方案",
+      "onboard_time": 1710749737,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204564,
       "num": 204564,
       "word": "适合春天扎的低丸子头",
@@ -1307,14 +1379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177357,
-      "num": 177357,
-      "word": "郑合惠子否认退圈",
-      "onboard_time": 1710747094,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176853,
       "num": 176853,
       "word": "姐姐拯救了小时候的自己",
@@ -1361,6 +1425,14 @@
       "onboard_time": 1710729334,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169952,
+      "num": 169952,
+      "word": "第三代骁龙8S移动平台",
+      "onboard_time": 1710749857,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 168111,
@@ -1427,6 +1499,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160769,
+      "num": 160769,
+      "word": "化妆品微商送毒小样让客人以为功效好",
+      "onboard_time": 1710746734,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 159291,
+      "num": 159291,
+      "word": "卖淀粉肠大哥改行卖烤面筋",
+      "onboard_time": 1710749379,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159179,
       "num": 159179,
       "word": "林俊杰衣服",
@@ -1459,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152999,
+      "num": 152999,
+      "word": "宋轶 红山动物园",
+      "onboard_time": 1710749917,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152269,
       "num": 152269,
       "word": "养猫家庭就别整那些有的没的",
@@ -1473,14 +1569,6 @@
       "onboard_time": 1710717265,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151822,
-      "num": 151822,
-      "word": "化妆品微商送毒小样让客人以为功效好",
-      "onboard_time": 1710746734,
-      "rank": 41,
-      "category": "美妆"
     },
     {
       "raw_hot": 151239,
@@ -1531,6 +1619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142013,
+      "num": 142013,
+      "word": "林俊杰苏州",
+      "onboard_time": 1710749260,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140665,
       "num": 140665,
       "word": "刘烨晒自拍",
@@ -1552,6 +1648,14 @@
       "word": "赵丽颖徐海乔对手戏",
       "onboard_time": 1710732637,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 136963,
+      "num": 136963,
+      "word": "与凤行云包场",
+      "onboard_time": 1710748056,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1577,6 +1681,14 @@
       "onboard_time": 1710738515,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135570,
+      "num": 135570,
+      "word": "复试穿搭",
+      "onboard_time": 1710747212,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 134339,
@@ -1739,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119690,
+      "num": 119690,
+      "word": "天水Tony连夜改行卖麻辣烫",
+      "onboard_time": 1710748177,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 119685,
       "num": 119685,
       "word": "李惠利经纪公司回应",
@@ -1747,12 +1867,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118873,
+      "num": 118873,
+      "word": "五菱缤果PLUS",
+      "onboard_time": 1710749977,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 117962,
       "num": 117962,
       "word": "无限超越班 李菲儿",
       "onboard_time": 1710682538,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117352,
+      "num": 117352,
+      "word": "小米Civi4Pro",
+      "onboard_time": 1710747335,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 117144,
@@ -1777,14 +1913,6 @@
       "onboard_time": 1710743433,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 109325,
-      "num": 109325,
-      "word": "复试穿搭",
-      "onboard_time": 1710747212,
-      "rank": 48,
-      "category": "时尚"
     },
     {
       "raw_hot": 108302,
