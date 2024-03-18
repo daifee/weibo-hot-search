@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710757140050,
+  "endTime": 1710758068399,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -376,6 +376,14 @@
       "word": "男生患上桃花癫感觉全校女生都喜欢自己",
       "onboard_time": 1710635488,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1318504,
+      "num": 491411,
+      "word": "杀害4岁女童的未满12岁男孩或已正常上学",
+      "onboard_time": 1710756332,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1291,20 +1299,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 495694,
+      "num": 573201,
+      "word": "大爷瀑布下帮捞无人机游客心疼大喊不要了",
+      "onboard_time": 1710755430,
+      "rank": 7,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 492723,
       "num": 492723,
       "word": "辛芷蕾连穿8套顶级高定",
       "onboard_time": 1710741217,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 487793,
-      "num": 487793,
-      "word": "杀害4岁女童的未满12岁男孩或已正常上学",
-      "onboard_time": 1710756332,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 480407,
@@ -1329,6 +1337,14 @@
       "onboard_time": 1710655951,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 473290,
+      "num": 473290,
+      "word": "成都二诊",
+      "onboard_time": 1710755313,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 472246,
@@ -1403,14 +1419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 458143,
-      "num": 573201,
-      "word": "大爷瀑布下帮捞无人机游客心疼大喊不要了",
-      "onboard_time": 1710755430,
-      "rank": 7,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 456513,
       "num": 389159,
       "word": "李嘉琦带沈月开粉色小游艇",
@@ -1481,6 +1489,14 @@
       "onboard_time": 1710632964,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 446135,
+      "num": 446135,
+      "word": "中方高度赞赏普京总统涉台表态",
+      "onboard_time": 1710754955,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 440709,
@@ -1859,14 +1875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 360148,
-      "num": 360148,
-      "word": "中方高度赞赏普京总统涉台表态",
-      "onboard_time": 1710754955,
-      "rank": 17,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 359707,
       "num": 359707,
       "word": "林孝埈说今天不是我的终点",
@@ -1921,14 +1929,6 @@
       "onboard_time": 1710652473,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 342526,
-      "num": 342526,
-      "word": "成都二诊",
-      "onboard_time": 1710755313,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 340228,
@@ -2147,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302825,
+      "num": 302825,
+      "word": "韩版知否知否",
+      "onboard_time": 1710755911,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302723,
       "num": 302723,
       "word": "云南突发山火有人员伤亡",
@@ -2363,6 +2371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 264130,
+      "num": 264130,
+      "word": "能不能禁止东北人干翻译",
+      "onboard_time": 1710757053,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 263995,
       "num": 263995,
       "word": "读研家里不给生活费",
@@ -2473,14 +2489,6 @@
       "onboard_time": 1710669033,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 252983,
-      "num": 252983,
-      "word": "韩版知否知否",
-      "onboard_time": 1710755911,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 250372,
@@ -3123,6 +3131,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 196724,
+      "num": 196724,
+      "word": "王梓薇拍与凤行没见到赵丽颖",
+      "onboard_time": 1710757353,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196706,
       "num": 196706,
       "word": "新款苹果手表将支持血压监测",
@@ -3233,6 +3249,14 @@
       "onboard_time": 1710745714,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191625,
+      "num": 191625,
+      "word": "长风破浪导演谈初见王一博",
+      "onboard_time": 1710757233,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 191585,
@@ -3851,6 +3875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158852,
+      "num": 562935,
+      "word": "4岁娃迷路在派出所大口干饭",
+      "onboard_time": 1710755430,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158624,
       "num": 158624,
       "word": "F1抢票",
@@ -4139,6 +4171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145854,
+      "num": 145854,
+      "word": "五月天公益演出",
+      "onboard_time": 1710757715,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145561,
       "num": 145561,
       "word": "张馨予遇到热心大爷",
@@ -4227,6 +4267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140638,
+      "num": 140638,
+      "word": "DAY6回归",
+      "onboard_time": 1710756813,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 140614,
       "num": 140614,
       "word": "花间令 人心隔脸皮",
@@ -4243,28 +4291,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 138653,
-      "num": 138653,
-      "word": "DAY6回归",
-      "onboard_time": 1710756813,
-      "rank": 43,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 138489,
       "num": 138489,
       "word": "王者神州地方志",
       "onboard_time": 1710673775,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 138046,
-      "num": 562935,
-      "word": "4岁娃迷路在派出所大口干饭",
-      "onboard_time": 1710755430,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 137970,
@@ -4563,6 +4595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123055,
+      "num": 123055,
+      "word": "女儿放学后从书包拿出个飞天女神",
+      "onboard_time": 1710756936,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122479,
       "num": 122479,
       "word": "Letme评价tangyuan",
@@ -4641,14 +4681,6 @@
       "onboard_time": 1710748177,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 119206,
-      "num": 119206,
-      "word": "女儿放学后从书包拿出个飞天女神",
-      "onboard_time": 1710756936,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 118940,
@@ -4747,6 +4779,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 113570,
+      "num": 113570,
+      "word": "林俊杰咳嗽卡点",
+      "onboard_time": 1710758015,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113034,
       "num": 113034,
       "word": "一个竖放蛋糕引发的拉锯战",
@@ -4769,14 +4809,6 @@
       "onboard_time": 1710637771,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111581,
-      "num": 111581,
-      "word": "能不能禁止东北人干翻译",
-      "onboard_time": 1710757053,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 110608,
@@ -5059,6 +5091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61509,
+      "num": 400446,
+      "word": "谁说硬派一定要有大梁",
+      "onboard_time": 1710756694,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 60340,
       "num": 343397,
       "word": "林高远说非常珍惜和马龙组双打",
@@ -5081,14 +5121,6 @@
       "onboard_time": 1710613998,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 52912,
-      "num": 163625,
-      "word": "谁说硬派一定要有大梁",
-      "onboard_time": 1710756694,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 50397,

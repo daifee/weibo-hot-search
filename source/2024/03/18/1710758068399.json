@@ -1,0 +1,410 @@
+{
+  "runTime": 1710758068399,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1825551,
+        "num": 1825551,
+        "word": "你以为很卫生其实很脏的行为",
+        "onboard_time": 1710749497,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1642686,
+        "num": 1642686,
+        "word": "肠妃回宫",
+        "onboard_time": 1710751476,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 76518,
+        "num": 1043375,
+        "word": "祖国各地春日美食上新了",
+        "onboard_time": 1710754292,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751628,
+        "num": 751628,
+        "word": "刘亦菲灵蛇女王",
+        "onboard_time": 1710753453,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 607300,
+        "num": 607300,
+        "word": "卖淀粉肠大哥改行卖烤面筋",
+        "onboard_time": 1710749379,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 567900,
+        "num": 567900,
+        "word": "鸡骨泥运用于淀粉肠中不算违规",
+        "onboard_time": 1710749435,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561205,
+        "num": 561205,
+        "word": "凯特现身",
+        "onboard_time": 1710734672,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 495694,
+        "num": 508596,
+        "word": "大爷瀑布下帮捞无人机游客心疼大喊不要了",
+        "onboard_time": 1710755430,
+        "rank": 7,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 158852,
+        "num": 504725,
+        "word": "4岁娃迷路在派出所大口干饭",
+        "onboard_time": 1710755430,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501213,
+        "num": 501213,
+        "word": "三只羊就梅菜扣肉事件致歉",
+        "onboard_time": 1710746254,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1318504,
+        "num": 491411,
+        "word": "杀害4岁女童的未满12岁男孩或已正常上学",
+        "onboard_time": 1710756332,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744342,
+        "num": 488775,
+        "word": "裴涩琪怀孕",
+        "onboard_time": 1710743196,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473290,
+        "num": 473290,
+        "word": "成都二诊",
+        "onboard_time": 1710755313,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 446135,
+        "num": 446135,
+        "word": "中方高度赞赏普京总统涉台表态",
+        "onboard_time": 1710754955,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 407758,
+        "num": 407758,
+        "word": "江边城外烤鱼永远2.8斤是巧合吗",
+        "onboard_time": 1710754470,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 406142,
+        "num": 406142,
+        "word": "鞠婧祎闭错眼了",
+        "onboard_time": 1710739954,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61509,
+        "num": 400446,
+        "word": "谁说硬派一定要有大梁",
+        "onboard_time": 1710756694,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 397218,
+        "num": 397218,
+        "word": "五月天泉州",
+        "onboard_time": 1710755493,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 378193,
+        "num": 378193,
+        "word": "查尔斯",
+        "onboard_time": 1710750335,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 374107,
+        "num": 374107,
+        "word": "315打假名单",
+        "onboard_time": 1710746675,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327986,
+        "num": 327986,
+        "word": "11岁儿子第一次约同学出去玩",
+        "onboard_time": 1710754834,
+        "rank": 20,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 324742,
+        "num": 324742,
+        "word": "李宏毅家的衣服卖13块钱",
+        "onboard_time": 1710744631,
+        "rank": 21,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 313987,
+        "num": 313987,
+        "word": "第一次被厂里的环境震惊了",
+        "onboard_time": 1710754470,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302825,
+        "num": 302825,
+        "word": "韩版知否知否",
+        "onboard_time": 1710755911,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273356,
+        "num": 273356,
+        "word": "宋轶 红山动物园",
+        "onboard_time": 1710749917,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264130,
+        "num": 264130,
+        "word": "能不能禁止东北人干翻译",
+        "onboard_time": 1710757053,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257115,
+        "num": 257115,
+        "word": "郑合惠子否认退圈",
+        "onboard_time": 1710747094,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251474,
+        "num": 251474,
+        "word": "酒肉情侣还有必要继续吗",
+        "onboard_time": 1710754470,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237265,
+        "num": 237265,
+        "word": "为什么一次性手套总渗油",
+        "onboard_time": 1710756094,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196895,
+        "num": 230709,
+        "word": "淀粉肠小王子发声",
+        "onboard_time": 1710734855,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228680,
+        "num": 228680,
+        "word": "与凤行好大阵仗",
+        "onboard_time": 1710743252,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199400,
+        "num": 199400,
+        "word": "主办方公布梅西缺阵退款方案",
+        "onboard_time": 1710749737,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196724,
+        "num": 196724,
+        "word": "王梓薇拍与凤行没见到赵丽颖",
+        "onboard_time": 1710757353,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194979,
+        "num": 194979,
+        "word": "盒马CEO侯毅宣布退休",
+        "onboard_time": 1710753636,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 193928,
+        "num": 193928,
+        "word": "Tarzan NIP",
+        "onboard_time": 1710755735,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191625,
+        "num": 191625,
+        "word": "长风破浪导演谈初见王一博",
+        "onboard_time": 1710757233,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190582,
+        "num": 190582,
+        "word": "难怪我每次请假都成功了",
+        "onboard_time": 1710752015,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187112,
+        "num": 187112,
+        "word": "我爸退出了家族群",
+        "onboard_time": 1710749435,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175135,
+        "num": 175135,
+        "word": "狗狗偷亲熟睡的小主人",
+        "onboard_time": 1710752677,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155243,
+        "num": 155243,
+        "word": "科比妻子被恶意造谣",
+        "onboard_time": 1710752735,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151502,
+        "num": 151502,
+        "word": "猫咪一次外向换来一辈子的内向",
+        "onboard_time": 1710754533,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151354,
+        "num": 151354,
+        "word": "金价",
+        "onboard_time": 1710751357,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145854,
+        "num": 145854,
+        "word": "五月天公益演出",
+        "onboard_time": 1710757715,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142368,
+        "num": 142368,
+        "word": "林俊杰演唱会黄牛带领粉丝冲场",
+        "onboard_time": 1710752195,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140638,
+        "num": 140638,
+        "word": "DAY6回归",
+        "onboard_time": 1710756813,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134946,
+        "num": 134946,
+        "word": "自带习惯让我一年多存2万",
+        "onboard_time": 1710751597,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130227,
+        "num": 130227,
+        "word": "全员加速中济南",
+        "onboard_time": 1710755195,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126280,
+        "num": 126280,
+        "word": "鞠婧祎小号",
+        "onboard_time": 1710747633,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123055,
+        "num": 123055,
+        "word": "女儿放学后从书包拿出个飞天女神",
+        "onboard_time": 1710756936,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113570,
+        "num": 113570,
+        "word": "林俊杰咳嗽卡点",
+        "onboard_time": 1710758015,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#创新课堂教学给学生深刻的学习体验#"
+    }
+  }
+}
