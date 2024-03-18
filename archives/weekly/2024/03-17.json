@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710803865221,
+  "endTime": 1710804857351,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -739,6 +739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 953389,
+      "num": 953389,
+      "word": "路边卖淀粉肠阿姨主动出示声明书",
+      "onboard_time": 1710786917,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 948687,
       "num": 948687,
       "word": "大爷连开16个双黄蛋不敢吃了",
@@ -987,6 +995,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 752165,
+      "num": 572537,
+      "word": "女孩拼2年考研上岸一学期后退学",
+      "onboard_time": 1710778768,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 749583,
       "num": 749583,
       "word": "与凤行收视率",
@@ -1051,14 +1067,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 737462,
-      "num": 737462,
-      "word": "路边卖淀粉肠阿姨主动出示声明书",
-      "onboard_time": 1710786917,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 734545,
       "num": 438529,
       "word": "身上这种小疙瘩或是HPV感染",
@@ -1097,6 +1105,14 @@
       "onboard_time": 1710687344,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 712272,
+      "num": 278913,
+      "word": "她和智障哥哥唯一合照是陌生人拍的",
+      "onboard_time": 1710803004,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 705743,
@@ -1153,6 +1169,14 @@
       "onboard_time": 1710684760,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 658904,
+      "num": 658904,
+      "word": "比酒精还厉害的肝脏刺客",
+      "onboard_time": 1710767192,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 655680,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1710669811,
       "rank": 18,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 608203,
-      "num": 484244,
-      "word": "女孩拼2年考研上岸一学期后退学",
-      "onboard_time": 1710778768,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 604377,
@@ -1483,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 535855,
-      "num": 535855,
-      "word": "比酒精还厉害的肝脏刺客",
-      "onboard_time": 1710767192,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 533720,
       "num": 533720,
       "word": "火星哥因赌博欠债5000万美元",
@@ -1657,6 +1665,14 @@
       "onboard_time": 1710655951,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 473472,
+      "num": 473472,
+      "word": "93年副所长入警9年满头白发",
+      "onboard_time": 1710772168,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473290,
@@ -1843,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 438995,
+      "num": 158171,
+      "word": "睡醒之后一定要改掉这4个坏习惯",
+      "onboard_time": 1710803004,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 433192,
       "num": 433192,
       "word": "主办方公布梅西缺阵退款方案",
@@ -2017,6 +2041,14 @@
       "onboard_time": 1710653491,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 407087,
+      "num": 276901,
+      "word": "高度近视的人需要注意这四件事",
+      "onboard_time": 1710788357,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 406726,
@@ -2347,14 +2379,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 332351,
-      "num": 332351,
-      "word": "93年副所长入警9年满头白发",
-      "onboard_time": 1710772168,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 329780,
       "num": 329780,
       "word": "童瑶演了我梦里的爽文女主",
@@ -2409,14 +2433,6 @@
       "onboard_time": 1710741755,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318857,
-      "num": 239618,
-      "word": "高度近视的人需要注意这四件事",
-      "onboard_time": 1710788357,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 318234,
@@ -2787,6 +2803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272289,
+      "num": 272289,
+      "word": "英伟达发布最强AI加速卡",
+      "onboard_time": 1710803304,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 271582,
       "num": 271582,
       "word": "张杰吃醋的样子好可爱",
@@ -2881,14 +2905,6 @@
       "onboard_time": 1710648930,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 260687,
-      "num": 128090,
-      "word": "睡醒之后一定要改掉这4个坏习惯",
-      "onboard_time": 1710803004,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 260674,
@@ -3275,20 +3291,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223796,
+      "num": 150672,
+      "word": "英王室不回应凯特之谜的两种可能",
+      "onboard_time": 1710797836,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 223654,
       "num": 223654,
       "word": "第一次见这样算工资的",
       "onboard_time": 1710732993,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 223187,
-      "num": 128016,
-      "word": "英王室不回应凯特之谜的两种可能",
-      "onboard_time": 1710797836,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 223085,
@@ -3481,14 +3497,6 @@
       "onboard_time": 1710745416,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 211507,
-      "num": 211507,
-      "word": "她和智障哥哥唯一合照是陌生人拍的",
-      "onboard_time": 1710803004,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 211289,
@@ -4579,6 +4587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161728,
+      "num": 161728,
+      "word": "N1报名",
+      "onboard_time": 1710803786,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 161395,
       "num": 161395,
       "word": "为什么我们越来越不想和长辈交流",
@@ -4995,14 +5011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144636,
-      "num": 144636,
-      "word": "英伟达发布最强AI加速卡",
-      "onboard_time": 1710803304,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 144609,
       "num": 144609,
       "word": "我们也是第一次做父母啊",
@@ -5211,6 +5219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134991,
+      "num": 134991,
+      "word": "王珞丹一家四口颜值",
+      "onboard_time": 1710792435,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134974,
       "num": 543164,
       "word": "消防员七倒八歪的睡姿看得心疼",
@@ -5371,14 +5387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 127661,
-      "num": 127661,
-      "word": "王珞丹一家四口颜值",
-      "onboard_time": 1710792435,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 127331,
       "num": 127331,
       "word": "杜华全年通告被唐九洲套路走",
@@ -5425,6 +5433,14 @@
       "onboard_time": 1710743851,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125435,
+      "num": 125435,
+      "word": "特斯拉市值一夜涨超2364亿",
+      "onboard_time": 1710804266,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 125307,
@@ -5755,6 +5771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99462,
+      "num": 99462,
+      "word": "胡锡进称A股越来越像牛市",
+      "onboard_time": 1710801678,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 99372,
       "num": 208709,
       "word": "油脂鼻头",
@@ -5787,12 +5811,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 97839,
+      "num": 97839,
+      "word": "宋宁峰董洁演夫妻",
+      "onboard_time": 1710794536,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97738,
       "num": 341734,
       "word": "雅江山火",
       "onboard_time": 1710586114,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96875,
+      "num": 96875,
+      "word": "胆碱性荨麻疹使我活的像个吸血鬼",
+      "onboard_time": 1710803605,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96232,
+      "num": 96232,
+      "word": "王一博拍长风破浪没带剧本到现场",
+      "onboard_time": 1710800959,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 95799,
@@ -5817,14 +5865,6 @@
       "onboard_time": 1710695429,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92102,
-      "num": 92102,
-      "word": "N1报名",
-      "onboard_time": 1710803786,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 91961,
@@ -5867,6 +5907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86667,
+      "num": 86667,
+      "word": "甘肃天水连早餐都是红油辣子",
+      "onboard_time": 1710804627,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 85305,
       "num": 85305,
       "word": "曼联vs利物浦",
@@ -5875,20 +5923,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84182,
-      "num": 84182,
-      "word": "王一博拍长风破浪没带剧本到现场",
-      "onboard_time": 1710800959,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 85117,
+      "num": 85117,
+      "word": "过敏体质慎吃香椿",
+      "onboard_time": 1710804627,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 83520,
-      "num": 83520,
-      "word": "宋宁峰董洁演夫妻",
-      "onboard_time": 1710794536,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 83370,
+      "num": 83370,
+      "word": "2024英伟达GTC大会",
+      "onboard_time": 1710803726,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 79734,
@@ -5923,6 +5971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78415,
+      "num": 78415,
+      "word": "EDG",
+      "onboard_time": 1710804327,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 78237,
       "num": 605341,
       "word": "赵明称荣耀Magic就是为AI而生",
@@ -5937,14 +5993,6 @@
       "onboard_time": 1710781763,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 77523,
-      "num": 77523,
-      "word": "胡锡进称A股越来越像牛市",
-      "onboard_time": 1710801678,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 77247,
@@ -5971,6 +6019,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75716,
+      "num": 75716,
+      "word": "英伟达",
+      "onboard_time": 1710804749,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 74963,
+      "num": 74963,
+      "word": "杨采薇 断崖上的兰草",
+      "onboard_time": 1710785897,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74782,
       "num": 3861628,
       "word": "抢抓农时春日忙",
@@ -5985,6 +6049,14 @@
       "onboard_time": 1710762994,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 73197,
+      "num": 73197,
+      "word": "蜜雪冰城回应涨价1元尚未全国推广",
+      "onboard_time": 1710804688,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 72599,
@@ -6035,6 +6107,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 68008,
+      "num": 68008,
+      "word": "直击淀粉肠工厂线全流程",
+      "onboard_time": 1710803967,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 67930,
       "num": 67930,
       "word": "国乒包揽新加坡大满贯五冠",
@@ -6049,14 +6129,6 @@
       "onboard_time": 1710756694,
       "rank": 37,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 64674,
-      "num": 64674,
-      "word": "杨采薇 断崖上的兰草",
-      "onboard_time": 1710785897,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 64553,
@@ -6081,14 +6153,6 @@
       "onboard_time": 1710716965,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60492,
-      "num": 60492,
-      "word": "2024英伟达GTC大会",
-      "onboard_time": 1710803726,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 60340,
@@ -6137,14 +6201,6 @@
       "onboard_time": 1710631401,
       "rank": 33,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 49823,
-      "num": 49823,
-      "word": "胆碱性荨麻疹使我活的像个吸血鬼",
-      "onboard_time": 1710803605,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 49697,

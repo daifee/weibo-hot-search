@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710803865221,
+  "endTime": 1710804857351,
   "band_list": [
     {
       "raw_hot": 1300358,
@@ -27,19 +27,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 759184,
-      "num": 275918,
+      "raw_hot": 953389,
+      "num": 953389,
+      "word": "路边卖淀粉肠阿姨主动出示声明书",
+      "onboard_time": 1710786917,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 828364,
+      "num": 281303,
       "word": "凯特多位朋友发声",
       "onboard_time": 1710764734,
       "rank": 18,
       "category": "国外时政"
     },
     {
-      "raw_hot": 737462,
-      "num": 737462,
-      "word": "路边卖淀粉肠阿姨主动出示声明书",
-      "onboard_time": 1710786917,
-      "rank": 31,
+      "raw_hot": 752165,
+      "num": 572537,
+      "word": "女孩拼2年考研上岸一学期后退学",
+      "onboard_time": 1710778768,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -51,6 +59,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 712272,
+      "num": 278913,
+      "word": "她和智障哥哥唯一合照是陌生人拍的",
+      "onboard_time": 1710803004,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 658904,
+      "num": 658904,
+      "word": "比酒精还厉害的肝脏刺客",
+      "onboard_time": 1710767192,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 617641,
       "num": 617641,
       "word": "英国白金汉宫否认国王去世",
@@ -59,28 +83,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 608203,
-      "num": 484244,
-      "word": "女孩拼2年考研上岸一学期后退学",
-      "onboard_time": 1710778768,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 577177,
       "num": 577177,
       "word": "早上六点起床跟八点起床的区别",
       "onboard_time": 1710761014,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 535855,
-      "num": 535855,
-      "word": "比酒精还厉害的肝脏刺客",
-      "onboard_time": 1710767192,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 535015,
@@ -107,6 +115,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 473472,
+      "num": 473472,
+      "word": "93年副所长入警9年满头白发",
+      "onboard_time": 1710772168,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438995,
+      "num": 158171,
+      "word": "睡醒之后一定要改掉这4个坏习惯",
+      "onboard_time": 1710803004,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 434913,
       "num": 293569,
       "word": "审判与凤行",
@@ -123,6 +147,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 417338,
+      "num": 417338,
+      "word": "毕竟是九亿少女的梦",
+      "onboard_time": 1710771217,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 407087,
+      "num": 276901,
+      "word": "高度近视的人需要注意这四件事",
+      "onboard_time": 1710788357,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 365823,
       "num": 287708,
       "word": "赵丽颖的左右脸",
@@ -137,22 +177,6 @@
       "onboard_time": 1710777270,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 343073,
-      "num": 315809,
-      "word": "毕竟是九亿少女的梦",
-      "onboard_time": 1710771217,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 332351,
-      "num": 332351,
-      "word": "93年副所长入警9年满头白发",
-      "onboard_time": 1710772168,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 326401,
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 323012,
-      "num": 275696,
+      "num": 281470,
       "word": "与凤行",
       "onboard_time": 1710720272,
       "rank": 20,
@@ -185,14 +209,6 @@
       "onboard_time": 1710770678,
       "rank": 8,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 318857,
-      "num": 239618,
-      "word": "高度近视的人需要注意这四件事",
-      "onboard_time": 1710788357,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 302929,
@@ -227,12 +243,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 260687,
-      "num": 128090,
-      "word": "睡醒之后一定要改掉这4个坏习惯",
-      "onboard_time": 1710803004,
-      "rank": 20,
-      "category": "健康医疗"
+      "raw_hot": 272289,
+      "num": 272289,
+      "word": "英伟达发布最强AI加速卡",
+      "onboard_time": 1710803304,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 241864,
@@ -259,20 +275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223187,
-      "num": 128016,
+      "raw_hot": 223796,
+      "num": 150672,
       "word": "英王室不回应凯特之谜的两种可能",
       "onboard_time": 1710797836,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 211507,
-      "num": 211507,
-      "word": "她和智障哥哥唯一合照是陌生人拍的",
-      "onboard_time": 1710803004,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202321,
@@ -283,19 +291,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177308,
+      "num": 177308,
+      "word": "小桃又演小桃",
+      "onboard_time": 1710767558,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 161728,
+      "num": 161728,
+      "word": "N1报名",
+      "onboard_time": 1710803786,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 159629,
       "num": 159629,
       "word": "与凤行同款",
       "onboard_time": 1710776735,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 155363,
-      "num": 155363,
-      "word": "小桃又演小桃",
-      "onboard_time": 1710767558,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -339,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144636,
-      "num": 144636,
-      "word": "英伟达发布最强AI加速卡",
-      "onboard_time": 1710803304,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 136577,
       "num": 121409,
       "word": "金智媛哭戏",
@@ -361,6 +369,14 @@
       "onboard_time": 1710766114,
       "rank": 33,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 134991,
+      "num": 134991,
+      "word": "王珞丹一家四口颜值",
+      "onboard_time": 1710792435,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 130627,
@@ -387,12 +403,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 127661,
-      "num": 127661,
-      "word": "王珞丹一家四口颜值",
-      "onboard_time": 1710792435,
-      "rank": 40,
-      "category": "综艺"
+      "raw_hot": 125435,
+      "num": 125435,
+      "word": "特斯拉市值一夜涨超2364亿",
+      "onboard_time": 1710804266,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 121415,
@@ -427,6 +443,38 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99462,
+      "num": 99462,
+      "word": "胡锡进称A股越来越像牛市",
+      "onboard_time": 1710801678,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 97839,
+      "num": 97839,
+      "word": "宋宁峰董洁演夫妻",
+      "onboard_time": 1710794536,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96875,
+      "num": 96875,
+      "word": "胆碱性荨麻疹使我活的像个吸血鬼",
+      "onboard_time": 1710803605,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96232,
+      "num": 96232,
+      "word": "王一博拍长风破浪没带剧本到现场",
+      "onboard_time": 1710800959,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96028,
       "num": 121380,
       "word": "与凤行收视率",
@@ -443,20 +491,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92102,
-      "num": 92102,
-      "word": "N1报名",
-      "onboard_time": 1710803786,
-      "rank": 26,
-      "category": "教育"
-    },
-    {
       "raw_hot": 87480,
       "num": 121377,
       "word": "刘亦菲灵蛇女王",
       "onboard_time": 1710753453,
       "rank": 46,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 86667,
+      "num": 86667,
+      "word": "甘肃天水连早餐都是红油辣子",
+      "onboard_time": 1710804627,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 86445,
@@ -467,20 +515,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 84182,
-      "num": 84182,
-      "word": "王一博拍长风破浪没带剧本到现场",
-      "onboard_time": 1710800959,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 85117,
+      "num": 85117,
+      "word": "过敏体质慎吃香椿",
+      "onboard_time": 1710804627,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 83520,
-      "num": 83520,
-      "word": "宋宁峰董洁演夫妻",
-      "onboard_time": 1710794536,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 83370,
+      "num": 83370,
+      "word": "2024英伟达GTC大会",
+      "onboard_time": 1710803726,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 78461,
@@ -499,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78415,
+      "num": 78415,
+      "word": "EDG",
+      "onboard_time": 1710804327,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 77580,
       "num": 77580,
       "word": "烈焰 疯神榜",
@@ -507,12 +563,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77523,
-      "num": 77523,
-      "word": "胡锡进称A股越来越像牛市",
-      "onboard_time": 1710801678,
-      "rank": 34,
-      "category": "财经"
+      "raw_hot": 75716,
+      "num": 75716,
+      "word": "英伟达",
+      "onboard_time": 1710804749,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 74963,
+      "num": 74963,
+      "word": "杨采薇 断崖上的兰草",
+      "onboard_time": 1710785897,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 73197,
+      "num": 73197,
+      "word": "蜜雪冰城回应涨价1元尚未全国推广",
+      "onboard_time": 1710804688,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 70637,
@@ -523,20 +595,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 64674,
-      "num": 64674,
-      "word": "杨采薇 断崖上的兰草",
-      "onboard_time": 1710785897,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 60492,
-      "num": 60492,
-      "word": "2024英伟达GTC大会",
-      "onboard_time": 1710803726,
-      "rank": 39,
-      "category": "互联网"
+      "raw_hot": 68008,
+      "num": 68008,
+      "word": "直击淀粉肠工厂线全流程",
+      "onboard_time": 1710803967,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 52695,
@@ -545,14 +609,6 @@
       "onboard_time": 1710788537,
       "rank": 48,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 49823,
-      "num": 49823,
-      "word": "胆碱性荨麻疹使我活的像个吸血鬼",
-      "onboard_time": 1710803605,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 46092,
@@ -603,20 +659,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32789,
+      "num": 572977,
+      "word": "这是一堂生动的思政课",
+      "onboard_time": 1710767192,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32595,
       "num": 35012,
       "word": "小日子",
       "onboard_time": 1710784698,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31418,
-      "num": 489208,
-      "word": "这是一堂生动的思政课",
-      "onboard_time": 1710767192,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27544,

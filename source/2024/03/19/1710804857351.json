@@ -1,0 +1,410 @@
+{
+  "runTime": 1710804857351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 953389,
+        "num": 953389,
+        "word": "路边卖淀粉肠阿姨主动出示声明书",
+        "onboard_time": 1710786917,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658904,
+        "num": 658904,
+        "word": "比酒精还厉害的肝脏刺客",
+        "onboard_time": 1710767192,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32789,
+        "num": 572977,
+        "word": "这是一堂生动的思政课",
+        "onboard_time": 1710767192,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752165,
+        "num": 572537,
+        "word": "女孩拼2年考研上岸一学期后退学",
+        "onboard_time": 1710778768,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523539,
+        "num": 523539,
+        "word": "早上六点起床跟八点起床的区别",
+        "onboard_time": 1710761014,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 473472,
+        "num": 473472,
+        "word": "93年副所长入警9年满头白发",
+        "onboard_time": 1710772168,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417338,
+        "num": 417338,
+        "word": "毕竟是九亿少女的梦",
+        "onboard_time": 1710771217,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308100,
+        "num": 308100,
+        "word": "林狗还是帅的",
+        "onboard_time": 1710767192,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284653,
+        "num": 284653,
+        "word": "英国白金汉宫否认国王去世",
+        "onboard_time": 1710771819,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 281470,
+        "num": 281470,
+        "word": "与凤行",
+        "onboard_time": 1710720272,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 828364,
+        "num": 281303,
+        "word": "凯特多位朋友发声",
+        "onboard_time": 1710764734,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 712272,
+        "num": 278913,
+        "word": "她和智障哥哥唯一合照是陌生人拍的",
+        "onboard_time": 1710803004,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407087,
+        "num": 276901,
+        "word": "高度近视的人需要注意这四件事",
+        "onboard_time": 1710788357,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 272289,
+        "num": 272289,
+        "word": "英伟达发布最强AI加速卡",
+        "onboard_time": 1710803304,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 219231,
+        "num": 219231,
+        "word": "许家印决策并组织实施财务造假",
+        "onboard_time": 1710770678,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 189801,
+        "num": 189801,
+        "word": "迪丽热巴 枭起青壤",
+        "onboard_time": 1710774815,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189769,
+        "num": 189769,
+        "word": "杨幂戴了好多手串",
+        "onboard_time": 1710770079,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177308,
+        "num": 177308,
+        "word": "小桃又演小桃",
+        "onboard_time": 1710767558,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171859,
+        "num": 171859,
+        "word": "赵丽颖 扛剧",
+        "onboard_time": 1710770855,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161728,
+        "num": 161728,
+        "word": "N1报名",
+        "onboard_time": 1710803786,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 438995,
+        "num": 158171,
+        "word": "睡醒之后一定要改掉这4个坏习惯",
+        "onboard_time": 1710803004,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223796,
+        "num": 150672,
+        "word": "英王室不回应凯特之谜的两种可能",
+        "onboard_time": 1710797836,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 199548,
+        "num": 147059,
+        "word": "千万不要领考场门口的手表",
+        "onboard_time": 1710776432,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137385,
+        "num": 137385,
+        "word": "审判与凤行",
+        "onboard_time": 1710765453,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134991,
+        "num": 134991,
+        "word": "王珞丹一家四口颜值",
+        "onboard_time": 1710792435,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127167,
+        "num": 127167,
+        "word": "4医生3小时帮男子取出200多颗脂肪瘤",
+        "onboard_time": 1710774396,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125435,
+        "num": 125435,
+        "word": "特斯拉市值一夜涨超2364亿",
+        "onboard_time": 1710804266,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 123876,
+        "num": 123876,
+        "word": "郑合惠子刘学义能二搭吗",
+        "onboard_time": 1710773257,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109608,
+        "num": 109608,
+        "word": "辅导员告诉我导师突然去世了",
+        "onboard_time": 1710771996,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105871,
+        "num": 105871,
+        "word": "王一博秋裤起球了",
+        "onboard_time": 1710774872,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102362,
+        "num": 102362,
+        "word": "湖南卫视开始了",
+        "onboard_time": 1710764851,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99462,
+        "num": 99462,
+        "word": "胡锡进称A股越来越像牛市",
+        "onboard_time": 1710801678,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101171,
+        "num": 99290,
+        "word": "刘学义上桌了",
+        "onboard_time": 1710776552,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97839,
+        "num": 97839,
+        "word": "宋宁峰董洁演夫妻",
+        "onboard_time": 1710794536,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96875,
+        "num": 96875,
+        "word": "胆碱性荨麻疹使我活的像个吸血鬼",
+        "onboard_time": 1710803605,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96232,
+        "num": 96232,
+        "word": "王一博拍长风破浪没带剧本到现场",
+        "onboard_time": 1710800959,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89317,
+        "num": 89317,
+        "word": "你以为很卫生其实很脏的行为",
+        "onboard_time": 1710749497,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 86667,
+        "num": 86667,
+        "word": "甘肃天水连早餐都是红油辣子",
+        "onboard_time": 1710804627,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86019,
+        "num": 86019,
+        "word": "戴安娜王妃弟弟就凯特阴谋论发声",
+        "onboard_time": 1710759515,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 85117,
+        "num": 85117,
+        "word": "过敏体质慎吃香椿",
+        "onboard_time": 1710804627,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83370,
+        "num": 83370,
+        "word": "2024英伟达GTC大会",
+        "onboard_time": 1710803726,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 80335,
+        "num": 80335,
+        "word": "男子陪父亲体检顺便做胃肠镜救下一命",
+        "onboard_time": 1710771038,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79578,
+        "num": 79578,
+        "word": "恒大地产被罚41.75亿元",
+        "onboard_time": 1710766114,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 78415,
+        "num": 78415,
+        "word": "EDG",
+        "onboard_time": 1710804327,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75716,
+        "num": 75716,
+        "word": "英伟达",
+        "onboard_time": 1710804749,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 74963,
+        "num": 74963,
+        "word": "杨采薇 断崖上的兰草",
+        "onboard_time": 1710785897,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73197,
+        "num": 73197,
+        "word": "蜜雪冰城回应涨价1元尚未全国推广",
+        "onboard_time": 1710804688,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 68008,
+        "num": 68008,
+        "word": "直击淀粉肠工厂线全流程",
+        "onboard_time": 1710803967,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 67608,
+        "num": 67608,
+        "word": "张慧雯连发50个问号",
+        "onboard_time": 1710777270,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66736,
+        "num": 67591,
+        "word": "女生一次的月经量多少才算正常",
+        "onboard_time": 1710771937,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#育人之本在于培根铸魂#"
+    }
+  }
+}
