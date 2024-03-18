@@ -1,6 +1,6 @@
 {
   "startTime": 1710692394779,
-  "endTime": 1710765044788,
+  "endTime": 1710766080765,
   "band_list": [
     {
       "raw_hot": 6623497,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4204679,
+      "num": 4204679,
+      "word": "与凤行",
+      "onboard_time": 1710720272,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 3675645,
       "num": 3675645,
       "word": "13岁男生猥亵女生被送至专门学校",
@@ -33,14 +41,6 @@
       "onboard_time": 1710684101,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3346122,
-      "num": 3346122,
-      "word": "与凤行",
-      "onboard_time": 1710720272,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 3055738,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2020201,
+      "num": 874321,
+      "word": "27岁自杀规培生已签署三甲医院麻醉科",
+      "onboard_time": 1710762513,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1922010,
       "num": 1922010,
       "word": "戴安娜王妃弟弟就凯特阴谋论发声",
@@ -139,14 +147,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1708191,
-      "num": 874321,
-      "word": "27岁自杀规培生已签署三甲医院麻醉科",
-      "onboard_time": 1710762513,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1663001,
       "num": 1663001,
       "word": "当地通报梅州一13岁男生猥亵女生",
@@ -169,6 +169,14 @@
       "onboard_time": 1710744631,
       "rank": 1,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1503484,
+      "num": 1503484,
+      "word": "审判与凤行",
+      "onboard_time": 1710765453,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1491888,
@@ -291,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1007200,
+      "num": 1007200,
+      "word": "查尔斯",
+      "onboard_time": 1710750335,
+      "rank": 26,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 996046,
       "num": 751046,
       "word": "长期炎症容易拖成癌",
@@ -361,14 +377,6 @@
       "onboard_time": 1710746614,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 873761,
-      "num": 873761,
-      "word": "查尔斯",
-      "onboard_time": 1710750335,
-      "rank": 26,
-      "category": "国外时政"
     },
     {
       "raw_hot": 868160,
@@ -483,6 +491,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 743007,
+      "num": 743007,
+      "word": "与凤行特效",
+      "onboard_time": 1710764493,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 742470,
       "num": 742470,
       "word": "山东一淀粉肠厂家公开生产流程",
@@ -507,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 715040,
+      "num": 715040,
+      "word": "湖南卫视开始了",
+      "onboard_time": 1710764851,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 702433,
       "num": 702433,
       "word": "Angel父亲离世",
@@ -529,6 +553,22 @@
       "onboard_time": 1710759216,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 674314,
+      "num": 199560,
+      "word": "凯特多位朋友发声",
+      "onboard_time": 1710764734,
+      "rank": 31,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 658482,
+      "num": 658482,
+      "word": "淀粉肠生产企业董事长直播吃淀粉肠",
+      "onboard_time": 1710763890,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 655680,
@@ -707,14 +747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 487221,
-      "num": 525340,
-      "word": "淀粉肠生产企业董事长直播吃淀粉肠",
-      "onboard_time": 1710763890,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 473290,
       "num": 473290,
       "word": "成都二诊",
@@ -753,14 +785,6 @@
       "onboard_time": 1710726514,
       "rank": 22,
       "category": "美食"
-    },
-    {
-      "raw_hot": 458912,
-      "num": 458912,
-      "word": "与凤行特效",
-      "onboard_time": 1710764493,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 454083,
@@ -1027,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328281,
+      "num": 328281,
+      "word": "许家印拟被终身证券市场禁入",
+      "onboard_time": 1710765812,
+      "rank": 19,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 326066,
       "num": 326066,
       "word": "徐娇又勇了",
@@ -1084,7 +1116,7 @@
     },
     {
       "raw_hot": 311270,
-      "num": 513328,
+      "num": 599554,
       "word": "云南大理突发林火",
       "onboard_time": 1710763053,
       "rank": 9,
@@ -1195,6 +1227,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 268503,
+      "num": 268503,
+      "word": "叶蓁蓁现实版农夫与蛇",
+      "onboard_time": 1710764376,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 264821,
+      "num": 264821,
+      "word": "与凤行热度",
+      "onboard_time": 1710765577,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263954,
       "num": 263954,
       "word": "林孝埈最后一圈反超",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1710753696,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 260798,
+      "num": 260798,
+      "word": "与凤行 广告",
+      "onboard_time": 1710765633,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 260674,
@@ -1315,6 +1371,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 230944,
+      "num": 230944,
+      "word": "湖北16岁少年疑被同龄人杀害",
+      "onboard_time": 1710765213,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230621,
       "num": 230621,
       "word": "李帝努发型",
@@ -1395,6 +1459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 218650,
+      "num": 218650,
+      "word": "我国渤海中北部发现亿吨级油田",
+      "onboard_time": 1710762332,
+      "rank": 23,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 217864,
       "num": 217864,
       "word": "与凤行开播排面",
@@ -1451,14 +1523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210725,
-      "num": 210725,
-      "word": "我国渤海中北部发现亿吨级油田",
-      "onboard_time": 1710762332,
-      "rank": 23,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 208729,
       "num": 208729,
       "word": "家属回应邯郸被害男生尸检进展",
@@ -1481,14 +1545,6 @@
       "onboard_time": 1710753636,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 205444,
-      "num": 175693,
-      "word": "湖南卫视开始了",
-      "onboard_time": 1710764851,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 204564,
@@ -1521,6 +1577,14 @@
       "onboard_time": 1710739235,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201239,
+      "num": 201239,
+      "word": "价格不低但利用率极低的家电",
+      "onboard_time": 1710762631,
+      "rank": 29,
+      "category": "休闲"
     },
     {
       "raw_hot": 200656,
@@ -1731,14 +1795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185610,
-      "num": 185610,
-      "word": "叶蓁蓁现实版农夫与蛇",
-      "onboard_time": 1710764376,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185229,
       "num": 185229,
       "word": "THEBOYZ新歌",
@@ -1795,14 +1851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179301,
-      "num": 175329,
-      "word": "凯特多位朋友发声",
-      "onboard_time": 1710764734,
-      "rank": 31,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 178912,
       "num": 178912,
       "word": "赵丽颖工作室包场",
@@ -1827,14 +1875,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 175755,
-      "num": 175755,
-      "word": "价格不低但利用率极低的家电",
-      "onboard_time": 1710762631,
-      "rank": 29,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 174408,
       "num": 174408,
       "word": "李现回武汉",
@@ -1849,6 +1889,14 @@
       "onboard_time": 1710727953,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172844,
+      "num": 172844,
+      "word": "赵丽颖招商能力",
+      "onboard_time": 1710765391,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 171550,
@@ -1963,6 +2011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 160894,
+      "num": 160894,
+      "word": "荣耀发布会",
+      "onboard_time": 1710762931,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 159179,
       "num": 159179,
       "word": "林俊杰衣服",
@@ -2009,14 +2065,6 @@
       "onboard_time": 1710726456,
       "rank": 40,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 154626,
-      "num": 154626,
-      "word": "荣耀发布会",
-      "onboard_time": 1710762931,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 154120,
@@ -2588,7 +2636,7 @@
     },
     {
       "raw_hot": 73288,
-      "num": 220083,
+      "num": 287731,
       "word": "大学生买游戏本还是轻薄本",
       "onboard_time": 1710762994,
       "rank": 22,
@@ -2627,6 +2675,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 62730,
+      "num": 492144,
+      "word": "新势力周发券发疯了",
+      "onboard_time": 1710763233,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 62113,
       "num": 62113,
       "word": "曼联晋级足总杯四强",
@@ -2649,14 +2705,6 @@
       "onboard_time": 1710680555,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42687,
-      "num": 431540,
-      "word": "新势力周发券发疯了",
-      "onboard_time": 1710763233,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 41177,

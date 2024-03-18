@@ -1,0 +1,410 @@
+{
+  "runTime": 1710766080765,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4204679,
+        "num": 4204679,
+        "word": "与凤行",
+        "onboard_time": 1710720272,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1503484,
+        "num": 1503484,
+        "word": "审判与凤行",
+        "onboard_time": 1710765453,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72824,
+        "num": 1102398,
+        "word": "祖国各地春日美食上新了",
+        "onboard_time": 1710754292,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1007200,
+        "num": 1007200,
+        "word": "查尔斯",
+        "onboard_time": 1710750335,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 786219,
+        "num": 786219,
+        "word": "早上六点起床跟八点起床的区别",
+        "onboard_time": 1710761014,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 743007,
+        "num": 743007,
+        "word": "与凤行特效",
+        "onboard_time": 1710764493,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 715040,
+        "num": 715040,
+        "word": "湖南卫视开始了",
+        "onboard_time": 1710764851,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 658482,
+        "num": 658482,
+        "word": "淀粉肠生产企业董事长直播吃淀粉肠",
+        "onboard_time": 1710763890,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605523,
+        "num": 605523,
+        "word": "能不能禁止东北人干翻译",
+        "onboard_time": 1710757053,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278935,
+        "num": 599554,
+        "word": "云南大理突发林火",
+        "onboard_time": 1710763053,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2020201,
+        "num": 594992,
+        "word": "27岁自杀规培生已签署三甲医院麻醉科",
+        "onboard_time": 1710762513,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1034932,
+        "num": 589774,
+        "word": "戴安娜王妃弟弟就凯特阴谋论发声",
+        "onboard_time": 1710759515,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 892427,
+        "num": 575129,
+        "word": "杨幂小拇指好短",
+        "onboard_time": 1710759515,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 575047,
+        "num": 575047,
+        "word": "你以为很卫生其实很脏的行为",
+        "onboard_time": 1710749497,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 62730,
+        "num": 492144,
+        "word": "新势力周发券发疯了",
+        "onboard_time": 1710763233,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 462436,
+        "num": 462436,
+        "word": "直播间买上百万金条迟迟不发货",
+        "onboard_time": 1710761374,
+        "rank": 15,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 413723,
+        "num": 413723,
+        "word": "张睿赵丽颖自拍",
+        "onboard_time": 1710762692,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386362,
+        "num": 386362,
+        "word": "裴涩琪怀孕",
+        "onboard_time": 1710743196,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344441,
+        "num": 344441,
+        "word": "凯特现身",
+        "onboard_time": 1710734672,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328281,
+        "num": 328281,
+        "word": "许家印拟被终身证券市场禁入",
+        "onboard_time": 1710765812,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 307249,
+        "num": 307249,
+        "word": "刘亦菲灵蛇女王",
+        "onboard_time": 1710753453,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 70637,
+        "num": 287731,
+        "word": "大学生买游戏本还是轻薄本",
+        "onboard_time": 1710762994,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 276983,
+        "num": 276983,
+        "word": "小县城最好听的名字",
+        "onboard_time": 1710760714,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268503,
+        "num": 268503,
+        "word": "叶蓁蓁现实版农夫与蛇",
+        "onboard_time": 1710764376,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264821,
+        "num": 264821,
+        "word": "与凤行热度",
+        "onboard_time": 1710765577,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260798,
+        "num": 260798,
+        "word": "与凤行 广告",
+        "onboard_time": 1710765633,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239906,
+        "num": 239906,
+        "word": "韩素希回国了",
+        "onboard_time": 1710758433,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230944,
+        "num": 230944,
+        "word": "湖北16岁少年疑被同龄人杀害",
+        "onboard_time": 1710765213,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218650,
+        "num": 218650,
+        "word": "我国渤海中北部发现亿吨级油田",
+        "onboard_time": 1710762332,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 201239,
+        "num": 201239,
+        "word": "价格不低但利用率极低的家电",
+        "onboard_time": 1710762631,
+        "rank": 29,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 674314,
+        "num": 199560,
+        "word": "凯特多位朋友发声",
+        "onboard_time": 1710764734,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 196666,
+        "num": 196666,
+        "word": "赵小棠妈妈状态",
+        "onboard_time": 1710759216,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192747,
+        "num": 192747,
+        "word": "肠妃回宫",
+        "onboard_time": 1710751476,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 192427,
+        "num": 192427,
+        "word": "鸡骨泥运用于淀粉肠中不算违规",
+        "onboard_time": 1710749435,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190774,
+        "num": 190774,
+        "word": "林俊杰咳嗽卡点",
+        "onboard_time": 1710758015,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172844,
+        "num": 172844,
+        "word": "赵丽颖招商能力",
+        "onboard_time": 1710765391,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170407,
+        "num": 170407,
+        "word": "李宏毅家的衣服卖13块钱",
+        "onboard_time": 1710744631,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 160894,
+        "num": 160894,
+        "word": "荣耀发布会",
+        "onboard_time": 1710762931,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156791,
+        "num": 156791,
+        "word": "李现回武汉",
+        "onboard_time": 1710763171,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151460,
+        "num": 151460,
+        "word": "郑合惠子否认退圈",
+        "onboard_time": 1710747094,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142190,
+        "num": 142190,
+        "word": "留学生才懂的饭缩力照片",
+        "onboard_time": 1710764253,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143258,
+        "num": 141573,
+        "word": "鞠婧祎闭错眼了",
+        "onboard_time": 1710739954,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137089,
+        "num": 137089,
+        "word": "315打假名单",
+        "onboard_time": 1710746675,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135639,
+        "num": 135639,
+        "word": "金价",
+        "onboard_time": 1710751357,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126901,
+        "num": 126901,
+        "word": "大爷瀑布下帮捞无人机游客心疼大喊不要了",
+        "onboard_time": 1710755430,
+        "rank": 44,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 114212,
+        "num": 114212,
+        "word": "卖淀粉肠大哥改行卖烤面筋",
+        "onboard_time": 1710749379,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108724,
+        "num": 108724,
+        "word": "NIP对战RNG",
+        "onboard_time": 1710763593,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108452,
+        "num": 108452,
+        "word": "我爸退出了家族群",
+        "onboard_time": 1710749435,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98384,
+        "num": 98384,
+        "word": "俄乌局势新进展",
+        "onboard_time": 1710764074,
+        "rank": 48,
+        "category": "军事,国外时政"
+      },
+      {
+        "raw_hot": 97954,
+        "num": 97954,
+        "word": "五月天公益演出",
+        "onboard_time": 1710757715,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#立德树人#"
+    }
+  }
+}
