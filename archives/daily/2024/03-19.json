@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710790457024,
+  "endTime": 1710793129870,
   "band_list": [
     {
       "raw_hot": 1300358,
@@ -435,6 +435,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 61692,
+      "num": 35329,
+      "word": "高度近视的人需要注意这四件事",
+      "onboard_time": 1710788357,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 52151,
       "num": 52151,
       "word": "杨采薇 断崖上的兰草",
@@ -491,14 +499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32017,
-      "num": 32017,
-      "word": "高度近视的人需要注意这四件事",
-      "onboard_time": 1710788357,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 21728,
       "num": 21728,
       "word": "八段锦国家体育总局完整版",
@@ -513,6 +513,22 @@
       "onboard_time": 1710788716,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20241,
+      "num": 20241,
+      "word": "路边卖淀粉肠阿姨主动出示声明书",
+      "onboard_time": 1710786917,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17833,
+      "num": 17833,
+      "word": "王珞丹一家四口颜值",
+      "onboard_time": 1710792435,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 15663,
