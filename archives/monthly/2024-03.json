@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710775057639,
+  "endTime": 1710776057035,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -4171,6 +4171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1000108,
+      "num": 1000108,
+      "word": "郑合惠子刘学义能二搭吗",
+      "onboard_time": 1710773257,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 998775,
       "num": 998775,
       "word": "楚乔传新预告",
@@ -4657,6 +4665,14 @@
       "onboard_time": 1709607992,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 938673,
+      "num": 587938,
+      "word": "山西19岁少年疑因多次卖血身亡",
+      "onboard_time": 1710771635,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 936535,
@@ -6569,14 +6585,6 @@
       "onboard_time": 1709809531,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 744449,
-      "num": 609250,
-      "word": "郑合惠子刘学义能二搭吗",
-      "onboard_time": 1710773257,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 743636,
@@ -10955,6 +10963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 525882,
+      "num": 525882,
+      "word": "迪丽热巴 枭起青壤",
+      "onboard_time": 1710774815,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 525773,
       "num": 525773,
       "word": "CK",
@@ -11233,14 +11249,6 @@
       "onboard_time": 1710219690,
       "rank": 23,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 515331,
-      "num": 515331,
-      "word": "山西19岁少年疑因多次卖血身亡",
-      "onboard_time": 1710771635,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 514629,
@@ -22931,6 +22939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252307,
+      "num": 252307,
+      "word": "4医生3小时帮男子取出200多颗脂肪瘤",
+      "onboard_time": 1710774396,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252265,
       "num": 252265,
       "word": "Hero俯冲B组",
@@ -26739,6 +26755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214522,
+      "num": 214522,
+      "word": "萤火虫漫展",
+      "onboard_time": 1710774634,
+      "rank": 34,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 214514,
       "num": 214514,
       "word": "领养一年的猫前主人说要回去",
@@ -28547,6 +28571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203156,
+      "num": 203156,
+      "word": "初中生遭15人围殴反击刺伤3人",
+      "onboard_time": 1710775175,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203131,
       "num": 203131,
       "word": "与凤行今晚开播",
@@ -29241,6 +29273,14 @@
       "onboard_time": 1709296471,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199404,
+      "num": 199404,
+      "word": "王一博秋裤起球了",
+      "onboard_time": 1710774872,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 199344,
@@ -29945,14 +29985,6 @@
       "onboard_time": 1710476319,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 196092,
-      "num": 187619,
-      "word": "迪丽热巴 枭起青壤",
-      "onboard_time": 1710774815,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 196034,
@@ -30977,14 +31009,6 @@
       "onboard_time": 1710688541,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 190939,
-      "num": 190939,
-      "word": "萤火虫漫展",
-      "onboard_time": 1710774634,
-      "rank": 34,
-      "category": "动漫"
     },
     {
       "raw_hot": 190928,
@@ -36851,6 +36875,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159125,
+      "num": 145799,
+      "word": "谁给林更新画的眼影",
+      "onboard_time": 1710775417,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159117,
+      "num": 159117,
+      "word": "当代年轻人不想结婚的原因",
+      "onboard_time": 1710775655,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159082,
       "num": 159082,
       "word": "十个勤天 真诚",
@@ -38971,14 +39011,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149682,
-      "num": 149682,
-      "word": "王一博秋裤起球了",
-      "onboard_time": 1710774872,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149662,
       "num": 149662,
       "word": "巴黎街头的魏大勋",
@@ -39041,14 +39073,6 @@
       "onboard_time": 1709711615,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149283,
-      "num": 149283,
-      "word": "4医生3小时帮男子取出200多颗脂肪瘤",
-      "onboard_time": 1710774396,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 149202,
