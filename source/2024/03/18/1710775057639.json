@@ -1,0 +1,410 @@
+{
+  "runTime": 1710775057639,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1787977,
+        "num": 1787977,
+        "word": "林狗还是帅的",
+        "onboard_time": 1710767192,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1607715,
+        "num": 1607715,
+        "word": "英国白金汉宫否认国王去世",
+        "onboard_time": 1710771819,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 90300,
+        "num": 1152374,
+        "word": "县在出发",
+        "onboard_time": 1710768158,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1096398,
+        "num": 1096398,
+        "word": "杨幂戴了好多手串",
+        "onboard_time": 1710770079,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1006631,
+        "num": 1006631,
+        "word": "赵丽颖 扛剧",
+        "onboard_time": 1710770855,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 844642,
+        "num": 844642,
+        "word": "审判与凤行",
+        "onboard_time": 1710765453,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 807272,
+        "num": 807272,
+        "word": "赵丽颖的左右脸",
+        "onboard_time": 1710767915,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 740943,
+        "num": 740943,
+        "word": "许家印决策并组织实施财务造假",
+        "onboard_time": 1710770678,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 692889,
+        "num": 692889,
+        "word": "淀粉肠生产企业董事长直播吃淀粉肠",
+        "onboard_time": 1710763890,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615745,
+        "num": 615745,
+        "word": "英国王室",
+        "onboard_time": 1710768455,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 783533,
+        "num": 614948,
+        "word": "毕竟是九亿少女的梦",
+        "onboard_time": 1710771217,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 762416,
+        "num": 611926,
+        "word": "戴安娜王妃弟弟就凯特阴谋论发声",
+        "onboard_time": 1710759515,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 744449,
+        "num": 609250,
+        "word": "郑合惠子刘学义能二搭吗",
+        "onboard_time": 1710773257,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 717347,
+        "num": 608284,
+        "word": "湖南卫视开始了",
+        "onboard_time": 1710764851,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 653220,
+        "num": 605431,
+        "word": "凯特多位朋友发声",
+        "onboard_time": 1710764734,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 604377,
+        "num": 604377,
+        "word": "与凤行 喜剧",
+        "onboard_time": 1710773857,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 598238,
+        "num": 598238,
+        "word": "与凤行",
+        "onboard_time": 1710720272,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 515331,
+        "num": 515331,
+        "word": "山西19岁少年疑因多次卖血身亡",
+        "onboard_time": 1710771635,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504484,
+        "num": 504484,
+        "word": "恒大地产被罚41.75亿元",
+        "onboard_time": 1710766114,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 470805,
+        "num": 470805,
+        "word": "早上六点起床跟八点起床的区别",
+        "onboard_time": 1710761014,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 554053,
+        "num": 466467,
+        "word": "女生一次的月经量多少才算正常",
+        "onboard_time": 1710771937,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 419837,
+        "num": 419837,
+        "word": "辅导员告诉我导师突然去世了",
+        "onboard_time": 1710771996,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 370491,
+        "num": 370491,
+        "word": "你以为很卫生其实很脏的行为",
+        "onboard_time": 1710749497,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 359333,
+        "num": 359333,
+        "word": "小桃又演小桃",
+        "onboard_time": 1710767558,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302994,
+        "num": 302994,
+        "word": "杨幂小拇指好短",
+        "onboard_time": 1710759515,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23188,
+        "num": 290696,
+        "word": "赵明称荣耀手机运动摄影遥遥领先",
+        "onboard_time": 1710771516,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 290176,
+        "num": 290176,
+        "word": "李菲儿迟到",
+        "onboard_time": 1710773436,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290108,
+        "num": 290108,
+        "word": "93年副所长入警9年满头白发",
+        "onboard_time": 1710772168,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280896,
+        "num": 280896,
+        "word": "与凤行收视率",
+        "onboard_time": 1710767314,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266757,
+        "num": 266757,
+        "word": "裴涩琪怀孕",
+        "onboard_time": 1710743196,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259182,
+        "num": 259182,
+        "word": "男子陪父亲体检顺便做胃肠镜救下一命",
+        "onboard_time": 1710771038,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243791,
+        "num": 243791,
+        "word": "金智媛哭戏",
+        "onboard_time": 1710770353,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236933,
+        "num": 236933,
+        "word": "与凤行特效",
+        "onboard_time": 1710764493,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235101,
+        "num": 235101,
+        "word": "林更新刀我别用宇文玥",
+        "onboard_time": 1710769776,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190939,
+        "num": 190939,
+        "word": "萤火虫漫展",
+        "onboard_time": 1710774634,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 71469,
+        "num": 187894,
+        "word": "荣耀新品屏幕研发投入超5亿",
+        "onboard_time": 1710770560,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 196092,
+        "num": 187619,
+        "word": "迪丽热巴 枭起青壤",
+        "onboard_time": 1710774815,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185751,
+        "num": 185751,
+        "word": "比酒精还厉害的肝脏刺客",
+        "onboard_time": 1710767192,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182842,
+        "num": 182842,
+        "word": "三个字拿下明兰和沈璃",
+        "onboard_time": 1710774455,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181173,
+        "num": 181173,
+        "word": "凯特现身",
+        "onboard_time": 1710734672,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158991,
+        "num": 158991,
+        "word": "成龙 荣耀发布会",
+        "onboard_time": 1710768633,
+        "rank": 40,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 158511,
+        "num": 158511,
+        "word": "刘亦菲灵蛇女王",
+        "onboard_time": 1710753453,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158305,
+        "num": 158305,
+        "word": "何悯鸿气人",
+        "onboard_time": 1710773195,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152786,
+        "num": 152786,
+        "word": "恒大地产两年财务造假5640亿元",
+        "onboard_time": 1710770975,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149682,
+        "num": 149682,
+        "word": "王一博秋裤起球了",
+        "onboard_time": 1710774872,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149283,
+        "num": 149283,
+        "word": "4医生3小时帮男子取出200多颗脂肪瘤",
+        "onboard_time": 1710774396,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168349,
+        "num": 149216,
+        "word": "与凤行有董洁",
+        "onboard_time": 1710772838,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148188,
+        "num": 148188,
+        "word": "恒大地产回应被处罚",
+        "onboard_time": 1710769178,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142711,
+        "num": 142711,
+        "word": "捞宇文玥",
+        "onboard_time": 1710772356,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134683,
+        "num": 134683,
+        "word": "白衣回应Hero",
+        "onboard_time": 1710772599,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#立德树人#"
+    }
+  }
+}

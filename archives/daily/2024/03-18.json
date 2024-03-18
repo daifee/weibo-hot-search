@@ -1,6 +1,6 @@
 {
   "startTime": 1710692394779,
-  "endTime": 1710772438109,
+  "endTime": 1710775057639,
   "band_list": [
     {
       "raw_hot": 6623497,
@@ -179,6 +179,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 1607715,
+      "num": 1607715,
+      "word": "英国白金汉宫否认国王去世",
+      "onboard_time": 1710771819,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1604475,
       "num": 1604475,
       "word": "李宏毅家的衣服卖13块钱",
@@ -299,14 +307,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1116210,
-      "num": 1116210,
-      "word": "英国白金汉宫否认国王去世",
-      "onboard_time": 1710771819,
-      "rank": 4,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 1109392,
       "num": 1109392,
       "word": "AppleID将成历史",
@@ -321,6 +321,14 @@
       "onboard_time": 1710730232,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1096398,
+      "num": 1096398,
+      "word": "杨幂戴了好多手串",
+      "onboard_time": 1710770079,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1088882,
@@ -363,6 +371,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1006631,
+      "num": 1006631,
+      "word": "赵丽颖 扛剧",
+      "onboard_time": 1710770855,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 996046,
       "num": 751046,
       "word": "长期炎症容易拖成癌",
@@ -393,14 +409,6 @@
       "onboard_time": 1710733900,
       "rank": 6,
       "category": "剧集,艺人"
-    },
-    {
-      "raw_hot": 971570,
-      "num": 971570,
-      "word": "杨幂戴了好多手串",
-      "onboard_time": 1710770079,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 968293,
@@ -491,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 807272,
+      "num": 807272,
+      "word": "赵丽颖的左右脸",
+      "onboard_time": 1710767915,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 790306,
       "num": 790306,
       "word": "刘亦菲灵蛇女王",
@@ -531,11 +547,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 778049,
-      "num": 620862,
-      "word": "赵丽颖 扛剧",
-      "onboard_time": 1710770855,
-      "rank": 26,
+      "raw_hot": 783533,
+      "num": 614948,
+      "word": "毕竟是九亿少女的梦",
+      "onboard_time": 1710771217,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -587,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 744449,
+      "num": 609250,
+      "word": "郑合惠子刘学义能二搭吗",
+      "onboard_time": 1710773257,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 743007,
       "num": 743007,
       "word": "与凤行特效",
@@ -611,20 +635,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 740943,
+      "num": 740943,
+      "word": "许家印决策并组织实施财务造假",
+      "onboard_time": 1710770678,
+      "rank": 24,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 732340,
       "num": 732340,
       "word": "12岁以上可担刑责",
       "onboard_time": 1710731435,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 711197,
-      "num": 613772,
-      "word": "赵丽颖的左右脸",
-      "onboard_time": 1710767915,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 702433,
@@ -691,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 604377,
+      "num": 604377,
+      "word": "与凤行 喜剧",
+      "onboard_time": 1710773857,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 604091,
       "num": 604091,
       "word": "周杰伦杭州场抢票需先充值488元vip",
@@ -755,6 +787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 554053,
+      "num": 466467,
+      "word": "女生一次的月经量多少才算正常",
+      "onboard_time": 1710771937,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 552809,
       "num": 327589,
       "word": "肝不好身体会变臭",
@@ -795,14 +835,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 525124,
-      "num": 525124,
-      "word": "许家印决策并组织实施财务造假",
-      "onboard_time": 1710770678,
-      "rank": 24,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 524317,
       "num": 515522,
       "word": "郑合惠子否认退圈",
@@ -825,6 +857,14 @@
       "onboard_time": 1710737977,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 515331,
+      "num": 515331,
+      "word": "山西19岁少年疑因多次卖血身亡",
+      "onboard_time": 1710771635,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 495694,
@@ -979,6 +1019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 419837,
+      "num": 419837,
+      "word": "辅导员告诉我导师突然去世了",
+      "onboard_time": 1710771996,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 416910,
       "num": 323539,
       "word": "难怪我每次请假都成功了",
@@ -993,14 +1041,6 @@
       "onboard_time": 1710755493,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 412987,
-      "num": 412987,
-      "word": "毕竟是九亿少女的梦",
-      "onboard_time": 1710771217,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 410507,
@@ -1195,22 +1235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 338035,
-      "num": 338035,
-      "word": "辅导员告诉我导师突然去世了",
-      "onboard_time": 1710771996,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 337419,
-      "num": 337419,
-      "word": "山西19岁少年疑因多次卖血身亡",
-      "onboard_time": 1710771635,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 329780,
       "num": 329780,
       "word": "童瑶演了我梦里的爽文女主",
@@ -1249,14 +1273,6 @@
       "onboard_time": 1710684760,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 321114,
-      "num": 321114,
-      "word": "女生一次的月经量多少才算正常",
-      "onboard_time": 1710771937,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 319086,
@@ -1361,6 +1377,22 @@
       "onboard_time": 1710766293,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290176,
+      "num": 290176,
+      "word": "李菲儿迟到",
+      "onboard_time": 1710773436,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 290108,
+      "num": 290108,
+      "word": "93年副所长入警9年满头白发",
+      "onboard_time": 1710772168,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 289644,
@@ -1947,6 +1979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 196092,
+      "num": 187619,
+      "word": "迪丽热巴 枭起青壤",
+      "onboard_time": 1710774815,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195830,
       "num": 195830,
       "word": "塞尔达传说王国之泪 年度游戏",
@@ -2017,6 +2057,14 @@
       "onboard_time": 1710757233,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190939,
+      "num": 190939,
+      "word": "萤火虫漫展",
+      "onboard_time": 1710774634,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 190928,
@@ -2123,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182842,
+      "num": 182842,
+      "word": "三个字拿下明兰和沈璃",
+      "onboard_time": 1710774455,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182673,
       "num": 182673,
       "word": "北京大风",
@@ -2177,14 +2233,6 @@
       "onboard_time": 1710689860,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 176828,
-      "num": 176828,
-      "word": "93年副所长入警9年满头白发",
-      "onboard_time": 1710772168,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175799,
@@ -2257,6 +2305,14 @@
       "onboard_time": 1710746734,
       "rank": 41,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 168349,
+      "num": 149216,
+      "word": "与凤行有董洁",
+      "onboard_time": 1710772838,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 168111,
@@ -2387,6 +2443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158305,
+      "num": 158305,
+      "word": "何悯鸿气人",
+      "onboard_time": 1710773195,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158135,
       "num": 158135,
       "word": "亲密关系是一场盛大的恐惧投射",
@@ -2467,12 +2531,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 149682,
+      "num": 149682,
+      "word": "王一博秋裤起球了",
+      "onboard_time": 1710774872,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149465,
       "num": 149465,
       "word": "与凤行破纪录",
       "onboard_time": 1710767733,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149283,
+      "num": 149283,
+      "word": "4医生3小时帮男子取出200多颗脂肪瘤",
+      "onboard_time": 1710774396,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149202,
@@ -2641,6 +2721,14 @@
       "onboard_time": 1710747212,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 134683,
+      "num": 134683,
+      "word": "白衣回应Hero",
+      "onboard_time": 1710772599,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 134339,
@@ -3147,20 +3235,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 23188,
+      "num": 337459,
+      "word": "赵明称荣耀手机运动摄影遥遥领先",
+      "onboard_time": 1710771516,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 20156,
       "num": 152030,
       "word": "明星们的最新出行搭子",
       "onboard_time": 1710752795,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19838,
-      "num": 337459,
-      "word": "赵明称荣耀手机运动摄影遥遥领先",
-      "onboard_time": 1710771516,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 19461,
