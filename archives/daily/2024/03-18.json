@@ -1,6 +1,6 @@
 {
   "startTime": 1710692394779,
-  "endTime": 1710736470594,
+  "endTime": 1710739100654,
   "band_list": [
     {
       "raw_hot": 6623497,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2129908,
+      "num": 2129908,
+      "word": "淀粉肠小王子发声",
+      "onboard_time": 1710734855,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2108033,
       "num": 2108033,
       "word": "淀粉肠摊主一晚0收入",
@@ -96,14 +104,6 @@
       "word": "凯特王妃或4月中旬公开健康状况",
       "onboard_time": 1710731435,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1291241,
-      "num": 1291241,
-      "word": "淀粉肠小王子发声",
-      "onboard_time": 1710734855,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 898648,
+      "num": 898648,
+      "word": "郑合惠子被恶意评分",
+      "onboard_time": 1710737438,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 868160,
       "num": 868160,
       "word": "快餐顶流黄焖鸡为啥没人吃了",
@@ -201,6 +209,14 @@
       "onboard_time": 1710732754,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 817355,
+      "num": 442052,
+      "word": "微信情侣查岗模式",
+      "onboard_time": 1710734796,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 784501,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 760309,
-      "num": 395932,
+      "num": 516229,
       "word": "00后长期熬夜长出老年斑",
       "onboard_time": 1710728673,
       "rank": 22,
@@ -259,6 +275,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 742470,
+      "num": 742470,
+      "word": "山东一淀粉肠厂家公开生产流程",
+      "onboard_time": 1710736062,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 742353,
       "num": 742353,
       "word": "刘学义郑合惠子cp感",
@@ -275,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 707019,
-      "num": 442052,
-      "word": "微信情侣查岗模式",
-      "onboard_time": 1710734796,
-      "rank": 20,
-      "category": "情感"
+      "raw_hot": 712430,
+      "num": 712430,
+      "word": "专家称今年刚需买房的人可以下手了",
+      "onboard_time": 1710737021,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 702433,
@@ -305,6 +329,14 @@
       "onboard_time": 1710732873,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 630471,
+      "num": 404571,
+      "word": "突然翻到嫂子几年前的朋友圈",
+      "onboard_time": 1710736239,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 604091,
@@ -387,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 471296,
+      "num": 471296,
+      "word": "陈法拉二胎得子",
+      "onboard_time": 1710736661,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465455,
       "num": 465455,
       "word": "优酷开知否限免",
@@ -411,20 +451,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 431498,
-      "num": 404571,
-      "word": "突然翻到嫂子几年前的朋友圈",
-      "onboard_time": 1710736239,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 421333,
       "num": 421333,
       "word": "辛芷蕾高定封",
       "onboard_time": 1710731612,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 421162,
+      "num": 421162,
+      "word": "张杰演唱会抢票",
+      "onboard_time": 1710737140,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 407386,
+      "num": 407386,
+      "word": "李泰容将入伍",
+      "onboard_time": 1710737559,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 407189,
@@ -523,6 +571,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344740,
+      "num": 344740,
+      "word": "赵丽颖徐海乔9年后合作",
+      "onboard_time": 1710737977,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 340228,
+      "num": 340228,
+      "word": "宇文玥是你吗",
+      "onboard_time": 1710737738,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329780,
       "num": 329780,
       "word": "童瑶演了我梦里的爽文女主",
@@ -579,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301851,
+      "num": 301851,
+      "word": "赖床30分钟可能会变聪明",
+      "onboard_time": 1710738335,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 298674,
       "num": 298674,
       "word": "杜华让李汶翰去非洲修铁路",
@@ -627,20 +699,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257431,
+      "num": 257431,
+      "word": "花间令",
+      "onboard_time": 1710737261,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250999,
       "num": 250999,
       "word": "张慧雯演技",
       "onboard_time": 1710689201,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248911,
-      "num": 248911,
-      "word": "山东一淀粉肠厂家公开生产流程",
-      "onboard_time": 1710736062,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243370,
@@ -657,6 +729,14 @@
       "onboard_time": 1710686023,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239572,
+      "num": 239572,
+      "word": "我已经自洽到不需要谈任何恋爱了",
+      "onboard_time": 1710736301,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 232961,
@@ -723,6 +803,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 217864,
+      "num": 217864,
+      "word": "与凤行开播排面",
+      "onboard_time": 1710736062,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215287,
       "num": 215287,
       "word": "留学生回家才发现父母搬家了",
@@ -777,14 +865,6 @@
       "onboard_time": 1710692493,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203501,
-      "num": 203501,
-      "word": "与凤行开播排面",
-      "onboard_time": 1710736062,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 203131,
@@ -867,14 +947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190426,
-      "num": 190426,
-      "word": "我已经自洽到不需要谈任何恋爱了",
-      "onboard_time": 1710736301,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 190122,
       "num": 190122,
       "word": "赵丽颖林更新微指破亿",
@@ -897,6 +969,14 @@
       "onboard_time": 1710687523,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 186280,
+      "num": 186280,
+      "word": "与凤行OST",
+      "onboard_time": 1710737800,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 186018,
@@ -937,6 +1017,14 @@
       "onboard_time": 1710689860,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 174417,
+      "num": 174417,
+      "word": "瓦妮莎",
+      "onboard_time": 1710738815,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 172858,
@@ -1145,6 +1233,14 @@
       "onboard_time": 1710671255,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135717,
+      "num": 135717,
+      "word": "极简一年我变得越来越好了",
+      "onboard_time": 1710738515,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 134339,

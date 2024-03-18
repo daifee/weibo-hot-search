@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710736470594,
+  "endTime": 1710739100654,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -664,6 +664,14 @@
       "word": "北极鲶鱼",
       "onboard_time": 1710405993,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2129908,
+      "num": 2129908,
+      "word": "淀粉肠小王子发声",
+      "onboard_time": 1710734855,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2376,14 +2384,6 @@
       "word": "钟睒睒之母郭瑾离世",
       "onboard_time": 1710300873,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1291241,
-      "num": 1291241,
-      "word": "淀粉肠小王子发声",
-      "onboard_time": 1710734855,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4723,6 +4723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 898648,
+      "num": 898648,
+      "word": "郑合惠子被恶意评分",
+      "onboard_time": 1710737438,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 898374,
       "num": 898374,
       "word": "鸟山明年收入达7200万元",
@@ -5419,6 +5427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 817355,
+      "num": 442052,
+      "word": "微信情侣查岗模式",
+      "onboard_time": 1710734796,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 817122,
       "num": 817122,
       "word": "巴黎奥运会开幕式定档",
@@ -6044,7 +6060,7 @@
     },
     {
       "raw_hot": 760309,
-      "num": 395932,
+      "num": 516229,
       "word": "00后长期熬夜长出老年斑",
       "onboard_time": 1710728673,
       "rank": 22,
@@ -6233,6 +6249,14 @@
       "onboard_time": 1709856754,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 742470,
+      "num": 742470,
+      "word": "山东一淀粉肠厂家公开生产流程",
+      "onboard_time": 1710736062,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 742353,
@@ -6763,6 +6787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 712430,
+      "num": 712430,
+      "word": "专家称今年刚需买房的人可以下手了",
+      "onboard_time": 1710737021,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 710033,
       "num": 335753,
       "word": "张凯丽说不赞成孩子赢在起跑线这句话",
@@ -6857,14 +6889,6 @@
       "onboard_time": 1709990613,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 707019,
-      "num": 442052,
-      "word": "微信情侣查岗模式",
-      "onboard_time": 1710734796,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 706539,
@@ -8201,6 +8225,14 @@
       "onboard_time": 1709690195,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 630471,
+      "num": 404571,
+      "word": "突然翻到嫂子几年前的朋友圈",
+      "onboard_time": 1710736239,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 630465,
@@ -12051,6 +12083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471296,
+      "num": 471296,
+      "word": "陈法拉二胎得子",
+      "onboard_time": 1710736661,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 471208,
       "num": 471208,
       "word": "吴昕的裙子是蓝色还是绿色",
@@ -13427,14 +13467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 431498,
-      "num": 404571,
-      "word": "突然翻到嫂子几年前的朋友圈",
-      "onboard_time": 1710736239,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 431392,
       "num": 431392,
       "word": "眼泪女王",
@@ -13744,6 +13776,14 @@
       "word": "许嵩好浪漫",
       "onboard_time": 1710289776,
       "rank": 16,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 421162,
+      "num": 421162,
+      "word": "张杰演唱会抢票",
+      "onboard_time": 1710737140,
+      "rank": 15,
       "category": "演出"
     },
     {
@@ -14193,6 +14233,14 @@
       "onboard_time": 1709789075,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 407386,
+      "num": 407386,
+      "word": "李泰容将入伍",
+      "onboard_time": 1710737559,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 407306,
@@ -16659,6 +16707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 344740,
+      "num": 344740,
+      "word": "赵丽颖徐海乔9年后合作",
+      "onboard_time": 1710737977,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344645,
       "num": 344645,
       "word": "伦纳德退出比赛",
@@ -16873,6 +16929,14 @@
       "onboard_time": 1710482799,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 340228,
+      "num": 340228,
+      "word": "宇文玥是你吗",
+      "onboard_time": 1710737738,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 339797,
@@ -18729,6 +18793,14 @@
       "onboard_time": 1710490534,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301851,
+      "num": 301851,
+      "word": "赖床30分钟可能会变聪明",
+      "onboard_time": 1710738335,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 301690,
@@ -22267,14 +22339,6 @@
       "category": "电影,财经"
     },
     {
-      "raw_hot": 248911,
-      "num": 248911,
-      "word": "山东一淀粉肠厂家公开生产流程",
-      "onboard_time": 1710736062,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248868,
       "num": 248868,
       "word": "菅田将晖",
@@ -23120,6 +23184,14 @@
       "word": "外婆偷偷塞给我一个没有红包的红包",
       "onboard_time": 1709789012,
       "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 239572,
+      "num": 239572,
+      "word": "我已经自洽到不需要谈任何恋爱了",
+      "onboard_time": 1710736301,
+      "rank": 43,
       "category": "情感"
     },
     {
@@ -25275,6 +25347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 217864,
+      "num": 217864,
+      "word": "与凤行开播排面",
+      "onboard_time": 1710736062,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217859,
       "num": 217859,
       "word": "被曾经喜欢的男生表白了",
@@ -27409,14 +27489,6 @@
       "onboard_time": 1709367271,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 203501,
-      "num": 203501,
-      "word": "与凤行开播排面",
-      "onboard_time": 1710736062,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 203388,
@@ -29891,14 +29963,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 190426,
-      "num": 190426,
-      "word": "我已经自洽到不需要谈任何恋爱了",
-      "onboard_time": 1710736301,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 190364,
       "num": 190364,
       "word": "拉塞尔三分三连击",
@@ -30673,6 +30737,14 @@
       "onboard_time": 1710497980,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186280,
+      "num": 186280,
+      "word": "与凤行OST",
+      "onboard_time": 1710737800,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 186272,
@@ -32713,6 +32785,14 @@
       "onboard_time": 1709875470,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174417,
+      "num": 174417,
+      "word": "瓦妮莎",
+      "onboard_time": 1710738815,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 174337,
@@ -40409,6 +40489,14 @@
       "onboard_time": 1710660274,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135717,
+      "num": 135717,
+      "word": "极简一年我变得越来越好了",
+      "onboard_time": 1710738515,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 135715,

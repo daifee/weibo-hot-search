@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710736470594,
+  "endTime": 1710739100654,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -104,6 +104,14 @@
       "word": "315卫生巾",
       "onboard_time": 1710719792,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2129908,
+      "num": 2129908,
+      "word": "淀粉肠小王子发声",
+      "onboard_time": 1710734855,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -296,14 +304,6 @@
       "word": "男生患上桃花癫感觉全校女生都喜欢自己",
       "onboard_time": 1710635488,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1291241,
-      "num": 1291241,
-      "word": "淀粉肠小王子发声",
-      "onboard_time": 1710734855,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -515,6 +515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 898648,
+      "num": 898648,
+      "word": "郑合惠子被恶意评分",
+      "onboard_time": 1710737438,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 869392,
       "num": 869392,
       "word": "新说唱2024 尿检",
@@ -537,6 +545,14 @@
       "onboard_time": 1710732754,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 817355,
+      "num": 442052,
+      "word": "微信情侣查岗模式",
+      "onboard_time": 1710734796,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 795919,
@@ -604,7 +620,7 @@
     },
     {
       "raw_hot": 760309,
-      "num": 395932,
+      "num": 516229,
       "word": "00后长期熬夜长出老年斑",
       "onboard_time": 1710728673,
       "rank": 22,
@@ -640,6 +656,14 @@
       "word": "工作组赴四川雅江指导山火扑救",
       "onboard_time": 1710637349,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 742470,
+      "num": 742470,
+      "word": "山东一淀粉肠厂家公开生产流程",
+      "onboard_time": 1710736062,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -699,12 +723,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 707019,
-      "num": 442052,
-      "word": "微信情侣查岗模式",
-      "onboard_time": 1710734796,
-      "rank": 20,
-      "category": "情感"
+      "raw_hot": 712430,
+      "num": 712430,
+      "word": "专家称今年刚需买房的人可以下手了",
+      "onboard_time": 1710737021,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 705743,
@@ -801,6 +825,14 @@
       "onboard_time": 1710634287,
       "rank": 5,
       "category": "国外时政,科学科普"
+    },
+    {
+      "raw_hot": 630471,
+      "num": 404571,
+      "word": "突然翻到嫂子几年前的朋友圈",
+      "onboard_time": 1710736239,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 628298,
@@ -1115,6 +1147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 471296,
+      "num": 471296,
+      "word": "陈法拉二胎得子",
+      "onboard_time": 1710736661,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 469906,
       "num": 268136,
       "word": "前男友的现女友找我聊了十个月",
@@ -1251,14 +1291,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 431498,
-      "num": 404571,
-      "word": "突然翻到嫂子几年前的朋友圈",
-      "onboard_time": 1710736239,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 431392,
       "num": 431392,
       "word": "眼泪女王",
@@ -1299,6 +1331,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 421162,
+      "num": 421162,
+      "word": "张杰演唱会抢票",
+      "onboard_time": 1710737140,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 420956,
       "num": 420956,
       "word": "澳门偶遇奚梦瑶何猷君",
@@ -1312,6 +1352,14 @@
       "word": "王一博工作室还有好东西",
       "onboard_time": 1710670834,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 407386,
+      "num": 407386,
+      "word": "李泰容将入伍",
+      "onboard_time": 1710737559,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -1547,6 +1595,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 344740,
+      "num": 344740,
+      "word": "赵丽颖徐海乔9年后合作",
+      "onboard_time": 1710737977,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 340228,
+      "num": 340228,
+      "word": "宇文玥是你吗",
+      "onboard_time": 1710737738,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339797,
       "num": 339797,
       "word": "权顺荣白发",
@@ -1745,6 +1809,14 @@
       "onboard_time": 1710599379,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 301851,
+      "num": 301851,
+      "word": "赖床30分钟可能会变聪明",
+      "onboard_time": 1710738335,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 298674,
@@ -1971,6 +2043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257431,
+      "num": 257431,
+      "word": "花间令",
+      "onboard_time": 1710583234,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256526,
       "num": 223959,
       "word": "宁静奚梦瑶撞衫",
@@ -1993,14 +2073,6 @@
       "onboard_time": 1710682959,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 248911,
-      "num": 248911,
-      "word": "山东一淀粉肠厂家公开生产流程",
-      "onboard_time": 1710736062,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248440,
@@ -2057,6 +2129,14 @@
       "onboard_time": 1710686023,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239572,
+      "num": 239572,
+      "word": "我已经自洽到不需要谈任何恋爱了",
+      "onboard_time": 1710736301,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 237913,
@@ -2251,6 +2331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 217864,
+      "num": 217864,
+      "word": "与凤行开播排面",
+      "onboard_time": 1710736062,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217554,
       "num": 217554,
       "word": "朱梓骁的表情",
@@ -2339,14 +2427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207623,
-      "num": 207623,
-      "word": "花间令",
-      "onboard_time": 1710583234,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206346,
       "num": 206346,
       "word": "与凤行宣璐哭戏",
@@ -2409,14 +2489,6 @@
       "onboard_time": 1710637591,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203501,
-      "num": 203501,
-      "word": "与凤行开播排面",
-      "onboard_time": 1710736062,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 203131,
@@ -2635,14 +2707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190426,
-      "num": 190426,
-      "word": "我已经自洽到不需要谈任何恋爱了",
-      "onboard_time": 1710736301,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 190122,
       "num": 190122,
       "word": "赵丽颖林更新微指破亿",
@@ -2729,6 +2793,14 @@
       "onboard_time": 1710637290,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186280,
+      "num": 186280,
+      "word": "与凤行OST",
+      "onboard_time": 1710737800,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 186018,
@@ -2873,6 +2945,14 @@
       "onboard_time": 1710670053,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174417,
+      "num": 174417,
+      "word": "瓦妮莎",
+      "onboard_time": 1710738815,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 174181,
@@ -3513,6 +3593,14 @@
       "onboard_time": 1710660274,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135717,
+      "num": 135717,
+      "word": "极简一年我变得越来越好了",
+      "onboard_time": 1710738515,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 135091,
