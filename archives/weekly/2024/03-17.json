@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710782222736,
+  "endTime": 1710783255756,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -5827,6 +5827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78444,
+      "num": 73775,
+      "word": "碎嘴凤凰",
+      "onboard_time": 1710782001,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78237,
       "num": 605341,
       "word": "赵明称荣耀Magic就是为AI而生",
@@ -5947,14 +5955,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 63570,
-      "num": 63570,
-      "word": "碎嘴凤凰",
-      "onboard_time": 1710782001,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 62730,
       "num": 492144,
       "word": "新势力周发券发疯了",
@@ -6025,6 +6025,22 @@
       "onboard_time": 1710752735,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 47055,
+      "num": 59648,
+      "word": "全国唯一以花命名的城市",
+      "onboard_time": 1710782960,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 46092,
+      "num": 59634,
+      "word": "别人爬山费腿刘学义爬山费嘴",
+      "onboard_time": 1710782721,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 42536,

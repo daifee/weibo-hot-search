@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710782222736,
+  "endTime": 1710783255756,
   "band_list": [
     {
       "raw_hot": 1300358,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78444,
+      "num": 73775,
+      "word": "碎嘴凤凰",
+      "onboard_time": 1710782001,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77580,
       "num": 77580,
       "word": "烈焰 疯神榜",
@@ -411,11 +419,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63570,
-      "num": 63570,
-      "word": "碎嘴凤凰",
-      "onboard_time": 1710782001,
-      "rank": 41,
+      "raw_hot": 47055,
+      "num": 59648,
+      "word": "全国唯一以花命名的城市",
+      "onboard_time": 1710782960,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 46092,
+      "num": 59634,
+      "word": "别人爬山费腿刘学义爬山费嘴",
+      "onboard_time": 1710782721,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -423,6 +439,14 @@
       "num": 637968,
       "word": "县在出发",
       "onboard_time": 1710768158,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14054,
+      "num": 221207,
+      "word": "这是一堂生动的思政课",
+      "onboard_time": 1710767192,
       "rank": 2,
       "category": "社会新闻"
     }
