@@ -1,6 +1,6 @@
 {
   "startTime": 1710865343685,
-  "endTime": 1710865343685,
+  "endTime": 1710866346584,
   "band_list": [
     {
       "raw_hot": 1051566,
@@ -51,6 +51,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 503974,
+      "num": 503974,
+      "word": "原来郑合惠子是单眼皮",
+      "onboard_time": 1710864509,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461833,
       "num": 461833,
       "word": "赵丽颖玄学",
@@ -91,6 +99,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298481,
+      "num": 298481,
+      "word": "妈妈让我边考研边考公边找工作",
+      "onboard_time": 1710851554,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 293320,
       "num": 293320,
       "word": "阚清子开大G",
@@ -105,14 +121,6 @@
       "onboard_time": 1710862176,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278069,
-      "num": 278069,
-      "word": "妈妈让我边考研边考公边找工作",
-      "onboard_time": 1710851554,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 269691,
@@ -144,14 +152,6 @@
       "word": "Straykids前成员签约SM子公司",
       "onboard_time": 1710861816,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 245539,
-      "num": 245539,
-      "word": "原来郑合惠子是单眼皮",
-      "onboard_time": 1710864509,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -267,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112982,
+      "num": 112982,
+      "word": "花间令妈妈疯了孩子没了",
+      "onboard_time": 1710864991,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112447,
       "num": 112447,
       "word": "中国拥有亿元资产的家庭达13.3万户",
@@ -307,20 +315,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 99705,
-      "num": 99705,
-      "word": "花间令妈妈疯了孩子没了",
-      "onboard_time": 1710864991,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 98360,
       "num": 98360,
       "word": "半熟恋人3",
       "onboard_time": 1710859958,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90038,
+      "num": 90038,
+      "word": "迪丽热巴陈星旭错位图",
+      "onboard_time": 1710865767,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 88913,
@@ -376,6 +384,14 @@
       "word": "小荷 沈璃的嫡长花",
       "onboard_time": 1710859057,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 66785,
+      "num": 70810,
+      "word": "邢菲跳舞",
+      "onboard_time": 1710865349,
+      "rank": 45,
       "category": "剧集"
     },
     {

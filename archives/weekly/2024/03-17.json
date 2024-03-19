@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710865343685,
+  "endTime": 1710866346584,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -2307,6 +2307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 503974,
+      "num": 503974,
+      "word": "原来郑合惠子是单眼皮",
+      "onboard_time": 1710864509,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502077,
       "num": 502077,
       "word": "警方回应网传一中学生捅伤老师后跳楼",
@@ -4433,14 +4441,6 @@
       "onboard_time": 1710823774,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245539,
-      "num": 245539,
-      "word": "原来郑合惠子是单眼皮",
-      "onboard_time": 1710864509,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 245027,
@@ -8283,6 +8283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 112982,
+      "num": 112982,
+      "word": "花间令妈妈疯了孩子没了",
+      "onboard_time": 1710864991,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112838,
       "num": 133442,
       "word": "魏大勋对慢综有自己的理解",
@@ -8427,14 +8435,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 99705,
-      "num": 99705,
-      "word": "花间令妈妈疯了孩子没了",
-      "onboard_time": 1710864991,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99462,
       "num": 99462,
       "word": "胡锡进称A股越来越像牛市",
@@ -8561,6 +8561,14 @@
       "onboard_time": 1710659311,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 90038,
+      "num": 90038,
+      "word": "迪丽热巴陈星旭错位图",
+      "onboard_time": 1710865767,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 88624,
@@ -8809,6 +8817,14 @@
       "onboard_time": 1710756694,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 66785,
+      "num": 70810,
+      "word": "邢菲跳舞",
+      "onboard_time": 1710865349,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 64553,
