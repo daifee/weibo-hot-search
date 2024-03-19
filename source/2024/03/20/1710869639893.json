@@ -1,0 +1,410 @@
+{
+  "runTime": 1710869639893,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 422494,
+        "num": 422494,
+        "word": "当你早睡一次 你的器官",
+        "onboard_time": 1710841955,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 259356,
+        "num": 259356,
+        "word": "淀粉肠小王子日销售额涨超10倍",
+        "onboard_time": 1710859779,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 14849,
+        "num": 230691,
+        "word": "第十一届中国网络视听大会",
+        "onboard_time": 1710858216,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 331223,
+        "num": 229025,
+        "word": "原来郑合惠子是单眼皮",
+        "onboard_time": 1710864509,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296201,
+        "num": 226019,
+        "word": "微信 月经提醒",
+        "onboard_time": 1710857978,
+        "rank": 4,
+        "category": "互联网,健康医疗"
+      },
+      {
+        "raw_hot": 220780,
+        "num": 220780,
+        "word": "想睡一觉躺挣5千结果进去了",
+        "onboard_time": 1710859360,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197815,
+        "num": 197815,
+        "word": "妈妈让我边考研边考公边找工作",
+        "onboard_time": 1710851554,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164510,
+        "num": 164510,
+        "word": "上班是真的谈不到对象",
+        "onboard_time": 1710858757,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142376,
+        "num": 142376,
+        "word": "英媒发布凯特王妃现身视频引网友质疑",
+        "onboard_time": 1710854436,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 112853,
+        "num": 137897,
+        "word": "95后女孩考研失败后隐居荒岛",
+        "onboard_time": 1710856599,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133816,
+        "num": 133816,
+        "word": "林更新录综艺cue了赵丽颖",
+        "onboard_time": 1710863493,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125625,
+        "num": 125625,
+        "word": "朱梓骁 纪凌尘是我的贵人",
+        "onboard_time": 1710850294,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119501,
+        "num": 119501,
+        "word": "与凤行 渣男",
+        "onboard_time": 1710859475,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113423,
+        "num": 113423,
+        "word": "阚清子开大G",
+        "onboard_time": 1710845136,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108549,
+        "num": 108549,
+        "word": "2大学生合买2张彩票中20万后1人不认账",
+        "onboard_time": 1710850535,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122552,
+        "num": 106532,
+        "word": "赵丽颖玄学",
+        "onboard_time": 1710859057,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103467,
+        "num": 103467,
+        "word": "花间令低开高走",
+        "onboard_time": 1710848493,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100215,
+        "num": 100215,
+        "word": "杨倩无缘巴黎奥运",
+        "onboard_time": 1710851432,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95049,
+        "num": 95049,
+        "word": "熊猫 我这一生如屡薄冰",
+        "onboard_time": 1710861216,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86122,
+        "num": 86122,
+        "word": "花间令妈妈疯了孩子没了",
+        "onboard_time": 1710864991,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209510,
+        "num": 85468,
+        "word": "03年孩子爹出轨80年的女人",
+        "onboard_time": 1710833312,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83239,
+        "num": 83239,
+        "word": "张天爱好性感",
+        "onboard_time": 1710862176,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72811,
+        "num": 72811,
+        "word": "与凤行",
+        "onboard_time": 1710847231,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69396,
+        "num": 69396,
+        "word": "抑郁症的真实感受",
+        "onboard_time": 1710859779,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67053,
+        "num": 67053,
+        "word": "百度地图 潘杨之好",
+        "onboard_time": 1710861755,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62521,
+        "num": 62521,
+        "word": "刘学义演技",
+        "onboard_time": 1710850594,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61838,
+        "num": 61838,
+        "word": "纪凌尘他做到了",
+        "onboard_time": 1710847054,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60307,
+        "num": 60307,
+        "word": "15岁双胞胎同被西交大少年班录取",
+        "onboard_time": 1710864031,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 57334,
+        "num": 57334,
+        "word": "迪丽热巴陈星旭错位图",
+        "onboard_time": 1710865767,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44011,
+        "num": 57311,
+        "word": "天天洗头为什么头发还是很油",
+        "onboard_time": 1710848673,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 57305,
+        "num": 57305,
+        "word": "林更新回复评论",
+        "onboard_time": 1710855457,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56990,
+        "num": 56990,
+        "word": "逐渐消失的网红小吃",
+        "onboard_time": 1710851494,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 56609,
+        "num": 56609,
+        "word": "倒头就睡的6个方法",
+        "onboard_time": 1710868220,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52809,
+        "num": 52809,
+        "word": "请回答1988善宇近照",
+        "onboard_time": 1710846513,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50522,
+        "num": 50522,
+        "word": "Straykids前成员签约SM子公司",
+        "onboard_time": 1710861816,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49806,
+        "num": 49806,
+        "word": "中国拥有亿元资产的家庭达13.3万户",
+        "onboard_time": 1710838893,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 47941,
+        "num": 47941,
+        "word": "顺手毁掉一个家原来这么简单",
+        "onboard_time": 1710847714,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47161,
+        "num": 47161,
+        "word": "台州高校汽车撞行人事件致3死16伤",
+        "onboard_time": 1710856599,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43971,
+        "num": 43971,
+        "word": "嘬老族",
+        "onboard_time": 1710860198,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42369,
+        "num": 42369,
+        "word": "迪丽热巴路透",
+        "onboard_time": 1710862714,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41032,
+        "num": 41032,
+        "word": "沈璃吃肉梦回花千骨",
+        "onboard_time": 1710858997,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38750,
+        "num": 38750,
+        "word": "全国的富裕家庭都集中在哪",
+        "onboard_time": 1710868881,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 38741,
+        "num": 38741,
+        "word": "分手后最joker的行为",
+        "onboard_time": 1710844175,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38057,
+        "num": 38057,
+        "word": "婚后AA制",
+        "onboard_time": 1710858461,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37929,
+        "num": 37929,
+        "word": "恋爱脑必看",
+        "onboard_time": 1710861576,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37395,
+        "num": 37395,
+        "word": "花间令编剧",
+        "onboard_time": 1710852694,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37355,
+        "num": 37355,
+        "word": "地铁站最好听的名字",
+        "onboard_time": 1710856056,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35435,
+        "num": 35435,
+        "word": "武大声明",
+        "onboard_time": 1710850354,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 35097,
+        "num": 35097,
+        "word": "我约莫是看上你了",
+        "onboard_time": 1710869601,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35059,
+        "num": 35059,
+        "word": "半熟恋人3",
+        "onboard_time": 1710859958,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在湖南长沙考察调研#"
+    }
+  }
+}
