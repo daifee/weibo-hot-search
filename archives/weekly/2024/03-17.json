@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710837258084,
+  "endTime": 1710839820890,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -915,6 +915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 966236,
+      "num": 966236,
+      "word": "为什么洗完头后容易炸毛",
+      "onboard_time": 1710834274,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 965053,
       "num": 379094,
       "word": "月薪四五千但很闲的工作",
@@ -1235,14 +1243,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 764515,
-      "num": 764515,
-      "word": "为什么洗完头后容易炸毛",
-      "onboard_time": 1710834274,
-      "rank": 14,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 761652,
       "num": 761652,
       "word": "1岁女婴3楼坠下获爱心救助奇迹生还",
@@ -1289,6 +1289,14 @@
       "onboard_time": 1710778768,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 751858,
+      "num": 751858,
+      "word": "张家界山上长满韩国人",
+      "onboard_time": 1710836734,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 749583,
@@ -1675,6 +1683,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 606158,
+      "num": 606158,
+      "word": "除了医院谁还会这么算年龄",
+      "onboard_time": 1710837275,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 604377,
       "num": 604377,
       "word": "与凤行 喜剧",
@@ -1696,6 +1712,14 @@
       "word": "台州一高校发生汽车冲撞行人事件",
       "onboard_time": 1710825692,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 590836,
+      "num": 590836,
+      "word": "内江地震",
+      "onboard_time": 1710836734,
+      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -1923,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536863,
+      "num": 318756,
+      "word": "洗头后最忌讳搓头发",
+      "onboard_time": 1710838417,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 533720,
       "num": 533720,
       "word": "火星哥因赌博欠债5000万美元",
@@ -1937,6 +1969,14 @@
       "onboard_time": 1710719369,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 531741,
+      "num": 531741,
+      "word": "这真的是快50岁的何老师吗",
+      "onboard_time": 1710835590,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 527960,
@@ -2227,6 +2267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457812,
+      "num": 386025,
+      "word": "13岁男孩性侵8岁女童后已返校上课",
+      "onboard_time": 1710838534,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456912,
       "num": 456912,
       "word": "沈腾一家同框",
@@ -2339,12 +2387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 436245,
-      "num": 436245,
-      "word": "内江地震",
-      "onboard_time": 1710836734,
-      "rank": 7,
-      "category": "社会新闻"
+      "raw_hot": 434126,
+      "num": 434126,
+      "word": "蔡元培周末参加北大复试",
+      "onboard_time": 1710833735,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 433192,
@@ -2651,22 +2699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 395665,
-      "num": 395665,
-      "word": "这真的是快50岁的何老师吗",
-      "onboard_time": 1710835590,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 394531,
-      "num": 394531,
-      "word": "蔡元培周末参加北大复试",
-      "onboard_time": 1710833735,
-      "rank": 18,
-      "category": "教育"
-    },
-    {
       "raw_hot": 392533,
       "num": 392533,
       "word": "王曼昱vs王艺迪",
@@ -2849,6 +2881,14 @@
       "onboard_time": 1710754834,
       "rank": 20,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 369488,
+      "num": 369488,
+      "word": "中国拥有亿元资产的家庭达13.3万户",
+      "onboard_time": 1710838893,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 367705,
@@ -3099,6 +3139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 322014,
+      "num": 322014,
+      "word": "赵丽颖神图的诞生",
+      "onboard_time": 1710836197,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321280,
       "num": 321280,
       "word": "卫健委回应19岁少年疑卖血后猝死",
@@ -3121,6 +3169,14 @@
       "onboard_time": 1710741755,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318694,
+      "num": 318694,
+      "word": "金晨露腿",
+      "onboard_time": 1710837579,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 318234,
@@ -3915,6 +3971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 243089,
+      "num": 243089,
+      "word": "王梓薇晒与赵丽颖合照",
+      "onboard_time": 1710839196,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243073,
       "num": 243073,
       "word": "刘珂有赵丽颖独家照片",
@@ -3953,14 +4017,6 @@
       "onboard_time": 1710736301,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 239524,
-      "num": 239524,
-      "word": "赵丽颖神图的诞生",
-      "onboard_time": 1710836197,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 238575,
@@ -4267,14 +4323,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 221124,
-      "num": 221124,
-      "word": "张家界山上长满韩国人",
-      "onboard_time": 1710836734,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 219916,
       "num": 219916,
       "word": "逆水寒手游澄清与莲花楼联动",
@@ -4395,6 +4443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 216577,
+      "num": 216577,
+      "word": "半熟恋人3 喜欢和不喜欢好明显",
+      "onboard_time": 1710837815,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216487,
       "num": 216487,
       "word": "选出所有的阮经天",
@@ -4409,6 +4465,14 @@
       "onboard_time": 1710769597,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216392,
+      "num": 216392,
+      "word": "外交部回应日退役将官任靖国神社宫司",
+      "onboard_time": 1710837032,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 215887,
@@ -4545,6 +4609,14 @@
       "onboard_time": 1710771696,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 207727,
+      "num": 207727,
+      "word": "王树国不再担任西安交通大学校长",
+      "onboard_time": 1710838773,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 207175,
@@ -5427,6 +5499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177929,
+      "num": 177929,
+      "word": "警方回应河北初中生被3名同学围殴",
+      "onboard_time": 1710839253,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177140,
       "num": 177140,
       "word": "向佐体脂低的原因",
@@ -5441,6 +5521,14 @@
       "onboard_time": 1710689860,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176782,
+      "num": 176782,
+      "word": "多个淀粉肠商家晒合格书称被误伤",
+      "onboard_time": 1710838236,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176699,
@@ -5681,6 +5769,14 @@
       "onboard_time": 1710836256,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169523,
+      "num": 169523,
+      "word": "张立群任西安交通大学校长",
+      "onboard_time": 1710839013,
+      "rank": 37,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 169436,
@@ -5947,14 +6043,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 160035,
-      "num": 160035,
-      "word": "外交部回应日退役将官任靖国神社宫司",
-      "onboard_time": 1710837032,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 159629,
       "num": 159629,
       "word": "与凤行同款",
@@ -6065,6 +6153,14 @@
       "onboard_time": 1710754052,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 156983,
+      "num": 156983,
+      "word": "赵丽颖脖子上的青筋",
+      "onboard_time": 1710838176,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 156928,
@@ -6257,6 +6353,14 @@
       "onboard_time": 1710595417,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151949,
+      "num": 151949,
+      "word": "原来周处除三害有那么多特效",
+      "onboard_time": 1710838294,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 151847,
@@ -7089,6 +7193,14 @@
       "onboard_time": 1710749977,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 118205,
+      "num": 118205,
+      "word": "赵磊 我也不用了谢谢",
+      "onboard_time": 1710839795,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 117988,
