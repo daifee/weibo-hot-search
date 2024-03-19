@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710839820890,
+  "endTime": 1710840938708,
   "band_list": [
     {
       "raw_hot": 8747332,
@@ -259,6 +259,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 911223,
+      "num": 386025,
+      "word": "13岁男孩性侵8岁女童后已返校上课",
+      "onboard_time": 1710838534,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 887870,
+      "num": 887870,
+      "word": "张家界山上长满韩国人",
+      "onboard_time": 1710836734,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 882813,
       "num": 882813,
       "word": "郑俊英出狱",
@@ -323,6 +339,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 769644,
+      "num": 769644,
+      "word": "中国拥有亿元资产的家庭达13.3万户",
+      "onboard_time": 1710838893,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 759988,
       "num": 759988,
       "word": "教育部发布24种本科新增专业",
@@ -337,14 +361,6 @@
       "onboard_time": 1710778768,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 751858,
-      "num": 751858,
-      "word": "张家界山上长满韩国人",
-      "onboard_time": 1710836734,
-      "rank": 31,
-      "category": "旅游"
     },
     {
       "raw_hot": 731829,
@@ -531,6 +547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 566369,
+      "num": 566369,
+      "word": "这真的是快50岁的何老师吗",
+      "onboard_time": 1710835590,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 564182,
       "num": 564182,
       "word": "春和景明",
@@ -561,14 +585,6 @@
       "onboard_time": 1710770855,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 531741,
-      "num": 531741,
-      "word": "这真的是快50岁的何老师吗",
-      "onboard_time": 1710835590,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 514943,
@@ -632,14 +648,6 @@
       "word": "93年副所长入警9年满头白发",
       "onboard_time": 1710772168,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 457812,
-      "num": 386025,
-      "word": "13岁男孩性侵8岁女童后已返校上课",
-      "onboard_time": 1710838534,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -811,14 +819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369488,
-      "num": 369488,
-      "word": "中国拥有亿元资产的家庭达13.3万户",
-      "onboard_time": 1710838893,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 365823,
       "num": 287708,
       "word": "赵丽颖的左右脸",
@@ -987,6 +987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 308266,
+      "num": 308266,
+      "word": "赵磊 我也不用了谢谢",
+      "onboard_time": 1710839795,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306768,
       "num": 306768,
       "word": "光遇复刻",
@@ -1083,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276127,
+      "num": 276127,
+      "word": "Tabe回归加入AL",
+      "onboard_time": 1710839913,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 272289,
       "num": 272289,
       "word": "英伟达发布最强AI加速卡",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1710823236,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 267491,
+      "num": 267491,
+      "word": "海底捞玥",
+      "onboard_time": 1710839852,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 264310,
@@ -1131,12 +1155,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 247200,
+      "num": 247200,
+      "word": "半熟恋人3 喜欢和不喜欢好明显",
+      "onboard_time": 1710837815,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246130,
       "num": 246130,
       "word": "枭起青壤书粉",
       "onboard_time": 1710823774,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 244215,
+      "num": 244215,
+      "word": "警方回应河北初中生被3名同学围殴",
+      "onboard_time": 1710839253,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243852,
@@ -1177,6 +1217,14 @@
       "onboard_time": 1710816452,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 238199,
+      "num": 238199,
+      "word": "李辉粲方回应涉嫌强制猥亵",
+      "onboard_time": 1710840095,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 236610,
@@ -1267,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222425,
+      "num": 222425,
+      "word": "王鸥右手中指戴戒指",
+      "onboard_time": 1710840755,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222154,
       "num": 222154,
       "word": "秦岭大熊猫研究中心道歉",
@@ -1315,14 +1371,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 216577,
-      "num": 216577,
-      "word": "半熟恋人3 喜欢和不喜欢好明显",
-      "onboard_time": 1710837815,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216392,
       "num": 216392,
       "word": "外交部回应日退役将官任靖国神社宫司",
@@ -1364,7 +1412,7 @@
     },
     {
       "raw_hot": 207727,
-      "num": 207727,
+      "num": 240142,
       "word": "王树国不再担任西安交通大学校长",
       "onboard_time": 1710838773,
       "rank": 28,
@@ -1377,6 +1425,14 @@
       "onboard_time": 1710832409,
       "rank": 40,
       "category": "健康医疗,美妆"
+    },
+    {
+      "raw_hot": 206975,
+      "num": 206975,
+      "word": "你知道选择性缄默症吗",
+      "onboard_time": 1710840812,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 205322,
@@ -1465,6 +1521,14 @@
       "onboard_time": 1710834873,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 194626,
+      "num": 194626,
+      "word": "王一博工作室换头像背景",
+      "onboard_time": 1710840630,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 193015,
@@ -1579,14 +1643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 177929,
-      "num": 177929,
-      "word": "警方回应河北初中生被3名同学围殴",
-      "onboard_time": 1710839253,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177140,
       "num": 177140,
       "word": "向佐体脂低的原因",
@@ -1681,6 +1737,14 @@
       "onboard_time": 1710839013,
       "rank": 37,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 167867,
+      "num": 167867,
+      "word": "林更新选赵又廷没选赵丽颖",
+      "onboard_time": 1710840454,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 167676,
@@ -1857,6 +1921,14 @@
       "onboard_time": 1710836374,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 149903,
+      "num": 149903,
+      "word": "陆虎帮嘘嘘提包",
+      "onboard_time": 1710839913,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 149532,
@@ -2049,14 +2121,6 @@
       "onboard_time": 1710775655,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118205,
-      "num": 118205,
-      "word": "赵磊 我也不用了谢谢",
-      "onboard_time": 1710839795,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 111356,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1710840938708,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1138022,
+        "num": 1138022,
+        "word": "周杰伦一审败诉网易",
+        "onboard_time": 1710834756,
+        "rank": 0,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 887870,
+        "num": 887870,
+        "word": "张家界山上长满韩国人",
+        "onboard_time": 1710836734,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 35905,
+        "num": 775451,
+        "word": "钢铁丝路好风光",
+        "onboard_time": 1710834937,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769644,
+        "num": 769644,
+        "word": "中国拥有亿元资产的家庭达13.3万户",
+        "onboard_time": 1710838893,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 669775,
+        "num": 669775,
+        "word": "为什么洗完头后容易炸毛",
+        "onboard_time": 1710834274,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 585923,
+        "num": 585923,
+        "word": "除了医院谁还会这么算年龄",
+        "onboard_time": 1710837275,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 566369,
+        "num": 566369,
+        "word": "这真的是快50岁的何老师吗",
+        "onboard_time": 1710835590,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410745,
+        "num": 410745,
+        "word": "李辉粲涉嫌强制猥亵",
+        "onboard_time": 1710835114,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390657,
+        "num": 390657,
+        "word": "蔡元培周末参加北大复试",
+        "onboard_time": 1710833735,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 389720,
+        "num": 389720,
+        "word": "庆余年",
+        "onboard_time": 1710832773,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3499830,
+        "num": 388797,
+        "word": "13岁男孩性侵8岁女童警方不予立案",
+        "onboard_time": 1710833973,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1153559,
+        "num": 382431,
+        "word": "03年孩子爹出轨80年的女人",
+        "onboard_time": 1710833312,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 911223,
+        "num": 375776,
+        "word": "13岁男孩性侵8岁女童后已返校上课",
+        "onboard_time": 1710838534,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856155,
+        "num": 370487,
+        "word": "安崎",
+        "onboard_time": 1710834873,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453905,
+        "num": 363029,
+        "word": "男孩学校遭霸凌父母讨说法被踢出群",
+        "onboard_time": 1710832592,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 362345,
+        "num": 362345,
+        "word": "内江地震",
+        "onboard_time": 1710836734,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312604,
+        "num": 312604,
+        "word": "赵丽颖神图的诞生",
+        "onboard_time": 1710836197,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308266,
+        "num": 308266,
+        "word": "赵磊 我也不用了谢谢",
+        "onboard_time": 1710839795,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291208,
+        "num": 291208,
+        "word": "洛杉矶偶遇贾玲",
+        "onboard_time": 1710828693,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 288612,
+        "num": 288612,
+        "word": "北大回应考生与前校长蔡元培同名",
+        "onboard_time": 1710827853,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461061,
+        "num": 288189,
+        "word": "洗头后最忌讳搓头发",
+        "onboard_time": 1710838417,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 297374,
+        "num": 288148,
+        "word": "金晨露腿",
+        "onboard_time": 1710837579,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286948,
+        "num": 286948,
+        "word": "陶昕然妈妈承认自己打孩子是虚荣",
+        "onboard_time": 1710831333,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276127,
+        "num": 276127,
+        "word": "Tabe回归加入AL",
+        "onboard_time": 1710839913,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 267491,
+        "num": 267491,
+        "word": "海底捞玥",
+        "onboard_time": 1710839852,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258128,
+        "num": 258128,
+        "word": "下一个会消失的电子产品",
+        "onboard_time": 1710829355,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 247200,
+        "num": 247200,
+        "word": "半熟恋人3 喜欢和不喜欢好明显",
+        "onboard_time": 1710837815,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244215,
+        "num": 244215,
+        "word": "警方回应河北初中生被3名同学围殴",
+        "onboard_time": 1710839253,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203824,
+        "num": 240142,
+        "word": "王树国不再担任西安交通大学校长",
+        "onboard_time": 1710838773,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 54282,
+        "num": 238900,
+        "word": "渤海发现1.04亿吨油田",
+        "onboard_time": 1710819095,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 238199,
+        "num": 238199,
+        "word": "李辉粲方回应涉嫌强制猥亵",
+        "onboard_time": 1710840095,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222425,
+        "num": 222425,
+        "word": "王鸥右手中指戴戒指",
+        "onboard_time": 1710840755,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211769,
+        "num": 211769,
+        "word": "王梓薇晒与赵丽颖合照",
+        "onboard_time": 1710839196,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208079,
+        "num": 208079,
+        "word": "韩安冉入住杭州2000万大平层",
+        "onboard_time": 1710819393,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206975,
+        "num": 206975,
+        "word": "你知道选择性缄默症吗",
+        "onboard_time": 1710840812,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194626,
+        "num": 194626,
+        "word": "王一博工作室换头像背景",
+        "onboard_time": 1710840630,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175497,
+        "num": 175497,
+        "word": "外交部回应日退役将官任靖国神社宫司",
+        "onboard_time": 1710837032,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168580,
+        "num": 168580,
+        "word": "倪萍分享减重40斤方法",
+        "onboard_time": 1710833195,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168096,
+        "num": 168096,
+        "word": "月薪四五千但很闲的工作",
+        "onboard_time": 1710819275,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167867,
+        "num": 167867,
+        "word": "林更新选赵又廷没选赵丽颖",
+        "onboard_time": 1710840454,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157889,
+        "num": 157889,
+        "word": "猫猫捧着耶耶还亲了两下",
+        "onboard_time": 1710835779,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151307,
+        "num": 151307,
+        "word": "身上长红痣是肝癌痣吗",
+        "onboard_time": 1710829535,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149903,
+        "num": 149903,
+        "word": "陆虎帮嘘嘘提包",
+        "onboard_time": 1710839913,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149449,
+        "num": 149449,
+        "word": "久哲打假无畏小作文",
+        "onboard_time": 1710836437,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149055,
+        "num": 149055,
+        "word": "多个淀粉肠商家晒合格书称被误伤",
+        "onboard_time": 1710838236,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129903,
+        "num": 129903,
+        "word": "原来周处除三害有那么多特效",
+        "onboard_time": 1710838294,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129512,
+        "num": 129512,
+        "word": "刘学义郑合惠子拥抱镜头",
+        "onboard_time": 1710823418,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127215,
+        "num": 127215,
+        "word": "张立群任西安交通大学校长",
+        "onboard_time": 1710839013,
+        "rank": 47,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 126546,
+        "num": 126546,
+        "word": "凯特王妃疑术后首次露面",
+        "onboard_time": 1710808597,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 124497,
+        "num": 124497,
+        "word": "王一博夸李沁讲究",
+        "onboard_time": 1710834695,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在湖南考察调研#"
+    }
+  }
+}
