@@ -1,6 +1,6 @@
 {
   "startTime": 1710865343685,
-  "endTime": 1710876850245,
+  "endTime": 1710879520121,
   "band_list": [
     {
       "raw_hot": 1051566,
@@ -499,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29648,
+      "num": 22241,
+      "word": "家有儿女中的刘梅是合格的妈妈吗",
+      "onboard_time": 1710876617,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27411,
       "num": 27411,
       "word": "星露谷更新",
@@ -531,12 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16171,
-      "num": 19121,
-      "word": "家有儿女中的刘梅是合格的妈妈吗",
-      "onboard_time": 1710876617,
-      "rank": 43,
-      "category": "剧集"
+      "raw_hot": 15247,
+      "num": 17351,
+      "word": "越来越能理解什么叫人活的是几个瞬间",
+      "onboard_time": 1710877516,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 14313,
