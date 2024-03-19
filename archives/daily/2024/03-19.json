@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710832636934,
+  "endTime": 1710833656811,
   "band_list": [
     {
       "raw_hot": 8747332,
@@ -83,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1295454,
+      "num": 1295454,
+      "word": "北大回应考生与前校长蔡元培同名",
+      "onboard_time": 1710827853,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1281261,
       "num": 1281261,
       "word": "渤海发现1.04亿吨油田",
       "onboard_time": 1710819095,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1273214,
-      "num": 1273214,
-      "word": "北大回应考生与前校长蔡元培同名",
-      "onboard_time": 1710827853,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1257509,
@@ -235,6 +235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 859261,
+      "num": 859261,
+      "word": "庆余年",
+      "onboard_time": 1710832773,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 858438,
       "num": 858438,
       "word": "长风破浪改名追风者",
@@ -249,6 +257,14 @@
       "onboard_time": 1710807938,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 842512,
+      "num": 350457,
+      "word": "03年孩子爹出轨80年的女人",
+      "onboard_time": 1710833312,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 828364,
@@ -307,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 707999,
+      "num": 707999,
+      "word": "男孩8年未见母亲被告知被遗忘",
+      "onboard_time": 1710829535,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 697150,
       "num": 697150,
       "word": "刘亦菲周冬雨撞造型",
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 671146,
-      "num": 242174,
+      "num": 278729,
       "word": "陶昕然妈妈承认自己打孩子是虚荣",
       "onboard_time": 1710831333,
       "rank": 20,
@@ -339,12 +363,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 647032,
-      "num": 647032,
-      "word": "男孩8年未见母亲被告知被遗忘",
+      "raw_hot": 649895,
+      "num": 275992,
+      "word": "身上长红痣是肝癌痣吗",
       "onboard_time": 1710829535,
-      "rank": 39,
-      "category": "社会新闻"
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 642636,
@@ -369,14 +393,6 @@
       "onboard_time": 1710809256,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 627677,
-      "num": 247370,
-      "word": "身上长红痣是肝癌痣吗",
-      "onboard_time": 1710829535,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 620227,
@@ -473,6 +489,14 @@
       "onboard_time": 1710828631,
       "rank": 22,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 507816,
+      "num": 344487,
+      "word": "男孩学校遭霸凌父母讨说法被踢出群",
+      "onboard_time": 1710832592,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502077,
@@ -587,6 +611,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 411525,
+      "num": 343294,
+      "word": "蔡元培莫言 北大",
+      "onboard_time": 1710831090,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 408253,
       "num": 408253,
       "word": "王楚钦孙颖莎顶峰相见",
@@ -601,6 +633,14 @@
       "onboard_time": 1710788357,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 402506,
+      "num": 265863,
+      "word": "下一个会消失的电子产品",
+      "onboard_time": 1710829355,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 401856,
@@ -652,27 +692,11 @@
     },
     {
       "raw_hot": 382219,
-      "num": 339830,
+      "num": 340127,
       "word": "沈阳一轿车冲入人行道致3死2伤",
       "onboard_time": 1710829053,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382006,
-      "num": 334958,
-      "word": "蔡元培莫言 北大",
-      "onboard_time": 1710831090,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 371541,
-      "num": 235106,
-      "word": "下一个会消失的电子产品",
-      "onboard_time": 1710829355,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 365823,
@@ -803,6 +827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 317525,
+      "num": 317525,
+      "word": "王一博绿色套装",
+      "onboard_time": 1710830855,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 310624,
       "num": 310624,
       "word": "恋与制作人卡面",
@@ -923,14 +955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 266419,
-      "num": 266419,
-      "word": "王一博绿色套装",
-      "onboard_time": 1710830855,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 264310,
       "num": 264310,
       "word": "因为装修意见不合离婚了",
@@ -1016,6 +1040,14 @@
       "word": "郑俊英被禁止出演所有电视台",
       "onboard_time": 1710814354,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 230732,
+      "num": 230732,
+      "word": "倪萍分享减重40斤方法",
+      "onboard_time": 1710833195,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -1107,6 +1139,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 215307,
+      "num": 215307,
+      "word": "这届年轻人怎么越来越省了",
+      "onboard_time": 1710831811,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214298,
       "num": 214298,
       "word": "陈建斌蒋勤勤牵手看展",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1710824138,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207175,
+      "num": 207175,
+      "word": "长期戴假睫毛的7大健康风险",
+      "onboard_time": 1710832409,
+      "rank": 40,
+      "category": "健康医疗,美妆"
     },
     {
       "raw_hot": 205322,
@@ -1177,6 +1225,14 @@
       "onboard_time": 1710817892,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200010,
+      "num": 200010,
+      "word": "小米Civi",
+      "onboard_time": 1710833129,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 199142,
@@ -1235,6 +1291,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 189125,
+      "num": 189125,
+      "word": "专家称T加0让散户船小好掉头",
+      "onboard_time": 1710832052,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 188947,
+      "num": 188947,
+      "word": "花间令cp粉",
+      "onboard_time": 1710832533,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185029,
       "num": 185029,
       "word": "有哪些事生孩子前要知道",
@@ -1257,14 +1329,6 @@
       "onboard_time": 1710826232,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 180158,
-      "num": 180158,
-      "word": "这届年轻人怎么越来越省了",
-      "onboard_time": 1710831811,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 179925,
@@ -1331,12 +1395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171955,
+      "num": 171955,
+      "word": "赵丽颖与凤行公主切",
+      "onboard_time": 1710833195,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169923,
       "num": 169923,
       "word": "渐渐的体会到了有车的快乐",
       "onboard_time": 1710810456,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169557,
+      "num": 151686,
+      "word": "赵丽颖林更新薅头发花絮",
+      "onboard_time": 1710833012,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 167676,
@@ -1364,7 +1444,7 @@
     },
     {
       "raw_hot": 166109,
-      "num": 199200,
+      "num": 215369,
       "word": "南部战区空军训练高清大图",
       "onboard_time": 1710829053,
       "rank": 38,
@@ -1435,12 +1515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154057,
-      "num": 154057,
-      "word": "长期戴假睫毛的7大健康风险",
-      "onboard_time": 1710832409,
-      "rank": 40,
-      "category": "健康医疗,美妆"
+      "raw_hot": 153598,
+      "num": 153598,
+      "word": "韩安冉说房子是老公给的婚房",
+      "onboard_time": 1710833494,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 152729,
@@ -1473,14 +1553,6 @@
       "onboard_time": 1710818855,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151383,
-      "num": 151383,
-      "word": "专家称T加0让散户船小好掉头",
-      "onboard_time": 1710832052,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 149532,
@@ -1611,6 +1683,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 130935,
+      "num": 130935,
+      "word": "涨跌停板变成机构操纵市场的工具",
+      "onboard_time": 1710832773,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 130627,
       "num": 121407,
       "word": "王一博秋裤起球了",
@@ -1625,14 +1705,6 @@
       "onboard_time": 1710771038,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 128650,
-      "num": 128650,
-      "word": "花间令cp粉",
-      "onboard_time": 1710832533,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 128216,
@@ -1657,14 +1729,6 @@
       "onboard_time": 1710830971,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 124097,
-      "num": 124097,
-      "word": "男孩学校遭霸凌父母讨说法被踢出群",
-      "onboard_time": 1710832592,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123264,
@@ -1947,20 +2011,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25759,
+      "num": 341900,
+      "word": "淘宝红人之夜倒计时1天",
+      "onboard_time": 1710831630,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 20835,
       "num": 22131,
       "word": "马思纯新中式",
       "onboard_time": 1710788716,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 18019,
-      "num": 322441,
-      "word": "淘宝红人之夜倒计时1天",
-      "onboard_time": 1710831630,
-      "rank": 14,
-      "category": "互联网"
     }
   ],
   "hotgov_list": [
