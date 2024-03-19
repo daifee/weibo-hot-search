@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710852351458,
+  "endTime": 1710854329016,
   "band_list": [
     {
       "raw_hot": 8747332,
@@ -113,6 +113,14 @@
       "onboard_time": 1710834756,
       "rank": 0,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 1306830,
+      "num": 1306830,
+      "word": "2大学生合买2张彩票中20万后1人不认账",
+      "onboard_time": 1710850535,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1300358,
@@ -299,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 908235,
+      "num": 908235,
+      "word": "杨倩无缘巴黎奥运",
+      "onboard_time": 1710851432,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 887870,
       "num": 887870,
       "word": "张家界山上长满韩国人",
@@ -313,6 +329,14 @@
       "onboard_time": 1710809619,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 882374,
+      "num": 882374,
+      "word": "武大声明",
+      "onboard_time": 1710850354,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 877804,
@@ -355,6 +379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 830831,
+      "num": 830831,
+      "word": "妈妈让我边考研边考公边找工作",
+      "onboard_time": 1710851554,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 828364,
       "num": 311531,
       "word": "凯特多位朋友发声",
@@ -377,14 +409,6 @@
       "onboard_time": 1710824616,
       "rank": 18,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 787674,
-      "num": 377105,
-      "word": "杨倩无缘巴黎奥运",
-      "onboard_time": 1710851432,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 759988,
@@ -411,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 737901,
-      "num": 737901,
-      "word": "武大声明",
-      "onboard_time": 1710850354,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 731829,
       "num": 487927,
       "word": "会出轨的人是改不了的",
@@ -433,6 +449,14 @@
       "onboard_time": 1710773257,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 714963,
+      "num": 714963,
+      "word": "英雄联盟",
+      "onboard_time": 1710852819,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 712272,
@@ -457,6 +481,14 @@
       "onboard_time": 1710835114,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 704323,
+      "num": 704323,
+      "word": "英雄联盟 进不去",
+      "onboard_time": 1710852819,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 697150,
@@ -531,14 +563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 623736,
-      "num": 374731,
-      "word": "2大学生合买2张彩票中20万后1人不认账",
-      "onboard_time": 1710850535,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 620227,
       "num": 529346,
       "word": "睡眠真的超级重要",
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 611714,
-      "num": 374395,
+      "num": 457783,
       "word": "赵丽颖说王梓薇太瘦了",
       "onboard_time": 1710849032,
       "rank": 12,
@@ -1003,20 +1027,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 371604,
-      "num": 371604,
-      "word": "妈妈让我边考研边考公边找工作",
-      "onboard_time": 1710851554,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 365823,
       "num": 287708,
       "word": "赵丽颖的左右脸",
       "onboard_time": 1710767915,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 353312,
+      "num": 353312,
+      "word": "逐渐消失的网红小吃",
+      "onboard_time": 1710851494,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 349336,
@@ -1195,6 +1219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 310359,
+      "num": 310359,
+      "word": "新西兰偶遇陈柏霖叶舒华",
+      "onboard_time": 1710852090,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309374,
       "num": 362006,
       "word": "台州一高校汽车撞人肇事司机已被控制",
@@ -1225,6 +1257,14 @@
       "onboard_time": 1710763890,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302829,
+      "num": 302829,
+      "word": "朱梓骁 纪凌尘是我的贵人",
+      "onboard_time": 1710850294,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 302087,
@@ -1273,6 +1313,14 @@
       "onboard_time": 1710848493,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289968,
+      "num": 289968,
+      "word": "国台办回应萧美琴窜访捷克",
+      "onboard_time": 1710852819,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 289004,
@@ -1379,20 +1427,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 266040,
+      "num": 266040,
+      "word": "什么班还需要赵丽颖亲自来上",
+      "onboard_time": 1710853834,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264310,
       "num": 264310,
       "word": "因为装修意见不合离婚了",
       "onboard_time": 1710817234,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 264247,
-      "num": 264247,
-      "word": "朱梓骁 纪凌尘是我的贵人",
-      "onboard_time": 1710850294,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 263361,
@@ -1417,6 +1465,14 @@
       "onboard_time": 1710847714,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 250073,
+      "num": 195076,
+      "word": "拜托那可是赵丽颖",
+      "onboard_time": 1710852212,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 248004,
@@ -1531,14 +1587,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 232112,
-      "num": 232112,
-      "word": "逐渐消失的网红小吃",
-      "onboard_time": 1710851494,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 232050,
       "num": 232050,
       "word": "初中生杀害同学手段残忍令人发指",
@@ -1585,6 +1633,14 @@
       "onboard_time": 1710835779,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226994,
+      "num": 226994,
+      "word": "天天洗头为什么头发还是很油",
+      "onboard_time": 1710848673,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 224478,
@@ -1715,14 +1771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 213016,
-      "num": 213016,
-      "word": "天天洗头为什么头发还是很油",
-      "onboard_time": 1710848673,
-      "rank": 31,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 210454,
       "num": 210454,
       "word": "gidle重返音放打歌",
@@ -1777,6 +1825,14 @@
       "onboard_time": 1710846034,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205908,
+      "num": 205908,
+      "word": "刘宇宁直播",
+      "onboard_time": 1710852753,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 205322,
@@ -1987,6 +2043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185765,
+      "num": 185765,
+      "word": "花间令编剧",
+      "onboard_time": 1710852694,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185232,
       "num": 185232,
       "word": "凌晨睡中午醒算熬夜吗",
@@ -2017,6 +2081,14 @@
       "onboard_time": 1710814829,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 182098,
+      "num": 182098,
+      "word": "烈焰",
+      "onboard_time": 1710853415,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 181626,
@@ -2163,6 +2235,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 168704,
+      "num": 168704,
+      "word": "WE对战TT",
+      "onboard_time": 1710853415,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167867,
       "num": 167867,
       "word": "林更新选赵又廷没选赵丽颖",
@@ -2251,14 +2331,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 160798,
-      "num": 160798,
-      "word": "新西兰偶遇陈柏霖叶舒华",
-      "onboard_time": 1710852090,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159629,
       "num": 159629,
       "word": "与凤行同款",
@@ -2321,6 +2393,14 @@
       "onboard_time": 1710823177,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155531,
+      "num": 155531,
+      "word": "潜水时被摘下面罩问拍不拍照",
+      "onboard_time": 1710854017,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 155039,
@@ -2387,6 +2467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151412,
+      "num": 151412,
+      "word": "物理防晒才是最牛的",
+      "onboard_time": 1710853658,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 150872,
       "num": 150872,
       "word": "只有低血糖才懂的尴尬",
@@ -2433,6 +2521,14 @@
       "onboard_time": 1710808235,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146527,
+      "num": 146527,
+      "word": "原来正宗螺狮粉是不臭的",
+      "onboard_time": 1710853535,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 146512,
@@ -2884,7 +2980,7 @@
     },
     {
       "raw_hot": 62221,
-      "num": 840769,
+      "num": 987617,
       "word": "认识你真好",
       "onboard_time": 1710834813,
       "rank": 2,
