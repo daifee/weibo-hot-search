@@ -1,0 +1,410 @@
+{
+  "runTime": 1710819260186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1789517,
+        "num": 1789517,
+        "word": "嫡校长",
+        "onboard_time": 1710813933,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1262147,
+        "num": 1262147,
+        "word": "黑马情侣提车",
+        "onboard_time": 1710813874,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 23368,
+        "num": 1153268,
+        "word": "渤海发现1.04亿吨油田",
+        "onboard_time": 1710819095,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1095389,
+        "num": 1095389,
+        "word": "男子被流浪猫绊倒投喂者赔24万",
+        "onboard_time": 1710816755,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759988,
+        "num": 759988,
+        "word": "教育部发布24种本科新增专业",
+        "onboard_time": 1710815196,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1121520,
+        "num": 726551,
+        "word": "凯特王妃疑术后首次露面",
+        "onboard_time": 1710808597,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 658806,
+        "num": 658806,
+        "word": "陈赫质问林更新为什么不回消息",
+        "onboard_time": 1710814954,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543284,
+        "num": 543284,
+        "word": "迪丽热巴陈星旭都是浓颜",
+        "onboard_time": 1710818190,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 516453,
+        "num": 516453,
+        "word": "苹果称128GB的iPhone也有充裕空间",
+        "onboard_time": 1710807938,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 520485,
+        "num": 515002,
+        "word": "枭起青壤开机",
+        "onboard_time": 1710815315,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1061192,
+        "num": 494292,
+        "word": "教育局通报学生捅伤老师跳楼事件",
+        "onboard_time": 1710810574,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681806,
+        "num": 480157,
+        "word": "会出轨的人是改不了的",
+        "onboard_time": 1710814411,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 544359,
+        "num": 471326,
+        "word": "小米测试车被天津高速抓到逃费",
+        "onboard_time": 1710818612,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 463860,
+        "num": 463860,
+        "word": "反向消费有多爽",
+        "onboard_time": 1710817952,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 457052,
+        "num": 457052,
+        "word": "李惠利吴世勋裴秀智毕业合照",
+        "onboard_time": 1710807754,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419579,
+        "num": 419579,
+        "word": "迪丽热巴复古皮衣",
+        "onboard_time": 1710815912,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26608,
+        "num": 404450,
+        "word": "这是一堂生动的思政课",
+        "onboard_time": 1710767192,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403746,
+        "num": 403746,
+        "word": "长风破浪改名追风者",
+        "onboard_time": 1710818913,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375143,
+        "num": 375143,
+        "word": "王楚钦孙颖莎顶峰相见",
+        "onboard_time": 1710814231,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320796,
+        "num": 320796,
+        "word": "聂可以自曝在女团被集体霸凌",
+        "onboard_time": 1710809256,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313452,
+        "num": 313452,
+        "word": "大家最烦室友在寝室干嘛",
+        "onboard_time": 1710816271,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290720,
+        "num": 290720,
+        "word": "刘亦菲时尚芭莎4月刊封面",
+        "onboard_time": 1710814652,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 278013,
+        "num": 278013,
+        "word": "被保护得太好的人是怎样的",
+        "onboard_time": 1710814411,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250482,
+        "num": 250482,
+        "word": "世界排名王楚钦三项第一",
+        "onboard_time": 1710809378,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241414,
+        "num": 241414,
+        "word": "郑俊英出狱",
+        "onboard_time": 1710809619,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240708,
+        "num": 240708,
+        "word": "赵丽颖与凤行绿幕打戏纯享",
+        "onboard_time": 1710814829,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238940,
+        "num": 238940,
+        "word": "因为装修意见不合离婚了",
+        "onboard_time": 1710817234,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219489,
+        "num": 219489,
+        "word": "爱德华兹隔扣",
+        "onboard_time": 1710818253,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217552,
+        "num": 217552,
+        "word": "睡眠真的超级重要",
+        "onboard_time": 1710811772,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206382,
+        "num": 206382,
+        "word": "断崖式暧昧",
+        "onboard_time": 1710818913,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206329,
+        "num": 206329,
+        "word": "毕竟是九亿少女的梦",
+        "onboard_time": 1710771217,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203650,
+        "num": 203650,
+        "word": "她和智障哥哥唯一合照是陌生人拍的",
+        "onboard_time": 1710803004,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202450,
+        "num": 202450,
+        "word": "任嘉伦扫楼工卡是任国超",
+        "onboard_time": 1710818913,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194143,
+        "num": 194143,
+        "word": "咱就是说这恋爱谈的是真的省钱",
+        "onboard_time": 1710819095,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188483,
+        "num": 188483,
+        "word": "V社宣布推出Steam家庭",
+        "onboard_time": 1710816452,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188369,
+        "num": 188369,
+        "word": "路边卖淀粉肠阿姨主动出示声明书",
+        "onboard_time": 1710786917,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182576,
+        "num": 182576,
+        "word": "睡醒之后一定要改掉这4个坏习惯",
+        "onboard_time": 1710803004,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181372,
+        "num": 181372,
+        "word": "烈焰新浪扫楼",
+        "onboard_time": 1710817892,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180058,
+        "num": 180058,
+        "word": "老外感慨凌晨的中国非常安全",
+        "onboard_time": 1710813632,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177140,
+        "num": 177140,
+        "word": "向佐体脂低的原因",
+        "onboard_time": 1710818792,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172862,
+        "num": 172862,
+        "word": "张俪官宣枭起青壤",
+        "onboard_time": 1710818073,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157167,
+        "num": 157167,
+        "word": "每天睡多久最好因人而异",
+        "onboard_time": 1710815912,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160407,
+        "num": 156799,
+        "word": "迪丽热巴 枭起青壤",
+        "onboard_time": 1710774815,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154969,
+        "num": 154969,
+        "word": "HYBE将推出水溶性小卡",
+        "onboard_time": 1710811174,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154612,
+        "num": 154612,
+        "word": "梅西退出阿根廷队美国热身赛",
+        "onboard_time": 1710809137,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151489,
+        "num": 151489,
+        "word": "夏之光彩票代刮",
+        "onboard_time": 1710818855,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141427,
+        "num": 141427,
+        "word": "为何同样睡8小时人与人精神头不一样",
+        "onboard_time": 1710813574,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137902,
+        "num": 137902,
+        "word": "鸡胸肉自制淀粉肠",
+        "onboard_time": 1710819212,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137744,
+        "num": 137744,
+        "word": "刘学义上桌了",
+        "onboard_time": 1710776552,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135126,
+        "num": 135126,
+        "word": "王海称小杨哥和东方甄选或明知槽头扣肉",
+        "onboard_time": 1710810994,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#育人之本在于培根铸魂#"
+    }
+  }
+}

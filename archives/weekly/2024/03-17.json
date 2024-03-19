@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710818304669,
+  "endTime": 1710819260186,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -275,6 +275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1789517,
+      "num": 1789517,
+      "word": "嫡校长",
+      "onboard_time": 1710813933,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1747609,
       "num": 1747609,
       "word": "金价下跌了",
@@ -345,14 +353,6 @@
       "onboard_time": 1710810574,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1536148,
-      "num": 1536148,
-      "word": "嫡校长",
-      "onboard_time": 1710813933,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 1536025,
@@ -657,6 +657,14 @@
       "onboard_time": 1710770079,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1095389,
+      "num": 1095389,
+      "word": "男子被流浪猫绊倒投喂者赔24万",
+      "onboard_time": 1710816755,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1088882,
@@ -1091,6 +1099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 759988,
+      "num": 759988,
+      "word": "教育部发布24种本科新增专业",
+      "onboard_time": 1710815196,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 757966,
       "num": 757966,
       "word": "张予曦王子奇演夫妻",
@@ -1176,14 +1192,6 @@
       "word": "幼儿园关停潮下幼师的自救之路",
       "onboard_time": 1710648991,
       "rank": 45,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 737816,
-      "num": 737816,
-      "word": "教育部发布24种本科新增专业",
-      "onboard_time": 1710815196,
-      "rank": 31,
       "category": "教育"
     },
     {
@@ -1361,14 +1369,6 @@
       "onboard_time": 1710815315,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 640951,
-      "num": 640951,
-      "word": "男子被流浪猫绊倒投喂者赔24万",
-      "onboard_time": 1710816755,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 635076,
@@ -1651,12 +1651,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 544359,
+      "num": 471326,
+      "word": "小米测试车被天津高速抓到逃费",
+      "onboard_time": 1710818612,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 543532,
       "num": 454897,
       "word": "加沙看不到正常体型新生儿",
       "onboard_time": 1710657808,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 543284,
+      "num": 543284,
+      "word": "迪丽热巴陈星旭都是浓颜",
+      "onboard_time": 1710818190,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 541885,
@@ -1945,6 +1961,14 @@
       "onboard_time": 1710652592,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 463860,
+      "num": 463860,
+      "word": "反向消费有多爽",
+      "onboard_time": 1710817952,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 459474,
@@ -2283,6 +2307,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 403746,
+      "num": 403746,
+      "word": "长风破浪改名追风者",
+      "onboard_time": 1710818913,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403665,
       "num": 403665,
       "word": "白桃星座",
@@ -2612,7 +2644,7 @@
     },
     {
       "raw_hot": 338447,
-      "num": 266900,
+      "num": 313452,
       "word": "大家最烦室友在寝室干嘛",
       "onboard_time": 1710816271,
       "rank": 20,
@@ -2868,7 +2900,7 @@
     },
     {
       "raw_hot": 302087,
-      "num": 265807,
+      "num": 278013,
       "word": "被保护得太好的人是怎样的",
       "onboard_time": 1710814411,
       "rank": 33,
@@ -3153,14 +3185,6 @@
       "onboard_time": 1710764376,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 268449,
-      "num": 268449,
-      "word": "反向消费有多爽",
-      "onboard_time": 1710817952,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 266452,
@@ -3739,6 +3763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 219489,
+      "num": 219489,
+      "word": "爱德华兹隔扣",
+      "onboard_time": 1710818253,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219363,
       "num": 179675,
       "word": "狗狗偷亲熟睡的小主人",
@@ -3947,6 +3979,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 206382,
+      "num": 206382,
+      "word": "断崖式暧昧",
+      "onboard_time": 1710818913,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206346,
       "num": 206346,
       "word": "与凤行宣璐哭戏",
@@ -4049,6 +4089,14 @@
       "onboard_time": 1710739235,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202450,
+      "num": 202450,
+      "word": "任嘉伦扫楼工卡是任国超",
+      "onboard_time": 1710818913,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 202330,
@@ -4281,6 +4329,14 @@
       "onboard_time": 1710687822,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194143,
+      "num": 194143,
+      "word": "咱就是说这恋爱谈的是真的省钱",
+      "onboard_time": 1710819095,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 193623,
@@ -4683,6 +4739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177140,
+      "num": 177140,
+      "word": "向佐体脂低的原因",
+      "onboard_time": 1710818792,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176853,
       "num": 176853,
       "word": "姐姐拯救了小时候的自己",
@@ -4777,6 +4841,14 @@
       "onboard_time": 1710683740,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 172862,
+      "num": 172862,
+      "word": "张俪官宣枭起青壤",
+      "onboard_time": 1710818073,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 172858,
@@ -5091,14 +5163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159256,
-      "num": 159256,
-      "word": "迪丽热巴陈星旭都是浓颜",
-      "onboard_time": 1710818190,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 159158,
       "num": 159158,
       "word": "贾静雯修杰楷一家游迪士尼",
@@ -5323,14 +5387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152731,
-      "num": 152731,
-      "word": "张俪官宣枭起青壤",
-      "onboard_time": 1710818073,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152684,
       "num": 223983,
       "word": "王濛首次讲述原生家庭",
@@ -5376,6 +5432,14 @@
       "word": "周也神女降临",
       "onboard_time": 1710689619,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151489,
+      "num": 151489,
+      "word": "夏之光彩票代刮",
+      "onboard_time": 1710818855,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -5659,6 +5723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137902,
+      "num": 137902,
+      "word": "鸡胸肉自制淀粉肠",
+      "onboard_time": 1710819212,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 137146,
       "num": 343952,
       "word": "张睿动一下就扣5分",
@@ -5921,14 +5993,6 @@
       "onboard_time": 1710692669,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127203,
-      "num": 127203,
-      "word": "爱德华兹隔扣",
-      "onboard_time": 1710818253,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 127134,
@@ -6873,6 +6937,14 @@
       "onboard_time": 1710703337,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 23368,
+      "num": 1153268,
+      "word": "渤海发现1.04亿吨油田",
+      "onboard_time": 1710819095,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23188,
