@@ -1,0 +1,410 @@
+{
+  "runTime": 1710852351458,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2319305,
+        "num": 2319305,
+        "word": "当你早睡一次 你的器官",
+        "onboard_time": 1710841955,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1054889,
+        "num": 1054889,
+        "word": "纪凌尘他做到了",
+        "onboard_time": 1710847054,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62221,
+        "num": 840769,
+        "word": "认识你真好",
+        "onboard_time": 1710834813,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 737901,
+        "num": 737901,
+        "word": "武大声明",
+        "onboard_time": 1710850354,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 679954,
+        "num": 679954,
+        "word": "请回答1988善宇近照",
+        "onboard_time": 1710846513,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 631034,
+        "num": 631034,
+        "word": "花间令低开高走",
+        "onboard_time": 1710848493,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433790,
+        "num": 433790,
+        "word": "淀粉肠",
+        "onboard_time": 1710847472,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 386157,
+        "num": 386157,
+        "word": "与凤行",
+        "onboard_time": 1710847231,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380400,
+        "num": 380400,
+        "word": "LGD战胜WBG",
+        "onboard_time": 1710849456,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 290643,
+        "num": 380281,
+        "word": "维护国家安全条例草案三读审议通过",
+        "onboard_time": 1710847112,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1299120,
+        "num": 378167,
+        "word": "阚清子开大G",
+        "onboard_time": 1710845136,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 787674,
+        "num": 377105,
+        "word": "杨倩无缘巴黎奥运",
+        "onboard_time": 1710851432,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 623736,
+        "num": 374731,
+        "word": "2大学生合买2张彩票中20万后1人不认账",
+        "onboard_time": 1710850535,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611714,
+        "num": 374395,
+        "word": "赵丽颖说王梓薇太瘦了",
+        "onboard_time": 1710849032,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 506056,
+        "num": 371854,
+        "word": "03年孩子爹出轨80年的女人",
+        "onboard_time": 1710833312,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 371604,
+        "num": 371604,
+        "word": "妈妈让我边考研边考公边找工作",
+        "onboard_time": 1710851554,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 359690,
+        "num": 359690,
+        "word": "中国拥有亿元资产的家庭达13.3万户",
+        "onboard_time": 1710838893,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 301794,
+        "num": 301794,
+        "word": "鞠婧祎郑合惠子二搭了",
+        "onboard_time": 1710845734,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280861,
+        "num": 280861,
+        "word": "分手后最joker的行为",
+        "onboard_time": 1710844175,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299147,
+        "num": 280658,
+        "word": "刘学义演技",
+        "onboard_time": 1710850594,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279909,
+        "num": 279909,
+        "word": "火锅店回应男孩拿公勺喝香油",
+        "onboard_time": 1710848493,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279529,
+        "num": 279529,
+        "word": "阴阳师",
+        "onboard_time": 1710851195,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 274525,
+        "num": 274525,
+        "word": "迪丽热巴ins已认证",
+        "onboard_time": 1710848194,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270419,
+        "num": 270419,
+        "word": "庆余年",
+        "onboard_time": 1710832773,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264247,
+        "num": 264247,
+        "word": "朱梓骁 纪凌尘是我的贵人",
+        "onboard_time": 1710850294,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250427,
+        "num": 250427,
+        "word": "台州一高校汽车撞人肇事司机已被控制",
+        "onboard_time": 1710847472,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232112,
+        "num": 232112,
+        "word": "逐渐消失的网红小吃",
+        "onboard_time": 1710851494,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 207965,
+        "num": 207965,
+        "word": "天天洗头为什么头发还是很油",
+        "onboard_time": 1710848673,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 206778,
+        "num": 206778,
+        "word": "顺手毁掉一个家原来这么简单",
+        "onboard_time": 1710847714,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204408,
+        "num": 204408,
+        "word": "周杰伦一审败诉网易",
+        "onboard_time": 1710834756,
+        "rank": 29,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 203002,
+        "num": 203002,
+        "word": "无畏回应小作文作假",
+        "onboard_time": 1710850775,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186722,
+        "num": 186722,
+        "word": "迪丽热巴陈星旭怎么鬼鬼祟祟的",
+        "onboard_time": 1710850176,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186311,
+        "num": 186311,
+        "word": "除了医院谁还会这么算年龄",
+        "onboard_time": 1710837275,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183370,
+        "num": 183370,
+        "word": "学校的饮水器时薪63元",
+        "onboard_time": 1710843455,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180843,
+        "num": 180843,
+        "word": "陈哲远瘦了",
+        "onboard_time": 1710843936,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174683,
+        "num": 174683,
+        "word": "YSL男模",
+        "onboard_time": 1710849574,
+        "rank": 35,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 173388,
+        "num": 173388,
+        "word": "许家印",
+        "onboard_time": 1710849216,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 169151,
+        "num": 169151,
+        "word": "巨蟹座真正想要的安全感",
+        "onboard_time": 1710846034,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162442,
+        "num": 162442,
+        "word": "王源情绪好稳定",
+        "onboard_time": 1710850415,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162096,
+        "num": 162096,
+        "word": "何超仪首次谈遗产分配",
+        "onboard_time": 1710844654,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160798,
+        "num": 160798,
+        "word": "新西兰偶遇陈柏霖叶舒华",
+        "onboard_time": 1710852090,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159878,
+        "num": 159878,
+        "word": "山东一学校惊现4层楼高视力表",
+        "onboard_time": 1710842554,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154069,
+        "num": 154069,
+        "word": "你们和男朋友出去旅游AA吗",
+        "onboard_time": 1710851432,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149917,
+        "num": 149917,
+        "word": "台州",
+        "onboard_time": 1710848133,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146247,
+        "num": 146247,
+        "word": "唯一一株400岁古旱莲盛放",
+        "onboard_time": 1710845672,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141532,
+        "num": 141532,
+        "word": "小凤凰是赵丽颖自己配的音",
+        "onboard_time": 1710845495,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136798,
+        "num": 136798,
+        "word": "身体缺啥看脸就知道",
+        "onboard_time": 1710843693,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126487,
+        "num": 136730,
+        "word": "雷军",
+        "onboard_time": 1710844654,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112963,
+        "num": 134725,
+        "word": "王一博工作室换头像背景",
+        "onboard_time": 1710840630,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112838,
+        "num": 133442,
+        "word": "魏大勋对慢综有自己的理解",
+        "onboard_time": 1710852276,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在湖南考察调研#"
+    }
+  }
+}
