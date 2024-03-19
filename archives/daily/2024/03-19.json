@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710829304909,
+  "endTime": 1710830040211,
   "band_list": [
     {
       "raw_hot": 8747332,
@@ -75,12 +75,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1293871,
+      "num": 1293871,
+      "word": "洛杉矶偶遇贾玲",
+      "onboard_time": 1710828693,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1281261,
       "num": 1281261,
       "word": "渤海发现1.04亿吨油田",
       "onboard_time": 1710819095,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1273214,
+      "num": 1273214,
+      "word": "北大回应考生与前校长蔡元培同名",
+      "onboard_time": 1710827853,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1257509,
@@ -169,14 +185,6 @@
       "onboard_time": 1710803004,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 976706,
-      "num": 483540,
-      "word": "北大回应考生与前校长蔡元培同名",
-      "onboard_time": 1710827853,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 974176,
@@ -323,14 +331,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 644455,
-      "num": 644455,
-      "word": "洛杉矶偶遇贾玲",
-      "onboard_time": 1710828693,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 642636,
       "num": 642636,
       "word": "枭起青壤开机",
@@ -443,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 514943,
+      "num": 259610,
+      "word": "1天1万的衣服值得吗",
+      "onboard_time": 1710828631,
+      "rank": 22,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 502077,
       "num": 502077,
       "word": "警方回应网传一中学生捅伤老师后跳楼",
@@ -499,20 +507,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456912,
+      "num": 456912,
+      "word": "沈腾一家同框",
+      "onboard_time": 1710825993,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434913,
       "num": 293569,
       "word": "审判与凤行",
       "onboard_time": 1710765453,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 434545,
-      "num": 434545,
-      "word": "沈腾一家同框",
-      "onboard_time": 1710825993,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 430807,
@@ -595,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 386039,
+      "num": 386039,
+      "word": "大侦探100案评分排名",
+      "onboard_time": 1710827794,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385645,
       "num": 385645,
       "word": "日本加息",
@@ -609,14 +625,6 @@
       "onboard_time": 1710825513,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 366113,
-      "num": 366113,
-      "word": "大侦探100案评分排名",
-      "onboard_time": 1710827794,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 365823,
@@ -843,12 +851,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 279948,
-      "num": 241612,
-      "word": "1天1万的衣服值得吗",
-      "onboard_time": 1710828631,
-      "rank": 22,
-      "category": "时尚"
+      "raw_hot": 279034,
+      "num": 279034,
+      "word": "丁子峻说赵丽颖太棒了",
+      "onboard_time": 1710828813,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 272455,
+      "num": 272455,
+      "word": "沈阳一轿车冲入人行道致3死2伤",
+      "onboard_time": 1710829053,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272289,
@@ -889,6 +905,14 @@
       "onboard_time": 1710821437,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247370,
+      "num": 247370,
+      "word": "身上长红痣是肝癌痣吗",
+      "onboard_time": 1710829535,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 246130,
@@ -963,8 +987,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 226005,
-      "num": 226005,
+      "raw_hot": 228351,
+      "num": 228351,
       "word": "原来有人连哭都这么好看",
       "onboard_time": 1710826955,
       "rank": 25,
@@ -1011,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219013,
+      "num": 219013,
+      "word": "邢菲痛失本名",
+      "onboard_time": 1710829473,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218818,
       "num": 218818,
       "word": "买车是一步到位还是先将就",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1710813031,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210950,
+      "num": 210950,
+      "word": "给J人一点P人的小小震撼",
+      "onboard_time": 1710829053,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 210454,
@@ -1043,12 +1083,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207518,
-      "num": 207518,
-      "word": "丁子峻说赵丽颖太棒了",
-      "onboard_time": 1710828813,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 205792,
+      "num": 205792,
+      "word": "下一个会消失的电子产品",
+      "onboard_time": 1710829355,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 205322,
@@ -1107,6 +1147,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 195497,
+      "num": 195497,
+      "word": "小日子 异地恋是个巨大的醋厂",
+      "onboard_time": 1710828333,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192552,
       "num": 192552,
       "word": "每天睡多久最好因人而异",
@@ -1139,14 +1187,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 187897,
-      "num": 187897,
-      "word": "小日子 异地恋是个巨大的醋厂",
-      "onboard_time": 1710828333,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185029,
       "num": 185029,
       "word": "有哪些事生孩子前要知道",
@@ -1169,14 +1209,6 @@
       "onboard_time": 1710826232,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 181371,
-      "num": 181371,
-      "word": "沈阳一轿车冲入人行道致3死2伤",
-      "onboard_time": 1710829053,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179925,
@@ -1217,6 +1249,14 @@
       "onboard_time": 1710827373,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173999,
+      "num": 173999,
+      "word": "逆水寒星宿拟人外观",
+      "onboard_time": 1710829412,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 172862,
@@ -1268,7 +1308,7 @@
     },
     {
       "raw_hot": 162612,
-      "num": 191702,
+      "num": 210476,
       "word": "一盘家常菜后半生都要靠透析维持",
       "onboard_time": 1710826597,
       "rank": 29,
@@ -1363,14 +1403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147564,
-      "num": 147564,
-      "word": "给J人一点P人的小小震撼",
-      "onboard_time": 1710829053,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 147200,
       "num": 147200,
       "word": "樱花树下站谁都美",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1710743196,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145110,
+      "num": 165374,
+      "word": "男孩8年未见母亲被告知被遗忘",
+      "onboard_time": 1710829535,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140823,
