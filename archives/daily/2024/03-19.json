@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710854329016,
+  "endTime": 1710855306429,
   "band_list": [
     {
       "raw_hot": 8747332,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1691763,
-      "num": 447304,
+      "num": 455745,
       "word": "03年孩子爹出轨80年的女人",
       "onboard_time": 1710833312,
       "rank": 10,
@@ -115,8 +115,8 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 1306830,
-      "num": 1306830,
+      "raw_hot": 1387216,
+      "num": 1387216,
       "word": "2大学生合买2张彩票中20万后1人不认账",
       "onboard_time": 1710850535,
       "rank": 20,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 911825,
+      "num": 911825,
+      "word": "妈妈让我边考研边考公边找工作",
+      "onboard_time": 1710851554,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 911223,
       "num": 386025,
       "word": "13岁男孩性侵8岁女童后已返校上课",
@@ -377,14 +385,6 @@
       "onboard_time": 1710807938,
       "rank": 10,
       "category": "数码"
-    },
-    {
-      "raw_hot": 830831,
-      "num": 830831,
-      "word": "妈妈让我边考研边考公边找工作",
-      "onboard_time": 1710851554,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 828364,
@@ -651,12 +651,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 577291,
+      "num": 491325,
+      "word": "逐渐消失的网红小吃",
+      "onboard_time": 1710851494,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 577177,
       "num": 577177,
       "word": "早上六点起床跟八点起床的区别",
       "onboard_time": 1710761014,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 566550,
+      "num": 566550,
+      "word": "朱梓骁 纪凌尘是我的贵人",
+      "onboard_time": 1710850294,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 566369,
@@ -729,6 +745,14 @@
       "onboard_time": 1710844654,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 523065,
+      "num": 523065,
+      "word": "英媒发布凯特王妃现身视频引网友质疑",
+      "onboard_time": 1710854436,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 514943,
@@ -947,6 +971,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 405780,
+      "num": 266040,
+      "word": "什么班还需要赵丽颖亲自来上",
+      "onboard_time": 1710853834,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 402506,
       "num": 299345,
       "word": "下一个会消失的电子产品",
@@ -1027,20 +1059,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 367356,
+      "num": 199764,
+      "word": "拜托那可是赵丽颖",
+      "onboard_time": 1710852212,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365823,
       "num": 287708,
       "word": "赵丽颖的左右脸",
       "onboard_time": 1710767915,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 353312,
-      "num": 353312,
-      "word": "逐渐消失的网红小吃",
-      "onboard_time": 1710851494,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 349336,
@@ -1259,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302829,
-      "num": 302829,
-      "word": "朱梓骁 纪凌尘是我的贵人",
-      "onboard_time": 1710850294,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 302087,
       "num": 278013,
       "word": "被保护得太好的人是怎样的",
@@ -1427,14 +1451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 266040,
-      "num": 266040,
-      "word": "什么班还需要赵丽颖亲自来上",
-      "onboard_time": 1710853834,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 264310,
       "num": 264310,
       "word": "因为装修意见不合离婚了",
@@ -1467,20 +1483,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 250073,
-      "num": 195076,
-      "word": "拜托那可是赵丽颖",
-      "onboard_time": 1710852212,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 248004,
       "num": 248004,
       "word": "久哲打假无畏小作文",
       "onboard_time": 1710836437,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 247625,
+      "num": 247625,
+      "word": "天天洗头为什么头发还是很油",
+      "onboard_time": 1710848673,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 247200,
@@ -1635,14 +1651,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 226994,
-      "num": 226994,
-      "word": "天天洗头为什么头发还是很油",
-      "onboard_time": 1710848673,
-      "rank": 31,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 224478,
       "num": 224478,
       "word": "马斯克回应服用K粉",
@@ -1745,6 +1753,14 @@
       "onboard_time": 1710827314,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 217192,
+      "num": 199766,
+      "word": "花间令编剧",
+      "onboard_time": 1710852694,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 216392,
@@ -1915,6 +1931,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 199531,
+      "num": 199531,
+      "word": "2024LPL",
+      "onboard_time": 1710854676,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199142,
       "num": 199142,
       "word": "小米回应测试车逃费被罚",
@@ -1945,6 +1969,14 @@
       "onboard_time": 1710834873,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193657,
+      "num": 193657,
+      "word": "潜水时被摘下面罩问拍不拍照",
+      "onboard_time": 1710854017,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 193015,
@@ -1995,6 +2027,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 189457,
+      "num": 189457,
+      "word": "原来正宗螺狮粉是不臭的",
+      "onboard_time": 1710853535,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 189427,
       "num": 189427,
       "word": "甘肃武威万人携手为沙漠织毛衣",
@@ -2040,14 +2080,6 @@
       "word": "迪丽热巴陈星旭怎么鬼鬼祟祟的",
       "onboard_time": 1710850176,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 185765,
-      "num": 185765,
-      "word": "花间令编剧",
-      "onboard_time": 1710852694,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -2112,6 +2144,14 @@
       "word": "年轻人租房时有多卑微",
       "onboard_time": 1710829113,
       "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 177869,
+      "num": 177869,
+      "word": "你们和男朋友出去旅游AA吗",
+      "onboard_time": 1710851432,
+      "rank": 42,
       "category": "情感"
     },
     {
@@ -2363,14 +2403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 157259,
-      "num": 157259,
-      "word": "你们和男朋友出去旅游AA吗",
-      "onboard_time": 1710851432,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 156983,
       "num": 156983,
       "word": "赵丽颖脖子上的青筋",
@@ -2395,12 +2427,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 155531,
-      "num": 155531,
-      "word": "潜水时被摘下面罩问拍不拍照",
-      "onboard_time": 1710854017,
-      "rank": 41,
-      "category": "旅游"
+      "raw_hot": 155186,
+      "num": 155186,
+      "word": "物理防晒才是最牛的",
+      "onboard_time": 1710853658,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 155039,
@@ -2467,14 +2499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151412,
-      "num": 151412,
-      "word": "物理防晒才是最牛的",
-      "onboard_time": 1710853658,
-      "rank": 42,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 150872,
       "num": 150872,
       "word": "只有低血糖才懂的尴尬",
@@ -2521,14 +2545,6 @@
       "onboard_time": 1710808235,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146527,
-      "num": 146527,
-      "word": "原来正宗螺狮粉是不臭的",
-      "onboard_time": 1710853535,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 146512,
@@ -2980,7 +2996,7 @@
     },
     {
       "raw_hot": 62221,
-      "num": 987617,
+      "num": 1081682,
       "word": "认识你真好",
       "onboard_time": 1710834813,
       "rank": 2,
@@ -3089,6 +3105,14 @@
       "onboard_time": 1710788716,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 20788,
+      "num": 159160,
+      "word": "智己CEO直播解读如何横着走",
+      "onboard_time": 1710854497,
+      "rank": 38,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [

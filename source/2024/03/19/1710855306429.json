@@ -1,0 +1,410 @@
+{
+  "runTime": 1710855306429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1846619,
+        "num": 1846619,
+        "word": "当你早睡一次 你的器官",
+        "onboard_time": 1710841955,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1387216,
+        "num": 1387216,
+        "word": "2大学生合买2张彩票中20万后1人不认账",
+        "onboard_time": 1710850535,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50948,
+        "num": 1081682,
+        "word": "认识你真好",
+        "onboard_time": 1710834813,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911825,
+        "num": 911825,
+        "word": "妈妈让我边考研边考公边找工作",
+        "onboard_time": 1710851554,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 875599,
+        "num": 875599,
+        "word": "杨倩无缘巴黎奥运",
+        "onboard_time": 1710851432,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 780833,
+        "num": 780833,
+        "word": "武大声明",
+        "onboard_time": 1710850354,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 691513,
+        "num": 691513,
+        "word": "英雄联盟 进不去",
+        "onboard_time": 1710852819,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 566550,
+        "num": 566550,
+        "word": "朱梓骁 纪凌尘是我的贵人",
+        "onboard_time": 1710850294,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523065,
+        "num": 523065,
+        "word": "英媒发布凯特王妃现身视频引网友质疑",
+        "onboard_time": 1710854436,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 512216,
+        "num": 512216,
+        "word": "纪凌尘他做到了",
+        "onboard_time": 1710847054,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 856587,
+        "num": 497005,
+        "word": "阚清子开大G",
+        "onboard_time": 1710845136,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 577291,
+        "num": 491325,
+        "word": "逐渐消失的网红小吃",
+        "onboard_time": 1710851494,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 464281,
+        "num": 464281,
+        "word": "英雄联盟",
+        "onboard_time": 1710852819,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 455745,
+        "num": 455745,
+        "word": "03年孩子爹出轨80年的女人",
+        "onboard_time": 1710833312,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 448923,
+        "num": 448923,
+        "word": "花间令低开高走",
+        "onboard_time": 1710848493,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428973,
+        "num": 428973,
+        "word": "请回答1988善宇近照",
+        "onboard_time": 1710846513,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 415324,
+        "num": 415324,
+        "word": "赵丽颖说王梓薇太瘦了",
+        "onboard_time": 1710849032,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360755,
+        "num": 360755,
+        "word": "与凤行",
+        "onboard_time": 1710847231,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336346,
+        "num": 336346,
+        "word": "中国拥有亿元资产的家庭达13.3万户",
+        "onboard_time": 1710838893,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 256818,
+        "num": 256818,
+        "word": "新西兰偶遇陈柏霖叶舒华",
+        "onboard_time": 1710852090,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247625,
+        "num": 247625,
+        "word": "天天洗头为什么头发还是很油",
+        "onboard_time": 1710848673,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 405780,
+        "num": 244490,
+        "word": "什么班还需要赵丽颖亲自来上",
+        "onboard_time": 1710853834,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237790,
+        "num": 237790,
+        "word": "LGD战胜WBG",
+        "onboard_time": 1710849456,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 231292,
+        "num": 231292,
+        "word": "刘学义演技",
+        "onboard_time": 1710850594,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199908,
+        "num": 199908,
+        "word": "台州一高校汽车撞人肇事司机已被控制",
+        "onboard_time": 1710847472,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217192,
+        "num": 199766,
+        "word": "花间令编剧",
+        "onboard_time": 1710852694,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367356,
+        "num": 199764,
+        "word": "拜托那可是赵丽颖",
+        "onboard_time": 1710852212,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199531,
+        "num": 199531,
+        "word": "2024LPL",
+        "onboard_time": 1710854676,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199127,
+        "num": 199127,
+        "word": "分手后最joker的行为",
+        "onboard_time": 1710844175,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184772,
+        "num": 194933,
+        "word": "国台办回应萧美琴窜访捷克",
+        "onboard_time": 1710852819,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193980,
+        "num": 193980,
+        "word": "刘宇宁直播",
+        "onboard_time": 1710852753,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193657,
+        "num": 193657,
+        "word": "潜水时被摘下面罩问拍不拍照",
+        "onboard_time": 1710854017,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 191030,
+        "num": 191030,
+        "word": "庆余年",
+        "onboard_time": 1710832773,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189457,
+        "num": 189457,
+        "word": "原来正宗螺狮粉是不臭的",
+        "onboard_time": 1710853535,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 177869,
+        "num": 177869,
+        "word": "你们和男朋友出去旅游AA吗",
+        "onboard_time": 1710851432,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172457,
+        "num": 172457,
+        "word": "淀粉肠",
+        "onboard_time": 1710847472,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168569,
+        "num": 168569,
+        "word": "周杰伦一审败诉网易",
+        "onboard_time": 1710834756,
+        "rank": 36,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 164045,
+        "num": 164045,
+        "word": "迪丽热巴ins已认证",
+        "onboard_time": 1710848194,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20788,
+        "num": 159160,
+        "word": "智己CEO直播解读如何横着走",
+        "onboard_time": 1710854497,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158103,
+        "num": 158103,
+        "word": "巨蟹座真正想要的安全感",
+        "onboard_time": 1710846034,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156950,
+        "num": 156950,
+        "word": "鞠婧祎郑合惠子二搭了",
+        "onboard_time": 1710845734,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155186,
+        "num": 155186,
+        "word": "物理防晒才是最牛的",
+        "onboard_time": 1710853658,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 162706,
+        "num": 154814,
+        "word": "迪丽热巴陈星旭怎么鬼鬼祟祟的",
+        "onboard_time": 1710850176,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154441,
+        "num": 154441,
+        "word": "除了医院谁还会这么算年龄",
+        "onboard_time": 1710837275,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149955,
+        "num": 149955,
+        "word": "顺手毁掉一个家原来这么简单",
+        "onboard_time": 1710847714,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149677,
+        "num": 149677,
+        "word": "无畏回应小作文作假",
+        "onboard_time": 1710850775,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141658,
+        "num": 149131,
+        "word": "台州",
+        "onboard_time": 1710848133,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133603,
+        "num": 148833,
+        "word": "王源情绪好稳定",
+        "onboard_time": 1710850415,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133326,
+        "num": 147921,
+        "word": "火锅店回应男孩拿公勺喝香油",
+        "onboard_time": 1710848493,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95112,
+        "num": 147515,
+        "word": "唯一一株400岁古旱莲盛放",
+        "onboard_time": 1710845672,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在湖南长沙考察调研#"
+    }
+  }
+}
