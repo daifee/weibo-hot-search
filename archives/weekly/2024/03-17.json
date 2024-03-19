@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710855306429,
+  "endTime": 1710857800003,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -297,6 +297,14 @@
       "onboard_time": 1710668249,
       "rank": 0,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1800578,
+      "num": 1800578,
+      "word": "英媒发布凯特王妃现身视频引网友质疑",
+      "onboard_time": 1710854436,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1789517,
@@ -795,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1095567,
+      "num": 1095567,
+      "word": "逐渐消失的网红小吃",
+      "onboard_time": 1710851494,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1088882,
       "num": 857503,
       "word": "王珞丹官宣是女儿是妈妈",
@@ -865,6 +881,14 @@
       "onboard_time": 1710614780,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1010788,
+      "num": 557058,
+      "word": "台州高校汽车撞行人事件致3死16伤",
+      "onboard_time": 1710856599,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1007200,
@@ -1211,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 818234,
+      "num": 818234,
+      "word": "林更新回复评论",
+      "onboard_time": 1710855457,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 817355,
       "num": 442052,
       "word": "微信情侣查岗模式",
@@ -1313,6 +1345,14 @@
       "onboard_time": 1710685244,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771727,
+      "num": 771727,
+      "word": "朱梓骁 纪凌尘是我的贵人",
+      "onboard_time": 1710850294,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 770372,
@@ -1803,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 609786,
+      "num": 609786,
+      "word": "什么班还需要赵丽颖亲自来上",
+      "onboard_time": 1710853834,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 608502,
       "num": 608502,
       "word": "粉红税",
@@ -1891,14 +1939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 577291,
-      "num": 491325,
-      "word": "逐渐消失的网红小吃",
-      "onboard_time": 1710851494,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 576945,
       "num": 576945,
       "word": "德普被曝片场霸凌女演员",
@@ -1945,14 +1985,6 @@
       "onboard_time": 1710685605,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 566550,
-      "num": 566550,
-      "word": "朱梓骁 纪凌尘是我的贵人",
-      "onboard_time": 1710850294,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 566504,
@@ -2169,14 +2201,6 @@
       "onboard_time": 1710747094,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 523065,
-      "num": 523065,
-      "word": "英媒发布凯特王妃现身视频引网友质疑",
-      "onboard_time": 1710854436,
-      "rank": 8,
-      "category": "国外时政"
     },
     {
       "raw_hot": 521075,
@@ -2867,14 +2891,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 405780,
-      "num": 266040,
-      "word": "什么班还需要赵丽颖亲自来上",
-      "onboard_time": 1710853834,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 405443,
       "num": 405443,
       "word": "小洋睡不着",
@@ -3132,7 +3148,7 @@
     },
     {
       "raw_hot": 367356,
-      "num": 199764,
+      "num": 257166,
       "word": "拜托那可是赵丽颖",
       "onboard_time": 1710852212,
       "rank": 27,
@@ -4091,6 +4107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262449,
+      "num": 262449,
+      "word": "原来正宗螺狮粉是不臭的",
+      "onboard_time": 1710853535,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 261442,
       "num": 261442,
       "word": "薛之谦空降洛阳站",
@@ -4249,6 +4273,14 @@
       "onboard_time": 1710745896,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 249364,
+      "num": 249364,
+      "word": "95后女孩考研失败后隐居荒岛",
+      "onboard_time": 1710856599,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248440,
@@ -4763,6 +4795,14 @@
       "category": "游戏,剧集"
     },
     {
+      "raw_hot": 219851,
+      "num": 219851,
+      "word": "心疼小荷",
+      "onboard_time": 1710856056,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219787,
       "num": 219787,
       "word": "XYG掉点",
@@ -4860,7 +4900,7 @@
     },
     {
       "raw_hot": 217192,
-      "num": 199766,
+      "num": 212129,
       "word": "花间令编剧",
       "onboard_time": 1710852694,
       "rank": 32,
@@ -5683,14 +5723,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 189457,
-      "num": 189457,
-      "word": "原来正宗螺狮粉是不臭的",
-      "onboard_time": 1710853535,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 189427,
       "num": 189427,
       "word": "甘肃武威万人携手为沙漠织毛衣",
@@ -5899,6 +5931,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 184007,
+      "num": 184007,
+      "word": "沈璃表白",
+      "onboard_time": 1710856175,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183507,
       "num": 183507,
       "word": "猫咪一次外向换来一辈子的内向",
@@ -6041,6 +6081,14 @@
       "onboard_time": 1710689322,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179149,
+      "num": 179149,
+      "word": "我失恋后感觉妈妈也要碎掉了",
+      "onboard_time": 1710855339,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 178986,
@@ -6771,6 +6819,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 156999,
+      "num": 156999,
+      "word": "物理防晒才是最牛的",
+      "onboard_time": 1710853658,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 156983,
       "num": 156983,
       "word": "赵丽颖脖子上的青筋",
@@ -6867,20 +6923,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155186,
-      "num": 155186,
-      "word": "物理防晒才是最牛的",
-      "onboard_time": 1710853658,
-      "rank": 42,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 155039,
       "num": 155039,
       "word": "周深献唱追风者主题曲",
       "onboard_time": 1710832172,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154993,
+      "num": 154993,
+      "word": "创造营亚洲",
+      "onboard_time": 1710856963,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 154902,
@@ -7177,6 +7233,14 @@
       "onboard_time": 1710757715,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145702,
+      "num": 145702,
+      "word": "地铁站最好听的名字",
+      "onboard_time": 1710856056,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 145561,
@@ -8027,6 +8091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112014,
+      "num": 133224,
+      "word": "突然就get到了运动的快乐",
+      "onboard_time": 1710857675,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111246,
       "num": 135335,
       "word": "王树国校长作揖告别西安交大学子",
@@ -8081,6 +8153,14 @@
       "onboard_time": 1710764013,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107388,
+      "num": 154994,
+      "word": "熊掌拨清波",
+      "onboard_time": 1710855698,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107127,
@@ -8508,7 +8588,7 @@
     },
     {
       "raw_hot": 62221,
-      "num": 1081682,
+      "num": 1230336,
       "word": "认识你真好",
       "onboard_time": 1710834813,
       "rank": 2,
