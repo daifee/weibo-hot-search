@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710844431593,
+  "endTime": 1710846922893,
   "band_list": [
     {
       "raw_hot": 8747332,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2521173,
-      "num": 2521173,
+      "raw_hot": 2703744,
+      "num": 2703744,
       "word": "当你早睡一次 你的器官",
       "onboard_time": 1710841955,
       "rank": 0,
@@ -73,6 +73,14 @@
       "onboard_time": 1710813874,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1523230,
+      "num": 1523230,
+      "word": "阚清子开大G",
+      "onboard_time": 1710845136,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1494614,
@@ -347,6 +355,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 814647,
+      "num": 353056,
+      "word": "未满14岁男孩性侵女童为何不追究刑责",
+      "onboard_time": 1710841536,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 799588,
       "num": 799588,
       "word": "OPPO 权顺荣",
@@ -451,14 +467,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 647622,
-      "num": 353056,
-      "word": "未满14岁男孩性侵女童为何不追究刑责",
-      "onboard_time": 1710841536,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 642636,
       "num": 642636,
       "word": "枭起青壤开机",
@@ -505,6 +513,14 @@
       "onboard_time": 1710771819,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 611756,
+      "num": 611756,
+      "word": "山东一学校惊现4层楼高视力表",
+      "onboard_time": 1710842554,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 609955,
@@ -579,6 +595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 555448,
+      "num": 390347,
+      "word": "陈哲远瘦了",
+      "onboard_time": 1710843936,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 549545,
       "num": 549545,
       "word": "迪丽热巴 枭起青壤",
@@ -609,6 +633,14 @@
       "onboard_time": 1710770855,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 524951,
+      "num": 524951,
+      "word": "何超仪首次谈遗产分配",
+      "onboard_time": 1710844654,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 514943,
@@ -673,6 +705,14 @@
       "onboard_time": 1710772168,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 458780,
+      "num": 390291,
+      "word": "分手后最joker的行为",
+      "onboard_time": 1710844175,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 456912,
@@ -811,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 390262,
+      "num": 390262,
+      "word": "小凤凰是赵丽颖自己配的音",
+      "onboard_time": 1710845495,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 386039,
       "num": 386039,
       "word": "大侦探100案评分排名",
@@ -851,12 +899,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 371552,
-      "num": 371552,
-      "word": "山东一学校惊现4层楼高视力表",
-      "onboard_time": 1710842554,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 369201,
+      "num": 369201,
+      "word": "鞠婧祎郑合惠子二搭了",
+      "onboard_time": 1710845734,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 365823,
@@ -1051,6 +1099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 307902,
+      "num": 307902,
+      "word": "雷军",
+      "onboard_time": 1710844654,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 306768,
       "num": 306768,
       "word": "光遇复刻",
@@ -1163,6 +1219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 274579,
+      "num": 274579,
+      "word": "牛仔裤外套屁帘到底谁在穿",
+      "onboard_time": 1710842375,
+      "rank": 34,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 273288,
       "num": 273288,
       "word": "李氏东宫",
@@ -1228,7 +1292,7 @@
     },
     {
       "raw_hot": 247097,
-      "num": 226019,
+      "num": 231195,
       "word": "妈妈嫌我做的菜恶心",
       "onboard_time": 1710843516,
       "rank": 30,
@@ -1315,14 +1379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232085,
-      "num": 232085,
-      "word": "牛仔裤外套屁帘到底谁在穿",
-      "onboard_time": 1710842375,
-      "rank": 34,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 232050,
       "num": 232050,
       "word": "初中生杀害同学手段残忍令人发指",
@@ -1361,14 +1417,6 @@
       "onboard_time": 1710835779,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 225657,
-      "num": 225657,
-      "word": "陈哲远瘦了",
-      "onboard_time": 1710843936,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 224478,
@@ -1651,6 +1699,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 191824,
+      "num": 191824,
+      "word": "身体缺啥看脸就知道",
+      "onboard_time": 1710843693,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 190682,
       "num": 190682,
       "word": "甘肃天水连早餐都是红油辣子",
@@ -1707,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188352,
+      "num": 188352,
+      "word": "朱一龙GQ",
+      "onboard_time": 1710846633,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 185029,
       "num": 185029,
       "word": "有哪些事生孩子前要知道",
@@ -1721,6 +1785,14 @@
       "onboard_time": 1710841295,
       "rank": 36,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 182709,
+      "num": 182709,
+      "word": "请回答1988善宇近照",
+      "onboard_time": 1710846513,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 182174,
@@ -1739,14 +1811,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 179972,
-      "num": 179972,
-      "word": "分手后最joker的行为",
-      "onboard_time": 1710844175,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 179925,
       "num": 179925,
       "word": "马龙林高远世界第五",
@@ -1760,6 +1824,14 @@
       "word": "年轻人租房时有多卑微",
       "onboard_time": 1710829113,
       "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 178947,
+      "num": 178947,
+      "word": "巨蟹座真正想要的安全感",
+      "onboard_time": 1710846034,
+      "rank": 37,
       "category": "情感"
     },
     {
@@ -1811,6 +1883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174359,
+      "num": 176797,
+      "word": "选择性缄默症",
+      "onboard_time": 1710845616,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174263,
       "num": 174263,
       "word": "潘杨之好的氛围感",
@@ -1825,14 +1905,6 @@
       "onboard_time": 1710829412,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 173472,
-      "num": 173472,
-      "word": "身体缺啥看脸就知道",
-      "onboard_time": 1710843693,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 172862,
@@ -2051,6 +2123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151893,
+      "num": 192161,
+      "word": "日本告别负利率时代",
+      "onboard_time": 1710845377,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 151489,
       "num": 151489,
       "word": "夏之光彩票代刮",
@@ -2155,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139363,
+      "num": 390517,
+      "word": "甘肃文旅喊麦宣传天水麻辣烫",
+      "onboard_time": 1710844114,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 137902,
       "num": 137902,
       "word": "鸡胸肉自制淀粉肠",
@@ -2220,7 +2308,7 @@
     },
     {
       "raw_hot": 132779,
-      "num": 364130,
+      "num": 390650,
       "word": "接下来杭州是这样的",
       "onboard_time": 1710841832,
       "rank": 9,
@@ -2315,6 +2403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118489,
+      "num": 191833,
+      "word": "唯一一株400岁古旱莲盛放",
+      "onboard_time": 1710845672,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117083,
       "num": 117083,
       "word": "当代人APP使用现状",
@@ -2329,6 +2425,22 @@
       "onboard_time": 1710734672,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111246,
+      "num": 135335,
+      "word": "王树国校长作揖告别西安交大学子",
+      "onboard_time": 1710846393,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 105918,
+      "num": 135056,
+      "word": "陈梦说看见大海真高兴",
+      "onboard_time": 1710846755,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 105262,
@@ -2484,7 +2596,7 @@
     },
     {
       "raw_hot": 74992,
-      "num": 822160,
+      "num": 975074,
       "word": "钢铁丝路好风光",
       "onboard_time": 1710834937,
       "rank": 2,
@@ -2547,14 +2659,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 41992,
-      "num": 370152,
-      "word": "甘肃文旅喊麦宣传天水麻辣烫",
-      "onboard_time": 1710844114,
-      "rank": 8,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 35023,
       "num": 35023,
       "word": "PRX赢了",
@@ -2612,7 +2716,7 @@
     },
     {
       "raw_hot": 23142,
-      "num": 238881,
+      "num": 291907,
       "word": "周杰伦街头三手连弹",
       "onboard_time": 1710843816,
       "rank": 24,
