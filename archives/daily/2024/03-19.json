@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710830040211,
+  "endTime": 1710832636934,
   "band_list": [
     {
       "raw_hot": 8747332,
@@ -51,6 +51,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1494614,
+      "num": 1494614,
+      "word": "洛杉矶偶遇贾玲",
+      "onboard_time": 1710828693,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1481829,
       "num": 1481829,
       "word": "韩安冉入住杭州2000万大平层",
@@ -73,14 +81,6 @@
       "onboard_time": 1710775175,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1293871,
-      "num": 1293871,
-      "word": "洛杉矶偶遇贾玲",
-      "onboard_time": 1710828693,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 1281261,
@@ -315,6 +315,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 671146,
+      "num": 242174,
+      "word": "陶昕然妈妈承认自己打孩子是虚荣",
+      "onboard_time": 1710831333,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 670910,
       "num": 670910,
       "word": "反向消费有多爽",
@@ -329,6 +337,14 @@
       "onboard_time": 1710767192,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 647032,
+      "num": 647032,
+      "word": "男孩8年未见母亲被告知被遗忘",
+      "onboard_time": 1710829535,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 642636,
@@ -353,6 +369,14 @@
       "onboard_time": 1710809256,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 627677,
+      "num": 247370,
+      "word": "身上长红痣是肝癌痣吗",
+      "onboard_time": 1710829535,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 620227,
@@ -627,6 +651,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382219,
+      "num": 339830,
+      "word": "沈阳一轿车冲入人行道致3死2伤",
+      "onboard_time": 1710829053,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382006,
+      "num": 334958,
+      "word": "蔡元培莫言 北大",
+      "onboard_time": 1710831090,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 371541,
+      "num": 235106,
+      "word": "下一个会消失的电子产品",
+      "onboard_time": 1710829355,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 365823,
       "num": 287708,
       "word": "赵丽颖的左右脸",
@@ -859,14 +907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 272455,
-      "num": 272455,
-      "word": "沈阳一轿车冲入人行道致3死2伤",
-      "onboard_time": 1710829053,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272289,
       "num": 272289,
       "word": "英伟达发布最强AI加速卡",
@@ -881,6 +921,14 @@
       "onboard_time": 1710823236,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 266419,
+      "num": 266419,
+      "word": "王一博绿色套装",
+      "onboard_time": 1710830855,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 264310,
@@ -905,14 +953,6 @@
       "onboard_time": 1710821437,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 247370,
-      "num": 247370,
-      "word": "身上长红痣是肝癌痣吗",
-      "onboard_time": 1710829535,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 246130,
@@ -1011,6 +1051,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 223670,
+      "num": 223670,
+      "word": "王海曝槽头扣肉进价3.88元1碗",
+      "onboard_time": 1710830492,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 222821,
       "num": 222821,
       "word": "WTT官员确认中国大满贯",
@@ -1025,6 +1073,14 @@
       "onboard_time": 1710807393,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219560,
+      "num": 219560,
+      "word": "给J人一点P人的小小震撼",
+      "onboard_time": 1710829053,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 219489,
@@ -1059,14 +1115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210950,
-      "num": 210950,
-      "word": "给J人一点P人的小小震撼",
-      "onboard_time": 1710829053,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 210454,
       "num": 210454,
       "word": "gidle重返音放打歌",
@@ -1081,14 +1129,6 @@
       "onboard_time": 1710824138,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205792,
-      "num": 205792,
-      "word": "下一个会消失的电子产品",
-      "onboard_time": 1710829355,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 205322,
@@ -1145,6 +1185,14 @@
       "onboard_time": 1710820654,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 197600,
+      "num": 197600,
+      "word": "花间令大婚路透",
+      "onboard_time": 1710831934,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 195497,
@@ -1211,12 +1259,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 180158,
+      "num": 180158,
+      "word": "这届年轻人怎么越来越省了",
+      "onboard_time": 1710831811,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179925,
       "num": 179925,
       "word": "马龙林高远世界第五",
       "onboard_time": 1710810758,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179645,
+      "num": 179645,
+      "word": "年轻人租房时有多卑微",
+      "onboard_time": 1710829113,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 177140,
@@ -1300,7 +1364,7 @@
     },
     {
       "raw_hot": 166109,
-      "num": 166109,
+      "num": 199200,
       "word": "南部战区空军训练高清大图",
       "onboard_time": 1710829053,
       "rank": 38,
@@ -1347,12 +1411,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 156164,
+      "num": 156164,
+      "word": "导演客串与凤行",
+      "onboard_time": 1710831630,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155830,
       "num": 155830,
       "word": "AG全员包揽最佳阵容",
       "onboard_time": 1710823177,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155039,
+      "num": 155039,
+      "word": "周深献唱追风者主题曲",
+      "onboard_time": 1710832172,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154057,
+      "num": 154057,
+      "word": "长期戴假睫毛的7大健康风险",
+      "onboard_time": 1710832409,
+      "rank": 40,
+      "category": "健康医疗,美妆"
     },
     {
       "raw_hot": 152729,
@@ -1385,6 +1473,14 @@
       "onboard_time": 1710818855,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151383,
+      "num": 151383,
+      "word": "专家称T加0让散户船小好掉头",
+      "onboard_time": 1710832052,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 149532,
@@ -1425,14 +1521,6 @@
       "onboard_time": 1710743196,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145110,
-      "num": 165374,
-      "word": "男孩8年未见母亲被告知被遗忘",
-      "onboard_time": 1710829535,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140823,
@@ -1491,6 +1579,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 135522,
+      "num": 135522,
+      "word": "枭起青壤路透",
+      "onboard_time": 1710831393,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134991,
       "num": 134991,
       "word": "王珞丹一家四口颜值",
@@ -1505,6 +1601,14 @@
       "onboard_time": 1710826414,
       "rank": 49,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 131137,
+      "num": 131137,
+      "word": "瑞幸咖啡回应线下点单存价差",
+      "onboard_time": 1710830193,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 130627,
@@ -1523,6 +1627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 128650,
+      "num": 128650,
+      "word": "花间令cp粉",
+      "onboard_time": 1710832533,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128216,
       "num": 128216,
       "word": "萤火虫漫展",
@@ -1537,6 +1649,30 @@
       "onboard_time": 1710815790,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125462,
+      "num": 125462,
+      "word": "今年春天属于麻辣烫",
+      "onboard_time": 1710830971,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 124097,
+      "num": 124097,
+      "word": "男孩学校遭霸凌父母讨说法被踢出群",
+      "onboard_time": 1710832592,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123264,
+      "num": 123264,
+      "word": "与凤行追剧日历",
+      "onboard_time": 1710831090,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 121415,
@@ -1817,6 +1953,14 @@
       "onboard_time": 1710788716,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 18019,
+      "num": 322441,
+      "word": "淘宝红人之夜倒计时1天",
+      "onboard_time": 1710831630,
+      "rank": 14,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [
