@@ -1,6 +1,6 @@
 {
   "startTime": 1710865343685,
-  "endTime": 1710879520121,
+  "endTime": 1710880473127,
   "band_list": [
     {
       "raw_hot": 1051566,
@@ -499,7 +499,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29648,
+      "raw_hot": 30082,
       "num": 22241,
       "word": "家有儿女中的刘梅是合格的妈妈吗",
       "onboard_time": 1710876617,
@@ -539,7 +539,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15247,
+      "raw_hot": 16283,
       "num": 17351,
       "word": "越来越能理解什么叫人活的是几个瞬间",
       "onboard_time": 1710877516,
@@ -553,6 +553,14 @@
       "onboard_time": 1710858519,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14042,
+      "num": 16156,
+      "word": "重生之我在古装短剧里当丫鬟",
+      "onboard_time": 1710879617,
+      "rank": 43,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
