@@ -1,0 +1,410 @@
+{
+  "runTime": 1710811874627,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2436296,
+        "num": 2436296,
+        "word": "凯特王妃疑术后首次露面",
+        "onboard_time": 1710808597,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1117897,
+        "num": 1117897,
+        "word": "李惠利吴世勋裴秀智毕业合照",
+        "onboard_time": 1710807754,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77581,
+        "num": 990372,
+        "word": "这是一堂生动的思政课",
+        "onboard_time": 1710767192,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 967463,
+        "num": 967463,
+        "word": "世界排名王楚钦三项第一",
+        "onboard_time": 1710809378,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 915722,
+        "num": 915722,
+        "word": "睡醒之后一定要改掉这4个坏习惯",
+        "onboard_time": 1710803004,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 882813,
+        "num": 882813,
+        "word": "郑俊英出狱",
+        "onboard_time": 1710809619,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 845748,
+        "num": 845748,
+        "word": "苹果称128GB的iPhone也有充裕空间",
+        "onboard_time": 1710807938,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 699929,
+        "num": 699929,
+        "word": "蜜雪冰城回应涨价1元尚未全国推广",
+        "onboard_time": 1710804688,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 666626,
+        "num": 666626,
+        "word": "凯特",
+        "onboard_time": 1710805652,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 594557,
+        "num": 594557,
+        "word": "她和智障哥哥唯一合照是陌生人拍的",
+        "onboard_time": 1710803004,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6552090,
+        "num": 583951,
+        "word": "邯郸初中生被害案嫌犯为有预谋作案",
+        "onboard_time": 1710807393,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659667,
+        "num": 580175,
+        "word": "教育局通报学生捅伤老师跳楼事件",
+        "onboard_time": 1710810574,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568050,
+        "num": 568050,
+        "word": "聂可以自曝在女团被集体霸凌",
+        "onboard_time": 1710809256,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546031,
+        "num": 546031,
+        "word": "路边卖淀粉肠阿姨主动出示声明书",
+        "onboard_time": 1710786917,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489645,
+        "num": 489645,
+        "word": "毕竟是九亿少女的梦",
+        "onboard_time": 1710771217,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 481195,
+        "num": 481195,
+        "word": "梅西退出阿根廷队美国热身赛",
+        "onboard_time": 1710809137,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443732,
+        "num": 443732,
+        "word": "女孩拼2年考研上岸一学期后退学",
+        "onboard_time": 1710778768,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395986,
+        "num": 395986,
+        "word": "警方回应网传一中学生捅伤老师后跳楼",
+        "onboard_time": 1710805349,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346332,
+        "num": 346332,
+        "word": "林狗还是帅的",
+        "onboard_time": 1710767192,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345904,
+        "num": 345904,
+        "word": "饲养员用铁锨驱打大熊猫已被辞退",
+        "onboard_time": 1710805711,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400372,
+        "num": 345296,
+        "word": "为什么朋友圈会设置三天可见",
+        "onboard_time": 1710809860,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341594,
+        "num": 341594,
+        "word": "兔狲狲大娘因病死亡",
+        "onboard_time": 1710807092,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331168,
+        "num": 331168,
+        "word": "与凤行弹幕比凤凰更碎嘴",
+        "onboard_time": 1710805471,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320493,
+        "num": 320493,
+        "word": "HYBE将推出水溶性小卡",
+        "onboard_time": 1710811174,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290834,
+        "num": 290834,
+        "word": "王海称小杨哥和东方甄选或明知槽头扣肉",
+        "onboard_time": 1710810994,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 279095,
+        "num": 279095,
+        "word": "千万不要领考场门口的手表",
+        "onboard_time": 1710776432,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267969,
+        "num": 267969,
+        "word": "刘学义上桌了",
+        "onboard_time": 1710776552,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262980,
+        "num": 262980,
+        "word": "特斯拉市值一夜涨超2364亿",
+        "onboard_time": 1710804266,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 228097,
+        "num": 228097,
+        "word": "迪丽热巴 枭起青壤",
+        "onboard_time": 1710774815,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226565,
+        "num": 226565,
+        "word": "高度近视的人需要注意这四件事",
+        "onboard_time": 1710788357,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 348587,
+        "num": 225125,
+        "word": "吸血鬼为什么都是有钱人",
+        "onboard_time": 1710810277,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222154,
+        "num": 222154,
+        "word": "秦岭大熊猫研究中心道歉",
+        "onboard_time": 1710807393,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222051,
+        "num": 222051,
+        "word": "WTT官员确认中国大满贯",
+        "onboard_time": 1710805289,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221024,
+        "num": 221024,
+        "word": "小桃又演小桃",
+        "onboard_time": 1710767558,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220584,
+        "num": 220584,
+        "word": "七年后宇文玥被薅头发捞上岸",
+        "onboard_time": 1710805169,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208457,
+        "num": 208457,
+        "word": "卫健委回应19岁少年疑卖血后猝死",
+        "onboard_time": 1710805652,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203996,
+        "num": 203996,
+        "word": "与凤行首日战报",
+        "onboard_time": 1710811473,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195381,
+        "num": 195381,
+        "word": "山东多名男生往一男生嘴里塞垃圾",
+        "onboard_time": 1710811593,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194440,
+        "num": 194440,
+        "word": "凯特多位朋友发声",
+        "onboard_time": 1710764734,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 192239,
+        "num": 192239,
+        "word": "与凤行",
+        "onboard_time": 1710720272,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190362,
+        "num": 190362,
+        "word": "马斯克回应服用K粉",
+        "onboard_time": 1710808776,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 187937,
+        "num": 187937,
+        "word": "辅导员告诉我导师突然去世了",
+        "onboard_time": 1710771996,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179925,
+        "num": 179925,
+        "word": "马龙林高远世界第五",
+        "onboard_time": 1710810758,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176246,
+        "num": 176246,
+        "word": "杨幂戴了好多手串",
+        "onboard_time": 1710770079,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169923,
+        "num": 169923,
+        "word": "渐渐的体会到了有车的快乐",
+        "onboard_time": 1710810456,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167676,
+        "num": 167676,
+        "word": "苹果4月或推出新款iPad",
+        "onboard_time": 1710810217,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167348,
+        "num": 167348,
+        "word": "早上六点起床跟八点起床的区别",
+        "onboard_time": 1710761014,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158386,
+        "num": 158386,
+        "word": "文化人骂人就是不一样",
+        "onboard_time": 1710809980,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147019,
+        "num": 147019,
+        "word": "睡眠真的超级重要",
+        "onboard_time": 1710811772,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142442,
+        "num": 142442,
+        "word": "比酒精还厉害的肝脏刺客",
+        "onboard_time": 1710767192,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#立德树人#"
+    }
+  }
+}

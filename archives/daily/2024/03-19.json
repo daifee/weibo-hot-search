@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710810719426,
+  "endTime": 1710811874627,
   "band_list": [
     {
       "raw_hot": 8747332,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 967463,
+      "num": 967463,
+      "word": "世界排名王楚钦三项第一",
+      "onboard_time": 1710809378,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 953389,
       "num": 953389,
       "word": "路边卖淀粉肠阿姨主动出示声明书",
@@ -75,12 +83,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 882813,
+      "num": 882813,
+      "word": "郑俊英出狱",
+      "onboard_time": 1710809619,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 869004,
       "num": 869004,
       "word": "蜜雪冰城回应涨价1元尚未全国推广",
       "onboard_time": 1710804688,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 845748,
+      "num": 845748,
+      "word": "苹果称128GB的iPhone也有充裕空间",
+      "onboard_time": 1710807938,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 828364,
@@ -115,20 +139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 683814,
-      "num": 683814,
-      "word": "郑俊英出狱",
-      "onboard_time": 1710809619,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 681669,
-      "num": 681669,
-      "word": "苹果称128GB的iPhone也有充裕空间",
-      "onboard_time": 1710807938,
-      "rank": 10,
-      "category": "数码"
+      "raw_hot": 659667,
+      "num": 580175,
+      "word": "教育局通报学生捅伤老师跳楼事件",
+      "onboard_time": 1710810574,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 658904,
@@ -137,14 +153,6 @@
       "onboard_time": 1710767192,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 656042,
-      "num": 656042,
-      "word": "世界排名王楚钦三项第一",
-      "onboard_time": 1710809378,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 617641,
@@ -171,20 +179,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 568050,
+      "num": 568050,
+      "word": "聂可以自曝在女团被集体霸凌",
+      "onboard_time": 1710809256,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 535015,
       "num": 535015,
       "word": "赵丽颖 扛剧",
       "onboard_time": 1710770855,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 505100,
-      "num": 505100,
-      "word": "聂可以自曝在女团被集体霸凌",
-      "onboard_time": 1710809256,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 502077,
@@ -209,6 +217,14 @@
       "onboard_time": 1710774815,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 481195,
+      "num": 481195,
+      "word": "梅西退出阿根廷队美国热身赛",
+      "onboard_time": 1710809137,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 473472,
@@ -259,12 +275,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 398617,
-      "num": 398617,
-      "word": "梅西退出阿根廷队美国热身赛",
-      "onboard_time": 1710809137,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 400372,
+      "num": 345296,
+      "word": "为什么朋友圈会设置三天可见",
+      "onboard_time": 1710809860,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 398427,
@@ -281,6 +297,14 @@
       "onboard_time": 1710767915,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 348587,
+      "num": 235883,
+      "word": "吸血鬼为什么都是有钱人",
+      "onboard_time": 1710810277,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 347213,
@@ -315,14 +339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 323042,
-      "num": 323042,
-      "word": "为什么朋友圈会设置三天可见",
-      "onboard_time": 1710809860,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 323012,
       "num": 281470,
       "word": "与凤行",
@@ -337,6 +353,14 @@
       "onboard_time": 1710805652,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320493,
+      "num": 320493,
+      "word": "HYBE将推出水溶性小卡",
+      "onboard_time": 1710811174,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 320320,
@@ -363,12 +387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 295630,
-      "num": 235883,
-      "word": "吸血鬼为什么都是有钱人",
-      "onboard_time": 1710810277,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 290834,
+      "num": 290834,
+      "word": "王海称小杨哥和东方甄选或明知槽头扣肉",
+      "onboard_time": 1710810994,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 288777,
@@ -459,12 +483,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220221,
-      "num": 220221,
+      "raw_hot": 222154,
+      "num": 222154,
       "word": "秦岭大熊猫研究中心道歉",
       "onboard_time": 1710807393,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203996,
+      "num": 203996,
+      "word": "与凤行首日战报",
+      "onboard_time": 1710811473,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 202321,
@@ -472,6 +504,14 @@
       "word": "4医生3小时帮男子取出200多颗脂肪瘤",
       "onboard_time": 1710774396,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195381,
+      "num": 195381,
+      "word": "山东多名男生往一男生嘴里塞垃圾",
+      "onboard_time": 1710811593,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -483,16 +523,24 @@
       "category": "美食"
     },
     {
-      "raw_hot": 173955,
-      "num": 173955,
-      "word": "教育局通报学生捅伤老师跳楼事件",
-      "onboard_time": 1710810574,
+      "raw_hot": 179925,
+      "num": 179925,
+      "word": "马龙林高远世界第五",
+      "onboard_time": 1710810758,
       "rank": 42,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
-      "raw_hot": 167196,
-      "num": 167196,
+      "raw_hot": 169923,
+      "num": 169923,
+      "word": "渐渐的体会到了有车的快乐",
+      "onboard_time": 1710810456,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 167676,
+      "num": 167676,
       "word": "苹果4月或推出新款iPad",
       "onboard_time": 1710810217,
       "rank": 43,
@@ -515,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158386,
+      "num": 158386,
+      "word": "文化人骂人就是不一样",
+      "onboard_time": 1710809980,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152729,
       "num": 152729,
       "word": "李菲儿迟到",
@@ -531,22 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150172,
-      "num": 150172,
-      "word": "文化人骂人就是不一样",
-      "onboard_time": 1710809980,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 149614,
-      "num": 149614,
-      "word": "渐渐的体会到了有车的快乐",
-      "onboard_time": 1710810456,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 148407,
       "num": 148407,
       "word": "谁给林更新画的眼影",
@@ -561,6 +601,14 @@
       "onboard_time": 1710808235,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147019,
+      "num": 147019,
+      "word": "睡眠真的超级重要",
+      "onboard_time": 1710811772,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146512,
