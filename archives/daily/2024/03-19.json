@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710843498942,
+  "endTime": 1710844431593,
   "band_list": [
     {
       "raw_hot": 8747332,
@@ -17,6 +17,14 @@
       "onboard_time": 1710833973,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2521173,
+      "num": 2521173,
+      "word": "当你早睡一次 你的器官",
+      "onboard_time": 1710841955,
+      "rank": 0,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2500936,
@@ -49,14 +57,6 @@
       "onboard_time": 1710833312,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1621894,
-      "num": 1621894,
-      "word": "当你早睡一次 你的器官",
-      "onboard_time": 1710841955,
-      "rank": 0,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1559353,
@@ -451,6 +451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 647622,
+      "num": 353056,
+      "word": "未满14岁男孩性侵女童为何不追究刑责",
+      "onboard_time": 1710841536,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 642636,
       "num": 642636,
       "word": "枭起青壤开机",
@@ -579,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 537883,
+      "num": 352302,
+      "word": "赵丽颖回复李浩菲",
+      "onboard_time": 1710842494,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 536863,
       "num": 318756,
       "word": "洗头后最忌讳搓头发",
@@ -627,28 +643,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 492802,
-      "num": 352302,
-      "word": "赵丽颖回复李浩菲",
-      "onboard_time": 1710842494,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 485146,
       "num": 485146,
       "word": "HYBE将推出水溶性小卡",
       "onboard_time": 1710811174,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483891,
-      "num": 345278,
-      "word": "未满14岁男孩性侵女童为何不追究刑责",
-      "onboard_time": 1710841536,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 481195,
@@ -851,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 371552,
+      "num": 371552,
+      "word": "山东一学校惊现4层楼高视力表",
+      "onboard_time": 1710842554,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365823,
       "num": 287708,
       "word": "赵丽颖的左右脸",
@@ -913,6 +921,14 @@
       "onboard_time": 1710816271,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 337911,
+      "num": 337911,
+      "word": "小米2023年营收2709.7亿",
+      "onboard_time": 1710842192,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 331236,
@@ -993,14 +1009,6 @@
       "onboard_time": 1710837579,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 318686,
-      "num": 318686,
-      "word": "小米2023年营收2709.7亿",
-      "onboard_time": 1710842192,
-      "rank": 15,
-      "category": "互联网"
     },
     {
       "raw_hot": 317836,
@@ -1155,6 +1163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 273288,
+      "num": 273288,
+      "word": "李氏东宫",
+      "onboard_time": 1710842916,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272289,
       "num": 272289,
       "word": "英伟达发布最强AI加速卡",
@@ -1209,6 +1225,14 @@
       "onboard_time": 1710837815,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247097,
+      "num": 226019,
+      "word": "妈妈嫌我做的菜恶心",
+      "onboard_time": 1710843516,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 246130,
@@ -1275,12 +1299,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 236875,
+      "num": 236875,
+      "word": "我好像没有和男生当普通朋友的能力",
+      "onboard_time": 1710841354,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236610,
       "num": 236610,
       "word": "林更新九亿少女的梦是这么来的",
       "onboard_time": 1710825937,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232085,
+      "num": 232085,
+      "word": "牛仔裤外套屁帘到底谁在穿",
+      "onboard_time": 1710842375,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 232050,
@@ -1323,6 +1363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 225657,
+      "num": 225657,
+      "word": "陈哲远瘦了",
+      "onboard_time": 1710843936,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224478,
       "num": 224478,
       "word": "马斯克回应服用K粉",
@@ -1363,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222808,
+      "num": 222808,
+      "word": "学校的饮水器时薪63元",
+      "onboard_time": 1710843455,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222154,
       "num": 222154,
       "word": "秦岭大熊猫研究中心道歉",
@@ -1376,14 +1432,6 @@
       "word": "与凤行云合",
       "onboard_time": 1710836793,
       "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 220987,
-      "num": 220987,
-      "word": "李氏东宫",
-      "onboard_time": 1710842916,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -1441,14 +1489,6 @@
       "onboard_time": 1710813031,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210719,
-      "num": 210719,
-      "word": "我好像没有和男生当普通朋友的能力",
-      "onboard_time": 1710841354,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 210454,
@@ -1548,7 +1588,7 @@
     },
     {
       "raw_hot": 200245,
-      "num": 200245,
+      "num": 227705,
       "word": "萨巴伦卡男友去世",
       "onboard_time": 1710841779,
       "rank": 28,
@@ -1675,6 +1715,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 184550,
+      "num": 184550,
+      "word": "Tods集团去年净利翻番",
+      "onboard_time": 1710841295,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 182174,
       "num": 182174,
       "word": "Fate逆袭",
@@ -1689,6 +1737,14 @@
       "onboard_time": 1710826232,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 179972,
+      "num": 179972,
+      "word": "分手后最joker的行为",
+      "onboard_time": 1710844175,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 179925,
@@ -1771,12 +1827,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 173585,
-      "num": 173585,
-      "word": "牛仔裤外套屁帘到底谁在穿",
-      "onboard_time": 1710842375,
-      "rank": 34,
-      "category": "时尚"
+      "raw_hot": 173472,
+      "num": 173472,
+      "word": "身体缺啥看脸就知道",
+      "onboard_time": 1710843693,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 172862,
@@ -1875,14 +1931,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 164865,
-      "num": 164865,
-      "word": "Tods集团去年净利翻番",
-      "onboard_time": 1710841295,
-      "rank": 36,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 164652,
       "num": 164652,
       "word": "夏以昼合集",
@@ -1907,14 +1955,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 160386,
-      "num": 160386,
-      "word": "学校的饮水器时薪63元",
-      "onboard_time": 1710843455,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 159629,
       "num": 159629,
       "word": "与凤行同款",
@@ -1936,6 +1976,14 @@
       "word": "文化人骂人就是不一样",
       "onboard_time": 1710809980,
       "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 158350,
+      "num": 158350,
+      "word": "陌生大学生想和奶奶合租",
+      "onboard_time": 1710843995,
+      "rank": 42,
       "category": "幽默"
     },
     {
@@ -2009,6 +2057,14 @@
       "onboard_time": 1710818855,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151447,
+      "num": 190133,
+      "word": "95后女生靠气球年营收上百万",
+      "onboard_time": 1710841832,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150872,
@@ -2115,20 +2171,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137713,
-      "num": 137713,
-      "word": "95后女生靠气球年营收上百万",
-      "onboard_time": 1710841832,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137279,
       "num": 1484886,
       "word": "春花遇上中式建筑意境拉满",
       "onboard_time": 1710812372,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136791,
+      "num": 136791,
+      "word": "小米2023年净利润193亿",
+      "onboard_time": 1710843635,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 136577,
@@ -2161,6 +2217,14 @@
       "onboard_time": 1710792435,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132779,
+      "num": 364130,
+      "word": "接下来杭州是这样的",
+      "onboard_time": 1710841832,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 131742,
@@ -2291,28 +2355,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 100335,
-      "num": 364130,
-      "word": "接下来杭州是这样的",
-      "onboard_time": 1710841832,
-      "rank": 9,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 99462,
       "num": 99462,
       "word": "胡锡进称A股越来越像牛市",
       "onboard_time": 1710801678,
       "rank": 34,
       "category": "财经"
-    },
-    {
-      "raw_hot": 98806,
-      "num": 366629,
-      "word": "山东一学校惊现4层楼高视力表",
-      "onboard_time": 1710842554,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97839,
@@ -2499,6 +2547,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 41992,
+      "num": 370152,
+      "word": "甘肃文旅喊麦宣传天水麻辣烫",
+      "onboard_time": 1710844114,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 35023,
       "num": 35023,
       "word": "PRX赢了",
@@ -2553,6 +2609,14 @@
       "onboard_time": 1710831630,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 23142,
+      "num": 238881,
+      "word": "周杰伦街头三手连弹",
+      "onboard_time": 1710843816,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 20835,

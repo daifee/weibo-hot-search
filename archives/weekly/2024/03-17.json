@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710843498942,
+  "endTime": 1710844431593,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -129,6 +129,14 @@
       "onboard_time": 1710649412,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2521173,
+      "num": 2521173,
+      "word": "当你早睡一次 你的器官",
+      "onboard_time": 1710841955,
+      "rank": 0,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2500936,
@@ -337,14 +345,6 @@
       "onboard_time": 1710731914,
       "rank": 46,
       "category": "音乐,艺人"
-    },
-    {
-      "raw_hot": 1621894,
-      "num": 1621894,
-      "word": "当你早睡一次 你的器官",
-      "onboard_time": 1710841955,
-      "rank": 0,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1611314,
@@ -1579,6 +1579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 647622,
+      "num": 353056,
+      "word": "未满14岁男孩性侵女童为何不追究刑责",
+      "onboard_time": 1710841536,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 647318,
       "num": 647318,
       "word": "英国王室上演消失的她",
@@ -1979,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537883,
+      "num": 352302,
+      "word": "赵丽颖回复李浩菲",
+      "onboard_time": 1710842494,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 536863,
       "num": 318756,
       "word": "洗头后最忌讳搓头发",
@@ -2123,14 +2139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 492802,
-      "num": 352302,
-      "word": "赵丽颖回复李浩菲",
-      "onboard_time": 1710842494,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 492723,
       "num": 492723,
       "word": "辛芷蕾连穿8套顶级高定",
@@ -2161,14 +2169,6 @@
       "onboard_time": 1710811174,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483891,
-      "num": 345278,
-      "word": "未满14岁男孩性侵女童为何不追究刑责",
-      "onboard_time": 1710841536,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 481195,
@@ -2907,6 +2907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 371552,
+      "num": 371552,
+      "word": "山东一学校惊现4层楼高视力表",
+      "onboard_time": 1710842554,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 371209,
       "num": 268694,
       "word": "父母退休金成了相亲门槛",
@@ -3083,6 +3091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 337911,
+      "num": 337911,
+      "word": "小米2023年营收2709.7亿",
+      "onboard_time": 1710842192,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 337293,
       "num": 337293,
       "word": "贾静雯带三个女儿现身机场",
@@ -3209,14 +3225,6 @@
       "onboard_time": 1710837579,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 318686,
-      "num": 318686,
-      "word": "小米2023年营收2709.7亿",
-      "onboard_time": 1710842192,
-      "rank": 15,
-      "category": "互联网"
     },
     {
       "raw_hot": 318234,
@@ -3707,6 +3715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273288,
+      "num": 273288,
+      "word": "李氏东宫",
+      "onboard_time": 1710842916,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272289,
       "num": 272289,
       "word": "英伟达发布最强AI加速卡",
@@ -4011,6 +4027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247097,
+      "num": 226019,
+      "word": "妈妈嫌我做的菜恶心",
+      "onboard_time": 1710843516,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 246238,
       "num": 246238,
       "word": "绝区零",
@@ -4131,6 +4155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236875,
+      "num": 236875,
+      "word": "我好像没有和男生当普通朋友的能力",
+      "onboard_time": 1710841354,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236610,
       "num": 236610,
       "word": "林更新九亿少女的梦是这么来的",
@@ -4169,6 +4201,14 @@
       "onboard_time": 1710685002,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232085,
+      "num": 232085,
+      "word": "牛仔裤外套屁帘到底谁在穿",
+      "onboard_time": 1710842375,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 232050,
@@ -4275,6 +4315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 225657,
+      "num": 225657,
+      "word": "陈哲远瘦了",
+      "onboard_time": 1710843936,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225328,
       "num": 225328,
       "word": "鞠婧祎谈她的17岁",
@@ -4371,6 +4419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222808,
+      "num": 222808,
+      "word": "学校的饮水器时薪63元",
+      "onboard_time": 1710843455,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222536,
       "num": 222536,
       "word": "过日子什么时候成了形容词",
@@ -4417,14 +4473,6 @@
       "onboard_time": 1710724355,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 220987,
-      "num": 220987,
-      "word": "李氏东宫",
-      "onboard_time": 1710842916,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 219916,
@@ -4657,14 +4705,6 @@
       "onboard_time": 1710744455,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210719,
-      "num": 210719,
-      "word": "我好像没有和男生当普通朋友的能力",
-      "onboard_time": 1710841354,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 210454,
@@ -4940,7 +4980,7 @@
     },
     {
       "raw_hot": 200245,
-      "num": 200245,
+      "num": 227705,
       "word": "萨巴伦卡男友去世",
       "onboard_time": 1710841779,
       "rank": 28,
@@ -5475,6 +5515,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 184550,
+      "num": 184550,
+      "word": "Tods集团去年净利翻番",
+      "onboard_time": 1710841295,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 183507,
       "num": 183507,
       "word": "猫咪一次外向换来一辈子的内向",
@@ -5568,6 +5616,14 @@
       "word": "无意间看到爸爸说我自私",
       "onboard_time": 1710600817,
       "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 179972,
+      "num": 179972,
+      "word": "分手后最joker的行为",
+      "onboard_time": 1710844175,
+      "rank": 38,
       "category": "情感"
     },
     {
@@ -5779,12 +5835,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 173585,
-      "num": 173585,
-      "word": "牛仔裤外套屁帘到底谁在穿",
-      "onboard_time": 1710842375,
-      "rank": 34,
-      "category": "时尚"
+      "raw_hot": 173472,
+      "num": 173472,
+      "word": "身体缺啥看脸就知道",
+      "onboard_time": 1710843693,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 172862,
@@ -6059,14 +6115,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 164865,
-      "num": 164865,
-      "word": "Tods集团去年净利翻番",
-      "onboard_time": 1710841295,
-      "rank": 36,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 164652,
       "num": 164652,
       "word": "夏以昼合集",
@@ -6195,14 +6243,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 160386,
-      "num": 160386,
-      "word": "学校的饮水器时薪63元",
-      "onboard_time": 1710843455,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 159629,
       "num": 159629,
       "word": "与凤行同款",
@@ -6288,6 +6328,14 @@
       "word": "文化人骂人就是不一样",
       "onboard_time": 1710809980,
       "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 158350,
+      "num": 158350,
+      "word": "陌生大学生想和奶奶合租",
+      "onboard_time": 1710843995,
+      "rank": 42,
       "category": "幽默"
     },
     {
@@ -6537,6 +6585,14 @@
       "onboard_time": 1710818855,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151447,
+      "num": 190133,
+      "word": "95后女生靠气球年营收上百万",
+      "onboard_time": 1710841832,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151239,
@@ -6883,14 +6939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137713,
-      "num": 137713,
-      "word": "95后女生靠气球年营收上百万",
-      "onboard_time": 1710841832,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 137279,
       "num": 1484886,
       "word": "春花遇上中式建筑意境拉满",
@@ -6921,6 +6969,14 @@
       "onboard_time": 1710748056,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136791,
+      "num": 136791,
+      "word": "小米2023年净利润193亿",
+      "onboard_time": 1710843635,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 136579,
@@ -7089,6 +7145,14 @@
       "onboard_time": 1710730054,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 132779,
+      "num": 364130,
+      "word": "接下来杭州是这样的",
+      "onboard_time": 1710841832,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 131742,
@@ -7603,14 +7667,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 100335,
-      "num": 364130,
-      "word": "接下来杭州是这样的",
-      "onboard_time": 1710841832,
-      "rank": 9,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 99462,
       "num": 99462,
       "word": "胡锡进称A股越来越像牛市",
@@ -7633,14 +7689,6 @@
       "onboard_time": 1710605552,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98806,
-      "num": 366629,
-      "word": "山东一学校惊现4层楼高视力表",
-      "onboard_time": 1710842554,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98650,
@@ -8091,6 +8139,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 41992,
+      "num": 370152,
+      "word": "甘肃文旅喊麦宣传天水麻辣烫",
+      "onboard_time": 1710844114,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 41177,
       "num": 41177,
       "word": "你怎么看幼儿园关闭潮",
@@ -8225,6 +8281,14 @@
       "onboard_time": 1710771516,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 23142,
+      "num": 238881,
+      "word": "周杰伦街头三手连弹",
+      "onboard_time": 1710843816,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 20835,

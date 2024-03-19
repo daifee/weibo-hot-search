@@ -1,0 +1,410 @@
+{
+  "runTime": 1710844431593,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2521173,
+        "num": 2521173,
+        "word": "当你早睡一次 你的器官",
+        "onboard_time": 1710841955,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 744513,
+        "num": 744513,
+        "word": "周杰伦一审败诉网易",
+        "onboard_time": 1710834756,
+        "rank": 1,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 25960,
+        "num": 577170,
+        "word": "钢铁丝路好风光",
+        "onboard_time": 1710834937,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965744,
+        "num": 524554,
+        "word": "中国拥有亿元资产的家庭达13.3万户",
+        "onboard_time": 1710838893,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 449242,
+        "num": 449242,
+        "word": "张家界山上长满韩国人",
+        "onboard_time": 1710836734,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 441452,
+        "num": 441452,
+        "word": "除了医院谁还会这么算年龄",
+        "onboard_time": 1710837275,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 405826,
+        "num": 405826,
+        "word": "庆余年",
+        "onboard_time": 1710832773,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371552,
+        "num": 371552,
+        "word": "山东一学校惊现4层楼高视力表",
+        "onboard_time": 1710842554,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41992,
+        "num": 370152,
+        "word": "甘肃文旅喊麦宣传天水麻辣烫",
+        "onboard_time": 1710844114,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 132779,
+        "num": 362007,
+        "word": "接下来杭州是这样的",
+        "onboard_time": 1710841832,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 966800,
+        "num": 357744,
+        "word": "03年孩子爹出轨80年的女人",
+        "onboard_time": 1710833312,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 647622,
+        "num": 353056,
+        "word": "未满14岁男孩性侵女童为何不追究刑责",
+        "onboard_time": 1710841536,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537883,
+        "num": 351534,
+        "word": "赵丽颖回复李浩菲",
+        "onboard_time": 1710842494,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403133,
+        "num": 347070,
+        "word": "海底捞玥",
+        "onboard_time": 1710839852,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446004,
+        "num": 339887,
+        "word": "安崎",
+        "onboard_time": 1710834873,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337911,
+        "num": 337911,
+        "word": "小米2023年营收2709.7亿",
+        "onboard_time": 1710842192,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 312445,
+        "num": 312445,
+        "word": "王一博工作室换头像背景",
+        "onboard_time": 1710840630,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300477,
+        "num": 300477,
+        "word": "为什么洗完头后容易炸毛",
+        "onboard_time": 1710834274,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 239437,
+        "num": 285220,
+        "word": "蔡元培周末参加北大复试",
+        "onboard_time": 1710833735,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194998,
+        "num": 274639,
+        "word": "北大回应考生与前校长蔡元培同名",
+        "onboard_time": 1710827853,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273288,
+        "num": 273288,
+        "word": "李氏东宫",
+        "onboard_time": 1710842916,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256244,
+        "num": 256244,
+        "word": "陶昕然妈妈承认自己打孩子是虚荣",
+        "onboard_time": 1710831333,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256204,
+        "num": 256204,
+        "word": "王鸥右手中指戴戒指",
+        "onboard_time": 1710840755,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255279,
+        "num": 255279,
+        "word": "这真的是快50岁的何老师吗",
+        "onboard_time": 1710835590,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23142,
+        "num": 238881,
+        "word": "周杰伦街头三手连弹",
+        "onboard_time": 1710843816,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236875,
+        "num": 236875,
+        "word": "我好像没有和男生当普通朋友的能力",
+        "onboard_time": 1710841354,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232085,
+        "num": 232085,
+        "word": "牛仔裤外套屁帘到底谁在穿",
+        "onboard_time": 1710842375,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 230095,
+        "num": 230095,
+        "word": "洗头后最忌讳搓头发",
+        "onboard_time": 1710838417,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180571,
+        "num": 227705,
+        "word": "萨巴伦卡男友去世",
+        "onboard_time": 1710841779,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34280,
+        "num": 226050,
+        "word": "渤海发现1.04亿吨油田",
+        "onboard_time": 1710819095,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 247097,
+        "num": 226019,
+        "word": "妈妈嫌我做的菜恶心",
+        "onboard_time": 1710843516,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225657,
+        "num": 225657,
+        "word": "陈哲远瘦了",
+        "onboard_time": 1710843936,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222808,
+        "num": 222808,
+        "word": "学校的饮水器时薪63元",
+        "onboard_time": 1710843455,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194452,
+        "num": 194452,
+        "word": "洛杉矶偶遇贾玲",
+        "onboard_time": 1710828693,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151447,
+        "num": 190133,
+        "word": "95后女生靠气球年营收上百万",
+        "onboard_time": 1710841832,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189508,
+        "num": 189508,
+        "word": "下一个会消失的电子产品",
+        "onboard_time": 1710829355,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184550,
+        "num": 184550,
+        "word": "Tods集团去年净利翻番",
+        "onboard_time": 1710841295,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 180223,
+        "num": 180223,
+        "word": "原来有人连哭都这么好看",
+        "onboard_time": 1710826955,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179972,
+        "num": 179972,
+        "word": "分手后最joker的行为",
+        "onboard_time": 1710844175,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179785,
+        "num": 179785,
+        "word": "金晨露腿",
+        "onboard_time": 1710837579,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173472,
+        "num": 173472,
+        "word": "身体缺啥看脸就知道",
+        "onboard_time": 1710843693,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162091,
+        "num": 162091,
+        "word": "赵丽颖神图的诞生",
+        "onboard_time": 1710836197,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158350,
+        "num": 158350,
+        "word": "陌生大学生想和奶奶合租",
+        "onboard_time": 1710843995,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156141,
+        "num": 156141,
+        "word": "安崎工作室辟谣霸凌",
+        "onboard_time": 1710841175,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152382,
+        "num": 152382,
+        "word": "警方回应河北初中生被3名同学围殴",
+        "onboard_time": 1710839253,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136791,
+        "num": 136791,
+        "word": "小米2023年净利润193亿",
+        "onboard_time": 1710843635,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134517,
+        "num": 134517,
+        "word": "Tabe回归加入AL",
+        "onboard_time": 1710839913,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129707,
+        "num": 129707,
+        "word": "现在的年轻人一天800个人设",
+        "onboard_time": 1710842975,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126750,
+        "num": 126750,
+        "word": "王树国不再担任西安交通大学校长",
+        "onboard_time": 1710838773,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 126629,
+        "num": 126629,
+        "word": "半熟恋人3 喜欢和不喜欢好明显",
+        "onboard_time": 1710837815,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在湖南考察调研#"
+    }
+  }
+}
