@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/03/01 00:20:40 ~ 2024/03/19 10:04:53
+本榜单时间：2024/03/01 00:20:40 ~ 2024/03/19 10:22:37
 </p>
 </blockquote>
 <p>
@@ -1509,6 +1509,12 @@ Gucci晚宴出图（热度：1611378）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E6%8D%85%E4%BC%A4%E8%80%81%E5%B8%88%E8%B7%B3%E6%A5%BC%E4%BA%8B%E4%BB%B6%23" target="weibo">
+教育局通报学生捅伤老师跳楼事件（热度：1462362）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E8%B5%84%E4%B8%8D%E9%AB%98%E6%88%BF%E4%BB%B7%E5%8D%B4%E5%BE%88%E9%AB%98%E7%9A%84%E5%9F%8E%E5%B8%82%23" target="weibo">
 工资不高房价却很高的城市（热度：1460846）
 </a>
@@ -1727,12 +1733,6 @@ HPV感染就像生殖道经历一场感冒（热度：1364146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%A6%82%E4%BD%95%E6%9F%A5%E7%9C%8B%E8%87%AA%E5%B7%B1%E5%8A%A0%E4%BA%86%E5%A4%9A%E5%B0%91%E7%BE%A4%23" target="weibo">
 微信如何查看自己加了多少群（热度：1355831）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E6%8D%85%E4%BC%A4%E8%80%81%E5%B8%88%E8%B7%B3%E6%A5%BC%E4%BA%8B%E4%BB%B6%23" target="weibo">
-教育局通报学生捅伤老师跳楼事件（热度：1355010）
 </a>
 </li>
 
@@ -2811,6 +2811,12 @@ iPad（热度：1099736）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A4%9A%E5%90%8D%E7%94%B7%E7%94%9F%E5%BE%80%E4%B8%80%E7%94%B7%E7%94%9F%E5%98%B4%E9%87%8C%E5%A1%9E%E5%9E%83%E5%9C%BE%23" target="weibo">
+山东多名男生往一男生嘴里塞垃圾（热度：1074099）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%95%B4%E6%B2%BB%E6%A0%A1%E5%9B%AD%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89%23" target="weibo">
 建议整治校园形式主义（热度：1071912）
 </a>
@@ -3479,12 +3485,6 @@ ChatGPT每天用电量是家庭用电量的1.7万多倍（热度：960317）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81chiikawa%23" target="weibo">
 名创优品chiikawa（热度：957578）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A4%9A%E5%90%8D%E7%94%B7%E7%94%9F%E5%BE%80%E4%B8%80%E7%94%B7%E7%94%9F%E5%98%B4%E9%87%8C%E5%A1%9E%E5%9E%83%E5%9C%BE%23" target="weibo">
-山东多名男生往一男生嘴里塞垃圾（热度：954952）
 </a>
 </li>
 

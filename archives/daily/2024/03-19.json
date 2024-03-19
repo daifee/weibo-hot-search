@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710813893358,
+  "endTime": 1710814957132,
   "band_list": [
     {
       "raw_hot": 8747332,
@@ -19,7 +19,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1355010,
+      "raw_hot": 1462362,
       "num": 580175,
       "word": "教育局通报学生捅伤老师跳楼事件",
       "onboard_time": 1710810574,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1074099,
+      "num": 529502,
+      "word": "山东多名男生往一男生嘴里塞垃圾",
+      "onboard_time": 1710811593,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 980943,
       "num": 980943,
       "word": "凯特",
@@ -81,14 +89,6 @@
       "onboard_time": 1710767192,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 954952,
-      "num": 484693,
-      "word": "山东多名男生往一男生嘴里塞垃圾",
-      "onboard_time": 1710811593,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 953389,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 665215,
+      "num": 665215,
+      "word": "黑马情侣提车",
+      "onboard_time": 1710813874,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 658904,
       "num": 658904,
       "word": "比酒精还厉害的肝脏刺客",
@@ -179,6 +187,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 585408,
+      "num": 585408,
+      "word": "王海称小杨哥和东方甄选或明知槽头扣肉",
+      "onboard_time": 1710810994,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 583506,
       "num": 583506,
       "word": "毕竟是九亿少女的梦",
@@ -195,20 +211,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 544737,
-      "num": 544737,
-      "word": "王海称小杨哥和东方甄选或明知槽头扣肉",
-      "onboard_time": 1710810994,
-      "rank": 24,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 535015,
       "num": 535015,
       "word": "赵丽颖 扛剧",
       "onboard_time": 1710770855,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 529346,
+      "num": 529346,
+      "word": "睡眠真的超级重要",
+      "onboard_time": 1710811772,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 502077,
@@ -241,14 +257,6 @@
       "onboard_time": 1710811174,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483791,
-      "num": 483791,
-      "word": "睡眠真的超级重要",
-      "onboard_time": 1710811772,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 481195,
@@ -323,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375964,
+      "num": 375964,
+      "word": "嫡校长",
+      "onboard_time": 1710813933,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 365823,
       "num": 287708,
       "word": "赵丽颖的左右脸",
@@ -353,6 +369,14 @@
       "onboard_time": 1710807092,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329261,
+      "num": 235309,
+      "word": "会出轨的人是改不了的",
+      "onboard_time": 1710814411,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 326401,
@@ -419,6 +443,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 295343,
+      "num": 295343,
+      "word": "为何同样睡8小时人与人精神头不一样",
+      "onboard_time": 1710813574,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 288777,
       "num": 288777,
       "word": "你以为很卫生其实很脏的行为",
@@ -443,6 +475,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 275506,
+      "num": 275506,
+      "word": "刘亦菲时尚芭莎4月刊封面",
+      "onboard_time": 1710814652,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 274147,
+      "num": 274147,
+      "word": "枭起青壤",
+      "onboard_time": 1710806133,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272289,
       "num": 272289,
       "word": "英伟达发布最强AI加速卡",
@@ -457,6 +505,14 @@
       "onboard_time": 1710805169,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245196,
+      "num": 245196,
+      "word": "王楚钦孙颖莎顶峰相见",
+      "onboard_time": 1710814231,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 243852,
@@ -491,6 +547,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231328,
+      "num": 231328,
+      "word": "郑俊英被禁止出演所有电视台",
+      "onboard_time": 1710814354,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 229738,
+      "num": 229738,
+      "word": "老外感慨凌晨的中国非常安全",
+      "onboard_time": 1710813632,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224478,
       "num": 224478,
       "word": "马斯克回应服用K粉",
@@ -523,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220065,
+      "num": 220065,
+      "word": "被保护得太好的人是怎样的",
+      "onboard_time": 1710814411,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214298,
       "num": 214298,
       "word": "陈建斌蒋勤勤牵手看展",
@@ -537,6 +617,14 @@
       "onboard_time": 1710812554,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203064,
+      "num": 203064,
+      "word": "人前显贵但哥真穷",
+      "onboard_time": 1710814172,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 202321,
@@ -571,20 +659,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179597,
-      "num": 179597,
-      "word": "老外感慨凌晨的中国非常安全",
-      "onboard_time": 1710813632,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 178206,
+      "num": 178206,
+      "word": "赵丽颖与凤行绿幕打戏纯享",
+      "onboard_time": 1710814829,
+      "rank": 41,
+      "category": "剧集"
     },
     {
-      "raw_hot": 174824,
-      "num": 174824,
-      "word": "枭起青壤",
-      "onboard_time": 1710806133,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 175057,
+      "num": 175057,
+      "word": "数千新兵陆续抵达祖国边疆",
+      "onboard_time": 1710814231,
+      "rank": 42,
+      "category": "军事"
     },
     {
       "raw_hot": 169923,
@@ -643,12 +731,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150615,
-      "num": 150615,
-      "word": "为何同样睡8小时人与人精神头不一样",
-      "onboard_time": 1710813574,
-      "rank": 45,
-      "category": "健康医疗"
+      "raw_hot": 150712,
+      "num": 150712,
+      "word": "Fate逆袭",
+      "onboard_time": 1710814829,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 148407,
@@ -681,14 +769,6 @@
       "onboard_time": 1710743196,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142109,
-      "num": 142109,
-      "word": "黑马情侣提车",
-      "onboard_time": 1710813874,
-      "rank": 49,
-      "category": "网红"
     },
     {
       "raw_hot": 136577,
