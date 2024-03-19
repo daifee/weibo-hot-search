@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710822053037,
+  "endTime": 1710822918563,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -579,6 +579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2331129,
+      "num": 2331129,
+      "word": "蔡元培",
+      "onboard_time": 1710819332,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2313376,
       "num": 2313376,
       "word": "凯特王妃就P图道歉",
@@ -1081,14 +1089,6 @@
       "onboard_time": 1710675629,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1849710,
-      "num": 1849710,
-      "word": "蔡元培",
-      "onboard_time": 1710819332,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1845566,
@@ -1772,7 +1772,7 @@
     },
     {
       "raw_hot": 1559353,
-      "num": 668577,
+      "num": 804218,
       "word": "教育局通报学生捅伤老师跳楼事件",
       "onboard_time": 1710810574,
       "rank": 42,
@@ -2643,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1281261,
+      "num": 1281261,
+      "word": "渤海发现1.04亿吨油田",
+      "onboard_time": 1710819095,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1279066,
       "num": 1279066,
       "word": "广州越秀区车祸致11人受伤",
@@ -3305,14 +3313,6 @@
       "onboard_time": 1710818612,
       "rank": 12,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1145417,
-      "num": 1153268,
-      "word": "渤海发现1.04亿吨油田",
-      "onboard_time": 1710819095,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1143909,
@@ -4611,6 +4611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 965053,
+      "num": 365440,
+      "word": "月薪四五千但很闲的工作",
+      "onboard_time": 1710819275,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 964589,
       "num": 609019,
       "word": "为啥体制内女性找对象越来越难",
@@ -4769,14 +4777,6 @@
       "onboard_time": 1710472053,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 944736,
-      "num": 329923,
-      "word": "月薪四五千但很闲的工作",
-      "onboard_time": 1710819275,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 944708,
@@ -5281,6 +5281,14 @@
       "onboard_time": 1709958691,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 877804,
+      "num": 877804,
+      "word": "断崖式暧昧",
+      "onboard_time": 1710818913,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 877745,
@@ -6003,6 +6011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 803727,
+      "num": 361305,
+      "word": "韩安冉入住杭州2000万大平层",
+      "onboard_time": 1710819393,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 803002,
       "num": 803002,
       "word": "死者父亲称孩子生前长期被霸凌",
@@ -6689,14 +6705,6 @@
       "onboard_time": 1709966729,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 751544,
-      "num": 328634,
-      "word": "韩安冉入住杭州2000万大平层",
-      "onboard_time": 1710819393,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 751115,
@@ -8443,14 +8451,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 648299,
-      "num": 648299,
-      "word": "断崖式暧昧",
-      "onboard_time": 1710818913,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 647712,
       "num": 377129,
       "word": "郭艾伦腿部注射干细胞",
@@ -8761,6 +8761,14 @@
       "onboard_time": 1710688125,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 635052,
+      "num": 635052,
+      "word": "10年内中国将有21万亿财富传给下一代",
+      "onboard_time": 1710819994,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 634857,
@@ -11097,14 +11105,6 @@
       "onboard_time": 1710307414,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 530971,
-      "num": 530971,
-      "word": "10年内中国将有21万亿财富传给下一代",
-      "onboard_time": 1710819994,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 530885,
@@ -14363,6 +14363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 430807,
+      "num": 430807,
+      "word": "与凤行丫鬟的精神状态",
+      "onboard_time": 1710821078,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 430378,
       "num": 430378,
       "word": "花400万买法拉利竟漏雨",
@@ -14817,6 +14825,14 @@
       "onboard_time": 1710670834,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417095,
+      "num": 287006,
+      "word": "大笨狗 抓错狗了",
+      "onboard_time": 1710821798,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 417075,
@@ -16025,6 +16041,14 @@
       "onboard_time": 1709647656,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 385645,
+      "num": 385645,
+      "word": "日本加息",
+      "onboard_time": 1710821437,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 384760,
@@ -17795,6 +17819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 343580,
+      "num": 343580,
+      "word": "许家印被限制高消费",
+      "onboard_time": 1710821495,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343549,
       "num": 343549,
       "word": "张馨予晒10年前旧照",
@@ -18337,14 +18369,6 @@
       "onboard_time": 1709427809,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 332741,
-      "num": 332741,
-      "word": "与凤行丫鬟的精神状态",
-      "onboard_time": 1710821078,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 332621,
@@ -19499,6 +19523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 310624,
+      "num": 310624,
+      "word": "恋与制作人卡面",
+      "onboard_time": 1710822037,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 310457,
       "num": 207745,
       "word": "代号鸢新池",
@@ -19657,6 +19689,14 @@
       "onboard_time": 1710421956,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306768,
+      "num": 306768,
+      "word": "光遇复刻",
+      "onboard_time": 1710821798,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 306743,
@@ -20699,6 +20739,14 @@
       "category": "艺人,健康医疗"
     },
     {
+      "raw_hot": 291777,
+      "num": 291777,
+      "word": "瑞幸咖啡线下点单存价差",
+      "onboard_time": 1710822759,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 291721,
       "num": 291721,
       "word": "孙千 愿每个女孩都做自己人生的太阳",
@@ -20883,6 +20931,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 289004,
+      "num": 289004,
+      "word": "咱就是说这恋爱谈的是真的省钱",
+      "onboard_time": 1710819095,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 288904,
       "num": 288904,
       "word": "贝索斯再成世界首富",
@@ -20897,14 +20953,6 @@
       "onboard_time": 1709520450,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 288000,
-      "num": 288000,
-      "word": "许家印被限制高消费",
-      "onboard_time": 1710821495,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 287722,
@@ -21145,6 +21193,14 @@
       "onboard_time": 1710132337,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 283712,
+      "num": 283712,
+      "word": "任嘉伦扫楼工卡是任国超",
+      "onboard_time": 1710818913,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 283545,
@@ -21483,6 +21539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 277853,
+      "num": 277853,
+      "word": "嫡长闺",
+      "onboard_time": 1710822037,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 277842,
       "num": 277842,
       "word": "阿沁 我们会一起面对",
@@ -21787,14 +21851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 273818,
-      "num": 273818,
-      "word": "任嘉伦扫楼工卡是任国超",
-      "onboard_time": 1710818913,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 273069,
       "num": 273069,
       "word": "张艺兴BGM配了可爱女人",
@@ -21809,14 +21865,6 @@
       "onboard_time": 1709797350,
       "rank": 15,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 272784,
-      "num": 250344,
-      "word": "大笨狗 抓错狗了",
-      "onboard_time": 1710821798,
-      "rank": 30,
-      "category": "动漫"
     },
     {
       "raw_hot": 272693,
@@ -22691,14 +22739,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 261926,
-      "num": 261926,
-      "word": "咱就是说这恋爱谈的是真的省钱",
-      "onboard_time": 1710819095,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 261866,
       "num": 261866,
       "word": "尽量别去亲戚公司上班",
@@ -23281,6 +23321,14 @@
       "onboard_time": 1709282913,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 254119,
+      "num": 254119,
+      "word": "追风者首播4集不断更",
+      "onboard_time": 1710821437,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 253978,
@@ -23881,14 +23929,6 @@
       "onboard_time": 1710334833,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 247082,
-      "num": 247082,
-      "word": "日本加息",
-      "onboard_time": 1710821437,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 246995,
@@ -28955,14 +28995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 204492,
-      "num": 204492,
-      "word": "光遇复刻",
-      "onboard_time": 1710821798,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 204487,
       "num": 204487,
       "word": "中国短道速滑男子接力夺冠",
@@ -30001,14 +30033,6 @@
       "onboard_time": 1709729970,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 199075,
-      "num": 199075,
-      "word": "追风者首播4集不断更",
-      "onboard_time": 1710821437,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 198875,
@@ -31865,6 +31889,14 @@
       "onboard_time": 1709363192,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189980,
+      "num": 189980,
+      "word": "魏若来袜子破了",
+      "onboard_time": 1710822456,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 189948,
@@ -34649,6 +34681,14 @@
       "onboard_time": 1710323133,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174923,
+      "num": 174923,
+      "word": "大学生点餐群别太搞笑",
+      "onboard_time": 1710822217,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 174892,
@@ -40451,14 +40491,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 146577,
-      "num": 146577,
-      "word": "嫡长闺",
-      "onboard_time": 1710822037,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 146490,
       "num": 146490,
       "word": "张栋梁台词",
@@ -40489,14 +40521,6 @@
       "onboard_time": 1709976869,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 146364,
-      "num": 146364,
-      "word": "恋与制作人卡面",
-      "onboard_time": 1710822037,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 146307,
@@ -42417,6 +42441,14 @@
       "onboard_time": 1709281953,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 137279,
+      "num": 1484886,
+      "word": "春花遇上中式建筑意境拉满",
+      "onboard_time": 1710812372,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137146,
@@ -47489,14 +47521,6 @@
       "onboard_time": 1709714128,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110089,
-      "num": 1484886,
-      "word": "春花遇上中式建筑意境拉满",
-      "onboard_time": 1710812372,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109974,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1710822918563,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2331129,
+        "num": 2331129,
+        "word": "蔡元培",
+        "onboard_time": 1710819332,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1552365,
+        "num": 1552365,
+        "word": "嫡校长",
+        "onboard_time": 1710813933,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137279,
+        "num": 1393826,
+        "word": "春花遇上中式建筑意境拉满",
+        "onboard_time": 1710812372,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1281261,
+        "num": 1281261,
+        "word": "渤海发现1.04亿吨油田",
+        "onboard_time": 1710819095,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1193372,
+        "num": 1193372,
+        "word": "迪丽热巴陈星旭都是浓颜",
+        "onboard_time": 1710818190,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1293950,
+        "num": 1187399,
+        "word": "凯特王妃疑术后首次露面",
+        "onboard_time": 1710808597,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1181104,
+        "num": 1181104,
+        "word": "男子被流浪猫绊倒投喂者赔24万",
+        "onboard_time": 1710816755,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1041605,
+        "num": 1041605,
+        "word": "小米测试车被天津高速抓到逃费",
+        "onboard_time": 1710818612,
+        "rank": 7,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 877804,
+        "num": 877804,
+        "word": "断崖式暧昧",
+        "onboard_time": 1710818913,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 836762,
+        "num": 836762,
+        "word": "长风破浪改名追风者",
+        "onboard_time": 1710818913,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 840759,
+        "num": 804218,
+        "word": "教育局通报学生捅伤老师跳楼事件",
+        "onboard_time": 1710810574,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635052,
+        "num": 635052,
+        "word": "10年内中国将有21万亿财富传给下一代",
+        "onboard_time": 1710819994,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630732,
+        "num": 630732,
+        "word": "反向消费有多爽",
+        "onboard_time": 1710817952,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 571167,
+        "num": 571167,
+        "word": "黑马情侣提车",
+        "onboard_time": 1710813874,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 543144,
+        "num": 543144,
+        "word": "春和景明",
+        "onboard_time": 1710820355,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 455602,
+        "num": 455602,
+        "word": "李惠利吴世勋裴秀智毕业合照",
+        "onboard_time": 1710807754,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430807,
+        "num": 430807,
+        "word": "与凤行丫鬟的精神状态",
+        "onboard_time": 1710821078,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410771,
+        "num": 410771,
+        "word": "陈赫质问林更新为什么不回消息",
+        "onboard_time": 1710814954,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385645,
+        "num": 385645,
+        "word": "日本加息",
+        "onboard_time": 1710821437,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 370265,
+        "num": 370265,
+        "word": "会出轨的人是改不了的",
+        "onboard_time": 1710814411,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 965053,
+        "num": 365440,
+        "word": "月薪四五千但很闲的工作",
+        "onboard_time": 1710819275,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 803727,
+        "num": 361305,
+        "word": "韩安冉入住杭州2000万大平层",
+        "onboard_time": 1710819393,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343580,
+        "num": 343580,
+        "word": "许家印被限制高消费",
+        "onboard_time": 1710821495,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329712,
+        "num": 329712,
+        "word": "苹果称128GB的iPhone也有充裕空间",
+        "onboard_time": 1710807938,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 318520,
+        "num": 318520,
+        "word": "孙颖莎世界排名第一",
+        "onboard_time": 1710820472,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310624,
+        "num": 310624,
+        "word": "恋与制作人卡面",
+        "onboard_time": 1710822037,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 306768,
+        "num": 306768,
+        "word": "光遇复刻",
+        "onboard_time": 1710821798,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 301240,
+        "num": 301240,
+        "word": "聂可以自曝在女团被集体霸凌",
+        "onboard_time": 1710809256,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291777,
+        "num": 291777,
+        "word": "瑞幸咖啡线下点单存价差",
+        "onboard_time": 1710822759,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 289004,
+        "num": 289004,
+        "word": "咱就是说这恋爱谈的是真的省钱",
+        "onboard_time": 1710819095,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 417095,
+        "num": 287006,
+        "word": "大笨狗 抓错狗了",
+        "onboard_time": 1710821798,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 283712,
+        "num": 283712,
+        "word": "任嘉伦扫楼工卡是任国超",
+        "onboard_time": 1710818913,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277853,
+        "num": 277853,
+        "word": "嫡长闺",
+        "onboard_time": 1710822037,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254119,
+        "num": 254119,
+        "word": "追风者首播4集不断更",
+        "onboard_time": 1710821437,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233204,
+        "num": 233204,
+        "word": "大家最烦室友在寝室干嘛",
+        "onboard_time": 1710816271,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222229,
+        "num": 222229,
+        "word": "教育部发布24种本科新增专业",
+        "onboard_time": 1710815196,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 221259,
+        "num": 221259,
+        "word": "郑俊英出狱",
+        "onboard_time": 1710809619,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217921,
+        "num": 217921,
+        "word": "世界排名王楚钦三项第一",
+        "onboard_time": 1710809378,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203506,
+        "num": 203506,
+        "word": "枭起青壤开机",
+        "onboard_time": 1710815315,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198679,
+        "num": 198679,
+        "word": "被保护得太好的人是怎样的",
+        "onboard_time": 1710814411,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189980,
+        "num": 189980,
+        "word": "魏若来袜子破了",
+        "onboard_time": 1710822456,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182423,
+        "num": 182423,
+        "word": "迪丽热巴复古皮衣",
+        "onboard_time": 1710815912,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174923,
+        "num": 174923,
+        "word": "大学生点餐群别太搞笑",
+        "onboard_time": 1710822217,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172974,
+        "num": 172974,
+        "word": "刘亦菲时尚芭莎4月刊封面",
+        "onboard_time": 1710814652,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 166113,
+        "num": 166113,
+        "word": "原来蓝色是想念的人的颜色",
+        "onboard_time": 1710821734,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152125,
+        "num": 152125,
+        "word": "因为装修意见不合离婚了",
+        "onboard_time": 1710817234,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150461,
+        "num": 150461,
+        "word": "向佐体脂低的原因",
+        "onboard_time": 1710818792,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145633,
+        "num": 145633,
+        "word": "梅西退出阿根廷队美国热身赛",
+        "onboard_time": 1710809137,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144406,
+        "num": 144406,
+        "word": "HYBE将推出水溶性小卡",
+        "onboard_time": 1710811174,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 144162,
+        "num": 144162,
+        "word": "小米回应测试车逃费被罚",
+        "onboard_time": 1710820654,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#育人之本在于培根铸魂#"
+    }
+  }
+}
