@@ -1,0 +1,410 @@
+{
+  "runTime": 1710890310155,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 633359,
+        "num": 633359,
+        "word": "英媒发布凯特王妃现身视频引网友质疑",
+        "onboard_time": 1710854436,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 559666,
+        "num": 559666,
+        "word": "当你早睡一次 你的器官",
+        "onboard_time": 1710841955,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 56306,
+        "num": 523144,
+        "word": "我拍的春暖花开",
+        "onboard_time": 1710858519,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518900,
+        "num": 518900,
+        "word": "想睡一觉躺挣5千结果进去了",
+        "onboard_time": 1710859360,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 454719,
+        "num": 454719,
+        "word": "淀粉肠小王子日销售额涨超10倍",
+        "onboard_time": 1710859779,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 389572,
+        "num": 389572,
+        "word": "原来郑合惠子是单眼皮",
+        "onboard_time": 1710864509,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337909,
+        "num": 337909,
+        "word": "微信 月经提醒",
+        "onboard_time": 1710857978,
+        "rank": 6,
+        "category": "互联网,健康医疗"
+      },
+      {
+        "raw_hot": 284579,
+        "num": 284579,
+        "word": "专家解析感冒的人多起来了",
+        "onboard_time": 1710883997,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 270966,
+        "num": 270966,
+        "word": "张大大晒与李沁金晨合照",
+        "onboard_time": 1710870140,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215825,
+        "num": 270367,
+        "word": "95后女孩考研失败后隐居荒岛",
+        "onboard_time": 1710856599,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1137803,
+        "num": 270265,
+        "word": "女孩酒店房间里遭多人暴打侮辱",
+        "onboard_time": 1710874277,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269880,
+        "num": 269880,
+        "word": "逐渐消失的网红小吃",
+        "onboard_time": 1710851494,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 262410,
+        "num": 262410,
+        "word": "春分",
+        "onboard_time": 1710889405,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243467,
+        "num": 243467,
+        "word": "狐妖小红娘月红篇将延期",
+        "onboard_time": 1710887659,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207871,
+        "num": 207871,
+        "word": "赵丽颖玄学",
+        "onboard_time": 1710859057,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156486,
+        "num": 156486,
+        "word": "2大学生合买2张彩票中20万后1人不认账",
+        "onboard_time": 1710850535,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150611,
+        "num": 150611,
+        "word": "与凤行 渣男",
+        "onboard_time": 1710859475,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147665,
+        "num": 147665,
+        "word": "家有儿女中的刘梅是合格的妈妈吗",
+        "onboard_time": 1710876617,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132918,
+        "num": 132918,
+        "word": "杨倩无缘巴黎奥运",
+        "onboard_time": 1710851432,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111833,
+        "num": 111833,
+        "word": "修手机屏幕被偷看了相册",
+        "onboard_time": 1710872838,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 334356,
+        "num": 111223,
+        "word": "03年孩子爹出轨80年的女人",
+        "onboard_time": 1710833312,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196210,
+        "num": 109776,
+        "word": "早睡1小时身体竟然有这么多变化",
+        "onboard_time": 1710884416,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107892,
+        "num": 107892,
+        "word": "为什么年轻人不愿意用信用卡了",
+        "onboard_time": 1710869780,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95633,
+        "num": 95633,
+        "word": "阚清子开大G",
+        "onboard_time": 1710845136,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83230,
+        "num": 83230,
+        "word": "全国的富裕家庭都集中在哪",
+        "onboard_time": 1710868881,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 82369,
+        "num": 82369,
+        "word": "赵丽颖素袍束发低挽",
+        "onboard_time": 1710887421,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80953,
+        "num": 80953,
+        "word": "天天洗头为什么头发还是很油",
+        "onboard_time": 1710848673,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 79751,
+        "num": 79751,
+        "word": "妈妈让我边考研边考公边找工作",
+        "onboard_time": 1710851554,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71918,
+        "num": 71918,
+        "word": "你觉得减重40斤容易吗",
+        "onboard_time": 1710881355,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 70198,
+        "num": 70198,
+        "word": "上班是真的谈不到对象",
+        "onboard_time": 1710858757,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81176,
+        "num": 69138,
+        "word": "林更新录综艺cue了赵丽颖",
+        "onboard_time": 1710863493,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65501,
+        "num": 65501,
+        "word": "充个话费竟沦为间接洗钱工具",
+        "onboard_time": 1710874818,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64509,
+        "num": 64509,
+        "word": "朱梓骁 纪凌尘是我的贵人",
+        "onboard_time": 1710850294,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63223,
+        "num": 63223,
+        "word": "月嫂回应掌掴婴儿是在赶虫子",
+        "onboard_time": 1710890244,
+        "rank": 33,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 58743,
+        "num": 58743,
+        "word": "张天爱好性感",
+        "onboard_time": 1710862176,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57897,
+        "num": 57897,
+        "word": "婚后AA制",
+        "onboard_time": 1710858461,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55137,
+        "num": 55137,
+        "word": "倒头就睡的6个方法",
+        "onboard_time": 1710868220,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50426,
+        "num": 50426,
+        "word": "纪凌尘他做到了",
+        "onboard_time": 1710847054,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50134,
+        "num": 50134,
+        "word": "你最近感冒了没",
+        "onboard_time": 1710882016,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 49028,
+        "num": 49028,
+        "word": "迪丽热巴陈星旭错位图",
+        "onboard_time": 1710865767,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48221,
+        "num": 48221,
+        "word": "刘学义演技",
+        "onboard_time": 1710850594,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46094,
+        "num": 46094,
+        "word": "武大声明",
+        "onboard_time": 1710850354,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 45505,
+        "num": 45505,
+        "word": "抑郁症的真实感受",
+        "onboard_time": 1710859779,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45152,
+        "num": 45152,
+        "word": "花间令妈妈疯了孩子没了",
+        "onboard_time": 1710864991,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45075,
+        "num": 45075,
+        "word": "迪丽热巴路透",
+        "onboard_time": 1710862714,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44433,
+        "num": 44433,
+        "word": "潘樾只看了画像上的杨采薇",
+        "onboard_time": 1710889886,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41490,
+        "num": 41490,
+        "word": "与凤行",
+        "onboard_time": 1710847231,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40811,
+        "num": 40811,
+        "word": "嘬老族",
+        "onboard_time": 1710860198,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38524,
+        "num": 40125,
+        "word": "伊能静女儿帮妈妈做生日计划",
+        "onboard_time": 1710871040,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36917,
+        "num": 39791,
+        "word": "熊猫 我这一生如屡薄冰",
+        "onboard_time": 1710861216,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在湖南考察调研#"
+    }
+  }
+}
