@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710819260186,
+  "endTime": 1710822053037,
   "band_list": [
     {
       "raw_hot": 8747332,
@@ -19,6 +19,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1849710,
+      "num": 1849710,
+      "word": "蔡元培",
+      "onboard_time": 1710819332,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1789517,
       "num": 1789517,
       "word": "嫡校长",
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1559353,
-      "num": 580175,
+      "num": 668577,
       "word": "教育局通报学生捅伤老师跳楼事件",
       "onboard_time": 1710810574,
       "rank": 42,
@@ -41,6 +49,14 @@
       "onboard_time": 1710813874,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1464074,
+      "num": 1464074,
+      "word": "男子被流浪猫绊倒投喂者赔24万",
+      "onboard_time": 1710816755,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1300358,
@@ -59,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1255857,
+      "num": 1255857,
+      "word": "迪丽热巴陈星旭都是浓颜",
+      "onboard_time": 1710818190,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1225304,
       "num": 1225304,
       "word": "李惠利吴世勋裴秀智毕业合照",
@@ -75,6 +99,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1147233,
+      "num": 1147233,
+      "word": "小米测试车被天津高速抓到逃费",
+      "onboard_time": 1710818612,
+      "rank": 12,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 1145417,
+      "num": 1153268,
+      "word": "渤海发现1.04亿吨油田",
+      "onboard_time": 1710819095,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1129004,
       "num": 529502,
       "word": "山东多名男生往一男生嘴里塞垃圾",
@@ -89,14 +129,6 @@
       "onboard_time": 1710814954,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1095389,
-      "num": 1095389,
-      "word": "男子被流浪猫绊倒投喂者赔24万",
-      "onboard_time": 1710816755,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 980943,
@@ -131,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 944736,
+      "num": 329923,
+      "word": "月薪四五千但很闲的工作",
+      "onboard_time": 1710819275,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 882813,
       "num": 882813,
       "word": "郑俊英出狱",
@@ -145,6 +185,14 @@
       "onboard_time": 1710804688,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 858438,
+      "num": 858438,
+      "word": "长风破浪改名追风者",
+      "onboard_time": 1710818913,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 845748,
@@ -179,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 751544,
+      "num": 328634,
+      "word": "韩安冉入住杭州2000万大平层",
+      "onboard_time": 1710819393,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 731829,
       "num": 487927,
       "word": "会出轨的人是改不了的",
@@ -203,12 +259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 670910,
+      "num": 670910,
+      "word": "反向消费有多爽",
+      "onboard_time": 1710817952,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 658904,
       "num": 658904,
       "word": "比酒精还厉害的肝脏刺客",
       "onboard_time": 1710767192,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 648299,
+      "num": 648299,
+      "word": "断崖式暧昧",
+      "onboard_time": 1710818913,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 642636,
@@ -267,27 +339,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 564182,
+      "num": 564182,
+      "word": "春和景明",
+      "onboard_time": 1710820355,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 549545,
       "num": 549545,
       "word": "迪丽热巴 枭起青壤",
       "onboard_time": 1710774815,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 544359,
-      "num": 471326,
-      "word": "小米测试车被天津高速抓到逃费",
-      "onboard_time": 1710818612,
-      "rank": 12,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 543284,
-      "num": 543284,
-      "word": "迪丽热巴陈星旭都是浓颜",
-      "onboard_time": 1710818190,
-      "rank": 39,
       "category": "剧集"
     },
     {
@@ -297,6 +361,14 @@
       "onboard_time": 1710770855,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 530971,
+      "num": 530971,
+      "word": "10年内中国将有21万亿财富传给下一代",
+      "onboard_time": 1710819994,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502077,
@@ -347,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463860,
-      "num": 463860,
-      "word": "反向消费有多爽",
-      "onboard_time": 1710817952,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 434913,
       "num": 293569,
       "word": "审判与凤行",
@@ -401,14 +465,6 @@
       "onboard_time": 1710788357,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 403746,
-      "num": 403746,
-      "word": "长风破浪改名追风者",
-      "onboard_time": 1710818913,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 401856,
@@ -483,12 +539,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 332741,
+      "num": 332741,
+      "word": "与凤行丫鬟的精神状态",
+      "onboard_time": 1710821078,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326401,
       "num": 282143,
       "word": "戴安娜王妃弟弟就凯特阴谋论发声",
       "onboard_time": 1710759515,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 325718,
+      "num": 325718,
+      "word": "孙颖莎世界排名第一",
+      "onboard_time": 1710820472,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 323072,
@@ -579,6 +651,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 288000,
+      "num": 288000,
+      "word": "许家印被限制高消费",
+      "onboard_time": 1710821495,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286275,
       "num": 248258,
       "word": "辅导员告诉我导师突然去世了",
@@ -593,6 +673,22 @@
       "onboard_time": 1710771937,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 273818,
+      "num": 273818,
+      "word": "任嘉伦扫楼工卡是任国超",
+      "onboard_time": 1710818913,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 272784,
+      "num": 250344,
+      "word": "大笨狗 抓错狗了",
+      "onboard_time": 1710821798,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 272289,
@@ -617,6 +713,22 @@
       "onboard_time": 1710805169,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261926,
+      "num": 261926,
+      "word": "咱就是说这恋爱谈的是真的省钱",
+      "onboard_time": 1710819095,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 247082,
+      "num": 247082,
+      "word": "日本加息",
+      "onboard_time": 1710821437,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 243852,
@@ -731,12 +843,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 206382,
-      "num": 206382,
-      "word": "断崖式暧昧",
-      "onboard_time": 1710818913,
-      "rank": 29,
-      "category": "情感"
+      "raw_hot": 204492,
+      "num": 204492,
+      "word": "光遇复刻",
+      "onboard_time": 1710821798,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 203064,
@@ -744,14 +856,6 @@
       "word": "人前显贵但哥真穷",
       "onboard_time": 1710814172,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 202450,
-      "num": 202450,
-      "word": "任嘉伦扫楼工卡是任国超",
-      "onboard_time": 1710818913,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -771,12 +875,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 194143,
-      "num": 194143,
-      "word": "咱就是说这恋爱谈的是真的省钱",
-      "onboard_time": 1710819095,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 199142,
+      "num": 199142,
+      "word": "小米回应测试车逃费被罚",
+      "onboard_time": 1710820654,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 199075,
+      "num": 199075,
+      "word": "追风者首播4集不断更",
+      "onboard_time": 1710821437,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 192552,
@@ -859,6 +971,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 166818,
+      "num": 166818,
+      "word": "原来蓝色是想念的人的颜色",
+      "onboard_time": 1710821734,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161728,
       "num": 161728,
       "word": "N1报名",
@@ -899,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152650,
+      "num": 152650,
+      "word": "涵艺爆料RNG或出售Wei",
+      "onboard_time": 1710821196,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152334,
       "num": 152334,
       "word": "与凤行特效",
@@ -931,12 +1059,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146577,
+      "num": 146577,
+      "word": "嫡长闺",
+      "onboard_time": 1710822037,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146512,
       "num": 132476,
       "word": "杨幂小拇指好短",
       "onboard_time": 1710759515,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146364,
+      "num": 146364,
+      "word": "恋与制作人卡面",
+      "onboard_time": 1710822037,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 146066,
@@ -1032,6 +1176,14 @@
       "word": "凯特现身",
       "onboard_time": 1710734672,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110089,
+      "num": 1484886,
+      "word": "春花遇上中式建筑意境拉满",
+      "onboard_time": 1710812372,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1275,14 +1427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23368,
-      "num": 1153268,
-      "word": "渤海发现1.04亿吨油田",
-      "onboard_time": 1710819095,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 20835,
       "num": 22131,
       "word": "马思纯新中式",
@@ -1297,6 +1441,9 @@
     },
     {
       "word": "#立德树人#"
+    },
+    {
+      "word": "#习近平在湖南长沙考察调研#"
     }
   ]
 }
