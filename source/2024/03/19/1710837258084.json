@@ -1,0 +1,410 @@
+{
+  "runTime": 1710837258084,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1439554,
+        "num": 1439554,
+        "word": "周杰伦一审败诉网易",
+        "onboard_time": 1710834756,
+        "rank": 0,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 764515,
+        "num": 764515,
+        "word": "为什么洗完头后容易炸毛",
+        "onboard_time": 1710834274,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 53721,
+        "num": 724001,
+        "word": "钢铁丝路好风光",
+        "onboard_time": 1710834937,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704429,
+        "num": 704429,
+        "word": "李辉粲涉嫌强制猥亵",
+        "onboard_time": 1710835114,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639483,
+        "num": 639483,
+        "word": "洛杉矶偶遇贾玲",
+        "onboard_time": 1710828693,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 619315,
+        "num": 619315,
+        "word": "庆余年",
+        "onboard_time": 1710832773,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 575260,
+        "num": 575260,
+        "word": "北大回应考生与前校长蔡元培同名",
+        "onboard_time": 1710827853,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436245,
+        "num": 436245,
+        "word": "内江地震",
+        "onboard_time": 1710836734,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435104,
+        "num": 435104,
+        "word": "韩安冉入住杭州2000万大平层",
+        "onboard_time": 1710819393,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 432337,
+        "num": 432337,
+        "word": "蔡元培",
+        "onboard_time": 1710819332,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 4493160,
+        "num": 431980,
+        "word": "13岁男孩性侵8岁女童警方不予立案",
+        "onboard_time": 1710833973,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1662149,
+        "num": 417120,
+        "word": "03年孩子爹出轨80年的女人",
+        "onboard_time": 1710833312,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1212297,
+        "num": 410301,
+        "word": "安崎",
+        "onboard_time": 1710834873,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 851963,
+        "num": 406651,
+        "word": "男孩学校遭霸凌父母讨说法被踢出群",
+        "onboard_time": 1710832592,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400944,
+        "num": 400944,
+        "word": "倪萍分享减重40斤方法",
+        "onboard_time": 1710833195,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395665,
+        "num": 395665,
+        "word": "这真的是快50岁的何老师吗",
+        "onboard_time": 1710835590,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394531,
+        "num": 394531,
+        "word": "蔡元培周末参加北大复试",
+        "onboard_time": 1710833735,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 345429,
+        "num": 345429,
+        "word": "王一博夸李沁讲究",
+        "onboard_time": 1710834695,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310692,
+        "num": 310692,
+        "word": "韩安冉说房子是老公给的婚房",
+        "onboard_time": 1710833494,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289068,
+        "num": 289068,
+        "word": "国产伟哥2023年销售近13亿",
+        "onboard_time": 1710822937,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 450374,
+        "num": 286203,
+        "word": "陶昕然妈妈承认自己打孩子是虚荣",
+        "onboard_time": 1710831333,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282957,
+        "num": 282957,
+        "word": "下一个会消失的电子产品",
+        "onboard_time": 1710829355,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 274590,
+        "num": 274590,
+        "word": "男孩8年未见母亲被告知被遗忘",
+        "onboard_time": 1710829535,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248004,
+        "num": 248004,
+        "word": "久哲打假无畏小作文",
+        "onboard_time": 1710836437,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 247290,
+        "num": 247290,
+        "word": "身上长红痣是肝癌痣吗",
+        "onboard_time": 1710829535,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 244441,
+        "num": 244441,
+        "word": "月薪四五千但很闲的工作",
+        "onboard_time": 1710819275,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239524,
+        "num": 239524,
+        "word": "赵丽颖神图的诞生",
+        "onboard_time": 1710836197,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227428,
+        "num": 227428,
+        "word": "猫猫捧着耶耶还亲了两下",
+        "onboard_time": 1710835779,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213889,
+        "num": 222252,
+        "word": "凯特王妃疑术后首次露面",
+        "onboard_time": 1710808597,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 110357,
+        "num": 221630,
+        "word": "渤海发现1.04亿吨油田",
+        "onboard_time": 1710819095,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 221609,
+        "num": 221609,
+        "word": "与凤行云合",
+        "onboard_time": 1710836793,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221124,
+        "num": 221124,
+        "word": "张家界山上长满韩国人",
+        "onboard_time": 1710836734,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 212505,
+        "num": 212505,
+        "word": "刘学义郑合惠子拥抱镜头",
+        "onboard_time": 1710823418,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209635,
+        "num": 209635,
+        "word": "林更新娘不了一点",
+        "onboard_time": 1710835057,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195045,
+        "num": 195045,
+        "word": "现在小孩上学不是单打独斗了",
+        "onboard_time": 1710834873,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193015,
+        "num": 193015,
+        "word": "年轻人从精致穷变成了理智省",
+        "onboard_time": 1710836319,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189117,
+        "num": 189117,
+        "word": "OMEGAX",
+        "onboard_time": 1710836614,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169118,
+        "num": 169118,
+        "word": "台州一高校发生汽车冲撞行人事件",
+        "onboard_time": 1710825692,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169553,
+        "num": 168980,
+        "word": "林更新回应宇文玥落水",
+        "onboard_time": 1710836256,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168505,
+        "num": 168505,
+        "word": "这届年轻人怎么越来越省了",
+        "onboard_time": 1710831811,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166403,
+        "num": 166403,
+        "word": "惠英红说艺人要履行社会责任",
+        "onboard_time": 1710836734,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160035,
+        "num": 160035,
+        "word": "外交部回应日退役将官任靖国神社宫司",
+        "onboard_time": 1710837032,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158985,
+        "num": 158985,
+        "word": "赵丽颖与凤行公主切",
+        "onboard_time": 1710833195,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152398,
+        "num": 152398,
+        "word": "花间令cp粉",
+        "onboard_time": 1710832533,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149114,
+        "num": 149114,
+        "word": "只有低血糖才懂的尴尬",
+        "onboard_time": 1710836374,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148606,
+        "num": 148606,
+        "word": "刘亦菲周冬雨撞造型",
+        "onboard_time": 1710824560,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141696,
+        "num": 141696,
+        "word": "男子被流浪猫绊倒投喂者赔24万",
+        "onboard_time": 1710816755,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140268,
+        "num": 140268,
+        "word": "每个女生都应该活成自己的女主角",
+        "onboard_time": 1710835354,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132534,
+        "num": 132534,
+        "word": "原来有人连哭都这么好看",
+        "onboard_time": 1710826955,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127736,
+        "num": 127736,
+        "word": "沈阳一轿车冲入人行道致3死2伤",
+        "onboard_time": 1710829053,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在湖南考察调研#"
+    }
+  }
+}

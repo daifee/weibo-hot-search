@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710836481282,
+  "endTime": 1710837258084,
   "band_list": [
     {
       "raw_hot": 8747332,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 4758856,
-      "num": 361096,
+      "num": 431980,
       "word": "13岁男孩性侵8岁女童警方不予立案",
       "onboard_time": 1710833973,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1691763,
-      "num": 361041,
+      "num": 417120,
       "word": "03年孩子爹出轨80年的女人",
       "onboard_time": 1710833312,
       "rank": 10,
@@ -91,8 +91,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1362087,
-      "num": 1362087,
+      "raw_hot": 1439554,
+      "num": 1439554,
       "word": "周杰伦一审败诉网易",
       "onboard_time": 1710834756,
       "rank": 0,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1212297,
+      "num": 410301,
+      "word": "安崎",
+      "onboard_time": 1710834873,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1176736,
       "num": 299949,
       "word": "山西19岁少年疑因多次卖血身亡",
@@ -161,14 +169,6 @@
       "onboard_time": 1710818612,
       "rank": 12,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 1142129,
-      "num": 361006,
-      "word": "安崎",
-      "onboard_time": 1710834873,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1129004,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 935537,
-      "num": 360947,
+      "num": 406651,
       "word": "男孩学校遭霸凌父母讨说法被踢出群",
       "onboard_time": 1710832592,
       "rank": 48,
@@ -315,6 +315,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 764515,
+      "num": 764515,
+      "word": "为什么洗完头后容易炸毛",
+      "onboard_time": 1710834274,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 759988,
       "num": 759988,
       "word": "教育部发布24种本科新增专业",
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 704429,
+      "num": 704429,
+      "word": "李辉粲涉嫌强制猥亵",
+      "onboard_time": 1710835114,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 697150,
       "num": 697150,
       "word": "刘亦菲周冬雨撞造型",
@@ -393,14 +409,6 @@
       "onboard_time": 1710767192,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 656603,
-      "num": 360930,
-      "word": "为什么洗完头后容易炸毛",
-      "onboard_time": 1710834274,
-      "rank": 14,
-      "category": "美妆"
     },
     {
       "raw_hot": 649895,
@@ -473,14 +481,6 @@
       "onboard_time": 1710825692,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 591791,
-      "num": 591791,
-      "word": "李辉粲涉嫌强制猥亵",
-      "onboard_time": 1710835114,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 585408,
@@ -604,11 +604,19 @@
     },
     {
       "raw_hot": 444062,
-      "num": 360875,
+      "num": 400944,
       "word": "倪萍分享减重40斤方法",
       "onboard_time": 1710833195,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 436245,
+      "num": 436245,
+      "word": "内江地震",
+      "onboard_time": 1710836734,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434913,
@@ -713,6 +721,22 @@
       "onboard_time": 1710805471,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 395665,
+      "num": 395665,
+      "word": "这真的是快50岁的何老师吗",
+      "onboard_time": 1710835590,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 394531,
+      "num": 394531,
+      "word": "蔡元培周末参加北大复试",
+      "onboard_time": 1710833735,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 386039,
@@ -825,14 +849,6 @@
       "onboard_time": 1710824857,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 330276,
-      "num": 330276,
-      "word": "蔡元培周末参加北大复试",
-      "onboard_time": 1710833735,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 326401,
@@ -1003,14 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 281145,
-      "num": 281145,
-      "word": "这真的是快50岁的何老师吗",
-      "onboard_time": 1710835590,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 279034,
       "num": 279034,
       "word": "丁子峻说赵丽颖太棒了",
@@ -1059,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248004,
+      "num": 248004,
+      "word": "久哲打假无畏小作文",
+      "onboard_time": 1710836437,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 246130,
       "num": 246130,
       "word": "枭起青壤书粉",
@@ -1099,6 +1115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 239524,
+      "num": 239524,
+      "word": "赵丽颖神图的诞生",
+      "onboard_time": 1710836197,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236610,
       "num": 236610,
       "word": "林更新九亿少女的梦是这么来的",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1710826955,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227428,
+      "num": 227428,
+      "word": "猫猫捧着耶耶还亲了两下",
+      "onboard_time": 1710835779,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 224478,
@@ -1185,6 +1217,22 @@
       "onboard_time": 1710807393,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221609,
+      "num": 221609,
+      "word": "与凤行云合",
+      "onboard_time": 1710836793,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 221124,
+      "num": 221124,
+      "word": "张家界山上长满韩国人",
+      "onboard_time": 1710836734,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 219560,
@@ -1339,6 +1387,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195045,
+      "num": 195045,
+      "word": "现在小孩上学不是单打独斗了",
+      "onboard_time": 1710834873,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 193015,
+      "num": 193015,
+      "word": "年轻人从精致穷变成了理智省",
+      "onboard_time": 1710836319,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192552,
       "num": 192552,
       "word": "每天睡多久最好因人而异",
@@ -1363,14 +1427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189699,
-      "num": 180900,
-      "word": "猫猫捧着耶耶还亲了两下",
-      "onboard_time": 1710835779,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 189627,
       "num": 189627,
       "word": "王海晒槽头扣肉厂家和经销商对话",
@@ -1393,6 +1449,14 @@
       "onboard_time": 1710832052,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 189117,
+      "num": 189117,
+      "word": "OMEGAX",
+      "onboard_time": 1710836614,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 188947,
@@ -1440,14 +1504,6 @@
       "word": "年轻人租房时有多卑微",
       "onboard_time": 1710829113,
       "rank": 34,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 178385,
-      "num": 178385,
-      "word": "现在小孩上学不是单打独斗了",
-      "onboard_time": 1710834873,
-      "rank": 32,
       "category": "情感"
     },
     {
@@ -1523,20 +1579,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169553,
+      "num": 168980,
+      "word": "林更新回应宇文玥落水",
+      "onboard_time": 1710836256,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167676,
       "num": 167676,
       "word": "苹果4月或推出新款iPad",
       "onboard_time": 1710810217,
       "rank": 43,
       "category": "数码"
-    },
-    {
-      "raw_hot": 167461,
-      "num": 166616,
-      "word": "赵丽颖神图的诞生",
-      "onboard_time": 1710836197,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 167262,
@@ -1561,6 +1617,14 @@
       "onboard_time": 1710821734,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166403,
+      "num": 166403,
+      "word": "惠英红说艺人要履行社会责任",
+      "onboard_time": 1710836734,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 166109,
@@ -1595,6 +1659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 160035,
+      "num": 160035,
+      "word": "外交部回应日退役将官任靖国神社宫司",
+      "onboard_time": 1710837032,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 159629,
       "num": 159629,
       "word": "与凤行同款",
@@ -1619,14 +1691,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 157226,
-      "num": 157226,
-      "word": "年轻人从精致穷变成了理智省",
-      "onboard_time": 1710836319,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 156164,
       "num": 156164,
       "word": "导演客串与凤行",
@@ -1648,14 +1712,6 @@
       "word": "周深献唱追风者主题曲",
       "onboard_time": 1710832172,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 152841,
-      "num": 152841,
-      "word": "林更新回应宇文玥落水",
-      "onboard_time": 1710836256,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -1737,14 +1793,6 @@
       "onboard_time": 1710743196,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141184,
-      "num": 141184,
-      "word": "久哲打假无畏小作文",
-      "onboard_time": 1710836437,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 140823,
@@ -2196,6 +2244,9 @@
     },
     {
       "word": "#习近平在湖南长沙考察调研#"
+    },
+    {
+      "word": "#习近平在湖南考察调研#"
     }
   ]
 }
