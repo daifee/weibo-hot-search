@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/03/19 00:22:11 ~ 2024/03/19 10:22:37
+本榜单时间：2024/03/19 00:22:11 ~ 2024/03/19 10:34:05
 </p>
 </blockquote>
 <p>
@@ -28,7 +28,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E6%8D%85%E4%BC%A4%E8%80%81%E5%B8%88%E8%B7%B3%E6%A5%BC%E4%BA%8B%E4%BB%B6%23" target="weibo">
-教育局通报学生捅伤老师跳楼事件（热度：1462362）
+教育局通报学生捅伤老师跳楼事件（热度：1559353）
 </a>
 </li>
 
@@ -51,6 +51,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%A9%AC%E6%83%85%E4%BE%A3%E6%8F%90%E8%BD%A6%23" target="weibo">
+黑马情侣提车（热度：1212088）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF19%E5%B2%81%E5%B0%91%E5%B9%B4%E7%96%91%E5%9B%A0%E5%A4%9A%E6%AC%A1%E5%8D%96%E8%A1%80%E8%BA%AB%E4%BA%A1%23" target="weibo">
 山西19岁少年疑因多次卖血身亡（热度：1176736）
 </a>
@@ -58,7 +64,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A4%9A%E5%90%8D%E7%94%B7%E7%94%9F%E5%BE%80%E4%B8%80%E7%94%B7%E7%94%9F%E5%98%B4%E9%87%8C%E5%A1%9E%E5%9E%83%E5%9C%BE%23" target="weibo">
-山东多名男生往一男生嘴里塞垃圾（热度：1074099）
+山东多名男生往一男生嘴里塞垃圾（热度：1129004）
 </a>
 </li>
 
@@ -129,8 +135,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%A9%AC%E6%83%85%E4%BE%A3%E6%8F%90%E8%BD%A6%23" target="weibo">
-黑马情侣提车（热度：665215）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AB%A1%E6%A0%A1%E9%95%BF%23" target="weibo">
+嫡校长（热度：665166）
 </a>
 </li>
 
@@ -143,6 +149,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%82%E5%8F%AF%E4%BB%A5%E8%87%AA%E6%9B%9D%E5%9C%A8%E5%A5%B3%E5%9B%A2%E8%A2%AB%E9%9B%86%E4%BD%93%E9%9C%B8%E5%87%8C%23" target="weibo">
 聂可以自曝在女团被集体霸凌（热度：631446）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E7%9C%9F%E7%9A%84%E8%B6%85%E7%BA%A7%E9%87%8D%E8%A6%81%23" target="weibo">
+睡眠真的超级重要（热度：620227）
 </a>
 </li>
 
@@ -171,14 +183,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%23" target="weibo">
+迪丽热巴 枭起青壤（热度：549545）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E6%89%9B%E5%89%A7%23" target="weibo">
 赵丽颖 扛剧（热度：535015）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E7%9C%9F%E7%9A%84%E8%B6%85%E7%BA%A7%E9%87%8D%E8%A6%81%23" target="weibo">
-睡眠真的超级重要（热度：529346）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%9A%E5%87%BA%E8%BD%A8%E7%9A%84%E4%BA%BA%E6%98%AF%E6%94%B9%E4%B8%8D%E4%BA%86%E7%9A%84%23" target="weibo">
+会出轨的人是改不了的（热度：529044）
 </a>
 </li>
 
@@ -191,12 +209,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%88%B4%E4%BA%86%E5%A5%BD%E5%A4%9A%E6%89%8B%E4%B8%B2%23" target="weibo">
 杨幂戴了好多手串（热度：500303）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%23" target="weibo">
-迪丽热巴 枭起青壤（热度：497268）
 </a>
 </li>
 
@@ -237,6 +249,12 @@ HYBE将推出水溶性小卡（热度：485146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E4%E6%9C%88%E5%88%8A%E5%B0%81%E9%9D%A2%23" target="weibo">
+刘亦菲时尚芭莎4月刊封面（热度：419027）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%BA%A6%E8%BF%91%E8%A7%86%E7%9A%84%E4%BA%BA%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E8%BF%99%E5%9B%9B%E4%BB%B6%E4%BA%8B%23" target="weibo">
 高度近视的人需要注意这四件事（热度：407087）
 </a>
@@ -261,14 +279,26 @@ HYBE将推出水溶性小卡（热度：485146）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AB%A1%E6%A0%A1%E9%95%BF%23" target="weibo">
-嫡校长（热度：375964）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E5%BC%80%E6%9C%BA%23" target="weibo">
+枭起青壤开机（热度：391192）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E9%A1%B6%E5%B3%B0%E7%9B%B8%E8%A7%81%23" target="weibo">
+王楚钦孙颖莎顶峰相见（热度：370273）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9A%84%E5%B7%A6%E5%8F%B3%E8%84%B8%23" target="weibo">
 赵丽颖的左右脸（热度：365823）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8E%E5%87%A4%E8%A1%8C%E7%BB%BF%E5%B9%95%E6%89%93%E6%88%8F%E7%BA%AF%E4%BA%AB%23" target="weibo">
+赵丽颖与凤行绿幕打戏纯享（热度：349336）
 </a>
 </li>
 
@@ -285,14 +315,14 @@ HYBE将推出水溶性小卡（热度：485146）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%94%E7%8B%B2%E7%8B%B2%E5%A4%A7%E5%A8%98%E5%9B%A0%E7%97%85%E6%AD%BB%E4%BA%A1%23" target="weibo">
-兔狲狲大娘因病死亡（热度：342131）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E8%B4%A8%E9%97%AE%E6%9E%97%E6%9B%B4%E6%96%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%9B%9E%E6%B6%88%E6%81%AF%23" target="weibo">
+陈赫质问林更新为什么不回消息（热度：345055）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%9A%E5%87%BA%E8%BD%A8%E7%9A%84%E4%BA%BA%E6%98%AF%E6%94%B9%E4%B8%8D%E4%BA%86%E7%9A%84%23" target="weibo">
-会出轨的人是改不了的（热度：329261）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%94%E7%8B%B2%E7%8B%B2%E5%A4%A7%E5%A8%98%E5%9B%A0%E7%97%85%E6%AD%BB%E4%BA%A1%23" target="weibo">
+兔狲狲大娘因病死亡（热度：342131）
 </a>
 </li>
 
@@ -345,8 +375,14 @@ HYBE将推出水溶性小卡（热度：485146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%23" target="weibo">
+枭起青壤（热度：301320）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E5%90%8C%E6%A0%B7%E7%9D%A18%E5%B0%8F%E6%97%B6%E4%BA%BA%E4%B8%8E%E4%BA%BA%E7%B2%BE%E7%A5%9E%E5%A4%B4%E4%B8%8D%E4%B8%80%E6%A0%B7%23" target="weibo">
-为何同样睡8小时人与人精神头不一样（热度：295343）
+为何同样睡8小时人与人精神头不一样（热度：300532）
 </a>
 </li>
 
@@ -369,32 +405,20 @@ HYBE将推出水溶性小卡（热度：485146）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E4%E6%9C%88%E5%88%8A%E5%B0%81%E9%9D%A2%23" target="weibo">
-刘亦菲时尚芭莎4月刊封面（热度：275506）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%23" target="weibo">
-枭起青壤（热度：274147）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83%E6%9C%80%E5%BC%BAAI%E5%8A%A0%E9%80%9F%E5%8D%A1%23" target="weibo">
 英伟达发布最强AI加速卡（热度：272289）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%B9%B4%E5%90%8E%E5%AE%87%E6%96%87%E7%8E%A5%E8%A2%AB%E8%96%85%E5%A4%B4%E5%8F%91%E6%8D%9E%E4%B8%8A%E5%B2%B8%23" target="weibo">
-七年后宇文玥被薅头发捞上岸（热度：263361）
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BF%9D%E6%8A%A4%E5%BE%97%E5%A4%AA%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84%23" target="weibo">
+被保护得太好的人是怎样的（热度：267282）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E9%A1%B6%E5%B3%B0%E7%9B%B8%E8%A7%81%23" target="weibo">
-王楚钦孙颖莎顶峰相见（热度：245196）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%B9%B4%E5%90%8E%E5%AE%87%E6%96%87%E7%8E%A5%E8%A2%AB%E8%96%85%E5%A4%B4%E5%8F%91%E6%8D%9E%E4%B8%8A%E5%B2%B8%23" target="weibo">
+七年后宇文玥被薅头发捞上岸（热度：263361）
 </a>
 </li>
 
@@ -413,6 +437,12 @@ HYBE将推出水溶性小卡（热度：485146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%87%A4%E8%A1%8C%20%E5%96%9C%E5%89%A7%23" target="weibo">
 与凤行 喜剧（热度：241864）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%8F%91%E5%B8%8324%E7%A7%8D%E6%9C%AC%E7%A7%91%E6%96%B0%E5%A2%9E%E4%B8%93%E4%B8%9A%23" target="weibo">
+教育部发布24种本科新增专业（热度：236664）
 </a>
 </li>
 
@@ -459,12 +489,6 @@ WTT官员确认中国大满贯（热度：222821）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BF%9D%E6%8A%A4%E5%BE%97%E5%A4%AA%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84%23" target="weibo">
-被保护得太好的人是怎样的（热度：220065）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E6%96%8C%E8%92%8B%E5%8B%A4%E5%8B%A4%E7%89%B5%E6%89%8B%E7%9C%8B%E5%B1%95%23" target="weibo">
 陈建斌蒋勤勤牵手看展（热度：214298）
 </a>
@@ -501,14 +525,14 @@ gidle重返音放打歌（热度：210454）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E6%9E%97%E9%AB%98%E8%BF%9C%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%94%23" target="weibo">
-马龙林高远世界第五（热度：179925）
+<a href="https://s.weibo.com/weibo?q=%23Fate%E9%80%86%E8%A2%AD%23" target="weibo">
+Fate逆袭（热度：182174）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8E%E5%87%A4%E8%A1%8C%E7%BB%BF%E5%B9%95%E6%89%93%E6%88%8F%E7%BA%AF%E4%BA%AB%23" target="weibo">
-赵丽颖与凤行绿幕打戏纯享（热度：178206）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E6%9E%97%E9%AB%98%E8%BF%9C%E4%B8%96%E7%95%8C%E7%AC%AC%E4%BA%94%23" target="weibo">
+马龙林高远世界第五（热度：179925）
 </a>
 </li>
 
@@ -557,12 +581,6 @@ N1报名（热度：161728）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%87%A4%E8%A1%8C%E7%89%B9%E6%95%88%23" target="weibo">
 与凤行特效（热度：152334）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Fate%E9%80%86%E8%A2%AD%23" target="weibo">
-Fate逆袭（热度：150712）
 </a>
 </li>
 

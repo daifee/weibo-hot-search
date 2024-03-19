@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710814957132,
+  "endTime": 1710815645598,
   "band_list": [
     {
       "raw_hot": 8747332,
@@ -19,7 +19,7 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1462362,
+      "raw_hot": 1559353,
       "num": 580175,
       "word": "教育局通报学生捅伤老师跳楼事件",
       "onboard_time": 1710810574,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1212088,
+      "num": 1212088,
+      "word": "黑马情侣提车",
+      "onboard_time": 1710813874,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1176736,
       "num": 299949,
       "word": "山西19岁少年疑因多次卖血身亡",
@@ -59,7 +67,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1074099,
+      "raw_hot": 1129004,
       "num": 529502,
       "word": "山东多名男生往一男生嘴里塞垃圾",
       "onboard_time": 1710811593,
@@ -155,12 +163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 665215,
-      "num": 665215,
-      "word": "黑马情侣提车",
-      "onboard_time": 1710813874,
-      "rank": 49,
-      "category": "网红"
+      "raw_hot": 665166,
+      "num": 451544,
+      "word": "嫡校长",
+      "onboard_time": 1710813933,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 658904,
@@ -177,6 +185,14 @@
       "onboard_time": 1710809256,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 620227,
+      "num": 529346,
+      "word": "睡眠真的超级重要",
+      "onboard_time": 1710811772,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 617641,
@@ -211,6 +227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 549545,
+      "num": 549545,
+      "word": "迪丽热巴 枭起青壤",
+      "onboard_time": 1710774815,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 535015,
       "num": 535015,
       "word": "赵丽颖 扛剧",
@@ -219,12 +243,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 529346,
-      "num": 529346,
-      "word": "睡眠真的超级重要",
-      "onboard_time": 1710811772,
-      "rank": 48,
-      "category": "健康医疗"
+      "raw_hot": 529044,
+      "num": 426389,
+      "word": "会出轨的人是改不了的",
+      "onboard_time": 1710814411,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 502077,
@@ -241,14 +265,6 @@
       "onboard_time": 1710770079,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 497268,
-      "num": 497268,
-      "word": "迪丽热巴 枭起青壤",
-      "onboard_time": 1710774815,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 485146,
@@ -299,6 +315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 419027,
+      "num": 419027,
+      "word": "刘亦菲时尚芭莎4月刊封面",
+      "onboard_time": 1710814652,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 407087,
       "num": 276901,
       "word": "高度近视的人需要注意这四件事",
@@ -331,12 +355,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 375964,
-      "num": 375964,
-      "word": "嫡校长",
-      "onboard_time": 1710813933,
+      "raw_hot": 391192,
+      "num": 391192,
+      "word": "枭起青壤开机",
+      "onboard_time": 1710815315,
       "rank": 17,
-      "category": "幽默"
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 370273,
+      "num": 370273,
+      "word": "王楚钦孙颖莎顶峰相见",
+      "onboard_time": 1710814231,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 365823,
@@ -344,6 +376,14 @@
       "word": "赵丽颖的左右脸",
       "onboard_time": 1710767915,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 349336,
+      "num": 349336,
+      "word": "赵丽颖与凤行绿幕打戏纯享",
+      "onboard_time": 1710814829,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -363,20 +403,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 345055,
+      "num": 345055,
+      "word": "陈赫质问林更新为什么不回消息",
+      "onboard_time": 1710814954,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 342131,
       "num": 342131,
       "word": "兔狲狲大娘因病死亡",
       "onboard_time": 1710807092,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329261,
-      "num": 235309,
-      "word": "会出轨的人是改不了的",
-      "onboard_time": 1710814411,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 326401,
@@ -443,8 +483,16 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 295343,
-      "num": 295343,
+      "raw_hot": 301320,
+      "num": 301320,
+      "word": "枭起青壤",
+      "onboard_time": 1710806133,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 300532,
+      "num": 300532,
       "word": "为何同样睡8小时人与人精神头不一样",
       "onboard_time": 1710813574,
       "rank": 45,
@@ -475,22 +523,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 275506,
-      "num": 275506,
-      "word": "刘亦菲时尚芭莎4月刊封面",
-      "onboard_time": 1710814652,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 274147,
-      "num": 274147,
-      "word": "枭起青壤",
-      "onboard_time": 1710806133,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 272289,
       "num": 272289,
       "word": "英伟达发布最强AI加速卡",
@@ -499,20 +531,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 267282,
+      "num": 249493,
+      "word": "被保护得太好的人是怎样的",
+      "onboard_time": 1710814411,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 263361,
       "num": 263361,
       "word": "七年后宇文玥被薅头发捞上岸",
       "onboard_time": 1710805169,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 245196,
-      "num": 245196,
-      "word": "王楚钦孙颖莎顶峰相见",
-      "onboard_time": 1710814231,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 243852,
@@ -537,6 +569,14 @@
       "onboard_time": 1710773857,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236664,
+      "num": 236664,
+      "word": "教育部发布24种本科新增专业",
+      "onboard_time": 1710815196,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 232050,
@@ -595,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220065,
-      "num": 220065,
-      "word": "被保护得太好的人是怎样的",
-      "onboard_time": 1710814411,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 214298,
       "num": 214298,
       "word": "陈建斌蒋勤勤牵手看展",
@@ -651,20 +683,20 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 182174,
+      "num": 182174,
+      "word": "Fate逆袭",
+      "onboard_time": 1710814829,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 179925,
       "num": 179925,
       "word": "马龙林高远世界第五",
       "onboard_time": 1710810758,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178206,
-      "num": 178206,
-      "word": "赵丽颖与凤行绿幕打戏纯享",
-      "onboard_time": 1710814829,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 175057,
@@ -729,14 +761,6 @@
       "onboard_time": 1710764493,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150712,
-      "num": 150712,
-      "word": "Fate逆袭",
-      "onboard_time": 1710814829,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 148407,
