@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710848069328,
+  "endTime": 1710851496218,
   "band_list": [
     {
       "raw_hot": 8747332,
@@ -169,6 +169,14 @@
       "onboard_time": 1710834873,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1197262,
+      "num": 1197262,
+      "word": "纪凌尘他做到了",
+      "onboard_time": 1710847054,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1176736,
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 750583,
+      "num": 750583,
+      "word": "请回答1988善宇近照",
+      "onboard_time": 1710846513,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 731829,
       "num": 487927,
       "word": "会出轨的人是改不了的",
@@ -555,14 +571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 590246,
-      "num": 590246,
-      "word": "纪凌尘他做到了",
-      "onboard_time": 1710847054,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 585408,
       "num": 585408,
       "word": "王海称小杨哥和东方甄选或明知槽头扣肉",
@@ -579,12 +587,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 583294,
+      "num": 583294,
+      "word": "花间令低开高走",
+      "onboard_time": 1710848493,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 577177,
       "num": 577177,
       "word": "早上六点起床跟八点起床的区别",
       "onboard_time": 1710761014,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 569904,
+      "num": 356130,
+      "word": "赵丽颖说王梓薇太瘦了",
+      "onboard_time": 1710849032,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 566369,
@@ -779,6 +803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 431490,
+      "num": 431490,
+      "word": "LGD战胜WBG",
+      "onboard_time": 1710849456,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 430807,
       "num": 430807,
       "word": "与凤行丫鬟的精神状态",
@@ -811,14 +843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 424240,
-      "num": 424240,
-      "word": "请回答1988善宇近照",
-      "onboard_time": 1710846513,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 419428,
       "num": 419428,
       "word": "特斯拉市值一夜涨超2364亿",
@@ -841,6 +865,14 @@
       "onboard_time": 1710831090,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 408766,
+      "num": 352470,
+      "word": "杨倩无缘巴黎奥运",
+      "onboard_time": 1710851432,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 408253,
@@ -947,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362475,
+      "num": 362475,
+      "word": "淀粉肠",
+      "onboard_time": 1710847472,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 349336,
       "num": 349336,
       "word": "赵丽颖与凤行绿幕打戏纯享",
@@ -987,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 343506,
+      "num": 343506,
+      "word": "武大声明",
+      "onboard_time": 1710850354,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 342131,
       "num": 342131,
       "word": "兔狲狲大娘因病死亡",
@@ -1003,20 +1051,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 338112,
-      "num": 338112,
-      "word": "淀粉肠",
-      "onboard_time": 1710847472,
-      "rank": 21,
-      "category": "美食"
-    },
-    {
       "raw_hot": 337911,
       "num": 337911,
       "word": "小米2023年营收2709.7亿",
       "onboard_time": 1710842192,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 331852,
+      "num": 331852,
+      "word": "与凤行",
+      "onboard_time": 1710720272,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 331236,
@@ -1056,14 +1104,6 @@
       "word": "湖南卫视开始了",
       "onboard_time": 1710764851,
       "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 323012,
-      "num": 289495,
-      "word": "与凤行",
-      "onboard_time": 1710720272,
-      "rank": 20,
       "category": "剧集"
     },
     {
@@ -1123,12 +1163,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 312580,
+      "num": 312580,
+      "word": "迪丽热巴ins已认证",
+      "onboard_time": 1710848194,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310624,
       "num": 310624,
       "word": "恋与制作人卡面",
       "onboard_time": 1710822037,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 309374,
+      "num": 362006,
+      "word": "台州一高校汽车撞人肇事司机已被控制",
+      "onboard_time": 1710847472,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 308266,
@@ -1185,6 +1241,30 @@
       "onboard_time": 1710813574,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 298144,
+      "num": 298144,
+      "word": "2大学生合买2张彩票中20万后1人不认账",
+      "onboard_time": 1710850535,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293743,
+      "num": 293743,
+      "word": "火锅店回应男孩拿公勺喝香油",
+      "onboard_time": 1710848493,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289378,
+      "num": 289378,
+      "word": "刘学义演技",
+      "onboard_time": 1710850594,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 289004,
@@ -1307,12 +1387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 248277,
-      "num": 346767,
-      "word": "台州一高校汽车撞人肇事司机已被控制",
-      "onboard_time": 1710847472,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 253580,
+      "num": 253580,
+      "word": "顺手毁掉一个家原来这么简单",
+      "onboard_time": 1710847714,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 248004,
@@ -1417,6 +1497,22 @@
       "onboard_time": 1710825937,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236027,
+      "num": 214844,
+      "word": "朱梓骁 纪凌尘是我的贵人",
+      "onboard_time": 1710850294,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 234395,
+      "num": 234395,
+      "word": "许家印",
+      "onboard_time": 1710849216,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 232050,
@@ -1531,6 +1627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220191,
+      "num": 220191,
+      "word": "YSL男模",
+      "onboard_time": 1710849574,
+      "rank": 28,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 219560,
       "num": 219560,
       "word": "给J人一点P人的小小震撼",
@@ -1585,6 +1689,14 @@
       "onboard_time": 1710813031,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213016,
+      "num": 213016,
+      "word": "天天洗头为什么头发还是很油",
+      "onboard_time": 1710848673,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 210454,
@@ -1731,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196518,
+      "num": 196518,
+      "word": "阴阳师",
+      "onboard_time": 1710851195,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 195497,
       "num": 195497,
       "word": "小日子 异地恋是个巨大的醋厂",
@@ -1851,6 +1971,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 184832,
+      "num": 184832,
+      "word": "迪丽热巴陈星旭怎么鬼鬼祟祟的",
+      "onboard_time": 1710850176,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184550,
       "num": 184550,
       "word": "Tods集团去年净利翻番",
@@ -1875,6 +2003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 181626,
+      "num": 181626,
+      "word": "无畏回应小作文作假",
+      "onboard_time": 1710850775,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 179925,
       "num": 179925,
       "word": "马龙林高远世界第五",
@@ -1889,14 +2025,6 @@
       "onboard_time": 1710829113,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 177377,
-      "num": 177377,
-      "word": "顺手毁掉一个家原来这么简单",
-      "onboard_time": 1710847714,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 177140,
@@ -1977,6 +2105,14 @@
       "onboard_time": 1710818073,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171093,
+      "num": 171093,
+      "word": "王源情绪好稳定",
+      "onboard_time": 1710850415,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 169923,
@@ -2131,6 +2267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157259,
+      "num": 157259,
+      "word": "你们和男朋友出去旅游AA吗",
+      "onboard_time": 1710851432,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156983,
       "num": 156983,
       "word": "赵丽颖脖子上的青筋",
@@ -2225,6 +2369,14 @@
       "onboard_time": 1710836374,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 150023,
+      "num": 150023,
+      "word": "台州",
+      "onboard_time": 1710848133,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149903,
@@ -2499,6 +2651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 109721,
+      "num": 109721,
+      "word": "莽小五的大飞机被收了",
+      "onboard_time": 1710849332,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105262,
       "num": 121391,
       "word": "隔着屏幕闻到小狗味了",
@@ -2513,6 +2673,14 @@
       "onboard_time": 1710766173,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104589,
+      "num": 104589,
+      "word": "代号鸢地宫",
+      "onboard_time": 1710849873,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 100900,
@@ -2689,6 +2857,14 @@
       "onboard_time": 1710824017,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 54495,
+      "num": 804860,
+      "word": "认识你真好",
+      "onboard_time": 1710834813,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52695,
