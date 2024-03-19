@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710815645598,
+  "endTime": 1710818304669,
   "band_list": [
     {
       "raw_hot": 8747332,
@@ -27,6 +27,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1536148,
+      "num": 1536148,
+      "word": "嫡校长",
+      "onboard_time": 1710813933,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1536025,
+      "num": 1536025,
+      "word": "黑马情侣提车",
+      "onboard_time": 1710813874,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1300358,
       "num": 297704,
       "word": "初中生遭15人围殴反击刺伤3人",
@@ -51,14 +67,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1212088,
-      "num": 1212088,
-      "word": "黑马情侣提车",
-      "onboard_time": 1710813874,
-      "rank": 49,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1176736,
       "num": 299949,
       "word": "山西19岁少年疑因多次卖血身亡",
@@ -73,6 +81,14 @@
       "onboard_time": 1710811593,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1109340,
+      "num": 1109340,
+      "word": "陈赫质问林更新为什么不回消息",
+      "onboard_time": 1710814954,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 980943,
@@ -147,6 +163,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 737816,
+      "num": 737816,
+      "word": "教育部发布24种本科新增专业",
+      "onboard_time": 1710815196,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 731829,
+      "num": 487927,
+      "word": "会出轨的人是改不了的",
+      "onboard_time": 1710814411,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 729816,
       "num": 729816,
       "word": "郑合惠子刘学义能二搭吗",
@@ -163,20 +195,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 665166,
-      "num": 451544,
-      "word": "嫡校长",
-      "onboard_time": 1710813933,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 658904,
       "num": 658904,
       "word": "比酒精还厉害的肝脏刺客",
       "onboard_time": 1710767192,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 642636,
+      "num": 642636,
+      "word": "枭起青壤开机",
+      "onboard_time": 1710815315,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 640951,
+      "num": 640951,
+      "word": "男子被流浪猫绊倒投喂者赔24万",
+      "onboard_time": 1710816755,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 631446,
@@ -243,14 +283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 529044,
-      "num": 426389,
-      "word": "会出轨的人是改不了的",
-      "onboard_time": 1710814411,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 502077,
       "num": 502077,
       "word": "警方回应网传一中学生捅伤老师后跳楼",
@@ -281,6 +313,14 @@
       "onboard_time": 1710809137,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 480983,
+      "num": 480983,
+      "word": "迪丽热巴复古皮衣",
+      "onboard_time": 1710815912,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 473472,
@@ -323,6 +363,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 408253,
+      "num": 408253,
+      "word": "王楚钦孙颖莎顶峰相见",
+      "onboard_time": 1710814231,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 407087,
       "num": 276901,
       "word": "高度近视的人需要注意这四件事",
@@ -353,22 +401,6 @@
       "onboard_time": 1710805471,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 391192,
-      "num": 391192,
-      "word": "枭起青壤开机",
-      "onboard_time": 1710815315,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 370273,
-      "num": 370273,
-      "word": "王楚钦孙颖莎顶峰相见",
-      "onboard_time": 1710814231,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 365823,
@@ -403,20 +435,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 345055,
-      "num": 345055,
-      "word": "陈赫质问林更新为什么不回消息",
-      "onboard_time": 1710814954,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 342131,
       "num": 342131,
       "word": "兔狲狲大娘因病死亡",
       "onboard_time": 1710807092,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338447,
+      "num": 266900,
+      "word": "大家最烦室友在寝室干嘛",
+      "onboard_time": 1710816271,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 326401,
@@ -475,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302087,
+      "num": 265807,
+      "word": "被保护得太好的人是怎样的",
+      "onboard_time": 1710814411,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 301362,
       "num": 301362,
       "word": "近60%人群存在失眠问题",
@@ -531,11 +571,19 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 267282,
-      "num": 249493,
-      "word": "被保护得太好的人是怎样的",
-      "onboard_time": 1710814411,
-      "rank": 33,
+      "raw_hot": 268449,
+      "num": 268449,
+      "word": "反向消费有多爽",
+      "onboard_time": 1710817952,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 264310,
+      "num": 264310,
+      "word": "因为装修意见不合离婚了",
+      "onboard_time": 1710817234,
+      "rank": 22,
       "category": "情感"
     },
     {
@@ -571,12 +619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236664,
-      "num": 236664,
-      "word": "教育部发布24种本科新增专业",
-      "onboard_time": 1710815196,
-      "rank": 31,
-      "category": "教育"
+      "raw_hot": 240712,
+      "num": 240712,
+      "word": "V社宣布推出Steam家庭",
+      "onboard_time": 1710816452,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 232050,
@@ -667,6 +715,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201139,
+      "num": 201139,
+      "word": "烈焰新浪扫楼",
+      "onboard_time": 1710817892,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192552,
+      "num": 192552,
+      "word": "每天睡多久最好因人而异",
+      "onboard_time": 1710815912,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 190682,
       "num": 190682,
       "word": "甘肃天水连早餐都是红油辣子",
@@ -739,12 +803,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159256,
+      "num": 159256,
+      "word": "迪丽热巴陈星旭都是浓颜",
+      "onboard_time": 1710818190,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158752,
+      "num": 158752,
+      "word": "全网内拴绳的猫咪都是大佬",
+      "onboard_time": 1710817050,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158386,
       "num": 158386,
       "word": "文化人骂人就是不一样",
       "onboard_time": 1710809980,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152731,
+      "num": 152731,
+      "word": "张俪官宣枭起青壤",
+      "onboard_time": 1710818073,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 152729,
@@ -795,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140823,
+      "num": 140823,
+      "word": "赵丽颖沈璃V榜登顶",
+      "onboard_time": 1710817171,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136577,
       "num": 121409,
       "word": "金智媛哭戏",
@@ -841,6 +937,22 @@
       "onboard_time": 1710774634,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 127423,
+      "num": 127423,
+      "word": "王曼昱女单世界第二",
+      "onboard_time": 1710815790,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127203,
+      "num": 127203,
+      "word": "爱德华兹隔扣",
+      "onboard_time": 1710818253,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 121415,
@@ -948,7 +1060,7 @@
     },
     {
       "raw_hot": 84924,
-      "num": 1021272,
+      "num": 1237640,
       "word": "这是一堂生动的思政课",
       "onboard_time": 1710767192,
       "rank": 2,

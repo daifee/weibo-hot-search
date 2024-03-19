@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710815645598,
+  "endTime": 1710818304669,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1795,6 +1795,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1536148,
+      "num": 1536148,
+      "word": "嫡校长",
+      "onboard_time": 1710813933,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1536025,
+      "num": 1536025,
+      "word": "黑马情侣提车",
+      "onboard_time": 1710813874,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1533142,
       "num": 1533142,
       "word": "曼谷夜市现烤小臂一样长的大虾",
@@ -2947,14 +2963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1212088,
-      "num": 1212088,
-      "word": "黑马情侣提车",
-      "onboard_time": 1710813874,
-      "rank": 49,
-      "category": "网红"
-    },
-    {
       "raw_hot": 1210756,
       "num": 1210756,
       "word": "接下来两个月是养乳腺的好时机",
@@ -3505,6 +3513,14 @@
       "onboard_time": 1710717566,
       "rank": 11,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1109340,
+      "num": 1109340,
+      "word": "陈赫质问林更新为什么不回消息",
+      "onboard_time": 1710814954,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 1107377,
@@ -6827,6 +6843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 737816,
+      "num": 737816,
+      "word": "教育部发布24种本科新增专业",
+      "onboard_time": 1710815196,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 736470,
       "num": 736470,
       "word": "杭州小伙买100万黄金一年赚50%",
@@ -6937,6 +6961,14 @@
       "onboard_time": 1710731435,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 731829,
+      "num": 487927,
+      "word": "会出轨的人是改不了的",
+      "onboard_time": 1710814411,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 731551,
@@ -8011,14 +8043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 665166,
-      "num": 451544,
-      "word": "嫡校长",
-      "onboard_time": 1710813933,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 664901,
       "num": 664901,
       "word": "2024奥斯卡颁奖典礼",
@@ -8499,6 +8523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 642636,
+      "num": 642636,
+      "word": "枭起青壤开机",
+      "onboard_time": 1710815315,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 641463,
       "num": 641463,
       "word": "为什么退烧没几天又发烧了",
@@ -8513,6 +8545,14 @@
       "onboard_time": 1709390795,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 640951,
+      "num": 640951,
+      "word": "男子被流浪猫绊倒投喂者赔24万",
+      "onboard_time": 1710816755,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 640652,
@@ -11059,14 +11099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 529044,
-      "num": 426389,
-      "word": "会出轨的人是改不了的",
-      "onboard_time": 1710814411,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 528656,
       "num": 528656,
       "word": "陈芋汐10米台冠军",
@@ -12497,6 +12529,14 @@
       "onboard_time": 1710809137,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 480983,
+      "num": 480983,
+      "word": "迪丽热巴复古皮衣",
+      "onboard_time": 1710815912,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 480472,
@@ -15019,6 +15059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 408253,
+      "num": 408253,
+      "word": "王楚钦孙颖莎顶峰相见",
+      "onboard_time": 1710814231,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 408251,
       "num": 303790,
       "word": "真没必要为三五年后的前途担忧",
@@ -15665,14 +15713,6 @@
       "onboard_time": 1709453071,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 391192,
-      "num": 391192,
-      "word": "枭起青壤开机",
-      "onboard_time": 1710815315,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 390462,
@@ -16561,14 +16601,6 @@
       "onboard_time": 1709534190,
       "rank": 15,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 370273,
-      "num": 370273,
-      "word": "王楚钦孙颖莎顶峰相见",
-      "onboard_time": 1710814231,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 369786,
@@ -17635,14 +17667,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 345055,
-      "num": 345055,
-      "word": "陈赫质问林更新为什么不回消息",
-      "onboard_time": 1710814954,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 344645,
       "num": 344645,
       "word": "伦纳德退出比赛",
@@ -17961,6 +17985,14 @@
       "onboard_time": 1710146552,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 338447,
+      "num": 266900,
+      "word": "大家最烦室友在寝室干嘛",
+      "onboard_time": 1710816271,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 338126,
@@ -19800,6 +19832,14 @@
       "word": "小县城最好听的名字",
       "onboard_time": 1710760714,
       "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 302087,
+      "num": 265807,
+      "word": "被保护得太好的人是怎样的",
+      "onboard_time": 1710814411,
+      "rank": 33,
       "category": "情感"
     },
     {
@@ -22019,6 +22059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268449,
+      "num": 268449,
+      "word": "反向消费有多爽",
+      "onboard_time": 1710817952,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 268257,
       "num": 268257,
       "word": "iOS17.4",
@@ -22089,14 +22137,6 @@
       "onboard_time": 1709379989,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 267282,
-      "num": 249493,
-      "word": "被保护得太好的人是怎样的",
-      "onboard_time": 1710814411,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 267161,
@@ -22289,6 +22329,14 @@
       "onboard_time": 1710444557,
       "rank": 49,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 264310,
+      "num": 264310,
+      "word": "因为装修意见不合离婚了",
+      "onboard_time": 1710817234,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 264280,
@@ -24331,6 +24379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240712,
+      "num": 240712,
+      "word": "V社宣布推出Steam家庭",
+      "onboard_time": 1710816452,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240696,
       "num": 240696,
       "word": "TTG发布说明",
@@ -24697,14 +24753,6 @@
       "onboard_time": 1709718329,
       "rank": 16,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 236664,
-      "num": 236664,
-      "word": "教育部发布24种本科新增专业",
-      "onboard_time": 1710815196,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 236623,
@@ -29371,6 +29419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201139,
+      "num": 201139,
+      "word": "烈焰新浪扫楼",
+      "onboard_time": 1710817892,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201121,
       "num": 243278,
       "word": "CBA",
@@ -31152,6 +31208,14 @@
       "word": "春季长个黄金期的几个建议",
       "onboard_time": 1710561577,
       "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 192552,
+      "num": 192552,
+      "word": "每天睡多久最好因人而异",
+      "onboard_time": 1710815912,
+      "rank": 31,
       "category": "健康医疗"
     },
     {
@@ -37347,6 +37411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159256,
+      "num": 159256,
+      "word": "迪丽热巴陈星旭都是浓颜",
+      "onboard_time": 1710818190,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159230,
       "num": 159230,
       "word": "HAHA想要的爱豆公开恋爱的方式",
@@ -37529,6 +37601,14 @@
       "onboard_time": 1709258609,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158752,
+      "num": 158752,
+      "word": "全网内拴绳的猫咪都是大佬",
+      "onboard_time": 1710817050,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 158638,
@@ -38881,6 +38961,14 @@
       "onboard_time": 1710397595,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152731,
+      "num": 152731,
+      "word": "张俪官宣枭起青壤",
+      "onboard_time": 1710818073,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 152719,
@@ -41345,6 +41433,14 @@
       "onboard_time": 1709463031,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140823,
+      "num": 140823,
+      "word": "赵丽颖沈璃V榜登顶",
+      "onboard_time": 1710817171,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 140793,
@@ -44227,6 +44323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127423,
+      "num": 127423,
+      "word": "王曼昱女单世界第二",
+      "onboard_time": 1710815790,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127371,
       "num": 127371,
       "word": "狗狗犯错后道歉的方式",
@@ -44265,6 +44369,14 @@
       "onboard_time": 1710518794,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127203,
+      "num": 127203,
+      "word": "爱德华兹隔扣",
+      "onboard_time": 1710818253,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 127174,
