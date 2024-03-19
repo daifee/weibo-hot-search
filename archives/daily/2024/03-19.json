@@ -1,7 +1,23 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710804857351,
+  "endTime": 1710810719426,
   "band_list": [
+    {
+      "raw_hot": 8747332,
+      "num": 759937,
+      "word": "邯郸初中生被害案嫌犯为有预谋作案",
+      "onboard_time": 1710807393,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2500936,
+      "num": 2500936,
+      "word": "凯特王妃疑术后首次露面",
+      "onboard_time": 1710808597,
+      "rank": 0,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 1300358,
       "num": 297704,
@@ -11,12 +27,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1225304,
+      "num": 1225304,
+      "word": "李惠利吴世勋裴秀智毕业合照",
+      "onboard_time": 1710807754,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1176736,
       "num": 299949,
       "word": "山西19岁少年疑因多次卖血身亡",
       "onboard_time": 1710771635,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 980943,
+      "num": 980943,
+      "word": "凯特",
+      "onboard_time": 1710805652,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 980865,
+      "num": 980865,
+      "word": "睡醒之后一定要改掉这4个坏习惯",
+      "onboard_time": 1710803004,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 974176,
@@ -35,8 +75,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 869004,
+      "num": 869004,
+      "word": "蜜雪冰城回应涨价1元尚未全国推广",
+      "onboard_time": 1710804688,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 828364,
-      "num": 281303,
+      "num": 311531,
       "word": "凯特多位朋友发声",
       "onboard_time": 1710764734,
       "rank": 18,
@@ -60,11 +108,27 @@
     },
     {
       "raw_hot": 712272,
-      "num": 278913,
+      "num": 690878,
       "word": "她和智障哥哥唯一合照是陌生人拍的",
       "onboard_time": 1710803004,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 683814,
+      "num": 683814,
+      "word": "郑俊英出狱",
+      "onboard_time": 1710809619,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 681669,
+      "num": 681669,
+      "word": "苹果称128GB的iPhone也有充裕空间",
+      "onboard_time": 1710807938,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 658904,
@@ -75,12 +139,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 656042,
+      "num": 656042,
+      "word": "世界排名王楚钦三项第一",
+      "onboard_time": 1710809378,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 617641,
       "num": 617641,
       "word": "英国白金汉宫否认国王去世",
       "onboard_time": 1710771819,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 583506,
+      "num": 583506,
+      "word": "毕竟是九亿少女的梦",
+      "onboard_time": 1710771217,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 577177,
@@ -97,6 +177,22 @@
       "onboard_time": 1710770855,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 505100,
+      "num": 505100,
+      "word": "聂可以自曝在女团被集体霸凌",
+      "onboard_time": 1710809256,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 502077,
+      "num": 502077,
+      "word": "警方回应网传一中学生捅伤老师后跳楼",
+      "onboard_time": 1710805349,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 500303,
@@ -123,14 +219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 438995,
-      "num": 158171,
-      "word": "睡醒之后一定要改掉这4个坏习惯",
-      "onboard_time": 1710803004,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 434913,
       "num": 293569,
       "word": "审判与凤行",
@@ -147,12 +235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 417338,
-      "num": 417338,
-      "word": "毕竟是九亿少女的梦",
-      "onboard_time": 1710771217,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 419428,
+      "num": 419428,
+      "word": "特斯拉市值一夜涨超2364亿",
+      "onboard_time": 1710804266,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 407087,
@@ -161,6 +249,30 @@
       "onboard_time": 1710788357,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 401856,
+      "num": 401856,
+      "word": "饲养员用铁锨驱打大熊猫已被辞退",
+      "onboard_time": 1710805711,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398617,
+      "num": 398617,
+      "word": "梅西退出阿根廷队美国热身赛",
+      "onboard_time": 1710809137,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 398427,
+      "num": 398427,
+      "word": "与凤行弹幕比凤凰更碎嘴",
+      "onboard_time": 1710805471,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 365823,
@@ -179,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 342131,
+      "num": 342131,
+      "word": "兔狲狲大娘因病死亡",
+      "onboard_time": 1710807092,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326401,
       "num": 282143,
       "word": "戴安娜王妃弟弟就凯特阴谋论发声",
@@ -195,12 +315,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323042,
+      "num": 323042,
+      "word": "为什么朋友圈会设置三天可见",
+      "onboard_time": 1710809860,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 323012,
       "num": 281470,
       "word": "与凤行",
       "onboard_time": 1710720272,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321280,
+      "num": 321280,
+      "word": "卫健委回应19岁少年疑卖血后猝死",
+      "onboard_time": 1710805652,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320320,
@@ -211,12 +347,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 317836,
+      "num": 317836,
+      "word": "千万不要领考场门口的手表",
+      "onboard_time": 1710776432,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 302929,
       "num": 302929,
       "word": "淀粉肠生产企业董事长直播吃淀粉肠",
       "onboard_time": 1710763890,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295630,
+      "num": 235883,
+      "word": "吸血鬼为什么都是有钱人",
+      "onboard_time": 1710810277,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 288777,
@@ -251,20 +403,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 263361,
+      "num": 263361,
+      "word": "七年后宇文玥被薅头发捞上岸",
+      "onboard_time": 1710805169,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 243003,
+      "num": 243003,
+      "word": "小桃又演小桃",
+      "onboard_time": 1710767558,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241864,
       "num": 222317,
       "word": "与凤行 喜剧",
       "onboard_time": 1710773857,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234442,
-      "num": 234442,
-      "word": "千万不要领考场门口的手表",
-      "onboard_time": 1710776432,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 232050,
@@ -275,12 +435,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 224478,
+      "num": 224478,
+      "word": "马斯克回应服用K粉",
+      "onboard_time": 1710808776,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 223796,
       "num": 150672,
       "word": "英王室不回应凯特之谜的两种可能",
       "onboard_time": 1710797836,
       "rank": 30,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 222821,
+      "num": 222821,
+      "word": "WTT官员确认中国大满贯",
+      "onboard_time": 1710805289,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 220221,
+      "num": 220221,
+      "word": "秦岭大熊猫研究中心道歉",
+      "onboard_time": 1710807393,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202321,
@@ -291,12 +475,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177308,
-      "num": 177308,
-      "word": "小桃又演小桃",
-      "onboard_time": 1710767558,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 190682,
+      "num": 190682,
+      "word": "甘肃天水连早餐都是红油辣子",
+      "onboard_time": 1710804627,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 173955,
+      "num": 173955,
+      "word": "教育局通报学生捅伤老师跳楼事件",
+      "onboard_time": 1710810574,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167196,
+      "num": 167196,
+      "word": "苹果4月或推出新款iPad",
+      "onboard_time": 1710810217,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 161728,
@@ -331,12 +531,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150172,
+      "num": 150172,
+      "word": "文化人骂人就是不一样",
+      "onboard_time": 1710809980,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 149614,
+      "num": 149614,
+      "word": "渐渐的体会到了有车的快乐",
+      "onboard_time": 1710810456,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148407,
       "num": 148407,
       "word": "谁给林更新画的眼影",
       "onboard_time": 1710775417,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147200,
+      "num": 147200,
+      "word": "樱花树下站谁都美",
+      "onboard_time": 1710808235,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 146512,
@@ -401,14 +625,6 @@
       "onboard_time": 1710774634,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 125435,
-      "num": 125435,
-      "word": "特斯拉市值一夜涨超2364亿",
-      "onboard_time": 1710804266,
-      "rank": 26,
-      "category": "财经"
     },
     {
       "raw_hot": 121415,
@@ -499,14 +715,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 86667,
-      "num": 86667,
-      "word": "甘肃天水连早餐都是红油辣子",
-      "onboard_time": 1710804627,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 86445,
       "num": 121369,
       "word": "英国王室",
@@ -521,6 +729,14 @@
       "onboard_time": 1710804627,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 84924,
+      "num": 1002446,
+      "word": "这是一堂生动的思政课",
+      "onboard_time": 1710767192,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83370,
@@ -577,14 +793,6 @@
       "onboard_time": 1710785897,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73197,
-      "num": 73197,
-      "word": "蜜雪冰城回应涨价1元尚未全国推广",
-      "onboard_time": 1710804688,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 70637,
@@ -657,14 +865,6 @@
       "onboard_time": 1710786377,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 32789,
-      "num": 572977,
-      "word": "这是一堂生动的思政课",
-      "onboard_time": 1710767192,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32595,
