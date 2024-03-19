@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710866346584,
+  "endTime": 1710868574862,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -8929,6 +8929,14 @@
       "onboard_time": 1710752735,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 46659,
+      "num": 59147,
+      "word": "倒头就睡的6个方法",
+      "onboard_time": 1710868220,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 46092,
