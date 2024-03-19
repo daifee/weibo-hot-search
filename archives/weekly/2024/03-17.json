@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710826450413,
+  "endTime": 1710829304909,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -867,6 +867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 976706,
+      "num": 483540,
+      "word": "北大回应考生与前校长蔡元培同名",
+      "onboard_time": 1710827853,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 965053,
       "num": 379094,
       "word": "月薪四五千但很闲的工作",
@@ -1459,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644455,
+      "num": 644455,
+      "word": "洛杉矶偶遇贾玲",
+      "onboard_time": 1710828693,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 644189,
       "num": 644189,
       "word": "何悯鸿向渣男下跪",
@@ -1585,6 +1601,14 @@
       "onboard_time": 1710733834,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 600974,
+      "num": 398195,
+      "word": "台州一高校发生汽车冲撞行人事件",
+      "onboard_time": 1710825692,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 590748,
@@ -2203,6 +2227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 434545,
+      "num": 434545,
+      "word": "沈腾一家同框",
+      "onboard_time": 1710825993,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433192,
       "num": 433192,
       "word": "主办方公布梅西缺阵退款方案",
@@ -2248,6 +2280,14 @@
       "word": "刘学义上桌了",
       "onboard_time": 1710776552,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 428801,
+      "num": 428801,
+      "word": "迪丽热巴拉弓",
+      "onboard_time": 1710824916,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -2475,14 +2515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 398195,
-      "num": 398195,
-      "word": "台州一高校发生汽车冲撞行人事件",
-      "onboard_time": 1710825692,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 395752,
       "num": 395752,
       "word": "花间令 女主走路男主坐车",
@@ -2571,6 +2603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 383708,
+      "num": 383708,
+      "word": "沈阳一轿车冲入人行道致1死4伤",
+      "onboard_time": 1710825513,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382118,
       "num": 382118,
       "word": "张元英短发画报",
@@ -2651,6 +2691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 366113,
+      "num": 366113,
+      "word": "大侦探100案评分排名",
+      "onboard_time": 1710827794,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364243,
       "num": 364243,
       "word": "郑合惠子 不要捧一踩一",
@@ -2713,14 +2761,6 @@
       "onboard_time": 1710754470,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 349690,
-      "num": 349690,
-      "word": "迪丽热巴拉弓",
-      "onboard_time": 1710824916,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 349371,
@@ -3131,14 +3171,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 299410,
-      "num": 299410,
-      "word": "沈阳一轿车冲入人行道致1死4伤",
-      "onboard_time": 1710825513,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299320,
       "num": 299320,
       "word": "漫画家猪股睦美去世",
@@ -3313,6 +3345,14 @@
       "onboard_time": 1710766173,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279948,
+      "num": 241612,
+      "word": "1天1万的衣服值得吗",
+      "onboard_time": 1710828631,
+      "rank": 22,
+      "category": "时尚"
     },
     {
       "raw_hot": 279679,
@@ -3539,14 +3579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 258225,
-      "num": 258225,
-      "word": "沈腾一家同框",
-      "onboard_time": 1710825993,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257670,
       "num": 257670,
       "word": "是女儿是妈妈定档0319",
@@ -3755,6 +3787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 236610,
+      "num": 236610,
+      "word": "林更新九亿少女的梦是这么来的",
+      "onboard_time": 1710825937,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235118,
       "num": 235118,
       "word": "TES战胜WE",
@@ -3863,6 +3903,14 @@
       "num": 226676,
       "word": "李艾送闲置一送一个不吱声",
       "onboard_time": 1710753636,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 226005,
+      "num": 226005,
+      "word": "原来有人连哭都这么好看",
+      "onboard_time": 1710826955,
       "rank": 25,
       "category": "艺人"
     },
@@ -4033,6 +4081,14 @@
       "onboard_time": 1710646534,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 218818,
+      "num": 218818,
+      "word": "买车是一步到位还是先将就",
+      "onboard_time": 1710827314,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 218650,
@@ -4235,12 +4291,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 207339,
-      "num": 207339,
-      "word": "林更新九亿少女的梦是这么来的",
-      "onboard_time": 1710825937,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 207518,
+      "num": 207518,
+      "word": "丁子峻说赵丽颖太棒了",
+      "onboard_time": 1710828813,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 206346,
@@ -4329,6 +4385,14 @@
       "onboard_time": 1710637591,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203155,
+      "num": 191489,
+      "word": "老板克扣我的工资不给我怎么办",
+      "onboard_time": 1710828515,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 203131,
@@ -4731,6 +4795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189627,
+      "num": 189627,
+      "word": "王海晒槽头扣肉厂家和经销商对话",
+      "onboard_time": 1710826773,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 189390,
       "num": 189390,
       "word": "闺蜜问我是不是买了个新包包",
@@ -4785,6 +4857,14 @@
       "onboard_time": 1710671316,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187897,
+      "num": 187897,
+      "word": "小日子 异地恋是个巨大的醋厂",
+      "onboard_time": 1710828333,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 187414,
@@ -4937,6 +5017,14 @@
       "onboard_time": 1710826232,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 181371,
+      "num": 181371,
+      "word": "沈阳一轿车冲入人行道致3死2伤",
+      "onboard_time": 1710829053,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181003,
@@ -5097,6 +5185,14 @@
       "onboard_time": 1710763171,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174263,
+      "num": 174263,
+      "word": "潘杨之好的氛围感",
+      "onboard_time": 1710827373,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 174181,
@@ -5323,6 +5419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166109,
+      "num": 166109,
+      "word": "南部战区空军训练高清大图",
+      "onboard_time": 1710829053,
+      "rank": 38,
+      "category": "军事"
+    },
+    {
       "raw_hot": 165486,
       "num": 165486,
       "word": "侃爷洛杉矶仓库被盗损失达100万美元",
@@ -5393,6 +5497,14 @@
       "onboard_time": 1710674912,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162612,
+      "num": 191702,
+      "word": "一盘家常菜后半生都要靠透析维持",
+      "onboard_time": 1710826597,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 162510,
@@ -5843,6 +5955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147564,
+      "num": 147564,
+      "word": "给J人一点P人的小小震撼",
+      "onboard_time": 1710829053,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147237,
       "num": 147237,
       "word": "单双休的区别到底有多大",
@@ -6019,6 +6139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139428,
+      "num": 139428,
+      "word": "新说唱2024首次录制",
+      "onboard_time": 1710828034,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138754,
       "num": 138754,
       "word": "青海春天跌停",
@@ -6057,6 +6185,14 @@
       "onboard_time": 1710819212,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 137733,
+      "num": 137733,
+      "word": "朱劲草江海涛联手破案",
+      "onboard_time": 1710828392,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 137279,
@@ -6705,6 +6841,14 @@
       "onboard_time": 1710615200,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100900,
+      "num": 135003,
+      "word": "中国地理这本书又多读了1页",
+      "onboard_time": 1710826653,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 99462,
