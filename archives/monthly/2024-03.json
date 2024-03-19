@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710862449573,
+  "endTime": 1710865343685,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -5684,7 +5684,7 @@
     },
     {
       "raw_hot": 860454,
-      "num": 561526,
+      "num": 584454,
       "word": "想睡一觉躺挣5千结果进去了",
       "onboard_time": 1710859360,
       "rank": 10,
@@ -7329,6 +7329,14 @@
       "onboard_time": 1709867911,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 728693,
+      "num": 728693,
+      "word": "淀粉肠小王子日销售额涨超10倍",
+      "onboard_time": 1710859779,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 728267,
@@ -14923,6 +14931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 429713,
+      "num": 288463,
+      "word": "林更新录综艺cue了赵丽颖",
+      "onboard_time": 1710863493,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 429691,
       "num": 291090,
       "word": "刘学义上桌了",
@@ -15977,14 +15993,6 @@
       "onboard_time": 1710829355,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 402260,
-      "num": 402260,
-      "word": "淀粉肠小王子日销售额涨超10倍",
-      "onboard_time": 1710859779,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 402185,
@@ -24923,6 +24931,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 245539,
+      "num": 245539,
+      "word": "原来郑合惠子是单眼皮",
+      "onboard_time": 1710864509,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245536,
       "num": 245536,
       "word": "小S大女儿Elly近照",
@@ -30731,6 +30747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 201262,
+      "num": 201262,
+      "word": "百度地图 潘杨之好",
+      "onboard_time": 1710861755,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201239,
       "num": 201239,
       "word": "价格不低但利用率极低的家电",
@@ -33217,14 +33241,6 @@
       "onboard_time": 1710596316,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189671,
-      "num": 189671,
-      "word": "百度地图 潘杨之好",
-      "onboard_time": 1710861755,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 189631,
@@ -37953,6 +37969,14 @@
       "onboard_time": 1710653255,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165185,
+      "num": 165185,
+      "word": "迪丽热巴路透",
+      "onboard_time": 1710862714,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 165129,
@@ -49275,6 +49299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110602,
+      "num": 110602,
+      "word": "15岁双胞胎同被西交大少年班录取",
+      "onboard_time": 1710864031,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 110590,
       "num": 110590,
       "word": "一代人有一代人的主题婚礼",
@@ -50441,6 +50473,14 @@
       "onboard_time": 1709890230,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99705,
+      "num": 99705,
+      "word": "花间令妈妈疯了孩子没了",
+      "onboard_time": 1710864991,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 99462,
