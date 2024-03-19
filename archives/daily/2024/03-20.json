@@ -1,10 +1,10 @@
 {
   "startTime": 1710865343685,
-  "endTime": 1710890310155,
+  "endTime": 1710891269767,
   "band_list": [
     {
-      "raw_hot": 1137803,
-      "num": 270265,
+      "raw_hot": 1433129,
+      "num": 298189,
       "word": "女孩酒店房间里遭多人暴打侮辱",
       "onboard_time": 1710874277,
       "rank": 10,
@@ -35,6 +35,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 719691,
+      "num": 719691,
+      "word": "英媒发布凯特王妃现身视频引网友质疑",
+      "onboard_time": 1710854436,
+      "rank": 6,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 665601,
       "num": 665601,
       "word": "上班是真的谈不到对象",
@@ -43,24 +51,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 633359,
-      "num": 633359,
-      "word": "英媒发布凯特王妃现身视频引网友质疑",
-      "onboard_time": 1710854436,
-      "rank": 6,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 584454,
-      "num": 584454,
+      "raw_hot": 608121,
+      "num": 608121,
       "word": "想睡一觉躺挣5千结果进去了",
       "onboard_time": 1710859360,
       "rank": 5,
       "category": "幽默"
     },
     {
-      "raw_hot": 503974,
-      "num": 503974,
+      "raw_hot": 508544,
+      "num": 508544,
       "word": "原来郑合惠子是单眼皮",
       "onboard_time": 1710864509,
       "rank": 17,
@@ -83,20 +83,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 378236,
+      "num": 223103,
+      "word": "03年孩子爹出轨80年的女人",
+      "onboard_time": 1710833312,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 344213,
       "num": 344213,
       "word": "朱梓骁 纪凌尘是我的贵人",
       "onboard_time": 1710850294,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 334356,
-      "num": 223103,
-      "word": "03年孩子爹出轨80年的女人",
-      "onboard_time": 1710833312,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 332860,
@@ -107,12 +107,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 322499,
+      "num": 322499,
+      "word": "专家解析感冒的人多起来了",
+      "onboard_time": 1710883997,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 316740,
+      "num": 297545,
+      "word": "家有儿女中的刘梅是合格的妈妈吗",
+      "onboard_time": 1710876617,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 311750,
+      "num": 311750,
+      "word": "张大大晒与李沁金晨合照",
+      "onboard_time": 1710870140,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298481,
       "num": 298481,
       "word": "妈妈让我边考研边考公边找工作",
       "onboard_time": 1710851554,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 296191,
+      "num": 296191,
+      "word": "狐妖小红娘月红篇将延期",
+      "onboard_time": 1710887659,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 295712,
+      "num": 295712,
+      "word": "逐渐消失的网红小吃",
+      "onboard_time": 1710851494,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 293320,
@@ -131,28 +171,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 284579,
-      "num": 284579,
-      "word": "专家解析感冒的人多起来了",
-      "onboard_time": 1710883997,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 270966,
-      "num": 270966,
-      "word": "张大大晒与李沁金晨合照",
-      "onboard_time": 1710870140,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 269880,
-      "num": 269880,
-      "word": "逐渐消失的网红小吃",
-      "onboard_time": 1710851494,
-      "rank": 28,
-      "category": "美食"
+      "raw_hot": 276217,
+      "num": 276217,
+      "word": "春分",
+      "onboard_time": 1710889405,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 269691,
@@ -179,12 +203,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262410,
-      "num": 262410,
-      "word": "春分",
-      "onboard_time": 1710889405,
-      "rank": 12,
-      "category": "情感"
+      "raw_hot": 253921,
+      "num": 298783,
+      "word": "95后女孩考研失败后隐居荒岛",
+      "onboard_time": 1710856599,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249819,
@@ -195,28 +219,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 243467,
-      "num": 243467,
-      "word": "狐妖小红娘月红篇将延期",
-      "onboard_time": 1710887659,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 242785,
-      "num": 270367,
-      "word": "95后女孩考研失败后隐居荒岛",
-      "onboard_time": 1710856599,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227335,
       "num": 227335,
       "word": "林更新回复评论",
       "onboard_time": 1710855457,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224765,
+      "num": 144705,
+      "word": "准备辞职时公司把我裁了",
+      "onboard_time": 1710890547,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 210931,
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 196210,
-      "num": 109776,
+      "num": 144030,
       "word": "早睡1小时身体竟然有这么多变化",
       "onboard_time": 1710884416,
       "rank": 21,
@@ -257,6 +273,14 @@
       "onboard_time": 1710861216,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173611,
+      "num": 141034,
+      "word": "月嫂回应掌掴婴儿是在赶虫子",
+      "onboard_time": 1710890244,
+      "rank": 33,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 165553,
@@ -283,19 +307,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 151247,
+      "num": 151247,
+      "word": "N2报名",
+      "onboard_time": 1710890608,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 148325,
       "num": 148325,
       "word": "与凤行",
       "onboard_time": 1710847231,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 147665,
-      "num": 147665,
-      "word": "家有儿女中的刘梅是合格的妈妈吗",
-      "onboard_time": 1710876617,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -307,12 +331,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132667,
+      "num": 132667,
+      "word": "修手机屏幕被偷看了相册",
+      "onboard_time": 1710872838,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 120119,
       "num": 120119,
       "word": "刘学义演技",
       "onboard_time": 1710850594,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119054,
+      "num": 119054,
+      "word": "为什么年轻人不愿意用信用卡了",
+      "onboard_time": 1710869780,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 115630,
@@ -339,14 +379,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 111833,
-      "num": 111833,
-      "word": "修手机屏幕被偷看了相册",
-      "onboard_time": 1710872838,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 110602,
       "num": 110602,
       "word": "15岁双胞胎同被西交大少年班录取",
@@ -355,12 +387,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 107892,
-      "num": 107892,
-      "word": "为什么年轻人不愿意用信用卡了",
-      "onboard_time": 1710869780,
-      "rank": 23,
-      "category": "财经"
+      "raw_hot": 107721,
+      "num": 107721,
+      "word": "春天过了一半了",
+      "onboard_time": 1710890425,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104547,
@@ -387,12 +419,36 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 98775,
+      "num": 83827,
+      "word": "赵丽颖素袍束发低挽",
+      "onboard_time": 1710887421,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98360,
       "num": 98360,
       "word": "半熟恋人3",
       "onboard_time": 1710859958,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97151,
+      "num": 97151,
+      "word": "春分是春季的C位节气",
+      "onboard_time": 1710890608,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90388,
+      "num": 90388,
+      "word": "全国的富裕家庭都集中在哪",
+      "onboard_time": 1710868881,
+      "rank": 41,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 90038,
@@ -427,20 +483,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 83230,
-      "num": 83230,
-      "word": "全国的富裕家庭都集中在哪",
-      "onboard_time": 1710868881,
-      "rank": 41,
-      "category": "财经,社会新闻"
+      "raw_hot": 83864,
+      "num": 83864,
+      "word": "潘樾只看了画像上的杨采薇",
+      "onboard_time": 1710889886,
+      "rank": 45,
+      "category": "剧集"
     },
     {
-      "raw_hot": 82369,
-      "num": 82369,
-      "word": "赵丽颖素袍束发低挽",
-      "onboard_time": 1710887421,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 82384,
+      "num": 82384,
+      "word": "研究称吃精制碳水早餐会降低颜值",
+      "onboard_time": 1710890907,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 81964,
+      "num": 81964,
+      "word": "WBG丹尼",
+      "onboard_time": 1710890848,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 78936,
@@ -457,6 +521,14 @@
       "onboard_time": 1710850354,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 72648,
+      "num": 72648,
+      "word": "充个话费竟沦为间接洗钱工具",
+      "onboard_time": 1710874818,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71918,
@@ -491,20 +563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65501,
-      "num": 65501,
-      "word": "充个话费竟沦为间接洗钱工具",
-      "onboard_time": 1710874818,
-      "rank": 46,
+      "raw_hot": 63960,
+      "num": 619722,
+      "word": "我拍的春暖花开",
+      "onboard_time": 1710858519,
+      "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63223,
-      "num": 63223,
-      "word": "月嫂回应掌掴婴儿是在赶虫子",
-      "onboard_time": 1710890244,
-      "rank": 33,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 56609,
@@ -515,16 +579,16 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 56306,
-      "num": 523144,
-      "word": "我拍的春暖花开",
-      "onboard_time": 1710858519,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 56003,
+      "num": 56003,
+      "word": "与凤行一家三口",
+      "onboard_time": 1710891212,
+      "rank": 44,
+      "category": "剧集"
     },
     {
-      "raw_hot": 50134,
-      "num": 50134,
+      "raw_hot": 53350,
+      "num": 53350,
       "word": "你最近感冒了没",
       "onboard_time": 1710882016,
       "rank": 34,
@@ -537,14 +601,6 @@
       "onboard_time": 1710847714,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 44433,
-      "num": 44433,
-      "word": "潘樾只看了画像上的杨采薇",
-      "onboard_time": 1710889886,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 41919,
