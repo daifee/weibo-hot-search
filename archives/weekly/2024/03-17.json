@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710833656811,
+  "endTime": 1710836481282,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -24,6 +24,14 @@
       "word": "邯郸初中生被杀害案嫌疑人全部抓获",
       "onboard_time": 1710684101,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4758856,
+      "num": 361096,
+      "word": "13岁男孩性侵8岁女童警方不予立案",
+      "onboard_time": 1710833973,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -307,6 +315,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1691763,
+      "num": 361041,
+      "word": "03年孩子爹出轨80年的女人",
+      "onboard_time": 1710833312,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1663001,
       "num": 1663001,
       "word": "当地通报梅州一13岁男生猥亵女生",
@@ -465,6 +481,14 @@
       "onboard_time": 1710741873,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1362087,
+      "num": 1362087,
+      "word": "周杰伦一审败诉网易",
+      "onboard_time": 1710834756,
+      "rank": 0,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 1358859,
@@ -649,6 +673,14 @@
       "onboard_time": 1710765213,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1142129,
+      "num": 361006,
+      "word": "安崎",
+      "onboard_time": 1710834873,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1133456,
@@ -947,6 +979,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 935537,
+      "num": 360947,
+      "word": "男孩学校遭霸凌父母讨说法被踢出群",
+      "onboard_time": 1710832592,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 933262,
       "num": 933262,
       "word": "七度空间",
@@ -1065,14 +1105,6 @@
       "onboard_time": 1710807938,
       "rank": 10,
       "category": "数码"
-    },
-    {
-      "raw_hot": 842512,
-      "num": 350457,
-      "word": "03年孩子爹出轨80年的女人",
-      "onboard_time": 1710833312,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 828519,
@@ -1436,7 +1468,7 @@
     },
     {
       "raw_hot": 671146,
-      "num": 278729,
+      "num": 313352,
       "word": "陶昕然妈妈承认自己打孩子是虚荣",
       "onboard_time": 1710831333,
       "rank": 20,
@@ -1467,6 +1499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 656603,
+      "num": 360930,
+      "word": "为什么洗完头后容易炸毛",
+      "onboard_time": 1710834274,
+      "rank": 14,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 655680,
       "num": 655680,
       "word": "卖淀粉肠大哥改行卖烤面筋",
@@ -1492,7 +1532,7 @@
     },
     {
       "raw_hot": 649895,
-      "num": 275992,
+      "num": 290665,
       "word": "身上长红痣是肝癌痣吗",
       "onboard_time": 1710829535,
       "rank": 23,
@@ -1649,6 +1689,14 @@
       "onboard_time": 1710825692,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 591791,
+      "num": 591791,
+      "word": "李辉粲涉嫌强制猥亵",
+      "onboard_time": 1710835114,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 590748,
@@ -1944,14 +1992,6 @@
       "word": "奸杀女童恶魔被执行死刑",
       "onboard_time": 1710632964,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 507816,
-      "num": 344487,
-      "word": "男孩学校遭霸凌父母讨说法被踢出群",
-      "onboard_time": 1710832592,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2275,6 +2315,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 444062,
+      "num": 360875,
+      "word": "倪萍分享减重40斤方法",
+      "onboard_time": 1710833195,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 440709,
       "num": 440709,
       "word": "王曼昱世界排名重返第二",
@@ -2556,7 +2604,7 @@
     },
     {
       "raw_hot": 402506,
-      "num": 265863,
+      "num": 299345,
       "word": "下一个会消失的电子产品",
       "onboard_time": 1710829355,
       "rank": 31,
@@ -2729,6 +2777,14 @@
       "onboard_time": 1710677733,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 376935,
+      "num": 360844,
+      "word": "王一博夸李沁讲究",
+      "onboard_time": 1710834695,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 376371,
@@ -2963,6 +3019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 330276,
+      "num": 330276,
+      "word": "蔡元培周末参加北大复试",
+      "onboard_time": 1710833735,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 329780,
       "num": 329780,
       "word": "童瑶演了我梦里的爽文女主",
@@ -3009,6 +3073,14 @@
       "onboard_time": 1710668854,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 323388,
+      "num": 323388,
+      "word": "韩安冉说房子是老公给的婚房",
+      "onboard_time": 1710833494,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 321280,
@@ -3433,6 +3505,14 @@
       "onboard_time": 1710766173,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 281145,
+      "num": 281145,
+      "word": "这真的是快50岁的何老师吗",
+      "onboard_time": 1710835590,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 279679,
@@ -3939,14 +4019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230732,
-      "num": 230732,
-      "word": "倪萍分享减重40斤方法",
-      "onboard_time": 1710833195,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230621,
       "num": 230621,
       "word": "李帝努发型",
@@ -4089,6 +4161,14 @@
       "onboard_time": 1710732993,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 223513,
+      "num": 223513,
+      "word": "林更新娘不了一点",
+      "onboard_time": 1710835057,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 223085,
@@ -4947,12 +5027,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189699,
+      "num": 180900,
+      "word": "猫猫捧着耶耶还亲了两下",
+      "onboard_time": 1710835779,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189627,
       "num": 189627,
       "word": "王海晒槽头扣肉厂家和经销商对话",
       "onboard_time": 1710826773,
       "rank": 32,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 189427,
+      "num": 189427,
+      "word": "甘肃武威万人携手为沙漠织毛衣",
+      "onboard_time": 1710835538,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189390,
@@ -5267,6 +5363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178385,
+      "num": 178385,
+      "word": "现在小孩上学不是单打独斗了",
+      "onboard_time": 1710834873,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 177140,
       "num": 177140,
       "word": "向佐体脂低的原因",
@@ -5289,6 +5393,14 @@
       "onboard_time": 1710634230,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176524,
+      "num": 176524,
+      "word": "赵丽颖与凤行公主切",
+      "onboard_time": 1710833195,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 175799,
@@ -5435,14 +5547,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 171955,
-      "num": 171955,
-      "word": "赵丽颖与凤行公主切",
-      "onboard_time": 1710833195,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171550,
       "num": 171550,
       "word": "天下第一的手游来了",
@@ -5563,6 +5667,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 167461,
+      "num": 166616,
+      "word": "赵丽颖神图的诞生",
+      "onboard_time": 1710836197,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167301,
       "num": 167301,
       "word": "浓眉视力受损",
@@ -5577,6 +5689,14 @@
       "onboard_time": 1710824317,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167156,
+      "num": 167156,
+      "word": "每个女生都应该活成自己的女主角",
+      "onboard_time": 1710835354,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 167058,
@@ -5633,6 +5753,14 @@
       "onboard_time": 1710752677,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 164652,
+      "num": 164652,
+      "word": "夏以昼合集",
+      "onboard_time": 1710835297,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 164595,
@@ -5867,6 +5995,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 157226,
+      "num": 157226,
+      "word": "年轻人从精致穷变成了理智省",
+      "onboard_time": 1710836319,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156928,
       "num": 156928,
       "word": "锦超回应和李菲儿争执",
@@ -6003,12 +6139,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 153598,
-      "num": 153598,
-      "word": "韩安冉说房子是老公给的婚房",
-      "onboard_time": 1710833494,
+      "raw_hot": 152841,
+      "num": 152841,
+      "word": "林更新回应宇文玥落水",
+      "onboard_time": 1710836256,
       "rank": 43,
-      "category": "艺人"
+      "category": "剧集"
     },
     {
       "raw_hot": 152791,
@@ -6089,6 +6225,14 @@
       "onboard_time": 1710739295,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150872,
+      "num": 150872,
+      "word": "只有低血糖才懂的尴尬",
+      "onboard_time": 1710836374,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 150174,
@@ -6289,6 +6433,14 @@
       "onboard_time": 1710648389,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 141184,
+      "num": 141184,
+      "word": "久哲打假无畏小作文",
+      "onboard_time": 1710836437,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 140823,
@@ -7345,6 +7497,14 @@
       "onboard_time": 1710804749,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 74992,
+      "num": 822160,
+      "word": "钢铁丝路好风光",
+      "onboard_time": 1710834937,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74963,

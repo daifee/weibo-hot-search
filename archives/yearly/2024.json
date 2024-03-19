@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1710833656811,
+  "endTime": 1710836481282,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -752,6 +752,14 @@
       "word": "外甥正月理发舅舅去世成被告",
       "onboard_time": 1708572936,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4758856,
+      "num": 361096,
+      "word": "13岁男孩性侵8岁女童警方不予立案",
+      "onboard_time": 1710833973,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -2393,14 +2401,6 @@
       "onboard_time": 1708737331,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2575656,
-      "num": 2575656,
-      "word": "又一自称柳鑫宇账号爆料",
-      "onboard_time": 1708482036,
-      "rank": 37,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
