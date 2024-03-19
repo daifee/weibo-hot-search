@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710822918563,
+  "endTime": 1710825456229,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -2057,6 +2057,14 @@
       "onboard_time": 1710131677,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1450184,
+      "num": 1450184,
+      "word": "韩安冉入住杭州2000万大平层",
+      "onboard_time": 1710819393,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1440735,
@@ -4531,6 +4539,14 @@
       "category": "社会新闻,汽车"
     },
     {
+      "raw_hot": 970380,
+      "num": 970380,
+      "word": "瑞幸咖啡线下点单存价差",
+      "onboard_time": 1710822759,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 970275,
       "num": 970275,
       "word": "为什么面包店宁可扔掉也不打折",
@@ -4612,7 +4628,7 @@
     },
     {
       "raw_hot": 965053,
-      "num": 365440,
+      "num": 379094,
       "word": "月薪四五千但很闲的工作",
       "onboard_time": 1710819275,
       "rank": 20,
@@ -4825,6 +4841,14 @@
       "onboard_time": 1710321573,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 935097,
+      "num": 673402,
+      "word": "国产伟哥2023年销售近13亿",
+      "onboard_time": 1710822937,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 934217,
@@ -6009,14 +6033,6 @@
       "onboard_time": 1710237753,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 803727,
-      "num": 361305,
-      "word": "韩安冉入住杭州2000万大平层",
-      "onboard_time": 1710819393,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 803002,
@@ -9723,6 +9739,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 580368,
+      "num": 580368,
+      "word": "大笨狗 抓错狗了",
+      "onboard_time": 1710821798,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 580111,
       "num": 580111,
       "word": "没想到都三月份还在穿羽绒服",
@@ -11195,6 +11219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 528130,
+      "num": 528130,
+      "word": "刘亦菲周冬雨撞造型",
+      "onboard_time": 1710824560,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 527960,
       "num": 527960,
       "word": "直播间买上百万金条迟迟不发货",
@@ -11257,6 +11289,14 @@
       "onboard_time": 1710245793,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 526221,
+      "num": 526221,
+      "word": "刘学义郑合惠子拥抱镜头",
+      "onboard_time": 1710823418,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 525773,
@@ -12113,6 +12153,14 @@
       "onboard_time": 1709347111,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494379,
+      "num": 494379,
+      "word": "嫡长闺",
+      "onboard_time": 1710822037,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 494193,
@@ -14827,14 +14875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 417095,
-      "num": 287006,
-      "word": "大笨狗 抓错狗了",
-      "onboard_time": 1710821798,
-      "rank": 30,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 417075,
       "num": 417075,
       "word": "宝马就315曝光道歉",
@@ -15425,6 +15465,14 @@
       "onboard_time": 1709474794,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 402066,
+      "num": 402066,
+      "word": "OPPO 权顺荣",
+      "onboard_time": 1710824616,
+      "rank": 18,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 401876,
@@ -17779,6 +17827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 344870,
+      "num": 344870,
+      "word": "张杰南昌抢票",
+      "onboard_time": 1710824857,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 344645,
       "num": 344645,
       "word": "伦纳德退出比赛",
@@ -18409,6 +18465,14 @@
       "onboard_time": 1710298172,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331236,
+      "num": 331236,
+      "word": "刘亦菲抹胸裙",
+      "onboard_time": 1710824857,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 331155,
@@ -20739,14 +20803,6 @@
       "category": "艺人,健康医疗"
     },
     {
-      "raw_hot": 291777,
-      "num": 291777,
-      "word": "瑞幸咖啡线下点单存价差",
-      "onboard_time": 1710822759,
-      "rank": 28,
-      "category": "美食"
-    },
-    {
       "raw_hot": 291721,
       "num": 291721,
       "word": "孙千 愿每个女孩都做自己人生的太阳",
@@ -21363,6 +21419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 280744,
+      "num": 280744,
+      "word": "迪丽热巴拉弓",
+      "onboard_time": 1710824916,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280711,
       "num": 280711,
       "word": "蓝盈莹演了五福临门",
@@ -21537,14 +21601,6 @@
       "onboard_time": 1710047970,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277853,
-      "num": 277853,
-      "word": "嫡长闺",
-      "onboard_time": 1710822037,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 277842,
@@ -22177,6 +22233,14 @@
       "onboard_time": 1709389892,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 268805,
+      "num": 268805,
+      "word": "李沁沪上千金复古造型",
+      "onboard_time": 1710823236,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 268718,
@@ -23993,6 +24057,14 @@
       "onboard_time": 1709632653,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 246130,
+      "num": 246130,
+      "word": "枭起青壤书粉",
+      "onboard_time": 1710823774,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 246093,
@@ -28355,6 +28427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208446,
+      "num": 208446,
+      "word": "半熟恋人",
+      "onboard_time": 1709613513,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208439,
       "num": 208439,
       "word": "陈梦王曼昱晋级",
@@ -28827,6 +28907,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 205322,
+      "num": 205322,
+      "word": "入我芷门下巴看人",
+      "onboard_time": 1710824795,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205298,
       "num": 205298,
       "word": "马竞5比4国际米兰",
@@ -29025,6 +29113,14 @@
       "onboard_time": 1710673116,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204240,
+      "num": 204240,
+      "word": "追风者OST阵容",
+      "onboard_time": 1710824560,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 204225,
@@ -33891,14 +33987,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 179473,
-      "num": 179473,
-      "word": "半熟恋人",
-      "onboard_time": 1709613513,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179415,
       "num": 187202,
       "word": "委员称未成年人网游应避免一刀切",
@@ -36065,6 +36153,14 @@
       "onboard_time": 1710648690,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167262,
+      "num": 167262,
+      "word": "赵丽颖黄羿对手戏",
+      "onboard_time": 1710824317,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 167152,
@@ -38571,6 +38667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155830,
+      "num": 155830,
+      "word": "AG全员包揽最佳阵容",
+      "onboard_time": 1710823177,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155789,
       "num": 155789,
       "word": "刘浩存收到惠英红礼物哭了",
@@ -39873,6 +39977,14 @@
       "onboard_time": 1709636733,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149532,
+      "num": 149532,
+      "word": "老鹰vs湖人",
+      "onboard_time": 1710824017,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 149517,
@@ -51745,6 +51857,14 @@
       "onboard_time": 1710631643,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38728,
+      "num": 345759,
+      "word": "谁是最美绿色手机",
+      "onboard_time": 1710824017,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 38294,

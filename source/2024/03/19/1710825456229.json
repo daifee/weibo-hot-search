@@ -1,0 +1,410 @@
+{
+  "runTime": 1710825456229,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2002963,
+        "num": 2002963,
+        "word": "蔡元培",
+        "onboard_time": 1710819332,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1450184,
+        "num": 1450184,
+        "word": "韩安冉入住杭州2000万大平层",
+        "onboard_time": 1710819393,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104313,
+        "num": 1133172,
+        "word": "春花遇上中式建筑意境拉满",
+        "onboard_time": 1710812372,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 970380,
+        "num": 970380,
+        "word": "瑞幸咖啡线下点单存价差",
+        "onboard_time": 1710822759,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 960899,
+        "num": 960899,
+        "word": "嫡校长",
+        "onboard_time": 1710813933,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1039404,
+        "num": 947482,
+        "word": "凯特王妃疑术后首次露面",
+        "onboard_time": 1710808597,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 891696,
+        "num": 891696,
+        "word": "渤海发现1.04亿吨油田",
+        "onboard_time": 1710819095,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 844527,
+        "num": 844527,
+        "word": "迪丽热巴陈星旭都是浓颜",
+        "onboard_time": 1710818190,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 793457,
+        "num": 793457,
+        "word": "男子被流浪猫绊倒投喂者赔24万",
+        "onboard_time": 1710816755,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673936,
+        "num": 673936,
+        "word": "断崖式暧昧",
+        "onboard_time": 1710818913,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 935097,
+        "num": 673402,
+        "word": "国产伟哥2023年销售近13亿",
+        "onboard_time": 1710822937,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 672364,
+        "num": 672364,
+        "word": "教育局通报学生捅伤老师跳楼事件",
+        "onboard_time": 1710810574,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580368,
+        "num": 580368,
+        "word": "大笨狗 抓错狗了",
+        "onboard_time": 1710821798,
+        "rank": 12,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 560459,
+        "num": 560459,
+        "word": "小米测试车被天津高速抓到逃费",
+        "onboard_time": 1710818612,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 528130,
+        "num": 528130,
+        "word": "刘亦菲周冬雨撞造型",
+        "onboard_time": 1710824560,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 526221,
+        "num": 526221,
+        "word": "刘学义郑合惠子拥抱镜头",
+        "onboard_time": 1710823418,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 516927,
+        "num": 516927,
+        "word": "10年内中国将有21万亿财富传给下一代",
+        "onboard_time": 1710819994,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494379,
+        "num": 494379,
+        "word": "嫡长闺",
+        "onboard_time": 1710822037,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 402066,
+        "num": 402066,
+        "word": "OPPO 权顺荣",
+        "onboard_time": 1710824616,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 385796,
+        "num": 385796,
+        "word": "陈赫质问林更新为什么不回消息",
+        "onboard_time": 1710814954,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 724289,
+        "num": 379094,
+        "word": "月薪四五千但很闲的工作",
+        "onboard_time": 1710819275,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 370918,
+        "num": 370918,
+        "word": "长风破浪改名追风者",
+        "onboard_time": 1710818913,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355111,
+        "num": 355111,
+        "word": "春和景明",
+        "onboard_time": 1710820355,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346901,
+        "num": 346901,
+        "word": "与凤行丫鬟的精神状态",
+        "onboard_time": 1710821078,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38728,
+        "num": 345759,
+        "word": "谁是最美绿色手机",
+        "onboard_time": 1710824017,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 344870,
+        "num": 344870,
+        "word": "张杰南昌抢票",
+        "onboard_time": 1710824857,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 331236,
+        "num": 331236,
+        "word": "刘亦菲抹胸裙",
+        "onboard_time": 1710824857,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 330770,
+        "num": 330770,
+        "word": "反向消费有多爽",
+        "onboard_time": 1710817952,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306720,
+        "num": 306720,
+        "word": "李惠利吴世勋裴秀智毕业合照",
+        "onboard_time": 1710807754,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287669,
+        "num": 287669,
+        "word": "日本加息",
+        "onboard_time": 1710821437,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 290295,
+        "num": 287483,
+        "word": "黑马情侣提车",
+        "onboard_time": 1710813874,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 287291,
+        "num": 287291,
+        "word": "会出轨的人是改不了的",
+        "onboard_time": 1710814411,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280744,
+        "num": 280744,
+        "word": "迪丽热巴拉弓",
+        "onboard_time": 1710824916,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268805,
+        "num": 268805,
+        "word": "李沁沪上千金复古造型",
+        "onboard_time": 1710823236,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 246130,
+        "num": 246130,
+        "word": "枭起青壤书粉",
+        "onboard_time": 1710823774,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230555,
+        "num": 230555,
+        "word": "聂可以自曝在女团被集体霸凌",
+        "onboard_time": 1710809256,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212836,
+        "num": 212836,
+        "word": "孙颖莎世界排名第一",
+        "onboard_time": 1710820472,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210212,
+        "num": 210212,
+        "word": "许家印被限制高消费",
+        "onboard_time": 1710821495,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208446,
+        "num": 208446,
+        "word": "半熟恋人",
+        "onboard_time": 1710824138,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205322,
+        "num": 205322,
+        "word": "入我芷门下巴看人",
+        "onboard_time": 1710824795,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204240,
+        "num": 204240,
+        "word": "追风者OST阵容",
+        "onboard_time": 1710824560,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182546,
+        "num": 182546,
+        "word": "任嘉伦扫楼工卡是任国超",
+        "onboard_time": 1710818913,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176599,
+        "num": 176599,
+        "word": "咱就是说这恋爱谈的是真的省钱",
+        "onboard_time": 1710819095,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172515,
+        "num": 172515,
+        "word": "被保护得太好的人是怎样的",
+        "onboard_time": 1710814411,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170338,
+        "num": 170338,
+        "word": "追风者首播4集不断更",
+        "onboard_time": 1710821437,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167262,
+        "num": 167262,
+        "word": "赵丽颖黄羿对手戏",
+        "onboard_time": 1710824317,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162598,
+        "num": 162598,
+        "word": "苹果称128GB的iPhone也有充裕空间",
+        "onboard_time": 1710807938,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 160442,
+        "num": 160442,
+        "word": "郑俊英出狱",
+        "onboard_time": 1710809619,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155830,
+        "num": 155830,
+        "word": "AG全员包揽最佳阵容",
+        "onboard_time": 1710823177,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149532,
+        "num": 149532,
+        "word": "老鹰vs湖人",
+        "onboard_time": 1710824017,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#立德树人#"
+    }
+  }
+}
