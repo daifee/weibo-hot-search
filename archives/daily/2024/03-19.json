@@ -1,6 +1,6 @@
 {
   "startTime": 1710778931548,
-  "endTime": 1710825456229,
+  "endTime": 1710826450413,
   "band_list": [
     {
       "raw_hot": 8747332,
@@ -51,20 +51,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1481829,
+      "num": 1481829,
+      "word": "韩安冉入住杭州2000万大平层",
+      "onboard_time": 1710819393,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1464074,
       "num": 1464074,
       "word": "男子被流浪猫绊倒投喂者赔24万",
       "onboard_time": 1710816755,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1450184,
-      "num": 1450184,
-      "word": "韩安冉入住杭州2000万大平层",
-      "onboard_time": 1710819393,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 1300358,
@@ -131,12 +131,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1126844,
+      "num": 673402,
+      "word": "国产伟哥2023年销售近13亿",
+      "onboard_time": 1710822937,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1109340,
       "num": 1109340,
       "word": "陈赫质问林更新为什么不回消息",
       "onboard_time": 1710814954,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1022047,
+      "num": 1022047,
+      "word": "瑞幸咖啡线下点单存价差",
+      "onboard_time": 1710822759,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 980943,
@@ -163,14 +179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 970380,
-      "num": 970380,
-      "word": "瑞幸咖啡线下点单存价差",
-      "onboard_time": 1710822759,
-      "rank": 28,
-      "category": "美食"
-    },
-    {
       "raw_hot": 965053,
       "num": 379094,
       "word": "月薪四五千但很闲的工作",
@@ -185,14 +193,6 @@
       "onboard_time": 1710786917,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 935097,
-      "num": 673402,
-      "word": "国产伟哥2023年销售近13亿",
-      "onboard_time": 1710822937,
-      "rank": 10,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 882813,
@@ -243,6 +243,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 799588,
+      "num": 799588,
+      "word": "OPPO 权顺荣",
+      "onboard_time": 1710824616,
+      "rank": 18,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 759988,
       "num": 759988,
       "word": "教育部发布24种本科新增专业",
@@ -281,6 +289,14 @@
       "onboard_time": 1710803004,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697150,
+      "num": 697150,
+      "word": "刘亦菲周冬雨撞造型",
+      "onboard_time": 1710824560,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 670910,
@@ -331,12 +347,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 619861,
+      "num": 619861,
+      "word": "大笨狗 抓错狗了",
+      "onboard_time": 1710821798,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 617641,
       "num": 617641,
       "word": "英国白金汉宫否认国王去世",
       "onboard_time": 1710771819,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 609955,
+      "num": 609955,
+      "word": "刘学义郑合惠子拥抱镜头",
+      "onboard_time": 1710823418,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 585408,
@@ -353,14 +385,6 @@
       "onboard_time": 1710771217,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 580368,
-      "num": 580368,
-      "word": "大笨狗 抓错狗了",
-      "onboard_time": 1710821798,
-      "rank": 30,
-      "category": "动漫"
     },
     {
       "raw_hot": 577177,
@@ -392,22 +416,6 @@
       "word": "赵丽颖 扛剧",
       "onboard_time": 1710770855,
       "rank": 5,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 528130,
-      "num": 528130,
-      "word": "刘亦菲周冬雨撞造型",
-      "onboard_time": 1710824560,
-      "rank": 14,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 526221,
-      "num": 526221,
-      "word": "刘学义郑合惠子拥抱镜头",
-      "onboard_time": 1710823418,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -523,14 +531,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 402066,
-      "num": 402066,
-      "word": "OPPO 权顺荣",
-      "onboard_time": 1710824616,
-      "rank": 18,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 401856,
       "num": 401856,
       "word": "饲养员用铁锨驱打大熊猫已被辞退",
@@ -555,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 398195,
+      "num": 398195,
+      "word": "台州一高校发生汽车冲撞行人事件",
+      "onboard_time": 1710825692,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385645,
       "num": 385645,
       "word": "日本加息",
@@ -568,6 +576,14 @@
       "word": "赵丽颖的左右脸",
       "onboard_time": 1710767915,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 349690,
+      "num": 349690,
+      "word": "迪丽热巴拉弓",
+      "onboard_time": 1710824916,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -747,6 +763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 299410,
+      "num": 299410,
+      "word": "沈阳一轿车冲入人行道致1死4伤",
+      "onboard_time": 1710825513,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289004,
       "num": 289004,
       "word": "咱就是说这恋爱谈的是真的省钱",
@@ -787,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 280744,
-      "num": 280744,
-      "word": "迪丽热巴拉弓",
-      "onboard_time": 1710824916,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 272289,
       "num": 272289,
       "word": "英伟达发布最强AI加速卡",
@@ -825,6 +841,14 @@
       "onboard_time": 1710805169,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258225,
+      "num": 258225,
+      "word": "沈腾一家同框",
+      "onboard_time": 1710825993,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 254119,
@@ -963,6 +987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207339,
+      "num": 207339,
+      "word": "林更新九亿少女的梦是这么来的",
+      "onboard_time": 1710825937,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205322,
       "num": 205322,
       "word": "入我芷门下巴看人",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1710814829,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 181626,
+      "num": 181626,
+      "word": "黄泉动画",
+      "onboard_time": 1710826232,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 179925,
@@ -1283,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131742,
+      "num": 131742,
+      "word": "第一次听说低温烫伤",
+      "onboard_time": 1710826414,
+      "rank": 49,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 130627,
       "num": 121407,
       "word": "王一博秋裤起球了",
@@ -1499,6 +1547,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 54923,
+      "num": 357675,
+      "word": "谁是最美绿色手机",
+      "onboard_time": 1710824017,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 52695,
       "num": 52695,
       "word": "八段锦国家体育总局完整版",
@@ -1521,14 +1577,6 @@
       "onboard_time": 1710796515,
       "rank": 28,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 38728,
-      "num": 345759,
-      "word": "谁是最美绿色手机",
-      "onboard_time": 1710824017,
-      "rank": 24,
-      "category": "数码"
     },
     {
       "raw_hot": 35023,
