@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710840938708,
+  "endTime": 1710843498942,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1601,6 +1601,14 @@
       "onboard_time": 1710249874,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1621894,
+      "num": 1621894,
+      "word": "当你早睡一次 你的器官",
+      "onboard_time": 1710841955,
+      "rank": 0,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1619908,
@@ -3817,6 +3825,14 @@
       "onboard_time": 1710221013,
       "rank": 30,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 1080310,
+      "num": 769644,
+      "word": "中国拥有亿元资产的家庭达13.3万户",
+      "onboard_time": 1710838893,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 1080069,
@@ -6577,14 +6593,6 @@
       "onboard_time": 1710577772,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 769644,
-      "num": 769644,
-      "word": "中国拥有亿元资产的家庭达13.3万户",
-      "onboard_time": 1710838893,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 769586,
@@ -12371,6 +12379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 492802,
+      "num": 352302,
+      "word": "赵丽颖回复李浩菲",
+      "onboard_time": 1710842494,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 492778,
       "num": 492778,
       "word": "中国官网最低3499元就能买iPhone",
@@ -12720,6 +12736,14 @@
       "word": "青海玉树发生5.5级地震",
       "onboard_time": 1709807492,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483891,
+      "num": 345278,
+      "word": "未满14岁男孩性侵女童为何不追究刑责",
+      "onboard_time": 1710841536,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -14377,6 +14401,14 @@
       "onboard_time": 1709447789,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 437502,
+      "num": 437502,
+      "word": "海底捞玥",
+      "onboard_time": 1710839852,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 437135,
@@ -19371,6 +19403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 318686,
+      "num": 318686,
+      "word": "小米2023年营收2709.7亿",
+      "onboard_time": 1710842192,
+      "rank": 15,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 318567,
       "num": 297903,
       "word": "为什么入睡最好不晚于23点",
@@ -19441,6 +19481,14 @@
       "onboard_time": 1710776432,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 317703,
+      "num": 317703,
+      "word": "王一博工作室换头像背景",
+      "onboard_time": 1710840630,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 317669,
@@ -21851,6 +21899,14 @@
       "category": "数码,艺人"
     },
     {
+      "raw_hot": 278636,
+      "num": 278636,
+      "word": "王鸥右手中指戴戒指",
+      "onboard_time": 1710840755,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278377,
       "num": 278377,
       "word": "世界之外剧情",
@@ -22657,14 +22713,6 @@
       "onboard_time": 1710515023,
       "rank": 36,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 267491,
-      "num": 267491,
-      "word": "海底捞玥",
-      "onboard_time": 1710839852,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 267388,
@@ -26851,14 +26899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222425,
-      "num": 222425,
-      "word": "王鸥右手中指戴戒指",
-      "onboard_time": 1710840755,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222169,
       "num": 222169,
       "word": "养狗人上班前能有多自律",
@@ -27073,6 +27113,14 @@
       "onboard_time": 1710061770,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220987,
+      "num": 220987,
+      "word": "李氏东宫",
+      "onboard_time": 1710842916,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 220984,
@@ -28563,6 +28611,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 210719,
+      "num": 210719,
+      "word": "我好像没有和男生当普通朋友的能力",
+      "onboard_time": 1710841354,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 210557,
       "num": 208791,
       "word": "吴磊直播",
@@ -28705,6 +28761,14 @@
       "onboard_time": 1709998651,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209531,
+      "num": 209531,
+      "word": "安崎工作室辟谣霸凌",
+      "onboard_time": 1710841175,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 209466,
@@ -30403,6 +30467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200245,
+      "num": 200245,
+      "word": "萨巴伦卡男友去世",
+      "onboard_time": 1710841779,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200219,
       "num": 200219,
       "word": "大学的课我有四不上",
@@ -31617,14 +31689,6 @@
       "onboard_time": 1710749857,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 194626,
-      "num": 194626,
-      "word": "王一博工作室换头像背景",
-      "onboard_time": 1710840630,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 194540,
@@ -35003,6 +35067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176751,
+      "num": 176751,
+      "word": "WBG穿了绿色队服",
+      "onboard_time": 1710842916,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176699,
       "num": 176699,
       "word": "百果园官方回应",
@@ -35657,6 +35729,14 @@
       "onboard_time": 1710373228,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173585,
+      "num": 173585,
+      "word": "牛仔裤外套屁帘到底谁在穿",
+      "onboard_time": 1710842375,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 173570,
@@ -37307,6 +37387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164865,
+      "num": 164865,
+      "word": "Tods集团去年净利翻番",
+      "onboard_time": 1710841295,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 164837,
       "num": 164837,
       "word": "这5个伤肾行为很多人都在做",
@@ -38209,6 +38297,14 @@
       "onboard_time": 1709981675,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160386,
+      "num": 160386,
+      "word": "学校的饮水器时薪63元",
+      "onboard_time": 1710843455,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 160351,
@@ -42019,6 +42115,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 143422,
+      "num": 143422,
+      "word": "大学生的点餐群真的别太好笑",
+      "onboard_time": 1710842433,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143382,
       "num": 143382,
       "word": "周处除三害 女主线",
@@ -42201,6 +42305,14 @@
       "onboard_time": 1709368651,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 142580,
+      "num": 142580,
+      "word": "现在的年轻人一天800个人设",
+      "onboard_time": 1710842975,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 142558,
@@ -43201,6 +43313,14 @@
       "onboard_time": 1710571231,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137713,
+      "num": 137713,
+      "word": "95后女生靠气球年营收上百万",
+      "onboard_time": 1710841832,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137689,
@@ -46579,6 +46699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121579,
+      "num": 121579,
+      "word": "玉兰花开",
+      "onboard_time": 1710841955,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121570,
       "num": 121570,
       "word": "维生素软糖为什么不能吃太多",
@@ -47321,6 +47449,14 @@
       "onboard_time": 1709639015,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117083,
+      "num": 117083,
+      "word": "当代人APP使用现状",
+      "onboard_time": 1710841114,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 117029,
@@ -49467,6 +49603,14 @@
       "category": "读书作家,艺人"
     },
     {
+      "raw_hot": 100335,
+      "num": 364130,
+      "word": "接下来杭州是这样的",
+      "onboard_time": 1710841832,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 100203,
       "num": 100203,
       "word": "张凌赫武汉",
@@ -49608,6 +49752,14 @@
       "word": "61岁保安大叔自学画画创作近百幅",
       "onboard_time": 1710496240,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98806,
+      "num": 366629,
+      "word": "山东一学校惊现4层楼高视力表",
+      "onboard_time": 1710842554,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
