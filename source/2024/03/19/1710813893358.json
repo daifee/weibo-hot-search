@@ -1,0 +1,410 @@
+{
+  "runTime": 1710813893358,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2181474,
+        "num": 2181474,
+        "word": "凯特王妃疑术后首次露面",
+        "onboard_time": 1710808597,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1257509,
+        "num": 1257509,
+        "word": "世界排名王楚钦三项第一",
+        "onboard_time": 1710809378,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50809,
+        "num": 1021272,
+        "word": "这是一堂生动的思政课",
+        "onboard_time": 1710767192,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805072,
+        "num": 805072,
+        "word": "李惠利吴世勋裴秀智毕业合照",
+        "onboard_time": 1710807754,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 682399,
+        "num": 682399,
+        "word": "苹果称128GB的iPhone也有充裕空间",
+        "onboard_time": 1710807938,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 672859,
+        "num": 672859,
+        "word": "睡醒之后一定要改掉这4个坏习惯",
+        "onboard_time": 1710803004,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 661008,
+        "num": 661008,
+        "word": "郑俊英出狱",
+        "onboard_time": 1710809619,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631446,
+        "num": 631446,
+        "word": "聂可以自曝在女团被集体霸凌",
+        "onboard_time": 1710809256,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544737,
+        "num": 544737,
+        "word": "王海称小杨哥和东方甄选或明知槽头扣肉",
+        "onboard_time": 1710810994,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 485146,
+        "num": 485146,
+        "word": "HYBE将推出水溶性小卡",
+        "onboard_time": 1710811174,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1355010,
+        "num": 485091,
+        "word": "教育局通报学生捅伤老师跳楼事件",
+        "onboard_time": 1710810574,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 954952,
+        "num": 484693,
+        "word": "山东多名男生往一男生嘴里塞垃圾",
+        "onboard_time": 1710811593,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483791,
+        "num": 483791,
+        "word": "睡眠真的超级重要",
+        "onboard_time": 1710811772,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 468881,
+        "num": 468881,
+        "word": "梅西退出阿根廷队美国热身赛",
+        "onboard_time": 1710809137,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463700,
+        "num": 463700,
+        "word": "她和智障哥哥唯一合照是陌生人拍的",
+        "onboard_time": 1710803004,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3769927,
+        "num": 462938,
+        "word": "邯郸初中生被害案嫌犯为有预谋作案",
+        "onboard_time": 1710807393,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455774,
+        "num": 455774,
+        "word": "蜜雪冰城回应涨价1元尚未全国推广",
+        "onboard_time": 1710804688,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 374520,
+        "num": 374520,
+        "word": "毕竟是九亿少女的梦",
+        "onboard_time": 1710771217,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349848,
+        "num": 349848,
+        "word": "女孩拼2年考研上岸一学期后退学",
+        "onboard_time": 1710778768,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348907,
+        "num": 348907,
+        "word": "路边卖淀粉肠阿姨主动出示声明书",
+        "onboard_time": 1710786917,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349834,
+        "num": 339228,
+        "word": "为什么朋友圈会设置三天可见",
+        "onboard_time": 1710809860,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310486,
+        "num": 310486,
+        "word": "林狗还是帅的",
+        "onboard_time": 1710767192,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301362,
+        "num": 301362,
+        "word": "近60%人群存在失眠问题",
+        "onboard_time": 1710812136,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 286710,
+        "num": 286710,
+        "word": "迪丽热巴 枭起青壤",
+        "onboard_time": 1710774815,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278432,
+        "num": 278432,
+        "word": "吸血鬼为什么都是有钱人",
+        "onboard_time": 1710810277,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 258815,
+        "num": 258815,
+        "word": "与凤行弹幕比凤凰更碎嘴",
+        "onboard_time": 1710805471,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243852,
+        "num": 243852,
+        "word": "与凤行首日战报",
+        "onboard_time": 1710811473,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226210,
+        "num": 226210,
+        "word": "兔狲狲大娘因病死亡",
+        "onboard_time": 1710807092,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214298,
+        "num": 214298,
+        "word": "陈建斌蒋勤勤牵手看展",
+        "onboard_time": 1710813031,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214114,
+        "num": 214114,
+        "word": "饲养员用铁锨驱打大熊猫已被辞退",
+        "onboard_time": 1710805711,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210454,
+        "num": 210454,
+        "word": "gidle重返音放打歌",
+        "onboard_time": 1710812554,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207205,
+        "num": 207205,
+        "word": "凯特",
+        "onboard_time": 1710805652,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 203348,
+        "num": 203348,
+        "word": "刘学义上桌了",
+        "onboard_time": 1710776552,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188133,
+        "num": 188133,
+        "word": "千万不要领考场门口的手表",
+        "onboard_time": 1710776432,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185029,
+        "num": 185029,
+        "word": "有哪些事生孩子前要知道",
+        "onboard_time": 1710812492,
+        "rank": 34,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 179597,
+        "num": 179597,
+        "word": "老外感慨凌晨的中国非常安全",
+        "onboard_time": 1710813632,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177415,
+        "num": 177415,
+        "word": "小桃又演小桃",
+        "onboard_time": 1710767558,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174855,
+        "num": 174855,
+        "word": "高度近视的人需要注意这四件事",
+        "onboard_time": 1710788357,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174824,
+        "num": 174824,
+        "word": "枭起青壤",
+        "onboard_time": 1710806133,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173482,
+        "num": 173482,
+        "word": "与凤行",
+        "onboard_time": 1710720272,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169994,
+        "num": 169994,
+        "word": "WTT官员确认中国大满贯",
+        "onboard_time": 1710805289,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161796,
+        "num": 161796,
+        "word": "渐渐的体会到了有车的快乐",
+        "onboard_time": 1710810456,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161061,
+        "num": 161061,
+        "word": "七年后宇文玥被薅头发捞上岸",
+        "onboard_time": 1710805169,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159556,
+        "num": 159556,
+        "word": "辅导员告诉我导师突然去世了",
+        "onboard_time": 1710771996,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151796,
+        "num": 151796,
+        "word": "警方回应网传一中学生捅伤老师后跳楼",
+        "onboard_time": 1710805349,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150615,
+        "num": 150615,
+        "word": "为何同样睡8小时人与人精神头不一样",
+        "onboard_time": 1710813574,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148443,
+        "num": 148443,
+        "word": "湖南卫视开始了",
+        "onboard_time": 1710764851,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147595,
+        "num": 147595,
+        "word": "杨幂戴了好多手串",
+        "onboard_time": 1710770079,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142917,
+        "num": 142917,
+        "word": "苹果4月或推出新款iPad",
+        "onboard_time": 1710810217,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142109,
+        "num": 142109,
+        "word": "黑马情侣提车",
+        "onboard_time": 1710813874,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#育人之本在于培根铸魂#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/03/01 00:20:40 ~ 2024/03/19 09:31:14
+本榜单时间：2024/03/01 00:20:40 ~ 2024/03/19 10:04:53
 </p>
 </blockquote>
 <p>
@@ -1731,6 +1731,12 @@ HPV感染就像生殖道经历一场感冒（热度：1364146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E6%8D%85%E4%BC%A4%E8%80%81%E5%B8%88%E8%B7%B3%E6%A5%BC%E4%BA%8B%E4%BB%B6%23" target="weibo">
+教育局通报学生捅伤老师跳楼事件（热度：1355010）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E5%A7%94%E4%BC%9A%E5%9B%9E%E5%BA%943%E5%90%8D%E5%88%9D%E4%B8%AD%E7%94%9F%E5%B0%86%E5%90%8C%E5%AD%A6%E6%9D%80%E5%AE%B3%E5%9F%8B%E5%B0%B8%23" target="weibo">
 村委会回应3名初中生将同学杀害埋尸（热度：1352696）
 </a>
@@ -2021,6 +2027,12 @@ papi酱说短视频里不是她本人（热度：1339606）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%A4%84%E9%99%A4%E4%B8%89%E5%AE%B3%20%E6%8A%84%E8%A2%AD%23" target="weibo">
 周处除三害 抄袭（热度：1260641）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%89%E9%A1%B9%E7%AC%AC%E4%B8%80%23" target="weibo">
+世界排名王楚钦三项第一（热度：1257509）
 </a>
 </li>
 
@@ -3387,12 +3399,6 @@ SpaceX星舰第三次试飞提前结束（热度：993801）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%89%E9%A1%B9%E7%AC%AC%E4%B8%80%23" target="weibo">
-世界排名王楚钦三项第一（热度：967463）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B2%E5%A9%9A%E5%A5%B3%E7%94%9F%E6%89%BE%E5%B7%A5%E4%BD%9C%E6%9C%89%E5%A4%9A%E9%9A%BE%23" target="weibo">
 已婚女生找工作有多难（热度：966320）
 </a>
@@ -3473,6 +3479,12 @@ ChatGPT每天用电量是家庭用电量的1.7万多倍（热度：960317）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81chiikawa%23" target="weibo">
 名创优品chiikawa（热度：957578）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A4%9A%E5%90%8D%E7%94%B7%E7%94%9F%E5%BE%80%E4%B8%80%E7%94%B7%E7%94%9F%E5%98%B4%E9%87%8C%E5%A1%9E%E5%9E%83%E5%9C%BE%23" target="weibo">
+山东多名男生往一男生嘴里塞垃圾（热度：954952）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ G社拍的杨超越（热度：677350）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%E7%BC%96%E5%89%A7%23" target="weibo">
 眼泪女王编剧（热度：665811）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232024%E5%A5%A5%E6%96%AF%E5%8D%A1%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC%23" target="weibo">
-2024奥斯卡颁奖典礼（热度：664901）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%E5%90%BB%E6%88%8F%E8%B7%AF%E9%80%8F%23" target="weibo">
-杨紫李现吻戏路透（热度：664080）
 </a>
 </li>
 
