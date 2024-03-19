@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710884052014,
+  "endTime": 1710886579998,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -3435,6 +3435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326627,
+      "num": 53920,
+      "word": "女孩酒店房间里遭多人暴打侮辱",
+      "onboard_time": 1710874277,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326061,
       "num": 268324,
       "word": "从脂肪肝到肝癌只有4步",
@@ -6267,14 +6275,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 177412,
-      "num": 53920,
-      "word": "女孩酒店房间里遭多人暴打侮辱",
-      "onboard_time": 1710874277,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177140,
       "num": 177140,
       "word": "向佐体脂低的原因",
@@ -8923,6 +8923,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 52954,
+      "num": 32333,
+      "word": "早睡1小时身体竟然有这么多变化",
+      "onboard_time": 1710884416,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 52695,
       "num": 52695,
       "word": "八段锦国家体育总局完整版",
@@ -8953,6 +8961,14 @@
       "onboard_time": 1710657271,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 49271,
+      "num": 32290,
+      "word": "你觉得减重40斤容易吗",
+      "onboard_time": 1710881355,
+      "rank": 23,
+      "category": "运动健身"
     },
     {
       "raw_hot": 47782,
@@ -9035,12 +9051,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36425,
+      "num": 36425,
+      "word": "专家解析感冒的人多起来了",
+      "onboard_time": 1710883997,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 35023,
       "num": 35023,
       "word": "PRX赢了",
       "onboard_time": 1710783380,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 34965,
+      "num": 32008,
+      "word": "家有儿女中的刘梅是合格的妈妈吗",
+      "onboard_time": 1710876617,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 34925,
@@ -9057,6 +9089,14 @@
       "onboard_time": 1710632004,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 33825,
+      "num": 31822,
+      "word": "你最近感冒了没",
+      "onboard_time": 1710882016,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 33497,
@@ -9115,14 +9155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30082,
-      "num": 22241,
-      "word": "家有儿女中的刘梅是合格的妈妈吗",
-      "onboard_time": 1710876617,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 29693,
       "num": 385801,
       "word": "蛋仔守护月",
@@ -9137,14 +9169,6 @@
       "onboard_time": 1710741995,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 27601,
-      "num": 21143,
-      "word": "你觉得减重40斤容易吗",
-      "onboard_time": 1710881355,
-      "rank": 23,
-      "category": "运动健身"
     },
     {
       "raw_hot": 27544,
@@ -9187,14 +9211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25095,
-      "num": 21018,
-      "word": "你最近感冒了没",
-      "onboard_time": 1710882016,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 23509,
       "num": 235225,
       "word": "我拍的春暖花开",
@@ -9219,6 +9235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 22165,
+      "num": 22165,
+      "word": "腿粗臀塌腿不直练这个",
+      "onboard_time": 1710881417,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 20835,
       "num": 22131,
       "word": "马思纯新中式",
@@ -9227,20 +9251,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20791,
+      "num": 27150,
+      "word": "充个话费竟沦为间接洗钱工具",
+      "onboard_time": 1710874818,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20788,
       "num": 159160,
       "word": "智己CEO直播解读如何横着走",
       "onboard_time": 1710854497,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 20507,
-      "num": 27150,
-      "word": "充个话费竟沦为间接洗钱工具",
-      "onboard_time": 1710874818,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20156,
@@ -9268,19 +9292,19 @@
     },
     {
       "raw_hot": 17676,
-      "num": 17676,
+      "num": 19787,
       "word": "越来越能理解什么叫人活的是几个瞬间",
       "onboard_time": 1710877516,
       "rank": 38,
       "category": "情感"
     },
     {
-      "raw_hot": 17116,
-      "num": 17116,
-      "word": "腿粗臀塌腿不直练这个",
-      "onboard_time": 1710881417,
-      "rank": 33,
-      "category": "运动健身"
+      "raw_hot": 16284,
+      "num": 19774,
+      "word": "重生之我在古装短剧里当丫鬟",
+      "onboard_time": 1710879617,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 15131,
@@ -9291,28 +9315,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15047,
-      "num": 17072,
-      "word": "重生之我在古装短剧里当丫鬟",
-      "onboard_time": 1710879617,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 14664,
       "num": 18598,
       "word": "什么称呼加上小字完全变味儿了",
       "onboard_time": 1710706635,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 12203,
-      "num": 17007,
-      "word": "专家解析感冒的人多起来了",
-      "onboard_time": 1710883997,
-      "rank": 48,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
