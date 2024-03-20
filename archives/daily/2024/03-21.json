@@ -1,6 +1,6 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1710958869530,
+  "endTime": 1710959697866,
   "band_list": [
     {
       "raw_hot": 1255856,
@@ -387,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74646,
+      "num": 74646,
+      "word": "金高银撑住了贴头皮造型",
+      "onboard_time": 1710958638,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 73286,
       "num": 73286,
       "word": "曹恩齐方回应机场抵制代拍",
@@ -417,6 +425,14 @@
       "onboard_time": 1710930395,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63328,
+      "num": 63328,
+      "word": "天水麻辣烫成都分烫火到闭店",
+      "onboard_time": 1710957140,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 57418,
@@ -451,28 +467,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 49657,
-      "num": 49657,
-      "word": "金高银撑住了贴头皮造型",
-      "onboard_time": 1710958638,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 47818,
       "num": 47818,
       "word": "戚薇的包是个方向盘",
       "onboard_time": 1710943538,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 45461,
-      "num": 45461,
-      "word": "天水麻辣烫成都分烫火到闭店",
-      "onboard_time": 1710957140,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 42001,
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31854,
+      "num": 32195,
+      "word": "早上该先刷牙还是先吃早饭",
+      "onboard_time": 1710958219,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 29924,
       "num": 78450,
       "word": "春分",
@@ -499,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25765,
-      "num": 32195,
-      "word": "早上该先刷牙还是先吃早饭",
-      "onboard_time": 1710958219,
-      "rank": 41,
-      "category": "科学科普"
+      "raw_hot": 17018,
+      "num": 27189,
+      "word": "TXT新预告",
+      "onboard_time": 1710958878,
+      "rank": 48,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [

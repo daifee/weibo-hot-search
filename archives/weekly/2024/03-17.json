@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710958869530,
+  "endTime": 1710959697866,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -11395,6 +11395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74646,
+      "num": 74646,
+      "word": "金高银撑住了贴头皮造型",
+      "onboard_time": 1710958638,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 73288,
       "num": 287731,
       "word": "大学生买游戏本还是轻薄本",
@@ -11537,6 +11545,14 @@
       "onboard_time": 1710936817,
       "rank": 23,
       "category": "互联网,时尚"
+    },
+    {
+      "raw_hot": 63328,
+      "num": 63328,
+      "word": "天水麻辣烫成都分烫火到闭店",
+      "onboard_time": 1710957140,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 62730,
@@ -11683,14 +11699,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 49657,
-      "num": 49657,
-      "word": "金高银撑住了贴头皮造型",
-      "onboard_time": 1710958638,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 47782,
       "num": 527219,
       "word": "小米Civi4Pro首发第三代骁龙8s",
@@ -11705,14 +11713,6 @@
       "onboard_time": 1710782721,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 45461,
-      "num": 45461,
-      "word": "天水麻辣烫成都分烫火到闭店",
-      "onboard_time": 1710957140,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 45185,
@@ -11883,6 +11883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31854,
+      "num": 32195,
+      "word": "早上该先刷牙还是先吃早饭",
+      "onboard_time": 1710958219,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 30695,
       "num": 30695,
       "word": "腿粗臀塌腿不直练这个",
@@ -11929,14 +11937,6 @@
       "onboard_time": 1710703337,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 25765,
-      "num": 32195,
-      "word": "早上该先刷牙还是先吃早饭",
-      "onboard_time": 1710958219,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 25759,
@@ -12025,6 +12025,14 @@
       "onboard_time": 1710941737,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 17018,
+      "num": 27189,
+      "word": "TXT新预告",
+      "onboard_time": 1710958878,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 16284,

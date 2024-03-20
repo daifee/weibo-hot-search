@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710958869530,
+  "endTime": 1710959697866,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -54531,6 +54531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74646,
+      "num": 74646,
+      "word": "金高银撑住了贴头皮造型",
+      "onboard_time": 1710958638,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 74409,
       "num": 74409,
       "word": "涵艺爆料BSYY离队",
@@ -55073,6 +55081,14 @@
       "onboard_time": 1709708429,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 63328,
+      "num": 63328,
+      "word": "天水麻辣烫成都分烫火到闭店",
+      "onboard_time": 1710957140,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 63313,
@@ -55899,14 +55915,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 49657,
-      "num": 49657,
-      "word": "金高银撑住了贴头皮造型",
-      "onboard_time": 1710958638,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 49629,
       "num": 49629,
       "word": "陈卓璇的古装",
@@ -56105,14 +56113,6 @@
       "onboard_time": 1709499736,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 45461,
-      "num": 45461,
-      "word": "天水麻辣烫成都分烫火到闭店",
-      "onboard_time": 1710957140,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 45185,
@@ -56747,6 +56747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31854,
+      "num": 32195,
+      "word": "早上该先刷牙还是先吃早饭",
+      "onboard_time": 1710958219,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 31424,
       "num": 44290,
       "word": "万茜穿平底鞋的身材比例",
@@ -57009,14 +57017,6 @@
       "onboard_time": 1710267258,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 25765,
-      "num": 32195,
-      "word": "早上该先刷牙还是先吃早饭",
-      "onboard_time": 1710958219,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 25759,
@@ -57409,6 +57409,14 @@
       "onboard_time": 1710004283,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17018,
+      "num": 27189,
+      "word": "TXT新预告",
+      "onboard_time": 1710958878,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 16876,
