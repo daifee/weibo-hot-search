@@ -1,6 +1,6 @@
 {
   "startTime": 1710865343685,
-  "endTime": 1710909279299,
+  "endTime": 1710911955785,
   "band_list": [
     {
       "raw_hot": 3026537,
@@ -259,6 +259,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 529561,
+      "num": 529561,
+      "word": "韩政府首次吊销离岗医生执照",
+      "onboard_time": 1710908675,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522117,
       "num": 355344,
       "word": "父亲买了一套无法过户的房子",
@@ -272,6 +280,14 @@
       "word": "原来郑合惠子是单眼皮",
       "onboard_time": 1710864509,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 508177,
+      "num": 508177,
+      "word": "刘烨也逃不开的中年三件套",
+      "onboard_time": 1710907116,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -331,12 +347,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 455543,
+      "num": 455543,
+      "word": "吴磊赤膊骑车",
+      "onboard_time": 1710907715,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 444801,
+      "num": 330484,
+      "word": "沪上阿姨张杰联名",
+      "onboard_time": 1710909696,
+      "rank": 22,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 439287,
       "num": 439287,
       "word": "深圳地铁致歉",
       "onboard_time": 1710899072,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 433406,
+      "num": 433406,
+      "word": "刘学义郑合惠子或将二搭",
+      "onboard_time": 1710909278,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 429713,
@@ -355,14 +395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 393610,
-      "num": 393610,
-      "word": "刘烨也逃不开的中年三件套",
-      "onboard_time": 1710907116,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 378236,
       "num": 246335,
       "word": "03年孩子爹出轨80年的女人",
@@ -379,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364390,
+      "num": 364390,
+      "word": "大侦探 自我介绍呢",
+      "onboard_time": 1710910837,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352906,
       "num": 251914,
       "word": "花5元给女儿买了一双高跟鞋",
@@ -387,12 +427,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 352084,
+      "num": 516112,
+      "word": "英媒称团队夜以继日筹划凯特王妃复出",
+      "onboard_time": 1710911014,
+      "rank": 9,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 344213,
       "num": 344213,
       "word": "朱梓骁 纪凌尘是我的贵人",
       "onboard_time": 1710850294,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 340736,
+      "num": 340736,
+      "word": "8部电影定档清明档",
+      "onboard_time": 1710910474,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 332860,
@@ -409,14 +465,6 @@
       "onboard_time": 1710883997,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 321409,
-      "num": 321409,
-      "word": "吴磊赤膊骑车",
-      "onboard_time": 1710907715,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 316807,
@@ -547,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254145,
+      "num": 254145,
+      "word": "火影忍者疾风传定档",
+      "onboard_time": 1710910535,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 249819,
       "num": 249819,
       "word": "Straykids前成员签约SM子公司",
@@ -595,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 227048,
+      "num": 227048,
+      "word": "男性不做家务更易患糖尿病",
+      "onboard_time": 1710911312,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 226638,
       "num": 226638,
       "word": "出师表的含金量在这一刻具像化了",
@@ -619,12 +683,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223850,
+      "num": 223850,
+      "word": "癌症是基因注定的吗",
+      "onboard_time": 1710906271,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 222711,
       "num": 222711,
       "word": "8小时内完成全天进食真的好吗",
       "onboard_time": 1710902733,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 220482,
+      "num": 220482,
+      "word": "齐司礼 渡梦",
+      "onboard_time": 1710909398,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 218026,
+      "num": 218026,
+      "word": "突然发现我朋友是键盘侠",
+      "onboard_time": 1710909576,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 217200,
@@ -651,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216054,
+      "num": 216054,
+      "word": "小日子 儿媳保护婆婆单挑公公",
+      "onboard_time": 1710911555,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212537,
       "num": 212537,
       "word": "拥有一份好工作的10个特征",
@@ -673,6 +769,14 @@
       "onboard_time": 1710907955,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207645,
+      "num": 207645,
+      "word": "花间令 换乘恋爱",
+      "onboard_time": 1710910658,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 205864,
@@ -721,14 +825,6 @@
       "onboard_time": 1710904952,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 198224,
-      "num": 198224,
-      "word": "癌症是基因注定的吗",
-      "onboard_time": 1710906271,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 196210,
@@ -803,6 +899,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 175308,
+      "num": 175308,
+      "word": "车被砸后第一步要做什么",
+      "onboard_time": 1710910772,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 171585,
+      "num": 171585,
+      "word": "陈赫郑恺早期旧照",
+      "onboard_time": 1710909516,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169601,
       "num": 210584,
       "word": "A股",
@@ -835,14 +947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162422,
-      "num": 162422,
-      "word": "韩政府首次吊销离岗医生执照",
-      "onboard_time": 1710908675,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158091,
       "num": 158091,
       "word": "王一博追风者醉酒戏",
@@ -851,11 +955,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156609,
+      "num": 156609,
+      "word": "光与夜之恋",
+      "onboard_time": 1710909634,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 156442,
       "num": 156442,
       "word": "大侦探最新一期全员发疯",
       "onboard_time": 1710895235,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156181,
+      "num": 156181,
+      "word": "大侦探",
+      "onboard_time": 1710910954,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -873,6 +993,14 @@
       "onboard_time": 1710890608,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 148799,
+      "num": 148799,
+      "word": "新基金只募集到26元还是员工自购",
+      "onboard_time": 1710911729,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 148325,
@@ -945,6 +1073,14 @@
       "onboard_time": 1710909034,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140185,
+      "num": 146981,
+      "word": "小日子",
+      "onboard_time": 1710911912,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 137592,
@@ -1444,6 +1580,9 @@
     },
     {
       "word": "#习近平在湖南考察调研#"
+    },
+    {
+      "word": "#习近平总书记心中的国之大者#"
     }
   ]
 }
