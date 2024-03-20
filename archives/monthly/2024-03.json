@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710902033637,
+  "endTime": 1710904740936,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -273,6 +273,14 @@
       "onboard_time": 1710378871,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3026537,
+      "num": 3026537,
+      "word": "沪上阿姨崩了",
+      "onboard_time": 1710901050,
+      "rank": 16,
+      "category": "美食"
     },
     {
       "raw_hot": 3012846,
@@ -891,14 +899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2004839,
-      "num": 2004839,
-      "word": "沪上阿姨崩了",
-      "onboard_time": 1710901050,
-      "rank": 16,
-      "category": "美食"
-    },
-    {
       "raw_hot": 2000692,
       "num": 422221,
       "word": "满舒克前女友发文",
@@ -1193,6 +1193,14 @@
       "onboard_time": 1709694633,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1824055,
+      "num": 1824055,
+      "word": "蒋敦豪 晴天",
+      "onboard_time": 1710901470,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1822207,
@@ -2489,6 +2497,14 @@
       "onboard_time": 1710594998,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1350100,
+      "num": 1350100,
+      "word": "英国王室又一合照被曝P图",
+      "onboard_time": 1710902011,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1345892,
@@ -5555,6 +5571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 879409,
+      "num": 879409,
+      "word": "呼北高速交通事故已造成14人死亡",
+      "onboard_time": 1710903451,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 879220,
       "num": 879220,
       "word": "车厘子榴莲山竹都便宜了",
@@ -7289,14 +7313,6 @@
       "onboard_time": 1709204553,
       "rank": 3,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 736152,
-      "num": 736152,
-      "word": "蒋敦豪 晴天",
-      "onboard_time": 1710901470,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 735993,
@@ -9803,6 +9819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 604538,
+      "num": 604538,
+      "word": "疑有医院员工试图查凯特病例被捕",
+      "onboard_time": 1710901650,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 604377,
       "num": 604377,
       "word": "与凤行 喜剧",
@@ -11267,6 +11291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 545845,
+      "num": 545845,
+      "word": "杨洋拄拐现身医院",
+      "onboard_time": 1710904052,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 545120,
       "num": 459410,
       "word": "回南天的布偶猫",
@@ -11988,7 +12020,7 @@
     },
     {
       "raw_hot": 522117,
-      "num": 253050,
+      "num": 253478,
       "word": "父亲买了一套无法过户的房子",
       "onboard_time": 1710899372,
       "rank": 20,
@@ -12473,6 +12505,14 @@
       "onboard_time": 1709770354,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 501808,
+      "num": 501808,
+      "word": "许嵩抢票",
+      "onboard_time": 1710226890,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 501657,
@@ -14881,6 +14921,14 @@
       "onboard_time": 1709515771,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 435549,
+      "num": 567105,
+      "word": "新的一天从800个哈欠开始",
+      "onboard_time": 1710901112,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 435372,
@@ -18236,7 +18284,7 @@
     },
     {
       "raw_hot": 352906,
-      "num": 248487,
+      "num": 251914,
       "word": "花5元给女儿买了一双高跟鞋",
       "onboard_time": 1710899670,
       "rank": 23,
@@ -19187,6 +19235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 333288,
+      "num": 191892,
+      "word": "郑合惠子直给",
+      "onboard_time": 1710904290,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333275,
       "num": 333275,
       "word": "原来久坐真的会让人变丑",
@@ -20025,14 +20081,6 @@
       "onboard_time": 1709526153,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 317613,
-      "num": 317613,
-      "word": "许嵩抢票",
-      "onboard_time": 1710226890,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 317525,
@@ -21889,6 +21937,14 @@
       "onboard_time": 1710600936,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 289738,
+      "num": 188083,
+      "word": "视力模糊下降两根手指转天筋",
+      "onboard_time": 1710904592,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 289683,
@@ -25683,6 +25739,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 240763,
+      "num": 240763,
+      "word": "生是你的权利不生是你的自由",
+      "onboard_time": 1710902192,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240713,
       "num": 240713,
       "word": "开始推理吧2男嘉宾挑染",
@@ -26529,6 +26593,14 @@
       "onboard_time": 1710685062,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231465,
+      "num": 231465,
+      "word": "范玮琪48岁生日宴",
+      "onboard_time": 1710904171,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 231403,
@@ -28355,6 +28427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217200,
+      "num": 217200,
+      "word": "向佐主动cue人情世故梗",
+      "onboard_time": 1710903213,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217192,
       "num": 212129,
       "word": "花间令编剧",
@@ -29771,14 +29851,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 208098,
-      "num": 208098,
-      "word": "新的一天从800个哈欠开始",
-      "onboard_time": 1710901112,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 208081,
       "num": 208081,
       "word": "周深新歌门",
@@ -30073,6 +30145,14 @@
       "onboard_time": 1710735159,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206258,
+      "num": 206258,
+      "word": "8小时内完成全天进食真的好吗",
+      "onboard_time": 1710902733,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 206136,
@@ -32137,14 +32217,6 @@
       "onboard_time": 1710158910,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 196408,
-      "num": 196408,
-      "word": "疑有医院员工试图查凯特病例被捕",
-      "onboard_time": 1710901650,
-      "rank": 27,
-      "category": "国外时政"
     },
     {
       "raw_hot": 196363,
@@ -34755,6 +34827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 183528,
+      "num": 183528,
+      "word": "宝石之国完结",
+      "onboard_time": 1710904713,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 183507,
       "num": 183507,
       "word": "惠英红 贾玲为自己而活没问题",
@@ -35289,6 +35369,14 @@
       "onboard_time": 1709378795,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 180881,
+      "num": 180881,
+      "word": "石凯实体专辑预售",
+      "onboard_time": 1710904052,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 180874,
@@ -39963,6 +40051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158091,
+      "num": 158091,
+      "word": "王一博追风者醉酒戏",
+      "onboard_time": 1710902972,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157997,
       "num": 157997,
       "word": "吴镇宇真是小嘴抹了鹤顶红",
@@ -42193,6 +42289,14 @@
       "onboard_time": 1709349210,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148139,
+      "num": 148139,
+      "word": "电影红楼梦阴谋与爱情预告",
+      "onboard_time": 1710903869,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 148115,
@@ -47819,6 +47923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121870,
+      "num": 121870,
+      "word": "杨幂张小斐挽手聚餐",
+      "onboard_time": 1710904713,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121821,
       "num": 121821,
       "word": "山东泰山横滨水手冲突",
@@ -48859,14 +48971,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 116241,
-      "num": 116241,
-      "word": "英国王室又一合照被曝P图",
-      "onboard_time": 1710902011,
-      "rank": 45,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 116188,
       "num": 116188,
       "word": "买干燥剂送坚果",
@@ -49139,6 +49243,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 114456,
+      "num": 114456,
+      "word": "艾艾精工12连板",
+      "onboard_time": 1710904713,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114419,
       "num": 114419,
       "word": "山东大馒头版AD钙奶上线",
@@ -49193,6 +49305,14 @@
       "onboard_time": 1709731231,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 114123,
+      "num": 114123,
+      "word": "曾黎与凤行灵尊妆",
+      "onboard_time": 1710903571,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 114115,
@@ -49531,6 +49651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112671,
+      "num": 1559298,
+      "word": "春季校园招聘进行时",
+      "onboard_time": 1710903632,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112593,
       "num": 112593,
       "word": "金龟子升级做姥姥了",
@@ -49587,12 +49715,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 112072,
+      "num": 112072,
+      "word": "动物森友会4周年",
+      "onboard_time": 1710902551,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 112065,
       "num": 112065,
       "word": "沙丘2的细腻视角",
       "onboard_time": 1709975490,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 112055,
+      "num": 112055,
+      "word": "赵丽颖林更新片场状况百出",
+      "onboard_time": 1710904592,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 111983,
@@ -50121,6 +50265,14 @@
       "onboard_time": 1709349210,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108164,
+      "num": 112970,
+      "word": "追风者魏若来演急急国王",
+      "onboard_time": 1710903389,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 108100,
@@ -53657,6 +53809,14 @@
       "onboard_time": 1709249364,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 52178,
+      "num": 181535,
+      "word": "世界之外这次我一定要强求",
+      "onboard_time": 1710904473,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 52174,

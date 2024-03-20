@@ -1,7 +1,15 @@
 {
   "startTime": 1710865343685,
-  "endTime": 1710902033637,
+  "endTime": 1710904740936,
   "band_list": [
+    {
+      "raw_hot": 3026537,
+      "num": 3026537,
+      "word": "沪上阿姨崩了",
+      "onboard_time": 1710901050,
+      "rank": 16,
+      "category": "美食"
+    },
     {
       "raw_hot": 2413924,
       "num": 2413924,
@@ -11,12 +19,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2004839,
-      "num": 2004839,
-      "word": "沪上阿姨崩了",
-      "onboard_time": 1710901050,
-      "rank": 16,
-      "category": "美食"
+      "raw_hot": 1824055,
+      "num": 1824055,
+      "word": "蒋敦豪 晴天",
+      "onboard_time": 1710901470,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1794881,
@@ -49,6 +57,14 @@
       "onboard_time": 1710874277,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1350100,
+      "num": 1350100,
+      "word": "英国王室又一合照被曝P图",
+      "onboard_time": 1710902011,
+      "rank": 45,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1284330,
@@ -91,6 +107,14 @@
       "category": "互联网,健康医疗"
     },
     {
+      "raw_hot": 879409,
+      "num": 879409,
+      "word": "呼北高速交通事故已造成14人死亡",
+      "onboard_time": 1710903451,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 863407,
       "num": 491243,
       "word": "特朗普谈凯特王妃修图照",
@@ -113,14 +137,6 @@
       "onboard_time": 1710894274,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 736152,
-      "num": 736152,
-      "word": "蒋敦豪 晴天",
-      "onboard_time": 1710901470,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 728693,
@@ -171,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 604538,
+      "num": 604538,
+      "word": "疑有医院员工试图查凯特病例被捕",
+      "onboard_time": 1710901650,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 584603,
       "num": 487934,
       "word": "琳琳 土豆",
@@ -179,8 +203,16 @@
       "category": "网红"
     },
     {
+      "raw_hot": 545845,
+      "num": 545845,
+      "word": "杨洋拄拐现身医院",
+      "onboard_time": 1710904052,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 522117,
-      "num": 253050,
+      "num": 253478,
       "word": "父亲买了一套无法过户的房子",
       "onboard_time": 1710899372,
       "rank": 20,
@@ -193,6 +225,14 @@
       "onboard_time": 1710864509,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 501808,
+      "num": 501808,
+      "word": "许嵩抢票",
+      "onboard_time": 1710901112,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 497091,
@@ -235,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 435549,
+      "num": 567105,
+      "word": "新的一天从800个哈欠开始",
+      "onboard_time": 1710901112,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 429713,
       "num": 288463,
       "word": "林更新录综艺cue了赵丽颖",
@@ -268,7 +316,7 @@
     },
     {
       "raw_hot": 352906,
-      "num": 248487,
+      "num": 251914,
       "word": "花5元给女儿买了一双高跟鞋",
       "onboard_time": 1710899670,
       "rank": 23,
@@ -280,6 +328,14 @@
       "word": "朱梓骁 纪凌尘是我的贵人",
       "onboard_time": 1710850294,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 333288,
+      "num": 191892,
+      "word": "郑合惠子直给",
+      "onboard_time": 1710904290,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -297,14 +353,6 @@
       "onboard_time": 1710883997,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 317613,
-      "num": 317613,
-      "word": "许嵩抢票",
-      "onboard_time": 1710901112,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 316807,
@@ -371,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289738,
+      "num": 188083,
+      "word": "视力模糊下降两根手指转天筋",
+      "onboard_time": 1710904592,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 286428,
       "num": 217069,
       "word": "张天爱好性感",
@@ -427,6 +483,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240763,
+      "num": 240763,
+      "word": "生是你的权利不生是你的自由",
+      "onboard_time": 1710902192,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 231465,
+      "num": 231465,
+      "word": "范玮琪48岁生日宴",
+      "onboard_time": 1710904171,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227335,
       "num": 227335,
       "word": "林更新回复评论",
@@ -451,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217200,
+      "num": 217200,
+      "word": "向佐主动cue人情世故梗",
+      "onboard_time": 1710903213,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216438,
       "num": 216438,
       "word": "何悯鸿找到新工作了",
@@ -467,11 +547,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208098,
-      "num": 208098,
-      "word": "新的一天从800个哈欠开始",
-      "onboard_time": 1710901112,
-      "rank": 35,
+      "raw_hot": 206258,
+      "num": 206258,
+      "word": "8小时内完成全天进食真的好吗",
+      "onboard_time": 1710902733,
+      "rank": 27,
       "category": "健康医疗"
     },
     {
@@ -515,14 +595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196408,
-      "num": 196408,
-      "word": "疑有医院员工试图查凯特病例被捕",
-      "onboard_time": 1710901650,
-      "rank": 27,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 196210,
       "num": 144030,
       "word": "早睡1小时身体竟然有这么多变化",
@@ -553,6 +625,22 @@
       "onboard_time": 1710890244,
       "rank": 33,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 183528,
+      "num": 183528,
+      "word": "宝石之国完结",
+      "onboard_time": 1710904713,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 180881,
+      "num": 180881,
+      "word": "石凯实体专辑预售",
+      "onboard_time": 1710904052,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 179062,
@@ -603,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158091,
+      "num": 158091,
+      "word": "王一博追风者醉酒戏",
+      "onboard_time": 1710902972,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156442,
       "num": 156442,
       "word": "大侦探最新一期全员发疯",
@@ -633,6 +729,14 @@
       "onboard_time": 1710847231,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148139,
+      "num": 148139,
+      "word": "电影红楼梦阴谋与爱情预告",
+      "onboard_time": 1710903869,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 146576,
@@ -723,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121870,
+      "num": 121870,
+      "word": "杨幂张小斐挽手聚餐",
+      "onboard_time": 1710904713,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120632,
       "num": 120632,
       "word": "联合利华剥离冰淇淋业务",
@@ -755,19 +867,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116241,
-      "num": 116241,
-      "word": "英国王室又一合照被曝P图",
-      "onboard_time": 1710902011,
-      "rank": 45,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 115630,
       "num": 115630,
       "word": "什么班还需要赵丽颖亲自来上",
       "onboard_time": 1710853834,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114456,
+      "num": 114456,
+      "word": "艾艾精工12连板",
+      "onboard_time": 1710904713,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 114123,
+      "num": 114123,
+      "word": "曾黎与凤行灵尊妆",
+      "onboard_time": 1710903571,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -779,12 +899,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112671,
+      "num": 1559298,
+      "word": "春季校园招聘进行时",
+      "onboard_time": 1710903632,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112447,
       "num": 112447,
       "word": "中国拥有亿元资产的家庭达13.3万户",
       "onboard_time": 1710838893,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 112072,
+      "num": 112072,
+      "word": "动物森友会4周年",
+      "onboard_time": 1710902551,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 112055,
+      "num": 112055,
+      "word": "赵丽颖林更新片场状况百出",
+      "onboard_time": 1710904592,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 110653,
@@ -801,6 +945,14 @@
       "onboard_time": 1710864031,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 108164,
+      "num": 112970,
+      "word": "追风者魏若来演急急国王",
+      "onboard_time": 1710903389,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 107721,
@@ -993,6 +1145,14 @@
       "onboard_time": 1710882016,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 52178,
+      "num": 181535,
+      "word": "世界之外这次我一定要强求",
+      "onboard_time": 1710904473,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 47941,
