@@ -1,0 +1,410 @@
+{
+  "runTime": 1710898235083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2345769,
+        "num": 2345769,
+        "word": "清明放假调休3天",
+        "onboard_time": 1710893794,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1284330,
+        "num": 1284330,
+        "word": "呼北高速特大交通事故已致13人死亡",
+        "onboard_time": 1710896915,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67642,
+        "num": 1219563,
+        "word": "我拍的春暖花开",
+        "onboard_time": 1710858519,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1163123,
+        "num": 1163123,
+        "word": "绯闻小三否认插足凯特王妃婚姻",
+        "onboard_time": 1710893131,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 986040,
+        "num": 986040,
+        "word": "春分",
+        "onboard_time": 1710889405,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 691876,
+        "num": 691876,
+        "word": "深圳地铁",
+        "onboard_time": 1710894274,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611296,
+        "num": 611296,
+        "word": "当你早睡一次 你的器官",
+        "onboard_time": 1710841955,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 539336,
+        "num": 539336,
+        "word": "想睡一觉躺挣5千结果进去了",
+        "onboard_time": 1710859360,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 511027,
+        "num": 511027,
+        "word": "家有儿女中的刘梅是合格的妈妈吗",
+        "onboard_time": 1710876617,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468357,
+        "num": 468357,
+        "word": "微信 月经提醒",
+        "onboard_time": 1710857978,
+        "rank": 9,
+        "category": "互联网,健康医疗"
+      },
+      {
+        "raw_hot": 1439614,
+        "num": 468314,
+        "word": "官方通报19岁少年生前被连续抽血16次",
+        "onboard_time": 1710892050,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1086508,
+        "num": 467869,
+        "word": "女孩酒店房间里遭多人暴打侮辱",
+        "onboard_time": 1710874277,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874769,
+        "num": 467541,
+        "word": "有个姐真把千机伞做出来了",
+        "onboard_time": 1710896132,
+        "rank": 12,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 863407,
+        "num": 467125,
+        "word": "特朗普谈凯特王妃修图照",
+        "onboard_time": 1710895895,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 466971,
+        "num": 466971,
+        "word": "琳琳 土豆",
+        "onboard_time": 1710892532,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 416837,
+        "num": 416837,
+        "word": "原来郑合惠子是单眼皮",
+        "onboard_time": 1710864509,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381349,
+        "num": 381349,
+        "word": "与凤行还挺费果冻的",
+        "onboard_time": 1710894754,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357086,
+        "num": 357086,
+        "word": "淀粉肠小王子日销售额涨超10倍",
+        "onboard_time": 1710859779,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 333389,
+        "num": 333389,
+        "word": "蒲熠星抢票",
+        "onboard_time": 1710895473,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303262,
+        "num": 303262,
+        "word": "科比首枚总冠军戒指被拍卖",
+        "onboard_time": 1710897032,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392183,
+        "num": 301484,
+        "word": "准备辞职时公司把我裁了",
+        "onboard_time": 1710890547,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295620,
+        "num": 295620,
+        "word": "曝新一任007演员已定",
+        "onboard_time": 1710896254,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287003,
+        "num": 287003,
+        "word": "何赛飞 权杖女王",
+        "onboard_time": 1710896668,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241127,
+        "num": 241127,
+        "word": "网友建议重庆地铁不准乘客携带菜筐",
+        "onboard_time": 1710892594,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236802,
+        "num": 236802,
+        "word": "2岁萌娃被投诉扰民吓得不会走路",
+        "onboard_time": 1710892350,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235855,
+        "num": 235855,
+        "word": "95后女孩考研失败后隐居荒岛",
+        "onboard_time": 1710856599,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219455,
+        "num": 219455,
+        "word": "研究称吃精制碳水早餐会降低颜值",
+        "onboard_time": 1710890907,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212640,
+        "num": 212640,
+        "word": "03年孩子爹出轨80年的女人",
+        "onboard_time": 1710833312,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205905,
+        "num": 205905,
+        "word": "赵丽颖三平台破万演员",
+        "onboard_time": 1710896313,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197887,
+        "num": 197887,
+        "word": "出师表的含金量在这一刻具像化了",
+        "onboard_time": 1710892230,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187925,
+        "num": 187925,
+        "word": "狐妖小红娘月红篇将延期",
+        "onboard_time": 1710887659,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177506,
+        "num": 177506,
+        "word": "白羊座生日快乐",
+        "onboard_time": 1710894518,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176871,
+        "num": 176871,
+        "word": "中国减持美债186亿美元",
+        "onboard_time": 1710897391,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172191,
+        "num": 172191,
+        "word": "与凤行 渣男",
+        "onboard_time": 1710859475,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170989,
+        "num": 170989,
+        "word": "没有牙齿也要刷牙吗",
+        "onboard_time": 1710895355,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169367,
+        "num": 169367,
+        "word": "张大大晒与李沁金晨合照",
+        "onboard_time": 1710870140,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166034,
+        "num": 166034,
+        "word": "刘学义考古",
+        "onboard_time": 1710891328,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154039,
+        "num": 154039,
+        "word": "月嫂回应掌掴婴儿是在赶虫子",
+        "onboard_time": 1710890244,
+        "rank": 37,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 164177,
+        "num": 151292,
+        "word": "花间令审美",
+        "onboard_time": 1710897813,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147621,
+        "num": 147621,
+        "word": "何悯鸿找到新工作了",
+        "onboard_time": 1710896132,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142279,
+        "num": 142279,
+        "word": "大侦探最新一期全员发疯",
+        "onboard_time": 1710895235,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141621,
+        "num": 141621,
+        "word": "赵丽颖玄学",
+        "onboard_time": 1710859057,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128289,
+        "num": 128289,
+        "word": "虎杖悠仁",
+        "onboard_time": 1710891869,
+        "rank": 42,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 120038,
+        "num": 120038,
+        "word": "为什么年轻人不愿意用信用卡了",
+        "onboard_time": 1710869780,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116529,
+        "num": 116529,
+        "word": "朱梓骁 纪凌尘是我的贵人",
+        "onboard_time": 1710850294,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115357,
+        "num": 115357,
+        "word": "逐渐消失的网红小吃",
+        "onboard_time": 1710851494,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113810,
+        "num": 113810,
+        "word": "凯特失踪之谜",
+        "onboard_time": 1710893672,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 110214,
+        "num": 110214,
+        "word": "鹊桥二号中继星发射升空",
+        "onboard_time": 1710896668,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107318,
+        "num": 107318,
+        "word": "阚清子开大G",
+        "onboard_time": 1710845136,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107314,
+        "num": 107314,
+        "word": "英媒发布凯特王妃现身视频引网友质疑",
+        "onboard_time": 1710854436,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平走进农田考察春耕备耕情况#"
+    }
+  }
+}
