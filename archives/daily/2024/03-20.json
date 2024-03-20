@@ -1,6 +1,6 @@
 {
   "startTime": 1710865343685,
-  "endTime": 1710898235083,
+  "endTime": 1710900186834,
   "band_list": [
     {
       "raw_hot": 2413924,
@@ -43,12 +43,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1167637,
+      "num": 1167637,
+      "word": "呼北高速山西吉河段交通事故已致13死",
+      "onboard_time": 1710896915,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1051566,
       "num": 1051566,
       "word": "当你早睡一次 你的器官",
       "onboard_time": 1710841955,
       "rank": 0,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1019249,
+      "num": 1019249,
+      "word": "有个姐真把千机伞做出来了",
+      "onboard_time": 1710896132,
+      "rank": 30,
+      "category": "休闲"
     },
     {
       "raw_hot": 986040,
@@ -65,14 +81,6 @@
       "onboard_time": 1710857978,
       "rank": 3,
       "category": "互联网,健康医疗"
-    },
-    {
-      "raw_hot": 874769,
-      "num": 467541,
-      "word": "有个姐真把千机伞做出来了",
-      "onboard_time": 1710896132,
-      "rank": 30,
-      "category": "休闲"
     },
     {
       "raw_hot": 863407,
@@ -131,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 587502,
+      "num": 387476,
+      "word": "科比首枚总冠军戒指被拍卖",
+      "onboard_time": 1710897032,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 565552,
       "num": 487934,
       "word": "琳琳 土豆",
@@ -145,6 +161,14 @@
       "onboard_time": 1710864509,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 504581,
+      "num": 253050,
+      "word": "父亲买了一套无法过户的房子",
+      "onboard_time": 1710899372,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 482958,
@@ -219,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327414,
+      "num": 327414,
+      "word": "婚后的隐形家务真的会让人崩溃",
+      "onboard_time": 1710899372,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 322499,
       "num": 322499,
       "word": "专家解析感冒的人多起来了",
@@ -241,14 +273,6 @@
       "onboard_time": 1710870140,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 303262,
-      "num": 303262,
-      "word": "科比首枚总冠军戒指被拍卖",
-      "onboard_time": 1710897032,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 298481,
@@ -283,19 +307,19 @@
       "category": "电影"
     },
     {
+      "raw_hot": 295086,
+      "num": 295086,
+      "word": "何赛飞 权杖女王",
+      "onboard_time": 1710896668,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293320,
       "num": 293320,
       "word": "阚清子开大G",
       "onboard_time": 1710845136,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 287003,
-      "num": 287003,
-      "word": "何赛飞 权杖女王",
-      "onboard_time": 1710896668,
-      "rank": 40,
       "category": "艺人"
     },
     {
@@ -353,6 +377,14 @@
       "onboard_time": 1710861816,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245313,
+      "num": 167597,
+      "word": "深圳地铁致歉",
+      "onboard_time": 1710899072,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227335,
@@ -427,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201814,
+      "num": 201814,
+      "word": "花5元给女儿买了一双高跟鞋",
+      "onboard_time": 1710899670,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 201262,
       "num": 201262,
       "word": "百度地图 潘杨之好",
@@ -443,6 +483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 195531,
+      "num": 195531,
+      "word": "没有牙齿也要刷牙吗",
+      "onboard_time": 1710895355,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 194966,
       "num": 194966,
       "word": "熊猫 我这一生如屡薄冰",
@@ -451,20 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187323,
-      "num": 187323,
-      "word": "没有牙齿也要刷牙吗",
-      "onboard_time": 1710895355,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 186992,
       "num": 186992,
       "word": "月嫂回应掌掴婴儿是在赶虫子",
       "onboard_time": 1710890244,
       "rank": 33,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 178193,
+      "num": 178193,
+      "word": "花间令审美",
+      "onboard_time": 1710897813,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 176871,
@@ -491,12 +539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164177,
-      "num": 151292,
-      "word": "花间令审美",
-      "onboard_time": 1710897813,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 160398,
+      "num": 160398,
+      "word": "春分穿梭机带你上春山",
+      "onboard_time": 1710899192,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156442,
@@ -531,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146576,
+      "num": 146576,
+      "word": "下班社恐跟我上班社牛有什么关系",
+      "onboard_time": 1710898295,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144715,
       "num": 144715,
       "word": "凯特失踪之谜",
@@ -553,6 +609,14 @@
       "onboard_time": 1710891869,
       "rank": 43,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 140694,
+      "num": 140694,
+      "word": "林一演的病人状态",
+      "onboard_time": 1710899552,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 132667,
@@ -603,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113607,
+      "num": 113607,
+      "word": "虞书欣新疆plog",
+      "onboard_time": 1710898531,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112982,
       "num": 112982,
       "word": "花间令妈妈疯了孩子没了",
@@ -617,6 +689,14 @@
       "onboard_time": 1710838893,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 110653,
+      "num": 110653,
+      "word": "罗小黑 春分",
+      "onboard_time": 1710899789,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 110602,
