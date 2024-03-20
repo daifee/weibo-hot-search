@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710959697866,
+  "endTime": 1710962052259,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -10795,6 +10795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 111098,
+      "num": 111098,
+      "word": "天水麻辣烫成都分烫火到闭店",
+      "onboard_time": 1710957140,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 110653,
       "num": 110653,
       "word": "罗小黑 春分",
@@ -11547,14 +11555,6 @@
       "category": "互联网,时尚"
     },
     {
-      "raw_hot": 63328,
-      "num": 63328,
-      "word": "天水麻辣烫成都分烫火到闭店",
-      "onboard_time": 1710957140,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 62730,
       "num": 492144,
       "word": "新势力周发券发疯了",
@@ -11811,6 +11811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35294,
+      "num": 32195,
+      "word": "早上该先刷牙还是先吃早饭",
+      "onboard_time": 1710958219,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 35023,
       "num": 35023,
       "word": "PRX赢了",
@@ -11881,14 +11889,6 @@
       "onboard_time": 1710876676,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31854,
-      "num": 32195,
-      "word": "早上该先刷牙还是先吃早饭",
-      "onboard_time": 1710958219,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 30695,
@@ -12041,6 +12041,14 @@
       "onboard_time": 1710879617,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15558,
+      "num": 22524,
+      "word": "为什么牙不好疾病满身跑",
+      "onboard_time": 1710961576,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 15131,

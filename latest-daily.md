@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/03/21 00:22:57 ~ 2024/03/21 02:34:57
+本榜单时间：2024/03/21 00:22:57 ~ 2024/03/21 03:14:12
 </p>
 </blockquote>
 <p>
@@ -237,6 +237,12 @@ iPhone16系列或实现更大显示屏（热度：129962）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%88%90%E9%83%BD%E5%88%86%E7%83%AB%E7%81%AB%E5%88%B0%E9%97%AD%E5%BA%97%23" target="weibo">
+天水麻辣烫成都分烫火到闭店（热度：111098）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%BE%8E%E5%9B%BD%E5%8D%96%E4%B8%89%E8%B9%A6%E5%AD%90%E9%A6%96%E6%97%A5%E8%BF%9B%E8%B4%A61%E4%B8%87%E7%BE%8E%E9%87%91%23" target="weibo">
 男生美国卖三蹦子首日进账1万美金（热度：111025）
 </a>
@@ -333,12 +339,6 @@ BLG四人亮天使致敬angel（热度：82130）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B0%B4%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%88%90%E9%83%BD%E5%88%86%E7%83%AB%E7%81%AB%E5%88%B0%E9%97%AD%E5%BA%97%23" target="weibo">
-天水麻辣烫成都分烫火到闭店（热度：63328）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E6%A8%BE%E6%9D%A8%E9%87%87%E8%96%87%E7%9B%B8%E8%AE%A4%23" target="weibo">
 潘樾杨采薇相认（热度：57418）
 </a>
@@ -382,7 +382,7 @@ BLG四人亮天使致敬angel（热度：82130）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E4%B8%8A%E8%AF%A5%E5%85%88%E5%88%B7%E7%89%99%E8%BF%98%E6%98%AF%E5%85%88%E5%90%83%E6%97%A9%E9%A5%AD%23" target="weibo">
-早上该先刷牙还是先吃早饭（热度：31854）
+早上该先刷牙还是先吃早饭（热度：35294）
 </a>
 </li>
 
@@ -395,6 +395,12 @@ BLG四人亮天使致敬angel（热度：82130）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TXT%E6%96%B0%E9%A2%84%E5%91%8A%23" target="weibo">
 TXT新预告（热度：17018）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%89%99%E4%B8%8D%E5%A5%BD%E7%96%BE%E7%97%85%E6%BB%A1%E8%BA%AB%E8%B7%91%23" target="weibo">
+为什么牙不好疾病满身跑（热度：15558）
 </a>
 </li>
 

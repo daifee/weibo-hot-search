@@ -1,6 +1,6 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1710959697866,
+  "endTime": 1710962052259,
   "band_list": [
     {
       "raw_hot": 1255856,
@@ -299,6 +299,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 111098,
+      "num": 111098,
+      "word": "天水麻辣烫成都分烫火到闭店",
+      "onboard_time": 1710957140,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 111025,
       "num": 119250,
       "word": "男生美国卖三蹦子首日进账1万美金",
@@ -427,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63328,
-      "num": 63328,
-      "word": "天水麻辣烫成都分烫火到闭店",
-      "onboard_time": 1710957140,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 57418,
       "num": 57418,
       "word": "潘樾杨采薇相认",
@@ -491,7 +491,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31854,
+      "raw_hot": 35294,
       "num": 32195,
       "word": "早上该先刷牙还是先吃早饭",
       "onboard_time": 1710958219,
@@ -513,6 +513,14 @@
       "onboard_time": 1710958878,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 15558,
+      "num": 22524,
+      "word": "为什么牙不好疾病满身跑",
+      "onboard_time": 1710961576,
+      "rank": 45,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
