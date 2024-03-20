@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710951777162,
+  "endTime": 1710952721481,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -2275,6 +2275,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 612206,
+      "num": 160923,
+      "word": "河北邯郸一高中生被同学打伤睾丸",
+      "onboard_time": 1710948992,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611756,
       "num": 611756,
       "word": "山东一学校惊现4层楼高视力表",
@@ -2313,14 +2321,6 @@
       "onboard_time": 1710669811,
       "rank": 18,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 606935,
-      "num": 160923,
-      "word": "河北邯郸一高中生被同学打伤睾丸",
-      "onboard_time": 1710948992,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 606895,
@@ -4811,6 +4811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301303,
+      "num": 301303,
+      "word": "腾讯8款游戏年收入超40亿",
+      "onboard_time": 1710947855,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 300744,
       "num": 300744,
       "word": "神君行止就位",
@@ -5041,6 +5049,14 @@
       "onboard_time": 1710648810,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 284757,
+      "num": 223867,
+      "word": "花间令开始吓人了",
+      "onboard_time": 1710952049,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 284587,
@@ -6099,6 +6115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 225033,
+      "num": 225033,
+      "word": "刘学义配角演了8年",
+      "onboard_time": 1710951928,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224738,
       "num": 224738,
       "word": "蔡依林重庆",
@@ -6137,14 +6161,6 @@
       "onboard_time": 1710683199,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224203,
-      "num": 224203,
-      "word": "腾讯8款游戏年收入超40亿",
-      "onboard_time": 1710947855,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 223867,
@@ -9443,6 +9459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147887,
+      "num": 133838,
+      "word": "打工人开始尝试用刮刮乐打上班卡",
+      "onboard_time": 1710950311,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147605,
       "num": 147605,
       "word": "RNG无缘春季赛季后赛",
@@ -10083,14 +10107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133039,
-      "num": 133039,
-      "word": "打工人开始尝试用刮刮乐打上班卡",
-      "onboard_time": 1710950311,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 132779,
       "num": 455242,
       "word": "接下来杭州是这样的",
@@ -10137,6 +10153,14 @@
       "onboard_time": 1710826414,
       "rank": 49,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 131205,
+      "num": 131205,
+      "word": "周杰伦方回应败诉",
+      "onboard_time": 1710952648,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 131200,
@@ -11233,6 +11257,14 @@
       "onboard_time": 1710890848,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 81061,
+      "num": 81061,
+      "word": "想瘦脸少不了练背",
+      "onboard_time": 1710952407,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 80965,

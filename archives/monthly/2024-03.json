@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710951777162,
+  "endTime": 1710952721481,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -9923,6 +9923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 612206,
+      "num": 160923,
+      "word": "河北邯郸一高中生被同学打伤睾丸",
+      "onboard_time": 1710948992,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611928,
       "num": 611928,
       "word": "上海中山医院辟谣张学友住进ICU",
@@ -10033,14 +10041,6 @@
       "onboard_time": 1710372683,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 606935,
-      "num": 160923,
-      "word": "河北邯郸一高中生被同学打伤睾丸",
-      "onboard_time": 1710948992,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 606895,
@@ -21779,6 +21779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 301303,
+      "num": 301303,
+      "word": "腾讯8款游戏年收入超40亿",
+      "onboard_time": 1710947855,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 301210,
       "num": 261153,
       "word": "相恋10年男友婚前查出白血病",
@@ -23009,6 +23017,14 @@
       "onboard_time": 1710333933,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 284757,
+      "num": 223867,
+      "word": "花间令开始吓人了",
+      "onboard_time": 1710952049,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 284587,
@@ -28307,6 +28323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 225033,
+      "num": 225033,
+      "word": "刘学义配角演了8年",
+      "onboard_time": 1710951928,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224941,
       "num": 224941,
       "word": "LNG战胜EDG",
@@ -28417,14 +28441,6 @@
       "onboard_time": 1709624252,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 224203,
-      "num": 224203,
-      "word": "腾讯8款游戏年收入超40亿",
-      "onboard_time": 1710947855,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 224200,
@@ -43891,6 +43907,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 147887,
+      "num": 133838,
+      "word": "打工人开始尝试用刮刮乐打上班卡",
+      "onboard_time": 1710950311,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147820,
       "num": 147820,
       "word": "古诗词里的春天自带氛围感",
@@ -47379,14 +47403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 133039,
-      "num": 133039,
-      "word": "打工人开始尝试用刮刮乐打上班卡",
-      "onboard_time": 1710950311,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 133016,
       "num": 133016,
       "word": "头一次见过这么离谱的化妆手法",
@@ -47705,6 +47721,14 @@
       "onboard_time": 1709606131,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131205,
+      "num": 131205,
+      "word": "周杰伦方回应败诉",
+      "onboard_time": 1710952648,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 131200,
@@ -54177,6 +54201,14 @@
       "onboard_time": 1710560257,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 81061,
+      "num": 81061,
+      "word": "想瘦脸少不了练背",
+      "onboard_time": 1710952407,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 80965,
