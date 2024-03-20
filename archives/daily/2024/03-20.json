@@ -1,7 +1,15 @@
 {
   "startTime": 1710865343685,
-  "endTime": 1710930836507,
+  "endTime": 1710933299503,
   "band_list": [
+    {
+      "raw_hot": 7741702,
+      "num": 7741702,
+      "word": "东航致132人遇难事故调查进展发布",
+      "onboard_time": 1710930218,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3026537,
       "num": 3026537,
@@ -9,14 +17,6 @@
       "onboard_time": 1710901050,
       "rank": 16,
       "category": "美食"
-    },
-    {
-      "raw_hot": 2932600,
-      "num": 2932600,
-      "word": "东航致132人遇难事故调查进展发布",
-      "onboard_time": 1710930218,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2413924,
@@ -251,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 761322,
+      "num": 761322,
+      "word": "2024年全国高考时间确定",
+      "onboard_time": 1710931418,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 738440,
       "num": 738440,
       "word": "深圳地铁",
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 729147,
-      "num": 270145,
+      "num": 321605,
       "word": "第一次知道刷牙后不用漱口",
       "onboard_time": 1710919592,
       "rank": 30,
@@ -385,6 +393,14 @@
       "onboard_time": 1710911312,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 585483,
+      "num": 585483,
+      "word": "龚俊邓为撞衫",
+      "onboard_time": 1710932259,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 584603,
@@ -523,20 +539,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 484475,
+      "num": 459621,
+      "word": "微信及WeChat月活13.43亿",
+      "onboard_time": 1710928115,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 482958,
       "num": 482958,
       "word": "蒲熠星抢票",
       "onboard_time": 1710895473,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 480167,
-      "num": 459621,
-      "word": "微信及WeChat月活13.43亿",
-      "onboard_time": 1710928115,
-      "rank": 12,
-      "category": "互联网"
     },
     {
       "raw_hot": 474215,
@@ -579,6 +595,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 440083,
+      "num": 440083,
+      "word": "李沁方回应被短剧P黑白照",
+      "onboard_time": 1710930395,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439287,
       "num": 439287,
       "word": "深圳地铁致歉",
@@ -611,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392010,
+      "num": 392010,
+      "word": "Uzi被提名LOL历史第二人",
+      "onboard_time": 1710932500,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 389325,
       "num": 234723,
       "word": "减肥期拌菜",
@@ -627,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385443,
+      "num": 385443,
+      "word": "恶作剧之吻",
+      "onboard_time": 1710929676,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378236,
       "num": 246335,
       "word": "03年孩子爹出轨80年的女人",
@@ -635,20 +675,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 372702,
-      "num": 372702,
-      "word": "恶作剧之吻",
-      "onboard_time": 1710929676,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 372213,
       "num": 364853,
       "word": "52岁男子爱吃生腌感染3种寄生虫",
       "onboard_time": 1710923734,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 371297,
+      "num": 371297,
+      "word": "iPhone16系列或实现更大显示屏",
+      "onboard_time": 1710930996,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 370763,
@@ -721,6 +761,14 @@
       "onboard_time": 1710924696,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 334409,
+      "num": 334409,
+      "word": "aespa舞台",
+      "onboard_time": 1710931234,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 332860,
@@ -859,6 +907,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 285559,
+      "num": 285559,
+      "word": "精简后的低成本防晒",
+      "onboard_time": 1710932140,
+      "rank": 23,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 284716,
+      "num": 284716,
+      "word": "肖战镜头下的横店",
+      "onboard_time": 1710931898,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281445,
       "num": 254491,
       "word": "研究称吃精制碳水早餐会降低颜值",
@@ -993,6 +1057,14 @@
       "onboard_time": 1710908496,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 237645,
+      "num": 237645,
+      "word": "沪上阿姨紧急补货",
+      "onboard_time": 1710932317,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 237431,
@@ -1163,6 +1235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212250,
+      "num": 471674,
+      "word": "每天三五百个网红专往杭州这座山头跑",
+      "onboard_time": 1710924155,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 210931,
       "num": 210931,
       "word": "台州高校汽车撞行人事件致3死16伤",
@@ -1195,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206638,
+      "num": 206638,
+      "word": "张杰新专辑要得",
+      "onboard_time": 1710932797,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205864,
       "num": 205864,
       "word": "白羊座生日快乐",
@@ -1219,20 +1307,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 203321,
+      "num": 203321,
+      "word": "KPL",
+      "onboard_time": 1710932678,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203116,
       "num": 203116,
       "word": "嘬老族",
       "onboard_time": 1710860198,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 201317,
-      "num": 467239,
-      "word": "每天三五百个网红专往杭州这座山头跑",
-      "onboard_time": 1710924155,
-      "rank": 29,
-      "category": "旅游"
     },
     {
       "raw_hot": 201262,
@@ -1299,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194807,
+      "num": 194807,
+      "word": "LNG对战AL",
+      "onboard_time": 1710932919,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194029,
       "num": 226413,
       "word": "90后女孩成了66位老人的妈妈",
@@ -1347,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182379,
+      "num": 182379,
+      "word": "朱劲草血脉压制朱大力",
+      "onboard_time": 1710930636,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180881,
       "num": 180881,
       "word": "石凯实体专辑预售",
@@ -1369,6 +1473,14 @@
       "onboard_time": 1710897813,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177777,
+      "num": 177777,
+      "word": "沈梦辰 我和杨迪谁帅",
+      "onboard_time": 1710933158,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 176871,
@@ -1401,14 +1513,6 @@
       "onboard_time": 1710910772,
       "rank": 41,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 175308,
-      "num": 175308,
-      "word": "李沁方回应被短剧P黑白照",
-      "onboard_time": 1710930395,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 175014,
@@ -1561,6 +1665,14 @@
       "onboard_time": 1710846513,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153273,
+      "num": 153273,
+      "word": "闪耀暖暖魔仙咒语",
+      "onboard_time": 1710931958,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 153061,
@@ -1940,7 +2052,7 @@
     },
     {
       "raw_hot": 112124,
-      "num": 468219,
+      "num": 482152,
       "word": "奔马不踏飞燕改行捣辣椒做麻辣烫了",
       "onboard_time": 1710928235,
       "rank": 8,
@@ -1953,14 +2065,6 @@
       "onboard_time": 1710902551,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 111407,
-      "num": 111407,
-      "word": "朱劲草血脉压制朱大力",
-      "onboard_time": 1710930636,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 111366,
@@ -2123,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96210,
+      "num": 179023,
+      "word": "太空育种鲜花大规模上市",
+      "onboard_time": 1710932439,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90388,
       "num": 90388,
       "word": "全国的富裕家庭都集中在哪",
@@ -2259,20 +2371,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62700,
+      "num": 459372,
+      "word": "此沙张婧仪周雨彤春分踏青",
+      "onboard_time": 1710929436,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60707,
       "num": 356453,
       "word": "世界之外这次我一定要强求",
       "onboard_time": 1710904473,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 60451,
-      "num": 223553,
-      "word": "此沙张婧仪周雨彤春分踏青",
-      "onboard_time": 1710929436,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 56609,
@@ -2289,6 +2401,14 @@
       "onboard_time": 1710882016,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 52034,
+      "num": 409379,
+      "word": "淘宝红人人均身价超千万",
+      "onboard_time": 1710932439,
+      "rank": 14,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 47941,
@@ -2404,7 +2524,7 @@
     },
     {
       "raw_hot": 15320,
-      "num": 297464,
+      "num": 955756,
       "word": "播种春天播撒希望",
       "onboard_time": 1710918693,
       "rank": 16,
