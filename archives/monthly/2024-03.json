@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710944188999,
+  "endTime": 1710945264934,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -2217,6 +2217,14 @@
       "onboard_time": 1709701172,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1457809,
+      "num": 768910,
+      "word": "关晓彤短发",
+      "onboard_time": 1710943116,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1457349,
@@ -5803,14 +5811,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 873564,
-      "num": 702983,
-      "word": "关晓彤短发",
-      "onboard_time": 1710943116,
-      "rank": 4,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 872567,
       "num": 312102,
       "word": "小S因公公去世停工一周",
@@ -6827,6 +6827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 781441,
+      "num": 781441,
+      "word": "专家称打工人午睡15分钟足够",
+      "onboard_time": 1710940776,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 780411,
       "num": 240193,
       "word": "何猷君奚梦瑶参加新船下水礼",
@@ -7585,6 +7593,14 @@
       "onboard_time": 1710256414,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 732662,
+      "num": 732662,
+      "word": "藏海传",
+      "onboard_time": 1710943116,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 732490,
@@ -10315,14 +10331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 593240,
-      "num": 593240,
-      "word": "专家称打工人午睡15分钟足够",
-      "onboard_time": 1710940776,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 593167,
       "num": 254692,
       "word": "00后大胆自拍拒绝身材羞耻",
@@ -10601,6 +10609,14 @@
       "onboard_time": 1709344168,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 579999,
+      "num": 507936,
+      "word": "山西高速致14死大巴车载夕阳红旅行团",
+      "onboard_time": 1710942095,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 579877,
@@ -11331,6 +11347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 554409,
+      "num": 554409,
+      "word": "汪东城你年龄是满40减20吗",
+      "onboard_time": 1710941855,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 554364,
       "num": 554364,
       "word": "英媒称团队夜以继日筹划凯特王妃复出",
@@ -11763,14 +11787,6 @@
       "category": "国内时政,教育"
     },
     {
-      "raw_hot": 541722,
-      "num": 458781,
-      "word": "藏海传",
-      "onboard_time": 1710943116,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 541680,
       "num": 541680,
       "word": "陈建斌又一次爱上了蒋勤勤",
@@ -12033,14 +12049,6 @@
       "onboard_time": 1710556056,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 532834,
-      "num": 451814,
-      "word": "山西高速致14死大巴车载夕阳红旅行团",
-      "onboard_time": 1710942095,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 532439,
@@ -12841,14 +12849,6 @@
       "onboard_time": 1710640711,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 504244,
-      "num": 450920,
-      "word": "汪东城你年龄是满40减20吗",
-      "onboard_time": 1710941855,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 503743,
@@ -14377,6 +14377,14 @@
       "onboard_time": 1709351248,
       "rank": 13,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 462159,
+      "num": 318895,
+      "word": "床垫上的膜到底能不能撕",
+      "onboard_time": 1710943717,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 462026,
@@ -20571,6 +20579,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 319099,
+      "num": 319099,
+      "word": "新中式穿搭",
+      "onboard_time": 1710942395,
+      "rank": 22,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 319086,
       "num": 280377,
       "word": "小伙昏睡两天称穿越见去世表哥实为得癔症",
@@ -21793,14 +21809,6 @@
       "onboard_time": 1709536830,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 299837,
-      "num": 299837,
-      "word": "新中式穿搭",
-      "onboard_time": 1710942395,
-      "rank": 22,
-      "category": "时尚"
     },
     {
       "raw_hot": 299803,
@@ -24275,6 +24283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 265924,
+      "num": 265924,
+      "word": "承欢记",
+      "onboard_time": 1710944256,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265818,
       "num": 257696,
       "word": "我妈把亲戚的工作搞丢了",
@@ -26419,6 +26435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 242231,
+      "num": 242231,
+      "word": "一年级班主任的课间能有多忙",
+      "onboard_time": 1710944617,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 242057,
       "num": 242057,
       "word": "王锵徐若晗还原东宫名场面",
@@ -27043,6 +27067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 236477,
+      "num": 236477,
+      "word": "戚薇的包是个方向盘",
+      "onboard_time": 1710943538,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236300,
       "num": 231533,
       "word": "看啥都想买是对童年的过度补偿",
@@ -27209,6 +27241,14 @@
       "onboard_time": 1710917370,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 234568,
+      "num": 234568,
+      "word": "最擅于隐藏情绪的星座",
+      "onboard_time": 1710944617,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 234395,
@@ -27801,14 +27841,6 @@
       "onboard_time": 1710591574,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 228556,
-      "num": 228556,
-      "word": "戚薇的包是个方向盘",
-      "onboard_time": 1710943538,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 228469,
@@ -28715,6 +28747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221993,
+      "num": 221993,
+      "word": "沈璃一秒开大",
+      "onboard_time": 1710944380,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221926,
       "num": 221926,
       "word": "珠帘玉幕官配",
@@ -28833,14 +28873,6 @@
       "onboard_time": 1710306874,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221285,
-      "num": 221285,
-      "word": "床垫上的膜到底能不能撕",
-      "onboard_time": 1710943717,
-      "rank": 33,
-      "category": "科学科普"
     },
     {
       "raw_hot": 221255,
@@ -31763,6 +31795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203525,
+      "num": 203525,
+      "word": "WE对战eStar",
+      "onboard_time": 1710944617,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203388,
       "num": 203388,
       "word": "零跑c10",
@@ -33313,6 +33353,14 @@
       "onboard_time": 1710158910,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196369,
+      "num": 196369,
+      "word": "陈楚生深圳演唱会vlog",
+      "onboard_time": 1710944138,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 196363,
@@ -35123,6 +35171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188369,
+      "num": 188369,
+      "word": "墨方 纯爱战士",
+      "onboard_time": 1710944858,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188352,
       "num": 188352,
       "word": "朱一龙GQ",
@@ -35817,6 +35873,14 @@
       "onboard_time": 1710841295,
       "rank": 36,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 184545,
+      "num": 184545,
+      "word": "拼多多涨逾15%",
+      "onboard_time": 1710944917,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 184508,
@@ -48915,14 +48979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 125066,
-      "num": 125066,
-      "word": "陈楚生深圳演唱会vlog",
-      "onboard_time": 1710944138,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 125061,
       "num": 125061,
       "word": "唐人街探案",
@@ -54787,6 +54843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66165,
+      "num": 468070,
+      "word": "麻省理工官宣睡眠伙伴",
+      "onboard_time": 1710942756,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66138,
       "num": 66138,
       "word": "小鹏汽车发布苏州P7事故通报",
@@ -56099,14 +56163,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 40087,
-      "num": 455856,
-      "word": "麻省理工官宣睡眠伙伴",
-      "onboard_time": 1710942756,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40017,
       "num": 48505,
       "word": "2024PEL春季赛",
@@ -56707,6 +56763,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 27357,
+      "num": 197025,
+      "word": "智能床垫有哪些优势",
+      "onboard_time": 1710944677,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 27084,
       "num": 33592,
       "word": "有一种叫云南的生活",
@@ -57148,7 +57212,7 @@
     },
     {
       "raw_hot": 17738,
-      "num": 242400,
+      "num": 248388,
       "word": "AI哄睡靠谱吗",
       "onboard_time": 1710941737,
       "rank": 29,
