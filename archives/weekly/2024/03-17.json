@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710905663085,
+  "endTime": 1710908531648,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -515,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1456188,
+      "num": 1456188,
+      "word": "库克郑恺外滩偶遇",
+      "onboard_time": 1710906513,
+      "rank": 1,
+      "category": "数码,艺人"
+    },
+    {
       "raw_hot": 1439554,
       "num": 1439554,
       "word": "周杰伦一审败诉网易",
@@ -739,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1240856,
+      "num": 562499,
+      "word": "杨幂张小斐挽手聚餐",
+      "onboard_time": 1710904713,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1225304,
       "num": 1225304,
       "word": "李惠利吴世勋裴秀智毕业合照",
@@ -913,6 +929,14 @@
       "onboard_time": 1710747517,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1086457,
+      "num": 452528,
+      "word": "四川警方通报14岁女孩纠集多人围殴男孩",
+      "onboard_time": 1710904891,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1082972,
@@ -1185,14 +1209,6 @@
       "onboard_time": 1710732393,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 919423,
-      "num": 562499,
-      "word": "杨幂张小斐挽手聚餐",
-      "onboard_time": 1710904713,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 914306,
@@ -1867,6 +1883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 651909,
+      "num": 447363,
+      "word": "知否屠二爷是赵丽颖推荐的",
+      "onboard_time": 1710907233,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 651754,
       "num": 651754,
       "word": "王楚钦vs梁靖崑",
@@ -1969,6 +1993,14 @@
       "onboard_time": 1710736239,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 628480,
+      "num": 628480,
+      "word": "郑合惠子直给",
+      "onboard_time": 1710904290,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 628298,
@@ -2428,7 +2460,7 @@
     },
     {
       "raw_hot": 522117,
-      "num": 253478,
+      "num": 355344,
       "word": "父亲买了一套无法过户的房子",
       "onboard_time": 1710899372,
       "rank": 20,
@@ -2449,14 +2481,6 @@
       "onboard_time": 1710737977,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 516560,
-      "num": 516560,
-      "word": "郑合惠子直给",
-      "onboard_time": 1710904290,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 516204,
@@ -2867,6 +2891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441636,
+      "num": 441636,
+      "word": "红楼梦抢票",
+      "onboard_time": 1710905854,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 440709,
       "num": 440709,
       "word": "王曼昱世界排名重返第二",
@@ -2897,6 +2929,14 @@
       "onboard_time": 1710839852,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 437310,
+      "num": 437310,
+      "word": "视力模糊下降两根手指转天筋",
+      "onboard_time": 1710904592,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 434126,
@@ -3307,14 +3347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 387583,
-      "num": 194241,
-      "word": "视力模糊下降两根手指转天筋",
-      "onboard_time": 1710904592,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 387169,
       "num": 324942,
       "word": "为什么考公没有考研让人感动",
@@ -3665,6 +3697,14 @@
       "onboard_time": 1710668371,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334976,
+      "num": 334976,
+      "word": "刘烨也逃不开的中年三件套",
+      "onboard_time": 1710907116,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 333627,
@@ -4049,6 +4089,14 @@
       "onboard_time": 1710599379,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 301960,
+      "num": 301960,
+      "word": "聂可以 文哲",
+      "onboard_time": 1710906391,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 301589,
@@ -5123,14 +5171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 224545,
-      "num": 224545,
-      "word": "四川警方通报14岁女孩纠集多人围殴男孩",
-      "onboard_time": 1710904891,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224478,
       "num": 224478,
       "word": "马斯克回应服用K粉",
@@ -5419,6 +5459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 216896,
+      "num": 1185157,
+      "word": "春分是整个春季中的C位节气",
+      "onboard_time": 1710906271,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216487,
       "num": 216487,
       "word": "选出所有的阮经天",
@@ -5483,6 +5531,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 214446,
+      "num": 214446,
+      "word": "新说唱选手发不完根本发不完",
+      "onboard_time": 1710906693,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214298,
       "num": 214298,
       "word": "陈建斌蒋勤勤牵手看展",
@@ -5523,6 +5579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212073,
+      "num": 210444,
+      "word": "吴磊赤膊骑车",
+      "onboard_time": 1710907715,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 211289,
       "num": 211289,
       "word": "普京感谢选民支持",
@@ -5553,6 +5617,14 @@
       "onboard_time": 1710812554,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210261,
+      "num": 210261,
+      "word": "舒畅穿马面裙去泰国",
+      "onboard_time": 1710908134,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 209788,
@@ -5899,6 +5971,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 199571,
+      "num": 199571,
+      "word": "当狗狗第一次有了娃还是独生子",
+      "onboard_time": 1710904952,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199531,
       "num": 199531,
       "word": "2024LPL",
@@ -6124,7 +6204,7 @@
     },
     {
       "raw_hot": 194029,
-      "num": 194029,
+      "num": 211308,
       "word": "90后女孩成了66位老人的妈妈",
       "onboard_time": 1710904652,
       "rank": 31,
@@ -6401,6 +6481,14 @@
       "onboard_time": 1710671316,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188080,
+      "num": 188080,
+      "word": "拥有一份好工作的10个特征",
+      "onboard_time": 1710907475,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 187414,
@@ -7035,6 +7123,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169876,
+      "num": 169876,
+      "word": "癌症是基因注定的吗",
+      "onboard_time": 1710906271,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 169601,
+      "num": 210584,
+      "word": "A股",
+      "onboard_time": 1710730054,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 169557,
       "num": 151686,
       "word": "赵丽颖林更新薅头发花絮",
@@ -7361,14 +7465,6 @@
       "onboard_time": 1710844114,
       "rank": 8,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 159942,
-      "num": 159942,
-      "word": "当狗狗第一次有了娃还是独生子",
-      "onboard_time": 1710904952,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 159629,
@@ -7875,6 +7971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148687,
+      "num": 148687,
+      "word": "陈奕迅武汉",
+      "onboard_time": 1710908496,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148205,
       "num": 148205,
       "word": "鹿晗soeasy说早了",
@@ -8267,6 +8371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136171,
+      "num": 155648,
+      "word": "借哥哥军装拍照的00后立二等功",
+      "onboard_time": 1710907955,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135734,
       "num": 135734,
       "word": "五哈4升级为国际旅行社",
@@ -8403,6 +8515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133501,
+      "num": 133501,
+      "word": "大学生的砍价程度",
+      "onboard_time": 1710907233,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133162,
       "num": 133162,
       "word": "甘肃麻辣涮老板火速贴字爆改招牌",
@@ -8425,14 +8545,6 @@
       "onboard_time": 1710745114,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132893,
-      "num": 132893,
-      "word": "A股",
-      "onboard_time": 1710730054,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 132779,
@@ -9627,6 +9739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60707,
+      "num": 356453,
+      "word": "世界之外这次我一定要强求",
+      "onboard_time": 1710904473,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 60340,
       "num": 343397,
       "word": "林高远说非常珍惜和马龙组双打",
@@ -9649,14 +9769,6 @@
       "onboard_time": 1710607470,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 55469,
-      "num": 236236,
-      "word": "世界之外这次我一定要强求",
-      "onboard_time": 1710904473,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 55096,

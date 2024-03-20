@@ -1,6 +1,6 @@
 {
   "startTime": 1710865343685,
-  "endTime": 1710905663085,
+  "endTime": 1710908531648,
   "band_list": [
     {
       "raw_hot": 3026537,
@@ -51,6 +51,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 1456188,
+      "num": 1456188,
+      "word": "库克郑恺外滩偶遇",
+      "onboard_time": 1710906513,
+      "rank": 1,
+      "category": "数码,艺人"
+    },
+    {
       "raw_hot": 1433129,
       "num": 500517,
       "word": "女孩酒店房间里遭多人暴打侮辱",
@@ -83,11 +91,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1240856,
+      "num": 562499,
+      "word": "杨幂张小斐挽手聚餐",
+      "onboard_time": 1710904713,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1167637,
       "num": 1167637,
       "word": "呼北高速山西吉河段交通事故已致13死",
       "onboard_time": 1710896915,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1086457,
+      "num": 452528,
+      "word": "四川警方通报14岁女孩纠集多人围殴男孩",
+      "onboard_time": 1710904891,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -113,14 +137,6 @@
       "onboard_time": 1710889405,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 919423,
-      "num": 562499,
-      "word": "杨幂张小斐挽手聚餐",
-      "onboard_time": 1710904713,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 880314,
@@ -195,6 +211,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 651909,
+      "num": 447363,
+      "word": "知否屠二爷是赵丽颖推荐的",
+      "onboard_time": 1710907233,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 628480,
+      "num": 628480,
+      "word": "郑合惠子直给",
+      "onboard_time": 1710904290,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 606895,
       "num": 606895,
       "word": "家有儿女中的刘梅是合格的妈妈吗",
@@ -228,19 +260,11 @@
     },
     {
       "raw_hot": 522117,
-      "num": 253478,
+      "num": 355344,
       "word": "父亲买了一套无法过户的房子",
       "onboard_time": 1710899372,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 516560,
-      "num": 516560,
-      "word": "郑合惠子直给",
-      "onboard_time": 1710904290,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 508544,
@@ -291,12 +315,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 441636,
+      "num": 441636,
+      "word": "红楼梦抢票",
+      "onboard_time": 1710905854,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 439287,
       "num": 439287,
       "word": "深圳地铁致歉",
       "onboard_time": 1710899072,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 437310,
+      "num": 437310,
+      "word": "视力模糊下降两根手指转天筋",
+      "onboard_time": 1710904592,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 429713,
@@ -313,14 +353,6 @@
       "onboard_time": 1710894754,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 387583,
-      "num": 194241,
-      "word": "视力模糊下降两根手指转天筋",
-      "onboard_time": 1710904592,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 378236,
@@ -355,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334976,
+      "num": 334976,
+      "word": "刘烨也逃不开的中年三件套",
+      "onboard_time": 1710907116,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 332860,
       "num": 332860,
       "word": "与凤行 渣男",
@@ -385,6 +425,14 @@
       "onboard_time": 1710870140,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301960,
+      "num": 301960,
+      "word": "聂可以 文哲",
+      "onboard_time": 1710906391,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 298481,
@@ -539,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224545,
-      "num": 224545,
-      "word": "四川警方通报14岁女孩纠集多人围殴男孩",
-      "onboard_time": 1710904891,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 222711,
       "num": 222711,
       "word": "8小时内完成全天进食真的好吗",
@@ -563,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216896,
+      "num": 1185157,
+      "word": "春分是整个春季中的C位节气",
+      "onboard_time": 1710906271,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216438,
       "num": 216438,
       "word": "何悯鸿找到新工作了",
@@ -571,12 +619,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214446,
+      "num": 214446,
+      "word": "新说唱选手发不完根本发不完",
+      "onboard_time": 1710906693,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 212073,
+      "num": 210444,
+      "word": "吴磊赤膊骑车",
+      "onboard_time": 1710907715,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210931,
       "num": 210931,
       "word": "台州高校汽车撞行人事件致3死16伤",
       "onboard_time": 1710856599,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210261,
+      "num": 210261,
+      "word": "舒畅穿马面裙去泰国",
+      "onboard_time": 1710908134,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 205864,
@@ -619,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199571,
+      "num": 199571,
+      "word": "当狗狗第一次有了娃还是独生子",
+      "onboard_time": 1710904952,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196210,
       "num": 144030,
       "word": "早睡1小时身体竟然有这么多变化",
@@ -644,11 +724,19 @@
     },
     {
       "raw_hot": 194029,
-      "num": 194029,
+      "num": 211308,
       "word": "90后女孩成了66位老人的妈妈",
       "onboard_time": 1710904652,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188080,
+      "num": 188080,
+      "word": "拥有一份好工作的10个特征",
+      "onboard_time": 1710907475,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 186992,
@@ -691,6 +779,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 169876,
+      "num": 169876,
+      "word": "癌症是基因注定的吗",
+      "onboard_time": 1710906271,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 169601,
+      "num": 210584,
+      "word": "A股",
+      "onboard_time": 1710905969,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 169152,
       "num": 169152,
       "word": "特斯拉国产ModelY将涨价5000元",
@@ -713,14 +817,6 @@
       "onboard_time": 1710862714,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159942,
-      "num": 159942,
-      "word": "当狗狗第一次有了娃还是独生子",
-      "onboard_time": 1710904952,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 158091,
@@ -753,6 +849,14 @@
       "onboard_time": 1710890608,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 148687,
+      "num": 148687,
+      "word": "陈奕迅武汉",
+      "onboard_time": 1710908496,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 148325,
@@ -825,6 +929,22 @@
       "onboard_time": 1710901532,
       "rank": 36,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 136171,
+      "num": 155648,
+      "word": "借哥哥军装拍照的00后立二等功",
+      "onboard_time": 1710907955,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133501,
+      "num": 133501,
+      "word": "大学生的砍价程度",
+      "onboard_time": 1710907233,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 132667,
@@ -1163,20 +1283,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60707,
+      "num": 356453,
+      "word": "世界之外这次我一定要强求",
+      "onboard_time": 1710904473,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 56609,
       "num": 59147,
       "word": "倒头就睡的6个方法",
       "onboard_time": 1710868220,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 55469,
-      "num": 236236,
-      "word": "世界之外这次我一定要强求",
-      "onboard_time": 1710904473,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 53350,
