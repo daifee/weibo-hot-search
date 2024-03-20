@@ -1,6 +1,6 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1710956095363,
+  "endTime": 1710958869530,
   "band_list": [
     {
       "raw_hot": 1255856,
@@ -451,12 +451,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 49657,
+      "num": 49657,
+      "word": "金高银撑住了贴头皮造型",
+      "onboard_time": 1710958638,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 47818,
       "num": 47818,
       "word": "戚薇的包是个方向盘",
       "onboard_time": 1710943538,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 45461,
+      "num": 45461,
+      "word": "天水麻辣烫成都分烫火到闭店",
+      "onboard_time": 1710957140,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 42001,
@@ -481,6 +497,14 @@
       "onboard_time": 1710931534,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25765,
+      "num": 32195,
+      "word": "早上该先刷牙还是先吃早饭",
+      "onboard_time": 1710958219,
+      "rank": 41,
+      "category": "科学科普"
     }
   ],
   "hotgov_list": [

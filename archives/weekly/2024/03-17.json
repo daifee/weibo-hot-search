@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710956095363,
+  "endTime": 1710958869530,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -11683,6 +11683,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 49657,
+      "num": 49657,
+      "word": "金高银撑住了贴头皮造型",
+      "onboard_time": 1710958638,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 47782,
       "num": 527219,
       "word": "小米Civi4Pro首发第三代骁龙8s",
@@ -11697,6 +11705,14 @@
       "onboard_time": 1710782721,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45461,
+      "num": 45461,
+      "word": "天水麻辣烫成都分烫火到闭店",
+      "onboard_time": 1710957140,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 45185,
@@ -11913,6 +11929,14 @@
       "onboard_time": 1710703337,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 25765,
+      "num": 32195,
+      "word": "早上该先刷牙还是先吃早饭",
+      "onboard_time": 1710958219,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 25759,
