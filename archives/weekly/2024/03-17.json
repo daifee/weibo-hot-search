@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710922885286,
+  "endTime": 1710923656326,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -2475,6 +2475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 538663,
+      "num": 538663,
+      "word": "威廉王子出席活动提到凯特王妃",
+      "onboard_time": 1710921817,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 538381,
       "num": 538381,
       "word": "梅州警方回应男孩疑似猥亵小女孩",
@@ -2761,14 +2769,6 @@
       "onboard_time": 1710811174,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483097,
-      "num": 230822,
-      "word": "威廉王子出席活动提到凯特王妃",
-      "onboard_time": 1710921817,
-      "rank": 10,
-      "category": "国外时政"
     },
     {
       "raw_hot": 482958,
@@ -3073,6 +3073,14 @@
       "onboard_time": 1710839852,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 435364,
+      "num": 435364,
+      "word": "养娃家庭老公一年负债17万",
+      "onboard_time": 1710922296,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434126,
@@ -4899,6 +4907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253998,
+      "num": 253998,
+      "word": "吹风机做虾",
+      "onboard_time": 1710920616,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 253937,
       "num": 253937,
       "word": "小日子 儿媳保护婆婆单挑公公",
@@ -4913,6 +4929,14 @@
       "onboard_time": 1710847714,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 253376,
+      "num": 376070,
+      "word": "为什么春天容易长个",
+      "onboard_time": 1710919655,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 252307,
@@ -5243,6 +5267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232011,
+      "num": 208339,
+      "word": "一见钟情是始于颜值吗",
+      "onboard_time": 1710922113,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 231741,
       "num": 231741,
       "word": "突然就get到了运动的快乐",
@@ -5419,6 +5451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 224738,
+      "num": 224738,
+      "word": "蔡依林重庆",
+      "onboard_time": 1710921817,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 224613,
       "num": 224613,
       "word": "林昀儒视角下的樊振东",
@@ -5449,14 +5489,6 @@
       "onboard_time": 1710683199,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224205,
-      "num": 224205,
-      "word": "蔡依林重庆",
-      "onboard_time": 1710921817,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 223867,
@@ -5513,14 +5545,6 @@
       "onboard_time": 1710690457,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 222909,
-      "num": 222909,
-      "word": "养娃家庭老公一年负债17万",
-      "onboard_time": 1710922296,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222821,
@@ -5955,14 +5979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208828,
-      "num": 208828,
-      "word": "吹风机做虾",
-      "onboard_time": 1710920616,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 208729,
       "num": 208729,
       "word": "家属回应邯郸被害男生尸检进展",
@@ -5977,14 +5993,6 @@
       "onboard_time": 1710824138,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208339,
-      "num": 208339,
-      "word": "一见钟情是始于颜值吗",
-      "onboard_time": 1710922113,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 208070,
@@ -6305,14 +6313,6 @@
       "onboard_time": 1710833129,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 199626,
-      "num": 231035,
-      "word": "为什么春天容易长个",
-      "onboard_time": 1710919655,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 199571,
@@ -7275,6 +7275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175335,
+      "num": 175335,
+      "word": "treasure 抢票",
+      "onboard_time": 1710922296,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 175308,
       "num": 175308,
       "word": "车被砸后第一步要做什么",
@@ -7585,6 +7593,14 @@
       "onboard_time": 1710901832,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 168839,
+      "num": 168839,
+      "word": "舔嘴唇和涂唇膏哪个让干裂的嘴更疼",
+      "onboard_time": 1710923256,
+      "rank": 23,
+      "category": "健康医疗,美妆"
     },
     {
       "raw_hot": 168704,
@@ -8643,6 +8659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141677,
+      "num": 141677,
+      "word": "主播靠辱骂母亲走红被批捕封号",
+      "onboard_time": 1710923493,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140823,
       "num": 140823,
       "word": "赵丽颖沈璃V榜登顶",
@@ -8737,14 +8761,6 @@
       "onboard_time": 1710673775,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 138304,
-      "num": 138304,
-      "word": "treasure 抢票",
-      "onboard_time": 1710922296,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 138100,
@@ -9083,6 +9099,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 131525,
+      "num": 131525,
+      "word": "库克在中国首谈苹果生成式AI",
+      "onboard_time": 1710923436,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 131200,
       "num": 1919122,
       "word": "县在出发",
@@ -9129,6 +9153,14 @@
       "onboard_time": 1710660871,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130203,
+      "num": 130203,
+      "word": "春日美甲",
+      "onboard_time": 1710922959,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 129238,
@@ -9427,6 +9459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 119407,
+      "num": 119407,
+      "word": "当你在相册里翻的太深时",
+      "onboard_time": 1710923436,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118940,
       "num": 342438,
       "word": "李菲儿锦超争执",
@@ -9435,12 +9475,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118907,
+      "num": 118907,
+      "word": "像庞博那样的",
+      "onboard_time": 1710923195,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118873,
       "num": 118873,
       "word": "五菱缤果PLUS",
       "onboard_time": 1710749977,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 118780,
+      "num": 118780,
+      "word": "库克盛赞叠纸游戏",
+      "onboard_time": 1710923436,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 117988,
@@ -9779,6 +9835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103124,
+      "num": 103124,
+      "word": "被小时候的回忆整破防了",
+      "onboard_time": 1710922959,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102644,
       "num": 102644,
       "word": "尼格买提小时候曾被校园霸凌",
@@ -9969,6 +10033,14 @@
       "onboard_time": 1710865767,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88784,
+      "num": 88784,
+      "word": "严浩翔 舞台镜头捕捉器",
+      "onboard_time": 1710923614,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 88624,

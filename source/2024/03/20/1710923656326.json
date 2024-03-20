@@ -1,0 +1,410 @@
+{
+  "runTime": 1710923656326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1142669,
+        "num": 1142669,
+        "word": "你愿意为了调休连上7天班吗",
+        "onboard_time": 1710916351,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 707729,
+        "num": 707729,
+        "word": "成都巨响",
+        "onboard_time": 1710914190,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11286,
+        "num": 606508,
+        "word": "认识你真好",
+        "onboard_time": 1710834813,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538663,
+        "num": 538663,
+        "word": "威廉王子出席活动提到凯特王妃",
+        "onboard_time": 1710921817,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 440055,
+        "num": 440055,
+        "word": "杨洋拄拐现身医院",
+        "onboard_time": 1710904052,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435364,
+        "num": 435364,
+        "word": "养娃家庭老公一年负债17万",
+        "onboard_time": 1710922296,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418686,
+        "num": 418686,
+        "word": "唐艺昕分享和张若昀故事",
+        "onboard_time": 1710920194,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405683,
+        "num": 405683,
+        "word": "张艺兴女团颜值",
+        "onboard_time": 1710917912,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399283,
+        "num": 399283,
+        "word": "沪上阿姨崩了",
+        "onboard_time": 1710901050,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 253376,
+        "num": 376070,
+        "word": "为什么春天容易长个",
+        "onboard_time": 1710919655,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 372337,
+        "num": 372337,
+        "word": "库克郑恺外滩偶遇",
+        "onboard_time": 1710906513,
+        "rank": 10,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 289049,
+        "num": 289049,
+        "word": "杨幂张小斐挽手聚餐",
+        "onboard_time": 1710904713,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253998,
+        "num": 253998,
+        "word": "吹风机做虾",
+        "onboard_time": 1710920616,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 227905,
+        "num": 227905,
+        "word": "Kimi概念股暴涨",
+        "onboard_time": 1710919352,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 224738,
+        "num": 224738,
+        "word": "蔡依林重庆",
+        "onboard_time": 1710921817,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224526,
+        "num": 224526,
+        "word": "赵丽颖拍变装了",
+        "onboard_time": 1710919775,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224387,
+        "num": 224387,
+        "word": "男性不做家务更易患糖尿病",
+        "onboard_time": 1710911312,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175335,
+        "num": 175335,
+        "word": "treasure 抢票",
+        "onboard_time": 1710922296,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173786,
+        "num": 173786,
+        "word": "安崎公司称将针对霸凌传言追责",
+        "onboard_time": 1710921275,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172572,
+        "num": 172572,
+        "word": "异常春困可能是身体在发出预警",
+        "onboard_time": 1710920136,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 660299,
+        "num": 172107,
+        "word": "第一次知道刷牙后不用漱口",
+        "onboard_time": 1710919592,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 232011,
+        "num": 170974,
+        "word": "一见钟情是始于颜值吗",
+        "onboard_time": 1710922113,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188321,
+        "num": 170432,
+        "word": "医生提醒这3种油尽量少吃或不吃",
+        "onboard_time": 1710918632,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168839,
+        "num": 168839,
+        "word": "舔嘴唇和涂唇膏哪个让干裂的嘴更疼",
+        "onboard_time": 1710923256,
+        "rank": 23,
+        "category": "健康医疗,美妆"
+      },
+      {
+        "raw_hot": 167828,
+        "num": 167828,
+        "word": "茶百道就改标签日期致歉",
+        "onboard_time": 1710916052,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151757,
+        "num": 151757,
+        "word": "专家称很多富豪把高消费都算在企业费用上",
+        "onboard_time": 1710915392,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148613,
+        "num": 148613,
+        "word": "蒋敦豪 晴天",
+        "onboard_time": 1710901470,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141677,
+        "num": 141677,
+        "word": "主播靠辱骂母亲走红被批捕封号",
+        "onboard_time": 1710923493,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137871,
+        "num": 137871,
+        "word": "西藏边坝又发现一处双层冰洞",
+        "onboard_time": 1710914969,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 136453,
+        "num": 136453,
+        "word": "琳琳新恋情",
+        "onboard_time": 1710913353,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 134190,
+        "num": 134190,
+        "word": "视力模糊下降两根手指转天筋",
+        "onboard_time": 1710904592,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134061,
+        "num": 134061,
+        "word": "减肥期拌菜",
+        "onboard_time": 1710915868,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131525,
+        "num": 131525,
+        "word": "库克在中国首谈苹果生成式AI",
+        "onboard_time": 1710923436,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130203,
+        "num": 130203,
+        "word": "春日美甲",
+        "onboard_time": 1710922959,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 119856,
+        "num": 119856,
+        "word": "借哥哥军装拍照的00后立二等功",
+        "onboard_time": 1710907955,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119407,
+        "num": 119407,
+        "word": "当你在相册里翻的太深时",
+        "onboard_time": 1710923436,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128498,
+        "num": 119393,
+        "word": "四川警方通报14岁女孩纠集多人围殴男孩",
+        "onboard_time": 1710904891,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118907,
+        "num": 118907,
+        "word": "像庞博那样的",
+        "onboard_time": 1710923195,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118794,
+        "num": 118794,
+        "word": "官方回应成都巨响",
+        "onboard_time": 1710919954,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118780,
+        "num": 118780,
+        "word": "库克盛赞叠纸游戏",
+        "onboard_time": 1710923436,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117502,
+        "num": 117502,
+        "word": "沈璃今晚开大",
+        "onboard_time": 1710919833,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108306,
+        "num": 108306,
+        "word": "刘学义郑合惠子或将二搭",
+        "onboard_time": 1710909278,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103518,
+        "num": 103518,
+        "word": "三月黑马体",
+        "onboard_time": 1710917370,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103124,
+        "num": 103124,
+        "word": "被小时候的回忆整破防了",
+        "onboard_time": 1710922959,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95541,
+        "num": 95541,
+        "word": "王楚钦把奥沙利文当偶像",
+        "onboard_time": 1710916411,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95105,
+        "num": 95105,
+        "word": "8部电影定档清明档",
+        "onboard_time": 1710910474,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88784,
+        "num": 88784,
+        "word": "严浩翔 舞台镜头捕捉器",
+        "onboard_time": 1710923614,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88319,
+        "num": 88319,
+        "word": "父亲买了一套无法过户的房子",
+        "onboard_time": 1710899372,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87294,
+        "num": 87294,
+        "word": "文韬生日会 长沙",
+        "onboard_time": 1710913830,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85819,
+        "num": 85819,
+        "word": "春天到了我也想开了",
+        "onboard_time": 1710920736,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在湖南常德市考察调研#"
+    }
+  }
+}
