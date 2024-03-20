@@ -1,6 +1,6 @@
 {
   "startTime": 1710865343685,
-  "endTime": 1710920162727,
+  "endTime": 1710922885286,
   "band_list": [
     {
       "raw_hot": 3026537,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 729147,
+      "num": 208772,
+      "word": "第一次知道刷牙后不用漱口",
+      "onboard_time": 1710919592,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 728693,
       "num": 728693,
       "word": "淀粉肠小王子日销售额涨超10倍",
@@ -411,6 +419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 483097,
+      "num": 230822,
+      "word": "威廉王子出席活动提到凯特王妃",
+      "onboard_time": 1710921817,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 482958,
       "num": 482958,
       "word": "蒲熠星抢票",
@@ -457,6 +473,14 @@
       "onboard_time": 1710899072,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431365,
+      "num": 431365,
+      "word": "唐艺昕分享和张若昀故事",
+      "onboard_time": 1710920194,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 429713,
@@ -585,14 +609,6 @@
       "onboard_time": 1710870140,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 310946,
-      "num": 146200,
-      "word": "第一次知道刷牙后不用漱口",
-      "onboard_time": 1710919592,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 301960,
@@ -787,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230475,
+      "num": 230475,
+      "word": "赵丽颖拍变装了",
+      "onboard_time": 1710919775,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227335,
       "num": 227335,
       "word": "林更新回复评论",
@@ -827,12 +851,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224205,
+      "num": 224205,
+      "word": "蔡依林重庆",
+      "onboard_time": 1710921817,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 223850,
       "num": 223850,
       "word": "癌症是基因注定的吗",
       "onboard_time": 1710906271,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 222909,
+      "num": 222909,
+      "word": "养娃家庭老公一年负债17万",
+      "onboard_time": 1710922296,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222711,
@@ -857,6 +897,14 @@
       "onboard_time": 1710909576,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217413,
+      "num": 217413,
+      "word": "安崎公司称将针对霸凌传言追责",
+      "onboard_time": 1710921275,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 217200,
@@ -907,6 +955,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208828,
+      "num": 208828,
+      "word": "吹风机做虾",
+      "onboard_time": 1710920616,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 208339,
+      "num": 208339,
+      "word": "一见钟情是始于颜值吗",
+      "onboard_time": 1710922113,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 207973,
+      "num": 207973,
+      "word": "医生提醒这3种油尽量少吃或不吃",
+      "onboard_time": 1710918632,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 207645,
       "num": 207645,
       "word": "花间令 换乘恋爱",
@@ -953,6 +1025,14 @@
       "onboard_time": 1710861755,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199626,
+      "num": 231035,
+      "word": "为什么春天容易长个",
+      "onboard_time": 1710919655,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 199571,
@@ -1083,6 +1163,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 175014,
+      "num": 175014,
+      "word": "异常春困可能是身体在发出预警",
+      "onboard_time": 1710920136,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 171585,
       "num": 171585,
       "word": "陈赫郑恺早期旧照",
@@ -1145,14 +1233,6 @@
       "onboard_time": 1710862714,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164902,
-      "num": 164902,
-      "word": "医生提醒这3种油尽量少吃或不吃",
-      "onboard_time": 1710918632,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 162231,
@@ -1251,14 +1331,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 143843,
-      "num": 143843,
-      "word": "为什么春天容易长个",
-      "onboard_time": 1710919655,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 143027,
       "num": 143027,
       "word": "纪凌尘他做到了",
@@ -1315,6 +1387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138304,
+      "num": 138304,
+      "word": "treasure 抢票",
+      "onboard_time": 1710922296,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137860,
       "num": 137860,
       "word": "这本小说治愈了我",
@@ -1329,6 +1409,14 @@
       "onboard_time": 1710901532,
       "rank": 36,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 134988,
+      "num": 134988,
+      "word": "沈璃今晚开大",
+      "onboard_time": 1710919833,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 133501,
@@ -1387,14 +1475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127955,
-      "num": 127955,
-      "word": "沈璃今晚开大",
-      "onboard_time": 1710919833,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 126980,
       "num": 126980,
       "word": "官方回应成都巨响",
@@ -1425,14 +1505,6 @@
       "onboard_time": 1710917193,
       "rank": 38,
       "category": "美食"
-    },
-    {
-      "raw_hot": 125340,
-      "num": 125340,
-      "word": "赵丽颖拍变装了",
-      "onboard_time": 1710919775,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 120632,
@@ -1531,6 +1603,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 110605,
+      "num": 110605,
+      "word": "春天到了我也想开了",
+      "onboard_time": 1710920736,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110602,
       "num": 110602,
       "word": "15岁双胞胎同被西交大少年班录取",
@@ -1603,6 +1683,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 100230,
+      "num": 100230,
+      "word": "国足敲定23人大名单",
+      "onboard_time": 1710920616,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99365,
+      "num": 99365,
+      "word": "巴别塔圣歌",
+      "onboard_time": 1710922416,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 98775,
       "num": 83827,
       "word": "赵丽颖素袍束发低挽",
@@ -1617,14 +1713,6 @@
       "onboard_time": 1710859958,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 98120,
-      "num": 98120,
-      "word": "异常春困可能是身体在发出预警",
-      "onboard_time": 1710920136,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 97151,
@@ -1699,6 +1787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80965,
+      "num": 406220,
+      "word": "人民日报为春困的你撑腰",
+      "onboard_time": 1710918152,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78936,
       "num": 85944,
       "word": "沈璃吃肉梦回花千骨",
@@ -1753,14 +1849,6 @@
       "onboard_time": 1710865349,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62950,
-      "num": 406220,
-      "word": "人民日报为春困的你撑腰",
-      "onboard_time": 1710918152,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60707,
@@ -1899,7 +1987,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 8459,
+      "raw_hot": 11716,
       "num": 1117319,
       "word": "认识你真好",
       "onboard_time": 1710834813,
