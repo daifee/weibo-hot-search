@@ -1,0 +1,410 @@
+{
+  "runTime": 1710954909164,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 372606,
+        "num": 372606,
+        "word": "花间令开始吓人了",
+        "onboard_time": 1710952049,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361294,
+        "num": 361294,
+        "word": "素媛案罪犯赵斗淳又被判了",
+        "onboard_time": 1710934180,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36087,
+        "num": 312509,
+        "word": "这个春天祝你春风得意向阳花开",
+        "onboard_time": 1710940536,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311142,
+        "num": 311142,
+        "word": "关晓彤短发",
+        "onboard_time": 1710943116,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 305610,
+        "num": 305610,
+        "word": "鹿晗给自己整不好意思了",
+        "onboard_time": 1710948458,
+        "rank": 4,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 245855,
+        "num": 245855,
+        "word": "腾讯8款游戏年收入超40亿",
+        "onboard_time": 1710947855,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227448,
+        "num": 227448,
+        "word": "女子怀孕7个月刚独自待5分钟就倒地",
+        "onboard_time": 1710939516,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227154,
+        "num": 227154,
+        "word": "恋爱兄妹",
+        "onboard_time": 1710947078,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212020,
+        "num": 212020,
+        "word": "最擅于隐藏情绪的星座",
+        "onboard_time": 1710944617,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169955,
+        "num": 169955,
+        "word": "行云念了沈璃一辈子",
+        "onboard_time": 1710948154,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379159,
+        "num": 168853,
+        "word": "东航致132人遇难事故调查进展发布",
+        "onboard_time": 1710930218,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317487,
+        "num": 162252,
+        "word": "揭秘凯特王妃背后宫斗内幕",
+        "onboard_time": 1710948816,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 209853,
+        "num": 157929,
+        "word": "周杰伦方回应败诉",
+        "onboard_time": 1710952648,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152797,
+        "num": 152797,
+        "word": "刘学义配角演了8年",
+        "onboard_time": 1710951928,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143590,
+        "num": 143590,
+        "word": "汪东城你年龄是满40减20吗",
+        "onboard_time": 1710941855,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130492,
+        "num": 130492,
+        "word": "日媒称一中国富豪借给福原爱3亿日元",
+        "onboard_time": 1710936756,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110995,
+        "num": 110995,
+        "word": "拼多多涨逾15%",
+        "onboard_time": 1710944917,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110810,
+        "num": 110810,
+        "word": "凯特",
+        "onboard_time": 1710953842,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 96306,
+        "num": 96306,
+        "word": "刘亦菲又在撕嘴皮",
+        "onboard_time": 1710935436,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80528,
+        "num": 80528,
+        "word": "藏海传",
+        "onboard_time": 1710943116,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399132,
+        "num": 80183,
+        "word": "河北邯郸一高中生被同学打伤睾丸",
+        "onboard_time": 1710948992,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102249,
+        "num": 80072,
+        "word": "打工人开始尝试用刮刮乐打上班卡",
+        "onboard_time": 1710950311,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79321,
+        "num": 79321,
+        "word": "刘学义光头造型",
+        "onboard_time": 1710938376,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76657,
+        "num": 76657,
+        "word": "男生美国卖三蹦子首日进账1万美金",
+        "onboard_time": 1710940416,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 73286,
+        "num": 73286,
+        "word": "曹恩齐方回应机场抵制代拍",
+        "onboard_time": 1710954443,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68674,
+        "num": 68674,
+        "word": "自己买的房最不该考虑的就是客人",
+        "onboard_time": 1710935735,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68313,
+        "num": 68313,
+        "word": "2月龄男婴接种疫苗14天后死亡",
+        "onboard_time": 1710935074,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68120,
+        "num": 68120,
+        "word": "边伯贤 香港",
+        "onboard_time": 1710941020,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64698,
+        "num": 64698,
+        "word": "京东洗衣回应衣物被烧将全额赔偿",
+        "onboard_time": 1710945928,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62053,
+        "num": 62053,
+        "word": "沪上阿姨紧急补货",
+        "onboard_time": 1710932317,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 142563,
+        "num": 61964,
+        "word": "想瘦脸少不了练背",
+        "onboard_time": 1710952407,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 60256,
+        "num": 60256,
+        "word": "林依晨 你",
+        "onboard_time": 1710927818,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 59760,
+        "num": 59760,
+        "word": "一年级班主任的课间能有多忙",
+        "onboard_time": 1710944617,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58486,
+        "num": 58486,
+        "word": "越共中央批准越南国家主席武文赏辞职",
+        "onboard_time": 1710934055,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 57567,
+        "num": 57567,
+        "word": "iPhone16系列或实现更大显示屏",
+        "onboard_time": 1710930996,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 57418,
+        "num": 57418,
+        "word": "潘樾杨采薇相认",
+        "onboard_time": 1710952886,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55608,
+        "num": 55608,
+        "word": "第一次知道刷牙后不用漱口",
+        "onboard_time": 1710919592,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 54426,
+        "num": 54426,
+        "word": "龚俊邓为撞衫",
+        "onboard_time": 1710932259,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 53681,
+        "num": 53681,
+        "word": "林俊杰侧脸照",
+        "onboard_time": 1710948816,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52788,
+        "num": 52788,
+        "word": "Uzi被提名LOL历史第二人",
+        "onboard_time": 1710932500,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51396,
+        "num": 51396,
+        "word": "东航",
+        "onboard_time": 1710930395,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50981,
+        "num": 50981,
+        "word": "承欢记要来了",
+        "onboard_time": 1710942456,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49535,
+        "num": 49535,
+        "word": "恶作剧之吻",
+        "onboard_time": 1710929676,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49264,
+        "num": 49264,
+        "word": "BLG四人亮天使致敬angel",
+        "onboard_time": 1710939277,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47818,
+        "num": 47818,
+        "word": "戚薇的包是个方向盘",
+        "onboard_time": 1710943538,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47032,
+        "num": 47032,
+        "word": "杜海涛演戏",
+        "onboard_time": 1710940835,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46287,
+        "num": 46287,
+        "word": "肖战藏海传官服造型",
+        "onboard_time": 1710939095,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42001,
+        "num": 46286,
+        "word": "吴磊居家男友风",
+        "onboard_time": 1710940179,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38112,
+        "num": 46277,
+        "word": "神君行止就位",
+        "onboard_time": 1710946356,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37987,
+        "num": 46267,
+        "word": "辛云来赵丽颖合照",
+        "onboard_time": 1710940179,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记始终高度重视农业生产和粮食安全#"
+    }
+  }
+}

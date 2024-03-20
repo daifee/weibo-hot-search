@@ -1,6 +1,6 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1710952721481,
+  "endTime": 1710954909164,
   "band_list": [
     {
       "raw_hot": 1255856,
@@ -83,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 372606,
+      "num": 372606,
+      "word": "花间令开始吓人了",
+      "onboard_time": 1710952049,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301303,
       "num": 301303,
       "word": "腾讯8款游戏年收入超40亿",
@@ -97,14 +105,6 @@
       "onboard_time": 1710945928,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284757,
-      "num": 223867,
-      "word": "花间令开始吓人了",
-      "onboard_time": 1710952049,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 280665,
@@ -155,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209853,
+      "num": 157929,
+      "word": "周杰伦方回应败诉",
+      "onboard_time": 1710952648,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176510,
       "num": 176510,
       "word": "2月龄男婴接种疫苗14天后死亡",
@@ -195,20 +203,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142563,
+      "num": 81061,
+      "word": "想瘦脸少不了练背",
+      "onboard_time": 1710952407,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 135611,
       "num": 135611,
       "word": "林依晨 你",
       "onboard_time": 1710927818,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 131205,
-      "num": 131205,
-      "word": "周杰伦方回应败诉",
-      "onboard_time": 1710952648,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 130746,
@@ -291,6 +299,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 110810,
+      "num": 110810,
+      "word": "凯特",
+      "onboard_time": 1710953842,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 107555,
       "num": 107555,
       "word": "越共中央批准越南国家主席武文赏辞职",
@@ -355,14 +371,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 81061,
-      "num": 81061,
-      "word": "想瘦脸少不了练背",
-      "onboard_time": 1710952407,
-      "rank": 38,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 80087,
       "num": 87003,
       "word": "宋妍霏身材管理",
@@ -377,6 +385,14 @@
       "onboard_time": 1710940179,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73286,
+      "num": 73286,
+      "word": "曹恩齐方回应机场抵制代拍",
+      "onboard_time": 1710954443,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 67050,
@@ -403,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57418,
+      "num": 57418,
+      "word": "潘樾杨采薇相认",
+      "onboard_time": 1710952886,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57355,
       "num": 80355,
       "word": "被旗袍的美感惊艳到了",
@@ -427,6 +451,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 47818,
+      "num": 47818,
+      "word": "戚薇的包是个方向盘",
+      "onboard_time": 1710943538,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 42001,
+      "num": 46286,
+      "word": "吴磊居家男友风",
+      "onboard_time": 1710940179,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 29924,
       "num": 78450,
       "word": "春分",
@@ -438,6 +478,9 @@
   "hotgov_list": [
     {
       "word": "#习近平在湖南考察调研#"
+    },
+    {
+      "word": "#习近平总书记始终高度重视农业生产和粮食安全#"
     }
   ]
 }
