@@ -1,6 +1,6 @@
 {
   "startTime": 1710865343685,
-  "endTime": 1710945264934,
+  "endTime": 1710947952621,
   "band_list": [
     {
       "raw_hot": 7741702,
@@ -116,11 +116,19 @@
     },
     {
       "raw_hot": 1457809,
-      "num": 768910,
+      "num": 910653,
       "word": "关晓彤短发",
       "onboard_time": 1710943116,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1457564,
+      "num": 1457564,
+      "word": "专家称打工人午睡15分钟足够",
+      "onboard_time": 1710940776,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1446809,
@@ -136,6 +144,14 @@
       "word": "女孩酒店房间里遭多人暴打侮辱",
       "onboard_time": 1710874277,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1364541,
+      "num": 507936,
+      "word": "山西高速致14死大巴车载夕阳红旅行团",
+      "onboard_time": 1710942095,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -297,14 +313,6 @@
       "onboard_time": 1710899372,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 781441,
-      "num": 781441,
-      "word": "专家称打工人午睡15分钟足够",
-      "onboard_time": 1710940776,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 779220,
@@ -520,14 +528,6 @@
       "word": "东航",
       "onboard_time": 1710930395,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 579999,
-      "num": 507936,
-      "word": "山西高速致14死大巴车载夕阳红旅行团",
-      "onboard_time": 1710942095,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -779,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423919,
+      "num": 403138,
+      "word": "京东洗衣回应衣物被烧将全额赔偿",
+      "onboard_time": 1710945928,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418947,
       "num": 418947,
       "word": "宋妍霏身材管理",
@@ -803,6 +811,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 409450,
+      "num": 409450,
+      "word": "最擅于隐藏情绪的星座",
+      "onboard_time": 1710944617,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 392010,
       "num": 392010,
       "word": "Uzi被提名LOL历史第二人",
@@ -817,6 +833,14 @@
       "onboard_time": 1710915868,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 386780,
+      "num": 386780,
+      "word": "恋爱兄妹",
+      "onboard_time": 1710947078,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 385557,
@@ -1059,6 +1083,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 300744,
+      "num": 300744,
+      "word": "神君行止就位",
+      "onboard_time": 1710946356,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298481,
       "num": 298481,
       "word": "妈妈让我边考研边考公边找工作",
@@ -1219,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268972,
+      "num": 268972,
+      "word": "一年级班主任的课间能有多忙",
+      "onboard_time": 1710944617,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 267835,
       "num": 267835,
       "word": "杨倩无缘巴黎奥运",
@@ -1233,6 +1273,14 @@
       "onboard_time": 1710944256,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265154,
+      "num": 265154,
+      "word": "拼多多涨逾15%",
+      "onboard_time": 1710944917,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 263573,
@@ -1307,14 +1355,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 242231,
-      "num": 242231,
-      "word": "一年级班主任的课间能有多忙",
-      "onboard_time": 1710944617,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 240763,
       "num": 240763,
       "word": "生是你的权利不生是你的自由",
@@ -1385,14 +1425,6 @@
       "onboard_time": 1710917370,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 234568,
-      "num": 234568,
-      "word": "最擅于隐藏情绪的星座",
-      "onboard_time": 1710944617,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 232011,
@@ -1883,14 +1915,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 184545,
-      "num": 184545,
-      "word": "拼多多涨逾15%",
-      "onboard_time": 1710944917,
-      "rank": 41,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 184268,
       "num": 184268,
       "word": "哈哈哈哈哈",
@@ -1953,6 +1977,14 @@
       "onboard_time": 1710897391,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 176056,
+      "num": 176056,
+      "word": "十个勤天",
+      "onboard_time": 1710945876,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 175728,
@@ -2475,6 +2507,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 127274,
+      "num": 127274,
+      "word": "种地吧",
+      "onboard_time": 1710945816,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126980,
       "num": 126980,
       "word": "官方回应成都巨响",
@@ -2569,6 +2609,14 @@
       "onboard_time": 1710891212,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117552,
+      "num": 117552,
+      "word": "腾讯8款游戏年收入超40亿",
+      "onboard_time": 1710947855,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 115630,
@@ -2875,6 +2923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82116,
+      "num": 110917,
+      "word": "新时代推动中部地区崛起座谈会",
+      "onboard_time": 1710947855,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81964,
       "num": 81964,
       "word": "WBG丹尼",
@@ -3059,6 +3115,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 37860,
+      "num": 197025,
+      "word": "智能床垫有哪些优势",
+      "onboard_time": 1710944677,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 37680,
       "num": 85839,
       "word": "熊掌拨清波",
@@ -3113,14 +3177,6 @@
       "onboard_time": 1710873496,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 27357,
-      "num": 197025,
-      "word": "智能床垫有哪些优势",
-      "onboard_time": 1710944677,
-      "rank": 38,
-      "category": "科学科普"
     },
     {
       "raw_hot": 25481,

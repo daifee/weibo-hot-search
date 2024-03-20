@@ -1,0 +1,410 @@
+{
+  "runTime": 1710947952621,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1457564,
+        "num": 1457564,
+        "word": "专家称打工人午睡15分钟足够",
+        "onboard_time": 1710940776,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1020194,
+        "num": 1020194,
+        "word": "素媛案罪犯赵斗淳又被判了",
+        "onboard_time": 1710934180,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86318,
+        "num": 911358,
+        "word": "这个春天祝你春风得意向阳花开",
+        "onboard_time": 1710940536,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1391411,
+        "num": 910653,
+        "word": "关晓彤短发",
+        "onboard_time": 1710943116,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 896896,
+        "num": 896896,
+        "word": "女子怀孕7个月刚独自待5分钟就倒地",
+        "onboard_time": 1710939516,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1288600,
+        "num": 833144,
+        "word": "东航致132人遇难事故调查进展发布",
+        "onboard_time": 1710930218,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630155,
+        "num": 630155,
+        "word": "藏海传",
+        "onboard_time": 1710943116,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445361,
+        "num": 445361,
+        "word": "汪东城你年龄是满40减20吗",
+        "onboard_time": 1710941855,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 415325,
+        "num": 415325,
+        "word": "承欢记要来了",
+        "onboard_time": 1710942456,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409450,
+        "num": 409450,
+        "word": "最擅于隐藏情绪的星座",
+        "onboard_time": 1710944617,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1364541,
+        "num": 404708,
+        "word": "山西高速致14死大巴车载夕阳红旅行团",
+        "onboard_time": 1710942095,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423919,
+        "num": 403138,
+        "word": "京东洗衣回应衣物被烧将全额赔偿",
+        "onboard_time": 1710945928,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386780,
+        "num": 386780,
+        "word": "恋爱兄妹",
+        "onboard_time": 1710947078,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345414,
+        "num": 345414,
+        "word": "2月龄男婴接种疫苗14天后死亡",
+        "onboard_time": 1710935074,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343971,
+        "num": 343971,
+        "word": "鹿晗强迫好友深夜督战曼联",
+        "onboard_time": 1710935017,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 340577,
+        "num": 340577,
+        "word": "日媒称一中国富豪借给福原爱3亿日元",
+        "onboard_time": 1710936756,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340319,
+        "num": 340319,
+        "word": "肖战藏海传官服造型",
+        "onboard_time": 1710939095,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306453,
+        "num": 306453,
+        "word": "刘亦菲又在撕嘴皮",
+        "onboard_time": 1710935436,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300744,
+        "num": 300744,
+        "word": "神君行止就位",
+        "onboard_time": 1710946356,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285749,
+        "num": 285749,
+        "word": "边伯贤 香港",
+        "onboard_time": 1710941020,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 274674,
+        "num": 274674,
+        "word": "恶作剧之吻",
+        "onboard_time": 1710929676,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268972,
+        "num": 268972,
+        "word": "一年级班主任的课间能有多忙",
+        "onboard_time": 1710944617,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 265154,
+        "num": 265154,
+        "word": "拼多多涨逾15%",
+        "onboard_time": 1710944917,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 238637,
+        "num": 238637,
+        "word": "山西致14死大巴事故乘客均来自镇江",
+        "onboard_time": 1710942574,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236966,
+        "num": 236966,
+        "word": "林依晨 你",
+        "onboard_time": 1710927818,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 234985,
+        "num": 234985,
+        "word": "新中式穿搭",
+        "onboard_time": 1710942395,
+        "rank": 25,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 211587,
+        "num": 211587,
+        "word": "刘学义光头造型",
+        "onboard_time": 1710938376,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207610,
+        "num": 207610,
+        "word": "杜海涛演戏",
+        "onboard_time": 1710940835,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200183,
+        "num": 200183,
+        "word": "iPhone16系列或实现更大显示屏",
+        "onboard_time": 1710930996,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 194446,
+        "num": 194446,
+        "word": "宋妍霏身材管理",
+        "onboard_time": 1710939632,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189369,
+        "num": 189369,
+        "word": "男生美国卖三蹦子首日进账1万美金",
+        "onboard_time": 1710940416,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 179587,
+        "num": 179587,
+        "word": "被旗袍的美感惊艳到了",
+        "onboard_time": 1710941617,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 176056,
+        "num": 176056,
+        "word": "十个勤天",
+        "onboard_time": 1710945876,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174698,
+        "num": 174698,
+        "word": "辛云来赵丽颖合照",
+        "onboard_time": 1710940179,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165800,
+        "num": 165800,
+        "word": "第一次知道刷牙后不用漱口",
+        "onboard_time": 1710919592,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146587,
+        "num": 146587,
+        "word": "承欢记",
+        "onboard_time": 1710944256,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145493,
+        "num": 145493,
+        "word": "越共中央批准越南国家主席武文赏辞职",
+        "onboard_time": 1710934055,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 37860,
+        "num": 143880,
+        "word": "智能床垫有哪些优势",
+        "onboard_time": 1710944677,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 143543,
+        "num": 143543,
+        "word": "龚俊邓为撞衫",
+        "onboard_time": 1710932259,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135372,
+        "num": 135372,
+        "word": "WE对战eStar",
+        "onboard_time": 1710944617,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134486,
+        "num": 134486,
+        "word": "墨方 纯爱战士",
+        "onboard_time": 1710944858,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134135,
+        "num": 134135,
+        "word": "BLG四人亮天使致敬angel",
+        "onboard_time": 1710939277,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130340,
+        "num": 130340,
+        "word": "沈璃一秒开大",
+        "onboard_time": 1710944380,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127274,
+        "num": 127274,
+        "word": "种地吧",
+        "onboard_time": 1710945816,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121804,
+        "num": 121804,
+        "word": "唐嫣直播状态",
+        "onboard_time": 1710934777,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120643,
+        "num": 120643,
+        "word": "张杰眼睛里是小时候的张杰",
+        "onboard_time": 1710938674,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 120436,
+        "num": 120436,
+        "word": "自己买的房最不该考虑的就是客人",
+        "onboard_time": 1710935735,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117552,
+        "num": 117552,
+        "word": "腾讯8款游戏年收入超40亿",
+        "onboard_time": 1710947855,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111044,
+        "num": 111044,
+        "word": "陈楚生深圳演唱会vlog",
+        "onboard_time": 1710944138,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82116,
+        "num": 110917,
+        "word": "新时代推动中部地区崛起座谈会",
+        "onboard_time": 1710947855,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在湖南考察调研#"
+    }
+  }
+}
