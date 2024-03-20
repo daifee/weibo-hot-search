@@ -1,0 +1,410 @@
+{
+  "runTime": 1710938743886,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2498052,
+        "num": 2498052,
+        "word": "东航致132人遇难事故调查进展发布",
+        "onboard_time": 1710930218,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2181173,
+        "num": 2181173,
+        "word": "素媛案罪犯赵斗淳又被判了",
+        "onboard_time": 1710934180,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31665,
+        "num": 1094086,
+        "word": "播种春天播撒希望",
+        "onboard_time": 1710918693,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 983546,
+        "num": 983546,
+        "word": "鹿晗强迫好友深夜督战曼联",
+        "onboard_time": 1710935017,
+        "rank": 3,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 909758,
+        "num": 909758,
+        "word": "日媒称一中国富豪借给福原爱3亿日元",
+        "onboard_time": 1710936756,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 779220,
+        "num": 779220,
+        "word": "2月龄男婴接种疫苗14天后死亡",
+        "onboard_time": 1710935074,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741929,
+        "num": 741929,
+        "word": "刘亦菲又在撕嘴皮",
+        "onboard_time": 1710935436,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613072,
+        "num": 613072,
+        "word": "林依晨 你",
+        "onboard_time": 1710927818,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 410178,
+        "num": 410178,
+        "word": "李沁方回应被短剧P黑白照",
+        "onboard_time": 1710930395,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390714,
+        "num": 390714,
+        "word": "雷军佩服只有特斯拉敢涨价",
+        "onboard_time": 1710933578,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 580974,
+        "num": 389205,
+        "word": "越共中央批准越南国家主席武文赏辞职",
+        "onboard_time": 1710934055,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 374160,
+        "num": 374160,
+        "word": "iPhone16系列或实现更大显示屏",
+        "onboard_time": 1710930996,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 365900,
+        "num": 365900,
+        "word": "龚俊邓为撞衫",
+        "onboard_time": 1710932259,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355275,
+        "num": 355275,
+        "word": "唐嫣直播状态",
+        "onboard_time": 1710934777,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350514,
+        "num": 350514,
+        "word": "不要再为吃糖油混合物焦虑了",
+        "onboard_time": 1710924337,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 308743,
+        "num": 308743,
+        "word": "恶作剧之吻",
+        "onboard_time": 1710929676,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289850,
+        "num": 289850,
+        "word": "沪上阿姨紧急补货",
+        "onboard_time": 1710932317,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 275268,
+        "num": 275268,
+        "word": "沈梦辰 我和杨迪谁帅",
+        "onboard_time": 1710933158,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266038,
+        "num": 266038,
+        "word": "2024年全国高考时间确定",
+        "onboard_time": 1710931418,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 259006,
+        "num": 259006,
+        "word": "肖战镜头下的横店",
+        "onboard_time": 1710931898,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52991,
+        "num": 249769,
+        "word": "淘宝给各路红人整了个红毯",
+        "onboard_time": 1710936817,
+        "rank": 20,
+        "category": "互联网,时尚"
+      },
+      {
+        "raw_hot": 371447,
+        "num": 245627,
+        "word": "自己买的房最不该考虑的就是客人",
+        "onboard_time": 1710935735,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272175,
+        "num": 244346,
+        "word": "第一次知道刷牙后不用漱口",
+        "onboard_time": 1710919592,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240944,
+        "num": 240944,
+        "word": "张杰眼睛里是小时候的张杰",
+        "onboard_time": 1710938674,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236057,
+        "num": 236057,
+        "word": "李硕珉金发",
+        "onboard_time": 1710938016,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231242,
+        "num": 231242,
+        "word": "虞书欣林一跳了fate",
+        "onboard_time": 1710933876,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230226,
+        "num": 230226,
+        "word": "东航",
+        "onboard_time": 1710930395,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229527,
+        "num": 229527,
+        "word": "刘诗诗油菜花田路透",
+        "onboard_time": 1710934234,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214164,
+        "num": 214164,
+        "word": "花间令 一人表白四人失恋",
+        "onboard_time": 1710934418,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202701,
+        "num": 202701,
+        "word": "笨蛋湘琴",
+        "onboard_time": 1710933578,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200184,
+        "num": 200184,
+        "word": "刘学义光头造型",
+        "onboard_time": 1710938376,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197304,
+        "num": 197304,
+        "word": "沈璃和行云be了",
+        "onboard_time": 1710934359,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196155,
+        "num": 196155,
+        "word": "Uzi被提名LOL历史第二人",
+        "onboard_time": 1710932500,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187084,
+        "num": 187084,
+        "word": "FGO",
+        "onboard_time": 1710938492,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186203,
+        "num": 186203,
+        "word": "林俊杰天津二开",
+        "onboard_time": 1710938433,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 183324,
+        "num": 183324,
+        "word": "大四人生的至暗时刻",
+        "onboard_time": 1710936096,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180667,
+        "num": 180667,
+        "word": "花间令 原生家庭",
+        "onboard_time": 1710937716,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180097,
+        "num": 180097,
+        "word": "这下真的知道该怎么减肥了",
+        "onboard_time": 1710938196,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 177169,
+        "num": 177169,
+        "word": "主播靠辱骂母亲走红被批捕封号",
+        "onboard_time": 1710923493,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173735,
+        "num": 173735,
+        "word": "甘肃西瓜切块",
+        "onboard_time": 1710937775,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 172770,
+        "num": 172770,
+        "word": "拼多多2023年第四季度营收888.8亿元",
+        "onboard_time": 1710934537,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 171116,
+        "num": 171116,
+        "word": "湖南洞口县政协主席嫖娼被抓",
+        "onboard_time": 1710936635,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166349,
+        "num": 166349,
+        "word": "OMG对战BLG",
+        "onboard_time": 1710938433,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165310,
+        "num": 165310,
+        "word": "国足对新加坡40年不败",
+        "onboard_time": 1710936219,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162070,
+        "num": 162070,
+        "word": "碧苍王大号回归",
+        "onboard_time": 1710937417,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165038,
+        "num": 161581,
+        "word": "aespa舞台",
+        "onboard_time": 1710931234,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153372,
+        "num": 153372,
+        "word": "你愿意为了调休连上7天班吗",
+        "onboard_time": 1710916351,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152490,
+        "num": 152490,
+        "word": "英国王室发查尔斯三世最新画面",
+        "onboard_time": 1710927096,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 150054,
+        "num": 150054,
+        "word": "短剧把李沁证件照P成黑白",
+        "onboard_time": 1710923793,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146753,
+        "num": 146753,
+        "word": "拼多多2023年营收2476亿",
+        "onboard_time": 1710937174,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#学校的办学宗旨要引导学生立志报国#"
+    }
+  }
+}
