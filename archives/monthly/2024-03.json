@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710962052259,
+  "endTime": 1710963251678,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -57099,6 +57099,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 23920,
+      "num": 23920,
+      "word": "为什么牙不好疾病满身跑",
+      "onboard_time": 1710961576,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 23895,
       "num": 23895,
       "word": "林允普拉提",
@@ -57497,14 +57505,6 @@
       "onboard_time": 1709318718,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15558,
-      "num": 22524,
-      "word": "为什么牙不好疾病满身跑",
-      "onboard_time": 1710961576,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 15131,

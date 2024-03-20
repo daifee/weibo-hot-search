@@ -1,6 +1,6 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1710962052259,
+  "endTime": 1710963251678,
   "band_list": [
     {
       "raw_hot": 1255856,
@@ -507,20 +507,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23920,
+      "num": 23920,
+      "word": "为什么牙不好疾病满身跑",
+      "onboard_time": 1710961576,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 17018,
       "num": 27189,
       "word": "TXT新预告",
       "onboard_time": 1710958878,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 15558,
-      "num": 22524,
-      "word": "为什么牙不好疾病满身跑",
-      "onboard_time": 1710961576,
-      "rank": 45,
-      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
