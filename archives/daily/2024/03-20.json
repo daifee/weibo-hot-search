@@ -1,6 +1,6 @@
 {
   "startTime": 1710865343685,
-  "endTime": 1710916585494,
+  "endTime": 1710919064687,
   "band_list": [
     {
       "raw_hot": 3026537,
@@ -15,6 +15,14 @@
       "num": 2413924,
       "word": "清明放假调休3天",
       "onboard_time": 1710893794,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1974223,
+      "num": 1974223,
+      "word": "成都巨响",
+      "onboard_time": 1710914190,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -51,12 +59,12 @@
       "category": "数码,艺人"
     },
     {
-      "raw_hot": 1604228,
-      "num": 1604228,
-      "word": "成都巨响",
-      "onboard_time": 1710914190,
-      "rank": 0,
-      "category": "社会新闻"
+      "raw_hot": 1520862,
+      "num": 1520862,
+      "word": "你愿意为了调休连上7天班吗",
+      "onboard_time": 1710916351,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 1501572,
@@ -211,6 +219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 725751,
+      "num": 725751,
+      "word": "专家称很多富豪把高消费都算在企业费用上",
+      "onboard_time": 1710915392,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 719691,
       "num": 719691,
       "word": "英媒发布凯特王妃现身视频引网友质疑",
@@ -291,6 +307,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 572659,
+      "num": 572659,
+      "word": "张艺兴女团颜值",
+      "onboard_time": 1710917912,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 556705,
       "num": 429886,
       "word": "琳琳新恋情",
@@ -313,6 +337,14 @@
       "onboard_time": 1710909278,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 524647,
+      "num": 524647,
+      "word": "茶百道就改标签日期致歉",
+      "onboard_time": 1710916052,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 522117,
@@ -443,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 385557,
+      "num": 385557,
+      "word": "陶昕然为照顾妈妈放弃工作三年",
+      "onboard_time": 1710915571,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378236,
       "num": 246335,
       "word": "03年孩子爹出轨80年的女人",
@@ -475,6 +515,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 347665,
+      "num": 347665,
+      "word": "西藏边坝又发现一处双层冰洞",
+      "onboard_time": 1710914969,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 346567,
+      "num": 234723,
+      "word": "减肥期拌菜",
+      "onboard_time": 1710915868,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 344213,
       "num": 344213,
       "word": "朱梓骁 纪凌尘是我的贵人",
@@ -497,14 +553,6 @@
       "onboard_time": 1710910474,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 340463,
-      "num": 332174,
-      "word": "陶昕然为照顾妈妈放弃工作三年",
-      "onboard_time": 1710915571,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 332860,
@@ -667,14 +715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 249922,
-      "num": 249922,
-      "word": "西藏边坝又发现一处双层冰洞",
-      "onboard_time": 1710914969,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 249819,
       "num": 249819,
       "word": "Straykids前成员签约SM子公司",
@@ -689,6 +729,14 @@
       "onboard_time": 1710908134,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246750,
+      "num": 168954,
+      "word": "王楚钦把奥沙利文当偶像",
+      "onboard_time": 1710916411,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 240763,
@@ -707,20 +755,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 234576,
+      "num": 234576,
+      "word": "三月黑马体",
+      "onboard_time": 1710917370,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 231465,
       "num": 231465,
       "word": "范玮琪48岁生日宴",
       "onboard_time": 1710904171,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 230040,
-      "num": 230040,
-      "word": "专家称很多富豪把高消费都算在企业费用上",
-      "onboard_time": 1710915392,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227335,
@@ -1003,14 +1051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177970,
-      "num": 172386,
-      "word": "减肥期拌菜",
-      "onboard_time": 1710915868,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 176871,
       "num": 176871,
       "word": "中国减持美债186亿美元",
@@ -1049,14 +1089,6 @@
       "onboard_time": 1710901832,
       "rank": 30,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 168954,
-      "num": 168954,
-      "word": "王楚钦把奥沙利文当偶像",
-      "onboard_time": 1710916411,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 168342,
@@ -1211,14 +1243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142847,
-      "num": 142847,
-      "word": "你愿意为了调休连上7天班吗",
-      "onboard_time": 1710916351,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 142764,
       "num": 142764,
       "word": "虎杖悠仁",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1710903632,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141801,
+      "num": 141801,
+      "word": "郁可唯抢不到",
+      "onboard_time": 1710917791,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 140694,
@@ -1265,14 +1297,6 @@
       "onboard_time": 1710901532,
       "rank": 36,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 134613,
-      "num": 134613,
-      "word": "茶百道就改标签日期致歉",
-      "onboard_time": 1710916052,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 133501,
@@ -1323,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126218,
+      "num": 126218,
+      "word": "在大学里面你最想取消什么",
+      "onboard_time": 1710917853,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 126000,
       "num": 126000,
       "word": "蒲熠星新歌",
@@ -1337,6 +1369,14 @@
       "onboard_time": 1710904592,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125911,
+      "num": 125911,
+      "word": "春分吃春菜",
+      "onboard_time": 1710917193,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 120632,
@@ -1448,6 +1488,14 @@
       "word": "春天过了一半了",
       "onboard_time": 1710890425,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105709,
+      "num": 105709,
+      "word": "春分就是要讲一些吉祥话",
+      "onboard_time": 1710917612,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1627,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62950,
+      "num": 234856,
+      "word": "人民日报为春困的你撑腰",
+      "onboard_time": 1710918152,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60707,
       "num": 356453,
       "word": "世界之外这次我一定要强求",
@@ -1753,6 +1809,22 @@
       "onboard_time": 1710879617,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15320,
+      "num": 297464,
+      "word": "播种春天播撒希望",
+      "onboard_time": 1710918693,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2278,
+      "num": 1117319,
+      "word": "认识你真好",
+      "onboard_time": 1710834813,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -1767,6 +1839,9 @@
     },
     {
       "word": "#习近平总书记心中的国之大者#"
+    },
+    {
+      "word": "#习近平在湖南常德市考察调研#"
     }
   ]
 }

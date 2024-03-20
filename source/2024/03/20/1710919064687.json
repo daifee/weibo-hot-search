@@ -1,0 +1,410 @@
+{
+  "runTime": 1710919064687,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1974223,
+        "num": 1974223,
+        "word": "成都巨响",
+        "onboard_time": 1710914190,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1520862,
+        "num": 1520862,
+        "word": "你愿意为了调休连上7天班吗",
+        "onboard_time": 1710916351,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2278,
+        "num": 1117319,
+        "word": "认识你真好",
+        "onboard_time": 1710834813,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 725751,
+        "num": 725751,
+        "word": "专家称很多富豪把高消费都算在企业费用上",
+        "onboard_time": 1710915392,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 668406,
+        "num": 668406,
+        "word": "沪上阿姨崩了",
+        "onboard_time": 1710901050,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 572659,
+        "num": 572659,
+        "word": "张艺兴女团颜值",
+        "onboard_time": 1710917912,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548510,
+        "num": 548510,
+        "word": "库克郑恺外滩偶遇",
+        "onboard_time": 1710906513,
+        "rank": 6,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 524647,
+        "num": 524647,
+        "word": "茶百道就改标签日期致歉",
+        "onboard_time": 1710916052,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 494129,
+        "num": 494129,
+        "word": "杨洋拄拐现身医院",
+        "onboard_time": 1710904052,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410706,
+        "num": 410706,
+        "word": "男性不做家务更易患糖尿病",
+        "onboard_time": 1710911312,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 437772,
+        "num": 399650,
+        "word": "杨幂张小斐挽手聚餐",
+        "onboard_time": 1710904713,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385557,
+        "num": 385557,
+        "word": "陶昕然为照顾妈妈放弃工作三年",
+        "onboard_time": 1710915571,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353386,
+        "num": 353386,
+        "word": "琳琳新恋情",
+        "onboard_time": 1710913353,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 347665,
+        "num": 347665,
+        "word": "西藏边坝又发现一处双层冰洞",
+        "onboard_time": 1710914969,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 178781,
+        "num": 324586,
+        "word": "英媒称团队夜以继日筹划凯特王妃复出",
+        "onboard_time": 1710911014,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 313702,
+        "num": 313702,
+        "word": "知否屠二爷是赵丽颖推荐的",
+        "onboard_time": 1710907233,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15320,
+        "num": 297464,
+        "word": "播种春天播撒希望",
+        "onboard_time": 1710918693,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296967,
+        "num": 296967,
+        "word": "蒋敦豪 晴天",
+        "onboard_time": 1710901470,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292100,
+        "num": 292100,
+        "word": "四川警方通报14岁女孩纠集多人围殴男孩",
+        "onboard_time": 1710904891,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241510,
+        "num": 241510,
+        "word": "张宥浩 抢话",
+        "onboard_time": 1710913890,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62950,
+        "num": 234856,
+        "word": "人民日报为春困的你撑腰",
+        "onboard_time": 1710918152,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346567,
+        "num": 234723,
+        "word": "减肥期拌菜",
+        "onboard_time": 1710915868,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 234576,
+        "num": 234576,
+        "word": "三月黑马体",
+        "onboard_time": 1710917370,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218409,
+        "num": 218409,
+        "word": "视力模糊下降两根手指转天筋",
+        "onboard_time": 1710904592,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197145,
+        "num": 197145,
+        "word": "王楚钦说马龙非常无私",
+        "onboard_time": 1710912692,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213536,
+        "num": 179625,
+        "word": "刘学义郑合惠子或将二搭",
+        "onboard_time": 1710909278,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161821,
+        "num": 161821,
+        "word": "大侦探 自我介绍呢",
+        "onboard_time": 1710910837,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190605,
+        "num": 161205,
+        "word": "花间令 他看她的眼神侵略性",
+        "onboard_time": 1710915332,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153773,
+        "num": 153773,
+        "word": "借哥哥军装拍照的00后立二等功",
+        "onboard_time": 1710907955,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152285,
+        "num": 152285,
+        "word": "英国王室又一合照被曝P图",
+        "onboard_time": 1710902011,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 246750,
+        "num": 151662,
+        "word": "王楚钦把奥沙利文当偶像",
+        "onboard_time": 1710916411,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158644,
+        "num": 151072,
+        "word": "8部电影定档清明档",
+        "onboard_time": 1710910474,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154370,
+        "num": 150924,
+        "word": "父亲买了一套无法过户的房子",
+        "onboard_time": 1710899372,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149729,
+        "num": 149729,
+        "word": "哈哈哈哈哈",
+        "onboard_time": 1710915392,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141801,
+        "num": 141801,
+        "word": "郁可唯抢不到",
+        "onboard_time": 1710917791,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133282,
+        "num": 133282,
+        "word": "有个姐真把千机伞做出来了",
+        "onboard_time": 1710896132,
+        "rank": 35,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 129831,
+        "num": 129831,
+        "word": "文韬生日会 长沙",
+        "onboard_time": 1710913830,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126218,
+        "num": 126218,
+        "word": "在大学里面你最想取消什么",
+        "onboard_time": 1710917853,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125911,
+        "num": 125911,
+        "word": "春分吃春菜",
+        "onboard_time": 1710917193,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121127,
+        "num": 121127,
+        "word": "韩政府首次吊销离岗医生执照",
+        "onboard_time": 1710908675,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114159,
+        "num": 114159,
+        "word": "赵丽颖素衣撑伞",
+        "onboard_time": 1710913234,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112029,
+        "num": 112029,
+        "word": "微信 月经提醒",
+        "onboard_time": 1710857978,
+        "rank": 41,
+        "category": "互联网,健康医疗"
+      },
+      {
+        "raw_hot": 111939,
+        "num": 111939,
+        "word": "张颂文隆妮林家川回了高家老宅",
+        "onboard_time": 1710913830,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111323,
+        "num": 111323,
+        "word": "火影忍者疾风传定档",
+        "onboard_time": 1710910535,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 110267,
+        "num": 110267,
+        "word": "张杰2024演唱会预告",
+        "onboard_time": 1710912989,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64409,
+        "num": 109333,
+        "word": "春季校园招聘进行时",
+        "onboard_time": 1710903632,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109175,
+        "num": 109175,
+        "word": "清明放假调休3天",
+        "onboard_time": 1710893794,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105709,
+        "num": 105709,
+        "word": "春分就是要讲一些吉祥话",
+        "onboard_time": 1710917612,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103424,
+        "num": 103424,
+        "word": "婚后的隐形家务真的会让人崩溃",
+        "onboard_time": 1710899372,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102817,
+        "num": 102817,
+        "word": "琳琳 土豆",
+        "onboard_time": 1710892532,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在湖南常德市考察调研#"
+    }
+  }
+}
