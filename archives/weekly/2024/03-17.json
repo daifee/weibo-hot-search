@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710947952621,
+  "endTime": 1710948856087,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1818310,
+      "num": 910653,
+      "word": "关晓彤短发",
+      "onboard_time": 1710943116,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1814555,
       "num": 1814555,
       "word": "幼儿园关闭潮最终会影响到大学",
@@ -577,14 +585,6 @@
       "onboard_time": 1710816755,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1457809,
-      "num": 910653,
-      "word": "关晓彤短发",
-      "onboard_time": 1710943116,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1457564,
@@ -2523,6 +2523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 567407,
+      "num": 567407,
+      "word": "最擅于隐藏情绪的星座",
+      "onboard_time": 1710944617,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 566504,
       "num": 566504,
       "word": "金价",
@@ -2569,6 +2577,14 @@
       "onboard_time": 1710637349,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 561188,
+      "num": 561188,
+      "word": "恋爱兄妹",
+      "onboard_time": 1710947078,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 558486,
@@ -3467,6 +3483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 426478,
+      "num": 403138,
+      "word": "京东洗衣回应衣物被烧将全额赔偿",
+      "onboard_time": 1710945928,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426062,
       "num": 344986,
       "word": "威廉王子修图风波后首谈凯特王妃",
@@ -3497,14 +3521,6 @@
       "onboard_time": 1710685002,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 423919,
-      "num": 403138,
-      "word": "京东洗衣回应衣物被烧将全额赔偿",
-      "onboard_time": 1710945928,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 422547,
@@ -3633,14 +3649,6 @@
       "onboard_time": 1710742774,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 409450,
-      "num": 409450,
-      "word": "最擅于隐藏情绪的星座",
-      "onboard_time": 1710944617,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 409047,
@@ -3841,14 +3849,6 @@
       "onboard_time": 1710646175,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 386780,
-      "num": 386780,
-      "word": "恋爱兄妹",
-      "onboard_time": 1710947078,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 386039,
@@ -4353,6 +4353,14 @@
       "onboard_time": 1710707475,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 329606,
+      "num": 329606,
+      "word": "一年级班主任的课间能有多忙",
+      "onboard_time": 1710944617,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 326061,
@@ -5224,14 +5232,6 @@
       "word": "酒肉情侣还有必要继续吗",
       "onboard_time": 1710754470,
       "rank": 33,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 268972,
-      "num": 268972,
-      "word": "一年级班主任的课间能有多忙",
-      "onboard_time": 1710944617,
-      "rank": 29,
       "category": "情感"
     },
     {
@@ -6579,6 +6579,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 211814,
+      "num": 211814,
+      "word": "鹿晗给自己整不好意思了",
+      "onboard_time": 1710948458,
+      "rank": 23,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 211289,
       "num": 211289,
       "word": "普京感谢选民支持",
@@ -7675,6 +7683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186497,
+      "num": 172958,
+      "word": "行云念了沈璃一辈子",
+      "onboard_time": 1710948154,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186352,
       "num": 154547,
       "word": "徐海乔备忘录",
@@ -8273,6 +8289,14 @@
       "onboard_time": 1710765391,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172724,
+      "num": 172724,
+      "word": "腾讯8款游戏年收入超40亿",
+      "onboard_time": 1710947855,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 172513,
@@ -10539,14 +10563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117552,
-      "num": 117552,
-      "word": "腾讯8款游戏年收入超40亿",
-      "onboard_time": 1710947855,
-      "rank": 47,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 117352,
       "num": 117352,
       "word": "小米Civi4Pro",
@@ -10809,6 +10825,14 @@
       "onboard_time": 1710890425,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107633,
+      "num": 107633,
+      "word": "林俊杰侧脸照",
+      "onboard_time": 1710948816,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 107161,
@@ -11099,7 +11123,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89320,
+      "raw_hot": 89606,
       "num": 1505602,
       "word": "这个春天祝你春风得意向阳花开",
       "onboard_time": 1710940536,
@@ -11172,7 +11196,7 @@
     },
     {
       "raw_hot": 82116,
-      "num": 110917,
+      "num": 142639,
       "word": "新时代推动中部地区崛起座谈会",
       "onboard_time": 1710947855,
       "rank": 49,
@@ -11377,6 +11401,14 @@
       "onboard_time": 1710734616,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 68911,
+      "num": 105205,
+      "word": "揭秘凯特王妃背后宫斗内幕",
+      "onboard_time": 1710948816,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 68057,

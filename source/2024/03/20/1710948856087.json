@@ -1,0 +1,410 @@
+{
+  "runTime": 1710948856087,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 897430,
+        "num": 897430,
+        "word": "素媛案罪犯赵斗淳又被判了",
+        "onboard_time": 1710934180,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567407,
+        "num": 567407,
+        "word": "最擅于隐藏情绪的星座",
+        "onboard_time": 1710944617,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89606,
+        "num": 564189,
+        "word": "这个春天祝你春风得意向阳花开",
+        "onboard_time": 1710940536,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1818310,
+        "num": 562873,
+        "word": "关晓彤短发",
+        "onboard_time": 1710943116,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 811225,
+        "num": 562821,
+        "word": "女子怀孕7个月刚独自待5分钟就倒地",
+        "onboard_time": 1710939516,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561188,
+        "num": 561188,
+        "word": "恋爱兄妹",
+        "onboard_time": 1710947078,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530809,
+        "num": 530809,
+        "word": "藏海传",
+        "onboard_time": 1710943116,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365542,
+        "num": 365542,
+        "word": "汪东城你年龄是满40减20吗",
+        "onboard_time": 1710941855,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1251340,
+        "num": 360054,
+        "word": "东航致132人遇难事故调查进展发布",
+        "onboard_time": 1710930218,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334954,
+        "num": 334954,
+        "word": "承欢记要来了",
+        "onboard_time": 1710942456,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426478,
+        "num": 334876,
+        "word": "京东洗衣回应衣物被烧将全额赔偿",
+        "onboard_time": 1710945928,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329606,
+        "num": 329606,
+        "word": "一年级班主任的课间能有多忙",
+        "onboard_time": 1710944617,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 327770,
+        "num": 327770,
+        "word": "刘亦菲又在撕嘴皮",
+        "onboard_time": 1710935436,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1430615,
+        "num": 327654,
+        "word": "专家称打工人午睡15分钟足够",
+        "onboard_time": 1710940776,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324416,
+        "num": 324416,
+        "word": "2月龄男婴接种疫苗14天后死亡",
+        "onboard_time": 1710935074,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313017,
+        "num": 313017,
+        "word": "日媒称一中国富豪借给福原爱3亿日元",
+        "onboard_time": 1710936756,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309799,
+        "num": 309799,
+        "word": "鹿晗强迫好友深夜督战曼联",
+        "onboard_time": 1710935017,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 248189,
+        "num": 248189,
+        "word": "肖战藏海传官服造型",
+        "onboard_time": 1710939095,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233887,
+        "num": 233887,
+        "word": "拼多多涨逾15%",
+        "onboard_time": 1710944917,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 232021,
+        "num": 232021,
+        "word": "恶作剧之吻",
+        "onboard_time": 1710929676,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230213,
+        "num": 230213,
+        "word": "边伯贤 香港",
+        "onboard_time": 1710941020,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1244516,
+        "num": 227861,
+        "word": "山西高速致14死大巴车载夕阳红旅行团",
+        "onboard_time": 1710942095,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222342,
+        "num": 222342,
+        "word": "林依晨 你",
+        "onboard_time": 1710927818,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211814,
+        "num": 211814,
+        "word": "鹿晗给自己整不好意思了",
+        "onboard_time": 1710948458,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 192383,
+        "num": 204316,
+        "word": "iPhone16系列或实现更大显示屏",
+        "onboard_time": 1710930996,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 200382,
+        "num": 200382,
+        "word": "刘学义光头造型",
+        "onboard_time": 1710938376,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192989,
+        "num": 192989,
+        "word": "杜海涛演戏",
+        "onboard_time": 1710940835,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190852,
+        "num": 190852,
+        "word": "神君行止就位",
+        "onboard_time": 1710946356,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174171,
+        "num": 174171,
+        "word": "男生美国卖三蹦子首日进账1万美金",
+        "onboard_time": 1710940416,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 132156,
+        "num": 173102,
+        "word": "越共中央批准越南国家主席武文赏辞职",
+        "onboard_time": 1710934055,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 186497,
+        "num": 172958,
+        "word": "行云念了沈璃一辈子",
+        "onboard_time": 1710948154,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172724,
+        "num": 172724,
+        "word": "腾讯8款游戏年收入超40亿",
+        "onboard_time": 1710947855,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166148,
+        "num": 166148,
+        "word": "宋妍霏身材管理",
+        "onboard_time": 1710939632,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163854,
+        "num": 163854,
+        "word": "唐嫣直播状态",
+        "onboard_time": 1710934777,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147566,
+        "num": 154918,
+        "word": "山西致14死大巴事故乘客均来自镇江",
+        "onboard_time": 1710942574,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154209,
+        "num": 154209,
+        "word": "第一次知道刷牙后不用漱口",
+        "onboard_time": 1710919592,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148335,
+        "num": 148335,
+        "word": "十个勤天",
+        "onboard_time": 1710945876,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31742,
+        "num": 146132,
+        "word": "智能床垫有哪些优势",
+        "onboard_time": 1710944677,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 143967,
+        "num": 143967,
+        "word": "被旗袍的美感惊艳到了",
+        "onboard_time": 1710941617,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 71112,
+        "num": 142639,
+        "word": "新时代推动中部地区崛起座谈会",
+        "onboard_time": 1710947855,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142331,
+        "num": 142331,
+        "word": "辛云来赵丽颖合照",
+        "onboard_time": 1710940179,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134131,
+        "num": 134131,
+        "word": "龚俊邓为撞衫",
+        "onboard_time": 1710932259,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122179,
+        "num": 122179,
+        "word": "自己买的房最不该考虑的就是客人",
+        "onboard_time": 1710935735,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118054,
+        "num": 118054,
+        "word": "承欢记",
+        "onboard_time": 1710944256,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116716,
+        "num": 116716,
+        "word": "BLG四人亮天使致敬angel",
+        "onboard_time": 1710939277,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112641,
+        "num": 112641,
+        "word": "墨方 纯爱战士",
+        "onboard_time": 1710944858,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108336,
+        "num": 108336,
+        "word": "新中式穿搭",
+        "onboard_time": 1710942395,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 107633,
+        "num": 107633,
+        "word": "林俊杰侧脸照",
+        "onboard_time": 1710948816,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105350,
+        "num": 105350,
+        "word": "种地吧",
+        "onboard_time": 1710945816,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68911,
+        "num": 105205,
+        "word": "揭秘凯特王妃背后宫斗内幕",
+        "onboard_time": 1710948816,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在湖南考察调研#"
+    }
+  }
+}
