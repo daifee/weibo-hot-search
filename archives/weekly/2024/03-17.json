@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710974125078,
+  "endTime": 1710976742045,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -1515,6 +1515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 860396,
+      "num": 860396,
+      "word": "不吃早饭比不吃晚饭危害更大吗",
+      "onboard_time": 1710966616,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 859261,
       "num": 859261,
       "word": "庆余年",
@@ -2276,7 +2284,7 @@
     },
     {
       "raw_hot": 612206,
-      "num": 160923,
+      "num": 224483,
       "word": "河北邯郸一高中生被同学打伤睾丸",
       "onboard_time": 1710948992,
       "rank": 20,
@@ -2369,6 +2377,14 @@
       "onboard_time": 1710733834,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 601850,
+      "num": 601850,
+      "word": "那些放弃社保的年轻人",
+      "onboard_time": 1710975682,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 600974,
@@ -4403,6 +4419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 326161,
+      "num": 326161,
+      "word": "男生美国卖三蹦子首日进账1万美金",
+      "onboard_time": 1710940416,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 326061,
       "num": 268324,
       "word": "从脂肪肝到肝癌只有4步",
@@ -4587,12 +4611,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 315053,
-      "num": 315053,
-      "word": "不吃早饭比不吃晚饭危害更大吗",
-      "onboard_time": 1710966616,
-      "rank": 48,
-      "category": "健康医疗"
+      "raw_hot": 314615,
+      "num": 314615,
+      "word": "天水麻辣烫成都分烫火到闭店",
+      "onboard_time": 1710957140,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 314216,
@@ -5217,14 +5241,6 @@
       "onboard_time": 1710929618,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275868,
-      "num": 275868,
-      "word": "男生美国卖三蹦子首日进账1万美金",
-      "onboard_time": 1710940416,
-      "rank": 37,
-      "category": "国外时政"
     },
     {
       "raw_hot": 274579,
@@ -9275,6 +9291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152206,
+      "num": 152206,
+      "word": "金高银撑住了贴头皮造型",
+      "onboard_time": 1710958638,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152032,
       "num": 152032,
       "word": "五月天香港站官宣",
@@ -9313,14 +9337,6 @@
       "onboard_time": 1710689619,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151686,
-      "num": 151686,
-      "word": "天水麻辣烫成都分烫火到闭店",
-      "onboard_time": 1710957140,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 151489,
@@ -9731,6 +9747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141365,
+      "num": 65812,
+      "word": "胸部自检",
+      "onboard_time": 1710975682,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 140823,
       "num": 140823,
       "word": "赵丽颖沈璃V榜登顶",
@@ -10139,6 +10163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132808,
+      "num": 132808,
+      "word": "华西专家告诉你什么决定孩子身高",
+      "onboard_time": 1710976706,
+      "rank": 15,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 132779,
       "num": 455242,
       "word": "接下来杭州是这样的",
@@ -10441,6 +10473,14 @@
       "onboard_time": 1710924337,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123849,
+      "num": 123849,
+      "word": "为什么牙不好疾病满身跑",
+      "onboard_time": 1710961576,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 123835,
@@ -11163,6 +11203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90972,
+      "num": 90972,
+      "word": "想减肥要多站立",
+      "onboard_time": 1710969016,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 90790,
       "num": 223606,
       "word": "王楚钦说守住半区最值得高兴",
@@ -11217,6 +11265,14 @@
       "onboard_time": 1710858519,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85675,
+      "num": 85675,
+      "word": "美联储维持利率不变",
+      "onboard_time": 1710976223,
+      "rank": 24,
+      "category": "财经,国外时政"
     },
     {
       "raw_hot": 85381,
@@ -11281,6 +11337,14 @@
       "onboard_time": 1710890848,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 81755,
+      "num": 81755,
+      "word": "早上该先刷牙还是先吃早饭",
+      "onboard_time": 1710958219,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 80965,
@@ -11411,14 +11475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74646,
-      "num": 74646,
-      "word": "金高银撑住了贴头皮造型",
-      "onboard_time": 1710958638,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 73288,
       "num": 287731,
       "word": "大学生买游戏本还是轻薄本",
@@ -11515,6 +11571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67385,
+      "num": 65686,
+      "word": "出差时公司给定的儿童房",
+      "onboard_time": 1710964336,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67009,
       "num": 126853,
       "word": "林高远版海底捞月",
@@ -11547,6 +11611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65862,
+      "num": 65862,
+      "word": "一看就是00后当上了老板",
+      "onboard_time": 1710976346,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 64553,
       "num": 223724,
       "word": "马面裙订单量同比增841%",
@@ -11561,6 +11633,14 @@
       "onboard_time": 1710936817,
       "rank": 23,
       "category": "互联网,时尚"
+    },
+    {
+      "raw_hot": 62843,
+      "num": 62843,
+      "word": "沈璃红衣",
+      "onboard_time": 1710955700,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 62730,
@@ -11579,14 +11659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62522,
-      "num": 52937,
-      "word": "想减肥要多站立",
-      "onboard_time": 1710969016,
-      "rank": 48,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 62221,
       "num": 1230336,
       "word": "认识你真好",
@@ -11603,12 +11675,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60902,
-      "num": 60902,
-      "word": "为什么牙不好疾病满身跑",
-      "onboard_time": 1710961576,
-      "rank": 45,
-      "category": "健康医疗"
+      "raw_hot": 61210,
+      "num": 61210,
+      "word": "周氏黄金们到底有什么区别",
+      "onboard_time": 1710976223,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 60707,
@@ -11627,12 +11699,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60170,
+      "num": 60170,
+      "word": "网飞三体",
+      "onboard_time": 1710970577,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60122,
       "num": 177984,
       "word": "当你睡着你的身体发生了什么",
       "onboard_time": 1710939217,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 57917,
+      "num": 57917,
+      "word": "美联储",
+      "onboard_time": 1710976706,
+      "rank": 38,
+      "category": "财经,国外时政"
     },
     {
       "raw_hot": 57418,
@@ -11649,6 +11737,14 @@
       "onboard_time": 1710868220,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 56278,
+      "num": 56278,
+      "word": "飞驰人生全员告别",
+      "onboard_time": 1710973941,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 56025,
@@ -11691,14 +11787,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 53283,
-      "num": 28639,
-      "word": "出差时公司给定的儿童房",
-      "onboard_time": 1710964336,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 52695,
       "num": 52695,
       "word": "八段锦国家体育总局完整版",
@@ -11739,12 +11827,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 48088,
+      "num": 48088,
+      "word": "第一季度中国奢侈品销售将意外大跌",
+      "onboard_time": 1710976586,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 47824,
+      "num": 47824,
+      "word": "行止我来晚了",
+      "onboard_time": 1710976645,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47782,
       "num": 527219,
       "word": "小米Civi4Pro首发第三代骁龙8s",
       "onboard_time": 1710752735,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 46995,
+      "num": 46782,
+      "word": "福建这种礼饼到底谁爱吃",
+      "onboard_time": 1710976586,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 46092,
@@ -11788,7 +11900,7 @@
     },
     {
       "raw_hot": 39625,
-      "num": 152735,
+      "num": 618650,
       "word": "春好正是耕种时",
       "onboard_time": 1710940054,
       "rank": 42,
@@ -11819,14 +11931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38214,
-      "num": 38214,
-      "word": "沈璃红衣",
-      "onboard_time": 1710955700,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 38160,
       "num": 326311,
       "word": "纯电市场红旗EH7申请出战",
@@ -11849,14 +11953,6 @@
       "onboard_time": 1710927394,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35294,
-      "num": 34225,
-      "word": "早上该先刷牙还是先吃早饭",
-      "onboard_time": 1710958219,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 35023,
@@ -11905,14 +12001,6 @@
       "onboard_time": 1710786377,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 32774,
-      "num": 32774,
-      "word": "网飞三体",
-      "onboard_time": 1710970577,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 32477,
@@ -12081,14 +12169,6 @@
       "onboard_time": 1710704596,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 18468,
-      "num": 26829,
-      "word": "飞驰人生全员告别",
-      "onboard_time": 1710973941,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 17738,
