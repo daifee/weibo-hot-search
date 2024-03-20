@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1710929879155,
+  "endTime": 1710930836507,
   "band_list": [
     {
       "raw_hot": 18909527,
@@ -1739,6 +1739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2932600,
+      "num": 2932600,
+      "word": "东航致132人遇难事故调查进展发布",
+      "onboard_time": 1710930218,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2928217,
       "num": 2928217,
       "word": "奥斯卡",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1709963189,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2583114,
-      "num": 2583114,
-      "word": "冀F8656Z",
-      "onboard_time": 1706590473,
-      "rank": 1,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

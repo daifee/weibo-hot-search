@@ -1,0 +1,410 @@
+{
+  "runTime": 1710930836507,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2932600,
+        "num": 2932600,
+        "word": "东航致132人遇难事故调查进展发布",
+        "onboard_time": 1710930218,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1648784,
+        "num": 1648784,
+        "word": "林依晨 你",
+        "onboard_time": 1710927818,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12503,
+        "num": 964660,
+        "word": "认识你真好",
+        "onboard_time": 1710834813,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861210,
+        "num": 861210,
+        "word": "主播靠辱骂母亲走红被批捕封号",
+        "onboard_time": 1710923493,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689173,
+        "num": 689173,
+        "word": "不要再为吃糖油混合物焦虑了",
+        "onboard_time": 1710924337,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 649527,
+        "num": 649527,
+        "word": "短剧把李沁证件照P成黑白",
+        "onboard_time": 1710923793,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 580914,
+        "num": 580914,
+        "word": "东航",
+        "onboard_time": 1710930395,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470553,
+        "num": 470553,
+        "word": "腾讯宣布2024年回购不少于1000亿港元",
+        "onboard_time": 1710926494,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 112124,
+        "num": 468219,
+        "word": "奔马不踏飞燕改行捣辣椒做麻辣烫了",
+        "onboard_time": 1710928235,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 201317,
+        "num": 467239,
+        "word": "每天三五百个网红专往杭州这座山头跑",
+        "onboard_time": 1710924155,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1334594,
+        "num": 462585,
+        "word": "南宁一规培生在医院卫生间割颈死亡",
+        "onboard_time": 1710928297,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508130,
+        "num": 462124,
+        "word": "英国王室发查尔斯三世最新画面",
+        "onboard_time": 1710927096,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 459621,
+        "num": 459621,
+        "word": "微信及WeChat月活13.43亿",
+        "onboard_time": 1710928115,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 429923,
+        "num": 429923,
+        "word": "你愿意为了调休连上7天班吗",
+        "onboard_time": 1710916351,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 380588,
+        "num": 380588,
+        "word": "沪上阿姨崩了",
+        "onboard_time": 1710901050,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 373127,
+        "num": 373127,
+        "word": "C罗中国行机酒退款到账",
+        "onboard_time": 1710924937,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372702,
+        "num": 372702,
+        "word": "恶作剧之吻",
+        "onboard_time": 1710929676,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344717,
+        "num": 344717,
+        "word": "赵丽颖方辟谣推荐知否屠二爷",
+        "onboard_time": 1710924274,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313004,
+        "num": 313004,
+        "word": "四川麻辣烫申请出战被本地人驳回",
+        "onboard_time": 1710926257,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 275870,
+        "num": 275870,
+        "word": "八旬奶奶得知李政去世消息落泪",
+        "onboard_time": 1710929618,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36440,
+        "num": 271583,
+        "word": "电车驾控感好是一种什么体验",
+        "onboard_time": 1710927394,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327086,
+        "num": 270145,
+        "word": "第一次知道刷牙后不用漱口",
+        "onboard_time": 1710919592,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 267697,
+        "num": 267697,
+        "word": "电影版红楼梦 贾吞林财",
+        "onboard_time": 1710927695,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 251401,
+        "num": 251401,
+        "word": "央视网评校园霸凌新特征",
+        "onboard_time": 1710926556,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240326,
+        "num": 240326,
+        "word": "早安婚礼现场",
+        "onboard_time": 1710928895,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235327,
+        "num": 235327,
+        "word": "钝感力是infp一生的必修课",
+        "onboard_time": 1710924696,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228687,
+        "num": 228687,
+        "word": "我只是敢花钱不代表我真有钱",
+        "onboard_time": 1710928835,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225895,
+        "num": 225895,
+        "word": "随机吓到一名师范生",
+        "onboard_time": 1710928476,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53770,
+        "num": 223553,
+        "word": "此沙张婧仪周雨彤春分踏青",
+        "onboard_time": 1710929436,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221798,
+        "num": 221798,
+        "word": "花儿与少年好友记关键词",
+        "onboard_time": 1710924755,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215944,
+        "num": 215944,
+        "word": "库克郑恺外滩偶遇",
+        "onboard_time": 1710906513,
+        "rank": 30,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 210945,
+        "num": 210945,
+        "word": "杨洋拄拐现身医院",
+        "onboard_time": 1710904052,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204400,
+        "num": 204400,
+        "word": "威廉王子出席活动提到凯特王妃",
+        "onboard_time": 1710921817,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 197231,
+        "num": 197231,
+        "word": "为啥旅行社开始害怕年轻人",
+        "onboard_time": 1710926378,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 190739,
+        "num": 190739,
+        "word": "杨幂张小斐挽手聚餐",
+        "onboard_time": 1710904713,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184055,
+        "num": 184055,
+        "word": "52岁男子爱吃生腌感染3种寄生虫",
+        "onboard_time": 1710923734,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175308,
+        "num": 175308,
+        "word": "李沁方回应被短剧P黑白照",
+        "onboard_time": 1710930395,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168411,
+        "num": 168411,
+        "word": "张予曦浪姐全妆路透",
+        "onboard_time": 1710924396,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160415,
+        "num": 160415,
+        "word": "赵丽颖早期花千骨角色发布会",
+        "onboard_time": 1710927938,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141349,
+        "num": 141349,
+        "word": "张艺兴女团颜值",
+        "onboard_time": 1710917912,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138764,
+        "num": 138764,
+        "word": "原来充电宝看的是额定容量",
+        "onboard_time": 1710928597,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 127637,
+        "num": 127637,
+        "word": "成都巨响",
+        "onboard_time": 1710914190,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118869,
+        "num": 118869,
+        "word": "吹风机做虾",
+        "onboard_time": 1710920616,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118299,
+        "num": 118299,
+        "word": "男性不做家务更易患糖尿病",
+        "onboard_time": 1710911312,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111407,
+        "num": 111407,
+        "word": "朱劲草血脉压制朱大力",
+        "onboard_time": 1710930636,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108540,
+        "num": 108540,
+        "word": "李荣浩官宣鸟巢演唱会",
+        "onboard_time": 1710927155,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107501,
+        "num": 107501,
+        "word": "库克称中国对苹果供应链最重要",
+        "onboard_time": 1710926257,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 97045,
+        "num": 107500,
+        "word": "别对我动心 开门办公关门老公",
+        "onboard_time": 1710925894,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95274,
+        "num": 107494,
+        "word": "腾讯发布2023全年业绩报告",
+        "onboard_time": 1710928775,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 85293,
+        "num": 107489,
+        "word": "江俊霖 恋综聊天单品",
+        "onboard_time": 1710927634,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#学校的办学宗旨要引导学生立志报国#"
+    }
+  }
+}
