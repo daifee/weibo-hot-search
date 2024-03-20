@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710912854774,
+  "endTime": 1710915708554,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -427,6 +427,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1602074,
+      "num": 961715,
+      "word": "我成了计划生育的法外狂徒",
+      "onboard_time": 1710912575,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1560231,
       "num": 1560231,
       "word": "费曼辣评吴镇宇",
@@ -769,6 +777,14 @@
       "onboard_time": 1710834873,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1207558,
+      "num": 1207558,
+      "word": "成都巨响",
+      "onboard_time": 1710914190,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1203015,
@@ -2315,6 +2331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 556705,
+      "num": 429886,
+      "word": "琳琳新恋情",
+      "onboard_time": 1710913353,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 555448,
       "num": 412599,
       "word": "陈哲远瘦了",
@@ -2633,6 +2657,14 @@
       "onboard_time": 1710741217,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 491350,
+      "num": 491350,
+      "word": "男性不做家务更易患糖尿病",
+      "onboard_time": 1710911312,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 488622,
@@ -3555,6 +3587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 367382,
+      "num": 367382,
+      "word": "王楚钦说马龙非常无私",
+      "onboard_time": 1710912692,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 367356,
       "num": 257166,
       "word": "拜托那可是赵丽颖",
@@ -3697,6 +3737,14 @@
       "onboard_time": 1710765633,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342630,
+      "num": 342630,
+      "word": "张宥浩 抢话",
+      "onboard_time": 1710913890,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 342131,
@@ -4499,14 +4547,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 275967,
-      "num": 275967,
-      "word": "男性不做家务更易患糖尿病",
-      "onboard_time": 1710911312,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 274579,
       "num": 274579,
       "word": "牛仔裤外套屁帘到底谁在穿",
@@ -4753,14 +4793,6 @@
       "onboard_time": 1710669033,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 254885,
-      "num": 209654,
-      "word": "我成了计划生育的法外狂徒",
-      "onboard_time": 1710912575,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 254145,
@@ -5217,6 +5249,14 @@
       "onboard_time": 1710835779,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 226949,
+      "num": 226949,
+      "word": "张颂文隆妮林家川回了高家老宅",
+      "onboard_time": 1710913830,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 226676,
@@ -6155,6 +6195,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 199111,
+      "num": 199111,
+      "word": "xun建议Bin不要硬钢",
+      "onboard_time": 1710913050,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199040,
       "num": 1197847,
       "word": "有一种意境叫中式美学",
@@ -6491,12 +6539,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 190555,
+      "num": 190555,
+      "word": "文韬生日会 长沙",
+      "onboard_time": 1710913830,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190122,
       "num": 190122,
       "word": "赵丽颖林更新微指破亿",
       "onboard_time": 1710732637,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190110,
+      "num": 190110,
+      "word": "西藏边坝又发现一处双层冰洞",
+      "onboard_time": 1710914969,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 189980,
@@ -6955,6 +7019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177939,
+      "num": 177939,
+      "word": "哈哈哈哈哈",
+      "onboard_time": 1710915392,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177869,
       "num": 177869,
       "word": "你们和男朋友出去旅游AA吗",
@@ -7275,14 +7347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 169830,
-      "num": 169830,
-      "word": "王楚钦说马龙非常无私",
-      "onboard_time": 1710912692,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 169601,
       "num": 210584,
       "word": "A股",
@@ -7361,6 +7425,14 @@
       "onboard_time": 1710772838,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168342,
+      "num": 168342,
+      "word": "张杰2024演唱会预告",
+      "onboard_time": 1710912989,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 168111,
@@ -7795,6 +7867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156807,
+      "num": 156807,
+      "word": "赵丽颖素衣撑伞",
+      "onboard_time": 1710913234,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156737,
       "num": 156737,
       "word": "Hero对战XYG",
@@ -8187,6 +8267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147964,
+      "num": 147964,
+      "word": "花间令 他看她的眼神侵略性",
+      "onboard_time": 1710915332,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147605,
       "num": 147605,
       "word": "RNG无缘春季赛季后赛",
@@ -8321,6 +8409,14 @@
       "onboard_time": 1710647611,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 142873,
+      "num": 142873,
+      "word": "执笔开播",
+      "onboard_time": 1710915212,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 142764,
@@ -8465,6 +8561,14 @@
       "onboard_time": 1710673775,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138317,
+      "num": 138317,
+      "word": "陶昕然为照顾妈妈放弃工作三年",
+      "onboard_time": 1710915571,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 138100,
@@ -9441,6 +9545,14 @@
       "onboard_time": 1710615200,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101871,
+      "num": 101871,
+      "word": "专家称很多富豪把高消费都算在企业费用上",
+      "onboard_time": 1710915392,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100900,

@@ -1,6 +1,6 @@
 {
   "startTime": 1710865343685,
-  "endTime": 1710912854774,
+  "endTime": 1710915708554,
   "band_list": [
     {
       "raw_hot": 3026537,
@@ -41,6 +41,14 @@
       "onboard_time": 1710906513,
       "rank": 1,
       "category": "数码,艺人"
+    },
+    {
+      "raw_hot": 1602074,
+      "num": 961715,
+      "word": "我成了计划生育的法外狂徒",
+      "onboard_time": 1710912575,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 1501572,
@@ -97,6 +105,14 @@
       "onboard_time": 1710904713,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1207558,
+      "num": 1207558,
+      "word": "成都巨响",
+      "onboard_time": 1710914190,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1167637,
@@ -267,6 +283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 556705,
+      "num": 429886,
+      "word": "琳琳新恋情",
+      "onboard_time": 1710913353,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 554364,
       "num": 554364,
       "word": "英媒称团队夜以继日筹划凯特王妃复出",
@@ -321,6 +345,14 @@
       "onboard_time": 1710900328,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 491350,
+      "num": 491350,
+      "word": "男性不做家务更易患糖尿病",
+      "onboard_time": 1710911312,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 487481,
@@ -427,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 367382,
+      "num": 367382,
+      "word": "王楚钦说马龙非常无私",
+      "onboard_time": 1710912692,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 352906,
       "num": 251914,
       "word": "花5元给女儿买了一双高跟鞋",
@@ -440,6 +480,14 @@
       "word": "朱梓骁 纪凌尘是我的贵人",
       "onboard_time": 1710850294,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 342630,
+      "num": 342630,
+      "word": "张宥浩 抢话",
+      "onboard_time": 1710913890,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -571,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 275967,
-      "num": 275967,
-      "word": "男性不做家务更易患糖尿病",
-      "onboard_time": 1710911312,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 269691,
       "num": 269691,
       "word": "花间令低开高走",
@@ -601,14 +641,6 @@
       "onboard_time": 1710851432,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254885,
-      "num": 209654,
-      "word": "我成了计划生育的法外狂徒",
-      "onboard_time": 1710912575,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 254145,
@@ -673,6 +705,14 @@
       "onboard_time": 1710855457,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226949,
+      "num": 226949,
+      "word": "张颂文隆妮林家川回了高家老宅",
+      "onboard_time": 1710913830,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 226638,
@@ -835,6 +875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199111,
+      "num": 199111,
+      "word": "xun建议Bin不要硬钢",
+      "onboard_time": 1710913050,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196210,
       "num": 144030,
       "word": "早睡1小时身体竟然有这么多变化",
@@ -875,6 +923,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190555,
+      "num": 190555,
+      "word": "文韬生日会 长沙",
+      "onboard_time": 1710913830,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 190110,
+      "num": 190110,
+      "word": "西藏边坝又发现一处双层冰洞",
+      "onboard_time": 1710914969,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 186992,
       "num": 186992,
       "word": "月嫂回应掌掴婴儿是在赶虫子",
@@ -907,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177939,
+      "num": 177939,
+      "word": "哈哈哈哈哈",
+      "onboard_time": 1710915392,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176871,
       "num": 176871,
       "word": "中国减持美债186亿美元",
@@ -931,14 +1003,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 169830,
-      "num": 169830,
-      "word": "王楚钦说马龙非常无私",
-      "onboard_time": 1710912692,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 169601,
       "num": 210584,
       "word": "A股",
@@ -953,6 +1017,14 @@
       "onboard_time": 1710901832,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 168342,
+      "num": 168342,
+      "word": "张杰2024演唱会预告",
+      "onboard_time": 1710912989,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 167018,
@@ -1000,6 +1072,14 @@
       "word": "王一博追风者醉酒戏",
       "onboard_time": 1710902972,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156807,
+      "num": 156807,
+      "word": "赵丽颖素衣撑伞",
+      "onboard_time": 1710913234,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -1059,6 +1139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147964,
+      "num": 147964,
+      "word": "花间令 他看她的眼神侵略性",
+      "onboard_time": 1710915332,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146576,
       "num": 146576,
       "word": "下班社恐跟我上班社牛有什么关系",
@@ -1081,6 +1169,14 @@
       "onboard_time": 1710847054,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142873,
+      "num": 142873,
+      "word": "执笔开播",
+      "onboard_time": 1710915212,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 142764,
@@ -1113,6 +1209,14 @@
       "onboard_time": 1710909034,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138317,
+      "num": 138317,
+      "word": "陶昕然为照顾妈妈放弃工作三年",
+      "onboard_time": 1710915571,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 137860,
@@ -1337,6 +1441,14 @@
       "onboard_time": 1710848673,
       "rank": 29,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 101871,
+      "num": 101871,
+      "word": "专家称很多富豪把高消费都算在企业费用上",
+      "onboard_time": 1710915392,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98775,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1710915708554,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1207558,
+        "num": 1207558,
+        "word": "成都巨响",
+        "onboard_time": 1710914190,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1068878,
+        "num": 1068878,
+        "word": "沪上阿姨崩了",
+        "onboard_time": 1710901050,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 62191,
+        "num": 967918,
+        "word": "春季校园招聘进行时",
+        "onboard_time": 1710903632,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1602074,
+        "num": 961715,
+        "word": "我成了计划生育的法外狂徒",
+        "onboard_time": 1710912575,
+        "rank": 3,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 955328,
+        "num": 955328,
+        "word": "库克郑恺外滩偶遇",
+        "onboard_time": 1710906513,
+        "rank": 4,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 541316,
+        "num": 541316,
+        "word": "蒋敦豪 晴天",
+        "onboard_time": 1710901470,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491350,
+        "num": 491350,
+        "word": "男性不做家务更易患糖尿病",
+        "onboard_time": 1710911312,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 483680,
+        "num": 483680,
+        "word": "知否屠二爷是赵丽颖推荐的",
+        "onboard_time": 1710907233,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449159,
+        "num": 449159,
+        "word": "韩政府首次吊销离岗医生执照",
+        "onboard_time": 1710908675,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432630,
+        "num": 432630,
+        "word": "英媒称团队夜以继日筹划凯特王妃复出",
+        "onboard_time": 1710911014,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 556705,
+        "num": 429886,
+        "word": "琳琳新恋情",
+        "onboard_time": 1710913353,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 540403,
+        "num": 414911,
+        "word": "杨幂张小斐挽手聚餐",
+        "onboard_time": 1710904713,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481907,
+        "num": 409978,
+        "word": "四川警方通报14岁女孩纠集多人围殴男孩",
+        "onboard_time": 1710904891,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459714,
+        "num": 395211,
+        "word": "杨洋拄拐现身医院",
+        "onboard_time": 1710904052,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389894,
+        "num": 389894,
+        "word": "刘学义郑合惠子或将二搭",
+        "onboard_time": 1710909278,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367382,
+        "num": 367382,
+        "word": "王楚钦说马龙非常无私",
+        "onboard_time": 1710912692,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361626,
+        "num": 361626,
+        "word": "大侦探 自我介绍呢",
+        "onboard_time": 1710910837,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342630,
+        "num": 342630,
+        "word": "张宥浩 抢话",
+        "onboard_time": 1710913890,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277087,
+        "num": 277087,
+        "word": "有个姐真把千机伞做出来了",
+        "onboard_time": 1710896132,
+        "rank": 18,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 248749,
+        "num": 248749,
+        "word": "微信 月经提醒",
+        "onboard_time": 1710857978,
+        "rank": 19,
+        "category": "互联网,健康医疗"
+      },
+      {
+        "raw_hot": 226949,
+        "num": 226949,
+        "word": "张颂文隆妮林家川回了高家老宅",
+        "onboard_time": 1710913830,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213342,
+        "num": 213342,
+        "word": "视力模糊下降两根手指转天筋",
+        "onboard_time": 1710904592,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211149,
+        "num": 211149,
+        "word": "8部电影定档清明档",
+        "onboard_time": 1710910474,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203907,
+        "num": 203907,
+        "word": "婚后的隐形家务真的会让人崩溃",
+        "onboard_time": 1710899372,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203142,
+        "num": 203142,
+        "word": "刘烨也逃不开的中年三件套",
+        "onboard_time": 1710907116,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199111,
+        "num": 199111,
+        "word": "xun建议Bin不要硬钢",
+        "onboard_time": 1710913050,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190555,
+        "num": 190555,
+        "word": "文韬生日会 长沙",
+        "onboard_time": 1710913830,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180326,
+        "num": 190310,
+        "word": "清明放假调休3天",
+        "onboard_time": 1710893794,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149065,
+        "num": 190116,
+        "word": "英国王室又一合照被曝P图",
+        "onboard_time": 1710902011,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 42890,
+        "num": 190111,
+        "word": "春分是整个春季中的C位节气",
+        "onboard_time": 1710906271,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190110,
+        "num": 190110,
+        "word": "西藏边坝又发现一处双层冰洞",
+        "onboard_time": 1710914969,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 185694,
+        "num": 185694,
+        "word": "父亲买了一套无法过户的房子",
+        "onboard_time": 1710899372,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179372,
+        "num": 179372,
+        "word": "琳琳 土豆",
+        "onboard_time": 1710892532,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177939,
+        "num": 177939,
+        "word": "哈哈哈哈哈",
+        "onboard_time": 1710915392,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174690,
+        "num": 174690,
+        "word": "吴磊赤膊骑车",
+        "onboard_time": 1710907715,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168342,
+        "num": 168342,
+        "word": "张杰2024演唱会预告",
+        "onboard_time": 1710912989,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160983,
+        "num": 160983,
+        "word": "火影忍者疾风传定档",
+        "onboard_time": 1710910535,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 156807,
+        "num": 156807,
+        "word": "赵丽颖素衣撑伞",
+        "onboard_time": 1710913234,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155325,
+        "num": 155325,
+        "word": "小日子 儿媳保护婆婆单挑公公",
+        "onboard_time": 1710911555,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147964,
+        "num": 147964,
+        "word": "花间令 他看她的眼神侵略性",
+        "onboard_time": 1710915332,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142873,
+        "num": 142873,
+        "word": "执笔开播",
+        "onboard_time": 1710915212,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138317,
+        "num": 138317,
+        "word": "陶昕然为照顾妈妈放弃工作三年",
+        "onboard_time": 1710915571,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130689,
+        "num": 130689,
+        "word": "借哥哥军装拍照的00后立二等功",
+        "onboard_time": 1710907955,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127153,
+        "num": 127153,
+        "word": "红楼梦抢票",
+        "onboard_time": 1710905854,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121246,
+        "num": 121246,
+        "word": "辛芷蕾 做什么样的演员是我的权利",
+        "onboard_time": 1710912332,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120470,
+        "num": 120470,
+        "word": "花间令 换乘恋爱",
+        "onboard_time": 1710910658,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115524,
+        "num": 115524,
+        "word": "许嵩抢票",
+        "onboard_time": 1710901112,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103977,
+        "num": 103977,
+        "word": "呼北高速交通事故已造成14人死亡",
+        "onboard_time": 1710903451,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101871,
+        "num": 101871,
+        "word": "专家称很多富豪把高消费都算在企业费用上",
+        "onboard_time": 1710915392,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96641,
+        "num": 96641,
+        "word": "新基金只募集到26元还是员工自购",
+        "onboard_time": 1710911729,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在湖南考察调研#"
+    }
+  }
+}
