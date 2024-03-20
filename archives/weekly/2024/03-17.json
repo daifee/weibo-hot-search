@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710972938098,
+  "endTime": 1710974125078,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -4587,6 +4587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 315053,
+      "num": 315053,
+      "word": "不吃早饭比不吃晚饭危害更大吗",
+      "onboard_time": 1710966616,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 314216,
       "num": 314216,
       "word": "电影版红楼梦 贾吞林财",
@@ -6777,14 +6785,6 @@
       "onboard_time": 1710846034,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 206750,
-      "num": 51189,
-      "word": "不吃早饭比不吃晚饭危害更大吗",
-      "onboard_time": 1710966616,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 206638,
@@ -9315,6 +9315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151686,
+      "num": 151686,
+      "word": "天水麻辣烫成都分烫火到闭店",
+      "onboard_time": 1710957140,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 151489,
       "num": 151489,
       "word": "夏之光彩票代刮",
@@ -10803,14 +10811,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 111098,
-      "num": 111098,
-      "word": "天水麻辣烫成都分烫火到闭店",
-      "onboard_time": 1710957140,
-      "rank": 19,
-      "category": "美食"
-    },
-    {
       "raw_hot": 110653,
       "num": 110653,
       "word": "罗小黑 春分",
@@ -11579,6 +11579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62522,
+      "num": 52937,
+      "word": "想减肥要多站立",
+      "onboard_time": 1710969016,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 62221,
       "num": 1230336,
       "word": "认识你真好",
@@ -11593,6 +11601,14 @@
       "onboard_time": 1710716965,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60902,
+      "num": 60902,
+      "word": "为什么牙不好疾病满身跑",
+      "onboard_time": 1710961576,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 60707,
@@ -11643,6 +11659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55442,
+      "num": 55442,
+      "word": "冯小刚辟谣病危移民传言",
+      "onboard_time": 1710964515,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55096,
       "num": 142981,
       "word": "无畏契约",
@@ -11668,7 +11692,7 @@
     },
     {
       "raw_hot": 53283,
-      "num": 26930,
+      "num": 28639,
       "word": "出差时公司给定的儿童房",
       "onboard_time": 1710964336,
       "rank": 32,
@@ -11681,14 +11705,6 @@
       "onboard_time": 1710788537,
       "rank": 48,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 52616,
-      "num": 50485,
-      "word": "冯小刚辟谣病危移民传言",
-      "onboard_time": 1710964515,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 50690,
@@ -11745,14 +11761,6 @@
       "onboard_time": 1710796515,
       "rank": 28,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 43239,
-      "num": 43239,
-      "word": "为什么牙不好疾病满身跑",
-      "onboard_time": 1710961576,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 42536,
@@ -11843,16 +11851,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35477,
-      "num": 33344,
-      "word": "想减肥要多站立",
-      "onboard_time": 1710969016,
-      "rank": 48,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 35294,
-      "num": 32195,
+      "num": 34225,
       "word": "早上该先刷牙还是先吃早饭",
       "onboard_time": 1710958219,
       "rank": 41,
@@ -11905,6 +11905,14 @@
       "onboard_time": 1710786377,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 32774,
+      "num": 32774,
+      "word": "网飞三体",
+      "onboard_time": 1710970577,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 32477,
@@ -11995,12 +12003,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23701,
-      "num": 23701,
-      "word": "网飞三体",
-      "onboard_time": 1710970577,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 24576,
+      "num": 26898,
+      "word": "新冠感染用药参考",
+      "onboard_time": 1710967935,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 23188,
@@ -12017,6 +12025,14 @@
       "onboard_time": 1710843816,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 21712,
+      "num": 26842,
+      "word": "哪个价位的手机最值得买",
+      "onboard_time": 1710963316,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 20896,
@@ -12067,12 +12083,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19353,
-      "num": 21854,
-      "word": "新冠感染用药参考",
-      "onboard_time": 1710967935,
-      "rank": 36,
-      "category": "健康医疗"
+      "raw_hot": 18468,
+      "num": 26829,
+      "word": "飞驰人生全员告别",
+      "onboard_time": 1710973941,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 17738,
@@ -12081,14 +12097,6 @@
       "onboard_time": 1710941737,
       "rank": 29,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 17566,
-      "num": 21841,
-      "word": "哪个价位的手机最值得买",
-      "onboard_time": 1710963316,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 17018,
