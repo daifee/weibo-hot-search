@@ -1,0 +1,410 @@
+{
+  "runTime": 1710902033637,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2004839,
+        "num": 2004839,
+        "word": "沪上阿姨崩了",
+        "onboard_time": 1710901050,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1499014,
+        "num": 1499014,
+        "word": "有个姐真把千机伞做出来了",
+        "onboard_time": 1710896132,
+        "rank": 1,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 55100,
+        "num": 1158511,
+        "word": "我拍的春暖花开",
+        "onboard_time": 1710858519,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1076417,
+        "num": 1076417,
+        "word": "清明放假调休3天",
+        "onboard_time": 1710893794,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 850379,
+        "num": 850379,
+        "word": "婚后的隐形家务真的会让人崩溃",
+        "onboard_time": 1710899372,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 756905,
+        "num": 756905,
+        "word": "绯闻小三否认插足凯特王妃婚姻",
+        "onboard_time": 1710893131,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 736152,
+        "num": 736152,
+        "word": "蒋敦豪 晴天",
+        "onboard_time": 1710901470,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 540699,
+        "num": 540699,
+        "word": "当你早睡一次 你的器官",
+        "onboard_time": 1710841955,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 506542,
+        "num": 506542,
+        "word": "呼北高速山西吉河段交通事故已致13死",
+        "onboard_time": 1710896915,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497091,
+        "num": 497091,
+        "word": "特斯拉涨价",
+        "onboard_time": 1710900328,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 578355,
+        "num": 477513,
+        "word": "琳琳 土豆",
+        "onboard_time": 1710892532,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 564240,
+        "num": 466951,
+        "word": "特朗普谈凯特王妃修图照",
+        "onboard_time": 1710895895,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 542198,
+        "num": 453403,
+        "word": "科比首枚总冠军戒指被拍卖",
+        "onboard_time": 1710897032,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439287,
+        "num": 439287,
+        "word": "深圳地铁致歉",
+        "onboard_time": 1710899072,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395612,
+        "num": 395612,
+        "word": "家有儿女中的刘梅是合格的妈妈吗",
+        "onboard_time": 1710876617,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393907,
+        "num": 393907,
+        "word": "春分",
+        "onboard_time": 1710889405,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324672,
+        "num": 324672,
+        "word": "微信 月经提醒",
+        "onboard_time": 1710857978,
+        "rank": 16,
+        "category": "互联网,健康医疗"
+      },
+      {
+        "raw_hot": 317613,
+        "num": 317613,
+        "word": "许嵩抢票",
+        "onboard_time": 1710901112,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 269086,
+        "num": 269086,
+        "word": "想睡一觉躺挣5千结果进去了",
+        "onboard_time": 1710859360,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255742,
+        "num": 255742,
+        "word": "与凤行还挺费果冻的",
+        "onboard_time": 1710894754,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489930,
+        "num": 251984,
+        "word": "父亲买了一套无法过户的房子",
+        "onboard_time": 1710899372,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316411,
+        "num": 248487,
+        "word": "花5元给女儿买了一双高跟鞋",
+        "onboard_time": 1710899670,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242814,
+        "num": 242814,
+        "word": "准备辞职时公司把我裁了",
+        "onboard_time": 1710890547,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235532,
+        "num": 235532,
+        "word": "曝新一任007演员已定",
+        "onboard_time": 1710896254,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225796,
+        "num": 225796,
+        "word": "何赛飞 权杖女王",
+        "onboard_time": 1710896668,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215418,
+        "num": 215418,
+        "word": "赵丽颖三平台破万演员",
+        "onboard_time": 1710896313,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208098,
+        "num": 208098,
+        "word": "新的一天从800个哈欠开始",
+        "onboard_time": 1710901112,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196408,
+        "num": 196408,
+        "word": "疑有医院员工试图查凯特病例被捕",
+        "onboard_time": 1710901650,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 190010,
+        "num": 190010,
+        "word": "淀粉肠小王子日销售额涨超10倍",
+        "onboard_time": 1710859779,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188857,
+        "num": 188857,
+        "word": "蒲熠星抢票",
+        "onboard_time": 1710895473,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169152,
+        "num": 169152,
+        "word": "特斯拉国产ModelY将涨价5000元",
+        "onboard_time": 1710901832,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 169028,
+        "num": 169028,
+        "word": "春分穿梭机带你上春山",
+        "onboard_time": 1710899192,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163155,
+        "num": 163155,
+        "word": "花间令审美",
+        "onboard_time": 1710897813,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161699,
+        "num": 161699,
+        "word": "中国减持美债186亿美元",
+        "onboard_time": 1710897391,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160302,
+        "num": 160302,
+        "word": "研究称吃精制碳水早餐会降低颜值",
+        "onboard_time": 1710890907,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157194,
+        "num": 157194,
+        "word": "深圳地铁",
+        "onboard_time": 1710894274,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137592,
+        "num": 137592,
+        "word": "被名字耽误的小说",
+        "onboard_time": 1710901532,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 132510,
+        "num": 132510,
+        "word": "粗糙的开始是最好的开始",
+        "onboard_time": 1710901891,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132334,
+        "num": 132334,
+        "word": "虞书欣新疆plog",
+        "onboard_time": 1710898531,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131967,
+        "num": 131967,
+        "word": "没有牙齿也要刷牙吗",
+        "onboard_time": 1710895355,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130117,
+        "num": 130117,
+        "word": "白羊座生日快乐",
+        "onboard_time": 1710894518,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123151,
+        "num": 123151,
+        "word": "乔丹认同华子与自己球风相似",
+        "onboard_time": 1710900572,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121688,
+        "num": 121688,
+        "word": "与凤行 渣男",
+        "onboard_time": 1710859475,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120632,
+        "num": 120632,
+        "word": "联合利华剥离冰淇淋业务",
+        "onboard_time": 1710901351,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118249,
+        "num": 118249,
+        "word": "狐妖小红娘月红篇将延期",
+        "onboard_time": 1710887659,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116241,
+        "num": 116241,
+        "word": "英国王室又一合照被曝P图",
+        "onboard_time": 1710902011,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 114873,
+        "num": 114873,
+        "word": "2岁萌娃被投诉扰民吓得不会走路",
+        "onboard_time": 1710892350,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111557,
+        "num": 111557,
+        "word": "刘学义考古",
+        "onboard_time": 1710891328,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109694,
+        "num": 109694,
+        "word": "虎杖悠仁",
+        "onboard_time": 1710891869,
+        "rank": 48,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 107228,
+        "num": 107228,
+        "word": "95后女孩考研失败后隐居荒岛",
+        "onboard_time": 1710856599,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在湖南考察调研#"
+    }
+  }
+}
