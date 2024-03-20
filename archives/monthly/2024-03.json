@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710976742045,
+  "endTime": 1710977670505,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -3243,6 +3243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1224174,
+      "num": 1224174,
+      "word": "那些放弃社保的年轻人",
+      "onboard_time": 1710975682,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1223790,
       "num": 1002809,
       "word": "女子假扮闺蜜近十年诈骗闺蜜亲妈300万",
@@ -4569,6 +4577,14 @@
       "onboard_time": 1709360969,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1014612,
+      "num": 1014612,
+      "word": "不吃早饭比不吃晚饭危害更大吗",
+      "onboard_time": 1710966616,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1014131,
@@ -5993,14 +6009,6 @@
       "onboard_time": 1709734953,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 860396,
-      "num": 860396,
-      "word": "不吃早饭比不吃晚饭危害更大吗",
-      "onboard_time": 1710966616,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 859735,
@@ -9932,7 +9940,7 @@
     },
     {
       "raw_hot": 612206,
-      "num": 224483,
+      "num": 242313,
       "word": "河北邯郸一高中生被同学打伤睾丸",
       "onboard_time": 1710948992,
       "rank": 20,
@@ -10176,14 +10184,6 @@
       "word": "00后小伙被骗缅甸每天工作17小时",
       "onboard_time": 1709748918,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 601850,
-      "num": 601850,
-      "word": "那些放弃社保的年轻人",
-      "onboard_time": 1710975682,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -19691,6 +19691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338529,
+      "num": 338529,
+      "word": "天水麻辣烫成都分烫火到闭店",
+      "onboard_time": 1710957140,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 338447,
       "num": 313452,
       "word": "大家最烦室友在寝室干嘛",
@@ -21009,14 +21017,6 @@
       "onboard_time": 1709547751,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 314615,
-      "num": 314615,
-      "word": "天水麻辣烫成都分烫火到闭店",
-      "onboard_time": 1710957140,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 314572,
@@ -23400,6 +23400,14 @@
       "word": "这3个年龄段易断崖式衰老",
       "onboard_time": 1709911712,
       "rank": 37,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 278848,
+      "num": 89306,
+      "word": "胸部自检",
+      "onboard_time": 1710975682,
+      "rank": 30,
       "category": "健康医疗"
     },
     {
@@ -28065,6 +28073,14 @@
       "onboard_time": 1710151051,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227278,
+      "num": 227278,
+      "word": "美联储",
+      "onboard_time": 1710976706,
+      "rank": 38,
+      "category": "财经,国外时政"
     },
     {
       "raw_hot": 227153,
@@ -35715,6 +35731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186194,
+      "num": 122158,
+      "word": "30多岁和20多岁生孩子有啥差别",
+      "onboard_time": 1710977008,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186189,
       "num": 186189,
       "word": "电视剧小日子今日开播",
@@ -37481,6 +37505,14 @@
       "onboard_time": 1710118711,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176942,
+      "num": 176942,
+      "word": "金高银撑住了贴头皮造型",
+      "onboard_time": 1710958638,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 176907,
@@ -42955,14 +42987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152206,
-      "num": 152206,
-      "word": "金高银撑住了贴头皮造型",
-      "onboard_time": 1710958638,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 152203,
       "num": 152203,
       "word": "爱在黎明前降落",
@@ -44323,6 +44347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146024,
+      "num": 146024,
+      "word": "华西专家告诉你什么决定孩子身高",
+      "onboard_time": 1710976706,
+      "rank": 15,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 145986,
       "num": 145986,
       "word": "文科生的收入",
@@ -45180,7 +45212,7 @@
     },
     {
       "raw_hot": 142563,
-      "num": 81061,
+      "num": 87103,
       "word": "想瘦脸少不了练背",
       "onboard_time": 1710952407,
       "rank": 38,
@@ -45393,14 +45425,6 @@
       "onboard_time": 1710585214,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 141365,
-      "num": 65812,
-      "word": "胸部自检",
-      "onboard_time": 1710975682,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 141362,
@@ -45753,6 +45777,14 @@
       "onboard_time": 1709375730,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139877,
+      "num": 89128,
+      "word": "自己烧水和买桶装水喝哪个更健康",
+      "onboard_time": 1710976765,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 139865,
@@ -47499,14 +47531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132808,
-      "num": 132808,
-      "word": "华西专家告诉你什么决定孩子身高",
-      "onboard_time": 1710976706,
-      "rank": 15,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 132783,
       "num": 132783,
       "word": "山东泰山四外援齐破门",
@@ -48057,6 +48081,14 @@
       "onboard_time": 1710010337,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130093,
+      "num": 130093,
+      "word": "为什么牙不好疾病满身跑",
+      "onboard_time": 1710961576,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 130021,
@@ -49331,14 +49363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123849,
-      "num": 123849,
-      "word": "为什么牙不好疾病满身跑",
-      "onboard_time": 1710961576,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 123842,
       "num": 123842,
       "word": "HYBE5到6代男团安可live现场",
@@ -50177,6 +50201,14 @@
       "onboard_time": 1710923436,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119390,
+      "num": 119390,
+      "word": "行云去世",
+      "onboard_time": 1710976948,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 119310,
@@ -52163,6 +52195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107742,
+      "num": 107742,
+      "word": "00后才是最适合当老板的这批人",
+      "onboard_time": 1710977187,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107721,
       "num": 107721,
       "word": "春天过了一半了",
@@ -52761,6 +52801,14 @@
       "onboard_time": 1709217815,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102809,
+      "num": 102809,
+      "word": "一看就是00后当上了老板",
+      "onboard_time": 1710976346,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 102718,
@@ -53435,6 +53483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 94929,
+      "num": 94929,
+      "word": "想减肥要多站立",
+      "onboard_time": 1710969016,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 94866,
       "num": 292482,
       "word": "鸿星尔克做国民的运动品牌",
@@ -53539,6 +53595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92957,
+      "num": 92957,
+      "word": "早上该先刷牙还是先吃早饭",
+      "onboard_time": 1710958219,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 92883,
       "num": 206711,
       "word": "24款理想L系列超有料",
@@ -53593,6 +53657,14 @@
       "onboard_time": 1709891307,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 92331,
+      "num": 88950,
+      "word": "与凤行行止这回稳稳地接住沈璃了",
+      "onboard_time": 1710977308,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 92212,
@@ -53697,14 +53769,6 @@
       "onboard_time": 1709211453,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90972,
-      "num": 90972,
-      "word": "想减肥要多站立",
-      "onboard_time": 1710969016,
-      "rank": 48,
-      "category": "运动健身"
     },
     {
       "raw_hot": 90724,
@@ -54195,6 +54259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 83127,
+      "num": 83127,
+      "word": "行止我来晚了",
+      "onboard_time": 1710976645,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82895,
       "num": 464680,
       "word": "细节中读懂两会的精微要义",
@@ -54227,6 +54299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 82258,
+      "num": 82258,
+      "word": "第一季度中国奢侈品销售将意外大跌",
+      "onboard_time": 1710976586,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 82256,
       "num": 490147,
       "word": "今年两会最后一场代表通道",
@@ -54257,14 +54337,6 @@
       "onboard_time": 1710263541,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 81755,
-      "num": 81755,
-      "word": "早上该先刷牙还是先吃早饭",
-      "onboard_time": 1710958219,
-      "rank": 41,
-      "category": "科学科普"
     },
     {
       "raw_hot": 81645,
@@ -54545,6 +54617,14 @@
       "onboard_time": 1709481210,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76096,
+      "num": 76096,
+      "word": "周氏黄金们到底有什么区别",
+      "onboard_time": 1710976223,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 75836,
@@ -54907,6 +54987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 68586,
+      "num": 68586,
+      "word": "上班林黛玉 下班苏炳添",
+      "onboard_time": 1710976948,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 68414,
       "num": 351364,
       "word": "大溪地灰时尚收割机",
@@ -54929,6 +55017,14 @@
       "onboard_time": 1710858216,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 68014,
+      "num": 68014,
+      "word": "猫 哪里来的野鸡啊",
+      "onboard_time": 1710977187,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 68008,
@@ -55075,14 +55171,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 65862,
-      "num": 65862,
-      "word": "一看就是00后当上了老板",
-      "onboard_time": 1710976346,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 65772,
       "num": 65772,
       "word": "刘诗诗窦骁首次合作",
@@ -55105,6 +55193,14 @@
       "onboard_time": 1710284662,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 65058,
+      "num": 65058,
+      "word": "沈璃红衣",
+      "onboard_time": 1710955700,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 64998,
@@ -55219,14 +55315,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 62843,
-      "num": 62843,
-      "word": "沈璃红衣",
-      "onboard_time": 1710955700,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 62799,
       "num": 1047022,
       "word": "政府工作报告里的民生举措",
@@ -55315,14 +55403,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 61210,
-      "num": 61210,
-      "word": "周氏黄金们到底有什么区别",
-      "onboard_time": 1710976223,
-      "rank": 35,
-      "category": "财经"
-    },
-    {
       "raw_hot": 61162,
       "num": 61162,
       "word": "普通NPC的一生",
@@ -55409,6 +55489,14 @@
       "onboard_time": 1710939217,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 59884,
+      "num": 59884,
+      "word": "福建这种礼饼到底谁爱吃",
+      "onboard_time": 1710976586,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 59760,
@@ -55505,14 +55593,6 @@
       "onboard_time": 1710437361,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 57917,
-      "num": 57917,
-      "word": "美联储",
-      "onboard_time": 1710976706,
-      "rank": 38,
-      "category": "财经,国外时政"
     },
     {
       "raw_hot": 57901,
@@ -56099,28 +56179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48088,
-      "num": 48088,
-      "word": "第一季度中国奢侈品销售将意外大跌",
-      "onboard_time": 1710976586,
-      "rank": 43,
-      "category": "财经"
-    },
-    {
       "raw_hot": 47835,
       "num": 172470,
       "word": "GUCCI派对音乐绝了",
       "onboard_time": 1710164011,
       "rank": 47,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 47824,
-      "num": 47824,
-      "word": "行止我来晚了",
-      "onboard_time": 1710976645,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 47782,
@@ -56185,14 +56249,6 @@
       "onboard_time": 1709739809,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46995,
-      "num": 46782,
-      "word": "福建这种礼饼到底谁爱吃",
-      "onboard_time": 1710976586,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 46644,
@@ -56484,7 +56540,7 @@
     },
     {
       "raw_hot": 39625,
-      "num": 618650,
+      "num": 909903,
       "word": "春好正是耕种时",
       "onboard_time": 1710940054,
       "rank": 42,
