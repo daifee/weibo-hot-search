@@ -1,6 +1,6 @@
 {
   "startTime": 1710865343685,
-  "endTime": 1710933299503,
+  "endTime": 1710934468751,
   "band_list": [
     {
       "raw_hot": 7741702,
@@ -251,8 +251,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 761322,
-      "num": 761322,
+      "raw_hot": 774462,
+      "num": 774462,
       "word": "2024年全国高考时间确定",
       "onboard_time": 1710931418,
       "rank": 3,
@@ -507,6 +507,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 502821,
+      "num": 440083,
+      "word": "李沁方回应被短剧P黑白照",
+      "onboard_time": 1710930395,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 497091,
       "num": 497091,
       "word": "特斯拉涨价",
@@ -595,14 +603,6 @@
       "category": "艺人,美食"
     },
     {
-      "raw_hot": 440083,
-      "num": 440083,
-      "word": "李沁方回应被短剧P黑白照",
-      "onboard_time": 1710930395,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 439287,
       "num": 439287,
       "word": "深圳地铁致歉",
@@ -675,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 378081,
+      "num": 378081,
+      "word": "雷军佩服只有特斯拉敢涨价",
+      "onboard_time": 1710933578,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 372213,
       "num": 364853,
       "word": "52岁男子爱吃生腌感染3种寄生虫",
@@ -721,6 +729,14 @@
       "onboard_time": 1710899670,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 350330,
+      "num": 350330,
+      "word": "沈梦辰 我和杨迪谁帅",
+      "onboard_time": 1710933158,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 347665,
@@ -819,6 +835,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 306630,
+      "num": 306630,
+      "word": "肖战镜头下的横店",
+      "onboard_time": 1710931898,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301960,
       "num": 301960,
       "word": "聂可以 文哲",
@@ -833,6 +857,22 @@
       "onboard_time": 1710851554,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 297933,
+      "num": 297933,
+      "word": "沪上阿姨紧急补货",
+      "onboard_time": 1710932317,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 296643,
+      "num": 296643,
+      "word": "笨蛋湘琴",
+      "onboard_time": 1710933578,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 296191,
@@ -915,12 +955,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 284716,
-      "num": 284716,
-      "word": "肖战镜头下的横店",
-      "onboard_time": 1710931898,
+      "raw_hot": 282269,
+      "num": 282269,
+      "word": "虞书欣林一跳了fate",
+      "onboard_time": 1710933876,
       "rank": 24,
-      "category": "艺人"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 281445,
@@ -937,6 +977,14 @@
       "onboard_time": 1710892350,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276103,
+      "num": 244363,
+      "word": "越共中央批准越南国家主席武文赏辞职",
+      "onboard_time": 1710934055,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 275870,
@@ -1059,14 +1107,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 237645,
-      "num": 237645,
-      "word": "沪上阿姨紧急补货",
-      "onboard_time": 1710932317,
-      "rank": 27,
-      "category": "美食"
-    },
-    {
       "raw_hot": 237431,
       "num": 237431,
       "word": "我只是敢花钱不代表我真有钱",
@@ -1171,6 +1211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 221701,
+      "num": 221701,
+      "word": "AG稳S组",
+      "onboard_time": 1710934180,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 220482,
       "num": 220482,
       "word": "齐司礼 渡梦",
@@ -1265,6 +1313,14 @@
       "onboard_time": 1710918632,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 207820,
+      "num": 207820,
+      "word": "素媛案罪犯赵斗淳又被判了",
+      "onboard_time": 1710934180,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207645,
@@ -1451,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181673,
+      "num": 181673,
+      "word": "刘诗诗油菜花田路透",
+      "onboard_time": 1710934234,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180881,
       "num": 180881,
       "word": "石凯实体专辑预售",
@@ -1473,14 +1537,6 @@
       "onboard_time": 1710897813,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177777,
-      "num": 177777,
-      "word": "沈梦辰 我和杨迪谁帅",
-      "onboard_time": 1710933158,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 176871,
@@ -1577,6 +1633,14 @@
       "onboard_time": 1710912211,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166633,
+      "num": 166633,
+      "word": "上海苹果新店赠品礼盒二手价399元",
+      "onboard_time": 1710933757,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 165553,
@@ -1835,6 +1899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135895,
+      "num": 135895,
+      "word": "沈璃和行云be了",
+      "onboard_time": 1710934359,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134988,
       "num": 134988,
       "word": "沈璃今晚开大",
@@ -1899,12 +1971,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132298,
+      "num": 132298,
+      "word": "花间令 一人表白四人失恋",
+      "onboard_time": 1710934418,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130203,
       "num": 130203,
       "word": "春日美甲",
       "onboard_time": 1710922959,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 130144,
+      "num": 252212,
+      "word": "红旗EH7来了",
+      "onboard_time": 1710933999,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 128691,
@@ -2035,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113490,
+      "num": 482152,
+      "word": "奔马不踏飞燕改行捣辣椒做麻辣烫了",
+      "onboard_time": 1710928235,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 112982,
       "num": 112982,
       "word": "花间令妈妈疯了孩子没了",
@@ -2049,14 +2145,6 @@
       "onboard_time": 1710838893,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 112124,
-      "num": 482152,
-      "word": "奔马不踏飞燕改行捣辣椒做麻辣烫了",
-      "onboard_time": 1710928235,
-      "rank": 8,
-      "category": "旅游"
     },
     {
       "raw_hot": 112072,
@@ -2169,6 +2257,14 @@
       "onboard_time": 1710861576,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103645,
+      "num": 409379,
+      "word": "淘宝红人人均身价超千万",
+      "onboard_time": 1710932439,
+      "rank": 14,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 103124,
@@ -2403,14 +2499,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 52034,
-      "num": 409379,
-      "word": "淘宝红人人均身价超千万",
-      "onboard_time": 1710932439,
-      "rank": 14,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 47941,
       "num": 47941,
       "word": "顺手毁掉一个家原来这么简单",
@@ -2491,6 +2579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 26409,
+      "num": 955756,
+      "word": "播种春天播撒希望",
+      "onboard_time": 1710918693,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25481,
       "num": 33165,
       "word": "王源云霄峰滑雪vlog",
@@ -2521,14 +2617,6 @@
       "onboard_time": 1710879617,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15320,
-      "num": 955756,
-      "word": "播种春天播撒希望",
-      "onboard_time": 1710918693,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12503,

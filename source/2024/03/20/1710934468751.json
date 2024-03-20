@@ -1,0 +1,410 @@
+{
+  "runTime": 1710934468751,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7137108,
+        "num": 7137108,
+        "word": "东航致132人遇难事故调查进展发布",
+        "onboard_time": 1710930218,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1038168,
+        "num": 1038168,
+        "word": "林依晨 你",
+        "onboard_time": 1710927818,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26409,
+        "num": 874614,
+        "word": "播种春天播撒希望",
+        "onboard_time": 1710918693,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774462,
+        "num": 774462,
+        "word": "2024年全国高考时间确定",
+        "onboard_time": 1710931418,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 547535,
+        "num": 547535,
+        "word": "龚俊邓为撞衫",
+        "onboard_time": 1710932259,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 441340,
+        "num": 441340,
+        "word": "短剧把李沁证件照P成黑白",
+        "onboard_time": 1710923793,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430855,
+        "num": 430855,
+        "word": "主播靠辱骂母亲走红被批捕封号",
+        "onboard_time": 1710923493,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400285,
+        "num": 400285,
+        "word": "东航",
+        "onboard_time": 1710930395,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113490,
+        "num": 399075,
+        "word": "奔马不踏飞燕改行捣辣椒做麻辣烫了",
+        "onboard_time": 1710928235,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 206071,
+        "num": 397784,
+        "word": "每天三五百个网红专往杭州这座山头跑",
+        "onboard_time": 1710924155,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1074214,
+        "num": 394736,
+        "word": "南宁一规培生在医院卫生间割颈死亡",
+        "onboard_time": 1710928297,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502821,
+        "num": 390985,
+        "word": "李沁方回应被短剧P黑白照",
+        "onboard_time": 1710930395,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390428,
+        "num": 390428,
+        "word": "微信及WeChat月活13.43亿",
+        "onboard_time": 1710928115,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 378081,
+        "num": 378081,
+        "word": "雷军佩服只有特斯拉敢涨价",
+        "onboard_time": 1710933578,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 103645,
+        "num": 374392,
+        "word": "淘宝红人人均身价超千万",
+        "onboard_time": 1710932439,
+        "rank": 14,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 372558,
+        "num": 372558,
+        "word": "不要再为吃糖油混合物焦虑了",
+        "onboard_time": 1710924337,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 370786,
+        "num": 370786,
+        "word": "iPhone16系列或实现更大显示屏",
+        "onboard_time": 1710930996,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 350330,
+        "num": 350330,
+        "word": "沈梦辰 我和杨迪谁帅",
+        "onboard_time": 1710933158,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313032,
+        "num": 313032,
+        "word": "Uzi被提名LOL历史第二人",
+        "onboard_time": 1710932500,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 307948,
+        "num": 307948,
+        "word": "恶作剧之吻",
+        "onboard_time": 1710929676,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306630,
+        "num": 306630,
+        "word": "肖战镜头下的横店",
+        "onboard_time": 1710931898,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305005,
+        "num": 305005,
+        "word": "第一次知道刷牙后不用漱口",
+        "onboard_time": 1710919592,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 297933,
+        "num": 297933,
+        "word": "沪上阿姨紧急补货",
+        "onboard_time": 1710932317,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 296643,
+        "num": 296643,
+        "word": "笨蛋湘琴",
+        "onboard_time": 1710933578,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282269,
+        "num": 282269,
+        "word": "虞书欣林一跳了fate",
+        "onboard_time": 1710933876,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281860,
+        "num": 281860,
+        "word": "精简后的低成本防晒",
+        "onboard_time": 1710932140,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 274071,
+        "num": 274071,
+        "word": "aespa舞台",
+        "onboard_time": 1710931234,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208302,
+        "num": 271632,
+        "word": "八旬奶奶得知李政去世消息落泪",
+        "onboard_time": 1710929618,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201952,
+        "num": 258048,
+        "word": "英国王室发查尔斯三世最新画面",
+        "onboard_time": 1710927096,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 130144,
+        "num": 252212,
+        "word": "红旗EH7来了",
+        "onboard_time": 1710933999,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 276103,
+        "num": 244363,
+        "word": "越共中央批准越南国家主席武文赏辞职",
+        "onboard_time": 1710934055,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 234615,
+        "num": 234615,
+        "word": "你愿意为了调休连上7天班吗",
+        "onboard_time": 1710916351,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221701,
+        "num": 221701,
+        "word": "AG稳S组",
+        "onboard_time": 1710934180,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207820,
+        "num": 207820,
+        "word": "素媛案罪犯赵斗淳又被判了",
+        "onboard_time": 1710934180,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191561,
+        "num": 191561,
+        "word": "赵丽颖方辟谣推荐知否屠二爷",
+        "onboard_time": 1710924274,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191104,
+        "num": 191104,
+        "word": "沪上阿姨崩了",
+        "onboard_time": 1710901050,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 181673,
+        "num": 181673,
+        "word": "刘诗诗油菜花田路透",
+        "onboard_time": 1710934234,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177641,
+        "num": 177641,
+        "word": "早安婚礼现场",
+        "onboard_time": 1710928895,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172643,
+        "num": 172643,
+        "word": "电影版红楼梦 贾吞林财",
+        "onboard_time": 1710927695,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87061,
+        "num": 168772,
+        "word": "太空育种鲜花大规模上市",
+        "onboard_time": 1710932439,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166633,
+        "num": 166633,
+        "word": "上海苹果新店赠品礼盒二手价399元",
+        "onboard_time": 1710933757,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155854,
+        "num": 155854,
+        "word": "朱劲草血脉压制朱大力",
+        "onboard_time": 1710930636,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144967,
+        "num": 144967,
+        "word": "杨洋拄拐现身医院",
+        "onboard_time": 1710904052,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142815,
+        "num": 142815,
+        "word": "四川麻辣烫申请出战被本地人驳回",
+        "onboard_time": 1710926257,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138147,
+        "num": 138147,
+        "word": "库克郑恺外滩偶遇",
+        "onboard_time": 1710906513,
+        "rank": 44,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 137449,
+        "num": 137449,
+        "word": "KPL",
+        "onboard_time": 1710932678,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135895,
+        "num": 135895,
+        "word": "沈璃和行云be了",
+        "onboard_time": 1710934359,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134919,
+        "num": 134919,
+        "word": "我只是敢花钱不代表我真有钱",
+        "onboard_time": 1710928835,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132298,
+        "num": 132298,
+        "word": "花间令 一人表白四人失恋",
+        "onboard_time": 1710934418,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130492,
+        "num": 130492,
+        "word": "52岁男子爱吃生腌感染3种寄生虫",
+        "onboard_time": 1710923734,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记心中的国之大者#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710933299503,
+  "endTime": 1710934468751,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -1603,6 +1603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 774462,
+      "num": 774462,
+      "word": "2024年全国高考时间确定",
+      "onboard_time": 1710931418,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 771727,
       "num": 771727,
       "word": "朱梓骁 纪凌尘是我的贵人",
@@ -1633,14 +1641,6 @@
       "onboard_time": 1710725130,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 761322,
-      "num": 761322,
-      "word": "2024年全国高考时间确定",
-      "onboard_time": 1710931418,
-      "rank": 3,
-      "category": "教育"
     },
     {
       "raw_hot": 760309,
@@ -2763,6 +2763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 502821,
+      "num": 440083,
+      "word": "李沁方回应被短剧P黑白照",
+      "onboard_time": 1710930395,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502077,
       "num": 502077,
       "word": "警方回应网传一中学生捅伤老师后跳楼",
@@ -3177,14 +3185,6 @@
       "onboard_time": 1710677613,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 440083,
-      "num": 440083,
-      "word": "李沁方回应被短剧P黑白照",
-      "onboard_time": 1710930395,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 439548,
@@ -3739,6 +3739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378081,
+      "num": 378081,
+      "word": "雷军佩服只有特斯拉敢涨价",
+      "onboard_time": 1710933578,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 377734,
       "num": 311292,
       "word": "原来男人的花期真的很短",
@@ -3929,6 +3937,14 @@
       "onboard_time": 1710754470,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 350330,
+      "num": 350330,
+      "word": "沈梦辰 我和杨迪谁帅",
+      "onboard_time": 1710933158,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 349371,
@@ -4411,6 +4427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 306630,
+      "num": 306630,
+      "word": "肖战镜头下的横店",
+      "onboard_time": 1710931898,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 306418,
       "num": 306418,
       "word": "何焉悦色",
@@ -4547,12 +4571,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297933,
+      "num": 297933,
+      "word": "沪上阿姨紧急补货",
+      "onboard_time": 1710932317,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 297268,
       "num": 297268,
       "word": "惠英红 大祭司",
       "onboard_time": 1710748599,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 296643,
+      "num": 296643,
+      "word": "笨蛋湘琴",
+      "onboard_time": 1710933578,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 296191,
@@ -4723,14 +4763,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 284716,
-      "num": 284716,
-      "word": "肖战镜头下的横店",
-      "onboard_time": 1710931898,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 284587,
       "num": 284587,
       "word": "勇士战胜湖人",
@@ -4777,6 +4809,14 @@
       "onboard_time": 1710674313,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 282269,
+      "num": 282269,
+      "word": "虞书欣林一跳了fate",
+      "onboard_time": 1710933876,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 281873,
@@ -4865,6 +4905,14 @@
       "onboard_time": 1710839913,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 276103,
+      "num": 244363,
+      "word": "越共中央批准越南国家主席武文赏辞职",
+      "onboard_time": 1710934055,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 275870,
@@ -5443,14 +5491,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 237645,
-      "num": 237645,
-      "word": "沪上阿姨紧急补货",
-      "onboard_time": 1710932317,
-      "rank": 27,
-      "category": "美食"
-    },
-    {
       "raw_hot": 237431,
       "num": 237431,
       "word": "我只是敢花钱不代表我真有钱",
@@ -5865,6 +5905,14 @@
       "onboard_time": 1710770199,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 221701,
+      "num": 221701,
+      "word": "AG稳S组",
+      "onboard_time": 1710934180,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 221609,
@@ -6289,6 +6337,14 @@
       "onboard_time": 1710918632,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 207820,
+      "num": 207820,
+      "word": "素媛案罪犯赵斗淳又被判了",
+      "onboard_time": 1710934180,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207727,
@@ -7395,6 +7451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181673,
+      "num": 181673,
+      "word": "刘诗诗油菜花田路透",
+      "onboard_time": 1710934234,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181626,
       "num": 181626,
       "word": "黄泉动画",
@@ -7529,14 +7593,6 @@
       "onboard_time": 1710851432,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 177777,
-      "num": 177777,
-      "word": "沈梦辰 我和杨迪谁帅",
-      "onboard_time": 1710933158,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 177140,
@@ -8049,6 +8105,14 @@
       "onboard_time": 1710821734,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166633,
+      "num": 166633,
+      "word": "上海苹果新店赠品礼盒二手价399元",
+      "onboard_time": 1710933757,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 166457,
@@ -9275,6 +9339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135895,
+      "num": 135895,
+      "word": "沈璃和行云be了",
+      "onboard_time": 1710934359,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135734,
       "num": 135734,
       "word": "五哈4升级为国际旅行社",
@@ -9507,6 +9579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132298,
+      "num": 132298,
+      "word": "花间令 一人表白四人失恋",
+      "onboard_time": 1710934418,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131742,
       "num": 131742,
       "word": "第一次听说低温烫伤",
@@ -9569,6 +9649,14 @@
       "onboard_time": 1710922959,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 130144,
+      "num": 252212,
+      "word": "红旗EH7来了",
+      "onboard_time": 1710933999,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 129238,
@@ -10035,6 +10123,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 113490,
+      "num": 482152,
+      "word": "奔马不踏飞燕改行捣辣椒做麻辣烫了",
+      "onboard_time": 1710928235,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 113034,
       "num": 113034,
       "word": "一个竖放蛋糕引发的拉锯战",
@@ -10073,14 +10169,6 @@
       "onboard_time": 1710637771,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112124,
-      "num": 482152,
-      "word": "奔马不踏飞燕改行捣辣椒做麻辣烫了",
-      "onboard_time": 1710928235,
-      "rank": 8,
-      "category": "旅游"
     },
     {
       "raw_hot": 112072,
@@ -10273,6 +10361,14 @@
       "onboard_time": 1710603637,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103645,
+      "num": 409379,
+      "word": "淘宝红人人均身价超千万",
+      "onboard_time": 1710932439,
+      "rank": 14,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 103124,
@@ -10899,14 +10995,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 52034,
-      "num": 409379,
-      "word": "淘宝红人人均身价超千万",
-      "onboard_time": 1710932439,
-      "rank": 14,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 50397,
       "num": 53898,
       "word": "抢劫团伙卧底电诈团伙抢走40多万",
@@ -11123,6 +11211,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 26409,
+      "num": 955756,
+      "word": "播种春天播撒希望",
+      "onboard_time": 1710918693,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25759,
       "num": 341900,
       "word": "淘宝红人之夜倒计时1天",
@@ -11209,14 +11305,6 @@
       "onboard_time": 1710879617,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15320,
-      "num": 955756,
-      "word": "播种春天播撒希望",
-      "onboard_time": 1710918693,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15131,
