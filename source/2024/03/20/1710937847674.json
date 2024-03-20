@@ -1,0 +1,410 @@
+{
+  "runTime": 1710937847674,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3051987,
+        "num": 3051987,
+        "word": "东航致132人遇难事故调查进展发布",
+        "onboard_time": 1710930218,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2238720,
+        "num": 2238720,
+        "word": "素媛案罪犯赵斗淳又被判了",
+        "onboard_time": 1710934180,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33030,
+        "num": 967765,
+        "word": "播种春天播撒希望",
+        "onboard_time": 1710918693,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932715,
+        "num": 932715,
+        "word": "鹿晗强迫好友深夜督战曼联",
+        "onboard_time": 1710935017,
+        "rank": 3,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 723575,
+        "num": 723575,
+        "word": "2月龄男婴接种疫苗14天后死亡",
+        "onboard_time": 1710935074,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 662322,
+        "num": 662322,
+        "word": "刘亦菲又在撕嘴皮",
+        "onboard_time": 1710935436,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611775,
+        "num": 611775,
+        "word": "林依晨 你",
+        "onboard_time": 1710927818,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 595279,
+        "num": 595279,
+        "word": "李沁方回应被短剧P黑白照",
+        "onboard_time": 1710930395,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496448,
+        "num": 496448,
+        "word": "日媒称一中国富豪借给福原爱3亿日元",
+        "onboard_time": 1710936756,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443465,
+        "num": 443465,
+        "word": "雷军佩服只有特斯拉敢涨价",
+        "onboard_time": 1710933578,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 591283,
+        "num": 436836,
+        "word": "越共中央批准越南国家主席武文赏辞职",
+        "onboard_time": 1710934055,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 396895,
+        "num": 396895,
+        "word": "龚俊邓为撞衫",
+        "onboard_time": 1710932259,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356955,
+        "num": 356955,
+        "word": "唐嫣直播状态",
+        "onboard_time": 1710934777,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347364,
+        "num": 347364,
+        "word": "iPhone16系列或实现更大显示屏",
+        "onboard_time": 1710930996,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 325661,
+        "num": 325661,
+        "word": "不要再为吃糖油混合物焦虑了",
+        "onboard_time": 1710924337,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 317022,
+        "num": 317022,
+        "word": "2024年全国高考时间确定",
+        "onboard_time": 1710931418,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 307322,
+        "num": 307322,
+        "word": "恶作剧之吻",
+        "onboard_time": 1710929676,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286117,
+        "num": 286117,
+        "word": "肖战镜头下的横店",
+        "onboard_time": 1710931898,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282891,
+        "num": 282891,
+        "word": "沪上阿姨紧急补货",
+        "onboard_time": 1710932317,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 253604,
+        "num": 253604,
+        "word": "沈梦辰 我和杨迪谁帅",
+        "onboard_time": 1710933158,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120758,
+        "num": 252706,
+        "word": "红旗EH7来了",
+        "onboard_time": 1710933999,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 349771,
+        "num": 251773,
+        "word": "自己买的房最不该考虑的就是客人",
+        "onboard_time": 1710935735,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270019,
+        "num": 251320,
+        "word": "第一次知道刷牙后不用漱口",
+        "onboard_time": 1710919592,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40728,
+        "num": 250217,
+        "word": "淘宝给各路红人整了个红毯",
+        "onboard_time": 1710936817,
+        "rank": 23,
+        "category": "互联网,时尚"
+      },
+      {
+        "raw_hot": 249529,
+        "num": 249529,
+        "word": "虞书欣林一跳了fate",
+        "onboard_time": 1710933876,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228572,
+        "num": 228572,
+        "word": "刘诗诗油菜花田路透",
+        "onboard_time": 1710934234,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224401,
+        "num": 224401,
+        "word": "笨蛋湘琴",
+        "onboard_time": 1710933578,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214031,
+        "num": 214031,
+        "word": "东航",
+        "onboard_time": 1710930395,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213195,
+        "num": 213195,
+        "word": "Uzi被提名LOL历史第二人",
+        "onboard_time": 1710932500,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200330,
+        "num": 200330,
+        "word": "花间令 一人表白四人失恋",
+        "onboard_time": 1710934418,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198387,
+        "num": 198387,
+        "word": "大四人生的至暗时刻",
+        "onboard_time": 1710936096,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198204,
+        "num": 198204,
+        "word": "拼多多2023年第四季度营收888.8亿元",
+        "onboard_time": 1710934537,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 191594,
+        "num": 191594,
+        "word": "碧苍王大号回归",
+        "onboard_time": 1710937417,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191194,
+        "num": 191194,
+        "word": "主播靠辱骂母亲走红被批捕封号",
+        "onboard_time": 1710923493,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187616,
+        "num": 187616,
+        "word": "沈璃和行云be了",
+        "onboard_time": 1710934359,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 831383,
+        "num": 182116,
+        "word": "南宁一规培生在医院卫生间割颈死亡",
+        "onboard_time": 1710928297,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175471,
+        "num": 175471,
+        "word": "短剧把李沁证件照P成黑白",
+        "onboard_time": 1710923793,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172495,
+        "num": 172495,
+        "word": "aespa舞台",
+        "onboard_time": 1710931234,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172288,
+        "num": 172288,
+        "word": "官方辟谣网传十大致癌卫生巾黑名单",
+        "onboard_time": 1710934717,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168947,
+        "num": 168947,
+        "word": "你愿意为了调休连上7天班吗",
+        "onboard_time": 1710916351,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167740,
+        "num": 167740,
+        "word": "英国王室发查尔斯三世最新画面",
+        "onboard_time": 1710927096,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 167180,
+        "num": 167180,
+        "word": "国足对新加坡40年不败",
+        "onboard_time": 1710936219,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151478,
+        "num": 151478,
+        "word": "杭州人冒雨排队3小时吃天水麻辣烫",
+        "onboard_time": 1710935856,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146803,
+        "num": 146803,
+        "word": "新说唱",
+        "onboard_time": 1710937297,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143228,
+        "num": 143228,
+        "word": "赵丽颖方辟谣推荐知否屠二爷",
+        "onboard_time": 1710924274,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143107,
+        "num": 143107,
+        "word": "上海苹果新店赠品礼盒二手价399元",
+        "onboard_time": 1710933757,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143066,
+        "num": 143066,
+        "word": "电影版红楼梦",
+        "onboard_time": 1710934954,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136967,
+        "num": 136967,
+        "word": "花间令 原生家庭",
+        "onboard_time": 1710937716,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134636,
+        "num": 134636,
+        "word": "拼多多2023年营收2476亿",
+        "onboard_time": 1710937174,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124071,
+        "num": 124071,
+        "word": "甘肃西瓜切块",
+        "onboard_time": 1710937775,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在湖南常德市考察调研#"
+    }
+  }
+}

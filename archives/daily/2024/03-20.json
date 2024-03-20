@@ -1,6 +1,6 @@
 {
   "startTime": 1710865343685,
-  "endTime": 1710934468751,
+  "endTime": 1710937847674,
   "band_list": [
     {
       "raw_hot": 7741702,
@@ -24,6 +24,14 @@
       "word": "清明放假调休3天",
       "onboard_time": 1710893794,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2238720,
+      "num": 2238720,
+      "word": "素媛案罪犯赵斗淳又被判了",
+      "onboard_time": 1710934180,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -203,6 +211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 932715,
+      "num": 932715,
+      "word": "鹿晗强迫好友深夜督战曼联",
+      "onboard_time": 1710935017,
+      "rank": 3,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 893109,
       "num": 893109,
       "word": "知否屠二爷是赵丽颖推荐的",
@@ -291,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 723575,
+      "num": 723575,
+      "word": "2月龄男婴接种疫苗14天后死亡",
+      "onboard_time": 1710935074,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 719691,
       "num": 719691,
       "word": "英媒发布凯特王妃现身视频引网友质疑",
@@ -321,6 +345,14 @@
       "onboard_time": 1710858757,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 662322,
+      "num": 662322,
+      "word": "刘亦菲又在撕嘴皮",
+      "onboard_time": 1710935436,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 658179,
@@ -385,6 +417,22 @@
       "onboard_time": 1710922296,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 595279,
+      "num": 595279,
+      "word": "李沁方回应被短剧P黑白照",
+      "onboard_time": 1710930395,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 591283,
+      "num": 436836,
+      "word": "越共中央批准越南国家主席武文赏辞职",
+      "onboard_time": 1710934055,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 586260,
@@ -507,20 +555,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 502821,
-      "num": 440083,
-      "word": "李沁方回应被短剧P黑白照",
-      "onboard_time": 1710930395,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 497091,
       "num": 497091,
       "word": "特斯拉涨价",
       "onboard_time": 1710900328,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 496448,
+      "num": 496448,
+      "word": "日媒称一中国富豪借给福原爱3亿日元",
+      "onboard_time": 1710936756,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 487481,
@@ -603,6 +651,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 443465,
+      "num": 443465,
+      "word": "雷军佩服只有特斯拉敢涨价",
+      "onboard_time": 1710933578,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 439287,
       "num": 439287,
       "word": "深圳地铁致歉",
@@ -675,14 +731,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 378081,
-      "num": 378081,
-      "word": "雷军佩服只有特斯拉敢涨价",
-      "onboard_time": 1710933578,
-      "rank": 13,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 372213,
       "num": 364853,
       "word": "52岁男子爱吃生腌感染3种寄生虫",
@@ -723,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 356955,
+      "num": 356955,
+      "word": "唐嫣直播状态",
+      "onboard_time": 1710934777,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352906,
       "num": 251914,
       "word": "花5元给女儿买了一双高跟鞋",
@@ -737,6 +793,14 @@
       "onboard_time": 1710933158,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 349771,
+      "num": 251773,
+      "word": "自己买的房最不该考虑的就是客人",
+      "onboard_time": 1710935735,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 347665,
@@ -979,14 +1043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276103,
-      "num": 244363,
-      "word": "越共中央批准越南国家主席武文赏辞职",
-      "onboard_time": 1710934055,
-      "rank": 30,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 275870,
       "num": 275870,
       "word": "八旬奶奶得知李政去世消息落泪",
@@ -1144,6 +1200,14 @@
       "word": "赵丽颖拍变装了",
       "onboard_time": 1710919775,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 228572,
+      "num": 228572,
+      "word": "刘诗诗油菜花田路透",
+      "onboard_time": 1710934234,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1315,14 +1379,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 207820,
-      "num": 207820,
-      "word": "素媛案罪犯赵斗淳又被判了",
-      "onboard_time": 1710934180,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207645,
       "num": 207645,
       "word": "花间令 换乘恋爱",
@@ -1387,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200330,
+      "num": 200330,
+      "word": "花间令 一人表白四人失恋",
+      "onboard_time": 1710934418,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199571,
       "num": 199571,
       "word": "当狗狗第一次有了娃还是独生子",
@@ -1401,6 +1465,22 @@
       "onboard_time": 1710913050,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 198387,
+      "num": 198387,
+      "word": "大四人生的至暗时刻",
+      "onboard_time": 1710936096,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 198204,
+      "num": 198204,
+      "word": "拼多多2023年第四季度营收888.8亿元",
+      "onboard_time": 1710934537,
+      "rank": 31,
+      "category": "互联网"
     },
     {
       "raw_hot": 196350,
@@ -1467,12 +1547,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191594,
+      "num": 191594,
+      "word": "碧苍王大号回归",
+      "onboard_time": 1710937417,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190555,
       "num": 190555,
       "word": "文韬生日会 长沙",
       "onboard_time": 1710913830,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187616,
+      "num": 187616,
+      "word": "沈璃和行云be了",
+      "onboard_time": 1710934359,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 186992,
@@ -1504,14 +1600,6 @@
       "word": "朱劲草血脉压制朱大力",
       "onboard_time": 1710930636,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 181673,
-      "num": 181673,
-      "word": "刘诗诗油菜花田路透",
-      "onboard_time": 1710934234,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -1587,6 +1675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 172288,
+      "num": 172288,
+      "word": "官方辟谣网传十大致癌卫生巾黑名单",
+      "onboard_time": 1710934717,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171585,
       "num": 171585,
       "word": "陈赫郑恺早期旧照",
@@ -1625,6 +1721,14 @@
       "onboard_time": 1710912989,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 167180,
+      "num": 167180,
+      "word": "国足对新加坡40年不败",
+      "onboard_time": 1710936219,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 167018,
@@ -1747,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151478,
+      "num": 151478,
+      "word": "杭州人冒雨排队3小时吃天水麻辣烫",
+      "onboard_time": 1710935856,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 151247,
       "num": 151247,
       "word": "N2报名",
@@ -1787,6 +1899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146803,
+      "num": 146803,
+      "word": "新说唱",
+      "onboard_time": 1710937297,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146576,
       "num": 146576,
       "word": "下班社恐跟我上班社牛有什么关系",
@@ -1801,6 +1921,14 @@
       "onboard_time": 1710893672,
       "rank": 42,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 143066,
+      "num": 143066,
+      "word": "电影版红楼梦",
+      "onboard_time": 1710934954,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 143027,
@@ -1891,6 +2019,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 136967,
+      "num": 136967,
+      "word": "花间令 原生家庭",
+      "onboard_time": 1710937716,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136483,
       "num": 136483,
       "word": "许嵩巡演武汉站售罄",
@@ -1899,20 +2035,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 135895,
-      "num": 135895,
-      "word": "沈璃和行云be了",
-      "onboard_time": 1710934359,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134988,
       "num": 134988,
       "word": "沈璃今晚开大",
       "onboard_time": 1710919833,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134636,
+      "num": 134636,
+      "word": "拼多多2023年营收2476亿",
+      "onboard_time": 1710937174,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 134425,
@@ -1971,14 +2107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132298,
-      "num": 132298,
-      "word": "花间令 一人表白四人失恋",
-      "onboard_time": 1710934418,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130203,
       "num": 130203,
       "word": "春日美甲",
@@ -1988,7 +2116,7 @@
     },
     {
       "raw_hot": 130144,
-      "num": 252212,
+      "num": 252706,
       "word": "红旗EH7来了",
       "onboard_time": 1710933999,
       "rank": 29,
@@ -2049,6 +2177,14 @@
       "onboard_time": 1710924337,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 124071,
+      "num": 124071,
+      "word": "甘肃西瓜切块",
+      "onboard_time": 1710937775,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 121941,
@@ -2515,6 +2651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40728,
+      "num": 250217,
+      "word": "淘宝给各路红人整了个红毯",
+      "onboard_time": 1710936817,
+      "rank": 23,
+      "category": "互联网,时尚"
+    },
+    {
       "raw_hot": 40640,
       "num": 40640,
       "word": "我约莫是看上你了",
@@ -2544,6 +2688,14 @@
       "word": "电车驾控感好是一种什么体验",
       "onboard_time": 1710927394,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33030,
+      "num": 967765,
+      "word": "播种春天播撒希望",
+      "onboard_time": 1710918693,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -2577,14 +2729,6 @@
       "onboard_time": 1710873496,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 26409,
-      "num": 955756,
-      "word": "播种春天播撒希望",
-      "onboard_time": 1710918693,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25481,
