@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710965919254,
+  "endTime": 1710966930892,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -11715,12 +11715,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45278,
+      "num": 19690,
+      "word": "冯小刚辟谣病危移民传言",
+      "onboard_time": 1710964515,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45185,
       "num": 45185,
       "word": "凯特超80天未公开露面",
       "onboard_time": 1710796515,
       "rank": 28,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 43239,
+      "num": 43239,
+      "word": "为什么牙不好疾病满身跑",
+      "onboard_time": 1710961576,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 42536,
@@ -11731,28 +11747,12 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 41279,
-      "num": 41279,
-      "word": "为什么牙不好疾病满身跑",
-      "onboard_time": 1710961576,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 41177,
       "num": 41177,
       "word": "你怎么看幼儿园关闭潮",
       "onboard_time": 1710710655,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40748,
-      "num": 19690,
-      "word": "冯小刚辟谣病危移民传言",
-      "onboard_time": 1710964515,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 40640,
@@ -11987,6 +11987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 22911,
+      "num": 19063,
+      "word": "出差时公司给定的儿童房",
+      "onboard_time": 1710964336,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 20896,
       "num": 23760,
       "word": "越来越能理解什么叫人活的是几个瞬间",
@@ -12035,14 +12043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19063,
-      "num": 19063,
-      "word": "出差时公司给定的儿童房",
-      "onboard_time": 1710964336,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 17738,
       "num": 248388,
       "word": "AI哄睡靠谱吗",
@@ -12068,7 +12068,7 @@
     },
     {
       "raw_hot": 15218,
-      "num": 16382,
+      "num": 17392,
       "word": "哪个价位的手机最值得买",
       "onboard_time": 1710963316,
       "rank": 37,
@@ -12089,6 +12089,14 @@
       "onboard_time": 1710706635,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12005,
+      "num": 17350,
+      "word": "不吃早饭比不吃晚饭危害更大吗",
+      "onboard_time": 1710966616,
+      "rank": 48,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [

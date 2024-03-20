@@ -1,6 +1,6 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1710965919254,
+  "endTime": 1710966930892,
   "band_list": [
     {
       "raw_hot": 1255856,
@@ -475,28 +475,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 42001,
-      "num": 46286,
-      "word": "吴磊居家男友风",
-      "onboard_time": 1710940179,
-      "rank": 47,
-      "category": "作品衍生"
+      "raw_hot": 45278,
+      "num": 19690,
+      "word": "冯小刚辟谣病危移民传言",
+      "onboard_time": 1710964515,
+      "rank": 30,
+      "category": "艺人"
     },
     {
-      "raw_hot": 41279,
-      "num": 41279,
+      "raw_hot": 43239,
+      "num": 43239,
       "word": "为什么牙不好疾病满身跑",
       "onboard_time": 1710961576,
       "rank": 45,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 40748,
-      "num": 19690,
-      "word": "冯小刚辟谣病危移民传言",
-      "onboard_time": 1710964515,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 42001,
+      "num": 46286,
+      "word": "吴磊居家男友风",
+      "onboard_time": 1710940179,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 38214,
@@ -523,7 +523,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19063,
+      "raw_hot": 22911,
       "num": 19063,
       "word": "出差时公司给定的儿童房",
       "onboard_time": 1710964336,
@@ -540,11 +540,19 @@
     },
     {
       "raw_hot": 15218,
-      "num": 16382,
+      "num": 17392,
       "word": "哪个价位的手机最值得买",
       "onboard_time": 1710963316,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 12005,
+      "num": 17350,
+      "word": "不吃早饭比不吃晚饭危害更大吗",
+      "onboard_time": 1710966616,
+      "rank": 48,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
