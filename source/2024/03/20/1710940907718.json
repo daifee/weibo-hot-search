@@ -1,0 +1,410 @@
+{
+  "runTime": 1710940907718,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1837651,
+        "num": 1837651,
+        "word": "东航致132人遇难事故调查进展发布",
+        "onboard_time": 1710930218,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1729705,
+        "num": 1729705,
+        "word": "素媛案罪犯赵斗淳又被判了",
+        "onboard_time": 1710934180,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29539,
+        "num": 1258548,
+        "word": "这个春天祝你春风得意向阳花开",
+        "onboard_time": 1710940536,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1211285,
+        "num": 1211285,
+        "word": "鹿晗强迫好友深夜督战曼联",
+        "onboard_time": 1710935017,
+        "rank": 3,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1161278,
+        "num": 1161278,
+        "word": "日媒称一中国富豪借给福原爱3亿日元",
+        "onboard_time": 1710936756,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 883396,
+        "num": 883396,
+        "word": "肖战藏海传官服造型",
+        "onboard_time": 1710939095,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 636427,
+        "num": 636427,
+        "word": "2月龄男婴接种疫苗14天后死亡",
+        "onboard_time": 1710935074,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573688,
+        "num": 573688,
+        "word": "刘亦菲又在撕嘴皮",
+        "onboard_time": 1710935436,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486519,
+        "num": 486519,
+        "word": "林依晨 你",
+        "onboard_time": 1710927818,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 457664,
+        "num": 457664,
+        "word": "张杰眼睛里是小时候的张杰",
+        "onboard_time": 1710938674,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1127766,
+        "num": 432841,
+        "word": "女子怀孕7个月刚独自待5分钟就倒地",
+        "onboard_time": 1710939516,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398001,
+        "num": 398001,
+        "word": "iPhone16系列或实现更大显示屏",
+        "onboard_time": 1710930996,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 392787,
+        "num": 392787,
+        "word": "宋妍霏身材管理",
+        "onboard_time": 1710939632,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 389718,
+        "num": 389718,
+        "word": "越共中央批准越南国家主席武文赏辞职",
+        "onboard_time": 1710934055,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 37471,
+        "num": 374089,
+        "word": "淘宝红人之夜有多绝",
+        "onboard_time": 1710939632,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 358795,
+        "num": 358795,
+        "word": "刘学义光头造型",
+        "onboard_time": 1710938376,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343896,
+        "num": 343896,
+        "word": "李沁方回应被短剧P黑白照",
+        "onboard_time": 1710930395,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337037,
+        "num": 337037,
+        "word": "李硕珉金发",
+        "onboard_time": 1710938016,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32296,
+        "num": 326311,
+        "word": "纯电市场红旗EH7申请出战",
+        "onboard_time": 1710939217,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 318015,
+        "num": 318015,
+        "word": "唐嫣直播状态",
+        "onboard_time": 1710934777,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63700,
+        "num": 306603,
+        "word": "淘宝给各路红人整了个红毯",
+        "onboard_time": 1710936817,
+        "rank": 20,
+        "category": "互联网,时尚"
+      },
+      {
+        "raw_hot": 303808,
+        "num": 303808,
+        "word": "辛云来赵丽颖合照",
+        "onboard_time": 1710940179,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295085,
+        "num": 295085,
+        "word": "自己买的房最不该考虑的就是客人",
+        "onboard_time": 1710935735,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279293,
+        "num": 279293,
+        "word": "雷军佩服只有特斯拉敢涨价",
+        "onboard_time": 1710933578,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 261977,
+        "num": 261977,
+        "word": "龚俊邓为撞衫",
+        "onboard_time": 1710932259,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 257281,
+        "num": 257281,
+        "word": "不要再为吃糖油混合物焦虑了",
+        "onboard_time": 1710924337,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256255,
+        "num": 256255,
+        "word": "恶作剧之吻",
+        "onboard_time": 1710929676,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243036,
+        "num": 243036,
+        "word": "甘肃西瓜切块",
+        "onboard_time": 1710937775,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 239533,
+        "num": 239533,
+        "word": "第一次知道刷牙后不用漱口",
+        "onboard_time": 1710919592,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238857,
+        "num": 238857,
+        "word": "东航",
+        "onboard_time": 1710930395,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235062,
+        "num": 235062,
+        "word": "顾茉莉 两瓶水泡了一壶茶",
+        "onboard_time": 1710938975,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224751,
+        "num": 224751,
+        "word": "BLG四人亮天使致敬angel",
+        "onboard_time": 1710939277,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221792,
+        "num": 221792,
+        "word": "朱劲草 窝囊人夫",
+        "onboard_time": 1710939994,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221572,
+        "num": 221572,
+        "word": "吴磊居家男友风",
+        "onboard_time": 1710940179,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213145,
+        "num": 213145,
+        "word": "沪上阿姨紧急补货",
+        "onboard_time": 1710932317,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188876,
+        "num": 188876,
+        "word": "专家称打工人午睡15分钟足够",
+        "onboard_time": 1710940776,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185453,
+        "num": 185453,
+        "word": "沈璃和行云be了",
+        "onboard_time": 1710934359,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175334,
+        "num": 175334,
+        "word": "男生美国卖三蹦子首日进账1万美金",
+        "onboard_time": 1710940416,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 46343,
+        "num": 172442,
+        "word": "当你睡着你的身体发生了什么",
+        "onboard_time": 1710939217,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170166,
+        "num": 170166,
+        "word": "虞书欣林一跳了fate",
+        "onboard_time": 1710933876,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159720,
+        "num": 159720,
+        "word": "刘诗诗油菜花田路透",
+        "onboard_time": 1710934234,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157250,
+        "num": 157250,
+        "word": "肖战镜头下的横店",
+        "onboard_time": 1710931898,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39625,
+        "num": 152735,
+        "word": "春好正是耕种时",
+        "onboard_time": 1710940054,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149201,
+        "num": 149201,
+        "word": "Uzi被提名LOL历史第二人",
+        "onboard_time": 1710932500,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148891,
+        "num": 148891,
+        "word": "2024年全国高考时间确定",
+        "onboard_time": 1710931418,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147675,
+        "num": 147675,
+        "word": "湖南洞口县政协主席嫖娼被抓",
+        "onboard_time": 1710936635,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145672,
+        "num": 145672,
+        "word": "花间令 一人表白四人失恋",
+        "onboard_time": 1710934418,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142460,
+        "num": 142460,
+        "word": "FGO",
+        "onboard_time": 1710938492,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140130,
+        "num": 140130,
+        "word": "短剧把李沁证件照P成黑白",
+        "onboard_time": 1710923793,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137715,
+        "num": 137715,
+        "word": "这下真的知道该怎么减肥了",
+        "onboard_time": 1710938196,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记始终高度重视农业生产和粮食安全#"
+    }
+  }
+}

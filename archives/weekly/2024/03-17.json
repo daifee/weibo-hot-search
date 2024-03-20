@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710938743886,
+  "endTime": 1710940907718,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -843,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1211285,
+      "num": 1211285,
+      "word": "鹿晗强迫好友深夜督战曼联",
+      "onboard_time": 1710935017,
+      "rank": 3,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 1203015,
       "num": 1203015,
       "word": "鸡骨泥运用于淀粉肠中不算违规",
@@ -899,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1161278,
+      "num": 1161278,
+      "word": "日媒称一中国富豪借给福原爱3亿日元",
+      "onboard_time": 1710936756,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1147233,
       "num": 1147233,
       "word": "小米测试车被天津高速抓到逃费",
@@ -928,6 +944,14 @@
       "word": "山东多名男生往一男生嘴里塞垃圾",
       "onboard_time": 1710811593,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1127766,
+      "num": 432841,
+      "word": "女子怀孕7个月刚独自待5分钟就倒地",
+      "onboard_time": 1710939516,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -1155,14 +1179,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 983546,
-      "num": 983546,
-      "word": "鹿晗强迫好友深夜督战曼联",
-      "onboard_time": 1710935017,
-      "rank": 3,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 980943,
       "num": 980943,
       "word": "凯特",
@@ -1331,14 +1347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 909758,
-      "num": 909758,
-      "word": "日媒称一中国富豪借给福原爱3亿日元",
-      "onboard_time": 1710936756,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 908235,
       "num": 908235,
       "word": "杨倩无缘巴黎奥运",
@@ -1385,6 +1393,14 @@
       "onboard_time": 1710836734,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 883396,
+      "num": 883396,
+      "word": "肖战藏海传官服造型",
+      "onboard_time": 1710939095,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 882813,
@@ -3107,6 +3123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457664,
+      "num": 457664,
+      "word": "张杰眼睛里是小时候的张杰",
+      "onboard_time": 1710938674,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 457566,
       "num": 457566,
       "word": "维护国家安全条例草案三读审议通过",
@@ -3627,12 +3651,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 398001,
+      "num": 398001,
+      "word": "iPhone16系列或实现更大显示屏",
+      "onboard_time": 1710930996,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 395752,
       "num": 395752,
       "word": "花间令 女主走路男主坐车",
       "onboard_time": 1710659552,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 392787,
+      "num": 392787,
+      "word": "宋妍霏身材管理",
+      "onboard_time": 1710939632,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 392533,
@@ -3827,14 +3867,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 374160,
-      "num": 374160,
-      "word": "iPhone16系列或实现更大显示屏",
-      "onboard_time": 1710930996,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 372213,
       "num": 364853,
       "word": "52岁男子爱吃生腌感染3种寄生虫",
@@ -3852,7 +3884,7 @@
     },
     {
       "raw_hot": 371447,
-      "num": 251773,
+      "num": 295085,
       "word": "自己买的房最不该考虑的就是客人",
       "onboard_time": 1710935735,
       "rank": 21,
@@ -3953,6 +3985,14 @@
       "onboard_time": 1710744932,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 358795,
+      "num": 358795,
+      "word": "刘学义光头造型",
+      "onboard_time": 1710938376,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 358410,
@@ -4137,6 +4177,14 @@
       "onboard_time": 1710681698,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337037,
+      "num": 337037,
+      "word": "李硕珉金发",
+      "onboard_time": 1710938016,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 336231,
@@ -4521,6 +4569,14 @@
       "onboard_time": 1710726029,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303808,
+      "num": 303808,
+      "word": "辛云来赵丽颖合照",
+      "onboard_time": 1710940179,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 303015,
@@ -5451,6 +5507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243036,
+      "num": 243036,
+      "word": "甘肃西瓜切块",
+      "onboard_time": 1710937775,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 242967,
       "num": 242967,
       "word": "随机吓到一名师范生",
@@ -5465,14 +5529,6 @@
       "onboard_time": 1710768696,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 240944,
-      "num": 240944,
-      "word": "张杰眼睛里是小时候的张杰",
-      "onboard_time": 1710938674,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 240763,
@@ -5579,20 +5635,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236057,
-      "num": 236057,
-      "word": "李硕珉金发",
-      "onboard_time": 1710938016,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 235118,
       "num": 235118,
       "word": "TES战胜WE",
       "onboard_time": 1710681215,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 235062,
+      "num": 235062,
+      "word": "顾茉莉 两瓶水泡了一壶茶",
+      "onboard_time": 1710938975,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 234576,
@@ -5835,6 +5891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 224751,
+      "num": 224751,
+      "word": "BLG四人亮天使致敬angel",
+      "onboard_time": 1710939277,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 224738,
       "num": 224738,
       "word": "蔡依林重庆",
@@ -5987,6 +6051,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 221792,
+      "num": 221792,
+      "word": "朱劲草 窝囊人夫",
+      "onboard_time": 1710939994,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221701,
       "num": 221701,
       "word": "AG稳S组",
@@ -6001,6 +6073,14 @@
       "onboard_time": 1710836793,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221572,
+      "num": 221572,
+      "word": "吴磊居家男友风",
+      "onboard_time": 1710940179,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 221180,
@@ -6739,14 +6819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200184,
-      "num": 200184,
-      "word": "刘学义光头造型",
-      "onboard_time": 1710938376,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 200010,
       "num": 200010,
       "word": "小米Civi",
@@ -7323,6 +7395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188876,
+      "num": 188876,
+      "word": "专家称打工人午睡15分钟足够",
+      "onboard_time": 1710940776,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188395,
       "num": 184506,
       "word": "辛纳状态",
@@ -7827,6 +7907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175334,
+      "num": 175334,
+      "word": "男生美国卖三蹦子首日进账1万美金",
+      "onboard_time": 1710940416,
+      "rank": 37,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 175308,
       "num": 175308,
       "word": "车被砸后第一步要做什么",
@@ -7937,14 +8025,6 @@
       "onboard_time": 1710651392,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 173735,
-      "num": 173735,
-      "word": "甘肃西瓜切块",
-      "onboard_time": 1710937775,
-      "rank": 49,
-      "category": "美食"
     },
     {
       "raw_hot": 173636,
@@ -11099,6 +11179,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 63700,
+      "num": 306603,
+      "word": "淘宝给各路红人整了个红毯",
+      "onboard_time": 1710936817,
+      "rank": 23,
+      "category": "互联网,时尚"
+    },
+    {
       "raw_hot": 62730,
       "num": 492144,
       "word": "新势力周发券发疯了",
@@ -11187,14 +11275,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 52991,
-      "num": 250217,
-      "word": "淘宝给各路红人整了个红毯",
-      "onboard_time": 1710936817,
-      "rank": 23,
-      "category": "互联网,时尚"
-    },
-    {
       "raw_hot": 52695,
       "num": 52695,
       "word": "八段锦国家体育总局完整版",
@@ -11233,6 +11313,14 @@
       "onboard_time": 1710752735,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 46343,
+      "num": 172442,
+      "word": "当你睡着你的身体发生了什么",
+      "onboard_time": 1710939217,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 46092,
@@ -11275,6 +11363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39625,
+      "num": 152735,
+      "word": "春好正是耕种时",
+      "onboard_time": 1710940054,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39203,
       "num": 143610,
       "word": "鞠婧祎杨枝甘露妆",
@@ -11297,6 +11393,14 @@
       "onboard_time": 1710871040,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37471,
+      "num": 374089,
+      "word": "淘宝红人之夜有多绝",
+      "onboard_time": 1710939632,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 37379,
@@ -11371,6 +11475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32296,
+      "num": 326311,
+      "word": "纯电市场红旗EH7申请出战",
+      "onboard_time": 1710939217,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 32165,
       "num": 21137,
       "word": "没人告诉我上大学还要考甄嬛传",
@@ -11393,6 +11505,14 @@
       "onboard_time": 1710648034,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 29539,
+      "num": 1258548,
+      "word": "这个春天祝你春风得意向阳花开",
+      "onboard_time": 1710940536,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27913,
@@ -11576,6 +11696,9 @@
     },
     {
       "word": "#习近平在湖南考察农村基层减负情况#"
+    },
+    {
+      "word": "#习近平总书记始终高度重视农业生产和粮食安全#"
     }
   ]
 }
