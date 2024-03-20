@@ -1,6 +1,6 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1710954909164,
+  "endTime": 1710956095363,
   "band_list": [
     {
       "raw_hot": 1255856,
@@ -73,6 +73,14 @@
       "onboard_time": 1710939516,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 470888,
+      "num": 470888,
+      "word": "凯特",
+      "onboard_time": 1710953842,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 376180,
@@ -299,14 +307,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 110810,
-      "num": 110810,
-      "word": "凯特",
-      "onboard_time": 1710953842,
-      "rank": 17,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 107555,
       "num": 107555,
       "word": "越共中央批准越南国家主席武文赏辞职",
@@ -465,6 +465,14 @@
       "onboard_time": 1710940179,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 38214,
+      "num": 38214,
+      "word": "沈璃红衣",
+      "onboard_time": 1710955700,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 29924,

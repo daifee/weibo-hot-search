@@ -1,0 +1,410 @@
+{
+  "runTime": 1710956095363,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 470888,
+        "num": 470888,
+        "word": "凯特",
+        "onboard_time": 1710953842,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 300352,
+        "num": 300352,
+        "word": "花间令开始吓人了",
+        "onboard_time": 1710952049,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28302,
+        "num": 269944,
+        "word": "这个春天祝你春风得意向阳花开",
+        "onboard_time": 1710940536,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267797,
+        "num": 267797,
+        "word": "素媛案罪犯赵斗淳又被判了",
+        "onboard_time": 1710934180,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226310,
+        "num": 226310,
+        "word": "鹿晗给自己整不好意思了",
+        "onboard_time": 1710948458,
+        "rank": 4,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 223832,
+        "num": 223832,
+        "word": "关晓彤短发",
+        "onboard_time": 1710943116,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173964,
+        "num": 173964,
+        "word": "腾讯8款游戏年收入超40亿",
+        "onboard_time": 1710947855,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168208,
+        "num": 168208,
+        "word": "女子怀孕7个月刚独自待5分钟就倒地",
+        "onboard_time": 1710939516,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153459,
+        "num": 153459,
+        "word": "最擅于隐藏情绪的星座",
+        "onboard_time": 1710944617,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147292,
+        "num": 147292,
+        "word": "恋爱兄妹",
+        "onboard_time": 1710947078,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286026,
+        "num": 144203,
+        "word": "东航致132人遇难事故调查进展发布",
+        "onboard_time": 1710930218,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186419,
+        "num": 141829,
+        "word": "揭秘凯特王妃背后宫斗内幕",
+        "onboard_time": 1710948816,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 169032,
+        "num": 137946,
+        "word": "周杰伦方回应败诉",
+        "onboard_time": 1710952648,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131854,
+        "num": 131854,
+        "word": "日媒称一中国富豪借给福原爱3亿日元",
+        "onboard_time": 1710936756,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113767,
+        "num": 113767,
+        "word": "行云念了沈璃一辈子",
+        "onboard_time": 1710948154,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110932,
+        "num": 110932,
+        "word": "刘学义配角演了8年",
+        "onboard_time": 1710951928,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105176,
+        "num": 105176,
+        "word": "汪东城你年龄是满40减20吗",
+        "onboard_time": 1710941855,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 78999,
+        "num": 78999,
+        "word": "拼多多涨逾15%",
+        "onboard_time": 1710944917,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 70403,
+        "num": 70403,
+        "word": "刘亦菲又在撕嘴皮",
+        "onboard_time": 1710935436,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63976,
+        "num": 63976,
+        "word": "男生美国卖三蹦子首日进账1万美金",
+        "onboard_time": 1710940416,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 273632,
+        "num": 63718,
+        "word": "河北邯郸一高中生被同学打伤睾丸",
+        "onboard_time": 1710948992,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75720,
+        "num": 62801,
+        "word": "打工人开始尝试用刮刮乐打上班卡",
+        "onboard_time": 1710950311,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60904,
+        "num": 60904,
+        "word": "刘学义光头造型",
+        "onboard_time": 1710938376,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59110,
+        "num": 59110,
+        "word": "2月龄男婴接种疫苗14天后死亡",
+        "onboard_time": 1710935074,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58219,
+        "num": 58219,
+        "word": "边伯贤 香港",
+        "onboard_time": 1710941020,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55242,
+        "num": 55242,
+        "word": "潘樾杨采薇相认",
+        "onboard_time": 1710952886,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54025,
+        "num": 54025,
+        "word": "沪上阿姨紧急补货",
+        "onboard_time": 1710932317,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 52300,
+        "num": 52300,
+        "word": "越共中央批准越南国家主席武文赏辞职",
+        "onboard_time": 1710934055,
+        "rank": 27,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 50883,
+        "num": 50883,
+        "word": "自己买的房最不该考虑的就是客人",
+        "onboard_time": 1710935735,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47825,
+        "num": 47825,
+        "word": "曹恩齐方回应机场抵制代拍",
+        "onboard_time": 1710954443,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123486,
+        "num": 47592,
+        "word": "想瘦脸少不了练背",
+        "onboard_time": 1710952407,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 46610,
+        "num": 46610,
+        "word": "藏海传",
+        "onboard_time": 1710943116,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45296,
+        "num": 45296,
+        "word": "林依晨 你",
+        "onboard_time": 1710927818,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 44360,
+        "num": 44360,
+        "word": "Uzi被提名LOL历史第二人",
+        "onboard_time": 1710932500,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44346,
+        "num": 44346,
+        "word": "龚俊邓为撞衫",
+        "onboard_time": 1710932259,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43255,
+        "num": 43255,
+        "word": "东航",
+        "onboard_time": 1710930395,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43252,
+        "num": 43252,
+        "word": "iPhone16系列或实现更大显示屏",
+        "onboard_time": 1710930996,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 41786,
+        "num": 41786,
+        "word": "第一次知道刷牙后不用漱口",
+        "onboard_time": 1710919592,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41683,
+        "num": 41683,
+        "word": "戚薇的包是个方向盘",
+        "onboard_time": 1710943538,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39352,
+        "num": 39352,
+        "word": "BLG四人亮天使致敬angel",
+        "onboard_time": 1710939277,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38214,
+        "num": 38214,
+        "word": "沈璃红衣",
+        "onboard_time": 1710955700,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37757,
+        "num": 37757,
+        "word": "肖战藏海传官服造型",
+        "onboard_time": 1710939095,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37586,
+        "num": 37586,
+        "word": "恶作剧之吻",
+        "onboard_time": 1710929676,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37089,
+        "num": 37089,
+        "word": "林俊杰侧脸照",
+        "onboard_time": 1710948816,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34956,
+        "num": 37089,
+        "word": "承欢记要来了",
+        "onboard_time": 1710942456,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34866,
+        "num": 37072,
+        "word": "吴磊居家男友风",
+        "onboard_time": 1710940179,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34611,
+        "num": 37068,
+        "word": "京东洗衣回应衣物被烧将全额赔偿",
+        "onboard_time": 1710945928,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33454,
+        "num": 37053,
+        "word": "一年级班主任的课间能有多忙",
+        "onboard_time": 1710944617,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31020,
+        "num": 37048,
+        "word": "辛云来赵丽颖合照",
+        "onboard_time": 1710940179,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28967,
+        "num": 37041,
+        "word": "杜海涛演戏",
+        "onboard_time": 1710940835,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在湖南考察调研#"
+    }
+  }
+}
