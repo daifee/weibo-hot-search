@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1710908531648,
+  "endTime": 1710909279299,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -395,6 +395,14 @@
       "category": "音乐,艺人"
     },
     {
+      "raw_hot": 1638062,
+      "num": 1638062,
+      "word": "库克郑恺外滩偶遇",
+      "onboard_time": 1710906513,
+      "rank": 1,
+      "category": "数码,艺人"
+    },
+    {
       "raw_hot": 1611314,
       "num": 559913,
       "word": "苹果同意支付4.9亿美金和解",
@@ -513,14 +521,6 @@
       "onboard_time": 1710816755,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1456188,
-      "num": 1456188,
-      "word": "库克郑恺外滩偶遇",
-      "onboard_time": 1710906513,
-      "rank": 1,
-      "category": "数码,艺人"
     },
     {
       "raw_hot": 1439554,
@@ -819,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1164069,
+      "num": 538877,
+      "word": "四川警方通报14岁女孩纠集多人围殴男孩",
+      "onboard_time": 1710904891,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1147233,
       "num": 1147233,
       "word": "小米测试车被天津高速抓到逃费",
@@ -929,14 +937,6 @@
       "onboard_time": 1710747517,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1086457,
-      "num": 452528,
-      "word": "四川警方通报14岁女孩纠集多人围殴男孩",
-      "onboard_time": 1710904891,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1082972,
@@ -1281,6 +1281,14 @@
       "onboard_time": 1710855457,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 893109,
+      "num": 893109,
+      "word": "知否屠二爷是赵丽颖推荐的",
+      "onboard_time": 1710907233,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 887870,
@@ -1881,14 +1889,6 @@
       "onboard_time": 1710648452,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 651909,
-      "num": 447363,
-      "word": "知否屠二爷是赵丽颖推荐的",
-      "onboard_time": 1710907233,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 651754,
@@ -2515,6 +2515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 505211,
+      "num": 505211,
+      "word": "视力模糊下降两根手指转天筋",
+      "onboard_time": 1710904592,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 504713,
       "num": 504713,
       "word": "315打假击败全国99%大学生",
@@ -2601,6 +2609,14 @@
       "onboard_time": 1710762692,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 487186,
+      "num": 487186,
+      "word": "红楼梦抢票",
+      "onboard_time": 1710905854,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 487180,
@@ -2891,14 +2907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 441636,
-      "num": 441636,
-      "word": "红楼梦抢票",
-      "onboard_time": 1710905854,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 440709,
       "num": 440709,
       "word": "王曼昱世界排名重返第二",
@@ -2929,14 +2937,6 @@
       "onboard_time": 1710839852,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 437310,
-      "num": 437310,
-      "word": "视力模糊下降两根手指转天筋",
-      "onboard_time": 1710904592,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 434126,
@@ -3297,6 +3297,14 @@
       "onboard_time": 1710659552,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 393610,
+      "num": 393610,
+      "word": "刘烨也逃不开的中年三件套",
+      "onboard_time": 1710907116,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 392533,
@@ -3699,14 +3707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 334976,
-      "num": 334976,
-      "word": "刘烨也逃不开的中年三件套",
-      "onboard_time": 1710907116,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 333627,
       "num": 333627,
       "word": "蔡依林在KTV唱自己的歌",
@@ -3801,6 +3801,14 @@
       "onboard_time": 1710836197,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321409,
+      "num": 321409,
+      "word": "吴磊赤膊骑车",
+      "onboard_time": 1710907715,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 321280,
@@ -4747,6 +4755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249234,
+      "num": 249234,
+      "word": "舒畅穿马面裙去泰国",
+      "onboard_time": 1710908134,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248440,
       "num": 343725,
       "word": "凤凰传奇只有冷门前奏没有冷门歌曲",
@@ -4889,6 +4905,14 @@
       "onboard_time": 1710816452,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 239872,
+      "num": 239872,
+      "word": "陈奕迅武汉",
+      "onboard_time": 1710908496,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 239711,
@@ -5129,6 +5153,14 @@
       "onboard_time": 1710892230,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226364,
+      "num": 226364,
+      "word": "新说唱选手发不完根本发不完",
+      "onboard_time": 1710906693,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 226193,
@@ -5531,14 +5563,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 214446,
-      "num": 214446,
-      "word": "新说唱选手发不完根本发不完",
-      "onboard_time": 1710906693,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214298,
       "num": 214298,
       "word": "陈建斌蒋勤勤牵手看展",
@@ -5579,12 +5603,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212073,
-      "num": 210444,
-      "word": "吴磊赤膊骑车",
-      "onboard_time": 1710907715,
-      "rank": 31,
-      "category": "电影"
+      "raw_hot": 212537,
+      "num": 212537,
+      "word": "拥有一份好工作的10个特征",
+      "onboard_time": 1710907475,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 211289,
@@ -5619,12 +5643,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 210261,
-      "num": 210261,
-      "word": "舒畅穿马面裙去泰国",
-      "onboard_time": 1710908134,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 209936,
+      "num": 226759,
+      "word": "借哥哥军装拍照的00后立二等功",
+      "onboard_time": 1710907955,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209788,
@@ -6043,6 +6067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198224,
+      "num": 198224,
+      "word": "癌症是基因注定的吗",
+      "onboard_time": 1710906271,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 197600,
       "num": 197600,
       "word": "花间令大婚路透",
@@ -6204,7 +6236,7 @@
     },
     {
       "raw_hot": 194029,
-      "num": 211308,
+      "num": 226413,
       "word": "90后女孩成了66位老人的妈妈",
       "onboard_time": 1710904652,
       "rank": 31,
@@ -6481,14 +6513,6 @@
       "onboard_time": 1710671316,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 188080,
-      "num": 188080,
-      "word": "拥有一份好工作的10个特征",
-      "onboard_time": 1710907475,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 187414,
@@ -7123,14 +7147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 169876,
-      "num": 169876,
-      "word": "癌症是基因注定的吗",
-      "onboard_time": 1710906271,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 169601,
       "num": 210584,
       "word": "A股",
@@ -7417,6 +7433,14 @@
       "onboard_time": 1710730594,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 162422,
+      "num": 162422,
+      "word": "韩政府首次吊销离岗医生执照",
+      "onboard_time": 1710908675,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162379,
@@ -7971,14 +7995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148687,
-      "num": 148687,
-      "word": "陈奕迅武汉",
-      "onboard_time": 1710908496,
-      "rank": 42,
-      "category": "演出"
-    },
-    {
       "raw_hot": 148205,
       "num": 148205,
       "word": "鹿晗soeasy说早了",
@@ -8243,6 +8259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140432,
+      "num": 140432,
+      "word": "第五人格伊藤润二 返场",
+      "onboard_time": 1710909034,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139428,
       "num": 139428,
       "word": "新说唱2024首次录制",
@@ -8369,14 +8393,6 @@
       "onboard_time": 1710720094,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136171,
-      "num": 155648,
-      "word": "借哥哥军装拍照的00后立二等功",
-      "onboard_time": 1710907955,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135734,
@@ -8737,6 +8753,14 @@
       "onboard_time": 1710634887,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126000,
+      "num": 126000,
+      "word": "蒲熠星新歌",
+      "onboard_time": 1710909157,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 125989,

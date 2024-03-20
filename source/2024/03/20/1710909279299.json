@@ -1,0 +1,410 @@
+{
+  "runTime": 1710909279299,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2172693,
+        "num": 2172693,
+        "word": "沪上阿姨崩了",
+        "onboard_time": 1710901050,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1638062,
+        "num": 1638062,
+        "word": "库克郑恺外滩偶遇",
+        "onboard_time": 1710906513,
+        "rank": 1,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 1137186,
+        "num": 1137186,
+        "word": "蒋敦豪 晴天",
+        "onboard_time": 1710901470,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 967649,
+        "num": 967649,
+        "word": "杨洋拄拐现身医院",
+        "onboard_time": 1710904052,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 893109,
+        "num": 893109,
+        "word": "知否屠二爷是赵丽颖推荐的",
+        "onboard_time": 1710907233,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 824853,
+        "num": 824853,
+        "word": "英国王室又一合照被曝P图",
+        "onboard_time": 1710902011,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 576890,
+        "num": 576890,
+        "word": "郑合惠子直给",
+        "onboard_time": 1710904290,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501290,
+        "num": 574918,
+        "word": "清明放假调休3天",
+        "onboard_time": 1710893794,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302481,
+        "num": 566376,
+        "word": "疑有医院员工试图查凯特病例被捕",
+        "onboard_time": 1710901650,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 196831,
+        "num": 553039,
+        "word": "春分是整个春季中的C位节气",
+        "onboard_time": 1710906271,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1164069,
+        "num": 538877,
+        "word": "四川警方通报14岁女孩纠集多人围殴男孩",
+        "onboard_time": 1710904891,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1143607,
+        "num": 533154,
+        "word": "杨幂张小斐挽手聚餐",
+        "onboard_time": 1710904713,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527733,
+        "num": 527733,
+        "word": "有个姐真把千机伞做出来了",
+        "onboard_time": 1710896132,
+        "rank": 12,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 526452,
+        "num": 526452,
+        "word": "许嵩抢票",
+        "onboard_time": 1710901112,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 505211,
+        "num": 505211,
+        "word": "视力模糊下降两根手指转天筋",
+        "onboard_time": 1710904592,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 487186,
+        "num": 487186,
+        "word": "红楼梦抢票",
+        "onboard_time": 1710905854,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 465872,
+        "num": 465872,
+        "word": "呼北高速交通事故已造成14人死亡",
+        "onboard_time": 1710903451,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393610,
+        "num": 393610,
+        "word": "刘烨也逃不开的中年三件套",
+        "onboard_time": 1710907116,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389571,
+        "num": 389571,
+        "word": "婚后的隐形家务真的会让人崩溃",
+        "onboard_time": 1710899372,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 328313,
+        "num": 328313,
+        "word": "琳琳 土豆",
+        "onboard_time": 1710892532,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 344976,
+        "num": 326349,
+        "word": "父亲买了一套无法过户的房子",
+        "onboard_time": 1710899372,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 321409,
+        "num": 321409,
+        "word": "吴磊赤膊骑车",
+        "onboard_time": 1710907715,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 291064,
+        "num": 291064,
+        "word": "聂可以 文哲",
+        "onboard_time": 1710906391,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 287574,
+        "num": 287574,
+        "word": "微信 月经提醒",
+        "onboard_time": 1710857978,
+        "rank": 23,
+        "category": "互联网,健康医疗"
+      },
+      {
+        "raw_hot": 268121,
+        "num": 268121,
+        "word": "绯闻小三否认插足凯特王妃婚姻",
+        "onboard_time": 1710893131,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 249234,
+        "num": 249234,
+        "word": "舒畅穿马面裙去泰国",
+        "onboard_time": 1710908134,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239872,
+        "num": 239872,
+        "word": "陈奕迅武汉",
+        "onboard_time": 1710908496,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209936,
+        "num": 226759,
+        "word": "借哥哥军装拍照的00后立二等功",
+        "onboard_time": 1710907955,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184905,
+        "num": 226413,
+        "word": "90后女孩成了66位老人的妈妈",
+        "onboard_time": 1710904652,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124033,
+        "num": 226387,
+        "word": "新的一天从800个哈欠开始",
+        "onboard_time": 1710901112,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226364,
+        "num": 226364,
+        "word": "新说唱选手发不完根本发不完",
+        "onboard_time": 1710906693,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226223,
+        "num": 226223,
+        "word": "特斯拉涨价",
+        "onboard_time": 1710900328,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 212537,
+        "num": 212537,
+        "word": "拥有一份好工作的10个特征",
+        "onboard_time": 1710907475,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198224,
+        "num": 198224,
+        "word": "癌症是基因注定的吗",
+        "onboard_time": 1710906271,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196166,
+        "num": 196166,
+        "word": "当狗狗第一次有了娃还是独生子",
+        "onboard_time": 1710904952,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184755,
+        "num": 184755,
+        "word": "8小时内完成全天进食真的好吗",
+        "onboard_time": 1710902733,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177103,
+        "num": 177103,
+        "word": "研究称吃精制碳水早餐会降低颜值",
+        "onboard_time": 1710890907,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176124,
+        "num": 176124,
+        "word": "蒲熠星抢票",
+        "onboard_time": 1710895473,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162648,
+        "num": 162648,
+        "word": "准备辞职时公司把我裁了",
+        "onboard_time": 1710890547,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162422,
+        "num": 162422,
+        "word": "韩政府首次吊销离岗医生执照",
+        "onboard_time": 1710908675,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155306,
+        "num": 155306,
+        "word": "A股",
+        "onboard_time": 1710905969,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152162,
+        "num": 152162,
+        "word": "与凤行还挺费果冻的",
+        "onboard_time": 1710894754,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142092,
+        "num": 142092,
+        "word": "花5元给女儿买了一双高跟鞋",
+        "onboard_time": 1710899670,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140432,
+        "num": 140432,
+        "word": "第五人格伊藤润二 返场",
+        "onboard_time": 1710909034,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135506,
+        "num": 135506,
+        "word": "春分",
+        "onboard_time": 1710889405,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132358,
+        "num": 132358,
+        "word": "家有儿女中的刘梅是合格的妈妈吗",
+        "onboard_time": 1710876617,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131072,
+        "num": 131072,
+        "word": "生是你的权利不生是你的自由",
+        "onboard_time": 1710902192,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126990,
+        "num": 126990,
+        "word": "想睡一觉躺挣5千结果进去了",
+        "onboard_time": 1710859360,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126000,
+        "num": 126000,
+        "word": "蒲熠星新歌",
+        "onboard_time": 1710909157,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104782,
+        "num": 123636,
+        "word": "科比首枚总冠军戒指被拍卖",
+        "onboard_time": 1710897032,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在湖南考察调研#"
+    }
+  }
+}
