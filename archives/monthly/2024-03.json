@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710991169547,
+  "endTime": 1710992100980,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -1019,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1961545,
+      "num": 1961545,
+      "word": "我爸把养了六年的猫扔了",
+      "onboard_time": 1710989012,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1954680,
       "num": 1954680,
       "word": "官方回应燕郊镇发生爆炸",
@@ -1145,14 +1153,6 @@
       "onboard_time": 1709863886,
       "rank": 13,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1900887,
-      "num": 1900887,
-      "word": "我爸把养了六年的猫扔了",
-      "onboard_time": 1710989012,
-      "rank": 0,
-      "category": "情感"
     },
     {
       "raw_hot": 1896918,
@@ -1561,6 +1561,14 @@
       "onboard_time": 1709297193,
       "rank": 1,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1695041,
+      "num": 1695041,
+      "word": "娃哈哈官方旗舰店日销售额下降90%",
+      "onboard_time": 1710990575,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 1691763,
@@ -5699,6 +5707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 896661,
+      "num": 896661,
+      "word": "黄金",
+      "onboard_time": 1710987634,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 896351,
       "num": 896351,
       "word": "林更新回复评论",
@@ -6331,14 +6347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 833647,
-      "num": 833647,
-      "word": "黄金",
-      "onboard_time": 1710987634,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 832079,
       "num": 832079,
       "word": "甘肃天水麻辣烫",
@@ -6657,14 +6665,6 @@
       "onboard_time": 1709373329,
       "rank": 21,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 802157,
-      "num": 802157,
-      "word": "娃哈哈官方旗舰店日销售额下降90%",
-      "onboard_time": 1710990575,
-      "rank": 5,
-      "category": "财经"
     },
     {
       "raw_hot": 801932,
@@ -9281,6 +9281,14 @@
       "onboard_time": 1710829535,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 649732,
+      "num": 649732,
+      "word": "张艺兴新综艺正式官宣",
+      "onboard_time": 1710991352,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 648662,
@@ -12883,6 +12891,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 510453,
+      "num": 510453,
+      "word": "市监巡查人员被螺蛳粉店增臭剂臭到咳嗽",
+      "onboard_time": 1710988053,
+      "rank": 19,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 510352,
       "num": 510352,
       "word": "安藤樱 感觉和贾玲已经是朋友了",
@@ -14601,14 +14617,6 @@
       "onboard_time": 1710576933,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 462346,
-      "num": 462346,
-      "word": "市监巡查人员被螺蛳粉店增臭剂臭到咳嗽",
-      "onboard_time": 1710988053,
-      "rank": 19,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 462297,
@@ -17651,6 +17659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 385791,
+      "num": 385791,
+      "word": "珠帘玉幕 磨皮",
+      "onboard_time": 1710991294,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385769,
       "num": 385769,
       "word": "满舒克前女友再发博",
@@ -18009,6 +18025,14 @@
       "onboard_time": 1710140429,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 377868,
+      "num": 293254,
+      "word": "98年同事因为分手去创业了",
+      "onboard_time": 1710990575,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 377799,
@@ -19003,6 +19027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 356985,
+      "num": 356985,
+      "word": "身边真的有好多人在重启人生啊",
+      "onboard_time": 1710990510,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 356964,
       "num": 356964,
       "word": "腿上出现红血丝或是疾病信号",
@@ -19089,6 +19121,14 @@
       "onboard_time": 1710501338,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 355522,
+      "num": 355522,
+      "word": "多家螺蛳粉品牌客服回应",
+      "onboard_time": 1710989852,
+      "rank": 23,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 355465,
@@ -19803,14 +19843,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 340696,
-      "num": 200470,
-      "word": "98年同事因为分手去创业了",
-      "onboard_time": 1710990575,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 340666,
       "num": 259612,
       "word": "14岁不舍得给自己花钱",
@@ -20468,7 +20500,7 @@
     },
     {
       "raw_hot": 327841,
-      "num": 280391,
+      "num": 292665,
       "word": "小猫的鼻子被割掉仍然顽强地生活",
       "onboard_time": 1710990575,
       "rank": 20,
@@ -25867,6 +25899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252659,
+      "num": 252659,
+      "word": "盒子里的猫",
+      "onboard_time": 1710990872,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252594,
       "num": 252594,
       "word": "荣梓杉去中戏考试了",
@@ -27731,14 +27771,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 234168,
-      "num": 234168,
-      "word": "多家螺蛳粉品牌客服回应",
-      "onboard_time": 1710989852,
-      "rank": 23,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 234158,
       "num": 234158,
       "word": "奔驰CEO呼吁欧盟降低对华电动车关税",
@@ -28425,6 +28457,14 @@
       "onboard_time": 1710151051,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227326,
+      "num": 227326,
+      "word": "三体",
+      "onboard_time": 1710990394,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 227308,
@@ -34435,6 +34475,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 194166,
+      "num": 194166,
+      "word": "追风者开播",
+      "onboard_time": 1710991352,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194155,
       "num": 194155,
       "word": "柯南平次 好离谱的周边",
@@ -34513,14 +34561,6 @@
       "onboard_time": 1710387215,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 193771,
-      "num": 193771,
-      "word": "三体",
-      "onboard_time": 1710990394,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 193746,
@@ -35521,6 +35561,14 @@
       "onboard_time": 1709992834,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189314,
+      "num": 189314,
+      "word": "安溥演唱会",
+      "onboard_time": 1710991832,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 189309,
@@ -37883,14 +37931,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 177351,
-      "num": 177351,
-      "word": "盒子里的猫",
-      "onboard_time": 1710990872,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177326,
       "num": 177326,
       "word": "B站2023年营业额225亿",
@@ -38361,14 +38401,6 @@
       "onboard_time": 1710417934,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 175362,
-      "num": 175362,
-      "word": "身边真的有好多人在重启人生啊",
-      "onboard_time": 1710990510,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 175335,
@@ -40963,6 +40995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162676,
+      "num": 162676,
+      "word": "娃哈哈客服回应网店销量暴降",
+      "onboard_time": 1710991832,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 162636,
       "num": 162636,
       "word": "陈晓新剧男友力爆棚",
@@ -41345,6 +41385,14 @@
       "onboard_time": 1709564253,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 161144,
+      "num": 161144,
+      "word": "姐姐回应山东小钺钺被刺伤进ICU",
+      "onboard_time": 1710990510,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161140,
@@ -41857,6 +41905,14 @@
       "onboard_time": 1710304415,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158892,
+      "num": 158892,
+      "word": "外貌对工作影响大不大",
+      "onboard_time": 1710990272,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 158853,
@@ -44235,14 +44291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149181,
-      "num": 149181,
-      "word": "姐姐回应山东小钺钺被刺伤进ICU",
-      "onboard_time": 1710990510,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149177,
       "num": 149177,
       "word": "值得爱开机",
@@ -44891,14 +44939,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 146341,
-      "num": 146341,
-      "word": "外貌对工作影响大不大",
-      "onboard_time": 1710990272,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 146307,
       "num": 146307,
       "word": "山东泰山红牌",
@@ -45113,6 +45153,14 @@
       "onboard_time": 1709521289,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 145306,
+      "num": 145306,
+      "word": "马伯骞 肉夹馍蛋糕",
+      "onboard_time": 1710991773,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 145304,
@@ -48257,6 +48305,14 @@
       "onboard_time": 1709946029,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 132441,
+      "num": 132441,
+      "word": "灰熊vs勇士",
+      "onboard_time": 1710991653,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 132396,
