@@ -1,6 +1,6 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1711024233014,
+  "endTime": 1711025195629,
   "band_list": [
     {
       "raw_hot": 3011106,
@@ -131,6 +131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1233051,
+      "num": 1126085,
+      "word": "梦中梦中梦中梦中梦",
+      "onboard_time": 1711019300,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1224174,
       "num": 1224174,
       "word": "那些放弃社保的年轻人",
@@ -153,14 +161,6 @@
       "onboard_time": 1710966616,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1126085,
-      "num": 1126085,
-      "word": "梦中梦中梦中梦中梦",
-      "onboard_time": 1711019300,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 1108881,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 789656,
+      "num": 789656,
+      "word": "消保委点名周杰伦演唱会抢票先充VIP",
+      "onboard_time": 1711021278,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 781469,
       "num": 781469,
       "word": "杨幂背部身材",
@@ -345,14 +353,6 @@
       "onboard_time": 1711015759,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 751024,
-      "num": 751024,
-      "word": "消保委点名周杰伦演唱会抢票先充VIP",
-      "onboard_time": 1711021278,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 740345,
@@ -385,6 +385,14 @@
       "onboard_time": 1710998193,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 715316,
+      "num": 715316,
+      "word": "王一博演技",
+      "onboard_time": 1711024158,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 715083,
@@ -460,7 +468,7 @@
     },
     {
       "raw_hot": 661650,
-      "num": 273826,
+      "num": 288470,
       "word": "月薪2万吃不起的百果园栽了",
       "onboard_time": 1711022480,
       "rank": 21,
@@ -489,6 +497,14 @@
       "onboard_time": 1710991352,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 645429,
+      "num": 645429,
+      "word": "库克给郑恺iPhone签名",
+      "onboard_time": 1711022898,
+      "rank": 7,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 635434,
@@ -555,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 559944,
+      "num": 559944,
+      "word": "英诊所或因瞒报凯特隐私泄露收天价罚单",
+      "onboard_time": 1711023139,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 553055,
       "num": 626814,
       "word": "医院工作人员窃取凯特王妃病历未遂",
@@ -587,12 +611,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 539515,
-      "num": 539515,
-      "word": "库克给郑恺iPhone签名",
-      "onboard_time": 1711022898,
-      "rank": 7,
-      "category": "艺人,数码"
+      "raw_hot": 534228,
+      "num": 534228,
+      "word": "郑合惠子上桌原因",
+      "onboard_time": 1711024038,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 528446,
@@ -601,6 +625,14 @@
       "onboard_time": 1710947078,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 525721,
+      "num": 525721,
+      "word": "花间令直播",
+      "onboard_time": 1711019959,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 519617,
@@ -731,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 443392,
+      "num": 443392,
+      "word": "新加坡vs国足",
+      "onboard_time": 1711022720,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 440296,
       "num": 440296,
       "word": "郑恩彩金忠宰恋情",
@@ -808,14 +848,6 @@
       "word": "行云去世",
       "onboard_time": 1710976948,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 388869,
-      "num": 388869,
-      "word": "花间令直播",
-      "onboard_time": 1711019959,
-      "rank": 19,
       "category": "剧集"
     },
     {
@@ -987,22 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 307363,
-      "num": 307363,
-      "word": "英诊所或因瞒报凯特隐私泄露收天价罚单",
-      "onboard_time": 1711023139,
-      "rank": 16,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 306349,
-      "num": 306349,
-      "word": "新加坡vs国足",
-      "onboard_time": 1711022720,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 301303,
       "num": 301303,
       "word": "腾讯8款游戏年收入超40亿",
@@ -1097,6 +1113,14 @@
       "onboard_time": 1710996819,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 271787,
+      "num": 271787,
+      "word": "天塌下来有荒的脸顶着",
+      "onboard_time": 1711024638,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 271755,
@@ -1283,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230017,
+      "num": 230017,
+      "word": "瑞幸酱香拿铁被曝销量差",
+      "onboard_time": 1711024579,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 229466,
       "num": 229466,
       "word": "拼多多涨逾15%",
@@ -1297,14 +1329,6 @@
       "onboard_time": 1710997115,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 228304,
-      "num": 228304,
-      "word": "郑合惠子上桌原因",
-      "onboard_time": 1711024038,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 227696,
@@ -1361,6 +1385,14 @@
       "onboard_time": 1710951928,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224661,
+      "num": 224661,
+      "word": "陈都灵清宫装写真",
+      "onboard_time": 1711023798,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 223439,
@@ -1571,12 +1603,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205582,
+      "num": 205582,
+      "word": "林俊杰深圳二次开票",
+      "onboard_time": 1711024459,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205331,
       "num": 198900,
       "word": "张晚意 卷毛小狗",
       "onboard_time": 1711023199,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205231,
+      "num": 205231,
+      "word": "韩媒为林孝埈鸣不平",
+      "onboard_time": 1711025000,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 203984,
@@ -1771,6 +1819,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 193571,
+      "num": 193571,
+      "word": "王一博 进步",
+      "onboard_time": 1711025000,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193109,
       "num": 193109,
       "word": "与凤行",
@@ -1827,12 +1883,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186776,
+      "num": 186776,
+      "word": "网飞三体 魔改",
+      "onboard_time": 1711021338,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186591,
       "num": 186591,
       "word": "万合天宜",
       "onboard_time": 1710989612,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186560,
+      "num": 186560,
+      "word": "追风者质感",
+      "onboard_time": 1711024158,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 185277,
@@ -1851,12 +1923,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184588,
-      "num": 184588,
-      "word": "网飞三体 魔改",
-      "onboard_time": 1711021338,
+      "raw_hot": 184185,
+      "num": 184185,
+      "word": "吴磊绿毛衣",
+      "onboard_time": 1711025059,
       "rank": 41,
-      "category": "剧集"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 183972,
@@ -1897,14 +1969,6 @@
       "onboard_time": 1710987995,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 181102,
-      "num": 181102,
-      "word": "陈都灵清宫装写真",
-      "onboard_time": 1711023798,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 180828,
@@ -2155,14 +2219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161441,
-      "num": 161441,
-      "word": "王一博演技",
-      "onboard_time": 1711024158,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161228,
       "num": 161228,
       "word": "吴彦祖晒与贾玲自拍",
@@ -2177,14 +2233,6 @@
       "onboard_time": 1710990510,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160468,
-      "num": 152433,
-      "word": "追风者质感",
-      "onboard_time": 1711024158,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 159561,
@@ -2899,6 +2947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 74276,
+      "num": 190690,
+      "word": "7亿快手老铁是团购消费最大增量",
+      "onboard_time": 1711022420,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73286,
       "num": 73286,
       "word": "曹恩齐方回应机场抵制代拍",
@@ -2953,14 +3009,6 @@
       "onboard_time": 1710945816,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 64075,
-      "num": 190690,
-      "word": "7亿快手老铁是团购消费最大增量",
-      "onboard_time": 1711022420,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63823,
@@ -3100,7 +3148,7 @@
     },
     {
       "raw_hot": 35441,
-      "num": 273875,
+      "num": 288589,
       "word": "赵丽颖和大家说晚安",
       "onboard_time": 1711021038,
       "rank": 20,
@@ -3139,7 +3187,7 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 14756,
+      "raw_hot": 16406,
       "num": 190709,
       "word": "慕思AI床垫实测",
       "onboard_time": 1711022359,

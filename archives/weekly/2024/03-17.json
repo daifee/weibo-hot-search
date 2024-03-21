@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711024233014,
+  "endTime": 1711025195629,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -987,6 +987,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1233051,
+      "num": 1126085,
+      "word": "梦中梦中梦中梦中梦",
+      "onboard_time": 1711019300,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1225304,
       "num": 1225304,
       "word": "李惠利吴世勋裴秀智毕业合照",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1710822937,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1126085,
-      "num": 1126085,
-      "word": "梦中梦中梦中梦中梦",
-      "onboard_time": 1711019300,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 1123525,
@@ -1915,6 +1915,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 789656,
+      "num": 789656,
+      "word": "消保委点名周杰伦演唱会抢票先充VIP",
+      "onboard_time": 1711021278,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 787269,
       "num": 787269,
       "word": "315打假名单",
@@ -2073,14 +2081,6 @@
       "onboard_time": 1710778768,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 751024,
-      "num": 751024,
-      "word": "消保委点名周杰伦演唱会抢票先充VIP",
-      "onboard_time": 1711021278,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 750583,
@@ -2281,6 +2281,14 @@
       "onboard_time": 1710998193,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 715316,
+      "num": 715316,
+      "word": "王一博演技",
+      "onboard_time": 1711024158,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 715083,
@@ -2484,7 +2492,7 @@
     },
     {
       "raw_hot": 661650,
-      "num": 273826,
+      "num": 288470,
       "word": "月薪2万吃不起的百果园栽了",
       "onboard_time": 1711022480,
       "rank": 21,
@@ -2577,6 +2585,14 @@
       "onboard_time": 1710680137,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 645429,
+      "num": 645429,
+      "word": "库克给郑恺iPhone签名",
+      "onboard_time": 1711022898,
+      "rank": 7,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 644189,
@@ -3091,6 +3107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 559944,
+      "num": 559944,
+      "word": "英诊所或因瞒报凯特隐私泄露收天价罚单",
+      "onboard_time": 1711023139,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 558486,
       "num": 558486,
       "word": "当我收到了我的二月份工资",
@@ -3259,14 +3283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 539515,
-      "num": 539515,
-      "word": "库克给郑恺iPhone签名",
-      "onboard_time": 1711022898,
-      "rank": 7,
-      "category": "艺人,数码"
-    },
-    {
       "raw_hot": 538381,
       "num": 538381,
       "word": "梅州警方回应男孩疑似猥亵小女孩",
@@ -3289,6 +3305,14 @@
       "onboard_time": 1710838417,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 534228,
+      "num": 534228,
+      "word": "郑合惠子上桌原因",
+      "onboard_time": 1711024038,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 533750,
@@ -3329,6 +3353,14 @@
       "onboard_time": 1710761374,
       "rank": 31,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 525721,
+      "num": 525721,
+      "word": "花间令直播",
+      "onboard_time": 1711019959,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 524951,
@@ -4011,6 +4043,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 443392,
+      "num": 443392,
+      "word": "新加坡vs国足",
+      "onboard_time": 1711022720,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 440709,
       "num": 440709,
       "word": "王曼昱世界排名重返第二",
@@ -4577,14 +4617,6 @@
       "onboard_time": 1710915868,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 388869,
-      "num": 388869,
-      "word": "花间令直播",
-      "onboard_time": 1711019959,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 387169,
@@ -5571,14 +5603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 307363,
-      "num": 307363,
-      "word": "英诊所或因瞒报凯特隐私泄露收天价罚单",
-      "onboard_time": 1711023139,
-      "rank": 16,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 307022,
       "num": 307022,
       "word": "吹风机做虾",
@@ -5609,14 +5633,6 @@
       "onboard_time": 1710686866,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 306349,
-      "num": 306349,
-      "word": "新加坡vs国足",
-      "onboard_time": 1711022720,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 305006,
@@ -6217,6 +6233,14 @@
       "onboard_time": 1710803304,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 271787,
+      "num": 271787,
+      "word": "天塌下来有荒的脸顶着",
+      "onboard_time": 1711024638,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 271755,
@@ -7115,6 +7139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230017,
+      "num": 230017,
+      "word": "瑞幸酱香拿铁被曝销量差",
+      "onboard_time": 1711024579,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 229949,
       "num": 229949,
       "word": "种地吧种了郁金香",
@@ -7169,14 +7201,6 @@
       "onboard_time": 1710826955,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228304,
-      "num": 228304,
-      "word": "郑合惠子上桌原因",
-      "onboard_time": 1711024038,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 227712,
@@ -7321,6 +7345,14 @@
       "onboard_time": 1710921817,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 224661,
+      "num": 224661,
+      "word": "陈都灵清宫装写真",
+      "onboard_time": 1711023798,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 224613,
@@ -8219,6 +8251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205582,
+      "num": 205582,
+      "word": "林俊杰深圳二次开票",
+      "onboard_time": 1711024459,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205331,
       "num": 198900,
       "word": "张晚意 卷毛小狗",
@@ -8233,6 +8273,14 @@
       "onboard_time": 1710824795,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205231,
+      "num": 205231,
+      "word": "韩媒为林孝埈鸣不平",
+      "onboard_time": 1711025000,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 204874,
@@ -8971,6 +9019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193571,
+      "num": 193571,
+      "word": "王一博 进步",
+      "onboard_time": 1711025000,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193570,
       "num": 193570,
       "word": "珉佑",
@@ -9347,6 +9403,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 186776,
+      "num": 186776,
+      "word": "网飞三体 魔改",
+      "onboard_time": 1711021338,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186722,
       "num": 186722,
       "word": "迪丽热巴陈星旭怎么鬼鬼祟祟的",
@@ -9361,6 +9425,14 @@
       "onboard_time": 1710989612,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186560,
+      "num": 186560,
+      "word": "追风者质感",
+      "onboard_time": 1711024158,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 186352,
@@ -9475,14 +9547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184588,
-      "num": 184588,
-      "word": "网飞三体 魔改",
-      "onboard_time": 1711021338,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184550,
       "num": 184550,
       "word": "Tods集团去年净利翻番",
@@ -9497,6 +9561,14 @@
       "onboard_time": 1710915392,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184185,
+      "num": 184185,
+      "word": "吴磊绿毛衣",
+      "onboard_time": 1711025059,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184007,
@@ -9633,14 +9705,6 @@
       "onboard_time": 1710826232,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 181102,
-      "num": 181102,
-      "word": "陈都灵清宫装写真",
-      "onboard_time": 1711023798,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 181003,
@@ -10747,14 +10811,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 161441,
-      "num": 161441,
-      "word": "王一博演技",
-      "onboard_time": 1711024158,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161395,
       "num": 161395,
       "word": "为什么我们越来越不想和长辈交流",
@@ -10809,14 +10865,6 @@
       "onboard_time": 1710925655,
       "rank": 24,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 160468,
-      "num": 152433,
-      "word": "追风者质感",
-      "onboard_time": 1711024158,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 159629,
@@ -13867,6 +13915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74276,
+      "num": 190690,
+      "word": "7亿快手老铁是团购消费最大增量",
+      "onboard_time": 1711022420,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73288,
       "num": 287731,
       "word": "大学生买游戏本还是轻薄本",
@@ -14025,14 +14081,6 @@
       "onboard_time": 1710600397,
       "rank": 29,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 64075,
-      "num": 190690,
-      "word": "7亿快手老铁是团购消费最大增量",
-      "onboard_time": 1711022420,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 63700,
@@ -14372,7 +14420,7 @@
     },
     {
       "raw_hot": 35441,
-      "num": 273875,
+      "num": 288589,
       "word": "赵丽颖和大家说晚安",
       "onboard_time": 1711021038,
       "rank": 20,
@@ -14611,6 +14659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 16406,
+      "num": 190709,
+      "word": "慕思AI床垫实测",
+      "onboard_time": 1711022359,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 16284,
       "num": 19774,
       "word": "重生之我在古装短剧里当丫鬟",
@@ -14625,14 +14681,6 @@
       "onboard_time": 1710620897,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14756,
-      "num": 190709,
-      "word": "慕思AI床垫实测",
-      "onboard_time": 1711022359,
-      "rank": 38,
-      "category": "科学科普"
     },
     {
       "raw_hot": 14664,
