@@ -1,7 +1,15 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1710984729303,
+  "endTime": 1710987878054,
   "band_list": [
+    {
+      "raw_hot": 2507383,
+      "num": 2507383,
+      "word": "大学生乳头以下突然没知觉被同学送医",
+      "onboard_time": 1710986073,
+      "rank": 0,
+      "category": "健康医疗"
+    },
     {
       "raw_hot": 1640983,
       "num": 1640983,
@@ -35,12 +43,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 862574,
-      "num": 862574,
+      "raw_hot": 1108881,
+      "num": 1108881,
       "word": "螺蛳粉 增臭剂",
       "onboard_time": 1710983253,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 947438,
+      "num": 947438,
+      "word": "古驰突然就卖不动了",
+      "onboard_time": 1710982592,
+      "rank": 20,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 818870,
+      "num": 818870,
+      "word": "杨幂黄金",
+      "onboard_time": 1710985289,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 809548,
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 701951,
-      "num": 443060,
+      "num": 530683,
       "word": "被遗弃女婴公示寻找期满前找到亲生父母",
       "onboard_time": 1710982111,
       "rank": 29,
@@ -105,14 +129,6 @@
       "onboard_time": 1710934180,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 665022,
-      "num": 665022,
-      "word": "古驰突然就卖不动了",
-      "onboard_time": 1710982592,
-      "rank": 20,
-      "category": "时尚"
     },
     {
       "raw_hot": 655834,
@@ -131,12 +147,36 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 624683,
+      "num": 624683,
+      "word": "爱你官宣开机",
+      "onboard_time": 1710986252,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 622427,
+      "num": 622427,
+      "word": "白客郑合惠子 万合天宜",
+      "onboard_time": 1710986675,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 612206,
       "num": 242313,
       "word": "河北邯郸一高中生被同学打伤睾丸",
       "onboard_time": 1710948992,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 609057,
+      "num": 609057,
+      "word": "陈乔恩 陈欣怡",
+      "onboard_time": 1710983852,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 591905,
@@ -171,6 +211,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 507714,
+      "num": 507714,
+      "word": "檀健次郑合惠子 主持",
+      "onboard_time": 1710984332,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 496677,
       "num": 496677,
       "word": "王一博完了完了完了",
@@ -193,6 +241,14 @@
       "onboard_time": 1710981814,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 404945,
+      "num": 404945,
+      "word": "加拿大快递员11年偷走866台苹果设备",
+      "onboard_time": 1710986311,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394174,
@@ -259,14 +315,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 305369,
-      "num": 305369,
-      "word": "陈乔恩 陈欣怡",
-      "onboard_time": 1710983852,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 301303,
       "num": 301303,
       "word": "腾讯8款游戏年收入超40亿",
@@ -289,6 +337,22 @@
       "onboard_time": 1710945928,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284395,
+      "num": 284395,
+      "word": "淀门永存",
+      "onboard_time": 1710986490,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 282087,
+      "num": 282087,
+      "word": "突然发现身边的同龄人都已经买车了",
+      "onboard_time": 1710985532,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 280665,
@@ -323,6 +387,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 252283,
+      "num": 252283,
+      "word": "女性更容易睡不好",
+      "onboard_time": 1710986914,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 250920,
+      "num": 250920,
+      "word": "珠帘玉幕",
+      "onboard_time": 1710987453,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247881,
       "num": 242294,
       "word": "自己烧水和买桶装水喝哪个更健康",
@@ -331,12 +411,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 236386,
-      "num": 236386,
-      "word": "檀健次郑合惠子 主持",
-      "onboard_time": 1710984332,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 246714,
+      "num": 246714,
+      "word": "夫宇淀粉肠",
+      "onboard_time": 1710984033,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 241376,
+      "num": 220996,
+      "word": "妈妈我不是你的名牌包",
+      "onboard_time": 1710985711,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229466,
@@ -387,20 +475,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 220225,
+      "num": 220225,
+      "word": "闪耀暖暖",
+      "onboard_time": 1710985770,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 220135,
       "num": 220135,
       "word": "日媒称一中国富豪借给福原爱3亿日元",
       "onboard_time": 1710936756,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 219315,
-      "num": 219315,
-      "word": "夫宇淀粉肠",
-      "onboard_time": 1710984033,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 209853,
@@ -411,12 +499,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207411,
+      "num": 207411,
+      "word": "郑合惠子 嘴替",
+      "onboard_time": 1710984933,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206978,
+      "num": 221521,
+      "word": "黄金",
+      "onboard_time": 1710987634,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 206596,
+      "num": 206596,
+      "word": "被优秀的女朋友拿捏了",
+      "onboard_time": 1710985532,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205674,
       "num": 205674,
       "word": "金高银撑住了贴头皮造型",
       "onboard_time": 1710958638,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203984,
+      "num": 552245,
+      "word": "樱花香到底是什么味",
+      "onboard_time": 1710986791,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197877,
@@ -443,6 +563,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184653,
+      "num": 184653,
+      "word": "新说唱KC",
+      "onboard_time": 1710987213,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184112,
+      "num": 184112,
+      "word": "刘学义工作室",
+      "onboard_time": 1710987393,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183972,
       "num": 183972,
       "word": "上班林黛玉 下班苏炳添",
@@ -457,6 +593,14 @@
       "onboard_time": 1710982294,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 176663,
+      "num": 176663,
+      "word": "骑行也开始消费降级了",
+      "onboard_time": 1710984933,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 176510,
@@ -499,6 +643,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165934,
+      "num": 165934,
+      "word": "山东小钺钺",
+      "onboard_time": 1710987213,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 165431,
+      "num": 165431,
+      "word": "雷军",
+      "onboard_time": 1710984273,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 164935,
       "num": 164935,
       "word": "00后才是最适合当老板的这批人",
@@ -515,6 +675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154456,
+      "num": 154456,
+      "word": "广西螺蛳粉 香的",
+      "onboard_time": 1710987634,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 152421,
       "num": 152421,
       "word": "杨迪回复沈梦辰",
@@ -523,20 +691,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151932,
+      "num": 151932,
+      "word": "张凌赫徐若晗 现偶",
+      "onboard_time": 1710987752,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151406,
       "num": 151406,
       "word": "承欢记要来了",
       "onboard_time": 1710942456,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149008,
-      "num": 149008,
-      "word": "雷军",
-      "onboard_time": 1710984273,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 147887,
@@ -563,6 +731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144360,
+      "num": 144360,
+      "word": "开封王婆",
+      "onboard_time": 1710986553,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143666,
       "num": 143666,
       "word": "打工和创业的区别有多大",
@@ -585,6 +761,14 @@
       "onboard_time": 1710981934,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135703,
+      "num": 135703,
+      "word": "追风者",
+      "onboard_time": 1710986490,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 135611,
@@ -971,8 +1155,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 49593,
+      "num": 406982,
+      "word": "淘宝红人之夜 红人穿搭",
+      "onboard_time": 1710986434,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 44769,
-      "num": 909903,
+      "num": 1158300,
       "word": "春好正是耕种时",
       "onboard_time": 1710940054,
       "rank": 2,
