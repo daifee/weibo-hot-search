@@ -1,6 +1,6 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1711009241203,
+  "endTime": 1711010080936,
   "band_list": [
     {
       "raw_hot": 3011106,
@@ -83,6 +83,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1248019,
+      "num": 1248019,
+      "word": "乳房自检不能捏而要按",
+      "onboard_time": 1711005454,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1242449,
       "num": 1242449,
       "word": "吴彦祖去看贾玲了",
@@ -131,14 +139,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1004291,
-      "num": 1004291,
-      "word": "乳房自检不能捏而要按",
-      "onboard_time": 1711005454,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 950166,
       "num": 950166,
       "word": "女生真的不能带着情绪过夜",
@@ -163,6 +163,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 903367,
+      "num": 903367,
+      "word": "甄嬛传原定结局",
+      "onboard_time": 1711007133,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 896661,
       "num": 896661,
       "word": "黄金",
@@ -179,20 +187,20 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 872815,
+      "num": 872815,
+      "word": "鲜芋仙致歉声明",
+      "onboard_time": 1711006700,
+      "rank": 4,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 857922,
       "num": 857922,
       "word": "杨幂黄金",
       "onboard_time": 1710985289,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 842919,
-      "num": 842919,
-      "word": "鲜芋仙致歉声明",
-      "onboard_time": 1711006700,
-      "rank": 4,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 809548,
@@ -233,14 +241,6 @@
       "onboard_time": 1710930218,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 779087,
-      "num": 779087,
-      "word": "甄嬛传原定结局",
-      "onboard_time": 1711007133,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 740345,
@@ -363,6 +363,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 627663,
+      "num": 627663,
+      "word": "别被8小时睡眠论给骗了",
+      "onboard_time": 1711005752,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 624683,
       "num": 624683,
       "word": "爱你官宣开机",
@@ -425,6 +433,14 @@
       "onboard_time": 1710992912,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 533876,
+      "num": 533876,
+      "word": "杨幂背部身材",
+      "onboard_time": 1711009580,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 528446,
@@ -635,14 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 366804,
-      "num": 366804,
-      "word": "别被8小时睡眠论给骗了",
-      "onboard_time": 1711005752,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 356805,
       "num": 356805,
       "word": "电影红楼梦秦可卿造型引争议",
@@ -723,6 +731,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 325407,
+      "num": 325407,
+      "word": "周也面容ID无法识别",
+      "onboard_time": 1711007719,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 309842,
       "num": 309842,
       "word": "用一个月工资改造了出租房",
@@ -761,6 +777,14 @@
       "onboard_time": 1710981336,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 295927,
+      "num": 295927,
+      "word": "教育局回应校园欺凌生最后投档",
+      "onboard_time": 1711008858,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292483,
@@ -947,11 +971,11 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 235240,
-      "num": 235240,
-      "word": "周也面容ID无法识别",
-      "onboard_time": 1711007719,
-      "rank": 23,
+      "raw_hot": 236294,
+      "num": 236294,
+      "word": "网飞三体特效",
+      "onboard_time": 1711008559,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1020,7 +1044,7 @@
     },
     {
       "raw_hot": 225878,
-      "num": 570399,
+      "num": 632437,
       "word": "柳州螺蛳粉协会秘书长谈增臭剂",
       "onboard_time": 1711002030,
       "rank": 38,
@@ -1179,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201047,
+      "num": 201047,
+      "word": "张琳芃担任国足队长",
+      "onboard_time": 1711009351,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200993,
       "num": 200993,
       "word": "王一博哭戏",
@@ -1299,6 +1331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 188633,
+      "num": 188633,
+      "word": "猫咪出去玩偷了只三花回来",
+      "onboard_time": 1711006519,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186591,
       "num": 186591,
       "word": "万合天宜",
@@ -1353,14 +1393,6 @@
       "onboard_time": 1711005096,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 179270,
-      "num": 179270,
-      "word": "猫咪出去玩偷了只三花回来",
-      "onboard_time": 1711006519,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 176510,
@@ -1419,20 +1451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170792,
+      "num": 628713,
+      "word": "原来淘宝店主都这么美",
+      "onboard_time": 1711007133,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 169786,
       "num": 169786,
       "word": "熊猫小时候也喜欢边玩边吃",
       "onboard_time": 1710983189,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169541,
-      "num": 169541,
-      "word": "网飞三体特效",
-      "onboard_time": 1711008559,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 168967,
@@ -1539,14 +1571,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 158499,
-      "num": 158499,
-      "word": "教育局回应校园欺凌生最后投档",
-      "onboard_time": 1711008858,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 155818,
       "num": 155818,
       "word": "锦月如歌杀青",
@@ -1609,6 +1633,14 @@
       "onboard_time": 1710987933,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148260,
+      "num": 148260,
+      "word": "叶蓁蓁的底色是纯粹",
+      "onboard_time": 1711009278,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 147898,
@@ -1699,6 +1731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 139346,
+      "num": 139346,
+      "word": "不知不觉就到了拍花的年龄",
+      "onboard_time": 1711009278,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139190,
       "num": 139190,
       "word": "槽头肉都不能吃吗",
@@ -1745,6 +1785,14 @@
       "onboard_time": 1710927818,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 132506,
+      "num": 146421,
+      "word": "国足今晚能取三分吗",
+      "onboard_time": 1711009639,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 132441,
@@ -1827,20 +1875,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 127932,
-      "num": 529080,
-      "word": "原来淘宝店主都这么美",
-      "onboard_time": 1711007133,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 126895,
       "num": 126895,
       "word": "失眠多梦可能是它造成的",
       "onboard_time": 1710989852,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 126230,
+      "num": 310939,
+      "word": "小米Civi4Pro真香",
+      "onboard_time": 1711008211,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 125880,
@@ -1873,6 +1921,22 @@
       "onboard_time": 1710982054,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 123395,
+      "num": 123395,
+      "word": "世预赛",
+      "onboard_time": 1711009879,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123341,
+      "num": 123341,
+      "word": "丞磊拍的周也张淼怡",
+      "onboard_time": 1711010058,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 120549,
@@ -1931,12 +1995,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 109586,
-      "num": 310939,
-      "word": "小米Civi4Pro真香",
-      "onboard_time": 1711008211,
-      "rank": 20,
-      "category": "数码"
+      "raw_hot": 108880,
+      "num": 122176,
+      "word": "医院工作人员窃取凯特王妃病历未遂",
+      "onboard_time": 1711010058,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 107828,
@@ -2315,7 +2379,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 9614,
+      "raw_hot": 9642,
       "num": 1272882,
       "word": "认识你真好",
       "onboard_time": 1710834813,
