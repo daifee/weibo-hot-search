@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1711017334891,
+  "endTime": 1711019720707,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -545,6 +545,14 @@
       "onboard_time": 1710504037,
       "rank": 4,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 2432910,
+      "num": 2432910,
+      "word": "杜海涛爆改",
+      "onboard_time": 1711016419,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2413924,
@@ -1200,6 +1208,14 @@
       "word": "女子淀粉肠创业开始即结束",
       "onboard_time": 1710632964,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1862763,
+      "num": 1862763,
+      "word": "重庆姐弟坠亡案生母患甲状腺癌",
+      "onboard_time": 1711016839,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -5875,6 +5891,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 886949,
+      "num": 886949,
+      "word": "玄彬孙艺珍孔刘李栋旭一起看球赛",
+      "onboard_time": 1711018219,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 883396,
       "num": 883396,
       "word": "肖战藏海传官服造型",
@@ -5947,14 +5971,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 878649,
-      "num": 878649,
-      "word": "杜海涛爆改",
-      "onboard_time": 1711016419,
-      "rank": 1,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 878527,
       "num": 878527,
       "word": "李商隐你耍我",
@@ -5985,6 +6001,14 @@
       "onboard_time": 1709542353,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 877539,
+      "num": 877539,
+      "word": "预制菜明确不允许添加防腐剂",
+      "onboard_time": 1711016659,
+      "rank": 17,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 877089,
@@ -7411,6 +7435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 760034,
+      "num": 760034,
+      "word": "杨幂再现月牙笑",
+      "onboard_time": 1711015759,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 760029,
       "num": 760029,
       "word": "龙抬头",
@@ -8643,6 +8675,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 695738,
+      "num": 695738,
+      "word": "清华大学巅班",
+      "onboard_time": 1711018160,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 695302,
       "num": 695302,
       "word": "淀粉肠生产企业董事长直播吃淀粉肠",
@@ -8713,14 +8753,6 @@
       "onboard_time": 1709299953,
       "rank": 41,
       "category": "美食,综艺"
-    },
-    {
-      "raw_hot": 691754,
-      "num": 691754,
-      "word": "杨幂再现月牙笑",
-      "onboard_time": 1711015759,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 691658,
@@ -15571,14 +15603,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 444457,
-      "num": 444457,
-      "word": "重庆姐弟坠亡案生母患甲状腺癌",
-      "onboard_time": 1711016839,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 444218,
       "num": 444218,
       "word": "高合创始人丁磊声明",
@@ -16291,14 +16315,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 429510,
-      "num": 429510,
-      "word": "预制菜明确不允许添加防腐剂",
-      "onboard_time": 1711016659,
-      "rank": 17,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 429475,
       "num": 290994,
       "word": "晚学",
@@ -16353,6 +16369,14 @@
       "onboard_time": 1709255192,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427926,
+      "num": 427926,
+      "word": "反诈老陈晒2023年收入",
+      "onboard_time": 1711018397,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427881,
@@ -22171,6 +22195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 307899,
+      "num": 307899,
+      "word": "lululemon爆火后被lulu们收割",
+      "onboard_time": 1711018461,
+      "rank": 20,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 307826,
       "num": 307826,
       "word": "十个勤天或将录制hi6",
@@ -22673,6 +22705,14 @@
       "onboard_time": 1709863288,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 299905,
+      "num": 312308,
+      "word": "gidle MLB舞台",
+      "onboard_time": 1711018700,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 299866,
@@ -24824,6 +24864,14 @@
       "word": "存多少钱能低质量躺平",
       "onboard_time": 1709639851,
       "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 271282,
+      "num": 271282,
+      "word": "你手机号的前主人是什么人",
+      "onboard_time": 1711017979,
+      "rank": 23,
       "category": "情感"
     },
     {
@@ -27179,6 +27227,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 244536,
+      "num": 244536,
+      "word": "库克 交大",
+      "onboard_time": 1711015938,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 244457,
       "num": 244457,
       "word": "孩子聪不聪明看手上几个动作",
@@ -27721,14 +27777,6 @@
       "onboard_time": 1710908496,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 239860,
-      "num": 239860,
-      "word": "库克 交大",
-      "onboard_time": 1711015938,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 239777,
@@ -28753,6 +28801,14 @@
       "onboard_time": 1710813632,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229723,
+      "num": 229723,
+      "word": "杨幂重返小时代取景地",
+      "onboard_time": 1711019060,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229693,
@@ -29969,6 +30025,14 @@
       "onboard_time": 1710231395,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 221477,
+      "num": 221477,
+      "word": "国足首发",
+      "onboard_time": 1711018098,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 221476,
@@ -31347,6 +31411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212689,
+      "num": 212689,
+      "word": "卵巢癌为何一发现就是晚期",
+      "onboard_time": 1711016599,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 212610,
       "num": 212610,
       "word": "钟薛高创始人曾回应定价高",
@@ -32496,6 +32568,14 @@
       "word": "妇女节放假应该是上午还是下午",
       "onboard_time": 1709807252,
       "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 206122,
+      "num": 206122,
+      "word": "梦中梦中梦中梦中梦",
+      "onboard_time": 1711019300,
+      "rank": 31,
       "category": "情感"
     },
     {
@@ -34179,6 +34259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198320,
+      "num": 198320,
+      "word": "代号鸢 战斗爽",
+      "onboard_time": 1711019359,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198302,
       "num": 198302,
       "word": "杨紫琼 魔方小姐",
@@ -34457,6 +34545,14 @@
       "onboard_time": 1709957250,
       "rank": 27,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 197368,
+      "num": 197368,
+      "word": "这场爆改闹剧什么时候结束",
+      "onboard_time": 1711019060,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197359,
@@ -37611,6 +37707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183029,
+      "num": 183029,
+      "word": "LNG回应管泽元",
+      "onboard_time": 1711018461,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183006,
       "num": 183006,
       "word": "妈妈我偷偷瞒着你做了很多事",
@@ -38617,6 +38721,14 @@
       "onboard_time": 1710168992,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178673,
+      "num": 178673,
+      "word": "张艺兴游园自拍",
+      "onboard_time": 1711019480,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 178603,
@@ -39675,6 +39787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 173412,
+      "num": 173412,
+      "word": "justfoto崩了",
+      "onboard_time": 1711019419,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 173300,
       "num": 173300,
       "word": "王楚钦这一球好帅",
@@ -40555,6 +40675,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 169151,
+      "num": 169151,
+      "word": "我拍的春和景明",
+      "onboard_time": 1711018937,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169132,
       "num": 169132,
       "word": "妈妈永远都不会离开我们的证明",
@@ -40761,6 +40889,14 @@
       "onboard_time": 1710730352,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167946,
+      "num": 173887,
+      "word": "费南多首发",
+      "onboard_time": 1711019180,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 167910,
@@ -41753,14 +41889,6 @@
       "onboard_time": 1709809113,
       "rank": 28,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 163716,
-      "num": 163716,
-      "word": "卵巢癌为何一发现就是晚期",
-      "onboard_time": 1711016599,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 163582,
@@ -43305,6 +43433,14 @@
       "onboard_time": 1709636073,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157598,
+      "num": 157598,
+      "word": "赵丽颖林更新片场牵手未遂",
+      "onboard_time": 1711017799,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 157596,
@@ -49785,6 +49921,14 @@
       "onboard_time": 1709867849,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 130535,
+      "num": 130535,
+      "word": "白羊座不会被爱征服",
+      "onboard_time": 1711019599,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 130507,
@@ -58308,7 +58452,7 @@
     },
     {
       "raw_hot": 44578,
-      "num": 1007326,
+      "num": 1373291,
       "word": "用课本封面打开春耕画卷",
       "onboard_time": 1710995737,
       "rank": 2,
