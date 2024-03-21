@@ -1,0 +1,410 @@
+{
+  "runTime": 1710988573525,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3011106,
+        "num": 3011106,
+        "word": "大学生乳头以下突然没知觉被同学送医",
+        "onboard_time": 1710986073,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1196057,
+        "num": 1196057,
+        "word": "千万不要等到胸部不舒服了再重视",
+        "onboard_time": 1710980437,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33427,
+        "num": 965370,
+        "word": "春好正是耕种时",
+        "onboard_time": 1710940054,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908767,
+        "num": 908767,
+        "word": "白客郑合惠子 万合天宜",
+        "onboard_time": 1710986675,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 886079,
+        "num": 886079,
+        "word": "螺蛳粉 增臭剂",
+        "onboard_time": 1710983253,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 857922,
+        "num": 857922,
+        "word": "杨幂黄金",
+        "onboard_time": 1710985289,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 776234,
+        "num": 776234,
+        "word": "古驰突然就卖不动了",
+        "onboard_time": 1710982592,
+        "rank": 6,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 562382,
+        "num": 562382,
+        "word": "加拿大快递员11年偷走866台苹果设备",
+        "onboard_time": 1710986311,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555082,
+        "num": 555082,
+        "word": "爱你官宣开机",
+        "onboard_time": 1710986252,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 500899,
+        "num": 528910,
+        "word": "黄金",
+        "onboard_time": 1710987634,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 508534,
+        "num": 508534,
+        "word": "被遗弃女婴公示寻找期满前找到亲生父母",
+        "onboard_time": 1710982111,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502436,
+        "num": 502436,
+        "word": "陈乔恩 陈欣怡",
+        "onboard_time": 1710983852,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410345,
+        "num": 410345,
+        "word": "檀健次郑合惠子 主持",
+        "onboard_time": 1710984332,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322095,
+        "num": 322095,
+        "word": "赵丽颖说拍大结局从早哭到晚",
+        "onboard_time": 1710978571,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39017,
+        "num": 318759,
+        "word": "淘宝红人之夜 红人穿搭",
+        "onboard_time": 1710986434,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 317222,
+        "num": 317222,
+        "word": "不吃早饭比不吃晚饭危害更大吗",
+        "onboard_time": 1710966616,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 308904,
+        "num": 308904,
+        "word": "珠帘玉幕",
+        "onboard_time": 1710987453,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298814,
+        "num": 298814,
+        "word": "窝囊系艺人",
+        "onboard_time": 1710987873,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296715,
+        "num": 296715,
+        "word": "张凌赫徐若晗 现偶",
+        "onboard_time": 1710987752,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248326,
+        "num": 296618,
+        "word": "市监巡查人员被螺蛳粉店增臭剂臭到咳嗽",
+        "onboard_time": 1710988053,
+        "rank": 19,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 296542,
+        "num": 296542,
+        "word": "权杖女王爆锤代拍",
+        "onboard_time": 1710987995,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292222,
+        "num": 292222,
+        "word": "妈妈我不是你的名牌包",
+        "onboard_time": 1710985711,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181656,
+        "num": 280632,
+        "word": "质疑理解成为",
+        "onboard_time": 1710987995,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280102,
+        "num": 280102,
+        "word": "结婚邀请了大学室友",
+        "onboard_time": 1710977908,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262781,
+        "num": 262781,
+        "word": "王一博完了完了完了",
+        "onboard_time": 1710978752,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255040,
+        "num": 255040,
+        "word": "突然发现身边的同龄人都已经买车了",
+        "onboard_time": 1710985532,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246223,
+        "num": 246223,
+        "word": "女性更容易睡不好",
+        "onboard_time": 1710986914,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240607,
+        "num": 240607,
+        "word": "淀门永存",
+        "onboard_time": 1710986490,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 218879,
+        "num": 218879,
+        "word": "30多岁和20多岁生孩子有啥差别",
+        "onboard_time": 1710977008,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157872,
+        "num": 208924,
+        "word": "女子怀孕7个月刚独自待5分钟就倒地",
+        "onboard_time": 1710939516,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208681,
+        "num": 208681,
+        "word": "郑合惠子 嘴替",
+        "onboard_time": 1710984933,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200788,
+        "num": 200788,
+        "word": "刘学义郑合惠子拥抱镜头",
+        "onboard_time": 1710988232,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198726,
+        "num": 198726,
+        "word": "电影红楼梦秦可卿造型引争议",
+        "onboard_time": 1710983734,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194091,
+        "num": 194091,
+        "word": "广西螺蛳粉 香的",
+        "onboard_time": 1710987634,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 193692,
+        "num": 193692,
+        "word": "骑行也开始消费降级了",
+        "onboard_time": 1710984933,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185891,
+        "num": 185891,
+        "word": "睡不着的时候试试3个不管不顾",
+        "onboard_time": 1710979170,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192308,
+        "num": 185885,
+        "word": "刘学义工作室",
+        "onboard_time": 1710987393,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185700,
+        "num": 185700,
+        "word": "夫宇淀粉肠",
+        "onboard_time": 1710984033,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 170907,
+        "num": 170907,
+        "word": "被优秀的女朋友拿捏了",
+        "onboard_time": 1710985532,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151340,
+        "num": 164582,
+        "word": "开封王婆",
+        "onboard_time": 1710986553,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162753,
+        "num": 162753,
+        "word": "新款iPadPro被曝更窄边框OLED屏",
+        "onboard_time": 1710981336,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161195,
+        "num": 161195,
+        "word": "雷军",
+        "onboard_time": 1710984273,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 160476,
+        "num": 160476,
+        "word": "新说唱KC",
+        "onboard_time": 1710987213,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159618,
+        "num": 159618,
+        "word": "宫崎骏新作唯一互动是中国观众",
+        "onboard_time": 1710979054,
+        "rank": 43,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 149361,
+        "num": 149361,
+        "word": "姚润昊死宅味",
+        "onboard_time": 1710987933,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148312,
+        "num": 148312,
+        "word": "山东小钺钺",
+        "onboard_time": 1710987213,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 145229,
+        "num": 145229,
+        "word": "每天睡多久才算睡够了",
+        "onboard_time": 1710977668,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143213,
+        "num": 143213,
+        "word": "胸部自检",
+        "onboard_time": 1710975682,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128807,
+        "num": 137850,
+        "word": "樱花香到底是什么味",
+        "onboard_time": 1710986791,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137763,
+        "num": 137763,
+        "word": "肖战横店摄影博主",
+        "onboard_time": 1710988470,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#在更高起点上扎实推动中部地区崛起#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1709223640991,
-  "endTime": 1710987878054,
+  "endTime": 1710988573525,
   "band_list": [
     {
       "raw_hot": 12728050,
@@ -299,6 +299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 3011106,
+      "num": 3011106,
+      "word": "大学生乳头以下突然没知觉被同学送医",
+      "onboard_time": 1710986073,
+      "rank": 0,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 2999065,
       "num": 2999065,
       "word": "成都警方通报天府二街伤害案",
@@ -497,14 +505,6 @@
       "onboard_time": 1709619392,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2507383,
-      "num": 2507383,
-      "word": "大学生乳头以下突然没知觉被同学送医",
-      "onboard_time": 1710986073,
-      "rank": 0,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 2500936,
@@ -5547,6 +5547,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 908767,
+      "num": 908767,
+      "word": "白客郑合惠子 万合天宜",
+      "onboard_time": 1710986675,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 908318,
       "num": 908318,
       "word": "日本单亲妈妈来中国后",
@@ -6083,6 +6091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 857922,
+      "num": 857922,
+      "word": "杨幂黄金",
+      "onboard_time": 1710985289,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 857726,
       "num": 857726,
       "word": "杨紫张予曦撞衫",
@@ -6473,14 +6489,6 @@
       "onboard_time": 1709682629,
       "rank": 13,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 818870,
-      "num": 818870,
-      "word": "杨幂黄金",
-      "onboard_time": 1710985289,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 817955,
@@ -9819,14 +9827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 622427,
-      "num": 622427,
-      "word": "白客郑合惠子 万合天宜",
-      "onboard_time": 1710986675,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 622350,
       "num": 302795,
       "word": "山河四省高中生的十六岁",
@@ -11321,6 +11321,14 @@
       "onboard_time": 1709604086,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 562382,
+      "num": 562382,
+      "word": "加拿大快递员11年偷走866台苹果设备",
+      "onboard_time": 1710986311,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562346,
@@ -13097,6 +13105,14 @@
       "onboard_time": 1709619031,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 500899,
+      "num": 528910,
+      "word": "黄金",
+      "onboard_time": 1710987634,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 500884,
@@ -16808,14 +16824,6 @@
       "word": "妇女节公司为女生开了一间花店",
       "onboard_time": 1709891430,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 404945,
-      "num": 404945,
-      "word": "加拿大快递员11年偷走866台苹果设备",
-      "onboard_time": 1710986311,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -21523,6 +21531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 308904,
+      "num": 308904,
+      "word": "珠帘玉幕",
+      "onboard_time": 1710415651,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308857,
       "num": 308857,
       "word": "朱一龙志愿军2将于国庆档上映",
@@ -22219,6 +22235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 298814,
+      "num": 298814,
+      "word": "窝囊系艺人",
+      "onboard_time": 1710987873,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298768,
       "num": 298768,
       "word": "有价无价",
@@ -22435,12 +22459,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 296715,
+      "num": 296715,
+      "word": "张凌赫徐若晗 现偶",
+      "onboard_time": 1710987752,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296643,
       "num": 296643,
       "word": "笨蛋湘琴",
       "onboard_time": 1710933578,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 296542,
+      "num": 296542,
+      "word": "权杖女王爆锤代拍",
+      "onboard_time": 1710987995,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 296385,
@@ -22801,6 +22841,14 @@
       "onboard_time": 1710154110,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 292222,
+      "num": 292222,
+      "word": "妈妈我不是你的名牌包",
+      "onboard_time": 1710985711,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 291951,
@@ -25859,14 +25907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 250920,
-      "num": 250920,
-      "word": "珠帘玉幕",
-      "onboard_time": 1710415651,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 250889,
       "num": 236671,
       "word": "法国堕胎权入宪",
@@ -26097,6 +26137,14 @@
       "onboard_time": 1710600037,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 248326,
+      "num": 296618,
+      "word": "市监巡查人员被螺蛳粉店增臭剂臭到咳嗽",
+      "onboard_time": 1710988053,
+      "rank": 19,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 248284,
@@ -26857,14 +26905,6 @@
       "onboard_time": 1709532154,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 241376,
-      "num": 220996,
-      "word": "妈妈我不是你的名牌包",
-      "onboard_time": 1710985711,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 241345,
@@ -31195,6 +31235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208681,
+      "num": 208681,
+      "word": "郑合惠子 嘴替",
+      "onboard_time": 1710984933,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208680,
       "num": 208680,
       "word": "泰容 大家要一起幸福",
@@ -31443,14 +31491,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 207411,
-      "num": 207411,
-      "word": "郑合惠子 嘴替",
-      "onboard_time": 1710984933,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207375,
       "num": 207375,
       "word": "藏海花寻迹版预告",
@@ -31513,14 +31553,6 @@
       "onboard_time": 1709805810,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 206978,
-      "num": 221521,
-      "word": "黄金",
-      "onboard_time": 1710987634,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 206975,
@@ -34347,6 +34379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194091,
+      "num": 194091,
+      "word": "广西螺蛳粉 香的",
+      "onboard_time": 1710987634,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 194029,
       "num": 226413,
       "word": "90后女孩成了66位老人的妈妈",
@@ -34408,6 +34448,14 @@
       "word": "我对友谊有些过度依赖",
       "onboard_time": 1709893888,
       "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 193692,
+      "num": 193692,
+      "word": "骑行也开始消费降级了",
+      "onboard_time": 1710984933,
+      "rank": 36,
       "category": "情感"
     },
     {
@@ -34689,6 +34737,14 @@
       "onboard_time": 1709977113,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192308,
+      "num": 185885,
+      "word": "刘学义工作室",
+      "onboard_time": 1710987393,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 192251,
@@ -36419,14 +36475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184112,
-      "num": 184112,
-      "word": "刘学义工作室",
-      "onboard_time": 1710987393,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184095,
       "num": 184095,
       "word": "领证后激动到哭的男朋友",
@@ -36912,6 +36960,14 @@
       "word": "情绪稳定的人 倒霉惯了",
       "onboard_time": 1709250809,
       "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 181656,
+      "num": 280632,
+      "word": "质疑理解成为",
+      "onboard_time": 1710987995,
+      "rank": 22,
       "category": "情感"
     },
     {
@@ -37929,14 +37985,6 @@
       "onboard_time": 1709520689,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176663,
-      "num": 176663,
-      "word": "骑行也开始消费降级了",
-      "onboard_time": 1710984933,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 176644,
@@ -42843,14 +42891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154456,
-      "num": 154456,
-      "word": "广西螺蛳粉 香的",
-      "onboard_time": 1710987634,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 154425,
       "num": 95039,
       "word": "间谍过家家 次子长大了",
@@ -43451,14 +43491,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 151932,
-      "num": 151932,
-      "word": "张凌赫徐若晗 现偶",
-      "onboard_time": 1710987752,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151917,
       "num": 151917,
       "word": "周扬青说现阶段不想找男朋友",
@@ -43601,6 +43633,14 @@
       "onboard_time": 1709266175,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 151340,
+      "num": 164582,
+      "word": "开封王婆",
+      "onboard_time": 1710986553,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151247,
@@ -44033,6 +44073,14 @@
       "onboard_time": 1710767733,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149361,
+      "num": 149361,
+      "word": "姚润昊死宅味",
+      "onboard_time": 1710987933,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 149341,
@@ -45201,14 +45249,6 @@
       "onboard_time": 1710323973,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144360,
-      "num": 144360,
-      "word": "开封王婆",
-      "onboard_time": 1710986553,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144351,
@@ -46665,6 +46705,14 @@
       "onboard_time": 1709361629,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137763,
+      "num": 137763,
+      "word": "肖战横店摄影博主",
+      "onboard_time": 1710988470,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 137759,
