@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711049632018,
+  "endTime": 1711052307210,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -14627,6 +14627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65894,
+      "num": 38999,
+      "word": "女子家门口凌晨4点被人做三角标记",
+      "onboard_time": 1711049350,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65058,
       "num": 65058,
       "word": "沈璃红衣",
@@ -15243,14 +15251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19117,
-      "num": 19849,
-      "word": "女子家门口凌晨4点被人做三角标记",
-      "onboard_time": 1711049350,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17738,
       "num": 248388,
       "word": "AI哄睡靠谱吗",
@@ -15305,6 +15305,14 @@
       "onboard_time": 1710972437,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 14244,
+      "num": 18059,
+      "word": "执笔",
+      "onboard_time": 1711050790,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 11074,
