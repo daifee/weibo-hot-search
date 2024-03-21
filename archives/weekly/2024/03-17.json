@@ -1,6 +1,6 @@
 {
   "startTime": 1710605970310,
-  "endTime": 1711031638174,
+  "endTime": 1711034316248,
   "band_list": [
     {
       "raw_hot": 11692231,
@@ -579,6 +579,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1571197,
+      "num": 1571197,
+      "word": "新加坡2比2国足",
+      "onboard_time": 1711031841,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1570552,
       "num": 1570552,
       "word": "李小冉 我没演过小时代",
@@ -947,6 +955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1281159,
+      "num": 1281159,
+      "word": "杜海涛 霍尊",
+      "onboard_time": 1711031000,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1275311,
       "num": 1275311,
       "word": "专家称今年刚需买房的人可以下手了",
@@ -1052,7 +1068,7 @@
     },
     {
       "raw_hot": 1214513,
-      "num": 513190,
+      "num": 534554,
       "word": "追风者 好大的尺度",
       "onboard_time": 1711027100,
       "rank": 42,
@@ -1905,6 +1921,14 @@
       "onboard_time": 1710732754,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 826080,
+      "num": 826080,
+      "word": "过度疲劳的表现",
+      "onboard_time": 1711032320,
+      "rank": 5,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 824409,
@@ -3067,6 +3091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 581311,
+      "num": 276091,
+      "word": "今晚别忘了早点睡",
+      "onboard_time": 1711032622,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 580914,
       "num": 580914,
       "word": "东航",
@@ -3425,6 +3457,14 @@
       "onboard_time": 1710916052,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 532138,
+      "num": 532138,
+      "word": "夏之光 感谢你们来看我",
+      "onboard_time": 1711032439,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 531958,
@@ -4097,6 +4137,14 @@
       "onboard_time": 1710659673,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 449029,
+      "num": 449029,
+      "word": "张琳芃失误",
+      "onboard_time": 1711032622,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 448838,
@@ -4931,6 +4979,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 374015,
+      "num": 374015,
+      "word": "为什么人类几乎不吃食肉动物的肉",
+      "onboard_time": 1711032139,
+      "rank": 17,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 372606,
       "num": 372606,
       "word": "花间令开始吓人了",
@@ -5043,12 +5099,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 362372,
-      "num": 362372,
-      "word": "杜海涛 霍尊",
-      "onboard_time": 1711031000,
-      "rank": 18,
-      "category": "作品衍生"
+      "raw_hot": 362912,
+      "num": 362912,
+      "word": "陈建斌回应成为著名歌手",
+      "onboard_time": 1711031541,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 360955,
@@ -7195,6 +7251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 237794,
+      "num": 237794,
+      "word": "神木警方通报8名未成年人殴打2人",
+      "onboard_time": 1711032021,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237695,
       "num": 237695,
       "word": "王阳好帅",
@@ -7849,6 +7913,14 @@
       "onboard_time": 1710658531,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 219732,
+      "num": 219732,
+      "word": "朱劲草被停职",
+      "onboard_time": 1711031781,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 219560,
@@ -8739,6 +8811,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 201168,
+      "num": 201168,
+      "word": "追风者爱奇艺热度破6000",
+      "onboard_time": 1711033340,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201139,
       "num": 201139,
       "word": "烈焰新浪扫楼",
@@ -9099,6 +9179,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 195877,
+      "num": 195877,
+      "word": "法越馨发了张艺兴",
+      "onboard_time": 1711032560,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195830,
       "num": 195830,
       "word": "塞尔达传说王国之泪 年度游戏",
@@ -9425,6 +9513,14 @@
       "onboard_time": 1711026740,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190961,
+      "num": 190961,
+      "word": "INFP能P到什么程度",
+      "onboard_time": 1711032200,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 190946,
@@ -10585,14 +10681,6 @@
       "onboard_time": 1710606632,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 171148,
-      "num": 171148,
-      "word": "陈建斌回应成为著名歌手",
-      "onboard_time": 1711031541,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 171116,
@@ -11795,6 +11883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151099,
+      "num": 151099,
+      "word": "国足4场不胜",
+      "onboard_time": 1711034061,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150872,
       "num": 150872,
       "word": "只有低血糖才懂的尴尬",
@@ -12201,6 +12297,14 @@
       "onboard_time": 1710842975,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 142579,
+      "num": 197384,
+      "word": "AI将让中国手机弯道超车",
+      "onboard_time": 1711032681,
+      "rank": 34,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 142563,
