@@ -1,6 +1,6 @@
 {
   "startTime": 1710951777162,
-  "endTime": 1711030579348,
+  "endTime": 1711031638174,
   "band_list": [
     {
       "raw_hot": 3011106,
@@ -91,6 +91,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1570552,
+      "num": 1570552,
+      "word": "李小冉 我没演过小时代",
+      "onboard_time": 1711026859,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1437127,
       "num": 649401,
       "word": "大学生胸部以下突然没知觉被同学送医",
@@ -115,12 +123,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1361193,
-      "num": 1361193,
-      "word": "李小冉 我没演过小时代",
-      "onboard_time": 1711026859,
-      "rank": 25,
-      "category": "作品衍生"
+      "raw_hot": 1412125,
+      "num": 1412125,
+      "word": "新加坡vs国足",
+      "onboard_time": 1711022720,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1327963,
+      "num": 1327963,
+      "word": "个人所得税收入下降",
+      "onboard_time": 1711029861,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 1257560,
@@ -171,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1214513,
+      "num": 513190,
+      "word": "追风者 好大的尺度",
+      "onboard_time": 1711027100,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1211993,
       "num": 1211993,
       "word": "沈璃行止圆房",
@@ -193,14 +217,6 @@
       "onboard_time": 1710966616,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1143113,
-      "num": 511563,
-      "word": "追风者 好大的尺度",
-      "onboard_time": 1711027100,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 1108881,
@@ -233,6 +249,14 @@
       "onboard_time": 1711007133,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1018381,
+      "num": 1018381,
+      "word": "国足被扳平",
+      "onboard_time": 1711030882,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1005119,
@@ -331,6 +355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 824409,
+      "num": 553034,
+      "word": "李荣浩纹身照是杨丞琳拍的",
+      "onboard_time": 1711025780,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 814243,
       "num": 560950,
       "word": "院方回应两名医学生先后自杀情况属实",
@@ -377,14 +409,6 @@
       "onboard_time": 1711021278,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 783941,
-      "num": 553034,
-      "word": "李荣浩纹身照是杨丞琳拍的",
-      "onboard_time": 1711025780,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 781469,
@@ -441,14 +465,6 @@
       "onboard_time": 1711024038,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 719751,
-      "num": 719751,
-      "word": "新加坡vs国足",
-      "onboard_time": 1711022720,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 717550,
@@ -643,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 560332,
+      "num": 560332,
+      "word": "杨幂吴磊同框",
+      "onboard_time": 1711029200,
+      "rank": 9,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 559944,
       "num": 559944,
       "word": "英诊所或因瞒报凯特隐私泄露收天价罚单",
@@ -715,14 +739,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 516120,
-      "num": 516120,
-      "word": "杨幂吴磊同框",
-      "onboard_time": 1711029200,
-      "rank": 9,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 510453,
       "num": 510453,
       "word": "市监巡查人员被螺蛳粉店增臭剂臭到咳嗽",
@@ -793,14 +809,6 @@
       "onboard_time": 1711002390,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 487349,
-      "num": 487349,
-      "word": "个人所得税收入下降",
-      "onboard_time": 1711029861,
-      "rank": 14,
-      "category": "财经"
     },
     {
       "raw_hot": 479958,
@@ -1035,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362372,
+      "num": 362372,
+      "word": "杜海涛 霍尊",
+      "onboard_time": 1711031000,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 356805,
       "num": 356805,
       "word": "电影红楼梦秦可卿造型引争议",
@@ -1147,6 +1163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 309355,
+      "num": 309355,
+      "word": "国足连丢2球",
+      "onboard_time": 1711031302,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308904,
       "num": 308904,
       "word": "珠帘玉幕",
@@ -1212,7 +1236,7 @@
     },
     {
       "raw_hot": 286543,
-      "num": 1220736,
+      "num": 1359468,
       "word": "花花与春天撞了个满怀",
       "onboard_time": 1711026620,
       "rank": 2,
@@ -1275,6 +1299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 278078,
+      "num": 278078,
+      "word": "颜骏凌站位",
+      "onboard_time": 1711029499,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 278075,
       "num": 482302,
       "word": "谈恋爱花的钱分手后要对方还吗",
@@ -1321,6 +1353,22 @@
       "onboard_time": 1711006879,
       "rank": 8,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 267558,
+      "num": 267558,
+      "word": "张琳芃担任国足队长",
+      "onboard_time": 1711009351,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 264365,
+      "num": 264365,
+      "word": "沈梦辰怎么又瘦了",
+      "onboard_time": 1711030521,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 262542,
@@ -1499,20 +1547,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233173,
+      "num": 233173,
+      "word": "张玉宁伤退",
+      "onboard_time": 1711031061,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231160,
       "num": 231160,
       "word": "周也 禾晏是天生的将星",
       "onboard_time": 1710996994,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231040,
-      "num": 231040,
-      "word": "颜骏凌站位",
-      "onboard_time": 1711029499,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 229466,
@@ -1673,6 +1721,14 @@
       "onboard_time": 1711015459,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 216833,
+      "num": 216833,
+      "word": "与凤行收视率",
+      "onboard_time": 1711031602,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 215496,
@@ -1883,14 +1939,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 201047,
-      "num": 201047,
-      "word": "张琳芃担任国足队长",
-      "onboard_time": 1711009351,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200993,
       "num": 200993,
       "word": "王一博哭戏",
@@ -1921,6 +1969,14 @@
       "onboard_time": 1710988470,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199438,
+      "num": 199438,
+      "word": "沈璃桃心发冠",
+      "onboard_time": 1711030641,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 199303,
@@ -2067,6 +2123,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 191816,
+      "num": 191816,
+      "word": "来来可爱",
+      "onboard_time": 1711030579,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191734,
       "num": 184135,
       "word": "国足打破进球荒",
@@ -2113,6 +2177,14 @@
       "onboard_time": 1711030280,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190244,
+      "num": 190244,
+      "word": "MBTI小行家",
+      "onboard_time": 1711030762,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 190103,
@@ -2168,6 +2240,14 @@
       "word": "追风者质感",
       "onboard_time": 1711024158,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186288,
+      "num": 186288,
+      "word": "沈璃吐槽行止",
+      "onboard_time": 1711031181,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -2345,6 +2425,22 @@
       "onboard_time": 1710983676,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171273,
+      "num": 171273,
+      "word": "一生就放纵这么一次",
+      "onboard_time": 1711031480,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 171148,
+      "num": 171148,
+      "word": "陈建斌回应成为著名歌手",
+      "onboard_time": 1711031541,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 170792,
@@ -2689,14 +2785,6 @@
       "onboard_time": 1710984388,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 144785,
-      "num": 144785,
-      "word": "沈梦辰怎么又瘦了",
-      "onboard_time": 1711030521,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 144407,
@@ -3517,6 +3605,9 @@
     },
     {
       "word": "#习近平总书记湖南行#"
+    },
+    {
+      "word": "#科技创新是发展新质生产力的核心要素#"
     }
   ]
 }
